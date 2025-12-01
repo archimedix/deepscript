@@ -208,7 +208,7 @@ Le istituzioni fondate o plasmate da Rockefeller continuano:
 - **Trilaterale**: Attiva con ~400 membri
 - **CFR**: Piu' influente che mai
 - **JPMorgan Chase**: $4 trilioni di asset
-- **Rockefeller Foundation**: Filantropia globale
+- **[Rockefeller Foundation](../istituzioni/rockefeller-foundation.md)**: Filantropia globale
 
 ---
 

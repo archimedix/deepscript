@@ -21,7 +21,7 @@
 
 | Anno | Evento |
 |------|--------|
-| **1978** | Fondazione su iniziativa Rockefeller Foundation |
+| **1978** | Fondazione su iniziativa [Rockefeller Foundation](rockefeller-foundation.md) |
 | **Fondatore** | Geoffrey Bell |
 | **Obiettivo** | Forum "informale" tra finanza pubblica e privata |
 | **Modello** | Discussione regolamentazione bancaria globale |
@@ -53,7 +53,7 @@
 | **Axel Weber** | Bundesbank | UBS |
 | **Lawrence Summers** | Tesoro USA | Hedge funds |
 | **Paul Volcker** | Federal Reserve | - |
-| **Timothy Geithner** | Tesoro USA, NY Fed | Warburg Pincus |
+| **Timothy Geithner** | Tesoro USA, NY Fed | [Warburg Pincus](warburg-pincus.md) |
 
 ### Il Pattern Goldman Sachs
 

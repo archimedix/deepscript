@@ -243,6 +243,7 @@ Questa citazione e' frequentemente usata in teorie cospirative, ma nel contesto 
 | Entita' | Relazione |
 |---------|-----------|
 | [Federal Reserve](../istituzioni/federal-reserve.md) | Paul Warburg architetto |
+| [Warburg Pincus](../istituzioni/warburg-pincus.md) | Eric Warburg fondatore (1938) |
 
 ### Eventi (da /eventi/)
 

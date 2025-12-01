@@ -198,7 +198,7 @@ JUNIUS JR.         HENRY STURGIS
 |---------|-----------|
 | [JPMorgan Chase](../istituzioni/jpmorgan-chase.md) | Erede istituzionale |
 | [Federal Reserve](../istituzioni/federal-reserve.md) | Architetti (Jekyll Island) |
-| Morgan Stanley | Spin-off 1935 |
+| [Morgan Stanley](../istituzioni/morgan-stanley.md) | Spin-off 1935, Henry Sturgis Morgan fondatore |
 
 ### Eventi (da /eventi/)
 

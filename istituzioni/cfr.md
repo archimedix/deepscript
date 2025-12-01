@@ -76,7 +76,7 @@ Il CFR nacque dalla frustrazione dell'elite americana per il rifiuto del Senato 
 | **James D. Taiclet** | CEO Lockheed Martin |
 | **William H. McRaven** | Ammiraglio in pensione, ex-comandante JSOC |
 | **Janet A. Napolitano** | Ex-Segretario Homeland Security |
-| **James P. Gorman** | Executive Chairman Morgan Stanley |
+| **James P. Gorman** | Executive Chairman [Morgan Stanley](morgan-stanley.md) |
 | **Kenneth I. Chenault** | Ex-CEO American Express |
 | **Meghan L. O'Sullivan** | Harvard, Chair Trilaterale Nord America |
 

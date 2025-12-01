@@ -32,7 +32,7 @@ deepscript/
 
 ### Schede esistenti
 
-#### Istituzioni (21)
+#### Istituzioni (24)
 - `aspen-institute.md` - Think tank transatlantico
 - `banca-mondiale.md` - Bretton Woods, veto USA, Washington Consensus
 - `bce.md` - Banca Centrale Europea
@@ -46,12 +46,15 @@ deepscript/
 - `goldman-sachs.md` - Investment bank "Government Sachs"
 - `gruppo-30.md` - Think tank banchieri centrali/privati
 - `jpmorgan-chase.md` - Maggiore banca USA
+- `morgan-stanley.md` - Spin-off Morgan 1935, eredita' dinastia Morgan
 - `nato.md` - Alleanza militare, SACEUR americano
 - `onu.md` - Consiglio Sicurezza, P5, potere di veto
 - `open-society.md` - Fondazioni Soros
 - `paypal-mafia.md` - Network Silicon Valley
+- `rockefeller-foundation.md` - $6B, filantropia strategica, Green Revolution
 - `state-street.md` - Terzo gestore patrimoniale
 - `vanguard.md` - Secondo gestore patrimoniale
+- `warburg-pincus.md` - $87B AUM, eredita' Warburg, Geithner
 - `wef.md` - World Economic Forum
 - `young-global-leaders.md` - Vivaio WEF per futuri leader under-40
 
@@ -475,14 +478,10 @@ FIGLIO1 FIGLIO2
 - [ ] Jacob Rothschild (1936-2024) — RIT Capital, 4° Barone
 - [ ] Sergio Marchionne (1952-2018) — CEO FCA, alleanza Fiat-Chrysler
 - [ ] Sam Walton (1918-1992) — Fondatore Walmart
-- [ ] Emmanuel Macron — Presidente Francia, ex-Rothschild banker
 
 **Istituzioni da aggiungere:**
 - [ ] SWIFT
 - [ ] Carlyle Group — Private equity, connessioni Bush/Powell
-- [ ] Warburg Pincus — $86B AUM, eredita' Warburg
-- [ ] Morgan Stanley — Spin-off 1935, eredita' Morgan
-- [ ] Rockefeller Foundation — $6B, filantropia strategica
 
 **Eventi da aggiungere:**
 - [ ] 1907 Panico bancario — J.P. Morgan salva il sistema, precursore Fed

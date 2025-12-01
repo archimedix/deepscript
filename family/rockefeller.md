@@ -142,7 +142,7 @@ RICCHEZZA PETROLIFERA (1870-1911)
 
 | Fondazione | Fondazione | Assets (2024) | Focus |
 |------------|------------|---------------|-------|
-| **Rockefeller Foundation** | 1913 | ~$6 miliardi | Salute, cibo, energia, equita' |
+| **[Rockefeller Foundation](../istituzioni/rockefeller-foundation.md)** | 1913 | ~$6 miliardi | Salute, cibo, energia, equita' |
 | **Rockefeller Brothers Fund** | 1940 | ~$1.4 miliardi | Democrazia, ambiente, pace |
 | **Rockefeller Family Fund** | 1967 | ~$200 milioni | Ambiente, responsabilita' aziendale |
 | **David Rockefeller Fund** | 1989 | ~$150 milioni | Arti, ambiente |
