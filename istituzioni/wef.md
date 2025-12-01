@@ -519,10 +519,20 @@ State Street       Energy, Finance
 
 ## Documenti Correlati
 
+### Istituzioni
+- [Young Global Leaders](young-global-leaders.md) - Programma WEF per leader under-40
 - [BlackRock - Profilo Completo](blackrock.md)
 - [Vanguard - Profilo Completo](vanguard.md)
 - [State Street - Profilo Completo](state-street.md)
 - [Big Three - Sintesi](big-three-sintesi.md)
+
+### Persone
+- [Klaus Schwab](../persone/klaus-schwab.md) - Fondatore WEF e YGL
+- [Tony Blair](../persone/tony-blair.md) - GLT 1992, Board Trustee
+- [Angela Merkel](../persone/angela-merkel.md) - GLT 1992, 12+ keynote Davos
+- [Emmanuel Macron](../persone/emmanuel-macron.md) - YGL 2016, keynote Davos
+- [Justin Trudeau](../persone/justin-trudeau.md) - YGL 2005, "penetriamo i gabinetti"
+- [Jacinda Ardern](../persone/jacinda-ardern.md) - YGL 2014
 
 ---
 

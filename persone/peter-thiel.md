@@ -264,6 +264,7 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | Entita' | Connessione |
 |---------|-------------|
 | [PayPal Mafia](../istituzioni/paypal-mafia.md) | Fondatore/"Capo" |
+| [Young Global Leaders](../istituzioni/young-global-leaders.md) | YGL 2007 |
 | [Bilderberg](../istituzioni/bilderberg-trilaterale.md) | Partecipante 2024 |
 
 ### Persone
@@ -271,7 +272,7 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | Persona | Relazione |
 |---------|-----------|
 | [Elon Musk](elon-musk.md) | Co-fondatore PayPal |
-| [Klaus Schwab](klaus-schwab.md) | Critico del WEF |
+| [Klaus Schwab](klaus-schwab.md) | Fondatore WEF/YGL |
 
 ---
 

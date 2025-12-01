@@ -130,6 +130,14 @@ Per evitare che il personale di servizio riconoscesse i potenti partecipanti:
 | [JPMorgan Chase](../istituzioni/jpmorgan-chase.md) | Erede di J.P. Morgan & Co. |
 | [CFR](../istituzioni/cfr.md) | Fondato 1921, stesso network |
 
+### Famiglie
+
+| Famiglia | Connessione |
+|----------|-------------|
+| [Famiglia Morgan](../family/morgan.md) | Davison e Strong rappresentavano J.P. Morgan |
+| [Famiglia Warburg](../family/warburg.md) | Paul Warburg, architetto intellettuale |
+| [Famiglia Rockefeller](../family/rockefeller.md) | Aldrich era suocero di JDR Jr., Vanderlip rappresentava interessi Rockefeller |
+
 ### Network
 
 ```

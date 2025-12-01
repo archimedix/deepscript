@@ -219,6 +219,8 @@
 | Entita' | Connessione |
 |---------|-------------|
 | [WEF](../istituzioni/wef.md) | Partecipante Davos |
+| [Young Global Leaders](../istituzioni/young-global-leaders.md) | YGL alumni |
+| [Bilderberg](../istituzioni/bilderberg-trilaterale.md) | Partecipante |
 
 ### Persone
 

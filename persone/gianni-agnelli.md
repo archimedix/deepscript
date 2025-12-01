@@ -174,6 +174,12 @@ JOHN ELKANN (erede)
 
 ## Connessioni PowerLink
 
+### Famiglia
+
+| Famiglia | Relazione |
+|----------|-----------|
+| [Famiglia Agnelli-Elkann](../family/agnelli-elkann.md) | 3a generazione, patriarca |
+
 ### Persone
 
 | Persona | Connessione |

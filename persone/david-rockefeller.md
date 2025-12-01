@@ -224,6 +224,12 @@ Le istituzioni fondate o plasmate da Rockefeller continuano:
 | [JPMorgan Chase](../istituzioni/jpmorgan-chase.md) | Chase Manhattan → fusione |
 | [Federal Reserve](../istituzioni/federal-reserve.md) | Influenza indiretta, Volcker |
 
+### Famiglia
+
+| Famiglia | Relazione |
+|----------|-----------|
+| [Famiglia Rockefeller](../family/rockefeller.md) | 3a generazione, figura centrale della dinastia |
+
 ### Persone
 
 | Persona | Relazione |

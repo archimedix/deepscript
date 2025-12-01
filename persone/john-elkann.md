@@ -169,6 +169,12 @@ JOHN ELKANN    Lapo Elkann
 
 ## Connessioni PowerLink
 
+### Famiglia
+
+| Famiglia | Relazione |
+|----------|-----------|
+| [Famiglia Agnelli-Elkann](../family/agnelli-elkann.md) | 4a generazione, capo famiglia attuale |
+
 ### Persone
 
 | Persona | Connessione |

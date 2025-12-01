@@ -25,13 +25,14 @@ deepscript/
 ├── istituzioni/        # Schede su organizzazioni e forum (20 schede)
 ├── persone/            # Profili biografici dei decisori (19 schede)
 ├── eventi/             # Snodi storici e decisioni chiave (13 schede)
+├── family/             # Dinastie e famiglie con continuita' transgenerazionale
 ├── connessioni/        # Mappe delle relazioni tra entita' (da creare)
 └── capitoli/           # Bozze dei capitoli del manuale (da creare)
 ```
 
 ### Schede esistenti
 
-#### Istituzioni (20)
+#### Istituzioni (21)
 - `aspen-institute.md` - Think tank transatlantico
 - `banca-mondiale.md` - Bretton Woods, veto USA, Washington Consensus
 - `bce.md` - Banca Centrale Europea
@@ -52,19 +53,24 @@ deepscript/
 - `state-street.md` - Terzo gestore patrimoniale
 - `vanguard.md` - Secondo gestore patrimoniale
 - `wef.md` - World Economic Forum
+- `young-global-leaders.md` - Vivaio WEF per futuri leader under-40
 
-#### Persone (19)
+#### Persone (24)
+- `angela-merkel.md` - Cancelliera Germania, GLT 1992, leader UE de facto
 - `bill-gates.md` - Microsoft, Gates Foundation
 - `christine-lagarde.md` - BCE, ex-FMI
 - `david-rockefeller.md` - Chase, CFR, Trilaterale
 - `elon-musk.md` - Tesla, SpaceX, X
+- `emmanuel-macron.md` - Presidente Francia, YGL 2016, ex-Rothschild
 - `george-soros.md` - Open Society
 - `gianni-agnelli.md` - FIAT, Bilderberg, Trilaterale, "Re d'Italia"
 - `henry-kissinger.md` - NSA, Segretario di Stato
+- `jacinda-ardern.md` - PM Nuova Zelanda, YGL 2014
 - `jamie-dimon.md` - JPMorgan Chase CEO
 - `jeff-bezos.md` - Amazon, Blue Origin
 - `jerome-powell.md` - Fed Chair, ex-Carlyle Group
 - `john-elkann.md` - EXOR, Stellantis, erede Agnelli
+- `justin-trudeau.md` - PM Canada, YGL 2005, "penetriamo i gabinetti"
 - `klaus-schwab.md` - WEF fondatore
 - `larry-fink.md` - BlackRock CEO
 - `mario-draghi.md` - BCE, Goldman, PM Italia
@@ -72,6 +78,7 @@ deepscript/
 - `peter-thiel.md` - PayPal, Palantir
 - `robert-rubin.md` - Goldman, Tesoro, CFR
 - `romano-prodi.md` - PM Italia, Commissione UE, Goldman advisor
+- `tony-blair.md` - PM UK, GLT 1992, Tony Blair Institute
 - `zbigniew-brzezinski.md` - Trilaterale, NSA Carter
 
 #### Eventi (13)
@@ -88,6 +95,17 @@ deepscript/
 - `2008-crisi-finanziaria.md` - Lehman, bailout
 - `2011-crisi-debito-sovrano.md` - Governo Monti
 - `2020-pandemia-great-reset.md` - COVID-19, WEF
+
+#### Famiglie/Dinastie (9)
+- `rothschild.md` - Dinastia bancaria europea, 8 generazioni, 3 rami attivi
+- `rockefeller.md` - Standard Oil → CFR, Trilaterale, governance globale
+- `agnelli-elkann.md` - FIAT → Stellantis, "Re d'Italia", Bilderberg
+- `morgan.md` - Architetti Federal Reserve, dinastia estinta, legacy JPMorgan
+- `warburg.md` - Architetti Federal Reserve, M.M. Warburg, Warburg Pincus
+- `bush.md` - Dinastia politica USA, 2 presidenti, CIA, declino
+- `walton.md` - Walmart, $432B, famiglia piu' ricca del mondo
+- `murdoch.md` - Media empire, Fox News, influenza conservatrice globale
+- `dupont.md` - Chimica, Delaware, dinastia dispersa (3,500+ membri)
 
 ---
 
@@ -209,13 +227,181 @@ deepscript/
 ## Fonti
 ```
 
+### Template per FAMIGLIE/DINASTIE
+
+```markdown
+# Famiglia [Nome] ([Paese d'origine])
+
+> [Tagline: essenza del potere dinastico esercitato]
+
+## Dati della Dinastia
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Origine** | [Paese, regione] |
+| **Fondatore** | [Nome, periodo] |
+| **Settore originario** | [Industria, finanza, terra...] |
+| **Generazioni documentate** | [Numero] |
+| **Patrimonio stimato** | [Attuale, se disponibile] |
+| **Status attuale** | [Attiva/In declino/Estinta] |
+
+---
+
+## Albero Genealogico
+
+[Usare diagramma ASCII o tabella per mostrare le generazioni]
+
+```
+FONDATORE (anni)
+    |
++---+---+
+|       |
+FIGLIO1 FIGLIO2
+    |
+   ...
+```
+
+---
+
+## Membri per Generazione
+
+### 1a Generazione - Fondatori
+| Nome | Anni | Ruolo | Potere Esercitato |
+|------|------|-------|-------------------|
+| | | | |
+
+### 2a Generazione - Consolidamento
+| Nome | Anni | Ruolo | Potere Esercitato |
+|------|------|-------|-------------------|
+| | | | |
+
+### 3a Generazione - [Espansione/Transizione]
+| Nome | Anni | Ruolo | Potere Esercitato |
+|------|------|-------|-------------------|
+| | | | |
+
+### Generazione Attuale
+| Nome | Anni | Ruolo | Status |
+|------|------|-------|--------|
+| | | | [Attivo/Ritirato/Deceduto] |
+
+---
+
+## Status dei Membri Viventi
+
+| Nome | Eta' | Posizione Attuale | Ruolo nella Famiglia |
+|------|------|-------------------|----------------------|
+| | | | [Capo famiglia/Erede/Ramo cadetto] |
+
+---
+
+## Veicoli del Potere
+
+### Aziende e Holding
+| Entita' | Settore | Controllo | Fondazione |
+|---------|---------|-----------|------------|
+| | | | |
+
+### Fondazioni e Filantropia
+| Fondazione | Focus | AUM/Budget | Influenza |
+|------------|-------|------------|-----------|
+| | | | |
+
+### Partecipazioni in Forum
+| Forum | Membri della famiglia | Periodo |
+|-------|----------------------|---------|
+| Bilderberg | | |
+| Trilaterale | | |
+| CFR | | |
+| WEF | | |
+
+---
+
+## Meccanismi di Successione
+
+| Aspetto | Come Funziona |
+|---------|---------------|
+| **Selezione erede** | [Primogenitura/Merito/Designazione] |
+| **Formazione eredi** | [Universita', apprendistato] |
+| **Strutture legali** | [Trust, holding, fondazioni] |
+| **Conflitti successori** | [Documentare se presenti] |
+
+---
+
+## Rete di Alleanze
+
+### Matrimoni Strategici
+| Membro | Coniuge | Famiglia del coniuge | Effetto |
+|--------|---------|---------------------|---------|
+| | | | |
+
+### Alleanze con Altre Dinastie
+| Famiglia | Tipo di Alleanza | Periodo |
+|----------|------------------|---------|
+| | | |
+
+---
+
+## Influenza Politica
+
+| Paese | Tipo di Influenza | Periodo | Figure Chiave |
+|-------|-------------------|---------|---------------|
+| | [Diretta/Indiretta/Finanziamento] | | |
+
+---
+
+## Connessioni PowerLink
+
+### Persone
+[Link a schede individuali in /persone/]
+
+### Istituzioni
+[Link a schede in /istituzioni/]
+
+### Eventi
+[Link a snodi storici in /eventi/]
+
+---
+
+## Timeline Dinastica
+
+| Anno | Evento | Generazione |
+|------|--------|-------------|
+| | | |
+
+---
+
+## Controversie e Critiche
+
+| Tema | Periodo | Dettaglio |
+|------|---------|-----------|
+| | | |
+
+---
+
+## Domande Aperte
+
+- [ ] [Domande sulla continuita' del potere]
+- [ ] [Domande su eredi e successione]
+- [ ] [Domande su patrimonio reale]
+
+---
+
+## Fonti
+
+### Archivi familiari
+### Biografie
+### Giornalismo investigativo
+### Documenti societari
+```
+
 ---
 
 ## Metodologia di ricerca
 
 ### Quando cerchi informazioni su un nuovo soggetto:
 
-1. **Identifica il tipo**: E' un'istituzione, una persona, o un evento?
+1. **Identifica il tipo**: E' un'istituzione, una persona, un evento, o una famiglia/dinastia?
 
 2. **Cerca le connessioni PRIMA dei dettagli**:
    - In quali forum appare? (Bilderberg, Trilaterale, WEF, Aspen, CFR...)
@@ -280,11 +466,35 @@ deepscript/
 - [ ] Janet Yellen (Tesoro, ex-Fed)
 - [ ] Mark Zuckerberg (Meta)
 - [ ] Enrico Letta (PD, Sciences Po)
-- [ ] Paul Volcker (ex-Fed Chair)
+- [ ] Paul Volcker (ex-Fed Chair) — protetto Rockefeller
 - [ ] Alan Greenspan (ex-Fed Chair)
+- [ ] J. Pierpont Morgan (1837-1913) — architetto Fed, creo' US Steel/GE
+- [ ] Nelson Rockefeller (1908-1979) — VP USA, Governatore NY
+- [ ] George H.W. Bush (1924-2018) — Presidente, CIA Director
+- [ ] George W. Bush (1946-) — Presidente, Guerra Iraq
+- [ ] Jacob Rothschild (1936-2024) — RIT Capital, 4° Barone
+- [ ] Sergio Marchionne (1952-2018) — CEO FCA, alleanza Fiat-Chrysler
+- [ ] Sam Walton (1918-1992) — Fondatore Walmart
+- [ ] Emmanuel Macron — Presidente Francia, ex-Rothschild banker
 
 **Istituzioni da aggiungere:**
 - [ ] SWIFT
+- [ ] Carlyle Group — Private equity, connessioni Bush/Powell
+- [ ] Warburg Pincus — $86B AUM, eredita' Warburg
+- [ ] Morgan Stanley — Spin-off 1935, eredita' Morgan
+- [ ] Rockefeller Foundation — $6B, filantropia strategica
+
+**Eventi da aggiungere:**
+- [ ] 1907 Panico bancario — J.P. Morgan salva il sistema, precursore Fed
+- [ ] 1911 Antitrust Standard Oil — Spezzata in 34 compagnie
+- [ ] 1933 Glass-Steagall Act — Separazione banche, fine era Morgan
+- [ ] 1980 Scissione Rothschild UK — Jacob vs Evelyn, nascita RIT
+- [ ] 2000 Fusione Chase-JPMorgan — Unione dinastie Morgan-Rockefeller
+- [ ] 2021 Creazione Stellantis — FCA + PSA, John Elkann architetto
+
+**Famiglie da aggiungere:**
+- [ ] Koch (USA) — Petrolio, finanziamento politico conservatore
+- [ ] Pritzker (USA) — Hyatt, politica Illinois, Penny Pritzker
 
 ---
 

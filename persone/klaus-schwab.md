@@ -210,6 +210,7 @@ Critiche al programma YGL:
 | Entita' | Connessione |
 |---------|-------------|
 | [WEF](../istituzioni/wef.md) | Fondatore e Chairman (54 anni) |
+| [Young Global Leaders](../istituzioni/young-global-leaders.md) | Fondatore (1992/2004) |
 | [Bilderberg](../istituzioni/bilderberg-trilaterale.md) | Partecipante, network condiviso |
 | [Trilaterale](../istituzioni/bilderberg-trilaterale.md) | Network |
 | [BlackRock](../istituzioni/blackrock.md) | Larry Fink Co-Chair WEF |
@@ -222,6 +223,11 @@ Critiche al programma YGL:
 | [Larry Fink](larry-fink.md) | Co-Chairman WEF |
 | [David Rockefeller](david-rockefeller.md) | Network (via Kissinger) |
 | [Mario Draghi](mario-draghi.md) | Partecipante Davos |
+| [Tony Blair](tony-blair.md) | GLT 1992, Board Trustee |
+| [Angela Merkel](angela-merkel.md) | GLT 1992, 12+ keynote |
+| [Emmanuel Macron](emmanuel-macron.md) | YGL 2016, "penetriamo i gabinetti" |
+| [Justin Trudeau](justin-trudeau.md) | YGL 2005 |
+| [Jacinda Ardern](jacinda-ardern.md) | YGL 2014 |
 | [Peter Thiel](peter-thiel.md) | Young Global Leader |
 | [Elon Musk](elon-musk.md) | Partecipante Davos (critico) |
 

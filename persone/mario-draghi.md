@@ -267,6 +267,8 @@ Lettera riservata firmata da Trichet e Draghi a Berlusconi:
 
 | Persona | Relazione |
 |---------|-----------|
+| [Angela Merkel](angela-merkel.md) | Partner crisi euro, "whatever it takes" |
+| [Emmanuel Macron](emmanuel-macron.md) | Trattato del Quirinale |
 | [Larry Fink](larry-fink.md) | Network WEF/finanza |
 | [Klaus Schwab](klaus-schwab.md) | WEF |
 | [Henry Kissinger](henry-kissinger.md) | Network |

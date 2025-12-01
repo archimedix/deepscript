@@ -93,6 +93,7 @@
 |----------------|-------|---------|
 | **Bilderberg** | Steering Committee | Anni '80 |
 | **Bilderberg** | Partecipante | 1999 (pre-Commissione) |
+| **Aspen Institute Italia** | Membro | |
 | Club de Madrid | Membro | |
 
 ### La Partecipazione Bilderberg
@@ -169,6 +170,7 @@
 
 | Persona | Connessione |
 |---------|-------------|
+| [Tony Blair](tony-blair.md) | Partner "Third Way", sostenne candidatura Commissione UE |
 | [Mario Draghi](mario-draghi.md) | Successore visione europeista |
 | [Mario Monti](mario-monti.md) | Network Commissione UE |
 | [Robert Rubin](robert-rubin.md) | Goldman Sachs network |
@@ -179,6 +181,7 @@
 |---------|-----------|
 | [Bilderberg](../istituzioni/bilderberg-trilaterale.md) | Ex-Steering Committee |
 | [Goldman Sachs](../istituzioni/goldman-sachs.md) | Senior Advisor 1990-93 |
+| [Aspen Institute](../istituzioni/aspen-institute.md) | Membro |
 | [BCE](../istituzioni/bce.md) | Creo' condizioni per euro |
 | IRI | Presidente, privatizzatore |
 

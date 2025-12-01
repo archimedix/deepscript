@@ -165,6 +165,12 @@
 | The Carlyle Group | Ex-partner |
 | [Goldman Sachs](../istituzioni/goldman-sachs.md) | Network Wall Street |
 
+### Famiglie
+
+| Famiglia | Connessione |
+|----------|-------------|
+| [Famiglia Bush](../family/bush.md) | George H.W. Bush senior advisor Carlyle (stesso periodo di Powell) |
+
 ### Network
 
 ```

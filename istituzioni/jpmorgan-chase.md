@@ -305,11 +305,19 @@ J.P. MORGAN & CO.    │         CHASE MANHATTAN
 
 ## Documenti Correlati
 
+### Istituzioni
 - [Federal Reserve](federal-reserve.md) - J.P. Morgan architetto
 - [Goldman Sachs](goldman-sachs.md) - Rivale storico
 - [Bilderberg e Trilaterale](bilderberg-trilaterale.md) - David Rockefeller
 - [CFR](cfr.md) - David Rockefeller Chairman
 - [BlackRock](blackrock.md) - Competizione AWM
+
+### Famiglie
+- [Famiglia Morgan](../family/morgan.md) - Dinastia fondatrice, architetti della Fed
+- [Famiglia Rockefeller](../family/rockefeller.md) - Chase Manhattan, fusione 2000
+
+### Eventi
+- [Jekyll Island 1910](../eventi/1910-jekyll-island.md) - Uomini Morgan progettarono la Fed
 
 ---
 
