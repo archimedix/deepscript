@@ -1,0 +1,733 @@
+# DeepScript Index - Schema normalizzato
+# Principio: ogni informazione in un solo posto
+# Ultimo aggiornamento: 2025-12-01
+
+meta:
+  versione: 2
+  aggiornato: 2025-12-01
+  note: "Le affiliazioni sono la SINGOLA fonte di verita' per le membership"
+
+# =============================================================================
+# PERSONE
+# =============================================================================
+
+persone:
+  david-rockefeller:
+    file: persone/david-rockefeller.md
+    nato: 1915
+    morto: 2017
+    naz: USA
+    famiglia: rockefeller
+    affiliazioni:
+      - {org: chase-manhattan, ruolo: ceo, dal: 1969, al: 1981}
+      - {org: cfr, ruolo: chairman, dal: 1970, al: 1985}
+      - {org: trilaterale, ruolo: fondatore-chairman, dal: 1973}
+      - {org: bilderberg, ruolo: steering}
+
+  henry-kissinger:
+    file: persone/henry-kissinger.md
+    nato: 1923
+    morto: 2023
+    naz: USA
+    affiliazioni:
+      - {org: nsa, ruolo: consigliere, dal: 1969, al: 1975}
+      - {org: stato-usa, ruolo: segretario, dal: 1973, al: 1977}
+      - {org: cfr, ruolo: membro}
+      - {org: trilaterale, ruolo: steering}
+      - {org: bilderberg, ruolo: partecipante}
+
+  zbigniew-brzezinski:
+    file: persone/zbigniew-brzezinski.md
+    nato: 1928
+    morto: 2017
+    naz: USA
+    affiliazioni:
+      - {org: trilaterale, ruolo: fondatore-direttore, dal: 1973}
+      - {org: nsa, ruolo: consigliere, dal: 1977, al: 1981}
+      - {org: cfr, ruolo: membro}
+
+  klaus-schwab:
+    file: persone/klaus-schwab.md
+    nato: 1938
+    naz: DEU
+    affiliazioni:
+      - {org: wef, ruolo: fondatore-chairman, dal: 1971}
+      - {org: bilderberg, ruolo: partecipante}
+
+  george-soros:
+    file: persone/george-soros.md
+    nato: 1930
+    naz: USA
+    affiliazioni:
+      - {org: open-society, ruolo: fondatore, dal: 1993}
+      - {org: wef, ruolo: partecipante}
+
+  larry-fink:
+    file: persone/larry-fink.md
+    nato: 1952
+    naz: USA
+    affiliazioni:
+      - {org: blackrock, ruolo: ceo-fondatore, dal: 1988}
+      - {org: wef, ruolo: co-chairman}
+      - {org: trilaterale, ruolo: membro}
+      - {org: cfr, ruolo: steering}
+
+  robert-rubin:
+    file: persone/robert-rubin.md
+    nato: 1938
+    naz: USA
+    affiliazioni:
+      - {org: goldman-sachs, ruolo: co-chairman, dal: 1990, al: 1992}
+      - {org: tesoro-usa, ruolo: segretario, dal: 1995, al: 1999}
+      - {org: citigroup, ruolo: senior-advisor, dal: 1999}
+      - {org: cfr, ruolo: co-chairman}
+
+  jamie-dimon:
+    file: persone/jamie-dimon.md
+    nato: 1956
+    naz: USA
+    affiliazioni:
+      - {org: jpmorgan-chase, ruolo: ceo, dal: 2005}
+      - {org: federal-reserve-ny, ruolo: board}
+
+  jerome-powell:
+    file: persone/jerome-powell.md
+    nato: 1953
+    naz: USA
+    affiliazioni:
+      - {org: carlyle-group, ruolo: partner, dal: 1997, al: 2005}
+      - {org: federal-reserve, ruolo: chairman, dal: 2018}
+
+  christine-lagarde:
+    file: persone/christine-lagarde.md
+    nato: 1956
+    naz: FRA
+    affiliazioni:
+      - {org: fmi, ruolo: direttore, dal: 2011, al: 2019}
+      - {org: bce, ruolo: presidente, dal: 2019}
+      - {org: bilderberg, ruolo: partecipante}
+      - {org: trilaterale, ruolo: membro}
+
+  # --- Tecnocrati italiani ---
+
+  mario-draghi:
+    file: persone/mario-draghi.md
+    nato: 1947
+    naz: ITA
+    affiliazioni:
+      - {org: goldman-sachs, ruolo: vice-chairman, dal: 2002, al: 2005}
+      - {org: banca-italia, ruolo: governatore, dal: 2006, al: 2011}
+      - {org: bce, ruolo: presidente, dal: 2011, al: 2019}
+      - {org: governo-italia, ruolo: pm, dal: 2021, al: 2022}
+      - {org: bilderberg, ruolo: partecipante}
+      - {org: wef, ruolo: partecipante}
+      - {org: gruppo-30, ruolo: membro}
+
+  mario-monti:
+    file: persone/mario-monti.md
+    nato: 1943
+    naz: ITA
+    affiliazioni:
+      - {org: commissione-ue, ruolo: commissario, dal: 1995, al: 2004}
+      - {org: goldman-sachs, ruolo: advisor, dal: 2005, al: 2011}
+      - {org: governo-italia, ruolo: pm, dal: 2011, al: 2013}
+      - {org: bilderberg, ruolo: steering}
+      - {org: trilaterale, ruolo: chairman-europe, dal: 2010}
+      - {org: wef, ruolo: partecipante}
+      - {org: aspen-institute, ruolo: membro}
+
+  romano-prodi:
+    file: persone/romano-prodi.md
+    nato: 1939
+    naz: ITA
+    affiliazioni:
+      - {org: governo-italia, ruolo: pm, dal: 1996, al: 1998}
+      - {org: commissione-ue, ruolo: presidente, dal: 1999, al: 2004}
+      - {org: governo-italia, ruolo: pm, dal: 2006, al: 2008}
+      - {org: goldman-sachs, ruolo: advisor}
+      - {org: bilderberg, ruolo: steering}
+      - {org: aspen-institute, ruolo: membro}
+
+  gianni-agnelli:
+    file: persone/gianni-agnelli.md
+    nato: 1921
+    morto: 2003
+    naz: ITA
+    famiglia: agnelli-elkann
+    affiliazioni:
+      - {org: fiat, ruolo: presidente, dal: 1966, al: 1996}
+      - {org: bilderberg, ruolo: steering}
+      - {org: trilaterale, ruolo: membro}
+      - {org: chase-manhattan, ruolo: board}
+
+  john-elkann:
+    file: persone/john-elkann.md
+    nato: 1976
+    naz: ITA
+    famiglia: agnelli-elkann
+    affiliazioni:
+      - {org: exor, ruolo: ceo, dal: 2004}
+      - {org: stellantis, ruolo: chairman, dal: 2021}
+      - {org: bilderberg, ruolo: steering}
+      - {org: aspen-institute, ruolo: vice-presidente}
+      - {org: economist, ruolo: chairman, dal: 2009}
+
+  # --- Leader politici (YGL/GLT) ---
+
+  tony-blair:
+    file: persone/tony-blair.md
+    nato: 1953
+    naz: GBR
+    affiliazioni:
+      - {org: governo-uk, ruolo: pm, dal: 1997, al: 2007}
+      - {org: wef, ruolo: glt, dal: 1992}
+      - {org: jpmorgan-chase, ruolo: advisor, dal: 2008}
+
+  angela-merkel:
+    file: persone/angela-merkel.md
+    nato: 1954
+    naz: DEU
+    affiliazioni:
+      - {org: governo-germania, ruolo: cancelliera, dal: 2005, al: 2021}
+      - {org: wef, ruolo: glt, dal: 1992}
+
+  emmanuel-macron:
+    file: persone/emmanuel-macron.md
+    nato: 1977
+    naz: FRA
+    affiliazioni:
+      - {org: rothschild-cie, ruolo: banchiere, dal: 2008, al: 2012}
+      - {org: governo-francia, ruolo: presidente, dal: 2017}
+      - {org: wef, ruolo: ygl, dal: 2016}
+      - {org: bilderberg, ruolo: partecipante, dal: 2014}
+
+  justin-trudeau:
+    file: persone/justin-trudeau.md
+    nato: 1971
+    naz: CAN
+    affiliazioni:
+      - {org: governo-canada, ruolo: pm, dal: 2015}
+      - {org: wef, ruolo: ygl, dal: 2005}
+
+  jacinda-ardern:
+    file: persone/jacinda-ardern.md
+    nato: 1980
+    naz: NZL
+    affiliazioni:
+      - {org: governo-nz, ruolo: pm, dal: 2017, al: 2023}
+      - {org: wef, ruolo: ygl, dal: 2014}
+
+  # --- Tech ---
+
+  bill-gates:
+    file: persone/bill-gates.md
+    nato: 1955
+    naz: USA
+    affiliazioni:
+      - {org: microsoft, ruolo: fondatore-ceo, dal: 1975, al: 2000}
+      - {org: gates-foundation, ruolo: co-chair, dal: 2000}
+      - {org: bilderberg, ruolo: partecipante}
+      - {org: wef, ruolo: partecipante}
+
+  jeff-bezos:
+    file: persone/jeff-bezos.md
+    nato: 1964
+    naz: USA
+    affiliazioni:
+      - {org: amazon, ruolo: fondatore-ceo, dal: 1994, al: 2021}
+      - {org: amazon, ruolo: executive-chairman, dal: 2021}
+      - {org: blue-origin, ruolo: fondatore, dal: 2000}
+      - {org: washington-post, ruolo: proprietario, dal: 2013}
+
+  elon-musk:
+    file: persone/elon-musk.md
+    nato: 1971
+    naz: USA
+    affiliazioni:
+      - {org: paypal, ruolo: co-fondatore, dal: 1999, al: 2002}
+      - {org: tesla, ruolo: ceo, dal: 2008}
+      - {org: spacex, ruolo: fondatore-ceo, dal: 2002}
+      - {org: x-twitter, ruolo: proprietario, dal: 2022}
+
+  peter-thiel:
+    file: persone/peter-thiel.md
+    nato: 1967
+    naz: USA
+    affiliazioni:
+      - {org: paypal, ruolo: co-fondatore, dal: 1998, al: 2002}
+      - {org: palantir, ruolo: co-fondatore, dal: 2003}
+      - {org: founders-fund, ruolo: partner, dal: 2005}
+      - {org: wef, ruolo: ygl, dal: 2007}
+      - {org: bilderberg, ruolo: partecipante, dal: 2024}
+
+# =============================================================================
+# ISTITUZIONI
+# =============================================================================
+
+istituzioni:
+  # --- Forum elite ---
+  bilderberg:
+    file: istituzioni/bilderberg-trilaterale.md
+    fondato: 1954
+    tipo: forum
+    sede: null
+    tags: [elite, transatlantico, invito-only]
+
+  trilaterale:
+    file: istituzioni/bilderberg-trilaterale.md
+    fondato: 1973
+    tipo: forum
+    sede: Washington/Tokyo/Paris
+    tags: [elite, usa-europa-asia, rockefeller]
+
+  wef:
+    file: istituzioni/wef.md
+    fondato: 1971
+    tipo: forum
+    sede: Ginevra
+    tags: [davos, stakeholder-capitalism, schwab]
+
+  young-global-leaders:
+    file: istituzioni/young-global-leaders.md
+    fondato: 1992
+    tipo: programma
+    parent: wef
+    tags: [under-40, vivaio, pipeline]
+
+  # --- Think tank ---
+  cfr:
+    file: istituzioni/cfr.md
+    fondato: 1921
+    tipo: think-tank
+    sede: New York
+    tags: [foreign-policy, establishment-usa]
+
+  aspen-institute:
+    file: istituzioni/aspen-institute.md
+    fondato: 1950
+    tipo: think-tank
+    sede: Washington
+    tags: [transatlantico, leadership]
+
+  gruppo-30:
+    file: istituzioni/gruppo-30.md
+    fondato: 1978
+    tipo: think-tank
+    sede: Washington
+    tags: [banchieri-centrali, policy]
+
+  # --- Wall Street ---
+  goldman-sachs:
+    file: istituzioni/goldman-sachs.md
+    fondato: 1869
+    tipo: investment-bank
+    sede: New York
+    tags: [wall-street, revolving-door, government-sachs]
+
+  jpmorgan-chase:
+    file: istituzioni/jpmorgan-chase.md
+    fondato: 2000
+    tipo: bank
+    sede: New York
+    tags: [too-big-to-fail, morgan-rockefeller]
+    predecessori: [chase-manhattan, jpmorgan]
+
+  morgan-stanley:
+    file: istituzioni/morgan-stanley.md
+    fondato: 1935
+    tipo: investment-bank
+    sede: New York
+    tags: [morgan-legacy, glass-steagall]
+
+  # --- Asset managers (Big Three) ---
+  blackrock:
+    file: istituzioni/blackrock.md
+    fondato: 1988
+    tipo: asset-manager
+    sede: New York
+    aum: "10T+"
+    tags: [big-three, fink]
+
+  vanguard:
+    file: istituzioni/vanguard.md
+    fondato: 1975
+    tipo: asset-manager
+    sede: Pennsylvania
+    aum: "8T+"
+    tags: [big-three, index-funds]
+
+  state-street:
+    file: istituzioni/state-street.md
+    fondato: 1792
+    tipo: asset-manager
+    sede: Boston
+    aum: "4T+"
+    tags: [big-three, custodian]
+
+  # --- Banche centrali ---
+  federal-reserve:
+    file: istituzioni/federal-reserve.md
+    fondato: 1913
+    tipo: central-bank
+    sede: Washington
+    tags: [dollaro, politica-monetaria, jekyll-island]
+
+  bce:
+    file: istituzioni/bce.md
+    fondato: 1998
+    tipo: central-bank
+    sede: Francoforte
+    tags: [euro, politica-monetaria]
+
+  bis:
+    file: istituzioni/bis.md
+    fondato: 1930
+    tipo: central-bank
+    sede: Basilea
+    tags: [banca-delle-banche-centrali]
+
+  # --- Bretton Woods ---
+  fmi:
+    file: istituzioni/fmi.md
+    fondato: 1944
+    tipo: istituzione-finanziaria
+    sede: Washington
+    tags: [bretton-woods, austerity, washington-consensus]
+
+  banca-mondiale:
+    file: istituzioni/banca-mondiale.md
+    fondato: 1944
+    tipo: istituzione-finanziaria
+    sede: Washington
+    tags: [bretton-woods, sviluppo]
+
+  # --- Organizzazioni internazionali ---
+  onu:
+    file: istituzioni/onu.md
+    fondato: 1945
+    tipo: organizzazione-internazionale
+    sede: New York
+    tags: [p5, veto, consiglio-sicurezza]
+
+  nato:
+    file: istituzioni/nato.md
+    fondato: 1949
+    tipo: alleanza-militare
+    sede: Bruxelles
+    tags: [transatlantico, saceur-usa]
+
+  # --- Fondazioni ---
+  open-society:
+    file: istituzioni/open-society.md
+    fondato: 1993
+    tipo: fondazione
+    sede: New York
+    tags: [soros, filantropia, societa-aperta]
+
+  rockefeller-foundation:
+    file: istituzioni/rockefeller-foundation.md
+    fondato: 1913
+    tipo: fondazione
+    sede: New York
+    tags: [filantropia, green-revolution, rockefeller]
+
+  # --- Private equity ---
+  warburg-pincus:
+    file: istituzioni/warburg-pincus.md
+    fondato: 1966
+    tipo: private-equity
+    sede: New York
+    tags: [warburg-legacy, geithner]
+
+  # --- Network ---
+  paypal-mafia:
+    file: istituzioni/paypal-mafia.md
+    fondato: 1998
+    tipo: network
+    sede: Silicon Valley
+    tags: [tech, thiel, musk]
+
+# =============================================================================
+# EVENTI
+# =============================================================================
+
+eventi:
+  1910-jekyll-island:
+    file: eventi/1910-jekyll-island.md
+    anno: 1910
+    tipo: riunione-segreta
+    luogo: Georgia
+    protagonisti: [jp-morgan, warburg, rockefeller]
+    risultato: federal-reserve
+
+  1944-bretton-woods:
+    file: eventi/1944-bretton-woods.md
+    anno: 1944
+    tipo: conferenza
+    luogo: New Hampshire
+    risultato: [fmi, banca-mondiale, dollaro-oro]
+
+  1971-fine-bretton-woods:
+    file: eventi/1971-fine-bretton-woods.md
+    anno: 1971
+    tipo: decisione
+    luogo: USA
+    protagonisti: [nixon, connally]
+    risultato: fiat-money
+
+  1973-crisi-petrolifera:
+    file: eventi/1973-crisi-petrolifera.md
+    anno: 1973
+    tipo: crisi
+    luogo: globale
+    risultato: petrodollaro
+
+  1973-fondazione-trilaterale:
+    file: eventi/1973-fondazione-trilaterale.md
+    anno: 1973
+    tipo: fondazione
+    protagonisti: [david-rockefeller, zbigniew-brzezinski]
+    risultato: trilaterale
+
+  1991-dissoluzione-urss:
+    file: eventi/1991-dissoluzione-urss.md
+    anno: 1991
+    tipo: evento-storico
+    luogo: URSS
+    risultato: [fine-guerra-fredda, oligarchi, unipolarismo]
+
+  1992-tangentopoli:
+    file: eventi/1992-tangentopoli.md
+    anno: 1992
+    tipo: crisi-politica
+    luogo: Italia
+    risultato: fine-prima-repubblica
+
+  1992-trattato-maastricht:
+    file: eventi/1992-trattato-maastricht.md
+    anno: 1992
+    tipo: trattato
+    luogo: Paesi Bassi
+    risultato: [unione-europea, euro]
+
+  1999-abolizione-glass-steagall:
+    file: eventi/1999-abolizione-glass-steagall.md
+    anno: 1999
+    tipo: deregulation
+    luogo: USA
+    protagonisti: [robert-rubin, clinton, greenspan]
+    risultato: too-big-to-fail
+
+  2001-11-settembre:
+    file: eventi/2001-11-settembre.md
+    anno: 2001
+    tipo: attacco
+    luogo: USA
+    risultato: [war-on-terror, patriot-act, sorveglianza]
+
+  2008-crisi-finanziaria:
+    file: eventi/2008-crisi-finanziaria.md
+    anno: 2008
+    tipo: crisi
+    luogo: globale
+    protagonisti: [paulson, bernanke, geithner]
+    risultato: [bailout, quantitative-easing]
+
+  2011-crisi-debito-sovrano:
+    file: eventi/2011-crisi-debito-sovrano.md
+    anno: 2011
+    tipo: crisi
+    luogo: Europa
+    protagonisti: [mario-draghi, mario-monti, angela-merkel]
+    risultato: governi-tecnici
+
+  2020-pandemia-great-reset:
+    file: eventi/2020-pandemia-great-reset.md
+    anno: 2020
+    tipo: crisi
+    luogo: globale
+    protagonisti: [klaus-schwab]
+    risultato: great-reset
+
+# =============================================================================
+# FAMIGLIE/DINASTIE
+# =============================================================================
+
+famiglie:
+  rockefeller:
+    file: family/rockefeller.md
+    origine: USA
+    fondatore: John D. Rockefeller Sr.
+    settore_originario: petrolio
+    generazioni: 6
+    status: attiva
+    veicoli: [standard-oil, chase-manhattan, rockefeller-foundation]
+    membri:
+      - {nome: john-d-sr, gen: 1, nato: 1839, morto: 1937, ruolo: fondatore}
+      - {nome: john-d-jr, gen: 2, nato: 1874, morto: 1960, ruolo: filantropia}
+      - {nome: john-d-iii, gen: 3, nato: 1906, morto: 1978, ruolo: filantropia}
+      - {nome: nelson, gen: 3, nato: 1908, morto: 1979, ruolo: vp-usa}
+      - {nome: laurance, gen: 3, nato: 1910, morto: 2004, ruolo: venture-capital}
+      - {nome: winthrop, gen: 3, nato: 1912, morto: 1973, ruolo: governatore-arkansas}
+      - {nome: david-rockefeller, gen: 3, nato: 1915, morto: 2017, ruolo: cfr-trilaterale, scheda: true}
+      - {nome: jay-iv, gen: 4, nato: 1937, ruolo: senatore}
+      - {nome: david-jr, gen: 4, nato: 1941, ruolo: chairman-rockefeller-co}
+
+  rothschild:
+    file: family/rothschild.md
+    origine: Germania
+    fondatore: Mayer Amschel Rothschild
+    settore_originario: banca
+    generazioni: 8
+    status: attiva
+    rami: [londra, parigi, svizzera]
+    membri:
+      - {nome: mayer-amschel, gen: 1, nato: 1744, morto: 1812, ruolo: fondatore}
+      - {nome: nathan-mayer, gen: 2, nato: 1777, morto: 1836, ruolo: ramo-londra}
+      - {nome: james-mayer, gen: 2, nato: 1792, morto: 1868, ruolo: ramo-parigi}
+      - {nome: lionel, gen: 3, nato: 1808, morto: 1879, ruolo: primo-ebreo-parlamento-uk}
+      - {nome: victor, gen: 5, nato: 1910, morto: 1990, ruolo: 3-barone}
+      - {nome: jacob, gen: 6, nato: 1936, morto: 2024, ruolo: 4-barone-rit}
+      - {nome: evelyn, gen: 6, nato: 1931, morto: 2022, ruolo: chairman-nm-rothschild}
+      - {nome: david-de-rothschild, gen: 6, nato: 1942, ruolo: chairman-rothschild-co}
+      - {nome: nat, gen: 7, nato: 1971, ruolo: 5-barone}
+      - {nome: alexandre, gen: 7, nato: 1980, ruolo: exec-chairman-rothschild-co}
+
+  morgan:
+    file: family/morgan.md
+    origine: USA
+    fondatore: Junius Spencer Morgan
+    settore_originario: banca
+    generazioni: 4
+    status: estinta
+    legacy: [jpmorgan-chase, morgan-stanley]
+    membri:
+      - {nome: junius-spencer, gen: 1, nato: 1813, morto: 1890, ruolo: fondatore}
+      - {nome: j-pierpont, gen: 2, nato: 1837, morto: 1913, ruolo: il-banchiere}
+      - {nome: jp-jr-jack, gen: 3, nato: 1867, morto: 1943, ruolo: senior-partner}
+      - {nome: henry-sturgis, gen: 4, nato: 1900, morto: 1982, ruolo: fondatore-morgan-stanley}
+
+  warburg:
+    file: family/warburg.md
+    origine: Germania
+    fondatore: Moses Marcus Warburg
+    settore_originario: banca
+    generazioni: 5
+    status: attiva
+    veicoli: [mm-warburg, warburg-pincus]
+    membri:
+      - {nome: moses-marcus, gen: 1, nato: 1763, morto: 1830, ruolo: co-fondatore}
+      - {nome: gerson, gen: 1, nato: 1765, morto: 1826, ruolo: co-fondatore}
+      - {nome: max, gen: 3, nato: 1867, morto: 1946, ruolo: chairman-mm-warburg}
+      - {nome: paul-m, gen: 3, nato: 1868, morto: 1932, ruolo: architetto-federal-reserve}
+      - {nome: felix-m, gen: 3, nato: 1871, morto: 1937, ruolo: kuhn-loeb}
+      - {nome: james-p, gen: 4, nato: 1896, morto: 1969, ruolo: brain-trust-fdr}
+      - {nome: eric-m, gen: 4, nato: 1900, morto: 1990, ruolo: fondatore-warburg-pincus}
+      - {nome: siegmund-g, gen: 4, nato: 1902, morto: 1982, ruolo: fondatore-sg-warburg}
+
+  agnelli-elkann:
+    file: family/agnelli-elkann.md
+    origine: Italia
+    fondatore: Giovanni Agnelli Sr.
+    settore_originario: auto
+    generazioni: 4
+    status: attiva
+    veicoli: [fiat, exor, stellantis]
+    membri:
+      - {nome: giovanni-sr, gen: 1, nato: 1866, morto: 1945, ruolo: fondatore-fiat}
+      - {nome: edoardo, gen: 2, nato: 1892, morto: 1935, ruolo: erede-morto}
+      - {nome: gianni-agnelli, gen: 3, nato: 1921, morto: 2003, ruolo: re-italia, scheda: true}
+      - {nome: umberto, gen: 3, nato: 1934, morto: 2004, ruolo: vice-chairman}
+      - {nome: margherita, gen: 4, nato: 1955, ruolo: figlia-in-conflitto}
+      - {nome: john-elkann, gen: 4, nato: 1976, ruolo: ceo-exor, scheda: true}
+      - {nome: lapo-elkann, gen: 4, nato: 1977, ruolo: escluso}
+
+  bush:
+    file: family/bush.md
+    origine: USA
+    fondatore: Prescott Bush
+    settore_originario: finanza-politica
+    generazioni: 5
+    status: declino
+    membri:
+      - {nome: samuel-prescott, gen: 1, nato: 1863, morto: 1948, ruolo: industriale}
+      - {nome: prescott-sheldon, gen: 2, nato: 1895, morto: 1972, ruolo: senatore}
+      - {nome: george-hw, gen: 3, nato: 1924, morto: 2018, ruolo: 41-presidente}
+      - {nome: george-w, gen: 4, nato: 1946, ruolo: 43-presidente}
+      - {nome: jeb, gen: 4, nato: 1953, ruolo: governatore-florida}
+      - {nome: george-p, gen: 5, nato: 1976, ruolo: politico-sconfitto}
+
+  walton:
+    file: family/walton.md
+    origine: USA
+    fondatore: Sam Walton
+    settore_originario: retail
+    generazioni: 3
+    status: attiva
+    veicoli: [walmart]
+    patrimonio: "432B"
+    membri:
+      - {nome: sam, gen: 1, nato: 1918, morto: 1992, ruolo: fondatore-walmart}
+      - {nome: bud, gen: 1, nato: 1921, morto: 1995, ruolo: co-fondatore}
+      - {nome: rob, gen: 2, nato: 1944, ruolo: ex-chairman-walmart}
+      - {nome: john, gen: 2, nato: 1946, morto: 2005, ruolo: aviatore}
+      - {nome: jim, gen: 2, nato: 1948, ruolo: chairman-arvest}
+      - {nome: alice, gen: 2, nato: 1949, ruolo: arte-crystal-bridges}
+      - {nome: lukas, gen: 3, nato: 1986, ruolo: filantropo}
+
+  murdoch:
+    file: family/murdoch.md
+    origine: Australia
+    fondatore: Keith Murdoch
+    settore_originario: media
+    generazioni: 3
+    status: attiva
+    veicoli: [news-corp, fox]
+    membri:
+      - {nome: keith, gen: 1, nato: 1885, morto: 1952, ruolo: fondatore}
+      - {nome: rupert, gen: 2, nato: 1931, ruolo: espansione-globale}
+      - {nome: prudence, gen: 3, nato: 1958, ruolo: esclusa}
+      - {nome: elisabeth, gen: 3, nato: 1968, ruolo: esclusa}
+      - {nome: lachlan, gen: 3, nato: 1971, ruolo: erede-designato}
+      - {nome: james, gen: 3, nato: 1972, ruolo: escluso}
+
+  dupont:
+    file: family/dupont.md
+    origine: Francia/USA
+    fondatore: E.I. du Pont
+    settore_originario: chimica
+    generazioni: 8
+    status: dispersa
+    membri:
+      - {nome: pierre-samuel, gen: 1, nato: 1739, morto: 1817, ruolo: emigrato-fondatore}
+      - {nome: ei-dupont, gen: 2, nato: 1771, morto: 1834, ruolo: fondatore-industriale}
+      - {nome: henry, gen: 3, nato: 1812, morto: 1889, ruolo: ceo}
+      - {nome: alfred-i, gen: 4, nato: 1864, morto: 1935, ruolo: industriale}
+      - {nome: t-coleman, gen: 4, nato: 1863, morto: 1930, ruolo: presidente-senatore}
+      - {nome: pierre-s, gen: 4, nato: 1870, morto: 1954, ruolo: chairman-dupont-gm}
+      - {nome: pete-iv, gen: 6, nato: 1935, morto: 2021, ruolo: governatore-delaware}
+
+# =============================================================================
+# RELAZIONI SPECIALI
+# =============================================================================
+
+relazioni:
+  mentore:
+    - {da: david-rockefeller, a: henry-kissinger}
+    - {da: david-rockefeller, a: zbigniew-brzezinski}
+    - {da: henry-kissinger, a: klaus-schwab}
+    - {da: gianni-agnelli, a: john-elkann}
+
+  alleanza_dinastica:
+    - {a: rockefeller, b: morgan, evento: 2000-fusione-chase-jpmorgan, nota: "Chase + JPMorgan = JPMorgan Chase"}
+    - {a: agnelli-elkann, b: rockefeller, via: bilderberg}
+
+  partner_politico:
+    - {a: mario-draghi, b: angela-merkel, contesto: "crisi euro 2011-2019"}
+    - {a: mario-draghi, b: emmanuel-macron, contesto: "Trattato Quirinale 2021"}
+
+  revolving_door:
+    - {persona: robert-rubin, da: goldman-sachs, a: tesoro-usa, poi: citigroup}
+    - {persona: mario-draghi, da: goldman-sachs, a: banca-italia, poi: bce}
+    - {persona: mario-monti, da: commissione-ue, a: goldman-sachs, poi: governo-italia}
+
