@@ -120,6 +120,8 @@ Storico arte   Banchiere   **FED**      Kuhn, Loeb
 | **Warburg Pincus** | Eric Warburg (1938) | $86B AUM, private equity |
 | S.G. Warburg & Co. | Siegmund (1946) | Assorbita da UBS (1995) |
 
+> S.G. Warburg partecipo' al [Convegno del Britannia (1992)](../eventi/1992-britannia.md), incontro sulle privatizzazioni italiane sullo yacht reale britannico.
+
 ---
 
 ## Paul M. Warburg: L'Architetto della Fed
@@ -250,6 +252,7 @@ Questa citazione e' frequentemente usata in teorie cospirative, ma nel contesto 
 | Evento | Relazione |
 |--------|-----------|
 | [Jekyll Island 1910](../eventi/1910-jekyll-island.md) | Paul Warburg partecipante chiave |
+| [Convegno Britannia 1992](../eventi/1992-britannia.md) | S.G. Warburg tra le banche organizzatrici |
 
 ### Famiglie (da /family/)
 

@@ -123,6 +123,14 @@ La Germania ottenne una BCE sul modello Bundesbank, con sede a Francoforte, parl
 
 ## Connessioni PowerLink
 
+### Eventi Correlati
+
+| Evento | Connessione |
+|--------|-------------|
+| [Tangentopoli (1992)](1992-tangentopoli.md) | Crisi parallela, rimuove resistenze |
+| [Convegno Britannia (1992)](1992-britannia.md) | Privatizzazioni per convergenza |
+| [Crisi debito sovrano (2011)](2011-crisi-debito-sovrano.md) | Conseguenza asimmetrie Maastricht |
+
 ### Persone
 
 | Persona | Ruolo |

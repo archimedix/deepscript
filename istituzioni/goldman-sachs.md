@@ -143,12 +143,26 @@ TREASURY  FEDERAL   WHITE HOUSE
 
 | Periodo | Ruolo |
 |---------|-------|
+| **1991-2001** | DG Tesoro - architetto privatizzazioni |
 | **2002-2005** | Vice Chairman Goldman Sachs International |
 | **2005-2011** | Governatore Banca d'Italia |
 | **2011-2019** | Presidente BCE |
 | **2021-2022** | Presidente del Consiglio Italia |
 
 > Draghi e' l'esempio piu' emblematico del revolving door Goldman-istituzioni in Europa.
+
+### Privatizzazioni Italiane (1992-2000)
+
+Goldman Sachs fu tra i principali advisor nelle privatizzazioni italiane post-[Convegno del Britannia (1992)](../eventi/1992-britannia.md):
+
+| Privatizzazione | Ruolo Goldman |
+|-----------------|---------------|
+| ENI | Advisor |
+| ENEL | Advisor |
+| Telecom Italia | Advisor |
+| Banche pubbliche | Advisor |
+
+> Le privatizzazioni italiane (~200.000 miliardi di lire) furono il maggiore programma europeo degli anni '90. Goldman ne fu protagonista come advisor, con Draghi che passo' poi in Goldman nel 2002.
 
 ### Controversie Swap Grecia
 
@@ -306,6 +320,10 @@ TREASURY  FEDERAL   WHITE HOUSE
 ---
 
 ## Documenti Correlati
+
+### Eventi
+- [Convegno Britannia 1992](../eventi/1992-britannia.md) - Privatizzazioni italiane (Goldman advisor)
+- [Crisi finanziaria 2008](../eventi/2008-crisi-finanziaria.md) - Goldman sopravvive, bailout
 
 ### Istituzioni
 - [Federal Reserve](federal-reserve.md) - Revolving door

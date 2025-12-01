@@ -14,8 +14,6 @@ meta:
 todo:
   # Persone con stub che meritano scheda completa
   promuovi_a_scheda:
-    - jp-morgan           # Architetto Fed, figura centrale
-    - paul-warburg        # Architetto Fed, dinastia Warburg
     - alan-greenspan      # Fed Chair 19 anni, deregulation
     - henry-paulson       # Goldman CEO → Tesoro, crisi 2008
     - ben-bernanke        # QE, crisi 2008
@@ -398,18 +396,26 @@ persone:
       - {org: wef, ruolo: ygl, dal: 2007}
       - {org: bilderberg, ruolo: partecipante, dal: 2024}
 
-  # --- Figure storiche (stub - attori eventi) ---
+  # --- Figure storiche ---
   jp-morgan:
+    file: persone/jp-morgan.md
     nato: 1837
     morto: 1913
     naz: USA
-    nota: "J. Pierpont Morgan, architetto Federal Reserve"
+    famiglia: morgan
+    affiliazioni:
+      - {org: jpmorgan, ruolo: fondatore, dal: 1871}
 
   paul-warburg:
+    file: persone/paul-warburg.md
     nato: 1868
     morto: 1932
     naz: USA
-    nota: "Architetto Federal Reserve, famiglia Warburg"
+    famiglia: warburg
+    affiliazioni:
+      - {org: kuhn-loeb, ruolo: partner, dal: 1902, al: 1914}
+      - {org: federal-reserve, ruolo: vice-chairman, dal: 1914, al: 1918}
+      - {org: cfr, ruolo: fondatore, dal: 1921}
 
   nelson-aldrich:
     nato: 1841
@@ -518,6 +524,73 @@ persone:
     nato: 1961
     naz: USA
     nota: "Segretario Tesoro 2009-2013, ex-NY Fed, Warburg Pincus"
+
+  # --- Protagonisti Britannia 1992 ---
+  beniamino-andreatta:
+    nato: 1928
+    morto: 2007
+    naz: ITA
+    nota: "Ministro Tesoro 1992, divorzio Bankitalia-Tesoro 1981, DC"
+    affiliazioni:
+      - {org: tesoro-italia, ruolo: ministro, dal: 1992, al: 1993}
+
+  carlo-azeglio-ciampi:
+    nato: 1920
+    morto: 2016
+    naz: ITA
+    nota: "Governatore Bankitalia 1979-1993, PM 1993-94, Presidente Repubblica 1999-2006"
+    affiliazioni:
+      - {org: banca-italia, ruolo: governatore, dal: 1979, al: 1993}
+      - {org: governo-italia, ruolo: capo-governo, dal: 1993, al: 1994}
+
+  guido-carli:
+    nato: 1914
+    morto: 1993
+    naz: ITA
+    nota: "Governatore Bankitalia 1960-75, Ministro Tesoro 1989-92, Confindustria"
+    affiliazioni:
+      - {org: banca-italia, ruolo: governatore, dal: 1960, al: 1975}
+      - {org: tesoro-italia, ruolo: ministro, dal: 1989, al: 1992}
+
+  gabriele-cagliari:
+    nato: 1926
+    morto: 1993
+    naz: ITA
+    nota: "Presidente ENI 1989-93, suicidio in carcere durante Tangentopoli"
+    affiliazioni:
+      - {org: eni, ruolo: presidente, dal: 1989, al: 1993}
+
+  riccardo-gallo:
+    nato: 1937
+    naz: ITA
+    nota: "Vice-presidente IRI, economista"
+    affiliazioni:
+      - {org: iri, ruolo: vice-presidente}
+
+  giovanni-bazoli:
+    nato: 1932
+    naz: ITA
+    nota: "Presidente Banco Ambrosiano Veneto, poi Intesa Sanpaolo"
+    affiliazioni:
+      - {org: banco-ambrosiano-veneto, ruolo: presidente}
+      - {org: intesa-sanpaolo, ruolo: presidente}
+
+  lorenzo-pallesi:
+    nato: 1930
+    morto: 2009
+    naz: ITA
+    nota: "Presidente INA Assitalia"
+    affiliazioni:
+      - {org: ina, ruolo: presidente}
+
+  franco-bernabe:
+    nato: 1948
+    naz: ITA
+    nota: "AD ENI 1992-98, AD Telecom Italia 1998-99 e 2008-13"
+    affiliazioni:
+      - {org: eni, ruolo: ceo, dal: 1992, al: 1998}
+      - {org: telecom-italia, ruolo: ceo, dal: 1998, al: 1999}
+      - {org: bilderberg, ruolo: steering}
 
 # =============================================================================
 # ISTITUZIONI
@@ -756,6 +829,14 @@ istituzioni:
     tipo: investment-bank
     sede: Parigi
     nota: "Rothschild & Cie Banque"
+  kuhn-loeb:
+    tipo: investment-bank
+    sede: New York
+    nota: "Kuhn, Loeb & Co. (1867-1977), fusa con Lehman"
+  jpmorgan:
+    tipo: investment-bank
+    sede: New York
+    nota: "J.P. Morgan & Co. originale, predecessore JPMorgan Chase"
   carlyle-group:
     tipo: private-equity
     sede: Washington
@@ -822,6 +903,58 @@ istituzioni:
   banca-italia:
     tipo: central-bank
     sede: Roma
+  tesoro-italia:
+    tipo: governo
+    sede: Roma
+    nota: "Ministero del Tesoro (poi MEF)"
+
+  # --- Partecipate statali italiane (stub) ---
+  iri:
+    tipo: holding
+    sede: Roma
+    fondato: 1933
+    nota: "Istituto per la Ricostruzione Industriale, liquidato 2002"
+  eni:
+    tipo: oil
+    sede: Roma
+    fondato: 1953
+    nota: "Ente Nazionale Idrocarburi"
+  ina:
+    tipo: assicurazioni
+    sede: Roma
+    nota: "Istituto Nazionale Assicurazioni, fuso in Generali 2000"
+  telecom-italia:
+    tipo: telecom
+    sede: Milano
+    nota: "Ex STET/SIP, privatizzata 1997"
+
+  # --- Banche italiane (stub) ---
+  banco-ambrosiano-veneto:
+    tipo: bank
+    sede: Milano
+    nota: "Fuso in Intesa 1999"
+  intesa-sanpaolo:
+    tipo: bank
+    sede: Torino
+    fondato: 2007
+    nota: "Fusione Intesa + Sanpaolo IMI"
+
+  # --- Banche inglesi Britannia (stub) ---
+  sg-warburg:
+    tipo: investment-bank
+    sede: Londra
+    fondato: 1946
+    nota: "S.G. Warburg & Co., fusa in UBS 1995"
+  barclays:
+    tipo: bank
+    sede: Londra
+    fondato: 1690
+    nota: "BZW era la divisione investment banking"
+  baring:
+    tipo: investment-bank
+    sede: Londra
+    fondato: 1762
+    nota: "Barings Bank, fallita 1995 (Nick Leeson)"
 
   # --- Energia (stub) ---
   opec:
@@ -945,6 +1078,16 @@ eventi:
     luogo: Europa
     attori: [mario-draghi, mario-monti, angela-merkel, bce, fmi, governo-italia, commissione-ue]
     risultato: governi-tecnici
+
+  1992-britannia:
+    file: eventi/1992-britannia.md
+    anno: 1992
+    mese: giugno
+    tipo: convegno
+    luogo: Civitavecchia
+    attori: [mario-draghi, beniamino-andreatta, carlo-azeglio-ciampi, gabriele-cagliari, riccardo-gallo, giovanni-bazoli, sg-warburg, barclays, baring]
+    risultato: [privatizzazioni-italiane, smantellamento-iri]
+    nota: "Convegno su yacht reale britannico, preludio privatizzazioni"
 
   2020-pandemia-great-reset:
     file: eventi/2020-pandemia-great-reset.md

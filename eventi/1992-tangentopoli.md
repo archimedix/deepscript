@@ -134,9 +134,10 @@ Il 17 febbraio 1992, il giudice Antonio Di Pietro fece arrestare Mario Chiesa, f
 
 | Aspetto | Dettaglio |
 |---------|-----------|
-| **Maastricht** | Firmato febbraio 1992 |
+| **[Maastricht](1992-trattato-maastricht.md)** | Firmato febbraio 1992 |
 | **Criteri** | Deficit 3%, debito 60% |
 | **Italia** | Debito 120% |
+| **[Convegno Britannia](1992-britannia.md)** | Giugno 1992, discussione privatizzazioni |
 | **Necessita'** | Austerita', privatizzazioni |
 | **Tangentopoli** | Rimuove resistenze politiche |
 
@@ -152,6 +153,14 @@ Il 17 febbraio 1992, il giudice Antonio Di Pietro fece arrestare Mario Chiesa, f
 ---
 
 ## Connessioni PowerLink
+
+### Eventi Correlati
+
+| Evento | Connessione |
+|--------|-------------|
+| [Trattato Maastricht (1992)](1992-trattato-maastricht.md) | Vincolo esterno, criteri convergenza |
+| [Convegno Britannia (1992)](1992-britannia.md) | Privatizzazioni, banche internazionali |
+| [Crisi debito sovrano (2011)](2011-crisi-debito-sovrano.md) | Ritorno governi tecnici |
 
 ### Persone
 

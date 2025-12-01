@@ -51,8 +51,8 @@
 | Anno | Evento |
 |------|--------|
 | **1992** | Gestisce crisi lira, uscita dallo SME |
-| **1992-1993** | Privatizzazioni: IRI, ENI, ENEL, Telecom |
-| **1993** | Yacht Britannia - incontro con banchieri |
+| **1992** | [Convegno Britannia](../eventi/1992-britannia.md) - relazione su privatizzazioni |
+| **1992-2000** | Privatizzazioni: IRI, ENI, ENEL, Telecom |
 | **1999** | Italia entra nell'euro |
 
 > Come DG Tesoro, Draghi fu l'architetto delle privatizzazioni italiane degli anni '90.
@@ -176,11 +176,11 @@ Come DG Tesoro, Draghi gestì la più grande ondata di privatizzazioni nella sto
 | **Telecom Italia** | Telecomunicazioni |
 | **Banche** | Credito Italiano, Comit, etc. |
 
-**La Riunione del Britannia (1992):**
-- Yacht della Regina a Civitavecchia
-- Incontro con banchieri e investitori internazionali
-- Discussione sulle privatizzazioni italiane
-- Draghi presente come DG Tesoro
+**[Il Convegno del Britannia (1992)](../eventi/1992-britannia.md):**
+- Yacht reale britannico a Civitavecchia, 2 giugno 1992
+- Convegno con banchieri inglesi (S.G. Warburg, Barclays, Baring)
+- Draghi tenne la relazione introduttiva su costi/benefici privatizzazioni
+- Presenti: Ciampi, Andreatta, Cagliari (ENI), Gallo (IRI), Bazoli
 
 ### La Lettera BCE-Italia (Agosto 2011)
 
@@ -251,6 +251,13 @@ Lettera riservata firmata da Trichet e Draghi a Berlusconi:
 ---
 
 ## Connessioni con Altre Entita' PowerLink
+
+### Eventi
+
+| Evento | Ruolo |
+|--------|-------|
+| [Convegno Britannia (1992)](../eventi/1992-britannia.md) | Relatore introduttivo (DG Tesoro) |
+| [Crisi debito sovrano (2011)](../eventi/2011-crisi-debito-sovrano.md) | Presidente BCE entrante |
 
 ### Istituzioni
 
