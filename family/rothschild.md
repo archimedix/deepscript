@@ -152,7 +152,7 @@ Francoforte   Vienna      LONDRA      Napoli      PARIGI
 | Guy de Rothschild | 1909-2007 | Parigi | Ricostrui' dopo WWII, nazionalizzato 1981 |
 | **Jacob Rothschild, 4° Barone** | 1936-2024 | Londra | RIT Capital, filantropo |
 | Evelyn de Rothschild | 1931-2022 | Londra | Chairman N M Rothschild (1976-2003) |
-| **David de Rothschild** | 1942- | Parigi | Chairman Rothschild & Co |
+| **David de Rothschild** | 1942- | Parigi | Chairman Rothschild & Co, Chairman WJC Governing Board |
 | Edmond de Rothschild | 1926-1997 | Ginevra | Fondo' ramo svizzero |
 | Benjamin de Rothschild | 1963-2021 | Ginevra | Unico miliardario Forbes |
 
@@ -216,8 +216,9 @@ Francoforte   Vienna      LONDRA      Napoli      PARIGI
 | **Trilaterale** | Nessuna partecipazione documentata come membri fondatori |
 | **CFR** | Nessuna membership prominente documentata |
 | **WEF** | Partecipazioni occasionali |
+| **[World Jewish Congress](../istituzioni/world-jewish-congress.md)** | David de Rothschild e' Chairman del Governing Board |
 
-> **Nota metodologica:** A differenza dei Rockefeller (fondatori di CFR e Trilaterale), i Rothschild non hanno avuto ruoli di leadership documentati nei principali forum transatlantici del XX secolo. La loro influenza e' stata principalmente attraverso canali finanziari diretti.
+> **Nota metodologica:** A differenza dei Rockefeller (fondatori di CFR e Trilaterale), i Rothschild non hanno avuto ruoli di leadership documentati nei principali forum transatlantici del XX secolo. La loro influenza e' stata principalmente attraverso canali finanziari diretti e, piu' recentemente, attraverso ruoli nella diaspora ebraica organizzata (WJC).
 
 ---
 
@@ -279,13 +280,17 @@ Francoforte   Vienna      LONDRA      Napoli      PARIGI
 
 | Persona | Connessione |
 |---------|-------------|
-| Emmanuel Macron | Ex-banchiere Rothschild & Co (2008-2012) |
+| [Emmanuel Macron](../persone/emmanuel-macron.md) | Ex-banchiere Rothschild & Co (2008-2012) |
+| Ronald Lauder | Presidente WJC — David de Rothschild e' Chairman del Governing Board |
+| Chella Safra | Treasurer WJC — famiglia Safra (banking) |
 
 ### Istituzioni (da /istituzioni/)
 
 | Entita' | Relazione |
 |---------|-----------|
 | [Federal Reserve](../istituzioni/federal-reserve.md) | Nessun ruolo diretto documentato a Jekyll Island |
+| [World Jewish Congress](../istituzioni/world-jewish-congress.md) | David de Rothschild Chairman del Governing Board |
+| [Rothschild & Co](../istituzioni/rothschild-co.md) | Banca di famiglia, David Chairman, Alexandre Exec Chairman |
 
 ### Eventi (da /eventi/)
 

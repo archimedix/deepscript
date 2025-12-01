@@ -142,6 +142,8 @@ enum:
     - network
     - governo
     - programma
+    - lobby
+    - advocacy
 
   tipi_media:
     - testata           # Giornale, rivista
@@ -611,6 +613,96 @@ persone:
       - {org: telecom-italia, ruolo: ceo, dal: 1998, al: 1999}
       - {org: bilderberg, ruolo: steering}
 
+  # --- Figure lobby/advocacy pro-Israele ---
+  jonathan-greenblatt:
+    nato: 1971
+    naz: USA
+    nota: "CEO ADL dal 2015, ex Obama White House, co-fondatore Ethos Water"
+    affiliazioni:
+      - {org: adl, ruolo: ceo, dal: 2015}
+      - {org: ethos-water, ruolo: co-fondatore, dal: 2002, al: 2005}
+
+  ronald-lauder:
+    nato: 1944
+    naz: USA
+    famiglia: lauder
+    nota: "Presidente WJC, erede Estee Lauder, ex ambasciatore USA Austria"
+    affiliazioni:
+      - {org: world-jewish-congress, ruolo: presidente, dal: 2007}
+      - {org: world-jewish-restitution-org, ruolo: presidente, dal: 2008}
+      - {org: ambasciata-usa-austria, ruolo: ambasciatore, dal: 1986, al: 1987}
+      - {org: dod, ruolo: deputy-assistant-secretary, dal: 1983, al: 1986, nota: "European and NATO Policy"}
+
+  michael-makovsky:
+    nato: 1968
+    naz: USA
+    nota: "CEO JINSA dal 2013, ex Bipartisan Policy Center, ex DoD"
+    affiliazioni:
+      - {org: jinsa, ruolo: ceo, dal: 2013}
+      - {org: bipartisan-policy-center, ruolo: direttore, nota: "Foreign Policy"}
+      - {org: dod, ruolo: special-assistant}
+
+  morris-amitay:
+    nato: 1935
+    morto: 2019
+    naz: USA
+    nota: "Direttore esecutivo AIPAC 1974-80, poi JINSA"
+    affiliazioni:
+      - {org: aipac, ruolo: direttore, dal: 1974, al: 1980}
+      - {org: jinsa, ruolo: vice-presidente, dal: 1981}
+
+  howard-kohr:
+    nato: 1955
+    naz: USA
+    nota: "Direttore esecutivo AIPAC 1996-2024"
+    affiliazioni:
+      - {org: aipac, ruolo: direttore, dal: 1996, al: 2024}
+
+  david-de-rothschild-fr:
+    nato: 1942
+    naz: FRA
+    famiglia: rothschild
+    nota: "Chairman Rothschild & Co, Chairman WJC Governing Board"
+    affiliazioni:
+      - {org: rothschild-co, ruolo: chairman}
+      - {org: world-jewish-congress, ruolo: chairman, nota: "Governing Board"}
+
+  isaiah-kenen:
+    nato: 1905
+    morto: 1988
+    naz: USA
+    nota: "Fondatore AIPAC, ex funzionario Ministero Esteri israeliano"
+    affiliazioni:
+      - {org: aipac, ruolo: fondatore-direttore, dal: 1954, al: 1974}
+
+  stephen-wise:
+    nato: 1874
+    morto: 1949
+    naz: USA
+    nota: "Rabbi, co-fondatore WJC, leader sionista americano"
+    affiliazioni:
+      - {org: world-jewish-congress, ruolo: fondatore-presidente, dal: 1936, al: 1949}
+      - {org: american-jewish-congress, ruolo: fondatore, dal: 1918}
+
+  nahum-goldmann:
+    nato: 1895
+    morto: 1982
+    naz: USA
+    nota: "Co-fondatore WJC, presidente WJC 1949-1977, diplomatico"
+    affiliazioni:
+      - {org: world-jewish-congress, ruolo: co-fondatore, dal: 1936}
+      - {org: world-jewish-congress, ruolo: presidente, dal: 1949, al: 1977}
+
+  edgar-bronfman-sr:
+    nato: 1929
+    morto: 2013
+    naz: CAN
+    famiglia: bronfman
+    nota: "CEO Seagram, Presidente WJC 1981-2007"
+    affiliazioni:
+      - {org: seagram, ruolo: ceo, dal: 1971, al: 1994}
+      - {org: world-jewish-congress, ruolo: presidente, dal: 1981, al: 2007}
+
 # =============================================================================
 # ISTITUZIONI
 # =============================================================================
@@ -894,6 +986,100 @@ istituzioni:
   gates-foundation:
     tipo: fondazione
     sede: Seattle
+
+  # --- Lobby e advocacy pro-Israele ---
+  aipac:
+    file: istituzioni/aipac.md
+    fondato: 1963
+    tipo: lobby
+    sede: Washington
+    tags: [pro-israele, usa, lobby-registrata, congresso]
+
+  adl:
+    file: istituzioni/adl.md
+    fondato: 1913
+    tipo: advocacy
+    sede: New York
+    tags: [antidiffamazione, diritti-civili, monitoraggio]
+
+  world-jewish-congress:
+    file: istituzioni/world-jewish-congress.md
+    fondato: 1936
+    tipo: forum
+    sede: New York
+    tags: [diaspora, internazionale, rappresentanza]
+
+  jinsa:
+    file: istituzioni/jinsa.md
+    fondato: 1976
+    tipo: think-tank
+    sede: Washington
+    tags: [sicurezza-nazionale, difesa, neocon, pro-israele]
+
+  conference-of-presidents:
+    tipo: forum
+    fondato: 1956
+    sede: New York
+    nota: "Conference of Presidents of Major American Jewish Organizations - organizzazione ombrello"
+    tags: [ombrello, coordinamento, usa]
+
+  american-jewish-congress:
+    tipo: advocacy
+    fondato: 1918
+    sede: New York
+    nota: "Fondata da Stephen Wise, precursore WJC"
+
+  world-jewish-restitution-org:
+    tipo: advocacy
+    fondato: 1993
+    sede: New York
+    nota: "World Jewish Restitution Organization - recupero beni Shoah"
+
+  # --- Stub USA (agenzie, think tank) ---
+  dod:
+    tipo: governo
+    sede: Washington
+    nota: "Department of Defense"
+
+  white-house:
+    tipo: governo
+    sede: Washington
+    nota: "Executive Office of the President"
+
+  ambasciata-usa-austria:
+    tipo: governo
+    sede: Vienna
+    nota: "Ambasciata USA in Austria"
+
+  bipartisan-policy-center:
+    tipo: think-tank
+    fondato: 2007
+    sede: Washington
+    nota: "Think tank bipartisan"
+
+  # --- Aziende (stub) ---
+  estee-lauder:
+    tipo: corporate
+    fondato: 1946
+    sede: New York
+    nota: "Cosmetici, famiglia Lauder"
+
+  seagram:
+    tipo: corporate
+    fondato: 1857
+    sede: Montreal
+    nota: "Bevande alcoliche, famiglia Bronfman, venduta 2000"
+
+  ethos-water:
+    tipo: corporate
+    fondato: 2002
+    sede: California
+    nota: "Social enterprise acqua, venduta a Starbucks 2005"
+
+  rothschild-co:
+    tipo: investment-bank
+    sede: Parigi/Londra
+    nota: "Rothschild & Co., fusione rami francese e britannico"
 
   # --- Corporate Italia (stub) ---
   fiat:
@@ -1397,4 +1583,25 @@ relazioni:
     - {persona: robert-rubin, da: goldman-sachs, a: tesoro-usa, poi: citigroup}
     - {persona: mario-draghi, da: goldman-sachs, a: banca-italia, poi: bce}
     - {persona: mario-monti, da: commissione-ue, a: goldman-sachs, poi: governo-italia}
+    # --- Lobby pro-Israele ---
+    - {persona: morris-amitay, da: aipac, a: jinsa, nota: "Direttore AIPAC -> VP JINSA"}
+    - {persona: jonathan-greenblatt, da: white-house, a: adl, nota: "Obama staff -> CEO ADL"}
+    - {persona: ronald-lauder, da: dod, a: ambasciata-usa-austria, poi: world-jewish-congress, nota: "DoD -> Ambasciatore -> Presidente WJC"}
+    - {persona: michael-makovsky, da: dod, a: bipartisan-policy-center, poi: jinsa, nota: "DoD -> think tank -> CEO JINSA"}
+
+  # Successioni leadership
+  successione:
+    # WJC
+    - {org: world-jewish-congress, da: stephen-wise, a: nahum-goldmann, anno: 1949}
+    - {org: world-jewish-congress, da: nahum-goldmann, a: edgar-bronfman-sr, anno: 1981}
+    - {org: world-jewish-congress, da: edgar-bronfman-sr, a: ronald-lauder, anno: 2007}
+    # AIPAC
+    - {org: aipac, da: isaiah-kenen, a: morris-amitay, anno: 1974}
+    - {org: aipac, da: morris-amitay, a: howard-kohr, anno: 1996, nota: "con Tom Dine in mezzo"}
+
+  # Connessioni cross-org
+  coordinamento_org:
+    - {orgs: [aipac, adl, jinsa, world-jewish-congress], via: conference-of-presidents, nota: "Tutti membri Conference of Presidents"}
+    - {orgs: [aipac, jinsa], persona: morris-amitay, nota: "Amitay ponte tra le due org"}
+    - {orgs: [world-jewish-congress, rothschild], persona: david-de-rothschild-fr, nota: "Chairman WJC Governing Board"}
 
