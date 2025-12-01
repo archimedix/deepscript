@@ -143,6 +143,21 @@ enum:
     - governo
     - programma
 
+  tipi_media:
+    - testata           # Giornale, rivista
+    - gruppo            # Holding editoriale (GEDI, RCS, Mediaset)
+    - broadcaster       # TV, radio
+    - agenzia           # Agenzia stampa (ANSA, Reuters)
+
+  ruoli_media:
+    - direttore
+    - editore
+    - caporedattore
+    - editorialista
+    - inviato
+    - conduttore
+    - fondatore-editore
+
 # =============================================================================
 # PERSONE
 # =============================================================================
@@ -292,6 +307,7 @@ persone:
     famiglia: agnelli-elkann
     affiliazioni:
       - {org: fiat, ruolo: presidente, dal: 1966, al: 1996}
+      - {org: la-stampa, ruolo: proprietario, nota: "via FIAT"}
       - {org: bilderberg, ruolo: steering}
       - {org: trilaterale, ruolo: membro}
       - {org: chase-manhattan, ruolo: board}
@@ -304,9 +320,12 @@ persone:
     affiliazioni:
       - {org: exor, ruolo: ceo, dal: 2004}
       - {org: stellantis, ruolo: chairman, dal: 2021}
+      - {org: gedi, ruolo: proprietario, dal: 2020, nota: "via Exor"}
+      - {org: repubblica, ruolo: proprietario, dal: 2020, nota: "via GEDI"}
+      - {org: la-stampa, ruolo: proprietario, dal: 2016, nota: "via GEDI"}
+      - {org: economist, ruolo: chairman, dal: 2009}
       - {org: bilderberg, ruolo: steering}
       - {org: aspen-institute, ruolo: vice-presidente}
-      - {org: economist, ruolo: chairman, dal: 2009}
 
   # --- Leader politici (YGL/GLT) ---
 
@@ -871,14 +890,6 @@ istituzioni:
     tipo: venture-capital
     sede: San Francisco
 
-  # --- Media (stub) ---
-  washington-post:
-    tipo: media
-    sede: Washington
-  economist:
-    tipo: media
-    sede: Londra
-
   # --- Fondazioni (stub) ---
   gates-foundation:
     tipo: fondazione
@@ -1096,6 +1107,114 @@ eventi:
     luogo: globale
     attori: [klaus-schwab, wef, oms]
     risultato: great-reset
+
+# =============================================================================
+# MEDIA
+# =============================================================================
+
+media:
+  # --- Stampa internazionale ---
+  economist:
+    tipo: testata
+    fondato: 1843
+    sede: Londra
+    proprietario: agnelli-elkann  # via Exor
+    orientamento: liberale
+    note: "Chairman John Elkann dal 2009"
+
+  washington-post:
+    tipo: testata
+    fondato: 1877
+    sede: Washington
+    proprietario: jeff-bezos
+    note: "Acquistato da Bezos nel 2013"
+
+  # --- Gruppi editoriali Italia ---
+  gedi:
+    tipo: gruppo
+    sede: Roma
+    proprietario: exor
+    testate: [repubblica, la-stampa, lespresso]
+    note: "Gruppo Editoriale, controllato da Exor (Elkann)"
+
+  rcs-mediagroup:
+    tipo: gruppo
+    sede: Milano
+    proprietario: urbano-cairo
+    testate: [corriere-della-sera, gazzetta-dello-sport]
+    note: "Cairo Communications dal 2016"
+
+  mediaset:
+    tipo: broadcaster
+    fondato: 1978
+    sede: Milano
+    proprietario: fininvest
+    canali: [canale-5, italia-1, rete-4]
+    note: "Berlusconi, ora MFE-MediaForEurope"
+
+  rai:
+    tipo: broadcaster
+    fondato: 1954
+    sede: Roma
+    proprietario: stato-italiano
+    canali: [rai-1, rai-2, rai-3]
+    note: "Servizio pubblico, controllo politico"
+
+  # --- Testate Italia (stub) ---
+  corriere-della-sera:
+    file: media/corriere-della-sera.md
+    tipo: testata
+    fondato: 1876
+    sede: Milano
+    gruppo: rcs-mediagroup
+    proprietario: urbano-cairo
+    direttore: luciano-fontana
+    orientamento: liberale-moderato
+    tags: [via-solferino, establishment, borghesia-milanese]
+
+  repubblica:
+    file: media/repubblica.md
+    tipo: testata
+    fondato: 1976
+    sede: Roma
+    gruppo: gedi
+    proprietario: agnelli-elkann
+    direttore: mario-orfeo
+    orientamento: centrosinistra
+    tags: [progressista, scalfari, de-benedetti]
+    note: "Fondata da Eugenio Scalfari e Carlo Caracciolo"
+
+  la-stampa:
+    file: media/la-stampa.md
+    tipo: testata
+    fondato: 1867
+    sede: Torino
+    gruppo: gedi
+    proprietario: agnelli-elkann
+    direttore: andrea-malaguti
+    orientamento: liberale-moderato
+    tags: [agnelli, fiat, torino]
+    note: "Storica testata Agnelli, fondata come Gazzetta Piemontese"
+
+  il-sole-24-ore:
+    tipo: testata
+    fondato: 1865
+    sede: Milano
+    proprietario: confindustria
+    orientamento: liberale-economico
+
+  # --- Agenzie (stub) ---
+  ansa:
+    tipo: agenzia
+    fondato: 1945
+    sede: Roma
+    note: "Principale agenzia stampa italiana"
+
+  reuters:
+    tipo: agenzia
+    fondato: 1851
+    sede: Londra
+    note: "Thomson Reuters dal 2008"
 
 # =============================================================================
 # FAMIGLIE/DINASTIE

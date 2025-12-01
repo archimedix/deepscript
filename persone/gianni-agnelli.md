@@ -122,7 +122,7 @@ JOHN ELKANN (erede)
 |-------|-----------|
 | **Industria** | FIAT, Alfa Romeo, Lancia, Ferrari |
 | **Finanza** | Mediobanca (influenza) |
-| **Media** | La Stampa, Corriere della Sera (influenza) |
+| **Media** | [La Stampa](../media/la-stampa.md), [Corriere della Sera](../media/corriere-della-sera.md) (influenza) |
 | **Calcio** | Juventus |
 | **Politica** | Accesso diretto a tutti i governi |
 
@@ -158,7 +158,7 @@ JOHN ELKANN (erede)
 | **FIAT** | Cuore industriale |
 | **IFI/IFIL** | Holding finanziarie |
 | **Mediobanca** | Banca di riferimento |
-| **La Stampa** | Giornale di famiglia |
+| [**La Stampa**](../media/la-stampa.md) | Giornale di famiglia |
 | **Sistema** | Capitalismo familiare italiano |
 
 ### Critiche
