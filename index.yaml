@@ -3,9 +3,147 @@
 # Ultimo aggiornamento: 2025-12-01
 
 meta:
-  versione: 2
+  versione: 3
   aggiornato: 2025-12-01
   note: "Le affiliazioni sono la SINGOLA fonte di verita' per le membership"
+
+# =============================================================================
+# TODO - Cose da fare
+# =============================================================================
+
+todo:
+  # Persone con stub che meritano scheda completa
+  promuovi_a_scheda:
+    - jp-morgan           # Architetto Fed, figura centrale
+    - paul-warburg        # Architetto Fed, dinastia Warburg
+    - alan-greenspan      # Fed Chair 19 anni, deregulation
+    - henry-paulson       # Goldman CEO → Tesoro, crisi 2008
+    - ben-bernanke        # QE, crisi 2008
+    - tim-geithner        # NY Fed → Tesoro → Warburg Pincus
+    - george-w-bush       # Presidente, War on Terror, famiglia Bush
+    - richard-nixon       # Nixon Shock, fine Bretton Woods
+    - bill-clinton        # Deregulation, Glass-Steagall
+
+  # Persone nuove da ricercare e aggiungere
+  persone_da_aggiungere:
+    - janet-yellen        # Fed Chair → Tesoro Biden
+    - mark-zuckerberg     # Meta, potere tech/media
+    - lloyd-blankfein     # Goldman CEO 2006-2018
+    - gary-cohn           # Goldman → Trump advisor
+    - steven-mnuchin      # Goldman → Tesoro Trump
+    - robert-zoellick     # Goldman → Banca Mondiale
+    - mark-carney         # Goldman → Bank of England → Bank of Canada
+    - mario-monti         # ha scheda ma verificare completezza
+    - enrico-letta        # PD, Sciences Po, Bilderberg?
+    - ursula-von-der-leyen # Commissione UE, WEF connections
+
+  # Istituzioni da aggiungere con scheda
+  istituzioni_da_aggiungere:
+    - swift               # Sistema pagamenti, arma geopolitica
+    - carlyle-group       # Ha stub, merita scheda (Bush, Powell)
+    - bridgewater         # Dalio, hedge fund
+    - citadel             # Ken Griffin
+    - kkr                 # Private equity, Kravis
+    - apollo              # Private equity
+    - brookings           # Think tank
+    - rand-corporation    # Think tank military-industrial
+    - chatham-house       # Think tank UK, equivalente CFR
+
+  # Eventi da aggiungere
+  eventi_da_aggiungere:
+    - 1907-panico-bancario      # Morgan salva il sistema, precursore Fed
+    - 1913-creazione-fed        # Federal Reserve Act
+    - 1933-glass-steagall       # Separazione banche
+    - 1980-volcker-shock        # Tassi al 20%, fine inflazione
+    - 1987-black-monday         # Crash, Greenspan interviene
+    - 1994-crisi-messico        # Primo bailout Rubin
+    - 1997-crisi-asiatica       # FMI, contagio
+    - 1998-ltcm                 # Hedge fund bailout
+    - 2000-fusione-chase-jpmorgan # Unione dinastie Morgan-Rockefeller
+    - 2010-dodd-frank           # Riforma post-2008
+    - 2012-whatever-it-takes    # Draghi salva euro
+    - 2021-stellantis           # FCA + PSA, Elkann
+
+  # Famiglie da aggiungere
+  famiglie_da_aggiungere:
+    - koch                # Petrolio, politica conservatrice USA
+    - pritzker            # Hyatt, politica Illinois
+    - walton              # Ha scheda, verificare
+    - mars                # Dolciumi, molto riservati
+    - cargill-macmillan   # Agribusiness, famiglia privata
+
+  # Manutenzione
+  manutenzione:
+    - verificare_aum_2024           # BlackRock, Vanguard, State Street
+    - completare_membri_famiglie    # Generazioni recenti
+    - aggiungere_date_bilderberg    # Date partecipazione
+    - verificare_ygl_lista          # Lista completa YGL notabili
+    - connessioni_italia_mancanti   # Aspen Italia, ISPI, Ambrosetti
+
+# =============================================================================
+# ENUM - Valori standardizzati
+# =============================================================================
+
+enum:
+  ruoli_governo:
+    - capo-governo      # PM, Cancelliere, Presidente (se capo esecutivo)
+    - capo-stato        # Presidente/Re quando cerimoniale
+    - ministro          # Segretario di Stato, Ministro, etc.
+    - vice-presidente
+    - governatore       # Banca centrale o stato/regione
+    - commissario       # UE
+    - senatore
+
+  ruoli_corporate:
+    - ceo
+    - chairman
+    - co-chairman
+    - vice-chairman
+    - executive-chairman
+    - presidente
+    - board
+    - partner
+    - senior-advisor
+    - advisor
+    - banchiere
+
+  ruoli_fondatore:
+    - fondatore
+    - co-fondatore
+    - fondatore-ceo
+    - fondatore-chairman
+    - fondatore-direttore
+
+  ruoli_forum:
+    - steering          # Comitato direttivo
+    - membro
+    - partecipante      # Invitato, non membro fisso
+    - direttore
+    - co-chair
+
+  ruoli_wef:
+    - ygl               # Young Global Leader (post-2004)
+    - glt               # Global Leader for Tomorrow (1993-2003)
+
+  ruoli_speciali:
+    - proprietario
+    - consigliere       # NSA, advisor presidenziale
+
+  tipi_istituzione:
+    - forum
+    - think-tank
+    - bank
+    - investment-bank
+    - asset-manager
+    - central-bank
+    - istituzione-finanziaria
+    - organizzazione-internazionale
+    - alleanza-militare
+    - fondazione
+    - private-equity
+    - network
+    - governo
+    - programma
 
 # =============================================================================
 # PERSONE
@@ -31,7 +169,7 @@ persone:
     naz: USA
     affiliazioni:
       - {org: nsa, ruolo: consigliere, dal: 1969, al: 1975}
-      - {org: stato-usa, ruolo: segretario, dal: 1973, al: 1977}
+      - {org: stato-usa, ruolo: ministro, dal: 1973, al: 1977}
       - {org: cfr, ruolo: membro}
       - {org: trilaterale, ruolo: steering}
       - {org: bilderberg, ruolo: partecipante}
@@ -118,7 +256,7 @@ persone:
       - {org: goldman-sachs, ruolo: vice-chairman, dal: 2002, al: 2005}
       - {org: banca-italia, ruolo: governatore, dal: 2006, al: 2011}
       - {org: bce, ruolo: presidente, dal: 2011, al: 2019}
-      - {org: governo-italia, ruolo: pm, dal: 2021, al: 2022}
+      - {org: governo-italia, ruolo: capo-governo, dal: 2021, al: 2022}
       - {org: bilderberg, ruolo: partecipante}
       - {org: wef, ruolo: partecipante}
       - {org: gruppo-30, ruolo: membro}
@@ -130,9 +268,9 @@ persone:
     affiliazioni:
       - {org: commissione-ue, ruolo: commissario, dal: 1995, al: 2004}
       - {org: goldman-sachs, ruolo: advisor, dal: 2005, al: 2011}
-      - {org: governo-italia, ruolo: pm, dal: 2011, al: 2013}
+      - {org: governo-italia, ruolo: capo-governo, dal: 2011, al: 2013}
       - {org: bilderberg, ruolo: steering}
-      - {org: trilaterale, ruolo: chairman-europe, dal: 2010}
+      - {org: trilaterale, ruolo: chairman, dal: 2010, nota: "Europa"}
       - {org: wef, ruolo: partecipante}
       - {org: aspen-institute, ruolo: membro}
 
@@ -141,9 +279,9 @@ persone:
     nato: 1939
     naz: ITA
     affiliazioni:
-      - {org: governo-italia, ruolo: pm, dal: 1996, al: 1998}
+      - {org: governo-italia, ruolo: capo-governo, dal: 1996, al: 1998}
       - {org: commissione-ue, ruolo: presidente, dal: 1999, al: 2004}
-      - {org: governo-italia, ruolo: pm, dal: 2006, al: 2008}
+      - {org: governo-italia, ruolo: capo-governo, dal: 2006, al: 2008}
       - {org: goldman-sachs, ruolo: advisor}
       - {org: bilderberg, ruolo: steering}
       - {org: aspen-institute, ruolo: membro}
@@ -179,7 +317,7 @@ persone:
     nato: 1953
     naz: GBR
     affiliazioni:
-      - {org: governo-uk, ruolo: pm, dal: 1997, al: 2007}
+      - {org: governo-uk, ruolo: capo-governo, dal: 1997, al: 2007}
       - {org: wef, ruolo: glt, dal: 1992}
       - {org: jpmorgan-chase, ruolo: advisor, dal: 2008}
 
@@ -188,7 +326,7 @@ persone:
     nato: 1954
     naz: DEU
     affiliazioni:
-      - {org: governo-germania, ruolo: cancelliera, dal: 2005, al: 2021}
+      - {org: governo-germania, ruolo: capo-governo, dal: 2005, al: 2021}
       - {org: wef, ruolo: glt, dal: 1992}
 
   emmanuel-macron:
@@ -197,7 +335,7 @@ persone:
     naz: FRA
     affiliazioni:
       - {org: rothschild-cie, ruolo: banchiere, dal: 2008, al: 2012}
-      - {org: governo-francia, ruolo: presidente, dal: 2017}
+      - {org: governo-francia, ruolo: capo-governo, dal: 2017}
       - {org: wef, ruolo: ygl, dal: 2016}
       - {org: bilderberg, ruolo: partecipante, dal: 2014}
 
@@ -206,7 +344,7 @@ persone:
     nato: 1971
     naz: CAN
     affiliazioni:
-      - {org: governo-canada, ruolo: pm, dal: 2015}
+      - {org: governo-canada, ruolo: capo-governo, dal: 2015}
       - {org: wef, ruolo: ygl, dal: 2005}
 
   jacinda-ardern:
@@ -214,7 +352,7 @@ persone:
     nato: 1980
     naz: NZL
     affiliazioni:
-      - {org: governo-nz, ruolo: pm, dal: 2017, al: 2023}
+      - {org: governo-nz, ruolo: capo-governo, dal: 2017, al: 2023}
       - {org: wef, ruolo: ygl, dal: 2014}
 
   # --- Tech ---
@@ -259,6 +397,127 @@ persone:
       - {org: founders-fund, ruolo: partner, dal: 2005}
       - {org: wef, ruolo: ygl, dal: 2007}
       - {org: bilderberg, ruolo: partecipante, dal: 2024}
+
+  # --- Figure storiche (stub - attori eventi) ---
+  jp-morgan:
+    nato: 1837
+    morto: 1913
+    naz: USA
+    nota: "J. Pierpont Morgan, architetto Federal Reserve"
+
+  paul-warburg:
+    nato: 1868
+    morto: 1932
+    naz: USA
+    nota: "Architetto Federal Reserve, famiglia Warburg"
+
+  nelson-aldrich:
+    nato: 1841
+    morto: 1915
+    naz: USA
+    nota: "Senatore Rhode Island, suocero di John D. Rockefeller Jr."
+
+  john-d-rockefeller-jr:
+    nato: 1874
+    morto: 1960
+    naz: USA
+    famiglia: rockefeller
+    nota: "Figlio del fondatore, filantropia"
+
+  john-maynard-keynes:
+    nato: 1883
+    morto: 1946
+    naz: GBR
+    nota: "Economista, negoziatore Bretton Woods per UK"
+
+  harry-dexter-white:
+    nato: 1892
+    morto: 1948
+    naz: USA
+    nota: "Architetto Bretton Woods per USA"
+
+  richard-nixon:
+    nato: 1913
+    morto: 1994
+    naz: USA
+    nota: "37° Presidente USA, Nixon Shock"
+
+  john-connally:
+    nato: 1917
+    morto: 1993
+    naz: USA
+    nota: "Segretario Tesoro Nixon, 'il dollaro e' la nostra moneta ma il vostro problema'"
+
+  mikhail-gorbachev:
+    nato: 1931
+    morto: 2022
+    naz: RUS
+    nota: "Ultimo leader URSS, glasnost/perestroika"
+
+  boris-yeltsin:
+    nato: 1931
+    morto: 2007
+    naz: RUS
+    nota: "Primo presidente Russia, privatizzazioni"
+
+  antonio-di-pietro:
+    nato: 1950
+    naz: ITA
+    nota: "PM Mani Pulite"
+
+  bettino-craxi:
+    nato: 1934
+    morto: 2000
+    naz: ITA
+    nota: "Segretario PSI, simbolo Tangentopoli"
+
+  helmut-kohl:
+    nato: 1930
+    morto: 2017
+    naz: DEU
+    nota: "Cancelliere Germania, riunificazione, Maastricht"
+
+  francois-mitterrand:
+    nato: 1916
+    morto: 1996
+    naz: FRA
+    nota: "Presidente Francia, Maastricht"
+
+  bill-clinton:
+    nato: 1946
+    naz: USA
+    nota: "42° Presidente USA"
+
+  alan-greenspan:
+    nato: 1926
+    naz: USA
+    nota: "Fed Chairman 1987-2006"
+
+  george-w-bush:
+    nato: 1946
+    naz: USA
+    famiglia: bush
+    nota: "43° Presidente USA, War on Terror"
+
+  dick-cheney:
+    nato: 1941
+    naz: USA
+    nota: "VP Bush, Halliburton"
+
+  henry-paulson:
+    nato: 1946
+    naz: USA
+    nota: "Segretario Tesoro 2006-2009, ex-CEO Goldman Sachs"
+
+  ben-bernanke:
+    nato: 1953
+    naz: USA
+    nota: "Fed Chairman 2006-2014, QE"
+
+  tim-geithner:
+    nato: 1961
+    naz: USA
+    nota: "Segretario Tesoro 2009-2013, ex-NY Fed, Warburg Pincus"
 
 # =============================================================================
 # ISTITUZIONI
@@ -447,6 +706,145 @@ istituzioni:
     sede: Silicon Valley
     tags: [tech, thiel, musk]
 
+  # --- Governi (stub - niente scheda dedicata) ---
+  governo-italia:
+    tipo: governo
+    sede: Roma
+  governo-uk:
+    tipo: governo
+    sede: Londra
+  governo-germania:
+    tipo: governo
+    sede: Berlino
+  governo-francia:
+    tipo: governo
+    sede: Parigi
+  governo-canada:
+    tipo: governo
+    sede: Ottawa
+  governo-nz:
+    tipo: governo
+    sede: Wellington
+
+  # --- Agenzie USA (stub) ---
+  nsa:
+    tipo: agenzia
+    sede: Washington
+    nota: "National Security Advisor"
+  stato-usa:
+    tipo: governo
+    sede: Washington
+    nota: "Dipartimento di Stato"
+  tesoro-usa:
+    tipo: governo
+    sede: Washington
+    nota: "Dipartimento del Tesoro"
+  federal-reserve-ny:
+    tipo: central-bank
+    sede: New York
+    nota: "Federal Reserve Bank of New York"
+
+  # --- Banche e finanza (stub) ---
+  chase-manhattan:
+    tipo: bank
+    sede: New York
+    nota: "Fusa in JPMorgan Chase nel 2000"
+  citigroup:
+    tipo: bank
+    sede: New York
+  rothschild-cie:
+    tipo: investment-bank
+    sede: Parigi
+    nota: "Rothschild & Cie Banque"
+  carlyle-group:
+    tipo: private-equity
+    sede: Washington
+
+  # --- Tech (stub) ---
+  microsoft:
+    tipo: tech
+    sede: Redmond
+  amazon:
+    tipo: tech
+    sede: Seattle
+  tesla:
+    tipo: tech
+    sede: Austin
+  spacex:
+    tipo: tech
+    sede: Hawthorne
+  x-twitter:
+    tipo: tech
+    sede: San Francisco
+    nota: "Ex Twitter"
+  palantir:
+    tipo: tech
+    sede: Denver
+  paypal:
+    tipo: tech
+    sede: San Jose
+  blue-origin:
+    tipo: tech
+    sede: Kent
+  founders-fund:
+    tipo: venture-capital
+    sede: San Francisco
+
+  # --- Media (stub) ---
+  washington-post:
+    tipo: media
+    sede: Washington
+  economist:
+    tipo: media
+    sede: Londra
+
+  # --- Fondazioni (stub) ---
+  gates-foundation:
+    tipo: fondazione
+    sede: Seattle
+
+  # --- Corporate Italia (stub) ---
+  fiat:
+    tipo: auto
+    sede: Torino
+    nota: "Ora Stellantis"
+  exor:
+    tipo: holding
+    sede: Amsterdam
+  stellantis:
+    tipo: auto
+    sede: Amsterdam
+
+  # --- UE (stub) ---
+  commissione-ue:
+    tipo: istituzione-ue
+    sede: Bruxelles
+  banca-italia:
+    tipo: central-bank
+    sede: Roma
+
+  # --- Energia (stub) ---
+  opec:
+    tipo: cartello
+    sede: Vienna
+    nota: "Organization of the Petroleum Exporting Countries"
+  saudi-aramco:
+    tipo: oil
+    sede: Arabia Saudita
+    nota: "Compagnia petrolifera saudita"
+
+  # --- Banche fallite (stub) ---
+  lehman-brothers:
+    tipo: investment-bank
+    sede: New York
+    nota: "Fallita 2008"
+
+  # --- Organizzazioni internazionali (stub) ---
+  oms:
+    tipo: organizzazione-internazionale
+    sede: Ginevra
+    nota: "Organizzazione Mondiale della Sanita'"
+
 # =============================================================================
 # EVENTI
 # =============================================================================
@@ -457,7 +855,7 @@ eventi:
     anno: 1910
     tipo: riunione-segreta
     luogo: Georgia
-    protagonisti: [jp-morgan, warburg, rockefeller]
+    attori: [jp-morgan, paul-warburg, nelson-aldrich, john-d-rockefeller-jr]
     risultato: federal-reserve
 
   1944-bretton-woods:
@@ -465,6 +863,7 @@ eventi:
     anno: 1944
     tipo: conferenza
     luogo: New Hampshire
+    attori: [john-maynard-keynes, harry-dexter-white, fmi, banca-mondiale]
     risultato: [fmi, banca-mondiale, dollaro-oro]
 
   1971-fine-bretton-woods:
@@ -472,7 +871,7 @@ eventi:
     anno: 1971
     tipo: decisione
     luogo: USA
-    protagonisti: [nixon, connally]
+    attori: [richard-nixon, john-connally, federal-reserve]
     risultato: fiat-money
 
   1973-crisi-petrolifera:
@@ -480,13 +879,15 @@ eventi:
     anno: 1973
     tipo: crisi
     luogo: globale
+    attori: [opec, henry-kissinger, saudi-aramco]
     risultato: petrodollaro
 
   1973-fondazione-trilaterale:
     file: eventi/1973-fondazione-trilaterale.md
     anno: 1973
     tipo: fondazione
-    protagonisti: [david-rockefeller, zbigniew-brzezinski]
+    luogo: USA
+    attori: [david-rockefeller, zbigniew-brzezinski, trilaterale]
     risultato: trilaterale
 
   1991-dissoluzione-urss:
@@ -494,6 +895,7 @@ eventi:
     anno: 1991
     tipo: evento-storico
     luogo: URSS
+    attori: [mikhail-gorbachev, boris-yeltsin]
     risultato: [fine-guerra-fredda, oligarchi, unipolarismo]
 
   1992-tangentopoli:
@@ -501,6 +903,7 @@ eventi:
     anno: 1992
     tipo: crisi-politica
     luogo: Italia
+    attori: [antonio-di-pietro, bettino-craxi]
     risultato: fine-prima-repubblica
 
   1992-trattato-maastricht:
@@ -508,6 +911,7 @@ eventi:
     anno: 1992
     tipo: trattato
     luogo: Paesi Bassi
+    attori: [helmut-kohl, francois-mitterrand, commissione-ue]
     risultato: [unione-europea, euro]
 
   1999-abolizione-glass-steagall:
@@ -515,7 +919,7 @@ eventi:
     anno: 1999
     tipo: deregulation
     luogo: USA
-    protagonisti: [robert-rubin, clinton, greenspan]
+    attori: [robert-rubin, bill-clinton, alan-greenspan, citigroup, federal-reserve]
     risultato: too-big-to-fail
 
   2001-11-settembre:
@@ -523,6 +927,7 @@ eventi:
     anno: 2001
     tipo: attacco
     luogo: USA
+    attori: [george-w-bush, dick-cheney]
     risultato: [war-on-terror, patriot-act, sorveglianza]
 
   2008-crisi-finanziaria:
@@ -530,7 +935,7 @@ eventi:
     anno: 2008
     tipo: crisi
     luogo: globale
-    protagonisti: [paulson, bernanke, geithner]
+    attori: [henry-paulson, ben-bernanke, tim-geithner, federal-reserve, tesoro-usa, goldman-sachs, lehman-brothers]
     risultato: [bailout, quantitative-easing]
 
   2011-crisi-debito-sovrano:
@@ -538,7 +943,7 @@ eventi:
     anno: 2011
     tipo: crisi
     luogo: Europa
-    protagonisti: [mario-draghi, mario-monti, angela-merkel]
+    attori: [mario-draghi, mario-monti, angela-merkel, bce, fmi, governo-italia, commissione-ue]
     risultato: governi-tecnici
 
   2020-pandemia-great-reset:
@@ -546,7 +951,7 @@ eventi:
     anno: 2020
     tipo: crisi
     luogo: globale
-    protagonisti: [klaus-schwab]
+    attori: [klaus-schwab, wef, oms]
     risultato: great-reset
 
 # =============================================================================
