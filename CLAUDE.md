@@ -13,41 +13,46 @@ Manuale di storia 1945-oggi attraverso i **soggetti del potere reale**: famiglie
 ```
 deepscript/
 ├── CLAUDE.md           # Istruzioni agente
-├── index.yaml          # DATABASE CENTRALIZZATO - fonte di verita'
+├── index.yaml          # Config, enum, todo, relazioni
+├── persone.yaml        # Database persone
+├── istituzioni.yaml    # Database istituzioni
+├── eventi.yaml         # Database eventi
+├── media.yaml          # Database media
+├── famiglie.yaml       # Database famiglie
 ├── templates/          # Template schede
-├── istituzioni/        # Schede organizzazioni
-├── persone/            # Schede persone
-├── eventi/             # Schede eventi
-├── family/             # Schede dinastie
+├── istituzioni/        # Schede organizzazioni (.md)
+├── persone/            # Schede persone (.md)
+├── eventi/             # Schede eventi (.md)
+├── family/             # Schede dinastie (.md)
+├── media/              # Schede media (.md)
 ```
 
 ---
+produci risultati KISS e YAGNI
 
-## index.yaml - Fonte di verita'
+## Database YAML - Fonte di verita'
 
-**LEGGI SEMPRE index.yaml prima di lavorare.** Contiene:
-- Tutte le persone, istituzioni, eventi, famiglie
-- Affiliazioni (singola fonte di verita' per membership)
-- Enum dei valori standard (ruoli, tipi, settori)
-- Relazioni speciali (mentore, revolving door, alleanze)
+Il database e' diviso in file separati per gestibilita':
+
+| File | Contenuto |
+|------|-----------|
+| `index.yaml` | Config, enum, todo, relazioni |
+| `persone.yaml` | Tutti gli individui con affiliazioni |
+| `istituzioni.yaml` | Tutte le organizzazioni con stakeholders |
+| `eventi.yaml` | Eventi storici |
+| `media.yaml` | Testate e gruppi editoriali |
+| `famiglie.yaml` | Dinastie |
+
+**Prima di lavorare**, leggi il file YAML pertinente:
+- Aggiungi persona? -> `persone.yaml`
+- Aggiungi istituzione? -> `istituzioni.yaml`
+- Cerca enum/ruoli validi? -> `index.yaml`
 
 ### Convenzioni base
 
 - **Con scheda**: ha campo `file: percorso/file.md`
 - **Stub (senza scheda)**: NON ha campo `file`
 - **Ruoli e tipi**: usa SOLO valori dalla sezione `enum:` di index.yaml
-
-### Sezioni principali
-
-```yaml
-enum:           # Valori standard (ruoli, tipi, settori)
-persone:        # Individui (con affiliazioni)
-istituzioni:    # Organizzazioni (con stakeholders)
-eventi:         # Eventi storici
-media:          # Testate e gruppi editoriali
-famiglie:       # Dinastie
-relazioni:      # Relazioni speciali (mentore, etc.)
-```
 
 ### Campo `stakeholders` (nelle istituzioni)
 
@@ -86,8 +91,13 @@ affiliazioni:
 
 ### Quando crei una nuova scheda:
 
-1. **Leggi index.yaml** per verificare contesto
-2. **Crea entry in index.yaml** con campo `file:`
+1. **Leggi il file YAML pertinente** per verificare contesto
+2. **Crea entry nel file YAML corretto** con campo `file:`
+   - Persona -> `persone.yaml`
+   - Istituzione -> `istituzioni.yaml`
+   - Evento -> `eventi.yaml`
+   - Media -> `media.yaml`
+   - Famiglia -> `famiglie.yaml`
 3. **Aggiungi stakeholders/affiliazioni** nell'entry
 4. **Crea stub** per entita' referenziate che non esistono
 5. **Crea il file .md** usando template da `templates/`
@@ -95,15 +105,15 @@ affiliazioni:
 
 ### Quando modifichi un documento:
 
-1. **Aggiorna index.yaml** con nuove affiliazioni/connessioni
-2. **Aggiorna stakeholders** nelle istituzioni coinvolte
+1. **Aggiorna il file YAML** con nuove affiliazioni/connessioni
+2. **Aggiorna stakeholders** in `istituzioni.yaml`
 3. **Aggiorna sezione "Connessioni"** nei documenti .md coinvolti
 
 ### Quando aggiungi una connessione:
 
-1. Verifica che entrambe le entita' esistano in index.yaml
+1. Verifica che entrambe le entita' esistano nei file YAML
 2. Aggiungi stub se mancano
-3. Usa ruoli standard dall'enum
+3. Usa ruoli standard dall'enum (`index.yaml`)
 4. Se e' una partecipazione azionaria, usa formato:
    `{org: nome, ruolo: holding, percentuale: "X%"}`
 
@@ -111,16 +121,16 @@ affiliazioni:
 
 Quando aggiungi un'entita', verifica e aggiorna:
 
-- [ ] Entry in index.yaml con tutti i campi
-- [ ] Affiliazioni della persona (se persona)
-- [ ] Stakeholders dell'istituzione (se istituzione)
+- [ ] Entry nel file YAML corretto con tutti i campi
+- [ ] Affiliazioni della persona in `persone.yaml`
+- [ ] Stakeholders dell'istituzione in `istituzioni.yaml`
 - [ ] Sezione "Documenti Correlati" nei file .md collegati
-- [ ] Membri delle famiglie (se membro di dinastia)
+- [ ] Membri delle famiglie in `famiglie.yaml`
 
 ### Esempio: Aggiungere una nuova persona
 
 ```yaml
-# 1. In index.yaml, sezione persone:
+# 1. In persone.yaml:
 mario-rossi:
   file: persone/mario-rossi.md
   nato: 1960
@@ -130,7 +140,7 @@ mario-rossi:
     - {org: governo-italia, ruolo: ministro, dal: 2001, al: 2005}
     - {org: bilderberg, ruolo: partecipante}
 
-# 2. In index.yaml, aggiorna stakeholders delle istituzioni:
+# 2. In istituzioni.yaml, aggiorna stakeholders:
 goldman-sachs:
   stakeholders:
     - {persona: mario-rossi, ruolo: partner, dal: 1990, al: 2000}  # AGGIUNGI
@@ -186,4 +196,4 @@ Consulta sempre `index.yaml` sezione `enum:` per i valori validi:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: 2 Dicembre 2025*

@@ -1,0 +1,157 @@
+# DeepScript - Famiglie/Dinastie
+# Grandi famiglie e dinastie
+# Ultimo aggiornamento: 2025-12-02
+
+famiglie:
+  rockefeller:
+    file: family/rockefeller.md
+    origine: USA
+    fondatore: John D. Rockefeller Sr.
+    settore_originario: petrolio
+    generazioni: 6
+    status: attiva
+    veicoli: [standard-oil, chase-manhattan, rockefeller-foundation]
+    stakeholders:
+      - {nome: john-d-sr, gen: 1, nato: 1839, morto: 1937, ruolo: fondatore}
+      - {nome: john-d-jr, gen: 2, nato: 1874, morto: 1960, ruolo: filantropia}
+      - {nome: john-d-iii, gen: 3, nato: 1906, morto: 1978, ruolo: filantropia}
+      - {nome: nelson, gen: 3, nato: 1908, morto: 1979, ruolo: vp-usa}
+      - {nome: laurance, gen: 3, nato: 1910, morto: 2004, ruolo: venture-capital}
+      - {nome: winthrop, gen: 3, nato: 1912, morto: 1973, ruolo: governatore-arkansas}
+      - {nome: david-rockefeller, gen: 3, nato: 1915, morto: 2017, ruolo: cfr-trilaterale, scheda: true}
+      - {nome: jay-iv, gen: 4, nato: 1937, ruolo: senatore}
+      - {nome: david-jr, gen: 4, nato: 1941, ruolo: chairman-rockefeller-co}
+
+  rothschild:
+    file: family/rothschild.md
+    origine: Germania
+    fondatore: Mayer Amschel Rothschild
+    settore_originario: banca
+    generazioni: 8
+    status: attiva
+    rami: [londra, parigi, svizzera]
+    stakeholders:
+      - {nome: mayer-amschel, gen: 1, nato: 1744, morto: 1812, ruolo: fondatore}
+      - {nome: nathan-mayer, gen: 2, nato: 1777, morto: 1836, ruolo: ramo-londra}
+      - {nome: james-mayer, gen: 2, nato: 1792, morto: 1868, ruolo: ramo-parigi}
+      - {nome: lionel, gen: 3, nato: 1808, morto: 1879, ruolo: primo-ebreo-parlamento-uk}
+      - {nome: victor, gen: 5, nato: 1910, morto: 1990, ruolo: 3-barone}
+      - {nome: jacob, gen: 6, nato: 1936, morto: 2024, ruolo: 4-barone-rit}
+      - {nome: evelyn, gen: 6, nato: 1931, morto: 2022, ruolo: chairman-nm-rothschild}
+      - {nome: david-de-rothschild, gen: 6, nato: 1942, ruolo: chairman-rothschild-co}
+      - {nome: nat, gen: 7, nato: 1971, ruolo: 5-barone}
+      - {nome: alexandre, gen: 7, nato: 1980, ruolo: exec-chairman-rothschild-co}
+
+  morgan:
+    file: family/morgan.md
+    origine: USA
+    fondatore: Junius Spencer Morgan
+    settore_originario: banca
+    generazioni: 4
+    status: estinta
+    legacy: [jpmorgan-chase, morgan-stanley]
+    stakeholders:
+      - {nome: junius-spencer, gen: 1, nato: 1813, morto: 1890, ruolo: fondatore}
+      - {nome: j-pierpont, gen: 2, nato: 1837, morto: 1913, ruolo: il-banchiere}
+      - {nome: jp-jr-jack, gen: 3, nato: 1867, morto: 1943, ruolo: senior-partner}
+      - {nome: henry-sturgis, gen: 4, nato: 1900, morto: 1982, ruolo: fondatore-morgan-stanley}
+
+  warburg:
+    file: family/warburg.md
+    origine: Germania
+    fondatore: Moses Marcus Warburg
+    settore_originario: banca
+    generazioni: 5
+    status: attiva
+    veicoli: [mm-warburg, warburg-pincus]
+    stakeholders:
+      - {nome: moses-marcus, gen: 1, nato: 1763, morto: 1830, ruolo: co-fondatore}
+      - {nome: gerson, gen: 1, nato: 1765, morto: 1826, ruolo: co-fondatore}
+      - {nome: max, gen: 3, nato: 1867, morto: 1946, ruolo: chairman-mm-warburg}
+      - {nome: paul-m, gen: 3, nato: 1868, morto: 1932, ruolo: architetto-federal-reserve}
+      - {nome: felix-m, gen: 3, nato: 1871, morto: 1937, ruolo: kuhn-loeb}
+      - {nome: james-p, gen: 4, nato: 1896, morto: 1969, ruolo: brain-trust-fdr}
+      - {nome: eric-m, gen: 4, nato: 1900, morto: 1990, ruolo: fondatore-warburg-pincus}
+      - {nome: siegmund-g, gen: 4, nato: 1902, morto: 1982, ruolo: fondatore-sg-warburg}
+
+  agnelli-elkann:
+    file: family/agnelli-elkann.md
+    origine: Italia
+    fondatore: Giovanni Agnelli Sr.
+    settore_originario: auto
+    generazioni: 4
+    status: attiva
+    veicoli: [fiat, exor, stellantis]
+    stakeholders:
+      - {nome: giovanni-sr, gen: 1, nato: 1866, morto: 1945, ruolo: fondatore-fiat}
+      - {nome: edoardo, gen: 2, nato: 1892, morto: 1935, ruolo: erede-morto}
+      - {nome: gianni-agnelli, gen: 3, nato: 1921, morto: 2003, ruolo: re-italia, scheda: true}
+      - {nome: umberto, gen: 3, nato: 1934, morto: 2004, ruolo: vice-chairman}
+      - {nome: margherita, gen: 4, nato: 1955, ruolo: figlia-in-conflitto}
+      - {nome: john-elkann, gen: 4, nato: 1976, ruolo: ceo-exor, scheda: true}
+      - {nome: lapo-elkann, gen: 4, nato: 1977, ruolo: escluso}
+
+  bush:
+    file: family/bush.md
+    origine: USA
+    fondatore: Prescott Bush
+    settore_originario: finanza-politica
+    generazioni: 5
+    status: declino
+    stakeholders:
+      - {nome: samuel-prescott, gen: 1, nato: 1863, morto: 1948, ruolo: industriale}
+      - {nome: prescott-sheldon, gen: 2, nato: 1895, morto: 1972, ruolo: senatore}
+      - {nome: george-hw, gen: 3, nato: 1924, morto: 2018, ruolo: 41-presidente}
+      - {nome: george-w, gen: 4, nato: 1946, ruolo: 43-presidente}
+      - {nome: jeb, gen: 4, nato: 1953, ruolo: governatore-florida}
+      - {nome: george-p, gen: 5, nato: 1976, ruolo: politico-sconfitto}
+
+  walton:
+    file: family/walton.md
+    origine: USA
+    fondatore: Sam Walton
+    settore_originario: retail
+    generazioni: 3
+    status: attiva
+    veicoli: [walmart]
+    patrimonio: "432B"
+    stakeholders:
+      - {nome: sam, gen: 1, nato: 1918, morto: 1992, ruolo: fondatore-walmart}
+      - {nome: bud, gen: 1, nato: 1921, morto: 1995, ruolo: co-fondatore}
+      - {nome: rob, gen: 2, nato: 1944, ruolo: ex-chairman-walmart}
+      - {nome: john, gen: 2, nato: 1946, morto: 2005, ruolo: aviatore}
+      - {nome: jim, gen: 2, nato: 1948, ruolo: chairman-arvest}
+      - {nome: alice, gen: 2, nato: 1949, ruolo: arte-crystal-bridges}
+      - {nome: lukas, gen: 3, nato: 1986, ruolo: filantropo}
+
+  murdoch:
+    file: family/murdoch.md
+    origine: Australia
+    fondatore: Keith Murdoch
+    settore_originario: media
+    generazioni: 3
+    status: attiva
+    veicoli: [news-corp, fox]
+    stakeholders:
+      - {nome: keith, gen: 1, nato: 1885, morto: 1952, ruolo: fondatore}
+      - {nome: rupert, gen: 2, nato: 1931, ruolo: espansione-globale}
+      - {nome: prudence, gen: 3, nato: 1958, ruolo: esclusa}
+      - {nome: elisabeth, gen: 3, nato: 1968, ruolo: esclusa}
+      - {nome: lachlan, gen: 3, nato: 1971, ruolo: erede-designato}
+      - {nome: james, gen: 3, nato: 1972, ruolo: escluso}
+
+  dupont:
+    file: family/dupont.md
+    origine: Francia/USA
+    fondatore: E.I. du Pont
+    settore_originario: chimica
+    generazioni: 8
+    status: dispersa
+    stakeholders:
+      - {nome: pierre-samuel, gen: 1, nato: 1739, morto: 1817, ruolo: emigrato-fondatore}
+      - {nome: ei-dupont, gen: 2, nato: 1771, morto: 1834, ruolo: fondatore-industriale}
+      - {nome: henry, gen: 3, nato: 1812, morto: 1889, ruolo: ceo}
+      - {nome: alfred-i, gen: 4, nato: 1864, morto: 1935, ruolo: industriale}
+      - {nome: t-coleman, gen: 4, nato: 1863, morto: 1930, ruolo: presidente-senatore}
+      - {nome: pierre-s, gen: 4, nato: 1870, morto: 1954, ruolo: chairman-dupont-gm}
+      - {nome: pete-iv, gen: 6, nato: 1935, morto: 2021, ruolo: governatore-delaware}

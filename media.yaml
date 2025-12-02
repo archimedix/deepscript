@@ -1,0 +1,118 @@
+# DeepScript - Media
+# Testate e gruppi editoriali
+# Ultimo aggiornamento: 2025-12-02
+
+media:
+  # --- Stampa internazionale ---
+  economist:
+    tipo: testata
+    fondato: 1843
+    sede: Londra
+    proprietario: agnelli-elkann  # via Exor
+    orientamento: liberale
+    note: "Chairman John Elkann dal 2009"
+    stakeholders:
+      - {persona: john-elkann, ruolo: chairman, dal: 2009}
+
+  washington-post:
+    tipo: testata
+    fondato: 1877
+    sede: Washington
+    proprietario: jeff-bezos
+    note: "Acquistato da Bezos nel 2013"
+    stakeholders:
+      - {persona: jeff-bezos, ruolo: proprietario, dal: 2013}
+
+  # --- Gruppi editoriali Italia ---
+  gedi:
+    tipo: gruppo
+    sede: Roma
+    proprietario: exor
+    testate: [repubblica, la-stampa, lespresso]
+    note: "Gruppo Editoriale, controllato da Exor (Elkann)"
+    stakeholders:
+      - {persona: john-elkann, ruolo: proprietario, dal: 2020, nota: "via Exor"}
+
+  rcs-mediagroup:
+    tipo: gruppo
+    sede: Milano
+    proprietario: urbano-cairo
+    testate: [corriere-della-sera, gazzetta-dello-sport]
+    note: "Cairo Communications dal 2016"
+
+  mediaset:
+    tipo: broadcaster
+    fondato: 1978
+    sede: Milano
+    proprietario: fininvest
+    canali: [canale-5, italia-1, rete-4]
+    note: "Berlusconi, ora MFE-MediaForEurope"
+
+  rai:
+    tipo: broadcaster
+    fondato: 1954
+    sede: Roma
+    proprietario: stato-italiano
+    canali: [rai-1, rai-2, rai-3]
+    note: "Servizio pubblico, controllo politico"
+
+  # --- Testate Italia ---
+  corriere-della-sera:
+    file: media/corriere-della-sera.md
+    tipo: testata
+    fondato: 1876
+    sede: Milano
+    gruppo: rcs-mediagroup
+    proprietario: urbano-cairo
+    direttore: luciano-fontana
+    orientamento: liberale-moderato
+    tags: [via-solferino, establishment, borghesia-milanese]
+
+  repubblica:
+    file: media/repubblica.md
+    tipo: testata
+    fondato: 1976
+    sede: Roma
+    gruppo: gedi
+    proprietario: agnelli-elkann
+    direttore: mario-orfeo
+    orientamento: centrosinistra
+    tags: [progressista, scalfari, de-benedetti]
+    note: "Fondata da Eugenio Scalfari e Carlo Caracciolo"
+    stakeholders:
+      - {persona: john-elkann, ruolo: proprietario, dal: 2020, nota: "via GEDI"}
+
+  la-stampa:
+    file: media/la-stampa.md
+    tipo: testata
+    fondato: 1867
+    sede: Torino
+    gruppo: gedi
+    proprietario: agnelli-elkann
+    direttore: andrea-malaguti
+    orientamento: liberale-moderato
+    tags: [agnelli, fiat, torino]
+    note: "Storica testata Agnelli, fondata come Gazzetta Piemontese"
+    stakeholders:
+      - {persona: gianni-agnelli, ruolo: proprietario, nota: "via FIAT"}
+      - {persona: john-elkann, ruolo: proprietario, dal: 2016, nota: "via GEDI"}
+
+  il-sole-24-ore:
+    tipo: testata
+    fondato: 1865
+    sede: Milano
+    proprietario: confindustria
+    orientamento: liberale-economico
+
+  # --- Agenzie ---
+  ansa:
+    tipo: agenzia
+    fondato: 1945
+    sede: Roma
+    note: "Principale agenzia stampa italiana"
+
+  reuters:
+    tipo: agenzia
+    fondato: 1851
+    sede: Londra
+    note: "Thomson Reuters dal 2008"

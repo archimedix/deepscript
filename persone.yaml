@@ -1,0 +1,577 @@
+# DeepScript - Persone
+# Fonte di verita' per tutti gli individui
+# Ultimo aggiornamento: 2025-12-02
+
+persone:
+  david-rockefeller:
+    file: persone/david-rockefeller.md
+    nato: 1915
+    morto: 2017
+    naz: USA
+    famiglia: rockefeller
+    affiliazioni:
+      - {org: chase-manhattan, ruolo: ceo, dal: 1969, al: 1981}
+      - {org: cfr, ruolo: chairman, dal: 1970, al: 1985}
+      - {org: trilaterale, ruolo: fondatore-chairman, dal: 1973}
+      - {org: bilderberg, ruolo: steering}
+
+  henry-kissinger:
+    file: persone/henry-kissinger.md
+    nato: 1923
+    morto: 2023
+    naz: USA
+    affiliazioni:
+      - {org: nsa, ruolo: consigliere, dal: 1969, al: 1975}
+      - {org: stato-usa, ruolo: ministro, dal: 1973, al: 1977}
+      - {org: cfr, ruolo: membro}
+      - {org: trilaterale, ruolo: steering}
+      - {org: bilderberg, ruolo: partecipante}
+
+  zbigniew-brzezinski:
+    file: persone/zbigniew-brzezinski.md
+    nato: 1928
+    morto: 2017
+    naz: USA
+    affiliazioni:
+      - {org: trilaterale, ruolo: fondatore-direttore, dal: 1973}
+      - {org: nsa, ruolo: consigliere, dal: 1977, al: 1981}
+      - {org: cfr, ruolo: membro}
+
+  klaus-schwab:
+    file: persone/klaus-schwab.md
+    nato: 1938
+    naz: DEU
+    affiliazioni:
+      - {org: wef, ruolo: fondatore-chairman, dal: 1971}
+      - {org: bilderberg, ruolo: partecipante}
+
+  george-soros:
+    file: persone/george-soros.md
+    nato: 1930
+    naz: USA
+    affiliazioni:
+      - {org: open-society, ruolo: fondatore, dal: 1993}
+      - {org: wef, ruolo: partecipante}
+
+  larry-fink:
+    file: persone/larry-fink.md
+    nato: 1952
+    naz: USA
+    affiliazioni:
+      - {org: blackrock, ruolo: ceo-fondatore, dal: 1988}
+      - {org: wef, ruolo: co-chairman}
+      - {org: trilaterale, ruolo: membro}
+      - {org: cfr, ruolo: steering}
+
+  robert-rubin:
+    file: persone/robert-rubin.md
+    nato: 1938
+    naz: USA
+    affiliazioni:
+      - {org: goldman-sachs, ruolo: co-chairman, dal: 1990, al: 1992}
+      - {org: tesoro-usa, ruolo: segretario, dal: 1995, al: 1999}
+      - {org: citigroup, ruolo: senior-advisor, dal: 1999}
+      - {org: cfr, ruolo: co-chairman}
+
+  jamie-dimon:
+    file: persone/jamie-dimon.md
+    nato: 1956
+    naz: USA
+    affiliazioni:
+      - {org: jpmorgan-chase, ruolo: ceo, dal: 2005}
+      - {org: federal-reserve-ny, ruolo: board}
+
+  jerome-powell:
+    file: persone/jerome-powell.md
+    nato: 1953
+    naz: USA
+    affiliazioni:
+      - {org: carlyle-group, ruolo: partner, dal: 1997, al: 2005}
+      - {org: federal-reserve, ruolo: chairman, dal: 2018}
+
+  christine-lagarde:
+    file: persone/christine-lagarde.md
+    nato: 1956
+    naz: FRA
+    affiliazioni:
+      - {org: fmi, ruolo: direttore, dal: 2011, al: 2019}
+      - {org: bce, ruolo: presidente, dal: 2019}
+      - {org: bilderberg, ruolo: partecipante}
+      - {org: trilaterale, ruolo: membro}
+
+  # --- Tecnocrati italiani ---
+
+  mario-draghi:
+    file: persone/mario-draghi.md
+    nato: 1947
+    naz: ITA
+    affiliazioni:
+      - {org: goldman-sachs, ruolo: vice-chairman, dal: 2002, al: 2005}
+      - {org: banca-italia, ruolo: governatore, dal: 2006, al: 2011}
+      - {org: bce, ruolo: presidente, dal: 2011, al: 2019}
+      - {org: governo-italia, ruolo: capo-governo, dal: 2021, al: 2022}
+      - {org: bilderberg, ruolo: partecipante}
+      - {org: wef, ruolo: partecipante}
+      - {org: gruppo-30, ruolo: membro}
+
+  mario-monti:
+    file: persone/mario-monti.md
+    nato: 1943
+    naz: ITA
+    affiliazioni:
+      - {org: commissione-ue, ruolo: commissario, dal: 1995, al: 2004}
+      - {org: goldman-sachs, ruolo: advisor, dal: 2005, al: 2011}
+      - {org: governo-italia, ruolo: capo-governo, dal: 2011, al: 2013}
+      - {org: bilderberg, ruolo: steering}
+      - {org: trilaterale, ruolo: chairman, dal: 2010, nota: "Europa"}
+      - {org: wef, ruolo: partecipante}
+      - {org: aspen-institute, ruolo: membro}
+
+  romano-prodi:
+    file: persone/romano-prodi.md
+    nato: 1939
+    naz: ITA
+    affiliazioni:
+      - {org: governo-italia, ruolo: capo-governo, dal: 1996, al: 1998}
+      - {org: commissione-ue, ruolo: presidente, dal: 1999, al: 2004}
+      - {org: governo-italia, ruolo: capo-governo, dal: 2006, al: 2008}
+      - {org: goldman-sachs, ruolo: advisor}
+      - {org: bilderberg, ruolo: steering}
+      - {org: aspen-institute, ruolo: membro}
+
+  gianni-agnelli:
+    file: persone/gianni-agnelli.md
+    nato: 1921
+    morto: 2003
+    naz: ITA
+    famiglia: agnelli-elkann
+    affiliazioni:
+      - {org: fiat, ruolo: presidente, dal: 1966, al: 1996}
+      - {org: la-stampa, ruolo: proprietario, nota: "via FIAT"}
+      - {org: bilderberg, ruolo: steering}
+      - {org: trilaterale, ruolo: membro}
+      - {org: chase-manhattan, ruolo: board}
+
+  john-elkann:
+    file: persone/john-elkann.md
+    nato: 1976
+    naz: ITA
+    famiglia: agnelli-elkann
+    affiliazioni:
+      - {org: exor, ruolo: ceo, dal: 2004}
+      - {org: stellantis, ruolo: chairman, dal: 2021}
+      - {org: gedi, ruolo: proprietario, dal: 2020, nota: "via Exor"}
+      - {org: repubblica, ruolo: proprietario, dal: 2020, nota: "via GEDI"}
+      - {org: la-stampa, ruolo: proprietario, dal: 2016, nota: "via GEDI"}
+      - {org: economist, ruolo: chairman, dal: 2009}
+      - {org: bilderberg, ruolo: steering}
+      - {org: aspen-institute, ruolo: vice-presidente}
+
+  # --- Leader politici (YGL/GLT) ---
+
+  tony-blair:
+    file: persone/tony-blair.md
+    nato: 1953
+    naz: GBR
+    affiliazioni:
+      - {org: governo-uk, ruolo: capo-governo, dal: 1997, al: 2007}
+      - {org: wef, ruolo: glt, dal: 1992}
+      - {org: jpmorgan-chase, ruolo: advisor, dal: 2008}
+
+  angela-merkel:
+    file: persone/angela-merkel.md
+    nato: 1954
+    naz: DEU
+    affiliazioni:
+      - {org: governo-germania, ruolo: capo-governo, dal: 2005, al: 2021}
+      - {org: wef, ruolo: glt, dal: 1992}
+
+  emmanuel-macron:
+    file: persone/emmanuel-macron.md
+    nato: 1977
+    naz: FRA
+    affiliazioni:
+      - {org: rothschild-cie, ruolo: banchiere, dal: 2008, al: 2012}
+      - {org: governo-francia, ruolo: capo-governo, dal: 2017}
+      - {org: wef, ruolo: ygl, dal: 2016}
+      - {org: bilderberg, ruolo: partecipante, dal: 2014}
+
+  justin-trudeau:
+    file: persone/justin-trudeau.md
+    nato: 1971
+    naz: CAN
+    affiliazioni:
+      - {org: governo-canada, ruolo: capo-governo, dal: 2015}
+      - {org: wef, ruolo: ygl, dal: 2005}
+
+  jacinda-ardern:
+    file: persone/jacinda-ardern.md
+    nato: 1980
+    naz: NZL
+    affiliazioni:
+      - {org: governo-nz, ruolo: capo-governo, dal: 2017, al: 2023}
+      - {org: wef, ruolo: ygl, dal: 2014}
+
+  # --- Tech ---
+
+  bill-gates:
+    file: persone/bill-gates.md
+    nato: 1955
+    naz: USA
+    affiliazioni:
+      - {org: microsoft, ruolo: fondatore-ceo, dal: 1975, al: 2000}
+      - {org: gates-foundation, ruolo: co-chair, dal: 2000}
+      - {org: bilderberg, ruolo: partecipante}
+      - {org: wef, ruolo: partecipante}
+
+  jeff-bezos:
+    file: persone/jeff-bezos.md
+    nato: 1964
+    naz: USA
+    affiliazioni:
+      - {org: amazon, ruolo: fondatore-ceo, dal: 1994, al: 2021}
+      - {org: amazon, ruolo: executive-chairman, dal: 2021}
+      - {org: blue-origin, ruolo: fondatore, dal: 2000}
+      - {org: washington-post, ruolo: proprietario, dal: 2013}
+
+  elon-musk:
+    file: persone/elon-musk.md
+    nato: 1971
+    naz: USA
+    affiliazioni:
+      - {org: paypal, ruolo: co-fondatore, dal: 1999, al: 2002}
+      - {org: tesla, ruolo: ceo, dal: 2008}
+      - {org: spacex, ruolo: fondatore-ceo, dal: 2002}
+      - {org: x-twitter, ruolo: proprietario, dal: 2022}
+
+  peter-thiel:
+    file: persone/peter-thiel.md
+    nato: 1967
+    naz: USA
+    affiliazioni:
+      - {org: paypal, ruolo: co-fondatore, dal: 1998, al: 2002}
+      - {org: palantir, ruolo: co-fondatore, dal: 2003}
+      - {org: founders-fund, ruolo: partner, dal: 2005}
+      - {org: wef, ruolo: ygl, dal: 2007}
+      - {org: bilderberg, ruolo: partecipante, dal: 2024}
+
+  # --- Figure storiche ---
+  jp-morgan:
+    file: persone/jp-morgan.md
+    nato: 1837
+    morto: 1913
+    naz: USA
+    famiglia: morgan
+    affiliazioni:
+      - {org: jpmorgan, ruolo: fondatore, dal: 1871}
+
+  paul-warburg:
+    file: persone/paul-warburg.md
+    nato: 1868
+    morto: 1932
+    naz: USA
+    famiglia: warburg
+    affiliazioni:
+      - {org: kuhn-loeb, ruolo: partner, dal: 1902, al: 1914}
+      - {org: federal-reserve, ruolo: vice-chairman, dal: 1914, al: 1918}
+      - {org: cfr, ruolo: fondatore, dal: 1921}
+
+  nelson-aldrich:
+    nato: 1841
+    morto: 1915
+    naz: USA
+    nota: "Senatore Rhode Island, suocero di John D. Rockefeller Jr."
+
+  john-d-rockefeller-jr:
+    nato: 1874
+    morto: 1960
+    naz: USA
+    famiglia: rockefeller
+    nota: "Figlio del fondatore, filantropia"
+
+  john-maynard-keynes:
+    nato: 1883
+    morto: 1946
+    naz: GBR
+    nota: "Economista, negoziatore Bretton Woods per UK"
+
+  harry-dexter-white:
+    nato: 1892
+    morto: 1948
+    naz: USA
+    nota: "Architetto Bretton Woods per USA"
+
+  richard-nixon:
+    nato: 1913
+    morto: 1994
+    naz: USA
+    nota: "37 Presidente USA, Nixon Shock"
+
+  john-connally:
+    nato: 1917
+    morto: 1993
+    naz: USA
+    nota: "Segretario Tesoro Nixon, 'il dollaro e' la nostra moneta ma il vostro problema'"
+
+  mikhail-gorbachev:
+    nato: 1931
+    morto: 2022
+    naz: RUS
+    nota: "Ultimo leader URSS, glasnost/perestroika"
+
+  boris-yeltsin:
+    nato: 1931
+    morto: 2007
+    naz: RUS
+    nota: "Primo presidente Russia, privatizzazioni"
+
+  antonio-di-pietro:
+    nato: 1950
+    naz: ITA
+    nota: "PM Mani Pulite"
+
+  bettino-craxi:
+    nato: 1934
+    morto: 2000
+    naz: ITA
+    nota: "Segretario PSI, simbolo Tangentopoli"
+
+  helmut-kohl:
+    nato: 1930
+    morto: 2017
+    naz: DEU
+    nota: "Cancelliere Germania, riunificazione, Maastricht"
+
+  francois-mitterrand:
+    nato: 1916
+    morto: 1996
+    naz: FRA
+    nota: "Presidente Francia, Maastricht"
+
+  bill-clinton:
+    nato: 1946
+    naz: USA
+    nota: "42 Presidente USA"
+
+  alan-greenspan:
+    nato: 1926
+    naz: USA
+    nota: "Fed Chairman 1987-2006"
+
+  george-w-bush:
+    nato: 1946
+    naz: USA
+    famiglia: bush
+    nota: "43 Presidente USA, War on Terror"
+
+  dick-cheney:
+    nato: 1941
+    naz: USA
+    nota: "VP Bush, Halliburton"
+
+  henry-paulson:
+    nato: 1946
+    naz: USA
+    nota: "Segretario Tesoro 2006-2009, ex-CEO Goldman Sachs"
+
+  ben-bernanke:
+    nato: 1953
+    naz: USA
+    nota: "Fed Chairman 2006-2014, QE"
+
+  tim-geithner:
+    nato: 1961
+    naz: USA
+    nota: "Segretario Tesoro 2009-2013, ex-NY Fed, Warburg Pincus"
+
+  # --- Protagonisti Britannia 1992 ---
+  beniamino-andreatta:
+    nato: 1928
+    morto: 2007
+    naz: ITA
+    nota: "Ministro Tesoro 1992, divorzio Bankitalia-Tesoro 1981, DC"
+    affiliazioni:
+      - {org: tesoro-italia, ruolo: ministro, dal: 1992, al: 1993}
+
+  carlo-azeglio-ciampi:
+    nato: 1920
+    morto: 2016
+    naz: ITA
+    nota: "Governatore Bankitalia 1979-1993, PM 1993-94, Presidente Repubblica 1999-2006"
+    affiliazioni:
+      - {org: banca-italia, ruolo: governatore, dal: 1979, al: 1993}
+      - {org: governo-italia, ruolo: capo-governo, dal: 1993, al: 1994}
+
+  guido-carli:
+    nato: 1914
+    morto: 1993
+    naz: ITA
+    nota: "Governatore Bankitalia 1960-75, Ministro Tesoro 1989-92, Confindustria"
+    affiliazioni:
+      - {org: banca-italia, ruolo: governatore, dal: 1960, al: 1975}
+      - {org: tesoro-italia, ruolo: ministro, dal: 1989, al: 1992}
+
+  gabriele-cagliari:
+    nato: 1926
+    morto: 1993
+    naz: ITA
+    nota: "Presidente ENI 1989-93, suicidio in carcere durante Tangentopoli"
+    affiliazioni:
+      - {org: eni, ruolo: presidente, dal: 1989, al: 1993}
+
+  riccardo-gallo:
+    nato: 1937
+    naz: ITA
+    nota: "Vice-presidente IRI, economista"
+    affiliazioni:
+      - {org: iri, ruolo: vice-presidente}
+
+  giovanni-bazoli:
+    nato: 1932
+    naz: ITA
+    nota: "Presidente Banco Ambrosiano Veneto, poi Intesa Sanpaolo"
+    affiliazioni:
+      - {org: banco-ambrosiano-veneto, ruolo: presidente}
+      - {org: intesa-sanpaolo, ruolo: presidente}
+
+  lorenzo-pallesi:
+    nato: 1930
+    morto: 2009
+    naz: ITA
+    nota: "Presidente INA Assitalia"
+    affiliazioni:
+      - {org: ina, ruolo: presidente}
+
+  franco-bernabe:
+    nato: 1948
+    naz: ITA
+    nota: "AD ENI 1992-98, AD Telecom Italia 1998-99 e 2008-13"
+    affiliazioni:
+      - {org: eni, ruolo: ceo, dal: 1992, al: 1998}
+      - {org: telecom-italia, ruolo: ceo, dal: 1998, al: 1999}
+      - {org: bilderberg, ruolo: steering}
+
+  # --- Figure lobby/advocacy pro-Israele ---
+  jonathan-greenblatt:
+    nato: 1971
+    naz: USA
+    nota: "CEO ADL dal 2015, ex Obama White House, co-fondatore Ethos Water"
+    affiliazioni:
+      - {org: adl, ruolo: ceo, dal: 2015}
+      - {org: ethos-water, ruolo: co-fondatore, dal: 2002, al: 2005}
+
+  ronald-lauder:
+    nato: 1944
+    naz: USA
+    famiglia: lauder
+    nota: "Presidente WJC, erede Estee Lauder, ex ambasciatore USA Austria"
+    affiliazioni:
+      - {org: world-jewish-congress, ruolo: presidente, dal: 2007}
+      - {org: world-jewish-restitution-org, ruolo: presidente, dal: 2008}
+      - {org: ambasciata-usa-austria, ruolo: ambasciatore, dal: 1986, al: 1987}
+      - {org: dod, ruolo: deputy-assistant-secretary, dal: 1983, al: 1986, nota: "European and NATO Policy"}
+
+  michael-makovsky:
+    nato: 1968
+    naz: USA
+    nota: "CEO JINSA dal 2013, ex Bipartisan Policy Center, ex DoD"
+    affiliazioni:
+      - {org: jinsa, ruolo: ceo, dal: 2013}
+      - {org: bipartisan-policy-center, ruolo: direttore, nota: "Foreign Policy"}
+      - {org: dod, ruolo: special-assistant}
+
+  morris-amitay:
+    nato: 1935
+    morto: 2019
+    naz: USA
+    nota: "Direttore esecutivo AIPAC 1974-80, poi JINSA"
+    affiliazioni:
+      - {org: aipac, ruolo: direttore, dal: 1974, al: 1980}
+      - {org: jinsa, ruolo: vice-presidente, dal: 1981}
+
+  howard-kohr:
+    nato: 1955
+    naz: USA
+    nota: "Direttore esecutivo AIPAC 1996-2024"
+    affiliazioni:
+      - {org: aipac, ruolo: direttore, dal: 1996, al: 2024}
+
+  david-de-rothschild-fr:
+    nato: 1942
+    naz: FRA
+    famiglia: rothschild
+    nota: "Chairman Rothschild & Co, Chairman WJC Governing Board"
+    affiliazioni:
+      - {org: rothschild-co, ruolo: chairman}
+      - {org: world-jewish-congress, ruolo: chairman, nota: "Governing Board"}
+
+  isaiah-kenen:
+    nato: 1905
+    morto: 1988
+    naz: USA
+    nota: "Fondatore AIPAC, ex funzionario Ministero Esteri israeliano"
+    affiliazioni:
+      - {org: aipac, ruolo: fondatore-direttore, dal: 1954, al: 1974}
+
+  stephen-wise:
+    nato: 1874
+    morto: 1949
+    naz: USA
+    nota: "Rabbi, co-fondatore WJC, leader sionista americano"
+    affiliazioni:
+      - {org: world-jewish-congress, ruolo: fondatore-presidente, dal: 1936, al: 1949}
+      - {org: american-jewish-congress, ruolo: fondatore, dal: 1918}
+
+  nahum-goldmann:
+    nato: 1895
+    morto: 1982
+    naz: USA
+    nota: "Co-fondatore WJC, presidente WJC 1949-1977, diplomatico"
+    affiliazioni:
+      - {org: world-jewish-congress, ruolo: co-fondatore, dal: 1936}
+      - {org: world-jewish-congress, ruolo: presidente, dal: 1949, al: 1977}
+
+  edgar-bronfman-sr:
+    nato: 1929
+    morto: 2013
+    naz: CAN
+    famiglia: bronfman
+    nota: "CEO Seagram, Presidente WJC 1981-2007"
+    affiliazioni:
+      - {org: seagram, ruolo: ceo, dal: 1971, al: 1994}
+      - {org: world-jewish-congress, ruolo: presidente, dal: 1981, al: 2007}
+
+  # --- Salute globale / OMS ---
+
+  tedros-adhanom:
+    file: persone/tedros-adhanom.md
+    nato: 1965
+    naz: ETH
+    affiliazioni:
+      - {org: governo-etiopia, ruolo: ministro, dal: 2005, al: 2012, nota: "Salute"}
+      - {org: governo-etiopia, ruolo: ministro, dal: 2012, al: 2016, nota: "Esteri"}
+      - {org: global-fund, ruolo: chairman, dal: 2009, al: 2011}
+      - {org: gavi, ruolo: board}
+      - {org: oms, ruolo: direttore, dal: 2017}
+      - {org: wef, ruolo: partecipante}
+
+  gro-harlem-brundtland:
+    file: persone/gro-harlem-brundtland.md
+    nato: 1939
+    naz: NOR
+    affiliazioni:
+      - {org: governo-norvegia, ruolo: ministro, dal: 1974, al: 1979, nota: "Ambiente"}
+      - {org: governo-norvegia, ruolo: capo-governo, dal: 1981, al: 1981}
+      - {org: governo-norvegia, ruolo: capo-governo, dal: 1986, al: 1989}
+      - {org: governo-norvegia, ruolo: capo-governo, dal: 1990, al: 1996}
+      - {org: oms, ruolo: direttore, dal: 1998, al: 2003}
+      - {org: bilderberg, ruolo: partecipante, dal: 1982, nota: "1982, 1983"}
+      - {org: trilaterale, ruolo: membro}
+      - {org: the-elders, ruolo: vice-chairman}
+
+  margaret-chan:
+    nato: 1947
+    naz: CHN
+    nota: "DG OMS 2006-2017, H1N1, Ebola"
+    affiliazioni:
+      - {org: oms, ruolo: direttore, dal: 2006, al: 2017}
