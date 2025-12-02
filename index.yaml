@@ -772,53 +772,94 @@ istituzioni:
     file: istituzioni/bilderberg-trilaterale.md
     fondato: 1954
     tipo: forum
-    sede: null
-    tags: [elite, transatlantico, invito-only]
+    sede: variabile
+    tags: [elite, transatlantico, invito-only, steering-committee]
+    nota: "~120-150 invitati/anno, 3 giorni, nessuna membership formale"
     stakeholders:
-      - {persona: david-rockefeller, ruolo: steering}
-      - {persona: henry-kissinger, ruolo: partecipante}
+      # Steering Committee attuale
+      - {persona: john-elkann, ruolo: steering, nota: "Stellantis/Exor"}
+      - {persona: lilli-gruber, ruolo: steering, nota: "La7"}
+      - {persona: mario-monti, ruolo: steering}
+      - {persona: franco-bernabe, ruolo: steering}
+      # Steering storici
+      - {persona: david-rockefeller, ruolo: steering-storico}
+      - {persona: henry-kissinger, ruolo: steering-storico, al: 2023}
+      - {persona: gianni-agnelli, ruolo: steering-storico}
+      - {persona: romano-prodi, ruolo: steering}
+      # Partecipanti
       - {persona: klaus-schwab, ruolo: partecipante}
       - {persona: christine-lagarde, ruolo: partecipante}
       - {persona: mario-draghi, ruolo: partecipante}
-      - {persona: mario-monti, ruolo: steering}
-      - {persona: romano-prodi, ruolo: steering}
-      - {persona: gianni-agnelli, ruolo: steering}
-      - {persona: john-elkann, ruolo: steering}
       - {persona: emmanuel-macron, ruolo: partecipante, dal: 2014}
       - {persona: bill-gates, ruolo: partecipante}
-      - {persona: peter-thiel, ruolo: partecipante, dal: 2024}
-      - {persona: franco-bernabe, ruolo: steering}
+      # Partecipanti recenti (2024-2025)
+      - {persona: peter-thiel, ruolo: partecipante, dal: 2024, nota: "PayPal Mafia"}
+      - {persona: enrico-letta, ruolo: partecipante, nota: "Bilderberg 2025"}
+      - {persona: borge-brende, ruolo: partecipante, nota: "Bilderberg 2025 - CEO WEF"}
+      - {persona: jose-barroso, ruolo: partecipante, nota: "Chair Goldman Sachs Int'l"}
+      # Collegamenti istituzionali
+      - {org: trilaterale, ruolo: partner, nota: "Forte overlap membership"}
+      - {org: wef, ruolo: partner, nota: "Brende partecipa a entrambi"}
+      - {org: cfr, ruolo: partner, nota: "Network comune Rockefeller"}
 
   trilaterale:
     file: istituzioni/bilderberg-trilaterale.md
     fondato: 1973
     tipo: forum
     sede: Washington/Tokyo/Paris
-    tags: [elite, usa-europa-asia, rockefeller]
+    tags: [elite, usa-europa-asia, rockefeller, technocracy]
+    nota: "~400 membri fissi, 3 regioni: Nord America, Europa, Asia-Pacifico"
     stakeholders:
-      - {persona: david-rockefeller, ruolo: fondatore-chairman, dal: 1973}
+      # Fondatori
+      - {persona: david-rockefeller, ruolo: fondatore-chairman, dal: 1973, al: 1991}
       - {persona: zbigniew-brzezinski, ruolo: fondatore-direttore, dal: 1973}
-      - {persona: henry-kissinger, ruolo: steering}
-      - {persona: larry-fink, ruolo: membro}
-      - {persona: christine-lagarde, ruolo: membro}
-      - {persona: mario-monti, ruolo: chairman, dal: 2010, nota: "Europa"}
-      - {persona: gianni-agnelli, ruolo: membro}
+      # Leadership attuale per regione
+      - {persona: mario-monti, ruolo: chairman-emeritus, nota: "Europa - anche PM Italia 2011-13"}
+      - {persona: meghan-osullivan, ruolo: chairman-na, nota: "Nord America - Harvard, CFR board"}
+      - {persona: axel-weber, ruolo: chairman-eu, nota: "Europa - ex-UBS, ex-Bundesbank"}
+      # Executive Committee
+      - {persona: henry-kissinger, ruolo: executive-committee, al: 2023}
+      # Membri notevoli
+      - {persona: larry-fink, ruolo: membro, nota: "CEO BlackRock, WEF Co-Chair"}
+      - {persona: christine-lagarde, ruolo: membro, nota: "BCE"}
+      - {persona: gianni-agnelli, ruolo: membro-storico}
       - {persona: gro-harlem-brundtland, ruolo: membro}
+      - {persona: marta-dassu, ruolo: membro, nota: "Anche Aspen Italia Senior Director"}
+      - {persona: giampaolo-di-paola, ruolo: membro, nota: "Ex-Min Difesa ITA, ex-Chair NATO Military Committee"}
+      # Collegamenti istituzionali
+      - {org: cfr, ruolo: partner, nota: "Rockefeller chairman di entrambi"}
+      - {org: blackrock, ruolo: partner, nota: "Fink membro"}
+      - {org: bilderberg, ruolo: partner, nota: "Forte overlap membership"}
+      - {org: aspen-institute, ruolo: partner, nota: "Monti/Dassu' in entrambi"}
 
   wef:
     file: istituzioni/wef.md
     fondato: 1971
     tipo: forum
     sede: Ginevra
-    tags: [davos, stakeholder-capitalism, schwab]
+    tags: [davos, stakeholder-capitalism, schwab, great-reset]
+    nota: "Annual Meeting Davos ~3000 partecipanti da 125+ paesi"
     stakeholders:
-      - {persona: klaus-schwab, ruolo: fondatore-chairman, dal: 1971}
+      # Leadership
+      - {persona: klaus-schwab, ruolo: fondatore-chairman, dal: 1971, al: 2025, nota: "Dimesso aprile 2025"}
+      - {persona: borge-brende, ruolo: president-ceo, dal: 2017, nota: "Ex-Ministro Esteri Norvegia"}
+      # Co-Chairman Board (2025)
+      - {persona: larry-fink, ruolo: co-chairman, dal: 2025, nota: "CEO BlackRock - $12.5T AUM"}
+      - {persona: andre-hoffmann, ruolo: co-chairman, dal: 2025, nota: "Vice-Chair Roche"}
+      # Partecipanti notevoli
       - {persona: george-soros, ruolo: partecipante}
-      - {persona: larry-fink, ruolo: co-chairman}
       - {persona: mario-draghi, ruolo: partecipante}
       - {persona: mario-monti, ruolo: partecipante}
       - {persona: bill-gates, ruolo: partecipante}
       - {persona: tedros-adhanom, ruolo: partecipante}
+      - {persona: christine-lagarde, ruolo: partecipante, nota: "BCE"}
+      - {persona: kristalina-georgieva, ruolo: partecipante, nota: "FMI - endorso' Great Reset"}
+      # Strategic Partners
+      - {org: blackrock, ruolo: partner, nota: "Strategic Partner, Fink Co-Chair"}
+      - {org: jpmorgan-chase, ruolo: partner, nota: "Strategic Partner"}
+      - {org: microsoft, ruolo: partner, nota: "Strategic Partner"}
+      - {org: fmi, ruolo: partner, nota: "Georgieva a Davos"}
+      - {org: onu, ruolo: partner, nota: "Partnership strategica 2019"}
 
   young-global-leaders:
     file: istituzioni/young-global-leaders.md
@@ -840,34 +881,56 @@ istituzioni:
     fondato: 1921
     tipo: think-tank
     sede: New York
-    tags: [foreign-policy, establishment-usa]
+    tags: [foreign-policy, establishment-usa, revolving-door]
+    nota: "Serbatoio di reclutamento per posizioni di politica estera USA"
     stakeholders:
+      # Leadership attuale
+      - {persona: david-rubenstein, ruolo: chairman, dal: 2025, nota: "Co-fondatore Carlyle Group"}
+      - {persona: michael-froman, ruolo: president, nota: "Ex-USTR, ex-Mastercard"}
+      # Board members
+      - {persona: thomas-donilon, ruolo: board, nota: "Chairman BlackRock Investment Institute, ex-NSA Obama"}
+      - {persona: james-gorman, ruolo: board, nota: "Executive Chairman Morgan Stanley"}
+      - {persona: chip-kaye, ruolo: board, nota: "Co-Chairman Warburg Pincus"}
+      # Leadership storica
       - {persona: paul-warburg, ruolo: fondatore, dal: 1921}
-      - {persona: david-rockefeller, ruolo: chairman, dal: 1970, al: 1985}
+      - {persona: david-rockefeller, ruolo: chairman, dal: 1970, al: 1985, nota: "Fondo' Trilaterale 1973"}
       - {persona: henry-kissinger, ruolo: membro}
       - {persona: zbigniew-brzezinski, ruolo: membro}
-      - {persona: larry-fink, ruolo: steering}
-      - {persona: robert-rubin, ruolo: co-chairman}
+      - {persona: robert-rubin, ruolo: co-chairman, nota: "Goldman/Tesoro"}
+      # Collegamenti
+      - {org: trilaterale, ruolo: partner, nota: "Rockefeller/Brzezinski fondarono entrambi"}
+      - {org: blackrock, ruolo: partner, nota: "Donilon - BlackRock Investment Institute"}
+      - {org: morgan-stanley, ruolo: partner, nota: "Gorman nel board"}
+      - {org: warburg-pincus, ruolo: partner, nota: "Kaye nel board"}
 
   aspen-institute:
     file: istituzioni/aspen-institute.md
     fondato: 1950
     tipo: think-tank
     sede: Washington
-    tags: [transatlantico, leadership]
+    tags: [transatlantico, leadership, italia]
     stakeholders:
       - {persona: mario-monti, ruolo: membro}
       - {persona: romano-prodi, ruolo: membro}
-      - {persona: john-elkann, ruolo: vice-presidente}
+      - {persona: john-elkann, ruolo: vice-presidente, nota: "Anche Bilderberg Steering"}
+      - {persona: enrico-letta, ruolo: vice-presidente, nota: "Anche Bilderberg"}
+      - {persona: marta-dassu, ruolo: senior-director, nota: "Anche Trilaterale"}
+      - {persona: timothy-geithner, ruolo: membro, nota: "Economic Strategy Group"}
 
   gruppo-30:
     file: istituzioni/gruppo-30.md
     fondato: 1978
     tipo: think-tank
     sede: Washington
-    tags: [banchieri-centrali, policy]
+    tags: [banchieri-centrali, policy, elite-monetaria]
+    nota: "Gruppo consultivo di 30 finanzieri e banchieri centrali"
     stakeholders:
-      - {persona: mario-draghi, ruolo: membro}
+      # Membri notevoli
+      - {persona: mario-draghi, ruolo: membro, nota: "Ex-BCE"}
+      - {persona: timothy-geithner, ruolo: membro, nota: "Ex-Tesoro, Warburg Pincus"}
+      - {persona: larry-fink, ruolo: membro, nota: "CEO BlackRock"}
+      - {persona: christine-lagarde, ruolo: membro, nota: "BCE"}
+      - {persona: paul-volcker, ruolo: fondatore, nota: "Ex-Fed Chairman"}
 
   # --- Wall Street ---
   goldman-sachs:
@@ -877,28 +940,56 @@ istituzioni:
     sede: New York
     tags: [wall-street, revolving-door, government-sachs]
     stakeholders:
-      - {persona: robert-rubin, ruolo: co-chairman, dal: 1990, al: 1992}
-      - {persona: mario-draghi, ruolo: vice-chairman, dal: 2002, al: 2005}
+      # Leadership attuale
+      - {persona: david-solomon, ruolo: ceo, dal: 2018}
+      - {persona: jose-barroso, ruolo: chairman-international, dal: 2016, nota: "Ex-Presidente Commissione UE"}
+      # Leadership storica
+      - {persona: lloyd-blankfein, ruolo: ceo, dal: 2006, al: 2018}
+      - {persona: robert-rubin, ruolo: co-chairman, dal: 1990, al: 1992, nota: "Poi Segretario Tesoro"}
+      - {persona: hank-paulson, ruolo: ceo, dal: 1999, al: 2006, nota: "Poi Segretario Tesoro"}
+      - {persona: mario-draghi, ruolo: vice-chairman-international, dal: 2002, al: 2005, nota: "Poi BCE"}
       - {persona: mario-monti, ruolo: advisor, dal: 2005, al: 2011}
       - {persona: romano-prodi, ruolo: advisor}
+      # Azionisti Big Three
+      - {org: vanguard, ruolo: holding, percentuale: "7.5%"}
+      - {org: blackrock, ruolo: holding, percentuale: "6.5%"}
+      - {org: state-street, ruolo: holding, percentuale: "3.5%"}
 
   jpmorgan-chase:
     file: istituzioni/jpmorgan-chase.md
     fondato: 2000
     tipo: bank
     sede: New York
-    tags: [too-big-to-fail, morgan-rockefeller]
+    tags: [too-big-to-fail, morgan-rockefeller, primary-dealer]
     predecessori: [chase-manhattan, jpmorgan]
     stakeholders:
-      - {persona: jamie-dimon, ruolo: ceo, dal: 2005}
+      # Leadership
+      - {persona: jamie-dimon, ruolo: ceo, dal: 2005, nota: "Board Fed NY"}
       - {persona: tony-blair, ruolo: advisor, dal: 2008}
+      # Azionisti Big Three
+      - {org: vanguard, ruolo: holding, percentuale: "7.5%"}
+      - {org: blackrock, ruolo: holding, percentuale: "6.2%"}
+      - {org: state-street, ruolo: holding, percentuale: "3.5%"}
+      # Collegamenti
+      - {org: federal-reserve, ruolo: partner, nota: "Primary dealer"}
+      - {org: federal-reserve-ny, ruolo: partner, nota: "Dimon nel board Class A"}
 
   morgan-stanley:
     file: istituzioni/morgan-stanley.md
     fondato: 1935
     tipo: investment-bank
     sede: New York
-    tags: [morgan-legacy, glass-steagall]
+    tags: [morgan-legacy, glass-steagall, primary-dealer]
+    stakeholders:
+      # Leadership
+      - {persona: ted-pick, ruolo: ceo, dal: 2024}
+      - {persona: james-gorman, ruolo: chairman, dal: 2024, nota: "Ex-CEO, Board CFR, Chairman Disney"}
+      # Azionisti Big Three
+      - {org: vanguard, ruolo: holding, percentuale: "8.0%"}
+      - {org: blackrock, ruolo: holding, percentuale: "6.8%"}
+      - {org: state-street, ruolo: holding, percentuale: "3.8%"}
+      # Collegamenti
+      - {org: cfr, ruolo: partner, nota: "Gorman nel Board of Directors"}
 
   # --- Asset managers (Big Three) ---
   blackrock:
@@ -911,7 +1002,10 @@ istituzioni:
     stakeholders:
       # Leadership
       - {persona: larry-fink, ruolo: ceo-fondatore, dal: 1988}
-      # Holdings (settori strategici)
+      # Azionisti istituzionali (Big Three si possiedono a vicenda)
+      - {org: vanguard, ruolo: holding, percentuale: "8.5%", nota: "Maggiore azionista"}
+      - {org: state-street, ruolo: holding, percentuale: "4.0%"}
+      # Holdings (settori strategici - Tech)
       - {org: apple, ruolo: holding, percentuale: "6.5%"}
       - {org: microsoft, ruolo: holding, percentuale: "7.2%"}
       - {org: nvidia, ruolo: holding, percentuale: "6.8%"}
@@ -919,9 +1013,14 @@ istituzioni:
       - {org: alphabet, ruolo: holding, percentuale: "6.0%"}
       - {org: meta, ruolo: holding, percentuale: "6.3%"}
       - {org: tesla, ruolo: holding, percentuale: "5.8%"}
+      # Holdings (Energy)
       - {org: exxon-mobil, ruolo: holding, percentuale: "7.1%"}
+      # Holdings (Finance)
       - {org: jpmorgan-chase, ruolo: holding, percentuale: "6.2%"}
       - {org: bank-of-america, ruolo: holding, percentuale: "7.0%"}
+      - {org: goldman-sachs, ruolo: holding, percentuale: "6.5%"}
+      - {org: morgan-stanley, ruolo: holding, percentuale: "6.8%"}
+      - {org: state-street, ruolo: holding, percentuale: "5.5%"}
 
   vanguard:
     file: istituzioni/vanguard.md
@@ -930,9 +1029,12 @@ istituzioni:
     sede: Pennsylvania
     aum: "11.6T"
     tags: [big-three, index-funds, bogle]
-    nota: "Struttura mutuale: i fondi possiedono l'azienda"
+    nota: "Struttura mutuale: i fondi possiedono l'azienda - NON quotata, non ha azionisti esterni"
     stakeholders:
-      # Holdings (settori strategici)
+      # Leadership
+      - {persona: john-bogle, ruolo: fondatore, dal: 1975, al: 1996, nota: "Creatore index fund"}
+      - {persona: salim-ramji, ruolo: ceo, dal: 2024, nota: "Primo CEO esterno, ex-BlackRock"}
+      # Holdings (settori strategici - Tech)
       - {org: apple, ruolo: holding, percentuale: "8.5%"}
       - {org: microsoft, ruolo: holding, percentuale: "8.0%"}
       - {org: nvidia, ruolo: holding, percentuale: "7.5%"}
@@ -940,9 +1042,15 @@ istituzioni:
       - {org: alphabet, ruolo: holding, percentuale: "7.0%"}
       - {org: meta, ruolo: holding, percentuale: "7.8%"}
       - {org: tesla, ruolo: holding, percentuale: "6.5%"}
+      # Holdings (Energy)
       - {org: exxon-mobil, ruolo: holding, percentuale: "8.2%"}
+      # Holdings (Finance) - incluse compartecipazioni Big Three
       - {org: jpmorgan-chase, ruolo: holding, percentuale: "7.5%"}
       - {org: bank-of-america, ruolo: holding, percentuale: "8.0%"}
+      - {org: blackrock, ruolo: holding, percentuale: "8.5%", nota: "Maggiore azionista di BlackRock"}
+      - {org: state-street, ruolo: holding, percentuale: "9.0%", nota: "Maggiore azionista di State Street"}
+      - {org: goldman-sachs, ruolo: holding, percentuale: "7.5%"}
+      - {org: morgan-stanley, ruolo: holding, percentuale: "8.0%"}
 
   state-street:
     file: istituzioni/state-street.md
@@ -953,7 +1061,12 @@ istituzioni:
     tags: [big-three, custodian, etf-spy]
     nota: "Banca piu' antica USA, custodian $51T assets"
     stakeholders:
-      # Holdings (settori strategici)
+      # Leadership
+      - {persona: ron-ohanley, ruolo: ceo, dal: 2019, nota: "Board Federal Reserve Boston"}
+      # Azionisti istituzionali (Big Three si possiedono a vicenda)
+      - {org: vanguard, ruolo: holding, percentuale: "9.0%", nota: "Maggiore azionista"}
+      - {org: blackrock, ruolo: holding, percentuale: "5.5%"}
+      # Holdings (settori strategici - Tech)
       - {org: apple, ruolo: holding, percentuale: "3.8%"}
       - {org: microsoft, ruolo: holding, percentuale: "3.5%"}
       - {org: nvidia, ruolo: holding, percentuale: "3.2%"}
@@ -961,9 +1074,14 @@ istituzioni:
       - {org: alphabet, ruolo: holding, percentuale: "3.0%"}
       - {org: meta, ruolo: holding, percentuale: "3.5%"}
       - {org: tesla, ruolo: holding, percentuale: "2.8%"}
+      # Holdings (Energy)
       - {org: exxon-mobil, ruolo: holding, percentuale: "4.0%"}
+      # Holdings (Finance) - incluse compartecipazioni
       - {org: jpmorgan-chase, ruolo: holding, percentuale: "3.5%"}
       - {org: bank-of-america, ruolo: holding, percentuale: "3.8%"}
+      - {org: blackrock, ruolo: holding, percentuale: "4.0%"}
+      - {org: goldman-sachs, ruolo: holding, percentuale: "3.5%"}
+      - {org: morgan-stanley, ruolo: holding, percentuale: "3.8%"}
 
   # --- Banche centrali ---
   federal-reserve:
@@ -973,25 +1091,52 @@ istituzioni:
     sede: Washington
     tags: [dollaro, politica-monetaria, jekyll-island]
     stakeholders:
-      - {persona: paul-warburg, ruolo: vice-chairman, dal: 1914, al: 1918}
+      # Leadership storica
+      - {persona: paul-warburg, ruolo: vice-chairman, dal: 1914, al: 1918, nota: "Architetto Jekyll Island"}
+      - {persona: paul-volcker, ruolo: chairman, dal: 1979, al: 1987, nota: "Sconfisse inflazione"}
+      - {persona: alan-greenspan, ruolo: chairman, dal: 1987, al: 2006, nota: "Maestro"}
+      - {persona: ben-bernanke, ruolo: chairman, dal: 2006, al: 2014, nota: "Crisi 2008, QE"}
+      - {persona: janet-yellen, ruolo: chairman, dal: 2014, al: 2018}
       - {persona: jerome-powell, ruolo: chairman, dal: 2018}
+      # Collegamento con altre istituzioni
+      - {org: jpmorgan-chase, ruolo: partner, nota: "Primary dealer, Class A directors NY Fed"}
+      - {org: goldman-sachs, ruolo: partner, nota: "Primary dealer"}
+      - {org: blackrock, ruolo: partner, nota: "Gestisce programmi Fed (2008, 2020)"}
 
   bce:
     file: istituzioni/bce.md
     fondato: 1998
     tipo: central-bank
     sede: Francoforte
-    tags: [euro, politica-monetaria]
+    tags: [euro, politica-monetaria, whatever-it-takes]
     stakeholders:
-      - {persona: mario-draghi, ruolo: presidente, dal: 2011, al: 2019}
-      - {persona: christine-lagarde, ruolo: presidente, dal: 2019}
+      # Presidenti
+      - {persona: mario-draghi, ruolo: presidente, dal: 2011, al: 2019, nota: "Whatever it takes"}
+      - {persona: christine-lagarde, ruolo: presidente, dal: 2019, nota: "Ex-FMI"}
+      # Executive Board
+      - {persona: fabio-panetta, ruolo: exec-board, dal: 2020, al: 2023, nota: "Ora Gov. Banca d'Italia"}
+      - {persona: piero-cipollone, ruolo: exec-board, dal: 2024}
+      # Collegamenti
+      - {org: banca-italia, ruolo: partner, nota: "Membro Eurosistema"}
+      - {org: bis, ruolo: partner, nota: "Membership"}
+      - {org: goldman-sachs, ruolo: partner, nota: "Draghi ex-Vice Chair GS Int'l"}
 
   bis:
     file: istituzioni/bis.md
     fondato: 1930
     tipo: central-bank
     sede: Basilea
-    tags: [banca-delle-banche-centrali]
+    tags: [banca-delle-banche-centrali, basel-accords]
+    stakeholders:
+      # Management
+      - {persona: agustin-carstens, ruolo: general-manager, dal: 2017, nota: "Ex-Gov. Banco de Mexico"}
+      # Board members
+      - {persona: jerome-powell, ruolo: board, nota: "Fed Chair - ex officio"}
+      - {persona: fabio-panetta, ruolo: board, dal: 2024, nota: "Chair CPMI, Gov. Banca d'Italia"}
+      # Collegamenti istituzionali
+      - {org: federal-reserve, ruolo: partner, nota: "Membro fondatore"}
+      - {org: bce, ruolo: partner, nota: "Membro"}
+      - {org: banca-italia, ruolo: partner, nota: "Membro fondatore"}
 
   # --- Bretton Woods ---
   fmi:
@@ -999,16 +1144,32 @@ istituzioni:
     fondato: 1944
     tipo: istituzione-finanziaria
     sede: Washington
-    tags: [bretton-woods, austerity, washington-consensus]
+    tags: [bretton-woods, austerity, washington-consensus, veto-usa]
     stakeholders:
-      - {persona: christine-lagarde, ruolo: direttore, dal: 2011, al: 2019}
+      # Managing Directors
+      - {persona: christine-lagarde, ruolo: managing-director, dal: 2011, al: 2019, nota: "Poi BCE"}
+      - {persona: kristalina-georgieva, ruolo: managing-director, dal: 2019, nota: "Prima da economia emergente"}
+      # Collegamenti
+      - {org: banca-mondiale, ruolo: partner, nota: "Gemelli di Bretton Woods"}
+      - {org: wef, ruolo: partner, nota: "Georgieva partecipa a Davos, endorso' Great Reset"}
 
   banca-mondiale:
     file: istituzioni/banca-mondiale.md
     fondato: 1944
     tipo: istituzione-finanziaria
     sede: Washington
-    tags: [bretton-woods, sviluppo]
+    tags: [bretton-woods, sviluppo, veto-usa]
+    stakeholders:
+      # Presidenti
+      - {persona: ajay-banga, ruolo: presidente, dal: 2023, nota: "Ex-CEO Mastercard, nominato Biden"}
+      - {persona: david-malpass, ruolo: presidente, dal: 2019, al: 2023, nota: "Nominato Trump"}
+      - {persona: jim-yong-kim, ruolo: presidente, dal: 2012, al: 2019}
+      - {persona: robert-zoellick, ruolo: presidente, dal: 2007, al: 2012, nota: "Ex-Goldman Sachs, USTR"}
+      - {persona: paul-wolfowitz, ruolo: presidente, dal: 2005, al: 2007, nota: "Neocon, Pentagono"}
+      - {persona: larry-summers, ruolo: chief-economist, dal: 1991, al: 1993}
+      # Collegamenti
+      - {org: fmi, ruolo: partner, nota: "Gemelli di Bretton Woods"}
+      - {org: tesoro-usa, ruolo: partner, nota: "Tradizionalmente nomina il presidente"}
 
   # --- Organizzazioni internazionali ---
   onu:
@@ -1048,7 +1209,17 @@ istituzioni:
     fondato: 1966
     tipo: private-equity
     sede: New York
-    tags: [warburg-legacy, geithner]
+    aum: "87B"
+    tags: [warburg-legacy, geithner, revolving-door]
+    stakeholders:
+      # Leadership
+      - {persona: timothy-geithner, ruolo: co-chairman, dal: 2014, nota: "Ex-Segretario Tesoro, ex-Presidente Fed NY"}
+      - {persona: chip-kaye, ruolo: co-chairman, nota: "40 anni in WP, Board CFR"}
+      - {persona: jeffrey-perlman, ruolo: ceo, dal: 2024}
+      # Collegamenti storici
+      - {org: cfr, ruolo: partner, nota: "Kaye nel Board of Directors"}
+      - {org: gruppo-30, ruolo: partner, nota: "Geithner membro"}
+      - {org: federal-reserve-ny, ruolo: partner, nota: "Geithner ex-presidente"}
 
   # --- Network ---
   paypal-mafia:
