@@ -463,7 +463,6 @@ David Sacks e Jack Selby stanno sviluppando un film sulla storia di PayPal e del
 - [BlackRock](blackrock.md) - Connessioni azionarie
 - [Palantir](palantir.md) - Da creare
 - [World Economic Forum](wef.md) - Network elite
-- [Big Three Sintesi](big-three-sintesi.md) - Proprietari delle loro aziende
 
 ---
 

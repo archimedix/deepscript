@@ -315,9 +315,6 @@ In un'intervista a Harvard, Klaus Schwab dichiarò:
 - [Bill Gates](../persone/bill-gates.md) - YGL
 - [Jeff Bezos](../persone/jeff-bezos.md) - YGL
 
-### Connessioni
-- [Membership Forum](../connessioni/membership-forum.md) - Mappa sovrapposizioni
-
 ---
 
 ## Fonti

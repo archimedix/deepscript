@@ -466,7 +466,6 @@ L'Italia emerge come il paese con la maggiore penetrazione di questi network nel
 - [PayPal Mafia](paypal-mafia.md) - Peter Thiel a Bilderberg
 - [Open Society](open-society.md) - Filantropia connessa
 - [FMI](fmi.md) - Governance economica globale
-- [Big Three Sintesi](big-three-sintesi.md) - Concentrazione finanziaria
 - [Sintesi Capitalismo Globale](sintesi-capitalismo-globale.md) - Saggio generale
 
 ---

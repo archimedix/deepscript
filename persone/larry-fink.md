@@ -221,7 +221,6 @@ Dal 2012, Fink scrive lettere annuali ai CEO delle aziende in cui BlackRock inve
 | [Trilaterale](../istituzioni/bilderberg-trilaterale.md) | Membro |
 | [CFR](../istituzioni/cfr.md) | Board member |
 | [Federal Reserve](../istituzioni/federal-reserve.md) | Contratti |
-| [Big Three](../istituzioni/big-three-sintesi.md) | Leader del gruppo |
 
 ### Persone
 

@@ -505,7 +505,6 @@ Iniziative BRICS per ridurre dipendenza dal dollaro:
 - [BlackRock - Profilo Completo](blackrock.md)
 - [Vanguard - Profilo Completo](vanguard.md)
 - [State Street - Profilo Completo](state-street.md)
-- [Big Three - Sintesi](big-three-sintesi.md)
 - [World Economic Forum](wef.md)
 
 ---

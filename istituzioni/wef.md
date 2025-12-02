@@ -524,7 +524,6 @@ State Street       Energy, Finance
 - [BlackRock - Profilo Completo](blackrock.md)
 - [Vanguard - Profilo Completo](vanguard.md)
 - [State Street - Profilo Completo](state-street.md)
-- [Big Three - Sintesi](big-three-sintesi.md)
 
 ### Persone
 - [Klaus Schwab](../persone/klaus-schwab.md) - Fondatore WEF e YGL

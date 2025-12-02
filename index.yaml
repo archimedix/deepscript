@@ -160,6 +160,30 @@ enum:
     - conduttore
     - fondatore-editore
 
+  ruoli_stakeholder:
+    # Per persone (include ruoli esistenti)
+    - ceo
+    - ceo-fondatore
+    - president
+    - chairman
+    - board
+    - fondatore
+    - membro
+    # Per organizzazioni
+    - holding            # X possiede quote di Y
+    - controllata        # X controlla Y (>50%)
+    - partner            # alleanza strategica
+    - cliente            # relazione commerciale
+
+  settori_aziende:
+    - tech
+    - energy
+    - finance
+    - healthcare
+    - industrial
+    - consumer
+    - media
+
 # =============================================================================
 # PERSONE
 # =============================================================================
@@ -703,6 +727,41 @@ persone:
       - {org: seagram, ruolo: ceo, dal: 1971, al: 1994}
       - {org: world-jewish-congress, ruolo: presidente, dal: 1981, al: 2007}
 
+  # --- Salute globale / OMS ---
+
+  tedros-adhanom:
+    file: persone/tedros-adhanom.md
+    nato: 1965
+    naz: ETH
+    affiliazioni:
+      - {org: governo-etiopia, ruolo: ministro, dal: 2005, al: 2012, nota: "Salute"}
+      - {org: governo-etiopia, ruolo: ministro, dal: 2012, al: 2016, nota: "Esteri"}
+      - {org: global-fund, ruolo: chairman, dal: 2009, al: 2011}
+      - {org: gavi, ruolo: board}
+      - {org: oms, ruolo: direttore, dal: 2017}
+      - {org: wef, ruolo: partecipante}
+
+  gro-harlem-brundtland:
+    file: persone/gro-harlem-brundtland.md
+    nato: 1939
+    naz: NOR
+    affiliazioni:
+      - {org: governo-norvegia, ruolo: ministro, dal: 1974, al: 1979, nota: "Ambiente"}
+      - {org: governo-norvegia, ruolo: capo-governo, dal: 1981, al: 1981}
+      - {org: governo-norvegia, ruolo: capo-governo, dal: 1986, al: 1989}
+      - {org: governo-norvegia, ruolo: capo-governo, dal: 1990, al: 1996}
+      - {org: oms, ruolo: direttore, dal: 1998, al: 2003}
+      - {org: bilderberg, ruolo: partecipante, dal: 1982, nota: "1982, 1983"}
+      - {org: trilaterale, ruolo: membro}
+      - {org: the-elders, ruolo: vice-chairman}
+
+  margaret-chan:
+    nato: 1947
+    naz: CHN
+    nota: "DG OMS 2006-2017, H1N1, Ebola"
+    affiliazioni:
+      - {org: oms, ruolo: direttore, dal: 2006, al: 2017}
+
 # =============================================================================
 # ISTITUZIONI
 # =============================================================================
@@ -715,6 +774,20 @@ istituzioni:
     tipo: forum
     sede: null
     tags: [elite, transatlantico, invito-only]
+    stakeholders:
+      - {persona: david-rockefeller, ruolo: steering}
+      - {persona: henry-kissinger, ruolo: partecipante}
+      - {persona: klaus-schwab, ruolo: partecipante}
+      - {persona: christine-lagarde, ruolo: partecipante}
+      - {persona: mario-draghi, ruolo: partecipante}
+      - {persona: mario-monti, ruolo: steering}
+      - {persona: romano-prodi, ruolo: steering}
+      - {persona: gianni-agnelli, ruolo: steering}
+      - {persona: john-elkann, ruolo: steering}
+      - {persona: emmanuel-macron, ruolo: partecipante, dal: 2014}
+      - {persona: bill-gates, ruolo: partecipante}
+      - {persona: peter-thiel, ruolo: partecipante, dal: 2024}
+      - {persona: franco-bernabe, ruolo: steering}
 
   trilaterale:
     file: istituzioni/bilderberg-trilaterale.md
@@ -722,6 +795,15 @@ istituzioni:
     tipo: forum
     sede: Washington/Tokyo/Paris
     tags: [elite, usa-europa-asia, rockefeller]
+    stakeholders:
+      - {persona: david-rockefeller, ruolo: fondatore-chairman, dal: 1973}
+      - {persona: zbigniew-brzezinski, ruolo: fondatore-direttore, dal: 1973}
+      - {persona: henry-kissinger, ruolo: steering}
+      - {persona: larry-fink, ruolo: membro}
+      - {persona: christine-lagarde, ruolo: membro}
+      - {persona: mario-monti, ruolo: chairman, dal: 2010, nota: "Europa"}
+      - {persona: gianni-agnelli, ruolo: membro}
+      - {persona: gro-harlem-brundtland, ruolo: membro}
 
   wef:
     file: istituzioni/wef.md
@@ -729,6 +811,14 @@ istituzioni:
     tipo: forum
     sede: Ginevra
     tags: [davos, stakeholder-capitalism, schwab]
+    stakeholders:
+      - {persona: klaus-schwab, ruolo: fondatore-chairman, dal: 1971}
+      - {persona: george-soros, ruolo: partecipante}
+      - {persona: larry-fink, ruolo: co-chairman}
+      - {persona: mario-draghi, ruolo: partecipante}
+      - {persona: mario-monti, ruolo: partecipante}
+      - {persona: bill-gates, ruolo: partecipante}
+      - {persona: tedros-adhanom, ruolo: partecipante}
 
   young-global-leaders:
     file: istituzioni/young-global-leaders.md
@@ -736,6 +826,13 @@ istituzioni:
     tipo: programma
     parent: wef
     tags: [under-40, vivaio, pipeline]
+    stakeholders:
+      - {persona: tony-blair, ruolo: glt, dal: 1992}
+      - {persona: angela-merkel, ruolo: glt, dal: 1992}
+      - {persona: emmanuel-macron, ruolo: ygl, dal: 2016}
+      - {persona: justin-trudeau, ruolo: ygl, dal: 2005}
+      - {persona: jacinda-ardern, ruolo: ygl, dal: 2014}
+      - {persona: peter-thiel, ruolo: ygl, dal: 2007}
 
   # --- Think tank ---
   cfr:
@@ -744,6 +841,13 @@ istituzioni:
     tipo: think-tank
     sede: New York
     tags: [foreign-policy, establishment-usa]
+    stakeholders:
+      - {persona: paul-warburg, ruolo: fondatore, dal: 1921}
+      - {persona: david-rockefeller, ruolo: chairman, dal: 1970, al: 1985}
+      - {persona: henry-kissinger, ruolo: membro}
+      - {persona: zbigniew-brzezinski, ruolo: membro}
+      - {persona: larry-fink, ruolo: steering}
+      - {persona: robert-rubin, ruolo: co-chairman}
 
   aspen-institute:
     file: istituzioni/aspen-institute.md
@@ -751,6 +855,10 @@ istituzioni:
     tipo: think-tank
     sede: Washington
     tags: [transatlantico, leadership]
+    stakeholders:
+      - {persona: mario-monti, ruolo: membro}
+      - {persona: romano-prodi, ruolo: membro}
+      - {persona: john-elkann, ruolo: vice-presidente}
 
   gruppo-30:
     file: istituzioni/gruppo-30.md
@@ -758,6 +866,8 @@ istituzioni:
     tipo: think-tank
     sede: Washington
     tags: [banchieri-centrali, policy]
+    stakeholders:
+      - {persona: mario-draghi, ruolo: membro}
 
   # --- Wall Street ---
   goldman-sachs:
@@ -766,6 +876,11 @@ istituzioni:
     tipo: investment-bank
     sede: New York
     tags: [wall-street, revolving-door, government-sachs]
+    stakeholders:
+      - {persona: robert-rubin, ruolo: co-chairman, dal: 1990, al: 1992}
+      - {persona: mario-draghi, ruolo: vice-chairman, dal: 2002, al: 2005}
+      - {persona: mario-monti, ruolo: advisor, dal: 2005, al: 2011}
+      - {persona: romano-prodi, ruolo: advisor}
 
   jpmorgan-chase:
     file: istituzioni/jpmorgan-chase.md
@@ -774,6 +889,9 @@ istituzioni:
     sede: New York
     tags: [too-big-to-fail, morgan-rockefeller]
     predecessori: [chase-manhattan, jpmorgan]
+    stakeholders:
+      - {persona: jamie-dimon, ruolo: ceo, dal: 2005}
+      - {persona: tony-blair, ruolo: advisor, dal: 2008}
 
   morgan-stanley:
     file: istituzioni/morgan-stanley.md
@@ -788,24 +906,64 @@ istituzioni:
     fondato: 1988
     tipo: asset-manager
     sede: New York
-    aum: "10T+"
+    aum: "12.5T"
     tags: [big-three, fink]
+    stakeholders:
+      # Leadership
+      - {persona: larry-fink, ruolo: ceo-fondatore, dal: 1988}
+      # Holdings (settori strategici)
+      - {org: apple, ruolo: holding, percentuale: "6.5%"}
+      - {org: microsoft, ruolo: holding, percentuale: "7.2%"}
+      - {org: nvidia, ruolo: holding, percentuale: "6.8%"}
+      - {org: amazon, ruolo: holding, percentuale: "6.5%"}
+      - {org: alphabet, ruolo: holding, percentuale: "6.0%"}
+      - {org: meta, ruolo: holding, percentuale: "6.3%"}
+      - {org: tesla, ruolo: holding, percentuale: "5.8%"}
+      - {org: exxon-mobil, ruolo: holding, percentuale: "7.1%"}
+      - {org: jpmorgan-chase, ruolo: holding, percentuale: "6.2%"}
+      - {org: bank-of-america, ruolo: holding, percentuale: "7.0%"}
 
   vanguard:
     file: istituzioni/vanguard.md
     fondato: 1975
     tipo: asset-manager
     sede: Pennsylvania
-    aum: "8T+"
-    tags: [big-three, index-funds]
+    aum: "11.6T"
+    tags: [big-three, index-funds, bogle]
+    nota: "Struttura mutuale: i fondi possiedono l'azienda"
+    stakeholders:
+      # Holdings (settori strategici)
+      - {org: apple, ruolo: holding, percentuale: "8.5%"}
+      - {org: microsoft, ruolo: holding, percentuale: "8.0%"}
+      - {org: nvidia, ruolo: holding, percentuale: "7.5%"}
+      - {org: amazon, ruolo: holding, percentuale: "7.2%"}
+      - {org: alphabet, ruolo: holding, percentuale: "7.0%"}
+      - {org: meta, ruolo: holding, percentuale: "7.8%"}
+      - {org: tesla, ruolo: holding, percentuale: "6.5%"}
+      - {org: exxon-mobil, ruolo: holding, percentuale: "8.2%"}
+      - {org: jpmorgan-chase, ruolo: holding, percentuale: "7.5%"}
+      - {org: bank-of-america, ruolo: holding, percentuale: "8.0%"}
 
   state-street:
     file: istituzioni/state-street.md
     fondato: 1792
     tipo: asset-manager
     sede: Boston
-    aum: "4T+"
-    tags: [big-three, custodian]
+    aum: "5.4T"
+    tags: [big-three, custodian, etf-spy]
+    nota: "Banca piu' antica USA, custodian $51T assets"
+    stakeholders:
+      # Holdings (settori strategici)
+      - {org: apple, ruolo: holding, percentuale: "3.8%"}
+      - {org: microsoft, ruolo: holding, percentuale: "3.5%"}
+      - {org: nvidia, ruolo: holding, percentuale: "3.2%"}
+      - {org: amazon, ruolo: holding, percentuale: "3.4%"}
+      - {org: alphabet, ruolo: holding, percentuale: "3.0%"}
+      - {org: meta, ruolo: holding, percentuale: "3.5%"}
+      - {org: tesla, ruolo: holding, percentuale: "2.8%"}
+      - {org: exxon-mobil, ruolo: holding, percentuale: "4.0%"}
+      - {org: jpmorgan-chase, ruolo: holding, percentuale: "3.5%"}
+      - {org: bank-of-america, ruolo: holding, percentuale: "3.8%"}
 
   # --- Banche centrali ---
   federal-reserve:
@@ -814,6 +972,9 @@ istituzioni:
     tipo: central-bank
     sede: Washington
     tags: [dollaro, politica-monetaria, jekyll-island]
+    stakeholders:
+      - {persona: paul-warburg, ruolo: vice-chairman, dal: 1914, al: 1918}
+      - {persona: jerome-powell, ruolo: chairman, dal: 2018}
 
   bce:
     file: istituzioni/bce.md
@@ -821,6 +982,9 @@ istituzioni:
     tipo: central-bank
     sede: Francoforte
     tags: [euro, politica-monetaria]
+    stakeholders:
+      - {persona: mario-draghi, ruolo: presidente, dal: 2011, al: 2019}
+      - {persona: christine-lagarde, ruolo: presidente, dal: 2019}
 
   bis:
     file: istituzioni/bis.md
@@ -836,6 +1000,8 @@ istituzioni:
     tipo: istituzione-finanziaria
     sede: Washington
     tags: [bretton-woods, austerity, washington-consensus]
+    stakeholders:
+      - {persona: christine-lagarde, ruolo: direttore, dal: 2011, al: 2019}
 
   banca-mondiale:
     file: istituzioni/banca-mondiale.md
@@ -866,6 +1032,8 @@ istituzioni:
     tipo: fondazione
     sede: New York
     tags: [soros, filantropia, societa-aperta]
+    stakeholders:
+      - {persona: george-soros, ruolo: fondatore, dal: 1993}
 
   rockefeller-foundation:
     file: istituzioni/rockefeller-foundation.md
@@ -889,103 +1057,228 @@ istituzioni:
     tipo: network
     sede: Silicon Valley
     tags: [tech, thiel, musk]
+    stakeholders:
+      - {persona: elon-musk, ruolo: co-fondatore}
+      - {persona: peter-thiel, ruolo: co-fondatore}
 
   # --- Governi (stub - niente scheda dedicata) ---
   governo-italia:
     tipo: governo
     sede: Roma
+    stakeholders:
+      - {persona: mario-draghi, ruolo: capo-governo, dal: 2021, al: 2022}
+      - {persona: mario-monti, ruolo: capo-governo, dal: 2011, al: 2013}
+      - {persona: romano-prodi, ruolo: capo-governo, dal: 1996, al: 1998}
+      - {persona: romano-prodi, ruolo: capo-governo, dal: 2006, al: 2008}
+      - {persona: carlo-azeglio-ciampi, ruolo: capo-governo, dal: 1993, al: 1994}
   governo-uk:
     tipo: governo
     sede: Londra
+    stakeholders:
+      - {persona: tony-blair, ruolo: capo-governo, dal: 1997, al: 2007}
   governo-germania:
     tipo: governo
     sede: Berlino
+    stakeholders:
+      - {persona: angela-merkel, ruolo: capo-governo, dal: 2005, al: 2021}
   governo-francia:
     tipo: governo
     sede: Parigi
+    stakeholders:
+      - {persona: emmanuel-macron, ruolo: capo-governo, dal: 2017}
   governo-canada:
     tipo: governo
     sede: Ottawa
+    stakeholders:
+      - {persona: justin-trudeau, ruolo: capo-governo, dal: 2015}
   governo-nz:
     tipo: governo
     sede: Wellington
+    stakeholders:
+      - {persona: jacinda-ardern, ruolo: capo-governo, dal: 2017, al: 2023}
+  governo-norvegia:
+    tipo: governo
+    sede: Oslo
+    stakeholders:
+      - {persona: gro-harlem-brundtland, ruolo: ministro, dal: 1974, al: 1979, nota: "Ambiente"}
+      - {persona: gro-harlem-brundtland, ruolo: capo-governo, dal: 1981, al: 1981}
+      - {persona: gro-harlem-brundtland, ruolo: capo-governo, dal: 1986, al: 1989}
+      - {persona: gro-harlem-brundtland, ruolo: capo-governo, dal: 1990, al: 1996}
+  governo-etiopia:
+    tipo: governo
+    sede: Addis Abeba
+    stakeholders:
+      - {persona: tedros-adhanom, ruolo: ministro, dal: 2005, al: 2012, nota: "Salute"}
+      - {persona: tedros-adhanom, ruolo: ministro, dal: 2012, al: 2016, nota: "Esteri"}
 
   # --- Agenzie USA (stub) ---
   nsa:
     tipo: agenzia
     sede: Washington
     nota: "National Security Advisor"
+    stakeholders:
+      - {persona: henry-kissinger, ruolo: consigliere, dal: 1969, al: 1975}
+      - {persona: zbigniew-brzezinski, ruolo: consigliere, dal: 1977, al: 1981}
   stato-usa:
     tipo: governo
     sede: Washington
     nota: "Dipartimento di Stato"
+    stakeholders:
+      - {persona: henry-kissinger, ruolo: ministro, dal: 1973, al: 1977}
   tesoro-usa:
     tipo: governo
     sede: Washington
     nota: "Dipartimento del Tesoro"
+    stakeholders:
+      - {persona: robert-rubin, ruolo: segretario, dal: 1995, al: 1999}
   federal-reserve-ny:
     tipo: central-bank
     sede: New York
     nota: "Federal Reserve Bank of New York"
+    stakeholders:
+      - {persona: jamie-dimon, ruolo: board}
 
   # --- Banche e finanza (stub) ---
   chase-manhattan:
     tipo: bank
     sede: New York
     nota: "Fusa in JPMorgan Chase nel 2000"
+    stakeholders:
+      - {persona: david-rockefeller, ruolo: ceo, dal: 1969, al: 1981}
+      - {persona: gianni-agnelli, ruolo: board}
   citigroup:
     tipo: bank
     sede: New York
+    stakeholders:
+      - {persona: robert-rubin, ruolo: senior-advisor, dal: 1999}
   rothschild-cie:
     tipo: investment-bank
     sede: Parigi
     nota: "Rothschild & Cie Banque"
+    stakeholders:
+      - {persona: emmanuel-macron, ruolo: banchiere, dal: 2008, al: 2012}
   kuhn-loeb:
     tipo: investment-bank
     sede: New York
     nota: "Kuhn, Loeb & Co. (1867-1977), fusa con Lehman"
+    stakeholders:
+      - {persona: paul-warburg, ruolo: partner, dal: 1902, al: 1914}
   jpmorgan:
     tipo: investment-bank
     sede: New York
     nota: "J.P. Morgan & Co. originale, predecessore JPMorgan Chase"
+    stakeholders:
+      - {persona: jp-morgan, ruolo: fondatore, dal: 1871}
   carlyle-group:
     tipo: private-equity
     sede: Washington
+    stakeholders:
+      - {persona: jerome-powell, ruolo: partner, dal: 1997, al: 2005}
 
   # --- Tech (stub) ---
   microsoft:
     tipo: tech
     sede: Redmond
+    stakeholders:
+      - {persona: bill-gates, ruolo: fondatore-ceo, dal: 1975, al: 2000}
   amazon:
     tipo: tech
     sede: Seattle
+    stakeholders:
+      - {persona: jeff-bezos, ruolo: fondatore-ceo, dal: 1994, al: 2021}
+      - {persona: jeff-bezos, ruolo: executive-chairman, dal: 2021}
   tesla:
     tipo: tech
     sede: Austin
+    stakeholders:
+      - {persona: elon-musk, ruolo: ceo, dal: 2008}
   spacex:
     tipo: tech
     sede: Hawthorne
+    stakeholders:
+      - {persona: elon-musk, ruolo: fondatore-ceo, dal: 2002}
   x-twitter:
     tipo: tech
     sede: San Francisco
     nota: "Ex Twitter"
+    stakeholders:
+      - {persona: elon-musk, ruolo: proprietario, dal: 2022}
   palantir:
     tipo: tech
     sede: Denver
+    stakeholders:
+      - {persona: peter-thiel, ruolo: co-fondatore, dal: 2003}
   paypal:
     tipo: tech
     sede: San Jose
+    stakeholders:
+      - {persona: elon-musk, ruolo: co-fondatore, dal: 1999, al: 2002}
+      - {persona: peter-thiel, ruolo: co-fondatore, dal: 1998, al: 2002}
   blue-origin:
     tipo: tech
     sede: Kent
+    stakeholders:
+      - {persona: jeff-bezos, ruolo: fondatore, dal: 2000}
   founders-fund:
     tipo: venture-capital
     sede: San Francisco
+    stakeholders:
+      - {persona: peter-thiel, ruolo: partner, dal: 2005}
+
+  # --- Corporation quotate (stub per holdings Big Three) ---
+  apple:
+    tipo: corporation
+    settore: tech
+    sede: Cupertino
+    borsa: NASDAQ
+  nvidia:
+    tipo: corporation
+    settore: tech
+    sede: Santa Clara
+    borsa: NASDAQ
+  alphabet:
+    tipo: corporation
+    settore: tech
+    sede: Mountain View
+    borsa: NASDAQ
+    nota: "Google parent company"
+  meta:
+    tipo: corporation
+    settore: tech
+    sede: Menlo Park
+    borsa: NASDAQ
+    nota: "Ex Facebook"
+
+  # --- Energy (stub) ---
+  exxon-mobil:
+    tipo: corporation
+    settore: energy
+    sede: Irving
+    borsa: NYSE
+  chevron:
+    tipo: corporation
+    settore: energy
+    sede: San Ramon
+    borsa: NYSE
+
+  # --- Finance (stub) ---
+  bank-of-america:
+    tipo: bank
+    settore: finance
+    sede: Charlotte
+    borsa: NYSE
+  wells-fargo:
+    tipo: bank
+    settore: finance
+    sede: San Francisco
+    borsa: NYSE
 
   # --- Fondazioni (stub) ---
   gates-foundation:
     tipo: fondazione
     sede: Seattle
+    stakeholders:
+      - {persona: bill-gates, ruolo: co-chair, dal: 2000}
 
   # --- Lobby e advocacy pro-Israele ---
   aipac:
@@ -994,6 +1287,10 @@ istituzioni:
     tipo: lobby
     sede: Washington
     tags: [pro-israele, usa, lobby-registrata, congresso]
+    stakeholders:
+      - {persona: isaiah-kenen, ruolo: fondatore-direttore, dal: 1954, al: 1974}
+      - {persona: morris-amitay, ruolo: direttore, dal: 1974, al: 1980}
+      - {persona: howard-kohr, ruolo: direttore, dal: 1996, al: 2024}
 
   adl:
     file: istituzioni/adl.md
@@ -1001,6 +1298,8 @@ istituzioni:
     tipo: advocacy
     sede: New York
     tags: [antidiffamazione, diritti-civili, monitoraggio]
+    stakeholders:
+      - {persona: jonathan-greenblatt, ruolo: ceo, dal: 2015}
 
   world-jewish-congress:
     file: istituzioni/world-jewish-congress.md
@@ -1008,6 +1307,13 @@ istituzioni:
     tipo: forum
     sede: New York
     tags: [diaspora, internazionale, rappresentanza]
+    stakeholders:
+      - {persona: stephen-wise, ruolo: fondatore-presidente, dal: 1936, al: 1949}
+      - {persona: nahum-goldmann, ruolo: co-fondatore, dal: 1936}
+      - {persona: nahum-goldmann, ruolo: presidente, dal: 1949, al: 1977}
+      - {persona: edgar-bronfman-sr, ruolo: presidente, dal: 1981, al: 2007}
+      - {persona: ronald-lauder, ruolo: presidente, dal: 2007}
+      - {persona: david-de-rothschild-fr, ruolo: chairman, nota: "Governing Board"}
 
   jinsa:
     file: istituzioni/jinsa.md
@@ -1015,6 +1321,9 @@ istituzioni:
     tipo: think-tank
     sede: Washington
     tags: [sicurezza-nazionale, difesa, neocon, pro-israele]
+    stakeholders:
+      - {persona: morris-amitay, ruolo: vice-presidente, dal: 1981}
+      - {persona: michael-makovsky, ruolo: ceo, dal: 2013}
 
   conference-of-presidents:
     tipo: forum
@@ -1028,18 +1337,25 @@ istituzioni:
     fondato: 1918
     sede: New York
     nota: "Fondata da Stephen Wise, precursore WJC"
+    stakeholders:
+      - {persona: stephen-wise, ruolo: fondatore, dal: 1918}
 
   world-jewish-restitution-org:
     tipo: advocacy
     fondato: 1993
     sede: New York
     nota: "World Jewish Restitution Organization - recupero beni Shoah"
+    stakeholders:
+      - {persona: ronald-lauder, ruolo: presidente, dal: 2008}
 
   # --- Stub USA (agenzie, think tank) ---
   dod:
     tipo: governo
     sede: Washington
     nota: "Department of Defense"
+    stakeholders:
+      - {persona: ronald-lauder, ruolo: deputy-assistant-secretary, dal: 1983, al: 1986, nota: "European and NATO Policy"}
+      - {persona: michael-makovsky, ruolo: special-assistant}
 
   white-house:
     tipo: governo
@@ -1050,12 +1366,16 @@ istituzioni:
     tipo: governo
     sede: Vienna
     nota: "Ambasciata USA in Austria"
+    stakeholders:
+      - {persona: ronald-lauder, ruolo: ambasciatore, dal: 1986, al: 1987}
 
   bipartisan-policy-center:
     tipo: think-tank
     fondato: 2007
     sede: Washington
     nota: "Think tank bipartisan"
+    stakeholders:
+      - {persona: michael-makovsky, ruolo: direttore, nota: "Foreign Policy"}
 
   # --- Aziende (stub) ---
   estee-lauder:
@@ -1069,41 +1389,63 @@ istituzioni:
     fondato: 1857
     sede: Montreal
     nota: "Bevande alcoliche, famiglia Bronfman, venduta 2000"
+    stakeholders:
+      - {persona: edgar-bronfman-sr, ruolo: ceo, dal: 1971, al: 1994}
 
   ethos-water:
     tipo: corporate
     fondato: 2002
     sede: California
     nota: "Social enterprise acqua, venduta a Starbucks 2005"
+    stakeholders:
+      - {persona: jonathan-greenblatt, ruolo: co-fondatore, dal: 2002, al: 2005}
 
   rothschild-co:
     tipo: investment-bank
     sede: Parigi/Londra
     nota: "Rothschild & Co., fusione rami francese e britannico"
+    stakeholders:
+      - {persona: david-de-rothschild-fr, ruolo: chairman}
 
   # --- Corporate Italia (stub) ---
   fiat:
     tipo: auto
     sede: Torino
     nota: "Ora Stellantis"
+    stakeholders:
+      - {persona: gianni-agnelli, ruolo: presidente, dal: 1966, al: 1996}
   exor:
     tipo: holding
     sede: Amsterdam
+    stakeholders:
+      - {persona: john-elkann, ruolo: ceo, dal: 2004}
   stellantis:
     tipo: auto
     sede: Amsterdam
+    stakeholders:
+      - {persona: john-elkann, ruolo: chairman, dal: 2021}
 
   # --- UE (stub) ---
   commissione-ue:
     tipo: istituzione-ue
     sede: Bruxelles
+    stakeholders:
+      - {persona: mario-monti, ruolo: commissario, dal: 1995, al: 2004}
+      - {persona: romano-prodi, ruolo: presidente, dal: 1999, al: 2004}
   banca-italia:
     tipo: central-bank
     sede: Roma
+    stakeholders:
+      - {persona: guido-carli, ruolo: governatore, dal: 1960, al: 1975}
+      - {persona: carlo-azeglio-ciampi, ruolo: governatore, dal: 1979, al: 1993}
+      - {persona: mario-draghi, ruolo: governatore, dal: 2006, al: 2011}
   tesoro-italia:
     tipo: governo
     sede: Roma
     nota: "Ministero del Tesoro (poi MEF)"
+    stakeholders:
+      - {persona: guido-carli, ruolo: ministro, dal: 1989, al: 1992}
+      - {persona: beniamino-andreatta, ruolo: ministro, dal: 1992, al: 1993}
 
   # --- Partecipate statali italiane (stub) ---
   iri:
@@ -1111,30 +1453,43 @@ istituzioni:
     sede: Roma
     fondato: 1933
     nota: "Istituto per la Ricostruzione Industriale, liquidato 2002"
+    stakeholders:
+      - {persona: riccardo-gallo, ruolo: vice-presidente}
   eni:
     tipo: oil
     sede: Roma
     fondato: 1953
     nota: "Ente Nazionale Idrocarburi"
+    stakeholders:
+      - {persona: gabriele-cagliari, ruolo: presidente, dal: 1989, al: 1993}
+      - {persona: franco-bernabe, ruolo: ceo, dal: 1992, al: 1998}
   ina:
     tipo: assicurazioni
     sede: Roma
     nota: "Istituto Nazionale Assicurazioni, fuso in Generali 2000"
+    stakeholders:
+      - {persona: lorenzo-pallesi, ruolo: presidente}
   telecom-italia:
     tipo: telecom
     sede: Milano
     nota: "Ex STET/SIP, privatizzata 1997"
+    stakeholders:
+      - {persona: franco-bernabe, ruolo: ceo, dal: 1998, al: 1999}
 
   # --- Banche italiane (stub) ---
   banco-ambrosiano-veneto:
     tipo: bank
     sede: Milano
     nota: "Fuso in Intesa 1999"
+    stakeholders:
+      - {persona: giovanni-bazoli, ruolo: presidente}
   intesa-sanpaolo:
     tipo: bank
     sede: Torino
     fondato: 2007
     nota: "Fusione Intesa + Sanpaolo IMI"
+    stakeholders:
+      - {persona: giovanni-bazoli, ruolo: presidente}
 
   # --- Banche inglesi Britannia (stub) ---
   sg-warburg:
@@ -1171,9 +1526,43 @@ istituzioni:
 
   # --- Organizzazioni internazionali (stub) ---
   oms:
+    file: istituzioni/oms.md
+    fondato: 1948
     tipo: organizzazione-internazionale
     sede: Ginevra
-    nota: "Organizzazione Mondiale della Sanita'"
+    tags: [salute-globale, onu, pandemia, gates]
+    nota: "Organizzazione Mondiale della Sanita' - 194 stati membri"
+    stakeholders:
+      - {persona: gro-harlem-brundtland, ruolo: direttore, dal: 1998, al: 2003}
+      - {persona: margaret-chan, ruolo: direttore, dal: 2006, al: 2017}
+      - {persona: tedros-adhanom, ruolo: direttore, dal: 2017}
+
+  global-fund:
+    tipo: organizzazione-internazionale
+    fondato: 2002
+    sede: Ginevra
+    nota: "Global Fund to Fight AIDS, Tuberculosis and Malaria - iniziativa Gates"
+    tags: [gates, salute-globale]
+    stakeholders:
+      - {persona: tedros-adhanom, ruolo: chairman, dal: 2009, al: 2011}
+
+  gavi:
+    tipo: organizzazione-internazionale
+    fondato: 2000
+    sede: Ginevra
+    nota: "GAVI Alliance - vaccini, finanziata principalmente da Gates Foundation"
+    tags: [gates, vaccini, ppp]
+    stakeholders:
+      - {persona: tedros-adhanom, ruolo: board}
+
+  the-elders:
+    tipo: forum
+    fondato: 2007
+    sede: Londra
+    nota: "Gruppo di leader anziani fondato da Nelson Mandela"
+    tags: [mandela, leadership]
+    stakeholders:
+      - {persona: gro-harlem-brundtland, ruolo: vice-chairman}
 
 # =============================================================================
 # EVENTI
@@ -1291,7 +1680,7 @@ eventi:
     anno: 2020
     tipo: crisi
     luogo: globale
-    attori: [klaus-schwab, wef, oms]
+    attori: [klaus-schwab, wef, oms, tedros-adhanom, bill-gates, gates-foundation]
     risultato: great-reset
 
 # =============================================================================
@@ -1307,6 +1696,8 @@ media:
     proprietario: agnelli-elkann  # via Exor
     orientamento: liberale
     note: "Chairman John Elkann dal 2009"
+    stakeholders:
+      - {persona: john-elkann, ruolo: chairman, dal: 2009}
 
   washington-post:
     tipo: testata
@@ -1314,6 +1705,8 @@ media:
     sede: Washington
     proprietario: jeff-bezos
     note: "Acquistato da Bezos nel 2013"
+    stakeholders:
+      - {persona: jeff-bezos, ruolo: proprietario, dal: 2013}
 
   # --- Gruppi editoriali Italia ---
   gedi:
@@ -1322,6 +1715,8 @@ media:
     proprietario: exor
     testate: [repubblica, la-stampa, lespresso]
     note: "Gruppo Editoriale, controllato da Exor (Elkann)"
+    stakeholders:
+      - {persona: john-elkann, ruolo: proprietario, dal: 2020, nota: "via Exor"}
 
   rcs-mediagroup:
     tipo: gruppo
@@ -1369,6 +1764,8 @@ media:
     orientamento: centrosinistra
     tags: [progressista, scalfari, de-benedetti]
     note: "Fondata da Eugenio Scalfari e Carlo Caracciolo"
+    stakeholders:
+      - {persona: john-elkann, ruolo: proprietario, dal: 2020, nota: "via GEDI"}
 
   la-stampa:
     file: media/la-stampa.md
@@ -1381,6 +1778,9 @@ media:
     orientamento: liberale-moderato
     tags: [agnelli, fiat, torino]
     note: "Storica testata Agnelli, fondata come Gazzetta Piemontese"
+    stakeholders:
+      - {persona: gianni-agnelli, ruolo: proprietario, nota: "via FIAT"}
+      - {persona: john-elkann, ruolo: proprietario, dal: 2016, nota: "via GEDI"}
 
   il-sole-24-ore:
     tipo: testata
@@ -1415,7 +1815,7 @@ famiglie:
     generazioni: 6
     status: attiva
     veicoli: [standard-oil, chase-manhattan, rockefeller-foundation]
-    membri:
+    stakeholders:
       - {nome: john-d-sr, gen: 1, nato: 1839, morto: 1937, ruolo: fondatore}
       - {nome: john-d-jr, gen: 2, nato: 1874, morto: 1960, ruolo: filantropia}
       - {nome: john-d-iii, gen: 3, nato: 1906, morto: 1978, ruolo: filantropia}
@@ -1434,7 +1834,7 @@ famiglie:
     generazioni: 8
     status: attiva
     rami: [londra, parigi, svizzera]
-    membri:
+    stakeholders:
       - {nome: mayer-amschel, gen: 1, nato: 1744, morto: 1812, ruolo: fondatore}
       - {nome: nathan-mayer, gen: 2, nato: 1777, morto: 1836, ruolo: ramo-londra}
       - {nome: james-mayer, gen: 2, nato: 1792, morto: 1868, ruolo: ramo-parigi}
@@ -1454,7 +1854,7 @@ famiglie:
     generazioni: 4
     status: estinta
     legacy: [jpmorgan-chase, morgan-stanley]
-    membri:
+    stakeholders:
       - {nome: junius-spencer, gen: 1, nato: 1813, morto: 1890, ruolo: fondatore}
       - {nome: j-pierpont, gen: 2, nato: 1837, morto: 1913, ruolo: il-banchiere}
       - {nome: jp-jr-jack, gen: 3, nato: 1867, morto: 1943, ruolo: senior-partner}
@@ -1468,7 +1868,7 @@ famiglie:
     generazioni: 5
     status: attiva
     veicoli: [mm-warburg, warburg-pincus]
-    membri:
+    stakeholders:
       - {nome: moses-marcus, gen: 1, nato: 1763, morto: 1830, ruolo: co-fondatore}
       - {nome: gerson, gen: 1, nato: 1765, morto: 1826, ruolo: co-fondatore}
       - {nome: max, gen: 3, nato: 1867, morto: 1946, ruolo: chairman-mm-warburg}
@@ -1486,7 +1886,7 @@ famiglie:
     generazioni: 4
     status: attiva
     veicoli: [fiat, exor, stellantis]
-    membri:
+    stakeholders:
       - {nome: giovanni-sr, gen: 1, nato: 1866, morto: 1945, ruolo: fondatore-fiat}
       - {nome: edoardo, gen: 2, nato: 1892, morto: 1935, ruolo: erede-morto}
       - {nome: gianni-agnelli, gen: 3, nato: 1921, morto: 2003, ruolo: re-italia, scheda: true}
@@ -1502,7 +1902,7 @@ famiglie:
     settore_originario: finanza-politica
     generazioni: 5
     status: declino
-    membri:
+    stakeholders:
       - {nome: samuel-prescott, gen: 1, nato: 1863, morto: 1948, ruolo: industriale}
       - {nome: prescott-sheldon, gen: 2, nato: 1895, morto: 1972, ruolo: senatore}
       - {nome: george-hw, gen: 3, nato: 1924, morto: 2018, ruolo: 41-presidente}
@@ -1519,7 +1919,7 @@ famiglie:
     status: attiva
     veicoli: [walmart]
     patrimonio: "432B"
-    membri:
+    stakeholders:
       - {nome: sam, gen: 1, nato: 1918, morto: 1992, ruolo: fondatore-walmart}
       - {nome: bud, gen: 1, nato: 1921, morto: 1995, ruolo: co-fondatore}
       - {nome: rob, gen: 2, nato: 1944, ruolo: ex-chairman-walmart}
@@ -1536,7 +1936,7 @@ famiglie:
     generazioni: 3
     status: attiva
     veicoli: [news-corp, fox]
-    membri:
+    stakeholders:
       - {nome: keith, gen: 1, nato: 1885, morto: 1952, ruolo: fondatore}
       - {nome: rupert, gen: 2, nato: 1931, ruolo: espansione-globale}
       - {nome: prudence, gen: 3, nato: 1958, ruolo: esclusa}
@@ -1551,7 +1951,7 @@ famiglie:
     settore_originario: chimica
     generazioni: 8
     status: dispersa
-    membri:
+    stakeholders:
       - {nome: pierre-samuel, gen: 1, nato: 1739, morto: 1817, ruolo: emigrato-fondatore}
       - {nome: ei-dupont, gen: 2, nato: 1771, morto: 1834, ruolo: fondatore-industriale}
       - {nome: henry, gen: 3, nato: 1812, morto: 1889, ruolo: ceo}
@@ -1570,38 +1970,4 @@ relazioni:
     - {da: david-rockefeller, a: zbigniew-brzezinski}
     - {da: henry-kissinger, a: klaus-schwab}
     - {da: gianni-agnelli, a: john-elkann}
-
-  alleanza_dinastica:
-    - {a: rockefeller, b: morgan, evento: 2000-fusione-chase-jpmorgan, nota: "Chase + JPMorgan = JPMorgan Chase"}
-    - {a: agnelli-elkann, b: rockefeller, via: bilderberg}
-
-  partner_politico:
-    - {a: mario-draghi, b: angela-merkel, contesto: "crisi euro 2011-2019"}
-    - {a: mario-draghi, b: emmanuel-macron, contesto: "Trattato Quirinale 2021"}
-
-  revolving_door:
-    - {persona: robert-rubin, da: goldman-sachs, a: tesoro-usa, poi: citigroup}
-    - {persona: mario-draghi, da: goldman-sachs, a: banca-italia, poi: bce}
-    - {persona: mario-monti, da: commissione-ue, a: goldman-sachs, poi: governo-italia}
-    # --- Lobby pro-Israele ---
-    - {persona: morris-amitay, da: aipac, a: jinsa, nota: "Direttore AIPAC -> VP JINSA"}
-    - {persona: jonathan-greenblatt, da: white-house, a: adl, nota: "Obama staff -> CEO ADL"}
-    - {persona: ronald-lauder, da: dod, a: ambasciata-usa-austria, poi: world-jewish-congress, nota: "DoD -> Ambasciatore -> Presidente WJC"}
-    - {persona: michael-makovsky, da: dod, a: bipartisan-policy-center, poi: jinsa, nota: "DoD -> think tank -> CEO JINSA"}
-
-  # Successioni leadership
-  successione:
-    # WJC
-    - {org: world-jewish-congress, da: stephen-wise, a: nahum-goldmann, anno: 1949}
-    - {org: world-jewish-congress, da: nahum-goldmann, a: edgar-bronfman-sr, anno: 1981}
-    - {org: world-jewish-congress, da: edgar-bronfman-sr, a: ronald-lauder, anno: 2007}
-    # AIPAC
-    - {org: aipac, da: isaiah-kenen, a: morris-amitay, anno: 1974}
-    - {org: aipac, da: morris-amitay, a: howard-kohr, anno: 1996, nota: "con Tom Dine in mezzo"}
-
-  # Connessioni cross-org
-  coordinamento_org:
-    - {orgs: [aipac, adl, jinsa, world-jewish-congress], via: conference-of-presidents, nota: "Tutti membri Conference of Presidents"}
-    - {orgs: [aipac, jinsa], persona: morris-amitay, nota: "Amitay ponte tra le due org"}
-    - {orgs: [world-jewish-congress, rothschild], persona: david-de-rothschild-fr, nota: "Chairman WJC Governing Board"}
 
