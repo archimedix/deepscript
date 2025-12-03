@@ -214,6 +214,17 @@ persone:
 
   # --- Tech ---
 
+  mark-zuckerberg:
+    file: persone/mark-zuckerberg.md
+    nato: 1984
+    naz: USA
+    affiliazioni:
+      - {org: meta, ruolo: fondatore-ceo, dal: 2004}
+      - {org: chan-zuckerberg-initiative, ruolo: co-fondatore, dal: 2015}
+      - {org: business-roundtable, ruolo: membro}
+      - {org: breakthrough-energy, ruolo: co-fondatore}
+      - {org: wef, ruolo: ygl, dal: 2009}
+
   bill-gates:
     file: persone/bill-gates.md
     nato: 1955
@@ -221,6 +232,7 @@ persone:
     affiliazioni:
       - {org: microsoft, ruolo: fondatore-ceo, dal: 1975, al: 2000}
       - {org: gates-foundation, ruolo: co-chair, dal: 2000}
+      - {org: breakthrough-energy, ruolo: fondatore, dal: 2015}
       - {org: bilderberg, ruolo: partecipante}
       - {org: wef, ruolo: partecipante}
 
@@ -233,6 +245,7 @@ persone:
       - {org: amazon, ruolo: executive-chairman, dal: 2021}
       - {org: blue-origin, ruolo: fondatore, dal: 2000}
       - {org: washington-post, ruolo: proprietario, dal: 2013}
+      - {org: breakthrough-energy, ruolo: co-fondatore, dal: 2015}
 
   elon-musk:
     file: persone/elon-musk.md
@@ -254,6 +267,90 @@ persone:
       - {org: founders-fund, ruolo: partner, dal: 2005}
       - {org: wef, ruolo: ygl, dal: 2007}
       - {org: bilderberg, ruolo: partecipante, dal: 2024}
+
+  sergey-brin:
+    nato: 1973
+    naz: USA
+    nota: "Co-fondatore Google/Alphabet"
+    affiliazioni:
+      - {org: alphabet, ruolo: co-fondatore, dal: 1998}
+      - {org: wef, ruolo: ygl, dal: 2005}
+
+  larry-page:
+    nato: 1973
+    naz: USA
+    nota: "Co-fondatore Google/Alphabet"
+    affiliazioni:
+      - {org: alphabet, ruolo: co-fondatore, dal: 1998}
+      - {org: wef, ruolo: glt, dal: 2002}
+
+  # --- YGL politici ---
+
+  sanna-marin:
+    nato: 1985
+    naz: FIN
+    nota: "PM Finlandia 2019-2023, piu' giovane PM mondo"
+    affiliazioni:
+      - {org: governo-finlandia, ruolo: capo-governo, dal: 2019, al: 2023}
+      - {org: wef, ruolo: ygl, dal: 2020}
+
+  pete-buttigieg:
+    nato: 1982
+    naz: USA
+    nota: "Secretary of Transportation USA, ex-sindaco South Bend"
+    affiliazioni:
+      - {org: governo-usa, ruolo: ministro, dal: 2021, nota: "Transportation"}
+      - {org: wef, ruolo: ygl, dal: 2019}
+
+  annalena-baerbock:
+    nato: 1980
+    naz: DEU
+    nota: "Ministro Esteri Germania, Verdi"
+    affiliazioni:
+      - {org: governo-germania, ruolo: ministro, dal: 2021, nota: "Esteri"}
+      - {org: wef, ruolo: ygl, dal: 2020}
+
+  chrystia-freeland:
+    nato: 1968
+    naz: CAN
+    nota: "Vice-PM e Min. Finanze Canada, giornalista Financial Times"
+    affiliazioni:
+      - {org: governo-canada, ruolo: vice-presidente, dal: 2019}
+      - {org: governo-canada, ruolo: ministro, dal: 2020, nota: "Finanze"}
+      - {org: wef, ruolo: glt, dal: 2001}
+
+  nicolas-sarkozy:
+    nato: 1955
+    naz: FRA
+    nota: "Presidente Francia 2007-2012"
+    affiliazioni:
+      - {org: governo-francia, ruolo: capo-governo, dal: 2007, al: 2012, nota: "Presidente"}
+      - {org: wef, ruolo: glt, dal: 1992}
+
+  leo-varadkar:
+    nato: 1979
+    naz: IRL
+    nota: "PM Irlanda 2017-2020 e 2022-2024"
+    affiliazioni:
+      - {org: governo-irlanda, ruolo: capo-governo, dal: 2017, al: 2020}
+      - {org: governo-irlanda, ruolo: capo-governo, dal: 2022, al: 2024}
+      - {org: wef, ruolo: ygl, dal: 2014}
+
+  alexander-de-croo:
+    nato: 1975
+    naz: BEL
+    nota: "PM Belgio 2020-2024, ora UNDP Administrator"
+    affiliazioni:
+      - {org: governo-belgio, ruolo: capo-governo, dal: 2020, al: 2024}
+      - {org: wef, ruolo: ygl, dal: 2015}
+
+  gavin-newsom:
+    nato: 1967
+    naz: USA
+    nota: "Governatore California"
+    affiliazioni:
+      - {org: governo-california, ruolo: governatore, dal: 2019}
+      - {org: wef, ruolo: ygl}
 
   # --- Figure storiche ---
   jp-morgan:

@@ -221,6 +221,7 @@
 | [WEF](../istituzioni/wef.md) | Partecipante Davos |
 | [Young Global Leaders](../istituzioni/young-global-leaders.md) | YGL alumni |
 | [Bilderberg](../istituzioni/bilderberg-trilaterale.md) | Partecipante |
+| Breakthrough Energy | Fondatore (2015) - coalition energia pulita |
 
 ### Persone
 
@@ -228,7 +229,8 @@
 |---------|-----------|
 | [Klaus Schwab](klaus-schwab.md) | Network WEF |
 | [George Soros](george-soros.md) | Peer filantropia |
-| [Jeff Bezos](jeff-bezos.md) | Peer tech |
+| [Jeff Bezos](jeff-bezos.md) | Co-fondatore Breakthrough Energy |
+| [Mark Zuckerberg](mark-zuckerberg.md) | Co-fondatore Breakthrough Energy |
 
 ---
 

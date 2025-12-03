@@ -103,13 +103,26 @@ istituzioni:
     tipo: programma
     parent: wef
     tags: [under-40, vivaio, pipeline]
+    nota: "GLT 1992-2003, rinominato YGL 2004, prima classe YGL 2005"
     stakeholders:
+      # GLT - Global Leaders for Tomorrow (1992-2003)
       - {persona: tony-blair, ruolo: glt, dal: 1992}
       - {persona: angela-merkel, ruolo: glt, dal: 1992}
-      - {persona: emmanuel-macron, ruolo: ygl, dal: 2016}
+      - {persona: nicolas-sarkozy, ruolo: glt, dal: 1992}
+      - {persona: larry-page, ruolo: glt, dal: 2002}
+      - {persona: chrystia-freeland, ruolo: glt, dal: 2001, nota: "Giornalista FT"}
+      # YGL - Young Global Leaders (dal 2005)
       - {persona: justin-trudeau, ruolo: ygl, dal: 2005}
-      - {persona: jacinda-ardern, ruolo: ygl, dal: 2014}
+      - {persona: sergey-brin, ruolo: ygl, dal: 2005}
       - {persona: peter-thiel, ruolo: ygl, dal: 2007}
+      - {persona: mark-zuckerberg, ruolo: ygl, dal: 2009}
+      - {persona: jacinda-ardern, ruolo: ygl, dal: 2014}
+      - {persona: leo-varadkar, ruolo: ygl, dal: 2014}
+      - {persona: alexander-de-croo, ruolo: ygl, dal: 2015}
+      - {persona: emmanuel-macron, ruolo: ygl, dal: 2016}
+      - {persona: pete-buttigieg, ruolo: ygl, dal: 2019}
+      - {persona: sanna-marin, ruolo: ygl, dal: 2020}
+      - {persona: annalena-baerbock, ruolo: ygl, dal: 2020}
 
   # --- Think tank ---
   cfr:
@@ -488,6 +501,7 @@ istituzioni:
     sede: Berlino
     stakeholders:
       - {persona: angela-merkel, ruolo: capo-governo, dal: 2005, al: 2021}
+      - {persona: annalena-baerbock, ruolo: ministro, dal: 2021, nota: "Esteri"}
   governo-francia:
     tipo: governo
     sede: Parigi
@@ -498,11 +512,24 @@ istituzioni:
     sede: Ottawa
     stakeholders:
       - {persona: justin-trudeau, ruolo: capo-governo, dal: 2015}
+      - {persona: chrystia-freeland, ruolo: vice-presidente, dal: 2019}
+      - {persona: chrystia-freeland, ruolo: ministro, dal: 2020, nota: "Finanze"}
   governo-nz:
     tipo: governo
     sede: Wellington
     stakeholders:
       - {persona: jacinda-ardern, ruolo: capo-governo, dal: 2017, al: 2023}
+  governo-irlanda:
+    tipo: governo
+    sede: Dublino
+    stakeholders:
+      - {persona: leo-varadkar, ruolo: capo-governo, dal: 2017, al: 2020}
+      - {persona: leo-varadkar, ruolo: capo-governo, dal: 2022, al: 2024}
+  governo-belgio:
+    tipo: governo
+    sede: Bruxelles
+    stakeholders:
+      - {persona: alexander-de-croo, ruolo: capo-governo, dal: 2020, al: 2024}
   governo-norvegia:
     tipo: governo
     sede: Oslo
@@ -511,6 +538,23 @@ istituzioni:
       - {persona: gro-harlem-brundtland, ruolo: capo-governo, dal: 1981, al: 1981}
       - {persona: gro-harlem-brundtland, ruolo: capo-governo, dal: 1986, al: 1989}
       - {persona: gro-harlem-brundtland, ruolo: capo-governo, dal: 1990, al: 1996}
+  governo-finlandia:
+    tipo: governo
+    sede: Helsinki
+    stakeholders:
+      - {persona: sanna-marin, ruolo: capo-governo, dal: 2019, al: 2023}
+  governo-california:
+    tipo: governo
+    sede: Sacramento
+    nota: "Stato della California"
+    stakeholders:
+      - {persona: gavin-newsom, ruolo: governatore, dal: 2019}
+  governo-usa:
+    tipo: governo
+    sede: Washington
+    nota: "Governo federale USA"
+    stakeholders:
+      - {persona: pete-buttigieg, ruolo: ministro, dal: 2021, nota: "Transportation"}
   governo-etiopia:
     tipo: governo
     sede: Addis Abeba
@@ -655,6 +699,11 @@ istituzioni:
     sede: Menlo Park
     borsa: NASDAQ
     nota: "Ex Facebook"
+    stakeholders:
+      - {persona: mark-zuckerberg, ruolo: fondatore-ceo, dal: 2004}
+      - {org: vanguard, ruolo: holding, percentuale: "7.8%"}
+      - {org: blackrock, ruolo: holding, percentuale: "6.3%"}
+      - {org: state-street, ruolo: holding, percentuale: "3.5%"}
 
   # --- Energy (stub) ---
   exxon-mobil:
@@ -686,6 +735,32 @@ istituzioni:
     sede: Seattle
     stakeholders:
       - {persona: bill-gates, ruolo: co-chair, dal: 2000}
+
+  chan-zuckerberg-initiative:
+    tipo: fondazione
+    fondato: 2015
+    sede: Palo Alto
+    nota: "LLC filantropica, non fondazione tradizionale - educazione, scienza, housing"
+    stakeholders:
+      - {persona: mark-zuckerberg, ruolo: co-fondatore, dal: 2015}
+
+  business-roundtable:
+    tipo: lobby
+    fondato: 1972
+    sede: Washington
+    nota: "Associazione CEO grandi corporation USA"
+    stakeholders:
+      - {persona: mark-zuckerberg, ruolo: membro}
+
+  breakthrough-energy:
+    tipo: fondazione
+    fondato: 2015
+    sede: Seattle
+    nota: "Coalition per energia pulita, fondata da Gates con altri miliardari tech"
+    stakeholders:
+      - {persona: bill-gates, ruolo: fondatore, dal: 2015}
+      - {persona: mark-zuckerberg, ruolo: co-fondatore, dal: 2015}
+      - {persona: jeff-bezos, ruolo: co-fondatore, dal: 2015}
 
   # --- Lobby e advocacy pro-Israele ---
   aipac:

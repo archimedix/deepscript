@@ -104,10 +104,10 @@ In un'intervista a Harvard, Klaus Schwab dichiarò:
 | **[Jacinda Ardern](../persone/jacinda-ardern.md)** | Nuova Zelanda | Prima Ministra | 2014 |
 | **Sanna Marin** | Finlandia | Prima Ministra | 2020 |
 | **Alexander De Croo** | Belgio | Primo Ministro | 2015 |
-| **Leo Varadkar** | Irlanda | Tanaiste | 2014 |
+| **Leo Varadkar** | Irlanda | Primo Ministro | 2014 |
 | **Carlos Alvarado Quesada** | Costa Rica | Presidente | 2016 |
-| **Volodymyr Zelensky** | Ucraina | Presidente | - |
-| **Mauricio Macri** | Argentina | Presidente | - |
+| ~~Volodymyr Zelensky~~ | Ucraina | Presidente | **Non verificato** |
+| ~~Mauricio Macri~~ | Argentina | Presidente | **Non verificato** |
 
 ### Ministri e Alti Funzionari
 
@@ -115,7 +115,7 @@ In un'intervista a Harvard, Klaus Schwab dichiarò:
 |------|-------|-------|------------|
 | **Pete Buttigieg** | USA | Secretary of Transportation | 2019 |
 | **Annalena Baerbock** | Germania | Ministro Esteri | 2020 |
-| **Chrystia Freeland** | Canada | Vice-PM, Min. Finanze | 2001 |
+| **Chrystia Freeland** | Canada | Vice-PM, Min. Finanze | GLT 2001 |
 | **Jagmeet Singh** | Canada | Leader NDP | 2018 |
 | **Anielle Franco** | Brasile | Ministro Uguaglianza | 2024 |
 
@@ -124,13 +124,13 @@ In un'intervista a Harvard, Klaus Schwab dichiarò:
 | Nome | Azienda | Ruolo | Classe YGL |
 |------|---------|-------|------------|
 | **Mark Zuckerberg** | Meta/Facebook | Fondatore, CEO | 2009 |
-| **Sergey Brin** | Google | Co-fondatore | 2007 |
-| **Larry Page** | Google | Co-fondatore | 2005 |
-| **Jeff Bezos** | Amazon | Fondatore | - |
+| **Sergey Brin** | Google | Co-fondatore | 2005 |
+| **Larry Page** | Google | Co-fondatore | GLT 2002 |
+| **Jeff Bezos** | Amazon | Fondatore | Non YGL (eta') |
 | **Jimmy Wales** | Wikipedia | Co-fondatore | Board YGL |
-| **Chad Hurley** | YouTube | Co-fondatore | - |
-| **Bill Gates** | Microsoft | Fondatore | - |
-| **Jack Ma** | Alibaba | Fondatore | - |
+| **Chad Hurley** | YouTube | Co-fondatore | 2009 |
+| **Bill Gates** | Microsoft | Fondatore | Non YGL (eta') |
+| ~~Jack Ma~~ | Alibaba | Fondatore | **Non verificato** |
 | **Peter Thiel** | PayPal, Palantir | Co-fondatore | 2007 |
 
 ### Italia
@@ -208,9 +208,11 @@ In un'intervista a Harvard, Klaus Schwab dichiarò:
 | [Jacinda Ardern](../persone/jacinda-ardern.md) | YGL 2014 |
 | [Peter Thiel](../persone/peter-thiel.md) | YGL 2007 |
 | [Elon Musk](../persone/elon-musk.md) | Non YGL (ma PayPal Mafia con Thiel) |
-| [Mark Zuckerberg](../persone/) | YGL 2009 (scheda da creare) |
-| [Jeff Bezos](../persone/jeff-bezos.md) | YGL |
-| [Bill Gates](../persone/bill-gates.md) | YGL |
+| [Mark Zuckerberg](../persone/mark-zuckerberg.md) | YGL 2009 |
+| [Sergey Brin](../persone/) | YGL 2005 (stub) |
+| [Larry Page](../persone/) | GLT 2002 (stub) |
+| [Jeff Bezos](../persone/jeff-bezos.md) | Non YGL (troppo vecchio nel 2004) |
+| [Bill Gates](../persone/bill-gates.md) | Non YGL (troppo vecchio nel 2004) |
 
 ### Network Visuale
 
@@ -286,6 +288,25 @@ In un'intervista a Harvard, Klaus Schwab dichiarò:
 
 ---
 
+## Note sulla Verifica (Dicembre 2025)
+
+**Membri verificati tramite fonti ufficiali WEF e media affidabili:**
+- Macron (2016), Trudeau (2005), Merkel (GLT 1992), Blair (GLT 1992), Sarkozy (GLT 1992)
+- Ardern (2014), Marin (2020), De Croo (2015), Buttigieg (2019), Baerbock (2020)
+- Zuckerberg (2009), Brin (2005), Page (GLT 2002), Thiel (2007), Hurley (2009)
+
+**Non verificati (rimossi o segnalati):**
+- Zelensky: ha profilo WEF come speaker ma NON confermato come YGL
+- Macri: non verificato
+- Jack Ma: non verificato
+
+**Correzioni:**
+- Sergey Brin: YGL 2005 (non 2007 come precedentemente indicato)
+- Larry Page: GLT 2002 (non YGL 2005)
+- Chrystia Freeland: GLT 2001 (programma precedente a YGL)
+
+---
+
 ## Domande Aperte
 
 - [ ] Lista completa degli YGL italiani?
@@ -312,8 +333,13 @@ In un'intervista a Harvard, Klaus Schwab dichiarò:
 - [Justin Trudeau](../persone/justin-trudeau.md) - YGL 2005
 - [Jacinda Ardern](../persone/jacinda-ardern.md) - YGL 2014
 - [Peter Thiel](../persone/peter-thiel.md) - YGL 2007
-- [Bill Gates](../persone/bill-gates.md) - YGL
-- [Jeff Bezos](../persone/jeff-bezos.md) - YGL
+- [Mark Zuckerberg](../persone/mark-zuckerberg.md) - YGL 2009
+- Sergey Brin - YGL 2005 (stub)
+- Larry Page - GLT 2002 (stub)
+- Sanna Marin - YGL 2020 (stub)
+- Pete Buttigieg - YGL 2019 (stub)
+- Annalena Baerbock - YGL 2020 (stub)
+- Chrystia Freeland - GLT 2001 (stub)
 
 ---
 
