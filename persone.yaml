@@ -1045,3 +1045,25 @@ persone:
       - {org: kissinger-associates, ruolo: ceo}
       - {org: cia, ruolo: direttore, dal: 2002, al: 2005, nota: "Deputy Director for Intelligence"}
       - {org: cfr, ruolo: vice-chairman}
+
+  # --- Leader UE ---
+
+  kaja-kallas:
+    file: persone/kaja-kallas.md
+    nato: 1977
+    naz: EST
+    nota: "Prima donna PM Estonia, 'Iron Lady d'Europa', figlia di Siim Kallas (PM e Commissario UE)"
+    affiliazioni:
+      - {org: governo-estonia, ruolo: capo-governo, dal: 2021, al: 2024, nota: "Prima donna PM Estonia"}
+      - {org: commissione-ue, ruolo: vice-presidente, dal: 2024, nota: "Alto Rappresentante Affari Esteri"}
+      - {org: parlamento-europeo, ruolo: membro, dal: 2014, al: 2018, nota: "ALDE"}
+      - {org: bilderberg, ruolo: partecipante, nota: "2024"}
+
+  siim-kallas:
+    nato: 1948
+    naz: EST
+    nota: "PM Estonia 2002-03, Commissario UE 2004-14 (Trasporti, Anti-frode), padre di Kaja Kallas"
+    affiliazioni:
+      - {org: governo-estonia, ruolo: capo-governo, dal: 2002, al: 2003}
+      - {org: commissione-ue, ruolo: vice-presidente, dal: 2004, al: 2014, nota: "Commissario Trasporti e Anti-frode"}
+      - {org: banca-estonia, ruolo: governatore, dal: 1991, al: 1995}

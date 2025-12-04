@@ -63,6 +63,7 @@ istituzioni:
       - {persona: ursula-von-der-leyen, ruolo: partecipante, nota: "2015, 2018, 2019 - poi Presidente Commissione UE"}
       - {persona: matteo-renzi, ruolo: partecipante, nota: "2019 Montreux"}
       - {persona: timothy-geithner, ruolo: partecipante, nota: "2009"}
+      - {persona: kaja-kallas, ruolo: partecipante, nota: "2024 - come PM Estonia"}
       # Collegamenti istituzionali
       - {org: trilaterale, ruolo: partner, nota: "Forte overlap membership"}
       - {org: wef, ruolo: partner, nota: "Brende partecipa a entrambi"}
@@ -628,12 +629,12 @@ istituzioni:
     sede: Helsinki
     stakeholders:
       - {persona: sanna-marin, ruolo: capo-governo, dal: 2019, al: 2023}
-  governo-california:
+  governo-estonia:
     tipo: governo
-    sede: Sacramento
-    nota: "Stato della California"
+    sede: Tallinn
     stakeholders:
-      - {persona: gavin-newsom, ruolo: governatore, dal: 2019}
+      - {persona: kaja-kallas, ruolo: capo-governo, dal: 2021, al: 2024, nota: "Prima donna PM"}
+      - {persona: siim-kallas, ruolo: capo-governo, dal: 2002, al: 2003}
   governo-usa:
     tipo: governo
     sede: Washington
@@ -1055,8 +1056,11 @@ istituzioni:
       - {persona: jose-barroso, ruolo: presidente, dal: 2004, al: 2014, nota: "Due mandati, poi Goldman Sachs"}
       - {persona: jean-claude-juncker, ruolo: presidente, dal: 2014, al: 2019, nota: "Ex-PM Lussemburgo 18 anni"}
       - {persona: ursula-von-der-leyen, ruolo: presidente, dal: 2019, nota: "Prima donna presidente, rieletta 2024"}
+      # Vice-Presidenti attuali
+      - {persona: kaja-kallas, ruolo: vice-presidente, dal: 2024, nota: "Alto Rappresentante Affari Esteri"}
       # Commissari notevoli
       - {persona: mario-monti, ruolo: commissario, dal: 1995, al: 2004, nota: "Concorrenza"}
+      - {persona: siim-kallas, ruolo: vice-presidente, dal: 2004, al: 2014, nota: "Trasporti, Anti-frode - Commissioni Barroso I e II"}
 
   governo-portogallo:
     tipo: governo
