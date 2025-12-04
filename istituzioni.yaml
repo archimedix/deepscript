@@ -1,8 +1,35 @@
 # DeepScript - Istituzioni
 # Fonte di verita' per organizzazioni
-# Ultimo aggiornamento: 2025-12-02
+# Ultimo aggiornamento: 2025-12-04
 
 istituzioni:
+  # --- Fondi sovrani ---
+  norges-bank-gpfg:
+    file: istituzioni/norges-bank-gpfg.md
+    fondato: 1990
+    tipo: sovereign-wealth-fund
+    sede: Oslo
+    aum: "1.9T"
+    tags: [swf, norvegia, petrolio, trasparenza, esg]
+    nota: "Maggiore fondo sovrano al mondo, possiede ~1.5% di tutte le azioni quotate globali"
+    stakeholders:
+      # Leadership NBIM
+      - {persona: nicolai-tangen, ruolo: ceo, dal: 2020, nota: "Ex-AKO Capital, riconfermato 2025"}
+      - {persona: yngve-slyngstad, ruolo: ceo, dal: 2008, al: 2020}
+      # Top holdings (percentuali stimate ~1-1.5% ciascuna)
+      - {org: apple, ruolo: holding, percentuale: "1.2%", nota: "$46.2B"}
+      - {org: microsoft, ruolo: holding, percentuale: "1.1%", nota: "$43.8B"}
+      - {org: nvidia, ruolo: holding, nota: "Top 3 holding"}
+      - {org: amazon, ruolo: holding, nota: "$27B"}
+      - {org: meta, ruolo: holding, nota: "$20B"}
+      - {org: tesla, ruolo: holding, nota: "$14.2B"}
+      - {org: alphabet, ruolo: holding}
+      # Holdings finance
+      - {org: goldman-sachs, ruolo: holding}
+      - {org: jpmorgan-chase, ruolo: holding}
+      - {org: morgan-stanley, ruolo: holding}
+      - {org: blackrock, ruolo: holding}
+
   # --- Forum elite ---
   bilderberg:
     file: istituzioni/bilderberg-trilaterale.md
@@ -685,6 +712,14 @@ istituzioni:
     nota: "Maggiore hedge fund al mondo per AUM (~$150B)"
     stakeholders:
       - {persona: ray-dalio, ruolo: fondatore}
+
+  ako-capital:
+    tipo: hedge-fund
+    sede: Londra
+    fondato: 2005
+    nota: "Hedge fund fondato da Nicolai Tangen, trasferito a AKO Foundation nel 2020"
+    stakeholders:
+      - {persona: nicolai-tangen, ruolo: fondatore-ceo, dal: 2005, al: 2020}
 
   # --- Tech (stub) ---
   microsoft:

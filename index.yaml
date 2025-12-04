@@ -50,7 +50,6 @@ todo:
     - rand-corporation    # Think tank military-industrial
     - chatham-house       # Think tank UK, equivalente CFR
     # --- Fondi sovrani (Sovereign Wealth Funds) ---
-    - norges-bank-gpfg    # Norvegia, ~$1.6T, maggiore al mondo, trasparenza totale
     - cic                 # China Investment Corporation, ~$1.3T
     - adia                # Abu Dhabi Investment Authority, ~$900B
     - gic-singapore       # Government of Singapore IC, ~$770B
@@ -169,6 +168,7 @@ enum:
     - investment-bank
     - asset-manager
     - central-bank
+    - sovereign-wealth-fund  # Fondi sovrani (GPFG, GIC, ADIA, etc.)
     - istituzione-finanziaria
     - organizzazione-internazionale
     - alleanza-militare

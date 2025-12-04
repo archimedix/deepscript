@@ -694,6 +694,33 @@ persone:
       - {org: trilaterale, ruolo: membro}
       - {org: the-elders, ruolo: vice-chairman}
 
+  # --- Leadership NBIM (fondo sovrano norvegese) ---
+
+  borge-brende:
+    nato: 1965
+    naz: NOR
+    nota: "CEO WEF dal 2017, ex-Ministro Esteri Norvegia"
+    affiliazioni:
+      - {org: wef, ruolo: president-ceo, dal: 2017}
+      - {org: governo-norvegia, ruolo: ministro, dal: 2013, al: 2017, nota: "Esteri"}
+      - {org: governo-norvegia, ruolo: ministro, dal: 2001, al: 2004, nota: "Commercio"}
+      - {org: bilderberg, ruolo: partecipante, nota: "2025"}
+
+  nicolai-tangen:
+    nato: 1966
+    naz: NOR
+    nota: "CEO NBIM dal 2020, fondatore AKO Capital, hedge fund manager"
+    affiliazioni:
+      - {org: norges-bank-gpfg, ruolo: ceo, dal: 2020, nota: "Riconfermato 2025"}
+      - {org: ako-capital, ruolo: fondatore-ceo, dal: 2005, al: 2020}
+
+  yngve-slyngstad:
+    nato: 1962
+    naz: NOR
+    nota: "CEO NBIM 2008-2020, 12 anni alla guida del fondo"
+    affiliazioni:
+      - {org: norges-bank-gpfg, ruolo: ceo, dal: 2008, al: 2020}
+
   margaret-chan:
     nato: 1947
     naz: CHN
