@@ -88,7 +88,8 @@ istituzioni:
       # Membri notevoli
       - {persona: larry-fink, ruolo: membro, nota: "CEO BlackRock, WEF Co-Chair"}
       - {persona: christine-lagarde, ruolo: membro, nota: "BCE"}
-      - {persona: gianni-agnelli, ruolo: membro-storico}
+      - {persona: robert-mcnamara, ruolo: membro, nota: "Storico - Ex-World Bank 13 anni"}
+      - {persona: gianni-agnelli, ruolo: membro, nota: "Storico"}
       - {persona: gro-harlem-brundtland, ruolo: membro}
       - {persona: marta-dassu, ruolo: membro, nota: "Anche Aspen Italia Senior Director"}
       - {persona: giampaolo-di-paola, ruolo: membro, nota: "Ex-Min Difesa ITA, ex-Chair NATO Military Committee"}
@@ -176,6 +177,7 @@ istituzioni:
       - {persona: chip-kaye, ruolo: board, nota: "Co-Chairman Warburg Pincus"}
       # Leadership storica
       - {persona: paul-warburg, ruolo: fondatore, dal: 1921}
+      - {persona: john-mccloy, ruolo: chairman, dal: 1954, al: 1970, nota: "16 anni, Chairman of the Establishment"}
       - {persona: david-rockefeller, ruolo: chairman, dal: 1970, al: 1985, nota: "Fondo' Trilaterale 1973"}
       - {persona: henry-kissinger, ruolo: membro}
       - {persona: zbigniew-brzezinski, ruolo: membro}
@@ -446,13 +448,21 @@ istituzioni:
     sede: Washington
     tags: [bretton-woods, sviluppo, veto-usa]
     stakeholders:
-      # Presidenti
+      # Presidenti - tutti USA per tradizione
       - {persona: ajay-banga, ruolo: presidente, dal: 2023, nota: "Ex-CEO Mastercard, nominato Biden"}
       - {persona: david-malpass, ruolo: presidente, dal: 2019, al: 2023, nota: "Nominato Trump"}
       - {persona: jim-yong-kim, ruolo: presidente, dal: 2012, al: 2019}
       - {persona: robert-zoellick, ruolo: presidente, dal: 2007, al: 2012, nota: "Ex-Goldman Sachs, USTR"}
-      - {persona: paul-wolfowitz, ruolo: presidente, dal: 2005, al: 2007, nota: "Neocon, Pentagono"}
+      - {persona: paul-wolfowitz, ruolo: presidente, dal: 2005, al: 2007, nota: "Neocon, Pentagono, dimesso per scandalo"}
+      - {persona: james-wolfensohn, ruolo: presidente, dal: 1995, al: 2005, nota: "Due mandati, anti-corruzione"}
+      - {persona: lewis-preston, ruolo: presidente, dal: 1991, al: 1995, nota: "Ex-CEO JP Morgan"}
+      - {persona: robert-mcnamara, ruolo: presidente, dal: 1968, al: 1981, nota: "13 anni, ex-Segretario Difesa Vietnam"}
+      - {persona: eugene-black, ruolo: presidente, dal: 1949, al: 1962, nota: "13 anni, ex-Chase National Bank"}
+      - {persona: john-mccloy, ruolo: presidente, dal: 1947, al: 1949, nota: "Chairman of the Establishment"}
+      # Staff
       - {persona: larry-summers, ruolo: advisor, dal: 1991, al: 1993, nota: "Chief Economist"}
+      # Governatori
+      - {persona: jean-claude-juncker, ruolo: governatore, dal: 1989, al: 1995, nota: "Come Min. Finanze Lussemburgo"}
       # Collegamenti
       - {org: fmi, ruolo: partner, nota: "Gemelli di Bretton Woods"}
       - {org: tesoro-usa, ruolo: partner, nota: "Tradizionalmente nomina il presidente"}
@@ -547,6 +557,8 @@ istituzioni:
     sede: Londra
     stakeholders:
       - {persona: tony-blair, ruolo: capo-governo, dal: 1997, al: 2007}
+      - {persona: roy-jenkins, ruolo: ministro, dal: 1965, al: 1967, nota: "Home Secretary"}
+      - {persona: roy-jenkins, ruolo: ministro, dal: 1967, al: 1970, nota: "Chancellor of the Exchequer"}
   governo-germania:
     tipo: governo
     sede: Berlino
@@ -561,6 +573,7 @@ istituzioni:
       - {persona: emmanuel-macron, ruolo: capo-governo, dal: 2017}
       - {persona: francois-mitterrand, ruolo: capo-governo, dal: 1981, al: 1995}
       - {persona: nicolas-sarkozy, ruolo: capo-governo, dal: 2007, al: 2012}
+      - {persona: jacques-delors, ruolo: ministro, dal: 1981, al: 1984, nota: "Economia e Finanze sotto Mitterrand"}
   governo-canada:
     tipo: governo
     sede: Ottawa
@@ -584,6 +597,22 @@ istituzioni:
     sede: Bruxelles
     stakeholders:
       - {persona: alexander-de-croo, ruolo: capo-governo, dal: 2020, al: 2024}
+  governo-lussemburgo:
+    tipo: governo
+    sede: Lussemburgo
+    nota: "3 PM diventati Presidenti Commissione UE"
+    stakeholders:
+      - {persona: gaston-thorn, ruolo: capo-governo, dal: 1974, al: 1979}
+      - {persona: jacques-santer, ruolo: capo-governo, dal: 1984, al: 1995}
+      - {persona: jean-claude-juncker, ruolo: ministro, dal: 1989, al: 2009, nota: "Finanze - 20 anni"}
+      - {persona: jean-claude-juncker, ruolo: capo-governo, dal: 1995, al: 2013, nota: "18 anni"}
+  eurogroup:
+    tipo: istituzione-ue
+    sede: Bruxelles
+    fondato: 1998
+    nota: "Riunione informale ministri finanze eurozona"
+    stakeholders:
+      - {persona: jean-claude-juncker, ruolo: presidente, dal: 2005, al: 2013, nota: "Primo presidente permanente"}
   governo-norvegia:
     tipo: governo
     sede: Oslo
@@ -592,6 +621,8 @@ istituzioni:
       - {persona: gro-harlem-brundtland, ruolo: capo-governo, dal: 1981, al: 1981}
       - {persona: gro-harlem-brundtland, ruolo: capo-governo, dal: 1986, al: 1989}
       - {persona: gro-harlem-brundtland, ruolo: capo-governo, dal: 1990, al: 1996}
+      - {persona: borge-brende, ruolo: ministro, dal: 2001, al: 2004, nota: "Commercio"}
+      - {persona: borge-brende, ruolo: ministro, dal: 2013, al: 2017, nota: "Esteri"}
   governo-finlandia:
     tipo: governo
     sede: Helsinki
@@ -663,8 +694,9 @@ istituzioni:
   chase-manhattan:
     tipo: bank
     sede: New York
-    nota: "Fusa in JPMorgan Chase nel 2000"
+    nota: "Fusa in JPMorgan Chase nel 2000, famiglia Rockefeller"
     stakeholders:
+      - {persona: john-mccloy, ruolo: chairman, dal: 1953, al: 1960, nota: "Chairman of the Establishment"}
       - {persona: david-rockefeller, ruolo: ceo, dal: 1969, al: 1981}
       - {persona: gianni-agnelli, ruolo: board}
   citigroup:
@@ -1006,10 +1038,33 @@ istituzioni:
   commissione-ue:
     tipo: istituzione-ue
     sede: Bruxelles
+    fondato: 1958
+    nota: "Esecutivo UE, dal 1958 (CEE) a oggi"
     stakeholders:
-      - {persona: mario-monti, ruolo: commissario, dal: 1995, al: 2004}
+      # Presidenti (ordine cronologico)
+      - {persona: walter-hallstein, ruolo: presidente, dal: 1958, al: 1967, nota: "Primo presidente, padre fondatore UE"}
+      - {persona: jean-rey, ruolo: presidente, dal: 1967, al: 1970, nota: "Belga, fusione comunita'"}
+      - {persona: franco-maria-malfatti, ruolo: presidente, dal: 1970, al: 1972, nota: "Italiano, dimesso per politica nazionale"}
+      - {persona: sicco-mansholt, ruolo: presidente, dal: 1972, al: 1973, nota: "Olandese, PAC"}
+      - {persona: francois-xavier-ortoli, ruolo: presidente, dal: 1973, al: 1977, nota: "Francese"}
+      - {persona: roy-jenkins, ruolo: presidente, dal: 1977, al: 1981, nota: "Britannico, propose unione monetaria"}
+      - {persona: gaston-thorn, ruolo: presidente, dal: 1981, al: 1985, nota: "Lussemburghese"}
+      - {persona: jacques-delors, ruolo: presidente, dal: 1985, al: 1995, nota: "3 mandati, padre dell'euro e Schengen"}
+      - {persona: jacques-santer, ruolo: presidente, dal: 1995, al: 1999, nota: "Dimesso per scandalo"}
       - {persona: romano-prodi, ruolo: presidente, dal: 1999, al: 2004}
-      - {persona: ursula-von-der-leyen, ruolo: presidente, dal: 2019, nota: "Prima donna presidente"}
+      - {persona: jose-barroso, ruolo: presidente, dal: 2004, al: 2014, nota: "Due mandati, poi Goldman Sachs"}
+      - {persona: jean-claude-juncker, ruolo: presidente, dal: 2014, al: 2019, nota: "Ex-PM Lussemburgo 18 anni"}
+      - {persona: ursula-von-der-leyen, ruolo: presidente, dal: 2019, nota: "Prima donna presidente, rieletta 2024"}
+      # Commissari notevoli
+      - {persona: mario-monti, ruolo: commissario, dal: 1995, al: 2004, nota: "Concorrenza"}
+
+  governo-portogallo:
+    tipo: governo
+    sede: Lisbona
+    stakeholders:
+      - {persona: jose-barroso, ruolo: ministro, dal: 1992, al: 1995, nota: "Esteri"}
+      - {persona: jose-barroso, ruolo: capo-governo, dal: 2002, al: 2004}
+
   banca-italia:
     tipo: central-bank
     sede: Roma

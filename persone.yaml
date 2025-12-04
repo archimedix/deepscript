@@ -115,6 +115,21 @@ persone:
       - {org: wef, ruolo: partecipante}
       - {org: gruppo-30, ruolo: membro}
 
+  jose-barroso:
+    file: persone/jose-barroso.md
+    nato: 1956
+    naz: PRT
+    nota: "Da maoista a Presidente Commissione UE a Goldman Sachs - archetipo revolving door"
+    affiliazioni:
+      - {org: governo-portogallo, ruolo: ministro, dal: 1992, al: 1995, nota: "Esteri"}
+      - {org: governo-portogallo, ruolo: capo-governo, dal: 2002, al: 2004}
+      - {org: commissione-ue, ruolo: presidente, dal: 2004, al: 2014}
+      - {org: goldman-sachs, ruolo: chairman-international, dal: 2016, al: 2024}
+      - {org: goldman-sachs, ruolo: chairman-advisors, dal: 2024, nota: "Chair International Advisors"}
+      - {org: gavi, ruolo: board-chair, dal: 2021}
+      - {org: bilderberg, ruolo: partecipante}
+      - {org: wef, ruolo: glt, dal: 1993, nota: "Global Leader for Tomorrow"}
+
   mario-monti:
     file: persone/mario-monti.md
     nato: 1943
@@ -399,6 +414,62 @@ persone:
     morto: 1948
     naz: USA
     nota: "Architetto Bretton Woods per USA"
+
+  # --- Presidenti Banca Mondiale storici ---
+
+  john-mccloy:
+    nato: 1895
+    morto: 1989
+    naz: USA
+    nota: "Chairman of the Establishment - World Bank, Chase Manhattan, CFR, Ford Foundation"
+    affiliazioni:
+      - {org: banca-mondiale, ruolo: presidente, dal: 1947, al: 1949}
+      - {org: chase-manhattan, ruolo: chairman, dal: 1953, al: 1960}
+      - {org: cfr, ruolo: chairman, dal: 1954, al: 1970, nota: "16 anni"}
+      - {org: ford-foundation, ruolo: chairman, dal: 1958, al: 1965}
+      - {org: governo-usa, ruolo: ministro, dal: 1941, al: 1945, nota: "Assistant Secretary of War"}
+
+  eugene-black:
+    nato: 1898
+    morto: 1992
+    naz: USA
+    nota: "Presidente World Bank 13 anni, ex-Chase National Bank (Rockefeller)"
+    affiliazioni:
+      - {org: banca-mondiale, ruolo: presidente, dal: 1949, al: 1962, nota: "13 anni"}
+      - {org: chase-national-bank, ruolo: vice-chairman, nota: "Pre-fusione con Manhattan"}
+
+  robert-mcnamara:
+    nato: 1916
+    morto: 2009
+    naz: USA
+    nota: "Segretario Difesa Vietnam, poi World Bank 13 anni - trasformo' la banca in agenzia sviluppo"
+    affiliazioni:
+      - {org: ford-motor, ruolo: presidente, dal: 1960, al: 1961, nota: "Primo non-Ford"}
+      - {org: dod, ruolo: ministro, dal: 1961, al: 1968, nota: "Secretary of Defense, Vietnam"}
+      - {org: banca-mondiale, ruolo: presidente, dal: 1968, al: 1981, nota: "13 anni, trasformo' la banca"}
+      - {org: trilaterale, ruolo: membro}
+      - {org: rockefeller-foundation, ruolo: board}
+      - {org: ford-foundation, ruolo: board}
+      - {org: brookings, ruolo: board}
+
+  lewis-preston:
+    nato: 1926
+    morto: 1995
+    naz: USA
+    nota: "Ex-CEO JP Morgan, presidente World Bank"
+    affiliazioni:
+      - {org: jpmorgan, ruolo: ceo, dal: 1980, al: 1991}
+      - {org: banca-mondiale, ruolo: presidente, dal: 1991, al: 1995}
+
+  james-wolfensohn:
+    nato: 1933
+    morto: 2020
+    naz: USA
+    nota: "Presidente World Bank 10 anni, 'Renaissance Banker', lotta corruzione"
+    affiliazioni:
+      - {org: banca-mondiale, ruolo: presidente, dal: 1995, al: 2005, nota: "Due mandati"}
+      - {org: carnegie-hall, ruolo: chairman}
+      - {org: cfr, ruolo: membro}
 
   richard-nixon:
     nato: 1913
@@ -727,6 +798,98 @@ persone:
     nota: "DG OMS 2006-2017, H1N1, Ebola"
     affiliazioni:
       - {org: oms, ruolo: direttore, dal: 2006, al: 2017}
+
+  # --- Presidenti Commissione Europea ---
+
+  walter-hallstein:
+    nato: 1901
+    morto: 1982
+    naz: DEU
+    nota: "Primo presidente Commissione 1958-67, padre fondatore UE, Hallstein Doctrine"
+    affiliazioni:
+      - {org: commissione-ue, ruolo: presidente, dal: 1958, al: 1967}
+
+  jean-rey:
+    nato: 1902
+    morto: 1983
+    naz: BEL
+    nota: "Presidente Commissione 1967-70, fusione tre comunita' europee"
+    affiliazioni:
+      - {org: commissione-ue, ruolo: presidente, dal: 1967, al: 1970}
+
+  franco-maria-malfatti:
+    nato: 1927
+    morto: 1991
+    naz: ITA
+    nota: "Presidente Commissione 1970-72, dimesso per tornare in politica italiana"
+    affiliazioni:
+      - {org: commissione-ue, ruolo: presidente, dal: 1970, al: 1972}
+
+  sicco-mansholt:
+    nato: 1908
+    morto: 1995
+    naz: NLD
+    nota: "Presidente Commissione 1972-73, architetto PAC (Politica Agricola Comune)"
+    affiliazioni:
+      - {org: commissione-ue, ruolo: presidente, dal: 1972, al: 1973}
+
+  francois-xavier-ortoli:
+    nato: 1925
+    morto: 2007
+    naz: FRA
+    nota: "Presidente Commissione 1973-77"
+    affiliazioni:
+      - {org: commissione-ue, ruolo: presidente, dal: 1973, al: 1977}
+
+  roy-jenkins:
+    nato: 1920
+    morto: 2003
+    naz: GBR
+    nota: "Presidente Commissione 1977-81, propose unione monetaria, fondatore SDP UK"
+    affiliazioni:
+      - {org: commissione-ue, ruolo: presidente, dal: 1977, al: 1981}
+      - {org: governo-uk, ruolo: ministro, dal: 1965, al: 1967, nota: "Home Secretary"}
+      - {org: governo-uk, ruolo: ministro, dal: 1967, al: 1970, nota: "Chancellor"}
+
+  gaston-thorn:
+    nato: 1928
+    morto: 2007
+    naz: LUX
+    nota: "Presidente Commissione 1981-85, ex-PM Lussemburgo"
+    affiliazioni:
+      - {org: commissione-ue, ruolo: presidente, dal: 1981, al: 1985}
+      - {org: governo-lussemburgo, ruolo: capo-governo, dal: 1974, al: 1979}
+
+  jacques-delors:
+    nato: 1925
+    morto: 2023
+    naz: FRA
+    nota: "Presidente Commissione 1985-95, padre dell'euro, Schengen, Erasmus - il piu' influente"
+    affiliazioni:
+      - {org: commissione-ue, ruolo: presidente, dal: 1985, al: 1995}
+      - {org: governo-francia, ruolo: ministro, dal: 1981, al: 1984, nota: "Economia e Finanze"}
+
+  jacques-santer:
+    nato: 1937
+    naz: LUX
+    nota: "Presidente Commissione 1995-99, dimesso per scandalo frodi, ex-PM Lussemburgo"
+    affiliazioni:
+      - {org: commissione-ue, ruolo: presidente, dal: 1995, al: 1999}
+      - {org: governo-lussemburgo, ruolo: capo-governo, dal: 1984, al: 1995}
+
+  jean-claude-juncker:
+    file: persone/jean-claude-juncker.md
+    nato: 1954
+    naz: LUX
+    nota: "PM Lussemburgo 18 anni, padre Eurogroup, architetto hub fiscale, LuxLeaks"
+    affiliazioni:
+      - {org: governo-lussemburgo, ruolo: ministro, dal: 1984, al: 1989, nota: "Lavoro"}
+      - {org: governo-lussemburgo, ruolo: ministro, dal: 1989, al: 2009, nota: "Finanze - 20 anni"}
+      - {org: governo-lussemburgo, ruolo: capo-governo, dal: 1995, al: 2013, nota: "18 anni, record UE"}
+      - {org: banca-mondiale, ruolo: governatore, dal: 1989, al: 1995}
+      - {org: eurogroup, ruolo: presidente, dal: 2005, al: 2013, nota: "Primo presidente permanente"}
+      - {org: commissione-ue, ruolo: presidente, dal: 2014, al: 2019}
+      - {org: wef, ruolo: ygl, dal: 1995}
 
   # --- Leader UE ---
 
