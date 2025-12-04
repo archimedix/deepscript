@@ -33,6 +33,7 @@ istituzioni:
       - {persona: enrico-letta, ruolo: partecipante, nota: "Bilderberg 2025"}
       - {persona: borge-brende, ruolo: partecipante, nota: "Bilderberg 2025 - CEO WEF"}
       - {persona: jose-barroso, ruolo: partecipante, nota: "Chair Goldman Sachs Int'l"}
+      - {persona: ursula-von-der-leyen, ruolo: partecipante, nota: "2015, 2018, 2019 - poi Presidente Commissione UE"}
       # Collegamenti istituzionali
       - {org: trilaterale, ruolo: partner, nota: "Forte overlap membership"}
       - {org: wef, ruolo: partner, nota: "Brende partecipa a entrambi"}
@@ -90,6 +91,7 @@ istituzioni:
       - {persona: tedros-adhanom, ruolo: partecipante}
       - {persona: christine-lagarde, ruolo: partecipante, nota: "BCE"}
       - {persona: kristalina-georgieva, ruolo: partecipante, nota: "FMI - endorso' Great Reset"}
+      - {persona: ursula-von-der-leyen, ruolo: partecipante, nota: "Speaker Davos 2021-2025, Presidente Commissione UE"}
       # Strategic Partners
       - {org: blackrock, ruolo: partner, nota: "Strategic Partner, Fink Co-Chair"}
       - {org: jpmorgan-chase, ruolo: partner, nota: "Strategic Partner"}
@@ -491,6 +493,7 @@ istituzioni:
       - {persona: romano-prodi, ruolo: capo-governo, dal: 1996, al: 1998}
       - {persona: romano-prodi, ruolo: capo-governo, dal: 2006, al: 2008}
       - {persona: carlo-azeglio-ciampi, ruolo: capo-governo, dal: 1993, al: 1994}
+      - {persona: bettino-craxi, ruolo: capo-governo, dal: 1983, al: 1987}
   governo-uk:
     tipo: governo
     sede: Londra
@@ -501,12 +504,15 @@ istituzioni:
     sede: Berlino
     stakeholders:
       - {persona: angela-merkel, ruolo: capo-governo, dal: 2005, al: 2021}
+      - {persona: helmut-kohl, ruolo: capo-governo, dal: 1982, al: 1998}
       - {persona: annalena-baerbock, ruolo: ministro, dal: 2021, nota: "Esteri"}
   governo-francia:
     tipo: governo
     sede: Parigi
     stakeholders:
       - {persona: emmanuel-macron, ruolo: capo-governo, dal: 2017}
+      - {persona: francois-mitterrand, ruolo: capo-governo, dal: 1981, al: 1995}
+      - {persona: nicolas-sarkozy, ruolo: capo-governo, dal: 2007, al: 2012}
   governo-canada:
     tipo: governo
     sede: Ottawa
@@ -554,6 +560,8 @@ istituzioni:
     sede: Washington
     nota: "Governo federale USA"
     stakeholders:
+      - {persona: bill-clinton, ruolo: capo-governo, dal: 1993, al: 2001}
+      - {persona: george-w-bush, ruolo: capo-governo, dal: 2001, al: 2009}
       - {persona: pete-buttigieg, ruolo: ministro, dal: 2021, nota: "Transportation"}
   governo-etiopia:
     tipo: governo
@@ -561,6 +569,18 @@ istituzioni:
     stakeholders:
       - {persona: tedros-adhanom, ruolo: ministro, dal: 2005, al: 2012, nota: "Salute"}
       - {persona: tedros-adhanom, ruolo: ministro, dal: 2012, al: 2016, nota: "Esteri"}
+  governo-urss:
+    tipo: governo
+    sede: Mosca
+    nota: "Unione Sovietica 1922-1991"
+    stakeholders:
+      - {persona: mikhail-gorbachev, ruolo: capo-governo, dal: 1985, al: 1991}
+  governo-russia:
+    tipo: governo
+    sede: Mosca
+    nota: "Federazione Russa dal 1991"
+    stakeholders:
+      - {persona: boris-yeltsin, ruolo: capo-governo, dal: 1991, al: 1999}
 
   # --- Agenzie USA (stub) ---
   nsa:
@@ -914,6 +934,7 @@ istituzioni:
     stakeholders:
       - {persona: mario-monti, ruolo: commissario, dal: 1995, al: 2004}
       - {persona: romano-prodi, ruolo: presidente, dal: 1999, al: 2004}
+      - {persona: ursula-von-der-leyen, ruolo: presidente, dal: 2019, nota: "Prima donna presidente"}
   banca-italia:
     tipo: central-bank
     sede: Roma

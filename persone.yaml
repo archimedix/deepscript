@@ -415,12 +415,16 @@ persone:
     morto: 2022
     naz: RUS
     nota: "Ultimo leader URSS, glasnost/perestroika"
+    affiliazioni:
+      - {org: governo-urss, ruolo: capo-governo, dal: 1985, al: 1991}
 
   boris-yeltsin:
     nato: 1931
     morto: 2007
     naz: RUS
     nota: "Primo presidente Russia, privatizzazioni"
+    affiliazioni:
+      - {org: governo-russia, ruolo: capo-governo, dal: 1991, al: 1999}
 
   antonio-di-pietro:
     nato: 1950
@@ -432,23 +436,31 @@ persone:
     morto: 2000
     naz: ITA
     nota: "Segretario PSI, simbolo Tangentopoli"
+    affiliazioni:
+      - {org: governo-italia, ruolo: capo-governo, dal: 1983, al: 1987}
 
   helmut-kohl:
     nato: 1930
     morto: 2017
     naz: DEU
     nota: "Cancelliere Germania, riunificazione, Maastricht"
+    affiliazioni:
+      - {org: governo-germania, ruolo: capo-governo, dal: 1982, al: 1998}
 
   francois-mitterrand:
     nato: 1916
     morto: 1996
     naz: FRA
     nota: "Presidente Francia, Maastricht"
+    affiliazioni:
+      - {org: governo-francia, ruolo: capo-governo, dal: 1981, al: 1995}
 
   bill-clinton:
     nato: 1946
     naz: USA
     nota: "42 Presidente USA"
+    affiliazioni:
+      - {org: governo-usa, ruolo: capo-governo, dal: 1993, al: 2001}
 
   alan-greenspan:
     nato: 1926
@@ -460,6 +472,8 @@ persone:
     naz: USA
     famiglia: bush
     nota: "43 Presidente USA, War on Terror"
+    affiliazioni:
+      - {org: governo-usa, ruolo: capo-governo, dal: 2001, al: 2009}
 
   dick-cheney:
     nato: 1941
@@ -672,3 +686,17 @@ persone:
     nota: "DG OMS 2006-2017, H1N1, Ebola"
     affiliazioni:
       - {org: oms, ruolo: direttore, dal: 2006, al: 2017}
+
+  # --- Leader UE ---
+
+  ursula-von-der-leyen:
+    file: persone/ursula-von-der-leyen.md
+    nato: 1958
+    naz: DEU
+    affiliazioni:
+      - {org: governo-germania, ruolo: ministro, dal: 2005, al: 2009, nota: "Famiglia"}
+      - {org: governo-germania, ruolo: ministro, dal: 2009, al: 2013, nota: "Lavoro"}
+      - {org: governo-germania, ruolo: ministro, dal: 2013, al: 2019, nota: "Difesa"}
+      - {org: commissione-ue, ruolo: presidente, dal: 2019}
+      - {org: bilderberg, ruolo: partecipante, nota: "2015, 2018, 2019"}
+      - {org: wef, ruolo: partecipante, nota: "Speaker Davos 2021-2025"}
