@@ -293,6 +293,7 @@ persone:
     affiliazioni:
       - {org: governo-finlandia, ruolo: capo-governo, dal: 2019, al: 2023}
       - {org: wef, ruolo: ygl, dal: 2020}
+      - {org: tony-blair-institute, ruolo: advisor, dal: 2023, nota: "Strategic Counsellor"}
 
   pete-buttigieg:
     nato: 1982
@@ -700,3 +701,72 @@ persone:
       - {org: commissione-ue, ruolo: presidente, dal: 2019}
       - {org: bilderberg, ruolo: partecipante, nota: "2015, 2018, 2019"}
       - {org: wef, ruolo: partecipante, nota: "Speaker Davos 2021-2025"}
+
+  matteo-renzi:
+    file: persone/matteo-renzi.md
+    nato: 1975
+    naz: ITA
+    affiliazioni:
+      - {org: governo-italia, ruolo: capo-governo, dal: 2014, al: 2016}
+      - {org: wef, ruolo: ygl, dal: 2012}
+      - {org: bilderberg, ruolo: partecipante, nota: "2019"}
+      - {org: tony-blair-institute, ruolo: advisor}
+      - {org: fii-saudi, ruolo: board}
+
+  # --- TBI Strategic Counsellors (stub) ---
+  patrick-vallance:
+    nato: 1960
+    naz: GBR
+    nota: "Ex-Chief Scientific Adviser UK (2018-2023), ex-GSK, TBI Strategic Counsellor"
+    affiliazioni:
+      - {org: tony-blair-institute, ruolo: advisor, nota: "Strategic Counsellor"}
+  nick-carter:
+    nato: 1959
+    naz: GBR
+    nota: "General Sir, ex-Chief of Defence Staff UK (2018-2021), TBI Strategic Counsellor"
+    affiliazioni:
+      - {org: tony-blair-institute, ruolo: advisor, nota: "Strategic Counsellor"}
+
+  # --- FII / Saudi network (stub) ---
+  yasir-al-rumayyan:
+    nato: 1970
+    naz: SAU
+    nota: "Governor PIF, Chairman Saudi Aramco e FII Institute"
+    affiliazioni:
+      - {org: fii-saudi, ruolo: chairman}
+      - {org: saudi-aramco, ruolo: chairman, dal: 2019}
+  peter-diamandis:
+    nato: 1961
+    naz: USA
+    nota: "Founder X Prize, Singularity University, FII Board"
+    affiliazioni:
+      - {org: fii-saudi, ruolo: board}
+  richard-attias:
+    nato: 1959
+    naz: FRA
+    nota: "CEO FII Institute, ex-WEF, produttore eventi globali"
+    affiliazioni:
+      - {org: fii-saudi, ruolo: ceo}
+
+  # --- Private Equity titans (stub) ---
+  david-rubenstein:
+    nato: 1949
+    naz: USA
+    nota: "Co-founder e Co-Chairman Carlyle Group, speaker FII"
+    affiliazioni:
+      - {org: carlyle-group, ruolo: co-chairman}
+      - {org: fii-saudi, ruolo: partecipante}
+  ray-dalio:
+    nato: 1949
+    naz: USA
+    nota: "Founder Bridgewater Associates, speaker FII/Davos"
+    affiliazioni:
+      - {org: bridgewater, ruolo: fondatore}
+      - {org: fii-saudi, ruolo: partecipante}
+  stephen-schwarzman:
+    nato: 1947
+    naz: USA
+    nota: "Co-founder e CEO Blackstone, speaker FII"
+    affiliazioni:
+      - {org: blackstone, ruolo: ceo-fondatore}
+      - {org: fii-saudi, ruolo: partecipante}

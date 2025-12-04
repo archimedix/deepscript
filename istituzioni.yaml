@@ -34,6 +34,7 @@ istituzioni:
       - {persona: borge-brende, ruolo: partecipante, nota: "Bilderberg 2025 - CEO WEF"}
       - {persona: jose-barroso, ruolo: partecipante, nota: "Chair Goldman Sachs Int'l"}
       - {persona: ursula-von-der-leyen, ruolo: partecipante, nota: "2015, 2018, 2019 - poi Presidente Commissione UE"}
+      - {persona: matteo-renzi, ruolo: partecipante, nota: "2019 Montreux"}
       # Collegamenti istituzionali
       - {org: trilaterale, ruolo: partner, nota: "Forte overlap membership"}
       - {org: wef, ruolo: partner, nota: "Brende partecipa a entrambi"}
@@ -92,6 +93,7 @@ istituzioni:
       - {persona: christine-lagarde, ruolo: partecipante, nota: "BCE"}
       - {persona: kristalina-georgieva, ruolo: partecipante, nota: "FMI - endorso' Great Reset"}
       - {persona: ursula-von-der-leyen, ruolo: partecipante, nota: "Speaker Davos 2021-2025, Presidente Commissione UE"}
+      - {persona: matteo-renzi, ruolo: ygl, dal: 2012, nota: "YGL prima di diventare PM"}
       # Strategic Partners
       - {org: blackrock, ruolo: partner, nota: "Strategic Partner, Fink Co-Chair"}
       - {org: jpmorgan-chase, ruolo: partner, nota: "Strategic Partner"}
@@ -494,6 +496,7 @@ istituzioni:
       - {persona: romano-prodi, ruolo: capo-governo, dal: 2006, al: 2008}
       - {persona: carlo-azeglio-ciampi, ruolo: capo-governo, dal: 1993, al: 1994}
       - {persona: bettino-craxi, ruolo: capo-governo, dal: 1983, al: 1987}
+      - {persona: matteo-renzi, ruolo: capo-governo, dal: 2014, al: 2016}
   governo-uk:
     tipo: governo
     sede: Londra
@@ -643,8 +646,25 @@ istituzioni:
   carlyle-group:
     tipo: private-equity
     sede: Washington
+    fondato: 1987
+    nota: "Uno dei maggiori PE al mondo, connessioni politiche Bush/Powell"
     stakeholders:
+      - {persona: david-rubenstein, ruolo: co-chairman, nota: "Co-fondatore"}
       - {persona: jerome-powell, ruolo: partner, dal: 1997, al: 2005}
+  blackstone:
+    tipo: private-equity
+    sede: New York
+    fondato: 1985
+    nota: "Maggiore PE al mondo per AUM (~$1T)"
+    stakeholders:
+      - {persona: stephen-schwarzman, ruolo: ceo-fondatore}
+  bridgewater:
+    tipo: hedge-fund
+    sede: Connecticut
+    fondato: 1975
+    nota: "Maggiore hedge fund al mondo per AUM (~$150B)"
+    stakeholders:
+      - {persona: ray-dalio, ruolo: fondatore}
 
   # --- Tech (stub) ---
   microsoft:
@@ -1020,6 +1040,42 @@ istituzioni:
     tipo: oil
     sede: Arabia Saudita
     nota: "Compagnia petrolifera saudita"
+  fii-saudi:
+    tipo: forum
+    sede: Riad
+    fondato: 2017
+    nota: "Future Investment Initiative - 'Davos nel deserto' - gestito dal PIF saudita"
+    tags: [mbs, arabia-saudita, investimenti, pif]
+    stakeholders:
+      # Board of Trustees
+      - {persona: yasir-al-rumayyan, ruolo: chairman, nota: "Governor PIF, Chairman Saudi Aramco"}
+      - {persona: matteo-renzi, ruolo: board}
+      - {persona: peter-diamandis, ruolo: board, nota: "Founder X Prize"}
+      # Leadership
+      - {persona: richard-attias, ruolo: ceo}
+      # Speaker regolari (non board)
+      - {persona: larry-fink, ruolo: partecipante, nota: "Speaker FII8 2024"}
+      - {persona: jamie-dimon, ruolo: partecipante, nota: "Speaker FII7-8"}
+      - {persona: david-rubenstein, ruolo: partecipante, nota: "Speaker, Co-Chairman Carlyle"}
+      - {persona: ray-dalio, ruolo: partecipante, nota: "Speaker, Bridgewater"}
+      - {persona: stephen-schwarzman, ruolo: partecipante, nota: "Speaker, Blackstone"}
+      - {persona: elon-musk, ruolo: partecipante, nota: "Speaker FII8 2024"}
+
+  # --- Think Tank / Advisory (stub) ---
+  tony-blair-institute:
+    tipo: think-tank
+    sede: Londra
+    fondato: 2016
+    nota: "Tony Blair Institute for Global Change - consulenza a governi, donatore principale Larry Ellison (Oracle) £257m"
+    tags: [blair, governance, reform, starmer]
+    stakeholders:
+      # Leadership
+      - {persona: tony-blair, ruolo: fondatore-chairman}
+      # Strategic Counsellors
+      - {persona: matteo-renzi, ruolo: advisor, nota: "Strategic Counsellor"}
+      - {persona: sanna-marin, ruolo: advisor, dal: 2023, nota: "Strategic Counsellor, ex-PM Finlandia"}
+      - {persona: patrick-vallance, ruolo: advisor, nota: "Strategic Counsellor, ex-Chief Scientific Adviser UK"}
+      - {persona: nick-carter, ruolo: advisor, nota: "Strategic Counsellor, ex-Chief of Defence Staff UK"}
 
   # --- Banche fallite (stub) ---
   lehman-brothers:
