@@ -23,6 +23,7 @@ persone:
     affiliazioni:
       - {org: nsa, ruolo: consigliere, dal: 1969, al: 1975}
       - {org: stato-usa, ruolo: ministro, dal: 1973, al: 1977}
+      - {org: kissinger-associates, ruolo: fondatore-chairman, dal: 1982, al: 2023}
       - {org: cfr, ruolo: membro}
       - {org: trilaterale, ruolo: steering}
       - {org: bilderberg, ruolo: partecipante}
@@ -69,7 +70,7 @@ persone:
     naz: USA
     affiliazioni:
       - {org: goldman-sachs, ruolo: co-chairman, dal: 1990, al: 1992}
-      - {org: tesoro-usa, ruolo: segretario, dal: 1995, al: 1999}
+      - {org: tesoro-usa, ruolo: ministro, dal: 1995, al: 1999}
       - {org: citigroup, ruolo: senior-advisor, dal: 1999}
       - {org: cfr, ruolo: co-chairman}
 
@@ -491,10 +492,22 @@ persone:
     naz: USA
     nota: "Fed Chairman 2006-2014, QE"
 
-  tim-geithner:
+  timothy-geithner:
+    file: persone/timothy-geithner.md
     nato: 1961
     naz: USA
-    nota: "Segretario Tesoro 2009-2013, ex-NY Fed, Warburg Pincus"
+    affiliazioni:
+      - {org: kissinger-associates, ruolo: advisor, dal: 1985, al: 1988, nota: "Primo lavoro"}
+      - {org: tesoro-usa, ruolo: ministro, dal: 2009, al: 2013}
+      - {org: federal-reserve-ny, ruolo: presidente, dal: 2003, al: 2009}
+      - {org: fmi, ruolo: direttore, dal: 2001, al: 2003, nota: "Policy Development"}
+      - {org: warburg-pincus, ruolo: chairman, dal: 2023}
+      - {org: warburg-pincus, ruolo: presidente, dal: 2014, al: 2023}
+      - {org: cfr, ruolo: membro, dal: 2013}
+      - {org: gruppo-30, ruolo: membro}
+      - {org: trilaterale, ruolo: membro}
+      - {org: bilderberg, ruolo: partecipante, nota: "2009"}
+      - {org: aspen-institute, ruolo: co-chair, nota: "Economic Strategy Group"}
 
   # --- Protagonisti Britannia 1992 ---
   beniamino-andreatta:
@@ -581,7 +594,7 @@ persone:
       - {org: world-jewish-congress, ruolo: presidente, dal: 2007}
       - {org: world-jewish-restitution-org, ruolo: presidente, dal: 2008}
       - {org: ambasciata-usa-austria, ruolo: ambasciatore, dal: 1986, al: 1987}
-      - {org: dod, ruolo: deputy-assistant-secretary, dal: 1983, al: 1986, nota: "European and NATO Policy"}
+      - {org: dod, ruolo: ministro, dal: 1983, al: 1986, nota: "Deputy Assistant Secretary European/NATO Policy"}
 
   michael-makovsky:
     nato: 1968
@@ -590,7 +603,7 @@ persone:
     affiliazioni:
       - {org: jinsa, ruolo: ceo, dal: 2013}
       - {org: bipartisan-policy-center, ruolo: direttore, nota: "Foreign Policy"}
-      - {org: dod, ruolo: special-assistant}
+      - {org: dod, ruolo: advisor, nota: "Special Assistant"}
 
   morris-amitay:
     nato: 1935
@@ -770,3 +783,75 @@ persone:
     affiliazioni:
       - {org: blackstone, ruolo: ceo-fondatore}
       - {org: fii-saudi, ruolo: partecipante}
+
+  # --- Kissinger Associates alumni ---
+  brent-scowcroft:
+    nato: 1925
+    morto: 2020
+    naz: USA
+    nota: "Lt. Gen. USAF, NSA sotto Ford e Bush Sr., Vice Chairman Kissinger Associates"
+    affiliazioni:
+      - {org: kissinger-associates, ruolo: vice-chairman, dal: 1982, al: 1989}
+      - {org: nsa, ruolo: consigliere, dal: 1975, al: 1977, nota: "Ford"}
+      - {org: nsa, ruolo: consigliere, dal: 1989, al: 1993, nota: "Bush Sr."}
+
+  lawrence-eagleburger:
+    nato: 1930
+    morto: 2011
+    naz: USA
+    nota: "Unico career diplomat a diventare Secretary of State"
+    affiliazioni:
+      - {org: kissinger-associates, ruolo: presidente, dal: 1984, al: 1989}
+      - {org: stato-usa, ruolo: ministro, dal: 1992, al: 1993, nota: "Secretary of State Bush Sr."}
+
+  paul-bremer:
+    nato: 1941
+    naz: USA
+    nota: "Iraq Pro-Consul 2003-2004, Coalition Provisional Authority"
+    affiliazioni:
+      - {org: kissinger-associates, ruolo: advisor}
+      - {org: stato-usa, ruolo: ambasciatore, nota: "Ambassador-at-Large Counterterrorism"}
+
+  john-brennan:
+    nato: 1955
+    naz: USA
+    nota: "CIA Director sotto Obama"
+    affiliazioni:
+      - {org: kissinger-associates, ruolo: advisor}
+      - {org: cia, ruolo: direttore, dal: 2013, al: 2017}
+
+  bill-richardson:
+    nato: 1947
+    morto: 2023
+    naz: USA
+    nota: "Governor NM, UN Ambassador, Energy Secretary, negoziatore ostaggi"
+    affiliazioni:
+      - {org: kissinger-associates, ruolo: senior-advisor}
+      - {org: onu, ruolo: ambasciatore, dal: 1997, al: 1998}
+
+  lord-carrington:
+    nato: 1919
+    morto: 2018
+    naz: GBR
+    nota: "Peter Carrington, 6th Baron Carrington - NATO Secretary-General"
+    affiliazioni:
+      - {org: kissinger-associates, ruolo: advisor, dal: 1982}
+      - {org: nato, ruolo: segretario-generale, dal: 1984, al: 1988}
+
+  eric-roll:
+    nato: 1907
+    morto: 2005
+    naz: GBR
+    nota: "Baron Roll of Ipsden - Chairman S.G. Warburg, economista"
+    affiliazioni:
+      - {org: kissinger-associates, ruolo: advisor, dal: 1984}
+      - {org: sg-warburg, ruolo: chairman, dal: 1974, al: 1987}
+
+  jami-miscik:
+    nato: 1958
+    naz: USA
+    nota: "Ex-CIA Deputy Director Intelligence, ora CEO Kissinger Associates e Vice Chair CFR"
+    affiliazioni:
+      - {org: kissinger-associates, ruolo: ceo}
+      - {org: cia, ruolo: direttore, dal: 2002, al: 2005, nota: "Deputy Director for Intelligence"}
+      - {org: cfr, ruolo: vice-chairman}

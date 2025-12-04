@@ -35,6 +35,7 @@ istituzioni:
       - {persona: jose-barroso, ruolo: partecipante, nota: "Chair Goldman Sachs Int'l"}
       - {persona: ursula-von-der-leyen, ruolo: partecipante, nota: "2015, 2018, 2019 - poi Presidente Commissione UE"}
       - {persona: matteo-renzi, ruolo: partecipante, nota: "2019 Montreux"}
+      - {persona: timothy-geithner, ruolo: partecipante, nota: "2009"}
       # Collegamenti istituzionali
       - {org: trilaterale, ruolo: partner, nota: "Forte overlap membership"}
       - {org: wef, ruolo: partner, nota: "Brende partecipa a entrambi"}
@@ -64,6 +65,7 @@ istituzioni:
       - {persona: gro-harlem-brundtland, ruolo: membro}
       - {persona: marta-dassu, ruolo: membro, nota: "Anche Aspen Italia Senior Director"}
       - {persona: giampaolo-di-paola, ruolo: membro, nota: "Ex-Min Difesa ITA, ex-Chair NATO Military Committee"}
+      - {persona: timothy-geithner, ruolo: membro}
       # Collegamenti istituzionali
       - {org: cfr, ruolo: partner, nota: "Rockefeller chairman di entrambi"}
       - {org: blackrock, ruolo: partner, nota: "Fink membro"}
@@ -140,6 +142,7 @@ istituzioni:
       # Leadership attuale
       - {persona: david-rubenstein, ruolo: chairman, dal: 2025, nota: "Co-fondatore Carlyle Group"}
       - {persona: michael-froman, ruolo: president, nota: "Ex-USTR, ex-Mastercard"}
+      - {persona: jami-miscik, ruolo: vice-chairman, nota: "Ex-CIA DDI, CEO Kissinger Associates"}
       # Board members
       - {persona: thomas-donilon, ruolo: board, nota: "Chairman BlackRock Investment Institute, ex-NSA Obama"}
       - {persona: james-gorman, ruolo: board, nota: "Executive Chairman Morgan Stanley"}
@@ -150,6 +153,7 @@ istituzioni:
       - {persona: henry-kissinger, ruolo: membro}
       - {persona: zbigniew-brzezinski, ruolo: membro}
       - {persona: robert-rubin, ruolo: co-chairman, nota: "Goldman/Tesoro"}
+      - {persona: timothy-geithner, ruolo: membro, dal: 2013, nota: "Distinguished Fellow"}
       # Collegamenti
       - {org: trilaterale, ruolo: partner, nota: "Rockefeller/Brzezinski fondarono entrambi"}
       - {org: blackrock, ruolo: partner, nota: "Donilon - BlackRock Investment Institute"}
@@ -367,8 +371,8 @@ istituzioni:
       - {persona: mario-draghi, ruolo: presidente, dal: 2011, al: 2019, nota: "Whatever it takes"}
       - {persona: christine-lagarde, ruolo: presidente, dal: 2019, nota: "Ex-FMI"}
       # Executive Board
-      - {persona: fabio-panetta, ruolo: exec-board, dal: 2020, al: 2023, nota: "Ora Gov. Banca d'Italia"}
-      - {persona: piero-cipollone, ruolo: exec-board, dal: 2024}
+      - {persona: fabio-panetta, ruolo: board, dal: 2020, al: 2023, nota: "Executive Board, ora Gov. Banca d'Italia"}
+      - {persona: piero-cipollone, ruolo: board, dal: 2024, nota: "Executive Board"}
       # Collegamenti
       - {org: banca-italia, ruolo: partner, nota: "Membro Eurosistema"}
       - {org: bis, ruolo: partner, nota: "Membership"}
@@ -402,6 +406,8 @@ istituzioni:
       # Managing Directors
       - {persona: christine-lagarde, ruolo: managing-director, dal: 2011, al: 2019, nota: "Poi BCE"}
       - {persona: kristalina-georgieva, ruolo: managing-director, dal: 2019, nota: "Prima da economia emergente"}
+      # Altri ruoli
+      - {persona: timothy-geithner, ruolo: direttore, dal: 2001, al: 2003, nota: "Policy Development and Review"}
       # Collegamenti
       - {org: banca-mondiale, ruolo: partner, nota: "Gemelli di Bretton Woods"}
       - {org: wef, ruolo: partner, nota: "Georgieva partecipa a Davos, endorso' Great Reset"}
@@ -419,7 +425,7 @@ istituzioni:
       - {persona: jim-yong-kim, ruolo: presidente, dal: 2012, al: 2019}
       - {persona: robert-zoellick, ruolo: presidente, dal: 2007, al: 2012, nota: "Ex-Goldman Sachs, USTR"}
       - {persona: paul-wolfowitz, ruolo: presidente, dal: 2005, al: 2007, nota: "Neocon, Pentagono"}
-      - {persona: larry-summers, ruolo: chief-economist, dal: 1991, al: 1993}
+      - {persona: larry-summers, ruolo: advisor, dal: 1991, al: 1993, nota: "Chief Economist"}
       # Collegamenti
       - {org: fmi, ruolo: partner, nota: "Gemelli di Bretton Woods"}
       - {org: tesoro-usa, ruolo: partner, nota: "Tradizionalmente nomina il presidente"}
@@ -438,6 +444,17 @@ istituzioni:
     tipo: alleanza-militare
     sede: Bruxelles
     tags: [transatlantico, saceur-usa]
+    stakeholders:
+      - {persona: lord-carrington, ruolo: segretario-generale, dal: 1984, al: 1988, nota: "Anche Kissinger Associates"}
+
+  # --- Agenzie USA (stub) ---
+  cia:
+    tipo: agenzia
+    sede: Langley
+    nota: "Central Intelligence Agency"
+    stakeholders:
+      - {persona: john-brennan, ruolo: direttore, dal: 2013, al: 2017}
+      - {persona: jami-miscik, ruolo: direttore, dal: 2002, al: 2005, nota: "Deputy Director for Intelligence"}
 
   # --- Fondazioni ---
   open-society:
@@ -466,7 +483,8 @@ istituzioni:
     tags: [warburg-legacy, geithner, revolving-door]
     stakeholders:
       # Leadership
-      - {persona: timothy-geithner, ruolo: co-chairman, dal: 2014, nota: "Ex-Segretario Tesoro, ex-Presidente Fed NY"}
+      - {persona: timothy-geithner, ruolo: chairman, dal: 2023, nota: "Ex-Segretario Tesoro, ex-Presidente Fed NY"}
+      - {persona: timothy-geithner, ruolo: presidente, dal: 2014, al: 2023}
       - {persona: chip-kaye, ruolo: co-chairman, nota: "40 anni in WP, Board CFR"}
       - {persona: jeffrey-perlman, ruolo: ceo, dal: 2024}
       # Collegamenti storici
@@ -604,13 +622,15 @@ istituzioni:
     sede: Washington
     nota: "Dipartimento del Tesoro"
     stakeholders:
-      - {persona: robert-rubin, ruolo: segretario, dal: 1995, al: 1999}
+      - {persona: robert-rubin, ruolo: ministro, dal: 1995, al: 1999}
+      - {persona: timothy-geithner, ruolo: ministro, dal: 2009, al: 2013}
   federal-reserve-ny:
     tipo: central-bank
     sede: New York
     nota: "Federal Reserve Bank of New York"
     stakeholders:
       - {persona: jamie-dimon, ruolo: board}
+      - {persona: timothy-geithner, ruolo: presidente, dal: 2003, al: 2009}
 
   # --- Banche e finanza (stub) ---
   chase-manhattan:
@@ -876,8 +896,8 @@ istituzioni:
     sede: Washington
     nota: "Department of Defense"
     stakeholders:
-      - {persona: ronald-lauder, ruolo: deputy-assistant-secretary, dal: 1983, al: 1986, nota: "European and NATO Policy"}
-      - {persona: michael-makovsky, ruolo: special-assistant}
+      - {persona: ronald-lauder, ruolo: ministro, dal: 1983, al: 1986, nota: "Deputy Assistant Secretary European/NATO Policy"}
+      - {persona: michael-makovsky, ruolo: advisor, nota: "Special Assistant"}
 
   white-house:
     tipo: governo
@@ -1122,3 +1142,28 @@ istituzioni:
     tags: [mandela, leadership]
     stakeholders:
       - {persona: gro-harlem-brundtland, ruolo: vice-chairman}
+
+  # --- Consulenza geopolitica (stub) ---
+  kissinger-associates:
+    tipo: consulenza
+    fondato: 1982
+    sede: New York
+    nota: "Societa' di consulenza geopolitica fondata da Henry Kissinger"
+    tags: [kissinger, geopolitica, revolving-door]
+    stakeholders:
+      # Leadership
+      - {persona: henry-kissinger, ruolo: fondatore-chairman, dal: 1982, al: 2023}
+      - {persona: brent-scowcroft, ruolo: vice-chairman, dal: 1982, al: 1989, nota: "Poi NSA Bush Sr."}
+      - {persona: lawrence-eagleburger, ruolo: presidente, dal: 1984, al: 1989, nota: "Poi Secretary of State"}
+      - {persona: jami-miscik, ruolo: ceo, nota: "Ex-CIA Deputy Director Intelligence, ora Vice Chair CFR"}
+      # Staff/Advisors
+      - {persona: timothy-geithner, ruolo: advisor, dal: 1985, al: 1988, nota: "Primo lavoro post-laurea"}
+      - {persona: paul-bremer, ruolo: advisor, nota: "Poi Iraq Pro-Consul 2003"}
+      - {persona: john-brennan, ruolo: advisor, nota: "Poi CIA Director"}
+      - {persona: bill-richardson, ruolo: senior-advisor, nota: "Poi Governor NM, UN Ambassador, Energy Sec"}
+      # Advisory Board
+      - {persona: lord-carrington, ruolo: advisor, dal: 1982, nota: "Ex-NATO Secretary-General"}
+      - {persona: eric-roll, ruolo: advisor, dal: 1984, nota: "Chairman S.G. Warburg"}
+      # Collegamenti istituzionali
+      - {org: sg-warburg, ruolo: partner, nota: "Eric Roll nel board"}
+      - {org: cfr, ruolo: partner, nota: "Miscik ora Vice Chair CFR"}

@@ -23,7 +23,6 @@ todo:
     - alan-greenspan      # Fed Chair 19 anni, deregulation
     - henry-paulson       # Goldman CEO -> Tesoro, crisi 2008
     - ben-bernanke        # QE, crisi 2008
-    - tim-geithner        # NY Fed -> Tesoro -> Warburg Pincus
     - george-w-bush       # Presidente, War on Terror, famiglia Bush
     - richard-nixon       # Nixon Shock, fine Bretton Woods
     - bill-clinton        # Deregulation, Glass-Steagall
@@ -38,7 +37,6 @@ todo:
     - mark-carney         # Goldman -> Bank of England -> Bank of Canada
     - mario-monti         # ha scheda ma verificare completezza
     - enrico-letta        # PD, Sciences Po, Bilderberg?
-    # ursula-von-der-leyen - DONE 2025-12-04
 
   # Istituzioni da aggiungere con scheda
   istituzioni_da_aggiungere:
@@ -51,6 +49,32 @@ todo:
     - brookings           # Think tank
     - rand-corporation    # Think tank military-industrial
     - chatham-house       # Think tank UK, equivalente CFR
+    # --- Fondi sovrani (Sovereign Wealth Funds) ---
+    - norges-bank-gpfg    # Norvegia, ~$1.6T, maggiore al mondo, trasparenza totale
+    - cic                 # China Investment Corporation, ~$1.3T
+    - adia                # Abu Dhabi Investment Authority, ~$900B
+    - gic-singapore       # Government of Singapore IC, ~$770B
+    - temasek             # Singapore, ~$400B, attivo in tech/startups
+    - qia                 # Qatar Investment Authority, ~$450B
+    - kia                 # Kuwait Investment Authority, ~$800B, il piu' antico (1953)
+    # --- Fondi pensione mega ---
+    - gpif                # Japan Government Pension Investment Fund, ~$1.5T, piu' grande al mondo
+    - cpp-investments     # Canada Pension Plan, ~$575B
+    - cdpq                # Caisse de depot Quebec, ~$400B
+    - abp                 # Olanda, ~$500B
+    - calpers             # California Public Employees, ~$450B
+    # --- Asset manager europei ---
+    - amundi              # Francia, ~$2.1T
+    - ubs-asset-mgmt      # Svizzera, ~$1.1T
+    - dws                 # Deutsche Bank, ~$900B
+    # --- Keiretsu giapponesi ---
+    - mitsubishi-group    # Conglomerato con banca integrata
+    - sumitomo-group      # Conglomerato con banca integrata
+    - mitsui-group        # Conglomerato con banca integrata
+    # --- Chaebol coreani ---
+    - samsung-group       # Lee family
+    - hyundai-group       # Chung family
+    - sk-group            # Chey family
 
   # Eventi da aggiungere
   eventi_da_aggiungere:
@@ -74,6 +98,10 @@ todo:
     - walton              # Ha scheda, verificare
     - mars                # Dolciumi, molto riservati
     - cargill-macmillan   # Agribusiness, famiglia privata
+    # --- Dinastie chaebol coreani ---
+    - lee-samsung         # Samsung Group, dalla fondazione 1938
+    - chung-hyundai       # Hyundai Group, fondatore Chung Ju-yung
+    - chey-sk             # SK Group, Chey Jong-hyon
 
   # Manutenzione
   manutenzione:
@@ -96,6 +124,8 @@ enum:
     - governatore       # Banca centrale o stato/regione
     - commissario       # UE
     - senatore
+    - ambasciatore      # Ambasciatore, rappresentante permanente
+    - segretario-generale  # NATO, ONU, org internazionali
 
   ruoli_corporate:
     - ceo
@@ -146,9 +176,11 @@ enum:
     - private-equity
     - network
     - governo
+    - agenzia              # CIA, NSA, agenzie governative
     - programma
     - lobby
     - advocacy
+    - consulenza           # Consulting firms (Kissinger Associates, McKinsey)
 
   tipi_media:
     - testata           # Giornale, rivista
