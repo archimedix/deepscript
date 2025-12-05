@@ -140,7 +140,7 @@ BlackRock fu fondata sotto l'ombrello di **The Blackstone Group** da otto partne
 BlackRock, Vanguard e State Street insieme possiedono in media **oltre il 20%** di qualsiasi azienda dell'S&P 500.
 
 ### Top Holdings (giugno 2024)
-- Apple
+- [Apple](apple.md) - 7.0% (~$255B) + Susan Wagner nel board
 - Microsoft
 - NVIDIA
 - Amazon
@@ -209,6 +209,9 @@ BlackRock ha ammesso nel filing annuale SEC che l'advocacy ESG del CEO Fink potr
 
 ### World Economic Forum
 - Larry Fink è **Co-Chairman** del WEF
+
+### Board Cross-Membership
+- **Susan Wagner** (co-fondatrice BlackRock) → Board [Apple](apple.md) dal 2014
 
 ### Governi
 - Contratti con UK, Grecia e altri paesi

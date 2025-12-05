@@ -804,10 +804,13 @@ istituzioni:
       - {persona: jeff-bezos, ruolo: fondatore-ceo, dal: 1994, al: 2021}
       - {persona: jeff-bezos, ruolo: executive-chairman, dal: 2021}
   tesla:
-    tipo: tech
+    tipo: corporation
+    settore: tech
     sede: Austin
+    borsa: NASDAQ
     stakeholders:
       - {persona: elon-musk, ruolo: ceo, dal: 2008}
+      - {persona: larry-ellison, ruolo: board, dal: 2018, al: 2022}
   spacex:
     tipo: tech
     sede: Hawthorne
@@ -819,6 +822,7 @@ istituzioni:
     nota: "Ex Twitter"
     stakeholders:
       - {persona: elon-musk, ruolo: proprietario, dal: 2022}
+      - {persona: larry-ellison, ruolo: investitore, dal: 2022, nota: "$1B"}
   palantir:
     tipo: tech
     sede: Denver
@@ -841,12 +845,136 @@ istituzioni:
     stakeholders:
       - {persona: peter-thiel, ruolo: partner, dal: 2005}
 
-  # --- Corporation quotate (stub per holdings Big Three) ---
-  apple:
+  oracle:
     tipo: corporation
     settore: tech
+    fondato: 1977
+    sede: Austin
+    borsa: NYSE
+    nota: "Secondo software enterprise dopo Microsoft, $57B revenue 2025, leader cloud/AI"
+    stakeholders:
+      - {persona: larry-ellison, ruolo: fondatore-ceo, dal: 1977, al: 2014}
+      - {persona: larry-ellison, ruolo: executive-chairman, dal: 2014}
+      - {persona: safra-catz, ruolo: ceo, dal: 2014}
+
+  softbank:
+    file: istituzioni/softbank.md
+    tipo: istituzione-finanziaria
+    settore: tech
+    fondato: 1981
+    sede: Tokyo
+    borsa: TSE
+    nota: "Vision Fund $100B+, ARM 90%, ponte capitali Golfo-tech globale"
+    stakeholders:
+      - {persona: masayoshi-son, ruolo: fondatore-ceo, dal: 1981}
+      - {org: pif-saudi, ruolo: partner, nota: "$45B in Vision Fund"}
+      - {org: mubadala, ruolo: partner, nota: "$15B in Vision Fund"}
+      - {org: arm, ruolo: controllata, percentuale: "90%"}
+      - {org: openai, ruolo: holding, nota: "$30B investimento 2025"}
+
+  openai:
+    tipo: corporation
+    settore: tech
+    fondato: 2015
+    sede: San Francisco
+    nota: "ChatGPT, GPT-4, leader AI generativa"
+    stakeholders:
+      - {persona: sam-altman, ruolo: ceo, dal: 2019}
+      - {org: microsoft, ruolo: holding, nota: "$13B investimento"}
+      - {org: softbank, ruolo: holding, nota: "$30B investimento 2025"}
+
+  pif-saudi:
+    tipo: sovereign-wealth-fund
+    fondato: 1971
+    sede: Riyadh
+    nota: "Public Investment Fund Arabia Saudita, ~$930B AUM, MBS chairman"
+    stakeholders:
+      - {persona: yasir-al-rumayyan, ruolo: ceo}
+      - {persona: mohammed-bin-salman, ruolo: chairman}
+
+  mubadala:
+    tipo: sovereign-wealth-fund
+    fondato: 2002
+    sede: Abu Dhabi
+    nota: "Mubadala Investment Company, ~$300B AUM"
+
+  arm:
+    tipo: corporation
+    settore: tech
+    fondato: 1990
+    sede: Cambridge
+    borsa: NASDAQ
+    nota: "Chip design, acquisita SoftBank 2016 per $32B, ora vale ~$130B"
+    stakeholders:
+      - {org: softbank, ruolo: holding, percentuale: "90%"}
+
+  wework:
+    tipo: corporation
+    settore: consumer
+    fondato: 2010
+    sede: New York
+    nota: "Coworking, fallimento 2023, SoftBank perse $11.5B"
+    stakeholders:
+      - {org: softbank, ruolo: holding}
+
+  uber:
+    tipo: corporation
+    settore: tech
+    fondato: 2009
+    sede: San Francisco
+    borsa: NYSE
+    nota: "Rideshare, SoftBank ex-maggiore azionista (venduto 2022)"
+
+  stargate-project:
+    tipo: joint-venture
+    settore: tech
+    fondato: 2025
+    sede: USA
+    nota: "JV $500B per infrastruttura AI USA - Oracle, OpenAI, SoftBank, MGX"
+    stakeholders:
+      - {persona: masayoshi-son, ruolo: chairman, dal: 2025}
+      - {persona: larry-ellison, ruolo: partner, dal: 2025}
+      - {persona: sam-altman, ruolo: partner, dal: 2025}
+      - {org: oracle, ruolo: partner}
+      - {org: openai, ruolo: partner}
+      - {org: softbank, ruolo: partner}
+
+  tiktok-usa:
+    tipo: corporation
+    settore: tech
+    fondato: 2025
+    sede: USA
+    nota: "80% TikTok USA acquisito da consorzio americano, Oracle 15% + security provider"
+    stakeholders:
+      - {persona: larry-ellison, ruolo: stakeholder, dal: 2025, nota: "15% via Oracle"}
+      - {org: oracle, ruolo: holding, percentuale: "15%"}
+      - {org: silver-lake, ruolo: holding}
+      - {org: mgx, ruolo: holding}
+
+  # --- Corporation quotate (stub per holdings Big Three) ---
+  apple:
+    file: istituzioni/apple.md
+    tipo: corporation
+    settore: tech
+    fondato: 1976
     sede: Cupertino
     borsa: NASDAQ
+    market-cap: "3.5T"
+    nota: "Prima azienda a $3T, fondata da Jobs/Wozniak"
+    stakeholders:
+      # Leadership
+      - {persona: tim-cook, ruolo: ceo, dal: 2011}
+      - {persona: arthur-levinson, ruolo: chairman, dal: 2000}
+      # Board - connessione BlackRock
+      - {persona: susan-wagner, ruolo: board, dal: 2014, nota: "Co-fondatrice BlackRock"}
+      # Fondatori
+      - {persona: steve-jobs, ruolo: fondatore-ceo, dal: 1976, al: 1985}
+      - {persona: steve-jobs, ruolo: ceo, dal: 1997, al: 2011}
+      - {persona: steve-wozniak, ruolo: co-fondatore, dal: 1976, al: 1985}
+      # Big Three holdings
+      - {org: vanguard, ruolo: holding, percentuale: "8.9%"}
+      - {org: blackrock, ruolo: holding, percentuale: "7.0%"}
+      - {org: state-street, ruolo: holding, percentuale: "3.9%"}
   nvidia:
     tipo: corporation
     settore: tech

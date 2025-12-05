@@ -1429,3 +1429,101 @@ persone:
     tags: [value-investing, columbia]
     affiliazioni:
       - {org: columbia-business-school, ruolo: professore}
+
+  # --- Apple ---
+  steve-jobs:
+    nato: 1955
+    morto: 2011
+    naz: USA
+    nota: "Co-fondatore Apple e Pixar, visionario tech"
+    affiliazioni:
+      - {org: apple, ruolo: fondatore-ceo, dal: 1976, al: 1985}
+      - {org: next, ruolo: fondatore-ceo, dal: 1985, al: 1997}
+      - {org: apple, ruolo: ceo, dal: 1997, al: 2011}
+      - {org: pixar, ruolo: ceo, dal: 1986, al: 2006}
+
+  steve-wozniak:
+    nato: 1950
+    naz: USA
+    nota: "Co-fondatore Apple, ingegnere hardware Apple I e II"
+    affiliazioni:
+      - {org: apple, ruolo: co-fondatore, dal: 1976, al: 1985}
+
+  tim-cook:
+    nato: 1960
+    naz: USA
+    nota: "CEO Apple dal 2011, ex-COO, ex-Compaq/IBM"
+    affiliazioni:
+      - {org: apple, ruolo: ceo, dal: 2011}
+
+  arthur-levinson:
+    nato: 1950
+    naz: USA
+    nota: "Chairman Apple dal 2011, ex-CEO Genentech, Chairman Calico (Alphabet)"
+    affiliazioni:
+      - {org: apple, ruolo: chairman, dal: 2011}
+      - {org: genentech, ruolo: ceo, dal: 1995, al: 2009}
+
+  susan-wagner:
+    nato: 1961
+    naz: USA
+    nota: "Co-fondatrice BlackRock, board Apple dal 2014 - connessione BlackRock-Apple"
+    affiliazioni:
+      - {org: blackrock, ruolo: co-fondatore, dal: 1988, al: 2012}
+      - {org: apple, ruolo: board, dal: 2014}
+
+  larry-ellison:
+    file: persone/larry-ellison.md
+    nato: 1944
+    naz: USA
+    nota: "Fondatore Oracle, ~$360-400B patrimonio (2025), Stargate Project, TikTok USA deal"
+    affiliazioni:
+      - {org: oracle, ruolo: fondatore-ceo, dal: 1977, al: 2014}
+      - {org: oracle, ruolo: executive-chairman, dal: 2014}
+      - {org: tesla, ruolo: board, dal: 2018, al: 2022}
+      - {org: x-twitter, ruolo: investitore, dal: 2022, nota: "$1B acquisizione"}
+      - {org: stargate-project, ruolo: partner, dal: 2025}
+      - {org: tiktok-usa, ruolo: stakeholder, dal: 2025, nota: "15% via Oracle"}
+
+  safra-catz:
+    nato: 1961
+    naz: USA
+    nota: "CEO Oracle dal 2014, nata in Israele"
+    affiliazioni:
+      - {org: oracle, ruolo: ceo, dal: 2014}
+
+  sam-altman:
+    nato: 1985
+    naz: USA
+    nota: "CEO OpenAI, ex-Y Combinator, Stargate Project"
+    affiliazioni:
+      - {org: openai, ruolo: ceo, dal: 2019}
+      - {org: y-combinator, ruolo: presidente, dal: 2014, al: 2019}
+      - {org: stargate-project, ruolo: partner, dal: 2025}
+
+  masayoshi-son:
+    file: persone/masayoshi-son.md
+    nato: 1957
+    naz: JPN
+    nota: "Fondatore SoftBank, Vision Fund $100B, Stargate Chairman"
+    affiliazioni:
+      - {org: softbank, ruolo: fondatore-ceo, dal: 1981}
+      - {org: stargate-project, ruolo: chairman, dal: 2025}
+      - {org: arm, ruolo: chairman, dal: 2016}
+
+  yasir-al-rumayyan:
+    nato: 1970
+    naz: SAU
+    nota: "Governor PIF, Chairman Saudi Aramco, ex-board SoftBank"
+    affiliazioni:
+      - {org: pif-saudi, ruolo: ceo, dal: 2015}
+      - {org: saudi-aramco, ruolo: chairman, dal: 2019}
+      - {org: softbank, ruolo: board, dal: 2017, al: 2020}
+
+  mohammed-bin-salman:
+    nato: 1985
+    naz: SAU
+    nota: "MBS - Crown Prince Arabia Saudita, Chairman PIF, Vision 2030"
+    affiliazioni:
+      - {org: pif-saudi, ruolo: chairman, dal: 2015}
+      - {org: governo-saudi, ruolo: vice-presidente, dal: 2017, nota: "Crown Prince"}

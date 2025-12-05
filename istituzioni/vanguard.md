@@ -225,7 +225,7 @@ Vanguard gestisce **$6.68 trilioni** in titoli 13F, con concentrazione top 10 de
 |---|---------|------|
 | 1 | **NVIDIA** | Maggiore holding (2.22 miliardi di azioni) |
 | 2 | **Microsoft** | |
-| 3 | **Apple** | |
+| 3 | **[Apple](apple.md)** | 8.9% - maggiore azionista |
 | 4 | **Amazon** | |
 | 5 | **Meta** | |
 

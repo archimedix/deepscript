@@ -254,6 +254,7 @@ Su Twitter/X:
 |---------|-----------|
 | [Peter Thiel](peter-thiel.md) | PayPal, alleato politico |
 | [Klaus Schwab](klaus-schwab.md) | Critico |
+| [Larry Ellison](larry-ellison.md) | Amico, investitore X, ex-board Tesla |
 
 ---
 
