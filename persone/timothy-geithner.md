@@ -169,3 +169,4 @@ Ogni passaggio ha aumentato potere, network e compensazione.
 - [[henry-kissinger]] - Primo datore di lavoro
 - [[gruppo-30]] - Membro
 - [[cfr]] - Distinguished Fellow
+- [[barack-obama]] - Presidente che lo nomino' Segretario Tesoro

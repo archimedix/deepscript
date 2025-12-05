@@ -200,9 +200,13 @@ Filosofia economica associata a Rubin:
 
 | Persona | Relazione |
 |---------|-----------|
+| [Bill Clinton](bill-clinton.md) | Presidente che lo nomino' Treasury Secretary |
+| [Larry Summers](larry-summers.md) | Deputy e successore al Tesoro |
+| [Timothy Geithner](timothy-geithner.md) | Protetto, Treasury Secretary Obama |
 | [Larry Fink](larry-fink.md) | Network finanza |
 | [Jamie Dimon](jamie-dimon.md) | Peer Wall Street |
 | [Mario Draghi](mario-draghi.md) | Network Goldman |
+| [Alan Greenspan](alan-greenspan.md) | Fed Chairman durante amministrazione Clinton |
 
 ---
 

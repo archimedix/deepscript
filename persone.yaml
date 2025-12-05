@@ -529,11 +529,16 @@ persone:
       - {org: governo-francia, ruolo: capo-governo, dal: 1981, al: 1995}
 
   bill-clinton:
+    file: persone/bill-clinton.md
     nato: 1946
     naz: USA
-    nota: "42 Presidente USA"
+    nota: "42 Presidente USA, Glass-Steagall repeal, NAFTA, Bilderberg 1991"
     affiliazioni:
       - {org: governo-usa, ruolo: capo-governo, dal: 1993, al: 2001}
+      - {org: bilderberg, ruolo: partecipante, dal: 1991, nota: "Baden-Baden, introdotto da Vernon Jordan"}
+      - {org: trilaterale, ruolo: membro}
+      - {org: cfr, ruolo: membro}
+      - {org: clinton-foundation, ruolo: fondatore, dal: 2001}
 
   alan-greenspan:
     file: persone/alan-greenspan.md
@@ -554,6 +559,30 @@ persone:
     nota: "43 Presidente USA, War on Terror"
     affiliazioni:
       - {org: governo-usa, ruolo: capo-governo, dal: 2001, al: 2009}
+
+  barack-obama:
+    file: persone/barack-obama.md
+    nato: 1961
+    naz: USA
+    nota: "44 Presidente USA, primo afroamericano, gabinetto CFR/Trilaterale"
+    affiliazioni:
+      - {org: governo-usa, ruolo: capo-governo, dal: 2009, al: 2017}
+      - {org: obama-foundation, ruolo: fondatore, dal: 2017}
+
+  donald-trump:
+    nato: 1946
+    naz: USA
+    nota: "45 e 47 Presidente USA"
+    affiliazioni:
+      - {org: governo-usa, ruolo: capo-governo, dal: 2017, al: 2021}
+      - {org: governo-usa, ruolo: capo-governo, dal: 2025, nota: "Secondo mandato"}
+
+  joe-biden:
+    nato: 1942
+    naz: USA
+    nota: "46 Presidente USA, ex-VP Obama"
+    affiliazioni:
+      - {org: governo-usa, ruolo: capo-governo, dal: 2021, al: 2025}
 
   dick-cheney:
     nato: 1941
@@ -1144,3 +1173,61 @@ persone:
     nota: "CEO RAND dal 2022, ex-IARPA, ex-NSC/OSTP, fondatore Georgetown CSET"
     affiliazioni:
       - {org: rand-corporation, ruolo: ceo, dal: 2022}
+
+  # --- Figure Obama Administration ---
+
+  hillary-clinton:
+    nato: 1947
+    naz: USA
+    nota: "Secretary of State Obama 2009-13, candidata presidente 2016, First Lady Clinton"
+    affiliazioni:
+      - {org: governo-usa, ruolo: ministro, dal: 2009, al: 2013, nota: "Stato"}
+      - {org: cfr, ruolo: membro}
+      - {org: bilderberg, ruolo: partecipante}
+
+  robert-gates:
+    nato: 1943
+    naz: USA
+    nota: "Secretary of Defense Bush-Obama 2006-11, ex-CIA Director"
+    affiliazioni:
+      - {org: dod, ruolo: ministro, dal: 2006, al: 2011, nota: "Difesa, bipartisan"}
+      - {org: cia, ruolo: direttore, dal: 1991, al: 1993}
+      - {org: cfr, ruolo: membro}
+
+  susan-rice:
+    nato: 1964
+    naz: USA
+    nota: "NSA Obama, UN Ambassador, CFR"
+    affiliazioni:
+      - {org: governo-usa, ruolo: ambasciatore, dal: 2009, al: 2013, nota: "ONU"}
+      - {org: governo-usa, ruolo: consigliere, dal: 2013, al: 2017, nota: "NSA"}
+      - {org: cfr, ruolo: membro}
+
+  larry-summers:
+    nato: 1954
+    naz: USA
+    nota: "Treasury Secretary Clinton, NEC Director Obama, World Bank Chief Economist"
+    affiliazioni:
+      - {org: tesoro-usa, ruolo: ministro, dal: 1999, al: 2001}
+      - {org: governo-usa, ruolo: advisor, dal: 2009, al: 2010, nota: "NEC Director"}
+      - {org: banca-mondiale, ruolo: advisor, dal: 1991, al: 1993, nota: "Chief Economist"}
+      - {org: cfr, ruolo: membro}
+      - {org: bilderberg, ruolo: partecipante}
+
+  vernon-jordan:
+    nato: 1935
+    morto: 2021
+    naz: USA
+    nota: "Avvocato, consigliere Clinton, introdusse Clinton al Bilderberg 1991, transition team 1992"
+    affiliazioni:
+      - {org: bilderberg, ruolo: steering, nota: "Membro steering committee"}
+      - {org: cfr, ruolo: board}
+      - {org: lazard, ruolo: senior-advisor, dal: 2000}
+
+  al-gore:
+    nato: 1948
+    naz: USA
+    nota: "Vice President Clinton 1993-2001, Nobel Pace 2007 per clima"
+    affiliazioni:
+      - {org: governo-usa, ruolo: vice-presidente, dal: 1993, al: 2001}
+      - {org: wef, ruolo: glt, nota: "Global Leader for Tomorrow"}

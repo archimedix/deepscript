@@ -63,6 +63,8 @@ istituzioni:
       - {persona: ursula-von-der-leyen, ruolo: partecipante, nota: "2015, 2018, 2019 - poi Presidente Commissione UE"}
       - {persona: matteo-renzi, ruolo: partecipante, nota: "2019 Montreux"}
       - {persona: timothy-geithner, ruolo: partecipante, nota: "2009"}
+      - {persona: bill-clinton, ruolo: partecipante, dal: 1991, nota: "Baden-Baden, introdotto da Vernon Jordan"}
+      - {persona: vernon-jordan, ruolo: steering, nota: "Introdusse Clinton al Bilderberg 1991"}
       - {persona: kaja-kallas, ruolo: partecipante, nota: "2024 - come PM Estonia"}
       # Collegamenti istituzionali
       - {org: trilaterale, ruolo: partner, nota: "Forte overlap membership"}
@@ -96,6 +98,7 @@ istituzioni:
       - {persona: marta-dassu, ruolo: membro, nota: "Anche Aspen Italia Senior Director"}
       - {persona: giampaolo-di-paola, ruolo: membro, nota: "Ex-Min Difesa ITA, ex-Chair NATO Military Committee"}
       - {persona: timothy-geithner, ruolo: membro}
+      - {persona: bill-clinton, ruolo: membro}
       # Collegamenti istituzionali
       - {org: cfr, ruolo: partner, nota: "Rockefeller chairman di entrambi"}
       - {org: blackrock, ruolo: partner, nota: "Fink membro"}
@@ -186,6 +189,7 @@ istituzioni:
       - {persona: alan-greenspan, ruolo: membro, nota: "Fed Chairman 1987-2006"}
       - {persona: robert-rubin, ruolo: co-chairman, nota: "Goldman/Tesoro"}
       - {persona: timothy-geithner, ruolo: membro, dal: 2013, nota: "Distinguished Fellow"}
+      - {persona: bill-clinton, ruolo: membro}
       # Collegamenti
       - {org: trilaterale, ruolo: partner, nota: "Rockefeller/Brzezinski fondarono entrambi"}
       - {org: blackrock, ruolo: partner, nota: "Donilon - BlackRock Investment Institute"}
@@ -645,7 +649,17 @@ istituzioni:
     stakeholders:
       - {persona: bill-clinton, ruolo: capo-governo, dal: 1993, al: 2001}
       - {persona: george-w-bush, ruolo: capo-governo, dal: 2001, al: 2009}
-      - {persona: pete-buttigieg, ruolo: ministro, dal: 2021, nota: "Transportation"}
+      - {persona: barack-obama, ruolo: capo-governo, dal: 2009, al: 2017}
+      - {persona: donald-trump, ruolo: capo-governo, dal: 2017, al: 2021}
+      - {persona: joe-biden, ruolo: capo-governo, dal: 2021, al: 2025}
+      - {persona: donald-trump, ruolo: capo-governo, dal: 2025, nota: "Secondo mandato"}
+      - {persona: hillary-clinton, ruolo: ministro, dal: 2009, al: 2013, nota: "Stato, Obama"}
+      - {persona: robert-gates, ruolo: ministro, dal: 2006, al: 2011, nota: "Difesa, Bush-Obama"}
+      - {persona: susan-rice, ruolo: ambasciatore, dal: 2009, al: 2013, nota: "ONU, Obama"}
+      - {persona: susan-rice, ruolo: consigliere, dal: 2013, al: 2017, nota: "NSA, Obama"}
+      - {persona: larry-summers, ruolo: advisor, dal: 2009, al: 2010, nota: "NEC Director, Obama"}
+      - {persona: pete-buttigieg, ruolo: ministro, dal: 2021, al: 2025, nota: "Transportation"}
+      - {persona: henry-kissinger, ruolo: ministro, dal: 1973, al: 1977}
   governo-etiopia:
     tipo: governo
     sede: Addis Abeba
@@ -681,12 +695,6 @@ istituzioni:
     stakeholders:
       - {persona: henry-kissinger, ruolo: consigliere, dal: 1969, al: 1975}
       - {persona: zbigniew-brzezinski, ruolo: consigliere, dal: 1977, al: 1981}
-  stato-usa:
-    tipo: governo
-    sede: Washington
-    nota: "Dipartimento di Stato"
-    stakeholders:
-      - {persona: henry-kissinger, ruolo: ministro, dal: 1973, al: 1977}
   tesoro-usa:
     tipo: governo
     sede: Washington
@@ -874,6 +882,24 @@ istituzioni:
     sede: Seattle
     stakeholders:
       - {persona: bill-gates, ruolo: co-chair, dal: 2000}
+
+  obama-foundation:
+    tipo: fondazione
+    fondato: 2014
+    sede: Chicago
+    nota: "Obama Presidential Center, leadership development"
+    stakeholders:
+      - {persona: barack-obama, ruolo: fondatore, dal: 2014}
+
+  clinton-foundation:
+    tipo: fondazione
+    fondato: 2001
+    sede: New York
+    nota: "William J. Clinton Foundation, include Clinton Global Initiative (CGI)"
+    tags: [filantropia, speaking-fees, cgi]
+    stakeholders:
+      - {persona: bill-clinton, ruolo: fondatore, dal: 2001}
+      - {persona: hillary-clinton, ruolo: board}
 
   chan-zuckerberg-initiative:
     tipo: fondazione
@@ -1308,3 +1334,11 @@ istituzioni:
     nota: "Fondato da Herman Kahn dopo aver lasciato RAND, focus policy conservatrice"
     stakeholders:
       - {persona: herman-kahn, ruolo: fondatore, dal: 1961}
+
+  lazard:
+    tipo: investment-bank
+    fondato: 1848
+    sede: New York
+    nota: "Lazard Ltd. - investment bank e asset management, storica casa europea"
+    stakeholders:
+      - {persona: vernon-jordan, ruolo: senior-advisor, dal: 2000}

@@ -63,6 +63,11 @@
 - Predecessore: **Paul Volcker** (anche lui CFR, Trilateral)
 - Successore: **Ben Bernanke** (anche lui CFR)
 
+### Amministrazione Clinton
+- Rinominato Chairman Fed da **Bill Clinton** due volte (1996, 2000)
+- Lavoro' con **Robert Rubin** e **Larry Summers** al Tesoro
+- Gestione congiunta crisi Messico (1995), Asia (1997), LTCM (1998)
+
 ## Potere Esercitato
 
 ### "Il Maestro" (1987-2000)
@@ -118,3 +123,16 @@
 - [NBC News - Greenspan admits 'mistake'](https://www.nbcnews.com/id/wbna27335454)
 - [SourceWatch - Group of 30](https://www.sourcewatch.org/index.php?title=Group_of_30)
 - [Atlas Society - Greenspan: The Man Behind the Money](https://www.atlassociety.org/post/greenspan-the-man-behind-the-money)
+
+---
+
+## Documenti Correlati
+
+- [[bill-clinton]] - Presidente che lo rinomino' due volte
+- [[robert-rubin]] - Treasury Secretary 1995-99
+- [[larry-summers]] - Treasury Secretary 1999-2001
+- [[timothy-geithner]] - Protetto di Rubin/Summers, Treasury Obama
+- [[trilaterale]] - Membro fondatore
+- [[cfr]] - Membro
+- [[gruppo-30]] - Membro
+- [[federal-reserve]] - Chairman 1987-2006
