@@ -1527,3 +1527,85 @@ persone:
     affiliazioni:
       - {org: pif-saudi, ruolo: chairman, dal: 2015}
       - {org: governo-saudi, ruolo: vice-presidente, dal: 2017, nota: "Crown Prince"}
+
+  # --- Alumni Collegio d'Europa ---
+  federica-mogherini:
+    nato: 1973
+    naz: ITA
+    nota: "Ex Alto Rappresentante UE, Rettore Collegio d'Europa 2020-25, dimessa"
+    affiliazioni:
+      - {org: governo-italia, ruolo: ministro, dal: 2014, al: 2014, nota: "Esteri"}
+      - {org: commissione-ue, ruolo: vice-presidente, dal: 2014, al: 2019, nota: "Alto Rappresentante"}
+      - {org: collegio-europa, ruolo: rettore, dal: 2020, al: 2025}
+
+  hendrik-brugmans:
+    nato: 1906
+    morto: 1997
+    naz: NLD
+    nota: "Fondatore movimento federalista europeo, primo Rettore Collegio d'Europa"
+    affiliazioni:
+      - {org: collegio-europa, ruolo: fondatore-rettore, dal: 1950, al: 1972}
+
+  nick-clegg:
+    nato: 1967
+    naz: GBR
+    nota: "Vice PM UK 2010-15, ora President Global Affairs Meta"
+    affiliazioni:
+      - {org: collegio-europa, ruolo: alumnus, dal: 1992, al: 1993}
+      - {org: governo-uk, ruolo: vice-presidente, dal: 2010, al: 2015}
+      - {org: meta, ruolo: presidente, dal: 2022, nota: "Global Affairs"}
+
+  helle-thorning-schmidt:
+    nato: 1966
+    naz: DNK
+    nota: "PM Danimarca 2011-15, co-chair Facebook Oversight Board"
+    affiliazioni:
+      - {org: collegio-europa, ruolo: alumnus}
+      - {org: governo-danimarca, ruolo: capo-governo, dal: 2011, al: 2015}
+      - {org: meta, ruolo: board, nota: "Oversight Board co-chair"}
+
+  alexander-stubb:
+    nato: 1968
+    naz: FIN
+    nota: "PM Finlandia 2014-15, Presidente Finlandia 2024-"
+    affiliazioni:
+      - {org: collegio-europa, ruolo: alumnus}
+      - {org: governo-finlandia, ruolo: capo-governo, dal: 2014, al: 2015}
+      - {org: governo-finlandia, ruolo: capo-stato, dal: 2024}
+
+  alexander-schallenberg:
+    nato: 1969
+    naz: AUT
+    nota: "Cancelliere Austria 2021"
+    affiliazioni:
+      - {org: collegio-europa, ruolo: alumnus}
+      - {org: governo-austria, ruolo: capo-governo, dal: 2021, al: 2021}
+      - {org: governo-austria, ruolo: ministro, nota: "Esteri, piu' volte"}
+
+  margaritis-schinas:
+    nato: 1962
+    naz: GRC
+    nota: "Vice-Presidente Commissione UE"
+    affiliazioni:
+      - {org: collegio-europa, ruolo: alumnus}
+      - {org: commissione-ue, ruolo: vice-presidente, dal: 2019}
+
+  enzo-moavero-milanesi:
+    nato: 1954
+    naz: ITA
+    nota: "Min. Esteri Italia, ex capo gabinetto Monti alla Commissione UE"
+    affiliazioni:
+      - {org: collegio-europa, ruolo: alumnus, dal: 1981, al: 1982}
+      - {org: collegio-europa, ruolo: docente}
+      - {org: commissione-ue, ruolo: capo-gabinetto, dal: 1995, al: 2000, nota: "Per Mario Monti"}
+      - {org: commissione-ue, ruolo: vice-segretario-generale, dal: 2002, al: 2005}
+      - {org: governo-italia, ruolo: ministro, dal: 2011, al: 2014, nota: "Affari Europei - Governi Monti e Letta"}
+      - {org: governo-italia, ruolo: ministro, dal: 2018, al: 2019, nota: "Esteri - Governo Conte I"}
+
+  jan-tinbergen:
+    nato: 1903
+    morto: 1994
+    naz: NLD
+    nota: "Nobel Economia 1969, docente al Collegio d'Europa"
+    affiliazioni:
+      - {org: collegio-europa, ruolo: docente}

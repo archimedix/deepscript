@@ -226,6 +226,29 @@ istituzioni:
       - {persona: alan-greenspan, ruolo: membro, nota: "Fed Chairman 1987-2006"}
       - {persona: paul-volcker, ruolo: fondatore, nota: "Ex-Fed Chairman"}
 
+  # --- Formazione elite ---
+  collegio-europa:
+    file: istituzioni/collegio-europa.md
+    fondato: 1949
+    tipo: think-tank
+    sede: Bruges
+    tags: [formazione, elite-europee, ue, diplomazia, post-laurea]
+    nota: "Fucina elite UE, 15.000+ alumni in posizioni chiave. Sedi: Bruges, Natolin (Varsavia), Tirana"
+    stakeholders:
+      # Rettori
+      - {persona: federica-mogherini, ruolo: rettore, dal: 2020, al: 2025, nota: "Dimessa dic. 2025"}
+      - {persona: hendrik-brugmans, ruolo: fondatore-rettore, dal: 1950, al: 1972}
+      # Alumni notabili - Capi di governo
+      - {persona: nick-clegg, ruolo: alumnus, nota: "Vice PM UK 2010-15, ora Meta"}
+      - {persona: helle-thorning-schmidt, ruolo: alumnus, nota: "PM Danimarca 2011-15"}
+      - {persona: alexander-stubb, ruolo: alumnus, nota: "PM Finlandia 2014-15, poi Presidente"}
+      - {persona: alexander-schallenberg, ruolo: alumnus, nota: "Cancelliere Austria 2021"}
+      # Alumni - Commissione UE e istituzioni
+      - {persona: margaritis-schinas, ruolo: alumnus, nota: "Vice-Presidente Commissione UE"}
+      - {persona: enzo-moavero-milanesi, ruolo: alumnus, nota: "Min. Esteri Italia, prof. al Collegio"}
+      # Docenti storici
+      - {persona: jan-tinbergen, ruolo: docente, nota: "Nobel Economia"}
+
   # --- Wall Street ---
   goldman-sachs:
     file: istituzioni/goldman-sachs.md

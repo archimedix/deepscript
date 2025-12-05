@@ -203,6 +203,9 @@ enum:
     - board
     - fondatore
     - membro
+    - alumnus            # Ex-studente/laureato
+    - rettore            # Rettore universita'/istituto
+    - docente            # Professore
     # Per organizzazioni
     - holding            # X possiede quote di Y
     - controllata        # X controlla Y (>50%)

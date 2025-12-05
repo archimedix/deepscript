@@ -236,6 +236,7 @@
 | [Mario Draghi](mario-draghi.md) | Co-firmatario lettera BCE, colleghi |
 | [David Rockefeller](david-rockefeller.md) | Network Trilaterale |
 | [Klaus Schwab](klaus-schwab.md) | Partecipante Davos |
+| Enzo Moavero Milanesi | Capo gabinetto alla Commissione UE (1995-2000), Ministro governi Monti e Letta |
 
 ---
 
