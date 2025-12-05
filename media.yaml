@@ -116,3 +116,13 @@ media:
     fondato: 1851
     sede: Londra
     note: "Thomson Reuters dal 2008"
+
+  # --- USA ---
+  washington-post:
+    tipo: testata
+    fondato: 1877
+    sede: Washington
+    nota: "Acquistato da Jeff Bezos nel 2013 per $250M, Buffett nel board 1974-2011"
+    stakeholders:
+      - {persona: jeff-bezos, ruolo: proprietario, dal: 2013}
+      - {persona: warren-buffett, ruolo: board, dal: 1974, al: 2011}

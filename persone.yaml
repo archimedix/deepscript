@@ -1231,3 +1231,201 @@ persone:
     affiliazioni:
       - {org: governo-usa, ruolo: vice-presidente, dal: 1993, al: 2001}
       - {org: wef, ruolo: glt, nota: "Global Leader for Tomorrow"}
+
+  # --- Qatar ---
+  mohammed-al-sowaidi:
+    naz: QAT
+    nota: "CEO Qatar Investment Authority dal 2024, 19 anni in QIA, ex-CIO Americas"
+    affiliazioni:
+      - {org: qia, ruolo: ceo, dal: 2024}
+      - {org: qnb, ruolo: board}
+      - {org: qatar-airways, ruolo: board}
+      - {org: volkswagen, ruolo: board}
+      - {org: harrods, ruolo: board}
+
+  mansoor-al-mahmoud:
+    naz: QAT
+    nota: "CEO Qatar Investment Authority 2022-2024"
+    affiliazioni:
+      - {org: qia, ruolo: ceo, dal: 2022, al: 2024}
+
+  nasser-al-khelaifi:
+    naz: QAT
+    nota: "Chairman QSI, Presidente PSG, CEO beIN Media Group, board QIA"
+    affiliazioni:
+      - {org: qia, ruolo: board}
+      - {org: psg, ruolo: presidente, dal: 2011}
+
+  hassan-al-thawadi:
+    naz: QAT
+    nota: "CEO bid FIFA World Cup 2022, ex-General Counsel QIA"
+    affiliazioni:
+      - {org: qia, ruolo: board, dal: 2020}
+
+  # --- Volkswagen leadership ---
+
+  oliver-blume:
+    nato: 1968
+    naz: DEU
+    nota: "CEO VW Group e Porsche AG, ingegnere, 30 anni nel gruppo VW"
+    affiliazioni:
+      - {org: volkswagen, ruolo: ceo, dal: 2022, nota: "Esteso al 2030"}
+      - {org: porsche-ag, ruolo: ceo, dal: 2015, al: 2025}
+
+  hans-dieter-poetsch:
+    nato: 1951
+    naz: DEU
+    nota: "Chairman Supervisory Board VW e Porsche SE, ex-CFO VW, incriminato per Dieselgate"
+    affiliazioni:
+      - {org: volkswagen, ruolo: chairman, dal: 2015}
+      - {org: porsche-se, ruolo: chairman}
+      - {org: volkswagen, ruolo: board, dal: 2003, al: 2015, nota: "CFO"}
+
+  martin-winterkorn:
+    nato: 1947
+    naz: DEU
+    nota: "CEO VW 2007-2015, caduto con Dieselgate, incriminato USA e Germania"
+    affiliazioni:
+      - {org: volkswagen, ruolo: ceo, dal: 2007, al: 2015}
+      - {org: audi, ruolo: chairman, dal: 2002, al: 2007}
+
+  herbert-diess:
+    nato: 1958
+    naz: DEU
+    nota: "CEO VW 2018-2022, transizione EV, ex-BMW, forzato fuori per conflitti"
+    affiliazioni:
+      - {org: volkswagen, ruolo: ceo, dal: 2018, al: 2022}
+
+  ferdinand-piech:
+    nato: 1937
+    morto: 2019
+    naz: AUT
+    famiglia: porsche-piech
+    nota: "Nipote Ferdinand Porsche, architetto espansione VW (Audi, Bentley, Lamborghini, Bugatti)"
+    affiliazioni:
+      - {org: volkswagen, ruolo: ceo, dal: 1993, al: 2002}
+      - {org: volkswagen, ruolo: chairman, dal: 2002, al: 2015}
+      - {org: porsche-se, ruolo: chairman, al: 2015}
+
+  # --- Famiglia Porsche-Piech ---
+
+  wolfgang-porsche:
+    nato: 1943
+    naz: DEU
+    famiglia: porsche-piech
+    nota: "Chairman Porsche SE e Porsche AG, nipote Ferdinand Porsche, 7a famiglia piu' ricca Germania"
+    affiliazioni:
+      - {org: porsche-se, ruolo: chairman}
+      - {org: porsche-ag, ruolo: chairman}
+      - {org: volkswagen, ruolo: board}
+
+  hans-michel-piech:
+    nato: 1942
+    naz: AUT
+    famiglia: porsche-piech
+    nota: "Fratello Ferdinand Piech, erede delle sue quote con diritto di voto"
+    affiliazioni:
+      - {org: porsche-se, ruolo: board}
+      - {org: volkswagen, ruolo: board}
+
+  ferdinand-porsche:
+    nato: 1875
+    morto: 1951
+    naz: AUT
+    famiglia: porsche-piech
+    nota: "Fondatore Porsche, progettista VW Beetle per Hitler, membro NSDAP e SS onorario"
+    affiliazioni:
+      - {org: porsche-ag, ruolo: fondatore, dal: 1931}
+
+  # --- Politici tedeschi VW ---
+
+  stephan-weil:
+    nato: 1958
+    naz: DEU
+    nota: "Min-Presidente Bassa Sassonia SPD 2013-2025, ex-officio board VW"
+    affiliazioni:
+      - {org: bassa-sassonia, ruolo: capo-governo, dal: 2013, al: 2025}
+      - {org: volkswagen, ruolo: board, dal: 2013, al: 2025}
+
+  olaf-lies:
+    nato: 1967
+    naz: DEU
+    nota: "Min-Presidente Bassa Sassonia SPD dal 2025, successore Weil"
+    affiliazioni:
+      - {org: bassa-sassonia, ruolo: capo-governo, dal: 2025}
+      - {org: volkswagen, ruolo: board, dal: 2025}
+
+  # --- Business leaders (stub) ---
+
+  warren-buffett:
+    file: persone/warren-buffett.md
+    nato: 1930
+    naz: USA
+    nota: "Oracle of Omaha, maggior investitore della storia, ~$160B patrimonio"
+    tags: [value-investing, berkshire, giving-pledge, filantropia]
+    affiliazioni:
+      - {org: berkshire-hathaway, ruolo: chairman, dal: 1970, al: 2025}
+      - {org: gates-foundation, ruolo: board, dal: 2006, al: 2021}
+      - {org: giving-pledge, ruolo: co-fondatore, dal: 2010}
+      - {org: washington-post, ruolo: board, dal: 1974, al: 2011}
+
+  charlie-munger:
+    nato: 1924
+    morto: 2023
+    naz: USA
+    nota: "Vice Chairman Berkshire Hathaway, partner storico Buffett, morto a 99 anni"
+    affiliazioni:
+      - {org: berkshire-hathaway, ruolo: vice-chairman, dal: 1978, al: 2023}
+
+  morris-chang:
+    nato: 1931
+    naz: TWN
+    nota: "Fondatore TSMC 1987, padre dell'industria semiconductor Taiwan"
+    tags: [semiconductor, foundry, geopolitica]
+    affiliazioni:
+      - {org: tsmc, ruolo: fondatore, dal: 1987}
+      - {org: tsmc, ruolo: chairman, dal: 1987, al: 2018}
+
+  cc-wei:
+    nato: 1955
+    naz: TWN
+    nota: "CEO TSMC dal 2018, 30+ anni nel gruppo"
+    affiliazioni:
+      - {org: tsmc, ruolo: ceo, dal: 2018}
+
+  hock-tan:
+    nato: 1952
+    naz: MYS
+    nota: "CEO Broadcom dal 2006, architetto strategia M&A (acquisizioni Avago, VMware)"
+    affiliazioni:
+      - {org: broadcom, ruolo: ceo, dal: 2006}
+
+  doug-mcmillon:
+    nato: 1966
+    naz: USA
+    nota: "CEO Walmart dal 2014, iniziato come magazziniere nel 1984"
+    affiliazioni:
+      - {org: walmart, ruolo: ceo, dal: 2014}
+
+  greg-abel:
+    nato: 1962
+    naz: CAN
+    nota: "Vice Chairman Berkshire, CEO designato dal 2026, successore Buffett"
+    affiliazioni:
+      - {org: berkshire-hathaway, ruolo: vice-chairman, dal: 2018}
+
+  ajit-jain:
+    nato: 1951
+    naz: IND
+    nota: "Vice Chairman Berkshire operazioni assicurative, considerato genio del settore"
+    affiliazioni:
+      - {org: berkshire-hathaway, ruolo: vice-chairman}
+
+  benjamin-graham:
+    nato: 1894
+    morto: 1976
+    naz: USA
+    nota: "Padre del value investing, mentore Buffett a Columbia, autore Security Analysis"
+    tags: [value-investing, columbia]
+    affiliazioni:
+      - {org: columbia-business-school, ruolo: professore}

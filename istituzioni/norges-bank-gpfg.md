@@ -198,3 +198,13 @@ Storting (Parlamento) → Ministry of Finance → Norges Bank Executive Board �
 - [Fortune - Norway sovereign wealth fund 2024](https://fortune.com/europe/2025/01/29/norway-1-8-trillion-fund-ended-2024-with-tech-heavy-top-ten-norges-bank-investment-management-apple-microsoft-nvidia/)
 - [CNBC - Record $222B profit](https://www.cnbc.com/2025/01/29/worlds-largest-sovereign-wealth-fund-reports-222-billion-profit.html)
 - [Peterson Institute - SWF Transparency Scoreboard](https://www.piie.com/)
+
+---
+
+## Documenti Correlati
+
+- [[qia]] - Qatar Investment Authority, altro grande fondo sovrano (Golfo)
+- [[volkswagen]] - Partecipazione in portafoglio
+- [[blackrock]] - Maggiore asset manager privato
+- [[vanguard]] - Big Three
+- [[state-street]] - Big Three

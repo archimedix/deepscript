@@ -524,6 +524,7 @@ State Street       Energy, Finance
 - [BlackRock - Profilo Completo](blackrock.md)
 - [Vanguard - Profilo Completo](vanguard.md)
 - [State Street - Profilo Completo](state-street.md)
+- [Qatar Investment Authority](qatar-investment-authority.md) - Partner ufficiale Davos 2025-2026
 
 ### Persone
 - [Klaus Schwab](../persone/klaus-schwab.md) - Fondatore WEF e YGL

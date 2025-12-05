@@ -315,6 +315,12 @@ istituzioni:
       - {org: goldman-sachs, ruolo: holding, percentuale: "6.5%"}
       - {org: morgan-stanley, ruolo: holding, percentuale: "6.8%"}
       - {org: state-street, ruolo: holding, percentuale: "5.5%"}
+      # Holdings (Top market cap - non tech)
+      - {org: berkshire-hathaway, ruolo: holding, percentuale: "8.0%"}
+      - {org: tsmc, ruolo: holding, percentuale: "6.2%"}
+      - {org: broadcom, ruolo: holding, percentuale: "7.4%"}
+      - {org: eli-lilly, ruolo: holding, percentuale: "7.4%"}
+      - {org: walmart, ruolo: holding, percentuale: "3.6%"}
 
   vanguard:
     file: istituzioni/vanguard.md
@@ -345,6 +351,12 @@ istituzioni:
       - {org: state-street, ruolo: holding, percentuale: "9.0%", nota: "Maggiore azionista di State Street"}
       - {org: goldman-sachs, ruolo: holding, percentuale: "7.5%"}
       - {org: morgan-stanley, ruolo: holding, percentuale: "8.0%"}
+      # Holdings (Top market cap - non tech)
+      - {org: berkshire-hathaway, ruolo: holding, percentuale: "10.0%"}
+      - {org: tsmc, ruolo: holding, percentuale: "3.0%"}
+      - {org: broadcom, ruolo: holding, percentuale: "10.2%"}
+      - {org: eli-lilly, ruolo: holding, percentuale: "8.2%"}
+      - {org: walmart, ruolo: holding, percentuale: "5.4%"}
 
   state-street:
     file: istituzioni/state-street.md
@@ -376,6 +388,12 @@ istituzioni:
       - {org: blackrock, ruolo: holding, percentuale: "4.0%"}
       - {org: goldman-sachs, ruolo: holding, percentuale: "3.5%"}
       - {org: morgan-stanley, ruolo: holding, percentuale: "3.8%"}
+      # Holdings (Top market cap - non tech)
+      - {org: berkshire-hathaway, ruolo: holding, percentuale: "3.5%"}
+      - {org: tsmc, ruolo: holding, percentuale: "2.0%"}
+      - {org: broadcom, ruolo: holding, percentuale: "3.4%"}
+      - {org: eli-lilly, ruolo: holding, percentuale: "3.0%"}
+      - {org: walmart, ruolo: holding, percentuale: "2.3%"}
 
   # --- Banche centrali ---
   federal-reserve:
@@ -864,6 +882,26 @@ istituzioni:
     sede: San Ramon
     borsa: NYSE
 
+  coca-cola:
+    tipo: corporation
+    settore: consumer
+    fondato: 1886
+    sede: Atlanta
+    borsa: NYSE
+    nota: "The Coca-Cola Company, Berkshire holding dal 1988"
+    stakeholders:
+      - {org: berkshire-hathaway, ruolo: holding, percentuale: "9.3%"}
+
+  american-express:
+    tipo: corporation
+    settore: finance
+    fondato: 1850
+    sede: New York
+    borsa: NYSE
+    nota: "Carte di credito e servizi finanziari, Berkshire holding storico"
+    stakeholders:
+      - {org: berkshire-hathaway, ruolo: holding, nota: "~10% portafoglio Berkshire"}
+
   # --- Finance (stub) ---
   bank-of-america:
     tipo: bank
@@ -876,12 +914,124 @@ istituzioni:
     sede: San Francisco
     borsa: NYSE
 
+  # --- Top market cap diversified (stub) ---
+  berkshire-hathaway:
+    tipo: corporation
+    settore: finance
+    fondato: 1839
+    sede: Omaha
+    borsa: NYSE
+    nota: "Conglomerato Warren Buffett, 8a azienda al mondo per market cap (~$1T), $380B cash"
+    tags: [buffett, conglomerato, value-investing]
+    stakeholders:
+      - {persona: warren-buffett, ruolo: chairman, dal: 1970, al: 2025, nota: "Oracle of Omaha, pensionamento annunciato"}
+      - {persona: charlie-munger, ruolo: vice-chairman, dal: 1978, al: 2023, nota: "Morto a 99 anni"}
+      - {persona: greg-abel, ruolo: vice-chairman, dal: 2018, nota: "CEO designato dal 2026"}
+      - {persona: ajit-jain, ruolo: vice-chairman, nota: "Operazioni assicurative"}
+      # Azionisti istituzionali
+      - {org: vanguard, ruolo: holding, percentuale: "10.0%"}
+      - {org: blackrock, ruolo: holding, percentuale: "8.0%"}
+      - {org: state-street, ruolo: holding, percentuale: "3.5%"}
+      # Top holdings
+      - {org: apple, ruolo: holding, percentuale: "~3%", nota: "~$60B, 23% portafoglio"}
+      - {org: bank-of-america, ruolo: holding, nota: "~12% portafoglio"}
+      - {org: american-express, ruolo: holding, nota: "~10% portafoglio"}
+      - {org: coca-cola, ruolo: holding, percentuale: "9.3%", nota: "Dal 1988"}
+      - {org: chevron, ruolo: holding, nota: "~6% portafoglio"}
+
+  tsmc:
+    tipo: corporation
+    settore: tech
+    fondato: 1987
+    sede: Hsinchu
+    borsa: TWSE
+    nota: "Taiwan Semiconductor Manufacturing Co., ~60% market share foundry globale"
+    tags: [semiconductor, foundry, taiwan, geopolitica]
+    stakeholders:
+      - {persona: morris-chang, ruolo: fondatore, dal: 1987, al: 2018}
+      - {persona: cc-wei, ruolo: ceo, dal: 2018}
+      - {org: vanguard, ruolo: holding, percentuale: "3.0%"}
+      - {org: blackrock, ruolo: holding, percentuale: "6.2%"}
+      - {org: state-street, ruolo: holding, percentuale: "2.0%"}
+
+  broadcom:
+    tipo: corporation
+    settore: tech
+    fondato: 1961
+    sede: Palo Alto
+    borsa: NASDAQ
+    nota: "Semiconductor e software infrastrutturale, acquisizione VMware 2023"
+    tags: [semiconductor, networking, vmware]
+    stakeholders:
+      - {persona: hock-tan, ruolo: ceo, dal: 2006, nota: "Architetto M&A strategy"}
+      - {org: vanguard, ruolo: holding, percentuale: "10.2%"}
+      - {org: blackrock, ruolo: holding, percentuale: "7.4%"}
+      - {org: state-street, ruolo: holding, percentuale: "3.4%"}
+
+  eli-lilly:
+    tipo: corporation
+    settore: healthcare
+    fondato: 1876
+    sede: Indianapolis
+    borsa: NYSE
+    nota: "Big Pharma, leader GLP-1 (Mounjaro/Zepbound), ~$700B market cap"
+    tags: [pharma, ozempic, obesity, diabetes]
+    stakeholders:
+      - {org: lilly-endowment, ruolo: holding, percentuale: "10.7%", nota: "Fondazione famiglia Lilly"}
+      - {org: vanguard, ruolo: holding, percentuale: "8.2%"}
+      - {org: blackrock, ruolo: holding, percentuale: "7.4%"}
+      - {org: state-street, ruolo: holding, percentuale: "3.0%"}
+
+  walmart:
+    tipo: corporation
+    settore: consumer
+    fondato: 1962
+    sede: Bentonville
+    borsa: NYSE
+    nota: "Maggiore retailer al mondo per fatturato ($611B), famiglia Walton ~46%"
+    tags: [retail, walton, supply-chain]
+    stakeholders:
+      - {persona: doug-mcmillon, ruolo: ceo, dal: 2014}
+      - {org: walton-enterprises, ruolo: holding, percentuale: "46%", nota: "Famiglia Walton"}
+      - {org: vanguard, ruolo: holding, percentuale: "5.4%"}
+      - {org: blackrock, ruolo: holding, percentuale: "3.6%"}
+      - {org: state-street, ruolo: holding, percentuale: "2.3%"}
+
+  lilly-endowment:
+    tipo: fondazione
+    fondato: 1937
+    sede: Indianapolis
+    nota: "Fondazione famiglia Lilly, maggiore azionista Eli Lilly (~10.7%)"
+    stakeholders:
+      - {org: eli-lilly, ruolo: holding, percentuale: "10.7%"}
+
+  walton-enterprises:
+    tipo: holding
+    sede: Bentonville
+    nota: "Holding famiglia Walton, controlla ~46% Walmart"
+    tags: [walton, famiglia]
+    stakeholders:
+      - {org: walmart, ruolo: controllata, percentuale: "46%"}
+
   # --- Fondazioni (stub) ---
   gates-foundation:
     tipo: fondazione
+    fondato: 2000
     sede: Seattle
+    nota: "Bill & Melinda Gates Foundation, maggiore fondazione privata al mondo"
     stakeholders:
       - {persona: bill-gates, ruolo: co-chair, dal: 2000}
+      - {persona: warren-buffett, ruolo: board, dal: 2006, al: 2021, nota: "Maggior donatore esterno, $50B+"}
+
+  giving-pledge:
+    tipo: fondazione
+    fondato: 2010
+    sede: Seattle
+    nota: "Impegno miliardari a donare 50%+ patrimonio, 250+ firmatari"
+    tags: [filantropia, miliardari, buffett, gates]
+    stakeholders:
+      - {persona: warren-buffett, ruolo: co-fondatore, dal: 2010}
+      - {persona: bill-gates, ruolo: co-fondatore, dal: 2010}
 
   obama-foundation:
     tipo: fondazione
@@ -1342,3 +1492,192 @@ istituzioni:
     nota: "Lazard Ltd. - investment bank e asset management, storica casa europea"
     stakeholders:
       - {persona: vernon-jordan, ruolo: senior-advisor, dal: 2000}
+
+  # --- Fondi sovrani Golfo ---
+  qia:
+    file: istituzioni/qatar-investment-authority.md
+    tipo: sovereign-wealth-fund
+    fondato: 2005
+    sede: Doha
+    aum: "525B"
+    tags: [swf, qatar, gas, soft-power, psg, harrods]
+    nota: "Qatar Investment Authority - fondo sovrano del Qatar, salvatore banche 2008, proprietario PSG"
+    stakeholders:
+      # Leadership
+      - {persona: mohammed-al-sowaidi, ruolo: ceo, dal: 2024, nota: "Quinto CEO, primo non reale dal 2022"}
+      - {persona: mansoor-al-mahmoud, ruolo: ceo, dal: 2022, al: 2024}
+      - {persona: nasser-al-khelaifi, ruolo: board, nota: "Chairman QSI, Presidente PSG"}
+      - {persona: hassan-al-thawadi, ruolo: board, dal: 2020, nota: "CEO bid FIFA World Cup 2022"}
+      # Holdings strategici
+      - {org: barclays, ruolo: holding, percentuale: "6%", nota: "Investimento 2008, salvo banca da bailout"}
+      - {org: volkswagen, ruolo: holding, percentuale: "17%", nota: "Terzo azionista"}
+      - {org: harrods, ruolo: controllata, nota: "100% dal 2010"}
+      - {org: psg, ruolo: controllata, nota: "87.5% via QSI dal 2011"}
+      - {org: heathrow-airport, ruolo: holding, percentuale: "20%"}
+      - {org: qatar-airways, ruolo: controllata, nota: "100% dal 2013"}
+      - {org: qnb, ruolo: controllata, nota: "Qatar National Bank"}
+      # Collegamenti
+      - {org: wef, ruolo: partner, nota: "Partner ufficiale Davos 2025-2026"}
+
+  # --- Stub controllate QIA ---
+  harrods:
+    tipo: retail
+    fondato: 1849
+    sede: Londra
+    nota: "Department store lusso Knightsbridge, acquistato da QIA 2010"
+    stakeholders:
+      - {org: qia, ruolo: controllata, dal: 2010}
+      - {persona: mohammed-al-sowaidi, ruolo: board}
+
+  psg:
+    tipo: corporate
+    fondato: 1970
+    sede: Parigi
+    nota: "Paris Saint-Germain FC, 87.5% QSI, valutazione $4.4B"
+    stakeholders:
+      - {org: qia, ruolo: controllata, nota: "Via Qatar Sports Investments"}
+      - {persona: nasser-al-khelaifi, ruolo: presidente, dal: 2011}
+
+  heathrow-airport:
+    tipo: infrastruttura
+    fondato: 1946
+    sede: Londra
+    nota: "Principale hub aeroportuale UK"
+    stakeholders:
+      - {org: qia, ruolo: holding, percentuale: "20%"}
+
+  qatar-airways:
+    tipo: airline
+    fondato: 1993
+    sede: Doha
+    nota: "Compagnia di bandiera Qatar, 100% statale dal 2013, 25.1% IAG"
+    stakeholders:
+      - {org: qia, ruolo: controllata, dal: 2013}
+      - {persona: mohammed-al-sowaidi, ruolo: board}
+
+  qnb:
+    tipo: bank
+    fondato: 1964
+    sede: Doha
+    nota: "Qatar National Bank, maggiore banca MENA per assets"
+    stakeholders:
+      - {org: qia, ruolo: controllata}
+      - {persona: mohammed-al-sowaidi, ruolo: board}
+
+  volkswagen:
+    file: istituzioni/volkswagen.md
+    tipo: corporate
+    settore: auto
+    fondato: 1937
+    sede: Wolfsburg
+    fatturato: "324.7B EUR"
+    tags: [auto, nazi-origin, dieselgate, porsche-piech, lower-saxony, qia]
+    nota: "2° produttore auto mondiale, controllato da Porsche SE (53% voti), Bassa Sassonia (20%), QIA (17%)"
+    stakeholders:
+      # Leadership attuale
+      - {persona: oliver-blume, ruolo: ceo, dal: 2022, nota: "Anche CEO Porsche AG, esteso al 2030"}
+      - {persona: hans-dieter-poetsch, ruolo: chairman, dal: 2015, nota: "Supervisory Board"}
+      # Leadership storica
+      - {persona: martin-winterkorn, ruolo: ceo, dal: 2007, al: 2015, nota: "Caduto con Dieselgate"}
+      - {persona: herbert-diess, ruolo: ceo, dal: 2018, al: 2022, nota: "Transizione EV"}
+      - {persona: ferdinand-piech, ruolo: chairman, dal: 2002, al: 2015, nota: "Nipote fondatore, architetto espansione"}
+      - {persona: ferdinand-piech, ruolo: ceo, dal: 1993, al: 2002}
+      # Famiglia Porsche-Piech (via Porsche SE)
+      - {persona: wolfgang-porsche, ruolo: board, nota: "Chairman Porsche SE e Porsche AG"}
+      - {persona: hans-michel-piech, ruolo: board, nota: "Erede quote Ferdinand Piech"}
+      # Stato tedesco
+      - {persona: stephan-weil, ruolo: board, dal: 2013, al: 2025, nota: "Min-Presidente Bassa Sassonia SPD"}
+      # Azionisti
+      - {org: porsche-se, ruolo: holding, percentuale: "53.3%", nota: "31.9% capitale, 53.3% voti"}
+      - {org: bassa-sassonia, ruolo: holding, percentuale: "20%", nota: "11.8% capitale, 20% voti - veto VW-Gesetz"}
+      - {org: qia, ruolo: holding, percentuale: "17%", nota: "10.5% capitale, 17% voti"}
+      - {persona: mohammed-al-sowaidi, ruolo: board, nota: "CEO QIA"}
+      # Marchi controllati
+      - {org: audi, ruolo: controllata}
+      - {org: porsche-ag, ruolo: controllata, percentuale: "75%", nota: "IPO 2022, VW mantiene 75%"}
+      - {org: bentley, ruolo: controllata}
+      - {org: lamborghini, ruolo: controllata}
+      - {org: ducati, ruolo: controllata}
+      - {org: skoda, ruolo: controllata}
+      - {org: seat, ruolo: controllata}
+
+  # --- Stub Volkswagen Group marchi ---
+  porsche-se:
+    tipo: holding
+    fondato: 2007
+    sede: Stoccarda
+    nota: "Porsche Automobil Holding SE - holding famiglia Porsche-Piech, controlla 53.3% voti VW"
+    stakeholders:
+      - {persona: wolfgang-porsche, ruolo: chairman}
+      - {persona: hans-michel-piech, ruolo: board}
+      - {org: volkswagen, ruolo: controllata, percentuale: "53.3%", nota: "Voti"}
+
+  porsche-ag:
+    tipo: auto
+    fondato: 1931
+    sede: Stoccarda
+    nota: "Porsche AG - produttore sportive, IPO 2022, VW mantiene 75%"
+    stakeholders:
+      - {persona: oliver-blume, ruolo: ceo, al: 2025}
+      - {persona: wolfgang-porsche, ruolo: chairman}
+      - {org: volkswagen, ruolo: holding, percentuale: "75%"}
+      - {org: porsche-se, ruolo: holding, percentuale: "25%", nota: "Blocking minority"}
+
+  audi:
+    tipo: auto
+    fondato: 1909
+    sede: Ingolstadt
+    nota: "Marchio premium tedesco, 100% VW dal 1966"
+    stakeholders:
+      - {org: volkswagen, ruolo: controllata}
+
+  bentley:
+    tipo: auto
+    fondato: 1919
+    sede: Crewe
+    nota: "Ultra-lusso britannico, VW dal 1998"
+    stakeholders:
+      - {org: volkswagen, ruolo: controllata, dal: 1998}
+
+  lamborghini:
+    tipo: auto
+    fondato: 1963
+    sede: Sant'Agata Bolognese
+    nota: "Supersportive italiane, VW dal 1998 via Audi"
+    stakeholders:
+      - {org: volkswagen, ruolo: controllata, dal: 1998}
+      - {org: audi, ruolo: controllata}
+
+  ducati:
+    tipo: moto
+    fondato: 1926
+    sede: Bologna
+    nota: "Moto italiane, VW dal 2012 via Audi"
+    stakeholders:
+      - {org: volkswagen, ruolo: controllata, dal: 2012}
+      - {org: audi, ruolo: controllata}
+
+  skoda:
+    tipo: auto
+    fondato: 1895
+    sede: Mlada Boleslav
+    nota: "Marchio ceco, VW dal 1991"
+    stakeholders:
+      - {org: volkswagen, ruolo: controllata, dal: 1991}
+
+  seat:
+    tipo: auto
+    fondato: 1950
+    sede: Martorell
+    nota: "Marchio spagnolo, VW dal 1986, include Cupra"
+    stakeholders:
+      - {org: volkswagen, ruolo: controllata, dal: 1986}
+
+  bassa-sassonia:
+    tipo: governo
+    sede: Hannover
+    nota: "Stato federale tedesco (Niedersachsen), azionista strategico VW con veto"
+    stakeholders:
+      - {persona: stephan-weil, ruolo: capo-governo, dal: 2013, al: 2025, nota: "SPD"}
+      - {persona: olaf-lies, ruolo: capo-governo, dal: 2025, nota: "SPD, successore Weil"}
+      - {org: volkswagen, ruolo: holding, percentuale: "20%", nota: "Veto garantito da VW-Gesetz"}
