@@ -45,9 +45,9 @@ istituzioni:
       - {persona: mario-monti, ruolo: steering}
       - {persona: franco-bernabe, ruolo: steering}
       # Steering storici
-      - {persona: david-rockefeller, ruolo: steering-storico}
-      - {persona: henry-kissinger, ruolo: steering-storico, al: 2023}
-      - {persona: gianni-agnelli, ruolo: steering-storico}
+      - {persona: david-rockefeller, ruolo: steering, nota: "storico"}
+      - {persona: henry-kissinger, ruolo: steering, al: 2023, nota: "storico"}
+      - {persona: gianni-agnelli, ruolo: steering, nota: "storico"}
       - {persona: romano-prodi, ruolo: steering}
       # Partecipanti
       - {persona: klaus-schwab, ruolo: partecipante}
@@ -80,12 +80,13 @@ istituzioni:
       # Fondatori
       - {persona: david-rockefeller, ruolo: fondatore-chairman, dal: 1973, al: 1991}
       - {persona: zbigniew-brzezinski, ruolo: fondatore-direttore, dal: 1973}
+      - {persona: alan-greenspan, ruolo: membro, dal: 1973, nota: "Membro fondatore, poi Fed Chairman"}
       # Leadership attuale per regione
-      - {persona: mario-monti, ruolo: chairman-emeritus, nota: "Europa - anche PM Italia 2011-13"}
-      - {persona: meghan-osullivan, ruolo: chairman-na, nota: "Nord America - Harvard, CFR board"}
-      - {persona: axel-weber, ruolo: chairman-eu, nota: "Europa - ex-UBS, ex-Bundesbank"}
+      - {persona: mario-monti, ruolo: chairman, nota: "Europa emeritus - anche PM Italia 2011-13"}
+      - {persona: meghan-osullivan, ruolo: chairman, nota: "Nord America - Harvard, CFR board"}
+      - {persona: axel-weber, ruolo: chairman, nota: "Europa - ex-UBS, ex-Bundesbank"}
       # Executive Committee
-      - {persona: henry-kissinger, ruolo: executive-committee, al: 2023}
+      - {persona: henry-kissinger, ruolo: membro, al: 2023, nota: "Executive Committee"}
       # Membri notevoli
       - {persona: larry-fink, ruolo: membro, nota: "CEO BlackRock, WEF Co-Chair"}
       - {persona: christine-lagarde, ruolo: membro, nota: "BCE"}
@@ -111,7 +112,7 @@ istituzioni:
     stakeholders:
       # Leadership
       - {persona: klaus-schwab, ruolo: fondatore-chairman, dal: 1971, al: 2025, nota: "Dimesso aprile 2025"}
-      - {persona: borge-brende, ruolo: president-ceo, dal: 2017, nota: "Ex-Ministro Esteri Norvegia"}
+      - {persona: borge-brende, ruolo: ceo, dal: 2017, nota: "President and CEO, ex-Ministro Esteri Norvegia"}
       # Co-Chairman Board (2025)
       - {persona: larry-fink, ruolo: co-chairman, dal: 2025, nota: "CEO BlackRock - $12.5T AUM"}
       - {persona: andre-hoffmann, ruolo: co-chairman, dal: 2025, nota: "Vice-Chair Roche"}
@@ -182,6 +183,7 @@ istituzioni:
       - {persona: david-rockefeller, ruolo: chairman, dal: 1970, al: 1985, nota: "Fondo' Trilaterale 1973"}
       - {persona: henry-kissinger, ruolo: membro}
       - {persona: zbigniew-brzezinski, ruolo: membro}
+      - {persona: alan-greenspan, ruolo: membro, nota: "Fed Chairman 1987-2006"}
       - {persona: robert-rubin, ruolo: co-chairman, nota: "Goldman/Tesoro"}
       - {persona: timothy-geithner, ruolo: membro, dal: 2013, nota: "Distinguished Fellow"}
       # Collegamenti
@@ -217,6 +219,7 @@ istituzioni:
       - {persona: timothy-geithner, ruolo: membro, nota: "Ex-Tesoro, Warburg Pincus"}
       - {persona: larry-fink, ruolo: membro, nota: "CEO BlackRock"}
       - {persona: christine-lagarde, ruolo: membro, nota: "BCE"}
+      - {persona: alan-greenspan, ruolo: membro, nota: "Fed Chairman 1987-2006"}
       - {persona: paul-volcker, ruolo: fondatore, nota: "Ex-Fed Chairman"}
 
   # --- Wall Street ---
@@ -229,12 +232,12 @@ istituzioni:
     stakeholders:
       # Leadership attuale
       - {persona: david-solomon, ruolo: ceo, dal: 2018}
-      - {persona: jose-barroso, ruolo: chairman-international, dal: 2016, nota: "Ex-Presidente Commissione UE"}
+      - {persona: jose-barroso, ruolo: chairman, dal: 2016, nota: "International, ex-Presidente Commissione UE"}
       # Leadership storica
       - {persona: lloyd-blankfein, ruolo: ceo, dal: 2006, al: 2018}
       - {persona: robert-rubin, ruolo: co-chairman, dal: 1990, al: 1992, nota: "Poi Segretario Tesoro"}
       - {persona: hank-paulson, ruolo: ceo, dal: 1999, al: 2006, nota: "Poi Segretario Tesoro"}
-      - {persona: mario-draghi, ruolo: vice-chairman-international, dal: 2002, al: 2005, nota: "Poi BCE"}
+      - {persona: mario-draghi, ruolo: vice-chairman, dal: 2002, al: 2005, nota: "International, poi BCE"}
       - {persona: mario-monti, ruolo: advisor, dal: 2005, al: 2011}
       - {persona: romano-prodi, ruolo: advisor}
       # Azionisti Big Three
@@ -416,7 +419,7 @@ istituzioni:
     tags: [banca-delle-banche-centrali, basel-accords]
     stakeholders:
       # Management
-      - {persona: agustin-carstens, ruolo: general-manager, dal: 2017, nota: "Ex-Gov. Banco de Mexico"}
+      - {persona: agustin-carstens, ruolo: direttore, dal: 2017, nota: "General Manager, ex-Gov. Banco de Mexico"}
       # Board members
       - {persona: jerome-powell, ruolo: board, nota: "Fed Chair - ex officio"}
       - {persona: fabio-panetta, ruolo: board, dal: 2024, nota: "Chair CPMI, Gov. Banca d'Italia"}
@@ -434,8 +437,8 @@ istituzioni:
     tags: [bretton-woods, austerity, washington-consensus, veto-usa]
     stakeholders:
       # Managing Directors
-      - {persona: christine-lagarde, ruolo: managing-director, dal: 2011, al: 2019, nota: "Poi BCE"}
-      - {persona: kristalina-georgieva, ruolo: managing-director, dal: 2019, nota: "Prima da economia emergente"}
+      - {persona: christine-lagarde, ruolo: direttore, dal: 2011, al: 2019, nota: "Managing Director, poi BCE"}
+      - {persona: kristalina-georgieva, ruolo: direttore, dal: 2019, nota: "Managing Director, prima da economia emergente"}
       # Altri ruoli
       - {persona: timothy-geithner, ruolo: direttore, dal: 2001, al: 2003, nota: "Policy Development and Review"}
       # Collegamenti
@@ -663,6 +666,14 @@ istituzioni:
       - {persona: boris-yeltsin, ruolo: capo-governo, dal: 1991, al: 1999}
 
   # --- Agenzie USA (stub) ---
+  cea:
+    tipo: agenzia
+    sede: Washington
+    fondato: 1946
+    nota: "Council of Economic Advisers - consiglia presidente su politica economica"
+    stakeholders:
+      - {persona: alan-greenspan, ruolo: chairman, dal: 1974, al: 1977, nota: "Ford"}
+
   nsa:
     tipo: agenzia
     sede: Washington
@@ -918,7 +929,7 @@ istituzioni:
     sede: New York
     tags: [diaspora, internazionale, rappresentanza]
     stakeholders:
-      - {persona: stephen-wise, ruolo: fondatore-presidente, dal: 1936, al: 1949}
+      - {persona: stephen-wise, ruolo: fondatore-chairman, dal: 1936, al: 1949}
       - {persona: nahum-goldmann, ruolo: co-fondatore, dal: 1936}
       - {persona: nahum-goldmann, ruolo: presidente, dal: 1949, al: 1977}
       - {persona: edgar-bronfman-sr, ruolo: presidente, dal: 1981, al: 2007}
@@ -1261,3 +1272,39 @@ istituzioni:
       # Collegamenti istituzionali
       - {org: sg-warburg, ruolo: partner, nota: "Eric Roll nel board"}
       - {org: cfr, ruolo: partner, nota: "Miscik ora Vice Chair CFR"}
+
+  # --- Think tank military-industrial ---
+  rand-corporation:
+    file: istituzioni/rand-corporation.md
+    fondato: 1948
+    tipo: think-tank
+    sede: Santa Monica
+    tags: [military-industrial, nuclear-strategy, neocon, pentagon]
+    nota: "Primo think tank moderno, architetti deterrenza nucleare, culla neoconservatorismo"
+    stakeholders:
+      # Leadership attuale
+      - {persona: jason-matheny, ruolo: ceo, dal: 2022, nota: "Ex-IARPA, ex-NSC/OSTP"}
+      # Leadership storica
+      - {persona: donald-rumsfeld, ruolo: chairman, dal: 1981, al: 1986, nota: "Poi di nuovo 1995-96, poi SecDef"}
+      - {persona: condoleezza-rice, ruolo: board, dal: 1991, al: 1997, nota: "Stagista, poi Secretary of State"}
+      # Strateghi nucleari
+      - {persona: albert-wohlstetter, ruolo: advisor, nota: "Padre deterrenza nucleare, mentore neocon"}
+      - {persona: herman-kahn, ruolo: advisor, nota: "On Thermonuclear War, ispiro' Dr. Strangelove"}
+      # Consulenti notevoli
+      - {persona: henry-kissinger, ruolo: advisor, nota: "Consulente, poi NSA/SecState"}
+      - {persona: daniel-ellsberg, ruolo: advisor, dal: 1958, al: 1971, nota: "Analista, leak Pentagon Papers"}
+      # Rete neocon via Wohlstetter
+      - {persona: paul-wolfowitz, ruolo: advisor, nota: "PhD sotto Wohlstetter, Deputy SecDef Bush"}
+      - {persona: zalmay-khalilzad, ruolo: advisor, nota: "PhD sotto Wohlstetter, ambasciatore"}
+      # Collegamenti istituzionali
+      - {org: dod, ruolo: cliente, nota: "~$73M/anno"}
+      - {org: hudson-institute, ruolo: partner, nota: "Spinoff - fondato da Herman Kahn"}
+      - {org: ford-foundation, ruolo: partner, nota: "Capitale iniziale 1948"}
+
+  hudson-institute:
+    tipo: think-tank
+    fondato: 1961
+    sede: Washington
+    nota: "Fondato da Herman Kahn dopo aver lasciato RAND, focus policy conservatrice"
+    stakeholders:
+      - {persona: herman-kahn, ruolo: fondatore, dal: 1961}

@@ -53,7 +53,7 @@ Stile: dati verificabili, fonti citate, no speculazioni.
 
 ### 4. Aggiorna database YAML
 
-Leggi `index.yaml` per enum validi.
+IMPORTANTE: Leggi `index.yaml` per enum validi, cerca sempre un significato equivalente prima di inventare un nuovo tag. Se ti sembra che sia necessario, allora crealo.
 
 Persona:
 ```yaml

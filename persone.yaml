@@ -124,9 +124,9 @@ persone:
       - {org: governo-portogallo, ruolo: ministro, dal: 1992, al: 1995, nota: "Esteri"}
       - {org: governo-portogallo, ruolo: capo-governo, dal: 2002, al: 2004}
       - {org: commissione-ue, ruolo: presidente, dal: 2004, al: 2014}
-      - {org: goldman-sachs, ruolo: chairman-international, dal: 2016, al: 2024}
-      - {org: goldman-sachs, ruolo: chairman-advisors, dal: 2024, nota: "Chair International Advisors"}
-      - {org: gavi, ruolo: board-chair, dal: 2021}
+      - {org: goldman-sachs, ruolo: chairman, dal: 2016, al: 2024, nota: "International"}
+      - {org: goldman-sachs, ruolo: chairman, dal: 2024, nota: "Chair International Advisors"}
+      - {org: gavi, ruolo: chairman, dal: 2021, nota: "Board Chair"}
       - {org: bilderberg, ruolo: partecipante}
       - {org: wef, ruolo: glt, dal: 1993, nota: "Global Leader for Tomorrow"}
 
@@ -536,9 +536,16 @@ persone:
       - {org: governo-usa, ruolo: capo-governo, dal: 1993, al: 2001}
 
   alan-greenspan:
+    file: persone/alan-greenspan.md
     nato: 1926
     naz: USA
-    nota: "Fed Chairman 1987-2006"
+    nota: "Fed Chairman 1987-2006, 'il Maestro', discepolo Ayn Rand, critica 2008"
+    affiliazioni:
+      - {org: federal-reserve, ruolo: chairman, dal: 1987, al: 2006, nota: "19 anni, secondo piu' lungo"}
+      - {org: cea, ruolo: chairman, dal: 1974, al: 1977, nota: "Council of Economic Advisers, Ford"}
+      - {org: trilaterale, ruolo: membro, dal: 1973, nota: "Membro fondatore"}
+      - {org: cfr, ruolo: membro}
+      - {org: gruppo-30, ruolo: membro}
 
   george-w-bush:
     nato: 1946
@@ -715,7 +722,7 @@ persone:
     naz: USA
     nota: "Rabbi, co-fondatore WJC, leader sionista americano"
     affiliazioni:
-      - {org: world-jewish-congress, ruolo: fondatore-presidente, dal: 1936, al: 1949}
+      - {org: world-jewish-congress, ruolo: fondatore-chairman, dal: 1936, al: 1949}
       - {org: american-jewish-congress, ruolo: fondatore, dal: 1918}
 
   nahum-goldmann:
@@ -772,7 +779,7 @@ persone:
     naz: NOR
     nota: "CEO WEF dal 2017, ex-Ministro Esteri Norvegia"
     affiliazioni:
-      - {org: wef, ruolo: president-ceo, dal: 2017}
+      - {org: wef, ruolo: ceo, dal: 2017, nota: "President and CEO"}
       - {org: governo-norvegia, ruolo: ministro, dal: 2013, al: 2017, nota: "Esteri"}
       - {org: governo-norvegia, ruolo: ministro, dal: 2001, al: 2004, nota: "Commercio"}
       - {org: bilderberg, ruolo: partecipante, nota: "2025"}
@@ -1067,3 +1074,73 @@ persone:
       - {org: governo-estonia, ruolo: capo-governo, dal: 2002, al: 2003}
       - {org: commissione-ue, ruolo: vice-presidente, dal: 2004, al: 2014, nota: "Commissario Trasporti e Anti-frode"}
       - {org: banca-estonia, ruolo: governatore, dal: 1991, al: 1995}
+
+  # --- RAND Corporation network ---
+
+  donald-rumsfeld:
+    nato: 1932
+    morto: 2021
+    naz: USA
+    nota: "Secretary of Defense Bush Sr. e Bush Jr., Chairman RAND, Iraq War architect"
+    affiliazioni:
+      - {org: dod, ruolo: ministro, dal: 1975, al: 1977, nota: "Ford"}
+      - {org: dod, ruolo: ministro, dal: 2001, al: 2006, nota: "Bush Jr., Iraq War"}
+      - {org: rand-corporation, ruolo: chairman, dal: 1981, al: 1986}
+      - {org: rand-corporation, ruolo: chairman, dal: 1995, al: 1996}
+
+  condoleezza-rice:
+    nato: 1954
+    naz: USA
+    nota: "NSA e Secretary of State Bush Jr., ex-trustee RAND, sovietologa Stanford"
+    affiliazioni:
+      - {org: rand-corporation, ruolo: board, dal: 1991, al: 1997}
+      - {org: nsa, ruolo: consigliere, dal: 2001, al: 2005, nota: "Bush Jr."}
+      - {org: stato-usa, ruolo: ministro, dal: 2005, al: 2009, nota: "Secretary of State"}
+
+  albert-wohlstetter:
+    nato: 1913
+    morto: 1997
+    naz: USA
+    nota: "Padre deterrenza nucleare, 'Delicate Balance of Terror', mentore neocon, allievo Leo Strauss"
+    affiliazioni:
+      - {org: rand-corporation, ruolo: advisor, nota: "Stratega nucleare, 1951-1963"}
+
+  herman-kahn:
+    nato: 1922
+    morto: 1983
+    naz: USA
+    nota: "On Thermonuclear War, ispiro' Dr. Strangelove, fondo' Hudson Institute"
+    affiliazioni:
+      - {org: rand-corporation, ruolo: advisor, nota: "Stratega nucleare"}
+      - {org: hudson-institute, ruolo: fondatore, dal: 1961}
+
+  daniel-ellsberg:
+    nato: 1931
+    morto: 2023
+    naz: USA
+    nota: "Analista RAND, leak Pentagon Papers 1971, 'uomo piu' pericoloso d'America' (Kissinger)"
+    affiliazioni:
+      - {org: rand-corporation, ruolo: advisor, dal: 1958, al: 1971, nota: "Analista strategico"}
+
+  paul-wolfowitz:
+    nato: 1943
+    naz: USA
+    nota: "Deputy Secretary of Defense Bush Jr., architetto Iraq War, PhD sotto Wohlstetter"
+    affiliazioni:
+      - {org: dod, ruolo: ministro, dal: 2001, al: 2005, nota: "Deputy Secretary of Defense"}
+      - {org: banca-mondiale, ruolo: presidente, dal: 2005, al: 2007, nota: "Dimesso per scandalo"}
+
+  zalmay-khalilzad:
+    nato: 1951
+    naz: USA
+    nota: "Ambasciatore USA Afghanistan/Iraq/ONU, PhD sotto Wohlstetter, RAND advisor"
+    affiliazioni:
+      - {org: rand-corporation, ruolo: advisor}
+      - {org: onu, ruolo: ambasciatore, dal: 2007, al: 2009, nota: "Rappresentante permanente USA"}
+
+  jason-matheny:
+    nato: 1975
+    naz: USA
+    nota: "CEO RAND dal 2022, ex-IARPA, ex-NSC/OSTP, fondatore Georgetown CSET"
+    affiliazioni:
+      - {org: rand-corporation, ruolo: ceo, dal: 2022}
