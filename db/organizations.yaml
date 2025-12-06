@@ -1,4 +1,13 @@
 organizations:
+  abb:
+    type: company
+    founded: 1988
+    headquarters: Zurich, Switzerland
+    status: active
+    sector: engineering
+    stakeholders:
+    - org: investor-ab
+      role: major-shareholder
   adl:
     type: thinktank
     founded: 1913
@@ -205,6 +214,15 @@ organizations:
     - person: federica-mogherini
       role: member
       note: Speaker
+  atlas-copco:
+    type: company
+    founded: 1873
+    headquarters: Stockholm, Sweden
+    status: active
+    sector: industrial
+    stakeholders:
+    - org: investor-ab
+      role: major-shareholder
   audi:
     type: company
     founded: 1909
@@ -437,6 +455,20 @@ organizations:
       role: member
     - person: vernon-jordan
       role: steering
+    - person: bernhard-lippe-biesterfeld
+      role: founder
+      from: 1954
+      to: 1976
+      note: Chairman fino scandalo Lockheed
+    - person: marcus-wallenberg-jr
+      role: steering
+      from: 1954
+      to: 1981
+      note: 22 partecipazioni
+    - person: jacob-wallenberg
+      role: steering
+      from: 1990
+      note: 17+ partecipazioni
     - person: david-rockefeller
       role: steering
     - person: henry-kissinger
@@ -953,6 +985,15 @@ organizations:
       role: executive
       from: 1992
       to: 1998
+  ericsson:
+    type: company
+    founded: 1876
+    headquarters: Stockholm, Sweden
+    status: active
+    sector: telecom
+    stakeholders:
+    - org: investor-ab
+      role: major-shareholder
   estee-lauder:
     type: company
     founded: 1946
@@ -1376,6 +1417,16 @@ organizations:
       role: leader
       from: 2017
       to: 2023
+  governo-olanda:
+    type: government
+    headquarters: The Hague, Netherlands
+    status: active
+    stakeholders:
+    - person: bernhard-lippe-biesterfeld
+      role: military
+      from: 1940
+      to: 1945
+      note: Comandante Forze Interne Olandesi
   governo-portogallo:
     type: government
     headquarters: Lisbona
@@ -1520,6 +1571,17 @@ organizations:
       from: 1961
     - org: rand-corporation
       role: partner
+  ig-farben:
+    type: company
+    founded: 1925
+    headquarters: Frankfurt, Germany
+    status: defunct
+    stakeholders:
+    - person: bernhard-lippe-biesterfeld
+      role: executive
+      from: 1935
+      to: 1937
+      note: Parigi
   il-sole-24-ore:
     type: media
     founded: 1865
@@ -1540,6 +1602,12 @@ organizations:
     stakeholders:
     - person: giovanni-bazoli
       role: executive
+  investor-ab:
+    type: company
+    founded: 1916
+    headquarters: Stockholm, Sweden
+    status: active
+    sector: investment
   iri:
     type: company
     founded: 1933
@@ -1694,6 +1762,17 @@ organizations:
     - org: eli-lilly
       role: stake
       share: 0.107
+  lockheed:
+    type: company
+    founded: 1926
+    headquarters: Bethesda, USA
+    status: active
+    stakeholders:
+    - person: bernhard-lippe-biesterfeld
+      role: advisor
+      from: 1970
+      to: 1976
+      note: Scandalo tangenti $1M+
   mediaset:
     type: media
     founded: 1978
@@ -2146,6 +2225,15 @@ organizations:
     stakeholders:
     - person: david-de-rothschild-fr
       role: chairman
+  saab:
+    type: company
+    founded: 1937
+    headquarters: Stockholm, Sweden
+    status: active
+    sector: defense
+    stakeholders:
+    - org: investor-ab
+      role: major-shareholder
   saudi-aramco:
     type: company
     headquarters: Arabia Saudita
@@ -2172,6 +2260,17 @@ organizations:
     stakeholders:
     - org: volkswagen
       role: subsidiary
+  seb:
+    type: bank
+    founded: 1856
+    headquarters: Stockholm, Sweden
+    status: active
+    stakeholders:
+    - person: andre-oscar-wallenberg
+      role: founder
+      from: 1856
+    - org: investor-ab
+      role: major-shareholder
   sg-warburg:
     type: bank
     founded: 1946
@@ -2375,6 +2474,14 @@ organizations:
       role: advisor
     - person: nick-carter
       role: advisor
+  trilateral-commission:
+    type: forum
+    founded: 1973
+    headquarters: Washington, USA
+    status: active
+    stakeholders:
+    - person: jacob-wallenberg
+      role: member
   trilaterale:
     type: forum
     founded: 1973
@@ -2772,6 +2879,11 @@ organizations:
       from: 1961
       to: 2021
       note: Co-fondatore, President UK 1961-82, International President 1981-96
+    - person: bernhard-lippe-biesterfeld
+      role: founder
+      from: 1961
+      to: 1976
+      note: Primo presidente
   x-twitter:
     type: company
     headquarters: San Francisco

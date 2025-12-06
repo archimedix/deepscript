@@ -53,6 +53,34 @@ families:
     status: active
     members:
     - person: david-de-rothschild-fr
+  wallenberg:
+    origin: Svezia
+    founder: andre-oscar-wallenberg
+    sector: banca-industria
+    generations: 6
+    status: active
+    members:
+    - person: andre-oscar-wallenberg
+      generation: 1
+      role: founder
+    - person: knut-wallenberg
+      generation: 2
+    - person: marcus-wallenberg-sr
+      generation: 2
+    - person: jacob-wallenberg-1892
+      generation: 3
+    - person: marcus-wallenberg-jr
+      generation: 3
+    - person: raoul-wallenberg
+      generation: 3
+    - person: peter-wallenberg-sr
+      generation: 4
+    - person: jacob-wallenberg
+      generation: 5
+    - person: marcus-wallenberg
+      generation: 5
+    - person: peter-wallenberg-jr
+      generation: 5
   walton:
     origin: USA
     founder: Sam Walton
