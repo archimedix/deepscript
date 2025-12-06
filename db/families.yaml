@@ -1,0 +1,78 @@
+families:
+  agnelli-elkann:
+    file: family/agnelli-elkann.md
+    origin: Italia
+    founder: Giovanni Agnelli Sr.
+    sector: auto
+    generations: 4
+    status: active
+    members:
+    - person: gianni-agnelli
+    - person: john-elkann
+  bush:
+    file: family/bush.md
+    origin: USA
+    founder: Prescott Bush
+    sector: finanza-politica
+    generations: 5
+    status: active
+    members:
+    - person: george-w-bush
+  dupont:
+    file: family/dupont.md
+    origin: Francia/USA
+    founder: E.I. du Pont
+    sector: chimica
+    generations: 8
+    status: defunct
+  morgan:
+    file: family/morgan.md
+    origin: USA
+    founder: Junius Spencer Morgan
+    sector: banca
+    generations: 4
+    status: defunct
+    members:
+    - person: jp-morgan
+  murdoch:
+    file: family/murdoch.md
+    origin: Australia
+    founder: Keith Murdoch
+    sector: media
+    generations: 3
+    status: active
+  rockefeller:
+    file: family/rockefeller.md
+    origin: USA
+    founder: John D. Rockefeller Sr.
+    sector: petrolio
+    generations: 6
+    status: active
+    members:
+    - person: john-d-rockefeller-jr
+    - person: david-rockefeller
+  rothschild:
+    file: family/rothschild.md
+    origin: Germania
+    founder: Mayer Amschel Rothschild
+    sector: banca
+    generations: 8
+    status: active
+    members:
+    - person: david-de-rothschild-fr
+  walton:
+    file: family/walton.md
+    origin: USA
+    founder: Sam Walton
+    sector: retail
+    generations: 3
+    status: active
+  warburg:
+    file: family/warburg.md
+    origin: Germania
+    founder: Moses Marcus Warburg
+    sector: banca
+    generations: 5
+    status: active
+    members:
+    - person: paul-warburg

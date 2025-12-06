@@ -1,0 +1,2768 @@
+organizations:
+  adl:
+    file: think-tank/adl.md
+    type: thinktank
+    founded: 1913
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: jonathan-greenblatt
+      role: executive
+      from: 2015
+  aipac:
+    file: think-tank/aipac.md
+    type: thinktank
+    founded: 1963
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: morris-amitay
+      role: executive
+      from: 1974
+      to: 1980
+    - person: howard-kohr
+      role: executive
+      from: 1996
+      to: 2024
+    - person: isaiah-kenen
+      role: founder
+      from: 1954
+      to: 1974
+    - person: isaiah-kenen
+      role: executive
+      from: 1954
+      to: 1974
+  ako-capital:
+    type: hedgefund
+    founded: 2005
+    headquarters: Londra
+    status: active
+    stakeholders:
+    - person: nicolai-tangen
+      role: founder
+      from: 2005
+      to: 2020
+    - person: nicolai-tangen
+      role: executive
+      from: 2005
+      to: 2020
+  alphabet:
+    type: company
+    headquarters: Mountain View
+    status: active
+    sector: tech
+    stakeholders:
+    - person: sergey-brin
+      role: founder
+      from: 1998
+    - person: larry-page
+      role: founder
+      from: 1998
+    - org: norges-bank-gpfg
+      role: stake
+    - org: blackrock
+      role: stake
+      share: 0.06
+    - org: vanguard
+      role: stake
+      share: 0.07
+    - org: state-street
+      role: stake
+      share: 0.03
+  amazon:
+    type: company
+    headquarters: Seattle
+    status: active
+    stakeholders:
+    - person: jeff-bezos
+      role: founder
+      from: 1994
+      to: 2021
+    - person: jeff-bezos
+      role: executive
+      from: 1994
+      to: 2021
+    - person: jeff-bezos
+      role: chairman
+      from: 2021
+    - org: norges-bank-gpfg
+      role: stake
+    - org: blackrock
+      role: stake
+      share: 0.065
+    - org: vanguard
+      role: stake
+      share: 0.072
+    - org: state-street
+      role: stake
+      share: 0.034
+  ambasciata-usa-austria:
+    type: government
+    headquarters: Vienna
+    status: active
+    stakeholders:
+    - person: ronald-lauder
+      role: diplomat
+      from: 1986
+      to: 1987
+  american-express:
+    type: company
+    founded: 1850
+    headquarters: New York
+    status: active
+    sector: finance
+    stakeholders:
+    - org: berkshire-hathaway
+      role: stake
+  american-jewish-congress:
+    type: thinktank
+    founded: 1918
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: stephen-wise
+      role: founder
+      from: 1918
+  ansa:
+    type: media
+    founded: 1945
+    headquarters: Roma
+    status: active
+  apple:
+    file: company/apple.md
+    type: company
+    founded: 1976
+    headquarters: Cupertino
+    status: active
+    sector: tech
+    stakeholders:
+    - person: steve-jobs
+      role: founder
+      from: 1976
+      to: 1985
+    - person: steve-jobs
+      role: executive
+      from: 1997
+      to: 2011
+    - person: steve-wozniak
+      role: founder
+      from: 1976
+      to: 1985
+    - person: tim-cook
+      role: executive
+      from: 2011
+    - person: arthur-levinson
+      role: chairman
+      from: 2011
+    - person: susan-wagner
+      role: board
+      from: 2014
+    - org: norges-bank-gpfg
+      role: stake
+      share: 0.012
+    - org: blackrock
+      role: stake
+      share: 0.065
+    - org: vanguard
+      role: stake
+      share: 0.085
+    - org: state-street
+      role: stake
+      share: 0.038
+    - org: berkshire-hathaway
+      role: stake
+  arm:
+    type: company
+    founded: 1990
+    headquarters: Cambridge
+    status: active
+    sector: tech
+    stakeholders:
+    - person: masayoshi-son
+      role: chairman
+      from: 2016
+    - org: softbank
+      role: subsidiary
+      share: 0.9
+  aspen-institute:
+    file: think-tank/aspen-institute.md
+    type: thinktank
+    founded: 1950
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: mario-monti
+      role: member
+    - person: romano-prodi
+      role: member
+    - person: john-elkann
+      role: leader
+    - person: timothy-geithner
+      role: chairman
+    - org: trilaterale
+      role: partner
+  audi:
+    type: company
+    founded: 1909
+    headquarters: Ingolstadt
+    status: active
+    stakeholders:
+    - person: martin-winterkorn
+      role: chairman
+      from: 2002
+      to: 2007
+    - org: volkswagen
+      role: subsidiary
+  banca-italia:
+    type: centralbank
+    headquarters: Roma
+    status: active
+    stakeholders:
+    - person: mario-draghi
+      role: leader
+      from: 2006
+      to: 2011
+    - person: carlo-azeglio-ciampi
+      role: leader
+      from: 1979
+      to: 1993
+    - person: guido-carli
+      role: leader
+      from: 1960
+      to: 1975
+    - org: bce
+      role: partner
+    - org: bis
+      role: partner
+  banca-mondiale:
+    file: agency/banca-mondiale.md
+    type: agency
+    founded: 1944
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: john-mccloy
+      role: executive
+      from: 1947
+      to: 1949
+    - person: eugene-black
+      role: executive
+      from: 1949
+      to: 1962
+    - person: robert-mcnamara
+      role: executive
+      from: 1968
+      to: 1981
+    - person: lewis-preston
+      role: executive
+      from: 1991
+      to: 1995
+    - person: james-wolfensohn
+      role: executive
+      from: 1995
+      to: 2005
+    - person: jean-claude-juncker
+      role: leader
+      from: 1989
+      to: 1995
+    - person: paul-wolfowitz
+      role: executive
+      from: 2005
+      to: 2007
+    - person: larry-summers
+      role: advisor
+      from: 1991
+      to: 1993
+    - org: fmi
+      role: partner
+  banco-ambrosiano-veneto:
+    type: bank
+    headquarters: Milano
+    status: active
+    stakeholders:
+    - person: giovanni-bazoli
+      role: executive
+  bank-of-america:
+    type: bank
+    headquarters: Charlotte
+    status: active
+    sector: finance
+    stakeholders:
+    - org: blackrock
+      role: stake
+      share: 0.07
+    - org: vanguard
+      role: stake
+      share: 0.08
+    - org: state-street
+      role: stake
+      share: 0.038
+    - org: berkshire-hathaway
+      role: stake
+  barclays:
+    type: bank
+    founded: 1690
+    headquarters: Londra
+    status: active
+    stakeholders:
+    - org: qia
+      role: stake
+      share: 0.06
+  baring:
+    type: bank
+    founded: 1762
+    headquarters: Londra
+    status: active
+  bassa-sassonia:
+    type: government
+    headquarters: Hannover
+    status: active
+    stakeholders:
+    - person: stephan-weil
+      role: leader
+      from: 2013
+      to: 2025
+    - person: olaf-lies
+      role: leader
+      from: 2025
+    - org: volkswagen
+      role: stake
+      share: 0.2
+  bce:
+    file: central-bank/bce.md
+    type: centralbank
+    founded: 1998
+    headquarters: Francoforte
+    status: active
+    stakeholders:
+    - person: christine-lagarde
+      role: executive
+      from: 2019
+    - person: mario-draghi
+      role: executive
+      from: 2011
+      to: 2019
+    - org: bis
+      role: partner
+  bentley:
+    type: company
+    founded: 1919
+    headquarters: Crewe
+    status: active
+    stakeholders:
+    - org: volkswagen
+      role: subsidiary
+  berkshire-hathaway:
+    type: company
+    founded: 1839
+    headquarters: Omaha
+    status: active
+    sector: finance
+    stakeholders:
+    - person: warren-buffett
+      role: chairman
+      from: 1970
+      to: 2025
+    - person: charlie-munger
+      role: chairman
+      from: 1978
+      to: 2023
+    - person: greg-abel
+      role: chairman
+      from: 2018
+    - person: ajit-jain
+      role: chairman
+    - org: blackrock
+      role: stake
+      share: 0.08
+    - org: vanguard
+      role: stake
+      share: 0.1
+    - org: state-street
+      role: stake
+      share: 0.035
+  bilderberg:
+    file: forum/bilderberg-trilaterale.md
+    type: forum
+    founded: 1954
+    headquarters: variabile
+    status: active
+    stakeholders:
+    - person: klaus-schwab
+      role: member
+    - person: christine-lagarde
+      role: member
+    - person: mario-draghi
+      role: member
+    - person: jose-barroso
+      role: member
+    - person: mario-monti
+      role: steering
+    - person: romano-prodi
+      role: steering
+    - person: gianni-agnelli
+      role: steering
+    - person: john-elkann
+      role: steering
+    - person: emmanuel-macron
+      role: member
+      from: 2014
+    - person: bill-gates
+      role: member
+    - person: peter-thiel
+      role: member
+      from: 2024
+    - person: bill-clinton
+      role: member
+      from: 1991
+    - person: timothy-geithner
+      role: member
+    - person: franco-bernabe
+      role: steering
+    - person: gro-harlem-brundtland
+      role: member
+      from: 1982
+    - person: borge-brende
+      role: member
+    - person: ursula-von-der-leyen
+      role: member
+    - person: matteo-renzi
+      role: member
+    - person: kaja-kallas
+      role: member
+    - person: hillary-clinton
+      role: member
+    - person: larry-summers
+      role: member
+    - person: vernon-jordan
+      role: steering
+    - person: david-rockefeller
+      role: steering
+    - person: henry-kissinger
+      role: member
+    - org: trilaterale
+      role: partner
+  bipartisan-policy-center:
+    type: thinktank
+    founded: 2007
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: michael-makovsky
+      role: executive
+  bis:
+    file: central-bank/bis.md
+    type: centralbank
+    founded: 1930
+    headquarters: Basilea
+    status: active
+    stakeholders:
+    - org: bce
+      role: partner
+  blackrock:
+    file: asset-manager/blackrock.md
+    type: assetmanager
+    founded: 1988
+    headquarters: New York
+    status: active
+    aum: 12.5T
+    stakeholders:
+    - person: larry-fink
+      role: founder
+      from: 1988
+    - person: larry-fink
+      role: executive
+      from: 1988
+      note: CEO
+    - person: susan-wagner
+      role: founder
+      from: 1988
+      to: 2012
+    - org: norges-bank-gpfg
+      role: stake
+    - org: trilaterale
+      role: partner
+    - org: wef
+      role: partner
+    - org: cfr
+      role: partner
+    - org: goldman-sachs
+      role: stake
+      share: 0.065
+    - org: jpmorgan-chase
+      role: stake
+      share: 0.062
+    - org: morgan-stanley
+      role: stake
+      share: 0.068
+    - org: vanguard
+      role: stake
+      share: 0.085
+    - org: state-street
+      role: stake
+      share: 0.04
+    - org: federal-reserve
+      role: partner
+    - org: berkshire-hathaway
+      role: stake
+      share: 0.08
+    - org: eli-lilly
+      role: stake
+      share: 0.074
+    - org: walmart
+      role: stake
+      share: 0.036
+  blackstone:
+    type: privateequity
+    founded: 1985
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: stephen-schwarzman
+      role: founder
+    - person: stephen-schwarzman
+      role: executive
+  blue-origin:
+    type: company
+    headquarters: Kent
+    status: active
+    stakeholders:
+    - person: jeff-bezos
+      role: founder
+      from: 2000
+  breakthrough-energy:
+    type: foundation
+    founded: 2015
+    headquarters: Seattle
+    status: active
+    stakeholders:
+    - person: mark-zuckerberg
+      role: founder
+    - person: bill-gates
+      role: founder
+      from: 2015
+    - person: jeff-bezos
+      role: founder
+      from: 2015
+  bridgewater:
+    type: hedgefund
+    founded: 1975
+    headquarters: Connecticut
+    status: active
+    stakeholders:
+    - person: ray-dalio
+      role: founder
+  broadcom:
+    type: company
+    founded: 1961
+    headquarters: Palo Alto
+    status: active
+    sector: tech
+    stakeholders:
+    - person: hock-tan
+      role: executive
+      from: 2006
+    - org: blackrock
+      role: stake
+      share: 0.074
+    - org: vanguard
+      role: stake
+      share: 0.102
+    - org: state-street
+      role: stake
+      share: 0.034
+  business-roundtable:
+    type: thinktank
+    founded: 1972
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: mark-zuckerberg
+      role: member
+  carlyle-group:
+    type: privateequity
+    founded: 1987
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: jerome-powell
+      role: partner
+      from: 1997
+      to: 2005
+    - person: david-rubenstein
+      role: chairman
+  cea:
+    type: agency
+    founded: 1946
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: alan-greenspan
+      role: chairman
+      from: 1974
+      to: 1977
+  cfr:
+    file: think-tank/cfr.md
+    type: thinktank
+    founded: 1921
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: zbigniew-brzezinski
+      role: member
+    - person: larry-fink
+      role: steering
+    - person: robert-rubin
+      role: chairman
+    - person: paul-warburg
+      role: founder
+      from: 1921
+    - person: john-mccloy
+      role: chairman
+      from: 1954
+      to: 1970
+    - person: james-wolfensohn
+      role: member
+    - person: bill-clinton
+      role: member
+    - person: alan-greenspan
+      role: member
+    - person: timothy-geithner
+      role: member
+      from: 2013
+    - person: jami-miscik
+      role: chairman
+    - person: hillary-clinton
+      role: member
+    - person: robert-gates
+      role: member
+    - person: susan-rice
+      role: member
+    - person: larry-summers
+      role: member
+    - person: vernon-jordan
+      role: board
+    - person: david-rockefeller
+      role: chairman
+      from: 1970
+      to: 1985
+    - person: henry-kissinger
+      role: member
+    - org: bilderberg
+      role: partner
+    - org: trilaterale
+      role: partner
+    - org: morgan-stanley
+      role: partner
+    - org: warburg-pincus
+      role: partner
+    - org: kissinger-associates
+      role: partner
+  chan-zuckerberg-initiative:
+    type: foundation
+    founded: 2015
+    headquarters: Palo Alto
+    status: active
+    stakeholders:
+    - person: mark-zuckerberg
+      role: founder
+      from: 2015
+  chase-manhattan:
+    type: bank
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: gianni-agnelli
+      role: board
+    - person: john-mccloy
+      role: chairman
+      from: 1953
+      to: 1960
+    - person: david-rockefeller
+      role: executive
+      from: 1969
+      to: 1981
+  chevron:
+    type: company
+    headquarters: San Ramon
+    status: active
+    sector: energy
+    stakeholders:
+    - org: berkshire-hathaway
+      role: stake
+  cia:
+    type: agency
+    headquarters: Langley
+    status: active
+    stakeholders:
+    - person: john-brennan
+      role: executive
+      from: 2013
+      to: 2017
+    - person: jami-miscik
+      role: executive
+      from: 2002
+      to: 2005
+    - person: robert-gates
+      role: executive
+      from: 1991
+      to: 1993
+  citigroup:
+    type: bank
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: robert-rubin
+      role: advisor
+      from: 1999
+  clinton-foundation:
+    type: foundation
+    founded: 2001
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: bill-clinton
+      role: founder
+      from: 2001
+  coca-cola:
+    type: company
+    founded: 1886
+    headquarters: Atlanta
+    status: active
+    sector: consumer
+    stakeholders:
+    - org: berkshire-hathaway
+      role: stake
+      share: 0.093
+  collegio-europa:
+    file: think-tank/collegio-europa.md
+    type: thinktank
+    founded: 1949
+    headquarters: Bruges
+    status: active
+    stakeholders:
+    - person: federica-mogherini
+      role: president
+      from: 2020
+      to: 2025
+    - person: hendrik-brugmans
+      role: founder
+      from: 1950
+      to: 1972
+    - person: hendrik-brugmans
+      role: president
+      from: 1950
+      to: 1972
+    - person: nick-clegg
+      role: alumnus
+      from: 1992
+      to: 1993
+    - person: helle-thorning-schmidt
+      role: alumnus
+    - person: alexander-stubb
+      role: alumnus
+    - person: alexander-schallenberg
+      role: alumnus
+    - person: margaritis-schinas
+      role: alumnus
+    - person: enzo-moavero-milanesi
+      role: alumnus
+      from: 1981
+      to: 1982
+    - person: enzo-moavero-milanesi
+      role: professor
+    - person: jan-tinbergen
+      role: professor
+  commissione-ue:
+    type: agency
+    founded: 1958
+    headquarters: Bruxelles
+    status: active
+    stakeholders:
+    - person: jose-barroso
+      role: executive
+      from: 2004
+      to: 2014
+    - person: mario-monti
+      role: commissioner
+      from: 1995
+      to: 2004
+    - person: romano-prodi
+      role: executive
+      from: 1999
+      to: 2004
+    - person: walter-hallstein
+      role: executive
+      from: 1958
+      to: 1967
+    - person: jean-rey
+      role: executive
+      from: 1967
+      to: 1970
+    - person: franco-maria-malfatti
+      role: executive
+      from: 1970
+      to: 1972
+    - person: sicco-mansholt
+      role: executive
+      from: 1972
+      to: 1973
+    - person: francois-xavier-ortoli
+      role: executive
+      from: 1973
+      to: 1977
+    - person: roy-jenkins
+      role: executive
+      from: 1977
+      to: 1981
+    - person: gaston-thorn
+      role: executive
+      from: 1981
+      to: 1985
+    - person: jacques-delors
+      role: executive
+      from: 1985
+      to: 1995
+    - person: jacques-santer
+      role: executive
+      from: 1995
+      to: 1999
+    - person: jean-claude-juncker
+      role: executive
+      from: 2014
+      to: 2019
+    - person: ursula-von-der-leyen
+      role: executive
+      from: 2019
+    - person: kaja-kallas
+      role: leader
+      from: 2024
+    - person: siim-kallas
+      role: leader
+      from: 2004
+      to: 2014
+    - person: federica-mogherini
+      role: leader
+      from: 2014
+      to: 2019
+    - person: margaritis-schinas
+      role: leader
+      from: 2019
+    - person: enzo-moavero-milanesi
+      role: official
+      from: 2002
+      to: 2005
+  conference-of-presidents:
+    type: forum
+    founded: 1956
+    headquarters: New York
+    status: active
+  corriere-della-sera:
+    file: media/corriere-della-sera.md
+    type: media
+    founded: 1876
+    headquarters: Milano
+    status: active
+  dod:
+    type: government
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: robert-mcnamara
+      role: minister
+      from: 1961
+      to: 1968
+    - person: ronald-lauder
+      role: minister
+      from: 1983
+      to: 1986
+    - person: michael-makovsky
+      role: advisor
+    - person: donald-rumsfeld
+      role: minister
+      from: 2001
+      to: 2006
+    - person: paul-wolfowitz
+      role: minister
+      from: 2001
+      to: 2005
+    - person: robert-gates
+      role: minister
+      from: 2006
+      to: 2011
+    - org: rand-corporation
+      role: partner
+  ducati:
+    type: company
+    founded: 1926
+    headquarters: Bologna
+    status: active
+    stakeholders:
+    - org: volkswagen
+      role: subsidiary
+  economist:
+    type: media
+    founded: 1843
+    headquarters: Londra
+    status: active
+    stakeholders:
+    - person: john-elkann
+      role: chairman
+      from: 2009
+  eli-lilly:
+    type: company
+    founded: 1876
+    headquarters: Indianapolis
+    status: active
+    sector: healthcare
+    stakeholders:
+    - org: blackrock
+      role: stake
+      share: 0.074
+    - org: vanguard
+      role: stake
+      share: 0.082
+    - org: state-street
+      role: stake
+      share: 0.03
+    - org: lilly-endowment
+      role: stake
+      share: 0.107
+  eni:
+    type: company
+    founded: 1953
+    headquarters: Roma
+    status: active
+    stakeholders:
+    - person: gabriele-cagliari
+      role: executive
+      from: 1989
+      to: 1993
+    - person: franco-bernabe
+      role: executive
+      from: 1992
+      to: 1998
+  estee-lauder:
+    type: company
+    founded: 1946
+    headquarters: New York
+    status: active
+  ethos-water:
+    type: company
+    founded: 2002
+    headquarters: California
+    status: active
+    stakeholders:
+    - person: jonathan-greenblatt
+      role: founder
+      from: 2002
+      to: 2005
+  eurogroup:
+    type: agency
+    founded: 1998
+    headquarters: Bruxelles
+    status: active
+    stakeholders:
+    - person: jean-claude-juncker
+      role: executive
+      from: 2005
+      to: 2013
+  exor:
+    type: company
+    headquarters: Amsterdam
+    status: active
+    stakeholders:
+    - person: john-elkann
+      role: executive
+      from: 2004
+  exxon-mobil:
+    type: company
+    headquarters: Irving
+    status: active
+    sector: energy
+    stakeholders:
+    - org: blackrock
+      role: stake
+      share: 0.071
+    - org: vanguard
+      role: stake
+      share: 0.082
+    - org: state-street
+      role: stake
+      share: 0.04
+  federal-reserve:
+    file: central-bank/federal-reserve.md
+    type: centralbank
+    founded: 1913
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: jerome-powell
+      role: chairman
+      from: 2018
+    - person: paul-warburg
+      role: chairman
+      from: 1914
+      to: 1918
+    - person: alan-greenspan
+      role: chairman
+      from: 1987
+      to: 2006
+    - org: jpmorgan-chase
+      role: partner
+    - org: bis
+      role: partner
+  federal-reserve-ny:
+    type: centralbank
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: jamie-dimon
+      role: board
+    - person: timothy-geithner
+      role: executive
+      from: 2003
+      to: 2009
+    - org: jpmorgan-chase
+      role: partner
+    - org: warburg-pincus
+      role: partner
+  fiat:
+    type: company
+    headquarters: Torino
+    status: active
+    stakeholders:
+    - person: gianni-agnelli
+      role: executive
+      from: 1966
+      to: 1996
+  fii-saudi:
+    type: forum
+    founded: 2017
+    headquarters: Riad
+    status: active
+    stakeholders:
+    - person: matteo-renzi
+      role: board
+    - person: peter-diamandis
+      role: board
+    - person: richard-attias
+      role: executive
+    - person: david-rubenstein
+      role: member
+    - person: ray-dalio
+      role: member
+    - person: stephen-schwarzman
+      role: member
+  fmi:
+    file: agency/fmi.md
+    type: agency
+    founded: 1944
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: christine-lagarde
+      role: executive
+      from: 2011
+      to: 2019
+    - person: timothy-geithner
+      role: executive
+      from: 2001
+      to: 2003
+    - org: wef
+      role: partner
+    - org: banca-mondiale
+      role: partner
+  founders-fund:
+    type: privateequity
+    headquarters: San Francisco
+    status: active
+    stakeholders:
+    - person: peter-thiel
+      role: partner
+      from: 2005
+  gates-foundation:
+    type: foundation
+    founded: 2000
+    headquarters: Seattle
+    status: active
+    stakeholders:
+    - person: bill-gates
+      role: chairman
+      from: 2000
+    - person: warren-buffett
+      role: board
+      from: 2006
+      to: 2021
+  gavi:
+    type: agency
+    founded: 2000
+    headquarters: Ginevra
+    status: active
+    stakeholders:
+    - person: jose-barroso
+      role: chairman
+      from: 2021
+      note: Board Chair
+    - person: tedros-adhanom
+      role: board
+  gedi:
+    type: media
+    headquarters: Roma
+    status: active
+    stakeholders:
+    - person: john-elkann
+      role: owner
+      from: 2020
+  giving-pledge:
+    type: foundation
+    founded: 2010
+    headquarters: Seattle
+    status: active
+    stakeholders:
+    - person: warren-buffett
+      role: founder
+      from: 2010
+  global-fund:
+    type: agency
+    founded: 2002
+    headquarters: Ginevra
+    status: active
+    stakeholders:
+    - person: tedros-adhanom
+      role: chairman
+      from: 2009
+      to: 2011
+  goldman-sachs:
+    file: bank/goldman-sachs.md
+    type: bank
+    founded: 1869
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: robert-rubin
+      role: chairman
+      from: 1990
+      to: 1992
+    - person: mario-draghi
+      role: chairman
+      from: 2002
+      to: 2005
+    - person: jose-barroso
+      role: chairman
+      from: 2024
+      note: Chair International Advisors
+    - person: mario-monti
+      role: advisor
+      from: 2005
+      to: 2011
+    - person: romano-prodi
+      role: advisor
+    - org: norges-bank-gpfg
+      role: stake
+    - org: blackrock
+      role: stake
+      share: 0.065
+    - org: vanguard
+      role: stake
+      share: 0.075
+    - org: state-street
+      role: stake
+      share: 0.035
+    - org: federal-reserve
+      role: partner
+    - org: bce
+      role: partner
+  governo-belgio:
+    type: government
+    headquarters: Bruxelles
+    status: active
+    stakeholders:
+    - person: alexander-de-croo
+      role: leader
+      from: 2020
+      to: 2024
+  governo-canada:
+    type: government
+    headquarters: Ottawa
+    status: active
+    stakeholders:
+    - person: justin-trudeau
+      role: leader
+      from: 2015
+    - person: chrystia-freeland
+      role: leader
+      from: 2019
+    - person: chrystia-freeland
+      role: minister
+      from: 2020
+  governo-estonia:
+    type: government
+    headquarters: Tallinn
+    status: active
+    stakeholders:
+    - person: kaja-kallas
+      role: leader
+      from: 2021
+      to: 2024
+    - person: siim-kallas
+      role: leader
+      from: 2002
+      to: 2003
+  governo-etiopia:
+    type: government
+    headquarters: Addis Abeba
+    status: active
+    stakeholders:
+    - person: tedros-adhanom
+      role: minister
+      from: 2012
+      to: 2016
+  governo-finlandia:
+    type: government
+    headquarters: Helsinki
+    status: active
+    stakeholders:
+    - person: sanna-marin
+      role: leader
+      from: 2019
+      to: 2023
+    - person: alexander-stubb
+      role: leader
+      from: 2024
+  governo-francia:
+    type: government
+    headquarters: Parigi
+    status: active
+    stakeholders:
+    - person: emmanuel-macron
+      role: leader
+      from: 2017
+    - person: nicolas-sarkozy
+      role: leader
+      from: 2007
+      to: 2012
+    - person: francois-mitterrand
+      role: leader
+      from: 1981
+      to: 1995
+    - person: jacques-delors
+      role: minister
+      from: 1981
+      to: 1984
+  governo-germania:
+    type: government
+    headquarters: Berlino
+    status: active
+    stakeholders:
+    - person: angela-merkel
+      role: leader
+      from: 2005
+      to: 2021
+    - person: annalena-baerbock
+      role: minister
+      from: 2021
+    - person: helmut-kohl
+      role: leader
+      from: 1982
+      to: 1998
+    - person: ursula-von-der-leyen
+      role: minister
+      from: 2013
+      to: 2019
+  governo-irlanda:
+    type: government
+    headquarters: Dublino
+    status: active
+    stakeholders:
+    - person: leo-varadkar
+      role: leader
+      from: 2022
+      to: 2024
+  governo-italia:
+    type: government
+    headquarters: Roma
+    status: active
+    stakeholders:
+    - person: mario-draghi
+      role: leader
+      from: 2021
+      to: 2022
+    - person: mario-monti
+      role: leader
+      from: 2011
+      to: 2013
+    - person: romano-prodi
+      role: leader
+      from: 2006
+      to: 2008
+    - person: bettino-craxi
+      role: leader
+      from: 1983
+      to: 1987
+    - person: carlo-azeglio-ciampi
+      role: leader
+      from: 1993
+      to: 1994
+    - person: matteo-renzi
+      role: leader
+      from: 2014
+      to: 2016
+    - person: federica-mogherini
+      role: minister
+      from: 2014
+      to: 2014
+    - person: enzo-moavero-milanesi
+      role: minister
+      from: 2018
+      to: 2019
+  governo-lussemburgo:
+    type: government
+    headquarters: Lussemburgo
+    status: active
+    stakeholders:
+    - person: gaston-thorn
+      role: leader
+      from: 1974
+      to: 1979
+    - person: jacques-santer
+      role: leader
+      from: 1984
+      to: 1995
+    - person: jean-claude-juncker
+      role: minister
+      from: 1989
+      to: 2009
+    - person: jean-claude-juncker
+      role: leader
+      from: 1995
+      to: 2013
+  governo-norvegia:
+    type: government
+    headquarters: Oslo
+    status: active
+    stakeholders:
+    - person: gro-harlem-brundtland
+      role: minister
+      from: 1974
+      to: 1979
+    - person: gro-harlem-brundtland
+      role: leader
+      from: 1990
+      to: 1996
+    - person: borge-brende
+      role: minister
+      from: 2001
+      to: 2004
+  governo-nz:
+    type: government
+    headquarters: Wellington
+    status: active
+    stakeholders:
+    - person: jacinda-ardern
+      role: leader
+      from: 2017
+      to: 2023
+  governo-portogallo:
+    type: government
+    headquarters: Lisbona
+    status: active
+    stakeholders:
+    - person: jose-barroso
+      role: minister
+      from: 1992
+      to: 1995
+      note: Esteri
+    - person: jose-barroso
+      role: leader
+      from: 2002
+      to: 2004
+  governo-russia:
+    type: government
+    headquarters: Mosca
+    status: active
+    stakeholders:
+    - person: boris-yeltsin
+      role: leader
+      from: 1991
+      to: 1999
+  governo-uk:
+    type: government
+    headquarters: Londra
+    status: active
+    stakeholders:
+    - person: tony-blair
+      role: leader
+      from: 1997
+      to: 2007
+    - person: roy-jenkins
+      role: minister
+      from: 1967
+      to: 1970
+    - person: nick-clegg
+      role: leader
+      from: 2010
+      to: 2015
+  governo-urss:
+    type: government
+    headquarters: Mosca
+    status: active
+    stakeholders:
+    - person: mikhail-gorbachev
+      role: leader
+      from: 1985
+      to: 1991
+  governo-usa:
+    type: government
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: pete-buttigieg
+      role: minister
+      from: 2021
+    - person: john-mccloy
+      role: minister
+      from: 1941
+      to: 1945
+    - person: bill-clinton
+      role: leader
+      from: 1993
+      to: 2001
+    - person: george-w-bush
+      role: leader
+      from: 2001
+      to: 2009
+    - person: barack-obama
+      role: leader
+      from: 2009
+      to: 2017
+    - person: donald-trump
+      role: leader
+      from: 2025
+    - person: joe-biden
+      role: leader
+      from: 2021
+      to: 2025
+    - person: hillary-clinton
+      role: minister
+      from: 2009
+      to: 2013
+    - person: susan-rice
+      role: diplomat
+      from: 2009
+      to: 2013
+    - person: susan-rice
+      role: advisor
+      from: 2013
+      to: 2017
+    - person: larry-summers
+      role: advisor
+      from: 2009
+      to: 2010
+    - person: al-gore
+      role: leader
+      from: 1993
+      to: 2001
+  gruppo-30:
+    file: think-tank/gruppo-30.md
+    type: thinktank
+    founded: 1978
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: mario-draghi
+      role: member
+    - person: alan-greenspan
+      role: member
+    - person: timothy-geithner
+      role: member
+    - org: warburg-pincus
+      role: partner
+  harrods:
+    type: company
+    founded: 1849
+    headquarters: Londra
+    status: active
+    stakeholders:
+    - person: mohammed-al-sowaidi
+      role: board
+    - org: qia
+      role: subsidiary
+  heathrow-airport:
+    type: company
+    founded: 1946
+    headquarters: Londra
+    status: active
+    stakeholders:
+    - org: qia
+      role: stake
+      share: 0.2
+  hudson-institute:
+    type: thinktank
+    founded: 1961
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: herman-kahn
+      role: founder
+      from: 1961
+    - org: rand-corporation
+      role: partner
+  il-sole-24-ore:
+    type: media
+    founded: 1865
+    headquarters: Milano
+    status: active
+  ina:
+    type: company
+    headquarters: Roma
+    status: active
+    stakeholders:
+    - person: lorenzo-pallesi
+      role: executive
+  intesa-sanpaolo:
+    type: bank
+    founded: 2007
+    headquarters: Torino
+    status: active
+    stakeholders:
+    - person: giovanni-bazoli
+      role: executive
+  iri:
+    type: company
+    founded: 1933
+    headquarters: Roma
+    status: active
+    stakeholders:
+    - person: riccardo-gallo
+      role: leader
+  jinsa:
+    file: think-tank/jinsa.md
+    type: thinktank
+    founded: 1976
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: michael-makovsky
+      role: executive
+      from: 2013
+    - person: morris-amitay
+      role: leader
+      from: 1981
+  jpmorgan:
+    type: bank
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: jp-morgan
+      role: founder
+      from: 1871
+    - person: lewis-preston
+      role: executive
+      from: 1980
+      to: 1991
+  jpmorgan-chase:
+    file: bank/jpmorgan-chase.md
+    type: bank
+    founded: 2000
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: jamie-dimon
+      role: executive
+      from: 2005
+    - person: tony-blair
+      role: advisor
+      from: 2008
+    - org: norges-bank-gpfg
+      role: stake
+    - org: wef
+      role: partner
+    - org: blackrock
+      role: stake
+      share: 0.062
+    - org: vanguard
+      role: stake
+      share: 0.075
+    - org: state-street
+      role: stake
+      share: 0.035
+    - org: federal-reserve
+      role: partner
+  kissinger-associates:
+    type: company
+    founded: 1982
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: timothy-geithner
+      role: advisor
+      from: 1985
+      to: 1988
+    - person: brent-scowcroft
+      role: chairman
+      from: 1982
+      to: 1989
+    - person: lawrence-eagleburger
+      role: executive
+      from: 1984
+      to: 1989
+    - person: paul-bremer
+      role: advisor
+    - person: john-brennan
+      role: advisor
+    - person: bill-richardson
+      role: advisor
+    - person: lord-carrington
+      role: advisor
+      from: 1982
+    - person: eric-roll
+      role: advisor
+      from: 1984
+    - person: jami-miscik
+      role: executive
+    - person: henry-kissinger
+      role: founder
+      from: 1982
+      to: 2023
+    - person: henry-kissinger
+      role: chairman
+      from: 1982
+      to: 2023
+  kuhn-loeb:
+    type: bank
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: paul-warburg
+      role: partner
+      from: 1902
+      to: 1914
+  la-stampa:
+    file: media/la-stampa.md
+    type: media
+    founded: 1867
+    headquarters: Torino
+    status: active
+    stakeholders:
+    - person: gianni-agnelli
+      role: owner
+    - person: john-elkann
+      role: owner
+      from: 2016
+  lamborghini:
+    type: company
+    founded: 1963
+    headquarters: Sant'Agata Bolognese
+    status: active
+    stakeholders:
+    - org: volkswagen
+      role: subsidiary
+  lazard:
+    type: bank
+    founded: 1848
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: vernon-jordan
+      role: advisor
+      from: 2000
+  lehman-brothers:
+    type: bank
+    headquarters: New York
+    status: active
+  lilly-endowment:
+    type: foundation
+    founded: 1937
+    headquarters: Indianapolis
+    status: active
+    stakeholders:
+    - org: eli-lilly
+      role: stake
+      share: 0.107
+  mediaset:
+    type: media
+    founded: 1978
+    headquarters: Milano
+    status: active
+  meta:
+    type: company
+    headquarters: Menlo Park
+    status: active
+    sector: tech
+    stakeholders:
+    - person: mark-zuckerberg
+      role: founder
+      from: 2004
+    - person: mark-zuckerberg
+      role: executive
+      from: 2004
+    - person: nick-clegg
+      role: executive
+      from: 2022
+    - person: helle-thorning-schmidt
+      role: board
+    - org: norges-bank-gpfg
+      role: stake
+    - org: blackrock
+      role: stake
+      share: 0.063
+    - org: vanguard
+      role: stake
+      share: 0.078
+    - org: state-street
+      role: stake
+      share: 0.035
+  microsoft:
+    type: company
+    headquarters: Redmond
+    status: active
+    stakeholders:
+    - person: bill-gates
+      role: founder
+      from: 1975
+      to: 2000
+    - person: bill-gates
+      role: executive
+      from: 1975
+      to: 2000
+    - org: norges-bank-gpfg
+      role: stake
+      share: 0.011
+    - org: wef
+      role: partner
+    - org: blackrock
+      role: stake
+      share: 0.072
+    - org: vanguard
+      role: stake
+      share: 0.08
+    - org: state-street
+      role: stake
+      share: 0.035
+  morgan-stanley:
+    file: bank/morgan-stanley.md
+    type: bank
+    founded: 1935
+    headquarters: New York
+    status: active
+    stakeholders:
+    - org: norges-bank-gpfg
+      role: stake
+    - org: cfr
+      role: partner
+    - org: blackrock
+      role: stake
+      share: 0.068
+    - org: vanguard
+      role: stake
+      share: 0.08
+    - org: state-street
+      role: stake
+      share: 0.038
+  mubadala:
+    type: swf
+    founded: 2002
+    headquarters: Abu Dhabi
+    status: active
+    stakeholders:
+    - org: softbank
+      role: partner
+  nato:
+    file: agency/nato.md
+    type: agency
+    founded: 1949
+    headquarters: Bruxelles
+    status: active
+    stakeholders:
+    - person: lord-carrington
+      role: leader
+      from: 1984
+      to: 1988
+  norges-bank-gpfg:
+    file: swf/norges-bank-gpfg.md
+    type: swf
+    founded: 1990
+    headquarters: Oslo
+    status: active
+    aum: 1.9T
+    stakeholders:
+    - person: nicolai-tangen
+      role: executive
+      from: 2020
+    - person: yngve-slyngstad
+      role: executive
+      from: 2008
+      to: 2020
+  nsa:
+    type: agency
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: zbigniew-brzezinski
+      role: advisor
+      from: 1977
+      to: 1981
+    - person: brent-scowcroft
+      role: advisor
+      from: 1989
+      to: 1993
+    - person: condoleezza-rice
+      role: advisor
+      from: 2001
+      to: 2005
+    - person: henry-kissinger
+      role: advisor
+      from: 1969
+      to: 1975
+  nvidia:
+    type: company
+    headquarters: Santa Clara
+    status: active
+    sector: tech
+    stakeholders:
+    - org: norges-bank-gpfg
+      role: stake
+    - org: blackrock
+      role: stake
+      share: 0.068
+    - org: vanguard
+      role: stake
+      share: 0.075
+    - org: state-street
+      role: stake
+      share: 0.032
+  obama-foundation:
+    type: foundation
+    founded: 2014
+    headquarters: Chicago
+    status: active
+    stakeholders:
+    - person: barack-obama
+      role: founder
+      from: 2017
+  oms:
+    file: agency/oms.md
+    type: agency
+    founded: 1948
+    headquarters: Ginevra
+    status: active
+    stakeholders:
+    - person: tedros-adhanom
+      role: executive
+      from: 2017
+    - person: gro-harlem-brundtland
+      role: executive
+      from: 1998
+      to: 2003
+    - person: margaret-chan
+      role: executive
+      from: 2006
+      to: 2017
+  onu:
+    file: agency/onu.md
+    type: agency
+    founded: 1945
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: bill-richardson
+      role: diplomat
+      from: 1997
+      to: 1998
+    - person: zalmay-khalilzad
+      role: diplomat
+      from: 2007
+      to: 2009
+    - org: wef
+      role: partner
+  opec:
+    type: agency
+    headquarters: Vienna
+    status: active
+  open-society:
+    file: foundation/open-society.md
+    type: foundation
+    founded: 1993
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: george-soros
+      role: founder
+      from: 1993
+  openai:
+    type: company
+    founded: 2015
+    headquarters: San Francisco
+    status: active
+    sector: tech
+    stakeholders:
+    - person: sam-altman
+      role: executive
+      from: 2019
+    - org: softbank
+      role: stake
+    - org: stargate-project
+      role: partner
+  oracle:
+    type: company
+    founded: 1977
+    headquarters: Austin
+    status: active
+    sector: tech
+    stakeholders:
+    - person: larry-ellison
+      role: founder
+      from: 1977
+      to: 2014
+    - person: larry-ellison
+      role: executive
+      from: 1977
+      to: 2014
+    - person: larry-ellison
+      role: chairman
+      from: 2014
+    - person: safra-catz
+      role: executive
+      from: 2014
+    - org: stargate-project
+      role: partner
+  palantir:
+    type: company
+    headquarters: Denver
+    status: active
+    stakeholders:
+    - person: peter-thiel
+      role: founder
+      from: 2003
+  paypal:
+    type: company
+    headquarters: San Jose
+    status: active
+    stakeholders:
+    - person: elon-musk
+      role: founder
+      from: 1999
+      to: 2002
+    - person: peter-thiel
+      role: founder
+      from: 1998
+      to: 2002
+  paypal-mafia:
+    file: forum/paypal-mafia.md
+    type: forum
+    founded: 1998
+    headquarters: Silicon Valley
+    status: active
+  pif-saudi:
+    type: swf
+    founded: 1971
+    headquarters: Riyadh
+    status: active
+    stakeholders:
+    - person: yasir-al-rumayyan
+      role: executive
+      from: 2015
+    - person: mohammed-bin-salman
+      role: chairman
+      from: 2015
+    - org: softbank
+      role: partner
+  porsche-ag:
+    type: company
+    founded: 1931
+    headquarters: Stoccarda
+    status: active
+    stakeholders:
+    - person: oliver-blume
+      role: executive
+      from: 2015
+      to: 2025
+    - person: wolfgang-porsche
+      role: chairman
+    - person: ferdinand-porsche
+      role: founder
+      from: 1931
+    - org: volkswagen
+      role: subsidiary
+      share: 0.75
+  porsche-se:
+    type: company
+    founded: 2007
+    headquarters: Stoccarda
+    status: active
+    stakeholders:
+    - person: hans-dieter-poetsch
+      role: chairman
+    - person: ferdinand-piech
+      role: chairman
+      to: 2015
+    - person: wolfgang-porsche
+      role: chairman
+    - person: hans-michel-piech
+      role: board
+    - org: volkswagen
+      role: stake
+      share: 0.533
+    - org: porsche-ag
+      role: stake
+      share: 0.25
+  psg:
+    type: company
+    founded: 1970
+    headquarters: Parigi
+    status: active
+    stakeholders:
+    - person: nasser-al-khelaifi
+      role: executive
+      from: 2011
+    - org: qia
+      role: subsidiary
+  qatar-airways:
+    type: company
+    founded: 1993
+    headquarters: Doha
+    status: active
+    stakeholders:
+    - person: mohammed-al-sowaidi
+      role: board
+    - org: qia
+      role: subsidiary
+  qia:
+    file: swf/qatar-investment-authority.md
+    type: swf
+    founded: 2005
+    headquarters: Doha
+    status: active
+    aum: 525B
+    stakeholders:
+    - person: mohammed-al-sowaidi
+      role: executive
+      from: 2024
+    - person: mansoor-al-mahmoud
+      role: executive
+      from: 2022
+      to: 2024
+    - person: nasser-al-khelaifi
+      role: board
+    - person: hassan-al-thawadi
+      role: board
+      from: 2020
+    - org: volkswagen
+      role: stake
+      share: 0.17
+  qnb:
+    type: bank
+    founded: 1964
+    headquarters: Doha
+    status: active
+    stakeholders:
+    - person: mohammed-al-sowaidi
+      role: board
+    - org: qia
+      role: subsidiary
+  rai:
+    type: media
+    founded: 1954
+    headquarters: Roma
+    status: active
+  rand-corporation:
+    file: think-tank/rand-corporation.md
+    type: thinktank
+    founded: 1948
+    headquarters: Santa Monica
+    status: active
+    stakeholders:
+    - person: donald-rumsfeld
+      role: chairman
+      from: 1995
+      to: 1996
+    - person: condoleezza-rice
+      role: board
+      from: 1991
+      to: 1997
+    - person: albert-wohlstetter
+      role: advisor
+    - person: herman-kahn
+      role: advisor
+    - person: daniel-ellsberg
+      role: advisor
+      from: 1958
+      to: 1971
+    - person: zalmay-khalilzad
+      role: advisor
+    - person: jason-matheny
+      role: executive
+      from: 2022
+  rcs-mediagroup:
+    type: media
+    headquarters: Milano
+    status: active
+  repubblica:
+    file: media/repubblica.md
+    type: media
+    founded: 1976
+    headquarters: Roma
+    status: active
+    stakeholders:
+    - person: john-elkann
+      role: owner
+      from: 2020
+  reuters:
+    type: media
+    founded: 1851
+    headquarters: Londra
+    status: active
+  rockefeller-foundation:
+    file: foundation/rockefeller-foundation.md
+    type: foundation
+    founded: 1913
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: robert-mcnamara
+      role: board
+  rothschild-cie:
+    type: bank
+    headquarters: Parigi
+    status: active
+    stakeholders:
+    - person: emmanuel-macron
+      role: employee
+      from: 2008
+      to: 2012
+  rothschild-co:
+    type: bank
+    headquarters: Parigi/Londra
+    status: active
+    stakeholders:
+    - person: david-de-rothschild-fr
+      role: chairman
+  saudi-aramco:
+    type: company
+    headquarters: Arabia Saudita
+    status: active
+    stakeholders:
+    - person: yasir-al-rumayyan
+      role: chairman
+      from: 2019
+  seagram:
+    type: company
+    founded: 1857
+    headquarters: Montreal
+    status: active
+    stakeholders:
+    - person: edgar-bronfman-sr
+      role: executive
+      from: 1971
+      to: 1994
+  seat:
+    type: company
+    founded: 1950
+    headquarters: Martorell
+    status: active
+    stakeholders:
+    - org: volkswagen
+      role: subsidiary
+  sg-warburg:
+    type: bank
+    founded: 1946
+    headquarters: Londra
+    status: active
+    stakeholders:
+    - person: eric-roll
+      role: chairman
+      from: 1974
+      to: 1987
+    - org: kissinger-associates
+      role: partner
+  skoda:
+    type: company
+    founded: 1895
+    headquarters: Mlada Boleslav
+    status: active
+    stakeholders:
+    - org: volkswagen
+      role: subsidiary
+  softbank:
+    file: agency/softbank.md
+    type: agency
+    founded: 1981
+    headquarters: Tokyo
+    status: active
+    sector: tech
+    stakeholders:
+    - person: yasir-al-rumayyan
+      role: board
+      from: 2017
+      to: 2020
+    - person: masayoshi-son
+      role: founder
+      from: 1981
+    - person: masayoshi-son
+      role: executive
+      from: 1981
+    - org: stargate-project
+      role: partner
+  spacex:
+    type: company
+    headquarters: Hawthorne
+    status: active
+    stakeholders:
+    - person: elon-musk
+      role: founder
+      from: 2002
+    - person: elon-musk
+      role: executive
+      from: 2002
+  stargate-project:
+    type: company
+    founded: 2025
+    headquarters: USA
+    status: active
+    sector: tech
+    stakeholders:
+    - person: larry-ellison
+      role: partner
+      from: 2025
+    - person: sam-altman
+      role: partner
+      from: 2025
+    - person: masayoshi-son
+      role: chairman
+      from: 2025
+  state-street:
+    file: asset-manager/state-street.md
+    type: assetmanager
+    founded: 1792
+    headquarters: Boston
+    status: active
+    aum: 5.4T
+    stakeholders:
+    - org: goldman-sachs
+      role: stake
+      share: 0.035
+    - org: jpmorgan-chase
+      role: stake
+      share: 0.035
+    - org: morgan-stanley
+      role: stake
+      share: 0.038
+    - org: blackrock
+      role: stake
+      share: 0.055
+    - org: vanguard
+      role: stake
+      share: 0.09
+    - org: berkshire-hathaway
+      role: stake
+      share: 0.035
+    - org: eli-lilly
+      role: stake
+      share: 0.03
+    - org: walmart
+      role: stake
+      share: 0.023
+  stellantis:
+    type: company
+    headquarters: Amsterdam
+    status: active
+    stakeholders:
+    - person: john-elkann
+      role: chairman
+      from: 2021
+  telecom-italia:
+    type: company
+    headquarters: Milano
+    status: active
+    stakeholders:
+    - person: franco-bernabe
+      role: executive
+      from: 1998
+      to: 1999
+  tesla:
+    type: company
+    headquarters: Austin
+    status: active
+    sector: tech
+    stakeholders:
+    - person: elon-musk
+      role: executive
+      from: 2008
+    - person: larry-ellison
+      role: board
+      from: 2018
+      to: 2022
+    - org: norges-bank-gpfg
+      role: stake
+    - org: blackrock
+      role: stake
+      share: 0.058
+    - org: vanguard
+      role: stake
+      share: 0.065
+    - org: state-street
+      role: stake
+      share: 0.028
+  tesoro-italia:
+    type: government
+    headquarters: Roma
+    status: active
+    stakeholders:
+    - person: beniamino-andreatta
+      role: minister
+      from: 1992
+      to: 1993
+    - person: guido-carli
+      role: minister
+      from: 1989
+      to: 1992
+  tesoro-usa:
+    type: government
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: robert-rubin
+      role: minister
+      from: 1995
+      to: 1999
+    - person: timothy-geithner
+      role: minister
+      from: 2009
+      to: 2013
+    - person: larry-summers
+      role: minister
+      from: 1999
+      to: 2001
+    - org: banca-mondiale
+      role: partner
+  the-elders:
+    type: forum
+    founded: 2007
+    headquarters: Londra
+    status: active
+    stakeholders:
+    - person: gro-harlem-brundtland
+      role: chairman
+  tiktok-usa:
+    type: company
+    founded: 2025
+    headquarters: USA
+    status: active
+    sector: tech
+    stakeholders:
+    - person: larry-ellison
+      role: shareholder
+      from: 2025
+  tony-blair-institute:
+    type: thinktank
+    founded: 2016
+    headquarters: Londra
+    status: active
+    stakeholders:
+    - person: sanna-marin
+      role: advisor
+      from: 2023
+    - person: matteo-renzi
+      role: advisor
+    - person: patrick-vallance
+      role: advisor
+    - person: nick-carter
+      role: advisor
+  trilaterale:
+    file: forum/bilderberg-trilaterale.md
+    type: forum
+    founded: 1973
+    headquarters: Washington/Tokyo/Paris
+    status: active
+    stakeholders:
+    - person: zbigniew-brzezinski
+      role: founder
+      from: 1973
+    - person: zbigniew-brzezinski
+      role: executive
+      from: 1973
+      note: Director
+    - person: larry-fink
+      role: member
+    - person: christine-lagarde
+      role: member
+    - person: mario-monti
+      role: chairman
+      from: 2010
+      note: Europa
+    - person: gianni-agnelli
+      role: member
+    - person: robert-mcnamara
+      role: member
+    - person: bill-clinton
+      role: member
+    - person: alan-greenspan
+      role: member
+      from: 1973
+    - person: timothy-geithner
+      role: member
+    - person: gro-harlem-brundtland
+      role: member
+    - person: david-rockefeller
+      role: founder
+      from: 1973
+    - person: david-rockefeller
+      role: chairman
+      from: 1973
+    - person: henry-kissinger
+      role: steering
+    - org: bilderberg
+      role: partner
+    - org: cfr
+      role: partner
+  tsmc:
+    type: company
+    founded: 1987
+    headquarters: Hsinchu
+    status: active
+    sector: tech
+    stakeholders:
+    - person: morris-chang
+      role: founder
+      from: 1987
+    - person: morris-chang
+      role: chairman
+      from: 1987
+      to: 2018
+    - person: cc-wei
+      role: executive
+      from: 2018
+    - org: blackrock
+      role: stake
+      share: 0.062
+    - org: vanguard
+      role: stake
+      share: 0.03
+    - org: state-street
+      role: stake
+      share: 0.02
+  uber:
+    type: company
+    founded: 2009
+    headquarters: San Francisco
+    status: active
+    sector: tech
+  vanguard:
+    file: asset-manager/vanguard.md
+    type: assetmanager
+    founded: 1975
+    headquarters: Pennsylvania
+    status: active
+    aum: 11.6T
+    stakeholders:
+    - org: goldman-sachs
+      role: stake
+      share: 0.075
+    - org: jpmorgan-chase
+      role: stake
+      share: 0.075
+    - org: morgan-stanley
+      role: stake
+      share: 0.08
+    - org: blackrock
+      role: stake
+      share: 0.085
+    - org: state-street
+      role: stake
+      share: 0.09
+    - org: berkshire-hathaway
+      role: stake
+      share: 0.1
+    - org: eli-lilly
+      role: stake
+      share: 0.082
+    - org: walmart
+      role: stake
+      share: 0.054
+  volkswagen:
+    file: company/volkswagen.md
+    type: company
+    founded: 1937
+    headquarters: Wolfsburg
+    status: active
+    sector: auto
+    stakeholders:
+    - person: mohammed-al-sowaidi
+      role: board
+    - person: oliver-blume
+      role: executive
+      from: 2022
+    - person: hans-dieter-poetsch
+      role: chairman
+      from: 2015
+    - person: hans-dieter-poetsch
+      role: board
+      from: 2003
+      to: 2015
+    - person: martin-winterkorn
+      role: executive
+      from: 2007
+      to: 2015
+    - person: herbert-diess
+      role: executive
+      from: 2018
+      to: 2022
+    - person: ferdinand-piech
+      role: executive
+      from: 1993
+      to: 2002
+    - person: ferdinand-piech
+      role: chairman
+      from: 2002
+      to: 2015
+    - person: wolfgang-porsche
+      role: board
+    - person: hans-michel-piech
+      role: board
+    - person: stephan-weil
+      role: board
+      from: 2013
+      to: 2025
+    - person: olaf-lies
+      role: board
+      from: 2025
+    - org: qia
+      role: stake
+      share: 0.17
+    - org: porsche-se
+      role: subsidiary
+      share: 0.533
+    - org: porsche-ag
+      role: stake
+      share: 0.75
+    - org: bassa-sassonia
+      role: stake
+      share: 0.2
+  walmart:
+    type: company
+    founded: 1962
+    headquarters: Bentonville
+    status: active
+    sector: consumer
+    stakeholders:
+    - person: doug-mcmillon
+      role: executive
+      from: 2014
+    - org: blackrock
+      role: stake
+      share: 0.036
+    - org: vanguard
+      role: stake
+      share: 0.054
+    - org: state-street
+      role: stake
+      share: 0.023
+    - org: walton-enterprises
+      role: subsidiary
+      share: 0.46
+  walton-enterprises:
+    type: company
+    headquarters: Bentonville
+    status: active
+    stakeholders:
+    - org: walmart
+      role: stake
+      share: 0.46
+  warburg-pincus:
+    file: private-equity/warburg-pincus.md
+    type: privateequity
+    founded: 1966
+    headquarters: New York
+    status: active
+    aum: 87B
+    stakeholders:
+    - person: timothy-geithner
+      role: chairman
+      from: 2023
+    - person: timothy-geithner
+      role: executive
+      from: 2014
+      to: 2023
+    - org: cfr
+      role: partner
+  washington-post:
+    type: media
+    founded: 1877
+    headquarters: Washington
+    status: active
+    stakeholders:
+    - person: jeff-bezos
+      role: owner
+      from: 2013
+    - person: warren-buffett
+      role: board
+      from: 1974
+      to: 2011
+  wef:
+    file: forum/wef.md
+    type: forum
+    founded: 1971
+    headquarters: Ginevra
+    status: active
+    stakeholders:
+    - person: klaus-schwab
+      role: founder
+      from: 1971
+    - person: klaus-schwab
+      role: chairman
+      from: 1971
+    - person: george-soros
+      role: member
+    - person: larry-fink
+      role: chairman
+    - person: mario-draghi
+      role: member
+    - person: jose-barroso
+      role: glt
+      from: 1993
+      note: Global Leader for Tomorrow
+    - person: mario-monti
+      role: member
+    - person: tony-blair
+      role: glt
+      from: 1992
+    - person: angela-merkel
+      role: glt
+      from: 1992
+    - person: emmanuel-macron
+      role: ygl
+      from: 2016
+    - person: justin-trudeau
+      role: ygl
+      from: 2005
+    - person: jacinda-ardern
+      role: ygl
+      from: 2014
+    - person: mark-zuckerberg
+      role: ygl
+      from: 2009
+    - person: bill-gates
+      role: member
+    - person: peter-thiel
+      role: ygl
+      from: 2007
+    - person: sergey-brin
+      role: ygl
+      from: 2005
+    - person: larry-page
+      role: glt
+      from: 2002
+    - person: sanna-marin
+      role: ygl
+      from: 2020
+    - person: pete-buttigieg
+      role: ygl
+      from: 2019
+    - person: annalena-baerbock
+      role: ygl
+      from: 2020
+    - person: chrystia-freeland
+      role: glt
+      from: 2001
+    - person: nicolas-sarkozy
+      role: glt
+      from: 1992
+    - person: leo-varadkar
+      role: ygl
+      from: 2014
+    - person: alexander-de-croo
+      role: ygl
+      from: 2015
+    - person: tedros-adhanom
+      role: member
+    - person: borge-brende
+      role: executive
+      from: 2017
+    - person: jean-claude-juncker
+      role: ygl
+      from: 1995
+    - person: ursula-von-der-leyen
+      role: member
+    - person: matteo-renzi
+      role: ygl
+      from: 2012
+    - person: al-gore
+      role: glt
+    - org: bilderberg
+      role: partner
+    - org: fmi
+      role: partner
+    - org: qia
+      role: partner
+  wells-fargo:
+    type: bank
+    headquarters: San Francisco
+    status: active
+    sector: finance
+  wework:
+    type: company
+    founded: 2010
+    headquarters: New York
+    status: active
+    sector: consumer
+  white-house:
+    type: government
+    headquarters: Washington
+    status: active
+  world-jewish-congress:
+    file: forum/world-jewish-congress.md
+    type: forum
+    founded: 1936
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: ronald-lauder
+      role: executive
+      from: 2007
+    - person: david-de-rothschild-fr
+      role: chairman
+    - person: stephen-wise
+      role: founder
+      from: 1936
+      to: 1949
+    - person: stephen-wise
+      role: chairman
+      from: 1936
+      to: 1949
+    - person: nahum-goldmann
+      role: founder
+      from: 1936
+    - person: nahum-goldmann
+      role: executive
+      from: 1949
+      to: 1977
+    - person: edgar-bronfman-sr
+      role: executive
+      from: 1981
+      to: 2007
+  world-jewish-restitution-org:
+    type: thinktank
+    founded: 1993
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: ronald-lauder
+      role: executive
+      from: 2008
+  x-twitter:
+    type: company
+    headquarters: San Francisco
+    status: active
+    stakeholders:
+    - person: elon-musk
+      role: owner
+      from: 2022
+    - person: larry-ellison
+      role: shareholder
+      from: 2022
+  young-global-leaders:
+    file: forum/young-global-leaders.md
+    type: forum
+    founded: 1992
+    status: active

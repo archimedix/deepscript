@@ -1,0 +1,389 @@
+# DeepScript - Schema v2
+# Consolidated enums and configuration
+# All field names and enum values in English
+# Generated: 2025-12-06
+
+meta:
+  version: 2
+  updated: 2025-12-06
+  source_files:
+    - persone.yaml
+    - istituzioni.yaml
+    - media.yaml
+    - eventi.yaml
+    - famiglie.yaml
+
+# =============================================================================
+# NODE TYPES
+# =============================================================================
+
+node_types:
+  - Person
+  - Organization    # with sub-labels
+  - Family
+  - Event
+
+# Organization sub-labels
+org_sublabels:
+  - Forum           # Bilderberg, Trilateral, WEF, CFR
+  - Company         # Corporate, holding
+  - Bank            # Commercial + investment banks
+  - CentralBank     # Fed, ECB, BoE
+  - AssetManager    # BlackRock, Vanguard
+  - PrivateEquity   # KKR, Carlyle, Blackstone
+  - HedgeFund       # Bridgewater, Soros Fund
+  - SWF             # Sovereign wealth funds
+  - Government      # National executives
+  - Foundation      # Rockefeller, Gates, Open Society
+  - ThinkTank       # Brookings, ISPI, Aspen
+  - University      # Harvard, Oxford, Bocconi
+  - Agency          # UN, IMF, NATO, EU Commission
+  - Media           # News, TV, agency
+
+# =============================================================================
+# ENUMS
+# =============================================================================
+
+enums:
+  # ---------------------------------------------------------------------------
+  # Person -> Person relation types
+  # ---------------------------------------------------------------------------
+  person_relation_types:
+    - mentor        # direction: mentor -> mentee (note: "protege" for inverse)
+    - associate     # note: "rival", "successor", "business partner"
+    - spouse        # note: "ex", "partner"
+    - family        # note: "father", "son", "brother", "sister"
+    - friend
+
+  # ---------------------------------------------------------------------------
+  # Affiliation roles (Person -> Organization)
+  # ---------------------------------------------------------------------------
+  affiliation_roles:
+    # Government (6 roles)
+    - leader        # note: "President", "PM", "Governor", "Mayor", "King"
+    - minister      # note: "Finance", "Defense", "Deputy", "Secretary of State"
+    - legislator    # note: "Senator", "MP", "Speaker", "Representative"
+    - judge         # note: "Chief Justice", "Constitutional Court"
+    - diplomat      # note: "Ambassador to UN", "Consul Milan"
+    - official      # note: "CIA Director", "Army Chief", "DG Treasury"
+
+    # Company (8 roles)
+    - founder       # note: "co-founder"
+    - executive     # note: "CEO", "CFO", "COO", "CTO", "President"
+    - chairman      # note: "Vice", "Executive Chairman"
+    - board         # note: "Independent", "Non-executive"
+    - partner       # note: "Managing Partner", "Senior Partner"
+    - shareholder   # note: "51%", "Controlling", "Majority"
+    - advisor       # note: "Senior", "Legal Counsel", "Consultant"
+    - employee      # note: operational roles
+
+    # Forum / ThinkTank (5 roles)
+    # founder, chairman, board (reused from above)
+    - fellow        # note: "Senior Fellow", "Trustee"
+    - member        # note: "Participant", "Speaker"
+    - steering      # steering committee
+
+    # University (5 roles)
+    # founder (reused)
+    - president     # note: "Rector", "Chancellor", "Provost"
+    - professor     # note: "Dean", "Associate", "Researcher"
+    - alumnus       # note: "Fellow", "MBA 1985"
+    - trustee
+
+    # Foundation (4 roles)
+    # founder, chairman, trustee (reused)
+    - grantee
+
+    # Media (5 roles)
+    # founder, chairman (reused)
+    - owner
+    - editor        # note: "Editor-in-Chief", "Columnist"
+    - journalist    # note: "Anchor", "Correspondent"
+
+    # Agency (4 roles)
+    # leader, diplomat, official (reused)
+    - commissioner  # note: "Representative", "Board Member"
+
+    # WEF-specific
+    - ygl           # Young Global Leader (post-2004)
+    - glt           # Global Leader for Tomorrow (1993-2003)
+
+  # ---------------------------------------------------------------------------
+  # Stake roles (Organization -> Organization)
+  # ---------------------------------------------------------------------------
+  stake_roles:
+    - stake         # use `share` for %, note: "majority", "minority", "controlling"
+    - subsidiary    # note: "affiliate"
+    - parent
+    - joint-venture
+    - partner       # strategic alliance
+
+  # ---------------------------------------------------------------------------
+  # Family roles (Person -> Family)
+  # ---------------------------------------------------------------------------
+  family_roles:
+    - patriarch     # note: "matriarch"
+    - heir          # note: "heir-apparent"
+    - member
+    - married-in    # note: "divorced-out"
+
+  # ---------------------------------------------------------------------------
+  # Event types
+  # ---------------------------------------------------------------------------
+  event_types:
+    # Political
+    - election      # note: "referendum", "impeachment"
+    - coup          # note: "revolution", "assassination"
+
+    # Economic
+    - crisis        # note: "default", "bankruptcy"
+    - bailout       # note: "restructuring"
+    - deal          # note: "IPO", "merger", "acquisition"
+
+    # Diplomatic
+    - summit        # note: "conference", "annual-meeting"
+    - treaty        # note: "alliance", "ceasefire"
+    - sanctions
+    - war
+
+    # Institutional
+    - reform        # note: "founding", "dissolution"
+
+    # Scandal
+    - scandal       # note: "investigation", "trial", "resignation"
+
+  # ---------------------------------------------------------------------------
+  # Event participation roles (Person -> Event)
+  # ---------------------------------------------------------------------------
+  event_participation_roles:
+    - organizer     # note: "host", "initiator"
+    - speaker       # note: "negotiator", "leader"
+    - signatory
+    - participant   # note: "attendee", "observer", "witness"
+    - affected      # note: "winner", "loser", "victim", "beneficiary"
+
+  # ---------------------------------------------------------------------------
+  # Event involvement roles (Org -> Event)
+  # ---------------------------------------------------------------------------
+  event_involvement_roles:
+    - organizer     # note: "host", "sponsor"
+    - participant
+    - signatory
+    - affected      # note: "target", "victim", "beneficiary"
+    - regulator
+    - creditor      # note: "debtor"
+
+  # ---------------------------------------------------------------------------
+  # Sectors (for Company)
+  # ---------------------------------------------------------------------------
+  sectors:
+    - finance       # note: "banking", "insurance", "asset-management"
+    - tech          # note: "software", "hardware", "telecom", "semiconductor"
+    - energy        # note: "oil-gas", "utilities", "renewables"
+    - industry      # note: "automotive", "aerospace", "defense", "manufacturing"
+    - consumer      # note: "retail", "luxury", "food-beverage"
+    - healthcare    # note: "pharma"
+    - services      # note: "consulting", "legal", "real-estate"
+    - media         # note: "entertainment"
+
+  # ---------------------------------------------------------------------------
+  # Media types (for Media sub-label)
+  # ---------------------------------------------------------------------------
+  media_types:
+    - newspaper
+    - tv            # note: "radio"
+    - agency
+    - digital
+    - group         # media conglomerate
+
+  # ---------------------------------------------------------------------------
+  # Organization status
+  # ---------------------------------------------------------------------------
+  org_status:
+    - active
+    - defunct
+    - merged
+
+# =============================================================================
+# FIELD MAPPING (Italian -> English)
+# =============================================================================
+
+field_mapping:
+  # Person fields
+  nato: born
+  morto: died
+  naz: nationality
+  nota: note
+  famiglia: family
+
+  # Organization fields
+  fondato: founded
+  sede: headquarters
+  tipo: type
+
+  # Affiliation/Stake fields
+  dal: from
+  al: to
+  ruolo: role
+  percentuale: share
+  persona: person
+  org: org
+
+  # Family fields
+  origine: origin
+  fondatore: founder
+  settore_originario: sector
+  generazioni: generations
+
+  # Event fields
+  anno: year
+  mese: month
+  luogo: location
+  attori: actors
+  risultato: outcome
+
+# =============================================================================
+# TYPE MAPPING (tipo -> sub-label)
+# =============================================================================
+
+type_mapping:
+  # Forums
+  forum: Forum
+  network: Forum
+  programma: Forum
+
+  # Banks
+  bank: Bank
+  investment-bank: Bank
+  central-bank: CentralBank
+
+  # Asset management
+  asset-manager: AssetManager
+  private-equity: PrivateEquity
+  hedge-fund: HedgeFund
+  sovereign-wealth-fund: SWF
+  venture-capital: PrivateEquity
+
+  # Corporations
+  corporate: Company
+  corporation: Company
+  holding: Company
+  tech: Company
+  oil: Company
+  auto: Company
+  telecom: Company
+  retail: Company
+  moto: Company
+  assicurazioni: Company
+  airline: Company
+  infrastruttura: Company
+  joint-venture: Company
+
+  # Government & Agencies
+  governo: Government
+  agenzia: Agency
+  organizzazione-internazionale: Agency
+  istituzione-ue: Agency
+  alleanza-militare: Agency
+  istituzione-finanziaria: Agency
+  cartello: Agency
+
+  # Other orgs
+  fondazione: Foundation
+  think-tank: ThinkTank
+  universita: University
+  advocacy: ThinkTank
+  lobby: ThinkTank
+  consulenza: Company
+
+  # Media
+  testata: Media
+  gruppo: Media
+  broadcaster: Media
+
+# =============================================================================
+# ROLE MAPPING (ruolo -> role)
+# =============================================================================
+
+role_mapping:
+  # Compound roles -> split
+  ceo-fondatore: [founder, executive]
+  fondatore-ceo: [founder, executive]
+  fondatore-chairman: [founder, chairman]
+  fondatore-direttore: [founder, executive]
+  fondatore-rettore: [founder, president]
+  fondatore-editore: [founder, editor]
+
+  # Government roles
+  capo-governo: leader
+  capo-stato: leader
+  ministro: minister
+  vice-presidente: leader
+  governatore: leader
+  commissario: commissioner
+  senatore: legislator
+  ambasciatore: diplomat
+  segretario-generale: leader
+  consigliere: advisor
+
+  # Corporate roles
+  ceo: executive
+  chairman: chairman
+  co-chairman: chairman
+  vice-chairman: chairman
+  executive-chairman: chairman
+  presidente: executive
+  board: board
+  partner: partner
+  senior-advisor: advisor
+  advisor: advisor
+  banchiere: employee
+  proprietario: owner
+  direttore: executive
+  co-fondatore: founder
+  fondatore: founder
+
+  # Forum/ThinkTank roles
+  steering: steering
+  membro: member
+  partecipante: member
+  co-chair: chairman
+
+  # WEF specific
+  ygl: ygl
+  glt: glt
+
+  # University roles
+  rettore: president
+  docente: professor
+  alumnus: alumnus
+
+  # Media roles
+  editore: editor
+  caporedattore: editor
+  editorialista: editor
+  inviato: journalist
+  conduttore: journalist
+
+  # Stakeholder roles (org -> org)
+  holding: stake
+  controllata: subsidiary
+  cliente: partner
+
+# =============================================================================
+# VALIDATION
+# =============================================================================
+
+validation:
+  required_person_fields:
+    - id
+  required_org_fields:
+    - id
+    - type
+  required_family_fields:
+    - id
+    - origin
+  required_event_fields:
+    - id
+    - year
+    - type
