@@ -1,89 +1,97 @@
-# Template: Media
-
-Usa questo template per creare schede su testate giornalistiche, gruppi editoriali, broadcaster, agenzie stampa.
-
----
-
 # [Nome Testata/Gruppo]
 
-> [Tagline: una frase che cattura l'essenza e l'influenza]
+> [Tagline: essenza e influenza]
 
 ## Executive Summary
 
 | Campo | Valore |
 |-------|--------|
-| Tipo | testata / gruppo / broadcaster / agenzia |
-| Fondazione | Anno |
-| Sede | Citta' |
-| Proprietario attuale | Nome / Gruppo |
-| Direttore attuale | Nome (dal anno) |
-| Orientamento | [se dichiarato o evidente] |
-| Diffusione/Audience | [tiratura, share, reach] |
+| **Tipo** | testata / gruppo / broadcaster / agenzia |
+| **Fondazione** | [anno] |
+| **Sede** | [citta'] |
+| **Proprietario** | [nome/gruppo] |
+| **Direttore** | [nome] (dal [anno]) |
+| **Diffusione/Audience** | [tiratura, share, reach] |
+| **Status** | [active/defunct] |
+
+---
 
 ## Proprieta' - Storia
 
-[Cronologia dei passaggi di proprieta', acquisizioni, fusioni]
-
 | Periodo | Proprietario | Note |
 |---------|--------------|------|
-| Anno-Anno | Nome | Contesto acquisizione |
+| [anni] | [nome] | [contesto acquisizione] |
+
+---
 
 ## Direttori Storici
 
 | Periodo | Direttore | Note |
 |---------|-----------|------|
-| Anno-Anno | Nome | Eventi chiave, linea editoriale |
+| [anni] | [nome] | [linea editoriale] |
 
-## Figure Chiave del Giornalismo
+---
 
-[Giornalisti, editorialisti, conduttori che hanno segnato la storia della testata]
+## Figure Chiave
 
-- **Nome** (periodo): contributo, ruolo, influenza
-- **Nome** (periodo): contributo, ruolo, influenza
+| Nome | Periodo | Ruolo | Influenza |
+|------|---------|-------|-----------|
+| [nome] | [anni] | [ruolo] | [contributo] |
 
-## Orientamento Politico
-
-[Solo se dichiarato esplicitamente o chiaramente documentabile]
-- Linea editoriale storica
-- Eventuali cambiamenti nel tempo
-- Posizioni su temi chiave
+---
 
 ## Connessioni PowerLink
 
-[CRITICO: Collegare sempre ad altre entita' del progetto]
-
 ### Proprieta' e Controllo
-- Collegamenti con famiglie/dinastie
-- Partecipazioni incrociate
-- Gruppi di controllo
 
-### Persone in Comune
-- Presenza in board di forum/istituzioni
-- Partecipazioni Bilderberg, WEF, etc.
-- Revolving door giornalismo-politica
+| Entita' | Relazione |
+|---------|-----------|
+| [famiglia/gruppo](../[tipo]/[id].md) | [tipo controllo] |
 
-### Gruppi Collegati
-- Altre testate dello stesso gruppo
-- Alleanze editoriali
+### Persone in Forum
+
+| Persona | Forum | Ruolo |
+|---------|-------|-------|
+| [nome](../persons/[id].md) | [Bilderberg/WEF/etc.] | [ruolo] |
+
+### Testate Collegate
+
+| Testata | Relazione |
+|---------|-----------|
+| [nome](../media/[id].md) | [stesso gruppo/alleanza] |
+
+---
 
 ## Eventi Significativi
 
-[Momenti che hanno definito la testata: scoop, campagne, controversie]
-
 | Anno | Evento | Impatto |
 |------|--------|---------|
-| Anno | Descrizione | Conseguenze |
+| [anno] | [descrizione] | [conseguenze] |
+
+---
 
 ## Influenza e Potere
 
-- Ruolo nel dibattito pubblico
-- Capacita' di agenda setting
-- Rapporti con il potere politico/economico
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Agenda setting** | [capacita'] |
+| **Rapporti politici** | [descrizione] |
+| **Rapporti economici** | [descrizione] |
+
+---
 
 ## Domande Aperte
 
-[Cosa non sappiamo ancora, cosa investigare]
+- [ ] [domanda su proprieta'/controllo]
+- [ ] [domanda su influenza]
+
+---
 
 ## Fonti
 
-[Sempre includere: sito ufficiale, studi accademici, inchieste giornalistiche]
+- [Sito ufficiale](https://...)
+- [Wikipedia - Nome](https://en.wikipedia.org/wiki/[nome])
+
+---
+
+*Ultimo aggiornamento: [Mese Anno]*

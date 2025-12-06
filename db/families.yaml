@@ -67,3 +67,22 @@ families:
     status: active
     members:
     - person: paul-warburg
+  windsor:
+    origin: UK
+    founder: George V
+    sector: monarchia
+    generations: 5
+    status: active
+    members:
+    - person: charles-iii
+      generation: 4
+      role: head
+    - person: elizabeth-ii
+      generation: 3
+      role: head
+    - person: philip-edinburgh
+      generation: 3
+      role: consort
+    - person: william-wales
+      generation: 5
+      role: heir

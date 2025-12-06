@@ -849,6 +849,21 @@ organizations:
       role: official
       from: 2002
       to: 2005
+  commonwealth:
+    type: agency
+    founded: 1931
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: charles-iii
+      role: leader
+      from: 2022
+      note: Head of the Commonwealth
+    - person: elizabeth-ii
+      role: leader
+      from: 1952
+      to: 2022
+      note: Head of the Commonwealth
   conference-of-presidents:
     type: forum
     founded: 1956
@@ -2678,6 +2693,10 @@ organizations:
     - person: federica-mogherini
       role: member
       note: Agenda Contributor
+    - person: charles-iii
+      role: founder
+      from: 2020
+      note: Great Reset Initiative co-founder
     - org: bilderberg
       role: partner
     - org: fmi
@@ -2738,6 +2757,21 @@ organizations:
     - person: ronald-lauder
       role: executive
       from: 2008
+  wwf:
+    type: foundation
+    founded: 1961
+    headquarters: Gland, Switzerland
+    status: active
+    stakeholders:
+    - person: charles-iii
+      role: chairman
+      from: 2011
+      note: President WWF-UK
+    - person: philip-edinburgh
+      role: founder
+      from: 1961
+      to: 2021
+      note: Co-fondatore, President UK 1961-82, International President 1981-96
   x-twitter:
     type: company
     headquarters: San Francisco

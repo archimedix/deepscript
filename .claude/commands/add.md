@@ -31,6 +31,12 @@ MATCH (p:Person {id: 'nome-id'}) RETURN p
 
 // Per organizzazione
 MATCH (o:Organization {id: 'nome-id'}) RETURN o, labels(o)
+
+// Per famiglia
+MATCH (f:Family {id: 'nome-id'}) RETURN f
+
+// Per evento
+MATCH (e:Event {id: 'nome-id'}) RETURN e
 ```
 
 Controlla se esiste gia' la scheda in `docs/`.
@@ -88,29 +94,47 @@ SET f.origin = 'USA',
     f.status = 'active'
 ```
 
+**Event:**
+```cypher
+MERGE (e:Event {id: 'nome-id'})
+SET e.year = 2008,
+    e.type = 'crisis',
+    e.location = 'USA'
+```
+
 ### 4. Crea scheda markdown
 
-Path deterministico: `docs/{cartella}/{id}.md`
+**IMPORTANTE:** Leggi il template corrispondente e usalo come base per la scheda.
 
-| Tipo | Cartella |
-|------|----------|
-| person | `docs/persons/` |
-| family | `docs/family/` |
-| event | `docs/events/` |
-| org:Forum | `docs/forum/` |
-| org:Bank | `docs/bank/` |
-| org:CentralBank | `docs/central-bank/` |
-| org:AssetManager | `docs/asset-manager/` |
-| org:PrivateEquity | `docs/private-equity/` |
-| org:SWF | `docs/swf/` |
-| org:Government | `docs/government/` |
-| org:Foundation | `docs/foundation/` |
-| org:ThinkTank | `docs/think-tank/` |
-| org:Company | `docs/company/` |
-| org:Agency | `docs/agency/` |
-| org:Media | `docs/media/` |
+| Tipo | Template | Cartella output |
+|------|----------|-----------------|
+| person | `templates/person.md` | `docs/persons/` |
+| family | `templates/family.md` | `docs/family/` |
+| event | `templates/event.md` | `docs/events/` |
+| org | `templates/org.md` | vedi tabella sub-label |
+| org:Media | `templates/media.md` | `docs/media/` |
 
-Template: `templates/<tipo>.md`
+**Sub-label Organization → Cartella:**
+
+| Sub-label | Cartella |
+|-----------|----------|
+| Forum | `docs/forum/` |
+| Bank | `docs/bank/` |
+| CentralBank | `docs/central-bank/` |
+| AssetManager | `docs/asset-manager/` |
+| PrivateEquity | `docs/private-equity/` |
+| SWF | `docs/swf/` |
+| Government | `docs/government/` |
+| Foundation | `docs/foundation/` |
+| ThinkTank | `docs/think-tank/` |
+| Company | `docs/company/` |
+| Agency | `docs/agency/` |
+| Media | `docs/media/` |
+
+**Workflow scheda:**
+1. Leggi il template: `Read templates/{tipo}.md`
+2. Compila con i dati raccolti dalla ricerca
+3. Scrivi in `docs/{cartella}/{id}.md`
 
 Stile: dati verificabili, fonti citate, no speculazioni.
 
@@ -162,23 +186,6 @@ SET o:Company, o.status = 'active'
 - Stub creati
 
 ---
-
-## Reference: Sub-labels e Cartelle
-
-| Sub-label | Cartella | Esempi |
-|-----------|----------|--------|
-| Forum | docs/forum/ | Bilderberg, WEF, Trilaterale |
-| Bank | docs/bank/ | Goldman Sachs, JPMorgan |
-| CentralBank | docs/central-bank/ | Fed, BCE, BIS |
-| AssetManager | docs/asset-manager/ | BlackRock, Vanguard |
-| PrivateEquity | docs/private-equity/ | Warburg Pincus, Carlyle |
-| SWF | docs/swf/ | GPFG, QIA, PIF |
-| Government | docs/government/ | governo-usa, governo-italia |
-| Foundation | docs/foundation/ | Gates Foundation, Open Society |
-| ThinkTank | docs/think-tank/ | CFR, Rand, Aspen |
-| Company | docs/company/ | Apple, Tesla |
-| Agency | docs/agency/ | FMI, ONU, NATO |
-| Media | docs/media/ | Washington Post, Economist |
 
 ## Reference: Role Mapping
 

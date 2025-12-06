@@ -242,6 +242,22 @@ persons:
     - org: tsmc
       role: executive
       from: 2018
+  charles-iii:
+    born: 1948
+    nationality: GBR
+    affiliations:
+    - org: wef
+      role: founder
+      from: 2020
+      note: Great Reset Initiative co-founder
+    - org: wwf
+      role: chairman
+      from: 2011
+      note: President WWF-UK
+    - org: commonwealth
+      role: leader
+      from: 2022
+      note: Head of the Commonwealth
   charlie-munger:
     born: 1924
     died: 2023
@@ -384,6 +400,16 @@ persons:
       role: executive
       from: 1971
       to: 1994
+  elizabeth-ii:
+    born: 1926
+    died: 2022
+    nationality: GBR
+    affiliations:
+    - org: commonwealth
+      role: leader
+      from: 1952
+      to: 2022
+      note: Head of the Commonwealth
   elon-musk:
     born: 1971
     nationality: USA
@@ -1642,6 +1668,16 @@ persons:
     - org: founders-fund
       role: partner
       from: 2005
+  philip-edinburgh:
+    born: 1921
+    died: 2021
+    nationality: GBR
+    affiliations:
+    - org: wwf
+      role: founder
+      from: 1961
+      to: 2021
+      note: Co-fondatore, President UK 1961-82, International President 1981-96
   ray-dalio:
     born: 1949
     nationality: USA
@@ -2045,6 +2081,9 @@ persons:
       role: board
       from: 1974
       to: 2011
+  william-wales:
+    born: 1982
+    nationality: GBR
   wolfgang-porsche:
     born: 1943
     nationality: DEU
