@@ -114,7 +114,34 @@ Template: `templates/<tipo>.md`
 
 Stile: dati verificabili, fonti citate, no speculazioni.
 
-### 5. Crea stub per entita' referenziate
+### 5. Evita proliferazione di Organization
+
+**IMPORTANTE:** Prima di creare una nuova Organization, verifica se puoi usare un'org esistente con un ruolo appropriato.
+
+**Regola generale:** Usa il campo `note` per specificare dettagli, non creare nuove org.
+
+| NON creare | USA invece | Ruolo | Note |
+|------------|------------|-------|------|
+| camera-deputati-italia | governo-italia | legislator | "Deputato" |
+| senato-italia | governo-italia | legislator | "Senatore" |
+| congresso-usa | governo-usa | legislator | "Representative", "Senator" |
+| casa-bianca | governo-usa | leader/advisor | "NSA", "Chief of Staff" |
+| tesoro-usa | governo-usa | minister | "Secretary of Treasury" |
+| pentagono | governo-usa | minister | "Secretary of Defense" |
+| farnesina | governo-italia | minister | "Min. Esteri" |
+| nato-pa | nato | member | "Assemblea Parlamentare" |
+| fed-board | federal-reserve | board | "Governor", "Vice Chair" |
+
+**Quando creare una nuova org:**
+- Forum/network transnazionali (Bilderberg, Trilateral, WEF)
+- Banche e istituzioni finanziarie specifiche
+- Aziende
+- Think tank e fondazioni con identita' propria
+- Agenzie internazionali (NATO, ONU, FMI, UE)
+
+**Consulta `db/schema.yaml`** per l'elenco completo dei ruoli disponibili (affiliation_roles).
+
+### 6. Crea stub per entita' referenziate
 
 Per ogni org/person referenziata che non esiste:
 ```cypher
@@ -127,7 +154,7 @@ MERGE (o:Organization {id: 'ref-id'})
 SET o:Company, o.status = 'active'
 ```
 
-### 6. Report
+### 7. Report
 
 - Nodo creato/aggiornato (Person/Organization/Family/Event)
 - Relazioni create (AFFILIATED_WITH, MEMBER_OF, STAKE_IN)

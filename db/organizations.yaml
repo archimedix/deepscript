@@ -1,6 +1,5 @@
 organizations:
   adl:
-    file: think-tank/adl.md
     type: thinktank
     founded: 1913
     headquarters: New York
@@ -10,7 +9,6 @@ organizations:
       role: executive
       from: 2015
   aipac:
-    file: think-tank/aipac.md
     type: thinktank
     founded: 1963
     headquarters: Washington
@@ -129,7 +127,6 @@ organizations:
     headquarters: Roma
     status: active
   apple:
-    file: company/apple.md
     type: company
     founded: 1976
     headquarters: Cupertino
@@ -185,7 +182,6 @@ organizations:
       role: subsidiary
       share: 0.9
   aspen-institute:
-    file: think-tank/aspen-institute.md
     type: thinktank
     founded: 1950
     headquarters: Washington
@@ -201,6 +197,14 @@ organizations:
       role: chairman
     - org: trilaterale
       role: partner
+  aspen-romania:
+    type: thinktank
+    headquarters: Bucarest, Romania
+    status: active
+    stakeholders:
+    - person: federica-mogherini
+      role: member
+      note: Speaker
   audi:
     type: company
     founded: 1909
@@ -235,7 +239,6 @@ organizations:
     - org: bis
       role: partner
   banca-mondiale:
-    file: agency/banca-mondiale.md
     type: agency
     founded: 1944
     headquarters: Washington
@@ -329,7 +332,6 @@ organizations:
       role: stake
       share: 0.2
   bce:
-    file: central-bank/bce.md
     type: centralbank
     founded: 1998
     headquarters: Francoforte
@@ -382,7 +384,6 @@ organizations:
       role: stake
       share: 0.035
   bilderberg:
-    file: forum/bilderberg-trilaterale.md
     type: forum
     founded: 1954
     headquarters: variabile
@@ -451,7 +452,6 @@ organizations:
     - person: michael-makovsky
       role: executive
   bis:
-    file: central-bank/bis.md
     type: centralbank
     founded: 1930
     headquarters: Basilea
@@ -460,7 +460,6 @@ organizations:
     - org: bce
       role: partner
   blackrock:
-    file: asset-manager/blackrock.md
     type: assetmanager
     founded: 1988
     headquarters: New York
@@ -602,7 +601,6 @@ organizations:
       from: 1974
       to: 1977
   cfr:
-    file: think-tank/cfr.md
     type: thinktank
     founded: 1921
     headquarters: New York
@@ -735,7 +733,6 @@ organizations:
       role: stake
       share: 0.093
   collegio-europa:
-    file: think-tank/collegio-europa.md
     type: thinktank
     founded: 1949
     headquarters: Bruges
@@ -858,7 +855,6 @@ organizations:
     headquarters: New York
     status: active
   corriere-della-sera:
-    file: media/corriere-della-sera.md
     type: media
     founded: 1876
     headquarters: Milano
@@ -991,7 +987,6 @@ organizations:
       role: stake
       share: 0.04
   federal-reserve:
-    file: central-bank/federal-reserve.md
     type: centralbank
     founded: 1913
     headquarters: Washington
@@ -1055,7 +1050,6 @@ organizations:
     - person: stephen-schwarzman
       role: member
   fmi:
-    file: agency/fmi.md
     type: agency
     founded: 1944
     headquarters: Washington
@@ -1134,7 +1128,6 @@ organizations:
       from: 2009
       to: 2011
   goldman-sachs:
-    file: bank/goldman-sachs.md
     type: bank
     founded: 1869
     headquarters: New York
@@ -1312,6 +1305,11 @@ organizations:
       role: minister
       from: 2014
       to: 2014
+    - person: federica-mogherini
+      role: legislator
+      from: 2008
+      to: 2014
+      note: Deputata XVI-XVII legislatura
     - person: enzo-moavero-milanesi
       role: minister
       from: 2018
@@ -1464,7 +1462,6 @@ organizations:
       from: 1993
       to: 2001
   gruppo-30:
-    file: think-tank/gruppo-30.md
     type: thinktank
     founded: 1978
     headquarters: Washington
@@ -1536,8 +1533,12 @@ organizations:
     stakeholders:
     - person: riccardo-gallo
       role: leader
+  ispi:
+    type: thinktank
+    founded: 1934
+    headquarters: Milano, Italia
+    status: active
   jinsa:
-    file: think-tank/jinsa.md
     type: thinktank
     founded: 1976
     headquarters: Washington
@@ -1562,7 +1563,6 @@ organizations:
       from: 1980
       to: 1991
   jpmorgan-chase:
-    file: bank/jpmorgan-chase.md
     type: bank
     founded: 2000
     headquarters: New York
@@ -1639,7 +1639,6 @@ organizations:
       from: 1902
       to: 1914
   la-stampa:
-    file: media/la-stampa.md
     type: media
     founded: 1867
     headquarters: Torino
@@ -1741,7 +1740,6 @@ organizations:
       role: stake
       share: 0.035
   morgan-stanley:
-    file: bank/morgan-stanley.md
     type: bank
     founded: 1935
     headquarters: New York
@@ -1769,7 +1767,6 @@ organizations:
     - org: softbank
       role: partner
   nato:
-    file: agency/nato.md
     type: agency
     founded: 1949
     headquarters: Bruxelles
@@ -1779,8 +1776,12 @@ organizations:
       role: leader
       from: 1984
       to: 1988
+    - person: federica-mogherini
+      role: member
+      from: 2013
+      to: 2014
+      note: Presidente Delegazione Italiana, Assemblea Parlamentare
   norges-bank-gpfg:
-    file: swf/norges-bank-gpfg.md
     type: swf
     founded: 1990
     headquarters: Oslo
@@ -1842,7 +1843,6 @@ organizations:
       role: founder
       from: 2017
   oms:
-    file: agency/oms.md
     type: agency
     founded: 1948
     headquarters: Ginevra
@@ -1860,7 +1860,6 @@ organizations:
       from: 2006
       to: 2017
   onu:
-    file: agency/onu.md
     type: agency
     founded: 1945
     headquarters: New York
@@ -1881,7 +1880,6 @@ organizations:
     headquarters: Vienna
     status: active
   open-society:
-    file: foundation/open-society.md
     type: foundation
     founded: 1993
     headquarters: New York
@@ -1949,7 +1947,6 @@ organizations:
       from: 1998
       to: 2002
   paypal-mafia:
-    file: forum/paypal-mafia.md
     type: forum
     founded: 1998
     headquarters: Silicon Valley
@@ -2029,7 +2026,6 @@ organizations:
     - org: qia
       role: subsidiary
   qia:
-    file: swf/qatar-investment-authority.md
     type: swf
     founded: 2005
     headquarters: Doha
@@ -2067,7 +2063,6 @@ organizations:
     headquarters: Roma
     status: active
   rand-corporation:
-    file: think-tank/rand-corporation.md
     type: thinktank
     founded: 1948
     headquarters: Santa Monica
@@ -2099,7 +2094,6 @@ organizations:
     headquarters: Milano
     status: active
   repubblica:
-    file: media/repubblica.md
     type: media
     founded: 1976
     headquarters: Roma
@@ -2114,7 +2108,6 @@ organizations:
     headquarters: Londra
     status: active
   rockefeller-foundation:
-    file: foundation/rockefeller-foundation.md
     type: foundation
     founded: 1913
     headquarters: New York
@@ -2185,7 +2178,6 @@ organizations:
     - org: volkswagen
       role: subsidiary
   softbank:
-    file: agency/softbank.md
     type: agency
     founded: 1981
     headquarters: Tokyo
@@ -2232,7 +2224,6 @@ organizations:
       role: chairman
       from: 2025
   state-street:
-    file: asset-manager/state-street.md
     type: assetmanager
     founded: 1792
     headquarters: Boston
@@ -2370,7 +2361,6 @@ organizations:
     - person: nick-carter
       role: advisor
   trilaterale:
-    file: forum/bilderberg-trilaterale.md
     type: forum
     founded: 1973
     headquarters: Washington/Tokyo/Paris
@@ -2449,7 +2439,6 @@ organizations:
     status: active
     sector: tech
   vanguard:
-    file: asset-manager/vanguard.md
     type: assetmanager
     founded: 1975
     headquarters: Pennsylvania
@@ -2481,7 +2470,6 @@ organizations:
       role: stake
       share: 0.054
   volkswagen:
-    file: company/volkswagen.md
     type: company
     founded: 1937
     headquarters: Wolfsburg
@@ -2570,7 +2558,6 @@ organizations:
       role: stake
       share: 0.46
   warburg-pincus:
-    file: private-equity/warburg-pincus.md
     type: privateequity
     founded: 1966
     headquarters: New York
@@ -2600,7 +2587,6 @@ organizations:
       from: 1974
       to: 2011
   wef:
-    file: forum/wef.md
     type: forum
     founded: 1971
     headquarters: Ginevra
@@ -2689,6 +2675,9 @@ organizations:
       from: 2012
     - person: al-gore
       role: glt
+    - person: federica-mogherini
+      role: member
+      note: Agenda Contributor
     - org: bilderberg
       role: partner
     - org: fmi
@@ -2711,7 +2700,6 @@ organizations:
     headquarters: Washington
     status: active
   world-jewish-congress:
-    file: forum/world-jewish-congress.md
     type: forum
     founded: 1936
     headquarters: New York
@@ -2762,7 +2750,6 @@ organizations:
       role: shareholder
       from: 2022
   young-global-leaders:
-    file: forum/young-global-leaders.md
     type: forum
     founded: 1992
     status: active

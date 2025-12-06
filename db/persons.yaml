@@ -16,7 +16,6 @@ persons:
       from: 1993
       to: 2001
   alan-greenspan:
-    file: persons/alan-greenspan.md
     born: 1926
     nationality: USA
     affiliations:
@@ -70,7 +69,6 @@ persons:
       role: leader
       from: 2024
   angela-merkel:
-    file: persons/angela-merkel.md
     born: 1954
     nationality: DEU
     affiliations:
@@ -103,7 +101,6 @@ persons:
       role: chairman
       from: 2011
   barack-obama:
-    file: persons/barack-obama.md
     born: 1961
     nationality: USA
     affiliations:
@@ -140,7 +137,6 @@ persons:
       from: 1983
       to: 1987
   bill-clinton:
-    file: persons/bill-clinton.md
     born: 1946
     nationality: USA
     affiliations:
@@ -159,7 +155,6 @@ persons:
       role: founder
       from: 2001
   bill-gates:
-    file: persons/bill-gates.md
     born: 1955
     nationality: USA
     affiliations:
@@ -257,7 +252,6 @@ persons:
       from: 1978
       to: 2023
   christine-lagarde:
-    file: persons/christine-lagarde.md
     born: 1956
     nationality: FRA
     affiliations:
@@ -317,7 +311,6 @@ persons:
     - org: rothschild-co
       role: chairman
   david-rockefeller:
-    file: persons/david-rockefeller.md
     born: 1915
     died: 2017
     nationality: USA
@@ -392,7 +385,6 @@ persons:
       from: 1971
       to: 1994
   elon-musk:
-    file: persons/elon-musk.md
     born: 1971
     nationality: USA
     affiliations:
@@ -413,7 +405,6 @@ persons:
       from: 1999
       to: 2002
   emmanuel-macron:
-    file: persons/emmanuel-macron.md
     born: 1977
     nationality: FRA
     affiliations:
@@ -473,18 +464,34 @@ persons:
     born: 1973
     nationality: ITA
     affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor
     - org: collegio-europa
       role: president
       from: 2020
       to: 2025
+    - org: nato
+      role: member
+      from: 2013
+      to: 2014
+      note: Presidente Delegazione Italiana, Assemblea Parlamentare
     - org: governo-italia
       role: minister
       from: 2014
       to: 2014
+    - org: governo-italia
+      role: legislator
+      from: 2008
+      to: 2014
+      note: Deputata XVI-XVII legislatura
     - org: commissione-ue
       role: leader
       from: 2014
       to: 2019
+    - org: aspen-romania
+      role: member
+      note: Speaker
   ferdinand-piech:
     born: 1937
     died: 2019
@@ -579,7 +586,6 @@ persons:
     nationality: USA
     note: Governatore California
   george-soros:
-    file: persons/george-soros.md
     born: 1930
     nationality: USA
     affiliations:
@@ -598,7 +604,6 @@ persons:
       from: 2001
       to: 2009
   gianni-agnelli:
-    file: persons/gianni-agnelli.md
     born: 1921
     died: 2003
     nationality: ITA
@@ -632,7 +637,6 @@ persons:
       role: chairman
       from: 2018
   gro-harlem-brundtland:
-    file: persons/gro-harlem-brundtland.md
     born: 1939
     nationality: NOR
     affiliations:
@@ -731,7 +735,6 @@ persons:
       from: 1950
       to: 1972
   henry-kissinger:
-    file: persons/henry-kissinger.md
     born: 1923
     died: 2023
     nationality: USA
@@ -816,7 +819,6 @@ persons:
       from: 1954
       to: 1974
   jacinda-ardern:
-    file: persons/jacinda-ardern.md
     born: 1980
     nationality: NZL
     affiliations:
@@ -876,7 +878,6 @@ persons:
     - org: kissinger-associates
       role: executive
   jamie-dimon:
-    file: persons/jamie-dimon.md
     born: 1956
     nationality: USA
     affiliations:
@@ -900,7 +901,6 @@ persons:
       role: executive
       from: 2022
   jean-claude-juncker:
-    file: persons/jean-claude-juncker.md
     born: 1954
     nationality: LUX
     affiliations:
@@ -937,7 +937,6 @@ persons:
       from: 1967
       to: 1970
   jeff-bezos:
-    file: persons/jeff-bezos.md
     born: 1964
     nationality: USA
     affiliations:
@@ -962,7 +961,6 @@ persons:
       role: owner
       from: 2013
   jerome-powell:
-    file: persons/jerome-powell.md
     born: 1953
     nationality: USA
     affiliations:
@@ -1001,7 +999,6 @@ persons:
     nationality: USA
     family: rockefeller
   john-elkann:
-    file: persons/john-elkann.md
     born: 1976
     nationality: ITA
     family: agnelli-elkann
@@ -1065,7 +1062,6 @@ persons:
       from: 2002
       to: 2005
   jose-barroso:
-    file: persons/jose-barroso.md
     born: 1956
     nationality: PRT
     note: Da maoista a Presidente Commissione UE a Goldman Sachs - archetipo revolving door
@@ -1098,7 +1094,6 @@ persons:
       from: 2021
       note: Board Chair
   jp-morgan:
-    file: persons/jp-morgan.md
     born: 1837
     died: 1913
     nationality: USA
@@ -1108,7 +1103,6 @@ persons:
       role: founder
       from: 1871
   justin-trudeau:
-    file: persons/justin-trudeau.md
     born: 1971
     nationality: CAN
     affiliations:
@@ -1119,7 +1113,6 @@ persons:
       role: leader
       from: 2015
   kaja-kallas:
-    file: persons/kaja-kallas.md
     born: 1977
     nationality: EST
     affiliations:
@@ -1133,7 +1126,6 @@ persons:
       role: leader
       from: 2024
   klaus-schwab:
-    file: persons/klaus-schwab.md
     born: 1938
     nationality: DEU
     affiliations:
@@ -1146,7 +1138,6 @@ persons:
       role: chairman
       from: 1971
   larry-ellison:
-    file: persons/larry-ellison.md
     born: 1944
     nationality: USA
     affiliations:
@@ -1175,7 +1166,6 @@ persons:
       role: shareholder
       from: 2025
   larry-fink:
-    file: persons/larry-fink.md
     born: 1952
     nationality: USA
     affiliations:
@@ -1301,7 +1291,6 @@ persons:
       role: leader
       from: 2019
   mario-draghi:
-    file: persons/mario-draghi.md
     born: 1947
     nationality: ITA
     affiliations:
@@ -1328,7 +1317,6 @@ persons:
       from: 2006
       to: 2011
   mario-monti:
-    file: persons/mario-monti.md
     born: 1943
     nationality: ITA
     affiliations:
@@ -1355,7 +1343,6 @@ persons:
       from: 1995
       to: 2004
   mark-zuckerberg:
-    file: persons/mark-zuckerberg.md
     born: 1984
     nationality: USA
     affiliations:
@@ -1388,7 +1375,6 @@ persons:
       from: 2002
       to: 2007
   masayoshi-son:
-    file: persons/masayoshi-son.md
     born: 1957
     nationality: JPN
     affiliations:
@@ -1405,7 +1391,6 @@ persons:
       role: chairman
       from: 2025
   matteo-renzi:
-    file: persons/matteo-renzi.md
     born: 1975
     nationality: ITA
     affiliations:
@@ -1592,7 +1577,6 @@ persons:
     - org: kissinger-associates
       role: advisor
   paul-warburg:
-    file: persons/paul-warburg.md
     born: 1868
     died: 1932
     nationality: USA
@@ -1639,7 +1623,6 @@ persons:
     - org: fii-saudi
       role: board
   peter-thiel:
-    file: persons/peter-thiel.md
     born: 1967
     nationality: USA
     affiliations:
@@ -1715,7 +1698,6 @@ persons:
       from: 1961
       to: 1968
   robert-rubin:
-    file: persons/robert-rubin.md
     born: 1938
     nationality: USA
     affiliations:
@@ -1733,7 +1715,6 @@ persons:
       role: advisor
       from: 1999
   romano-prodi:
-    file: persons/romano-prodi.md
     born: 1939
     nationality: ITA
     affiliations:
@@ -1932,7 +1913,6 @@ persons:
       role: board
       from: 2014
   tedros-adhanom:
-    file: persons/tedros-adhanom.md
     born: 1965
     nationality: ETH
     affiliations:
@@ -1959,7 +1939,6 @@ persons:
       role: executive
       from: 2011
   timothy-geithner:
-    file: persons/timothy-geithner.md
     born: 1961
     nationality: USA
     affiliations:
@@ -1998,7 +1977,6 @@ persons:
       from: 1985
       to: 1988
   tony-blair:
-    file: persons/tony-blair.md
     born: 1953
     nationality: GBR
     affiliations:
@@ -2013,7 +1991,6 @@ persons:
       from: 1997
       to: 2007
   ursula-von-der-leyen:
-    file: persons/ursula-von-der-leyen.md
     born: 1958
     nationality: DEU
     affiliations:
@@ -2050,7 +2027,6 @@ persons:
       from: 1958
       to: 1967
   warren-buffett:
-    file: persons/warren-buffett.md
     born: 1930
     nationality: USA
     affiliations:
@@ -2113,7 +2089,6 @@ persons:
     - org: rand-corporation
       role: advisor
   zbigniew-brzezinski:
-    file: persons/zbigniew-brzezinski.md
     born: 1928
     died: 2017
     nationality: USA
