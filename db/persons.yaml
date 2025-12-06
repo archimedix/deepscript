@@ -900,10 +900,28 @@ persons:
     family: wallenberg
     affiliations:
     - org: bilderberg
-      role: steering
+      role: member
       from: 1990
-      note: 17+ partecipazioni
+      note: 17 partecipazioni
+    - org: coca-cola
+      role: board
+      note: Former
+    - org: seb
+      role: chairman
+      from: 1998
+      to: 2005
+      note: CEO 1997, Vice Chairman 2005-2014
+    - org: ericsson
+      role: board
+      note: Vice Chairman
+    - org: abb
+      role: board
+      note: Vice Chairman
     - org: trilateral-commission
+      role: member
+    - org: nasdaq
+      role: board
+    - org: ert
       role: member
   jacob-wallenberg-1892:
     born: 1892
@@ -1371,6 +1389,10 @@ persons:
     born: 1956
     nationality: SWE
     family: wallenberg
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Chairman SEB, Chair Saab
   marcus-wallenberg-jr:
     born: 1899
     died: 1982
@@ -1382,6 +1404,31 @@ persons:
       from: 1954
       to: 1981
       note: 22 partecipazioni
+    - org: seb
+      role: executive
+      from: 1946
+      to: 1958
+      note: CEO, poi Vice Chair 1958-69, Chair 1969-76
+    - org: ericsson
+      role: chairman
+      from: 1953
+      to: 1977
+      note: Mr. Ericsson - 45 anni in board
+    - org: saab
+      role: board
+      note: Sviluppo caccia Saab
+    - org: atlas-copco
+      role: chairman
+      from: 1945
+      note: Ristrutturazione verso compressori
+    - org: sas
+      role: chairman
+    - org: icc
+      role: chairman
+      from: 1965
+      to: 1967
+    - org: nobel-foundation
+      role: board
   marcus-wallenberg-sr:
     born: 1864
     died: 1943
@@ -1780,6 +1827,22 @@ persons:
     died: 1947
     nationality: SWE
     family: wallenberg
+    affiliations:
+    - org: governo-svezia
+      role: diplomat
+      from: 1944
+      to: 1945
+      note: Legazione Svezia Budapest
+    - org: war-refugee-board
+      role: operative
+      from: 1944
+      to: 1945
+      note: Reclutato da Iver Olsen
+    - org: oss
+      role: asset
+      from: 1944
+      to: 1945
+      note: Connessione via Olsen, status controverso
   ray-dalio:
     born: 1949
     nationality: USA

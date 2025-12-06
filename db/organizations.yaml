@@ -6,6 +6,9 @@ organizations:
     status: active
     sector: engineering
     stakeholders:
+    - person: jacob-wallenberg
+      role: board
+      note: Vice Chairman
     - org: investor-ab
       role: major-shareholder
   adl:
@@ -221,6 +224,10 @@ organizations:
     status: active
     sector: industrial
     stakeholders:
+    - person: marcus-wallenberg-jr
+      role: chairman
+      from: 1945
+      note: Ristrutturazione verso compressori
     - org: investor-ab
       role: major-shareholder
   audi:
@@ -466,9 +473,12 @@ organizations:
       to: 1981
       note: 22 partecipazioni
     - person: jacob-wallenberg
-      role: steering
+      role: member
       from: 1990
-      note: 17+ partecipazioni
+      note: 17 partecipazioni
+    - person: marcus-wallenberg
+      role: steering
+      note: Chairman SEB, Chair Saab
     - person: david-rockefeller
       role: steering
     - person: henry-kissinger
@@ -761,6 +771,9 @@ organizations:
     status: active
     sector: consumer
     stakeholders:
+    - person: jacob-wallenberg
+      role: board
+      note: Former
     - org: berkshire-hathaway
       role: stake
       share: 0.093
@@ -952,6 +965,11 @@ organizations:
     - person: john-elkann
       role: chairman
       from: 2009
+  electrolux:
+    type: company
+    founded: 1919
+    headquarters: Stockholm, Sweden
+    status: active
   eli-lilly:
     type: company
     founded: 1876
@@ -992,8 +1010,24 @@ organizations:
     status: active
     sector: telecom
     stakeholders:
+    - person: marcus-wallenberg-jr
+      role: chairman
+      from: 1953
+      to: 1977
+      note: Mr. Ericsson - 45 anni in board
+    - person: jacob-wallenberg
+      role: board
+      note: Vice Chairman
     - org: investor-ab
       role: major-shareholder
+  ert:
+    type: forum
+    founded: 1983
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: jacob-wallenberg
+      role: member
   estee-lauder:
     type: company
     founded: 1946
@@ -1450,6 +1484,16 @@ organizations:
       role: leader
       from: 1991
       to: 1999
+  governo-svezia:
+    type: government
+    headquarters: Stockholm, Sweden
+    status: active
+    stakeholders:
+    - person: raoul-wallenberg
+      role: diplomat
+      from: 1944
+      to: 1945
+      note: Legazione Svezia Budapest
   governo-uk:
     type: government
     headquarters: Londra
@@ -1571,6 +1615,16 @@ organizations:
       from: 1961
     - org: rand-corporation
       role: partner
+  icc:
+    type: forum
+    founded: 1919
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: marcus-wallenberg-jr
+      role: chairman
+      from: 1965
+      to: 1967
   ig-farben:
     type: company
     founded: 1925
@@ -1860,6 +1914,15 @@ organizations:
     stakeholders:
     - org: softbank
       role: partner
+  nasdaq:
+    type: company
+    founded: 1971
+    headquarters: New York, USA
+    status: active
+    sector: exchange
+    stakeholders:
+    - person: jacob-wallenberg
+      role: board
   nato:
     type: agency
     founded: 1949
@@ -1875,6 +1938,14 @@ organizations:
       from: 2013
       to: 2014
       note: Presidente Delegazione Italiana, Assemblea Parlamentare
+  nobel-foundation:
+    type: foundation
+    founded: 1900
+    headquarters: Stockholm, Sweden
+    status: active
+    stakeholders:
+    - person: marcus-wallenberg-jr
+      role: board
   norges-bank-gpfg:
     type: swf
     founded: 1990
@@ -2019,6 +2090,17 @@ organizations:
       from: 2014
     - org: stargate-project
       role: partner
+  oss:
+    type: agency
+    founded: 1942
+    headquarters: Washington, USA
+    status: defunct
+    stakeholders:
+    - person: raoul-wallenberg
+      role: asset
+      from: 1944
+      to: 1945
+      note: Connessione via Olsen, status controverso
   palantir:
     type: company
     headquarters: Denver
@@ -2232,8 +2314,20 @@ organizations:
     status: active
     sector: defense
     stakeholders:
+    - person: marcus-wallenberg-jr
+      role: board
+      note: Sviluppo caccia Saab
     - org: investor-ab
       role: major-shareholder
+  sas:
+    type: company
+    founded: 1946
+    headquarters: Stockholm, Sweden
+    status: active
+    sector: airline
+    stakeholders:
+    - person: marcus-wallenberg-jr
+      role: chairman
   saudi-aramco:
     type: company
     headquarters: Arabia Saudita
@@ -2269,6 +2363,16 @@ organizations:
     - person: andre-oscar-wallenberg
       role: founder
       from: 1856
+    - person: marcus-wallenberg-jr
+      role: executive
+      from: 1946
+      to: 1958
+      note: CEO, poi Vice Chair 1958-69, Chair 1969-76
+    - person: jacob-wallenberg
+      role: chairman
+      from: 1998
+      to: 2005
+      note: CEO 1997, Vice Chairman 2005-2014
     - org: investor-ab
       role: major-shareholder
   sg-warburg:
@@ -2679,6 +2783,17 @@ organizations:
     - org: walmart
       role: stake
       share: 0.46
+  war-refugee-board:
+    type: agency
+    founded: 1944
+    headquarters: Washington, USA
+    status: defunct
+    stakeholders:
+    - person: raoul-wallenberg
+      role: operative
+      from: 1944
+      to: 1945
+      note: Reclutato da Iver Olsen
   warburg-pincus:
     type: privateequity
     founded: 1966
