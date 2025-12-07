@@ -114,6 +114,18 @@ persons:
     - org: seb
       role: founder
       from: 1856
+  andrew-boyd:
+    nationality: USA
+    note: Ex-CIA Cyber Intelligence director, REDLattice board
+    affiliations:
+    - org: cia
+      role: executive
+      from: 2020
+      to: 2023
+      note: Center for Cyber Intelligence
+    - org: redlattice
+      role: board
+      from: 2023
   angela-merkel:
     born: 1954
     nationality: DEU
@@ -191,6 +203,24 @@ persons:
     born: 1894
     died: 1976
     nationality: USA
+  benny-gantz:
+    born: 1959
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 2020
+      to: 2022
+      note: Defense Minister, War Cabinet
+    - org: idf
+      role: executive
+      from: 1977
+      to: 2015
+      note: Chief of Staff 2011-15
+    - org: fifth-dimension
+      role: chairman
+      from: 2015
+      to: 2018
   bernhard-lippe-biesterfeld:
     born: 1911
     died: 2004
@@ -636,6 +666,21 @@ persons:
       from: 1959
       to: 1995
       note: Chief of Staff 1991-95, most decorated soldier
+  ehud-schneorson:
+    nationality: ISR
+    note: Unit 8200 commander until 2017
+    affiliations:
+    - org: paragon
+      role: founder
+      from: 2019
+    - org: idf
+      role: executive
+      to: 2017
+      note: Unit 8200 Commander, Brig. Gen.
+    - org: unit-8200
+      role: executive
+      to: 2017
+      note: Commander
   elizabeth-ii:
     born: 1926
     died: 2022
@@ -1169,6 +1214,22 @@ persons:
       role: executive
       from: 1996
       to: 2024
+  idan-nurick:
+    nationality: ISR
+    note: Paragon CEO
+    affiliations:
+    - org: paragon
+      role: executive
+      from: 2019
+      note: CEO
+  igor-bogudlov:
+    nationality: ISR
+    note: Paragon CTO
+    affiliations:
+    - org: paragon
+      role: executive
+      from: 2019
+      note: CTO
   isaiah-kenen:
     born: 1905
     died: 1988
@@ -1289,6 +1350,13 @@ persons:
       note: Amico, poi rivelato spia sovietica (1963)
     - person: william-colby
       type: rival
+  james-mcconville:
+    nationality: USA
+    note: Former US Army Chief of Staff, REDLattice board
+    affiliations:
+    - org: redlattice
+      role: board
+      from: 2023
   james-wolfensohn:
     born: 1933
     died: 2020
@@ -1460,6 +1528,17 @@ persons:
     - org: la-stampa
       role: owner
       from: 2016
+  john-finbarr-fleming:
+    nationality: USA
+    note: Ex-CIA Korea, Paragon US chairman 2024
+    affiliations:
+    - org: cia
+      role: executive
+      note: Asst Director Korea
+    - org: paragon
+      role: chairman
+      from: 2024
+      note: US branch
   john-foster-dulles:
     born: 1888
     died: 1959
@@ -1785,6 +1864,14 @@ persons:
       role: executive
       from: 1980
       to: 1991
+  liad-avraham:
+    nationality: ISR
+    note: Paragon VP Research
+    affiliations:
+    - org: paragon
+      role: executive
+      from: 2019
+      note: VP Research
   lord-carrington:
     born: 1919
     died: 2018
@@ -2218,6 +2305,15 @@ persons:
       role: executive
       from: 2015
       to: 2025
+  omri-lavie:
+    nationality: ISR
+    note: NSO Group co-founder, Unit 8200 veteran
+    affiliations:
+    - org: unit-8200
+      role: member
+    - org: nso-group
+      role: founder
+      from: 2010
   patrick-vallance:
     born: 1960
     nationality: GBR
@@ -2315,6 +2411,16 @@ persons:
       from: 1961
       to: 2021
       note: Co-fondatore, President UK 1961-82, International President 1981-96
+  ram-ben-barak:
+    nationality: ISR
+    note: Ex-Mossad deputy director
+    affiliations:
+    - org: mossad
+      role: executive
+      note: Deputy Director
+    - org: fifth-dimension
+      role: advisor
+      note: Advisory Board
   raoul-wallenberg:
     born: 1912
     died: 1947
@@ -2576,6 +2682,16 @@ persons:
     - org: alphabet
       role: founder
       from: 1998
+  shalev-hulio:
+    nationality: ISR
+    note: NSO Group co-founder, Unit 8200 veteran
+    affiliations:
+    - org: unit-8200
+      role: member
+    - org: nso-group
+      role: founder
+      from: 2010
+      note: CEO
   sicco-mansholt:
     born: 1908
     died: 1995
@@ -2918,6 +3034,9 @@ persons:
       from: 2013
       to: 2016
       note: National Security Advisor to PM Netanyahu
+    - org: idf
+      role: member
+      note: Military service before Mossad career
   zalmay-khalilzad:
     born: 1951
     nationality: USA

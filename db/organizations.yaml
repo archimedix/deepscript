@@ -22,6 +22,14 @@ organizations:
     - person: jonathan-greenblatt
       role: executive
       from: 2015
+  ae-industrial-partners:
+    name: AE Industrial Partners
+    type: privateequity
+    founded: 1998
+    headquarters: Florida, USA
+    status: active
+    sector: private-equity
+    note: Aerospace/defense PE, $7.5B AUM, acquired Paragon 2024, portfolio includes BigBear.ai, Redwire
   aipac:
     name: American Israel Public Affairs Committee
     type: thinktank
@@ -153,6 +161,17 @@ organizations:
     - person: stephen-wise
       role: founder
       from: 1918
+  anobit:
+    type: company
+    founded: 2006
+    headquarters: Israel
+    status: defunct
+    note: Flash storage, acquired Apple 2011 $400-500M
+    stakeholders:
+    - org: battery-ventures
+      role: investor
+      to: 2011
+      note: 'Exit: Apple acquisition'
   ansa:
     name: ANSA
     type: media
@@ -409,6 +428,14 @@ organizations:
     - org: volkswagen
       role: stake
       share: 0.2
+  battery-ventures:
+    name: Battery Ventures
+    type: privateequity
+    founded: 1983
+    headquarters: Boston, USA
+    status: active
+    sector: venture-capital
+    note: Global VC/PE, $13B+ raised, Israel cyber investments (Paragon, JFrog, Anobit)
   bce:
     name: Banca Centrale Europea
     type: centralbank
@@ -476,6 +503,17 @@ organizations:
     - org: state-street
       role: stake
       share: 0.035
+  bigbear-ai:
+    type: company
+    founded: 2020
+    headquarters: USA
+    status: active
+    sector: AI-defense
+    note: NYSE:BBAI, AI/ML for intelligence community, AEI portfolio
+    stakeholders:
+    - org: ae-industrial-partners
+      role: investor
+      from: 2020
   bilderberg:
     name: Bilderberg Group
     type: forum
@@ -972,6 +1010,14 @@ organizations:
       from: 2009
       to: 2011
       note: Director, oversaw bin Laden operation
+    - person: john-finbarr-fleming
+      role: executive
+      note: Asst Director Korea
+    - person: andrew-boyd
+      role: executive
+      from: 2020
+      to: 2023
+      note: Center for Cyber Intelligence
     - org: oss
       role: predecessor
       from: 1942
@@ -1060,6 +1106,12 @@ organizations:
       role: professor
     - person: jan-tinbergen
       role: professor
+  columbus-nova:
+    type: privateequity
+    headquarters: New York, USA
+    status: active
+    sector: venture-capital
+    note: Viktor Vekselberg, sanctioned 2018
   commissione-ue:
     name: Commissione Europea
     type: agency
@@ -1176,6 +1228,13 @@ organizations:
     stakeholders:
     - person: richard-dearlove
       role: chairman
+  dea:
+    name: Drug Enforcement Administration
+    type: agency
+    founded: 1973
+    headquarters: Arlington, Virginia, USA
+    status: active
+    sector: law-enforcement
   dod:
     name: Department of Defense
     type: government
@@ -1403,6 +1462,25 @@ organizations:
       role: executive
       from: 1966
       to: 1996
+  fifth-dimension:
+    name: Fifth Dimension
+    type: company
+    founded: 2014
+    headquarters: Tel Aviv, Israel
+    status: defunct
+    sector: big-data-ai
+    note: Collapsed 2018, Vekselberg sanctions
+    stakeholders:
+    - person: benny-gantz
+      role: chairman
+      from: 2015
+      to: 2018
+    - person: ram-ben-barak
+      role: advisor
+      note: Advisory Board
+    - org: columbus-nova
+      role: investor
+      note: $50M+, led to collapse after Vekselberg sanctions
   fii-saudi:
     name: Future Investment Initiative
     type: forum
@@ -1714,6 +1792,11 @@ organizations:
       from: 2007
       to: 2013
       note: Defense Minister
+    - person: benny-gantz
+      role: minister
+      from: 2020
+      to: 2022
+      note: Defense Minister, War Cabinet
   governo-italia:
     name: Governo Italia
     type: government
@@ -2058,6 +2141,16 @@ organizations:
       role: member
     - org: warburg-pincus
       role: partner
+  guardicore:
+    type: company
+    headquarters: Israel
+    status: defunct
+    sector: cybersecurity
+    note: Acquired Akamai, Battery portfolio
+    stakeholders:
+    - org: battery-ventures
+      role: investor
+      note: 'Exit: Akamai acquisition'
   hakluyt:
     name: Hakluyt & Company
     type: company
@@ -2129,16 +2222,30 @@ organizations:
       from: 1965
       to: 1967
   idf:
+    name: Israel Defense Forces
     type: agency
     founded: 1948
     headquarters: Israel
     sector: military
+    note: Tsahal, include Unit 8200, Aman, Mossad alumni pipeline
     stakeholders:
+    - person: yossi-cohen
+      role: member
+      note: Military service before Mossad career
     - person: ehud-barak
       role: executive
       from: 1959
       to: 1995
       note: Chief of Staff 1991-95, most decorated soldier
+    - person: ehud-schneorson
+      role: executive
+      to: 2017
+      note: Unit 8200 Commander, Brig. Gen.
+    - person: benny-gantz
+      role: executive
+      from: 1977
+      to: 2015
+      note: Chief of Staff 2011-15
   ig-farben:
     name: IG Farben
     type: company
@@ -2204,6 +2311,15 @@ organizations:
     - person: enrico-letta
       role: chairman
       from: 2016
+  jfrog:
+    type: company
+    founded: 2008
+    headquarters: Israel
+    status: active
+    note: DevOps, NASDAQ:FROG, Battery portfolio
+    stakeholders:
+    - org: battery-ventures
+      role: investor
   jinsa:
     name: Jewish Institute for National Security of America
     type: thinktank
@@ -2558,6 +2674,9 @@ organizations:
       from: 2016
       to: 2021
       note: Director
+    - person: ram-ben-barak
+      role: executive
+      note: Deputy Director
     - org: cia
       role: partner
       from: 1951
@@ -2645,6 +2764,22 @@ organizations:
       role: advisor
       from: 1969
       to: 1975
+  nso-group:
+    name: NSO Group
+    type: company
+    founded: 2010
+    headquarters: Israel
+    status: active
+    sector: cyber-offensive
+    note: Pegasus spyware, blacklisted US Commerce Dept
+    stakeholders:
+    - person: shalev-hulio
+      role: founder
+      from: 2010
+      note: CEO
+    - person: omri-lavie
+      role: founder
+      from: 2010
   nvidia:
     name: NVIDIA
     type: company
@@ -2827,15 +2962,51 @@ organizations:
       role: founder
       from: 2003
   paragon:
+    name: Paragon Solutions
     type: company
     founded: 2019
     headquarters: Israel
     sector: cyber-offensive
+    note: Spyware Graphite, acquired by AE Industrial Partners 2024
     stakeholders:
     - person: ehud-barak
       role: board
       from: 2019
       note: Acquisita $900M 2024
+    - person: ehud-schneorson
+      role: founder
+      from: 2019
+    - person: idan-nurick
+      role: executive
+      from: 2019
+      note: CEO
+    - person: igor-bogudlov
+      role: executive
+      from: 2019
+      note: CTO
+    - person: liad-avraham
+      role: executive
+      from: 2019
+      note: VP Research
+    - person: john-finbarr-fleming
+      role: chairman
+      from: 2024
+      note: US branch
+    - org: battery-ventures
+      role: investor
+      from: 2021
+      note: $5-10M investment
+    - org: ae-industrial-partners
+      role: owner
+      from: 2024
+      note: Acquired for $500-900M
+    - org: dea
+      role: client
+      from: 2022
+      note: Uso Graphite confermato NYT
+    - org: red-dot-capital
+      role: investor
+      from: 2019
   paypal:
     name: PayPal
     type: company
@@ -3008,6 +3179,37 @@ organizations:
     type: media
     headquarters: Milano
     status: active
+  red-dot-capital:
+    type: privateequity
+    headquarters: Tel Aviv, Israel
+    status: active
+    note: Israeli VC, Paragon investor
+  redlattice:
+    type: company
+    headquarters: Virginia, USA
+    status: active
+    sector: cybersecurity
+    note: Merged with Paragon 2024, ex-CIA leadership
+    stakeholders:
+    - person: andrew-boyd
+      role: board
+      from: 2023
+    - person: james-mcconville
+      role: board
+      from: 2023
+    - org: ae-industrial-partners
+      role: owner
+  redwire:
+    type: company
+    founded: 2020
+    headquarters: USA
+    status: active
+    sector: space
+    note: NYSE:RDW, space infrastructure, AEI portfolio
+    stakeholders:
+    - org: ae-industrial-partners
+      role: investor
+      from: 2020
   repubblica:
     name: La Repubblica
     type: media
@@ -3527,6 +3729,23 @@ organizations:
     headquarters: San Francisco
     status: active
     sector: tech
+  unit-8200:
+    name: Unit 8200
+    type: agency
+    founded: 1952
+    headquarters: Israel
+    status: active
+    sector: intelligence
+    note: SIGINT/cyber, equivalente NSA, vivaio startup israeliane
+    stakeholders:
+    - person: ehud-schneorson
+      role: executive
+      to: 2017
+      note: Commander
+    - person: shalev-hulio
+      role: member
+    - person: omri-lavie
+      role: member
   vanguard:
     name: Vanguard
     type: assetmanager
