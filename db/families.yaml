@@ -7,7 +7,30 @@ families:
     status: active
     members:
     - person: gianni-agnelli
+      generation: 3
+      role: chairman-fiat
     - person: john-elkann
+      generation: 4
+      role: ceo-exor
+    - person: giovanni-agnelli-sr
+      generation: 1
+      role: founder
+    - person: edoardo-agnelli-sr
+      generation: 2
+    - person: umberto-agnelli
+      generation: 3
+      role: vice-chairman
+    - person: margherita-agnelli
+      generation: 4
+    - person: lapo-elkann
+      generation: 4
+  bronfman:
+    origin: Canada
+    founder: Samuel Bronfman
+    sector: liquor-media
+    status: active
+    members:
+    - person: edgar-bronfman-sr
   bush:
     origin: USA
     founder: Prescott Bush
@@ -16,12 +39,55 @@ families:
     status: active
     members:
     - person: george-w-bush
+      generation: 4
+      role: 43rd-president
+    - person: samuel-prescott-bush
+      generation: 1
+    - person: prescott-bush
+      generation: 2
+      role: senator
+    - person: george-hw-bush
+      generation: 3
+      role: 41st-president
+    - person: jeb-bush
+      generation: 4
+      role: governor-florida
+    - person: george-p-bush
+      generation: 5
   dupont:
     origin: Francia/USA
     founder: E.I. du Pont
     sector: chimica
     generations: 8
     status: defunct
+    members:
+    - person: pierre-samuel-dupont
+      generation: 1
+      role: emigrant-founder
+    - person: ei-dupont
+      generation: 2
+      role: founder-dupont-company
+    - person: henry-dupont
+      generation: 3
+      role: ceo
+    - person: alfred-dupont
+      generation: 4
+    - person: t-coleman-dupont
+      generation: 4
+      role: president-senator
+    - person: pierre-s-dupont
+      generation: 4
+      role: chairman-dupont-gm
+    - person: pete-dupont
+      generation: 6
+      role: governor-delaware
+  lauder:
+    origin: USA
+    founder: Estée Lauder
+    sector: cosmetics
+    status: active
+    members:
+    - person: ronald-lauder
   morgan:
     origin: USA
     founder: Junius Spencer Morgan
@@ -30,12 +96,49 @@ families:
     status: defunct
     members:
     - person: jp-morgan
+      generation: 2
+      role: the-banker
+    - person: junius-spencer-morgan
+      generation: 1
+      role: founder
+    - person: jp-morgan-jr
+      generation: 3
+      role: senior-partner
+    - person: henry-sturgis-morgan
+      generation: 4
+      role: founder-morgan-stanley
   murdoch:
     origin: Australia
     founder: Keith Murdoch
     sector: media
     generations: 3
     status: active
+    members:
+    - person: keith-murdoch
+      generation: 1
+      role: founder
+    - person: rupert-murdoch
+      generation: 2
+      role: global-expansion
+    - person: prudence-murdoch
+      generation: 3
+    - person: elisabeth-murdoch
+      generation: 3
+    - person: lachlan-murdoch
+      generation: 3
+      role: heir-designated
+    - person: james-murdoch
+      generation: 3
+  porsche-piech:
+    origin: Austria/Germania
+    founder: Ferdinand Porsche
+    sector: auto
+    status: active
+    members:
+    - person: ferdinand-piech
+    - person: wolfgang-porsche
+    - person: hans-michel-piech
+    - person: ferdinand-porsche
   pritzker:
     origin: USA
     sector: hotels, finance
@@ -52,7 +155,26 @@ families:
     status: active
     members:
     - person: john-d-rockefeller-jr
+      generation: 2
     - person: david-rockefeller
+      generation: 3
+    - person: john-d-rockefeller-sr
+      generation: 1
+      role: founder
+    - person: john-d-rockefeller-iii
+      generation: 3
+    - person: nelson-rockefeller
+      generation: 3
+      role: vp-usa
+    - person: laurance-rockefeller
+      generation: 3
+    - person: winthrop-rockefeller
+      generation: 3
+    - person: jay-rockefeller
+      generation: 4
+      role: senator
+    - person: david-rockefeller-jr
+      generation: 4
   rothschild:
     origin: Germania
     founder: Mayer Amschel Rothschild
@@ -61,6 +183,34 @@ families:
     status: active
     members:
     - person: david-de-rothschild-fr
+      generation: 6
+      role: chairman-rothschild-co
+    - person: mayer-amschel-rothschild
+      generation: 1
+      role: founder
+    - person: nathan-mayer-rothschild
+      generation: 2
+      role: london-branch
+    - person: james-mayer-rothschild
+      generation: 2
+      role: paris-branch
+    - person: lionel-rothschild
+      generation: 3
+    - person: victor-rothschild
+      generation: 5
+      role: 3rd-baron
+    - person: jacob-rothschild
+      generation: 6
+      role: 4th-baron
+    - person: evelyn-rothschild
+      generation: 6
+      role: chairman-nm-rothschild
+    - person: nat-rothschild
+      generation: 7
+      role: 5th-baron
+    - person: alexandre-de-rothschild
+      generation: 7
+      role: exec-chairman
   wallenberg:
     origin: Svezia
     founder: andre-oscar-wallenberg
@@ -95,6 +245,24 @@ families:
     sector: retail
     generations: 3
     status: active
+    members:
+    - person: sam-walton
+      generation: 1
+      role: founder
+    - person: bud-walton
+      generation: 1
+      role: co-founder
+    - person: rob-walton
+      generation: 2
+      role: ex-chairman
+    - person: jim-walton
+      generation: 2
+      role: chairman-arvest
+    - person: alice-walton
+      generation: 2
+      role: philanthropy
+    - person: lukas-walton
+      generation: 3
   warburg:
     origin: Germania
     founder: Moses Marcus Warburg
@@ -103,6 +271,25 @@ families:
     status: active
     members:
     - person: paul-warburg
+      generation: 3
+      role: federal-reserve-architect
+    - person: moses-marcus-warburg
+      generation: 1
+      role: co-founder
+    - person: max-warburg
+      generation: 3
+      role: chairman-mm-warburg
+    - person: felix-warburg
+      generation: 3
+    - person: james-warburg
+      generation: 4
+      role: fdr-brain-trust
+    - person: eric-warburg
+      generation: 4
+      role: founder-warburg-pincus
+    - person: siegmund-warburg
+      generation: 4
+      role: founder-sg-warburg
   windsor:
     origin: UK
     founder: George V

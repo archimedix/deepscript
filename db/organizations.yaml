@@ -559,8 +559,10 @@ organizations:
       role: steering
     - person: gianni-agnelli
       role: steering
+      from: 1958
     - person: john-elkann
       role: steering
+      from: 2015
     - person: emmanuel-macron
       role: member
       from: 2014
@@ -612,6 +614,7 @@ organizations:
       note: Chairman SEB, Chair Saab
     - person: david-rockefeller
       role: steering
+      from: 1954
     - person: henry-kissinger
       role: member
     - person: giuliano-amato
@@ -620,6 +623,8 @@ organizations:
       role: member
       from: 2011
       note: Regular attendee since 2011
+    - person: jacob-rothschild
+      role: member
     - org: trilaterale
       role: partner
   bipartisan-policy-center:
@@ -781,6 +786,15 @@ organizations:
     - org: state-street
       role: stake
       share: 0.034
+  brown-brothers-harriman:
+    name: Brown Brothers Harriman
+    type: bank
+    founded: 1931
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: prescott-bush
+      role: partner
   burisma:
     name: Burisma Holdings
     type: company
@@ -938,7 +952,7 @@ organizations:
       from: 1953
       to: 1960
     - person: david-rockefeller
-      role: executive
+      role: chairman
       from: 1969
       to: 1981
   chevron:
@@ -1064,6 +1078,10 @@ organizations:
       from: 2006
       to: 2009
       note: Director CIA
+    - person: george-hw-bush
+      role: director
+      from: 1976
+      to: 1977
     - org: oss
       role: predecessor
       from: 1942
@@ -1320,6 +1338,20 @@ organizations:
     stakeholders:
     - org: volkswagen
       role: subsidiary
+  dupont:
+    name: DuPont
+    type: company
+    founded: 1802
+    headquarters: Wilmington
+    status: merged
+    stakeholders:
+    - person: ei-dupont
+      role: founder
+      from: 1802
+    - person: pierre-s-dupont
+      role: chairman
+      from: 1915
+      to: 1919
   economist:
     name: The Economist
     type: media
@@ -1442,8 +1474,8 @@ organizations:
     status: active
     stakeholders:
     - person: john-elkann
-      role: executive
-      from: 2004
+      role: chairman
+      from: 2010
   exxon-mobil:
     name: ExxonMobil
     type: company
@@ -1471,9 +1503,10 @@ organizations:
       role: chairman
       from: 2018
     - person: paul-warburg
-      role: chairman
-      from: 1914
+      role: architect
+      from: 1913
       to: 1918
+      note: Jekyll Island architect
     - person: alan-greenspan
       role: chairman
       from: 1987
@@ -1505,9 +1538,12 @@ organizations:
     status: active
     stakeholders:
     - person: gianni-agnelli
-      role: executive
+      role: chairman
       from: 1966
-      to: 1996
+      to: 2003
+    - person: giovanni-agnelli-sr
+      role: founder
+      from: 1899
   fifth-dimension:
     name: Fifth Dimension
     type: company
@@ -1602,6 +1638,19 @@ organizations:
     - person: peter-thiel
       role: partner
       from: 2005
+  fox-corporation:
+    name: Fox Corporation
+    type: media
+    founded: 2019
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: rupert-murdoch
+      role: chairman-emeritus
+      from: 2019
+    - person: lachlan-murdoch
+      role: chairman-ceo
+      from: 2019
   g42:
     name: G42
     type: company
@@ -2189,7 +2238,7 @@ organizations:
       from: 1993
       to: 2001
     - person: george-w-bush
-      role: leader
+      role: president
       from: 2001
       to: 2009
     - person: barack-obama
@@ -2287,6 +2336,14 @@ organizations:
       from: 2013
       to: 2017
       note: Secretary of Commerce (Obama)
+    - person: nelson-rockefeller
+      role: vice-president
+      from: 1974
+      to: 1977
+    - person: george-hw-bush
+      role: president
+      from: 1989
+      to: 1993
   greensill:
     type: company
     founded: 2011
@@ -2643,6 +2700,8 @@ organizations:
       role: partner
       from: 1902
       to: 1914
+    - person: felix-warburg
+      role: partner
   la-stampa:
     name: La Stampa
     type: media
@@ -2879,6 +2938,9 @@ organizations:
     - person: john-scarlett
       role: advisor
       from: 2009
+    - person: henry-sturgis-morgan
+      role: founder
+      from: 1935
     - org: norges-bank-gpfg
       role: stake
     - org: cfr
@@ -2961,6 +3023,16 @@ organizations:
       from: 2013
       to: 2014
       note: Presidente Delegazione Italiana, Assemblea Parlamentare
+  news-corp:
+    name: News Corp
+    type: media
+    founded: 1979
+    headquarters: New York
+    status: active
+    stakeholders:
+    - person: rupert-murdoch
+      role: founder
+      from: 1979
   nobel-foundation:
     name: Nobel Foundation
     type: foundation
@@ -3570,6 +3642,10 @@ organizations:
     stakeholders:
     - person: david-de-rothschild-fr
       role: chairman
+      from: 2003
+    - person: alexandre-de-rothschild
+      role: executive-chairman
+      from: 2018
   rusi:
     type: thinktank
     founded: 1831
@@ -3744,6 +3820,16 @@ organizations:
     - person: elon-musk
       role: executive
       from: 2002
+  standard-oil:
+    name: Standard Oil
+    type: company
+    founded: 1870
+    headquarters: Cleveland
+    status: dissolved
+    stakeholders:
+    - person: john-d-rockefeller-sr
+      role: founder
+      from: 1870
   stargate-project:
     name: Stargate Project
     type: company
@@ -4025,7 +4111,7 @@ organizations:
       role: founder
       from: 1973
     - person: david-rockefeller
-      role: chairman
+      role: founder
       from: 1973
     - person: henry-kissinger
       role: steering
@@ -4206,6 +4292,13 @@ organizations:
     - person: doug-mcmillon
       role: executive
       from: 2014
+    - person: sam-walton
+      role: founder
+      from: 1962
+    - person: rob-walton
+      role: chairman
+      from: 1992
+      to: 2015
     - org: blackrock
       role: stake
       share: 0.036
@@ -4254,6 +4347,9 @@ organizations:
       role: executive
       from: 2014
       to: 2023
+    - person: eric-warburg
+      role: founder
+      from: 1966
     - org: cfr
       role: partner
   washington-post:

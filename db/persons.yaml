@@ -94,6 +94,23 @@ persons:
     - org: governo-finlandia
       role: leader
       from: 2024
+  alexandre-de-rothschild:
+    born: 1980
+    nationality: Francia
+    family: rothschild
+    affiliations:
+    - org: rothschild-co
+      role: executive-chairman
+      from: 2018
+  alfred-dupont:
+    born: 1864
+    died: 1935
+    nationality: USA
+    family: dupont
+  alice-walton:
+    born: 1949
+    nationality: USA
+    family: walton
   allen-dulles:
     born: 1893
     died: 1969
@@ -399,6 +416,11 @@ persons:
       role: chairman
       from: 2023
       note: Board Chair
+  bud-walton:
+    born: 1921
+    died: 1995
+    nationality: USA
+    family: walton
   carlo-azeglio-ciampi:
     born: 1920
     died: 2016
@@ -585,6 +607,7 @@ persons:
       role: chairman
     - org: rothschild-co
       role: chairman
+      from: 2003
   david-petraeus:
     born: 1952
     nationality: USA
@@ -611,20 +634,25 @@ persons:
     affiliations:
     - org: bilderberg
       role: steering
+      from: 1954
     - org: trilaterale
       role: founder
       from: 1973
     - org: trilaterale
-      role: chairman
+      role: founder
       from: 1973
     - org: cfr
       role: chairman
       from: 1970
       to: 1985
     - org: chase-manhattan
-      role: executive
+      role: chairman
       from: 1969
       to: 1981
+  david-rockefeller-jr:
+    born: 1941
+    nationality: USA
+    family: rockefeller
   david-rubenstein:
     born: 1949
     nationality: USA
@@ -677,6 +705,11 @@ persons:
       role: executive
       from: 1971
       to: 1994
+  edoardo-agnelli-sr:
+    born: 1892
+    died: 1935
+    nationality: Italia
+    family: agnelli-elkann
   ehud-barak:
     born: 1942
     nationality: ISR
@@ -725,6 +758,19 @@ persons:
       role: executive
       to: 2017
       note: Commander
+  ei-dupont:
+    born: 1771
+    died: 1834
+    nationality: USA
+    family: dupont
+    affiliations:
+    - org: dupont
+      role: founder
+      from: 1802
+  elisabeth-murdoch:
+    born: 1968
+    nationality: USA
+    family: murdoch
   elizabeth-ii:
     born: 1926
     died: 2022
@@ -831,6 +877,15 @@ persons:
     - org: kissinger-associates
       role: advisor
       from: 1984
+  eric-warburg:
+    born: 1900
+    died: 1990
+    nationality: Germania/USA
+    family: warburg
+    affiliations:
+    - org: warburg-pincus
+      role: founder
+      from: 1966
   eugene-black:
     born: 1898
     died: 1992
@@ -840,6 +895,11 @@ persons:
       role: executive
       from: 1949
       to: 1962
+  evelyn-rothschild:
+    born: 1931
+    died: 2022
+    nationality: UK
+    family: rothschild
   faisal-bin-farhan:
     born: 1970
     nationality: SAU
@@ -881,6 +941,14 @@ persons:
     - org: aspen-romania
       role: member
       note: Speaker
+  felix-warburg:
+    born: 1871
+    died: 1937
+    nationality: Germania/USA
+    family: warburg
+    affiliations:
+    - org: kuhn-loeb
+      role: partner
   ferdinand-piech:
     born: 1937
     died: 2019
@@ -989,6 +1057,24 @@ persons:
     born: 1967
     nationality: USA
     note: Governatore California
+  george-hw-bush:
+    born: 1924
+    died: 2018
+    nationality: USA
+    family: bush
+    affiliations:
+    - org: cia
+      role: director
+      from: 1976
+      to: 1977
+    - org: governo-usa
+      role: president
+      from: 1989
+      to: 1993
+  george-p-bush:
+    born: 1976
+    nationality: USA
+    family: bush
   george-soros:
     born: 1930
     nationality: USA
@@ -1022,7 +1108,7 @@ persons:
     family: bush
     affiliations:
     - org: governo-usa
-      role: leader
+      role: president
       from: 2001
       to: 2009
   gianni-agnelli:
@@ -1033,16 +1119,26 @@ persons:
     affiliations:
     - org: bilderberg
       role: steering
+      from: 1958
     - org: trilaterale
       role: member
     - org: chase-manhattan
       role: board
     - org: fiat
-      role: executive
+      role: chairman
       from: 1966
-      to: 1996
+      to: 2003
     - org: la-stampa
       role: owner
+  giovanni-agnelli-sr:
+    born: 1866
+    died: 1945
+    nationality: Italia
+    family: agnelli-elkann
+    affiliations:
+    - org: fiat
+      role: founder
+      from: 1899
   giovanni-bazoli:
     born: 1932
     nationality: ITA
@@ -1208,6 +1304,11 @@ persons:
       role: president
       from: 1950
       to: 1972
+  henry-dupont:
+    born: 1812
+    died: 1889
+    nationality: USA
+    family: dupont
   henry-kissinger:
     born: 1923
     died: 2023
@@ -1234,6 +1335,15 @@ persons:
   henry-paulson:
     born: 1946
     nationality: USA
+  henry-sturgis-morgan:
+    born: 1900
+    died: 1982
+    nationality: USA
+    family: morgan
+    affiliations:
+    - org: morgan-stanley
+      role: founder
+      from: 1935
   herbert-diess:
     born: 1958
     nationality: DEU
@@ -1336,6 +1446,14 @@ persons:
       role: leader
       from: 2017
       to: 2023
+  jacob-rothschild:
+    born: 1936
+    died: 2024
+    nationality: UK
+    family: rothschild
+    affiliations:
+    - org: bilderberg
+      role: member
   jacob-wallenberg:
     born: 1956
     nationality: SWE
@@ -1432,6 +1550,11 @@ persons:
       note: Amico, poi rivelato spia sovietica (1963)
     - person: william-colby
       type: rival
+  james-mayer-rothschild:
+    born: 1792
+    died: 1868
+    nationality: Francia
+    family: rothschild
   james-mcconville:
     nationality: USA
     note: Former US Army Chief of Staff, REDLattice board
@@ -1439,6 +1562,15 @@ persons:
     - org: redlattice
       role: board
       from: 2023
+  james-murdoch:
+    born: 1972
+    nationality: USA
+    family: murdoch
+  james-warburg:
+    born: 1896
+    died: 1969
+    nationality: USA
+    family: warburg
   james-wolfensohn:
     born: 1933
     died: 2020
@@ -1501,6 +1633,10 @@ persons:
     - org: rand-corporation
       role: executive
       from: 2022
+  jay-rockefeller:
+    born: 1937
+    nationality: USA
+    family: rockefeller
   jean-claude-juncker:
     born: 1954
     nationality: LUX
@@ -1537,6 +1673,10 @@ persons:
       role: executive
       from: 1967
       to: 1970
+  jeb-bush:
+    born: 1953
+    nationality: USA
+    family: bush
   jeff-bezos:
     born: 1964
     nationality: USA
@@ -1572,6 +1712,10 @@ persons:
       role: partner
       from: 1997
       to: 2005
+  jim-walton:
+    born: 1948
+    nationality: USA
+    family: walton
   joe-biden:
     born: 1942
     nationality: USA
@@ -1594,11 +1738,25 @@ persons:
     born: 1917
     died: 1993
     nationality: USA
+  john-d-rockefeller-iii:
+    born: 1906
+    died: 1978
+    nationality: USA
+    family: rockefeller
   john-d-rockefeller-jr:
     born: 1874
     died: 1960
     nationality: USA
     family: rockefeller
+  john-d-rockefeller-sr:
+    born: 1839
+    died: 1937
+    nationality: USA
+    family: rockefeller
+    affiliations:
+    - org: standard-oil
+      role: founder
+      from: 1870
   john-elkann:
     born: 1976
     nationality: ITA
@@ -1606,11 +1764,12 @@ persons:
     affiliations:
     - org: bilderberg
       role: steering
+      from: 2015
     - org: aspen-institute
       role: leader
     - org: exor
-      role: executive
-      from: 2004
+      role: chairman
+      from: 2010
     - org: stellantis
       role: chairman
       from: 2021
@@ -1760,10 +1919,20 @@ persons:
     - org: jpmorgan
       role: founder
       from: 1871
+  jp-morgan-jr:
+    born: 1867
+    died: 1943
+    nationality: USA
+    family: morgan
   juliana-olanda:
     born: 1909
     died: 2004
     nationality: NLD
+  junius-spencer-morgan:
+    born: 1813
+    died: 1890
+    nationality: USA
+    family: morgan
   justin-trudeau:
     born: 1971
     nationality: CAN
@@ -1800,6 +1969,11 @@ persons:
       role: board
       from: 2020
       note: Board of Directors
+  keith-murdoch:
+    born: 1885
+    died: 1952
+    nationality: Australia
+    family: murdoch
   khaldoon-al-mubarak:
     nationality: UAE
     note: CEO Mubadala, Vice Chair MGX, Chairman Manchester City
@@ -1857,6 +2031,18 @@ persons:
     died: 1938
     nationality: SWE
     family: wallenberg
+  lachlan-murdoch:
+    born: 1971
+    nationality: USA
+    family: murdoch
+    affiliations:
+    - org: fox-corporation
+      role: chairman-ceo
+      from: 2019
+  lapo-elkann:
+    born: 1977
+    nationality: Italia
+    family: agnelli-elkann
   larry-ellison:
     born: 1944
     nationality: USA
@@ -1943,6 +2129,11 @@ persons:
       from: 2023
       to: 2025
       note: Board member, resigned Nov 2025
+  laurance-rockefeller:
+    born: 1910
+    died: 2004
+    nationality: USA
+    family: rockefeller
   lawrence-eagleburger:
     born: 1930
     died: 2011
@@ -2008,6 +2199,11 @@ persons:
       role: executive
       from: 2019
       note: VP Research
+  lionel-rothschild:
+    born: 1808
+    died: 1879
+    nationality: UK
+    family: rothschild
   lord-carrington:
     born: 1919
     died: 2018
@@ -2027,6 +2223,10 @@ persons:
     affiliations:
     - org: ina
       role: executive
+  lukas-walton:
+    born: 1986
+    nationality: USA
+    family: walton
   mansoor-al-mahmoud:
     nationality: QAT
     affiliations:
@@ -2120,6 +2320,10 @@ persons:
     - org: commissione-ue
       role: leader
       from: 2019
+  margherita-agnelli:
+    born: 1955
+    nationality: Italia
+    family: agnelli-elkann
   mario-draghi:
     born: 1947
     nationality: ITA
@@ -2247,6 +2451,16 @@ persons:
       from: 1943
       to: 1945
       note: Chief SI Italy
+  max-warburg:
+    born: 1867
+    died: 1946
+    nationality: Germania
+    family: warburg
+  mayer-amschel-rothschild:
+    born: 1744
+    died: 1812
+    nationality: Germania
+    family: rothschild
   michael-hayden:
     born: 1945
     nationality: USA
@@ -2423,6 +2637,11 @@ persons:
       role: chairman
       from: 1987
       to: 2018
+  moses-marcus-warburg:
+    born: 1763
+    died: 1830
+    nationality: Germania
+    family: warburg
   nahum-goldmann:
     born: 1895
     died: 1982
@@ -2443,10 +2662,29 @@ persons:
     - org: psg
       role: executive
       from: 2011
+  nat-rothschild:
+    born: 1971
+    nationality: UK
+    family: rothschild
+  nathan-mayer-rothschild:
+    born: 1777
+    died: 1836
+    nationality: UK
+    family: rothschild
   nelson-aldrich:
     born: 1841
     died: 1915
     nationality: USA
+  nelson-rockefeller:
+    born: 1908
+    died: 1979
+    nationality: USA
+    family: rockefeller
+    affiliations:
+    - org: governo-usa
+      role: vice-president
+      from: 1974
+      to: 1977
   nick-carter:
     born: 1959
     nationality: GBR
@@ -2564,16 +2802,17 @@ persons:
   paul-warburg:
     born: 1868
     died: 1932
-    nationality: USA
+    nationality: Germania/USA
     family: warburg
     affiliations:
     - org: cfr
       role: founder
       from: 1921
     - org: federal-reserve
-      role: chairman
-      from: 1914
+      role: architect
+      from: 1913
       to: 1918
+      note: Jekyll Island architect
     - org: kuhn-loeb
       role: partner
       from: 1902
@@ -2626,6 +2865,11 @@ persons:
     - org: governo-usa
       role: minister
       from: 2021
+  pete-dupont:
+    born: 1935
+    died: 2021
+    nationality: USA
+    family: dupont
   peter-diamandis:
     born: 1961
     nationality: USA
@@ -2675,6 +2919,33 @@ persons:
       from: 1961
       to: 2021
       note: Co-fondatore, President UK 1961-82, International President 1981-96
+  pierre-s-dupont:
+    born: 1870
+    died: 1954
+    nationality: USA
+    family: dupont
+    affiliations:
+    - org: dupont
+      role: chairman
+      from: 1915
+      to: 1919
+  pierre-samuel-dupont:
+    born: 1739
+    died: 1817
+    nationality: Francia/USA
+    family: dupont
+  prescott-bush:
+    born: 1895
+    died: 1972
+    nationality: USA
+    family: bush
+    affiliations:
+    - org: brown-brothers-harriman
+      role: partner
+  prudence-murdoch:
+    born: 1958
+    nationality: Australia
+    family: murdoch
   ram-ben-barak:
     nationality: ISR
     note: Ex-Mossad deputy director
@@ -2827,6 +3098,15 @@ persons:
       role: partner
       from: 2010
       to: 2014
+  rob-walton:
+    born: 1944
+    nationality: USA
+    family: walton
+    affiliations:
+    - org: walmart
+      role: chairman
+      from: 1992
+      to: 2015
   robert-gates:
     born: 1943
     nationality: USA
@@ -2925,6 +3205,17 @@ persons:
       role: executive
       from: 1977
       to: 1981
+  rupert-murdoch:
+    born: 1931
+    nationality: Australia/USA
+    family: murdoch
+    affiliations:
+    - org: news-corp
+      role: founder
+      from: 1979
+    - org: fox-corporation
+      role: chairman-emeritus
+      from: 2019
   safra-catz:
     born: 1961
     nationality: USA
@@ -2951,6 +3242,20 @@ persons:
     - org: stargate-project
       role: partner
       from: 2025
+  sam-walton:
+    born: 1918
+    died: 1992
+    nationality: USA
+    family: walton
+    affiliations:
+    - org: walmart
+      role: founder
+      from: 1962
+  samuel-prescott-bush:
+    born: 1863
+    died: 1948
+    nationality: USA
+    family: bush
   sanna-marin:
     born: 1985
     nationality: FIN
@@ -3030,6 +3335,11 @@ persons:
       role: executive
       from: 1972
       to: 1973
+  siegmund-warburg:
+    born: 1902
+    died: 1982
+    nationality: Germania/UK
+    family: warburg
   siim-kallas:
     born: 1948
     nationality: EST
@@ -3139,6 +3449,11 @@ persons:
     - org: apple
       role: board
       from: 2014
+  t-coleman-dupont:
+    born: 1863
+    died: 1930
+    nationality: USA
+    family: dupont
   tahnoon-bin-zayed:
     nationality: UAE
     note: National Security Advisor UAE, Al Nahyan family
@@ -3228,6 +3543,11 @@ persons:
     - org: tony-blair-institute
       role: founder
       from: 2016
+  umberto-agnelli:
+    born: 1934
+    died: 2004
+    nationality: Italia
+    family: agnelli-elkann
   ursula-von-der-leyen:
     born: 1958
     nationality: DEU
@@ -3255,6 +3575,11 @@ persons:
     - org: lazard
       role: advisor
       from: 2000
+  victor-rothschild:
+    born: 1910
+    died: 1990
+    nationality: UK
+    family: rothschild
   walter-hallstein:
     born: 1901
     died: 1982
@@ -3330,6 +3655,11 @@ persons:
   william-wales:
     born: 1982
     nationality: GBR
+  winthrop-rockefeller:
+    born: 1912
+    died: 1973
+    nationality: USA
+    family: rockefeller
   wolfgang-porsche:
     born: 1943
     nationality: DEU
