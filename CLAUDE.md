@@ -169,7 +169,7 @@ RETURN path
 | Label | Proprieta' |
 |-------|-----------|
 | Person | id, born, died, nationality, family |
-| Organization | id, founded, headquarters, status, sector |
+| Organization | id, name, founded, headquarters, status, sector |
 | Family | id, origin, founder, sector, generations, status |
 | Event | id, year, month, type, location, outcome |
 
@@ -256,4 +256,4 @@ NON modificarli. Usa Neo4j per i dati correnti.
 
 ---
 
-*Ultimo aggiornamento: 6 Dicembre 2025*
+*Ultimo aggiornamento: 7 Dicembre 2025*

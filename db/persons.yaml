@@ -68,6 +68,43 @@ persons:
     - org: governo-finlandia
       role: leader
       from: 2024
+  allen-dulles:
+    born: 1893
+    died: 1969
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: chairman
+      from: 1927
+      to: 1969
+      note: Director 1927, Secretary 1933-44, President 1946-50
+    - org: cia
+      role: executive
+      from: 1953
+      to: 1961
+      note: Director
+    - org: governo-usa
+      role: diplomat
+      from: 1916
+      to: 1926
+      note: State Department, Vienna, Bern, Berlin, Constantinople
+    - org: mi6
+      role: liaison
+      from: 1942
+      to: 1945
+      note: OSS Berna - collaborazione wartime
+    - org: oss
+      role: executive
+      from: 1942
+      to: 1945
+      note: Capo stazione OSS Berna
+    - org: sullivan-cromwell
+      role: partner
+      from: 1926
+      to: 1942
+    relations:
+    - person: john-foster-dulles
+      type: brother
   andre-oscar-wallenberg:
     born: 1816
     died: 1886
@@ -166,6 +203,15 @@ persons:
       from: 1970
       to: 1976
       note: Scandalo tangenti $1M+
+    relations:
+    - person: david-rockefeller
+      type: collaborator
+      note: Co-fondatori Bilderberg
+    - person: jozef-retinger
+      type: collaborator
+      note: Co-fondatori Bilderberg
+    - person: juliana-olanda
+      type: spouse
   bettino-craxi:
     born: 1934
     died: 2000
@@ -624,6 +670,21 @@ persons:
       role: executive
       from: 1973
       to: 1977
+  frank-wisner:
+    born: 1909
+    died: 1965
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 1948
+      to: 1962
+      note: Deputy Director Plans
+    - org: oss
+      role: executive
+      from: 1943
+      to: 1945
+      note: OSS Romania
   gabriele-cagliari:
     born: 1926
     died: 1993
@@ -923,6 +984,10 @@ persons:
       role: board
     - org: ert
       role: member
+    relations:
+    - person: david-rockefeller
+      type: associate
+      note: Network Bilderberg/Trilateral
   jacob-wallenberg-1892:
     born: 1892
     died: 1980
@@ -953,6 +1018,39 @@ persons:
       role: executive
       from: 1995
       to: 1999
+  james-angleton:
+    born: 1917
+    died: 1987
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 1954
+      to: 1975
+      note: Chief of Counterintelligence
+    - org: mi6
+      role: liaison
+      from: 1943
+      to: 1945
+      note: X-2 counterintelligence London/Rome
+    - org: oss
+      role: executive
+      from: 1943
+      to: 1945
+      note: Capo X-2 Roma
+    - org: mossad
+      role: liaison
+      from: 1951
+      to: 1975
+      note: CIA-Mossad liaison, rapporto privilegiato con Amos Manor e Isser Harel
+    relations:
+    - person: allen-dulles
+      type: mentor
+    - person: kim-philby
+      type: friend
+      note: Amico, poi rivelato spia sovietica (1963)
+    - person: william-colby
+      type: rival
   james-wolfensohn:
     born: 1933
     died: 2020
@@ -1124,6 +1222,21 @@ persons:
     - org: la-stampa
       role: owner
       from: 2016
+  john-foster-dulles:
+    born: 1888
+    died: 1959
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 1953
+      to: 1959
+      note: Secretary of State
+    - org: sullivan-cromwell
+      role: partner
+      from: 1911
+      to: 1953
+      note: Senior Partner
   john-maynard-keynes:
     born: 1883
     died: 1946
@@ -1232,6 +1345,31 @@ persons:
     - org: commissione-ue
       role: leader
       from: 2024
+  kim-philby:
+    born: 1912
+    died: 1988
+    nationality: GBR
+    note: Cambridge Five, doppio agente MI6/KGB, defezionato a Mosca 1963
+    affiliations:
+    - org: governo-uk
+      role: diplomat
+      from: 1949
+      to: 1951
+      note: First Secretary British Embassy Washington
+    - org: mi6
+      role: executive
+      from: 1940
+      to: 1951
+      note: Head of counterespionage, Washington liaison
+    - org: kgb
+      role: agent
+      from: 1934
+      to: 1988
+      note: Double agent, defected 1963
+    relations:
+    - person: james-angleton
+      type: colleague
+      note: Washington liaison, weekly lunches, Philby deceived Angleton
   klaus-schwab:
     born: 1938
     nationality: DEU
@@ -1430,6 +1568,12 @@ persons:
     - org: nobel-foundation
       role: board
       note: Membro del board
+    relations:
+    - person: bernhard-lippe-biesterfeld
+      type: collaborator
+      note: Bilderberg steering committee 1954-76
+    - person: peter-wallenberg-sr
+      type: parent
   marcus-wallenberg-sr:
     born: 1864
     died: 1943
@@ -1569,6 +1713,16 @@ persons:
       role: board
     - org: tony-blair-institute
       role: advisor
+  max-corvo:
+    born: 1920
+    died: 2008
+    nationality: USA
+    affiliations:
+    - org: oss
+      role: executive
+      from: 1943
+      to: 1945
+      note: Chief SI Italy
   michael-makovsky:
     born: 1968
     nationality: USA
@@ -1844,6 +1998,11 @@ persons:
       from: 1944
       to: 1945
       note: Connessione via Olsen, status controverso
+    relations:
+    - person: jacob-wallenberg-1892
+      type: cousin
+    - person: marcus-wallenberg-jr
+      type: cousin
   ray-dalio:
     born: 1949
     nationality: USA
@@ -1864,6 +2023,20 @@ persons:
     affiliations:
     - org: fii-saudi
       role: executive
+  richard-helms:
+    born: 1913
+    died: 2002
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 1966
+      to: 1973
+      note: Director
+    - org: oss
+      role: member
+      from: 1943
+      to: 1945
   richard-nixon:
     born: 1913
     died: 1994
@@ -2247,6 +2420,50 @@ persons:
       role: board
       from: 1974
       to: 2011
+  william-casey:
+    born: 1913
+    died: 1987
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 1981
+      to: 1987
+      note: Director
+    - org: oss
+      role: executive
+      from: 1943
+      to: 1945
+      note: SI Europe
+  william-colby:
+    born: 1920
+    died: 1996
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 1973
+      to: 1976
+      note: Director
+    - org: oss
+      role: member
+      from: 1943
+      to: 1945
+  william-donovan:
+    born: 1883
+    died: 1959
+    nationality: USA
+    affiliations:
+    - org: mi6
+      role: liaison
+      from: 1940
+      to: 1945
+      note: Coordinamento OSS-SOE-MI6
+    - org: oss
+      role: founder
+      from: 1942
+      to: 1945
+      note: Direttore OSS
   william-wales:
     born: 1982
     nationality: GBR

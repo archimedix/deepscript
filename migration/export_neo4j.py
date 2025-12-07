@@ -108,6 +108,26 @@ def export_persons(driver):
 
             persons[person_id] = dict(person)
 
+        # Second pass: add RELATED_TO relationships
+        result = session.run("""
+            MATCH (p1:Person)-[r:RELATED_TO]->(p2:Person)
+            RETURN p1.id as from_id, p2.id as to_id, r.type as type, r.note as note
+            ORDER BY p1.id, p2.id
+        """)
+
+        for record in result:
+            from_id = record["from_id"]
+            if from_id in persons:
+                if "relations" not in persons[from_id]:
+                    persons[from_id]["relations"] = []
+                rel_entry = OrderedDict()
+                rel_entry["person"] = record["to_id"]
+                if record["type"]:
+                    rel_entry["type"] = record["type"]
+                if record["note"]:
+                    rel_entry["note"] = record["note"]
+                persons[from_id]["relations"].append(dict(rel_entry))
+
     print(f"  Found {len(persons)} persons")
     return {"persons": dict(persons)}
 
@@ -138,7 +158,7 @@ def export_organizations(driver):
                 to: s.to,
                 note: s.note
             }) as org_stakes
-            RETURN o.id as id, labels(o) as labels,
+            RETURN o.id as id, o.name as name, labels(o) as labels,
                    o.founded as founded, o.headquarters as headquarters,
                    o.status as status, o.sector as sector, o.aum as aum,
                    o.file as file, o.note as note,
@@ -161,6 +181,8 @@ def export_organizations(driver):
             # Add basic fields
             if record["file"]:
                 org["file"] = record["file"]
+            if record["name"]:
+                org["name"] = record["name"]
             if org_type:
                 org["type"] = org_type
             if record["founded"]:

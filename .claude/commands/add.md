@@ -44,7 +44,33 @@ Controlla se esiste gia' la scheda in `docs/`.
 - Se nodo esiste MA scheda non esiste → stub, procedi a documentare.
 - Se nodo non esiste → nuova entita'.
 
-### 2. Cerca informazioni
+### 2. Cerca crosslinks nel database esistente
+
+**PRIMA di cercare sul web**, interroga Neo4j per trovare connessioni potenziali:
+
+```cypher
+// Per persona: chi e' gia' affiliato alla stessa org?
+MATCH (p:Person)-[:AFFILIATED_WITH]->(o:Organization)
+WHERE o.id IN ['org-rilevanti']
+RETURN p.id, o.id
+
+// Per organizzazione: chi e' gia' nel DB che potrebbe essere affiliato?
+MATCH (p:Person)
+WHERE p.nationality IN ['nazionalita-rilevanti']
+RETURN p.id, p.born, p.nationality
+
+// Cerca relazioni esistenti con entita' simili
+MATCH (o:Organization)
+WHERE o.sector = 'settore-simile' OR o:SublabelSimile
+RETURN o.id, labels(o)
+```
+
+**Crea le relazioni trovate:**
+- Person gia' nel DB → nuova org: AFFILIATED_WITH
+- Org esistente → nuova org: STAKE_IN (membership, partnership)
+- Person esistente → nuova person: RELATED_TO (colleague, mentor, etc.)
+
+### 3. Cerca informazioni sul web
 
 WebSearch per:
 - Fonti ufficiali, Wikipedia, SEC
@@ -56,7 +82,12 @@ Focus su:
 - Revolving door pubblico-privato
 - Connessioni italiane
 
-### 3. Aggiungi a Neo4j
+**Cerca anche figure correlate rilevanti** per il progetto:
+- Predecessori/successori in ruoli chiave
+- Collaboratori stretti
+- Figure di collegamento con altre entita' nel DB
+
+### 4. Aggiungi a Neo4j
 
 **Person:**
 ```cypher
@@ -102,7 +133,7 @@ SET e.year = 2008,
     e.location = 'USA'
 ```
 
-### 4. Crea scheda markdown
+### 5. Crea scheda markdown
 
 **IMPORTANTE:** Leggi il template corrispondente e usalo come base per la scheda.
 
@@ -138,7 +169,7 @@ SET e.year = 2008,
 
 Stile: dati verificabili, fonti citate, no speculazioni.
 
-### 5. Evita proliferazione di Organization
+### 6. Evita proliferazione di Organization
 
 **IMPORTANTE:** Prima di creare una nuova Organization, verifica se puoi usare un'org esistente con un ruolo appropriato.
 
@@ -165,7 +196,7 @@ Stile: dati verificabili, fonti citate, no speculazioni.
 
 **Consulta `db/schema.yaml`** per l'elenco completo dei ruoli disponibili (affiliation_roles).
 
-### 6. Crea stub per entita' referenziate
+### 7. Crea stub per entita' referenziate
 
 Per ogni org/person referenziata che non esiste:
 ```cypher
@@ -178,7 +209,7 @@ MERGE (o:Organization {id: 'ref-id'})
 SET o:Company, o.status = 'active'
 ```
 
-### 7. Report
+### 8. Report
 
 - Nodo creato/aggiornato (Person/Organization/Family/Event)
 - Relazioni create (AFFILIATED_WITH, MEMBER_OF, STAKE_IN)

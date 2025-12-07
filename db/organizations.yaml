@@ -1,5 +1,6 @@
 organizations:
   abb:
+    name: ABB Ltd
     type: company
     founded: 1988
     headquarters: Zurich, Switzerland
@@ -12,6 +13,7 @@ organizations:
     - org: investor-ab
       role: major-shareholder
   adl:
+    name: Anti-Defamation League
     type: thinktank
     founded: 1913
     headquarters: New York
@@ -21,6 +23,7 @@ organizations:
       role: executive
       from: 2015
   aipac:
+    name: American Israel Public Affairs Committee
     type: thinktank
     founded: 1963
     headquarters: Washington
@@ -43,6 +46,7 @@ organizations:
       from: 1954
       to: 1974
   ako-capital:
+    name: AKO Capital
     type: hedgefund
     founded: 2005
     headquarters: Londra
@@ -57,6 +61,7 @@ organizations:
       from: 2005
       to: 2020
   alphabet:
+    name: Alphabet
     type: company
     headquarters: Mountain View
     status: active
@@ -80,6 +85,7 @@ organizations:
       role: stake
       share: 0.03
   amazon:
+    name: Amazon
     type: company
     headquarters: Seattle
     status: active
@@ -107,6 +113,7 @@ organizations:
       role: stake
       share: 0.034
   ambasciata-usa-austria:
+    name: Ambasciata USA Austria
     type: government
     headquarters: Vienna
     status: active
@@ -116,6 +123,7 @@ organizations:
       from: 1986
       to: 1987
   american-express:
+    name: American Express
     type: company
     founded: 1850
     headquarters: New York
@@ -125,6 +133,7 @@ organizations:
     - org: berkshire-hathaway
       role: stake
   american-jewish-congress:
+    name: American Jewish Congress
     type: thinktank
     founded: 1918
     headquarters: New York
@@ -134,11 +143,13 @@ organizations:
       role: founder
       from: 1918
   ansa:
+    name: ANSA
     type: media
     founded: 1945
     headquarters: Roma
     status: active
   apple:
+    name: Apple
     type: company
     founded: 1976
     headquarters: Cupertino
@@ -181,6 +192,7 @@ organizations:
     - org: berkshire-hathaway
       role: stake
   arm:
+    name: ARM Holdings
     type: company
     founded: 1990
     headquarters: Cambridge
@@ -194,6 +206,7 @@ organizations:
       role: subsidiary
       share: 0.9
   aspen-institute:
+    name: Aspen Institute
     type: thinktank
     founded: 1950
     headquarters: Washington
@@ -210,6 +223,7 @@ organizations:
     - org: trilaterale
       role: partner
   aspen-romania:
+    name: Aspen Romania
     type: thinktank
     headquarters: Bucarest, Romania
     status: active
@@ -218,6 +232,7 @@ organizations:
       role: member
       note: Speaker
   atlas-copco:
+    name: Atlas Copco
     type: company
     founded: 1873
     headquarters: Stockholm, Sweden
@@ -231,6 +246,7 @@ organizations:
     - org: investor-ab
       role: major-shareholder
   audi:
+    name: Audi
     type: company
     founded: 1909
     headquarters: Ingolstadt
@@ -243,6 +259,7 @@ organizations:
     - org: volkswagen
       role: subsidiary
   banca-italia:
+    name: Banca d'Italia
     type: centralbank
     headquarters: Roma
     status: active
@@ -264,6 +281,7 @@ organizations:
     - org: bis
       role: partner
   banca-mondiale:
+    name: World Bank
     type: agency
     founded: 1944
     headquarters: Washington
@@ -304,6 +322,7 @@ organizations:
     - org: fmi
       role: partner
   banco-ambrosiano-veneto:
+    name: Banco Ambrosiano Veneto
     type: bank
     headquarters: Milano
     status: active
@@ -311,6 +330,7 @@ organizations:
     - person: giovanni-bazoli
       role: executive
   bank-of-america:
+    name: Bank of America
     type: bank
     headquarters: Charlotte
     status: active
@@ -328,6 +348,7 @@ organizations:
     - org: berkshire-hathaway
       role: stake
   barclays:
+    name: Barclays
     type: bank
     founded: 1690
     headquarters: Londra
@@ -337,11 +358,13 @@ organizations:
       role: stake
       share: 0.06
   baring:
+    name: Baring
     type: bank
     founded: 1762
     headquarters: Londra
     status: active
   bassa-sassonia:
+    name: Bassa Sassonia
     type: government
     headquarters: Hannover
     status: active
@@ -357,6 +380,7 @@ organizations:
       role: stake
       share: 0.2
   bce:
+    name: Banca Centrale Europea
     type: centralbank
     founded: 1998
     headquarters: Francoforte
@@ -372,6 +396,7 @@ organizations:
     - org: bis
       role: partner
   bentley:
+    name: Bentley
     type: company
     founded: 1919
     headquarters: Crewe
@@ -380,6 +405,7 @@ organizations:
     - org: volkswagen
       role: subsidiary
   berkshire-hathaway:
+    name: Berkshire Hathaway
     type: company
     founded: 1839
     headquarters: Omaha
@@ -409,6 +435,7 @@ organizations:
       role: stake
       share: 0.035
   bilderberg:
+    name: Bilderberg Group
     type: forum
     founded: 1954
     headquarters: variabile
@@ -486,6 +513,7 @@ organizations:
     - org: trilaterale
       role: partner
   bipartisan-policy-center:
+    name: Bipartisan Policy Center
     type: thinktank
     founded: 2007
     headquarters: Washington
@@ -494,6 +522,7 @@ organizations:
     - person: michael-makovsky
       role: executive
   bis:
+    name: Bank for International Settlements
     type: centralbank
     founded: 1930
     headquarters: Basilea
@@ -502,6 +531,7 @@ organizations:
     - org: bce
       role: partner
   blackrock:
+    name: BlackRock
     type: assetmanager
     founded: 1988
     headquarters: New York
@@ -554,6 +584,7 @@ organizations:
       role: stake
       share: 0.036
   blackstone:
+    name: Blackstone
     type: privateequity
     founded: 1985
     headquarters: New York
@@ -564,6 +595,7 @@ organizations:
     - person: stephen-schwarzman
       role: executive
   blue-origin:
+    name: Blue Origin
     type: company
     headquarters: Kent
     status: active
@@ -572,6 +604,7 @@ organizations:
       role: founder
       from: 2000
   breakthrough-energy:
+    name: Breakthrough Energy
     type: foundation
     founded: 2015
     headquarters: Seattle
@@ -586,6 +619,7 @@ organizations:
       role: founder
       from: 2015
   bridgewater:
+    name: Bridgewater Associates
     type: hedgefund
     founded: 1975
     headquarters: Connecticut
@@ -594,6 +628,7 @@ organizations:
     - person: ray-dalio
       role: founder
   broadcom:
+    name: Broadcom
     type: company
     founded: 1961
     headquarters: Palo Alto
@@ -613,6 +648,7 @@ organizations:
       role: stake
       share: 0.034
   business-roundtable:
+    name: Business Roundtable
     type: thinktank
     founded: 1972
     headquarters: Washington
@@ -621,6 +657,7 @@ organizations:
     - person: mark-zuckerberg
       role: member
   carlyle-group:
+    name: Carlyle Group
     type: privateequity
     founded: 1987
     headquarters: Washington
@@ -633,6 +670,7 @@ organizations:
     - person: david-rubenstein
       role: chairman
   cea:
+    name: Council of Economic Advisers
     type: agency
     founded: 1946
     headquarters: Washington
@@ -643,6 +681,7 @@ organizations:
       from: 1974
       to: 1977
   cfr:
+    name: Council on Foreign Relations
     type: thinktank
     founded: 1921
     headquarters: New York
@@ -682,6 +721,11 @@ organizations:
       role: member
     - person: vernon-jordan
       role: board
+    - person: allen-dulles
+      role: chairman
+      from: 1927
+      to: 1969
+      note: Director 1927, Secretary 1933-44, President 1946-50
     - person: david-rockefeller
       role: chairman
       from: 1970
@@ -699,6 +743,7 @@ organizations:
     - org: kissinger-associates
       role: partner
   chan-zuckerberg-initiative:
+    name: Chan Zuckerberg Initiative
     type: foundation
     founded: 2015
     headquarters: Palo Alto
@@ -708,6 +753,7 @@ organizations:
       role: founder
       from: 2015
   chase-manhattan:
+    name: Chase Manhattan
     type: bank
     headquarters: New York
     status: active
@@ -723,6 +769,7 @@ organizations:
       from: 1969
       to: 1981
   chevron:
+    name: Chevron
     type: company
     headquarters: San Ramon
     status: active
@@ -731,7 +778,9 @@ organizations:
     - org: berkshire-hathaway
       role: stake
   cia:
+    name: Central Intelligence Agency
     type: agency
+    founded: 1947
     headquarters: Langley
     status: active
     stakeholders:
@@ -747,7 +796,43 @@ organizations:
       role: executive
       from: 1991
       to: 1993
+    - person: allen-dulles
+      role: executive
+      from: 1953
+      to: 1961
+      note: Director
+    - person: james-angleton
+      role: executive
+      from: 1954
+      to: 1975
+      note: Chief of Counterintelligence
+    - person: william-colby
+      role: executive
+      from: 1973
+      to: 1976
+      note: Director
+    - person: richard-helms
+      role: executive
+      from: 1966
+      to: 1973
+      note: Director
+    - person: william-casey
+      role: executive
+      from: 1981
+      to: 1987
+      note: Director
+    - person: frank-wisner
+      role: executive
+      from: 1948
+      to: 1962
+      note: Deputy Director Plans
+    - org: oss
+      role: predecessor
+      from: 1942
+      to: 1947
+      note: OSS sciolto 1945, personale e strutture trasferiti a CIA 1947
   citigroup:
+    name: Citigroup
     type: bank
     headquarters: New York
     status: active
@@ -756,6 +841,7 @@ organizations:
       role: advisor
       from: 1999
   clinton-foundation:
+    name: Clinton Foundation
     type: foundation
     founded: 2001
     headquarters: New York
@@ -765,6 +851,7 @@ organizations:
       role: founder
       from: 2001
   coca-cola:
+    name: Coca-Cola
     type: company
     founded: 1886
     headquarters: Atlanta
@@ -778,6 +865,7 @@ organizations:
       role: stake
       share: 0.093
   collegio-europa:
+    name: College of Europe
     type: thinktank
     founded: 1949
     headquarters: Bruges
@@ -816,6 +904,7 @@ organizations:
     - person: jan-tinbergen
       role: professor
   commissione-ue:
+    name: Commissione Europea
     type: agency
     founded: 1958
     headquarters: Bruxelles
@@ -895,6 +984,7 @@ organizations:
       from: 2002
       to: 2005
   commonwealth:
+    name: Commonwealth
     type: agency
     founded: 1931
     headquarters: London, UK
@@ -910,16 +1000,19 @@ organizations:
       to: 2022
       note: Head of the Commonwealth
   conference-of-presidents:
+    name: Conference of Presidents
     type: forum
     founded: 1956
     headquarters: New York
     status: active
   corriere-della-sera:
+    name: Corriere della Sera
     type: media
     founded: 1876
     headquarters: Milano
     status: active
   dod:
+    name: Department of Defense
     type: government
     headquarters: Washington
     status: active
@@ -949,6 +1042,7 @@ organizations:
     - org: rand-corporation
       role: partner
   ducati:
+    name: Ducati
     type: company
     founded: 1926
     headquarters: Bologna
@@ -957,6 +1051,7 @@ organizations:
     - org: volkswagen
       role: subsidiary
   economist:
+    name: The Economist
     type: media
     founded: 1843
     headquarters: Londra
@@ -966,11 +1061,13 @@ organizations:
       role: chairman
       from: 2009
   electrolux:
+    name: Electrolux
     type: company
     founded: 1919
     headquarters: Stockholm, Sweden
     status: active
   eli-lilly:
+    name: Eli Lilly
     type: company
     founded: 1876
     headquarters: Indianapolis
@@ -990,6 +1087,7 @@ organizations:
       role: stake
       share: 0.107
   eni:
+    name: ENI
     type: company
     founded: 1953
     headquarters: Roma
@@ -1004,6 +1102,7 @@ organizations:
       from: 1992
       to: 1998
   ericsson:
+    name: Ericsson
     type: company
     founded: 1876
     headquarters: Stockholm, Sweden
@@ -1021,6 +1120,7 @@ organizations:
     - org: investor-ab
       role: major-shareholder
   ert:
+    name: European Round Table of Industrialists
     type: forum
     founded: 1983
     headquarters: Brussels, Belgium
@@ -1029,11 +1129,13 @@ organizations:
     - person: jacob-wallenberg
       role: member
   estee-lauder:
+    name: Estee Lauder
     type: company
     founded: 1946
     headquarters: New York
     status: active
   ethos-water:
+    name: Ethos Water
     type: company
     founded: 2002
     headquarters: California
@@ -1044,6 +1146,7 @@ organizations:
       from: 2002
       to: 2005
   eurogroup:
+    name: Eurogroup
     type: agency
     founded: 1998
     headquarters: Bruxelles
@@ -1054,6 +1157,7 @@ organizations:
       from: 2005
       to: 2013
   exor:
+    name: EXOR
     type: company
     headquarters: Amsterdam
     status: active
@@ -1062,6 +1166,7 @@ organizations:
       role: executive
       from: 2004
   exxon-mobil:
+    name: ExxonMobil
     type: company
     headquarters: Irving
     status: active
@@ -1077,6 +1182,7 @@ organizations:
       role: stake
       share: 0.04
   federal-reserve:
+    name: Federal Reserve
     type: centralbank
     founded: 1913
     headquarters: Washington
@@ -1098,6 +1204,7 @@ organizations:
     - org: bis
       role: partner
   federal-reserve-ny:
+    name: Federal Reserve Bank of New York
     type: centralbank
     headquarters: New York
     status: active
@@ -1113,6 +1220,7 @@ organizations:
     - org: warburg-pincus
       role: partner
   fiat:
+    name: FIAT
     type: company
     headquarters: Torino
     status: active
@@ -1122,6 +1230,7 @@ organizations:
       from: 1966
       to: 1996
   fii-saudi:
+    name: Future Investment Initiative
     type: forum
     founded: 2017
     headquarters: Riad
@@ -1139,7 +1248,21 @@ organizations:
       role: member
     - person: stephen-schwarzman
       role: member
+  five-eyes:
+    name: Five Eyes
+    type: agency
+    founded: 1946
+    status: active
+    sector: intelligence
+    stakeholders:
+    - org: cia
+      role: founding member
+      from: 1946
+    - org: mi6
+      role: founding member
+      from: 1946
   fmi:
+    name: Fondo Monetario Internazionale
     type: agency
     founded: 1944
     headquarters: Washington
@@ -1158,6 +1281,7 @@ organizations:
     - org: banca-mondiale
       role: partner
   founders-fund:
+    name: Founders Fund
     type: privateequity
     headquarters: San Francisco
     status: active
@@ -1166,6 +1290,7 @@ organizations:
       role: partner
       from: 2005
   gates-foundation:
+    name: Bill & Melinda Gates Foundation
     type: foundation
     founded: 2000
     headquarters: Seattle
@@ -1179,6 +1304,7 @@ organizations:
       from: 2006
       to: 2021
   gavi:
+    name: GAVI Alliance
     type: agency
     founded: 2000
     headquarters: Ginevra
@@ -1190,7 +1316,15 @@ organizations:
       note: Board Chair
     - person: tedros-adhanom
       role: board
+  gchq:
+    name: Government Communications Headquarters
+    type: agency
+    founded: 1919
+    headquarters: Cheltenham, UK
+    status: active
+    sector: intelligence
   gedi:
+    name: GEDI Gruppo Editoriale
     type: media
     headquarters: Roma
     status: active
@@ -1199,6 +1333,7 @@ organizations:
       role: owner
       from: 2020
   giving-pledge:
+    name: Giving Pledge
     type: foundation
     founded: 2010
     headquarters: Seattle
@@ -1208,6 +1343,7 @@ organizations:
       role: founder
       from: 2010
   global-fund:
+    name: Global Fund
     type: agency
     founded: 2002
     headquarters: Ginevra
@@ -1218,6 +1354,7 @@ organizations:
       from: 2009
       to: 2011
   goldman-sachs:
+    name: Goldman Sachs
     type: bank
     founded: 1869
     headquarters: New York
@@ -1257,6 +1394,7 @@ organizations:
     - org: bce
       role: partner
   governo-belgio:
+    name: Governo Belgio
     type: government
     headquarters: Bruxelles
     status: active
@@ -1266,6 +1404,7 @@ organizations:
       from: 2020
       to: 2024
   governo-canada:
+    name: Governo Canada
     type: government
     headquarters: Ottawa
     status: active
@@ -1280,6 +1419,7 @@ organizations:
       role: minister
       from: 2020
   governo-estonia:
+    name: Governo Estonia
     type: government
     headquarters: Tallinn
     status: active
@@ -1293,6 +1433,7 @@ organizations:
       from: 2002
       to: 2003
   governo-etiopia:
+    name: Governo Etiopia
     type: government
     headquarters: Addis Abeba
     status: active
@@ -1302,6 +1443,7 @@ organizations:
       from: 2012
       to: 2016
   governo-finlandia:
+    name: Governo Finlandia
     type: government
     headquarters: Helsinki
     status: active
@@ -1314,6 +1456,7 @@ organizations:
       role: leader
       from: 2024
   governo-francia:
+    name: Governo Francia
     type: government
     headquarters: Parigi
     status: active
@@ -1334,6 +1477,7 @@ organizations:
       from: 1981
       to: 1984
   governo-germania:
+    name: Governo Germania
     type: government
     headquarters: Berlino
     status: active
@@ -1354,6 +1498,7 @@ organizations:
       from: 2013
       to: 2019
   governo-irlanda:
+    name: Governo Irlanda
     type: government
     headquarters: Dublino
     status: active
@@ -1363,6 +1508,7 @@ organizations:
       from: 2022
       to: 2024
   governo-italia:
+    name: Governo Italia
     type: government
     headquarters: Roma
     status: active
@@ -1405,6 +1551,7 @@ organizations:
       from: 2018
       to: 2019
   governo-lussemburgo:
+    name: Governo Lussemburgo
     type: government
     headquarters: Lussemburgo
     status: active
@@ -1426,6 +1573,7 @@ organizations:
       from: 1995
       to: 2013
   governo-norvegia:
+    name: Governo Norvegia
     type: government
     headquarters: Oslo
     status: active
@@ -1443,6 +1591,7 @@ organizations:
       from: 2001
       to: 2004
   governo-nz:
+    name: Governo Nuova Zelanda
     type: government
     headquarters: Wellington
     status: active
@@ -1452,6 +1601,7 @@ organizations:
       from: 2017
       to: 2023
   governo-olanda:
+    name: Governo Olanda
     type: government
     headquarters: The Hague, Netherlands
     status: active
@@ -1462,6 +1612,7 @@ organizations:
       to: 1945
       note: Comandante Forze Interne Olandesi
   governo-portogallo:
+    name: Governo Portogallo
     type: government
     headquarters: Lisbona
     status: active
@@ -1476,6 +1627,7 @@ organizations:
       from: 2002
       to: 2004
   governo-russia:
+    name: Governo Russia
     type: government
     headquarters: Mosca
     status: active
@@ -1485,6 +1637,7 @@ organizations:
       from: 1991
       to: 1999
   governo-svezia:
+    name: Governo Svezia
     type: government
     headquarters: Stockholm, Sweden
     status: active
@@ -1495,6 +1648,7 @@ organizations:
       to: 1945
       note: Legazione Svezia Budapest
   governo-uk:
+    name: Governo UK
     type: government
     headquarters: Londra
     status: active
@@ -1511,7 +1665,13 @@ organizations:
       role: leader
       from: 2010
       to: 2015
+    - person: kim-philby
+      role: diplomat
+      from: 1949
+      to: 1951
+      note: First Secretary British Embassy Washington
   governo-urss:
+    name: Governo URSS
     type: government
     headquarters: Mosca
     status: active
@@ -1521,6 +1681,7 @@ organizations:
       from: 1985
       to: 1991
   governo-usa:
+    name: Governo USA
     type: government
     headquarters: Washington
     status: active
@@ -1571,7 +1732,18 @@ organizations:
       role: leader
       from: 1993
       to: 2001
+    - person: allen-dulles
+      role: diplomat
+      from: 1916
+      to: 1926
+      note: State Department, Vienna, Bern, Berlin, Constantinople
+    - person: john-foster-dulles
+      role: minister
+      from: 1953
+      to: 1959
+      note: Secretary of State
   gruppo-30:
+    name: Group of Thirty
     type: thinktank
     founded: 1978
     headquarters: Washington
@@ -1586,6 +1758,7 @@ organizations:
     - org: warburg-pincus
       role: partner
   harrods:
+    name: Harrods
     type: company
     founded: 1849
     headquarters: Londra
@@ -1596,6 +1769,7 @@ organizations:
     - org: qia
       role: subsidiary
   heathrow-airport:
+    name: Heathrow Airport
     type: company
     founded: 1946
     headquarters: Londra
@@ -1605,6 +1779,7 @@ organizations:
       role: stake
       share: 0.2
   hudson-institute:
+    name: Hudson Institute
     type: thinktank
     founded: 1961
     headquarters: Washington
@@ -1616,6 +1791,7 @@ organizations:
     - org: rand-corporation
       role: partner
   icc:
+    name: International Chamber of Commerce
     type: forum
     founded: 1919
     headquarters: Paris, France
@@ -1626,6 +1802,7 @@ organizations:
       from: 1965
       to: 1967
   ig-farben:
+    name: IG Farben
     type: company
     founded: 1925
     headquarters: Frankfurt, Germany
@@ -1637,11 +1814,13 @@ organizations:
       to: 1937
       note: Parigi
   il-sole-24-ore:
+    name: Il Sole 24 Ore
     type: media
     founded: 1865
     headquarters: Milano
     status: active
   ina:
+    name: INA (Istituto Nazionale Assicurazioni)
     type: company
     headquarters: Roma
     status: active
@@ -1649,6 +1828,7 @@ organizations:
     - person: lorenzo-pallesi
       role: executive
   intesa-sanpaolo:
+    name: Intesa Sanpaolo
     type: bank
     founded: 2007
     headquarters: Torino
@@ -1657,12 +1837,14 @@ organizations:
     - person: giovanni-bazoli
       role: executive
   investor-ab:
+    name: Investor AB
     type: company
     founded: 1916
     headquarters: Stockholm, Sweden
     status: active
     sector: investment
   iri:
+    name: IRI (Istituto Ricostruzione Industriale)
     type: company
     founded: 1933
     headquarters: Roma
@@ -1671,11 +1853,13 @@ organizations:
     - person: riccardo-gallo
       role: leader
   ispi:
+    name: ISPI (Istituto Studi Politica Internazionale)
     type: thinktank
     founded: 1934
     headquarters: Milano, Italia
     status: active
   jinsa:
+    name: Jewish Institute for National Security of America
     type: thinktank
     founded: 1976
     headquarters: Washington
@@ -1688,6 +1872,7 @@ organizations:
       role: leader
       from: 1981
   jpmorgan:
+    name: JPMorgan
     type: bank
     headquarters: New York
     status: active
@@ -1700,6 +1885,7 @@ organizations:
       from: 1980
       to: 1991
   jpmorgan-chase:
+    name: JPMorgan Chase
     type: bank
     founded: 2000
     headquarters: New York
@@ -1726,7 +1912,21 @@ organizations:
       share: 0.035
     - org: federal-reserve
       role: partner
+  kgb:
+    name: Komitet Gosudarstvennoy Bezopasnosti
+    type: agency
+    founded: 1954
+    headquarters: Moscow, USSR
+    status: defunct
+    sector: intelligence
+    stakeholders:
+    - person: kim-philby
+      role: agent
+      from: 1934
+      to: 1988
+      note: Double agent, defected 1963
   kissinger-associates:
+    name: Kissinger Associates
     type: company
     founded: 1982
     headquarters: New York
@@ -1767,6 +1967,7 @@ organizations:
       from: 1982
       to: 2023
   kuhn-loeb:
+    name: Kuhn Loeb
     type: bank
     headquarters: New York
     status: active
@@ -1776,6 +1977,7 @@ organizations:
       from: 1902
       to: 1914
   la-stampa:
+    name: La Stampa
     type: media
     founded: 1867
     headquarters: Torino
@@ -1787,6 +1989,7 @@ organizations:
       role: owner
       from: 2016
   lamborghini:
+    name: Lamborghini
     type: company
     founded: 1963
     headquarters: Sant'Agata Bolognese
@@ -1795,6 +1998,7 @@ organizations:
     - org: volkswagen
       role: subsidiary
   lazard:
+    name: Lazard
     type: bank
     founded: 1848
     headquarters: New York
@@ -1804,10 +2008,12 @@ organizations:
       role: advisor
       from: 2000
   lehman-brothers:
+    name: Lehman Brothers
     type: bank
     headquarters: New York
     status: active
   lilly-endowment:
+    name: Lilly Endowment
     type: foundation
     founded: 1937
     headquarters: Indianapolis
@@ -1817,6 +2023,7 @@ organizations:
       role: stake
       share: 0.107
   lockheed:
+    name: Lockheed
     type: company
     founded: 1926
     headquarters: Bethesda, USA
@@ -1828,11 +2035,13 @@ organizations:
       to: 1976
       note: Scandalo tangenti $1M+
   mediaset:
+    name: Mediaset
     type: media
     founded: 1978
     headquarters: Milano
     status: active
   meta:
+    name: Meta Platforms
     type: company
     headquarters: Menlo Park
     status: active
@@ -1860,7 +2069,41 @@ organizations:
     - org: state-street
       role: stake
       share: 0.035
+  mi6:
+    name: Secret Intelligence Service (MI6)
+    type: agency
+    founded: 1909
+    headquarters: Vauxhall Cross, London, UK
+    status: active
+    sector: intelligence
+    stakeholders:
+    - person: william-donovan
+      role: liaison
+      from: 1940
+      to: 1945
+      note: Coordinamento OSS-SOE-MI6
+    - person: allen-dulles
+      role: liaison
+      from: 1942
+      to: 1945
+      note: OSS Berna - collaborazione wartime
+    - person: james-angleton
+      role: liaison
+      from: 1943
+      to: 1945
+      note: X-2 counterintelligence London/Rome
+    - person: kim-philby
+      role: executive
+      from: 1940
+      to: 1951
+      note: Head of counterespionage, Washington liaison
+    - org: oss
+      role: partner
+      from: 1942
+      to: 1945
+      note: Collaborazione WWII, MI6 mentore di OSS
   microsoft:
+    name: Microsoft
     type: company
     headquarters: Redmond
     status: active
@@ -1888,6 +2131,7 @@ organizations:
       role: stake
       share: 0.035
   morgan-stanley:
+    name: Morgan Stanley
     type: bank
     founded: 1935
     headquarters: New York
@@ -1906,7 +2150,25 @@ organizations:
     - org: state-street
       role: stake
       share: 0.038
+  mossad:
+    name: HaMossad leModiʿin uleTafkidim Meyuḥadim (Mossad)
+    type: agency
+    founded: 1949
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: intelligence
+    stakeholders:
+    - person: james-angleton
+      role: liaison
+      from: 1951
+      to: 1975
+      note: CIA-Mossad liaison, rapporto privilegiato con Amos Manor e Isser Harel
+    - org: cia
+      role: partner
+      from: 1951
+      note: Intelligence sharing, Angleton liaison
   mubadala:
+    name: Mubadala
     type: swf
     founded: 2002
     headquarters: Abu Dhabi
@@ -1915,6 +2177,7 @@ organizations:
     - org: softbank
       role: partner
   nasdaq:
+    name: NASDAQ
     type: company
     founded: 1971
     headquarters: New York, USA
@@ -1924,6 +2187,7 @@ organizations:
     - person: jacob-wallenberg
       role: board
   nato:
+    name: NATO
     type: agency
     founded: 1949
     headquarters: Bruxelles
@@ -1939,6 +2203,7 @@ organizations:
       to: 2014
       note: Presidente Delegazione Italiana, Assemblea Parlamentare
   nobel-foundation:
+    name: Nobel Foundation
     type: foundation
     founded: 1900
     headquarters: Stockholm, Sweden
@@ -1949,6 +2214,7 @@ organizations:
       role: board
       note: Membro del board
   norges-bank-gpfg:
+    name: Norges Bank GPFG
     type: swf
     founded: 1990
     headquarters: Oslo
@@ -1963,6 +2229,7 @@ organizations:
       from: 2008
       to: 2020
   nsa:
+    name: National Security Agency
     type: agency
     headquarters: Washington
     status: active
@@ -1984,6 +2251,7 @@ organizations:
       from: 1969
       to: 1975
   nvidia:
+    name: NVIDIA
     type: company
     headquarters: Santa Clara
     status: active
@@ -2001,6 +2269,7 @@ organizations:
       role: stake
       share: 0.032
   obama-foundation:
+    name: Obama Foundation
     type: foundation
     founded: 2014
     headquarters: Chicago
@@ -2010,6 +2279,7 @@ organizations:
       role: founder
       from: 2017
   oms:
+    name: Organizzazione Mondiale della Sanita
     type: agency
     founded: 1948
     headquarters: Ginevra
@@ -2027,6 +2297,7 @@ organizations:
       from: 2006
       to: 2017
   onu:
+    name: Organizzazione delle Nazioni Unite
     type: agency
     founded: 1945
     headquarters: New York
@@ -2043,10 +2314,12 @@ organizations:
     - org: wef
       role: partner
   opec:
+    name: OPEC
     type: agency
     headquarters: Vienna
     status: active
   open-society:
+    name: Open Society Foundations
     type: foundation
     founded: 1993
     headquarters: New York
@@ -2056,6 +2329,7 @@ organizations:
       role: founder
       from: 1993
   openai:
+    name: OpenAI
     type: company
     founded: 2015
     headquarters: San Francisco
@@ -2070,6 +2344,7 @@ organizations:
     - org: stargate-project
       role: partner
   oracle:
+    name: Oracle
     type: company
     founded: 1977
     headquarters: Austin
@@ -2093,17 +2368,58 @@ organizations:
     - org: stargate-project
       role: partner
   oss:
+    name: Office of Strategic Services (OSS)
     type: agency
     founded: 1942
-    headquarters: Washington, USA
+    headquarters: Washington DC, USA
     status: defunct
+    sector: intelligence
     stakeholders:
     - person: raoul-wallenberg
       role: asset
       from: 1944
       to: 1945
       note: Connessione via Olsen, status controverso
+    - person: william-donovan
+      role: founder
+      from: 1942
+      to: 1945
+      note: Direttore OSS
+    - person: allen-dulles
+      role: executive
+      from: 1942
+      to: 1945
+      note: Capo stazione OSS Berna
+    - person: james-angleton
+      role: executive
+      from: 1943
+      to: 1945
+      note: Capo X-2 Roma
+    - person: william-colby
+      role: member
+      from: 1943
+      to: 1945
+    - person: richard-helms
+      role: member
+      from: 1943
+      to: 1945
+    - person: william-casey
+      role: executive
+      from: 1943
+      to: 1945
+      note: SI Europe
+    - person: frank-wisner
+      role: executive
+      from: 1943
+      to: 1945
+      note: OSS Romania
+    - person: max-corvo
+      role: executive
+      from: 1943
+      to: 1945
+      note: Chief SI Italy
   palantir:
+    name: Palantir
     type: company
     headquarters: Denver
     status: active
@@ -2112,6 +2428,7 @@ organizations:
       role: founder
       from: 2003
   paypal:
+    name: PayPal
     type: company
     headquarters: San Jose
     status: active
@@ -2125,11 +2442,13 @@ organizations:
       from: 1998
       to: 2002
   paypal-mafia:
+    name: PayPal Mafia
     type: forum
     founded: 1998
     headquarters: Silicon Valley
     status: active
   pif-saudi:
+    name: Public Investment Fund (PIF)
     type: swf
     founded: 1971
     headquarters: Riyadh
@@ -2144,6 +2463,7 @@ organizations:
     - org: softbank
       role: partner
   porsche-ag:
+    name: Porsche AG
     type: company
     founded: 1931
     headquarters: Stoccarda
@@ -2162,6 +2482,7 @@ organizations:
       role: subsidiary
       share: 0.75
   porsche-se:
+    name: Porsche SE
     type: company
     founded: 2007
     headquarters: Stoccarda
@@ -2183,6 +2504,7 @@ organizations:
       role: stake
       share: 0.25
   psg:
+    name: Paris Saint-Germain
     type: company
     founded: 1970
     headquarters: Parigi
@@ -2194,6 +2516,7 @@ organizations:
     - org: qia
       role: subsidiary
   qatar-airways:
+    name: Qatar Airways
     type: company
     founded: 1993
     headquarters: Doha
@@ -2204,6 +2527,7 @@ organizations:
     - org: qia
       role: subsidiary
   qia:
+    name: Qatar Investment Authority
     type: swf
     founded: 2005
     headquarters: Doha
@@ -2226,6 +2550,7 @@ organizations:
       role: stake
       share: 0.17
   qnb:
+    name: Qatar National Bank
     type: bank
     founded: 1964
     headquarters: Doha
@@ -2236,11 +2561,13 @@ organizations:
     - org: qia
       role: subsidiary
   rai:
+    name: RAI
     type: media
     founded: 1954
     headquarters: Roma
     status: active
   rand-corporation:
+    name: RAND Corporation
     type: thinktank
     founded: 1948
     headquarters: Santa Monica
@@ -2268,10 +2595,12 @@ organizations:
       role: executive
       from: 2022
   rcs-mediagroup:
+    name: RCS MediaGroup
     type: media
     headquarters: Milano
     status: active
   repubblica:
+    name: La Repubblica
     type: media
     founded: 1976
     headquarters: Roma
@@ -2281,11 +2610,13 @@ organizations:
       role: owner
       from: 2020
   reuters:
+    name: Reuters
     type: media
     founded: 1851
     headquarters: Londra
     status: active
   rockefeller-foundation:
+    name: Rockefeller Foundation
     type: foundation
     founded: 1913
     headquarters: New York
@@ -2294,6 +2625,7 @@ organizations:
     - person: robert-mcnamara
       role: board
   rothschild-cie:
+    name: Rothschild & Cie
     type: bank
     headquarters: Parigi
     status: active
@@ -2303,6 +2635,7 @@ organizations:
       from: 2008
       to: 2012
   rothschild-co:
+    name: Rothschild & Co
     type: bank
     headquarters: Parigi/Londra
     status: active
@@ -2310,6 +2643,7 @@ organizations:
     - person: david-de-rothschild-fr
       role: chairman
   saab:
+    name: Saab
     type: company
     founded: 1937
     headquarters: Stockholm, Sweden
@@ -2322,6 +2656,7 @@ organizations:
     - org: investor-ab
       role: major-shareholder
   sas:
+    name: SAS (Scandinavian Airlines)
     type: company
     founded: 1946
     headquarters: Stockholm, Sweden
@@ -2331,6 +2666,7 @@ organizations:
     - person: marcus-wallenberg-jr
       role: chairman
   saudi-aramco:
+    name: Saudi Aramco
     type: company
     headquarters: Arabia Saudita
     status: active
@@ -2339,6 +2675,7 @@ organizations:
       role: chairman
       from: 2019
   seagram:
+    name: Seagram
     type: company
     founded: 1857
     headquarters: Montreal
@@ -2349,6 +2686,7 @@ organizations:
       from: 1971
       to: 1994
   seat:
+    name: SEAT
     type: company
     founded: 1950
     headquarters: Martorell
@@ -2357,6 +2695,7 @@ organizations:
     - org: volkswagen
       role: subsidiary
   seb:
+    name: SEB (Skandinaviska Enskilda Banken)
     type: bank
     founded: 1856
     headquarters: Stockholm, Sweden
@@ -2378,6 +2717,7 @@ organizations:
     - org: investor-ab
       role: major-shareholder
   sg-warburg:
+    name: S.G. Warburg
     type: bank
     founded: 1946
     headquarters: Londra
@@ -2390,6 +2730,7 @@ organizations:
     - org: kissinger-associates
       role: partner
   skoda:
+    name: Skoda
     type: company
     founded: 1895
     headquarters: Mlada Boleslav
@@ -2398,6 +2739,7 @@ organizations:
     - org: volkswagen
       role: subsidiary
   softbank:
+    name: SoftBank
     type: agency
     founded: 1981
     headquarters: Tokyo
@@ -2417,6 +2759,7 @@ organizations:
     - org: stargate-project
       role: partner
   spacex:
+    name: SpaceX
     type: company
     headquarters: Hawthorne
     status: active
@@ -2428,6 +2771,7 @@ organizations:
       role: executive
       from: 2002
   stargate-project:
+    name: Stargate Project
     type: company
     founded: 2025
     headquarters: USA
@@ -2444,6 +2788,7 @@ organizations:
       role: chairman
       from: 2025
   state-street:
+    name: State Street
     type: assetmanager
     founded: 1792
     headquarters: Boston
@@ -2475,6 +2820,7 @@ organizations:
       role: stake
       share: 0.023
   stellantis:
+    name: Stellantis
     type: company
     headquarters: Amsterdam
     status: active
@@ -2482,7 +2828,25 @@ organizations:
     - person: john-elkann
       role: chairman
       from: 2021
+  sullivan-cromwell:
+    name: Sullivan & Cromwell
+    type: company
+    founded: 1879
+    headquarters: New York, USA
+    status: active
+    sector: law
+    stakeholders:
+    - person: allen-dulles
+      role: partner
+      from: 1926
+      to: 1942
+    - person: john-foster-dulles
+      role: partner
+      from: 1911
+      to: 1953
+      note: Senior Partner
   telecom-italia:
+    name: Telecom Italia
     type: company
     headquarters: Milano
     status: active
@@ -2492,6 +2856,7 @@ organizations:
       from: 1998
       to: 1999
   tesla:
+    name: Tesla
     type: company
     headquarters: Austin
     status: active
@@ -2516,6 +2881,7 @@ organizations:
       role: stake
       share: 0.028
   tesoro-italia:
+    name: Tesoro Italia
     type: government
     headquarters: Roma
     status: active
@@ -2529,6 +2895,7 @@ organizations:
       from: 1989
       to: 1992
   tesoro-usa:
+    name: US Treasury
     type: government
     headquarters: Washington
     status: active
@@ -2548,6 +2915,7 @@ organizations:
     - org: banca-mondiale
       role: partner
   the-elders:
+    name: The Elders
     type: forum
     founded: 2007
     headquarters: Londra
@@ -2556,6 +2924,7 @@ organizations:
     - person: gro-harlem-brundtland
       role: chairman
   tiktok-usa:
+    name: TikTok USA
     type: company
     founded: 2025
     headquarters: USA
@@ -2566,6 +2935,7 @@ organizations:
       role: shareholder
       from: 2025
   tony-blair-institute:
+    name: Tony Blair Institute
     type: thinktank
     founded: 2016
     headquarters: Londra
@@ -2581,6 +2951,7 @@ organizations:
     - person: nick-carter
       role: advisor
   trilateral-commission:
+    name: Trilateral Commission
     type: forum
     founded: 1973
     headquarters: Washington, USA
@@ -2589,6 +2960,7 @@ organizations:
     - person: jacob-wallenberg
       role: member
   trilaterale:
+    name: Trilateral Commission
     type: forum
     founded: 1973
     headquarters: Washington/Tokyo/Paris
@@ -2635,6 +3007,7 @@ organizations:
     - org: cfr
       role: partner
   tsmc:
+    name: TSMC
     type: company
     founded: 1987
     headquarters: Hsinchu
@@ -2661,12 +3034,14 @@ organizations:
       role: stake
       share: 0.02
   uber:
+    name: Uber
     type: company
     founded: 2009
     headquarters: San Francisco
     status: active
     sector: tech
   vanguard:
+    name: Vanguard
     type: assetmanager
     founded: 1975
     headquarters: Pennsylvania
@@ -2698,6 +3073,7 @@ organizations:
       role: stake
       share: 0.054
   volkswagen:
+    name: Volkswagen
     type: company
     founded: 1937
     headquarters: Wolfsburg
@@ -2756,6 +3132,7 @@ organizations:
       role: stake
       share: 0.2
   walmart:
+    name: Walmart
     type: company
     founded: 1962
     headquarters: Bentonville
@@ -2778,6 +3155,7 @@ organizations:
       role: subsidiary
       share: 0.46
   walton-enterprises:
+    name: Walton Enterprises
     type: company
     headquarters: Bentonville
     status: active
@@ -2786,6 +3164,7 @@ organizations:
       role: stake
       share: 0.46
   war-refugee-board:
+    name: War Refugee Board
     type: agency
     founded: 1944
     headquarters: Washington, USA
@@ -2797,6 +3176,7 @@ organizations:
       to: 1945
       note: Reclutato da Iver Olsen
   warburg-pincus:
+    name: Warburg Pincus
     type: privateequity
     founded: 1966
     headquarters: New York
@@ -2813,6 +3193,7 @@ organizations:
     - org: cfr
       role: partner
   washington-post:
+    name: The Washington Post
     type: media
     founded: 1877
     headquarters: Washington
@@ -2826,6 +3207,7 @@ organizations:
       from: 1974
       to: 2011
   wef:
+    name: World Economic Forum
     type: forum
     founded: 1971
     headquarters: Ginevra
@@ -2928,21 +3310,25 @@ organizations:
     - org: qia
       role: partner
   wells-fargo:
+    name: Wells Fargo
     type: bank
     headquarters: San Francisco
     status: active
     sector: finance
   wework:
+    name: WeWork
     type: company
     founded: 2010
     headquarters: New York
     status: active
     sector: consumer
   white-house:
+    name: White House
     type: government
     headquarters: Washington
     status: active
   world-jewish-congress:
+    name: World Jewish Congress
     type: forum
     founded: 1936
     headquarters: New York
@@ -2973,6 +3359,7 @@ organizations:
       from: 1981
       to: 2007
   world-jewish-restitution-org:
+    name: World Jewish Restitution Organization
     type: thinktank
     founded: 1993
     headquarters: New York
@@ -2982,6 +3369,7 @@ organizations:
       role: executive
       from: 2008
   wwf:
+    name: World Wildlife Fund
     type: foundation
     founded: 1961
     headquarters: Gland, Switzerland
@@ -3002,6 +3390,7 @@ organizations:
       to: 1976
       note: Primo presidente
   x-twitter:
+    name: X (Twitter)
     type: company
     headquarters: San Francisco
     status: active
@@ -3013,6 +3402,7 @@ organizations:
       role: shareholder
       from: 2022
   young-global-leaders:
+    name: Young Global Leaders
     type: forum
     founded: 1992
     status: active
