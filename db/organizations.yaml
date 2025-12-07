@@ -296,6 +296,18 @@ organizations:
     - person: federica-mogherini
       role: member
       note: Speaker
+  atlantik-brucke:
+    name: Atlantik-Brücke
+    type: thinktank
+    founded: 1952
+    headquarters: Berlin, Germany
+    status: active
+    sector: transatlantic-relations
+    stakeholders:
+    - person: friedrich-merz
+      role: chairman
+      from: 2009
+      to: 2019
   atlantik-bruecke:
     type: forum
     founded: 1952
@@ -639,6 +651,10 @@ organizations:
     - person: peter-sutherland
       role: steering
       to: 2014
+    - person: friedrich-merz
+      role: member
+      from: 2024
+      note: Participant Bilderberg 2024
     - org: trilaterale
       role: partner
   bipartisan-policy-center:
@@ -678,6 +694,11 @@ organizations:
       role: founder
       from: 1988
       to: 2012
+    - person: friedrich-merz
+      role: chairman
+      from: 2016
+      to: 2020
+      note: Chairman Supervisory Board BlackRock Germany
     - org: norges-bank-gpfg
       role: stake
     - org: trilaterale
@@ -1557,6 +1578,27 @@ organizations:
     - org: state-street
       role: stake
       share: 0.04
+  fabian-society:
+    name: Fabian Society
+    type: thinktank
+    founded: 1884
+    headquarters: London, UK
+    status: active
+    sector: politics
+    stakeholders:
+    - person: tony-blair
+      role: member
+      note: PM Labour 1997-2007
+    - person: john-maynard-keynes
+      role: member
+      note: Economista ufficiale del fabianesimo
+    - person: roy-jenkins
+      role: chairman
+      from: 1957
+      to: 1958
+    - person: keir-starmer
+      role: board
+      note: Former executive committee member
   federal-reserve:
     name: Federal Reserve
     type: centralbank
@@ -2062,6 +2104,14 @@ organizations:
       from: 1998
       to: 2005
       note: chancellor
+    - person: friedrich-merz
+      role: leader
+      from: 2025
+      note: Cancelliere
+    - person: friedrich-merz
+      role: legislator
+      from: 1994
+      to: 2009
   governo-grecia:
     name: Governo Grecia
     type: government
@@ -2464,6 +2514,14 @@ organizations:
       from: 2020
       to: 2022
       note: Chancellor of Exchequer
+    - person: keir-starmer
+      role: leader
+      from: 2024
+      note: Prime Minister
+    - person: keir-starmer
+      role: legislator
+      from: 2015
+      note: MP Holborn and St Pancras
   governo-urss:
     name: Governo URSS
     type: government
@@ -3710,6 +3768,10 @@ organizations:
       role: member
       from: 2014
       note: MEP Bulgaria
+    - person: friedrich-merz
+      role: member
+      from: 1989
+      to: 1994
   paypal:
     name: PayPal
     type: company
@@ -4382,11 +4444,14 @@ organizations:
       from: 2018
       note: Co-founder, cyber for governments
   tony-blair-institute:
+    file: docs/think-tank/tony-blair-institute.md
     name: Tony Blair Institute
     type: thinktank
     founded: 2016
     headquarters: London
     status: active
+    aum: $121M revenue (2024)
+    note: 40+ governments, Oracle/Ellison funded
     stakeholders:
     - person: tony-blair
       role: founder
@@ -4415,8 +4480,24 @@ organizations:
     headquarters: Washington, USA
     status: active
     stakeholders:
+    - person: roy-jenkins
+      role: member
+      from: 1973
+      note: Membro fondatore gruppo europeo
     - person: jacob-wallenberg
       role: member
+    - person: david-rockefeller
+      role: founder
+      from: 1973
+      note: Co-fondatore con Brzezinski
+    - person: henry-kissinger
+      role: member
+      from: 1973
+    - person: keir-starmer
+      role: member
+      from: 2017
+      to: 2022
+      note: Member while Shadow Brexit Secretary
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -4908,6 +4989,10 @@ organizations:
       note: Davos 2023 speaker
     - person: peter-sutherland
       role: board
+    - person: friedrich-merz
+      role: member
+      from: 2025
+      note: Speaker Davos 2025
     - org: bilderberg
       role: partner
     - org: fmi

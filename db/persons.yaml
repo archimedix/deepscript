@@ -728,6 +728,10 @@ persons:
       role: chairman
       from: 1969
       to: 1981
+    - org: trilateral-commission
+      role: founder
+      from: 1973
+      note: Co-fondatore con Brzezinski
   david-rockefeller-jr:
     born: 1941
     nationality: USA
@@ -1121,6 +1125,39 @@ persons:
       from: 1943
       to: 1945
       note: OSS Romania
+  friedrich-merz:
+    born: 1955
+    nationality: german
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2024
+      note: Participant Bilderberg 2024
+    - org: wef
+      role: member
+      from: 2025
+      note: Speaker Davos 2025
+    - org: blackrock
+      role: chairman
+      from: 2016
+      to: 2020
+      note: Chairman Supervisory Board BlackRock Germany
+    - org: governo-germania
+      role: leader
+      from: 2025
+      note: Cancelliere
+    - org: governo-germania
+      role: legislator
+      from: 1994
+      to: 2009
+    - org: parlamento-europeo
+      role: member
+      from: 1989
+      to: 1994
+    - org: atlantik-brucke
+      role: chairman
+      from: 2009
+      to: 2019
   gabriele-cagliari:
     born: 1926
     died: 1993
@@ -1446,6 +1483,9 @@ persons:
       role: founder
       from: 1982
       to: 2023
+    - org: trilateral-commission
+      role: member
+      from: 1973
     - org: jpmorgan-international-council
       role: member
   henry-paulson:
@@ -1954,6 +1994,10 @@ persons:
     born: 1883
     died: 1946
     nationality: GBR
+    affiliations:
+    - org: fabian-society
+      role: member
+      note: Economista ufficiale del fabianesimo
   john-mccloy:
     born: 1895
     died: 1989
@@ -2151,6 +2195,26 @@ persons:
       role: executive
       from: 2024
       note: Alto Rappresentante Affari Esteri
+  keir-starmer:
+    born: 1962
+    nationality: british
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 2024
+      note: Prime Minister
+    - org: governo-uk
+      role: legislator
+      from: 2015
+      note: MP Holborn and St Pancras
+    - org: trilateral-commission
+      role: member
+      from: 2017
+      to: 2022
+      note: Member while Shadow Brexit Secretary
+    - org: fabian-society
+      role: board
+      note: Former executive committee member
   keith-alexander:
     born: 1951
     nationality: USA
@@ -3560,6 +3624,14 @@ persons:
       role: executive
       from: 1977
       to: 1981
+    - org: trilateral-commission
+      role: member
+      from: 1973
+      note: Membro fondatore gruppo europeo
+    - org: fabian-society
+      role: chairman
+      from: 1957
+      to: 1958
   rupert-murdoch:
     born: 1931
     nationality: USA
@@ -3931,6 +4003,9 @@ persons:
     - org: jpmorgan-international-council
       role: chairman
       from: 2008
+    - org: fabian-society
+      role: member
+      note: PM Labour 1997-2007
   umberto-agnelli:
     born: 1934
     died: 2004
