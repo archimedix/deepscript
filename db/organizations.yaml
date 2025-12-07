@@ -60,6 +60,17 @@ organizations:
       role: executive
       from: 2005
       to: 2020
+  allen-company:
+    name: Allen & Company
+    type: bank
+    founded: 1922
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: george-tenet
+      role: chairman
+      from: 2007
+      note: Managing Director, Chairman 12 years
   alphabet:
     name: Alphabet
     type: company
@@ -220,6 +231,8 @@ organizations:
       role: leader
     - person: timothy-geithner
       role: chairman
+    - person: michael-morell
+      role: member
     - org: trilaterale
       role: partner
   aspen-romania:
@@ -231,6 +244,14 @@ organizations:
     - person: federica-mogherini
       role: member
       note: Speaker
+  atlantik-bruecke:
+    type: forum
+    founded: 1952
+    headquarters: Berlin, Germany
+    status: active
+    stakeholders:
+    - person: richard-dearlove
+      role: member
   atlas-copco:
     name: Atlas Copco
     type: company
@@ -395,6 +416,18 @@ organizations:
       to: 2019
     - org: bis
       role: partner
+  beacon-global-strategies:
+    name: Beacon Global Strategies
+    type: company
+    founded: 2013
+    headquarters: Washington DC, USA
+    status: active
+    sector: consulting
+    stakeholders:
+    - person: michael-morell
+      role: executive
+      from: 2013
+      note: Senior Counselor, Chairman Geo-Political Risk
   bentley:
     name: Bentley
     type: company
@@ -594,6 +627,19 @@ organizations:
       role: founder
     - person: stephen-schwarzman
       role: executive
+  blackwater:
+    name: Blackwater USA
+    type: company
+    founded: 1997
+    headquarters: North Carolina, USA
+    status: defunct
+    sector: military-contractor
+    stakeholders:
+    - person: cofer-black
+      role: executive
+      from: 2005
+      to: 2008
+      note: Vice Chairman
   blue-origin:
     name: Blue Origin
     type: company
@@ -603,6 +649,17 @@ organizations:
     - person: jeff-bezos
       role: founder
       from: 2000
+  booz-allen-hamilton:
+    name: Booz Allen Hamilton
+    type: company
+    founded: 1914
+    headquarters: Virginia, USA
+    status: active
+    sector: consulting
+    stakeholders:
+    - person: michele-flournoy
+      role: board
+      from: 2018
   breakthrough-energy:
     name: Breakthrough Energy
     type: foundation
@@ -647,6 +704,18 @@ organizations:
     - org: state-street
       role: stake
       share: 0.034
+  burisma:
+    name: Burisma Holdings
+    type: company
+    founded: 2002
+    headquarters: Kyiv, Ukraine
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: cofer-black
+      role: board
+      from: 2017
+      note: Security and Strategic Development
   business-roundtable:
     name: Business Roundtable
     type: thinktank
@@ -731,6 +800,8 @@ organizations:
       from: 1970
       to: 1985
     - person: henry-kissinger
+      role: member
+    - person: michele-flournoy
       role: member
     - org: bilderberg
       role: partner
@@ -826,6 +897,49 @@ organizations:
       from: 1948
       to: 1962
       note: Deputy Director Plans
+    - person: yossi-cohen
+      role: liaison
+      note: George J. Tenet Award 2021
+    - person: david-petraeus
+      role: executive
+      from: 2011
+      to: 2012
+      note: Director
+    - person: george-tenet
+      role: executive
+      from: 1997
+      to: 2004
+      note: Director (7 years, second-longest after Dulles)
+    - person: cofer-black
+      role: executive
+      from: 1974
+      to: 2002
+      note: CTC Director 1999-2002, 28 years service
+    - person: michael-morell
+      role: executive
+      from: 1980
+      to: 2013
+      note: Deputy Director 2010-13, Acting Director 2x
+    - person: avril-haines
+      role: executive
+      from: 2013
+      to: 2015
+      note: Deputy Director (first woman)
+    - person: david-cohen
+      role: executive
+      from: 2015
+      to: 2017
+      note: Deputy Director
+    - person: david-cohen
+      role: executive
+      from: 2021
+      to: 2025
+      note: Deputy Director (second term)
+    - person: leon-panetta
+      role: executive
+      from: 2009
+      to: 2011
+      note: Director, oversaw bin Laden operation
     - org: oss
       role: predecessor
       from: 1942
@@ -850,6 +964,17 @@ organizations:
     - person: bill-clinton
       role: founder
       from: 2001
+  cnas:
+    name: Center for a New American Security
+    type: thinktank
+    founded: 2007
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: michele-flournoy
+      role: founder
+      from: 2007
+      note: Co-Founder, Chair Board of Directors
   coca-cola:
     name: Coca-Cola
     type: company
@@ -1011,6 +1136,14 @@ organizations:
     founded: 1876
     headquarters: Milano
     status: active
+  crossword-cybersecurity:
+    type: company
+    headquarters: London, UK
+    status: active
+    sector: technology
+    stakeholders:
+    - person: richard-dearlove
+      role: chairman
   dod:
     name: Department of Defense
     type: government
@@ -1101,6 +1234,15 @@ organizations:
       role: executive
       from: 1992
       to: 1998
+  equinor:
+    type: company
+    headquarters: Stavanger, Norway
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: john-scarlett
+      role: chairman
+      note: Strategy Advisory Council
   ericsson:
     name: Ericsson
     type: company
@@ -1507,6 +1649,16 @@ organizations:
       role: leader
       from: 2022
       to: 2024
+  governo-israele:
+    type: government
+    headquarters: Jerusalem, Israel
+    status: active
+    stakeholders:
+    - person: yossi-cohen
+      role: advisor
+      from: 2013
+      to: 2016
+      note: National Security Advisor to PM Netanyahu
   governo-italia:
     name: Governo Italia
     type: government
@@ -1742,6 +1894,45 @@ organizations:
       from: 1953
       to: 1959
       note: Secretary of State
+    - person: david-petraeus
+      role: executive
+      from: 2008
+      to: 2011
+      note: CENTCOM Commander, ISAF Commander
+    - person: george-tenet
+      role: advisor
+      from: 1993
+      to: 1995
+      note: NSC Senior Director Intelligence
+    - person: cofer-black
+      role: executive
+      from: 2002
+      to: 2004
+      note: Ambassador-at-Large Counter-terrorism
+    - person: avril-haines
+      role: executive
+      from: 2021
+      note: Director of National Intelligence (first woman)
+    - person: david-cohen
+      role: executive
+      from: 2011
+      to: 2015
+      note: Under Secretary Treasury for Terrorism and Financial Intelligence
+    - person: michele-flournoy
+      role: executive
+      from: 2009
+      to: 2012
+      note: Under Secretary of Defense for Policy (highest-ranking woman in DoD history)
+    - person: leon-panetta
+      role: minister
+      from: 2011
+      to: 2013
+      note: Secretary of Defense
+    - person: leon-panetta
+      role: advisor
+      from: 1994
+      to: 1997
+      note: White House Chief of Staff
   gruppo-30:
     name: Group of Thirty
     type: thinktank
@@ -1757,6 +1948,23 @@ organizations:
       role: member
     - org: warburg-pincus
       role: partner
+  hakluyt:
+    name: Hakluyt & Company
+    type: company
+    founded: 1995
+    headquarters: London, UK
+    status: active
+    sector: corporate-intelligence
+    stakeholders:
+    - person: christopher-james
+      role: founder
+      from: 1995
+      to: 2006
+      note: Co-Founder, led until 2006
+    - person: mike-reynolds
+      role: founder
+      from: 1995
+      note: Co-Founder, Managing Director
   harrods:
     name: Harrods
     type: company
@@ -1778,6 +1986,15 @@ organizations:
     - org: qia
       role: stake
       share: 0.2
+  henry-jackson-society:
+    type: thinktank
+    founded: 2005
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: richard-dearlove
+      role: member
+      note: Signatory Statement of Principles
   hudson-institute:
     name: Hudson Institute
     type: thinktank
@@ -1966,6 +2183,27 @@ organizations:
       role: chairman
       from: 1982
       to: 2023
+  kkr:
+    name: KKR
+    type: privateequity
+    founded: 1976
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: david-petraeus
+      role: partner
+      from: 2013
+      note: Chairman KKR Global Institute, Chairman Middle East
+  kosmos-energy:
+    type: company
+    headquarters: Dallas, USA
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: richard-dearlove
+      role: board
+      from: 2012
+      to: 2023
   kuhn-loeb:
     name: Kuhn Loeb
     type: bank
@@ -2097,6 +2335,26 @@ organizations:
       from: 1940
       to: 1951
       note: Head of counterespionage, Washington liaison
+    - person: richard-dearlove
+      role: executive
+      from: 1999
+      to: 2004
+      note: Chief MI6
+    - person: john-scarlett
+      role: executive
+      from: 2004
+      to: 2009
+      note: Chief MI6
+    - person: christopher-james
+      role: executive
+      from: 1975
+      to: 1995
+      note: 20 years, head MI6-business liaison
+    - person: mike-reynolds
+      role: executive
+      from: 1970
+      to: 1995
+      note: Founded counter-terrorism branch, Head of Station Berlin
     - org: oss
       role: partner
       from: 1942
@@ -2134,9 +2392,12 @@ organizations:
     name: Morgan Stanley
     type: bank
     founded: 1935
-    headquarters: New York
+    headquarters: New York, USA
     status: active
     stakeholders:
+    - person: john-scarlett
+      role: advisor
+      from: 2009
     - org: norges-bank-gpfg
       role: stake
     - org: cfr
@@ -2163,6 +2424,11 @@ organizations:
       from: 1951
       to: 1975
       note: CIA-Mossad liaison, rapporto privilegiato con Amos Manor e Isser Harel
+    - person: yossi-cohen
+      role: executive
+      from: 2016
+      to: 2021
+      note: Director
     - org: cia
       role: partner
       from: 1951
@@ -2365,6 +2631,10 @@ organizations:
     - person: safra-catz
       role: executive
       from: 2014
+    - person: leon-panetta
+      role: board
+      from: 2015
+      note: Board of Directors
     - org: stargate-project
       role: partner
   oss:
@@ -2642,6 +2912,19 @@ organizations:
     stakeholders:
     - person: david-de-rothschild-fr
       role: chairman
+  rusi:
+    type: thinktank
+    founded: 1831
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: richard-dearlove
+      role: board
+      from: 2016
+      note: Vice-Chair, Distinguished Fellow
+    - person: john-scarlett
+      role: board
+      note: Vice-Chair, Distinguished Fellow
   saab:
     name: Saab
     type: company
@@ -2756,6 +3039,10 @@ organizations:
     - person: masayoshi-son
       role: executive
       from: 1981
+    - person: yossi-cohen
+      role: executive
+      from: 2021
+      note: Director Israel Operations
     - org: stargate-project
       role: partner
   spacex:
@@ -2845,6 +3132,16 @@ organizations:
       from: 1911
       to: 1953
       note: Senior Partner
+  swiss-re:
+    type: company
+    founded: 1863
+    headquarters: Zurich, Switzerland
+    status: active
+    sector: insurance
+    stakeholders:
+    - person: john-scarlett
+      role: advisor
+      note: Advisory Board
   telecom-italia:
     name: Telecom Italia
     type: company
@@ -2934,6 +3231,14 @@ organizations:
     - person: larry-ellison
       role: shareholder
       from: 2025
+  times-newspapers:
+    type: media
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: john-scarlett
+      role: board
+      from: 2011
   tony-blair-institute:
     name: Tony Blair Institute
     type: thinktank
@@ -3315,6 +3620,28 @@ organizations:
     headquarters: San Francisco
     status: active
     sector: finance
+  westexec-advisors:
+    name: WestExec Advisors
+    type: company
+    founded: 2017
+    headquarters: Washington DC, USA
+    status: active
+    sector: consulting
+    stakeholders:
+    - person: avril-haines
+      role: partner
+      from: 2017
+      to: 2021
+      note: Principal, consulted for Palantir
+    - person: david-cohen
+      role: partner
+      from: 2017
+      to: 2021
+      note: Principal
+    - person: michele-flournoy
+      role: founder
+      from: 2017
+      note: Co-Founder, Managing Partner
   wework:
     name: WeWork
     type: company
@@ -3327,6 +3654,15 @@ organizations:
     type: government
     headquarters: Washington
     status: active
+  wilson-center:
+    type: thinktank
+    founded: 1968
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: john-scarlett
+      role: chairman
+      note: Co-Chair Global Advisory Council
   world-jewish-congress:
     name: World Jewish Congress
     type: forum

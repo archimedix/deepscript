@@ -146,6 +146,24 @@ persons:
     - org: apple
       role: chairman
       from: 2011
+  avril-haines:
+    born: 1969
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 2013
+      to: 2015
+      note: Deputy Director (first woman)
+    - org: governo-usa
+      role: executive
+      from: 2021
+      note: Director of National Intelligence (first woman)
+    - org: westexec-advisors
+      role: partner
+      from: 2017
+      to: 2021
+      note: Principal, consulted for Palantir
   barack-obama:
     born: 1961
     nationality: USA
@@ -367,6 +385,20 @@ persons:
       role: executive
       from: 2011
       to: 2019
+  christopher-james:
+    born: 1946
+    nationality: GBR
+    affiliations:
+    - org: mi6
+      role: executive
+      from: 1975
+      to: 1995
+      note: 20 years, head MI6-business liaison
+    - org: hakluyt
+      role: founder
+      from: 1995
+      to: 2006
+      note: Co-Founder, led until 2006
   chrystia-freeland:
     born: 1968
     nationality: CAN
@@ -381,6 +413,29 @@ persons:
     - org: governo-canada
       role: minister
       from: 2020
+  cofer-black:
+    born: 1950
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 1974
+      to: 2002
+      note: CTC Director 1999-2002, 28 years service
+    - org: governo-usa
+      role: executive
+      from: 2002
+      to: 2004
+      note: Ambassador-at-Large Counter-terrorism
+    - org: blackwater
+      role: executive
+      from: 2005
+      to: 2008
+      note: Vice Chairman
+    - org: burisma
+      role: board
+      from: 2017
+      note: Security and Strategic Development
   condoleezza-rice:
     born: 1954
     nationality: USA
@@ -402,6 +457,30 @@ persons:
       role: advisor
       from: 1958
       to: 1971
+  david-cohen:
+    born: 1963
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 2015
+      to: 2017
+      note: Deputy Director
+    - org: cia
+      role: executive
+      from: 2021
+      to: 2025
+      note: Deputy Director (second term)
+    - org: governo-usa
+      role: executive
+      from: 2011
+      to: 2015
+      note: Under Secretary Treasury for Terrorism and Financial Intelligence
+    - org: westexec-advisors
+      role: partner
+      from: 2017
+      to: 2021
+      note: Principal
   david-de-rothschild-fr:
     born: 1942
     nationality: FRA
@@ -411,6 +490,24 @@ persons:
       role: chairman
     - org: rothschild-co
       role: chairman
+  david-petraeus:
+    born: 1952
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 2011
+      to: 2012
+      note: Director
+    - org: governo-usa
+      role: executive
+      from: 2008
+      to: 2011
+      note: CENTCOM Commander, ISAF Commander
+    - org: kkr
+      role: partner
+      from: 2013
+      note: Chairman KKR Global Institute, Chairman Middle East
   david-rockefeller:
     born: 1915
     died: 2017
@@ -720,6 +817,24 @@ persons:
     - org: open-society
       role: founder
       from: 1993
+  george-tenet:
+    born: 1953
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 1997
+      to: 2004
+      note: Director (7 years, second-longest after Dulles)
+    - org: governo-usa
+      role: advisor
+      from: 1993
+      to: 1995
+      note: NSC Senior Director Intelligence
+    - org: allen-company
+      role: chairman
+      from: 2007
+      note: Managing Director, Chairman 12 years
   george-w-bush:
     born: 1946
     nationality: USA
@@ -1262,6 +1377,33 @@ persons:
       role: chairman
       from: 1953
       to: 1960
+  john-scarlett:
+    born: 1948
+    nationality: GBR
+    affiliations:
+    - org: morgan-stanley
+      role: advisor
+      from: 2009
+    - org: mi6
+      role: executive
+      from: 2004
+      to: 2009
+      note: Chief MI6
+    - org: rusi
+      role: board
+      note: Vice-Chair, Distinguished Fellow
+    - org: swiss-re
+      role: advisor
+      note: Advisory Board
+    - org: times-newspapers
+      role: board
+      from: 2011
+    - org: wilson-center
+      role: chairman
+      note: Co-Chair Global Advisory Council
+    - org: equinor
+      role: chairman
+      note: Strategy Advisory Council
   jonathan-greenblatt:
     born: 1971
     nationality: USA
@@ -1484,6 +1626,29 @@ persons:
       role: leader
       from: 2022
       to: 2024
+  leon-panetta:
+    born: 1938
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 2009
+      to: 2011
+      note: Director, oversaw bin Laden operation
+    - org: governo-usa
+      role: minister
+      from: 2011
+      to: 2013
+      note: Secretary of Defense
+    - org: governo-usa
+      role: advisor
+      from: 1994
+      to: 1997
+      note: White House Chief of Staff
+    - org: oracle
+      role: board
+      from: 2015
+      note: Board of Directors
   lewis-preston:
     born: 1926
     died: 1995
@@ -1734,6 +1899,56 @@ persons:
       role: advisor
     - org: bipartisan-policy-center
       role: executive
+  michael-morell:
+    born: 1958
+    nationality: USA
+    affiliations:
+    - org: aspen-institute
+      role: member
+    - org: cia
+      role: executive
+      from: 1980
+      to: 2013
+      note: Deputy Director 2010-13, Acting Director 2x
+    - org: beacon-global-strategies
+      role: executive
+      from: 2013
+      note: Senior Counselor, Chairman Geo-Political Risk
+  michele-flournoy:
+    born: 1960
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: member
+    - org: governo-usa
+      role: executive
+      from: 2009
+      to: 2012
+      note: Under Secretary of Defense for Policy (highest-ranking woman in DoD history)
+    - org: westexec-advisors
+      role: founder
+      from: 2017
+      note: Co-Founder, Managing Partner
+    - org: cnas
+      role: founder
+      from: 2007
+      note: Co-Founder, Chair Board of Directors
+    - org: booz-allen-hamilton
+      role: board
+      from: 2018
+  mike-reynolds:
+    born: 1945
+    nationality: GBR
+    affiliations:
+    - org: mi6
+      role: executive
+      from: 1970
+      to: 1995
+      note: Founded counter-terrorism branch, Head of Station Berlin
+    - org: hakluyt
+      role: founder
+      from: 1995
+      note: Co-Founder, Managing Director
   mikhail-gorbachev:
     born: 1931
     died: 2022
@@ -2023,6 +2238,30 @@ persons:
     affiliations:
     - org: fii-saudi
       role: executive
+  richard-dearlove:
+    born: 1945
+    nationality: GBR
+    affiliations:
+    - org: mi6
+      role: executive
+      from: 1999
+      to: 2004
+      note: Chief MI6
+    - org: henry-jackson-society
+      role: member
+      note: Signatory Statement of Principles
+    - org: rusi
+      role: board
+      from: 2016
+      note: Vice-Chair, Distinguished Fellow
+    - org: atlantik-bruecke
+      role: member
+    - org: kosmos-energy
+      role: board
+      from: 2012
+      to: 2023
+    - org: crossword-cybersecurity
+      role: chairman
   richard-helms:
     born: 1913
     died: 2002
@@ -2500,6 +2739,27 @@ persons:
       role: executive
       from: 2008
       to: 2020
+  yossi-cohen:
+    born: 1961
+    nationality: ISR
+    affiliations:
+    - org: cia
+      role: liaison
+      note: George J. Tenet Award 2021
+    - org: softbank
+      role: executive
+      from: 2021
+      note: Director Israel Operations
+    - org: mossad
+      role: executive
+      from: 2016
+      to: 2021
+      note: Director
+    - org: governo-israele
+      role: advisor
+      from: 2013
+      to: 2016
+      note: National Security Advisor to PM Netanyahu
   zalmay-khalilzad:
     born: 1951
     nationality: USA
