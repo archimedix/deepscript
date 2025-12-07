@@ -392,6 +392,11 @@ organizations:
       role: advisor
       from: 1991
       to: 1993
+    - person: maia-sandu
+      role: employee
+      from: 2010
+      to: 2012
+      note: Economist, Chisinau then Washington
     - org: fmi
       role: partner
   banco-ambrosiano-veneto:
@@ -403,12 +408,16 @@ organizations:
     - person: giovanni-bazoli
       role: executive
   bank-of-america:
-    name: Bank of America
+    name: Bank of America Merrill Lynch
     type: bank
-    headquarters: Charlotte
+    headquarters: New York
     status: active
     sector: finance
     stakeholders:
+    - person: neelie-kroes
+      role: advisor
+      from: 2015
+      note: during-cooling-off
     - org: blackrock
       role: stake
       share: 0.07
@@ -563,6 +572,8 @@ organizations:
     - person: john-elkann
       role: steering
       from: 2015
+    - person: tony-blair
+      role: member
     - person: emmanuel-macron
       role: member
       from: 2014
@@ -616,7 +627,7 @@ organizations:
       role: steering
       from: 1954
     - person: henry-kissinger
-      role: member
+      role: steering
     - person: giuliano-amato
       role: steering
     - person: reid-hoffman
@@ -625,6 +636,9 @@ organizations:
       note: Regular attendee since 2011
     - person: jacob-rothschild
       role: member
+    - person: peter-sutherland
+      role: steering
+      to: 2014
     - org: trilaterale
       role: partner
   bipartisan-policy-center:
@@ -742,6 +756,15 @@ organizations:
     - person: michele-flournoy
       role: board
       from: 2018
+  bp:
+    name: BP
+    type: company
+    sector: oil-gas
+    stakeholders:
+    - person: peter-sutherland
+      role: chairman
+      from: 2003
+      to: 2009
   breakthrough-energy:
     name: Breakthrough Energy
     type: foundation
@@ -911,7 +934,7 @@ organizations:
       from: 1970
       to: 1985
     - person: henry-kissinger
-      role: member
+      role: board
     - person: michele-flournoy
       role: member
     - person: hank-paulson
@@ -919,6 +942,8 @@ organizations:
     - person: reid-hoffman
       role: member
       from: 2015
+    - person: peter-sutherland
+      role: advisory-board
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -939,6 +964,15 @@ organizations:
     - person: mark-zuckerberg
       role: founder
       from: 2015
+  chase-bank:
+    name: Chase Investment Bank
+    type: bank
+    stakeholders:
+    - person: kyriakos-mitsotakis
+      role: employee
+      from: 1990
+      to: 1991
+      note: London
   chase-manhattan:
     name: Chase Manhattan
     type: bank
@@ -1184,7 +1218,7 @@ organizations:
     status: active
     stakeholders:
     - person: jose-barroso
-      role: executive
+      role: president
       from: 2004
       to: 2014
     - person: mario-monti
@@ -1239,8 +1273,9 @@ organizations:
       role: executive
       from: 2019
     - person: kaja-kallas
-      role: leader
+      role: executive
       from: 2024
+      note: Alto Rappresentante Affari Esteri
     - person: siim-kallas
       role: leader
       from: 2004
@@ -1256,6 +1291,20 @@ organizations:
       role: official
       from: 2002
       to: 2005
+    - person: jyrki-katainen
+      role: executive
+      from: 2014
+      to: 2019
+      note: VP Jobs, Growth, Investment
+    - person: andrius-kubilius
+      role: executive
+      from: 2024
+      note: Commissioner Defence and Space
+    - person: neelie-kroes
+      role: commissioner
+      from: 2004
+      to: 2014
+      note: competition-digital-vp
   commonwealth:
     name: Commonwealth
     type: agency
@@ -1352,6 +1401,13 @@ organizations:
       role: chairman
       from: 1915
       to: 1919
+  ecfr:
+    name: European Council on Foreign Relations
+    type: thinktank
+    headquarters: Berlin
+    stakeholders:
+    - person: alja-brglez
+      role: member
   economist:
     name: The Economist
     type: media
@@ -1362,6 +1418,15 @@ organizations:
     - person: john-elkann
       role: chairman
       from: 2009
+  eib:
+    name: European Investment Bank
+    type: bank
+    headquarters: Luxembourg
+    stakeholders:
+    - person: alexander-stubb
+      role: executive
+      from: 2017
+      to: 2020
   electrolux:
     name: Electrolux
     type: company
@@ -1715,6 +1780,12 @@ organizations:
       note: Board Chair
     - person: tedros-adhanom
       role: board
+  gazprom:
+    name: Gazprom
+    type: company
+    headquarters: Moscow
+    sector: gas
+    note: state-controlled
   gchq:
     name: Government Communications Headquarters
     type: agency
@@ -1769,8 +1840,8 @@ organizations:
       to: 2005
     - person: jose-barroso
       role: chairman
-      from: 2024
-      note: Chair International Advisors
+      from: 2016
+      note: chairman-gsi-revolving-door-scandal
     - person: mario-monti
       role: advisor
       from: 2005
@@ -1790,6 +1861,14 @@ organizations:
       role: advisor
       from: 2025
       note: Senior Advisor post-PM
+    - person: milojko-spajic
+      role: employee
+      note: Singapore
+    - person: peter-sutherland
+      role: chairman
+      from: 1995
+      to: 2015
+      note: chairman-gsi
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -1805,6 +1884,25 @@ organizations:
       role: partner
     - org: bce
       role: partner
+  governo-australia:
+    name: Government of Australia
+    type: government
+    headquarters: Canberra
+    stakeholders:
+    - person: john-howard
+      role: leader
+      from: 1996
+      to: 2007
+      note: pm
+  governo-austria:
+    name: Governo Austria
+    type: government
+    headquarters: Vienna
+    stakeholders:
+    - person: sebastian-kurz
+      role: leader
+      from: 2017
+      to: 2021
   governo-belgio:
     name: Governo Belgio
     type: government
@@ -1830,6 +1928,24 @@ organizations:
     - person: chrystia-freeland
       role: minister
       from: 2020
+  governo-cipro:
+    name: Governo Cipro
+    type: government
+    headquarters: Nicosia
+    stakeholders:
+    - person: nikos-christodoulides
+      role: leader
+      from: 2023
+      to: 2022
+      note: President
+  governo-croazia:
+    name: Governo Croazia
+    type: government
+    headquarters: Zagreb
+    stakeholders:
+    - person: andrej-plenkovic
+      role: leader
+      from: 2016
   governo-estonia:
     name: Governo Estonia
     type: government
@@ -1865,8 +1981,15 @@ organizations:
       from: 2019
       to: 2023
     - person: alexander-stubb
+      role: minister
+      from: 2008
+      to: 2014
+      note: Foreign Affairs
+    - person: jyrki-katainen
       role: leader
-      from: 2024
+      from: 2011
+      to: 2014
+      note: Finance
   governo-francia:
     name: Governo Francia
     type: government
@@ -1888,6 +2011,21 @@ organizations:
       role: minister
       from: 1981
       to: 1984
+  governo-georgia:
+    name: Governo Georgia
+    type: government
+    headquarters: Tbilisi
+    stakeholders:
+    - person: mamuka-bakhtadze
+      role: leader
+      from: 2018
+      to: 2019
+      note: Finance Minister
+    - person: vera-kobalia
+      role: minister
+      from: 2010
+      to: 2012
+      note: Economy and Sustainable Development
   governo-germania:
     name: Governo Germania
     type: government
@@ -1909,6 +2047,29 @@ organizations:
       role: minister
       from: 2013
       to: 2019
+    - person: jens-spahn
+      role: minister
+      from: 2018
+      to: 2021
+      note: Health Minister
+    - person: philipp-rosler
+      role: leader
+      from: 2011
+      to: 2013
+      note: Vice-Chancellor, Economics
+    - person: gerhard-schroder
+      role: leader
+      from: 1998
+      to: 2005
+      note: chancellor
+  governo-grecia:
+    name: Governo Grecia
+    type: government
+    headquarters: Athens
+    stakeholders:
+    - person: kyriakos-mitsotakis
+      role: leader
+      from: 2019
   governo-irlanda:
     name: Governo Irlanda
     type: government
@@ -1919,6 +2080,11 @@ organizations:
       role: leader
       from: 2022
       to: 2024
+    - person: simon-harris
+      role: minister
+      from: 2025
+      to: 2025
+      note: Tánaiste, Foreign Affairs
   governo-israele:
     type: government
     headquarters: Jerusalem, Israel
@@ -2011,6 +2177,24 @@ organizations:
       from: 2013
       to: 2022
       note: Giudice e Presidente Corte Costituzionale
+  governo-kosovo:
+    name: Governo Kosovo
+    type: government
+    headquarters: Pristina
+    stakeholders:
+    - person: albin-kurti
+      role: leader
+      from: 2021
+      to: 2020
+  governo-lituania:
+    name: Governo Lituania
+    type: government
+    headquarters: Vilnius
+    stakeholders:
+    - person: andrius-kubilius
+      role: leader
+      from: 2008
+      to: 2012
   governo-lussemburgo:
     name: Governo Lussemburgo
     type: government
@@ -2033,6 +2217,24 @@ organizations:
       role: leader
       from: 1995
       to: 2013
+  governo-moldova:
+    name: Governo Moldova
+    type: government
+    headquarters: Chisinau
+    stakeholders:
+    - person: maia-sandu
+      role: leader
+      from: 2020
+      to: 2019
+      note: President
+  governo-montenegro:
+    name: Governo Montenegro
+    type: government
+    headquarters: Podgorica
+    stakeholders:
+    - person: milojko-spajic
+      role: leader
+      from: 2023
   governo-norvegia:
     name: Governo Norvegia
     type: government
@@ -2127,6 +2329,45 @@ organizations:
       role: minister
       from: 2019
       note: Ministro Esteri
+  governo-serbia:
+    name: Governo Serbia
+    type: government
+    headquarters: Belgrade
+    stakeholders:
+    - person: aleksandar-vucic
+      role: leader
+      from: 2017
+      to: 2017
+      note: President
+  governo-slovenia:
+    name: Governo Slovenia
+    type: government
+    headquarters: Ljubljana
+    stakeholders:
+    - person: mark-boris-andrijanic
+      role: minister
+      from: 2020
+      to: 2022
+      note: Digital Transformation
+    - person: alja-brglez
+      role: advisor
+      from: 2012
+      to: 2022
+      note: Head of Cabinet President Pahor
+  governo-spagna:
+    name: Governo Spagna
+    type: government
+    headquarters: Madrid
+    stakeholders:
+    - person: jose-maria-aznar
+      role: leader
+      from: 1996
+      to: 2004
+      note: pm
+    - person: jose-luis-zapatero
+      role: leader
+      from: 2004
+      to: 2011
   governo-svezia:
     name: Governo Svezia
     type: government
@@ -2167,6 +2408,18 @@ organizations:
       role: minister
       from: 2006
       note: Ministro Esteri, negoziatore Abraham Accords
+  governo-ucraina:
+    name: Governo Ucraina
+    type: government
+    headquarters: Kyiv
+    stakeholders:
+    - person: mykhailo-fedorov
+      role: minister
+      from: 2019
+      note: Vice PM, Digital Transformation
+    - person: volodymyr-zelensky
+      role: leader
+      from: 2019
   governo-uk:
     name: Governo UK
     type: government
@@ -2177,6 +2430,7 @@ organizations:
       role: leader
       from: 1997
       to: 2007
+      note: pm
     - person: roy-jenkins
       role: minister
       from: 1967
@@ -2282,6 +2536,10 @@ organizations:
       from: 1953
       to: 1959
       note: Secretary of State
+    - person: henry-kissinger
+      role: secretary-state
+      from: 1973
+      to: 1977
     - person: david-petraeus
       role: executive
       from: 2008
@@ -2600,6 +2858,7 @@ organizations:
     - person: tony-blair
       role: advisor
       from: 2008
+      note: 2.5m-gbp-annual
     - org: norges-bank-gpfg
       role: stake
     - org: wef
@@ -2615,6 +2874,19 @@ organizations:
       share: 0.035
     - org: federal-reserve
       role: partner
+    - org: jpmorgan-international-council
+      role: advisory-council
+  jpmorgan-international-council:
+    name: JPMorgan International Council
+    type: thinktank
+    stakeholders:
+    - person: tony-blair
+      role: chairman
+      from: 2008
+    - person: henry-kissinger
+      role: member
+    - person: john-howard
+      role: member
   kgb:
     name: Komitet Gosudarstvennoy Bezopasnosti
     type: agency
@@ -2666,7 +2938,7 @@ organizations:
       from: 1982
       to: 2023
     - person: henry-kissinger
-      role: chairman
+      role: founder
       from: 1982
       to: 2023
   kkr:
@@ -2760,6 +3032,15 @@ organizations:
       from: 1970
       to: 1976
       note: Scandalo tangenti $1M+
+  mckinsey:
+    name: McKinsey & Company
+    type: company
+    sector: consulting
+    stakeholders:
+    - person: kyriakos-mitsotakis
+      role: employee
+      from: 1995
+      to: 1997
   mediaset:
     name: Mediaset
     type: media
@@ -3033,6 +3314,19 @@ organizations:
     - person: rupert-murdoch
       role: founder
       from: 1979
+  news-corporation:
+    name: News Corporation
+    type: media
+    headquarters: New York
+    note: murdoch-empire
+    stakeholders:
+    - person: rupert-murdoch
+      role: founder
+      note: chairman-emeritus
+    - person: jose-maria-aznar
+      role: board
+      from: 2006
+      note: 4m-cumulative-salary
   nobel-foundation:
     name: Nobel Foundation
     type: foundation
@@ -3044,6 +3338,17 @@ organizations:
     - person: marcus-wallenberg-jr
       role: board
       note: Membro del board
+  nord-stream-ag:
+    name: Nord Stream AG
+    type: company
+    sector: energy
+    note: gazprom-subsidiary
+    stakeholders:
+    - person: gerhard-schroder
+      role: chairman
+      from: 2005
+      to: 2022
+      note: immediate-post-government
   norges-bank-gpfg:
     name: Norges Bank GPFG
     type: swf
@@ -3261,7 +3566,7 @@ organizations:
       from: 2024
       note: Participated in $6.6B round
   oracle:
-    name: Oracle
+    name: Oracle Corporation
     type: company
     founded: 1977
     headquarters: Austin
@@ -3272,13 +3577,16 @@ organizations:
       role: founder
       from: 1977
       to: 2014
+      note: chairman-cto
     - person: larry-ellison
-      role: executive
+      role: founder
       from: 1977
       to: 2014
+      note: chairman-cto
     - person: larry-ellison
-      role: chairman
-      from: 2014
+      role: founder
+      from: 1977
+      note: chairman-cto
     - person: safra-catz
       role: executive
       from: 2014
@@ -3394,6 +3702,14 @@ organizations:
     - org: red-dot-capital
       role: investor
       from: 2019
+  parlamento-europeo:
+    name: European Parliament
+    headquarters: Brussels/Strasbourg
+    stakeholders:
+    - person: eva-maydell
+      role: member
+      from: 2014
+      note: MEP Bulgaria
   paypal:
     name: PayPal
     type: company
@@ -3624,6 +3940,18 @@ organizations:
     stakeholders:
     - person: robert-mcnamara
       role: board
+  rosneft:
+    name: Rosneft
+    type: company
+    headquarters: Moscow
+    sector: oil-gas
+    note: state-controlled
+    stakeholders:
+    - person: gerhard-schroder
+      role: chairman
+      from: 2017
+      to: 2022
+      note: 350k-annual
   rothschild-cie:
     name: Rothschild & Cie
     type: bank
@@ -3767,6 +4095,15 @@ organizations:
     headquarters: Menlo Park, California
     status: active
     sector: private-equity
+  sitra:
+    name: Finnish Innovation Fund Sitra
+    type: foundation
+    headquarters: Helsinki
+    stakeholders:
+    - person: jyrki-katainen
+      role: executive
+      from: 2020
+      to: 2023
   skoda:
     name: Skoda
     type: company
@@ -4063,6 +4400,14 @@ organizations:
       role: advisor
     - person: nick-carter
       role: advisor
+    - person: larry-ellison
+      role: donor
+      from: 2021
+      note: 257m-gbp-donation
+    - org: oracle
+      role: funder
+      from: 2021
+      note: 257m-gbp
   trilateral-commission:
     name: Trilateral Commission
     type: forum
@@ -4114,9 +4459,13 @@ organizations:
       role: founder
       from: 1973
     - person: henry-kissinger
-      role: steering
+      role: founder
+      from: 1973
     - person: enrico-letta
       role: member
+    - person: peter-sutherland
+      role: chairman-europe
+      note: honorary-chairman-2010-2018
     - org: bilderberg
       role: partner
     - org: cfr
@@ -4155,6 +4504,11 @@ organizations:
     headquarters: San Francisco
     status: active
     sector: tech
+    stakeholders:
+    - person: neelie-kroes
+      role: advisory-board
+      from: 2016
+      note: uber-files-scandal
   unit-8200:
     name: Unit 8200
     type: agency
@@ -4454,11 +4808,17 @@ organizations:
     - person: matteo-renzi
       role: ygl
       from: 2012
+    - person: kaja-kallas
+      role: ygl
+      from: 2017
     - person: al-gore
       role: glt
     - person: federica-mogherini
       role: member
       note: Agenda Contributor
+    - person: alexander-stubb
+      role: ygl
+      from: 2009
     - person: charles-iii
       role: founder
       from: 2020
@@ -4469,6 +4829,85 @@ organizations:
       role: member
     - person: ehud-barak
       role: member
+    - person: sebastian-kurz
+      role: ygl
+      from: 2016
+    - person: jyrki-katainen
+      role: ygl
+      from: 2003
+    - person: jose-maria-aznar
+      role: glt
+      from: 1993
+    - person: jose-luis-zapatero
+      role: glt
+      from: 2001
+    - person: milojko-spajic
+      role: ygl
+      from: 2025
+    - person: simon-harris
+      role: ygl
+      from: 2025
+    - person: jens-spahn
+      role: ygl
+      from: 2012
+    - person: philipp-rosler
+      role: executive
+      from: 2014
+      note: Managing Board
+    - person: mykhailo-fedorov
+      role: ygl
+      from: 2022
+    - person: mamuka-bakhtadze
+      role: ygl
+      from: 2019
+    - person: vera-kobalia
+      role: ygl
+      from: 2012
+    - person: wladimir-klitschko
+      role: ygl
+      from: 2008
+      note: Boxing champion, influencer
+    - person: vitali-klitschko
+      role: member
+      from: 2014
+      note: Mayor Kyiv, regular Davos speaker
+    - person: volodymyr-zelensky
+      role: member
+      note: Davos speaker, alumni mentioned
+    - person: maia-sandu
+      role: member
+      note: Davos 2023 speaker
+    - person: daria-kaleniuk
+      role: ygl
+      from: 2019
+      note: Director Anti-Corruption Action Centre
+    - person: eva-maydell
+      role: ygl
+      from: 2019
+    - person: andrius-kubilius
+      role: member
+      note: Personal invitation from Klaus Schwab
+    - person: kyriakos-mitsotakis
+      role: glt
+      from: 2003
+    - person: mark-boris-andrijanic
+      role: ygl
+      from: 2022
+      note: First Slovenian YGL in 10+ years
+    - person: alja-brglez
+      role: ygl
+      from: 2005
+    - person: aleksandar-vucic
+      role: member
+      note: Regular Davos speaker
+    - person: andrej-plenkovic
+      role: member
+      note: Davos speaker, bilateral meetings
+    - person: albin-kurti
+      role: member
+      note: Davos 2023 speaker
+    - person: peter-sutherland
+      role: board
     - org: bilderberg
       role: partner
     - org: fmi
@@ -4565,6 +5004,17 @@ organizations:
     - person: ronald-lauder
       role: executive
       from: 2008
+  wto:
+    name: World Trade Organization
+    type: agency
+    founded: 1995
+    headquarters: Geneva
+    stakeholders:
+    - person: peter-sutherland
+      role: director-general
+      from: 1993
+      to: 1995
+      note: father-of-globalisation
   wwf:
     name: World Wildlife Fund
     type: foundation

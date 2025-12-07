@@ -67,6 +67,29 @@ persons:
     affiliations:
     - org: rand-corporation
       role: advisor
+  albin-kurti:
+    born: 1975
+    nationality: XKX
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos 2023 speaker
+    - org: governo-kosovo
+      role: leader
+      from: 2021
+      to: 2020
+  aleksandar-vucic:
+    born: 1970
+    nationality: SRB
+    affiliations:
+    - org: wef
+      role: member
+      note: Regular Davos speaker
+    - org: governo-serbia
+      role: leader
+      from: 2017
+      to: 2017
+      note: President
   alexander-de-croo:
     born: 1975
     nationality: BEL
@@ -89,11 +112,20 @@ persons:
     born: 1968
     nationality: FIN
     affiliations:
+    - org: wef
+      role: ygl
+      from: 2009
     - org: collegio-europa
       role: alumnus
     - org: governo-finlandia
-      role: leader
-      from: 2024
+      role: minister
+      from: 2008
+      to: 2014
+      note: Foreign Affairs
+    - org: eib
+      role: executive
+      from: 2017
+      to: 2020
   alexandre-de-rothschild:
     born: 1980
     nationality: Francia
@@ -111,6 +143,20 @@ persons:
     born: 1949
     nationality: USA
     family: walton
+  alja-brglez:
+    born: 1965
+    nationality: SVN
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2005
+    - org: governo-slovenia
+      role: advisor
+      from: 2012
+      to: 2022
+      note: Head of Cabinet President Pahor
+    - org: ecfr
+      role: member
   allen-dulles:
     born: 1893
     died: 1969
@@ -157,6 +203,16 @@ persons:
     - org: seb
       role: founder
       from: 1856
+  andrej-plenkovic:
+    born: 1970
+    nationality: HRV
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos speaker, bilateral meetings
+    - org: governo-croazia
+      role: leader
+      from: 2016
   andrew-boyd:
     nationality: USA
     note: Ex-CIA Cyber Intelligence director, REDLattice board
@@ -169,6 +225,21 @@ persons:
     - org: redlattice
       role: board
       from: 2023
+  andrius-kubilius:
+    born: 1956
+    nationality: LTU
+    affiliations:
+    - org: wef
+      role: member
+      note: Personal invitation from Klaus Schwab
+    - org: commissione-ue
+      role: executive
+      from: 2024
+      note: Commissioner Defence and Space
+    - org: governo-lituania
+      role: leader
+      from: 2008
+      to: 2012
   angela-merkel:
     born: 1954
     nationality: DEU
@@ -553,6 +624,14 @@ persons:
       role: advisor
       from: 1958
       to: 1971
+  daria-kaleniuk:
+    born: 1985
+    nationality: UKR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2019
+      note: Director Anti-Corruption Action Centre
   david-cameron:
     born: 1966
     nationality: GBR
@@ -895,6 +974,17 @@ persons:
       role: executive
       from: 1949
       to: 1962
+  eva-maydell:
+    born: 1986
+    nationality: BGR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2019
+    - org: parlamento-europeo
+      role: member
+      from: 2014
+      note: MEP Bulgaria
   evelyn-rothschild:
     born: 1931
     died: 2022
@@ -1111,6 +1201,25 @@ persons:
       role: president
       from: 2001
       to: 2009
+  gerhard-schroder:
+    born: 1944
+    nationality: DEU
+    affiliations:
+    - org: governo-germania
+      role: leader
+      from: 1998
+      to: 2005
+      note: chancellor
+    - org: rosneft
+      role: chairman
+      from: 2017
+      to: 2022
+      note: 350k-annual
+    - org: nord-stream-ag
+      role: chairman
+      from: 2005
+      to: 2022
+      note: immediate-post-government
   gianni-agnelli:
     born: 1921
     died: 2003
@@ -1315,11 +1424,16 @@ persons:
     nationality: USA
     affiliations:
     - org: bilderberg
-      role: member
-    - org: trilaterale
       role: steering
+    - org: trilaterale
+      role: founder
+      from: 1973
     - org: cfr
-      role: member
+      role: board
+    - org: governo-usa
+      role: secretary-state
+      from: 1973
+      to: 1977
     - org: nsa
       role: advisor
       from: 1969
@@ -1329,9 +1443,11 @@ persons:
       from: 1982
       to: 2023
     - org: kissinger-associates
-      role: chairman
+      role: founder
       from: 1982
       to: 2023
+    - org: jpmorgan-international-council
+      role: member
   henry-paulson:
     born: 1946
     nationality: USA
@@ -1701,6 +1817,18 @@ persons:
     - org: washington-post
       role: owner
       from: 2013
+  jens-spahn:
+    born: 1980
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2012
+    - org: governo-germania
+      role: minister
+      from: 2018
+      to: 2021
+      note: Health Minister
   jerome-powell:
     born: 1953
     nationality: USA
@@ -1811,6 +1939,17 @@ persons:
       from: 1911
       to: 1953
       note: Senior Partner
+  john-howard:
+    born: 1939
+    nationality: AUS
+    affiliations:
+    - org: governo-australia
+      role: leader
+      from: 1996
+      to: 2007
+      note: pm
+    - org: jpmorgan-international-council
+      role: member
   john-maynard-keynes:
     born: 1883
     died: 1946
@@ -1887,10 +2026,10 @@ persons:
       note: Global Leader for Tomorrow
     - org: goldman-sachs
       role: chairman
-      from: 2024
-      note: Chair International Advisors
+      from: 2016
+      note: chairman-gsi-revolving-door-scandal
     - org: commissione-ue
-      role: executive
+      role: president
       from: 2004
       to: 2014
     - org: governo-portogallo
@@ -1906,6 +2045,37 @@ persons:
       role: chairman
       from: 2021
       note: Board Chair
+  jose-luis-zapatero:
+    born: 1960
+    nationality: ESP
+    affiliations:
+    - org: wef
+      role: glt
+      from: 2001
+    - org: governo-spagna
+      role: leader
+      from: 2004
+      to: 2011
+  jose-maria-aznar:
+    born: 1953
+    nationality: ESP
+    affiliations:
+    - org: wef
+      role: glt
+      from: 1993
+    - org: governo-spagna
+      role: leader
+      from: 1996
+      to: 2004
+      note: pm
+    - org: news-corporation
+      role: board
+      from: 2006
+      note: 4m-cumulative-salary
+    relations:
+    - person: rupert-murdoch
+      type: professional
+      note: board-news-corp
   jozef-retinger:
     born: 1888
     died: 1960
@@ -1943,19 +2113,44 @@ persons:
     - org: governo-canada
       role: leader
       from: 2015
+  jyrki-katainen:
+    born: 1971
+    nationality: FIN
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2003
+    - org: governo-finlandia
+      role: leader
+      from: 2011
+      to: 2014
+      note: Finance
+    - org: commissione-ue
+      role: executive
+      from: 2014
+      to: 2019
+      note: VP Jobs, Growth, Investment
+    - org: sitra
+      role: executive
+      from: 2020
+      to: 2023
   kaja-kallas:
     born: 1977
     nationality: EST
     affiliations:
     - org: bilderberg
       role: member
+    - org: wef
+      role: ygl
+      from: 2017
     - org: governo-estonia
       role: leader
       from: 2021
       to: 2024
     - org: commissione-ue
-      role: leader
+      role: executive
       from: 2024
+      note: Alto Rappresentante Affari Esteri
   keith-alexander:
     born: 1951
     nationality: USA
@@ -2031,6 +2226,25 @@ persons:
     died: 1938
     nationality: SWE
     family: wallenberg
+  kyriakos-mitsotakis:
+    born: 1968
+    nationality: GRC
+    affiliations:
+    - org: wef
+      role: glt
+      from: 2003
+    - org: governo-grecia
+      role: leader
+      from: 2019
+    - org: mckinsey
+      role: employee
+      from: 1995
+      to: 1997
+    - org: chase-bank
+      role: employee
+      from: 1990
+      to: 1991
+      note: London
   lachlan-murdoch:
     born: 1971
     nationality: USA
@@ -2058,13 +2272,16 @@ persons:
       role: founder
       from: 1977
       to: 2014
+      note: chairman-cto
     - org: oracle
-      role: executive
+      role: founder
       from: 1977
       to: 2014
+      note: chairman-cto
     - org: oracle
-      role: chairman
-      from: 2014
+      role: founder
+      from: 1977
+      note: chairman-cto
     - org: stargate-project
       role: partner
       from: 2025
@@ -2076,6 +2293,10 @@ persons:
       from: 1997
       to: 2002
       note: Nominato da Steve Jobs, dimesso per assenze
+    - org: tony-blair-institute
+      role: donor
+      from: 2021
+      note: 257m-gbp-donation
   larry-fink:
     born: 1952
     nationality: USA
@@ -2227,6 +2448,35 @@ persons:
     born: 1986
     nationality: USA
     family: walton
+  maia-sandu:
+    born: 1972
+    nationality: MDA
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos 2023 speaker
+    - org: banca-mondiale
+      role: employee
+      from: 2010
+      to: 2012
+      note: Economist, Chisinau then Washington
+    - org: governo-moldova
+      role: leader
+      from: 2020
+      to: 2019
+      note: President
+  mamuka-bakhtadze:
+    born: 1982
+    nationality: GEO
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2019
+    - org: governo-georgia
+      role: leader
+      from: 2018
+      to: 2019
+      note: Finance Minister
   mansoor-al-mahmoud:
     nationality: QAT
     affiliations:
@@ -2376,6 +2626,19 @@ persons:
       role: commissioner
       from: 1995
       to: 2004
+  mark-boris-andrijanic:
+    born: 1985
+    nationality: SVN
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
+      note: First Slovenian YGL in 10+ years
+    - org: governo-slovenia
+      role: minister
+      from: 2020
+      to: 2022
+      note: Digital Transformation
   mark-zuckerberg:
     born: 1984
     nationality: USA
@@ -2559,6 +2822,19 @@ persons:
       role: leader
       from: 1985
       to: 1991
+  milojko-spajic:
+    born: 1987
+    nationality: MNE
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
+    - org: goldman-sachs
+      role: employee
+      note: Singapore
+    - org: governo-montenegro
+      role: leader
+      from: 2023
   mohammed-al-jadaan:
     nationality: SAU
     note: Ministro Finanze dal 2016
@@ -2642,6 +2918,17 @@ persons:
     died: 1830
     nationality: Germania
     family: warburg
+  mykhailo-fedorov:
+    born: 1991
+    nationality: UKR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
+    - org: governo-ucraina
+      role: minister
+      from: 2019
+      note: Vice PM, Digital Transformation
   nahum-goldmann:
     born: 1895
     died: 1982
@@ -2671,6 +2958,23 @@ persons:
     died: 1836
     nationality: UK
     family: rothschild
+  neelie-kroes:
+    born: 1941
+    nationality: NLD
+    affiliations:
+    - org: uber
+      role: advisory-board
+      from: 2016
+      note: uber-files-scandal
+    - org: bank-of-america
+      role: advisor
+      from: 2015
+      note: during-cooling-off
+    - org: commissione-ue
+      role: commissioner
+      from: 2004
+      to: 2014
+      note: competition-digital-vp
   nelson-aldrich:
     born: 1841
     died: 1915
@@ -2733,6 +3037,15 @@ persons:
       role: leader
       from: 2007
       to: 2012
+  nikos-christodoulides:
+    born: 1973
+    nationality: CYP
+    affiliations:
+    - org: governo-cipro
+      role: leader
+      from: 2023
+      to: 2022
+      note: President
   olaf-lies:
     born: 1967
     nationality: DEU
@@ -2876,6 +3189,35 @@ persons:
     affiliations:
     - org: fii-saudi
       role: board
+  peter-sutherland:
+    born: 1946
+    died: 2018
+    nationality: IRL
+    affiliations:
+    - org: bilderberg
+      role: steering
+      to: 2014
+    - org: trilaterale
+      role: chairman-europe
+      note: honorary-chairman-2010-2018
+    - org: wef
+      role: board
+    - org: cfr
+      role: advisory-board
+    - org: goldman-sachs
+      role: chairman
+      from: 1995
+      to: 2015
+      note: chairman-gsi
+    - org: wto
+      role: director-general
+      from: 1993
+      to: 1995
+      note: father-of-globalisation
+    - org: bp
+      role: chairman
+      from: 2003
+      to: 2009
   peter-thiel:
     born: 1967
     nationality: USA
@@ -2919,6 +3261,19 @@ persons:
       from: 1961
       to: 2021
       note: Co-fondatore, President UK 1961-82, International President 1981-96
+  philipp-rosler:
+    born: 1973
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: executive
+      from: 2014
+      note: Managing Board
+    - org: governo-germania
+      role: leader
+      from: 2011
+      to: 2013
+      note: Vice-Chancellor, Economics
   pierre-s-dupont:
     born: 1870
     died: 1954
@@ -3207,7 +3562,7 @@ persons:
       to: 1981
   rupert-murdoch:
     born: 1931
-    nationality: Australia/USA
+    nationality: USA
     family: murdoch
     affiliations:
     - org: news-corp
@@ -3216,6 +3571,9 @@ persons:
     - org: fox-corporation
       role: chairman-emeritus
       from: 2019
+    - org: news-corporation
+      role: founder
+      note: chairman-emeritus
   safra-catz:
     born: 1961
     nationality: USA
@@ -3280,6 +3638,17 @@ persons:
       role: executive
       from: 2014
       note: CEO 2014-, Chairman 2021-
+  sebastian-kurz:
+    born: 1986
+    nationality: AUT
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2016
+    - org: governo-austria
+      role: leader
+      from: 2017
+      to: 2021
   sergey-brin:
     born: 1973
     nationality: USA
@@ -3352,6 +3721,18 @@ persons:
       role: leader
       from: 2004
       to: 2014
+  simon-harris:
+    born: 1986
+    nationality: IRL
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
+    - org: governo-irlanda
+      role: minister
+      from: 2025
+      to: 2025
+      note: Tánaiste, Foreign Affairs
   stephan-weil:
     born: 1958
     nationality: DEU
@@ -3530,19 +3911,26 @@ persons:
     born: 1953
     nationality: GBR
     affiliations:
+    - org: bilderberg
+      role: member
     - org: wef
       role: glt
       from: 1992
     - org: jpmorgan-chase
       role: advisor
       from: 2008
+      note: 2.5m-gbp-annual
     - org: governo-uk
       role: leader
       from: 1997
       to: 2007
+      note: pm
     - org: tony-blair-institute
       role: founder
       from: 2016
+    - org: jpmorgan-international-council
+      role: chairman
+      from: 2008
   umberto-agnelli:
     born: 1934
     died: 2004
@@ -3563,6 +3951,18 @@ persons:
     - org: commissione-ue
       role: executive
       from: 2019
+  vera-kobalia:
+    born: 1981
+    nationality: GEO
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2012
+    - org: governo-georgia
+      role: minister
+      from: 2010
+      to: 2012
+      note: Economy and Sustainable Development
   vernon-jordan:
     born: 1935
     died: 2021
@@ -3580,6 +3980,24 @@ persons:
     died: 1990
     nationality: UK
     family: rothschild
+  vitali-klitschko:
+    born: 1971
+    nationality: UKR
+    affiliations:
+    - org: wef
+      role: member
+      from: 2014
+      note: Mayor Kyiv, regular Davos speaker
+  volodymyr-zelensky:
+    born: 1978
+    nationality: UKR
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos speaker, alumni mentioned
+    - org: governo-ucraina
+      role: leader
+      from: 2019
   walter-hallstein:
     born: 1901
     died: 1982
@@ -3660,6 +4078,14 @@ persons:
     died: 1973
     nationality: USA
     family: rockefeller
+  wladimir-klitschko:
+    born: 1976
+    nationality: UKR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2008
+      note: Boxing champion, influencer
   wolfgang-porsche:
     born: 1943
     nationality: DEU
