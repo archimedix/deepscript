@@ -30,8 +30,9 @@ Oracle e' il secondo piu' grande fornitore di software enterprise al mondo dopo 
 
 | Azienda | Periodo | Note |
 |---------|---------|------|
-| Tesla | 2018-2022 | Investimento ~$1B, ancora azionista (~15M azioni, ~1.4%) |
 | Oracle | 1977-oggi | Chairman |
+| **Apple** | **1997-2002** | Nominato da Steve Jobs, dimesso per assenze (~25% riunioni saltate) |
+| Tesla | 2018-2022 | Investimento ~$1B, ancora azionista (~15M azioni, ~1.4%) |
 
 ### Timeline Carriera
 
@@ -40,6 +41,8 @@ Oracle e' il secondo piu' grande fornitore di software enterprise al mondo dopo 
 | 1973 | Programmatore presso Ampex, incontra Ed Oates e Bob Miner |
 | 1977 | Fonda Software Development Laboratories (poi Oracle) |
 | 1986 | Oracle IPO |
+| 1997 | Entra nel board Apple, nominato da Steve Jobs |
+| 2002 | Lascia board Apple per troppe assenze |
 | 2010 | Vince America's Cup con BMW Oracle Racing |
 | 2012 | Acquista 98% dell'isola di Lanai per $300M |
 | 2014 | Lascia ruolo CEO, diventa Executive Chairman e CTO |
@@ -63,6 +66,7 @@ Ellison e' emerso come uno dei tech billionaire piu' vicini a Donald Trump:
 
 | Persona | Connessione |
 |---------|-------------|
+| **Steve Jobs** | Migliore amico, lo nomino' board Apple 1997, cartonato alle riunioni |
 | **Elon Musk** | Amicizia, investimento $1B in Twitter, ex-board Tesla, azionista Tesla |
 | **Sam Altman** | Partner Stargate Project |
 | **Masayoshi Son** | Partner Stargate Project via SoftBank |
@@ -139,15 +143,19 @@ La sua permanenza nel board Tesla (2018-2022) mentre era anche grande azionista 
 ## Documenti Correlati
 
 ### Persone
+- [Steve Jobs](steve-jobs.md) - Migliore amico, lo nomino' board Apple
 - [Elon Musk](elon-musk.md) - Amico, partner business, ex-board Tesla
 - [Masayoshi Son](masayoshi-son.md) - Partner Stargate Project
+- [Sam Altman](sam-altman.md) - Partner Stargate Project
 - [Warren Buffett](warren-buffett.md) - Confronto: Buffett ha firmato Giving Pledge, Ellison no
 
-### Istituzioni
-- [Oracle](../istituzioni/oracle.md) - Fondatore, Chairman, CTO
-- [Tesla](../istituzioni/tesla.md) - Ex-board member, azionista
-- [SoftBank](../istituzioni/softbank.md) - Partner via Stargate Project
-- [Stargate Project](../istituzioni/stargate-project.md) - Co-fondatore con Son e Altman
+### Organizzazioni
+- [Oracle](../company/oracle.md) - Fondatore, Chairman, CTO
+- [Apple](../company/apple.md) - Board member 1997-2002
+- [Tesla](../company/tesla.md) - Ex-board member, azionista
+- [SoftBank](../agency/softbank.md) - Partner via Stargate Project
+- [Stargate Project](../company/stargate-project.md) - Partner con Son e Altman
+- [MGX](../swf/mgx.md) - Partner TikTok USA deal
 
 ---
 

@@ -1,4 +1,30 @@
 persons:
+  abdulaziz-bin-salman:
+    born: 1960
+    nationality: SAU
+    note: Ministro Energia, figlio Re Salman
+    affiliations:
+    - org: governo-saudi
+      role: minister
+      from: 2019
+      note: Ministro Energia, chiave OPEC+
+    relations:
+    - person: salman-bin-abdulaziz
+      type: son
+      note: Figlio Re Salman, fratellastro MBS
+  abdullah-bin-zayed:
+    born: 1972
+    nationality: UAE
+    note: Ministro Esteri, fratello MBZ, negoziatore Abraham Accords
+    affiliations:
+    - org: governo-uae
+      role: minister
+      from: 2006
+      note: Ministro Esteri, negoziatore Abraham Accords
+    relations:
+    - person: mohammed-bin-zayed
+      type: brother
+      note: Figli Sheikh Zayed, famiglia Al Nahyan
   ajit-jain:
     born: 1951
     nationality: IND
@@ -791,6 +817,15 @@ persons:
       role: executive
       from: 1949
       to: 1962
+  faisal-bin-farhan:
+    born: 1970
+    nationality: SAU
+    note: Ministro Esteri dal 2019
+    affiliations:
+    - org: governo-saudi
+      role: minister
+      from: 2019
+      note: Ministro Esteri
   federica-mogherini:
     born: 1973
     nationality: ITA
@@ -1243,6 +1278,15 @@ persons:
       role: executive
       from: 1954
       to: 1974
+  ivanka-trump:
+    born: 1981
+    nationality: USA
+    relations:
+    - person: donald-trump
+      type: family
+      note: Daughter
+    - person: jared-kushner
+      type: spouse
   jacinda-ardern:
     born: 1980
     nationality: NZL
@@ -1396,6 +1440,22 @@ persons:
     affiliations:
     - org: collegio-europa
       role: professor
+  jared-kushner:
+    born: 1981
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2017
+      to: 2021
+      note: Senior Advisor to the President, Director Office of American Innovation
+    - org: affinity-partners
+      role: founder
+      from: 2021
+    relations:
+    - person: donald-trump
+      type: family
+      note: Son-in-law (married to Ivanka Trump)
   jason-matheny:
     born: 1975
     nationality: USA
@@ -1689,6 +1749,21 @@ persons:
     - org: commissione-ue
       role: leader
       from: 2024
+  khaldoon-al-mubarak:
+    nationality: UAE
+    note: CEO Mubadala, Vice Chair MGX, Chairman Manchester City
+    affiliations:
+    - org: mubadala
+      role: executive
+      from: 2018
+      note: Group CEO
+    - org: mgx
+      role: chairman
+      from: 2024
+      note: Vice Chairman
+    - org: governo-uae
+      role: executive
+      note: Abu Dhabi Executive Council
   kim-philby:
     born: 1912
     died: 1988
@@ -1759,6 +1834,11 @@ persons:
     - org: tiktok-usa
       role: shareholder
       from: 2025
+    - org: apple
+      role: board
+      from: 1997
+      to: 2002
+      note: Nominato da Steve Jobs, dimesso per assenze
   larry-fink:
     born: 1952
     nationality: USA
@@ -1898,6 +1978,19 @@ persons:
       role: executive
       from: 2022
       to: 2024
+  mansour-bin-zayed:
+    born: 1970
+    nationality: UAE
+    note: Deputy PM, fratello MBZ, proprietario Manchester City
+    affiliations:
+    - org: governo-uae
+      role: minister
+      from: 2009
+      note: Deputy PM, Ministro Affari Presidenziali
+    relations:
+    - person: mohammed-bin-zayed
+      type: brother
+      note: Figli Sheikh Zayed, famiglia Al Nahyan
   marcus-wallenberg:
     born: 1956
     nationality: SWE
@@ -2168,6 +2261,14 @@ persons:
       role: leader
       from: 1985
       to: 1991
+  mohammed-al-jadaan:
+    nationality: SAU
+    note: Ministro Finanze dal 2016
+    affiliations:
+    - org: governo-saudi
+      role: minister
+      from: 2016
+      note: Ministro Finanze, Vision 2030
   mohammed-al-sowaidi:
     nationality: QAT
     affiliations:
@@ -2182,6 +2283,15 @@ persons:
       role: board
     - org: volkswagen
       role: board
+  mohammed-bin-rashid:
+    born: 1949
+    nationality: UAE
+    note: Vice Presidente UAE, PM, Ruler Dubai
+    affiliations:
+    - org: governo-uae
+      role: leader
+      from: 2006
+      note: Vice Presidente, Primo Ministro, Ruler Dubai
   mohammed-bin-salman:
     born: 1985
     nationality: SAU
@@ -2189,6 +2299,23 @@ persons:
     - org: pif-saudi
       role: chairman
       from: 2015
+    - org: governo-saudi
+      role: leader
+      from: 2017
+      note: Crown Prince, de facto ruler, Chairman PIF
+    relations:
+    - person: salman-bin-abdulaziz
+      type: son
+      note: Crown Prince, figlio Re Salman
+  mohammed-bin-zayed:
+    born: 1961
+    nationality: UAE
+    note: Presidente UAE dal 2022, Ruler Abu Dhabi
+    affiliations:
+    - org: governo-uae
+      role: leader
+      from: 2022
+      note: Presidente UAE, Ruler Abu Dhabi
   morris-amitay:
     born: 1935
     died: 2019
@@ -2646,6 +2773,15 @@ persons:
     - org: oracle
       role: executive
       from: 2014
+  salman-bin-abdulaziz:
+    born: 1935
+    nationality: SAU
+    note: Re Arabia Saudita dal 2015
+    affiliations:
+    - org: governo-saudi
+      role: leader
+      from: 2015
+      note: Re e Primo Ministro
   sam-altman:
     born: 1985
     nationality: USA
@@ -2692,6 +2828,31 @@ persons:
       role: founder
       from: 2010
       note: CEO
+  sheikh-tahnoun-bin-zayed:
+    born: 1968
+    nationality: UAE
+    affiliations:
+    - org: mubadala
+      role: board
+      note: Oversight via government role
+    - org: mgx
+      role: chairman
+      from: 2024
+      note: Chairman
+    - org: g42
+      role: chairman
+      from: 2018
+    - org: first-abu-dhabi-bank
+      role: chairman
+      from: 2017
+    - org: governo-uae
+      role: national-security-advisor
+      from: 2016
+      note: Anche presidente Abu Dhabi Investment Authority e Chairman MGX
+    relations:
+    - person: mohammed-bin-zayed
+      type: brother
+      note: Figli Sheikh Zayed, famiglia Al Nahyan
   sicco-mansholt:
     born: 1908
     died: 1995
@@ -2764,6 +2925,10 @@ persons:
       role: executive
       from: 1997
       to: 2011
+    relations:
+    - person: larry-ellison
+      type: friend
+      note: Best friends, Ellison nominato board Apple 1997, vacanze insieme a Hawaii
   steve-wozniak:
     born: 1950
     nationality: USA
@@ -3005,6 +3170,10 @@ persons:
     - org: saudi-aramco
       role: chairman
       from: 2019
+    - org: governo-saudi
+      role: executive
+      from: 2015
+      note: CEO PIF, Chairman Aramco
   yngve-slyngstad:
     born: 1962
     nationality: NOR

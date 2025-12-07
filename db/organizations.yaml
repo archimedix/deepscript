@@ -30,6 +30,21 @@ organizations:
     status: active
     sector: private-equity
     note: Aerospace/defense PE, $7.5B AUM, acquired Paragon 2024, portfolio includes BigBear.ai, Redwire
+  affinity-partners:
+    name: Affinity Partners
+    type: privateequity
+    founded: 2021
+    headquarters: Miami
+    status: active
+    sector: investment
+    stakeholders:
+    - person: jared-kushner
+      role: founder
+      from: 2021
+    - org: pif-saudi
+      role: anchor-investor
+      from: 2021
+      note: $2B investment, overruled screening committee
   aipac:
     name: American Israel Public Affairs Committee
     type: thinktank
@@ -207,6 +222,11 @@ organizations:
     - person: susan-wagner
       role: board
       from: 2014
+    - person: larry-ellison
+      role: board
+      from: 1997
+      to: 2002
+      note: Nominato da Steve Jobs, dimesso per assenze
     - org: norges-bank-gpfg
       role: stake
       share: 0.012
@@ -1500,6 +1520,21 @@ organizations:
       role: member
     - person: stephen-schwarzman
       role: member
+    - org: governo-saudi
+      role: sponsor
+      note: Davos del Deserto, forum annuale Riyadh
+  first-abu-dhabi-bank:
+    name: First Abu Dhabi Bank
+    type: bank
+    headquarters: Abu Dhabi
+    status: active
+    stakeholders:
+    - person: sheikh-tahnoun-bin-zayed
+      role: chairman
+      from: 2017
+    - org: governo-uae
+      role: shareholder
+      note: Maggiore banca UAE
   five-eyes:
     name: Five Eyes
     type: agency
@@ -1541,6 +1576,19 @@ organizations:
     - person: peter-thiel
       role: partner
       from: 2005
+  g42:
+    name: G42
+    type: company
+    headquarters: Abu Dhabi
+    status: active
+    sector: AI
+    stakeholders:
+    - person: sheikh-tahnoun-bin-zayed
+      role: chairman
+      from: 2018
+    - org: governo-uae
+      role: owner
+      note: AI company, partner Microsoft
   gates-foundation:
     name: Bill & Melinda Gates Foundation
     type: foundation
@@ -1950,6 +1998,36 @@ organizations:
       role: leader
       from: 1991
       to: 1999
+  governo-saudi:
+    name: Governo del Regno dell'Arabia Saudita
+    type: government
+    headquarters: Riyadh
+    status: active
+    stakeholders:
+    - person: yasir-al-rumayyan
+      role: executive
+      from: 2015
+      note: CEO PIF, Chairman Aramco
+    - person: mohammed-bin-salman
+      role: leader
+      from: 2017
+      note: Crown Prince, de facto ruler, Chairman PIF
+    - person: salman-bin-abdulaziz
+      role: leader
+      from: 2015
+      note: Re e Primo Ministro
+    - person: abdulaziz-bin-salman
+      role: minister
+      from: 2019
+      note: Ministro Energia, chiave OPEC+
+    - person: mohammed-al-jadaan
+      role: minister
+      from: 2016
+      note: Ministro Finanze, Vision 2030
+    - person: faisal-bin-farhan
+      role: minister
+      from: 2019
+      note: Ministro Esteri
   governo-svezia:
     name: Governo Svezia
     type: government
@@ -1961,6 +2039,35 @@ organizations:
       from: 1944
       to: 1945
       note: Legazione Svezia Budapest
+  governo-uae:
+    name: Governo degli Emirati Arabi Uniti
+    type: government
+    headquarters: Abu Dhabi
+    status: active
+    stakeholders:
+    - person: sheikh-tahnoun-bin-zayed
+      role: national-security-advisor
+      from: 2016
+      note: Anche presidente Abu Dhabi Investment Authority e Chairman MGX
+    - person: khaldoon-al-mubarak
+      role: executive
+      note: Abu Dhabi Executive Council
+    - person: mohammed-bin-zayed
+      role: leader
+      from: 2022
+      note: Presidente UAE, Ruler Abu Dhabi
+    - person: mohammed-bin-rashid
+      role: leader
+      from: 2006
+      note: Vice Presidente, Primo Ministro, Ruler Dubai
+    - person: mansour-bin-zayed
+      role: minister
+      from: 2009
+      note: Deputy PM, Ministro Affari Presidenziali
+    - person: abdullah-bin-zayed
+      role: minister
+      from: 2006
+      note: Ministro Esteri, negoziatore Abraham Accords
   governo-uk:
     name: Governo UK
     type: government
@@ -2115,6 +2222,11 @@ organizations:
       from: 1994
       to: 1997
       note: White House Chief of Staff
+    - person: jared-kushner
+      role: advisor
+      from: 2017
+      to: 2021
+      note: Senior Advisor to the President, Director Office of American Innovation
   greensill:
     type: company
     founded: 2011
@@ -2552,6 +2664,35 @@ organizations:
     - org: state-street
       role: stake
       share: 0.035
+  mgx:
+    name: MGX Fund Management
+    type: swf
+    founded: 2024
+    headquarters: Abu Dhabi
+    status: active
+    sector: AI investment
+    stakeholders:
+    - person: sheikh-tahnoun-bin-zayed
+      role: chairman
+      from: 2024
+      note: Chairman
+    - person: khaldoon-al-mubarak
+      role: chairman
+      from: 2024
+      note: Vice Chairman
+    - org: mubadala
+      role: founder
+      from: 2024
+      note: Co-founded with G42
+    - org: g42
+      role: founder
+      from: 2024
+      note: Co-founded with Mubadala
+    - org: governo-uae
+      role: owner
+      share: 100.0
+      from: 2024
+      note: Fondo AI lanciato 2024, target $100B
   mi6:
     name: Secret Intelligence Service (MI6)
     type: agency
@@ -2688,8 +2829,17 @@ organizations:
     headquarters: Abu Dhabi
     status: active
     stakeholders:
-    - org: softbank
-      role: partner
+    - person: sheikh-tahnoun-bin-zayed
+      role: board
+      note: Oversight via government role
+    - person: khaldoon-al-mubarak
+      role: executive
+      from: 2018
+      note: Group CEO
+    - org: governo-uae
+      role: owner
+      share: 100.0
+      note: Fondo sovrano di Abu Dhabi
   nasdaq:
     name: NASDAQ
     type: company
@@ -2873,6 +3023,10 @@ organizations:
       role: stake
     - org: stargate-project
       role: partner
+    - org: mgx
+      role: investor
+      from: 2024
+      note: Participated in $6.6B round
   oracle:
     name: Oracle
     type: company
@@ -3040,8 +3194,10 @@ organizations:
     - person: mohammed-bin-salman
       role: chairman
       from: 2015
-    - org: softbank
-      role: partner
+    - org: governo-saudi
+      role: owner
+      share: 100.0
+      note: Fondo sovrano, $925B AUM
   porsche-ag:
     name: Porsche AG
     type: company
@@ -3298,6 +3454,10 @@ organizations:
     - person: yasir-al-rumayyan
       role: chairman
       from: 2019
+    - org: governo-saudi
+      role: owner
+      share: 98.0
+      note: Maggiore compagnia petrolifera mondiale
   sciences-po:
     founded: 1872
     headquarters: Paris
@@ -3394,6 +3554,14 @@ organizations:
       role: executive
       from: 2021
       note: Director Israel Operations
+    - org: pif-saudi
+      role: anchor-investor
+      from: 2017
+      note: Vision Fund 1 - $45B commitment over 5 years
+    - org: mubadala
+      role: investor
+      from: 2017
+      note: Vision Fund 1 - $15B commitment
     - org: stargate-project
       role: partner
   spacex:
@@ -3425,6 +3593,10 @@ organizations:
     - person: masayoshi-son
       role: chairman
       from: 2025
+    - org: mgx
+      role: partner
+      from: 2025
+      note: Stargate JV founding partner
   state-street:
     name: State Street
     type: assetmanager
