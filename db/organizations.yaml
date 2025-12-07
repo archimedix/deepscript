@@ -202,6 +202,15 @@ organizations:
       share: 0.038
     - org: berkshire-hathaway
       role: stake
+  arel:
+    type: thinktank
+    headquarters: Italy
+    stakeholders:
+    - person: enrico-letta
+      role: executive
+      from: 1993
+      to: 2013
+      note: Direttore
   arm:
     name: ARM Holdings
     type: company
@@ -543,6 +552,8 @@ organizations:
       role: steering
     - person: henry-kissinger
       role: member
+    - person: giuliano-amato
+      role: steering
     - org: trilaterale
       role: partner
   bipartisan-policy-center:
@@ -725,6 +736,16 @@ organizations:
     stakeholders:
     - person: mark-zuckerberg
       role: member
+  carbyne:
+    type: company
+    founded: 2014
+    headquarters: Israel
+    sector: tech-emergency
+    stakeholders:
+    - person: ehud-barak
+      role: chairman
+      from: 2015
+      note: Lead investor, fondi da Epstein
   carlyle-group:
     name: Carlyle Group
     type: privateequity
@@ -803,6 +824,8 @@ organizations:
       role: member
     - person: michele-flournoy
       role: member
+    - person: hank-paulson
+      role: member
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -848,6 +871,15 @@ organizations:
     stakeholders:
     - org: berkshire-hathaway
       role: stake
+  children-investment-fund:
+    type: assetmanager
+    founded: 2003
+    sector: hedge-fund
+    stakeholders:
+    - person: rishi-sunak
+      role: partner
+      from: 2006
+      to: 2009
   cia:
     name: Central Intelligence Agency
     type: agency
@@ -1520,6 +1552,19 @@ organizations:
       to: 2011
     - person: romano-prodi
       role: advisor
+    - person: hank-paulson
+      role: executive
+      from: 1998
+      to: 2006
+      note: CEO and Chairman
+    - person: rishi-sunak
+      role: analyst
+      from: 2001
+      to: 2004
+    - person: rishi-sunak
+      role: advisor
+      from: 2025
+      note: Senior Advisor post-PM
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -1659,6 +1704,16 @@ organizations:
       from: 2013
       to: 2016
       note: National Security Advisor to PM Netanyahu
+    - person: ehud-barak
+      role: leader
+      from: 1999
+      to: 2001
+      note: Prime Minister
+    - person: ehud-barak
+      role: minister
+      from: 2007
+      to: 2013
+      note: Defense Minister
   governo-italia:
     name: Governo Italia
     type: government
@@ -1702,6 +1757,30 @@ organizations:
       role: minister
       from: 2018
       to: 2019
+    - person: enrico-letta
+      role: leader
+      from: 2013
+      to: 2014
+      note: Prime Minister
+    - person: giuliano-amato
+      role: leader
+      from: 1992
+      to: 1993
+      note: PM durante Tangentopoli
+    - person: giuliano-amato
+      role: leader
+      from: 2000
+      to: 2001
+    - person: giuliano-amato
+      role: minister
+      from: 2006
+      to: 2008
+      note: Ministro Interno (Prodi II)
+    - person: giuliano-amato
+      role: executive
+      from: 2013
+      to: 2022
+      note: Giudice e Presidente Corte Costituzionale
   governo-lussemburgo:
     name: Governo Lussemburgo
     type: government
@@ -1822,6 +1901,26 @@ organizations:
       from: 1949
       to: 1951
       note: First Secretary British Embassy Washington
+    - person: david-cameron
+      role: leader
+      from: 2010
+      to: 2016
+      note: Prime Minister
+    - person: david-cameron
+      role: minister
+      from: 2023
+      to: 2024
+      note: Foreign Secretary
+    - person: rishi-sunak
+      role: leader
+      from: 2022
+      to: 2024
+      note: Prime Minister
+    - person: rishi-sunak
+      role: minister
+      from: 2020
+      to: 2022
+      note: Chancellor of Exchequer
   governo-urss:
     name: Governo URSS
     type: government
@@ -1933,6 +2032,17 @@ organizations:
       from: 1994
       to: 1997
       note: White House Chief of Staff
+  greensill:
+    type: company
+    founded: 2011
+    status: defunct
+    sector: fintech
+    stakeholders:
+    - person: david-cameron
+      role: advisor
+      from: 2018
+      to: 2021
+      note: Lobbying scandal
   gruppo-30:
     name: Group of Thirty
     type: thinktank
@@ -2018,6 +2128,17 @@ organizations:
       role: chairman
       from: 1965
       to: 1967
+  idf:
+    type: agency
+    founded: 1948
+    headquarters: Israel
+    sector: military
+    stakeholders:
+    - person: ehud-barak
+      role: executive
+      from: 1959
+      to: 1995
+      note: Chief of Staff 1991-95, most decorated soldier
   ig-farben:
     name: IG Farben
     type: company
@@ -2075,6 +2196,14 @@ organizations:
     founded: 1934
     headquarters: Milano, Italia
     status: active
+  jacques-delors-institute:
+    type: thinktank
+    founded: 1996
+    headquarters: Paris
+    stakeholders:
+    - person: enrico-letta
+      role: chairman
+      from: 2016
   jinsa:
     name: Jewish Institute for National Security of America
     type: thinktank
@@ -2697,6 +2826,16 @@ organizations:
     - person: peter-thiel
       role: founder
       from: 2003
+  paragon:
+    type: company
+    founded: 2019
+    headquarters: Israel
+    sector: cyber-offensive
+    stakeholders:
+    - person: ehud-barak
+      role: board
+      from: 2019
+      note: Acquisita $900M 2024
   paypal:
     name: PayPal
     type: company
@@ -2957,6 +3096,16 @@ organizations:
     - person: yasir-al-rumayyan
       role: chairman
       from: 2019
+  sciences-po:
+    founded: 1872
+    headquarters: Paris
+    sector: university
+    stakeholders:
+    - person: enrico-letta
+      role: executive
+      from: 2015
+      to: 2021
+      note: Dean PSIA
   seagram:
     name: Seagram
     type: company
@@ -3191,6 +3340,10 @@ organizations:
       role: minister
       from: 1989
       to: 1992
+    - person: giuliano-amato
+      role: minister
+      from: 1987
+      to: 1989
   tesoro-usa:
     name: US Treasury
     type: government
@@ -3209,6 +3362,11 @@ organizations:
       role: minister
       from: 1999
       to: 2001
+    - person: hank-paulson
+      role: minister
+      from: 2006
+      to: 2009
+      note: Gestì bailout 2008
     - org: banca-mondiale
       role: partner
   the-elders:
@@ -3220,6 +3378,15 @@ organizations:
     stakeholders:
     - person: gro-harlem-brundtland
       role: chairman
+  theleme-partners:
+    type: assetmanager
+    founded: 2010
+    sector: hedge-fund
+    stakeholders:
+    - person: rishi-sunak
+      role: partner
+      from: 2010
+      to: 2014
   tiktok-usa:
     name: TikTok USA
     type: company
@@ -3239,13 +3406,26 @@ organizations:
     - person: john-scarlett
       role: board
       from: 2011
+  toka:
+    type: company
+    founded: 2018
+    headquarters: Israel
+    sector: cyber-defense
+    stakeholders:
+    - person: ehud-barak
+      role: founder
+      from: 2018
+      note: Co-founder, cyber for governments
   tony-blair-institute:
     name: Tony Blair Institute
     type: thinktank
     founded: 2016
-    headquarters: Londra
+    headquarters: London
     status: active
     stakeholders:
+    - person: tony-blair
+      role: founder
+      from: 2016
     - person: sanna-marin
       role: advisor
       from: 2023
@@ -3307,6 +3487,8 @@ organizations:
       from: 1973
     - person: henry-kissinger
       role: steering
+    - person: enrico-letta
+      role: member
     - org: bilderberg
       role: partner
     - org: cfr
@@ -3608,6 +3790,12 @@ organizations:
       role: founder
       from: 2020
       note: Great Reset Initiative co-founder
+    - person: david-cameron
+      role: member
+    - person: rishi-sunak
+      role: member
+    - person: ehud-barak
+      role: member
     - org: bilderberg
       role: partner
     - org: fmi

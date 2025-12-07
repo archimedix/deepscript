@@ -457,6 +457,27 @@ persons:
       role: advisor
       from: 1958
       to: 1971
+  david-cameron:
+    born: 1966
+    nationality: GBR
+    affiliations:
+    - org: wef
+      role: member
+    - org: governo-uk
+      role: leader
+      from: 2010
+      to: 2016
+      note: Prime Minister
+    - org: governo-uk
+      role: minister
+      from: 2023
+      to: 2024
+      note: Foreign Secretary
+    - org: greensill
+      role: advisor
+      from: 2018
+      to: 2021
+      note: Lobbying scandal
   david-cohen:
     born: 1963
     nationality: USA
@@ -582,6 +603,39 @@ persons:
       role: executive
       from: 1971
       to: 1994
+  ehud-barak:
+    born: 1942
+    nationality: ISR
+    affiliations:
+    - org: wef
+      role: member
+    - org: governo-israele
+      role: leader
+      from: 1999
+      to: 2001
+      note: Prime Minister
+    - org: governo-israele
+      role: minister
+      from: 2007
+      to: 2013
+      note: Defense Minister
+    - org: carbyne
+      role: chairman
+      from: 2015
+      note: Lead investor, fondi da Epstein
+    - org: toka
+      role: founder
+      from: 2018
+      note: Co-founder, cyber for governments
+    - org: paragon
+      role: board
+      from: 2019
+      note: Acquisita $900M 2024
+    - org: idf
+      role: executive
+      from: 1959
+      to: 1995
+      note: Chief of Staff 1991-95, most decorated soldier
   elizabeth-ii:
     born: 1926
     died: 2022
@@ -629,6 +683,30 @@ persons:
       role: employee
       from: 2008
       to: 2012
+  enrico-letta:
+    born: 1966
+    nationality: ITA
+    affiliations:
+    - org: trilaterale
+      role: member
+    - org: governo-italia
+      role: leader
+      from: 2013
+      to: 2014
+      note: Prime Minister
+    - org: jacques-delors-institute
+      role: chairman
+      from: 2016
+    - org: sciences-po
+      role: executive
+      from: 2015
+      to: 2021
+      note: Dean PSIA
+    - org: arel
+      role: executive
+      from: 1993
+      to: 2013
+      note: Direttore
   enzo-moavero-milanesi:
     born: 1954
     nationality: ITA
@@ -870,6 +948,35 @@ persons:
       role: executive
     - org: intesa-sanpaolo
       role: executive
+  giuliano-amato:
+    born: 1938
+    nationality: ITA
+    affiliations:
+    - org: bilderberg
+      role: steering
+    - org: governo-italia
+      role: leader
+      from: 1992
+      to: 1993
+      note: PM durante Tangentopoli
+    - org: governo-italia
+      role: leader
+      from: 2000
+      to: 2001
+    - org: governo-italia
+      role: minister
+      from: 2006
+      to: 2008
+      note: Ministro Interno (Prodi II)
+    - org: governo-italia
+      role: executive
+      from: 2013
+      to: 2022
+      note: Giudice e Presidente Corte Costituzionale
+    - org: tesoro-italia
+      role: minister
+      from: 1987
+      to: 1989
   greg-abel:
     born: 1962
     nationality: CAN
@@ -913,6 +1020,22 @@ persons:
       role: minister
       from: 1989
       to: 1992
+  hank-paulson:
+    born: 1946
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: member
+    - org: goldman-sachs
+      role: executive
+      from: 1998
+      to: 2006
+      note: CEO and Chairman
+    - org: tesoro-usa
+      role: minister
+      from: 2006
+      to: 2009
+      note: Gestì bailout 2008
   hans-dieter-poetsch:
     born: 1951
     nationality: DEU
@@ -2280,6 +2403,38 @@ persons:
     born: 1913
     died: 1994
     nationality: USA
+  rishi-sunak:
+    born: 1980
+    nationality: GBR
+    affiliations:
+    - org: wef
+      role: member
+    - org: goldman-sachs
+      role: analyst
+      from: 2001
+      to: 2004
+    - org: goldman-sachs
+      role: advisor
+      from: 2025
+      note: Senior Advisor post-PM
+    - org: governo-uk
+      role: leader
+      from: 2022
+      to: 2024
+      note: Prime Minister
+    - org: governo-uk
+      role: minister
+      from: 2020
+      to: 2022
+      note: Chancellor of Exchequer
+    - org: children-investment-fund
+      role: partner
+      from: 2006
+      to: 2009
+    - org: theleme-partners
+      role: partner
+      from: 2010
+      to: 2014
   robert-gates:
     born: 1943
     nationality: USA
@@ -2604,6 +2759,9 @@ persons:
       role: leader
       from: 1997
       to: 2007
+    - org: tony-blair-institute
+      role: founder
+      from: 2016
   ursula-von-der-leyen:
     born: 1958
     nationality: DEU
