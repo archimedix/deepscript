@@ -1,0 +1,144 @@
+# Paul M. Nakasone (1963)
+
+> Ex direttore NSA e Cyber Command, ora nel board OpenAI: il ponte tra intelligence USA e Big Tech AI
+
+## Dati Essenziali
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nascita** | 19 novembre 1963, White Bear Lake, Minnesota |
+| **Famiglia** | Padre Edwin Nakasone, colonnello US Army (nisei, figlio di immigrati da Okinawa) |
+| **Origine** | Giapponese-americana (terza generazione) |
+| **Grado** | Generale a 4 stelle (ritirato) |
+
+---
+
+## Formazione
+
+| Periodo | Istituzione | Dettaglio |
+|---------|-------------|-----------|
+| **1986** | St. John's University (Minnesota) | Commissione come ufficiale intelligence (ROTC) |
+| - | University of Southern California | M.S. Systems Management |
+| - | National Defense Intelligence College | Master |
+| - | US Army War College | Master |
+
+---
+
+## Carriera e Ruoli
+
+### Timeline Professionale
+
+| Periodo | Ruolo | Organizzazione |
+|---------|-------|----------------|
+| **1986-2024** | Ufficiale → Generale 4 stelle | US Army |
+| **2016-2017** | Comandante | US Army Cyber Command |
+| **2018-2024** | Direttore | NSA |
+| **2018-2024** | Comandante | US Cyber Command |
+| **2024-** | Founding Director | Vanderbilt Institute of National Security |
+| **2024-** | Board member | OpenAI |
+
+### Momenti chiave
+
+| Anno | Evento |
+|------|--------|
+| **2001** | Presente al Pentagono l'11 settembre |
+| **2008** | Risposta all'intrusione russa nelle reti DoD (Operation Buckshot Yankee) |
+| **2019** | Crea NSA Cybersecurity Directorate |
+| **2022** | Lancia Cybersecurity Collaboration Center (pubblico-privato) |
+| **Feb 2024** | Ritiro dall'esercito |
+| **Mag 2024** | Direttore fondatore Vanderbilt Institute |
+| **Giu 2024** | Entra nel board OpenAI |
+
+---
+
+## Rete di Connessioni
+
+### Mappa delle Appartenenze
+
+```
+                    PAUL NAKASONE
+                         |
+      +------------------+------------------+
+      |                  |                  |
+      v                  v                  v
+    NSA              US CYBER           OPENAI
+  (2018-24)          COMMAND           (2024-)
+  Director          (2018-24)           Board
+                    Commander
+```
+
+### Network Professionale
+
+| Nome | Connessione |
+|------|-------------|
+| Sam Altman | CEO OpenAI, collaborazione board |
+| Bret Taylor | Chair OpenAI, lo ha nominato |
+| Timothy Haugh | Successore a NSA/Cyber Command |
+
+---
+
+## Potere Esercitato
+
+### Intelligence e Cyber Warfare
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Persistent Engagement** | Dottrina di cyber-operazioni offensive continue |
+| **Hunt Forward** | Operazioni cyber proattive in paesi alleati |
+| **Dual-hat** | Unico a comandare NSA + Cyber Command contemporaneamente |
+| **Elezioni** | Difesa cyber elezioni USA 2018, 2020, 2022 |
+
+### Transizione a Big Tech
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **OpenAI Safety Committee** | Supervisione sicurezza AI |
+| **Vanderbilt Institute** | Ponte accademia-intelligence |
+| **Revolving door** | Da capo intelligence a board tech in 4 mesi |
+
+---
+
+## Connessioni PowerLink
+
+### Organizzazioni
+
+| Entita' | Connessione |
+|---------|-------------|
+| [NSA](../agency/nsa.md) | Direttore 2018-2024 |
+| [US Cyber Command](../agency/us-cyber-command.md) | Comandante 2018-2024 |
+| [OpenAI](../company/openai.md) | Board 2024- |
+| [Governo USA](../government/governo-usa.md) | Carriera militare 38 anni |
+
+### Persone
+
+| Persona | Relazione |
+|---------|-----------|
+| [Sam Altman](sam-altman.md) | CEO OpenAI |
+
+---
+
+## Rilevanza per DeepScript
+
+La nomina di Nakasone nel board OpenAI rappresenta:
+
+1. **Convergenza AI-Intelligence**: L'ex capo della piu' grande agenzia di intelligence del mondo supervisiona la piu' grande azienda AI
+2. **Sicurezza nazionale**: OpenAI cerca credibilita' con governo USA (Stargate Project)
+3. **Revolving door militare-tech**: Pattern di passaggio rapido da ruoli pubblici a privati
+4. **Accesso ai dati**: Domande su possibili accordi intelligence-OpenAI
+
+---
+
+## Fonti
+
+### Biografie
+- [Wikipedia - Paul Nakasone](https://en.wikipedia.org/wiki/Paul_Nakasone)
+- [DoD Biography](https://www.defense.gov/About/Biographies/Biography/Article/1531067/general-paul-m-nakasone/)
+
+### Istituzioni
+- [NSA Leadership](https://www.nsa.gov/About-Us/Current-Leadership/)
+- [Vanderbilt Institute](https://news.vanderbilt.edu/2024/05/08/gen-paul-nakasone-named-founding-director-of-institute-for-national-defense-and-global-security/)
+- [OpenAI Board Announcement](https://engineering.vanderbilt.edu/2024/06/13/retired-u-s-army-general-paul-nakasone-appointed-to-openai-board-of-directors/)
+
+---
+
+*Ultimo aggiornamento: Dicembre 2025*

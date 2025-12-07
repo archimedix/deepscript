@@ -135,6 +135,10 @@ organizations:
     - person: jeff-bezos
       role: chairman
       from: 2021
+    - person: keith-alexander
+      role: board
+      from: 2020
+      note: Board of Directors
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -612,6 +616,10 @@ organizations:
       role: member
     - person: giuliano-amato
       role: steering
+    - person: reid-hoffman
+      role: member
+      from: 2011
+      note: Regular attendee since 2011
     - org: trilaterale
       role: partner
   bipartisan-policy-center:
@@ -817,6 +825,16 @@ organizations:
       to: 2005
     - person: david-rubenstein
       role: chairman
+  carnegie-endowment:
+    name: Carnegie Endowment for International Peace
+    type: thinktank
+    founded: 1910
+    headquarters: Washington DC
+    status: active
+    stakeholders:
+    - person: penny-pritzker
+      role: chairman
+      note: Chair of the Board
   cea:
     name: Council of Economic Advisers
     type: agency
@@ -884,6 +902,9 @@ organizations:
       role: member
     - person: hank-paulson
       role: member
+    - person: reid-hoffman
+      role: member
+      from: 2015
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -1038,6 +1059,11 @@ organizations:
       from: 2020
       to: 2023
       note: Center for Cyber Intelligence
+    - person: michael-hayden
+      role: executive
+      from: 2006
+      to: 2009
+      note: Director CIA
     - org: oss
       role: predecessor
       from: 1942
@@ -1579,16 +1605,40 @@ organizations:
   g42:
     name: G42
     type: company
-    headquarters: Abu Dhabi
+    founded: 2018
+    headquarters: Abu Dhabi, UAE
     status: active
-    sector: AI
+    sector: ai
     stakeholders:
     - person: sheikh-tahnoun-bin-zayed
       role: chairman
       from: 2018
+    - person: tahnoon-bin-zayed
+      role: chairman
+      from: 2018
+      note: Chairman and controlling shareholder
+    - person: peng-xiao
+      role: executive
+      from: 2018
+      note: Group CEO
+    - person: brad-smith
+      role: board
+      from: 2024
+      note: Microsoft President, joined with investment
+    - org: microsoft
+      role: investor
+      from: 2024
+      note: $1.5B investment
+    - org: mubadala
+      role: investor
+      note: Major backer
     - org: governo-uae
       role: owner
       note: AI company, partner Microsoft
+    - org: silver-lake
+      role: investor
+      from: 2021
+      note: $800M equity investment
   gates-foundation:
     name: Bill & Melinda Gates Foundation
     type: foundation
@@ -2227,6 +2277,16 @@ organizations:
       from: 2017
       to: 2021
       note: Senior Advisor to the President, Director Office of American Innovation
+    - person: paul-nakasone
+      role: executive
+      from: 1986
+      to: 2024
+      note: US Army, 4-star General
+    - person: penny-pritzker
+      role: minister
+      from: 2013
+      to: 2017
+      note: Secretary of Commerce (Obama)
   greensill:
     type: company
     founded: 2011
@@ -2238,6 +2298,18 @@ organizations:
       from: 2018
       to: 2021
       note: Lobbying scandal
+  greylock:
+    name: Greylock Partners
+    type: privateequity
+    founded: 1965
+    headquarters: Menlo Park, California
+    status: active
+    sector: venture-capital
+    stakeholders:
+    - person: reid-hoffman
+      role: partner
+      from: 2009
+      note: General Partner
   gruppo-30:
     name: Group of Thirty
     type: thinktank
@@ -2749,8 +2821,10 @@ organizations:
   microsoft:
     name: Microsoft
     type: company
+    founded: 1975
     headquarters: Redmond
     status: active
+    sector: tech
     stakeholders:
     - person: bill-gates
       role: founder
@@ -2760,6 +2834,27 @@ organizations:
       role: executive
       from: 1975
       to: 2000
+    - person: reid-hoffman
+      role: board
+      from: 2017
+      note: Board of Directors
+    - person: satya-nadella
+      role: executive
+      from: 2014
+      note: CEO 2014-, Chairman 2021-
+    - person: steve-ballmer
+      role: executive
+      from: 2000
+      to: 2014
+      note: CEO
+    - person: penny-pritzker
+      role: board
+      from: 2017
+      note: Board of Directors
+    - person: brad-smith
+      role: executive
+      from: 2015
+      note: President
     - org: norges-bank-gpfg
       role: stake
       share: 0.011
@@ -2895,8 +2990,10 @@ organizations:
   nsa:
     name: National Security Agency
     type: agency
-    headquarters: Washington
+    founded: 1952
+    headquarters: Fort Meade, Maryland
     status: active
+    sector: intelligence
     stakeholders:
     - person: zbigniew-brzezinski
       role: advisor
@@ -2914,6 +3011,26 @@ organizations:
       role: advisor
       from: 1969
       to: 1975
+    - person: paul-nakasone
+      role: executive
+      from: 2018
+      to: 2024
+      note: Director NSA
+    - person: keith-alexander
+      role: executive
+      from: 2005
+      to: 2014
+      note: Director NSA (longest-serving)
+    - person: michael-rogers
+      role: executive
+      from: 2014
+      to: 2018
+      note: Director NSA
+    - person: michael-hayden
+      role: executive
+      from: 1999
+      to: 2005
+      note: Director NSA
   nso-group:
     name: NSO Group
     type: company
@@ -3016,13 +3133,57 @@ organizations:
     status: active
     sector: tech
     stakeholders:
+    - person: elon-musk
+      role: founder
+      from: 2015
+      to: 2018
+      note: Co-chair, left board 2018
+    - person: peter-thiel
+      role: advisor
+      from: 2015
+      note: Initial investor
+    - person: larry-summers
+      role: board
+      from: 2023
+      to: 2025
+      note: Board member, resigned Nov 2025
     - person: sam-altman
       role: executive
       from: 2019
+    - person: greg-brockman
+      role: executive
+      from: 2015
+      note: President, Co-founder
+    - person: ilya-sutskever
+      role: founder
+      from: 2015
+      to: 2024
+      note: Co-founder, Chief Scientist until 2024
+    - person: reid-hoffman
+      role: advisor
+      from: 2015
+      note: Initial investor
+    - person: bret-taylor
+      role: chairman
+      from: 2023
+      note: Board Chair
+    - person: paul-nakasone
+      role: board
+      from: 2024
+      note: Board member, Safety & Security Committee
+    - org: microsoft
+      role: investor
+      share: 27
+      from: 2019
+      note: $13B+ invested, ~27% stake
     - org: softbank
       role: stake
     - org: stargate-project
       role: partner
+    - org: nvidia
+      role: investor
+      from: 2024
+      note: Series E investor
     - org: mgx
       role: investor
       from: 2024
@@ -3523,6 +3684,13 @@ organizations:
       to: 1987
     - org: kissinger-associates
       role: partner
+  silver-lake:
+    name: Silver Lake
+    type: privateequity
+    founded: 1999
+    headquarters: Menlo Park, California
+    status: active
+    sector: private-equity
   skoda:
     name: Skoda
     type: company
@@ -3918,6 +4086,24 @@ organizations:
       role: member
     - person: omri-lavie
       role: member
+  us-cyber-command:
+    name: US Cyber Command
+    type: agency
+    founded: 2009
+    headquarters: Fort Meade, Maryland
+    status: active
+    sector: military
+    stakeholders:
+    - person: paul-nakasone
+      role: executive
+      from: 2018
+      to: 2024
+      note: Commander
+    - person: michael-rogers
+      role: executive
+      from: 2014
+      to: 2018
+      note: Commander
   vanguard:
     name: Vanguard
     type: assetmanager

@@ -368,6 +368,17 @@ persons:
       role: leader
       from: 1991
       to: 1999
+  brad-smith:
+    nationality: USA
+    affiliations:
+    - org: microsoft
+      role: executive
+      from: 2015
+      note: President
+    - org: g42
+      role: board
+      from: 2024
+      note: Microsoft President, joined with investment
   brent-scowcroft:
     born: 1925
     died: 2020
@@ -381,6 +392,13 @@ persons:
       role: chairman
       from: 1982
       to: 1989
+  bret-taylor:
+    nationality: USA
+    affiliations:
+    - org: openai
+      role: chairman
+      from: 2023
+      note: Board Chair
   carlo-azeglio-ciampi:
     born: 1920
     died: 2016
@@ -737,6 +755,11 @@ persons:
       role: founder
       from: 1999
       to: 2002
+    - org: openai
+      role: founder
+      from: 2015
+      to: 2018
+      note: Co-chair, left board 2018
   emmanuel-macron:
     born: 1977
     nationality: FRA
@@ -1064,6 +1087,13 @@ persons:
     - org: berkshire-hathaway
       role: chairman
       from: 2018
+  greg-brockman:
+    nationality: USA
+    affiliations:
+    - org: openai
+      role: executive
+      from: 2015
+      note: President, Co-founder
   gro-harlem-brundtland:
     born: 1939
     nationality: NOR
@@ -1265,6 +1295,14 @@ persons:
       role: executive
       from: 2019
       note: CTO
+  ilya-sutskever:
+    nationality: ISR
+    affiliations:
+    - org: openai
+      role: founder
+      from: 2015
+      to: 2024
+      note: Co-founder, Chief Scientist until 2024
   isaiah-kenen:
     born: 1905
     died: 1988
@@ -1749,6 +1787,19 @@ persons:
     - org: commissione-ue
       role: leader
       from: 2024
+  keith-alexander:
+    born: 1951
+    nationality: USA
+    affiliations:
+    - org: nsa
+      role: executive
+      from: 2005
+      to: 2014
+      note: Director NSA (longest-serving)
+    - org: amazon
+      role: board
+      from: 2020
+      note: Board of Directors
   khaldoon-al-mubarak:
     nationality: UAE
     note: CEO Mubadala, Vice Chair MGX, Chairman Manchester City
@@ -1887,6 +1938,11 @@ persons:
       role: minister
       from: 1999
       to: 2001
+    - org: openai
+      role: board
+      from: 2023
+      to: 2025
+      note: Board member, resigned Nov 2025
   lawrence-eagleburger:
     born: 1930
     died: 2011
@@ -2191,6 +2247,20 @@ persons:
       from: 1943
       to: 1945
       note: Chief SI Italy
+  michael-hayden:
+    born: 1945
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 2006
+      to: 2009
+      note: Director CIA
+    - org: nsa
+      role: executive
+      from: 1999
+      to: 2005
+      note: Director NSA
   michael-makovsky:
     born: 1968
     nationality: USA
@@ -2217,6 +2287,20 @@ persons:
       role: executive
       from: 2013
       note: Senior Counselor, Chairman Geo-Political Risk
+  michael-rogers:
+    born: 1959
+    nationality: USA
+    affiliations:
+    - org: nsa
+      role: executive
+      from: 2014
+      to: 2018
+      note: Director NSA
+    - org: us-cyber-command
+      role: executive
+      from: 2014
+      to: 2018
+      note: Commander
   michele-flournoy:
     born: 1960
     nationality: USA
@@ -2453,6 +2537,30 @@ persons:
     affiliations:
     - org: kissinger-associates
       role: advisor
+  paul-nakasone:
+    born: 1963
+    nationality: USA
+    note: Ex NSA Director, US Cyber Command
+    affiliations:
+    - org: governo-usa
+      role: executive
+      from: 1986
+      to: 2024
+      note: US Army, 4-star General
+    - org: nsa
+      role: executive
+      from: 2018
+      to: 2024
+      note: Director NSA
+    - org: openai
+      role: board
+      from: 2024
+      note: Board member, Safety & Security Committee
+    - org: us-cyber-command
+      role: executive
+      from: 2018
+      to: 2024
+      note: Commander
   paul-warburg:
     born: 1868
     died: 1932
@@ -2482,6 +2590,31 @@ persons:
       role: minister
       from: 2001
       to: 2005
+  peng-xiao:
+    nationality: CHN
+    note: Ex-DarkMatter, controversial background
+    affiliations:
+    - org: g42
+      role: executive
+      from: 2018
+      note: Group CEO
+  penny-pritzker:
+    born: 1959
+    nationality: USA
+    family: pritzker
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 2013
+      to: 2017
+      note: Secretary of Commerce (Obama)
+    - org: microsoft
+      role: board
+      from: 2017
+      note: Board of Directors
+    - org: carnegie-endowment
+      role: chairman
+      note: Chair of the Board
   pete-buttigieg:
     born: 1982
     nationality: USA
@@ -2519,6 +2652,10 @@ persons:
     - org: founders-fund
       role: partner
       from: 2005
+    - org: openai
+      role: advisor
+      from: 2015
+      note: Initial investor
   peter-wallenberg-jr:
     born: 1959
     nationality: SWE
@@ -2582,6 +2719,28 @@ persons:
       role: founder
     - org: fii-saudi
       role: member
+  reid-hoffman:
+    nationality: USA
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2011
+      note: Regular attendee since 2011
+    - org: cfr
+      role: member
+      from: 2015
+    - org: microsoft
+      role: board
+      from: 2017
+      note: Board of Directors
+    - org: openai
+      role: advisor
+      from: 2015
+      note: Initial investor
+    - org: greylock
+      role: partner
+      from: 2009
+      note: General Partner
   riccardo-gallo:
     born: 1937
     nationality: ITA
@@ -2807,6 +2966,15 @@ persons:
     - org: tony-blair-institute
       role: advisor
       from: 2023
+  satya-nadella:
+    born: 1967
+    nationality: USA
+    note: Born India, naturalized USA
+    affiliations:
+    - org: microsoft
+      role: executive
+      from: 2014
+      note: CEO 2014-, Chairman 2021-
   sergey-brin:
     born: 1973
     nationality: USA
@@ -2912,6 +3080,15 @@ persons:
     - org: american-jewish-congress
       role: founder
       from: 1918
+  steve-ballmer:
+    born: 1956
+    nationality: USA
+    affiliations:
+    - org: microsoft
+      role: executive
+      from: 2000
+      to: 2014
+      note: CEO
   steve-jobs:
     born: 1955
     died: 2011
@@ -2962,6 +3139,14 @@ persons:
     - org: apple
       role: board
       from: 2014
+  tahnoon-bin-zayed:
+    nationality: UAE
+    note: National Security Advisor UAE, Al Nahyan family
+    affiliations:
+    - org: g42
+      role: chairman
+      from: 2018
+      note: Chairman and controlling shareholder
   tedros-adhanom:
     born: 1965
     nationality: ETH

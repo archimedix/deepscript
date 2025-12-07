@@ -105,10 +105,12 @@ La **triangolazione Israel** (via Yossi Cohen/SoftBank) connette prevalentemente
 |----|------|-----|-------|
 | [softbank](../docs/agency/softbank.md) | Conglomerate | Tokyo | Hub intermediario Golfo→Tech |
 | [stargate-project](../docs/company/stargate-project.md) | JV | USA | AI infrastructure $500B |
+| [g42](../docs/company/g42.md) | Company | Abu Dhabi | AI company UAE, partner Microsoft |
 | [fii-saudi](../docs/forum/fii-saudi.md) | Forum | Riyadh | "Davos del Deserto" |
 | [blackstone](../docs/private-equity/blackstone.md) | PE | NYC | FII partner |
 | [carlyle-group](../docs/private-equity/carlyle-group.md) | PE | DC | FII partner |
 | [bridgewater](../docs/asset-manager/bridgewater.md) | HF | CT | FII partner |
+| [silver-lake](../docs/private-equity/silver-lake.md) | PE | Menlo Park | G42 investor |
 
 ### Persone Chiave
 
@@ -118,6 +120,7 @@ La **triangolazione Israel** (via Yossi Cohen/SoftBank) connette prevalentemente
 | [yasir-al-rumayyan](../docs/persons/yasir-al-rumayyan.md) | SAU | Finance | CEO PIF, Chair Aramco, Board SoftBank |
 | [masayoshi-son](../docs/persons/masayoshi-son.md) | JPN | Entrepreneur | CEO SoftBank, Chair Stargate |
 | [yossi-cohen](../docs/persons/yossi-cohen.md) | ISR | Mossad Director (2016-21) | Head SoftBank Israel |
+| [tahnoon-bin-zayed](../docs/persons/tahnoon-bin-zayed.md) | UAE | NSA UAE | Chair G42, Chair MGX |
 | [stephen-schwarzman](../docs/persons/stephen-schwarzman.md) | USA | Finance | CEO Blackstone, FII speaker |
 | [david-rubenstein](../docs/persons/david-rubenstein.md) | USA | Finance | Chairman Carlyle, FII board |
 | [ray-dalio](../docs/persons/ray-dalio.md) | USA | Finance | Founder Bridgewater, FII speaker |
@@ -313,6 +316,45 @@ MGX/Mubadala hanno ottenuto accesso a:
 - Meno bagaglio reputazionale
 - Yossi Cohen come ponte
 
+### 2b. G42: Il Veicolo AI degli Emirati (NUOVO)
+
+G42 e' emerso come il principale veicolo tech/AI dell'UAE, con connessioni cruciali:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Chairman** | Sheikh Tahnoon bin Zayed (NSA UAE, fratello presidente) |
+| **CEO** | Peng Xiao (ex-DarkMatter, background controverso) |
+| **Fondazione** | 2018, Abu Dhabi |
+| **Focus** | AI, cloud, healthcare, government |
+
+**Investitori chiave**:
+
+| Investitore | Importo | Anno | Note |
+|-------------|---------|------|------|
+| Mubadala | Maggioranza | 2020 | Merger Injazat + Khazna |
+| Silver Lake | $800M | 2021 | Primo investitore USA |
+| **Microsoft** | **$1.5B** | **2024** | **Brad Smith nel board** |
+
+**Controversie risolte** (condizione per investimento Microsoft):
+- Disinvestimento da Huawei (infrastruttura)
+- Cessione stake ByteDance/JD.com
+- IGAA (Intergovernmental Assurance Agreement) USA-UAE
+- Uso esclusivo Azure (no fornitori cinesi)
+
+**Implicazione**: Microsoft ha "americanizzato" G42 inserendo il proprio President nel board come supervisore, in cambio dell'accesso al mercato Gulf/Africa.
+
+**Stargate UAE (2025)**:
+
+```
+G42 + OpenAI + Oracle + SoftBank + NVIDIA + Cisco
+                    │
+                    ▼
+            STARGATE UAE
+         (estensione Stargate USA)
+```
+
+L'UAE ottiene cosi' accesso diretto all'infrastruttura AI piu' avanzata.
+
 ### 3. Canale Kushner: Accesso Politico
 
 Affinity Partners rappresenta un modello alternativo:
@@ -391,22 +433,25 @@ Prima mega-acquisizione facilitata dal canale Kushner.
 
 ### Persone da aggiungere al database
 
-| Nome | Ruolo | Priorita' |
-|------|-------|-----------|
-| Jared Kushner | Affinity Partners | Alta |
-| Sheikh Tahnoun bin Zayed | Chair MGX | Alta |
-| Khaldoon Al Mubarak | Vice Chair MGX, CEO Mubadala | Alta |
-| Sam Altman | CEO OpenAI, Stargate | Media |
-| Larry Ellison | Oracle, Stargate | Media |
+| Nome | Ruolo | Priorita' | Status |
+|------|-------|-----------|--------|
+| ~~Sheikh Tahnoun bin Zayed~~ | ~~Chair MGX~~ | ~~Alta~~ | **AGGIUNTO** |
+| Jared Kushner | Affinity Partners | Alta | Da aggiungere |
+| Khaldoon Al Mubarak | Vice Chair MGX, CEO Mubadala | Alta | Da aggiungere |
+| ~~Sam Altman~~ | ~~CEO OpenAI~~ | ~~Media~~ | **AGGIUNTO** |
+| Larry Ellison | Oracle, Stargate | Media | Da aggiungere |
+| Peng Xiao | CEO G42 | Media | **AGGIUNTO** |
+| Brad Smith | President Microsoft, Board G42 | Media | **AGGIUNTO** |
 
 ### Organizzazioni da aggiungere
 
-| Nome | Tipo | Priorita' |
-|------|------|-----------|
-| MGX | SWF/Fund | Alta |
-| Affinity Partners | PE | Alta |
-| G42 | Company (AI) | Media |
-| Lucid Motors | Company (EV) | Media |
+| Nome | Tipo | Priorita' | Status |
+|------|------|-----------|--------|
+| ~~G42~~ | ~~Company (AI)~~ | ~~Media~~ | **AGGIUNTO** - [scheda](../docs/company/g42.md) |
+| ~~Silver Lake~~ | ~~PE~~ | ~~Media~~ | **AGGIUNTO** |
+| MGX | SWF/Fund | Alta | Da aggiungere |
+| Affinity Partners | PE | Alta | Da aggiungere |
+| Lucid Motors | Company (EV) | Media | Da aggiungere |
 
 ---
 
@@ -431,4 +476,4 @@ Prima mega-acquisizione facilitata dal canale Kushner.
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: 7 Dicembre 2025* (aggiunto G42, Tahnoon, Silver Lake, Brad Smith)
