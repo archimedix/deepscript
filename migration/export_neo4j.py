@@ -222,7 +222,12 @@ def export_organizations(driver):
                     if stake["role"]:
                         entry["role"] = stake["role"]
                     if stake["share"]:
-                        entry["share"] = round(stake["share"], 4)
+                        # Handle both numeric and string shares (e.g., "81%")
+                        share_val = stake["share"]
+                        if isinstance(share_val, (int, float)):
+                            entry["share"] = round(share_val, 4)
+                        else:
+                            entry["share"] = share_val
                     if stake["from"]:
                         entry["from"] = stake["from"]
                     if stake["to"]:

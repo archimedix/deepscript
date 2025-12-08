@@ -859,6 +859,13 @@ persons:
     died: 1935
     nationality: Italia
     family: agnelli-elkann
+  egon-durban:
+    nationality: USA
+    affiliations:
+    - org: silver-lake
+      role: executive
+      from: 1999
+      note: Co-CEO, Managing Partner, founding principal
   ehud-barak:
     born: 1942
     nationality: ISR
@@ -1362,6 +1369,23 @@ persons:
       from: 2005
       to: 2022
       note: immediate-post-government
+  gerry-cardinale:
+    born: 1967
+    nationality: USA
+    affiliations:
+    - org: goldman-sachs
+      role: partner
+      from: 1992
+      to: 2012
+      note: Partner 2004, Merchant Banking Division
+    - org: redbird-capital
+      role: founder
+      from: 2014
+      note: Founder, Managing Partner, CIO
+    - org: ac-milan
+      role: board
+      from: 2022
+      note: Owner, Board member
   gianni-agnelli:
     born: 1921
     died: 2003
@@ -1381,6 +1405,23 @@ persons:
       to: 2003
     - org: la-stampa
       role: owner
+  gianni-infantino:
+    born: 1970
+    nationality: CHE
+    affiliations:
+    - org: fifa
+      role: leader
+      from: 2016
+      note: President
+    - org: uefa
+      role: executive
+      from: 2009
+      to: 2016
+      note: Secretary General
+    - org: ioc
+      role: member
+      from: 2020
+      note: IOC Member
   giovanni-agnelli-sr:
     born: 1866
     died: 1945
@@ -2418,6 +2459,7 @@ persons:
     nationality: Australia
     family: murdoch
   khaldoon-al-mubarak:
+    born: 1975
     nationality: UAE
     note: CEO Mubadala, Vice Chair MGX, Chairman Manchester City
     affiliations:
@@ -2432,6 +2474,14 @@ persons:
     - org: governo-uae
       role: executive
       note: Abu Dhabi Executive Council
+    - org: city-football-group
+      role: chairman
+      from: 2013
+      note: Founding Chairman CFG
+    - org: manchester-city
+      role: chairman
+      from: 2008
+      note: Chairman since acquisition
   kim-philby:
     born: 1912
     died: 1988
@@ -2457,6 +2507,14 @@ persons:
     - person: james-angleton
       type: colleague
       note: Washington liaison, weekly lunches, Philby deceived Angleton
+  kirsty-coventry:
+    born: 1983
+    nationality: ZWE
+    affiliations:
+    - org: ioc
+      role: leader
+      from: 2025
+      note: President (first woman, first African)
   klaus-schwab:
     born: 1938
     nationality: DEU
@@ -2764,6 +2822,10 @@ persons:
       role: minister
       from: 2009
       note: Deputy PM, Ministro Affari Presidenziali
+    - org: adug
+      role: founder
+      from: 2008
+      note: Owner
     relations:
     - person: mohammed-bin-zayed
       type: brother
@@ -3264,6 +3326,7 @@ persons:
       from: 1949
       to: 1977
   nasser-al-khelaifi:
+    born: 1973
     nationality: QAT
     affiliations:
     - org: qia
@@ -3271,6 +3334,25 @@ persons:
     - org: psg
       role: executive
       from: 2011
+      note: President & CEO
+    - org: fifa
+      role: board
+      from: 2025
+      note: FIFA Council member (representing ECA)
+    - org: uefa
+      role: board
+      note: UEFA Executive Committee member
+    - org: qsi
+      role: chairman
+      from: 2011
+      note: Chairman QSI
+    - org: bein-media
+      role: chairman
+      note: Group Chairman
+    - org: eca
+      role: chairman
+      from: 2021
+      note: Chairman ECA
   nat-rothschild:
     born: 1971
     nationality: UK
@@ -4292,6 +4374,15 @@ persons:
       to: 2011
     - org: gavi
       role: board
+  thomas-bach:
+    born: 1953
+    nationality: DEU
+    affiliations:
+    - org: ioc
+      role: leader
+      from: 2013
+      to: 2025
+      note: President (Honorary President for Life post-2025)
   tim-cook:
     born: 1960
     nationality: USA

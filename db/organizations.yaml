@@ -12,6 +12,23 @@ organizations:
       note: Vice Chairman
     - org: investor-ab
       role: major-shareholder
+  ac-milan:
+    name: AC Milan
+    type: company
+    founded: 1899
+    headquarters: Milan, Italy
+    status: active
+    sector: sports
+    stakeholders:
+    - person: gerry-cardinale
+      role: board
+      from: 2022
+      note: Owner, Board member
+    - org: redbird-capital
+      role: owner
+      share: 100%
+      from: 2022
+      note: €1.2B acquisition from Elliott
   adl:
     name: Anti-Defamation League
     type: thinktank
@@ -22,6 +39,18 @@ organizations:
     - person: jonathan-greenblatt
       role: executive
       from: 2015
+  adug:
+    name: Abu Dhabi United Group
+    type: company
+    founded: 2008
+    headquarters: Abu Dhabi, UAE
+    status: active
+    sector: investment
+    stakeholders:
+    - person: mansour-bin-zayed
+      role: founder
+      from: 2008
+      note: Owner
   ae-industrial-partners:
     name: AE Industrial Partners
     type: privateequity
@@ -564,6 +593,16 @@ organizations:
       role: executive
       from: 2013
       note: Senior Counselor, Chairman Geo-Political Risk
+  bein-media:
+    name: beIN Media Group
+    type: media
+    headquarters: Doha, Qatar
+    status: active
+    sector: media
+    stakeholders:
+    - person: nasser-al-khelaifi
+      role: chairman
+      note: Group Chairman
   bentley:
     name: Bentley
     type: company
@@ -1305,6 +1344,28 @@ organizations:
     - person: robert-rubin
       role: advisor
       from: 1999
+  city-football-group:
+    name: City Football Group
+    type: company
+    founded: 2013
+    headquarters: Manchester, UK
+    status: active
+    sector: sports
+    stakeholders:
+    - person: khaldoon-al-mubarak
+      role: chairman
+      from: 2013
+      note: Founding Chairman CFG
+    - org: silver-lake
+      role: investor
+      share: 18%
+      from: 2019
+      note: $500M investment
+    - org: adug
+      role: owner
+      share: 81%
+      from: 2013
+      note: Via Newton Investment and Development LLC
   clinton-foundation:
     name: Clinton Foundation
     type: foundation
@@ -1603,6 +1664,18 @@ organizations:
       role: chairman
       from: 1915
       to: 1919
+  eca:
+    name: European Club Association
+    type: agency
+    founded: 2008
+    headquarters: Nyon, Switzerland
+    status: active
+    sector: sports
+    stakeholders:
+    - person: nasser-al-khelaifi
+      role: chairman
+      from: 2021
+      note: Chairman ECA
   ecfr:
     name: European Council on Foreign Relations
     type: thinktank
@@ -1655,6 +1728,19 @@ organizations:
     - org: lilly-endowment
       role: stake
       share: 0.107
+  endeavor:
+    name: Endeavor Group Holdings
+    type: company
+    founded: 1995
+    headquarters: Beverly Hills, USA
+    status: active
+    sector: entertainment
+    stakeholders:
+    - org: silver-lake
+      role: owner
+      share: 100%
+      from: 2025
+      note: Take-private $25B, largest PE media deal ever
   eni:
     name: ENI
     type: company
@@ -1815,6 +1901,16 @@ organizations:
     - person: keir-starmer
       role: board
       note: Former executive committee member
+  fanatics:
+    name: Fanatics
+    type: company
+    headquarters: Jacksonville, USA
+    status: active
+    sector: sports-commerce
+    stakeholders:
+    - org: silver-lake
+      role: investor
+      note: Sports commerce platform
   federal-reserve:
     name: Federal Reserve
     type: centralbank
@@ -1854,6 +1950,18 @@ organizations:
       role: partner
     - org: warburg-pincus
       role: partner
+  fenway-sports-group:
+    name: Fenway Sports Group
+    type: company
+    headquarters: Boston, USA
+    status: active
+    sector: sports
+    stakeholders:
+    - org: redbird-capital
+      role: investor
+      share: 11%
+      from: 2021
+      note: $750M deal
   fiat:
     name: FIAT
     type: company
@@ -1867,6 +1975,22 @@ organizations:
     - person: giovanni-agnelli-sr
       role: founder
       from: 1899
+  fifa:
+    name: FIFA - Fédération Internationale de Football Association
+    type: agency
+    founded: 1904
+    headquarters: Zurich, Switzerland
+    status: active
+    sector: sports
+    stakeholders:
+    - person: nasser-al-khelaifi
+      role: board
+      from: 2025
+      note: FIFA Council member (representing ECA)
+    - person: gianni-infantino
+      role: leader
+      from: 2016
+      note: President
   fifth-dimension:
     name: Fifth Dimension
     type: company
@@ -2149,6 +2273,11 @@ organizations:
       from: 2009
       to: 2010
       note: Private Equity unit, Hong Kong
+    - person: gerry-cardinale
+      role: partner
+      from: 1992
+      to: 2012
+      note: Partner 2004, Merchant Banking Division
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -3112,6 +3241,27 @@ organizations:
       from: 1987
       to: 1994
       note: Executive Vice President, Wallenberg family holding
+  ioc:
+    name: IOC - International Olympic Committee
+    type: agency
+    founded: 1894
+    headquarters: Lausanne, Switzerland
+    status: active
+    sector: sports
+    stakeholders:
+    - person: gianni-infantino
+      role: member
+      from: 2020
+      note: IOC Member
+    - person: thomas-bach
+      role: leader
+      from: 2013
+      to: 2025
+      note: President (Honorary President for Life post-2025)
+    - person: kirsty-coventry
+      role: leader
+      from: 2025
+      note: President (first woman, first African)
   iri:
     name: IRI (Istituto Ricostruzione Industriale)
     type: company
@@ -3375,6 +3525,18 @@ organizations:
     - org: eli-lilly
       role: stake
       share: 0.107
+  liverpool-fc:
+    name: Liverpool FC
+    type: company
+    founded: 1892
+    headquarters: Liverpool, UK
+    status: active
+    sector: sports
+    stakeholders:
+    - org: fenway-sports-group
+      role: owner
+      from: 2010
+      note: Full ownership
   lockheed:
     name: Lockheed
     type: company
@@ -3387,6 +3549,23 @@ organizations:
       from: 1970
       to: 1976
       note: Scandalo tangenti $1M+
+  manchester-city:
+    name: Manchester City FC
+    type: company
+    founded: 1880
+    headquarters: Manchester, UK
+    status: active
+    sector: sports
+    stakeholders:
+    - person: khaldoon-al-mubarak
+      role: chairman
+      from: 2008
+      note: Chairman since acquisition
+    - org: city-football-group
+      role: owner
+      share: 99.93%
+      from: 2008
+      note: Flagship club
   mckinsey:
     name: McKinsey & Company
     type: company
@@ -4151,14 +4330,21 @@ organizations:
     name: Paris Saint-Germain
     type: company
     founded: 1970
-    headquarters: Parigi
+    headquarters: Paris, France
     status: active
+    sector: sports
     stakeholders:
     - person: nasser-al-khelaifi
       role: executive
       from: 2011
+      note: President & CEO
     - org: qia
       role: subsidiary
+    - org: qsi
+      role: owner
+      share: 87.5%
+      from: 2011
+      note: Majority owner since 2011
   qatar-airways:
     name: Qatar Airways
     type: company
@@ -4204,6 +4390,22 @@ organizations:
       role: board
     - org: qia
       role: subsidiary
+  qsi:
+    name: Qatar Sports Investments
+    type: swf
+    founded: 2004
+    headquarters: Doha, Qatar
+    status: active
+    sector: sports
+    stakeholders:
+    - person: nasser-al-khelaifi
+      role: chairman
+      from: 2011
+      note: Chairman QSI
+    - org: qia
+      role: parent
+      share: 100%
+      note: Subsidiary of Qatar Investment Authority
   rai:
     name: RAI
     type: media
@@ -4248,6 +4450,19 @@ organizations:
     headquarters: Tel Aviv, Israel
     status: active
     note: Israeli VC, Paragon investor
+  redbird-capital:
+    name: RedBird Capital Partners
+    type: privateequity
+    founded: 2014
+    headquarters: New York, USA
+    status: active
+    sector: private-equity
+    aum: $12B
+    stakeholders:
+    - person: gerry-cardinale
+      role: founder
+      from: 2014
+      note: Founder, Managing Partner, CIO
   redlattice:
     type: company
     headquarters: Virginia, USA
@@ -4451,9 +4666,15 @@ organizations:
     name: Silver Lake
     type: privateequity
     founded: 1999
-    headquarters: Menlo Park, California
+    headquarters: Menlo Park, USA
     status: active
     sector: private-equity
+    aum: $174B (2025)
+    stakeholders:
+    - person: egon-durban
+      role: executive
+      from: 1999
+      note: Co-CEO, Managing Partner, founding principal
   sitra:
     name: Finnish Innovation Fund Sitra
     type: foundation
@@ -4768,6 +4989,19 @@ organizations:
     - person: john-scarlett
       role: board
       from: 2011
+  tko-group:
+    name: TKO Group Holdings
+    type: company
+    founded: 2023
+    headquarters: Stamford, USA
+    status: active
+    sector: sports-entertainment
+    stakeholders:
+    - org: endeavor
+      role: owner
+      share: controlling
+      from: 2023
+      note: WWE + UFC merger
   toka:
     type: company
     founded: 2018
@@ -4927,6 +5161,22 @@ organizations:
       role: advisory-board
       from: 2016
       note: uber-files-scandal
+  uefa:
+    name: UEFA - Union of European Football Associations
+    type: agency
+    founded: 1954
+    headquarters: Nyon, Switzerland
+    status: active
+    sector: sports
+    stakeholders:
+    - person: nasser-al-khelaifi
+      role: board
+      note: UEFA Executive Committee member
+    - person: gianni-infantino
+      role: executive
+      from: 2009
+      to: 2016
+      note: Secretary General
   unit-8200:
     name: Unit 8200
     type: agency
@@ -5487,6 +5737,16 @@ organizations:
     - person: larry-ellison
       role: shareholder
       from: 2022
+  yes-network:
+    name: YES Network
+    type: media
+    headquarters: New York, USA
+    status: active
+    sector: sports-media
+    stakeholders:
+    - org: redbird-capital
+      role: investor
+      note: Yankees, Amazon partnership
   young-global-leaders:
     name: Young Global Leaders
     type: forum

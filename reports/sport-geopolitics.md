@@ -12,7 +12,7 @@ Questo report analizza la trasformazione dello sport globale in **arena geopolit
 | **SWF Qatar** | QSI/QIA | $500B+ | PSG, BeIN Media, SC Braga |
 | **SWF UAE** | ADUG (Mansour) | $30B+ personale | City Football Group (13 club) |
 | **PE** | CVC Capital | €225B AUM | F1 (exit), La Liga, Six Nations, Ligue 1 |
-| **PE** | Silver Lake | - | Endeavor (WWE/UFC), City Football Group, Fanatics |
+| **PE** | Silver Lake | $174B AUM | Endeavor (WWE/UFC), City Football Group, Fanatics |
 | **PE** | Apollo | $5B sports fund | Atletico Madrid, tennis (Miami/Madrid Open) |
 | **PE** | RedBird | $12B AUM | AC Milan, FSG partnership, Alpine F1 |
 | **PE** | Clearlake | - | Chelsea FC (61.5%) |
@@ -43,9 +43,9 @@ Questo report analizza la trasformazione dello sport globale in **arena geopolit
 └──┬──┘  └──┬──┘   └───┬──┘  └───┬──┘   └───┬──┘   └──┬──┘
    │        │          │         │          │         │
    ▼        ▼          ▼         ▼          ▼         ▼
-Newcastle  PSG       La Liga   Endeavor   WC 2034   Sponsor
-LIV Golf   BeIN      Six Nations WWE/UFC  Infantino  TOP
-Esports    Braga     Ligue 1    CFG       WC 2030    Bach
+Newcastle  PSG       La Liga   Endeavor   WC 2034   Coventry
+LIV Golf   BeIN      Six Nations WWE/UFC  Infantino  (2025)
+Esports    Braga     Ligue 1    CFG       WC 2030    TOP
 
                     CONVERGENZA
                          │
@@ -88,39 +88,45 @@ Esports    Braga     Ligue 1    CFG       WC 2030    Bach
 - Khashoggi murder (2018): temporanea ritirata sponsor da FII
 - 115 presunte violazioni regole Premier League (Newcastle - caso in corso)
 
-### 2. Qatar Sports Investments (QSI)
+### 2. [Qatar Sports Investments (QSI)](../docs/swf/qsi.md)
 
 | Asset | Tipo | Quota | Valore |
 |-------|------|-------|--------|
-| **PSG** | Club | 87.5% | €4.25B |
-| **BeIN Media Group** | Broadcasting | 100% | Multi-B |
+| **[PSG](../docs/company/psg.md)** | Club | 87.5% | €4.25B |
+| **[beIN Media Group](../docs/media/bein-media.md)** | Broadcasting | 100% | Multi-B |
 | **SC Braga** | Club | 22% | ~€19M |
 | **Premier Padel** | Lega | Ownership | - |
 
+**Struttura proprietaria PSG (2023)**:
+- QSI: 87.5%
+- **Arctos Partners**: 12.5% (minority, dicembre 2023)
+
 **Leadership**:
 - Emir: **Tamim bin Hamad Al Thani** (decisioni finali PSG)
-- Chairman QSI / CEO PSG: **Nasser Al-Khelaifi** (anche Chairman beIN, ECA)
+- Chairman QSI / CEO PSG: **[Nasser Al-Khelaifi](../docs/persons/nasser-al-khelaifi.md)** (anche Chairman [beIN](../docs/media/bein-media.md), [ECA](../docs/agency/eca.md), [FIFA](../docs/agency/fifa.md) Council dal 2025)
 
-**Connessione QIA**:
+**Connessione [QIA](../docs/swf/qia.md)**:
 QSI e' sussidiaria di Qatar Investment Authority ($500B+ AUM), il fondo sovrano del Qatar.
 
 **Risultati 2025**:
 - PSG vince Champions League 2025 (5-0 vs Inter)
 - 37 trofei in 14 anni di proprieta' QSI
+- 4 trofei stagione 2024-25 (Trophee, Ligue 1, Coupe, CL)
 
-**Convergenza con BeIN**:
-Al-Khelaifi controlla sia il club (PSG) che il broadcaster (beIN) - integrazione verticale content/distribution.
+**Convergenza con beIN**:
+Al-Khelaifi controlla sia il club (PSG) che il broadcaster (beIN) - **integrazione verticale content/distribution**.
+Primo club a trasmettere partita live in VR (USA).
 
-### 3. Abu Dhabi (Sheikh Mansour / ADUG)
+### 3. [Abu Dhabi (Sheikh Mansour / ADUG)](../docs/company/adug.md)
 
 | Asset | Tipo | Struttura |
 |-------|------|-----------|
-| **City Football Group** | Holding | 13 club worldwide |
-| **Manchester City** | Club flagship | Champions League 2023 |
-| **Girona FC** | Club | (in blind trust per UEFA) |
+| **[City Football Group](../docs/company/city-football-group.md)** | Holding | 13 club worldwide |
+| **[Manchester City](../docs/company/manchester-city.md)** | Club flagship | Champions League 2023 |
+| **Girona FC** | Club | (in blind trust per UEFA dal 2024) |
 | **NYCFC** | Club | Etihad Park 2027 |
 | **Melbourne City** | Club | Australia |
-| **Yokohama F. Marinos** | Club | Giappone |
+| **EC Bahia** | Club | Brasile (90%, 2024) |
 
 **Struttura proprietaria**:
 ```
@@ -133,22 +139,27 @@ Newton Investment & Development LLC
            │
            ▼ ~81%
    CITY FOOTBALL GROUP ◄──── Silver Lake (~18%)
-           │                        │
-           ▼                        ▼
-    13 club globali          Tech investment
+           │                 CMC (~1%)
+           ▼
+    13 club globali
 ```
 
-**Valutazione CFG**: $4.8B+ post-investimento Silver Lake
+**Valutazione CFG**: **$6B+** (2025)
 
-**115 Charges (2023)**:
-- Premier League ha deferito Manchester City per 115 presunte violazioni
-- Accusato di "disguised equity funding" via sponsor (Etisalat)
-- Caso non ancora concluso (mid-2025)
+**115 Charges - Status aggiornato**:
+- Premier League ha deferito Manchester City per 115 presunte violazioni (feb 2023)
+- Accusato di "disguised equity funding" via sponsor
+- **Hearing**: 12 settimane, settembre-dicembre 2024
+- **Verdetto**: Ancora atteso (ritardato, previsto 2025)
+- Man City nega ogni illecito: "irrefutable body of evidence"
 
-**Sheikh Mansour**:
+**[Sheikh Mansour](../docs/persons/mansour-bin-zayed.md)**:
 - Net worth: ~$30B
-- Fratello del Presidente UAE (Mohamed bin Zayed)
-- Mai visto a una partita del Manchester City
+- Fratello del Presidente UAE ([Mohamed bin Zayed](../docs/persons/mohammed-bin-zayed.md))
+- Chairman: Central Bank UAE, Emirates Investment Authority
+- **Mai visto a una partita del Manchester City**
+
+**[Khaldoon Al Mubarak](../docs/persons/khaldoon-al-mubarak.md)**: Chairman CFG/Man City, CEO [Mubadala](../docs/swf/mubadala.md) ($330B AUM)
 
 ---
 
@@ -202,22 +213,23 @@ Liberty Media (2016) ◄── $8B vendita
 
 **Pattern CVC**: Acquisire quota minority in leghe, monetizzare diritti TV, exit a media company.
 
-### Silver Lake
+### [Silver Lake](../docs/private-equity/silver-lake.md)
 
-**Tech PE che si espande nello sport.**
+**Tech PE che domina sport e entertainment. AUM: $174B (2025).**
 
 | Asset | Deal | Valore |
 |-------|------|--------|
-| **Endeavor (WWE/UFC)** | Acquisizione 2025 | $13-25B |
-| **City Football Group** | $500M (2019) + expansion | ~18% |
-| **Fanatics** | Stake | - |
+| **[Endeavor](../docs/company/endeavor.md) (WWE/UFC)** | Take-private 100% | **$25B TEV** |
+| **[City Football Group](../docs/company/city-football-group.md)** | $500M (2019) + expansion | ~18% |
+| **[Fanatics](../docs/company/fanatics.md)** | Stake | Sports commerce |
+| **[G42](../docs/company/g42.md)** | Stake | UAE AI |
 | **Madison Square Garden Sports** | Stake | Knicks, Rangers |
-| **New Zealand Rugby** | Stake | - |
 
-**Endeavor Acquisition (2025)**:
-- Chiusa marzo 2025
-- Largest PE public-to-private in media/entertainment history
-- Controlla: **WWE**, **UFC**, On Location, IMG, WME
+**Endeavor Acquisition (completata marzo 2025)**:
+- **Largest PE public-to-private in media/entertainment history**
+- Controlla: **WWE**, **UFC**, PBR, On Location, IMG, WME (ora "WME Group")
+- Co-investitori: [Mubadala](../docs/swf/mubadala.md), Michael Dell (DFO), Goldman Sachs AM, CPP Investments
+- Partner dal 2012: "Never sold a share, revenue grew twentyfold"
 
 ### Apollo Global Management
 
@@ -234,22 +246,22 @@ Liberty Media (2016) ◄── $8B vendita
 - Leadership esistente (Gil, Cerezo) rimane
 - Include: Atletico San Luis (Messico), Atletico Ottawa
 
-### RedBird Capital Partners
+### [RedBird Capital Partners](../docs/private-equity/redbird-capital.md)
 
-**Il "Moneyball" del calcio europeo.**
+**Il "Moneyball" del calcio europeo. AUM: $12B.**
 
-Fondatore: **Gerry Cardinale** (ex-Goldman Sachs)
+Fondatore: **[Gerry Cardinale](../docs/persons/gerry-cardinale.md)** (ex-[Goldman Sachs](../docs/bank/goldman-sachs.md) Partner, Rhodes Scholar)
 
 | Asset | Investimento | Status |
 |-------|--------------|--------|
-| **AC Milan** | €1.2B (2022) | Supercoppa 2025 |
-| **Fenway Sports Group** | Partnership | Liverpool, Red Sox |
+| **[AC Milan](../docs/company/ac-milan.md)** | €1.2B (2022) | Supercoppa 2025 |
+| **[Fenway Sports Group](../docs/company/fenway-sports-group.md)** | 11% ($750M) | [Liverpool](../docs/company/liverpool-fc.md), Red Sox |
 | **Alpine Racing F1** | Minority | Michael B. Jordan, Ryan Reynolds |
-| **YES Network** | Stake | Yankees, Amazon |
+| **[YES Network](../docs/media/yes-network.md)** | Stake | Yankees, Amazon |
 | **Rajasthan Royals** | Stake | IPL Cricket |
-| **UFL** | Merger XFL+USFL | 2024 |
-| **Paramount/Skydance** | $2B+ | Chiuso 2025 |
-| **The Telegraph/Spectator** | $640M+ | Con investitori UAE |
+| **UFL** | Merger XFL+USFL | Disney/ESPN, Fox, Dwayne Johnson |
+| **Paramount/Skydance** | $2B+ (22.5% voting) | Chiuso agosto 2025 |
+| **The Telegraph/Spectator** | £500M | Annuncio maggio 2025 |
 
 **Cardinale su valuations (2025)**:
 > "Pencils down on all major U.S. sports team acquisitions right now as valuations soar... There needs to be some normalization in what I see as a bit of an asset bubble."
@@ -285,10 +297,11 @@ Fondatore: **Gerry Cardinale** (ex-Goldman Sachs)
 
 ## Governance dello Sport Globale
 
-### FIFA
+### [FIFA](../docs/agency/fifa.md)
 
-**Presidente**: Gianni Infantino (dal 2016)
+**Presidente**: [Gianni Infantino](../docs/persons/gianni-infantino.md) (dal 2016, terzo mandato 2023)
 **Compenso Council members**: $250-300k/anno
+**Membri**: 211 federazioni
 
 #### World Cup Hosting Decisions
 
@@ -317,20 +330,27 @@ Fondatore: **Gerry Cardinale** (ex-Goldman Sachs)
 - Smantellamento riforme post-2015
 - Council ridotto a "rubber stamp"
 
-### IOC (Comitato Olimpico Internazionale)
+### [IOC](../docs/agency/ioc.md) (Comitato Olimpico Internazionale)
 
-**Presidente**: Thomas Bach (2013-2025, term limit)
-**Status 2025**: Bach in uscita, successore da eleggere
+**Presidente**: [Kirsty Coventry](../docs/persons/kirsty-coventry.md) (dal 23 giugno 2025)
+**Ex-Presidente**: [Thomas Bach](../docs/persons/thomas-bach.md) (2013-2025, ora Honorary President for Life)
 
-#### Controversie Bach
+**Transizione storica (2025)**:
+- Prima donna presidente IOC
+- Prima africana presidente IOC
+- Eletta 20 marzo 2025 (144th IOC Session, Pylos)
+- Handover ufficiale 23 giugno 2025 (Olympic Day)
+
+#### Controversie Era Bach (2013-2025)
 
 | Issue | Dettaglio |
 |-------|-----------|
-| **Russia doping** | Permesso partecipare senza bandiera/inno |
-| **Russia 2024** | Atleti russi ammessi a Parigi nonostante guerra |
-| **Peng Shuai** | Incontro IOC dopo sparizione, critiche da Global Athlete |
+| **Russia doping** | No ban totale, solo esclusione bandiera/inno |
+| **Russia 2024** | Atleti russi ammessi a Parigi come "neutrali" |
+| **Peng Shuai** | Video call criticata: "scandalous lack of curiosity" |
 | **WADA/USA** | Minaccia revocare Salt Lake 2034 se USA continua indagini |
-| **Disinformazione russa** | Gender controversy Parigi 2024 attribuita a Russia |
+| **Cina swimmers** | "Full confidence" in WADA nonostante doping positivi |
+| **Bach-Putin** | Relazioni personali strette con Cremlino |
 
 #### TOP Sponsors Program
 
@@ -582,41 +602,52 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 
 ---
 
-## Entita' da Aggiungere al Database
+## Entita' Aggiunte al Database
 
-### Organizzazioni
+### Organizzazioni (completate)
+
+| ID | Tipo | Scheda |
+|----|------|--------|
+| [fifa](../docs/agency/fifa.md) | Agency | ✅ |
+| [ioc](../docs/agency/ioc.md) | Agency | ✅ |
+| [uefa](../docs/agency/uefa.md) | Agency | stub |
+| [eca](../docs/agency/eca.md) | Agency | stub |
+| [silver-lake](../docs/private-equity/silver-lake.md) | PrivateEquity | ✅ |
+| [redbird-capital](../docs/private-equity/redbird-capital.md) | PrivateEquity | ✅ |
+| [city-football-group](../docs/company/city-football-group.md) | Company | stub |
+| [adug](../docs/company/adug.md) | Company | ✅ |
+| [qsi](../docs/swf/qsi.md) | SWF | ✅ |
+| [fenway-sports-group](../docs/company/fenway-sports-group.md) | Company | stub |
+| [endeavor](../docs/company/endeavor.md) | Company | stub |
+| [tko-group](../docs/company/tko-group.md) | Company | stub (WWE/UFC) |
+| [psg](../docs/company/psg.md) | Company | stub |
+| [ac-milan](../docs/company/ac-milan.md) | Company | stub |
+| [manchester-city](../docs/company/manchester-city.md) | Company | stub |
+| [liverpool-fc](../docs/company/liverpool-fc.md) | Company | stub |
+
+### Persone (completate)
+
+| ID | Ruolo | Scheda |
+|----|-------|--------|
+| [gianni-infantino](../docs/persons/gianni-infantino.md) | FIFA President | stub |
+| [thomas-bach](../docs/persons/thomas-bach.md) | IOC ex-President | stub |
+| [kirsty-coventry](../docs/persons/kirsty-coventry.md) | IOC President | stub |
+| [nasser-al-khelaifi](../docs/persons/nasser-al-khelaifi.md) | QSI/PSG/beIN/ECA | stub |
+| [gerry-cardinale](../docs/persons/gerry-cardinale.md) | RedBird founder | stub |
+| [egon-durban](../docs/persons/egon-durban.md) | Silver Lake Co-CEO | stub |
+
+### Da aggiungere
 
 | ID | Tipo | Priorita' |
 |----|------|-----------|
-| fifa | Agency | Alta |
-| ioc | Agency | Alta |
-| uefa | Agency | Media |
 | cvc-capital-partners | PrivateEquity | Alta |
-| silver-lake | PrivateEquity | Alta |
 | apollo-global-management | PrivateEquity | Alta |
-| redbird-capital | PrivateEquity | Alta |
 | clearlake-capital | PrivateEquity | Media |
-| city-football-group | Company | Alta |
-| qsi | SWF | Alta |
-| fenway-sports-group | Company | Media |
-| endeavor | Company | Media |
 | savvy-games-group | Company | Media |
 | newcastle-united | Company | Media |
-| psg | Company | Media |
 | liv-golf | Company | Media |
-
-### Persone
-
-| ID | Ruolo | Priorita' |
-|----|-------|-----------|
-| gianni-infantino | FIFA President | Alta |
-| thomas-bach | IOC President | Alta |
-| nasser-al-khelaifi | QSI/PSG/beIN | Alta |
-| sheikh-mansour | ADUG/CFG | Alta |
-| gerry-cardinale | RedBird founder | Media |
-| todd-boehly | Chelsea/Dodgers | Media |
-| marc-allera | CVC Global Sport Group | Bassa |
-| john-henry | FSG | Media |
+| todd-boehly | Person | Media |
+| john-henry | Person | Media |
 
 ---
 
@@ -649,3 +680,4 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 ---
 
 *Report creato: 8 Dicembre 2025*
+*Ultimo aggiornamento: 8 Dicembre 2025 (aggiunte schede database, aggiornamenti IOC/Silver Lake/115 charges)*
