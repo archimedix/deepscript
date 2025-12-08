@@ -79,14 +79,26 @@ Nasser Al-Khelaifi = Chairman QSI + Chairman beIN Media
 | **2023** | Arctos Partners entra (12.5%) |
 | **2025** | Champions League victory |
 
-### Premier Padel
+### [Premier Padel](../sports-club/premier-padel.md)
 
 | Metrica | Valore |
 |---------|--------|
 | **Lancio** | 2022 |
-| **Partner** | International Padel Federation |
-| **Acquisizione WPT** | 2023 (World Padel Tour) |
-| **Status** | Unico tour globale ufficiale |
+| **Quota** | 100% |
+| **Partner** | [FIP](../agency/fip.md) (governance) |
+| **Acquisizione WPT** | Agosto 2023 |
+| **Status** | Unico tour professionistico mondiale |
+| **Sponsor** | Qatar Airways |
+
+**Timeline Padel:**
+
+| Anno | Evento |
+|------|--------|
+| **2022** | QSI co-fonda Premier Padel con FIP |
+| **2023** | Acquisizione World Padel Tour da Damm |
+| **2024** | Tour unificato sotto brand "Premier Padel" |
+
+**Monopolio**: QSI ha replicato nel padel lo stesso pattern PSG - controllo totale di uno sport emergente ($2B → $4B mercato previsto 2026, 25M giocatori globali).
 
 ### SC Braga (Portogallo)
 

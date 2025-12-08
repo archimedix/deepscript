@@ -117,6 +117,26 @@ QSI e' sussidiaria di Qatar Investment Authority ($500B+ AUM), il fondo sovrano 
 Al-Khelaifi controlla sia il club (PSG) che il broadcaster (beIN) - **integrazione verticale content/distribution**.
 Primo club a trasmettere partita live in VR (USA).
 
+### Guerra dei Diritti: beoutQ (2017-2021)
+
+Durante la crisi diplomatica Qatar-Saudi (2017-2021), i diritti sportivi sono diventati arma geopolitica:
+
+| Anno | Evento |
+|------|--------|
+| **2017** | Saudi, UAE, Bahrain, Egypt bloccano Qatar |
+| **2017** | beIN bannato in Saudi Arabia |
+| **2017** | Appare **beoutQ** - network pirata saudita |
+| **2018** | beIN lancia arbitrato $1B vs Saudi Arabia |
+| **2020** | WTO conferma pirateria di stato saudita |
+| **2021** | Al-Ula agreement risolve crisi |
+| **2021** | beIN ritorna in Saudi Arabia |
+
+**Danni stimati**: >$1B di perdite per beIN
+
+**Implicazione**: I diritti sportivi sono diventati terreno di guerra economica tra petrostati rivali. La pirateria di stato (beoutQ) ha dimostrato che il soft power sportivo puo' essere weaponized.
+
+---
+
 ### 3. [Abu Dhabi (Sheikh Mansour / ADUG)](../docs/company/adug.md)
 
 | Asset | Tipo | Struttura |
@@ -477,6 +497,90 @@ La Bundesliga mantiene la regola 50+1: i membri del club devono detenere almeno 
 
 ---
 
+## Padel - Il Nuovo Sport Globale
+
+### Overview
+
+| Metrica | Valore |
+|---------|--------|
+| **Mercato globale** | $2B → $4B previsti 2026 |
+| **Giocatori** | 25 milioni in 110 paesi |
+| **Campi USA** | 227 (2023) → 650+ (2025) |
+| **Campi UK** | 50 (2019) → 710 (2024) |
+
+Il padel è lo sport in più rapida crescita al mondo, e **QSI ha consolidato il controllo dell'intero circuito professionistico**.
+
+### QSI Monopolio Globale
+
+| Evento | Data | Dettaglio |
+|--------|------|-----------|
+| **Fondazione Premier Padel** | 2022 | QSI + FIP + PPA |
+| **Acquisizione World Padel Tour** | Agosto 2023 | Da Damm (birra spagnola) |
+| **Tour unificato** | 2024 | Tutto sotto "Premier Padel" |
+
+**Struttura proprietaria**:
+```
+QATAR (Stato)
+       │
+       ▼
+QSI (Qatar Sports Investments)
+       │
+       ├──► PSG (87.5%) ─────────┐
+       │                         │
+       ├──► Premier Padel (100%) │
+       │         │               │
+       │         └──► FIP        │  CONTENT
+       │              Qatar Airways
+       │                         │
+       └──► beIN Media ──────────┘
+                │
+                ├──► 55M subscribers
+                ├──► 40+ paesi        DISTRIBUTION
+                ├──► Miramax (51%)
+                └──► Digiturk (100%)
+```
+
+**Pattern completo**: QSI controlla content (PSG, Padel) + distribution ([beIN](../docs/media/bein-media.md)) = integrazione verticale totale.
+
+### Private Equity nel Padel
+
+| Investitore | Target | Note |
+|-------------|--------|------|
+| **MCH PE** (Spain Oman Fund) | All For Padel (Adidas) | Equipment |
+| **ATITLAN** (famiglia Mercadona) | PadelGalis | Costruttore campi |
+| **Sunrise Padel Capital** | 9 club USA | Fondo $50M |
+| **EEP Capital** | Padel Haus NYC, L.A. Beat | VC specializzato |
+| **Allegro Capital** + altri | The Padel Club UK | UK expansion |
+
+### Celebrity Investors
+
+| Persona | Investimento |
+|---------|--------------|
+| **Cristiano Ronaldo** | Cidade do Padel (Lisbona) |
+| **Zlatan Ibrahimović** | Padel Zenter (Svezia) |
+| **Derek Jeter** | Investitore padel USA |
+| **Daddy Yankee** | Orlando Flowrida Goats (PPL) |
+| **Gavin Maloof** (Golden Knights) | Las Vegas Smash (PPL) |
+| **Tommy Haas** (ex-ATP #2) | San Diego Stingrays (PPL) |
+
+### Pro Padel League (PPL) - USA
+
+| Anno | Franchise | Note |
+|------|-----------|------|
+| 2023 | 7 | Lancio |
+| 2024 | 10 | Espansione |
+
+La PPL sta replicando il modello delle leghe americane (franchise, celebrity owners) per il mercato USA.
+
+### Implicazioni Geopolitiche
+
+1. **Monopolio QSI**: Stesso pattern PSG - controllo totale di uno sport emergente
+2. **Pipeline Golfo**: Qatar posizionato per dominare nuovo sport globale
+3. **Infrastrutture**: PE investe in campi/club mentre QSI controlla tour
+4. **Celebrity laundering**: Atleti famosi come investitori legittimano lo sport
+
+---
+
 ## Pattern Identificati
 
 ### 1. Sportswashing Statale
@@ -520,9 +624,40 @@ World Cup, F1, Tennis, Golf, Esports
 
 | Gruppo | Club | Broadcasting |
 |--------|------|--------------|
-| QSI | PSG | beIN Media |
+| QSI | PSG, Premier Padel | [beIN Media](../docs/media/bein-media.md) |
 | FSG | Liverpool, Red Sox | NESN (80%) |
 | Endeavor/Silver Lake | - | UFC, WWE rights |
+
+#### Deep Dive: beIN Media Group
+
+Il caso piu' estremo di integrazione verticale nello sport:
+
+| Metrica | Valore |
+|---------|--------|
+| **Chairman** | [Nasser Al-Khelaifi](../docs/persons/nasser-al-khelaifi.md) (stesso di PSG/QSI) |
+| **Subscribers** | 55M+ worldwide |
+| **Copertura** | 40+ paesi, 9 lingue |
+| **Rights portfolio** | "Largest of any global broadcaster" |
+| **Premier League MENA** | £550M (3 anni, fino 2028) |
+| **Subsidiaries** | Miramax (51%), Digiturk (100%) |
+
+**Struttura integrata**:
+```
+AL-KHELAIFI (singolo chairman)
+         │
+    ┌────┴────┐
+    │         │
+    ▼         ▼
+ CONTENT   DISTRIBUTION
+    │         │
+    ▼         ▼
+  PSG      beIN Sports
+  Padel    Miramax
+           Digiturk
+           TOD (OTT)
+```
+
+**Implicazione**: Qatar puo' produrre contenuto sportivo (PSG, Padel) e monetizzarlo direttamente (beIN), bypassando intermediari. Soft power + profitto in un unico loop.
 
 ### 4. Revolving Door Sport-Politics
 
@@ -628,6 +763,11 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 | [ac-milan](../docs/sports-club/ac-milan.md) | SportsClub | ✅ |
 | [manchester-city](../docs/sports-club/manchester-city.md) | SportsClub | stub |
 | [liverpool-fc](../docs/sports-club/liverpool-fc.md) | SportsClub | stub |
+| [premier-padel](../docs/sports-club/premier-padel.md) | SportsClub | stub |
+| [fip](../docs/agency/fip.md) | Agency | stub |
+| [bein-media](../docs/media/bein-media.md) | Media | ✅ |
+| [miramax](../docs/media/miramax.md) | Media | stub |
+| [digiturk](../docs/media/digiturk.md) | Media | stub |
 
 ### Persone (completate)
 
@@ -682,10 +822,23 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 - [Fortune - Gerry Cardinale](https://fortune.com/2024/03/30/gerry-cardinale-profile-interview-ac-milan-redbird-capital-new-stadium/)
 - [Bloomberg - Apollo Atletico](https://www.bloomberg.com/news/articles/2025-11-10/apollo-joins-rivals-buying-sports-teams-in-atletico-madrid-deal)
 
+### Padel
+- [QSI - World Padel Tour Acquisition](https://www.qsi.com.qa/qsi-reaches-agreement-to-acquire-world-padel-tour/)
+- [Sportico - QSI Acquires WPT](https://www.sportico.com/leagues/other-sports/2023/qatar-sports-investments-buys-world-padel-tour-1234735097/)
+- [PitchBook - PE Targets Niche Sports](https://pitchbook.com/news/articles/from-padel-to-volleyball-pe-targets-increasingly-niche-sports)
+- [Padel Tonic - Secret Investors](https://padel.tennistonic.com/padel-news/10606/the-secret-investors-behind-padels-boom/)
+
 ---
 
 *Report creato: 8 Dicembre 2025*
 *Ultimo aggiornamento: 8 Dicembre 2025*
+- Aggiunta scheda completa beIN Media Group con dettagli integrazione verticale
+- Aggiunta sezione "Guerra dei Diritti: beoutQ" sulla pirateria di stato saudita
+- Espansa sezione "Convergenza Ownership-Broadcasting" con deep dive beIN
+- Aggiornato diagramma QSI con struttura content/distribution completa
+- Aggiunta sezione "Padel - Il Nuovo Sport Globale" con analisi monopolio QSI
+- Aggiunte entita: Premier Padel, FIP, beIN Media, Miramax, Digiturk
+- Aggiornata scheda QSI con dettagli padel
 - Aggiunte schede complete: AC Milan, PSG (nuova categoria `SportsClub`)
 - Aggiunti: Paolo Scaroni, Elliott Management, Arctos Partners, Yankee Global
 - Aggiornato revolving door con Scaroni (ENI → Rothschild → AC Milan → Enel)

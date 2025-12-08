@@ -2077,6 +2077,13 @@ organizations:
     - org: governo-saudi
       role: sponsor
       note: Davos del Deserto, forum annuale Riyadh
+  fip:
+    name: International Padel Federation
+    type: agency
+    founded: 1991
+    headquarters: Lausanne
+    status: active
+    sector: sports-federation
   first-abu-dhabi-bank:
     name: First Abu Dhabi Bank
     type: bank
@@ -4358,6 +4365,21 @@ organizations:
     - org: porsche-ag
       role: stake
       share: 0.25
+  premier-padel:
+    name: Premier Padel
+    type: sportsclub
+    founded: 2022
+    headquarters: Doha
+    status: active
+    sector: padel-tour
+    stakeholders:
+    - org: qsi
+      role: owner
+      share: 100%
+      from: 2022
+    - org: fip
+      role: governance
+      from: 2022
   psg:
     name: Paris Saint-Germain
     type: sportsclub
