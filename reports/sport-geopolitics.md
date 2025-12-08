@@ -92,7 +92,7 @@ Esports    Braga     Ligue 1    CFG       WC 2030    TOP
 
 | Asset | Tipo | Quota | Valore |
 |-------|------|-------|--------|
-| **[PSG](../docs/company/psg.md)** | Club | 87.5% | €4.25B |
+| **[PSG](../docs/sports-club/psg.md)** | Club | 87.5% | €4.25B |
 | **[beIN Media Group](../docs/media/bein-media.md)** | Broadcasting | 100% | Multi-B |
 | **SC Braga** | Club | 22% | ~€19M |
 | **Premier Padel** | Lega | Ownership | - |
@@ -122,7 +122,7 @@ Primo club a trasmettere partita live in VR (USA).
 | Asset | Tipo | Struttura |
 |-------|------|-----------|
 | **[City Football Group](../docs/company/city-football-group.md)** | Holding | 13 club worldwide |
-| **[Manchester City](../docs/company/manchester-city.md)** | Club flagship | Champions League 2023 |
+| **[Manchester City](../docs/sports-club/manchester-city.md)** | Club flagship | Champions League 2023 |
 | **Girona FC** | Club | (in blind trust per UEFA dal 2024) |
 | **NYCFC** | Club | Etihad Park 2027 |
 | **Melbourne City** | Club | Australia |
@@ -254,8 +254,8 @@ Fondatore: **[Gerry Cardinale](../docs/persons/gerry-cardinale.md)** (ex-[Goldma
 
 | Asset | Investimento | Status |
 |-------|--------------|--------|
-| **[AC Milan](../docs/company/ac-milan.md)** | €1.2B (2022) | Supercoppa 2025 |
-| **[Fenway Sports Group](../docs/company/fenway-sports-group.md)** | 11% ($750M) | [Liverpool](../docs/company/liverpool-fc.md), Red Sox |
+| **[AC Milan](../docs/sports-club/ac-milan.md)** | €1.2B (2022) | Supercoppa 2025 |
+| **[Fenway Sports Group](../docs/company/fenway-sports-group.md)** | 11% ($750M) | [Liverpool](../docs/sports-club/liverpool-fc.md), Red Sox |
 | **Alpine Racing F1** | Minority | Michael B. Jordan, Ryan Reynolds |
 | **[YES Network](../docs/media/yes-network.md)** | Stake | Yankees, Amazon |
 | **Rajasthan Royals** | Stake | IPL Cricket |
@@ -287,10 +287,10 @@ Fondatore: **[Gerry Cardinale](../docs/persons/gerry-cardinale.md)** (ex-[Goldma
 
 | PE Firm | Asset | Note |
 |---------|-------|------|
-| **Elliott Management** | Ex-AC Milan (2018-2022) | Venduto a RedBird |
+| **[Elliott Management](../docs/private-equity/elliott-management.md)** | Ex-AC Milan (2018-2022) | Venduto a RedBird, mantiene minority + board |
 | **Oaktree Capital** | Inter Milan | Default Suning 2024 |
 | **The Friedkin Group** | AS Roma | Real estate/entertainment |
-| **Arctos Partners** | PSG (12.5%), vari | Multi-sport |
+| **[Arctos Partners](../docs/private-equity/arctos-partners.md)** | PSG (12.5%), vari | Multi-sport |
 | **Bain (Pagliuca)** | Boston Celtics, Atalanta | Stephen Pagliuca |
 
 ---
@@ -413,7 +413,7 @@ Fondatore: **[Gerry Cardinale](../docs/persons/gerry-cardinale.md)** (ex-[Goldma
 | Club | Proprietario | Tipo | Note |
 |------|--------------|------|------|
 | **Inter Milan** | Oaktree Capital | PE | Default Suning 2024 |
-| **AC Milan** | RedBird (Cardinale) | PE | Ex-Elliott |
+| **[AC Milan](../docs/sports-club/ac-milan.md)** | RedBird (Cardinale) | PE | Ex-Elliott (2018-22), Chairman: [Scaroni](../docs/persons/paolo-scaroni.md) |
 | **AS Roma** | The Friedkin Group | PE | Dan Friedkin |
 | Fiorentina | Rocco Commisso | Private | USA |
 | Atalanta | Pagliuca/Bain | PE | Stephen Pagliuca |
@@ -526,12 +526,13 @@ World Cup, F1, Tennis, Golf, Esports
 
 ### 4. Revolving Door Sport-Politics
 
-| Persona | Governo | Sport |
-|---------|---------|-------|
+| Persona | Governo/Corporate | Sport |
+|---------|-------------------|-------|
 | Infantino | - | FIFA President, residenza Qatar |
 | Yasir Al-Rumayyan | PIF CEO | Chair Newcastle, Aramco, ex-SoftBank |
 | Sheikh Mansour | VP UAE | Owner CFG |
-| Al-Khelaifi | - | PSG, beIN, ECA (European Club Association) |
+| Al-Khelaifi | - | PSG, beIN, ECA, FIFA Council |
+| **[Paolo Scaroni](../docs/persons/paolo-scaroni.md)** | ex-CEO ENI, ex-Rothschild | Chairman AC Milan, Chairman Enel |
 
 ### 5. Americanizzazione del Calcio Europeo
 
@@ -614,16 +615,19 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 | [eca](../docs/agency/eca.md) | Agency | stub |
 | [silver-lake](../docs/private-equity/silver-lake.md) | PrivateEquity | ✅ |
 | [redbird-capital](../docs/private-equity/redbird-capital.md) | PrivateEquity | ✅ |
+| [elliott-management](../docs/private-equity/elliott-management.md) | PrivateEquity | stub |
+| [arctos-partners](../docs/private-equity/arctos-partners.md) | PrivateEquity | stub |
 | [city-football-group](../docs/company/city-football-group.md) | Company | stub |
 | [adug](../docs/company/adug.md) | Company | ✅ |
 | [qsi](../docs/swf/qsi.md) | SWF | ✅ |
 | [fenway-sports-group](../docs/company/fenway-sports-group.md) | Company | stub |
 | [endeavor](../docs/company/endeavor.md) | Company | stub |
 | [tko-group](../docs/company/tko-group.md) | Company | stub (WWE/UFC) |
-| [psg](../docs/company/psg.md) | Company | stub |
-| [ac-milan](../docs/company/ac-milan.md) | Company | stub |
-| [manchester-city](../docs/company/manchester-city.md) | Company | stub |
-| [liverpool-fc](../docs/company/liverpool-fc.md) | Company | stub |
+| [yankee-global](../docs/company/yankee-global.md) | Company | stub |
+| [psg](../docs/sports-club/psg.md) | SportsClub | ✅ |
+| [ac-milan](../docs/sports-club/ac-milan.md) | SportsClub | ✅ |
+| [manchester-city](../docs/sports-club/manchester-city.md) | SportsClub | stub |
+| [liverpool-fc](../docs/sports-club/liverpool-fc.md) | SportsClub | stub |
 
 ### Persone (completate)
 
@@ -632,9 +636,10 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 | [gianni-infantino](../docs/persons/gianni-infantino.md) | FIFA President | stub |
 | [thomas-bach](../docs/persons/thomas-bach.md) | IOC ex-President | stub |
 | [kirsty-coventry](../docs/persons/kirsty-coventry.md) | IOC President | stub |
-| [nasser-al-khelaifi](../docs/persons/nasser-al-khelaifi.md) | QSI/PSG/beIN/ECA | stub |
+| [nasser-al-khelaifi](../docs/persons/nasser-al-khelaifi.md) | QSI/PSG/beIN/ECA/FIFA | stub |
 | [gerry-cardinale](../docs/persons/gerry-cardinale.md) | RedBird founder | stub |
 | [egon-durban](../docs/persons/egon-durban.md) | Silver Lake Co-CEO | stub |
+| [paolo-scaroni](../docs/persons/paolo-scaroni.md) | Chairman AC Milan, ex-CEO ENI | stub |
 
 ### Da aggiungere
 
@@ -680,4 +685,7 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 ---
 
 *Report creato: 8 Dicembre 2025*
-*Ultimo aggiornamento: 8 Dicembre 2025 (aggiunte schede database, aggiornamenti IOC/Silver Lake/115 charges)*
+*Ultimo aggiornamento: 8 Dicembre 2025*
+- Aggiunte schede complete: AC Milan, PSG (nuova categoria `SportsClub`)
+- Aggiunti: Paolo Scaroni, Elliott Management, Arctos Partners, Yankee Global
+- Aggiornato revolving door con Scaroni (ENI → Rothschild → AC Milan → Enel)

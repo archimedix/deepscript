@@ -58,6 +58,7 @@ deepscript/
 │   ├── think-tank/        # Think tank
 │   ├── company/           # Aziende
 │   ├── agency/            # Agenzie internazionali
+│   ├── sports-club/       # Club sportivi
 │   ├── family/            # Dinastie
 │   ├── events/            # Eventi storici
 │   └── media/             # Media
@@ -89,6 +90,7 @@ docs/{cartella}/{id}.md
 | Organization:ThinkTank | `docs/think-tank/` |
 | Organization:Company | `docs/company/` |
 | Organization:Agency | `docs/agency/` |
+| Organization:SportsClub | `docs/sports-club/` |
 | Organization:Media | `docs/media/` |
 
 ---
@@ -186,8 +188,9 @@ RETURN path
 | Government | governo-usa, governo-italia |
 | Foundation | Gates Foundation, Open Society |
 | ThinkTank | CFR, Rand, Aspen |
-| Company | Apple, Tesla |
-| Agency | FMI, ONU, NATO |
+| Company | Apple, Tesla, CFG, FSG |
+| Agency | FMI, ONU, NATO, FIFA, IOC |
+| SportsClub | PSG, Manchester City, AC Milan |
 | Media | Washington Post, Economist |
 
 ### Relationships
@@ -256,4 +259,4 @@ NON modificarli. Usa Neo4j per i dati correnti.
 
 ---
 
-*Ultimo aggiornamento: 7 Dicembre 2025*
+*Ultimo aggiornamento: 8 Dicembre 2025*

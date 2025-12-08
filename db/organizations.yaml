@@ -14,21 +14,34 @@ organizations:
       role: major-shareholder
   ac-milan:
     name: AC Milan
-    type: company
+    type: sportsclub
     founded: 1899
     headquarters: Milan, Italy
     status: active
-    sector: sports
+    sector: football
+    note: 19 Scudetti, 7 Champions League
     stakeholders:
     - person: gerry-cardinale
       role: board
       from: 2022
       note: Owner, Board member
+    - person: paolo-scaroni
+      role: chairman
+      from: 2018
     - org: redbird-capital
       role: owner
       share: 100%
       from: 2022
       note: €1.2B acquisition from Elliott
+    - org: elliott-management
+      role: owner
+      share: 100%
+      from: 2018
+      to: 2022
+    - org: yankee-global
+      role: investor
+      from: 2022
+      note: minority stake via RedBird partnership
   adl:
     name: Anti-Defamation League
     type: thinktank
@@ -303,6 +316,12 @@ organizations:
       share: 0.038
     - org: berkshire-hathaway
       role: stake
+  arctos-partners:
+    name: Arctos Partners
+    type: privateequity
+    headquarters: Dallas, Texas
+    status: active
+    note: Sports-focused PE, minority stakes in pro teams
   arel:
     type: thinktank
     headquarters: Italy
@@ -1728,6 +1747,14 @@ organizations:
     - org: lilly-endowment
       role: stake
       share: 0.107
+  elliott-management:
+    name: Elliott Investment Management
+    type: privateequity
+    founded: 1977
+    headquarters: West Palm Beach, Florida
+    status: active
+    aum: $70B
+    note: Activist hedge fund, Paul Singer founder
   endeavor:
     name: Endeavor Group Holdings
     type: company
@@ -1756,6 +1783,11 @@ organizations:
       role: executive
       from: 1992
       to: 1998
+    - person: paolo-scaroni
+      role: executive
+      from: 2005
+      to: 2014
+      note: CEO
   eqt:
     name: EQT AB
     type: privateequity
@@ -3527,7 +3559,7 @@ organizations:
       share: 0.107
   liverpool-fc:
     name: Liverpool FC
-    type: company
+    type: sportsclub
     founded: 1892
     headquarters: Liverpool, UK
     status: active
@@ -3551,7 +3583,7 @@ organizations:
       note: Scandalo tangenti $1M+
   manchester-city:
     name: Manchester City FC
-    type: company
+    type: sportsclub
     founded: 1880
     headquarters: Manchester, UK
     status: active
@@ -4328,16 +4360,17 @@ organizations:
       share: 0.25
   psg:
     name: Paris Saint-Germain
-    type: company
+    type: sportsclub
     founded: 1970
     headquarters: Paris, France
     status: active
-    sector: sports
+    sector: football
+    note: 13 Ligue 1, 1 Champions League (2025), 55 trofei totali
     stakeholders:
     - person: nasser-al-khelaifi
       role: executive
       from: 2011
-      note: President & CEO
+      note: President
     - org: qia
       role: subsidiary
     - org: qsi
@@ -4345,6 +4378,10 @@ organizations:
       share: 87.5%
       from: 2011
       note: Majority owner since 2011
+    - org: arctos-partners
+      role: investor
+      share: 12.5%
+      from: 2023
   qatar-airways:
     name: Qatar Airways
     type: company
@@ -5737,6 +5774,12 @@ organizations:
     - person: larry-ellison
       role: shareholder
       from: 2022
+  yankee-global:
+    name: Yankee Global Enterprises
+    type: company
+    headquarters: New York, USA
+    status: active
+    note: Owner of New York Yankees, Steinbrenner family
   yes-network:
     name: YES Network
     type: media

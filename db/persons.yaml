@@ -3334,7 +3334,7 @@ persons:
     - org: psg
       role: executive
       from: 2011
-      note: President & CEO
+      note: President
     - org: fifa
       role: board
       from: 2025
@@ -3487,6 +3487,19 @@ persons:
     - org: nso-group
       role: founder
       from: 2010
+  paolo-scaroni:
+    born: 1946
+    nationality: ITA
+    note: Chairman AC Milan, ex-CEO ENI/Enel, ex-Deputy Chairman Rothschild
+    affiliations:
+    - org: eni
+      role: executive
+      from: 2005
+      to: 2014
+      note: CEO
+    - org: ac-milan
+      role: chairman
+      from: 2018
   patrick-vallance:
     born: 1960
     nationality: GBR
