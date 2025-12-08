@@ -24,6 +24,56 @@ families:
       generation: 4
     - person: lapo-elkann
       generation: 4
+  azcarraga:
+    origin: Mexico
+    sector: media
+    generations: 3
+    status: active
+    note: Three generations controlling Mexican TV. Founded by Emilio Azcarraga Vidaurreta
+    members:
+    - person: emilio-azcarraga-jean
+      generation: 3
+  berlusconi:
+    origin: Italia
+    founder: Silvio Berlusconi
+    sector: media, politica, calcio
+    status: active
+    members:
+    - person: silvio-berlusconi
+      generation: 1
+      role: founder
+    - person: marina-berlusconi
+      generation: 2
+      role: heir
+    - person: pier-silvio-berlusconi
+      generation: 2
+      role: heir
+  bollore:
+    origin: Brittany, France
+    founder: vincent-bollore
+    sector: media, logistics
+    generations: 3
+    status: active
+    note: Conservative Catholic dynasty. Founded 1822. France Murdoch
+    members:
+    - person: vincent-bollore
+      generation: 4
+      role: patriarch
+    - person: cyrille-bollore
+      generation: 5
+      role: heir
+    - person: yannick-bollore
+      generation: 5
+      role: heir
+  bouygues:
+    origin: Francia
+    founder: Francis Bouygues
+    sector: construction, media, telecom
+    status: active
+    members:
+    - person: martin-bouygues
+      generation: 2
+      role: chairman
   bronfman:
     origin: Canada
     founder: Samuel Bronfman
@@ -81,6 +131,14 @@ families:
     - person: pete-dupont
       generation: 6
       role: governor-delaware
+  ellison:
+    origin: USA
+    sector: tech, media
+    status: active
+    members:
+    - person: larry-ellison
+      generation: 1
+      role: founder
   jiang-zemin:
     origin: China
     founder: jiang-zemin
@@ -104,6 +162,42 @@ families:
     status: active
     members:
     - person: ronald-lauder
+  lee-samsung:
+    origin: South Korea
+    sector: conglomerate
+    status: active
+    note: Founded Samsung. Control via cross-ownership (4.4% ownership, 31% voting)
+    members:
+    - person: lee-jae-yong
+      generation: 3
+  marinho:
+    origin: Brazil
+    sector: media
+    status: active
+    note: 'Founded Globo 1925. Three brothers control: Joao, Roberto Irineu, Jose Roberto'
+    members:
+    - person: roberto-marinho
+      generation: 1
+      role: patriarch
+    - person: joao-roberto-marinho
+      generation: 2
+  mohn:
+    origin: Gutersloh, Germany
+    founder: carl-bertelsmann
+    sector: media, publishing
+    generations: 7
+    status: active
+    note: Founded 1835. Controls Bertelsmann via foundations + direct ownership
+    members:
+    - person: reinhard-mohn
+      generation: 5
+      role: patriarch
+    - person: liz-mohn
+      generation: 5
+      role: matriarch
+    - person: thomas-coesfeld
+      generation: 7
+      role: heir
   morgan:
     origin: USA
     founder: Junius Spencer Morgan
@@ -145,6 +239,16 @@ families:
       role: heir-designated
     - person: james-murdoch
       generation: 3
+  ochs-sulzberger:
+    origin: USA
+    founder: Adolph Ochs
+    sector: media
+    generations: 5
+    status: active
+    members:
+    - person: ag-sulzberger
+      generation: 5
+      role: publisher
   porsche-piech:
     origin: Austria/Germania
     founder: Ferdinand Porsche
@@ -163,6 +267,14 @@ families:
     members:
     - person: penny-pritzker
       generation: 3
+  roberts:
+    origin: USA
+    sector: media, telecom
+    status: active
+    members:
+    - person: brian-roberts
+      generation: 2
+      role: heir
   rockefeller:
     origin: USA
     founder: John D. Rockefeller Sr.
@@ -191,6 +303,16 @@ families:
       role: senator
     - person: david-rockefeller-jr
       generation: 4
+  rothermere:
+    origin: UK
+    founder: Harold Harmsworth
+    sector: media
+    generations: 4
+    status: active
+    members:
+    - person: jonathan-rothermere
+      generation: 4
+      role: chairman
   rothschild:
     origin: Germania
     founder: Mayer Amschel Rothschild

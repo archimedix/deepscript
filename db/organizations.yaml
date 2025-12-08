@@ -12,6 +12,27 @@ organizations:
       note: Vice Chairman
     - org: investor-ab
       role: major-shareholder
+  abc:
+    name: ABC
+    type: media
+    founded: 1943
+    headquarters: New York, USA
+    status: active
+    sector: tv network
+    stakeholders:
+    - org: walt-disney
+      share: 100%
+  abc-news:
+    name: ABC News
+    type: media
+    founded: 1945
+    headquarters: New York, USA
+    status: active
+    sector: news
+    stakeholders:
+    - org: walt-disney
+      share: 100%
+      from: 1996
   ac-milan:
     name: AC Milan
     type: sportsclub
@@ -42,6 +63,17 @@ organizations:
       role: investor
       from: 2022
       note: minority stake via RedBird partnership
+  adani-group:
+    name: Adani Group
+    type: company
+    founded: 1988
+    headquarters: Ahmedabad, India
+    status: active
+    sector: conglomerate
+    note: Ports, energy, mining. Close to Modi government
+    stakeholders:
+    - person: gautam-adani
+      role: chairman
   adl:
     name: Anti-Defamation League
     type: thinktank
@@ -125,6 +157,18 @@ organizations:
       role: executive
       from: 2005
       to: 2020
+  al-jazeera:
+    name: Al Jazeera Media Network
+    type: media
+    founded: 1996
+    headquarters: Doha, Qatar
+    status: active
+    sector: news, TV
+    note: State-funded Qatar. Founded by Emir. Registered as foreign agent in US 2020
+    stakeholders:
+    - org: governo-qatar
+      share: ~90%
+      note: State-funded, board appointed by Emir
   allen-company:
     name: Allen & Company
     type: bank
@@ -163,8 +207,10 @@ organizations:
   amazon:
     name: Amazon
     type: company
-    headquarters: Seattle
+    founded: 1994
+    headquarters: Seattle, USA
     status: active
+    sector: tech, e-commerce
     stakeholders:
     - person: jeff-bezos
       role: founder
@@ -192,6 +238,16 @@ organizations:
     - org: state-street
       role: stake
       share: 0.034
+  amazon-prime-video:
+    name: Amazon Prime Video
+    type: media
+    founded: 2006
+    headquarters: Seattle, USA
+    status: active
+    sector: streaming
+    stakeholders:
+    - org: amazon
+      share: 100%
   ambasciata-usa-austria:
     name: Ambasciata USA Austria
     type: government
@@ -202,6 +258,16 @@ organizations:
       role: diplomat
       from: 1986
       to: 1987
+  amber-capital:
+    name: Amber Capital
+    type: privateequity
+    founded: 2005
+    headquarters: London, UK
+    status: active
+    sector: hedge fund
+    stakeholders:
+    - person: joseph-oughourlian
+      role: founder
   american-express:
     name: American Express
     type: company
@@ -222,6 +288,16 @@ organizations:
     - person: stephen-wise
       role: founder
       from: 1918
+  amg-media:
+    name: AMG Media Networks
+    type: media
+    founded: 2022
+    headquarters: Mumbai, India
+    status: active
+    sector: TV, digital
+    stakeholders:
+    - org: adani-group
+      share: 100%
   anobit:
     type: company
     founded: 2006
@@ -420,6 +496,28 @@ organizations:
       to: 2007
     - org: volkswagen
       role: subsidiary
+  axel-springer:
+    name: Axel Springer SE
+    type: media
+    founded: 1946
+    headquarters: Berlin, Germany
+    status: active
+    note: 'Largest media group in Germany/Europe. Assets: BILD, POLITICO, Business Insider, WELT'
+    stakeholders:
+    - person: mathias-dopfner
+      role: executive
+      from: 2002
+      note: CEO
+    - person: friede-springer
+      role: owner
+      from: 1985
+      note: Majority shareholder with Döpfner (95%)
+    - org: kkr
+      role: investor
+      share: 48.5%
+      from: 2020
+      to: 2025
+      note: Take-private €6.8B, exit 2025 €13.5B
   bain-capital:
     name: Bain Capital
     type: privateequity
@@ -584,6 +682,14 @@ organizations:
     status: active
     sector: venture-capital
     note: Global VC/PE, $13B+ raised, Israel cyber investments (Paragon, JFrog, Anobit)
+  bbc:
+    name: British Broadcasting Corporation
+    type: media
+    founded: 1922
+    headquarters: London, UK
+    status: active
+    sector: public broadcaster
+    note: publicly owned, licence fee funded
   bce:
     name: Banca Centrale Europea
     type: centralbank
@@ -615,13 +721,22 @@ organizations:
   bein-media:
     name: beIN Media Group
     type: media
+    founded: 2014
     headquarters: Doha, Qatar
     status: active
-    sector: media
+    sector: sports-broadcasting
+    note: Spin-off from Al Jazeera (2014), largest sports rights portfolio globally
     stakeholders:
     - person: nasser-al-khelaifi
       role: chairman
       note: Group Chairman
+    - person: yousef-obaidly
+      role: executive
+      note: CEO
+    - org: qsi
+      role: owner
+      share: 100%
+      note: Qatar state-owned via QSI parent structure
   bentley:
     name: Bentley
     type: company
@@ -661,6 +776,51 @@ organizations:
     - org: state-street
       role: stake
       share: 0.035
+  bertelsmann:
+    name: Bertelsmann SE & Co. KGaA
+    type: media
+    founded: 1835
+    headquarters: Gutersloh, Germany
+    status: active
+    note: 7 generations Mohn family. RTL Group, Penguin Random House, BMG. €19B revenue
+    stakeholders:
+    - person: reinhard-mohn
+      role: chairman
+      from: 1947
+      to: 2009
+      note: Built global empire
+    - person: liz-mohn
+      role: board
+      from: 2009
+      note: Supervisory Board
+    - person: thomas-rabe
+      role: executive
+      from: 2012
+      to: 2026
+      note: CEO
+    - person: thomas-coesfeld
+      role: executive
+      from: 2027
+      note: CEO designato
+    - org: bertelsmann-stiftung
+      role: owner
+      share: 80.9%
+      note: With other foundations. No voting rights
+  bertelsmann-stiftung:
+    name: Bertelsmann Stiftung
+    type: foundation
+    founded: 1977
+    headquarters: Gutersloh, Germany
+    status: active
+    note: Think tank, 80.9% shares Bertelsmann (no voting). Major influence German policy
+    stakeholders:
+    - person: reinhard-mohn
+      role: founder
+      from: 1977
+    - person: liz-mohn
+      role: board
+      from: 1999
+      note: Honorary Board of Trustees
   bigbear-ai:
     type: company
     founded: 2020
@@ -672,6 +832,17 @@ organizations:
     - org: ae-industrial-partners
       role: investor
       from: 2020
+  bild:
+    name: BILD
+    type: media
+    founded: 1952
+    headquarters: Berlin, Germania
+    status: active
+    sector: newspaper
+    note: largest circulation Europe
+    stakeholders:
+    - org: axel-springer
+      share: 100%
   bilderberg:
     name: Bilderberg Group
     type: forum
@@ -780,6 +951,10 @@ organizations:
     - person: conni-jonsson
       role: member
       note: Participant 2025
+    - person: mathias-dopfner
+      role: steering
+      from: 2018
+      note: Steering Committee, participant since 2007
     - org: trilaterale
       role: partner
   bipartisan-policy-center:
@@ -897,6 +1072,17 @@ organizations:
       from: 2005
       to: 2008
       note: Vice Chairman
+  bloomberg-lp:
+    name: Bloomberg LP
+    type: media
+    founded: 1981
+    headquarters: New York, USA
+    status: active
+    sector: financial media
+    stakeholders:
+    - person: michael-bloomberg
+      role: founder
+      from: 1981
   blue-origin:
     name: Blue Origin
     type: company
@@ -906,6 +1092,22 @@ organizations:
     - person: jeff-bezos
       role: founder
       from: 2000
+  bollore-group:
+    name: Bollore Group
+    type: company
+    founded: 1822
+    headquarters: Puteaux, France
+    status: active
+    note: Family holding via Financiere de l Odet. Ex-logistics Africa
+    stakeholders:
+    - person: vincent-bollore
+      role: founder
+      from: 1981
+      note: Controlling shareholder via Financiere de l Odet
+    - person: cyrille-bollore
+      role: executive
+      from: 2019
+      note: CEO
   booz-allen-hamilton:
     name: Booz Allen Hamilton
     type: company
@@ -917,6 +1119,16 @@ organizations:
     - person: michele-flournoy
       role: board
       from: 2018
+  bouygues:
+    name: Bouygues Group
+    type: company
+    founded: 1952
+    headquarters: Paris, Francia
+    status: active
+    sector: construction, telecom, media
+    stakeholders:
+    - person: martin-bouygues
+      role: chairman
   boyu-capital:
     name: Boyu Capital
     type: privateequity
@@ -1033,6 +1245,17 @@ organizations:
       role: board
       from: 2017
       note: Security and Strategic Development
+  business-insider:
+    name: Business Insider
+    type: media
+    founded: 2007
+    headquarters: New York, USA
+    status: active
+    sector: digital news
+    stakeholders:
+    - org: axel-springer
+      share: 100%
+      from: 2015
   business-roundtable:
     name: Business Roundtable
     type: thinktank
@@ -1042,6 +1265,51 @@ organizations:
     stakeholders:
     - person: mark-zuckerberg
       role: member
+  c8:
+    name: C8
+    type: media
+    founded: 2005
+    headquarters: Paris, Francia
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: canal-plus
+      share: 100%
+  cairo-communication:
+    name: Cairo Communication
+    type: media
+    founded: 1995
+    headquarters: Milano, Italia
+    status: active
+    sector: tv, publishing
+    note: La7, controlla RCS
+    stakeholders:
+    - person: urbano-cairo
+      role: founder
+      from: 1995
+  canal-plus:
+    name: Canal+
+    type: media
+    founded: 1984
+    headquarters: Paris, France
+    status: active
+    note: TV/streaming, spin-off Vivendi 2024. LSE listed. €6.85B. CNews inclusa
+    stakeholders:
+    - org: bollore-group
+      role: owner
+      share: 31.5%
+      from: 2024
+      note: Post Vivendi spin-off
+  canale-5:
+    name: Canale 5
+    type: media
+    founded: 1980
+    headquarters: Milano, Italia
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: mediaset-mfe
+      share: 100%
   carbyne:
     type: company
     founded: 2014
@@ -1092,6 +1360,45 @@ organizations:
     - person: penny-pritzker
       role: chairman
       note: Chair of the Board
+  cbs:
+    name: CBS
+    type: media
+    founded: 1927
+    headquarters: New York, USA
+    status: active
+    sector: tv network
+    stakeholders:
+    - org: paramount-global
+      share: 100%
+  cbs-news:
+    name: CBS News
+    type: media
+    founded: 1927
+    headquarters: New York, USA
+    status: active
+    sector: news
+    stakeholders:
+    - org: paramount-global
+      share: 100%
+  ccp:
+    name: Chinese Communist Party
+    founded: 1921
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - person: xi-jinping
+      role: general-secretary
+      from: 2012
+  cctv:
+    name: China Central Television
+    type: media
+    founded: 1958
+    headquarters: Beijing, China
+    status: active
+    sector: TV
+    stakeholders:
+    - org: china-media-group
+      share: 100%
   cea:
     name: Council of Economic Advisers
     type: agency
@@ -1187,6 +1494,17 @@ organizations:
       note: Corporate Member
     - org: kissinger-associates
       role: partner
+  cgtn:
+    name: China Global Television Network
+    type: media
+    founded: 2016
+    headquarters: Beijing, China
+    status: active
+    sector: news
+    note: International arm. UK license revoked 2021. Foreign mission US 2020
+    stakeholders:
+    - org: china-media-group
+      share: 100%
   chan-zuckerberg-initiative:
     name: Chan Zuckerberg Initiative
     type: foundation
@@ -1240,6 +1558,18 @@ organizations:
       role: partner
       from: 2006
       to: 2009
+  china-media-group:
+    name: China Media Group
+    type: media
+    founded: 2018
+    headquarters: Beijing, China
+    status: active
+    sector: TV, radio, news
+    note: Merger of CCTV, CNR, CRI. Controlled by CCP Propaganda Dept + State Council
+    stakeholders:
+    - org: ccp
+      share: 100%
+      note: Via Propaganda Dept
   cia:
     name: Central Intelligence Agency
     type: agency
@@ -1395,6 +1725,17 @@ organizations:
     - person: bill-clinton
       role: founder
       from: 2001
+  cma-cgm:
+    name: CMA CGM
+    type: company
+    founded: 1978
+    headquarters: Marseille, Francia
+    status: active
+    sector: shipping
+    note: 3rd largest shipping company
+    stakeholders:
+    - person: rodolphe-saade
+      role: chairman
   cnas:
     name: Center for a New American Security
     type: thinktank
@@ -1406,6 +1747,39 @@ organizations:
       role: founder
       from: 2007
       note: Co-Founder, Chair Board of Directors
+  cnbc:
+    name: CNBC
+    type: media
+    founded: 1989
+    headquarters: Englewood Cliffs, USA
+    status: active
+    sector: tv channel
+    note: business news
+    stakeholders:
+    - org: nbcuniversal
+      share: 100%
+  cnews:
+    name: CNews
+    type: media
+    founded: 2017
+    headquarters: Paris, Francia
+    status: active
+    sector: tv channel
+    note: Fox News francese
+    stakeholders:
+    - org: canal-plus
+      share: 100%
+  cnn:
+    name: CNN
+    type: media
+    founded: 1980
+    headquarters: Atlanta, USA
+    status: active
+    sector: news
+    stakeholders:
+    - org: warner-bros-discovery
+      share: 100%
+      from: 2022
   coca-cola:
     name: Coca-Cola
     type: company
@@ -1465,6 +1839,27 @@ organizations:
     status: active
     sector: venture-capital
     note: Viktor Vekselberg, sanctioned 2018
+  comcast:
+    name: Comcast Corporation
+    type: media
+    founded: 1963
+    headquarters: Philadelphia, USA
+    status: active
+    sector: media conglomerate
+    stakeholders:
+    - person: brian-roberts
+      role: chairman
+      from: 2002
+  comedy-central:
+    name: Comedy Central
+    type: media
+    founded: 1991
+    headquarters: New York, USA
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: paramount-global
+      share: 100%
   commissione-ue:
     name: Commissione Europea
     type: agency
@@ -1582,12 +1977,23 @@ organizations:
     founded: 1956
     headquarters: New York
     status: active
+  confindustria:
+    name: Confindustria
+    type: agency
+    founded: 1910
+    headquarters: Roma, Italia
+    status: active
+    sector: business association
   corriere-della-sera:
     name: Corriere della Sera
     type: media
     founded: 1876
-    headquarters: Milano
+    headquarters: Milano, Italia
     status: active
+    sector: newspaper
+    stakeholders:
+    - org: rcs-mediagroup
+      share: 100%
   crossword-cybersecurity:
     type: company
     headquarters: London, UK
@@ -1623,6 +2029,17 @@ organizations:
       from: 1993
       to: 2022
       note: Co-Founder, Co-Chairman, stepped down 2022
+  daily-mail:
+    name: Daily Mail / DMG Media
+    type: media
+    founded: 1896
+    headquarters: London, UK
+    status: active
+    sector: newspaper
+    stakeholders:
+    - person: jonathan-rothermere
+      role: chairman
+      from: 1998
   dea:
     name: Drug Enforcement Administration
     type: agency
@@ -1630,6 +2047,37 @@ organizations:
     headquarters: Arlington, Virginia, USA
     status: active
     sector: law-enforcement
+  die-welt:
+    name: Die Welt
+    type: media
+    founded: 1946
+    headquarters: Berlin, Germania
+    status: active
+    sector: newspaper
+    stakeholders:
+    - org: axel-springer
+      share: 100%
+  digiturk:
+    name: Digiturk
+    type: media
+    headquarters: Istanbul
+    status: active
+    sector: pay-tv
+    stakeholders:
+    - org: bein-media
+      role: owner
+      share: 100%
+      from: 2016
+  disney-plus:
+    name: Disney+
+    type: media
+    founded: 2019
+    headquarters: Burbank, USA
+    status: active
+    sector: streaming
+    stakeholders:
+    - org: walt-disney
+      share: 100%
   dod:
     name: Department of Defense
     type: government
@@ -1660,6 +2108,16 @@ organizations:
       to: 2011
     - org: rand-corporation
       role: partner
+  dow-jones:
+    name: Dow Jones & Company
+    type: media
+    founded: 1882
+    headquarters: New York, USA
+    status: active
+    sector: financial media
+    stakeholders:
+    - org: news-corp
+      share: 100%
   ducati:
     name: Ducati
     type: company
@@ -1721,6 +2179,17 @@ organizations:
       role: executive
       from: 2017
       to: 2020
+  el-pais:
+    name: El País
+    type: media
+    founded: 1976
+    headquarters: Madrid, Spagna
+    status: active
+    sector: newspaper
+    note: most read Spanish newspaper
+    stakeholders:
+    - org: grupo-prisa
+      share: 100%
   electrolux:
     name: Electrolux
     type: company
@@ -1859,6 +2328,27 @@ organizations:
     stakeholders:
     - person: jacob-wallenberg
       role: member
+  espn:
+    name: ESPN
+    type: media
+    founded: 1979
+    headquarters: Bristol, USA
+    status: active
+    sector: sports-media
+    note: '#1 sports network'
+    stakeholders:
+    - org: walt-disney
+      share: 80%
+  espresso:
+    name: L'Espresso
+    type: media
+    founded: 1955
+    headquarters: Roma, Italia
+    status: active
+    sector: magazine
+    stakeholders:
+    - org: gedi
+      share: 100%
   estee-lauder:
     name: Estee Lauder
     type: company
@@ -2077,6 +2567,17 @@ organizations:
     - org: governo-saudi
       role: sponsor
       note: Davos del Deserto, forum annuale Riyadh
+  fininvest:
+    name: Fininvest
+    type: company
+    founded: 1978
+    headquarters: Milano, Italia
+    status: active
+    sector: holding
+    stakeholders:
+    - person: marina-berlusconi
+      role: chairman
+      from: 2023
   fip:
     name: International Padel Federation
     type: agency
@@ -2137,12 +2638,23 @@ organizations:
     - person: peter-thiel
       role: partner
       from: 2005
+  fox-business:
+    name: Fox Business
+    type: media
+    founded: 2007
+    headquarters: New York, USA
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: fox-corporation
+      share: 100%
   fox-corporation:
     name: Fox Corporation
     type: media
     founded: 2019
-    headquarters: New York
+    headquarters: New York, USA
     status: active
+    note: Broadcasting arm post-Disney sale. Fox News, Fox Sports, Fox Business
     stakeholders:
     - person: rupert-murdoch
       role: chairman-emeritus
@@ -2150,6 +2662,45 @@ organizations:
     - person: lachlan-murdoch
       role: chairman-ceo
       from: 2019
+  fox-news:
+    name: Fox News
+    type: media
+    founded: 1996
+    headquarters: New York, USA
+    status: active
+    sector: tv channel
+    note: '#1 cable news USA'
+    stakeholders:
+    - org: fox-corporation
+      share: 100%
+  fox-sports:
+    name: Fox Sports
+    type: media
+    founded: 1994
+    headquarters: Los Angeles, USA
+    status: active
+    sector: sports-media
+    stakeholders:
+    - org: fox-corporation
+      share: 100%
+  free-iliad:
+    name: Iliad/Free
+    type: company
+    founded: 1991
+    headquarters: Paris, Francia
+    status: active
+    sector: telecom
+    stakeholders:
+    - person: xavier-niel
+      role: founder
+  fuji-media:
+    name: Fuji Media Holdings
+    type: media
+    founded: 2008
+    headquarters: Tokyo, Japan
+    status: active
+    sector: TV, entertainment
+    note: Fuji TV flagship. First net loss FY2024 after scandal
   g42:
     name: G42
     type: company
@@ -2220,6 +2771,17 @@ organizations:
     headquarters: Moscow
     sector: gas
     note: state-controlled
+  gazzetta-dello-sport:
+    name: Gazzetta dello Sport
+    type: media
+    founded: 1896
+    headquarters: Milano, Italia
+    status: active
+    sector: newspaper
+    note: sports newspaper
+    stakeholders:
+    - org: rcs-mediagroup
+      share: 100%
   gchq:
     name: Government Communications Headquarters
     type: agency
@@ -2376,6 +2938,10 @@ organizations:
     - person: chrystia-freeland
       role: minister
       from: 2020
+  governo-cina:
+    name: Governo della Cina
+    type: government
+    headquarters: Beijing
   governo-cipro:
     name: Governo Cipro
     type: government
@@ -2518,6 +3084,10 @@ organizations:
       role: legislator
       from: 1994
       to: 2009
+  governo-giappone:
+    name: Governo del Giappone
+    type: government
+    headquarters: Tokyo
   governo-grecia:
     name: Governo Grecia
     type: government
@@ -2745,16 +3315,23 @@ organizations:
       role: leader
       from: 2002
       to: 2004
-  governo-russia:
-    name: Governo Russia
+  governo-qatar:
+    name: Governo del Qatar
     type: government
-    headquarters: Mosca
+    headquarters: Doha
+  governo-russia:
+    name: Governo della Russia
+    type: government
+    headquarters: Moscow
     status: active
     stakeholders:
     - person: boris-yeltsin
       role: leader
       from: 1991
       to: 1999
+    - person: vladimir-putin
+      role: president
+      from: 2000
   governo-saudi:
     name: Governo del Regno dell'Arabia Saudita
     type: government
@@ -2835,6 +3412,14 @@ organizations:
       from: 1944
       to: 1945
       note: Legazione Svezia Budapest
+  governo-turchia:
+    name: Governo della Turchia
+    type: government
+    headquarters: Ankara
+    stakeholders:
+    - person: recep-tayyip-erdogan
+      role: president
+      from: 2014
   governo-uae:
     name: Governo degli Emirati Arabi Uniti
     type: government
@@ -3112,6 +3697,46 @@ organizations:
       role: partner
       from: 2009
       note: General Partner
+  grupo-globo:
+    name: Grupo Globo
+    type: media
+    founded: 1925
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    sector: TV, print, digital
+    note: Largest media in Latin America. Marinho family control
+    stakeholders:
+    - person: roberto-marinho
+      role: founder
+    - person: joao-roberto-marinho
+      role: chairman
+  grupo-prisa:
+    name: Grupo Prisa
+    type: media
+    founded: 1972
+    headquarters: Madrid, Spagna
+    status: active
+    sector: newspaper, radio
+    note: El País, Cadena SER
+    stakeholders:
+    - org: vivendi
+      share: minority
+      note: via Amber Capital
+    - org: amber-capital
+      share: controlling
+  grupo-televisa:
+    name: Grupo Televisa
+    type: media
+    founded: 1973
+    headquarters: Mexico City, Mexico
+    status: active
+    sector: TV, content
+    note: Largest Spanish-language media. Merged with Univision 2022
+    stakeholders:
+    - person: emilio-azcarraga-jean
+      role: chairman
+      to: 2024
+      note: Resigned Oct 2024
   gruppo-30:
     name: Group of Thirty
     type: thinktank
@@ -3154,6 +3779,17 @@ organizations:
       role: founder
       from: 1995
       note: Co-Founder, Managing Director
+  harpercollins:
+    name: HarperCollins
+    type: media
+    founded: 1817
+    headquarters: New York, USA
+    status: active
+    sector: publishing
+    note: Big Five publisher
+    stakeholders:
+    - org: news-corp
+      share: 100%
   harrods:
     name: Harrods
     type: company
@@ -3165,6 +3801,33 @@ organizations:
       role: board
     - org: qia
       role: subsidiary
+  havas:
+    name: Havas
+    type: media
+    founded: 1835
+    headquarters: Paris, France
+    status: active
+    note: Advertising/communications, 6th largest global. Amsterdam listed. €3.44B
+    stakeholders:
+    - person: yannick-bollore
+      role: chairman
+      from: 2013
+    - org: bollore-group
+      role: owner
+      share: 31.5%
+      from: 2024
+      note: Post Vivendi spin-off
+  hbo:
+    name: HBO
+    type: media
+    founded: 1972
+    headquarters: New York, USA
+    status: active
+    sector: tv channel
+    note: premium cable
+    stakeholders:
+    - org: warner-bros-discovery
+      share: 100%
   heathrow-airport:
     name: Heathrow Airport
     type: company
@@ -3196,6 +3859,26 @@ organizations:
       from: 1961
     - org: rand-corporation
       role: partner
+  huffpost-italia:
+    name: HuffPost Italia
+    type: media
+    headquarters: Roma, Italia
+    status: active
+    sector: digital news
+    stakeholders:
+    - org: gedi
+      share: 100%
+  hulu:
+    name: Hulu
+    type: media
+    founded: 2007
+    headquarters: Santa Monica, USA
+    status: active
+    sector: streaming
+    stakeholders:
+    - org: walt-disney
+      share: 100%
+      from: 2024
   icc:
     name: International Chamber of Commerce
     type: forum
@@ -3244,12 +3927,64 @@ organizations:
       from: 1935
       to: 1937
       note: Parigi
+  il-gazzettino:
+    name: Il Gazzettino
+    type: media
+    founded: 1887
+    headquarters: Venezia, Italia
+    status: active
+    sector: newspaper
+    stakeholders:
+    - person: franco-caltagirone
+      role: owner
+  il-giornale:
+    name: Il Giornale
+    type: media
+    founded: 1974
+    headquarters: Milano, Italia
+    status: active
+    sector: newspaper
+    note: fondato da Montanelli, ex-Berlusconi
+    stakeholders:
+    - person: antonio-angelucci
+      role: owner
+      from: 2024
+  il-mattino:
+    name: Il Mattino
+    type: media
+    founded: 1892
+    headquarters: Napoli, Italia
+    status: active
+    sector: newspaper
+    stakeholders:
+    - person: franco-caltagirone
+      role: owner
+  il-messaggero:
+    name: Il Messaggero
+    type: media
+    founded: 1878
+    headquarters: Roma, Italia
+    status: active
+    sector: newspaper
+    stakeholders:
+    - person: franco-caltagirone
+      role: owner
   il-sole-24-ore:
     name: Il Sole 24 Ore
     type: media
     founded: 1865
     headquarters: Milano
     status: active
+  il-tempo:
+    name: Il Tempo
+    type: media
+    founded: 1944
+    headquarters: Roma, Italia
+    status: active
+    sector: newspaper
+    stakeholders:
+    - person: antonio-angelucci
+      role: owner
   ina:
     name: INA (Istituto Nazionale Assicurazioni)
     type: company
@@ -3316,6 +4051,23 @@ organizations:
     founded: 1934
     headquarters: Milano, Italia
     status: active
+  italia-1:
+    name: Italia 1
+    type: media
+    founded: 1982
+    headquarters: Milano, Italia
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: mediaset-mfe
+      share: 100%
+  itv:
+    name: ITV plc
+    type: media
+    founded: 1955
+    headquarters: London, UK
+    status: active
+    sector: commercial broadcaster
   jacques-delors-institute:
     type: thinktank
     founded: 1996
@@ -3346,6 +4098,25 @@ organizations:
     - person: morris-amitay
       role: leader
       from: 1981
+  joongang-group:
+    name: JoongAng Group
+    type: media
+    founded: 1987
+    headquarters: Seoul, South Korea
+    status: active
+    sector: newspaper, TV
+    note: Split from Samsung 1987. Operates JoongAng Ilbo, JTBC
+  joongang-ilbo:
+    name: JoongAng Ilbo
+    type: media
+    founded: 1965
+    headquarters: Seoul, South Korea
+    status: active
+    sector: newspaper
+    note: Major Korean newspaper. Originally Samsung-founded
+    stakeholders:
+    - org: joongang-group
+      share: 100%
   jpmorgan:
     name: JPMorgan
     type: bank
@@ -3401,6 +4172,17 @@ organizations:
       role: member
     - person: john-howard
       role: member
+  jtbc:
+    name: JTBC
+    type: media
+    founded: 2011
+    headquarters: Seoul, South Korea
+    status: active
+    sector: TV
+    note: Cable TV. Known for investigative journalism
+    stakeholders:
+    - org: joongang-group
+      share: 100%
   kgb:
     name: Komitet Gosudarstvennoy Bezopasnosti
     type: agency
@@ -3508,18 +4290,60 @@ organizations:
       to: 1914
     - person: felix-warburg
       role: partner
+  la-repubblica:
+    name: La Repubblica
+    type: media
+    founded: 1976
+    headquarters: Roma, Italia
+    status: active
+    sector: newspaper
+    stakeholders:
+    - org: gedi
+      share: 100%
   la-stampa:
     name: La Stampa
     type: media
     founded: 1867
-    headquarters: Torino
+    headquarters: Torino, Italia
     status: active
+    sector: newspaper
     stakeholders:
     - person: gianni-agnelli
       role: owner
     - person: john-elkann
       role: owner
       from: 2016
+    - org: gedi
+      share: 100%
+  la-tribune:
+    name: La Tribune
+    type: media
+    founded: 1985
+    headquarters: Paris, Francia
+    status: active
+    sector: newspaper
+    stakeholders:
+    - org: cma-cgm
+      share: majority
+      from: 2024
+      note: acquisito da Drahi
+  la7:
+    name: La7
+    type: media
+    founded: 2001
+    headquarters: Milano, Italia
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: cairo-communication
+      share: 100%
+  lagardere:
+    name: Lagardere
+    type: media
+    founded: 1992
+    headquarters: Paris, France
+    status: active
+    note: Publishing, retail. Paris Match, Europe 1, JDD. Part of Louis Hachette Group
   lamborghini:
     name: Lamborghini
     type: company
@@ -3539,6 +4363,26 @@ organizations:
     - person: vernon-jordan
       role: advisor
       from: 2000
+  le-monde:
+    name: Groupe Le Monde
+    type: media
+    founded: 1944
+    headquarters: Paris, Francia
+    status: active
+    sector: newspaper
+    stakeholders:
+    - person: xavier-niel
+      role: controlling shareholder
+  le-parisien:
+    name: Le Parisien
+    type: media
+    founded: 1944
+    headquarters: Paris, Francia
+    status: active
+    sector: newspaper
+    stakeholders:
+    - org: lvmh
+      share: 100%
   lehman-brothers:
     name: Lehman Brothers
     type: bank
@@ -3554,6 +4398,28 @@ organizations:
       role: executive
       to: 2007
       note: CFO, key in IBM PC acquisition 2005
+  les-echos:
+    name: Les Echos
+    type: media
+    founded: 1908
+    headquarters: Paris, Francia
+    status: active
+    sector: newspaper
+    note: business newspaper
+    stakeholders:
+    - org: lvmh
+      share: 100%
+  libero-quotidiano:
+    name: Libero Quotidiano
+    type: media
+    founded: 2000
+    headquarters: Milano, Italia
+    status: active
+    sector: newspaper
+    note: conservatore
+    stakeholders:
+    - person: antonio-angelucci
+      role: owner
   lilly-endowment:
     name: Lilly Endowment
     type: foundation
@@ -3588,6 +4454,38 @@ organizations:
       from: 1970
       to: 1976
       note: Scandalo tangenti $1M+
+  los-angeles-times:
+    name: Los Angeles Times
+    type: media
+    founded: 1881
+    headquarters: Los Angeles, USA
+    status: active
+    sector: newspaper
+    stakeholders:
+    - person: patrick-soon-shiong
+      role: owner
+      from: 2018
+  lvmh:
+    name: LVMH Moët Hennessy Louis Vuitton
+    type: company
+    founded: 1987
+    headquarters: Paris, Francia
+    status: active
+    sector: luxury goods
+    stakeholders:
+    - person: bernard-arnault
+      role: chairman
+      from: 1989
+  m6:
+    name: M6
+    type: media
+    founded: 1987
+    headquarters: Paris, Francia
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: rtl-group
+      share: majority
   manchester-city:
     name: Manchester City FC
     type: sportsclub
@@ -3605,6 +4503,41 @@ organizations:
       share: 99.93%
       from: 2008
       note: Flagship club
+  marvel-studios:
+    name: Marvel Studios
+    type: media
+    founded: 1993
+    headquarters: Burbank, USA
+    status: active
+    sector: film studio
+    stakeholders:
+    - org: walt-disney
+      share: 100%
+  max-streaming:
+    name: Max (ex-HBO Max)
+    type: media
+    founded: 2020
+    headquarters: New York, USA
+    status: active
+    sector: streaming
+    stakeholders:
+    - org: warner-bros-discovery
+      share: 100%
+  mbc-group:
+    name: MBC Group
+    type: media
+    founded: 1991
+    headquarters: Riyadh, Saudi Arabia
+    status: active
+    sector: TV, entertainment
+    note: Largest private broadcaster Middle East. PIF owns 54% since 2024
+    stakeholders:
+    - person: waleed-al-ibrahim
+      role: founder
+      from: 1991
+    - org: pif
+      share: 54%
+      from: 2024
   mckinsey:
     name: McKinsey & Company
     type: company
@@ -3620,12 +4553,28 @@ organizations:
     founded: 1978
     headquarters: Milano
     status: active
-  meta:
-    name: Meta Platforms
-    type: company
-    headquarters: Menlo Park
+  mediaset-mfe:
+    name: MFE-MediaForEurope (Mediaset)
+    type: media
+    founded: 1978
+    headquarters: Milano, Italia
     status: active
-    sector: tech
+    sector: tv broadcaster
+    note: Canale 5, Italia 1, Rete 4
+    stakeholders:
+    - person: pier-silvio-berlusconi
+      role: ceo
+      from: 2023
+    - org: fininvest
+      share: 48%
+      note: controlling
+  meta:
+    name: Meta Platforms (Facebook, Instagram)
+    type: media
+    founded: 2004
+    headquarters: Menlo Park, USA
+    status: active
+    sector: social media
     stakeholders:
     - person: mark-zuckerberg
       role: founder
@@ -3782,6 +4731,19 @@ organizations:
     - org: state-street
       role: stake
       share: 0.035
+  miramax:
+    name: Miramax
+    type: media
+    founded: 1979
+    headquarters: Los Angeles
+    status: active
+    sector: film-studio
+    stakeholders:
+    - org: bein-media
+      role: owner
+      share: 51%
+      from: 2016
+      note: ViacomCBS owns 49%
   morgan-stanley:
     name: Morgan Stanley
     type: bank
@@ -3833,6 +4795,16 @@ organizations:
       role: partner
       from: 1951
       note: Intelligence sharing, Angleton liaison
+  mtv:
+    name: MTV
+    type: media
+    founded: 1981
+    headquarters: New York, USA
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: paramount-global
+      share: 100%
   mubadala:
     name: Mubadala
     type: swf
@@ -3877,16 +4849,110 @@ organizations:
       from: 2013
       to: 2014
       note: Presidente Delegazione Italiana, Assemblea Parlamentare
+  nbc:
+    name: NBC
+    type: media
+    founded: 1926
+    headquarters: New York, USA
+    status: active
+    sector: tv network
+    stakeholders:
+    - org: nbcuniversal
+      share: 100%
+  nbc-news:
+    name: NBC News / MSNBC
+    type: media
+    founded: 1940
+    headquarters: New York, USA
+    status: active
+    sector: news
+    stakeholders:
+    - org: nbcuniversal
+      share: 100%
+  nbcuniversal:
+    name: NBCUniversal
+    type: media
+    founded: 2004
+    headquarters: New York, USA
+    status: active
+    sector: media
+    stakeholders:
+    - org: comcast
+      share: 100%
+      from: 2011
+  ndtv:
+    name: NDTV
+    type: media
+    founded: 1988
+    headquarters: New Delhi, India
+    status: active
+    sector: TV, news
+    note: Formerly independent. Adani acquired 64.71% in 2022. Key journalists resigned
+    stakeholders:
+    - org: amg-media
+      share: 64.71%
+      from: 2022
+  netflix:
+    name: Netflix
+    type: media
+    founded: 1997
+    headquarters: Los Gatos, USA
+    status: active
+    sector: streaming
+    note: publicly traded, no controlling shareholder
+  network18:
+    name: Network18
+    type: media
+    founded: 1993
+    headquarters: Mumbai, India
+    status: active
+    sector: TV, digital
+    note: One of India largest media. Acquired by Reliance 2014. 72+ channels
+    stakeholders:
+    - org: reliance-industries
+      share: majority
+      from: 2014
+  new-york-post:
+    name: New York Post
+    type: media
+    founded: 1801
+    headquarters: New York, USA
+    status: active
+    sector: newspaper
+    note: tabloid, conservative
+    stakeholders:
+    - org: news-corp
+      share: 100%
+  new-york-times:
+    name: The New York Times
+    type: media
+    founded: 1851
+    headquarters: New York, USA
+    status: active
+    sector: newspaper
+    stakeholders:
+    - person: ag-sulzberger
+      role: publisher
+      from: 2018
   news-corp:
     name: News Corp
     type: media
-    founded: 1979
-    headquarters: New York
+    founded: 2013
+    headquarters: New York, USA
     status: active
+    note: Publishing arm post-split. WSJ, Times UK, NY Post, HarperCollins, Dow Jones
     stakeholders:
     - person: rupert-murdoch
       role: founder
       from: 1979
+    - person: lachlan-murdoch
+      role: chairman
+      from: 2023
+      note: Executive Chairman
+    - person: jose-maria-aznar
+      role: board
+      from: 2013
+      note: Independent Non-Executive Director
   news-corporation:
     name: News Corporation
     type: media
@@ -3900,6 +4966,48 @@ organizations:
       role: board
       from: 2006
       note: 4m-cumulative-salary
+  news-uk:
+    name: News UK (Times, Sun)
+    type: media
+    founded: 1969
+    headquarters: London, UK
+    status: active
+    sector: newspaper
+    stakeholders:
+    - org: news-corp
+      share: 100%
+  nhk:
+    name: NHK (Japan Broadcasting Corporation)
+    type: media
+    founded: 1926
+    headquarters: Tokyo, Japan
+    status: active
+    sector: TV, radio
+    note: Public broadcaster. Funded by license fees. Operates NHK General, NHK Educational, NHK World
+    stakeholders:
+    - org: governo-giappone
+      note: Public broadcaster, license fee funded
+  nickelodeon:
+    name: Nickelodeon
+    type: media
+    founded: 1977
+    headquarters: New York, USA
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: paramount-global
+      share: 100%
+  nippon-tv:
+    name: Nippon Television
+    type: media
+    founded: 1952
+    headquarters: Tokyo, Japan
+    status: active
+    sector: TV
+    note: Japan first commercial TV. Owned by Yomiuri Shimbun group
+    stakeholders:
+    - org: yomiuri-shimbun
+      share: majority
   nobel-foundation:
     name: Nobel Foundation
     type: foundation
@@ -4142,7 +5250,7 @@ organizations:
     name: Oracle Corporation
     type: company
     founded: 1977
-    headquarters: Austin
+    headquarters: Austin, USA
     status: active
     sector: tech
     stakeholders:
@@ -4275,6 +5383,27 @@ organizations:
     - org: red-dot-capital
       role: investor
       from: 2019
+  paramount-global:
+    name: Paramount Global (Skydance)
+    type: media
+    founded: 2019
+    headquarters: New York, USA
+    status: active
+    sector: media conglomerate
+    stakeholders:
+    - person: larry-ellison
+      role: controlling shareholder
+      from: 2025
+  paramount-pictures:
+    name: Paramount Pictures
+    type: media
+    founded: 1912
+    headquarters: Los Angeles, USA
+    status: active
+    sector: film studio
+    stakeholders:
+    - org: paramount-global
+      share: 100%
   parlamento-europeo:
     name: European Parliament
     headquarters: Brussels/Strasbourg
@@ -4307,6 +5436,38 @@ organizations:
     founded: 1998
     headquarters: Silicon Valley
     status: active
+  peacock:
+    name: Peacock
+    type: media
+    founded: 2020
+    headquarters: New York, USA
+    status: active
+    sector: streaming
+    stakeholders:
+    - org: nbcuniversal
+      share: 100%
+  penguin-random-house:
+    name: Penguin Random House
+    type: media
+    founded: 2013
+    headquarters: New York, USA
+    status: active
+    note: World largest book publisher. 100% Bertelsmann since 2020
+    stakeholders:
+    - org: bertelsmann
+      role: owner
+      share: 100%
+      from: 2020
+  pif:
+    name: Public Investment Fund
+    type: swf
+    founded: 1971
+    headquarters: Riyadh, Saudi Arabia
+    status: active
+    note: 'Chairman: Mohammed bin Salman. $930B AUM'
+    stakeholders:
+    - person: mohammed-bin-salman
+      role: chairman
   pif-saudi:
     name: Public Investment Fund (PIF)
     type: swf
@@ -4324,6 +5485,17 @@ organizations:
       role: owner
       share: 100.0
       note: Fondo sovrano, $925B AUM
+  politico:
+    name: POLITICO
+    type: media
+    founded: 2007
+    headquarters: Arlington, USA
+    status: active
+    sector: digital news
+    stakeholders:
+    - org: axel-springer
+      share: 100%
+      from: 2021
   porsche-ag:
     name: Porsche AG
     type: company
@@ -4419,7 +5591,7 @@ organizations:
     name: Qatar Investment Authority
     type: swf
     founded: 2005
-    headquarters: Doha
+    headquarters: Doha, Qatar
     status: active
     aum: 525B
     stakeholders:
@@ -4465,12 +5637,24 @@ organizations:
       role: parent
       share: 100%
       note: Subsidiary of Qatar Investment Authority
+  radio-deejay:
+    name: Radio Deejay
+    type: media
+    founded: 1982
+    headquarters: Milano, Italia
+    status: active
+    sector: radio
+    stakeholders:
+    - org: gedi
+      share: 100%
   rai:
-    name: RAI
+    name: RAI - Radiotelevisione Italiana
     type: media
     founded: 1954
-    headquarters: Roma
+    headquarters: Roma, Italia
     status: active
+    sector: public broadcaster
+    note: servizio pubblico, controllato MEF
   rand-corporation:
     name: RAND Corporation
     type: thinktank
@@ -4502,8 +5686,18 @@ organizations:
   rcs-mediagroup:
     name: RCS MediaGroup
     type: media
-    headquarters: Milano
+    founded: 1927
+    headquarters: Milano, Italia
     status: active
+    sector: newspaper
+    note: Corriere della Sera, Gazzetta dello Sport
+    stakeholders:
+    - person: urbano-cairo
+      role: chairman
+      from: 2016
+    - org: cairo-communication
+      share: controlling
+      from: 2016
   red-dot-capital:
     type: privateequity
     headquarters: Tel Aviv, Israel
@@ -4548,6 +5742,17 @@ organizations:
     - org: ae-industrial-partners
       role: investor
       from: 2020
+  reliance-industries:
+    name: Reliance Industries
+    type: company
+    founded: 1966
+    headquarters: Mumbai, India
+    status: active
+    sector: conglomerate
+    note: Largest Indian company. Energy, telecom (Jio), retail, media
+    stakeholders:
+    - person: mukesh-ambani
+      role: chairman
   repubblica:
     name: La Repubblica
     type: media
@@ -4558,6 +5763,16 @@ organizations:
     - person: john-elkann
       role: owner
       from: 2020
+  rete-4:
+    name: Rete 4
+    type: media
+    founded: 1982
+    headquarters: Milano, Italia
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: mediaset-mfe
+      share: 100%
   reuters:
     name: Reuters
     type: media
@@ -4585,6 +5800,16 @@ organizations:
       from: 2017
       to: 2022
       note: 350k-annual
+  rossiya-segodnya:
+    name: Rossiya Segodnya
+    type: media
+    founded: 2013
+    headquarters: Moscow, Russia
+    status: active
+    note: State-owned media group. Controls RT, RIA Novosti, Sputnik
+    stakeholders:
+    - org: governo-russia
+      share: 100%
   rothschild-cie:
     name: Rothschild & Cie
     type: bank
@@ -4607,6 +5832,42 @@ organizations:
     - person: alexandre-de-rothschild
       role: executive-chairman
       from: 2018
+  rt:
+    name: RT (Russia Today)
+    type: media
+    founded: 2005
+    headquarters: Moscow, Russia
+    status: active
+    sector: news, TV
+    note: State-funded. Foreign agent US 2017. Banned EU 2022. Editor-in-chief Margarita Simonyan
+    stakeholders:
+    - person: margarita-simonyan
+      role: editor-in-chief
+      from: 2005
+    - org: rossiya-segodnya
+      share: 100%
+  rtl-group:
+    name: RTL Group
+    type: media
+    founded: 1931
+    headquarters: Luxembourg
+    status: active
+    note: Largest European entertainment company. RTL, VOX, M6
+    stakeholders:
+    - org: bertelsmann
+      role: owner
+      share: 75.1%
+  rtl-television:
+    name: RTL Television
+    type: media
+    founded: 1984
+    headquarters: Cologne, Germania
+    status: active
+    sector: tv channel
+    note: '#1 private TV Germany'
+    stakeholders:
+    - org: rtl-group
+      share: 100%
   rusi:
     type: thinktank
     founded: 1831
@@ -4633,6 +5894,18 @@ organizations:
       note: Sviluppo caccia Saab
     - org: investor-ab
       role: major-shareholder
+  samsung:
+    name: Samsung Group
+    type: company
+    founded: 1938
+    headquarters: Seoul, South Korea
+    status: active
+    sector: conglomerate
+    note: Largest chaebol. ~20% South Korea GDP. Lee family control via cross-ownership
+    stakeholders:
+    - person: lee-jae-yong
+      role: chairman
+      from: 2022
   sas:
     name: SAS (Scandinavian Airlines)
     type: company
@@ -4752,6 +6025,17 @@ organizations:
     stakeholders:
     - org: volkswagen
       role: subsidiary
+  sky-uk:
+    name: Sky Group
+    type: media
+    founded: 1990
+    headquarters: London, UK
+    status: active
+    sector: pay TV, news
+    stakeholders:
+    - org: comcast
+      share: 100%
+      from: 2018
   softbank:
     name: SoftBank Group
     type: company
@@ -4816,11 +6100,24 @@ organizations:
       role: investor
       share: 0.15
       note: $15B LP
+  sole-24-ore:
+    name: Il Sole 24 Ore
+    type: media
+    founded: 1865
+    headquarters: Milano, Italia
+    status: active
+    sector: newspaper
+    note: business newspaper
+    stakeholders:
+    - org: confindustria
+      share: controlling
   spacex:
     name: SpaceX
     type: company
-    headquarters: Hawthorne
+    founded: 2002
+    headquarters: Hawthorne, USA
     status: active
+    sector: aerospace
     stakeholders:
     - person: elon-musk
       role: founder
@@ -4927,6 +6224,16 @@ organizations:
     - person: john-scarlett
       role: advisor
       note: Advisory Board
+  tbs:
+    name: TBS
+    type: media
+    founded: 1967
+    headquarters: Atlanta, USA
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: warner-bros-discovery
+      share: 100%
   telecom-italia:
     name: Telecom Italia
     type: company
@@ -4937,6 +6244,29 @@ organizations:
       role: executive
       from: 1998
       to: 1999
+  telemundo:
+    name: Telemundo
+    type: media
+    founded: 1954
+    headquarters: Miami, USA
+    status: active
+    sector: tv network
+    note: Spanish-language
+    stakeholders:
+    - org: nbcuniversal
+      share: 100%
+  televisaunivision:
+    name: TelevisaUnivision
+    type: media
+    founded: 2022
+    headquarters: Miami, USA / Mexico City
+    status: active
+    sector: TV, streaming
+    note: Merger Televisa content + Univision. Largest Spanish-language media globally
+    stakeholders:
+    - org: grupo-televisa
+      share: 45%
+      from: 2022
   temasek:
     name: Temasek Holdings
     type: swf
@@ -4946,12 +6276,16 @@ organizations:
   tesla:
     name: Tesla
     type: company
-    headquarters: Austin
+    founded: 2003
+    headquarters: Austin, USA
     status: active
-    sector: tech
+    sector: automotive, energy
     stakeholders:
     - person: elon-musk
       role: executive
+      from: 2008
+    - person: elon-musk
+      role: ceo
       from: 2008
     - person: larry-ellison
       role: board
@@ -5011,6 +6345,17 @@ organizations:
       note: Gestì bailout 2008
     - org: banca-mondiale
       role: partner
+  tf1:
+    name: Groupe TF1
+    type: media
+    founded: 1975
+    headquarters: Paris, Francia
+    status: active
+    sector: tv broadcaster
+    note: TF1, LCI, TMC, TFX
+    stakeholders:
+    - org: bouygues
+      share: majority
   the-elders:
     name: The Elders
     type: forum
@@ -5020,6 +6365,47 @@ organizations:
     stakeholders:
     - person: gro-harlem-brundtland
       role: chairman
+  the-guardian:
+    name: The Guardian
+    type: media
+    founded: 1821
+    headquarters: London, UK
+    status: active
+    sector: newspaper
+    note: owned by Scott Trust (non-profit)
+  the-quint:
+    name: The Quint
+    type: media
+    founded: 2015
+    headquarters: New Delhi, India
+    status: active
+    sector: digital news
+    note: AMG acquired 49% stake March 2023
+    stakeholders:
+    - org: amg-media
+      share: 49%
+      from: 2023
+  the-sun:
+    name: The Sun
+    type: media
+    founded: 1964
+    headquarters: London, UK
+    status: active
+    sector: newspaper
+    note: largest UK circulation
+    stakeholders:
+    - org: news-uk
+      share: 100%
+  the-times:
+    name: The Times
+    type: media
+    founded: 1785
+    headquarters: London, UK
+    status: active
+    sector: newspaper
+    stakeholders:
+    - org: news-uk
+      share: 100%
   theleme-partners:
     type: assetmanager
     founded: 2010
@@ -5061,6 +6447,16 @@ organizations:
       share: controlling
       from: 2023
       note: WWE + UFC merger
+  tnt:
+    name: TNT
+    type: media
+    founded: 1988
+    headquarters: Atlanta, USA
+    status: active
+    sector: tv channel
+    stakeholders:
+    - org: warner-bros-discovery
+      share: 100%
   toka:
     type: company
     founded: 2018
@@ -5181,6 +6577,28 @@ organizations:
       role: partner
     - org: cfr
       role: partner
+  trt:
+    name: Turkish Radio and Television Corporation
+    type: media
+    founded: 1964
+    headquarters: Ankara, Turkey
+    status: active
+    sector: TV, radio, news
+    note: State broadcaster. Registered as foreign agent US 2020. Press freedom rank 158/180
+    stakeholders:
+    - org: governo-turchia
+      share: 100%
+  trt-world:
+    name: TRT World
+    type: media
+    founded: 2015
+    headquarters: Istanbul, Turkey
+    status: active
+    sector: news
+    note: English-language international channel
+    stakeholders:
+    - org: trt
+      share: 100%
   tsmc:
     name: TSMC
     type: company
@@ -5208,6 +6626,17 @@ organizations:
     - org: state-street
       role: stake
       share: 0.02
+  tv-globo:
+    name: TV Globo
+    type: media
+    founded: 1965
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    sector: TV
+    note: Largest commercial TV in Latin America. Second largest in world
+    stakeholders:
+    - org: grupo-globo
+      share: 100%
   uber:
     name: Uber
     type: company
@@ -5253,6 +6682,16 @@ organizations:
       role: member
     - person: omri-lavie
       role: member
+  universal-pictures:
+    name: Universal Pictures
+    type: media
+    founded: 1912
+    headquarters: Universal City, USA
+    status: active
+    sector: film studio
+    stakeholders:
+    - org: nbcuniversal
+      share: 100%
   us-cyber-command:
     name: US Cyber Command
     type: agency
@@ -5303,6 +6742,25 @@ organizations:
     - org: walmart
       role: stake
       share: 0.054
+  vivendi:
+    name: Vivendi SE
+    type: media
+    founded: 2000
+    headquarters: Paris, France
+    status: active
+    note: 'Post-split 2024: holding residua. Bolloré family 29.9%'
+    stakeholders:
+    - person: vincent-bollore
+      role: owner
+      from: 2012
+      note: Controlling shareholder 29.9%
+    - person: yannick-bollore
+      role: chairman
+      from: 2018
+    - org: bollore-group
+      role: owner
+      share: 29.9%
+      from: 2012
   volkswagen:
     name: Volkswagen
     type: company
@@ -5362,6 +6820,17 @@ organizations:
     - org: bassa-sassonia
       role: stake
       share: 0.2
+  wall-street-journal:
+    name: The Wall Street Journal
+    type: media
+    founded: 1889
+    headquarters: New York, USA
+    status: active
+    sector: newspaper
+    note: premium business news
+    stakeholders:
+    - org: dow-jones
+      share: 100%
   walmart:
     name: Walmart
     type: company
@@ -5392,6 +6861,13 @@ organizations:
     - org: walton-enterprises
       role: subsidiary
       share: 0.46
+  walt-disney:
+    name: The Walt Disney Company
+    type: media
+    founded: 1923
+    headquarters: Burbank, USA
+    status: active
+    sector: media conglomerate
   walton-enterprises:
     name: Walton Enterprises
     type: company
@@ -5433,12 +6909,30 @@ organizations:
       from: 1966
     - org: cfr
       role: partner
+  warner-bros-discovery:
+    name: Warner Bros. Discovery
+    type: media
+    founded: 2022
+    headquarters: New York, USA
+    status: active
+    sector: media conglomerate
+  warner-bros-pictures:
+    name: Warner Bros. Pictures
+    type: media
+    founded: 1923
+    headquarters: Burbank, USA
+    status: active
+    sector: film studio
+    stakeholders:
+    - org: warner-bros-discovery
+      share: 100%
   washington-post:
     name: The Washington Post
     type: media
     founded: 1877
-    headquarters: Washington
+    headquarters: Washington DC, USA
     status: active
+    sector: newspaper
     stakeholders:
     - person: jeff-bezos
       role: owner
@@ -5649,6 +7143,9 @@ organizations:
       note: Speaker Davos 2025
     - person: henry-kravis
       role: member
+    - person: mathias-dopfner
+      role: member
+      note: Davos participant
     - org: bilderberg
       role: partner
     - org: fmi
@@ -5662,6 +7159,9 @@ organizations:
       role: partner
     - org: kkr
       role: partner
+    - org: bertelsmann-stiftung
+      role: partner
+      note: Klaus Schwab Reinhard Mohn Prize 2016
   wells-fargo:
     name: Wells Fargo
     type: bank
@@ -5785,17 +7285,27 @@ organizations:
       to: 1976
       note: Primo presidente
   x-twitter:
-    name: X (Twitter)
-    type: company
-    headquarters: San Francisco
+    name: X (formerly Twitter)
+    type: media
+    founded: 2006
+    headquarters: San Francisco, USA
     status: active
+    sector: social media
     stakeholders:
     - person: elon-musk
       role: owner
       from: 2022
-    - person: larry-ellison
-      role: shareholder
-      from: 2022
+  xinhua:
+    name: Xinhua News Agency
+    type: media
+    founded: 1931
+    headquarters: Beijing, China
+    status: active
+    sector: news agency
+    note: Ministry-level institution under State Council. Foreign mission US 2020
+    stakeholders:
+    - org: governo-cina
+      share: 100%
   yankee-global:
     name: Yankee Global Enterprises
     type: company
@@ -5812,6 +7322,14 @@ organizations:
     - org: redbird-capital
       role: investor
       note: Yankees, Amazon partnership
+  yomiuri-shimbun:
+    name: Yomiuri Shimbun Holdings
+    type: media
+    founded: 1874
+    headquarters: Tokyo, Japan
+    status: active
+    sector: newspaper
+    note: Largest circulation newspaper in world. Conservative. Owns NTV, Yomiuri Giants
   young-global-leaders:
     name: Young Global Leaders
     type: forum
