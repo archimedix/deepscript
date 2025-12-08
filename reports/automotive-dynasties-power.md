@@ -10,7 +10,7 @@ L'industria automotive e' un caso studio di **concentrazione del potere** attrav
 |---------|--------|------------|
 | **Dinastie familiari** | Porsche-Piech, Quandt, Ford, Agnelli, Toyoda, Chung | Dual-class shares, holding, cross-shareholding |
 | **Stati sovrani** | Lower Saxony (VW), Francia (Renault/Stellantis) | Leggi speciali, golden shares, voti doppi |
-| **Petrostati** | PIF (Lucid 60%), QIA (VW 17%) | EV come nuovo sportswashing |
+| **Petrostati** | PIF (Lucid 60%), QIA (VW 17%), KIA (Mercedes dal 1974) | EV come nuovo sportswashing |
 | **Espansione cinese** | Geely (Li Shufu) | Acquisizioni strategiche in Europa |
 | **Big 3 Asset Managers** | BlackRock, Vanguard, State Street | 15-20% di ogni major OEM |
 
@@ -31,15 +31,15 @@ L'industria automotive e' un caso studio di **concentrazione del potere** attrav
 │  FAMILIARI  │            │   SOVRANI   │            │   / SWF     │
 └──────┬──────┘            └──────┬──────┘            └──────┬──────┘
        │                          │                          │
-  ┌────┴────┐                ┌────┴────┐                ┌────┴────┐
-  │         │                │         │                │         │
-  ▼         ▼                ▼         ▼                ▼         ▼
-Porsche   Quandt          Lower     Francia           PIF       QIA
--Piech    (BMW)           Saxony   (Renault)        (Lucid)   (VW)
-  │         │             (VW)        │                │         │
-  ▼         ▼                ▼        ▼                ▼         ▼
-  VW      BMW               20%      15%             60%       17%
-53% voti  47%              voti    (30% voti)      Lucid    VW stake
+  ┌────┴────┐                ┌────┴────┐                ┌────┴────┬────┐
+  │         │                │         │                │         │    │
+  ▼         ▼                ▼         ▼                ▼         ▼    ▼
+Porsche   Quandt          Lower     Francia           PIF       QIA  KIA
+-Piech    (BMW)           Saxony   (Renault)        (Lucid)   (VW) (Merc)
+  │         │             (VW)        │                │         │    │
+  ▼         ▼                ▼        ▼                ▼         ▼    ▼
+  VW      BMW               20%      15%             60%       17%   5%
+53% voti  47%              voti    (30% voti)      Lucid    VW    dal'74
 
        │                          │                          │
        └──────────────────────────┼──────────────────────────┘
@@ -149,6 +149,15 @@ Stefan Quandt    Susanne Klatten
 - Uso lavoro forzato nazista da parte di Gunther Quandt (padre di Herbert)
 - Documentario ARD 2007: "The Silence of the Quandts"
 - Famiglia ha riconosciuto "responsabilita' morale" nel 2011
+
+**Management BMW** (career men):
+
+| Persona | Ruolo | Periodo | Note |
+|---------|-------|---------|------|
+| **Oliver Zipse** | CEO | 2019-oggi | Carriera intera in BMW (dal 1991) |
+| **Norbert Reithofer** | CEO → Chairman | 2006-2025 | 38 anni in azienda, ritirato 2025 |
+
+I Quandt delegano la gestione a manager di lungo corso, ma mantengono il controllo strategico.
 
 **Pattern**: Controllo diretto senza strutture intermedie complesse. La famiglia piu' "silenziosa" - nessuna partecipazione pubblica a forum.
 
@@ -525,14 +534,47 @@ QIA ha acquisito stake durante crisi 2009 (tentata scalata Porsche). E' rimasto 
 
 ---
 
-### 3. BAIC + Geely → Mercedes-Benz 🇨🇳
+### 3. KIA Kuwait → Mercedes-Benz 🇰🇼
+
+**Il primo investimento petrodollari nell'automotive (1974).**
+
+| Metrica | Valore |
+|---------|--------|
+| **Quota attuale** | 4.97% |
+| **Quota originale** | 14% (1974) |
+| **Investimento iniziale** | $329M |
+| **Valore 2014** | ~$6B |
+
+**Timeline**:
+- 1974: KIA acquisisce 14% Daimler-Benz durante crisi petrolifera
+- 2007: Quota stabile a 6.84% dopo split DaimlerChrysler
+- 2023: Vendita parziale, scende a 4.97%
+
+**Pattern**: Il Kuwait ha investito i petrodollari nell'automotive europeo **50 anni prima** di PIF in Lucid. KIA e' il piu' antico SWF del mondo (1953).
+
+---
+
+### 4. BAIC + Geely → Mercedes-Benz 🇨🇳
+
+**Mercedes: l'unico premium tedesco senza padrone.**
 
 | Investitore | Quota | Tipo |
 |-------------|-------|------|
-| BAIC Group | ~10% | SOE cinese |
-| Li Shufu/Geely | ~10% | Privato cinese |
+| BAIC Group | 9.98% | SOE cinese |
+| Li Shufu/Geely | 9.69% | Privato cinese |
+| **Totale cinese** | **~20%** | Blocco potenziale |
 
-I due maggiori azionisti di Mercedes sono cinesi - uno statale, uno privato.
+**Confronto controllo premium tedeschi**:
+
+| OEM | Top shareholder | Quota | Controllo |
+|-----|-----------------|-------|-----------|
+| VW | Porsche-Piech | 53.3% voti | Maggioranza |
+| BMW | Quandt | 46.8% | Blocking stake |
+| **Mercedes** | **BAIC** | **9.98%** | **Nessuno** |
+
+Mercedes e' l'unico premium tedesco **senza azionista di controllo**. I due maggiori azionisti sono cinesi - uno statale, uno privato.
+
+**Ola Kallenius** (CEO dal 2019): primo CEO non tedesco nella storia Mercedes (svedese, poi naturalizzato).
 
 ---
 
@@ -576,6 +618,20 @@ Network Elkann:
 
 I CEO automotive partecipano regolarmente a Davos, ma come speaker/partecipanti, non nella governance WEF.
 
+### Revolving Door: Il Caso Pischetsrieder
+
+**Bernd Pischetsrieder**: l'unica persona ad aver guidato tutti e tre i premium tedeschi.
+
+| Periodo | Ruolo | Azienda |
+|---------|-------|---------|
+| 1993-2000 | **CEO** | BMW |
+| 2002-2006 | **CEO** | Volkswagen |
+| 2014-2024 | **Chairman Supervisory** | Mercedes-Benz |
+
+Background: ingegnere meccanico TU Munich. Ha gestito per Mercedes lo spin-off di Daimler Truck (2021) e il rebrand da Daimler AG a Mercedes-Benz Group (2022).
+
+**Pattern**: Elite manageriale tedesca che ruota tra i top 3, portando know-how e network. Contrasto con le dinastie che restano fedeli a un solo gruppo.
+
 ---
 
 ## VI. Pattern Identificati
@@ -613,7 +669,20 @@ Geely ha acquisito piu' brand europei di qualsiasi altro gruppo:
 - Smart JV (Germania)
 - + stakes in Mercedes, Volvo AB
 
-### 5. Keiretsu vs Chaebol vs Holding
+### 5. Merger Transatlantici: Track Record Disastroso
+
+| Merger | Anno | Valore | Esito | Perdita |
+|--------|------|--------|-------|---------|
+| **DaimlerChrysler** | 1998 | $38B | Vendita 2007 | ~$30B |
+| Fiat-Chrysler | 2014 | - | Funziona → Stellantis | - |
+
+**DaimlerChrysler** (1998-2007): Jurgen Schrempp la definì "merger of equals" e "marriage made in heaven". Chrysler venduta a Cerberus per $6B. Daimler uscì completamente nel 2009.
+
+**Lezione**: Le fusioni transatlantiche nell'automotive raramente funzionano per differenze culturali, sindacali e di mercato.
+
+---
+
+### 6. Keiretsu vs Chaebol vs Holding
 
 | Modello | Paese | Controllo | Esempio |
 |---------|-------|-----------|---------|
@@ -731,7 +800,7 @@ I petrostati (PIF) investono in EV:
 | ID | Tipo | Status |
 |----|------|--------|
 | volkswagen | Automaker | Creato |
-| bmw | Automaker | Creato |
+| bmw | Automaker | Creato (+ scheda) |
 | ford-motor | Automaker | Creato |
 | toyota | Automaker | Creato |
 | hyundai-motor | Automaker | Creato |
@@ -742,24 +811,29 @@ I petrostati (PIF) investono in EV:
 | renault | Automaker | Creato |
 | tata-motors | Automaker | Creato |
 | jaguar-land-rover | Automaker | Creato |
-| mercedes-benz | Automaker | Creato |
+| mercedes-benz | Automaker | Creato (+ scheda) |
 | byd | Automaker | Creato |
 | tesla | Automaker | Creato |
+| baic | Automaker | Creato |
+| kuwait-investment-authority | SWF | Creato |
 
 ### Persone
 
 | ID | Ruolo | Status |
 |----|-------|--------|
 | wolfgang-porsche | Chair Porsche SE | Da creare |
-| stefan-quandt | Deputy Chair BMW | Da creare |
-| susanne-klatten | Board BMW | Da creare |
+| stefan-quandt | Deputy Chair BMW | Creato |
+| susanne-klatten | Board BMW | Creato |
 | bill-ford-jr | Exec Chair Ford | Da creare |
 | akio-toyoda | Chairman Toyota | Da creare |
-| chung-eui-sun | Chairman Hyundai | Da creare |
-| li-shufu | Chairman Geely | Creato |
+| chung-eui-sun | Chairman Hyundai | Creato |
+| li-shufu | Chairman Geely | Creato (+ scheda) |
 | carlos-tavares | Ex-CEO Stellantis | Creato |
 | peter-rawlinson | Ex-CEO Lucid, ex-Tesla | Creato |
-| henri-de-castries | Stellantis SID, Bilderberg Steering | Da creare |
+| henri-de-castries | Stellantis SID, Bilderberg Steering | Creato |
+| oliver-zipse | CEO BMW | Creato |
+| norbert-reithofer | Ex-CEO, Ex-Chairman BMW | Creato |
+| ola-kallenius | CEO Mercedes | Creato |
 
 ---
 
@@ -782,6 +856,13 @@ I petrostati (PIF) investono in EV:
 
 ### SWF
 - [CNBC - PIF Lucid Investment](https://www.cnbc.com/2024/03/25/lucid-stock-soars-as-ev-maker-gets-1-billion-from-saudi-pif-affiliate.html)
+- [Mercedes-Benz - KIA 40-year partnership](https://group-media.mercedes-benz.com/marsMediaSite/en/instance/ko/Daimler-and-the-Kuwait-Investment-Authority-celebrate-the-anniversary-of-their-40-year-partnership.xhtml?oid=9920098)
+
+### Leadership & Management
+- [Wikipedia - Bernd Pischetsrieder](https://en.wikipedia.org/wiki/Bernd_Pischetsrieder)
+- [Wikipedia - Ola Kallenius](https://en.wikipedia.org/wiki/Ola_K%C3%A4llenius)
+- [Wikipedia - Oliver Zipse](https://en.wikipedia.org/wiki/Oliver_Zipse)
+- [Mercedes-Benz Group - DaimlerChrysler history](https://group.mercedes-benz.com/company/tradition/company-history/1995-2007.html)
 
 ---
 

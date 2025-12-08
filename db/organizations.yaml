@@ -74,6 +74,13 @@ organizations:
     stakeholders:
     - person: gautam-adani
       role: chairman
+  adia:
+    name: Abu Dhabi Investment Authority
+    type: swf
+    founded: 1976
+    headquarters: Abu Dhabi, UAE
+    status: active
+    aum: $1.06T
   adl:
     name: Anti-Defamation League
     type: thinktank
@@ -661,6 +668,15 @@ organizations:
       share: 0.038
     - org: berkshire-hathaway
       role: stake
+  bank-of-china:
+    name: Bank of China
+    type: bank
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - org: temasek
+      role: shareholder
+      note: Chinese bank stake
   barclays:
     name: Barclays
     type: bank
@@ -1060,6 +1076,10 @@ organizations:
     - org: walmart
       role: stake
       share: 0.036
+    - org: kuwait-investment-authority
+      role: shareholder
+      share: 5.4%
+      note: Second largest shareholder
   blackstone:
     name: Blackstone
     type: privateequity
@@ -1086,6 +1106,10 @@ organizations:
     - org: pif-saudi
       role: investor
       note: Infrastructure investment $20B (2017)
+    - org: cic
+      role: lp
+      from: 2007
+      note: $3B initial investment
   blackwater:
     name: Blackwater USA
     type: company
@@ -1391,6 +1415,15 @@ organizations:
       role: chairman
       from: 2015
       note: Lead investor, fondi da Epstein
+  carlyle:
+    name: Carlyle Group
+    type: privateequity
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - org: cic
+      role: lp
+      note: LP in Carlyle funds
   carlyle-group:
     name: Carlyle Group
     type: privateequity
@@ -1755,6 +1788,13 @@ organizations:
       from: 1942
       to: 1947
       note: OSS sciolto 1945, personale e strutture trasferiti a CIA 1947
+  cic:
+    name: China Investment Corporation
+    type: swf
+    founded: 2007
+    headquarters: Beijing, China
+    status: active
+    aum: $1.33T
   citigroup:
     name: Citigroup
     type: bank
@@ -2787,6 +2827,13 @@ organizations:
     status: active
     sector: TV, entertainment
     note: Fuji TV flagship. First net loss FY2024 after scandal
+  future-fund-australia:
+    name: Future Fund
+    type: swf
+    founded: 2006
+    headquarters: Melbourne, Australia
+    status: active
+    aum: $225B
   g42:
     name: G42
     type: company
@@ -2798,10 +2845,6 @@ organizations:
     - person: sheikh-tahnoun-bin-zayed
       role: chairman
       from: 2018
-    - person: tahnoon-bin-zayed
-      role: chairman
-      from: 2018
-      note: Chairman and controlling shareholder
     - person: peng-xiao
       role: executive
       from: 2018
@@ -2824,6 +2867,17 @@ organizations:
       role: investor
       from: 2021
       note: $800M equity investment
+  gaslog:
+    name: GasLog Ltd
+    type: company
+    headquarters: Monaco
+    status: active
+    stakeholders:
+    - org: gic
+      role: shareholder
+      share: 45%
+      from: 2024
+      note: Acquired from BlackRock/GIP
   gates-foundation:
     name: Bill & Melinda Gates Foundation
     type: foundation
@@ -2896,6 +2950,13 @@ organizations:
     - person: li-shufu
       role: founder-chairman
       from: 1986
+  gic:
+    name: Government of Singapore Investment Corporation
+    type: swf
+    founded: 1981
+    headquarters: Singapore
+    status: active
+    aum: $800B
   giving-pledge:
     name: Giving Pledge
     type: foundation
@@ -2992,6 +3053,10 @@ organizations:
       role: partner
     - org: bce
       role: partner
+    - org: cic
+      role: partner
+      from: 2017
+      note: $2.5B fund partnership
   governo-australia:
     name: Government of Australia
     type: government
@@ -4420,6 +4485,7 @@ organizations:
     founded: 1953
     headquarters: Kuwait City, Kuwait
     status: active
+    aum: $1.03T
     note: Oldest SWF in the world
   la-repubblica:
     name: La Repubblica
@@ -4808,6 +4874,9 @@ organizations:
       share: 100.0
       from: 2024
       note: Fondo AI lanciato 2024, target $100B
+    - org: adia
+      role: investor
+      note: Abu Dhabi SWF ecosystem
   mi6:
     name: Secret Intelligence Service (MI6)
     type: agency
@@ -4987,19 +5056,20 @@ organizations:
     - org: paramount-global
       share: 100%
   mubadala:
-    name: Mubadala
+    name: Mubadala Investment Company
     type: swf
     founded: 2002
-    headquarters: Abu Dhabi
+    headquarters: Abu Dhabi, UAE
     status: active
+    aum: $330B
     stakeholders:
     - person: sheikh-tahnoun-bin-zayed
       role: board
       note: Oversight via government role
     - person: khaldoon-al-mubarak
       role: executive
-      from: 2018
-      note: Group CEO
+      from: 2002
+      note: Managing Director & Group CEO
     - org: governo-uae
       role: owner
       share: 100.0
@@ -6206,6 +6276,9 @@ organizations:
       role: executive
       from: 1999
       note: Co-CEO, Managing Partner, founding principal
+    - org: mubadala
+      role: investor
+      note: Minority equity stake
   sitra:
     name: Finnish Innovation Fund Sitra
     type: foundation
@@ -6508,6 +6581,7 @@ organizations:
     founded: 1974
     headquarters: Singapore
     status: active
+    aum: $324B
   tesla:
     name: Tesla
     type: automaker
