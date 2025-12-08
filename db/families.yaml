@@ -11,6 +11,9 @@ families:
       role: chairman-fiat
     - person: john-elkann
       generation: 4
+      role: heir
+    - person: john-elkann
+      generation: 4
       role: ceo-exor
     - person: giovanni-agnelli-sr
       generation: 1
@@ -104,6 +107,17 @@ families:
       role: governor-florida
     - person: george-p-bush
       generation: 5
+  chung:
+    origin: South Korea
+    founder: Chung Ju-yung
+    sector: automotive, construction, shipping
+    generations: 3
+    status: active
+    note: Controls Hyundai Motor Group via chaebol cross-shareholding
+    members:
+    - person: chung-eui-sun
+      generation: 3
+      role: chairman
   dupont:
     origin: Francia/USA
     founder: E.I. du Pont
@@ -139,6 +153,17 @@ families:
     - person: larry-ellison
       generation: 1
       role: founder
+  ford-family:
+    origin: USA
+    founder: Henry Ford
+    sector: automotive
+    generations: 5
+    status: active
+    note: Controls Ford Motor via Class B shares (2% equity = 40% voting)
+    members:
+    - person: bill-ford-jr
+      generation: 4
+      role: chairman
   jiang-zemin:
     origin: China
     founder: jiang-zemin
@@ -249,13 +274,29 @@ families:
     - person: ag-sulzberger
       generation: 5
       role: publisher
-  porsche-piech:
-    origin: Austria/Germania
-    founder: Ferdinand Porsche
-    sector: auto
+  peugeot:
+    origin: France
+    founder: Armand Peugeot
+    sector: automotive
+    generations: 7
     status: active
+    note: Minor shareholder in Stellantis (7.7% equity, 11.9% voting)
+    members:
+    - person: robert-peugeot
+      generation: 6
+      role: chairman
+  porsche-piech:
+    origin: Germany/Austria
+    founder: Ferdinand Porsche
+    sector: automotive
+    generations: 4
+    status: active
+    note: Controls Volkswagen via Porsche SE (53.3% voting rights)
     members:
     - person: ferdinand-piech
+    - person: wolfgang-porsche
+      generation: 3
+      role: chairman
     - person: wolfgang-porsche
     - person: hans-michel-piech
     - person: ferdinand-porsche
@@ -267,6 +308,20 @@ families:
     members:
     - person: penny-pritzker
       generation: 3
+  quandt:
+    origin: Germany
+    founder: Günther Quandt
+    sector: automotive, chemicals
+    generations: 3
+    status: active
+    note: Controls BMW (46.8% stake). Richest family in Germany.
+    members:
+    - person: stefan-quandt
+      generation: 3
+      role: heir
+    - person: susanne-klatten
+      generation: 3
+      role: heir
   roberts:
     origin: USA
     sector: media, telecom
@@ -349,6 +404,28 @@ families:
     - person: alexandre-de-rothschild
       generation: 7
       role: exec-chairman
+  tata:
+    origin: India
+    founder: Jamsetji Tata
+    sector: conglomerate
+    generations: 5
+    status: active
+    note: Controls Tata Motors/JLR via Tata Sons trust structure
+    members:
+    - person: ratan-tata
+      generation: 4
+      role: patriarch
+  toyoda:
+    origin: Japan
+    founder: Sakichi Toyoda
+    sector: automotive
+    generations: 4
+    status: active
+    note: Influence via keiretsu structure, less than 2% direct ownership
+    members:
+    - person: akio-toyoda
+      generation: 4
+      role: chairman
   wallenberg:
     origin: Svezia
     founder: andre-oscar-wallenberg

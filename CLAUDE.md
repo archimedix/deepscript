@@ -59,6 +59,7 @@ deepscript/
 │   ├── company/           # Aziende
 │   ├── agency/            # Agenzie internazionali
 │   ├── sports-club/       # Club sportivi
+│   ├── automaker/         # Case automobilistiche
 │   ├── family/            # Dinastie
 │   ├── events/            # Eventi storici
 │   └── media/             # Media
@@ -91,6 +92,7 @@ docs/{cartella}/{id}.md
 | Organization:Company | `docs/company/` |
 | Organization:Agency | `docs/agency/` |
 | Organization:SportsClub | `docs/sports-club/` |
+| Organization:Automaker | `docs/automaker/` |
 | Organization:Media | `docs/media/` |
 
 ---
@@ -191,6 +193,7 @@ RETURN path
 | Company | Apple, Tesla, CFG, FSG |
 | Agency | FMI, ONU, NATO, FIFA, IOC |
 | SportsClub | PSG, Manchester City, AC Milan |
+| Automaker | BMW, Toyota, Stellantis, Geely |
 | Media | Washington Post, Economist |
 
 ### Relationships

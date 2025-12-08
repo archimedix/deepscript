@@ -496,6 +496,18 @@ organizations:
       to: 2007
     - org: volkswagen
       role: subsidiary
+  axa:
+    name: AXA
+    type: company
+    headquarters: Paris
+    status: active
+    sector: insurance
+    stakeholders:
+    - person: henri-de-castries
+      role: executive
+      from: 2000
+      to: 2016
+      note: CEO
   axel-springer:
     name: Axel Springer SE
     type: media
@@ -518,6 +530,13 @@ organizations:
       from: 2020
       to: 2025
       note: Take-private €6.8B, exit 2025 €13.5B
+  baic:
+    name: BAIC Group
+    type: automaker
+    founded: 1958
+    headquarters: Beijing, China
+    status: active
+    note: State-owned. JV with Mercedes (Beijing Benz)
   bain-capital:
     name: Bain Capital
     type: privateequity
@@ -868,6 +887,11 @@ organizations:
     - person: john-elkann
       role: steering
       from: 2015
+    - person: john-elkann
+      role: board
+      from: 2012
+      to: 2020
+      note: Regular participant
     - person: tony-blair
       role: member
     - person: emmanuel-macron
@@ -955,6 +979,9 @@ organizations:
       role: steering
       from: 2018
       note: Steering Committee, participant since 2007
+    - person: henri-de-castries
+      role: steering
+      note: Steering Committee
     - org: trilaterale
       role: partner
   bipartisan-policy-center:
@@ -1092,6 +1119,32 @@ organizations:
     - person: jeff-bezos
       role: founder
       from: 2000
+  bmw:
+    name: BMW Group
+    type: automaker
+    founded: 1916
+    headquarters: Munich, Germany
+    status: active
+    sector: automotive
+    note: 'Controlled by Quandt family (46.8%). Brands: BMW, MINI, Rolls-Royce'
+    stakeholders:
+    - person: stefan-quandt
+      role: deputy-chairman
+      from: 1999
+      note: Owns 26.8%
+    - person: susanne-klatten
+      role: board
+      from: 1997
+      note: Owns 19.1%
+    - person: oliver-zipse
+      role: executive
+      from: 2019
+      note: Chairman of the Board of Management (CEO)
+    - person: norbert-reithofer
+      role: chairman
+      from: 2015
+      to: 2025
+      note: Chairman Supervisory Board (CEO 2006-2015)
   bollore-group:
     name: Bollore Group
     type: company
@@ -1170,6 +1223,11 @@ organizations:
       role: chairman
       from: 2003
       to: 2009
+  bpifrance:
+    name: Bpifrance
+    type: bank
+    headquarters: Paris, France
+    note: French state investment bank
   breakthrough-energy:
     name: Breakthrough Energy
     type: foundation
@@ -1265,6 +1323,19 @@ organizations:
     stakeholders:
     - person: mark-zuckerberg
       role: member
+  byd:
+    name: BYD Company
+    type: automaker
+    founded: 1995
+    headquarters: Shenzhen, China
+    status: active
+    sector: automotive, EV, batteries
+    note: Wang Chuanfu 17%. Berkshire exited 2024. Largest EV maker.
+    stakeholders:
+    - person: wang-chuanfu
+      role: founder-chairman-ceo
+      from: 1995
+      note: Owns 17%
   c8:
     name: C8
     type: media
@@ -2386,6 +2457,9 @@ organizations:
     - person: john-elkann
       role: chairman
       from: 2010
+    - person: john-elkann
+      role: ceo
+      from: 2010
   exxon-mobil:
     name: ExxonMobil
     type: company
@@ -2486,7 +2560,7 @@ organizations:
       note: $750M deal
   fiat:
     name: FIAT
-    type: company
+    type: automaker
     headquarters: Torino
     status: active
     stakeholders:
@@ -2629,6 +2703,18 @@ organizations:
       role: partner
     - org: banca-mondiale
       role: partner
+  ford-motor:
+    name: Ford Motor Company
+    type: automaker
+    founded: 1903
+    headquarters: Dearborn, Michigan, USA
+    status: active
+    sector: automotive
+    note: Ford family controls 40% voting via Class B shares
+    stakeholders:
+    - person: bill-ford-jr
+      role: executive-chairman
+      from: 1999
   founders-fund:
     name: Founders Fund
     type: privateequity
@@ -2798,6 +2884,18 @@ organizations:
     - person: john-elkann
       role: owner
       from: 2020
+  geely:
+    name: Zhejiang Geely Holding Group
+    type: automaker
+    founded: 1986
+    headquarters: Hangzhou, China
+    status: active
+    sector: automotive
+    note: Li Shufu. Owns Volvo, 10% Mercedes, Lotus, Polestar
+    stakeholders:
+    - person: li-shufu
+      role: founder-chairman
+      from: 1986
   giving-pledge:
     name: Giving Pledge
     type: foundation
@@ -3005,9 +3103,9 @@ organizations:
       to: 2014
       note: Finance
   governo-francia:
-    name: Governo Francia
+    name: French Government
     type: government
-    headquarters: Parigi
+    headquarters: Paris, France
     status: active
     stakeholders:
     - person: emmanuel-macron
@@ -3879,6 +3977,18 @@ organizations:
     - org: walt-disney
       share: 100%
       from: 2024
+  hyundai-motor:
+    name: Hyundai Motor Group
+    type: automaker
+    founded: 1967
+    headquarters: Seoul, South Korea
+    status: active
+    sector: automotive
+    note: Includes Kia. Chung family chaebol.
+    stakeholders:
+    - person: chung-eui-sun
+      role: executive-chairman
+      from: 2020
   icc:
     name: International Chamber of Commerce
     type: forum
@@ -4076,6 +4186,20 @@ organizations:
     - person: enrico-letta
       role: chairman
       from: 2016
+  jaguar-land-rover:
+    name: Jaguar Land Rover
+    type: automaker
+    founded: 2008
+    headquarters: Coventry, UK
+    status: active
+    sector: automotive, luxury
+    note: 100% owned by Tata Motors since 2008 ($2.3B from Ford)
+    stakeholders:
+    - org: tata-motors
+      role: owner
+      share: 100%
+      from: 2008
+      note: $2.3B from Ford
   jfrog:
     type: company
     founded: 2008
@@ -4290,6 +4414,13 @@ organizations:
       to: 1914
     - person: felix-warburg
       role: partner
+  kuwait-investment-authority:
+    name: Kuwait Investment Authority
+    type: swf
+    founded: 1953
+    headquarters: Kuwait City, Kuwait
+    status: active
+    note: Oldest SWF in the world
   la-repubblica:
     name: La Repubblica
     type: media
@@ -4465,6 +4596,30 @@ organizations:
     - person: patrick-soon-shiong
       role: owner
       from: 2018
+  lower-saxony:
+    name: State of Lower Saxony
+    type: government
+    headquarters: Hanover, Germany
+    note: German federal state. Owns VW via Volkswagen Law.
+  lucid-motors:
+    name: Lucid Motors
+    type: automaker
+    founded: 2007
+    headquarters: Newark, California, USA
+    status: active
+    sector: automotive, EV
+    note: Premium EV maker. PIF Saudi ~60%. Factory in Saudi Arabia (AMP-2).
+    stakeholders:
+    - person: peter-rawlinson
+      role: executive
+      from: 2016
+      to: 2025
+      note: CTO 2016, CEO 2019-2025
+    - org: pif-saudi
+      role: controlling
+      share: 60%
+      from: 2018
+      note: $8B+ invested
   lvmh:
     name: LVMH Moët Hennessy Louis Vuitton
     type: company
@@ -4568,6 +4723,32 @@ organizations:
     - org: fininvest
       share: 48%
       note: controlling
+  mercedes-benz:
+    name: Mercedes-Benz Group AG
+    type: automaker
+    founded: 1926
+    headquarters: Stuttgart, Germany
+    status: active
+    sector: automotive, luxury
+    note: 'No majority shareholder. Top: BAIC 9.98%, Li Shufu/Geely 9.69%, KIA 4.97%'
+    stakeholders:
+    - person: ola-kallenius
+      role: executive
+      from: 2019
+      note: Chairman of the Board of Management (CEO)
+    - org: geely
+      role: largest-individual
+      share: ~10%
+      from: 2018
+      note: $9B investment
+    - org: baic
+      share: 9.98%
+      from: 2019
+      note: Largest single shareholder since 2021
+    - org: kuwait-investment-authority
+      share: 4.97%
+      from: 1974
+      note: Shareholder since 1974, reduced from 14%
   meta:
     name: Meta Platforms (Facebook, Instagram)
     type: media
@@ -5516,11 +5697,13 @@ organizations:
       role: subsidiary
       share: 0.75
   porsche-se:
-    name: Porsche SE
-    type: company
+    name: Porsche Automobil Holding SE
+    type: automaker
     founded: 2007
-    headquarters: Stoccarda
+    headquarters: Stuttgart, Germany
     status: active
+    sector: holding
+    note: Porsche-Piech family vehicle. 53.3% VW voting rights
     stakeholders:
     - person: hans-dieter-poetsch
       role: chairman
@@ -5529,6 +5712,9 @@ organizations:
       to: 2015
     - person: wolfgang-porsche
       role: chairman
+    - person: wolfgang-porsche
+      role: chairman
+      from: 2007
     - person: hans-michel-piech
       role: board
     - org: volkswagen
@@ -5753,6 +5939,19 @@ organizations:
     stakeholders:
     - person: mukesh-ambani
       role: chairman
+  renault:
+    name: Renault Group
+    type: automaker
+    founded: 1899
+    headquarters: Boulogne-Billancourt, France
+    status: active
+    sector: automotive
+    note: French state owns 15% (30% voting). Alliance with Nissan.
+    stakeholders:
+    - org: governo-francia
+      role: strategic
+      share: 15% equity, ~30% voting
+      note: Double voting rights
   repubblica:
     name: La Repubblica
     type: media
@@ -6189,13 +6388,36 @@ organizations:
       role: stake
       share: 0.023
   stellantis:
-    name: Stellantis
-    type: company
-    headquarters: Amsterdam
+    name: Stellantis N.V.
+    type: automaker
+    founded: 2021
+    headquarters: Hoofddorp, Netherlands
     status: active
+    sector: automotive
+    note: FCA + PSA merger. 14 brands. Exor 15.5%, Peugeot 7.7%, BPI France 6.9%
     stakeholders:
     - person: john-elkann
       role: chairman
+      from: 2021
+    - person: carlos-tavares
+      role: ceo
+      from: 2021
+      to: 2024
+      note: Resigned December 2024
+    - person: robert-peugeot
+      role: board
+      from: 2021
+    - person: henri-de-castries
+      role: board
+      from: 2021
+      note: Senior Independent Director
+    - org: exor
+      role: largest-shareholder
+      share: 14.2%
+      from: 2021
+    - org: bpifrance
+      role: strategic
+      share: 6%
       from: 2021
   sullivan-cromwell:
     name: Sullivan & Cromwell
@@ -6224,6 +6446,19 @@ organizations:
     - person: john-scarlett
       role: advisor
       note: Advisory Board
+  tata-motors:
+    name: Tata Motors
+    type: automaker
+    founded: 1945
+    headquarters: Mumbai, India
+    status: active
+    sector: automotive
+    note: Tata Sons 35.8%. Owns Jaguar Land Rover.
+    stakeholders:
+    - person: ratan-tata
+      role: chairman
+      from: 1991
+      to: 2012
   tbs:
     name: TBS
     type: media
@@ -6275,7 +6510,7 @@ organizations:
     status: active
   tesla:
     name: Tesla
-    type: company
+    type: automaker
     founded: 2003
     headquarters: Austin, USA
     status: active
@@ -6287,10 +6522,19 @@ organizations:
     - person: elon-musk
       role: ceo
       from: 2008
+    - person: elon-musk
+      role: ceo
+      from: 2008
+      note: Owns 13%
     - person: larry-ellison
       role: board
       from: 2018
       to: 2022
+    - person: peter-rawlinson
+      role: executive
+      from: 2009
+      to: 2012
+      note: Chief Engineer Model S
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -6497,6 +6741,19 @@ organizations:
       role: funder
       from: 2021
       note: 257m-gbp
+  toyota:
+    name: Toyota Motor Corporation
+    type: automaker
+    founded: 1937
+    headquarters: Toyota City, Japan
+    status: active
+    sector: automotive
+    note: Largest automaker by volume (9.4M units 2024)
+    stakeholders:
+    - person: akio-toyoda
+      role: chairman
+      from: 2023
+      note: CEO 2009-2023
   trilateral-commission:
     name: Trilateral Commission
     type: forum
@@ -6763,7 +7020,7 @@ organizations:
       from: 2012
   volkswagen:
     name: Volkswagen
-    type: company
+    type: automaker
     founded: 1937
     headquarters: Wolfsburg
     status: active
@@ -6799,6 +7056,9 @@ organizations:
       to: 2015
     - person: wolfgang-porsche
       role: board
+    - person: wolfgang-porsche
+      role: board
+      from: 2008
     - person: hans-michel-piech
       role: board
     - person: stephan-weil
@@ -6811,6 +7071,14 @@ organizations:
     - org: qia
       role: stake
       share: 0.17
+    - org: qia
+      role: strategic
+      share: 17%
+      note: 2 board seats
+    - org: porsche-se
+      role: controlling
+      share: 31.9% equity, 53.3% voting
+      from: 2012
     - org: porsche-se
       role: subsidiary
       share: 0.533
@@ -6820,6 +7088,24 @@ organizations:
     - org: bassa-sassonia
       role: stake
       share: 0.2
+    - org: lower-saxony
+      role: blocking-minority
+      share: 11.8% equity, 20% voting
+      note: Volkswagen Law 1960
+  volvo-cars:
+    name: Volvo Cars
+    type: automaker
+    founded: 1927
+    headquarters: Gothenburg, Sweden
+    status: active
+    sector: automotive
+    note: 100% owned by Geely since 2010 ($1.8B from Ford)
+    stakeholders:
+    - org: geely
+      role: owner
+      share: 100%
+      from: 2010
+      note: $1.8B from Ford
   wall-street-journal:
     name: The Wall Street Journal
     type: media
