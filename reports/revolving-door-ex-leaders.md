@@ -2,11 +2,16 @@
 
 ## Panoramica
 
-Questo report analizza i pattern di "revolving door" - il passaggio di ex-capi di governo e alti funzionari verso posizioni nel settore privato, in particolare:
+Questo report analizza i pattern di "revolving door" - il passaggio di ex-capi di governo e alti funzionari verso posizioni nel settore privato, e viceversa:
+
+**Governo → Privato:**
 - Banche d'affari (Goldman Sachs, JPMorgan)
 - Think tank (Tony Blair Institute)
 - Aziende energetiche (Rosneft, Nord Stream)
 - Media (News Corporation)
+
+**Privato → Governo (Reverse Revolving Door):**
+- Asset manager (BlackRock → Cancelleria Germania)
 
 ---
 
@@ -158,6 +163,170 @@ Tony Blair ha dichiarato a Vanity Fair (2015) che Henry Kissinger è il suo "rol
 
 ---
 
+## Princeling Capitalism: Il Revolving Door Cinese
+
+Il modello cinese di "revolving door" opera diversamente: non e' l'ex-funzionario che va nel privato, ma la **generazione successiva** che converte il capitale politico familiare in capitale finanziario.
+
+### Il Pattern
+
+```
+ELITE POLITICA CINESE (Gen 1-2)
+        │
+        │ Potere politico, network, protezione
+        │
+        ▼
+    FIGLI/NIPOTI (Gen 2-3)
+        │
+        │ Educazione occidentale (Harvard, Wharton)
+        │ Stage in Goldman Sachs, Morgan Stanley
+        │
+        ▼
+    FONDAZIONE PE/VC
+        │
+        │ Deal flow garantito (SOE, tech unicorns)
+        │ LP occidentali e asiatici
+        │
+        ▼
+    RICCHEZZA PERMANENTE
+    (indipendente da ciclo politico)
+```
+
+### Caso Studio: Boyu Capital (Alvin Jiang)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondatore** | Alvin Jiang (江志成) |
+| **Parentela** | Nipote di Jiang Zemin (Presidente PRC 1993-2003) |
+| **Eta' fondazione** | 24 anni (2010) |
+| **AUM** | $10B+ |
+| **Sede** | Hong Kong |
+
+**Background Alvin Jiang**:
+1. Figlio di Jiang Mianheng (figlio di Jiang Zemin, tech executive)
+2. Laurea Harvard
+3. Goldman Sachs (Hong Kong) - analyst
+4. 2010: Fonda Boyu Capital
+
+**Investitori Boyu Capital**:
+
+| LP | Tipo | Note |
+|----|------|------|
+| Temasek | SWF Singapore | Anchor investor |
+| Li Ka-shing | Famiglia HK | Richest man Asia |
+| Goldman Sachs | Bank | Co-investor |
+| Institutional | Vari | Post-track record |
+
+**Deal notevoli**:
+
+| Target | Settore | Note |
+|--------|---------|------|
+| Alibaba | E-commerce | Pre-IPO, massivo return |
+| Tencent | Tech | Varie tranche |
+| Ant Financial | Fintech | Pre-IPO |
+| Focus Media | Advertising | Privatizzazione |
+
+**Implicazione**: Un ventiquattrenne senza track record ottiene $3B per il primo fondo perche' e' nipote dell'ex-presidente. I deal flow (Alibaba pre-IPO) sono accessibili grazie al network familiare.
+
+### Altri Princelings nel PE/Finance
+
+| Nome | Parentela | Veicolo | Note |
+|------|-----------|---------|------|
+| Alvin Jiang | Nipote Jiang Zemin | Boyu Capital | $10B+ AUM |
+| Winston Wen | Figlio Wen Jiabao | New Horizon Capital | Ex-PM 2003-2013 |
+| Li Xiaopeng | Figlio Li Peng | - | Ex-PM, settore energia |
+| Deng Jiagui | Cognato Xi Jinping | - | Real estate, mining |
+
+### Differenze con Revolving Door Occidentale
+
+| Aspetto | Modello Occidentale | Modello Cinese |
+|---------|---------------------|----------------|
+| **Chi** | Ex-funzionario stesso | Generazione successiva |
+| **Timing** | Post-governo | Durante/dopo governo del parente |
+| **Veicolo** | Advisory, board seat | PE/VC fund |
+| **Legittimazione** | Expertise settoriale | Network familiare |
+| **Cooling-off** | Formalmente richiesto | Non applicabile |
+| **Scrutinio** | Pubblico (media) | Limitato (censura) |
+
+### Pattern: Educazione Occidentale come Ponte
+
+```
+CINA (potere)          OCCIDENTE (capitale)
+     │                        │
+     │    Harvard/Wharton     │
+     │    Goldman/Morgan      │
+     └────────┬───────────────┘
+              │
+              ▼
+         PE/VC FUND
+         (Hong Kong)
+              │
+              ▼
+     ┌────────┴────────┐
+     │                 │
+     ▼                 ▼
+ Deal cinesi      LP occidentali
+ (Alibaba, etc)   (Temasek, etc)
+```
+
+Le business school e banche d'affari occidentali fungono da "lavatrice" che trasforma capitale politico cinese in credenziali finanziarie legittime.
+
+---
+
+## Reverse Revolving Door: Dal Privato al Governo
+
+Il pattern inverso: executive del settore finanziario/corporate che accedono al vertice politico.
+
+### Caso 5: Friedrich Merz (BlackRock → Cancelleria)
+
+| Anno | Posizione |
+|------|-----------|
+| 1989-1994 | Europarlamentare |
+| 1994-2009 | Deputato Bundestag, capogruppo CDU/CSU |
+| 2002 | Estromesso da Angela Merkel |
+| 2004-2016 | Senior Counsel, Mayer Brown (M&A, banking) |
+| 2009-2019 | **Chairman Atlantik-Brucke** |
+| 2016-2020 | **Chairman Supervisory Board BlackRock Germany** |
+| 2009-2020 | Board: HSBC, AXA, Deutsche Borse, BASF, Bayer, Airbus, Commerzbank, Stadler Rail |
+| 2022 | Leader CDU |
+| 2024 | Partecipante Bilderberg |
+| 2025 | Speaker WEF Davos |
+| 2025 | **Cancelliere Germania** |
+
+**Pattern inverso**: 11 anni nel mondo corporate (2009-2020), poi ritorno al vertice politico.
+
+**Primo Cancelliere tedesco**:
+- Proveniente direttamente dal mondo finanziario globale (BlackRock)
+- Chairman di un think tank atlantista (Atlantik-Brucke)
+- Con partecipazione a Bilderberg e WEF
+
+**Confronto con Schröder**:
+
+| Aspetto | Schröder | Merz |
+|---------|----------|------|
+| Direzione | Governo → Privato | Privato → Governo |
+| Settore | Energia russa | Finanza USA/globale |
+| Timing | Immediato post-governo | 11 anni nel privato |
+| Allineamento | Russia | USA/Atlantismo |
+
+**Network Merz**:
+```
+BlackRock (Larry Fink)
+        │
+        ├── Chairman Germany 2016-2020
+        │
+Atlantik-Brucke
+        │
+        ├── Chairman 2009-2019
+        │
+        ▼
+   CANCELLERIA 2025
+        │
+        ├── Bilderberg 2024
+        └── WEF Davos 2025
+```
+
+---
+
 ## Pattern Identificati
 
 ### 1. YGL → Governo → Network Post-Politico
@@ -267,26 +436,40 @@ Chairman        Member     Vice-Chair   Member        Member
 
 5. **Cooling-off inefficace**: Le regole esistenti sono sistematicamente aggirate o ignorate
 
+6. **Reverse revolving door**: Nuova tendenza - executive finanziari (BlackRock) che accedono direttamente al vertice politico (Merz 2025)
+
+7. **Princeling capitalism (Cina)**: Modello alternativo - la generazione successiva converte capitale politico in PE/VC, con educazione occidentale come ponte di legittimazione (Boyu Capital, New Horizon)
+
 ### Il Network
 
 ```
-WEF (YGL) ──seleziona──→ Futuri Leader
+                         ┌─────────────────────────────────┐
+                         │     REVERSE REVOLVING DOOR      │
+                         │  BlackRock/Corporate → Governo  │
+                         │         (Merz 2025)             │
+                         └───────────────┬─────────────────┘
+                                         │
+WEF (YGL) ──seleziona──→ Futuri Leader ←─┘
                               │
                               ↓
                          Governo
                               │
-                              ↓
-                    ┌─────────┴─────────┐
-                    │                   │
-                    ↓                   ↓
-            Goldman Sachs            TBI
-            (UE leaders)        (UK/YGL leaders)
-                    │                   │
-                    └─────────┬─────────┘
-                              │
-                              ↓
-                      JPMorgan Council
-                      (hub finale)
+         ┌────────────────────┼────────────────────┐
+         │                    │                    │
+         ↓                    ↓                    ↓
+   Goldman Sachs            TBI              PRINCELING
+   (UE leaders)        (UK/YGL leaders)     CAPITALISM
+         │                    │              (Cina)
+         │                    │                 │
+         └─────────┬──────────┘                 │
+                   │                            │
+                   ↓                            ↓
+           JPMorgan Council              PE/VC Funds
+           (hub finale)              (Boyu, New Horizon)
+                                            │
+                                            ↓
+                                    LP Occidentali
+                                  (Temasek, Goldman)
 ```
 
 ---
@@ -300,7 +483,10 @@ WEF (YGL) ──seleziona──→ Futuri Leader
 - [Wikipedia - Peter Sutherland](https://en.wikipedia.org/wiki/Peter_Sutherland)
 - [Wikipedia - Gerhard Schröder](https://en.wikipedia.org/wiki/Gerhard_Schröder)
 - [Middle East Eye - Blair Saudi](https://www.middleeasteye.net/news/blair-advising-saudis-under-12m-deal-his-institute-report)
+- [Wikipedia - Friedrich Merz](https://en.wikipedia.org/wiki/Friedrich_Merz)
+- [Atlantik-Brucke - Chairmen](https://www.atlantik-bruecke.org/en/chairmen-of-atlantik-brucke-since-1952/)
+- [Bundeskanzler.de - Friedrich Merz](https://www.bundeskanzler.de/bk-en/federal-chancellery/federal-chancellors-since-1949/friedrich-merz)
 
 ---
 
-*Report generato da query Neo4j - Dicembre 2025*
+*Report aggiornato: 8 Dicembre 2025 - Aggiunto Princeling Capitalism (Boyu Capital, pattern cinese)*

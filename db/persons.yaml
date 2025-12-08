@@ -194,6 +194,19 @@ persons:
     relations:
     - person: john-foster-dulles
       type: brother
+  alvin-jiang:
+    born: 1986
+    nationality: CHN
+    affiliations:
+    - org: goldman-sachs
+      role: analyst
+      from: 2009
+      to: 2010
+      note: Private Equity unit, Hong Kong
+    - org: boyu-capital
+      role: founder
+      from: 2010
+      note: Founding Partner, grandson of Jiang Zemin
   andre-oscar-wallenberg:
     born: 1816
     died: 1886
@@ -537,6 +550,13 @@ persons:
       role: chairman
       from: 1978
       to: 2023
+  christian-sinding:
+    nationality: NOR
+    affiliations:
+    - org: eqt
+      role: executive
+      from: 1998
+      note: CEO 2019-2025, now Chair EQT Council
   christine-lagarde:
     born: 1956
     nationality: FRA
@@ -615,6 +635,29 @@ persons:
       role: board
       from: 1991
       to: 1997
+  conni-jonsson:
+    born: 1959
+    nationality: SWE
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Participant 2025
+    - org: investor-ab
+      role: executive
+      from: 1987
+      to: 1994
+      note: Executive Vice President, Wallenberg family holding
+    - org: eqt
+      role: founder
+      from: 1994
+      note: Founder, Chairperson
+  daniel-daniello:
+    born: 1946
+    nationality: USA
+    affiliations:
+    - org: carlyle-group
+      role: founder
+      from: 1987
   daniel-ellsberg:
     born: 1931
     died: 2023
@@ -704,7 +747,7 @@ persons:
     - org: kkr
       role: partner
       from: 2013
-      note: Chairman KKR Global Institute, Chairman Middle East
+      note: Chairman KKR Global Institute, Chairman KKR Middle East
   david-rockefeller:
     born: 1915
     died: 2017
@@ -740,13 +783,36 @@ persons:
     born: 1949
     nationality: USA
     affiliations:
+    - org: bilderberg
+      role: member
+      note: Participant 2017
+    - org: wef
+      role: board
+      note: Board of Trustees
+    - org: cfr
+      role: chairman
+      from: 2017
     - org: carlyle-group
       role: chairman
+    - org: carlyle-group
+      role: founder
+      from: 1987
     - org: fii-saudi
+      role: member
+      note: Speaker FII8
+    - org: trilateral-commission
       role: member
   dick-cheney:
     born: 1941
     nationality: USA
+  donald-mackenzie:
+    nationality: GBR
+    affiliations:
+    - org: cvc-capital-partners
+      role: founder
+      from: 1993
+      to: 2024
+      note: Co-Founder, Co-Chairman, stepped back 2024
   donald-rumsfeld:
     born: 1932
     died: 2021
@@ -1110,6 +1176,20 @@ persons:
       role: executive
       from: 1973
       to: 1977
+  frank-carlucci:
+    born: 1930
+    died: 2018
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 1987
+      to: 1989
+      note: Secretary of Defense (Reagan)
+    - org: carlyle-group
+      role: chairman
+      from: 1992
+      to: 2003
   frank-wisner:
     born: 1909
     died: 1965
@@ -1167,6 +1247,23 @@ persons:
       role: executive
       from: 1989
       to: 1993
+  gary-cohn:
+    born: 1960
+    nationality: USA
+    affiliations:
+    - org: goldman-sachs
+      role: executive
+      to: 2017
+      note: President & COO
+    - org: governo-usa
+      role: advisor
+      from: 2017
+      to: 2018
+      note: Director NEC, Chief Economic Advisor Trump
+    - org: apollo-global
+      role: board
+      from: 2025
+      note: Lead Independent Director
   gaston-thorn:
     born: 1928
     died: 2007
@@ -1202,6 +1299,14 @@ persons:
     born: 1976
     nationality: USA
     family: bush
+  george-roberts:
+    born: 1943
+    nationality: USA
+    affiliations:
+    - org: kkr
+      role: founder
+      from: 1976
+      note: Co-Founder, Co-Executive Chairman
   george-soros:
     born: 1930
     nationality: USA
@@ -1488,6 +1593,21 @@ persons:
       from: 1973
     - org: jpmorgan-international-council
       role: member
+  henry-kravis:
+    born: 1944
+    nationality: USA
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Participant 2008
+    - org: wef
+      role: member
+    - org: cfr
+      role: member
+    - org: kkr
+      role: founder
+      from: 1976
+      note: Co-Founder, Co-Executive Chairman
   henry-paulson:
     born: 1946
     nationality: USA
@@ -1639,6 +1759,9 @@ persons:
       role: board
     - org: ert
       role: member
+    - org: eqt
+      role: board
+      note: Chair Nomination Committee (for Investor AB)
     relations:
     - person: david-rockefeller
       type: associate
@@ -1706,6 +1829,16 @@ persons:
       note: Amico, poi rivelato spia sovietica (1963)
     - person: william-colby
       type: rival
+  james-baker:
+    born: 1930
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      note: Secretary of State (Bush Sr), Secretary of Treasury (Reagan)
+    - org: carlyle-group
+      role: advisor
+      note: Senior Counsellor, Asia/Europe Advisory Boards
   james-mayer-rothschild:
     born: 1792
     died: 1868
@@ -1820,6 +1953,13 @@ persons:
       role: executive
       from: 2014
       to: 2019
+  jean-eric-salata:
+    nationality: USA
+    affiliations:
+    - org: eqt
+      role: chairman
+      from: 2022
+      note: Chair EQT Asia, Chairman dal 2026 (founder Baring PE Asia)
   jean-rey:
     born: 1902
     died: 1983
@@ -1880,6 +2020,12 @@ persons:
       role: partner
       from: 1997
       to: 2005
+  jiang-mianheng:
+    nationality: CHN
+  jiang-zemin:
+    born: 1926
+    died: 2022
+    nationality: CHN
   jim-walton:
     born: 1948
     nationality: USA
@@ -2046,6 +2192,14 @@ persons:
     - org: equinor
       role: chairman
       note: Strategy Advisory Council
+  jon-gray:
+    born: 1969
+    nationality: USA
+    affiliations:
+    - org: blackstone
+      role: executive
+      from: 2018
+      note: President & COO
   jonathan-greenblatt:
     born: 1971
     nationality: USA
@@ -2057,6 +2211,13 @@ persons:
       role: founder
       from: 2002
       to: 2005
+  jonathan-lavine:
+    nationality: USA
+    affiliations:
+    - org: bain-capital
+      role: chairman
+      from: 2024
+      note: Chair (2024), Co-Managing Partner 2016-2024, founded Credit 1998
   jose-barroso:
     born: 1956
     nationality: PRT
@@ -2120,6 +2281,29 @@ persons:
     - person: rupert-murdoch
       type: professional
       note: board-news-corp
+  joseph-bae:
+    nationality: USA
+    affiliations:
+    - org: kkr
+      role: executive
+      from: 2021
+      note: Co-CEO
+  joshua-bekenstein:
+    nationality: USA
+    affiliations:
+    - org: bain-capital
+      role: partner
+      from: 1984
+      note: Founding partner, Co-Chairman 2016-2023
+  joshua-harris:
+    born: 1964
+    nationality: USA
+    affiliations:
+    - org: apollo-global
+      role: founder
+      from: 1990
+      to: 2021
+      note: Co-Founder. Left for sports investments
   jozef-retinger:
     born: 1888
     died: 1960
@@ -2440,6 +2624,15 @@ persons:
       role: leader
       from: 2022
       to: 2024
+  leon-black:
+    born: 1951
+    nationality: USA
+    affiliations:
+    - org: apollo-global
+      role: founder
+      from: 1990
+      to: 2021
+      note: Co-Founder, ex-CEO/Chairman. Resigned Epstein scandal
   leon-panetta:
     born: 1938
     nationality: USA
@@ -2476,6 +2669,13 @@ persons:
       role: executive
       from: 1980
       to: 1991
+  li-ka-shing:
+    born: 1928
+    nationality: HKG
+    affiliations:
+    - org: boyu-capital
+      role: investor
+      note: Early investor via Li Ka Shing Foundation, helped raise $1B first fund
   liad-avraham:
     nationality: ISR
     note: Paragon VP Research
@@ -2508,6 +2708,13 @@ persons:
     affiliations:
     - org: ina
       role: executive
+  louis-cheung:
+    nationality: CHN
+    affiliations:
+    - org: boyu-capital
+      role: founder
+      from: 2011
+      note: Founding Managing Partner, ex-Ping An, now Singapore
   lukas-walton:
     born: 1986
     nationality: USA
@@ -2561,6 +2768,14 @@ persons:
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
+  marc-rowan:
+    born: 1962
+    nationality: USA
+    affiliations:
+    - org: apollo-global
+      role: founder
+      from: 1990
+      note: Co-Founder, CEO (2021), Chairman
   marcus-wallenberg:
     born: 1956
     nationality: SWE
@@ -2569,6 +2784,9 @@ persons:
     - org: bilderberg
       role: steering
       note: Chairman SEB, Chair Saab
+    - org: eqt
+      role: board
+      note: EQT Council member, Remuneration Committee
   marcus-wallenberg-jr:
     born: 1899
     died: 1982
@@ -2638,6 +2856,12 @@ persons:
     born: 1955
     nationality: Italia
     family: agnelli-elkann
+  marie-josee-kravis:
+    nationality: CAN
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Co-Chair Bilderberg Meetings
   mario-draghi:
     born: 1947
     nationality: ITA
@@ -2735,6 +2959,20 @@ persons:
       role: chairman
       from: 2002
       to: 2007
+  mary-ma:
+    born: 1953
+    died: 2019
+    nationality: CHN
+    affiliations:
+    - org: boyu-capital
+      role: founder
+      from: 2011
+      to: 2019
+      note: Co-founder, Chairman, ex-Lenovo CFO
+    - org: lenovo
+      role: executive
+      to: 2007
+      note: CFO, key in IBM PC acquisition 2005
   masayoshi-son:
     born: 1957
     nationality: JPN
@@ -2742,15 +2980,21 @@ persons:
     - org: softbank
       role: founder
       from: 1981
+      note: Chairman & CEO
     - org: softbank
-      role: executive
+      role: founder
       from: 1981
+      note: Chairman & CEO
     - org: arm
       role: chairman
       from: 2016
     - org: stargate-project
       role: chairman
       from: 2025
+    - org: softbank-vision-fund
+      role: founder
+      from: 2017
+      note: Created with PIF Saudi
   matteo-renzi:
     born: 1975
     nationality: ITA
@@ -2899,6 +3143,20 @@ persons:
     - org: governo-montenegro
       role: leader
       from: 2023
+  mitt-romney:
+    born: 1947
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 2019
+      to: 2025
+      note: Senator Utah
+    - org: bain-capital
+      role: founder
+      from: 1984
+      to: 1999
+      note: Co-Founder, CEO/Managing Partner
   mohammed-al-jadaan:
     nationality: SAU
     note: Ministro Finanze dal 2016
@@ -3110,6 +3368,13 @@ persons:
       from: 2023
       to: 2022
       note: President
+  nir-bar-dea:
+    nationality: ISR
+    affiliations:
+    - org: bridgewater
+      role: executive
+      from: 2023
+      note: CEO
   olaf-lies:
     born: 1967
     nationality: DEU
@@ -3231,6 +3496,13 @@ persons:
     - org: carnegie-endowment
       role: chairman
       note: Chair of the Board
+  per-franzen:
+    nationality: SWE
+    affiliations:
+    - org: eqt
+      role: executive
+      from: 2025
+      note: CEO dal maggio 2025
   pete-buttigieg:
     born: 1982
     nationality: USA
@@ -3253,6 +3525,20 @@ persons:
     affiliations:
     - org: fii-saudi
       role: board
+  peter-peterson:
+    born: 1926
+    died: 2018
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 1972
+      to: 1973
+      note: Secretary of Commerce (Nixon)
+    - org: blackstone
+      role: founder
+      from: 1985
+      to: 2018
   peter-sutherland:
     born: 1946
     died: 2018
@@ -3365,6 +3651,14 @@ persons:
     born: 1958
     nationality: Australia
     family: murdoch
+  rajeev-misra:
+    nationality: IND
+    affiliations:
+    - org: softbank-vision-fund
+      role: executive
+      from: 2017
+      to: 2024
+      note: CEO Vision Fund
   ram-ben-barak:
     nationality: ISR
     note: Ex-Mossad deputy director
@@ -3405,10 +3699,21 @@ persons:
     born: 1949
     nationality: USA
     affiliations:
+    - org: wef
+      role: member
+    - org: cfr
+      role: member
+      note: Hurford Memorial Lecture speaker
     - org: bridgewater
       role: founder
+    - org: bridgewater
+      role: executive
+      from: 1975
+      to: 2022
+      note: Founder, retired 2022, CIO Mentor
     - org: fii-saudi
       role: member
+      note: Speaker FII7, FII9
   reid-hoffman:
     nationality: USA
     affiliations:
@@ -3517,6 +3822,13 @@ persons:
       role: partner
       from: 2010
       to: 2014
+  rob-lucas:
+    nationality: GBR
+    affiliations:
+    - org: cvc-capital-partners
+      role: executive
+      from: 1996
+      note: CEO dal 2024
   rob-walton:
     born: 1944
     nationality: USA
@@ -3574,6 +3886,13 @@ persons:
     - org: citigroup
       role: advisor
       from: 1999
+  rolly-van-rappard:
+    nationality: NLD
+    affiliations:
+    - org: cvc-capital-partners
+      role: founder
+      from: 1993
+      note: Co-Founder, Non-Executive Chairman
   romano-prodi:
     born: 1939
     nationality: ITA
@@ -3710,6 +4029,20 @@ persons:
       role: executive
       from: 2014
       note: CEO 2014-, Chairman 2021-
+  scott-nuttall:
+    nationality: USA
+    affiliations:
+    - org: kkr
+      role: executive
+      from: 2021
+      note: Co-CEO
+  sean-tong:
+    nationality: CHN
+    affiliations:
+    - org: boyu-capital
+      role: founder
+      from: 2011
+      note: Partner, ex-General Atlantic, ex-Providence Equity, now Singapore
   sebastian-kurz:
     born: 1986
     nationality: AUT
@@ -3817,14 +4150,31 @@ persons:
       role: leader
       from: 2013
       to: 2025
+  stephen-pagliuca:
+    born: 1955
+    nationality: USA
+    affiliations:
+    - org: bain-capital
+      role: partner
+      from: 1989
+      to: 2023
+      note: Co-Chairman 2016-2023, Senior Advisor 2023+
   stephen-schwarzman:
     born: 1947
     nationality: USA
     affiliations:
+    - org: wef
+      role: member
+      note: International Business Council
+    - org: cfr
+      role: member
     - org: blackstone
       role: founder
     - org: blackstone
       role: executive
+    - org: blackstone
+      role: chairman
+      from: 1985
     - org: fii-saudi
       role: member
   stephen-wise:
@@ -3869,6 +4219,14 @@ persons:
     - person: larry-ellison
       type: friend
       note: Best friends, Ellison nominato board Apple 1997, vacanze insieme a Hawaii
+  steve-koltes:
+    nationality: USA
+    affiliations:
+    - org: cvc-capital-partners
+      role: founder
+      from: 1993
+      to: 2022
+      note: Co-Founder, Co-Chairman, stepped down 2022
   steve-wozniak:
     born: 1950
     nationality: USA
@@ -4130,6 +4488,13 @@ persons:
       role: member
       from: 1943
       to: 1945
+  william-conway:
+    born: 1949
+    nationality: USA
+    affiliations:
+    - org: carlyle-group
+      role: founder
+      from: 1987
   william-donovan:
     born: 1883
     died: 1959

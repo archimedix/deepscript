@@ -81,6 +81,22 @@ families:
     - person: pete-dupont
       generation: 6
       role: governor-delaware
+  jiang-zemin:
+    origin: China
+    founder: jiang-zemin
+    sector: politics, finance
+    generations: 3
+    status: active
+    members:
+    - person: alvin-jiang
+      generation: 3
+      role: grandson of Jiang Zemin
+    - person: jiang-zemin
+      generation: 1
+      role: patriarch
+    - person: jiang-mianheng
+      generation: 2
+      role: son of Jiang Zemin
   lauder:
     origin: USA
     founder: Estée Lauder

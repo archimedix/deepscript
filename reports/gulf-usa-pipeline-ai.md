@@ -111,6 +111,7 @@ La **triangolazione Israel** (via Yossi Cohen/SoftBank) connette prevalentemente
 | [carlyle-group](../docs/private-equity/carlyle-group.md) | PE | DC | FII partner |
 | [bridgewater](../docs/asset-manager/bridgewater.md) | HF | CT | FII partner |
 | [silver-lake](../docs/private-equity/silver-lake.md) | PE | Menlo Park | G42 investor |
+| [cvc-capital-partners](../docs/private-equity/cvc-capital-partners.md) | PE | Luxembourg | Sport empire (F1, La Liga) |
 
 ### Persone Chiave
 
@@ -237,6 +238,105 @@ PIF sta costruendo un portfolio sportivo massiccio:
 | NFL | Pending (10% cap) | 2025 |
 
 **Implicazione**: Lo sport e' diventato il canale preferenziale per il soft power saudita dopo i fallimenti tech.
+
+### 8. Sport come Asset Class Globale: PIF vs CVC
+
+Lo sport non e' piu' solo soft power - e' diventato una **asset class** per il capitale istituzionale. Due modelli dominanti:
+
+#### Confronto Modelli
+
+| Aspetto | PIF (Saudi) | CVC Capital Partners |
+|---------|-------------|---------------------|
+| **Strategia** | Sports-washing, nation branding | Monetizzazione pura |
+| **Obiettivo** | Soft power + diversificazione | Returns finanziari |
+| **Tipo asset** | Team, leghe nuove | Leghe esistenti, diritti |
+| **Capitale** | $5-10B+ | $14B (Global Sport Group) |
+| **Exit strategy** | Hold indefinito | Vendita a media company |
+| **Governance** | Controllo diretto | Minority stake, board seat |
+
+#### Portfolio PIF (Saudi)
+
+| Asset | Tipo | Investimento | Anno |
+|-------|------|--------------|------|
+| LIV Golf | Lega creata | ~$5B | 2022 |
+| Newcastle United | Club | $400M | 2021 |
+| Saudi Pro League | Lega domestica | $1B+ | 2023 |
+| PGA Tour | Equity | $1.5B (6%) | 2025 |
+| Esports (Savvy Games) | Holding | $37B | 2022 |
+
+**Pattern PIF**: Creare asset nuovi (LIV) o acquisire esistenti (Newcastle), usare come vetrina nazionale.
+
+#### Portfolio CVC Capital Partners
+
+| Asset | Tipo | Investimento | Return |
+|-------|------|--------------|--------|
+| Formula 1 | Lega | 63.4% (2006) | **4x** vendita Liberty Media 2016 |
+| La Liga | Diritti | $3.2B (10.95%) | In corso |
+| Six Nations Rugby | Diritti | £365M (14.3%) | In corso |
+| Premiership Rugby | Lega | Majority | Mixed |
+| Ligue 1 | Diritti | €1.3B | In corso |
+| Volleyball World | Lega | - | In corso |
+| WTA Ventures | Tennis | - | In corso |
+
+**Pattern CVC**: Acquisire quota minority in leghe esistenti, monetizzare diritti TV, exit a media company.
+
+#### Il Modello F1: Template CVC
+
+```
+CVC (2006)                     LIBERTY MEDIA (2016)
+     │                               │
+     │ $2B acquisition               │ $8B sale
+     │ 63.4% stake                   │
+     │                               │
+     └──► FORMULA 1 ─────────────────┘
+              │
+              │ Durante proprieta' CVC:
+              │ - Espansione mercati (Asia, USA)
+              │ - Crescita diritti TV
+              │ - Sponsorship premium
+              │
+              ▼
+         4x RETURN ($6B profit)
+```
+
+**Lezione**: CVC ha dimostrato che le leghe sportive possono essere trattate come asset PE - acquisire, ottimizzare, vendere.
+
+#### Global Sport Group (2025)
+
+CVC ha lanciato un veicolo dedicato:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Nome | Global Sport Group |
+| Capitale | $14B |
+| Chairman | Marc Allera (ex-CEO EE) |
+| Focus | Leghe, team, media rights |
+| Lancio | 2025 |
+
+**Implicazione**: Lo sport e' ora sufficientemente "istituzionalizzato" da giustificare un fondo PE dedicato da $14B.
+
+#### Convergenza dei Modelli?
+
+| Trend | Evidenza |
+|-------|----------|
+| PIF → monetizzazione | Deal PGA Tour include revenue sharing |
+| CVC → geopolitica | Controversie Ligue 1 (raid uffici) |
+| Entrambi → media rights | Focus su broadcasting come cash cow |
+
+**Pattern emergente**: I due modelli convergono verso un ibrido dove soft power e returns finanziari coesistono.
+
+#### Altri PE nello Sport
+
+| PE Firm | Asset Sportivo | Note |
+|---------|---------------|------|
+| **CVC** | F1, La Liga, Six Nations | Leader indiscusso |
+| **Apollo** | Atletico Madrid (55%) | Rescue deal 2017 |
+| **RedBird** | AC Milan, Toulouse | Gerry Cardinale |
+| **Bain (Pagliuca)** | Celtics, Atalanta | Multi-sport |
+| **Silver Lake** | City Football Group (10%) | Manchester City |
+| **Clearlake** | Chelsea FC | Consorzio 2022 |
+
+**Trend**: Il calcio europeo sta diventando asset class per PE americano.
 
 ---
 
@@ -476,4 +576,4 @@ Prima mega-acquisizione facilitata dal canale Kushner.
 
 ---
 
-*Ultimo aggiornamento: 7 Dicembre 2025* (aggiunto G42, Tahnoon, Silver Lake, Brad Smith)
+*Ultimo aggiornamento: 8 Dicembre 2025* (aggiunto Sport come Asset Class: CVC vs PIF)

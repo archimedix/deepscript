@@ -197,6 +197,35 @@ organizations:
     founded: 1945
     headquarters: Roma
     status: active
+  apollo-global:
+    name: Apollo Global Management
+    type: privateequity
+    founded: 1990
+    headquarters: New York, USA
+    status: active
+    aum: $840B
+    stakeholders:
+    - person: marc-rowan
+      role: founder
+      from: 1990
+      note: Co-Founder, CEO (2021), Chairman
+    - person: leon-black
+      role: founder
+      from: 1990
+      to: 2021
+      note: Co-Founder, ex-CEO/Chairman. Resigned Epstein scandal
+    - person: joshua-harris
+      role: founder
+      from: 1990
+      to: 2021
+      note: Co-Founder. Left for sports investments
+    - person: gary-cohn
+      role: board
+      from: 2025
+      note: Lead Independent Director
+    - org: pif-saudi
+      role: investor
+      note: Via Sanabil Investments
   apple:
     name: Apple
     type: company
@@ -343,6 +372,32 @@ organizations:
       to: 2007
     - org: volkswagen
       role: subsidiary
+  bain-capital:
+    name: Bain Capital
+    type: privateequity
+    founded: 1984
+    headquarters: Boston, USA
+    status: active
+    aum: $185B
+    stakeholders:
+    - person: mitt-romney
+      role: founder
+      from: 1984
+      to: 1999
+      note: Co-Founder, CEO/Managing Partner
+    - person: stephen-pagliuca
+      role: partner
+      from: 1989
+      to: 2023
+      note: Co-Chairman 2016-2023, Senior Advisor 2023+
+    - person: jonathan-lavine
+      role: chairman
+      from: 2024
+      note: Chair (2024), Co-Managing Partner 2016-2024, founded Credit 1998
+    - person: joshua-bekenstein
+      role: partner
+      from: 1984
+      note: Founding partner, Co-Chairman 2016-2023
   banca-italia:
     name: Banca d'Italia
     type: centralbank
@@ -610,6 +665,9 @@ organizations:
       role: member
     - person: matteo-renzi
       role: member
+    - person: david-rubenstein
+      role: member
+      note: Participant 2017
     - person: kaja-kallas
       role: member
     - person: hillary-clinton
@@ -655,6 +713,15 @@ organizations:
       role: member
       from: 2024
       note: Participant Bilderberg 2024
+    - person: henry-kravis
+      role: member
+      note: Participant 2008
+    - person: marie-josee-kravis
+      role: steering
+      note: Co-Chair Bilderberg Meetings
+    - person: conni-jonsson
+      role: member
+      note: Participant 2025
     - org: trilaterale
       role: partner
   bipartisan-policy-center:
@@ -739,11 +806,26 @@ organizations:
     founded: 1985
     headquarters: New York
     status: active
+    aum: $1.2T
     stakeholders:
     - person: stephen-schwarzman
       role: founder
     - person: stephen-schwarzman
       role: executive
+    - person: stephen-schwarzman
+      role: chairman
+      from: 1985
+    - person: jon-gray
+      role: executive
+      from: 2018
+      note: President & COO
+    - person: peter-peterson
+      role: founder
+      from: 1985
+      to: 2018
+    - org: pif-saudi
+      role: investor
+      note: Infrastructure investment $20B (2017)
   blackwater:
     name: Blackwater USA
     type: company
@@ -777,6 +859,38 @@ organizations:
     - person: michele-flournoy
       role: board
       from: 2018
+  boyu-capital:
+    name: Boyu Capital
+    type: privateequity
+    founded: 2010
+    headquarters: Hong Kong
+    status: active
+    sector: private-equity
+    aum: $10B+
+    stakeholders:
+    - person: alvin-jiang
+      role: founder
+      from: 2010
+      note: Founding Partner, grandson of Jiang Zemin
+    - person: mary-ma
+      role: founder
+      from: 2011
+      to: 2019
+      note: Co-founder, Chairman, ex-Lenovo CFO
+    - person: louis-cheung
+      role: founder
+      from: 2011
+      note: Founding Managing Partner, ex-Ping An, now Singapore
+    - person: sean-tong
+      role: founder
+      from: 2011
+      note: Partner, ex-General Atlantic, ex-Providence Equity, now Singapore
+    - person: li-ka-shing
+      role: investor
+      note: Early investor via Li Ka Shing Foundation, helped raise $1B first fund
+    - org: temasek
+      role: investor
+      note: LP in Boyu funds
   bp:
     name: BP
     type: company
@@ -803,13 +917,23 @@ organizations:
       from: 2015
   bridgewater:
     name: Bridgewater Associates
-    type: hedgefund
+    type: assetmanager
     founded: 1975
     headquarters: Connecticut
     status: active
+    aum: $136B
     stakeholders:
     - person: ray-dalio
       role: founder
+    - person: ray-dalio
+      role: executive
+      from: 1975
+      to: 2022
+      note: Founder, retired 2022, CIO Mentor
+    - person: nir-bar-dea
+      role: executive
+      from: 2023
+      note: CEO
   broadcom:
     name: Broadcom
     type: company
@@ -876,6 +1000,7 @@ organizations:
     founded: 1987
     headquarters: Washington
     status: active
+    aum: $465B
     stakeholders:
     - person: jerome-powell
       role: partner
@@ -883,6 +1008,22 @@ organizations:
       to: 2005
     - person: david-rubenstein
       role: chairman
+    - person: david-rubenstein
+      role: founder
+      from: 1987
+    - person: william-conway
+      role: founder
+      from: 1987
+    - person: daniel-daniello
+      role: founder
+      from: 1987
+    - person: frank-carlucci
+      role: chairman
+      from: 1992
+      to: 2003
+    - person: james-baker
+      role: advisor
+      note: Senior Counsellor, Asia/Europe Advisory Boards
   carnegie-endowment:
     name: Carnegie Endowment for International Peace
     type: thinktank
@@ -933,6 +1074,14 @@ organizations:
     - person: timothy-geithner
       role: member
       from: 2013
+    - person: david-rubenstein
+      role: chairman
+      from: 2017
+    - person: ray-dalio
+      role: member
+      note: Hurford Memorial Lecture speaker
+    - person: stephen-schwarzman
+      role: member
     - person: jami-miscik
       role: chairman
     - person: hillary-clinton
@@ -965,6 +1114,8 @@ organizations:
       from: 2015
     - person: peter-sutherland
       role: advisory-board
+    - person: henry-kravis
+      role: member
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -973,6 +1124,9 @@ organizations:
       role: partner
     - org: warburg-pincus
       role: partner
+    - org: blackstone
+      role: member
+      note: Corporate Member
     - org: kissinger-associates
       role: partner
   chan-zuckerberg-initiative:
@@ -1362,6 +1516,33 @@ organizations:
     stakeholders:
     - person: richard-dearlove
       role: chairman
+  cvc-capital-partners:
+    name: CVC Capital Partners
+    type: privateequity
+    founded: 1981
+    headquarters: Luxembourg
+    status: active
+    sector: private equity
+    aum: €200B
+    stakeholders:
+    - person: donald-mackenzie
+      role: founder
+      from: 1993
+      to: 2024
+      note: Co-Founder, Co-Chairman, stepped back 2024
+    - person: rob-lucas
+      role: executive
+      from: 1996
+      note: CEO dal 2024
+    - person: rolly-van-rappard
+      role: founder
+      from: 1993
+      note: Co-Founder, Non-Executive Chairman
+    - person: steve-koltes
+      role: founder
+      from: 1993
+      to: 2022
+      note: Co-Founder, Co-Chairman, stepped down 2022
   dea:
     name: Drug Enforcement Administration
     type: agency
@@ -1489,6 +1670,41 @@ organizations:
       role: executive
       from: 1992
       to: 1998
+  eqt:
+    name: EQT AB
+    type: privateequity
+    founded: 1994
+    headquarters: Stockholm, Sweden
+    status: active
+    sector: private equity
+    aum: €266B
+    stakeholders:
+    - person: jacob-wallenberg
+      role: board
+      note: Chair Nomination Committee (for Investor AB)
+    - person: marcus-wallenberg
+      role: board
+      note: EQT Council member, Remuneration Committee
+    - person: conni-jonsson
+      role: founder
+      from: 1994
+      note: Founder, Chairperson
+    - person: christian-sinding
+      role: executive
+      from: 1998
+      note: CEO 2019-2025, now Chair EQT Council
+    - person: per-franzen
+      role: executive
+      from: 2025
+      note: CEO dal maggio 2025
+    - person: jean-eric-salata
+      role: chairman
+      from: 2022
+      note: Chair EQT Asia, Chairman dal 2026 (founder Baring PE Asia)
+    - org: investor-ab
+      role: shareholder
+      share: 0.144
+      note: Largest shareholder, Wallenberg family
   equinor:
     type: company
     headquarters: Stavanger, Norway
@@ -1685,10 +1901,23 @@ organizations:
       role: executive
     - person: david-rubenstein
       role: member
+      note: Speaker FII8
     - person: ray-dalio
       role: member
+      note: Speaker FII7, FII9
     - person: stephen-schwarzman
       role: member
+    - org: carlyle-group
+      role: partner
+      note: Major participant
+    - org: blackstone
+      role: partner
+      note: Major participant, $20B+ infrastructure deals with PIF
+    - org: bridgewater
+      role: partner
+    - org: kkr
+      role: partner
+      note: FII9 2025 participant, Saudi office since 2014
     - org: governo-saudi
       role: sponsor
       note: Davos del Deserto, forum annuale Riyadh
@@ -1911,6 +2140,15 @@ organizations:
       from: 1995
       to: 2015
       note: chairman-gsi
+    - person: gary-cohn
+      role: executive
+      to: 2017
+      note: President & COO
+    - person: alvin-jiang
+      role: analyst
+      from: 2009
+      to: 2010
+      note: Private Equity unit, Hong Kong
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -2660,6 +2898,29 @@ organizations:
       role: president
       from: 1989
       to: 1993
+    - person: peter-peterson
+      role: minister
+      from: 1972
+      to: 1973
+      note: Secretary of Commerce (Nixon)
+    - person: frank-carlucci
+      role: minister
+      from: 1987
+      to: 1989
+      note: Secretary of Defense (Reagan)
+    - person: james-baker
+      role: minister
+      note: Secretary of State (Bush Sr), Secretary of Treasury (Reagan)
+    - person: gary-cohn
+      role: advisor
+      from: 2017
+      to: 2018
+      note: Director NEC, Chief Economic Advisor Trump
+    - person: mitt-romney
+      role: legislator
+      from: 2019
+      to: 2025
+      note: Senator Utah
   greensill:
     type: company
     founded: 2011
@@ -2845,6 +3106,12 @@ organizations:
     headquarters: Stockholm, Sweden
     status: active
     sector: investment
+    stakeholders:
+    - person: conni-jonsson
+      role: executive
+      from: 1987
+      to: 1994
+      note: Executive Vice President, Wallenberg family holding
   iri:
     name: IRI (Istituto Ricostruzione Industriale)
     type: company
@@ -3000,16 +3267,36 @@ organizations:
       from: 1982
       to: 2023
   kkr:
-    name: KKR
+    name: KKR & Co.
     type: privateequity
     founded: 1976
     headquarters: New York, USA
     status: active
+    aum: $723B
     stakeholders:
     - person: david-petraeus
       role: partner
       from: 2013
-      note: Chairman KKR Global Institute, Chairman Middle East
+      note: Chairman KKR Global Institute, Chairman KKR Middle East
+    - person: henry-kravis
+      role: founder
+      from: 1976
+      note: Co-Founder, Co-Executive Chairman
+    - person: george-roberts
+      role: founder
+      from: 1976
+      note: Co-Founder, Co-Executive Chairman
+    - person: scott-nuttall
+      role: executive
+      from: 2021
+      note: Co-CEO
+    - person: joseph-bae
+      role: executive
+      from: 2021
+      note: Co-CEO
+    - org: mubadala
+      role: investor
+      note: $1B co-investment Asia-Pacific 2022
   kosmos-energy:
     type: company
     headquarters: Dallas, USA
@@ -3068,6 +3355,16 @@ organizations:
     type: bank
     headquarters: New York
     status: active
+  lenovo:
+    name: Lenovo
+    type: company
+    headquarters: Beijing, China / Hong Kong
+    status: active
+    stakeholders:
+    - person: mary-ma
+      role: executive
+      to: 2007
+      note: CFO, key in IBM PC acquisition 2005
   lilly-endowment:
     name: Lilly Endowment
     type: foundation
@@ -4176,12 +4473,12 @@ organizations:
     - org: volkswagen
       role: subsidiary
   softbank:
-    name: SoftBank
-    type: agency
+    name: SoftBank Group
+    type: company
     founded: 1981
-    headquarters: Tokyo
+    headquarters: Tokyo, Japan
     status: active
-    sector: tech
+    sector: technology, investment
     stakeholders:
     - person: yasir-al-rumayyan
       role: board
@@ -4190,9 +4487,11 @@ organizations:
     - person: masayoshi-son
       role: founder
       from: 1981
+      note: Chairman & CEO
     - person: masayoshi-son
-      role: executive
+      role: founder
       from: 1981
+      note: Chairman & CEO
     - person: yossi-cohen
       role: executive
       from: 2021
@@ -4207,6 +4506,36 @@ organizations:
       note: Vision Fund 1 - $15B commitment
     - org: stargate-project
       role: partner
+  softbank-vision-fund:
+    name: SoftBank Vision Fund
+    type: privateequity
+    founded: 2017
+    headquarters: London, UK
+    status: active
+    sector: venture capital, private equity
+    aum: $100B
+    stakeholders:
+    - person: masayoshi-son
+      role: founder
+      from: 2017
+      note: Created with PIF Saudi
+    - person: rajeev-misra
+      role: executive
+      from: 2017
+      to: 2024
+      note: CEO Vision Fund
+    - org: softbank
+      role: parent
+      share: 0.28
+      note: $28B, GP
+    - org: pif-saudi
+      role: investor
+      share: 0.45
+      note: $45B, largest LP
+    - org: mubadala
+      role: investor
+      share: 0.15
+      note: $15B LP
   spacex:
     name: SpaceX
     type: company
@@ -4328,6 +4657,12 @@ organizations:
       role: executive
       from: 1998
       to: 1999
+  temasek:
+    name: Temasek Holdings
+    type: swf
+    founded: 1974
+    headquarters: Singapore
+    status: active
   tesla:
     name: Tesla
     type: company
@@ -4484,6 +4819,8 @@ organizations:
       role: member
       from: 1973
       note: Membro fondatore gruppo europeo
+    - person: david-rubenstein
+      role: member
     - person: jacob-wallenberg
       role: member
     - person: david-rockefeller
@@ -4889,6 +5226,14 @@ organizations:
     - person: matteo-renzi
       role: ygl
       from: 2012
+    - person: david-rubenstein
+      role: board
+      note: Board of Trustees
+    - person: ray-dalio
+      role: member
+    - person: stephen-schwarzman
+      role: member
+      note: International Business Council
     - person: kaja-kallas
       role: ygl
       from: 2017
@@ -4993,11 +5338,20 @@ organizations:
       role: member
       from: 2025
       note: Speaker Davos 2025
+    - person: henry-kravis
+      role: member
     - org: bilderberg
       role: partner
     - org: fmi
       role: partner
+    - org: carlyle-group
+      role: partner
+    - org: blackstone
+      role: partner
+      note: Strategic Partner
     - org: qia
+      role: partner
+    - org: kkr
       role: partner
   wells-fargo:
     name: Wells Fargo
