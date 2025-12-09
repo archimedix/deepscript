@@ -47,8 +47,8 @@ Questo report analizza il **network di potere nell'industria farmaceutica e nell
    │    WHO    │◄────── Revolving Door ──────►│      BIG PHARMA      │
    │  (donor   │                              │                      │
    │  captured)│                              │ Pfizer  J&J  Moderna │
-   └───────────┘                              │ Roche   Novartis     │
-         │                                    │ BioNTech AstraZeneca │
+   └───────────┘                              │ Roche Novartis Merck │
+         │                                    │ BioNTech AZ GSK      │
          │                                    └──────────┬───────────┘
          │                                               │
          └───────────────────────────────────────────────┘
@@ -149,15 +149,15 @@ JOSÉ MANUEL BARROSO
 
 | Azienda | HQ | Revenue 2024 | CEO | Pattern Chiave |
 |---------|-----|--------------|-----|----------------|
-| [Pfizer](../docs/company/pfizer.md) | USA | $63.6B | Albert Bourla | Gottlieb (ex-FDA) in board |
-| [J&J](../docs/company/johnson-johnson.md) | USA | $88.8B | Joaquin Duato | McClellan (ex-FDA) in board |
-| [Moderna](../docs/company/moderna.md) | USA | $3.2B | Stephane Bancel | Hahn (ex-FDA) → Flagship, Rubenstein (CFR) in board |
-| [BioNTech](../docs/company/biontech.md) | DEU | - | Ugur Sahin | Strungmann twins control (~50%) |
-| [Roche](../docs/company/roche.md) | CHE | $68.7B | Thomas Schinecker | **Hoffmann WEF Co-Chair** |
-| [Novartis](../docs/company/novartis.md) | CHE | $51.7B | Vas Narasimhan | **PhRMA Chair** |
-| [AstraZeneca](../docs/company/astrazeneca.md) | UK | $45.8B | Pascal Soriot | **Henney (ex-FDA)** in board, WEF |
-| [Merck](../docs/company/merck.md) | USA | $64.2B | Robert Davis | **Glocer (CFR, Morgan Stanley)**, Warden (Northrop) |
-| [GSK](../docs/company/gsk.md) | UK | £31.4B | Emma Walmsley | **Microsoft board**, Symonds (ex-CFO Novartis+AZ) |
+| [Pfizer](../docs/pharma/pfizer.md) | USA | $63.6B | Albert Bourla | Gottlieb (ex-FDA) in board |
+| [J&J](../docs/pharma/johnson-johnson.md) | USA | $88.8B | Joaquin Duato | McClellan (ex-FDA) in board |
+| [Moderna](../docs/pharma/moderna.md) | USA | $3.2B | Stephane Bancel | Hahn (ex-FDA) → Flagship, Rubenstein (CFR) in board |
+| [BioNTech](../docs/pharma/biontech.md) | DEU | - | Ugur Sahin | Strungmann twins control (~50%) |
+| [Roche](../docs/pharma/roche.md) | CHE | $68.7B | Thomas Schinecker | **Hoffmann WEF Co-Chair** |
+| [Novartis](../docs/pharma/novartis.md) | CHE | $51.7B | Vas Narasimhan | **PhRMA Chair** |
+| [AstraZeneca](../docs/pharma/astrazeneca.md) | UK | $45.8B | Pascal Soriot | **Henney (ex-FDA)** in board, WEF |
+| [Merck](../docs/pharma/merck.md) | USA | $64.2B | Robert Davis | **Glocer (CFR, Morgan Stanley)**, Warden (Northrop) |
+| [GSK](../docs/pharma/gsk.md) | UK | £31.4B | Emma Walmsley | **Microsoft board**, Symonds (ex-CFO Novartis+AZ) |
 
 ### Basel Pharma Hub
 
@@ -178,7 +178,7 @@ BASEL, SWITZERLAND
 
 ## 5. FDA Revolving Door: Pattern Completo
 
-### Tutti e 3 i Vaccini COVID
+### I 4 Vaccini COVID Principali
 
 ```
 VACCINO COVID         EX-FDA COMMISSIONER         DESTINAZIONE
@@ -191,9 +191,12 @@ VACCINO COVID         EX-FDA COMMISSIONER         DESTINAZIONE
 
     Moderna      ───►  Stephen Hahn (2019-21)    ───►  Flagship Pioneering
                                                        (incubatore Moderna)
+
+    AstraZeneca  ───►  Jane Henney (1999-01)     ───►  Board AstraZeneca
+                                                       (prima donna FDA)
 ```
 
-**Pattern**: TUTTE e 3 le aziende con vaccini COVID approvati hanno ex-FDA Commissioner nei rispettivi board/incubatori.
+**Pattern**: Tutte e 4 le aziende con vaccini COVID approvati hanno ex-FDA Commissioner nei rispettivi board/incubatori.
 
 ### FDA Funding Model
 
@@ -372,11 +375,11 @@ MODERNA
 
 **Pattern**: Moderna collega DARPA, venture capital, ex-FDA, CFR/Bilderberg/Trilateral (via Rubenstein), e funding pubblico massiccio.
 
-**Scheda**: [Moderna](../docs/company/moderna.md)
+**Scheda**: [Moderna](../docs/pharma/moderna.md)
 
 ---
 
-## 9. Pattern Identificati
+## 10. Pattern Identificati
 
 ### 1. Regulatory Capture Sistemica
 
@@ -434,7 +437,7 @@ BIG THREE (Vanguard, BlackRock, State Street)
 
 ---
 
-## 10. Entità nel Database
+## 11. Entità nel Database
 
 ### Organizzazioni (Schede Complete)
 
@@ -445,16 +448,16 @@ BIG THREE (Vanguard, BlackRock, State Street)
 | [who](../docs/agency/who.md) | Agency | ✅ |
 | [cepi](../docs/agency/cepi.md) | Agency | ✅ |
 | [fda](../docs/agency/fda.md) | Agency | ✅ |
-| [pfizer](../docs/company/pfizer.md) | Company | ✅ |
-| [johnson-johnson](../docs/company/johnson-johnson.md) | Company | ✅ |
-| [moderna](../docs/company/moderna.md) | Company | ✅ |
-| [biontech](../docs/company/biontech.md) | Company | ✅ |
-| [roche](../docs/company/roche.md) | Company | ✅ |
-| [novartis](../docs/company/novartis.md) | Company | ✅ |
+| [pfizer](../docs/pharma/pfizer.md) | Pharma | ✅ |
+| [johnson-johnson](../docs/pharma/johnson-johnson.md) | Pharma | ✅ |
+| [moderna](../docs/pharma/moderna.md) | Pharma | ✅ |
+| [biontech](../docs/pharma/biontech.md) | Pharma | ✅ |
+| [roche](../docs/pharma/roche.md) | Pharma | ✅ |
+| [novartis](../docs/pharma/novartis.md) | Pharma | ✅ |
 | [flagship-pioneering](../docs/private-equity/flagship-pioneering.md) | PrivateEquity | Stub |
-| [astrazeneca](../docs/company/astrazeneca.md) | Company | ✅ |
-| [merck](../docs/company/merck.md) | Company | ✅ |
-| [gsk](../docs/company/gsk.md) | Company | ✅ |
+| [astrazeneca](../docs/pharma/astrazeneca.md) | Pharma | ✅ |
+| [merck](../docs/pharma/merck.md) | Pharma | ✅ |
+| [gsk](../docs/pharma/gsk.md) | Pharma | ✅ |
 | [morgan-stanley](../docs/bank/morgan-stanley.md) | Bank | Stub |
 | [northrop-grumman](../docs/company/northrop-grumman.md) | Company | Stub |
 | [microsoft](../docs/company/microsoft.md) | Company | Stub |
@@ -489,7 +492,7 @@ BIG THREE (Vanguard, BlackRock, State Street)
 
 ---
 
-## 11. Implicazioni
+## 12. Implicazioni
 
 ### 1. Unelected Power
 
@@ -523,7 +526,7 @@ PHARMA CEO ──► PhRMA Chair ──► Lobbying ──► FDA policy
 
 ---
 
-## 12. Domande Aperte
+## 13. Domande Aperte
 
 1. **WEF post-Schwab**: Hoffmann + Fink consolidano pharma + finance al vertice?
 2. **Gates Foundation 2045**: Chi eredita l'influenza?
@@ -551,6 +554,9 @@ PHARMA CEO ──► PhRMA Chair ──► Lobbying ──► FDA policy
 - [BioNTech](https://www.biontech.com/)
 - [Roche](https://www.roche.com/)
 - [Novartis](https://www.novartis.com/)
+- [AstraZeneca](https://www.astrazeneca.com/)
+- [Merck](https://www.merck.com/)
+- [GSK](https://www.gsk.com/)
 
 ### Analisi Revolving Door
 - [STAT News - Gottlieb Pfizer](https://www.statnews.com/pharmalot/2019/06/27/scott-gottlieb-pfizer-board-fda/)
@@ -565,5 +571,5 @@ PHARMA CEO ──► PhRMA Chair ──► Lobbying ──► FDA policy
 ---
 
 *Report creato: Dicembre 2025*
-*Ultimo aggiornamento: Dicembre 2025*
-*Entità documentate: 18 organizzazioni, 25+ persone chiave*
+*Ultimo aggiornamento: 9 Dicembre 2025*
+*Entità documentate: 9 Pharma, 5 Agency, 1 Foundation, 3 stub (18 org totali), 25+ persone chiave*

@@ -132,6 +132,7 @@ Microsoft ─────► $1.5B ─────► G42
 |--------------|------------|-------|
 | **Reid Hoffman** | LinkedIn co-founder, Greylock | Bilderberg (2011-), CFR (2015-) |
 | **Penny Pritzker** | Pritzker family, Hyatt | Commerce Secretary Obama, Carnegie Endowment (Chair) |
+| **Emma Walmsley** | CEO GSK | Cross-sector Tech-Pharma |
 | Sandra Peterson | Ex-J&J | Lead Independent Director |
 | Hugh Johnston | CFO PepsiCo | Business Roundtable |
 
@@ -148,7 +149,13 @@ Microsoft ─────► $1.5B ─────► G42
 - Carnegie Endowment: Chair
 - Harvard Corporation: Senior Fellow (prima donna)
 
-**Implicazione**: Il board Microsoft include figure con accesso diretto a forum d'elite (Bilderberg), think tank (CFR, Carnegie), e network politici (Obama administration).
+**Emma Walmsley**:
+- CEO GlaxoSmithKline (GSK) dal 2017
+- Board Microsoft dal 2019
+- Prima donna CEO di una Big Pharma globale
+- Connette due settori: Tech e Pharma
+
+**Implicazione**: Il board Microsoft include figure con accesso diretto a forum d'elite (Bilderberg), think tank (CFR, Carnegie), network politici (Obama administration), e cross-sector (Walmsley Tech-Pharma).
 
 ### 5. WEF e Partnership Globali
 
@@ -360,4 +367,4 @@ Via board members, Microsoft ha accesso a:
 
 ---
 
-*Ultimo aggiornamento: 7 Dicembre 2025*
+*Ultimo aggiornamento: 9 Dicembre 2025 - Aggiunta Emma Walmsley (GSK CEO) al board*

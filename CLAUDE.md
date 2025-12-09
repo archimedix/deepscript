@@ -57,6 +57,7 @@ deepscript/
 │   ├── foundation/        # Fondazioni
 │   ├── think-tank/        # Think tank
 │   ├── company/           # Aziende
+│   ├── pharma/            # Aziende farmaceutiche
 │   ├── agency/            # Agenzie internazionali
 │   ├── sports-club/       # Club sportivi
 │   ├── automaker/         # Case automobilistiche
@@ -90,6 +91,7 @@ docs/{cartella}/{id}.md
 | Organization:Foundation | `docs/foundation/` |
 | Organization:ThinkTank | `docs/think-tank/` |
 | Organization:Company | `docs/company/` |
+| Organization:Pharma | `docs/pharma/` |
 | Organization:Agency | `docs/agency/` |
 | Organization:SportsClub | `docs/sports-club/` |
 | Organization:Automaker | `docs/automaker/` |
@@ -191,6 +193,7 @@ RETURN path
 | Foundation | Gates Foundation, Open Society |
 | ThinkTank | CFR, Rand, Aspen |
 | Company | Apple, Tesla, CFG, FSG |
+| Pharma | Pfizer, Moderna, Roche, GSK |
 | Agency | FMI, ONU, NATO, FIFA, IOC |
 | SportsClub | PSG, Manchester City, AC Milan |
 | Automaker | BMW, Toyota, Stellantis, Geely |
@@ -262,4 +265,4 @@ NON modificarli. Usa Neo4j per i dati correnti.
 
 ---
 
-*Ultimo aggiornamento: 8 Dicembre 2025*
+*Ultimo aggiornamento: 9 Dicembre 2025*

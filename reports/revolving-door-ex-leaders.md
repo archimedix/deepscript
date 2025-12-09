@@ -327,6 +327,89 @@ Atlantik-Brucke
 
 ---
 
+## Revolving Door Regolatorio: FDA → Big Pharma
+
+Un pattern parallelo emerge nel settore farmaceutico: ex-Commissioner della FDA (l'agenzia che approva i farmaci) che transitano nei board delle stesse aziende che regolavano.
+
+### Il Caso COVID-19: 4/4 Vaccini con Ex-FDA nei Board
+
+| Vaccino | Azienda | Ex-FDA Commissioner | Ruolo Post-FDA |
+|---------|---------|---------------------|----------------|
+| Comirnaty | Pfizer | Scott Gottlieb | Board dal 2019 |
+| Janssen | Johnson & Johnson | Mark McClellan | Board dal 2014 |
+| Spikevax | Moderna | Stephen Hahn | Flagship Pioneering (2021) |
+| Vaxzevria | AstraZeneca | Jane Henney | Board dal 2012 |
+
+**Pattern**: Il 100% dei vaccini COVID-19 autorizzati (EUA) negli USA aveva un ex-FDA Commissioner nel board dell'azienda produttrice.
+
+### Timeline Scott Gottlieb (Pfizer)
+
+| Anno | Posizione |
+|------|-----------|
+| 2017-2019 | FDA Commissioner (Trump) |
+| 2019 | Dimissioni FDA |
+| 2019-oggi | **Board Pfizer** |
+| 2020-2022 | Commentatore TV su COVID/vaccini |
+
+**Conflitto evidente**: Gottlieb commentava pubblicamente su vaccini e policy FDA mentre sedeva nel board Pfizer.
+
+### Timeline Stephen Hahn (Moderna)
+
+| Anno | Posizione |
+|------|-----------|
+| 2019-2021 | FDA Commissioner |
+| 2020 Dic | Autorizza vaccino Moderna (EUA) |
+| 2021 Gen | Lascia FDA |
+| 2021 Giu | **Partner Flagship Pioneering** (VC di Moderna) |
+
+**Timing critico**: Solo 5 mesi tra l'autorizzazione del vaccino Moderna e l'ingresso nel VC che controlla Moderna.
+
+### Il Pattern
+
+```
+FDA (regolatore)
+       │
+       │ Commissioner 4-8 anni
+       │ Approva farmaci aziende
+       │
+       ▼
+BIG PHARMA (board)
+       │
+       │ $300k-500k/anno
+       │ Stock options
+       │
+       ▼
+MEDIA (esperto)
+       │
+       │ Commentatore TV
+       │ Op-ed policy
+       │
+       ▼
+INFLUENZA POLICY
+(pro-industry positions)
+```
+
+### Differenze con Revolving Door Politico
+
+| Aspetto | Politico → Finance | FDA → Pharma |
+|---------|--------------------|--------------|
+| **Regolato** | Economia generale | Farmaci specifici |
+| **Conflitto** | Diffuso | Diretto (approvo → profitto) |
+| **Timing** | Post-governo | Durante crisi sanitaria |
+| **Visibilita'** | Alta | Moderata |
+| **Scrutinio** | Mediatico | Limitato (tecnico) |
+
+### Implicazioni
+
+1. **Regulatory capture**: Agenzie regolate dalle industrie che dovrebbero controllare
+2. **Incentivi distorti**: Commissioner sa che futuro impiego dipende da industry
+3. **Erosione fiducia**: Pubblico scettico su approvazioni FDA
+4. **COVID-19**: Pattern esistente prima della pandemia, reso visibile dalla crisi
+
+Vedi: [Pharma Power Report](pharma-power.md) per analisi completa del settore farmaceutico.
+
+---
+
 ## Pattern Identificati
 
 ### 1. YGL → Governo → Network Post-Politico
@@ -440,6 +523,8 @@ Chairman        Member     Vice-Chair   Member        Member
 
 7. **Princeling capitalism (Cina)**: Modello alternativo - la generazione successiva converte capitale politico in PE/VC, con educazione occidentale come ponte di legittimazione (Boyu Capital, New Horizon)
 
+8. **Revolving door regolatorio (FDA)**: Pattern parallelo nel settore farmaceutico - ex-Commissioner FDA nei board delle aziende che regolavano. 4/4 vaccini COVID-19 con ex-FDA nei board (Gottlieb/Pfizer, McClellan/J&J, Hahn/Moderna, Henney/AstraZeneca)
+
 ### Il Network
 
 ```
@@ -486,7 +571,8 @@ WEF (YGL) ──seleziona──→ Futuri Leader ←─┘
 - [Wikipedia - Friedrich Merz](https://en.wikipedia.org/wiki/Friedrich_Merz)
 - [Atlantik-Brucke - Chairmen](https://www.atlantik-bruecke.org/en/chairmen-of-atlantik-brucke-since-1952/)
 - [Bundeskanzler.de - Friedrich Merz](https://www.bundeskanzler.de/bk-en/federal-chancellery/federal-chancellors-since-1949/friedrich-merz)
+- [DeepScript - Pharma Power Report](pharma-power.md)
 
 ---
 
-*Report aggiornato: 8 Dicembre 2025 - Aggiunto Princeling Capitalism (Boyu Capital, pattern cinese)*
+*Report aggiornato: 9 Dicembre 2025 - Aggiunto FDA Revolving Door (4/4 vaccini COVID con ex-FDA nei board)*
