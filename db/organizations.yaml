@@ -456,6 +456,28 @@ organizations:
     - person: federica-mogherini
       role: member
       note: Speaker
+  astrazeneca:
+    name: AstraZeneca
+    type: company
+    founded: 1999
+    headquarters: Cambridge, UK
+    status: active
+    sector: Pharmaceuticals
+    stakeholders:
+    - person: pascal-soriot
+      role: executive
+      from: 2012
+      note: CEO since 2012
+    - person: michel-demare
+      role: chairman
+      from: 2023
+    - person: jane-henney
+      role: board
+      from: 2001
+      note: ex-FDA Commissioner
+    - person: jonathan-symonds
+      role: executive
+      note: ex-CFO
   atlantik-brucke:
     name: Atlantik-Brücke
     type: thinktank
@@ -1000,6 +1022,34 @@ organizations:
       note: Steering Committee
     - org: trilaterale
       role: partner
+  biontech:
+    name: BioNTech SE
+    type: company
+    founded: 2008
+    headquarters: Mainz, Germany
+    status: active
+    sector: biotech
+    stakeholders:
+    - person: ugur-sahin
+      role: founder
+      from: 2008
+      note: Co-founder, CEO
+    - person: ozlem-tureci
+      role: founder
+      from: 2008
+      note: Co-founder, CMO
+    - org: gates-foundation
+      role: investor
+      from: 2019
+      note: $55M equity investment for HIV/TB programs
+    - org: cepi
+      role: funder
+      from: 2024
+      note: $145M for mRNA facility Rwanda
+    - org: pfizer
+      role: partner
+      from: 2018
+      note: COVID-19 vaccine partnership
   bipartisan-policy-center:
     name: Bipartisan Policy Center
     type: thinktank
@@ -1514,6 +1564,26 @@ organizations:
       role: chairman
       from: 1974
       to: 1977
+  cepi:
+    name: Coalition for Epidemic Preparedness Innovations
+    type: agency
+    founded: 2017
+    headquarters: Oslo, Norway
+    status: active
+    sector: pandemic preparedness, vaccines
+    stakeholders:
+    - person: richard-hatchett
+      role: executive
+      from: 2017
+      note: CEO
+    - org: gates-foundation
+      role: founder
+      from: 2017
+      note: Co-founder with Wellcome Trust, governi
+    - org: wellcome-trust
+      role: founder
+      from: 2017
+      note: Co-founder with Gates Foundation
   cfr:
     name: Council on Foreign Relations
     type: thinktank
@@ -1584,6 +1654,8 @@ organizations:
     - person: peter-sutherland
       role: advisory-board
     - person: henry-kravis
+      role: member
+    - person: thomas-glocer
       role: member
     - org: bilderberg
       role: partner
@@ -2547,6 +2619,33 @@ organizations:
     - org: silver-lake
       role: investor
       note: Sports commerce platform
+  fda:
+    name: Food and Drug Administration
+    type: agency
+    founded: 1906
+    headquarters: Silver Spring, Maryland, USA
+    status: active
+    stakeholders:
+    - person: scott-gottlieb
+      role: executive
+      from: 2017
+      to: 2019
+      note: FDA Commissioner
+    - person: mark-mcclellan
+      role: executive
+      from: 2002
+      to: 2004
+      note: FDA Commissioner
+    - person: stephen-hahn
+      role: executive
+      from: 2019
+      to: 2021
+      note: FDA Commissioner, approved Moderna EUA
+    - person: jane-henney
+      role: executive
+      from: 1999
+      to: 2001
+      note: Commissioner (first female)
   federal-reserve:
     name: Federal Reserve
     type: centralbank
@@ -2724,6 +2823,22 @@ organizations:
     - org: mi6
       role: founding member
       from: 1946
+  flagship-pioneering:
+    name: Flagship Pioneering
+    type: privateequity
+    founded: 2000
+    headquarters: Cambridge, Massachusetts, USA
+    status: active
+    sector: biotech-vc
+    stakeholders:
+    - person: stephen-hahn
+      role: executive
+      from: 2021
+      note: CMO, joined 6 months after approving Moderna EUA
+    - person: noubar-afeyan
+      role: founder
+      from: 2000
+      note: Founder and CEO
   fmi:
     name: Fondo Monetario Internazionale
     type: agency
@@ -2879,11 +2994,12 @@ organizations:
       from: 2024
       note: Acquired from BlackRock/GIP
   gates-foundation:
-    name: Bill & Melinda Gates Foundation
+    name: Gates Foundation
     type: foundation
     founded: 2000
-    headquarters: Seattle
+    headquarters: Seattle, USA
     status: active
+    sector: global health, education
     stakeholders:
     - person: bill-gates
       role: chairman
@@ -2892,12 +3008,17 @@ organizations:
       role: board
       from: 2006
       to: 2021
+    - person: mark-suzman
+      role: executive
+      from: 2020
+      note: CEO
   gavi:
-    name: GAVI Alliance
+    name: GAVI, the Vaccine Alliance
     type: agency
     founded: 2000
-    headquarters: Ginevra
+    headquarters: Geneva, Switzerland
     status: active
+    sector: global health, vaccines
     stakeholders:
     - person: jose-barroso
       role: chairman
@@ -2905,6 +3026,19 @@ organizations:
       note: Board Chair
     - person: tedros-adhanom
       role: board
+    - person: sania-nishtar
+      role: executive
+      from: 2024
+      note: CEO
+    - person: seth-berkley
+      role: executive
+      from: 2011
+      to: 2023
+      note: CEO
+    - org: gates-foundation
+      role: funder
+      from: 2000
+      note: $4.1B total, board seat, ~20% of GAVI funds
   gazprom:
     name: Gazprom
     type: company
@@ -3915,6 +4049,27 @@ organizations:
       role: member
     - org: warburg-pincus
       role: partner
+  gsk:
+    name: GSK plc
+    type: company
+    founded: 2000
+    headquarters: London, UK
+    status: active
+    sector: Pharmaceuticals
+    note: GlaxoSmithKline merged 2000
+    stakeholders:
+    - person: emma-walmsley
+      role: executive
+      from: 2017
+      to: 2025
+      note: CEO until Dec 2025
+    - person: jonathan-symonds
+      role: chairman
+      from: 2019
+    - person: luke-miels
+      role: executive
+      from: 2017
+      note: CCO, CEO from Jan 2026
   guardicore:
     type: company
     headquarters: Israel
@@ -4287,6 +4442,22 @@ organizations:
     - person: morris-amitay
       role: leader
       from: 1981
+  johnson-johnson:
+    name: Johnson & Johnson
+    type: company
+    founded: 1886
+    headquarters: New Brunswick, New Jersey, USA
+    status: active
+    sector: pharma-medtech
+    stakeholders:
+    - person: joaquin-duato
+      role: chairman-ceo
+      from: 2022
+      note: CEO dal 2022, Chairman dal 2023
+    - person: mark-mcclellan
+      role: board
+      from: 2013
+      note: Ex-FDA Commissioner
   joongang-group:
     name: JoongAng Group
     type: media
@@ -4815,6 +4986,25 @@ organizations:
       share: 4.97%
       from: 1974
       note: Shareholder since 1974, reduced from 14%
+  merck:
+    name: Merck & Co.
+    type: company
+    founded: 1891
+    headquarters: Rahway, NJ, USA
+    status: active
+    sector: Pharmaceuticals
+    stakeholders:
+    - person: robert-davis
+      role: executive
+      from: 2021
+      note: CEO 2021, Chairman 2022
+    - person: thomas-glocer
+      role: board
+      from: 2007
+      note: Lead Director
+    - person: kathy-warden
+      role: board
+      from: 2020
   meta:
     name: Meta Platforms (Facebook, Instagram)
     type: media
@@ -4967,6 +5157,9 @@ organizations:
       role: executive
       from: 2015
       note: President
+    - person: emma-walmsley
+      role: board
+      from: 2019
     - org: norges-bank-gpfg
       role: stake
       share: 0.011
@@ -4994,6 +5187,29 @@ organizations:
       share: 51%
       from: 2016
       note: ViacomCBS owns 49%
+  moderna:
+    name: Moderna Inc.
+    type: company
+    founded: 2010
+    headquarters: Cambridge, Massachusetts, USA
+    status: active
+    sector: biotech-pharma
+    stakeholders:
+    - person: david-rubenstein
+      role: board
+      note: Board member, Co-founder Carlyle Group
+    - person: stephane-bancel
+      role: executive
+      from: 2011
+      note: CEO
+    - person: noubar-afeyan
+      role: chairman
+      from: 2010
+      note: Co-founder, Chairman
+    - org: flagship-pioneering
+      role: incubator
+      from: 2010
+      note: Incubated Moderna, 20M shares ($4B+ value)
   morgan-stanley:
     name: Morgan Stanley
     type: bank
@@ -5007,6 +5223,10 @@ organizations:
     - person: henry-sturgis-morgan
       role: founder
       from: 1935
+    - person: thomas-glocer
+      role: board
+      from: 2013
+      note: Lead Director since 2017
     - org: norges-bank-gpfg
       role: stake
     - org: cfr
@@ -5296,6 +5516,35 @@ organizations:
       role: executive
       from: 2008
       to: 2020
+  northrop-grumman:
+    name: Northrop Grumman
+    type: company
+    sector: Defense
+    stakeholders:
+    - person: kathy-warden
+      role: executive
+      from: 2019
+      note: CEO/Chairman
+  novartis:
+    name: Novartis AG
+    type: company
+    founded: 1996
+    headquarters: Basel, Switzerland
+    status: active
+    sector: pharma
+    stakeholders:
+    - person: vas-narasimhan
+      role: executive
+      from: 2018
+      note: CEO
+    - person: joerg-reinhardt
+      role: chairman
+      from: 2013
+      to: 2025
+      note: Chairman Board of Directors
+    - person: jonathan-symonds
+      role: executive
+      note: ex-CFO
   nsa:
     name: National Security Agency
     type: agency
@@ -5709,6 +5958,22 @@ organizations:
       role: owner
       share: 100%
       from: 2020
+  pfizer:
+    name: Pfizer Inc.
+    type: company
+    founded: 1849
+    headquarters: New York, USA
+    status: active
+    sector: pharma
+    stakeholders:
+    - person: albert-bourla
+      role: chairman-ceo
+      from: 2019
+      note: CEO dal 2019, Chairman dal 2020
+    - person: scott-gottlieb
+      role: board
+      from: 2019
+      note: Joined 85 days after leaving FDA
   pif:
     name: Public Investment Fund
     type: swf
@@ -6048,6 +6313,22 @@ organizations:
     founded: 1851
     headquarters: Londra
     status: active
+  roche:
+    name: F. Hoffmann-La Roche AG
+    type: company
+    founded: 1896
+    headquarters: Basel, Switzerland
+    status: active
+    sector: pharma-diagnostics
+    stakeholders:
+    - person: thomas-schinecker
+      role: executive
+      from: 2023
+      note: CEO
+    - person: andre-hoffmann
+      role: chairman
+      from: 2006
+      note: Vice-Chairman, Board since 1996
   rockefeller-foundation:
     name: Rockefeller Foundation
     type: foundation
@@ -7506,6 +7787,13 @@ organizations:
     - person: mathias-dopfner
       role: member
       note: Davos participant
+    - person: andre-hoffmann
+      role: chairman
+      from: 2025
+      note: Interim Co-Chair with Larry Fink
+    - person: pascal-soriot
+      role: member
+      note: Agenda Contributor, PHSSR co-founder
     - org: bilderberg
       role: partner
     - org: fmi
@@ -7522,6 +7810,12 @@ organizations:
     - org: bertelsmann-stiftung
       role: partner
       note: Klaus Schwab Reinhard Mohn Prize 2016
+  wellcome-trust:
+    name: Wellcome Trust
+    type: foundation
+    founded: 1936
+    headquarters: London, UK
+    status: active
   wells-fargo:
     name: Wells Fargo
     type: bank
@@ -7562,6 +7856,22 @@ organizations:
     type: government
     headquarters: Washington
     status: active
+  who:
+    name: World Health Organization
+    type: agency
+    founded: 1948
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: global health
+    stakeholders:
+    - person: tedros-adhanom
+      role: executive
+      from: 2017
+      note: Director-General
+    - org: gates-foundation
+      role: funder
+      from: 2000
+      note: 2nd largest funder after USA, ~$500M/year
   wilson-center:
     type: thinktank
     founded: 1968

@@ -77,6 +77,14 @@ persons:
       role: chairman
       from: 1974
       to: 1977
+  albert-bourla:
+    born: 1961
+    nationality: GRC-USA
+    affiliations:
+    - org: pfizer
+      role: chairman-ceo
+      from: 2019
+      note: CEO dal 2019, Chairman dal 2020
   albert-wohlstetter:
     born: 1913
     died: 1997
@@ -224,6 +232,18 @@ persons:
       role: founder
       from: 2010
       note: Founding Partner, grandson of Jiang Zemin
+  andre-hoffmann:
+    born: 1958
+    nationality: CHE
+    affiliations:
+    - org: wef
+      role: chairman
+      from: 2025
+      note: Interim Co-Chair with Larry Fink
+    - org: roche
+      role: chairman
+      from: 2006
+      note: Vice-Chairman, Board since 1996
   andre-oscar-wallenberg:
     born: 1816
     died: 1886
@@ -888,6 +908,9 @@ persons:
       note: Speaker FII8
     - org: trilateral-commission
       role: member
+    - org: moderna
+      role: board
+      note: Board member, Co-founder Carlyle Group
   dick-cheney:
     born: 1941
     nationality: USA
@@ -1065,6 +1088,19 @@ persons:
       role: chairman
       to: 2024
       note: Resigned Oct 2024
+  emma-walmsley:
+    born: 1969
+    nationality: British
+    note: First female Big Pharma CEO, Microsoft board
+    affiliations:
+    - org: microsoft
+      role: board
+      from: 2019
+    - org: gsk
+      role: executive
+      from: 2017
+      to: 2025
+      note: CEO until Dec 2025
   emmanuel-macron:
     born: 1977
     nationality: FRA
@@ -2086,6 +2122,20 @@ persons:
     affiliations:
     - org: collegio-europa
       role: professor
+  jane-henney:
+    born: 1947
+    nationality: American
+    note: First female FDA Commissioner
+    affiliations:
+    - org: fda
+      role: executive
+      from: 1999
+      to: 2001
+      note: Commissioner (first female)
+    - org: astrazeneca
+      role: board
+      from: 2001
+      note: ex-FDA Commissioner
   jared-kushner:
     born: 1981
     nationality: USA
@@ -2223,6 +2273,14 @@ persons:
     affiliations:
     - org: grupo-globo
       role: chairman
+  joaquin-duato:
+    born: 1962
+    nationality: ESP-USA
+    affiliations:
+    - org: johnson-johnson
+      role: chairman-ceo
+      from: 2022
+      note: CEO dal 2022, Chairman dal 2023
   joe-biden:
     born: 1942
     nationality: USA
@@ -2231,6 +2289,15 @@ persons:
       role: leader
       from: 2021
       to: 2025
+  joerg-reinhardt:
+    born: 1956
+    nationality: DEU
+    affiliations:
+    - org: novartis
+      role: chairman
+      from: 2013
+      to: 2025
+      note: Chairman Board of Directors
   john-brennan:
     born: 1955
     nationality: USA
@@ -2427,6 +2494,19 @@ persons:
     - org: daily-mail
       role: chairman
       from: 1998
+  jonathan-symonds:
+    nationality: British
+    note: ex-CFO Novartis AND AstraZeneca
+    affiliations:
+    - org: novartis
+      role: executive
+      note: ex-CFO
+    - org: astrazeneca
+      role: executive
+      note: ex-CFO
+    - org: gsk
+      role: chairman
+      from: 2019
   jose-barroso:
     born: 1956
     nationality: PRT
@@ -2599,6 +2679,17 @@ persons:
       role: executive
       from: 2024
       note: Alto Rappresentante Affari Esteri
+  kathy-warden:
+    nationality: American
+    note: Northrop Grumman CEO, defense-pharma crosslink
+    affiliations:
+    - org: merck
+      role: board
+      from: 2020
+    - org: northrop-grumman
+      role: executive
+      from: 2019
+      note: CEO/Chairman
   keir-starmer:
     born: 1962
     nationality: british
@@ -2990,6 +3081,14 @@ persons:
     born: 1986
     nationality: USA
     family: walton
+  luke-miels:
+    nationality: Australian
+    note: ex-AstraZeneca, Roche, Sanofi
+    affiliations:
+    - org: gsk
+      role: executive
+      from: 2017
+      note: CCO, CEO from Jan 2026
   maia-sandu:
     born: 1972
     nationality: MDA
@@ -3218,6 +3317,27 @@ persons:
       from: 2020
       to: 2022
       note: Digital Transformation
+  mark-mcclellan:
+    born: 1963
+    nationality: USA
+    affiliations:
+    - org: fda
+      role: executive
+      from: 2002
+      to: 2004
+      note: FDA Commissioner
+    - org: johnson-johnson
+      role: board
+      from: 2013
+      note: Ex-FDA Commissioner
+  mark-suzman:
+    born: 1969
+    nationality: ZAF
+    affiliations:
+    - org: gates-foundation
+      role: executive
+      from: 2020
+      note: CEO
   mark-zuckerberg:
     born: 1984
     nationality: USA
@@ -3409,6 +3529,13 @@ persons:
       from: 2014
       to: 2018
       note: Commander
+  michel-demare:
+    nationality: Swiss
+    note: ex-UBS Deputy Chair, ex-Syngenta Chair
+    affiliations:
+    - org: astrazeneca
+      role: chairman
+      from: 2023
   michele-flournoy:
     born: 1960
     nationality: USA
@@ -3737,6 +3864,18 @@ persons:
       from: 2015
       to: 2025
       note: Chairman Supervisory Board (CEO 2006-2015)
+  noubar-afeyan:
+    born: 1962
+    nationality: LBN-USA
+    affiliations:
+    - org: moderna
+      role: chairman
+      from: 2010
+      note: Co-founder, Chairman
+    - org: flagship-pioneering
+      role: founder
+      from: 2000
+      note: Founder and CEO
   ola-kallenius:
     born: 1969
     nationality: SWE
@@ -3784,6 +3923,14 @@ persons:
     - org: nso-group
       role: founder
       from: 2010
+  ozlem-tureci:
+    born: 1967
+    nationality: DEU
+    affiliations:
+    - org: biontech
+      role: founder
+      from: 2008
+      note: Co-founder, CMO
   paolo-scaroni:
     born: 1946
     nationality: ITA
@@ -3797,6 +3944,18 @@ persons:
     - org: ac-milan
       role: chairman
       from: 2018
+  pascal-soriot:
+    born: 1959
+    nationality: French-Australian
+    note: WEF Agenda Contributor, ex-Roche COO
+    affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor, PHSSR co-founder
+    - org: astrazeneca
+      role: executive
+      from: 2012
+      note: CEO since 2012
   patrick-soon-shiong:
     born: 1952
     nationality: USA
@@ -4227,6 +4386,14 @@ persons:
       to: 2023
     - org: crossword-cybersecurity
       role: chairman
+  richard-hatchett:
+    born: 1965
+    nationality: USA
+    affiliations:
+    - org: cepi
+      role: executive
+      from: 2017
+      note: CEO
   richard-helms:
     born: 1913
     died: 2002
@@ -4293,6 +4460,15 @@ persons:
       role: chairman
       from: 1992
       to: 2015
+  robert-davis:
+    born: 1967
+    nationality: American
+    note: CEO/Chairman since 2021/2022
+    affiliations:
+    - org: merck
+      role: executive
+      from: 2021
+      note: CEO 2021, Chairman 2022
   robert-gates:
     born: 1943
     nationality: USA
@@ -4484,6 +4660,14 @@ persons:
     died: 1948
     nationality: USA
     family: bush
+  sania-nishtar:
+    born: 1963
+    nationality: PAK
+    affiliations:
+    - org: gavi
+      role: executive
+      from: 2024
+      note: CEO
   sanna-marin:
     born: 1985
     nationality: FIN
@@ -4508,6 +4692,19 @@ persons:
       role: executive
       from: 2014
       note: CEO 2014-, Chairman 2021-
+  scott-gottlieb:
+    born: 1972
+    nationality: USA
+    affiliations:
+    - org: pfizer
+      role: board
+      from: 2019
+      note: Joined 85 days after leaving FDA
+    - org: fda
+      role: executive
+      from: 2017
+      to: 2019
+      note: FDA Commissioner
   scott-nuttall:
     nationality: USA
     affiliations:
@@ -4544,6 +4741,15 @@ persons:
     - org: alphabet
       role: founder
       from: 1998
+  seth-berkley:
+    born: 1956
+    nationality: USA
+    affiliations:
+    - org: gavi
+      role: executive
+      from: 2011
+      to: 2023
+      note: CEO
   shalev-hulio:
     nationality: ISR
     note: NSO Group co-founder, Unit 8200 veteran
@@ -4644,6 +4850,27 @@ persons:
       role: leader
       from: 2013
       to: 2025
+  stephane-bancel:
+    born: 1972
+    nationality: FRA
+    affiliations:
+    - org: moderna
+      role: executive
+      from: 2011
+      note: CEO
+  stephen-hahn:
+    born: 1959
+    nationality: USA
+    affiliations:
+    - org: fda
+      role: executive
+      from: 2019
+      to: 2021
+      note: FDA Commissioner, approved Moderna EUA
+    - org: flagship-pioneering
+      role: executive
+      from: 2021
+      note: CMO, joined 6 months after approving Moderna EUA
   stephen-pagliuca:
     born: 1955
     nationality: USA
@@ -4788,6 +5015,10 @@ persons:
       to: 2011
     - org: gavi
       role: board
+    - org: who
+      role: executive
+      from: 2017
+      note: Director-General
   thomas-bach:
     born: 1953
     nationality: DEU
@@ -4806,6 +5037,21 @@ persons:
       role: executive
       from: 2027
       note: CEO designato
+  thomas-glocer:
+    born: 1959
+    nationality: American
+    note: ex-Reuters/Thomson Reuters CEO, CFR member
+    affiliations:
+    - org: cfr
+      role: member
+    - org: morgan-stanley
+      role: board
+      from: 2013
+      note: Lead Director since 2017
+    - org: merck
+      role: board
+      from: 2007
+      note: Lead Director
   thomas-rabe:
     born: 1965
     nationality: DEU
@@ -4815,6 +5061,14 @@ persons:
       role: executive
       from: 2012
       to: 2026
+      note: CEO
+  thomas-schinecker:
+    born: 1975
+    nationality: AUT-DEU
+    affiliations:
+    - org: roche
+      role: executive
+      from: 2023
       note: CEO
   tim-cook:
     born: 1960
@@ -4888,6 +5142,14 @@ persons:
     - org: fabian-society
       role: member
       note: PM Labour 1997-2007
+  ugur-sahin:
+    born: 1965
+    nationality: TUR-DEU
+    affiliations:
+    - org: biontech
+      role: founder
+      from: 2008
+      note: Co-founder, CEO
   umberto-agnelli:
     born: 1934
     died: 2004
@@ -4919,6 +5181,14 @@ persons:
     - org: commissione-ue
       role: executive
       from: 2019
+  vas-narasimhan:
+    born: 1976
+    nationality: USA
+    affiliations:
+    - org: novartis
+      role: executive
+      from: 2018
+      note: CEO
   vera-kobalia:
     born: 1981
     nationality: GEO
