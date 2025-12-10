@@ -138,6 +138,37 @@ Critica: "Vote-buying" sistematico attraverso distribuzione fondi.
 | 21/12/2015 | Ban 8 anni Blatter e Platini |
 | 26/02/2016 | Infantino eletto presidente |
 
+### Media Rights Corruption: Dinastie Mediatiche Latinoamericane
+
+Lo scandalo FIFA ha rivelato il coinvolgimento delle principali dinastie mediatiche latinoamericane nella corruzione per i diritti TV World Cup.
+
+**I tre broadcaster implicati:**
+
+| Broadcaster | Famiglia | Paese | Ruolo |
+|-------------|----------|-------|-------|
+| [Grupo Televisa](../media/grupo-televisa.md) | [Azcarraga](../family/azcarraga.md) | Messico | Co-conspirator |
+| [Grupo Globo](../media/grupo-globo.md) | [Marinho](../family/marinho.md) | Brasile | Co-conspirator |
+| Torneos y Competencias | Burzaco | Argentina | Testimone chiave |
+
+**Schema corruzione World Cup 2018-2030:**
+
+Secondo la testimonianza di Alejandro Burzaco (ex-owner Torneos), Televisa e Globo pagarono $15 milioni a Julio Grondona (funzionario FIFA argentino) per assicurarsi i diritti TV World Cup 2026 e 2030 per l'America Latina.
+
+| Anno | Evento |
+|------|--------|
+| **2015** | DOJ incrimina funzionari FIFA, include media companies |
+| **2017** | Televisa implicata in causa bribery |
+| **2017** | Emilio Azcarraga Jean lascia ruolo CEO Televisa |
+| **2023** | Televisa settlement $95M con investitori USA |
+| **2024** | DOJ riapre indagine su Televisa/Azcarraga |
+| **Oct 2024** | Emilio Azcarraga Jean in congedo da Televisa |
+
+**Status attuale:**
+- **Televisa/Azcarraga**: Indagine DOJ in corso. Azcarraga Jean in congedo amministrativo. Prima volta in 94 anni che un non-Azcarraga guida l'azienda.
+- **Globo/Marinho**: Co-implicata ma nessuna azione legale pubblica recente.
+
+**Pattern**: Le stesse dinastie che controllano i monopoli mediatici nazionali (Marinho in Brasile, Azcarraga in Messico) erano coinvolte nella corruzione FIFA - dimostrando la convergenza tra potere mediatico, sportivo e corruzione transnazionale.
+
 ---
 
 ## World Cup Hosting

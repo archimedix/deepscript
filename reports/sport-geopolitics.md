@@ -182,6 +182,39 @@ Newton Investment & Development LLC
 
 **[Khaldoon Al Mubarak](../docs/persons/khaldoon-al-mubarak.md)**: Chairman CFG/Man City, CEO [Mubadala](../docs/swf/mubadala.md) ($330B AUM)
 
+### 4. Il Ponte Mubadala-Sport: Khaldoon Al Mubarak
+
+**La figura piu' connessa tra finanza sovrana e sport globale.**
+
+Khaldoon Al Mubarak occupa una posizione unica: CEO del fondo sovrano piu' attivo al mondo E chairman del gruppo calcistico piu' globale.
+
+```
+KHALDOON AL MUBARAK
+         │
+    ┌────┴────────────────────┐
+    │                         │
+    ▼                         ▼
+MUBADALA ($330B)         CITY FOOTBALL GROUP ($6B+)
+    │                         │
+    ├── MGX (AI fund)         ├── Manchester City
+    ├── G42 (UAE AI)          ├── 12 altri club
+    ├── Silver Lake (partner) └── Champions League 2023
+    ├── Endeavor (co-invest)
+    └── SoftBank VF (15%)
+```
+
+| Ruolo | Organizzazione | Implicazione |
+|-------|----------------|--------------|
+| **CEO** | [Mubadala](../docs/swf/mubadala.md) ($330B) | Capitale sovrano UAE |
+| **Chairman** | [CFG](../docs/company/city-football-group.md) | 13 club, 5 continenti |
+| **Vice Chairman** | [MGX](../docs/swf/mgx.md) | AI fund ($100B target) |
+| **Board** | [G42](../docs/company/g42.md) | UAE AI champion |
+| **Co-investor** | [Silver Lake](../docs/private-equity/silver-lake.md) | Endeavor, Waymo |
+
+**Pattern**: Mubadala non possiede CFG (e' di Sheikh Mansour), ma Khaldoon fa da **ponte operativo** tra il capitale sovrano UAE e lo sport globale. Quando Silver Lake acquisisce Endeavor ($25B), Mubadala e' co-investitore. CFG e Mubadala condividono lo stesso chairman.
+
+**Implicazione**: Il "soft power sportivo" UAE e la "strategia AI" UAE sono gestiti dalla stessa persona, creando sinergie non visibili guardando solo le strutture proprietarie.
+
 ---
 
 ## Private Equity nello Sport
@@ -214,6 +247,20 @@ Newton Investment & Development LLC
 - Veicolo dedicato: **$14B**
 - Chairman: Marc Allera (ex-CEO EE)
 - Il piu' grande fondo PE dedicato allo sport
+
+#### CVC Global Sport Group: L'Istituzionalizzazione del PE Sportivo
+
+Il lancio del Global Sport Group nel 2025 segna un **punto di non ritorno**: lo sport non e' piu' un investimento opportunistico per il PE, ma una **asset class istituzionalizzata** con veicoli dedicati.
+
+| Aspetto | Prima (2006-2024) | Dopo (2025+) |
+|---------|-------------------|--------------|
+| **Approccio** | Deal singoli, opportunistici | Fondo dedicato, strategico |
+| **Capitale** | Da fondi generalist | $14B ring-fenced per sport |
+| **Orizzonte** | 5-7 anni (exit focus) | Lungo termine (50 anni La Liga) |
+| **Leadership** | PE partners generalisti | Chairman dedicato (Marc Allera) |
+| **Target** | Singoli asset | Ecosistema completo (leghe, team, media) |
+
+**Implicazione**: Quando il #4 PE mondiale crea un veicolo da $14B solo per lo sport, il messaggio e' chiaro: **lo sport e' infrastruttura finanziaria**, non intrattenimento. Altri PE seguiranno (Apollo ha gia' lanciato sports fund da $5B).
 
 **Il modello F1**:
 ```
@@ -251,6 +298,43 @@ Liberty Media (2016) ◄── $8B vendita
 - Controlla: **WWE**, **UFC**, PBR, On Location, IMG, WME (ora "WME Group")
 - Co-investitori: [Mubadala](../docs/swf/mubadala.md), Michael Dell (DFO), Goldman Sachs AM, CPP Investments
 - Partner dal 2012: "Never sold a share, revenue grew twentyfold"
+
+#### Silver Lake: Il Nuovo Padrone dello Sport Globale
+
+Con l'acquisizione 100% di Endeavor, Silver Lake e' diventato il **singolo attore PE piu' influente** nello sport mondiale:
+
+```
+SILVER LAKE ($174B AUM)
+         │
+         │ 100% (marzo 2025)
+         ▼
+┌─────────────────────────────────────┐
+│           ENDEAVOR GROUP            │
+│         (ora "WME Group")           │
+└──────────────┬──────────────────────┘
+               │
+    ┌──────────┼──────────┬──────────────┐
+    │          │          │              │
+    ▼          ▼          ▼              ▼
+  WME        IMG     On Location    TKO GROUP
+(talent)   (sports    (premium      (NYSE: TKO)
+           mgmt)     experiences)       │
+                                   ┌────┴────┐
+                                   │         │
+                                   ▼         ▼
+                                 UFC       WWE
+                              (MMA)    (Wrestling)
+```
+
+**Cosa controlla Silver Lake (direttamente o via Endeavor)**:
+- **UFC**: La lega MMA piu' grande al mondo
+- **WWE**: Wrestling entertainment globale
+- **IMG**: Management sportivo (atleti, eventi)
+- **On Location**: Hospitality premium per eventi sportivi
+- **PBR**: Professional Bull Riders
+- **18% CFG**: Manchester City e 12 club globali
+
+**Convergenza con Mubadala**: Silver Lake e Mubadala sono partner strategici. Mubadala ha co-investito in Endeavor, detiene stake in Silver Lake stesso, e Khaldoon Al Mubarak (CEO Mubadala) e' chairman di CFG (dove Silver Lake ha 18%). La relazione UAE-Silver Lake e' **la piu' profonda tra finanza sovrana del Golfo e PE americano nello sport**.
 
 ### Apollo Global Management
 
@@ -315,6 +399,36 @@ Fondatore: **[Gerry Cardinale](../docs/persons/gerry-cardinale.md)** (ex-[Goldma
 | **[Arctos Partners](../docs/private-equity/arctos-partners.md)** | PSG (12.5%), vari | Multi-sport |
 | **[Sixth Street Partners](../docs/private-equity/sixth-street-partners.md)** | [Boston Celtics](../docs/sports-club/boston-celtics.md) (~12.5%), Spurs (20%) | $1B Celtics, Real Madrid/Barça financing |
 | **Bain (Pagliuca)** | Ex-Boston Celtics, Atalanta | Stephen Pagliuca (exiting 2028) |
+
+#### Deep Dive: La Catena Brookfield-Oaktree-Inter
+
+Il caso Inter Milan rivela la **profondita' della finanziarizzazione** del calcio europeo:
+
+```
+BROOKFIELD CORPORATION (Canada)
+         │
+         │ 100% (completato 2026)
+         ▼
+BROOKFIELD ASSET MANAGEMENT ($550B AUM)
+         │
+         │ 100%
+         ▼
+OAKTREE CAPITAL MANAGEMENT ($218B AUM)
+         │
+         │ 99.6% (default Suning maggio 2024)
+         ▼
+FC INTERNAZIONALE MILANO
+    20 Scudetti, Champions League finale 2023
+```
+
+**Timeline acquisizione**:
+- **2021**: Suning (Cina) in crisi, Oaktree fornisce €275M rescue loan al 12%
+- **2024**: Loan scade 21 maggio, Suning non ripaga
+- **2024**: 22 maggio, Oaktree assume proprieta' (debt-to-equity)
+- **2025**: Brookfield annuncia acquisizione 100% Oaktree ($3B per 26% rimanente)
+- **2026**: Brookfield completera' acquisizione → **Inter Milan sara' controllata da asset manager canadese**
+
+**Implicazione**: Un club storico italiano, fondato nel 1908, finisce controllato da una catena di tre livelli di finanza alternativa nordamericana. Il pattern distressed debt → equity e' lo stesso di Elliott → AC Milan.
 
 ---
 
@@ -502,85 +616,19 @@ La Bundesliga mantiene la regola 50+1: i membri del club devono detenere almeno 
 
 ## Padel - Il Nuovo Sport Globale
 
-### Overview
+Sport in piu' rapida crescita: 25M giocatori, mercato $2B→$4B (2026). **QSI ha monopolizzato il circuito pro**.
 
-| Metrica | Valore |
-|---------|--------|
-| **Mercato globale** | $2B → $4B previsti 2026 |
-| **Giocatori** | 25 milioni in 110 paesi |
-| **Campi USA** | 227 (2023) → 650+ (2025) |
-| **Campi UK** | 50 (2019) → 710 (2024) |
+| Anno | Evento |
+|------|--------|
+| 2022 | QSI fonda Premier Padel |
+| 2023 | QSI acquisisce World Padel Tour |
+| 2024 | Tour unificato sotto QSI |
 
-Il padel è lo sport in più rapida crescita al mondo, e **QSI ha consolidato il controllo dell'intero circuito professionistico**.
+**Integrazione verticale QSI**: Content (PSG, Padel) + Distribution (beIN) = controllo totale.
 
-### QSI Monopolio Globale
+**PE nel padel**: MCH PE, Sunrise Padel Capital ($50M), EEP Capital. **Celebrity investors**: Ronaldo, Ibrahimovic, Jeter, Daddy Yankee.
 
-| Evento | Data | Dettaglio |
-|--------|------|-----------|
-| **Fondazione Premier Padel** | 2022 | QSI + FIP + PPA |
-| **Acquisizione World Padel Tour** | Agosto 2023 | Da Damm (birra spagnola) |
-| **Tour unificato** | 2024 | Tutto sotto "Premier Padel" |
-
-**Struttura proprietaria**:
-```
-QATAR (Stato)
-       │
-       ▼
-QSI (Qatar Sports Investments)
-       │
-       ├──► PSG (87.5%) ─────────┐
-       │                         │
-       ├──► Premier Padel (100%) │
-       │         │               │
-       │         └──► FIP        │  CONTENT
-       │              Qatar Airways
-       │                         │
-       └──► beIN Media ──────────┘
-                │
-                ├──► 55M subscribers
-                ├──► 40+ paesi        DISTRIBUTION
-                ├──► Miramax (51%)
-                └──► Digiturk (100%)
-```
-
-**Pattern completo**: QSI controlla content (PSG, Padel) + distribution ([beIN](../docs/media/bein-media.md)) = integrazione verticale totale.
-
-### Private Equity nel Padel
-
-| Investitore | Target | Note |
-|-------------|--------|------|
-| **MCH PE** (Spain Oman Fund) | All For Padel (Adidas) | Equipment |
-| **ATITLAN** (famiglia Mercadona) | PadelGalis | Costruttore campi |
-| **Sunrise Padel Capital** | 9 club USA | Fondo $50M |
-| **EEP Capital** | Padel Haus NYC, L.A. Beat | VC specializzato |
-| **Allegro Capital** + altri | The Padel Club UK | UK expansion |
-
-### Celebrity Investors
-
-| Persona | Investimento |
-|---------|--------------|
-| **Cristiano Ronaldo** | Cidade do Padel (Lisbona) |
-| **Zlatan Ibrahimović** | Padel Zenter (Svezia) |
-| **Derek Jeter** | Investitore padel USA |
-| **Daddy Yankee** | Orlando Flowrida Goats (PPL) |
-| **Gavin Maloof** (Golden Knights) | Las Vegas Smash (PPL) |
-| **Tommy Haas** (ex-ATP #2) | San Diego Stingrays (PPL) |
-
-### Pro Padel League (PPL) - USA
-
-| Anno | Franchise | Note |
-|------|-----------|------|
-| 2023 | 7 | Lancio |
-| 2024 | 10 | Espansione |
-
-La PPL sta replicando il modello delle leghe americane (franchise, celebrity owners) per il mercato USA.
-
-### Implicazioni Geopolitiche
-
-1. **Monopolio QSI**: Stesso pattern PSG - controllo totale di uno sport emergente
-2. **Pipeline Golfo**: Qatar posizionato per dominare nuovo sport globale
-3. **Infrastrutture**: PE investe in campi/club mentre QSI controlla tour
-4. **Celebrity laundering**: Atleti famosi come investitori legittimano lo sport
+**Pattern**: Stesso modello PSG - Qatar domina sport emergente prima che altri attori possano entrare.
 
 ---
 
@@ -662,6 +710,48 @@ AL-KHELAIFI (singolo chairman)
 
 **Implicazione**: Qatar puo' produrre contenuto sportivo (PSG, Padel) e monetizzarlo direttamente (beIN), bypassando intermediari. Soft power + profitto in un unico loop.
 
+#### FIFAgate: Dinastie Mediatiche Latinoamericane
+
+Lo scandalo FIFA 2015 ha rivelato che i monopoli mediatici latinoamericani erano parte integrante del sistema corruttivo per i diritti TV World Cup.
+
+**I tre broadcaster implicati:**
+
+| Broadcaster | Famiglia | Paese | Status |
+|-------------|----------|-------|--------|
+| [Grupo Televisa](../docs/media/grupo-televisa.md) | [Azcarraga](../docs/family/azcarraga.md) | Messico | Indagine DOJ attiva |
+| [Grupo Globo](../docs/media/grupo-globo.md) | [Marinho](../docs/family/marinho.md) | Brasile | Co-implicata |
+| Torneos y Competencias | Burzaco | Argentina | Testimone cooperante |
+
+**Schema corruzione:**
+```
+TELEVISA + GLOBO + TORNEOS
+         │
+         │ $15M tangenti
+         ▼
+JULIO GRONDONA (FIFA Argentina)
+         │
+         │ Diritti TV assegnati
+         ▼
+WORLD CUP 2018-2030 (America Latina)
+```
+
+**Timeline FIFAgate - Media:**
+
+| Anno | Evento |
+|------|--------|
+| **2015** | DOJ incrimina funzionari FIFA, broadcaster implicati |
+| **2017** | Televisa nominata in causa; Azcarraga Jean lascia CEO |
+| **2023** | Televisa settlement **$95M** con investitori USA |
+| **2024** | DOJ riapre indagine specifica su Televisa |
+| **Oct 2024** | **Emilio Azcarraga Jean in congedo** - prima volta in 94 anni senza Azcarraga alla guida |
+
+**Pattern identificato:**
+Le stesse dinastie che controllano i **monopoli mediatici nazionali** (influenza politica, propaganda) erano coinvolte nella **corruzione sportiva transnazionale**:
+- **Marinho/Globo**: "Soldados" della dittatura brasiliana + manipolazione elezioni 1989 + FIFAgate
+- **Azcarraga/Televisa**: "Soldados del PRI" + 71 anni di propaganda + FIFAgate
+
+**Implicazione**: Il potere mediatico, politico e sportivo convergono nelle stesse famiglie - la corruzione FIFA non e' anomalia ma estensione naturale del loro modello di business.
+
 ### 4. Revolving Door Sport-Politics
 
 | Persona | Governo/Corporate | Sport |
@@ -741,103 +831,15 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 
 ---
 
-## Entita' Aggiunte al Database
+## Entita' Correlate
 
-### Organizzazioni (completate)
+**Schede complete (✅)**: [FIFA](../docs/agency/fifa.md), [IOC](../docs/agency/ioc.md), [QSI](../docs/swf/qsi.md), [Silver Lake](../docs/private-equity/silver-lake.md), [RedBird](../docs/private-equity/redbird-capital.md), [Oaktree](../docs/private-equity/oaktree-capital.md), [ADUG](../docs/company/adug.md), [PSG](../docs/sports-club/psg.md), [AC Milan](../docs/sports-club/ac-milan.md), [beIN Media](../docs/media/bein-media.md), [Marinho](../docs/family/marinho.md), [Azcarraga](../docs/family/azcarraga.md)
 
-| ID | Tipo | Scheda |
-|----|------|--------|
-| [fifa](../docs/agency/fifa.md) | Agency | ✅ |
-| [ioc](../docs/agency/ioc.md) | Agency | ✅ |
-| [uefa](../docs/agency/uefa.md) | Agency | stub |
-| [eca](../docs/agency/eca.md) | Agency | stub |
-| [silver-lake](../docs/private-equity/silver-lake.md) | PrivateEquity | ✅ |
-| [redbird-capital](../docs/private-equity/redbird-capital.md) | PrivateEquity | ✅ |
-| [elliott-management](../docs/private-equity/elliott-management.md) | PrivateEquity | stub |
-| [arctos-partners](../docs/private-equity/arctos-partners.md) | PrivateEquity | stub |
-| [city-football-group](../docs/company/city-football-group.md) | Company | stub |
-| [adug](../docs/company/adug.md) | Company | ✅ |
-| [qsi](../docs/swf/qsi.md) | SWF | ✅ |
-| [fenway-sports-group](../docs/company/fenway-sports-group.md) | Company | stub |
-| [endeavor](../docs/company/endeavor.md) | Company | stub |
-| [tko-group](../docs/company/tko-group.md) | Company | stub (WWE/UFC) |
-| [yankee-global](../docs/company/yankee-global.md) | Company | stub |
-| [psg](../docs/sports-club/psg.md) | SportsClub | ✅ |
-| [ac-milan](../docs/sports-club/ac-milan.md) | SportsClub | ✅ |
-| [manchester-city](../docs/sports-club/manchester-city.md) | SportsClub | stub |
-| [liverpool-fc](../docs/sports-club/liverpool-fc.md) | SportsClub | stub |
-| [premier-padel](../docs/sports-club/premier-padel.md) | SportsClub | stub |
-| [fip](../docs/agency/fip.md) | Agency | stub |
-| [bein-media](../docs/media/bein-media.md) | Media | ✅ |
-| [miramax](../docs/media/miramax.md) | Media | stub |
-| [digiturk](../docs/media/digiturk.md) | Media | stub |
+**Club sportivi**: Newcastle, Chelsea, Liverpool, Man City, Inter, Boston Celtics, Toulouse, Girona, NYCFC, Melbourne City, EC Bahia, SC Braga, Atletico Madrid
 
-### Persone (completate)
+**PE/Asset Managers**: CVC, Apollo, Clearlake, Elliott, Arctos, Sixth Street, Brookfield
 
-| ID | Ruolo | Scheda |
-|----|-------|--------|
-| [gianni-infantino](../docs/persons/gianni-infantino.md) | FIFA President | stub |
-| [thomas-bach](../docs/persons/thomas-bach.md) | IOC ex-President | stub |
-| [kirsty-coventry](../docs/persons/kirsty-coventry.md) | IOC President | stub |
-| [nasser-al-khelaifi](../docs/persons/nasser-al-khelaifi.md) | QSI/PSG/beIN/ECA/FIFA | stub |
-| [gerry-cardinale](../docs/persons/gerry-cardinale.md) | RedBird founder | stub |
-| [egon-durban](../docs/persons/egon-durban.md) | Silver Lake Co-CEO | stub |
-| [paolo-scaroni](../docs/persons/paolo-scaroni.md) | Chairman AC Milan, ex-CEO ENI | stub |
-
-### Aggiunti di recente
-
-| ID | Tipo | Scheda |
-|----|------|--------|
-| [clearlake-capital](../docs/private-equity/clearlake-capital.md) | PrivateEquity | Chelsea FC 61.5% |
-| [atletico-madrid](../docs/sports-club/atletico-madrid.md) | SportsClub | Apollo 51-55%, Quantum 27% |
-| [chelsea-fc](../docs/sports-club/chelsea-fc.md) | SportsClub | Clearlake/Boehly |
-| [idan-ofer](../docs/persons/idan-ofer.md) | Person | Quantum Pacific, Atlético 27% |
-| [ofer](../docs/family/ofer.md) | Family | Dinastia shipping israeliana |
-
-### Aggiunti Dicembre 2025
-
-| ID | Tipo | Scheda |
-|----|------|--------|
-| [liv-golf](../docs/company/liv-golf.md) | Company | ✅ PIF ~$5B, Scott O'Neil CEO |
-| [newcastle-united](../docs/sports-club/newcastle-united.md) | SportsClub | ✅ PIF 85%, Carabao Cup 2025 |
-| [savvy-games-group](../docs/company/savvy-games-group.md) | Company | ✅ PIF 100%, $38B allocati, Scopely, ESL |
-| [chelsea-fc](../docs/sports-club/chelsea-fc.md) | SportsClub | ✅ Clearlake 61.5%, Boehly chairman |
-| [todd-boehly](../docs/persons/todd-boehly.md) | Person | stub - Chairman Chelsea, Dodgers 20% |
-| greg-norman | Person | stub - Ex-CEO LIV Golf |
-| scott-oneil | Person | stub - CEO LIV Golf dal 2025 |
-| eddie-howe | Person | stub - Manager Newcastle |
-| amanda-staveley | Person | stub - Ex-Newcastle co-owner |
-| brian-ward | Person | stub - CEO Savvy Games |
-| [sc-braga](../docs/sports-club/sc-braga.md) | SportsClub | ✅ QSI 21.67%, António Salvador pres. |
-| [girona-fc](../docs/sports-club/girona-fc.md) | SportsClub | ✅ CFG 47%, blind trust UEFA 2024-25 |
-| [nycfc](../docs/sports-club/nycfc.md) | SportsClub | ✅ CFG 80%, Yankees 10%, Claure 10% |
-| [melbourne-city](../docs/sports-club/melbourne-city.md) | SportsClub | ✅ CFG 100%, 3 premierships consecutive |
-| [ec-bahia](../docs/sports-club/ec-bahia.md) | SportsClub | ✅ CFG 90% SAF, primo brasiliano |
-| pere-guardiola | Person | stub - Chairman Girona, fratello Pep |
-| delfi-geli | Person | stub - President Girona |
-| marcelo-claure | Person | stub - 35% Girona, 10% NYCFC, ex-SoftBank |
-| antonio-salvador | Person | stub - President SC Braga |
-| [boston-celtics](../docs/sports-club/boston-celtics.md) | SportsClub | ✅ $6.1B record USA, Chisholm/Sixth Street |
-| [toulouse-fc](../docs/sports-club/toulouse-fc.md) | SportsClub | ✅ RedBird 85%, in vendita multi-club |
-| [sixth-street-partners](../docs/private-equity/sixth-street-partners.md) | PrivateEquity | stub - $100B+ AUM, Celtics/Spurs/Real/Barça |
-| [symphony-technology-group](../docs/private-equity/symphony-technology-group.md) | PrivateEquity | stub - Chisholm's firm, $10B AUM |
-| bill-chisholm | Person | stub - Lead owner Celtics, STG Managing Partner |
-| wyc-grousbeck | Person | stub - Ex-owner Celtics, Governor fino 2028 |
-| damien-comolli | Person | stub - President Toulouse FC |
-| [oaktree-capital](../docs/private-equity/oaktree-capital.md) | PrivateEquity | ✅ $218B AUM, Inter Milan 99.6%, Brookfield-owned |
-| [inter-milan](../docs/sports-club/inter-milan.md) | SportsClub | stub - 20 Scudetti, Oaktree 2024 |
-| [brookfield-asset-management](../docs/asset-manager/brookfield-asset-management.md) | AssetManager | stub - $550B, owns Oaktree 100% (2026) |
-| howard-marks | Person | stub - Co-founder Oaktree, investor memos |
-| bruce-karsh | Person | stub - Co-founder Oaktree, $2.4B, CIO |
-
-### Da aggiungere
-
-| ID | Tipo | Priorita' |
-|----|------|-----------|
-| john-henry | Person | Media |
-| mark-walter | Person | Bassa |
-
-*Nota: cvc-capital-partners già presente in [docs/private-equity/cvc-capital-partners.md](../docs/private-equity/cvc-capital-partners.md)*
+**Persone chiave**: Infantino, Al-Khelaifi, Cardinale, Scaroni, Al-Rumayyan, Mansour, Khaldoon Al Mubarak
 
 ---
 
@@ -875,25 +877,6 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 
 ---
 
-*Report creato: 8 Dicembre 2025*
-*Ultimo aggiornamento: 10 Dicembre 2025*
-- **10 Dic (IV)**: Aggiunta scheda [Oaktree Capital](../docs/private-equity/oaktree-capital.md) ($218B AUM, Inter Milan 99.6%), stub [Inter Milan](../docs/sports-club/inter-milan.md), stub [Brookfield](../docs/asset-manager/brookfield-asset-management.md)
-- **10 Dic (III)**: Aggiunte schede: Boston Celtics ($6.1B record, Sixth Street, Bill Chisholm), Toulouse FC (RedBird 85%, in vendita)
-- **10 Dic (III)**: Aggiunti stub PE: Sixth Street Partners, Symphony Technology Group
-- **10 Dic (III)**: Aggiunti stub persons: Bill Chisholm, Wyc Grousbeck, Damien Comolli
-- **10 Dic (II)**: Aggiunte schede network CFG: SC Braga (QSI 21.67%), Girona FC (CFG 47%, blind trust UEFA), NYCFC (CFG 80%, Yankees/Claure), Melbourne City (CFG 100%, 3 premierships), EC Bahia (CFG 90% SAF)
-- **10 Dic (II)**: Aggiunti stub: Pere Guardiola, Delfí Geli, Marcelo Claure, António Salvador
-- **10 Dic (II)**: Creato stub Yankee Global Enterprises
-- **10 Dic**: Aggiunte schede complete: LIV Golf (~$5B PIF), Newcastle United (Carabao Cup 2025), Savvy Games Group ($38B gaming), Chelsea FC (Clearlake/Boehly)
-- **10 Dic**: Documentato conflitto Boehly vs Clearlake su stadio Chelsea
-- **10 Dic**: Aggiunti stub: Todd Boehly, Greg Norman, Scott O'Neil, Eddie Howe, Amanda Staveley, Brian Ward
-- Aggiunta scheda completa beIN Media Group con dettagli integrazione verticale
-- Aggiunta sezione "Guerra dei Diritti: beoutQ" sulla pirateria di stato saudita
-- Espansa sezione "Convergenza Ownership-Broadcasting" con deep dive beIN
-- Aggiornato diagramma QSI con struttura content/distribution completa
-- Aggiunta sezione "Padel - Il Nuovo Sport Globale" con analisi monopolio QSI
-- Aggiunte entita: Premier Padel, FIP, beIN Media, Miramax, Digiturk
-- Aggiornata scheda QSI con dettagli padel
-- Aggiunte schede complete: AC Milan, PSG (nuova categoria `SportsClub`)
-- Aggiunti: Paolo Scaroni, Elliott Management, Arctos Partners, Yankee Global
-- Aggiornato revolving door con Scaroni (ENI → Rothschild → AC Milan → Enel)
+*Report creato: 8 Dicembre 2025 | Ultimo aggiornamento: 10 Dicembre 2025*
+
+Changelog recente: FIFAgate/Dinastie Mediatiche (Marinho, Azcarraga), Ponte Mubadala-Sport, Catena Brookfield-Oaktree-Inter, Silver Lake/Endeavor, CVC Global Sport Group, network CFG, beIN/beoutQ, Padel/QSI

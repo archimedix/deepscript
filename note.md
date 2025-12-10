@@ -11,7 +11,7 @@
 Alexander Snowden
 Gruppo energia
 Casate Reali
-
+Brasile: lula, bolsonaro
 
 Priorità 1: Ambiti ad alta interconnessione
 
