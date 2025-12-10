@@ -536,12 +536,13 @@ Prima mega-acquisizione facilitata dal canale Kushner.
 | Nome | Ruolo | Priorita' | Status |
 |------|-------|-----------|--------|
 | ~~Sheikh Tahnoun bin Zayed~~ | ~~Chair MGX~~ | ~~Alta~~ | **AGGIUNTO** |
-| Jared Kushner | Affinity Partners | Alta | Da aggiungere |
+| ~~Jared Kushner~~ | ~~Affinity Partners~~ | ~~Alta~~ | **AGGIUNTO** - [scheda](../docs/persons/jared-kushner.md) |
 | Khaldoon Al Mubarak | Vice Chair MGX, CEO Mubadala | Alta | Da aggiungere |
 | ~~Sam Altman~~ | ~~CEO OpenAI~~ | ~~Media~~ | **AGGIUNTO** |
-| Larry Ellison | Oracle, Stargate | Media | Da aggiungere |
+| ~~Larry Ellison~~ | ~~Oracle, Stargate~~ | ~~Media~~ | **GIA' PRESENTE** - [scheda](../docs/persons/larry-ellison.md) |
 | Peng Xiao | CEO G42 | Media | **AGGIUNTO** |
 | Brad Smith | President Microsoft, Board G42 | Media | **AGGIUNTO** |
+| ~~Luis Videgaray~~ | ~~Affinity Partners, ex-Mexico FM~~ | ~~Media~~ | **AGGIUNTO** |
 
 ### Organizzazioni da aggiungere
 
@@ -549,9 +550,9 @@ Prima mega-acquisizione facilitata dal canale Kushner.
 |------|------|-----------|--------|
 | ~~G42~~ | ~~Company (AI)~~ | ~~Media~~ | **AGGIUNTO** - [scheda](../docs/company/g42.md) |
 | ~~Silver Lake~~ | ~~PE~~ | ~~Media~~ | **AGGIUNTO** |
-| MGX | SWF/Fund | Alta | Da aggiungere |
-| Affinity Partners | PE | Alta | Da aggiungere |
-| Lucid Motors | Company (EV) | Media | Da aggiungere |
+| ~~MGX~~ | ~~SWF/Fund~~ | ~~Alta~~ | **GIA' PRESENTE** - [scheda](../docs/swf/mgx.md) |
+| ~~Affinity Partners~~ | ~~PE~~ | ~~Alta~~ | **AGGIUNTO** - [scheda](../docs/private-equity/affinity-partners.md) |
+| ~~Lucid Motors~~ | ~~Company (EV)~~ | ~~Media~~ | **GIA' PRESENTE** - [scheda](../docs/automaker/lucid-motors.md) |
 
 ---
 

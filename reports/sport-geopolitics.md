@@ -781,18 +781,27 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 | [egon-durban](../docs/persons/egon-durban.md) | Silver Lake Co-CEO | stub |
 | [paolo-scaroni](../docs/persons/paolo-scaroni.md) | Chairman AC Milan, ex-CEO ENI | stub |
 
+### Aggiunti di recente
+
+| ID | Tipo | Scheda |
+|----|------|--------|
+| [clearlake-capital](../docs/private-equity/clearlake-capital.md) | PrivateEquity | Chelsea FC 61.5% |
+| [atletico-madrid](../docs/sports-club/atletico-madrid.md) | SportsClub | Apollo 51-55%, Quantum 27% |
+| [chelsea-fc](../docs/sports-club/chelsea-fc.md) | SportsClub | Clearlake/Boehly |
+| [idan-ofer](../docs/persons/idan-ofer.md) | Person | Quantum Pacific, Atlético 27% |
+| [ofer](../docs/family/ofer.md) | Family | Dinastia shipping israeliana |
+
 ### Da aggiungere
 
 | ID | Tipo | Priorita' |
 |----|------|-----------|
-| cvc-capital-partners | PrivateEquity | Alta |
-| apollo-global-management | PrivateEquity | Alta |
-| clearlake-capital | PrivateEquity | Media |
 | savvy-games-group | Company | Media |
-| newcastle-united | Company | Media |
+| newcastle-united | SportsClub | Media |
 | liv-golf | Company | Media |
 | todd-boehly | Person | Media |
 | john-henry | Person | Media |
+
+*Nota: cvc-capital-partners già presente in [docs/private-equity/cvc-capital-partners.md](../docs/private-equity/cvc-capital-partners.md)*
 
 ---
 

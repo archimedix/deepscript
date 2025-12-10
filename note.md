@@ -9,6 +9,9 @@
 
 
 Alexander Snowden
+Gruppo energia
+Casate Reali
+
 
 Priorità 1: Ambiti ad alta interconnessione
 
@@ -79,12 +82,6 @@ Suggerimenti per nuove schede PE
   |---------------------------|--------|------------------------------------------------------------|
   | Japan Industrial Partners | -      | Buyout Toshiba 2023, connessioni keiretsu                  |
 
-  Singapore
-
-  | Nome    | AUM    | Perché interessante                     |
-  |---------|--------|-----------------------------------------|
-  | Temasek | ~$380B | SWF ma fa PE diretto, Lee family legacy |
-  | GIC     | ~$770B | SWF, già nel database?                  |
 
   ---
   Europa

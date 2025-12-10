@@ -1,0 +1,108 @@
+PERSONE MANCANTI
+
+  Alta Priorità
+
+  | ID                       | Report       | Note                              |
+  |--------------------------|--------------|-----------------------------------|
+  | wolfgang-porsche         | automotive   | Chair Porsche SE                  |
+  | ferdinand-porsche        | automotive   | Fondatore storico                 |
+  | ferdinand-piech          | automotive   | Dynasty Porsche-Piech             |
+  | tamim-bin-hamad-al-thani | sport        | Emir Qatar, decisioni PSG         |
+  | daniel-bahr              | wef-ygl      | Ex-Health Minister Germania (YGL) |
+  | gil-shwed                | intelligence | Unit 8200 → Check Point           |
+  | nir-zuk                  | intelligence | Unit 8200 → Palo Alto Networks    |
+
+  Media Priorità
+
+  | ID                 | Report     | Note                           |
+  |--------------------|------------|--------------------------------|
+  | marc-allera        | sport/gulf | Chair CVC Global Sport Group   |
+  | todd-boehly        | sport      | Chelsea FC owner               |
+  | john-henry         | sport      | FSG/Liverpool owner            |
+  | dan-friedkin       | sport      | AS Roma owner                  |
+  | rocco-commisso     | sport      | Fiorentina owner               |
+  | kyle-krause        | sport      | Parma owner                    |
+  | margaret-hamburg   | pharma     | Ex-FDA → GAVI board            |
+  | robert-califf      | pharma     | Current FDA Commissioner       |
+  | tim-buckley        | pharma     | Ex-CEO Vanguard → Pfizer board |
+  | cyrus-taraporevala | pharma     | Ex-CEO SSGA → Pfizer board     |
+  | lim-chow-kiat      | swf        | CEO GIC Singapore              |
+  | zhang-qingsong     | swf        | Chairman CIC                   |
+  | greg-combet        | swf        | Chairman Future Fund Australia |
+  | aleksander-ceferin | sport      | President UEFA                 |
+  | david-solomon      | gulf       | CEO Goldman Sachs, FII speaker |
+
+  ---
+  ORGANIZZAZIONI MANCANTI
+
+  Alta Priorità
+
+  | ID                     | Tipo          | Report          | Note                          |
+  |------------------------|---------------|-----------------|-------------------------------|
+  | liv-golf               | Company       | sport/gulf      | PIF $5B                       |
+  | newcastle-united       | SportsClub    | sport           | PIF 85%                       |
+  | savvy-games-group      | Company       | sport           | PIF esports $38B              |
+  | chelsea-fc             | SportsClub    | sport           | Clearlake/Boehly              |
+  | al-jazeera             | Media         | media           | Qatar state media             |
+  | trt                    | Media         | media           | Turkey state media            |
+  | network18              | Media         | media           | Reliance/Ambani               |
+  | ndtv                   | Media         | media           | Adani 64%                     |
+  | grupo-globo            | Media         | media           | Brazil Marinho family         |
+  | grupo-televisa         | Media         | media           | Mexico Azcárraga              |
+  | oaktree-capital        | PrivateEquity | sport           | Inter Milan owner             |
+  | weltcome-trust         | Foundation    | pharma          | $38B UK charity               |
+  | global-fund            | Agency        | pharma          | HIV/TB/Malaria                |
+  | phRMA                  | Agency        | pharma          | Industry lobby                |
+  | safe                   | SWF           | swf             | China $1T+ forex              |
+
+  Media Priorità
+
+  | ID                   | Tipo       | Report         | Note                    |
+  |----------------------|------------|----------------|-------------------------|
+  | sc-braga             | SportsClub | sport          | QSI 22%                 |
+  | girona-fc            | SportsClub | sport          | CFG (blind trust)       |
+  | nycfc                | SportsClub | sport          | CFG/Manchester City     |
+  | melbourne-city       | SportsClub | sport          | CFG                     |
+  | ec-bahia             | SportsClub | sport          | CFG 90%                 |
+  | boston-celtics       | SportsClub | sport          | Pagliuca/Bain           |
+  | toulouse-fc          | SportsClub | sport          | RedBird                 |
+  | rajasthan-royals     | SportsClub | sport          | RedBird IPL             |
+  | ufl                  | SportsClub | sport          | RedBird XFL+USFL        |
+  | atalanta             | SportsClub | sport          | Pagliuca                |
+  | as-roma              | SportsClub | sport          | Friedkin Group          |
+  | fiorentina           | SportsClub | sport          | Commisso                |
+  | bologna-fc           | SportsClub | sport          | Saputo                  |
+  | parma-calcio         | SportsClub | sport          | Krause                  |
+  | venezia-fc           | SportsClub | sport          | Katsuyama               |
+  | genoa-cfc            | SportsClub | sport          | 777 Partners            |
+  | inter-milan          | SportsClub | sport          | Oaktree                 |
+  | nord-stream-ag       | Company    | revolving-door | Schröder                |
+  | kissinger-associates | Company    | revolving-door | Template post-govt      |
+  | darpa                | Agency     | pharma         | Moderna funding         |
+  | barda                | Agency     | pharma         | Vaccine funding         |
+  | nih                  | Agency     | pharma         | Moderna patent co-owner |
+
+  ---
+  FAMIGLIE MANCANTI
+
+  | ID          | Report     | Note                   |
+  |-------------|------------|------------------------|
+  | marinho     | media      | Brazil Grupo Globo     |
+  | azcarraga   | media      | Mexico Televisa        |
+  | lee-samsung | media      | Korea Samsung/JoongAng |
+  | roberts     | media      | USA Comcast            |
+  | rothermere  | media      | UK Daily Mail          |
+  | bouygues    | media      | France TF1             |
+  | strungmann  | pharma     | BioNTech twins ~50%    |
+  | peugeot     | automotive | Stellantis 7.7%        |
+
+  ---
+  RIEPILOGO PRIORITÀ
+
+  Da aggiungere subito (Alta Priorità - completano network chiave):
+
+  4. Sport: newcastle-united, liv-golf (pattern sportswashing PIF)
+  5. Pharma: wellcome-trust, global-fund (network Gates)
+  6. Media: al-jazeera, grupo-globo (state media, Brazil dynasty)
+  7. Famiglie: marinho, strungmann
+  8. Persone: wolfgang-porsche, tamim-bin-hamad-al-thani, margaret-hamburg

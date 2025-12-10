@@ -99,10 +99,12 @@ Questo report analizza i pattern di "revolving door" - il passaggio di ex-capi d
 
 Tony Blair ha dichiarato a Vanity Fair (2015) che Henry Kissinger è il suo "role model".
 
-**Kissinger Associates** (fondata 1982):
+**[Kissinger Associates](../docs/company/kissinger-associates.md)** (fondata 1982):
 - Template per consulenza geopolitica post-governo
-- Clienti: governi e Fortune 500
-- Kissinger attivo fino a 100 anni
+- Clienti: governi e Fortune 500 (AIG, Chase Manhattan, Fiat, Coca-Cola, Freeport-McMoRan)
+- Partnership strategiche: [Blackstone](../docs/private-equity/blackstone.md) (2002), [Hakluyt](../docs/company/hakluyt.md) (ex-MI6, 2000)
+- **Revolving door interno**: Scowcroft, Eagleburger, Geithner, Bremer, Brennan passati da KA a ruoli governativi
+- Kissinger attivo fino a 100 anni (†2023)
 
 **Blair ha replicato il modello**:
 1. Tony Blair Associates (consulenza governi)
