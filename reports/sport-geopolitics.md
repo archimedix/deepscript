@@ -143,10 +143,11 @@ Durante la crisi diplomatica Qatar-Saudi (2017-2021), i diritti sportivi sono di
 |-------|------|-----------|
 | **[City Football Group](../docs/company/city-football-group.md)** | Holding | 13 club worldwide |
 | **[Manchester City](../docs/sports-club/manchester-city.md)** | Club flagship | Champions League 2023 |
-| **Girona FC** | Club | (in blind trust per UEFA dal 2024) |
-| **NYCFC** | Club | Etihad Park 2027 |
-| **Melbourne City** | Club | Australia |
-| **EC Bahia** | Club | Brasile (90%, 2024) |
+| **[Girona FC](../docs/sports-club/girona-fc.md)** | Club | 47% (blind trust per UEFA 2024-25) |
+| **[NYCFC](../docs/sports-club/nycfc.md)** | Club | 80%, Etihad Park 2027 |
+| **[Melbourne City](../docs/sports-club/melbourne-city.md)** | Club | 100%, 3 premierships consecutive |
+| **[EC Bahia](../docs/sports-club/ec-bahia.md)** | Club | 90% SAF, primo brasiliano CFG |
+| **[SC Braga](../docs/sports-club/sc-braga.md)** | Club | QSI 21.67% (non CFG) |
 
 **Struttura proprietaria**:
 ```
@@ -275,6 +276,7 @@ Fondatore: **[Gerry Cardinale](../docs/persons/gerry-cardinale.md)** (ex-[Goldma
 | Asset | Investimento | Status |
 |-------|--------------|--------|
 | **[AC Milan](../docs/sports-club/ac-milan.md)** | €1.2B (2022) | Supercoppa 2025 |
+| **[Toulouse FC](../docs/sports-club/toulouse-fc.md)** | 85% (2020) | **In vendita** - multi-club conflict |
 | **[Fenway Sports Group](../docs/company/fenway-sports-group.md)** | 11% ($750M) | [Liverpool](../docs/sports-club/liverpool-fc.md), Red Sox |
 | **Alpine Racing F1** | Minority | Michael B. Jordan, Ryan Reynolds |
 | **[YES Network](../docs/media/yes-network.md)** | Stake | Yankees, Amazon |
@@ -308,10 +310,11 @@ Fondatore: **[Gerry Cardinale](../docs/persons/gerry-cardinale.md)** (ex-[Goldma
 | PE Firm | Asset | Note |
 |---------|-------|------|
 | **[Elliott Management](../docs/private-equity/elliott-management.md)** | Ex-AC Milan (2018-2022) | Venduto a RedBird, mantiene minority + board |
-| **Oaktree Capital** | Inter Milan | Default Suning 2024 |
+| **[Oaktree Capital](../docs/private-equity/oaktree-capital.md)** | [Inter Milan](../docs/sports-club/inter-milan.md) | Default Suning 2024, 99.6% |
 | **The Friedkin Group** | AS Roma | Real estate/entertainment |
 | **[Arctos Partners](../docs/private-equity/arctos-partners.md)** | PSG (12.5%), vari | Multi-sport |
-| **Bain (Pagliuca)** | Boston Celtics, Atalanta | Stephen Pagliuca |
+| **[Sixth Street Partners](../docs/private-equity/sixth-street-partners.md)** | [Boston Celtics](../docs/sports-club/boston-celtics.md) (~12.5%), Spurs (20%) | $1B Celtics, Real Madrid/Barça financing |
+| **Bain (Pagliuca)** | Ex-Boston Celtics, Atalanta | Stephen Pagliuca (exiting 2028) |
 
 ---
 
@@ -432,7 +435,7 @@ Fondatore: **[Gerry Cardinale](../docs/persons/gerry-cardinale.md)** (ex-[Goldma
 
 | Club | Proprietario | Tipo | Note |
 |------|--------------|------|------|
-| **Inter Milan** | Oaktree Capital | PE | Default Suning 2024 |
+| **[Inter Milan](../docs/sports-club/inter-milan.md)** | [Oaktree Capital](../docs/private-equity/oaktree-capital.md) | PE | Default Suning 2024, 99.6%. [Brookfield](../docs/asset-manager/brookfield-asset-management.md) owns Oaktree |
 | **[AC Milan](../docs/sports-club/ac-milan.md)** | RedBird (Cardinale) | PE | Ex-Elliott (2018-22), Chairman: [Scaroni](../docs/persons/paolo-scaroni.md) |
 | **AS Roma** | The Friedkin Group | PE | Dan Friedkin |
 | Fiorentina | Rocco Commisso | Private | USA |
@@ -791,15 +794,48 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 | [idan-ofer](../docs/persons/idan-ofer.md) | Person | Quantum Pacific, Atlético 27% |
 | [ofer](../docs/family/ofer.md) | Family | Dinastia shipping israeliana |
 
+### Aggiunti Dicembre 2025
+
+| ID | Tipo | Scheda |
+|----|------|--------|
+| [liv-golf](../docs/company/liv-golf.md) | Company | ✅ PIF ~$5B, Scott O'Neil CEO |
+| [newcastle-united](../docs/sports-club/newcastle-united.md) | SportsClub | ✅ PIF 85%, Carabao Cup 2025 |
+| [savvy-games-group](../docs/company/savvy-games-group.md) | Company | ✅ PIF 100%, $38B allocati, Scopely, ESL |
+| [chelsea-fc](../docs/sports-club/chelsea-fc.md) | SportsClub | ✅ Clearlake 61.5%, Boehly chairman |
+| [todd-boehly](../docs/persons/todd-boehly.md) | Person | stub - Chairman Chelsea, Dodgers 20% |
+| greg-norman | Person | stub - Ex-CEO LIV Golf |
+| scott-oneil | Person | stub - CEO LIV Golf dal 2025 |
+| eddie-howe | Person | stub - Manager Newcastle |
+| amanda-staveley | Person | stub - Ex-Newcastle co-owner |
+| brian-ward | Person | stub - CEO Savvy Games |
+| [sc-braga](../docs/sports-club/sc-braga.md) | SportsClub | ✅ QSI 21.67%, António Salvador pres. |
+| [girona-fc](../docs/sports-club/girona-fc.md) | SportsClub | ✅ CFG 47%, blind trust UEFA 2024-25 |
+| [nycfc](../docs/sports-club/nycfc.md) | SportsClub | ✅ CFG 80%, Yankees 10%, Claure 10% |
+| [melbourne-city](../docs/sports-club/melbourne-city.md) | SportsClub | ✅ CFG 100%, 3 premierships consecutive |
+| [ec-bahia](../docs/sports-club/ec-bahia.md) | SportsClub | ✅ CFG 90% SAF, primo brasiliano |
+| pere-guardiola | Person | stub - Chairman Girona, fratello Pep |
+| delfi-geli | Person | stub - President Girona |
+| marcelo-claure | Person | stub - 35% Girona, 10% NYCFC, ex-SoftBank |
+| antonio-salvador | Person | stub - President SC Braga |
+| [boston-celtics](../docs/sports-club/boston-celtics.md) | SportsClub | ✅ $6.1B record USA, Chisholm/Sixth Street |
+| [toulouse-fc](../docs/sports-club/toulouse-fc.md) | SportsClub | ✅ RedBird 85%, in vendita multi-club |
+| [sixth-street-partners](../docs/private-equity/sixth-street-partners.md) | PrivateEquity | stub - $100B+ AUM, Celtics/Spurs/Real/Barça |
+| [symphony-technology-group](../docs/private-equity/symphony-technology-group.md) | PrivateEquity | stub - Chisholm's firm, $10B AUM |
+| bill-chisholm | Person | stub - Lead owner Celtics, STG Managing Partner |
+| wyc-grousbeck | Person | stub - Ex-owner Celtics, Governor fino 2028 |
+| damien-comolli | Person | stub - President Toulouse FC |
+| [oaktree-capital](../docs/private-equity/oaktree-capital.md) | PrivateEquity | ✅ $218B AUM, Inter Milan 99.6%, Brookfield-owned |
+| [inter-milan](../docs/sports-club/inter-milan.md) | SportsClub | stub - 20 Scudetti, Oaktree 2024 |
+| [brookfield-asset-management](../docs/asset-manager/brookfield-asset-management.md) | AssetManager | stub - $550B, owns Oaktree 100% (2026) |
+| howard-marks | Person | stub - Co-founder Oaktree, investor memos |
+| bruce-karsh | Person | stub - Co-founder Oaktree, $2.4B, CIO |
+
 ### Da aggiungere
 
 | ID | Tipo | Priorita' |
 |----|------|-----------|
-| savvy-games-group | Company | Media |
-| newcastle-united | SportsClub | Media |
-| liv-golf | Company | Media |
-| todd-boehly | Person | Media |
 | john-henry | Person | Media |
+| mark-walter | Person | Bassa |
 
 *Nota: cvc-capital-partners già presente in [docs/private-equity/cvc-capital-partners.md](../docs/private-equity/cvc-capital-partners.md)*
 
@@ -840,7 +876,17 @@ Cardinale (RedBird): "Asset bubble" nelle valuations sportive USA
 ---
 
 *Report creato: 8 Dicembre 2025*
-*Ultimo aggiornamento: 8 Dicembre 2025*
+*Ultimo aggiornamento: 10 Dicembre 2025*
+- **10 Dic (IV)**: Aggiunta scheda [Oaktree Capital](../docs/private-equity/oaktree-capital.md) ($218B AUM, Inter Milan 99.6%), stub [Inter Milan](../docs/sports-club/inter-milan.md), stub [Brookfield](../docs/asset-manager/brookfield-asset-management.md)
+- **10 Dic (III)**: Aggiunte schede: Boston Celtics ($6.1B record, Sixth Street, Bill Chisholm), Toulouse FC (RedBird 85%, in vendita)
+- **10 Dic (III)**: Aggiunti stub PE: Sixth Street Partners, Symphony Technology Group
+- **10 Dic (III)**: Aggiunti stub persons: Bill Chisholm, Wyc Grousbeck, Damien Comolli
+- **10 Dic (II)**: Aggiunte schede network CFG: SC Braga (QSI 21.67%), Girona FC (CFG 47%, blind trust UEFA), NYCFC (CFG 80%, Yankees/Claure), Melbourne City (CFG 100%, 3 premierships), EC Bahia (CFG 90% SAF)
+- **10 Dic (II)**: Aggiunti stub: Pere Guardiola, Delfí Geli, Marcelo Claure, António Salvador
+- **10 Dic (II)**: Creato stub Yankee Global Enterprises
+- **10 Dic**: Aggiunte schede complete: LIV Golf (~$5B PIF), Newcastle United (Carabao Cup 2025), Savvy Games Group ($38B gaming), Chelsea FC (Clearlake/Boehly)
+- **10 Dic**: Documentato conflitto Boehly vs Clearlake su stadio Chelsea
+- **10 Dic**: Aggiunti stub: Todd Boehly, Greg Norman, Scott O'Neil, Eddie Howe, Amanda Staveley, Brian Ward
 - Aggiunta scheda completa beIN Media Group con dettagli integrazione verticale
 - Aggiunta sezione "Guerra dei Diritti: beoutQ" sulla pirateria di stato saudita
 - Espansa sezione "Convergenza Ownership-Broadcasting" con deep dive beIN

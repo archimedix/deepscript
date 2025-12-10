@@ -25,6 +25,19 @@ persons:
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
+  adil-zainulbhai:
+    nationality: IND
+    note: Network18 Chairman. McKinsey India Chairman 2004-2012. IIT Bombay, HBS. Rajat Gupta protege
+    affiliations:
+    - org: mckinsey
+      role: chairman
+      from: 2004
+      to: 2012
+      note: Chairman McKinsey India
+    - org: network18
+      role: chairman
+      from: 2014
+      note: Non-executive Chairman. Reappointed 2024
   ag-sulzberger:
     born: 1980
     nationality: USA
@@ -38,7 +51,9 @@ persons:
     nationality: IND
     affiliations:
     - org: berkshire-hathaway
-      role: chairman
+      role: executive
+      from: 1986
+      note: Vice Chairman Insurance Operations dal 2018
   akio-toyoda:
     born: 1956
     nationality: JPN
@@ -232,6 +247,15 @@ persons:
       role: founder
       from: 2010
       note: Founding Partner, grandson of Jiang Zemin
+  amanda-staveley:
+    born: 1973
+    nationality: GBR
+    affiliations:
+    - org: newcastle-united
+      role: board
+      from: 2021
+      to: 2024
+      note: Co-owner 10% via PCP Capital Partners, poi 6%, exit luglio 2024
   andre-hoffmann:
     born: 1958
     nationality: CHE
@@ -327,6 +351,22 @@ persons:
   antonio-di-pietro:
     born: 1950
     nationality: ITA
+  antonio-salvador:
+    born: 1969
+    nationality: POR
+    affiliations:
+    - org: sc-braga
+      role: chairman
+      from: 2003
+      note: Longest-serving Liga Portugal president
+  armen-panossian:
+    nationality: USA
+    note: Co-CEO Oaktree (2024-). Head Performing Credit.
+    affiliations:
+    - org: oaktree-capital
+      role: executive
+      from: 2024
+      note: Co-CEO
   arthur-levinson:
     born: 1950
     nationality: USA
@@ -363,6 +403,18 @@ persons:
     - org: obama-foundation
       role: founder
       from: 2017
+  behdad-eghbali:
+    nationality: USA
+    note: Ex-TPG, Deutsche Bank
+    affiliations:
+    - org: clearlake-capital
+      role: founder
+      from: 2006
+      note: Co-founder & Managing Partner
+    - org: chelsea-fc
+      role: board
+      from: 2022
+      note: Co-controlling owner via Clearlake
   ben-bernanke:
     born: 1953
     nationality: USA
@@ -453,6 +505,18 @@ persons:
       role: leader
       from: 1983
       to: 1987
+  bill-chisholm:
+    born: 1970
+    nationality: USA
+    affiliations:
+    - org: boston-celtics
+      role: owner
+      from: 2025
+      note: Lead owner, $6.1B acquisition (record NBA)
+    - org: symphony-technology-group
+      role: executive
+      from: 2002
+      note: Managing Partner, Co-founder, CIO
   bill-clinton:
     born: 1946
     nationality: USA
@@ -574,6 +638,22 @@ persons:
     - org: comcast
       role: chairman
       from: 2002
+  brian-ward:
+    nationality: USA
+    affiliations:
+    - org: savvy-games-group
+      role: executive
+      from: 2021
+      note: Founding CEO
+  bruce-karsh:
+    born: 1955
+    nationality: USA
+    note: Co-founder Oaktree Capital. Former clerk Justice Kennedy. Net worth $2.4B. Philanthropist (Duke, UVA, Howard)
+    affiliations:
+    - org: oaktree-capital
+      role: founder
+      from: 1995
+      note: Co-founder, Co-Chairman, CIO
   bud-walton:
     born: 1921
     died: 1995
@@ -631,9 +711,10 @@ persons:
     nationality: USA
     affiliations:
     - org: berkshire-hathaway
-      role: chairman
+      role: executive
       from: 1978
       to: 2023
+      note: Vice Chairman 1978-2023. Morto novembre 2023
   christian-sinding:
     nationality: NOR
     affiliations:
@@ -753,6 +834,13 @@ persons:
       role: executive
       from: 2019
       note: CEO
+  damien-comolli:
+    nationality: FRA
+    affiliations:
+    - org: toulouse-fc
+      role: chairman
+      from: 2020
+      note: Presidente, ex Liverpool/Arsenal/Spurs director
   daniel-daniello:
     born: 1946
     nationality: USA
@@ -911,6 +999,14 @@ persons:
     - org: moderna
       role: board
       note: Board member, Co-founder Carlyle Group
+  delfi-geli:
+    born: 1969
+    nationality: ESP
+    affiliations:
+    - org: girona-fc
+      role: chairman
+      from: 2015
+      note: Club President, ex-footballer (Barca, Atlético)
   dick-cheney:
     born: 1941
     nationality: USA
@@ -949,6 +1045,14 @@ persons:
     - org: walmart
       role: executive
       from: 2014
+  eddie-howe:
+    born: 1977
+    nationality: GBR
+    affiliations:
+    - org: newcastle-united
+      role: executive
+      from: 2021
+      note: Manager, Carabao Cup 2025
   edgar-bronfman-sr:
     born: 1929
     died: 2013
@@ -1081,13 +1185,39 @@ persons:
       note: Co-chair, left board 2018
   emilio-azcarraga-jean:
     born: 1968
-    nationality: Mexican
-    note: Ex-Chairman Televisa. Resigned Oct 2024 amid FIFA bribery probe. ~43% via trust
+    nationality: MEX
+    note: Televisa Chairman. CEO 1997-2017. 3rd gen Azcárraga dynasty. Leave Oct 2024 (FIFA probe)
     affiliations:
+    - org: wef
+      role: member
+      note: WEF participant
     - org: grupo-televisa
       role: chairman
+      from: 1997
       to: 2024
-      note: Resigned Oct 2024
+      note: CEO 1997-2017, Chairman 2017-. Leave Oct 2024
+  emilio-azcarraga-milmo:
+    born: 1930
+    died: 1997
+    nationality: MEX
+    note: Televisa President 1973-1997. "El Tigre". Forbes $5.4B 1994. 2nd gen
+    affiliations:
+    - org: grupo-televisa
+      role: executive
+      from: 1973
+      to: 1997
+      note: President. "El Tigre"
+  emilio-azcarraga-vidaurreta:
+    born: 1895
+    died: 1972
+    nationality: MEX
+    note: Telesistema Mexicano founder. First Mexican radio 1930, TV 1951. 1st gen
+    affiliations:
+    - org: grupo-televisa
+      role: founder
+      from: 1955
+      to: 1972
+      note: Founded Telesistema Mexicano (predecessor)
   emma-walmsley:
     born: 1969
     nationality: British
@@ -1206,6 +1336,14 @@ persons:
     died: 2022
     nationality: UK
     family: rothschild
+  faisal-bin-bandar:
+    nationality: SAU
+    family: saud
+    affiliations:
+    - org: savvy-games-group
+      role: board
+      from: 2021
+      note: Vice Chairman, Chairman Saudi Esports Federation
   faisal-bin-farhan:
     born: 1970
     nationality: SAU
@@ -1639,8 +1777,9 @@ persons:
     nationality: CAN
     affiliations:
     - org: berkshire-hathaway
-      role: chairman
+      role: executive
       from: 2018
+      note: Vice Chairman 2018-2025, CEO dal 1 gennaio 2026
   greg-brockman:
     nationality: USA
     affiliations:
@@ -1648,6 +1787,15 @@ persons:
       role: executive
       from: 2015
       note: President, Co-founder
+  greg-norman:
+    born: 1955
+    nationality: AUS
+    affiliations:
+    - org: liv-golf
+      role: executive
+      from: 2021
+      to: 2025
+      note: CEO e Commissioner
   gro-harlem-brundtland:
     born: 1939
     nationality: NOR
@@ -1684,6 +1832,14 @@ persons:
       role: minister
       from: 1989
       to: 1992
+  hamad-bin-thamer:
+    nationality: QAT
+    family: al-thani
+    affiliations:
+    - org: al-jazeera
+      role: chairman
+      from: 1996
+      note: Fondatore e Chairman board
   hank-paulson:
     born: 1946
     nationality: USA
@@ -1722,6 +1878,14 @@ persons:
       role: board
     - org: porsche-se
       role: board
+  hansjorg-wyss:
+    born: 1935
+    nationality: CHE
+    affiliations:
+    - org: chelsea-fc
+      role: board
+      from: 2022
+      note: Minority owner ~10-13% via BlueCo
   harry-dexter-white:
     born: 1892
     died: 1948
@@ -1888,6 +2052,29 @@ persons:
       role: executive
       from: 1996
       to: 2024
+  howard-marks:
+    born: 1946
+    nationality: USA
+    note: Co-founder Oaktree Capital. Famous for investor memos. Warren Buffett endorsement.
+    affiliations:
+    - org: oaktree-capital
+      role: founder
+      from: 1995
+      note: Co-founder, Co-Chairman
+  ibrahim-eren:
+    nationality: TUR
+    note: TRT Dir Gen 2017-2021. First Turk ABU President. Now BeIN Media advisor
+    affiliations:
+    - org: trt
+      role: executive
+      from: 2017
+      to: 2021
+      note: Director General and Chairman
+    - org: trt-world
+      role: executive
+      from: 2015
+      to: 2021
+      note: CEO at launch
   idan-nurick:
     nationality: ISR
     note: Paragon CEO
@@ -1896,6 +2083,13 @@ persons:
       role: executive
       from: 2019
       note: CEO
+  idan-ofer:
+    born: 1955
+    nationality: ISR
+    affiliations:
+    - org: quantum-pacific
+      role: founder
+      note: Principal owner
   igor-bogudlov:
     nationality: ISR
     note: Paragon CTO
@@ -2106,6 +2300,10 @@ persons:
       to: 2005
     - org: kissinger-associates
       role: executive
+    - org: lazard
+      role: advisor
+      from: 2022
+      note: Senior Advisor
   jamie-dimon:
     born: 1956
     nationality: USA
@@ -2163,6 +2361,15 @@ persons:
     born: 1937
     nationality: USA
     family: rockefeller
+  jay-wintrob:
+    nationality: USA
+    note: Ex-CEO Oaktree (2011-2024). Resigned Q1 2024.
+    affiliations:
+    - org: oaktree-capital
+      role: executive
+      from: 2011
+      to: 2024
+      note: CEO 2011-2024
   jean-claude-juncker:
     born: 1954
     nationality: LUX
@@ -2268,11 +2475,14 @@ persons:
     nationality: USA
     family: walton
   joao-roberto-marinho:
-    nationality: Brazilian
-    note: Chairman Grupo Globo. Forbes $4.3B
+    born: 1953
+    nationality: BRA
+    note: Globo Chairman 2021-. Middle brother. Forbes billionaire ~$1.6B
     affiliations:
     - org: grupo-globo
       role: chairman
+      from: 2021
+      note: Chairman Board dal 2021
   joaquin-duato:
     born: 1962
     nationality: ESP-USA
@@ -2539,6 +2749,18 @@ persons:
       role: chairman
       from: 2021
       note: Board Chair
+  jose-feliciano-pe:
+    born: 1972
+    nationality: USA
+    note: Puerto Rico-born, Princeton, Stanford MBA, ex-Goldman
+    affiliations:
+    - org: goldman-sachs
+      role: executive
+      note: M&A and Corporate Finance
+    - org: clearlake-capital
+      role: founder
+      from: 2006
+      note: Co-founder & Managing Partner
   jose-luis-zapatero:
     born: 1960
     nationality: ESP
@@ -2574,6 +2796,15 @@ persons:
     - person: rupert-murdoch
       type: professional
       note: board-news-corp
+  jose-roberto-marinho:
+    born: 1956
+    nationality: BRA
+    note: Globo Vice President. Youngest brother. President Fundação Roberto Marinho
+    affiliations:
+    - org: grupo-globo
+      role: executive
+      from: 2003
+      note: Vice President. President Fundação Roberto Marinho
   joseph-bae:
     nationality: USA
     affiliations:
@@ -3077,6 +3308,22 @@ persons:
       role: founder
       from: 2011
       note: Founding Managing Partner, ex-Ping An, now Singapore
+  luis-videgaray:
+    born: 1968
+    nationality: MEX
+    affiliations:
+    - org: wef
+      role: ygl
+      note: Young Global Leader
+    - org: affinity-partners
+      role: partner
+      from: 2023
+      note: Head of AI practice
+    - org: governo-messico
+      role: minister
+      from: 2017
+      to: 2018
+      note: Foreign Minister
   lukas-walton:
     born: 1986
     nationality: USA
@@ -3089,6 +3336,20 @@ persons:
       role: executive
       from: 2017
       note: CCO, CEO from Jan 2026
+  mack-mclarty:
+    born: 1946
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 1993
+      to: 1994
+      note: White House Chief of Staff
+    - org: kissinger-associates
+      role: partner
+      from: 1999
+      to: 2008
+      note: Kissinger McLarty Associates
   maia-sandu:
     born: 1972
     nationality: MDA
@@ -3150,6 +3411,17 @@ persons:
       role: founder
       from: 1990
       note: Co-Founder, CEO (2021), Chairman
+  marcelo-claure:
+    nationality: BOL
+    affiliations:
+    - org: girona-fc
+      role: board
+      from: 2020
+      note: 35% ownership, president Club Bolivar
+    - org: nycfc
+      role: board
+      from: 2024
+      note: 10% ownership via CFG US Holdco LLC
   marcus-wallenberg:
     born: 1956
     nationality: SWE
@@ -3467,6 +3739,14 @@ persons:
     died: 1812
     nationality: Germania
     family: rothschild
+  mehmet-zahid-sobaci:
+    nationality: TUR
+    note: TRT Director General 2021-. Academic public admin. Ex-Vice Dir Communications Presidency
+    affiliations:
+    - org: trt
+      role: executive
+      from: 2021
+      note: Director General. Reappointed 2025
   michael-bloomberg:
     born: 1942
     nationality: USA
@@ -3652,6 +3932,9 @@ persons:
       note: Crown Prince, de facto ruler, Chairman PIF
     - org: pif
       role: chairman
+    - org: savvy-games-group
+      role: chairman
+      from: 2021
     relations:
     - person: salman-bin-abdulaziz
       type: son
@@ -4062,6 +4345,13 @@ persons:
       role: executive
       from: 2025
       note: CEO dal maggio 2025
+  pere-guardiola:
+    nationality: ESP
+    affiliations:
+    - org: girona-fc
+      role: chairman
+      from: 2015
+      note: Chairman Board of Directors, leads Girona Football Group (16%)
   pete-buttigieg:
     born: 1982
     nationality: USA
@@ -4220,6 +4510,19 @@ persons:
     died: 1817
     nationality: Francia/USA
     family: dupont
+  prannoy-roy:
+    born: 1949
+    nationality: IND
+    note: NDTV co-founder. Pioneer psephology India. PhD Economics. deKoder 2023
+    affiliations:
+    - org: wef
+      role: member
+      note: WEF contributor
+    - org: ndtv
+      role: founder
+      from: 1988
+      to: 2022
+      note: Co-founder, Executive Co-Chairman. Sold stake to Adani
   prescott-bush:
     born: 1895
     died: 1972
@@ -4232,6 +4535,32 @@ persons:
     born: 1958
     nationality: Australia
     family: murdoch
+  radhika-roy:
+    nationality: IND
+    note: NDTV co-founder. Sister Brinda Karat (CPIM). Ex-Indian Express, India Today
+    affiliations:
+    - org: ndtv
+      role: founder
+      from: 1988
+      to: 2022
+      note: Co-founder, Executive Co-Chairman
+  raghav-bahl:
+    nationality: IND
+    note: Founded Network18 1993. Lost control to Reliance 2014. Now Quintillion Media (The Quint)
+    affiliations:
+    - org: network18
+      role: founder
+      from: 1993
+      to: 2014
+      note: Founder, MD. Lost control to Reliance
+  rahul-joshi:
+    nationality: IND
+    note: Network18 MD/CEO 2018-. Ex-Economic Times editor. Group Editor-in-Chief
+    affiliations:
+    - org: network18
+      role: executive
+      from: 2015
+      note: MD, CEO, Group Editor-in-Chief
   rajeev-misra:
     nationality: IND
     affiliations:
@@ -4287,6 +4616,15 @@ persons:
       role: chairman
       from: 1991
       to: 2012
+  ravish-kumar:
+    nationality: IND
+    note: NDTV anchor 1996-2022. Ramon Magsaysay 2019. YouTube 10M. "While We Watched" doc
+    affiliations:
+    - org: ndtv
+      role: executive
+      from: 1996
+      to: 2022
+      note: Senior Executive Editor. Resigned post-Adani takeover
   ray-dalio:
     born: 1949
     nationality: USA
@@ -4500,6 +4838,14 @@ persons:
       role: minister
       from: 1961
       to: 1968
+  robert-oleary:
+    nationality: USA
+    note: Co-CEO Oaktree (2024-). Global Opportunities strategy PM.
+    affiliations:
+    - org: oaktree-capital
+      role: executive
+      from: 2024
+      note: Co-CEO
   robert-peugeot:
     born: 1950
     nationality: FRA
@@ -4526,14 +4872,27 @@ persons:
     - org: citigroup
       role: advisor
       from: 1999
+  roberto-irineu-marinho:
+    born: 1947
+    nationality: BRA
+    note: Globo Chairman 2003-2021. Eldest brother. Forbes billionaire ~$4.3B
+    affiliations:
+    - org: grupo-globo
+      role: chairman
+      from: 2003
+      to: 2021
+      note: Chairman Board. Now Vice President
   roberto-marinho:
     born: 1904
     died: 2003
-    nationality: Brazilian
-    note: Built Globo into media empire. Founder TV Globo 1965
+    nationality: BRA
+    note: Globo founder. Built empire during military dictatorship. Time-Life deal 1962
     affiliations:
     - org: grupo-globo
       role: founder
+      from: 1925
+      to: 2003
+      note: Founder, Chairman until death
   rodolphe-saade:
     born: 1970
     nationality: Francia/Libano
@@ -4668,6 +5027,18 @@ persons:
       role: executive
       from: 2024
       note: CEO
+  sanjay-pugalia:
+    nationality: IND
+    note: AMG Media CEO. Ex-CNBC Awaaz, The Quint. Led NDTV acquisition for Adani
+    affiliations:
+    - org: amg-media
+      role: executive
+      from: 2021
+      note: CEO AMG Media Networks
+    - org: ndtv
+      role: executive
+      from: 2022
+      note: CEO, Editor-in-Chief (via AMG Media)
   sanna-marin:
     born: 1985
     nationality: FIN
@@ -4712,6 +5083,14 @@ persons:
       role: executive
       from: 2021
       note: Co-CEO
+  scott-oneil:
+    born: 1970
+    nationality: USA
+    affiliations:
+    - org: liv-golf
+      role: executive
+      from: 2025
+      note: CEO
   sean-tong:
     nationality: CHN
     affiliations:
@@ -4880,6 +5259,11 @@ persons:
       from: 1989
       to: 2023
       note: Co-Chairman 2016-2023, Senior Advisor 2023+
+    - org: boston-celtics
+      role: owner
+      from: 2002
+      to: 2028
+      note: Co-owner, Managing Partner (exiting per deal structure)
   stephen-schwarzman:
     born: 1947
     nationality: USA
@@ -5115,6 +5499,14 @@ persons:
       role: advisor
       from: 1985
       to: 1988
+  todd-boehly:
+    born: 1973
+    nationality: USA
+    affiliations:
+    - org: chelsea-fc
+      role: chairman
+      from: 2022
+      note: Co-owner ~12.7% via BlueCo, Chairman fino 2027
   tony-blair:
     born: 1953
     nationality: GBR
@@ -5290,6 +5682,7 @@ persons:
       role: chairman
       from: 1970
       to: 2025
+      note: Chairman & CEO 1970-2025. Chairman only dal 2026
     - org: gates-foundation
       role: board
       from: 2006
@@ -5386,6 +5779,14 @@ persons:
       from: 2007
     - org: porsche-ag
       role: chairman
+  wyc-grousbeck:
+    nationality: USA
+    affiliations:
+    - org: boston-celtics
+      role: owner
+      from: 2002
+      to: 2028
+      note: Lead owner 2002-2025, Governor until 2028
   xavier-niel:
     born: 1967
     nationality: Francia
@@ -5432,6 +5833,14 @@ persons:
       role: executive
       from: 2015
       note: CEO PIF, Chairman Aramco
+    - org: liv-golf
+      role: chairman
+      from: 2021
+      note: Via PIF
+    - org: newcastle-united
+      role: chairman
+      from: 2021
+      note: Chairman via PIF
   yngve-slyngstad:
     born: 1962
     nationality: NOR

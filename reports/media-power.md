@@ -462,7 +462,7 @@ Famiglia Ochs-Sulzberger → NYT Company → New York Times
 |-------|-------|--------------|------|
 | 🇶🇦 **Qatar** | Al Jazeera | Governo Qatar (~90% funding) | Foreign agent US 2020. Board nominato da Emiro |
 | 🇸🇦 **Saudi Arabia** | MBC Group | PIF (54%) + Waleed Al Ibrahim | MBS chairman PIF. Al Ibrahim detenuto Ritz-Carlton 2017 |
-| 🇹🇷 **Turchia** | TRT, TRT World | Governo turco | Foreign agent US 2020. Erdogan control |
+| 🇹🇷 **Turchia** | [TRT](../docs/media/trt.md), TRT World | Governo turco | Foreign agent US 2020. Erdogan control. 17 TV channels |
 
 **Pattern Golfo**: Fondi sovrani (QIA, PIF) usano media per soft power e influenza geopolitica.
 
@@ -490,8 +490,8 @@ Famiglia Ochs-Sulzberger → NYT Company → New York Times
 
 | Conglomerato | Proprietario | Media Acquisiti | Note |
 |--------------|--------------|-----------------|------|
-| **Reliance Industries** | Mukesh Ambani ($100B+) | Network18 (72+ canali) | Acquired 2014 |
-| **Adani Group** | Gautam Adani | NDTV (64.71%), The Quint (49%) | Acquired 2022-23 |
+| **Reliance Industries** | Mukesh Ambani ($100B+) | [Network18](../docs/media/network18.md) (72+ canali) | Acquired 2014. JioStar JV 2024 |
+| **Adani Group** | Gautam Adani | [NDTV](../docs/media/ndtv.md) (64.71%), The Quint (49%) | Acquired 2022-23. Key journalists resigned |
 
 **Pattern**: Oligarchi vicini a Modi acquisiscono media indipendenti. NDTV: da critico a "supino" (The Economist).
 
@@ -499,19 +499,19 @@ Famiglia Ochs-Sulzberger → NYT Company → New York Times
 
 | Media | Proprietario | Note |
 |-------|--------------|------|
-| **Grupo Globo** | Famiglia Marinho | Largest Latin America. TV Globo = 2nd largest commercial TV world |
-| **TV Globo** | Grupo Globo | "Near monopoly on TV viewership" (symbiotic with governments) |
+| **[Grupo Globo](../docs/media/grupo-globo.md)** | [Famiglia Marinho](../docs/family/marinho.md) | Largest Latin America. BRL 15.1B revenue 2023 |
+| **TV Globo** | Grupo Globo | 99.6% Brazil households, 100M daily viewers |
 
-**Pattern**: Dinastia Marinho (3 fratelli, Forbes $4.3B ciascuno) = potere mediatico dominante in Brasile.
+**Pattern**: Dinastia Marinho (3 fratelli, Forbes $4.3B ciascuno). Built during military dictatorship. Apologized 2013.
 
 ### 🇲🇽 Messico
 
 | Media | Proprietario | Note |
 |-------|--------------|------|
-| **Grupo Televisa** | Famiglia Azcárraga (~43% via trust) | Largest Spanish-language media |
-| **TelevisaUnivision** | Televisa 45% + Univision | Merged 2022 |
+| **[Grupo Televisa](../docs/media/grupo-televisa.md)** | [Famiglia Azcárraga](../docs/family/azcarraga.md) | 70%+ Mexico broadcast market |
+| **TelevisaUnivision** | Televisa 45% + Univision | Merged 2022. 300,000 hrs content library |
 
-**Pattern**: Tre generazioni Azcárraga. Emilio resigned Oct 2024 (FIFA bribery probe).
+**Pattern**: Tre generazioni Azcárraga. Close ties to PRI. Emilio leave Oct 2024 (DOJ FIFA bribery probe).
 
 ### 🇯🇵 Giappone
 
@@ -594,15 +594,15 @@ Famiglia Ochs-Sulzberger → NYT Company → New York Times
 | paramount-global | 🇺🇸 | Billionaire |
 | **al-jazeera** | 🇶🇦 | State |
 | **mbc-group** | 🇸🇦 | SWF (PIF) |
-| **trt** | 🇹🇷 | State |
+| **[trt](../docs/media/trt.md)** | 🇹🇷 | State |
 | **rt** | 🇷🇺 | State |
 | **china-media-group** | 🇨🇳 | Party |
 | **cgtn** | 🇨🇳 | Party |
 | **xinhua** | 🇨🇳 | State |
-| **network18** | 🇮🇳 | Oligarch |
-| **ndtv** | 🇮🇳 | Oligarch |
-| **grupo-globo** | 🇧🇷 | Dynasty |
-| **grupo-televisa** | 🇲🇽 | Dynasty |
+| **[network18](../docs/media/network18.md)** | 🇮🇳 | Oligarch |
+| **[ndtv](../docs/media/ndtv.md)** | 🇮🇳 | Oligarch |
+| **[grupo-globo](../docs/media/grupo-globo.md)** | 🇧🇷 | Dynasty |
+| **[grupo-televisa](../docs/media/grupo-televisa.md)** | 🇲🇽 | Dynasty |
 | **nhk** | 🇯🇵 | Public |
 | **nippon-tv** | 🇯🇵 | Cross-media |
 | **joongang-group** | 🇰🇷 | Chaebol |
@@ -619,8 +619,8 @@ Famiglia Ochs-Sulzberger → NYT Company → New York Times
 | rothermere | 🇬🇧 | Active |
 | roberts | 🇺🇸 | Active |
 | bouygues | 🇫🇷 | Active |
-| **marinho** | 🇧🇷 | Active |
-| **azcarraga** | 🇲🇽 | Active |
+| **[marinho](../docs/family/marinho.md)** | 🇧🇷 | Active |
+| **[azcarraga](../docs/family/azcarraga.md)** | 🇲🇽 | Active |
 | **lee-samsung** | 🇰🇷 | Active |
 
 ### Persone Chiave
@@ -633,8 +633,8 @@ Famiglia Ochs-Sulzberger → NYT Company → New York Times
 | john-elkann | Chairman Economist/GEDI | 🇮🇹 |
 | mukesh-ambani | Chairman Reliance | 🇮🇳 |
 | gautam-adani | Chairman Adani | 🇮🇳 |
-| joao-roberto-marinho | Chairman Globo | 🇧🇷 |
-| emilio-azcarraga-jean | Ex-Chairman Televisa | 🇲🇽 |
+| [joao-roberto-marinho](../docs/persons/joao-roberto-marinho.md) | Chairman Globo | 🇧🇷 |
+| [emilio-azcarraga-jean](../docs/persons/emilio-azcarraga-jean.md) | Chairman Televisa (leave 2024) | 🇲🇽 |
 | lee-jae-yong | Chairman Samsung | 🇰🇷 |
 | mohammed-bin-salman | Chairman PIF | 🇸🇦 |
 | xi-jinping | General Secretary CCP | 🇨🇳 |
@@ -648,10 +648,10 @@ Famiglia Ochs-Sulzberger → NYT Company → New York Times
 |----|-------|------------------|
 | pif | 🇸🇦 | MBC Group (54%) |
 | qia | 🇶🇦 | (funding Al Jazeera) |
-| governo-qatar | 🇶🇦 | Al Jazeera |
+| governo-qatar | 🇶🇦 | [Al Jazeera](../docs/media/al-jazeera.md) ✅ |
 | governo-russia | 🇷🇺 | Rossiya Segodnya → RT |
 | ccp | 🇨🇳 | China Media Group → CGTN, CCTV |
-| governo-turchia | 🇹🇷 | TRT |
+| governo-turchia | 🇹🇷 | [TRT](../docs/media/trt.md) |
 
 ---
 
@@ -675,4 +675,16 @@ Famiglia Ochs-Sulzberger → NYT Company → New York Times
 ---
 
 *Report creato: Dicembre 2025*
-*Ultimo aggiornamento: 8 Dicembre 2025 - Aggiunti media globali: Medio Oriente (Al Jazeera, MBC, TRT), Russia (RT), Cina (CGTN, Xinhua), India (Reliance, Adani), Brasile (Globo), Messico (Televisa), Giappone, Corea*
+*Ultimo aggiornamento: 10 Dicembre 2025*
+
+### Changelog
+
+- **10 Dic (II)**: Schede complete media globali:
+  - [TRT](../docs/media/trt.md): State broadcaster Turchia, 17 canali, FARA 2020
+  - [Network18](../docs/media/network18.md): Reliance/Ambani 56.89%, JioStar merger 2024
+  - [NDTV](../docs/media/ndtv.md): Adani 64.71% takeover 2022, journalists exodus
+  - [Grupo Globo](../docs/media/grupo-globo.md): Marinho family, BRL 15.1B, military dictatorship origins
+  - [Grupo Televisa](../docs/media/grupo-televisa.md): Azcárraga dynasty 3 gen, 70% Mexico market
+- **10 Dic**: Aggiunta scheda completa [Al Jazeera](../docs/media/al-jazeera.md): state media Qatar (~90% funding), ban Israele 2024, FARA foreign agent USA
+- **10 Dic**: Aggiunto stub hamad-bin-thamer (Chairman Al Jazeera, famiglia Al Thani)
+- 8 Dic: Aggiunti media globali: Medio Oriente (Al Jazeera, MBC, TRT), Russia (RT), Cina (CGTN, Xinhua), India (Reliance, Adani), Brasile (Globo), Messico (Televisa), Giappone, Corea

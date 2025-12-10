@@ -577,4 +577,10 @@ Prima mega-acquisizione facilitata dal canale Kushner.
 
 ---
 
-*Ultimo aggiornamento: 8 Dicembre 2025* (aggiunto Sport come Asset Class: CVC vs PIF)
+*Ultimo aggiornamento: 10 Dicembre 2025*
+- **10 Dic**: Aggiunte schede complete portfolio sportivo PIF:
+  - [LIV Golf](../docs/company/liv-golf.md): ~$5B investiti, merger PGA in stallo, Scott O'Neil CEO dal 2025
+  - [Newcastle United](../docs/sports-club/newcastle-united.md): £300M, PIF 85%, Carabao Cup 2025
+  - [Savvy Games Group](../docs/company/savvy-games-group.md): $38B allocati, Scopely ($4.9B), ESL FACEIT ($1.5B), Niantic ($3.5B)
+- **10 Dic**: Documentato pattern sportswashing completo PIF: sport + gaming + entertainment
+- 8 Dic: Aggiunto Sport come Asset Class: CVC vs PIF

@@ -39,17 +39,6 @@ PERSONE MANCANTI
 
   | ID                     | Tipo          | Report          | Note                          |
   |------------------------|---------------|-----------------|-------------------------------|
-  | liv-golf               | Company       | sport/gulf      | PIF $5B                       |
-  | newcastle-united       | SportsClub    | sport           | PIF 85%                       |
-  | savvy-games-group      | Company       | sport           | PIF esports $38B              |
-  | chelsea-fc             | SportsClub    | sport           | Clearlake/Boehly              |
-  | al-jazeera             | Media         | media           | Qatar state media             |
-  | trt                    | Media         | media           | Turkey state media            |
-  | network18              | Media         | media           | Reliance/Ambani               |
-  | ndtv                   | Media         | media           | Adani 64%                     |
-  | grupo-globo            | Media         | media           | Brazil Marinho family         |
-  | grupo-televisa         | Media         | media           | Mexico Azcárraga              |
-  | oaktree-capital        | PrivateEquity | sport           | Inter Milan owner             |
   | weltcome-trust         | Foundation    | pharma          | $38B UK charity               |
   | global-fund            | Agency        | pharma          | HIV/TB/Malaria                |
   | phRMA                  | Agency        | pharma          | Industry lobby                |
@@ -59,13 +48,6 @@ PERSONE MANCANTI
 
   | ID                   | Tipo       | Report         | Note                    |
   |----------------------|------------|----------------|-------------------------|
-  | sc-braga             | SportsClub | sport          | QSI 22%                 |
-  | girona-fc            | SportsClub | sport          | CFG (blind trust)       |
-  | nycfc                | SportsClub | sport          | CFG/Manchester City     |
-  | melbourne-city       | SportsClub | sport          | CFG                     |
-  | ec-bahia             | SportsClub | sport          | CFG 90%                 |
-  | boston-celtics       | SportsClub | sport          | Pagliuca/Bain           |
-  | toulouse-fc          | SportsClub | sport          | RedBird                 |
   | rajasthan-royals     | SportsClub | sport          | RedBird IPL             |
   | ufl                  | SportsClub | sport          | RedBird XFL+USFL        |
   | atalanta             | SportsClub | sport          | Pagliuca                |
@@ -101,8 +83,6 @@ PERSONE MANCANTI
 
   Da aggiungere subito (Alta Priorità - completano network chiave):
 
-  4. Sport: newcastle-united, liv-golf (pattern sportswashing PIF)
   5. Pharma: wellcome-trust, global-fund (network Gates)
-  6. Media: al-jazeera, grupo-globo (state media, Brazil dynasty)
   7. Famiglie: marinho, strungmann
   8. Persone: wolfgang-porsche, tamim-bin-hamad-al-thani, margaret-hamburg

@@ -51,10 +51,15 @@ families:
     sector: media
     generations: 3
     status: active
-    note: Three generations controlling Mexican TV. Founded by Emilio Azcarraga Vidaurreta
+    note: Televisa dynasty. 3 generations. Basque origin. Largest Spanish-language media
     members:
     - person: emilio-azcarraga-jean
       generation: 3
+    - person: emilio-azcarraga-milmo
+      generation: 2
+    - person: emilio-azcarraga-vidaurreta
+      generation: 1
+      role: founder
   berlusconi:
     origin: Italia
     founder: Silvio Berlusconi
@@ -221,10 +226,14 @@ families:
     note: 'Founded Globo 1925. Three brothers control: Joao, Roberto Irineu, Jose Roberto'
     members:
     - person: roberto-marinho
-      generation: 1
-      role: patriarch
-    - person: joao-roberto-marinho
       generation: 2
+      role: founder
+    - person: joao-roberto-marinho
+      generation: 3
+    - person: roberto-irineu-marinho
+      generation: 3
+    - person: jose-roberto-marinho
+      generation: 3
   mohn:
     origin: Gutersloh, Germany
     founder: carl-bertelsmann
@@ -293,6 +302,17 @@ families:
     - person: ag-sulzberger
       generation: 5
       role: publisher
+  ofer:
+    origin: Israel
+    founder: sammy-ofer
+    sector: shipping, real estate, chemicals
+    generations: 2
+    status: active
+    note: Fondata da Sammy e Yuli Ofer (Romania→Israel). Divisa 2002. Eyal ($30B) + Idan ($22B) = $50B+ combined.
+    members:
+    - person: idan-ofer
+      generation: 2
+      role: heir
   peugeot:
     origin: France
     founder: Armand Peugeot

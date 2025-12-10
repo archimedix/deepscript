@@ -122,10 +122,22 @@ organizations:
     - person: jared-kushner
       role: founder
       from: 2021
+    - person: luis-videgaray
+      role: partner
+      from: 2023
+      note: Head of AI practice
     - org: pif-saudi
       role: anchor-investor
       from: 2021
       note: $2B investment, overruled screening committee
+    - org: qia
+      role: investor
+      from: 2024
+      note: Capital infusion
+    - org: pif
+      role: anchor investor
+      from: 2022
+      note: $2B commitment
   aipac:
     name: American Israel Public Affairs Committee
     type: thinktank
@@ -173,9 +185,15 @@ organizations:
     sector: news, TV
     note: State-funded Qatar. Founded by Emir. Registered as foreign agent in US 2020
     stakeholders:
+    - person: hamad-bin-thamer
+      role: chairman
+      from: 1996
+      note: Fondatore e Chairman board
     - org: governo-qatar
+      role: owner
       share: ~90%
-      note: State-funded, board appointed by Emir
+      from: 1996
+      note: Funding ~90%, Emir nomina board
   allen-company:
     name: Allen & Company
     type: bank
@@ -303,8 +321,14 @@ organizations:
     status: active
     sector: TV, digital
     stakeholders:
+    - person: sanjay-pugalia
+      role: executive
+      from: 2021
+      note: CEO AMG Media Networks
     - org: adani-group
-      share: 100%
+      share: 100
+      from: 2022
+      note: Media arm Adani Group
   anobit:
     type: company
     founded: 2006
@@ -512,6 +536,25 @@ organizations:
       note: Ristrutturazione verso compressori
     - org: investor-ab
       role: major-shareholder
+  atletico-madrid:
+    name: Club Atlético de Madrid
+    type: sportsclub
+    founded: 1903
+    headquarters: Madrid, Spain
+    status: active
+    sector: football
+    note: '11 La Liga titles. Stadium: Riyadh Air Metropolitano (70,692). Apollo Sports Capital majority owner (2025, $2.55B
+      deal).'
+    stakeholders:
+    - org: apollo-global
+      role: majority owner
+      share: 51-55%
+      from: 2025
+      note: $2.55B deal via Apollo Sports Capital, closing Q1 2026
+    - org: quantum-pacific
+      share: 27%
+      from: 2018
+      note: Minority shareholder post-Apollo deal (was 32%)
   audi:
     name: Audi
     type: company
@@ -807,23 +850,30 @@ organizations:
     name: Berkshire Hathaway
     type: company
     founded: 1839
-    headquarters: Omaha
+    headquarters: Omaha, Nebraska, USA
     status: active
-    sector: finance
+    sector: conglomerate
+    note: 'Conglomerato di Warren Buffett. Market cap $1T+. Subsidiaries: GEICO, BNSF, Berkshire Energy, Precision Castparts.
+      Portfolio: Apple, AmEx, Coca-Cola, BofA'
     stakeholders:
     - person: warren-buffett
       role: chairman
       from: 1970
       to: 2025
+      note: Chairman & CEO 1970-2025. Chairman only dal 2026
     - person: charlie-munger
-      role: chairman
+      role: executive
       from: 1978
       to: 2023
+      note: Vice Chairman 1978-2023. Morto novembre 2023
     - person: greg-abel
-      role: chairman
+      role: executive
       from: 2018
+      note: Vice Chairman 2018-2025, CEO dal 1 gennaio 2026
     - person: ajit-jain
-      role: chairman
+      role: executive
+      from: 1986
+      note: Vice Chairman Insurance Operations dal 2018
     - org: blackrock
       role: stake
       share: 0.08
@@ -1156,6 +1206,9 @@ organizations:
     - org: pif-saudi
       role: investor
       note: Infrastructure investment $20B (2017)
+    - org: kissinger-associates
+      role: strategic partner
+      from: 2002
     - org: cic
       role: lp
       from: 2007
@@ -1246,6 +1299,32 @@ organizations:
     - person: michele-flournoy
       role: board
       from: 2018
+  boston-celtics:
+    name: Boston Celtics
+    type: sportsclub
+    founded: 1946
+    headquarters: Boston, Massachusetts, USA
+    status: active
+    sector: basketball
+    stakeholders:
+    - person: stephen-pagliuca
+      role: owner
+      from: 2002
+      to: 2028
+      note: Co-owner, Managing Partner (exiting per deal structure)
+    - person: bill-chisholm
+      role: owner
+      from: 2025
+      note: Lead owner, $6.1B acquisition (record NBA)
+    - person: wyc-grousbeck
+      role: owner
+      from: 2002
+      to: 2028
+      note: Lead owner 2002-2025, Governor until 2028
+    - org: sixth-street-partners
+      share: 12.5
+      from: 2025
+      note: $1B investment
   bouygues:
     name: Bouygues Group
     type: company
@@ -1356,6 +1435,14 @@ organizations:
     - org: state-street
       role: stake
       share: 0.034
+  brookfield-asset-management:
+    name: Brookfield Asset Management
+    type: assetmanager
+    founded: 1899
+    headquarters: Toronto, Canada
+    status: active
+    note: 'BAM. One of largest alternative asset managers. Parent: Brookfield Corporation. Acquired Oaktree 62% 2019, 100%
+      2026'
   brown-brothers-harriman:
     name: Brown Brothers Harriman
     type: bank
@@ -1716,6 +1803,32 @@ organizations:
       role: chairman
       from: 1969
       to: 1981
+  chelsea-fc:
+    name: Chelsea Football Club
+    type: sportsclub
+    founded: 1905
+    headquarters: London, UK
+    status: active
+    sector: football
+    note: Acquired 2022 for $5.3B. Clearlake 61.5%, Todd Boehly chairman.
+    stakeholders:
+    - person: behdad-eghbali
+      role: board
+      from: 2022
+      note: Co-controlling owner via Clearlake
+    - person: todd-boehly
+      role: chairman
+      from: 2022
+      note: Co-owner ~12.7% via BlueCo, Chairman fino 2027
+    - person: hansjorg-wyss
+      role: board
+      from: 2022
+      note: Minority owner ~10-13% via BlueCo
+    - org: clearlake-capital
+      role: majority
+      share: 61.5
+      from: 2022
+      note: Via BlueCo consortium, £2.5B acquisition
   chevron:
     name: Chevron
     type: company
@@ -1898,6 +2011,23 @@ organizations:
       share: 81%
       from: 2013
       note: Via Newton Investment and Development LLC
+  clearlake-capital:
+    name: Clearlake Capital Group
+    type: privateequity
+    founded: 2006
+    headquarters: Santa Monica, California, USA
+    status: active
+    sector: private equity
+    note: 'AUM $90B+ (2025). PEI 300 #16. Chelsea FC 61.5% owner.'
+    stakeholders:
+    - person: jose-feliciano-pe
+      role: founder
+      from: 2006
+      note: Co-founder & Managing Partner
+    - person: behdad-eghbali
+      role: founder
+      from: 2006
+      note: Co-founder & Managing Partner
   clinton-foundation:
     name: Clinton Foundation
     type: foundation
@@ -2324,6 +2454,18 @@ organizations:
       role: chairman
       from: 1915
       to: 1919
+  ec-bahia:
+    name: Esporte Clube Bahia
+    type: sportsclub
+    founded: 1931
+    headquarters: Salvador, Brazil
+    status: active
+    sector: sports
+    stakeholders:
+    - org: city-football-group
+      share: 90
+      from: 2024
+      note: 90% SAF (football operations), first Brazilian club in CFG
   eca:
     name: European Club Association
     type: agency
@@ -3091,6 +3233,30 @@ organizations:
     headquarters: Singapore
     status: active
     aum: $800B
+  girona-fc:
+    name: Girona FC
+    type: sportsclub
+    founded: 1930
+    headquarters: Girona, Spain
+    status: active
+    sector: sports
+    stakeholders:
+    - person: pere-guardiola
+      role: chairman
+      from: 2015
+      note: Chairman Board of Directors, leads Girona Football Group (16%)
+    - person: delfi-geli
+      role: chairman
+      from: 2015
+      note: Club President, ex-footballer (Barca, Atlético)
+    - person: marcelo-claure
+      role: board
+      from: 2020
+      note: 35% ownership, president Club Bolivar
+    - org: city-football-group
+      share: 47
+      from: 2017
+      note: Initial 44.3%, now 47%. Blind trust 2024-25 for UEFA compliance
   giving-pledge:
     name: Giving Pledge
     type: foundation
@@ -3172,6 +3338,9 @@ organizations:
       from: 1992
       to: 2012
       note: Partner 2004, Merchant Banking Division
+    - person: jose-feliciano-pe
+      role: executive
+      note: M&A and Corporate Finance
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -3540,6 +3709,16 @@ organizations:
       role: leader
       from: 1995
       to: 2013
+  governo-messico:
+    type: government
+    headquarters: Mexico City
+    status: active
+    stakeholders:
+    - person: luis-videgaray
+      role: minister
+      from: 2017
+      to: 2018
+      note: Foreign Minister
   governo-moldova:
     name: Governo Moldova
     type: government
@@ -3971,6 +4150,11 @@ organizations:
       from: 2019
       to: 2025
       note: Senator Utah
+    - person: mack-mclarty
+      role: advisor
+      from: 1993
+      to: 1994
+      note: White House Chief of Staff
   greensill:
     type: company
     founded: 2011
@@ -4000,13 +4184,27 @@ organizations:
     founded: 1925
     headquarters: Rio de Janeiro, Brazil
     status: active
-    sector: TV, print, digital
-    note: Largest media in Latin America. Marinho family control
+    sector: TV, print, digital, streaming, radio
+    note: Largest media Latin America. Marinho family. BRL 15.1B revenue 2023. 99.6% Brazil households
     stakeholders:
     - person: roberto-marinho
       role: founder
+      from: 1925
+      to: 2003
+      note: Founder, Chairman until death
     - person: joao-roberto-marinho
       role: chairman
+      from: 2021
+      note: Chairman Board dal 2021
+    - person: roberto-irineu-marinho
+      role: chairman
+      from: 2003
+      to: 2021
+      note: Chairman Board. Now Vice President
+    - person: jose-roberto-marinho
+      role: executive
+      from: 2003
+      note: Vice President. President Fundação Roberto Marinho
   grupo-prisa:
     name: Grupo Prisa
     type: media
@@ -4027,13 +4225,24 @@ organizations:
     founded: 1973
     headquarters: Mexico City, Mexico
     status: active
-    sector: TV, content
-    note: Largest Spanish-language media. Merged with Univision 2022
+    sector: TV, content, telecom, sports
+    note: Largest Spanish media. Azcárraga dynasty. 45% TelevisaUnivision. 70%+ Mexico broadcast market
     stakeholders:
     - person: emilio-azcarraga-jean
       role: chairman
+      from: 1997
       to: 2024
-      note: Resigned Oct 2024
+      note: CEO 1997-2017, Chairman 2017-. Leave Oct 2024
+    - person: emilio-azcarraga-milmo
+      role: executive
+      from: 1973
+      to: 1997
+      note: President. "El Tigre"
+    - person: emilio-azcarraga-vidaurreta
+      role: founder
+      from: 1955
+      to: 1972
+      note: Founded Telesistema Mexicano (predecessor)
   gruppo-30:
     name: Group of Thirty
     type: thinktank
@@ -4097,6 +4306,9 @@ organizations:
       role: founder
       from: 1995
       note: Co-Founder, Managing Director
+    - org: kissinger-associates
+      role: strategic partner
+      from: 2000
   harpercollins:
     name: HarperCollins
     type: media
@@ -4323,6 +4535,18 @@ organizations:
     stakeholders:
     - person: lorenzo-pallesi
       role: executive
+  inter-milan:
+    name: FC Internazionale Milano
+    type: sportsclub
+    founded: 1908
+    headquarters: Milan, Italy
+    status: active
+    note: Inter. 20 Scudetti. Owned by Oaktree Capital (2024-) after Suning default
+    stakeholders:
+    - org: oaktree-capital
+      share: 99.6
+      from: 2024
+      note: Assumed ownership May 2024 after Suning default on €395M loan
   intesa-sanpaolo:
     name: Intesa Sanpaolo
     type: bank
@@ -4597,6 +4821,11 @@ organizations:
       role: founder
       from: 1982
       to: 2023
+    - person: mack-mclarty
+      role: partner
+      from: 1999
+      to: 2008
+      note: Kissinger McLarty Associates
   kkr:
     name: KKR & Co.
     type: privateequity
@@ -4728,6 +4957,10 @@ organizations:
     headquarters: New York
     status: active
     stakeholders:
+    - person: jami-miscik
+      role: advisor
+      from: 2022
+      note: Senior Advisor
     - person: vernon-jordan
       role: advisor
       from: 2000
@@ -4798,6 +5031,31 @@ organizations:
     - org: eli-lilly
       role: stake
       share: 0.107
+  liv-golf:
+    name: LIV Golf
+    type: company
+    founded: 2021
+    headquarters: London, UK
+    status: active
+    sector: sports
+    stakeholders:
+    - person: yasir-al-rumayyan
+      role: chairman
+      from: 2021
+      note: Via PIF
+    - person: greg-norman
+      role: executive
+      from: 2021
+      to: 2025
+      note: CEO e Commissioner
+    - person: scott-oneil
+      role: executive
+      from: 2025
+      note: CEO
+    - org: pif-saudi
+      role: majority
+      from: 2021
+      note: Fondatore e finanziatore principale, ~$5B investiti
   liverpool-fc:
     name: Liverpool FC
     type: sportsclub
@@ -4939,6 +5197,11 @@ organizations:
       role: employee
       from: 1995
       to: 1997
+    - person: adil-zainulbhai
+      role: chairman
+      from: 2004
+      to: 2012
+      note: Chairman McKinsey India
   mediaset:
     name: Mediaset
     type: media
@@ -4960,6 +5223,18 @@ organizations:
     - org: fininvest
       share: 48%
       note: controlling
+  melbourne-city:
+    name: Melbourne City FC
+    type: sportsclub
+    founded: 2009
+    headquarters: Melbourne, Australia
+    status: active
+    sector: sports
+    stakeholders:
+    - org: city-football-group
+      share: 100
+      from: 2014
+      note: Acquired for $12M in 2014, 100% from 2015
   mercedes-benz:
     name: Mercedes-Benz Group AG
     type: automaker
@@ -5352,14 +5627,33 @@ organizations:
       share: 100%
       from: 2011
   ndtv:
-    name: NDTV
+    name: NDTV (New Delhi Television)
     type: media
     founded: 1988
     headquarters: New Delhi, India
     status: active
-    sector: TV, news
-    note: Formerly independent. Adani acquired 64.71% in 2022. Key journalists resigned
+    sector: TV, news, digital
+    note: Founded Prannoy/Radhika Roy. Adani 64.71% 2022. 7 channels incl. NDTV World 2024
     stakeholders:
+    - person: prannoy-roy
+      role: founder
+      from: 1988
+      to: 2022
+      note: Co-founder, Executive Co-Chairman. Sold stake to Adani
+    - person: radhika-roy
+      role: founder
+      from: 1988
+      to: 2022
+      note: Co-founder, Executive Co-Chairman
+    - person: sanjay-pugalia
+      role: executive
+      from: 2022
+      note: CEO, Editor-in-Chief (via AMG Media)
+    - person: ravish-kumar
+      role: executive
+      from: 1996
+      to: 2022
+      note: Senior Executive Editor. Resigned post-Adani takeover
     - org: amg-media
       share: 64.71%
       from: 2022
@@ -5372,17 +5666,31 @@ organizations:
     sector: streaming
     note: publicly traded, no controlling shareholder
   network18:
-    name: Network18
+    name: Network18 Media & Investments
     type: media
     founded: 1993
     headquarters: Mumbai, India
     status: active
-    sector: TV, digital
-    note: One of India largest media. Acquired by Reliance 2014. 72+ channels
+    sector: TV, digital, news, entertainment
+    note: India largest media. Reliance 56.89%. 180M+ weekly viewers. CNBC-TV18, CNN-News18, Colors
     stakeholders:
-    - org: reliance-industries
-      share: majority
+    - person: raghav-bahl
+      role: founder
+      from: 1993
+      to: 2014
+      note: Founder, MD. Lost control to Reliance
+    - person: rahul-joshi
+      role: executive
+      from: 2015
+      note: MD, CEO, Group Editor-in-Chief
+    - person: adil-zainulbhai
+      role: chairman
       from: 2014
+      note: Non-executive Chairman. Reappointed 2024
+    - org: reliance-industries
+      share: 56.89
+      from: 2014
+      note: Hostile takeover via Independent Media Trust
   new-york-post:
     name: New York Post
     type: media
@@ -5405,6 +5713,32 @@ organizations:
     - person: ag-sulzberger
       role: publisher
       from: 2018
+  newcastle-united:
+    name: Newcastle United FC
+    type: sportsclub
+    founded: 1892
+    headquarters: Newcastle upon Tyne, UK
+    status: active
+    sector: sports
+    stakeholders:
+    - person: yasir-al-rumayyan
+      role: chairman
+      from: 2021
+      note: Chairman via PIF
+    - person: amanda-staveley
+      role: board
+      from: 2021
+      to: 2024
+      note: Co-owner 10% via PCP Capital Partners, poi 6%, exit luglio 2024
+    - person: eddie-howe
+      role: executive
+      from: 2021
+      note: Manager, Carabao Cup 2025
+    - org: pif-saudi
+      role: majority
+      share: 85
+      from: 2021
+      note: £300M acquisition, 80% iniziale poi 85% dal 2024
   news-corp:
     name: News Corp
     type: media
@@ -5623,6 +5957,62 @@ organizations:
     - org: state-street
       role: stake
       share: 0.032
+  nycfc:
+    name: New York City FC
+    type: sportsclub
+    founded: 2013
+    headquarters: New York, USA
+    status: active
+    sector: sports
+    stakeholders:
+    - person: marcelo-claure
+      role: board
+      from: 2024
+      note: 10% ownership via CFG US Holdco LLC
+    - org: city-football-group
+      share: 80
+      from: 2013
+      note: Co-founded with Yankees, 80% via CFG US Holdco LLC
+    - org: yankee-global-enterprises
+      share: 10
+      from: 2013
+      note: Co-founder, reduced from 20% in 2024
+  oaktree-capital:
+    name: Oaktree Capital Management
+    type: privateequity
+    founded: 1995
+    headquarters: Los Angeles, California, USA
+    status: active
+    sector: distressed debt
+    aum: 218
+    note: Largest distressed debt investor globally. Majority owned by Brookfield (62% 2019, 100% 2026). Owns Inter Milan
+      (2024)
+    stakeholders:
+    - person: howard-marks
+      role: founder
+      from: 1995
+      note: Co-founder, Co-Chairman
+    - person: bruce-karsh
+      role: founder
+      from: 1995
+      note: Co-founder, Co-Chairman, CIO
+    - person: robert-oleary
+      role: executive
+      from: 2024
+      note: Co-CEO
+    - person: armen-panossian
+      role: executive
+      from: 2024
+      note: Co-CEO
+    - person: jay-wintrob
+      role: executive
+      from: 2011
+      to: 2024
+      note: CEO 2011-2024
+    - org: brookfield-asset-management
+      share: 100
+      from: 2019
+      note: 62% 2019, remaining 26% acquired Oct 2025 for $3B, close 2026. Full ownership.
   obama-foundation:
     name: Obama Foundation
     type: foundation
@@ -6158,6 +6548,17 @@ organizations:
       role: parent
       share: 100%
       note: Subsidiary of Qatar Investment Authority
+  quantum-pacific:
+    name: Quantum Pacific Group
+    type: company
+    headquarters: London, UK
+    status: active
+    sector: holding, shipping, energy, mining
+    note: 'Holding di Idan Ofer. Fleet: 180+ vessels via Eastern Pacific Shipping. Settori: shipping, energy, mining, sports.'
+    stakeholders:
+    - person: idan-ofer
+      role: founder
+      note: Principal owner
   radio-deejay:
     name: Radio Deejay
     type: media
@@ -6479,6 +6880,46 @@ organizations:
       role: owner
       share: 98.0
       note: Maggiore compagnia petrolifera mondiale
+  savvy-games-group:
+    name: Savvy Games Group
+    type: company
+    founded: 2021
+    headquarters: Riyadh, Saudi Arabia
+    status: active
+    sector: gaming
+    stakeholders:
+    - person: mohammed-bin-salman
+      role: chairman
+      from: 2021
+    - person: brian-ward
+      role: executive
+      from: 2021
+      note: Founding CEO
+    - person: faisal-bin-bandar
+      role: board
+      from: 2021
+      note: Vice Chairman, Chairman Saudi Esports Federation
+    - org: pif-saudi
+      role: owner
+      share: 100
+      from: 2021
+      note: Wholly owned subsidiary, $38B allocati
+  sc-braga:
+    name: Sporting Clube de Braga
+    type: sportsclub
+    founded: 1921
+    headquarters: Braga, Portugal
+    status: active
+    sector: sports
+    stakeholders:
+    - person: antonio-salvador
+      role: chairman
+      from: 2003
+      note: Longest-serving Liga Portugal president
+    - org: qsi
+      share: 21.67
+      from: 2022
+      note: €80M acquisition from Olivedesportos
   sciences-po:
     founded: 1872
     headquarters: Paris
@@ -6569,6 +7010,12 @@ organizations:
       role: executive
       from: 2020
       to: 2023
+  sixth-street-partners:
+    name: Sixth Street Partners
+    type: privateequity
+    founded: 2009
+    headquarters: San Francisco, California, USA
+    status: active
   skoda:
     name: Skoda
     type: company
@@ -6800,6 +7247,17 @@ organizations:
     - person: john-scarlett
       role: advisor
       note: Advisory Board
+  symphony-technology-group:
+    name: Symphony Technology Group
+    type: privateequity
+    founded: 2002
+    headquarters: Palo Alto, California, USA
+    status: active
+    stakeholders:
+    - person: bill-chisholm
+      role: executive
+      from: 2002
+      note: Managing Partner, Co-founder, CIO
   tata-motors:
     name: Tata Motors
     type: automaker
@@ -7096,6 +7554,22 @@ organizations:
       role: funder
       from: 2021
       note: 257m-gbp
+  toulouse-fc:
+    name: Toulouse Football Club
+    type: sportsclub
+    founded: 1970
+    headquarters: Toulouse, France
+    status: active
+    sector: football
+    stakeholders:
+    - person: damien-comolli
+      role: chairman
+      from: 2020
+      note: Presidente, ex Liverpool/Arsenal/Spurs director
+    - org: redbird-capital
+      share: 85
+      from: 2020
+      note: 'Multi-club: anche AC Milan. In vendita 2024-25'
   toyota:
     name: Toyota Motor Corporation
     type: automaker
@@ -7195,9 +7669,18 @@ organizations:
     founded: 1964
     headquarters: Ankara, Turkey
     status: active
-    sector: TV, radio, news
-    note: State broadcaster. Registered as foreign agent US 2020. Press freedom rank 158/180
+    sector: TV, radio, news, digital
+    note: State broadcaster Turkey. 17 TV channels, 16 radio. FARA registered (US 2020). 86% revenue from bandrol fee
     stakeholders:
+    - person: mehmet-zahid-sobaci
+      role: executive
+      from: 2021
+      note: Director General. Reappointed 2025
+    - person: ibrahim-eren
+      role: executive
+      from: 2017
+      to: 2021
+      note: Director General and Chairman
     - org: governo-turchia
       share: 100%
   trt-world:
@@ -7209,6 +7692,11 @@ organizations:
     sector: news
     note: English-language international channel
     stakeholders:
+    - person: ibrahim-eren
+      role: executive
+      from: 2015
+      to: 2021
+      note: CEO at launch
     - org: trt
       share: 100%
   tsmc:
@@ -7354,6 +7842,13 @@ organizations:
     - org: walmart
       role: stake
       share: 0.054
+  viacom18:
+    name: Viacom18
+    type: media
+    founded: 2007
+    headquarters: Mumbai, India
+    status: active
+    note: JV Network18-Paramount (now Reliance). Colors, MTV India. Merged with Star India 2024
   vivendi:
     name: Vivendi SE
     type: media
@@ -7787,6 +8282,9 @@ organizations:
     - person: mathias-dopfner
       role: member
       note: Davos participant
+    - person: emilio-azcarraga-jean
+      role: member
+      note: WEF participant
     - person: andre-hoffmann
       role: chairman
       from: 2025
@@ -7794,6 +8292,12 @@ organizations:
     - person: pascal-soriot
       role: member
       note: Agenda Contributor, PHSSR co-founder
+    - person: luis-videgaray
+      role: ygl
+      note: Young Global Leader
+    - person: prannoy-roy
+      role: member
+      note: WEF contributor
     - org: bilderberg
       role: partner
     - org: fmi
@@ -7982,6 +8486,11 @@ organizations:
     headquarters: New York, USA
     status: active
     note: Owner of New York Yankees, Steinbrenner family
+  yankee-global-enterprises:
+    name: Yankee Global Enterprises
+    type: company
+    headquarters: New York, USA
+    status: active
   yes-network:
     name: YES Network
     type: media
