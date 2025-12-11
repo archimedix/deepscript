@@ -258,6 +258,59 @@ Cerca sempre connessioni italiane, presenza in Aspen Italia, ISPI, governi tecni
 
 ---
 
+## Framework Report
+
+### Tipi di Documento
+
+| Tipo | Definizione | Span Temporale | Path |
+|------|-------------|----------------|------|
+| **Event** | Fatto puntuale con data, luogo, decisori | Giorni/mesi | `docs/events/` |
+| **Report** | Percorso/analisi attraverso tempo e spazio | Generazioni/ere | `reports/` |
+| **Scheda** | Entita' di riferimento (persona, org, famiglia) | N/A | `docs/{tipo}/` |
+
+### Sottotipi Report
+
+| Sottotipo | Focus | Esempio |
+|-----------|-------|---------|
+| **STORICO** | Era/periodo | `cold-war-intelligence-origins.md` |
+| **TEMATICO** | Pattern/fenomeno | `whistleblowers-power-exposed.md` |
+| **GEOGRAFICO** | Mappa regionale | `korea-power-map.md` |
+
+### Relazione Event-Report-Scheda
+
+```
+Events (fatti) ──────► Neo4j ◄────── Schede (entita')
+       │                                    │
+       │                                    │
+       └──────► Reports (percorsi) ◄────────┘
+                       │
+                       ▼
+              Chronology Index (output finale)
+```
+
+**Regole:**
+- Events = fatti puntuali, link a schede
+- Reports = narrative, RIFERISCONO eventi (non duplicano)
+- Schede = dati puri, no narrative
+- Neo4j = fonte di verita' per relazioni
+
+### Naming Convention
+
+| Tipo | Pattern | Esempio |
+|------|---------|---------|
+| Event | `{anno}-{slug}.md` | `1948-elezioni-italiane.md` |
+| Report storico | `{tema}-{periodo}.md` | `cold-war-intelligence-origins.md` |
+| Report tematico | `{tema}.md` | `whistleblowers-power-exposed.md` |
+| Report geografico | `{regione}-power-map.md` | `korea-power-map.md` |
+
+### Indici
+
+I report hanno due indici in `reports/`:
+- `00-chronology-index.md` - Timeline 1942-oggi con link a eventi e report
+- `00-thematic-index.md` - Raggruppamento per tema
+
+---
+
 ## File Legacy (Read-Only)
 
 I file YAML in `archive/` (`persone.yaml`, `istituzioni.yaml`, etc.) sono **archivio storico**.
@@ -265,4 +318,4 @@ NON modificarli. Usa Neo4j per i dati correnti.
 
 ---
 
-*Ultimo aggiornamento: 9 Dicembre 2025*
+*Ultimo aggiornamento: 11 Dicembre 2025*
