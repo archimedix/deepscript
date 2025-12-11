@@ -71,7 +71,6 @@ PERSONE MANCANTI
   |-------------|------------|------------------------|
   | marinho     | media      | Brazil Grupo Globo     |
   | azcarraga   | media      | Mexico Televisa        |
-  | lee-samsung | media      | Korea Samsung/JoongAng |
   | roberts     | media      | USA Comcast            |
   | rothermere  | media      | UK Daily Mail          |
   | bouygues    | media      | France TF1             |
