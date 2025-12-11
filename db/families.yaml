@@ -48,15 +48,19 @@ families:
       role: member
   azcarraga:
     origin: Mexico
+    founder: emilio-azcarraga-vidaurreta
     sector: media
-    generations: 3
+    generations: 4
     status: active
-    note: Televisa dynasty. 3 generations. Basque origin. Largest Spanish-language media
+    note: Mexican media dynasty. Founded Televisa 1955. Largest Spanish-language broadcaster globally. Three Emilios led company
+      1930-2017. Close PRI ties. $4B+ fortune.
     members:
     - person: emilio-azcarraga-jean
       generation: 3
+      role: heir
     - person: emilio-azcarraga-milmo
       generation: 2
+      role: patriarch
     - person: emilio-azcarraga-vidaurreta
       generation: 1
       role: founder
@@ -213,27 +217,52 @@ families:
     - person: ronald-lauder
   lee-samsung:
     origin: South Korea
+    founder: lee-byung-chul
     sector: conglomerate
+    generations: 3
     status: active
-    note: Founded Samsung. Control via cross-ownership (4.4% ownership, 31% voting)
+    note: South Korea most powerful dynasty. Controls Samsung Group through circular cross-shareholding (4.4% ownership, 31%
+      voting rights)
     members:
     - person: lee-jae-yong
       generation: 3
+      role: heir
+    - person: lee-byung-chul
+      generation: 1
+      role: founder
+    - person: lee-kun-hee
+      generation: 2
+      role: heir
+    - person: lee-boo-jin
+      generation: 3
+      role: member
+    - person: lee-seo-hyun
+      generation: 3
+      role: member
   marinho:
     origin: Brazil
+    founder: irineu-marinho
     sector: media
+    generations: 4
     status: active
-    note: 'Founded Globo 1925. Three brothers control: Joao, Roberto Irineu, Jose Roberto'
+    note: 'Founded O Globo 1925. Largest media empire Latin America. Three brothers (3rd gen) control: Roberto Irineu, João
+      Roberto, José Roberto. Combined net worth ~$9B (2024).'
     members:
     - person: roberto-marinho
       generation: 2
-      role: founder
+      role: patriarch
     - person: joao-roberto-marinho
       generation: 3
+      role: heir
     - person: roberto-irineu-marinho
       generation: 3
+      role: heir
     - person: jose-roberto-marinho
       generation: 3
+      role: heir
+    - person: irineu-marinho
+      generation: 1
+      role: founder
   mohn:
     origin: Gutersloh, Germany
     founder: carl-bertelsmann

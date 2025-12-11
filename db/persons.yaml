@@ -118,6 +118,21 @@ persons:
       role: leader
       from: 2021
       to: 2020
+  alcide-de-gasperi:
+    born: 1881
+    died: 1954
+    nationality: Italia
+    affiliations:
+    - org: governo-italia
+      role: leader
+      from: 1945
+      to: 1953
+      note: Prime Minister (8 governi)
+    - org: democrazia-cristiana
+      role: founder
+      from: 1943
+      to: 1954
+      note: Segretario e Presidente
   aleksandar-vucic:
     born: 1970
     nationality: SRB
@@ -130,6 +145,15 @@ persons:
       from: 2017
       to: 2017
       note: President
+  aleksandr-kogan:
+    nationality: USA
+    note: Data scientist, creo app thisisyourdigitallife per Cambridge Analytica
+    affiliations:
+    - org: cambridge-analytica
+      role: contractor
+      from: 2014
+      to: 2015
+      note: Developer app thisisyourdigitallife
   alexander-de-croo:
     born: 1975
     nationality: BEL
@@ -142,6 +166,21 @@ persons:
       role: leader
       from: 2020
       to: 2024
+  alexander-nix:
+    born: 1975
+    nationality: GBR
+    note: CEO Cambridge Analytica, Eton, banned from UK companies 7 years
+    affiliations:
+    - org: cambridge-analytica
+      role: executive
+      from: 2013
+      to: 2018
+      note: CEO, co-founder, suspended Mar 2018
+    - org: scl-group
+      role: executive
+      from: 2003
+      to: 2018
+      note: Director
   alexander-schallenberg:
     born: 1969
     nationality: AUT
@@ -610,6 +649,21 @@ persons:
       role: board
       from: 2024
       note: Microsoft President, joined with investment
+  bradley-birkenfeld:
+    born: 1965
+    nationality: USA
+    note: Whistleblower UBS, ricompensa IRS 104M USD, distrusse segreto bancario svizzero
+    affiliations:
+    - org: ubs
+      role: operative
+      from: 2001
+      to: 2006
+      note: Private banker, wealth management Geneva
+    - org: credit-suisse
+      role: operative
+      from: 1996
+      to: 1998
+      note: Private banker
   brent-scowcroft:
     born: 1925
     died: 2020
@@ -715,6 +769,28 @@ persons:
       from: 1978
       to: 2023
       note: Vice Chairman 1978-2023. Morto novembre 2023
+  chelsea-manning:
+    born: 1987
+    nationality: USA
+    note: WikiLeaks source, largest leak classified docs US history
+    affiliations:
+    - org: wikileaks
+      role: source
+      from: 2010
+      to: 2010
+      note: Leaked War Logs, Cablegate, Collateral Murder
+    - org: us-army
+      role: member
+      from: 2007
+      to: 2013
+      note: Intelligence analyst, deployed Iraq 2009
+    relations:
+    - person: daniel-ellsberg
+      type: influenced by
+      note: Ellsberg supported Manning, both charged under Espionage Act
+    - person: edward-snowden
+      type: fellow whistleblower
+      note: Both leaked classified US government documents
   christian-sinding:
     nationality: NOR
     affiliations:
@@ -751,6 +827,25 @@ persons:
       from: 1995
       to: 2006
       note: Co-Founder, led until 2006
+  christopher-wylie:
+    born: 1989
+    nationality: CAN
+    note: Whistleblower Cambridge Analytica, data scientist
+    affiliations:
+    - org: cambridge-analytica
+      role: executive
+      from: 2013
+      to: 2014
+      note: Research Director, co-founder
+    - org: scl-group
+      role: executive
+      from: 2013
+      to: 2014
+      note: Research Director
+    relations:
+    - person: steve-bannon
+      type: colleague
+      note: Bannon was Wylie boss at Cambridge Analytica
   chrystia-freeland:
     born: 1968
     nationality: CAN
@@ -853,10 +948,28 @@ persons:
     died: 2023
     nationality: USA
     affiliations:
-    - org: rand-corporation
+    - org: governo-usa
       role: advisor
-      from: 1958
-      to: 1971
+      from: 1964
+      to: 1967
+      note: Defense/State Dept, Vietnam analyst
+    - org: rand-corporation
+      role: analyst
+      from: 1959
+      to: 1970
+      note: Nuclear war analyst, Vietnam study
+    - org: freedom-press-foundation
+      role: founder
+      from: 2012
+      to: 2023
+      note: Co-founder
+    relations:
+    - person: edward-snowden
+      type: colleague
+      note: Freedom Press Foundation co-board members, Ellsberg mentor/supporter
+    - person: william-binney
+      type: colleague
+      note: Fellow whistleblowers, both Sam Adams Award recipients
   daniel-kretinsky:
     born: 1975
     nationality: Repubblica Ceca
@@ -924,6 +1037,26 @@ persons:
     - org: rothschild-co
       role: chairman
       from: 2003
+  david-kelly:
+    born: 1944
+    died: 2003
+    nationality: GBR
+    note: Weapons inspector, WMD expert, controversial death during Iraq dossier scandal
+    affiliations:
+    - org: onu
+      role: member
+      from: 1991
+      to: 1998
+      note: UNSCOM Chief Weapons Inspector, 37 missions Iraq
+    - org: governo-uk
+      role: advisor
+      from: 1984
+      to: 2003
+      note: MoD advisor, Defence Intelligence Staff, Porton Down
+    relations:
+    - person: katharine-gun
+      type: contemporary
+      note: Both exposed aspects of Iraq war justification 2003
   david-petraeus:
     born: 1952
     nationality: USA
@@ -1072,6 +1205,40 @@ persons:
     died: 1935
     nationality: Italia
     family: agnelli-elkann
+  edward-snowden:
+    born: 1983
+    nationality: USA
+    note: Whistleblower NSA, cittadino russo dal 2022
+    affiliations:
+    - org: cia
+      role: operative
+      from: 2006
+      to: 2009
+      note: Network security technician, Geneva posting 2007
+    - org: nsa
+      role: contractor
+      from: 2009
+      to: 2013
+      note: Infrastructure analyst, systems administrator
+    - org: booz-allen-hamilton
+      role: contractor
+      from: 2013
+      to: 2013
+      note: Infrastructure analyst, Hawaii NSA facility
+    - org: dell
+      role: contractor
+      from: 2009
+      to: 2013
+      note: NSA contractor
+    - org: freedom-press-foundation
+      role: chairman
+      from: 2014
+      to: 2022
+      note: Board member 2014, President 2016-2022
+    - org: wikileaks
+      role: member
+      from: 2013
+      note: WikiLeaks helped with asylum, escape from Hong Kong
   egon-durban:
     nationality: USA
     affiliations:
@@ -1186,7 +1353,7 @@ persons:
   emilio-azcarraga-jean:
     born: 1968
     nationality: MEX
-    note: Televisa Chairman. CEO 1997-2017. 3rd gen Azcárraga dynasty. Leave Oct 2024 (FIFA probe)
+    note: CEO Televisa 1997-2017. Saved from bankruptcy. Leave Oct 2024 DOJ FIFA probe.
     affiliations:
     - org: wef
       role: member
@@ -1200,7 +1367,7 @@ persons:
     born: 1930
     died: 1997
     nationality: MEX
-    note: Televisa President 1973-1997. "El Tigre". Forbes $5.4B 1994. 2nd gen
+    note: '"El Tigre". Soldado del PRI. Built Televisa into Latin America largest. $5B at death.'
     affiliations:
     - org: grupo-televisa
       role: executive
@@ -1211,7 +1378,7 @@ persons:
     born: 1895
     died: 1972
     nationality: MEX
-    note: Telesistema Mexicano founder. First Mexican radio 1930, TV 1951. 1st gen
+    note: Founder Televisa. Basque immigrant family. Radio XEW 1930. TV Channel 2 1951.
     affiliations:
     - org: grupo-televisa
       role: founder
@@ -1419,6 +1586,22 @@ persons:
     - org: porsche-ag
       role: founder
       from: 1931
+  frances-haugen:
+    born: 1983
+    nationality: USA
+    note: Whistleblower Facebook/Meta, Facebook Papers 2021
+    affiliations:
+    - org: meta
+      role: operative
+      from: 2019
+      to: 2021
+      note: Product manager, Civic Integrity team
+    - org: google
+      role: operative
+      note: Product manager, ranking systems
+    - org: pinterest
+      role: operative
+      note: Product manager, algorithmic systems
   franco-bernabe:
     born: 1948
     nationality: ITA
@@ -2025,6 +2208,20 @@ persons:
     - org: hudson-institute
       role: founder
       from: 1961
+  herve-falciani:
+    born: 1972
+    nationality: FRA
+    note: Whistleblower HSBC, SwissLeaks, franco-italiano
+    affiliations:
+    - org: hsbc-private-bank
+      role: operative
+      from: 2001
+      to: 2008
+      note: Systems engineer, database administrator
+    relations:
+    - person: christine-lagarde
+      type: whistleblower-recipient
+      note: Lagarde List - dati HSBC consegnati al Min. Finanze Francia
   hillary-clinton:
     born: 1947
     nationality: USA
@@ -2044,6 +2241,17 @@ persons:
     - org: broadcom
       role: executive
       from: 2006
+  hong-ra-hee:
+    born: 1945
+    nationality: Korean
+    affiliations:
+    - org: leeum-museum
+      role: executive
+      from: 2004
+      note: Director
+    relations:
+    - person: lee-kun-hee
+      type: spouse
   howard-kohr:
     born: 1955
     nationality: USA
@@ -2106,6 +2314,16 @@ persons:
       from: 2015
       to: 2024
       note: Co-founder, Chief Scientist until 2024
+  irineu-marinho:
+    born: 1876
+    died: 1925
+    nationality: BRA
+    affiliations:
+    - org: grupo-globo
+      role: founder
+      from: 1925
+      to: 1925
+      note: Founded O Globo newspaper
   isaiah-kenen:
     born: 1905
     died: 1988
@@ -2128,6 +2346,8 @@ persons:
       note: Daughter
     - person: jared-kushner
       type: spouse
+  j-kirk-wiebe:
+    nationality: USA
   jacinda-ardern:
     born: 1980
     nationality: NZL
@@ -2241,9 +2461,15 @@ persons:
     relations:
     - person: allen-dulles
       type: mentor
+    - person: junio-valerio-borghese
+      type: handler
+      note: Lo salvo' maggio 1945, contatti mantenuti
     - person: kim-philby
       type: friend
       note: Amico, poi rivelato spia sovietica (1963)
+    - person: norman-holmes-pearson
+      type: protege
+      note: Reclutato da Pearson in OSS, suo numero 2 a Londra
     - person: william-colby
       type: rival
   james-baker:
@@ -2797,7 +3023,7 @@ persons:
       type: professional
       note: board-news-corp
   jose-roberto-marinho:
-    born: 1956
+    born: 1955
     nationality: BRA
     note: Globo Vice President. Youngest brother. President Fundação Roberto Marinho
     affiliations:
@@ -2805,6 +3031,10 @@ persons:
       role: executive
       from: 2003
       note: Vice President. President Fundação Roberto Marinho
+    - org: fundacao-roberto-marinho
+      role: chairman
+      from: 2003
+      note: President
   joseph-bae:
     nationality: USA
     affiliations:
@@ -2853,10 +3083,52 @@ persons:
     died: 1943
     nationality: USA
     family: morgan
+  julian-assange:
+    born: 1971
+    nationality: AUS
+    affiliations:
+    - org: wikileaks
+      role: founder
+      from: 2006
+      note: Editor-in-chief
+    relations:
+    - person: chelsea-manning
+      type: colleague
+      note: Manning leaked documents to WikiLeaks, Assange published
+    - person: daniel-ellsberg
+      type: colleague
+      note: Ellsberg publicly supported Assange, fellow whistleblower network
+    - person: edward-snowden
+      type: colleague
+      note: Fellow transparency activists, WikiLeaks helped Snowden escape
   juliana-olanda:
     born: 1909
     died: 2004
     nationality: NLD
+  jung-ku-hyun:
+    nationality: Korean
+    note: Ex President Samsung Economic Research Institute (SERI). Trilateral Commission member. Prof Emeritus Yonsei University
+    affiliations:
+    - org: trilateral-commission
+      role: member
+    - org: samsung-global-research
+      role: executive
+      from: 2003
+      note: President and CEO
+  junio-valerio-borghese:
+    born: 1906
+    died: 1974
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: military
+      from: 1929
+      to: 1945
+      note: Regia Marina, Comandante Decima MAS
+    relations:
+    - person: james-angleton
+      type: asset
+      note: Salvato da Angleton maggio 1945, contatti mantenuti fino al 1970
   junius-spencer-morgan:
     born: 1813
     died: 1890
@@ -2910,6 +3182,23 @@ persons:
       role: executive
       from: 2024
       note: Alto Rappresentante Affari Esteri
+  katharine-gun:
+    born: 1974
+    nationality: GBR
+    note: GCHQ whistleblower, leaked NSA memo on UN spying pre-Iraq war 2003
+    affiliations:
+    - org: gchq
+      role: member
+      from: 2001
+      to: 2004
+      note: Mandarin translator
+    relations:
+    - person: daniel-ellsberg
+      type: praised by
+      note: Ellsberg called her leak "the most important and courageous leak I have ever seen"
+    - person: edward-snowden
+      type: fellow whistleblower
+      note: Both exposed NSA/GCHQ surveillance operations
   kathy-warden:
     nationality: American
     note: Northrop Grumman CEO, defense-pharma crosslink
@@ -3008,6 +3297,19 @@ persons:
     - person: james-angleton
       type: colleague
       note: Washington liaison, weekly lunches, Philby deceived Angleton
+  kim-tae-hyun:
+    born: 1966
+    nationality: Korean
+    note: CEO NPS 2022-2025. Ex CEO Korea Deposit Insurance Corp. Career in Finance Ministry and FSC
+    affiliations:
+    - org: nps-korea
+      role: executive
+      from: 2022
+      to: 2025
+      note: CEO/Chairman. 15% return in 2024 (best ever)
+    - org: governo-corea
+      role: minister
+      note: Finance Ministry, Foreign Affairs Ministry, FSC departments
   kirsty-coventry:
     born: 1983
     nationality: ZWE
@@ -3176,14 +3478,58 @@ persons:
       role: executive
       from: 1984
       to: 1989
+  lee-boo-jin:
+    born: 1970
+    nationality: Korean
+    affiliations:
+    - org: hotel-shilla
+      role: executive
+      from: 2010
+      note: CEO and President
+  lee-byung-chul:
+    born: 1910
+    died: 1987
+    nationality: Korean
+    affiliations:
+    - org: samsung
+      role: founder
+      from: 1938
+      to: 1987
+      note: Founded Samsung Trading Co.
   lee-jae-yong:
     born: 1968
     nationality: Korean
     note: Executive Chairman Samsung. AKA Jay Y. Lee. Convicted of bribery, pardoned
     affiliations:
+    - org: wef
+      role: member
+      note: Attended Davos 2023 with President Yoon delegation
     - org: samsung
       role: chairman
       from: 2022
+      note: Executive Chairman Samsung Electronics
+    relations:
+    - person: park-geun-hye
+      type: bribery scandal
+      note: Lee convicted for bribing Park (43B won). Both pardoned
+  lee-kun-hee:
+    born: 1942
+    died: 2020
+    nationality: Korean
+    affiliations:
+    - org: samsung
+      role: chairman
+      from: 1987
+      to: 2020
+      note: Transformed Samsung into global tech leader
+  lee-seo-hyun:
+    born: 1973
+    nationality: Korean
+    affiliations:
+    - org: samsung-ct
+      role: executive
+      from: 2024
+      note: President
   leo-varadkar:
     born: 1979
     nationality: IRL
@@ -3264,6 +3610,16 @@ persons:
       role: executive
       from: 2019
       note: VP Research
+  licio-gelli:
+    born: 1919
+    died: 2015
+    nationality: Italia
+    affiliations:
+    - org: p2
+      role: founder
+      from: 1970
+      to: 1981
+      note: Venerable Master
   lionel-rothschild:
     born: 1808
     died: 1879
@@ -3948,6 +4304,16 @@ persons:
       role: leader
       from: 2022
       note: Presidente UAE, Ruler Abu Dhabi
+  moon-hyung-pyo:
+    nationality: Korean
+    note: Ex Health Minister, Ex NPS Director. Convicted 2017 for pressuring NPS vote on Samsung merger
+    affiliations:
+    - org: nps-korea
+      role: executive
+      note: Director. Convicted 2017 for pressuring vote on Samsung merger
+    - org: governo-corea
+      role: minister
+      note: Health Minister
   morris-amitay:
     born: 1935
     died: 2019
@@ -4147,6 +4513,28 @@ persons:
       from: 2015
       to: 2025
       note: Chairman Supervisory Board (CEO 2006-2015)
+  norman-holmes-pearson:
+    born: 1909
+    died: 1975
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: advisor
+      from: 1947
+      to: 1953
+      note: Recruiter Yale, aiuto organizzazione CIA
+    - org: oss
+      role: founder
+      from: 1942
+      to: 1945
+      note: Co-fondatore X-2 counterintelligence branch
+    relations:
+    - person: allen-dulles
+      type: colleague
+      note: Colleghi OSS, entrambi fondatori struttura intelligence
+    - person: james-angleton
+      type: mentor
+      note: Recluto' Angleton in OSS, fu suo superiore X-2 London
   noubar-afeyan:
     born: 1962
     nationality: LBN-USA
@@ -4227,6 +4615,16 @@ persons:
     - org: ac-milan
       role: chairman
       from: 2018
+  park-geun-hye:
+    born: 1952
+    nationality: Korean
+    note: President South Korea 2013-2017. Impeached and imprisoned for corruption scandal involving Samsung
+    affiliations:
+    - org: governo-corea
+      role: leader
+      from: 2013
+      to: 2017
+      note: President. Impeached for Samsung bribery scandal
   pascal-soriot:
     born: 1959
     nationality: French-Australian
@@ -4644,6 +5042,25 @@ persons:
     - org: fii-saudi
       role: member
       note: Speaker FII7, FII9
+  reality-winner:
+    born: 1991
+    nationality: USA
+    note: NSA contractor, leaked Russian election interference report 2017
+    affiliations:
+    - org: nsa
+      role: member
+      from: 2017
+      to: 2017
+      note: Contractor via Pluribus International, Fort Gordon
+    - org: us-air-force
+      role: member
+      from: 2010
+      to: 2016
+      note: Cryptologic linguist, 94th Intelligence Squadron, Fort Meade
+    relations:
+    - person: edward-snowden
+      type: fellow whistleblower
+      note: Both NSA, both charged under Espionage Act
   recep-tayyip-erdogan:
     born: 1954
     nationality: Turkish
@@ -4838,6 +5255,16 @@ persons:
       role: minister
       from: 1961
       to: 1968
+  robert-mercer:
+    born: 1946
+    nationality: USA
+    note: Hedge fund billionaire, Renaissance Technologies, Cambridge Analytica backer
+    affiliations:
+    - org: cambridge-analytica
+      role: founder
+      from: 2013
+      to: 2018
+      note: Principal backer/investor
   robert-oleary:
     nationality: USA
     note: Co-CEO Oaktree (2024-). Global Opportunities strategy PM.
@@ -5164,6 +5591,33 @@ persons:
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
+  shin-je-yoon:
+    nationality: Korean
+    note: Ex Chairman Financial Services Commission, Ex Vice Minister Economy. Samsung Electronics board member
+    affiliations:
+    - org: samsung
+      role: board
+      note: Independent Director
+    - org: governo-corea
+      role: minister
+      note: Chairman Financial Services Commission, Vice Minister Economy
+  sibel-edmonds:
+    born: 1970
+    nationality: USA
+    note: FBI whistleblower, translator, most gagged person in US history
+    affiliations:
+    - org: fbi
+      role: member
+      from: 2001
+      to: 2002
+      note: Translator, Turkish/Farsi/Azerbaijani
+    relations:
+    - person: daniel-ellsberg
+      type: fellow whistleblower
+      note: Both faced government suppression, Ellsberg supported Edmonds
+    - person: edward-snowden
+      type: fellow whistleblower
+      note: Both exposed US intelligence failures, both faced state retaliation
   sicco-mansholt:
     born: 1908
     died: 1995
@@ -5195,6 +5649,12 @@ persons:
     died: 2023
     nationality: Italia
     family: berlusconi
+    affiliations:
+    - org: p2
+      role: member
+      from: 1978
+      to: 1981
+      note: Tessera n. 1816
   simon-harris:
     born: 1986
     nationality: IRL
@@ -5307,6 +5767,16 @@ persons:
       from: 2000
       to: 2014
       note: CEO
+  steve-bannon:
+    born: 1953
+    nationality: USA
+    note: Breitbart, Trump campaign, Cambridge Analytica investor
+    affiliations:
+    - org: cambridge-analytica
+      role: board
+      from: 2014
+      to: 2017
+      note: Vice President, investor 1-5M USD
   steve-jobs:
     born: 1955
     died: 2011
@@ -5421,6 +5891,28 @@ persons:
       role: executive
       from: 2027
       note: CEO designato
+  thomas-drake:
+    born: 1957
+    nationality: USA
+    note: NSA senior executive, Trailblazer whistleblower, Espionage Act defendant
+    affiliations:
+    - org: cia
+      role: member
+      from: 1989
+      to: 1989
+      note: Imagery analyst, Directorate of Intelligence
+    - org: nsa
+      role: executive
+      from: 2001
+      to: 2008
+      note: Senior Change Leader, Technical Director
+    relations:
+    - person: edward-snowden
+      type: influenced
+      note: Drake predecessor to Snowden, both charged under Espionage Act
+    - person: william-binney
+      type: colleague
+      note: Both NSA whistleblowers, both supported ThinThread vs Trailblazer
   thomas-glocer:
     born: 1959
     nationality: American
@@ -5694,6 +6186,30 @@ persons:
       role: board
       from: 1974
       to: 2011
+  william-binney:
+    born: 1943
+    nationality: USA
+    affiliations:
+    - org: nsa
+      role: executive
+      from: 1970
+      to: 2001
+      note: Technical Director SIGINT
+    - org: army-security-agency
+      role: operative
+      from: 1965
+      to: 1969
+      note: Vietnam War
+    - org: entity-mapping-llc
+      role: founder
+      from: 2001
+    relations:
+    - person: edward-snowden
+      type: influenced
+      note: Treatment influenced Snowden to go public vs internal channels
+    - person: j-kirk-wiebe
+      type: colleague
+      note: NSA colleagues, co-founded Entity Mapping, co-whistleblowers
   william-casey:
     born: 1913
     died: 1987
@@ -5735,6 +6251,11 @@ persons:
     died: 1959
     nationality: USA
     affiliations:
+    - org: governo-usa
+      role: executive
+      from: 1922
+      to: 1929
+      note: US Attorney, Asst Attorney General Antitrust
     - org: mi6
       role: liaison
       from: 1940
@@ -5849,6 +6370,26 @@ persons:
       role: executive
       from: 2008
       to: 2020
+  yoo-myung-hee:
+    nationality: Korean
+    note: Ex Trade Minister MOTIE. Samsung Electronics board member. WTO Director-General candidate 2020
+    affiliations:
+    - org: samsung
+      role: board
+      note: Independent Director
+    - org: governo-corea
+      role: minister
+      note: Trade Minister MOTIE
+  yoon-suk-yeol:
+    born: 1960
+    nationality: Korean
+    note: President 2022-2024. Pro-chaebol policy. Pardoned Lee Jae-yong. Impeached Dec 2024 after martial law declaration
+    affiliations:
+    - org: governo-corea
+      role: leader
+      from: 2022
+      to: 2024
+      note: President. Impeached Dec 2024
   yossi-cohen:
     born: 1961
     nationality: ISR

@@ -63,6 +63,13 @@ organizations:
       role: investor
       from: 2022
       note: minority stake via RedBird partnership
+  aclu:
+    name: American Civil Liberties Union
+    type: foundation
+    founded: 1920
+    headquarters: New York, USA
+    status: active
+    sector: civil rights
   adani-group:
     name: Adani Group
     type: company
@@ -452,6 +459,16 @@ organizations:
     - org: softbank
       role: subsidiary
       share: 0.9
+  army-security-agency:
+    type: agency
+    status: dissolved
+    note: NSA predecessor military unit
+    stakeholders:
+    - person: william-binney
+      role: operative
+      from: 1965
+      to: 1969
+      note: Vietnam War
   aspen-institute:
     name: Aspen Institute
     type: thinktank
@@ -1299,6 +1316,11 @@ organizations:
     - person: michele-flournoy
       role: board
       from: 2018
+    - person: edward-snowden
+      role: contractor
+      from: 2013
+      to: 2013
+      note: Infrastructure analyst, Hawaii NSA facility
   boston-celtics:
     name: Boston Celtics
     type: sportsclub
@@ -1519,6 +1541,43 @@ organizations:
     - person: urbano-cairo
       role: founder
       from: 1995
+  cambridge-analytica:
+    name: Cambridge Analytica
+    type: company
+    founded: 2013
+    headquarters: London, UK
+    status: defunct
+    sector: data analytics
+    note: Collapsed May 2018
+    stakeholders:
+    - person: christopher-wylie
+      role: executive
+      from: 2013
+      to: 2014
+      note: Research Director, co-founder
+    - person: steve-bannon
+      role: board
+      from: 2014
+      to: 2017
+      note: Vice President, investor 1-5M USD
+    - person: robert-mercer
+      role: founder
+      from: 2013
+      to: 2018
+      note: Principal backer/investor
+    - person: alexander-nix
+      role: executive
+      from: 2013
+      to: 2018
+      note: CEO, co-founder, suspended Mar 2018
+    - person: aleksandr-kogan
+      role: contractor
+      from: 2014
+      to: 2015
+      note: Developer app thisisyourdigitallife
+    - org: scl-group
+      role: parent
+      from: 2013
   canal-plus:
     name: Canal+
     type: media
@@ -1968,6 +2027,21 @@ organizations:
       role: director
       from: 1976
       to: 1977
+    - person: edward-snowden
+      role: operative
+      from: 2006
+      to: 2009
+      note: Network security technician, Geneva posting 2007
+    - person: thomas-drake
+      role: member
+      from: 1989
+      to: 1989
+      note: Imagery analyst, Directorate of Intelligence
+    - person: norman-holmes-pearson
+      role: advisor
+      from: 1947
+      to: 1953
+      note: Recruiter Yale, aiuto organizzazione CIA
     - org: oss
       role: predecessor
       from: 1942
@@ -2307,6 +2381,20 @@ organizations:
     stakeholders:
     - org: rcs-mediagroup
       share: 100%
+  credit-suisse:
+    name: Credit Suisse
+    type: bank
+    founded: 1856
+    headquarters: Zurich, Switzerland
+    status: defunct
+    sector: banking
+    note: Acquired by UBS 2023
+    stakeholders:
+    - person: bradley-birkenfeld
+      role: operative
+      from: 1996
+      to: 1998
+      note: Private banker
   crossword-cybersecurity:
     type: company
     headquarters: London, UK
@@ -2360,6 +2448,31 @@ organizations:
     headquarters: Arlington, Virginia, USA
     status: active
     sector: law-enforcement
+  dell:
+    name: Dell Technologies
+    type: company
+    founded: 1984
+    headquarters: Round Rock, Texas, USA
+    status: active
+    sector: technology
+    stakeholders:
+    - person: edward-snowden
+      role: contractor
+      from: 2009
+      to: 2013
+      note: NSA contractor
+  democrazia-cristiana:
+    name: Democrazia Cristiana
+    type: party
+    founded: 1943
+    headquarters: Roma, Italia
+    status: defunct
+    stakeholders:
+    - person: alcide-de-gasperi
+      role: founder
+      from: 1943
+      to: 1954
+      note: Segretario e Presidente
   die-welt:
     name: Die Welt
     type: media
@@ -2495,6 +2608,12 @@ organizations:
     - person: john-elkann
       role: chairman
       from: 2009
+  ecsc:
+    name: European Coal and Steel Community
+    type: agency
+    founded: 1951
+    headquarters: Luxembourg
+    status: defunct
   eib:
     name: European Investment Bank
     type: bank
@@ -2582,6 +2701,14 @@ organizations:
       from: 2005
       to: 2014
       note: CEO
+  entity-mapping-llc:
+    type: company
+    status: active
+    note: Private intelligence founded by Binney and Wiebe
+    stakeholders:
+    - person: william-binney
+      role: founder
+      from: 2001
   eqt:
     name: EQT AB
     type: privateequity
@@ -2761,6 +2888,18 @@ organizations:
     - org: silver-lake
       role: investor
       note: Sports commerce platform
+  fbi:
+    name: Federal Bureau of Investigation
+    type: agency
+    founded: 1908
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: sibel-edmonds
+      role: member
+      from: 2001
+      to: 2002
+      note: Translator, Turkish/Farsi/Azerbaijani
   fda:
     name: Food and Drug Administration
     type: agency
@@ -3076,6 +3215,24 @@ organizations:
     stakeholders:
     - person: xavier-niel
       role: founder
+  freedom-press-foundation:
+    name: Freedom of the Press Foundation
+    type: foundation
+    founded: 2012
+    headquarters: San Francisco, USA
+    status: active
+    sector: press freedom
+    stakeholders:
+    - person: daniel-ellsberg
+      role: founder
+      from: 2012
+      to: 2023
+      note: Co-founder
+    - person: edward-snowden
+      role: chairman
+      from: 2014
+      to: 2022
+      note: Board member 2014, President 2016-2022
   fuji-media:
     name: Fuji Media Holdings
     type: media
@@ -3084,6 +3241,21 @@ organizations:
     status: active
     sector: TV, entertainment
     note: Fuji TV flagship. First net loss FY2024 after scandal
+  fundacao-roberto-marinho:
+    name: Fundação Roberto Marinho
+    type: foundation
+    founded: 1977
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    note: Family philanthropy arm. Education, culture. Museum of Tomorrow, Telecurso.
+    stakeholders:
+    - person: jose-roberto-marinho
+      role: chairman
+      from: 2003
+      note: President
+    - org: grupo-globo
+      role: affiliate
+      note: Philanthropy arm
   future-fund-australia:
     name: Future Fund
     type: swf
@@ -3205,6 +3377,12 @@ organizations:
     headquarters: Cheltenham, UK
     status: active
     sector: intelligence
+    stakeholders:
+    - person: katharine-gun
+      role: member
+      from: 2001
+      to: 2004
+      note: Mandarin translator
   gedi:
     name: GEDI Gruppo Editoriale
     type: media
@@ -3360,6 +3538,17 @@ organizations:
       role: partner
       from: 2017
       note: $2.5B fund partnership
+  google:
+    name: Google
+    type: company
+    founded: 1998
+    headquarters: Mountain View, California, USA
+    status: active
+    sector: technology
+    stakeholders:
+    - person: frances-haugen
+      role: operative
+      note: Product manager, ranking systems
   governo-australia:
     name: Government of Australia
     type: government
@@ -3418,6 +3607,37 @@ organizations:
       from: 2023
       to: 2022
       note: President
+  governo-corea:
+    name: Governo della Repubblica di Corea
+    type: government
+    founded: 1948
+    headquarters: Seoul, South Korea
+    status: active
+    note: Symbiotic relationship with chaebol since Park Chung-hee era (1961). Revolving door with Samsung, NPS. Multiple
+      corruption scandals
+    stakeholders:
+    - person: shin-je-yoon
+      role: minister
+      note: Chairman Financial Services Commission, Vice Minister Economy
+    - person: yoo-myung-hee
+      role: minister
+      note: Trade Minister MOTIE
+    - person: moon-hyung-pyo
+      role: minister
+      note: Health Minister
+    - person: park-geun-hye
+      role: leader
+      from: 2013
+      to: 2017
+      note: President. Impeached for Samsung bribery scandal
+    - person: kim-tae-hyun
+      role: minister
+      note: Finance Ministry, Foreign Affairs Ministry, FSC departments
+    - person: yoon-suk-yeol
+      role: leader
+      from: 2022
+      to: 2024
+      note: President. Impeached Dec 2024
   governo-croazia:
     name: Governo Croazia
     type: government
@@ -3669,6 +3889,16 @@ organizations:
       from: 2013
       to: 2022
       note: Giudice e Presidente Corte Costituzionale
+    - person: junio-valerio-borghese
+      role: military
+      from: 1929
+      to: 1945
+      note: Regia Marina, Comandante Decima MAS
+    - person: alcide-de-gasperi
+      role: leader
+      from: 1945
+      to: 1953
+      note: Prime Minister (8 governi)
   governo-kosovo:
     name: Governo Kosovo
     type: government
@@ -3989,6 +4219,11 @@ organizations:
       role: legislator
       from: 2015
       note: MP Holborn and St Pancras
+    - person: david-kelly
+      role: advisor
+      from: 1984
+      to: 2003
+      note: MoD advisor, Defence Intelligence Staff, Porton Down
   governo-urss:
     name: Governo URSS
     type: government
@@ -4031,6 +4266,11 @@ organizations:
       role: leader
       from: 2021
       to: 2025
+    - person: daniel-ellsberg
+      role: advisor
+      from: 1964
+      to: 1967
+      note: Defense/State Dept, Vietnam analyst
     - person: hillary-clinton
       role: minister
       from: 2009
@@ -4051,6 +4291,11 @@ organizations:
       role: leader
       from: 1993
       to: 2001
+    - person: william-donovan
+      role: executive
+      from: 1922
+      to: 1929
+      note: US Attorney, Asst Attorney General Antitrust
     - person: allen-dulles
       role: diplomat
       from: 1916
@@ -4205,6 +4450,11 @@ organizations:
       role: executive
       from: 2003
       note: Vice President. President Fundação Roberto Marinho
+    - person: irineu-marinho
+      role: founder
+      from: 1925
+      to: 1925
+      note: Founded O Globo newspaper
   grupo-prisa:
     name: Grupo Prisa
     type: media
@@ -4377,6 +4627,42 @@ organizations:
     - person: richard-dearlove
       role: member
       note: Signatory Statement of Principles
+  hotel-shilla:
+    name: Hotel Shilla
+    type: company
+    founded: 1979
+    headquarters: Seoul, South Korea
+    status: active
+    sector: hospitality
+    stakeholders:
+    - person: lee-boo-jin
+      role: executive
+      from: 2010
+      note: CEO and President
+  hsbc:
+    name: HSBC Holdings
+    type: bank
+    founded: 1865
+    headquarters: London, UK
+    status: active
+    sector: banking
+  hsbc-private-bank:
+    name: HSBC Private Bank (Suisse) SA
+    type: bank
+    founded: 1999
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: private banking
+    note: SwissLeaks scandal, 300M EUR fine France 2017, 192M USD fine USA
+    stakeholders:
+    - person: herve-falciani
+      role: operative
+      from: 2001
+      to: 2008
+      note: Systems engineer, database administrator
+    - org: hsbc
+      role: subsidiary
+      share: 100
   hudson-institute:
     name: Hudson Institute
     type: thinktank
@@ -4984,6 +5270,17 @@ organizations:
     stakeholders:
     - org: lvmh
       share: 100%
+  leeum-museum:
+    name: Leeum, Samsung Museum of Art
+    type: foundation
+    founded: 2004
+    headquarters: Seoul, South Korea
+    status: active
+    stakeholders:
+    - person: hong-ra-hee
+      role: executive
+      from: 2004
+      note: Director
   lehman-brothers:
     name: Lehman Brothers
     type: bank
@@ -5299,6 +5596,11 @@ organizations:
       from: 2022
     - person: helle-thorning-schmidt
       role: board
+    - person: frances-haugen
+      role: operative
+      from: 2019
+      to: 2021
+      note: Product manager, Civic Integrity team
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -5580,10 +5882,10 @@ organizations:
     - person: jacob-wallenberg
       role: board
   nato:
-    name: NATO
+    name: North Atlantic Treaty Organization
     type: agency
     founded: 1949
-    headquarters: Bruxelles
+    headquarters: Brussels, Belgium
     status: active
     stakeholders:
     - person: lord-carrington
@@ -5879,6 +6181,24 @@ organizations:
     - person: jonathan-symonds
       role: executive
       note: ex-CFO
+  nps-korea:
+    name: National Pension Service (NPS)
+    type: swf
+    founded: 1988
+    headquarters: Jeonju, South Korea
+    status: active
+    sector: pension fund
+    note: 3rd largest pension fund globally. AUM KRW 1,300T+ (~$900B). Owns 5%+ in 94 Korean companies. Stewardship Code 2018.
+      Controversial role in 2015 Samsung merger scandal
+    stakeholders:
+    - person: moon-hyung-pyo
+      role: executive
+      note: Director. Convicted 2017 for pressuring vote on Samsung merger
+    - person: kim-tae-hyun
+      role: executive
+      from: 2022
+      to: 2025
+      note: CEO/Chairman. 15% return in 2024 (best ever)
   nsa:
     name: National Security Agency
     type: agency
@@ -5923,6 +6243,26 @@ organizations:
       from: 1999
       to: 2005
       note: Director NSA
+    - person: edward-snowden
+      role: contractor
+      from: 2009
+      to: 2013
+      note: Infrastructure analyst, systems administrator
+    - person: william-binney
+      role: executive
+      from: 1970
+      to: 2001
+      note: Technical Director SIGINT
+    - person: thomas-drake
+      role: executive
+      from: 2001
+      to: 2008
+      note: Senior Change Leader, Technical Director
+    - person: reality-winner
+      role: member
+      from: 2017
+      to: 2017
+      note: Contractor via Pluribus International, Fort Gordon
   nso-group:
     name: NSO Group
     type: company
@@ -6056,6 +6396,11 @@ organizations:
       role: diplomat
       from: 2007
       to: 2009
+    - person: david-kelly
+      role: member
+      from: 1991
+      to: 1998
+      note: UNSCOM Chief Weapons Inspector, 37 missions Iraq
     - org: wef
       role: partner
   opec:
@@ -6218,6 +6563,28 @@ organizations:
       from: 1943
       to: 1945
       note: Chief SI Italy
+    - person: norman-holmes-pearson
+      role: founder
+      from: 1942
+      to: 1945
+      note: Co-fondatore X-2 counterintelligence branch
+  p2:
+    name: Propaganda Due (P2)
+    type: forum
+    founded: 1877
+    headquarters: Roma/Arezzo, Italia
+    status: defunct
+    stakeholders:
+    - person: silvio-berlusconi
+      role: member
+      from: 1978
+      to: 1981
+      note: Tessera n. 1816
+    - person: licio-gelli
+      role: founder
+      from: 1970
+      to: 1981
+      note: Venerable Master
   palantir:
     name: Palantir
     type: company
@@ -6391,6 +6758,17 @@ organizations:
       role: owner
       share: 100.0
       note: Fondo sovrano, $925B AUM
+  pinterest:
+    name: Pinterest
+    type: company
+    founded: 2010
+    headquarters: San Francisco, California, USA
+    status: active
+    sector: technology
+    stakeholders:
+    - person: frances-haugen
+      role: operative
+      note: Product manager, algorithmic systems
   politico:
     name: POLITICO
     type: media
@@ -6597,9 +6975,10 @@ organizations:
     - person: herman-kahn
       role: advisor
     - person: daniel-ellsberg
-      role: advisor
-      from: 1958
-      to: 1971
+      role: analyst
+      from: 1959
+      to: 1970
+      note: Nuclear war analyst, Vietnam study
     - person: zalmay-khalilzad
       role: advisor
     - person: jason-matheny
@@ -6857,6 +7236,125 @@ organizations:
     - person: lee-jae-yong
       role: chairman
       from: 2022
+      note: Executive Chairman Samsung Electronics
+    - person: lee-byung-chul
+      role: founder
+      from: 1938
+      to: 1987
+      note: Founded Samsung Trading Co.
+    - person: lee-kun-hee
+      role: chairman
+      from: 1987
+      to: 2020
+      note: Transformed Samsung into global tech leader
+    - person: shin-je-yoon
+      role: board
+      note: Independent Director
+    - person: yoo-myung-hee
+      role: board
+      note: Independent Director
+    - org: blackrock
+      role: institutional investor
+      share: 5.0
+      note: Largest foreign institutional shareholder
+    - org: vanguard
+      role: institutional investor
+      share: 3.4
+    - org: state-street
+      role: institutional investor
+      share: 1.5
+      note: Reduced holdings 2023
+    - org: samsung-ct
+      role: shareholder
+      share: 5.01
+    - org: samsung-life
+      role: shareholder
+      share: 8.51
+    - org: nps-korea
+      role: institutional investor
+      share: 6.5
+      note: Largest domestic institutional shareholder
+  samsung-bioepis:
+    name: Samsung Bioepis
+    type: pharma
+    founded: 2012
+    headquarters: Incheon, South Korea
+    status: active
+    sector: biosimilars
+    note: Spin-off from Samsung Biologics Nov 2025. Now under Samsung Epis Holdings
+  samsung-biologics:
+    name: Samsung Biologics Co., Ltd.
+    type: pharma
+    founded: 2011
+    headquarters: Incheon, South Korea
+    status: active
+    sector: biopharmaceutical CDMO
+    note: 'World largest CDMO. 784,000L capacity. Clients: Pfizer, Roche, GSK, Moderna, Eli Lilly. Spin-off Bioepis Nov 2025'
+    stakeholders:
+    - org: samsung
+      role: shareholder
+      share: 31.2
+    - org: samsung-ct
+      role: shareholder
+      share: 43.06
+  samsung-card:
+    name: Samsung Card Co., Ltd.
+    type: company
+    founded: 1988
+    headquarters: Seoul, South Korea
+    status: active
+    sector: credit card, financial services
+    note: Largest credit card company in Korea (2024). 72% owned by Samsung Life Insurance
+    stakeholders:
+    - org: samsung-life
+      role: shareholder
+      share: 72
+  samsung-ct:
+    name: Samsung C&T Corporation
+    type: company
+    founded: 1938
+    headquarters: Seoul, South Korea
+    status: active
+    sector: conglomerate holding
+    note: De facto holding company of Samsung Group. Trading, construction, fashion, resort divisions
+    stakeholders:
+    - person: lee-seo-hyun
+      role: executive
+      from: 2024
+      note: President
+    - org: nps-korea
+      role: institutional investor
+      share: 5.0
+      note: Voted for controversial 2015 merger
+  samsung-global-research:
+    name: Samsung Global Research
+    type: thinktank
+    founded: 1986
+    headquarters: Seoul, South Korea
+    status: active
+    note: Formerly Samsung Economic Research Institute (SERI). Largest private think tank in Korea. Affiliated with Samsung
+      Life
+    stakeholders:
+    - person: jung-ku-hyun
+      role: executive
+      from: 2003
+      note: President and CEO
+    - org: samsung-life
+      role: affiliate
+      note: Founded as affiliated center of Samsung Life 1986
+  samsung-life:
+    name: Samsung Life Insurance Co., Ltd.
+    type: company
+    founded: 1957
+    headquarters: Seoul, South Korea
+    status: active
+    sector: insurance
+    note: Largest insurer in Korea. Key node in Samsung cross-shareholding (owns 8.51% Samsung Electronics). Total assets
+      KRW 312T
+    stakeholders:
+    - org: samsung-ct
+      role: shareholder
+      share: 19.34
   sas:
     name: SAS (Scandinavian Airlines)
     type: company
@@ -6930,6 +7428,25 @@ organizations:
       from: 2015
       to: 2021
       note: Dean PSIA
+  scl-group:
+    name: SCL Group
+    type: company
+    founded: 1993
+    headquarters: London, UK
+    status: defunct
+    sector: defense, psyops
+    note: Strategic Communication Laboratories, parent of Cambridge Analytica
+    stakeholders:
+    - person: christopher-wylie
+      role: executive
+      from: 2013
+      to: 2014
+      note: Research Director
+    - person: alexander-nix
+      role: executive
+      from: 2003
+      to: 2018
+      note: Director
   seagram:
     name: Seagram
     type: company
@@ -7610,6 +8127,8 @@ organizations:
       from: 2017
       to: 2022
       note: Member while Shadow Brexit Secretary
+    - person: jung-ku-hyun
+      role: member
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -7749,6 +8268,19 @@ organizations:
       role: advisory-board
       from: 2016
       note: uber-files-scandal
+  ubs:
+    name: UBS Group AG
+    type: bank
+    founded: 1862
+    headquarters: Zurich, Switzerland
+    status: active
+    sector: banking
+    stakeholders:
+    - person: bradley-birkenfeld
+      role: operative
+      from: 2001
+      to: 2006
+      note: Private banker, wealth management Geneva
   uefa:
     name: UEFA - Union of European Football Associations
     type: agency
@@ -7792,6 +8324,28 @@ organizations:
     stakeholders:
     - org: nbcuniversal
       share: 100%
+  us-air-force:
+    name: United States Air Force
+    type: government
+    headquarters: Pentagon, USA
+    status: active
+    stakeholders:
+    - person: reality-winner
+      role: member
+      from: 2010
+      to: 2016
+      note: Cryptologic linguist, 94th Intelligence Squadron, Fort Meade
+  us-army:
+    name: United States Army
+    type: government
+    headquarters: Pentagon, USA
+    status: active
+    stakeholders:
+    - person: chelsea-manning
+      role: member
+      from: 2007
+      to: 2013
+      note: Intelligence analyst, deployed Iraq 2009
   us-cyber-command:
     name: US Cyber Command
     type: agency
@@ -8285,6 +8839,9 @@ organizations:
     - person: emilio-azcarraga-jean
       role: member
       note: WEF participant
+    - person: lee-jae-yong
+      role: member
+      note: Attended Davos 2023 with President Yoon delegation
     - person: andre-hoffmann
       role: chairman
       from: 2025
@@ -8376,6 +8933,28 @@ organizations:
       role: funder
       from: 2000
       note: 2nd largest funder after USA, ~$500M/year
+  wikileaks:
+    name: WikiLeaks
+    type: media
+    founded: 2006
+    headquarters: Online
+    status: active
+    sector: journalism
+    note: Largest disclosure of classified documents in history
+    stakeholders:
+    - person: edward-snowden
+      role: member
+      from: 2013
+      note: WikiLeaks helped with asylum, escape from Hong Kong
+    - person: julian-assange
+      role: founder
+      from: 2006
+      note: Editor-in-chief
+    - person: chelsea-manning
+      role: source
+      from: 2010
+      to: 2010
+      note: Leaked War Logs, Cablegate, Collateral Murder
   wilson-center:
     type: thinktank
     founded: 1968
