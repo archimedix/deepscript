@@ -323,6 +323,17 @@ NORMALIZZAZIONE ESTREMA DESTRA
 | **X** | Musk | No | Influenza politica diretta |
 | **TikTok** | ByteDance (Cina) | No | Ban USA in corso |
 
+### Whistleblower Big Tech
+
+| Whistleblower | Target | Anno | Rivelazione |
+|---------------|--------|------|-------------|
+| **[Frances Haugen](../docs/persons/frances-haugen.md)** | Meta | 2021 | Facebook Papers: algoritmi che amplificano contenuti dannosi, ricerche interne su danni adolescenti ignorate |
+| **[Christopher Wylie](../docs/persons/christopher-wylie.md)** | Cambridge Analytica/Facebook | 2018 | Harvesting 87M profili per manipolazione elettorale, connessione Bannon-Mercer |
+
+**Pattern**: Le piattaforme tech sono state esposte da insider che hanno documentato come la leadership fosse consapevole dei danni ma privilegiasse engagement/profitti.
+
+Vedi: [whistleblowers-power-exposed.md](whistleblowers-power-exposed.md)
+
 ---
 
 ## Implicazioni
@@ -675,10 +686,11 @@ Famiglia Ochs-Sulzberger → NYT Company → New York Times
 ---
 
 *Report creato: Dicembre 2025*
-*Ultimo aggiornamento: 10 Dicembre 2025*
+*Ultimo aggiornamento: 11 Dicembre 2025*
 
 ### Changelog
 
+- **11 Dic**: Aggiunta sezione Whistleblower Big Tech (Haugen, Wylie) con link a nuovo report [whistleblowers-power-exposed.md](whistleblowers-power-exposed.md)
 - **10 Dic (II)**: Schede complete media globali:
   - [TRT](../docs/media/trt.md): State broadcaster Turchia, 17 canali, FARA 2020
   - [Network18](../docs/media/network18.md): Reliance/Ambani 56.89%, JioStar merger 2024

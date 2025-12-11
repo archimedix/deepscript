@@ -267,6 +267,22 @@ Entrambe le agenzie sono clienti diretti, ora serviti da azienda USA-owned.
 
 ---
 
+## Contesto: Le Rivelazioni Snowden
+
+Il sistema intelligence-contractor USA che alimenta questo pipeline fu esposto da **Edward Snowden** nel 2013:
+
+| Rivelazione | Rilevanza per questo report |
+|-------------|----------------------------|
+| **PRISM** | NSA accesso diretto a server tech USA |
+| **Contractor access** | Dell, Booz Allen con clearance top secret |
+| **Five Eyes** | Condivisione dati con alleati (UK, Israel) |
+
+Snowden lavoro' come contractor NSA (via Dell e Booz Allen Hamilton) - lo stesso modello contractor che ora acquisisce spyware israeliano.
+
+Vedi: [whistleblowers-power-exposed.md](whistleblowers-power-exposed.md) | [edward-snowden](../docs/persons/edward-snowden.md)
+
+---
+
 ## Domande Aperte
 
 1. **Quali altri VC USA hanno investito in spyware israeliano?**
@@ -274,6 +290,7 @@ Entrambe le agenzie sono clienti diretti, ora serviti da azienda USA-owned.
 3. **Come cambia l'oversight dopo l'americanizzazione?**
 4. **Qual e' il ruolo di Francisco Partners (ex-owner NSO)?**
 5. **Ci sono connessioni tra AE Industrial e altri contractor IC?**
+6. **Come si relazionano le riforme post-Snowden con l'acquisizione di spyware straniero?**
 
 ---
 
@@ -291,4 +308,7 @@ Entrambe le agenzie sono clienti diretti, ora serviti da azienda USA-owned.
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: 11 Dicembre 2025*
+
+### Changelog
+- **11 Dic**: Aggiunta sezione "Contesto: Le Rivelazioni Snowden" con link a whistleblowers-power-exposed.md
