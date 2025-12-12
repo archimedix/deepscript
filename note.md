@@ -8,9 +8,13 @@
 
 
 Banche
-Gruppo energia
+Gruppo energia (petrolio)
 Casate Reali
 Brasile: lula, bolsonaro
+
+unthinkable di churchill, alan bruc, 
+
+sartre,  macussen : indipendenza degli stati 
 
 Priorità 1: Ambiti ad alta interconnessione
 

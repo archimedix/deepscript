@@ -38,6 +38,10 @@ persons:
       role: chairman
       from: 2014
       note: Non-executive Chairman. Reappointed 2024
+  adolf-eichmann:
+    born: 1906
+    died: 1962
+    nationality: DEU
   ag-sulzberger:
     born: 1980
     nationality: USA
@@ -107,6 +111,22 @@ persons:
     affiliations:
     - org: rand-corporation
       role: advisor
+  alberto-pirelli:
+    born: 1882
+    died: 1971
+    nationality: ITA
+    note: Industriale Pirelli, diplomatico economico, negoziatore riparazioni guerra
+    affiliations:
+    - org: confindustria
+      role: chairman
+      from: 1934
+      to: 1934
+      note: Breve presidenza
+    - org: pirelli
+      role: executive
+      from: 1904
+      to: 1971
+      note: Amministratore delegato Pirelli Holding
   albin-kurti:
     born: 1975
     nationality: XKX
@@ -273,6 +293,20 @@ persons:
     relations:
     - person: john-foster-dulles
       type: brother
+  alois-brunner:
+    born: 1912
+    died: 2010
+    nationality: AUT
+    affiliations:
+    - org: gehlen-organization
+      role: asset
+      from: 1945
+      to: 1954
+      note: Alleged collaboration before escape to Syria
+    relations:
+    - person: adolf-eichmann
+      type: subordinate
+      note: Braccio destro, "il mio miglior uomo"
   alvin-jiang:
     born: 1986
     nationality: CHN
@@ -338,6 +372,17 @@ persons:
     - org: redlattice
       role: board
       from: 2023
+  andrew-mellon:
+    born: 1855
+    died: 1937
+    nationality: USA
+    note: Secretary Treasury 1921-1932, banchiere, sostenitore Mussolini, fondatore Gulf Oil e Alcoa
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 1921
+      to: 1932
+      note: Secretary of Treasury sotto Harding, Coolidge, Hoover
   andrius-kubilius:
     born: 1956
     nationality: LTU
@@ -406,6 +451,21 @@ persons:
       role: executive
       from: 2024
       note: Co-CEO
+  arthur-balfour:
+    born: 1848
+    died: 1930
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1902
+      to: 1905
+      note: Prime Minister
+    - org: governo-uk
+      role: minister
+      from: 1916
+      to: 1919
+      note: Foreign Secretary
   arthur-levinson:
     born: 1950
     nationality: USA
@@ -457,6 +517,41 @@ persons:
   ben-bernanke:
     born: 1953
     nationality: USA
+  ben-gurion:
+    born: 1886
+    died: 1973
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: leader
+      from: 1948
+      to: 1963
+      note: Prime Minister (1948-53, 1955-63), Defense Minister
+    - org: idf
+      role: founder
+      from: 1948
+      to: 1963
+      note: Creatore IDF da Haganah, Irgun, Lehi
+    - org: jewish-agency
+      role: chairman
+      from: 1935
+      to: 1948
+      note: Chairman Jewish Agency Executive
+    - org: mapai
+      role: founder
+      from: 1930
+      to: 1968
+      note: Leader del partito
+    - org: world-zionist-organization
+      role: chairman
+      from: 1946
+      to: 1956
+      note: Executive Head WZO
+    - org: histadrut
+      role: executive
+      from: 1921
+      to: 1935
+      note: Secretary-General
   beniamino-andreatta:
     born: 1928
     died: 2007
@@ -466,6 +561,27 @@ persons:
       role: minister
       from: 1992
       to: 1993
+  benito-mussolini:
+    born: 1883
+    died: 1945
+    nationality: ITA
+    note: Duce fascismo italiano, agente MI5 1917-1918
+    affiliations:
+    - org: governo-italia
+      role: leader
+      from: 1922
+      to: 1943
+      note: Primo Ministro 1922-1925, Duce 1925-1943
+    - org: mi5
+      role: agent
+      from: 1917
+      to: 1918
+      note: Pagato 100 sterline/settimana per propaganda pro-guerra
+    - org: il-popolo-d-italia
+      role: founder
+      from: 1914
+      to: 1943
+      note: Fondatore e direttore fino 1922, poi controllo indiretto
   benjamin-graham:
     born: 1894
     died: 1976
@@ -743,6 +859,26 @@ persons:
     - org: tsmc
       role: executive
       from: 2018
+  chaim-weizmann:
+    born: 1874
+    died: 1952
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: leader
+      from: 1949
+      to: 1952
+      note: First President of Israel
+    - org: jewish-agency
+      role: founder
+      from: 1929
+      to: 1948
+      note: Fondatore e primo presidente
+    - org: world-zionist-organization
+      role: chairman
+      from: 1920
+      to: 1946
+      note: President WZO (con interruzioni)
   charles-iii:
     born: 1948
     nationality: GBR
@@ -1057,6 +1193,21 @@ persons:
     - person: katharine-gun
       type: contemporary
       note: Both exposed aspects of Iraq war justification 2003
+  david-lloyd-george:
+    born: 1863
+    died: 1945
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1916
+      to: 1922
+      note: Prime Minister, War Cabinet
+    - org: governo-uk
+      role: minister
+      from: 1908
+      to: 1915
+      note: Chancellor of the Exchequer
   david-petraeus:
     born: 1952
     nationality: USA
@@ -1478,6 +1629,37 @@ persons:
     - org: warburg-pincus
       role: founder
       from: 1966
+  ettore-conti:
+    born: 1871
+    died: 1972
+    nationality: ITA
+    note: Industriale elettrico, presidente Confindustria, AGIP, Banca Commerciale
+    affiliations:
+    - org: governo-italia
+      role: legislator
+      from: 1919
+      to: 1945
+      note: Senatore del Regno, Sottosegretario Tesoro 1918-1919
+    - org: confindustria
+      role: chairman
+      from: 1920
+      to: 1922
+      note: Presidente
+    - org: edison
+      role: executive
+      from: 1895
+      to: 1926
+      note: Direzione tecnico-amministrativa
+    - org: banca-commerciale-italiana
+      role: chairman
+      from: 1930
+      to: 1945
+      note: Presidente per 15 anni
+    - org: agip
+      role: chairman
+      from: 1926
+      to: 1928
+      note: Primo presidente, nominato da Mussolini
   eugene-black:
     born: 1898
     died: 1992
@@ -1586,6 +1768,27 @@ persons:
     - org: porsche-ag
       role: founder
       from: 1931
+  filippo-filippelli:
+    born: 1890
+    nationality: ITA
+    affiliations:
+    - org: il-popolo-d-italia
+      role: journalist
+      from: 1920
+      note: Segretario Arnaldo Mussolini
+    - org: siap
+      role: intermediary
+      from: 1924
+      note: Ricevette tangente 1M lire
+    - org: corriere-italiano
+      role: executive
+      from: 1923
+      to: 1924
+      note: Direttore e AD
+    relations:
+    - person: benito-mussolini
+      type: associate
+      note: Segretario fratello Arnaldo, accusò Mussolini come mandante Matteotti
   frances-haugen:
     born: 1983
     nationality: USA
@@ -1789,6 +1992,22 @@ persons:
       role: president
       from: 1989
       to: 1993
+  george-orwell:
+    born: 1903
+    died: 1950
+    nationality: GBR
+    note: Scrittore, autore 1984 e Animal Farm, informatore IRD 1949
+    affiliations:
+    - org: bbc
+      role: member
+      from: 1941
+      to: 1943
+      note: Produttore Eastern Service, propaganda anti-nazista
+    - org: ird
+      role: advisor
+      from: 1949
+      to: 1949
+      note: Forni lista 38 nomi crypto-comunisti
   george-p-bush:
     born: 1976
     nationality: USA
@@ -1873,6 +2092,23 @@ persons:
       role: board
       from: 2022
       note: Owner, Board member
+  giacomo-matteotti:
+    born: 1885
+    died: 1924
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: legislator
+      from: 1919
+      to: 1924
+      note: Deputato Camera
+    relations:
+    - person: benito-mussolini
+      type: victim
+      note: Assassinato da squadristi fascisti
+    - person: filippo-filippelli
+      type: victim
+      note: Filippelli forni auto per sequestro
   gianni-agnelli:
     born: 1921
     died: 2003
@@ -2198,6 +2434,26 @@ persons:
       role: executive
       from: 2018
       to: 2022
+  herbert-samuel:
+    born: 1870
+    died: 1963
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 1909
+      to: 1916
+      note: First Jewish Cabinet minister; Postmaster General
+    - org: governo-uk
+      role: executive
+      from: 1920
+      to: 1925
+      note: High Commissioner Palestine
+    - org: governo-uk
+      role: minister
+      from: 1931
+      to: 1932
+      note: Home Secretary
   herman-kahn:
     born: 1922
     died: 1983
@@ -2324,6 +2580,19 @@ persons:
       from: 1925
       to: 1925
       note: Founded O Globo newspaper
+  isaac-herzog:
+    born: 1960
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: leader
+      from: 2021
+      note: 11th President of Israel
+    - org: jewish-agency
+      role: chairman
+      from: 2018
+      to: 2021
+      note: Chairman of the Executive
   isaiah-kenen:
     born: 1905
     died: 1988
@@ -2337,6 +2606,33 @@ persons:
       role: executive
       from: 1954
       to: 1974
+  isser-harel:
+    born: 1912
+    died: 2003
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: executive
+      from: 1952
+      to: 1963
+      note: Direttore (Memuneh)
+    - org: governo-israele
+      role: legislator
+      from: 1969
+      to: 1973
+      note: Membro Knesset
+    - org: shin-bet
+      role: executive
+      from: 1948
+      to: 1952
+      note: Fondatore e primo direttore
+    relations:
+    - person: adolf-eichmann
+      type: captor
+      note: Diresse cattura a Buenos Aires
+    - person: otto-skorzeny
+      type: handler
+      note: Recluto Skorzeny per Mossad
   ivanka-trump:
     born: 1981
     nationality: USA
@@ -3182,6 +3478,20 @@ persons:
       role: executive
       from: 2024
       note: Alto Rappresentante Affari Esteri
+  karl-wolff:
+    born: 1900
+    died: 1984
+    nationality: DEU
+    affiliations:
+    - org: oss
+      role: asset
+      from: 1945
+      to: 1945
+      note: Operation Sunrise negotiator, traded surrender for immunity
+    relations:
+    - person: allen-dulles
+      type: negotiator
+      note: Operation Sunrise - secret surrender Italy
   katharine-gun:
     born: 1974
     nationality: GBR
@@ -3318,6 +3628,30 @@ persons:
       role: leader
       from: 2025
       note: President (first woman, first African)
+  klaus-barbie:
+    born: 1913
+    died: 1991
+    nationality: DEU
+    affiliations:
+    - org: cia
+      role: asset
+      from: 1947
+      to: 1980
+      note: CIC then CIA asset, Bolivia operations
+    - org: bnd
+      role: asset
+      from: 1966
+      to: 1970
+      note: BND agent in Bolivia
+    - org: gehlen-organization
+      role: asset
+      from: 1947
+      to: 1951
+      note: Agent in Gehlen Org before Bolivia escape
+    relations:
+    - person: reinhard-gehlen
+      type: colleague
+      note: Agent in Gehlen Organization
   klaus-schwab:
     born: 1938
     nationality: DEU
@@ -3932,6 +4266,16 @@ persons:
       role: commissioner
       from: 1995
       to: 2004
+  mario-perrone:
+    died: 1968
+    nationality: ITA
+    note: Industriale Ansaldo, fratello di Pio
+    affiliations:
+    - org: ansaldo
+      role: executive
+      from: 1908
+      to: 1921
+      note: Co-proprietario con fratello Pio
   mark-boris-andrijanic:
     born: 1985
     nationality: SVN
@@ -4363,7 +4707,7 @@ persons:
   nahum-goldmann:
     born: 1895
     died: 1982
-    nationality: USA
+    nationality: ISR
     affiliations:
     - org: world-jewish-congress
       role: founder
@@ -4372,6 +4716,26 @@ persons:
       role: executive
       from: 1949
       to: 1977
+    - org: world-zionist-organization
+      role: chairman
+      from: 1956
+      to: 1968
+      note: President WZO
+  nahum-sokolow:
+    born: 1859
+    died: 1936
+    nationality: POL
+    affiliations:
+    - org: world-zionist-organization
+      role: board
+      from: 1911
+      to: 1936
+      note: Zionist Executive member
+    - org: world-zionist-organization
+      role: chairman
+      from: 1931
+      to: 1935
+      note: President WZO
   nasser-al-khelaifi:
     born: 1973
     nationality: QAT
@@ -4404,6 +4768,15 @@ persons:
     born: 1971
     nationality: UK
     family: rothschild
+  natan-sharansky:
+    born: 1948
+    nationality: ISR
+    affiliations:
+    - org: jewish-agency
+      role: chairman
+      from: 2009
+      to: 2018
+      note: Chairman of the Executive
   nathan-mayer-rothschild:
     born: 1777
     died: 1836
@@ -4594,6 +4967,25 @@ persons:
     - org: nso-group
       role: founder
       from: 2010
+  otto-skorzeny:
+    born: 1908
+    died: 1975
+    nationality: AUT
+    affiliations:
+    - org: cia
+      role: asset
+      from: 1948
+      to: 1960
+      note: Aided escape, used via Gehlen network
+    - org: mossad
+      role: asset
+      from: 1962
+      to: 1975
+      note: Recruited to target German scientists in Egypt
+    relations:
+    - person: reinhard-gehlen
+      type: colleague
+      note: Gehlen sent Skorzeny to Egypt
   ozlem-tureci:
     born: 1967
     nationality: DEU
@@ -4772,6 +5164,14 @@ persons:
     affiliations:
     - org: fii-saudi
       role: board
+  peter-martland:
+    nationality: GBR
+    note: Storico intelligence britannica, co-fondatore Cambridge Intelligence Seminar
+    affiliations:
+    - org: cambridge-university
+      role: academic
+      from: 1982
+      note: Fellow Corpus Christi College, co-fondatore Cambridge Intelligence Seminar
   peter-peterson:
     born: 1926
     died: 2018
@@ -4908,6 +5308,17 @@ persons:
     died: 1817
     nationality: Francia/USA
     family: dupont
+  pio-perrone:
+    born: 1875
+    died: 1952
+    nationality: ITA
+    note: Industriale Ansaldo, finanziatore Mussolini
+    affiliations:
+    - org: ansaldo
+      role: executive
+      from: 1908
+      to: 1921
+      note: Co-proprietario con fratello Mario
   prannoy-roy:
     born: 1949
     nationality: IND
@@ -5091,6 +5502,30 @@ persons:
       role: partner
       from: 2009
       note: General Partner
+  reinhard-gehlen:
+    born: 1902
+    died: 1979
+    nationality: DEU
+    affiliations:
+    - org: cia
+      role: asset
+      from: 1946
+      to: 1956
+      note: Gehlen Org funded and controlled by CIA
+    - org: bnd
+      role: executive
+      from: 1956
+      to: 1968
+      note: First President BND
+    - org: gehlen-organization
+      role: founder
+      from: 1946
+      to: 1956
+      note: Director, created under US Army/CIA control
+    relations:
+    - person: allen-dulles
+      type: handler
+      note: Dulles authorized Gehlen Org creation
   reinhard-mohn:
     born: 1921
     died: 2009
@@ -5441,6 +5876,26 @@ persons:
     - org: walmart
       role: founder
       from: 1962
+  samuel-hoare:
+    born: 1880
+    died: 1959
+    nationality: GBR
+    note: Capo MI5 Roma 1917, Foreign Secretary, firmatario Hoare-Laval Pact
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 1922
+      to: 1940
+      note: Air Secretary, Foreign Secretary (1935), Home Secretary (1937-1939)
+    - org: mi5
+      role: executive
+      from: 1917
+      to: 1918
+      note: Capo stazione Roma, 100 agenti
+    relations:
+    - person: benito-mussolini
+      type: handler
+      note: Autorizzò pagamenti MI5 a Mussolini
   samuel-prescott-bush:
     born: 1863
     died: 1948
@@ -5873,6 +6328,16 @@ persons:
       role: executive
       from: 2017
       note: Director-General
+  theodor-herzl:
+    born: 1860
+    died: 1904
+    nationality: AUT
+    affiliations:
+    - org: world-zionist-organization
+      role: founder
+      from: 1897
+      to: 1904
+      note: Fondatore e primo presidente
   thomas-bach:
     born: 1953
     nationality: DEU
@@ -5928,6 +6393,22 @@ persons:
       role: board
       from: 2007
       note: Lead Director
+  thomas-lamont:
+    born: 1870
+    died: 1948
+    nationality: USA
+    note: Partner/Chairman J.P. Morgan, missionario del fascismo, prestito 100M$ a Mussolini 1926
+    affiliations:
+    - org: cfr
+      role: member
+      from: 1921
+      to: 1948
+      note: Membro fondatore, advisor Wilson/Hoover/FDR
+    - org: jpmorgan
+      role: chairman
+      from: 1911
+      to: 1948
+      note: Partner 1911, Chairman 1943-1948
   thomas-rabe:
     born: 1965
     nationality: DEU
@@ -6157,6 +6638,27 @@ persons:
       role: executive
       from: 1958
       to: 1967
+  walter-rauff:
+    born: 1906
+    died: 1984
+    nationality: DEU
+    affiliations:
+    - org: bnd
+      role: asset
+      from: 1958
+      to: 1962
+      note: Agent in Chile, paid 70,000 DM, dismissed as untrustworthy
+  walter-rothschild:
+    born: 1868
+    died: 1937
+    nationality: GBR
+    family: rothschild
+    affiliations:
+    - org: governo-uk
+      role: legislator
+      from: 1899
+      to: 1910
+      note: MP Aylesbury, Liberal Unionist
   wang-chuanfu:
     born: 1966
     nationality: CHN
@@ -6390,6 +6892,21 @@ persons:
       from: 2022
       to: 2024
       note: President. Impeached Dec 2024
+  yosef-raanan:
+    born: 1922
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: executive
+      from: 1957
+      note: Capo operazioni Germania, handler Skorzeny
+    relations:
+    - person: isser-harel
+      type: subordinate
+      note: Reclutato da Harel per Mossad
+    - person: otto-skorzeny
+      type: handler
+      note: Handler principale, presente al funerale
   yossi-cohen:
     born: 1961
     nationality: ISR

@@ -145,6 +145,20 @@ organizations:
       role: anchor investor
       from: 2022
       note: $2B commitment
+  agip:
+    name: AGIP - Azienda Generale Italiana Petroli
+    type: company
+    founded: 1926
+    headquarters: Roma, Italia
+    status: defunct
+    sector: petrolio
+    note: Fusa in ENI
+    stakeholders:
+    - person: ettore-conti
+      role: chairman
+      from: 1926
+      to: 1928
+      note: Primo presidente, nominato da Mussolini
   aipac:
     name: American Israel Public Affairs Committee
     type: thinktank
@@ -201,6 +215,13 @@ organizations:
       share: ~90%
       from: 1996
       note: Funding ~90%, Emir nomina board
+  alcoa:
+    name: Alcoa - Aluminum Company of America
+    type: company
+    founded: 1888
+    headquarters: Pittsburgh, USA
+    status: active
+    sector: alluminio
   allen-company:
     name: Allen & Company
     type: bank
@@ -353,6 +374,25 @@ organizations:
     founded: 1945
     headquarters: Roma
     status: active
+  ansaldo:
+    name: Ansaldo
+    type: company
+    founded: 1853
+    headquarters: Genova, Italia
+    status: active
+    sector: industria pesante, difesa
+    note: Finanziatore interventismo e fascismo nascente
+    stakeholders:
+    - person: pio-perrone
+      role: executive
+      from: 1908
+      to: 1921
+      note: Co-proprietario con fratello Mario
+    - person: mario-perrone
+      role: executive
+      from: 1908
+      to: 1921
+      note: Co-proprietario con fratello Pio
   apollo-global:
     name: Apollo Global Management
     type: privateequity
@@ -652,6 +692,19 @@ organizations:
       role: partner
       from: 1984
       note: Founding partner, Co-Chairman 2016-2023
+  banca-commerciale-italiana:
+    name: Banca Commerciale Italiana
+    type: bank
+    founded: 1894
+    headquarters: Milano, Italia
+    status: defunct
+    note: Fusa in Intesa Sanpaolo
+    stakeholders:
+    - person: ettore-conti
+      role: chairman
+      from: 1930
+      to: 1945
+      note: Presidente per 15 anni
   banca-italia:
     name: Banca d'Italia
     type: centralbank
@@ -807,6 +860,12 @@ organizations:
     status: active
     sector: public broadcaster
     note: publicly owned, licence fee funded
+    stakeholders:
+    - person: george-orwell
+      role: member
+      from: 1941
+      to: 1943
+      note: Produttore Eastern Service, propaganda anti-nazista
   bce:
     name: Banca Centrale Europea
     type: centralbank
@@ -1289,6 +1348,28 @@ organizations:
       from: 2015
       to: 2025
       note: Chairman Supervisory Board (CEO 2006-2015)
+  bnd:
+    name: Bundesnachrichtendienst
+    type: agency
+    founded: 1956
+    headquarters: Berlin, Germany
+    status: active
+    stakeholders:
+    - person: reinhard-gehlen
+      role: executive
+      from: 1956
+      to: 1968
+      note: First President BND
+    - person: klaus-barbie
+      role: asset
+      from: 1966
+      to: 1970
+      note: BND agent in Bolivia
+    - person: walter-rauff
+      role: asset
+      from: 1958
+      to: 1962
+      note: Agent in Chile, paid 70,000 DM, dismissed as untrustworthy
   bollore-group:
     name: Bollore Group
     type: company
@@ -1578,6 +1659,17 @@ organizations:
     - org: scl-group
       role: parent
       from: 2013
+  cambridge-university:
+    name: University of Cambridge
+    type: university
+    founded: 1209
+    headquarters: Cambridge, UK
+    status: active
+    stakeholders:
+    - person: peter-martland
+      role: academic
+      from: 1982
+      note: Fellow Corpus Christi College, co-fondatore Cambridge Intelligence Seminar
   canal-plus:
     name: Canal+
     type: media
@@ -1803,6 +1895,11 @@ organizations:
       role: member
     - person: thomas-glocer
       role: member
+    - person: thomas-lamont
+      role: member
+      from: 1921
+      to: 1948
+      note: Membro fondatore, advisor Wilson/Hoover/FDR
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -2042,6 +2139,21 @@ organizations:
       from: 1947
       to: 1953
       note: Recruiter Yale, aiuto organizzazione CIA
+    - person: reinhard-gehlen
+      role: asset
+      from: 1946
+      to: 1956
+      note: Gehlen Org funded and controlled by CIA
+    - person: klaus-barbie
+      role: asset
+      from: 1947
+      to: 1980
+      note: CIC then CIA asset, Bolivia operations
+    - person: otto-skorzeny
+      role: asset
+      from: 1948
+      to: 1960
+      note: Aided escape, used via Gehlen network
     - org: oss
       role: predecessor
       from: 1942
@@ -2371,6 +2483,17 @@ organizations:
     headquarters: Roma, Italia
     status: active
     sector: business association
+    stakeholders:
+    - person: ettore-conti
+      role: chairman
+      from: 1920
+      to: 1922
+      note: Presidente
+    - person: alberto-pirelli
+      role: chairman
+      from: 1934
+      to: 1934
+      note: Breve presidenza
   corriere-della-sera:
     name: Corriere della Sera
     type: media
@@ -2381,6 +2504,18 @@ organizations:
     stakeholders:
     - org: rcs-mediagroup
       share: 100%
+  corriere-italiano:
+    name: Corriere Italiano
+    type: media
+    founded: 1923
+    headquarters: Roma
+    status: defunct
+    stakeholders:
+    - person: filippo-filippelli
+      role: executive
+      from: 1923
+      to: 1924
+      note: Direttore e AD
   credit-suisse:
     name: Credit Suisse
     type: bank
@@ -2614,6 +2749,19 @@ organizations:
     founded: 1951
     headquarters: Luxembourg
     status: defunct
+  edison:
+    name: Edison
+    type: company
+    founded: 1884
+    headquarters: Milano, Italia
+    status: active
+    sector: energia
+    stakeholders:
+    - person: ettore-conti
+      role: executive
+      from: 1895
+      to: 1926
+      note: Direzione tecnico-amministrativa
   eib:
     name: European Investment Bank
     type: bank
@@ -3404,6 +3552,28 @@ organizations:
     - person: li-shufu
       role: founder-chairman
       from: 1986
+  gehlen-organization:
+    name: Gehlen Organization
+    type: agency
+    founded: 1946
+    headquarters: Pullach, Germany
+    status: defunct
+    stakeholders:
+    - person: reinhard-gehlen
+      role: founder
+      from: 1946
+      to: 1956
+      note: Director, created under US Army/CIA control
+    - person: klaus-barbie
+      role: asset
+      from: 1947
+      to: 1951
+      note: Agent in Gehlen Org before Bolivia escape
+    - person: alois-brunner
+      role: asset
+      from: 1945
+      to: 1954
+      note: Alleged collaboration before escape to Syria
   gic:
     name: Government of Singapore Investment Corporation
     type: swf
@@ -3822,6 +3992,25 @@ organizations:
       from: 2020
       to: 2022
       note: Defense Minister, War Cabinet
+    - person: isser-harel
+      role: legislator
+      from: 1969
+      to: 1973
+      note: Membro Knesset
+    - person: ben-gurion
+      role: leader
+      from: 1948
+      to: 1963
+      note: Prime Minister (1948-53, 1955-63), Defense Minister
+    - person: chaim-weizmann
+      role: leader
+      from: 1949
+      to: 1952
+      note: First President of Israel
+    - person: isaac-herzog
+      role: leader
+      from: 2021
+      note: 11th President of Israel
   governo-italia:
     name: Governo Italia
     type: government
@@ -3899,6 +4088,21 @@ organizations:
       from: 1945
       to: 1953
       note: Prime Minister (8 governi)
+    - person: benito-mussolini
+      role: leader
+      from: 1922
+      to: 1943
+      note: Primo Ministro 1922-1925, Duce 1925-1943
+    - person: ettore-conti
+      role: legislator
+      from: 1919
+      to: 1945
+      note: Senatore del Regno, Sottosegretario Tesoro 1918-1919
+    - person: giacomo-matteotti
+      role: legislator
+      from: 1919
+      to: 1924
+      note: Deputato Camera
   governo-kosovo:
     name: Governo Kosovo
     type: government
@@ -4224,6 +4428,51 @@ organizations:
       from: 1984
       to: 2003
       note: MoD advisor, Defence Intelligence Staff, Porton Down
+    - person: samuel-hoare
+      role: minister
+      from: 1922
+      to: 1940
+      note: Air Secretary, Foreign Secretary (1935), Home Secretary (1937-1939)
+    - person: walter-rothschild
+      role: legislator
+      from: 1899
+      to: 1910
+      note: MP Aylesbury, Liberal Unionist
+    - person: arthur-balfour
+      role: leader
+      from: 1902
+      to: 1905
+      note: Prime Minister
+    - person: arthur-balfour
+      role: minister
+      from: 1916
+      to: 1919
+      note: Foreign Secretary
+    - person: herbert-samuel
+      role: minister
+      from: 1909
+      to: 1916
+      note: First Jewish Cabinet minister; Postmaster General
+    - person: herbert-samuel
+      role: executive
+      from: 1920
+      to: 1925
+      note: High Commissioner Palestine
+    - person: herbert-samuel
+      role: minister
+      from: 1931
+      to: 1932
+      note: Home Secretary
+    - person: david-lloyd-george
+      role: leader
+      from: 1916
+      to: 1922
+      note: Prime Minister, War Cabinet
+    - person: david-lloyd-george
+      role: minister
+      from: 1908
+      to: 1915
+      note: Chancellor of the Exchequer
   governo-urss:
     name: Governo URSS
     type: government
@@ -4400,6 +4649,11 @@ organizations:
       from: 1993
       to: 1994
       note: White House Chief of Staff
+    - person: andrew-mellon
+      role: minister
+      from: 1921
+      to: 1932
+      note: Secretary of Treasury sotto Harding, Coolidge, Hoover
   greensill:
     type: company
     founded: 2011
@@ -4539,6 +4793,14 @@ organizations:
     - org: battery-ventures
       role: investor
       note: 'Exit: Akamai acquisition'
+  gulf-oil:
+    name: Gulf Oil
+    type: company
+    founded: 1901
+    headquarters: Pittsburgh, USA
+    status: defunct
+    sector: petrolio
+    note: Fusa in Chevron 1985
   hakluyt:
     name: Hakluyt & Company
     type: company
@@ -4627,6 +4889,17 @@ organizations:
     - person: richard-dearlove
       role: member
       note: Signatory Statement of Principles
+  histadrut:
+    type: agency
+    founded: 1920
+    headquarters: Tel Aviv
+    status: active
+    stakeholders:
+    - person: ben-gurion
+      role: executive
+      from: 1921
+      to: 1935
+      note: Secretary-General
   hotel-shilla:
     name: Hotel Shilla
     type: company
@@ -4722,7 +4995,8 @@ organizations:
     name: Israel Defense Forces
     type: agency
     founded: 1948
-    headquarters: Israel
+    headquarters: Tel Aviv
+    status: active
     sector: military
     note: Tsahal, include Unit 8200, Aman, Mossad alumni pipeline
     stakeholders:
@@ -4743,6 +5017,11 @@ organizations:
       from: 1977
       to: 2015
       note: Chief of Staff 2011-15
+    - person: ben-gurion
+      role: founder
+      from: 1948
+      to: 1963
+      note: Creatore IDF da Haganah, Irgun, Lehi
   ig-farben:
     name: IG Farben
     type: company
@@ -4797,6 +5076,33 @@ organizations:
     stakeholders:
     - person: franco-caltagirone
       role: owner
+  il-popolo-d-italia:
+    name: Il Popolo d'Italia
+    type: media
+    founded: 1914
+    headquarters: Milano, Italia
+    status: defunct
+    note: Giornale fascista fondato da Mussolini, chiuso 1943
+    stakeholders:
+    - person: benito-mussolini
+      role: founder
+      from: 1914
+      to: 1943
+      note: Fondatore e direttore fino 1922, poi controllo indiretto
+    - person: filippo-filippelli
+      role: journalist
+      from: 1920
+      note: Segretario Arnaldo Mussolini
+    - org: mi5
+      role: funder
+      from: 1917
+      to: 1918
+      note: 100 sterline/settimana tramite Samuel Hoare
+    - org: ansaldo
+      role: funder
+      from: 1914
+      to: 1918
+      note: Finanziamento tramite fratelli Perrone, 200.000 lire via Banca di Sconto
   il-sole-24-ore:
     name: Il Sole 24 Ore
     type: media
@@ -4876,6 +5182,19 @@ organizations:
       role: leader
       from: 2025
       note: President (first woman, first African)
+  ird:
+    name: Information Research Department
+    type: agency
+    founded: 1948
+    headquarters: London, UK
+    status: defunct
+    note: Propaganda anti-comunista Foreign Office, attivo 1948-1977
+    stakeholders:
+    - person: george-orwell
+      role: advisor
+      from: 1949
+      to: 1949
+      note: Forni lista 38 nomi crypto-comunisti
   iri:
     name: IRI (Istituto Ricostruzione Industriale)
     type: company
@@ -4930,6 +5249,38 @@ organizations:
       share: 100%
       from: 2008
       note: $2.3B from Ford
+  jewish-agency:
+    name: Jewish Agency for Israel
+    type: agency
+    founded: 1929
+    headquarters: Jerusalem
+    status: active
+    note: Ha-Sokhnut ha-Yehudit le-Eretz Yisrael. Braccio operativo WZO, immigrazione ebraica
+    stakeholders:
+    - person: ben-gurion
+      role: chairman
+      from: 1935
+      to: 1948
+      note: Chairman Jewish Agency Executive
+    - person: chaim-weizmann
+      role: founder
+      from: 1929
+      to: 1948
+      note: Fondatore e primo presidente
+    - person: natan-sharansky
+      role: chairman
+      from: 2009
+      to: 2018
+      note: Chairman of the Executive
+    - person: isaac-herzog
+      role: chairman
+      from: 2018
+      to: 2021
+      note: Chairman of the Executive
+    - org: world-zionist-organization
+      role: parent
+      from: 1929
+      note: Jewish Agency braccio operativo WZO
   jfrog:
     type: company
     founded: 2008
@@ -5000,6 +5351,11 @@ organizations:
       role: executive
       from: 1980
       to: 1991
+    - person: thomas-lamont
+      role: chairman
+      from: 1911
+      to: 1948
+      note: Partner 1911, Chairman 1943-1948
   jpmorgan-chase:
     name: JPMorgan Chase
     type: bank
@@ -5450,6 +5806,16 @@ organizations:
       share: 99.93%
       from: 2008
       note: Flagship club
+  mapai:
+    type: company
+    founded: 1930
+    status: dissolved
+    stakeholders:
+    - person: ben-gurion
+      role: founder
+      from: 1930
+      to: 1968
+      note: Leader del partito
   marvel-studios:
     name: Marvel Studios
     type: media
@@ -5532,6 +5898,13 @@ organizations:
       share: 100
       from: 2014
       note: Acquired for $12M in 2014, 100% from 2015
+  mellon-bank:
+    name: Mellon National Bank
+    type: bank
+    founded: 1869
+    headquarters: Pittsburgh, USA
+    status: defunct
+    note: Fusa in BNY Mellon
   mercedes-benz:
     name: Mercedes-Benz Group AG
     type: automaker
@@ -5644,6 +6017,23 @@ organizations:
     - org: adia
       role: investor
       note: Abu Dhabi SWF ecosystem
+  mi5:
+    name: Security Service (MI5)
+    type: agency
+    founded: 1909
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: benito-mussolini
+      role: agent
+      from: 1917
+      to: 1918
+      note: Pagato 100 sterline/settimana per propaganda pro-guerra
+    - person: samuel-hoare
+      role: executive
+      from: 1917
+      to: 1918
+      note: Capo stazione Roma, 100 agenti
   mi6:
     name: Secret Intelligence Service (MI6)
     type: agency
@@ -5838,6 +6228,20 @@ organizations:
     - person: ram-ben-barak
       role: executive
       note: Deputy Director
+    - person: otto-skorzeny
+      role: asset
+      from: 1962
+      to: 1975
+      note: Recruited to target German scientists in Egypt
+    - person: isser-harel
+      role: executive
+      from: 1952
+      to: 1963
+      note: Direttore (Memuneh)
+    - person: yosef-raanan
+      role: executive
+      from: 1957
+      note: Capo operazioni Germania, handler Skorzeny
     - org: cia
       role: partner
       from: 1951
@@ -6568,6 +6972,11 @@ organizations:
       from: 1942
       to: 1945
       note: Co-fondatore X-2 counterintelligence branch
+    - person: karl-wolff
+      role: asset
+      from: 1945
+      to: 1945
+      note: Operation Sunrise negotiator, traded surrender for immunity
   p2:
     name: Propaganda Due (P2)
     type: forum
@@ -6769,6 +7178,19 @@ organizations:
     - person: frances-haugen
       role: operative
       note: Product manager, algorithmic systems
+  pirelli:
+    name: Pirelli
+    type: company
+    founded: 1872
+    headquarters: Milano, Italia
+    status: active
+    sector: pneumatici, cavi
+    stakeholders:
+    - person: alberto-pirelli
+      role: executive
+      from: 1904
+      to: 1971
+      note: Amministratore delegato Pirelli Holding
   politico:
     name: POLITICO
     type: media
@@ -7502,6 +7924,35 @@ organizations:
       to: 1987
     - org: kissinger-associates
       role: partner
+  shin-bet:
+    name: Shin Bet (Shabak)
+    type: agency
+    founded: 1948
+    headquarters: Tel Aviv, Israel
+    status: active
+    stakeholders:
+    - person: isser-harel
+      role: executive
+      from: 1948
+      to: 1952
+      note: Fondatore e primo direttore
+  siap:
+    name: SIAP - Società Italo Americana pel Petrolio
+    type: company
+    founded: 1891
+    headquarters: Venezia, Italia
+    status: defunct
+    sector: petrolio
+    note: Filiale Standard Oil in Italia, poi Esso Italiana
+    stakeholders:
+    - person: filippo-filippelli
+      role: intermediary
+      from: 1924
+      note: Ricevette tangente 1M lire
+    - org: standard-oil
+      role: owner
+      from: 1891
+      note: Filiale italiana Standard Oil
   silver-lake:
     name: Silver Lake
     type: privateequity
@@ -9005,6 +9456,44 @@ organizations:
     - person: ronald-lauder
       role: executive
       from: 2008
+  world-zionist-organization:
+    name: World Zionist Organization
+    type: agency
+    founded: 1897
+    headquarters: Jerusalem
+    status: active
+    note: Ha-Histadrut ha-Tzionit ha-Olamit. Fondata da Herzl 1897 Basel
+    stakeholders:
+    - person: nahum-goldmann
+      role: chairman
+      from: 1956
+      to: 1968
+      note: President WZO
+    - person: ben-gurion
+      role: chairman
+      from: 1946
+      to: 1956
+      note: Executive Head WZO
+    - person: chaim-weizmann
+      role: chairman
+      from: 1920
+      to: 1946
+      note: President WZO (con interruzioni)
+    - person: theodor-herzl
+      role: founder
+      from: 1897
+      to: 1904
+      note: Fondatore e primo presidente
+    - person: nahum-sokolow
+      role: board
+      from: 1911
+      to: 1936
+      note: Zionist Executive member
+    - person: nahum-sokolow
+      role: chairman
+      from: 1931
+      to: 1935
+      note: President WZO
   wto:
     name: World Trade Organization
     type: agency

@@ -62,10 +62,11 @@ Report che analizzano forum transnazionali, reti di coordinamento elite.
 
 ## Italia
 
-Report e eventi specifici sulla storia italiana post-1945.
+Report e eventi specifici sulla storia italiana.
 
 | Report | Periodo | Focus |
 |--------|---------|-------|
+| [Nascita del Fascismo](fascismo-nascita-finanziamento.md) | 1914-1926 | Finanziatori: industriali, MI5, Wall Street |
 | [Italy Cold War Theater](italy-cold-war-theater.md) | 1943-1990 | OSS, Gladio, P2, stragi |
 
 **Eventi italiani:**
@@ -112,12 +113,27 @@ Report che analizzano specifici settori economici.
 
 ---
 
+## Movimenti Politici
+
+Report che analizzano la costruzione di movimenti politici e stati.
+
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Sionismo: Da Movimento a Stato](zionism-state-building.md) | 1897-1948 | Herzl, Balfour, Ben-Gurion |
+| [Nascita del Fascismo](fascismo-nascita-finanziamento.md) | 1914-1926 | Finanziatori internazionali |
+
+**Eventi correlati:**
+- [Dichiarazione Balfour (1917)](../docs/events/1917-balfour-declaration.md)
+
+---
+
 ## Geografie
 
 Report focalizzati su specifiche aree geografiche.
 
 | Report | Area | Focus |
 |--------|------|-------|
+| [Zionism State-Building](zionism-state-building.md) | Israele/UK | 1897-1948 |
 | [Italy Cold War Theater](italy-cold-war-theater.md) | Italia | 1943-1990 |
 | [Korea Power Map](korea-power-map.md) | Corea Sud | Chaebol, stato |
 | [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | Golfo/USA | Investimenti AI |
@@ -128,6 +144,7 @@ Report focalizzati su specifiche aree geografiche.
 
 ### Report Storici
 Analisi di ere/periodi specifici:
+- [Nascita del Fascismo](fascismo-nascita-finanziamento.md)
 - [Cold War Intelligence Origins](cold-war-intelligence-origins.md)
 - [Italy Cold War Theater](italy-cold-war-theater.md)
 - [Nazi Recruitment Cold War](nazi-recruitment-cold-war.md)
@@ -155,9 +172,9 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 17 |
-| **Eventi documentati** | 27 |
-| **Periodo coperto** | 1910-2025 |
+| **Report totali** | 19 |
+| **Eventi documentati** | 28 |
+| **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |
 
 ---

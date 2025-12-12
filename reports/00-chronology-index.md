@@ -6,6 +6,40 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 ---
 
+## 1890s-1910s: Origini
+
+### Eventi
+
+| Anno | Evento | Link |
+|------|--------|------|
+| 1897 | Primo Congresso Sionista, Basel | [WZO](../docs/agency/world-zionist-organization.md) |
+| 1917 | Dichiarazione Balfour | [Link](../docs/events/1917-balfour-declaration.md) |
+
+### Report
+
+| Report | Focus |
+|--------|-------|
+| [Sionismo: Da Movimento a Stato](zionism-state-building.md) | Herzl → Balfour → Israele (1897-1948) |
+
+---
+
+## 1910s-1920s: Pre-Guerra Fredda
+
+### Report
+
+| Report | Focus |
+|--------|-------|
+| [Nascita del Fascismo](fascismo-nascita-finanziamento.md) | Finanziatori fascismo: industriali, MI5, Wall Street |
+
+**Eventi chiave (non ancora documentati):**
+- 1914: Fondazione Il Popolo d'Italia
+- 1917: MI5 inizia pagamenti a Mussolini
+- 1922: Marcia su Roma
+- 1924: Delitto Matteotti / Scandalo petroli
+- 1926: Prestito J.P. Morgan $100M, accordo debiti Mellon
+
+---
+
 ## 1940s: Fondazioni
 
 ### Eventi
