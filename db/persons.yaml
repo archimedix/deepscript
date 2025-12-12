@@ -552,6 +552,10 @@ persons:
       from: 1921
       to: 1935
       note: Secretary-General
+    relations:
+    - person: shimon-peres
+      type: mentor
+      note: Political mentor
   beniamino-andreatta:
     born: 1928
     died: 2007
@@ -4986,6 +4990,9 @@ persons:
     - person: reinhard-gehlen
       type: colleague
       note: Gehlen sent Skorzeny to Egypt
+    - person: yasser-arafat
+      type: mentor
+      note: Addestramento commando in Egitto
   ozlem-tureci:
     born: 1967
     nationality: DEU
@@ -6046,6 +6053,21 @@ persons:
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
+  shimon-peres:
+    born: 1923
+    died: 2016
+    nationality: ISR
+    affiliations:
+    - org: wef
+      role: speaker
+      note: Davos 1994, 2001 (con Arafat)
+    - org: governo-israele
+      role: minister
+      note: Foreign Minister, Prime Minister, President
+    relations:
+    - person: yitzhak-rabin
+      type: colleague
+      note: Rivale/partner politico, co-laureato Nobel
   shin-je-yoon:
     nationality: Korean
     note: Ex Chairman Financial Services Commission, Ex Vice Minister Economy. Samsung Electronics board member
@@ -6864,6 +6886,51 @@ persons:
       role: chairman
       from: 2021
       note: Chairman via PIF
+  yasser-arafat:
+    born: 1929
+    died: 2004
+    nationality: PSE
+    affiliations:
+    - org: wef
+      role: speaker
+      note: Davos 1994, 1997, 2001
+    - org: onu
+      role: speaker
+      from: 1974
+      note: First PLO address to UN General Assembly
+    - org: plo
+      role: chairman
+      from: 1969
+      to: 2004
+    - org: fatah
+      role: founder
+      from: 1959
+      to: 2004
+    - org: palestinian-authority
+      role: leader
+      from: 1994
+      to: 2004
+      note: President
+  yitzhak-rabin:
+    born: 1922
+    died: 1995
+    nationality: ISR
+    affiliations:
+    - org: governo-usa
+      role: ambassador
+      from: 1968
+      to: 1973
+      note: Ambassador to USA
+    - org: governo-israele
+      role: leader
+      from: 1992
+      to: 1995
+      note: Prime Minister
+    - org: idf
+      role: executive
+      from: 1948
+      to: 1968
+      note: Chief of Staff 1964-68
   yngve-slyngstad:
     born: 1962
     nationality: NOR

@@ -282,6 +282,55 @@ Idea (Herzl) + Istituzioni (WZO) + Lobby (Weizmann)
 | Evento | Anno |
 |--------|------|
 | [Dichiarazione Balfour](../docs/events/1917-balfour-declaration.md) | 1917 |
+| [Accordi di Oslo](../docs/events/1993-oslo-accords.md) | 1993 |
+| [Assassinio Rabin](../docs/events/1995-assassinio-rabin.md) | 1995 |
+
+---
+
+## Epilogo: Dopo il 1948
+
+### Il Conflitto Irrisolto
+
+La fondazione di Israele nel 1948 non risolse la "questione palestinese". La guerra d'indipendenza creo' 700.000 rifugiati palestinesi (Nakba). I successivi 75 anni videro guerre, occupazione, e tentativi di pace.
+
+### Il Processo di Oslo (1993-1995)
+
+Il momento piu' vicino alla risoluzione del conflitto:
+
+| Anno | Evento | Protagonisti |
+|------|--------|--------------|
+| 1993 | [Accordi di Oslo](../docs/events/1993-oslo-accords.md) | Rabin, Arafat, Peres |
+| 1994 | Premio Nobel Pace | Rabin, Peres, Arafat |
+| 1994 | Pace con Giordania | Rabin, King Hussein |
+| 1995 | [Assassinio Rabin](../docs/events/1995-assassinio-rabin.md) | Fine del processo |
+
+### I Protagonisti del Processo di Pace
+
+| Figura | Ruolo | Background |
+|--------|-------|------------|
+| [Yitzhak Rabin](../docs/persons/yitzhak-rabin.md) | PM israeliano, Nobel 1994 | Generale, Chief of Staff 1967 |
+| [Shimon Peres](../docs/persons/shimon-peres.md) | Negoziatore, Nobel 1994 | Protetto di Ben-Gurion |
+| [Yasser Arafat](../docs/persons/yasser-arafat.md) | Chairman PLO, Nobel 1994 | Fondatore Fatah |
+
+### La Linea di Continuita'
+
+```
+BEN-GURION (1948)
+      |
+      | mentor
+      v
+SHIMON PERES ──────► OSLO 1993 ◄────── YITZHAK RABIN
+      |                                       |
+      v                                       v
+  Nucleare                              Chief of Staff
+  Dimona                                Guerra 6 Giorni
+```
+
+Peres, protetto di Ben-Gurion, rappresenta la continuita' diretta tra i fondatori del 1948 e il processo di pace degli anni '90.
+
+### Il Fallimento
+
+L'assassinio di Rabin (1995) da parte di un estremista israeliano segno' la fine del processo di Oslo. La questione palestinese rimane irrisolta.
 
 ---
 
@@ -292,6 +341,7 @@ Idea (Herzl) + Istituzioni (WZO) + Lobby (Weizmann)
 - [ ] Irgun, Lehi e terrorismo pre-stato
 - [ ] Transfer Agreement con Germania nazista (1933)
 - [ ] Ruolo intelligence britannica
+- [ ] Perche' Oslo falli'? Analisi strutturale
 
 ---
 

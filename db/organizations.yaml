@@ -3036,6 +3036,17 @@ organizations:
     - org: silver-lake
       role: investor
       note: Sports commerce platform
+  fatah:
+    name: Fatah
+    type: agency
+    founded: 1959
+    headquarters: Ramallah, Palestine
+    status: active
+    stakeholders:
+    - person: yasser-arafat
+      role: founder
+      from: 1959
+      to: 2004
   fbi:
     name: Federal Bureau of Investigation
     type: agency
@@ -4011,6 +4022,14 @@ organizations:
       role: leader
       from: 2021
       note: 11th President of Israel
+    - person: yitzhak-rabin
+      role: leader
+      from: 1992
+      to: 1995
+      note: Prime Minister
+    - person: shimon-peres
+      role: minister
+      note: Foreign Minister, Prime Minister, President
   governo-italia:
     name: Governo Italia
     type: government
@@ -4654,6 +4673,11 @@ organizations:
       from: 1921
       to: 1932
       note: Secretary of Treasury sotto Harding, Coolidge, Hoover
+    - person: yitzhak-rabin
+      role: ambassador
+      from: 1968
+      to: 1973
+      note: Ambassador to USA
   greensill:
     type: company
     founded: 2011
@@ -5022,6 +5046,11 @@ organizations:
       from: 1948
       to: 1963
       note: Creatore IDF da Haganah, Irgun, Lehi
+    - person: yitzhak-rabin
+      role: executive
+      from: 1948
+      to: 1968
+      note: Chief of Staff 1964-68
   ig-farben:
     name: IG Farben
     type: company
@@ -6805,6 +6834,10 @@ organizations:
       from: 1991
       to: 1998
       note: UNSCOM Chief Weapons Inspector, 37 missions Iraq
+    - person: yasser-arafat
+      role: speaker
+      from: 1974
+      note: First PLO address to UN General Assembly
     - org: wef
       role: partner
   opec:
@@ -7003,6 +7036,18 @@ organizations:
     - person: peter-thiel
       role: founder
       from: 2003
+  palestinian-authority:
+    name: Palestinian National Authority
+    type: government
+    founded: 1994
+    headquarters: Ramallah, Palestine
+    status: active
+    stakeholders:
+    - person: yasser-arafat
+      role: leader
+      from: 1994
+      to: 2004
+      note: President
   paragon:
     name: Paragon Solutions
     type: company
@@ -7191,6 +7236,17 @@ organizations:
       from: 1904
       to: 1971
       note: Amministratore delegato Pirelli Holding
+  plo:
+    name: Palestine Liberation Organization
+    type: agency
+    founded: 1964
+    headquarters: Ramallah, Palestine
+    status: active
+    stakeholders:
+    - person: yasser-arafat
+      role: chairman
+      from: 1969
+      to: 2004
   politico:
     name: POLITICO
     type: media
@@ -9306,6 +9362,12 @@ organizations:
     - person: prannoy-roy
       role: member
       note: WEF contributor
+    - person: yasser-arafat
+      role: speaker
+      note: Davos 1994, 1997, 2001
+    - person: shimon-peres
+      role: speaker
+      note: Davos 1994, 2001 (con Arafat)
     - org: bilderberg
       role: partner
     - org: fmi

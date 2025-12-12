@@ -124,6 +124,13 @@ Report che analizzano la costruzione di movimenti politici e stati.
 
 **Eventi correlati:**
 - [Dichiarazione Balfour (1917)](../docs/events/1917-balfour-declaration.md)
+- [Accordi di Oslo (1993)](../docs/events/1993-oslo-accords.md)
+- [Assassinio Rabin (1995)](../docs/events/1995-assassinio-rabin.md)
+
+**Figure chiave processo di pace:**
+- [Yitzhak Rabin](../docs/persons/yitzhak-rabin.md) - PM israeliano, Nobel 1994
+- [Shimon Peres](../docs/persons/shimon-peres.md) - Negoziatore, Nobel 1994
+- [Yasser Arafat](../docs/persons/yasser-arafat.md) - Chairman PLO, Nobel 1994
 
 ---
 
@@ -173,7 +180,7 @@ Analisi di industrie specifiche:
 | Metrica | Valore |
 |---------|--------|
 | **Report totali** | 19 |
-| **Eventi documentati** | 28 |
+| **Eventi documentati** | 30 |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |
 

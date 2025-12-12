@@ -16,6 +16,10 @@ unthinkable di churchill, alan bruc,
 
 sartre,  macussen : indipendenza degli stati 
 
+iran/iraq, khomeini
+gheddafi -> Sarkozy
+
+
 Priorità 1: Ambiti ad alta interconnessione
 
   FARMACEUTICO/HEALTHCARE

@@ -131,6 +131,8 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 1992 | Tangentopoli | [Link](../docs/events/1992-tangentopoli.md) |
 | 1992 | Trattato Maastricht | [Link](../docs/events/1992-trattato-maastricht.md) |
 | 1992 | Convegno Britannia | [Link](../docs/events/1992-britannia.md) |
+| 1993 | Accordi di Oslo | [Link](../docs/events/1993-oslo-accords.md) |
+| 1995 | Assassinio Rabin | [Link](../docs/events/1995-assassinio-rabin.md) |
 | 1999 | Abolizione Glass-Steagall | [Link](../docs/events/1999-abolizione-glass-steagall.md) |
 
 ### Report
