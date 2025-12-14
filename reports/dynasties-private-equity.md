@@ -329,6 +329,101 @@ WARBURG (Germania, XIX secolo)
 
 ---
 
+## Caso Anomalo: Bain Capital (Non Dinastia, Ma PE Politico)
+
+Bain Capital non e' una dinastia familiare, ma rappresenta un pattern diverso: **PE come veicolo di influenza politica bipartisan**.
+
+### Profilo
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Fondazione | 1984 ([Mitt Romney](../docs/persons/mitt-romney.md)) |
+| AUM | $180B |
+| Focus | PE, credit, public equity, ventures |
+| HQ | Boston |
+
+### Il Paradosso Bipartisan
+
+| Aspetto | Romney (Fondatore) | Partner Attuali |
+|---------|-------------------|-----------------|
+| **Partito** | Repubblicano | Democratico |
+| **Ruolo politico** | Candidato presidente 2012, Senatore Utah | Mega-donors |
+| **Donazioni** | - | $20M+/ciclo (Bekenstein, Lavine, Pagliuca) |
+
+### Partner Chiave
+
+| Partner | Ruolo | Donazioni Dem 2020 | Scheda |
+|---------|-------|-------------------|--------|
+| [Joshua Bekenstein](../docs/persons/joshua-bekenstein.md) | Co-Chairman | $18.7M | Top 17 USA |
+| [Jonathan Lavine](../docs/persons/jonathan-lavine.md) | Chair (2024) | $2.1M+ | Top 100 USA |
+| [Stephen Pagliuca](../docs/persons/stephen-pagliuca.md) | Co-Chairman 2016-23 | Major | Celtics, Atalanta |
+
+### Perche' e' Anomalo
+
+A differenza delle dinastie (Wallenberg, Agnelli, Warburg):
+
+1. **Non c'e' famiglia** - partnership professionale
+2. **Finanzia entrambi i partiti** - Romney GOP + partner Dem
+3. **Influenza diretta** - Romney in politica attiva, partner come donors
+
+### Implicazione
+
+Il PE non solo perpetua ricchezza dinastica - puo' anche essere **piattaforma di influenza politica transpartisan**, garantendo accesso al potere indipendentemente da chi governa.
+
+Vedi report: [Political Financing](political-financing.md)
+
+---
+
+## Il Lato Oscuro: PE Value Extraction
+
+Il PE non serve solo a perpetuare dinastie. Puo' anche **distruggere aziende** estraendo valore.
+
+### Retail Apocalypse
+
+| Azienda | PE/HF | Anno | Meccanismo | Jobs Persi |
+|---------|-------|------|------------|------------|
+| [Toys R Us](../docs/company/toys-r-us.md) | KKR, Bain, Vornado | 2005 | LBO + debt | 33,000 |
+| [Sports Authority](../docs/company/sports-authority.md) | Leonard Green | 2006 | LBO + debt | 14,000 |
+| [Sears](../docs/company/sears.md) | ESL (Lampert) | 2005 | Asset stripping | 200,000+ |
+| [Payless](../docs/company/payless.md) | Golden Gate, Blum | 2012 | Dividend recap | 16,000 |
+| [Red Lobster](../docs/company/red-lobster.md) | Golden Gate | 2014 | Sale-leaseback | TBD |
+
+### Healthcare Apocalypse
+
+| Azienda | PE | Anno | Meccanismo | Esito |
+|---------|-----|------|------------|-------|
+| [Genesis HealthCare](../docs/company/genesis-healthcare.md) | Formation Capital | 2007 | LBO + sale-leaseback | Bankruptcy 2025 |
+
+### Infrastructure Apocalypse
+
+| Azienda | PE | Anno | Meccanismo | Esito |
+|---------|-----|------|------------|-------|
+| [Thames Water](../docs/company/thames-water.md) | Macquarie | 2006 | WBS + dividendi 272% | Crisi 2025, bailout |
+
+### Quattro Modelli di Estrazione
+
+| Modello | Meccanismo | Esempio |
+|---------|------------|---------|
+| **LBO classico** | Debito sull'azienda → fees | Toys R Us, Sports Authority |
+| **Hedge fund activism** | Asset stripping → spin-off | Sears (ESL) |
+| **Dividend recapitalization** | Debito per pagare dividendi | Payless (Golden Gate) |
+| **Sale-leaseback** | Vendita immobili, affitto | Red Lobster, Genesis |
+| **Infrastructure WBS** | Securitizzazione ricavi futuri | Thames Water (Macquarie) |
+
+### Il Controesempio
+
+[Dick's Sporting Goods](../docs/company/dicks-sporting-goods.md) (family-owned) sopravvive e **compra il brand** del competitor PE-killed (Sports Authority).
+
+### Implicazione
+
+Il PE ha due facce:
+1. **Dynasty preservation** - Wallenberg, Agnelli usano PE per perpetuare controllo
+2. **Value extraction** - KKR, Golden Gate, Formation, Macquarie estraggono e distruggono
+
+Vedi report: [Political Financing](political-financing.md) per analisi completa.
+
+---
+
 ## Confronto tra Modelli
 
 ### Tavola Sinottica

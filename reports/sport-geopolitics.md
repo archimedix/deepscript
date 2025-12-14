@@ -398,7 +398,26 @@ Fondatore: **[Gerry Cardinale](../docs/persons/gerry-cardinale.md)** (ex-[Goldma
 | **The Friedkin Group** | AS Roma | Real estate/entertainment |
 | **[Arctos Partners](../docs/private-equity/arctos-partners.md)** | PSG (12.5%), vari | Multi-sport |
 | **[Sixth Street Partners](../docs/private-equity/sixth-street-partners.md)** | [Boston Celtics](../docs/sports-club/boston-celtics.md) (~12.5%), Spurs (20%) | $1B Celtics, Real Madrid/Barça financing |
-| **Bain (Pagliuca)** | Ex-Boston Celtics, Atalanta | Stephen Pagliuca (exiting 2028) |
+| **Bain Capital (Pagliuca, Bekenstein, Lavine)** | Boston Celtics, Atalanta | Tre partner co-owners, exiting 2028 |
+
+#### Deep Dive: Bain Capital - PE Bipartisan nello Sport
+
+Pattern unico: tre partner della stessa firm di PE sono **co-owners dello stesso franchise NBA** E tra i **maggiori donatori Democratici** - nonostante il fondatore Bain (Mitt Romney) sia Repubblicano.
+
+| Partner | Ruolo Bain | Boston Celtics | Altro Sport | Donazioni Dem 2020 |
+|---------|------------|----------------|-------------|-------------------|
+| [Stephen Pagliuca](../docs/persons/stephen-pagliuca.md) | Co-Chairman 2016-23 | Managing GP | [Atalanta BC](../docs/sports-club/atalanta-bc.md) (55%) | Major donor |
+| [Joshua Bekenstein](../docs/persons/joshua-bekenstein.md) | Co-Chairman | Co-owner | - | $18.7M (top 17 USA) |
+| [Jonathan Lavine](../docs/persons/jonathan-lavine.md) | Chair (2024) | Co-owner | - | $2.1M+ (top 100 USA) |
+
+**Il paradosso**: [Mitt Romney](../docs/persons/mitt-romney.md) fonda Bain Capital (1984), diventa candidato presidente GOP (2012), mentre i suoi partner sono tra i piu' grandi finanziatori del Partito Democratico.
+
+**Pattern PE → Sport → Politica**: gli stessi individui controllano:
+1. Asset finanziari (Bain $180B AUM)
+2. Franchise sportivi (Celtics, Atalanta)
+3. Influenza elettorale ($20M+/ciclo combinati)
+
+Vedi report: [Political Financing](political-financing.md)
 
 #### Deep Dive: La Catena Brookfield-Oaktree-Inter
 

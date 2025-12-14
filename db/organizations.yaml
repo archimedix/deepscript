@@ -526,6 +526,9 @@ organizations:
       role: chairman
     - person: michael-morell
       role: member
+    - person: ed-stack
+      role: member
+      note: Speaker Aspen Ideas Festival
     - org: trilaterale
       role: partner
   aspen-romania:
@@ -559,6 +562,19 @@ organizations:
     - person: jonathan-symonds
       role: executive
       note: ex-CFO
+  atalanta-bc:
+    name: Atalanta Bergamasca Calcio
+    type: sportsclub
+    founded: 1907
+    headquarters: Bergamo, Italy
+    status: active
+    sector: sports
+    note: Serie A football club
+    stakeholders:
+    - person: stephen-pagliuca
+      role: chairman
+      from: 2022
+      note: Co-chairman, 55% stake with investor group
   atlantik-brucke:
     name: Atlantik-Brücke
     type: thinktank
@@ -673,6 +689,7 @@ organizations:
     headquarters: Boston, USA
     status: active
     aum: $185B
+    note: 'Bipartisan PE: Romney (GOP senator), Pagliuca (Dem donor); employee-owned'
     stakeholders:
     - person: mitt-romney
       role: founder
@@ -683,7 +700,7 @@ organizations:
       role: partner
       from: 1989
       to: 2023
-      note: Co-Chairman 2016-2023, Senior Advisor 2023+
+      note: Co-chairman 2016-2023; joined 1989; senior advisor from 2023
     - person: jonathan-lavine
       role: chairman
       from: 2024
@@ -1322,6 +1339,19 @@ organizations:
     - person: jeff-bezos
       role: founder
       from: 2000
+  blum-capital:
+    name: Blum Capital Partners
+    type: privateequity
+    founded: 1975
+    headquarters: San Francisco, California, USA
+    status: active
+    sector: private equity
+    stakeholders:
+    - person: richard-blum
+      role: founder
+      from: 1975
+      to: 2022
+      note: Chairman and President
   bmw:
     name: BMW Group
     type: automaker
@@ -1415,6 +1445,10 @@ organizations:
       from: 2002
       to: 2028
       note: Co-owner, Managing Partner (exiting per deal structure)
+    - person: jonathan-lavine
+      role: owner
+      from: 2008
+      note: Boston Basketball Partners LLC investor group
     - person: bill-chisholm
       role: owner
       from: 2025
@@ -2608,6 +2642,17 @@ organizations:
       from: 1943
       to: 1954
       note: Segretario e Presidente
+  dicks-sporting-goods:
+    name: Dick's Sporting Goods
+    type: company
+    founded: 1948
+    headquarters: Pittsburgh, Pennsylvania, USA
+    status: active
+    stakeholders:
+    - person: ed-stack
+      role: chairman
+      from: 1984
+      note: Executive Chairman; CEO 1984-2021
   die-welt:
     name: Die Welt
     type: media
@@ -2928,6 +2973,17 @@ organizations:
     stakeholders:
     - person: jacob-wallenberg
       role: member
+  esl-investments:
+    name: ESL Investments
+    type: privateequity
+    founded: 1988
+    headquarters: Greenwich, Connecticut, USA
+    status: active
+    stakeholders:
+    - person: eddie-lampert
+      role: founder
+      from: 1988
+      note: Founder, Chairman, CEO
   espn:
     name: ESPN
     type: media
@@ -3310,6 +3366,13 @@ organizations:
     - person: bill-ford-jr
       role: executive-chairman
       from: 1999
+  formation-capital:
+    name: Formation Capital
+    type: privateequity
+    founded: 1999
+    headquarters: Atlanta, Georgia, USA
+    status: active
+    sector: private equity
   founders-fund:
     name: Founders Fund
     type: privateequity
@@ -3415,6 +3478,31 @@ organizations:
     - org: grupo-globo
       role: affiliate
       note: Philanthropy arm
+  future-forward:
+    name: Future Forward PAC / Future Forward USA Action
+    type: foundation
+    founded: 2018
+    headquarters: Washington D.C., USA
+    status: active
+    sector: political
+    note: Top Democratic super PAC; $500M+ spent 2024; dark money via 501c4 arm
+    stakeholders:
+    - person: bill-gates
+      role: member
+      from: 2024
+      note: Donor $50M (2024, via 501c4 dark money)
+    - person: michael-bloomberg
+      role: member
+      from: 2024
+      note: Donor $50M (2024)
+    - person: dustin-moskovitz
+      role: member
+      from: 2020
+      note: Donor $91.8M (2020), $38M (2024)
+    - person: chauncey-mclean
+      role: founder
+      from: 2018
+      note: President; co-founder
   future-fund-australia:
     name: Future Fund
     type: swf
@@ -3585,6 +3673,19 @@ organizations:
       from: 1945
       to: 1954
       note: Alleged collaboration before escape to Syria
+  genesis-healthcare:
+    name: Genesis HealthCare
+    type: company
+    founded: 1985
+    headquarters: Kennett Square, Pennsylvania, USA
+    status: defunct
+    sector: healthcare
+    stakeholders:
+    - org: formation-capital
+      role: owner
+      from: 2007
+      to: 2015
+      note: LBO $1.7B (con JER Partners)
   gic:
     name: Government of Singapore Investment Corporation
     type: swf
@@ -3637,6 +3738,13 @@ organizations:
       role: chairman
       from: 2009
       to: 2011
+  golden-gate-capital:
+    name: Golden Gate Capital
+    type: privateequity
+    founded: 2000
+    headquarters: San Francisco, California, USA
+    status: active
+    sector: private equity
   goldman-sachs:
     name: Goldman Sachs
     type: bank
@@ -3700,6 +3808,11 @@ organizations:
     - person: jose-feliciano-pe
       role: executive
       note: M&A and Corporate Finance
+    - person: eddie-lampert
+      role: member
+      from: 1984
+      to: 1988
+      note: Risk arbitrage dept, worked with Robert Rubin
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -4663,6 +4776,11 @@ organizations:
       from: 2019
       to: 2025
       note: Senator Utah
+    - person: mitt-romney
+      role: leader
+      from: 2003
+      to: 2007
+      note: Governor Massachusetts
     - person: mack-mclarty
       role: advisor
       from: 1993
@@ -5681,6 +5799,12 @@ organizations:
       role: executive
       to: 2007
       note: CFO, key in IBM PC acquisition 2005
+  leonard-green-partners:
+    name: Leonard Green & Partners
+    type: privateequity
+    founded: 1989
+    headquarters: Los Angeles, California, USA
+    status: active
   les-echos:
     name: Les Echos
     type: media
@@ -5818,6 +5942,13 @@ organizations:
     stakeholders:
     - org: rtl-group
       share: majority
+  macquarie-group:
+    name: Macquarie Group
+    type: assetmanager
+    founded: 1969
+    headquarters: Sydney, Australia
+    status: active
+    sector: infrastructure
   manchester-city:
     name: Manchester City FC
     type: sportsclub
@@ -7127,6 +7258,24 @@ organizations:
       role: member
       from: 1989
       to: 1994
+  payless:
+    name: Payless ShoeSource
+    type: company
+    founded: 1956
+    headquarters: Topeka, Kansas, USA
+    status: defunct
+    sector: retail
+    stakeholders:
+    - org: golden-gate-capital
+      role: owner
+      from: 2012
+      to: 2017
+      note: LBO $1.3B (con Blum Capital)
+    - org: blum-capital
+      role: owner
+      from: 2012
+      to: 2017
+      note: LBO $1.3B (con Golden Gate)
   paypal:
     name: PayPal
     type: company
@@ -7482,6 +7631,19 @@ organizations:
     headquarters: Tel Aviv, Israel
     status: active
     note: Israeli VC, Paragon investor
+  red-lobster:
+    name: Red Lobster
+    type: company
+    founded: 1968
+    headquarters: Orlando, Florida, USA
+    status: crisis
+    sector: restaurant
+    stakeholders:
+    - org: golden-gate-capital
+      role: owner
+      from: 2014
+      to: 2020
+      note: Acquisizione $2.1B, sale-leaseback $1.5B
   redbird-capital:
     name: RedBird Capital Partners
     type: privateequity
@@ -7936,6 +8098,23 @@ organizations:
       role: executive
       from: 1971
       to: 1994
+  sears:
+    name: Sears, Roebuck and Company
+    type: company
+    founded: 1893
+    headquarters: Chicago, Illinois, USA
+    status: defunct
+    stakeholders:
+    - person: eddie-lampert
+      role: executive
+      from: 2005
+      to: 2019
+      note: Chairman 2005-2019; CEO 2013-2018
+    - org: esl-investments
+      role: owner
+      from: 2005
+      to: 2019
+      note: Controlling shareholder; acquired in bankruptcy 2019
   seat:
     name: SEAT
     type: company
@@ -8149,6 +8328,27 @@ organizations:
     - person: elon-musk
       role: executive
       from: 2002
+  sports-authority:
+    name: Sports Authority
+    type: company
+    founded: 1987
+    headquarters: Englewood, Colorado, USA
+    status: defunct
+    stakeholders:
+    - org: bain-capital
+      role: investor
+      from: 1987
+      to: 1990
+      note: Founding VC syndicate
+    - org: leonard-green-partners
+      role: owner
+      from: 2006
+      to: 2016
+      note: LBO $1.4B
+    - org: dicks-sporting-goods
+      role: owner
+      from: 2016
+      note: Acquired brand/IP at bankruptcy auction
   standard-oil:
     name: Standard Oil
     type: company
@@ -8437,6 +8637,19 @@ organizations:
     stakeholders:
     - org: bouygues
       share: majority
+  thames-water:
+    name: Thames Water
+    type: company
+    founded: 1989
+    headquarters: Reading, UK
+    status: crisis
+    sector: utilities
+    stakeholders:
+    - org: macquarie-group
+      role: owner
+      from: 2006
+      to: 2017
+      note: Via Kemble Water consortium, debito 3x
   the-elders:
     name: The Elders
     type: forum
@@ -8607,6 +8820,30 @@ organizations:
       role: chairman
       from: 2023
       note: CEO 2009-2023
+  toys-r-us:
+    name: Toys "R" Us
+    type: company
+    founded: 1948
+    headquarters: Wayne, New Jersey, USA
+    status: defunct
+    sector: retail
+    note: Bankrupted 2017 after LBO debt burden; case study in PE value extraction
+    stakeholders:
+    - org: kkr
+      role: owner
+      from: 2005
+      to: 2017
+      note: LBO consortium member, $6.6B buyout
+    - org: bain-capital
+      role: owner
+      from: 2005
+      to: 2017
+      note: LBO consortium member, $6.6B buyout
+    - org: vornado-realty
+      role: owner
+      from: 2005
+      to: 2017
+      note: LBO consortium member, $6.6B buyout
   trilateral-commission:
     name: Trilateral Commission
     type: forum
@@ -9017,6 +9254,12 @@ organizations:
       share: 100%
       from: 2010
       note: $1.8B from Ford
+  vornado-realty:
+    name: Vornado Realty Trust
+    type: company
+    headquarters: New York, USA
+    status: active
+    sector: real-estate
   wall-street-journal:
     name: The Wall Street Journal
     type: media

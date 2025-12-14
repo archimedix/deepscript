@@ -725,6 +725,10 @@ persons:
     - org: breakthrough-energy
       role: founder
       from: 2015
+    - org: future-forward
+      role: member
+      from: 2024
+      note: Donor $50M (2024, via 501c4 dark money)
   bill-richardson:
     born: 1947
     died: 2023
@@ -909,6 +913,14 @@ persons:
       from: 1978
       to: 2023
       note: Vice Chairman 1978-2023. Morto novembre 2023
+  chauncey-mclean:
+    nationality: USA
+    note: Future Forward founder/president; Obama 2012 data pioneer; PFB Media co-owner
+    affiliations:
+    - org: future-forward
+      role: founder
+      from: 2018
+      note: President; co-founder
   chelsea-manning:
     born: 1987
     nationality: USA
@@ -1333,6 +1345,26 @@ persons:
     - org: walmart
       role: executive
       from: 2014
+  dustin-moskovitz:
+    born: 1984
+    nationality: USA
+    note: Facebook co-founder; Asana CEO; youngest self-made billionaire 2011; $130M+ Dem donations
+    affiliations:
+    - org: future-forward
+      role: member
+      from: 2020
+      note: Donor $91.8M (2020), $38M (2024)
+  ed-stack:
+    born: 1954
+    nationality: USA
+    affiliations:
+    - org: aspen-institute
+      role: member
+      note: Speaker Aspen Ideas Festival
+    - org: dicks-sporting-goods
+      role: chairman
+      from: 1984
+      note: Executive Chairman; CEO 1984-2021
   eddie-howe:
     born: 1977
     nationality: GBR
@@ -1341,6 +1373,24 @@ persons:
       role: executive
       from: 2021
       note: Manager, Carabao Cup 2025
+  eddie-lampert:
+    born: 1962
+    nationality: USA
+    affiliations:
+    - org: goldman-sachs
+      role: member
+      from: 1984
+      to: 1988
+      note: Risk arbitrage dept, worked with Robert Rubin
+    - org: sears
+      role: executive
+      from: 2005
+      to: 2019
+      note: Chairman 2005-2019; CEO 2013-2018
+    - org: esl-investments
+      role: founder
+      from: 1988
+      note: Founder, Chairman, CEO
   edgar-bronfman-sr:
     born: 1929
     died: 2013
@@ -3216,12 +3266,18 @@ persons:
       from: 2002
       to: 2005
   jonathan-lavine:
+    born: 1966
     nationality: USA
+    note: Bain Capital Chair (2024); founded Credit/Special Situations; $2.1M+ Dem donor 2020; Celtics co-owner
     affiliations:
     - org: bain-capital
       role: chairman
       from: 2024
       note: Chair (2024), Co-Managing Partner 2016-2024, founded Credit 1998
+    - org: boston-celtics
+      role: owner
+      from: 2008
+      note: Boston Basketball Partners LLC investor group
   jonathan-rothermere:
     born: 1967
     nationality: UK
@@ -3350,7 +3406,9 @@ persons:
     - org: amber-capital
       role: founder
   joshua-bekenstein:
+    born: 1958
     nationality: USA
+    note: Bain Capital founding partner, Co-Chairman 2016-2022; top Democratic mega-donor
     affiliations:
     - org: bain-capital
       role: partner
@@ -4454,11 +4512,15 @@ persons:
   michael-bloomberg:
     born: 1942
     nationality: USA
-    note: 'tech billionaire #13 Forbes, ex-Mayor NYC'
+    note: Bloomberg LP founder; NYC Mayor 2002-2013; UN Special Envoy Climate; $21B+ philanthropy
     affiliations:
     - org: bloomberg-lp
       role: founder
       from: 1981
+    - org: future-forward
+      role: member
+      from: 2024
+      note: Donor $50M (2024)
   michael-hayden:
     born: 1945
     nationality: USA
@@ -4580,12 +4642,18 @@ persons:
   mitt-romney:
     born: 1947
     nationality: USA
+    note: Bain Capital founder; Gov MA; 2012 GOP nominee; Senator UT; first GOP to vote Trump impeachment
     affiliations:
     - org: governo-usa
       role: legislator
       from: 2019
       to: 2025
       note: Senator Utah
+    - org: governo-usa
+      role: leader
+      from: 2003
+      to: 2007
+      note: Governor Massachusetts
     - org: bain-capital
       role: founder
       from: 1984
@@ -5559,6 +5627,16 @@ persons:
     affiliations:
     - org: fii-saudi
       role: executive
+  richard-blum:
+    born: 1935
+    died: 2022
+    nationality: USA
+    affiliations:
+    - org: blum-capital
+      role: founder
+      from: 1975
+      to: 2022
+      note: Chairman and President
   richard-dearlove:
     born: 1945
     nationality: GBR
@@ -6190,17 +6268,22 @@ persons:
   stephen-pagliuca:
     born: 1955
     nationality: USA
+    note: Bain Capital co-chairman; Celtics, Atalanta owner; 2010 Senate candidate
     affiliations:
     - org: bain-capital
       role: partner
       from: 1989
       to: 2023
-      note: Co-Chairman 2016-2023, Senior Advisor 2023+
+      note: Co-chairman 2016-2023; joined 1989; senior advisor from 2023
     - org: boston-celtics
       role: owner
       from: 2002
       to: 2028
       note: Co-owner, Managing Partner (exiting per deal structure)
+    - org: atalanta-bc
+      role: chairman
+      from: 2022
+      note: Co-chairman, 55% stake with investor group
   stephen-schwarzman:
     born: 1947
     nationality: USA

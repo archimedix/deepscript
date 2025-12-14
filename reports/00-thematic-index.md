@@ -35,6 +35,7 @@ Report che analizzano istituzioni finanziarie, flussi di capitale, e potere econ
 | [SWF Global Power Map](swf-global-power-map.md) | 2000-2025 | Fondi sovrani mondiali |
 | [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | 2016-2025 | Investimenti Golfo in USA |
 | [Dynasties Private Equity](dynasties-private-equity.md) | 1994-2025 | Dinastie che usano PE |
+| [Political Financing](political-financing.md) | 2010-2025 | Campaign finance, Super PAC, tech donors |
 
 **Eventi correlati:**
 - [Bretton Woods (1944)](../docs/events/1944-bretton-woods.md)
@@ -179,7 +180,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 19 |
+| **Report totali** | 20 |
 | **Eventi documentati** | 30 |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |

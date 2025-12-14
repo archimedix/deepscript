@@ -16,6 +16,7 @@ unthinkable di churchill, alan bruc,
 
 sartre,  macussen : indipendenza degli stati 
 
+F1
 iran/iraq, khomeini
 gheddafi -> Sarkozy
 
