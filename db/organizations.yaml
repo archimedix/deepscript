@@ -559,6 +559,21 @@ organizations:
       from: 1965
       to: 1969
       note: Vietnam War
+  asia-news-network:
+    name: Asia News Network
+    type: media
+    founded: 1999
+    headquarters: Singapore
+    status: active
+    sector: media
+    stakeholders:
+    - org: yomiuri-shimbun
+      role: member
+      note: Membro via The Japan News
+    - org: nation-thailand
+      role: member
+      from: 1999
+      note: Membro fondatore
   aspen-institute:
     name: Aspen Institute
     type: thinktank
@@ -2997,6 +3012,18 @@ organizations:
       from: 1895
       to: 1926
       note: Direzione tecnico-amministrativa
+  eec:
+    name: Eastern Economic Corridor Office
+    type: agency
+    founded: 2017
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: development
+    stakeholders:
+    - org: governo-thailandia
+      role: parent
+      from: 2017
+      note: Agenzia governativa creata da NCPO
   eib:
     name: European Investment Bank
     type: bank
@@ -6766,6 +6793,13 @@ organizations:
     stakeholders:
     - person: jacob-wallenberg
       role: board
+  nation-thailand:
+    name: Nation Group
+    type: media
+    founded: 1971
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: media
   nato:
     name: North Atlantic Treaty Organization
     type: agency

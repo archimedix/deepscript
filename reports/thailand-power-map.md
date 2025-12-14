@@ -9,9 +9,10 @@
 La Thailandia rappresenta un **caso unico** nel panorama del potere asiatico post-1945:
 
 - **Monarchia costituzionale** de jure, ma con potere economico reale ($40-80B)
-- **Sei oligarchie sino-thailandesi** che dominano l'economia privata senza sfidare la Corona
+- **Sette oligarchie** (6 sino-thailandesi + 1 militare) che dominano l'economia privata senza sfidare la Corona
 - **Ciclo elettorale-colpo di stato** ricorrente dal 2006
 - **Una famiglia** (Shinawatra) che ha tentato di convertire ricchezza in potere politico diretto
+- **Un nuovo polo** (Ratanavadi/Gulf) emerso dalla deregolamentazione energia e acquisizioni post-Shinawatra
 - **Tre colpi di stato** per rimuovere governi democraticamente eletti
 
 ---
@@ -80,7 +81,8 @@ $44.5B    $42.6B   $12B    $10-13B  $8-16B   Bank     $2.1B    economico
 | [Crown Property Bureau](../docs/foundation/crown-property-bureau.md) | 100% (dal 2018) | $40-80B |
 | [Siam Commercial Bank](../docs/bank/siam-commercial-bank.md) | 23.53% | Prima banca (1907), via SCBX |
 | [Siam Cement Group](../docs/company/siam-cement-group.md) | 30% | Maggiore conglomerato industriale |
-| Immobili Bangkok | 10 km² | Centro citta' |
+| Immobili Bangkok | 10 km² (6,560 ettari) | Centro citta' |
+| Kempinski Hotels | Controllo | Catena alberghiera internazionale |
 
 **Riforma 2018**: Gli asset del CPB sono ora proprieta' **personale** di [Re Vajiralongkorn](../docs/persons/vajiralongkorn.md), eliminando la distinzione stato/Corona. Dividendi >$1.2B tra 2016-2020.
 
@@ -109,6 +111,41 @@ $44.5B    $42.6B   $12B    $10-13B  $8-16B   Bank     $2.1B    economico
 | **2014** | Yingluck Shinawatra | Proteste, deadlock politico |
 
 **Funzione**: I militari intervengono quando l'equilibrio Corona-Oligarchi viene minacciato da politici eletti.
+
+### 4. Lo Stato: SOE e Assenza di Fondo Sovrano
+
+#### Imprese di Stato (SOE)
+
+La Thailandia mantiene un significativo settore statale:
+
+| Metrica | Valore |
+|---------|--------|
+| Numero SOE | 52 |
+| Asset totali | $448 miliardi |
+| Fatturato | $131 miliardi |
+| Dipendenti | 255,397 |
+
+**Principali SOE:**
+
+| Azienda | Settore | Note |
+|---------|---------|------|
+| PTT | Energia | Compagnia petrolifera nazionale, #2 per market cap |
+| EGAT | Elettricita' | Monopolio generazione elettrica |
+| Thai Airways | Trasporti | Compagnia di bandiera |
+| [Krungthai Bank](../docs/bank/krung-thai-bank.md) | Finanza | Banca statale (55% FIDF) |
+| CAT/TOT | Telecom | Telecomunicazioni statali |
+
+#### Assenza di Fondo Sovrano
+
+A differenza di Singapore (GIC, Temasek) o Norvegia (GPFG), la Thailandia **non ha un sovereign wealth fund**, nonostante:
+
+| Fattore | Dato |
+|---------|------|
+| Riserve valutarie | $246 miliardi (14° al mondo) |
+| Pressioni esterne | FMI raccomanda creazione SWF |
+| Dibattito interno | Modello Singapore in discussione |
+
+**Implicazione**: Le riserve rimangono gestite dalla Bank of Thailand in modo conservativo, senza strategia di investimento attiva come i SWF dei paesi vicini.
 
 ---
 
@@ -167,9 +204,9 @@ NUOVO CANDIDATO FAMILIARE
 
 ---
 
-## L'Impero Telecom Shinawatra
+## L'Impero Telecom: Da Shinawatra a Ratanavadi
 
-### Costruzione (1983-2006)
+### Costruzione Shinawatra (1983-2006)
 
 ```
 SHIN CORPORATION (1983)
@@ -189,25 +226,74 @@ $1.88 miliardi, esentasse
 COLPO DI STATO
 ```
 
-### Catena Proprietaria Attuale
+### Transizione a Ratanavadi (2015-2025)
 
 ```
-GULF ENERGY (Thai)
-    |
-    | 42.25%
-    v
-INTOUCH HOLDINGS (ex Shin Corp)
-    |
-    | 40.44%
-    v
-AIS (45M abbonati, #1 Thai)
+TEMASEK (2006-2015)
+         |
+         | vendita 2015
+         v
+GULF ENERGY (2015-2025)
+         |
+         | 42.25%
+         v
+INTOUCH HOLDINGS
+         |
+         | 40.44%
+         v
+AIS
 ```
 
-| Entita' | Fondatore | Status |
-|---------|-----------|--------|
-| [Shin Corporation](../docs/company/shin-corporation.md) | Thaksin | Rebranded (Intouch) |
-| [AIS](../docs/company/ais.md) | Thaksin | #1 mobile operator |
-| [Intouch Holdings](../docs/company/intouch-holdings.md) | - | Holding |
+### Struttura Attuale (post-fusione aprile 2025)
+
+```
+GULF DEVELOPMENT ($25B)
+Sarath Ratanavadi (35.67%)
+         |
+    +----+----+
+    |         |
+    v         v
+   AIS     Thaicom
+ (40.4%)   (40%+)
+ 46M abb.  Satellite
+ #1 Thai   leader
+```
+
+| Entita' | Fondatore | Proprietario 2025 | Status |
+|---------|-----------|-------------------|--------|
+| [Shin Corporation](../docs/company/shin-corporation.md) | Thaksin | - | Dismessa |
+| [Intouch Holdings](../docs/company/intouch-holdings.md) | - | - | Fusa in Gulf (2025) |
+| [AIS](../docs/company/ais.md) | Thaksin | Gulf Development (40.4%) | #1 mobile |
+| [Thaicom](../docs/company/thaicom.md) | Thaksin | Gulf Development (40%+) | Satellite leader |
+| [Gulf Development](../docs/company/gulf-energy.md) | Sarath Ratanavadi | Ratanavadi (35.67%) | Holding |
+
+> **Pattern**: Gli asset telecom costruiti da Shinawatra sono passati attraverso Temasek (2006) e Gulf (2015) per finire sotto controllo Ratanavadi (2025), senza che la famiglia Shinawatra mantenga alcuna partecipazione.
+
+### Duopolio Telecom Thai (2025)
+
+| Operatore | Proprietario | Abbonati | Market Share | Holding |
+|-----------|--------------|----------|--------------|---------|
+| **True + DTAC** | [CP Group](../docs/company/cp-group.md) (30.3%) | ~49M | ~52% | [True Corporation](../docs/company/true-corporation.md) |
+| **AIS** | [Gulf Development](../docs/company/gulf-energy.md) (40.4%) | ~46M | ~48% | Gulf Development |
+
+```
+         TELECOM THAILAND 2025
+                  |
+    +-------------+-------------+
+    |                           |
+    v                           v
+CP GROUP (30.3%)          GULF DEVELOPMENT (40.4%)
+    |                           |
+    v                           v
+TRUE CORPORATION               AIS
+(TrueMove + DTAC)          #1 mobile
+~49M abbonati              ~46M abbonati
+#1 post-merger 2023        Ex-Shinawatra
+```
+
+**Nota**: Entrambi i poli del duopolio telecom hanno origini nell'impero Shinawatra:
+- **True**: CP Group acquisi' TelecomAsia (1990) e poi DTAC (2023)
+- **AIS**: Fondato da Thaksin (1987), venduto a Temasek (2006), poi a Gulf (2015-2025)
 
 ---
 
@@ -231,6 +317,14 @@ AIS (45M abbonati, #1 Thai)
 | **Famiglia privata** | Bangkok Bank | Sophonpanich |
 | **Stato** | Krungthai | FIDF/Min. Finanze (55%) |
 | **Straniero** | Krungsri | MUFG Giappone |
+
+### Banche Estere Minori
+
+| Banca | Proprietario | Note |
+|-------|--------------|------|
+| [Krungsri](../docs/bank/krungsri.md) | MUFG (Giappone) | Acquisizione 2013, unica major straniera |
+| UOB Thailand | UOB (Singapore) | Acquisita Citibank Thai |
+| CIMB Thai | CIMB (Malaysia) | Presenza regionale ASEAN |
 
 ### Famiglia Sophonpanich: Dinastia Bancaria
 
@@ -428,6 +522,126 @@ La [famiglia Sophonpanich](../docs/family/sophonpanich.md) ha costruito la maggi
 
 ---
 
+## Investimenti Esteri e Shift Geopolitico
+
+### FDI 2024: Record Storico
+
+La Thailandia ha registrato un **record decennale** di investimenti esteri nel 2024:
+
+| Metrica | Valore | Variazione |
+|---------|--------|------------|
+| Investimenti totali | ฿1.138 trilioni (~$33B) | +35% YoY |
+| Progetti | 3,137 | +40% YoY |
+| Status | Massimo degli ultimi 10 anni | |
+
+### Principali Investitori 2024
+
+| Paese | Posizione | Progetti | Valore | Focus |
+|-------|-----------|----------|--------|-------|
+| Singapore | #1 | - | - | Data center |
+| Cina | #2 | 810 | ฿174.6 mld | EV, energia |
+| Hong Kong | #3 | - | - | - |
+| Taiwan | #4 | - | - | Elettronica |
+| Giappone | #5 | 271 | ฿49.1 mld | Auto (legacy) |
+
+### Settori Chiave FDI
+
+| Settore | Investimento | Players |
+|---------|--------------|---------|
+| Data center | $243 miliardi | Google, Amazon, Alibaba |
+| EV | Significativo | BYD, Great Wall, Changan, GAC Aion |
+| Elettronica | Crescente | PCB manufacturing |
+| Auto tradizionale | Legacy | Toyota, Honda |
+
+**Shift geopolitico**: La Cina sta sostituendo il Giappone come principale investitore, invertendo decenni di dominanza giapponese nel settore automotive.
+
+---
+
+## Eastern Economic Corridor (EEC)
+
+> Vedi scheda completa: [EEC](../docs/agency/eec.md)
+
+### Overview
+
+Megaprogetto da **$44 miliardi** (approvato 2022) per trasformare tre province orientali in hub tecnologico:
+
+| Provincia | Ruolo |
+|-----------|-------|
+| Chachoengsao | Industria |
+| Chonburi | Logistica/porti |
+| Rayong | Petrolchimica/EV |
+
+### Investimenti Cinesi nell'EEC
+
+| Metrica | Valore |
+|---------|--------|
+| Investimenti 2019-2024 | $8.4 miliardi |
+| Quota su totale EEC | 16% |
+| Focus | EV, energia, infrastrutture |
+
+### Infrastrutture Chiave (BRI)
+
+| Progetto | Partner | Status |
+|----------|---------|--------|
+| Ferrovia Bangkok-Nong Khai | Cina (Belt and Road) | Completamento 2028 |
+| Aeroporto U-Tapao | Zhengzhou Airport Zone | In sviluppo |
+| Hub e-commerce | Alibaba | $320M investiti |
+
+### Produttori EV Cinesi in EEC
+
+| Brand | Tipo | Note |
+|-------|------|------|
+| BYD | Produzione locale | Maggiore produttore EV mondiale |
+| Great Wall Motor | Stabilimento | |
+| Changan | Stabilimento | |
+| GAC Aion | Stabilimento | EV puri |
+| MG (SAIC) | Stabilimento | JV con CP Group |
+
+**Implicazione**: L'EEC rappresenta l'integrazione della Thailandia nella **Belt and Road Initiative** cinese, trasformando il paese in hub manifatturiero EV per il Sud-Est Asiatico.
+
+---
+
+## Panorama Mediatico
+
+Il controllo dei media e' parte integrante del sistema di potere thailandese.
+
+### Principali Gruppi Media
+
+| Gruppo | Proprietario | Asset | Orientamento |
+|--------|--------------|-------|--------------|
+| **TrueVisions** | [CP Group](../docs/company/cp-group.md) | Pay-TV #1, broadband | Commerciale |
+| **[Nation Group](../docs/media/nation-thailand.md)** | Sontiyan Chuenruetainaidhama | The Nation, Nation Channel | Conservatore (post-2018) |
+| **Bangkok Post** | Post Publishing | Quotidiano inglese | Moderato |
+| **Thai PBS** | Stato | TV pubblica | Pubblico |
+| **Channel 3/7** | BEC World / BBTV | TV generalista | Commerciale |
+
+### Transizione Nation Group (2018)
+
+L'acquisizione ostile di [Nation Thailand](../docs/media/nation-thailand.md) nel 2018 ha segnato un cambiamento significativo:
+
+| Aspetto | Prima (1971-2018) | Dopo (2018-oggi) |
+|---------|-------------------|------------------|
+| Proprieta' | Suthichai Yoon (fondatore) | Sontiyan Chuenruetainaidhama |
+| Linea editoriale | Liberale, pro-democrazia | Conservatrice, pro-establishment |
+| Posizione Shinawatra | Critica ma equilibrata | Ostile |
+
+**Significato**: L'unico quotidiano inglese di proprieta' thailandese e' passato da voce liberale a media allineato con l'establishment, riducendo lo spazio per narrativa critica in lingua inglese.
+
+### CP Group nel Media
+
+[CP Group](../docs/company/cp-group.md) attraverso [True Corporation](../docs/company/true-corporation.md) controlla:
+- **TrueVisions**: #1 pay-TV thailandese
+- **TrueOnline**: #1 broadband
+- Contenuti esclusivi Premier League, eventi sportivi
+
+Il duopolio telecom (True vs AIS) si estende ai contenuti media.
+
+### Connessioni Regionali
+
+[Nation Thailand](../docs/media/nation-thailand.md) e' membro fondatore dell'[Asia News Network](../docs/media/asia-news-network.md), consorzio di ~20 testate asiatiche che include Straits Times (Singapore), Yomiuri Shimbun (Giappone), China Daily.
+
+---
+
 ## Timeline Politico-Economica
 
 | Anno | Evento | Impatto |
@@ -461,7 +675,7 @@ La [famiglia Sophonpanich](../docs/family/sophonpanich.md) ha costruito la maggi
 | **2015** | Gulf acquista quota Temasek in Shin Corp | Ratanavadi entra in telecom |
 | **2016** | Morte Rama IX; TCC acquista Big C ($3.4B) | Nuovo Re; Sirivadhanabhakdi entra retail |
 | **2017** | Gulf Energy IPO (THB 25B, maggiore in 10 anni) | Ratanavadi diventa billionaire |
-| **2018** | Riforma CPB | Corona = proprietario personale |
+| **2018** | Riforma CPB; acquisizione ostile Nation Group | Corona = proprietario personale; media shift conservatore |
 | **2020** | Bangkok Bank acquista Permata ($2.7B); CP riacquista Lotus da Tesco ($10.6B) | Espansione ASEAN; CP riprende hypermarket |
 | **2021** | Gulf acquisisce partecipazioni in Intouch/AIS | Consolidamento telecom |
 | **2022** | Chirathivat acquista Selfridges (con Signa) | Lusso globale |
@@ -549,6 +763,22 @@ GULF DEVELOPMENT ($25B)
 - Crescita tramite deregolamentazione energia (1990s) e acquisizioni (Shin Corp/Intouch)
 - Controllo telecom acquisito da asset Shinawatra tramite Temasek
 
+### 10. Shift Geopolitico: da Giappone a Cina
+
+La Thailandia sta vivendo una transizione storica nelle fonti di capitale estero:
+
+| Decennio | Investitore Dominante | Settore |
+|----------|----------------------|---------|
+| 1960-2010 | Giappone | Auto, elettronica |
+| 2010-oggi | Cina | EV, infrastrutture, data center |
+
+**Evidenze dello shift:**
+- Cina #2 investitore (dopo Singapore), Giappone #5
+- EEC integrato nella Belt and Road Initiative
+- Produttori EV cinesi (BYD, Great Wall) sostituiscono legacy giapponese
+- Ferrovia Bangkok-Nong Khai connette alla rete cinese
+- CP Group ponte storico (dal 1979, certificato Shenzhen #0001)
+
 ---
 
 ## Statistiche Aggregate
@@ -629,6 +859,13 @@ GULF DEVELOPMENT ($25B)
 - [Gulf Development](../docs/company/gulf-energy.md)
 - [Thaicom](../docs/company/thaicom.md)
 
+### Schede DeepScript - Agenzie
+- [Eastern Economic Corridor (EEC)](../docs/agency/eec.md)
+
+### Schede DeepScript - Media
+- [Nation Thailand](../docs/media/nation-thailand.md)
+- [Asia News Network](../docs/media/asia-news-network.md)
+
 ### Schede DeepScript - Persone
 - [Sarath Ratanavadi](../docs/persons/sarath-ratanavadi.md)
 - [Chartsiri Sophonpanich](../docs/persons/chartsiri-sophonpanich.md)
@@ -640,6 +877,11 @@ GULF DEVELOPMENT ($25B)
 - [CFR - Shinawatra Dynasty](https://www.cfr.org/blog/last-days-thailands-shinawatra-dynasty)
 - [Forbes Thailand 2025](https://www.nationthailand.com/blogs/business/economy/40052094)
 - [Bloomberg Asia's Richest 2025](https://www.kaohooninternational.com/wealth/552447)
+- [Thailand BOI - FDI 2024 Record](https://www.prnewswire.com/apac/news-releases/thailand-boi-says-2024-investment-applications-soar-35-to-10-year-high-of-usd33-billion-as-fdi-in-data-centers-and-cloud-services-take-the-lead-302349153.html)
+- [Nation Thailand - Chinese Investment in EEC](https://www.nationthailand.com/blogs/business/investment/40053901)
+- [WEF - CP Group Profile](https://www.weforum.org/organizations/charoen-pokphand-group/)
+- [Statrys - Best Thai Banks](https://statrys.com/blog/best-thai-banks)
+- [Nation Thailand - SOE Performance](https://www.nationthailand.com/business/corporate/40052372)
 
 ---
 
