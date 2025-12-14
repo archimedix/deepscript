@@ -42,6 +42,7 @@
 | **1974** | Fondazione Temasek Holdings |
 | **2004** | Ho Ching diventa CEO, AUM S$90B |
 | **2005** | Investimenti in Bank of China, China Construction Bank |
+| **2006** | Acquisizione Shin Corporation (Thailand) per $1.88B |
 | **2010** | Dilhan Pillay entra in Temasek |
 | **2014** | Investimento in Alibaba pre-IPO |
 | **2019** | Dilhan Pillay CEO Temasek International |
@@ -147,6 +148,55 @@ Di cui ~20% in PE/VC funds e 12% tramite Seviora Capital.
 - Lenskart ($200M, 2024)
 - Vari tech/consumer startups
 
+### Thailand - Shin Corporation / AIS
+
+L'acquisizione piu' controversa di Temasek:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Target | [Shin Corporation](../company/shin-corporation.md) |
+| Anno | Gennaio 2006 |
+| Prezzo | $1.88 miliardi |
+| Quota | 49.6% |
+| Venditore | Famiglia [Shinawatra](../family/shinawatra.md) |
+| Contesto | Thaksin era PM in carica |
+
+**Catena proprietaria (evoluzione):**
+```
+2006-2015:
+TEMASEK (49.6%)
+    |
+    v
+SHIN CORPORATION
+    |
+    v
+AIS
+
+2015-2025:
+TEMASEK ──(venduto 2015)──> GULF ENERGY
+                                |
+                                | 42.25%
+                                v
+                           INTOUCH HOLDINGS (ex Shin Corp)
+                                |
+                                | 40.44%
+                                v
+                           AIS
+
+2025-oggi (post fusione):
+GULF DEVELOPMENT (ex Gulf Energy + Intouch)
+    |
+    | 40.4% (diretto)
+    v
+AIS (#1 mobile Thailand, 46M abbonati)
+```
+
+> **Nota**: La fusione Gulf-Intouch (aprile 2025) ha semplificato la catena. Gulf Development ora detiene direttamente il 40.4% di AIS.
+
+**Controversia**: La vendita fu esentasse (uso di holding offshore), scatenando proteste che portarono al **colpo di stato del settembre 2006** contro Thaksin.
+
+**Exit**: Temasek ha successivamente ceduto la partecipazione a Gulf Energy Development (Thai), mantenendo una posizione indiretta minore.
+
 ---
 
 ## Connessione Princeling: Boyu Capital
@@ -194,6 +244,16 @@ Questo pattern e' documentato nel report [dynasties-private-equity.md](../../rep
 | Bank of China | Azionista |
 | ICBC | Azionista |
 | Alibaba | Ex-azionista (ridotto) |
+| [Shin Corporation](../company/shin-corporation.md) | Ex-azionista 49.6% (2006-2015) |
+| [Gulf Development](../company/gulf-energy.md) | Acquirente quota Shin Corp (2015) |
+| [Intouch Holdings](../company/intouch-holdings.md) | Ex-partecipazione indiretta (fusa in Gulf 2025) |
+| [AIS](../company/ais.md) | Ex-partecipazione indiretta via Intouch/Gulf |
+
+### Famiglie correlate
+
+| Famiglia | Relazione |
+|----------|-----------|
+| [Shinawatra](../family/shinawatra.md) | Venditore Shin Corp (2006) |
 
 ### Confronto con GIC
 
@@ -239,6 +299,14 @@ Riflette de-risking geopolitico post-COVID e tensioni USA-Cina.
 
 A differenza di altri SWF, Temasek controlla **operativamente** aziende domestiche (Singapore Airlines, Singtel, DBS), non solo finanziariamente.
 
+### 4. Controversia Thailand
+
+L'acquisizione Shin Corp (2006) dimostra i rischi politici degli investimenti SWF:
+- Acquisto da PM in carica → accuse di conflitto interessi
+- Struttura esentasse → proteste popolari
+- Conseguenza: colpo di stato contro venditore
+- Lezione: exit graduale da posizioni politicamente sensibili
+
 ---
 
 ## Critiche
@@ -246,6 +314,7 @@ A differenza di altri SWF, Temasek controlla **operativamente** aziende domestic
 | Tema | Dettaglio |
 |------|-----------|
 | **Conflitto interessi** | Ho Ching CEO mentre marito era PM |
+| **Shin Corp scandal** | Acquisto da Thaksin (PM Thailand) contribui' al colpo di stato 2006 |
 | **Princeling enabling** | LP in fondi di figli di leader cinesi |
 | **Trasparenza** | Non pubblica tutti gli holdings |
 | **China exposure** | Critiche per esposizione a regime autoritario |

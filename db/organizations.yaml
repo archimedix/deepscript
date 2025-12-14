@@ -1,4 +1,16 @@
 organizations:
+  7-eleven:
+    name: 7-Eleven Inc.
+    type: company
+    founded: 1927
+    headquarters: Irving, Texas, USA
+    status: active
+    sector: retail
+    stakeholders:
+    - org: seven-i-holdings
+      share: 100%
+      from: 2005
+      note: Wholly owned subsidiary
   abb:
     name: ABB Ltd
     type: company
@@ -182,6 +194,44 @@ organizations:
       role: executive
       from: 1954
       to: 1974
+  airasia:
+    name: AirAsia / Capital A
+    type: company
+    founded: 2001
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: aviation
+    note: 'Largest low-cost carrier in Asia. Acquired 2001 for 1 ringgit ($0.26). Bursa: CAPITALA (5099)'
+    stakeholders:
+    - person: tony-fernandes
+      role: founder
+      from: 2001
+      note: Co-founder with Kamarudin Meranun. CEO Capital A
+  ais:
+    name: Advanced Info Service (AIS)
+    type: company
+    founded: 1986
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: telecom
+    note: '#1 mobile operator Thailand, 46M abbonati'
+    stakeholders:
+    - person: thaksin-shinawatra
+      role: founder
+      from: 1990
+    - org: shin-corporation
+      note: Subsidiary via Intouch
+    - org: intouch-holdings
+      role: parent
+      share: 40.44%
+      from: 1986
+      to: 2025
+      note: Ceduto a Gulf Development nella fusione
+    - org: gulf-energy
+      role: major shareholder
+      share: 40.4%
+      from: 2025
+      note: Post fusione Gulf-Intouch
   ako-capital:
     name: AKO Capital
     type: hedgefund
@@ -540,6 +590,12 @@ organizations:
     - person: federica-mogherini
       role: member
       note: Speaker
+  astra-international:
+    name: PT Astra International Tbk
+    type: company
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: conglomerate
   astrazeneca:
     name: AstraZeneca
     type: pharma
@@ -798,6 +854,27 @@ organizations:
     stakeholders:
     - person: giovanni-bazoli
       role: executive
+  bangkok-bank:
+    name: Bangkok Bank
+    type: bank
+    founded: 1944
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: banking
+    stakeholders:
+    - person: chin-sophonpanich
+      role: founder
+      from: 1944
+      to: 1988
+    - person: chartsiri-sophonpanich
+      role: executive
+      from: 1994
+      note: President
+    - person: chatri-sophonpanich
+      role: executive
+      from: 1980
+      to: 1992
+      note: President
   bank-of-america:
     name: Bank of America Merrill Lynch
     type: bank
@@ -1021,6 +1098,18 @@ organizations:
       role: board
       from: 1999
       note: Honorary Board of Trustees
+  big-c:
+    name: Big C Supercenter
+    type: company
+    founded: 1993
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: retail
+    stakeholders:
+    - org: tcc-group
+      share: 97%
+      from: 2016
+      note: Acquired from Casino Group for $3.4B
   bigbear-ai:
     type: company
     founded: 2020
@@ -1836,6 +1925,25 @@ organizations:
       role: chairman
       from: 1974
       to: 1977
+  central-group:
+    name: Central Group
+    type: company
+    founded: 1947
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: retail
+    stakeholders:
+    - person: tiang-chirathivat
+      role: founder
+      from: 1947
+      to: 1968
+    - person: tos-chirathivat
+      role: executive
+      from: 2013
+      note: CEO
+    - person: samrit-chirathivat
+      role: chairman
+      note: Chairman 21 years
   cepi:
     name: Coalition for Epidemic Preparedness Innovations
     type: agency
@@ -2049,6 +2157,13 @@ organizations:
     - org: ccp
       share: 100%
       note: Via Propaganda Dept
+  china-mobile:
+    name: China Mobile
+    type: company
+    founded: 1997
+    headquarters: Hong Kong
+    status: active
+    sector: telecommunications
   cia:
     name: Central Intelligence Agency
     type: agency
@@ -2550,6 +2665,69 @@ organizations:
       from: 1923
       to: 1924
       note: Direttore e AD
+  cp-all:
+    name: CP All
+    type: company
+    founded: 1988
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: retail
+    stakeholders:
+    - org: cp-group
+      share: ~42%
+      note: Subsidiary, operator 7-Eleven Thailand (35.92% direct + subsidiaries)
+    - org: 7-eleven
+      role: franchise
+      from: 1988
+      note: Area license Thailand, Cambodia, Laos
+  cp-axtra:
+    name: CP Axtra
+    type: company
+    founded: 1988
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: retail
+    stakeholders:
+    - org: cp-all
+      from: 2013
+      note: Subsidiary (Makro + Lotus)
+    - org: tesco
+      share: 0%
+      from: 1998
+      to: 2020
+      note: Ex-owner Tesco Lotus, sold to CP Group for $10.6B
+  cp-group:
+    name: Charoen Pokphand Group
+    type: company
+    founded: 1921
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: conglomerate
+    stakeholders:
+    - person: chia-ek-chor
+      role: founder
+      from: 1921
+    - person: dhanin-chearavanont
+      role: chairman
+      from: 1969
+      to: 2017
+      note: Senior Chairman from 2017
+    - person: soopakij-chearavanont
+      role: chairman
+      from: 2017
+    - person: suphachai-chearavanont
+      role: executive
+      from: 2017
+      note: CEO
+  cpf:
+    name: Charoen Pokphand Foods
+    type: company
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: agribusiness
+    stakeholders:
+    - org: cp-group
+      note: Subsidiary
   credit-suisse:
     name: Credit Suisse
     type: bank
@@ -2572,6 +2750,18 @@ organizations:
     stakeholders:
     - person: richard-dearlove
       role: chairman
+  crown-property-bureau:
+    name: Crown Property Bureau / Privy Purse Bureau
+    type: foundation
+    founded: 1936
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: royal holdings
+    stakeholders:
+    - person: vajiralongkorn
+      role: chairman
+      from: 2018
+      note: Full personal ownership since 2018 reform
   cvc-capital-partners:
     name: CVC Capital Partners
     type: privateequity
@@ -3427,6 +3617,18 @@ organizations:
     stakeholders:
     - org: fox-corporation
       share: 100%
+  fraser-neave:
+    name: Fraser and Neave Limited
+    type: company
+    headquarters: Singapore
+    status: active
+    sector: beverages
+    stakeholders:
+    - person: charoen-sirivadhanabhakdi
+      role: chairman
+      from: 2013
+      to: 2025
+      note: Chairman emeritus dal 2025
   free-iliad:
     name: Iliad/Free
     type: company
@@ -4454,6 +4656,40 @@ organizations:
       from: 1944
       to: 1945
       note: Legazione Svezia Budapest
+  governo-thailandia:
+    type: government
+    headquarters: Bangkok, Thailand
+    status: active
+    stakeholders:
+    - person: thaksin-shinawatra
+      role: leader
+      from: 2001
+      to: 2006
+      note: Prime Minister
+    - person: yingluck-shinawatra
+      role: leader
+      from: 2011
+      to: 2014
+      note: Prime Minister
+    - person: paetongtarn-shinawatra
+      role: leader
+      from: 2024
+      to: 2025
+      note: Prime Minister
+    - person: somchai-wongsawat
+      role: leader
+      from: 2008
+      to: 2008
+      note: Prime Minister
+    - person: srettha-thavisin
+      role: leader
+      from: 2023
+      to: 2024
+      note: Prime Minister
+    - person: vajiralongkorn
+      role: leader
+      from: 2016
+      note: King Rama X
   governo-turchia:
     name: Governo della Turchia
     type: government
@@ -4935,6 +5171,19 @@ organizations:
     - org: battery-ventures
       role: investor
       note: 'Exit: Akamai acquisition'
+  gulf-energy:
+    name: Gulf Development
+    type: company
+    founded: 1994
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: energy, telecom, infrastructure
+    note: Ex Gulf Energy Development, fusione con Intouch Holdings aprile 2025
+    stakeholders:
+    - person: sarath-ratanavadi
+      role: founder
+      from: 1994
+      note: CEO, 35.67% stake
   gulf-oil:
     name: Gulf Oil
     type: company
@@ -5295,6 +5544,21 @@ organizations:
     stakeholders:
     - person: giovanni-bazoli
       role: executive
+  intouch-holdings:
+    name: Intouch Holdings
+    type: company
+    founded: 1983
+    headquarters: Bangkok, Thailand
+    status: merged
+    sector: telecom holding
+    note: Ex Shin Corporation, fusa in Gulf Development aprile 2025
+    stakeholders:
+    - org: shin-corporation
+      note: Rebranded to Intouch 2011-2014
+    - org: gulf-energy
+      share: 42.25
+      from: 2021
+      note: Major shareholder
   investor-ab:
     name: Investor AB
     type: company
@@ -5556,6 +5820,33 @@ organizations:
     stakeholders:
     - org: joongang-group
       share: 100%
+  kadewe:
+    name: KaDeWe Group
+    type: company
+    founded: 1907
+    headquarters: Berlin, Germany
+    status: active
+    sector: luxury retail
+    note: 'Kaufhaus des Westens. 3 stores: KaDeWe Berlin, Alsterhaus Hamburg, Oberpollinger Munich'
+    stakeholders:
+    - org: central-group
+      share: 100
+      from: 2015
+      note: 50.1% from 2015, 100% from Aug 2024 after Signa collapse
+    - org: signa-holding
+      share: 49.9
+      from: 2015
+      to: 2024
+      note: Also landlord of buildings. Collapsed Nov 2023
+  kasikornbank:
+    name: Kasikornbank
+    type: bank
+    headquarters: Bangkok, Thailand
+    status: active
+    stakeholders:
+    - person: saravoot-yoovidhya
+      role: board
+      note: Main board director
   kgb:
     name: Komitet Gosudarstvennoy Bezopasnosti
     type: agency
@@ -5656,6 +5947,30 @@ organizations:
       role: board
       from: 2012
       to: 2023
+  krung-thai-bank:
+    name: Krungthai Bank
+    type: bank
+    founded: 1966
+    headquarters: Bangkok, Thailand
+    status: active
+    note: 'State-owned bank. FIDF (Ministry of Finance) owns 55%. Largest branch network (924). SET: KTB'
+    stakeholders:
+    - org: governo-thailandia
+      share: 55
+      from: 1966
+      note: Via Financial Institutions Development Fund (FIDF)
+  krungsri:
+    name: Bank of Ayudhya (Krungsri)
+    type: bank
+    founded: 1945
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: banking
+    stakeholders:
+    - org: mufg
+      role: parent
+      from: 2013
+      note: Majority shareholder, consolidated subsidiary
   kuhn-loeb:
     name: Kuhn Loeb
     type: bank
@@ -6435,6 +6750,12 @@ organizations:
       role: owner
       share: 100.0
       note: Fondo sovrano di Abu Dhabi
+  mufg:
+    name: Mitsubishi UFJ Financial Group
+    type: bank
+    headquarters: Tokyo, Japan
+    status: active
+    sector: banking
   nasdaq:
     name: NASDAQ
     type: company
@@ -7318,6 +7639,22 @@ organizations:
       role: owner
       share: 100%
       from: 2020
+  permata-bank:
+    name: PT Bank Permata Tbk
+    type: bank
+    founded: 1957
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: banking
+    stakeholders:
+    - person: chartsiri-sophonpanich
+      role: chairman
+      from: 2020
+      note: President Commissioner
+    - org: bangkok-bank
+      share: 98.71
+      from: 2020
+      note: Acquired for $2.3B from Standard Chartered/Astra; 98.71% after tender offer
   pfizer:
     name: Pfizer Inc.
     type: pharma
@@ -7334,6 +7671,25 @@ organizations:
       role: board
       from: 2019
       note: Joined 85 days after leaving FDA
+  pheu-thai:
+    name: Pheu Thai Party
+    founded: 2008
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: political party
+    stakeholders:
+    - person: thaksin-shinawatra
+      role: advisor
+      note: De facto leader
+    - person: yingluck-shinawatra
+      role: leader
+      from: 2011
+    - person: paetongtarn-shinawatra
+      role: leader
+      from: 2023
+    - person: srettha-thavisin
+      role: member
+      from: 2022
   pif:
     name: Public Investment Fund
     type: swf
@@ -7626,6 +7982,31 @@ organizations:
     - org: cairo-communication
       share: controlling
       from: 2016
+  red-bull:
+    name: Red Bull GmbH
+    type: company
+    founded: 1984
+    headquarters: Fuschl am See, Austria
+    status: active
+    sector: beverages
+    stakeholders:
+    - person: chaleo-yoovidhya
+      role: founder
+      from: 1984
+      to: 2012
+      note: 49% stake
+    - person: chalerm-yoovidhya
+      role: board
+      from: 1984
+      note: 2% personal stake
+    - person: dietrich-mateschitz
+      role: founder
+      from: 1984
+      to: 2022
+      note: 49% stake, CEO
+    - org: tcp-group
+      share: 51
+      note: Yoovidhya family stake (49% + 2%)
   red-dot-capital:
     type: privateequity
     headquarters: Tel Aviv, Israel
@@ -8058,6 +8439,13 @@ organizations:
       share: 21.67
       from: 2022
       note: €80M acquisition from Olivedesportos
+  scbx:
+    name: SCBX Public Company Limited
+    type: company
+    founded: 2021
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: fintech
   sciences-po:
     founded: 1872
     headquarters: Paris
@@ -8146,6 +8534,39 @@ organizations:
       note: CEO 1997, Vice Chairman 2005-2014
     - org: investor-ab
       role: major-shareholder
+  selfridges:
+    name: Selfridges Group
+    type: company
+    founded: 1909
+    headquarters: London, UK
+    status: active
+    sector: luxury retail
+    stakeholders:
+    - person: galen-weston-sr
+      role: owner
+      from: 2003
+      to: 2022
+      note: Acquired for £598M, sold to Central/Signa for ~£4B
+    - org: pif
+      share: 40
+      from: 2024
+      note: Acquired from Signa (collapsed Nov 2023)
+    - org: central-group
+      share: 60
+      from: 2022
+      note: Acquired with Signa 2022, sole control 2024 with PIF
+    - org: signa-holding
+      share: 50
+      from: 2022
+      to: 2024
+      note: JV with Central Group, sold to PIF after Signa collapse
+  seven-i-holdings:
+    name: Seven & I Holdings
+    type: company
+    founded: 2005
+    headquarters: Tokyo, Japan
+    status: active
+    sector: retail
   sg-warburg:
     name: S.G. Warburg
     type: bank
@@ -8171,6 +8592,52 @@ organizations:
       from: 1948
       to: 1952
       note: Fondatore e primo direttore
+  shin-corporation:
+    name: Shin Corporation
+    type: company
+    founded: 1983
+    headquarters: Bangkok, Thailand
+    status: rebranded
+    sector: telecommunications conglomerate
+    stakeholders:
+    - person: thaksin-shinawatra
+      role: founder
+      from: 1987
+      to: 2006
+    - org: temasek
+      share: 49.6
+      from: 2006
+      note: Acquired from Shinawatra family for $1.88B
+  siam-cement-group:
+    name: Siam Cement Group
+    type: company
+    founded: 1913
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: industrial conglomerate
+    stakeholders:
+    - org: crown-property-bureau
+      share: 30
+      note: Founding stake, transferred to King 2018
+  siam-commercial-bank:
+    name: Siam Commercial Bank
+    type: bank
+    founded: 1907
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: banking
+    stakeholders:
+    - person: vajiralongkorn
+      role: shareholder
+      from: 2018
+      note: Largest shareholder (transferred from CPB)
+    - org: crown-property-bureau
+      share: 21
+      note: Founding stake, transferred to King 2018
+    - org: scbx
+      role: parent
+      from: 2022
+      note: Holding company restructuring
   siap:
     name: SIAP - Società Italo Americana pel Petrolio
     type: company
@@ -8188,6 +8655,13 @@ organizations:
       role: owner
       from: 1891
       note: Filiale italiana Standard Oil
+  signa-holding:
+    name: Signa Holding
+    type: company
+    founded: 2000
+    headquarters: Innsbruck, Austria
+    status: defunct
+    note: Collapsed Nov 2023, €5B debt. Founded by René Benko
   silver-lake:
     name: Silver Lake
     type: privateequity
@@ -8349,6 +8823,11 @@ organizations:
       role: owner
       from: 2016
       note: Acquired brand/IP at bankruptcy auction
+  standard-chartered:
+    name: Standard Chartered Bank
+    type: bank
+    headquarters: London, UK
+    status: active
   standard-oil:
     name: Standard Oil
     type: company
@@ -8505,6 +8984,29 @@ organizations:
     stakeholders:
     - org: warner-bros-discovery
       share: 100%
+  tcc-group:
+    name: TCC Group
+    type: company
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: conglomerate
+    stakeholders:
+    - person: charoen-sirivadhanabhakdi
+      role: chairman
+  tcp-group:
+    name: TC Pharmaceutical / TCP Group
+    type: company
+    founded: 1956
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: beverages, pharmaceuticals
+    stakeholders:
+    - person: chaleo-yoovidhya
+      role: founder
+      from: 1956
+    - person: saravoot-yoovidhya
+      role: executive
+      note: Red Bull Thailand
   telecom-italia:
     name: Telecom Italia
     type: company
@@ -8526,6 +9028,13 @@ organizations:
     stakeholders:
     - org: nbcuniversal
       share: 100%
+  telenor:
+    name: Telenor
+    type: company
+    founded: 1855
+    headquarters: Fornebu, Norway
+    status: active
+    sector: telecommunications
   televisaunivision:
     name: TelevisaUnivision
     type: media
@@ -8545,6 +9054,13 @@ organizations:
     headquarters: Singapore
     status: active
     aum: $324B
+  tesco:
+    name: Tesco PLC
+    type: company
+    founded: 1919
+    headquarters: Welwyn Garden City, UK
+    status: active
+    sector: retail
   tesla:
     name: Tesla
     type: automaker
@@ -8637,6 +9153,35 @@ organizations:
     stakeholders:
     - org: bouygues
       share: majority
+  thai-beverage:
+    name: Thai Beverage Public Company Limited
+    type: company
+    founded: 2003
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: beverages
+    stakeholders:
+    - person: charoen-sirivadhanabhakdi
+      role: founder
+    - person: thapana-sirivadhanabhakdi
+      role: executive
+      note: CEO
+  thaicom:
+    name: Thaicom
+    type: company
+    founded: 1991
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: satellite telecom
+    note: Leader satellite telecom Thailand
+    stakeholders:
+    - org: shin-corporation
+      note: Subsidiary
+    - org: gulf-energy
+      role: major shareholder
+      share: 40%+
+      from: 2025
+      note: Direct and indirect ownership
   thames-water:
     name: Thames Water
     type: company
@@ -8962,6 +9507,30 @@ organizations:
       note: CEO at launch
     - org: trt
       share: 100%
+  true-corporation:
+    name: True Corporation
+    type: company
+    founded: 1990
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: telecommunications
+    stakeholders:
+    - person: suphachai-chearavanont
+      role: chairman
+      from: 2023
+      note: Chairman post-merger
+    - org: cp-group
+      share: 30.3%
+      from: 2023
+      note: Equal partner post-merger, via CP Telecommunications
+    - org: telenor
+      share: 30.3%
+      from: 2023
+      note: Equal partner post-merger
+    - org: china-mobile
+      share: 7.8%
+      from: 2014
+      note: Strategic partner, reduced from 18%
   tsmc:
     name: TSMC
     type: company
@@ -9611,6 +10180,24 @@ organizations:
     - person: shimon-peres
       role: speaker
       note: Davos 1994, 2001 (con Arafat)
+    - person: thaksin-shinawatra
+      role: member
+      note: Davos participant
+    - person: yingluck-shinawatra
+      role: member
+      note: WEF East Asia 2012 host
+    - person: paetongtarn-shinawatra
+      role: member
+      note: Davos 2025 participant
+    - person: suphachai-chearavanont
+      role: member
+      note: Co-Chair Summer Davos 2019
+    - person: chartsiri-sophonpanich
+      role: member
+      note: Davos speaker 2016
+    - person: tos-chirathivat
+      role: member
+      note: WEF profile
     - org: bilderberg
       role: partner
     - org: fmi

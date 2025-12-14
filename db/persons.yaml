@@ -887,6 +887,31 @@ persons:
       from: 1920
       to: 1946
       note: President WZO (con interruzioni)
+  chaleo-yoovidhya:
+    died: 2012
+    nationality: THA
+    family: yoovidhya
+    affiliations:
+    - org: red-bull
+      role: founder
+      from: 1984
+      to: 2012
+      note: 49% stake
+    - org: tcp-group
+      role: founder
+      from: 1956
+    relations:
+    - person: dietrich-mateschitz
+      type: business partner
+  chalerm-yoovidhya:
+    born: 1950
+    nationality: THA
+    family: yoovidhya
+    affiliations:
+    - org: red-bull
+      role: board
+      from: 1984
+      note: 2% personal stake
   charles-iii:
     born: 1948
     nationality: GBR
@@ -913,6 +938,45 @@ persons:
       from: 1978
       to: 2023
       note: Vice Chairman 1978-2023. Morto novembre 2023
+  charoen-sirivadhanabhakdi:
+    born: 1944
+    nationality: THA
+    family: sirivadhanabhakdi
+    affiliations:
+    - org: thai-beverage
+      role: founder
+    - org: tcc-group
+      role: chairman
+    - org: fraser-neave
+      role: chairman
+      from: 2013
+      to: 2025
+      note: Chairman emeritus dal 2025
+  chartsiri-sophonpanich:
+    born: 1959
+    nationality: THA
+    family: sophonpanich
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos speaker 2016
+    - org: bangkok-bank
+      role: executive
+      from: 1994
+      note: President
+    - org: permata-bank
+      role: chairman
+      from: 2020
+      note: President Commissioner
+  chatri-sophonpanich:
+    nationality: THA
+    family: sophonpanich
+    affiliations:
+    - org: bangkok-bank
+      role: executive
+      from: 1980
+      to: 1992
+      note: President
   chauncey-mclean:
     nationality: USA
     note: Future Forward founder/president; Obama 2012 data pioneer; PFB Media co-owner
@@ -943,6 +1007,24 @@ persons:
     - person: edward-snowden
       type: fellow whistleblower
       note: Both leaked classified US government documents
+  chia-ek-chor:
+    died: 1983
+    nationality: THA
+    family: chearavanont
+    affiliations:
+    - org: cp-group
+      role: founder
+      from: 1921
+  chin-sophonpanich:
+    born: 1910
+    died: 1988
+    nationality: THA
+    family: sophonpanich
+    affiliations:
+    - org: bangkok-bank
+      role: founder
+      from: 1944
+      to: 1988
   christian-sinding:
     nationality: NOR
     affiliations:
@@ -1307,9 +1389,29 @@ persons:
       role: chairman
       from: 2015
       note: Club President, ex-footballer (Barca, Atlético)
+  dhanin-chearavanont:
+    born: 1939
+    nationality: THA
+    family: chearavanont
+    affiliations:
+    - org: cp-group
+      role: chairman
+      from: 1969
+      to: 2017
+      note: Senior Chairman from 2017
   dick-cheney:
     born: 1941
     nationality: USA
+  dietrich-mateschitz:
+    born: 1944
+    died: 2022
+    nationality: AUT
+    affiliations:
+    - org: red-bull
+      role: founder
+      from: 1984
+      to: 2022
+      note: 49% stake, CEO
   donald-mackenzie:
     nationality: GBR
     affiliations:
@@ -1991,6 +2093,17 @@ persons:
       role: executive
       from: 1989
       to: 1993
+  galen-weston-sr:
+    born: 1940
+    died: 2021
+    nationality: CAN
+    note: Acquired Selfridges 2003 for £598M
+    affiliations:
+    - org: selfridges
+      role: owner
+      from: 2003
+      to: 2022
+      note: Acquired for £598M, sold to Central/Signa for ~£4B
   gary-cohn:
     born: 1960
     nationality: USA
@@ -5069,6 +5182,22 @@ persons:
       role: founder
       from: 2008
       note: Co-founder, CMO
+  paetongtarn-shinawatra:
+    born: 1986
+    nationality: THA
+    family: shinawatra
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos 2025 participant
+    - org: governo-thailandia
+      role: leader
+      from: 2024
+      to: 2025
+      note: Prime Minister
+    - org: pheu-thai
+      role: leader
+      from: 2023
   paolo-scaroni:
     born: 1946
     nationality: ITA
@@ -5961,6 +6090,13 @@ persons:
     - org: walmart
       role: founder
       from: 1962
+  samrit-chirathivat:
+    nationality: THA
+    family: chirathivat
+    affiliations:
+    - org: central-group
+      role: chairman
+      note: Chairman 21 years
   samuel-hoare:
     born: 1880
     died: 1959
@@ -6021,6 +6157,25 @@ persons:
     - org: tony-blair-institute
       role: advisor
       from: 2023
+  sarath-ratanavadi:
+    born: 1965
+    nationality: Thai
+    note: 'Fondatore Gulf Energy, #1 azionista piu ricco Thailand'
+    affiliations:
+    - org: gulf-energy
+      role: founder
+      from: 1994
+      note: CEO, 35.67% stake
+  saravoot-yoovidhya:
+    nationality: THA
+    family: yoovidhya
+    affiliations:
+    - org: tcp-group
+      role: executive
+      note: Red Bull Thailand
+    - org: kasikornbank
+      role: board
+      note: Main board director
   satya-nadella:
     born: 1967
     nationality: USA
@@ -6222,6 +6377,37 @@ persons:
       from: 2025
       to: 2025
       note: Tánaiste, Foreign Affairs
+  somchai-wongsawat:
+    born: 1947
+    nationality: THA
+    affiliations:
+    - org: governo-thailandia
+      role: leader
+      from: 2008
+      to: 2008
+      note: Prime Minister
+    relations:
+    - person: thaksin-shinawatra
+      type: brother-in-law
+  soopakij-chearavanont:
+    nationality: THA
+    family: chearavanont
+    affiliations:
+    - org: cp-group
+      role: chairman
+      from: 2017
+  srettha-thavisin:
+    born: 1963
+    nationality: THA
+    affiliations:
+    - org: governo-thailandia
+      role: leader
+      from: 2023
+      to: 2024
+      note: Prime Minister
+    - org: pheu-thai
+      role: member
+      from: 2022
   stefan-quandt:
     born: 1966
     nationality: DEU
@@ -6370,6 +6556,21 @@ persons:
       role: founder
       from: 1976
       to: 1985
+  suphachai-chearavanont:
+    nationality: THA
+    family: chearavanont
+    affiliations:
+    - org: wef
+      role: member
+      note: Co-Chair Summer Davos 2019
+    - org: cp-group
+      role: executive
+      from: 2017
+      note: CEO
+    - org: true-corporation
+      role: chairman
+      from: 2023
+      note: Chairman post-merger
   susan-rice:
     born: 1964
     nationality: USA
@@ -6433,6 +6634,36 @@ persons:
       role: executive
       from: 2017
       note: Director-General
+  thaksin-shinawatra:
+    born: 1949
+    nationality: THA
+    family: shinawatra
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos participant
+    - org: governo-thailandia
+      role: leader
+      from: 2001
+      to: 2006
+      note: Prime Minister
+    - org: shin-corporation
+      role: founder
+      from: 1987
+      to: 2006
+    - org: ais
+      role: founder
+      from: 1990
+    - org: pheu-thai
+      role: advisor
+      note: De facto leader
+  thapana-sirivadhanabhakdi:
+    nationality: THA
+    family: sirivadhanabhakdi
+    affiliations:
+    - org: thai-beverage
+      role: executive
+      note: CEO
   theodor-herzl:
     born: 1860
     died: 1904
@@ -6532,6 +6763,16 @@ persons:
       role: executive
       from: 2023
       note: CEO
+  tiang-chirathivat:
+    born: 1905
+    died: 1968
+    nationality: THA
+    family: chirathivat
+    affiliations:
+    - org: central-group
+      role: founder
+      from: 1947
+      to: 1968
   tim-cook:
     born: 1960
     nationality: USA
@@ -6612,6 +6853,27 @@ persons:
     - org: fabian-society
       role: member
       note: PM Labour 1997-2007
+  tony-fernandes:
+    born: 1964
+    nationality: MYS
+    note: AirAsia founder. Ex-Warner Music. Ex-QPR owner (2011-2023)
+    affiliations:
+    - org: airasia
+      role: founder
+      from: 2001
+      note: Co-founder with Kamarudin Meranun. CEO Capital A
+  tos-chirathivat:
+    born: 1964
+    nationality: THA
+    family: chirathivat
+    affiliations:
+    - org: wef
+      role: member
+      note: WEF profile
+    - org: central-group
+      role: executive
+      from: 2013
+      note: CEO
   ugur-sahin:
     born: 1965
     nationality: TUR-DEU
@@ -6651,6 +6913,22 @@ persons:
     - org: commissione-ue
       role: executive
       from: 2019
+  vajiralongkorn:
+    born: 1952
+    nationality: THA
+    affiliations:
+    - org: governo-thailandia
+      role: leader
+      from: 2016
+      note: King Rama X
+    - org: crown-property-bureau
+      role: chairman
+      from: 2018
+      note: Full personal ownership since 2018 reform
+    - org: siam-commercial-bank
+      role: shareholder
+      from: 2018
+      note: Largest shareholder (transferred from CPB)
   vas-narasimhan:
     born: 1976
     nationality: USA
@@ -6994,6 +7272,22 @@ persons:
       from: 1994
       to: 2004
       note: President
+  yingluck-shinawatra:
+    born: 1967
+    nationality: THA
+    family: shinawatra
+    affiliations:
+    - org: wef
+      role: member
+      note: WEF East Asia 2012 host
+    - org: governo-thailandia
+      role: leader
+      from: 2011
+      to: 2014
+      note: Prime Minister
+    - org: pheu-thai
+      role: leader
+      from: 2011
   yitzhak-rabin:
     born: 1922
     died: 1995
