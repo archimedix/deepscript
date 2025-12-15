@@ -16,8 +16,8 @@ argument-hint: "<tipo> <nome>"
 Argomento: $ARGUMENTS
 
 Formato: `<tipo> <nome-entita>`
-- tipo: person | org | family | event
-- nome: identificativo (es. "mario-draghi", "rockefeller", "bilderberg")
+- tipo: person | org | family | event | gov
+- nome: identificativo (es. "mario-draghi", "rockefeller", "bilderberg", "governo-italia")
 
 Se manca tipo o nome, chiedi all'utente.
 
@@ -37,6 +37,9 @@ MATCH (f:Family {id: 'nome-id'}) RETURN f
 
 // Per evento
 MATCH (e:Event {id: 'nome-id'}) RETURN e
+
+// Per governo (shortcut per Organization:Government)
+MATCH (g:Organization:Government {id: 'nome-id'}) RETURN g
 ```
 
 Controlla se esiste gia' la scheda in `docs/`.
@@ -133,6 +136,23 @@ SET e.year = 2008,
     e.location = 'USA'
 ```
 
+**Government (shortcut `gov`):**
+```cypher
+MERGE (g:Organization {id: 'governo-paese'})
+SET g:Government,
+    g.name = 'Governo di [Paese]',
+    g.founded = 1948,
+    g.headquarters = 'City, Country',
+    g.system = 'republic',  // monarchy, republic, etc.
+    g.status = 'active'
+```
+
+Per i governi, cerca e documenta:
+- **Capi di Stato/Governo**: presidenti, re, primi ministri (role: `leader`)
+- **Ministri chiave**: economia, esteri, difesa (role: `minister`)
+- **Timeline leader**: successione storica dei capi
+- **Relazioni con org nel DB**: banche centrali, SWF, aziende di stato
+
 ### 5. Crea scheda markdown
 
 **IMPORTANTE:** Leggi il template corrispondente e usalo come base per la scheda.
@@ -144,6 +164,7 @@ SET e.year = 2008,
 | event | `templates/event.md` | `docs/events/` |
 | org | `templates/org.md` | vedi tabella sub-label |
 | org:Media | `templates/media.md` | `docs/media/` |
+| gov | `templates/gov.md` | `docs/government/` |
 
 **Sub-label Organization → Cartella:**
 

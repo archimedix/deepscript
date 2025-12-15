@@ -557,13 +557,28 @@ La Thailandia ha registrato un **record decennale** di investimenti esteri nel 2
 
 ---
 
-## Eastern Economic Corridor (EEC)
+## Eastern Seaboard ed EEC
+
+### Eastern Seaboard Development Program (1982)
+
+> Vedi scheda completa: [Eastern Seaboard](../docs/agency/eastern-seaboard.md)
+
+Il predecessore dell'EEC, lanciato sotto il PM [Prem Tinsulanonda](../docs/persons/prem-tinsulanonda.md):
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Lancio** | 1982 (5° Piano Nazionale) |
+| **Finanziatore** | Giappone (JICA/OECF) ~$1.6B |
+| **World Bank** | Rifiuto' il progetto come "irrazionale" |
+| **Infrastrutture** | Porti Laem Chabang e Map Ta Phut |
+| **Settori** | Petrolchimica, automotive, elettronica |
+| **Eredita'** | Base industriale per export-led growth |
+
+### Eastern Economic Corridor (EEC) - 2017
 
 > Vedi scheda completa: [EEC](../docs/agency/eec.md)
 
-### Overview
-
-Megaprogetto da **$44 miliardi** (approvato 2022) per trasformare tre province orientali in hub tecnologico:
+Successore dell'Eastern Seaboard. Megaprogetto da **$44 miliardi** (approvato 2022) per trasformare tre province orientali in hub tecnologico:
 
 | Provincia | Ruolo |
 |-----------|-------|
@@ -579,11 +594,11 @@ Megaprogetto da **$44 miliardi** (approvato 2022) per trasformare tre province o
 | Quota su totale EEC | 16% |
 | Focus | EV, energia, infrastrutture |
 
-### Infrastrutture Chiave (BRI)
+### Infrastrutture Chiave ([BRI](../docs/agency/bri.md))
 
 | Progetto | Partner | Status |
 |----------|---------|--------|
-| Ferrovia Bangkok-Nong Khai | Cina (Belt and Road) | Completamento 2028 |
+| Ferrovia Bangkok-Nong Khai | Cina ([Belt and Road](../docs/agency/bri.md)) | Completamento 2028 |
 | Aeroporto U-Tapao | Zhengzhou Airport Zone | In sviluppo |
 | Hub e-commerce | Alibaba | $320M investiti |
 
@@ -597,7 +612,7 @@ Megaprogetto da **$44 miliardi** (approvato 2022) per trasformare tre province o
 | GAC Aion | Stabilimento | EV puri |
 | MG (SAIC) | Stabilimento | JV con CP Group |
 
-**Implicazione**: L'EEC rappresenta l'integrazione della Thailandia nella **Belt and Road Initiative** cinese, trasformando il paese in hub manifatturiero EV per il Sud-Est Asiatico.
+**Implicazione**: L'EEC rappresenta l'integrazione della Thailandia nella **[Belt and Road Initiative](../docs/agency/bri.md)** cinese ($1.175 trilioni investiti globalmente 2013-2024), trasformando il paese in hub manifatturiero EV per il Sud-Est Asiatico.
 
 ---
 
@@ -658,6 +673,8 @@ Il duopolio telecom (True vs AIS) si estende ai contenuti media.
 | **1966** | Krungthai Bank fondato | Banca statale |
 | **1976** | Krating Daeng lanciato | Precursore Red Bull |
 | **1979** | CP primo in Cina | Ponte Cina-Thailandia |
+| **1980** | [Prem Tinsulanonda](../docs/persons/prem-tinsulanonda.md) diventa PM | Apertura economia |
+| **1982** | [Eastern Seaboard](../docs/agency/eastern-seaboard.md) lanciato | Giappone finanzia dopo rifiuto World Bank |
 | **1983** | Shin Corp fondato | Thaksin inizia |
 | **1984** | Red Bull GmbH | Partnership globale |
 | **1987** | AIS fondato | Thaksin domina telecom |
@@ -674,7 +691,7 @@ Il duopolio telecom (True vs AIS) si estende ai contenuti media.
 | **2014** | Colpo di stato | Fine seconda era |
 | **2015** | Gulf acquista quota Temasek in Shin Corp | Ratanavadi entra in telecom |
 | **2016** | Morte Rama IX; TCC acquista Big C ($3.4B) | Nuovo Re; Sirivadhanabhakdi entra retail |
-| **2017** | Gulf Energy IPO (THB 25B, maggiore in 10 anni) | Ratanavadi diventa billionaire |
+| **2017** | Gulf Energy IPO; [EEC](../docs/agency/eec.md) fondato (successore ESB) | Ratanavadi billionaire; Cina sostituisce Giappone |
 | **2018** | Riforma CPB; acquisizione ostile Nation Group | Corona = proprietario personale; media shift conservatore |
 | **2020** | Bangkok Bank acquista Permata ($2.7B); CP riacquista Lotus da Tesco ($10.6B) | Espansione ASEAN; CP riprende hypermarket |
 | **2021** | Gulf acquisisce partecipazioni in Intouch/AIS | Consolidamento telecom |
@@ -767,33 +784,46 @@ GULF DEVELOPMENT ($25B)
 
 La Thailandia sta vivendo una transizione storica nelle fonti di capitale estero:
 
-| Decennio | Investitore Dominante | Settore |
-|----------|----------------------|---------|
-| 1960-2010 | Giappone | Auto, elettronica |
-| 2010-oggi | Cina | EV, infrastrutture, data center |
+| Decennio | Investitore Dominante | Settore | Veicolo |
+|----------|----------------------|---------|---------|
+| 1960-2010 | Giappone | Auto, elettronica | [Eastern Seaboard](../docs/agency/eastern-seaboard.md) (JICA/OECF) |
+| 2010-oggi | Cina | EV, infrastrutture, data center | [EEC](../docs/agency/eec.md) via [BRI](../docs/agency/bri.md) |
+
+**Parallelismo storico:**
+
+| Aspetto | ESB (1982) | EEC (2017) |
+|---------|------------|------------|
+| **Partner estero** | Giappone | Cina |
+| **Finanziamento** | JICA/OECF ~$1.6B | BRI (parte di $1.175T globali) |
+| **World Bank** | Rifiuto' il progetto | Non coinvolta |
+| **PM promotore** | Prem Tinsulanonda (militare) | Prayuth Chan-o-cha (militare) |
+| **Settori** | Petrolchimica, auto ICE | EV, data center, hi-tech |
 
 **Evidenze dello shift:**
 - Cina #2 investitore (dopo Singapore), Giappone #5
-- EEC integrato nella Belt and Road Initiative
+- EEC integrato nella [Belt and Road Initiative](../docs/agency/bri.md) ($8.4B investimenti cinesi 2019-2024)
 - Produttori EV cinesi (BYD, Great Wall) sostituiscono legacy giapponese
-- Ferrovia Bangkok-Nong Khai connette alla rete cinese
+- Ferrovia Bangkok-Nong Khai connette alla rete ferroviaria cinese (completamento 2028)
 - CP Group ponte storico (dal 1979, certificato Shenzhen #0001)
+
+**Implicazione geopolitica**: La Thailandia replica il modello ESB (infrastrutture finanziate da potenza estera per industrializzazione) ma con la Cina al posto del Giappone, inserendosi nella competizione USA-Cina per l'influenza nel Sud-Est Asiatico.
 
 ---
 
 ## Statistiche Aggregate
 
-### Entita' nel Database
+### Entita' nel Database (Thailand-related)
 
-| Tipo | Conteggio |
-|------|-----------|
-| Famiglie | 7 |
-| Persone | 22 |
-| Organizzazioni | 37 |
-| Banche | 5 |
-| Retail | 8 |
-| Telecom | 5 |
-| Energia | 1 |
+| Tipo | Conteggio | Note |
+|------|-----------|------|
+| Famiglie | 6 | Oligarchie sino-thailandesi |
+| Persone | 25+ | PM, oligarchi, Re |
+| Banche | 5 | SCB, Bangkok Bank, Kasikorn, Krungthai, Krungsri |
+| Retail | 8 | CP, TCC, Central |
+| Telecom | 5 | True, AIS, etc. |
+| Energia | 2 | Gulf, Thaicom |
+| Agenzie | 3 | ESB, EEC, BRI |
+| Governi | 1 | governo-thailandia |
 
 ### Patrimonio Totale Oligarchie
 
@@ -860,13 +890,19 @@ La Thailandia sta vivendo una transizione storica nelle fonti di capitale estero
 - [Thaicom](../docs/company/thaicom.md)
 
 ### Schede DeepScript - Agenzie
+- [Eastern Seaboard Development Program](../docs/agency/eastern-seaboard.md)
 - [Eastern Economic Corridor (EEC)](../docs/agency/eec.md)
+- [Belt and Road Initiative (BRI)](../docs/agency/bri.md)
+
+### Schede DeepScript - Governi
+- [Governo Thailandia](../docs/government/governo-thailandia.md)
 
 ### Schede DeepScript - Media
 - [Nation Thailand](../docs/media/nation-thailand.md)
 - [Asia News Network](../docs/media/asia-news-network.md)
 
 ### Schede DeepScript - Persone
+- [Prem Tinsulanonda](../docs/persons/prem-tinsulanonda.md)
 - [Sarath Ratanavadi](../docs/persons/sarath-ratanavadi.md)
 - [Chartsiri Sophonpanich](../docs/persons/chartsiri-sophonpanich.md)
 - [Tos Chirathivat](../docs/persons/tos-chirathivat.md)
@@ -882,6 +918,8 @@ La Thailandia sta vivendo una transizione storica nelle fonti di capitale estero
 - [WEF - CP Group Profile](https://www.weforum.org/organizations/charoen-pokphand-group/)
 - [Statrys - Best Thai Banks](https://statrys.com/blog/best-thai-banks)
 - [Nation Thailand - SOE Performance](https://www.nationthailand.com/business/corporate/40052372)
+- [CFR - China's Belt and Road Initiative](https://www.cfr.org/backgrounder/chinas-massive-belt-and-road-initiative)
+- [Green Finance - BRI Investment Report 2024](https://greenfdc.org/china-belt-and-road-initiative-bri-investment-report-2024/)
 
 ---
 

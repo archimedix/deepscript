@@ -36,13 +36,26 @@
 | **Fondazione** | 17 gennaio 2017 |
 | **Creato da** | National Council for Peace and Order (NCPO) |
 | **Base legale** | EEC Act (2017) |
-| **Contesto** | Successore del programma Eastern Seaboard Development |
+| **Contesto** | Successore del programma [Eastern Seaboard Development](eastern-seaboard.md) (1982) |
 | **Obiettivo dichiarato** | Promuovere integrazione economica dell'Eastern Seaboard |
+
+### Eredita' Eastern Seaboard
+
+L'EEC nasce per replicare il successo dell'[Eastern Seaboard Development Program](eastern-seaboard.md) (1982-2017):
+
+| Aspetto | ESB (1982) | EEC (2017) |
+|---------|------------|------------|
+| **Partner principale** | Giappone (JICA/OECF) | Cina (BRI) |
+| **Settori** | Petrolchimica, auto ICE | EV, data center, hi-tech |
+| **Infrastrutture legacy** | Laem Chabang, Map Ta Phut | Espansione e upgrade |
+| **PM promotore** | [Prem Tinsulanonda](../persons/prem-tinsulanonda.md) | [Prayuth Chan-o-cha](../persons/prayuth-chan-ocha.md) |
 
 ### Timeline Storica
 
 | Anno | Evento |
 |------|--------|
+| **1982** | Lancio [Eastern Seaboard](eastern-seaboard.md) sotto PM Prem |
+| **1991-92** | Apertura porti Laem Chabang e Map Ta Phut |
 | **2017** | Fondazione EECO, designazione 3 province |
 | **2018** | Inizio attrazione investimenti in 12 settori chiave |
 | **2022** | Approvazione piano $44 miliardi per smart city |
@@ -198,8 +211,10 @@
 | Entita' | Relazione |
 |---------|-----------|
 | [Governo Thailandia](../government/governo-thailandia.md) | Agenzia madre |
+| [Eastern Seaboard](eastern-seaboard.md) | **Predecessore** (1982-2017) |
 | BOI (Board of Investment) | Coordinamento incentivi |
 | Cina (BRI) | Partner infrastrutturale principale |
+| [Governo Giappone](../government/governo-giappone.md) | Partner legacy (via ESB) |
 
 ### Aziende Thai nel DB
 
