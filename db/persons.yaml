@@ -443,6 +443,14 @@ persons:
       role: chairman
       from: 2003
       note: Longest-serving Liga Portugal president
+  anutin-charnvirakul:
+    born: 1966
+    nationality: THA
+    affiliations:
+    - org: governo-thailandia
+      role: leader
+      from: 2025
+      note: Primo Ministro
   armen-panossian:
     nationality: USA
     note: Co-CEO Oaktree (2024-). Head Performing Credit.
@@ -3163,6 +3171,40 @@ persons:
     born: 1948
     nationality: USA
     family: walton
+  jin-liqun:
+    born: 1949
+    nationality: CHN
+    note: Fondatore e Presidente AIIB 2016-2025, ex Vice Min Finanze
+    affiliations:
+    - org: governo-cina
+      role: minister
+      from: 1998
+      to: 2003
+      note: Vice Minister of Finance
+    - org: cic
+      role: chairman
+      from: 2008
+      to: 2013
+      note: Chairman Supervisory Board
+    - org: aiib
+      role: executive
+      from: 2016
+      to: 2025
+      note: President & Chair
+    - org: adb
+      role: executive
+      from: 2003
+      to: 2008
+      note: Vice President, Ranking VP
+    - org: ifswf
+      role: chairman
+      from: 2009
+      to: 2012
+      note: Deputy Chairman poi Chairman
+    - org: cicc
+      role: chairman
+      from: 2013
+      to: 2014
   joao-roberto-marinho:
     born: 1953
     nationality: BRA
@@ -5194,10 +5236,19 @@ persons:
       role: leader
       from: 2024
       to: 2025
-      note: Prime Minister
+      note: Prima Ministro (Corte Costituzionale)
     - org: pheu-thai
       role: leader
       from: 2023
+  pan-gongsheng:
+    nationality: CHN
+    note: PBOC Governor dal 2023, ex SAFE Administrator 2016-2023
+    affiliations:
+    - org: safe
+      role: executive
+      from: 2016
+      to: 2023
+      note: Administrator
   paolo-scaroni:
     born: 1946
     nationality: ITA
@@ -5536,6 +5587,25 @@ persons:
       from: 1988
       to: 2022
       note: Co-founder, Executive Co-Chairman. Sold stake to Adani
+  prayuth-chan-ocha:
+    born: 1954
+    nationality: THA
+    affiliations:
+    - org: governo-thailandia
+      role: leader
+      from: 2014
+      to: 2023
+      note: Primo Ministro (golpista)
+  prem-tinsulanonda:
+    born: 1920
+    died: 2019
+    nationality: THA
+    affiliations:
+    - org: governo-thailandia
+      role: leader
+      from: 1980
+      to: 1988
+      note: Primo Ministro
   prescott-bush:
     born: 1895
     died: 1972
@@ -6385,7 +6455,7 @@ persons:
       role: leader
       from: 2008
       to: 2008
-      note: Prime Minister
+      note: Primo Ministro (sentenza tribunale)
     relations:
     - person: thaksin-shinawatra
       type: brother-in-law
@@ -6404,7 +6474,7 @@ persons:
       role: leader
       from: 2023
       to: 2024
-      note: Prime Minister
+      note: Primo Ministro (Corte Costituzionale)
     - org: pheu-thai
       role: member
       from: 2022
@@ -6646,7 +6716,7 @@ persons:
       role: leader
       from: 2001
       to: 2006
-      note: Prime Minister
+      note: Primo Ministro (colpo di stato)
     - org: shin-corporation
       role: founder
       from: 1987
@@ -6920,7 +6990,7 @@ persons:
     - org: governo-thailandia
       role: leader
       from: 2016
-      note: King Rama X
+      note: Re (Rama X)
     - org: crown-property-bureau
       role: chairman
       from: 2018
@@ -7204,9 +7274,13 @@ persons:
       role: founder
   xi-jinping:
     born: 1953
-    nationality: Chinese
+    nationality: CHN
     note: General Secretary CCP since 2012. President since 2013
     affiliations:
+    - org: governo-cina
+      role: leader
+      from: 2012
+      note: Presidente e Segretario Generale CCP
     - org: ccp
       role: general-secretary
       from: 2012
@@ -7284,7 +7358,7 @@ persons:
       role: leader
       from: 2011
       to: 2014
-      note: Prime Minister
+      note: Prima Ministro (colpo di stato)
     - org: pheu-thai
       role: leader
       from: 2011
@@ -7409,3 +7483,27 @@ persons:
       role: advisor
       from: 1977
       to: 1981
+  zhu-hexin:
+    nationality: CHN
+    note: SAFE Administrator, PBOC Deputy Governor, ex CITIC Chairman
+    affiliations:
+    - org: safe
+      role: executive
+      from: 2023
+      note: Administrator
+  zhu-jun:
+    nationality: CHN
+    note: Chairwoman Silk Road Fund, ex PBOC
+    affiliations:
+    - org: silk-road-fund
+      role: chairman
+      from: 2022
+      note: Chairwoman
+  zou-jiayi:
+    nationality: CHN
+    note: Presidente AIIB dal 2025, ex Vice Min Finanze
+    affiliations:
+    - org: aiib
+      role: executive
+      from: 2025
+      note: President

@@ -93,6 +93,18 @@ organizations:
     stakeholders:
     - person: gautam-adani
       role: chairman
+  adb:
+    name: Asian Development Bank
+    type: bank
+    founded: 1966
+    headquarters: Manila, Philippines
+    status: active
+    stakeholders:
+    - person: jin-liqun
+      role: executive
+      from: 2003
+      to: 2008
+      note: Vice President, Ranking VP
   adia:
     name: Abu Dhabi Investment Authority
     type: swf
@@ -171,6 +183,31 @@ organizations:
       from: 1926
       to: 1928
       note: Primo presidente, nominato da Mussolini
+  aiib:
+    name: Asian Infrastructure Investment Bank
+    type: bank
+    founded: 2016
+    headquarters: Beijing, China
+    status: active
+    aum: $100 billion (authorized capital)
+    note: MDB cinese, 111 membri, Cina 26.6% voti
+    stakeholders:
+    - person: jin-liqun
+      role: executive
+      from: 2016
+      to: 2025
+      note: President & Chair
+    - person: zou-jiayi
+      role: executive
+      from: 2025
+      note: President
+    - org: governo-cina
+      role: shareholder
+      share: 26.6%
+      note: Largest shareholder, veto power
+    - org: bri
+      role: founder
+      note: Veicolo finanziario BRI
   aipac:
     name: American Israel Public Affairs Committee
     type: thinktank
@@ -1637,6 +1674,18 @@ organizations:
     - person: jeff-bezos
       role: founder
       from: 2015
+  bri:
+    name: Belt and Road Initiative
+    type: agency
+    founded: 2013
+    headquarters: Beijing, China
+    status: active
+    sector: infrastructure
+    stakeholders:
+    - org: governo-cina
+      role: ownership
+      from: 2013
+      note: Iniziativa di Xi Jinping
   bridgewater:
     name: Bridgewater Associates
     type: assetmanager
@@ -2160,6 +2209,15 @@ organizations:
       role: partner
       from: 2006
       to: 2009
+  china-development-bank:
+    name: China Development Bank
+    type: bank
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - org: safe
+      role: shareholder
+      note: Via Buttonwood Investment
   china-media-group:
     name: China Media Group
     type: media
@@ -2330,6 +2388,22 @@ organizations:
     headquarters: Beijing, China
     status: active
     aum: $1.33T
+    stakeholders:
+    - person: jin-liqun
+      role: chairman
+      from: 2008
+      to: 2013
+      note: Chairman Supervisory Board
+  cicc:
+    name: China International Capital Corporation
+    type: bank
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - person: jin-liqun
+      role: chairman
+      from: 2013
+      to: 2014
   citigroup:
     name: Citigroup
     type: bank
@@ -2952,6 +3026,23 @@ organizations:
       role: chairman
       from: 1915
       to: 1919
+  eastern-seaboard:
+    name: Eastern Seaboard Development Program
+    type: agency
+    founded: 1982
+    headquarters: Bangkok, Thailand
+    status: completed
+    sector: development
+    note: Predecessore EEC, finanziato da Giappone (JICA/OECF)
+    stakeholders:
+    - org: governo-giappone
+      role: funder
+      from: 1982
+      note: $1.6B via JICA/OECF
+    - org: governo-thailandia
+      role: supervisione
+      from: 1982
+      note: Programma governativo
   ec-bahia:
     name: Esporte Clube Bahia
     type: sportsclub
@@ -3021,9 +3112,15 @@ organizations:
     sector: development
     stakeholders:
     - org: governo-thailandia
-      role: parent
+      role: supervisione
       from: 2017
-      note: Agenzia governativa creata da NCPO
+      note: Agenzia governativa
+    - org: eastern-seaboard
+      role: predecessor
+      note: EEC successore di ESB (2017)
+    - org: bri
+      role: partner
+      note: Infrastrutture ferroviarie e logistiche
   eib:
     name: European Investment Bank
     type: bank
@@ -3250,6 +3347,15 @@ organizations:
       role: executive
       from: 2005
       to: 2013
+  exim-bank-china:
+    name: Export-Import Bank of China
+    type: bank
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - org: safe
+      role: shareholder
+      note: Via Buttonwood Investment (majority)
   exor:
     name: EXOR
     type: company
@@ -4120,6 +4226,16 @@ organizations:
     name: Governo della Cina
     type: government
     headquarters: Beijing
+    stakeholders:
+    - person: xi-jinping
+      role: leader
+      from: 2012
+      note: Presidente e Segretario Generale CCP
+    - person: jin-liqun
+      role: minister
+      from: 1998
+      to: 2003
+      note: Vice Minister of Finance
   governo-cipro:
     name: Governo Cipro
     type: government
@@ -4296,7 +4412,8 @@ organizations:
   governo-giappone:
     name: Governo del Giappone
     type: government
-    headquarters: Tokyo
+    headquarters: Tokyo, Japan
+    status: active
   governo-grecia:
     name: Governo Grecia
     type: government
@@ -4684,7 +4801,9 @@ organizations:
       to: 1945
       note: Legazione Svezia Budapest
   governo-thailandia:
+    name: Regno di Thailandia
     type: government
+    founded: 1932
     headquarters: Bangkok, Thailand
     status: active
     stakeholders:
@@ -4692,31 +4811,45 @@ organizations:
       role: leader
       from: 2001
       to: 2006
-      note: Prime Minister
+      note: Primo Ministro (colpo di stato)
     - person: yingluck-shinawatra
       role: leader
       from: 2011
       to: 2014
-      note: Prime Minister
+      note: Prima Ministro (colpo di stato)
     - person: paetongtarn-shinawatra
       role: leader
       from: 2024
       to: 2025
-      note: Prime Minister
+      note: Prima Ministro (Corte Costituzionale)
     - person: somchai-wongsawat
       role: leader
       from: 2008
       to: 2008
-      note: Prime Minister
+      note: Primo Ministro (sentenza tribunale)
     - person: srettha-thavisin
       role: leader
       from: 2023
       to: 2024
-      note: Prime Minister
+      note: Primo Ministro (Corte Costituzionale)
     - person: vajiralongkorn
       role: leader
       from: 2016
-      note: King Rama X
+      note: Re (Rama X)
+    - person: prayuth-chan-ocha
+      role: leader
+      from: 2014
+      to: 2023
+      note: Primo Ministro (golpista)
+    - person: anutin-charnvirakul
+      role: leader
+      from: 2025
+      note: Primo Ministro
+    - person: prem-tinsulanonda
+      role: leader
+      from: 1980
+      to: 1988
+      note: Primo Ministro
   governo-turchia:
     name: Governo della Turchia
     type: government
@@ -5445,6 +5578,18 @@ organizations:
       from: 1948
       to: 1968
       note: Chief of Staff 1964-68
+  ifswf:
+    name: International Forum of Sovereign Wealth Funds
+    type: forum
+    founded: 2009
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: jin-liqun
+      role: chairman
+      from: 2009
+      to: 2012
+      note: Deputy Chairman poi Chairman
   ig-farben:
     name: IG Farben
     type: company
@@ -5983,9 +6128,10 @@ organizations:
     note: 'State-owned bank. FIDF (Ministry of Finance) owns 55%. Largest branch network (924). SET: KTB'
     stakeholders:
     - org: governo-thailandia
-      share: 55
+      role: majority
+      share: 55%
       from: 1966
-      note: Via Financial Institutions Development Fund (FIDF)
+      note: via FIDF
   krungsri:
     name: Bank of Ayudhya (Krungsri)
     type: bank
@@ -8279,6 +8425,28 @@ organizations:
       note: Sviluppo caccia Saab
     - org: investor-ab
       role: major-shareholder
+  safe:
+    name: State Administration of Foreign Exchange
+    type: agency
+    founded: 1979
+    headquarters: Beijing, China
+    status: active
+    aum: $3.3 trillion (forex reserves)
+    note: Gestisce riserve forex Cina, 65% Silk Road Fund
+    stakeholders:
+    - person: zhu-hexin
+      role: executive
+      from: 2023
+      note: Administrator
+    - person: pan-gongsheng
+      role: executive
+      from: 2016
+      to: 2023
+      note: Administrator
+    - org: governo-cina
+      role: ownership
+      share: 100%
+      note: Agenzia sotto State Council/PBOC
   samsung:
     name: Samsung Group
     type: company
@@ -8696,6 +8864,42 @@ organizations:
     headquarters: Innsbruck, Austria
     status: defunct
     note: Collapsed Nov 2023, €5B debt. Founded by René Benko
+  silk-road-fund:
+    name: Silk Road Fund
+    type: swf
+    founded: 2014
+    headquarters: Beijing, China
+    status: active
+    aum: $55 billion
+    note: Unico SWF cinese con missione geo-economica esplicita BRI
+    stakeholders:
+    - person: zhu-jun
+      role: chairman
+      from: 2022
+      note: Chairwoman
+    - org: governo-cina
+      role: ownership
+      share: 100%
+      note: Via SAFE/CIC/CDB/Exim
+    - org: cic
+      role: shareholder
+      share: 15%
+      from: 2014
+    - org: bri
+      role: founder
+      note: Veicolo investimenti BRI
+    - org: safe
+      role: shareholder
+      share: 65%
+      from: 2014
+    - org: china-development-bank
+      role: shareholder
+      share: 5%
+      from: 2014
+    - org: exim-bank-china
+      role: shareholder
+      share: 15%
+      from: 2014
   silver-lake:
     name: Silver Lake
     type: privateequity
