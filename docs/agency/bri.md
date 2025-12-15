@@ -112,10 +112,33 @@
 |-------------|------|----------|----------------|
 | [AIIB](../bank/aiib.md) | Banca multilaterale | $100B | 26.6% voti |
 | [Silk Road Fund](../swf/silk-road-fund.md) | Fondo sovrano | $55B | 100% |
-| China Development Bank | Policy bank | - | 100% |
-| Export-Import Bank of China | Policy bank | - | 100% |
-| CIC Capital | SWF subsidiary | - | 100% |
+| [China Development Bank](../bank/china-development-bank.md) | Policy bank | - | 100% |
+| [Export-Import Bank of China](../bank/exim-bank-china.md) | Policy bank | - | 100% |
+| [CIC](../swf/cic.md) Capital | SWF subsidiary | - | 100% |
 | New Development Bank | Multilaterale BRICS | $100B | 20% |
+
+### Struttura Proprietaria Silk Road Fund
+
+| Azionista | Quota | Tipo |
+|-----------|-------|------|
+| [SAFE](safe.md) | 65% | Riserve forex |
+| [CIC](../swf/cic.md) | 15% | SWF |
+| [Export-Import Bank](../bank/exim-bank-china.md) | 15% | Policy bank |
+| [China Development Bank](../bank/china-development-bank.md) | 5% | Policy bank |
+
+**Nota**: SAFE gestisce $3.3 trilioni di riserve valutarie e controlla indirettamente anche le policy banks (CDB, Exim) via Buttonwood Investment. Questo rende SAFE il principale finanziatore indiretto di BRI.
+
+### AIIB - Azionariato
+
+| Paese | Voti | Note |
+|-------|------|------|
+| **Cina** | 26.6% | Veto power |
+| India | 7.6% | #2 |
+| Russia | 6.0% | #3 |
+| Germania | 4.2% | #4, maggior non-regionale |
+| **Totale membri** | 111 | Assenti: USA, Giappone |
+
+Presidente fondatore: [Jin Liqun](../persons/jin-liqun.md) (2016-2025), successore: Zou Jiayi
 
 ---
 
@@ -180,15 +203,19 @@
 
 | Entita' | Relazione |
 |---------|-----------|
-| [AIIB](../bank/aiib.md) | Veicolo finanziario multilaterale |
-| [Silk Road Fund](../swf/silk-road-fund.md) | Fondo sovrano dedicato |
-| [CIC](../swf/cic.md) | Investimenti via CIC Capital |
+| [AIIB](../bank/aiib.md) | Veicolo finanziario multilaterale (111 membri) |
+| [Silk Road Fund](../swf/silk-road-fund.md) | Fondo sovrano dedicato ($55B) |
+| [SAFE](safe.md) | Finanziatore indiretto (65% SRF, $3.3T riserve) |
+| [CIC](../swf/cic.md) | Azionista SRF (15%), investimenti diretti |
+| [China Development Bank](../bank/china-development-bank.md) | Policy bank, prestiti BRI |
+| [Export-Import Bank of China](../bank/exim-bank-china.md) | Policy bank, prestiti BRI |
 
 ### Persone
 
 | Persona | Ruolo |
 |---------|-------|
 | [Xi Jinping](../persons/xi-jinping.md) | Architetto e promotore |
+| [Jin Liqun](../persons/jin-liqun.md) | Presidente fondatore AIIB (2016-2025) |
 
 ### Aziende Cinesi nel DB
 
@@ -232,6 +259,34 @@
 | **PGII** | USA (2022) | $600B (G7) | Alternativa a BRI |
 
 **Differenza chiave**: BRI e' operativo dal 2013 con $1T+ disbursato; le alternative occidentali sono annunci recenti con funding limitato.
+
+---
+
+## Architettura Finanziaria BRI
+
+```
+                    GOVERNO CINA
+                         │
+         ┌───────────────┼───────────────┐
+         │               │               │
+         ▼               ▼               ▼
+       SAFE           PBOC          MOF/NDRC
+    ($3.3T forex)       │               │
+         │               │               │
+    ┌────┼────┐          │          ┌────┴────┐
+    │    │    │          │          │         │
+    ▼    ▼    ▼          ▼          ▼         ▼
+  SRF  CDB  Exim      AIIB      Bilaterali  Leading
+ (65%) (5%) (15%)   (26.6%)    (prestiti)   Group
+    │                   │
+    └───────┬───────────┘
+            │
+            ▼
+      PROGETTI BRI
+   (infrastrutture)
+```
+
+**Flusso capitale**: SAFE → Silk Road Fund → Progetti equity. Policy banks (CDB, Exim) → Prestiti diretti. AIIB → Co-finanziamenti multilaterali.
 
 ---
 
