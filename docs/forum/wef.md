@@ -217,6 +217,23 @@ Il WEF conta **100 Strategic Partners**, tra cui:
 
 > **Nota**: 1/5 degli Strategic Partners viene dal settore consulting.
 
+### International Business Council (IBC)
+
+L'IBC e' il consiglio dei ~200 CEO delle aziende piu' influenti al mondo, che fornisce consulenza strategica al WEF.
+
+**Membri Notevoli (2025):**
+
+| Nome | Azienda | Note |
+|------|---------|------|
+| **[Sunil Bharti Mittal](../persons/sunil-mittal.md)** | Bharti Enterprises/Airtel | Chairman ICC 2016-18, CFR Advisor |
+| **Larry Fink** | BlackRock | Co-Chair Board WEF |
+| **Jamie Dimon** | JPMorgan Chase | |
+| **Satya Nadella** | Microsoft | |
+
+**Pattern Singapore-India nell'IBC:**
+- Sunil Mittal: partner strategico di Singtel/Temasek in India
+- Connette network WEF con espansione capitali Singapore in Asia
+
 ---
 
 ## Connessione con i Big Three
@@ -527,12 +544,17 @@ State Street       Energy, Finance
 - [Qatar Investment Authority](qatar-investment-authority.md) - Partner ufficiale Davos 2025-2026
 
 ### Persone
-- [Klaus Schwab](../persone/klaus-schwab.md) - Fondatore WEF e YGL
-- [Tony Blair](../persone/tony-blair.md) - GLT 1992, Board Trustee
-- [Angela Merkel](../persone/angela-merkel.md) - GLT 1992, 12+ keynote Davos
-- [Emmanuel Macron](../persone/emmanuel-macron.md) - YGL 2016, keynote Davos
-- [Justin Trudeau](../persone/justin-trudeau.md) - YGL 2005, "penetriamo i gabinetti"
-- [Jacinda Ardern](../persone/jacinda-ardern.md) - YGL 2014
+- [Klaus Schwab](../persons/klaus-schwab.md) - Fondatore WEF e YGL
+- [Tony Blair](../persons/tony-blair.md) - GLT 1992, Board Trustee
+- [Angela Merkel](../persons/angela-merkel.md) - GLT 1992, 12+ keynote Davos
+- [Sunil Bharti Mittal](../persons/sunil-mittal.md) - IBC member, Chairman Bharti Airtel
+
+- [Emmanuel Macron](../persons/emmanuel-macron.md) - YGL 2016, keynote Davos
+- [Justin Trudeau](../persons/justin-trudeau.md) - YGL 2005, "penetriamo i gabinetti"
+- [Jacinda Ardern](../persons/jacinda-ardern.md) - YGL 2014
+
+### Report
+- [Singapore Power Map](../../reports/singapore-power-map.md) - Connessione Singtel-Temasek-Bharti via Mittal
 
 ---
 

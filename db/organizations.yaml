@@ -1150,6 +1150,22 @@ organizations:
       role: board
       from: 1999
       note: Honorary Board of Trustees
+  bharti-airtel:
+    name: Bharti Airtel Limited
+    type: company
+    founded: 1995
+    headquarters: New Delhi, India
+    status: active
+    sector: telecommunications
+    stakeholders:
+    - person: sunil-mittal
+      role: chairman
+      from: 1995
+      note: Founder & Chairman
+    - org: singtel
+      share: 28.3
+      from: 2000
+      note: Via Bharti Telecom (49.44%) + direct via Pastel
   big-c:
     name: Big C Supercenter
     type: company
@@ -1410,6 +1426,10 @@ organizations:
     - org: walmart
       role: stake
       share: 0.036
+    - org: temasek
+      share: 3.4%
+      from: 2020
+      note: Top 5 shareholder, ex-PNC stake, JV Cina con CCB
     - org: kuwait-investment-authority
       role: shareholder
       share: 5.4%
@@ -1929,6 +1949,18 @@ organizations:
     - person: james-baker
       role: advisor
       note: Senior Counsellor, Asia/Europe Advisory Boards
+  carnegie:
+    name: Carnegie Endowment for International Peace
+    type: thinktank
+    founded: 1910
+    headquarters: Washington, DC, USA
+    status: active
+    stakeholders:
+    - person: sunil-mittal
+      role: board
+      from: 2009
+      to: 2021
+      note: Trustee
   carnegie-endowment:
     name: Carnegie Endowment for International Peace
     type: thinktank
@@ -2106,6 +2138,9 @@ organizations:
       from: 1921
       to: 1948
       note: Membro fondatore, advisor Wilson/Hoover/FDR
+    - person: sunil-mittal
+      role: advisor
+      note: Global Board of Advisors
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -2405,14 +2440,32 @@ organizations:
       from: 2013
       to: 2014
   citigroup:
-    name: Citigroup
+    name: Citigroup Inc.
     type: bank
-    headquarters: New York
+    founded: 1998
+    headquarters: New York, USA
     status: active
+    sector: banking
     stakeholders:
     - person: robert-rubin
       role: advisor
       from: 1999
+      to: 2009
+      note: Chairman Executive Committee, then Senior Counselor
+    - person: piyush-gupta
+      role: executive
+      from: 1982
+      to: 2009
+      note: CEO South East Asia, Australia, New Zealand
+    - person: sandy-weill
+      role: executive
+      from: 1998
+      to: 2006
+      note: Co-CEO 1998-2000, CEO 2000-2003, Chairman 2003-2006
+    - person: jane-fraser
+      role: executive
+      from: 2004
+      note: CEO 2021-, Chairman 2025-
   city-football-group:
     name: City Football Group
     type: company
@@ -2473,6 +2526,18 @@ organizations:
     stakeholders:
     - person: rodolphe-saade
       role: chairman
+  cna:
+    name: CNA (Channel NewsAsia)
+    type: media
+    founded: 1999
+    headquarters: Singapore
+    status: active
+    note: 24h news channel, Asian perspective, rebranded 2019
+    stakeholders:
+    - org: mediacorp
+      share: 100%
+      from: 1999
+      note: Wholly owned channel
   cnas:
     name: Center for a New American Security
     type: thinktank
@@ -2889,6 +2954,22 @@ organizations:
     - person: jonathan-rothermere
       role: chairman
       from: 1998
+  dbs:
+    name: DBS Bank
+    type: bank
+    founded: 1968
+    headquarters: Singapore
+    status: active
+    note: Largest bank in Southeast Asia, ex-Development Bank of Singapore
+    stakeholders:
+    - person: piyush-gupta
+      role: executive
+      from: 2009
+      to: 2025
+      note: CEO
+    - org: temasek
+      share: 29%
+      note: Controlling shareholder
   dea:
     name: Drug Enforcement Administration
     type: agency
@@ -3762,6 +3843,10 @@ organizations:
       from: 2013
       to: 2025
       note: Chairman emeritus dal 2025
+    - person: lee-hsien-yang
+      role: chairman
+      from: 2007
+      to: 2013
   free-iliad:
     name: Iliad/Free
     type: company
@@ -4028,6 +4113,10 @@ organizations:
     headquarters: Singapore
     status: active
     aum: $800B
+    stakeholders:
+    - person: lee-hsien-loong
+      role: chairman
+      from: 2011
   girona-fc:
     name: Girona FC
     type: sportsclub
@@ -4760,6 +4849,45 @@ organizations:
       from: 2017
       to: 2017
       note: President
+  governo-singapore:
+    name: Government of Singapore
+    type: government
+    founded: 1959
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - person: lee-kuan-yew
+      role: leader
+      from: 1959
+      to: 1990
+      note: Prime Minister
+    - person: lee-kuan-yew
+      role: advisor
+      from: 1990
+      to: 2011
+      note: Senior Minister, then Minister Mentor
+    - person: lee-hsien-loong
+      role: leader
+      from: 2004
+      to: 2024
+      note: Prime Minister
+    - person: lee-hsien-loong
+      role: advisor
+      from: 2024
+      note: Senior Minister
+    - person: goh-chok-tong
+      role: leader
+      from: 1990
+      to: 2004
+      note: Prime Minister
+    - person: lawrence-wong
+      role: leader
+      from: 2024
+      note: Prime Minister
+    - person: tharman-shanmugaratnam
+      role: leader
+      from: 2023
+      note: President
   governo-slovenia:
     name: Governo Slovenia
     type: government
@@ -5192,6 +5320,17 @@ organizations:
       from: 1968
       to: 1973
       note: Ambassador to USA
+  govtech-singapore:
+    name: Government Technology Agency
+    type: agency
+    founded: 2016
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - person: li-hongyi
+      role: executive
+      from: 2019
+      note: Director Open Government Products
   greensill:
     type: company
     founded: 2011
@@ -5542,6 +5681,10 @@ organizations:
       role: chairman
       from: 1965
       to: 1967
+    - person: sunil-mittal
+      role: chairman
+      from: 2016
+      to: 2018
   idf:
     name: Israel Defense Forces
     type: agency
@@ -6019,6 +6162,22 @@ organizations:
     - person: saravoot-yoovidhya
       role: board
       note: Main board director
+  keppel:
+    name: Keppel Ltd
+    type: company
+    founded: 1968
+    headquarters: Singapore
+    status: active
+    sector: conglomerate
+    note: Ex-conglomerate, post-2024 asset manager
+    stakeholders:
+    - person: piyush-gupta
+      role: board
+      from: 2025
+      note: Deputy Chairman
+    - org: temasek
+      share: controlling
+      note: Largest shareholder
   kgb:
     name: Komitet Gosudarstvennoy Bezopasnosti
     type: agency
@@ -6513,6 +6672,18 @@ organizations:
       from: 2004
       to: 2012
       note: Chairman McKinsey India
+  mediacorp:
+    name: Mediacorp Pte Ltd
+    type: media
+    founded: 1999
+    headquarters: Singapore
+    status: active
+    note: State media conglomerate, monopoly on terrestrial TV
+    stakeholders:
+    - org: temasek
+      share: 100%
+      from: 1999
+      note: Wholly owned subsidiary
   mediaset:
     name: Mediaset
     type: media
@@ -7550,6 +7721,19 @@ organizations:
       role: investor
       from: 2024
       note: Participated in $6.6B round
+  optus:
+    name: Singtel Optus Pty Limited
+    type: company
+    founded: 1981
+    headquarters: Macquarie Park, Sydney, Australia
+    status: active
+    sector: telecommunications
+    note: 'Australia #2 telco, 100% Singtel subsidiary'
+    stakeholders:
+    - org: singtel
+      role: owner
+      share: 100
+      from: 2001
   oracle:
     name: Oracle Corporation
     type: company
@@ -8714,6 +8898,19 @@ organizations:
     stakeholders:
     - org: volkswagen
       role: subsidiary
+  seatrium:
+    name: Seatrium Limited
+    type: company
+    founded: 2023
+    headquarters: Singapore
+    status: active
+    sector: offshore-marine
+    note: Ex Sembcorp Marine + Keppel O&M, national champion shipbuilding
+    stakeholders:
+    - org: temasek
+      share: ~38%
+      from: 2023
+      note: Via Startree, Keppel, DBS, Fullerton
   seb:
     name: SEB (Skandinaviska Enskilda Banken)
     type: bank
@@ -8916,6 +9113,36 @@ organizations:
     - org: mubadala
       role: investor
       note: Minority equity stake
+  singapore-technologies:
+    name: Singapore Technologies Engineering
+    type: company
+    founded: 1997
+    headquarters: Singapore
+    status: active
+    sector: defence, aerospace
+    stakeholders:
+    - person: ho-ching
+      role: executive
+      from: 1997
+      to: 2002
+      note: CEO, Founding Chairman ST Engineering
+  singtel:
+    name: Singapore Telecommunications Limited
+    type: company
+    founded: 1992
+    headquarters: Singapore
+    status: active
+    sector: telecommunications
+    stakeholders:
+    - person: lee-hsien-yang
+      role: executive
+      from: 1995
+      to: 2007
+      note: CEO
+    - org: temasek
+      role: majority shareholder
+      share: 52
+      from: 1993
   sitra:
     name: Finnish Innovation Fund Sitra
     type: foundation
@@ -9292,6 +9519,16 @@ organizations:
     headquarters: Singapore
     status: active
     aum: $324B
+    stakeholders:
+    - person: ho-ching
+      role: executive
+      from: 2004
+      to: 2021
+      note: CEO
+    - person: piyush-gupta
+      role: chairman
+      from: 2025
+      note: Chairman India
   tesco:
     name: Tesco PLC
     type: company
@@ -10436,6 +10673,12 @@ organizations:
     - person: tos-chirathivat
       role: member
       note: WEF profile
+    - person: lee-hsien-loong
+      role: member
+      note: Davos participant
+    - person: sunil-mittal
+      role: member
+      note: International Business Council; Co-Chair SDIS 2018
     - org: bilderberg
       role: partner
     - org: fmi

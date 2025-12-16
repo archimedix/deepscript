@@ -33,6 +33,7 @@ Report che analizzano istituzioni finanziarie, flussi di capitale, e potere econ
 | Report | Periodo | Focus |
 |--------|---------|-------|
 | [SWF Global Power Map](swf-global-power-map.md) | 2000-2025 | Fondi sovrani mondiali |
+| [Singapore Power Map](singapore-power-map.md) | 1959-2025 | GIC, Temasek, stato-azienda |
 | [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | 2016-2025 | Investimenti Golfo in USA |
 | [Dynasties Private Equity](dynasties-private-equity.md) | 1994-2025 | Dinastie che usano PE |
 | [Political Financing](political-financing.md) | 2010-2025 | Campaign finance, Super PAC, tech donors |
@@ -144,6 +145,8 @@ Report focalizzati su specifiche aree geografiche.
 | [Zionism State-Building](zionism-state-building.md) | Israele/UK | 1897-1948 |
 | [Italy Cold War Theater](italy-cold-war-theater.md) | Italia | 1943-1990 |
 | [Korea Power Map](korea-power-map.md) | Corea Sud | Chaebol, stato |
+| [Singapore Power Map](singapore-power-map.md) | Singapore | Stato-azienda Lee |
+| [Thailand Power Map](thailand-power-map.md) | Thailandia | Monarchia, Shinawatra |
 | [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | Golfo/USA | Investimenti AI |
 
 ---
@@ -166,6 +169,8 @@ Analisi di pattern/fenomeni attraverso il tempo:
 ### Report Geografici
 Mappe di potere regionali:
 - [Korea Power Map](korea-power-map.md)
+- [Singapore Power Map](singapore-power-map.md)
+- [Thailand Power Map](thailand-power-map.md)
 - [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md)
 
 ### Report Settoriali
@@ -180,7 +185,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 20 |
+| **Report totali** | 22 |
 | **Eventi documentati** | 30 |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |

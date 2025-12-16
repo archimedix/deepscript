@@ -218,14 +218,24 @@ Producono raccomandazioni policy che spesso diventano politiche ufficiali:
 
 ---
 
-## Italiani nel CFR
+## Membri Internazionali
 
-Il CFR ha una sezione International che include membri non americani:
+Il CFR ha una sezione International che include membri non americani e un **Global Board of Advisors** con figure chiave globali.
+
+### Italiani nel CFR
 
 | Nome | Ruolo |
 |------|-------|
 | **Mario Draghi** | Ex-PM, ex-BCE (Life Member) |
 | **Gianni Agnelli** | FIAT (storico) |
+
+### India/Asia nel CFR
+
+| Nome | Ruolo | Note |
+|------|-------|------|
+| **[Sunil Bharti Mittal](../persons/sunil-mittal.md)** | Global Board of Advisors | Chairman Bharti Airtel, partner Singtel |
+
+> **Pattern Singapore-India:** Mittal e' partner strategico di Singtel/Temasek (Singapore SWF) in India. La sua presenza nel CFR Global Advisors connette l'establishment americano con il capitale singaporiano via Bharti Airtel (550M clienti India/Africa).
 
 ---
 
@@ -287,9 +297,11 @@ Il CFR ha una sezione International che include membri non americani:
 ## Documenti Correlati
 
 - [Bilderberg e Trilaterale](bilderberg-trilaterale.md) - Forum connessi
-- [BlackRock](blackrock.md) - Donilon nel board
-- [Goldman Sachs](goldman-sachs.md) - Revolving door
-- [Federal Reserve](federal-reserve.md) - Chair storici membri CFR
+- [BlackRock](../asset-manager/blackrock.md) - Donilon nel board
+- [Goldman Sachs](../bank/goldman-sachs.md) - Revolving door
+- [Federal Reserve](../central-bank/federal-reserve.md) - Chair storici membri CFR
+- [Bharti Airtel](../company/bharti-airtel.md) - Mittal nel Global Board of Advisors
+- [Singapore Power Map](../../reports/singapore-power-map.md) - Connessione Mittal-Singtel-Temasek
 
 ---
 

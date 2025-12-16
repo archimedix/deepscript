@@ -217,6 +217,20 @@ BlackRock ha ammesso nel filing annuale SEC che l'advocacy ESG del CEO Fink potr
 - Contratti con UK, Grecia e altri paesi
 - Consulenze durante crisi finanziarie
 
+### Azionisti Sovrani
+
+| Azionista | Quota | Data | Note |
+|-----------|-------|------|------|
+| **Temasek Holdings** | 3.4% (~$4.3B) | Agosto 2020 | Acquisizione da PNC Financial Services |
+
+> Singapore SWF Temasek e' tra i top 5 shareholders di BlackRock, creando un pattern di cross-ownership: Temasek investe in BlackRock, che a sua volta investe nelle GLCs singaporiane (DBS, Singtel, etc.) via index funds.
+
+### Joint Venture con Singapore
+
+| JV | Partner | Focus |
+|----|---------|-------|
+| **Wealth Management China** | Temasek + BlackRock + CCB | Wealth management mercato cinese |
+
 ### Relazioni da Esplorare
 - [ ] Connessioni con Federal Reserve
 - [ ] Ruolo durante crisi 2008

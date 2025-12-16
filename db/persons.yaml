@@ -2366,6 +2366,15 @@ persons:
       role: minister
       from: 1987
       to: 1989
+  goh-chok-tong:
+    born: 1941
+    nationality: SGP
+    affiliations:
+    - org: governo-singapore
+      role: leader
+      from: 1990
+      to: 2004
+      note: Prime Minister
   greg-abel:
     born: 1962
     nationality: CAN
@@ -2665,6 +2674,21 @@ persons:
       role: minister
       from: 2009
       to: 2013
+  ho-ching:
+    born: 1953
+    nationality: SGP
+    family: lee-singapore
+    affiliations:
+    - org: temasek
+      role: executive
+      from: 2004
+      to: 2021
+      note: CEO
+    - org: singapore-technologies
+      role: executive
+      from: 1997
+      to: 2002
+      note: CEO, Founding Chairman ST Engineering
   hock-tan:
     born: 1952
     nationality: MYS
@@ -3017,6 +3041,14 @@ persons:
     affiliations:
     - org: collegio-europa
       role: professor
+  jane-fraser:
+    born: 1967
+    nationality: GBR
+    affiliations:
+    - org: citigroup
+      role: executive
+      from: 2004
+      note: CEO 2021-, Chairman 2025-
   jane-henney:
     born: 1947
     nationality: American
@@ -4029,6 +4061,14 @@ persons:
       role: executive
       from: 1984
       to: 1989
+  lawrence-wong:
+    born: 1972
+    nationality: SGP
+    affiliations:
+    - org: governo-singapore
+      role: leader
+      from: 2024
+      note: Prime Minister
   lee-boo-jin:
     born: 1970
     nationality: Korean
@@ -4047,6 +4087,40 @@ persons:
       from: 1938
       to: 1987
       note: Founded Samsung Trading Co.
+  lee-hsien-loong:
+    born: 1952
+    nationality: SGP
+    family: lee-singapore
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos participant
+    - org: gic
+      role: chairman
+      from: 2011
+    - org: governo-singapore
+      role: leader
+      from: 2004
+      to: 2024
+      note: Prime Minister
+    - org: governo-singapore
+      role: advisor
+      from: 2024
+      note: Senior Minister
+  lee-hsien-yang:
+    born: 1957
+    nationality: SGP
+    family: lee-singapore
+    affiliations:
+    - org: fraser-neave
+      role: chairman
+      from: 2007
+      to: 2013
+    - org: singtel
+      role: executive
+      from: 1995
+      to: 2007
+      note: CEO
   lee-jae-yong:
     born: 1968
     nationality: Korean
@@ -4063,6 +4137,22 @@ persons:
     - person: park-geun-hye
       type: bribery scandal
       note: Lee convicted for bribing Park (43B won). Both pardoned
+  lee-kuan-yew:
+    born: 1923
+    died: 2015
+    nationality: SGP
+    family: lee-singapore
+    affiliations:
+    - org: governo-singapore
+      role: leader
+      from: 1959
+      to: 1990
+      note: Prime Minister
+    - org: governo-singapore
+      role: advisor
+      from: 1990
+      to: 2011
+      note: Senior Minister, then Minister Mentor
   lee-kun-hee:
     born: 1942
     died: 2020
@@ -4081,6 +4171,10 @@ persons:
       role: executive
       from: 2024
       note: President
+  lee-wei-ling:
+    born: 1955
+    nationality: SGP
+    family: lee-singapore
   leo-varadkar:
     born: 1979
     nationality: IRL
@@ -4138,6 +4232,15 @@ persons:
       role: executive
       from: 1980
       to: 1991
+  li-hongyi:
+    born: 1987
+    nationality: SGP
+    family: lee-singapore
+    affiliations:
+    - org: govtech-singapore
+      role: executive
+      from: 2019
+      note: Director Open Government Products
   li-ka-shing:
     born: 1928
     nationality: HKG
@@ -5574,6 +5677,29 @@ persons:
       from: 1908
       to: 1921
       note: Co-proprietario con fratello Mario
+  piyush-gupta:
+    born: 1960
+    nationality: SGP
+    note: Ex-CEO DBS (2009-2025), Temasek Chairman India
+    affiliations:
+    - org: citigroup
+      role: executive
+      from: 1982
+      to: 2009
+      note: CEO South East Asia, Australia, New Zealand
+    - org: temasek
+      role: chairman
+      from: 2025
+      note: Chairman India
+    - org: keppel
+      role: board
+      from: 2025
+      note: Deputy Chairman
+    - org: dbs
+      role: executive
+      from: 2009
+      to: 2025
+      note: CEO
   prannoy-roy:
     born: 1949
     nationality: IND
@@ -6018,6 +6144,8 @@ persons:
     - org: citigroup
       role: advisor
       from: 1999
+      to: 2009
+      note: Chairman Executive Committee, then Senior Counselor
   roberto-irineu-marinho:
     born: 1947
     nationality: BRA
@@ -6192,6 +6320,15 @@ persons:
     died: 1948
     nationality: USA
     family: bush
+  sandy-weill:
+    born: 1933
+    nationality: USA
+    affiliations:
+    - org: citigroup
+      role: executive
+      from: 1998
+      to: 2006
+      note: Co-CEO 1998-2000, CEO 2000-2003, Chairman 2003-2006
   sania-nishtar:
     born: 1963
     nationality: PAK
@@ -6626,6 +6763,29 @@ persons:
       role: founder
       from: 1976
       to: 1985
+  sunil-mittal:
+    born: 1957
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: member
+      note: International Business Council; Co-Chair SDIS 2018
+    - org: cfr
+      role: advisor
+      note: Global Board of Advisors
+    - org: icc
+      role: chairman
+      from: 2016
+      to: 2018
+    - org: bharti-airtel
+      role: chairman
+      from: 1995
+      note: Founder & Chairman
+    - org: carnegie
+      role: board
+      from: 2009
+      to: 2021
+      note: Trustee
   suphachai-chearavanont:
     nationality: THA
     family: chearavanont
@@ -6734,6 +6894,14 @@ persons:
     - org: thai-beverage
       role: executive
       note: CEO
+  tharman-shanmugaratnam:
+    born: 1957
+    nationality: SGP
+    affiliations:
+    - org: governo-singapore
+      role: leader
+      from: 2023
+      note: President
   theodor-herzl:
     born: 1860
     died: 1904

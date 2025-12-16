@@ -16,7 +16,7 @@ python3 migration/export_neo4j.py
 
 ## Output
 
-Lo script esporta in `db/`:
+Lo script esporta in `db/`:00
 - `db/persons.yaml` - Tutte le persone con affiliazioni
 - `db/organizations.yaml` - Tutte le organizzazioni con stakeholders
 - `db/families.yaml` - Tutte le famiglie con membri

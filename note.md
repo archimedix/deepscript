@@ -7,7 +7,7 @@
 - [ ] 2021 Creazione Stellantis — FCA + PSA, John Elkann architetto
 
 
-Banche
+categoria Banche
 Gruppo energia (petrolio)
 Casate Reali
 Brasile: lula, bolsonaro
