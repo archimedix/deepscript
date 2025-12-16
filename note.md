@@ -12,6 +12,7 @@ Gruppo energia (petrolio)
 Casate Reali
 Brasile: lula, bolsonaro
 
+McKinsey
 unthinkable di churchill, alan bruc, 
 
 sartre,  macussen : indipendenza degli stati 

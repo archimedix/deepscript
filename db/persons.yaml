@@ -25,6 +25,15 @@ persons:
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
+  abhisit-vejjajiva:
+    born: 1964
+    nationality: THA
+    affiliations:
+    - org: governo-thailandia
+      role: leader
+      from: 2008
+      to: 2011
+      note: PM
   adam-keswick:
     nationality: GBR
     family: keswick
@@ -3923,6 +3932,16 @@ persons:
     died: 1952
     nationality: Australia
     family: murdoch
+  ken-lin:
+    nationality: THA
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
+    - org: charoen-pokphand
+      role: executive
+      from: 2023
+      note: SVP Innovation & Global Investment
   khaldoon-al-mubarak:
     born: 1975
     nationality: UAE
@@ -5237,8 +5256,17 @@ persons:
   nadiem-makarim:
     born: 1984
     nationality: IDN
-    note: Gojek founder 2010. Minister Education 2019-
+    note: Gojek founder 2010. WEF YGL 2018. Minister Education 2019-2024
     affiliations:
+    - org: wef
+      role: ygl
+      from: 2018
+      note: Young Global Leader 2018
+    - org: mckinsey
+      role: consultant
+      from: 2006
+      to: 2009
+      note: Management consultant Jakarta
     - org: governo-indonesia
       role: minister
       from: 2019
@@ -5557,7 +5585,8 @@ persons:
     family: shinawatra
     affiliations:
     - org: wef
-      role: member
+      role: ygl
+      from: 2025
       note: Davos 2025 participant
     - org: governo-thailandia
       role: leader
@@ -5567,6 +5596,11 @@ persons:
     - org: pheu-thai
       role: leader
       from: 2023
+    relations:
+    - person: thaksin-shinawatra
+      type: daughter
+    - person: yingluck-shinawatra
+      type: niece
   pan-gongsheng:
     nationality: CHN
     note: PBOC Governor dal 2023, ex SAFE Administrator 2016-2023
@@ -5589,6 +5623,24 @@ persons:
     - org: ac-milan
       role: chairman
       from: 2018
+  parit-wacharasindhu:
+    born: 1992
+    nationality: THA
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
+    - org: mckinsey
+      role: consultant
+      from: 2014
+      to: 2018
+    - org: governo-thailandia
+      role: legislator
+      from: 2023
+      note: MP Move Forward/People Party
+    relations:
+    - person: abhisit-vejjajiva
+      type: nephew
   park-geun-hye:
     born: 1952
     nationality: Korean
@@ -5743,6 +5795,10 @@ persons:
     - org: governo-usa
       role: minister
       from: 2021
+    - org: mckinsey
+      role: consultant
+      from: 2007
+      to: 2010
   pete-dupont:
     born: 1935
     died: 2021
@@ -7754,9 +7810,14 @@ persons:
       to: 1992
       note: Lost control due to Bank Summa crisis
   william-tanuwijaya:
+    born: 1981
     nationality: IDN
-    note: Tokopedia co-founder 2009. GoTo commissioner
+    note: Tokopedia co-founder 2009. WEF YGL 2016. GoTo commissioner 2021
     affiliations:
+    - org: wef
+      role: ygl
+      from: 2016
+      note: Young Global Leader 2016
     - org: goto
       role: founder
       from: 2009

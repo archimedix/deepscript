@@ -2261,6 +2261,18 @@ organizations:
     - person: mark-zuckerberg
       role: founder
       from: 2015
+  charoen-pokphand:
+    name: Charoen Pokphand Group (CP Group)
+    type: company
+    founded: 1921
+    headquarters: Bangkok, Thailand
+    status: active
+    sector: conglomerate
+    stakeholders:
+    - person: ken-lin
+      role: executive
+      from: 2023
+      note: SVP Innovation & Global Investment
   chase-bank:
     name: Chase Investment Bank
     type: bank
@@ -5288,6 +5300,15 @@ organizations:
       from: 1980
       to: 1988
       note: Primo Ministro
+    - person: parit-wacharasindhu
+      role: legislator
+      from: 2023
+      note: MP Move Forward/People Party
+    - person: abhisit-vejjajiva
+      role: leader
+      from: 2008
+      to: 2011
+      note: PM
   governo-turchia:
     name: Governo della Turchia
     type: government
@@ -7123,8 +7144,15 @@ organizations:
   mckinsey:
     name: McKinsey & Company
     type: company
+    founded: 1926
+    headquarters: New York, USA
+    status: active
     sector: consulting
     stakeholders:
+    - person: pete-buttigieg
+      role: consultant
+      from: 2007
+      to: 2010
     - person: kyriakos-mitsotakis
       role: employee
       from: 1995
@@ -7134,6 +7162,15 @@ organizations:
       from: 2004
       to: 2012
       note: Chairman McKinsey India
+    - person: nadiem-makarim
+      role: consultant
+      from: 2006
+      to: 2009
+      note: Management consultant Jakarta
+    - person: parit-wacharasindhu
+      role: consultant
+      from: 2014
+      to: 2018
   mediacorp:
     name: Mediacorp Pte Ltd
     type: media
@@ -11254,7 +11291,8 @@ organizations:
       role: member
       note: WEF East Asia 2012 host
     - person: paetongtarn-shinawatra
-      role: member
+      role: ygl
+      from: 2025
       note: Davos 2025 participant
     - person: suphachai-chearavanont
       role: member
@@ -11271,9 +11309,23 @@ organizations:
     - person: sunil-mittal
       role: member
       note: International Business Council; Co-Chair SDIS 2018
+    - person: nadiem-makarim
+      role: ygl
+      from: 2018
+      note: Young Global Leader 2018
+    - person: william-tanuwijaya
+      role: ygl
+      from: 2016
+      note: Young Global Leader 2016
     - person: sri-mulyani
       role: member
       note: Agenda Contributor
+    - person: parit-wacharasindhu
+      role: ygl
+      from: 2024
+    - person: ken-lin
+      role: ygl
+      from: 2025
     - org: bilderberg
       role: partner
     - org: fmi

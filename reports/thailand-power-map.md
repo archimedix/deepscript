@@ -492,10 +492,28 @@ La [famiglia Sophonpanich](../docs/family/sophonpanich.md) ha costruito la maggi
 |---------|-----------|
 | [Thaksin Shinawatra](../docs/persons/thaksin-shinawatra.md) | Member, Davos participant |
 | [Yingluck Shinawatra](../docs/persons/yingluck-shinawatra.md) | Host WEF East Asia 2012 |
-| [Paetongtarn Shinawatra](../docs/persons/paetongtarn-shinawatra.md) | Davos 2025 |
+| [Paetongtarn Shinawatra](../docs/persons/paetongtarn-shinawatra.md) | **YGL 2025**, Davos 2025 |
 | [Suphachai Chearavanont](../docs/persons/suphachai-chearavanont.md) | **Co-Chair Summer Davos 2019** |
 | [Chartsiri Sophonpanich](../docs/persons/chartsiri-sophonpanich.md) | Speaker Davos 2016 |
 | [Tos Chirathivat](../docs/persons/tos-chirathivat.md) | Member |
+| [Ken Lin](../docs/persons/ken-lin.md) | **YGL 2025** (CP Group) |
+| [Parit Wacharasindhu](../docs/persons/parit-wacharasindhu.md) | **YGL 2024** (People's Party) |
+
+#### Young Global Leaders Thailandesi
+
+I YGL rappresentano la **nuova generazione** di leader thai integrati nel network WEF:
+
+| Nome | Anno YGL | Background | Network |
+|------|----------|------------|---------|
+| [Paetongtarn Shinawatra](../docs/persons/paetongtarn-shinawatra.md) | 2025 | PM, dinastia Shinawatra | Politico-familiare |
+| [Ken Lin](../docs/persons/ken-lin.md) | 2025 | SVP CP Group, PhD Tokyo | Corporate-accademico (Harvard, Columbia) |
+| [Parit Wacharasindhu](../docs/persons/parit-wacharasindhu.md) | 2024 | MP People's Party, nipote ex-PM Abhisit | Politico-elite (Eton, Oxford, McKinsey) |
+| Amornthep Sachamuneewongse | 2025 | CEO Sati App | Social entrepreneurship |
+
+**Pattern interessante**: I tre YGL 2024-25 rappresentano tre vie al potere thai:
+- **Paetongtarn**: Eredita' dinastica (Shinawatra)
+- **Ken Lin**: Corporate pathway (CP Group → Harvard → WEF)
+- **Parit**: Elite pathway (Eton → Oxford → McKinsey → Politica) ma in opposizione allo zio
 
 ### Singapore Connection
 
@@ -906,6 +924,13 @@ La Thailandia sta vivendo una transizione storica nelle fonti di capitale estero
 - [Sarath Ratanavadi](../docs/persons/sarath-ratanavadi.md)
 - [Chartsiri Sophonpanich](../docs/persons/chartsiri-sophonpanich.md)
 - [Tos Chirathivat](../docs/persons/tos-chirathivat.md)
+- [Paetongtarn Shinawatra](../docs/persons/paetongtarn-shinawatra.md) - YGL 2025, PM
+- [Ken Lin](../docs/persons/ken-lin.md) - YGL 2025, CP Group
+- [Parit Wacharasindhu](../docs/persons/parit-wacharasindhu.md) - YGL 2024, People's Party
+- [Abhisit Vejjajiva](../docs/persons/abhisit-vejjajiva.md) - Ex-PM, zio di Parit
+
+### Schede DeepScript - Consulting
+- [McKinsey & Company](../docs/company/mckinsey.md) - Alumni: Parit Wacharasindhu, Nadiem Makarim
 
 ### Analisi Esterne
 - [Wikipedia - Crown Property Bureau](https://en.wikipedia.org/wiki/Crown_Property_Bureau)
