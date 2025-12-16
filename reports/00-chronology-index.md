@@ -151,7 +151,9 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | Anno | Evento | Link |
 |------|--------|------|
 | 2001 | 11 Settembre | [Link](../docs/events/2001-11-settembre.md) |
+| 2001 | Goldman Sachs-Greece swap (€2.8B nascosti) | [Greece Power Map](greece-power-map.md) |
 | 2008 | Crisi finanziaria | [Link](../docs/events/2008-crisi-finanziaria.md) |
+| 2009 | Papandreou rivela deficit greco reale (12.7%) | [Greece Power Map](greece-power-map.md) |
 
 ### Report
 
@@ -168,12 +170,17 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 | Anno | Evento | Link |
 |------|--------|------|
+| 2010 | Primo bailout Grecia (€110B) | [Greece Power Map](greece-power-map.md) |
+| 2011 | Papademos PM tecnico (Trilateral) | [Greece Power Map](greece-power-map.md) |
 | 2011 | Crisi debito sovrano | [Link](../docs/events/2011-crisi-debito-sovrano.md) |
+| 2012 | Secondo bailout Grecia (€130B, haircut 50%) | [Greece Power Map](greece-power-map.md) |
+| 2015 | Default greco FMI, referendum, terzo bailout (€86B) | [Greece Power Map](greece-power-map.md) |
 
 ### Report
 
 | Report | Focus |
 |--------|-------|
+| [Greece Power Map](greece-power-map.md) | Dinastie, crisi debito, Troika |
 | [SWF Global Power Map](swf-global-power-map.md) | Fondi sovrani |
 | [Intelligence USA-Israel](intelligence-usa-israel.md) | Spyware pipeline |
 | [Dynasties Private Equity](dynasties-private-equity.md) | Dinastie e PE |

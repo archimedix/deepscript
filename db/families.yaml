@@ -264,6 +264,20 @@ families:
     - person: jiang-mianheng
       generation: 2
       role: son of Jiang Zemin
+  karamanlis:
+    origin: Greece, Macedonia (Serres)
+    founder: konstantinos-karamanlis-sr
+    sector: politics
+    generations: 3
+    status: active
+    note: Fondatori New Democracy, 2 generazioni PM, architetti integrazione UE
+    members:
+    - person: konstantinos-karamanlis-sr
+      generation: 1
+      role: founder
+    - person: kostas-karamanlis
+      generation: 2
+      role: heir
   keswick:
     origin: Scotland
     founder: thomas-keswick
@@ -363,20 +377,28 @@ families:
       generation: 1
       role: founder
   mitsotakis:
-    origin: Greece
-    founder: konstantinos-mitsotakis
+    origin: Greece, Crete
+    founder: kostis-mitsotakis
     sector: politics
-    generations: 3
+    generations: 4
     status: active
+    note: Greek political dynasty, linked to Venizelos family
     members:
     - person: kyriakos-mitsotakis
-      generation: 2
-      role: leader
+      generation: 3
+      role: heir
     - person: konstantinos-mitsotakis
-      generation: 1
-      role: founder
-    - person: dora-bakoyannis
       generation: 2
+      role: patriarch
+    - person: dora-bakoyannis
+      generation: 3
+      role: member
+    - person: kostas-bakoyannis
+      generation: 4
+      role: member
+    - person: marika-mitsotakis
+      generation: 2
+      role: matriarch
   mohn:
     origin: Gutersloh, Germany
     founder: carl-bertelsmann
@@ -435,6 +457,23 @@ families:
       role: heir-designated
     - person: james-murdoch
       generation: 3
+  niarchos:
+    origin: Greece, Laconia (Vamvakou)
+    founder: stavros-niarchos
+    sector: shipping
+    generations: 3
+    status: active
+    note: Rivali degli Onassis, Niarchos Foundation ($3.1B donati), SNFCC Atene
+    members:
+    - person: stavros-niarchos
+      generation: 1
+      role: founder
+    - person: philip-niarchos
+      generation: 2
+      role: heir
+    - person: spyros-niarchos
+      generation: 2
+      role: heir
   ochs-sulzberger:
     origin: USA
     founder: Adolph Ochs
@@ -455,6 +494,40 @@ families:
     members:
     - person: idan-ofer
       generation: 2
+      role: heir
+  onassis:
+    origin: Greece/Turkey (Smyrna)
+    founder: aristotle-onassis
+    sector: shipping
+    generations: 3
+    status: active
+    note: Dinastia shipping greca, fondazione filantropica, potere economico non politico
+    members:
+    - person: aristotle-onassis
+      generation: 1
+      role: founder
+    - person: christina-onassis
+      generation: 2
+      role: heir
+    - person: athina-onassis
+      generation: 3
+      role: heir
+  papandreou:
+    origin: Greece, Achaea
+    founder: georgios-papandreou-sr
+    sector: politics
+    generations: 3
+    status: active
+    note: 3 generazioni di PM, fondatori PASOK, dinastia socialista greca
+    members:
+    - person: georgios-papandreou-sr
+      generation: 1
+      role: founder
+    - person: andreas-papandreou
+      generation: 2
+      role: patriarch
+    - person: george-papandreou
+      generation: 3
       role: heir
   peugeot:
     origin: France

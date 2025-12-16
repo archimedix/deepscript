@@ -1371,6 +1371,14 @@ organizations:
     - person: henri-de-castries
       role: steering
       note: Steering Committee
+    - person: dora-bakoyannis
+      role: member
+      from: 2003
+      note: Partecipante 2003, 2009 (come Min. Esteri e OSCE Chair)
+    - person: kostas-karamanlis
+      role: member
+      from: 1998
+      note: Partecipante 1998 come Leader Opposition, 2009 come PM
     - org: trilaterale
       role: partner
   biontech:
@@ -2865,6 +2873,10 @@ organizations:
       from: 2004
       to: 2014
       note: competition-digital-vp
+    - person: konstantinos-karamanlis-sr
+      role: member
+      from: 1981
+      note: Architetto ingresso Grecia in CEE 1981
   commonwealth:
     name: Commonwealth
     type: agency
@@ -3035,7 +3047,7 @@ organizations:
     name: Center for Strategic and International Studies
     type: thinktank
     founded: 1962
-    headquarters: Washington DC, USA
+    headquarters: Washington D.C., USA
     status: active
     sector: foreign-policy
     stakeholders:
@@ -3068,6 +3080,9 @@ organizations:
       from: 1999
       to: 2015
       note: Chairman emeritus
+    - person: andreas-dracopoulos
+      role: board
+      note: Trustee, Dracopoulos iDeas Lab founder
   cvc-capital-partners:
     name: CVC Capital Partners
     type: privateequity
@@ -4868,6 +4883,91 @@ organizations:
       from: 1990
       to: 1993
       note: Prime Minister
+    - person: konstantinos-mitsotakis
+      role: legislator
+      from: 1946
+      to: 2004
+      note: MP for Chania, 60 years
+    - person: dora-bakoyannis
+      role: minister
+      from: 1992
+      to: 1993
+      note: Minister of Culture
+    - person: dora-bakoyannis
+      role: executive
+      from: 2003
+      to: 2006
+      note: Mayor of Athens, first female
+    - person: dora-bakoyannis
+      role: minister
+      from: 2006
+      to: 2009
+      note: Minister of Foreign Affairs
+    - person: kostas-bakoyannis
+      role: executive
+      from: 2019
+      to: 2023
+      note: Mayor of Athens
+    - person: georgios-papandreou-sr
+      role: leader
+      from: 1944
+      to: 1945
+      note: PM post-occupazione
+    - person: georgios-papandreou-sr
+      role: leader
+      from: 1963
+      to: 1963
+      note: PM
+    - person: georgios-papandreou-sr
+      role: leader
+      from: 1964
+      to: 1965
+      note: PM, dimesso da re Costantino
+    - person: andreas-papandreou
+      role: leader
+      from: 1981
+      to: 1989
+      note: PM, primo governo PASOK
+    - person: andreas-papandreou
+      role: leader
+      from: 1993
+      to: 1996
+      note: PM secondo mandato
+    - person: george-papandreou
+      role: minister
+      from: 1999
+      to: 2004
+      note: Min. Esteri, rapprochement Turchia
+    - person: george-papandreou
+      role: leader
+      from: 2009
+      to: 2011
+      note: PM, rivelò crisi debito, chiese bailout
+    - person: konstantinos-karamanlis-sr
+      role: leader
+      from: 1955
+      to: 1963
+      note: PM, ricostruzione economica
+    - person: konstantinos-karamanlis-sr
+      role: leader
+      from: 1974
+      to: 1980
+      note: PM, restaurò democrazia post-giunta
+    - person: konstantinos-karamanlis-sr
+      role: leader
+      from: 1980
+      to: 1985
+      note: President of Republic
+    - person: konstantinos-karamanlis-sr
+      role: leader
+      from: 1990
+      to: 1995
+      note: President of Republic, 2nd term
+    - person: kostas-karamanlis
+      role: leader
+      from: 2004
+      to: 2009
+      note: PM, nascose deficit pre-crisi
   governo-indonesia:
     name: Repubblica di Indonesia
     type: government
@@ -6612,6 +6712,18 @@ organizations:
     - person: morris-amitay
       role: leader
       from: 1981
+  johns-hopkins-university:
+    name: Johns Hopkins University
+    type: foundation
+    founded: 1876
+    headquarters: Baltimore, USA
+    status: active
+    stakeholders:
+    - person: andreas-dracopoulos
+      role: board
+      from: 2012
+      to: 2024
+      note: Trustee, Co-Chair SNF Agora Institute Board of Overseers
   johnson-johnson:
     name: Johnson & Johnson
     type: pharma
@@ -7638,6 +7750,17 @@ organizations:
       role: incubator
       from: 2010
       note: Incubated Moderna, 20M shares ($4B+ value)
+  moma:
+    name: Museum of Modern Art (MoMA)
+    type: foundation
+    founded: 1929
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: andreas-dracopoulos
+      role: member
+      from: 1997
+      note: International Council
   morgan-stanley:
     name: Morgan Stanley
     type: bank
@@ -7882,6 +8005,18 @@ organizations:
     stakeholders:
     - org: news-corp
       share: 100%
+  new-york-public-library:
+    name: New York Public Library
+    type: foundation
+    founded: 1895
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: andreas-dracopoulos
+      role: board
+      from: 2003
+      to: 2010
+      note: Trustee, then Board of Advisors Trustee
   new-york-times:
     name: The New York Times
     type: media
@@ -7972,6 +8107,30 @@ organizations:
     stakeholders:
     - org: governo-giappone
       note: Public broadcaster, license fee funded
+  niarchos-foundation:
+    name: Stavros Niarchos Foundation (SNF)
+    type: foundation
+    founded: 1996
+    headquarters: Athens, New York, Monaco
+    status: active
+    note: $3.4B+ grants, 135 countries, 5200+ grants, GHI $1B+ health initiative
+    stakeholders:
+    - person: stavros-niarchos
+      role: founder
+      from: 1996
+      note: Creata per testamento
+    - person: philip-niarchos
+      role: chairman
+      from: 1996
+      note: Co-President
+    - person: spyros-niarchos
+      role: chairman
+      from: 1996
+      note: Co-President
+    - person: andreas-dracopoulos
+      role: chairman
+      from: 1996
+      note: Co-President
   nickelodeon:
     name: Nickelodeon
     type: media
@@ -8259,6 +8418,23 @@ organizations:
       role: executive
       from: 2006
       to: 2017
+  onassis-foundation:
+    name: Alexander S. Onassis Foundation
+    type: foundation
+    founded: 1975
+    headquarters: Athens, Greece / Vaduz, Liechtenstein
+    status: active
+    note: Filantropia, cultura greca, borse di studio, Onassis Stegi
+    stakeholders:
+    - person: aristotle-onassis
+      role: founder
+      from: 1975
+      note: Fondò in memoria del figlio Alexander
+    - person: christina-onassis
+      role: chairman
+      from: 1975
+      to: 1988
+      note: Prima presidente
   onu:
     name: Organizzazione delle Nazioni Unite
     type: agency
@@ -9215,6 +9391,15 @@ organizations:
     stakeholders:
     - person: robert-mcnamara
       role: board
+  rockefeller-university:
+    name: Rockefeller University
+    type: foundation
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: andreas-dracopoulos
+      role: board
+      note: Trustee
   rosneft:
     name: Rosneft
     type: company
@@ -9912,6 +10097,19 @@ organizations:
     - org: comcast
       share: 100%
       from: 2018
+  socialist-international:
+    name: Socialist International
+    type: forum
+    founded: 1951
+    headquarters: London, UK
+    status: active
+    note: Global alliance of social democratic parties
+    stakeholders:
+    - person: george-papandreou
+      role: chairman
+      from: 2006
+      to: 2022
+      note: President
   softbank:
     name: SoftBank Group
     type: company
@@ -11525,6 +11723,10 @@ organizations:
     - person: ken-lin
       role: ygl
       from: 2025
+    - person: george-papandreou
+      role: member
+      from: 2004
+      note: Partecipante Davos
     - org: bilderberg
       role: partner
     - org: fmi

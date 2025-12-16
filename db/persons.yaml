@@ -378,6 +378,52 @@ persons:
       role: executive
       from: 2021
       note: CEO GoTo Group
+  andreas-dracopoulos:
+    born: 1966
+    nationality: GRC
+    note: Co-President SNF, great-nephew Stavros Niarchos, Wharton MBA
+    affiliations:
+    - org: csis
+      role: board
+      note: Trustee, Dracopoulos iDeas Lab founder
+    - org: niarchos-foundation
+      role: chairman
+      from: 1996
+      note: Co-President
+    - org: rockefeller-university
+      role: board
+      note: Trustee
+    - org: new-york-public-library
+      role: board
+      from: 2003
+      to: 2010
+      note: Trustee, then Board of Advisors Trustee
+    - org: johns-hopkins-university
+      role: board
+      from: 2012
+      to: 2024
+      note: Trustee, Co-Chair SNF Agora Institute Board of Overseers
+    - org: moma
+      role: member
+      from: 1997
+      note: International Council
+  andreas-papandreou:
+    born: 1919
+    died: 1996
+    nationality: GRC
+    family: papandreou
+    note: Fondatore PASOK, PM 1981-89 e 1993-96, PhD Harvard
+    affiliations:
+    - org: governo-grecia
+      role: leader
+      from: 1981
+      to: 1989
+      note: PM, primo governo PASOK
+    - org: governo-grecia
+      role: leader
+      from: 1993
+      to: 1996
+      note: PM secondo mandato
   andree-salim:
     nationality: IDN
     note: Secondogenito, QAF Ltd Singapore (Gardenia bread)
@@ -503,6 +549,17 @@ persons:
       role: leader
       from: 2025
       note: Primo Ministro
+  aristotle-onassis:
+    born: 1906
+    died: 1975
+    nationality: GRC
+    family: onassis
+    note: Shipping magnate, Olympic Airways, sposò Jackie Kennedy
+    affiliations:
+    - org: onassis-foundation
+      role: founder
+      from: 1975
+      note: Fondò in memoria del figlio Alexander
   armand-hartono:
     born: 1975
     nationality: IDN
@@ -542,6 +599,11 @@ persons:
     - org: apple
       role: chairman
       from: 2011
+  athina-onassis:
+    born: 1985
+    nationality: GRC
+    family: onassis
+    note: Ultima erede Onassis, equestre
   avril-haines:
     born: 1969
     nationality: USA
@@ -1148,6 +1210,18 @@ persons:
       role: executive
       from: 1998
       note: CEO 2019-2025, now Chair EQT Council
+  christina-onassis:
+    born: 1950
+    died: 1988
+    nationality: GRC
+    family: onassis
+    note: Ereditiera, prima presidente Onassis Foundation
+    affiliations:
+    - org: onassis-foundation
+      role: chairman
+      from: 1975
+      to: 1988
+      note: Prima presidente
   christine-lagarde:
     born: 1956
     nationality: FRA
@@ -1576,6 +1650,31 @@ persons:
     born: 1954
     nationality: GRC
     family: mitsotakis
+    note: Min. Esteri 2006-2009, Mayor Atene 2003-2006, OSCE Chair 2009, figlia Konstantinos Mitsotakis
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2003
+      note: Partecipante 2003, 2009 (come Min. Esteri e OSCE Chair)
+    - org: governo-grecia
+      role: minister
+      from: 1992
+      to: 1993
+      note: Minister of Culture
+    - org: governo-grecia
+      role: executive
+      from: 2003
+      to: 2006
+      note: Mayor of Athens, first female
+    - org: governo-grecia
+      role: minister
+      from: 2006
+      to: 2009
+      note: Minister of Foreign Affairs
+    relations:
+    - person: kostas-bakoyannis
+      type: parent
+      note: mother
   doug-mcmillon:
     born: 1966
     nationality: USA
@@ -2346,6 +2445,31 @@ persons:
     born: 1976
     nationality: USA
     family: bush
+  george-papandreou:
+    born: 1952
+    nationality: GRC
+    family: papandreou
+    note: PM 2009-2011, rivelò crisi debito, President Socialist International 2006-2022
+    affiliations:
+    - org: wef
+      role: member
+      from: 2004
+      note: Partecipante Davos
+    - org: governo-grecia
+      role: minister
+      from: 1999
+      to: 2004
+      note: Min. Esteri, rapprochement Turchia
+    - org: governo-grecia
+      role: leader
+      from: 2009
+      to: 2011
+      note: PM, rivelò crisi debito, chiese bailout
+    - org: socialist-international
+      role: chairman
+      from: 2006
+      to: 2022
+      note: President
   george-roberts:
     born: 1943
     nationality: USA
@@ -2390,6 +2514,28 @@ persons:
       role: president
       from: 2001
       to: 2009
+  georgios-papandreou-sr:
+    born: 1888
+    died: 1968
+    nationality: GRC
+    family: papandreou
+    note: Old Man of Democracy, fondatore Centro Union
+    affiliations:
+    - org: governo-grecia
+      role: leader
+      from: 1944
+      to: 1945
+      note: PM post-occupazione
+    - org: governo-grecia
+      role: leader
+      from: 1963
+      to: 1963
+      note: PM
+    - org: governo-grecia
+      role: leader
+      from: 1964
+      to: 1965
+      note: PM, dimesso da re Costantino
   gerhard-schroder:
     born: 1944
     nationality: DEU
@@ -4123,6 +4269,37 @@ persons:
     died: 1938
     nationality: SWE
     family: wallenberg
+  konstantinos-karamanlis-sr:
+    born: 1907
+    died: 1998
+    nationality: GRC
+    family: karamanlis
+    note: Fondatore New Democracy, PM 1955-63 e 1974-80, Pres. 1980-85 e 1990-95, portò Grecia in UE
+    affiliations:
+    - org: commissione-ue
+      role: member
+      from: 1981
+      note: Architetto ingresso Grecia in CEE 1981
+    - org: governo-grecia
+      role: leader
+      from: 1955
+      to: 1963
+      note: PM, ricostruzione economica
+    - org: governo-grecia
+      role: leader
+      from: 1974
+      to: 1980
+      note: PM, restaurò democrazia post-giunta
+    - org: governo-grecia
+      role: leader
+      from: 1980
+      to: 1985
+      note: President of Republic
+    - org: governo-grecia
+      role: leader
+      from: 1990
+      to: 1995
+      note: President of Republic, 2nd term
   konstantinos-mitsotakis:
     born: 1918
     died: 2017
@@ -4134,6 +4311,39 @@ persons:
       from: 1990
       to: 1993
       note: Prime Minister
+    - org: governo-grecia
+      role: legislator
+      from: 1946
+      to: 2004
+      note: MP for Chania, 60 years
+    relations:
+    - person: marika-mitsotakis
+      type: spouse
+  kostas-bakoyannis:
+    born: 1978
+    nationality: GRC
+    family: mitsotakis
+    affiliations:
+    - org: governo-grecia
+      role: executive
+      from: 2019
+      to: 2023
+      note: Mayor of Athens
+  kostas-karamanlis:
+    born: 1956
+    nationality: GRC
+    family: karamanlis
+    note: PM 2004-2009, nipote di Konstantinos, nascose deficit pre-crisi
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 1998
+      note: Partecipante 1998 come Leader Opposition, 2009 come PM
+    - org: governo-grecia
+      role: leader
+      from: 2004
+      to: 2009
+      note: PM, nascose deficit pre-crisi
   kusumo-martanto:
     nationality: IDN
     note: Blibli CEO & Co-Founder. Georgia Tech MSc. Ex-Intel, i2 Technologies. Also COO GDP Venture
@@ -4816,6 +5026,11 @@ persons:
     - org: bilderberg
       role: steering
       note: Co-Chair Bilderberg Meetings
+  marika-mitsotakis:
+    born: 1930
+    died: 2012
+    nationality: GRC
+    family: mitsotakis
   marina-berlusconi:
     born: 1966
     nationality: Italia
@@ -6016,6 +6231,16 @@ persons:
       from: 1961
       to: 2021
       note: Co-fondatore, President UK 1961-82, International President 1981-96
+  philip-niarchos:
+    born: 1954
+    nationality: GRC
+    family: niarchos
+    note: Co-presidente SNF, collezionista arte, figlio di Stavros
+    affiliations:
+    - org: niarchos-foundation
+      role: chairman
+      from: 1996
+      note: Co-President
   philipp-rosler:
     born: 1973
     nationality: DEU
@@ -7071,6 +7296,15 @@ persons:
     - org: cp-group
       role: chairman
       from: 2017
+  spyros-niarchos:
+    nationality: GRC
+    family: niarchos
+    note: Co-presidente SNF, figlio di Stavros
+    affiliations:
+    - org: niarchos-foundation
+      role: chairman
+      from: 1996
+      note: Co-President
   srettha-thavisin:
     born: 1963
     nationality: THA
@@ -7109,6 +7343,17 @@ persons:
       from: 2010
       to: 2016
       note: Managing Director & COO
+  stavros-niarchos:
+    born: 1909
+    died: 1996
+    nationality: GRC
+    family: niarchos
+    note: Shipping magnate, rivale Onassis, collezionista arte, 5 matrimoni
+    affiliations:
+    - org: niarchos-foundation
+      role: founder
+      from: 1996
+      note: Creata per testamento
   stefan-quandt:
     born: 1966
     nationality: DEU

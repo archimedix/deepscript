@@ -38,6 +38,7 @@ Report che analizzano istituzioni finanziarie, flussi di capitale, e potere econ
 | [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | 2016-2025 | Investimenti Golfo in USA |
 | [Dynasties Private Equity](dynasties-private-equity.md) | 1994-2025 | Dinastie che usano PE |
 | [Political Financing](political-financing.md) | 2010-2025 | Campaign finance, Super PAC, tech donors |
+| [Greece Power Map](greece-power-map.md) | 2001-2018 | Crisi debito, Goldman swap, Troika, tecnocrazia |
 
 **Eventi correlati:**
 - [Bretton Woods (1944)](../docs/events/1944-bretton-woods.md)
@@ -45,6 +46,7 @@ Report che analizzano istituzioni finanziarie, flussi di capitale, e potere econ
 - [Crisi petrolifera (1973)](../docs/events/1973-crisi-petrolifera.md)
 - [Abolizione Glass-Steagall (1999)](../docs/events/1999-abolizione-glass-steagall.md)
 - [Crisi finanziaria (2008)](../docs/events/2008-crisi-finanziaria.md)
+- [Crisi debito greco (2009-2015)](../docs/events/2009-greek-debt-crisis.md)
 
 ---
 
@@ -117,6 +119,33 @@ Report che analizzano specifici settori economici.
 
 ---
 
+## Grecia
+
+Report e analisi specifiche sulla Grecia moderna.
+
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Greece Power Map](greece-power-map.md) | 2001-2018 | Dinastie, crisi debito, Troika |
+
+**Dinastie politiche:**
+- [Famiglia Papandreou](../docs/family/papandreou.md) - PASOK, 3 generazioni PM
+- [Famiglia Mitsotakis](../docs/family/mitsotakis.md) - ND, PM attuale
+- [Famiglia Karamanlis](../docs/family/karamanlis.md) - ND, architetti UE
+
+**Dinastie economiche:**
+- [Famiglia Onassis](../docs/family/onassis.md) - Shipping, Jackie Kennedy
+- [Famiglia Niarchos](../docs/family/niarchos.md) - Shipping, SNF $3.4B+
+
+**Eventi crisi debito:**
+- Goldman Sachs swap 2001
+- Rivelazione deficit 2009
+- Primo bailout 2010 (€110B)
+- PM tecnico Papademos 2011
+- Secondo bailout 2012 (€130B)
+- Terzo bailout 2015 (€86B)
+
+---
+
 ## Movimenti Politici
 
 Report che analizzano la costruzione di movimenti politici e stati.
@@ -151,6 +180,7 @@ Report focalizzati su specifiche aree geografiche.
 | [Indonesia Power Map](indonesia-power-map.md) | Indonesia | Oligarchie post-Suharto |
 | [Thailand Power Map](thailand-power-map.md) | Thailandia | Monarchia, Shinawatra |
 | [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | Golfo/USA | Investimenti AI |
+| [Greece Power Map](greece-power-map.md) | Grecia | Dinastie, crisi debito, Troika |
 
 ---
 
@@ -176,6 +206,7 @@ Mappe di potere regionali:
 - [Indonesia Power Map](indonesia-power-map.md)
 - [Thailand Power Map](thailand-power-map.md)
 - [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md)
+- [Greece Power Map](greece-power-map.md)
 
 ### Report Settoriali
 Analisi di industrie specifiche:
@@ -189,7 +220,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 23 |
+| **Report totali** | 24 |
 | **Eventi documentati** | 30 |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |
