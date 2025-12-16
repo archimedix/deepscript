@@ -50,10 +50,11 @@ Report che analizzano istituzioni finanziarie, flussi di capitale, e potere econ
 
 ## Forum e Network Elite
 
-Report che analizzano forum transnazionali, reti di coordinamento elite.
+Report che analizzano forum transnazionali, reti di coordinamento elite, e pipeline di potere.
 
 | Report | Periodo | Focus |
 |--------|---------|-------|
+| [Consulting Power Pipeline](consulting-power-pipeline.md) | 1926-2025 | McKinsey come fabbrica di leader, Bob Sternfels hub |
 | [WEF Young Global Leaders](wef-young-global-leaders.md) | 1992-2025 | Programma YGL e impatto |
 | [Revolving Door](revolving-door-ex-leaders.md) | 1995-2024 | Transizioni governo-privato |
 

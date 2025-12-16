@@ -637,6 +637,9 @@ organizations:
     - person: ed-stack
       role: member
       note: Speaker Aspen Ideas Festival
+    - person: thomas-pritzker
+      role: member
+      note: Aspen Strategy Group
     - org: trilaterale
       role: partner
   aspen-romania:
@@ -1342,6 +1345,9 @@ organizations:
       note: Regular attendee since 2011
     - person: jacob-rothschild
       role: member
+    - person: kyriakos-mitsotakis
+      role: member
+      from: 2016
     - person: peter-sutherland
       role: steering
       to: 2014
@@ -1874,6 +1880,8 @@ organizations:
     stakeholders:
     - person: mark-zuckerberg
       role: member
+    - person: bob-sternfels
+      role: member
   byd:
     name: BYD Company
     type: automaker
@@ -2227,6 +2235,8 @@ organizations:
     - person: sunil-mittal
       role: advisor
       note: Global Board of Advisors
+    - person: thomas-pritzker
+      role: member
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -2980,6 +2990,13 @@ organizations:
     stakeholders:
     - org: cp-group
       note: Subsidiary
+  cppib:
+    name: Canada Pension Plan Investment Board
+    type: swf
+    founded: 1997
+    headquarters: Toronto, Canada
+    status: active
+    sector: pension
   credit-suisse:
     name: Credit Suisse
     type: bank
@@ -3014,6 +3031,43 @@ organizations:
       role: chairman
       from: 2018
       note: Full personal ownership since 2018 reform
+  csis:
+    name: Center for Strategic and International Studies
+    type: thinktank
+    founded: 1962
+    headquarters: Washington DC, USA
+    status: active
+    sector: foreign-policy
+    stakeholders:
+    - person: zbigniew-brzezinski
+      role: board
+      from: 1981
+      note: Counselor & Trustee
+    - person: brent-scowcroft
+      role: board
+      note: Counselor & Trustee
+    - person: henry-kissinger
+      role: board
+      note: Counselor & Trustee
+    - person: bob-sternfels
+      role: board
+    - person: thomas-pritzker
+      role: chairman
+      from: 2015
+      note: Chairman Board of Trustees (3rd in history)
+    - person: john-hamre
+      role: executive
+      from: 2000
+      note: President & CEO
+    - person: david-abshire
+      role: founder
+      from: 1962
+      note: Co-founder
+    - person: sam-nunn
+      role: chairman
+      from: 1999
+      to: 2015
+      note: Chairman emeritus
   cvc-capital-partners:
     name: CVC Capital Partners
     type: privateequity
@@ -3662,6 +3716,37 @@ organizations:
       from: 2001
       to: 2002
       note: Translator, Turkish/Farsi/Azerbaijani
+  fclt-global:
+    name: FCLTGlobal
+    type: thinktank
+    founded: 2016
+    headquarters: Boston, USA
+    status: active
+    sector: long-term capitalism
+    stakeholders:
+    - person: bob-sternfels
+      role: board
+    - person: sarah-williamson
+      role: executive
+      from: 2016
+      note: CEO (founding)
+    - org: blackrock
+      role: founder
+      from: 2016
+    - org: state-street
+      role: member
+      from: 2016
+    - org: mckinsey
+      role: founder
+      from: 2013
+      note: Co-initiator with CPPIB
+    - org: gic
+      role: member
+      from: 2016
+    - org: cppib
+      role: founder
+      from: 2013
+      note: Co-initiator with McKinsey
   fda:
     name: Food and Drug Administration
     type: agency
@@ -3728,6 +3813,18 @@ organizations:
       role: partner
     - org: warburg-pincus
       role: partner
+  fedex:
+    name: FedEx Corporation
+    type: company
+    founded: 1971
+    headquarters: Memphis, Tennessee, USA
+    status: active
+    sector: logistics
+    stakeholders:
+    - person: rajesh-subramaniam
+      role: executive
+      from: 2022
+      note: President & CEO
   fenway-sports-group:
     name: Fenway Sports Group
     type: company
@@ -4766,6 +4863,11 @@ organizations:
     - person: kyriakos-mitsotakis
       role: leader
       from: 2019
+    - person: konstantinos-mitsotakis
+      role: leader
+      from: 1990
+      to: 1993
+      note: Prime Minister
   governo-indonesia:
     name: Repubblica di Indonesia
     type: government
@@ -6000,6 +6102,18 @@ organizations:
     - org: walt-disney
       share: 100%
       from: 2024
+  hyatt-hotels:
+    name: Hyatt Hotels Corporation
+    type: company
+    founded: 1957
+    headquarters: Chicago, USA
+    status: active
+    sector: hospitality
+    stakeholders:
+    - person: thomas-pritzker
+      role: chairman
+      from: 2004
+      note: Executive Chairman
   hyundai-motor:
     name: Hyundai Motor Group
     type: automaker
@@ -7157,6 +7271,7 @@ organizations:
       role: employee
       from: 1995
       to: 1997
+      note: London, telecom & financial services
     - person: adil-zainulbhai
       role: chairman
       from: 2004
@@ -7171,6 +7286,10 @@ organizations:
       role: consultant
       from: 2014
       to: 2018
+    - person: bob-sternfels
+      role: executive
+      from: 2021
+      note: Global Managing Partner (13th in history)
   mediacorp:
     name: Mediacorp Pte Ltd
     type: media
@@ -9038,6 +9157,39 @@ organizations:
     founded: 1851
     headquarters: Londra
     status: active
+  rhodes-trust:
+    name: Rhodes Trust
+    type: foundation
+    founded: 1902
+    headquarters: Oxford, UK
+    status: active
+    sector: education
+    stakeholders:
+    - person: pete-buttigieg
+      role: member
+      from: 2005
+      to: 2007
+      note: Rhodes Scholar (Oxford, PPE)
+    - person: chrystia-freeland
+      role: executive
+      from: 2026
+      note: Warden & CEO (from July 2026); Rhodes Scholar 1991
+    - person: bill-clinton
+      role: member
+      from: 1968
+      to: 1970
+      note: Rhodes Scholar (Oxford, Law)
+    - person: susan-rice
+      role: member
+      from: 1986
+      to: 1988
+      note: Rhodes Scholar (Oxford, DPhil)
+    - person: bob-sternfels
+      role: board
+      note: Rhodes Scholar alumnus
+    - person: john-bell
+      role: chairman
+      note: Chairman of Rhodes Trustees
   roche:
     name: F. Hoffmann-La Roche AG
     type: pharma
@@ -9885,6 +10037,32 @@ organizations:
     - person: john-d-rockefeller-sr
       role: founder
       from: 1870
+  stanford-university:
+    name: Stanford University
+    type: foundation
+    founded: 1885
+    headquarters: Stanford, California, USA
+    status: active
+    stakeholders:
+    - person: peter-thiel
+      role: member
+      note: BA Philosophy 1989, JD Law 1992
+    - person: sergey-brin
+      role: member
+      note: MS Computer Science 1995 (PhD dropout - founded Google)
+    - person: larry-page
+      role: member
+      note: MS Computer Science 1998 (PhD dropout - founded Google)
+    - person: condoleezza-rice
+      role: executive
+      note: Provost 1993-1999; Professor; Hoover Fellow
+    - person: rishi-sunak
+      role: member
+      note: MBA 2006 (Fulbright Scholar)
+    - person: bob-sternfels
+      role: board
+      from: 2025
+      note: Trustee (elected Nov 2025); BA 1992
   stargate-project:
     name: Stargate Project
     type: company
@@ -10522,6 +10700,8 @@ organizations:
       note: Member while Shadow Brexit Secretary
     - person: jung-ku-hyun
       role: member
+    - person: bob-sternfels
+      role: member
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -10763,6 +10943,24 @@ organizations:
       from: 2007
       to: 2013
       note: Intelligence analyst, deployed Iraq 2009
+  us-china-business-council:
+    name: US-China Business Council
+    type: thinktank
+    founded: 1973
+    headquarters: Washington DC, USA
+    status: active
+    sector: trade-advocacy
+    stakeholders:
+    - person: bob-sternfels
+      role: board
+    - person: rajesh-subramaniam
+      role: chairman
+      from: 2024
+      note: Board Chair; CEO FedEx
+    - person: sean-stein
+      role: executive
+      from: 2024
+      note: President (7th in history)
   us-cyber-command:
     name: US Cyber Command
     type: agency
@@ -11232,6 +11430,7 @@ organizations:
     - person: kyriakos-mitsotakis
       role: glt
       from: 2003
+      note: Global Leader for Tomorrow 2003
     - person: mark-boris-andrijanic
       role: ygl
       from: 2022

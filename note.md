@@ -11,8 +11,8 @@ categoria Banche
 Gruppo energia (petrolio)
 Casate Reali
 Brasile: lula, bolsonaro
-
-McKinsey
+India, Tata
+Dow, McKinsey
 unthinkable di churchill, alan bruc, 
 
 sartre,  macussen : indipendenza degli stati 

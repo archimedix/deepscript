@@ -777,6 +777,11 @@ persons:
     - org: clinton-foundation
       role: founder
       from: 2001
+    - org: rhodes-trust
+      role: member
+      from: 1968
+      to: 1970
+      note: Rhodes Scholar (Oxford, Law)
   bill-ford-jr:
     born: 1957
     nationality: USA
@@ -823,6 +828,31 @@ persons:
       to: 1998
     - org: kissinger-associates
       role: advisor
+  bob-sternfels:
+    born: 1966
+    nationality: USA
+    affiliations:
+    - org: business-roundtable
+      role: member
+    - org: trilateral-commission
+      role: member
+    - org: mckinsey
+      role: executive
+      from: 2021
+      note: Global Managing Partner (13th in history)
+    - org: csis
+      role: board
+    - org: rhodes-trust
+      role: board
+      note: Rhodes Scholar alumnus
+    - org: stanford-university
+      role: board
+      from: 2025
+      note: Trustee (elected Nov 2025); BA 1992
+    - org: fclt-global
+      role: board
+    - org: us-china-business-council
+      role: board
   borge-brende:
     born: 1965
     nationality: NOR
@@ -884,6 +914,9 @@ persons:
       role: chairman
       from: 1982
       to: 1989
+    - org: csis
+      role: board
+      note: Counselor & Trustee
   bret-taylor:
     nationality: USA
     affiliations:
@@ -1177,6 +1210,10 @@ persons:
     - org: governo-canada
       role: minister
       from: 2020
+    - org: rhodes-trust
+      role: executive
+      from: 2026
+      note: Warden & CEO (from July 2026); Rhodes Scholar 1991
   chung-eui-sun:
     born: 1970
     nationality: KOR
@@ -1221,6 +1258,9 @@ persons:
       role: board
       from: 1991
       to: 1997
+    - org: stanford-university
+      role: executive
+      note: Provost 1993-1999; Professor; Hoover Fellow
   conni-jonsson:
     born: 1959
     nationality: SWE
@@ -1299,6 +1339,15 @@ persons:
       role: ygl
       from: 2019
       note: Director Anti-Corruption Action Centre
+  david-abshire:
+    born: 1926
+    died: 2014
+    nationality: USA
+    affiliations:
+    - org: csis
+      role: founder
+      from: 1962
+      note: Co-founder
   david-cameron:
     born: 1966
     nationality: GBR
@@ -1523,6 +1572,10 @@ persons:
     - org: governo-usa
       role: leader
       from: 2025
+  dora-bakoyannis:
+    born: 1954
+    nationality: GRC
+    family: mitsotakis
   doug-mcmillon:
     born: 1966
     nationality: USA
@@ -2699,6 +2752,9 @@ persons:
       from: 1973
     - org: jpmorgan-international-council
       role: member
+    - org: csis
+      role: board
+      note: Counselor & Trustee
   henry-kravis:
     born: 1944
     nationality: USA
@@ -3387,6 +3443,12 @@ persons:
       from: 2013
       to: 2025
       note: Chairman Board of Directors
+  john-bell:
+    nationality: GBR
+    affiliations:
+    - org: rhodes-trust
+      role: chairman
+      note: Chairman of Rhodes Trustees
   john-brennan:
     born: 1955
     nationality: USA
@@ -3482,6 +3544,14 @@ persons:
       from: 1911
       to: 1953
       note: Senior Partner
+  john-hamre:
+    born: 1950
+    nationality: USA
+    affiliations:
+    - org: csis
+      role: executive
+      from: 2000
+      note: President & CEO
   john-howard:
     born: 1939
     nationality: AUS
@@ -4053,6 +4123,17 @@ persons:
     died: 1938
     nationality: SWE
     family: wallenberg
+  konstantinos-mitsotakis:
+    born: 1918
+    died: 2017
+    nationality: GRC
+    family: mitsotakis
+    affiliations:
+    - org: governo-grecia
+      role: leader
+      from: 1990
+      to: 1993
+      note: Prime Minister
   kusumo-martanto:
     nationality: IDN
     note: Blibli CEO & Co-Founder. Georgia Tech MSc. Ex-Intel, i2 Technologies. Also COO GDP Venture
@@ -4067,10 +4148,15 @@ persons:
   kyriakos-mitsotakis:
     born: 1968
     nationality: GRC
+    family: mitsotakis
     affiliations:
+    - org: bilderberg
+      role: member
+      from: 2016
     - org: wef
       role: glt
       from: 2003
+      note: Global Leader for Tomorrow 2003
     - org: governo-grecia
       role: leader
       from: 2019
@@ -4078,6 +4164,7 @@ persons:
       role: employee
       from: 1995
       to: 1997
+      note: London, telecom & financial services
     - org: chase-bank
       role: employee
       from: 1990
@@ -4168,6 +4255,9 @@ persons:
     - org: alphabet
       role: founder
       from: 1998
+    - org: stanford-university
+      role: member
+      note: MS Computer Science 1998 (PhD dropout - founded Google)
   larry-summers:
     born: 1954
     nationality: USA
@@ -5799,6 +5889,11 @@ persons:
       role: consultant
       from: 2007
       to: 2010
+    - org: rhodes-trust
+      role: member
+      from: 2005
+      to: 2007
+      note: Rhodes Scholar (Oxford, PPE)
   pete-dupont:
     born: 1935
     died: 2021
@@ -5899,6 +5994,9 @@ persons:
       role: advisor
       from: 2015
       note: Initial investor
+    - org: stanford-university
+      role: member
+      note: BA Philosophy 1989, JD Law 1992
   peter-wallenberg-jr:
     born: 1959
     nationality: SWE
@@ -6074,6 +6172,17 @@ persons:
       from: 2017
       to: 2024
       note: CEO Vision Fund
+  rajesh-subramaniam:
+    nationality: USA
+    affiliations:
+    - org: us-china-business-council
+      role: chairman
+      from: 2024
+      note: Board Chair; CEO FedEx
+    - org: fedex
+      role: executive
+      from: 2022
+      note: President & CEO
   ram-ben-barak:
     nationality: ISR
     note: Ex-Mossad deputy director
@@ -6356,6 +6465,9 @@ persons:
       role: partner
       from: 2010
       to: 2014
+    - org: stanford-university
+      role: member
+      note: MBA 2006 (Fulbright Scholar)
   rob-lucas:
     nationality: GBR
     affiliations:
@@ -6600,6 +6712,15 @@ persons:
     - org: stargate-project
       role: partner
       from: 2025
+  sam-nunn:
+    born: 1938
+    nationality: USA
+    affiliations:
+    - org: csis
+      role: chairman
+      from: 1999
+      to: 2015
+      note: Chairman emeritus
   sam-walton:
     born: 1918
     died: 1992
@@ -6685,6 +6806,13 @@ persons:
     - org: tony-blair-institute
       role: advisor
       from: 2023
+  sarah-williamson:
+    nationality: USA
+    affiliations:
+    - org: fclt-global
+      role: executive
+      from: 2016
+      note: CEO (founding)
   sarath-ratanavadi:
     born: 1965
     nationality: Thai
@@ -6741,6 +6869,13 @@ persons:
       role: executive
       from: 2025
       note: CEO
+  sean-stein:
+    nationality: USA
+    affiliations:
+    - org: us-china-business-council
+      role: executive
+      from: 2024
+      note: President (7th in history)
   sean-tong:
     nationality: CHN
     affiliations:
@@ -6770,6 +6905,9 @@ persons:
     - org: alphabet
       role: founder
       from: 1998
+    - org: stanford-university
+      role: member
+      note: MS Computer Science 1995 (PhD dropout - founded Google)
   seth-berkley:
     born: 1956
     nationality: USA
@@ -7208,6 +7346,11 @@ persons:
       role: advisor
       from: 2013
       to: 2017
+    - org: rhodes-trust
+      role: member
+      from: 1986
+      to: 1988
+      note: Rhodes Scholar (Oxford, DPhil)
   susan-wagner:
     born: 1961
     nationality: USA
@@ -7385,6 +7528,23 @@ persons:
       from: 1911
       to: 1948
       note: Partner 1911, Chairman 1943-1948
+  thomas-pritzker:
+    born: 1950
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: member
+    - org: aspen-institute
+      role: member
+      note: Aspen Strategy Group
+    - org: csis
+      role: chairman
+      from: 2015
+      note: Chairman Board of Trustees (3rd in history)
+    - org: hyatt-hotels
+      role: chairman
+      from: 2004
+      note: Executive Chairman
   thomas-rabe:
     born: 1965
     nationality: DEU
@@ -8084,6 +8244,10 @@ persons:
       role: advisor
       from: 1977
       to: 1981
+    - org: csis
+      role: board
+      from: 1981
+      note: Counselor & Trustee
   zhu-hexin:
     nationality: CHN
     note: SAFE Administrator, PBOC Deputy Governor, ex CITIC Chairman
