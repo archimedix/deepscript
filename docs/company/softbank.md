@@ -202,21 +202,23 @@ Il Vision Fund ha creato una **dipendenza strutturale** dai capitali sauditi:
 
 | Persona | Connessione |
 |---------|-------------|
-| [Masayoshi Son](../persone/masayoshi-son.md) | Fondatore e CEO |
-| [Larry Ellison](../persone/larry-ellison.md) | Partner Stargate |
-| **Sam Altman** | Partner Stargate/OpenAI |
-| **Yasir Al-Rumayyan** | PIF Governor, ex-board SoftBank |
-| **Mohammed bin Salman** | Sponsor principale via PIF |
+| [Masayoshi Son](../persons/masayoshi-son.md) | Fondatore e CEO |
+| [Larry Ellison](../persons/larry-ellison.md) | Partner Stargate |
+| [Sam Altman](../persons/sam-altman.md) | Partner Stargate/OpenAI |
+| [Yasir Al-Rumayyan](../persons/yasir-al-rumayyan.md) | PIF Governor, ex-board SoftBank |
+| Mohammed bin Salman | Sponsor principale via PIF |
 
 ### Istituzioni
 
 | Istituzione | Connessione |
 |-------------|-------------|
 | [Stargate Project](stargate-project.md) | Partner fondatore |
-| **PIF (Arabia Saudita)** | Maggiore investitore Vision Fund |
-| **Mubadala** | Investitore Vision Fund |
-| **ARM Holdings** | Controllata 90% |
-| **OpenAI** | Investimento $30B |
+| [PIF Saudi](../swf/pif-saudi.md) | Maggiore investitore Vision Fund ($45B) |
+| [Mubadala](../swf/mubadala.md) | Investitore Vision Fund ($15B) |
+| [ARM Holdings](arm.md) | Controllata 90% |
+| [OpenAI](openai.md) | Investimento $30B |
+| [GoTo](goto.md) | Investitore 15.3% (Indonesia) |
+| [SoftBank Vision Fund](../private-equity/softbank-vision-fund.md) | Veicolo di investimento |
 
 ### Pattern
 

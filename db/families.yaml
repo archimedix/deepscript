@@ -224,6 +224,30 @@ families:
     - person: bill-ford-jr
       generation: 4
       role: chairman
+  hartono:
+    origin: Indonesia
+    founder: oei-wie-gwan
+    sector: tobacco, banking, tech
+    generations: 3
+    status: active
+    note: Indonesia richest family, sino-indonesian
+    members:
+    - person: oei-wie-gwan
+      generation: 1
+      role: founder
+    - person: robert-budi-hartono
+      generation: 2
+      role: patriarch
+    - person: michael-bambang-hartono
+      generation: 2
+      role: patriarch
+    - person: victor-hartono
+      generation: 3
+      role: heir
+    - person: armand-hartono
+      generation: 3
+    - person: martin-hartono
+      generation: 3
   jiang-zemin:
     origin: China
     founder: jiang-zemin
@@ -240,6 +264,24 @@ families:
     - person: jiang-mianheng
       generation: 2
       role: son of Jiang Zemin
+  keswick:
+    origin: Scotland
+    founder: thomas-keswick
+    sector: trade, conglomerate
+    generations: 5
+    status: active
+    note: Dinastia che controlla Jardine Matheson dal 1850s. Discendenti di Jean Jardine (sorella di William Jardine). Net
+      worth $5B+ (Bloomberg 2019).
+    members:
+    - person: ben-keswick
+      generation: 5
+      role: heir
+    - person: adam-keswick
+      generation: 5
+    - person: henry-keswick
+      generation: 4
+    - person: simon-keswick
+      generation: 4
   lauder:
     origin: USA
     founder: Estée Lauder
@@ -532,6 +574,26 @@ families:
     - person: walter-rothschild
       generation: 3
       role: 2nd Baron Rothschild
+  salim:
+    origin: Indonesia
+    founder: sudono-salim
+    sector: food, banking (ex), telecom, infrastructure
+    generations: 3
+    status: active
+    note: Sino-indonesian, ex-Suharto crony, lost BCA 1998, rebuilt via Indofood
+    members:
+    - person: sudono-salim
+      generation: 1
+      role: founder
+    - person: anthoni-salim
+      generation: 2
+      role: patriarch
+    - person: albert-salim
+      generation: 2
+    - person: andree-salim
+      generation: 2
+    - person: mira-salim
+      generation: 2
   shinawatra:
     origin: Thailand
     founder: thaksin-shinawatra

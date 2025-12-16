@@ -25,6 +25,14 @@ persons:
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
+  adam-keswick:
+    nationality: GBR
+    family: keswick
+    affiliations:
+    - org: jardine-matheson
+      role: board
+      from: 2007
+      note: Executive Director
   adil-zainulbhai:
     nationality: IND
     note: Network18 Chairman. McKinsey India Chairman 2004-2012. IIT Bombay, HBS. Rajat Gupta protege
@@ -104,6 +112,9 @@ persons:
       role: chairman-ceo
       from: 2019
       note: CEO dal 2019, Chairman dal 2020
+  albert-salim:
+    nationality: IDN
+    note: Primogenito, ex Volvo dealer
   albert-wohlstetter:
     born: 1913
     died: 1997
@@ -350,6 +361,21 @@ persons:
     - org: seb
       role: founder
       from: 1856
+  andre-soelistyo:
+    nationality: IDN
+    note: GoTo Group CEO, former Gojek co-CEO
+    affiliations:
+    - org: goto
+      role: executive
+      from: 2021
+      note: CEO GoTo Group
+  andree-salim:
+    nationality: IDN
+    note: Secondogenito, QAF Ltd Singapore (Gardenia bread)
+    affiliations:
+    - org: qaf
+      role: owner
+      note: Main shareholder, Vice Chairman
   andrej-plenkovic:
     born: 1970
     nationality: HRV
@@ -420,6 +446,23 @@ persons:
     - org: governo-germania
       role: minister
       from: 2021
+  anthoni-salim:
+    born: 1949
+    nationality: IDN
+    note: CEO Salim Group e Indofood, Chairman First Pacific, ricostruttore post-1998
+    affiliations:
+    - org: salim-group
+      role: executive
+      from: 1992
+      note: CEO, took over from father
+    - org: indofood
+      role: executive
+      from: 2004
+      note: President Director & CEO
+    - org: first-pacific
+      role: chairman
+      from: 2003
+      note: Director since 1981, Chairman 2003
   antonio-angelucci:
     born: 1946
     nationality: Italia
@@ -451,6 +494,15 @@ persons:
       role: leader
       from: 2025
       note: Primo Ministro
+  armand-hartono:
+    born: 1975
+    nationality: IDN
+    note: Director BCA dal 2009
+    affiliations:
+    - org: bca
+      role: board
+      from: 2009
+      note: Director
   armen-panossian:
     nationality: USA
     note: Co-CEO Oaktree (2024-). Head Performing Credit.
@@ -564,6 +616,20 @@ persons:
     - person: shimon-peres
       type: mentor
       note: Political mentor
+  ben-keswick:
+    born: 1978
+    nationality: GBR
+    family: keswick
+    affiliations:
+    - org: jardine-matheson
+      role: chairman
+      from: 2019
+      note: Executive Chairman, 5th gen Keswick
+    - org: jardine-matheson
+      role: executive
+      from: 2012
+      to: 2020
+      note: Managing Director (Taipan)
   beniamino-andreatta:
     born: 1928
     died: 2007
@@ -1793,6 +1859,30 @@ persons:
     - org: warburg-pincus
       role: founder
       from: 1966
+  erick-thohir:
+    born: 1970
+    nationality: IDN
+    note: SOE Minister 2019-. Media tycoon (Mahaka). Inter Milan owner 2013-19. PSSI chairman.
+    affiliations:
+    - org: ioc
+      role: member
+      from: 2019
+    - org: inter-milan
+      role: chairman
+      from: 2013
+      to: 2018
+      note: Owner/President
+    - org: astra-international
+      role: member
+      note: Father Teddy Thohir was co-owner with William Soeryadjaya
+    - org: governo-indonesia
+      role: minister
+      from: 2019
+      note: Minister of State-Owned Enterprises
+    - org: ina-indonesia
+      role: board
+      from: 2021
+      note: Supervisory Board Co-Chair
   ettore-conti:
     born: 1871
     died: 1972
@@ -1969,6 +2059,13 @@ persons:
     - org: pinterest
       role: operative
       note: Product manager, algorithmic systems
+  franciscus-welirang:
+    nationality: IDN
+    note: CEO Bogasari, genero Sudono Salim
+    affiliations:
+    - org: bogasari
+      role: executive
+      note: CEO
   franco-bernabe:
     born: 1948
     nationality: ITA
@@ -2550,6 +2647,16 @@ persons:
     died: 1889
     nationality: USA
     family: dupont
+  henry-keswick:
+    born: 1938
+    nationality: GBR
+    family: keswick
+    affiliations:
+    - org: jardine-matheson
+      role: executive
+      from: 1970
+      to: 1975
+      note: Taipan (6th Keswick)
   henry-kissinger:
     born: 1923
     died: 2023
@@ -3433,6 +3540,15 @@ persons:
     - org: equinor
       role: chairman
       note: Strategy Advisory Council
+  joko-widodo:
+    born: 1961
+    nationality: IDN
+    affiliations:
+    - org: governo-indonesia
+      role: leader
+      from: 2014
+      to: 2024
+      note: Presidente
   jon-gray:
     born: 1969
     nationality: USA
@@ -3918,6 +4034,17 @@ persons:
     died: 1938
     nationality: SWE
     family: wallenberg
+  kusumo-martanto:
+    nationality: IDN
+    note: Blibli CEO & Co-Founder. Georgia Tech MSc. Ex-Intel, i2 Technologies. Also COO GDP Venture
+    affiliations:
+    - org: blibli
+      role: executive
+      from: 2011
+      note: CEO & Co-Founder
+    - org: gdp-venture
+      role: executive
+      note: COO
   kyriakos-mitsotakis:
     born: 1968
     nationality: GRC
@@ -4318,6 +4445,45 @@ persons:
       role: founder
       from: 2011
       note: Founding Managing Partner, ex-Ping An, now Singapore
+  luhut-pandjaitan:
+    born: 1947
+    nationality: IDN
+    affiliations:
+    - org: governo-singapore
+      role: member
+      from: 1999
+      to: 2000
+      note: Ambasciatore Indonesia
+    - org: governo-indonesia
+      role: advisor
+      from: 2014
+      to: 2015
+      note: Chief of Staff to President
+    - org: governo-indonesia
+      role: minister
+      from: 2015
+      to: 2016
+      note: Coord. Min. Political/Legal/Security
+    - org: governo-indonesia
+      role: minister
+      from: 2016
+      to: 2024
+      note: Coord. Min. Maritime Affairs & Investment
+    - org: governo-indonesia
+      role: advisor
+      from: 2024
+      note: Head National Economic Council (Prabowo)
+    - org: toba-sejahtra
+      role: founder
+      from: 2004
+      note: Co-founder, shareholder
+    relations:
+    - person: joko-widodo
+      type: patron
+      note: JV Toba-Rakabu, mentor politico
+    - person: prabowo-subianto
+      type: colleague
+      note: Kopassus, GSG-9 training 1981, Det 81
   luis-videgaray:
     born: 1968
     nationality: MEX
@@ -4413,6 +4579,21 @@ persons:
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
+  manuel-pangilinan:
+    born: 1946
+    nationality: PHL
+    note: MVP, co-fondatore First Pacific, CEO PLDT, President Commissioner Indofood
+    affiliations:
+    - org: indofood
+      role: board
+      note: President Commissioner
+    - org: first-pacific
+      role: executive
+      from: 1981
+      note: Co-founder, MD 1981-99, CEO 2003-
+    - org: pldt
+      role: executive
+      note: President & CEO
   marc-rowan:
     born: 1962
     nationality: USA
@@ -4658,6 +4839,13 @@ persons:
     affiliations:
     - org: bouygues
       role: chairman
+  martin-hartono:
+    nationality: IDN
+    note: Djarum IT, Kaskus, tech investments
+    affiliations:
+    - org: blibli
+      role: chairman
+      note: Principal shareholder via GDP Venture/Djarum
   martin-winterkorn:
     born: 1947
     nationality: DEU
@@ -4767,6 +4955,15 @@ persons:
       role: executive
       from: 2021
       note: Director General. Reappointed 2025
+  michael-bambang-hartono:
+    born: 1939
+    nationality: IDN
+    note: Co-owner Djarum, Indonesia richest, 49% Djarum, bridge player
+    affiliations:
+    - org: djarum
+      role: owner
+      from: 1963
+      note: 49% ownership
   michael-bloomberg:
     born: 1942
     nationality: USA
@@ -4897,6 +5094,9 @@ persons:
     - org: governo-montenegro
       role: leader
       from: 2023
+  mira-salim:
+    nationality: IDN
+    note: Figlia, sposata Franciscus Welirang (CEO Bogasari)
   mitt-romney:
     born: 1947
     nationality: USA
@@ -5034,6 +5234,20 @@ persons:
       role: minister
       from: 2019
       note: Vice PM, Digital Transformation
+  nadiem-makarim:
+    born: 1984
+    nationality: IDN
+    note: Gojek founder 2010. Minister Education 2019-
+    affiliations:
+    - org: governo-indonesia
+      role: minister
+      from: 2019
+      note: Ministro Istruzione e Cultura
+    - org: goto
+      role: founder
+      from: 2010
+      to: 2019
+      note: Gojek founder, left to become Minister
   nahum-goldmann:
     born: 1895
     died: 1982
@@ -5250,6 +5464,16 @@ persons:
       role: founder
       from: 2000
       note: Founder and CEO
+  oei-wie-gwan:
+    born: 1923
+    died: 1963
+    nationality: IDN
+    note: Fondatore Djarum, morto incendio fabbrica
+    affiliations:
+    - org: djarum
+      role: founder
+      from: 1951
+      to: 1963
   ola-kallenius:
     born: 1969
     nationality: SWE
@@ -5387,6 +5611,14 @@ persons:
       role: executive
       from: 2012
       note: CEO since 2012
+  patrick-cao:
+    nationality: IDN
+    note: GoTo Group President
+    affiliations:
+    - org: goto
+      role: executive
+      from: 2021
+      note: President GoTo Group
   patrick-soon-shiong:
     born: 1952
     nationality: USA
@@ -5700,6 +5932,14 @@ persons:
       from: 2009
       to: 2025
       note: CEO
+  prabowo-subianto:
+    born: 1951
+    nationality: IDN
+    affiliations:
+    - org: governo-indonesia
+      role: leader
+      from: 2024
+      note: Presidente
   prannoy-roy:
     born: 1949
     nationality: IND
@@ -6012,6 +6252,22 @@ persons:
     born: 1913
     died: 1994
     nationality: USA
+  ridha-wirakusumah:
+    nationality: IDN
+    note: INA CEO 2021-. Ex-CEO Bank Permata, Head of Indonesia KKR, CEO Maybank Indonesia. Ohio U + City U HK DBA
+    affiliations:
+    - org: kkr
+      role: partner
+      note: Head of Indonesia
+    - org: permata-bank
+      role: executive
+      from: 2017
+      to: 2021
+      note: CEO, led turnaround
+    - org: ina-indonesia
+      role: executive
+      from: 2021
+      note: CEO
   rishi-sunak:
     born: 1980
     nationality: GBR
@@ -6060,6 +6316,15 @@ persons:
       role: chairman
       from: 1992
       to: 2015
+  robert-budi-hartono:
+    born: 1941
+    nationality: IDN
+    note: Co-owner Djarum, Indonesia richest, 51% Djarum
+    affiliations:
+    - org: djarum
+      role: owner
+      from: 1963
+      note: 51% ownership
   robert-davis:
     born: 1967
     nationality: American
@@ -6584,6 +6849,15 @@ persons:
       from: 2025
       to: 2025
       note: Tánaiste, Foreign Affairs
+  simon-keswick:
+    nationality: GBR
+    family: keswick
+    affiliations:
+    - org: jardine-matheson
+      role: executive
+      from: 1983
+      to: 1988
+      note: Taipan (7th Keswick)
   somchai-wongsawat:
     born: 1947
     nationality: THA
@@ -6615,6 +6889,32 @@ persons:
     - org: pheu-thai
       role: member
       from: 2022
+  sri-mulyani:
+    born: 1962
+    nationality: IDN
+    note: Finance Minister 2016-. World Bank MD 2010-16. UI economist.
+    affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor
+    - org: fmi
+      role: board
+      from: 2002
+      to: 2004
+      note: Executive Director
+    - org: governo-indonesia
+      role: minister
+      from: 2016
+      note: Minister of Finance
+    - org: ina-indonesia
+      role: board
+      from: 2021
+      note: Supervisory Board Co-Chair
+    - org: world-bank
+      role: executive
+      from: 2010
+      to: 2016
+      note: Managing Director & COO
   stefan-quandt:
     born: 1966
     nationality: DEU
@@ -6763,6 +7063,43 @@ persons:
       role: founder
       from: 1976
       to: 1985
+  sudono-salim:
+    born: 1916
+    died: 2012
+    nationality: IDN
+    note: Liem Sioe Liong, fondatore Salim Group, Suharto crony, richest Indonesian pre-1998
+    affiliations:
+    - org: bca
+      role: founder
+      to: 1998
+      note: Lost to IBRA during crisis
+    - org: salim-group
+      role: founder
+      from: 1972
+      to: 1992
+    - org: first-pacific
+      role: founder
+      from: 1981
+  suharto:
+    born: 1921
+    died: 2008
+    nationality: IDN
+    affiliations:
+    - org: governo-indonesia
+      role: leader
+      from: 1967
+      to: 1998
+      note: Presidente (New Order)
+  sukarno:
+    born: 1901
+    died: 1970
+    nationality: IDN
+    affiliations:
+    - org: governo-indonesia
+      role: leader
+      from: 1945
+      to: 1967
+      note: Presidente fondatore
   sunil-mittal:
     born: 1957
     nationality: IND
@@ -6836,6 +7173,15 @@ persons:
       role: board
       from: 1997
       note: Owns 19.1%
+  susilo-bambang-yudhoyono:
+    born: 1949
+    nationality: IDN
+    affiliations:
+    - org: governo-indonesia
+      role: leader
+      from: 2004
+      to: 2014
+      note: Presidente
   t-coleman-dupont:
     born: 1863
     died: 1930
@@ -7199,6 +7545,14 @@ persons:
     - org: lazard
       role: advisor
       from: 2000
+  victor-hartono:
+    born: 1972
+    nationality: IDN
+    note: CEO Djarum, UC San Diego, Kellogg MBA, travel ban 2025
+    affiliations:
+    - org: djarum
+      role: executive
+      note: CEO, COO
   victor-rothschild:
     born: 1910
     died: 1990
@@ -7389,6 +7743,24 @@ persons:
       from: 1942
       to: 1945
       note: Direttore OSS
+  william-soeryadjaya:
+    born: 1922
+    died: 2010
+    nationality: IDN
+    affiliations:
+    - org: astra-international
+      role: founder
+      from: 1957
+      to: 1992
+      note: Lost control due to Bank Summa crisis
+  william-tanuwijaya:
+    nationality: IDN
+    note: Tokopedia co-founder 2009. GoTo commissioner
+    affiliations:
+    - org: goto
+      role: founder
+      from: 2009
+      note: Tokopedia co-founder, GoTo commissioner
   william-wales:
     born: 1982
     nationality: GBR

@@ -309,6 +309,12 @@ organizations:
     headquarters: Pittsburgh, USA
     status: active
     sector: alluminio
+  alibaba:
+    name: Alibaba Group
+    type: company
+    headquarters: Hangzhou, China
+    status: active
+    sector: tech
   allen-company:
     name: Allen & Company
     type: bank
@@ -645,9 +651,23 @@ organizations:
   astra-international:
     name: PT Astra International Tbk
     type: company
+    founded: 1957
     headquarters: Jakarta, Indonesia
     status: active
-    sector: conglomerate
+    sector: conglomerate, automotive, financial services
+    stakeholders:
+    - person: erick-thohir
+      role: member
+      note: Father Teddy Thohir was co-owner with William Soeryadjaya
+    - person: william-soeryadjaya
+      role: founder
+      from: 1957
+      to: 1992
+      note: Lost control due to Bank Summa crisis
+    - org: jardine-cycle-carriage
+      role: controlling-shareholder
+      share: 0.501
+      from: 2000
   astrazeneca:
     name: AstraZeneca
     type: pharma
@@ -1012,6 +1032,31 @@ organizations:
       from: 1941
       to: 1943
       note: Produttore Eastern Service, propaganda anti-nazista
+  bca:
+    name: Bank Central Asia
+    type: bank
+    founded: 1957
+    headquarters: Jakarta, Indonesia
+    status: active
+    note: '#1 private bank Indonesia, market cap leader IDX'
+    stakeholders:
+    - person: armand-hartono
+      role: board
+      from: 2009
+      note: Director
+    - person: sudono-salim
+      role: founder
+      to: 1998
+      note: Lost to IBRA during crisis
+    - org: dwimuria-investama
+      share: 54.94
+      from: 2002
+    - org: ibra
+      role: takeover
+      share: 92.8%
+      from: 1998
+      to: 2002
+      note: Nationalized during bank run May 1998, sold to Hartono 2002
   bce:
     name: Banca Centrale Europea
     type: centralbank
@@ -1480,6 +1525,28 @@ organizations:
       from: 2005
       to: 2008
       note: Vice Chairman
+  blibli:
+    name: PT Global Digital Niaga Tbk (Blibli)
+    type: company
+    founded: 2011
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: e-commerce
+    note: IPO Nov 2022 IDR 7.99T ($509M). Owns tiket.com (travel), Ranch Market (grocery). Blibli Tiket ecosystem.
+    stakeholders:
+    - person: martin-hartono
+      role: chairman
+      note: Principal shareholder via GDP Venture/Djarum
+    - person: kusumo-martanto
+      role: executive
+      from: 2011
+      note: CEO & Co-Founder
+    - org: djarum
+      role: parent
+      note: Founded as Djarum subsidiary 2011
+    - org: gdp-venture
+      role: investor
+      note: majority via Global Digital Prima
   bloomberg-lp:
     name: Bloomberg LP
     type: media
@@ -1561,6 +1628,19 @@ organizations:
       from: 1958
       to: 1962
       note: Agent in Chile, paid 70,000 DM, dismissed as untrustworthy
+  bogasari:
+    name: Bogasari Flour Mills
+    type: company
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: food
+    note: Largest flour miller Indonesia, part of Indofood
+    stakeholders:
+    - person: franciscus-welirang
+      role: executive
+      note: CEO
+    - org: indofood
+      role: parent
   bollore-group:
     name: Bollore Group
     type: company
@@ -1807,6 +1887,12 @@ organizations:
       role: founder-chairman-ceo
       from: 1995
       note: Owns 17%
+  bytedance:
+    name: ByteDance (TikTok)
+    type: company
+    headquarters: Beijing, China
+    status: active
+    sector: tech
   c8:
     name: C8
     type: media
@@ -3002,6 +3088,18 @@ organizations:
       from: 1943
       to: 1954
       note: Segretario e Presidente
+  dfi-retail:
+    name: DFI Retail Group
+    type: company
+    founded: 1886
+    headquarters: Hong Kong
+    status: active
+    sector: retail
+    note: Ex Dairy Farm
+    stakeholders:
+    - org: jardine-matheson
+      role: parent
+      share: 0.78
   dicks-sporting-goods:
     name: Dick's Sporting Goods
     type: company
@@ -3044,6 +3142,29 @@ organizations:
     stakeholders:
     - org: walt-disney
       share: 100%
+  djarum:
+    name: Djarum Group
+    type: company
+    founded: 1951
+    headquarters: Kudus, Indonesia
+    status: active
+    sector: tobacco, banking, tech
+    stakeholders:
+    - person: oei-wie-gwan
+      role: founder
+      from: 1951
+      to: 1963
+    - person: robert-budi-hartono
+      role: owner
+      from: 1963
+      note: 51% ownership
+    - person: michael-bambang-hartono
+      role: owner
+      from: 1963
+      note: 49% ownership
+    - person: victor-hartono
+      role: executive
+      note: CEO, COO
   dod:
     name: Department of Defense
     type: government
@@ -3107,6 +3228,16 @@ organizations:
       role: chairman
       from: 1915
       to: 1919
+  dwimuria-investama:
+    name: PT Dwimuria Investama Andalan
+    type: company
+    headquarters: Indonesia
+    status: active
+    note: Holding Hartono per BCA, 54.94% BCA
+    stakeholders:
+    - org: djarum
+      role: parent
+      share: 100
   eastern-seaboard:
     name: Eastern Seaboard Development Program
     type: agency
@@ -3710,6 +3841,29 @@ organizations:
     - org: governo-uae
       role: shareholder
       note: Maggiore banca UAE
+  first-pacific:
+    name: First Pacific Company Limited
+    type: company
+    founded: 1981
+    headquarters: Hong Kong
+    status: active
+    sector: investment holding
+    note: HK-listed, Salim 44%, investments in Indonesia and Philippines
+    stakeholders:
+    - person: sudono-salim
+      role: founder
+      from: 1981
+    - person: anthoni-salim
+      role: chairman
+      from: 2003
+      note: Director since 1981, Chairman 2003
+    - person: manuel-pangilinan
+      role: executive
+      from: 1981
+      note: Co-founder, MD 1981-99, CEO 2003-
+    - org: salim-group
+      share: 44
+      note: 44% ownership
   five-eyes:
     name: Five Eyes
     type: agency
@@ -3754,6 +3908,11 @@ organizations:
       role: executive
       from: 2001
       to: 2003
+    - person: sri-mulyani
+      role: board
+      from: 2002
+      to: 2004
+      note: Executive Director
     - org: wef
       role: partner
     - org: banca-mondiale
@@ -4050,6 +4209,20 @@ organizations:
       from: 2001
       to: 2004
       note: Mandarin translator
+  gdp-venture:
+    name: GDP Venture
+    type: company
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: venture capital
+    note: VC arm of Djarum Group
+    stakeholders:
+    - person: kusumo-martanto
+      role: executive
+      note: COO
+    - org: djarum
+      role: parent
+      note: VC arm
   gedi:
     name: GEDI Gruppo Editoriale
     type: media
@@ -4257,16 +4430,86 @@ organizations:
       from: 2017
       note: $2.5B fund partnership
   google:
-    name: Google
+    name: Google (Alphabet)
     type: company
     founded: 1998
     headquarters: Mountain View, California, USA
     status: active
-    sector: technology
+    sector: tech
     stakeholders:
     - person: frances-haugen
       role: operative
       note: Product manager, ranking systems
+  goto:
+    name: GoTo Group (PT GoTo Gojek Tokopedia Tbk)
+    type: company
+    founded: 2021
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: tech
+    note: 'Merger Gojek+Tokopedia. IPO Apr 2022 $1.1B. Dec 2023: ByteDance acquired 75% Tokopedia'
+    stakeholders:
+    - person: nadiem-makarim
+      role: founder
+      from: 2010
+      to: 2019
+      note: Gojek founder, left to become Minister
+    - person: william-tanuwijaya
+      role: founder
+      from: 2009
+      note: Tokopedia co-founder, GoTo commissioner
+    - person: andre-soelistyo
+      role: executive
+      from: 2021
+      note: CEO GoTo Group
+    - person: patrick-cao
+      role: executive
+      from: 2021
+      note: President GoTo Group
+    - org: warburg-pincus
+      role: investor
+      from: 2021
+    - org: softbank
+      role: investor
+      share: 15.3%
+      from: 2021
+      note: Largest single shareholder, via Tokopedia
+    - org: kkr
+      role: investor
+      from: 2021
+    - org: temasek
+      role: investor
+      from: 2021
+      note: Via Gojek investment
+    - org: gic
+      role: investor
+      from: 2021
+      note: Via Gojek (58% side)
+    - org: google
+      role: investor
+      from: 2021
+      note: Via Gojek
+    - org: astra-international
+      role: investor
+      from: 2021
+    - org: blibli
+      role: former-investor
+      to: 2022
+      note: Sold stake 2022 to repay bank debts
+    - org: alibaba
+      role: investor
+      share: 12.6%
+      from: 2021
+      note: Via Tokopedia
+    - org: tencent
+      role: investor
+      from: 2021
+      note: Via Gojek
+    - org: bytedance
+      role: majority
+      share: 75%
+      from: 2023
+      note: Acquired 75% of Tokopedia Dec 2023
   governo-australia:
     name: Government of Australia
     type: government
@@ -4511,6 +4754,68 @@ organizations:
     - person: kyriakos-mitsotakis
       role: leader
       from: 2019
+  governo-indonesia:
+    name: Repubblica di Indonesia
+    type: government
+    founded: 1945
+    headquarters: Jakarta, Istana Merdeka
+    status: active
+    stakeholders:
+    - person: nadiem-makarim
+      role: minister
+      from: 2019
+      note: Ministro Istruzione e Cultura
+    - person: erick-thohir
+      role: minister
+      from: 2019
+      note: Minister of State-Owned Enterprises
+    - person: sri-mulyani
+      role: minister
+      from: 2016
+      note: Minister of Finance
+    - person: prabowo-subianto
+      role: leader
+      from: 2024
+      note: Presidente
+    - person: joko-widodo
+      role: leader
+      from: 2014
+      to: 2024
+      note: Presidente
+    - person: susilo-bambang-yudhoyono
+      role: leader
+      from: 2004
+      to: 2014
+      note: Presidente
+    - person: suharto
+      role: leader
+      from: 1967
+      to: 1998
+      note: Presidente (New Order)
+    - person: sukarno
+      role: leader
+      from: 1945
+      to: 1967
+      note: Presidente fondatore
+    - person: luhut-pandjaitan
+      role: advisor
+      from: 2014
+      to: 2015
+      note: Chief of Staff to President
+    - person: luhut-pandjaitan
+      role: minister
+      from: 2015
+      to: 2016
+      note: Coord. Min. Political/Legal/Security
+    - person: luhut-pandjaitan
+      role: minister
+      from: 2016
+      to: 2024
+      note: Coord. Min. Maritime Affairs & Investment
+    - person: luhut-pandjaitan
+      role: advisor
+      from: 2024
+      note: Head National Economic Council (Prabowo)
   governo-irlanda:
     name: Governo Irlanda
     type: government
@@ -4850,7 +5155,7 @@ organizations:
       to: 2017
       note: President
   governo-singapore:
-    name: Government of Singapore
+    name: Governo di Singapore
     type: government
     founded: 1959
     headquarters: Singapore
@@ -4888,6 +5193,11 @@ organizations:
       role: leader
       from: 2023
       note: President
+    - person: luhut-pandjaitan
+      role: member
+      from: 1999
+      to: 2000
+      note: Ambasciatore Indonesia
   governo-slovenia:
     name: Governo Slovenia
     type: government
@@ -5590,6 +5900,17 @@ organizations:
       from: 1921
       to: 1935
       note: Secretary-General
+  hongkong-land:
+    name: Hongkong Land Holdings Limited
+    type: company
+    founded: 1889
+    headquarters: Hong Kong
+    status: active
+    sector: real estate
+    stakeholders:
+    - org: jardine-matheson
+      role: parent
+      share: 0.504
   hotel-shilla:
     name: Hotel Shilla
     type: company
@@ -5670,6 +5991,13 @@ organizations:
     - person: chung-eui-sun
       role: executive-chairman
       from: 2020
+  ibra:
+    name: Indonesian Bank Restructuring Agency
+    type: agency
+    founded: 1998
+    headquarters: Jakarta, Indonesia
+    status: defunct
+    note: Created to restructure banking sector after 1997-98 crisis. Managed $65B rescue, recovered ~$20B
   icc:
     name: International Chamber of Commerce
     type: forum
@@ -5838,6 +6166,58 @@ organizations:
     stakeholders:
     - person: lorenzo-pallesi
       role: executive
+  ina-indonesia:
+    name: Indonesia Investment Authority (INA)
+    type: swf
+    founded: 2021
+    headquarters: Jakarta, Indonesia
+    status: active
+    aum: $24.5B target, IDR 163.4T (Oct 2025)
+    note: First Indonesian SWF. $5B initial capital. Reports to President. Fitch BBB rating.
+    stakeholders:
+    - person: ridha-wirakusumah
+      role: executive
+      from: 2021
+      note: CEO
+    - person: erick-thohir
+      role: board
+      from: 2021
+      note: Supervisory Board Co-Chair
+    - person: sri-mulyani
+      role: board
+      from: 2021
+      note: Supervisory Board Co-Chair
+  indofood:
+    name: Indofood Sukses Makmur
+    type: company
+    founded: 1990
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: food
+    note: World largest instant noodle producer, Indomie
+    stakeholders:
+    - person: anthoni-salim
+      role: executive
+      from: 2004
+      note: President Director & CEO
+    - person: manuel-pangilinan
+      role: board
+      note: President Commissioner
+    - org: first-pacific
+      role: investor
+      note: Major stake
+  indomaret:
+    name: Indomaret
+    type: company
+    founded: 1988
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: retail
+    note: Indonesia largest convenience store chain
+    stakeholders:
+    - org: salim-group
+      share: 45
+      note: Via Indoritel Makmur
   inter-milan:
     name: FC Internazionale Milano
     type: sportsclub
@@ -5846,6 +6226,11 @@ organizations:
     status: active
     note: Inter. 20 Scudetti. Owned by Oaktree Capital (2024-) after Suning default
     stakeholders:
+    - person: erick-thohir
+      role: chairman
+      from: 2013
+      to: 2018
+      note: Owner/President
     - org: oaktree-capital
       share: 99.6
       from: 2024
@@ -5888,7 +6273,7 @@ organizations:
       to: 1994
       note: Executive Vice President, Wallenberg family holding
   ioc:
-    name: IOC - International Olympic Committee
+    name: International Olympic Committee
     type: agency
     founded: 1894
     headquarters: Lausanne, Switzerland
@@ -5908,6 +6293,9 @@ organizations:
       role: leader
       from: 2025
       note: President (first woman, first African)
+    - person: erick-thohir
+      role: member
+      from: 2019
   ird:
     name: Information Research Department
     type: agency
@@ -5975,6 +6363,66 @@ organizations:
       share: 100%
       from: 2008
       note: $2.3B from Ford
+  jardine-cycle-carriage:
+    name: Jardine Cycle & Carriage Limited
+    type: company
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - org: jardine-matheson
+      role: parent
+      share: 0.84
+  jardine-matheson:
+    name: Jardine Matheson Holdings Limited
+    type: company
+    founded: 1832
+    headquarters: Hong Kong
+    status: active
+    sector: conglomerate
+    stakeholders:
+    - person: ben-keswick
+      role: chairman
+      from: 2019
+      note: Executive Chairman, 5th gen Keswick
+    - person: ben-keswick
+      role: executive
+      from: 2012
+      to: 2020
+      note: Managing Director (Taipan)
+    - person: adam-keswick
+      role: board
+      from: 2007
+      note: Executive Director
+    - person: henry-keswick
+      role: executive
+      from: 1970
+      to: 1975
+      note: Taipan (6th Keswick)
+    - person: simon-keswick
+      role: executive
+      from: 1983
+      to: 1988
+      note: Taipan (7th Keswick)
+  jardine-motors:
+    name: Jardine Motors Group
+    type: company
+    headquarters: Hong Kong
+    status: active
+    sector: automotive retail
+    stakeholders:
+    - org: jardine-matheson
+      role: parent
+      share: 1.0
+  jardine-pacific:
+    name: Jardine Pacific
+    type: company
+    headquarters: Hong Kong
+    status: active
+    sector: diversified
+    stakeholders:
+    - org: jardine-matheson
+      role: parent
+      share: 1.0
   jewish-agency:
     name: Jewish Agency for Israel
     type: agency
@@ -6265,6 +6713,9 @@ organizations:
       role: executive
       from: 2021
       note: Co-CEO
+    - person: ridha-wirakusumah
+      role: partner
+      note: Head of Indonesia
     - org: mubadala
       role: investor
       note: $1B co-investment Asia-Pacific 2022
@@ -6613,6 +7064,17 @@ organizations:
       share: 99.93%
       from: 2008
       note: Flagship club
+  mandarin-oriental:
+    name: Mandarin Oriental International Limited
+    type: company
+    founded: 1963
+    headquarters: Hong Kong
+    status: active
+    sector: hospitality
+    stakeholders:
+    - org: jardine-matheson
+      role: parent
+      share: 0.87
   mapai:
     type: company
     founded: 1930
@@ -6804,6 +7266,17 @@ organizations:
     - org: state-street
       role: stake
       share: 0.035
+  metro-pacific:
+    name: Metro Pacific Investments Corporation
+    type: company
+    headquarters: Manila, Philippines
+    status: active
+    sector: infrastructure
+    note: Meralco, Maynilad, tollways, hospitals; taken private 2023
+    stakeholders:
+    - org: first-pacific
+      role: parent
+      note: Taken private 2023
   mgx:
     name: MGX Fund Management
     type: swf
@@ -6973,6 +7446,19 @@ organizations:
       share: 51%
       from: 2016
       note: ViacomCBS owns 49%
+  mitratel:
+    name: PT Dayamitra Telekomunikasi Tbk
+    type: company
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: telecom infrastructure
+    note: Tower company, subsidiary of Telkom
+    stakeholders:
+    - org: ina-indonesia
+      role: investor
+      note: Co-invest con ADIA, GIC - $800M deal
+    - org: telkom-indonesia
+      role: parent
   moderna:
     name: Moderna Inc.
     type: pharma
@@ -8015,10 +8501,21 @@ organizations:
       role: chairman
       from: 2020
       note: President Commissioner
+    - person: ridha-wirakusumah
+      role: executive
+      from: 2017
+      to: 2021
+      note: CEO, led turnaround
     - org: bangkok-bank
       share: 98.71
       from: 2020
       note: Acquired for $2.3B from Standard Chartered/Astra; 98.71% after tender offer
+    - org: astra-international
+      role: investor
+      share: 0.4456
+      from: 2004
+      to: 2020
+      note: Sold to Bangkok Bank
   pfizer:
     name: Pfizer Inc.
     type: pharma
@@ -8105,6 +8602,21 @@ organizations:
       from: 1904
       to: 1971
       note: Amministratore delegato Pirelli Holding
+  pldt:
+    name: PLDT Inc
+    type: company
+    founded: 1928
+    headquarters: Manila, Philippines
+    status: active
+    sector: telecom
+    note: Philippine Long Distance Telephone, First Pacific 25.6%
+    stakeholders:
+    - person: manuel-pangilinan
+      role: executive
+      note: President & CEO
+    - org: first-pacific
+      share: 25.6
+      from: 1998
   plo:
     name: Palestine Liberation Organization
     type: agency
@@ -8212,6 +8724,17 @@ organizations:
       role: investor
       share: 12.5%
       from: 2023
+  qaf:
+    name: QAF Limited
+    type: company
+    headquarters: Singapore
+    status: active
+    sector: food
+    note: Gardenia bread, SGX-listed, Andree Salim main shareholder
+    stakeholders:
+    - person: andree-salim
+      role: owner
+      note: Main shareholder, Vice Chairman
   qatar-airways:
     name: Qatar Airways
     type: company
@@ -8631,6 +9154,28 @@ organizations:
       role: ownership
       share: 100%
       note: Agenzia sotto State Council/PBOC
+  salim-group:
+    name: Salim Group
+    type: company
+    founded: 1972
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: conglomerate
+    note: Indonesia largest conglomerate, rebuilt post-1998
+    stakeholders:
+    - person: sudono-salim
+      role: founder
+      from: 1972
+      to: 1992
+    - person: anthoni-salim
+      role: executive
+      from: 1992
+      note: CEO, took over from father
+    - org: ibra
+      role: asset-seizure
+      from: 1998
+      to: 2002
+      note: Seized $5.5B Salim assets as collateral for BLBI bailout
   samsung:
     name: Samsung Group
     type: company
@@ -9512,6 +10057,35 @@ organizations:
     - org: grupo-televisa
       share: 45%
       from: 2022
+  telkom-indonesia:
+    name: PT Telekomunikasi Indonesia (Persero) Tbk
+    type: company
+    founded: 1965
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: telecommunications
+    note: Largest telecom SOE Indonesia, 52.09% governo
+    stakeholders:
+    - org: governo-indonesia
+      role: owner
+      share: 0.5209
+      note: SOE, golden share
+  telkomsel:
+    name: PT Telekomunikasi Selular
+    type: company
+    founded: 1995
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: mobile telecommunications
+    note: Largest mobile operator Indonesia, 169.5M subscribers
+    stakeholders:
+    - org: singtel
+      role: investor
+      share: 0.301
+      note: Strategic partner since 1995
+    - org: telkom-indonesia
+      role: parent
+      share: 0.699
   temasek:
     name: Temasek Holdings
     type: swf
@@ -9529,6 +10103,12 @@ organizations:
       role: chairman
       from: 2025
       note: Chairman India
+  tencent:
+    name: Tencent Holdings
+    type: company
+    headquarters: Shenzhen, China
+    status: active
+    sector: tech
   tesco:
     name: Tesco PLC
     type: company
@@ -9771,6 +10351,18 @@ organizations:
     stakeholders:
     - org: warner-bros-discovery
       share: 100%
+  toba-sejahtra:
+    name: PT Toba Sejahtra Group
+    type: company
+    founded: 2004
+    headquarters: Jakarta, Indonesia
+    status: active
+    sector: energy, mining, coal
+    stakeholders:
+    - person: luhut-pandjaitan
+      role: founder
+      from: 2004
+      note: Co-founder, shareholder
   toka:
     type: company
     founded: 2018
@@ -10679,6 +11271,9 @@ organizations:
     - person: sunil-mittal
       role: member
       note: International Business Council; Co-Chair SDIS 2018
+    - person: sri-mulyani
+      role: member
+      note: Agenda Contributor
     - org: bilderberg
       role: partner
     - org: fmi
@@ -10788,6 +11383,17 @@ organizations:
     - person: john-scarlett
       role: chairman
       note: Co-Chair Global Advisory Council
+  world-bank:
+    name: World Bank
+    type: agency
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: sri-mulyani
+      role: executive
+      from: 2010
+      to: 2016
+      note: Managing Director & COO
   world-jewish-congress:
     name: World Jewish Congress
     type: forum
@@ -10955,3 +11561,13 @@ organizations:
     type: forum
     founded: 1992
     status: active
+  zhongsheng:
+    name: Zhongsheng Group Holdings Limited
+    type: company
+    headquarters: Beijing, China
+    status: active
+    sector: automotive retail
+    stakeholders:
+    - org: jardine-matheson
+      role: investor
+      share: 0.2
