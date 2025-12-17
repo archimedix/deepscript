@@ -222,6 +222,14 @@ Goldman Sachs fu tra i principali advisor nelle privatizzazioni italiane post-[C
 | **Henry Paulson** | Membro CFR |
 | **Network** | Goldman fortemente rappresentata |
 
+### Think Tank Funding
+
+| Think Tank | Ruolo |
+|------------|-------|
+| [Atlantic Council](../think-tank/atlantic-council.md) | **Donatore corporate** - settore finance |
+| [Brookings](../think-tank/brookings.md) | Donatore |
+| [CFR](../think-tank/cfr.md) | Corporate member |
+
 ---
 
 ## Figure Chiave

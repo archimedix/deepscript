@@ -156,7 +156,7 @@ Stournaras          CRISI 2009
 
 | Nome | Anni | Ruolo | Affiliazione |
 |------|------|-------|--------------|
-| **Dimitris Papalexopoulos** | 2008- | **Steering Committee, Treasurer** | Chairman Titan Cement |
+| [**Dimitris Papalexopoulos**](../docs/persons/dimitris-papalexopoulos.md) | 2008- | **Steering Committee, Treasurer** | Chairman [Titan Cement](../docs/company/titan-cement.md) |
 | [Kyriakos Mitsotakis](../docs/persons/kyriakos-mitsotakis.md) | 2016 | Partecipante | PM attuale |
 | [Dora Bakoyannis](../docs/persons/dora-bakoyannis.md) | 2003, 2009 | Partecipante | Min. Esteri |
 | [Kostas Karamanlis](../docs/persons/kostas-karamanlis.md) | 1998, 2009 | Partecipante | PM 2004-2009 |
@@ -178,8 +178,8 @@ Stournaras          CRISI 2009
 
 | Nome | Dal | Ruolo | Note |
 |------|-----|-------|------|
-| **Lucas Papademos** | 1998 | Membro | PM tecnico 2011-12, VP BCE |
-| **Anna Diamantopoulou** | - | Membro | Ex Commissaria UE, DIKTIO |
+| [**Lucas Papademos**](../docs/persons/lucas-papademos.md) | 1998 | Membro | PM tecnico 2011-12, VP BCE |
+| [**Anna Diamantopoulou**](../docs/persons/anna-diamantopoulou.md) | - | Membro | Ex Commissaria UE, [DIKTIO](../docs/think-tank/diktio.md) |
 | Stelios Argyros | - | Membro | Preveza Mills, ex MEP |
 
 ---
@@ -241,6 +241,8 @@ LUG 2015: TERZO BAILOUT
 
 ### Lo Swap Goldman Sachs 2001
 
+Vedi scheda completa: [2001-goldman-greece-swap](../docs/events/2001-goldman-greece-swap.md)
+
 | Aspetto | Dettaglio |
 |---------|-----------|
 | **Importo nascosto** | €2.8 miliardi |
@@ -249,6 +251,11 @@ LUG 2015: TERZO BAILOUT
 | **Contratti totali** | 13 swap yen-euro |
 | **Debito 2005** | Lievitato a €5.1B (quasi raddoppiato) |
 | **Legalita'** | Tecnicamente legale sotto regole Eurostat pre-2008 |
+
+**Attori chiave documentati:**
+- [Lucas Papademos](../docs/persons/lucas-papademos.md) - Governor Bank of Greece
+- [Antigone Loudiadis](../docs/persons/antigone-loudiadis.md) - Goldman Sachs, deal architect (stub)
+- [Petros Christodoulou](../docs/persons/petros-christodoulou.md) - Ex Goldman, NBG coordinator (stub)
 
 > "Goldman Sachs helped mask Greece's debt" - The Bureau of Investigative Journalism
 
@@ -271,14 +278,17 @@ LUG 2015: TERZO BAILOUT
 
 ### Lucas Papademos: Il Tecnocrate
 
+Vedi scheda completa: [lucas-papademos](../docs/persons/lucas-papademos.md)
+
 | Aspetto | Dettaglio |
 |---------|-----------|
 | **Periodo PM** | Novembre 2011 - Maggio 2012 |
-| **Background** | Governor Bank of Greece (1994-2002), VP BCE (2002-2010) |
-| **Forum** | Trilateral Commission (dal 1998), BIS, FSB |
+| **Background** | Governor [Bank of Greece](../docs/central-bank/bank-of-greece.md) (1994-2002), VP [BCE](../docs/central-bank/bce.md) (2002-2010) |
+| **Forum** | [Trilateral Commission](../docs/forum/trilateral-commission.md) (dal 1998), BIS, FSB |
 | **Nomina** | Imposta da UE dopo dimissioni Papandreou |
 | **Mandato** | Implementare bailout, restare nell'Eurozona |
-| **Parallelo** | Mario Monti in Italia (stesso periodo, stessa logica) |
+| **Parallelo** | [Mario Monti](../docs/persons/mario-monti.md) in Italia (stesso periodo, stessa logica) |
+| **Attentato** | Ferito da lettera bomba nel 2017 |
 
 > "When Italy and Greece melted down in 2011, Mario Monti and Lucas Papademos were appointed from on high. Both were called Technocrats, and both were members of the Trilateral Commission."
 
@@ -337,24 +347,30 @@ LUG 2015: TERZO BAILOUT
 
 ### Persone Chiave
 
-| Persona | Ruolo Grecia | Altre Affiliazioni |
-|---------|--------------|-------------------|
-| [Mario Draghi](../docs/persons/mario-draghi.md) | President BCE durante crisi | Goldman Sachs, G30 |
-| [Christine Lagarde](../docs/persons/christine-lagarde.md) | MD FMI durante bailout | BCE (attuale) |
-| Lucas Papademos | PM tecnico 2011-12 | Trilateral, BCE, BIS |
-| [George Papandreou](../docs/persons/george-papandreou.md) | PM che rivelo' crisi | Socialist International |
-| [Kyriakos Mitsotakis](../docs/persons/kyriakos-mitsotakis.md) | PM attuale | WEF GLT, Bilderberg, McKinsey |
+| Persona | Ruolo Grecia | Altre Affiliazioni | Scheda |
+|---------|--------------|-------------------|--------|
+| [Mario Draghi](../docs/persons/mario-draghi.md) | President BCE durante crisi | Goldman Sachs, G30 | Esistente |
+| [Christine Lagarde](../docs/persons/christine-lagarde.md) | MD FMI durante bailout | BCE (attuale) | Esistente |
+| [Lucas Papademos](../docs/persons/lucas-papademos.md) | PM tecnico 2011-12 | Trilateral, BCE, BIS | **Completo** |
+| [George Papandreou](../docs/persons/george-papandreou.md) | PM che rivelo' crisi | Socialist International | Esistente |
+| [Kyriakos Mitsotakis](../docs/persons/kyriakos-mitsotakis.md) | PM attuale | WEF GLT, Bilderberg, McKinsey | Esistente |
+| [Dimitris Papalexopoulos](../docs/persons/dimitris-papalexopoulos.md) | Bilderberg Steering, Treasurer | Titan, Atlantic Council, WEF | **Completo** |
+| [Anna Diamantopoulou](../docs/persons/anna-diamantopoulou.md) | Ex Commissaria UE, Min. | Trilateral, ECFR, DIKTIO | **Completo** |
+| [Yannis Stournaras](../docs/persons/yannis-stournaras.md) | Gov. Bank of Greece | BCE Governing Council | Stub |
 
 ### Istituzioni
 
 | Istituzione | Ruolo | Scheda |
 |-------------|-------|--------|
-| [BCE](../docs/central-bank/bce.md) | Troika, acquisto bond | Da creare |
+| [BCE](../docs/central-bank/bce.md) | Troika, acquisto bond | Esistente |
 | [FMI](../docs/agency/fmi.md) | Troika, prestiti | Da creare |
 | [Goldman Sachs](../docs/bank/goldman-sachs.md) | Swap 2001 | Esistente |
 | [Bilderberg](../docs/forum/bilderberg.md) | Meeting 1993, 2009 in Grecia | Esistente |
 | [WEF](../docs/forum/wef.md) | GLT Mitsotakis | Esistente |
-| [Trilateral Commission](../docs/forum/trilateral-commission.md) | Papademos membro | Da creare |
+| [Trilateral Commission](../docs/forum/trilateral-commission.md) | Papademos, Diamantopoulou | Esistente |
+| [Bank of Greece](../docs/central-bank/bank-of-greece.md) | Banca centrale, nodo BCE | **Completo** |
+| [Atlantic Council](../docs/think-tank/atlantic-council.md) | Papalexopoulos board | Stub |
+| [DIKTIO](../docs/think-tank/diktio.md) | Think tank Diamantopoulou | Stub |
 
 ### Fondazioni
 
@@ -418,30 +434,51 @@ RETURN p.id, o.id, r.role
 
 ---
 
-## Da Aggiungere al DB
+## Stato Documentazione
 
-### Persone
+### Completato (Dicembre 2024)
+
+| ID | Tipo | Link |
+|----|------|------|
+| lucas-papademos | Person | [Scheda](../docs/persons/lucas-papademos.md) |
+| dimitris-papalexopoulos | Person | [Scheda](../docs/persons/dimitris-papalexopoulos.md) |
+| anna-diamantopoulou | Person | [Scheda](../docs/persons/anna-diamantopoulou.md) |
+| bank-of-greece | CentralBank | [Scheda](../docs/central-bank/bank-of-greece.md) |
+| 2001-goldman-greece-swap | Event | [Scheda](../docs/events/2001-goldman-greece-swap.md) |
+
+### Stub Creati (da espandere)
+
+| ID | Tipo | Note |
+|----|------|------|
+| yannis-stournaras | Person | Gov. Bank of Greece attuale |
+| george-provopoulos | Person | Gov. Bank of Greece 2008-2014 |
+| antigone-loudiadis | Person | Goldman, architetto swap |
+| petros-christodoulou | Person | Ex Goldman, NBG, debt manager |
+| titan-cement | Company | Papalexopoulos Chairman |
+| atlantic-council | ThinkTank | Papalexopoulos advisory board |
+| diktio | ThinkTank | Diamantopoulou founder |
+
+### Da Aggiungere
+
+#### Persone
 
 | ID | Ruolo | Priorita' |
 |----|-------|-----------|
-| lucas-papademos | PM tecnico, VP BCE, Trilateral | Alta |
-| dimitris-papalexopoulos | Bilderberg Steering, Titan | Alta |
-| anna-diamantopoulou | Trilateral, ex Commissaria UE | Media |
 | byron-vassiliades | WEF YGL 2016 | Bassa |
+| alexis-tsipras | PM 2015-2019, referendum | Media |
+| yanis-varoufakis | Min. Finanze 2015, DiEM25 | Media |
 
-### Organizzazioni
+#### Organizzazioni
 
 | ID | Tipo | Priorita' |
 |----|------|-----------|
-| bank-of-greece | CentralBank | Alta |
-| titan-cement | Company | Media |
-| trilateral-commission | Forum | Alta |
+| famiglia-papandreou | Family | Alta |
+| famiglia-latsis | Family | Media |
 
-### Eventi
+#### Eventi
 
 | ID | Anno | Descrizione |
 |----|------|-------------|
-| 2001-goldman-greece-swap | 2001 | Swap che nascose €2.8B debito |
 | 2009-greek-deficit-revelation | 2009 | Papandreou rivela deficit reale |
 | 2010-greek-bailout-1 | 2010 | Primo bailout €110B |
 | 2011-papademos-technocrat-pm | 2011 | PM tecnico Trilateral |
@@ -471,4 +508,4 @@ RETURN p.id, o.id, r.role
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: 17 Dicembre 2024*

@@ -706,6 +706,97 @@ organizations:
       role: chairman
       from: 2022
       note: Co-chairman, 55% stake with investor group
+  atlantic-council:
+    name: Atlantic Council
+    type: thinktank
+    founded: 1961
+    headquarters: Washington, DC, USA
+    status: active
+    stakeholders:
+    - person: brent-scowcroft
+      role: chairman
+      from: 2013
+      to: 2014
+      note: Interim Chairman; anche 1998-99
+    - person: robert-gates
+      role: board
+      note: Honorary Director
+    - person: henry-kissinger
+      role: board
+      note: Honorary Director
+    - person: leon-panetta
+      role: board
+      note: Honorary Director
+    - person: michael-hayden
+      role: board
+      note: Board member
+    - person: dimitris-papalexopoulos
+      role: board
+      note: International Advisory Board
+    - person: frederick-kempe
+      role: executive
+      from: 2006
+      note: President & CEO
+    - person: john-f-w-rogers
+      role: chairman
+      note: Chairman attuale
+    - person: james-l-jones
+      role: chairman
+      from: 2007
+      to: 2009
+      note: Chairman 2007-09, 2017-18; Executive Chairman Emeritus
+    - person: adrienne-arsht
+      role: board
+      note: Executive Vice Chair
+    - person: stephen-hadley
+      role: board
+      note: Executive Vice Chair, Chair International Advisory Board
+    - person: jon-huntsman-jr
+      role: chairman
+      from: 2014
+      to: 2017
+    - person: chuck-hagel
+      role: chairman
+      from: 2009
+      to: 2013
+    - person: dean-acheson
+      role: founder
+      from: 1961
+      note: Vice Chair fondatore
+    - person: christian-herter
+      role: founder
+      from: 1961
+      note: Primo Chairman
+    - person: wesley-clark
+      role: board
+      note: Board member
+    - org: goldman-sachs
+      role: donor
+      note: Corporate donor - Finance sector
+    - org: governo-uk
+      role: donor
+      note: Government donor - Foreign Office >$1M (2021)
+    - org: governo-usa
+      role: donor
+      note: Government donor - DoD, State Dept >$500K each
+    - org: microsoft
+      role: donor
+      note: Corporate donor - Tech sector
+    - org: meta
+      role: donor
+      note: Corporate donor - Tech sector
+    - org: chevron
+      role: donor
+      note: Corporate donor - Energy sector
+    - org: governo-uae
+      role: donor
+      note: Government donor >$1M (2021)
+    - org: northrop-grumman
+      role: donor
+      note: Corporate donor - Defense sector
+    - org: google
+      role: donor
+      note: Corporate donor - Tech sector
   atlantik-brucke:
     name: Atlantik-Brücke
     type: thinktank
@@ -981,6 +1072,30 @@ organizations:
     - org: temasek
       role: shareholder
       note: Chinese bank stake
+  bank-of-greece:
+    name: Bank of Greece
+    type: centralbank
+    founded: 1927
+    headquarters: Athens, Greece
+    status: active
+    stakeholders:
+    - person: lucas-papademos
+      role: executive
+      from: 1994
+      to: 2002
+      note: Governor
+    - person: dimitris-papalexopoulos
+      role: board
+      note: General Council
+    - person: yannis-stournaras
+      role: executive
+      from: 2014
+      note: Governor
+    - person: george-provopoulos
+      role: executive
+      from: 2008
+      to: 2014
+      note: Governor
   barclays:
     name: Barclays
     type: bank
@@ -1070,12 +1185,62 @@ organizations:
     - person: christine-lagarde
       role: executive
       from: 2019
+      note: Presidente BCE
     - person: mario-draghi
       role: executive
       from: 2011
       to: 2019
+      note: Presidente BCE - Whatever it takes
+    - person: lucas-papademos
+      role: executive
+      from: 2002
+      to: 2010
+      note: Vice President
+    - person: yannis-stournaras
+      role: board
+      from: 2014
+      note: Governing Council member
+    - person: wim-duisenberg
+      role: executive
+      from: 1998
+      to: 2003
+      note: Primo Presidente BCE
+    - person: jean-claude-trichet
+      role: executive
+      from: 2003
+      to: 2011
+      note: Presidente BCE
+    - person: luis-de-guindos
+      role: executive
+      from: 2018
+      note: Vice President BCE
+    - person: philip-lane
+      role: executive
+      from: 2019
+      note: Chief Economist
+    - person: isabel-schnabel
+      role: board
+      from: 2020
+      note: Executive Board - Markets
+    - person: frank-elderson
+      role: board
+      from: 2020
+      note: Executive Board - Banking Supervision
+    - person: piero-cipollone
+      role: board
+      from: 2023
+      note: Executive Board - Payments
+    - person: fabio-panetta
+      role: board
+      from: 2020
+      to: 2023
+      note: Executive Board, poi Governatore Banca Italia
     - org: bis
       role: partner
+    - org: bank-of-greece
+      role: member
+      from: 2001
+      note: Eurosystem member
   beacon-global-strategies:
     name: Beacon Global Strategies
     type: company
@@ -1379,6 +1544,17 @@ organizations:
       role: member
       from: 1998
       note: Partecipante 1998 come Leader Opposition, 2009 come PM
+    - person: dimitris-papalexopoulos
+      role: steering
+      from: 2008
+      note: Steering Committee, Treasurer Foundation
+    - person: mark-rutte
+      role: member
+      note: Partecipante (NL paese fondatore Bilderberg)
+    - person: jens-stoltenberg
+      role: chairman
+      from: 2024
+      note: Chairman Bilderberg Group (Dec 2024), ex Co-Chairman
     - org: trilaterale
       role: partner
   biontech:
@@ -1425,8 +1601,16 @@ organizations:
     headquarters: Basilea
     status: active
     stakeholders:
+    - person: lucas-papademos
+      role: board
+      from: 1994
+      to: 2010
+      note: Central Bank Governance Group
     - org: bce
       role: partner
+    - org: bank-of-greece
+      role: member
+      note: Member central bank
   blackrock:
     name: BlackRock
     type: assetmanager
@@ -2709,6 +2893,9 @@ organizations:
     - person: jacob-wallenberg
       role: board
       note: Former
+    - person: anna-diamantopoulou
+      role: board
+      note: Board of Directors Coca-Cola HBC
     - org: berkshire-hathaway
       role: stake
       share: 0.093
@@ -2877,6 +3064,11 @@ organizations:
       role: member
       from: 1981
       note: Architetto ingresso Grecia in CEE 1981
+    - person: anna-diamantopoulou
+      role: executive
+      from: 1999
+      to: 2004
+      note: Commissioner Employment, Social Affairs (Prodi Commission)
   commonwealth:
     name: Commonwealth
     type: agency
@@ -3213,6 +3405,17 @@ organizations:
       role: owner
       share: 100%
       from: 2016
+  diktio:
+    name: DIKTIO - Network for Reform in Greece and Europe
+    type: thinktank
+    founded: 2013
+    headquarters: Athens, Greece
+    status: active
+    stakeholders:
+    - person: anna-diamantopoulou
+      role: founder
+      from: 2013
+      note: President
   disney-plus:
     name: Disney+
     type: media
@@ -3367,6 +3570,9 @@ organizations:
     stakeholders:
     - person: alja-brglez
       role: member
+    - person: anna-diamantopoulou
+      role: board
+      note: Council member
   economist:
     name: The Economist
     type: media
@@ -3572,7 +3778,7 @@ organizations:
     - org: investor-ab
       role: major-shareholder
   ert:
-    name: European Round Table of Industrialists
+    name: European Round Table for Industry
     type: forum
     founded: 1983
     headquarters: Brussels, Belgium
@@ -3580,6 +3786,9 @@ organizations:
     stakeholders:
     - person: jacob-wallenberg
       role: member
+    - person: dimitris-papalexopoulos
+      role: member
+      note: Co-Chair Energy Transition Committee
   esl-investments:
     name: ESL Investments
     type: privateequity
@@ -3808,6 +4017,11 @@ organizations:
       role: chairman
       from: 1987
       to: 2006
+    - person: lucas-papademos
+      role: advisor
+      from: 1980
+      to: 1985
+      note: Federal Reserve Bank of Boston
     - org: jpmorgan-chase
       role: partner
     - org: bis
@@ -4534,6 +4748,16 @@ organizations:
       from: 1984
       to: 1988
       note: Risk arbitrage dept, worked with Robert Rubin
+    - person: antigone-loudiadis
+      role: executive
+      from: 1994
+      to: 2007
+      note: Head of FICC Sales Europe, Partner
+    - person: petros-christodoulou
+      role: executive
+      from: 1987
+      to: 1992
+      note: Head Money Markets Trading London, Head Provincial Bond Trading Canada
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -4968,6 +5192,16 @@ organizations:
       from: 2004
       to: 2009
       note: PM, nascose deficit pre-crisi
+    - person: lucas-papademos
+      role: leader
+      from: 2011
+      to: 2012
+      note: Prime Minister (technocrat)
+    - person: anna-diamantopoulou
+      role: minister
+      from: 2009
+      to: 2012
+      note: Min. Education 2009-12, Min. Development 2012
   governo-indonesia:
     name: Repubblica di Indonesia
     type: government
@@ -5275,6 +5509,16 @@ organizations:
       role: minister
       from: 2001
       to: 2004
+    - person: jens-stoltenberg
+      role: leader
+      from: 2000
+      to: 2013
+      note: PM 2000-01, 2005-13; Finance Min 1996-97, 2024-
+    - person: thorvald-stoltenberg
+      role: minister
+      from: 1987
+      to: 1989
+      note: Foreign Minister 1987-89, 1990-93; Defence Minister 1979-81
   governo-nz:
     name: Governo Nuova Zelanda
     type: government
@@ -5296,6 +5540,11 @@ organizations:
       from: 1940
       to: 1945
       note: Comandante Forze Interne Olandesi
+    - person: mark-rutte
+      role: leader
+      from: 2010
+      to: 2024
+      note: Prime Minister - longest serving in Dutch history
   governo-portogallo:
     name: Governo Portogallo
     type: government
@@ -7402,6 +7651,11 @@ organizations:
       role: executive
       from: 2021
       note: Global Managing Partner (13th in history)
+    - person: dimitris-papalexopoulos
+      role: advisor
+      from: 1987
+      to: 1989
+      note: Business consultant USA/Germany
   mediacorp:
     name: Mediacorp Pte Ltd
     type: media
@@ -7898,6 +8152,28 @@ organizations:
       from: 2013
       to: 2014
       note: Presidente Delegazione Italiana, Assemblea Parlamentare
+    - person: james-l-jones
+      role: executive
+      from: 2003
+      to: 2006
+      note: SACEUR - Supreme Allied Commander Europe
+    - person: wesley-clark
+      role: executive
+      from: 1997
+      to: 2000
+      note: SACEUR - Supreme Allied Commander Europe
+    - person: mark-rutte
+      role: executive
+      from: 2024
+      note: 14th Secretary General
+    - person: jens-stoltenberg
+      role: executive
+      from: 2014
+      to: 2024
+      note: 13th Secretary General - 10 years, 4 extensions
+    - org: atlantic-council
+      role: advocacy
+      note: Think tank pro-NATO, fondato per supporto Alleanza Atlantica
   nbc:
     name: NBC
     type: media
@@ -8459,6 +8735,9 @@ organizations:
       role: speaker
       from: 1974
       note: First PLO address to UN General Assembly
+    - person: jens-stoltenberg
+      role: advisor
+      note: UN Special Envoy on Climate Change
     - org: wef
       role: partner
   opec:
@@ -10741,6 +11020,18 @@ organizations:
     - person: john-scarlett
       role: board
       from: 2011
+  titan-cement:
+    name: Titan Cement Group
+    type: company
+    founded: 1902
+    headquarters: Athens, Greece
+    status: active
+    sector: materials
+    stakeholders:
+    - person: dimitris-papalexopoulos
+      role: chairman
+      from: 1989
+      note: CEO 1996-2019, Chairman 2023-
   tko-group:
     name: TKO Group Holdings
     type: company
@@ -10900,6 +11191,13 @@ organizations:
       role: member
     - person: bob-sternfels
       role: member
+    - person: lucas-papademos
+      role: member
+      from: 1998
+      note: European Group
+    - person: anna-diamantopoulou
+      role: member
+      note: European Group
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -11092,6 +11390,70 @@ organizations:
       from: 2009
       to: 2016
       note: Secretary General
+  unilever:
+    name: Unilever
+    type: company
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: mark-rutte
+      role: executive
+      from: 1992
+      to: 2002
+      note: Human Resources Manager
+  unione-europea:
+    name: Unione Europea
+    type: agency
+    founded: 1957
+    headquarters: Bruxelles, Belgio
+    status: active
+    sector: supranational
+    note: Fondata come CEE (Trattato di Roma 1957), divenne UE con Trattato di Maastricht 1992
+    stakeholders:
+    - person: jacques-delors
+      role: leader
+      from: 1985
+      to: 1995
+      note: Presidente Commissione, architetto Maastricht e mercato unico
+    - person: ursula-von-der-leyen
+      role: leader
+      from: 2019
+      note: Presidente Commissione Europea
+    - person: kaja-kallas
+      role: leader
+      from: 2024
+      note: Alto Rappresentante Affari Esteri e Politica di Sicurezza
+    - person: alcide-de-gasperi
+      role: founder
+      note: PM Italia, padre fondatore
+    - person: antonio-costa
+      role: leader
+      from: 2024
+      note: Presidente Consiglio Europeo
+    - person: jean-monnet
+      role: founder
+      note: Architetto integrazione europea, primo presidente Alta Autorita CECA
+    - person: robert-schuman
+      role: founder
+      note: Dichiarazione Schuman 9 maggio 1950, Min Esteri Francia
+    - person: paul-henri-spaak
+      role: founder
+      note: Organizzatore Conferenza Messina 1955, Trattati di Roma
+    - person: konrad-adenauer
+      role: founder
+      note: Cancelliere Germania Ovest, padre fondatore
+    - org: bce
+      role: institution
+      note: Banca centrale zona euro
+    - org: eurogroup
+      role: institution
+      note: Ministri Finanze zona euro
+    - org: commissione-ue
+      role: institution
+      note: Esecutivo UE
+    - org: parlamento-europeo
+      role: institution
+      note: Legislativo UE
   unit-8200:
     name: Unit 8200
     type: agency
@@ -11329,6 +11691,17 @@ organizations:
     headquarters: New York, USA
     status: active
     sector: real-estate
+  vvd:
+    name: VVD
+    type: company
+    headquarters: The Hague, Netherlands
+    status: active
+    stakeholders:
+    - person: mark-rutte
+      role: leader
+      from: 2006
+      to: 2024
+      note: Party Leader
   wall-street-journal:
     name: The Wall Street Journal
     type: media
@@ -11727,6 +12100,16 @@ organizations:
       role: member
       from: 2004
       note: Partecipante Davos
+    - person: dimitris-papalexopoulos
+      role: member
+      from: 2004
+      note: Davos participant
+    - person: mark-rutte
+      role: member
+      note: Davos participant as PM
+    - person: jens-stoltenberg
+      role: member
+      note: Davos regular participant, Agenda Contributor
     - org: bilderberg
       role: partner
     - org: fmi

@@ -142,6 +142,7 @@
 | [WEF](../forum/wef.md) | Strategic Partner |
 | [BlackRock](../asset-manager/blackrock.md) | Top shareholder |
 | [Vanguard](../asset-manager/vanguard.md) | Top shareholder |
+| [Atlantic Council](../think-tank/atlantic-council.md) | **Donatore corporate** - settore tech |
 
 ### Connessioni Forum
 

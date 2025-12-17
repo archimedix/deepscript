@@ -59,6 +59,12 @@ persons:
     born: 1906
     died: 1962
     nationality: DEU
+  adrienne-arsht:
+    nationality: USA
+    affiliations:
+    - org: atlantic-council
+      role: board
+      note: Executive Vice Chair
   ag-sulzberger:
     born: 1980
     nationality: USA
@@ -161,7 +167,7 @@ persons:
   alcide-de-gasperi:
     born: 1881
     died: 1954
-    nationality: Italia
+    nationality: ITA
     affiliations:
     - org: governo-italia
       role: leader
@@ -173,6 +179,9 @@ persons:
       from: 1943
       to: 1954
       note: Segretario e Presidente
+    - org: unione-europea
+      role: founder
+      note: PM Italia, padre fondatore
   aleksandar-vucic:
     born: 1970
     nationality: SRB
@@ -490,6 +499,33 @@ persons:
       role: leader
       from: 2005
       to: 2021
+  anna-diamantopoulou:
+    born: 1959
+    nationality: GRC
+    affiliations:
+    - org: coca-cola
+      role: board
+      note: Board of Directors Coca-Cola HBC
+    - org: commissione-ue
+      role: executive
+      from: 1999
+      to: 2004
+      note: Commissioner Employment, Social Affairs (Prodi Commission)
+    - org: trilateral-commission
+      role: member
+      note: European Group
+    - org: governo-grecia
+      role: minister
+      from: 2009
+      to: 2012
+      note: Min. Education 2009-12, Min. Development 2012
+    - org: ecfr
+      role: board
+      note: Council member
+    - org: diktio
+      role: founder
+      from: 2013
+      note: President
   annalena-baerbock:
     born: 1980
     nationality: DEU
@@ -518,6 +554,14 @@ persons:
       role: chairman
       from: 2003
       note: Director since 1981, Chairman 2003
+  antigone-loudiadis:
+    nationality: GRC
+    affiliations:
+    - org: goldman-sachs
+      role: executive
+      from: 1994
+      to: 2007
+      note: Head of FICC Sales Europe, Partner
   antonio-angelucci:
     born: 1946
     nationality: Italia
@@ -530,6 +574,14 @@ persons:
     - org: il-giornale
       role: owner
       from: 2024
+  antonio-costa:
+    born: 1961
+    nationality: PRT
+    affiliations:
+    - org: unione-europea
+      role: leader
+      from: 2024
+      note: Presidente Consiglio Europeo
   antonio-di-pietro:
     born: 1950
     nationality: ITA
@@ -979,6 +1031,11 @@ persons:
     - org: csis
       role: board
       note: Counselor & Trustee
+    - org: atlantic-council
+      role: chairman
+      from: 2013
+      to: 2014
+      note: Interim Chairman; anche 1998-99
   bret-taylor:
     nationality: USA
     affiliations:
@@ -1203,6 +1260,13 @@ persons:
       role: founder
       from: 1944
       to: 1988
+  christian-herter:
+    nationality: USA
+    affiliations:
+    - org: atlantic-council
+      role: founder
+      from: 1961
+      note: Primo Chairman
   christian-sinding:
     nationality: NOR
     affiliations:
@@ -1233,6 +1297,7 @@ persons:
     - org: bce
       role: executive
       from: 2019
+      note: Presidente BCE
     - org: fmi
       role: executive
       from: 2011
@@ -1288,6 +1353,13 @@ persons:
       role: executive
       from: 2026
       note: Warden & CEO (from July 2026); Rhodes Scholar 1991
+  chuck-hagel:
+    nationality: USA
+    affiliations:
+    - org: atlantic-council
+      role: chairman
+      from: 2009
+      to: 2013
   chung-eui-sun:
     born: 1970
     nationality: KOR
@@ -1587,6 +1659,13 @@ persons:
     - org: moderna
       role: board
       note: Board member, Co-founder Carlyle Group
+  dean-acheson:
+    nationality: USA
+    affiliations:
+    - org: atlantic-council
+      role: founder
+      from: 1961
+      note: Vice Chair fondatore
   delfi-geli:
     born: 1969
     nationality: ESP
@@ -1618,6 +1697,36 @@ persons:
       from: 1984
       to: 2022
       note: 49% stake, CEO
+  dimitris-papalexopoulos:
+    born: 1962
+    nationality: GRC
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 2008
+      note: Steering Committee, Treasurer Foundation
+    - org: wef
+      role: member
+      from: 2004
+      note: Davos participant
+    - org: ert
+      role: member
+      note: Co-Chair Energy Transition Committee
+    - org: mckinsey
+      role: advisor
+      from: 1987
+      to: 1989
+      note: Business consultant USA/Germany
+    - org: bank-of-greece
+      role: board
+      note: General Council
+    - org: titan-cement
+      role: chairman
+      from: 1989
+      note: CEO 1996-2019, Chairman 2023-
+    - org: atlantic-council
+      role: board
+      note: International Advisory Board
   donald-mackenzie:
     nationality: GBR
     affiliations:
@@ -2100,6 +2209,15 @@ persons:
     died: 2022
     nationality: UK
     family: rothschild
+  fabio-panetta:
+    born: 1959
+    nationality: ITA
+    affiliations:
+    - org: bce
+      role: board
+      from: 2020
+      to: 2023
+      note: Executive Board, poi Governatore Banca Italia
   faisal-bin-bandar:
     nationality: SAU
     family: saud
@@ -2293,6 +2411,14 @@ persons:
       role: chairman
       from: 1992
       to: 2003
+  frank-elderson:
+    born: 1970
+    nationality: NLD
+    affiliations:
+    - org: bce
+      role: board
+      from: 2020
+      note: Executive Board - Banking Supervision
   frank-wisner:
     born: 1909
     died: 1965
@@ -2308,6 +2434,13 @@ persons:
       from: 1943
       to: 1945
       note: OSS Romania
+  frederick-kempe:
+    nationality: USA
+    affiliations:
+    - org: atlantic-council
+      role: executive
+      from: 2006
+      note: President & CEO
   friede-springer:
     born: 1942
     nationality: DEU
@@ -2470,6 +2603,14 @@ persons:
       from: 2006
       to: 2022
       note: President
+  george-provopoulos:
+    nationality: GRC
+    affiliations:
+    - org: bank-of-greece
+      role: executive
+      from: 2008
+      to: 2014
+      note: Governor
   george-roberts:
     born: 1943
     nationality: USA
@@ -2901,6 +3042,9 @@ persons:
     - org: csis
       role: board
       note: Counselor & Trustee
+    - org: atlantic-council
+      role: board
+      note: Honorary Director
   henry-kravis:
     born: 1944
     nationality: USA
@@ -3110,6 +3254,14 @@ persons:
       from: 2018
       to: 2021
       note: Chairman of the Executive
+  isabel-schnabel:
+    born: 1971
+    nationality: DEU
+    affiliations:
+    - org: bce
+      role: board
+      from: 2020
+      note: Executive Board - Markets
   isaiah-kenen:
     born: 1905
     died: 1988
@@ -3234,6 +3386,11 @@ persons:
       role: executive
       from: 1985
       to: 1995
+    - org: unione-europea
+      role: leader
+      from: 1985
+      to: 1995
+      note: Presidente Commissione, architetto Maastricht e mercato unico
   jacques-santer:
     born: 1937
     nationality: LUX
@@ -3295,6 +3452,19 @@ persons:
     - org: carlyle-group
       role: advisor
       note: Senior Counsellor, Asia/Europe Advisory Boards
+  james-l-jones:
+    nationality: USA
+    affiliations:
+    - org: nato
+      role: executive
+      from: 2003
+      to: 2006
+      note: SACEUR - Supreme Allied Commander Europe
+    - org: atlantic-council
+      role: chairman
+      from: 2007
+      to: 2009
+      note: Chairman 2007-09, 2017-18; Executive Chairman Emeritus
   james-mayer-rothschild:
     born: 1792
     died: 1868
@@ -3444,6 +3614,15 @@ persons:
       role: executive
       from: 2014
       to: 2019
+  jean-claude-trichet:
+    born: 1942
+    nationality: FRA
+    affiliations:
+    - org: bce
+      role: executive
+      from: 2003
+      to: 2011
+      note: Presidente BCE
   jean-eric-salata:
     nationality: USA
     affiliations:
@@ -3451,6 +3630,14 @@ persons:
       role: chairman
       from: 2022
       note: Chair EQT Asia, Chairman dal 2026 (founder Baring PE Asia)
+  jean-monnet:
+    born: 1888
+    died: 1979
+    nationality: FRA
+    affiliations:
+    - org: unione-europea
+      role: founder
+      note: Architetto integrazione europea, primo presidente Alta Autorita CECA
   jean-rey:
     born: 1902
     died: 1983
@@ -3500,6 +3687,33 @@ persons:
       from: 2018
       to: 2021
       note: Health Minister
+  jens-stoltenberg:
+    born: 1959
+    nationality: NOR
+    affiliations:
+    - org: bilderberg
+      role: chairman
+      from: 2024
+      note: Chairman Bilderberg Group (Dec 2024), ex Co-Chairman
+    - org: wef
+      role: member
+      note: Davos regular participant, Agenda Contributor
+    - org: onu
+      role: advisor
+      note: UN Special Envoy on Climate Change
+    - org: nato
+      role: executive
+      from: 2014
+      to: 2024
+      note: 13th Secretary General - 10 years, 4 extensions
+    - org: governo-norvegia
+      role: leader
+      from: 2000
+      to: 2013
+      note: PM 2000-01, 2005-13; Finance Min 1996-97, 2024-
+    relations:
+    - person: thorvald-stoltenberg
+      type: son_of
   jerome-powell:
     born: 1953
     nationality: USA
@@ -3664,6 +3878,12 @@ persons:
     - org: la-stampa
       role: owner
       from: 2016
+  john-f-w-rogers:
+    nationality: USA
+    affiliations:
+    - org: atlantic-council
+      role: chairman
+      note: Chairman attuale
   john-finbarr-fleming:
     nationality: USA
     note: Ex-CIA Korea, Paragon US chairman 2024
@@ -3782,6 +4002,13 @@ persons:
       role: executive
       from: 2018
       note: President & COO
+  jon-huntsman-jr:
+    nationality: USA
+    affiliations:
+    - org: atlantic-council
+      role: chairman
+      from: 2014
+      to: 2017
   jonathan-greenblatt:
     born: 1971
     nationality: USA
@@ -4068,6 +4295,10 @@ persons:
       role: executive
       from: 2024
       note: Alto Rappresentante Affari Esteri
+    - org: unione-europea
+      role: leader
+      from: 2024
+      note: Alto Rappresentante Affari Esteri e Politica di Sicurezza
   karl-wolff:
     born: 1900
     died: 1984
@@ -4269,6 +4500,14 @@ persons:
     died: 1938
     nationality: SWE
     family: wallenberg
+  konrad-adenauer:
+    born: 1876
+    died: 1967
+    nationality: DEU
+    affiliations:
+    - org: unione-europea
+      role: founder
+      note: Cancelliere Germania Ovest, padre fondatore
   konstantinos-karamanlis-sr:
     born: 1907
     died: 1998
@@ -4665,6 +4904,9 @@ persons:
       role: board
       from: 2015
       note: Board of Directors
+    - org: atlantic-council
+      role: board
+      note: Honorary Director
   lewis-preston:
     born: 1926
     died: 1995
@@ -4764,6 +5006,39 @@ persons:
       role: founder
       from: 2011
       note: Founding Managing Partner, ex-Ping An, now Singapore
+  lucas-papademos:
+    born: 1947
+    nationality: GRC
+    affiliations:
+    - org: federal-reserve
+      role: advisor
+      from: 1980
+      to: 1985
+      note: Federal Reserve Bank of Boston
+    - org: bce
+      role: executive
+      from: 2002
+      to: 2010
+      note: Vice President
+    - org: bis
+      role: board
+      from: 1994
+      to: 2010
+      note: Central Bank Governance Group
+    - org: trilateral-commission
+      role: member
+      from: 1998
+      note: European Group
+    - org: governo-grecia
+      role: leader
+      from: 2011
+      to: 2012
+      note: Prime Minister (technocrat)
+    - org: bank-of-greece
+      role: executive
+      from: 1994
+      to: 2002
+      note: Governor
   luhut-pandjaitan:
     born: 1947
     nationality: IDN
@@ -4803,6 +5078,14 @@ persons:
     - person: prabowo-subianto
       type: colleague
       note: Kopassus, GSG-9 training 1981, Det 81
+  luis-de-guindos:
+    born: 1960
+    nationality: ESP
+    affiliations:
+    - org: bce
+      role: executive
+      from: 2018
+      note: Vice President BCE
   luis-videgaray:
     born: 1968
     nationality: MEX
@@ -5057,6 +5340,7 @@ persons:
       role: executive
       from: 2011
       to: 2019
+      note: Presidente BCE - Whatever it takes
     - org: governo-italia
       role: leader
       from: 2021
@@ -5127,6 +5411,35 @@ persons:
       role: board
       from: 2013
       note: Ex-FDA Commissioner
+  mark-rutte:
+    born: 1967
+    nationality: NLD
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Partecipante (NL paese fondatore Bilderberg)
+    - org: wef
+      role: member
+      note: Davos participant as PM
+    - org: nato
+      role: executive
+      from: 2024
+      note: 14th Secretary General
+    - org: governo-olanda
+      role: leader
+      from: 2010
+      to: 2024
+      note: Prime Minister - longest serving in Dutch history
+    - org: unilever
+      role: executive
+      from: 1992
+      to: 2002
+      note: Human Resources Manager
+    - org: vvd
+      role: leader
+      from: 2006
+      to: 2024
+      note: Party Leader
   mark-suzman:
     born: 1969
     nationality: ZAF
@@ -5314,6 +5627,9 @@ persons:
       from: 1999
       to: 2005
       note: Director NSA
+    - org: atlantic-council
+      role: board
+      note: Board member
   michael-makovsky:
     born: 1968
     nationality: USA
@@ -5996,6 +6312,14 @@ persons:
     affiliations:
     - org: kissinger-associates
       role: advisor
+  paul-henri-spaak:
+    born: 1899
+    died: 1972
+    nationality: BEL
+    affiliations:
+    - org: unione-europea
+      role: founder
+      note: Organizzatore Conferenza Messina 1955, Trattati di Roma
   paul-nakasone:
     born: 1963
     nationality: USA
@@ -6221,6 +6545,15 @@ persons:
     died: 2015
     nationality: SWE
     family: wallenberg
+  petros-christodoulou:
+    born: 1960
+    nationality: GRC
+    affiliations:
+    - org: goldman-sachs
+      role: executive
+      from: 1987
+      to: 1992
+      note: Head Money Markets Trading London, Head Provincial Bond Trading Canada
   philip-edinburgh:
     born: 1921
     died: 2021
@@ -6231,6 +6564,14 @@ persons:
       from: 1961
       to: 2021
       note: Co-fondatore, President UK 1961-82, International President 1981-96
+  philip-lane:
+    born: 1969
+    nationality: IRL
+    affiliations:
+    - org: bce
+      role: executive
+      from: 2019
+      note: Chief Economist
   philip-niarchos:
     born: 1954
     nationality: GRC
@@ -6262,6 +6603,14 @@ persons:
     - org: mediaset-mfe
       role: ceo
       from: 2023
+  piero-cipollone:
+    born: 1961
+    nationality: ITA
+    affiliations:
+    - org: bce
+      role: board
+      from: 2023
+      note: Executive Board - Payments
   pierre-s-dupont:
     born: 1870
     died: 1954
@@ -6741,6 +7090,9 @@ persons:
       role: minister
       from: 2006
       to: 2011
+    - org: atlantic-council
+      role: board
+      note: Honorary Director
   robert-mcnamara:
     born: 1916
     died: 2009
@@ -6804,6 +7156,14 @@ persons:
       from: 1999
       to: 2009
       note: Chairman Executive Committee, then Senior Counselor
+  robert-schuman:
+    born: 1886
+    died: 1963
+    nationality: FRA
+    affiliations:
+    - org: unione-europea
+      role: founder
+      note: Dichiarazione Schuman 9 maggio 1950, Min Esteri Francia
   roberto-irineu-marinho:
     born: 1947
     nationality: BRA
@@ -7384,6 +7744,12 @@ persons:
       role: executive
       from: 2011
       note: CEO
+  stephen-hadley:
+    nationality: USA
+    affiliations:
+    - org: atlantic-council
+      role: board
+      note: Executive Vice Chair, Chair International Advisory Board
   stephen-hahn:
     born: 1959
     nationality: USA
@@ -7808,6 +8174,14 @@ persons:
       role: executive
       from: 2023
       note: CEO
+  thorvald-stoltenberg:
+    nationality: NOR
+    affiliations:
+    - org: governo-norvegia
+      role: minister
+      from: 1987
+      to: 1989
+      note: Foreign Minister 1987-89, 1990-93; Defence Minister 1979-81
   tiang-chirathivat:
     born: 1905
     died: 1968
@@ -7958,6 +8332,10 @@ persons:
     - org: commissione-ue
       role: executive
       from: 2019
+    - org: unione-europea
+      role: leader
+      from: 2019
+      note: Presidente Commissione Europea
   vajiralongkorn:
     born: 1952
     nationality: THA
@@ -8124,6 +8502,18 @@ persons:
       role: board
       from: 1974
       to: 2011
+  wesley-clark:
+    born: 1944
+    nationality: USA
+    affiliations:
+    - org: nato
+      role: executive
+      from: 1997
+      to: 2000
+      note: SACEUR - Supreme Allied Commander Europe
+    - org: atlantic-council
+      role: board
+      note: Board member
   william-binney:
     born: 1943
     nationality: USA
@@ -8230,6 +8620,16 @@ persons:
   william-wales:
     born: 1982
     nationality: GBR
+  wim-duisenberg:
+    born: 1935
+    died: 2005
+    nationality: NLD
+    affiliations:
+    - org: bce
+      role: executive
+      from: 1998
+      to: 2003
+      note: Primo Presidente BCE
   winthrop-rockefeller:
     born: 1912
     died: 1973
@@ -8301,6 +8701,18 @@ persons:
     - org: havas
       role: chairman
       from: 2013
+  yannis-stournaras:
+    born: 1956
+    nationality: GRC
+    affiliations:
+    - org: bce
+      role: board
+      from: 2014
+      note: Governing Council member
+    - org: bank-of-greece
+      role: executive
+      from: 2014
+      note: Governor
   yasir-al-rumayyan:
     born: 1970
     nationality: SAU
