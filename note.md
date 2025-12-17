@@ -7,6 +7,7 @@
 - [ ] 2021 Creazione Stellantis — FCA + PSA, John Elkann architetto
 
 
+Lussemburgo
 categoria Banche
 Gruppo energia (petrolio)
 Casate Reali

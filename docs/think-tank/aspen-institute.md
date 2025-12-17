@@ -414,10 +414,10 @@ L'Aspen Institute ha una forte presenza europea attraverso istituti nazionali in
 #### Primi Ministri (membri Aspen)
 | Nome | Periodo | Partito | Ruolo Aspen |
 |------|---------|---------|-------------|
-| **Romano Prodi** | 1996-98, 2006-08 | Centro-sinistra | Membro |
+| **[Romano Prodi](../persons/romano-prodi.md)** | 1996-98, 2006-08 | Centro-sinistra | Membro |
 | **Massimo D'Alema** | 1998-2000 | PDS/DS | Membro |
 | **Giuliano Amato** | 2000-01 | Centro-sinistra | Ex-Chairman Aspen Italia |
-| **Mario Monti** | 2011-2013 | Tecnico | Executive Committee |
+| **[Mario Monti](../persons/mario-monti.md)** | 2011-2013 | Tecnico | Executive Committee |
 | **Enrico Letta** | 2013-2014 | PD | **Vice-Presidente Aspen Italia** |
 | ~~Silvio Berlusconi~~ | - | - | NON membro (ma Mediaset sostenitore) |
 
@@ -450,8 +450,8 @@ Ex-Chairmen: Francesco Cossiga, Gianni De Michelis, Giuliano Amato, Carlo Scogna
 | **Ruolo Aspen** | Senior Director European Affairs, Editor-in-Chief Aspenia |
 | **Governo Monti** | Sottosegretario Esteri (2011-2013) |
 | **Governo Letta** | Vice-Ministro Esteri (2013-2014) |
-| **NATO** | Gruppo esperti nominato da Stoltenberg (2020) |
-| **Board** | Leonardo-Finmeccanica, Trilateral Commission |
+| **[NATO](../agency/nato.md)** | Gruppo esperti nominato da [Stoltenberg](../persons/jens-stoltenberg.md) (2020) |
+| **Board** | Leonardo-Finmeccanica, [Trilaterale](../forum/trilaterale.md) |
 | **Onorificenze** | Legion d'Onore (2003) |
 
 #### Altri Membri Italiani Notevoli
@@ -538,8 +538,8 @@ Fondato nel 2011, primo meeting 15 marzo 2011.
 |---------|-----------|
 | **Nascita** | 14 luglio 1942, Madrid |
 | **Governo spagnolo** | Ministro Esteri, Cultura, Educazione |
-| **NATO** | Segretario Generale (1995-1999) |
-| **UE** | Alto Rappresentante PESC (1999-2009), Segretario Generale Consiglio |
+| **[NATO](../agency/nato.md)** | Segretario Generale (1995-1999) |
+| **[UE](../agency/unione-europea.md)** | Alto Rappresentante PESC (1999-2009), Segretario Generale Consiglio |
 | **Negoziati** | Iran nucleare, Quartetto Medio Oriente |
 | **Onorificenze** | Premio Carlomagno (2007), Ordine Toson d'Oro |
 | **Controversia** | Autore pamphlet "50 ragioni per dire no alla NATO" prima di diventarne SG |
@@ -619,11 +619,30 @@ Focus su Rising Leaders Fellowship per giovani leader britannici.
 
 2. **Figure NATO/UE**: Molti membri hanno ricoperto ruoli chiave in NATO (Solana, Pavel) o istituzioni UE
 
-3. **Tecnocrati**: I governi "tecnici" (Monti, Draghi) hanno avuto forte presenza Aspen
+3. **Tecnocrati**: I governi "tecnici" ([Monti](../persons/mario-monti.md), [Draghi](../persons/mario-draghi.md)) hanno avuto forte presenza Aspen
 
 4. **Finanziamento misto**: In Germania finanziamento pubblico significativo, in Italia/Francia piu' corporate
 
 5. **Young Leaders**: Programma di reclutamento futuri leader attivo in tutta Europa
+
+---
+
+### Pattern: Commissione UE e Forum Transatlantici
+
+La sovrapposizione tra Aspen, altri forum transatlantici e leadership UE e' significativa:
+
+| Presidente Commissione | Periodo | Aspen | Bilderberg | Altro |
+|------------------------|---------|-------|------------|-------|
+| [Jacques Delors](../persons/jacques-delors.md) | 1985-1995 | - | Si | Mentore Juncker |
+| [Jacques Santer](../persons/jacques-santer.md) | 1995-1999 | - | Si | Pattern LUX |
+| [Romano Prodi](../persons/romano-prodi.md) | 1999-2004 | **Si** | Si (Steering) | Aspen Italia |
+| [José Barroso](../persons/jose-barroso.md) | 2004-2014 | - | Si | Poi Goldman Sachs |
+| [Jean-Claude Juncker](../persons/jean-claude-juncker.md) | 2014-2019 | - | Si | WEF YGL, Pattern LUX |
+| [Ursula von der Leyen](../persons/ursula-von-der-leyen.md) | 2019- | - | Si | WEF regular |
+
+**Osservazione:** Romano Prodi e' l'unico Presidente Commissione con affiliazione Aspen documentata, ma il pattern di sovrapposizione con Bilderberg e' quasi totale.
+
+**Il "Pattern Lussemburghese":** Tre PM del Lussemburgo sono diventati Presidenti Commissione (Thorn, [Santer](../persons/jacques-santer.md), [Juncker](../persons/jean-claude-juncker.md)). Tutti partecipanti Bilderberg.
 
 ---
 
@@ -650,10 +669,25 @@ Focus su Rising Leaders Fellowship per giovani leader britannici.
 
 ## Documenti Correlati
 
-- [World Economic Forum](wef.md) - Forum elite globale simile
-- [BlackRock](blackrock.md) - Larry Fink speaker, connessioni finance
-- [PayPal Mafia](paypal-mafia.md) - Peter Thiel, Antonio Gracias
+### Forum e Think Tank
+- [World Economic Forum](../forum/wef.md) - Forum elite globale simile
+- [Bilderberg](../forum/bilderberg.md) - Molti membri Aspen partecipano
+- [Trilaterale](../forum/trilaterale.md) - Marta Dassu' membro
 - [Council on Foreign Relations](cfr.md) - Da creare
+
+### Istituzioni
+- [NATO](../agency/nato.md) - Solana ex-SG, Pavel ex-Chairman Military Committee
+- [Unione Europea](../agency/unione-europea.md) - Solana ex-Alto Rappresentante
+- [Commissione UE](../agency/commissione-ue.md) - Prodi ex-Presidente
+
+### Persone Chiave
+- [Mario Monti](../persons/mario-monti.md) - Executive Committee Aspen Italia
+- [Romano Prodi](../persons/romano-prodi.md) - Membro Aspen Italia
+- [Mario Draghi](../persons/mario-draghi.md) - Pattern tecnocrati
+- [Jens Stoltenberg](../persons/jens-stoltenberg.md) - Nomino' esperti NATO con Dassu'
+
+### Finance
+- [BlackRock](../asset-manager/blackrock.md) - Larry Fink speaker, connessioni finance
 
 ---
 
@@ -703,4 +737,4 @@ Focus su Rising Leaders Fellowship per giovani leader britannici.
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Dicembre 2024*

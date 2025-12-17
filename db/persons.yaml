@@ -1851,6 +1851,15 @@ persons:
       role: executive
       from: 1971
       to: 1994
+  edith-cresson:
+    born: 1934
+    nationality: FRA
+    affiliations:
+    - org: commissione-ue
+      role: executive
+      from: 1995
+      to: 1999
+      note: Commissaria, scandalo nepotismo
   edoardo-agnelli-sr:
     born: 1892
     died: 1935
@@ -3395,6 +3404,9 @@ persons:
     born: 1937
     nationality: LUX
     affiliations:
+    - org: bilderberg
+      role: member
+      note: Partecipante meetings
     - org: governo-lussemburgo
       role: leader
       from: 1984
@@ -3403,6 +3415,16 @@ persons:
       role: executive
       from: 1995
       to: 1999
+    - org: parlamento-europeo
+      role: member
+      from: 1999
+      to: 2004
+      note: MEP post-Commissione
+    - org: parlamento-europeo
+      role: executive
+      from: 1975
+      to: 1979
+      note: Vice-Presidente PE 1975-77, MEP fino 1979
   james-angleton:
     born: 1917
     died: 1987
@@ -3591,6 +3613,9 @@ persons:
     born: 1954
     nationality: LUX
     affiliations:
+    - org: bilderberg
+      role: member
+      note: Partecipante meetings
     - org: wef
       role: ygl
       from: 1995

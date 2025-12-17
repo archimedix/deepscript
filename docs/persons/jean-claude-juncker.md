@@ -40,7 +40,8 @@
 
 | Forum | Ruolo | Note |
 |-------|-------|------|
-| WEF/Davos | Young Global Leader | Dal 1995 |
+| [Bilderberg](../forum/bilderberg.md) | Partecipante | Meetings |
+| [WEF/Davos](../forum/wef.md) | Young Global Leader | Dal 1995 |
 | Club de Madrid | Membro | Ex-capi di governo |
 | Institut Jacques Delors | Contributore | Think tank europeo |
 
@@ -51,8 +52,8 @@
 ### Network Lussemburgo → Commissione UE
 
 Il Lussemburgo ha prodotto 3 Presidenti della Commissione su 13:
-- [Gaston Thorn](/persone/gaston-thorn.md) (1981-1985) - PM 1974-1979
-- [Jacques Santer](/persone/jacques-santer.md) (1995-1999) - PM 1984-1995
+- [Gaston Thorn](gaston-thorn.md) (1981-1985) - PM 1974-1979
+- [Jacques Santer](jacques-santer.md) (1995-1999) - PM 1984-1995
 - **Jean-Claude Juncker** (2014-2019) - PM 1995-2013
 
 Pattern: tutti ex-Primi Ministri del Granducato.
@@ -133,17 +134,20 @@ Juncker incarna il **modello lussemburghese**:
 4. **Eurogroup come palestra**: Da presidente Eurogroup a presidente Commissione
 
 Confronto con altri nel database:
-- [Mario Draghi](/persone/mario-draghi.md): Banchiere centrale → Premier (tecnico diverso)
-- [José Barroso](/persone/jose-barroso.md): Predecessore, revolving door Goldman Sachs
-- [Ursula von der Leyen](/persone/ursula-von-der-leyen.md): Successore, percorso ministeriale tedesco
+- [Mario Draghi](mario-draghi.md): Banchiere centrale → Premier (tecnico diverso)
+- [José Barroso](jose-barroso.md): Predecessore, revolving door Goldman Sachs
+- [Ursula von der Leyen](ursula-von-der-leyen.md): Successore, percorso ministeriale tedesco
 
 ## Documenti Correlati
 
-- [Commissione UE](/istituzioni/commissione-ue.md) - Presidente 2014-2019
-- [Eurogroup](/istituzioni/eurogroup.md) - Primo presidente permanente 2005-2013
-- [Jacques Delors](/persone/jacques-delors.md) - Mentore, predecessore
-- [Jacques Santer](/persone/jacques-santer.md) - Predecessore come PM Lussemburgo
-- [Gaston Thorn](/persone/gaston-thorn.md) - Pattern lussemburghese
+- [Commissione UE](../agency/commissione-ue.md) - Presidente 2014-2019
+- [Eurogroup](../agency/eurogroup.md) - Primo presidente permanente 2005-2013
+- [Unione Europea](../agency/unione-europea.md) - Istituzione madre
+- [Bilderberg](../forum/bilderberg.md) - Partecipante
+- [WEF](../forum/wef.md) - Young Global Leader
+- [Jacques Delors](jacques-delors.md) - Mentore, predecessore
+- [Jacques Santer](jacques-santer.md) - Predecessore come PM Lussemburgo
+- [Gaston Thorn](gaston-thorn.md) - Pattern lussemburghese
 
 ## Fonti
 
