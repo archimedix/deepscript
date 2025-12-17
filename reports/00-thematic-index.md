@@ -107,6 +107,11 @@ Report che analizzano specifici settori economici.
 |--------|---------|-------|
 | [Automotive Dynasties](automotive-dynasties-power.md) | 1931-2024 | Quandt, Porsche-Piech, SWF |
 
+### Luxury
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Luxury Power Dynasties](luxury-power-dynasties.md) | 1888-2025 | Arnault, Rupert, Oppenheimer, diamanti |
+
 ### Sport
 | Report | Periodo | Focus |
 |--------|---------|-------|
@@ -210,6 +215,7 @@ Mappe di potere regionali:
 
 ### Report Settoriali
 Analisi di industrie specifiche:
+- [Luxury Power Dynasties](luxury-power-dynasties.md)
 - [Media Power](media-power.md)
 - [Pharma Power](pharma-power.md)
 - [Sport Geopolitics](sport-geopolitics.md)
@@ -220,7 +226,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 24 |
+| **Report totali** | 25 |
 | **Eventi documentati** | 30 |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |

@@ -450,6 +450,32 @@ organizations:
       share: 100
       from: 2022
       note: Media arm Adani Group
+  anglo-american:
+    name: Anglo American plc
+    type: company
+    founded: 1917
+    headquarters: London, UK
+    status: active
+    sector: mining
+    stakeholders:
+    - person: ernest-oppenheimer
+      role: founder
+      from: 1917
+      to: 1957
+    - person: harry-oppenheimer
+      role: chairman
+      from: 1957
+      to: 1982
+    - person: nicky-oppenheimer
+      role: board
+      from: 1974
+      to: 2012
+      note: Deputy Chairman
+    - person: jonathan-oppenheimer
+      role: board
+      from: 2001
+      to: 2012
+      note: Vice President
   anobit:
     type: company
     founded: 2006
@@ -1539,6 +1565,10 @@ organizations:
       role: steering
       from: 2018
       note: Steering Committee, participant since 2007
+    - person: bernard-arnault
+      role: member
+      from: 1992
+      note: Evian-les-Bains meeting
     - person: henri-de-castries
       role: steering
       note: Steering Committee
@@ -1978,6 +2008,17 @@ organizations:
     - person: jeff-bezos
       role: founder
       from: 2015
+  brenthurst-foundation:
+    name: Brenthurst Foundation
+    type: foundation
+    founded: 2005
+    headquarters: Johannesburg, South Africa
+    status: active
+    sector: policy, Africa development
+    stakeholders:
+    - person: nicky-oppenheimer
+      role: founder
+      from: 2005
   bri:
     name: Belt and Road Initiative
     type: agency
@@ -2009,6 +2050,19 @@ organizations:
       role: executive
       from: 2023
       note: CEO
+  british-south-africa-company:
+    name: British South Africa Company
+    type: company
+    founded: 1889
+    headquarters: London, UK
+    status: dissolved
+    sector: colonial administration, mining
+    note: Chartered company that colonized Rhodesia
+    stakeholders:
+    - person: cecil-rhodes
+      role: founder
+      from: 1889
+      to: 1902
   broadcom:
     name: Broadcom
     type: company
@@ -2046,6 +2100,17 @@ organizations:
     stakeholders:
     - person: prescott-bush
       role: partner
+  bsgr:
+    name: BSG Resources
+    type: company
+    founded: 1990
+    headquarters: Guernsey
+    status: active
+    sector: mining, iron ore, diamonds
+    stakeholders:
+    - person: beny-steinmetz
+      role: founder
+      note: Beneficial owner
   burisma:
     name: Burisma Holdings
     type: company
@@ -3324,6 +3389,18 @@ organizations:
     - person: jonathan-rothermere
       role: chairman
       from: 1998
+  dan-gertler-international:
+    name: Dan Gertler International (DGI)
+    type: company
+    founded: 1996
+    headquarters: Israel
+    status: active
+    sector: mining, diamonds, oil, copper, cobalt
+    note: Sanctioned US 2017, Trump relief 2021, Biden reinstated
+    stakeholders:
+    - person: dan-gertler
+      role: founder
+      from: 1996
   dbs:
     name: DBS Bank
     type: bank
@@ -3340,6 +3417,49 @@ organizations:
     - org: temasek
       share: 29%
       note: Controlling shareholder
+  de-beers:
+    name: De Beers
+    type: company
+    founded: 1888
+    headquarters: London, UK
+    status: active
+    sector: diamonds
+    stakeholders:
+    - person: ernest-oppenheimer
+      role: chairman
+      from: 1929
+      to: 1957
+    - person: harry-oppenheimer
+      role: chairman
+      from: 1957
+      to: 1984
+    - person: nicky-oppenheimer
+      role: chairman
+      from: 1998
+      to: 2012
+    - person: jonathan-oppenheimer
+      role: executive
+      from: 1999
+      to: 2012
+    - person: cecil-rhodes
+      role: founder
+      from: 1888
+      to: 1902
+    - person: al-cook
+      role: executive
+      from: 2023
+      note: CEO
+    - org: anglo-american
+      share: 85
+      from: 2012
+      note: Acquisition from Oppenheimer family
+    - org: israel-diamond-exchange
+      role: client
+      from: 1950
+      note: Storico cliente CSO/DTC per fornitura rough diamonds
+    - org: diacore
+      role: sightholder
+      note: Uno dei maggiori acquirenti De Beers
   dea:
     name: Drug Enforcement Administration
     type: agency
@@ -3384,6 +3504,22 @@ organizations:
     - org: jardine-matheson
       role: parent
       share: 0.78
+  diacore:
+    name: Diacore (ex Steinmetz Diamond Group)
+    type: company
+    founded: 1990
+    headquarters: Ramat Gan, Israel
+    status: active
+    sector: diamonds
+    stakeholders:
+    - person: beny-steinmetz
+      role: founder
+      to: 2013
+      note: Co-fondatore con fratello Daniel, ceduta quota 2013
+    - person: daniel-steinmetz
+      role: executive
+      from: 2013
+      note: CEO, ha rilevato quota Beny
   dicks-sporting-goods:
     name: Dick's Sporting Goods
     type: company
@@ -4266,6 +4402,17 @@ organizations:
       role: partner
     - org: banca-mondiale
       role: partner
+  fondation-louis-vuitton:
+    name: Fondation Louis Vuitton
+    type: foundation
+    founded: 2014
+    headquarters: Paris, France
+    status: active
+    sector: art, culture
+    stakeholders:
+    - person: bernard-arnault
+      role: founder
+      from: 2014
   ford-motor:
     name: Ford Motor Company
     type: automaker
@@ -4684,6 +4831,18 @@ organizations:
       role: chairman
       from: 2009
       to: 2011
+  gold-fields:
+    name: Gold Fields of South Africa
+    type: company
+    founded: 1887
+    headquarters: Johannesburg, South Africa
+    status: active
+    sector: gold mining
+    stakeholders:
+    - person: cecil-rhodes
+      role: founder
+      from: 1887
+      to: 1902
   golden-gate-capital:
     name: Golden Gate Capital
     type: privateequity
@@ -4976,6 +5135,23 @@ organizations:
     - person: andrej-plenkovic
       role: leader
       from: 2016
+  governo-drc:
+    name: Governo della Repubblica Democratica del Congo
+    type: government
+    founded: 1960
+    headquarters: Kinshasa, DRC
+    status: active
+    stakeholders:
+    - person: laurent-kabila
+      role: leader
+      from: 1997
+      to: 2001
+      note: Presidente
+    - person: joseph-kabila
+      role: leader
+      from: 2001
+      to: 2019
+      note: Presidente
   governo-estonia:
     name: Governo Estonia
     type: government
@@ -5922,6 +6098,11 @@ organizations:
       from: 1908
       to: 1915
       note: Chancellor of the Exchequer
+    - person: cecil-rhodes
+      role: leader
+      from: 1890
+      to: 1896
+      note: Prime Minister Cape Colony
   governo-urss:
     name: Governo URSS
     type: government
@@ -6147,6 +6328,17 @@ organizations:
       role: partner
       from: 2009
       note: General Partner
+  groupe-arnault:
+    name: Groupe Arnault
+    type: company
+    founded: 1987
+    headquarters: Paris, France
+    status: active
+    sector: investment, holding
+    stakeholders:
+    - person: bernard-arnault
+      role: chairman
+      from: 1987
   grupo-globo:
     name: Grupo Globo
     type: media
@@ -6730,6 +6922,21 @@ organizations:
       share: 99.6
       from: 2024
       note: Assumed ownership May 2024 after Suning default on €395M loan
+  international-diamond-industries:
+    name: International Diamond Industries
+    type: company
+    founded: 1996
+    headquarters: Israel
+    status: active
+    sector: diamonds
+    note: Holding Dan Gertler, monopolio DRC 2000-2001
+    stakeholders:
+    - person: dan-gertler
+      role: founder
+      from: 1996
+    - org: dan-gertler-international
+      role: parent
+      share: 100
   intesa-sanpaolo:
     name: Intesa Sanpaolo
     type: bank
@@ -6819,6 +7026,31 @@ organizations:
     founded: 1934
     headquarters: Milano, Italia
     status: active
+  israel-diamond-exchange:
+    name: Israel Diamond Exchange
+    type: company
+    founded: 1937
+    headquarters: Ramat Gan, Israel
+    status: active
+    sector: diamonds, trade exchange
+    stakeholders:
+    - person: moshe-schnitzer
+      role: chairman
+      note: Presidente storico, padre industria diamanti israeliana
+    - person: shmuel-schnitzer
+      role: chairman
+      note: Presidente, figlio di Moshe
+    - person: yoram-dvash
+      role: chairman
+      to: 2021
+    - person: boaz-moldawsky
+      role: chairman
+      from: 2021
+      to: 2024
+    - person: nissim-zuaretz
+      role: chairman
+      from: 2024
+      note: Presidente attuale
   italia-1:
     name: Italia 1
     type: media
@@ -7344,6 +7576,17 @@ organizations:
     stakeholders:
     - org: volkswagen
       role: subsidiary
+  laureus-foundation:
+    name: Laureus Sport for Good Foundation
+    type: foundation
+    founded: 2000
+    headquarters: London, UK
+    status: active
+    sector: sport, youth
+    stakeholders:
+    - person: johann-rupert
+      role: founder
+      from: 2000
   lazard:
     name: Lazard
     type: bank
@@ -7537,6 +7780,30 @@ organizations:
     - person: bernard-arnault
       role: chairman
       from: 1989
+    - person: delphine-arnault
+      role: executive
+      from: 2023
+      note: CEO Christian Dior
+    - person: antoine-arnault
+      role: executive
+      from: 2005
+      note: CEO Christian Dior SE, Chairman Loro Piana
+    - person: alexandre-arnault
+      role: executive
+      from: 2021
+      note: EVP Tiffany & Co.
+    - person: frederic-arnault
+      role: executive
+      from: 2020
+      note: CEO LVMH Watches
+    - person: jean-arnault
+      role: executive
+      from: 2021
+      note: Director Louis Vuitton Watches
+    - org: groupe-arnault
+      share: 48
+      from: 1989
+      note: Controlling stake
   m6:
     name: M6
     type: media
@@ -8687,6 +8954,17 @@ organizations:
     - person: barack-obama
       role: founder
       from: 2017
+  octea-mining:
+    name: Octea Mining
+    type: company
+    headquarters: British Virgin Islands
+    status: active
+    sector: diamond mining
+    note: Koidu mine, Sierra Leone
+    stakeholders:
+    - person: beny-steinmetz
+      role: founder
+      note: Via BSGR, Sierra Leone diamonds
   oms:
     name: Organizzazione Mondiale della Sanita
     type: agency
@@ -8829,6 +9107,21 @@ organizations:
       role: investor
       from: 2024
       note: Participated in $6.6B round
+  oppenheimer-generations:
+    name: Oppenheimer Generations
+    type: company
+    founded: 2012
+    headquarters: Johannesburg, South Africa
+    status: active
+    sector: investment
+    stakeholders:
+    - person: nicky-oppenheimer
+      role: chairman
+      from: 2012
+    - person: jonathan-oppenheimer
+      role: executive
+      from: 2012
+      note: Executive Chairman
   optus:
     name: Singtel Optus Pty Limited
     type: company
@@ -9099,6 +9392,17 @@ organizations:
     founded: 1998
     headquarters: Silicon Valley
     status: active
+  peace-parks-foundation:
+    name: Peace Parks Foundation
+    type: foundation
+    founded: 1997
+    headquarters: Stellenbosch, South Africa
+    status: active
+    sector: conservation
+    stakeholders:
+    - person: johann-rupert
+      role: chairman
+      from: 2006
   peacock:
     name: Peacock
     type: media
@@ -9594,6 +9898,17 @@ organizations:
     stakeholders:
     - person: mukesh-ambani
       role: chairman
+  remgro:
+    name: Remgro Limited
+    type: company
+    founded: 2000
+    headquarters: Stellenbosch, South Africa
+    status: active
+    sector: investment, diversified
+    stakeholders:
+    - person: johann-rupert
+      role: chairman
+      from: 2000
   renault:
     name: Renault Group
     type: automaker
@@ -9666,6 +9981,26 @@ organizations:
     - person: john-bell
       role: chairman
       note: Chairman of Rhodes Trustees
+    - person: cecil-rhodes
+      role: founder
+      from: 1902
+      note: Fondato per testamento
+    - person: nathaniel-rothschild-1st-baron
+      role: board
+      from: 1902
+      note: Original trustee
+  richemont:
+    name: Compagnie Financiere Richemont
+    type: company
+    founded: 1988
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: luxury goods
+    stakeholders:
+    - person: johann-rupert
+      role: chairman
+      from: 1988
+      note: Founder, CEO 1988-2002, Chairman 2002-2013, 2014-
   roche:
     name: F. Hoffmann-La Roche AG
     type: pharma
@@ -12131,6 +12466,10 @@ organizations:
     - person: jens-stoltenberg
       role: member
       note: Davos regular participant, Agenda Contributor
+    - person: johann-rupert
+      role: glt
+      from: 1992
+      note: Global Leader for Tomorrow 1992
     - org: bilderberg
       role: partner
     - org: fmi
@@ -12188,6 +12527,17 @@ organizations:
     headquarters: New York
     status: active
     sector: consumer
+  wfdb:
+    name: World Federation of Diamond Bourses
+    type: agency
+    founded: 1947
+    headquarters: Antwerp, Belgium
+    status: active
+    sector: diamonds, trade association
+    stakeholders:
+    - org: israel-diamond-exchange
+      role: member
+      note: Borsa membro fondatrice
   white-house:
     name: White House
     type: government

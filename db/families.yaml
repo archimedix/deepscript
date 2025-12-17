@@ -46,6 +46,31 @@ families:
     - person: abdullah-bin-zayed
       generation: 2
       role: member
+  arnault:
+    origin: France
+    founder: bernard-arnault
+    sector: luxury, retail
+    generations: 2
+    status: active
+    members:
+    - person: bernard-arnault
+      generation: 1
+      role: founder
+    - person: delphine-arnault
+      generation: 2
+      role: heir
+    - person: antoine-arnault
+      generation: 2
+      role: heir
+    - person: alexandre-arnault
+      generation: 2
+      role: heir
+    - person: frederic-arnault
+      generation: 2
+      role: heir
+    - person: jean-arnault
+      generation: 2
+      role: heir
   azcarraga:
     origin: Mexico
     founder: emilio-azcarraga-vidaurreta
@@ -264,6 +289,19 @@ families:
     - person: jiang-mianheng
       generation: 2
       role: son of Jiang Zemin
+  kabila:
+    origin: DRC
+    founder: laurent-kabila
+    sector: politics
+    status: active
+    note: Dinastia presidenziale DRC 1997-2019
+    members:
+    - person: laurent-kabila
+      generation: 1
+      role: founder
+    - person: joseph-kabila
+      generation: 2
+      role: son
   karamanlis:
     origin: Greece, Macedonia (Serres)
     founder: konstantinos-karamanlis-sr
@@ -512,6 +550,25 @@ families:
     - person: athina-onassis
       generation: 3
       role: heir
+  oppenheimer:
+    origin: South Africa
+    founder: ernest-oppenheimer
+    sector: diamonds, mining, finance
+    generations: 4
+    status: active
+    members:
+    - person: ernest-oppenheimer
+      generation: 1
+      role: founder
+    - person: harry-oppenheimer
+      generation: 2
+      role: patriarch
+    - person: nicky-oppenheimer
+      generation: 3
+      role: patriarch
+    - person: jonathan-oppenheimer
+      generation: 4
+      role: heir
   papandreou:
     origin: Greece, Achaea
     founder: georgios-papandreou-sr
@@ -662,6 +719,22 @@ families:
     - person: walter-rothschild
       generation: 3
       role: 2nd Baron Rothschild
+    - person: nathaniel-rothschild-1st-baron
+      generation: 3
+      role: head UK branch
+  rupert:
+    origin: South Africa
+    founder: anton-rupert
+    sector: tobacco, luxury, investment
+    generations: 3
+    status: active
+    members:
+    - person: johann-rupert
+      generation: 2
+      role: patriarch
+    - person: anton-rupert
+      generation: 1
+      role: founder
   salim:
     origin: Indonesia
     founder: sudono-salim
@@ -682,6 +755,22 @@ families:
       generation: 2
     - person: mira-salim
       generation: 2
+  schnitzer:
+    origin: Israel
+    founder: moshe-schnitzer
+    sector: diamonds
+    status: active
+    note: Dinastia fondatrice Israel Diamond Exchange
+    members:
+    - person: moshe-schnitzer
+      generation: 1
+      role: founder
+    - person: shmuel-schnitzer
+      generation: 2
+      role: son
+    - person: dan-gertler
+      generation: 3
+      role: grandson
   shinawatra:
     origin: Thailand
     founder: thaksin-shinawatra
@@ -722,6 +811,20 @@ families:
       generation: 3
     - person: chatri-sophonpanich
       generation: 2
+  steinmetz:
+    origin: Israel
+    founder: rubin-steinmetz
+    sector: diamonds, mining
+    generations: 2
+    status: active
+    members:
+    - person: beny-steinmetz
+      generation: 2
+    - person: daniel-steinmetz
+      generation: 2
+    - person: rubin-steinmetz
+      generation: 1
+      role: founder
   tata:
     origin: India
     founder: Jamsetji Tata

@@ -90,6 +90,14 @@ persons:
       role: chairman
       from: 2023
       note: CEO 2009-2023
+  al-cook:
+    nationality: GBR
+    note: Ex BP/Equinor
+    affiliations:
+    - org: de-beers
+      role: executive
+      from: 2023
+      note: CEO
   al-gore:
     born: 1948
     nationality: USA
@@ -254,6 +262,15 @@ persons:
       role: executive
       from: 2017
       to: 2020
+  alexandre-arnault:
+    born: 1992
+    nationality: FRA
+    family: arnault
+    affiliations:
+    - org: lvmh
+      role: executive
+      from: 2021
+      note: EVP Tiffany & Co.
   alexandre-de-rothschild:
     born: 1980
     nationality: Francia
@@ -562,6 +579,23 @@ persons:
       from: 1994
       to: 2007
       note: Head of FICC Sales Europe, Partner
+  antoine-arnault:
+    born: 1977
+    nationality: FRA
+    family: arnault
+    affiliations:
+    - org: lvmh
+      role: executive
+      from: 2005
+      note: CEO Christian Dior SE, Chairman Loro Piana
+  anton-rupert:
+    born: 1916
+    died: 2006
+    nationality: ZAF
+    family: rupert
+    relations:
+    - person: johann-rupert
+      type: father
   antonio-angelucci:
     born: 1946
     nationality: Italia
@@ -805,14 +839,55 @@ persons:
       role: chairman
       from: 2015
       to: 2018
+  beny-steinmetz:
+    born: 1956
+    nationality: ISR
+    affiliations:
+    - org: bsgr
+      role: founder
+      note: Beneficial owner
+    - org: diacore
+      role: founder
+      to: 2013
+      note: Co-fondatore con fratello Daniel, ceduta quota 2013
+    - org: octea-mining
+      role: founder
+      note: Via BSGR, Sierra Leone diamonds
+    relations:
+    - person: daniel-steinmetz
+      type: sibling
+    - person: rubin-steinmetz
+      type: son
   bernard-arnault:
     born: 1949
-    nationality: Francia
-    note: LVMH, richest person Europe
+    nationality: FRA
+    family: arnault
+    note: LVMH Chairman/CEO, richest person in the world 2024
     affiliations:
+    - org: bilderberg
+      role: member
+      from: 1992
+      note: Evian-les-Bains meeting
     - org: lvmh
       role: chairman
       from: 1989
+    - org: fondation-louis-vuitton
+      role: founder
+      from: 2014
+    - org: groupe-arnault
+      role: chairman
+      from: 1987
+    relations:
+    - person: alexandre-arnault
+      type: father
+    - person: antoine-arnault
+      type: father
+    - person: delphine-arnault
+      type: father
+    - person: frederic-arnault
+      type: father
+    - person: jean-arnault
+      type: father
   bernhard-lippe-biesterfeld:
     born: 1911
     died: 2004
@@ -942,6 +1017,13 @@ persons:
       to: 1998
     - org: kissinger-associates
       role: advisor
+  boaz-moldawsky:
+    nationality: ISR
+    affiliations:
+    - org: israel-diamond-exchange
+      role: chairman
+      from: 2021
+      to: 2024
   bob-sternfels:
     born: 1966
     nationality: USA
@@ -1102,6 +1184,37 @@ persons:
     - org: tsmc
       role: executive
       from: 2018
+  cecil-rhodes:
+    born: 1853
+    died: 1902
+    nationality: GBR
+    note: Fondatore De Beers, British South Africa Company, Rhodes Scholarship
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1890
+      to: 1896
+      note: Prime Minister Cape Colony
+    - org: rhodes-trust
+      role: founder
+      from: 1902
+      note: Fondato per testamento
+    - org: de-beers
+      role: founder
+      from: 1888
+      to: 1902
+    - org: british-south-africa-company
+      role: founder
+      from: 1889
+      to: 1902
+    - org: gold-fields
+      role: founder
+      from: 1887
+      to: 1902
+    relations:
+    - person: ernest-oppenheimer
+      type: succeeded_by
+      note: Oppenheimer divenne chairman De Beers 1929
   chaim-weizmann:
     born: 1874
     died: 1952
@@ -1439,6 +1552,26 @@ persons:
       role: chairman
       from: 2020
       note: Presidente, ex Liverpool/Arsenal/Spurs director
+  dan-gertler:
+    born: 1973
+    nationality: ISR
+    note: Nipote Moshe Schnitzer, sanctioned US 2017
+    affiliations:
+    - org: international-diamond-industries
+      role: founder
+      from: 1996
+    - org: dan-gertler-international
+      role: founder
+      from: 1996
+    relations:
+    - person: joseph-kabila
+      type: friend
+      note: Invitato a matrimonio 2006
+    - person: laurent-kabila
+      type: business
+      note: Accordo monopolio diamanti $20M
+    - person: moshe-schnitzer
+      type: grandson
   daniel-daniello:
     born: 1946
     nationality: USA
@@ -1477,6 +1610,13 @@ persons:
     born: 1975
     nationality: Repubblica Ceca
     note: energy, media investor
+  daniel-steinmetz:
+    nationality: ISR
+    affiliations:
+    - org: diacore
+      role: executive
+      from: 2013
+      note: CEO, ha rilevato quota Beny
   daria-kaleniuk:
     born: 1985
     nationality: UKR
@@ -1674,6 +1814,15 @@ persons:
       role: chairman
       from: 2015
       note: Club President, ex-footballer (Barca, Atlético)
+  delphine-arnault:
+    born: 1975
+    nationality: FRA
+    family: arnault
+    affiliations:
+    - org: lvmh
+      role: executive
+      from: 2023
+      note: CEO Christian Dior
   dhanin-chearavanont:
     born: 1939
     nationality: THA
@@ -2162,6 +2311,23 @@ persons:
       role: board
       from: 2021
       note: Supervisory Board Co-Chair
+  ernest-oppenheimer:
+    born: 1880
+    died: 1957
+    nationality: ZAF
+    family: oppenheimer
+    affiliations:
+    - org: de-beers
+      role: chairman
+      from: 1929
+      to: 1957
+    - org: anglo-american
+      role: founder
+      from: 1917
+      to: 1957
+    relations:
+    - person: harry-oppenheimer
+      type: father
   ettore-conti:
     born: 1871
     died: 1972
@@ -2443,6 +2609,15 @@ persons:
       from: 1943
       to: 1945
       note: OSS Romania
+  frederic-arnault:
+    born: 1995
+    nationality: FRA
+    family: arnault
+    affiliations:
+    - org: lvmh
+      role: executive
+      from: 2020
+      note: CEO LVMH Watches
   frederick-kempe:
     nationality: USA
     affiliations:
@@ -2948,6 +3123,23 @@ persons:
     born: 1892
     died: 1948
     nationality: USA
+  harry-oppenheimer:
+    born: 1908
+    died: 2000
+    nationality: ZAF
+    family: oppenheimer
+    affiliations:
+    - org: de-beers
+      role: chairman
+      from: 1957
+      to: 1984
+    - org: anglo-american
+      role: chairman
+      from: 1957
+      to: 1982
+    relations:
+    - person: nicky-oppenheimer
+      type: father
   hassan-al-thawadi:
     nationality: QAT
     affiliations:
@@ -3609,6 +3801,15 @@ persons:
       from: 2011
       to: 2024
       note: CEO 2011-2024
+  jean-arnault:
+    born: 1998
+    nationality: FRA
+    family: arnault
+    affiliations:
+    - org: lvmh
+      role: executive
+      from: 2021
+      note: Director Louis Vuitton Watches
   jean-claude-juncker:
     born: 1954
     nationality: LUX
@@ -3828,6 +4029,29 @@ persons:
       from: 2013
       to: 2025
       note: Chairman Board of Directors
+  johann-rupert:
+    born: 1950
+    nationality: ZAF
+    family: rupert
+    note: Richemont Chairman, richest person Africa 2024
+    affiliations:
+    - org: wef
+      role: glt
+      from: 1992
+      note: Global Leader for Tomorrow 1992
+    - org: richemont
+      role: chairman
+      from: 1988
+      note: Founder, CEO 1988-2002, Chairman 2002-2013, 2014-
+    - org: remgro
+      role: chairman
+      from: 2000
+    - org: peace-parks-foundation
+      role: chairman
+      from: 2006
+    - org: laureus-foundation
+      role: founder
+      from: 2000
   john-bell:
     nationality: GBR
     affiliations:
@@ -4058,6 +4282,24 @@ persons:
       role: owner
       from: 2008
       note: Boston Basketball Partners LLC investor group
+  jonathan-oppenheimer:
+    born: 1969
+    nationality: ZAF
+    family: oppenheimer
+    affiliations:
+    - org: de-beers
+      role: executive
+      from: 1999
+      to: 2012
+    - org: anglo-american
+      role: board
+      from: 2001
+      to: 2012
+      note: Vice President
+    - org: oppenheimer-generations
+      role: executive
+      from: 2012
+      note: Executive Chairman
   jonathan-rothermere:
     born: 1967
     nationality: UK
@@ -4178,6 +4420,19 @@ persons:
       role: executive
       from: 2021
       note: Co-CEO
+  joseph-kabila:
+    born: 1971
+    nationality: COD
+    note: Presidente DRC 2001-2019, figlio di Laurent
+    affiliations:
+    - org: governo-drc
+      role: leader
+      from: 2001
+      to: 2019
+      note: Presidente
+    relations:
+    - person: laurent-kabila
+      type: son
   joseph-oughourlian:
     born: 1971
     nationality: Francia
@@ -4762,6 +5017,17 @@ persons:
     died: 2004
     nationality: USA
     family: rockefeller
+  laurent-kabila:
+    born: 1939
+    died: 2001
+    nationality: COD
+    note: Presidente DRC 1997-2001, rovescio Mobutu, assassinato
+    affiliations:
+    - org: governo-drc
+      role: leader
+      from: 1997
+      to: 2001
+      note: Presidente
   lawrence-eagleburger:
     born: 1930
     died: 2011
@@ -5881,6 +6147,13 @@ persons:
     died: 1830
     nationality: Germania
     family: warburg
+  moshe-schnitzer:
+    died: 2006
+    nationality: ISR
+    affiliations:
+    - org: israel-diamond-exchange
+      role: chairman
+      note: Presidente storico, padre industria diamanti israeliana
   mukesh-ambani:
     born: 1957
     nationality: Indian
@@ -6000,6 +6273,20 @@ persons:
     died: 1836
     nationality: UK
     family: rothschild
+  nathaniel-rothschild-1st-baron:
+    born: 1840
+    died: 1915
+    nationality: GBR
+    note: Head of N M Rothschild & Sons, financed Cecil Rhodes, trustee Rhodes Trust
+    affiliations:
+    - org: rhodes-trust
+      role: board
+      from: 1902
+      note: Original trustee
+    relations:
+    - person: cecil-rhodes
+      type: financer
+      note: Principal financier of Rhodes ventures
   neelie-kroes:
     born: 1941
     nationality: NLD
@@ -6052,6 +6339,29 @@ persons:
     - org: meta
       role: executive
       from: 2022
+  nicky-oppenheimer:
+    born: 1945
+    nationality: ZAF
+    family: oppenheimer
+    affiliations:
+    - org: de-beers
+      role: chairman
+      from: 1998
+      to: 2012
+    - org: anglo-american
+      role: board
+      from: 1974
+      to: 2012
+      note: Deputy Chairman
+    - org: oppenheimer-generations
+      role: chairman
+      from: 2012
+    - org: brenthurst-foundation
+      role: founder
+      from: 2005
+    relations:
+    - person: jonathan-oppenheimer
+      type: father
   nicolai-tangen:
     born: 1966
     nationality: NOR
@@ -6095,6 +6405,13 @@ persons:
       role: executive
       from: 2023
       note: CEO
+  nissim-zuaretz:
+    nationality: ISR
+    affiliations:
+    - org: israel-diamond-exchange
+      role: chairman
+      from: 2024
+      note: Presidente attuale
   norbert-reithofer:
     born: 1956
     nationality: DEU
@@ -7282,6 +7599,9 @@ persons:
       role: chairman
       from: 1957
       to: 1958
+  rubin-steinmetz:
+    nationality: ISR
+    note: Pioniere industria diamanti israeliana
   rupert-murdoch:
     born: 1931
     nationality: USA
@@ -7587,6 +7907,15 @@ persons:
     - org: governo-corea
       role: minister
       note: Chairman Financial Services Commission, Vice Minister Economy
+  shmuel-schnitzer:
+    nationality: ISR
+    affiliations:
+    - org: israel-diamond-exchange
+      role: chairman
+      note: Presidente, figlio di Moshe
+    relations:
+    - person: moshe-schnitzer
+      type: son
   sibel-edmonds:
     born: 1970
     nationality: USA
@@ -8853,6 +9182,12 @@ persons:
       from: 2022
       to: 2024
       note: President. Impeached Dec 2024
+  yoram-dvash:
+    nationality: ISR
+    affiliations:
+    - org: israel-diamond-exchange
+      role: chairman
+      to: 2021
   yosef-raanan:
     born: 1922
     nationality: ISR
