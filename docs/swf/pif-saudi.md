@@ -160,10 +160,20 @@ PIF ──► FII "Davos del Deserto" ──► CEO USA
 
 | Entita' | Relazione |
 |---------|-----------|
-| [SoftBank](../agency/softbank.md) | $45B Vision Fund 1 |
+| [SoftBank](../company/softbank.md) | $45B Vision Fund 1 |
 | [Affinity Partners](../private-equity/affinity-partners.md) | $2B (Kushner) |
 | Lucid Motors | 60% ownership |
 | LIV Golf | ~$5B |
+
+### Media (via MBC Group)
+
+| Entita' | Relazione |
+|---------|-----------|
+| [MBC Group](../media/mbc-group.md) | 54% (via STC) |
+| [Antenna Group](../media/antenna-group.md) | 30% indiretto (via MBC) |
+| [GEDI](../media/gedi.md) | In acquisizione (via Antenna, 2025) |
+
+> **Catena di controllo media italiani**: PIF (54%) → MBC → Antenna (30%) → GEDI (Repubblica, La Stampa, radio)
 
 ### Forum
 
@@ -180,6 +190,7 @@ PIF ──► FII "Davos del Deserto" ──► CEO USA
 | [Yasir al-Rumayyan](../persons/yasir-al-rumayyan.md) | Governor/CEO |
 | [Jared Kushner](../persons/jared-kushner.md) | Affinity (recipient) |
 | [Masayoshi Son](../persons/masayoshi-son.md) | SoftBank (partner) |
+| [Theodore Kyriakou](../persons/theodore-kyriakou.md) | Antenna Group (via MBC) |
 
 ### Confronto con MGX (UAE)
 

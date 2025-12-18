@@ -107,21 +107,46 @@ KUWAIT INVESTMENT AUTHORITY (KIA)
 
 ### Holdings Strategici
 
-| Azienda | Quota | Dal | Note |
-|---------|-------|-----|------|
-| **[Mercedes-Benz](../automaker/mercedes-benz.md)** | 4.97% | 1974 | Era 14%, primo investimento petroldollari in auto |
-| **[BlackRock](../asset-manager/blackrock.md)** | 5.4% | - | Secondo maggiore azionista |
-| **BP** | ~1.5% | 1987 | Post-privatizzazione |
+| Azienda | Quota | Periodo | Note |
+|---------|-------|---------|------|
+| **[Mercedes-Benz](../automaker/mercedes-benz.md)** | 4.97% | 1974-oggi | Era 14%, primo investimento petroldollari |
+| **[BlackRock](../asset-manager/blackrock.md)** | 5.4% | attuale | Secondo maggiore azionista |
+| **[BP](../company/bp.md)** | 9.9% (peak 21.6%) | 1987-1997 | Forzato a ridurre da UK govt |
+| **[Citigroup](../bank/citigroup.md)** | $3B | 2008-2009 | Exit $4.1B (+37%) |
+| **ICBC** | minority | 2006-? | $720M investiti |
 
-### Investimento Mercedes: Il Primo Petroldollaro
+### Investimento Mercedes: Il Primo Petroldollaro (1974)
 
 | Anno | Evento |
 |------|--------|
-| **1974** | KIA acquisisce 14% Daimler-Benz durante crisi petrolifera |
+| **Nov 1974** | KIA acquisisce 14% Daimler-Benz per $329M dal Quandt Group |
 | **2007** | Quota stabile a 6.84% dopo split DaimlerChrysler |
-| **2023** | Vendita parziale, scende a 4.97% |
+| **2014** | Celebrazione 40 anni partnership |
+| **2023** | Vendita EUR 1.4B, scende a 4.97% |
 
-**Implicazione storica**: KIA fu il **primo fondo sovrano a investire petrodollari nell'industria automobilistica europea**, 50 anni prima di PIF in Lucid.
+**Implicazione storica**: KIA fu il **primo fondo sovrano a investire petrodollari nell'industria occidentale**, stabilendo il template per 50 anni di investimenti del Golfo in Europa.
+
+### BP - British Petroleum (1987-1997)
+
+| Anno | Evento |
+|------|--------|
+| **Nov 1987** | Acquisto 10% durante privatizzazione Thatcher |
+| **Dic 1987** | Stake sale a 16% |
+| **Mar 1988** | Stake raggiunge **21.6%** - piu' grande azionista |
+| **Ago 1988** | UK Monopolies Commission interviene |
+| **1988** | Forzato a ridurre a **9.9%** |
+| **1997** | Exit completo via Goldman Sachs (record block trade) |
+
+> **Ironia storica**: BP e Gulf Oil scoprirono il petrolio in Kuwait nel 1938. Nel 1974-75 Kuwait nazionalizzò Kuwait Oil Company. Nel 1987 tentò di "nazionalizzare" BP - il governo UK lo bloccò.
+
+### Citigroup (2008-2009)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Investimento** | $3 miliardi (preferred stock) |
+| **Contesto** | Crisi finanziaria globale, gennaio 2008 |
+| **Exit** | Dicembre 2009, $4.1 miliardi |
+| **Return** | **+37% annualizzato** |
 
 ### Settori
 
@@ -190,6 +215,44 @@ Dal 1976, il 10% di **tutte** le entrate statali (incluse quelle del GRF) vanno 
 
 ---
 
+## Guerra del Golfo (1990-91)
+
+### Il Ruolo Critico di KIA
+
+Quando l'Iraq invase il Kuwait il 2 agosto 1990, il Kuwait Investment Office a Londra divenne de facto il **Ministero delle Finanze del governo in esilio**.
+
+| Funzione | Dettaglio |
+|----------|-----------|
+| **Finanze governo esilio** | KIO pagò spese operative |
+| **Coalizione** | Contribuì ai costi militari |
+| **Ricostruzione** | Finanziamento infrastrutture post-liberazione |
+
+L'invasione irachena distrusse rete elettrica, sistema idrico e infrastrutture petrolifere. KIA finanziò una porzione significativa della ricostruzione, dimostrando il valore strategico di un fondo sovrano come riserva di emergenza nazionale.
+
+---
+
+## Santiago Principles e IFSWF
+
+### Il Ruolo Fondativo del Kuwait
+
+| Evento | Data | Luogo |
+|--------|------|-------|
+| **Firma Santiago Principles** | Settembre 2008 | Santiago, Cile |
+| **Kuwait Declaration** | Aprile 2009 | Kuwait City |
+| **Fondazione IFSWF** | 9 aprile 2009 | Kuwait City |
+
+KIA fu tra i promotori dei Santiago Principles (standard di governance per SWF) e ospitò la fondazione dell'International Forum of Sovereign Wealth Funds.
+
+### Trasparenza
+
+| Aspetto | Pratica |
+|---------|---------|
+| **Verso Stato** | Report annuale dettagliato a Consiglio dei Ministri |
+| **Verso Parlamento** | Sessioni periodiche con commissioni parlamentari |
+| **Verso pubblico** | Limitata - Legge 47/1982 vieta disclosure |
+
+---
+
 ## Critiche
 
 | Tema | Dettaglio |
@@ -211,12 +274,22 @@ Dal 1976, il 10% di **tutte** le entrate statali (incluse quelle del GRF) vanno 
 - [AGBI - New KIA Head 2024](https://www.agbi.com/finance/2024/11/kuwait-appoints-new-head-of-1trn-wealth-fund/)
 - [AGBI - KIA Low Profile](https://www.agbi.com/analysis/finance/2025/06/the-kia-maintains-its-low-profile-approach-for-now/)
 
+### Investimenti Storici
+- [Mercedes-Benz - 40 Years Partnership](https://group-media.mercedes-benz.com/marsMediaSite/en/instance/ko/Daimler-and-the-Kuwait-Investment-Authority-celebrate-the-anniversary-of-their-40-year-partnership.xhtml?oid=9920098)
+- [CSMonitor - Kuwait buys BP (1988)](https://www.csmonitor.com/1988/0115/firon.html)
+- [Goldman Sachs - 1997 BP Block Trade](https://www.goldmansachs.com/our-firm/history/moments/1997-bp-block-trade)
+
+### Santiago Principles
+- [IFSWF - Kuwait Declaration](https://www.ifswf.org/santiago-principles-landing/kuwait-declaration)
+- [IFSWF - KIA Self-Assessment](https://www.ifswf.org/assessment/kuwait-investment-authority)
+
 ### Wikipedia
 - [Wikipedia - Kuwait Investment Authority](https://en.wikipedia.org/wiki/Kuwait_Investment_Authority)
 
 ### Istituzionali
 - [IFSWF - KIA](https://ifswf.org/member-profiles/kuwait-investment-authority)
 - [SWFI - KIA](https://www.swfinstitute.org/profile/598cdaa50124e9fd2d05b5f2)
+- [Global SWF - KIA](https://globalswf.com/fund/KIA)
 
 ---
 

@@ -159,11 +159,12 @@ JOHN ELKANN    Lapo Elkann
 
 | Testata | Status |
 |---------|--------|
-| [**la Repubblica**](../media/repubblica.md) | Controllata (GEDI) |
-| [**La Stampa**](../media/la-stampa.md) | Controllata (GEDI) |
-| **L'Espresso** | Controllato (GEDI) |
-| **Radio DeeJay** | Controllata |
-| **HuffPost Italia** | Controllato |
+| [**la Repubblica**](../media/repubblica.md) | In vendita ad [Antenna Group](../media/antenna-group.md) |
+| [**La Stampa**](../media/la-stampa.md) | In vendita ad [Antenna Group](../media/antenna-group.md) |
+| **Radio DeeJay, Capital, m2o** | In vendita ad [Antenna Group](../media/antenna-group.md) |
+| **HuffPost Italia, Limes** | In vendita ad [Antenna Group](../media/antenna-group.md) |
+
+> **Vendita GEDI (2025)**: Trattativa esclusiva con [Antenna Group](../media/antenna-group.md) di [Theodore Kyriakou](theodore-kyriakou.md) per EUR 130-140M. Closing previsto Q1 2026. L'acquirente ha capitali sauditi (MBC/PIF 30%).
 
 ---
 

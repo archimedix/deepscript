@@ -219,6 +219,7 @@ Il Vision Fund ha creato una **dipendenza strutturale** dai capitali sauditi:
 | [OpenAI](openai.md) | Investimento $30B |
 | [GoTo](goto.md) | Investitore 15.3% (Indonesia) |
 | [SoftBank Vision Fund](../private-equity/softbank-vision-fund.md) | Veicolo di investimento |
+| [Raine Group](../private-equity/raine-group.md) | Minority stake |
 
 ### Pattern
 

@@ -189,6 +189,7 @@ Oltre 150 membri attivi, tra cui:
 
 | Persona | Ruolo Atlantic Council |
 |---------|------------------------|
+| [Theodore Kyriakou](../persons/theodore-kyriakou.md) | International Advisory Board |
 | [Dimitris Papalexopoulos](../persons/dimitris-papalexopoulos.md) | International Advisory Board |
 | [Brent Scowcroft](../persons/brent-scowcroft.md) | Chairman 1998-99, 2013-14 |
 | [Henry Kissinger](../persons/henry-kissinger.md) | Honorary Director |
@@ -204,6 +205,14 @@ Oltre 150 membri attivi, tra cui:
 | Stephen Hadley | Bush Jr. | Executive Vice Chair |
 
 Il pattern e' chiaro: l'Atlantic Council e' il "parcheggio" per ex-National Security Advisors.
+
+---
+
+## Partnership Media
+
+| Partner | Iniziativa | Anno |
+|---------|------------|------|
+| [Antenna Group](../media/antenna-group.md) | AEGGIS Summit (Europe-Gulf Geopolitics & Investments) | 2025 |
 
 ---
 

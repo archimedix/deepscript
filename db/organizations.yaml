@@ -165,10 +165,6 @@ organizations:
       role: investor
       from: 2024
       note: Capital infusion
-    - org: pif
-      role: anchor investor
-      from: 2022
-      note: $2B commitment
   agip:
     name: AGIP - Azienda Generale Italiana Petroli
     type: company
@@ -512,6 +508,27 @@ organizations:
       from: 1908
       to: 1921
       note: Co-proprietario con fratello Pio
+  antenna-group:
+    name: Antenna Group
+    type: media
+    founded: 1988
+    headquarters: Amsterdam, Netherlands
+    status: active
+    stakeholders:
+    - person: minos-kyriakou
+      role: founder
+      from: 1988
+      to: 2017
+      note: Founder and Chairman
+    - person: theodore-kyriakou
+      role: chairman
+      from: 2017
+      note: Chairman
+    - org: mbc-group
+      role: investor
+      share: 30%
+      from: 2022
+      note: $249M investment
   apollo-global:
     name: Apollo Global Management
     type: privateequity
@@ -796,6 +813,9 @@ organizations:
     - person: wesley-clark
       role: board
       note: Board member
+    - person: theodore-kyriakou
+      role: advisor
+      note: International Advisory Board
     - org: goldman-sachs
       role: donor
       note: Corporate donor - Finance sector
@@ -1988,6 +2008,12 @@ organizations:
       role: chairman
       from: 2003
       to: 2009
+    - org: kuwait-investment-authority
+      role: shareholder
+      share: 9.9%
+      from: 1987
+      to: 1997
+      note: Peak 21.6% (1988), forced to reduce by UK govt
   bpifrance:
     name: Bpifrance
     type: bank
@@ -2234,6 +2260,9 @@ organizations:
       role: academic
       from: 1982
       note: Fellow Corpus Christi College, co-fondatore Cambridge Intelligence Seminar
+    - person: theodore-kyriakou
+      role: advisor
+      note: Advisory Board CIBAM
   canal-plus:
     name: Canal+
     type: media
@@ -2837,6 +2866,12 @@ organizations:
       role: executive
       from: 2004
       note: CEO 2021-, Chairman 2025-
+    - org: kuwait-investment-authority
+      role: shareholder
+      share: $3B
+      from: 2008
+      to: 2009
+      note: Preferred stock, sold for $4.1B (+37% return)
   city-football-group:
     name: City Football Group
     type: company
@@ -4722,12 +4757,22 @@ organizations:
   gedi:
     name: GEDI Gruppo Editoriale
     type: media
-    headquarters: Roma
+    founded: 1955
+    headquarters: Roma, Italia
     status: active
     stakeholders:
     - person: john-elkann
       role: owner
       from: 2020
+    - org: exor
+      role: owner
+      share: 90%
+      from: 2020
+      note: Via Giano Holding; in vendita ad Antenna Group (2025)
+    - org: antenna-group
+      role: acquirer
+      from: 2025
+      note: Trattativa esclusiva EUR 130-140M, closing Q1 2026
   geely:
     name: Zhejiang Geely Holding Group
     type: automaker
@@ -4775,6 +4820,16 @@ organizations:
       from: 2007
       to: 2015
       note: LBO $1.7B (con JER Partners)
+  georgetown-university:
+    name: Georgetown University
+    type: university
+    founded: 1789
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: theodore-kyriakou
+      role: board
+      note: Board of Regents; alumnus cum laude
   gic:
     name: Government of Singapore Investment Corporation
     type: swf
@@ -6555,6 +6610,22 @@ organizations:
     - org: qia
       role: stake
       share: 0.2
+  hellenic-olympic-committee:
+    name: Hellenic Olympic Committee
+    type: agency
+    founded: 1894
+    headquarters: Athens, Greece
+    status: active
+    stakeholders:
+    - person: minos-kyriakou
+      role: chairman
+      from: 2004
+      to: 2009
+      note: President
+    - person: spyros-capralos
+      role: chairman
+      from: 2009
+      note: President
   henry-jackson-society:
     type: thinktank
     founded: 2005
@@ -6937,6 +7008,18 @@ organizations:
     - org: dan-gertler-international
       role: parent
       share: 100
+  international-olympic-academy:
+    name: International Olympic Academy
+    type: agency
+    founded: 1961
+    headquarters: Olympia, Greece
+    status: active
+    stakeholders:
+    - person: minos-kyriakou
+      role: chairman
+      from: 2004
+      to: 2009
+      note: President
   intesa-sanpaolo:
     name: Intesa Sanpaolo
     type: bank
@@ -7886,14 +7969,15 @@ organizations:
     headquarters: Riyadh, Saudi Arabia
     status: active
     sector: TV, entertainment
-    note: Largest private broadcaster Middle East. PIF owns 54% since 2024
+    note: Largest broadcaster MENA. PIF 54%, Al Ibrahim ~36%. 150M viewers/week. Owns 30% Antenna Group.
     stakeholders:
     - person: waleed-al-ibrahim
       role: founder
       from: 1991
-    - org: pif
+    - org: pif-saudi
       share: 54%
       from: 2024
+      note: Via STC
   mckinsey:
     name: McKinsey & Company
     type: company
@@ -9487,16 +9571,6 @@ organizations:
     - person: srettha-thavisin
       role: member
       from: 2022
-  pif:
-    name: Public Investment Fund
-    type: swf
-    founded: 1971
-    headquarters: Riyadh, Saudi Arabia
-    status: active
-    note: 'Chairman: Mohammed bin Salman. $930B AUM'
-    stakeholders:
-    - person: mohammed-bin-salman
-      role: chairman
   pif-saudi:
     name: Public Investment Fund (PIF)
     type: swf
@@ -9761,6 +9835,27 @@ organizations:
     status: active
     sector: public broadcaster
     note: servizio pubblico, controllato MEF
+  raine-group:
+    name: The Raine Group
+    type: privateequity
+    founded: 2009
+    headquarters: New York, USA
+    status: active
+    sector: TMT merchant bank
+    stakeholders:
+    - person: theodore-kyriakou
+      role: board
+      note: Board of Raine Holdings
+    - org: softbank
+      role: investor
+      note: Minority stake
+    - org: endeavor
+      role: investor
+      from: 2009
+      note: Founding investor via WME/Ari Emanuel
+    - org: antenna-group
+      role: investor
+      note: Cornerstone investor in Raine funds
   rand-corporation:
     name: RAND Corporation
     type: thinktank
@@ -10500,10 +10595,8 @@ organizations:
       from: 2003
       to: 2022
       note: Acquired for £598M, sold to Central/Signa for ~£4B
-    - org: pif
+    - org: pif-saudi
       share: 40
-      from: 2024
-      note: Acquired from Signa (collapsed Nov 2023)
     - org: central-group
       share: 60
       from: 2022
@@ -12590,6 +12683,18 @@ organizations:
     - person: john-scarlett
       role: chairman
       note: Co-Chair Global Advisory Council
+  world-athletics:
+    name: World Athletics
+    type: agency
+    founded: 1912
+    headquarters: Monaco
+    status: active
+    note: Formerly IAAF
+    stakeholders:
+    - person: minos-kyriakou
+      role: board
+      from: 2003
+      note: IAAF Council member
   world-bank:
     name: World Bank
     type: agency

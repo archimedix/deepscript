@@ -6025,6 +6025,33 @@ persons:
     - org: governo-montenegro
       role: leader
       from: 2023
+  minos-kyriakou:
+    born: 1942
+    died: 2017
+    nationality: GRC
+    affiliations:
+    - org: antenna-group
+      role: founder
+      from: 1988
+      to: 2017
+      note: Founder and Chairman
+    - org: hellenic-olympic-committee
+      role: chairman
+      from: 2004
+      to: 2009
+      note: President
+    - org: international-olympic-academy
+      role: chairman
+      from: 2004
+      to: 2009
+      note: President
+    - org: world-athletics
+      role: board
+      from: 2003
+      note: IAAF Council member
+    relations:
+    - person: theodore-kyriakou
+      type: father
   mira-salim:
     nationality: IDN
     note: Figlia, sposata Franciscus Welirang (CEO Bogasari)
@@ -6091,8 +6118,6 @@ persons:
       role: leader
       from: 2017
       note: Crown Prince, de facto ruler, Chairman PIF
-    - org: pif
-      role: chairman
     - org: savvy-games-group
       role: chairman
       from: 2021
@@ -8010,6 +8035,13 @@ persons:
     - org: cp-group
       role: chairman
       from: 2017
+  spyros-capralos:
+    nationality: GRC
+    affiliations:
+    - org: hellenic-olympic-committee
+      role: chairman
+      from: 2009
+      note: President
   spyros-niarchos:
     nationality: GRC
     family: niarchos
@@ -8422,6 +8454,26 @@ persons:
       from: 1897
       to: 1904
       note: Fondatore e primo presidente
+  theodore-kyriakou:
+    born: 1974
+    nationality: GRC
+    affiliations:
+    - org: cambridge-university
+      role: advisor
+      note: Advisory Board CIBAM
+    - org: atlantic-council
+      role: advisor
+      note: International Advisory Board
+    - org: antenna-group
+      role: chairman
+      from: 2017
+      note: Chairman
+    - org: raine-group
+      role: board
+      note: Board of Raine Holdings
+    - org: georgetown-university
+      role: board
+      note: Board of Regents; alumnus cum laude
   thomas-bach:
     born: 1953
     nationality: DEU
