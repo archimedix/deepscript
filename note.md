@@ -10,11 +10,11 @@
 SudaFrica
 Lussemburgo
 categoria Banche
+Compagnie Aeree
 Gruppo energia (petrolio)
 Casate Reali
 Brasile: lula, bolsonaro
 India, Tata
-Dow, McKinsey
 unthinkable di churchill, alan bruc, 
 
 sartre,  macussen : indipendenza degli stati 

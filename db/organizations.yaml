@@ -1506,7 +1506,8 @@ organizations:
     founded: 1977
     headquarters: Gutersloh, Germany
     status: active
-    note: Think tank, 80.9% shares Bertelsmann (no voting). Major influence German policy
+    note: 'Operating foundation. 80.9% Bertelsmann shares (no votes). EUR 77M budget, 334 employees. Major policy influence:
+      Hartz reforms, education, healthcare.'
     stakeholders:
     - person: reinhard-mohn
       role: founder
@@ -1515,6 +1516,15 @@ organizations:
       role: board
       from: 1999
       note: Honorary Board of Trustees
+    - person: ralph-heck
+      role: chairman
+      from: 2020
+      note: Chairman & CEO
+    - person: aart-de-geus
+      role: chairman
+      from: 2012
+      to: 2019
+      note: Chairman & CEO
   bharti-airtel:
     name: Bharti Airtel Limited
     type: company
@@ -1677,7 +1687,7 @@ organizations:
     - person: friedrich-merz
       role: member
       from: 2024
-      note: Participant Bilderberg 2024
+      note: Bilderberg 2024 Madrid
     - person: henry-kravis
       role: member
       note: Participant 2008
@@ -1717,9 +1727,25 @@ organizations:
       role: chairman
       from: 2024
       note: Chairman Bilderberg Group (Dec 2024), ex Co-Chairman
+    - person: christian-sewing
+      role: member
+      from: 2024
+      note: Bilderberg 2024 Madrid
     - person: paul-achleitner
       role: steering
       note: Steering Committee, Treasurer Foundation Bilderberg
+    - person: oliver-baete
+      role: member
+      from: 2017
+      note: Participant 2017
+    - person: marco-buschmann
+      role: member
+      from: 2024
+      note: Bilderberg 2024 Madrid
+    - person: wolfgang-schmidt
+      role: member
+      from: 2024
+      note: Bilderberg 2024 Madrid
     - org: trilaterale
       role: partner
   biontech:
@@ -1771,6 +1797,11 @@ organizations:
       from: 1994
       to: 2010
       note: Central Bank Governance Group
+    - person: axel-weber
+      role: board
+      from: 2004
+      to: 2011
+      note: Board of Directors
     - org: bce
       role: partner
     - org: bank-of-greece
@@ -2143,6 +2174,13 @@ organizations:
     - person: jeff-bezos
       role: founder
       from: 2015
+  brenntag:
+    name: Brenntag SE
+    type: company
+    founded: 1874
+    headquarters: Essen, Germany
+    status: active
+    sector: chemical distribution
   brenthurst-foundation:
     name: Brenthurst Foundation
     type: foundation
@@ -3465,6 +3503,18 @@ organizations:
       role: chairman
       from: 2018
       note: Full personal ownership since 2018 reform
+  csav:
+    name: Compañía Sud Americana de Vapores
+    type: company
+    founded: 1872
+    headquarters: Santiago, Chile
+    status: active
+    sector: shipping
+    note: Oldest shipping company in South America. Controlled by Luksic family via Quiñenco.
+    stakeholders:
+    - org: quinenco
+      share: 66.5
+      note: Luksic family holding
   csis:
     name: Center for Strategic and International Studies
     type: thinktank
@@ -3681,9 +3731,35 @@ organizations:
       from: 2012
       to: 2022
       note: Chairman Supervisory Board
+    - person: sigmar-gabriel
+      role: board
+      from: 2020
+      note: Supervisory Board, Integrity Committee
     - org: blackrock
       share: 6.76%
       note: Largest disclosed shareholder (2025)
+  deutsche-bundesbank:
+    name: Deutsche Bundesbank
+    type: centralbank
+    founded: 1957
+    headquarters: Frankfurt, Germany
+    status: active
+    note: German central bank, part of ESCB/Eurosystem. Known for price stability orthodoxy.
+    stakeholders:
+    - person: axel-weber
+      role: executive
+      from: 2004
+      to: 2011
+      note: President
+    - person: jens-weidmann
+      role: executive
+      from: 2011
+      to: 2021
+      note: President
+    - person: joachim-nagel
+      role: executive
+      from: 2022
+      note: President
   dfi-retail:
     name: DFI Retail Group
     type: company
@@ -3902,16 +3978,33 @@ organizations:
       role: chairman
       from: 2021
       note: Chairman ECA
+  ecb:
+    name: European Central Bank
+    type: centralbank
+    founded: 1998
+    headquarters: Frankfurt, Germany
+    status: active
+    stakeholders:
+    - person: axel-weber
+      role: board
+      from: 2004
+      to: 2011
+      note: Governing Council member
   ecfr:
     name: European Council on Foreign Relations
     type: thinktank
-    headquarters: Berlin
+    founded: 2007
+    headquarters: Berlin, Germany
+    status: active
     stakeholders:
     - person: alja-brglez
       role: member
     - person: anna-diamantopoulou
       role: board
       note: Council member
+    - person: sigmar-gabriel
+      role: member
+      from: 2018
   economist:
     name: The Economist
     type: media
@@ -4190,6 +4283,22 @@ organizations:
       role: founder
       from: 2002
       to: 2005
+  eurasia-group:
+    name: Eurasia Group
+    type: company
+    founded: 1998
+    headquarters: New York, USA
+    status: active
+    sector: political risk consulting
+    stakeholders:
+    - person: sigmar-gabriel
+      role: advisor
+      from: 2019
+      note: Senior Advisor, European affairs
+    - person: ian-bremmer
+      role: founder
+      from: 1998
+      note: Founder & President
   eurogroup:
     name: Eurogroup
     type: agency
@@ -5468,10 +5577,12 @@ organizations:
       to: 2012
       note: Economy and Sustainable Development
   governo-germania:
-    name: Governo Germania
+    name: Governo Federale della Germania
     type: government
-    headquarters: Berlino
+    founded: 1949
+    headquarters: Berlin, Germany
     status: active
+    note: Bundesrepublik Deutschland. 10 Cancellieri dal 1949. PIL EUR 4.1T (2024).
     stakeholders:
     - person: angela-merkel
       role: leader
@@ -5484,6 +5595,7 @@ organizations:
       role: leader
       from: 1982
       to: 1998
+      note: Chancellor of Unity. Reunification 1990. Maastricht Treaty 1992.
     - person: ursula-von-der-leyen
       role: minister
       from: 2013
@@ -5494,10 +5606,10 @@ organizations:
       to: 2021
       note: Health Minister
     - person: philipp-rosler
-      role: leader
-      from: 2011
+      role: minister
+      from: 2009
       to: 2013
-      note: Vice-Chancellor, Economics
+      note: Health 2009-11, Economics 2011-13, Vice Chancellor 2011-13
     - person: gerhard-schroder
       role: leader
       from: 1998
@@ -5516,6 +5628,41 @@ organizations:
       role: legislator
       from: 1994
       to: 2009
+    - person: sigmar-gabriel
+      role: minister
+      from: 2005
+      to: 2018
+      note: Environment 2005-09, Economy 2013-17, Foreign 2017-18, Vice Chancellor 2013-18
+    - person: olaf-scholz
+      role: leader
+      from: 2021
+      to: 2025
+      note: Cancelliere
+    - person: frank-walter-steinmeier
+      role: leader
+      from: 2017
+      note: Bundespraesident
+    - person: boris-pistorius
+      role: minister
+      from: 2023
+      note: Defense Minister
+    - person: marco-buschmann
+      role: minister
+      from: 2021
+      note: Justice Minister
+    - person: wolfgang-schmidt
+      role: minister
+      from: 2021
+      note: Head of Chancellery
+    - person: cem-ozdemir
+      role: minister
+      from: 2021
+      note: Agriculture Minister
+    - person: karl-theodor-zu-guttenberg
+      role: minister
+      from: 2009
+      to: 2011
+      note: Defence Minister
   governo-giappone:
     name: Governo del Giappone
     type: government
@@ -6568,6 +6715,16 @@ organizations:
       role: partner
       from: 2009
       note: General Partner
+  group-of-thirty:
+    name: Group of Thirty
+    type: forum
+    founded: 1978
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: axel-weber
+      role: member
+      note: Member
   groupe-arnault:
     name: Groupe Arnault
     type: company
@@ -6736,6 +6893,38 @@ organizations:
     - org: kissinger-associates
       role: strategic partner
       from: 2000
+  hapag-lloyd:
+    name: Hapag-Lloyd AG
+    type: company
+    founded: 1970
+    headquarters: Hamburg, Germany
+    status: active
+    sector: shipping
+    note: Merger HAPAG (1847) + Norddeutscher Lloyd (1857). 5th largest container shipping.
+    stakeholders:
+    - person: klaus-michael-kuhne
+      role: shareholder
+      from: 2008
+      note: 30% via Kühne Maritime + Kühne Holding
+    - person: rolf-habben-jansen
+      role: executive
+      from: 2014
+      note: CEO
+    - person: michael-behrendt
+      role: chairman
+      from: 2014
+      note: Chairman Supervisory Board
+    - org: qia
+      share: 12.3
+      from: 2017
+      note: Via UASC merger
+    - org: csav
+      share: 30.0
+      from: 2014
+      note: Merger 2014, increased to 30% by 2020
+    - org: hgv-hamburg
+      share: 13.9
+      note: City of Hamburg
   harpercollins:
     name: HarperCollins
     type: media
@@ -6820,6 +7009,14 @@ organizations:
     - person: richard-dearlove
       role: member
       note: Signatory Statement of Principles
+  hgv-hamburg:
+    name: HGV Hamburger Gesellschaft für Vermögens- und Beteiligungsmanagement mbH
+    type: company
+    founded: 1994
+    headquarters: Hamburg, Germany
+    status: active
+    sector: investment
+    note: City of Hamburg investment arm.
   histadrut:
     type: agency
     founded: 1920
@@ -7109,6 +7306,18 @@ organizations:
     stakeholders:
     - person: antonio-angelucci
       role: owner
+  imf:
+    name: International Monetary Fund
+    type: agency
+    founded: 1944
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: axel-weber
+      role: board
+      from: 2004
+      to: 2011
+      note: German Governor
   ina:
     name: INA (Istituto Nazionale Assicurazioni)
     type: company
@@ -7169,6 +7378,19 @@ organizations:
     - org: salim-group
       share: 45
       note: Via Indoritel Makmur
+  institute-international-finance:
+    name: Institute of International Finance
+    type: forum
+    founded: 1983
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: oliver-baete
+      role: member
+      note: Member
+    - person: axel-weber
+      role: chairman
+      note: Chairman
   inter-milan:
     name: FC Internazionale Milano
     type: sportsclub
@@ -7781,6 +8003,20 @@ organizations:
       to: 1914
     - person: felix-warburg
       role: partner
+  kuhne-nagel:
+    name: Kühne + Nagel International AG
+    type: company
+    founded: 1890
+    headquarters: Schindellegi, Switzerland
+    status: active
+    sector: logistics
+    note: 'World #1 sea freight forwarder. SMI listed. Nazi era: M-Aktion logistics for looted Jewish property (70,000 homes).
+      Archives allegedly destroyed.'
+    stakeholders:
+    - person: klaus-michael-kuhne
+      role: chairman
+      from: 1966
+      note: Honorary chairman, 53.3% owner
   kuka:
     name: KUKA AG
     type: company
@@ -8067,6 +8303,30 @@ organizations:
       share: 60%
       from: 2018
       note: $8B+ invested
+  lufthansa:
+    name: Deutsche Lufthansa AG
+    type: company
+    founded: 1953
+    headquarters: Cologne, Germany
+    status: active
+    sector: aviation
+    stakeholders:
+    - person: klaus-michael-kuhne
+      role: shareholder
+      from: 2022
+      note: Largest individual shareholder via Kühne Aviation GmbH
+    - person: carsten-spohr
+      role: executive
+      from: 2014
+      note: CEO & Chairman Executive Board
+    - person: karl-ludwig-kley
+      role: chairman
+      from: 2018
+      note: Chairman Supervisory Board
+    - org: blackrock
+      share: 3.38
+      from: 2025
+      note: As of March 2025
   lvmh:
     name: LVMH Moët Hennessy Louis Vuitton
     type: company
@@ -8246,6 +8506,11 @@ organizations:
       from: 1987
       to: 1989
       note: Business consultant USA/Germany
+    - person: oliver-baete
+      role: partner
+      from: 1994
+      to: 2008
+      note: Director, European Insurance & Asset Management
   mediacorp:
     name: Mediacorp Pte Ltd
     type: media
@@ -8716,6 +8981,28 @@ organizations:
     headquarters: Tokyo, Japan
     status: active
     sector: banking
+  munich-re:
+    name: Münchener Rückversicherungs-Gesellschaft AG
+    type: company
+    founded: 1880
+    headquarters: Munich, Germany
+    status: active
+    sector: reinsurance
+    stakeholders:
+    - person: carsten-spohr
+      role: board
+      from: 2020
+      note: Supervisory Board member
+  munich-security-conference:
+    name: Munich Security Conference
+    type: forum
+    founded: 1963
+    headquarters: Munich, Germany
+    status: active
+    stakeholders:
+    - person: oliver-baete
+      role: advisor
+      note: Advisory Council member
   nasdaq:
     name: NASDAQ
     type: company
@@ -10052,6 +10339,14 @@ organizations:
     - person: idan-ofer
       role: founder
       note: Principal owner
+  quinenco:
+    name: Quiñenco S.A.
+    type: company
+    founded: 1957
+    headquarters: Santiago, Chile
+    status: active
+    sector: conglomerate
+    note: Luksic family holding. Controls CSAV, Banco de Chile, CCU.
   radio-deejay:
     name: Radio Deejay
     type: media
@@ -10278,6 +10573,18 @@ organizations:
     founded: 1851
     headquarters: Londra
     status: active
+  rheinmetall:
+    name: Rheinmetall AG
+    type: company
+    founded: 1889
+    headquarters: Dusseldorf, Germany
+    status: active
+    sector: defense
+    stakeholders:
+    - person: sigmar-gabriel
+      role: board
+      from: 2025
+      note: Supervisory Board
   rhodes-trust:
     name: Rhodes Trust
     type: foundation
@@ -10987,6 +11294,11 @@ organizations:
       role: executive
       from: 2021
       note: President and CEO
+    - person: joe-kaeser
+      role: executive
+      from: 2013
+      to: 2021
+      note: CEO
     - org: blackrock
       share: 6.2%
       note: Largest institutional shareholder
@@ -10996,6 +11308,18 @@ organizations:
     - org: qia
       share: 4%
       note: Azionista significativo
+  siemens-energy:
+    name: Siemens Energy AG
+    type: company
+    founded: 2020
+    headquarters: Munich, Germany
+    status: active
+    sector: energy
+    stakeholders:
+    - person: sigmar-gabriel
+      role: board
+      from: 2020
+      note: Supervisory Board
   signa-holding:
     name: Signa Holding
     type: company
@@ -11946,6 +12270,21 @@ organizations:
     - person: anna-diamantopoulou
       role: member
       note: European Group
+    - person: oliver-baete
+      role: member
+      note: Trilateral Commission European Group
+    - person: sigmar-gabriel
+      role: member
+      from: 2018
+    - person: axel-weber
+      role: chairman
+      note: European Group Chair
+    - person: wolfgang-ischinger
+      role: member
+    - person: joe-kaeser
+      role: member
+    - person: daniela-schwarzer
+      role: member
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -12122,6 +12461,11 @@ organizations:
       from: 2001
       to: 2006
       note: Private banker, wealth management Geneva
+    - person: axel-weber
+      role: chairman
+      from: 2012
+      to: 2022
+      note: Chairman Board of Directors
   uefa:
     name: UEFA - Union of European Football Associations
     type: agency
@@ -12712,7 +13056,8 @@ organizations:
     - person: philipp-rosler
       role: executive
       from: 2014
-      note: Managing Board
+      to: 2017
+      note: Managing Board, Head Centre for Regional Strategies
     - person: mykhailo-fedorov
       role: ygl
       from: 2022
@@ -12866,6 +13211,10 @@ organizations:
       role: board
       from: 2014
       note: Board of Trustees
+    - person: cem-ozdemir
+      role: ygl
+    - person: karl-theodor-zu-guttenberg
+      role: ygl
     - org: bilderberg
       role: partner
     - org: fmi

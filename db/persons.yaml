@@ -1,4 +1,13 @@
 persons:
+  aart-de-geus:
+    nationality: NLD
+    note: Chairman & CEO Bertelsmann Stiftung 2012-2019. Ex-OECD Deputy SG, Ex-Minister Netherlands.
+    affiliations:
+    - org: bertelsmann-stiftung
+      role: chairman
+      from: 2012
+      to: 2019
+      note: Chairman & CEO
   abdulaziz-bin-salman:
     born: 1960
     nationality: SAU
@@ -292,6 +301,11 @@ persons:
     died: 1935
     nationality: USA
     family: dupont
+  alfred-kuhne:
+    born: 1895
+    died: 1981
+    nationality: DEU
+    note: Son of August. NSDAP member 1933. M-Aktion. Built global company.
   alice-walton:
     born: 1949
     nationality: USA
@@ -698,6 +712,11 @@ persons:
     nationality: GRC
     family: onassis
     note: Ultima erede Onassis, equestre
+  august-kuhne:
+    born: 1855
+    died: 1932
+    nationality: DEU
+    note: Founder Kühne+Nagel (1890)
   avril-haines:
     born: 1969
     nationality: USA
@@ -716,6 +735,45 @@ persons:
       from: 2017
       to: 2021
       note: Principal, consulted for Palantir
+  axel-weber:
+    born: 1957
+    nationality: DEU
+    note: Ex-Bundesbank President (2004-11), ex-UBS Chairman (2012-22), Trilateral European Chair, Group of Thirty, IIF Chairman
+    affiliations:
+    - org: bis
+      role: board
+      from: 2004
+      to: 2011
+      note: Board of Directors
+    - org: trilateral-commission
+      role: chairman
+      note: European Group Chair
+    - org: ubs
+      role: chairman
+      from: 2012
+      to: 2022
+      note: Chairman Board of Directors
+    - org: deutsche-bundesbank
+      role: executive
+      from: 2004
+      to: 2011
+      note: President
+    - org: ecb
+      role: board
+      from: 2004
+      to: 2011
+      note: Governing Council member
+    - org: imf
+      role: board
+      from: 2004
+      to: 2011
+      note: German Governor
+    - org: group-of-thirty
+      role: member
+      note: Member
+    - org: institute-international-finance
+      role: chairman
+      note: Chairman
   barack-obama:
     born: 1961
     nationality: USA
@@ -1077,6 +1135,15 @@ persons:
       role: minister
       from: 2001
       to: 2004
+  boris-pistorius:
+    born: 1960
+    nationality: DEU
+    note: Defense Minister since 2023 (SPD).
+    affiliations:
+    - org: governo-germania
+      role: minister
+      from: 2023
+      note: Defense Minister
   boris-yeltsin:
     born: 1931
     died: 2007
@@ -1212,6 +1279,18 @@ persons:
       from: 2021
       to: 2024
       note: Resigned December 2024
+  carsten-spohr:
+    born: 1966
+    nationality: DEU
+    affiliations:
+    - org: lufthansa
+      role: executive
+      from: 2014
+      note: CEO & Chairman Executive Board
+    - org: munich-re
+      role: board
+      from: 2020
+      note: Supervisory Board member
   cc-wei:
     born: 1955
     nationality: TWN
@@ -1250,6 +1329,17 @@ persons:
     - person: ernest-oppenheimer
       type: succeeded_by
       note: Oppenheimer divenne chairman De Beers 1929
+  cem-ozdemir:
+    born: 1965
+    nationality: DEU
+    note: Grüne. Federal Minister of Food and Agriculture (2021-). WEF YGL.
+    affiliations:
+    - org: wef
+      role: ygl
+    - org: governo-germania
+      role: minister
+      from: 2021
+      note: Agriculture Minister
   chaim-weizmann:
     born: 1874
     died: 1952
@@ -1427,6 +1517,10 @@ persons:
     born: 1970
     nationality: DEU
     affiliations:
+    - org: bilderberg
+      role: member
+      from: 2024
+      note: Bilderberg 2024 Madrid
     - org: deutsche-bank
       role: executive
       from: 2018
@@ -1675,6 +1769,13 @@ persons:
       role: executive
       from: 2013
       note: CEO, ha rilevato quota Beny
+  daniela-schwarzer:
+    born: 1973
+    nationality: DEU
+    note: Political scientist. Executive Director Europe/Eurasia Open Society Foundations. Trilateral.
+    affiliations:
+    - org: trilateral-commission
+      role: member
   daria-kaleniuk:
     born: 1985
     nationality: UKR
@@ -2674,6 +2775,15 @@ persons:
       role: board
       from: 2020
       note: Executive Board - Banking Supervision
+  frank-walter-steinmeier:
+    born: 1956
+    nationality: DEU
+    note: Federal President since 2017 (SPD). Ex-Foreign Minister, ex-Vice Chancellor.
+    affiliations:
+    - org: governo-germania
+      role: leader
+      from: 2017
+      note: Bundespraesident
   frank-wisner:
     born: 1909
     died: 1965
@@ -2716,12 +2826,12 @@ persons:
       note: Majority shareholder with Döpfner (95%)
   friedrich-merz:
     born: 1955
-    nationality: german
+    nationality: DEU
     affiliations:
     - org: bilderberg
       role: member
       from: 2024
-      note: Participant Bilderberg 2024
+      note: Bilderberg 2024 Madrid
     - org: wef
       role: member
       from: 2025
@@ -3260,11 +3370,14 @@ persons:
     born: 1930
     died: 2017
     nationality: DEU
+    note: Chancellor 1982-98 (16 years, longest). German reunification 1990. Maastricht Treaty with Mitterrand. CDU donations
+      scandal 1999.
     affiliations:
     - org: governo-germania
       role: leader
       from: 1982
       to: 1998
+      note: Chancellor of Unity. Reunification 1990. Maastricht Treaty 1992.
   hendrik-brugmans:
     born: 1906
     died: 1997
@@ -3489,6 +3602,15 @@ persons:
       role: founder
       from: 1995
       note: Co-founder, Co-Chairman
+  ian-bremmer:
+    born: 1969
+    nationality: USA
+    note: Founder Eurasia Group, GZERO Media. Political scientist, author.
+    affiliations:
+    - org: eurasia-group
+      role: founder
+      from: 1998
+      note: Founder & President
   ibrahim-eren:
     nationality: TUR
     note: TRT Dir Gen 2017-2021. First Turk ABU President. Now BeIN Media advisor
@@ -4042,6 +4164,16 @@ persons:
     relations:
     - person: thorvald-stoltenberg
       type: son_of
+  jens-weidmann:
+    born: 1968
+    nationality: DEU
+    note: Bundesbank President 2011-2021. Resigned early, hawkish on monetary policy.
+    affiliations:
+    - org: deutsche-bundesbank
+      role: executive
+      from: 2011
+      to: 2021
+      note: President
   jerome-powell:
     born: 1953
     nationality: USA
@@ -4137,6 +4269,15 @@ persons:
       role: chairman
       from: 2013
       to: 2014
+  joachim-nagel:
+    born: 1966
+    nationality: DEU
+    note: Bundesbank President 2022-. SPD. Ex-BIS, ex-KfW.
+    affiliations:
+    - org: deutsche-bundesbank
+      role: executive
+      from: 2022
+      note: President
   joao-roberto-marinho:
     born: 1953
     nationality: BRA
@@ -4162,6 +4303,18 @@ persons:
       role: leader
       from: 2021
       to: 2025
+  joe-kaeser:
+    born: 1957
+    nationality: DEU
+    note: CEO Siemens (2013-2021), Chairman Siemens Energy. Trilateral.
+    affiliations:
+    - org: trilateral-commission
+      role: member
+    - org: siemens
+      role: executive
+      from: 2013
+      to: 2021
+      note: CEO
   joerg-reinhardt:
     born: 1956
     nationality: DEU
@@ -4721,6 +4874,26 @@ persons:
       role: leader
       from: 2024
       note: Alto Rappresentante Affari Esteri e Politica di Sicurezza
+  karl-ludwig-kley:
+    born: 1951
+    nationality: DEU
+    affiliations:
+    - org: lufthansa
+      role: chairman
+      from: 2018
+      note: Chairman Supervisory Board
+  karl-theodor-zu-guttenberg:
+    born: 1971
+    nationality: DEU
+    note: CSU. Ex-Minister of Defence (2009-11), resigned plagiarism scandal. WEF YGL. Now consultant NYC.
+    affiliations:
+    - org: wef
+      role: ygl
+    - org: governo-germania
+      role: minister
+      from: 2009
+      to: 2011
+      note: Defence Minister
   karl-wolff:
     born: 1900
     died: 1984
@@ -4905,6 +5078,24 @@ persons:
     - person: reinhard-gehlen
       type: colleague
       note: Agent in Gehlen Organization
+  klaus-michael-kuhne:
+    born: 1937
+    nationality: DEU
+    note: Germany richest person ($37-41B). Last of Kühne dynasty (no heirs). Kühne+Nagel 53%, Hapag-Lloyd 30%, Lufthansa
+      17.5%. Lives in Switzerland since 1975.
+    affiliations:
+    - org: hapag-lloyd
+      role: shareholder
+      from: 2008
+      note: 30% via Kühne Maritime + Kühne Holding
+    - org: kuhne-nagel
+      role: chairman
+      from: 1966
+      note: Honorary chairman, 53.3% owner
+    - org: lufthansa
+      role: shareholder
+      from: 2022
+      note: Largest individual shareholder via Kühne Aviation GmbH
   klaus-schwab:
     born: 1938
     nationality: DEU
@@ -5658,6 +5849,19 @@ persons:
       role: board
       from: 2024
       note: 10% ownership via CFG US Holdco LLC
+  marco-buschmann:
+    born: 1977
+    nationality: DEU
+    note: FDP. Federal Minister of Justice (2021-). Bilderberg 2024.
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2024
+      note: Bilderberg 2024 Madrid
+    - org: governo-germania
+      role: minister
+      from: 2021
+      note: Justice Minister
   marcus-wallenberg:
     born: 1956
     nationality: SWE
@@ -6051,6 +6255,14 @@ persons:
       role: owner
       from: 1963
       note: 49% ownership
+  michael-behrendt:
+    nationality: DEU
+    note: Chairman Supervisory Board Hapag-Lloyd since 2014. Former CEO.
+    affiliations:
+    - org: hapag-lloyd
+      role: chairman
+      from: 2014
+      note: Chairman Supervisory Board
   michael-bloomberg:
     born: 1942
     nationality: USA
@@ -6683,14 +6895,43 @@ persons:
     - org: bassa-sassonia
       role: leader
       from: 2025
+  olaf-scholz:
+    born: 1958
+    nationality: DEU
+    note: Chancellor 2021-2025 (SPD). Previously Finance Minister, Mayor of Hamburg.
+    affiliations:
+    - org: governo-germania
+      role: leader
+      from: 2021
+      to: 2025
+      note: Cancelliere
   oliver-baete:
     born: 1965
     nationality: DEU
+    note: CEO Allianz SE (2015-). Ex-McKinsey. Co-founder Net-Zero Asset Owner Alliance. Trilateral, MSC Advisory, IIF.
     affiliations:
+    - org: bilderberg
+      role: member
+      from: 2017
+      note: Participant 2017
+    - org: trilateral-commission
+      role: member
+      note: Trilateral Commission European Group
+    - org: mckinsey
+      role: partner
+      from: 1994
+      to: 2008
+      note: Director, European Insurance & Asset Management
     - org: allianz
       role: executive
       from: 2015
       note: CEO
+    - org: institute-international-finance
+      role: member
+      note: Member
+    - org: munich-security-conference
+      role: advisor
+      note: Advisory Council member
   oliver-blume:
     born: 1968
     nationality: DEU
@@ -7178,16 +7419,19 @@ persons:
   philipp-rosler:
     born: 1973
     nationality: DEU
+    note: Born Vietnam, adopted. Vice Chancellor 2011-13, FDP Leader 2011-13. WEF Managing Board 2014-17. First Asian-descent
+      German cabinet minister.
     affiliations:
     - org: wef
       role: executive
       from: 2014
-      note: Managing Board
+      to: 2017
+      note: Managing Board, Head Centre for Regional Strategies
     - org: governo-germania
-      role: leader
-      from: 2011
+      role: minister
+      from: 2009
       to: 2013
-      note: Vice-Chancellor, Economics
+      note: Health 2009-11, Economics 2011-13, Vice Chancellor 2011-13
   pier-silvio-berlusconi:
     born: 1969
     nationality: Italia
@@ -7350,6 +7594,14 @@ persons:
       role: executive
       from: 2022
       note: President & CEO
+  ralph-heck:
+    nationality: DEU
+    note: Chairman & CEO Bertelsmann Stiftung since 2020. Ex-McKinsey.
+    affiliations:
+    - org: bertelsmann-stiftung
+      role: chairman
+      from: 2020
+      note: Chairman & CEO
   ram-ben-barak:
     nationality: ISR
     note: Ex-Mossad deputy director
@@ -7502,7 +7754,8 @@ persons:
     born: 1921
     died: 2009
     nationality: DEU
-    note: Patriarch Bertelsmann. Built global empire. Founded Bertelsmann Stiftung 1977
+    note: Patriarch Bertelsmann 1947-2009. Wehrmacht Afrika Korps, POW Kansas. Built global media empire. Founded Bertelsmann
+      Stiftung 1977.
     affiliations:
     - org: bertelsmann
       role: chairman
@@ -7793,6 +8046,15 @@ persons:
       role: executive
       from: 2021
       note: President and CEO
+  rolf-habben-jansen:
+    born: 1966
+    nationality: NLD
+    note: CEO Hapag-Lloyd since 2014.
+    affiliations:
+    - org: hapag-lloyd
+      role: executive
+      from: 2014
+      note: CEO
   rolly-van-rappard:
     nationality: NLD
     affiliations:
@@ -8209,11 +8471,39 @@ persons:
   sigmar-gabriel:
     born: 1959
     nationality: DEU
+    note: Vice Chancellor 2013-18, Foreign Minister 2017-18, SPD Leader 2009-17, Atlantik-Brücke Chairman 2019-
     affiliations:
+    - org: governo-germania
+      role: minister
+      from: 2005
+      to: 2018
+      note: Environment 2005-09, Economy 2013-17, Foreign 2017-18, Vice Chancellor 2013-18
+    - org: trilateral-commission
+      role: member
+      from: 2018
+    - org: ecfr
+      role: member
+      from: 2018
     - org: atlantik-brucke
       role: chairman
       from: 2019
       note: Ex-Vice Chancellor, ex-Foreign Minister
+    - org: deutsche-bank
+      role: board
+      from: 2020
+      note: Supervisory Board, Integrity Committee
+    - org: rheinmetall
+      role: board
+      from: 2025
+      note: Supervisory Board
+    - org: siemens-energy
+      role: board
+      from: 2020
+      note: Supervisory Board
+    - org: eurasia-group
+      role: advisor
+      from: 2019
+      note: Senior Advisor, European affairs
   siim-kallas:
     born: 1948
     nationality: EST
@@ -9150,6 +9440,10 @@ persons:
       role: board
       from: 1974
       to: 2011
+  werner-kuhne:
+    born: 1898
+    nationality: DEU
+    note: Son of August. NSDAP member 1933. Left company 1951.
   wesley-clark:
     born: 1944
     nationality: USA
@@ -9291,6 +9585,13 @@ persons:
       role: ygl
       from: 2008
       note: Boxing champion, influencer
+  wolfgang-ischinger:
+    born: 1946
+    nationality: DEU
+    note: Diplomat. Ambassador to USA/UK. Chairman MSC (2008-2022). Trilateral.
+    affiliations:
+    - org: trilateral-commission
+      role: member
   wolfgang-porsche:
     born: 1943
     nationality: DEU/AUT
@@ -9309,6 +9610,19 @@ persons:
       from: 2007
     - org: porsche-ag
       role: chairman
+  wolfgang-schmidt:
+    born: 1970
+    nationality: DEU
+    note: SPD. Head of Chancellery and Federal Minister for Special Tasks (2021-). Close to Scholz. Bilderberg 2024.
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2024
+      note: Bilderberg 2024 Madrid
+    - org: governo-germania
+      role: minister
+      from: 2021
+      note: Head of Chancellery
   wyc-grousbeck:
     nationality: USA
     affiliations:

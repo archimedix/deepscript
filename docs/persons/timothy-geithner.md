@@ -167,6 +167,6 @@ Ogni passaggio ha aumentato potere, network e compensazione.
 - [[federal-reserve-ny]] - President 2003-2009
 - [[robert-rubin]] - Mentore
 - [[henry-kissinger]] - Primo datore di lavoro
-- [[gruppo-30]] - Membro
+- [Group of Thirty](../forum/group-of-thirty.md) - Membro
 - [[cfr]] - Distinguished Fellow
 - [[barack-obama]] - Presidente che lo nomino' Segretario Tesoro

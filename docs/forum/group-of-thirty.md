@@ -11,7 +11,7 @@
 | **Sede** | Washington D.C. |
 | **Membri** | ~30 |
 | **Chairman** | Jean-Claude Trichet (ex-BCE) |
-| **Tipo** | Think tank / Club privato |
+| **Tipo** | Forum / Club privato |
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Anno | Evento |
 |------|--------|
-| **1978** | Fondazione su iniziativa [Rockefeller Foundation](rockefeller-foundation.md) |
+| **1978** | Fondazione su iniziativa [Rockefeller Foundation](../foundation/rockefeller-foundation.md) |
 | **Fondatore** | Geoffrey Bell |
 | **Obiettivo** | Forum "informale" tra finanza pubblica e privata |
 | **Modello** | Discussione regolamentazione bancaria globale |
@@ -53,7 +53,7 @@
 | **Axel Weber** | Bundesbank | UBS |
 | **Lawrence Summers** | Tesoro USA | Hedge funds |
 | **Paul Volcker** | Federal Reserve | - |
-| **Timothy Geithner** | Tesoro USA, NY Fed | [Warburg Pincus](warburg-pincus.md) |
+| **Timothy Geithner** | Tesoro USA, NY Fed | [Warburg Pincus](../private-equity/warburg-pincus.md) |
 
 ### Il Pattern Goldman Sachs
 
@@ -122,21 +122,25 @@ Molti membri G30 hanno lavorato per Goldman Sachs:
 
 | Persona | Ruolo G30 |
 |---------|-----------|
-| [Mario Draghi](../persone/mario-draghi.md) | Membro dal 2005 |
-| [Robert Rubin](../persone/robert-rubin.md) | Network |
-| [Larry Fink](../persone/larry-fink.md) | Network |
-| [Jamie Dimon](../persone/jamie-dimon.md) | Network JPMorgan |
-| [Christine Lagarde](../persone/christine-lagarde.md) | Network BCE |
+| [Mario Draghi](../persons/mario-draghi.md) | Membro dal 2005 |
+| [Axel Weber](../persons/axel-weber.md) | Membro |
+| [Timothy Geithner](../persons/timothy-geithner.md) | Membro |
+| [Alan Greenspan](../persons/alan-greenspan.md) | Membro |
+| [Robert Rubin](../persons/robert-rubin.md) | Network |
+| [Larry Fink](../persons/larry-fink.md) | Network |
+| [Jamie Dimon](../persons/jamie-dimon.md) | Network JPMorgan |
+| [Christine Lagarde](../persons/christine-lagarde.md) | Network BCE |
 
 ### Istituzioni
 
 | Entita' | Connessione |
 |---------|-------------|
-| [Goldman Sachs](goldman-sachs.md) | Molti membri |
-| [JPMorgan Chase](jpmorgan-chase.md) | Membri |
-| [Federal Reserve](federal-reserve.md) | Ex-governatori membri |
-| [BCE](bce.md) | Trichet chairman, Draghi membro |
-| [BIS](bis.md) | Network banchieri centrali |
+| [Goldman Sachs](../bank/goldman-sachs.md) | Molti membri |
+| [JPMorgan Chase](../bank/jpmorgan-chase.md) | Membri |
+| [UBS](../bank/ubs.md) | Weber ex-Chairman |
+| [Federal Reserve](../central-bank/federal-reserve.md) | Ex-governatori membri |
+| [ECB](../central-bank/ecb.md) | Trichet chairman, Draghi membro |
+| [BIS](../central-bank/bis.md) | Network banchieri centrali |
 
 ### Network
 

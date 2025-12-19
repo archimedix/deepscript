@@ -134,5 +134,5 @@
 - [[timothy-geithner]] - Protetto di Rubin/Summers, Treasury Obama
 - [[trilaterale]] - Membro fondatore
 - [[cfr]] - Membro
-- [[gruppo-30]] - Membro
+- [Group of Thirty](../forum/group-of-thirty.md) - Membro
 - [[federal-reserve]] - Chairman 1987-2006

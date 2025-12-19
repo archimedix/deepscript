@@ -252,7 +252,7 @@ Entrambe donano al **Group of 30**, indicando posizionamento elite simile.
 |---------|-------------|
 | [CFR](cfr.md) | Gorman - Director |
 | [Federal Reserve](federal-reserve.md) | Gorman - FRBNY Director, Warsh - ex Governor |
-| [Gruppo 30](gruppo-30.md) | Donatore |
+| [Group of Thirty](../forum/group-of-thirty.md) | Donatore |
 | [JPMorgan Chase](jpmorgan-chase.md) | Stesso heritage Morgan, competitor |
 
 ### Famiglie

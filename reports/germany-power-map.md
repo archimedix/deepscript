@@ -9,7 +9,7 @@ La Germania e' la quarta economia mondiale e il motore industriale d'Europa. Il 
 | Caratteristica | Dettaglio |
 |----------------|-----------|
 | **Modello** | Capitalismo renano con codeterminazione (Mitbestimmung) |
-| **Famiglie industriali** | Quandt/Klatten (BMW), Porsche-Piech (VW), Mohn (Bertelsmann), Schwarz (Lidl) |
+| **Famiglie industriali** | Quandt/Klatten (BMW), Porsche-Piech (VW), Mohn (Bertelsmann), Schwarz (Lidl), Kuhne (shipping) |
 | **Forum chiave** | Atlantik-Brucke, Munich Security Conference, WEF |
 | **Investitori esteri** | BlackRock, Qatar, Cina (Geely, BAIC, Midea), Kuwait |
 | **Peculiarita'** | Volkswagen Law, Land ownership in aziende, banche regionali |
@@ -23,6 +23,7 @@ La Germania e' la quarta economia mondiale e il motore industriale d'Europa. Il 
 | **Top 500 ricchi** | €1.1T asset totali |
 | **Billionaires** | 249 (2024) |
 | **Famiglia piu' ricca** | Schwarz (Lidl) €43.7B |
+| **Individuo piu' ricco** | Klaus-Michael Kuhne (shipping) $37B |
 
 ---
 
@@ -136,12 +137,47 @@ ALTRI AZIONISTI VW:
 - Penguin Random House (editoria globale)
 - BMG (musica)
 - Arvato (servizi)
-- Bertelsmann Stiftung (policy think tank)
+- [Bertelsmann Stiftung](../docs/foundation/bertelsmann-stiftung.md) (policy think tank)
 
 | Persona | Ruolo |
 |---------|-------|
 | [Liz Mohn](../docs/persons/liz-mohn.md) | Board Bertelsmann + Stiftung |
 | [Thomas Rabe](../docs/persons/thomas-rabe.md) | CEO Bertelsmann |
+
+#### Storia Nazista e Falsa Narrativa
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Heinrich Mohn** | Padre di Reinhard, SS Sponsors Circle (Forderndes Mitglied) |
+| **Produzione bellica** | **19 milioni** di libri per Wehrmacht (piu' grande fornitore) |
+| **Pubblicazioni** | Testi antisemiti anche dopo che i campi erano noti |
+| **Narrativa post-1945** | "Editore cristiano perseguitato dai nazisti" |
+| **2002** | Commissione storica smentisce tutto: chiusura 1944 per accaparramento carta, non per "resistenza" |
+
+#### Bertelsmann Stiftung: "La Repubblica Bertelsmann"
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1977 |
+| **Budget** | EUR 77M (2024), 334 dipendenti |
+| **Quota** | 80.9% capitale Bertelsmann, **0% diritti voto** |
+| **Chairman** | Ralph Heck (dal 2020) |
+
+**Influenza politica documentata:**
+- Ruolo nelle riforme **Hartz/Agenda 2010** (Schroder)
+- Rankings educazione, sanita', competitivita'
+- Accesso diretto a ministeri e politici
+
+**Critiche:**
+
+| Fonte | Critica |
+|-------|---------|
+| Wolfgang Lieb | "Non importa chi viene eletto, la Stiftung e' sempre parte del governo" |
+| Thomas Schuler | Libro "Bertelsmannrepublik" (2010): "anti-democratica" |
+| Ver.di | Rottura cooperazione 2007 (conflitto Arvato privatizzazioni) |
+| LobbyControl | "Canone neoliberista", PR aziendale mascherata |
+
+**Conflitto interessi Arvato**: La Stiftung propone privatizzazioni PA → Arvato (Bertelsmann) fornisce servizi outsourcing.
 
 ### I Springer: Media e Potere
 
@@ -349,6 +385,108 @@ BlackRock BlackRock
 
 ---
 
+## Shipping e Logistica: Il Dominio Kuhne
+
+### Klaus-Michael Kuhne: Il Miliardario dello Shipping
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nascita** | 2 giugno 1937, Hamburg |
+| **Patrimonio** | **$37-41B** (2024) - **persona piu' ricca della Germania** |
+| **Residenza** | Schindellegi, Svizzera (dal 1975) |
+| **Moglie** | Christine Kuhne (nata 1938), dal 1989 |
+| **Figli** | **Nessuno** - ultimo della dinastia |
+| **Famiglia** | Nipote di August Kuhne, figlio di Alfred Kuhne (NSDAP) |
+| **Successione** | Kuhne Foundation ereditera' tutto |
+
+> **Fine dinastia**: Klaus-Michael (87 anni) e' l'ultimo Kuhne. Senza eredi, il patrimonio passera' alla Kuhne Foundation svizzera.
+
+**Impero Kuhne:**
+
+| Asset | Quota | Note |
+|-------|-------|------|
+| [Kuhne+Nagel](../docs/company/kuhne-nagel.md) | 53.3% | Piu' grande freight forwarder marittimo del mondo |
+| [Hapag-Lloyd](../docs/company/hapag-lloyd.md) | 30% | 5a compagnia container shipping globale |
+| Lufthansa | 17.5% | Compagnia aerea tedesca |
+| Brenntag | 15% | Distribuzione chimica |
+
+### Hapag-Lloyd: Shipping Made in Hamburg
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1970 (merger HAPAG 1847 + Norddeutscher Lloyd 1857) |
+| **Sede** | Hamburg |
+| **Revenue** | EUR 19.1B (2024) |
+| **Flotta** | 292 navi, 11.9M TEU/anno |
+
+**Struttura proprietaria:**
+
+```
+KLAUS-MICHAEL KUHNE (DEU) ──────► 30%
+                                    |
+LUKSIC FAMILY (CHL)                 |
+   └─► Quinenco (83%)               |      HAPAG-LLOYD AG
+       └─► CSAV (66.5%) ───────► 30%      (Hamburg)
+                                    |
+CITY OF HAMBURG                     |
+   └─► HGV ────────────────────► 13.9%
+                                    |
+QATAR (QIA) ───────────────────► 12.3%
+```
+
+**Patto parasociale**: Kuhne + CSAV + Hamburg controllano 73.9% con accordo di voto.
+
+### Lo Scandalo Signa/Benko (2024)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Partner** | Rene Benko (Signa Holding, Austria) |
+| **Progetto** | Opera house Hamburg HafenCity (€300-400M) |
+| **Rottura** | Dicembre 2022: "La fiducia e' distrutta" |
+| **Perdita** | **€500M** ("quasi tutto il nostro investimento") |
+| **Giudizio Kuhne** | "Un truffatore di prima categoria. Merita la prigione." |
+
+> **Pattern**: Anche l'uomo piu' ricco della Germania puo' perdere mezzo miliardo con il partner sbagliato.
+
+### Storia Controversa Kuhne+Nagel
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1890, Bremen (August Kuhne) |
+| **1907** | Friedrich Nagel esce, azienda 100% famiglia Kuhne |
+| **1932** | Morte August, figli Alfred e Werner assumono controllo |
+| **Aprile 1933** | **Adolf Maass** (socio ebreo, 45%) espulso senza compenso |
+| **1 maggio 1933** | Alfred e Werner Kuhne aderiscono al **NSDAP** |
+| **1937** | K+N riceve titolo "**Nationalsozialistische Musterbetrieb**" |
+| **1942-44** | **M-Aktion**: monopolio trasporto beni ~70,000 famiglie ebree (Francia, Belgio, Olanda, Lussemburgo) |
+| **Destino Maass** | Adolf Maass e moglie assassinati ad **Auschwitz** |
+| **Archivi** | "Distrutti in bombardamenti 1944" (controverso) |
+| **2000** | K+N partecipa a fondo risarcimento $2.5B, rifiuta apertura archivi |
+| **2020s** | Klaus-Michael commissiona studio storico ma **non lo pubblica** |
+| **Oggi** | CHF 24.8B revenue (2024), #1 mondiale sea-freight |
+
+**La famiglia Kuhne:**
+
+| Generazione | Nome | Anni | Ruolo |
+|-------------|------|------|-------|
+| 1a | August Kuhne | 1855-1932 | Co-fondatore |
+| 2a | Alfred Kuhne | 1895-1981 | Patriarch, NSDAP |
+| 2a | Werner Kuhne | 1898-? | Partner, NSDAP (lascia 1951) |
+| 3a | **Klaus-Michael** | 1937- | Ultimo erede, $37-41B |
+
+### Albert Ballin: Il Genio Ebreo di HAPAG
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nascita** | 1857, Hamburg (famiglia ebrea danese) |
+| **Ruolo** | Direttore Generale HAPAG 1899-1918 |
+| **1913** | HAPAG = piu' grande shipping company del mondo |
+| **Morte** | 9 novembre 1918 (suicidio, giorno abdicazione Kaiser) |
+| **Era nazista** | Nome cancellato (nave "Albert Ballin" → "Hansa") |
+| **1947** | Riabilitazione: Ballindamm ad Amburgo |
+
+---
+
 ## I Media e l'Opinione Pubblica
 
 ### Panorama Media Tedesco
@@ -442,11 +580,37 @@ Politico (USA/EU)
 | [Klaus Schwab](../docs/persons/klaus-schwab.md) | Founder & Chairman (tedesco!) |
 | [Angela Merkel](../docs/persons/angela-merkel.md) | Global Leader for Tomorrow (1992) |
 | [Ursula von der Leyen](../docs/persons/ursula-von-der-leyen.md) | Member |
-| [Annalena Baerbock](../docs/persons/annalena-baerbock.md) | Young Global Leader |
+| [Annalena Baerbock](../docs/persons/annalena-baerbock.md) | Young Global Leader (2020) |
 | [Jens Spahn](../docs/persons/jens-spahn.md) | Young Global Leader |
-| [Philipp Rosler](../docs/persons/philipp-rosler.md) | Ex-Head WEF (dopo vice-cancelliere) |
+| [Cem Özdemir](../docs/persons/cem-ozdemir.md) | Young Global Leader |
+| [Karl-Theodor zu Guttenberg](../docs/persons/karl-theodor-zu-guttenberg.md) | Young Global Leader |
+| [Philipp Rosler](../docs/persons/philipp-rosler.md) | Ex-Managing Director WEF (dopo vice-cancelliere) |
 
 > **Pattern**: Il WEF e' stato fondato da un tedesco (Schwab) e la Germania ha una rappresentanza massiccia nei programmi YGL/GLT.
+
+### Trilateral Commission e Tedeschi
+
+| Persona | Ruolo |
+|---------|-------|
+| [Axel Weber](../docs/persons/axel-weber.md) | **Chair European Group** |
+| [Oliver Bäte](../docs/persons/oliver-baete.md) | Member (CEO Allianz) |
+| [Joe Kaeser](../docs/persons/joe-kaeser.md) | Member (ex-CEO Siemens) |
+| [Wolfgang Ischinger](../docs/persons/wolfgang-ischinger.md) | Member (ex-MSC Chairman) |
+| [Daniela Schwarzer](../docs/persons/daniela-schwarzer.md) | Member (Open Society) |
+
+> **Pattern**: La Germania ha il **chairman del gruppo europeo** (Weber) e una quota di 20 membri (la piu' alta in Europa insieme a Francia, Italia, UK).
+
+### Bilderberg 2024: Delegazione Tedesca
+
+| Persona | Ruolo |
+|---------|-------|
+| [Friedrich Merz](../docs/persons/friedrich-merz.md) | Leader CDU (ora Cancelliere) |
+| [Christian Sewing](../docs/persons/christian-sewing.md) | CEO Deutsche Bank |
+| [Marco Buschmann](../docs/persons/marco-buschmann.md) | Ministro Giustizia |
+| [Wolfgang Schmidt](../docs/persons/wolfgang-schmidt.md) | Capo Cancelleria |
+| [Mathias Döpfner](../docs/persons/mathias-dopfner.md) | CEO Axel Springer (**Steering Committee**) |
+
+> **Pattern**: Bilderberg 2024 (Madrid) ha visto una forte delegazione tedesca con il futuro Cancelliere, il CEO della principale banca, due ministri chiave e il capo dei media.
 
 ### La Famiglia Schwab e le Radici Tedesche del WEF
 
@@ -560,11 +724,14 @@ Axel Springer 48.5%
 
 ### Altri Casi
 
-| Persona | Da | A |
-|---------|-----|-----|
-| Ronald Pofalla | Capo Cancelleria Merkel | Deutsche Bahn |
-| [Philipp Rosler](../docs/persons/philipp-rosler.md) | Vice-Cancelliere, Min. Economia | WEF Managing Director |
-| Wolfgang Ischinger | Ambasciatore USA | Chairman MSC |
+| Persona | Da | A | Tempo |
+|---------|-----|-----|-------|
+| **[Philipp Rösler](../docs/persons/philipp-rosler.md)** | Vice-Cancelliere FDP | **WEF Managing Board** | **4 mesi** |
+| **[Sigmar Gabriel](../docs/persons/sigmar-gabriel.md)** | Vice-Cancelliere SPD | Atlantik-Brücke Chairman + Deutsche Bank/Rheinmetall Boards | ~18 mesi |
+| Ronald Pofalla | Capo Cancelleria Merkel | Deutsche Bahn | - |
+| Wolfgang Ischinger | Ambasciatore USA | Chairman MSC | - |
+
+> **Pattern Rösler**: Il caso più veloce - da Vice-Cancelliere a dirigente del forum globale più influente in soli 4 mesi. Dopo WEF, CEO della fondazione di HNA Group (Cina).
 
 ### Legislazione Anti-Revolving Door
 
@@ -629,6 +796,7 @@ Ma anche rallenta trasformazione digitale/green.
 1. **Successione Quandt**: Stefan e Susanne non hanno eredi attivi in BMW
 2. **Porsche-Piech**: Tensioni tra rami continueranno?
 3. **Mohn**: Bertelsmann Stiftung modello sostenibile?
+4. **Kuhne**: Klaus-Michael (87) senza eredi - come sara' governata la Foundation?
 
 ### Investitori
 
@@ -659,9 +827,9 @@ Ma anche rallenta trasformazione digitale/green.
 | roland-busch | CEO Siemens | - |
 | jim-hagemann-snabe | Chairman Siemens | WEF Trustee, Allianz Vice-Chair (danese) |
 | paul-achleitner | Ex-Chairman Deutsche Bank | Goldman, Allianz, Bilderberg Steering, Brookings |
-| sigmar-gabriel | Chairman Atlantik-Brücke | Ex-Vice Chancellor SPD |
+| [sigmar-gabriel](../docs/persons/sigmar-gabriel.md) | Chairman Atlantik-Brücke | Ex-Vice Chancellor, Deutsche Bank Board, Rheinmetall Board, Trilateral, Eurasia Group |
 | friedrich-merz | Cancelliere (2025) | Atlantik-Brücke, BlackRock, Bilderberg |
-| oliver-baete | CEO Allianz | MSC Advisory |
+| oliver-baete | CEO Allianz | Trilateral, MSC Advisory, IIF, Bilderberg 2017, co-founder Net-Zero Asset Owner Alliance |
 | christian-sewing | CEO Deutsche Bank | - |
 | markus-kamieth | CEO BASF (2024-) | - |
 | kurt-bock | Chairman BASF | - |
@@ -673,6 +841,29 @@ Ma anche rallenta trasformazione digitale/green.
 | christian-klein | CEO SAP (2020-) | - |
 | peter-mohnen | Ex-CEO KUKA (2018-25) | Lascia per tensioni con Midea |
 | christoph-schell | CEO KUKA (2025-) | - |
+| klaus-michael-kuhne | Richest German ($37-41B) | K+N 53%, Hapag 30%, Lufthansa 17.5%, ultimo erede |
+| august-kuhne | Fondatore K+N (1855-1932) | 1a generazione |
+| alfred-kuhne | Patriarch 2a gen (1895-1981) | NSDAP 1933, M-Aktion |
+| werner-kuhne | Partner 2a gen (1898-?) | NSDAP 1933, lascia 1951 |
+| reinhard-mohn | Patriarch Bertelsmann (1921-2009) | Wehrmacht Afrika Korps, POW Kansas, fondatore Stiftung |
+| ralph-heck | Chairman Bertelsmann Stiftung | Dal 2020, ex-McKinsey |
+| olaf-scholz | Cancelliere 2021-2025 | SPD, ex-Min. Finanze, ex-Sindaco Hamburg |
+| frank-walter-steinmeier | Bundespraesident | Dal 2017, SPD, ex-Min. Esteri |
+| boris-pistorius | Min. Difesa | Dal 2023, SPD |
+| axel-weber | Ex-Bundesbank, Ex-UBS Chairman | **Trilateral European Chair** |
+| wolfgang-ischinger | Diplomat, Ex-MSC Chairman | Trilateral |
+| joe-kaeser | Ex-CEO Siemens (2013-21) | Trilateral |
+| marco-buschmann | Min. Giustizia FDP | Bilderberg 2024 |
+| wolfgang-schmidt | Capo Cancelleria SPD | Bilderberg 2024 |
+| daniela-schwarzer | Open Society Foundations | Trilateral |
+| cem-ozdemir | Min. Agricoltura Gruene | WEF YGL |
+| karl-theodor-zu-guttenberg | Ex-Min. Difesa CSU | WEF YGL, dimesso plagio |
+| jens-weidmann | Ex-Bundesbank President (2011-21) | Dimesso anticipatamente, hawkish |
+| joachim-nagel | Bundesbank President (2022-) | SPD, ex-BIS, ex-KfW |
+| [helmut-kohl](../docs/persons/helmut-kohl.md) | Cancelliere 1982-1998 | Riunificazione, Maastricht, CDU scandal |
+| [philipp-rosler](../docs/persons/philipp-rosler.md) | Ex-Vice Cancelliere FDP | **WEF Managing Board 2014-17**, revolving door emblematico |
+| [carsten-spohr](../docs/persons/carsten-spohr.md) | CEO Lufthansa | Munich Re Board, IATA Chairman |
+| karl-ludwig-kley | Chairman Lufthansa Supervisory Board | Ex-CFO Lufthansa, ex-Chairman Merck |
 
 ### Organizzazioni Tedesche
 
@@ -683,6 +874,7 @@ Ma anche rallenta trasformazione digitale/green.
 | bmw | Automaker | Quandt 44% |
 | mercedes-benz | Automaker | Geely/BAIC 20% |
 | deutsche-bank | Bank | Disperso (BlackRock, Qatar) |
+| deutsche-bundesbank | CentralBank | Banca centrale, Eurosistema |
 | bertelsmann | Media | Mohn/Stiftung 80.9% |
 | axel-springer | Media | Springer/KKR |
 | allianz | Company | Disperso (BlackRock, Vanguard) |
@@ -691,6 +883,15 @@ Ma anche rallenta trasformazione digitale/green.
 | sap | Company | Fondatori 11% (Hopp, Plattner), BlackRock 6.5% |
 | kuka | Company | Midea (China) 100%, delistata 2022 |
 | midea-group | Company (China) | Proprietario KUKA |
+| hapag-lloyd | Company | Kuhne 30%, CSAV 30%, Hamburg 13.9%, QIA 12.3% |
+| kuhne-nagel | Company | Kuhne 53.3%, Schindellegi Switzerland |
+| [lufthansa](../docs/company/lufthansa.md) | Company | Kuhne 17.5%, BlackRock 3.4%, bailout pandemico 2020-23 |
+| [rheinmetall](../docs/company/rheinmetall.md) | Company | Defense, Gabriel Supervisory Board 2025 |
+| [siemens-energy](../docs/company/siemens-energy.md) | Company | Spin-off Siemens 2020, Gabriel Board |
+| [munich-re](../docs/company/munich-re.md) | Company | Reinsurance, Spohr Board |
+| bertelsmann-stiftung | Foundation | 80.9% Bertelsmann (0% voti), EUR 77M budget |
+| governo-germania | Government | Cancelliere Merz (2025), Presidente Steinmeier |
+| [eurasia-group](../docs/company/eurasia-group.md) | Company | Political risk consulting, Gabriel advisor, Bremmer founder |
 
 ### Forum
 
@@ -700,7 +901,21 @@ Ma anche rallenta trasformazione digitale/green.
 | american-council-on-germany | Forum | Controparte USA di Atlantik-Brücke |
 | wef | Forum | Fondato da tedesco (Schwab) |
 | bilderberg | Forum | Partecipazione tedesca alta |
+| munich-security-conference | Forum | Stoltenberg Chair (2025), Bäte Advisory |
+| group-of-thirty | Forum | Weber membro, banchieri centrali |
+| institute-international-finance | Forum | Weber Chairman, Bäte membro |
 | brookings | ThinkTank | Achleitner Trustee |
+| [ecfr](../docs/think-tank/ecfr.md) | ThinkTank | European Council on Foreign Relations, Gabriel membro |
+
+### Famiglie
+
+| ID | Settore | Note |
+|----|---------|------|
+| [quandt](../docs/family/quandt.md) | Automotive, chemicals | BMW 44%, origine Gunther Quandt, passato nazista |
+| [porsche-piech](../docs/family/porsche-piech.md) | Automotive | VW 53% via Porsche SE, due rami familiari |
+| [mohn](../docs/family/mohn.md) | Media, publishing | Bertelsmann 80.9% via Stiftung, Reinhard Mohn fondatore moderno |
+| [kuhne](../docs/family/kuhne.md) | Logistics | 3 gen, ultimo erede senza figli, →Kuhne Foundation |
+| [warburg](../docs/family/warburg.md) | Banking | Origine Hamburg, fondatore Atlantik-Brucke (Eric Warburg) |
 
 ---
 
@@ -732,11 +947,79 @@ Ma anche rallenta trasformazione digitale/green.
 - [Wikipedia - Gerhard Schroder](https://en.wikipedia.org/wiki/Gerhard_Schr%C3%B6der)
 - [Atlantic Council - Schroederization of Europe](https://www.atlanticcouncil.org/blogs/ukrainealert/biden-must-persuade-germany-and-austria-to-stop-the-schroederization-of-europe/)
 
+### Shipping e Logistica
+- [Wikipedia - Hapag-Lloyd](https://en.wikipedia.org/wiki/Hapag-Lloyd)
+- [Wikipedia - Klaus-Michael Kuhne](https://en.wikipedia.org/wiki/Klaus-Michael_K%C3%BChne)
+- [Wikipedia - Kuehne + Nagel](https://en.wikipedia.org/wiki/Kuehne_+_Nagel)
+- [Wikipedia - Albert Ballin](https://en.wikipedia.org/wiki/Albert_Ballin)
+- [Bloomberg - Luksic Family Doubles Fortune on Hapag-Lloyd](https://www.bloomberg.com/news/articles/2023-09-22/billionaire-luksic-family-doubles-fortune-on-hapag-lloyd-investment)
+- [YNet - Dark secrets behind wealth of Germany's richest man](https://www.ynetnews.com/article/bjid3muac)
+- [Handelsblatt - Kuhne verliert halbe Milliarde durch Benko](https://www.handelsblatt.com/unternehmen/handel-konsumgueter/signa-investor-kuehne-hat-durch-benko-pleite-halbe-milliarde-verloren/100088878.html)
+- [NZZ - Kuhne: "Ich habe mich einlullen lassen"](https://www.nzz.ch/wirtschaft/er-hat-mich-um-den-finger-gewickelt-logistikunternehmer-klaus-michael-kuehne-beziffert-seine-verluste-bei-rene-benko-auf-500-millionen-euro-ld.1857951)
+
+### Bertelsmann e Mohn
+- [Wikipedia - Reinhard Mohn](https://en.wikipedia.org/wiki/Reinhard_Mohn)
+- [Wikipedia - Bertelsmann Stiftung](https://en.wikipedia.org/wiki/Bertelsmann_Stiftung)
+- [WARC - Bertelsmann Admits Nazi Contacts](https://www.warc.com/newsandopinion/news/bertelsmann-admits-nazi-contacts-helped-build-its-empire/en-gb/12404)
+- [LobbyControl - Stiftungen als Lobbyakteure](https://www.lobbycontrol.de/reichtum-und-einfluss/stiftungen-als-lobbyakteure-studie-dokumentiert-intransparenz-und-verdeckte-interessen-bei-bmw-bertelsmann-co-27686/)
+
+### Governo
+- [Wikipedia - Merz cabinet](https://en.wikipedia.org/wiki/Merz_cabinet)
+- [Wikipedia - List of chancellors of Germany](https://en.wikipedia.org/wiki/List_of_chancellors_of_Germany)
+- [Bundeskanzler.de](https://www.bundeskanzler.de/bk-en)
+
 ---
 
 *Ultimo aggiornamento: Dicembre 2025*
 
 ### Changelog
+
+- **19 Dic v10**: Revolving door tedeschi e figure storiche
+  - **Sigmar Gabriel**: scheda completa `docs/persons/sigmar-gabriel.md` (Vice Chancellor → Atlantik-Brücke Chairman, Deutsche Bank/Rheinmetall/Siemens Energy boards, Trilateral, Eurasia Group)
+  - **Philipp Rösler**: scheda completa `docs/persons/philipp-rosler.md` (Vice Chancellor FDP → **WEF Managing Board** in 4 mesi, caso revolving door emblematico)
+  - **Helmut Kohl**: scheda completa `docs/persons/helmut-kohl.md` (Cancelliere 1982-98, Riunificazione, Maastricht, CDU donations scandal)
+  - **Eurasia Group**: scheda completa `docs/company/eurasia-group.md` (Ian Bremmer founder, Gabriel advisor, political risk consulting)
+  - Nuovi stub: rheinmetall, siemens-energy, ecfr, ian-bremmer
+  - Sezione Entità aggiornata con 10+ nuove voci
+
+- **19 Dic v9**: Famiglie tedesche complete + Lufthansa
+  - Sezione Famiglie: aggiunte quandt, porsche-piech, mohn, warburg (erano solo kuhne)
+  - **Lufthansa**: scheda completa `docs/company/lufthansa.md` (Kuhne 17.5%, storia nazista, bailout pandemico)
+  - Nuove persone: carsten-spohr (CEO Lufthansa), karl-ludwig-kley (Chairman)
+  - Nuovo stub: munich-re
+
+- **19 Dic v8**: Schede complete e banche centrali
+  - **Axel Weber**: scheda completa `docs/persons/axel-weber.md` (Bundesbank, UBS, Trilateral Chair, G30, IIF)
+  - **Oliver Bäte**: scheda completa `docs/persons/oliver-baete.md` (Allianz CEO, Trilateral, MSC, IIF, Net-Zero Alliance co-founder)
+  - **Deutsche Bundesbank**: scheda completa `docs/central-bank/deutsche-bundesbank.md` (presidenti dal 1957, pattern dimissioni)
+  - **Group of Thirty**: spostato da `think-tank/gruppo-30.md` a `forum/group-of-thirty.md`, link corretti
+  - Nuove persone: jens-weidmann, joachim-nagel
+  - Nuovi forum: munich-security-conference, group-of-thirty, institute-international-finance
+
+- **19 Dic v7**: Tedeschi nei forum transnazionali
+  - **Bilderberg 2024**: Merz, Sewing, Buschmann, Schmidt (4 nuove affiliazioni)
+  - **Trilateral Commission**: Weber (Chair), Bäte, Kaeser, Ischinger, Schwarzer (5 nuovi)
+  - **WEF YGL**: Özdemir, Guttenberg aggiunti
+  - 8 nuovi stub persona creati
+  - Sezioni forum espanse con tabelle dettagliate
+
+- **19 Dic v6**: Approfondimento famiglia Kuhne
+  - Klaus-Michael: moglie Christine, nessun erede, fine dinastia
+  - **Signa/Benko scandal**: perdita €500M, "truffatore di prima categoria"
+  - Famiglia Kuhne: albero genealogico 3 generazioni
+  - Era nazista: Adolf Maass (socio ebreo 45%) espulso e assassinato Auschwitz
+  - 1937: K+N "Nationalsozialistische Musterbetrieb"
+  - Archivi: studio storico commissionato ma non pubblicato
+
+- **19 Dic v5**: Integrazione Hapag-Lloyd, Kuhne, Mohn, Governo
+  - **Shipping/Logistica**: Nuova sezione con Klaus-Michael Kuhne ($37B, richest German), Hapag-Lloyd, CSAV/Luksic
+  - **Mohn/Bertelsmann**: Storia nazista (Heinrich Mohn SS sponsor, 19M libri Wehrmacht, falsa narrativa 1945-2002)
+  - **Bertelsmann Stiftung**: "Repubblica Bertelsmann" (EUR 77M budget, influenza Hartz, critiche Lieb/Schuler)
+  - **Governo Germania**: Timeline 10 cancellieri, gabinetto Merz 2025, Steinmeier presidente
+  - **Kuhne+Nagel**: Storia controversa (trasporto beni 70,000 famiglie ebree)
+  - **Albert Ballin**: Genio ebreo HAPAG, suicidio 1918, nome cancellato dai nazisti
+  - Nuove persone: klaus-michael-kuhne, reinhard-mohn, ralph-heck, olaf-scholz, frank-walter-steinmeier, boris-pistorius
+  - Nuove org: hapag-lloyd, kuhne-nagel, bertelsmann-stiftung, governo-germania
 
 - **19 Dic v4**: Integrazione Carl Wurster, SAP, KUKA
   - Carl Wurster: primo CEO BASF post-bellico, ex-NSDAP, assolto a Norimberga, banchetto 1959

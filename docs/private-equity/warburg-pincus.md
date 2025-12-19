@@ -197,7 +197,7 @@ KISSINGER ASSOCIATES (1985-88)
 |---------|-------------|
 | [CFR](cfr.md) | Chip Kaye - Board |
 | [Federal Reserve](federal-reserve.md) | Geithner ex-Presidente Fed NY |
-| [Gruppo 30](gruppo-30.md) | Geithner membro |
+| [Group of Thirty](../forum/group-of-thirty.md) | Geithner membro |
 | [Goldman Sachs](goldman-sachs.md) | Network Wall Street |
 
 ### Famiglie
