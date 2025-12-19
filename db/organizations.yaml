@@ -322,6 +322,36 @@ organizations:
       role: chairman
       from: 2007
       note: Managing Director, Chairman 12 years
+  allianz:
+    name: Allianz SE
+    type: company
+    founded: 1890
+    headquarters: Munich, Germany
+    status: active
+    sector: insurance
+    stakeholders:
+    - person: jim-hagemann-snabe
+      role: board
+      note: Vice Chairman
+    - person: paul-achleitner
+      role: executive
+      from: 2000
+      to: 2012
+      note: CFO
+    - person: oliver-baete
+      role: executive
+      from: 2015
+      note: CEO
+    - person: michael-diekmann
+      role: chairman
+      from: 2015
+      note: Chairman Supervisory Board (CEO 2003-2015)
+    - org: blackrock
+      share: 6.9%
+      note: Largest shareholder (2024)
+    - org: vanguard
+      share: 3.8%
+      note: '2024'
   alphabet:
     name: Alphabet
     type: company
@@ -410,6 +440,13 @@ organizations:
     stakeholders:
     - person: joseph-oughourlian
       role: founder
+  american-council-on-germany:
+    name: American Council on Germany
+    type: forum
+    founded: 1952
+    headquarters: New York, USA
+    status: active
+    note: US counterpart to Atlantik-Brücke
   american-express:
     name: American Express
     type: company
@@ -844,17 +881,27 @@ organizations:
       role: donor
       note: Corporate donor - Tech sector
   atlantik-brucke:
-    name: Atlantik-Brücke
-    type: thinktank
+    name: Atlantik-Brücke e.V.
+    type: forum
     founded: 1952
     headquarters: Berlin, Germany
     status: active
     sector: transatlantic-relations
+    note: Private non-profit for German-American relations, founded by Eric Warburg
     stakeholders:
+    - person: eric-warburg
+      role: founder
+      from: 1952
+      note: Co-fondatore
     - person: friedrich-merz
       role: chairman
       from: 2009
       to: 2019
+      note: Chairman per 10 anni
+    - person: sigmar-gabriel
+      role: chairman
+      from: 2019
+      note: Ex-Vice Chancellor, ex-Foreign Minister
   atlantik-bruecke:
     type: forum
     founded: 1952
@@ -949,7 +996,19 @@ organizations:
     founded: 1958
     headquarters: Beijing, China
     status: active
-    note: State-owned. JV with Mercedes (Beijing Benz)
+    note: 'State-owned. JV: Beijing Benz (51%), Beijing Hyundai (50%)'
+    stakeholders:
+    - person: jiang-deyi
+      role: chairman
+      from: 2022
+      note: Party Secretary and Chairman
+    - person: zhang-xiyong
+      role: executive
+      note: General Manager (CEO)
+    - org: mercedes-benz
+      share: 9.55%
+      from: 2013
+      note: Stake in BAIC Motor (HK listed)
   bain-capital:
     name: Bain Capital
     type: privateequity
@@ -1158,6 +1217,28 @@ organizations:
     founded: 1762
     headquarters: Londra
     status: active
+  basf:
+    name: BASF SE
+    type: company
+    founded: 1865
+    headquarters: Ludwigshafen, Germany
+    status: active
+    stakeholders:
+    - person: markus-kamieth
+      role: executive
+      from: 2024
+      note: CEO
+    - person: kurt-bock
+      role: chairman
+      note: Chairman Supervisory Board
+    - person: carl-wurster
+      role: chairman
+      from: 1952
+      to: 1965
+      note: Primo CEO post-bellico, rifondi BASF
+    - org: blackrock
+      share: 6.03%
+      from: 2025
   bassa-sassonia:
     name: Bassa Sassonia
     type: government
@@ -1182,6 +1263,31 @@ organizations:
     status: active
     sector: venture-capital
     note: Global VC/PE, $13B+ raised, Israel cyber investments (Paragon, JFrog, Anobit)
+  bayer:
+    name: Bayer AG
+    type: pharma
+    founded: 1863
+    headquarters: Leverkusen, Germany
+    status: active
+    stakeholders:
+    - person: paul-achleitner
+      role: board
+      from: 2002
+      note: Supervisory Board
+    - person: bill-anderson
+      role: executive
+      from: 2023
+      note: CEO
+    - person: norbert-winkeljohann
+      role: chairman
+      from: 2020
+      note: Chairman Supervisory Board
+    - org: blackrock
+      share: 7.2%
+      from: 2024
+    - org: vanguard
+      share: 3.5%
+      from: 2024
   bbc:
     name: British Broadcasting Corporation
     type: media
@@ -1611,6 +1717,9 @@ organizations:
       role: chairman
       from: 2024
       note: Chairman Bilderberg Group (Dec 2024), ex Co-Chairman
+    - person: paul-achleitner
+      role: steering
+      note: Steering Committee, Treasurer Foundation Bilderberg
     - org: trilaterale
       role: partner
   biontech:
@@ -1668,10 +1777,10 @@ organizations:
       role: member
       note: Member central bank
   blackrock:
-    name: BlackRock
+    name: BlackRock Inc.
     type: assetmanager
     founded: 1988
-    headquarters: New York
+    headquarters: New York, USA
     status: active
     aum: 12.5T
     stakeholders:
@@ -2117,6 +2226,16 @@ organizations:
     status: active
     note: 'BAM. One of largest alternative asset managers. Parent: Brookfield Corporation. Acquired Oaktree 62% 2019, 100%
       2026'
+  brookings:
+    name: Brookings Institution
+    type: thinktank
+    founded: 1916
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: paul-achleitner
+      role: board
+      note: Board of Trustees
   brown-brothers-harriman:
     name: Brown Brothers Harriman
     type: bank
@@ -3502,6 +3621,16 @@ organizations:
     headquarters: Arlington, Virginia, USA
     status: active
     sector: law-enforcement
+  degesch:
+    type: company
+    status: defunct
+    note: Zyklon B manufacturer
+    stakeholders:
+    - person: carl-wurster
+      role: board
+      from: 1940
+      to: 1945
+      note: Supervisory board
   dell:
     name: Dell Technologies
     type: company
@@ -3527,6 +3656,34 @@ organizations:
       from: 1943
       to: 1954
       note: Segretario e Presidente
+  deutsche-bank:
+    name: Deutsche Bank AG
+    type: bank
+    founded: 1870
+    headquarters: Frankfurt, Germany
+    status: active
+    sector: banking
+    stakeholders:
+    - person: jim-hagemann-snabe
+      role: advisor
+      from: 2022
+      note: Advisory Board
+    - person: christian-sewing
+      role: executive
+      from: 2018
+      note: CEO
+    - person: alexander-wynaendts
+      role: chairman
+      from: 2022
+      note: Chairman Supervisory Board
+    - person: paul-achleitner
+      role: chairman
+      from: 2012
+      to: 2022
+      note: Chairman Supervisory Board
+    - org: blackrock
+      share: 6.76%
+      note: Largest disclosed shareholder (2025)
   dfi-retail:
     name: DFI Retail Group
     type: company
@@ -3971,6 +4128,19 @@ organizations:
     - person: dimitris-papalexopoulos
       role: member
       note: Co-Chair Energy Transition Committee
+  escher-wyss:
+    name: Escher Wyss AG
+    type: company
+    founded: 1805
+    headquarters: Zurich, Switzerland
+    status: defunct
+    sector: engineering
+    stakeholders:
+    - person: eugen-schwab
+      role: executive
+      from: 1936
+      to: 1982
+      note: Direttore commerciale stabilimento Ravensburg
   esl-investments:
     name: ESL Investments
     type: privateequity
@@ -4716,6 +4886,11 @@ organizations:
     headquarters: Moscow
     sector: gas
     note: state-controlled
+    stakeholders:
+    - person: gerhard-schroder
+      role: board
+      from: 2022
+      note: Nominato supervisory board (declinato dopo invasione)
   gazzetta-dello-sport:
     name: Gazzetta dello Sport
     type: media
@@ -4983,6 +5158,11 @@ organizations:
       from: 1987
       to: 1992
       note: Head Money Markets Trading London, Head Provincial Bond Trading Canada
+    - person: paul-achleitner
+      role: executive
+      from: 1988
+      to: 2000
+      note: Partner (1994), Chairman Germany
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -5323,6 +5503,11 @@ organizations:
       from: 1998
       to: 2005
       note: chancellor
+    - person: gerhard-schroder
+      role: leader
+      from: 1990
+      to: 1998
+      note: Minister-President Lower Saxony
     - person: friedrich-merz
       role: leader
       from: 2025
@@ -6749,6 +6934,9 @@ organizations:
     - person: chung-eui-sun
       role: executive-chairman
       from: 2020
+    - org: baic
+      share: 50%
+      note: Beijing Hyundai JV 50-50
   ibra:
     name: Indonesian Bank Restructuring Agency
     type: agency
@@ -6831,6 +7019,11 @@ organizations:
       from: 1935
       to: 1937
       note: Parigi
+    - person: carl-wurster
+      role: board
+      from: 1938
+      to: 1945
+      note: Betriebsfuhrer Upper Rhine, Wehrwirtschaftsfuhrer 1941
   il-gazzettino:
     name: Il Gazzettino
     type: media
@@ -7588,6 +7781,28 @@ organizations:
       to: 1914
     - person: felix-warburg
       role: partner
+  kuka:
+    name: KUKA AG
+    type: company
+    founded: 1898
+    headquarters: Augsburg, Germany
+    status: active
+    sector: robotics
+    note: Owned by Midea Group (China) since 2016
+    stakeholders:
+    - person: christoph-schell
+      role: executive
+      from: 2025
+      note: CEO
+    - person: peter-mohnen
+      role: executive
+      from: 2018
+      to: 2025
+      note: CEO (CFO 2012-2018)
+    - org: midea-group
+      share: 100%
+      from: 2016
+      note: Full ownership since 2022 (delisted)
   kuwait-investment-authority:
     name: Kuwait Investment Authority
     type: swf
@@ -7904,6 +8119,19 @@ organizations:
     headquarters: Sydney, Australia
     status: active
     sector: infrastructure
+  maersk:
+    name: A.P. Moller-Maersk
+    type: company
+    founded: 1904
+    headquarters: Copenhagen, Denmark
+    status: active
+    sector: shipping
+    stakeholders:
+    - person: jim-hagemann-snabe
+      role: chairman
+      from: 2017
+      to: 2022
+      note: Chairman of the Board
   manchester-city:
     name: Manchester City FC
     type: sportsclub
@@ -8317,6 +8545,13 @@ organizations:
     - org: state-street
       role: stake
       share: 0.035
+  midea-group:
+    name: Midea Group
+    type: company
+    founded: 1968
+    headquarters: Foshan, China
+    status: active
+    sector: appliances
   miramax:
     name: Miramax
     type: media
@@ -10411,6 +10646,41 @@ organizations:
     - org: samsung-ct
       role: shareholder
       share: 19.34
+  sap:
+    name: SAP SE
+    type: company
+    founded: 1972
+    headquarters: Walldorf, Germany
+    status: active
+    sector: software
+    stakeholders:
+    - person: jim-hagemann-snabe
+      role: executive
+      from: 2010
+      to: 2014
+      note: Co-CEO
+    - person: christian-klein
+      role: executive
+      from: 2020
+      note: CEO
+    - person: hasso-plattner
+      role: founder
+      from: 1972
+      note: Co-founder, Chairman 2003-2024
+    - person: dietmar-hopp
+      role: founder
+      from: 1972
+      note: Co-founder, CEO 1988-1998, Chairman 1998-2003
+    - person: pekka-ala-pietila
+      role: chairman
+      from: 2024
+      note: Chairman Supervisory Board
+    - org: blackrock
+      share: 6.5%
+      from: 2024
+    - org: vanguard
+      share: 3.9%
+      from: 2024
   sas:
     name: SAS (Scandinavian Airlines)
     type: company
@@ -10701,6 +10971,31 @@ organizations:
       role: owner
       from: 1891
       note: Filiale italiana Standard Oil
+  siemens:
+    name: Siemens AG
+    type: company
+    founded: 1847
+    headquarters: Munich, Germany
+    status: active
+    sector: industrial
+    stakeholders:
+    - person: jim-hagemann-snabe
+      role: chairman
+      from: 2017
+      note: Chairman Supervisory Board
+    - person: roland-busch
+      role: executive
+      from: 2021
+      note: President and CEO
+    - org: blackrock
+      share: 6.2%
+      note: Largest institutional shareholder
+    - org: vanguard
+      share: 4%
+      note: Second largest institutional shareholder
+    - org: qia
+      share: 4%
+      note: Azionista significativo
   signa-holding:
     name: Signa Holding
     type: company
@@ -11244,6 +11539,10 @@ organizations:
       role: chairman
       from: 2025
       note: Chairman India
+    - person: jim-hagemann-snabe
+      role: advisor
+      from: 2025
+      note: Advisory Board
   tencent:
     name: Tencent Holdings
     type: company
@@ -12563,6 +12862,10 @@ organizations:
       role: glt
       from: 1992
       note: Global Leader for Tomorrow 1992
+    - person: jim-hagemann-snabe
+      role: board
+      from: 2014
+      note: Board of Trustees
     - org: bilderberg
       role: partner
     - org: fmi

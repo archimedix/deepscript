@@ -262,6 +262,14 @@ persons:
       role: executive
       from: 2017
       to: 2020
+  alexander-wynaendts:
+    born: 1960
+    nationality: NLD
+    affiliations:
+    - org: deutsche-bank
+      role: chairman
+      from: 2022
+      note: Chairman Supervisory Board
   alexandre-arnault:
     born: 1992
     nationality: FRA
@@ -936,6 +944,13 @@ persons:
       role: leader
       from: 1983
       to: 1987
+  bill-anderson:
+    nationality: USA
+    affiliations:
+    - org: bayer
+      role: executive
+      from: 2023
+      note: CEO
   bill-chisholm:
     born: 1970
     nationality: USA
@@ -1154,6 +1169,26 @@ persons:
     died: 1995
     nationality: USA
     family: walton
+  carl-wurster:
+    born: 1900
+    died: 1974
+    nationality: DEU
+    affiliations:
+    - org: ig-farben
+      role: board
+      from: 1938
+      to: 1945
+      note: Betriebsfuhrer Upper Rhine, Wehrwirtschaftsfuhrer 1941
+    - org: basf
+      role: chairman
+      from: 1952
+      to: 1965
+      note: Primo CEO post-bellico, rifondi BASF
+    - org: degesch
+      role: board
+      from: 1940
+      to: 1945
+      note: Supervisory board
   carlo-azeglio-ciampi:
     born: 1920
     died: 2016
@@ -1380,6 +1415,22 @@ persons:
       role: founder
       from: 1961
       note: Primo Chairman
+  christian-klein:
+    born: 1980
+    nationality: DEU
+    affiliations:
+    - org: sap
+      role: executive
+      from: 2020
+      note: CEO
+  christian-sewing:
+    born: 1970
+    nationality: DEU
+    affiliations:
+    - org: deutsche-bank
+      role: executive
+      from: 2018
+      note: CEO
   christian-sinding:
     nationality: NOR
     affiliations:
@@ -1415,6 +1466,13 @@ persons:
       role: executive
       from: 2011
       to: 2019
+  christoph-schell:
+    nationality: DEU
+    affiliations:
+    - org: kuka
+      role: executive
+      from: 2025
+      note: CEO
   christopher-james:
     born: 1946
     nationality: GBR
@@ -1836,6 +1894,14 @@ persons:
   dick-cheney:
     born: 1941
     nationality: USA
+  dietmar-hopp:
+    born: 1940
+    nationality: DEU
+    affiliations:
+    - org: sap
+      role: founder
+      from: 1972
+      note: Co-founder, CEO 1988-1998, Chairman 1998-2003
   dietrich-mateschitz:
     born: 1944
     died: 2022
@@ -2281,12 +2347,16 @@ persons:
   eric-warburg:
     born: 1900
     died: 1990
-    nationality: Germania/USA
+    nationality: DEU
     family: warburg
     affiliations:
     - org: warburg-pincus
       role: founder
       from: 1966
+    - org: atlantik-brucke
+      role: founder
+      from: 1952
+      note: Co-fondatore
   erick-thohir:
     born: 1970
     nationality: IDN
@@ -2359,6 +2429,16 @@ persons:
       from: 1926
       to: 1928
       note: Primo presidente, nominato da Mussolini
+  eugen-schwab:
+    born: 1899
+    died: 1982
+    nationality: CHE
+    affiliations:
+    - org: escher-wyss
+      role: executive
+      from: 1936
+      to: 1982
+      note: Direttore commerciale stabilimento Ravensburg
   eugene-black:
     born: 1898
     died: 1992
@@ -2667,6 +2747,7 @@ persons:
       role: chairman
       from: 2009
       to: 2019
+      note: Chairman per 10 anni
   gabriele-cagliari:
     born: 1926
     died: 1993
@@ -2870,6 +2951,11 @@ persons:
       from: 1998
       to: 2005
       note: chancellor
+    - org: governo-germania
+      role: leader
+      from: 1990
+      to: 1998
+      note: Minister-President Lower Saxony
     - org: rosneft
       role: chairman
       from: 2017
@@ -2880,6 +2966,14 @@ persons:
       from: 2005
       to: 2022
       note: immediate-post-government
+    - org: gazprom
+      role: board
+      from: 2022
+      note: Nominato supervisory board (declinato dopo invasione)
+    relations:
+    - person: vladimir-putin
+      type: friend
+      note: Personal friendship, energy deals
   gerry-cardinale:
     born: 1967
     nationality: USA
@@ -3146,6 +3240,14 @@ persons:
     - org: qia
       role: board
       from: 2020
+  hasso-plattner:
+    born: 1944
+    nationality: DEU
+    affiliations:
+    - org: sap
+      role: founder
+      from: 1972
+      note: Co-founder, Chairman 2003-2024
   helle-thorning-schmidt:
     born: 1966
     nationality: DNK
@@ -3951,12 +4053,52 @@ persons:
       role: partner
       from: 1997
       to: 2005
+  jiang-deyi:
+    nationality: CHN
+    affiliations:
+    - org: baic
+      role: chairman
+      from: 2022
+      note: Party Secretary and Chairman
   jiang-mianheng:
     nationality: CHN
   jiang-zemin:
     born: 1926
     died: 2022
     nationality: CHN
+  jim-hagemann-snabe:
+    born: 1965
+    nationality: DNK
+    affiliations:
+    - org: wef
+      role: board
+      from: 2014
+      note: Board of Trustees
+    - org: temasek
+      role: advisor
+      from: 2025
+      note: Advisory Board
+    - org: siemens
+      role: chairman
+      from: 2017
+      note: Chairman Supervisory Board
+    - org: sap
+      role: executive
+      from: 2010
+      to: 2014
+      note: Co-CEO
+    - org: maersk
+      role: chairman
+      from: 2017
+      to: 2022
+      note: Chairman of the Board
+    - org: allianz
+      role: board
+      note: Vice Chairman
+    - org: deutsche-bank
+      role: advisor
+      from: 2022
+      note: Advisory Board
   jim-walton:
     born: 1948
     nationality: USA
@@ -4775,6 +4917,10 @@ persons:
     - org: wef
       role: chairman
       from: 1971
+    relations:
+    - person: eugen-schwab
+      type: father
+      note: Klaus Schwab figlio di Eugen
   knut-wallenberg:
     born: 1853
     died: 1938
@@ -4863,6 +5009,12 @@ persons:
       from: 2004
       to: 2009
       note: PM, nascose deficit pre-crisi
+  kurt-bock:
+    nationality: DEU
+    affiliations:
+    - org: basf
+      role: chairman
+      note: Chairman Supervisory Board
   kusumo-martanto:
     nationality: IDN
     note: Blibli CEO & Co-Founder. Georgia Tech MSc. Ex-Intel, i2 Technologies. Also COO GDP Venture
@@ -5760,6 +5912,13 @@ persons:
       role: member
     - org: breakthrough-energy
       role: founder
+  markus-kamieth:
+    nationality: DEU
+    affiliations:
+    - org: basf
+      role: executive
+      from: 2024
+      note: CEO
   martin-bouygues:
     born: 1952
     nationality: Francia
@@ -5904,6 +6063,14 @@ persons:
       role: member
       from: 2024
       note: Donor $50M (2024)
+  michael-diekmann:
+    born: 1954
+    nationality: DEU
+    affiliations:
+    - org: allianz
+      role: chairman
+      from: 2015
+      note: Chairman Supervisory Board (CEO 2003-2015)
   michael-hayden:
     born: 1945
     nationality: USA
@@ -6446,6 +6613,13 @@ persons:
       from: 2015
       to: 2025
       note: Chairman Supervisory Board (CEO 2006-2015)
+  norbert-winkeljohann:
+    nationality: DEU
+    affiliations:
+    - org: bayer
+      role: chairman
+      from: 2020
+      note: Chairman Supervisory Board
   norman-holmes-pearson:
     born: 1909
     died: 1975
@@ -6509,6 +6683,14 @@ persons:
     - org: bassa-sassonia
       role: leader
       from: 2025
+  oliver-baete:
+    born: 1965
+    nationality: DEU
+    affiliations:
+    - org: allianz
+      role: executive
+      from: 2015
+      note: CEO
   oliver-blume:
     born: 1968
     nationality: DEU
@@ -6673,6 +6855,35 @@ persons:
     affiliations:
     - org: tony-blair-institute
       role: advisor
+  paul-achleitner:
+    born: 1956
+    nationality: AUT
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee, Treasurer Foundation Bilderberg
+    - org: goldman-sachs
+      role: executive
+      from: 1988
+      to: 2000
+      note: Partner (1994), Chairman Germany
+    - org: allianz
+      role: executive
+      from: 2000
+      to: 2012
+      note: CFO
+    - org: deutsche-bank
+      role: chairman
+      from: 2012
+      to: 2022
+      note: Chairman Supervisory Board
+    - org: bayer
+      role: board
+      from: 2002
+      note: Supervisory Board
+    - org: brookings
+      role: board
+      note: Board of Trustees
   paul-bremer:
     born: 1941
     nationality: USA
@@ -6741,6 +6952,13 @@ persons:
       role: minister
       from: 2001
       to: 2005
+  pekka-ala-pietila:
+    nationality: FIN
+    affiliations:
+    - org: sap
+      role: chairman
+      from: 2024
+      note: Chairman Supervisory Board
   peng-xiao:
     nationality: CHN
     note: Ex-DarkMatter, controversial background
@@ -6819,6 +7037,14 @@ persons:
       role: academic
       from: 1982
       note: Fellow Corpus Christi College, co-fondatore Cambridge Intelligence Seminar
+  peter-mohnen:
+    nationality: DEU
+    affiliations:
+    - org: kuka
+      role: executive
+      from: 2018
+      to: 2025
+      note: CEO (CFO 2012-2018)
   peter-peterson:
     born: 1926
     died: 2018
@@ -7559,6 +7785,14 @@ persons:
     affiliations:
     - org: cma-cgm
       role: chairman
+  roland-busch:
+    born: 1964
+    nationality: DEU
+    affiliations:
+    - org: siemens
+      role: executive
+      from: 2021
+      note: President and CEO
   rolly-van-rappard:
     nationality: NLD
     affiliations:
@@ -7972,6 +8206,14 @@ persons:
     died: 1982
     nationality: Germania/UK
     family: warburg
+  sigmar-gabriel:
+    born: 1959
+    nationality: DEU
+    affiliations:
+    - org: atlantik-brucke
+      role: chairman
+      from: 2019
+      note: Ex-Vice Chancellor, ex-Foreign Minister
   siim-kallas:
     born: 1948
     nationality: EST
@@ -9317,6 +9559,12 @@ persons:
       role: board
       from: 1981
       note: Counselor & Trustee
+  zhang-xiyong:
+    nationality: CHN
+    affiliations:
+    - org: baic
+      role: executive
+      note: General Manager (CEO)
   zhu-hexin:
     nationality: CHN
     note: SAFE Administrator, PBOC Deputy Governor, ex CITIC Chairman

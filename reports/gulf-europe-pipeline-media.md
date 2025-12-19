@@ -14,6 +14,10 @@ Questo report documenta l'**invasione di capitali del Golfo in Europa** dal 1974
 | **Retail/Luxury** | €10B+ | Qatar (Harrods), Saudi (Selfridges) |
 | **Media** | €5B+ | Saudi (MBC→GEDI), Qatar (beIN), UAE (All3Media) |
 | **Banche** | €10B+ | Qatar (Barclays 6%), Kuwait (BlackRock 5.4%) |
+| **Difesa/Armi** | €50B+ | Saudi (BAE), Qatar (Rafale), UAE (Eurofighter) |
+| **Energia Verde** | €5B+ | UAE (Masdar: Saeta, Terna, Baltic Eagle) |
+| **Hospitality** | €5B+ | Qatar (Savoy, Plaza), Saudi (Rocco Forte), UAE (Jumeirah) |
+| **Università** | €750M+ | Saudi/Qatar/UAE (Oxford, LSE, Cambridge) |
 
 **Tesi**: L'Europa è diventata il terreno privilegiato per il **soft power del Golfo** - sport, media, luxury - mentre gli USA attirano capitale tech/AI.
 
@@ -38,61 +42,51 @@ Questo report documenta l'**invasione di capitali del Golfo in Europa** dal 1974
 ## Mappa del Network Completo
 
 ```
-                                    GOLFO PERSICO ($4T+ AUM)
-        ┌───────────────┬──────────────────────────────────────────────────────┐
-        │               │                                                      │
-   ┌────┴─────┐    ┌────┴─────┐        ┌──────────────┐            ┌───────────┴──────┐
-   │   KIA    │    │   PIF    │        │   MUBADALA   │            │       QIA        │
-   │  KUWAIT  │    │  SAUDI   │        │     UAE      │            │      QATAR       │
-   │ ($1.03T) │    │ ($925B)  │        │   ($330B)    │            │     ($557B)      │
-   │  1953    │    │  2015    │        │              │            │                  │
-   └────┬─────┘    └────┬─────┘        └──────┬───────┘            └────────┬─────────┘
-        │               │                     │                             │
-        │               │              ┌──────┴───────┐                     │
-        │               │              │              │                     │
-        ▼               ▼              ▼              ▼                     ▼
-┌─────────────┐   ┌──────────┐   ┌─────────┐  ┌───────────────┐     ┌────────────────┐
-│ MERCEDES    │   │   MBC    │   │  CITY   │  │  REDBIRD IMI  │     │      QSI       │
-│  5% (1974)  │   │  GROUP   │   │FOOTBALL │  │ (Mansour+USA) │     │ (Al-Khelaifi)  │
-│             │   │  54%     │   │  GROUP  │  └───────┬───────┘     └───────┬────────┘
-│ BlackRock   │   └────┬─────┘   │  ~81%   │          │                     │
-│  5.4%       │        │         └────┬────┘          │              ┌──────┼──────┐
-└─────────────┘        │              │               │              │      │      │
-                       │ 30%          │               │              ▼      ▼      ▼
-                       ▼              │               ▼           ┌─────┐ ┌────┐ ┌─────┐
-                 ┌──────────┐        │        ┌───────────┐      │ PSG │ │beIN│ │Padel│
-                 │ ANTENNA  │        │        │ ALL3MEDIA │      │87.5%│ │    │ │100% │
-                 │  GROUP   │        │        │  £1.15B   │      └─────┘ └────┘ └─────┘
-                 │(Kyriakou)│        │        └───────────┘
-                 └────┬─────┘        │
-                      │              │
-                      │ (in acq.)    │ 13 CLUB GLOBALI
-                      ▼              ▼
-                 ┌──────────┐   ┌─────────────────────────────────────────────────┐
-                 │   GEDI   │   │ Man City, Girona, NYCFC, Melbourne, Bahia,      │
-                 │ (Italia) │   │ Montevideo, Palermo, Yokohama, Mumbai, Lommel,  │
-                 │          │   │ Bolivar, Sichuan, Es Campur                     │
-                 └────┬─────┘   └─────────────────────────────────────────────────┘
-                      │
-                      ▼
-            ┌──────────────────────────────────┐
-            │ Repubblica, La Stampa            │
-            │ Radio Deejay, Capital, m2o       │
-            └──────────────────────────────────┘
+                                    GOLFO PERSICO ($5T+ AUM)
+   ┌─────────────┬────────────┬────────────┬──────────────┬────────────────┐
+   │             │            │            │              │                │
+   ▼             ▼            ▼            ▼              ▼                ▼
+┌──────┐    ┌────────┐   ┌────────┐   ┌────────┐   ┌──────────┐      ┌─────────┐
+│ KIA  │    │  ADIA  │   │  PIF   │   │MUBADALA│   │   QIA    │      │OIA/MUMT.│
+│KUWAIT│    │  UAE   │   │ SAUDI  │   │  UAE   │   │  QATAR   │      │OMAN/BAH │
+│$1.03T│    │ $1.05T │   │ $925B  │   │ $330B  │   │  $557B   │      │ $70B    │
+└──┬───┘    └───┬────┘   └───┬────┘   └───┬────┘   └────┬─────┘      └────┬────┘
+   │            │            │            │             │                 │
+   │            │            │            │             │                 │
+   ▼            ▼            ▼            ▼             ▼                 ▼
+Mercedes    UBS 5%        MBC 54%      CFG 81%       QSI 100%        McLaren
+  5%        Carlyle       Newcastle    RedBird IMI   PSG 87.5%       (Bahrain)
+BlackRock   Blackstone    Rocco Forte  All3Media     beIN            Entrevias
+  5.4%      Fisher Inv.   AEGIS/GEDI   Masdar        Harrods         (Oman)
 
                     ALTRI ASSET EUROPEI
                            │
-    ┌──────────────────────┼──────────────────────┐
-    │                      │                      │
-    ▼                      ▼                      ▼
-┌──────────┐        ┌──────────────┐       ┌──────────────┐
-│  RETAIL  │        │INFRASTRUTTURE│       │     AUTO     │
-├──────────┤        ├──────────────┤       ├──────────────┤
-│Harrods   │        │Heathrow 20%  │       │VW 17% (QIA)  │
-│(QIA)     │        │(QIA)         │       │Mercedes 5%   │
-│Selfridges│        │Gatwick       │       │(KIA)         │
-│(PIF)     │        │(GIC+QIA)     │       │              │
-└──────────┘        └──────────────┘       └──────────────┘
+    ┌──────────┬───────────┼───────────┬────────────┐
+    │          │           │           │            │
+    ▼          ▼           ▼           ▼            ▼
+┌────────┐ ┌────────┐ ┌────────┐ ┌──────────┐ ┌──────────┐
+│ RETAIL │ │INFRA-  │ │  AUTO  │ │ ENERGIA  │ │ DIFESA   │
+│        │ │STRUTT. │ │        │ │  VERDE   │ │          │
+├────────┤ ├────────┤ ├────────┤ ├──────────┤ ├──────────┤
+│Harrods │ │Heathrow│ │VW 17%  │ │Terna     │ │BAE €43B+ │
+│Selfrid.│ │Gatwick │ │Mercedes│ │Saeta     │ │Eurofight.│
+│Savoy   │ │P&O     │ │Porsche │ │Baltic Eag│ │Rafale    │
+│Plaza   │ │Schenker│ │        │ │EGPE Solar│ │          │
+└────────┘ └────────┘ └────────┘ └──────────┘ └──────────┘
+
+                    SOFT POWER
+                        │
+    ┌───────────────────┼───────────────────┐
+    │                   │                   │
+    ▼                   ▼                   ▼
+┌──────────┐     ┌────────────┐      ┌────────────┐
+│  SPORT   │     │   MEDIA    │      │UNIVERSITÀ  │
+├──────────┤     ├────────────┤      ├────────────┤
+│CFG 13club│     │MBC→GEDI    │      │Oxford £75M │
+│PSG       │     │beIN        │      │LSE £15M    │
+│Newcastle │     │All3Media   │      │Cambridge   │
+│LIV Golf  │     │            │      │Exeter      │
+└──────────┘     └────────────┘      └────────────┘
 ```
 
 ---
@@ -153,6 +147,63 @@ A differenza di PIF/QIA/Mubadala, KIA è **l'anti-pattern**:
 | Focus | Rendimenti finanziari | Soft power + rendimenti |
 
 **Lezione**: Un SWF da $1T può operare senza sportswashing.
+
+---
+
+## ADIA: Il Gigante Invisibile ($1.05T)
+
+**Abu Dhabi Investment Authority è il più grande fondo sovrano UAE, ma anche il più opaco.**
+
+### Profilo ADIA
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1976 |
+| **AUM** | $1.05 trilioni (2024) |
+| **Allocation** | Developed Equities 32-42%, PE 12-17%, EM 7-15% |
+| **Stile** | Silenzioso, diversificato, non-interventista |
+| **Proprietà** | Governo di Abu Dhabi |
+
+### Portfolio Europa ADIA
+
+| Asset | Tipo | Quota | Paese | Note |
+|-------|------|-------|-------|------|
+| **UBS** | Banca | ~5% | Svizzera | Azionista significativo |
+| **Carlyle Group** | Private Equity | Stake | USA/Globale | LP principale |
+| **Blackstone** | Private Equity | Stake | USA/Globale | LP principale |
+| **IFS** | Software | Partecipazione | Svezia | Ricapitalizzazione 2024 |
+| **IFCO** | Logistics | 50% | Germania | Con Triton, venduto 2025 |
+| **Policy Expert** | Insurance | Exit | UK | Monetizzato 2024 |
+| **NetCo SRL** | Telecom | $5.6B deal | Italia | Con CDP, CPP 2024 |
+
+### Differenza ADIA vs Mubadala
+
+| Aspetto | ADIA | Mubadala |
+|---------|------|----------|
+| **Stile** | Passivo, diversificato | Attivo, strategico |
+| **Sport** | Zero | CFG, RedBird IMI |
+| **Media** | Zero | All3Media |
+| **AI/Tech** | Via PE funds | MGX, G42 diretto |
+| **Profilo** | Invisibile | Pubblico |
+
+### 2024: Attività Recente
+
+| Deal | Valore | Partner | Settore |
+|------|--------|---------|---------|
+| Fisher Investments | $3B | Advent, Lunate | Asset Management |
+| NetCo SRL (Italia) | $5.6B | CDP Eq, CPP | Telecom infra |
+| Trans-Java Toll Roads | $2.8B | INA, APG | Infrastrutture |
+| IDFC FIRST Bank | ₹26.24B (5.1%) | - | Banking India |
+| Innocap Investment | 10% max | - | Asset Management |
+
+### Strategia 2025
+
+ADIA segnala **selettività crescente in Europa** mentre espande in USA e Asia:
+- Infrastrutture: focus su asset maturi
+- PE: co-investimenti con GP top-tier
+- Exit: monetizzazione posizioni mature (IFCO, Policy Expert)
+
+> **Pattern**: ADIA è l'opposto di Mubadala - stesso paese, stesso capitale oil, ma strategia completamente diversa. Nessun sportswashing, nessun soft power visibile.
 
 ---
 
@@ -765,6 +816,430 @@ KIA dimostra che è **possibile** essere un mega-SWF senza sportswashing:
 
 ---
 
+## Difesa e Armi: Il Leverage Reale
+
+**Il canale militare-industriale è il vero leverage geopolitico del Golfo sull'Europa.**
+
+### Volumi di Import Armi (2020-2024)
+
+| Paese | Ranking Globale | Share MENA | Principali Fornitori |
+|-------|-----------------|------------|----------------------|
+| **Qatar** | #3 mondiale | 23% MENA | USA, UK, Francia, Italia |
+| **Saudi Arabia** | #4 mondiale | - | USA, UK, Francia |
+| **Egitto** | #8 mondiale | - | USA, Russia, Francia |
+| **Kuwait** | #10 mondiale | - | USA, UK |
+
+### BAE Systems e Al-Yamamah
+
+**Il più grande contratto di export armi nella storia britannica.**
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nome** | Al-Yamamah (La Colomba) |
+| **Valore totale** | £43B in 20 anni + £40B potenziali |
+| **Prime Contractor** | BAE Systems |
+| **Cliente** | Arabia Saudita |
+| **Dal 2015** | £22.4B in armi e servizi a Saudi (guerra Yemen) |
+| **2023** | Record BAE: £37.7B ordini globali, £2.6B profitti |
+
+### Armi UK → Golfo (2023)
+
+| Destinazione | Categoria principale | Note |
+|--------------|---------------------|------|
+| **Qatar** | ML4 (missili aria-aria) | Per Eurofighter Typhoon |
+| **Saudi Arabia** | Aerei, munizioni | Nonostante Yemen |
+| **UAE** | Sistemi vari | - |
+
+### Francia: Rafale e Oltre
+
+| Deal | Valore | Cliente | Anno |
+|------|--------|---------|------|
+| Rafale export deal | €18B | Vari (incl. UAE, Qatar) | 2024 |
+
+### Import Armi Qatar (2020-24)
+
+| Fornitore | Asset |
+|-----------|-------|
+| **USA** | 42 aerei da combattimento |
+| **UK** | 31 aerei da combattimento (Typhoon) |
+| **Francia** | 16 aerei da combattimento (Rafale) |
+| **Italia** | 7 navi da guerra maggiori |
+
+### Il Paradosso
+
+| Azione | UK Response |
+|--------|-------------|
+| Telegraph (media) | **BLOCCATO** - nuova legge |
+| BAE £22B+ (armi) | **APPROVATO** - business as usual |
+
+> **Pattern critico**: UK blocca influenza mediatica ma approva miliardi in armi. La linea rossa è il controllo narrativo, non il leverage militare.
+
+---
+
+## Lobbying e PR: La Macchina dell'Influenza
+
+**Come il Golfo costruisce accettazione in Europa e USA.**
+
+### Spesa Lobbying USA (FARA-registered)
+
+| Paese | Firme registrate | Contatti | Spesa |
+|-------|------------------|----------|-------|
+| **UAE** | 25 organizzazioni | 10,765 | $64.5M (2020-21) |
+| **Qatar** | 35+ firme | - | $19.5M+ (2017-18) |
+| **Saudi Arabia** | 145 agenti | - | $18M+ (2015-17) |
+
+### Top Firme PR/Lobbying per UAE
+
+| Firma | Incassi da UAE |
+|-------|----------------|
+| **Akin Gump** | $13.5M |
+| **Brunswick Group** | $12.2M |
+| **The Camstoll Group** | $10.5M |
+| **Teneo Strategy** | $7.2M |
+| **The Harbour Group** | $6.6M |
+
+### Operazioni in Europa
+
+| Paese | Attività |
+|-------|----------|
+| **Bruxelles** | UAE lobby consultancies, think tank funding |
+| **Francia** | Project Associates (UAE embassy), Publicis/Havas (Saudi), Portland (Qatar) |
+| **UK** | Multiple law firms, PR agencies |
+
+### Lo Scandalo Qatargate (2022)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Evento** | Arresto Vice-Presidente Parlamento EU Éva Kaíli |
+| **Accusa** | Corruzione per lobbying pro-Qatar |
+| **Impatto** | Spotlight su influenza regimi autoritari in EU |
+| **Risposta** | Richieste di registro lobbying obbligatorio |
+
+### Tecniche Documentate
+
+| Tecnica | Esempio |
+|---------|---------|
+| **PR tradizionale** | Brunswick per Abu Dhabi (400+ pagine materiali) |
+| **Disinformazione** | SCL Social (Cambridge Analytica sister) per attaccare Qatar |
+| **Placement mediatico** | Storie in New Europe, The Independent |
+| **Think tank funding** | Donazioni a centri studi europei |
+| **Consulenti ex-politici** | Revolving door verso Gulf clients |
+
+---
+
+## Francia: €25 Miliardi Oltre PSG
+
+**La Francia è il secondo target europeo del Qatar dopo UK.**
+
+### Portfolio QIA in Francia
+
+| Settore | Asset | Valore stimato |
+|---------|-------|----------------|
+| **Real Estate** | Champs-Élysées properties | €7.1B |
+| **Retail** | Le Printemps | - |
+| **Luxury** | LVMH (stake), Balmain, Valentino | €4.2B |
+| **Energia** | TotalEnergies (stake) | - |
+| **Aerospazio** | Airbus (stake) | - |
+| **Hospitality** | Accor (stake) | €3.4B |
+| **Media** | beIN Sports France | €2.3B |
+| **Sport** | PSG (87.5% via QSI) | ~€4B |
+| **TOTALE** | 42 aziende in Francia | **€25B+** |
+
+### Breakdown per Settore
+
+| Settore | Valore |
+|---------|--------|
+| Real Estate + Finanza | €7.1B |
+| Retail | €4.2B |
+| Trasporto/Turismo | €3.4B |
+| Telecom/Media | €2.3B |
+
+### 2024-25: Raffreddamento?
+
+| Segnale | Dettaglio |
+|---------|-----------|
+| **ESPN report** | QIA "cooling investment" in Francia |
+| **Shift geografico** | Focus su Americhe e Asia |
+| **Vendita PSG stake** | 12.5% a Arctos Partners (2023) |
+
+> **Trend**: Dopo 15 anni di accumulo, Qatar sembra raggiungere saturazione in Francia.
+
+---
+
+## Germania: Il Partner Industriale (€30B)
+
+**La Germania è il target industriale del Golfo - auto, logistica, energia.**
+
+### Portfolio QIA in Germania
+
+| Asset | Quota | Valore | Settore |
+|-------|-------|--------|---------|
+| **Volkswagen AG** | 17% | ~€20B | Auto |
+| **Siemens** | 4% | ~€5B | Industriale |
+| **Deutsche Bank** | 6% | ~€1B | Banca |
+| **Hapag-Lloyd** | 14.4% | ~€3B | Shipping |
+| **RWE** | Stake | - | Energia |
+| **TOTALE** | - | **~€30B** | - |
+
+### 2024: Nuova Ondata
+
+| Trend | Dettaglio |
+|-------|-----------|
+| **Interesse crescente** | "Significantly increased activity" (Lazard) |
+| **DB Schenker** | ADIA + Bahri (Saudi) in corsa per acquisto |
+| **Strategia diversa** | Non più silent partners, ma "master plans, value chains, knowledge acquisition" |
+
+### Pattern Gulf→Germania
+
+| Era | Approccio |
+|-----|-----------|
+| **Pre-2020** | Investitori passivi, capitale paziente |
+| **Post-2020** | Strategia attiva, acquisizione know-how |
+
+---
+
+## Spagna: Costa del Sol e Oltre
+
+**La Spagna attira capitale Gulf per real estate, turismo e sport.**
+
+### Real Estate Costa del Sol
+
+| Metrica | Dato |
+|---------|------|
+| **Crescita 2023→2024** | +143% valore acquisti Gulf |
+| **Prezzo medio luxury** | €5.25M / €7,200/mq |
+| **Split** | 60% uso personale, 40% investimento rental |
+
+### Progetti Chiave
+
+| Progetto | Developer | Dettaglio |
+|----------|-----------|-----------|
+| **Tierra Viva** | Dar Global (Saudi) | 53 ville Lamborghini |
+| **Porto di Malaga** | Investitori Qatar | Riqualificazione |
+| **Marbella Real Estate Expo** | Kuwait | Evento dedicato a Costa del Sol |
+
+### Sport: CFG in Catalogna
+
+| Asset | Quota | Proprietario |
+|-------|-------|--------------|
+| **Girona FC** | 47% | City Football Group (blind trust per UEFA) |
+
+### Masdar in Spagna
+
+| Asset | Valore | Dettaglio |
+|-------|--------|-----------|
+| **Saeta** | €1.2B | 745MW wind + 1.6GW pipeline |
+| **EGPE Solar** | €817M | 49.99% di 2GW solar (Endesa) |
+
+---
+
+## Masdar: L'Energia Verde UAE
+
+**Masdar è il veicolo UAE per penetrare il settore energia verde europeo.**
+
+### Profilo Masdar
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Proprietà** | Mubadala, ADNOC, TAQA |
+| **Capacità 2024** | 51GW (+150% in 2 anni) |
+| **Target 2030** | 100GW |
+| **Investimenti 2024** | $8B equity + $4.5B project financing |
+
+### Portfolio Europa
+
+| Asset | Paese | Capacità/Valore | Status |
+|-------|-------|-----------------|--------|
+| **Saeta** | Spagna/Portogallo | 745MW + 1.6GW pipeline | €1.2B acquisito |
+| **EGPE Solar** | Spagna | 2GW operativo | €817M (49.99%) |
+| **Terna Energy** | Grecia | 100% delisted | Full ownership |
+| **Baltic Eagle** | Germania | 476MW offshore | JV con Iberdrola, Q2 2025 |
+| **Dudgeon** | UK | Offshore wind | Operativo |
+| **Dogger Bank** | UK | $11B project | Partecipazione |
+| **BESS UK** | UK | Battery storage | In costruzione |
+| **OMV JV** | Austria | Green hydrogen, e-SAF | 49%, operativo 2027 |
+
+### Strategia
+
+```
+UAE Oil Money
+      │
+      ▼
+   MASDAR
+      │
+      ├──► Acquisizioni (Saeta, Terna, EGPE)
+      │
+      ├──► JV con utility europee (Iberdrola, OMV, Endesa)
+      │
+      └──► Pipeline: Central/Northern Europe, green hydrogen
+```
+
+> **Pattern**: Masdar usa capitale oil per comprare asset green, ottenendo:
+> 1. Diversificazione economica UAE
+> 2. ESG credentials
+> 3. Leverage energetico su Europa
+
+---
+
+## Università: £750M+ di Donazioni
+
+**Il Golfo ha investito massicciamente nelle università europee dal 1996.**
+
+### Scala delle Donazioni UK
+
+| Fonte | Stima |
+|-------|-------|
+| **Report BBC** | £750M dal 1996 |
+| **Crescita** | 100x aumento 2001-2014 (Oxford FOI) |
+
+### Donazioni per Università
+
+| Università | Donatore | Ammontare | Destinazione |
+|------------|----------|-----------|--------------|
+| **Oxford** | Saudi Arabia | £21M | Vari |
+| **Oxford** | Re Fahd + altri | £75M | Centre for Islamic Studies |
+| **Oxford** | Qatar Development Fund | £3M | - |
+| **Cambridge** | Principe Alwaleed | £8M | Centro studi islamici (2008) |
+| **Cambridge** | Sultano Oman | £3.1M | 2 posti, incl. cattedra arabo |
+| **LSE** | UAE Foundation | £9M | Centre for Middle East Studies |
+| **LSE** | UAE Foundation | £2.5M | Edificio Sheikh Zayed |
+| **LSE** | Kuwait Foundation | £5.7M | Kuwait Programme (2007) |
+| **Exeter** | Sheikh Sultan (Sharjah) | £8M | - |
+| **Edinburgh** | Saudi Arabia | £8M | - |
+
+### Preoccupazioni
+
+| Fonte | Citazione |
+|-------|-----------|
+| **Rice University** | "Almost every centre of Middle East studies in the UK is linked somehow to a Gulf backer" |
+| **US Dept of Education** | "Very real concern that foreign money buys influence or control over teaching and research" |
+| **Ricerca accademica** | Istituzioni finanziate da Gulf "less likely to raise issues" di diritti umani |
+
+### Pattern
+
+```
+Donazione Gulf → Centro studi → Ricercatori → Narrative favorevoli
+                     │
+                     └──► Autocensura su diritti umani, foreign policy
+```
+
+---
+
+## Hospitality di Lusso: €5B+
+
+**Il Golfo possiede alcuni degli hotel più iconici d'Europa.**
+
+### Katara Hospitality (Qatar)
+
+| Hotel | Città | Paese |
+|-------|-------|-------|
+| **The Savoy** | Londra | UK |
+| **The Plaza** | New York | USA |
+| **Excelsior Gallia** | Milano | Italia |
+| **Peninsula Paris** | Parigi | Francia |
+| **Costa Smeralda** | Sardegna | Italia |
+| **Raffles Singapore** | Singapore | Asia |
+| + 35 altri | Globale | - |
+
+### PIF Saudi
+
+| Asset | Valore | Anno |
+|-------|--------|------|
+| **Aman Hotels** | $900M (con Cain) | 2022 |
+| **Rocco Forte Hotels** | 49% (£1.2-1.4B valuation) | 2023 |
+
+### Jumeirah (Dubai Holding)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Proprietà** | Sheikh Mohammed bin Rashid |
+| **Portfolio** | 31 proprietà |
+| **Mission 2030** | Raddoppio portfolio |
+| **Pipeline Europa** | Ginevra, Londra, Capri, Mallorca |
+| **Investimento** | $1B+ |
+
+### ADQ (Abu Dhabi)
+
+| Deal | Quota | Target |
+|------|-------|--------|
+| Icon hospitality (Egitto) | 40.5% | Four Seasons, Kempinski |
+
+---
+
+## Bahrain e Oman: I Minori
+
+**Bahrain e Oman hanno SWF più piccoli ma con investimenti europei mirati.**
+
+### Mumtalakat (Bahrain)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **AUM** | $17.6B (2024) |
+| **Fondazione** | 2006 |
+| **Focus** | Automotive, motorsport |
+
+| Asset Europeo | Quota | Note |
+|---------------|-------|------|
+| **McLaren Group** | 100% (fino 2024) | Venduto auto a CYVN (UAE) |
+| **Racing Force** | Stake | Parent di motorsport safety |
+| **Premo Group** | Stake | Elettronica, Germania |
+
+**2024 Shift**: Mumtalakat ora prioritizza investimenti locali/regionali vs internazionali.
+
+### OIA (Oman Investment Authority)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **AUM** | $53B (2024) |
+| **Profitto 2024** | $4.1B |
+| **Ranking** | Top 10 SWF globali (rendimenti 5 anni) |
+
+| Asset Europeo | Tipo | Note |
+|---------------|------|------|
+| **Rotary** | Industriale | Investment |
+| **Entrevias** | Infrastrutture | Trasporto Spagna |
+
+| Nuovi investimenti 2024 | Settore |
+|------------------------|---------|
+| 13 nuovi fondi | AI, healthcare, fintech, energy transition |
+| xAI | Early investor |
+| Sohar PolySilicon | Più grande fuori Cina |
+
+---
+
+## Pattern Emergenti Aggiuntivi
+
+### 8. Il Canale Difesa come Leverage
+
+| Flusso | Volume | Resistenza |
+|--------|--------|------------|
+| Armi UK→Saudi | £22B+ dal 2015 | Bassa |
+| Media UAE→UK | Bloccato | Alta |
+
+**Implicazione**: Il leverage militare-industriale supera quello mediatico.
+
+### 9. La Macchina Lobbying
+
+| Spesa totale Gulf→USA | $100M+ (2015-2021) |
+| Firme coinvolte | 200+ |
+| Tecniche | PR, disinformazione, think tank, ex-politici |
+
+### 10. L'Energia Verde come Soft Power
+
+Masdar usa capitale oil per:
+- Comprare credibilità ESG
+- Creare dipendenza energetica verde
+- Posizionare UAE come partner "clean"
+
+### 11. Le Università come Narrative Control
+
+£750M+ in donazioni hanno creato:
+- Centri studi "captured"
+- Autocensura su diritti umani
+- Expertise accademica favorevole
+
+---
+
 ## Domande Aperte
 
 ### Investimenti
@@ -795,21 +1270,49 @@ KIA dimostra che è **possibile** essere un mega-SWF senza sportswashing:
 - [Antenna Group](https://www.antenna-group.com/)
 - [PIF Official](https://www.pif.gov.sa/)
 - [Atlantic Council - AEGGIS](https://www.atlanticcouncil.org/)
+- [ADIA Annual Review 2024](https://www.adia.ae/en/pr/2024/pdf/adia-annual-review-2024_final.pdf)
+- [Masdar Official](https://masdar.ae/)
+- [Mumtalakat Official](https://www.mumtalakat.bh/)
+- [OIA Official](https://oia.gov.om/)
 
 ### Media
 - [CNBC - Telegraph/Abu Dhabi](https://www.cnbc.com/amp/2024/03/14/telegraph-takeover-abu-dhabi-backed-newspaper-buyout-is-sparking-panic.html)
 - [Deadline - RedBird Telegraph](https://deadline.com/2025/05/redbird-secures-daily-telegraph-takeover-1236409245/)
 - [TBI Vision - MBC/Antenna](https://tbivision.com/2022/06/27/tbi-tech-analysis-why-mbc-took-a-30-stake-in-greeces-antenna-group/)
 - [Control Risks - Gulf Sports Investment](https://www.controlrisks.com/our-thinking/insights/gulf-arab-states-go-full-speed-ahead-in-sports-investment)
+- [ESPN - Qatar cooling France investment](https://www.espn.com/soccer/story/_/id/43825620/psg-owners-qatar-fund-cooling-investment-france-sources)
+- [AGBI - Gulf tourism investors](https://www.agbi.com/tourism/2025/07/the-gulf-investors-who-are-shaping-global-tourism/)
+- [AGBI - Gulf Spain property](https://www.agbi.com/analysis/real-estate/2025/01/gulf-investors-seek-property-in-spain-despite-tax-threat/)
 
 ### Analisi
 - [Aspenia - Gulf SWF in Sport](https://aspeniaonline.it/global-sports-and-the-gulfs-sovereign-wealth-funds/)
 - [ECDHR - Gulf SWF Western Sports](https://www.ecdhr.org/gulf-sovereign-wealth-fund-investment-in-western-sports-teams/)
 - [MEI - Gulf SWF Dealmaking](https://www.mei.edu/publications/new-wave-dealmaking-gulf-sovereign-wealth-funds)
+- [Quincy Institute - Emirati Lobby](https://quincyinst.org/research/the-emirati-lobby-in-america/)
+- [Corporate Europe Observatory - UAE Brussels](https://corporateeurope.org/en/2020/12/united-arab-emirates-growing-legion-lobbyists-support-its-soft-superpower-ambitions)
+- [Orient XXI - Emirates France lobbying](https://orientxxi.info/magazine/digging-into-the-emirates-lobbying-strategies-in-france,5915)
+
+### Difesa/Armi
+- [SIPRI Fact Sheet 2024](https://www.sipri.org/sites/default/files/2024-03/fs_2403_at_2023.pdf)
+- [SIPRI Fact Sheet 2025](https://www.sipri.org/sites/default/files/2025-03/fs_2503_at_2024_0.pdf)
+- [CAAT - UK Arms Exports 2023](https://caat.org.uk/app/uploads/2025/03/CAAT-Arms-Exports-2023-WEB.pdf)
+- [AOAV - BAE Systems](https://aoav.org.uk/2024/how-bae-systems-helped-arm-half-the-world-key-findings/)
+
+### Università
+- [LobeLog - Saudi UAE Fund Academia](https://lobelog.com/saudi-arabia-and-the-uae-fund-academia-with-strings-attached/)
+- [UK Parliament - Middle Eastern Funding](https://edm.parliament.uk/early-day-motion/42554/middle-eastern-funding-for-uk-universities)
+- [Middle East Forum - Foreign Muslim Funding](https://www.meforum.org/foreign-muslim-funding-western-universities)
+
+### SWF
+- [Caproasia - ADIA Portfolio 2024](https://www.caproasia.com/2025/09/18/uae-1-1-trillion-sovereign-wealth-fund-abu-dhabi-investment-authority-adia-long-term-strategy-portfolio-2024-developed-equities-32-to-42-emerging-market-equities-7-to-15-small-cap-equities/)
+- [Global SWF - Mumtalakat](https://globalswf.com/fund/MUMTA)
+- [PR Newswire - OIA 2024](https://www.prnewswire.com/ae/news-releases/oman-investment-authority-reports-usd-4-1-billion-profit-for-2024--ranks-among-top-10-global-sovereign-funds-302497039.html)
+- [Middle East Monitor - Qatar Germany €25B](https://www.middleeastmonitor.com/20200709-qatar-invests-e25bn-in-germany/)
+- [Börsen-Zeitung - Arab investors Germany](https://www.boersen-zeitung.de/english/arab-investors-interest-in-germany-on-the-rise)
 
 ### Database DeepScript
 - Query Neo4j: relazioni STAKE_IN Gulf→Europe
-- Schede: pif-saudi, mbc-group, antenna-group, gedi, qia
+- Schede: pif-saudi, mbc-group, antenna-group, gedi, qia, adia, masdar, mumtalakat, oia
 
 ---
 
@@ -817,6 +1320,20 @@ KIA dimostra che è **possibile** essere un mega-SWF senza sportswashing:
 
 ### Changelog
 
+- **18 Dic v4**: Espansione massiva - nuovi canali e settori
+  - ADIA ($1.05T): sezione dedicata al gigante invisibile UAE
+  - Difesa e Armi: BAE Al-Yamamah (£43B+), Rafale, Eurofighter, il paradosso UK
+  - Lobbying e PR: $100M+ spesa Gulf, Qatargate, tecniche documentate
+  - Francia: €25B oltre PSG (LVMH, Champs-Élysées, Accor, TotalEnergies)
+  - Germania: €30B (VW 17%, Siemens 4%, Deutsche Bank, Hapag-Lloyd)
+  - Spagna: Costa del Sol (+143%), Girona, Masdar solar/wind
+  - Masdar: 51GW capacità, Saeta, Terna, Baltic Eagle, Dogger Bank
+  - Università: £750M+ donazioni (Oxford, LSE, Cambridge, Exeter)
+  - Hospitality: Katara (Savoy, Plaza), PIF (Aman, Rocco Forte), Jumeirah
+  - Bahrain e Oman: Mumtalakat (McLaren), OIA (Entrevias, xAI)
+  - 4 nuovi pattern emergenti (difesa, lobbying, energia verde, università)
+  - Mappa network aggiornata con tutti i SWF
+  - 30+ nuove fonti aggiunte
 - **18 Dic v3**: Approfondimento KIA
   - BP 1988: storia completa (21.6%→9.9%, forzato da UK Monopolies Commission)
   - Citigroup 2008-2009: $3B→$4.1B (+37% return)

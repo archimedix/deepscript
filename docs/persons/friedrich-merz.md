@@ -139,7 +139,7 @@ Nel 2002 Angela Merkel lo estromise dalla guida del gruppo parlamentare CDU/CSU.
 | [BlackRock](../asset-manager/blackrock.md) | Chairman Supervisory Board 2016-2020 |
 | [Bilderberg](../forum/bilderberg.md) | Partecipante 2024 |
 | [WEF](../forum/wef.md) | Speaker Davos 2025 |
-| [Atlantik-Brucke](../think-tank/atlantik-brucke.md) | Chairman 2009-2019 |
+| [Atlantik-Brucke](../forum/atlantik-brucke.md) | Chairman 2009-2019 |
 
 ### Persone
 
