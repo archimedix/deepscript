@@ -75,6 +75,46 @@ organizations:
       role: investor
       from: 2022
       note: minority stake via RedBird partnership
+  accor:
+    name: Accor SA
+    type: company
+    founded: 1967
+    headquarters: Paris, France
+    status: active
+    sector: hospitality
+    stakeholders:
+    - person: serge-weinberg
+      role: chairman
+      from: 2006
+      to: 2009
+      note: Non-Executive Chairman
+    - person: sebastien-bazin
+      role: chairman
+      from: 2013
+      note: Chairman & CEO
+    - person: paul-dubrule
+      role: founder
+      from: 1967
+      note: Co-fondatore con Pelisson
+    - person: gerard-pelisson
+      role: founder
+      from: 1967
+      note: Co-fondatore con Dubrule
+    - person: jean-jacques-morin
+      role: executive
+      from: 2015
+      note: Deputy CEO; CFO
+    - org: blackrock
+      share: 5.6
+    - org: qia
+      share: 6.2
+      note: Dal 2016 (acquisizione FRHI)
+    - org: jin-jiang
+      share: 10
+      note: Maggiore azionista cinese; partnership strategica
+    - org: kingdom-holding
+      share: 6.8
+      note: Prince Alwaleed; dal 2016
   aclu:
     name: American Civil Liberties Union
     type: foundation
@@ -240,6 +280,35 @@ organizations:
       role: founder
       from: 2001
       note: Co-founder with Kamarudin Meranun. CEO Capital A
+  airbus:
+    name: Airbus SE
+    type: company
+    founded: 1970
+    headquarters: Leiden, Netherlands (legal); Toulouse, France (operational)
+    status: active
+    sector: aerospace defense
+    stakeholders:
+    - person: rene-obermann
+      role: chairman
+      from: 2020
+      note: Chairman Board of Directors
+    - person: tom-enders
+      role: executive
+      from: 2012
+      to: 2019
+      note: CEO; CEO Airbus SAS 2007-2012; Co-CEO EADS 2005-2007
+    - person: guillaume-faury
+      role: executive
+      from: 2019
+      note: CEO
+    - person: louis-gallois
+      role: executive
+      from: 2006
+      to: 2012
+      note: Co-CEO EADS 2007-2012
+    - person: jean-pierre-clamadieu
+      role: board
+      note: Non-executive director
   ais:
     name: Advanced Info Service (AIS)
     type: company
@@ -346,6 +415,11 @@ organizations:
       role: chairman
       from: 2015
       note: Chairman Supervisory Board (CEO 2003-2015)
+    - person: rene-obermann
+      role: board
+      from: 2017
+      to: 2020
+      note: Supervisory Board Allianz Deutschland
     - org: blackrock
       share: 6.9%
       note: Largest shareholder (2024)
@@ -881,7 +955,7 @@ organizations:
       role: donor
       note: Corporate donor - Tech sector
   atlantik-brucke:
-    name: Atlantik-Brücke e.V.
+    name: Atlantik-Brucke
     type: forum
     founded: 1952
     headquarters: Berlin, Germany
@@ -902,6 +976,10 @@ organizations:
       role: chairman
       from: 2019
       note: Ex-Vice Chancellor, ex-Foreign Minister
+    - person: tom-enders
+      role: chairman
+      from: 2005
+      to: 2009
   atlantik-bruecke:
     type: forum
     founded: 1952
@@ -959,7 +1037,8 @@ organizations:
   axa:
     name: AXA
     type: company
-    headquarters: Paris
+    founded: 1985
+    headquarters: Paris, France
     status: active
     sector: insurance
     stakeholders:
@@ -968,6 +1047,23 @@ organizations:
       from: 2000
       to: 2016
       note: CEO
+    - person: claude-bebear
+      role: founder
+      from: 1975
+      to: 2025
+      note: Fondatore; CEO 1975-2000; Chairman Supervisory Board 2000-08; Honorary Chairman 2008-25
+    - person: thomas-buberl
+      role: executive
+      from: 2016
+      note: CEO
+    - person: antoine-gosset-grainville
+      role: chairman
+      from: 2022
+      note: Chairman of the Board
+    - person: guillaume-faury
+      role: board
+      from: 2021
+      note: Board member
   axel-springer:
     name: Axel Springer SE
     type: media
@@ -1201,6 +1297,22 @@ organizations:
       from: 2008
       to: 2014
       note: Governor
+  banque-de-france:
+    name: Banque de France
+    type: centralbank
+    founded: 1800
+    headquarters: Paris, France
+    status: active
+    note: Banca centrale francese, membro Eurosistema
+    stakeholders:
+    - person: francois-villeroy-de-galhau
+      role: executive
+      from: 2015
+      note: Governatore, rinominato 2021
+    - org: governo-francia
+      role: owner
+      share: 100
+      note: Banca centrale nazionale
   barclays:
     name: Barclays
     type: bank
@@ -1387,6 +1499,10 @@ organizations:
       from: 2020
       to: 2023
       note: Executive Board, poi Governatore Banca Italia
+    - person: francois-villeroy-de-galhau
+      role: board
+      from: 2015
+      note: Governing Council (ex officio come Gov. BdF)
     - org: bis
       role: partner
     - org: bank-of-greece
@@ -1496,6 +1612,9 @@ organizations:
       role: executive
       from: 2027
       note: CEO designato
+    - person: thomas-buberl
+      role: board
+      note: Supervisory Board BVG
     - org: bertelsmann-stiftung
       role: owner
       share: 80.9%
@@ -1525,6 +1644,26 @@ organizations:
       from: 2012
       to: 2019
       note: Chairman & CEO
+  beyondnetzero:
+    name: BeyondNetZero
+    type: privateequity
+    founded: 2021
+    headquarters: New York, USA
+    status: active
+    sector: climate growth equity
+    stakeholders:
+    - person: john-browne
+      role: chairman
+      from: 2021
+      note: Co-Founder and Chairman
+    - person: lance-uggla
+      role: executive
+      from: 2021
+      note: Co-Founder and CEO
+    - org: general-atlantic
+      role: parent
+      from: 2021
+      note: Climate growth equity platform
   bharti-airtel:
     name: Bharti Airtel Limited
     type: company
@@ -1707,7 +1846,9 @@ organizations:
       note: Evian-les-Bains meeting
     - person: henri-de-castries
       role: steering
-      note: Steering Committee
+      from: 2012
+      to: 2019
+      note: Chairman Steering Committee
     - person: dora-bakoyannis
       role: member
       from: 2003
@@ -1746,6 +1887,24 @@ organizations:
       role: member
       from: 2024
       note: Bilderberg 2024 Madrid
+    - person: dominique-strauss-kahn
+      role: member
+      from: 2010
+      note: Proposed global currency backed by global central bank
+    - person: claude-bebear
+      role: member
+      from: 1995
+      note: Partecipante 1995 Zurich
+    - person: jean-dominique-senard
+      role: member
+      note: Participant 2012, 2013
+    - person: laurent-bigorgne
+      role: member
+      from: 2015
+      note: Participant 2015
+    - person: tom-enders
+      role: steering
+      note: Steering Committee member
     - org: trilaterale
       role: partner
   biontech:
@@ -1802,6 +1961,10 @@ organizations:
       from: 2004
       to: 2011
       note: Board of Directors
+    - person: francois-villeroy-de-galhau
+      role: chairman
+      from: 2022
+      note: Chair Board of Directors
     - org: bce
       role: partner
     - org: bank-of-greece
@@ -1831,6 +1994,9 @@ organizations:
       from: 2016
       to: 2020
       note: Chairman Supervisory Board BlackRock Germany
+    - person: william-ford
+      role: board
+      note: Director
     - org: norges-bank-gpfg
       role: stake
     - org: trilaterale
@@ -2022,6 +2188,37 @@ organizations:
       from: 1958
       to: 1962
       note: Agent in Chile, paid 70,000 DM, dismissed as untrustworthy
+  bnp-paribas:
+    name: BNP Paribas
+    type: bank
+    founded: 2000
+    headquarters: Paris, France
+    status: active
+    note: Maggiore banca francese ed eurozona, fusione BNP + Paribas 2000. Multa record $8.9B (2014) per violazione sanzioni
+    stakeholders:
+    - person: francois-villeroy-de-galhau
+      role: executive
+      from: 2003
+      to: 2015
+      note: CEO Cetelem 2003, Retail France 2008, COO 2011-15
+    - person: jean-laurent-bonnafe
+      role: executive
+      from: 2011
+      note: CEO
+    - person: jean-lemierre
+      role: chairman
+      from: 2014
+      note: Chairman Board of Directors
+    - person: michel-pebereau
+      role: chairman
+      from: 1993
+      to: 2011
+      note: Chairman, architetto fusione BNP-Paribas 2000
+    - person: baudouin-prot
+      role: executive
+      from: 2003
+      to: 2011
+      note: CEO, gestì integrazione post-fusione
   bogasari:
     name: Bogasari Flour Mills
     type: company
@@ -2142,23 +2339,58 @@ organizations:
   bp:
     name: BP
     type: company
-    sector: oil-gas
+    headquarters: London, UK
+    status: active
+    sector: oil
     stakeholders:
     - person: peter-sutherland
       role: chairman
       from: 2003
       to: 2009
+    - person: john-browne
+      role: executive
+      from: 1995
+      to: 2007
+      note: CEO; joined 1966
     - org: kuwait-investment-authority
       role: shareholder
       share: 9.9%
       from: 1987
       to: 1997
       note: Peak 21.6% (1988), forced to reduce by UK govt
+  bpce:
+    name: Groupe BPCE
+    type: bank
+    founded: 2009
+    headquarters: Paris
+    status: active
+    note: '2a banca francese, fusione Caisses d Epargne + Banques Populaires 2009. Struttura cooperativa: 9M soci possiedono
+      le banche locali'
+    stakeholders:
+    - person: francois-perol
+      role: chairman
+      from: 2009
+      to: 2018
+      note: Chairman Management Board
+    - person: laurent-mignon
+      role: chairman
+      from: 2018
+      to: 2022
+      note: Chairman Management Board, succede a Pérol
+    - person: nicolas-namias
+      role: chairman
+      from: 2022
+      note: Chairman Management Board & CEO, succede a Mignon
   bpifrance:
     name: Bpifrance
     type: bank
     headquarters: Paris, France
     note: French state investment bank
+    stakeholders:
+    - org: governo-francia
+      role: shareholder
+      share: 50
+      note: Via CDC e Stato diretto
   breakthrough-energy:
     name: Breakthrough Energy
     type: foundation
@@ -2369,6 +2601,22 @@ organizations:
     - person: urbano-cairo
       role: founder
       from: 1995
+  caisse-des-depots:
+    name: Caisse des Dépôts et Consignations
+    type: bank
+    founded: 1816
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: antoine-gosset-grainville
+      role: executive
+      from: 2010
+      to: 2012
+      note: Deputy DG 2010-12; Interim CEO Feb-Jul 2012
+    - org: governo-francia
+      role: owner
+      share: 100
+      note: Istituto finanziario pubblico
   cambridge-analytica:
     name: Cambridge Analytica
     type: company
@@ -2426,7 +2674,7 @@ organizations:
     founded: 1984
     headquarters: Paris, France
     status: active
-    note: TV/streaming, spin-off Vivendi 2024. LSE listed. €6.85B. CNews inclusa
+    note: Spin-off Vivendi dic 2024. LSE listing. CNews, C8, StudioCanal, MultiChoice Africa
     stakeholders:
     - org: bollore-group
       role: owner
@@ -2685,6 +2933,8 @@ organizations:
       role: advisor
       note: Global Board of Advisors
     - person: thomas-pritzker
+      role: member
+    - person: william-ford
       role: member
     - org: bilderberg
       role: partner
@@ -3078,6 +3328,17 @@ organizations:
     - person: bill-clinton
       role: founder
       from: 2001
+  club-de-madrid:
+    name: Club de Madrid
+    type: forum
+    founded: 2001
+    headquarters: Madrid, Spain
+    status: active
+    stakeholders:
+    - person: francois-hollande
+      role: member
+      from: 2019
+      note: Ex-President member
   cma-cgm:
     name: CMA CGM
     type: company
@@ -3201,6 +3462,18 @@ organizations:
       role: professor
     - person: jan-tinbergen
       role: professor
+  colony-capital:
+    name: Colony Capital
+    type: privateequity
+    founded: 1991
+    headquarters: Los Angeles, USA
+    status: merged
+    stakeholders:
+    - person: sebastien-bazin
+      role: executive
+      from: 1997
+      to: 2013
+      note: CEO Europe; Managing Director
   columbus-nova:
     type: privateequity
     headquarters: New York, USA
@@ -3605,6 +3878,49 @@ organizations:
     - person: dan-gertler
       role: founder
       from: 1996
+  dassault-aviation:
+    name: Dassault Aviation
+    type: company
+    founded: 1929
+    headquarters: Paris
+    status: active
+    sector: defense, aviation
+    note: Rafale, Falcon jets. 67% Dassault family
+    stakeholders:
+    - person: serge-dassault
+      role: chairman
+      from: 1987
+      to: 2018
+    - person: eric-trappier
+      role: chairman
+      note: Chairman & CEO
+  dassault-group:
+    name: Groupe Industriel Marcel Dassault
+    type: company
+    founded: 1929
+    headquarters: Paris
+    status: active
+    sector: defense, aviation, software, media
+    stakeholders:
+    - person: marcel-dassault
+      role: founder
+      from: 1929
+    - person: serge-dassault
+      role: chairman
+      from: 1987
+      to: 2018
+    - person: eric-trappier
+      role: executive
+      from: 2025
+      note: CEO post-famiglia
+  dassault-systemes:
+    name: Dassault Systèmes
+    type: company
+    founded: 1981
+    headquarters: Vélizy-Villacoublay
+    status: active
+    sector: software
+    note: 3D design software leader. 40% Dassault family
   dbs:
     name: DBS Bank
     type: bank
@@ -3760,6 +4076,17 @@ organizations:
       role: executive
       from: 2022
       note: President
+  deutsche-telekom:
+    type: company
+    founded: 1995
+    headquarters: Bonn, Germany
+    status: active
+    stakeholders:
+    - person: rene-obermann
+      role: executive
+      from: 2006
+      to: 2013
+      note: CEO
   dfi-retail:
     name: DFI Retail Group
     type: company
@@ -3772,6 +4099,17 @@ organizations:
     - org: jardine-matheson
       role: parent
       share: 0.78
+  dgap:
+    name: German Council on Foreign Relations
+    type: thinktank
+    founded: 1955
+    headquarters: Berlin, Germany
+    status: active
+    stakeholders:
+    - person: tom-enders
+      role: chairman
+      from: 2019
+      note: President
   diacore:
     name: Diacore (ex Steinmetz Diamond Group)
     type: company
@@ -3954,6 +4292,24 @@ organizations:
       role: supervisione
       from: 1982
       note: Programma governativo
+  ebrd:
+    name: European Bank for Reconstruction and Development
+    type: bank
+    founded: 1991
+    headquarters: London, UK
+    status: active
+    note: Banca multilaterale per transizione economie Est Europa. Fondata da Attali
+    stakeholders:
+    - person: jacques-attali
+      role: founder
+      from: 1991
+      to: 1993
+      note: Fondatore e primo Presidente
+    - person: jean-lemierre
+      role: executive
+      from: 2000
+      to: 2008
+      note: President EBRD
   ec-bahia:
     name: Esporte Clube Bahia
     type: sportsclub
@@ -4147,6 +4503,17 @@ organizations:
     - person: william-binney
       role: founder
       from: 2001
+  eon:
+    name: E.ON SE
+    type: company
+    founded: 2000
+    headquarters: Essen, Germany
+    status: active
+    sector: energy
+    stakeholders:
+    - person: rene-obermann
+      role: board
+      note: Ex-Director
   eqt:
     name: EQT AB
     type: privateequity
@@ -4712,6 +5079,11 @@ organizations:
       from: 2002
       to: 2004
       note: Executive Director
+    - person: dominique-strauss-kahn
+      role: executive
+      from: 2007
+      to: 2011
+      note: Managing Director; resigned May 2011
     - org: wef
       role: partner
     - org: banca-mondiale
@@ -4844,6 +5216,100 @@ organizations:
       from: 2014
       to: 2022
       note: Board member 2014, President 2016-2022
+  french-american-foundation:
+    name: French-American Foundation
+    type: forum
+    founded: 1976
+    headquarters: New York, USA; Paris, France
+    status: active
+    sector: transatlantic relations
+    stakeholders:
+    - person: emmanuel-macron
+      role: ygl
+      from: 2012
+      note: Young Leader 2012, President of France
+    - person: bill-clinton
+      role: ygl
+      from: 1984
+      note: Young Leader 1984
+    - person: hillary-clinton
+      role: ygl
+      from: 1984
+      note: Young Leader 1984
+    - person: wesley-clark
+      role: ygl
+      note: Young Leader
+    - person: edouard-philippe
+      role: ygl
+      from: 2011
+      note: Young Leader 2011, Prime Minister
+    - person: laurent-bigorgne
+      role: ygl
+      note: Young Leader, Institut Montaigne Director
+    - person: james-lowenstein
+      role: founder
+      from: 1976
+      note: Ambassador, co-founder
+    - person: nicholas-wahl
+      role: founder
+      from: 1976
+      note: Princeton scholar, co-founder
+    - person: thierry-de-montbrial
+      role: founder
+      from: 1976
+    - person: ezra-suleiman
+      role: chairman
+      from: 1981
+      to: 2000
+      note: Young Leaders program founder and president
+    - person: allan-chapin
+      role: chairman
+      from: 2008
+      to: 2023
+      note: Chair Emeritus 2023-
+    - person: edward-wallace
+      role: chairman
+      from: 2023
+      note: Chair Board of Directors
+    - person: francois-hollande
+      role: ygl
+      from: 1996
+      note: Young Leader 1996, President of France
+    - person: antony-blinken
+      role: ygl
+      note: Young Leader, Secretary of State
+    - person: alain-juppe
+      role: ygl
+      note: Young Leader, Prime Minister
+    - person: pierre-moscovici
+      role: ygl
+      note: Young Leader, EU Commissioner
+    - person: arnaud-montebourg
+      role: ygl
+      note: Young Leader, Minister
+    - person: najat-vallaud-belkacem
+      role: ygl
+      note: Young Leader, Minister Education
+    - person: fleur-pellerin
+      role: ygl
+      from: 2012
+      note: Young Leader 2012, Minister Culture
+    - person: thomas-pesquet
+      role: ygl
+      note: Young Leader, ESA Astronaut
+    - person: dina-powell
+      role: ygl
+      note: Young Leader, Goldman Sachs
+    - person: eric-garcetti
+      role: ygl
+      note: Young Leader, Mayor LA, Ambassador India
+    - person: robert-zoellick
+      role: ygl
+      note: Young Leader, World Bank President
+    - person: cedric-villani
+      role: ygl
+      from: 2012
+      note: Young Leader 2012, Fields Medal, Depute
   fuji-media:
     name: Fuji Media Holdings
     type: media
@@ -5038,6 +5504,20 @@ organizations:
     - org: djarum
       role: parent
       note: VC arm
+  ge-aerospace:
+    name: GE Aerospace
+    type: company
+    headquarters: Cincinnati, USA
+    status: active
+    sector: aerospace
+    stakeholders:
+    - person: tom-enders
+      role: board
+      note: Board member
+    - person: sebastien-bazin
+      role: board
+      from: 2016
+      note: Board member; GE poi GE Aerospace (2024)
   gedi:
     name: GEDI Gruppo Editoriale
     type: media
@@ -5091,6 +5571,38 @@ organizations:
       from: 1945
       to: 1954
       note: Alleged collaboration before escape to Syria
+  general-atlantic:
+    name: General Atlantic
+    type: privateequity
+    founded: 1980
+    headquarters: New York, USA
+    status: active
+    sector: growth equity
+    aum: 97 billion USD
+    stakeholders:
+    - person: henri-de-castries
+      role: chairman
+      note: Special Advisor and Chairman for Europe
+    - person: chuck-feeney
+      role: founder
+      from: 1980
+      note: Founder; sole investor for many years
+    - person: william-ford
+      role: executive
+      from: 1991
+      note: Joined 1991; CEO 2007; Chairman 2021
+    - person: john-browne
+      role: executive
+      from: 2021
+      note: Managing Director; Chairman BeyondNetZero
+    - person: anton-levy
+      role: executive
+      from: 2019
+      note: Co-President; led investments in Airbnb, Alibaba, ByteDance, Facebook, Uber
+    - person: lance-uggla
+      role: executive
+      from: 2021
+      note: Vice Chairman
   genesis-healthcare:
     name: Genesis HealthCare
     type: company
@@ -5541,11 +6053,17 @@ organizations:
       to: 2014
       note: Finance
   governo-francia:
-    name: French Government
+    name: Governo della Francia
     type: government
-    headquarters: Paris, France
+    founded: 1958
+    headquarters: Parigi, Francia
     status: active
     stakeholders:
+    - person: christine-lagarde
+      role: minister
+      from: 2007
+      to: 2011
+      note: Min. Economia e Finanze
     - person: emmanuel-macron
       role: leader
       from: 2017
@@ -5553,6 +6071,21 @@ organizations:
       role: leader
       from: 2007
       to: 2012
+    - person: nicolas-sarkozy
+      role: minister
+      from: 2002
+      to: 2004
+      note: Min. Interno (Chirac/Raffarin)
+    - person: nicolas-sarkozy
+      role: minister
+      from: 2004
+      to: 2004
+      note: Min. Economia (Chirac/Raffarin)
+    - person: nicolas-sarkozy
+      role: minister
+      from: 2005
+      to: 2007
+      note: Min. Interno (Chirac/Villepin)
     - person: francois-mitterrand
       role: leader
       from: 1981
@@ -5561,6 +6094,214 @@ organizations:
       role: minister
       from: 1981
       to: 1984
+    - person: edith-cresson
+      role: minister
+      from: 1991
+      to: 1992
+      note: Primo Ministro - Prima donna PM Francia
+    - person: francois-perol
+      role: advisor
+      from: 2007
+      to: 2009
+      note: Deputy Secretary General Eliseo (Sarkozy), economic issues
+    - person: serge-dassault
+      role: legislator
+      from: 2004
+      to: 2018
+      note: Senatore UMP
+    - person: olivier-dassault
+      role: legislator
+      from: 1988
+      to: 2021
+      note: Deputato UMP/LR
+    - person: nicolas-namias
+      role: advisor
+      from: 2012
+      to: 2014
+      note: Consigliere PM per economia, imprese, affari internazionali
+    - person: francois-villeroy-de-galhau
+      role: advisor
+      from: 1988
+      to: 2003
+      note: Tesoro 1988-97, Chief of Staff Min. Economia (DSK, Sautter) 1997-2000, DG Fiscale 2000-03
+    - person: jacques-attali
+      role: advisor
+      from: 1981
+      to: 1991
+      note: Consigliere speciale Pres. Mitterrand, Sherpa G7
+    - person: serge-weinberg
+      role: advisor
+      from: 1981
+      to: 1982
+      note: Chief of Staff to Budget Minister Laurent Fabius
+    - person: dominique-strauss-kahn
+      role: minister
+      from: 1991
+      to: 1999
+      note: Trade Minister 1991-93 (Mitterrand); Finance Minister 1997-99 (Jospin)
+    - person: edouard-philippe
+      role: minister
+      from: 2017
+      to: 2020
+      note: Primo Ministro
+    - person: antoine-gosset-grainville
+      role: advisor
+      from: 2007
+      to: 2010
+      note: Deputy Director PM office, economic affairs
+    - person: jean-michel-blanquer
+      role: minister
+      from: 2017
+      to: 2022
+      note: Minister of National Education (Macron)
+    - person: valery-giscard-destaing
+      role: leader
+      from: 1974
+      to: 1981
+      note: Presidente
+    - person: francois-hollande
+      role: leader
+      from: 2012
+      to: 2017
+      note: Presidente
+    - person: francois-hollande
+      role: legislator
+      from: 2024
+      note: Deputato Correeze (New Popular Front)
+    - person: francois-hollande
+      role: legislator
+      from: 1988
+      to: 1993
+      note: Deputato Correeze
+    - person: francois-hollande
+      role: legislator
+      from: 1997
+      to: 2012
+      note: Deputato Correeze; Primo Segretario PS 1997-2008
+    - person: alain-juppe
+      role: minister
+      from: 1995
+      to: 1997
+      note: Primo Ministro
+    - person: pierre-moscovici
+      role: minister
+      from: 2012
+      to: 2014
+      note: Min. Economia e Finanze
+    - person: charles-de-gaulle
+      role: leader
+      from: 1959
+      to: 1969
+      note: Presidente - Fondatore V Repubblica
+    - person: georges-pompidou
+      role: leader
+      from: 1969
+      to: 1974
+      note: Presidente
+    - person: jacques-chirac
+      role: leader
+      from: 1995
+      to: 2007
+      note: Presidente
+    - person: jacques-chirac
+      role: minister
+      from: 1974
+      to: 1976
+      note: Primo Ministro (Giscard)
+    - person: jacques-chirac
+      role: minister
+      from: 1986
+      to: 1988
+      note: Primo Ministro (cohabitation Mitterrand)
+    - person: jacques-chirac
+      role: executive
+      from: 1977
+      to: 1995
+      note: Sindaco di Parigi
+    - person: jacques-chirac
+      role: minister
+      from: 1972
+      to: 1974
+      note: Min. Agricoltura (Pompidou)
+    - person: jacques-chirac
+      role: legislator
+      from: 1967
+      to: 1995
+      note: Deputato Correeze
+    - person: francois-bayrou
+      role: minister
+      from: 2024
+      note: Primo Ministro
+    - person: michel-barnier
+      role: minister
+      from: 2024
+      to: 2024
+      note: Primo Ministro (set-dic 2024)
+    - person: gabriel-attal
+      role: minister
+      from: 2024
+      to: 2024
+      note: Primo Ministro (gen-set 2024)
+    - person: elisabeth-borne
+      role: minister
+      from: 2022
+      to: 2024
+      note: Primo Ministro
+    - person: jean-castex
+      role: minister
+      from: 2020
+      to: 2022
+      note: Primo Ministro
+    - person: segolene-royal
+      role: minister
+      from: 2014
+      to: 2017
+      note: Min. Ecologia, Energia
+    - person: manuel-valls
+      role: minister
+      from: 2014
+      to: 2016
+      note: Primo Ministro
+    - person: bernard-cazeneuve
+      role: minister
+      from: 2016
+      to: 2017
+      note: Primo Ministro
+    - person: jean-marc-ayrault
+      role: minister
+      from: 2012
+      to: 2014
+      note: Primo Ministro
+    - person: dominique-de-villepin
+      role: minister
+      from: 2005
+      to: 2007
+      note: Primo Ministro (Chirac)
+    - person: francois-fillon
+      role: minister
+      from: 2007
+      to: 2012
+      note: Primo Ministro (Sarkozy)
+    - person: bernard-kouchner
+      role: minister
+      from: 2007
+      to: 2010
+      note: Min. Esteri (dal PS, fondatore MSF)
+    - person: rachida-dati
+      role: minister
+      from: 2007
+      to: 2009
+      note: Min. Giustizia
+    - person: jean-pierre-raffarin
+      role: minister
+      from: 2002
+      to: 2005
+      note: Primo Ministro (Chirac)
+    - person: lionel-jospin
+      role: minister
+      from: 1997
+      to: 2002
+      note: Primo Ministro (cohabitation Chirac)
   governo-georgia:
     name: Governo Georgia
     type: government
@@ -5663,6 +6404,11 @@ organizations:
       from: 2009
       to: 2011
       note: Defence Minister
+    - person: tom-enders
+      role: advisor
+      from: 1989
+      to: 1991
+      note: Planning Staff, Federal Ministry of Defence
   governo-giappone:
     name: Governo del Giappone
     type: government
@@ -6953,7 +7699,7 @@ organizations:
     founded: 1835
     headquarters: Paris, France
     status: active
-    note: Advertising/communications, 6th largest global. Amsterdam listed. €3.44B
+    note: Spin-off Vivendi dic 2024. Amsterdam listing. 6th largest advertising group
     stakeholders:
     - person: yannick-bollore
       role: chairman
@@ -6984,6 +7730,18 @@ organizations:
     - org: qia
       role: stake
       share: 0.2
+  hec-paris:
+    name: HEC Paris
+    type: company
+    founded: 1881
+    headquarters: Jouy-en-Josas, France
+    status: active
+    sector: education
+    stakeholders:
+    - person: jean-paul-agon
+      role: chairman
+      from: 2022
+      note: Chairman Board
   hellenic-olympic-committee:
     name: Hellenic Olympic Committee
     type: agency
@@ -7134,6 +7892,15 @@ organizations:
     - org: baic
       share: 50%
       note: Beijing Hyundai JV 50-50
+  ibm:
+    name: IBM
+    type: company
+    headquarters: Armonk, NY, USA
+    status: active
+    stakeholders:
+    - person: thomas-buberl
+      role: board
+      note: Director
   ibra:
     name: Indonesian Bank Restructuring Agency
     type: agency
@@ -7221,6 +7988,27 @@ organizations:
       from: 1938
       to: 1945
       note: Betriebsfuhrer Upper Rhine, Wehrwirtschaftsfuhrer 1941
+  ihs-markit:
+    type: company
+    founded: 2016
+    status: merged
+    note: Merged with S&P Global 2022
+    stakeholders:
+    - person: lance-uggla
+      role: founder
+      from: 2003
+      to: 2022
+      note: Founder Markit 2003; Chairman & CEO IHS Markit 2016-2022
+  iiss:
+    name: International Institute for Strategic Studies
+    type: thinktank
+    founded: 1958
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: tom-enders
+      role: advisor
+      note: Advisory Council member
   il-gazzettino:
     name: Il Gazzettino
     type: media
@@ -7378,6 +8166,32 @@ organizations:
     - org: salim-group
       share: 45
       note: Via Indoritel Makmur
+  institut-montaigne:
+    name: Institut Montaigne
+    type: thinktank
+    founded: 2000
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: henri-de-castries
+      role: chairman
+      from: 2015
+      note: Chairman Institut Montaigne
+    - person: claude-bebear
+      role: founder
+      from: 2000
+      to: 2015
+      note: Fondatore e Chairman
+    - person: jean-dominique-senard
+      role: member
+      note: Vice President, Board of Directors
+    - person: laurent-bigorgne
+      role: executive
+      from: 2011
+      note: Director General
+    - person: jean-michel-blanquer
+      role: member
+      note: Former member
   institute-international-finance:
     name: Institute of International Finance
     type: forum
@@ -7689,6 +8503,12 @@ organizations:
     stakeholders:
     - org: battery-ventures
       role: investor
+  jin-jiang:
+    name: Jin Jiang International
+    type: company
+    headquarters: Shanghai, China
+    status: active
+    sector: hospitality
   jinsa:
     name: Jewish Institute for National Security of America
     type: thinktank
@@ -7863,6 +8683,24 @@ organizations:
     - org: temasek
       share: controlling
       note: Largest shareholder
+  kering:
+    name: Kering
+    type: company
+    founded: 1963
+    headquarters: Paris, France
+    status: active
+    sector: luxury
+    note: Formerly PPR (Pinault-Printemps-Redoute)
+    stakeholders:
+    - person: serge-weinberg
+      role: chairman
+      from: 1995
+      to: 2005
+      note: Chairman Management Board PPR; orchestrated luxury pivot with Pinault
+    - person: francois-pinault
+      role: founder
+      from: 1963
+      note: Fondatore Pinault Group, poi PPR, ora Kering
   kgb:
     name: Komitet Gosudarstvennoy Bezopasnosti
     type: agency
@@ -7876,6 +8714,12 @@ organizations:
       from: 1934
       to: 1988
       note: Double agent, defected 1963
+  kingdom-holding:
+    name: Kingdom Holding Company
+    type: company
+    headquarters: Riyadh, Saudi Arabia
+    status: active
+    sector: investment
   kissinger-associates:
     name: Kissinger Associates
     type: company
@@ -8101,6 +8945,10 @@ organizations:
     headquarters: Paris, France
     status: active
     note: Publishing, retail. Paris Match, Europe 1, JDD. Part of Louis Hachette Group
+    stakeholders:
+    - org: louis-hachette-group
+      share: minority
+      from: 2024
   lamborghini:
     name: Lamborghini
     type: company
@@ -8135,6 +8983,21 @@ organizations:
     - person: vernon-jordan
       role: advisor
       from: 2000
+    - person: allan-chapin
+      role: executive
+      note: Managing Director Lazard Freres
+  le-figaro:
+    name: Le Figaro
+    type: media
+    founded: 1826
+    headquarters: Paris
+    status: active
+    note: Acquisito da Dassault 2004. Centro-destra, pro-Sarkozy
+    stakeholders:
+    - person: serge-dassault
+      role: owner
+      from: 2004
+      to: 2018
   le-monde:
     name: Groupe Le Monde
     type: media
@@ -8155,6 +9018,31 @@ organizations:
     stakeholders:
     - org: lvmh
       share: 100%
+  le-siecle:
+    name: Le Siècle
+    type: forum
+    founded: 1944
+    headquarters: Paris, France
+    status: active
+    note: Elite transpartisan club; monthly dinner at Automobile Club Place de la Concorde
+    stakeholders:
+    - person: nicolas-sarkozy
+      role: member
+    - person: francois-mitterrand
+      role: member
+      note: Close associate of founder Bérard-Quélin
+    - person: edouard-de-rothschild
+      role: member
+    - person: michel-pebereau
+      role: member
+    - person: dominique-strauss-kahn
+      role: member
+    - person: edouard-philippe
+      role: member
+    - person: veronique-morali
+      role: chairman
+      from: 2024
+      note: First chairperson starting January 1, 2024
   leeum-museum:
     name: Leeum, Samsung Museum of Art
     type: foundation
@@ -8219,6 +9107,17 @@ organizations:
     - org: eli-lilly
       role: stake
       share: 0.107
+  linde:
+    name: Linde plc
+    type: company
+    founded: 1879
+    headquarters: Dublin, Ireland
+    status: active
+    sector: industrial gases
+    stakeholders:
+    - person: tom-enders
+      role: board
+      note: Board member
   liv-golf:
     name: LIV Golf
     type: company
@@ -8268,6 +9167,45 @@ organizations:
       from: 1970
       to: 1976
       note: Scandalo tangenti $1M+
+  loreal:
+    name: L'Oréal SA
+    type: company
+    founded: 1909
+    headquarters: Clichy, France
+    status: active
+    sector: cosmetics
+    note: '#1 cosmetics global. Bettencourt family 34.7%, Nestlé 20.1%'
+    stakeholders:
+    - person: eugene-schueller
+      role: founder
+      from: 1909
+      to: 1957
+    - person: liliane-bettencourt
+      role: owner
+      from: 1957
+      to: 2017
+      note: Controlling shareholder
+    - person: francoise-bettencourt-meyers
+      role: board
+      from: 1997
+      to: 2025
+      note: Vice-Chair 2020-25
+    - person: jean-victor-meyers
+      role: board
+      from: 2018
+      note: Vice-Chair from Apr 2025
+    - person: jean-paul-agon
+      role: chairman
+      from: 2011
+      note: CEO 2006-2021, Chairman 2011-
+    - person: nicolas-hieronimus
+      role: executive
+      from: 2021
+      note: CEO
+    - org: nestle
+      share: 20.1%
+      from: 1974
+      note: Originally 29%, reduced 2014
   los-angeles-times:
     name: Los Angeles Times
     type: media
@@ -8279,6 +9217,17 @@ organizations:
     - person: patrick-soon-shiong
       role: owner
       from: 2018
+  louis-hachette-group:
+    name: Louis Hachette Group
+    type: media
+    founded: 2024
+    headquarters: Paris, France
+    status: active
+    note: Spin-off Vivendi dic 2024. Lagardère, Prisma, Europe 1
+    stakeholders:
+    - org: bollore-group
+      share: 31.5%
+      from: 2024
   lower-saxony:
     name: State of Lower Saxony
     type: government
@@ -8323,6 +9272,10 @@ organizations:
       role: chairman
       from: 2018
       note: Chairman Supervisory Board
+    - person: tom-enders
+      role: board
+      from: 2020
+      note: Supervisory Board; Presidium and Nomination Committee
     - org: blackrock
       share: 3.38
       from: 2025
@@ -8756,6 +9709,42 @@ organizations:
       from: 1942
       to: 1945
       note: Collaborazione WWII, MI6 mentore di OSS
+  michelin:
+    name: Compagnie Generale des Etablissements Michelin
+    type: company
+    founded: 1889
+    headquarters: Clermont-Ferrand, France
+    status: active
+    sector: tires
+    stakeholders:
+    - person: jean-dominique-senard
+      role: executive
+      from: 2012
+      to: 2019
+      note: CEO; primo non-famiglia
+    - person: florent-menegaux
+      role: executive
+      from: 2019
+      note: CEO; Managing General Partner
+    - person: michel-rollier
+      role: executive
+      from: 2006
+      to: 2012
+      note: CEO; cugino Edouard
+    - person: francois-michelin
+      role: executive
+      from: 1955
+      to: 1999
+      note: Gerant; 44 anni di leadership
+    - person: edouard-michelin-jr
+      role: executive
+      from: 1999
+      to: 2006
+      note: CEO; morto in incidente nautico
+    - person: barbara-dalibard
+      role: chairman
+      from: 2021
+      note: Chair Supervisory Board; membro dal 2008
   microsoft:
     name: Microsoft
     type: company
@@ -9003,6 +9992,10 @@ organizations:
     - person: oliver-baete
       role: advisor
       note: Advisory Council member
+    - person: tom-enders
+      role: advisor
+      from: 2014
+      note: Advisory Council member
   nasdaq:
     name: NASDAQ
     type: company
@@ -9020,6 +10013,28 @@ organizations:
     headquarters: Bangkok, Thailand
     status: active
     sector: media
+  natixis:
+    name: Natixis
+    type: bank
+    founded: 2006
+    headquarters: Paris
+    status: active
+    note: CIB e Asset Management di BPCE. IPO 2006, delisting 2021
+    stakeholders:
+    - person: laurent-mignon
+      role: executive
+      from: 2009
+      to: 2018
+      note: CEO Natixis
+    - person: nicolas-namias
+      role: executive
+      from: 2020
+      to: 2022
+      note: CEO Natixis
+    - org: bpce
+      share: '100'
+      from: 2021
+      note: Delisting completato luglio 2021
   nato:
     name: North Atlantic Treaty Organization
     type: agency
@@ -9120,6 +10135,15 @@ organizations:
     - org: amg-media
       share: 64.71%
       from: 2022
+  nestle:
+    name: Nestlé
+    type: company
+    headquarters: Vevey, Switzerland
+    status: active
+    stakeholders:
+    - person: henri-de-castries
+      role: board
+      note: Vice Chairman
   netflix:
     name: Netflix
     type: media
@@ -10245,6 +11269,11 @@ organizations:
       role: executive
       from: 2011
       note: President
+    - person: sebastien-bazin
+      role: chairman
+      from: 2009
+      to: 2011
+      note: President; vendita a QSI
     - org: qia
       role: subsidiary
     - org: qsi
@@ -10286,6 +11315,11 @@ organizations:
     status: active
     aum: 525B
     stakeholders:
+    - person: nicolas-sarkozy
+      role: advisor
+      from: 2012
+      to: 2014
+      note: Planned PE venture (250M EUR commitment); abandoned for political comeback
     - person: mohammed-al-sowaidi
       role: executive
       from: 2024
@@ -10535,7 +11569,7 @@ organizations:
       role: chairman
       from: 2000
   renault:
-    name: Renault Group
+    name: Renault
     type: automaker
     founded: 1899
     headquarters: Boulogne-Billancourt, France
@@ -10543,6 +11577,10 @@ organizations:
     sector: automotive
     note: French state owns 15% (30% voting). Alliance with Nissan.
     stakeholders:
+    - person: jean-dominique-senard
+      role: chairman
+      from: 2019
+      note: Chairman; post-Ghosn
     - org: governo-francia
       role: strategic
       share: 15% equity, ~30% voting
@@ -10695,20 +11733,52 @@ organizations:
     - org: governo-russia
       share: 100%
   rothschild-cie:
-    name: Rothschild & Cie
+    name: Rothschild & Cie Banque
     type: bank
+    founded: 1987
     headquarters: Parigi
     status: active
+    note: Ricreata dopo nazionalizzazione 1981, fusa con NM Rothschild 2003
     stakeholders:
     - person: emmanuel-macron
-      role: employee
+      role: partner
       from: 2008
       to: 2012
+      note: Associate 2008, Managing Director 2010, Deal Nestlé-Pfizer €9.2B
+    - person: david-de-rothschild-fr
+      role: founder
+      from: 1987
+      to: 2018
+      note: Chairman, fondatore post-nazionalizzazione
+    - person: alexandre-de-rothschild
+      role: chairman
+      from: 2018
+      note: Executive Chairman dal 2018
+    - person: edouard-de-rothschild
+      role: partner
+      from: 1987
+      note: Co-fondatore, fratellastro di David
+    - person: eric-de-rothschild
+      role: partner
+      from: 1987
+      note: Co-fondatore, cugino di David
+    - person: nigel-higgins
+      role: executive
+      from: 2010
+      note: Primo CEO non-famiglia
+    - person: francois-perol
+      role: partner
+      from: 2005
+      to: 2007
+      note: General Partner, advisor fusione Natixis
   rothschild-co:
     name: Rothschild & Co
     type: bank
+    founded: 2003
     headquarters: Parigi/Londra
     status: active
+    aum: 24B EUR (2023)
+    note: Fusione rami UK-FR, delisting 2023, valutazione €3.7bn
     stakeholders:
     - person: david-de-rothschild-fr
       role: chairman
@@ -10716,6 +11786,27 @@ organizations:
     - person: alexandre-de-rothschild
       role: executive-chairman
       from: 2018
+    - person: eric-de-rothschild
+      role: board
+      note: Vice-Chairman Supervisory Board
+    - person: nigel-higgins
+      role: executive
+      from: 2019
+      note: Executive Chairman (primo non-famiglia)
+    - person: francois-perol
+      role: partner
+      from: 2017
+      note: Managing Partner, Co-Chairman Group Partners, Wealth & Asset Management
+    - person: robert-leitao
+      role: partner
+      note: Managing Partner, Co-Chairman Group Partners, Global Advisory
+    - person: marc-olivier-laurent
+      role: chairman
+      from: 2023
+      note: Chairman Supervisory Board
+    - person: francois-henrot
+      role: partner
+      note: Senior partner, right-hand of David de Rothschild
   rt:
     name: RT (Russia Today)
     type: media
@@ -10953,6 +12044,18 @@ organizations:
     - org: samsung-ct
       role: shareholder
       share: 19.34
+  sanofi:
+    name: Sanofi
+    type: pharma
+    founded: 1973
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: serge-weinberg
+      role: chairman
+      from: 2010
+      to: 2022
+      note: Chairman of the Board; interim CEO Oct 2014 - Apr 2015
   sap:
     name: SAP SE
     type: company
@@ -11567,6 +12670,15 @@ organizations:
       role: owner
       from: 2016
       note: Acquired brand/IP at bankruptcy auction
+  spotify:
+    type: company
+    founded: 2006
+    headquarters: Stockholm, Sweden
+    status: active
+    stakeholders:
+    - person: rene-obermann
+      role: board
+      note: Ex-Director
   standard-chartered:
     name: Standard Chartered Bank
     type: bank
@@ -11710,6 +12822,10 @@ organizations:
       from: 1911
       to: 1953
       note: Senior Partner
+    - person: allan-chapin
+      role: partner
+      from: 1976
+      note: Partner, Head European Operations
   swiss-re:
     type: company
     founded: 1863
@@ -11799,12 +12915,18 @@ organizations:
     - org: nbcuniversal
       share: 100%
   telenor:
-    name: Telenor
+    name: Telenor Group
     type: company
     founded: 1855
-    headquarters: Fornebu, Norway
+    headquarters: Oslo, Norway
     status: active
-    sector: telecommunications
+    sector: telecom
+    stakeholders:
+    - person: rene-obermann
+      role: board
+      from: 2018
+      to: 2019
+      note: Board of Directors
   televisaunivision:
     name: TelevisaUnivision
     type: media
@@ -12285,6 +13407,10 @@ organizations:
       role: member
     - person: daniela-schwarzer
       role: member
+    - person: serge-weinberg
+      role: member
+      from: 1998
+      to: 2008
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -12881,6 +14007,10 @@ organizations:
     - person: eric-warburg
       role: founder
       from: 1966
+    - person: rene-obermann
+      role: chairman
+      from: 2015
+      note: Chairman Warburg Pincus Europe
     - org: cfr
       role: partner
   warner-bros-discovery:
@@ -13215,6 +14345,15 @@ organizations:
       role: ygl
     - person: karl-theodor-zu-guttenberg
       role: ygl
+    - person: jacques-attali
+      role: member
+      note: Partecipante Davos
+    - person: dominique-strauss-kahn
+      role: member
+    - person: thomas-buberl
+      role: board
+      from: 2008
+      note: Young Global Leader 2008; Board of Trustees 2020-
     - org: bilderberg
       role: partner
     - org: fmi

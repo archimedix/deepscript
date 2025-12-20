@@ -104,22 +104,48 @@ families:
     - person: pier-silvio-berlusconi
       generation: 2
       role: heir
+  bettencourt:
+    origin: France
+    founder: eugene-schueller
+    sector: cosmetics
+    generations: 4
+    status: active
+    note: 'L''Oréal 34.7%. Donna più ricca del mondo (Françoise). Holding: Téthys'
+    members:
+    - person: eugene-schueller
+      generation: 1
+      role: founder
+    - person: liliane-bettencourt
+      generation: 2
+      role: heir
+    - person: andre-bettencourt
+      generation: 2
+      role: spouse
+    - person: francoise-bettencourt-meyers
+      generation: 3
+      role: matriarch
+    - person: jean-victor-meyers
+      generation: 4
+      role: heir
+    - person: nicolas-meyers
+      generation: 4
+      role: heir
   bollore:
-    origin: Brittany, France
+    origin: France
     founder: vincent-bollore
     sector: media, logistics
     generations: 3
     status: active
-    note: Conservative Catholic dynasty. Founded 1822. France Murdoch
+    note: Bretagna. Da logistics a impero media. Vivendi, Canal+, CNews
     members:
     - person: vincent-bollore
-      generation: 4
+      generation: 1
       role: patriarch
     - person: cyrille-bollore
-      generation: 5
+      generation: 2
       role: heir
     - person: yannick-bollore
-      generation: 5
+      generation: 2
       role: heir
   bouygues:
     origin: Francia
@@ -203,6 +229,26 @@ families:
     - person: chung-eui-sun
       generation: 3
       role: chairman
+  dassault:
+    origin: France
+    founder: marcel-dassault
+    sector: defense, aviation, software, media
+    generations: 4
+    status: active
+    note: Originariamente Bloch, nome cambiato post-WWII. Proprietari Rafale, Falcon, Dassault Systèmes, Le Figaro
+    members:
+    - person: marcel-dassault
+      generation: 1
+      role: founder
+    - person: serge-dassault
+      generation: 2
+      role: heir
+    - person: olivier-dassault
+      generation: 3
+    - person: thierry-dassault
+      generation: 3
+    - person: laurent-dassault
+      generation: 3
   dupont:
     origin: Francia/USA
     founder: E.I. du Pont
@@ -440,6 +486,19 @@ families:
     - person: irineu-marinho
       generation: 1
       role: founder
+  michelin:
+    origin: FRA
+    founder: edouard-michelin-sr
+    sector: industrial
+    generations: 5
+    status: active
+    members:
+    - person: francois-michelin
+      generation: 3
+      role: leader
+    - person: edouard-michelin-jr
+      generation: 4
+      role: heir
   mitsotakis:
     origin: Greece, Crete
     founder: kostis-mitsotakis

@@ -9,8 +9,9 @@
 
 SudaFrica
 Lussemburgo
+Olanda
 categoria Banche
-Compagnie Aeree
+Compagnie Aeree, Aerospace
 Gruppo energia (petrolio)
 Casate Reali
 Brasile: lula, bolsonaro

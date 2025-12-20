@@ -117,6 +117,21 @@ persons:
       role: leader
       from: 1993
       to: 2001
+  alain-juppe:
+    born: 1945
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 1995
+      to: 1997
+      note: Primo Ministro
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader, Prime Minister
+  alain-minc:
+    born: 1949
+    nationality: FRA
   alan-greenspan:
     born: 1926
     nationality: USA
@@ -293,6 +308,10 @@ persons:
     nationality: Francia
     family: rothschild
     affiliations:
+    - org: rothschild-cie
+      role: chairman
+      from: 2018
+      note: Executive Chairman dal 2018
     - org: rothschild-co
       role: executive-chairman
       from: 2018
@@ -324,6 +343,21 @@ persons:
       note: Head of Cabinet President Pahor
     - org: ecfr
       role: member
+  allan-chapin:
+    nationality: USA
+    affiliations:
+    - org: lazard
+      role: executive
+      note: Managing Director Lazard Freres
+    - org: sullivan-cromwell
+      role: partner
+      from: 1976
+      note: Partner, Head European Operations
+    - org: french-american-foundation
+      role: chairman
+      from: 2008
+      to: 2023
+      note: Chair Emeritus 2023-
   allen-dulles:
     born: 1893
     died: 1969
@@ -397,6 +431,10 @@ persons:
       from: 2021
       to: 2024
       note: Co-owner 10% via PCP Capital Partners, poi 6%, exit luglio 2024
+  andre-bettencourt:
+    born: 1919
+    died: 2007
+    nationality: FRA
   andre-hoffmann:
     born: 1958
     nationality: CHE
@@ -610,6 +648,31 @@ persons:
       role: executive
       from: 2005
       note: CEO Christian Dior SE, Chairman Loro Piana
+  antoine-gosset-grainville:
+    born: 1967
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: advisor
+      from: 2007
+      to: 2010
+      note: Deputy Director PM office, economic affairs
+    - org: axa
+      role: chairman
+      from: 2022
+      note: Chairman of the Board
+    - org: caisse-des-depots
+      role: executive
+      from: 2010
+      to: 2012
+      note: Deputy DG 2010-12; Interim CEO Feb-Jul 2012
+  anton-levy:
+    nationality: USA
+    affiliations:
+    - org: general-atlantic
+      role: executive
+      from: 2019
+      note: Co-President; led investments in Airbnb, Alibaba, ByteDance, Facebook, Uber
   anton-rupert:
     born: 1916
     died: 2006
@@ -649,6 +712,13 @@ persons:
       role: chairman
       from: 2003
       note: Longest-serving Liga Portugal president
+  antony-blinken:
+    born: 1962
+    nationality: USA
+    affiliations:
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader, Secretary of State
   anutin-charnvirakul:
     born: 1966
     nationality: THA
@@ -685,6 +755,13 @@ persons:
       role: executive
       from: 2024
       note: Co-CEO
+  arnaud-montebourg:
+    born: 1962
+    nationality: FRA
+    affiliations:
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader, Minister
   arthur-balfour:
     born: 1848
     died: 1930
@@ -785,6 +862,22 @@ persons:
     - org: obama-foundation
       role: founder
       from: 2017
+  barbara-dalibard:
+    nationality: FRA
+    affiliations:
+    - org: michelin
+      role: chairman
+      from: 2021
+      note: Chair Supervisory Board; membro dal 2008
+  baudouin-prot:
+    born: 1951
+    nationality: FRA
+    affiliations:
+    - org: bnp-paribas
+      role: executive
+      from: 2003
+      to: 2011
+      note: CEO, gestì integrazione post-fusione
   behdad-eghbali:
     nationality: USA
     note: Ex-TPG, Deutsche Bank
@@ -924,6 +1017,9 @@ persons:
       type: sibling
     - person: rubin-steinmetz
       type: son
+  bernadette-chirac:
+    born: 1933
+    nationality: FRA
   bernard-arnault:
     born: 1949
     nationality: FRA
@@ -954,6 +1050,24 @@ persons:
       type: father
     - person: jean-arnault
       type: father
+  bernard-cazeneuve:
+    born: 1963
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2016
+      to: 2017
+      note: Primo Ministro
+  bernard-kouchner:
+    born: 1939
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2007
+      to: 2010
+      note: Min. Esteri (dal PS, fondatore MSF)
   bernhard-lippe-biesterfeld:
     born: 1911
     died: 2004
@@ -1044,6 +1158,10 @@ persons:
       from: 1968
       to: 1970
       note: Rhodes Scholar (Oxford, Law)
+    - org: french-american-foundation
+      role: ygl
+      from: 1984
+      note: Young Leader 1984
   bill-ford-jr:
     born: 1957
     nationality: USA
@@ -1256,6 +1374,9 @@ persons:
       from: 1940
       to: 1945
       note: Supervisory board
+  carla-bruni:
+    born: 1967
+    nationality: ITA
   carlo-azeglio-ciampi:
     born: 1920
     died: 2016
@@ -1329,6 +1450,17 @@ persons:
     - person: ernest-oppenheimer
       type: succeeded_by
       note: Oppenheimer divenne chairman De Beers 1929
+  cecilia-attias:
+    born: 1957
+    nationality: FRA
+  cedric-villani:
+    born: 1973
+    nationality: FRA
+    affiliations:
+    - org: french-american-foundation
+      role: ygl
+      from: 2012
+      note: Young Leader 2012, Fields Medal, Depute
   cem-ozdemir:
     born: 1965
     nationality: DEU
@@ -1385,6 +1517,16 @@ persons:
       role: board
       from: 1984
       note: 2% personal stake
+  charles-de-gaulle:
+    born: 1890
+    died: 1970
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: leader
+      from: 1959
+      to: 1969
+      note: Presidente - Fondatore V Repubblica
   charles-iii:
     born: 1948
     nationality: GBR
@@ -1560,6 +1702,11 @@ persons:
       role: executive
       from: 2011
       to: 2019
+    - org: governo-francia
+      role: minister
+      from: 2007
+      to: 2011
+      note: Min. Economia e Finanze
   christoph-schell:
     nationality: DEU
     affiliations:
@@ -1618,6 +1765,15 @@ persons:
       role: executive
       from: 2026
       note: Warden & CEO (from July 2026); Rhodes Scholar 1991
+  chuck-feeney:
+    born: 1931
+    died: 2023
+    nationality: USA
+    affiliations:
+    - org: general-atlantic
+      role: founder
+      from: 1980
+      note: Founder; sole investor for many years
   chuck-hagel:
     nationality: USA
     affiliations:
@@ -1634,6 +1790,29 @@ persons:
     - org: hyundai-motor
       role: executive-chairman
       from: 2020
+  claude-bebear:
+    born: 1935
+    died: 2025
+    nationality: FRA
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 1995
+      note: Partecipante 1995 Zurich
+    - org: axa
+      role: founder
+      from: 1975
+      to: 2025
+      note: Fondatore; CEO 1975-2000; Chairman Supervisory Board 2000-08; Honorary Chairman 2008-25
+    - org: institut-montaigne
+      role: founder
+      from: 2000
+      to: 2015
+      note: Fondatore e Chairman
+    relations:
+    - person: henri-de-castries
+      type: mentor
+      note: Bébéar groomed de Castries as successor at AXA and Institut Montaigne
   cofer-black:
     born: 1950
     nationality: USA
@@ -1843,6 +2022,11 @@ persons:
     nationality: FRA
     family: rothschild
     affiliations:
+    - org: rothschild-cie
+      role: founder
+      from: 1987
+      to: 2018
+      note: Chairman, fondatore post-nazionalizzazione
     - org: world-jewish-congress
       role: chairman
     - org: rothschild-co
@@ -2043,6 +2227,48 @@ persons:
     - org: atlantic-council
       role: board
       note: International Advisory Board
+  dina-powell:
+    born: 1973
+    nationality: USA
+    affiliations:
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader, Goldman Sachs
+  dominique-de-villepin:
+    born: 1953
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2005
+      to: 2007
+      note: Primo Ministro (Chirac)
+  dominique-strauss-kahn:
+    born: 1949
+    nationality: FRA
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2010
+      note: Proposed global currency backed by global central bank
+    - org: wef
+      role: member
+    - org: fmi
+      role: executive
+      from: 2007
+      to: 2011
+      note: Managing Director; resigned May 2011
+    - org: governo-francia
+      role: minister
+      from: 1991
+      to: 1999
+      note: Trade Minister 1991-93 (Mitterrand); Finance Minister 1997-99 (Jospin)
+    - org: le-siecle
+      role: member
+    relations:
+    - person: francois-villeroy-de-galhau
+      type: patron
+      note: Villeroy was DSK Chief of Staff at Finance Ministry
   donald-mackenzie:
     nationality: GBR
     affiliations:
@@ -2171,6 +2397,11 @@ persons:
     born: 1934
     nationality: FRA
     affiliations:
+    - org: governo-francia
+      role: minister
+      from: 1991
+      to: 1992
+      note: Primo Ministro - Prima donna PM Francia
     - org: commissione-ue
       role: executive
       from: 1995
@@ -2181,6 +2412,43 @@ persons:
     died: 1935
     nationality: Italia
     family: agnelli-elkann
+  edouard-de-rothschild:
+    born: 1957
+    nationality: FRA
+    family: rothschild
+    affiliations:
+    - org: rothschild-cie
+      role: partner
+      from: 1987
+      note: Co-fondatore, fratellastro di David
+    - org: le-siecle
+      role: member
+  edouard-michelin-jr:
+    born: 1963
+    died: 2006
+    nationality: FRA
+    family: michelin
+    affiliations:
+    - org: michelin
+      role: executive
+      from: 1999
+      to: 2006
+      note: CEO; morto in incidente nautico
+  edouard-philippe:
+    born: 1970
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2017
+      to: 2020
+      note: Primo Ministro
+    - org: le-siecle
+      role: member
+    - org: french-american-foundation
+      role: ygl
+      from: 2011
+      note: Young Leader 2011, Prime Minister
   edward-snowden:
     born: 1983
     nationality: USA
@@ -2215,6 +2483,13 @@ persons:
       role: member
       from: 2013
       note: WikiLeaks helped with asylum, escape from Hong Kong
+  edward-wallace:
+    nationality: USA
+    affiliations:
+    - org: french-american-foundation
+      role: chairman
+      from: 2023
+      note: Chair Board of Directors
   egon-durban:
     nationality: USA
     affiliations:
@@ -2279,6 +2554,15 @@ persons:
     - org: dupont
       role: founder
       from: 1802
+  elisabeth-borne:
+    born: 1961
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2022
+      to: 2024
+      note: Primo Ministro
   elisabeth-murdoch:
     born: 1968
     nationality: USA
@@ -2388,9 +2672,14 @@ persons:
       role: leader
       from: 2017
     - org: rothschild-cie
-      role: employee
+      role: partner
       from: 2008
       to: 2012
+      note: Associate 2008, Managing Director 2010, Deal Nestlé-Pfizer €9.2B
+    - org: french-american-foundation
+      role: ygl
+      from: 2012
+      note: Young Leader 2012, President of France
   enrico-letta:
     born: 1966
     nationality: ITA
@@ -2433,6 +2722,25 @@ persons:
       role: official
       from: 2002
       to: 2005
+  eric-de-rothschild:
+    born: 1940
+    nationality: FRA
+    family: rothschild
+    affiliations:
+    - org: rothschild-cie
+      role: partner
+      from: 1987
+      note: Co-fondatore, cugino di David
+    - org: rothschild-co
+      role: board
+      note: Vice-Chairman Supervisory Board
+  eric-garcetti:
+    born: 1971
+    nationality: USA
+    affiliations:
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader, Mayor LA, Ambassador India
   eric-roll:
     born: 1907
     died: 2005
@@ -2445,6 +2753,16 @@ persons:
     - org: kissinger-associates
       role: advisor
       from: 1984
+  eric-trappier:
+    nationality: FRA
+    affiliations:
+    - org: dassault-group
+      role: executive
+      from: 2025
+      note: CEO post-famiglia
+    - org: dassault-aviation
+      role: chairman
+      note: Chairman & CEO
   eric-warburg:
     born: 1900
     died: 1990
@@ -2549,6 +2867,15 @@ persons:
       role: executive
       from: 1949
       to: 1962
+  eugene-schueller:
+    born: 1881
+    died: 1957
+    nationality: FRA
+    affiliations:
+    - org: loreal
+      role: founder
+      from: 1909
+      to: 1957
   eva-maydell:
     born: 1986
     nationality: BGR
@@ -2565,6 +2892,16 @@ persons:
     died: 2022
     nationality: UK
     family: rothschild
+  ezra-suleiman:
+    born: 1941
+    died: 2021
+    nationality: USA
+    affiliations:
+    - org: french-american-foundation
+      role: chairman
+      from: 1981
+      to: 2000
+      note: Young Leaders program founder and president
   fabio-panetta:
     born: 1959
     nationality: ITA
@@ -2678,6 +3015,22 @@ persons:
     - person: benito-mussolini
       type: associate
       note: Segretario fratello Arnaldo, accusò Mussolini come mandante Matteotti
+  fleur-pellerin:
+    born: 1973
+    nationality: FRA
+    affiliations:
+    - org: french-american-foundation
+      role: ygl
+      from: 2012
+      note: Young Leader 2012, Minister Culture
+  florent-menegaux:
+    born: 1963
+    nationality: FRA
+    affiliations:
+    - org: michelin
+      role: executive
+      from: 2019
+      note: CEO; Managing General Partner
   frances-haugen:
     born: 1983
     nationality: USA
@@ -2735,6 +3088,75 @@ persons:
       role: executive
       from: 1970
       to: 1972
+  francois-bayrou:
+    born: 1951
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2024
+      note: Primo Ministro
+  francois-fillon:
+    born: 1954
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2007
+      to: 2012
+      note: Primo Ministro (Sarkozy)
+  francois-henrot:
+    nationality: FRA
+    affiliations:
+    - org: rothschild-co
+      role: partner
+      note: Senior partner, right-hand of David de Rothschild
+  francois-hollande:
+    born: 1954
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: leader
+      from: 2012
+      to: 2017
+      note: Presidente
+    - org: governo-francia
+      role: legislator
+      from: 2024
+      note: Deputato Correeze (New Popular Front)
+    - org: governo-francia
+      role: legislator
+      from: 1988
+      to: 1993
+      note: Deputato Correeze
+    - org: governo-francia
+      role: legislator
+      from: 1997
+      to: 2012
+      note: Deputato Correeze; Primo Segretario PS 1997-2008
+    - org: french-american-foundation
+      role: ygl
+      from: 1996
+      note: Young Leader 1996, President of France
+    - org: club-de-madrid
+      role: member
+      from: 2019
+      note: Ex-President member
+    relations:
+    - person: segolene-royal
+      type: partner
+      note: '4 figli: Thomas, Clemence, Julien, Flora'
+  francois-michelin:
+    born: 1926
+    died: 2015
+    nationality: FRA
+    family: michelin
+    affiliations:
+    - org: michelin
+      role: executive
+      from: 1955
+      to: 1999
+      note: Gerant; 44 anni di leadership
   francois-mitterrand:
     born: 1916
     died: 1996
@@ -2744,6 +3166,74 @@ persons:
       role: leader
       from: 1981
       to: 1995
+    - org: le-siecle
+      role: member
+      note: Close associate of founder Bérard-Quélin
+    relations:
+    - person: andre-bettencourt
+      type: political ally
+      note: Testified for Schueller 1946, both ex-Vichy
+    - person: jacques-attali
+      type: patron
+      note: Attali was Special Counselor to Mitterrand at Élysée
+  francois-perol:
+    born: 1963
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: advisor
+      from: 2007
+      to: 2009
+      note: Deputy Secretary General Eliseo (Sarkozy), economic issues
+    - org: rothschild-cie
+      role: partner
+      from: 2005
+      to: 2007
+      note: General Partner, advisor fusione Natixis
+    - org: rothschild-co
+      role: partner
+      from: 2017
+      note: Managing Partner, Co-Chairman Group Partners, Wealth & Asset Management
+    - org: bpce
+      role: chairman
+      from: 2009
+      to: 2018
+      note: Chairman Management Board
+  francois-pinault:
+    born: 1936
+    nationality: FRA
+    affiliations:
+    - org: kering
+      role: founder
+      from: 1963
+      note: Fondatore Pinault Group, poi PPR, ora Kering
+  francois-villeroy-de-galhau:
+    born: 1959
+    nationality: FRA
+    note: ENA, IGF. Famiglia Villeroy & Boch (ceramica). Parla tedesco fluente
+    affiliations:
+    - org: bce
+      role: board
+      from: 2015
+      note: Governing Council (ex officio come Gov. BdF)
+    - org: bis
+      role: chairman
+      from: 2022
+      note: Chair Board of Directors
+    - org: governo-francia
+      role: advisor
+      from: 1988
+      to: 2003
+      note: Tesoro 1988-97, Chief of Staff Min. Economia (DSK, Sautter) 1997-2000, DG Fiscale 2000-03
+    - org: banque-de-france
+      role: executive
+      from: 2015
+      note: Governatore, rinominato 2021
+    - org: bnp-paribas
+      role: executive
+      from: 2003
+      to: 2015
+      note: CEO Cetelem 2003, Retail France 2008, COO 2011-15
   francois-xavier-ortoli:
     born: 1925
     died: 2007
@@ -2753,6 +3243,15 @@ persons:
       role: executive
       from: 1973
       to: 1977
+  francoise-bettencourt-meyers:
+    born: 1953
+    nationality: FRA
+    affiliations:
+    - org: loreal
+      role: board
+      from: 1997
+      to: 2025
+      note: Vice-Chair 2020-25
   frank-carlucci:
     born: 1930
     died: 2018
@@ -2858,6 +3357,15 @@ persons:
       from: 2009
       to: 2019
       note: Chairman per 10 anni
+  gabriel-attal:
+    born: 1989
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2024
+      to: 2024
+      note: Primo Ministro (gen-set 2024)
   gabriele-cagliari:
     born: 1926
     died: 1993
@@ -3030,6 +3538,16 @@ persons:
       role: president
       from: 2001
       to: 2009
+  georges-pompidou:
+    born: 1911
+    died: 1974
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: leader
+      from: 1969
+      to: 1974
+      note: Presidente
   georgios-papandreou-sr:
     born: 1888
     died: 1968
@@ -3052,6 +3570,19 @@ persons:
       from: 1964
       to: 1965
       note: PM, dimesso da re Costantino
+  gerald-ford:
+    born: 1913
+    died: 2006
+    nationality: USA
+  gerard-pelisson:
+    born: 1932
+    died: 2023
+    nationality: FRA
+    affiliations:
+    - org: accor
+      role: founder
+      from: 1967
+      note: Co-fondatore con Dubrule
   gerhard-schroder:
     born: 1944
     nationality: DEU
@@ -3269,6 +3800,18 @@ persons:
       role: minister
       from: 1989
       to: 1992
+  guillaume-faury:
+    born: 1968
+    nationality: FRA
+    affiliations:
+    - org: axa
+      role: board
+      from: 2021
+      note: Board member
+    - org: airbus
+      role: executive
+      from: 2019
+      note: CEO
   hamad-bin-thamer:
     nationality: QAT
     family: al-thani
@@ -3397,7 +3940,9 @@ persons:
     affiliations:
     - org: bilderberg
       role: steering
-      note: Steering Committee
+      from: 2012
+      to: 2019
+      note: Chairman Steering Committee
     - org: stellantis
       role: board
       from: 2021
@@ -3407,6 +3952,16 @@ persons:
       from: 2000
       to: 2016
       note: CEO
+    - org: institut-montaigne
+      role: chairman
+      from: 2015
+      note: Chairman Institut Montaigne
+    - org: nestle
+      role: board
+      note: Vice Chairman
+    - org: general-atlantic
+      role: chairman
+      note: Special Advisor and Chairman for Europe
   henry-dupont:
     born: 1812
     died: 1889
@@ -3552,6 +4107,10 @@ persons:
       role: minister
       from: 2009
       to: 2013
+    - org: french-american-foundation
+      role: ygl
+      from: 1984
+      note: Young Leader 1984
   ho-ching:
     born: 1953
     nationality: SGP
@@ -3798,6 +4357,67 @@ persons:
     died: 1980
     nationality: SWE
     family: wallenberg
+  jacques-attali:
+    born: 1943
+    nationality: FRA
+    note: Economista, scrittore, consigliere Mitterrand. Gemello di Bernard Attali. Mentore di Macron e Hollande
+    affiliations:
+    - org: wef
+      role: member
+      note: Partecipante Davos
+    - org: governo-francia
+      role: advisor
+      from: 1981
+      to: 1991
+      note: Consigliere speciale Pres. Mitterrand, Sherpa G7
+    - org: ebrd
+      role: founder
+      from: 1991
+      to: 1993
+      note: Fondatore e primo Presidente
+    relations:
+    - person: emmanuel-macron
+      type: mentor
+      note: Lo inserì nella Commissione Attali 2007, lo introdusse a Rothschild e Hollande
+  jacques-chirac:
+    born: 1932
+    died: 2019
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: leader
+      from: 1995
+      to: 2007
+      note: Presidente
+    - org: governo-francia
+      role: minister
+      from: 1974
+      to: 1976
+      note: Primo Ministro (Giscard)
+    - org: governo-francia
+      role: minister
+      from: 1986
+      to: 1988
+      note: Primo Ministro (cohabitation Mitterrand)
+    - org: governo-francia
+      role: executive
+      from: 1977
+      to: 1995
+      note: Sindaco di Parigi
+    - org: governo-francia
+      role: minister
+      from: 1972
+      to: 1974
+      note: Min. Agricoltura (Pompidou)
+    - org: governo-francia
+      role: legislator
+      from: 1967
+      to: 1995
+      note: Deputato Correeze
+    relations:
+    - person: bernadette-chirac
+      type: spouse
+      note: 'Figlie: Laurence, Claude'
   jacques-delors:
     born: 1925
     died: 2023
@@ -3903,6 +4523,13 @@ persons:
       from: 2007
       to: 2009
       note: Chairman 2007-09, 2017-18; Executive Chairman Emeritus
+  james-lowenstein:
+    nationality: USA
+    affiliations:
+    - org: french-american-foundation
+      role: founder
+      from: 1976
+      note: Ambassador, co-founder
   james-mayer-rothschild:
     born: 1792
     died: 1868
@@ -4034,6 +4661,15 @@ persons:
       role: executive
       from: 2021
       note: Director Louis Vuitton Watches
+  jean-castex:
+    born: 1965
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2020
+      to: 2022
+      note: Primo Ministro
   jean-claude-juncker:
     born: 1954
     nationality: LUX
@@ -4073,6 +4709,25 @@ persons:
       from: 2003
       to: 2011
       note: Presidente BCE
+  jean-dominique-senard:
+    born: 1953
+    nationality: FRA
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Participant 2012, 2013
+    - org: renault
+      role: chairman
+      from: 2019
+      note: Chairman; post-Ghosn
+    - org: institut-montaigne
+      role: member
+      note: Vice President, Board of Directors
+    - org: michelin
+      role: executive
+      from: 2012
+      to: 2019
+      note: CEO; primo non-famiglia
   jean-eric-salata:
     nationality: USA
     affiliations:
@@ -4080,6 +4735,57 @@ persons:
       role: chairman
       from: 2022
       note: Chair EQT Asia, Chairman dal 2026 (founder Baring PE Asia)
+  jean-jacques-morin:
+    nationality: FRA
+    affiliations:
+    - org: accor
+      role: executive
+      from: 2015
+      note: Deputy CEO; CFO
+  jean-laurent-bonnafe:
+    born: 1961
+    nationality: FRA
+    affiliations:
+    - org: bnp-paribas
+      role: executive
+      from: 2011
+      note: CEO
+  jean-lemierre:
+    born: 1950
+    nationality: FRA
+    affiliations:
+    - org: bnp-paribas
+      role: chairman
+      from: 2014
+      note: Chairman Board of Directors
+    - org: ebrd
+      role: executive
+      from: 2000
+      to: 2008
+      note: President EBRD
+  jean-marc-ayrault:
+    born: 1950
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2012
+      to: 2014
+      note: Primo Ministro
+  jean-michel-blanquer:
+    born: 1964
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2017
+      to: 2022
+      note: Minister of National Education (Macron)
+    - org: institut-montaigne
+      role: member
+      note: Former member
+  jean-michel-darrois:
+    nationality: FRA
   jean-monnet:
     born: 1888
     died: 1979
@@ -4088,6 +4794,41 @@ persons:
     - org: unione-europea
       role: founder
       note: Architetto integrazione europea, primo presidente Alta Autorita CECA
+  jean-paul-agon:
+    born: 1956
+    nationality: FRA
+    affiliations:
+    - org: loreal
+      role: chairman
+      from: 2011
+      note: CEO 2006-2021, Chairman 2011-
+    - org: hec-paris
+      role: chairman
+      from: 2022
+      note: Chairman Board
+  jean-pierre-clamadieu:
+    born: 1958
+    nationality: FRA
+    affiliations:
+    - org: airbus
+      role: board
+      note: Non-executive director
+  jean-pierre-meyers:
+    born: 1948
+    nationality: FRA
+    relations:
+    - person: robert-meyers
+      type: grandson
+      note: Paternal grandfather
+  jean-pierre-raffarin:
+    born: 1948
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2002
+      to: 2005
+      note: Primo Ministro (Chirac)
   jean-rey:
     born: 1902
     died: 1983
@@ -4097,6 +4838,14 @@ persons:
       role: executive
       from: 1967
       to: 1970
+  jean-victor-meyers:
+    born: 1986
+    nationality: FRA
+    affiliations:
+    - org: loreal
+      role: board
+      from: 2018
+      note: Vice-Chair from Apr 2025
   jeb-bush:
     born: 1953
     nationality: USA
@@ -4363,6 +5112,23 @@ persons:
       to: 2017
     - org: kissinger-associates
       role: advisor
+  john-browne:
+    born: 1948
+    nationality: GBR
+    affiliations:
+    - org: bp
+      role: executive
+      from: 1995
+      to: 2007
+      note: CEO; joined 1966
+    - org: general-atlantic
+      role: executive
+      from: 2021
+      note: Managing Director; Chairman BeyondNetZero
+    - org: beyondnetzero
+      role: chairman
+      from: 2021
+      note: Co-Founder and Chairman
   john-connally:
     born: 1917
     died: 1993
@@ -5254,6 +6020,23 @@ persons:
     - org: fox-corporation
       role: chairman-ceo
       from: 2019
+  lance-uggla:
+    born: 1962
+    nationality: CAN
+    affiliations:
+    - org: general-atlantic
+      role: executive
+      from: 2021
+      note: Vice Chairman
+    - org: beyondnetzero
+      role: executive
+      from: 2021
+      note: Co-Founder and CEO
+    - org: ihs-markit
+      role: founder
+      from: 2003
+      to: 2022
+      note: Founder Markit 2003; Chairman & CEO IHS Markit 2016-2022
   lapo-elkann:
     born: 1977
     nationality: Italia
@@ -5360,6 +6143,28 @@ persons:
     died: 2004
     nationality: USA
     family: rockefeller
+  laurent-bigorgne:
+    born: 1973
+    nationality: FRA
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2015
+      note: Participant 2015
+    - org: institut-montaigne
+      role: executive
+      from: 2011
+      note: Director General
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader, Institut Montaigne Director
+    relations:
+    - person: emmanuel-macron
+      type: supporter
+      note: Longtime friend; En Marche used his house as contact address; worked on Macron program
+  laurent-dassault:
+    nationality: FRA
+    family: dassault
   laurent-kabila:
     born: 1939
     died: 2001
@@ -5371,6 +6176,20 @@ persons:
       from: 1997
       to: 2001
       note: Presidente
+  laurent-mignon:
+    born: 1963
+    nationality: FRA
+    affiliations:
+    - org: bpce
+      role: chairman
+      from: 2018
+      to: 2022
+      note: Chairman Management Board, succede a Pérol
+    - org: natixis
+      role: executive
+      from: 2009
+      to: 2018
+      note: CEO Natixis
   lawrence-eagleburger:
     born: 1930
     died: 2011
@@ -5596,6 +6415,25 @@ persons:
       from: 1970
       to: 1981
       note: Venerable Master
+  liliane-bettencourt:
+    born: 1922
+    died: 2017
+    nationality: FRA
+    affiliations:
+    - org: loreal
+      role: owner
+      from: 1957
+      to: 2017
+      note: Controlling shareholder
+  lionel-jospin:
+    born: 1937
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 1997
+      to: 2002
+      note: Primo Ministro (cohabitation Chirac)
   lionel-rothschild:
     born: 1808
     died: 1879
@@ -5640,6 +6478,15 @@ persons:
       role: founder
       from: 2011
       note: Founding Managing Partner, ex-Ping An, now Singapore
+  louis-gallois:
+    born: 1944
+    nationality: FRA
+    affiliations:
+    - org: airbus
+      role: executive
+      from: 2006
+      to: 2012
+      note: Co-CEO EADS 2007-2012
   lucas-papademos:
     born: 1947
     nationality: GRC
@@ -5830,6 +6677,22 @@ persons:
     - org: pldt
       role: executive
       note: President & CEO
+  manuel-valls:
+    born: 1962
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2014
+      to: 2016
+      note: Primo Ministro
+  marc-olivier-laurent:
+    nationality: FRA
+    affiliations:
+    - org: rothschild-co
+      role: chairman
+      from: 2023
+      note: Chairman Supervisory Board
   marc-rowan:
     born: 1962
     nationality: USA
@@ -5838,6 +6701,16 @@ persons:
       role: founder
       from: 1990
       note: Co-Founder, CEO (2021), Chairman
+  marcel-dassault:
+    born: 1892
+    died: 1986
+    nationality: FRA
+    family: dassault
+    note: Nato Marcel Bloch. Sopravvissuto Buchenwald. Fondatore impero aeronautico
+    affiliations:
+    - org: dassault-group
+      role: founder
+      from: 1929
   marcelo-claure:
     nationality: BOL
     affiliations:
@@ -6340,6 +7213,15 @@ persons:
       from: 2014
       to: 2018
       note: Commander
+  michel-barnier:
+    born: 1951
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2024
+      to: 2024
+      note: Primo Ministro (set-dic 2024)
   michel-demare:
     nationality: Swiss
     note: ex-UBS Deputy Chair, ex-Syngenta Chair
@@ -6347,6 +7229,26 @@ persons:
     - org: astrazeneca
       role: chairman
       from: 2023
+  michel-pebereau:
+    born: 1942
+    nationality: FRA
+    affiliations:
+    - org: bnp-paribas
+      role: chairman
+      from: 1993
+      to: 2011
+      note: Chairman, architetto fusione BNP-Paribas 2000
+    - org: le-siecle
+      role: member
+  michel-rollier:
+    born: 1944
+    nationality: FRA
+    affiliations:
+    - org: michelin
+      role: executive
+      from: 2006
+      to: 2012
+      note: CEO; cugino Edouard
   michele-flournoy:
     born: 1960
     nationality: USA
@@ -6631,6 +7533,13 @@ persons:
       from: 1931
       to: 1935
       note: President WZO
+  najat-vallaud-belkacem:
+    born: 1977
+    nationality: FRA
+    affiliations:
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader, Minister Education
   nasser-al-khelaifi:
     born: 1973
     nationality: QAT
@@ -6722,6 +7631,13 @@ persons:
       role: vice-president
       from: 1974
       to: 1977
+  nicholas-wahl:
+    nationality: USA
+    affiliations:
+    - org: french-american-foundation
+      role: founder
+      from: 1976
+      note: Princeton scholar, co-founder
   nick-carter:
     born: 1959
     nationality: GBR
@@ -6781,6 +7697,35 @@ persons:
       role: executive
       from: 2005
       to: 2020
+  nicolas-hieronimus:
+    born: 1964
+    nationality: FRA
+    affiliations:
+    - org: loreal
+      role: executive
+      from: 2021
+      note: CEO
+  nicolas-meyers:
+    born: 1988
+    nationality: FRA
+  nicolas-namias:
+    born: 1980
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: advisor
+      from: 2012
+      to: 2014
+      note: Consigliere PM per economia, imprese, affari internazionali
+    - org: bpce
+      role: chairman
+      from: 2022
+      note: Chairman Management Board & CEO, succede a Mignon
+    - org: natixis
+      role: executive
+      from: 2020
+      to: 2022
+      note: CEO Natixis
   nicolas-sarkozy:
     born: 1955
     nationality: FRA
@@ -6793,6 +7738,45 @@ persons:
       role: leader
       from: 2007
       to: 2012
+    - org: governo-francia
+      role: minister
+      from: 2002
+      to: 2004
+      note: Min. Interno (Chirac/Raffarin)
+    - org: governo-francia
+      role: minister
+      from: 2004
+      to: 2004
+      note: Min. Economia (Chirac/Raffarin)
+    - org: governo-francia
+      role: minister
+      from: 2005
+      to: 2007
+      note: Min. Interno (Chirac/Villepin)
+    - org: qia
+      role: advisor
+      from: 2012
+      to: 2014
+      note: Planned PE venture (250M EUR commitment); abandoned for political comeback
+    - org: le-siecle
+      role: member
+    relations:
+    - person: carla-bruni
+      type: spouse
+      note: Figlia Giulia (2011)
+    - person: cecilia-attias
+      type: ex-spouse
+  nigel-higgins:
+    nationality: GBR
+    affiliations:
+    - org: rothschild-cie
+      role: executive
+      from: 2010
+      note: Primo CEO non-famiglia
+    - org: rothschild-co
+      role: executive
+      from: 2019
+      note: Executive Chairman (primo non-famiglia)
   nikos-christodoulides:
     born: 1973
     nationality: CYP
@@ -6951,6 +7935,18 @@ persons:
       role: executive
       from: 2019
       note: Chairman of the Board of Management (CEO)
+  olivier-dassault:
+    born: 1951
+    died: 2021
+    nationality: FRA
+    family: dassault
+    note: Deputato. Morto incidente elicottero
+    affiliations:
+    - org: governo-francia
+      role: legislator
+      from: 1988
+      to: 2021
+      note: Deputato UMP/LR
   omri-lavie:
     nationality: ISR
     note: NSO Group co-founder, Unit 8200 veteran
@@ -7131,6 +8127,14 @@ persons:
     affiliations:
     - org: kissinger-associates
       role: advisor
+  paul-dubrule:
+    born: 1934
+    nationality: FRA
+    affiliations:
+    - org: accor
+      role: founder
+      from: 1967
+      note: Co-fondatore con Pelisson
   paul-henri-spaak:
     born: 1899
     died: 1972
@@ -7448,6 +8452,18 @@ persons:
       role: board
       from: 2023
       note: Executive Board - Payments
+  pierre-moscovici:
+    born: 1957
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2012
+      to: 2014
+      note: Min. Economia e Finanze
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader, EU Commissioner
   pierre-s-dupont:
     born: 1870
     died: 1954
@@ -7549,6 +8565,15 @@ persons:
     born: 1958
     nationality: Australia
     family: murdoch
+  rachida-dati:
+    born: 1965
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2007
+      to: 2009
+      note: Min. Giustizia
   radhika-roy:
     nationality: IND
     note: NDTV co-founder. Sister Brinda Karat (CPIM). Ex-Indian Express, India Today
@@ -7765,6 +8790,39 @@ persons:
     - org: bertelsmann-stiftung
       role: founder
       from: 1977
+  rene-obermann:
+    born: 1963
+    nationality: DEU
+    affiliations:
+    - org: warburg-pincus
+      role: chairman
+      from: 2015
+      note: Chairman Warburg Pincus Europe
+    - org: telenor
+      role: board
+      from: 2018
+      to: 2019
+      note: Board of Directors
+    - org: allianz
+      role: board
+      from: 2017
+      to: 2020
+      note: Supervisory Board Allianz Deutschland
+    - org: airbus
+      role: chairman
+      from: 2020
+      note: Chairman Board of Directors
+    - org: deutsche-telekom
+      role: executive
+      from: 2006
+      to: 2013
+      note: CEO
+    - org: spotify
+      role: board
+      note: Ex-Director
+    - org: eon
+      role: board
+      note: Ex-Director
   riccardo-gallo:
     born: 1937
     nationality: ITA
@@ -7939,6 +8997,12 @@ persons:
     - org: atlantic-council
       role: board
       note: Honorary Director
+  robert-leitao:
+    nationality: GBR
+    affiliations:
+    - org: rothschild-co
+      role: partner
+      note: Managing Partner, Co-Chairman Group Partners, Global Advisory
   robert-mcnamara:
     born: 1916
     died: 2009
@@ -7966,6 +9030,11 @@ persons:
       from: 2013
       to: 2018
       note: Principal backer/investor
+  robert-meyers:
+    born: 1898
+    died: 1943
+    nationality: FRA
+    note: Rabbi Neuilly. Murdered Auschwitz. Saved 700 Jews. Grandfather Jean-Pierre Meyers
   robert-oleary:
     nationality: USA
     note: Co-CEO Oaktree (2024-). Global Opportunities strategy PM.
@@ -8010,6 +9079,13 @@ persons:
     - org: unione-europea
       role: founder
       note: Dichiarazione Schuman 9 maggio 1950, Min Esteri Francia
+  robert-zoellick:
+    born: 1953
+    nationality: USA
+    affiliations:
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader, World Bank President
   roberto-irineu-marinho:
     born: 1947
     nationality: BRA
@@ -8345,6 +9421,93 @@ persons:
       role: leader
       from: 2017
       to: 2021
+  sebastien-bazin:
+    born: 1961
+    nationality: FRA
+    affiliations:
+    - org: psg
+      role: chairman
+      from: 2009
+      to: 2011
+      note: President; vendita a QSI
+    - org: accor
+      role: chairman
+      from: 2013
+      note: Chairman & CEO
+    - org: ge-aerospace
+      role: board
+      from: 2016
+      note: Board member; GE poi GE Aerospace (2024)
+    - org: colony-capital
+      role: executive
+      from: 1997
+      to: 2013
+      note: CEO Europe; Managing Director
+  segolene-royal:
+    born: 1953
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 2014
+      to: 2017
+      note: Min. Ecologia, Energia
+  serge-dassault:
+    born: 1925
+    died: 2018
+    nationality: FRA
+    family: dassault
+    note: CEO Dassault Group 1987-2018. Senatore. Sindaco Corbeil-Essonnes
+    affiliations:
+    - org: governo-francia
+      role: legislator
+      from: 2004
+      to: 2018
+      note: Senatore UMP
+    - org: dassault-group
+      role: chairman
+      from: 1987
+      to: 2018
+    - org: dassault-aviation
+      role: chairman
+      from: 1987
+      to: 2018
+    - org: le-figaro
+      role: owner
+      from: 2004
+      to: 2018
+  serge-weinberg:
+    born: 1951
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: advisor
+      from: 1981
+      to: 1982
+      note: Chief of Staff to Budget Minister Laurent Fabius
+    - org: trilateral-commission
+      role: member
+      from: 1998
+      to: 2008
+    - org: sanofi
+      role: chairman
+      from: 2010
+      to: 2022
+      note: Chairman of the Board; interim CEO Oct 2014 - Apr 2015
+    - org: accor
+      role: chairman
+      from: 2006
+      to: 2009
+      note: Non-Executive Chairman
+    - org: kering
+      role: chairman
+      from: 1995
+      to: 2005
+      note: Chairman Management Board PPR; orchestrated luxury pivot with Pinault
+    relations:
+    - person: emmanuel-macron
+      type: sponsor
+      note: Met at Attali Commission; introduced Macron to Rothschild 2008
   sergey-brin:
     born: 1973
     nationality: USA
@@ -9006,6 +10169,17 @@ persons:
     - org: georgetown-university
       role: board
       note: Board of Regents; alumnus cum laude
+  thierry-dassault:
+    born: 1957
+    nationality: FRA
+    family: dassault
+  thierry-de-montbrial:
+    born: 1943
+    nationality: FRA
+    affiliations:
+    - org: french-american-foundation
+      role: founder
+      from: 1976
   thomas-bach:
     born: 1953
     nationality: DEU
@@ -9015,6 +10189,24 @@ persons:
       from: 2013
       to: 2025
       note: President (Honorary President for Life post-2025)
+  thomas-buberl:
+    born: 1973
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: board
+      from: 2008
+      note: Young Global Leader 2008; Board of Trustees 2020-
+    - org: bertelsmann
+      role: board
+      note: Supervisory Board BVG
+    - org: axa
+      role: executive
+      from: 2016
+      note: CEO
+    - org: ibm
+      role: board
+      note: Director
   thomas-coesfeld:
     born: 1979
     nationality: DEU
@@ -9077,6 +10269,13 @@ persons:
       from: 1911
       to: 1948
       note: Partner 1911, Chairman 1943-1948
+  thomas-pesquet:
+    born: 1978
+    nationality: FRA
+    affiliations:
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader, ESA Astronaut
   thomas-pritzker:
     born: 1950
     nationality: USA
@@ -9183,6 +10382,48 @@ persons:
       role: chairman
       from: 2022
       note: Co-owner ~12.7% via BlueCo, Chairman fino 2027
+  tom-enders:
+    born: 1958
+    nationality: DEU
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee member
+    - org: governo-germania
+      role: advisor
+      from: 1989
+      to: 1991
+      note: Planning Staff, Federal Ministry of Defence
+    - org: atlantik-brucke
+      role: chairman
+      from: 2005
+      to: 2009
+    - org: lufthansa
+      role: board
+      from: 2020
+      note: Supervisory Board; Presidium and Nomination Committee
+    - org: munich-security-conference
+      role: advisor
+      from: 2014
+      note: Advisory Council member
+    - org: airbus
+      role: executive
+      from: 2012
+      to: 2019
+      note: CEO; CEO Airbus SAS 2007-2012; Co-CEO EADS 2005-2007
+    - org: dgap
+      role: chairman
+      from: 2019
+      note: President
+    - org: iiss
+      role: advisor
+      note: Advisory Council member
+    - org: linde
+      role: board
+      note: Board member
+    - org: ge-aerospace
+      role: board
+      note: Board member
   tony-blair:
     born: 1953
     nationality: GBR
@@ -9290,6 +10531,16 @@ persons:
       role: shareholder
       from: 2018
       note: Largest shareholder (transferred from CPB)
+  valery-giscard-destaing:
+    born: 1926
+    died: 2020
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: leader
+      from: 1974
+      to: 1981
+      note: Presidente
   vas-narasimhan:
     born: 1976
     nationality: USA
@@ -9322,6 +10573,13 @@ persons:
     - org: lazard
       role: advisor
       from: 2000
+  veronique-morali:
+    nationality: FRA
+    affiliations:
+    - org: le-siecle
+      role: chairman
+      from: 2024
+      note: First chairperson starting January 1, 2024
   victor-hartono:
     born: 1972
     nationality: IDN
@@ -9456,6 +10714,9 @@ persons:
     - org: atlantic-council
       role: board
       note: Board member
+    - org: french-american-foundation
+      role: ygl
+      note: Young Leader
   william-binney:
     born: 1943
     nationality: USA
@@ -9536,6 +10797,19 @@ persons:
       from: 1942
       to: 1945
       note: Direttore OSS
+  william-ford:
+    born: 1961
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: member
+    - org: blackrock
+      role: board
+      note: Director
+    - org: general-atlantic
+      role: executive
+      from: 1991
+      note: Joined 1991; CEO 2007; Chairman 2021
   william-soeryadjaya:
     born: 1922
     died: 2010
@@ -9631,6 +10905,9 @@ persons:
       from: 2002
       to: 2028
       note: Lead owner 2002-2025, Governor until 2028
+  xavier-fontanet:
+    born: 1948
+    nationality: FRA
   xavier-niel:
     born: 1967
     nationality: Francia

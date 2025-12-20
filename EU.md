@@ -4,7 +4,6 @@
   | Difesa/Armi  | BAE £43B+, Rafale €18B, paradosso UK (armi ok, media no) |
   | Lobbying/PR  | $100M+ spesa, Brunswick, Akin Gump, Qatargate            |
   | Francia      | €25B oltre PSG: LVMH, Champs-Élysées, Accor              |
-  | Germania     | €30B: VW 17%, Siemens 4%, Deutsche Bank, Hapag-Lloyd     |
   | Spagna       | Costa del Sol +143%, Girona, Masdar €2B solar/wind       |
   | Masdar       | 51GW capacità, Saeta, Terna, Baltic Eagle, Dogger Bank   |
   | Università   | £750M+ donazioni: Oxford, LSE, Cambridge, Exeter         |

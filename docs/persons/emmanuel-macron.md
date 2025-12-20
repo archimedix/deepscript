@@ -221,15 +221,15 @@
 
 | Entita' | Connessione |
 |---------|-------------|
-| [Young Global Leaders](../istituzioni/young-global-leaders.md) | YGL 2016 |
-| [WEF](../istituzioni/wef.md) | Keynote speaker Davos |
-| [Bilderberg](../istituzioni/bilderberg-trilaterale.md) | Partecipante 2014 |
+| [Young Global Leaders](../forum/young-global-leaders.md) | YGL 2016 |
+| [WEF](../forum/wef.md) | Keynote speaker Davos |
+| [Bilderberg](../forum/bilderberg.md) | Partecipante 2014 |
 
 ### Famiglie
 
 | Famiglia | Connessione |
 |----------|-------------|
-| [Rothschild](../family/rothschild.md) | Ex-banchiere Rothschild & Cie (2008-2012) |
+| [Rothschild](../family/rothschild.md) | Ex-banchiere [Rothschild & Cie](../bank/rothschild-cie.md) (2008-2012) |
 
 ### Persone
 
