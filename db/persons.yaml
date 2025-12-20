@@ -1390,6 +1390,40 @@ persons:
       role: leader
       from: 1979
       to: 1993
+  carlos-ghosn:
+    born: 1954
+    nationality: FRA
+    note: Triple citizen (FRA/BRA/LBN). Cost killer, saved Nissan. CEO Renault+Nissan simultaneously - first to run two Fortune
+      500 companies at once. Arrested Tokyo Nov 2018, escaped to Lebanon Dec 2019.
+    affiliations:
+    - org: wef
+      role: board
+      note: Board of Trustees member. Advocate for sustainable transportation and zero-emission vehicles.
+    - org: renault
+      role: ceo
+      from: 2005
+      to: 2019
+      note: Also CEO Nissan 2000-2017. Arrested Nov 2018, dismissed Jan 2019.
+    - org: michelin
+      role: executive
+      from: 1978
+      to: 1996
+      note: Started 1978. CEO Michelin North America 1989-1996. Led Uniroyal Goodrich acquisition 1990.
+    - org: nissan
+      role: ceo
+      from: 2000
+      to: 2018
+      note: COO 1999. Saved Nissan from bankruptcy. Arrested Tokyo Nov 2018.
+    - org: mitsubishi-motors
+      role: chairman
+      from: 2016
+      to: 2018
+      note: Chairman after Nissan acquired controlling stake. Removed Nov 2018 after arrest.
+    - org: avtovaz
+      role: chairman
+      from: 2013
+      to: 2016
+      note: Chairman of Russia largest automaker (LADA brand).
   carlos-tavares:
     born: 1958
     nationality: PRT
@@ -1400,6 +1434,16 @@ persons:
       from: 2021
       to: 2024
       note: Resigned December 2024
+    - org: renault
+      role: executive
+      from: 1981
+      to: 2013
+      note: COO 2011-13. Left after being blocked by Ghosn for CEO role.
+    - org: psa-group
+      role: ceo
+      from: 2014
+      to: 2021
+      note: 'Turnaround: saved PSA from bankruptcy, acquired Opel 2017'
   carsten-spohr:
     born: 1966
     nationality: DEU
@@ -6487,6 +6531,28 @@ persons:
       from: 2006
       to: 2012
       note: Co-CEO EADS 2007-2012
+  louis-schweitzer:
+    born: 1942
+    died: 2024
+    nationality: FRA
+    note: ENA. Son of IMF MD Pierre-Paul Schweitzer. Privatized Renault 1996, created Nissan alliance 1999. HALDE President
+      2005-10.
+    affiliations:
+    - org: renault
+      role: ceo
+      from: 1992
+      to: 2005
+      note: Privatized 1996, created Nissan alliance 1999
+  luca-de-meo:
+    born: 1967
+    nationality: ITA
+    note: CEO Renault 2020-2025 (turnaround from €8B loss). Renaulution strategy. Left for Kering CEO Sept 2025.
+    affiliations:
+    - org: renault
+      role: ceo
+      from: 2020
+      to: 2025
+      note: 'Turnaround: Renaulution strategy. Left for Kering CEO.'
   lucas-papademos:
     born: 1947
     nationality: GRC
@@ -9047,11 +9113,20 @@ persons:
     born: 1950
     nationality: FRA
     family: peugeot
-    note: Chair Peugeot Invest. Board Stellantis. 6th generation Peugeot.
+    note: Chairman Peugeot Invest (2002-). Board Stellantis. Great-grandson of PSA founder.
     affiliations:
     - org: stellantis
       role: board
       from: 2021
+    - org: psa-group
+      role: board
+      from: 2002
+      to: 2021
+      note: Supervisory Board via FFP
+    - org: peugeot-invest
+      role: chairman
+      from: 2002
+      note: Chairman & CEO 2002-2020, Chairman 2020-
   robert-rubin:
     born: 1938
     nationality: USA

@@ -1034,6 +1034,19 @@ organizations:
       to: 2007
     - org: volkswagen
       role: subsidiary
+  avtovaz:
+    name: AVTOVAZ
+    type: automaker
+    founded: 1966
+    headquarters: Tolyatti, Russia
+    status: active
+    note: Russia largest automaker. Owner of LADA brand. Renault-Nissan Alliance partner.
+    stakeholders:
+    - person: carlos-ghosn
+      role: chairman
+      from: 2013
+      to: 2016
+      note: Chairman of Russia largest automaker (LADA brand).
   axa:
     name: AXA
     type: company
@@ -9745,6 +9758,11 @@ organizations:
       role: chairman
       from: 2021
       note: Chair Supervisory Board; membro dal 2008
+    - person: carlos-ghosn
+      role: executive
+      from: 1978
+      to: 1996
+      note: Started 1978. CEO Michelin North America 1989-1996. Led Uniroyal Goodrich acquisition 1990.
   microsoft:
     name: Microsoft
     type: company
@@ -9832,6 +9850,19 @@ organizations:
       note: Co-invest con ADIA, GIC - $800M deal
     - org: telkom-indonesia
       role: parent
+  mitsubishi-motors:
+    name: Mitsubishi Motors Corporation
+    type: automaker
+    founded: 1970
+    headquarters: Tokyo, Japan
+    status: active
+    note: Japanese automaker. Part of Renault-Nissan-Mitsubishi Alliance since 2016.
+    stakeholders:
+    - person: carlos-ghosn
+      role: chairman
+      from: 2016
+      to: 2018
+      note: Chairman after Nissan acquired controlling stake. Removed Nov 2018 after arrest.
   moderna:
     name: Moderna Inc.
     type: pharma
@@ -10336,6 +10367,23 @@ organizations:
     stakeholders:
     - org: yomiuri-shimbun
       share: majority
+  nissan:
+    name: Nissan
+    type: automaker
+    founded: 1933
+    headquarters: Yokohama, Japan
+    status: active
+    note: Alliance with Renault 1999. Ghosn CEO 2000-2018.
+    stakeholders:
+    - person: carlos-ghosn
+      role: ceo
+      from: 2000
+      to: 2018
+      note: COO 1999. Saved Nissan from bankruptcy. Arrested Tokyo Nov 2018.
+    - org: renault
+      share: 15%
+      from: 1999
+      note: Originally 43.4%, reduced to 15% in 2023 rebalancing
   nobel-foundation:
     name: Nobel Foundation
     type: foundation
@@ -11082,6 +11130,18 @@ organizations:
       from: 2004
       to: 2020
       note: Sold to Bangkok Bank
+  peugeot-invest:
+    name: Peugeot Invest
+    type: company
+    founded: 1929
+    headquarters: Paris, France
+    status: active
+    note: Listed holding of Peugeot family. Formerly FFP. 80% owned by EPF (Établissements Peugeot Frères). Renamed 2021.
+    stakeholders:
+    - person: robert-peugeot
+      role: chairman
+      from: 2002
+      note: Chairman & CEO 2002-2020, Chairman 2020-
   pfizer:
     name: Pfizer Inc.
     type: pharma
@@ -11256,6 +11316,25 @@ organizations:
     - org: fip
       role: governance
       from: 2022
+  psa-group:
+    name: PSA Group
+    type: automaker
+    founded: 1976
+    headquarters: Paris, France
+    status: merged
+    note: Formed from Peugeot-Citroën merger 1976. Acquired Chrysler Europe 1978, Opel/Vauxhall 2017. Merged with FCA to form
+      Stellantis Jan 2021.
+    stakeholders:
+    - person: carlos-tavares
+      role: ceo
+      from: 2014
+      to: 2021
+      note: 'Turnaround: saved PSA from bankruptcy, acquired Opel 2017'
+    - person: robert-peugeot
+      role: board
+      from: 2002
+      to: 2021
+      note: Supervisory Board via FFP
   psg:
     name: Paris Saint-Germain
     type: sportsclub
@@ -11575,12 +11654,32 @@ organizations:
     headquarters: Boulogne-Billancourt, France
     status: active
     sector: automotive
-    note: French state owns 15% (30% voting). Alliance with Nissan.
+    note: Nationalized 1945, privatized 1996. French state 15% (22.5% voting). Alliance with Nissan 1999, rebalanced 2023.
     stakeholders:
+    - person: carlos-tavares
+      role: executive
+      from: 1981
+      to: 2013
+      note: COO 2011-13. Left after being blocked by Ghosn for CEO role.
     - person: jean-dominique-senard
       role: chairman
       from: 2019
       note: Chairman; post-Ghosn
+    - person: carlos-ghosn
+      role: ceo
+      from: 2005
+      to: 2019
+      note: Also CEO Nissan 2000-2017. Arrested Nov 2018, dismissed Jan 2019.
+    - person: louis-schweitzer
+      role: ceo
+      from: 1992
+      to: 2005
+      note: Privatized 1996, created Nissan alliance 1999
+    - person: luca-de-meo
+      role: ceo
+      from: 2020
+      to: 2025
+      note: 'Turnaround: Renaulution strategy. Left for Kering CEO.'
     - org: governo-francia
       role: strategic
       share: 15% equity, ~30% voting
@@ -12805,6 +12904,15 @@ organizations:
       role: strategic
       share: 6%
       from: 2021
+    - org: psa-group
+      role: merged-into
+      from: 2021
+      note: 50-50 merger with FCA
+    - org: peugeot-invest
+      role: major-shareholder
+      share: 7.2%
+      from: 2021
+      note: Via Peugeot 1810 subsidiary (76.5% PI, 23.5% EPF)
   sullivan-cromwell:
     name: Sullivan & Cromwell
     type: company
@@ -14354,6 +14462,9 @@ organizations:
       role: board
       from: 2008
       note: Young Global Leader 2008; Board of Trustees 2020-
+    - person: carlos-ghosn
+      role: board
+      note: Board of Trustees member. Advocate for sustainable transportation and zero-emission vehicles.
     - org: bilderberg
       role: partner
     - org: fmi

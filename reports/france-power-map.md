@@ -979,7 +979,114 @@ Rabbino Neuilly                  Lista Knochen
 
 ---
 
-## XVIII. Entità Completate e da Investigare
+## XVIII. L'Automotive Francese: Stato, Manager, Alleanze
+
+### Il Dualismo PSA-Renault
+
+L'industria automobilistica francese si è sviluppata con due poli distinti:
+
+```
+RENAULT                           PSA GROUP
+(1899)                            (1976)
+    │                                 │
+Nazionalizzata 1945              Peugeot + Citroën
+    │                                 │
+Privatizzata 1996                Chrysler Europe 1978
+(Schweitzer)                     (crisi 1980-85)
+    │                                 │
+Alliance Nissan 1999             Stato + Dongfeng 2012
+(Ghosn)                          (salvataggio)
+    │                                 │
+Crisi Ghosn 2018                 Tavares CEO 2014
+    │                             (turnaround)
+    │                                 │
+Renaulution 2021                     │
+(de Meo)                             │
+    │                                 │
+    └──────────────┬─────────────────┘
+                   │
+              STELLANTIS 2021
+              (fusione PSA + FCA)
+```
+
+### Le Figure Chiave
+
+| Persona | Ruolo | Pattern |
+|---------|-------|---------|
+| [Louis Schweitzer](../docs/persons/louis-schweitzer.md) | CEO Renault 1992-2005 | ENA → Privatizzazione → Alliance |
+| [Carlos Ghosn](../docs/persons/carlos-ghosn.md) | CEO Renault+Nissan 2005-2018 | Cost killer → Dual CEO → Fuga |
+| [Carlos Tavares](../docs/persons/carlos-tavares.md) | CEO PSA 2014-21, Stellantis 2021-24 | Turnaround artist |
+| [Luca de Meo](../docs/persons/luca-de-meo.md) | CEO Renault 2020-25 | Renaulution → Kering |
+| [Jean-Dominique Senard](../docs/persons/jean-dominique-senard.md) | Chairman Renault 2019- | Michelin → Post-Ghosn |
+| [Robert Peugeot](../docs/persons/robert-peugeot.md) | Chairman Peugeot Invest | Famiglia → Board Stellantis |
+
+### Pattern: Il Manager di Crisi
+
+Tre turnaround artist hanno salvato l'automotive francese:
+
+| Manager | Azienda | Crisi | Risultato |
+|---------|---------|-------|-----------|
+| **Ghosn** | Nissan 1999 | Bancarotta | Profitto in 2 anni |
+| **Tavares** | PSA 2014 | Bancarotta | Profitto in 1 anno |
+| **Tavares** | Opel 2017 | 16 anni perdite GM | Profitto in 12 mesi |
+| **de Meo** | Renault 2020 | Perdita €8B | Profitto €1B in 18 mesi |
+
+### Pattern: La Connessione Michelin
+
+Due figure chiave Renault provengono da [Michelin](../docs/company/michelin.md):
+
+```
+MICHELIN
+    │
+    ├── Ghosn (1978-96) → Renault → Nissan
+    │
+    └── Senard (CEO 2012-19) → Renault Chairman (2019-)
+```
+
+### Pattern: Stato Azionista Strategico
+
+Lo Stato francese mantiene quote di blocco:
+
+| Azienda | Quota Stato | Voting | Meccanismo |
+|---------|-------------|--------|------------|
+| Renault | 15% | 22.5% | Loi Florange (voto doppio) |
+| Stellantis | 6% (Bpifrance) | ~9% | Via PSA |
+| Airbus | 11% | 11% | Diretto |
+
+### La Caduta del Global CEO
+
+[Carlos Ghosn](../docs/persons/carlos-ghosn.md) rappresentò il primo tentativo di CEO simultaneo di due major automaker:
+
+| Anno | Evento |
+|------|--------|
+| **1999** | COO Nissan (mandato da Renault) |
+| **2000** | CEO Nissan |
+| **2005** | + CEO Renault (dual role) |
+| **2016** | + Chairman Mitsubishi |
+| **Nov 2018** | Arrestato a Tokyo |
+| **Dic 2019** | Fuga in Libano (nascosto in flight case) |
+| **2020-** | Latitante a Beirut |
+
+Interpretazioni:
+- **Giappone**: Frode fiscale, abuso fondi
+- **Ghosn**: Colpo di stato per bloccare fusione Renault-Nissan
+
+La caduta segnò la fine del modello "global CEO" nell'automotive.
+
+### Struttura Proprietaria Stellantis (2024)
+
+| Azionista | Quota | Origine |
+|-----------|-------|---------|
+| [Exor](../docs/company/exor.md) (Agnelli) | 14.2% | FCA |
+| [Peugeot Invest](../docs/company/peugeot-invest.md) | 7.2% | PSA |
+| Bpifrance (Stato FR) | 6% | PSA |
+| Dongfeng | 3% | PSA (ridotta) |
+
+La famiglia [Peugeot](../docs/family/peugeot.md) da controllori (>25% pre-2012) a minor shareholder (7.2%), con voting rights amplificati (11.9%).
+
+---
+
+## XIX. Entità Completate e da Investigare
 
 ### Completate in questa sessione
 
@@ -1033,6 +1140,14 @@ Rabbino Neuilly                  Lista Knochen
 | **Robert Meyers** | Person | [docs/persons/robert-meyers.md](../docs/persons/robert-meyers.md) |
 | **Vivendi** | Media | [docs/media/vivendi.md](../docs/media/vivendi.md) |
 | **Famiglia Bolloré** | Family | [docs/family/bollore.md](../docs/family/bollore.md) |
+| **PSA Group** | Automaker | [docs/automaker/psa-group.md](../docs/automaker/psa-group.md) |
+| **Peugeot Invest** | Company | [docs/company/peugeot-invest.md](../docs/company/peugeot-invest.md) |
+| **Famiglia Peugeot** | Family | [docs/family/peugeot.md](../docs/family/peugeot.md) |
+| **Renault** | Automaker | [docs/automaker/renault.md](../docs/automaker/renault.md) |
+| **Carlos Ghosn** | Person | Cost killer, dual CEO, fuga Libano |
+| **Louis Schweitzer** | Person | ENA, CEO Renault, Alliance Nissan |
+| **Luca de Meo** | Person | CEO Renault 2020-25, Renaulution |
+| **Nissan** | Automaker | (stub) Alliance partner |
 
 | **Governo Francia** | Government | [docs/government/governo-francia.md](../docs/government/governo-francia.md) |
 | **François Hollande** | Person | [docs/persons/francois-hollande.md](../docs/persons/francois-hollande.md) |
@@ -1078,7 +1193,7 @@ Rabbino Neuilly                  Lista Knochen
 
 ---
 
-## XIX. Pattern Chiave
+## XX. Pattern Chiave
 
 ### 1. La Fabbrica delle Élite
 
@@ -1293,9 +1408,68 @@ L'azienda fondata da un collaborazionista nazista sarà ereditata dai discendent
 
 Pattern: I meccanismi del matrimonio e dell'eredità possono invertire completamente la traiettoria morale di una dinastia
 
+### 19. Il Turnaround Artist
+
+L'automotive francese è stata salvata da manager specializzati in crisi:
+
+| Manager | Provenienza | Azienda | Crisi | Tempo al profitto |
+|---------|-------------|---------|-------|-------------------|
+| Ghosn | Michelin | Nissan 1999 | Bancarotta | 2 anni |
+| Tavares | Renault (COO bloccato) | PSA 2014 | Bancarotta | 1 anno |
+| Tavares | PSA | Opel 2017 | 16 anni perdite | 12 mesi |
+| de Meo | SEAT/VW | Renault 2020 | Perdita €8B | 18 mesi |
+
+Pattern: Manager esterni con track record salvano aziende "too big to fail"
+
+### 20. La Fabbrica Michelin di CEO
+
+[Michelin](../docs/company/michelin.md) ha prodotto leader per l'intero settore automotive:
+
+```
+MICHELIN
+    │
+    ├── Ghosn (1978-96) → Renault → Nissan → (fuga)
+    │
+    ├── Senard (CEO 2012-19) → Renault Chairman (post-Ghosn)
+    │
+    └── Tavares (indiretto, via Ghosn mentor)
+```
+
+Pattern: Una dinastia industriale può essere incubatore di talenti per tutto il settore
+
+### 21. La Caduta del Global CEO
+
+Carlos Ghosn (CEO simultaneo Renault + Nissan + Chairman Mitsubishi) rappresentò l'apice e la fine del "global CEO":
+
+| Fase | Anno | Ruolo |
+|------|------|-------|
+| Ascesa | 1999-2016 | Da cost killer a tre vertici |
+| Caduta | 2018 | Arresto Tokyo |
+| Fuga | 2019 | Nascosto in flight case → Beirut |
+| Esilio | 2020- | Latitante in Libano |
+
+Pattern: Il modello del CEO globale transnazionale si è scontrato con governance nazionali e interessi locali
+
+### 22. Il Declino Controllato Dinastico
+
+La famiglia Peugeot dimostra come una dinastia possa accettare la perdita di controllo in cambio della sopravvivenza:
+
+| Anno | Quota PSA/Stellantis | Potere |
+|------|----------------------|--------|
+| Pre-2012 | >25% | Controllo effettivo |
+| 2012 | ~12% | Diluiti (Stato + Dongfeng) |
+| 2021 | 7.2% | Minor shareholder Stellantis |
+
+Compensazioni:
+- Voting rights amplificati (11.9%)
+- Board seat permanente
+- Diversificazione via Peugeot Invest (Forvia, Safran, Rothschild)
+
+Pattern: Controllo → Sopravvivenza → Influenza residua + diversificazione
+
 ---
 
-## XX. Cronologia Essenziale
+## XXI. Cronologia Essenziale
 
 | Anno | Evento | Significato |
 |------|--------|-------------|
@@ -1303,7 +1477,9 @@ Pattern: I meccanismi del matrimonio e dell'eredità possono invertire completam
 | **1909** | Fondazione L'Oréal | Schueller fonda impero cosmesi |
 | **1936** | Schueller fonda La Cagoule | Gruppo fascista francese |
 | **1943** | Robert Meyers ucciso Auschwitz | Rabbino, salvò 700 ebrei, nonno eredi L'Oréal |
+| **1899** | Fondazione Renault | Louis Renault e fratelli |
 | **1944** | Fondazione Le Siècle | Club élite transpartisan |
+| **1945** | Nazionalizzazione Renault | Collaborazionismo Louis Renault → RNUR |
 | **1945** | Nascita ENA | Fabbrica élite tecnocratica |
 | **1946** | Processo Schueller, assolto | Mitterrand testimone a favore |
 | **1958** | Fondazione V Repubblica | De Gaulle, sistema semi-presidenziale |
@@ -1311,6 +1487,7 @@ Pattern: I meccanismi del matrimonio e dell'eredità possono invertire completam
 | **1955** | François Michelin gérant | 44 anni di leadership familiare |
 | **1967** | Fondazione Accor (SIEH) | Hospitality moderna francese |
 | **1970** | Fondazione Airbus Industrie | Consorzio franco-tedesco aerospazio |
+| **1976** | Fusione Peugeot-Citroën → PSA | Secondo polo automotive francese |
 | **1976** | Fondazione French-American Foundation | Pipeline transatlantica |
 | **1975** | Bébéar CEO Anciennes Mutuelles | Inizio costruzione impero |
 | **1980** | Feeney fonda General Atlantic | PE per filantropia |
@@ -1333,7 +1510,9 @@ Pattern: I meccanismi del matrimonio e dell'eredità possono invertire completam
 | **1992** | Sarkozy WEF GLT | Futuro presidente identificato |
 | **1995** | Chirac presidente | Batte Jospin |
 | **1996** | Hollande Young Leader FAF | Futuro presidente |
+| **1996** | Privatizzazione Renault | Schweitzer CEO, fine RNUR |
 | **1997** | Cohabitation Chirac-Jospin | 5 anni |
+| **1999** | Alliance Renault-Nissan | Ghosn "cost killer" salva Nissan |
 | **2000** | De Castries CEO AXA | Successione Bébéar |
 | **2000** | Bébéar fonda Institut Montaigne | Think tank AXA |
 | **2000** | Fusione BNP + Paribas | Nasce #1 banca francese |
@@ -1362,8 +1541,11 @@ Pattern: I meccanismi del matrimonio e dell'eredità possono invertire completam
 | **2014** | Multa BNP $8.9B | Record per violazione sanzioni |
 | **2014** | Macron a Bilderberg | "Lancio" internazionale |
 | **2012** | Macron Young Leader FAF | Stessa classe di Villani, Pellerin |
+| **2012** | Crisi PSA: Stato + Dongfeng | Salvataggio, Peugeot diluiti |
 | **2012** | Senard CEO Michelin | Primo non-famiglia |
 | **2012** | Enders CEO EADS | CEO unico |
+| **2013** | Tavares lascia Renault | COO bloccato da Ghosn |
+| **2014** | Tavares CEO PSA | Inizio turnaround |
 | **2013** | Bazin Chairman & CEO Accor | Da Colony Capital |
 | **2014** | Rebrand EADS → Airbus Group | Fine modello duale |
 | **2014** | Lemierre chairman BNP | Da EBRD a banca privata |
@@ -1377,13 +1559,22 @@ Pattern: I meccanismi del matrimonio e dell'eredità possono invertire completam
 | **2018** | Morte Serge Dassault | Fine era, condanne posthume |
 | **2019** | Enders lascia Airbus | Faury CEO |
 | **2019** | Enders President DGAP | Ritorno ai think tank |
+| **2017** | PSA acquisisce Opel/Vauxhall | €2.2B da GM, 16 anni perdite |
+| **2018** | Opel torna in utile | Tavares: profitto in 12 mesi |
+| **2018** | Arresto Ghosn a Tokyo | Fine dual CEO, crisi Alliance |
+| **2019** | Fuga Ghosn in Libano | Nascosto in flight case |
 | **2019** | Senard Chairman Renault | Da Michelin, post-Ghosn |
 | **2019** | Menegaux CEO Michelin | Manager di carriera |
+| **2020** | Luca de Meo CEO Renault | Turnaround da perdita €8B |
 | **2020** | Obermann Chairman Airbus | Telecom → PE → Aerospazio |
+| **2021** | Fusione PSA + FCA → Stellantis | Tavares CEO, Elkann Chairman |
+| **2021** | FFP diventa Peugeot Invest | Rebrand holding famiglia |
 | **2021** | Faury entra Board AXA | Connessione Airbus-AXA |
+| **2021** | Renaulution: Renault torna in utile | De Meo, €1B profitto |
 | **2021** | Fondazione BeyondNetZero | GA climate fund con Lord Browne |
 | **2022** | Villeroy chairman BIS | Vertice banche centrali globali |
 | **2023** | Delisting Rothschild €3.7B | Ritorno al privato |
+| **2023** | Riequilibrio Alliance Renault-Nissan | Da 43.4% a 15% reciproco |
 | **2021** | Abolizione ENA | Macron abolisce scuola da cui proviene |
 | **2021** | Sarkozy condanna Bismuth | 1 anno braccialetto |
 | **2022** | INSP sostituisce ENA | Nuova scuola élite |
@@ -1394,6 +1585,8 @@ Pattern: I meccanismi del matrimonio e dell'eredità possono invertire completam
 | **2025** | Morte Claude Bébéar | Fondatore AXA e Institut Montaigne |
 | **2025** | Sarkozy condanna Libia | 5 anni |
 | **2025** | Obermann advisor Governo tedesco | Consulente difesa |
+| **2024** | Dimissioni Tavares da Stellantis | Conflitto con Elkann |
+| **2025** | De Meo lascia Renault per Kering | CEO automotive → lusso |
 | **2017** | Morte Liliane Bettencourt | Françoise eredita L'Oréal |
 | **2023** | Françoise Bettencourt $100B | Prima donna a superare $100B |
 | **2024** | Split Vivendi in 4 entità | Bolloré ristruttura impero |
@@ -1418,6 +1611,16 @@ Pattern: I meccanismi del matrimonio e dell'eredità possono invertire completam
 - [Wikipedia - Le Siècle](https://en.wikipedia.org/wiki/Le_Siècle_(think_tank))
 - [FMI - DSK Bio](https://www.imf.org/external/np/omd/bios/dsk.htm)
 - [Élysée - Mitterrand](https://www.elysee.fr/en/francois-mitterrand)
+
+### Automotive
+- [Wikipedia - Renault](https://en.wikipedia.org/wiki/Renault)
+- [Wikipedia - PSA Group](https://en.wikipedia.org/wiki/PSA_Group)
+- [Wikipedia - Stellantis](https://en.wikipedia.org/wiki/Stellantis)
+- [Wikipedia - Carlos Ghosn](https://en.wikipedia.org/wiki/Carlos_Ghosn)
+- [Wikipedia - Louis Schweitzer](https://en.wikipedia.org/wiki/Louis_Schweitzer_(businessman))
+- [Wikipedia - Luca de Meo](https://en.wikipedia.org/wiki/Luca_de_Meo)
+- [Wikipedia - Renault-Nissan-Mitsubishi Alliance](https://en.wikipedia.org/wiki/Renault–Nissan–Mitsubishi_Alliance)
+- [Peugeot Invest - Official](https://peugeot-invest.com/en)
 
 ### Analisi
 - [Wikipedia - Pantouflage](https://fr.wikipedia.org/wiki/Pantouflage)
@@ -1477,4 +1680,4 @@ Pattern: I meccanismi del matrimonio e dell'eredità possono invertire completam
 
 ---
 
-*Ultimo aggiornamento: 20 Dicembre 2024*
+*Ultimo aggiornamento: 20 Dicembre 2025*
