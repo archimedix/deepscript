@@ -12,6 +12,7 @@ Il Lussemburgo e' il paese con la piu' alta densita' di potere pro capite al mon
 | **Casa Regnante** | [Nassau-Weilburg](../docs/family/nassau-weilburg.md) (dal 1890) |
 | **Pattern unico** | 3 PM → Presidente Commissione UE (Thorn, Santer, Juncker) |
 | **PM attuale** | [Luc Frieden](../docs/persons/luc-frieden.md) (CSV, 2023-) con Vice PM [Bettel](../docs/persons/xavier-bettel.md) (DP) |
+| **Min. Finanze** | [Gilles Roth](../docs/persons/gilles-roth.md) (CSV, 2023-) |
 | **Hub finanziario** | Sede legale di quasi tutti i fondi PE europei |
 | **Istituzioni UE** | BEI, MES, CGUE, Corte dei Conti, Segretariato PE |
 | **Scandalo** | LuxLeaks (2014) - tax rulings segreti |
@@ -40,26 +41,25 @@ Il Lussemburgo e' il paese con la piu' alta densita' di potere pro capite al mon
      |                          |                           |
 CASA REGNANTE              POLITICA                    FINANZA
 NASSAU-WEILBURG                |                           |
-     |                   +-----+-----+              +-------+-------+-------+
-     |                   |           |              |       |       |       |
-Guillaume V          Pattern      ATTUALE        BEI    Clearstream  PE Hub   Fund Admin
-(2025-)              PM→Comm      Frieden PM    Calvino   (€19T)    (sede)   ALTER DOMUS
-     |                   |        Bettel VPM    (€600B)      |         |      ($3T AuA)
-Henri                Juncker→Comm                 |     BIL (Legend)   |      Wiseman/Hogg
-(2000-2025)         Santer→Comm               EIF (62%)  Rothschild  CVC        |
-     |               Thorn→Comm                   |     (CHF 184B)     |      Cinven/Permira
-Jean (WWII)             |                    RTL Group      |         |
-Charlotte (esilio)      |                    (media)   Ariane CEO  Intesa WM
-     |                   |                         |   (post-Benjamin) Hoffmann
+     |                   +-----+-----+              +-------+-------+-------+-------+
+     |                   |           |              |       |       |       |       |
+Guillaume V          Pattern      ATTUALE        BEI    Clearstream  PE Hub   Fund     ManCo
+(2025-)              PM→Comm      Frieden PM    Calvino   (€19T)    (sede)   Admin    FUNDROCK
+     |                   |        Bettel VPM    (€600B)      |         |    ALTER     ($112B)
+Henri                Juncker→Comm  Roth Fin.      |     BIL (Legend)   |    DOMUS    Apex Group
+(2000-2025)         Santer→Comm               EIF (62%)  Rothschild  CVC   ($3T)        |
+     |               Thorn→Comm                   |     (CHF 184B)     |      |     Parain CEO
+Jean (WWII/IOC)         |                    RTL Group      |         |      |
+Charlotte (esilio)      |                    (media)   Ariane CEO  Intesa WM Wiseman
+     |                   |                         |   (post-Benjamin) Hoffmann /Hogg
      +-------------------+-------------------------+
-                              |
-                    ISTITUZIONI EUROPEE
                               |
               +---------------+---------------+
               |               |               |
-            BEI            MES            CGUE
-        Calvino 2024-   (fondo crisi)  (giustizia UE)
-        Hoyer 2012-23
+        ISTITUZIONI      PROMOZIONE       REGOLATORE
+              |               |               |
+         BEI/MES/CGUE   LUX FOR FINANCE    CSSF
+        (Kirchberg)     (Theobald CEO)
 ```
 
 ---
@@ -117,7 +117,7 @@ A differenza della cugina [Orange-Nassau](../docs/family/orange-nassau.md) (fond
 | Nome | Regno | Evento Chiave |
 |------|-------|---------------|
 | [Charlotte](../docs/persons/grand-duchess-charlotte.md) | 1919-1964 | Simbolo resistenza WWII, esilio Londra |
-| [Jean](../docs/persons/grand-duke-jean.md) | 1964-2000 | Veterano WWII (Irish Guards), NATO |
+| [Jean](../docs/persons/grand-duke-jean.md) | 1964-2000 | Veterano WWII (Irish Guards, Normandia), IOC 52 anni |
 | [Henri](../docs/persons/grand-duke-henri.md) | 2000-2025 | Crisi eutanasia 2008, IOC |
 | [Guillaume V](../docs/persons/guillaume-v-luxembourg.md) | 2025- | Attuale sovrano |
 
@@ -245,6 +245,7 @@ Il piano falli' per il crollo di Bretton Woods (1971) e la crisi petrolifera (19
 | [Edmond de Rothschild](../docs/bank/edmond-de-rothschild-group.md) | Private bank | Lux dal 1968; CHF 184B AUM (2024) |
 | [CVC Capital Partners](../docs/private-equity/cvc-capital-partners.md) | PE | HQ Lussemburgo |
 | [Alter Domus](../docs/company/alter-domus.md) | Fund Administration | $3T AuA, spin-off PwC 2003, Cinven 2024 |
+| [FundRock](../docs/company/fundrock.md) | ManCo/AIFM | $112B AUM, #1 third-party ManCo, Apex Group |
 | [Intesa Sanpaolo WM](../docs/bank/intesa-sanpaolo-wealth-management.md) | Private bank | Ex-CBP Quilvest, Hoffmann Chairman |
 
 ### Il Duopolio ICSD: Clearstream vs Euroclear
@@ -364,6 +365,35 @@ FONDATORE (2007-2023)
 INTEGRAZIONE (2023-)
   Intesa Sanpaolo WM Chairman
 ```
+
+### FundRock: Il Leader dei ManCo
+
+[FundRock](../docs/company/fundrock.md) rappresenta il consolidamento del settore ManCo lussemburghese:
+
+| Metrica | Valore (2025) |
+|---------|---------------|
+| **Fondazione** | 2004 (come RBS Luxembourg SA) |
+| **AUM** | $112 miliardi |
+| **Parent** | [Apex Group](../docs/company/apex-group.md) (100%, dal 2021) |
+| **CEO** | Xavier Parain (ex-AMF Francia) |
+| **Posizione** | #1 third-party AIFM in Luxembourg |
+
+**Significato:** FundRock/Apex consolida il settore ManCo, acquisendo competitors (LRI 2019, FundRock 2021, Nikko AM ManCo 2025).
+
+### Luxembourg for Finance: L'Agenzia di Promozione
+
+[Luxembourg for Finance](../docs/agency/luxembourg-for-finance.md) (LFF) e' il braccio promozionale del centro finanziario:
+
+| Metrica | Valore |
+|---------|--------|
+| **Fondazione** | 2008 |
+| **Tipo** | Partnership pubblico-privata |
+| **Partner pubblico** | Ministero Finanze (Presidenza) |
+| **Partner privato** | PROFIL (federazioni settoriali) |
+| **CEO** | Tom Theobald (2024-) |
+| **Ex-CEO** | Nicolas Mackel (2013-24) → Ambasciatore LUX presso UE |
+
+**Membri:** ABBL (banche), ALFI (fondi), ACA (assicurazioni).
 
 ---
 
@@ -604,6 +634,8 @@ PICCOLO STATO + STABILITA' + SERVIZI FINANZIARI = LEVERAGE SPROPORZIONATO
 | [Marc Hoffmann](../docs/persons/marc-hoffmann.md) | 6 | JPMorgan, AIG, Dexia BIL CEO, CBP founder, Intesa WM, REYL |
 | [Mark Wiseman](../docs/persons/mark-wiseman.md) | 5 | Alter Domus Chairman, CPPIB CEO, BlackRock, AIMCo, Lazard |
 | [Grand Duke Henri](../docs/persons/grand-duke-henri.md) | 2 | Granduca, IOC |
+| [Grand Duke Jean](../docs/persons/grand-duke-jean.md) | 4 | Granduca 36 anni, IOC 52 anni (Doyen), Irish Guards, WWII |
+| [Gilles Roth](../docs/persons/gilles-roth.md) | 2 | Min. Finanze, Chamber Budget Commission |
 
 ---
 
@@ -614,12 +646,16 @@ PICCOLO STATO + STABILITA' + SERVIZI FINANZIARI = LEVERAGE SPROPORZIONATO
 - [x] Connessioni tra politici lussemburghesi e settore finanziario *(documentato: revolving door Frieden)*
 - [x] BEI leadership e revolving door *(documentato: Calvino, Hoyer, Maystadt, Nehammer)*
 - [x] Edmond de Rothschild Group e successione Benjamin *(documentato: Ariane CEO)*
-- [x] Fund administration e infrastruttura servizi *(documentato: Alter Domus, CBP Quilvest)*
+- [x] Fund administration e infrastruttura servizi *(documentato: Alter Domus, CBP Quilvest, FundRock)*
+- [x] Grand Duke Jean dettagli *(documentato: IOC 52 anni, Irish Guards, Normandia)*
+- [x] ManCo sector e consolidamento *(documentato: FundRock/Apex)*
+- [x] Agenzia promozione centro finanziario *(documentato: Luxembourg for Finance)*
+- [x] Gabinetto Frieden completo *(documentato: Gilles Roth Min. Finanze)*
 - [ ] Evoluzione post-LuxLeaks del sistema fiscale
 - [ ] Ruolo del nuovo Granduca Guillaume V
 - [ ] Dettagli su altri whistleblower finanziari lussemburghesi
 - [ ] Esito rumor vendita BIL da parte di Legend Holdings (2025)
-- [ ] Altri fund administrators lussemburghesi (Apex, Citco)
+- [ ] Altri fund administrators (Citco, European Fund Administration)
 
 ---
 
@@ -664,6 +700,12 @@ PICCOLO STATO + STABILITA' + SERVIZI FINANZIARI = LEVERAGE SPROPORZIONATO
 - [Mark Wiseman](../docs/persons/mark-wiseman.md) - Chairman Alter Domus 2025- (ex-CPPIB, BlackRock)
 - [Charlotte Hogg](../docs/persons/charlotte-hogg.md) - CEO Alter Domus 2025- (ex-BoE, Visa)
 - [Rolf Breuer](../docs/persons/rolf-breuer.md) - CEO Deutsche Bank 1997-2002 (network Frieden)
+- [Grand Duke Jean](../docs/persons/grand-duke-jean.md) - Granduca 1964-2000, IOC 52 anni, veterano WWII
+- [Gilles Roth](../docs/persons/gilles-roth.md) - Min. Finanze 2023-
+- [Pierre Gramegna](../docs/persons/pierre-gramegna.md) - Min. Finanze 2013-2022
+- [Tom Theobald](../docs/persons/tom-theobald.md) - CEO Luxembourg for Finance 2024-
+- [Nicolas Mackel](../docs/persons/nicolas-mackel.md) - Ex-CEO LFF (2013-24), Ambasciatore UE
+- [Xavier Parain](../docs/persons/xavier-parain.md) - CEO FundRock (ex-AMF Francia)
 
 ### Famiglie
 - [Nassau-Weilburg](../docs/family/nassau-weilburg.md)
@@ -694,6 +736,9 @@ PICCOLO STATO + STABILITA' + SERVIZI FINANZIARI = LEVERAGE SPROPORZIONATO
 - [Permira](../docs/private-equity/permira.md) - PE, ex-maggioranza Alter Domus
 - [BCEE](../docs/bank/bcee.md) - Banca statale lussemburghese
 - [Dexia](../docs/bank/dexia.md) - Ex-proprietario BIL (crisi 2008)
+- [FundRock](../docs/company/fundrock.md) - ManCo/AIFM, $112B AUM, Apex Group
+- [Apex Group](../docs/company/apex-group.md) - Parent FundRock, Bermuda
+- [Luxembourg for Finance](../docs/agency/luxembourg-for-finance.md) - Agenzia promozione centro finanziario
 
 ---
 

@@ -4,12 +4,12 @@ Mappa del Potere - Belgio
 
   | Famiglia          | Settore             | Note                                                         |
   |-------------------|---------------------|--------------------------------------------------------------|
-  | [] Saxe-Coburg-Gotha | Monarchia           | Casa reale belga, connessioni con tutte le monarchie europee |
-  | Solvay            | Chimica/Finanza     | Fondatori Solvay SA, conferenze Solvay                       |
+  | [v] Saxe-Coburg-Gotha | Monarchia           | Casa reale belga, connessioni con tutte le monarchie europee |
+  | [v] Solvay            | Chimica/Finanza     | Fondatori Solvay SA, conferenze Solvay                       |
   | de Spoelberch     | Birra/Investimenti  | Azionisti AB InBev                                           |
   | de Mévius         | Birra               | Azionisti AB InBev                                           |
   | Janssen           | Pharma              | Fondatori Janssen Pharmaceutica (J&J)                        |
-  | Boël              | Acciaio/Finanza     | Sofina, storicamente legati alla corona                      |
+  | [v] Boël              | Acciaio/Finanza     | Sofina, storicamente legati alla corona                      |
   | Lippens           | Finanza             | Fortis, Ageas                                                |
   | Davignon          | Diplomazia/Business | Etienne Davignon - Bilderberg chairman                       |
 
@@ -17,9 +17,9 @@ Mappa del Potere - Belgio
 
   | Entità                         | Tipo           | Rilevanza                                     |
   |--------------------------------|----------------|-----------------------------------------------|
-  | Sofina                         | Holding        | Storica holding belga, partecipazioni globali |
+  | [v] Sofina                         | Holding        | Storica holding belga, partecipazioni globali |
   | Groupe Bruxelles Lambert (GBL) | Holding        | Famiglia Frère, ora Desmarais                 |
-  | KBC Group                      | Banca          | Principale banca belga                        |
+  | [v] KBC Group                      | Banca          | Principale banca belga                        |
   | Ageas                          | Assicurazioni  | Ex Fortis                                     |
   | [v] Euroclear                      | Infrastruttura | Clearing house globale                        |
   | SWIFT                          | Infrastruttura | Messaggistica bancaria mondiale (La Hulpe)    |
@@ -41,9 +41,9 @@ Mappa del Potere - Belgio
 
   | Azienda         | Settore                     |
   |-----------------|-----------------------------|
-  | AB InBev        | Birra (più grande al mondo) |
-  | Umicore         | Materiali/Batterie          |
-  | Solvay          | Chimica                     |
+  | [v] AB InBev        | Birra (più grande al mondo) |
+  | [v] Umicore         | Materiali/Batterie          |
+  | [v] Solvay          | Chimica                     |
   | UCB             | Pharma                      |
   | Proximus        | Telecom                     |
   | Groupe Delhaize | Retail                      |
@@ -55,9 +55,9 @@ Mappa del Potere - Belgio
   |-------------------|----------------------------|---------------------------------|
   | [v] Etienne Davignon  | Ex Commissario EU          | Chairman Bilderberg (1999-2011) |
   | [v] Herman Van Rompuy | Ex Presidente Consiglio EU | Trilaterale                     |
-  | Guy Verhofstadt   | Ex PM, Europarlamentare    | Federalista EU                  |
-  | Mark Eyskens      | Ex PM                      | Bilderberg                      |
-  | Alexandre de Croo | PM attuale                 | Open VLD                        |
+  | [v] Guy Verhofstadt   | Ex PM, Europarlamentare    | Federalista EU                  |
+  | [v] Mark Eyskens      | Ex PM                      | Bilderberg                      |
+  | [v] Alexandre de Croo | PM attuale                 | Open VLD                        |
   | Thomas Leysen     | Business                   | Chairman Umicore, KBC           |
   | Carlos Brito      | Ex CEO AB InBev            | 3G Capital connection           |
 

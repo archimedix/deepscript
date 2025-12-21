@@ -130,6 +130,26 @@ families:
     - person: nicolas-meyers
       generation: 4
       role: heir
+  boel:
+    origin: Belgium
+    founder: gustave-boel
+    sector: steel, investment
+    generations: 5
+    status: active
+    members:
+    - person: harold-boel
+      generation: 5
+    - person: yves-boel
+      generation: 4
+    - person: nicolas-boel
+      generation: 5
+    - person: gustave-boel
+      generation: 1
+      role: founder
+    - person: pol-clovis-boel
+      generation: 2
+    - person: rene-boel
+      generation: 3
   bollore:
     origin: France
     founder: vincent-bollore
@@ -249,6 +269,18 @@ families:
       generation: 3
     - person: laurent-dassault
       generation: 3
+  de-mevius:
+    origin: Belgium
+    sector: brewing, investment
+    status: active
+    members:
+    - person: frederic-de-mevius
+  de-spoelberch:
+    origin: Belgium
+    sector: brewing, investment
+    status: active
+    members:
+    - person: gregoire-de-spoelberch
   dupont:
     origin: Francia/USA
     founder: E.I. du Pont
@@ -319,6 +351,13 @@ families:
       generation: 3
     - person: martin-hartono
       generation: 3
+  janssen-belgium:
+    origin: Belgium
+    sector: banking, chemicals
+    status: active
+    members:
+    - person: emmanuel-janssen
+      role: patriarch
   jiang-zemin:
     origin: China
     founder: jiang-zemin
@@ -897,6 +936,32 @@ families:
       generation: 2
     - person: mira-salim
       generation: 2
+  saxe-coburg-gotha:
+    origin: Germany
+    founder: leopold-i-belgium
+    sector: royalty
+    generations: 7
+    status: active
+    members:
+    - person: leopold-i-belgium
+      generation: 1
+      role: founder
+    - person: philippe-belgium
+      generation: 7
+      role: head
+    - person: leopold-ii-belgium
+      generation: 2
+    - person: albert-i-belgium
+      generation: 3
+    - person: baudouin-belgium
+      generation: 5
+    - person: albert-ii-belgium
+      generation: 6
+    - person: elisabeth-belgium
+      generation: 8
+      role: heir
+    - person: albert-saxe-coburg
+      generation: 1
   schnitzer:
     origin: Israel
     founder: moshe-schnitzer
@@ -940,6 +1005,22 @@ families:
       role: founder
     - person: thapana-sirivadhanabhakdi
       generation: 2
+  solvay:
+    origin: Belgium
+    founder: ernest-solvay
+    sector: chemicals, finance
+    generations: 5
+    status: active
+    members:
+    - person: ernest-solvay
+      generation: 1
+      role: founder
+    - person: alfred-solvay
+      generation: 1
+      role: co-founder
+    - person: jean-marie-solvay
+      generation: 5
+      role: chairman Solvac
   sophonpanich:
     origin: Thailand
     founder: chin-sophonpanich
@@ -989,6 +1070,12 @@ families:
     - person: akio-toyoda
       generation: 4
       role: chairman
+  van-damme:
+    origin: Belgium
+    sector: brewing, investment
+    status: active
+    members:
+    - person: alexandre-van-damme
   wallenberg:
     origin: Svezia
     founder: andre-oscar-wallenberg

@@ -167,9 +167,32 @@ persons:
       role: chairman-ceo
       from: 2019
       note: CEO dal 2019, Chairman dal 2020
+  albert-i-belgium:
+    born: 1875
+    died: 1934
+    nationality: BEL
+    affiliations:
+    - org: governo-belgio
+      role: leader
+      from: 1909
+      to: 1934
+      note: Re dei Belgi (Re Soldato)
+  albert-ii-belgium:
+    born: 1934
+    nationality: BEL
+    affiliations:
+    - org: governo-belgio
+      role: leader
+      from: 1993
+      to: 2013
+      note: Re dei Belgi, abdicato
   albert-salim:
     nationality: IDN
     note: Primogenito, ex Volvo dealer
+  albert-saxe-coburg:
+    born: 1819
+    died: 1861
+    nationality: DEU
   albert-wohlstetter:
     born: 1913
     died: 1997
@@ -246,7 +269,6 @@ persons:
   alexander-de-croo:
     born: 1975
     nationality: BEL
-    note: PM Belgio 2020-2024
     affiliations:
     - org: wef
       role: ygl
@@ -255,6 +277,22 @@ persons:
       role: leader
       from: 2020
       to: 2024
+    - org: undp
+      role: executive
+      from: 2025
+      note: Administrator
+    relations:
+    - person: herman-de-croo
+      type: son
+  alexander-king:
+    born: 1909
+    died: 2007
+    nationality: GBR
+    affiliations:
+    - org: club-of-rome
+      role: founder
+      from: 1968
+      note: Co-fondatore
   alexander-nix:
     born: 1975
     nationality: GBR
@@ -323,6 +361,12 @@ persons:
     - org: rothschild-co
       role: executive-chairman
       from: 2018
+  alexandre-van-damme:
+    nationality: BEL
+    affiliations:
+    - org: ab-inbev
+      role: board
+      note: Representative main shareholders
   alfred-dupont:
     born: 1864
     died: 1935
@@ -333,6 +377,15 @@ persons:
     died: 1981
     nationality: DEU
     note: Son of August. NSDAP member 1933. M-Aktion. Built global company.
+  alfred-solvay:
+    born: 1840
+    died: 1894
+    nationality: BEL
+    affiliations:
+    - org: solvay
+      role: founder
+      from: 1863
+      to: 1894
   alice-walton:
     born: 1949
     nationality: USA
@@ -833,6 +886,16 @@ persons:
     died: 1932
     nationality: DEU
     note: Founder Kühne+Nagel (1890)
+  aurelio-peccei:
+    born: 1908
+    died: 1984
+    nationality: ITA
+    affiliations:
+    - org: club-of-rome
+      role: founder
+      from: 1968
+      to: 1984
+      note: Co-fondatore e primo Presidente
   avril-haines:
     born: 1969
     nationality: USA
@@ -908,6 +971,31 @@ persons:
       role: chairman
       from: 2021
       note: Chair Supervisory Board; membro dal 2008
+  bart-de-wever:
+    born: 1970
+    nationality: BEL
+    affiliations:
+    - org: governo-belgio
+      role: leader
+      from: 2025
+      note: Prime Minister (Arizona coalition)
+  bart-sap:
+    nationality: BEL
+    affiliations:
+    - org: umicore
+      role: executive
+      from: 2024
+      note: CEO
+  baudouin-belgium:
+    born: 1930
+    died: 1993
+    nationality: BEL
+    affiliations:
+    - org: governo-belgio
+      role: leader
+      from: 1951
+      to: 1993
+      note: Re dei Belgi
   baudouin-prot:
     born: 1951
     nationality: FRA
@@ -1514,6 +1602,12 @@ persons:
       from: 2013
       to: 2016
       note: Chairman of Russia largest automaker (LADA brand).
+  carlos-sicupira:
+    nationality: BRA
+    affiliations:
+    - org: 3g-capital
+      role: founder
+      from: 2004
   carlos-tavares:
     born: 1958
     nationality: PRT
@@ -2325,6 +2419,13 @@ persons:
       role: executive
       from: 2023
       note: CEO Christian Dior
+  delphine-boel:
+    born: 1968
+    nationality: BEL
+    relations:
+    - person: albert-ii-belgium
+      type: daughter
+      note: riconosciuta 2020 dopo test DNA
   dhanin-chearavanont:
     born: 1939
     nationality: THA
@@ -2755,6 +2856,9 @@ persons:
     - org: dupont
       role: founder
       from: 1802
+  elisabeth-belgium:
+    born: 2001
+    nationality: BEL
   elisabeth-borne:
     born: 1961
     nationality: FRA
@@ -2859,6 +2963,9 @@ persons:
       from: 2017
       to: 2025
       note: CEO until Dec 2025
+  emmanuel-janssen:
+    born: 1879
+    nationality: BEL
   emmanuel-macron:
     born: 1977
     nationality: FRA
@@ -3018,6 +3125,15 @@ persons:
     relations:
     - person: harry-oppenheimer
       type: father
+  ernest-solvay:
+    born: 1838
+    died: 1922
+    nationality: BEL
+    affiliations:
+    - org: solvay
+      role: founder
+      from: 1863
+      to: 1922
   ernst-van-der-beugel:
     born: 1918
     died: 2004
@@ -3634,6 +3750,12 @@ persons:
       role: executive
       from: 2020
       note: CEO LVMH Watches
+  frederic-de-mevius:
+    nationality: BEL
+    affiliations:
+    - org: verlinvest
+      role: executive
+      note: CEO
   frederick-kempe:
     nationality: USA
     affiliations:
@@ -3730,6 +3852,16 @@ persons:
       role: board
       from: 2025
       note: Lead Independent Director
+  gaston-eyskens:
+    born: 1905
+    died: 1988
+    nationality: BEL
+    affiliations:
+    - org: governo-belgio
+      role: leader
+      from: 1949
+      to: 1973
+      note: 'Prime Minister (3 terms: 1949-50, 1958-61, 1968-73)'
   gaston-thorn:
     born: 1928
     died: 2007
@@ -4037,6 +4169,14 @@ persons:
       role: member
       from: 2020
       note: IOC Member
+  gilles-roth:
+    born: 1967
+    nationality: LUX
+    affiliations:
+    - org: governo-lussemburgo
+      role: minister
+      from: 2023
+      note: Min. Finanze
   giovanni-agnelli-sr:
     born: 1866
     died: 1945
@@ -4125,6 +4265,18 @@ persons:
       from: 1964
       to: 2000
       note: Grand Duke
+    - org: ioc
+      role: member
+      from: 1946
+      to: 1998
+      note: IOC Member, Honorary Member 1998, Doyen 1982-98, Chairman Rules Reviewing Commission 1973-76
+    relations:
+    - person: grand-duchess-charlotte
+      type: child
+      note: Figlio di Charlotte
+    - person: grand-duke-henri
+      type: parent
+      note: Padre di Henri
   greg-abel:
     born: 1962
     nationality: CAN
@@ -4149,6 +4301,12 @@ persons:
       from: 2021
       to: 2025
       note: CEO e Commissioner
+  gregoire-de-spoelberch:
+    nationality: BEL
+    affiliations:
+    - org: ab-inbev
+      role: board
+      note: Representative main shareholders
   gro-harlem-brundtland:
     born: 1939
     nationality: NOR
@@ -4205,6 +4363,41 @@ persons:
       role: leader
       from: 2025
       note: Grand Duke
+  gustave-boel:
+    born: 1837
+    died: 1912
+    nationality: BEL
+    affiliations:
+    - org: usines-gustave-boel
+      role: founder
+      from: 1880
+      to: 1912
+  guy-verhofstadt:
+    born: 1953
+    nationality: BEL
+    affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor
+    - org: governo-belgio
+      role: leader
+      from: 1999
+      to: 2008
+      note: Prime Minister
+    - org: european-parliament
+      role: member
+      from: 2009
+      to: 2024
+      note: MEP Belgium, Brexit Coordinator 2016-2020
+    - org: alde
+      role: leader
+      from: 2009
+      to: 2019
+      note: Group President
+    - org: spinelli-group
+      role: founder
+      from: 2010
+      note: Co-founder
   hamad-bin-thamer:
     nationality: QAT
     family: al-thani
@@ -4288,6 +4481,17 @@ persons:
       role: board
       from: 2022
       note: Minority owner ~10-13% via BlueCo
+  harold-boel:
+    born: 1964
+    nationality: BEL
+    affiliations:
+    - org: sofina
+      role: executive
+      from: 2008
+      note: CEO
+    - org: usines-gustave-boel
+      role: executive
+      note: early career
   harry-dexter-white:
     born: 1892
     died: 1948
@@ -4493,6 +4697,15 @@ persons:
       from: 1931
       to: 1932
       note: Home Secretary
+  herman-de-croo:
+    born: 1937
+    nationality: BEL
+    affiliations:
+    - org: governo-belgio
+      role: legislator
+      from: 1968
+      to: 2014
+      note: Longest serving MP, President Chamber 1999-2007
   herman-kahn:
     born: 1922
     died: 1983
@@ -4672,6 +4885,18 @@ persons:
       role: executive
       from: 2019
       note: CTO
+  ilham-kadri:
+    nationality: FRA
+    affiliations:
+    - org: solvay
+      role: executive
+      from: 2019
+      to: 2023
+      note: CEO
+    - org: syensqo
+      role: executive
+      from: 2023
+      note: CEO
   ilya-sutskever:
     nationality: ISR
     affiliations:
@@ -5245,6 +5470,15 @@ persons:
       from: 2012
       to: 2014
       note: Primo Ministro
+  jean-marie-solvay:
+    born: 1956
+    nationality: BEL
+    affiliations:
+    - org: solvay
+      role: board
+      from: 1991
+    - org: solvac
+      role: chairman
   jean-michel-blanquer:
     born: 1964
     nationality: FRA
@@ -5621,6 +5855,14 @@ persons:
       from: 2013
       to: 2025
       note: Chairman Board of Directors
+  johan-thijs:
+    born: 1965
+    nationality: BEL
+    affiliations:
+    - org: kbc
+      role: executive
+      from: 2012
+      note: CEO
   johann-rupert:
     born: 1950
     nationality: ZAF
@@ -5957,6 +6199,13 @@ persons:
       role: executive
       from: 2019
       note: CEO e Chairman Board of Management
+  jorge-paulo-lemann:
+    born: 1939
+    nationality: BRA
+    affiliations:
+    - org: 3g-capital
+      role: founder
+      from: 2004
   joris-voorhoeve:
     born: 1945
     nationality: NLD
@@ -6518,6 +6767,15 @@ persons:
     died: 1938
     nationality: SWE
     family: wallenberg
+  koenraad-debackere:
+    nationality: BEL
+    affiliations:
+    - org: kbc
+      role: chairman
+      from: 2020
+      note: Chairman of the Board
+    - org: umicore
+      role: board
   konrad-adenauer:
     born: 1876
     died: 1967
@@ -6995,6 +7253,26 @@ persons:
     - org: atlantic-council
       role: board
       note: Honorary Director
+  leopold-i-belgium:
+    born: 1790
+    died: 1865
+    nationality: BEL
+    affiliations:
+    - org: governo-belgio
+      role: leader
+      from: 1831
+      to: 1865
+      note: Re dei Belgi (primo)
+  leopold-ii-belgium:
+    born: 1835
+    died: 1909
+    nationality: BEL
+    affiliations:
+    - org: governo-belgio
+      role: leader
+      from: 1865
+      to: 1909
+      note: Re dei Belgi
   lewis-preston:
     born: 1926
     died: 1995
@@ -7380,6 +7658,14 @@ persons:
       from: 2014
       to: 2016
       note: Primo Ministro
+  marc-grynberg:
+    nationality: BEL
+    affiliations:
+    - org: umicore
+      role: executive
+      from: 2008
+      to: 2021
+      note: CEO
   marc-hoffmann:
     born: 1958
     nationality: LUX
@@ -7445,6 +7731,12 @@ persons:
     - org: dassault-group
       role: founder
       from: 1929
+  marcel-telles:
+    nationality: BRA
+    affiliations:
+    - org: 3g-capital
+      role: founder
+      from: 2004
   marcelo-claure:
     nationality: BOL
     affiliations:
@@ -7675,6 +7967,26 @@ persons:
       from: 2013
       to: 2020
       note: Governor
+  mark-eyskens:
+    born: 1933
+    nationality: BEL
+    affiliations:
+    - org: governo-belgio
+      role: leader
+      from: 1981
+      to: 1981
+      note: Prime Minister (Apr-Dec 1981)
+    - org: club-of-rome
+      role: member
+      from: 1972
+      to: 1978
+    - org: academia-europaea
+      role: member
+      from: 1989
+    relations:
+    - person: gaston-eyskens
+      type: son
+      note: Both served as PM
   mark-mcclellan:
     born: 1963
     nationality: USA
@@ -7784,6 +8096,13 @@ persons:
       role: executive
       from: 2024
       note: CEO
+  martin-barrington:
+    born: 1953
+    nationality: USA
+    affiliations:
+    - org: ab-inbev
+      role: chairman
+      from: 2024
   martin-bouygues:
     born: 1952
     nationality: Francia
@@ -8021,6 +8340,14 @@ persons:
     - org: astrazeneca
       role: chairman
       from: 2023
+  michel-doukeris:
+    born: 1973
+    nationality: BRA
+    affiliations:
+    - org: ab-inbev
+      role: executive
+      from: 2021
+      note: CEO
   michel-pebereau:
     born: 1942
     nationality: FRA
@@ -8527,6 +8854,15 @@ persons:
       role: executive
       from: 2005
       to: 2020
+  nicolas-boel:
+    nationality: BEL
+    affiliations:
+    - org: sofina
+      role: board
+    - org: solvay
+      role: chairman
+      from: 2012
+      note: Chairman of the Board
   nicolas-hieronimus:
     born: 1964
     nationality: FRA
@@ -8535,6 +8871,14 @@ persons:
       role: executive
       from: 2021
       note: CEO
+  nicolas-mackel:
+    nationality: LUX
+    affiliations:
+    - org: luxembourg-for-finance
+      role: executive
+      from: 2013
+      to: 2024
+      note: CEO (2013-2024, 3 mandates)
   nicolas-meyers:
     born: 1988
     nationality: FRA
@@ -9145,6 +9489,13 @@ persons:
     affiliations:
     - org: fii-saudi
       role: board
+  peter-hughes:
+    nationality: GBR
+    affiliations:
+    - org: apex-group
+      role: founder
+      from: 2003
+      note: Founder & CEO
   peter-martland:
     nationality: GBR
     note: Storico intelligence britannica, co-fondatore Cambridge Intelligence Seminar
@@ -9336,6 +9687,50 @@ persons:
       from: 2009
       to: 2013
       note: Health 2009-11, Economics 2011-13, Vice Chancellor 2011-13
+  philipp-von-restorff:
+    nationality: LUX
+    affiliations:
+    - org: luxembourg-for-finance
+      role: executive
+      from: 2022
+      note: Deputy CEO
+  philippe-belgium:
+    born: 1960
+    nationality: BEL
+    family: saxe-coburg-gotha
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 1992
+      note: Partecipante 1992, 1993, 1996, 2007-2009, 2012
+    - org: wef
+      role: member
+      from: 2014
+      note: Partecipante Davos 2014, 2023, 2025
+    - org: governo-belgio
+      role: leader
+      from: 2013
+      note: Re dei Belgi
+    - org: trilateral-commission
+      role: member
+      from: 2007
+      note: Partecipante Brussels 2007, 2024
+    - org: club-of-rome
+      role: chairman
+      from: 2004
+      note: Honorary Chairman European Chapter
+    - org: bfta
+      role: chairman
+      from: 1993
+      note: Honorary President, 85+ economic missions
+  philippe-kehren:
+    born: 1971
+    nationality: FRA
+    affiliations:
+    - org: solvay
+      role: executive
+      from: 2023
+      note: CEO
   philippe-maystadt:
     born: 1948
     died: 2017
@@ -9372,6 +9767,22 @@ persons:
       role: board
       from: 2023
       note: Executive Board - Payments
+  pierre-gramegna:
+    born: 1958
+    nationality: LUX
+    affiliations:
+    - org: governo-lussemburgo
+      role: minister
+      from: 2013
+      to: 2022
+      note: Min. Finanze
+  pierre-gurdjian:
+    born: 1961
+    nationality: BEL
+    affiliations:
+    - org: solvay
+      role: chairman
+      from: 2023
   pierre-moscovici:
     born: 1957
     nationality: FRA
@@ -9462,6 +9873,14 @@ persons:
       from: 2009
       to: 2025
       note: CEO
+  pol-clovis-boel:
+    born: 1868
+    died: 1941
+    nationality: BEL
+    affiliations:
+    - org: usines-gustave-boel
+      role: executive
+      note: Director
   prabowo-subianto:
     born: 1951
     nationality: IDN
@@ -9795,6 +10214,14 @@ persons:
     - org: bertelsmann-stiftung
       role: founder
       from: 1977
+  rene-boel:
+    born: 1899
+    died: 1990
+    nationality: BEL
+    affiliations:
+    - org: usines-gustave-boel
+      role: executive
+      note: Director
   rene-obermann:
     born: 1963
     nationality: DEU
@@ -11361,6 +11788,24 @@ persons:
       from: 1911
       to: 1948
       note: Partner 1911, Chairman 1943-1948
+  thomas-leysen:
+    born: 1960
+    nationality: BEL
+    affiliations:
+    - org: trilateral-commission
+      role: member
+    - org: ert
+      role: member
+    - org: kbc
+      role: chairman
+      from: 2011
+      to: 2020
+    - org: umicore
+      role: chairman
+      from: 2008
+      note: CEO 2000-2008, then Chairman
+    - org: mediahuis
+      role: chairman
   thomas-pesquet:
     born: 1978
     nationality: FRA
@@ -11516,6 +11961,13 @@ persons:
     - org: ge-aerospace
       role: board
       note: Board member
+  tom-theobald:
+    nationality: LUX
+    affiliations:
+    - org: luxembourg-for-finance
+      role: executive
+      from: 2024
+      note: CEO (Sep 2024-)
   tony-blair:
     born: 1953
     nationality: GBR
@@ -12186,6 +12638,13 @@ persons:
       role: controlling shareholder
     - org: free-iliad
       role: founder
+  xavier-parain:
+    nationality: FRA
+    affiliations:
+    - org: fundrock
+      role: executive
+      from: 2019
+      note: CEO
   xi-jinping:
     born: 1953
     nationality: CHN
@@ -12387,6 +12846,16 @@ persons:
     - org: bein-media
       role: executive
       note: CEO
+  yves-boel:
+    born: 1927
+    died: 2012
+    nationality: BEL
+    affiliations:
+    - org: sofina
+      role: chairman
+      from: 1956
+      to: 2012
+      note: President of Board
   zalmay-khalilzad:
     born: 1951
     nationality: USA

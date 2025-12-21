@@ -4,7 +4,7 @@ Il Lussemburgo è un nodo cruciale del potere finanziario europeo. Ecco un elenc
 
   - [v] Famiglia Nassau-Weilburg (dinastia granducale)
   - [v] Henri di Lussemburgo (Granduca dal 2000)
-  - [] Jean di Lussemburgo (Granduca 1964-2000, legami NATO)
+  - [v] Jean di Lussemburgo (Granduca 1964-2000, legami NATO)
 
   Istituzioni Finanziarie
 
@@ -20,8 +20,8 @@ Il Lussemburgo è un nodo cruciale del potere finanziario europeo. Ecco un elenc
 
   - [v] Clearstream (Deutsche Börse) - settlement globale
   - [v] Euroclear - competitor, presenza lussemburghese
-  - FundRock - fund administration
-  - Alter Domus - private equity services
+  - [] FundRock - fund administration
+  - [v] Alter Domus - private equity services
 
   Private Equity con sede legale
 
@@ -51,12 +51,12 @@ Il Lussemburgo è un nodo cruciale del potere finanziario europeo. Ecco un elenc
   - [v] Edmond de Rothschild (ramo lussemburghese)
   - [v] edmond-de-rothschild-group
   - [v] benjamin-de-rothschild
-  - Rolf Breuer - Clearstream
-  - Marc Hoffmann - BIL
+  - [v] Rolf Breuer - Clearstream
+  - [v] Marc Hoffmann - BIL
 
   Think Tank / Forum
 
-  - Luxembourg for Finance - lobby finanziaria
+  - [v] Luxembourg for Finance - lobby finanziaria
   - Fondation Alphonse Weicker
   - Institut Pierre Werner
 

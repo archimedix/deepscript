@@ -10,7 +10,7 @@
   | Hospitality  | Katara (Savoy, Plaza), PIF (Aman, Rocco Forte), Jumeirah |
   | Bahrain/Oman | Mumtalakat (McLaren), OIA (Entrevias, xAI)
 
-
+Brexit
 - League of Nations
 - Action Committee
 - Schuman
@@ -21,6 +21,7 @@
 - european-council (Agency)
 - collegio-europa (ThinkTank)
 - european-policy-centre (ThinkTank)
+- spinelli-group
 
   Istituzioni UE in lussemburgo
 
@@ -45,3 +46,11 @@
   | CEPS                       | Think tank EU policy       |
   | Bruegel                    | Think tank economia        |
   | Friends of Europe          | Forum/Think tank           |
+
+Architetti dell'Europa
+  | Figura            | Ruolo chiave                                                 |
+  |-------------------|--------------------------------------------------------------|
+  | Paul-Henri Spaak  | Padre fondatore UE/NATO                                      |
+  | Etienne Davignon  | VP Commissione, Bilderberg Chair 1998-2011, co-fondatore ERT |
+  | Herman Van Rompuy | PM, EU Council President, Trilateral                         |
+  | Alexander De Croo | PM 2020-24, WEF YGL

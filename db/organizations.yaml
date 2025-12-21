@@ -1,4 +1,21 @@
 organizations:
+  3g-capital:
+    name: 3G Capital
+    type: privateequity
+    founded: 2004
+    headquarters: New York, USA
+    status: active
+    sector: private equity
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: founder
+      from: 2004
+    - person: carlos-sicupira
+      role: founder
+      from: 2004
+    - person: marcel-telles
+      role: founder
+      from: 2004
   7-eleven:
     name: 7-Eleven Inc.
     type: company
@@ -11,6 +28,27 @@ organizations:
       share: 100%
       from: 2005
       note: Wholly owned subsidiary
+  ab-inbev:
+    name: Anheuser-Busch InBev SA/NV
+    type: company
+    founded: 2008
+    headquarters: Leuven, Belgium
+    status: active
+    sector: beverages
+    stakeholders:
+    - person: michel-doukeris
+      role: executive
+      from: 2021
+      note: CEO
+    - person: alexandre-van-damme
+      role: board
+      note: Representative main shareholders
+    - person: gregoire-de-spoelberch
+      role: board
+      note: Representative main shareholders
+    - person: martin-barrington
+      role: chairman
+      from: 2024
   abb:
     name: ABB Ltd
     type: company
@@ -75,6 +113,16 @@ organizations:
       role: investor
       from: 2022
       note: minority stake via RedBird partnership
+  academia-europaea:
+    name: Academia Europaea
+    type: forum
+    founded: 1988
+    headquarters: London/Barcelona
+    status: active
+    stakeholders:
+    - person: mark-eyskens
+      role: member
+      from: 1989
   accor:
     name: Accor SA
     type: company
@@ -437,6 +485,19 @@ organizations:
     headquarters: Pittsburgh, USA
     status: active
     sector: alluminio
+  alde:
+    name: Alliance of Liberals and Democrats for Europe
+    type: forum
+    founded: 2004
+    headquarters: Brussels
+    status: rebranded
+    note: Became Renew Europe in 2019
+    stakeholders:
+    - person: guy-verhofstadt
+      role: leader
+      from: 2009
+      to: 2019
+      note: Group President
   alibaba:
     name: Alibaba Group
     type: company
@@ -735,6 +796,18 @@ organizations:
       share: 30%
       from: 2022
       note: $249M investment
+  apex-group:
+    name: Apex Group Ltd.
+    type: company
+    founded: 2003
+    headquarters: Bermuda
+    status: active
+    sector: fund-services
+    stakeholders:
+    - person: peter-hughes
+      role: founder
+      from: 2003
+      note: Founder & CEO
   apollo-global:
     name: Apollo Global Management
     type: privateequity
@@ -1866,6 +1939,16 @@ organizations:
       role: parent
       from: 2021
       note: Climate growth equity platform
+  bfta:
+    name: Belgian Foreign Trade Agency
+    type: agency
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: philippe-belgium
+      role: chairman
+      from: 1993
+      note: Honorary President, 85+ economic missions
   bharti-airtel:
     name: Bharti Airtel Limited
     type: company
@@ -2192,6 +2275,10 @@ organizations:
       role: member
       from: 2009
       note: Partecipante; cena 2009 con Davignon e Kissinger prima della nomina EU
+    - person: philippe-belgium
+      role: member
+      from: 1992
+      note: Partecipante 1992, 1993, 1996, 2007-2009, 2012
     - org: trilaterale
       role: partner
   biontech:
@@ -2901,6 +2988,11 @@ organizations:
     headquarters: Beijing, China
     status: active
     sector: tech
+    stakeholders:
+    - org: sofina
+      role: investor
+      from: 2016
+      note: Minority stake
   c8:
     name: C8
     type: media
@@ -3723,6 +3815,31 @@ organizations:
       role: member
       from: 2019
       note: Ex-President member
+  club-of-rome:
+    name: Club of Rome
+    type: forum
+    founded: 1968
+    headquarters: Winterthur, Switzerland
+    status: active
+    sector: sustainability
+    stakeholders:
+    - person: philippe-belgium
+      role: chairman
+      from: 2004
+      note: Honorary Chairman European Chapter
+    - person: aurelio-peccei
+      role: founder
+      from: 1968
+      to: 1984
+      note: Co-fondatore e primo Presidente
+    - person: alexander-king
+      role: founder
+      from: 1968
+      note: Co-fondatore
+    - person: mark-eyskens
+      role: member
+      from: 1972
+      to: 1978
   cma-cgm:
     name: CMA CGM
     type: company
@@ -5239,6 +5356,8 @@ organizations:
     - person: dimitris-papalexopoulos
       role: member
       note: Co-Chair Energy Transition Committee
+    - person: thomas-leysen
+      role: member
   escher-wyss:
     name: Escher Wyss AG
     type: company
@@ -5375,6 +5494,18 @@ organizations:
       from: 2009
       to: 2014
       note: Primo Presidente permanente
+  european-parliament:
+    name: European Parliament
+    type: agency
+    founded: 1952
+    headquarters: Brussels/Strasbourg
+    status: active
+    stakeholders:
+    - person: guy-verhofstadt
+      role: member
+      from: 2009
+      to: 2024
+      note: MEP Belgium, Brexit Coordinator 2016-2020
   european-policy-centre:
     name: European Policy Centre
     type: thinktank
@@ -6127,6 +6258,24 @@ organizations:
     - org: grupo-globo
       role: affiliate
       note: Philanthropy arm
+  fundrock:
+    name: FundRock Management Company S.A.
+    type: company
+    founded: 2004
+    headquarters: Luxembourg
+    status: active
+    sector: fund-services
+    aum: $112B
+    stakeholders:
+    - person: xavier-parain
+      role: executive
+      from: 2019
+      note: CEO
+    - org: apex-group
+      role: owner
+      share: 100%
+      from: 2021
+      note: Acquisition announced Oct 2020, closed 2021
   future-forward:
     name: Future Forward PAC / Future Forward USA Action
     type: foundation
@@ -6703,8 +6852,9 @@ organizations:
       from: 2017
       to: 2021
   governo-belgio:
-    name: Governo del Belgio
+    name: Regno del Belgio
     type: government
+    founded: 1831
     headquarters: Brussels, Belgium
     status: active
     stakeholders:
@@ -6727,6 +6877,59 @@ organizations:
       from: 2008
       to: 2009
       note: Primo Ministro; Min. Budget 1993-1999
+    - person: leopold-i-belgium
+      role: leader
+      from: 1831
+      to: 1865
+      note: Re dei Belgi (primo)
+    - person: philippe-belgium
+      role: leader
+      from: 2013
+      note: Re dei Belgi
+    - person: leopold-ii-belgium
+      role: leader
+      from: 1865
+      to: 1909
+      note: Re dei Belgi
+    - person: albert-i-belgium
+      role: leader
+      from: 1909
+      to: 1934
+      note: Re dei Belgi (Re Soldato)
+    - person: baudouin-belgium
+      role: leader
+      from: 1951
+      to: 1993
+      note: Re dei Belgi
+    - person: albert-ii-belgium
+      role: leader
+      from: 1993
+      to: 2013
+      note: Re dei Belgi, abdicato
+    - person: guy-verhofstadt
+      role: leader
+      from: 1999
+      to: 2008
+      note: Prime Minister
+    - person: mark-eyskens
+      role: leader
+      from: 1981
+      to: 1981
+      note: Prime Minister (Apr-Dec 1981)
+    - person: gaston-eyskens
+      role: leader
+      from: 1949
+      to: 1973
+      note: 'Prime Minister (3 terms: 1949-50, 1958-61, 1968-73)'
+    - person: bart-de-wever
+      role: leader
+      from: 2025
+      note: Prime Minister (Arizona coalition)
+    - person: herman-de-croo
+      role: legislator
+      from: 1968
+      to: 2014
+      note: Longest serving MP, President Chamber 1999-2007
   governo-canada:
     name: Governo Canada
     type: government
@@ -7586,9 +7789,10 @@ organizations:
       from: 2008
       to: 2012
   governo-lussemburgo:
-    name: Governo Lussemburgo
+    name: Governo del Lussemburgo
     type: government
-    headquarters: Lussemburgo
+    founded: 1839
+    headquarters: Luxembourg City
     status: active
     stakeholders:
     - person: gaston-thorn
@@ -7659,6 +7863,15 @@ organizations:
       role: minister
       from: 2023
       note: Vice PM, Min. Esteri
+    - person: gilles-roth
+      role: minister
+      from: 2023
+      note: Min. Finanze
+    - person: pierre-gramegna
+      role: minister
+      from: 2013
+      to: 2022
+      note: Min. Finanze
   governo-messico:
     type: government
     headquarters: Mexico City
@@ -9336,6 +9549,11 @@ organizations:
     - person: erick-thohir
       role: member
       from: 2019
+    - person: grand-duke-jean
+      role: member
+      from: 1946
+      to: 1998
+      note: IOC Member, Honorary Member 1998, Doyen 1982-98, Chairman Rules Reviewing Commission 1973-76
     - person: grand-duke-henri
       role: member
       from: 1998
@@ -9702,6 +9920,26 @@ organizations:
     - person: saravoot-yoovidhya
       role: board
       note: Main board director
+  kbc:
+    name: KBC Group NV
+    type: bank
+    founded: 1998
+    headquarters: Brussels, Belgium
+    status: active
+    sector: banking, insurance
+    stakeholders:
+    - person: johan-thijs
+      role: executive
+      from: 2012
+      note: CEO
+    - person: koenraad-debackere
+      role: chairman
+      from: 2020
+      note: Chairman of the Board
+    - person: thomas-leysen
+      role: chairman
+      from: 2011
+      to: 2020
   keppel:
     name: Keppel Ltd
     type: company
@@ -10436,6 +10674,31 @@ organizations:
       share: 3.38
       from: 2025
       note: As of March 2025
+  luxembourg-for-finance:
+    name: Luxembourg for Finance
+    type: agency
+    founded: 2008
+    headquarters: Luxembourg
+    status: active
+    sector: financial-promotion
+    stakeholders:
+    - person: tom-theobald
+      role: executive
+      from: 2024
+      note: CEO (Sep 2024-)
+    - person: nicolas-mackel
+      role: executive
+      from: 2013
+      to: 2024
+      note: CEO (2013-2024, 3 mandates)
+    - person: philipp-von-restorff
+      role: executive
+      from: 2022
+      note: Deputy CEO
+    - org: governo-lussemburgo
+      role: partner
+      from: 2008
+      note: Public-private partnership, Ministry of Finance
   lvmh:
     name: LVMH Moët Hennessy Louis Vuitton
     type: company
@@ -10637,6 +10900,15 @@ organizations:
       share: 100%
       from: 1999
       note: Wholly owned subsidiary
+  mediahuis:
+    name: Mediahuis NV
+    type: media
+    headquarters: Antwerp, Belgium
+    status: active
+    sector: media, publishing
+    stakeholders:
+    - person: thomas-leysen
+      role: chairman
   mediaset:
     name: Mediaset
     type: media
@@ -13962,6 +14234,30 @@ organizations:
       from: 1989
       to: 2001
       note: Chairman
+    - org: sofina
+      role: shareholder
+      from: 1964
+      to: 1988
+      note: Joint control with Boel family
+  sofina:
+    name: Sofina SA
+    type: company
+    founded: 1898
+    headquarters: Brussels, Belgium
+    status: active
+    sector: investment holding
+    stakeholders:
+    - person: harold-boel
+      role: executive
+      from: 2008
+      note: CEO
+    - person: yves-boel
+      role: chairman
+      from: 1956
+      to: 2012
+      note: President of Board
+    - person: nicolas-boel
+      role: board
   softbank:
     name: SoftBank Group
     type: company
@@ -14037,6 +14333,55 @@ organizations:
     stakeholders:
     - org: confindustria
       share: controlling
+  solvac:
+    name: Solvac SA
+    type: company
+    founded: 1983
+    headquarters: Brussels, Belgium
+    status: active
+    sector: holding
+    stakeholders:
+    - person: jean-marie-solvay
+      role: chairman
+  solvay:
+    name: Solvay SA
+    type: company
+    founded: 1863
+    headquarters: Brussels, Belgium
+    status: active
+    sector: chemicals
+    stakeholders:
+    - person: nicolas-boel
+      role: chairman
+      from: 2012
+      note: Chairman of the Board
+    - person: ernest-solvay
+      role: founder
+      from: 1863
+      to: 1922
+    - person: alfred-solvay
+      role: founder
+      from: 1863
+      to: 1894
+    - person: jean-marie-solvay
+      role: board
+      from: 1991
+    - person: philippe-kehren
+      role: executive
+      from: 2023
+      note: CEO
+    - person: pierre-gurdjian
+      role: chairman
+      from: 2023
+    - person: ilham-kadri
+      role: executive
+      from: 2019
+      to: 2023
+      note: CEO
+    - org: solvac
+      share: 30
+      from: 1983
+      note: largest shareholder
   spacex:
     name: SpaceX
     type: company
@@ -14051,6 +14396,17 @@ organizations:
     - person: elon-musk
       role: executive
       from: 2002
+  spinelli-group:
+    name: Spinelli Group
+    type: forum
+    founded: 2010
+    headquarters: Brussels
+    status: active
+    stakeholders:
+    - person: guy-verhofstadt
+      role: founder
+      from: 2010
+      note: Co-founder
   sports-authority:
     name: Sports Authority
     type: company
@@ -14259,6 +14615,21 @@ organizations:
     - person: john-scarlett
       role: advisor
       note: Advisory Board
+  syensqo:
+    name: Syensqo SA
+    type: company
+    founded: 2023
+    headquarters: Brussels, Belgium
+    status: active
+    sector: specialty chemicals
+    stakeholders:
+    - person: ilham-kadri
+      role: executive
+      from: 2023
+      note: CEO
+    - org: solvac
+      share: 31
+      from: 2023
   symphony-technology-group:
     name: Symphony Technology Group
     type: privateequity
@@ -14862,6 +15233,12 @@ organizations:
     - person: herman-van-rompuy
       role: member
       note: European Group member
+    - person: philippe-belgium
+      role: member
+      from: 2007
+      note: Partecipante Brussels 2007, 2024
+    - person: thomas-leysen
+      role: member
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -15082,6 +15459,43 @@ organizations:
       from: 2009
       to: 2016
       note: Secretary General
+  umicore:
+    name: Umicore SA
+    type: company
+    founded: 1989
+    headquarters: Brussels, Belgium
+    status: active
+    sector: materials technology, battery materials, recycling
+    stakeholders:
+    - person: koenraad-debackere
+      role: board
+    - person: thomas-leysen
+      role: chairman
+      from: 2008
+      note: CEO 2000-2008, then Chairman
+    - person: bart-sap
+      role: executive
+      from: 2024
+      note: CEO
+    - person: marc-grynberg
+      role: executive
+      from: 2008
+      to: 2021
+      note: CEO
+    - org: societe-generale-belgique
+      to: 1998
+      note: 'Storico: Union Miniere era controllata da SGB'
+  undp:
+    name: United Nations Development Programme
+    type: agency
+    founded: 1966
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: alexander-de-croo
+      role: executive
+      from: 2025
+      note: Administrator
   unilever:
     name: Unilever
     type: company
@@ -15248,6 +15662,27 @@ organizations:
       from: 2014
       to: 2018
       note: Commander
+  usines-gustave-boel:
+    name: Usines Gustave Boël
+    type: company
+    founded: 1880
+    headquarters: La Louvière, Belgium
+    status: defunct
+    sector: steel
+    stakeholders:
+    - person: harold-boel
+      role: executive
+      note: early career
+    - person: gustave-boel
+      role: founder
+      from: 1880
+      to: 1912
+    - person: pol-clovis-boel
+      role: executive
+      note: Director
+    - person: rene-boel
+      role: executive
+      note: Director
   vanguard:
     name: Vanguard
     type: assetmanager
@@ -15292,6 +15727,17 @@ organizations:
       role: board
       from: 2024
       note: Member Supervisory Board
+  verlinvest:
+    name: Verlinvest SA
+    type: company
+    founded: 1995
+    headquarters: Brussels, Belgium
+    status: active
+    sector: investment
+    stakeholders:
+    - person: frederic-de-mevius
+      role: executive
+      note: CEO
   viacom18:
     name: Viacom18
     type: media
@@ -15898,6 +16344,13 @@ organizations:
     - person: xavier-bettel
       role: member
       note: Speaker Davos
+    - person: philippe-belgium
+      role: member
+      from: 2014
+      note: Partecipante Davos 2014, 2023, 2025
+    - person: guy-verhofstadt
+      role: member
+      note: Agenda Contributor
     - org: bilderberg
       role: partner
     - org: fmi
