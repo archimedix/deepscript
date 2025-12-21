@@ -151,6 +151,33 @@ Report e analisi specifiche sulla Grecia moderna.
 
 ---
 
+## Paesi Bassi
+
+Report e analisi specifiche sui Paesi Bassi.
+
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Netherlands Power Map](netherlands-power-map.md) | 1544-2025 | Orange-Nassau, Bilderberg, ASML, finanza |
+
+**Casa Reale:**
+- [Famiglia Orange-Nassau](../docs/family/orange-nassau.md) - Monarchia dal 1815, fondatori Bilderberg/WWF
+
+**Figure chiave:**
+- [Mark Rutte](../docs/persons/mark-rutte.md) - PM 2010-24, NATO SG 2024-
+- [Klaas Knot](../docs/persons/klaas-knot.md) - DNB President, FSB Chair
+- [Peter Wennink](../docs/persons/peter-wennink.md) - CEO ASML, Bilderberg
+- [Prince Bernhard](../docs/persons/prince-bernhard-netherlands.md) - Fondatore Bilderberg e WWF
+
+**Multinazionali:**
+- [ASML](../docs/company/asml.md) - Monopolio semiconduttori EUV
+- [Shell](../docs/company/shell.md) - Oil & Gas (HQ ora Londra)
+- [Heineken](../docs/company/heineken.md) - Beverage
+
+**Forum originati in Olanda:**
+- [Bilderberg](../docs/forum/bilderberg.md) - Fondato 1954 a Oosterbeek
+
+---
+
 ## Movimenti Politici
 
 Report che analizzano la costruzione di movimenti politici e stati.
@@ -186,6 +213,9 @@ Report focalizzati su specifiche aree geografiche.
 | [Thailand Power Map](thailand-power-map.md) | Thailandia | Monarchia, Shinawatra |
 | [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | Golfo/USA | Investimenti AI |
 | [Greece Power Map](greece-power-map.md) | Grecia | Dinastie, crisi debito, Troika |
+| [Germany Power Map](germany-power-map.md) | Germania | Famiglie industriali, DAX, Atlantik-Brucke |
+| [France Power Map](france-power-map.md) | Francia | CAC 40, ENA, famiglie |
+| [Netherlands Power Map](netherlands-power-map.md) | Paesi Bassi | Orange-Nassau, Bilderberg, ASML |
 
 ---
 
@@ -212,6 +242,9 @@ Mappe di potere regionali:
 - [Thailand Power Map](thailand-power-map.md)
 - [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md)
 - [Greece Power Map](greece-power-map.md)
+- [Germany Power Map](germany-power-map.md)
+- [France Power Map](france-power-map.md)
+- [Netherlands Power Map](netherlands-power-map.md)
 
 ### Report Settoriali
 Analisi di industrie specifiche:
@@ -226,8 +259,8 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 25 |
-| **Eventi documentati** | 30 |
+| **Report totali** | 28 |
+| **Eventi documentati** | 30+ |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |
 

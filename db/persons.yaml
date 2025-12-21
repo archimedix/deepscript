@@ -43,6 +43,14 @@ persons:
       from: 2008
       to: 2011
       note: PM
+  ad-scheepbouwer:
+    nationality: NLD
+    affiliations:
+    - org: kpn
+      role: executive
+      from: 2001
+      to: 2011
+      note: CEO - salvo KPN dal collasso, riorganizzazione massiva
   adam-keswick:
     nationality: GBR
     family: keswick
@@ -527,6 +535,22 @@ persons:
     - org: governo-croazia
       role: leader
       from: 2016
+  andrew-bailey:
+    born: 1959
+    nationality: GBR
+    affiliations:
+    - org: fsb
+      role: chairman
+      from: 2025
+    - org: bank-of-england
+      role: executive
+      from: 2020
+      note: Governor
+    - org: fca
+      role: executive
+      from: 2016
+      to: 2020
+      note: CEO
   andrew-boyd:
     nationality: USA
     note: Ex-CIA Cyber Intelligence director, REDLattice board
@@ -946,6 +970,15 @@ persons:
       from: 2012
       to: 2020
       note: Managing Director (Taipan)
+  ben-van-beurden:
+    born: 1958
+    nationality: NLD
+    affiliations:
+    - org: shell
+      role: executive
+      from: 2014
+      to: 2022
+      note: CEO
   beniamino-andreatta:
     born: 1928
     died: 2007
@@ -1050,6 +1083,21 @@ persons:
       type: father
     - person: jean-arnault
       type: father
+  bernard-bot:
+    born: 1937
+    nationality: NLD
+    affiliations:
+    - org: nato
+      role: advisor
+      note: Deputy Permanent Representative
+    - org: governo-olanda
+      role: minister
+      from: 2003
+      to: 2007
+      note: Foreign Minister (Balkenende II/III)
+    - org: clingendael
+      role: chairman
+      note: Chairman Board of Governors
   bernard-cazeneuve:
     born: 1963
     nationality: FRA
@@ -1758,6 +1806,13 @@ persons:
       role: executive
       from: 2025
       note: CEO
+  christophe-fouquet:
+    nationality: FRA
+    affiliations:
+    - org: asml
+      role: executive
+      from: 2024
+      note: President & CEO
   christopher-james:
     born: 1946
     nationality: GBR
@@ -2223,6 +2278,14 @@ persons:
   dick-cheney:
     born: 1941
     nationality: USA
+  dick-schoof:
+    born: 1957
+    nationality: NLD
+    affiliations:
+    - org: governo-olanda
+      role: leader
+      from: 2024
+      note: Prime Minister
   dietmar-hopp:
     born: 1940
     nationality: DEU
@@ -2861,6 +2924,31 @@ persons:
     relations:
     - person: harry-oppenheimer
       type: father
+  ernst-van-der-beugel:
+    born: 1918
+    died: 2004
+    nationality: NLD
+    affiliations:
+    - org: bilderberg
+      role: executive
+      from: 1960
+      to: 1980
+      note: Honorary Secretary General
+    - org: governo-olanda
+      role: minister
+      from: 1957
+      to: 1958
+      note: State Secretary Foreign Affairs
+    - org: leiden-university
+      role: member
+      from: 1966
+      to: 1984
+      note: Professor International Relations
+    - org: klm
+      role: executive
+      from: 1961
+      to: 1963
+      note: President
   ettore-conti:
     born: 1871
     died: 1972
@@ -3342,6 +3430,52 @@ persons:
       from: 1943
       to: 1945
       note: OSS Romania
+  frans-timmermans:
+    born: 1961
+    nationality: NLD
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2008
+      note: Participant 2008 (Chantilly)
+    - org: wef
+      role: member
+      note: Speaker Davos (2017, 2020+)
+    - org: governo-olanda
+      role: minister
+      from: 2012
+      to: 2014
+      note: Minister of Foreign Affairs
+    - org: governo-olanda
+      role: minister
+      from: 2007
+      to: 2010
+      note: Minister for European Affairs
+    - org: european-commission
+      role: executive
+      from: 2014
+      to: 2023
+      note: First VP 2014-19, EVP Green Deal 2019-23
+    relations:
+    - person: hans-van-den-broek
+      type: mentee
+      note: Assistant to Commissioner
+    - person: max-van-der-stoel
+      type: mentee
+      note: Senior Advisor OSCE
+  frans-van-houten:
+    born: 1960
+    nationality: NLD
+    affiliations:
+    - org: wef
+      role: member
+      from: 2017
+      note: Co-Chair Davos 2017, PACE Co-Chair
+    - org: philips
+      role: executive
+      from: 2011
+      to: 2022
+      note: CEO
   frederic-arnault:
     born: 1995
     nationality: FRA
@@ -3902,6 +4036,35 @@ persons:
       role: board
     - org: porsche-se
       role: board
+  hans-van-den-broek:
+    born: 1936
+    nationality: NLD
+  hans-wijers:
+    nationality: NLD
+    affiliations:
+    - org: trilateral-commission
+      role: member
+    - org: heineken
+      role: board
+      from: 2012
+      to: 2019
+    - org: shell
+      role: board
+      from: 2009
+      to: 2018
+    - org: concertgebouw
+      role: board
+      from: 2015
+      to: 2019
+    - org: ing
+      role: chairman
+      from: 2018
+      to: 2023
+      note: Chairman Supervisory Board
+    - org: ajax
+      role: board
+      from: 2012
+      to: 2015
   hansjorg-wyss:
     born: 1935
     nationality: CHE
@@ -4631,6 +4794,14 @@ persons:
       from: 2005
     - org: federal-reserve-ny
       role: board
+  jan-hommen:
+    nationality: NLD
+    affiliations:
+    - org: ing
+      role: executive
+      from: 2009
+      to: 2013
+      note: CEO; Chairman SB 2008-2009
   jan-tinbergen:
     born: 1903
     died: 1994
@@ -4967,6 +5138,57 @@ persons:
       from: 2011
       to: 2021
       note: President
+  jeroen-van-der-veer:
+    born: 1947
+    nationality: NLD
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Participant as Shell CEO
+    - org: wef
+      role: member
+    - org: nato
+      role: advisor
+      from: 2009
+      to: 2010
+      note: Vice-Chairman Group of Experts Strategic Concept
+    - org: equinor
+      role: advisor
+      from: 2019
+    - org: unilever
+      role: board
+      from: 2002
+      to: 2011
+      note: Vice-Chairman, Senior Independent Director
+    - org: dnb
+      role: board
+      from: 2000
+      to: 2004
+      note: Supervisory Board
+    - org: shell
+      role: executive
+      from: 2004
+      to: 2009
+      note: CEO (successe Phil Watts, unifico struttura duale)
+    - org: philips
+      role: chairman
+      from: 2011
+      to: 2021
+      note: Chairman Supervisory Board
+    - org: ing
+      role: chairman
+      from: 2011
+      to: 2018
+      note: Chairman Supervisory Board (board 2009-2018)
+    - org: tu-delft
+      role: chairman
+      from: 2013
+      to: 2021
+      note: Chairman Supervisory Council
+    - org: boskalis
+      role: board
+      from: 2015
+      note: Vice Chair Supervisory Board
   jerome-powell:
     born: 1953
     nationality: USA
@@ -5196,6 +5418,25 @@ persons:
     - org: standard-oil
       role: founder
       from: 1870
+  john-de-mol:
+    born: 1955
+    nationality: NLD
+    family: de-mol
+    affiliations:
+    - org: endemol
+      role: founder
+      from: 1994
+      to: 2004
+      note: Co-fondatore con Joop van den Ende. Venduto a Telefonica 2000, CCO fino 2004
+    - org: talpa-network
+      role: founder
+      from: 2005
+      to: 2022
+      note: Fondatore e proprietario. 30% RTL Nederland post-merger
+    - org: rtl-nederland
+      role: board
+      from: 2022
+      note: 30% shareholder post-merger Talpa
   john-elkann:
     born: 1976
     nationality: ITA
@@ -5426,6 +5667,28 @@ persons:
     - org: gsk
       role: chairman
       from: 2019
+  joost-farwerck:
+    born: 1965
+    nationality: NLD
+    affiliations:
+    - org: kpn
+      role: executive
+      from: 2019
+      note: CEO e Chairman Board of Management
+  joris-voorhoeve:
+    born: 1945
+    nationality: NLD
+    affiliations:
+    - org: governo-olanda
+      role: minister
+      from: 1994
+      to: 1998
+      note: Defence Minister (Kok I)
+    - org: clingendael
+      role: executive
+      from: 1991
+      to: 1994
+      note: Director
   jose-barroso:
     born: 1956
     nationality: PRT
@@ -5864,6 +6127,39 @@ persons:
       role: leader
       from: 2025
       note: President (first woman, first African)
+  klaas-knot:
+    born: 1967
+    nationality: NLD
+    affiliations:
+    - org: bis
+      role: board
+      from: 2011
+      note: Board of Directors member
+    - org: trilateral-commission
+      role: member
+      note: European Group
+    - org: ecb
+      role: board
+      from: 2011
+      to: 2025
+      note: Governing Council member (as DNB President)
+    - org: imf
+      role: board
+      from: 2011
+      note: Governor for Netherlands
+    - org: group-of-thirty
+      role: member
+      note: G30 member
+    - org: dnb
+      role: executive
+      from: 2011
+      to: 2025
+      note: President 2011-2025
+    - org: fsb
+      role: chairman
+      from: 2021
+      to: 2025
+      note: Chair (Vice-Chair 2018-2021)
   klaus-barbie:
     born: 1913
     died: 1991
@@ -6935,6 +7231,11 @@ persons:
       role: leader
       from: 2006
       to: 2011
+    - org: fsb
+      role: chairman
+      from: 2009
+      to: 2011
+      note: Primo Chairman FSB
   mario-monti:
     born: 1943
     nationality: ITA
@@ -6984,6 +7285,24 @@ persons:
       from: 2020
       to: 2022
       note: Digital Transformation
+  mark-carney:
+    born: 1965
+    nationality: CAN
+    affiliations:
+    - org: fsb
+      role: chairman
+      from: 2011
+      to: 2018
+    - org: bank-of-canada
+      role: executive
+      from: 2008
+      to: 2013
+      note: Governor
+    - org: bank-of-england
+      role: executive
+      from: 2013
+      to: 2020
+      note: Governor
   mark-mcclellan:
     born: 1963
     nationality: USA
@@ -7026,6 +7345,11 @@ persons:
       from: 2006
       to: 2024
       note: Party Leader
+    - org: leiden-university
+      role: member
+      from: 1988
+      to: 1992
+      note: MA History
   mark-suzman:
     born: 1969
     nationality: ZAF
@@ -7167,6 +7491,10 @@ persons:
       from: 1943
       to: 1945
       note: Chief SI Italy
+  max-van-der-stoel:
+    born: 1924
+    died: 2011
+    nationality: NLD
   max-warburg:
     born: 1867
     died: 1946
@@ -7315,6 +7643,14 @@ persons:
       from: 2006
       to: 2012
       note: CEO; cugino Edouard
+  michel-tilmant:
+    nationality: BEL
+    affiliations:
+    - org: ing
+      role: executive
+      from: 2004
+      to: 2009
+      note: CEO
   michele-flournoy:
     born: 1960
     nationality: USA
@@ -7481,6 +7817,13 @@ persons:
       role: leader
       from: 2022
       note: Presidente UAE, Ruler Abu Dhabi
+  monika-sie-dhian-ho:
+    nationality: NLD
+    affiliations:
+    - org: clingendael
+      role: executive
+      from: 2016
+      note: General Director
   moon-hyung-pyo:
     nationality: Korean
     note: Ex Health Minister, Ex NPS Director. Convicted 2017 for pressuring NPS vote on Samsung merger
@@ -7916,6 +8259,19 @@ persons:
       role: founder
       from: 2000
       note: Founder and CEO
+  nout-wellink:
+    nationality: NLD
+    affiliations:
+    - org: bis
+      role: chairman
+      from: 2002
+      to: 2006
+      note: Chairman of Board
+    - org: dnb
+      role: executive
+      from: 1997
+      to: 2011
+      note: President (dal 1982 Executive Director)
   oei-wie-gwan:
     born: 1923
     died: 1963
@@ -7955,6 +8311,19 @@ persons:
       from: 2021
       to: 2025
       note: Cancelliere
+  olaf-sleijpen:
+    born: 1970
+    nationality: NLD
+    affiliations:
+    - org: ecb
+      role: advisor
+      from: 2001
+      to: 2004
+      note: Advisor to President Duisenberg
+    - org: dnb
+      role: executive
+      from: 2025
+      note: President
   oliver-baete:
     born: 1965
     nationality: DEU
@@ -8449,6 +8818,35 @@ persons:
     died: 2015
     nationality: SWE
     family: wallenberg
+  peter-wennink:
+    born: 1957
+    nationality: NLD
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2022
+      note: Participant 2022, 2023
+    - org: asml
+      role: executive
+      from: 2013
+      to: 2024
+      note: President & CEO
+    - org: asml
+      role: executive
+      from: 1999
+      to: 2013
+      note: CFO & EVP
+    - org: heineken
+      role: chairman
+      from: 2024
+      note: Chairman Supervisory Board (incoming)
+    - org: vdl-groep
+      role: board
+      from: 2024
+      note: Member Supervisory Board
+    - org: tu-eindhoven
+      role: chairman
+      note: Chairman Supervisory Board
   petros-christodoulou:
     born: 1960
     nationality: GRC
@@ -8627,10 +9025,58 @@ persons:
     affiliations:
     - org: brown-brothers-harriman
       role: partner
+  prince-bernhard-netherlands:
+    born: 1911
+    died: 2004
+    nationality: NLD
+    family: orange-nassau
+    affiliations:
+    - org: bilderberg
+      role: founder
+      from: 1954
+      to: 1976
+      note: Founder and Chairman
+    - org: wwf
+      role: founder
+      from: 1961
+      to: 1976
+      note: First President
   prudence-murdoch:
     born: 1958
     nationality: Australia
     family: murdoch
+  queen-beatrix:
+    born: 1938
+    nationality: NLD
+    family: orange-nassau
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Participant as Queen
+    - org: leiden-university
+      role: member
+      note: Law degree
+  queen-juliana:
+    born: 1909
+    died: 2004
+    nationality: NLD
+    family: orange-nassau
+    affiliations:
+    - org: leiden-university
+      role: member
+      note: Law degree
+  queen-maxima:
+    born: 1971
+    nationality: ARG
+    family: orange-nassau
+    affiliations:
+    - org: wef
+      role: board
+      note: Stewardship Board Financial Systems; EDISON Alliance
+    - org: governo-olanda
+      role: leader
+      from: 2013
+      note: Queen consort
   rachida-dati:
     born: 1965
     nationality: FRA
@@ -8685,6 +9131,14 @@ persons:
       role: executive
       from: 2022
       note: President & CEO
+  ralph-hamers:
+    nationality: NLD
+    affiliations:
+    - org: ing
+      role: executive
+      from: 2013
+      to: 2020
+      note: CEO
   ralph-heck:
     nationality: DEU
     note: Chairman & CEO Bertelsmann Stiftung since 2020. Ex-McKinsey.
@@ -9012,6 +9466,22 @@ persons:
     - org: stanford-university
       role: member
       note: MBA 2006 (Fulbright Scholar)
+  rob-de-wijk:
+    nationality: NLD
+    affiliations:
+    - org: nato
+      role: advisor
+      note: Senior Steering Group NATO SOF HQ
+    - org: leiden-university
+      role: executive
+      note: Professor International Relations and Security
+    - org: clingendael
+      role: executive
+      note: Director Security and Conflict Programme
+    - org: hcss
+      role: founder
+      from: 2007
+      note: Founder and Non-Executive Director
   rob-lucas:
     nationality: GBR
     affiliations:
@@ -9250,6 +9720,13 @@ persons:
       role: diplomat
       from: 1986
       to: 1987
+  roy-jakobs:
+    nationality: NLD
+    affiliations:
+    - org: philips
+      role: executive
+      from: 2022
+      note: CEO
   roy-jenkins:
     born: 1920
     died: 2003
@@ -10024,6 +10501,13 @@ persons:
       role: founder
       from: 1976
       to: 1985
+  steven-van-rijswijk:
+    nationality: NLD
+    affiliations:
+    - org: ing
+      role: executive
+      from: 2020
+      note: CEO
   sudono-salim:
     born: 1916
     died: 2012
@@ -10655,6 +11139,58 @@ persons:
       role: chairman
       from: 2024
       note: First chairperson starting January 1, 2024
+  victor-halberstadt:
+    born: 1939
+    died: 2024
+    nationality: NLD
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1975
+      to: 2024
+      note: Honorary Secretary-General 1980-2000, Steering Committee, Chairman Foundation Bilderberg Meetings
+    - org: wef
+      role: member
+      from: 1990
+      to: 2024
+      note: Faculty Member
+    - org: goldman-sachs
+      role: advisor
+      from: 1991
+      to: 2024
+      note: International Advisory Board
+    - org: daimler
+      role: chairman
+      from: 1995
+      to: 2005
+      note: Chairman International Advisory Board
+    - org: leiden-university
+      role: executive
+      from: 1974
+      to: 2009
+      note: Professor Public Sector Finance, Emeritus 2009-2024
+    - org: concertgebouw
+      role: board
+      from: 1988
+      to: 2011
+      note: Director
+    - org: ser-netherlands
+      role: member
+      from: 1972
+      to: 2004
+      note: Crown Member
+    - org: lky-school
+      role: board
+      from: 2005
+      to: 2024
+      note: Board of Trustees
+    - org: kpn
+      role: board
+      note: Supervisory Board
+    relations:
+    - person: queen-maxima
+      type: mentor
+      note: Helped integrate Máxima into Dutch society
   victor-hartono:
     born: 1972
     nationality: IDN
@@ -10707,6 +11243,14 @@ persons:
     - org: governo-ucraina
       role: leader
       from: 2019
+  wael-sawan:
+    born: 1974
+    nationality: LBN
+    affiliations:
+    - org: shell
+      role: executive
+      from: 2023
+      note: CEO
   waleed-al-ibrahim:
     nationality: Saudi
     note: MBC founder. Detained Ritz-Carlton 2017. Now minority shareholder
@@ -10792,6 +11336,31 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader
+  willem-alexander:
+    born: 1967
+    nationality: NLD
+    family: orange-nassau
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: 2008, 2016, 2022, 2024
+    - org: governo-olanda
+      role: leader
+      from: 2013
+      note: King
+    - org: leiden-university
+      role: member
+      from: 1987
+      to: 1993
+      note: MA History
+    - org: klm
+      role: member
+      from: 1996
+      note: Guest pilot, Fokker 70, Boeing 737
+    - org: unsgab
+      role: chairman
+      from: 2006
+      to: 2013
   william-binney:
     born: 1943
     nationality: USA
@@ -10921,6 +11490,16 @@ persons:
       from: 1998
       to: 2003
       note: Primo Presidente BCE
+    - org: ecb
+      role: executive
+      from: 1998
+      to: 2003
+      note: First President ECB
+    - org: dnb
+      role: executive
+      from: 1982
+      to: 1997
+      note: President
   winthrop-rockefeller:
     born: 1912
     died: 1973
@@ -10972,6 +11551,40 @@ persons:
       role: minister
       from: 2021
       note: Head of Chancellery
+  wopke-hoekstra:
+    born: 1975
+    nationality: NLD
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2022
+      note: Participant 2022 (Min FA), 2024 (Commissioner), 2025 (Stockholm)
+    - org: wef
+      role: member
+      note: Speaker Davos
+    - org: governo-olanda
+      role: minister
+      from: 2017
+      to: 2023
+      note: Min Finance 2017-22, Min Foreign Affairs + Deputy PM 2022-23
+    - org: mckinsey
+      role: partner
+      from: 2006
+      to: 2017
+      note: Partner from 2013
+    - org: shell
+      role: executive
+      from: 2002
+      to: 2006
+      note: Commercial positions Berlin, Hamburg, Rotterdam
+    - org: european-commission
+      role: executive
+      from: 2023
+      note: Commissioner Climate 2023-24, Climate/Net Zero/Clean Growth 2024-
+    relations:
+    - person: frans-timmermans
+      type: successor
+      note: Succeeded as EU Climate Commissioner
   wyc-grousbeck:
     nationality: USA
     affiliations:

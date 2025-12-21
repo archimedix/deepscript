@@ -47,6 +47,8 @@ Controlla se esiste gia' la scheda in `docs/`.
 - Se nodo esiste MA scheda non esiste → stub, procedi a documentare.
 - Se nodo non esiste → nuova entita'.
 
+Ricorda, ora siamo nel 2025, quando fai le ricerche usa sempre l'anno corrente
+
 ### 2. Cerca crosslinks nel database esistente
 
 **PRIMA di cercare sul web**, interroga Neo4j per trovare connessioni potenziali:

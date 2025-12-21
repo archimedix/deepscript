@@ -267,6 +267,18 @@ organizations:
       role: executive
       from: 1954
       to: 1974
+  air-france-klm:
+    name: Air France-KLM
+    type: company
+    founded: 2004
+    headquarters: Paris, France
+    status: active
+    sector: airline
+    stakeholders:
+    - org: governo-olanda
+      share: 9.1
+      from: 2019
+      note: State shareholding
   airasia:
     name: AirAsia / Capital A
     type: company
@@ -334,6 +346,17 @@ organizations:
       share: 40.4%
       from: 2025
       note: Post fusione Gulf-Intouch
+  ajax:
+    name: AFC Ajax
+    type: sportsclub
+    founded: 1900
+    headquarters: Amsterdam, Netherlands
+    status: active
+    stakeholders:
+    - person: hans-wijers
+      role: board
+      from: 2012
+      to: 2015
   ako-capital:
     name: AKO Capital
     type: hedgefund
@@ -771,6 +794,33 @@ organizations:
       role: member
       from: 1999
       note: Membro fondatore
+  asml:
+    name: ASML Holding N.V.
+    type: company
+    founded: 1984
+    headquarters: Veldhoven, Netherlands
+    status: active
+    sector: semiconductors
+    stakeholders:
+    - person: peter-wennink
+      role: executive
+      from: 2013
+      to: 2024
+      note: President & CEO
+    - person: peter-wennink
+      role: executive
+      from: 1999
+      to: 2013
+      note: CFO & EVP
+    - person: christophe-fouquet
+      role: executive
+      from: 2024
+      note: President & CEO
+    - org: philips
+      role: founder
+      from: 1984
+      to: 1995
+      note: Joint venture with ASM International, IPO 1995
   aspen-institute:
     name: Aspen Institute
     type: thinktank
@@ -1255,6 +1305,13 @@ organizations:
       from: 1980
       to: 1992
       note: President
+  banijay:
+    name: Banijay
+    type: media
+    founded: 2008
+    headquarters: Paris, France
+    status: active
+    note: Acquired Endemol Shine 2020. Largest independent content producer globally.
   bank-of-america:
     name: Bank of America Merrill Lynch
     type: bank
@@ -1277,6 +1334,17 @@ organizations:
       share: 0.038
     - org: berkshire-hathaway
       role: stake
+  bank-of-canada:
+    name: Bank of Canada
+    type: centralbank
+    headquarters: Ottawa, Canada
+    status: active
+    stakeholders:
+    - person: mark-carney
+      role: executive
+      from: 2008
+      to: 2013
+      note: Governor
   bank-of-china:
     name: Bank of China
     type: bank
@@ -1286,6 +1354,21 @@ organizations:
     - org: temasek
       role: shareholder
       note: Chinese bank stake
+  bank-of-england:
+    name: Bank of England
+    type: centralbank
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: mark-carney
+      role: executive
+      from: 2013
+      to: 2020
+      note: Governor
+    - person: andrew-bailey
+      role: executive
+      from: 2020
+      note: Governor
   bank-of-greece:
     name: Bank of Greece
     type: centralbank
@@ -1918,6 +2001,42 @@ organizations:
     - person: tom-enders
       role: steering
       note: Steering Committee member
+    - person: peter-wennink
+      role: member
+      from: 2022
+      note: Participant 2022, 2023
+    - person: prince-bernhard-netherlands
+      role: founder
+      from: 1954
+      to: 1976
+      note: Founder and Chairman
+    - person: willem-alexander
+      role: member
+      note: 2008, 2016, 2022, 2024
+    - person: queen-beatrix
+      role: member
+      note: Participant as Queen
+    - person: jeroen-van-der-veer
+      role: member
+      note: Participant as Shell CEO
+    - person: victor-halberstadt
+      role: steering
+      from: 1975
+      to: 2024
+      note: Honorary Secretary-General 1980-2000, Steering Committee, Chairman Foundation Bilderberg Meetings
+    - person: ernst-van-der-beugel
+      role: executive
+      from: 1960
+      to: 1980
+      note: Honorary Secretary General
+    - person: frans-timmermans
+      role: member
+      from: 2008
+      note: Participant 2008 (Chantilly)
+    - person: wopke-hoekstra
+      role: member
+      from: 2022
+      note: Participant 2022 (Min FA), 2024 (Commissioner), 2025 (Stockholm)
     - org: trilaterale
       role: partner
   biontech:
@@ -1978,6 +2097,15 @@ organizations:
       role: chairman
       from: 2022
       note: Chair Board of Directors
+    - person: klaas-knot
+      role: board
+      from: 2011
+      note: Board of Directors member
+    - person: nout-wellink
+      role: chairman
+      from: 2002
+      to: 2006
+      note: Chairman of Board
     - org: bce
       role: partner
     - org: bank-of-greece
@@ -2277,6 +2405,16 @@ organizations:
       from: 2013
       to: 2013
       note: Infrastructure analyst, Hawaii NSA facility
+  boskalis:
+    name: Royal Boskalis Westminster N.V.
+    type: company
+    headquarters: Papendrecht, Netherlands
+    status: active
+    stakeholders:
+    - person: jeroen-van-der-veer
+      role: board
+      from: 2015
+      note: Vice Chair Supervisory Board
   boston-celtics:
     name: Boston Celtics
     type: sportsclub
@@ -3331,6 +3469,28 @@ organizations:
       role: founder
       from: 2006
       note: Co-founder & Managing Partner
+  clingendael:
+    name: Netherlands Institute of International Relations Clingendael
+    type: thinktank
+    founded: 1983
+    headquarters: Wassenaar/The Hague, Netherlands
+    status: active
+    stakeholders:
+    - person: joris-voorhoeve
+      role: executive
+      from: 1991
+      to: 1994
+      note: Director
+    - person: bernard-bot
+      role: chairman
+      note: Chairman Board of Governors
+    - person: monika-sie-dhian-ho
+      role: executive
+      from: 2016
+      note: General Director
+    - person: rob-de-wijk
+      role: executive
+      note: Director Security and Conflict Programme
   clinton-foundation:
     name: Clinton Foundation
     type: foundation
@@ -3639,6 +3799,21 @@ organizations:
       from: 1952
       to: 2022
       note: Head of the Commonwealth
+  concertgebouw:
+    name: Het Concertgebouw
+    type: company
+    founded: 1888
+    headquarters: Amsterdam, Netherlands
+    stakeholders:
+    - person: victor-halberstadt
+      role: board
+      from: 1988
+      to: 2011
+      note: Director
+    - person: hans-wijers
+      role: board
+      from: 2015
+      to: 2019
   conference-of-presidents:
     name: Conference of Presidents
     type: forum
@@ -3879,6 +4054,18 @@ organizations:
     - person: jonathan-rothermere
       role: chairman
       from: 1998
+  daimler:
+    name: Daimler AG
+    type: automaker
+    founded: 1926
+    headquarters: Stuttgart, Germany
+    status: renamed
+    stakeholders:
+    - person: victor-halberstadt
+      role: chairman
+      from: 1995
+      to: 2005
+      note: Chairman International Advisory Board
   dan-gertler-international:
     name: Dan Gertler International (DGI)
     type: company
@@ -4215,6 +4402,37 @@ organizations:
     - person: victor-hartono
       role: executive
       note: CEO, COO
+  dnb:
+    name: De Nederlandsche Bank
+    type: centralbank
+    founded: 1814
+    headquarters: Amsterdam, Netherlands
+    status: active
+    stakeholders:
+    - person: wim-duisenberg
+      role: executive
+      from: 1982
+      to: 1997
+      note: President
+    - person: klaas-knot
+      role: executive
+      from: 2011
+      to: 2025
+      note: President 2011-2025
+    - person: jeroen-van-der-veer
+      role: board
+      from: 2000
+      to: 2004
+      note: Supervisory Board
+    - person: nout-wellink
+      role: executive
+      from: 1997
+      to: 2011
+      note: President (dal 1982 Executive Director)
+    - person: olaf-sleijpen
+      role: executive
+      from: 2025
+      note: President
   dod:
     name: Department of Defense
     type: government
@@ -4354,11 +4572,26 @@ organizations:
     headquarters: Frankfurt, Germany
     status: active
     stakeholders:
+    - person: wim-duisenberg
+      role: executive
+      from: 1998
+      to: 2003
+      note: First President ECB
     - person: axel-weber
       role: board
       from: 2004
       to: 2011
       note: Governing Council member
+    - person: klaas-knot
+      role: board
+      from: 2011
+      to: 2025
+      note: Governing Council member (as DNB President)
+    - person: olaf-sleijpen
+      role: advisor
+      from: 2001
+      to: 2004
+      note: Advisor to President Duisenberg
   ecfr:
     name: European Council on Foreign Relations
     type: thinktank
@@ -4488,6 +4721,23 @@ organizations:
       share: 100%
       from: 2025
       note: Take-private $25B, largest PE media deal ever
+  endemol:
+    name: Endemol
+    type: media
+    founded: 1994
+    headquarters: Hilversum, Netherlands
+    status: merged
+    note: Merged with Shine Group and Core Media (2015) → Endemol Shine → Banijay (2020)
+    stakeholders:
+    - person: john-de-mol
+      role: founder
+      from: 1994
+      to: 2004
+      note: Co-fondatore con Joop van den Ende. Venduto a Telefonica 2000, CCO fino 2004
+    - org: banijay
+      share: 100
+      from: 2020
+      note: Acquired Endemol Shine Group
   eni:
     name: ENI
     type: company
@@ -4563,6 +4813,7 @@ organizations:
       share: 0.144
       note: Largest shareholder, Wallenberg family
   equinor:
+    name: Equinor ASA
     type: company
     headquarters: Stavanger, Norway
     status: active
@@ -4571,6 +4822,9 @@ organizations:
     - person: john-scarlett
       role: chairman
       note: Strategy Advisory Council
+    - person: jeroen-van-der-veer
+      role: advisor
+      from: 2019
   ericsson:
     name: Ericsson
     type: company
@@ -4690,6 +4944,22 @@ organizations:
       role: executive
       from: 2005
       to: 2013
+  european-commission:
+    name: European Commission
+    type: agency
+    founded: 1958
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: frans-timmermans
+      role: executive
+      from: 2014
+      to: 2023
+      note: First VP 2014-19, EVP Green Deal 2019-23
+    - person: wopke-hoekstra
+      role: executive
+      from: 2023
+      note: Commissioner Climate 2023-24, Climate/Net Zero/Clean Growth 2024-
   exim-bank-china:
     name: Export-Import Bank of China
     type: bank
@@ -4781,6 +5051,17 @@ organizations:
       from: 2001
       to: 2002
       note: Translator, Turkish/Farsi/Azerbaijani
+  fca:
+    name: Financial Conduct Authority
+    type: agency
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: andrew-bailey
+      role: executive
+      from: 2016
+      to: 2020
+      note: CEO
   fclt-global:
     name: FCLTGlobal
     type: thinktank
@@ -5323,6 +5604,30 @@ organizations:
       role: ygl
       from: 2012
       note: Young Leader 2012, Fields Medal, Depute
+  fsb:
+    name: Financial Stability Board
+    type: agency
+    founded: 2009
+    headquarters: Basel, Switzerland
+    status: active
+    stakeholders:
+    - person: mario-draghi
+      role: chairman
+      from: 2009
+      to: 2011
+      note: Primo Chairman FSB
+    - person: klaas-knot
+      role: chairman
+      from: 2021
+      to: 2025
+      note: Chair (Vice-Chair 2018-2021)
+    - person: mark-carney
+      role: chairman
+      from: 2011
+      to: 2018
+    - person: andrew-bailey
+      role: chairman
+      from: 2025
   fuji-media:
     name: Fuji Media Holdings
     type: media
@@ -5718,7 +6023,7 @@ organizations:
     name: Goldman Sachs
     type: bank
     founded: 1869
-    headquarters: New York
+    headquarters: New York, USA
     status: active
     stakeholders:
     - person: robert-rubin
@@ -5797,6 +6102,11 @@ organizations:
       from: 1988
       to: 2000
       note: Partner (1994), Chairman Germany
+    - person: victor-halberstadt
+      role: advisor
+      from: 1991
+      to: 2024
+      note: International Advisory Board
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -6863,8 +7173,9 @@ organizations:
       from: 2017
       to: 2023
   governo-olanda:
-    name: Governo Olanda
+    name: Regno dei Paesi Bassi
     type: government
+    founded: 1815
     headquarters: The Hague, Netherlands
     status: active
     stakeholders:
@@ -6878,6 +7189,48 @@ organizations:
       from: 2010
       to: 2024
       note: Prime Minister - longest serving in Dutch history
+    - person: willem-alexander
+      role: leader
+      from: 2013
+      note: King
+    - person: queen-maxima
+      role: leader
+      from: 2013
+      note: Queen consort
+    - person: joris-voorhoeve
+      role: minister
+      from: 1994
+      to: 1998
+      note: Defence Minister (Kok I)
+    - person: bernard-bot
+      role: minister
+      from: 2003
+      to: 2007
+      note: Foreign Minister (Balkenende II/III)
+    - person: ernst-van-der-beugel
+      role: minister
+      from: 1957
+      to: 1958
+      note: State Secretary Foreign Affairs
+    - person: frans-timmermans
+      role: minister
+      from: 2012
+      to: 2014
+      note: Minister of Foreign Affairs
+    - person: frans-timmermans
+      role: minister
+      from: 2007
+      to: 2010
+      note: Minister for European Affairs
+    - person: wopke-hoekstra
+      role: minister
+      from: 2017
+      to: 2023
+      note: Min Finance 2017-22, Min Foreign Affairs + Deputy PM 2022-23
+    - person: dick-schoof
+      role: leader
+      from: 2024
+      note: Prime Minister
   governo-portogallo:
     name: Governo Portogallo
     type: government
@@ -7475,15 +7828,18 @@ organizations:
       from: 2009
       note: General Partner
   group-of-thirty:
-    name: Group of Thirty
+    name: Group of Thirty (G30)
     type: forum
     founded: 1978
-    headquarters: Washington DC, USA
+    headquarters: Washington D.C., USA
     status: active
     stakeholders:
     - person: axel-weber
       role: member
       note: Member
+    - person: klaas-knot
+      role: member
+      note: G30 member
   groupe-arnault:
     name: Groupe Arnault
     type: company
@@ -7733,6 +8089,17 @@ organizations:
     stakeholders:
     - org: warner-bros-discovery
       share: 100%
+  hcss:
+    name: The Hague Centre for Strategic Studies
+    type: thinktank
+    founded: 2007
+    headquarters: The Hague, Netherlands
+    status: active
+    stakeholders:
+    - person: rob-de-wijk
+      role: founder
+      from: 2007
+      note: Founder and Non-Executive Director
   heathrow-airport:
     name: Heathrow Airport
     type: company
@@ -7755,6 +8122,22 @@ organizations:
       role: chairman
       from: 2022
       note: Chairman Board
+  heineken:
+    name: Heineken N.V.
+    type: company
+    founded: 1864
+    headquarters: Amsterdam, Netherlands
+    status: active
+    sector: beverage
+    stakeholders:
+    - person: peter-wennink
+      role: chairman
+      from: 2024
+      note: Chairman Supervisory Board (incoming)
+    - person: hans-wijers
+      role: board
+      from: 2012
+      to: 2019
   hellenic-olympic-committee:
     name: Hellenic Olympic Committee
     type: agency
@@ -8119,6 +8502,10 @@ organizations:
       from: 2004
       to: 2011
       note: German Governor
+    - person: klaas-knot
+      role: board
+      from: 2011
+      note: Governor for Netherlands
   ina:
     name: INA (Istituto Nazionale Assicurazioni)
     type: company
@@ -8179,6 +8566,43 @@ organizations:
     - org: salim-group
       share: 45
       note: Via Indoritel Makmur
+  ing:
+    name: ING Group N.V.
+    type: bank
+    founded: 1991
+    headquarters: Amsterdam, Netherlands
+    status: active
+    sector: banking
+    stakeholders:
+    - person: jeroen-van-der-veer
+      role: chairman
+      from: 2011
+      to: 2018
+      note: Chairman Supervisory Board (board 2009-2018)
+    - person: jan-hommen
+      role: executive
+      from: 2009
+      to: 2013
+      note: CEO; Chairman SB 2008-2009
+    - person: ralph-hamers
+      role: executive
+      from: 2013
+      to: 2020
+      note: CEO
+    - person: steven-van-rijswijk
+      role: executive
+      from: 2020
+      note: CEO
+    - person: hans-wijers
+      role: chairman
+      from: 2018
+      to: 2023
+      note: Chairman Supervisory Board
+    - person: michel-tilmant
+      role: executive
+      from: 2004
+      to: 2009
+      note: CEO
   institut-montaigne:
     name: Institut Montaigne
     type: thinktank
@@ -8813,6 +9237,28 @@ organizations:
     - org: mubadala
       role: investor
       note: $1B co-investment Asia-Pacific 2022
+  klm:
+    name: KLM Royal Dutch Airlines
+    type: company
+    founded: 1919
+    headquarters: Amstelveen, Netherlands
+    status: active
+    sector: airline
+    note: Oldest airline still operating under original name. Part of Air France-KLM since 2004
+    stakeholders:
+    - person: willem-alexander
+      role: member
+      from: 1996
+      note: Guest pilot, Fokker 70, Boeing 737
+    - person: ernst-van-der-beugel
+      role: executive
+      from: 1961
+      to: 1963
+      note: President
+    - org: air-france-klm
+      role: parent
+      from: 2004
+      note: Subsidiary
   kosmos-energy:
     type: company
     headquarters: Dallas, USA
@@ -8823,6 +9269,27 @@ organizations:
       role: board
       from: 2012
       to: 2023
+  kpn:
+    name: Koninklijke KPN N.V.
+    type: company
+    founded: 1989
+    headquarters: Rotterdam, Netherlands
+    status: active
+    sector: telecom
+    note: Ex-statale (PTT). Privatizzata 1994-2006. Incumbent telecom olandese.
+    stakeholders:
+    - person: victor-halberstadt
+      role: board
+      note: Supervisory Board
+    - person: joost-farwerck
+      role: executive
+      from: 2019
+      note: CEO e Chairman Board of Management
+    - person: ad-scheepbouwer
+      role: executive
+      from: 2001
+      to: 2011
+      note: CEO - salvo KPN dal collasso, riorganizzazione massiva
   krung-thai-bank:
     name: Krungthai Bank
     type: bank
@@ -9072,6 +9539,43 @@ organizations:
     type: bank
     headquarters: New York
     status: active
+  leiden-university:
+    name: Leiden University
+    type: company
+    founded: 1575
+    headquarters: Leiden, Netherlands
+    status: active
+    note: Oldest university in the Netherlands. Founded by William of Orange.
+    stakeholders:
+    - person: mark-rutte
+      role: member
+      from: 1988
+      to: 1992
+      note: MA History
+    - person: willem-alexander
+      role: member
+      from: 1987
+      to: 1993
+      note: MA History
+    - person: queen-beatrix
+      role: member
+      note: Law degree
+    - person: queen-juliana
+      role: member
+      note: Law degree
+    - person: victor-halberstadt
+      role: executive
+      from: 1974
+      to: 2009
+      note: Professor Public Sector Finance, Emeritus 2009-2024
+    - person: rob-de-wijk
+      role: executive
+      note: Professor International Relations and Security
+    - person: ernst-van-der-beugel
+      role: member
+      from: 1966
+      to: 1984
+      note: Professor International Relations
   lenovo:
     name: Lenovo
     type: company
@@ -9168,6 +9672,18 @@ organizations:
       role: owner
       from: 2010
       note: Full ownership
+  lky-school:
+    name: Lee Kuan Yew School of Public Policy
+    type: company
+    founded: 2004
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - person: victor-halberstadt
+      role: board
+      from: 2005
+      to: 2024
+      note: Board of Trustees
   lockheed:
     name: Lockheed
     type: company
@@ -9477,6 +9993,11 @@ organizations:
       from: 1994
       to: 2008
       note: Director, European Insurance & Asset Management
+    - person: wopke-hoekstra
+      role: partner
+      from: 2006
+      to: 2017
+      note: Partner from 2013
   mediacorp:
     name: Mediacorp Pte Ltd
     type: media
@@ -10101,6 +10622,17 @@ organizations:
       from: 2014
       to: 2024
       note: 13th Secretary General - 10 years, 4 extensions
+    - person: jeroen-van-der-veer
+      role: advisor
+      from: 2009
+      to: 2010
+      note: Vice-Chairman Group of Experts Strategic Concept
+    - person: bernard-bot
+      role: advisor
+      note: Deputy Permanent Representative
+    - person: rob-de-wijk
+      role: advisor
+      note: Senior Steering Group NATO SOF HQ
     - org: atlantic-council
       role: advocacy
       note: Think tank pro-NATO, fondato per supporto Alleanza Atlantica
@@ -11177,6 +11709,32 @@ organizations:
     - person: srettha-thavisin
       role: member
       from: 2022
+  philips:
+    name: Koninklijke Philips N.V.
+    type: company
+    founded: 1891
+    headquarters: Amsterdam, Netherlands
+    status: active
+    sector: health-technology
+    stakeholders:
+    - person: jeroen-van-der-veer
+      role: chairman
+      from: 2011
+      to: 2021
+      note: Chairman Supervisory Board
+    - person: roy-jakobs
+      role: executive
+      from: 2022
+      note: CEO
+    - person: frans-van-houten
+      role: executive
+      from: 2011
+      to: 2022
+      note: CEO
+    - org: exor
+      share: 17.5
+      from: 2023
+      note: Largest shareholder, €3.3B investment
   pif-saudi:
     name: Public Investment Fund (PIF)
     type: swf
@@ -11931,6 +12489,22 @@ organizations:
     - org: bertelsmann
       role: owner
       share: 75.1%
+  rtl-nederland:
+    name: RTL Nederland
+    type: media
+    founded: 1989
+    headquarters: Hilversum, Netherlands
+    status: active
+    note: Part of RTL Group (Bertelsmann). Merged with Talpa Network 2022.
+    stakeholders:
+    - person: john-de-mol
+      role: board
+      from: 2022
+      note: 30% shareholder post-merger Talpa
+    - org: rtl-group
+      share: 70
+      from: 2022
+      note: 70% post-merger con Talpa Network
   rtl-television:
     name: RTL Television
     type: media
@@ -12385,6 +12959,18 @@ organizations:
       from: 2022
       to: 2024
       note: JV with Central Group, sold to PIF after Signa collapse
+  ser-netherlands:
+    name: Social-Economic Council
+    type: agency
+    founded: 1950
+    headquarters: The Hague, Netherlands
+    status: active
+    stakeholders:
+    - person: victor-halberstadt
+      role: member
+      from: 1972
+      to: 2004
+      note: Crown Member
   seven-i-holdings:
     name: Seven & I Holdings
     type: company
@@ -12405,6 +12991,37 @@ organizations:
       to: 1987
     - org: kissinger-associates
       role: partner
+  shell:
+    name: Shell plc
+    type: company
+    founded: 1907
+    headquarters: London, UK
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: wael-sawan
+      role: executive
+      from: 2023
+      note: CEO
+    - person: ben-van-beurden
+      role: executive
+      from: 2014
+      to: 2022
+      note: CEO
+    - person: jeroen-van-der-veer
+      role: executive
+      from: 2004
+      to: 2009
+      note: CEO (successe Phil Watts, unifico struttura duale)
+    - person: hans-wijers
+      role: board
+      from: 2009
+      to: 2018
+    - person: wopke-hoekstra
+      role: executive
+      from: 2002
+      to: 2006
+      note: Commercial positions Berlin, Hamburg, Rotterdam
   shin-bet:
     name: Shin Bet (Shabak)
     type: agency
@@ -12955,6 +13572,19 @@ organizations:
       role: executive
       from: 2002
       note: Managing Partner, Co-founder, CIO
+  talpa-network:
+    name: Talpa Network
+    type: media
+    founded: 2005
+    headquarters: Laren, Netherlands
+    status: merged
+    note: Merged with RTL Nederland (2022)
+    stakeholders:
+    - person: john-de-mol
+      role: founder
+      from: 2005
+      to: 2022
+      note: Fondatore e proprietario. 30% RTL Nederland post-merger
   tata-motors:
     name: Tata Motors
     type: automaker
@@ -13466,7 +14096,7 @@ organizations:
     name: Trilateral Commission
     type: forum
     founded: 1973
-    headquarters: Washington, USA
+    headquarters: Washington D.C., USA
     status: active
     stakeholders:
     - person: roy-jenkins
@@ -13519,6 +14149,11 @@ organizations:
       role: member
       from: 1998
       to: 2008
+    - person: klaas-knot
+      role: member
+      note: European Group
+    - person: hans-wijers
+      role: member
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -13659,6 +14294,29 @@ organizations:
     - org: state-street
       role: stake
       share: 0.02
+  tu-delft:
+    name: Delft University of Technology
+    type: company
+    founded: 1842
+    headquarters: Delft, Netherlands
+    status: active
+    stakeholders:
+    - person: jeroen-van-der-veer
+      role: chairman
+      from: 2013
+      to: 2021
+      note: Chairman Supervisory Council
+  tu-eindhoven:
+    name: Eindhoven University of Technology
+    type: company
+    founded: 1956
+    headquarters: Eindhoven, Netherlands
+    status: active
+    sector: education
+    stakeholders:
+    - person: peter-wennink
+      role: chairman
+      note: Chairman Supervisory Board
   tv-globo:
     name: TV Globo
     type: media
@@ -13727,6 +14385,11 @@ organizations:
       from: 1992
       to: 2002
       note: Human Resources Manager
+    - person: jeroen-van-der-veer
+      role: board
+      from: 2002
+      to: 2011
+      note: Vice-Chairman, Senior Independent Director
   unione-europea:
     name: Unione Europea
     type: agency
@@ -13807,6 +14470,18 @@ organizations:
     stakeholders:
     - org: nbcuniversal
       share: 100%
+  unsgab:
+    name: UN Secretary-General Advisory Board on Water and Sanitation
+    type: agency
+    founded: 2004
+    headquarters: New York, USA
+    status: dissolved
+    note: Dissolved 2015, replaced by High-Level Panel on Water
+    stakeholders:
+    - person: willem-alexander
+      role: chairman
+      from: 2006
+      to: 2013
   us-air-force:
     name: United States Air Force
     type: government
@@ -13897,6 +14572,18 @@ organizations:
     - org: walmart
       role: stake
       share: 0.054
+  vdl-groep:
+    name: VDL Groep
+    type: company
+    founded: 1953
+    headquarters: Eindhoven, Netherlands
+    status: active
+    sector: manufacturing
+    stakeholders:
+    - person: peter-wennink
+      role: board
+      from: 2024
+      note: Member Supervisory Board
   viacom18:
     name: Viacom18
     type: media
@@ -14465,6 +15152,26 @@ organizations:
     - person: carlos-ghosn
       role: board
       note: Board of Trustees member. Advocate for sustainable transportation and zero-emission vehicles.
+    - person: queen-maxima
+      role: board
+      note: Stewardship Board Financial Systems; EDISON Alliance
+    - person: jeroen-van-der-veer
+      role: member
+    - person: victor-halberstadt
+      role: member
+      from: 1990
+      to: 2024
+      note: Faculty Member
+    - person: frans-van-houten
+      role: member
+      from: 2017
+      note: Co-Chair Davos 2017, PACE Co-Chair
+    - person: frans-timmermans
+      role: member
+      note: Speaker Davos (2017, 2020+)
+    - person: wopke-hoekstra
+      role: member
+      note: Speaker Davos
     - org: bilderberg
       role: partner
     - org: fmi
@@ -14719,6 +15426,11 @@ organizations:
       from: 1961
       to: 1976
       note: Primo presidente
+    - person: prince-bernhard-netherlands
+      role: founder
+      from: 1961
+      to: 1976
+      note: First President
   x-twitter:
     name: X (formerly Twitter)
     type: media

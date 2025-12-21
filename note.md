@@ -1,15 +1,11 @@
-**Eventi da aggiungere:**
-- [ ] 1907 Panico bancario — J.P. Morgan salva il sistema, precursore Fed
-- [ ] 1911 Antitrust Standard Oil — Spezzata in 34 compagnie
-- [ ] 1933 Glass-Steagall Act — Separazione banche, fine era Morgan
-- [ ] 1980 Scissione Rothschild UK — Jacob vs Evelyn, nascita RIT
-- [ ] 2000 Fusione Chase-JPMorgan — Unione dinastie Morgan-Rockefeller
-- [ ] 2021 Creazione Stellantis — FCA + PSA, John Elkann architetto
+Financial Stability Board (FSB)
+Bank for International Settlements (BIS)
+
 
 
 SudaFrica
 Lussemburgo
-Olanda
+Norvegia
 categoria Banche
 Compagnie Aeree, Aerospace
 Gruppo energia (petrolio)

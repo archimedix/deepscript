@@ -654,6 +654,28 @@ families:
     - person: jonathan-oppenheimer
       generation: 4
       role: heir
+  orange-nassau:
+    origin: Netherlands/Germany
+    founder: william-i-silent
+    sector: monarchy
+    generations: 17
+    status: active
+    members:
+    - person: prince-bernhard-netherlands
+      generation: 4
+      role: consort
+    - person: willem-alexander
+      generation: 17
+      role: head
+    - person: queen-maxima
+      generation: 6
+      role: consort
+    - person: queen-beatrix
+      generation: 5
+      role: monarch-emeritus
+    - person: queen-juliana
+      generation: 4
+      role: monarch
   papandreou:
     origin: Greece, Achaea
     founder: georgios-papandreou-sr
@@ -682,6 +704,12 @@ families:
     - person: robert-peugeot
       generation: 6
       role: chairman
+  philips-family:
+    origin: Netherlands
+    founder: frederik-philips
+    sector: electronics
+    generations: 4
+    status: disconnected
   porsche-piech:
     origin: Germany/Austria
     founder: Ferdinand Porsche
