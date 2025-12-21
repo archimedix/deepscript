@@ -7,7 +7,8 @@ SudaFrica
 Norvegia
 Svizzera
 categoria Banche
-Compagnie Aeree, Aerospace
+categoria intelligence
+categoria Aerospace
 Gruppo energia (petrolio)
 Casate Reali
 Brasile: lula, bolsonaro

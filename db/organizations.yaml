@@ -2183,6 +2183,15 @@ organizations:
     - person: edmond-de-rothschild
       role: member
       note: Partecipante anni 70
+    - person: etienne-davignon
+      role: chairman
+      from: 1998
+      to: 2011
+      note: Chairman Steering Committee, Honorary Chairman dal 2011
+    - person: herman-van-rompuy
+      role: member
+      from: 2009
+      note: Partecipante; cena 2009 con Davignon e Kissinger prima della nomina EU
     - org: trilaterale
       role: partner
   biontech:
@@ -2817,6 +2826,17 @@ organizations:
     stakeholders:
     - person: prescott-bush
       role: partner
+  brussels-airlines:
+    name: Brussels Airlines
+    type: company
+    founded: 2006
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: etienne-davignon
+      role: founder
+      from: 2006
+      note: Co-fondatore, Chairman board
   bsgr:
     name: BSG Resources
     type: company
@@ -3826,6 +3846,9 @@ organizations:
       role: professor
     - person: jan-tinbergen
       role: professor
+    - person: herman-van-rompuy
+      role: chairman
+      from: 2019
   colony-capital:
     name: Colony Capital
     type: privateequity
@@ -4225,6 +4248,16 @@ organizations:
     - person: andreas-dracopoulos
       role: board
       note: Trustee, Dracopoulos iDeas Lab founder
+  csr-europe:
+    name: CSR Europe
+    type: forum
+    founded: 1995
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: etienne-davignon
+      role: chairman
+      note: Chairman
   cvc-capital-partners:
     name: CVC Capital Partners
     type: privateequity
@@ -4967,6 +5000,16 @@ organizations:
     - org: bri
       role: partner
       note: Infrastrutture ferroviarie e logistiche
+  egmont-institute:
+    name: Egmont Institute
+    type: thinktank
+    founded: 1947
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: etienne-davignon
+      role: chairman
+      note: President
   eib:
     name: European Investment Bank
     type: bank
@@ -5315,6 +5358,69 @@ organizations:
       role: executive
       from: 2023
       note: Commissioner Climate 2023-24, Climate/Net Zero/Clean Growth 2024-
+    - person: etienne-davignon
+      role: executive
+      from: 1977
+      to: 1985
+      note: Commissioner 1977-1981, Vice-President 1981-1985
+  european-council:
+    name: European Council
+    type: agency
+    founded: 1974
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: herman-van-rompuy
+      role: chairman
+      from: 2009
+      to: 2014
+      note: Primo Presidente permanente
+  european-policy-centre:
+    name: European Policy Centre
+    type: thinktank
+    founded: 1996
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: herman-van-rompuy
+      role: chairman
+      note: Honorary President; Chair Strategic Council
+  european-round-table:
+    name: European Round Table for Industry
+    type: forum
+    founded: 1983
+    headquarters: Brussels, Belgium
+    status: active
+    sector: lobby
+    stakeholders:
+    - person: umberto-agnelli
+      role: founder
+      from: 1983
+      note: Fondatore (Fiat)
+    - person: etienne-davignon
+      role: founder
+      from: 1983
+      note: Co-fondatore con Pehr Gyllenhammar
+    - person: carlo-de-benedetti
+      role: founder
+      from: 1983
+      note: Fondatore (Olivetti)
+    - person: pehr-gyllenhammar
+      role: founder
+      from: 1983
+      note: Fondatore e iniziatore (Volvo)
+    - person: wisse-dekker
+      role: founder
+      from: 1983
+      to: 1992
+      note: Fondatore (Philips), Chairman 1988-1992
+    - person: rodolfo-de-benedetti
+      role: member
+      from: 2013
+      note: Chairman CIR
+    - person: gianfelice-rocca
+      role: member
+      note: Chairman Techint Group
   exim-bank-china:
     name: Export-Import Bank of China
     type: bank
@@ -6597,9 +6703,9 @@ organizations:
       from: 2017
       to: 2021
   governo-belgio:
-    name: Governo Belgio
+    name: Governo del Belgio
     type: government
-    headquarters: Bruxelles
+    headquarters: Brussels, Belgium
     status: active
     stakeholders:
     - person: alexander-de-croo
@@ -6611,6 +6717,16 @@ organizations:
       from: 1988
       to: 1998
       note: Deputy PM; Min. Finance
+    - person: etienne-davignon
+      role: advisor
+      from: 1959
+      to: 1977
+      note: Diplomatico Min. Esteri, attaché Spaak, Minister of State 2004
+    - person: herman-van-rompuy
+      role: leader
+      from: 2008
+      to: 2009
+      note: Primo Ministro; Min. Budget 1993-1999
   governo-canada:
     name: Governo Canada
     type: government
@@ -9116,6 +9232,18 @@ organizations:
     - org: dan-gertler-international
       role: parent
       share: 100
+  international-energy-agency:
+    name: International Energy Agency
+    type: agency
+    founded: 1974
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: etienne-davignon
+      role: chairman
+      from: 1974
+      to: 1977
+      note: Primo Presidente
   international-olympic-academy:
     name: International Olympic Academy
     type: agency
@@ -13822,6 +13950,18 @@ organizations:
       from: 2006
       to: 2022
       note: President
+  societe-generale-belgique:
+    name: Société Générale de Belgique
+    type: company
+    founded: 1822
+    headquarters: Brussels, Belgium
+    status: defunct
+    stakeholders:
+    - person: etienne-davignon
+      role: chairman
+      from: 1989
+      to: 2001
+      note: Chairman
   softbank:
     name: SoftBank Group
     type: company
@@ -14076,6 +14216,18 @@ organizations:
       share: 7.2%
       from: 2021
       note: Via Peugeot 1810 subsidiary (76.5% PI, 23.5% EPF)
+  suez:
+    name: Suez
+    type: company
+    founded: 1858
+    headquarters: Paris, France
+    status: merged
+    stakeholders:
+    - person: etienne-davignon
+      role: board
+      from: 2003
+      to: 2010
+      note: Vice-Chairman Suez-Tractebel
   sullivan-cromwell:
     name: Sullivan & Cromwell
     type: company
@@ -14704,6 +14856,12 @@ organizations:
       role: member
     - person: luc-frieden
       role: member
+    - person: etienne-davignon
+      role: member
+      note: Member
+    - person: herman-van-rompuy
+      role: member
+      note: European Group member
   trilaterale:
     name: Trilateral Commission
     type: forum

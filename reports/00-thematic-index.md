@@ -178,6 +178,35 @@ Report e analisi specifiche sui Paesi Bassi.
 
 ---
 
+## Belgio
+
+Report e analisi specifiche sul Belgio.
+
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Belgium Power Map](belgium-power-map.md) | 1831-2025 | Capitale EU, Davignon, AB InBev, SWIFT |
+
+**Architetti europei:**
+- [Paul-Henri Spaak](../docs/persons/paul-henri-spaak.md) - Padre fondatore UE, NATO
+- [Etienne Davignon](../docs/persons/etienne-davignon.md) - VP Commissione, Chairman Bilderberg, ERT founder
+- [Herman Van Rompuy](../docs/persons/herman-van-rompuy.md) - Primo Presidente EU Council
+
+**Dinastie economiche:**
+- Van Damme / de Spoelberch / de Mevius - AB InBev, 4a famiglia piu' ricca al mondo
+- Boel - Sofina, Solvay
+- Janssen - UCB, pharma
+
+**Infrastruttura globale:**
+- SWIFT (La Hulpe) - 42 milioni messaggi/giorno, sanzioni Russia
+- Euroclear - €37T asset in custodia
+
+**Forum basati a Bruxelles:**
+- [European Round Table](../docs/forum/european-round-table.md) - Co-fondata da Davignon 1983
+- [Egmont Institute](../docs/think-tank/egmont-institute.md)
+- [European Policy Centre](../docs/think-tank/european-policy-centre.md)
+
+---
+
 ## Movimenti Politici
 
 Report che analizzano la costruzione di movimenti politici e stati.
@@ -216,6 +245,7 @@ Report focalizzati su specifiche aree geografiche.
 | [Germany Power Map](germany-power-map.md) | Germania | Famiglie industriali, DAX, Atlantik-Brucke |
 | [France Power Map](france-power-map.md) | Francia | CAC 40, ENA, famiglie |
 | [Netherlands Power Map](netherlands-power-map.md) | Paesi Bassi | Orange-Nassau, Bilderberg, ASML |
+| [Belgium Power Map](belgium-power-map.md) | Belgio | Capitale EU, Davignon, SWIFT |
 
 ---
 
@@ -245,6 +275,7 @@ Mappe di potere regionali:
 - [Germany Power Map](germany-power-map.md)
 - [France Power Map](france-power-map.md)
 - [Netherlands Power Map](netherlands-power-map.md)
+- [Belgium Power Map](belgium-power-map.md)
 
 ### Report Settoriali
 Analisi di industrie specifiche:
@@ -259,7 +290,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 28 |
+| **Report totali** | 29 |
 | **Eventi documentati** | 30+ |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |

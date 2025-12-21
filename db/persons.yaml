@@ -1472,6 +1472,14 @@ persons:
       role: leader
       from: 1979
       to: 1993
+  carlo-de-benedetti:
+    born: 1934
+    nationality: ITA
+    affiliations:
+    - org: european-round-table
+      role: founder
+      from: 1983
+      note: Fondatore (Olivetti)
   carlos-ghosn:
     born: 1954
     nationality: FRA
@@ -3035,6 +3043,61 @@ persons:
       from: 1961
       to: 1963
       note: President
+  etienne-davignon:
+    born: 1932
+    nationality: BEL
+    affiliations:
+    - org: bilderberg
+      role: chairman
+      from: 1998
+      to: 2011
+      note: Chairman Steering Committee, Honorary Chairman dal 2011
+    - org: governo-belgio
+      role: advisor
+      from: 1959
+      to: 1977
+      note: Diplomatico Min. Esteri, attaché Spaak, Minister of State 2004
+    - org: trilateral-commission
+      role: member
+      note: Member
+    - org: european-commission
+      role: executive
+      from: 1977
+      to: 1985
+      note: Commissioner 1977-1981, Vice-President 1981-1985
+    - org: european-round-table
+      role: founder
+      from: 1983
+      note: Co-fondatore con Pehr Gyllenhammar
+    - org: international-energy-agency
+      role: chairman
+      from: 1974
+      to: 1977
+      note: Primo Presidente
+    - org: societe-generale-belgique
+      role: chairman
+      from: 1989
+      to: 2001
+      note: Chairman
+    - org: suez
+      role: board
+      from: 2003
+      to: 2010
+      note: Vice-Chairman Suez-Tractebel
+    - org: brussels-airlines
+      role: founder
+      from: 2006
+      note: Co-fondatore, Chairman board
+    - org: egmont-institute
+      role: chairman
+      note: President
+    - org: csr-europe
+      role: chairman
+      note: Chairman
+    relations:
+    - person: paul-henri-spaak
+      type: mentor
+      note: Attaché di Spaak al Min. Esteri
   ettore-conti:
     born: 1871
     died: 1972
@@ -3931,6 +3994,13 @@ persons:
     - person: filippo-filippelli
       type: victim
       note: Filippelli forni auto per sequestro
+  gianfelice-rocca:
+    born: 1948
+    nationality: ITA
+    affiliations:
+    - org: european-round-table
+      role: member
+      note: Chairman Techint Group
   gianni-agnelli:
     born: 1921
     died: 2003
@@ -4433,6 +4503,40 @@ persons:
     - org: hudson-institute
       role: founder
       from: 1961
+  herman-van-rompuy:
+    born: 1947
+    nationality: BEL
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2009
+      note: Partecipante; cena 2009 con Davignon e Kissinger prima della nomina EU
+    - org: collegio-europa
+      role: chairman
+      from: 2019
+    - org: governo-belgio
+      role: leader
+      from: 2008
+      to: 2009
+      note: Primo Ministro; Min. Budget 1993-1999
+    - org: trilateral-commission
+      role: member
+      note: European Group member
+    - org: european-council
+      role: chairman
+      from: 2009
+      to: 2014
+      note: Primo Presidente permanente
+    - org: european-policy-centre
+      role: chairman
+      note: Honorary President; Chair Strategic Council
+    relations:
+    - person: etienne-davignon
+      type: network
+      note: Cena Bilderberg 2009 pre-nomina EU Council
+    - person: philippe-maystadt
+      type: colleague
+      note: 'Colleghi governo Dehaene: Van Rompuy Budget, Maystadt Finance'
   herve-falciani:
     born: 1972
     nationality: FRA
@@ -8956,6 +9060,14 @@ persons:
       role: minister
       from: 2001
       to: 2005
+  pehr-gyllenhammar:
+    born: 1935
+    nationality: SWE
+    affiliations:
+    - org: european-round-table
+      role: founder
+      from: 1983
+      note: Fondatore e iniziatore (Volvo)
   pekka-ala-pietila:
     nationality: FIN
     affiliations:
@@ -10025,6 +10137,14 @@ persons:
       from: 1925
       to: 2003
       note: Founder, Chairman until death
+  rodolfo-de-benedetti:
+    born: 1961
+    nationality: ITA
+    affiliations:
+    - org: european-round-table
+      role: member
+      from: 2013
+      note: Chairman CIR
   rodolphe-saade:
     born: 1970
     nationality: Francia/Libano
@@ -11457,6 +11577,11 @@ persons:
     died: 2004
     nationality: Italia
     family: agnelli-elkann
+    affiliations:
+    - org: european-round-table
+      role: founder
+      from: 1983
+      note: Fondatore (Fiat)
   urbano-cairo:
     born: 1957
     nationality: Italia
@@ -11932,6 +12057,15 @@ persons:
     died: 1973
     nationality: USA
     family: rockefeller
+  wisse-dekker:
+    born: 1924
+    nationality: NLD
+    affiliations:
+    - org: european-round-table
+      role: founder
+      from: 1983
+      to: 1992
+      note: Fondatore (Philips), Chairman 1988-1992
   wladimir-klitschko:
     born: 1976
     nationality: UKR

@@ -18,6 +18,9 @@
 - Jacques Delors (FR)
 - eif European Investment Fund
 - eurostat
+- european-council (Agency)
+- collegio-europa (ThinkTank)
+- european-policy-centre (ThinkTank)
 
   Istituzioni UE in lussemburgo
 
@@ -29,3 +32,16 @@
 
   - [v] Clearstream (Deutsche Börse) - settlement globale
   - [v] Euroclear - competitor, presenza lussemburghese
+
+  Hub Istituzionali EU/NATO in Belgio
+
+  | Entità                     | Ruolo                      |
+  |----------------------------|----------------------------|
+  | Commissione Europea        | Esecutivo UE               |
+  | Consiglio Europeo          | Capi di stato UE           |
+  | NATO HQ                    | Quartier generale alleanza |
+  | [v] European Round Table (ERT) | Lobby CEO europei          |
+  | BusinessEurope             | Confederazione industriali |
+  | CEPS                       | Think tank EU policy       |
+  | Bruegel                    | Think tank economia        |
+  | Friends of Europe          | Forum/Think tank           |
