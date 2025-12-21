@@ -122,6 +122,22 @@ organizations:
     headquarters: New York, USA
     status: active
     sector: civil rights
+  action-committee-use:
+    name: Action Committee for the United States of Europe
+    type: forum
+    founded: 1955
+    headquarters: Paris, France
+    status: inactive
+    note: Jean Monnet Committee
+    stakeholders:
+    - person: jean-monnet
+      role: founder
+      from: 1955
+      to: 1975
+      note: Fondatore e Presidente
+    - person: pierre-werner
+      role: member
+      note: Membro attivo, collaboratore di Jean Monnet
   adani-group:
     name: Adani Group
     type: company
@@ -219,6 +235,18 @@ organizations:
       from: 1926
       to: 1928
       note: Primo presidente, nominato da Mussolini
+  aig:
+    name: American International Group
+    type: company
+    founded: 1919
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: marc-hoffmann
+      role: executive
+      from: 1990
+      to: 1994
+      note: AIG Financial Products UK, Banque AIG Paris
   aiib:
     name: Asian Infrastructure Investment Bank
     type: bank
@@ -244,6 +272,18 @@ organizations:
     - org: bri
       role: founder
       note: Veicolo finanziario BRI
+  aimco:
+    name: Alberta Investment Management Corporation
+    type: swf
+    founded: 2008
+    headquarters: Edmonton, Canada
+    status: active
+    stakeholders:
+    - person: mark-wiseman
+      role: chairman
+      from: 2020
+      to: 2024
+      note: Chairman Board
   aipac:
     name: American Israel Public Affairs Committee
     type: thinktank
@@ -473,6 +513,38 @@ organizations:
     - org: state-street
       role: stake
       share: 0.03
+  alter-domus:
+    name: Alter Domus
+    type: company
+    founded: 2003
+    headquarters: Luxembourg
+    status: active
+    sector: fund administration
+    stakeholders:
+    - person: dominique-robyns
+      role: founder
+      from: 2003
+      note: Fondatore, ex-Chairman
+    - person: mark-wiseman
+      role: chairman
+      from: 2025
+      note: Chairman marzo 2025
+    - person: charlotte-hogg
+      role: executive
+      from: 2025
+      note: CEO luglio 2025
+    - person: doug-hart
+      role: executive
+      from: 2019
+      to: 2025
+      note: CEO 2019-2025
+    - org: cinven
+      role: majority
+      from: 2024
+      note: Acquisizione maggioranza EUR 4.9B
+    - org: permira
+      from: 2017
+      note: Investimento iniziale; parziale exit 2024
   amazon:
     name: Amazon
     type: company
@@ -1357,6 +1429,7 @@ organizations:
   bank-of-england:
     name: Bank of England
     type: centralbank
+    founded: 1694
     headquarters: London, UK
     status: active
     stakeholders:
@@ -1369,6 +1442,11 @@ organizations:
       role: executive
       from: 2020
       note: Governor
+    - person: charlotte-hogg
+      role: executive
+      from: 2013
+      to: 2017
+      note: COO, Deputy Governor
   bank-of-greece:
     name: Bank of Greece
     type: centralbank
@@ -1605,6 +1683,12 @@ organizations:
       role: member
       from: 2001
       note: Eurosystem member
+  bcee:
+    name: Banque et Caisse d'Épargne de l'État
+    type: bank
+    founded: 1856
+    headquarters: Luxembourg
+    status: active
   beacon-global-strategies:
     name: Beacon Global Strategies
     type: company
@@ -1617,6 +1701,28 @@ organizations:
       role: executive
       from: 2013
       note: Senior Counselor, Chairman Geo-Political Risk
+  bei:
+    name: European Investment Bank (BEI/EIB)
+    type: agency
+    founded: 1958
+    headquarters: Luxembourg City, Luxembourg
+    status: active
+    sector: development-banking
+    stakeholders:
+    - person: nadia-calvino
+      role: executive
+      from: 2024
+      note: President
+    - person: werner-hoyer
+      role: executive
+      from: 2012
+      to: 2023
+      note: President
+    - person: philippe-maystadt
+      role: executive
+      from: 2000
+      to: 2011
+      note: President
   bein-media:
     name: beIN Media Group
     type: media
@@ -1799,6 +1905,41 @@ organizations:
     - org: ae-industrial-partners
       role: investor
       from: 2020
+  bil:
+    name: Banque Internationale a Luxembourg
+    type: bank
+    founded: 1856
+    headquarters: Luxembourg City, Luxembourg
+    status: active
+    aum: 46.8
+    stakeholders:
+    - person: gaston-thorn
+      role: executive
+      from: 1985
+      to: 1999
+      note: President
+    - person: luc-frieden
+      role: chairman
+      from: 2016
+      to: 2023
+    - org: governo-lussemburgo
+      role: minority
+      share: 10
+      from: 2012
+    - org: legend-holdings
+      role: owner
+      share: 89.98
+      from: 2018
+    - org: precision-capital
+      role: owner
+      share: 90
+      from: 2012
+      to: 2018
+    - org: dexia
+      role: owner
+      share: 100
+      from: 1999
+      to: 2012
   bild:
     name: BILD
     type: media
@@ -1861,6 +2002,8 @@ organizations:
       role: member
       from: 1982
     - person: borge-brende
+      role: member
+    - person: gaston-thorn
       role: member
     - person: jacques-santer
       role: member
@@ -2037,6 +2180,9 @@ organizations:
       role: member
       from: 2022
       note: Participant 2022 (Min FA), 2024 (Commissioner), 2025 (Stockholm)
+    - person: edmond-de-rothschild
+      role: member
+      note: Partecipante anni 70
     - org: trilaterale
       role: partner
   biontech:
@@ -2138,6 +2284,11 @@ organizations:
     - person: william-ford
       role: board
       note: Director
+    - person: mark-wiseman
+      role: executive
+      from: 2016
+      to: 2019
+      note: Head Active Equities, Chair Alternatives
     - org: norges-bank-gpfg
       role: stake
     - org: trilaterale
@@ -2913,6 +3064,27 @@ organizations:
     - person: penny-pritzker
       role: chairman
       note: Chair of the Board
+  cbp-quilvest:
+    name: CBP Quilvest
+    type: bank
+    founded: 2007
+    headquarters: Luxembourg
+    status: merged
+    stakeholders:
+    - person: marc-hoffmann
+      role: founder
+      from: 2007
+      to: 2023
+      note: Co-fondatore e CEO
+    - person: norbert-becker
+      role: founder
+      from: 2007
+      note: Co-fondatore, Chairman Board
+    - org: bcee
+      share: 19
+      from: 2007
+      to: 2023
+      note: Partner operativo
   cbs:
     name: CBS
     type: media
@@ -3397,6 +3569,12 @@ organizations:
       role: chairman
       from: 2013
       to: 2014
+  cinven:
+    name: Cinven
+    type: privateequity
+    founded: 1977
+    headquarters: London, UK
+    status: active
   citigroup:
     name: Citigroup Inc.
     type: bank
@@ -3469,6 +3647,19 @@ organizations:
       role: founder
       from: 2006
       note: Co-founder & Managing Partner
+  clearstream:
+    name: Clearstream International S.A.
+    type: company
+    founded: 2000
+    headquarters: Luxembourg
+    status: active
+    sector: financial infrastructure
+    note: Fusione Cedel + Deutsche Borse Clearing. Subsidiary 100% Deutsche Borse Group
+    stakeholders:
+    - org: deutsche-borse-group
+      share: 100
+      from: 2002
+      note: 100% subsidiary dal 2002
   clingendael:
     name: Netherlands Institute of International Relations Clingendael
     type: thinktank
@@ -3674,6 +3865,18 @@ organizations:
     stakeholders:
     - org: paramount-global
       share: 100%
+  commissione-europea:
+    name: European Commission
+    type: agency
+    founded: 1958
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: nadia-calvino
+      role: executive
+      from: 2006
+      to: 2018
+      note: DG Budget; Deputy DG Competition
   commissione-ue:
     name: Commissione Europea
     type: agency
@@ -3930,6 +4133,12 @@ organizations:
     headquarters: Toronto, Canada
     status: active
     sector: pension
+    stakeholders:
+    - person: mark-wiseman
+      role: executive
+      from: 2012
+      to: 2016
+      note: President & CEO
   credit-suisse:
     name: Credit Suisse
     type: bank
@@ -4169,6 +4378,9 @@ organizations:
       role: executive
       from: 2023
       note: CEO
+    - person: edmond-de-rothschild
+      role: board
+      note: Azionista
     - org: anglo-american
       share: 85
       from: 2012
@@ -4251,9 +4463,53 @@ organizations:
       role: board
       from: 2020
       note: Supervisory Board, Integrity Committee
+    - person: luc-frieden
+      role: executive
+      from: 2014
+      to: 2016
+      note: Vice Chairman
+    - person: rolf-breuer
+      role: executive
+      from: 1997
+      to: 2002
+      note: CEO/Vorstandssprecher
+    - person: rolf-breuer
+      role: chairman
+      from: 2002
+      to: 2006
+      note: Chairman Supervisory Board
+    - person: hilmar-kopper
+      role: executive
+      from: 1989
+      to: 1997
+      note: Vorstandssprecher
+    - person: josef-ackermann
+      role: executive
+      from: 2002
+      to: 2012
+      note: CEO
     - org: blackrock
       share: 6.76%
       note: Largest disclosed shareholder (2025)
+  deutsche-boerse:
+    name: Deutsche Börse AG
+    type: company
+    founded: 1992
+    headquarters: Frankfurt, Germany
+    status: active
+    stakeholders:
+    - person: rolf-breuer
+      role: chairman
+      from: 1993
+      to: 2005
+      note: Chairman Supervisory Board
+  deutsche-borse-group:
+    name: Deutsche Borse Group
+    type: company
+    founded: 1993
+    headquarters: Frankfurt, Germany
+    status: active
+    sector: financial infrastructure
   deutsche-bundesbank:
     name: Deutsche Bundesbank
     type: centralbank
@@ -4287,6 +4543,19 @@ organizations:
       from: 2006
       to: 2013
       note: CEO
+  dexia:
+    name: Dexia
+    type: bank
+    founded: 1996
+    headquarters: Brussels, Belgium
+    status: defunct
+    note: Bailout 2008, 2011; in liquidazione
+    stakeholders:
+    - person: marc-hoffmann
+      role: executive
+      from: 1995
+      to: 2006
+      note: 'Dexia BIL: SVP 1995, CEO 2001-2006'
   dfi-retail:
     name: DFI Retail Group
     type: company
@@ -4623,6 +4892,12 @@ organizations:
     founded: 1951
     headquarters: Luxembourg
     status: defunct
+    stakeholders:
+    - person: jean-monnet
+      role: chairman
+      from: 1952
+      to: 1955
+      note: Primo Presidente High Authority
   edison:
     name: Edison
     type: company
@@ -4636,6 +4911,44 @@ organizations:
       from: 1895
       to: 1926
       note: Direzione tecnico-amministrativa
+  edmond-de-rothschild-foundation-israel:
+    name: Edmond de Rothschild Foundation (Israel)
+    type: foundation
+    founded: 1953
+    headquarters: Caesarea, Israel
+    status: active
+    stakeholders:
+    - person: edmond-de-rothschild
+      role: founder
+      from: 1953
+    - person: benjamin-de-rothschild
+      role: chairman
+      from: 1999
+      to: 2021
+    - person: ariane-de-rothschild
+      role: chairman
+      from: 2021
+  edmond-de-rothschild-group:
+    name: Edmond de Rothschild Group
+    type: bank
+    founded: 1953
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: private-banking
+    stakeholders:
+    - person: edmond-de-rothschild
+      role: founder
+      from: 1953
+      to: 1997
+    - person: benjamin-de-rothschild
+      role: executive
+      from: 1997
+      to: 2021
+      note: President
+    - person: ariane-de-rothschild
+      role: executive
+      from: 2015
+      note: President Exec Committee 2015; President Board 2019; CEO 2023
   eec:
     name: Eastern Economic Corridor Office
     type: agency
@@ -4663,6 +4976,21 @@ organizations:
       role: executive
       from: 2017
       to: 2020
+  eif:
+    name: European Investment Fund (EIF)
+    type: agency
+    founded: 1994
+    headquarters: Luxembourg City, Luxembourg
+    status: active
+    sector: development-banking
+    stakeholders:
+    - org: bei
+      share: 62.2
+      from: 1994
+      note: Majority shareholder
+    - org: commissione-europea
+      share: 30
+      from: 1994
   el-pais:
     name: El País
     type: media
@@ -4674,6 +5002,15 @@ organizations:
     stakeholders:
     - org: grupo-prisa
       share: 100%
+  elec:
+    name: European League for Economic Cooperation
+    type: forum
+    founded: 1946
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: pierre-werner
+      role: member
   electrolux:
     name: Electrolux
     type: company
@@ -4777,6 +5114,10 @@ organizations:
     - person: rene-obermann
       role: board
       note: Ex-Director
+    - person: rolf-breuer
+      role: board
+      from: 2000
+      note: Supervisory Board
   eqt:
     name: EQT AB
     type: privateequity
@@ -4933,6 +5274,20 @@ organizations:
       role: founder
       from: 1998
       note: Founder & President
+  euroclear:
+    name: Euroclear Group
+    type: company
+    founded: 1968
+    headquarters: Brussels, Belgium
+    status: active
+    sector: financial infrastructure
+    note: Primo ICSD al mondo, fondato da Morgan Guaranty (J.P. Morgan)
+    stakeholders:
+    - org: jpmorgan-chase
+      role: founder
+      from: 1968
+      to: 1972
+      note: Fondatore via Morgan Guaranty Trust, venduto 1972
   eurogroup:
     name: Eurogroup
     type: agency
@@ -5378,6 +5733,21 @@ organizations:
       from: 2007
       to: 2011
       note: Managing Director; resigned May 2011
+    - person: luc-frieden
+      role: board
+      from: 1998
+      to: 2013
+      note: Governor; Chairman Board of Governors 2013
+    - person: nadia-calvino
+      role: chairman
+      from: 2022
+      to: 2023
+      note: Chair IMFC
+    - person: philippe-maystadt
+      role: chairman
+      from: 1993
+      to: 1998
+      note: Chair Interim Committee (5 anni)
     - org: wef
       role: partner
     - org: banca-mondiale
@@ -6236,6 +6606,11 @@ organizations:
       role: leader
       from: 2020
       to: 2024
+    - person: philippe-maystadt
+      role: minister
+      from: 1988
+      to: 1998
+      note: Deputy PM; Min. Finance
   governo-canada:
     name: Governo Canada
     type: government
@@ -6417,6 +6792,11 @@ organizations:
       role: minister
       from: 1981
       to: 1984
+    - person: jean-monnet
+      role: advisor
+      from: 1946
+      to: 1952
+      note: Commissario Generale del Piano (Piano Monnet)
     - person: edith-cresson
       role: minister
       from: 1991
@@ -6732,6 +7112,11 @@ organizations:
       from: 1989
       to: 1991
       note: Planning Staff, Federal Ministry of Defence
+    - person: werner-hoyer
+      role: minister
+      from: 1994
+      to: 2012
+      note: Min. State Foreign Affairs; Bundestag
   governo-giappone:
     name: Governo del Giappone
     type: government
@@ -7106,6 +7491,58 @@ organizations:
       role: leader
       from: 1995
       to: 2013
+    - person: pierre-werner
+      role: leader
+      from: 1959
+      to: 1974
+      note: Primo Ministro (primo mandato)
+    - person: pierre-werner
+      role: leader
+      from: 1979
+      to: 1984
+      note: Primo Ministro (secondo mandato)
+    - person: pierre-werner
+      role: minister
+      from: 1953
+      to: 1979
+      note: Ministro delle Finanze
+    - person: grand-duke-jean
+      role: leader
+      from: 1964
+      to: 2000
+      note: Grand Duke
+    - person: grand-duke-henri
+      role: leader
+      from: 2000
+      to: 2025
+      note: Grand Duke
+    - person: guillaume-v-luxembourg
+      role: leader
+      from: 2025
+      note: Grand Duke
+    - person: grand-duchess-charlotte
+      role: leader
+      from: 1919
+      to: 1964
+      note: Grand Duchess
+    - person: luc-frieden
+      role: leader
+      from: 2023
+      note: Prime Minister
+    - person: luc-frieden
+      role: minister
+      from: 1998
+      to: 2013
+      note: Min. Finanze, Budget, Giustizia
+    - person: xavier-bettel
+      role: leader
+      from: 2013
+      to: 2023
+      note: Prime Minister
+    - person: xavier-bettel
+      role: minister
+      from: 2023
+      note: Vice PM, Min. Esteri
   governo-messico:
     type: government
     headquarters: Mexico City
@@ -7376,6 +7813,11 @@ organizations:
       role: leader
       from: 2004
       to: 2011
+    - person: nadia-calvino
+      role: minister
+      from: 2018
+      to: 2023
+      note: First Vice PM; Min. Economy
   governo-svezia:
     name: Governo Svezia
     type: government
@@ -8695,6 +9137,25 @@ organizations:
     stakeholders:
     - person: giovanni-bazoli
       role: executive
+    - person: marc-hoffmann
+      role: executive
+      from: 2023
+      note: Via Intesa Sanpaolo Wealth Management Luxembourg
+  intesa-sanpaolo-wealth-management:
+    name: Intesa Sanpaolo Wealth Management S.A.
+    type: bank
+    founded: 2023
+    headquarters: Luxembourg
+    status: active
+    stakeholders:
+    - person: marc-hoffmann
+      role: chairman
+      from: 2023
+      note: CEO 2023, Chairman 2025
+    - org: intesa-sanpaolo
+      share: 100
+      from: 2023
+      note: Via Fideuram-ISPB
   intouch-holdings:
     name: Intouch Holdings
     type: company
@@ -8747,6 +9208,10 @@ organizations:
     - person: erick-thohir
       role: member
       from: 2019
+    - person: grand-duke-henri
+      role: member
+      from: 1998
+      note: Olympic Solidarity Commission
   ird:
     name: Information Research Department
     type: agency
@@ -9024,6 +9489,11 @@ organizations:
       from: 1911
       to: 1948
       note: Partner 1911, Chairman 1943-1948
+    - person: marc-hoffmann
+      role: executive
+      from: 1984
+      to: 1990
+      note: Morgan Guaranty Trust → JP Morgan Securities London VP
   jpmorgan-chase:
     name: JPMorgan Chase
     type: bank
@@ -9466,6 +9936,10 @@ organizations:
     - person: allan-chapin
       role: executive
       note: Managing Director Lazard Freres
+    - person: mark-wiseman
+      role: advisor
+      from: 2020
+      note: Senior Advisor, Chairman Canada
   le-figaro:
     name: Le Figaro
     type: media
@@ -9523,6 +9997,18 @@ organizations:
       role: chairman
       from: 2024
       note: First chairperson starting January 1, 2024
+  league-of-nations:
+    name: League of Nations
+    type: agency
+    founded: 1919
+    headquarters: Geneva, Switzerland
+    status: inactive
+    stakeholders:
+    - person: jean-monnet
+      role: executive
+      from: 1919
+      to: 1923
+      note: Vice Segretario Generale
   leeum-museum:
     name: Leeum, Samsung Museum of Art
     type: foundation
@@ -9534,6 +10020,12 @@ organizations:
       role: executive
       from: 2004
       note: Director
+  legend-holdings:
+    name: Legend Holdings
+    type: company
+    founded: 1984
+    headquarters: Beijing, China
+    status: active
   lehman-brothers:
     name: Lehman Brothers
     type: bank
@@ -9586,6 +10078,9 @@ organizations:
       role: executive
       to: 2007
       note: CFO, key in IBM PC acquisition 2005
+    - org: legend-holdings
+      role: owner
+      note: Largest shareholder
   leonard-green-partners:
     name: Leonard Green & Partners
     type: privateequity
@@ -9805,6 +10300,10 @@ organizations:
       role: board
       from: 2020
       note: Supervisory Board; Presidium and Nomination Committee
+    - person: rolf-breuer
+      role: board
+      from: 2001
+      note: Supervisory Board
     - org: blackrock
       share: 3.38
       from: 2025
@@ -10523,7 +11022,7 @@ organizations:
     status: active
     sector: banking
   munich-re:
-    name: Münchener Rückversicherungs-Gesellschaft AG
+    name: Münchener Rückversicherungs-AG
     type: company
     founded: 1880
     headquarters: Munich, Germany
@@ -10534,6 +11033,10 @@ organizations:
       role: board
       from: 2020
       note: Supervisory Board member
+    - person: rolf-breuer
+      role: board
+      from: 2000
+      note: Supervisory Board
   munich-security-conference:
     name: Munich Security Conference
     type: forum
@@ -11546,6 +12049,10 @@ organizations:
     name: European Parliament
     headquarters: Brussels/Strasbourg
     stakeholders:
+    - person: gaston-thorn
+      role: member
+      from: 1959
+      to: 1969
     - person: jacques-santer
       role: member
       from: 1999
@@ -11662,6 +12169,12 @@ organizations:
       from: 2004
       to: 2020
       note: Sold to Bangkok Bank
+  permira:
+    name: Permira
+    type: privateequity
+    founded: 1985
+    headquarters: London, UK
+    status: active
   peugeot-invest:
     name: Peugeot Invest
     type: company
@@ -11859,6 +12372,13 @@ organizations:
     - org: porsche-ag
       role: stake
       share: 0.25
+  precision-capital:
+    name: Precision Capital
+    type: privateequity
+    founded: 2012
+    headquarters: Luxembourg City, Luxembourg
+    status: active
+    note: Qatar royal family investment vehicle
   premier-padel:
     name: Premier Padel
     type: sportsclub
@@ -11922,6 +12442,12 @@ organizations:
       role: investor
       share: 12.5%
       from: 2023
+  pwc:
+    name: PricewaterhouseCoopers
+    type: company
+    founded: 1998
+    headquarters: London, UK
+    status: active
   qaf:
     name: QAF Limited
     type: company
@@ -12268,6 +12794,17 @@ organizations:
     founded: 1851
     headquarters: Londra
     status: active
+  reyl:
+    name: REYL & Cie Ltd
+    type: bank
+    founded: 1973
+    headquarters: Geneva, Switzerland
+    status: active
+    stakeholders:
+    - person: marc-hoffmann
+      role: board
+      from: 2024
+      note: Board of Directors, Strategic Committee
   rheinmetall:
     name: Rheinmetall AG
     type: company
@@ -12486,6 +13023,11 @@ organizations:
     status: active
     note: Largest European entertainment company. RTL, VOX, M6
     stakeholders:
+    - person: gaston-thorn
+      role: chairman
+      from: 1985
+      to: 2004
+      note: Chairman CLT poi RTL Group
     - org: bertelsmann
       role: owner
       share: 75.1%
@@ -13118,6 +13660,10 @@ organizations:
       from: 2013
       to: 2021
       note: CEO
+    - person: rolf-breuer
+      role: board
+      from: 2001
+      note: Deputy Chairman Supervisory Board
     - org: blackrock
       share: 6.2%
       note: Largest institutional shareholder
@@ -14103,6 +14649,8 @@ organizations:
       role: member
       from: 1973
       note: Membro fondatore gruppo europeo
+    - person: gaston-thorn
+      role: member
     - person: david-rubenstein
       role: member
     - person: jacob-wallenberg
@@ -14153,6 +14701,8 @@ organizations:
       role: member
       note: European Group
     - person: hans-wijers
+      role: member
+    - person: luc-frieden
       role: member
   trilaterale:
     name: Trilateral Commission
@@ -14591,6 +15141,18 @@ organizations:
     headquarters: Mumbai, India
     status: active
     note: JV Network18-Paramount (now Reliance). Colors, MTV India. Merged with Star India 2024
+  visa:
+    name: Visa Inc.
+    type: company
+    founded: 1958
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: charlotte-hogg
+      role: executive
+      from: 2017
+      to: 2025
+      note: CEO Europe
   vivendi:
     name: Vivendi SE
     type: media
@@ -15172,6 +15734,12 @@ organizations:
     - person: wopke-hoekstra
       role: member
       note: Speaker Davos
+    - person: luc-frieden
+      role: member
+      note: Speaker Davos
+    - person: xavier-bettel
+      role: member
+      note: Speaker Davos
     - org: bilderberg
       role: partner
     - org: fmi
@@ -15315,6 +15883,11 @@ organizations:
       from: 2010
       to: 2016
       note: Managing Director & COO
+    - person: luc-frieden
+      role: board
+      from: 1998
+      to: 2013
+      note: Governor; Chairman Board of Governors 2013
   world-jewish-congress:
     name: World Jewish Congress
     type: forum

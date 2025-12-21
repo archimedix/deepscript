@@ -9,3 +9,23 @@
   | Università   | £750M+ donazioni: Oxford, LSE, Cambridge, Exeter         |
   | Hospitality  | Katara (Savoy, Plaza), PIF (Aman, Rocco Forte), Jumeirah |
   | Bahrain/Oman | Mumtalakat (McLaren), OIA (Entrevias, xAI)
+
+
+- League of Nations
+- Action Committee
+- Schuman
+- CECA
+- Jacques Delors (FR)
+- eif European Investment Fund
+- eurostat
+
+  Istituzioni UE in lussemburgo
+
+  - Corte di Giustizia UE (CGUE)
+  - Corte dei Conti Europea
+  - [v] Banca Europea degli Investimenti (BEI)
+  - [] Meccanismo Europeo di Stabilità (MES)
+  - Segretariato del Parlamento Europeo
+
+  - [v] Clearstream (Deutsche Börse) - settlement globale
+  - [v] Euroclear - competitor, presenza lussemburghese

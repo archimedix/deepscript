@@ -4,8 +4,8 @@ Bank for International Settlements (BIS)
 
 
 SudaFrica
-Lussemburgo
 Norvegia
+Svizzera
 categoria Banche
 Compagnie Aeree, Aerospace
 Gruppo energia (petrolio)
@@ -14,6 +14,8 @@ Brasile: lula, bolsonaro
 India, Tata
 unthinkable di churchill, alan bruc, 
 
+World Bank
+Israel General Bank
 sartre,  macussen : indipendenza degli stati 
 
 Telcom

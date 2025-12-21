@@ -751,6 +751,21 @@ persons:
       role: leader
       from: 2025
       note: Primo Ministro
+  ariane-de-rothschild:
+    born: 1965
+    nationality: FRA
+    affiliations:
+    - org: edmond-de-rothschild-group
+      role: executive
+      from: 2015
+      note: President Exec Committee 2015; President Board 2019; CEO 2023
+    - org: edmond-de-rothschild-foundation-israel
+      role: chairman
+      from: 2021
+    relations:
+    - person: benjamin-de-rothschild
+      type: spouse
+      note: Vedova
   aristotle-onassis:
     born: 1906
     died: 1975
@@ -1009,6 +1024,25 @@ persons:
       from: 1914
       to: 1943
       note: Fondatore e direttore fino 1922, poi controllo indiretto
+  benjamin-de-rothschild:
+    born: 1963
+    died: 2021
+    nationality: FRA
+    family: rothschild
+    affiliations:
+    - org: edmond-de-rothschild-group
+      role: executive
+      from: 1997
+      to: 2021
+      note: President
+    - org: edmond-de-rothschild-foundation-israel
+      role: chairman
+      from: 1999
+      to: 2021
+    relations:
+    - person: edmond-de-rothschild
+      type: child
+      note: Figlio unico
   benjamin-graham:
     born: 1894
     died: 1976
@@ -1645,6 +1679,24 @@ persons:
       from: 1978
       to: 2023
       note: Vice Chairman 1978-2023. Morto novembre 2023
+  charlotte-hogg:
+    born: 1970
+    nationality: GBR
+    affiliations:
+    - org: bank-of-england
+      role: executive
+      from: 2013
+      to: 2017
+      note: COO, Deputy Governor
+    - org: alter-domus
+      role: executive
+      from: 2025
+      note: CEO luglio 2025
+    - org: visa
+      role: executive
+      from: 2017
+      to: 2025
+      note: CEO Europe
   charoen-sirivadhanabhakdi:
     born: 1944
     nationality: THA
@@ -2350,6 +2402,13 @@ persons:
       from: 2005
       to: 2007
       note: Primo Ministro (Chirac)
+  dominique-robyns:
+    nationality: BEL
+    affiliations:
+    - org: alter-domus
+      role: founder
+      from: 2003
+      note: Fondatore, ex-Chairman
   dominique-strauss-kahn:
     born: 1949
     nationality: FRA
@@ -2433,6 +2492,14 @@ persons:
     - person: kostas-bakoyannis
       type: parent
       note: mother
+  doug-hart:
+    nationality: USA
+    affiliations:
+    - org: alter-domus
+      role: executive
+      from: 2019
+      to: 2025
+      note: CEO 2019-2025
   doug-mcmillon:
     born: 1966
     nationality: USA
@@ -2514,6 +2581,25 @@ persons:
       from: 1995
       to: 1999
       note: Commissaria, scandalo nepotismo
+  edmond-de-rothschild:
+    born: 1926
+    died: 1997
+    nationality: FRA
+    family: rothschild
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Partecipante anni 70
+    - org: de-beers
+      role: board
+      note: Azionista
+    - org: edmond-de-rothschild-group
+      role: founder
+      from: 1953
+      to: 1997
+    - org: edmond-de-rothschild-foundation-israel
+      role: founder
+      from: 1953
   edoardo-agnelli-sr:
     born: 1892
     died: 1935
@@ -3586,6 +3672,8 @@ persons:
     died: 2007
     nationality: LUX
     affiliations:
+    - org: bilderberg
+      role: member
     - org: governo-lussemburgo
       role: leader
       from: 1974
@@ -3594,6 +3682,22 @@ persons:
       role: executive
       from: 1981
       to: 1985
+    - org: trilateral-commission
+      role: member
+    - org: parlamento-europeo
+      role: member
+      from: 1959
+      to: 1969
+    - org: rtl-group
+      role: chairman
+      from: 1985
+      to: 2004
+      note: Chairman CLT poi RTL Group
+    - org: bil
+      role: executive
+      from: 1985
+      to: 1999
+      note: President
   gautam-adani:
     born: 1962
     nationality: Indian
@@ -3918,6 +4022,39 @@ persons:
       from: 1990
       to: 2004
       note: Prime Minister
+  grand-duchess-charlotte:
+    born: 1896
+    died: 1985
+    nationality: LUX
+    affiliations:
+    - org: governo-lussemburgo
+      role: leader
+      from: 1919
+      to: 1964
+      note: Grand Duchess
+  grand-duke-henri:
+    born: 1955
+    nationality: LUX
+    affiliations:
+    - org: governo-lussemburgo
+      role: leader
+      from: 2000
+      to: 2025
+      note: Grand Duke
+    - org: ioc
+      role: member
+      from: 1998
+      note: Olympic Solidarity Commission
+  grand-duke-jean:
+    born: 1921
+    died: 2019
+    nationality: LUX
+    affiliations:
+    - org: governo-lussemburgo
+      role: leader
+      from: 1964
+      to: 2000
+      note: Grand Duke
   greg-abel:
     born: 1962
     nationality: CAN
@@ -3990,6 +4127,14 @@ persons:
       role: executive
       from: 2019
       note: CEO
+  guillaume-v-luxembourg:
+    born: 1981
+    nationality: LUX
+    affiliations:
+    - org: governo-lussemburgo
+      role: leader
+      from: 2025
+      note: Grand Duke
   hamad-bin-thamer:
     nationality: QAT
     family: al-thani
@@ -4318,6 +4463,15 @@ persons:
       role: ygl
       from: 1984
       note: Young Leader 1984
+  hilmar-kopper:
+    born: 1935
+    nationality: DEU
+    affiliations:
+    - org: deutsche-bank
+      role: executive
+      from: 1989
+      to: 1997
+      note: Vorstandssprecher
   ho-ching:
     born: 1953
     nationality: SGP
@@ -5006,9 +5160,33 @@ persons:
     died: 1979
     nationality: FRA
     affiliations:
+    - org: governo-francia
+      role: advisor
+      from: 1946
+      to: 1952
+      note: Commissario Generale del Piano (Piano Monnet)
+    - org: ecsc
+      role: chairman
+      from: 1952
+      to: 1955
+      note: Primo Presidente High Authority
     - org: unione-europea
       role: founder
       note: Architetto integrazione europea, primo presidente Alta Autorita CECA
+    - org: action-committee-use
+      role: founder
+      from: 1955
+      to: 1975
+      note: Fondatore e Presidente
+    - org: league-of-nations
+      role: executive
+      from: 1919
+      to: 1923
+      note: Vice Segretario Generale
+    relations:
+    - person: robert-schuman
+      type: colleague
+      note: Co-autori Dichiarazione Schuman 1950
   jean-paul-agon:
     born: 1956
     nationality: FRA
@@ -5781,6 +5959,19 @@ persons:
       role: chairman
       from: 2003
       note: President
+  josef-ackermann:
+    born: 1948
+    nationality: CHE
+    affiliations:
+    - org: deutsche-bank
+      role: executive
+      from: 2002
+      to: 2012
+      note: CEO
+    relations:
+    - person: rolf-breuer
+      type: successor
+      note: Successore come CEO Deutsche Bank 2002
   joseph-bae:
     nationality: USA
     affiliations:
@@ -6839,6 +7030,43 @@ persons:
       from: 1992
       to: 2005
       note: Privatized 1996, created Nissan alliance 1999
+  luc-frieden:
+    born: 1963
+    nationality: LUX
+    affiliations:
+    - org: wef
+      role: member
+      note: Speaker Davos
+    - org: fmi
+      role: board
+      from: 1998
+      to: 2013
+      note: Governor; Chairman Board of Governors 2013
+    - org: governo-lussemburgo
+      role: leader
+      from: 2023
+      note: Prime Minister
+    - org: governo-lussemburgo
+      role: minister
+      from: 1998
+      to: 2013
+      note: Min. Finanze, Budget, Giustizia
+    - org: trilateral-commission
+      role: member
+    - org: world-bank
+      role: board
+      from: 1998
+      to: 2013
+      note: Governor; Chairman Board of Governors 2013
+    - org: deutsche-bank
+      role: executive
+      from: 2014
+      to: 2016
+      note: Vice Chairman
+    - org: bil
+      role: chairman
+      from: 2016
+      to: 2023
   luca-de-meo:
     born: 1967
     nationality: ITA
@@ -7048,6 +7276,46 @@ persons:
       from: 2014
       to: 2016
       note: Primo Ministro
+  marc-hoffmann:
+    born: 1958
+    nationality: LUX
+    affiliations:
+    - org: jpmorgan
+      role: executive
+      from: 1984
+      to: 1990
+      note: Morgan Guaranty Trust → JP Morgan Securities London VP
+    - org: intesa-sanpaolo
+      role: executive
+      from: 2023
+      note: Via Intesa Sanpaolo Wealth Management Luxembourg
+    - org: dexia
+      role: executive
+      from: 1995
+      to: 2006
+      note: 'Dexia BIL: SVP 1995, CEO 2001-2006'
+    - org: cbp-quilvest
+      role: founder
+      from: 2007
+      to: 2023
+      note: Co-fondatore e CEO
+    - org: intesa-sanpaolo-wealth-management
+      role: chairman
+      from: 2023
+      note: CEO 2023, Chairman 2025
+    - org: reyl
+      role: board
+      from: 2024
+      note: Board of Directors, Strategic Committee
+    - org: aig
+      role: executive
+      from: 1990
+      to: 1994
+      note: AIG Financial Products UK, Banque AIG Paris
+    relations:
+    - person: norbert-becker
+      type: business_partner
+      note: Co-fondatori CBP 2007
   marc-olivier-laurent:
     nationality: FRA
     affiliations:
@@ -7358,6 +7626,32 @@ persons:
       role: executive
       from: 2020
       note: CEO
+  mark-wiseman:
+    nationality: CAN
+    affiliations:
+    - org: blackrock
+      role: executive
+      from: 2016
+      to: 2019
+      note: Head Active Equities, Chair Alternatives
+    - org: lazard
+      role: advisor
+      from: 2020
+      note: Senior Advisor, Chairman Canada
+    - org: cppib
+      role: executive
+      from: 2012
+      to: 2016
+      note: President & CEO
+    - org: alter-domus
+      role: chairman
+      from: 2025
+      note: Chairman marzo 2025
+    - org: aimco
+      role: chairman
+      from: 2020
+      to: 2024
+      note: Chairman Board
   mark-zuckerberg:
     born: 1984
     nationality: USA
@@ -7887,6 +8181,29 @@ persons:
       role: minister
       from: 2019
       note: Vice PM, Digital Transformation
+  nadia-calvino:
+    born: 1968
+    nationality: ESP
+    affiliations:
+    - org: fmi
+      role: chairman
+      from: 2022
+      to: 2023
+      note: Chair IMFC
+    - org: governo-spagna
+      role: minister
+      from: 2018
+      to: 2023
+      note: First Vice PM; Min. Economy
+    - org: bei
+      role: executive
+      from: 2024
+      note: President
+    - org: commissione-europea
+      role: executive
+      from: 2006
+      to: 2018
+      note: DG Budget; Deputy DG Competition
   nadiem-makarim:
     born: 1984
     nationality: IDN
@@ -8209,6 +8526,13 @@ persons:
       role: chairman
       from: 2024
       note: Presidente attuale
+  norbert-becker:
+    nationality: LUX
+    affiliations:
+    - org: cbp-quilvest
+      role: founder
+      from: 2007
+      note: Co-fondatore, Chairman Board
   norbert-reithofer:
     born: 1956
     nationality: DEU
@@ -8900,6 +9224,26 @@ persons:
       from: 2009
       to: 2013
       note: Health 2009-11, Economics 2011-13, Vice Chancellor 2011-13
+  philippe-maystadt:
+    born: 1948
+    died: 2017
+    nationality: BEL
+    affiliations:
+    - org: fmi
+      role: chairman
+      from: 1993
+      to: 1998
+      note: Chair Interim Committee (5 anni)
+    - org: governo-belgio
+      role: minister
+      from: 1988
+      to: 1998
+      note: Deputy PM; Min. Finance
+    - org: bei
+      role: executive
+      from: 2000
+      to: 2011
+      note: President
   pier-silvio-berlusconi:
     born: 1969
     nationality: Italia
@@ -8943,6 +9287,35 @@ persons:
     died: 1817
     nationality: Francia/USA
     family: dupont
+  pierre-werner:
+    born: 1913
+    died: 2002
+    nationality: LUX
+    affiliations:
+    - org: governo-lussemburgo
+      role: leader
+      from: 1959
+      to: 1974
+      note: Primo Ministro (primo mandato)
+    - org: governo-lussemburgo
+      role: leader
+      from: 1979
+      to: 1984
+      note: Primo Ministro (secondo mandato)
+    - org: governo-lussemburgo
+      role: minister
+      from: 1953
+      to: 1979
+      note: Ministro delle Finanze
+    - org: action-committee-use
+      role: member
+      note: Membro attivo, collaboratore di Jean Monnet
+    - org: elec
+      role: member
+    relations:
+    - person: jean-monnet
+      type: colleague
+      note: Collaboratori stretti in Action Committee USE
   pio-perrone:
     born: 1875
     died: 1952
@@ -9667,6 +10040,46 @@ persons:
       role: executive
       from: 2021
       note: President and CEO
+  rolf-breuer:
+    born: 1937
+    died: 2024
+    nationality: DEU
+    affiliations:
+    - org: siemens
+      role: board
+      from: 2001
+      note: Deputy Chairman Supervisory Board
+    - org: deutsche-bank
+      role: executive
+      from: 1997
+      to: 2002
+      note: CEO/Vorstandssprecher
+    - org: deutsche-bank
+      role: chairman
+      from: 2002
+      to: 2006
+      note: Chairman Supervisory Board
+    - org: lufthansa
+      role: board
+      from: 2001
+      note: Supervisory Board
+    - org: munich-re
+      role: board
+      from: 2000
+      note: Supervisory Board
+    - org: eon
+      role: board
+      from: 2000
+      note: Supervisory Board
+    - org: deutsche-boerse
+      role: chairman
+      from: 1993
+      to: 2005
+      note: Chairman Supervisory Board
+    relations:
+    - person: hilmar-kopper
+      type: successor
+      note: Successore come Vorstandssprecher Deutsche Bank 1997
   rolf-habben-jansen:
     born: 1966
     nationality: NLD
@@ -11317,6 +11730,20 @@ persons:
       role: board
       from: 1974
       to: 2011
+  werner-hoyer:
+    born: 1951
+    nationality: DEU
+    affiliations:
+    - org: governo-germania
+      role: minister
+      from: 1994
+      to: 2012
+      note: Min. State Foreign Affairs; Bundestag
+    - org: bei
+      role: executive
+      from: 2012
+      to: 2023
+      note: President
   werner-kuhne:
     born: 1898
     nationality: DEU
@@ -11593,6 +12020,26 @@ persons:
       from: 2002
       to: 2028
       note: Lead owner 2002-2025, Governor until 2028
+  xavier-bettel:
+    born: 1973
+    nationality: LUX
+    affiliations:
+    - org: wef
+      role: member
+      note: Speaker Davos
+    - org: governo-lussemburgo
+      role: leader
+      from: 2013
+      to: 2023
+      note: Prime Minister
+    - org: governo-lussemburgo
+      role: minister
+      from: 2023
+      note: Vice PM, Min. Esteri
+    relations:
+    - person: luc-frieden
+      type: colleague
+      note: Vice PM sotto Frieden (2023-), successore come PM
   xavier-fontanet:
     born: 1948
     nationality: FRA
