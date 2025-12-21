@@ -577,6 +577,91 @@ La scelta del Lussemburgo creo' un precedente: da allora il Granducato ha ospita
 | [Gaston Thorn](../docs/persons/gaston-thorn.md) | Member |
 | [Luc Frieden](../docs/persons/luc-frieden.md) | Member |
 
+---
+
+## Connessioni Benelux
+
+Il Lussemburgo e' parte integrante del sistema di potere Benelux, con ruoli specifici nel network regionale.
+
+### Il Triangolo Benelux
+
+```
+                    BENELUX - NETWORK DI POTERE
+                              |
+         +--------------------+--------------------+
+         |                    |                    |
+     PAESI BASSI           BELGIO             LUSSEMBURGO
+         |                    |                    |
+    Orange-Nassau        Saxe-Coburg          Nassau-Weilburg
+    (Bilderberg founder) (Davignon Chair)     (cugini, discreti)
+         |                    |                    |
+         |               SWIFT              Clearstream
+         |               Euroclear               BEI
+         |                    |                    |
+         +--------------------+--------------------+
+                              |
+              3 PRESIDENTI COMMISSIONE UE
+              (Thorn, Santer, Juncker)
+```
+
+### Nassau: I Cugini Discreti
+
+Le case regnanti di Paesi Bassi e Lussemburgo sono cugine:
+
+| Casa | Paese | Approccio ai Forum |
+|------|-------|--------------------|
+| [Orange-Nassau](../docs/family/orange-nassau.md) | Paesi Bassi | Fondatori Bilderberg, WWF, WEF Board |
+| **[Nassau-Weilburg](../docs/family/nassau-weilburg.md)** | Lussemburgo | **Nessun coinvolgimento** - profilo discreto |
+
+Il trono lussemburghese passo' a Nassau-Weilburg nel 1890. A differenza dei cugini olandesi (fondatori di Bilderberg e WWF), i Nassau-Weilburg hanno evitato ruoli nei forum transnazionali.
+
+### Infrastruttura Finanziaria Benelux
+
+Il Benelux ospita l'infrastruttura finanziaria critica globale - il Lussemburgo con Clearstream:
+
+| Sistema | Sede | Funzione | Volume |
+|---------|------|----------|--------|
+| [SWIFT](../docs/company/swift.md) | La Hulpe, Belgio | Messaggistica bancaria | 42M msg/giorno |
+| [Euroclear](../docs/company/euroclear.md) | Bruxelles, Belgio | Settlement, Custody | EUR 40.7T |
+| **[Clearstream](../docs/company/clearstream.md)** | Kirchberg, **Lussemburgo** | Settlement, Custody | **EUR 19T** |
+
+Clearstream e Euroclear sono i **due soli ICSD** (International Central Securities Depository) al mondo - controllano l'intero settlement di titoli internazionali.
+
+### La BEI: Ponte con il Belgio
+
+La [Banca Europea per gli Investimenti](../docs/agency/bei.md), sede Kirchberg:
+
+| Periodo | Presidente | Nazionalita' |
+|---------|------------|--------------|
+| **2000-2011** | **[Philippe Maystadt](../docs/persons/philippe-maystadt.md)** | **Belgio** |
+| 2012-2023 | Werner Hoyer | Germania |
+| 2024- | Nadia Calvino | Spagna |
+
+Maystadt, dopo 10 anni come Ministro delle Finanze belga, guido' la BEI in Lussemburgo per 11 anni.
+
+### RTL Group: Media Benelux
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Sede** | **Lussemburgo** |
+| **Chairman storico** | [Gaston Thorn](../docs/persons/gaston-thorn.md) (LUX) 1985-2004 |
+| **RTL Nederland** | [John de Mol](../docs/persons/john-de-mol.md) (NL) 30% |
+| **Proprieta'** | Bertelsmann (DE) 75% |
+
+### Bilderberg: Ruolo Marginale
+
+A differenza di Belgio (Davignon chairman) e Paesi Bassi (fondatori), il Lussemburgo ha avuto un ruolo marginale in Bilderberg:
+
+| Paese | Ruolo Bilderberg |
+|-------|------------------|
+| Paesi Bassi | Prince Bernhard fondatore e chairman (1954-1976) |
+| Belgio | Davignon chairman (1998-2011) |
+| **Lussemburgo** | Primo partecipante: Gaston Thorn (1978) |
+
+> "Luxembourg played a very marginal role in the Bilderberg conferences." - Ricerca accademica
+
+---
+
 ### WEF
 
 | Persona | Ruolo |

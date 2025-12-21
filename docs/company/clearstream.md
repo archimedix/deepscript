@@ -240,13 +240,27 @@ Clearstream e' classificata come **infrastruttura di mercato sistemicamente impo
 
 ## Connessioni DeepScript
 
+### Il Triangolo Benelux dell'Infrastruttura Finanziaria
+
+Clearstream fa parte del sistema di infrastruttura finanziaria critica concentrato nel Benelux:
+
+| Sistema | Sede | Funzione | AUC/Volume |
+|---------|------|----------|------------|
+| **Clearstream** | Kirchberg, **Lussemburgo** | Settlement, Custody | EUR 19T |
+| [Euroclear](euroclear.md) | Bruxelles, **Belgio** | Settlement, Custody | EUR 40.7T |
+| [SWIFT](swift.md) | La Hulpe, **Belgio** | Messaggistica bancaria | 42M msg/giorno |
+
+> **Significato**: Se Clearstream, Euroclear e SWIFT si fermano, il sistema finanziario globale si blocca. Tre paesi di 30 milioni di abitanti controllano l'infrastruttura critica mondiale.
+
 ### Organizzazioni
 
 | Entita' | Connessione |
 |---------|-------------|
 | [Deutsche Borse Group](../company/deutsche-borse-group.md) | Proprietario 100% |
-| [BIL](../bank/bil.md) | Banca lussemburghese, possibile cliente |
-| [EIB](../bank/eib.md) | Istituzione UE Lussemburgo |
+| [Euroclear](euroclear.md) | Concorrente, unico altro ICSD mondiale |
+| [SWIFT](swift.md) | Partner infrastruttura |
+| [BIL](../bank/bil.md) | Banca lussemburghese, cliente |
+| [BEI](../agency/bei.md) | Istituzione UE Lussemburgo |
 
 ### Eventi Correlati
 

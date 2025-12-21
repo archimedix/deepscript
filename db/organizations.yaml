@@ -1796,6 +1796,10 @@ organizations:
       from: 2000
       to: 2011
       note: President
+    - person: philippe-maystadt
+      role: president
+      from: 2000
+      to: 2011
   bein-media:
     name: beIN Media Group
     type: media
@@ -6867,6 +6871,11 @@ organizations:
       from: 1988
       to: 1998
       note: Deputy PM; Min. Finance
+    - person: philippe-maystadt
+      role: minister
+      from: 1988
+      to: 1998
+      note: Ministro Finanze
     - person: etienne-davignon
       role: advisor
       from: 1959
@@ -14605,6 +14614,13 @@ organizations:
       role: partner
       from: 1976
       note: Partner, Head European Operations
+  swift:
+    name: SWIFT
+    type: company
+    founded: 1973
+    headquarters: La Hulpe, Belgium
+    status: Active
+    sector: Financial Infrastructure
   swiss-re:
     type: company
     founded: 1863

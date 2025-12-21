@@ -540,6 +540,93 @@ La piu' importante holding belga della storia.
 
 ---
 
+## Connessioni Benelux
+
+Il Belgio e' parte integrante del sistema di potere Benelux, con connessioni profonde con Paesi Bassi e Lussemburgo.
+
+### Il Triangolo Benelux
+
+```
+                    BENELUX - NETWORK DI POTERE
+                              |
+         +--------------------+--------------------+
+         |                    |                    |
+      BELGIO              PAESI BASSI          LUSSEMBURGO
+         |                    |                    |
+    Davignon             Bernhard              Juncker
+    (Bilderberg Chair)   (Bilderberg founder)  (Pres. Comm.)
+         |                    |                    |
+    Euroclear            Orange-Nassau         Nassau-Weilburg
+    SWIFT                Clearstream (via      Clearstream
+                         Deutsche Borse)       (sede)
+         |                    |                    |
+         +--------------------+--------------------+
+                              |
+                    INFRASTRUTTURA CRITICA
+                    (Settlement, Messaggistica)
+```
+
+### Bilderberg: La Rete Transatlantica
+
+Il forum Bilderberg, fondato in Olanda nel 1954, ha visto leadership belga prominente:
+
+| Paese | Figura | Ruolo Bilderberg |
+|-------|--------|------------------|
+| **Paesi Bassi** | [Prince Bernhard](../docs/persons/prince-bernhard-netherlands.md) | Fondatore, Chairman 1954-1976 |
+| **Belgio** | [Etienne Davignon](../docs/persons/etienne-davignon.md) | Chairman 1998-2011 |
+| **Lussemburgo** | [Gaston Thorn](../docs/persons/gaston-thorn.md) | Primo partecipante LUX (1978) |
+
+Paul Van Zeeland (belga) fu co-fondatore insieme a Bernhard e Jozef Retinger.
+
+### Infrastruttura Finanziaria Critica
+
+Il Benelux ospita l'infrastruttura finanziaria critica globale:
+
+| Sistema | Sede | Funzione | AUC/Volume |
+|---------|------|----------|------------|
+| **[SWIFT](../docs/company/swift.md)** | La Hulpe, **Belgio** | Messaggistica bancaria | 42M msg/giorno |
+| **[Euroclear](../docs/company/euroclear.md)** | Bruxelles, **Belgio** | Settlement, Custody | EUR 40.7T |
+| **[Clearstream](../docs/company/clearstream.md)** | Kirchberg, **Lussemburgo** | Settlement, Custody | EUR 19T |
+
+> **Significato**: Se SWIFT, Euroclear e Clearstream si fermano, il sistema finanziario globale si blocca. Tre paesi di 30 milioni di abitanti controllano l'infrastruttura critica mondiale.
+
+### La BEI: Ponte Belgio-Lussemburgo
+
+La [Banca Europea per gli Investimenti](../docs/agency/bei.md), con sede a Lussemburgo, ha avuto leadership belga:
+
+| Periodo | Presidente | Nazionalita' |
+|---------|------------|--------------|
+| **2000-2011** | [Philippe Maystadt](../docs/persons/philippe-maystadt.md) | **Belgio** |
+| 2012-2023 | Werner Hoyer | Germania |
+| 2024- | Nadia Calvino | Spagna |
+
+Maystadt, dopo 10 anni come Ministro delle Finanze belga, guido' la BEI per 11 anni, esemplificando il pattern Benelux.
+
+### Nassau: I Cugini Reali
+
+Le case regnanti di Paesi Bassi e Lussemburgo sono cugine:
+
+| Casa | Paese | Caratteristica |
+|------|-------|----------------|
+| [Orange-Nassau](../docs/family/orange-nassau.md) | Paesi Bassi | Fondatori Bilderberg, WWF |
+| [Nassau-Weilburg](../docs/family/nassau-weilburg.md) | Lussemburgo | Profilo discreto, stabilita' |
+| [Saxe-Coburg-Gotha](../docs/family/saxe-coburg-gotha.md) | Belgio | Re Philippe in forum elite |
+
+Orange-Nassau e Nassau-Weilburg condividono l'origine Nassau (Germania). Il trono lussemburghese passo' a Nassau-Weilburg nel 1890 quando la linea Orange-Nassau non aveva eredi maschi per il Lussemburgo.
+
+### RTL Group: Media Benelux
+
+[RTL Group](../docs/media/rtl-group.md), il gigante media europeo:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Sede** | Lussemburgo |
+| **Chairman storico** | [Gaston Thorn](../docs/persons/gaston-thorn.md) (1985-2004) |
+| **RTL Nederland** | [John de Mol](../docs/persons/john-de-mol.md) 30% |
+| **Proprieta'** | Bertelsmann 75% |
+
+---
+
 ## Pattern di Potere
 
 ### 1. Piccolo Paese, Influenza Globale

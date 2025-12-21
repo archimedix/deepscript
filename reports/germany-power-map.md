@@ -626,6 +626,72 @@ Politico (USA/EU)
 
 ---
 
+## Infrastruttura Finanziaria: Clearstream
+
+### Deutsche Börse e il Controllo del Settlement Globale
+
+La Germania, tramite [Deutsche Börse](../docs/company/deutsche-borse.md), controlla uno dei due soli **ICSD** (International Central Securities Depository) al mondo:
+
+| Aspetto | [Clearstream](../docs/company/clearstream.md) |
+|---------|-------------|
+| **Sede** | Kirchberg, Lussemburgo |
+| **Fondazione** | 1970 (come Cedel) |
+| **Proprietà** | **Deutsche Börse 100%** |
+| **Assets Under Custody** | **€19 trilioni** |
+| **Dipendenti** | ~1,300 |
+| **Concorrente** | [Euroclear](../docs/company/euroclear.md) (Bruxelles, €40.7T) |
+
+### Il Duopolio Globale del Settlement
+
+```
+TITOLI INTERNAZIONALI (Eurobond, etc.)
+                │
+                ▼
+    ┌───────────┴───────────┐
+    │                       │
+    ▼                       ▼
+CLEARSTREAM              EUROCLEAR
+(Lussemburgo)            (Bruxelles)
+    │                       │
+Deutsche Börse          Mutualizzata
+(Germania)              (Belgio)
+    │                       │
+€19T                    €40.7T
+    │                       │
+    └───────────┬───────────┘
+                │
+                ▼
+   SE SI FERMANO = BLOCCO
+   SISTEMA FINANZIARIO GLOBALE
+```
+
+> **Significato**: Clearstream e Euroclear sono gli unici due ICSD al mondo. Insieme controllano l'intero settlement di titoli internazionali. Deutsche Börse (Francoforte) possiede Clearstream dal 2002.
+
+### L'Affare Clearstream (2001-2011)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Accusatori** | Denis Robert (giornalista FR), Ernest Backes (ex-dirigente Cedel) |
+| **Accuse** | "Conti non pubblicati" per evasione/riciclaggio |
+| **Collegamento** | Crack Banco Ambrosiano (1982), morte Roberto Calvi |
+| **Morte sospetta** | Gerard Soisson (DG Cedel) trovato morto 1983 |
+| **Esito** | Robert assolto dalla Corte di Cassazione francese (2011) |
+| **Conseguenza** | Dibattito su trasparenza infrastrutture finanziarie |
+
+### Connessione Benelux
+
+Clearstream (Lux) ed Euroclear (Belgio) formano con [SWIFT](../docs/company/swift.md) (Belgio) la triade dell'infrastruttura finanziaria critica europea:
+
+| Sistema | Sede | Funzione | Controllo |
+|---------|------|----------|-----------|
+| **SWIFT** | La Hulpe, Belgio | Messaggistica bancaria | Cooperativa |
+| **Euroclear** | Bruxelles, Belgio | Settlement, Custody | Mutualizzata |
+| **Clearstream** | Kirchberg, Lussemburgo | Settlement, Custody | **Deutsche Börse** |
+
+> **Pattern**: La Germania, tramite Deutsche Börse, è l'unico paese a controllare interamente uno dei due ICSD globali. Questo dà alla Germania una leva strategica nell'infrastruttura finanziaria mondiale.
+
+---
+
 ## Investitori Esteri in Germania
 
 ### Mappa Investimenti Esteri
@@ -892,6 +958,8 @@ Ma anche rallenta trasformazione digitale/green.
 | bertelsmann-stiftung | Foundation | 80.9% Bertelsmann (0% voti), EUR 77M budget |
 | governo-germania | Government | Cancelliere Merz (2025), Presidente Steinmeier |
 | [eurasia-group](../docs/company/eurasia-group.md) | Company | Political risk consulting, Gabriel advisor, Bremmer founder |
+| [deutsche-borse](../docs/company/deutsche-borse.md) | Company | Proprietaria 100% Clearstream |
+| [clearstream](../docs/company/clearstream.md) | Company | ICSD Lussemburgo, €19T custody, Deutsche Börse 100% |
 
 ### Forum
 
@@ -973,6 +1041,15 @@ Ma anche rallenta trasformazione digitale/green.
 *Ultimo aggiornamento: Dicembre 2025*
 
 ### Changelog
+
+- **21 Dic v11**: Infrastruttura finanziaria Clearstream
+  - **Nuova sezione "Infrastruttura Finanziaria: Clearstream"**
+  - **Deutsche Börse**: proprietaria 100% Clearstream (ICSD, €19T custody)
+  - **Duopolio globale**: Clearstream (Lux/DE) + Euroclear (Belgio) = unici ICSD al mondo
+  - **Affare Clearstream (2001-2011)**: Denis Robert, Ernest Backes, collegamento Banco Ambrosiano
+  - **Connessione Benelux**: SWIFT + Euroclear + Clearstream = triade infrastruttura critica
+  - Nuove entità: deutsche-borse, clearstream
+  - Pattern nuovo: Germania unico paese a controllare interamente un ICSD
 
 - **19 Dic v10**: Revolving door tedeschi e figure storiche
   - **Sigmar Gabriel**: scheda completa `docs/persons/sigmar-gabriel.md` (Vice Chancellor → Atlantik-Brücke Chairman, Deutsche Bank/Rheinmetall/Siemens Energy boards, Trilateral, Eurasia Group)

@@ -22,7 +22,7 @@ Mappa del Potere - Belgio
   | [v] KBC Group                      | Banca          | Principale banca belga                        |
   | Ageas                          | Assicurazioni  | Ex Fortis                                     |
   | [v] Euroclear                      | Infrastruttura | Clearing house globale                        |
-  | SWIFT                          | Infrastruttura | Messaggistica bancaria mondiale (La Hulpe)    |
+  | [v] SWIFT                          | Infrastruttura | Messaggistica bancaria mondiale (La Hulpe)    |
 
   Hub Istituzionali EU/NATO
 

@@ -197,12 +197,25 @@ La Banca Centrale Russa ha fatto causa a Euroclear presso tribunali di Mosca per
 
 ## Connessioni DeepScript
 
+### Il Triangolo Benelux dell'Infrastruttura Finanziaria
+
+Euroclear fa parte del sistema di infrastruttura finanziaria critica concentrato nel Benelux:
+
+| Sistema | Sede | Funzione | AUC/Volume |
+|---------|------|----------|------------|
+| **Euroclear** | Bruxelles, **Belgio** | Settlement, Custody | EUR 40.7T |
+| [Clearstream](clearstream.md) | Kirchberg, **Lussemburgo** | Settlement, Custody | EUR 19T |
+| [SWIFT](swift.md) | La Hulpe, **Belgio** | Messaggistica bancaria | 42M msg/giorno |
+
+> **Significato**: Se Euroclear, Clearstream e SWIFT si fermano, il sistema finanziario globale si blocca. Tre paesi di 30 milioni di abitanti controllano l'infrastruttura critica mondiale.
+
 ### Organizzazioni
 
 | Entita' | Connessione |
 |---------|-------------|
 | [JPMorgan Chase](../bank/jpmorgan-chase.md) | Fondatore 1968, venduto 1972 |
-| [Clearstream](clearstream.md) | Concorrente, altro ICSD |
+| [Clearstream](clearstream.md) | Concorrente, unico altro ICSD mondiale |
+| [SWIFT](swift.md) | Partner infrastruttura, stesso paese (Belgio) |
 | Caisse des Depots | Azionista 11.4% |
 | NZ Super Fund | Azionista 8.7% |
 

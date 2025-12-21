@@ -834,6 +834,93 @@ Bertelsmann 70%
 
 ---
 
+## Connessioni Benelux
+
+I Paesi Bassi sono il cuore del sistema di potere Benelux, avendo fondato il forum piu' esclusivo del mondo (Bilderberg) e mantenendo connessioni profonde con Belgio e Lussemburgo.
+
+### Il Triangolo Benelux
+
+```
+                    BENELUX - NETWORK DI POTERE
+                              |
+         +--------------------+--------------------+
+         |                    |                    |
+     PAESI BASSI           BELGIO             LUSSEMBURGO
+         |                    |                    |
+    Bernhard             Davignon              Juncker
+    (Bilderberg founder) (Bilderberg Chair)   (Pres. Comm.)
+         |                    |                    |
+    Orange-Nassau        Saxe-Coburg          Nassau-Weilburg
+    (fondatori)          (Re Philippe)        (cugini Nassau)
+         |                    |                    |
+         +--------------------+--------------------+
+                              |
+                    INFRASTRUTTURA CRITICA
+                    SWIFT + Euroclear + Clearstream
+```
+
+### Bilderberg: Fondato in Olanda
+
+Il forum Bilderberg fu fondato in Olanda nel 1954:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Luogo fondazione** | Hotel de Bilderberg, Oosterbeek, **Paesi Bassi** |
+| **Data** | 29-31 maggio 1954 |
+| **Fondatore olandese** | [Prince Bernhard](../docs/persons/prince-bernhard-netherlands.md) |
+| **Co-fondatore belga** | Paul Van Zeeland |
+| **Chairman belga** | [Etienne Davignon](../docs/persons/etienne-davignon.md) (1998-2011) |
+
+La leadership Bilderberg e' passata da Olanda a Belgio:
+- 1954-1976: Prince Bernhard (NL)
+- 1998-2011: Etienne Davignon (BE)
+
+### Nassau: I Cugini Reali
+
+Le case regnanti di Paesi Bassi e Lussemburgo sono cugine, entrambe dal casato Nassau:
+
+| Casa | Paese | Ruolo nei Forum |
+|------|-------|-----------------|
+| **[Orange-Nassau](../docs/family/orange-nassau.md)** | Paesi Bassi | Fondatori Bilderberg, WWF |
+| [Nassau-Weilburg](../docs/family/nassau-weilburg.md) | Lussemburgo | Assenti (profilo discreto) |
+
+Il trono lussemburghese passo' a Nassau-Weilburg nel 1890 quando la linea Orange-Nassau non aveva eredi maschi per il Lussemburgo (legge salica).
+
+### Infrastruttura Finanziaria Critica
+
+Il Benelux ospita l'intera infrastruttura finanziaria critica globale:
+
+| Sistema | Sede | Funzione | Volume |
+|---------|------|----------|--------|
+| [SWIFT](../docs/company/swift.md) | La Hulpe, **Belgio** | Messaggistica bancaria | 42M msg/giorno |
+| [Euroclear](../docs/company/euroclear.md) | Bruxelles, **Belgio** | Settlement, Custody | EUR 40.7T |
+| [Clearstream](../docs/company/clearstream.md) | Kirchberg, **Lussemburgo** | Settlement, Custody | EUR 19T |
+
+**Connessione olandese**: Euroclear possiede Euroclear Nederland (CSD nazionale olandese) dal 2007.
+
+### RTL Group: Media Benelux
+
+Il gigante media [RTL Group](../docs/media/rtl-group.md) collega Lussemburgo e Paesi Bassi:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Sede** | Lussemburgo |
+| **RTL Nederland** | [John de Mol](../docs/persons/john-de-mol.md) (NL) possiede 30% |
+| **Proprieta'** | Bertelsmann (DE) 75% |
+| **Origine** | Fusione CLT (LUX) + RTL (DE) |
+
+### La BEI e il Pattern Benelux
+
+La [Banca Europea per gli Investimenti](../docs/agency/bei.md) (sede Lussemburgo) esemplifica le connessioni Benelux:
+
+| Periodo | Presidente | Nazionalita' |
+|---------|------------|--------------|
+| 2000-2011 | [Philippe Maystadt](../docs/persons/philippe-maystadt.md) | Belgio |
+| 2012-2023 | Werner Hoyer | Germania |
+| 2024- | Nadia Calvino | Spagna |
+
+---
+
 ## L'Eredita' Coloniale
 
 ### VOC e il Commercio Globale
