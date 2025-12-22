@@ -277,10 +277,27 @@ families:
     - person: frederic-de-mevius
   de-spoelberch:
     origin: Belgium
+    founder: willem-spoelberch
     sector: brewing, investment
+    generations: 6
     status: active
     members:
     - person: gregoire-de-spoelberch
+      generation: 6
+    - person: philippe-de-spoelberch
+      generation: 5
+    - person: olivier-de-spoelberch
+      generation: 6
+    - person: andre-de-spoelberch
+      generation: 5
+    - person: werner-de-spoelberch
+      generation: 4
+    - person: guillaume-de-spoelberch
+      generation: 3
+    - person: adolphe-de-spoelberch
+      generation: 2
+    - person: caroline-de-spoelberch
+      generation: 6
   dupont:
     origin: Francia/USA
     founder: E.I. du Pont
@@ -351,6 +368,24 @@ families:
       generation: 3
     - person: martin-hartono
       generation: 3
+  janssen:
+    origin: Belgium
+    founder: constant-janssen
+    sector: pharmaceuticals
+    generations: 3
+    status: active
+    members:
+    - person: constant-janssen
+      generation: 1
+      role: founder
+    - person: paul-janssen
+      generation: 2
+    - person: dora-janssen
+      generation: 2
+      role: spouse
+    - person: ludwig-criel
+      generation: 3
+      role: son-in-law
   janssen-belgium:
     origin: Belgium
     sector: banking, chemicals

@@ -40,12 +40,12 @@ Il Belgio e' uno dei paesi piu' influenti al mondo rispetto alle dimensioni, gra
      |                           |                           |
 CASA REALE                   GOVERNO                  BUSINESS DYNASTIES
 SAXE-COBURG                     |                           |
-     |                    +-----+-----+              +-------+-------+
-     |                    |           |              |       |       |
- Philippe            De Wever    Van Rompuy    AB INBEV  SOLVAY  SOFINA  KBC
- Re (2013-)          PM 2025-    EU Council    Van Damme   ↕↔     Boel   coop
-     |               De Croo      2009-14      de Spoelberch JANSSEN     |
-     |               PM 20-24                  de Mevius    ↕↔          |
+     |                    +-----+-----+              +-------+-------+-------+
+     |                    |           |              |       |       |       |
+ Philippe            De Wever    Van Rompuy    AB INBEV  SOLVAY  SOFINA  JANSSEN
+ Re (2013-)          PM 2025-    EU Council    Van Damme   ↕↔     Boel   PHARMA
+     |               De Croo      2009-14      de Spoelberch JANSSEN    (→J&J)
+     |               PM 20-24                  de Mevius   -Solvay        |
      +--------------------+-----------+---------------------------+
                                       |
                           FORUM INTERNAZIONALI
@@ -199,7 +199,7 @@ Nel novembre 2009, pochi giorni prima della nomina a primo Presidente permanente
 | Famiglia | Patrimonio | Origine | Veicolo | Scheda |
 |----------|------------|---------|---------|--------|
 | **[Van Damme](../docs/family/van-damme.md)** | €17.3B | Merger 1987 | Stichting | [Stub](../docs/family/van-damme.md) |
-| **[de Spoelberch](../docs/family/de-spoelberch.md)** | €12.5B | Artois dal XIV sec. | [Verlinvest](../docs/company/verlinvest.md) | [Stub](../docs/family/de-spoelberch.md) |
+| **[de Spoelberch](../docs/family/de-spoelberch.md)** | €14B | Artois dal XIV sec., Visconti | [Verlinvest](../docs/private-equity/verlinvest.md), [Cobepa](../docs/private-equity/cobepa.md) | [Completa](../docs/family/de-spoelberch.md) |
 | **[de Mevius](../docs/family/de-mevius.md)** | €7B | Artois dal XIV sec. | [Verlinvest](../docs/company/verlinvest.md) | [Stub](../docs/family/de-mevius.md) |
 | **Totale** | €40-50B | - | 4a famiglia piu' ricca al mondo | - |
 
@@ -269,7 +269,7 @@ de Spoelberch + de Mevius (storiche)
 | **Triangolo dinastico** | Solvay-Boel-Janssen interconnessi da matrimoni |
 | **Schede** | Famiglia: [Completa](../docs/family/solvay.md), Azienda: [Completa](../docs/company/solvay.md) |
 
-### [Famiglia Janssen](../docs/family/janssen-belgium.md): Farmaceutica e Chimica
+### [Famiglia Janssen-Solvay](../docs/family/janssen-belgium.md): Banking e Chimica
 
 | Aspetto | Dettaglio |
 |---------|-----------|
@@ -280,6 +280,21 @@ de Spoelberch + de Mevius (storiche)
 | **Connessione Boel** | Marie-Anne Boël sposò Charles-Emmanuel Janssen |
 | **Connessione reale** | Nicolas Janssen sposò Helene d'Udekem d'Acoz (sorella Regina Mathilde) |
 | **Scheda** | Stub |
+
+### [Famiglia Janssen](../docs/family/janssen.md): Farmaceutica (Paul Janssen)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Patrimonio** | €300M+ |
+| **Fondatore** | [Constant Janssen](../docs/persons/constant-janssen.md) (1895-1970) |
+| **Figura chiave** | [Paul Janssen](../docs/persons/paul-janssen.md) (1926-2003), Barone |
+| **Origine** | Distribuzione farmaceutica (1933), poi [Janssen Pharmaceutica](../docs/pharma/janssen-pharmaceutica.md) (1953) |
+| **Innovazioni** | 80+ farmaci: Haloperidol, Fentanyl, Risperidone, Loperamide |
+| **Vendita** | Acquisita da [Johnson & Johnson](../docs/pharma/johnson-johnson.md) (1961) |
+| **Gestione attuale** | Ludwig Criel (genero) |
+| **Scheda** | [Completa](../docs/family/janssen.md) |
+
+> **Nota**: Le due famiglie Janssen belghe non sono imparentate. La famiglia Janssen-Solvay (Emmanuel) e' legata a banking/chimica via matrimoni. La famiglia Janssen di Paul e' la dinastia farmaceutica fondatrice di Janssen Pharmaceutica.
 
 ### Altre Dinastie
 
@@ -478,7 +493,8 @@ La piu' importante holding belga della storia.
 | **[AB InBev](../docs/company/ab-inbev.md)** | Birra | €180B | Van Damme/de Spoelberch/de Mevius + 3G Capital | [Completa](../docs/company/ab-inbev.md) |
 | **[Solvay](../docs/company/solvay.md)** | Chimica | €2.2B | Famiglia Solvay via [Solvac](../docs/company/solvac.md) | [Completa](../docs/company/solvay.md) |
 | **[Syensqo](../docs/company/syensqo.md)** | Specialty Chemicals | €9.5B | Famiglia Solvay via Solvac | Stub |
-| **UCB** | Pharma | €15B | Famiglia Janssen | - |
+| **UCB** | Pharma | €15B | Famiglia Janssen-Solvay | - |
+| **[Janssen Pharmaceutica](../docs/pharma/janssen-pharmaceutica.md)** | Pharma | €22.5B rev | [Famiglia Janssen](../docs/family/janssen.md) → [J&J](../docs/pharma/johnson-johnson.md) | [Completa](../docs/pharma/janssen-pharmaceutica.md) |
 | **[Umicore](../docs/company/umicore.md)** | Materiali/Batterie | €8B | Public, Chair [Thomas Leysen](../docs/persons/thomas-leysen.md) | [Completa](../docs/company/umicore.md) |
 | **[KBC](../docs/bank/kbc.md)** | Banca/Assicurazioni | €30B | Cera/KBC Ancora/MRBB (coop) | [Completa](../docs/bank/kbc.md) |
 | **Ageas** | Assicurazioni | €10B | Public (ex-Fortis) | - |
@@ -735,18 +751,21 @@ Le tre grandi famiglie industriali belghe sono interconnesse da matrimoni strate
 | **Company** | **solvay** | **[Completa](../docs/company/solvay.md)** |
 | **Company** | **ab-inbev** | **[Completa](../docs/company/ab-inbev.md)** |
 | **Company** | **umicore** | **[Completa](../docs/company/umicore.md)** |
+| **Family** | **de-spoelberch** | **[Completa](../docs/family/de-spoelberch.md)** |
+| **Family** | **janssen** | **[Completa](../docs/family/janssen.md)** |
+| **Pharma** | **janssen-pharmaceutica** | **[Completa](../docs/pharma/janssen-pharmaceutica.md)** |
 
 ### Stub (in Neo4j, scheda da completare)
 
 | Tipo | ID | Note |
 |------|-----|------|
-| Family | janssen-belgium | Triangolo dinastico |
+| Family | janssen-belgium | Triangolo dinastico (Janssen-Solvay) |
 | Family | van-damme | AB InBev |
-| Family | de-spoelberch | AB InBev |
 | Family | de-mevius | AB InBev |
 | Company | solvac | Holding familiare Solvay |
 | Company | syensqo | Spin-off Solvay 2023 |
-| Company | verlinvest | Investment de Spoelberch/de Mevius |
+| PrivateEquity | verlinvest | Investment de Spoelberch/de Mevius |
+| PrivateEquity | cobepa | de Spoelberch + altre famiglie, €5B AUM |
 | PrivateEquity | 3g-capital | Partner brasiliano AB InBev |
 | Media | mediahuis | Thomas Leysen Chairman |
 | Company | usines-gustave-boel | Storica, defunct |
@@ -762,6 +781,10 @@ Le tre grandi famiglie industriali belghe sono interconnesse da matrimoni strate
 | Person | alfred-solvay | Co-fondatore |
 | Person | jean-marie-solvay | Chairman Solvac |
 | Person | emmanuel-janssen | Connessione Janssen-Solvay |
+| Person | constant-janssen | Fondatore Janssen Pharma |
+| Person | paul-janssen | Barone, inventore 80+ farmaci |
+| Person | dora-janssen | Baronessa, moglie Paul |
+| Person | ludwig-criel | Genero, gestore patrimonio Janssen |
 | Person | johan-thijs | CEO KBC |
 | Person | koenraad-debackere | Chair KBC, Board Umicore |
 | Person | philippe-kehren | CEO Solvay 2023- |
@@ -771,7 +794,10 @@ Le tre grandi famiglie industriali belghe sono interconnesse da matrimoni strate
 | Person | martin-barrington | Chairman AB InBev |
 | Person | jorge-paulo-lemann | 3G Capital founder |
 | Person | alexandre-van-damme | Board AB InBev |
-| Person | gregoire-de-spoelberch | Board AB InBev |
+| Person | gregoire-de-spoelberch | Board AB InBev, Verlinvest, Cobepa |
+| Person | philippe-de-spoelberch | Visconte, dendrologo, ex-Board InBev |
+| Person | olivier-de-spoelberch | Board Verlinvest |
+| Person | caroline-de-spoelberch | Board Cobepa |
 | Person | frederic-de-mevius | CEO Verlinvest |
 | Person | bart-sap | CEO Umicore |
 | Person | marc-grynberg | Ex-CEO Umicore |
@@ -786,6 +812,7 @@ Le tre grandi famiglie industriali belghe sono interconnesse da matrimoni strate
 | Person | aurelio-peccei | Club of Rome founder |
 | Person | alexander-king | Club of Rome co-founder |
 | Agency | bfta | Belgian Foreign Trade Agency |
+| Foundation | inbev-baillet-latour-fund | Filantropia de Spoelberch |
 
 ### Da Aggiungere
 
@@ -799,7 +826,7 @@ Le tre grandi famiglie industriali belghe sono interconnesse da matrimoni strate
 | ThinkTank | bruegel | Bassa |
 | Person | albert-frere | Media (deceased 2018) |
 
-> **Nota**: Triangolo dinastico Boel-Solvay-Janssen documentato. Famiglie AB InBev (Van Damme, de Spoelberch, de Mevius) ora in Neo4j come stub. Thomas Leysen emerge come figura connettrice centrale (Umicore, KBC, Bilderberg Steering, Trilateral, ERT).
+> **Nota**: Triangolo dinastico Boel-Solvay-Janssen(Solvay) documentato. Famiglie AB InBev: de Spoelberch completa, Van Damme e de Mevius stub. Famiglia Janssen pharma (Paul Janssen) ora completa con Janssen Pharmaceutica. Due famiglie Janssen belghe distinte: Janssen-Solvay (banking/chimica) e Janssen pharma (Paul, fentanyl). Thomas Leysen emerge come figura connettrice centrale (Umicore, KBC, Bilderberg Steering, Trilateral, ERT).
 
 ---
 

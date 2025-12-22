@@ -6,9 +6,9 @@ Mappa del Potere - Belgio
   |-------------------|---------------------|--------------------------------------------------------------|
   | [v] Saxe-Coburg-Gotha | Monarchia           | Casa reale belga, connessioni con tutte le monarchie europee |
   | [v] Solvay            | Chimica/Finanza     | Fondatori Solvay SA, conferenze Solvay                       |
-  | de Spoelberch     | Birra/Investimenti  | Azionisti AB InBev                                           |
-  | de Mévius         | Birra               | Azionisti AB InBev                                           |
-  | Janssen           | Pharma              | Fondatori Janssen Pharmaceutica (J&J)                        |
+  | [v] de Spoelberch     | Birra/Investimenti  | Azionisti AB InBev                                           |
+  | [] de Mévius         | Birra               | Azionisti AB InBev                                           |
+  | [v] Janssen           | Pharma              | Fondatori Janssen Pharmaceutica (J&J)                        |
   | [v] Boël              | Acciaio/Finanza     | Sofina, storicamente legati alla corona                      |
   | Lippens           | Finanza             | Fortis, Ageas                                                |
   | Davignon          | Diplomazia/Business | Etienne Davignon - Bilderberg chairman                       |

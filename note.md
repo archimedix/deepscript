@@ -5,7 +5,6 @@ Bank for International Settlements (BIS)
 
 SudaFrica
 Norvegia
-Svizzera
 categoria Banche
 categoria intelligence
 categoria Aerospace
@@ -15,6 +14,7 @@ Brasile: lula, bolsonaro
 India, Tata
 unthinkable di churchill, alan bruc, 
 
+Bretton Woods Committee
 World Bank
 Israel General Bank
 sartre,  macussen : indipendenza degli stati 

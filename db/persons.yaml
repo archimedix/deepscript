@@ -76,6 +76,10 @@ persons:
     born: 1906
     died: 1962
     nationality: DEU
+  adolphe-de-spoelberch:
+    born: 1839
+    died: 1913
+    nationality: BEL
   adrienne-arsht:
     nationality: USA
     affiliations:
@@ -98,6 +102,14 @@ persons:
       role: executive
       from: 1986
       note: Vice Chairman Insurance Operations dal 2018
+  akiko-iwasaki:
+    born: 1970
+    nationality: JPN-USA
+    affiliations:
+    - org: roche
+      role: board
+      from: 2022
+      note: Board member, Yale Sterling Professor
   akio-toyoda:
     born: 1956
     nationality: JPN
@@ -496,6 +508,9 @@ persons:
     born: 1919
     died: 2007
     nationality: FRA
+  andre-de-spoelberch:
+    died: 2017
+    nationality: BEL
   andre-hoffmann:
     born: 1958
     nationality: CHE
@@ -653,6 +668,14 @@ persons:
       role: leader
       from: 2005
       to: 2021
+  anita-hauser:
+    born: 1969
+    nationality: CHE
+    affiliations:
+    - org: roche
+      role: board
+      from: 2017
+      note: Board member, Remuneration Committee
   anna-diamantopoulou:
     born: 1959
     nationality: GRC
@@ -1628,6 +1651,11 @@ persons:
       from: 2014
       to: 2021
       note: 'Turnaround: saved PSA from bankruptcy, acquired Opel 2017'
+  caroline-de-spoelberch:
+    nationality: BEL
+    affiliations:
+    - org: cobepa
+      role: board
   carsten-spohr:
     born: 1966
     nationality: DEU
@@ -2066,6 +2094,28 @@ persons:
     - person: henri-de-castries
       type: mentor
       note: Bébéar groomed de Castries as successor at AXA and Institut Montaigne
+  claude-dauphin:
+    born: 1951
+    died: 2015
+    nationality: FRA
+    affiliations:
+    - org: trafigura
+      role: founder
+      from: 1993
+      to: 2015
+      note: Co-founder, Executive Chairman until death
+    relations:
+    - person: marc-rich
+      type: colleague
+      note: Worked at Marc Rich + Co before founding Trafigura
+  claudia-suessmuth-dyckerhoff:
+    nationality: DEU
+    affiliations:
+    - org: roche
+      role: board
+      from: 2016
+      to: 2025
+      note: Board member 2016-2025, ex-McKinsey
   cofer-black:
     born: 1950
     nationality: USA
@@ -2089,6 +2139,25 @@ persons:
       role: board
       from: 2017
       note: Security and Strategic Development
+  colm-kelleher:
+    born: 1957
+    nationality: IRL
+    affiliations:
+    - org: morgan-stanley
+      role: executive
+      from: 1989
+      to: 2019
+      note: President 2016-2019, CFO 2007-2009
+    - org: ubs
+      role: chairman
+      from: 2022
+      note: Chairman Board of Directors
+    - org: bretton-woods-committee
+      role: board
+      note: Board member
+    - org: bank-policy-institute
+      role: board
+      note: Board member
   condoleezza-rice:
     born: 1954
     nationality: USA
@@ -2120,6 +2189,15 @@ persons:
       role: founder
       from: 1994
       note: Founder, Chairperson
+  constant-janssen:
+    born: 1895
+    died: 1970
+    nationality: BEL
+    affiliations:
+    - org: janssen-pharmaceutica
+      role: founder
+      from: 1933
+      to: 1970
   cyrille-bollore:
     born: 1986
     nationality: FRA
@@ -2601,6 +2679,8 @@ persons:
     - person: kostas-bakoyannis
       type: parent
       note: mother
+  dora-janssen:
+    nationality: BEL
   doug-hart:
     nationality: USA
     affiliations:
@@ -3852,6 +3932,15 @@ persons:
       role: board
       from: 2025
       note: Lead Independent Director
+  gary-nagle:
+    born: 1975
+    nationality: ZAF
+    note: Wits University. Soprannome Mini-Ivan
+    affiliations:
+    - org: glencore
+      role: executive
+      from: 2000
+      note: CEO dal 2021
   gaston-eyskens:
     born: 1905
     died: 1988
@@ -4302,11 +4391,21 @@ persons:
       to: 2025
       note: CEO e Commissioner
   gregoire-de-spoelberch:
+    born: 1966
     nationality: BEL
     affiliations:
     - org: ab-inbev
       role: board
-      note: Representative main shareholders
+      from: 2007
+      note: Representative of main shareholders
+    - org: verlinvest
+      role: board
+    - org: cobepa
+      role: board
+      note: via Cobehold
+    - org: inbev-baillet-latour-fund
+      role: board
+      note: Administrator
   gro-harlem-brundtland:
     born: 1939
     nationality: NOR
@@ -4343,6 +4442,10 @@ persons:
       role: minister
       from: 1989
       to: 1992
+  guillaume-de-spoelberch:
+    born: 1874
+    died: 1947
+    nationality: BEL
   guillaume-faury:
     born: 1968
     nationality: FRA
@@ -4976,6 +5079,15 @@ persons:
     - person: otto-skorzeny
       type: handler
       note: Recluto Skorzeny per Mossad
+  ivan-glasenberg:
+    born: 1957
+    nationality: ZAF
+    note: Anche cittadino AUS e CHE (2011). Wits University
+    affiliations:
+    - org: glencore
+      role: executive
+      from: 1984
+      note: CEO 2002-2021. Maggiore azionista 2025
   ivanka-trump:
     born: 1981
     nationality: USA
@@ -5605,6 +5717,50 @@ persons:
     - org: washington-post
       role: owner
       from: 2013
+  jemilah-mahmood:
+    born: 1959
+    nationality: MYS
+    note: Tan Sri. Founder MERCY Malaysia, ex-IFRC, ex-UN
+    affiliations:
+    - org: wef
+      role: member
+      note: Global Future Council
+    - org: onu
+      role: executive
+      from: 2014
+      to: 2016
+      note: Chief World Humanitarian Summit Secretariat, OCHA
+    - org: roche
+      role: board
+      from: 2022
+      note: Board member, founder MERCY Malaysia
+    - org: atlantic-council
+      role: member
+      from: 2020
+      note: Senior Fellow, Adrienne Arsht-Rockefeller Foundation Resilience Center
+    - org: mercy-malaysia
+      role: founder
+      from: 1999
+      to: 2009
+      note: Founder and President
+    - org: ifrc
+      role: executive
+      from: 2016
+      to: 2020
+      note: Under-Secretary General for Partnerships
+    - org: oxfam
+      role: chairman
+      from: 2018
+      to: 2021
+      note: First Independent Chair
+    - org: epf-malaysia
+      role: board
+      note: Board member
+    - org: governo-malaysia
+      role: advisor
+      from: 2020
+      to: 2021
+      note: Special Advisor to PM on Public Health
   jens-spahn:
     born: 1980
     nationality: DEU
@@ -5654,6 +5810,19 @@ persons:
       from: 2011
       to: 2021
       note: President
+  jeremy-weir:
+    born: 1964
+    nationality: AUS
+    affiliations:
+    - org: trafigura
+      role: chairman
+      from: 2001
+      note: CEO 2014-2024, Chairman dal 2025
+    - org: nm-rothschild
+      role: executive
+      from: 1992
+      to: 2000
+      note: Commodity trading, metals derivatives
   jeroen-van-der-veer:
     born: 1947
     nationality: NLD
@@ -5846,6 +6015,14 @@ persons:
       from: 2013
       to: 2021
       note: CEO
+  joerg-duschmale:
+    born: 1985
+    nationality: CHE
+    affiliations:
+    - org: roche
+      role: board
+      from: 2020
+      note: Board member, 5th gen Hoffmann-Oeri family
   joerg-reinhardt:
     born: 1956
     nationality: DEU
@@ -6491,6 +6668,13 @@ persons:
       role: leader
       from: 2024
       note: Alto Rappresentante Affari Esteri e Politica di Sicurezza
+  kalidas-madhavpeddi:
+    nationality: USA
+    note: Chairman Glencore
+    affiliations:
+    - org: glencore
+      role: chairman
+      from: 2021
   karl-ludwig-kley:
     born: 1951
     nationality: DEU
@@ -7492,6 +7676,8 @@ persons:
       from: 1994
       to: 2002
       note: Governor
+  ludwig-criel:
+    nationality: BEL
   luhut-pandjaitan:
     born: 1947
     nationality: IDN
@@ -7713,6 +7899,26 @@ persons:
       role: chairman
       from: 2023
       note: Chairman Supervisory Board
+  marc-rich:
+    born: 1934
+    died: 2013
+    nationality: USA
+    note: Nato Belgio. Fuggitivo FBI, graziato Clinton 2001
+    affiliations:
+    - org: glencore
+      role: founder
+      from: 1974
+      to: 1994
+      note: Fondò come Marc Rich + Co AG
+    - org: philipp-brothers
+      role: executive
+      from: 1954
+      to: 1974
+      note: Top oil trader, left to found Marc Rich + Co
+    relations:
+    - person: pincus-green
+      type: partner
+      note: Partners from Philipp Brothers, co-founders Marc Rich + Co
   marc-rowan:
     born: 1962
     nationality: USA
@@ -8034,6 +8240,38 @@ persons:
       from: 1988
       to: 1992
       note: MA History
+  mark-schneider:
+    born: 1965
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: board
+      note: Board of Trustees, International Business Council
+    - org: dupont
+      role: board
+      from: 2014
+      to: 2017
+      note: Non-executive Director
+    - org: siemens
+      role: board
+      from: 2025
+      note: Supervisory Board member
+    - org: roche
+      role: board
+      note: Board of Directors
+    - org: nestle
+      role: executive
+      from: 2017
+      to: 2024
+      note: CEO, primo outsider dal 1922
+    - org: european-round-table
+      role: member
+      note: Member (as Nestlé CEO)
+    - org: fresenius
+      role: executive
+      from: 2003
+      to: 2016
+      note: CEO, CFO Fresenius Medical Care 2001-2003
   mark-suzman:
     born: 1969
     nationality: ZAF
@@ -8411,6 +8649,14 @@ persons:
       role: founder
       from: 1995
       note: Co-Founder, Managing Director
+  mike-wainwright:
+    nationality: GBR
+    affiliations:
+    - org: trafigura
+      role: executive
+      from: 2000
+      to: 2020
+      note: COO, condannato corruzione Angola 2025
   mikhail-gorbachev:
     born: 1931
     died: 2022
@@ -9154,6 +9400,11 @@ persons:
       from: 1988
       to: 2021
       note: Deputato UMP/LR
+  olivier-de-spoelberch:
+    nationality: BEL
+    affiliations:
+    - org: verlinvest
+      role: board
   omri-lavie:
     nationality: ISR
     note: NSO Group co-founder, Unit 8200 veteran
@@ -9193,6 +9444,19 @@ persons:
       role: founder
       from: 2008
       note: Co-founder, CMO
+  pablo-isla:
+    born: 1964
+    nationality: ESP
+    affiliations:
+    - org: nestle
+      role: chairman
+      from: 2025
+      note: Chairman Board of Directors, board member dal 2018
+    - org: inditex
+      role: executive
+      from: 2005
+      to: 2022
+      note: CEO 2005-2011, Chairman & CEO 2011-2022
   paetongtarn-shinawatra:
     born: 1986
     nationality: THA
@@ -9285,6 +9549,19 @@ persons:
       role: executive
       from: 2021
       note: President GoTo Group
+  patrick-frost:
+    born: 1968
+    nationality: CHE
+    affiliations:
+    - org: roche
+      role: board
+      from: 2020
+      note: Board member
+    - org: swiss-life
+      role: executive
+      from: 2014
+      to: 2024
+      note: CEO 2014-2024
   patrick-soon-shiong:
     born: 1952
     nationality: USA
@@ -9334,6 +9611,15 @@ persons:
     affiliations:
     - org: kissinger-associates
       role: advisor
+  paul-bulcke:
+    born: 1954
+    nationality: BEL
+    affiliations:
+    - org: nestle
+      role: chairman
+      from: 2008
+      to: 2025
+      note: CEO 2008-2017, Chairman 2017-2025, 50 anni in Nestlé
   paul-dubrule:
     born: 1934
     nationality: FRA
@@ -9350,6 +9636,21 @@ persons:
     - org: unione-europea
       role: founder
       note: Organizzatore Conferenza Messina 1955, Trattati di Roma
+  paul-janssen:
+    born: 1926
+    died: 2003
+    nationality: BEL
+    affiliations:
+    - org: johnson-johnson
+      role: executive
+      from: 1961
+      to: 2003
+      note: After J&J acquisition
+    - org: janssen-pharmaceutica
+      role: founder
+      from: 1953
+      to: 2003
+      note: Chief Scientific Officer
   paul-nakasone:
     born: 1963
     nationality: USA
@@ -9723,6 +10024,18 @@ persons:
       role: chairman
       from: 1993
       note: Honorary President, 85+ economic missions
+  philippe-de-spoelberch:
+    born: 1941
+    nationality: BEL
+    affiliations:
+    - org: ab-inbev
+      role: board
+      note: Former board member
+    - org: verlinvest
+      role: board
+    - org: inbev-baillet-latour-fund
+      role: board
+      note: Administrator
   philippe-kehren:
     born: 1971
     nationality: FRA
@@ -9848,6 +10161,21 @@ persons:
     - person: jean-monnet
       type: colleague
       note: Collaboratori stretti in Action Committee USE
+  pincus-green:
+    born: 1936
+    nationality: USA
+    note: Co-fondatore Marc Rich + Co, graziato Clinton 2001
+    affiliations:
+    - org: glencore
+      role: founder
+      from: 1974
+      to: 1994
+      note: Co-fondatore come Marc Rich + Co AG
+    - org: philipp-brothers
+      role: executive
+      from: 1953
+      to: 1974
+      note: Top trader, Zug office
   pio-perrone:
     born: 1875
     died: 1952
@@ -10332,6 +10660,31 @@ persons:
       role: member
       from: 1943
       to: 1945
+  richard-holtum:
+    born: 1985
+    nationality: GBR
+    affiliations:
+    - org: glencore
+      role: executive
+      from: 2012
+      to: 2014
+      note: Crude oil desk
+    - org: trafigura
+      role: executive
+      from: 2014
+      note: CEO dal 2025, ex-British Army
+  richard-lifton:
+    born: 1953
+    nationality: USA
+    affiliations:
+    - org: roche
+      role: board
+      from: 2016
+      note: Board member, President Rockefeller University
+    - org: rockefeller-university
+      role: executive
+      from: 2016
+      note: President
   richard-nixon:
     born: 1913
     died: 1994
@@ -11043,6 +11396,42 @@ persons:
     - org: stanford-university
       role: member
       note: MS Computer Science 1995 (PhD dropout - founded Google)
+  sergio-ermotti:
+    born: 1960
+    nationality: CHE
+    note: Ticinese, Lugano. Oxford AMP. Tifoso FC Lugano e AC Milan
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2022
+      note: Partecipante 2022 come Chairman Swiss Re
+    - org: wef
+      role: member
+      note: International Business Council, Governor Financial Services
+    - org: bank-of-america
+      role: executive
+      from: 1987
+      to: 2004
+      note: 'Merrill Lynch: Head Global Equity Markets, Executive Committee'
+    - org: swiss-re
+      role: chairman
+      from: 2021
+      to: 2023
+      note: Chairman Board of Directors
+    - org: ubs
+      role: executive
+      from: 2011
+      to: 2020
+      note: Group CEO (primo mandato)
+    - org: ubs
+      role: executive
+      from: 2023
+      note: Group CEO (secondo mandato, post-acquisizione Credit Suisse)
+    - org: unicredit
+      role: executive
+      from: 2005
+      to: 2010
+      note: Deputy CEO 2007-2010, Head Markets & Investment Banking
   seth-berkley:
     born: 1956
     nationality: USA
@@ -11052,6 +11441,14 @@ persons:
       from: 2011
       to: 2023
       note: CEO
+  severin-schwan:
+    born: 1967
+    nationality: AUT
+    affiliations:
+    - org: roche
+      role: chairman
+      from: 2023
+      note: Chairman (ex-CEO 2008-2023)
   shalev-hulio:
     nationality: ISR
     note: NSO Group co-founder, Unit 8200 veteran
@@ -11470,6 +11867,14 @@ persons:
       role: founder
       from: 1976
       to: 1985
+  steven-kalmin:
+    nationality: AUS
+    note: CFO Glencore dal 2005
+    affiliations:
+    - org: glencore
+      role: executive
+      from: 2005
+      note: CFO
   steven-van-rijswijk:
     nationality: NLD
     affiliations:
@@ -12316,6 +12721,10 @@ persons:
       role: board
       from: 1974
       to: 2011
+  werner-de-spoelberch:
+    born: 1902
+    died: 1987
+    nationality: BEL
   werner-hoyer:
     born: 1951
     nationality: DEU

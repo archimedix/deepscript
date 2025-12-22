@@ -45,10 +45,14 @@ organizations:
       note: Representative main shareholders
     - person: gregoire-de-spoelberch
       role: board
-      note: Representative main shareholders
+      from: 2007
+      note: Representative of main shareholders
     - person: martin-barrington
       role: chairman
       from: 2024
+    - person: philippe-de-spoelberch
+      role: board
+      note: Former board member
   abb:
     name: ABB Ltd
     type: company
@@ -1059,7 +1063,7 @@ organizations:
     name: Atlantic Council
     type: thinktank
     founded: 1961
-    headquarters: Washington, DC, USA
+    headquarters: Washington DC, USA
     status: active
     stakeholders:
     - person: brent-scowcroft
@@ -1122,6 +1126,10 @@ organizations:
     - person: theodore-kyriakou
       role: advisor
       note: International Advisory Board
+    - person: jemilah-mahmood
+      role: member
+      from: 2020
+      note: Senior Fellow, Adrienne Arsht-Rockefeller Foundation Resilience Center
     - org: goldman-sachs
       role: donor
       note: Corporate donor - Finance sector
@@ -1468,6 +1476,11 @@ organizations:
       role: advisor
       from: 2015
       note: during-cooling-off
+    - person: sergio-ermotti
+      role: executive
+      from: 1987
+      to: 2004
+      note: 'Merrill Lynch: Head Global Equity Markets, Executive Committee'
     - org: blackrock
       role: stake
       share: 0.07
@@ -1544,6 +1557,16 @@ organizations:
       from: 2008
       to: 2014
       note: Governor
+  bank-policy-institute:
+    name: Bank Policy Institute
+    type: thinktank
+    founded: 2018
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: colm-kelleher
+      role: board
+      note: Board member
   banque-de-france:
     name: Banque de France
     type: centralbank
@@ -2283,6 +2306,10 @@ organizations:
       role: member
       from: 1992
       note: Partecipante 1992, 1993, 1996, 2007-2009, 2012
+    - person: sergio-ermotti
+      role: member
+      from: 2022
+      note: Partecipante 2022 come Chairman Swiss Re
     - org: trilaterale
       role: partner
   biontech:
@@ -2826,6 +2853,16 @@ organizations:
     - person: nicky-oppenheimer
       role: founder
       from: 2005
+  bretton-woods-committee:
+    name: Bretton Woods Committee
+    type: thinktank
+    founded: 1983
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: colm-kelleher
+      role: board
+      note: Board member
   bri:
     name: Belt and Road Initiative
     type: agency
@@ -3911,6 +3948,19 @@ organizations:
     - org: warner-bros-discovery
       share: 100%
       from: 2022
+  cobepa:
+    name: Cobepa
+    type: privateequity
+    founded: 1957
+    headquarters: Brussels, Belgium
+    status: active
+    aum: 5 billion EUR
+    stakeholders:
+    - person: gregoire-de-spoelberch
+      role: board
+      note: via Cobehold
+    - person: caroline-de-spoelberch
+      role: board
   coca-cola:
     name: Coca-Cola
     type: company
@@ -4297,6 +4347,11 @@ organizations:
       from: 1996
       to: 1998
       note: Private banker
+    - org: ubs
+      role: acquirer
+      share: 100%
+      from: 2023
+      note: Acquisizione emergenza marzo 2023, CHF 3 miliardi
   crossword-cybersecurity:
     type: company
     headquarters: London, UK
@@ -4441,6 +4496,10 @@ organizations:
     - person: dan-gertler
       role: founder
       from: 1996
+    - org: glencore
+      role: partner
+      from: 2008
+      note: DRC copper/cobalt. Scandalo corruzione 2024
   dassault-aviation:
     name: Dassault Aviation
     type: company
@@ -4919,6 +4978,11 @@ organizations:
       role: chairman
       from: 1915
       to: 1919
+    - person: mark-schneider
+      role: board
+      from: 2014
+      to: 2017
+      note: Non-executive Director
   dwimuria-investama:
     name: PT Dwimuria Investama Andalan
     type: company
@@ -5282,6 +5346,17 @@ organizations:
       role: board
       from: 2000
       note: Supervisory Board
+  epf-malaysia:
+    name: Employees Provident Fund (KWSP)
+    type: swf
+    founded: 1951
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    note: Malaysian pension fund, ~$250B AUM
+    stakeholders:
+    - person: jemilah-mahmood
+      role: board
+      note: Board member
   eqt:
     name: EQT AB
     type: privateequity
@@ -5556,6 +5631,9 @@ organizations:
     - person: gianfelice-rocca
       role: member
       note: Chairman Techint Group
+    - person: mark-schneider
+      role: member
+      note: Member (as Nestlé CEO)
   exim-bank-china:
     name: Export-Import Bank of China
     type: bank
@@ -6215,6 +6293,19 @@ organizations:
       role: ygl
       from: 2012
       note: Young Leader 2012, Fields Medal, Depute
+  fresenius:
+    name: Fresenius SE & Co. KGaA
+    type: company
+    founded: 1912
+    headquarters: Bad Homburg, Germany
+    status: active
+    sector: healthcare
+    stakeholders:
+    - person: mark-schneider
+      role: executive
+      from: 2003
+      to: 2016
+      note: CEO, CFO Fresenius Medical Care 2001-2003
   fsb:
     name: Financial Stability Board
     type: agency
@@ -6618,6 +6709,50 @@ organizations:
     - person: warren-buffett
       role: founder
       from: 2010
+  glencore:
+    name: Glencore plc
+    type: company
+    founded: 1974
+    headquarters: Baar, Switzerland
+    status: active
+    sector: commodities, mining
+    note: Ex Marc Rich + Co AG. IPO 2011. Merger Xstrata 2013.
+    stakeholders:
+    - person: marc-rich
+      role: founder
+      from: 1974
+      to: 1994
+      note: Fondò come Marc Rich + Co AG
+    - person: ivan-glasenberg
+      role: executive
+      from: 1984
+      note: CEO 2002-2021. Maggiore azionista 2025
+    - person: gary-nagle
+      role: executive
+      from: 2000
+      note: CEO dal 2021
+    - person: steven-kalmin
+      role: executive
+      from: 2005
+      note: CFO
+    - person: kalidas-madhavpeddi
+      role: chairman
+      from: 2021
+    - person: richard-holtum
+      role: executive
+      from: 2012
+      to: 2014
+      note: Crude oil desk
+    - person: pincus-green
+      role: founder
+      from: 1974
+      to: 1994
+      note: Co-fondatore come Marc Rich + Co AG
+    - org: qia
+      role: shareholder
+      from: 2012
+      to: 2022
+      note: Kingmaker merger Xstrata. Venduto 2022
   global-fund:
     name: Global Fund
     type: agency
@@ -7881,6 +8016,17 @@ organizations:
       from: 2013
       to: 2022
       note: Min. Finanze
+  governo-malaysia:
+    name: Government of Malaysia
+    type: government
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    stakeholders:
+    - person: jemilah-mahmood
+      role: advisor
+      from: 2020
+      to: 2021
+      note: Special Advisor to PM on Public Health
   governo-messico:
     type: government
     headquarters: Mexico City
@@ -9135,6 +9281,18 @@ organizations:
       from: 1948
       to: 1968
       note: Chief of Staff 1964-68
+  ifrc:
+    name: International Federation of Red Cross and Red Crescent Societies
+    type: agency
+    founded: 1919
+    headquarters: Geneva, Switzerland
+    status: active
+    stakeholders:
+    - person: jemilah-mahmood
+      role: executive
+      from: 2016
+      to: 2020
+      note: Under-Secretary General for Partnerships
   ifswf:
     name: International Forum of Sovereign Wealth Funds
     type: forum
@@ -9315,6 +9473,31 @@ organizations:
       role: board
       from: 2021
       note: Supervisory Board Co-Chair
+  inbev-baillet-latour-fund:
+    name: InBev-Baillet Latour Fund
+    type: foundation
+    headquarters: Belgium
+    status: active
+    stakeholders:
+    - person: gregoire-de-spoelberch
+      role: board
+      note: Administrator
+    - person: philippe-de-spoelberch
+      role: board
+      note: Administrator
+  inditex:
+    name: Inditex
+    type: company
+    founded: 1985
+    headquarters: Arteixo, Spain
+    status: active
+    sector: fashion
+    stakeholders:
+    - person: pablo-isla
+      role: executive
+      from: 2005
+      to: 2022
+      note: CEO 2005-2011, Chairman & CEO 2011-2022
   indofood:
     name: Indofood Sukses Makmur
     type: company
@@ -9659,6 +9842,28 @@ organizations:
       share: 100%
       from: 2008
       note: $2.3B from Ford
+  janssen-pharmaceutica:
+    name: Janssen Pharmaceutica
+    type: pharma
+    founded: 1953
+    headquarters: Beerse, Belgium
+    status: active
+    sector: pharmaceuticals
+    stakeholders:
+    - person: constant-janssen
+      role: founder
+      from: 1933
+      to: 1970
+    - person: paul-janssen
+      role: founder
+      from: 1953
+      to: 2003
+      note: Chief Scientific Officer
+    - org: johnson-johnson
+      role: owner
+      share: 100%
+      from: 1961
+      note: Acquired 1961
   jardine-cycle-carriage:
     name: Jardine Cycle & Carriage Limited
     type: company
@@ -9807,6 +10012,11 @@ organizations:
       role: board
       from: 2013
       note: Ex-FDA Commissioner
+    - person: paul-janssen
+      role: executive
+      from: 1961
+      to: 2003
+      note: After J&J acquisition
   joongang-group:
     name: JoongAng Group
     type: media
@@ -11003,6 +11213,19 @@ organizations:
     - person: kathy-warden
       role: board
       from: 2020
+  mercy-malaysia:
+    name: MERCY Malaysia
+    type: foundation
+    founded: 1999
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    note: Medical humanitarian NGO
+    stakeholders:
+    - person: jemilah-mahmood
+      role: founder
+      from: 1999
+      to: 2009
+      note: Founder and President
   meta:
     name: Meta Platforms (Facebook, Instagram)
     type: media
@@ -11343,6 +11566,11 @@ organizations:
       role: board
       from: 2013
       note: Lead Director since 2017
+    - person: colm-kelleher
+      role: executive
+      from: 1989
+      to: 2019
+      note: President 2016-2019, CFO 2007-2009
     - org: norges-bank-gpfg
       role: stake
     - org: cfr
@@ -11611,14 +11839,30 @@ organizations:
       share: 64.71%
       from: 2022
   nestle:
-    name: Nestlé
+    name: Nestlé S.A.
     type: company
+    founded: 1866
     headquarters: Vevey, Switzerland
     status: active
+    sector: food
     stakeholders:
     - person: henri-de-castries
       role: board
       note: Vice Chairman
+    - person: pablo-isla
+      role: chairman
+      from: 2025
+      note: Chairman Board of Directors, board member dal 2018
+    - person: mark-schneider
+      role: executive
+      from: 2017
+      to: 2024
+      note: CEO, primo outsider dal 1922
+    - person: paul-bulcke
+      role: chairman
+      from: 2008
+      to: 2025
+      note: CEO 2008-2017, Chairman 2017-2025, 50 anni in Nestlé
   netflix:
     name: Netflix
     type: media
@@ -11828,6 +12072,19 @@ organizations:
       share: 15%
       from: 1999
       note: Originally 43.4%, reduced to 15% in 2023 rebalancing
+  nm-rothschild:
+    name: N M Rothschild & Sons
+    type: bank
+    founded: 1811
+    headquarters: London, UK
+    status: active
+    note: Investment bank, famiglia Rothschild
+    stakeholders:
+    - person: jeremy-weir
+      role: executive
+      from: 1992
+      to: 2000
+      note: Commodity trading, metals derivatives
   nobel-foundation:
     name: Nobel Foundation
     type: foundation
@@ -12149,6 +12406,11 @@ organizations:
     - person: jens-stoltenberg
       role: advisor
       note: UN Special Envoy on Climate Change
+    - person: jemilah-mahmood
+      role: executive
+      from: 2014
+      to: 2016
+      note: Chief World Humanitarian Summit Secretariat, OCHA
     - org: wef
       role: partner
   opec:
@@ -12349,6 +12611,18 @@ organizations:
       from: 1945
       to: 1945
       note: Operation Sunrise negotiator, traded surrender for immunity
+  oxfam:
+    name: Oxfam International
+    type: foundation
+    founded: 1942
+    headquarters: Nairobi, Kenya
+    status: active
+    stakeholders:
+    - person: jemilah-mahmood
+      role: chairman
+      from: 2018
+      to: 2021
+      note: First Independent Chair
   p2:
     name: Propaganda Due (P2)
     type: forum
@@ -12631,6 +12905,25 @@ organizations:
     - person: srettha-thavisin
       role: member
       from: 2022
+  philipp-brothers:
+    name: Philipp Brothers (Phibro)
+    type: company
+    founded: 1901
+    headquarters: New York, USA
+    status: active
+    sector: commodities
+    note: 'Vivaio di commodity traders: Marc Rich, Pincus Green'
+    stakeholders:
+    - person: marc-rich
+      role: executive
+      from: 1954
+      to: 1974
+      note: Top oil trader, left to found Marc Rich + Co
+    - person: pincus-green
+      role: executive
+      from: 1953
+      to: 1974
+      note: Top trader, Zug office
   philips:
     name: Koninklijke Philips N.V.
     type: company
@@ -13295,6 +13588,42 @@ organizations:
       role: chairman
       from: 2006
       note: Vice-Chairman, Board since 1996
+    - person: mark-schneider
+      role: board
+      note: Board of Directors
+    - person: severin-schwan
+      role: chairman
+      from: 2023
+      note: Chairman (ex-CEO 2008-2023)
+    - person: patrick-frost
+      role: board
+      from: 2020
+      note: Board member
+    - person: joerg-duschmale
+      role: board
+      from: 2020
+      note: Board member, 5th gen Hoffmann-Oeri family
+    - person: richard-lifton
+      role: board
+      from: 2016
+      note: Board member, President Rockefeller University
+    - person: akiko-iwasaki
+      role: board
+      from: 2022
+      note: Board member, Yale Sterling Professor
+    - person: anita-hauser
+      role: board
+      from: 2017
+      note: Board member, Remuneration Committee
+    - person: jemilah-mahmood
+      role: board
+      from: 2022
+      note: Board member, founder MERCY Malaysia
+    - person: claudia-suessmuth-dyckerhoff
+      role: board
+      from: 2016
+      to: 2025
+      note: Board member 2016-2025, ex-McKinsey
   rockefeller-foundation:
     name: Rockefeller Foundation
     type: foundation
@@ -13305,14 +13634,20 @@ organizations:
     - person: robert-mcnamara
       role: board
   rockefeller-university:
-    name: Rockefeller University
+    name: The Rockefeller University
     type: foundation
+    founded: 1901
     headquarters: New York, USA
     status: active
+    sector: research
     stakeholders:
     - person: andreas-dracopoulos
       role: board
       note: Trustee
+    - person: richard-lifton
+      role: executive
+      from: 2016
+      note: President
   rosneft:
     name: Rosneft
     type: company
@@ -14073,6 +14408,10 @@ organizations:
       role: board
       from: 2001
       note: Deputy Chairman Supervisory Board
+    - person: mark-schneider
+      role: board
+      from: 2025
+      note: Supervisory Board member
     - org: blackrock
       share: 6.2%
       note: Largest institutional shareholder
@@ -14218,6 +14557,12 @@ organizations:
     - org: comcast
       share: 100%
       from: 2018
+  snb:
+    name: Swiss National Bank
+    type: centralbank
+    founded: 1906
+    headquarters: Bern, Switzerland
+    status: active
   socialist-international:
     name: Socialist International
     type: forum
@@ -14621,6 +14966,19 @@ organizations:
     headquarters: La Hulpe, Belgium
     status: Active
     sector: Financial Infrastructure
+  swiss-life:
+    name: Swiss Life Holding AG
+    type: company
+    founded: 1857
+    headquarters: Zurich, Switzerland
+    status: active
+    sector: insurance
+    stakeholders:
+    - person: patrick-frost
+      role: executive
+      from: 2014
+      to: 2024
+      note: CEO 2014-2024
   swiss-re:
     type: company
     founded: 1863
@@ -14631,6 +14989,11 @@ organizations:
     - person: john-scarlett
       role: advisor
       note: Advisory Board
+    - person: sergio-ermotti
+      role: chairman
+      from: 2021
+      to: 2023
+      note: Chairman Board of Directors
   syensqo:
     name: Syensqo SA
     type: company
@@ -15177,6 +15540,33 @@ organizations:
       from: 2005
       to: 2017
       note: LBO consortium member, $6.6B buyout
+  trafigura:
+    name: Trafigura Group Pte. Ltd.
+    type: company
+    founded: 1993
+    headquarters: Singapore
+    status: active
+    sector: commodities, trading
+    note: Fondata da ex-Marc Rich. 2nd largest oil trader, largest private metals trader
+    stakeholders:
+    - person: claude-dauphin
+      role: founder
+      from: 1993
+      to: 2015
+      note: Co-founder, Executive Chairman until death
+    - person: jeremy-weir
+      role: chairman
+      from: 2001
+      note: CEO 2014-2024, Chairman dal 2025
+    - person: richard-holtum
+      role: executive
+      from: 2014
+      note: CEO dal 2025, ex-British Army
+    - person: mike-wainwright
+      role: executive
+      from: 2000
+      to: 2020
+      note: COO, condannato corruzione Angola 2025
   trilateral-commission:
     name: Trilateral Commission
     type: forum
@@ -15448,6 +15838,7 @@ organizations:
     headquarters: Zurich, Switzerland
     status: active
     sector: banking
+    aum: 5.7 trillion USD
     stakeholders:
     - person: bradley-birkenfeld
       role: operative
@@ -15458,6 +15849,19 @@ organizations:
       role: chairman
       from: 2012
       to: 2022
+      note: Chairman Board of Directors
+    - person: sergio-ermotti
+      role: executive
+      from: 2011
+      to: 2020
+      note: Group CEO (primo mandato)
+    - person: sergio-ermotti
+      role: executive
+      from: 2023
+      note: Group CEO (secondo mandato, post-acquisizione Credit Suisse)
+    - person: colm-kelleher
+      role: chairman
+      from: 2022
       note: Chairman Board of Directors
   uefa:
     name: UEFA - Union of European Football Associations
@@ -15512,6 +15916,18 @@ organizations:
       role: executive
       from: 2025
       note: Administrator
+  unicredit:
+    name: UniCredit
+    type: bank
+    founded: 1998
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: sergio-ermotti
+      role: executive
+      from: 2005
+      to: 2010
+      note: Deputy CEO 2007-2010, Head Markets & Investment Banking
   unilever:
     name: Unilever
     type: company
@@ -15744,16 +16160,23 @@ organizations:
       from: 2024
       note: Member Supervisory Board
   verlinvest:
-    name: Verlinvest SA
+    name: Verlinvest
     type: company
     founded: 1995
     headquarters: Brussels, Belgium
     status: active
     sector: investment
+    aum: 1.6 billion EUR
     stakeholders:
+    - person: gregoire-de-spoelberch
+      role: board
     - person: frederic-de-mevius
       role: executive
       note: CEO
+    - person: philippe-de-spoelberch
+      role: board
+    - person: olivier-de-spoelberch
+      role: board
   viacom18:
     name: Viacom18
     type: media
@@ -16367,6 +16790,15 @@ organizations:
     - person: guy-verhofstadt
       role: member
       note: Agenda Contributor
+    - person: sergio-ermotti
+      role: member
+      note: International Business Council, Governor Financial Services
+    - person: mark-schneider
+      role: board
+      note: Board of Trustees, International Business Council
+    - person: jemilah-mahmood
+      role: member
+      note: Global Future Council
     - org: bilderberg
       role: partner
     - org: fmi

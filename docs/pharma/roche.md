@@ -110,17 +110,24 @@ FRITZ HOFFMANN-LA ROCHE (1868-1920)
 | Ruolo | Nome | Dal |
 |-------|------|-----|
 | CEO | [Thomas Schinecker](../persons/thomas-schinecker.md) | 2023 |
-| Chairman | Severin Schwan | 2023 |
+| Chairman | [Severin Schwan](../persons/severin-schwan.md) | 2023 |
 | Vice-Chairman | [Andre Hoffmann](../persons/andre-hoffmann.md) | 2006 |
 
-### Board of Directors
+### Board of Directors (2025)
 
-| Nome | Background |
-|------|------------|
-| Severin Schwan | Ex-CEO Roche |
-| Andre Hoffmann | Famiglia fondatrice |
-| Julie Brown | Ex-CFO Burberry |
-| Paul Bulcke | Chairman Nestle |
+| Nome | Background | Dal |
+|------|------------|-----|
+| [Severin Schwan](../persons/severin-schwan.md) | Chairman, ex-CEO Roche 2008-2023 | 2023 |
+| [Andre Hoffmann](../persons/andre-hoffmann.md) | Vice-Chairman, famiglia fondatrice, Co-Chair WEF | 1996 |
+| [Jörg Duschmalé](../persons/joerg-duschmale.md) | 5a gen. famiglia Hoffmann-Oeri, Genentech | 2020 |
+| [Mark Schneider](../persons/mark-schneider.md) | CEO Nestlé | 2019 |
+| [Patrick Frost](../persons/patrick-frost.md) | Ex-CEO Swiss Life 2014-2024 | 2020 |
+| [Richard P. Lifton](../persons/richard-lifton.md) | President Rockefeller University, Harvard Corp. | 2016 |
+| [Akiko Iwasaki](../persons/akiko-iwasaki.md) | Yale Sterling Professor, immunologa | 2022 |
+| [Anita Hauser](../persons/anita-hauser.md) | Deputy Chairman Bucher Industries | 2017 |
+| [Jemilah Mahmood](../persons/jemilah-mahmood.md) | Founder MERCY Malaysia, ex-IFRC | 2022 |
+
+**Uscita 2025**: Claudia Süssmuth-Dyckerhoff (board 2016-2025, ex-McKinsey)
 
 ---
 
@@ -212,9 +219,12 @@ ANDRE HOFFMANN
 
 | Persona | Ruolo |
 |---------|-------|
-| [Andre Hoffmann](../persons/andre-hoffmann.md) | Vice-Chairman, famiglia |
+| [Andre Hoffmann](../persons/andre-hoffmann.md) | Vice-Chairman, famiglia, Co-Chair WEF |
+| [Severin Schwan](../persons/severin-schwan.md) | Chairman |
 | [Thomas Schinecker](../persons/thomas-schinecker.md) | CEO |
 | [Larry Fink](../persons/larry-fink.md) | Co-Chair WEF con Hoffmann |
+| [Mark Schneider](../persons/mark-schneider.md) | Board Roche, CEO Nestlé |
+| [Richard P. Lifton](../persons/richard-lifton.md) | Board, President Rockefeller University |
 
 ### Confronto Big Pharma
 
@@ -278,4 +288,4 @@ Basel e' hub farmaceutico (Roche, Novartis). Famiglia integrata in establishment
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: 22 Dicembre 2025*
