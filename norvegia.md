@@ -1,0 +1,2 @@
+Equinor (oil & gas norvegese)
+

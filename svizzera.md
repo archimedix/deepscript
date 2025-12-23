@@ -15,9 +15,9 @@ Mappa del Potere Svizzero - Items da Indagare
 
   | ID    | Nome                | Note                                                                                 |
   |-------|---------------------|--------------------------------------------------------------------------------------|
-  | snb   | Swiss National Bank | Banca centrale svizzera                                                              |
+  | [v] snb   | Swiss National Bank | Banca centrale svizzera                                                              |
   | [v] bis   | BIS                 | Bank for International Settlements, Basilea - "banca centrale delle banche centrali" |
-  | finma | FINMA               | Autorità vigilanza mercati finanziari                                                |
+  | [v] finma | FINMA               | Autorità vigilanza mercati finanziari                                                |
 
   Forum / Think Tank
 
@@ -40,9 +40,9 @@ Mappa del Potere Svizzero - Items da Indagare
   | ID           | Nome         | Settore                   |
   |--------------|--------------|---------------------------|
   | [v] nestle       | Nestlé       | Food & beverage, Vevey    |
-  | [v]glencore     | Glencore     | Commodities trading, Baar |
+  | [v] glencore     | Glencore     | Commodities trading, Baar |
   | [v] trafigura    | Trafigura    | Commodities, Ginevra      |
-  | [] vitol        | Vitol        | Oil trading, Ginevra      |
+  | [v] vitol        | Vitol        | Oil trading, Ginevra      |
   | abb          | ABB          | Engineering, Zurigo       |
   | swatch-group | Swatch Group | Orologeria                |
   | richemont    | Richemont    | Lusso (Cartier, etc.)     |
@@ -52,9 +52,9 @@ Mappa del Potere Svizzero - Items da Indagare
 
   | ID                | Nome                 | Settore                    |
   |-------------------|----------------------|----------------------------|
-  | hayek             | Famiglia Hayek       | Swatch Group               |
-  | hoffmann-la-roche | Hoffmann-La Roche    | Roche, pharma              |
-  | oeri              | Famiglia Oeri        | Roche, FC Basel            |
+  | [v] hayek             | Famiglia Hayek       | Swatch Group               |
+  | [v] hoffmann-la-roche | Hoffmann-La Roche    | Roche, pharma              |
+  | [v] oeri              | Famiglia Oeri        | Roche, FC Basel            |
   | schmidheiny       | Famiglia Schmidheiny | Holcim, cemento            |
   | blocher           | Famiglia Blocher     | EMS-Chemie, politica (SVP) |
   | bertarelli        | Famiglia Bertarelli  | Serono, biotech            |
@@ -70,11 +70,11 @@ Mappa del Potere Svizzero - Items da Indagare
   | martin-schlegel         | Martin Schlegel         | Presidente SNB (dal 2024)            |
   | [] sergio-ermotti          | Sergio Ermotti          | CEO UBS                              |
   | [v] axel-weber              | Axel Weber              | Ex chairman UBS                      |
-  | severin-schwan          | Severin Schwan          | Chairman Roche                       |
-  | vas-narasimhan          | Vas Narasimhan          | CEO Novartis                         |
-  | borge-brende            | Børge Brende            | Presidente WEF                       |
-  | ivan-glasenberg         | Ivan Glasenberg         | Ex CEO Glencore                      |
-  | gary-nagle              | Gary Nagle              | CEO Glencore                         |
+  | [v] severin-schwan          | Severin Schwan          | Chairman Roche                       |
+  | [v] vas-narasimhan          | Vas Narasimhan          | CEO Novartis                         |
+  | [v] borge-brende            | Børge Brende            | Presidente WEF                       |
+  | [v] ivan-glasenberg         | Ivan Glasenberg         | Ex CEO Glencore                      |
+  | [v] gary-nagle              | Gary Nagle              | CEO Glencore                         |
   | christoph-blocher       | Christoph Blocher       | Industriale, politico SVP            |
   | johann-schneider-ammann | Johann Schneider-Ammann | Ex consigliere federale, industriale |
   | philipp-hildebrand      | Philipp Hildebrand      | Ex SNB, vice BlackRock               |

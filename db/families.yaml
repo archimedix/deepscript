@@ -368,6 +368,48 @@ families:
       generation: 3
     - person: martin-hartono
       generation: 3
+  hayek:
+    origin: LBN-CHE
+    founder: nicolas-hayek-sr
+    sector: watches
+    generations: 3
+    status: active
+    note: Dinastia orologiera, controllo ~39% Swatch Group, salvatori industria orologiera svizzera
+    members:
+    - person: nicolas-hayek-sr
+      generation: 1
+      role: founder
+    - person: nick-hayek-jr
+      generation: 2
+    - person: nayla-hayek
+      generation: 2
+    - person: marc-hayek
+      generation: 3
+  hoffmann-la-roche:
+    origin: CHE
+    founder: fritz-hoffmann-la-roche
+    sector: pharma
+    generations: 5
+    status: active
+    note: Dinastia più ricca della Svizzera, controllo maggioritario Roche attraverso pool azionario dal 1948
+    members:
+    - person: andre-hoffmann
+      generation: 4
+    - person: joerg-duschmale
+      generation: 5
+    - person: fritz-hoffmann-la-roche
+      generation: 1
+      role: founder
+    - person: emanuel-hoffmann
+      generation: 2
+    - person: luc-hoffmann
+      generation: 3
+    - person: andreas-oeri
+      generation: 4
+    - person: maja-oeri
+      generation: 4
+    - person: maja-hoffmann
+      generation: 4
   janssen:
     origin: Belgium
     founder: constant-janssen

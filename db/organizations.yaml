@@ -273,6 +273,17 @@ organizations:
       role: investor
       from: 2024
       note: Capital infusion
+  african-parks:
+    name: African Parks
+    type: foundation
+    founded: 2000
+    headquarters: Johannesburg, South Africa
+    status: active
+    stakeholders:
+    - person: vas-narasimhan
+      role: chairman
+      from: 2022
+      note: Board Member 2019, Chair 2022
   agip:
     name: AGIP - Azienda Generale Italiana Petroli
     type: company
@@ -2112,7 +2123,8 @@ organizations:
       role: member
       from: 1982
     - person: borge-brende
-      role: member
+      role: steering
+      note: Board Member
     - person: gaston-thorn
       role: member
     - person: jacques-santer
@@ -2379,11 +2391,29 @@ organizations:
       from: 2002
       to: 2006
       note: Chairman of Board
+    - person: thomas-jordan
+      role: board
+      from: 2012
+      to: 2024
+      note: Board of Directors
+    - person: martin-schlegel
+      role: board
+      from: 2024
+      note: Board of Directors
+    - person: marlene-amstad
+      role: advisor
+      from: 2012
+      to: 2015
+      note: Adviser Hong Kong
     - org: bce
       role: partner
     - org: bank-of-greece
       role: member
       note: Member central bank
+    - org: snb
+      role: member
+      from: 1930
+      note: Founding member
   blackrock:
     name: BlackRock Inc.
     type: assetmanager
@@ -4347,6 +4377,11 @@ organizations:
       from: 1996
       to: 1998
       note: Private banker
+    - person: severin-schwan
+      role: board
+      from: 2014
+      to: 2022
+      note: Vice Chairman 2017-2022
     - org: ubs
       role: acquirer
       share: 100%
@@ -5079,6 +5114,11 @@ organizations:
       from: 2001
       to: 2004
       note: Advisor to President Duisenberg
+    - person: stefan-walter
+      role: executive
+      from: 2014
+      to: 2024
+      note: Director General
   ecfr:
     name: European Council on Foreign Relations
     type: thinktank
@@ -5273,6 +5313,18 @@ organizations:
     status: active
     aum: $70B
     note: Activist hedge fund, Paul Singer founder
+  emanuel-hoffmann-foundation:
+    name: Emanuel Hoffmann Foundation
+    type: foundation
+    founded: 1933
+    headquarters: Basel, Switzerland
+    status: active
+    note: Collezione arte moderna, Schaulager
+    stakeholders:
+    - person: maja-oeri
+      role: chairman
+      from: 1991
+      note: President
   endeavor:
     name: Endeavor Group Holdings
     type: company
@@ -5399,6 +5451,10 @@ organizations:
     status: active
     sector: oil-gas
     stakeholders:
+    - person: borge-brende
+      role: board
+      to: 2013
+      note: Board Member (resigned when became Foreign Minister)
     - person: john-scarlett
       role: chairman
       note: Strategy Advisory Council
@@ -5437,6 +5493,9 @@ organizations:
       note: Co-Chair Energy Transition Committee
     - person: thomas-leysen
       role: member
+    - person: severin-schwan
+      role: member
+      from: 2023
   escher-wyss:
     name: Escher Wyss AG
     type: company
@@ -5956,6 +6015,22 @@ organizations:
     - person: marina-berlusconi
       role: chairman
       from: 2023
+  finma:
+    name: Swiss Financial Market Supervisory Authority
+    type: agency
+    founded: 2007
+    headquarters: Bern, Switzerland
+    status: active
+    sector: financial regulation
+    stakeholders:
+    - person: marlene-amstad
+      role: chairman
+      from: 2021
+      note: Chair Board of Directors
+    - person: stefan-walter
+      role: executive
+      from: 2024
+      note: CEO
   fip:
     name: International Padel Federation
     type: agency
@@ -6609,6 +6684,17 @@ organizations:
       from: 1945
       to: 1954
       note: Alleged collaboration before escape to Syria
+  genentech:
+    name: Genentech
+    type: pharma
+    founded: 1976
+    headquarters: South San Francisco, USA
+    status: active
+    stakeholders:
+    - person: severin-schwan
+      role: chairman
+      from: 2015
+      note: Chairman of the Board (Roche subsidiary)
   general-atlantic:
     name: General Atlantic
     type: privateequity
@@ -6726,11 +6812,12 @@ organizations:
     - person: ivan-glasenberg
       role: executive
       from: 1984
-      note: CEO 2002-2021. Maggiore azionista 2025
+      to: 2021
+      note: CEO 2002-2021, joined as coal trader 1984. Largest shareholder 10.09% (2025)
     - person: gary-nagle
       role: executive
       from: 2000
-      note: CEO dal 2021
+      note: CEO 2021-. Head Coal Industrial 2018-21, Head Ferroalloys 2013-18, CEO Prodeco Colombia 2008-13
     - person: steven-kalmin
       role: executive
       from: 2005
@@ -8071,8 +8158,19 @@ organizations:
       to: 1996
     - person: borge-brende
       role: minister
+      from: 2013
+      to: 2017
+      note: Foreign Minister
+    - person: borge-brende
+      role: minister
       from: 2001
       to: 2004
+      note: Environment Minister
+    - person: borge-brende
+      role: minister
+      from: 2004
+      to: 2005
+      note: Trade & Industry Minister
     - person: jens-stoltenberg
       role: leader
       from: 2000
@@ -8988,6 +9086,16 @@ organizations:
       role: board
     - org: qia
       role: subsidiary
+  harvard-medical-school:
+    name: Harvard Medical School
+    type: thinktank
+    founded: 1782
+    headquarters: Boston, USA
+    status: active
+    stakeholders:
+    - person: vas-narasimhan
+      role: board
+      note: Board of Fellows
   havas:
     name: Havas
     type: media
@@ -9214,6 +9322,17 @@ organizations:
     - org: baic
       share: 50%
       note: Beijing Hyundai JV 50-50
+  iblac-shanghai:
+    name: International Business Leaders Advisory Council for the Mayor of Shanghai
+    type: forum
+    founded: 1989
+    headquarters: Shanghai, China
+    status: active
+    stakeholders:
+    - person: severin-schwan
+      role: chairman
+      from: 2009
+      note: Member 2009, Vice Chairman 2022-2023, Chairman 2024-2025
   ibm:
     name: IBM
     type: company
@@ -9281,6 +9400,18 @@ organizations:
       from: 1948
       to: 1968
       note: Chief of Staff 1964-68
+  ifpma:
+    name: International Federation of Pharmaceutical Manufacturers & Associations
+    type: agency
+    founded: 1968
+    headquarters: Geneva, Switzerland
+    status: active
+    stakeholders:
+    - person: severin-schwan
+      role: executive
+      from: 2016
+      to: 2020
+      note: Vice President
   ifrc:
     name: International Federation of Red Cross and Red Crescent Societies
     type: agency
@@ -10893,6 +11024,17 @@ organizations:
       share: 3.38
       from: 2025
       note: As of March 2025
+  luma-foundation:
+    name: LUMA Foundation
+    type: foundation
+    founded: 2004
+    headquarters: Zurich, Switzerland
+    status: active
+    note: Arte contemporanea, sede principale Arles
+    stakeholders:
+    - person: maja-hoffmann
+      role: founder
+      from: 2004
   luxembourg-for-finance:
     name: Luxembourg for Finance
     type: agency
@@ -11031,6 +11173,21 @@ organizations:
     stakeholders:
     - org: walt-disney
       share: 100%
+  mava-foundation:
+    name: MAVA Foundation
+    type: foundation
+    founded: 1994
+    headquarters: Gland, Switzerland
+    status: closed
+    note: Chiusa nel 2022 dopo aver distribuito 700M CHF per conservazione
+    stakeholders:
+    - person: andre-hoffmann
+      role: chairman
+      from: 2010
+      note: President
+    - person: luc-hoffmann
+      role: founder
+      from: 1994
   max-streaming:
     name: Max (ex-HBO Max)
     type: media
@@ -11074,6 +11231,10 @@ organizations:
       from: 1995
       to: 1997
       note: London, telecom & financial services
+    - person: vas-narasimhan
+      role: member
+      to: 2005
+      note: Consultant
     - person: adil-zainulbhai
       role: chairman
       from: 2004
@@ -12143,6 +12304,11 @@ organizations:
       role: executive
       from: 2018
       note: CEO
+    - person: vas-narasimhan
+      role: executive
+      from: 2005
+      to: 2018
+      note: Chief Medical Officer
     - person: joerg-reinhardt
       role: chairman
       from: 2013
@@ -12950,6 +13116,17 @@ organizations:
       share: 17.5
       from: 2023
       note: Largest shareholder, €3.3B investment
+  phrma:
+    name: Pharmaceutical Research and Manufacturers of America
+    type: agency
+    founded: 1958
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: vas-narasimhan
+      role: chairman
+      from: 2023
+      note: Chair (former Treasurer)
   pif-saudi:
     name: Public Investment Fund (PIF)
     type: swf
@@ -13592,9 +13769,14 @@ organizations:
       role: board
       note: Board of Directors
     - person: severin-schwan
+      role: executive
+      from: 2008
+      to: 2023
+      note: CEO
+    - person: severin-schwan
       role: chairman
       from: 2023
-      note: Chairman (ex-CEO 2008-2023)
+      note: Chairman of the Board
     - person: patrick-frost
       role: board
       from: 2020
@@ -13624,6 +13806,24 @@ organizations:
       from: 2016
       to: 2025
       note: Board member 2016-2025, ex-McKinsey
+    - person: fritz-hoffmann-la-roche
+      role: founder
+      from: 1896
+      to: 1920
+    - person: emanuel-hoffmann
+      role: executive
+      from: 1920
+      to: 1932
+      note: Head of Roche Brussels
+    - person: luc-hoffmann
+      role: board
+      from: 1953
+      to: 1996
+    - person: andreas-oeri
+      role: board
+      from: 1996
+      to: 2020
+      note: Rappresentante pool azionario
   rockefeller-foundation:
     name: Rockefeller Foundation
     type: foundation
@@ -14563,6 +14763,29 @@ organizations:
     founded: 1906
     headquarters: Bern, Switzerland
     status: active
+    stakeholders:
+    - person: thomas-jordan
+      role: chairman
+      from: 2012
+      to: 2024
+      note: Chairman Governing Board
+    - person: martin-schlegel
+      role: chairman
+      from: 2024
+      note: Chairman Governing Board
+    - person: jean-pierre-roth
+      role: chairman
+      from: 2001
+      to: 2009
+      note: Chairman Governing Board
+    - person: philipp-hildebrand
+      role: chairman
+      from: 2010
+      to: 2012
+      note: Chairman Governing Board (dimesso)
+    - person: marlene-amstad
+      role: executive
+      note: Deputy Director
   socialist-international:
     name: Socialist International
     type: forum
@@ -14959,6 +15182,32 @@ organizations:
       role: partner
       from: 1976
       note: Partner, Head European Operations
+  swatch-group:
+    name: The Swatch Group
+    type: company
+    founded: 1983
+    headquarters: Biel/Bienne, Switzerland
+    status: active
+    sector: watches
+    note: Maggiore gruppo orologiero mondiale, 18 marchi, 150 fabbriche
+    stakeholders:
+    - person: nicolas-hayek-sr
+      role: founder
+      from: 1983
+      to: 2010
+      note: Chairman e CEO
+    - person: nick-hayek-jr
+      role: executive
+      from: 2003
+      note: CEO
+    - person: nayla-hayek
+      role: chairman
+      from: 2010
+      note: Chairman Board of Directors
+    - person: marc-hayek
+      role: executive
+      from: 2000
+      note: Board 2024, CEO Breguet/Blancpain/Jaquet Droz
   swift:
     name: SWIFT
     type: company
@@ -15574,6 +15823,9 @@ organizations:
     headquarters: Washington D.C., USA
     status: active
     stakeholders:
+    - person: borge-brende
+      role: member
+      note: European Group
     - person: roy-jenkins
       role: member
       from: 1973
@@ -16196,6 +16448,33 @@ organizations:
       from: 2017
       to: 2025
       note: CEO Europe
+  vitol:
+    name: Vitol Group
+    type: company
+    founded: 1966
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: commodities, energy trading
+    stakeholders:
+    - person: russell-hardy
+      role: executive
+      from: 2018
+      note: CEO
+    - person: ian-taylor
+      role: executive
+      from: 1995
+      to: 2020
+      note: CEO 1995-2018, Chairman 2018-2020
+    - person: henk-vietor
+      role: founder
+      from: 1966
+      to: 1990
+      note: Co-fondatore
+    - person: jacques-detiger
+      role: founder
+      from: 1966
+      to: 1990
+      note: Co-fondatore, CEO 1976-1990
   vivendi:
     name: Vivendi SE
     type: media
@@ -16525,6 +16804,12 @@ organizations:
     - person: borge-brende
       role: executive
       from: 2017
+      note: President & CEO
+    - person: borge-brende
+      role: executive
+      from: 2008
+      to: 2017
+      note: Managing Director
     - person: jean-claude-juncker
       role: ygl
       from: 1995
@@ -16662,6 +16947,9 @@ organizations:
       role: chairman
       from: 2025
       note: Interim Co-Chair with Larry Fink
+    - person: vas-narasimhan
+      role: member
+      note: Agenda Contributor
     - person: pascal-soriot
       role: member
       note: Agenda Contributor, PHSSR co-founder
@@ -16796,9 +17084,15 @@ organizations:
     - person: mark-schneider
       role: board
       note: Board of Trustees, International Business Council
+    - person: ivan-glasenberg
+      role: member
+      note: Davos participant 2013-2015
     - person: jemilah-mahmood
       role: member
       note: Global Future Council
+    - person: thomas-jordan
+      role: member
+      note: Speaker Davos
     - org: bilderberg
       role: partner
     - org: fmi
@@ -17058,11 +17352,21 @@ organizations:
       from: 1961
       to: 1976
       note: Primo presidente
+    - person: andre-hoffmann
+      role: chairman
+      from: 2007
+      to: 2017
+      note: Vice-President
     - person: prince-bernhard-netherlands
       role: founder
       from: 1961
       to: 1976
       note: First President
+    - person: luc-hoffmann
+      role: founder
+      from: 1961
+      to: 1988
+      note: Vice-President
   x-twitter:
     name: X (formerly Twitter)
     type: media

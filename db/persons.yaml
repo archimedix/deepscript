@@ -514,15 +514,25 @@ persons:
   andre-hoffmann:
     born: 1958
     nationality: CHE
+    family: hoffmann-la-roche
     affiliations:
     - org: wef
       role: chairman
       from: 2025
       note: Interim Co-Chair with Larry Fink
+    - org: wwf
+      role: chairman
+      from: 2007
+      to: 2017
+      note: Vice-President
     - org: roche
       role: chairman
       from: 2006
       note: Vice-Chairman, Board since 1996
+    - org: mava-foundation
+      role: chairman
+      from: 2010
+      note: President
   andre-oscar-wallenberg:
     born: 1816
     died: 1886
@@ -569,6 +579,16 @@ persons:
       role: member
       from: 1997
       note: International Council
+  andreas-oeri:
+    born: 1949
+    nationality: CHE
+    family: hoffmann-la-roche
+    affiliations:
+    - org: roche
+      role: board
+      from: 1996
+      to: 2020
+      note: Rappresentante pool azionario
   andreas-papandreou:
     born: 1919
     died: 1996
@@ -1438,14 +1458,39 @@ persons:
     nationality: NOR
     affiliations:
     - org: bilderberg
-      role: member
+      role: steering
+      note: Board Member
     - org: wef
       role: executive
       from: 2017
+      note: President & CEO
+    - org: wef
+      role: executive
+      from: 2008
+      to: 2017
+      note: Managing Director
+    - org: governo-norvegia
+      role: minister
+      from: 2013
+      to: 2017
+      note: Foreign Minister
     - org: governo-norvegia
       role: minister
       from: 2001
       to: 2004
+      note: Environment Minister
+    - org: governo-norvegia
+      role: minister
+      from: 2004
+      to: 2005
+      note: Trade & Industry Minister
+    - org: trilateral-commission
+      role: member
+      note: European Group
+    - org: equinor
+      role: board
+      to: 2013
+      note: Board Member (resigned when became Foreign Minister)
   boris-pistorius:
     born: 1960
     nationality: DEU
@@ -2995,6 +3040,17 @@ persons:
       from: 2015
       to: 2018
       note: Co-chair, left board 2018
+  emanuel-hoffmann:
+    born: 1896
+    died: 1932
+    nationality: CHE
+    family: hoffmann-la-roche
+    affiliations:
+    - org: roche
+      role: executive
+      from: 1920
+      to: 1932
+      note: Head of Roche Brussels
   emilio-azcarraga-jean:
     born: 1968
     nationality: MEX
@@ -3886,6 +3942,16 @@ persons:
       from: 2009
       to: 2019
       note: Chairman per 10 anni
+  fritz-hoffmann-la-roche:
+    born: 1868
+    died: 1920
+    nationality: CHE
+    family: hoffmann-la-roche
+    affiliations:
+    - org: roche
+      role: founder
+      from: 1896
+      to: 1920
   gabriel-attal:
     born: 1989
     nationality: FRA
@@ -3940,7 +4006,7 @@ persons:
     - org: glencore
       role: executive
       from: 2000
-      note: CEO dal 2021
+      note: CEO 2021-. Head Coal Industrial 2018-21, Head Ferroalloys 2013-18, CEO Prodeco Colombia 2008-13
   gaston-eyskens:
     born: 1905
     died: 1988
@@ -4663,6 +4729,14 @@ persons:
       role: president
       from: 1950
       to: 1972
+  henk-vietor:
+    nationality: NLD
+    affiliations:
+    - org: vitol
+      role: founder
+      from: 1966
+      to: 1990
+      note: Co-fondatore
   henri-de-castries:
     born: 1954
     nationality: FRA
@@ -4951,6 +5025,16 @@ persons:
       role: founder
       from: 1998
       note: Founder & President
+  ian-taylor:
+    born: 1956
+    died: 2020
+    nationality: GBR
+    affiliations:
+    - org: vitol
+      role: executive
+      from: 1995
+      to: 2020
+      note: CEO 1995-2018, Chairman 2018-2020
   ibrahim-eren:
     nationality: TUR
     note: TRT Dir Gen 2017-2021. First Turk ABU President. Now BeIN Media advisor
@@ -5084,10 +5168,14 @@ persons:
     nationality: ZAF
     note: Anche cittadino AUS e CHE (2011). Wits University
     affiliations:
+    - org: wef
+      role: member
+      note: Davos participant 2013-2015
     - org: glencore
       role: executive
       from: 1984
-      note: CEO 2002-2021. Maggiore azionista 2025
+      to: 2021
+      note: CEO 2002-2021, joined as coal trader 1984. Largest shareholder 10.09% (2025)
   ivanka-trump:
     born: 1981
     nationality: USA
@@ -5238,6 +5326,14 @@ persons:
       from: 1985
       to: 1995
       note: Presidente Commissione, architetto Maastricht e mercato unico
+  jacques-detiger:
+    nationality: NLD
+    affiliations:
+    - org: vitol
+      role: founder
+      from: 1966
+      to: 1990
+      note: Co-fondatore, CEO 1976-1990
   jacques-santer:
     born: 1937
     nationality: LUX
@@ -5672,6 +5768,15 @@ persons:
       from: 2002
       to: 2005
       note: Primo Ministro (Chirac)
+  jean-pierre-roth:
+    born: 1946
+    nationality: CHE
+    affiliations:
+    - org: snb
+      role: chairman
+      from: 2001
+      to: 2009
+      note: Chairman Governing Board
   jean-rey:
     born: 1902
     died: 1983
@@ -6018,6 +6123,7 @@ persons:
   joerg-duschmale:
     born: 1985
     nationality: CHE
+    family: hoffmann-la-roche
     affiliations:
     - org: roche
       role: board
@@ -7633,6 +7739,24 @@ persons:
       role: chairman
       from: 2016
       to: 2023
+  luc-hoffmann:
+    born: 1923
+    died: 2016
+    nationality: CHE
+    family: hoffmann-la-roche
+    affiliations:
+    - org: wwf
+      role: founder
+      from: 1961
+      to: 1988
+      note: Vice-President
+    - org: roche
+      role: board
+      from: 1953
+      to: 1996
+    - org: mava-foundation
+      role: founder
+      from: 1994
   luca-de-meo:
     born: 1967
     nationality: ITA
@@ -7784,6 +7908,23 @@ persons:
       from: 2020
       to: 2019
       note: President
+  maja-hoffmann:
+    born: 1956
+    nationality: CHE
+    family: hoffmann-la-roche
+    affiliations:
+    - org: luma-foundation
+      role: founder
+      from: 2004
+  maja-oeri:
+    born: 1955
+    nationality: CHE
+    family: hoffmann-la-roche
+    affiliations:
+    - org: emanuel-hoffmann-foundation
+      role: chairman
+      from: 1991
+      note: President
   mamuka-bakhtadze:
     born: 1982
     nationality: GEO
@@ -7852,6 +7993,15 @@ persons:
       from: 2008
       to: 2021
       note: CEO
+  marc-hayek:
+    born: 1971
+    nationality: CHE
+    family: hayek
+    affiliations:
+    - org: swatch-group
+      role: executive
+      from: 2000
+      note: Board 2024, CEO Breguet/Blancpain/Jaquet Droz
   marc-hoffmann:
     born: 1958
     nationality: LUX
@@ -8334,6 +8484,21 @@ persons:
       role: executive
       from: 2024
       note: CEO
+  marlene-amstad:
+    nationality: CHE
+    affiliations:
+    - org: bis
+      role: advisor
+      from: 2012
+      to: 2015
+      note: Adviser Hong Kong
+    - org: snb
+      role: executive
+      note: Deputy Director
+    - org: finma
+      role: chairman
+      from: 2021
+      note: Chair Board of Directors
   martin-barrington:
     born: 1953
     nationality: USA
@@ -8355,6 +8520,18 @@ persons:
     - org: blibli
       role: chairman
       note: Principal shareholder via GDP Venture/Djarum
+  martin-schlegel:
+    born: 1976
+    nationality: CHE
+    affiliations:
+    - org: bis
+      role: board
+      from: 2024
+      note: Board of Directors
+    - org: snb
+      role: chairman
+      from: 2024
+      note: Chairman Governing Board
   martin-winterkorn:
     born: 1947
     nationality: DEU
@@ -9003,6 +9180,15 @@ persons:
     - person: cecil-rhodes
       type: financer
       note: Principal financier of Rhodes ventures
+  nayla-hayek:
+    born: 1951
+    nationality: CHE
+    family: hayek
+    affiliations:
+    - org: swatch-group
+      role: chairman
+      from: 2010
+      note: Chairman Board of Directors
   neelie-kroes:
     born: 1941
     nationality: NLD
@@ -9062,6 +9248,15 @@ persons:
     - org: meta
       role: executive
       from: 2022
+  nick-hayek-jr:
+    born: 1954
+    nationality: CHE
+    family: hayek
+    affiliations:
+    - org: swatch-group
+      role: executive
+      from: 2003
+      note: CEO
   nicky-oppenheimer:
     born: 1945
     nationality: ZAF
@@ -9109,6 +9304,17 @@ persons:
       role: chairman
       from: 2012
       note: Chairman of the Board
+  nicolas-hayek-sr:
+    born: 1928
+    died: 2010
+    nationality: LBN-CHE
+    family: hayek
+    affiliations:
+    - org: swatch-group
+      role: founder
+      from: 1983
+      to: 2010
+      note: Chairman e CEO
   nicolas-hieronimus:
     born: 1964
     nationality: FRA
@@ -9972,6 +10178,15 @@ persons:
       role: chairman
       from: 1996
       note: Co-President
+  philipp-hildebrand:
+    born: 1963
+    nationality: CHE
+    affiliations:
+    - org: snb
+      role: chairman
+      from: 2010
+      to: 2012
+      note: Chairman Governing Board (dimesso)
   philipp-rosler:
     born: 1973
     nationality: DEU
@@ -11087,6 +11302,14 @@ persons:
     - org: news-corporation
       role: founder
       note: chairman-emeritus
+  russell-hardy:
+    born: 1965
+    nationality: GBR
+    affiliations:
+    - org: vitol
+      role: executive
+      from: 2018
+      note: CEO
   safra-catz:
     born: 1961
     nationality: USA
@@ -11445,10 +11668,36 @@ persons:
     born: 1967
     nationality: AUT
     affiliations:
+    - org: ert
+      role: member
+      from: 2023
+    - org: roche
+      role: executive
+      from: 2008
+      to: 2023
+      note: CEO
     - org: roche
       role: chairman
       from: 2023
-      note: Chairman (ex-CEO 2008-2023)
+      note: Chairman of the Board
+    - org: credit-suisse
+      role: board
+      from: 2014
+      to: 2022
+      note: Vice Chairman 2017-2022
+    - org: genentech
+      role: chairman
+      from: 2015
+      note: Chairman of the Board (Roche subsidiary)
+    - org: ifpma
+      role: executive
+      from: 2016
+      to: 2020
+      note: Vice President
+    - org: iblac-shanghai
+      role: chairman
+      from: 2009
+      note: Member 2009, Vice Chairman 2022-2023, Chairman 2024-2025
   shalev-hulio:
     nationality: ISR
     note: NSO Group co-founder, Unit 8200 veteran
@@ -11723,6 +11972,19 @@ persons:
       role: deputy-chairman
       from: 1999
       note: Owns 26.8%
+  stefan-walter:
+    born: 1965
+    nationality: DEU
+    affiliations:
+    - org: ecb
+      role: executive
+      from: 2014
+      to: 2024
+      note: Director General
+    - org: finma
+      role: executive
+      from: 2024
+      note: CEO
   stephan-weil:
     born: 1958
     nationality: DEU
@@ -12186,6 +12448,23 @@ persons:
       role: board
       from: 2007
       note: Lead Director
+  thomas-jordan:
+    born: 1963
+    nationality: CHE
+    affiliations:
+    - org: wef
+      role: member
+      note: Speaker Davos
+    - org: bis
+      role: board
+      from: 2012
+      to: 2024
+      note: Board of Directors
+    - org: snb
+      role: chairman
+      from: 2012
+      to: 2024
+      note: Chairman Governing Board
   thomas-lamont:
     born: 1870
     died: 1948
@@ -12508,10 +12787,33 @@ persons:
     born: 1976
     nationality: USA
     affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor
+    - org: mckinsey
+      role: member
+      to: 2005
+      note: Consultant
     - org: novartis
       role: executive
       from: 2018
       note: CEO
+    - org: novartis
+      role: executive
+      from: 2005
+      to: 2018
+      note: Chief Medical Officer
+    - org: phrma
+      role: chairman
+      from: 2023
+      note: Chair (former Treasurer)
+    - org: african-parks
+      role: chairman
+      from: 2022
+      note: Board Member 2019, Chair 2022
+    - org: harvard-medical-school
+      role: board
+      note: Board of Fellows
   vera-kobalia:
     born: 1981
     nationality: GEO
