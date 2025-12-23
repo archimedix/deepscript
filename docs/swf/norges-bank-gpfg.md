@@ -155,8 +155,15 @@ Storting (Parlamento) → Ministry of Finance → Norges Bank Executive Board �
 
 ### Leadership NBIM
 
-- **Nicolai Tangen** - CEO dal 2020, ex-AKO Capital
-- **Yngve Slyngstad** - CEO 2008-2020 (12 anni)
+| Ruolo | Persona | Periodo | Background |
+|-------|---------|---------|------------|
+| CEO | [Nicolai Tangen](../persons/nicolai-tangen.md) | 2020- | Egerton Capital, fondatore AKO Capital, WEF |
+| Deputy CEO | [Trond Grande](../persons/trond-grande.md) | 2011- | Storebrand (1996-2007), CRO NBIM (2009-2011) |
+| Ex-CEO | [Yngve Slyngstad](../persons/yngve-slyngstad.md) | 2008-2020 | 12 anni alla guida |
+
+**Nicolai Tangen**: Training intelligence norvegese, MBA Wharton, MA LSE. Fondatore AKO Capital (2005-2020). Net worth £550M. Giving Pledge. Collezione arte nordica. Riconfermato marzo 2025.
+
+**Trond Grande**: 11 anni Storebrand, NBIM dal 2007. "Il piu' esperto al mondo delle operazioni interne del fondo" secondo Oxford SWF Project.
 
 ### Architetti del fondo
 
@@ -164,8 +171,12 @@ Storting (Parlamento) → Ministry of Finance → Norges Bank Executive Board �
 
 ### Connessioni norvegesi nel database
 
-- [Borge Brende](/persone/borge-brende.md) - CEO WEF, ex-Ministro Esteri Norvegia
-- [Gro Harlem Brundtland](/persone/gro-harlem-brundtland.md) - PM Norvegia, WHO, Trilaterale
+| Persona | Connessione |
+|---------|-------------|
+| [Borge Brende](../persons/borge-brende.md) | CEO WEF, ex-Ministro Esteri Norvegia |
+| [Gro Harlem Brundtland](../persons/gro-harlem-brundtland.md) | PM Norvegia, WHO, Trilaterale |
+| [Helge Lund](../persons/helge-lund.md) | Ex-CEO Equinor, Chairman BP/Novo Nordisk |
+| [Kristin Skogen Lund](../persons/kristin-skogen-lund.md) | European Treasurer Trilateral Commission |
 
 ## Timeline
 

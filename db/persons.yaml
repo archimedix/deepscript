@@ -320,6 +320,12 @@ persons:
       from: 2003
       to: 2018
       note: Director
+  alexander-saverys:
+    nationality: BEL
+    affiliations:
+    - org: cmb-tech
+      role: executive
+      note: CEO
   alexander-schallenberg:
     born: 1969
     nationality: AUT
@@ -504,6 +510,27 @@ persons:
       from: 2021
       to: 2024
       note: Co-owner 10% via PCP Capital Partners, poi 6%, exit luglio 2024
+  anders-opedal:
+    born: 1968
+    nationality: NOR
+    affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor
+    - org: equinor
+      role: executive
+      from: 2020
+      note: President and CEO
+    - org: schlumberger
+      role: executive
+      from: 1992
+      to: 1997
+      note: Log Analyst, Well Site Logging Engineer
+    - org: baker-hughes
+      role: executive
+      from: 1992
+      to: 1997
+      note: Baker Hughes Inteq
   andre-bettencourt:
     born: 1919
     died: 2007
@@ -1754,6 +1781,13 @@ persons:
   cecilia-attias:
     born: 1957
     nationality: FRA
+  cecilie-fredriksen:
+    born: 1983
+    nationality: NOR
+    affiliations:
+    - org: mowi
+      role: board
+      from: 2008
   cedric-villani:
     born: 1973
     nationality: FRA
@@ -2981,6 +3015,15 @@ persons:
     - org: dupont
       role: founder
       from: 1802
+  eldar-saetre:
+    born: 1956
+    nationality: NOR
+    affiliations:
+    - org: equinor
+      role: executive
+      from: 2014
+      to: 2020
+      note: CEO; rebranding Statoil → Equinor
   elisabeth-belgium:
     born: 2001
     nationality: BEL
@@ -3244,6 +3287,15 @@ persons:
       role: board
       from: 2021
       note: Supervisory Board Co-Chair
+  erna-solberg:
+    born: 1961
+    nationality: NOR
+    affiliations:
+    - org: governo-norvegia
+      role: leader
+      from: 2013
+      to: 2021
+      note: Prime Minister
   ernest-oppenheimer:
     born: 1880
     died: 1957
@@ -4696,6 +4748,58 @@ persons:
       role: founder
       from: 1972
       note: Co-founder, Chairman 2003-2024
+  helge-lund:
+    born: 1962
+    nationality: NOR
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2019
+      note: Participant 2019
+    - org: ert
+      role: member
+      note: via BP and Novo Nordisk chairmanship
+    - org: equinor
+      role: executive
+      from: 2004
+      to: 2014
+      note: CEO Statoil; merger con Norsk Hydro 2007
+    - org: mckinsey
+      role: partner
+      from: 1991
+      to: 1993
+      note: Management consultant
+    - org: bp
+      role: chairman
+      from: 2019
+      to: 2025
+      note: Chairman, stepping down 2025-2026
+    - org: novo-nordisk
+      role: chairman
+      from: 2018
+      to: 2025
+      note: Chairman; ousted Nov 2025 by Novo Nordisk Foundation
+    - org: bg-group
+      role: executive
+      from: 2015
+      to: 2016
+      note: CEO; acquired by Shell Feb 2016
+    - org: aker-kvaerner
+      role: executive
+      from: 2002
+      to: 2004
+      note: CEO
+    - org: schlumberger
+      role: board
+      from: 2016
+      to: 2018
+    - org: nokia
+      role: board
+      from: 2011
+      to: 2014
+    - org: clayton-dubilier-rice
+      role: advisor
+      note: Operating Advisor
   helle-thorning-schmidt:
     born: 1966
     nationality: DNK
@@ -5902,6 +6006,10 @@ persons:
       from: 2000
       to: 2013
       note: PM 2000-01, 2005-13; Finance Min 1996-97, 2024-
+    - org: governo-norvegia
+      role: minister
+      from: 2025
+      note: Finance Minister (post-NATO)
     relations:
     - person: thorvald-stoltenberg
       type: son_of
@@ -6312,6 +6420,30 @@ persons:
       from: 1911
       to: 1953
       note: Senior Partner
+  john-fredriksen:
+    born: 1944
+    nationality: CYP
+    affiliations:
+    - org: frontline
+      role: founder
+      from: 1985
+      note: Chairman, controlling shareholder
+    - org: mowi
+      role: chairman
+      from: 2006
+      note: Largest shareholder ~15%
+    - org: seadrill
+      role: founder
+      from: 2005
+      note: Controlling shareholder
+    - org: golden-ocean
+      role: chairman
+      note: Controlling shareholder
+    relations:
+    - person: cecilie-fredriksen
+      type: parent
+    - person: kathrine-fredriksen
+      type: parent
   john-hamre:
     born: 1950
     nationality: USA
@@ -6396,6 +6528,13 @@ persons:
       from: 2014
       to: 2024
       note: Presidente
+  jon-erik-reinhardsen:
+    nationality: NOR
+    affiliations:
+    - org: equinor
+      role: chairman
+      from: 2017
+      note: Chairman of the Board
   jon-gray:
     born: 1969
     nationality: USA
@@ -6411,6 +6550,14 @@ persons:
       role: chairman
       from: 2014
       to: 2017
+  jonas-gahr-store:
+    born: 1960
+    nationality: NOR
+    affiliations:
+    - org: governo-norvegia
+      role: leader
+      from: 2021
+      note: Prime Minister
   jonathan-greenblatt:
     born: 1971
     nationality: USA
@@ -6832,6 +6979,12 @@ persons:
     - person: edward-snowden
       type: fellow whistleblower
       note: Both exposed NSA/GCHQ surveillance operations
+  kathrine-fredriksen:
+    born: 1983
+    nationality: NOR
+    affiliations:
+    - org: mowi
+      role: board
   kathy-warden:
     nationality: American
     note: Northrop Grumman CEO, defense-pharma crosslink
@@ -6961,6 +7114,14 @@ persons:
       role: leader
       from: 2025
       note: President (first woman, first African)
+  kjerstin-braathen:
+    born: 1970
+    nationality: NOR
+    affiliations:
+    - org: dnb-asa
+      role: executive
+      from: 2019
+      note: CEO
   klaas-knot:
     born: 1967
     nationality: NLD
@@ -7149,6 +7310,39 @@ persons:
       from: 2004
       to: 2009
       note: PM, nascose deficit pre-crisi
+  kristin-skogen-lund:
+    born: 1966
+    nationality: NOR
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2016
+      note: Participant 2016 Dresden
+    - org: ericsson
+      role: board
+      from: 2013
+      to: 2018
+    - org: trilateral-commission
+      role: steering
+      from: 2015
+      note: European Treasurer, Head Norwegian delegation
+    - org: telenor
+      role: executive
+      from: 2010
+      to: 2012
+      note: EVP Nordic activities
+    - org: schibsted
+      role: executive
+      from: 2018
+      to: 2024
+      note: CEO
+    - org: nho
+      role: executive
+      from: 2012
+      to: 2018
+      note: Director General
+    - org: adevinta
+      role: board
   kurt-bock:
     nationality: DEU
     affiliations:
@@ -9287,6 +9481,10 @@ persons:
     - org: norges-bank-gpfg
       role: executive
       from: 2020
+      note: CEO NBIM
+    - org: wef
+      role: member
+      note: Davos participant
     - org: ako-capital
       role: founder
       from: 2005
@@ -9295,6 +9493,10 @@ persons:
       role: executive
       from: 2005
       to: 2020
+    - org: egerton-capital
+      role: partner
+      from: 1997
+      to: 2002
   nicolas-boel:
     nationality: BEL
     affiliations:
@@ -9548,6 +9750,19 @@ persons:
       role: executive
       from: 2025
       note: President
+  olaug-svarva:
+    born: 1957
+    nationality: NOR
+    affiliations:
+    - org: dnb-asa
+      role: chairman
+      from: 2018
+      note: Board Chair
+    - org: folketrygdfondet
+      role: executive
+      from: 2006
+      to: 2018
+      note: CEO
   oliver-baete:
     born: 1965
     nationality: DEU
@@ -12709,6 +12924,19 @@ persons:
       role: executive
       from: 2013
       note: CEO
+  trond-grande:
+    born: 1965
+    nationality: NOR
+    affiliations:
+    - org: norges-bank-gpfg
+      role: executive
+      from: 2011
+      note: Deputy CEO
+    - org: storebrand
+      role: executive
+      from: 1996
+      to: 2007
+      note: SVP Finance & Risk
   ugur-sahin:
     born: 1965
     nationality: TUR-DEU
@@ -13495,6 +13723,14 @@ persons:
       role: executive
       from: 2008
       to: 2020
+    - org: storebrand
+      role: executive
+      to: 1998
+      note: CIO Asian Equities
+    - org: industry-capital-partners
+      role: founder
+      from: 2022
+      note: Managing Partner, 5% owner
   yoo-myung-hee:
     nationality: Korean
     note: Ex Trade Minister MOTIE. Samsung Electronics board member. WTO Director-General candidate 2020

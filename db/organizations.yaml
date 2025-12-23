@@ -213,6 +213,16 @@ organizations:
       from: 2003
       to: 2008
       note: Vice President, Ranking VP
+  adevinta:
+    name: Adevinta ASA
+    type: company
+    headquarters: Oslo, Norway
+    status: active
+    sector: classifieds
+    note: Schibsted spinoff 2019
+    stakeholders:
+    - person: kristin-skogen-lund
+      role: board
   adia:
     name: Abu Dhabi Investment Authority
     type: swf
@@ -460,6 +470,25 @@ organizations:
       role: board
       from: 2012
       to: 2015
+  aker-asa:
+    name: Aker ASA
+    type: company
+    founded: 1841
+    headquarters: Oslo, Norway
+    status: active
+    sector: industrial
+  aker-kvaerner:
+    name: Aker Kvaerner ASA
+    type: company
+    headquarters: Oslo, Norway
+    status: active
+    sector: engineering
+    stakeholders:
+    - person: helge-lund
+      role: executive
+      from: 2002
+      to: 2004
+      note: CEO
   ako-capital:
     name: AKO Capital
     type: hedgefund
@@ -1359,6 +1388,18 @@ organizations:
       role: partner
       from: 1984
       note: Founding partner, Co-Chairman 2016-2023
+  baker-hughes:
+    name: Baker Hughes
+    type: company
+    headquarters: Houston, USA
+    status: active
+    sector: oilfield services
+    stakeholders:
+    - person: anders-opedal
+      role: executive
+      from: 1992
+      to: 1997
+      note: Baker Hughes Inteq
   banca-commerciale-italiana:
     name: Banca Commerciale Italiana
     type: bank
@@ -1987,6 +2028,19 @@ organizations:
       role: chairman
       from: 1993
       note: Honorary President, 85+ economic missions
+  bg-group:
+    name: BG Group plc
+    type: company
+    headquarters: Reading, UK
+    status: defunct
+    sector: oil-gas
+    note: Acquired by Shell 2016
+    stakeholders:
+    - person: helge-lund
+      role: executive
+      from: 2015
+      to: 2016
+      note: CEO; acquired by Shell Feb 2016
   bharti-airtel:
     name: Bharti Airtel Limited
     type: company
@@ -2322,6 +2376,14 @@ organizations:
       role: member
       from: 2022
       note: Partecipante 2022 come Chairman Swiss Re
+    - person: helge-lund
+      role: member
+      from: 2019
+      note: Participant 2019
+    - person: kristin-skogen-lund
+      role: member
+      from: 2016
+      note: Participant 2016 Dresden
     - org: trilaterale
       role: partner
   biontech:
@@ -2811,6 +2873,11 @@ organizations:
       from: 1995
       to: 2007
       note: CEO; joined 1966
+    - person: helge-lund
+      role: chairman
+      from: 2019
+      to: 2025
+      note: Chairman, stepping down 2025-2026
     - org: kuwait-investment-authority
       role: shareholder
       share: 9.9%
@@ -3813,6 +3880,15 @@ organizations:
       share: 81%
       from: 2013
       note: Via Newton Investment and Development LLC
+  clayton-dubilier-rice:
+    name: Clayton Dubilier & Rice
+    type: privateequity
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: helge-lund
+      role: advisor
+      note: Operating Advisor
   clearlake-capital:
     name: Clearlake Capital Group
     type: privateequity
@@ -3922,6 +3998,17 @@ organizations:
     stakeholders:
     - person: rodolphe-saade
       role: chairman
+  cmb-tech:
+    name: CMB.TECH
+    type: company
+    founded: 1895
+    headquarters: Antwerp, Belgium
+    status: active
+    sector: shipping
+    stakeholders:
+    - person: alexander-saverys
+      role: executive
+      note: CEO
   cna:
     name: CNA (Channel NewsAsia)
     type: media
@@ -4950,6 +5037,27 @@ organizations:
       role: executive
       from: 2025
       note: President
+  dnb-asa:
+    name: DNB ASA
+    type: bank
+    founded: 1822
+    headquarters: Oslo, Norway
+    status: active
+    sector: banking
+    stakeholders:
+    - person: olaug-svarva
+      role: chairman
+      from: 2018
+      note: Board Chair
+    - person: kjerstin-braathen
+      role: executive
+      from: 2019
+      note: CEO
+    - org: governo-norvegia
+      role: majority_owner
+      share: 34
+      from: 2003
+      note: Ministry of Trade, Industry and Fisheries
   dod:
     name: Department of Defense
     type: government
@@ -5225,6 +5333,16 @@ organizations:
     - org: bri
       role: partner
       note: Infrastrutture ferroviarie e logistiche
+  egerton-capital:
+    name: Egerton Capital
+    type: hedgefund
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: nicolai-tangen
+      role: partner
+      from: 1997
+      to: 2002
   egmont-institute:
     name: Egmont Institute
     type: thinktank
@@ -5447,6 +5565,7 @@ organizations:
   equinor:
     name: Equinor ASA
     type: company
+    founded: 1972
     headquarters: Stavanger, Norway
     status: active
     sector: oil-gas
@@ -5461,8 +5580,30 @@ organizations:
     - person: jeroen-van-der-veer
       role: advisor
       from: 2019
+    - person: anders-opedal
+      role: executive
+      from: 2020
+      note: President and CEO
+    - person: eldar-saetre
+      role: executive
+      from: 2014
+      to: 2020
+      note: CEO; rebranding Statoil → Equinor
+    - person: helge-lund
+      role: executive
+      from: 2004
+      to: 2014
+      note: CEO Statoil; merger con Norsk Hydro 2007
+    - person: jon-erik-reinhardsen
+      role: chairman
+      from: 2017
+      note: Chairman of the Board
+    - org: governo-norvegia
+      share: 67
+      from: 1972
+      note: State majority ownership via Ministry of Trade
   ericsson:
-    name: Ericsson
+    name: Ericsson AB
     type: company
     founded: 1876
     headquarters: Stockholm, Sweden
@@ -5477,6 +5618,10 @@ organizations:
     - person: jacob-wallenberg
       role: board
       note: Vice Chairman
+    - person: kristin-skogen-lund
+      role: board
+      from: 2013
+      to: 2018
     - org: investor-ab
       role: major-shareholder
   ert:
@@ -5496,6 +5641,9 @@ organizations:
     - person: severin-schwan
       role: member
       from: 2023
+    - person: helge-lund
+      role: member
+      note: via BP and Novo Nordisk chairmanship
   escher-wyss:
     name: Escher Wyss AG
     type: company
@@ -6146,6 +6294,18 @@ organizations:
       role: partner
     - org: banca-mondiale
       role: partner
+  folketrygdfondet:
+    name: Folketrygdfondet
+    type: swf
+    founded: 1967
+    headquarters: Oslo, Norway
+    status: active
+    stakeholders:
+    - person: olaug-svarva
+      role: executive
+      from: 2006
+      to: 2018
+      note: CEO
   fondation-louis-vuitton:
     name: Fondation Louis Vuitton
     type: foundation
@@ -6381,6 +6541,18 @@ organizations:
       from: 2003
       to: 2016
       note: CEO, CFO Fresenius Medical Care 2001-2003
+  frontline:
+    name: Frontline Ltd
+    type: company
+    founded: 1985
+    headquarters: Hamilton, Bermuda
+    status: active
+    sector: shipping
+    stakeholders:
+    - person: john-fredriksen
+      role: founder
+      from: 1985
+      note: Chairman, controlling shareholder
   fsb:
     name: Financial Stability Board
     type: agency
@@ -6870,6 +7042,23 @@ organizations:
     headquarters: San Francisco, California, USA
     status: active
     sector: private equity
+  golden-ocean:
+    name: Golden Ocean Group
+    type: company
+    founded: 2004
+    headquarters: Hamilton, Bermuda
+    status: merged
+    sector: shipping
+    note: Merged into CMB.TECH August 2025
+    stakeholders:
+    - person: john-fredriksen
+      role: chairman
+      note: Controlling shareholder
+    - org: cmb-tech
+      role: acquirer
+      share: 100
+      from: 2025
+      note: Merger completed August 2025
   goldman-sachs:
     name: Goldman Sachs
     type: bank
@@ -8143,9 +8332,10 @@ organizations:
       role: leader
       from: 2023
   governo-norvegia:
-    name: Governo Norvegia
+    name: Governo di Norvegia
     type: government
-    headquarters: Oslo
+    founded: 1814
+    headquarters: Oslo, Norway
     status: active
     stakeholders:
     - person: gro-harlem-brundtland
@@ -8176,11 +8366,24 @@ organizations:
       from: 2000
       to: 2013
       note: PM 2000-01, 2005-13; Finance Min 1996-97, 2024-
+    - person: jens-stoltenberg
+      role: minister
+      from: 2025
+      note: Finance Minister (post-NATO)
     - person: thorvald-stoltenberg
       role: minister
       from: 1987
       to: 1989
       note: Foreign Minister 1987-89, 1990-93; Defence Minister 1979-81
+    - person: jonas-gahr-store
+      role: leader
+      from: 2021
+      note: Prime Minister
+    - person: erna-solberg
+      role: leader
+      from: 2013
+      to: 2021
+      note: Prime Minister
   governo-nz:
     name: Governo Nuova Zelanda
     type: government
@@ -9660,6 +9863,22 @@ organizations:
     - org: salim-group
       share: 45
       note: Via Indoritel Makmur
+  industry-capital-partners:
+    name: Industry Capital Partners
+    type: company
+    founded: 2022
+    headquarters: Oslo, Norway
+    status: active
+    sector: asset_management
+    stakeholders:
+    - person: yngve-slyngstad
+      role: founder
+      from: 2022
+      note: Managing Partner, 5% owner
+    - org: aker-asa
+      role: majority_owner
+      share: 95
+      from: 2022
   ing:
     name: ING Group N.V.
     type: bank
@@ -11268,6 +11487,11 @@ organizations:
       from: 2006
       to: 2017
       note: Partner from 2013
+    - person: helge-lund
+      role: partner
+      from: 1991
+      to: 1993
+      note: Management consultant
   mediacorp:
     name: Mediacorp Pte Ltd
     type: media
@@ -11784,6 +12008,23 @@ organizations:
       role: partner
       from: 1951
       note: Intelligence sharing, Angleton liaison
+  mowi:
+    name: Mowi ASA
+    type: company
+    founded: 1964
+    headquarters: Bergen, Norway
+    status: active
+    sector: aquaculture
+    stakeholders:
+    - person: john-fredriksen
+      role: chairman
+      from: 2006
+      note: Largest shareholder ~15%
+    - person: kathrine-fredriksen
+      role: board
+    - person: cecilie-fredriksen
+      role: board
+      from: 2008
   mtv:
     name: MTV
     type: media
@@ -12171,6 +12412,17 @@ organizations:
     stakeholders:
     - org: governo-giappone
       note: Public broadcaster, license fee funded
+  nho:
+    name: Confederation of Norwegian Enterprise (NHO)
+    headquarters: Oslo, Norway
+    status: active
+    note: Norwegian employers organization
+    stakeholders:
+    - person: kristin-skogen-lund
+      role: executive
+      from: 2012
+      to: 2018
+      note: Director General
   niarchos-foundation:
     name: Stavros Niarchos Foundation (SNF)
     type: foundation
@@ -12257,6 +12509,17 @@ organizations:
     - person: marcus-wallenberg-jr
       role: board
       note: Membro del board
+  nokia:
+    name: Nokia Corporation
+    type: company
+    headquarters: Espoo, Finland
+    status: active
+    sector: tech
+    stakeholders:
+    - person: helge-lund
+      role: board
+      from: 2011
+      to: 2014
   nord-stream-ag:
     name: Nord Stream AG
     type: company
@@ -12279,10 +12542,15 @@ organizations:
     - person: nicolai-tangen
       role: executive
       from: 2020
+      note: CEO NBIM
     - person: yngve-slyngstad
       role: executive
       from: 2008
       to: 2020
+    - person: trond-grande
+      role: executive
+      from: 2011
+      note: Deputy CEO
   northrop-grumman:
     name: Northrop Grumman
     type: company
@@ -12317,6 +12585,18 @@ organizations:
     - person: jonathan-symonds
       role: executive
       note: ex-CFO
+  novo-nordisk:
+    name: Novo Nordisk A/S
+    type: company
+    headquarters: Bagsvaerd, Denmark
+    status: active
+    sector: pharma
+    stakeholders:
+    - person: helge-lund
+      role: chairman
+      from: 2018
+      to: 2025
+      note: Chairman; ousted Nov 2025 by Novo Nordisk Foundation
   nps-korea:
     name: National Pension Service (NPS)
     type: swf
@@ -14320,6 +14600,34 @@ organizations:
     headquarters: Bangkok, Thailand
     status: active
     sector: fintech
+  schibsted:
+    name: Schibsted ASA
+    type: media
+    headquarters: Oslo, Norway
+    status: active
+    sector: media
+    stakeholders:
+    - person: kristin-skogen-lund
+      role: executive
+      from: 2018
+      to: 2024
+      note: CEO
+  schlumberger:
+    name: Schlumberger
+    type: company
+    headquarters: Houston, USA
+    status: active
+    sector: oilfield services
+    stakeholders:
+    - person: anders-opedal
+      role: executive
+      from: 1992
+      to: 1997
+      note: Log Analyst, Well Site Logging Engineer
+    - person: helge-lund
+      role: board
+      from: 2016
+      to: 2018
   sciences-po:
     founded: 1872
     headquarters: Paris
@@ -14349,6 +14657,18 @@ organizations:
       from: 2003
       to: 2018
       note: Director
+  seadrill:
+    name: Seadrill Ltd
+    type: company
+    founded: 2005
+    headquarters: Hamilton, Bermuda
+    status: active
+    sector: offshore_drilling
+    stakeholders:
+    - person: john-fredriksen
+      role: founder
+      from: 2005
+      note: Controlling shareholder
   seagram:
     name: Seagram
     type: company
@@ -15149,6 +15469,22 @@ organizations:
       share: 7.2%
       from: 2021
       note: Via Peugeot 1810 subsidiary (76.5% PI, 23.5% EPF)
+  storebrand:
+    name: Storebrand
+    type: company
+    headquarters: Oslo, Norway
+    status: active
+    sector: finance
+    stakeholders:
+    - person: yngve-slyngstad
+      role: executive
+      to: 1998
+      note: CIO Asian Equities
+    - person: trond-grande
+      role: executive
+      from: 1996
+      to: 2007
+      note: SVP Finance & Risk
   suez:
     name: Suez
     type: company
@@ -15362,6 +15698,11 @@ organizations:
       from: 2018
       to: 2019
       note: Board of Directors
+    - person: kristin-skogen-lund
+      role: executive
+      from: 2010
+      to: 2012
+      note: EVP Nordic activities
   televisaunivision:
     name: TelevisaUnivision
     type: media
@@ -15897,6 +16238,10 @@ organizations:
       note: Partecipante Brussels 2007, 2024
     - person: thomas-leysen
       role: member
+    - person: kristin-skogen-lund
+      role: steering
+      from: 2015
+      note: European Treasurer, Head Norwegian delegation
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -16810,6 +17155,9 @@ organizations:
       from: 2008
       to: 2017
       note: Managing Director
+    - person: nicolai-tangen
+      role: member
+      note: Davos participant
     - person: jean-claude-juncker
       role: ygl
       from: 1995
@@ -17093,6 +17441,9 @@ organizations:
     - person: thomas-jordan
       role: member
       note: Speaker Davos
+    - person: anders-opedal
+      role: member
+      note: Agenda Contributor
     - org: bilderberg
       role: partner
     - org: fmi
