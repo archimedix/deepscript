@@ -1,5 +1,3 @@
-Equinor (oil & gas norvegese)
-
 1. FONDO SOVRANO (GPFG) - Il Centro di Gravità
 
   Il Government Pension Fund Global ($1.9 trilioni) è il più grande fondo sovrano al mondo, possiede ~1.5% di tutte le società quotate globalmente.

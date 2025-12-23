@@ -510,6 +510,36 @@ persons:
       from: 2021
       to: 2024
       note: Co-owner 10% via PCP Capital Partners, poi 6%, exit luglio 2024
+  ana-botin:
+    born: 1960
+    nationality: spagnola
+    family: botin
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee, hosted 2024 Madrid meeting
+    - org: wef
+      role: member
+      note: Davos participant, IBC member
+    - org: jpmorgan
+      role: executive
+      from: 1981
+      to: 1988
+      note: Trading floor, New York
+    - org: coca-cola
+      role: board
+      from: 2013
+      note: Board of Directors
+    - org: banco-santander
+      role: chairman
+      from: 2014
+      note: Executive Chairman, 4th generation Botín
+    - org: real-instituto-elcano
+      role: board
+      note: Santander representative, Board of Trustees
+    relations:
+    - person: emilio-botin
+      type: daughter
   anders-opedal:
     born: 1968
     nationality: NOR
@@ -840,6 +870,13 @@ persons:
     - org: il-giornale
       role: owner
       from: 2024
+  antonio-brufau:
+    born: 1948
+    nationality: ESP
+    affiliations:
+    - org: real-instituto-elcano
+      role: board
+      note: Repsol representative, Board of Trustees
   antonio-costa:
     born: 1961
     nationality: PRT
@@ -1723,6 +1760,33 @@ persons:
       from: 2014
       to: 2021
       note: 'Turnaround: saved PSA from bankruptcy, acquired Opel 2017'
+  carlos-torres-vila:
+    born: 1966
+    nationality: spagnola
+    affiliations:
+    - org: wef
+      role: member
+      note: International Business Council (IBC) member, Davos regular
+    - org: mckinsey
+      role: partner
+      from: 1990
+      to: 2002
+      note: Partner from 1997
+    - org: bbva
+      role: chairman
+      from: 2019
+      note: Chairman since Jan 2019, CEO 2015-2018
+    - org: endesa
+      role: executive
+      from: 2002
+      to: 2008
+      note: Director Strategy, then CFO
+    - org: real-instituto-elcano
+      role: board
+      note: BBVA representative, Board of Trustees
+    relations:
+    - person: francisco-gonzalez
+      type: successor
   caroline-de-spoelberch:
     nationality: BEL
     affiliations:
@@ -1807,6 +1871,15 @@ persons:
       role: minister
       from: 2021
       note: Agriculture Minister
+  cesar-alierta:
+    born: 1945
+    nationality: ESP
+    affiliations:
+    - org: telefonica
+      role: chairman
+      from: 2000
+      to: 2016
+      note: Chairman
   chaim-weizmann:
     born: 1874
     died: 1952
@@ -1878,6 +1951,14 @@ persons:
       role: leader
       from: 2022
       note: Head of the Commonwealth
+  charles-powell:
+    born: 1960
+    nationality: ESP/GBR
+    affiliations:
+    - org: real-instituto-elcano
+      role: executive
+      from: 2012
+      note: Director
   charlie-munger:
     born: 1924
     died: 2023
@@ -3129,6 +3210,17 @@ persons:
       from: 1955
       to: 1972
       note: Founded Telesistema Mexicano (predecessor)
+  emilio-botin:
+    born: 1934
+    died: 2014
+    nationality: spagnola
+    family: botin
+    affiliations:
+    - org: banco-santander
+      role: chairman
+      from: 1986
+      to: 2014
+      note: Executive Chairman
   emma-walmsley:
     born: 1969
     nationality: British
@@ -3545,6 +3637,26 @@ persons:
     - org: aspen-romania
       role: member
       note: Speaker
+  felipe-gonzalez:
+    born: 1942
+    nationality: ESP
+    affiliations:
+    - org: real-instituto-elcano
+      role: board
+      from: 2001
+      note: Ex-PM, Board of Trustees
+  felipe-vi:
+    born: 1968
+    nationality: spagnola
+    family: borbon
+    affiliations:
+    - org: governo-spagna
+      role: leader
+      from: 2014
+      note: King of Spain
+    relations:
+    - person: juan-carlos-i
+      type: son
   felix-warburg:
     born: 1871
     died: 1937
@@ -3616,6 +3728,25 @@ persons:
       role: executive
       from: 2019
       note: CEO; Managing General Partner
+  florentino-perez:
+    born: 1947
+    nationality: ESP
+    affiliations:
+    - org: faes
+      role: member
+      note: ACS donor to FAES (Aznar foundation)
+    - org: real-madrid
+      role: chairman
+      from: 2009
+      note: President (also 2000-2006)
+    - org: acs-group
+      role: chairman
+      from: 1997
+      note: Chairman & CEO, ~13% stake
+    - org: european-super-league
+      role: chairman
+      from: 2021
+      note: Founding Chairman
   frances-haugen:
     born: 1983
     nationality: USA
@@ -3632,6 +3763,15 @@ persons:
     - org: pinterest
       role: operative
       note: Product manager, algorithmic systems
+  francisco-gonzalez:
+    born: 1944
+    nationality: spagnola
+    affiliations:
+    - org: bbva
+      role: chairman
+      from: 2000
+      to: 2018
+      note: Chairman 2000-2018
   franciscus-welirang:
     nationality: IDN
     note: CEO Bogasari, genero Sudono Salim
@@ -5168,6 +5308,26 @@ persons:
     - org: quantum-pacific
       role: founder
       note: Principal owner
+  ignacio-galan:
+    born: 1950
+    nationality: ESP
+    affiliations:
+    - org: wef
+      role: member
+      from: 2018
+      note: International Council, Chair Electricity Cluster
+    - org: ert
+      role: steering
+      note: Board and Steering Committee
+    - org: jpmorgan-international-council
+      role: member
+    - org: real-instituto-elcano
+      role: board
+      note: Board of Trustees
+    - org: iberdrola
+      role: chairman
+      from: 2006
+      note: Executive Chairman (CEO dal 2001)
   igor-bogudlov:
     nationality: ISR
     note: Paragon CTO
@@ -6694,6 +6854,14 @@ persons:
       role: founder
       from: 2006
       note: Co-founder & Managing Partner
+  jose-juan-ruiz:
+    born: 1957
+    nationality: ESP
+    affiliations:
+    - org: real-instituto-elcano
+      role: chairman
+      from: 2021
+      note: President
   jose-luis-zapatero:
     born: 1960
     nationality: ESP
@@ -6705,6 +6873,19 @@ persons:
       role: leader
       from: 2004
       to: 2011
+    - org: real-instituto-elcano
+      role: board
+      from: 2011
+      note: Ex-PM, Board of Trustees
+  jose-maria-alvarez-pallete:
+    born: 1963
+    nationality: ESP
+    affiliations:
+    - org: telefonica
+      role: executive
+      from: 2016
+      to: 2025
+      note: CEO/Chairman
   jose-maria-aznar:
     born: 1953
     nationality: ESP
@@ -6725,6 +6906,28 @@ persons:
       role: board
       from: 2006
       note: 4m-cumulative-salary
+    - org: atlantic-council
+      role: board
+      note: International Advisory Board
+    - org: georgetown-university
+      role: member
+      from: 2004
+      note: Distinguished Scholar in the Practice of Global Leadership
+    - org: club-de-madrid
+      role: member
+      note: Former Head of Government
+    - org: endesa
+      role: board
+      from: 2005
+      note: Board member, privatised Endesa as PM
+    - org: faes
+      role: chairman
+      from: 2004
+      note: Executive President, founder
+    - org: real-instituto-elcano
+      role: board
+      from: 2001
+      note: Ex-PM, Board of Trustees
     relations:
     - person: rupert-murdoch
       type: professional
@@ -6818,6 +7021,28 @@ persons:
     died: 1943
     nationality: USA
     family: morgan
+  juan-carlos-i:
+    born: 1938
+    nationality: spagnola
+    family: borbon
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Multiple attendances as head of state
+    - org: governo-spagna
+      role: leader
+      from: 1975
+      to: 2014
+      note: King of Spain
+  juan-villalonga:
+    born: 1953
+    nationality: ESP
+    affiliations:
+    - org: telefonica
+      role: chairman
+      from: 1996
+      to: 2000
+      note: Chairman (amico Aznar, privatizzazione)
   julian-assange:
     born: 1971
     nationality: AUS
@@ -8236,6 +8461,13 @@ persons:
     - person: norbert-becker
       type: business_partner
       note: Co-fondatori CBP 2007
+  marc-murtra:
+    nationality: ESP
+    affiliations:
+    - org: telefonica
+      role: chairman
+      from: 2025
+      note: Executive Chairman
   marc-olivier-laurent:
     nationality: FRA
     affiliations:
@@ -8399,6 +8631,14 @@ persons:
     born: 1955
     nationality: Italia
     family: agnelli-elkann
+  mariano-rajoy:
+    born: 1955
+    nationality: ESP
+    affiliations:
+    - org: real-instituto-elcano
+      role: board
+      from: 2018
+      note: Ex-PM, Board of Trustees
   marie-josee-kravis:
     nationality: CAN
     affiliations:
@@ -9865,6 +10105,35 @@ persons:
       role: founder
       from: 2008
       note: Co-founder, CMO
+  pablo-hernandez-de-cos:
+    born: 1971
+    nationality: ESP
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Participant 2024 (Madrid), 2025
+    - org: bce
+      role: board
+      from: 2018
+      to: 2024
+      note: Governing Council member (ex-officio as Bank of Spain Governor)
+    - org: bis
+      role: executive
+      from: 2025
+      note: General Manager
+    - org: real-instituto-elcano
+      role: board
+      note: Board of Trustees (as Bank of Spain Governor)
+    - org: banco-de-espana
+      role: executive
+      from: 2018
+      to: 2024
+      note: Governor
+    - org: basel-committee
+      role: chairman
+      from: 2019
+      to: 2024
+      note: Chair
   pablo-isla:
     born: 1964
     nationality: ESP

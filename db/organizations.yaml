@@ -174,6 +174,18 @@ organizations:
     headquarters: New York, USA
     status: active
     sector: civil rights
+  acs-group:
+    name: ACS Group
+    type: company
+    founded: 1997
+    headquarters: Madrid, Spain
+    status: active
+    sector: construction
+    stakeholders:
+    - person: florentino-perez
+      role: chairman
+      from: 1997
+      note: Chairman & CEO, ~13% stake
   action-committee-use:
     name: Action Committee for the United States of Europe
     type: forum
@@ -1123,6 +1135,9 @@ organizations:
     - person: michael-hayden
       role: board
       note: Board member
+    - person: jose-maria-aznar
+      role: board
+      note: International Advisory Board
     - person: dimitris-papalexopoulos
       role: board
       note: International Advisory Board
@@ -1489,6 +1504,35 @@ organizations:
     stakeholders:
     - person: giovanni-bazoli
       role: executive
+  banco-de-espana:
+    name: Banco de Espana
+    type: centralbank
+    founded: 1782
+    headquarters: Madrid, Spain
+    status: active
+    stakeholders:
+    - person: pablo-hernandez-de-cos
+      role: executive
+      from: 2018
+      to: 2024
+      note: Governor
+  banco-santander:
+    name: Banco Santander
+    type: bank
+    founded: 1857
+    headquarters: Santander, Spain
+    status: active
+    sector: banking
+    stakeholders:
+    - person: ana-botin
+      role: chairman
+      from: 2014
+      note: Executive Chairman, 4th generation Botín
+    - person: emilio-botin
+      role: chairman
+      from: 1986
+      to: 2014
+      note: Executive Chairman
   bangkok-bank:
     name: Bangkok Bank
     type: bank
@@ -1651,6 +1695,18 @@ organizations:
     founded: 1762
     headquarters: Londra
     status: active
+  basel-committee:
+    name: Basel Committee on Banking Supervision
+    type: agency
+    founded: 1974
+    headquarters: Basel, Switzerland
+    status: active
+    stakeholders:
+    - person: pablo-hernandez-de-cos
+      role: chairman
+      from: 2019
+      to: 2024
+      note: Chair
   basf:
     name: BASF SE
     type: company
@@ -1736,6 +1792,23 @@ organizations:
       from: 1941
       to: 1943
       note: Produttore Eastern Service, propaganda anti-nazista
+  bbva:
+    name: Banco Bilbao Vizcaya Argentaria
+    type: bank
+    founded: 1857
+    headquarters: Bilbao, Spain
+    status: active
+    sector: banking
+    stakeholders:
+    - person: carlos-torres-vila
+      role: chairman
+      from: 2019
+      note: Chairman since Jan 2019, CEO 2015-2018
+    - person: francisco-gonzalez
+      role: chairman
+      from: 2000
+      to: 2018
+      note: Chairman 2000-2018
   bca:
     name: Bank Central Asia
     type: bank
@@ -1825,6 +1898,11 @@ organizations:
       role: board
       from: 2015
       note: Governing Council (ex officio come Gov. BdF)
+    - person: pablo-hernandez-de-cos
+      role: board
+      from: 2018
+      to: 2024
+      note: Governing Council member (ex-officio as Bank of Spain Governor)
     - org: bis
       role: partner
     - org: bank-of-greece
@@ -2384,6 +2462,15 @@ organizations:
       role: member
       from: 2016
       note: Participant 2016 Dresden
+    - person: ana-botin
+      role: steering
+      note: Steering Committee, hosted 2024 Madrid meeting
+    - person: juan-carlos-i
+      role: member
+      note: Multiple attendances as head of state
+    - person: pablo-hernandez-de-cos
+      role: member
+      note: Participant 2024 (Madrid), 2025
     - org: trilaterale
       role: partner
   biontech:
@@ -2467,6 +2554,10 @@ organizations:
       from: 2012
       to: 2015
       note: Adviser Hong Kong
+    - person: pablo-hernandez-de-cos
+      role: executive
+      from: 2025
+      note: General Manager
     - org: bce
       role: partner
     - org: bank-of-greece
@@ -3958,6 +4049,9 @@ organizations:
     headquarters: Madrid, Spain
     status: active
     stakeholders:
+    - person: jose-maria-aznar
+      role: member
+      note: Former Head of Government
     - person: francois-hollande
       role: member
       from: 2019
@@ -4092,6 +4186,10 @@ organizations:
     - person: anna-diamantopoulou
       role: board
       note: Board of Directors Coca-Cola HBC
+    - person: ana-botin
+      role: board
+      from: 2013
+      note: Board of Directors
     - org: berkshire-hathaway
       role: stake
       share: 0.093
@@ -5473,6 +5571,22 @@ organizations:
       share: 100
       from: 2020
       note: Acquired Endemol Shine Group
+  endesa:
+    name: Endesa
+    type: company
+    headquarters: Madrid, Spain
+    status: active
+    sector: energy
+    stakeholders:
+    - person: jose-maria-aznar
+      role: board
+      from: 2005
+      note: Board member, privatised Endesa as PM
+    - person: carlos-torres-vila
+      role: executive
+      from: 2002
+      to: 2008
+      note: Director Strategy, then CFO
   eni:
     name: ENI
     type: company
@@ -5644,6 +5758,9 @@ organizations:
     - person: helge-lund
       role: member
       note: via BP and Novo Nordisk chairmanship
+    - person: ignacio-galan
+      role: steering
+      note: Board and Steering Committee
   escher-wyss:
     name: Escher Wyss AG
     type: company
@@ -5841,6 +5958,17 @@ organizations:
     - person: mark-schneider
       role: member
       note: Member (as Nestlé CEO)
+  european-super-league:
+    name: European Super League
+    type: forum
+    founded: 2021
+    headquarters: Madrid, Spain
+    status: active
+    stakeholders:
+    - person: florentino-perez
+      role: chairman
+      from: 2021
+      note: Founding Chairman
   exim-bank-china:
     name: Export-Import Bank of China
     type: bank
@@ -5899,6 +6027,20 @@ organizations:
     - person: keir-starmer
       role: board
       note: Former executive committee member
+  faes:
+    name: Fundacion para el Analisis y los Estudios Sociales
+    type: thinktank
+    founded: 1989
+    headquarters: Madrid, Spain
+    status: active
+    stakeholders:
+    - person: jose-maria-aznar
+      role: chairman
+      from: 2004
+      note: Executive President, founder
+    - person: florentino-perez
+      role: member
+      note: ACS donor to FAES (Aznar foundation)
   fanatics:
     name: Fanatics
     type: company
@@ -6919,6 +7061,10 @@ organizations:
     headquarters: Washington DC, USA
     status: active
     stakeholders:
+    - person: jose-maria-aznar
+      role: member
+      from: 2004
+      note: Distinguished Scholar in the Practice of Global Leadership
     - person: theodore-kyriakou
       role: board
       note: Board of Regents; alumnus cum laude
@@ -8603,6 +8749,15 @@ organizations:
       from: 2018
       to: 2023
       note: First Vice PM; Min. Economy
+    - person: juan-carlos-i
+      role: leader
+      from: 1975
+      to: 2014
+      note: King of Spain
+    - person: felipe-vi
+      role: leader
+      from: 2014
+      note: King of Spain
   governo-svezia:
     name: Governo Svezia
     type: government
@@ -9525,6 +9680,24 @@ organizations:
     - org: baic
       share: 50%
       note: Beijing Hyundai JV 50-50
+  iberdrola:
+    name: Iberdrola S.A.
+    type: company
+    founded: 1992
+    headquarters: Bilbao, Spain
+    status: active
+    sector: energy
+    stakeholders:
+    - person: ignacio-galan
+      role: chairman
+      from: 2006
+      note: Executive Chairman (CEO dal 2001)
+    - org: blackrock
+      share: 5.4
+    - org: qia
+      share: 9
+      from: 2011
+      note: Largest shareholder
   iblac-shanghai:
     name: International Business Leaders Advisory Council for the Mayor of Shanghai
     type: forum
@@ -10409,6 +10582,11 @@ organizations:
       from: 1984
       to: 1990
       note: Morgan Guaranty Trust → JP Morgan Securities London VP
+    - person: ana-botin
+      role: executive
+      from: 1981
+      to: 1988
+      note: Trading floor, New York
   jpmorgan-chase:
     name: JPMorgan Chase
     type: bank
@@ -10450,6 +10628,8 @@ organizations:
     - person: henry-kissinger
       role: member
     - person: john-howard
+      role: member
+    - person: ignacio-galan
       role: member
   jtbc:
     name: JTBC
@@ -11492,6 +11672,11 @@ organizations:
       from: 1991
       to: 1993
       note: Management consultant
+    - person: carlos-torres-vila
+      role: partner
+      from: 1990
+      to: 2002
+      note: Partner from 1997
   mediacorp:
     name: Mediacorp Pte Ltd
     type: media
@@ -13786,6 +13971,68 @@ organizations:
     - org: cairo-communication
       share: controlling
       from: 2016
+  real-instituto-elcano:
+    name: Real Instituto Elcano
+    type: thinktank
+    founded: 2001
+    headquarters: Madrid, Spain
+    status: active
+    sector: foreign-policy
+    stakeholders:
+    - person: jose-maria-aznar
+      role: board
+      from: 2001
+      note: Ex-PM, Board of Trustees
+    - person: jose-luis-zapatero
+      role: board
+      from: 2011
+      note: Ex-PM, Board of Trustees
+    - person: ana-botin
+      role: board
+      note: Santander representative, Board of Trustees
+    - person: carlos-torres-vila
+      role: board
+      note: BBVA representative, Board of Trustees
+    - person: charles-powell
+      role: executive
+      from: 2012
+      note: Director
+    - person: jose-juan-ruiz
+      role: chairman
+      from: 2021
+      note: President
+    - person: felipe-gonzalez
+      role: board
+      from: 2001
+      note: Ex-PM, Board of Trustees
+    - person: mariano-rajoy
+      role: board
+      from: 2018
+      note: Ex-PM, Board of Trustees
+    - person: ignacio-galan
+      role: board
+      note: Board of Trustees
+    - person: antonio-brufau
+      role: board
+      note: Repsol representative, Board of Trustees
+    - person: pablo-hernandez-de-cos
+      role: board
+      note: Board of Trustees (as Bank of Spain Governor)
+    - org: telefonica
+      role: member
+      from: 2001
+      note: Founding funder, Board of Trustees
+  real-madrid:
+    name: Real Madrid CF
+    type: sportsclub
+    founded: 1902
+    headquarters: Madrid, Spain
+    status: active
+    stakeholders:
+    - person: florentino-perez
+      role: chairman
+      from: 2009
+      note: President (also 2000-2006)
   red-bull:
     name: Red Bull GmbH
     type: company
@@ -13927,6 +14174,11 @@ organizations:
       role: strategic
       share: 15% equity, ~30% voting
       note: Double voting rights
+  repsol:
+    type: company
+    headquarters: Madrid, Spain
+    status: active
+    sector: energy
   repubblica:
     name: La Repubblica
     type: media
@@ -14765,6 +15017,12 @@ organizations:
       from: 2022
       to: 2024
       note: JV with Central Group, sold to PIF after Signa collapse
+  sepi:
+    name: SEPI
+    type: company
+    headquarters: Madrid, Spain
+    status: active
+    sector: state-holding
   ser-netherlands:
     name: Social-Economic Council
     type: agency
@@ -15428,6 +15686,12 @@ organizations:
     - org: walmart
       role: stake
       share: 0.023
+  stc:
+    name: Saudi Telecom Company
+    type: company
+    headquarters: Riyadh, Saudi Arabia
+    status: active
+    sector: telecom
   stellantis:
     name: Stellantis N.V.
     type: automaker
@@ -15674,6 +15938,41 @@ organizations:
       role: executive
       from: 1998
       to: 1999
+  telefonica:
+    name: Telefonica S.A.
+    type: company
+    founded: 1924
+    headquarters: Madrid, Spain
+    status: active
+    sector: telecom
+    stakeholders:
+    - person: marc-murtra
+      role: chairman
+      from: 2025
+      note: Executive Chairman
+    - person: jose-maria-alvarez-pallete
+      role: executive
+      from: 2016
+      to: 2025
+      note: CEO/Chairman
+    - person: cesar-alierta
+      role: chairman
+      from: 2000
+      to: 2016
+      note: Chairman
+    - person: juan-villalonga
+      role: chairman
+      from: 1996
+      to: 2000
+      note: Chairman (amico Aznar, privatizzazione)
+    - org: sepi
+      share: 10
+      from: 2024
+      note: Largest shareholder
+    - org: stc
+      share: 9.9
+      from: 2023
+      note: 64% owned by PIF Saudi Arabia
   telemundo:
     name: Telemundo
     type: media
@@ -17444,6 +17743,16 @@ organizations:
     - person: anders-opedal
       role: member
       note: Agenda Contributor
+    - person: ana-botin
+      role: member
+      note: Davos participant, IBC member
+    - person: carlos-torres-vila
+      role: member
+      note: International Business Council (IBC) member, Davos regular
+    - person: ignacio-galan
+      role: member
+      from: 2018
+      note: International Council, Chair Electricity Cluster
     - org: bilderberg
       role: partner
     - org: fmi

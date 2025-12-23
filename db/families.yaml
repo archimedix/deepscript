@@ -167,6 +167,28 @@ families:
     - person: yannick-bollore
       generation: 2
       role: heir
+  borbon:
+    origin: Spain/France
+    sector: royalty
+    generations: 5
+    status: active
+    members:
+    - person: juan-carlos-i
+      role: leader
+    - person: felipe-vi
+      role: leader
+  botin:
+    origin: Santander, Spain
+    sector: banking
+    generations: 4
+    status: active
+    members:
+    - person: ana-botin
+      generation: 4
+      role: leader
+    - person: emilio-botin
+      generation: 3
+      role: leader
   bouygues:
     origin: Francia
     founder: Francis Bouygues
