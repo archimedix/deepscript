@@ -10257,6 +10257,26 @@ organizations:
       from: 1890
       to: 1896
       note: Prime Minister Cape Colony
+  governo-ungheria:
+    name: Governo di Ungheria
+    type: government
+    founded: 1989
+    headquarters: Budapest, Ungheria
+    status: active
+    stakeholders:
+    - person: peter-szijjarto
+      role: minister
+      from: 2014
+      note: Min. Affari Esteri e Commercio
+    - person: peter-szijjarto
+      role: advisor
+      from: 2010
+      to: 2012
+      note: Portavoce PM Orbán
+    - person: viktor-orban
+      role: leader
+      from: 2010
+      note: Primo Ministro
   governo-urss:
     name: Governo URSS
     type: government
@@ -13774,6 +13794,21 @@ organizations:
       from: 2016
       to: 2018
       note: Chairman after Nissan acquired controlling stake. Removed Nov 2018 after arrest.
+  mkb-bank:
+    name: MKB Bank (Magyar Kulkereskedelmi Bank)
+    type: bank
+    founded: 1950
+    headquarters: Budapest, Ungheria
+    status: active
+    stakeholders:
+    - person: lorinc-meszaros
+      role: board
+      from: 2017
+      note: Azionista 48.6% via Konzum PE
+    - person: laszlo-szijj
+      role: board
+      from: 2017
+      note: Azionista 33%
   moderna:
     name: Moderna Inc.
     type: pharma
@@ -14976,6 +15011,18 @@ organizations:
       role: owner
       share: 100
       from: 2001
+  opus-global:
+    name: Opus Global Nyrt.
+    type: company
+    founded: 2016
+    headquarters: Budapest, Ungheria
+    status: active
+    sector: holding
+    stakeholders:
+    - person: lorinc-meszaros
+      role: chairman
+      from: 2016
+      note: Proprietario e Chairman
   oracle:
     name: Oracle Corporation
     type: company
@@ -20181,6 +20228,10 @@ organizations:
     - person: donald-tusk
       role: member
       note: Davos participant
+    - person: viktor-orban
+      role: glt
+      from: 1993
+      note: Global Leaders for Tomorrow 1993
     - org: bilderberg
       role: partner
     - org: fmi

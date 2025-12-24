@@ -6416,6 +6416,9 @@ persons:
     - person: otto-skorzeny
       type: handler
       note: Recluto Skorzeny per Mossad
+  istvan-tiborcz:
+    born: 1985
+    nationality: HUN
   ivan-glasenberg:
     born: 1957
     nationality: ZAF
@@ -8788,6 +8791,14 @@ persons:
       from: 2023
       to: 2025
       note: Board member, resigned Nov 2025
+  laszlo-szijj:
+    born: 1957
+    nationality: HUN
+    affiliations:
+    - org: mkb-bank
+      role: board
+      from: 2017
+      note: Azionista 33%
   laurance-rockefeller:
     born: 1910
     died: 2004
@@ -9187,6 +9198,22 @@ persons:
     affiliations:
     - org: ina
       role: executive
+  lorinc-meszaros:
+    born: 1966
+    nationality: HUN
+    affiliations:
+    - org: opus-global
+      role: chairman
+      from: 2016
+      note: Proprietario e Chairman
+    - org: mkb-bank
+      role: board
+      from: 2017
+      note: Azionista 48.6% via Konzum PE
+    relations:
+    - person: laszlo-szijj
+      type: partner
+      note: Partner MKB Bank, costruzioni
   louis-cheung:
     nationality: CHN
     affiliations:
@@ -12227,6 +12254,26 @@ persons:
       role: chairman
       from: 2003
       to: 2009
+  peter-szijjarto:
+    born: 1978
+    nationality: HUN
+    affiliations:
+    - org: governo-ungheria
+      role: minister
+      from: 2014
+      note: Min. Affari Esteri e Commercio
+    - org: governo-ungheria
+      role: advisor
+      from: 2010
+      to: 2012
+      note: Portavoce PM Orbán
+    relations:
+    - person: sergey-lavrov
+      type: counterpart
+      note: Order of Friendship 2021
+    - person: viktor-orban
+      type: protege
+      note: Portavoce poi Ministro
   peter-thiel:
     born: 1967
     nationality: USA
@@ -13910,6 +13957,9 @@ persons:
     - org: stanford-university
       role: member
       note: MS Computer Science 1995 (PhD dropout - founded Google)
+  sergey-lavrov:
+    born: 1950
+    nationality: RUS
   sergio-ermotti:
     born: 1960
     nationality: CHE
@@ -15342,6 +15392,31 @@ persons:
     died: 1990
     nationality: UK
     family: rothschild
+  viktor-orban:
+    born: 1963
+    nationality: HUN
+    affiliations:
+    - org: wef
+      role: glt
+      from: 1993
+      note: Global Leaders for Tomorrow 1993
+    - org: governo-ungheria
+      role: leader
+      from: 2010
+      note: Primo Ministro
+    relations:
+    - person: donald-trump
+      type: ally
+      note: Alleanza conservatrice, CPAC
+    - person: george-soros
+      type: adversary
+      note: Ex-borsista Soros Oxford 1989, ora nemico pubblico
+    - person: istvan-tiborcz
+      type: family
+      note: Genero (marito Rahel Orban)
+    - person: lorinc-meszaros
+      type: ally
+      note: 'Amico infanzia Felcsut, oligarca #1'
   vincent-bollore:
     born: 1952
     nationality: FRA

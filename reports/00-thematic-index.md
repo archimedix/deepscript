@@ -39,6 +39,7 @@ Report che analizzano istituzioni finanziarie, flussi di capitale, e potere econ
 | [Dynasties Private Equity](dynasties-private-equity.md) | 1994-2025 | Dinastie che usano PE |
 | [Political Financing](political-financing.md) | 2010-2025 | Campaign finance, Super PAC, tech donors |
 | [Greece Power Map](greece-power-map.md) | 2001-2018 | Crisi debito, Goldman swap, Troika, tecnocrazia |
+| [Gulf-Europe Pipeline](gulf-europe-pipeline-media.md) | 1974-2025 | Petroldollari in sport, media, infrastrutture EU |
 
 **Eventi correlati:**
 - [Bretton Woods (1944)](../docs/events/1944-bretton-woods.md)
@@ -59,6 +60,7 @@ Report che analizzano forum transnazionali, reti di coordinamento elite, e pipel
 | [Consulting Power Pipeline](consulting-power-pipeline.md) | 1926-2025 | McKinsey come fabbrica di leader, Bob Sternfels hub |
 | [WEF Young Global Leaders](wef-young-global-leaders.md) | 1992-2025 | Programma YGL e impatto |
 | [Revolving Door](revolving-door-ex-leaders.md) | 1995-2024 | Transizioni governo-privato |
+| [Transatlantic Forums](transatlantic-forums-europe-influence.md) | 1949-2025 | NATO, Bilderberg, Trilaterale, WEF, Atlantic Council |
 
 **Eventi correlati:**
 - [Fondazione Trilaterale (1973)](../docs/events/1973-fondazione-trilaterale.md)
@@ -74,6 +76,7 @@ Report e eventi specifici sulla storia italiana.
 |--------|---------|-------|
 | [Nascita del Fascismo](fascismo-nascita-finanziamento.md) | 1914-1926 | Finanziatori: industriali, MI5, Wall Street |
 | [Italy Cold War Theater](italy-cold-war-theater.md) | 1943-1990 | OSS, Gladio, P2, stragi |
+| [Italy Power Map](italy-power-map.md) | 1945-2025 | Mediobanca, CDP, governi tecnici, dynasties |
 
 **Eventi italiani:**
 - [Invasione Sicilia (1943)](../docs/events/1943-invasione-sicilia.md)
@@ -105,7 +108,7 @@ Report che analizzano specifici settori economici.
 ### Automotive
 | Report | Periodo | Focus |
 |--------|---------|-------|
-| [Automotive Dynasties](automotive-dynasties-power.md) | 1931-2024 | Quandt, Porsche-Piech, SWF |
+| [Automotive Global Power Map](automotive-global-power-map.md) | 1931-2024 | 14 gruppi, 7 dinastie, SWF |
 
 ### Luxury
 | Report | Periodo | Focus |
@@ -246,6 +249,42 @@ Report focalizzati su specifiche aree geografiche.
 | [France Power Map](france-power-map.md) | Francia | CAC 40, ENA, famiglie |
 | [Netherlands Power Map](netherlands-power-map.md) | Paesi Bassi | Orange-Nassau, Bilderberg, ASML |
 | [Belgium Power Map](belgium-power-map.md) | Belgio | Capitale EU, Davignon, SWIFT |
+| [Poland Power Map](poland-power-map.md) | Polonia | Retinger, Brzezinski, shock therapy |
+| [Hungary Power Map](hungary-power-map.md) | Ungheria | Stato illiberale, Orban, oligarchi |
+| [Italy Power Map](italy-power-map.md) | Italia | Mediobanca, CDP, governi tecnici |
+| [Luxembourg Power Map](luxembourg-power-map.md) | Lussemburgo | Nassau-Weilburg, 3 PM→Commissione, hub PE |
+| [Norway Power Map](norway-power-map.md) | Norvegia | GPFG $1.9T, Stoltenberg, Brende WEF |
+| [Spain Power Map](spain-power-map.md) | Spagna | Borbone, Santander, Real Elcano |
+| [Switzerland Power Map](switzerland-power-map.md) | Svizzera | UBS, BIS, WEF, commodity trading |
+| [Austria Power Map](austria-power-map.md) | Austria | Vienna hub, Treichl, ponte Est-Ovest |
+
+---
+
+## Ungheria
+
+Report e analisi specifiche sull'Ungheria.
+
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Hungary Power Map](hungary-power-map.md) | 1989-2025 | Stato illiberale, oligarchia di stato, ponte Est-Ovest |
+
+**Nucleo del potere:**
+- [Viktor Orban](../docs/persons/viktor-orban.md) - PM 1998-02, 2010-oggi, WEF GLT 1993
+- [Peter Szijjarto](../docs/persons/peter-szijjarto.md) - Min. Esteri, Order of Friendship Russia
+
+**Oligarchi:**
+- [Lorinc Meszaros](../docs/persons/lorinc-meszaros.md) - #1 Ungheria, $3.2B, amico infanzia Orban
+- [Istvan Tiborcz](../docs/persons/istvan-tiborcz.md) - Genero Orban, BDPST, Granit Bank
+- [Laszlo Szijj](../docs/persons/laszlo-szijj.md) - Costruzioni, autostrade
+
+**Organizzazioni:**
+- [Opus Global](../docs/company/opus-global.md) - Holding Meszaros
+- [MKB Bank](../docs/bank/mkb-bank.md) - Banca oligarchi
+
+**Pattern chiave:**
+- Capitalismo clientelare: lealta' → appalti → ricchezza
+- Cattura mediatica: KESMA 400+ outlet, 77.8% controllo
+- Ponte Est-Ovest: Russia (gas) ↔ Ungheria ↔ USA (CPAC/Trump)
 
 ---
 
@@ -263,6 +302,8 @@ Analisi di pattern/fenomeni attraverso il tempo:
 - [Whistleblowers](whistleblowers-power-exposed.md)
 - [Revolving Door](revolving-door-ex-leaders.md)
 - [Dynasties Private Equity](dynasties-private-equity.md)
+- [Transatlantic Forums](transatlantic-forums-europe-influence.md)
+- [Gulf-Europe Pipeline](gulf-europe-pipeline-media.md)
 
 ### Report Geografici
 Mappe di potere regionali:
@@ -276,6 +317,14 @@ Mappe di potere regionali:
 - [France Power Map](france-power-map.md)
 - [Netherlands Power Map](netherlands-power-map.md)
 - [Belgium Power Map](belgium-power-map.md)
+- [Poland Power Map](poland-power-map.md)
+- [Hungary Power Map](hungary-power-map.md)
+- [Italy Power Map](italy-power-map.md)
+- [Luxembourg Power Map](luxembourg-power-map.md)
+- [Norway Power Map](norway-power-map.md)
+- [Spain Power Map](spain-power-map.md)
+- [Switzerland Power Map](switzerland-power-map.md)
+- [Austria Power Map](austria-power-map.md)
 
 ### Report Settoriali
 Analisi di industrie specifiche:
@@ -290,7 +339,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 29 |
+| **Report totali** | 41 |
 | **Eventi documentati** | 30+ |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |

@@ -184,6 +184,12 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | [SWF Global Power Map](swf-global-power-map.md) | Fondi sovrani |
 | [Intelligence USA-Israel](intelligence-usa-israel.md) | Spyware pipeline |
 | [Dynasties Private Equity](dynasties-private-equity.md) | Dinastie e PE |
+| [Germany Power Map](germany-power-map.md) | Famiglie industriali, DAX, Atlantik-Brucke |
+| [France Power Map](france-power-map.md) | CAC 40, ENA, famiglie |
+| [Netherlands Power Map](netherlands-power-map.md) | Orange-Nassau, Bilderberg, ASML |
+| [Belgium Power Map](belgium-power-map.md) | Capitale EU, Davignon, SWIFT |
+| [Poland Power Map](poland-power-map.md) | Retinger, Brzezinski, shock therapy |
+| [Hungary Power Map](hungary-power-map.md) | Stato illiberale, Orban, oligarchi |
 
 ---
 
@@ -199,12 +205,20 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 | Report | Focus |
 |--------|-------|
-| [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | Investimenti Golfo |
+| [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | Investimenti Golfo USA |
+| [Gulf-Europe Pipeline](gulf-europe-pipeline-media.md) | Petroldollari in sport, media, infrastrutture EU |
 | [Media Power](media-power.md) | Controllo media |
 | [Sport Geopolitics](sport-geopolitics.md) | Sport e soft power |
 | [Korea Power Map](korea-power-map.md) | Corea del Sud |
-| [Automotive Dynasties](automotive-dynasties-power.md) | Industria auto |
+| [Automotive Global Power Map](automotive-global-power-map.md) | 14 gruppi, 7 dinastie |
 | [Microsoft Geopolitical Hub](microsoft-geopolitical-hub.md) | Big Tech |
+| [Transatlantic Forums](transatlantic-forums-europe-influence.md) | NATO, Bilderberg, WEF, Trilaterale |
+| [Italy Power Map](italy-power-map.md) | Mediobanca, CDP, governi tecnici |
+| [Norway Power Map](norway-power-map.md) | GPFG $1.9T, Stoltenberg, Brende |
+| [Switzerland Power Map](switzerland-power-map.md) | UBS, BIS, WEF, neutralita' |
+| [Luxembourg Power Map](luxembourg-power-map.md) | 3 PM→Commissione, hub PE |
+| [Spain Power Map](spain-power-map.md) | Borbone, Santander, Real Elcano |
+| [Austria Power Map](austria-power-map.md) | Vienna hub, ponte Est-Ovest |
 
 ---
 
