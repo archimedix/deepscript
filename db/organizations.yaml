@@ -309,6 +309,18 @@ organizations:
     status: active
     sector: private-equity
     note: Aerospace/defense PE, $7.5B AUM, acquired Paragon 2024, portfolio includes BigBear.ai, Redwire
+  aei:
+    name: American Enterprise Institute
+    type: thinktank
+    founded: 1938
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: radoslaw-sikorski
+      role: executive
+      from: 2002
+      to: 2005
+      note: Resident Fellow, Director New Atlantic Initiative
   affinity-partners:
     name: Affinity Partners
     type: privateequity
@@ -608,6 +620,15 @@ organizations:
     headquarters: Hangzhou, China
     status: active
     sector: tech
+  alior-bank:
+    name: Alior Bank
+    type: bank
+    headquarters: Warsaw, Poland
+    status: active
+    stakeholders:
+    - person: wojciech-kostrzewa
+      role: chairman
+      note: President Supervisory Board
   allen-company:
     name: Allen & Company
     type: bank
@@ -2570,6 +2591,11 @@ organizations:
       from: 1954
       to: 1976
       note: Chairman fino scandalo Lockheed
+    - person: jozef-retinger
+      role: founder
+      from: 1954
+      to: 1960
+      note: Initiator and permanent secretary
     - person: marcus-wallenberg-jr
       role: steering
       from: 1954
@@ -2768,6 +2794,12 @@ organizations:
       role: member
       from: 2018
       note: Bilderberg Torino 2018
+    - person: radoslaw-sikorski
+      role: steering
+      note: Regular participant, Steering Committee member
+    - person: wojciech-kostrzewa
+      role: steering
+      note: Steering Committee member
     - org: trilaterale
       role: partner
   biontech:
@@ -4988,6 +5020,17 @@ organizations:
       from: 1923
       to: 1924
       note: Direttore e AD
+  council-of-europe:
+    name: Council of Europe
+    type: agency
+    founded: 1949
+    headquarters: Strasbourg, France
+    status: active
+    stakeholders:
+    - person: jozef-retinger
+      role: founder
+      from: 1949
+      to: 1960
   cp-all:
     name: CP All
     type: company
@@ -6297,6 +6340,18 @@ organizations:
     - person: jemilah-mahmood
       role: board
       note: Board member
+  epp:
+    name: European People Party
+    type: forum
+    founded: 1976
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: donald-tusk
+      role: chairman
+      from: 2019
+      to: 2022
+      note: President EPP (93% voti)
   eqt:
     name: EQT AB
     type: privateequity
@@ -6615,6 +6670,11 @@ organizations:
       from: 2009
       to: 2014
       note: Primo Presidente permanente
+    - person: donald-tusk
+      role: chairman
+      from: 2014
+      to: 2019
+      note: President of the European Council
   european-forum-alpbach:
     name: European Forum Alpbach
     type: forum
@@ -6627,6 +6687,18 @@ organizations:
       from: 2020
       to: 2024
       note: President
+  european-movement:
+    name: European Movement
+    type: forum
+    founded: 1948
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: jozef-retinger
+      role: founder
+      from: 1948
+      to: 1960
+      note: Honorary Secretary General
   european-parliament:
     name: European Parliament
     type: agency
@@ -6639,6 +6711,11 @@ organizations:
       from: 2009
       to: 2024
       note: MEP Belgium, Brexit Coordinator 2016-2020
+    - person: radoslaw-sikorski
+      role: member
+      from: 2019
+      to: 2023
+      note: MEP, Chair Delegation for US relations
   european-policy-centre:
     name: European Policy Centre
     type: thinktank
@@ -9781,6 +9858,20 @@ organizations:
       role: leader
       from: 2024
       note: Prime Minister
+  governo-polonia:
+    name: Governo della Polonia
+    type: government
+    headquarters: Warsaw, Poland
+    status: active
+    stakeholders:
+    - person: radoslaw-sikorski
+      role: minister
+      from: 2023
+      note: Min. Esteri e Vice PM (2025)
+    - person: donald-tusk
+      role: leader
+      from: 2023
+      note: Prime Minister (terzo mandato)
   governo-portogallo:
     name: Governo Portogallo
     type: government
@@ -13097,6 +13188,17 @@ organizations:
     stakeholders:
     - org: warner-bros-discovery
       share: 100%
+  mbank:
+    name: mBank (ex BRE Bank)
+    type: bank
+    headquarters: Warsaw, Poland
+    status: active
+    stakeholders:
+    - person: wojciech-kostrzewa
+      role: executive
+      from: 1996
+      to: 2004
+      note: CEO (1998-2004)
   mbc-group:
     name: MBC Group
     type: media
@@ -15417,6 +15519,16 @@ organizations:
       role: chairman
       from: 1969
       to: 2004
+  polish-business-roundtable:
+    name: Polish Business Roundtable (Polska Rada Biznesu)
+    type: forum
+    headquarters: Warsaw, Poland
+    status: active
+    stakeholders:
+    - person: wojciech-kostrzewa
+      role: chairman
+      from: 2019
+      note: President (terzo mandato 2023-2025)
   politico:
     name: POLITICO
     type: media
@@ -17531,6 +17643,17 @@ organizations:
     - person: rene-obermann
       role: board
       note: Ex-Director
+  stadler-rail:
+    name: Stadler Rail
+    type: company
+    headquarters: Bussnang, Switzerland
+    status: active
+    sector: railway
+    stakeholders:
+    - person: wojciech-kostrzewa
+      role: board
+      from: 2012
+      note: Board of Directors
   standard-chartered:
     name: Standard Chartered Bank
     type: bank
@@ -20055,6 +20178,9 @@ organizations:
     - person: paolo-magri
       role: member
       note: Europe Policy Group
+    - person: donald-tusk
+      role: member
+      note: Davos participant
     - org: bilderberg
       role: partner
     - org: fmi

@@ -982,6 +982,9 @@ persons:
     - org: governo-germania
       role: minister
       from: 2021
+  anne-applebaum:
+    born: 1964
+    nationality: USA
   anthoni-salim:
     born: 1949
     nationality: IDN
@@ -3223,6 +3226,31 @@ persons:
     - org: governo-usa
       role: leader
       from: 2025
+  donald-tusk:
+    born: 1957
+    nationality: POL
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos participant
+    - org: european-council
+      role: chairman
+      from: 2014
+      to: 2019
+      note: President of the European Council
+    - org: governo-polonia
+      role: leader
+      from: 2023
+      note: Prime Minister (terzo mandato)
+    - org: epp
+      role: chairman
+      from: 2019
+      to: 2022
+      note: President EPP (93% voti)
+    relations:
+    - person: radoslaw-sikorski
+      type: colleague
+      note: Sikorski Min. Esteri nei governi Tusk
   dora-bakoyannis:
     born: 1954
     nationality: GRC
@@ -7979,6 +8007,28 @@ persons:
     born: 1888
     died: 1960
     nationality: POL
+    affiliations:
+    - org: bilderberg
+      role: founder
+      from: 1954
+      to: 1960
+      note: Initiator and permanent secretary
+    - org: european-movement
+      role: founder
+      from: 1948
+      to: 1960
+      note: Honorary Secretary General
+    - org: council-of-europe
+      role: founder
+      from: 1949
+      to: 1960
+    relations:
+    - person: david-rockefeller
+      type: colleague
+      note: Bilderberg co-founders
+    - person: prince-bernhard-netherlands
+      type: colleague
+      note: Bilderberg co-founders, Bernhard was chairman
   jp-morgan:
     born: 1837
     died: 1913
@@ -9024,6 +9074,8 @@ persons:
       from: 1865
       to: 1909
       note: Re dei Belgi
+  leszek-balcerowicz:
+    nationality: POL
   lewis-preston:
     born: 1926
     died: 1995
@@ -12717,6 +12769,34 @@ persons:
       from: 1988
       to: 2022
       note: Co-founder, Executive Co-Chairman
+  radoslaw-sikorski:
+    born: 1963
+    nationality: POL
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Regular participant, Steering Committee member
+    - org: european-parliament
+      role: member
+      from: 2019
+      to: 2023
+      note: MEP, Chair Delegation for US relations
+    - org: governo-polonia
+      role: minister
+      from: 2023
+      note: Min. Esteri e Vice PM (2025)
+    - org: aei
+      role: executive
+      from: 2002
+      to: 2005
+      note: Resident Fellow, Director New Atlantic Initiative
+    relations:
+    - person: anne-applebaum
+      type: spouse
+      note: Married since 1992, two sons
+    - person: jozef-retinger
+      type: successor
+      note: Continua eredita polacca nel Bilderberg Steering Committee
   raffaele-mattioli:
     born: 1895
     died: 1973
@@ -15658,6 +15738,36 @@ persons:
       role: ygl
       from: 2008
       note: Boxing champion, influencer
+  wojciech-kostrzewa:
+    born: 1960
+    nationality: POL
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee member
+    - org: polish-business-roundtable
+      role: chairman
+      from: 2019
+      note: President (terzo mandato 2023-2025)
+    - org: mbank
+      role: executive
+      from: 1996
+      to: 2004
+      note: CEO (1998-2004)
+    - org: alior-bank
+      role: chairman
+      note: President Supervisory Board
+    - org: stadler-rail
+      role: board
+      from: 2012
+      note: Board of Directors
+    relations:
+    - person: leszek-balcerowicz
+      type: advisor
+      note: Economic advisor to Finance Minister Balcerowicz
+    - person: radoslaw-sikorski
+      type: colleague
+      note: Both on Bilderberg Steering Committee
   wolfgang-ischinger:
     born: 1946
     nationality: DEU
