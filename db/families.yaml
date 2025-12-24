@@ -228,6 +228,10 @@ families:
       role: governor-florida
     - person: george-p-bush
       generation: 5
+  caltagirone:
+    origin: ITA
+    sector: construction, media, finance
+    status: active
   chearavanont:
     origin: Thailand/China
     founder: chia-ek-chor
@@ -320,6 +324,16 @@ families:
       generation: 2
     - person: caroline-de-spoelberch
       generation: 6
+  del-vecchio:
+    origin: ITA
+    founder: leonardo-del-vecchio
+    sector: eyewear, finance
+    generations: 2
+    status: active
+    members:
+    - person: leonardo-del-vecchio
+      generation: 1
+      role: founder
   dupont:
     origin: Francia/USA
     founder: E.I. du Pont
@@ -366,6 +380,15 @@ families:
     - person: bill-ford-jr
       generation: 4
       role: chairman
+  habsburg:
+    origin: Austria/Switzerland
+    founder: Radbot von Klettgau
+    sector: royalty
+    generations: 30
+    status: active
+    members:
+    - person: karl-von-habsburg
+      role: head
   hartono:
     origin: Indonesia
     founder: oei-wie-gwan

@@ -94,6 +94,23 @@ persons:
     - org: new-york-times
       role: publisher
       from: 2018
+  agostino-scornajenchi:
+    nationality: ITA
+    affiliations:
+    - org: cdp
+      role: executive
+      from: 2024
+      to: 2025
+      note: Head Venture Capital
+    - org: snam
+      role: executive
+      from: 2025
+      note: CEO
+    - org: terna
+      role: executive
+      from: 2017
+      to: 2023
+      note: CFO
   ajit-jain:
     born: 1951
     nationality: IND
@@ -212,12 +229,31 @@ persons:
     affiliations:
     - org: rand-corporation
       role: advisor
+  alberta-figari:
+    nationality: ITA
+    affiliations:
+    - org: telecom-italia
+      role: chairman
+      from: 2024
+      note: Prima donna presidente
+  alberto-nagel:
+    nationality: ITA
+    affiliations:
+    - org: mediobanca
+      role: executive
+      from: 2003
+      to: 2025
+      note: CEO
   alberto-pirelli:
     born: 1882
     died: 1971
     nationality: ITA
-    note: Industriale Pirelli, diplomatico economico, negoziatore riparazioni guerra
+    note: Industriale, fondatore ISPI, figlio di Giovanni Battista Pirelli
     affiliations:
+    - org: ispi
+      role: chairman
+      from: 1935
+      note: First President, founder
     - org: confindustria
       role: chairman
       from: 1934
@@ -278,6 +314,41 @@ persons:
       from: 2014
       to: 2015
       note: Developer app thisisyourdigitallife
+  alessandro-benetton:
+    born: 1964
+    nationality: ITA
+    affiliations:
+    - org: goldman-sachs
+      role: member
+      from: 1988
+      to: 1989
+      note: Analyst M&A London
+    - org: edizione
+      role: chairman
+      from: 2022
+    - org: atlantia
+      role: chairman
+      from: 2023
+      note: Vice Chairman
+  alessandro-caltagirone:
+    nationality: ITA
+    affiliations:
+    - org: acea
+      role: board
+      note: Consigliere (rappresentante famiglia Caltagirone)
+  alessandro-profumo:
+    nationality: ITA
+    affiliations:
+    - org: unicredit
+      role: executive
+      from: 1997
+      to: 2010
+      note: CEO Credito Italiano poi UniCredit
+    - org: leonardo
+      role: executive
+      from: 2017
+      to: 2023
+      note: CEO 2017-2023
   alexander-de-croo:
     born: 1975
     nationality: BEL
@@ -328,10 +399,19 @@ persons:
       note: CEO
   alexander-schallenberg:
     born: 1969
-    nationality: AUT
+    nationality: austriaca
     affiliations:
+    - org: wef
+      role: member
     - org: collegio-europa
-      role: alumnus
+      role: member
+      note: Alumni, European Law
+    - org: governo-austria
+      role: leader
+      from: 2025
+      note: Federal Chancellor
+    - org: globsec
+      role: member
   alexander-stubb:
     born: 1968
     nationality: FIN
@@ -404,6 +484,13 @@ persons:
       role: founder
       from: 1863
       to: 1894
+  alfred-stern:
+    nationality: austriaca
+    affiliations:
+    - org: omv
+      role: executive
+      from: 2021
+      note: CEO
   alice-walton:
     born: 1949
     nationality: USA
@@ -488,6 +575,26 @@ persons:
     - person: adolf-eichmann
       type: subordinate
       note: Braccio destro, "il mio miglior uomo"
+  altiero-spinelli:
+    born: 1907
+    died: 1986
+    nationality: ITA
+    affiliations:
+    - org: parlamento-europeo
+      role: member
+      from: 1979
+      to: 1986
+      note: Eurodeputato; autore Progetto Trattato UE 1984
+    - org: commissione-europea
+      role: executive
+      from: 1970
+      to: 1976
+      note: Commissario Europeo
+    - org: iai
+      role: founder
+      from: 1965
+      to: 1970
+      note: Fondatore e primo Direttore
   alvin-jiang:
     born: 1986
     nationality: CHN
@@ -510,6 +617,14 @@ persons:
       from: 2021
       to: 2024
       note: Co-owner 10% via PCP Capital Partners, poi 6%, exit luglio 2024
+  amos-genish:
+    nationality: ISR
+    affiliations:
+    - org: telecom-italia
+      role: executive
+      from: 2017
+      to: 2018
+      note: CEO, nominato da Vivendi
   ana-botin:
     born: 1960
     nationality: spagnola
@@ -607,6 +722,52 @@ persons:
       role: executive
       from: 2021
       note: CEO GoTo Group
+  andrea-mangoni:
+    born: 1963
+    nationality: ITA
+    affiliations:
+    - org: atlantia
+      role: executive
+      from: 2023
+      note: CEO
+  andrea-orcel:
+    born: 1963
+    nationality: ITA
+    affiliations:
+    - org: wef
+      role: member
+      note: Regular Davos attendee, soprannominato "Mr Davos"
+    - org: goldman-sachs
+      role: executive
+      from: 1988
+      to: 1989
+      note: Fixed Income London
+    - org: ubs
+      role: executive
+      from: 2012
+      to: 2018
+      note: President Investment Bank
+    - org: unicredit
+      role: executive
+      from: 2021
+      note: Group CEO
+    - org: merrill-lynch
+      role: executive
+      from: 1992
+      to: 2012
+      note: Head Global Origination, Investment Banking
+    - org: santander
+      role: executive
+      from: 2018
+      to: 2019
+      note: CEO designato, offerta revocata - vinto €68m risarcimento
+  andrea-sironi:
+    nationality: ITA
+    affiliations:
+    - org: generali
+      role: chairman
+      from: 2025
+      note: Presidente indipendente
   andreas-dracopoulos:
     born: 1966
     nationality: GRC
@@ -663,6 +824,36 @@ persons:
       from: 1993
       to: 1996
       note: PM secondo mandato
+  andreas-treichl:
+    born: 1952
+    nationality: austriaca
+    affiliations:
+    - org: open-society
+      role: advisor
+      note: European Advisory Board
+    - org: trilateral-commission
+      role: member
+      note: European Group
+    - org: ecfr
+      role: member
+      note: Council Member
+    - org: globsec
+      role: advisor
+      note: International Advisory Council
+    - org: erste-group
+      role: executive
+      from: 1997
+      to: 2019
+      note: CEO
+    - org: erste-foundation
+      role: founder
+      from: 2003
+      note: Chairman
+    - org: european-forum-alpbach
+      role: chairman
+      from: 2020
+      to: 2024
+      note: President
   andree-salim:
     nationality: IDN
     note: Secondogenito, QAF Ltd Singapore (Gardenia bread)
@@ -896,6 +1087,14 @@ persons:
       role: chairman
       from: 2003
       note: Longest-serving Liga Portugal president
+  antonio-tajani:
+    born: 1953
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 2022
+      note: Vice-Presidente del Consiglio, Ministro Esteri (governo Meloni)
   antony-blinken:
     born: 1962
     nationality: USA
@@ -1078,6 +1277,34 @@ persons:
       role: chairman
       from: 2021
       note: Chair Supervisory Board; membro dal 2008
+  barbara-marinali:
+    born: 1964
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: executive
+      from: 2006
+      to: 2020
+      note: DG Infrastrutture stradali MIT 2009-13; Dir. Segr. CIPE 2006-08; Autorità Trasporti 2013-20
+    - org: snam
+      role: advisor
+      from: 2020
+      to: 2022
+      note: Senior Advisor CEO
+    - org: open-fiber
+      role: chairman
+      from: 2021
+      to: 2023
+      note: Presidente
+    - org: webuild
+      role: board
+      from: 2021
+      to: 2024
+      note: Independent Director
+    - org: acea
+      role: chairman
+      from: 2023
+      note: Presidente
   bart-de-wever:
     born: 1970
     nationality: BEL
@@ -1393,6 +1620,19 @@ persons:
       role: leader
       from: 1983
       to: 1987
+  biagio-mazzotta:
+    born: 1962
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: executive
+      from: 1989
+      to: 2024
+      note: Ragioniere Generale dello Stato 2019-2024
+    - org: fincantieri
+      role: chairman
+      from: 2024
+      note: Chairman Board of Directors
   bill-anderson:
     nationality: USA
     affiliations:
@@ -1555,6 +1795,16 @@ persons:
       role: board
       to: 2013
       note: Board Member (resigned when became Foreign Minister)
+  boris-biancheri:
+    died: 2011
+    nationality: ITA
+    note: Diplomat, ISPI President 1997-2011
+    affiliations:
+    - org: ispi
+      role: chairman
+      from: 1997
+      to: 2011
+      note: President - revitalized institute
   boris-pistorius:
     born: 1960
     nationality: DEU
@@ -1692,6 +1942,8 @@ persons:
       role: leader
       from: 1979
       to: 1993
+    - org: aspen-italia
+      role: member
   carlo-de-benedetti:
     born: 1934
     nationality: ITA
@@ -1700,6 +1952,41 @@ persons:
       role: founder
       from: 1983
       note: Fondatore (Olivetti)
+  carlo-malacarne:
+    nationality: ITA
+    affiliations:
+    - org: snam
+      role: chairman
+      from: 2016
+      to: 2022
+      note: Chairman
+  carlo-messina:
+    born: 1962
+    nationality: ITA
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos attendee, WEF 2021 opening ceremony
+    - org: banco-ambrosiano-veneto
+      role: executive
+      from: 1995
+      to: 2002
+      note: Head of Planning
+    - org: intesa-sanpaolo
+      role: executive
+      from: 2013
+      note: Managing Director and CEO
+    - org: trilateral-commission
+      role: member
+    - org: banca-nazionale-del-lavoro
+      role: executive
+      from: 1987
+      to: 1992
+      note: Manager Corporate Finance
+    - org: universita-bocconi
+      role: board
+      from: 2014
+      note: Board of Directors
   carlos-ghosn:
     born: 1954
     nationality: FRA
@@ -1804,6 +2091,14 @@ persons:
       role: board
       from: 2020
       note: Supervisory Board member
+  catia-bastioli:
+    nationality: ITA
+    affiliations:
+    - org: terna
+      role: chairman
+      from: 2014
+      to: 2020
+      note: Presidente
   cc-wei:
     born: 1955
     nationality: TWN
@@ -2276,6 +2571,40 @@ persons:
       from: 2016
       to: 2025
       note: Board member 2016-2025, ex-McKinsey
+  claudio-de-conto:
+    nationality: ITA
+    affiliations:
+    - org: prysmian
+      role: chairman
+      from: 2021
+      to: 2024
+      note: Chairman
+  claudio-descalzi:
+    born: 1955
+    nationality: ITA
+    affiliations:
+    - org: wef
+      role: member
+      note: Co-Chair Oil and Gas Governors Community (2025)
+    - org: cfr
+      role: advisor
+      from: 2015
+      note: Global Board of Advisors
+    - org: eni
+      role: executive
+      from: 2014
+      note: CEO dal 2014, quarto mandato
+    - org: ert
+      role: steering
+      from: 2014
+      note: Member, Steering Committee dal 2025
+    - org: atlantic-council
+      role: member
+      note: Distinguished Business Leadership Award 2022
+    relations:
+    - person: paolo-scaroni
+      type: successor
+      note: Descalzi successore di Scaroni come CEO ENI
   cofer-black:
     born: 1950
     nationality: USA
@@ -2358,6 +2687,51 @@ persons:
       role: founder
       from: 1933
       to: 1970
+  corrado-passera:
+    born: 1954
+    nationality: ITA
+    affiliations:
+    - org: wef
+      role: member
+      note: International Business Council, Global Agenda Councils
+    - org: governo-italia
+      role: minister
+      from: 2011
+      to: 2013
+      note: Ministro Sviluppo Economico e Infrastrutture (governo Monti)
+    - org: intesa-sanpaolo
+      role: executive
+      from: 2002
+      to: 2011
+      note: CEO Banca Intesa 2002-06, CEO Intesa Sanpaolo 2007-11
+    - org: mckinsey
+      role: partner
+      from: 1980
+      to: 1985
+      note: Consultant, banking e insurance
+    - org: poste-italiane
+      role: executive
+      from: 1998
+      to: 2002
+      note: CEO, ristrutturazione e creazione BancoPosta
+    - org: cir
+      role: executive
+      from: 1985
+      to: 1990
+      note: Assistente CEO, poi General Manager
+    - org: olivetti
+      role: executive
+      from: 1990
+      to: 1998
+      note: Lancio Omnitel e Infostrada
+    - org: illimity
+      role: founder
+      from: 2018
+      note: Fondatore e CEO
+    relations:
+    - person: vittorio-colao
+      type: colleague
+      note: Entrambi McKinsey, Passera lancio Omnitel (poi Vodafone Italia)
   cyrille-bollore:
     born: 1986
     nationality: FRA
@@ -2446,6 +2820,30 @@ persons:
     affiliations:
     - org: trilateral-commission
       role: member
+  daniele-franco:
+    born: 1953
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 2021
+      to: 2022
+      note: Ministro Economia e Finanze (Draghi)
+    - org: governo-italia
+      role: executive
+      from: 2013
+      to: 2019
+      note: Ragioniere Generale dello Stato
+    - org: banca-italia
+      role: executive
+      from: 1979
+      to: 2021
+      note: Economista, poi Senior Deputy Governor (2020-21)
+    - org: esm
+      role: board
+      from: 2021
+      to: 2022
+      note: Board of Governors (ex officio Min. Finanze)
   daria-kaleniuk:
     born: 1985
     nationality: UKR
@@ -2454,6 +2852,14 @@ persons:
       role: ygl
       from: 2019
       note: Director Anti-Corruption Action Centre
+  dario-scannapieco:
+    born: 1967
+    nationality: ITA
+    affiliations:
+    - org: cdp
+      role: executive
+      from: 2021
+      note: CEO, riconfermato 2024
   david-abshire:
     born: 1926
     died: 2014
@@ -2633,6 +3039,13 @@ persons:
     - org: moderna
       role: board
       note: Board member, Co-founder Carlyle Group
+  davide-melzi-d-eril:
+    nationality: ITA
+    affiliations:
+    - org: mediobanca
+      role: executive
+      from: 2025
+      note: AD post-OPS MPS
   dean-acheson:
     nationality: USA
     affiliations:
@@ -3259,6 +3672,32 @@ persons:
       role: ygl
       from: 2012
       note: Young Leader 2012, President of France
+  enrico-cuccia:
+    born: 1907
+    died: 2000
+    nationality: ITA
+    affiliations:
+    - org: mediobanca
+      role: founder
+      from: 1946
+      to: 2000
+    - org: mediobanca
+      role: executive
+      from: 1946
+      to: 1982
+      note: Amministratore Delegato
+    - org: mediobanca
+      role: chairman
+      from: 1988
+      to: 2000
+      note: Presidente onorario
+  enrico-laghi:
+    nationality: ITA
+    affiliations:
+    - org: edizione
+      role: executive
+      from: 2022
+      note: CEO
   enrico-letta:
     born: 1966
     nationality: ITA
@@ -3283,6 +3722,13 @@ persons:
       from: 1993
       to: 2013
       note: Direttore
+    - org: aspen-italia
+      role: chairman
+      note: Vice-Presidente
+    relations:
+    - person: fabrizio-saccomanni
+      type: appointed
+      note: Letta nomino Saccomanni Min. Economia
   enzo-moavero-milanesi:
     born: 1954
     nationality: ITA
@@ -3588,6 +4034,77 @@ persons:
       from: 2020
       to: 2023
       note: Executive Board, poi Governatore Banca Italia
+  fabrizio-palermo:
+    nationality: ITA
+    affiliations:
+    - org: generali
+      role: board
+      from: 2025
+      note: Consigliere, Chairman Related-Party Transactions Committee
+    - org: cdp
+      role: executive
+      from: 2018
+      to: 2021
+      note: CEO e Direttore Generale
+    - org: fincantieri
+      role: executive
+      from: 2005
+      to: 2014
+      note: CFO, Vice DG
+    - org: acea
+      role: executive
+      from: 2022
+      note: CEO e Direttore Generale
+  fabrizio-saccomanni:
+    born: 1942
+    died: 2019
+    nationality: ITA
+    affiliations:
+    - org: bis
+      role: chairman
+      from: 1988
+      to: 1991
+      note: Chairman Gold and Foreign Exchange Committee
+    - org: fmi
+      role: executive
+      from: 1970
+      to: 1975
+      note: Secondment da Banca Italia
+    - org: governo-italia
+      role: minister
+      from: 2013
+      to: 2014
+      note: Ministro Economia e Finanze (governo Letta)
+    - org: banca-italia
+      role: executive
+      from: 1967
+      to: 2013
+      note: Direttore Generale 2006-2013, carriera dal 1967
+    - org: ebrd
+      role: executive
+      from: 2003
+      to: 2006
+      note: Vice President
+    - org: unicredit
+      role: chairman
+      from: 2018
+      to: 2019
+      note: Chairman Board of Directors (fino alla morte)
+    - org: iai
+      role: board
+      from: 2016
+      to: 2019
+      note: Vice Presidente
+    relations:
+    - person: ignazio-visco
+      type: colleague
+      note: Colleghi Banca Italia, entrambi nel Direttorio
+    - person: mario-draghi
+      type: colleague
+      note: Colleghi Banca Italia, Saccomanni DG sotto governatore Draghi
+    - person: pier-carlo-padoan
+      type: predecessor
+      note: Saccomanni predecessore di Padoan sia al MEF che come Chairman UniCredit
   faisal-bin-bandar:
     nationality: SAU
     family: saud
@@ -3691,6 +4208,35 @@ persons:
     - org: porsche-ag
       role: founder
       from: 1931
+  ferdinando-nelli-feroci:
+    born: 1946
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: executive
+      from: 1972
+      to: 2013
+      note: Diplomatico; Dir. Gen. Integrazione Europea 2004-06; Capo Gabinetto MAE 2006-08
+    - org: commissione-europea
+      role: executive
+      from: 2014
+      to: 2014
+      note: Commissario Europeo Industria e Imprenditoria
+    - org: iai
+      role: chairman
+      from: 2013
+      to: 2024
+      note: Presidente
+    - org: luiss
+      role: member
+      from: 2013
+      to: 2014
+      note: Docente School of Government
+    - org: ue
+      role: executive
+      from: 2008
+      to: 2013
+      note: Rappresentante Permanente Italia presso UE
   filippo-filippelli:
     born: 1890
     nationality: ITA
@@ -3712,6 +4258,34 @@ persons:
     - person: benito-mussolini
       type: associate
       note: Segretario fratello Arnaldo, accusò Mussolini come mandante Matteotti
+  flavio-cattaneo:
+    born: 1963
+    nationality: ITA
+    affiliations:
+    - org: wef
+      role: member
+    - org: telecom-italia
+      role: executive
+      from: 2016
+      to: 2017
+      note: CEO 2016-2017
+    - org: endesa
+      role: chairman
+      from: 2023
+      note: Vice Chairman dal 2023
+    - org: generali
+      role: board
+      from: 2022
+      note: Board 2022-. Anche 2014-2016
+    - org: terna
+      role: executive
+      from: 2005
+      to: 2014
+      note: CEO (3 mandati)
+    - org: enel
+      role: executive
+      from: 2023
+      note: CEO
   fleur-pellerin:
     born: 1973
     nationality: FRA
@@ -3763,6 +4337,60 @@ persons:
     - org: pinterest
       role: operative
       note: Product manager, algorithmic systems
+  francesco-caio:
+    nationality: ITA
+    affiliations:
+    - org: poste-italiane
+      role: executive
+      from: 2014
+      to: 2017
+      note: CEO
+  francesco-cossiga:
+    born: 1928
+    died: 2010
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: leader
+      from: 1985
+      to: 1992
+      note: Presidente Repubblica
+    - org: aspen-italia
+      role: founder
+      from: 1984
+      note: Membro fondatore, ex-Chairman
+  francesco-gaetano-caltagirone:
+    nationality: ITA
+    affiliations:
+    - org: gruppo-caltagirone
+      role: chairman
+      note: Fondatore e patron
+  francesco-gori:
+    nationality: ITA
+    affiliations:
+    - org: pirelli
+      role: executive
+      note: CEO Pirelli Tyre
+    - org: prysmian
+      role: chairman
+      from: 2024
+      note: Chairman
+  francesco-milleri:
+    nationality: ITA
+    affiliations:
+    - org: delfin
+      role: chairman
+      from: 2022
+      note: Presidente post-morte Del Vecchio
+  francesco-starace:
+    born: 1955
+    nationality: ITA
+    affiliations:
+    - org: enel
+      role: executive
+      from: 2014
+      to: 2023
+      note: CEO e General Manager 2014-2023. 3 mandati
   francisco-gonzalez:
     born: 1944
     nationality: spagnola
@@ -3793,6 +4421,15 @@ persons:
       role: executive
       from: 1998
       to: 1999
+  franco-bruni:
+    nationality: ITA
+    note: Economist, Professor Emeritus Bocconi, ISPI President 2024
+    affiliations:
+    - org: ispi
+      role: chairman
+      from: 2024
+      to: 2025
+      note: President (interim after Massolo)
   franco-caltagirone:
     born: 1943
     nationality: Italia
@@ -4144,6 +4781,14 @@ persons:
       role: founder
       from: 1896
       to: 1920
+  fulvio-conti:
+    nationality: ITA
+    affiliations:
+    - org: enel
+      role: executive
+      from: 2005
+      to: 2014
+      note: CEO e General Manager 2005-2014
   gabriel-attal:
     born: 1989
     nationality: FRA
@@ -4473,6 +5118,106 @@ persons:
     - person: filippo-filippelli
       type: victim
       note: Filippelli forni auto per sequestro
+  giampiero-massolo:
+    born: 1954
+    nationality: ITA
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2018
+      note: Bilderberg Torino 2018
+    - org: wef
+      role: member
+    - org: governo-italia
+      role: executive
+      from: 2012
+      to: 2016
+      note: Direttore DIS (Intelligence)
+    - org: ispi
+      role: chairman
+      from: 2017
+      to: 2024
+      note: President
+    - org: trilateral-commission
+      role: member
+    - org: wilson-center
+      role: member
+    - org: atlantic-council
+      role: member
+    - org: fincantieri
+      role: chairman
+      from: 2016
+      to: 2022
+    - org: aspen-italia
+      role: steering
+      note: Executive Committee
+    - org: atlantia
+      role: chairman
+      from: 2022
+      note: Chairman Mundys
+  gian-maria-gros-pietro:
+    born: 1942
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: advisor
+      from: 1994
+      to: 1997
+      note: Comitato Privatizzazioni, Ministero Tesoro
+    - org: fiat
+      role: board
+      from: 2005
+      to: 2014
+      note: Independent Director
+    - org: iri
+      role: chairman
+      from: 1997
+      to: 1999
+      note: Chairman, privatizzazioni
+    - org: eni
+      role: chairman
+      from: 1999
+      to: 2002
+      note: Chairman
+    - org: intesa-sanpaolo
+      role: chairman
+      from: 2016
+      note: Chairman Board of Directors
+    - org: ispi
+      role: steering
+      note: Executive Committee
+    - org: edison
+      role: board
+      from: 2005
+      to: 2019
+      note: Lead Independent Director
+    - org: atlantia
+      role: chairman
+      from: 2003
+      to: 2010
+      note: Chairman
+    - org: astm
+      role: chairman
+      from: 2012
+      to: 2020
+      note: Chairman (non-executive)
+  giancarlo-aragona:
+    nationality: ITA
+    note: Diplomat, ISPI President 2011-2016
+    affiliations:
+    - org: ispi
+      role: chairman
+      from: 2011
+      to: 2016
+      note: President
+  giancarlo-giorgetti:
+    born: 1966
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 2022
+      note: Ministro Economia e Finanze (governo Meloni)
   gianfelice-rocca:
     born: 1948
     nationality: ITA
@@ -4516,6 +5261,16 @@ persons:
       role: member
       from: 2020
       note: IOC Member
+  gilberto-benetton:
+    born: 1941
+    died: 2018
+    nationality: ITA
+    affiliations:
+    - org: edizione
+      role: founder
+      from: 1981
+      to: 2018
+      note: Chairman
   gilles-roth:
     born: 1967
     nationality: LUX
@@ -4524,6 +5279,46 @@ persons:
       role: minister
       from: 2023
       note: Min. Finanze
+  giorgia-meloni:
+    born: 1977
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: leader
+      from: 2022
+      note: Presidente del Consiglio - Prima donna a ricoprire la carica
+  giorgio-napolitano:
+    born: 1925
+    died: 2023
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: leader
+      from: 2006
+      to: 2015
+      note: Presidente Repubblica
+    - org: governo-italia
+      role: minister
+      from: 1996
+      to: 1998
+      note: Ministro degli Interni (governo Prodi I)
+    - org: governo-italia
+      role: executive
+      from: 1992
+      to: 1994
+      note: Presidente Camera dei Deputati
+    - org: governo-italia
+      role: legislator
+      from: 1953
+      to: 2005
+      note: Deputato 1953-1996, Senatore a vita 2005
+    - org: aspen-italia
+      role: member
+    - org: ue
+      role: legislator
+      from: 1989
+      to: 1992
+      note: Europarlamentare
   giovanni-agnelli-sr:
     born: 1866
     died: 1945
@@ -4538,9 +5333,37 @@ persons:
     nationality: ITA
     affiliations:
     - org: banco-ambrosiano-veneto
-      role: executive
+      role: chairman
+      from: 1989
+      to: 1998
+      note: Chairman, guided merger into Banca Intesa
     - org: intesa-sanpaolo
+      role: chairman
+      from: 1998
+      to: 2022
+      note: Chairman Banca Intesa (1998-2007), Chairman Intesa Sanpaolo (2007-2016 Management Board, 2016-2022 Board of Directors),
+        ora Honorary Chairman
+    - org: universita-cattolica
+      role: member
+      to: 2001
+      note: Professor of Administrative Law and Public Law
+    - org: fondazione-cini
+      role: chairman
+      note: President
+  giovanni-castellucci:
+    nationality: ITA
+    affiliations:
+    - org: atlantia
       role: executive
+      from: 2006
+      to: 2019
+      note: CEO, accusato per Ponte Morandi
+  giovanni-gorno-tempini:
+    nationality: ITA
+    affiliations:
+    - org: cdp
+      role: chairman
+      from: 2019
   giuliano-amato:
     born: 1938
     nationality: ITA
@@ -4570,6 +5393,81 @@ persons:
       role: minister
       from: 1987
       to: 1989
+    - org: aspen-italia
+      role: chairman
+      note: Ex-Chairman
+    relations:
+    - person: pier-carlo-padoan
+      type: advisor
+      note: Padoan consigliere economico di Amato
+  giulio-tremonti:
+    born: 1947
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      note: Ministro Economia (record durata), Vice-PM
+    - org: aspen-italia
+      role: chairman
+      from: 2003
+      note: Presidente
+  giuseppe-bono:
+    born: 1944
+    died: 2022
+    nationality: ITA
+    affiliations:
+    - org: fincantieri
+      role: executive
+      from: 2002
+      to: 2022
+      note: CEO 20 anni, IPO 2014
+    - org: finmeccanica
+      role: executive
+      from: 1993
+      to: 2002
+      note: General Manager, Managing Director
+  giuseppe-gola:
+    born: 1966
+    nationality: ITA
+    affiliations:
+    - org: open-fiber
+      role: executive
+      from: 2023
+      note: CEO e General Manager
+    - org: enel
+      role: executive
+      from: 1991
+      to: 1996
+      note: Divisione Teleinformatica, poi Wind
+  giuseppe-lazzaro-morpurgo:
+    born: 1790
+    died: 1853
+    nationality: ITA
+    affiliations:
+    - org: generali
+      role: founder
+      from: 1831
+  giuseppe-orsi:
+    nationality: ITA
+    affiliations:
+    - org: leonardo
+      role: executive
+      from: 2011
+      to: 2013
+      note: CEO Finmeccanica 2011-2013. Arrestato corruzione India, poi assolto
+  giuseppina-di-foggia:
+    born: 1969
+    nationality: ITA
+    affiliations:
+    - org: nokia
+      role: executive
+      from: 2020
+      to: 2023
+      note: CEO Nokia Italia e Malta
+    - org: terna
+      role: executive
+      from: 2023
+      note: CEO e Direttore Generale
   goh-chok-tong:
     born: 1941
     nationality: SGP
@@ -4805,6 +5703,23 @@ persons:
       role: board
     - org: porsche-se
       role: board
+  hans-peter-haselsteiner:
+    born: 1944
+    nationality: austriaca
+    affiliations:
+    - org: governo-austria
+      role: legislator
+      from: 1994
+      to: 1998
+      note: MP Liberal Forum
+    - org: strabag
+      role: founder
+      from: 1972
+      note: Majority shareholder via FIMAG
+    - org: neos
+      role: founder
+      from: 2012
+      note: Major donor
   hans-van-den-broek:
     born: 1936
     nationality: NLD
@@ -5328,6 +6243,34 @@ persons:
       role: chairman
       from: 2006
       note: Executive Chairman (CEO dal 2001)
+  ignazio-visco:
+    born: 1949
+    nationality: ITA
+    affiliations:
+    - org: bce
+      role: board
+      from: 2011
+      to: 2023
+      note: Governing Council (ex officio)
+    - org: bis
+      role: board
+      from: 2011
+      to: 2023
+      note: Board of Directors (ex officio)
+    - org: banca-italia
+      role: executive
+      from: 2011
+      to: 2023
+      note: Governatore
+    - org: oecd
+      role: executive
+      from: 1997
+      to: 2002
+      note: Chief Economist, Director Economics Dept
+    relations:
+    - person: fabio-panetta
+      type: predecessor
+      note: Predecessore come Governatore Banca Italia
   igor-bogudlov:
     nationality: ISR
     note: Paragon CTO
@@ -5336,6 +6279,24 @@ persons:
       role: executive
       from: 2019
       note: CTO
+  igor-de-biasio:
+    born: 1977
+    nationality: ITA
+    affiliations:
+    - org: rai
+      role: board
+      from: 2018
+      to: 2019
+      note: CdA eletto Camera Deputati
+    - org: terna
+      role: chairman
+      from: 2023
+      note: Presidente
+    - org: arexpo
+      role: executive
+      from: 2019
+      to: 2023
+      note: CEO
   ilham-kadri:
     nationality: FRA
     affiliations:
@@ -6414,6 +7375,14 @@ persons:
       role: executive
       from: 2012
       note: CEO
+  johann-graf:
+    born: 1946
+    nationality: austriaca
+    affiliations:
+    - org: novomatic
+      role: founder
+      from: 1980
+      note: Owner
   johann-rupert:
     born: 1950
     nationality: ZAF
@@ -6548,6 +7517,9 @@ persons:
     - org: la-stampa
       role: owner
       from: 2016
+    - org: aspen-italia
+      role: chairman
+      note: Vice-Presidente
   john-f-w-rogers:
     nationality: USA
     affiliations:
@@ -7173,6 +8145,25 @@ persons:
       from: 2009
       to: 2011
       note: Defence Minister
+  karl-von-habsburg:
+    born: 1961
+    nationality: austriaca
+    family: habsburg
+    affiliations:
+    - org: governo-austria
+      role: legislator
+      from: 1996
+      to: 1999
+      note: MEP for Austria
+    - org: paneuropean-union
+      role: chairman
+      from: 1986
+      note: President Austrian branch
+    - org: blue-shield-international
+      role: chairman
+      from: 2008
+      to: 2020
+      note: President
   karl-wolff:
     born: 1900
     died: 1984
@@ -7622,6 +8613,13 @@ persons:
     - org: fox-corporation
       role: chairman-ceo
       from: 2019
+  lamberto-andreotti:
+    nationality: ITA
+    affiliations:
+    - org: unicredit
+      role: board
+      from: 2024
+      note: Deputy Chairman
   lance-uggla:
     born: 1962
     nationality: CAN
@@ -7962,6 +8960,50 @@ persons:
     - org: atlantic-council
       role: board
       note: Honorary Director
+  leonardo-del-vecchio:
+    born: 1935
+    died: 2022
+    nationality: ITA
+    affiliations:
+    - org: telecom-italia
+      role: chairman
+      note: President Board of Directors
+    - org: rcs-mediagroup
+      role: board
+      note: Vice President
+    - org: unicredit
+      role: shareholder
+      note: ~2% stake via Delfin
+    - org: mediobanca
+      role: chairman
+      from: 2003
+      to: 2007
+      note: President 2003-2007, largest shareholder 2019-2022 (~19%)
+    - org: generali
+      role: board
+      from: 2003
+      to: 2011
+      note: Vice President and Board member, shareholder ~8%
+    - org: delfin
+      role: founder
+      to: 2022
+    - org: essilorluxottica
+      role: chairman
+      from: 2018
+      to: 2022
+      note: Chairman, largest shareholder via Delfin
+    - org: luxottica
+      role: founder
+      from: 1961
+      to: 2018
+      note: Founder and Chairman
+    relations:
+    - person: francesco-gaetano-caltagirone
+      type: ally
+      note: Alleati nella battaglia per Generali 2021-2022
+    - person: francesco-milleri
+      type: business_partner
+      note: Milleri successore come Chairman Delfin e CEO EssilorLuxottica
   leopold-i-belgium:
     born: 1790
     died: 1865
@@ -8219,6 +9261,13 @@ persons:
       from: 1994
       to: 2002
       note: Governor
+  luciano-benetton:
+    born: 1935
+    nationality: ITA
+    affiliations:
+    - org: edizione
+      role: founder
+      from: 1981
   ludwig-criel:
     nationality: BEL
   luhut-pandjaitan:
@@ -8260,6 +9309,40 @@ persons:
     - person: prabowo-subianto
       type: colleague
       note: Kopassus, GSG-9 training 1981, Det 81
+  luigi-ferraris:
+    nationality: ITA
+    affiliations:
+    - org: terna
+      role: executive
+      from: 2017
+      to: 2020
+      note: CEO
+    - org: ferrovie-stato
+      role: executive
+      from: 2021
+      note: CEO
+    - org: fibercop
+      role: executive
+      from: 2024
+      note: CEO
+  luigi-gubitosi:
+    nationality: ITA
+    affiliations:
+    - org: telecom-italia
+      role: executive
+      from: 2018
+      to: 2021
+      note: CEO
+  luigi-lovaglio:
+    nationality: ITA
+  luigi-roth:
+    nationality: ITA
+    affiliations:
+    - org: terna
+      role: chairman
+      from: 2005
+      to: 2014
+      note: Presidente
   luis-de-guindos:
     born: 1960
     nationality: ESP
@@ -8284,6 +9367,21 @@ persons:
       from: 2017
       to: 2018
       note: Foreign Minister
+  luisa-todini:
+    born: 1966
+    nationality: ITA
+    affiliations:
+    - org: rai
+      role: board
+      from: 2012
+      to: 2014
+    - org: poste-italiane
+      role: chairman
+      from: 2014
+      to: 2017
+    - org: comitato-leonardo
+      role: chairman
+      from: 2009
   lukas-walton:
     born: 1986
     nationality: USA
@@ -8530,6 +9628,25 @@ persons:
       role: board
       from: 2024
       note: 10% ownership via CFG US Holdco LLC
+  marco-alvera:
+    born: 1975
+    nationality: ITA
+    affiliations:
+    - org: eni
+      role: executive
+      from: 2005
+      to: 2015
+      note: Gas division senior roles
+    - org: snam
+      role: executive
+      from: 2016
+      to: 2022
+      note: CEO
+    - org: enel
+      role: member
+      from: 2002
+      to: 2004
+      note: Gas business, Terna IPO
   marco-buschmann:
     born: 1977
     nationality: DEU
@@ -8543,6 +9660,76 @@ persons:
       role: minister
       from: 2021
       note: Justice Minister
+  marco-patuano:
+    nationality: ITA
+    affiliations:
+    - org: telecom-italia
+      role: executive
+      from: 2011
+      to: 2016
+      note: CEO
+  marco-simoni:
+    born: 1974
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: advisor
+      from: 2014
+      to: 2018
+      note: Consigliere PM per questioni economiche
+    - org: iai
+      role: executive
+      from: 2026
+      note: Direttore eletto
+    - org: luiss
+      role: member
+      note: Professore
+    - org: human-technopole
+      role: chairman
+      note: Primo Presidente
+  marco-tronchetti-provera:
+    born: 1948
+    nationality: ITA
+    affiliations:
+    - org: telecom-italia
+      role: chairman
+      from: 2001
+      to: 2006
+      note: Chairman via Olimpia
+    - org: intesa-sanpaolo
+      role: partner
+      from: 2001
+      to: 2007
+      note: Olimpia consortium partner
+    - org: rcs-mediagroup
+      role: board
+      note: Director
+    - org: trilateral-commission
+      role: member
+      note: Italian Group
+    - org: pirelli
+      role: executive
+      from: 1992
+      to: 2023
+      note: CEO 1992-2022, Executive Vice Chairman 2023-
+    - org: mediobanca
+      role: board
+      from: 1996
+      to: 2017
+      note: Director 1996-2002, Deputy Chairman 2007-2017
+    - org: camfin
+      role: chairman
+      note: Chairman, controlling shareholder
+    relations:
+    - person: enrico-letta
+      type: colleague
+      note: Entrambi membri Trilateral Commission
+    - person: john-elkann
+      type: colleague
+      note: Entrambi Trilateral, industriali italiani
+    - person: mario-monti
+      type: colleague
+      note: Entrambi membri Trilateral Commission
   marcus-wallenberg:
     born: 1956
     nationality: SWE
@@ -8631,6 +9818,49 @@ persons:
     born: 1955
     nationality: Italia
     family: agnelli-elkann
+  maria-bianca-farina:
+    nationality: ITA
+    affiliations:
+    - org: poste-italiane
+      role: chairman
+      from: 2017
+      to: 2023
+    - org: ania
+      role: chairman
+      from: 2015
+      note: Prima donna presidente
+  mariangela-zappia:
+    born: 1959
+    nationality: ITA
+    note: First woman Ambassador Italy to USA (2021-25), UN, NATO. President ISPI 2026. Board Intesa Sanpaolo 2025.
+    affiliations:
+    - org: onu
+      role: executive
+      from: 2018
+      to: 2021
+      note: Permanent Representative Italy to UN New York
+    - org: nato
+      role: executive
+      from: 2014
+      to: 2016
+      note: Permanent Representative Italy to NATO (first woman)
+    - org: governo-italia
+      role: executive
+      from: 1983
+      note: 'Career diplomat: Amb. USA 2021-25, UN 2018-21, NATO 2014-16, Sherpa G7/G20 2016-18'
+    - org: intesa-sanpaolo
+      role: board
+      from: 2025
+      note: Board member
+    - org: ispi
+      role: chairman
+      from: 2026
+      note: President (elected, enters Jan 2026)
+    - org: ue
+      role: executive
+      from: 2011
+      to: 2014
+      note: Head EU Delegation to UN and Intl Orgs Geneva
   mariano-rajoy:
     born: 1955
     nationality: ESP
@@ -8690,6 +9920,16 @@ persons:
       from: 2009
       to: 2011
       note: Primo Chairman FSB
+    relations:
+    - person: daniele-franco
+      type: colleague
+      note: PM e Ministro Economia nel governo Draghi
+    - person: ignazio-visco
+      type: predecessor
+      note: Predecessore come Governatore Banca Italia
+    - person: vittorio-colao
+      type: appointed
+      note: Draghi nomino Colao Ministro Innovazione
   mario-monti:
     born: 1943
     nationality: ITA
@@ -8716,6 +9956,13 @@ persons:
       role: commissioner
       from: 1995
       to: 2004
+    - org: aspen-italia
+      role: board
+      note: Executive Committee
+    relations:
+    - person: corrado-passera
+      type: appointed
+      note: Monti nomino Passera Ministro Sviluppo/Infrastrutture
   mario-perrone:
     died: 1968
     nationality: ITA
@@ -8933,6 +10180,18 @@ persons:
       role: chairman
       from: 2021
       note: Chair Board of Directors
+  marta-dassu:
+    born: 1955
+    nationality: ITA
+    affiliations:
+    - org: trilaterale
+      role: member
+    - org: governo-italia
+      role: minister
+      note: Sottosegretario Esteri (Monti), Vice-Ministro Esteri (Letta)
+    - org: aspen-italia
+      role: executive
+      note: Senior Director European Affairs, Editor Aspenia
   martin-barrington:
     born: 1953
     nationality: USA
@@ -9014,6 +10273,44 @@ persons:
       role: founder
       from: 2017
       note: Created with PIF Saudi
+  massimo-battaini:
+    born: 1961
+    nationality: ITA
+    affiliations:
+    - org: pirelli
+      role: executive
+      to: 2005
+      note: 15 anni in Pirelli
+    - org: prysmian
+      role: executive
+      from: 2024
+      note: CEO
+  massimo-d-alema:
+    born: 1949
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: leader
+      from: 1998
+      to: 2000
+      note: Primo Ministro
+    - org: aspen-italia
+      role: member
+    relations:
+    - person: pier-carlo-padoan
+      type: advisor
+      note: Padoan consigliere economico di D'Alema
+  massimo-sarmi:
+    nationality: ITA
+    affiliations:
+    - org: poste-italiane
+      role: executive
+      from: 2002
+      to: 2014
+      note: CEO
+    - org: fibercop
+      role: chairman
+      from: 2024
   mathias-dopfner:
     born: 1963
     nationality: DEU
@@ -9030,6 +10327,47 @@ persons:
       role: executive
       from: 2002
       note: CEO
+  matteo-del-fante:
+    born: 1967
+    nationality: ITA
+    affiliations:
+    - org: jpmorgan
+      role: executive
+      from: 1991
+      to: 2003
+      note: MD 1999, EMEA Public Sector
+    - org: cdp
+      role: executive
+      from: 2004
+      to: 2014
+      note: DG 2010-14
+    - org: poste-italiane
+      role: executive
+      from: 2017
+      note: CEO
+    - org: terna
+      role: executive
+      from: 2014
+      to: 2017
+      note: CEO, ex CDP
+    - org: stmicroelectronics
+      role: board
+      from: 2005
+      to: 2011
+      note: Per conto CDP
+    - org: assonime
+      role: board
+      from: 2021
+      note: Vicepresidente
+    - org: bocconi
+      role: member
+      to: 1992
+      note: Laurea Economia Politica 110 e lode
+    - org: entso-e
+      role: board
+      from: 2015
+      to: 2017
+      note: Vicepresidente
   matteo-renzi:
     born: 1975
     nationality: ITA
@@ -9047,6 +10385,29 @@ persons:
       role: board
     - org: tony-blair-institute
       role: advisor
+    relations:
+    - person: paolo-gentiloni
+      type: predecessor
+      note: Predecessore come PM Italia
+    - person: pier-carlo-padoan
+      type: appointed
+      note: Renzi nomino Padoan Min. Economia
+  matteo-salvini:
+    born: 1973
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 2022
+      note: Vice-Presidente del Consiglio, Ministro Infrastrutture (governo Meloni)
+  mauro-moretti:
+    nationality: ITA
+    affiliations:
+    - org: leonardo
+      role: executive
+      from: 2014
+      to: 2017
+      note: CEO 2014-2017. Rinomino in Leonardo 2016
   max-corvo:
     born: 1920
     died: 2008
@@ -9247,6 +10608,29 @@ persons:
     - org: booz-allen-hamilton
       role: board
       from: 2018
+  michele-valensise:
+    born: 1952
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: executive
+      from: 2012
+      to: 2016
+      note: Segretario Generale MAE
+    - org: telecom-italia
+      role: chairman
+      from: 2018
+      to: 2019
+      note: Presidente
+    - org: iai
+      role: chairman
+      from: 2025
+      note: Presidente
+    - org: villa-vigoni
+      role: chairman
+      from: 2017
+      to: 2024
+      note: Presidente
   mike-reynolds:
     born: 1945
     nationality: GBR
@@ -9399,6 +10783,65 @@ persons:
       role: leader
       from: 2022
       note: Presidente UAE, Ruler Abu Dhabi
+  monica-de-virgiliis:
+    born: 1967
+    nationality: ITA
+    affiliations:
+    - org: cea
+      role: executive
+      from: 2017
+      to: 2019
+      note: Chief Strategy Officer
+    - org: snam
+      role: chairman
+      from: 2022
+      to: 2025
+      note: Chairman
+    - org: stmicroelectronics
+      role: executive
+      from: 2001
+      to: 2015
+      note: GM Wireless Multimedia Division
+    - org: air-liquide
+      role: board
+      from: 2020
+      note: Independent Director
+    - org: infineon-tech
+      role: executive
+      from: 2015
+      to: 2017
+      note: GM Industrial Microcontroller Division
+    - org: prysmian
+      role: board
+      from: 2015
+      to: 2021
+      note: Independent Director, Chair Remuneration/Sustainability
+    - org: saras
+      role: board
+      from: 2021
+      to: 2022
+      note: Independent Director
+    - org: georg-fischer
+      role: board
+      from: 2022
+      note: Independent Director
+    - org: asm-international
+      role: board
+      from: 2019
+      note: Supervisory Board
+    - org: treccani
+      role: board
+      from: 2022
+      note: Board of Directors
+    - org: chapter-zero-france
+      role: founder
+      from: 2019
+      note: Founder and Chairman
+    - org: geodis
+      role: board
+      from: 2019
+      to: 2021
+      note: Supervisory Board
   monika-sie-dhian-ho:
     nationality: NLD
     affiliations:
@@ -9595,6 +11038,63 @@ persons:
       from: 2009
       to: 2018
       note: Chairman of the Executive
+  nathalie-tocci:
+    born: 1977
+    nationality: ITA
+    affiliations:
+    - org: collegio-europa
+      role: member
+      note: Former lecturer
+    - org: governo-italia
+      role: advisor
+      from: 2014
+      to: 2014
+      note: Consigliera Min. Esteri Mogherini
+    - org: eni
+      role: board
+      note: Former Independent Director
+    - org: ecfr
+      role: member
+      note: Council member
+    - org: edison
+      role: board
+      note: Former Independent Director
+    - org: real-instituto-elcano
+      role: member
+      note: Scientific Council
+    - org: iai
+      role: executive
+      from: 2017
+      to: 2026
+      note: Direttore
+    - org: ue
+      role: advisor
+      from: 2015
+      to: 2024
+      note: Special Advisor Alto Rappresentante (Mogherini, Borrell)
+    - org: acea
+      role: board
+      from: 2020
+      to: 2023
+      note: Independent Director
+    - org: bruegel
+      role: member
+      note: Contributor
+    - org: european-university-institute
+      role: member
+      from: 2023
+      note: Professor School of Transnational Governance
+    - org: universita-tubinga
+      role: member
+      from: 2015
+      note: Honorary Professor
+    - org: johns-hopkins-sais
+      role: member
+      from: 2025
+      note: Professor of Practice
+    - org: ceps
+      role: member
+      note: Former Research Fellow
   nathan-mayer-rothschild:
     born: 1777
     died: 1836
@@ -10003,6 +11503,9 @@ persons:
       from: 2006
       to: 2018
       note: CEO
+  oleg-deripaska:
+    born: 1968
+    nationality: russa
   oliver-baete:
     born: 1965
     nationality: DEU
@@ -10178,6 +11681,114 @@ persons:
       from: 2016
       to: 2023
       note: Administrator
+  paolo-ciocca:
+    born: 1963
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: executive
+      from: 2013
+      to: 2018
+      note: Vice Direttore Generale DIS (Sicurezza)
+    - org: governo-italia
+      role: executive
+      from: 2002
+      to: 2007
+      note: DG Finance MEF 2005-07, Dir. Relazioni Int. 2002-05
+    - org: italgas
+      role: chairman
+      from: 2025
+      note: Chairman Board of Directors
+    - org: open-fiber
+      role: chairman
+      from: 2023
+      note: Chairman Open Fiber e Open Fiber Holdings
+    - org: consob
+      role: board
+      from: 2018
+      to: 2023
+      note: Commissioner
+    - org: banca-generali
+      role: board
+      from: 2023
+      note: Independent Director, Chair Nomination Committee
+    - org: ifad
+      role: executive
+      from: 2007
+      to: 2013
+      note: Secretary of the Fund
+  paolo-gentiloni:
+    born: 1954
+    nationality: ITA
+    family: gentiloni-silveri
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2023
+      note: Partecipante 2023, 2024
+    - org: governo-italia
+      role: leader
+      from: 2016
+      to: 2018
+      note: Primo Ministro
+    - org: governo-italia
+      role: minister
+      from: 2014
+      to: 2016
+      note: Min. Esteri
+    - org: governo-italia
+      role: minister
+      from: 2006
+      to: 2008
+      note: Min. Comunicazioni
+    - org: commissione-europea
+      role: executive
+      from: 2019
+      to: 2024
+      note: Commissario Economia
+    relations:
+    - person: pier-carlo-padoan
+      type: colleague
+      note: PM Gentiloni confermo Padoan al MEF
+  paolo-magri:
+    nationality: ITA
+    note: European Director Trilateral Commission, VP ISPI, Prof. Bocconi
+    affiliations:
+    - org: wef
+      role: member
+      note: Europe Policy Group
+    - org: governo-italia
+      role: advisor
+      note: Strategic Committee Min. Foreign Affairs
+    - org: ispi
+      role: executive
+      note: Vice Presidente Esecutivo e Direttore
+    - org: trilateral-commission
+      role: executive
+      from: 2022
+      note: European Director + Secretary General Italian Group
+    - org: ecfr
+      role: board
+      note: Council member
+    - org: universita-bocconi
+      role: member
+      note: Professor International Relations
+    - org: luiss
+      role: board
+      note: Board of Directors
+    - org: fondazione-italia-cina
+      role: board
+      note: Board of Directors
+    - org: globsec
+      role: member
+      note: Board of Experts, Global Europe Initiative
+  paolo-savona:
+    born: 1936
+    nationality: ITA
+    affiliations:
+    - org: aspen-italia
+      role: chairman
+      note: Vice-Presidente
   paolo-scaroni:
     born: 1946
     nationality: ITA
@@ -10191,6 +11802,10 @@ persons:
     - org: ac-milan
       role: chairman
       from: 2018
+    - org: enel
+      role: chairman
+      from: 2023
+      note: Chairman dal 2023. CEO 2002-2005
   parit-wacharasindhu:
     born: 1992
     nationality: THA
@@ -10735,6 +12350,13 @@ persons:
     - org: inbev-baillet-latour-fund
       role: board
       note: Administrator
+  philippe-donnet:
+    nationality: FRA
+    affiliations:
+    - org: generali
+      role: executive
+      from: 2016
+      note: CEO, confermato 2022 e 2025
   philippe-kehren:
     born: 1971
     nationality: FRA
@@ -10772,6 +12394,46 @@ persons:
       role: president
       from: 2000
       to: 2011
+  pier-carlo-padoan:
+    born: 1950
+    nationality: ITA
+    affiliations:
+    - org: collegio-europa
+      role: academic
+      from: 1992
+      to: 2001
+      note: Professor of Economics (Bruges e Warsaw)
+    - org: fmi
+      role: executive
+      from: 2001
+      to: 2005
+      note: Executive Director per Italia
+    - org: governo-italia
+      role: advisor
+      from: 1998
+      to: 2001
+      note: Consigliere economico PM D'Alema e Amato
+    - org: governo-italia
+      role: minister
+      from: 2014
+      to: 2018
+      note: Ministro Economia e Finanze (Renzi, Gentiloni)
+    - org: unicredit
+      role: chairman
+      from: 2021
+      note: Chairman Board of Directors
+    - org: oecd
+      role: executive
+      from: 2007
+      to: 2014
+      note: Deputy Secretary General, Chief Economist (dal 2009)
+    - org: iai
+      role: board
+      note: Vice Presidente
+    relations:
+    - person: ignazio-visco
+      type: colleague
+      note: Entrambi Chief Economist OECD (Visco 1997-2002, Padoan 2009-2014)
   pier-silvio-berlusconi:
     born: 1969
     nationality: Italia
@@ -10860,6 +12522,26 @@ persons:
     - person: jean-monnet
       type: colleague
       note: Collaboratori stretti in Action Committee USE
+  pierroberto-folgiero:
+    born: 1972
+    nationality: ITA
+    affiliations:
+    - org: fincantieri
+      role: executive
+      from: 2022
+      note: CEO, Managing Director
+    - org: maire-tecnimont
+      role: executive
+      from: 2013
+      to: 2022
+      note: CEO and General Manager
+  pietro-labriola:
+    nationality: ITA
+    affiliations:
+    - org: telecom-italia
+      role: executive
+      from: 2022
+      note: CEO, 2° mandato 2024
   pincus-green:
     born: 1936
     nationality: USA
@@ -11035,6 +12717,20 @@ persons:
       from: 1988
       to: 2022
       note: Co-founder, Executive Co-Chairman
+  raffaele-mattioli:
+    born: 1895
+    died: 1973
+    nationality: ITA
+    affiliations:
+    - org: banca-commerciale-italiana
+      role: executive
+      from: 1933
+      to: 1972
+      note: CEO
+    - org: mediobanca
+      role: founder
+      from: 1946
+      note: Ideatore con Cuccia
   raghav-bahl:
     nationality: IND
     note: Founded Network18 1993. Lost control to Reliance 2014. Now Quintillion Media (The Quint)
@@ -11604,6 +13300,28 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader, World Bank President
+  roberto-cingolani:
+    born: 1961
+    nationality: ITA
+    affiliations:
+    - org: nato
+      role: board
+      note: Senior Board Director NATO Innovation Fund
+    - org: governo-italia
+      role: minister
+      from: 2021
+      to: 2022
+      note: Ministro Transizione Ecologica (governo Draghi)
+    - org: leonardo
+      role: executive
+      from: 2023
+      note: CEO e General Manager dal maggio 2023
+    relations:
+    - person: mario-draghi
+      type: minister
+      note: Ministro Transizione Ecologica governo Draghi 2021-2022
+  roberto-colaninno:
+    nationality: ITA
   roberto-irineu-marinho:
     born: 1947
     nationality: BRA
@@ -11722,6 +13440,8 @@ persons:
       role: executive
       from: 1999
       to: 2004
+    - org: aspen-italia
+      role: member
   ronald-lauder:
     born: 1944
     nationality: USA
@@ -11810,6 +13530,13 @@ persons:
       role: leader
       from: 2015
       note: Re e Primo Ministro
+  salvatore-rossi:
+    nationality: ITA
+    affiliations:
+    - org: telecom-italia
+      role: chairman
+      from: 2019
+      to: 2024
   sam-altman:
     born: 1985
     nationality: USA
@@ -12139,6 +13866,39 @@ persons:
       from: 2005
       to: 2010
       note: Deputy CEO 2007-2010, Head Markets & Investment Banking
+  sergio-mattarella:
+    born: 1941
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: leader
+      from: 2015
+      note: Presidente della Repubblica (2 mandati)
+    - org: governo-italia
+      role: minister
+      from: 1999
+      to: 2001
+      note: Ministro della Difesa
+    - org: governo-italia
+      role: minister
+      from: 1998
+      to: 1999
+      note: Vice Presidente del Consiglio
+    - org: governo-italia
+      role: minister
+      from: 1989
+      to: 1990
+      note: Ministro Pubblica Istruzione
+    - org: governo-italia
+      role: minister
+      from: 1987
+      to: 1989
+      note: Ministro Rapporti col Parlamento
+    - org: governo-italia
+      role: legislator
+      from: 1983
+      to: 2008
+      note: Deputato Camera (7 legislature)
   seth-berkley:
     born: 1956
     nationality: USA
@@ -12330,6 +14090,18 @@ persons:
       role: leader
       from: 2004
       to: 2014
+  silvia-maria-rovere:
+    born: 1971
+    nationality: ITA
+    affiliations:
+    - org: ispi
+      role: board
+    - org: poste-italiane
+      role: chairman
+      from: 2023
+    - org: assoimmobiliare
+      role: chairman
+      from: 2017
   silvio-berlusconi:
     born: 1936
     died: 2023
@@ -12468,6 +14240,56 @@ persons:
     - org: finma
       role: executive
       from: 2024
+      note: CEO
+  stefano-donnarumma:
+    nationality: ITA
+    affiliations:
+    - org: terna
+      role: executive
+      from: 2020
+      to: 2023
+      note: CEO
+  stefano-pontecorvo:
+    nationality: ITA
+    affiliations:
+    - org: nato
+      role: executive
+      from: 2020
+      to: 2021
+      note: Senior Civilian Representative Afghanistan, coordinatore evacuazione
+    - org: governo-italia
+      role: executive
+      note: 'Ambasciatore: Pakistan, Deputy Chief Mission Mosca e Londra'
+    - org: leonardo
+      role: chairman
+      from: 2023
+      note: Chairman dal maggio 2023
+  stefano-silvestri:
+    nationality: ITA
+    affiliations:
+    - org: iai
+      role: chairman
+      from: 2001
+      to: 2013
+      note: Presidente
+  stefano-venier:
+    born: 1963
+    nationality: ITA
+    affiliations:
+    - org: eni
+      role: member
+      from: 1989
+      to: 1996
+      note: Petrochemical strategy
+    - org: snam
+      role: executive
+      from: 2022
+      to: 2025
+      note: CEO
+    - org: hera
+      role: executive
+      from: 2014
+      to: 2022
       note: CEO
   stephan-weil:
     born: 1958
@@ -13270,6 +15092,39 @@ persons:
       role: shareholder
       from: 2018
       note: Largest shareholder (transferred from CPB)
+  valentina-bosetti:
+    nationality: ITA
+    affiliations:
+    - org: terna
+      role: chairman
+      from: 2020
+      to: 2023
+      note: Presidente
+  valerio-battista:
+    born: 1957
+    nationality: ITA
+    affiliations:
+    - org: pirelli
+      role: executive
+      to: 2005
+      note: Ristrutturazione Pirelli Cavi
+    - org: prysmian
+      role: executive
+      from: 2005
+      to: 2024
+      note: CEO (22 anni)
+    - org: prysmian
+      role: vice-chairman
+      from: 2024
+      note: Vice-Chairman
+    - org: brembo
+      role: board
+      from: 2017
+      note: Lead Independent Director
+    - org: europacable
+      role: chairman
+      from: 2014
+      note: President
   valery-giscard-destaing:
     born: 1926
     died: 2020
@@ -13420,6 +15275,14 @@ persons:
       role: founder
       from: 1981
       note: Controlling shareholder via Financiere de l Odet
+  vincenzo-maranghi:
+    nationality: ITA
+    affiliations:
+    - org: mediobanca
+      role: executive
+      from: 1988
+      to: 2003
+      note: Amministratore Delegato
   vitali-klitschko:
     born: 1971
     nationality: UKR
@@ -13428,6 +15291,58 @@ persons:
       role: member
       from: 2014
       note: Mayor Kyiv, regular Davos speaker
+  vittorio-colao:
+    born: 1961
+    nationality: ITA
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2018
+      note: Partecipante Bilderberg 2018 (Torino)
+    - org: governo-italia
+      role: minister
+      from: 2021
+      to: 2022
+      note: Ministro Innovazione Tecnologica e Transizione Digitale (governo Draghi)
+    - org: rcs-mediagroup
+      role: executive
+      from: 2004
+      to: 2006
+      note: CEO e Publisher
+    - org: mckinsey
+      role: partner
+      from: 1990
+      to: 1996
+      note: Consultant dopo MBA Harvard
+    - org: unilever
+      role: board
+      from: 2015
+      to: 2021
+      note: Director, Chairman Remuneration Committee
+    - org: general-atlantic
+      role: executive
+      from: 2019
+      note: Senior Advisor 2019-2021, Vice Chairman EMEA dal 2023
+    - org: vodafone
+      role: executive
+      from: 1999
+      to: 2018
+      note: Group CEO 2008-2018, vari ruoli dal 1999
+    - org: verizon
+      role: board
+      from: 2019
+      note: Director (2019-2021, poi dal 2022)
+    relations:
+    - person: daniele-franco
+      type: colleague
+      note: Colleghi nel governo Draghi
+  vittorio-grilli:
+    nationality: ITA
+    affiliations:
+    - org: mediobanca
+      role: chairman
+      from: 2025
+      note: Presidente post-OPS MPS
   vladimir-putin:
     born: 1952
     nationality: Russian

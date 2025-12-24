@@ -23,6 +23,7 @@ L'Italia fu il **laboratorio** dove l'intelligence americana sviluppo' tecniche 
 **Report correlati:**
 - [Cold War Intelligence Origins](cold-war-intelligence-origins.md) - Fondazione OSS/CIA
 - [Nazi Recruitment Cold War](nazi-recruitment-cold-war.md) - Asset nazisti e ratlines
+- [Italy Power Map](italy-power-map.md) - Mappa del potere italiano contemporaneo (eredità post-Guerra Fredda)
 
 ---
 

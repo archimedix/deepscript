@@ -167,6 +167,36 @@ organizations:
     - org: kingdom-holding
       share: 6.8
       note: Prince Alwaleed; dal 2016
+  acea:
+    name: ACEA SpA
+    type: company
+    founded: 1909
+    headquarters: Rome, Italy
+    status: active
+    sector: multi-utility
+    stakeholders:
+    - person: nathalie-tocci
+      role: board
+      from: 2020
+      to: 2023
+      note: Independent Director
+    - person: fabrizio-palermo
+      role: executive
+      from: 2022
+      note: CEO e Direttore Generale
+    - person: barbara-marinali
+      role: chairman
+      from: 2023
+      note: Presidente
+    - person: alessandro-caltagirone
+      role: board
+      note: Consigliere (rappresentante famiglia Caltagirone)
+    - org: governo-italia
+      share: 51
+      note: Roma Capitale azionista di controllo
+    - org: suez
+      share: 23.33
+      note: Primo socio privato
   aclu:
     name: American Civil Liberties Union
     type: foundation
@@ -252,6 +282,13 @@ organizations:
     - person: jonathan-greenblatt
       role: executive
       from: 2015
+  adnoc:
+    name: Abu Dhabi National Oil Company
+    type: company
+    founded: 1971
+    headquarters: Abu Dhabi, UAE
+    status: active
+    sector: oil-gas
   adug:
     name: Abu Dhabi United Group
     type: company
@@ -404,6 +441,17 @@ organizations:
       share: 9.1
       from: 2019
       note: State shareholding
+  air-liquide:
+    name: Air Liquide
+    type: company
+    headquarters: Paris, France
+    status: active
+    sector: industrial gases
+    stakeholders:
+    - person: monica-de-virgiliis
+      role: board
+      from: 2020
+      note: Independent Director
   airasia:
     name: AirAsia / Capital A
     type: company
@@ -795,6 +843,16 @@ organizations:
       from: 2001
       to: 2012
       note: Vice President
+  ania:
+    name: Associazione Nazionale fra le Imprese Assicuratrici
+    type: agency
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: maria-bianca-farina
+      role: chairman
+      from: 2015
+      note: Prima donna presidente
   anobit:
     type: company
     founded: 2006
@@ -956,6 +1014,17 @@ organizations:
       from: 1993
       to: 2013
       note: Direttore
+  arexpo:
+    name: Arexpo S.p.A.
+    type: company
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: igor-de-biasio
+      role: executive
+      from: 2019
+      to: 2023
+      note: CEO
   arm:
     name: ARM Holdings
     type: company
@@ -995,6 +1064,17 @@ organizations:
       role: member
       from: 1999
       note: Membro fondatore
+  asm-international:
+    name: ASM International N.V.
+    type: company
+    headquarters: Almere, Netherlands
+    status: active
+    sector: semiconductor equipment
+    stakeholders:
+    - person: monica-de-virgiliis
+      role: board
+      from: 2019
+      note: Supervisory Board
   asml:
     name: ASML Holding N.V.
     type: company
@@ -1047,6 +1127,54 @@ organizations:
       note: Aspen Strategy Group
     - org: trilaterale
       role: partner
+  aspen-italia:
+    name: Aspen Institute Italia
+    type: thinktank
+    founded: 1984
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: mario-monti
+      role: board
+      note: Executive Committee
+    - person: romano-prodi
+      role: member
+    - person: john-elkann
+      role: chairman
+      note: Vice-Presidente
+    - person: carlo-azeglio-ciampi
+      role: member
+    - person: enrico-letta
+      role: chairman
+      note: Vice-Presidente
+    - person: giuliano-amato
+      role: chairman
+      note: Ex-Chairman
+    - person: giulio-tremonti
+      role: chairman
+      from: 2003
+      note: Presidente
+    - person: marta-dassu
+      role: executive
+      note: Senior Director European Affairs, Editor Aspenia
+    - person: francesco-cossiga
+      role: founder
+      from: 1984
+      note: Membro fondatore, ex-Chairman
+    - person: giorgio-napolitano
+      role: member
+    - person: massimo-d-alema
+      role: member
+    - person: paolo-savona
+      role: chairman
+      note: Vice-Presidente
+    - person: giampiero-massolo
+      role: steering
+      note: Executive Committee
+    - org: aspen-institute
+      role: partner
+      from: 1984
+      note: International partner network
   aspen-romania:
     name: Aspen Romania
     type: thinktank
@@ -1056,6 +1184,37 @@ organizations:
     - person: federica-mogherini
       role: member
       note: Speaker
+  assoimmobiliare:
+    name: Assoimmobiliare
+    type: agency
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: silvia-maria-rovere
+      role: chairman
+      from: 2017
+  assonime:
+    name: ASSONIME
+    type: agency
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: matteo-del-fante
+      role: board
+      from: 2021
+      note: Vicepresidente
+  astm:
+    name: ASTM SpA
+    type: company
+    headquarters: Turin, Italy
+    status: active
+    sector: infrastructure
+    stakeholders:
+    - person: gian-maria-gros-pietro
+      role: chairman
+      from: 2012
+      to: 2020
+      note: Chairman (non-executive)
   astra-international:
     name: PT Astra International Tbk
     type: company
@@ -1111,6 +1270,44 @@ organizations:
       role: chairman
       from: 2022
       note: Co-chairman, 55% stake with investor group
+  atlantia:
+    name: Mundys SpA (ex Atlantia)
+    type: company
+    founded: 1950
+    headquarters: Rome, Italy
+    status: active
+    sector: infrastructure
+    stakeholders:
+    - person: giampiero-massolo
+      role: chairman
+      from: 2022
+      note: Chairman Mundys
+    - person: alessandro-benetton
+      role: chairman
+      from: 2023
+      note: Vice Chairman
+    - person: andrea-mangoni
+      role: executive
+      from: 2023
+      note: CEO
+    - person: giovanni-castellucci
+      role: executive
+      from: 2006
+      to: 2019
+      note: CEO, accusato per Ponte Morandi
+    - person: gian-maria-gros-pietro
+      role: chairman
+      from: 2003
+      to: 2010
+      note: Chairman
+    - org: blackstone
+      role: minority
+      share: 37.8
+      from: 2022
+    - org: edizione
+      role: majority
+      share: 57
+      from: 2022
   atlantic-council:
     name: Atlantic Council
     type: thinktank
@@ -1185,6 +1382,11 @@ organizations:
       role: member
       from: 2020
       note: Senior Fellow, Adrienne Arsht-Rockefeller Foundation Resilience Center
+    - person: claudio-descalzi
+      role: member
+      note: Distinguished Business Leadership Award 2022
+    - person: giampiero-massolo
+      role: member
     - org: goldman-sachs
       role: donor
       note: Corporate donor - Finance sector
@@ -1292,6 +1494,17 @@ organizations:
       to: 2007
     - org: volkswagen
       role: subsidiary
+  avolta:
+    name: Avolta AG (ex Dufry/Autogrill)
+    type: company
+    headquarters: Basel, Switzerland
+    status: active
+    sector: travel retail
+    stakeholders:
+    - org: edizione
+      role: minority
+      share: 27.5
+      note: Largest shareholder, ex Autogrill
   avtovaz:
     name: AVTOVAZ
     type: automaker
@@ -1428,6 +1641,21 @@ organizations:
       from: 1930
       to: 1945
       note: Presidente per 15 anni
+    - person: raffaele-mattioli
+      role: executive
+      from: 1933
+      to: 1972
+      note: CEO
+  banca-generali:
+    name: Banca Generali SpA
+    type: bank
+    headquarters: Trieste, Italy
+    status: active
+    stakeholders:
+    - person: paolo-ciocca
+      role: board
+      from: 2023
+      note: Independent Director, Chair Nomination Committee
   banca-italia:
     name: Banca d'Italia
     type: centralbank
@@ -1446,6 +1674,21 @@ organizations:
       role: leader
       from: 1960
       to: 1975
+    - person: ignazio-visco
+      role: executive
+      from: 2011
+      to: 2023
+      note: Governatore
+    - person: daniele-franco
+      role: executive
+      from: 1979
+      to: 2021
+      note: Economista, poi Senior Deputy Governor (2020-21)
+    - person: fabrizio-saccomanni
+      role: executive
+      from: 1967
+      to: 2013
+      note: Direttore Generale 2006-2013, carriera dal 1967
     - org: bce
       role: partner
     - org: bis
@@ -1496,14 +1739,40 @@ organizations:
       note: Economist, Chisinau then Washington
     - org: fmi
       role: partner
+  banca-nazionale-del-lavoro:
+    name: Banca Nazionale del Lavoro
+    type: bank
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: carlo-messina
+      role: executive
+      from: 1987
+      to: 1992
+      note: Manager Corporate Finance
   banco-ambrosiano-veneto:
     name: Banco Ambrosiano Veneto
     type: bank
-    headquarters: Milano
-    status: active
+    founded: 1989
+    headquarters: Milan, Italy
+    status: merged
+    note: Merged into Banca Intesa 1998
     stakeholders:
     - person: giovanni-bazoli
+      role: chairman
+      from: 1989
+      to: 1998
+      note: Chairman, guided merger into Banca Intesa
+    - person: carlo-messina
       role: executive
+      from: 1995
+      to: 2002
+      note: Head of Planning
+  banco-bpm:
+    name: Banco BPM SpA
+    type: bank
+    headquarters: Milan, Italy
+    status: active
   banco-de-espana:
     name: Banco de Espana
     type: centralbank
@@ -1903,6 +2172,11 @@ organizations:
       from: 2018
       to: 2024
       note: Governing Council member (ex-officio as Bank of Spain Governor)
+    - person: ignazio-visco
+      role: board
+      from: 2011
+      to: 2023
+      note: Governing Council (ex officio)
     - org: bis
       role: partner
     - org: bank-of-greece
@@ -1972,6 +2246,17 @@ organizations:
       role: owner
       share: 100%
       note: Qatar state-owned via QSI parent structure
+  benetton-group:
+    name: Benetton Group SpA
+    type: company
+    founded: 1965
+    headquarters: Ponzano Veneto, Italy
+    status: active
+    sector: fashion retail
+    stakeholders:
+    - org: edizione
+      role: majority
+      share: 100
   bentley:
     name: Bentley
     type: company
@@ -2471,6 +2756,18 @@ organizations:
     - person: pablo-hernandez-de-cos
       role: member
       note: Participant 2024 (Madrid), 2025
+    - person: paolo-gentiloni
+      role: member
+      from: 2023
+      note: Partecipante 2023, 2024
+    - person: vittorio-colao
+      role: member
+      from: 2018
+      note: Partecipante Bilderberg 2018 (Torino)
+    - person: giampiero-massolo
+      role: member
+      from: 2018
+      note: Bilderberg Torino 2018
     - org: trilaterale
       role: partner
   biontech:
@@ -2558,6 +2855,16 @@ organizations:
       role: executive
       from: 2025
       note: General Manager
+    - person: ignazio-visco
+      role: board
+      from: 2011
+      to: 2023
+      note: Board of Directors (ex officio)
+    - person: fabrizio-saccomanni
+      role: chairman
+      from: 1988
+      to: 1991
+      note: Chairman Gold and Foreign Exchange Committee
     - org: bce
       role: partner
     - org: bank-of-greece
@@ -2729,6 +3036,18 @@ organizations:
     - person: jeff-bezos
       role: founder
       from: 2000
+  blue-shield-international:
+    name: Blue Shield International
+    type: agency
+    founded: 1996
+    headquarters: The Hague, Netherlands
+    status: active
+    stakeholders:
+    - person: karl-von-habsburg
+      role: chairman
+      from: 2008
+      to: 2020
+      note: President
   blum-capital:
     name: Blum Capital Partners
     type: privateequity
@@ -2821,6 +3140,17 @@ organizations:
       from: 2003
       to: 2011
       note: CEO, gestì integrazione post-fusione
+  bocconi:
+    name: Universita Bocconi
+    type: agency
+    founded: 1902
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: matteo-del-fante
+      role: member
+      to: 1992
+      note: Laurea Economia Politica 110 e lode
   bogasari:
     name: Bogasari Flour Mills
     type: company
@@ -3023,6 +3353,17 @@ organizations:
     - person: jeff-bezos
       role: founder
       from: 2015
+  brembo:
+    name: Brembo S.p.A.
+    type: company
+    headquarters: Bergamo, Italy
+    status: active
+    sector: automotive brakes
+    stakeholders:
+    - person: valerio-battista
+      role: board
+      from: 2017
+      note: Lead Independent Director
   brenntag:
     name: Brenntag SE
     type: company
@@ -3142,6 +3483,15 @@ organizations:
     stakeholders:
     - person: prescott-bush
       role: partner
+  bruegel:
+    name: Bruegel
+    type: thinktank
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: nathalie-tocci
+      role: member
+      note: Contributor
   brussels-airlines:
     name: Brussels Airlines
     type: company
@@ -3311,6 +3661,16 @@ organizations:
     - person: theodore-kyriakou
       role: advisor
       note: Advisory Board CIBAM
+  camfin:
+    name: Camfin S.p.A.
+    type: company
+    headquarters: Milan, Italy
+    status: active
+    sector: holding
+    stakeholders:
+    - person: marco-tronchetti-provera
+      role: chairman
+      note: Chairman, controlling shareholder
   canal-plus:
     name: Canal+
     type: media
@@ -3405,6 +3765,19 @@ organizations:
     - person: penny-pritzker
       role: chairman
       note: Chair of the Board
+  casinos-austria:
+    name: Casinos Austria AG
+    type: company
+    founded: 1967
+    headquarters: Vienna, Austria
+    status: active
+    sector: gambling
+    stakeholders:
+    - org: novomatic
+      share: 17
+      from: 2010
+      to: 2019
+      note: Sold after Ibiza scandal
   cbp-quilvest:
     name: CBP Quilvest
     type: bank
@@ -3465,17 +3838,64 @@ organizations:
     stakeholders:
     - org: china-media-group
       share: 100%
-  cea:
-    name: Council of Economic Advisers
-    type: agency
-    founded: 1946
-    headquarters: Washington
+  cdp:
+    name: Cassa Depositi e Prestiti
+    type: swf
+    founded: 1850
+    headquarters: Roma, Italia
     status: active
+    sector: development bank, sovereign wealth
+    stakeholders:
+    - person: dario-scannapieco
+      role: executive
+      from: 2021
+      note: CEO, riconfermato 2024
+    - person: giovanni-gorno-tempini
+      role: chairman
+      from: 2019
+    - person: fabrizio-palermo
+      role: executive
+      from: 2018
+      to: 2021
+      note: CEO e Direttore Generale
+    - person: agostino-scornajenchi
+      role: executive
+      from: 2024
+      to: 2025
+      note: Head Venture Capital
+    - person: matteo-del-fante
+      role: executive
+      from: 2004
+      to: 2014
+      note: DG 2010-14
+  cea:
+    name: CEA
+    type: agency
+    founded: 1945
+    headquarters: Paris, France
+    status: active
+    sector: nuclear energy, research
     stakeholders:
     - person: alan-greenspan
       role: chairman
       from: 1974
       to: 1977
+    - person: monica-de-virgiliis
+      role: executive
+      from: 2017
+      to: 2019
+      note: Chief Strategy Officer
+  cellnex:
+    name: Cellnex Telecom SA
+    type: company
+    headquarters: Barcelona, Spain
+    status: active
+    sector: telecom infrastructure
+    stakeholders:
+    - org: edizione
+      role: minority
+      share: 10
+      note: Via ConnecT SpA
   central-group:
     name: Central Group
     type: company
@@ -3515,6 +3935,15 @@ organizations:
       role: founder
       from: 2017
       note: Co-founder with Gates Foundation
+  ceps:
+    name: Centre for European Policy Studies
+    type: thinktank
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: nathalie-tocci
+      role: member
+      note: Former Research Fellow
   cfr:
     name: Council on Foreign Relations
     type: thinktank
@@ -3600,6 +4029,10 @@ organizations:
       role: member
     - person: william-ford
       role: member
+    - person: claudio-descalzi
+      role: advisor
+      from: 2015
+      note: Global Board of Advisors
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -3634,6 +4067,18 @@ organizations:
     - person: mark-zuckerberg
       role: founder
       from: 2015
+  chapter-zero-france:
+    name: Chapter Zero France
+    type: foundation
+    founded: 2019
+    headquarters: Paris, France
+    status: active
+    sector: climate governance
+    stakeholders:
+    - person: monica-de-virgiliis
+      role: founder
+      from: 2019
+      note: Founder and Chairman
   charoen-pokphand:
     name: Charoen Pokphand Group (CP Group)
     type: company
@@ -3916,6 +4361,17 @@ organizations:
     founded: 1977
     headquarters: London, UK
     status: active
+  cir:
+    name: CIR - Compagnie Industriali Riunite
+    type: company
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: corrado-passera
+      role: executive
+      from: 1985
+      to: 1990
+      note: Assistente CEO, poi General Manager
   citigroup:
     name: Citigroup Inc.
     type: bank
@@ -4221,7 +4677,8 @@ organizations:
     - person: alexander-stubb
       role: alumnus
     - person: alexander-schallenberg
-      role: alumnus
+      role: member
+      note: Alumni, European Law
     - person: margaritis-schinas
       role: alumnus
     - person: enzo-moavero-milanesi
@@ -4235,6 +4692,14 @@ organizations:
     - person: herman-van-rompuy
       role: chairman
       from: 2019
+    - person: pier-carlo-padoan
+      role: academic
+      from: 1992
+      to: 2001
+      note: Professor of Economics (Bruges e Warsaw)
+    - person: nathalie-tocci
+      role: member
+      note: Former lecturer
   colony-capital:
     name: Colony Capital
     type: privateequity
@@ -4274,8 +4739,28 @@ organizations:
     stakeholders:
     - org: paramount-global
       share: 100%
+  comitato-leonardo:
+    name: Comitato Leonardo
+    type: agency
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: luisa-todini
+      role: chairman
+      from: 2009
+  commerzbank:
+    name: Commerzbank AG
+    type: bank
+    headquarters: Frankfurt, Germany
+    status: active
+    stakeholders:
+    - org: unicredit
+      role: shareholder
+      share: 28
+      from: 2024
+      note: In corso acquisizione ostile
   commissione-europea:
-    name: European Commission
+    name: Commissione Europea
     type: agency
     founded: 1958
     headquarters: Brussels, Belgium
@@ -4286,6 +4771,21 @@ organizations:
       from: 2006
       to: 2018
       note: DG Budget; Deputy DG Competition
+    - person: paolo-gentiloni
+      role: executive
+      from: 2019
+      to: 2024
+      note: Commissario Economia
+    - person: altiero-spinelli
+      role: executive
+      from: 1970
+      to: 1976
+      note: Commissario Europeo
+    - person: ferdinando-nelli-feroci
+      role: executive
+      from: 2014
+      to: 2014
+      note: Commissario Europeo Industria e Imprenditoria
   commissione-ue:
     name: Commissione Europea
     type: agency
@@ -4411,6 +4911,11 @@ organizations:
       from: 1952
       to: 2022
       note: Head of the Commonwealth
+  compagnia-san-paolo:
+    name: Compagnia di San Paolo
+    type: foundation
+    headquarters: Turin, Italy
+    status: active
   concertgebouw:
     name: Het Concertgebouw
     type: company
@@ -4450,6 +4955,17 @@ organizations:
       from: 1934
       to: 1934
       note: Breve presidenza
+  consob:
+    name: CONSOB
+    type: agency
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: paolo-ciocca
+      role: board
+      from: 2018
+      to: 2023
+      note: Commissioner
   corriere-della-sera:
     name: Corriere della Sera
     type: media
@@ -4842,6 +5358,20 @@ organizations:
       from: 1940
       to: 1945
       note: Supervisory board
+  delfin:
+    name: Delfin S.à r.l.
+    type: company
+    headquarters: Lussemburgo
+    status: active
+    sector: holding
+    stakeholders:
+    - person: francesco-milleri
+      role: chairman
+      from: 2022
+      note: Presidente post-morte Del Vecchio
+    - person: leonardo-del-vecchio
+      role: founder
+      to: 2022
   dell:
     name: Dell Technologies
     type: company
@@ -5269,6 +5799,11 @@ organizations:
       from: 2000
       to: 2008
       note: President EBRD
+    - person: fabrizio-saccomanni
+      role: executive
+      from: 2003
+      to: 2006
+      note: Vice President
   ec-bahia:
     name: Esporte Clube Bahia
     type: sportsclub
@@ -5340,6 +5875,15 @@ organizations:
     - person: sigmar-gabriel
       role: member
       from: 2018
+    - person: paolo-magri
+      role: board
+      note: Council member
+    - person: nathalie-tocci
+      role: member
+      note: Council member
+    - person: andreas-treichl
+      role: member
+      note: Council Member
   economist:
     name: The Economist
     type: media
@@ -5366,7 +5910,7 @@ organizations:
     name: Edison
     type: company
     founded: 1884
-    headquarters: Milano, Italia
+    headquarters: Milan, Italy
     status: active
     sector: energia
     stakeholders:
@@ -5375,6 +5919,37 @@ organizations:
       from: 1895
       to: 1926
       note: Direzione tecnico-amministrativa
+    - person: gian-maria-gros-pietro
+      role: board
+      from: 2005
+      to: 2019
+      note: Lead Independent Director
+    - person: nathalie-tocci
+      role: board
+      note: Former Independent Director
+  edizione:
+    name: Edizione SpA
+    type: company
+    founded: 1981
+    headquarters: Treviso, Italy
+    status: active
+    sector: holding
+    stakeholders:
+    - person: alessandro-benetton
+      role: chairman
+      from: 2022
+    - person: luciano-benetton
+      role: founder
+      from: 1981
+    - person: gilberto-benetton
+      role: founder
+      from: 1981
+      to: 2018
+      note: Chairman
+    - person: enrico-laghi
+      role: executive
+      from: 2022
+      note: CEO
   edmond-de-rothschild-foundation-israel:
     name: Edmond de Rothschild Foundation (Israel)
     type: foundation
@@ -5587,6 +6162,50 @@ organizations:
       from: 2002
       to: 2008
       note: Director Strategy, then CFO
+    - person: flavio-cattaneo
+      role: chairman
+      from: 2023
+      note: Vice Chairman dal 2023
+    - org: enel
+      role: majority
+      share: 70
+      note: Acquisizione 2007-2009
+  enel:
+    name: Enel S.p.A.
+    type: company
+    founded: 1962
+    headquarters: Rome, Italy
+    status: active
+    sector: energy
+    stakeholders:
+    - person: paolo-scaroni
+      role: chairman
+      from: 2023
+      note: Chairman dal 2023. CEO 2002-2005
+    - person: flavio-cattaneo
+      role: executive
+      from: 2023
+      note: CEO
+    - person: francesco-starace
+      role: executive
+      from: 2014
+      to: 2023
+      note: CEO e General Manager 2014-2023. 3 mandati
+    - person: fulvio-conti
+      role: executive
+      from: 2005
+      to: 2014
+      note: CEO e General Manager 2005-2014
+    - person: marco-alvera
+      role: member
+      from: 2002
+      to: 2004
+      note: Gas business, Terna IPO
+    - person: giuseppe-gola
+      role: executive
+      from: 1991
+      to: 1996
+      note: Divisione Teleinformatica, poi Wind
   eni:
     name: ENI
     type: company
@@ -5607,6 +6226,31 @@ organizations:
       from: 2005
       to: 2014
       note: CEO
+    - person: claudio-descalzi
+      role: executive
+      from: 2014
+      note: CEO dal 2014, quarto mandato
+    - person: gian-maria-gros-pietro
+      role: chairman
+      from: 1999
+      to: 2002
+      note: Chairman
+    - person: nathalie-tocci
+      role: board
+      note: Former Independent Director
+    - person: stefano-venier
+      role: member
+      from: 1989
+      to: 1996
+      note: Petrochemical strategy
+    - person: marco-alvera
+      role: executive
+      from: 2005
+      to: 2015
+      note: Gas division senior roles
+    - org: cdp
+      share: 28.5
+      note: Azionista di riferimento
   entity-mapping-llc:
     type: company
     status: active
@@ -5615,6 +6259,18 @@ organizations:
     - person: william-binney
       role: founder
       from: 2001
+  entso-e:
+    name: ENTSO-E
+    type: agency
+    headquarters: Brussels, Belgium
+    status: active
+    sector: electricity transmission
+    stakeholders:
+    - person: matteo-del-fante
+      role: board
+      from: 2015
+      to: 2017
+      note: Vicepresidente
   eon:
     name: E.ON SE
     type: company
@@ -5738,6 +6394,29 @@ organizations:
       to: 2018
     - org: investor-ab
       role: major-shareholder
+  erste-foundation:
+    name: ERSTE Foundation
+    type: foundation
+    founded: 2003
+    headquarters: Vienna, Austria
+    status: active
+    stakeholders:
+    - person: andreas-treichl
+      role: founder
+      from: 2003
+      note: Chairman
+  erste-group:
+    name: Erste Group Bank AG
+    type: bank
+    founded: 1819
+    headquarters: Vienna, Austria
+    status: active
+    stakeholders:
+    - person: andreas-treichl
+      role: executive
+      from: 1997
+      to: 2019
+      note: CEO
   ert:
     name: European Round Table for Industry
     type: forum
@@ -5761,6 +6440,10 @@ organizations:
     - person: ignacio-galan
       role: steering
       note: Board and Steering Committee
+    - person: claudio-descalzi
+      role: steering
+      from: 2014
+      note: Member, Steering Committee dal 2025
   escher-wyss:
     name: Escher Wyss AG
     type: company
@@ -5785,6 +6468,18 @@ organizations:
       role: founder
       from: 1988
       note: Founder, Chairman, CEO
+  esm:
+    name: European Stability Mechanism
+    type: agency
+    founded: 2012
+    headquarters: Luxembourg
+    status: active
+    stakeholders:
+    - person: daniele-franco
+      role: board
+      from: 2021
+      to: 2022
+      note: Board of Governors (ex officio Min. Finanze)
   espn:
     name: ESPN
     type: media
@@ -5806,6 +6501,18 @@ organizations:
     stakeholders:
     - org: gedi
       share: 100%
+  essilorluxottica:
+    name: EssilorLuxottica
+    type: company
+    headquarters: Parigi, Francia
+    status: active
+    sector: occhialeria
+    stakeholders:
+    - person: leonardo-del-vecchio
+      role: chairman
+      from: 2018
+      to: 2022
+      note: Chairman, largest shareholder via Delfin
   estee-lauder:
     name: Estee Lauder
     type: company
@@ -5864,6 +6571,17 @@ organizations:
       role: executive
       from: 2005
       to: 2013
+  europacable:
+    name: Europacable
+    type: agency
+    headquarters: Brussels, Belgium
+    status: active
+    sector: industry association
+    stakeholders:
+    - person: valerio-battista
+      role: chairman
+      from: 2014
+      note: President
   european-commission:
     name: European Commission
     type: agency
@@ -5897,6 +6615,18 @@ organizations:
       from: 2009
       to: 2014
       note: Primo Presidente permanente
+  european-forum-alpbach:
+    name: European Forum Alpbach
+    type: forum
+    founded: 1945
+    headquarters: Alpbach, Austria
+    status: active
+    stakeholders:
+    - person: andreas-treichl
+      role: chairman
+      from: 2020
+      to: 2024
+      note: President
   european-parliament:
     name: European Parliament
     type: agency
@@ -5969,6 +6699,16 @@ organizations:
       role: chairman
       from: 2021
       note: Founding Chairman
+  european-university-institute:
+    name: European University Institute
+    type: university
+    headquarters: Florence, Italy
+    status: active
+    stakeholders:
+    - person: nathalie-tocci
+      role: member
+      from: 2023
+      note: Professor School of Transnational Governance
   exim-bank-china:
     name: Export-Import Bank of China
     type: bank
@@ -6211,6 +6951,16 @@ organizations:
       share: 11%
       from: 2021
       note: $750M deal
+  ferrovie-stato:
+    name: Ferrovie dello Stato Italiane
+    type: company
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: luigi-ferraris
+      role: executive
+      from: 2021
+      note: CEO
   fiat:
     name: FIAT
     type: automaker
@@ -6224,6 +6974,37 @@ organizations:
     - person: giovanni-agnelli-sr
       role: founder
       from: 1899
+    - person: gian-maria-gros-pietro
+      role: board
+      from: 2005
+      to: 2014
+      note: Independent Director
+  fibercop:
+    name: FiberCop
+    type: company
+    founded: 2021
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: luigi-ferraris
+      role: executive
+      from: 2024
+      note: CEO
+    - person: massimo-sarmi
+      role: chairman
+      from: 2024
+    - org: governo-italia
+      share: 16.0
+      from: 2024
+      note: MEF via closing NetCo
+    - org: telecom-italia
+      from: 2021
+      to: 2024
+      note: Ceduta a KKR luglio 2024
+    - org: kkr
+      share: 37.8
+      from: 2024
+      note: Controllo esclusivo
   fifa:
     name: FIFA - Fédération Internationale de Football Association
     type: agency
@@ -6294,6 +7075,44 @@ organizations:
     - org: governo-saudi
       role: sponsor
       note: Davos del Deserto, forum annuale Riyadh
+  fincantieri:
+    name: Fincantieri SpA
+    type: company
+    founded: 1959
+    headquarters: Trieste, Italy
+    status: active
+    sector: defense shipbuilding
+    stakeholders:
+    - person: giampiero-massolo
+      role: chairman
+      from: 2016
+      to: 2022
+    - person: fabrizio-palermo
+      role: executive
+      from: 2005
+      to: 2014
+      note: CFO, Vice DG
+    - person: pierroberto-folgiero
+      role: executive
+      from: 2022
+      note: CEO, Managing Director
+    - person: biagio-mazzotta
+      role: chairman
+      from: 2024
+      note: Chairman Board of Directors
+    - person: giuseppe-bono
+      role: executive
+      from: 2002
+      to: 2022
+      note: CEO 20 anni, IPO 2014
+    - org: iri
+      from: 1959
+      to: 1984
+      note: Holding company finanziaria IRI
+    - org: cdp
+      share: 70.96
+      from: 2014
+      note: via CDP Equity SpA
   fininvest:
     name: Fininvest
     type: company
@@ -6321,6 +7140,18 @@ organizations:
       role: executive
       from: 2024
       note: CEO
+  finmeccanica:
+    name: Finmeccanica SpA
+    type: company
+    headquarters: Rome, Italy
+    status: renamed
+    sector: defense aerospace
+    stakeholders:
+    - person: giuseppe-bono
+      role: executive
+      from: 1993
+      to: 2002
+      note: General Manager, Managing Director
   fip:
     name: International Padel Federation
     type: agency
@@ -6432,6 +7263,16 @@ organizations:
       from: 1993
       to: 1998
       note: Chair Interim Committee (5 anni)
+    - person: pier-carlo-padoan
+      role: executive
+      from: 2001
+      to: 2005
+      note: Executive Director per Italia
+    - person: fabrizio-saccomanni
+      role: executive
+      from: 1970
+      to: 1975
+      note: Secondment da Banca Italia
     - org: wef
       role: partner
     - org: banca-mondiale
@@ -6459,6 +7300,30 @@ organizations:
     - person: bernard-arnault
       role: founder
       from: 2014
+  fondazione-cariplo:
+    name: Fondazione Cariplo
+    type: foundation
+    headquarters: Milan, Italy
+    status: active
+  fondazione-cini:
+    name: Fondazione Giorgio Cini
+    type: foundation
+    founded: 1951
+    headquarters: Venice, Italy
+    status: active
+    stakeholders:
+    - person: giovanni-bazoli
+      role: chairman
+      note: President
+  fondazione-italia-cina:
+    name: Fondazione Italia-Cina
+    type: foundation
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: paolo-magri
+      role: board
+      note: Board of Directors
   ford-motor:
     name: Ford Motor Company
     type: automaker
@@ -7041,6 +7906,55 @@ organizations:
       role: executive
       from: 2021
       note: Vice Chairman
+    - person: vittorio-colao
+      role: executive
+      from: 2019
+      note: Senior Advisor 2019-2021, Vice Chairman EMEA dal 2023
+  generali:
+    name: Assicurazioni Generali
+    type: company
+    founded: 1831
+    headquarters: Trieste, Italia
+    status: active
+    sector: insurance
+    stakeholders:
+    - person: philippe-donnet
+      role: executive
+      from: 2016
+      note: CEO, confermato 2022 e 2025
+    - person: andrea-sironi
+      role: chairman
+      from: 2025
+      note: Presidente indipendente
+    - person: giuseppe-lazzaro-morpurgo
+      role: founder
+      from: 1831
+    - person: leonardo-del-vecchio
+      role: board
+      from: 2003
+      to: 2011
+      note: Vice President and Board member, shareholder ~8%
+    - person: flavio-cattaneo
+      role: board
+      from: 2022
+      note: Board 2022-. Anche 2014-2016
+    - person: fabrizio-palermo
+      role: board
+      from: 2025
+      note: Consigliere, Chairman Related-Party Transactions Committee
+    - org: mediobanca
+      share: 13.0
+      note: Partecipazione storica, nucleo stabile
+    - org: delfin
+      share: 9.9
+      note: Secondo azionista privato
+    - org: edizione
+      role: minority
+      share: 4
+      note: Core shareholder
+    - org: gruppo-caltagirone
+      share: 7.0
+      note: Azionista critico vs management
   genesis-healthcare:
     name: Genesis HealthCare
     type: company
@@ -7054,6 +7968,29 @@ organizations:
       from: 2007
       to: 2015
       note: LBO $1.7B (con JER Partners)
+  geodis:
+    name: Geodis SA
+    type: company
+    headquarters: Levallois-Perret, France
+    status: active
+    sector: logistics
+    stakeholders:
+    - person: monica-de-virgiliis
+      role: board
+      from: 2019
+      to: 2021
+      note: Supervisory Board
+  georg-fischer:
+    name: Georg Fischer AG
+    type: company
+    headquarters: Schaffhausen, Switzerland
+    status: active
+    sector: industrial manufacturing
+    stakeholders:
+    - person: monica-de-virgiliis
+      role: board
+      from: 2022
+      note: Independent Director
   georgetown-university:
     name: Georgetown University
     type: university
@@ -7169,6 +8106,30 @@ organizations:
       role: chairman
       from: 2009
       to: 2011
+  globsec:
+    name: GLOBSEC
+    type: thinktank
+    headquarters: Bratislava, Slovakia
+    status: active
+    stakeholders:
+    - person: alexander-schallenberg
+      role: member
+    - person: paolo-magri
+      role: member
+      note: Board of Experts, Global Europe Initiative
+    - person: andreas-treichl
+      role: advisor
+      note: International Advisory Council
+  gnl-italia:
+    name: GNL Italia S.p.A.
+    type: company
+    headquarters: Italy
+    status: active
+    sector: LNG regasification
+    stakeholders:
+    - org: snam
+      share: 100
+      note: Full ownership
   gold-fields:
     name: Gold Fields of South Africa
     type: company
@@ -7293,6 +8254,16 @@ organizations:
       from: 1991
       to: 2024
       note: International Advisory Board
+    - person: alessandro-benetton
+      role: member
+      from: 1988
+      to: 1989
+      note: Analyst M&A London
+    - person: andrea-orcel
+      role: executive
+      from: 1988
+      to: 1989
+      note: Fixed Income London
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -7408,10 +8379,24 @@ organizations:
     type: government
     headquarters: Vienna
     stakeholders:
+    - person: alexander-schallenberg
+      role: leader
+      from: 2025
+      note: Federal Chancellor
     - person: sebastian-kurz
       role: leader
       from: 2017
       to: 2021
+    - person: karl-von-habsburg
+      role: legislator
+      from: 1996
+      to: 1999
+      note: MEP for Austria
+    - person: hans-peter-haselsteiner
+      role: legislator
+      from: 1994
+      to: 1998
+      note: MP Liberal Forum
   governo-belgio:
     name: Regno del Belgio
     type: government
@@ -8245,9 +9230,10 @@ organizations:
       role: minister
       note: Foreign Minister, Prime Minister, President
   governo-italia:
-    name: Governo Italia
+    name: Repubblica Italiana
     type: government
-    headquarters: Roma
+    founded: 1946
+    headquarters: Roma, Palazzo Chigi
     status: active
     stakeholders:
     - person: mario-draghi
@@ -8336,6 +9322,202 @@ organizations:
       from: 1919
       to: 1924
       note: Deputato Camera
+    - person: giulio-tremonti
+      role: minister
+      note: Ministro Economia (record durata), Vice-PM
+    - person: marta-dassu
+      role: minister
+      note: Sottosegretario Esteri (Monti), Vice-Ministro Esteri (Letta)
+    - person: francesco-cossiga
+      role: leader
+      from: 1985
+      to: 1992
+      note: Presidente Repubblica
+    - person: giorgio-napolitano
+      role: leader
+      from: 2006
+      to: 2015
+      note: Presidente Repubblica
+    - person: giorgio-napolitano
+      role: minister
+      from: 1996
+      to: 1998
+      note: Ministro degli Interni (governo Prodi I)
+    - person: giorgio-napolitano
+      role: executive
+      from: 1992
+      to: 1994
+      note: Presidente Camera dei Deputati
+    - person: giorgio-napolitano
+      role: legislator
+      from: 1953
+      to: 2005
+      note: Deputato 1953-1996, Senatore a vita 2005
+    - person: massimo-d-alema
+      role: leader
+      from: 1998
+      to: 2000
+      note: Primo Ministro
+    - person: paolo-gentiloni
+      role: leader
+      from: 2016
+      to: 2018
+      note: Primo Ministro
+    - person: paolo-gentiloni
+      role: minister
+      from: 2014
+      to: 2016
+      note: Min. Esteri
+    - person: paolo-gentiloni
+      role: minister
+      from: 2006
+      to: 2008
+      note: Min. Comunicazioni
+    - person: daniele-franco
+      role: minister
+      from: 2021
+      to: 2022
+      note: Ministro Economia e Finanze (Draghi)
+    - person: daniele-franco
+      role: executive
+      from: 2013
+      to: 2019
+      note: Ragioniere Generale dello Stato
+    - person: pier-carlo-padoan
+      role: advisor
+      from: 1998
+      to: 2001
+      note: Consigliere economico PM D'Alema e Amato
+    - person: pier-carlo-padoan
+      role: minister
+      from: 2014
+      to: 2018
+      note: Ministro Economia e Finanze (Renzi, Gentiloni)
+    - person: fabrizio-saccomanni
+      role: minister
+      from: 2013
+      to: 2014
+      note: Ministro Economia e Finanze (governo Letta)
+    - person: vittorio-colao
+      role: minister
+      from: 2021
+      to: 2022
+      note: Ministro Innovazione Tecnologica e Transizione Digitale (governo Draghi)
+    - person: corrado-passera
+      role: minister
+      from: 2011
+      to: 2013
+      note: Ministro Sviluppo Economico e Infrastrutture (governo Monti)
+    - person: roberto-cingolani
+      role: minister
+      from: 2021
+      to: 2022
+      note: Ministro Transizione Ecologica (governo Draghi)
+    - person: stefano-pontecorvo
+      role: executive
+      note: 'Ambasciatore: Pakistan, Deputy Chief Mission Mosca e Londra'
+    - person: giampiero-massolo
+      role: executive
+      from: 2012
+      to: 2016
+      note: Direttore DIS (Intelligence)
+    - person: gian-maria-gros-pietro
+      role: advisor
+      from: 1994
+      to: 1997
+      note: Comitato Privatizzazioni, Ministero Tesoro
+    - person: paolo-magri
+      role: advisor
+      note: Strategic Committee Min. Foreign Affairs
+    - person: mariangela-zappia
+      role: executive
+      from: 1983
+      note: 'Career diplomat: Amb. USA 2021-25, UN 2018-21, NATO 2014-16, Sherpa G7/G20 2016-18'
+    - person: michele-valensise
+      role: executive
+      from: 2012
+      to: 2016
+      note: Segretario Generale MAE
+    - person: nathalie-tocci
+      role: advisor
+      from: 2014
+      to: 2014
+      note: Consigliera Min. Esteri Mogherini
+    - person: marco-simoni
+      role: advisor
+      from: 2014
+      to: 2018
+      note: Consigliere PM per questioni economiche
+    - person: ferdinando-nelli-feroci
+      role: executive
+      from: 1972
+      to: 2013
+      note: Diplomatico; Dir. Gen. Integrazione Europea 2004-06; Capo Gabinetto MAE 2006-08
+    - person: barbara-marinali
+      role: executive
+      from: 2006
+      to: 2020
+      note: DG Infrastrutture stradali MIT 2009-13; Dir. Segr. CIPE 2006-08; Autorità Trasporti 2013-20
+    - person: biagio-mazzotta
+      role: executive
+      from: 1989
+      to: 2024
+      note: Ragioniere Generale dello Stato 2019-2024
+    - person: paolo-ciocca
+      role: executive
+      from: 2013
+      to: 2018
+      note: Vice Direttore Generale DIS (Sicurezza)
+    - person: paolo-ciocca
+      role: executive
+      from: 2002
+      to: 2007
+      note: DG Finance MEF 2005-07, Dir. Relazioni Int. 2002-05
+    - person: giorgia-meloni
+      role: leader
+      from: 2022
+      note: Presidente del Consiglio - Prima donna a ricoprire la carica
+    - person: sergio-mattarella
+      role: leader
+      from: 2015
+      note: Presidente della Repubblica (2 mandati)
+    - person: sergio-mattarella
+      role: minister
+      from: 1999
+      to: 2001
+      note: Ministro della Difesa
+    - person: sergio-mattarella
+      role: minister
+      from: 1998
+      to: 1999
+      note: Vice Presidente del Consiglio
+    - person: sergio-mattarella
+      role: minister
+      from: 1989
+      to: 1990
+      note: Ministro Pubblica Istruzione
+    - person: sergio-mattarella
+      role: minister
+      from: 1987
+      to: 1989
+      note: Ministro Rapporti col Parlamento
+    - person: sergio-mattarella
+      role: legislator
+      from: 1983
+      to: 2008
+      note: Deputato Camera (7 legislature)
+    - person: giancarlo-giorgetti
+      role: minister
+      from: 2022
+      note: Ministro Economia e Finanze (governo Meloni)
+    - person: antonio-tajani
+      role: minister
+      from: 2022
+      note: Vice-Presidente del Consiglio, Ministro Esteri (governo Meloni)
+    - person: matteo-salvini
+      role: minister
+      from: 2022
+      note: Vice-Presidente del Consiglio, Ministro Infrastrutture (governo Meloni)
   governo-kosovo:
     name: Governo Kosovo
     type: government
@@ -9318,6 +10500,16 @@ organizations:
       role: member
     - org: warburg-pincus
       role: partner
+  gruppo-caltagirone:
+    name: Gruppo Caltagirone
+    type: company
+    headquarters: Roma, Italia
+    status: active
+    sector: costruzioni, media
+    stakeholders:
+    - person: francesco-gaetano-caltagirone
+      role: chairman
+      note: Fondatore e patron
   gsk:
     name: GSK plc
     type: pharma
@@ -9555,6 +10747,18 @@ organizations:
     - person: richard-dearlove
       role: member
       note: Signatory Statement of Principles
+  hera:
+    name: Hera Group
+    type: company
+    headquarters: Bologna, Italy
+    status: active
+    sector: multi-utility
+    stakeholders:
+    - person: stefano-venier
+      role: executive
+      from: 2014
+      to: 2022
+      note: CEO
   hgv-hamburg:
     name: HGV Hamburger Gesellschaft für Vermögens- und Beteiligungsmanagement mbH
     type: company
@@ -9653,6 +10857,15 @@ organizations:
     - org: walt-disney
       share: 100%
       from: 2024
+  human-technopole:
+    name: Human Technopole
+    type: foundation
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: marco-simoni
+      role: chairman
+      note: Primo Presidente
   hyatt-hotels:
     name: Hyatt Hotels Corporation
     type: company
@@ -9665,6 +10878,16 @@ organizations:
       role: chairman
       from: 2004
       note: Executive Chairman
+  hypovereinsbank:
+    name: HypoVereinsbank (UniCredit Bank GmbH)
+    type: bank
+    headquarters: Munich, Germany
+    status: active
+    stakeholders:
+    - org: unicredit
+      role: majority
+      share: 100
+      note: Controllata tedesca
   hyundai-motor:
     name: Hyundai Motor Group
     type: automaker
@@ -9680,6 +10903,49 @@ organizations:
     - org: baic
       share: 50%
       note: Beijing Hyundai JV 50-50
+  iai:
+    name: Istituto Affari Internazionali
+    type: thinktank
+    founded: 1965
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: pier-carlo-padoan
+      role: board
+      note: Vice Presidente
+    - person: fabrizio-saccomanni
+      role: board
+      from: 2016
+      to: 2019
+      note: Vice Presidente
+    - person: altiero-spinelli
+      role: founder
+      from: 1965
+      to: 1970
+      note: Fondatore e primo Direttore
+    - person: michele-valensise
+      role: chairman
+      from: 2025
+      note: Presidente
+    - person: nathalie-tocci
+      role: executive
+      from: 2017
+      to: 2026
+      note: Direttore
+    - person: marco-simoni
+      role: executive
+      from: 2026
+      note: Direttore eletto
+    - person: ferdinando-nelli-feroci
+      role: chairman
+      from: 2013
+      to: 2024
+      note: Presidente
+    - person: stefano-silvestri
+      role: chairman
+      from: 2001
+      to: 2013
+      note: Presidente
   iberdrola:
     name: Iberdrola S.A.
     type: company
@@ -9776,6 +11042,18 @@ organizations:
       from: 1948
       to: 1968
       note: Chief of Staff 1964-68
+  ifad:
+    name: International Fund for Agricultural Development
+    type: agency
+    founded: 1977
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: paolo-ciocca
+      role: executive
+      from: 2007
+      to: 2013
+      note: Secretary of the Fund
   ifpma:
     name: International Federation of Pharmaceutical Manufacturers & Associations
     type: agency
@@ -9935,6 +11213,17 @@ organizations:
     stakeholders:
     - person: antonio-angelucci
       role: owner
+  illimity:
+    name: illimity Bank
+    type: bank
+    founded: 2018
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: corrado-passera
+      role: founder
+      from: 2018
+      note: Fondatore e CEO
   imf:
     name: International Monetary Fund
     type: agency
@@ -10052,6 +11341,24 @@ organizations:
       role: majority_owner
       share: 95
       from: 2022
+  infineon:
+    name: Infineon Technologies
+    type: company
+    headquarters: Munich, Germany
+    status: active
+    sector: semiconductors
+  infineon-tech:
+    name: Infineon Technologies
+    type: company
+    headquarters: Munich, Germany
+    status: active
+    sector: semiconductors
+    stakeholders:
+    - person: monica-de-virgiliis
+      role: executive
+      from: 2015
+      to: 2017
+      note: GM Industrial Microcontroller Division
   ing:
     name: ING Group N.V.
     type: bank
@@ -10185,18 +11492,61 @@ organizations:
       to: 2009
       note: President
   intesa-sanpaolo:
-    name: Intesa Sanpaolo
+    name: Intesa Sanpaolo SpA
     type: bank
     founded: 2007
-    headquarters: Torino
+    headquarters: Turin, Italy
     status: active
+    sector: banking
     stakeholders:
     - person: giovanni-bazoli
-      role: executive
+      role: chairman
+      from: 1998
+      to: 2022
+      note: Chairman Banca Intesa (1998-2007), Chairman Intesa Sanpaolo (2007-2016 Management Board, 2016-2022 Board of Directors),
+        ora Honorary Chairman
     - person: marc-hoffmann
       role: executive
       from: 2023
       note: Via Intesa Sanpaolo Wealth Management Luxembourg
+    - person: corrado-passera
+      role: executive
+      from: 2002
+      to: 2011
+      note: CEO Banca Intesa 2002-06, CEO Intesa Sanpaolo 2007-11
+    - person: marco-tronchetti-provera
+      role: partner
+      from: 2001
+      to: 2007
+      note: Olimpia consortium partner
+    - person: carlo-messina
+      role: executive
+      from: 2013
+      note: Managing Director and CEO
+    - person: gian-maria-gros-pietro
+      role: chairman
+      from: 2016
+      note: Chairman Board of Directors
+    - person: mariangela-zappia
+      role: board
+      from: 2025
+      note: Board member
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+      note: Terzo azionista
+    - org: banco-ambrosiano-veneto
+      role: predecessor
+      from: 1998
+      note: Merged with Cariplo to form Banca Intesa (1998), then Intesa Sanpaolo (2007)
+    - org: compagnia-san-paolo
+      role: shareholder
+      share: 6.49
+      note: Primo azionista
+    - org: fondazione-cariplo
+      role: shareholder
+      share: 5.41
+      note: Secondo azionista
   intesa-sanpaolo-wealth-management:
     name: Intesa Sanpaolo Wealth Management S.A.
     type: bank
@@ -10295,12 +11645,55 @@ organizations:
     stakeholders:
     - person: riccardo-gallo
       role: leader
+    - person: gian-maria-gros-pietro
+      role: chairman
+      from: 1997
+      to: 1999
+      note: Chairman, privatizzazioni
   ispi:
-    name: ISPI (Istituto Studi Politica Internazionale)
+    name: ISPI - Istituto per gli Studi di Politica Internazionale
     type: thinktank
     founded: 1934
-    headquarters: Milano, Italia
+    headquarters: Milan, Italy
     status: active
+    note: Oldest Italian think tank, founded 1934. Sede Palazzo Clerici dal 1942
+    stakeholders:
+    - person: alberto-pirelli
+      role: chairman
+      from: 1935
+      note: First President, founder
+    - person: giampiero-massolo
+      role: chairman
+      from: 2017
+      to: 2024
+      note: President
+    - person: gian-maria-gros-pietro
+      role: steering
+      note: Executive Committee
+    - person: paolo-magri
+      role: executive
+      note: Vice Presidente Esecutivo e Direttore
+    - person: franco-bruni
+      role: chairman
+      from: 2024
+      to: 2025
+      note: President (interim after Massolo)
+    - person: mariangela-zappia
+      role: chairman
+      from: 2026
+      note: President (elected, enters Jan 2026)
+    - person: giancarlo-aragona
+      role: chairman
+      from: 2011
+      to: 2016
+      note: President
+    - person: boris-biancheri
+      role: chairman
+      from: 1997
+      to: 2011
+      note: President - revitalized institute
+    - person: silvia-maria-rovere
+      role: board
   israel-diamond-exchange:
     name: Israel Diamond Exchange
     type: company
@@ -10326,6 +11719,20 @@ organizations:
       role: chairman
       from: 2024
       note: Presidente attuale
+  italgas:
+    name: Italgas
+    type: company
+    headquarters: Torino, Italia
+    status: active
+    sector: gas, distribuzione
+    stakeholders:
+    - person: paolo-ciocca
+      role: chairman
+      from: 2025
+      note: Chairman Board of Directors
+    - org: cdp
+      share: 25.98
+      note: Tramite CDP RETI
   italia-1:
     name: Italia 1
     type: media
@@ -10507,6 +11914,16 @@ organizations:
     - person: morris-amitay
       role: leader
       from: 1981
+  johns-hopkins-sais:
+    name: Johns Hopkins SAIS
+    type: university
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: nathalie-tocci
+      role: member
+      from: 2025
+      note: Professor of Practice
   johns-hopkins-university:
     name: Johns Hopkins University
     type: foundation
@@ -10587,6 +12004,11 @@ organizations:
       from: 1981
       to: 1988
       note: Trading floor, New York
+    - person: matteo-del-fante
+      role: executive
+      from: 1991
+      to: 2003
+      note: MD 1999, EMEA Public Sector
   jpmorgan-chase:
     name: JPMorgan Chase
     type: bank
@@ -10789,7 +12211,7 @@ organizations:
       to: 2008
       note: Kissinger McLarty Associates
   kkr:
-    name: KKR & Co.
+    name: KKR
     type: privateequity
     founded: 1976
     headquarters: New York, USA
@@ -11202,6 +12624,38 @@ organizations:
     founded: 1989
     headquarters: Los Angeles, California, USA
     status: active
+  leonardo:
+    name: Leonardo SpA
+    type: company
+    founded: 1948
+    headquarters: Rome, Italy
+    status: active
+    sector: defense aerospace
+    note: Ex Finmeccanica (rinominata 2017). IRI 1948-2002, poi MEF
+    stakeholders:
+    - person: roberto-cingolani
+      role: executive
+      from: 2023
+      note: CEO e General Manager dal maggio 2023
+    - person: stefano-pontecorvo
+      role: chairman
+      from: 2023
+      note: Chairman dal maggio 2023
+    - person: alessandro-profumo
+      role: executive
+      from: 2017
+      to: 2023
+      note: CEO 2017-2023
+    - person: mauro-moretti
+      role: executive
+      from: 2014
+      to: 2017
+      note: CEO 2014-2017. Rinomino in Leonardo 2016
+    - person: giuseppe-orsi
+      role: executive
+      from: 2011
+      to: 2013
+      note: CEO Finmeccanica 2011-2013. Arrestato corruzione India, poi assolto
   les-echos:
     name: Les Echos
     type: media
@@ -11423,6 +12877,23 @@ organizations:
       share: 3.38
       from: 2025
       note: As of March 2025
+  luiss:
+    name: LUISS Guido Carli
+    type: university
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: paolo-magri
+      role: board
+      note: Board of Directors
+    - person: marco-simoni
+      role: member
+      note: Professore
+    - person: ferdinando-nelli-feroci
+      role: member
+      from: 2013
+      to: 2014
+      note: Docente School of Government
   luma-foundation:
     name: LUMA Foundation
     type: foundation
@@ -11459,6 +12930,18 @@ organizations:
       role: partner
       from: 2008
       note: Public-private partnership, Ministry of Finance
+  luxottica:
+    name: Luxottica
+    type: company
+    founded: 1961
+    headquarters: Milan, Italy
+    status: merged
+    stakeholders:
+    - person: leonardo-del-vecchio
+      role: founder
+      from: 1961
+      to: 2018
+      note: Founder and Chairman
   lvmh:
     name: LVMH Moët Hennessy Louis Vuitton
     type: company
@@ -11504,6 +12987,11 @@ organizations:
     stakeholders:
     - org: rtl-group
       share: majority
+  macquarie:
+    name: Macquarie Asset Management
+    type: assetmanager
+    headquarters: Sydney, Australia
+    status: active
   macquarie-group:
     name: Macquarie Group
     type: assetmanager
@@ -11524,6 +13012,18 @@ organizations:
       from: 2017
       to: 2022
       note: Chairman of the Board
+  maire-tecnimont:
+    name: Maire Tecnimont SpA
+    type: company
+    headquarters: Milan, Italy
+    status: active
+    sector: engineering
+    stakeholders:
+    - person: pierroberto-folgiero
+      role: executive
+      from: 2013
+      to: 2022
+      note: CEO and General Manager
   manchester-city:
     name: Manchester City FC
     type: sportsclub
@@ -11677,6 +13177,16 @@ organizations:
       from: 1990
       to: 2002
       note: Partner from 1997
+    - person: vittorio-colao
+      role: partner
+      from: 1990
+      to: 1996
+      note: Consultant dopo MBA Harvard
+    - person: corrado-passera
+      role: partner
+      from: 1980
+      to: 1985
+      note: Consultant, banking e insurance
   mediacorp:
     name: Mediacorp Pte Ltd
     type: media
@@ -11719,6 +13229,71 @@ organizations:
     - org: fininvest
       share: 48%
       note: controlling
+  mediobanca:
+    name: Mediobanca
+    type: bank
+    founded: 1946
+    headquarters: Milano, Italia
+    status: active
+    sector: investment banking
+    stakeholders:
+    - person: enrico-cuccia
+      role: founder
+      from: 1946
+      to: 2000
+    - person: enrico-cuccia
+      role: executive
+      from: 1946
+      to: 1982
+      note: Amministratore Delegato
+    - person: enrico-cuccia
+      role: chairman
+      from: 1988
+      to: 2000
+      note: Presidente onorario
+    - person: raffaele-mattioli
+      role: founder
+      from: 1946
+      note: Ideatore con Cuccia
+    - person: vincenzo-maranghi
+      role: executive
+      from: 1988
+      to: 2003
+      note: Amministratore Delegato
+    - person: alberto-nagel
+      role: executive
+      from: 2003
+      to: 2025
+      note: CEO
+    - person: vittorio-grilli
+      role: chairman
+      from: 2025
+      note: Presidente post-OPS MPS
+    - person: davide-melzi-d-eril
+      role: executive
+      from: 2025
+      note: AD post-OPS MPS
+    - person: leonardo-del-vecchio
+      role: chairman
+      from: 2003
+      to: 2007
+      note: President 2003-2007, largest shareholder 2019-2022 (~19%)
+    - person: marco-tronchetti-provera
+      role: board
+      from: 1996
+      to: 2017
+      note: Director 1996-2002, Deputy Chairman 2007-2017
+    - org: monte-paschi
+      share: 86.3
+      from: 2025
+      note: OPS totalitaria
+    - org: delfin
+      share: 19.81
+      from: 2020
+      note: Primo azionista
+    - org: edizione
+      role: minority
+      note: Shareholder
   melbourne-city:
     name: Melbourne City FC
     type: sportsclub
@@ -11796,6 +13371,18 @@ organizations:
       from: 1999
       to: 2009
       note: Founder and President
+  merrill-lynch:
+    name: Merrill Lynch
+    type: bank
+    headquarters: New York, USA
+    status: merged
+    note: Merged with Bank of America 2008
+    stakeholders:
+    - person: andrea-orcel
+      role: executive
+      from: 1992
+      to: 2012
+      note: Head Global Origination, Investment Banking
   meta:
     name: Meta Platforms (Facebook, Instagram)
     type: media
@@ -12119,6 +13706,12 @@ organizations:
       role: member
       from: 1997
       note: International Council
+  monte-paschi:
+    name: Banca Monte dei Paschi di Siena
+    type: bank
+    founded: 1472
+    headquarters: Siena, Italia
+    status: active
   morgan-stanley:
     name: Morgan Stanley
     type: bank
@@ -12245,6 +13838,11 @@ organizations:
     headquarters: Tokyo, Japan
     status: active
     sector: banking
+  mundys:
+    name: Mundys SpA
+    type: company
+    status: active
+    note: 'Alias: vedi atlantia (rinominata marzo 2023)'
   munich-re:
     name: Münchener Rückversicherungs-AG
     type: company
@@ -12360,6 +13958,19 @@ organizations:
     - person: rob-de-wijk
       role: advisor
       note: Senior Steering Group NATO SOF HQ
+    - person: roberto-cingolani
+      role: board
+      note: Senior Board Director NATO Innovation Fund
+    - person: stefano-pontecorvo
+      role: executive
+      from: 2020
+      to: 2021
+      note: Senior Civilian Representative Afghanistan, coordinatore evacuazione
+    - person: mariangela-zappia
+      role: executive
+      from: 2014
+      to: 2016
+      note: Permanent Representative Italy to NATO (first woman)
     - org: atlantic-council
       role: advocacy
       note: Think tank pro-NATO, fondato per supporto Alleanza Atlantica
@@ -12425,6 +14036,17 @@ organizations:
     - org: amg-media
       share: 64.71%
       from: 2022
+  neos:
+    name: NEOS - The New Austria
+    type: forum
+    founded: 2012
+    headquarters: Vienna, Austria
+    status: active
+    stakeholders:
+    - person: hans-peter-haselsteiner
+      role: founder
+      from: 2012
+      note: Major donor
   nestle:
     name: Nestlé S.A.
     type: company
@@ -12695,7 +14317,7 @@ organizations:
       role: board
       note: Membro del board
   nokia:
-    name: Nokia Corporation
+    name: Nokia
     type: company
     headquarters: Espoo, Finland
     status: active
@@ -12705,6 +14327,11 @@ organizations:
       role: board
       from: 2011
       to: 2014
+    - person: giuseppina-di-foggia
+      role: executive
+      from: 2020
+      to: 2023
+      note: CEO Nokia Italia e Malta
   nord-stream-ag:
     name: Nord Stream AG
     type: company
@@ -12782,6 +14409,18 @@ organizations:
       from: 2018
       to: 2025
       note: Chairman; ousted Nov 2025 by Novo Nordisk Foundation
+  novomatic:
+    name: Novomatic AG
+    type: company
+    founded: 1980
+    headquarters: Gumpoldskirchen, Austria
+    status: active
+    sector: gambling
+    stakeholders:
+    - person: johann-graf
+      role: founder
+      from: 1980
+      note: Owner
   nps-korea:
     name: National Pension Service (NPS)
     type: swf
@@ -12975,6 +14614,35 @@ organizations:
     - person: beny-steinmetz
       role: founder
       note: Via BSGR, Sierra Leone diamonds
+  oecd:
+    name: OECD
+    type: agency
+    founded: 1961
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: ignazio-visco
+      role: executive
+      from: 1997
+      to: 2002
+      note: Chief Economist, Director Economics Dept
+    - person: pier-carlo-padoan
+      role: executive
+      from: 2007
+      to: 2014
+      note: Deputy Secretary General, Chief Economist (dal 2009)
+  olivetti:
+    name: Olivetti
+    type: company
+    headquarters: Ivrea, Italy
+    status: inactive
+    sector: technology
+    stakeholders:
+    - person: corrado-passera
+      role: executive
+      from: 1990
+      to: 1998
+      note: Lancio Omnitel e Infostrada
   oms:
     name: Organizzazione Mondiale della Sanita
     type: agency
@@ -12993,6 +14661,21 @@ organizations:
       role: executive
       from: 2006
       to: 2017
+  omv:
+    name: OMV AG
+    type: company
+    founded: 1956
+    headquarters: Vienna, Austria
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: alfred-stern
+      role: executive
+      from: 2021
+      note: CEO
+    - org: adnoc
+      share: 25
+      note: Strategic partner, Borealis merger
   onassis-foundation:
     name: Alexander S. Onassis Foundation
     type: foundation
@@ -13042,6 +14725,11 @@ organizations:
       from: 2014
       to: 2016
       note: Chief World Humanitarian Summit Secretariat, OCHA
+    - person: mariangela-zappia
+      role: executive
+      from: 2018
+      to: 2021
+      note: Permanent Representative Italy to UN New York
     - org: wef
       role: partner
   opec:
@@ -13049,6 +14737,39 @@ organizations:
     type: agency
     headquarters: Vienna
     status: active
+  open-fiber:
+    name: Open Fiber SpA
+    type: company
+    founded: 2015
+    headquarters: Milan, Italy
+    status: active
+    sector: telecomunicazioni FTTH
+    stakeholders:
+    - person: barbara-marinali
+      role: chairman
+      from: 2021
+      to: 2023
+      note: Presidente
+    - person: paolo-ciocca
+      role: chairman
+      from: 2023
+      note: Chairman Open Fiber e Open Fiber Holdings
+    - person: giuseppe-gola
+      role: executive
+      from: 2023
+      note: CEO e General Manager
+    - org: cdp
+      share: 60.0
+      note: Tramite CDP Equity/Open Fiber Holdings
+    - org: enel
+      share: 50
+      from: 2015
+      to: 2021
+      note: Fondatore come Enel Open Fiber
+    - org: macquarie
+      share: 40
+      from: 2021
+      note: via Fiber Networks Holdings Sarl
   open-society:
     name: Open Society Foundations
     type: foundation
@@ -13059,6 +14780,9 @@ organizations:
     - person: george-soros
       role: founder
       from: 1993
+    - person: andreas-treichl
+      role: advisor
+      note: European Advisory Board
   openai:
     name: OpenAI
     type: company
@@ -13292,6 +15016,17 @@ organizations:
       from: 1994
       to: 2004
       note: President
+  paneuropean-union:
+    name: Paneuropean Union
+    type: forum
+    founded: 1923
+    headquarters: Munich, Germany
+    status: active
+    stakeholders:
+    - person: karl-von-habsburg
+      role: chairman
+      from: 1986
+      note: President Austrian branch
   paragon:
     name: Paragon Solutions
     type: company
@@ -13360,8 +15095,10 @@ organizations:
     - org: paramount-global
       share: 100%
   parlamento-europeo:
-    name: European Parliament
-    headquarters: Brussels/Strasbourg
+    name: Parlamento Europeo
+    type: agency
+    headquarters: Strasbourg/Brussels
+    status: active
     stakeholders:
     - person: gaston-thorn
       role: member
@@ -13385,6 +15122,11 @@ organizations:
       role: member
       from: 1989
       to: 1994
+    - person: altiero-spinelli
+      role: member
+      from: 1979
+      to: 1986
+      note: Eurodeputato; autore Progetto Trattato UE 1984
   payless:
     name: Payless ShoeSource
     type: company
@@ -13621,10 +15363,10 @@ organizations:
       role: operative
       note: Product manager, algorithmic systems
   pirelli:
-    name: Pirelli
+    name: Pirelli & C. S.p.A.
     type: company
     founded: 1872
-    headquarters: Milano, Italia
+    headquarters: Milan, Italy
     status: active
     sector: pneumatici, cavi
     stakeholders:
@@ -13633,6 +15375,22 @@ organizations:
       from: 1904
       to: 1971
       note: Amministratore delegato Pirelli Holding
+    - person: marco-tronchetti-provera
+      role: executive
+      from: 1992
+      to: 2023
+      note: CEO 1992-2022, Executive Vice Chairman 2023-
+    - person: massimo-battaini
+      role: executive
+      to: 2005
+      note: 15 anni in Pirelli
+    - person: valerio-battista
+      role: executive
+      to: 2005
+      note: Ristrutturazione Pirelli Cavi
+    - person: francesco-gori
+      role: executive
+      note: CEO Pirelli Tyre
   pldt:
     name: PLDT Inc
     type: company
@@ -13716,6 +15474,52 @@ organizations:
     - org: porsche-ag
       role: stake
       share: 0.25
+  poste-italiane:
+    name: Poste Italiane S.p.A.
+    type: company
+    founded: 1862
+    headquarters: Rome, Italy
+    status: active
+    sector: postal, financial, logistics
+    stakeholders:
+    - person: corrado-passera
+      role: executive
+      from: 1998
+      to: 2002
+      note: CEO, ristrutturazione e creazione BancoPosta
+    - person: matteo-del-fante
+      role: executive
+      from: 2017
+      note: CEO
+    - person: silvia-maria-rovere
+      role: chairman
+      from: 2023
+    - person: maria-bianca-farina
+      role: chairman
+      from: 2017
+      to: 2023
+    - person: luisa-todini
+      role: chairman
+      from: 2014
+      to: 2017
+    - person: massimo-sarmi
+      role: executive
+      from: 2002
+      to: 2014
+      note: CEO
+    - person: francesco-caio
+      role: executive
+      from: 2014
+      to: 2017
+      note: CEO
+    - org: governo-italia
+      share: 29.26
+      from: 2015
+      note: MEF quota diretta
+    - org: cdp
+      share: 35.0
+      from: 2015
+      note: Azionista storico post-IPO
   precision-capital:
     name: Precision Capital
     type: privateequity
@@ -13738,6 +15542,45 @@ organizations:
     - org: fip
       role: governance
       from: 2022
+  prysmian:
+    name: Prysmian Group
+    type: company
+    founded: 2005
+    headquarters: Milan, Italy
+    status: active
+    sector: cables, energy, telecom
+    stakeholders:
+    - person: monica-de-virgiliis
+      role: board
+      from: 2015
+      to: 2021
+      note: Independent Director, Chair Remuneration/Sustainability
+    - person: massimo-battaini
+      role: executive
+      from: 2024
+      note: CEO
+    - person: valerio-battista
+      role: executive
+      from: 2005
+      to: 2024
+      note: CEO (22 anni)
+    - person: valerio-battista
+      role: vice-chairman
+      from: 2024
+      note: Vice-Chairman
+    - person: francesco-gori
+      role: chairman
+      from: 2024
+      note: Chairman
+    - person: claudio-de-conto
+      role: chairman
+      from: 2021
+      to: 2024
+      note: Chairman
+    - org: goldman-sachs
+      from: 2005
+      to: 2010
+      note: Buyout Pirelli Cavi, €1.3 mld
   psa-group:
     name: PSA Group
     type: automaker
@@ -13902,10 +15745,26 @@ organizations:
     name: RAI - Radiotelevisione Italiana
     type: media
     founded: 1954
-    headquarters: Roma, Italia
+    headquarters: Rome, Italy
     status: active
     sector: public broadcaster
     note: servizio pubblico, controllato MEF
+    stakeholders:
+    - person: igor-de-biasio
+      role: board
+      from: 2018
+      to: 2019
+      note: CdA eletto Camera Deputati
+    - person: luisa-todini
+      role: board
+      from: 2012
+      to: 2014
+  raiffeisen-bank-international:
+    name: Raiffeisen Bank International AG
+    type: bank
+    founded: 1927
+    headquarters: Vienna, Austria
+    status: active
   raine-group:
     name: The Raine Group
     type: privateequity
@@ -13968,6 +15827,17 @@ organizations:
     - person: urbano-cairo
       role: chairman
       from: 2016
+    - person: leonardo-del-vecchio
+      role: board
+      note: Vice President
+    - person: vittorio-colao
+      role: executive
+      from: 2004
+      to: 2006
+      note: CEO e Publisher
+    - person: marco-tronchetti-provera
+      role: board
+      note: Director
     - org: cairo-communication
       share: controlling
       from: 2016
@@ -14018,6 +15888,9 @@ organizations:
     - person: pablo-hernandez-de-cos
       role: board
       note: Board of Trustees (as Bank of Spain Governor)
+    - person: nathalie-tocci
+      role: member
+      note: Scientific Council
     - org: telefonica
       role: member
       from: 2001
@@ -14747,6 +16620,17 @@ organizations:
       from: 2010
       to: 2022
       note: Chairman of the Board; interim CEO Oct 2014 - Apr 2015
+  santander:
+    name: Banco Santander SA
+    type: bank
+    headquarters: Madrid, Spain
+    status: active
+    stakeholders:
+    - person: andrea-orcel
+      role: executive
+      from: 2018
+      to: 2019
+      note: CEO designato, offerta revocata - vinto €68m risarcimento
   sap:
     name: SAP SE
     type: company
@@ -14782,6 +16666,18 @@ organizations:
     - org: vanguard
       share: 3.9%
       from: 2024
+  saras:
+    name: Saras S.p.A.
+    type: company
+    headquarters: Milan, Italy
+    status: active
+    sector: oil refining
+    stakeholders:
+    - person: monica-de-virgiliis
+      role: board
+      from: 2021
+      to: 2022
+      note: Independent Director
   sas:
     name: SAS (Scandinavian Airlines)
     type: company
@@ -15218,6 +17114,9 @@ organizations:
     headquarters: Innsbruck, Austria
     status: defunct
     note: Collapsed Nov 2023, €5B debt. Founded by René Benko
+    stakeholders:
+    - org: raiffeisen-bank-international
+      note: EUR 750M exposure, lost in bankruptcy
   silk-road-fund:
     name: Silk Road Fund
     type: swf
@@ -15335,6 +17234,46 @@ organizations:
     - org: comcast
       share: 100%
       from: 2018
+  snam:
+    name: Snam S.p.A.
+    type: company
+    founded: 1941
+    headquarters: San Donato Milanese, Italy
+    status: active
+    sector: gas infrastructure, energy
+    stakeholders:
+    - person: stefano-venier
+      role: executive
+      from: 2022
+      to: 2025
+      note: CEO
+    - person: barbara-marinali
+      role: advisor
+      from: 2020
+      to: 2022
+      note: Senior Advisor CEO
+    - person: marco-alvera
+      role: executive
+      from: 2016
+      to: 2022
+      note: CEO
+    - person: carlo-malacarne
+      role: chairman
+      from: 2016
+      to: 2022
+      note: Chairman
+    - person: agostino-scornajenchi
+      role: executive
+      from: 2025
+      note: CEO
+    - person: monica-de-virgiliis
+      role: chairman
+      from: 2022
+      to: 2025
+      note: Chairman
+    - org: cdp
+      share: 31.35
+      note: Tramite CDP RETI
   snb:
     name: Swiss National Bank
     type: centralbank
@@ -15733,6 +17672,33 @@ organizations:
       share: 7.2%
       from: 2021
       note: Via Peugeot 1810 subsidiary (76.5% PI, 23.5% EPF)
+  stmicroelectronics:
+    name: STMicroelectronics
+    type: company
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: semiconductors
+    stakeholders:
+    - person: monica-de-virgiliis
+      role: executive
+      from: 2001
+      to: 2015
+      note: GM Wireless Multimedia Division
+    - person: matteo-del-fante
+      role: board
+      from: 2005
+      to: 2011
+      note: Per conto CDP
+  stogit:
+    name: Stogit S.p.A.
+    type: company
+    headquarters: Italy
+    status: active
+    sector: gas storage
+    stakeholders:
+    - org: snam
+      share: 100
+      note: Full ownership
   storebrand:
     name: Storebrand
     type: company
@@ -15749,12 +17715,27 @@ organizations:
       from: 1996
       to: 2007
       note: SVP Finance & Risk
+  strabag:
+    name: Strabag SE
+    type: company
+    founded: 1835
+    headquarters: Vienna, Austria
+    status: active
+    sector: construction
+    stakeholders:
+    - person: hans-peter-haselsteiner
+      role: founder
+      from: 1972
+      note: Majority shareholder via FIMAG
+    - org: raiffeisen-bank-international
+      share: 32
+      note: UNIQA Raiffeisen Group
   suez:
-    name: Suez
+    name: Suez SA
     type: company
     founded: 1858
     headquarters: Paris, France
-    status: merged
+    status: active
     stakeholders:
     - person: etienne-davignon
       role: board
@@ -15882,6 +17863,15 @@ organizations:
       from: 2005
       to: 2022
       note: Fondatore e proprietario. 30% RTL Nederland post-merger
+  tap:
+    name: Trans Adriatic Pipeline
+    type: company
+    founded: 2008
+    status: active
+    sector: gas pipeline
+    stakeholders:
+    - org: snam
+      note: Major shareholder
   tata-motors:
     name: Tata Motors
     type: automaker
@@ -15929,15 +17919,73 @@ organizations:
       role: executive
       note: Red Bull Thailand
   telecom-italia:
-    name: Telecom Italia
+    name: TIM (Telecom Italia)
     type: company
-    headquarters: Milano
+    founded: 1964
+    headquarters: Rome, Italy
     status: active
+    sector: telecommunications
     stakeholders:
     - person: franco-bernabe
       role: executive
       from: 1998
       to: 1999
+    - person: leonardo-del-vecchio
+      role: chairman
+      note: President Board of Directors
+    - person: marco-tronchetti-provera
+      role: chairman
+      from: 2001
+      to: 2006
+      note: Chairman via Olimpia
+    - person: flavio-cattaneo
+      role: executive
+      from: 2016
+      to: 2017
+      note: CEO 2016-2017
+    - person: michele-valensise
+      role: chairman
+      from: 2018
+      to: 2019
+      note: Presidente
+    - person: pietro-labriola
+      role: executive
+      from: 2022
+      note: CEO, 2° mandato 2024
+    - person: alberta-figari
+      role: chairman
+      from: 2024
+      note: Prima donna presidente
+    - person: salvatore-rossi
+      role: chairman
+      from: 2019
+      to: 2024
+    - person: luigi-gubitosi
+      role: executive
+      from: 2018
+      to: 2021
+      note: CEO
+    - person: amos-genish
+      role: executive
+      from: 2017
+      to: 2018
+      note: CEO, nominato da Vivendi
+    - person: marco-patuano
+      role: executive
+      from: 2011
+      to: 2016
+      note: CEO
+    - org: vivendi
+      from: 2015
+      to: 2025
+      note: Ceduto a Poste Italiane
+    - org: cdp
+      share: 9.8
+      note: Azionista rilevante
+    - org: poste-italiane
+      share: 27.32
+      from: 2025
+      note: Primo azionista, acquisizione da Vivendi
   telefonica:
     name: Telefonica S.A.
     type: company
@@ -16070,6 +18118,65 @@ organizations:
     headquarters: Shenzhen, China
     status: active
     sector: tech
+  terna:
+    name: Terna S.p.A.
+    type: company
+    founded: 1999
+    headquarters: Rome, Italy
+    status: active
+    sector: electricity transmission
+    stakeholders:
+    - person: flavio-cattaneo
+      role: executive
+      from: 2005
+      to: 2014
+      note: CEO (3 mandati)
+    - person: agostino-scornajenchi
+      role: executive
+      from: 2017
+      to: 2023
+      note: CFO
+    - person: giuseppina-di-foggia
+      role: executive
+      from: 2023
+      note: CEO e Direttore Generale
+    - person: igor-de-biasio
+      role: chairman
+      from: 2023
+      note: Presidente
+    - person: stefano-donnarumma
+      role: executive
+      from: 2020
+      to: 2023
+      note: CEO
+    - person: luigi-ferraris
+      role: executive
+      from: 2017
+      to: 2020
+      note: CEO
+    - person: matteo-del-fante
+      role: executive
+      from: 2014
+      to: 2017
+      note: CEO, ex CDP
+    - person: catia-bastioli
+      role: chairman
+      from: 2014
+      to: 2020
+      note: Presidente
+    - person: valentina-bosetti
+      role: chairman
+      from: 2020
+      to: 2023
+      note: Presidente
+    - person: luigi-roth
+      role: chairman
+      from: 2005
+      to: 2014
+      note: Presidente
+    - org: cdp
+      share: 29.85
+      note: Tramite CDP RETI
   tesco:
     name: Tesco PLC
     type: company
@@ -16456,6 +18563,18 @@ organizations:
       from: 2000
       to: 2020
       note: COO, condannato corruzione Angola 2025
+  treccani:
+    name: Istituto della Enciclopedia Italiana Treccani
+    type: company
+    founded: 1925
+    headquarters: Rome, Italy
+    status: active
+    sector: publishing, culture
+    stakeholders:
+    - person: monica-de-virgiliis
+      role: board
+      from: 2022
+      note: Board of Directors
   trilateral-commission:
     name: Trilateral Commission
     type: forum
@@ -16541,6 +18660,20 @@ organizations:
       role: steering
       from: 2015
       note: European Treasurer, Head Norwegian delegation
+    - person: marco-tronchetti-provera
+      role: member
+      note: Italian Group
+    - person: giampiero-massolo
+      role: member
+    - person: carlo-messina
+      role: member
+    - person: paolo-magri
+      role: executive
+      from: 2022
+      note: European Director + Secretary General Italian Group
+    - person: andreas-treichl
+      role: member
+      note: European Group
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -16590,6 +18723,8 @@ organizations:
     - person: peter-sutherland
       role: chairman-europe
       note: honorary-chairman-2010-2018
+    - person: marta-dassu
+      role: member
     - org: bilderberg
       role: partner
     - org: cfr
@@ -16759,6 +18894,38 @@ organizations:
       role: chairman
       from: 2022
       note: Chairman Board of Directors
+    - person: andrea-orcel
+      role: executive
+      from: 2012
+      to: 2018
+      note: President Investment Bank
+  ue:
+    name: Unione Europea
+    type: agency
+    founded: 1993
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: giorgio-napolitano
+      role: legislator
+      from: 1989
+      to: 1992
+      note: Europarlamentare
+    - person: mariangela-zappia
+      role: executive
+      from: 2011
+      to: 2014
+      note: Head EU Delegation to UN and Intl Orgs Geneva
+    - person: nathalie-tocci
+      role: advisor
+      from: 2015
+      to: 2024
+      note: Special Advisor Alto Rappresentante (Mogherini, Borrell)
+    - person: ferdinando-nelli-feroci
+      role: executive
+      from: 2008
+      to: 2013
+      note: Rappresentante Permanente Italia presso UE
   uefa:
     name: UEFA - Union of European Football Associations
     type: agency
@@ -16813,17 +18980,43 @@ organizations:
       from: 2025
       note: Administrator
   unicredit:
-    name: UniCredit
+    name: UniCredit SpA
     type: bank
     founded: 1998
     headquarters: Milan, Italy
     status: active
+    sector: banking
     stakeholders:
     - person: sergio-ermotti
       role: executive
       from: 2005
       to: 2010
       note: Deputy CEO 2007-2010, Head Markets & Investment Banking
+    - person: leonardo-del-vecchio
+      role: shareholder
+      note: ~2% stake via Delfin
+    - person: pier-carlo-padoan
+      role: chairman
+      from: 2021
+      note: Chairman Board of Directors
+    - person: fabrizio-saccomanni
+      role: chairman
+      from: 2018
+      to: 2019
+      note: Chairman Board of Directors (fino alla morte)
+    - person: alessandro-profumo
+      role: executive
+      from: 1997
+      to: 2010
+      note: CEO Credito Italiano poi UniCredit
+    - person: andrea-orcel
+      role: executive
+      from: 2021
+      note: Group CEO
+    - person: lamberto-andreotti
+      role: board
+      from: 2024
+      note: Deputy Chairman
   unilever:
     name: Unilever
     type: company
@@ -16840,6 +19033,11 @@ organizations:
       from: 2002
       to: 2011
       note: Vice-Chairman, Senior Independent Director
+    - person: vittorio-colao
+      role: board
+      from: 2015
+      to: 2021
+      note: Director, Chairman Remuneration Committee
   unione-europea:
     name: Unione Europea
     type: agency
@@ -16920,6 +19118,41 @@ organizations:
     stakeholders:
     - org: nbcuniversal
       share: 100%
+  universita-bocconi:
+    name: Universita Bocconi
+    type: university
+    founded: 1902
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: carlo-messina
+      role: board
+      from: 2014
+      note: Board of Directors
+    - person: paolo-magri
+      role: member
+      note: Professor International Relations
+  universita-cattolica:
+    name: Universita Cattolica del Sacro Cuore
+    type: university
+    founded: 1921
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: giovanni-bazoli
+      role: member
+      to: 2001
+      note: Professor of Administrative Law and Public Law
+  universita-tubinga:
+    name: University of Tübingen
+    type: university
+    headquarters: Tübingen, Germany
+    status: active
+    stakeholders:
+    - person: nathalie-tocci
+      role: member
+      from: 2015
+      note: Honorary Professor
   unsgab:
     name: UN Secretary-General Advisory Board on Water and Sanitation
     type: agency
@@ -17055,6 +19288,17 @@ organizations:
       role: board
       from: 2024
       note: Member Supervisory Board
+  verizon:
+    name: Verizon Communications
+    type: company
+    headquarters: New York, USA
+    status: active
+    sector: telecom
+    stakeholders:
+    - person: vittorio-colao
+      role: board
+      from: 2019
+      note: Director (2019-2021, poi dal 2022)
   verlinvest:
     name: Verlinvest
     type: company
@@ -17080,6 +19324,17 @@ organizations:
     headquarters: Mumbai, India
     status: active
     note: JV Network18-Paramount (now Reliance). Colors, MTV India. Merged with Star India 2024
+  villa-vigoni:
+    name: Villa Vigoni
+    type: foundation
+    headquarters: Loveno di Menaggio, Italy
+    status: active
+    stakeholders:
+    - person: michele-valensise
+      role: chairman
+      from: 2017
+      to: 2024
+      note: Presidente
   visa:
     name: Visa Inc.
     type: company
@@ -17120,7 +19375,7 @@ organizations:
       to: 1990
       note: Co-fondatore, CEO 1976-1990
   vivendi:
-    name: Vivendi SE
+    name: Vivendi
     type: media
     founded: 2000
     headquarters: Paris, France
@@ -17138,6 +19393,18 @@ organizations:
       role: owner
       share: 29.9%
       from: 2012
+  vodafone:
+    name: Vodafone Group
+    type: company
+    headquarters: London, UK
+    status: active
+    sector: telecom
+    stakeholders:
+    - person: vittorio-colao
+      role: executive
+      from: 1999
+      to: 2018
+      note: Group CEO 2008-2018, vari ruoli dal 1999
   volkswagen:
     name: Volkswagen
     type: automaker
@@ -17368,6 +19635,20 @@ organizations:
       role: board
       from: 1974
       to: 2011
+  webuild:
+    name: Webuild
+    type: company
+    headquarters: Milan, Italy
+    status: active
+    sector: costruzioni, infrastrutture
+    stakeholders:
+    - person: barbara-marinali
+      role: board
+      from: 2021
+      to: 2024
+      note: Independent Director
+    - org: cdp
+      share: 16.4
   wef:
     name: World Economic Forum
     type: forum
@@ -17484,6 +19765,8 @@ organizations:
     - person: alexander-stubb
       role: ygl
       from: 2009
+    - person: alexander-schallenberg
+      role: member
     - person: charles-iii
       role: founder
       from: 2020
@@ -17753,6 +20036,25 @@ organizations:
       role: member
       from: 2018
       note: International Council, Chair Electricity Cluster
+    - person: corrado-passera
+      role: member
+      note: International Business Council, Global Agenda Councils
+    - person: claudio-descalzi
+      role: member
+      note: Co-Chair Oil and Gas Governors Community (2025)
+    - person: flavio-cattaneo
+      role: member
+    - person: giampiero-massolo
+      role: member
+    - person: andrea-orcel
+      role: member
+      note: Regular Davos attendee, soprannominato "Mr Davos"
+    - person: carlo-messina
+      role: member
+      note: Davos attendee, WEF 2021 opening ceremony
+    - person: paolo-magri
+      role: member
+      note: Europe Policy Group
     - org: bilderberg
       role: partner
     - org: fmi
@@ -17865,6 +20167,7 @@ organizations:
       to: 2010
       note: Leaked War Logs, Cablegate, Collateral Murder
   wilson-center:
+    name: Wilson Center
     type: thinktank
     founded: 1968
     headquarters: Washington DC, USA
@@ -17873,6 +20176,8 @@ organizations:
     - person: john-scarlett
       role: chairman
       note: Co-Chair Global Advisory Council
+    - person: giampiero-massolo
+      role: member
   world-athletics:
     name: World Athletics
     type: agency

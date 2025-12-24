@@ -54,3 +54,20 @@ Architetti dell'Europa
   | Etienne Davignon  | VP Commissione, Bilderberg Chair 1998-2011, co-fondatore ERT |
   | Herman Van Rompuy | PM, EU Council President, Trilateral                         |
   | Alexander De Croo | PM 2020-24, WEF YGL
+
+  ecfr (ThinkTank) European Council on Foreign Relations
+  globsec (ThinkTank) Global Europe Initiative
+  human-technopole
+  Altiero Spinelli
+
+  Stub creati
+
+  | Entita'                       | Tipo       |
+  |-------------------------------|------------|
+  | bruegel                       | ThinkTank  |
+  | european-university-institute | University |
+  | universita-tubinga            | University |
+  | johns-hopkins-sais            | University |
+  | college-of-europe             | University |
+  | ceps                          | ThinkTank  |
+  | real-instituto-elcano         | ThinkTank  |
