@@ -61,13 +61,45 @@ Cinque organizzazioni formano il nucleo dell'influenza transatlantica sull'Europ
 
 ### Relazioni Documentate (Neo4j)
 
+#### Partnership tra Forum
+
 | Da | A | Tipo |
 |----|---|------|
-| Bilderberg | Trilaterale | Partner |
+| Bilderberg | Trilaterale | Partner (bidirezionale) |
 | Bilderberg | WEF | Partner |
 | Bilderberg | CFR | Partner |
 | Atlantic Council | NATO | Advocacy |
-| WEF | FMI, ONU | Partner |
+
+#### WEF - Partner Strategici
+
+| Partner | Tipo |
+|---------|------|
+| FMI | Istituzione internazionale |
+| ONU | Istituzione internazionale |
+| BlackRock | Asset manager |
+| JPMorgan Chase | Banca |
+| Microsoft | Tech |
+| Carlyle Group | Private equity |
+| Blackstone | Private equity |
+| KKR | Private equity |
+| QIA | Sovereign wealth fund |
+| Bertelsmann Stiftung | Fondazione |
+
+#### Atlantic Council - Finanziatori
+
+| Donor | Tipo |
+|-------|------|
+| **Governo USA** | Stato (DoD, State) |
+| **Governo UK** | Stato |
+| **Governo UAE** | Stato |
+| Goldman Sachs | Banca |
+| Microsoft | Tech |
+| Meta | Tech |
+| Google | Tech |
+| Chevron | Energy |
+| Northrop Grumman | Defense |
+
+> L'Atlantic Council riceve finanziamenti da governi NATO, big tech, difesa e finanza - allineando interessi corporate-statali sulla sicurezza transatlantica.
 
 ---
 
@@ -100,6 +132,39 @@ L'Italia rappresenta il caso piu' estremo di influenza dei forum:
 
 > Monti e Papademos furono nominati PM tecnici **nello stesso mese** (novembre 2011), entrambi con background forum.
 
+#### Italiani nello Steering Committee Bilderberg
+
+L'Italia ha il maggior numero di membri nello Steering Committee Bilderberg (6), superando USA, Germania e UK:
+
+| Persona | Periodo | Background |
+|---------|---------|------------|
+| **Gianni Agnelli** | 1958-2003 | FIAT, fondatore storico |
+| **Mario Monti** | attivo | PM, Commissario UE |
+| **Romano Prodi** | attivo | PM, Presidente Commissione UE |
+| **Giuliano Amato** | attivo | PM, Corte Costituzionale |
+| **John Elkann** | 2015- | Exor, FIAT, Economist |
+| **Franco Bernabe'** | attivo | ENI, Telecom Italia |
+
+> La dinastia Agnelli-Elkann e' l'unica famiglia con continuita' nello Steering dal 1958.
+
+#### Pattern Intelligence-Forum
+
+| Persona | Intelligence | Forum | Business |
+|---------|--------------|-------|----------|
+| **Giampiero Massolo** | Dir. AISE 2012-16 | AC, Bilderberg, Trilat, WEF | Atlantia, ISPI |
+| **Roberto Cingolani** | - | NATO board | Leonardo CEO |
+| **Stefano Pontecorvo** | - | NATO executive | Diplomatico |
+
+#### Italiani nei Forum (riepilogo)
+
+| Forum | Italiani | Ruoli Chiave |
+|-------|----------|--------------|
+| **Bilderberg** | 14 | 6 Steering, 8 membri |
+| **WEF** | 11 | 1 YGL (Renzi), membri |
+| **Trilaterale** | 4 | 1 executive (Magri) |
+| **Atlantic Council** | 3 | Massolo, Descalzi |
+| **NATO** | 4 | Zappia, Pontecorvo, Cingolani |
+
 ---
 
 ## Pattern 2: La Catena NATO → Atlantic Council → Bilderberg
@@ -130,35 +195,54 @@ BILDERBERG (coordinamento elite)
 
 ## Pattern 3: Multi-Appartenenza
 
-### Figure in 3+ Forum
+### Figure in 4 Forum (Super-Connettore)
 
-| Persona | Nazionalita' | Forum |
-|---------|--------------|-------|
-| **Jens Stoltenberg** | NOR | NATO, WEF, Bilderberg (Chairman) |
-| **Mark Rutte** | NLD | NATO (Seg. Gen.), WEF, Bilderberg |
-| **Dimitris Papalexopoulos** | GRC | Atlantic Council, WEF, Bilderberg (Steering) |
-| **Henry Kissinger** | USA | Atlantic Council, Trilaterale, Bilderberg |
-| **David Rubenstein** | USA | Bilderberg, Trilaterale, WEF |
+| Persona | Nazionalita' | Forum | Background |
+|---------|--------------|-------|------------|
+| **Giampiero Massolo** | ITA | Atlantic Council, Bilderberg, Trilaterale, WEF | Ex Dir. AISE, Pres. ISPI, Atlantia |
+
+> Massolo rappresenta il massimo livello di interconnessione documentato: intelligence, diplomazia, business, tutti e 4 i principali forum transatlantici.
+
+### Figure in 3 Forum
+
+| Persona | Nazionalita' | Forum | Background |
+|---------|--------------|-------|------------|
+| **Jens Stoltenberg** | NOR | NATO, WEF, Bilderberg (Chairman) | PM Norvegia, Seg. Gen. NATO |
+| **Mark Rutte** | NLD | NATO (Seg. Gen.), WEF, Bilderberg | PM Olanda |
+| **Dimitris Papalexopoulos** | GRC | Atlantic Council, WEF, Bilderberg (Steering) | Titan Cement, Treasurer Bilderberg |
+| **Henry Kissinger** | USA | Atlantic Council, Trilaterale, Bilderberg | Segr. Stato USA |
+| **David Rubenstein** | USA | Bilderberg, Trilaterale, WEF | Carlyle Group founder |
+| **Børge Brende** | NOR | Bilderberg (Steering), Trilaterale, WEF (President) | Min. Esteri Norvegia |
+| **Jeroen van der Veer** | NLD | NATO (advisor), Bilderberg, WEF | Ex CEO Shell |
+| **Philippe Belgium** | BEL | Bilderberg, Trilaterale, WEF | Re del Belgio |
 
 ### Figure in 2 Forum (Europei)
 
 | Persona | Nazionalita' | Forum | Ruolo Chiave |
 |---------|--------------|-------|--------------|
 | Ursula von der Leyen | DEU | WEF, Bilderberg | Presidente Commissione UE |
-| Kaja Kallas | EST | WEF, Bilderberg | Alto Rappresentante UE |
+| Kaja Kallas | EST | WEF (YGL), Bilderberg | Alto Rappresentante UE |
 | Mario Draghi | ITA | WEF, Bilderberg | Presidente BCE, PM Italia |
 | Mario Monti | ITA | WEF, Bilderberg (Steering) | PM Italia |
 | Emmanuel Macron | FRA | WEF (YGL), Bilderberg | Presidente Francia |
 | Tony Blair | GBR | WEF (GLT), Bilderberg | PM UK |
 | Kyriakos Mitsotakis | GRC | WEF (GLT), Bilderberg | PM Grecia |
 | Jose Barroso | PRT | WEF (GLT), Bilderberg | Presidente Commissione UE |
-| Matteo Renzi | ITA | WEF, Bilderberg | PM Italia |
-| Friedrich Merz | DEU | WEF, Bilderberg | Leader CDU |
+| Matteo Renzi | ITA | WEF (YGL), Bilderberg | PM Italia |
+| Friedrich Merz | DEU | WEF, Bilderberg | Leader CDU, Cancelliere 2025 |
 | Jacob Wallenberg | SWE | Bilderberg, Trilaterale | Famiglia industriale |
 | Klaus Schwab | DEU | WEF (founder), Bilderberg | Fondatore WEF |
-| Mathias Dopfner | DEU | WEF, Bilderberg | CEO Axel Springer |
-| Peter Sutherland | IRL | WEF, Bilderberg | Ex Commissario UE, Goldman Sachs |
-| Borge Brende | NOR | WEF (President), Bilderberg | Ex Min. Esteri Norvegia |
+| Mathias Dopfner | DEU | WEF, Bilderberg (Steering) | CEO Axel Springer |
+| Peter Sutherland | IRL | WEF, Bilderberg (Steering) | Ex Commissario UE, Goldman Sachs |
+| Herman Van Rompuy | BEL | Bilderberg, Trilaterale | Presidente Consiglio Europeo |
+| Etienne Davignon | BEL | Bilderberg (Chairman), Trilaterale | Commissario UE, Societe Generale |
+| Paolo Gentiloni | ITA | Bilderberg | PM Italia, Commissario UE |
+| Vittorio Colao | ITA | Bilderberg | Min. Transizione Digitale |
+| Claudio Descalzi | ITA | Atlantic Council, WEF | CEO ENI |
+| Carlo Messina | ITA | Trilaterale, WEF | CEO Intesa Sanpaolo |
+| Wopke Hoekstra | NLD | Bilderberg, WEF | Commissario UE Clima |
+| Frans Timmermans | NLD | Bilderberg, WEF | Vice Pres. Commissione UE |
+| Sergio Ermotti | CHE | Bilderberg, WEF | CEO UBS |
 
 ---
 
@@ -171,12 +255,34 @@ Il programma **Young Global Leaders** del WEF e' un sistema di selezione:
 | Leader | Anno YGL/GLT | Poi |
 |--------|--------------|-----|
 | Emmanuel Macron | 2016 | Presidente Francia 2017 |
-| Matteo Renzi | - | PM Italia 2014 |
-| Alexander de Croo | YGL | PM Belgio 2020 |
-| Annalena Baerbock | YGL | Min. Esteri Germania 2021 |
-| Jens Spahn | YGL | Min. Salute Germania |
+| Matteo Renzi | 2012 | PM Italia 2014 |
+| Alexander de Croo | 2015 | PM Belgio 2020 |
+| Annalena Baerbock | 2020 | Min. Esteri Germania 2021 |
+| Jens Spahn | 2012 | Min. Salute Germania |
+| Sanna Marin | 2020 | PM Finlandia |
+| Sebastian Kurz | 2016 | Cancelliere Austria |
+| Kaja Kallas | 2017 | PM Estonia, Alto Rapp. UE |
+| Justin Trudeau | 2005 | PM Canada |
+| Jacinda Ardern | 2014 | PM Nuova Zelanda |
 
 > Klaus Schwab: "Siamo molto orgogliosi dei nostri Young Global Leaders... penetrano i gabinetti"
+
+#### YGL/GLT per Paese (nel DB)
+
+| Paese | # | Leader Notabili |
+|-------|---|-----------------|
+| **USA** | 6 | Zuckerberg, Thiel, Page, Brin, Buttigieg, Gore |
+| **Germania** | 5 | Merkel (GLT), Baerbock, Spahn, Ozdemir, Guttenberg |
+| **Finlandia** | 3 | Marin, Stubb, Katainen |
+| **Ucraina** | 3 | Fedorov, W. Klitschko, Kaleniuk |
+| **Francia** | 2 | Macron, Sarkozy (GLT) |
+| **Canada** | 2 | Trudeau, Freeland |
+| **Irlanda** | 2 | Varadkar, Harris |
+| **Spagna** | 2 | Aznar (GLT), Zapatero (GLT) |
+| **Italia** | 1 | Renzi |
+| **UK** | 1 | Blair (GLT) |
+
+> **Pattern**: Il programma YGL/GLT ha prodotto 15+ capi di governo documentati.
 
 ### 2. Coordinamento Transatlantico (Bilderberg)
 
@@ -189,11 +295,23 @@ Bilderberg funziona come **stanza di compensazione** tra elite USA ed europee:
 | **Networking** | Contatti diretti tra decisori |
 | **Steering Committee** | Nucleo permanente di potere |
 
-**Steering Committee europei:**
-- Dimitris Papalexopoulos (GRC) - Treasurer
-- Henri de Castries (FRA)
-- Mathias Dopfner (DEU)
-- Victor Halberstadt (NLD)
+**Steering Committee europei (nel DB):**
+
+| Paese | Membri | Note |
+|-------|--------|------|
+| **Italia** | 6 | Monti, Prodi, Amato, Agnelli, Elkann, Bernabe' |
+| **USA** | 4 | Rockefeller, Kissinger, Jordan, Kravis |
+| **Germania** | 3 | Dopfner, Enders, Achleitner |
+| **Olanda** | 2 | Halberstadt, van der Beugel |
+| **Svezia** | 2 | Wallenberg Jr., Wallenberg |
+| **Polonia** | 2 | Sikorski, Kostrzewa |
+| **Norvegia** | 1 | Brende |
+| **Grecia** | 1 | Papalexopoulos (Treasurer) |
+| **Francia** | 1 | de Castries |
+| **Irlanda** | 1 | Sutherland |
+| **Spagna** | 1 | Botin |
+
+> L'Italia domina lo Steering con 6 membri - pattern unico di sovra-rappresentazione.
 
 ### 3. Advocacy Sicurezza (Atlantic Council)
 
@@ -398,21 +516,21 @@ Nel 2009, un anno prima della crisi, Bilderberg si tenne a Vouliagmeni (Atene):
 
 ### Forum piu' Rappresentato
 
-| Forum | Europei nel DB | Aggiornamento |
-|-------|----------------|---------------|
-| **WEF** | 41 | +16 |
-| **Bilderberg** | 31 | +4 |
-| **Trilaterale** | 4 | +1 |
-| **Atlantic Council** | 1 | - |
-| **NATO** (leadership) | 14 | Tutti i Seg. Gen. |
+| Forum | Membri nel DB | Note |
+|-------|---------------|------|
+| **WEF** | 131 | Include YGL, GLT, board, membri |
+| **Bilderberg** | 85 | Include steering, fondatori, partecipanti |
+| **Trilaterale** | 32 | Europa, USA, Asia |
+| **Atlantic Council** | 21 | Board, chairman, fondatori |
+| **NATO** (leadership) | 12 | Seg. Gen., SACEUR, advisor |
 
-### Multi-Forum Membership
+### Multi-Forum Membership (5 forum transatlantici)
 
-| # Forum | Persone | Europei |
-|---------|---------|---------|
-| 3+ | 5 | 2 (Papalexopoulos, Rubenstein) |
-| 2 | 24 | 15 |
-| 1 | ~50 | ~35 |
+| # Forum | Persone | Esempi Chiave |
+|---------|---------|---------------|
+| 4 | 1 | Giampiero Massolo (ITA) |
+| 3 | 8 | Kissinger, Stoltenberg, Rutte, Brende, Papalexopoulos, Rubenstein, van der Veer, Philippe Belgium |
+| 2 | 39 | Draghi, Monti, Macron, von der Leyen, Blair, Gates, Schwab... |
 
 ### Istituzioni UE e Forum
 
@@ -458,20 +576,37 @@ I dati mostrano:
 
 ### Pattern Emergenti
 
-1. **Pre-selezione**: L'appartenenza ai forum precede l'ascesa al potere
-2. **Interconnessione**: I forum non sono isolati ma formano un ecosistema
+1. **Pre-selezione**: L'appartenenza ai forum precede l'ascesa al potere (100% PM tecnici analizzati)
+2. **Interconnessione**: I forum non sono isolati ma formano un ecosistema (48 persone in 2+ forum)
 3. **Tecnocrazia**: I governi tecnici europei hanno tutti avuto leader dai forum
 4. **Asse NATO**: Atlantic Council → NATO → Bilderberg e' un percorso documentato
-5. **Concentrazione**: Poche decine di persone circolano tra tutte le posizioni chiave
+5. **Concentrazione**: 9 persone in 3+ forum, 1 in tutti e 4 (Massolo)
 6. **BCE come hub**: 75% dei presidenti BCE in forum, con pattern BCE → PM (Draghi, Papademos)
 7. **Alto Rappresentante**: 100% dei titolari con background forum/NATO
+8. **Italia sovra-rappresentata**: 6 membri Steering Bilderberg (piu' di USA), super-connettore #1 italiano
+9. **YGL come pipeline**: 15+ capi di governo passati dal programma WEF
+10. **Corporate-Stato**: Atlantic Council finanziato da governi NATO + big tech + defense
+
+### Numeri Chiave (Dicembre 2024)
+
+| Metrica | Valore |
+|---------|--------|
+| Membri WEF nel DB | 131 |
+| Membri Bilderberg nel DB | 85 |
+| Membri Trilaterale nel DB | 32 |
+| Membri Atlantic Council nel DB | 21 |
+| Persone in 2+ forum | 48 |
+| Persone in 3+ forum | 9 |
+| Italiani Steering Bilderberg | 6 |
+| YGL/GLT diventati capi governo | 15+ |
 
 ### Domande Aperte
 
 - [ ] Quale forum ha maggiore influenza sulle nomine UE?
 - [ ] Come funziona la selezione interna a Bilderberg?
-- [ ] Qual e' il ruolo dei finanziatori corporate?
+- [x] Qual e' il ruolo dei finanziatori corporate? (documentato per Atlantic Council)
 - [ ] Esistono resistenze interne ai forum?
+- [ ] Perche' l'Italia e' sovra-rappresentata nello Steering Bilderberg?
 
 ---
 
@@ -498,4 +633,4 @@ I dati mostrano:
 ---
 
 *Report generato da DeepScript - Dicembre 2024*
-*Ultimo aggiornamento: Dicembre 2024 (aggiunta BCE, UE, statistiche aggiornate)*
+*Ultimo aggiornamento: Dicembre 2024 (131 WEF, 85 Bilderberg, 32 Trilat, 21 AC; Massolo super-connettore; Italia 6 Steering)*

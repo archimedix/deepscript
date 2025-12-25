@@ -1,9 +1,9 @@
 
-Analizza la mappa del potere in UNGHERIA e le connessioni con il resto del mondo. Crea un elenco di entità e di persone rilevanti da indagare più a fondo. Cobntrolla le eventuali connessioni già presenti del db per affinare i dati. 
+Analizza la mappa del potere in ROMANIA e le connessioni con il resto del mondo. Crea un elenco di entità e di persone rilevanti da indagare più a fondo. Cobntrolla le eventuali connessioni già presenti del db per affinare i dati. 
 
-Ora crea il report sulla mappa del potere in UNGHERIA, integrando le informazioni e le connessioni rilevanti. La aggiornerò in un secondo momento analizzando nuovi dati
+Ora crea il report sulla mappa del potere in ROMANIA, integrando le informazioni e le connessioni rilevanti. La aggiornerò in un secondo momento analizzando nuovi dati
 
-Ora puoi aggiornare il file italy-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+Ora puoi aggiornare il file romania-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
 
 SudaFrica

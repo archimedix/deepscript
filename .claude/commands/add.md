@@ -98,8 +98,13 @@ Focus su:
 ```cypher
 MERGE (p:Person {id: 'nome-id'})
 SET p.born = 1970,
-    p.nationality = 'ITA'
+    p.nationality = 'ITA'  // Codice ISO 3166-1 alpha-3
 ```
+
+**Formato nationality:**
+- Usa sempre codice ISO 3166-1 alpha-3 (es. `ITA`, `USA`, `DEU`, `GBR`)
+- Doppia nazionalita': formato `ISO-ISO` (es. `DEU-USA`, `FRA-LBN`)
+- Mai nomi estesi (`Italia`, `Germany`) o formati misti (`USA/Italy`)
 
 **Organization (con sub-label):**
 ```cypher
