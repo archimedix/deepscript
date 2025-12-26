@@ -34,6 +34,18 @@ persons:
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
+  abdulrahman-tarabzouni:
+    nationality: SAU
+    note: Fondatore Saudi Technology Ventures
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
+  abel-garamhegyi:
+    nationality: HUN
+    affiliations:
+    - org: wef
+      role: ygl
   abhisit-vejjajiva:
     born: 1964
     nationality: THA
@@ -59,6 +71,13 @@ persons:
       role: board
       from: 2007
       note: Executive Director
+  adebola-williams:
+    nationality: NGA
+    note: CEO Red Media Africa
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2019
   adil-zainulbhai:
     nationality: IND
     note: Network18 Chairman. McKinsey India Chairman 2004-2012. IIT Bombay, HBS. Rajat Gupta protege
@@ -80,6 +99,15 @@ persons:
     born: 1839
     died: 1913
     nationality: BEL
+  adrian-nastase:
+    born: 1950
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 2000
+      to: 2004
+      note: Primo Ministro
   adrienne-arsht:
     nationality: USA
     affiliations:
@@ -111,6 +139,41 @@ persons:
       from: 2017
       to: 2023
       note: CFO
+  ajay-banga:
+    born: 1959
+    nationality: USA
+    affiliations:
+    - org: wef
+      role: board
+    - org: citigroup
+      role: executive
+      from: 1996
+      to: 2010
+      note: CEO Asia-Pacific 2008-2010
+    - org: icc
+      role: chairman
+      from: 2020
+      to: 2022
+    - org: world-bank
+      role: leader
+      from: 2023
+      note: President
+    - org: nestle
+      role: executive
+      from: 1981
+      to: 1994
+    - org: general-atlantic
+      role: executive
+      from: 2022
+      to: 2023
+      note: Vice Chairman
+    - org: mastercard
+      role: executive
+      from: 2010
+      to: 2021
+      note: CEO 2010-2020, Executive Chairman 2021
+    - org: dow
+      role: board
   ajit-jain:
     born: 1951
     nationality: IND
@@ -136,6 +199,13 @@ persons:
       role: chairman
       from: 2023
       note: CEO 2009-2023
+  akira-sakano:
+    nationality: JPN
+    note: Chair NPO Zero Waste Academy
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2019
   al-cook:
     nationality: GBR
     note: Ex BP/Equinor
@@ -150,6 +220,8 @@ persons:
     affiliations:
     - org: wef
       role: glt
+    - org: wef
+      role: board
     - org: governo-usa
       role: leader
       from: 1993
@@ -293,6 +365,12 @@ persons:
     - org: unione-europea
       role: founder
       note: PM Italia, padre fondatore
+  alec-oxenford:
+    nationality: ARG
+    note: Fondatore OLX/DeRemate.com
+    affiliations:
+    - org: wef
+      role: ygl
   aleksandar-vucic:
     born: 1970
     nationality: SRB
@@ -391,6 +469,12 @@ persons:
       from: 2003
       to: 2018
       note: Director
+  alexander-rodnyansky:
+    nationality: UKR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   alexander-saverys:
     nationality: BEL
     affiliations:
@@ -399,7 +483,7 @@ persons:
       note: CEO
   alexander-schallenberg:
     born: 1969
-    nationality: austriaca
+    nationality: AUT
     affiliations:
     - org: wef
       role: member
@@ -449,7 +533,7 @@ persons:
       note: EVP Tiffany & Co.
   alexandre-de-rothschild:
     born: 1980
-    nationality: Francia
+    nationality: FRA
     family: rothschild
     affiliations:
     - org: rothschild-cie
@@ -485,16 +569,40 @@ persons:
       from: 1863
       to: 1894
   alfred-stern:
-    nationality: austriaca
+    nationality: AUT
     affiliations:
     - org: omv
       role: executive
       from: 2021
       note: CEO
+    - org: omv-petrom
+      role: chairman
+      from: 2021
+      note: Chairman Supervisory Board
+  ali-babacan:
+    born: 1967
+    nationality: TUR
+    note: Ex Ministro Economia Turchia, cofondatore DEVA
+    affiliations:
+    - org: wef
+      role: ygl
+  ali-mukhtar:
+    nationality: PAK
+    note: Director Strategy Fatima Fertilizer
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   alice-walton:
     born: 1949
     nationality: USA
     family: walton
+  alina-mungiu-pippidi:
+    nationality: ROU
+    affiliations:
+    - org: open-society-romania
+      role: board
+      note: Board member
   alja-brglez:
     born: 1965
     nationality: SVN
@@ -627,7 +735,7 @@ persons:
       note: CEO, nominato da Vivendi
   ana-botin:
     born: 1960
-    nationality: spagnola
+    nationality: ESP
     family: botin
     affiliations:
     - org: bilderberg
@@ -826,7 +934,7 @@ persons:
       note: PM secondo mandato
   andreas-treichl:
     born: 1952
-    nationality: austriaca
+    nationality: AUT
     affiliations:
     - org: open-society
       role: advisor
@@ -861,6 +969,40 @@ persons:
     - org: qaf
       role: owner
       note: Main shareholder, Vice Chairman
+  andrei-plesu:
+    born: 1948
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: minister
+      from: 1989
+      to: 1991
+      note: Ministro della Cultura
+    - org: governo-romania
+      role: minister
+      from: 1997
+      to: 1999
+      note: Ministro degli Esteri
+    - org: governo-romania
+      role: advisor
+      from: 2004
+      to: 2005
+      note: Consigliere Affari Esteri Presidente Basescu
+    - org: open-society-romania
+      role: board
+      note: Foundation Council (a vita)
+    - org: new-europe-college
+      role: founder
+      from: 1994
+      note: Fondatore e Presidente
+    - org: group-for-social-dialogue
+      role: founder
+      from: 1990
+      note: Co-fondatore
+    - org: dilema-veche
+      role: founder
+      from: 1993
+      note: Fondatore rivista culturale
   andrej-plenkovic:
     born: 1970
     nationality: HRV
@@ -871,6 +1013,13 @@ persons:
     - org: governo-croazia
       role: leader
       from: 2016
+  andres-lawson:
+    nationality: ARG
+    note: CEO Osana
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
   andrew-bailey:
     born: 1959
     nationality: GBR
@@ -910,6 +1059,14 @@ persons:
       from: 1921
       to: 1932
       note: Secretary of Treasury sotto Harding, Coolidge, Hoover
+  andrey-guryev:
+    born: 1982
+    nationality: RUS
+    note: CEO PhosAgro
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   andrius-kubilius:
     born: 1956
     nationality: LTU
@@ -925,6 +1082,12 @@ persons:
       role: leader
       from: 2008
       to: 2012
+  angel-cabrera:
+    born: 1967
+    nationality: ESP
+    affiliations:
+    - org: wef
+      role: ygl
   angela-merkel:
     born: 1954
     nationality: DEU
@@ -936,6 +1099,13 @@ persons:
       role: leader
       from: 2005
       to: 2021
+  anielle-franco:
+    nationality: BRA
+    note: Ministra Uguaglianza Razziale Brasile
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   anita-hauser:
     born: 1969
     nationality: CHE
@@ -971,6 +1141,12 @@ persons:
       role: founder
       from: 2013
       note: President
+  anna-schrimpf:
+    nationality: GBR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   annalena-baerbock:
     born: 1980
     nationality: DEU
@@ -985,6 +1161,12 @@ persons:
   anne-applebaum:
     born: 1964
     nationality: USA
+  annika-saarikko:
+    born: 1983
+    nationality: FIN
+    affiliations:
+    - org: wef
+      role: ygl
   anthoni-salim:
     born: 1949
     nationality: IDN
@@ -1054,7 +1236,7 @@ persons:
       type: father
   antonio-angelucci:
     born: 1946
-    nationality: Italia
+    nationality: ITA
     note: deputato, imprenditore sanità privata
     affiliations:
     - org: libero-quotidiano
@@ -1084,7 +1266,7 @@ persons:
     nationality: ITA
   antonio-salvador:
     born: 1969
-    nationality: POR
+    nationality: PRT
     affiliations:
     - org: sc-braga
       role: chairman
@@ -1139,6 +1321,18 @@ persons:
       role: founder
       from: 1975
       note: Fondò in memoria del figlio Alexander
+  arkadiusz-nowak:
+    nationality: POL
+    affiliations:
+    - org: wef
+      role: ygl
+  arkady-dvorkovich:
+    born: 1972
+    nationality: RUS
+    note: Ex Vice PM Russia, Presidente FIDE
+    affiliations:
+    - org: wef
+      role: ygl
   armand-hartono:
     born: 1975
     nationality: IDN
@@ -1185,6 +1379,12 @@ persons:
     - org: apple
       role: chairman
       from: 2011
+  arzuhan-yalcindag:
+    nationality: TUR
+    note: CEO Kanal D
+    affiliations:
+    - org: wef
+      role: ygl
   athina-onassis:
     born: 1985
     nationality: GRC
@@ -1262,6 +1462,13 @@ persons:
     - org: institute-international-finance
       role: chairman
       note: Chairman
+  ayman-ismail:
+    nationality: EGY
+    note: Professore AUC, fondatore AUC Venture Lab
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2012
   barack-obama:
     born: 1961
     nationality: USA
@@ -1623,6 +1830,13 @@ persons:
       role: leader
       from: 1983
       to: 1987
+  bhumi-pednekar:
+    born: 1989
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   biagio-mazzotta:
     born: 1962
     nationality: ITA
@@ -1636,6 +1850,13 @@ persons:
       role: chairman
       from: 2024
       note: Chairman Board of Directors
+  bilge-demirkoz:
+    nationality: TUR
+    note: Professoressa METU, fisica particelle
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2019
   bill-anderson:
     nationality: USA
     affiliations:
@@ -1728,6 +1949,12 @@ persons:
       to: 1998
     - org: kissinger-associates
       role: advisor
+  birgitta-ohlsson:
+    born: 1975
+    nationality: SWE
+    affiliations:
+    - org: wef
+      role: ygl
   boaz-moldawsky:
     nationality: ISR
     affiliations:
@@ -1760,6 +1987,53 @@ persons:
       role: board
     - org: us-china-business-council
       role: board
+  bogdan-aurescu:
+    born: 1973
+    nationality: ROU
+    affiliations:
+    - org: wef
+      role: member
+      note: Partecipante Davos
+    - org: aspen-romania
+      role: member
+      note: Speaker
+    - org: governo-romania
+      role: minister
+      from: 2014
+      to: 2023
+      note: Min. Esteri (2014-15, 2019-23)
+    - org: echr
+      role: member
+      from: 2003
+      to: 2004
+      note: Agent for Romania
+    - org: icj
+      role: board
+      from: 2024
+      note: Giudice (primo romeno, eletto 2023)
+    - org: venice-commission
+      role: member
+      from: 2002
+      note: Membro sostituto; 30 report come relatore/co-relatore
+    - org: un-ilc
+      role: member
+      from: 2017
+      note: Membro (2017-21, 2023-27); Co-chair Study Group Sea-level rise
+    - org: pca
+      role: member
+      note: Membro
+  bogdan-dragoi:
+    born: 1980
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: minister
+      from: 2012
+      to: 2012
+      note: Min. Finanze (gov Ungureanu)
+    - org: brd
+      role: board
+      note: Independent Member
   borge-brende:
     born: 1965
     nationality: NOR
@@ -1909,6 +2183,22 @@ persons:
     died: 1995
     nationality: USA
     family: walton
+  byju-raveendran:
+    born: 1980
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2020
+  calin-popescu-tariceanu:
+    born: 1952
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 2004
+      to: 2008
+      note: Primo Ministro
   carl-wurster:
     born: 1900
     died: 1974
@@ -2052,7 +2342,7 @@ persons:
       note: 'Turnaround: saved PSA from bankruptcy, acquired Opel 2017'
   carlos-torres-vila:
     born: 1966
-    nationality: spagnola
+    nationality: ESP
     affiliations:
     - org: wef
       role: member
@@ -2077,6 +2367,12 @@ persons:
     relations:
     - person: francisco-gonzalez
       type: successor
+  carme-chacon:
+    born: 1971
+    nationality: ESP
+    affiliations:
+    - org: wef
+      role: ygl
   caroline-de-spoelberch:
     nationality: BEL
     affiliations:
@@ -2102,6 +2398,12 @@ persons:
       from: 2014
       to: 2020
       note: Presidente
+  cayetana-alvarez-de-toledo:
+    born: 1974
+    nationality: ESP
+    affiliations:
+    - org: wef
+      role: ygl
   cc-wei:
     born: 1955
     nationality: TWN
@@ -2158,6 +2460,12 @@ persons:
       role: ygl
       from: 2012
       note: Young Leader 2012, Fields Medal, Depute
+  cedrik-neike:
+    born: 1973
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
   cem-ozdemir:
     born: 1965
     nationality: DEU
@@ -2251,7 +2559,7 @@ persons:
       note: Head of the Commonwealth
   charles-powell:
     born: 1960
-    nationality: ESP/GBR
+    nationality: ESP-GBR
     affiliations:
     - org: real-instituto-elcano
       role: executive
@@ -2267,6 +2575,14 @@ persons:
       from: 1978
       to: 2023
       note: Vice Chairman 1978-2023. Morto novembre 2023
+  charlize-theron:
+    born: 1975
+    nationality: ZAF
+    note: Attrice, Fondatrice Charlize Theron Africa Outreach Project
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2014
   charlotte-hogg:
     born: 1970
     nationality: GBR
@@ -2379,6 +2695,12 @@ persons:
       role: founder
       from: 1961
       note: Primo Chairman
+  christian-jolck:
+    nationality: DNK
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   christian-klein:
     born: 1980
     nationality: DEU
@@ -2418,6 +2740,23 @@ persons:
       from: 1975
       to: 1988
       note: Prima presidente
+  christina-verchere:
+    born: 1970
+    nationality: GBR-USA
+    affiliations:
+    - org: bp
+      role: executive
+      from: 1993
+      to: 2018
+      note: Regional President Canada, Regional President Asia Pacific
+    - org: omv-petrom
+      role: executive
+      from: 2018
+      note: CEO and President Executive Board
+    - org: crh
+      role: board
+      from: 2023
+      note: Non-Executive Director
   christine-lagarde:
     born: 1956
     nationality: FRA
@@ -2446,6 +2785,11 @@ persons:
       role: executive
       from: 2025
       note: CEO
+  christophe-beck:
+    nationality: CHE
+    affiliations:
+    - org: wef
+      role: ygl
   christophe-fouquet:
     nationality: FRA
     affiliations:
@@ -2494,6 +2838,8 @@ persons:
     - org: wef
       role: glt
       from: 2001
+    - org: wef
+      role: board
     - org: governo-canada
       role: leader
       from: 2019
@@ -2529,6 +2875,12 @@ persons:
     - org: hyundai-motor
       role: executive-chairman
       from: 2020
+  claire-boonstra:
+    nationality: NLD
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2012
   claude-bebear:
     born: 1935
     died: 2025
@@ -2608,6 +2960,12 @@ persons:
     - person: paolo-scaroni
       type: successor
       note: Descalzi successore di Scaroni come CEO ENI
+  claus-kleber:
+    born: 1955
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
   cofer-black:
     born: 1950
     nationality: USA
@@ -2735,6 +3093,43 @@ persons:
     - person: vittorio-colao
       type: colleague
       note: Entrambi McKinsey, Passera lancio Omnitel (poi Vodafone Italia)
+  cosmin-marinescu:
+    born: 1976
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: advisor
+      from: 2014
+      to: 2024
+      note: Consigliere economico Pres. Iohannis
+    - org: bnr
+      role: executive
+      from: 2024
+      note: Vice Governor
+  cristina-fonseca:
+    nationality: PRT
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
+  crown-prince-frederik:
+    born: 1968
+    nationality: DNK
+    affiliations:
+    - org: wef
+      role: ygl
+  crown-prince-haakon:
+    born: 1973
+    nationality: NOR
+    affiliations:
+    - org: wef
+      role: ygl
+  crown-princess-victoria:
+    born: 1977
+    nationality: SWE
+    affiliations:
+    - org: wef
+      role: ygl
   cyrille-bollore:
     born: 1986
     nationality: FRA
@@ -2744,6 +3139,15 @@ persons:
       role: executive
       from: 2019
       note: CEO
+  dacian-ciolos:
+    born: 1969
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 2015
+      to: 2017
+      note: Primo Ministro (tecnico)
   damien-comolli:
     nationality: FRA
     affiliations:
@@ -2807,7 +3211,7 @@ persons:
       note: Fellow whistleblowers, both Sam Adams Award recipients
   daniel-kretinsky:
     born: 1975
-    nationality: Repubblica Ceca
+    nationality: CZE
     note: energy, media investor
   daniel-steinmetz:
     nationality: ISR
@@ -2967,6 +3371,12 @@ persons:
       from: 1908
       to: 1915
       note: Chancellor of the Exchequer
+  david-martinon:
+    born: 1971
+    nationality: FRA
+    affiliations:
+    - org: wef
+      role: ygl
   david-petraeus:
     born: 1952
     nationality: USA
@@ -3056,6 +3466,12 @@ persons:
       role: founder
       from: 1961
       note: Vice Chair fondatore
+  deepika-padukone:
+    born: 1986
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: ygl
   delfi-geli:
     born: 1969
     nationality: ESP
@@ -3080,6 +3496,13 @@ persons:
     - person: albert-ii-belgium
       type: daughter
       note: riconosciuta 2020 dopo test DNA
+  denis-minev:
+    nationality: BRA
+    note: CEO Bemol, cofondatore Fundação Amazonas Sustentável
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2012
   dhanin-chearavanont:
     born: 1939
     nationality: THA
@@ -3393,7 +3816,7 @@ persons:
   edoardo-agnelli-sr:
     born: 1892
     died: 1935
-    nationality: Italia
+    nationality: ITA
     family: agnelli-elkann
   edouard-de-rothschild:
     born: 1957
@@ -3473,6 +3896,20 @@ persons:
       role: chairman
       from: 2023
       note: Chair Board of Directors
+  efrat-peled:
+    nationality: ISR
+    note: CEO Arison Holdings
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2009
+  egemen-bagis:
+    born: 1970
+    nationality: TUR
+    note: Ex Ministro Affari UE Turchia
+    affiliations:
+    - org: wef
+      role: ygl
   egon-durban:
     nationality: USA
     affiliations:
@@ -3546,6 +3983,12 @@ persons:
       from: 2014
       to: 2020
       note: CEO; rebranding Statoil → Equinor
+  eleonore-crespo:
+    nationality: FRA
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
   elisabeth-belgium:
     born: 2001
     nationality: BEL
@@ -3574,7 +4017,7 @@ persons:
       note: Head of the Commonwealth
   elon-musk:
     born: 1971
-    nationality: USA/South Africa
+    nationality: USA-ZAF
     note: 'tech billionaire #1 Forbes'
     affiliations:
     - org: tesla
@@ -3616,6 +4059,24 @@ persons:
       from: 1920
       to: 1932
       note: Head of Roche Brussels
+  emil-boc:
+    born: 1966
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 2008
+      to: 2012
+      note: Primo Ministro
+  emil-constantinescu:
+    born: 1939
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 1996
+      to: 2000
+      note: Presidente della Romania
   emilio-azcarraga-jean:
     born: 1968
     nationality: MEX
@@ -3654,7 +4115,7 @@ persons:
   emilio-botin:
     born: 1934
     died: 2014
-    nationality: spagnola
+    nationality: ESP
     family: botin
     affiliations:
     - org: banco-santander
@@ -3664,7 +4125,7 @@ persons:
       note: Executive Chairman
   emma-walmsley:
     born: 1969
-    nationality: British
+    nationality: GBR
     note: First female Big Pharma CEO, Microsoft board
     affiliations:
     - org: microsoft
@@ -3700,6 +4161,12 @@ persons:
       role: ygl
       from: 2012
       note: Young Leader 2012, President of France
+  enric-sala:
+    born: 1968
+    nationality: ESP
+    affiliations:
+    - org: wef
+      role: ygl
   enrico-cuccia:
     born: 1907
     died: 2000
@@ -3913,6 +4380,12 @@ persons:
       from: 1961
       to: 1963
       note: President
+  espen-barth-eide:
+    born: 1964
+    nationality: NOR
+    affiliations:
+    - org: wef
+      role: ygl
   etienne-davignon:
     born: 1932
     nationality: BEL
@@ -4041,7 +4514,7 @@ persons:
   evelyn-rothschild:
     born: 1931
     died: 2022
-    nationality: UK
+    nationality: GBR
     family: rothschild
   ezra-suleiman:
     born: 1941
@@ -4062,6 +4535,11 @@ persons:
       from: 2020
       to: 2023
       note: Executive Board, poi Governatore Banca Italia
+  fabrice-seiman:
+    nationality: FRA
+    affiliations:
+    - org: wef
+      role: ygl
   fabrizio-palermo:
     nationality: ITA
     affiliations:
@@ -4155,7 +4633,7 @@ persons:
     nationality: ITA
     affiliations:
     - org: wef
-      role: member
+      role: ygl
       note: Agenda Contributor
     - org: collegio-europa
       role: president
@@ -4192,7 +4670,7 @@ persons:
       note: Ex-PM, Board of Trustees
   felipe-vi:
     born: 1968
-    nationality: spagnola
+    nationality: ESP
     family: borbon
     affiliations:
     - org: governo-spagna
@@ -4205,7 +4683,7 @@ persons:
   felix-warburg:
     born: 1871
     died: 1937
-    nationality: Germania/USA
+    nationality: DEU-USA
     family: warburg
     affiliations:
     - org: kuhn-loeb
@@ -4349,6 +4827,19 @@ persons:
       role: chairman
       from: 2021
       note: Founding Chairman
+  florin-georgescu:
+    born: 1953
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: minister
+      from: 1992
+      to: 1996
+      note: Min. Finanze (gov Vacaroiu)
+    - org: bnr
+      role: executive
+      from: 2004
+      note: First Deputy Governor
   frances-haugen:
     born: 1983
     nationality: USA
@@ -4421,7 +4912,7 @@ persons:
       note: CEO e General Manager 2014-2023. 3 mandati
   francisco-gonzalez:
     born: 1944
-    nationality: spagnola
+    nationality: ESP
     affiliations:
     - org: bbva
       role: chairman
@@ -4460,7 +4951,7 @@ persons:
       note: President (interim after Massolo)
   franco-caltagirone:
     born: 1943
-    nationality: Italia
+    nationality: ITA
     note: costruttore, editore
     affiliations:
     - org: il-messaggero
@@ -4749,6 +5240,12 @@ persons:
     - org: verlinvest
       role: executive
       note: CEO
+  frederic-hoffmann:
+    nationality: CHE
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   frederick-kempe:
     nationality: USA
     affiliations:
@@ -4826,6 +5323,18 @@ persons:
       from: 2024
       to: 2024
       note: Primo Ministro (gen-set 2024)
+  gabriel-naouri:
+    nationality: FRA
+    affiliations:
+    - org: wef
+      role: ygl
+  gabriela-rodrigues:
+    nationality: BRA
+    note: MD UBS LatAm
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
   gabriele-cagliari:
     born: 1926
     died: 1993
@@ -4846,6 +5355,13 @@ persons:
       from: 2003
       to: 2022
       note: Acquired for £598M, sold to Central/Signa for ~£4B
+  gareth-wong:
+    nationality: SGP
+    note: CEO Mitbana
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   gary-cohn:
     born: 1960
     nationality: USA
@@ -4915,7 +5431,7 @@ persons:
       note: President
   gautam-adani:
     born: 1962
-    nationality: Indian
+    nationality: IND
     note: Chairman Adani Group. Close to Modi. Media acquisitions 2022-23
     affiliations:
     - org: adani-group
@@ -5289,6 +5805,13 @@ persons:
       role: member
       from: 2020
       note: IOC Member
+  gila-gamliel:
+    born: 1974
+    nationality: ISR
+    note: Ministro Intelligence Israele
+    affiliations:
+    - org: wef
+      role: ygl
   gilberto-benetton:
     born: 1941
     died: 2018
@@ -5350,7 +5873,7 @@ persons:
   giovanni-agnelli-sr:
     born: 1866
     died: 1945
-    nationality: Italia
+    nationality: ITA
     family: agnelli-elkann
     affiliations:
     - org: fiat
@@ -5685,6 +6208,12 @@ persons:
       role: founder
       from: 2010
       note: Co-founder
+  hadia-tajik:
+    born: 1983
+    nationality: NOR
+    affiliations:
+    - org: wef
+      role: ygl
   hamad-bin-thamer:
     nationality: QAT
     family: al-thani
@@ -5733,7 +6262,7 @@ persons:
       role: board
   hans-peter-haselsteiner:
     born: 1944
-    nationality: austriaca
+    nationality: AUT
     affiliations:
     - org: governo-austria
       role: legislator
@@ -5817,6 +6346,13 @@ persons:
     relations:
     - person: nicky-oppenheimer
       type: father
+  haruka-mera:
+    nationality: JPN
+    note: CEO READYFOR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
   hassan-al-thawadi:
     nationality: QAT
     affiliations:
@@ -6177,7 +6713,7 @@ persons:
       from: 2006
   hong-ra-hee:
     born: 1945
-    nationality: Korean
+    nationality: KOR
     affiliations:
     - org: leeum-museum
       role: executive
@@ -6186,6 +6722,14 @@ persons:
     relations:
     - person: lee-kun-hee
       type: spouse
+  horia-ciorcila:
+    born: 1963
+    nationality: ROU
+    affiliations:
+    - org: banca-transilvania
+      role: chairman
+      from: 2002
+      note: Fondatore, 5% azionista
   howard-kohr:
     born: 1955
     nationality: USA
@@ -6236,6 +6780,12 @@ persons:
       from: 2015
       to: 2021
       note: CEO at launch
+  ida-auken:
+    born: 1978
+    nationality: DNK
+    affiliations:
+    - org: wef
+      role: ygl
   idan-nurick:
     nationality: ISR
     note: Paragon CEO
@@ -6251,6 +6801,13 @@ persons:
     - org: quantum-pacific
       role: founder
       note: Principal owner
+  idan-roll:
+    nationality: ISR
+    note: Membro Knesset, ex Vice Ministro Esteri
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2023
   ignacio-galan:
     born: 1950
     nationality: ESP
@@ -6337,6 +6894,21 @@ persons:
       role: executive
       from: 2023
       note: CEO
+  ilie-bolojan:
+    born: 1969
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 2025
+      note: Primo Ministro
+  ilona-szabo-de-carvalho:
+    nationality: BRA
+    note: Co-fondatrice Igarapé Institute
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2015
   ilya-sutskever:
     nationality: ISR
     affiliations:
@@ -6345,6 +6917,21 @@ persons:
       from: 2015
       to: 2024
       note: Co-founder, Chief Scientist until 2024
+  ion-iliescu:
+    born: 1930
+    died: 2025
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 1990
+      to: 1996
+      note: Presidente della Romania
+    - org: governo-romania
+      role: leader
+      from: 2000
+      to: 2004
+      note: Presidente della Romania (2° mandato)
   irineu-marinho:
     born: 1876
     died: 1925
@@ -6441,6 +7028,18 @@ persons:
       note: Daughter
     - person: jared-kushner
       type: spouse
+  ivo-lukacovic:
+    nationality: CZE
+    affiliations:
+    - org: wef
+      role: ygl
+  iyinoluwa-aboyeji:
+    born: 1991
+    nationality: NGA
+    note: CEO Flutterwave
+    affiliations:
+    - org: wef
+      role: ygl
   j-kirk-wiebe:
     nationality: USA
   jacinda-ardern:
@@ -6457,7 +7056,7 @@ persons:
   jacob-rothschild:
     born: 1936
     died: 2024
-    nationality: UK
+    nationality: GBR
     family: rothschild
     affiliations:
     - org: bilderberg
@@ -6615,6 +7214,12 @@ persons:
       from: 1975
       to: 1979
       note: Vice-Presidente PE 1975-77, MEP fino 1979
+  jaime-de-bourbon-parme:
+    born: 1972
+    nationality: NLD
+    affiliations:
+    - org: wef
+      role: ygl
   james-angleton:
     born: 1917
     died: 1987
@@ -6664,6 +7269,12 @@ persons:
     - org: carlyle-group
       role: advisor
       note: Senior Counsellor, Asia/Europe Advisory Boards
+  james-chin-moody:
+    nationality: AUS
+    note: WEF Global Agenda Council
+    affiliations:
+    - org: wef
+      role: ygl
   james-l-jones:
     nationality: USA
     affiliations:
@@ -6687,7 +7298,7 @@ persons:
   james-mayer-rothschild:
     born: 1792
     died: 1868
-    nationality: Francia
+    nationality: FRA
     family: rothschild
   james-mcconville:
     nationality: USA
@@ -6766,7 +7377,7 @@ persons:
       note: CEO 2021-, Chairman 2025-
   jane-henney:
     born: 1947
-    nationality: American
+    nationality: USA
     note: First female FDA Commissioner
     affiliations:
     - org: fda
@@ -6794,6 +7405,12 @@ persons:
     - person: donald-trump
       type: family
       note: Son-in-law (married to Ivanka Trump)
+  jaroslaw-krolewski:
+    nationality: POL
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
   jason-matheny:
     born: 1975
     nationality: USA
@@ -7250,6 +7867,11 @@ persons:
       role: partner
       from: 1997
       to: 2005
+  jesus-encinar:
+    nationality: ESP
+    affiliations:
+    - org: wef
+      role: ygl
   jiang-deyi:
     nationality: CHN
     affiliations:
@@ -7408,7 +8030,7 @@ persons:
       note: CEO
   johann-graf:
     born: 1946
-    nationality: austriaca
+    nationality: AUT
     affiliations:
     - org: novomatic
       role: founder
@@ -7765,14 +8387,14 @@ persons:
       note: Executive Chairman
   jonathan-rothermere:
     born: 1967
-    nationality: UK
+    nationality: GBR
     family: rothermere
     affiliations:
     - org: daily-mail
       role: chairman
       from: 1998
   jonathan-symonds:
-    nationality: British
+    nationality: GBR
     note: ex-CFO Novartis AND AstraZeneca
     affiliations:
     - org: novartis
@@ -7983,7 +8605,7 @@ persons:
       type: son
   joseph-oughourlian:
     born: 1971
-    nationality: Francia
+    nationality: FRA
     note: hedge fund manager, Amber Capital
     affiliations:
     - org: amber-capital
@@ -8048,7 +8670,7 @@ persons:
     family: morgan
   juan-carlos-i:
     born: 1938
-    nationality: spagnola
+    nationality: ESP
     family: borbon
     affiliations:
     - org: bilderberg
@@ -8068,6 +8690,12 @@ persons:
       from: 1996
       to: 2000
       note: Chairman (amico Aznar, privatizzazione)
+  julia-binder:
+    nationality: CHE
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
   julian-assange:
     born: 1971
     nationality: AUS
@@ -8091,7 +8719,7 @@ persons:
     died: 2004
     nationality: NLD
   jung-ku-hyun:
-    nationality: Korean
+    nationality: KOR
     note: Ex President Samsung Economic Research Institute (SERI). Trilateral Commission member. Prof Emeritus Yonsei University
     affiliations:
     - org: trilateral-commission
@@ -8200,7 +8828,7 @@ persons:
       note: Defence Minister
   karl-von-habsburg:
     born: 1961
-    nationality: austriaca
+    nationality: AUT
     family: habsburg
     affiliations:
     - org: governo-austria
@@ -8231,6 +8859,12 @@ persons:
     - person: allen-dulles
       type: negotiator
       note: Operation Sunrise - secret surrender Italy
+  katharina-amann:
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   katharine-gun:
     born: 1974
     nationality: GBR
@@ -8255,7 +8889,7 @@ persons:
     - org: mowi
       role: board
   kathy-warden:
-    nationality: American
+    nationality: USA
     note: Northrop Grumman CEO, defense-pharma crosslink
     affiliations:
     - org: merck
@@ -8267,7 +8901,7 @@ persons:
       note: CEO/Chairman
   keir-starmer:
     born: 1962
-    nationality: british
+    nationality: GBR
     affiliations:
     - org: governo-uk
       role: leader
@@ -8301,8 +8935,15 @@ persons:
   keith-murdoch:
     born: 1885
     died: 1952
-    nationality: Australia
+    nationality: AUS
     family: murdoch
+  kelvin-kim:
+    nationality: KOR
+    note: CEO Korea Credit Data
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
   ken-lin:
     nationality: THA
     affiliations:
@@ -8313,6 +8954,13 @@ persons:
       role: executive
       from: 2023
       note: SVP Innovation & Global Investment
+  ketevan-bochorishvili:
+    nationality: GEO
+    note: CEO Anaklia City
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2019
   khaldoon-al-mubarak:
     born: 1975
     nationality: UAE
@@ -8364,7 +9012,7 @@ persons:
       note: Washington liaison, weekly lunches, Philby deceived Angleton
   kim-tae-hyun:
     born: 1966
-    nationality: Korean
+    nationality: KOR
     note: CEO NPS 2022-2025. Ex CEO Korea Deposit Insurance Corp. Career in Finance Ministry and FSC
     affiliations:
     - org: nps-korea
@@ -8375,6 +9023,13 @@ persons:
     - org: governo-corea
       role: minister
       note: Finance Ministry, Foreign Affairs Ministry, FSC departments
+  kirill-dmitriev:
+    born: 1975
+    nationality: RUS
+    note: CEO Russian Direct Investment Fund
+    affiliations:
+    - org: wef
+      role: ygl
   kirsty-coventry:
     born: 1983
     nationality: ZWE
@@ -8383,6 +9038,13 @@ persons:
       role: leader
       from: 2025
       note: President (first woman, first African)
+  kishin-rk:
+    nationality: SGP
+    note: CEO RB Capital
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   kjerstin-braathen:
     born: 1970
     nationality: NOR
@@ -8448,6 +9110,30 @@ persons:
     - person: reinhard-gehlen
       type: colleague
       note: Agent in Gehlen Organization
+  klaus-iohannis:
+    born: 1959
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 2014
+      to: 2025
+      note: Presidente della Romania
+    - org: governo-romania
+      role: executive
+      from: 2000
+      to: 2014
+      note: Sindaco di Sibiu
+    - org: pnl-romania
+      role: chairman
+      from: 2014
+      to: 2017
+      note: Presidente PNL
+    - org: dfdr
+      role: chairman
+      from: 2001
+      to: 2013
+      note: Presidente DFDR
   klaus-michael-kuhne:
     born: 1937
     nationality: DEU
@@ -8692,7 +9378,7 @@ persons:
       note: Founder Markit 2003; Chairman & CEO IHS Markit 2016-2022
   lapo-elkann:
     born: 1977
-    nationality: Italia
+    nationality: ITA
     family: agnelli-elkann
   larry-ellison:
     born: 1944
@@ -8868,9 +9554,15 @@ persons:
       role: leader
       from: 2024
       note: Prime Minister
+  lea-wermelin:
+    born: 1985
+    nationality: DNK
+    affiliations:
+    - org: wef
+      role: ygl
   lee-boo-jin:
     born: 1970
-    nationality: Korean
+    nationality: KOR
     affiliations:
     - org: hotel-shilla
       role: executive
@@ -8879,7 +9571,7 @@ persons:
   lee-byung-chul:
     born: 1910
     died: 1987
-    nationality: Korean
+    nationality: KOR
     affiliations:
     - org: samsung
       role: founder
@@ -8922,12 +9614,14 @@ persons:
       note: CEO
   lee-jae-yong:
     born: 1968
-    nationality: Korean
-    note: Executive Chairman Samsung. AKA Jay Y. Lee. Convicted of bribery, pardoned
+    nationality: KOR
+    note: Vice Chairman Samsung
     affiliations:
     - org: wef
       role: member
       note: Attended Davos 2023 with President Yoon delegation
+    - org: wef
+      role: ygl
     - org: samsung
       role: chairman
       from: 2022
@@ -8955,7 +9649,7 @@ persons:
   lee-kun-hee:
     born: 1942
     died: 2020
-    nationality: Korean
+    nationality: KOR
     affiliations:
     - org: samsung
       role: chairman
@@ -8964,12 +9658,19 @@ persons:
       note: Transformed Samsung into global tech leader
   lee-seo-hyun:
     born: 1973
-    nationality: Korean
+    nationality: KOR
     affiliations:
     - org: samsung-ct
       role: executive
       from: 2024
       note: President
+  lee-seung-gun:
+    nationality: KOR
+    note: CEO Toss/Viva Republica
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   lee-wei-ling:
     born: 1955
     nationality: SGP
@@ -9021,6 +9722,13 @@ persons:
     - org: atlantic-council
       role: board
       note: Honorary Director
+  leonardo-badea:
+    nationality: ROU
+    affiliations:
+    - org: bnr
+      role: executive
+      from: 2019
+      note: Deputy Governor
   leonardo-del-vecchio:
     born: 1935
     died: 2022
@@ -9100,6 +9808,13 @@ persons:
       role: executive
       from: 1980
       to: 1991
+  lewis-pugh:
+    born: 1969
+    nationality: ZAF
+    note: Fondatore Lewis Pugh Foundation
+    affiliations:
+    - org: wef
+      role: ygl
   li-hongyi:
     born: 1987
     nationality: SGP
@@ -9132,10 +9847,17 @@ persons:
       role: executive
       from: 2019
       note: VP Research
+  liang-pei:
+    nationality: CHN
+    note: Vice Dir Ministero Ecologia Cina
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   licio-gelli:
     born: 1919
     died: 2015
-    nationality: Italia
+    nationality: ITA
     affiliations:
     - org: p2
       role: founder
@@ -9164,8 +9886,19 @@ persons:
   lionel-rothschild:
     born: 1808
     died: 1879
-    nationality: UK
+    nationality: GBR
     family: rothschild
+  liv-garfield:
+    nationality: GBR
+    affiliations:
+    - org: wef
+      role: ygl
+  livia-jaroka:
+    born: 1974
+    nationality: HUN
+    affiliations:
+    - org: wef
+      role: ygl
   liz-mohn:
     born: 1941
     nationality: DEU
@@ -9242,6 +9975,13 @@ persons:
       from: 1992
       to: 2005
       note: Privatized 1996, created Nissan alliance 1999
+  lu-chaoyang:
+    nationality: CHN
+    note: Professore Università Scienza Tecnologia Cina
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   luc-frieden:
     born: 1963
     nationality: LUX
@@ -9307,6 +10047,12 @@ persons:
       from: 2020
       to: 2025
       note: 'Turnaround: Renaulution strategy. Left for Kering CEO.'
+  luca-garavoglia:
+    born: 1966
+    nationality: ITA
+    affiliations:
+    - org: wef
+      role: ygl
   lucas-papademos:
     born: 1947
     nationality: GRC
@@ -9347,6 +10093,12 @@ persons:
     - org: edizione
       role: founder
       from: 1981
+  lucy-cooper:
+    nationality: GBR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   ludwig-criel:
     nationality: BEL
   luhut-pandjaitan:
@@ -9466,13 +10218,19 @@ persons:
     nationality: USA
     family: walton
   luke-miels:
-    nationality: Australian
+    nationality: AUS
     note: ex-AstraZeneca, Roche, Sanofi
     affiliations:
     - org: gsk
       role: executive
       from: 2017
       note: CCO, CEO from Jan 2026
+  mabel-van-oranje:
+    born: 1968
+    nationality: NLD
+    affiliations:
+    - org: wef
+      role: ygl
   mack-mclarty:
     born: 1946
     nationality: USA
@@ -9487,6 +10245,26 @@ persons:
       from: 1999
       to: 2008
       note: Kissinger McLarty Associates
+  magdalena-andersson:
+    born: 1967
+    nationality: SWE
+    affiliations:
+    - org: wef
+      role: ygl
+    - org: governo-svezia
+      role: leader
+      from: 2021
+      to: 2022
+      note: Prime Minister
+    - org: governo-svezia
+      role: minister
+      from: 2014
+      to: 2021
+      note: Minister of Finance
+    - org: imf
+      role: chairman
+      from: 2020
+      note: Chair IMFC (first woman)
   maia-sandu:
     born: 1972
     nationality: MDA
@@ -9581,6 +10359,11 @@ persons:
       from: 2014
       to: 2016
       note: Primo Ministro
+  manuela-kasper-claridge:
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
   marc-grynberg:
     nationality: BEL
     affiliations:
@@ -9680,6 +10463,15 @@ persons:
       role: founder
       from: 1990
       note: Co-Founder, CEO (2021), Chairman
+  marcel-ciolacu:
+    born: 1967
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 2023
+      to: 2025
+      note: Primo Ministro
   marcel-dassault:
     born: 1892
     died: 1986
@@ -9876,9 +10668,16 @@ persons:
       role: executive
       from: 2006
       to: 2017
+  margaret-zhang:
+    born: 1993
+    nationality: CHN
+    note: ex editore Vogue China
+    affiliations:
+    - org: wef
+      role: ygl
   margarita-simonyan:
     born: 1980
-    nationality: Russian
+    nationality: RUS
     note: Editor-in-Chief RT since 2005. Key figure Russian information war
     affiliations:
     - org: rt
@@ -9895,7 +10694,7 @@ persons:
       from: 2019
   margherita-agnelli:
     born: 1955
-    nationality: Italia
+    nationality: ITA
     family: agnelli-elkann
   maria-bianca-farina:
     nationality: ITA
@@ -9908,6 +10707,26 @@ persons:
       role: chairman
       from: 2015
       note: Prima donna presidente
+  maria-blasco:
+    born: 1965
+    nationality: ESP
+    affiliations:
+    - org: wef
+      role: ygl
+  maria-rousseva:
+    nationality: BGR
+    affiliations:
+    - org: brd
+      role: executive
+      from: 2023
+      note: CEO
+  mariana-vasconcelos:
+    nationality: BRA
+    note: CEO Agrosmart
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   mariangela-zappia:
     born: 1959
     nationality: ITA
@@ -9961,7 +10780,7 @@ persons:
     family: mitsotakis
   marina-berlusconi:
     born: 1966
-    nationality: Italia
+    nationality: ITA
     family: berlusconi
     affiliations:
     - org: fininvest
@@ -10271,6 +11090,12 @@ persons:
     - org: aspen-italia
       role: executive
       note: Senior Director European Affairs, Editor Aspenia
+  marte-jerko:
+    nationality: NOR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   martin-barrington:
     born: 1953
     nationality: USA
@@ -10280,7 +11105,7 @@ persons:
       from: 2024
   martin-bouygues:
     born: 1952
-    nationality: Francia
+    nationality: FRA
     family: bouygues
     affiliations:
     - org: bouygues
@@ -10292,6 +11117,13 @@ persons:
     - org: blibli
       role: chairman
       note: Principal shareholder via GDP Venture/Djarum
+  martin-lousteau:
+    born: 1970
+    nationality: ARG
+    note: Ex Ministro Economia Argentina
+    affiliations:
+    - org: wef
+      role: ygl
   martin-schlegel:
     born: 1976
     nationality: CHE
@@ -10316,6 +11148,13 @@ persons:
       role: chairman
       from: 2002
       to: 2007
+  mary-donaldson:
+    born: 1972
+    nationality: DNK
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2012
   mary-ma:
     born: 1953
     died: 2019
@@ -10330,6 +11169,13 @@ persons:
       role: executive
       to: 2007
       note: CFO, key in IBM PC acquisition 2005
+  masao-koyama:
+    nationality: JPN
+    note: Head CDR Mitsubishi Corporation
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   masayoshi-son:
     born: 1957
     nationality: JPN
@@ -10400,7 +11246,8 @@ persons:
       from: 2018
       note: Steering Committee, participant since 2007
     - org: wef
-      role: member
+      role: ygl
+      from: 2002
       note: Davos participant
     - org: axel-springer
       role: executive
@@ -10504,13 +11351,20 @@ persons:
   max-warburg:
     born: 1867
     died: 1946
-    nationality: Germania
+    nationality: DEU
     family: warburg
   mayer-amschel-rothschild:
     born: 1744
     died: 1812
-    nationality: Germania
+    nationality: DEU
     family: rothschild
+  mayowa-kuyoro:
+    nationality: NGA
+    note: Partner McKinsey Africa
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
   mehmet-zahid-sobaci:
     nationality: TUR
     note: TRT Director General 2021-. Academic public admin. Ex-Vice Dir Communications Presidency
@@ -10519,6 +11373,19 @@ persons:
       role: executive
       from: 2021
       note: Director General. Reappointed 2025
+  mette-frederiksen:
+    born: 1977
+    nationality: DNK
+    affiliations:
+    - org: wef
+      role: ygl
+  mette-marit:
+    born: 1973
+    nationality: NOR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2010
   michael-bambang-hartono:
     born: 1939
     nationality: IDN
@@ -10613,6 +11480,11 @@ persons:
       from: 2014
       to: 2018
       note: Commander
+  michaela-erbenova:
+    nationality: CZE
+    affiliations:
+    - org: wef
+      role: ygl
   michel-barnier:
     born: 1951
     nationality: FRA
@@ -10623,7 +11495,7 @@ persons:
       to: 2024
       note: Primo Ministro (set-dic 2024)
   michel-demare:
-    nationality: Swiss
+    nationality: CHE
     note: ex-UBS Deputy Chair, ex-Syngenta Chair
     affiliations:
     - org: astrazeneca
@@ -10740,6 +11612,13 @@ persons:
       role: leader
       from: 1985
       to: 1991
+  miku-hirano:
+    nationality: JPN
+    note: CEO Cinnamon AI
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   milojko-spajic:
     born: 1987
     nationality: MNE
@@ -10783,6 +11662,37 @@ persons:
   mira-salim:
     nationality: IDN
     note: Figlia, sposata Franciscus Welirang (CEO Bogasari)
+  mircea-geoana:
+    born: 1958
+    nationality: ROU
+    affiliations:
+    - org: aspen-institute
+      role: board
+      note: Ex Officio Trustee
+    - org: nato
+      role: executive
+      from: 2019
+      to: 2024
+      note: Deputy Secretary General
+    - org: aspen-romania
+      role: founder
+      from: 2006
+      note: Fondatore e Presidente
+    - org: governo-romania
+      role: ambassador
+      from: 1996
+      to: 2000
+      note: Ambasciatore negli USA
+    - org: governo-romania
+      role: minister
+      from: 2000
+      to: 2004
+      note: Ministro degli Esteri
+    - org: governo-romania
+      role: legislator
+      from: 2008
+      to: 2011
+      note: Presidente del Senato
   mitt-romney:
     born: 1947
     nationality: USA
@@ -10836,7 +11746,7 @@ persons:
       note: Vice Presidente, Primo Ministro, Ruler Dubai
   mohammed-bin-salman:
     born: 1985
-    nationality: Saudi
+    nationality: SAU
     note: Crown Prince Saudi Arabia, Chair PIF
     affiliations:
     - org: pif-saudi
@@ -10862,6 +11772,12 @@ persons:
       role: leader
       from: 2022
       note: Presidente UAE, Ruler Abu Dhabi
+  mona-sahlin:
+    born: 1957
+    nationality: SWE
+    affiliations:
+    - org: wef
+      role: ygl
   monica-de-virgiliis:
     born: 1967
     nationality: ITA
@@ -10929,7 +11845,7 @@ persons:
       from: 2016
       note: General Director
   moon-hyung-pyo:
-    nationality: Korean
+    nationality: KOR
     note: Ex Health Minister, Ex NPS Director. Convicted 2017 for pressuring NPS vote on Samsung merger
     affiliations:
     - org: nps-korea
@@ -10964,7 +11880,7 @@ persons:
   moses-marcus-warburg:
     born: 1763
     died: 1830
-    nationality: Germania
+    nationality: DEU
     family: warburg
   moshe-schnitzer:
     died: 2006
@@ -10973,11 +11889,45 @@ persons:
     - org: israel-diamond-exchange
       role: chairman
       note: Presidente storico, padre industria diamanti israeliana
+  mugur-isarescu:
+    born: 1949
+    nationality: ROU
+    affiliations:
+    - org: trilateral-commission
+      role: member
+      from: 1993
+    - org: ecb
+      role: board
+      from: 2007
+      note: General Council member
+    - org: imf
+      role: board
+      from: 1990
+      note: Governor for Romania
+    - org: club-of-rome
+      role: member
+      from: 1993
+      note: President Romanian Chapter
+    - org: governo-romania
+      role: leader
+      from: 1999
+      to: 2000
+      note: Primo Ministro
+    - org: bnr
+      role: executive
+      from: 1990
+      note: Governatore (1990-1999, 2000-)
+    - org: romanian-academy
+      role: member
+      from: 2006
+      note: Membro (corrispondente 2001, ordinario 2006); Presidente Sezione Scienze Economiche
   mukesh-ambani:
     born: 1957
-    nationality: Indian
+    nationality: IND
     note: Chairman Reliance. Net worth $100B+. Close to Modi government
     affiliations:
+    - org: wef
+      role: board
     - org: reliance-industries
       role: chairman
   mykhailo-fedorov:
@@ -10991,6 +11941,13 @@ persons:
       role: minister
       from: 2019
       note: Vice PM, Digital Transformation
+  nadia-ahmad-samdin:
+    nationality: SGP
+    note: Membro Parlamento Singapore
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   nadia-calvino:
     born: 1968
     nationality: ESP
@@ -11069,6 +12026,13 @@ persons:
       from: 1931
       to: 1935
       note: President WZO
+  naif-shesha:
+    nationality: SAU
+    note: CSO Saudi Space Commission
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   najat-vallaud-belkacem:
     born: 1977
     nationality: FRA
@@ -11106,8 +12070,22 @@ persons:
       note: Chairman ECA
   nat-rothschild:
     born: 1971
-    nationality: UK
+    nationality: GBR
     family: rothschild
+  natalia-vodianova:
+    born: 1982
+    nationality: RUS
+    note: Modella, fondatrice Naked Heart Foundation
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2014
+  natalie-black:
+    nationality: GBR
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   natan-sharansky:
     born: 1948
     nationality: ISR
@@ -11117,6 +12095,13 @@ persons:
       from: 2009
       to: 2018
       note: Chairman of the Executive
+  natasha-latiff:
+    nationality: SGP
+    note: Avvocato diritti umani
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   nathalie-tocci:
     born: 1977
     nationality: ITA
@@ -11177,7 +12162,7 @@ persons:
   nathan-mayer-rothschild:
     born: 1777
     died: 1836
-    nationality: UK
+    nationality: GBR
     family: rothschild
   nathaniel-rothschild-1st-baron:
     born: 1840
@@ -11413,6 +12398,42 @@ persons:
       note: Figlia Giulia (2011)
     - person: cecilia-attias
       type: ex-spouse
+  nicusor-dan:
+    born: 1969
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 2025
+      note: Presidente della Romania
+    - org: governo-romania
+      role: executive
+      from: 2020
+      to: 2025
+      note: Sindaco di Bucarest
+    - org: governo-romania
+      role: legislator
+      from: 2016
+      to: 2020
+      note: Deputato
+    - org: usr
+      role: founder
+      from: 2016
+      to: 2017
+      note: Co-fondatore, dimesso per disaccordi interni
+    - org: usb
+      role: founder
+      from: 2015
+      to: 2016
+      note: Fondatore
+    - org: snsb
+      role: founder
+      from: 1998
+      note: Primo direttore amministrativo
+    - org: save-bucharest-association
+      role: founder
+      from: 2008
+      note: Fondatore
   nigel-higgins:
     nationality: GBR
     affiliations:
@@ -11433,6 +12454,13 @@ persons:
       from: 2023
       to: 2022
       note: President
+  nino-enukidze:
+    nationality: GEO
+    note: Rettore Business and Technology University Georgia
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   nir-bar-dea:
     nationality: ISR
     affiliations:
@@ -11584,7 +12612,7 @@ persons:
       note: CEO
   oleg-deripaska:
     born: 1968
-    nationality: russa
+    nationality: RUS
   oliver-baete:
     born: 1965
     nationality: DEU
@@ -11648,6 +12676,22 @@ persons:
     affiliations:
     - org: verlinvest
       role: board
+  omar-bin-sultan-al-olama:
+    born: 1989
+    nationality: UAE
+    note: Ministro AI ed Economia Digitale UAE
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
+  omer-tetik:
+    born: 1973
+    nationality: TUR-DEU
+    affiliations:
+    - org: banca-transilvania
+      role: executive
+      from: 2013
+      note: CEO
   omri-lavie:
     nationality: ISR
     note: NSO Group co-founder, Unit 8200 veteran
@@ -11760,6 +12804,11 @@ persons:
       from: 2016
       to: 2023
       note: Administrator
+  paola-lanzarini:
+    nationality: ITA
+    affiliations:
+    - org: wef
+      role: ygl
   paolo-ciocca:
     born: 1963
     nationality: ITA
@@ -11861,6 +12910,12 @@ persons:
     - org: globsec
       role: member
       note: Board of Experts, Global Europe Initiative
+  paolo-petrocelli:
+    nationality: ITA
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2023
   paolo-savona:
     born: 1936
     nationality: ITA
@@ -11905,7 +12960,7 @@ persons:
       type: nephew
   park-geun-hye:
     born: 1952
-    nationality: Korean
+    nationality: KOR
     note: President South Korea 2013-2017. Impeached and imprisoned for corruption scandal involving Samsung
     affiliations:
     - org: governo-corea
@@ -11913,9 +12968,16 @@ persons:
       from: 2013
       to: 2017
       note: President. Impeached for Samsung bribery scandal
+  park-jin-young:
+    born: 1971
+    nationality: KOR
+    note: CEO JYP Entertainment
+    affiliations:
+    - org: wef
+      role: ygl
   pascal-soriot:
     born: 1959
-    nationality: French-Australian
+    nationality: FRA-AUS
     note: WEF Agenda Contributor, ex-Roche COO
     affiliations:
     - org: wef
@@ -11933,6 +12995,12 @@ persons:
       role: executive
       from: 2021
       note: President GoTo Group
+  patrick-chappatte:
+    born: 1967
+    nationality: CHE
+    affiliations:
+    - org: wef
+      role: ygl
   patrick-frost:
     born: 1968
     nationality: CHE
@@ -12062,7 +13130,7 @@ persons:
   paul-warburg:
     born: 1868
     died: 1932
-    nationality: Germania/USA
+    nationality: DEU-USA
     family: warburg
     affiliations:
     - org: cfr
@@ -12339,6 +13407,12 @@ persons:
     - org: tu-eindhoven
       role: chairman
       note: Chairman Supervisory Board
+  petra-ehmann:
+    nationality: CHE
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   petros-christodoulou:
     born: 1960
     nationality: GRC
@@ -12366,6 +13440,12 @@ persons:
       role: executive
       from: 2019
       note: Chief Economist
+  philip-meissner:
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   philip-niarchos:
     born: 1954
     nationality: GRC
@@ -12380,6 +13460,8 @@ persons:
     born: 1963
     nationality: CHE
     affiliations:
+    - org: wef
+      role: board
     - org: snb
       role: chairman
       from: 2010
@@ -12535,7 +13617,7 @@ persons:
       note: Entrambi Chief Economist OECD (Visco 1997-2002, Padoan 2009-2014)
   pier-silvio-berlusconi:
     born: 1969
-    nationality: Italia
+    nationality: ITA
     family: berlusconi
     affiliations:
     - org: mediaset-mfe
@@ -12590,7 +13672,7 @@ persons:
   pierre-samuel-dupont:
     born: 1739
     died: 1817
-    nationality: Francia/USA
+    nationality: FRA-USA
     family: dupont
   pierre-werner:
     born: 1913
@@ -12762,9 +13844,15 @@ persons:
       from: 1961
       to: 1976
       note: First President
+  priyanka-chopra:
+    born: 1982
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: ygl
   prudence-murdoch:
     born: 1958
-    nationality: Australia
+    nationality: AUS
     family: murdoch
   queen-beatrix:
     born: 1938
@@ -12798,6 +13886,13 @@ persons:
       role: leader
       from: 2013
       note: Queen consort
+  queen-rania:
+    born: 1970
+    nationality: JOR
+    note: Regina di Giordania
+    affiliations:
+    - org: wef
+      role: board
   rachida-dati:
     born: 1965
     nationality: FRA
@@ -12867,6 +13962,13 @@ persons:
       from: 1993
       to: 2014
       note: Founder, MD. Lost control to Reliance
+  raghav-chadha:
+    born: 1988
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   rahul-joshi:
     nationality: IND
     note: Network18 MD/CEO 2018-. Ex-Economic Times editor. Group Editor-in-Chief
@@ -12920,6 +14022,20 @@ persons:
     - org: fifth-dimension
       role: advisor
       note: Advisory Board
+  rammohan-naidu:
+    born: 1987
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
+  rania-al-mashat:
+    nationality: EGY
+    note: Ministro Cooperazione Internazionale Egitto
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2014
   raoul-wallenberg:
     born: 1912
     died: 1947
@@ -12946,6 +14062,13 @@ persons:
       type: cousin
     - person: marcus-wallenberg-jr
       type: cousin
+  rapelang-rabana:
+    nationality: ZAF
+    note: CEO Rekindle Learning
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2017
   ratan-tata:
     born: 1937
     died: 2024
@@ -12985,6 +14108,18 @@ persons:
     - org: fii-saudi
       role: member
       note: Speaker FII7, FII9
+  razvan-popescu:
+    nationality: ROU
+    affiliations:
+    - org: bnr
+      role: executive
+      from: 2007
+      to: 2020
+      note: Portfolio Manager, International Reserves
+    - org: romgaz
+      role: executive
+      from: 2022
+      note: CEO (CFO 2020-2022)
   reality-winner:
     born: 1991
     nationality: USA
@@ -13006,7 +14141,7 @@ persons:
       note: Both NSA, both charged under Espionage Act
   recep-tayyip-erdogan:
     born: 1954
-    nationality: Turkish
+    nationality: TUR
     note: President Turkey since 2014. PM 2003-2014
     affiliations:
     - org: governo-turchia
@@ -13073,6 +14208,52 @@ persons:
     - org: bertelsmann-stiftung
       role: founder
       from: 1977
+  renate-weber:
+    born: 1955
+    nationality: ROU
+    affiliations:
+    - org: parlamento-europeo
+      role: legislator
+      from: 2007
+      to: 2019
+      note: MEP (PNL/ALDE)
+    - org: alde
+      role: member
+      from: 2014
+      to: 2019
+    - org: governo-romania
+      role: executive
+      from: 2019
+      note: Ombudsman (Avocatul Poporului)
+    - org: governo-romania
+      role: advisor
+      from: 2004
+      to: 2005
+      note: Advisor costituzionale Presidente Basescu
+    - org: open-society-romania
+      role: chairman
+      from: 1998
+      to: 2007
+      note: Presidente Consiglio Nazionale
+    - org: apador-ch
+      role: chairman
+      from: 1994
+      to: 1999
+      note: Co-presidente
+    - org: international-helsinki-federation
+      role: board
+      from: 1992
+      to: 1996
+      note: Vice-chair
+    - org: echr
+      role: member
+      from: 2000
+      to: 2000
+      note: Ad hoc judge
+    - org: pnl-romania
+      role: member
+      from: 2007
+      to: 2019
   rene-boel:
     born: 1899
     died: 1990
@@ -13305,7 +14486,7 @@ persons:
       note: 51% ownership
   robert-davis:
     born: 1967
-    nationality: American
+    nationality: USA
     note: CEO/Chairman since 2021/2022
     affiliations:
     - org: merck
@@ -13480,7 +14661,7 @@ persons:
       note: Chairman CIR
   rodolphe-saade:
     born: 1970
-    nationality: Francia/Libano
+    nationality: FRA-LBN
     note: shipping magnate, CMA CGM
     affiliations:
     - org: cma-cgm
@@ -13588,6 +14769,12 @@ persons:
       role: diplomat
       from: 1986
       to: 1987
+  rose-damen:
+    nationality: NLD
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   roy-jakobs:
     nationality: NLD
     affiliations:
@@ -13616,9 +14803,22 @@ persons:
       role: chairman
       from: 1957
       to: 1958
+  ruben-vardanian:
+    born: 1968
+    nationality: RUS
+    note: Ex CEO Troika Dialog
+    affiliations:
+    - org: wef
+      role: ygl
   rubin-steinmetz:
     nationality: ISR
     note: Pioniere industria diamanti israeliana
+  rula-jebreal:
+    born: 1973
+    nationality: ITA
+    affiliations:
+    - org: wef
+      role: ygl
   rupert-murdoch:
     born: 1931
     nationality: USA
@@ -13641,6 +14841,18 @@ persons:
       role: executive
       from: 2018
       note: CEO
+  ruzwana-bashir:
+    nationality: GBR
+    affiliations:
+    - org: wef
+      role: ygl
+  safak-pavey:
+    born: 1976
+    nationality: TUR
+    note: Ex deputata Parlamento turco
+    affiliations:
+    - org: wef
+      role: ygl
   safra-catz:
     born: 1961
     nationality: USA
@@ -13648,6 +14860,13 @@ persons:
     - org: oracle
       role: executive
       from: 2014
+  sahar-albazar:
+    nationality: EGY
+    note: Parlamentare, Vice Chair Affari Esteri
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   salman-bin-abdulaziz:
     born: 1935
     nationality: SAU
@@ -13724,6 +14943,12 @@ persons:
     died: 1948
     nationality: USA
     family: bush
+  sandra-maischberger:
+    born: 1966
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
   sandy-weill:
     born: 1933
     nationality: USA
@@ -13768,6 +14993,13 @@ persons:
     - org: tony-blair-institute
       role: advisor
       from: 2023
+  sara-saeed-khurram:
+    nationality: PAK
+    note: CEO Sehat Kahani
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   sarah-williamson:
     nationality: USA
     affiliations:
@@ -13777,7 +15009,7 @@ persons:
       note: CEO (founding)
   sarath-ratanavadi:
     born: 1965
-    nationality: Thai
+    nationality: THA
     note: 'Fondatore Gulf Energy, #1 azionista piu ricco Thailand'
     affiliations:
     - org: gulf-energy
@@ -14029,6 +15261,12 @@ persons:
       from: 1983
       to: 2008
       note: Deputato Camera (7 legislature)
+  serpil-timuray:
+    nationality: TUR
+    note: CEO Vodafone Africa Middle East Asia Pacific
+    affiliations:
+    - org: wef
+      role: ygl
   seth-berkley:
     born: 1956
     nationality: USA
@@ -14042,6 +15280,8 @@ persons:
     born: 1967
     nationality: AUT
     affiliations:
+    - org: wef
+      role: ygl
     - org: ert
       role: member
       from: 2023
@@ -14082,6 +15322,21 @@ persons:
       role: founder
       from: 2010
       note: CEO
+  sharmeen-obaid-chinoy:
+    born: 1978
+    nationality: PAK
+    note: Regista documentarista, 2x Oscar
+    affiliations:
+    - org: wef
+      role: ygl
+  sheikh-maktoum-bin-mohammed:
+    born: 1983
+    nationality: UAE
+    note: Vice PM Dubai
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2023
   sheikh-tahnoun-bin-zayed:
     born: 1968
     nationality: UAE
@@ -14107,6 +15362,27 @@ persons:
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
+  sheikha-shamma-bint-sultan:
+    nationality: UAE
+    note: Head UAE Climate Change Accelerators
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2023
+  shi-zhe:
+    nationality: CHN
+    note: CDO Foxconn
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
+  shiho-azuma:
+    nationality: JPN
+    note: CEO Lily MedTech
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   shimon-peres:
     born: 1923
     died: 2016
@@ -14123,7 +15399,7 @@ persons:
       type: colleague
       note: Rivale/partner politico, co-laureato Nobel
   shin-je-yoon:
-    nationality: Korean
+    nationality: KOR
     note: Ex Chairman Financial Services Commission, Ex Vice Minister Economy. Samsung Electronics board member
     affiliations:
     - org: samsung
@@ -14167,10 +15443,16 @@ persons:
       role: executive
       from: 1972
       to: 1973
+  siegfried-russwurm:
+    born: 1963
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
   siegmund-warburg:
     born: 1902
     died: 1982
-    nationality: Germania/UK
+    nationality: DEU-GBR
     family: warburg
   sigmar-gabriel:
     born: 1959
@@ -14235,7 +15517,7 @@ persons:
   silvio-berlusconi:
     born: 1936
     died: 2023
-    nationality: Italia
+    nationality: ITA
     family: berlusconi
     affiliations:
     - org: p2
@@ -14264,6 +15546,18 @@ persons:
       from: 1983
       to: 1988
       note: Taipan (7th Keswick)
+  simon-sheikh:
+    nationality: AUS
+    note: MD Future Super
+    affiliations:
+    - org: wef
+      role: ygl
+  sinead-burke:
+    nationality: IRL
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   somchai-wongsawat:
     born: 1947
     nationality: THA
@@ -14283,6 +15577,20 @@ persons:
     - org: cp-group
       role: chairman
       from: 2017
+  sophia-hamblin-wang:
+    nationality: AUS
+    note: COO Mineral Carbonation International
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
+  sophie-kim:
+    nationality: KOR
+    note: Fondatrice Market Kurly
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   spyros-capralos:
     nationality: GRC
     affiliations:
@@ -14337,6 +15645,13 @@ persons:
       from: 2010
       to: 2016
       note: Managing Director & COO
+  stav-shaffir:
+    born: 1985
+    nationality: ISR
+    note: Ex parlamentare, attivista sociale
+    affiliations:
+    - org: wef
+      role: ygl
   stavros-niarchos:
     born: 1909
     died: 1996
@@ -14348,6 +15663,12 @@ persons:
       role: founder
       from: 1996
       note: Creata per testamento
+  stefan-oelrich:
+    born: 1969
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
   stefan-quandt:
     born: 1966
     nationality: DEU
@@ -14358,6 +15679,11 @@ persons:
       role: deputy-chairman
       from: 1999
       note: Owns 26.8%
+  stefan-schaible:
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
   stefan-walter:
     born: 1965
     nationality: DEU
@@ -14441,6 +15767,11 @@ persons:
       role: executive
       from: 2011
       note: CEO
+  stephen-frost:
+    nationality: GBR
+    affiliations:
+    - org: wef
+      role: ygl
   stephen-hadley:
     nationality: USA
     affiliations:
@@ -14573,6 +15904,13 @@ persons:
       role: executive
       from: 2005
       note: CFO
+  steven-lam:
+    nationality: HKG
+    note: CEO GoGoX Holdings
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
   steven-van-rijswijk:
     nationality: NLD
     affiliations:
@@ -14617,6 +15955,21 @@ persons:
       from: 1945
       to: 1967
       note: Presidente fondatore
+  sultan-olayan:
+    nationality: SAU
+    note: Director Olayan Group
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
+  sumayya-vally:
+    born: 1990
+    nationality: ZAF
+    note: Fondatrice Counterspace
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   sunil-mittal:
     born: 1957
     nationality: IND
@@ -14709,6 +16062,26 @@ persons:
     died: 1930
     nationality: USA
     family: dupont
+  takashi-sano:
+    nationality: JPN
+    note: CIO MUFG Innovation Partners
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
+  tania-singer:
+    born: 1969
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
+  tareq-darwazeh:
+    nationality: JOR
+    note: COO MENA Hikma Pharmaceuticals
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2024
   tedros-adhanom:
     born: 1965
     nationality: ETH
@@ -14766,6 +16139,8 @@ persons:
     born: 1957
     nationality: SGP
     affiliations:
+    - org: wef
+      role: board
     - org: governo-singapore
       role: leader
       from: 2023
@@ -14871,7 +16246,7 @@ persons:
       note: Both NSA whistleblowers, both supported ThinThread vs Trailblazer
   thomas-glocer:
     born: 1959
-    nationality: American
+    nationality: USA
     note: ex-Reuters/Thomson Reuters CEO, CFR member
     affiliations:
     - org: cfr
@@ -14995,6 +16370,12 @@ persons:
       role: founder
       from: 1947
       to: 1968
+  tigran-khudaverdian:
+    nationality: RUS
+    note: Deputy CEO Yandex
+    affiliations:
+    - org: wef
+      role: ygl
   tim-cook:
     born: 1960
     nationality: USA
@@ -15145,6 +16526,15 @@ persons:
       role: executive
       from: 2013
       note: CEO
+  traian-basescu:
+    born: 1951
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 2004
+      to: 2014
+      note: Presidente della Romania
   trond-grande:
     born: 1965
     nationality: NOR
@@ -15169,7 +16559,7 @@ persons:
   umberto-agnelli:
     born: 1934
     died: 2004
-    nationality: Italia
+    nationality: ITA
     family: agnelli-elkann
     affiliations:
     - org: european-round-table
@@ -15178,7 +16568,7 @@ persons:
       note: Fondatore (Fiat)
   urbano-cairo:
     born: 1957
-    nationality: Italia
+    nationality: ITA
     note: editore, ex-agente pubblicitario
     affiliations:
     - org: rcs-mediagroup
@@ -15206,6 +16596,11 @@ persons:
       role: leader
       from: 2019
       note: Presidente Commissione Europea
+  uwe-raschke:
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: ygl
   vajiralongkorn:
     born: 1952
     nationality: THA
@@ -15387,11 +16782,26 @@ persons:
     - org: djarum
       role: executive
       note: CEO, COO
+  victor-ponta:
+    born: 1972
+    nationality: ROU
+    affiliations:
+    - org: governo-romania
+      role: leader
+      from: 2012
+      to: 2015
+      note: Primo Ministro
   victor-rothschild:
     born: 1910
     died: 1990
-    nationality: UK
+    nationality: GBR
     family: rothschild
+  vijay-shekhar-sharma:
+    born: 1978
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: ygl
   viktor-orban:
     born: 1963
     nationality: HUN
@@ -15500,7 +16910,7 @@ persons:
       note: Presidente post-OPS MPS
   vladimir-putin:
     born: 1952
-    nationality: Russian
+    nationality: RUS
     note: President Russia 2000-2008, 2012-present. PM 2008-2012
     affiliations:
     - org: governo-russia
@@ -15525,12 +16935,19 @@ persons:
       from: 2023
       note: CEO
   waleed-al-ibrahim:
-    nationality: Saudi
+    nationality: SAU
     note: MBC founder. Detained Ritz-Carlton 2017. Now minority shareholder
     affiliations:
     - org: mbc-group
       role: founder
       from: 1991
+  walid-bindawood:
+    nationality: SAU
+    note: CCO Bindawood Holding
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2025
   walter-hallstein:
     born: 1901
     died: 1982
@@ -15570,6 +16987,13 @@ persons:
       role: founder-chairman-ceo
       from: 1995
       note: Owns 17%
+  wang-guan:
+    nationality: CHN
+    note: Corrispondente capo CGTN
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   warren-buffett:
     born: 1930
     nationality: USA
@@ -15635,6 +17059,8 @@ persons:
     - org: bilderberg
       role: member
       note: 2008, 2016, 2022, 2024
+    - org: wef
+      role: ygl
     - org: governo-olanda
       role: leader
       from: 2013
@@ -15852,7 +17278,7 @@ persons:
       role: member
   wolfgang-porsche:
     born: 1943
-    nationality: DEU/AUT
+    nationality: DEU-AUT
     family: toyoda
     note: Chair Porsche SE, Chair Porsche AG. Son of Ferry Porsche.
     affiliations:
@@ -15948,7 +17374,7 @@ persons:
     nationality: FRA
   xavier-niel:
     born: 1967
-    nationality: Francia
+    nationality: FRA
     note: fondatore Free, tech billionaire
     affiliations:
     - org: le-monde
@@ -15974,6 +17400,13 @@ persons:
     - org: ccp
       role: general-secretary
       from: 2012
+  yair-goldfinger:
+    nationality: ISR
+    note: Cofondatore ICQ
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2009
   yannick-bollore:
     born: 1980
     nationality: FRA
@@ -15997,6 +17430,13 @@ persons:
       role: executive
       from: 2014
       note: Governor
+  yao-chen:
+    born: 1979
+    nationality: CHN
+    note: attrice
+    affiliations:
+    - org: wef
+      role: ygl
   yasir-al-rumayyan:
     born: 1970
     nationality: SAU
@@ -16048,6 +17488,13 @@ persons:
       from: 1994
       to: 2004
       note: President
+  yifan-li:
+    nationality: CHN
+    note: CEO Hesai Tech
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2021
   yingluck-shinawatra:
     born: 1967
     nationality: THA
@@ -16100,8 +17547,16 @@ persons:
       role: founder
       from: 2022
       note: Managing Partner, 5% owner
+  yoichi-ochiai:
+    born: 1987
+    nationality: JPN
+    note: Professore Università Tsukuba
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2022
   yoo-myung-hee:
-    nationality: Korean
+    nationality: KOR
     note: Ex Trade Minister MOTIE. Samsung Electronics board member. WTO Director-General candidate 2020
     affiliations:
     - org: samsung
@@ -16112,7 +17567,7 @@ persons:
       note: Trade Minister MOTIE
   yoon-suk-yeol:
     born: 1960
-    nationality: Korean
+    nationality: KOR
     note: President 2022-2024. Pro-chaebol policy. Pardoned Lee Jae-yong. Impeached Dec 2024 after martial law declaration
     affiliations:
     - org: governo-corea

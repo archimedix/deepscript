@@ -16,6 +16,12 @@ organizations:
     - person: marcel-telles
       role: founder
       from: 2004
+  4ig:
+    name: 4iG Nyrt.
+    type: company
+    founded: 1990
+    headquarters: Budapest, Ungheria
+    sector: telecom-it
   7-eleven:
     name: 7-Eleven Inc.
     type: company
@@ -28,6 +34,21 @@ organizations:
       share: 100%
       from: 2005
       note: Wholly owned subsidiary
+  a1-telekom-austria:
+    name: A1 Telekom Austria AG
+    type: company
+    headquarters: Vienna, Austria
+    sector: Telecommunications
+  a2a:
+    name: A2A S.p.A.
+    type: company
+    founded: 2008
+    headquarters: Brescia, Italy
+    sector: utilities
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   ab-inbev:
     name: Anheuser-Busch InBev SA/NV
     type: company
@@ -53,6 +74,10 @@ organizations:
     - person: philippe-de-spoelberch
       role: board
       note: Former board member
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 3.0%
   abb:
     name: ABB Ltd
     type: company
@@ -64,6 +89,12 @@ organizations:
     - person: jacob-wallenberg
       role: board
       note: Vice Chairman
+    - org: blackrock
+      share: 5.8%
+    - org: vanguard
+      share: 3.7%
+    - org: state-street
+      share: 1.5%
     - org: investor-ab
       role: major-shareholder
   abc:
@@ -272,6 +303,19 @@ organizations:
     headquarters: Abu Dhabi, UAE
     status: active
     aum: $1.06T
+  adidas:
+    name: Adidas AG
+    type: company
+    founded: 1949
+    headquarters: Herzogenaurach, Germany
+    sector: sportswear
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
   adl:
     name: Anti-Defamation League
     type: thinktank
@@ -301,6 +345,16 @@ organizations:
       role: founder
       from: 2008
       note: Owner
+  adyen:
+    name: Adyen N.V.
+    type: company
+    headquarters: Amsterdam, Netherlands
+    sector: fintech
+    stakeholders:
+    - org: blackrock
+      share: 7.7
+    - org: vanguard
+      share: 4.6
   ae-industrial-partners:
     name: AE Industrial Partners
     type: privateequity
@@ -355,6 +409,16 @@ organizations:
       role: chairman
       from: 2022
       note: Board Member 2019, Chair 2022
+  ageas:
+    name: Ageas SA/NV
+    type: company
+    founded: 1824
+    headquarters: Brussels, Belgium
+    stakeholders:
+    - org: blackrock
+      share: 5.3%
+    - org: vanguard
+      share: 4.8%
   agip:
     name: AGIP - Azienda Generale Italiana Petroli
     type: company
@@ -369,6 +433,16 @@ organizations:
       from: 1926
       to: 1928
       note: Primo presidente, nominato da Mussolini
+  aib-group:
+    name: AIB Group
+    type: bank
+    founded: 1966
+    headquarters: Dublin, Ireland
+    stakeholders:
+    - org: blackrock
+      share: 10.6%
+    - org: vanguard
+      share: 3.4%
   aig:
     name: American International Group
     type: company
@@ -464,6 +538,15 @@ organizations:
       role: board
       from: 2020
       note: Independent Director
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   airasia:
     name: AirAsia / Capital A
     type: company
@@ -506,6 +589,15 @@ organizations:
     - person: jean-pierre-clamadieu
       role: board
       note: Non-executive director
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   ais:
     name: Advanced Info Service (AIS)
     type: company
@@ -549,6 +641,16 @@ organizations:
     headquarters: Oslo, Norway
     status: active
     sector: industrial
+  aker-bp:
+    name: Aker BP ASA
+    type: company
+    headquarters: Lysaker, Norway
+    sector: Oil & Gas
+    stakeholders:
+    - org: blackrock
+      share: 1.0%
+    - org: vanguard
+      share: 1.0%
   aker-kvaerner:
     name: Aker Kvaerner ASA
     type: company
@@ -601,6 +703,11 @@ organizations:
     headquarters: Pittsburgh, USA
     status: active
     sector: alluminio
+  alcon:
+    name: Alcon Inc.
+    type: company
+    headquarters: Geneva, Switzerland
+    sector: eye-care
   alde:
     name: Alliance of Liberals and Democrats for Europe
     type: forum
@@ -614,6 +721,10 @@ organizations:
       from: 2009
       to: 2019
       note: Group President
+    - person: renate-weber
+      role: member
+      from: 2014
+      to: 2019
   alibaba:
     name: Alibaba Group
     type: company
@@ -629,6 +740,16 @@ organizations:
     - person: wojciech-kostrzewa
       role: chairman
       note: President Supervisory Board
+  allegro:
+    name: Allegro.eu S.A.
+    type: company
+    headquarters: Warsaw, Poland
+    sector: E-commerce
+    stakeholders:
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 2.5%
   allen-company:
     name: Allen & Company
     type: bank
@@ -670,11 +791,24 @@ organizations:
       to: 2020
       note: Supervisory Board Allianz Deutschland
     - org: blackrock
-      share: 6.9%
+      share: 6.9
       note: Largest shareholder (2024)
     - org: vanguard
-      share: 3.8%
+      share: 3.8
       note: '2024'
+    - org: state-street
+      role: shareholder
+      share: 2.0
+  alpha-bank:
+    name: Alpha Bank
+    type: bank
+    founded: 1879
+    headquarters: Athens, Greece
+    stakeholders:
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 1.5%
   alphabet:
     name: Alphabet
     type: company
@@ -731,6 +865,16 @@ organizations:
     - org: permira
       from: 2017
       note: Investimento iniziale; parziale exit 2024
+  amadeus-it:
+    name: Amadeus IT Group
+    type: company
+    headquarters: Madrid, Spain
+    sector: technology
+    stakeholders:
+    - org: blackrock
+      share: 5.5
+    - org: vanguard
+      share: 3.5
   amazon:
     name: Amazon
     type: company
@@ -795,6 +939,12 @@ organizations:
     stakeholders:
     - person: joseph-oughourlian
       role: founder
+  amer-sports:
+    name: Amer Sports
+    type: company
+    founded: 1950
+    headquarters: Helsinki, Finland
+    sector: Sporting Goods
   american-council-on-germany:
     name: American Council on Germany
     type: forum
@@ -838,6 +988,22 @@ organizations:
       share: 100
       from: 2022
       note: Media arm Adani Group
+  amplifon:
+    name: Amplifon S.p.A.
+    type: company
+    founded: 1950
+    headquarters: Milan, Italy
+    sector: healthcare
+  andritz:
+    name: Andritz AG
+    type: company
+    headquarters: Graz, Austria
+    sector: Industrial
+    stakeholders:
+    - org: blackrock
+      share: 4.3%
+    - org: vanguard
+      share: 2.0%
   anglo-american:
     name: Anglo American plc
     type: company
@@ -864,6 +1030,10 @@ organizations:
       from: 2001
       to: 2012
       note: Vice President
+    - org: blackrock
+      share: 4.7%
+    - org: vanguard
+      share: 3.5%
   ania:
     name: Associazione Nazionale fra le Imprese Assicuratrici
     type: agency
@@ -931,6 +1101,18 @@ organizations:
       share: 30%
       from: 2022
       note: $249M investment
+  apador-ch:
+    name: APADOR-CH (Helsinki Committee Romania)
+    type: foundation
+    founded: 1990
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - person: renate-weber
+      role: chairman
+      from: 1994
+      to: 1999
+      note: Co-presidente
   apex-group:
     name: Apex Group Ltd.
     type: company
@@ -1020,6 +1202,19 @@ organizations:
       share: 0.038
     - org: berkshire-hathaway
       role: stake
+  arcelormittal:
+    name: ArcelorMittal
+    type: company
+    founded: 2006
+    headquarters: Luxembourg
+    sector: Steel
+    stakeholders:
+    - org: blackrock
+      share: 5.1%
+    - org: vanguard
+      share: 5.5%
+    - org: state-street
+      share: 2.0%
   arctos-partners:
     name: Arctos Partners
     type: privateequity
@@ -1046,6 +1241,11 @@ organizations:
       from: 2019
       to: 2023
       note: CEO
+  argenx:
+    name: argenx SE
+    type: company
+    founded: 2008
+    headquarters: Ghent, Belgium
   arm:
     name: ARM Holdings
     type: company
@@ -1118,6 +1318,10 @@ organizations:
       role: executive
       from: 2024
       note: President & CEO
+    - org: blackrock
+      share: 8.4
+    - org: vanguard
+      share: 3.9
     - org: philips
       role: founder
       from: 1984
@@ -1146,8 +1350,15 @@ organizations:
     - person: thomas-pritzker
       role: member
       note: Aspen Strategy Group
+    - person: mircea-geoana
+      role: board
+      note: Ex Officio Trustee
     - org: trilaterale
       role: partner
+    - org: aspen-romania
+      role: affiliate
+      from: 2006
+      note: Partner organization
   aspen-italia:
     name: Aspen Institute Italia
     type: thinktank
@@ -1197,12 +1408,20 @@ organizations:
       from: 1984
       note: International partner network
   aspen-romania:
-    name: Aspen Romania
+    name: Aspen Institute Romania
     type: thinktank
+    founded: 2006
     headquarters: Bucarest, Romania
     status: active
     stakeholders:
     - person: federica-mogherini
+      role: member
+      note: Speaker
+    - person: mircea-geoana
+      role: founder
+      from: 2006
+      note: Fondatore e Presidente
+    - person: bogdan-aurescu
       role: member
       note: Speaker
   assoimmobiliare:
@@ -1278,6 +1497,12 @@ organizations:
     - person: jonathan-symonds
       role: executive
       note: ex-CFO
+    - org: blackrock
+      share: 8.5%
+    - org: vanguard
+      share: 4.6%
+    - org: state-street
+      share: 1.0%
   atalanta-bc:
     name: Atalanta Bergamasca Calcio
     type: sportsclub
@@ -1481,6 +1706,10 @@ organizations:
       role: chairman
       from: 1945
       note: Ristrutturazione verso compressori
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 3.5%
     - org: investor-ab
       role: major-shareholder
   atletico-madrid:
@@ -1569,6 +1798,15 @@ organizations:
       role: board
       from: 2021
       note: Board member
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   axel-springer:
     name: Axel Springer SE
     type: media
@@ -1591,6 +1829,21 @@ organizations:
       from: 2020
       to: 2025
       note: Take-private €6.8B, exit 2025 €13.5B
+  azimut:
+    name: Azimut Holding S.p.A.
+    type: assetmanager
+    founded: 1989
+    headquarters: Milan, Italy
+  bae-systems:
+    name: BAE Systems plc
+    type: company
+    headquarters: London, UK
+    sector: Defence
+    stakeholders:
+    - org: blackrock
+      share: 8.3%
+    - org: vanguard
+      share: 4.9%
   baic:
     name: BAIC Group
     type: automaker
@@ -1771,6 +2024,37 @@ organizations:
       from: 1987
       to: 1992
       note: Manager Corporate Finance
+  banca-transilvania:
+    name: Banca Transilvania
+    type: bank
+    founded: 1993
+    headquarters: Cluj-Napoca, Romania
+    status: active
+    sector: banking
+    stakeholders:
+    - person: horia-ciorcila
+      role: chairman
+      from: 2002
+      note: Fondatore, 5% azionista
+    - person: omer-tetik
+      role: executive
+      from: 2013
+      note: CEO
+    - org: blackrock
+      role: shareholder
+      share: 2.0%
+      note: 81.8M USD
+    - org: vanguard
+      share: 2.0%
+    - org: ebrd
+      role: shareholder
+      share: 5.2%
+      from: 2001
+      note: Ridotta da 15% iniziale
+    - org: european-investment-bank
+      role: shareholder
+    - org: ifc
+      role: shareholder
   banco-ambrosiano-veneto:
     name: Banco Ambrosiano Veneto
     type: bank
@@ -1794,6 +2078,10 @@ organizations:
     type: bank
     headquarters: Milan, Italy
     status: active
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   banco-de-espana:
     name: Banco de Espana
     type: centralbank
@@ -1823,6 +2111,10 @@ organizations:
       from: 1986
       to: 2014
       note: Executive Chairman
+    - org: blackrock
+      share: 5.5
+    - org: vanguard
+      share: 3.5
   bangkok-bank:
     name: Bangkok Bank
     type: bank
@@ -1943,6 +2235,20 @@ organizations:
       from: 2008
       to: 2014
       note: Governor
+  bank-of-ireland:
+    name: Bank of Ireland
+    type: bank
+    founded: 1783
+    headquarters: Dublin, Ireland
+    stakeholders:
+    - org: blackrock
+      share: 7.27%
+    - org: vanguard
+      share: 4.8%
+  bank-pekao:
+    name: Bank Pekao S.A.
+    type: bank
+    headquarters: Warsaw, Poland
   bank-policy-institute:
     name: Bank Policy Institute
     type: thinktank
@@ -1970,12 +2276,16 @@ organizations:
       share: 100
       note: Banca centrale nazionale
   barclays:
-    name: Barclays
+    name: Barclays plc
     type: bank
     founded: 1690
     headquarters: Londra
     status: active
     stakeholders:
+    - org: blackrock
+      share: 8.7%
+    - org: vanguard
+      share: 3.6%
     - org: qia
       role: stake
       share: 0.06
@@ -2017,8 +2327,14 @@ organizations:
       to: 1965
       note: Primo CEO post-bellico, rifondi BASF
     - org: blackrock
-      share: 6.03%
+      share: 6.03
       from: 2025
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   bassa-sassonia:
     name: Bassa Sassonia
     type: government
@@ -2043,6 +2359,16 @@ organizations:
     status: active
     sector: venture-capital
     note: Global VC/PE, $13B+ raised, Israel cyber investments (Paragon, JFrog, Anobit)
+  bawag-group:
+    name: BAWAG Group AG
+    type: bank
+    founded: 1922
+    headquarters: Vienna, Austria
+    stakeholders:
+    - org: blackrock
+      share: 6.0%
+    - org: vanguard
+      share: 2.0%
   bayer:
     name: Bayer AG
     type: pharma
@@ -2063,11 +2389,14 @@ organizations:
       from: 2020
       note: Chairman Supervisory Board
     - org: blackrock
-      share: 7.2%
+      share: 7.2
       from: 2024
     - org: vanguard
-      share: 3.5%
+      share: 3.5
       from: 2024
+    - org: state-street
+      role: shareholder
+      share: 1.5
   bbc:
     name: British Broadcasting Corporation
     type: media
@@ -2099,6 +2428,10 @@ organizations:
       from: 2000
       to: 2018
       note: Chairman 2000-2018
+    - org: blackrock
+      share: 6.8
+    - org: vanguard
+      share: 4.1
   bca:
     name: Bank Central Asia
     type: bank
@@ -2906,6 +3239,9 @@ organizations:
       role: member
       from: 1930
       note: Founding member
+    - org: bnr
+      role: member
+      note: BIS member
   blackrock:
     name: BlackRock Inc.
     type: assetmanager
@@ -3119,6 +3455,15 @@ organizations:
       from: 2015
       to: 2025
       note: Chairman Supervisory Board (CEO 2006-2015)
+    - org: blackrock
+      role: shareholder
+      share: 5.1
+    - org: vanguard
+      role: shareholder
+      share: 6.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   bnd:
     name: Bundesnachrichtendienst
     type: agency
@@ -3172,6 +3517,43 @@ organizations:
       from: 2003
       to: 2011
       note: CEO, gestì integrazione post-fusione
+    - org: blackrock
+      role: shareholder
+      share: 5.1
+    - org: vanguard
+      role: shareholder
+      share: 6.4
+    - org: state-street
+      role: shareholder
+      share: 1.5
+  bnr:
+    name: Banca Nationala a Romaniei (BNR)
+    type: centralbank
+    founded: 1880
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - person: mugur-isarescu
+      role: executive
+      from: 1990
+      note: Governatore (1990-1999, 2000-)
+    - person: florin-georgescu
+      role: executive
+      from: 2004
+      note: First Deputy Governor
+    - person: cosmin-marinescu
+      role: executive
+      from: 2024
+      note: Vice Governor
+    - person: leonardo-badea
+      role: executive
+      from: 2019
+      note: Deputy Governor
+    - person: razvan-popescu
+      role: executive
+      from: 2007
+      to: 2020
+      note: Portfolio Manager, International Reserves
   bocconi:
     name: Universita Bocconi
     type: agency
@@ -3278,6 +3660,9 @@ organizations:
     stakeholders:
     - person: martin-bouygues
       role: chairman
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   boyu-capital:
     name: Boyu Capital
     type: privateequity
@@ -3331,6 +3716,15 @@ organizations:
       from: 2019
       to: 2025
       note: Chairman, stepping down 2025-2026
+    - person: christina-verchere
+      role: executive
+      from: 1993
+      to: 2018
+      note: Regional President Canada, Regional President Asia Pacific
+    - org: blackrock
+      share: 9.4%
+    - org: vanguard
+      share: 5.3%
     - org: kuwait-investment-authority
       role: shareholder
       share: 9.9%
@@ -3360,6 +3754,15 @@ organizations:
       role: chairman
       from: 2022
       note: Chairman Management Board & CEO, succede a Mignon
+  bper:
+    name: BPER Banca S.p.A.
+    type: bank
+    founded: 1867
+    headquarters: Modena, Italy
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   bpifrance:
     name: Bpifrance
     type: bank
@@ -3370,6 +3773,36 @@ organizations:
       role: shareholder
       share: 50
       note: Via CDC e Stato diretto
+  brd:
+    name: BRD - Groupe Société Générale
+    type: bank
+    founded: 1990
+    headquarters: Bucharest, Romania
+    status: active
+    sector: banking
+    stakeholders:
+    - person: maria-rousseva
+      role: executive
+      from: 2023
+      note: CEO
+    - person: bogdan-dragoi
+      role: board
+      note: Independent Member
+    - org: blackrock
+      role: shareholder
+      share: 1.5%
+      note: 38M USD
+    - org: vanguard
+      share: 1.5%
+    - org: ebrd
+      share: 4.99
+      from: 1999
+      to: 2011
+      note: Sold stake in 2011
+    - org: societe-generale
+      share: 60.17
+      from: 1999
+      note: Majority shareholder
   breakthrough-energy:
     name: Breakthrough Energy
     type: foundation
@@ -3403,6 +3836,10 @@ organizations:
     headquarters: Essen, Germany
     status: active
     sector: chemical distribution
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   brenthurst-foundation:
     name: Brenthurst Foundation
     type: foundation
@@ -3455,6 +3892,16 @@ organizations:
       role: executive
       from: 2023
       note: CEO
+  british-american-tobacco:
+    name: British American Tobacco
+    type: company
+    headquarters: London, UK
+    sector: Tobacco
+    stakeholders:
+    - org: blackrock
+      share: 6.3%
+    - org: vanguard
+      share: 4.5%
   british-south-africa-company:
     name: British South Africa Company
     type: company
@@ -3524,6 +3971,12 @@ organizations:
     - person: nathalie-tocci
       role: member
       note: Contributor
+  brunello-cucinelli:
+    name: Brunello Cucinelli S.p.A.
+    type: company
+    founded: 1978
+    headquarters: Solomeo, Italy
+    sector: luxury fashion
   brussels-airlines:
     name: Brussels Airlines
     type: company
@@ -3580,6 +4033,17 @@ organizations:
       role: member
     - person: bob-sternfels
       role: member
+  bvb:
+    name: Bucharest Stock Exchange
+    type: company
+    founded: 1995
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - org: brd
+      role: listed
+      from: 2001
+      note: Listed company
   byd:
     name: BYD Company
     type: automaker
@@ -3642,6 +4106,16 @@ organizations:
       role: owner
       share: 100
       note: Istituto finanziario pubblico
+  caixabank:
+    name: CaixaBank
+    type: bank
+    founded: 2011
+    headquarters: Valencia, Spain
+    stakeholders:
+    - org: blackrock
+      share: 4.5
+    - org: vanguard
+      share: 2.5
   cambridge-analytica:
     name: Cambridge Analytica
     type: company
@@ -3703,6 +4177,12 @@ organizations:
     - person: marco-tronchetti-provera
       role: chairman
       note: Chairman, controlling shareholder
+  campari:
+    name: Davide Campari-Milano N.V.
+    type: company
+    founded: 1860
+    headquarters: Milan, Italy
+    sector: beverages
   canal-plus:
     name: Canal+
     type: media
@@ -3726,6 +4206,16 @@ organizations:
     stakeholders:
     - org: mediaset-mfe
       share: 100%
+  capgemini:
+    name: Capgemini SE
+    type: company
+    founded: 1967
+    headquarters: Paris, France
+    sector: IT services
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   carbyne:
     type: company
     founded: 2014
@@ -3736,6 +4226,15 @@ organizations:
       role: chairman
       from: 2015
       note: Lead investor, fondi da Epstein
+  carlsberg:
+    name: Carlsberg A/S
+    type: company
+    founded: 1847
+    headquarters: Copenhagen, Denmark
+    sector: Beverages
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
   carlyle:
     name: Carlyle Group
     type: privateequity
@@ -3870,6 +4369,16 @@ organizations:
     stakeholders:
     - org: china-media-group
       share: 100%
+  cd-projekt:
+    name: CD Projekt S.A.
+    type: company
+    headquarters: Warsaw, Poland
+    sector: Gaming
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.0%
   cdp:
     name: Cassa Depositi e Prestiti
     type: swf
@@ -3924,6 +4433,8 @@ organizations:
     status: active
     sector: telecom infrastructure
     stakeholders:
+    - org: blackrock
+      share: 5.0
     - org: edizione
       role: minority
       share: 10
@@ -4431,6 +4942,11 @@ organizations:
       role: executive
       from: 2004
       note: CEO 2021-, Chairman 2025-
+    - person: ajay-banga
+      role: executive
+      from: 1996
+      to: 2010
+      note: CEO Asia-Pacific 2008-2010
     - org: kuwait-investment-authority
       role: shareholder
       share: $3B
@@ -4569,6 +5085,10 @@ organizations:
       role: member
       from: 1972
       to: 1978
+    - person: mugur-isarescu
+      role: member
+      from: 1993
+      note: President Romanian Chapter
   cma-cgm:
     name: CMA CGM
     type: company
@@ -4744,6 +5264,15 @@ organizations:
       from: 1997
       to: 2013
       note: CEO Europe; Managing Director
+  coloplast:
+    name: Coloplast A/S
+    type: company
+    founded: 1957
+    headquarters: Humlebaek, Denmark
+    sector: Medical Devices
+    stakeholders:
+    - org: blackrock
+      share: 4.0%
   columbus-nova:
     type: privateequity
     headquarters: New York, USA
@@ -4786,6 +5315,12 @@ organizations:
     headquarters: Frankfurt, Germany
     status: active
     stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 6.34
+    - org: vanguard
+      role: shareholder
+      share: 2.0
     - org: unicredit
       role: shareholder
       share: 28
@@ -4948,6 +5483,16 @@ organizations:
     type: foundation
     headquarters: Turin, Italy
     status: active
+  compass-group:
+    name: Compass Group plc
+    type: company
+    headquarters: Chertsey, UK
+    sector: Food Services
+    stakeholders:
+    - org: blackrock
+      share: 8.4%
+    - org: vanguard
+      share: 4.4%
   concertgebouw:
     name: Het Concertgebouw
     type: company
@@ -5031,6 +5576,12 @@ organizations:
       role: founder
       from: 1949
       to: 1960
+  covestro:
+    name: Covestro AG
+    type: company
+    founded: 2015
+    headquarters: Leverkusen, Germany
+    sector: chemicals
   cp-all:
     name: CP All
     type: company
@@ -5107,6 +5658,15 @@ organizations:
       from: 2012
       to: 2016
       note: President & CEO
+  credit-agricole:
+    name: Crédit Agricole SA
+    type: bank
+    founded: 1894
+    headquarters: Montrouge, France
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   credit-suisse:
     name: Credit Suisse
     type: bank
@@ -5131,6 +5691,23 @@ organizations:
       share: 100%
       from: 2023
       note: Acquisizione emergenza marzo 2023, CHF 3 miliardi
+  crh:
+    name: CRH plc
+    type: company
+    headquarters: Dublin, Ireland
+    status: active
+    sector: building-materials
+    stakeholders:
+    - person: christina-verchere
+      role: board
+      from: 2023
+      note: Non-Executive Director
+    - org: blackrock
+      share: 5.8%
+    - org: vanguard
+      share: 6.0%
+    - org: state-street
+      share: 5.0%
   crossword-cybersecurity:
     type: company
     headquarters: London, UK
@@ -5263,6 +5840,11 @@ organizations:
       from: 1995
       to: 2005
       note: Chairman International Advisory Board
+  daimler-truck:
+    name: Daimler Truck Holding AG
+    type: automaker
+    founded: 2021
+    headquarters: Stuttgart, Germany
   dan-gertler-international:
     name: Dan Gertler International (DGI)
     type: company
@@ -5279,6 +5861,26 @@ organizations:
       role: partner
       from: 2008
       note: DRC copper/cobalt. Scandalo corruzione 2024
+  danone:
+    name: Danone SA
+    type: company
+    founded: 1919
+    headquarters: Paris, France
+    sector: food
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+  danske-bank:
+    name: Danske Bank A/S
+    type: bank
+    founded: 1871
+    headquarters: Copenhagen, Denmark
+    stakeholders:
+    - org: blackrock
+      share: 5.2%
+    - org: vanguard
+      share: 2.5%
   dassault-aviation:
     name: Dassault Aviation
     type: company
@@ -5495,8 +6097,14 @@ organizations:
       to: 2012
       note: CEO
     - org: blackrock
-      share: 6.76%
+      share: 6.76
       note: Largest disclosed shareholder (2025)
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   deutsche-boerse:
     name: Deutsche Börse AG
     type: company
@@ -5509,6 +6117,9 @@ organizations:
       from: 1993
       to: 2005
       note: Chairman Supervisory Board
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   deutsche-borse-group:
     name: Deutsche Borse Group
     type: company
@@ -5538,6 +6149,16 @@ organizations:
       role: executive
       from: 2022
       note: President
+  deutsche-post:
+    name: Deutsche Post DHL Group
+    type: company
+    founded: 1995
+    headquarters: Bonn, Germany
+    sector: logistics
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   deutsche-telekom:
     type: company
     founded: 1995
@@ -5549,6 +6170,15 @@ organizations:
       from: 2006
       to: 2013
       note: CEO
+    - org: blackrock
+      role: shareholder
+      share: 5.04
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   dexia:
     name: Dexia
     type: bank
@@ -5562,6 +6192,18 @@ organizations:
       from: 1995
       to: 2006
       note: 'Dexia BIL: SVP 1995, CEO 2001-2006'
+  dfdr:
+    name: Democratic Forum of Germans in Romania (DFDR)
+    type: government
+    founded: 1989
+    headquarters: Sibiu, Romania
+    status: active
+    stakeholders:
+    - person: klaus-iohannis
+      role: chairman
+      from: 2001
+      to: 2013
+      note: Presidente DFDR
   dfi-retail:
     name: DFI Retail Group
     type: company
@@ -5601,6 +6243,22 @@ organizations:
       role: executive
       from: 2013
       note: CEO, ha rilevato quota Beny
+  diageo:
+    name: Diageo plc
+    type: company
+    headquarters: London, UK
+    sector: Beverages
+    stakeholders:
+    - org: blackrock
+      share: 7.9%
+    - org: vanguard
+      share: 4.1%
+  diasorin:
+    name: DiaSorin S.p.A.
+    type: pharma
+    founded: 2000
+    headquarters: Saluggia, Italy
+    sector: diagnostics
   dicks-sporting-goods:
     name: Dick's Sporting Goods
     type: company
@@ -5622,6 +6280,12 @@ organizations:
     stakeholders:
     - org: axel-springer
       share: 100%
+  digi-communications:
+    name: Digi Communications N.V.
+    type: company
+    founded: 1994
+    headquarters: Bucharest, Romania
+    sector: telecom-media
   digiturk:
     name: Digiturk
     type: media
@@ -5644,6 +6308,27 @@ organizations:
       role: founder
       from: 2013
       note: President
+  dilema-veche:
+    name: Dilema Veche
+    type: media
+    founded: 1993
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - person: andrei-plesu
+      role: founder
+      from: 1993
+      note: Fondatore rivista culturale
+  dino-polska:
+    name: Dino Polska S.A.
+    type: company
+    headquarters: Krotoszyn, Poland
+    sector: Retail
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 2.0%
   disney-plus:
     name: Disney+
     type: media
@@ -5724,6 +6409,10 @@ organizations:
       role: executive
       from: 2019
       note: CEO
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.0%
     - org: governo-norvegia
       role: majority_owner
       share: 34
@@ -5759,6 +6448,13 @@ organizations:
       to: 2011
     - org: rand-corporation
       role: partner
+  dow:
+    type: company
+    headquarters: Midland, MI, USA
+    status: active
+    stakeholders:
+    - person: ajay-banga
+      role: board
   dow-jones:
     name: Dow Jones & Company
     type: media
@@ -5769,6 +6465,18 @@ organizations:
     stakeholders:
     - org: news-corp
       share: 100%
+  dsv:
+    name: DSV A/S
+    type: company
+    founded: 1976
+    headquarters: Hedehusene, Denmark
+    sector: Logistics
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
+      note: Sceso sotto 5% ottobre 2025
+    - org: vanguard
+      share: 2.0%
   ducati:
     name: Ducati
     type: company
@@ -5903,6 +6611,14 @@ organizations:
       from: 2014
       to: 2024
       note: Director General
+    - person: mugur-isarescu
+      role: board
+      from: 2007
+      note: General Council member
+    - org: bnr
+      role: member
+      from: 2007
+      note: ESCB member (EU accession)
   ecfr:
     name: European Council on Foreign Relations
     type: thinktank
@@ -5927,6 +6643,23 @@ organizations:
     - person: andreas-treichl
       role: member
       note: Council Member
+  echr:
+    name: European Court of Human Rights
+    type: agency
+    founded: 1959
+    headquarters: Strasbourg, France
+    status: active
+    stakeholders:
+    - person: renate-weber
+      role: member
+      from: 2000
+      to: 2000
+      note: Ad hoc judge
+    - person: bogdan-aurescu
+      role: member
+      from: 2003
+      to: 2004
+      note: Agent for Romania
   economist:
     name: The Economist
     type: media
@@ -6031,6 +6764,16 @@ organizations:
       role: executive
       from: 2015
       note: President Exec Committee 2015; President Board 2019; CEO 2023
+  edp:
+    name: EDP
+    type: company
+    headquarters: Lisbon, Portugal
+    sector: Energy
+    stakeholders:
+    - org: blackrock
+      share: 6.1%
+    - org: vanguard
+      share: 3.0%
   eec:
     name: Eastern Economic Corridor Office
     type: agency
@@ -6113,6 +6856,19 @@ organizations:
     stakeholders:
     - person: pierre-werner
       role: member
+  electrica:
+    name: Electrica S.A.
+    type: company
+    founded: 1998
+    headquarters: Bucharest, Romania
+    sector: energy
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 1.5%
+      note: 9.4M USD
+    - org: vanguard
+      share: 1.5%
   electrolux:
     name: Electrolux
     type: company
@@ -6139,6 +6895,21 @@ organizations:
     - org: lilly-endowment
       role: stake
       share: 0.107
+  elia-group:
+    name: Elia Group SA/NV
+    type: company
+    founded: 2001
+    headquarters: Brussels, Belgium
+    stakeholders:
+    - org: blackrock
+      share: 2.5%
+      note: PIPE investment March 2025
+  elisa:
+    name: Elisa
+    type: company
+    founded: 1882
+    headquarters: Helsinki, Finland
+    sector: Telecommunications
   elliott-management:
     name: Elliott Investment Management
     type: privateequity
@@ -6249,6 +7020,28 @@ organizations:
       from: 1991
       to: 1996
       note: Divisione Teleinformatica, poi Wind
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
+  engie:
+    name: Engie SA
+    type: company
+    founded: 2008
+    headquarters: La Défense, France
+    sector: utilities
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   eni:
     name: ENI
     type: company
@@ -6291,6 +7084,15 @@ organizations:
       from: 2005
       to: 2015
       note: Gas division senior roles
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
     - org: cdp
       share: 28.5
       note: Azionista di riferimento
@@ -6329,6 +7131,15 @@ organizations:
       role: board
       from: 2000
       note: Supervisory Board
+    - org: blackrock
+      role: shareholder
+      share: 6.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   epf-malaysia:
     name: Employees Provident Fund (KWSP)
     type: swf
@@ -6383,6 +7194,10 @@ organizations:
       role: chairman
       from: 2022
       note: Chair EQT Asia, Chairman dal 2026 (founder Baring PE Asia)
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 2.5%
     - org: investor-ab
       role: shareholder
       share: 0.144
@@ -6423,6 +7238,10 @@ organizations:
       role: chairman
       from: 2017
       note: Chairman of the Board
+    - org: blackrock
+      share: 1.2%
+    - org: vanguard
+      share: 2.0%
     - org: governo-norvegia
       share: 67
       from: 1972
@@ -6447,6 +7266,10 @@ organizations:
       role: board
       from: 2013
       to: 2018
+    - org: blackrock
+      share: 4.3%
+    - org: vanguard
+      share: 3.7%
     - org: investor-ab
       role: major-shareholder
   erste-foundation:
@@ -6472,6 +7295,10 @@ organizations:
       from: 1997
       to: 2019
       note: CEO
+    - org: blackrock
+      share: 4.6%
+    - org: vanguard
+      share: 2.5%
   ert:
     name: European Round Table for Industry
     type: forum
@@ -6568,6 +7395,19 @@ organizations:
       from: 2018
       to: 2022
       note: Chairman, largest shareholder via Delfin
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+  essity:
+    name: Essity AB
+    type: company
+    founded: 2017
+    headquarters: Stockholm, Sweden
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 3.0%
   estee-lauder:
     name: Estee Lauder
     type: company
@@ -6601,6 +7441,16 @@ organizations:
       role: founder
       from: 1998
       note: Founder & President
+  eurobank:
+    name: Eurobank Ergasias
+    type: bank
+    founded: 1990
+    headquarters: Athens, Greece
+    stakeholders:
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 1.5%
   euroclear:
     name: Euroclear Group
     type: company
@@ -6615,6 +7465,17 @@ organizations:
       from: 1968
       to: 1972
       note: Fondatore via Morgan Guaranty Trust, venduto 1972
+  eurofins:
+    name: Eurofins Scientific
+    type: company
+    founded: 1987
+    headquarters: Luxembourg
+    sector: Life Sciences
+    stakeholders:
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 2.5%
   eurogroup:
     name: Eurogroup
     type: agency
@@ -6687,6 +7548,11 @@ organizations:
       from: 2020
       to: 2024
       note: President
+  european-investment-bank:
+    name: European Investment Bank
+    type: bank
+    headquarters: Luxembourg
+    status: active
   european-movement:
     name: European Movement
     type: forum
@@ -6807,6 +7673,9 @@ organizations:
     - person: john-elkann
       role: ceo
       from: 2010
+    - org: vanguard
+      role: shareholder
+      share: 3.05
   exxon-mobil:
     name: ExxonMobil
     type: company
@@ -7028,6 +7897,29 @@ organizations:
       share: 11%
       from: 2021
       note: $750M deal
+  ferrari:
+    name: Ferrari N.V.
+    type: automaker
+    founded: 1947
+    headquarters: Maranello, Italy
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
+  ferrovial:
+    name: Ferrovial
+    type: company
+    headquarters: Madrid, Spain
+    sector: infrastructure
+    stakeholders:
+    - org: blackrock
+      share: 5.0
   ferrovie-stato:
     name: Ferrovie dello Stato Italiane
     type: company
@@ -7190,6 +8082,15 @@ organizations:
       share: 70.96
       from: 2014
       note: via CDP Equity SpA
+  finecobank:
+    name: FinecoBank S.p.A.
+    type: bank
+    founded: 1999
+    headquarters: Milan, Italy
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 9.2
   fininvest:
     name: Fininvest
     type: company
@@ -7300,6 +8201,16 @@ organizations:
       role: founder
       from: 2000
       note: Founder and CEO
+  flutter-entertainment:
+    name: Flutter Entertainment
+    type: company
+    headquarters: Dublin, Ireland
+    sector: Gaming/Betting
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 10.04%
   fmi:
     name: Fondo Monetario Internazionale
     type: agency
@@ -7420,6 +8331,16 @@ organizations:
     headquarters: Atlanta, Georgia, USA
     status: active
     sector: private equity
+  fortum:
+    name: Fortum
+    type: company
+    founded: 1998
+    headquarters: Espoo, Finland
+    sector: Energy
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+      note: Stato finlandese 51.2%
   founders-fund:
     name: Founders Fund
     type: privateequity
@@ -7625,6 +8546,9 @@ organizations:
       from: 2003
       to: 2016
       note: CEO, CFO Fresenius Medical Care 2001-2003
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   frontline:
     name: Frontline Ltd
     type: company
@@ -7767,6 +8691,16 @@ organizations:
       role: investor
       from: 2021
       note: $800M equity investment
+  galp-energia:
+    name: Galp Energia
+    type: company
+    headquarters: Lisbon, Portugal
+    sector: Oil & Gas
+    stakeholders:
+    - org: blackrock
+      share: 4.5%
+    - org: vanguard
+      share: 2.5%
   gaslog:
     name: GasLog Ltd
     type: company
@@ -7846,6 +8780,11 @@ organizations:
     stakeholders:
     - org: rcs-mediagroup
       share: 100%
+  gbl:
+    name: Groupe Bruxelles Lambert SA
+    type: company
+    founded: 1956
+    headquarters: Brussels, Belgium
   gchq:
     name: Government Communications Headquarters
     type: agency
@@ -7887,6 +8826,21 @@ organizations:
       role: board
       from: 2016
       note: Board member; GE poi GE Aerospace (2024)
+  geberit:
+    name: Geberit AG
+    type: company
+    headquarters: Rapperswil-Jona, Switzerland
+    sector: sanitary-products
+  gedeon-richter:
+    name: Gedeon Richter
+    type: pharma
+    founded: 1901
+    headquarters: Budapest, Ungheria
+    stakeholders:
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 2.5%
   gedi:
     name: GEDI Gruppo Editoriale
     type: media
@@ -7987,6 +8941,11 @@ organizations:
       role: executive
       from: 2019
       note: Senior Advisor 2019-2021, Vice Chairman EMEA dal 2023
+    - person: ajay-banga
+      role: executive
+      from: 2022
+      to: 2023
+      note: Vice Chairman
   generali:
     name: Assicurazioni Generali
     type: company
@@ -8019,6 +8978,15 @@ organizations:
       role: board
       from: 2025
       note: Consigliere, Chairman Related-Party Transactions Committee
+    - org: blackrock
+      role: shareholder
+      share: 3.0
+    - org: vanguard
+      role: shareholder
+      share: 2.5
+    - org: state-street
+      role: shareholder
+      share: 1.2
     - org: mediobanca
       share: 13.0
       note: Partecipazione storica, nucleo stabile
@@ -8045,6 +9013,16 @@ organizations:
       from: 2007
       to: 2015
       note: LBO $1.7B (con JER Partners)
+  genmab:
+    name: Genmab A/S
+    type: pharma
+    founded: 1999
+    headquarters: Copenhagen, Denmark
+    stakeholders:
+    - org: blackrock
+      share: 6.5%
+    - org: vanguard
+      share: 2.0%
   geodis:
     name: Geodis SA
     type: company
@@ -8117,6 +9095,11 @@ organizations:
       share: 47
       from: 2017
       note: Initial 44.3%, now 47%. Blind trust 2024-25 for UEFA compliance
+  givaudan:
+    name: Givaudan SA
+    type: company
+    headquarters: Vernier, Switzerland
+    sector: fragrance-flavors
   giving-pledge:
     name: Giving Pledge
     type: foundation
@@ -8127,6 +9110,16 @@ organizations:
     - person: warren-buffett
       role: founder
       from: 2010
+  gjensidige:
+    name: Gjensidige Forsikring ASA
+    type: company
+    headquarters: Oslo, Norway
+    sector: Insurance
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.0%
   glencore:
     name: Glencore plc
     type: company
@@ -8167,6 +9160,8 @@ organizations:
       from: 1974
       to: 1994
       note: Co-fondatore come Marc Rich + Co AG
+    - org: blackrock
+      share: 7.3%
     - org: qia
       role: shareholder
       from: 2012
@@ -9891,6 +10886,155 @@ organizations:
     name: Governo del Qatar
     type: government
     headquarters: Doha
+  governo-romania:
+    name: Governo della Romania
+    type: government
+    founded: 1989
+    headquarters: Bucarest, Romania
+    status: active
+    stakeholders:
+    - person: mircea-geoana
+      role: ambassador
+      from: 1996
+      to: 2000
+      note: Ambasciatore negli USA
+    - person: mircea-geoana
+      role: minister
+      from: 2000
+      to: 2004
+      note: Ministro degli Esteri
+    - person: mircea-geoana
+      role: legislator
+      from: 2008
+      to: 2011
+      note: Presidente del Senato
+    - person: renate-weber
+      role: executive
+      from: 2019
+      note: Ombudsman (Avocatul Poporului)
+    - person: renate-weber
+      role: advisor
+      from: 2004
+      to: 2005
+      note: Advisor costituzionale Presidente Basescu
+    - person: andrei-plesu
+      role: minister
+      from: 1989
+      to: 1991
+      note: Ministro della Cultura
+    - person: andrei-plesu
+      role: minister
+      from: 1997
+      to: 1999
+      note: Ministro degli Esteri
+    - person: andrei-plesu
+      role: advisor
+      from: 2004
+      to: 2005
+      note: Consigliere Affari Esteri Presidente Basescu
+    - person: klaus-iohannis
+      role: leader
+      from: 2014
+      to: 2025
+      note: Presidente della Romania
+    - person: klaus-iohannis
+      role: executive
+      from: 2000
+      to: 2014
+      note: Sindaco di Sibiu
+    - person: nicusor-dan
+      role: leader
+      from: 2025
+      note: Presidente della Romania
+    - person: nicusor-dan
+      role: executive
+      from: 2020
+      to: 2025
+      note: Sindaco di Bucarest
+    - person: nicusor-dan
+      role: legislator
+      from: 2016
+      to: 2020
+      note: Deputato
+    - person: mugur-isarescu
+      role: leader
+      from: 1999
+      to: 2000
+      note: Primo Ministro
+    - person: bogdan-aurescu
+      role: minister
+      from: 2014
+      to: 2023
+      note: Min. Esteri (2014-15, 2019-23)
+    - person: florin-georgescu
+      role: minister
+      from: 1992
+      to: 1996
+      note: Min. Finanze (gov Vacaroiu)
+    - person: cosmin-marinescu
+      role: advisor
+      from: 2014
+      to: 2024
+      note: Consigliere economico Pres. Iohannis
+    - person: bogdan-dragoi
+      role: minister
+      from: 2012
+      to: 2012
+      note: Min. Finanze (gov Ungureanu)
+    - person: ilie-bolojan
+      role: leader
+      from: 2025
+      note: Primo Ministro
+    - person: ion-iliescu
+      role: leader
+      from: 1990
+      to: 1996
+      note: Presidente della Romania
+    - person: ion-iliescu
+      role: leader
+      from: 2000
+      to: 2004
+      note: Presidente della Romania (2° mandato)
+    - person: traian-basescu
+      role: leader
+      from: 2004
+      to: 2014
+      note: Presidente della Romania
+    - person: emil-constantinescu
+      role: leader
+      from: 1996
+      to: 2000
+      note: Presidente della Romania
+    - person: marcel-ciolacu
+      role: leader
+      from: 2023
+      to: 2025
+      note: Primo Ministro
+    - person: victor-ponta
+      role: leader
+      from: 2012
+      to: 2015
+      note: Primo Ministro
+    - person: emil-boc
+      role: leader
+      from: 2008
+      to: 2012
+      note: Primo Ministro
+    - person: adrian-nastase
+      role: leader
+      from: 2000
+      to: 2004
+      note: Primo Ministro
+    - person: calin-popescu-tariceanu
+      role: leader
+      from: 2004
+      to: 2008
+      note: Primo Ministro
+    - person: dacian-ciolos
+      role: leader
+      from: 2015
+      to: 2017
+      note: Primo Ministro (tecnico)
   governo-russia:
     name: Governo della Russia
     type: government
@@ -10042,6 +11186,16 @@ organizations:
       from: 1944
       to: 1945
       note: Legazione Svezia Budapest
+    - person: magdalena-andersson
+      role: leader
+      from: 2021
+      to: 2022
+      note: Prime Minister
+    - person: magdalena-andersson
+      role: minister
+      from: 2014
+      to: 2021
+      note: Minister of Finance
   governo-thailandia:
     name: Regno di Thailandia
     type: government
@@ -10502,6 +11656,17 @@ organizations:
       role: partner
       from: 2009
       note: General Partner
+  group-for-social-dialogue:
+    name: Group for Social Dialogue (GDS)
+    type: foundation
+    founded: 1990
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - person: andrei-plesu
+      role: founder
+      from: 1990
+      note: Co-fondatore
   group-of-thirty:
     name: Group of Thirty (G30)
     type: forum
@@ -10642,6 +11807,10 @@ organizations:
       role: executive
       from: 2017
       note: CCO, CEO from Jan 2026
+    - org: blackrock
+      share: 8.1%
+    - org: vanguard
+      share: 4.5%
   guardicore:
     type: company
     headquarters: Israel
@@ -10693,6 +11862,16 @@ organizations:
     - org: kissinger-associates
       role: strategic partner
       from: 2000
+  hannover-re:
+    name: Hannover Rück SE
+    type: company
+    founded: 1966
+    headquarters: Hannover, Germany
+    sector: reinsurance
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   hapag-lloyd:
     name: Hapag-Lloyd AG
     type: company
@@ -10817,6 +11996,12 @@ organizations:
       role: chairman
       from: 2022
       note: Chairman Board
+  heidelberg-materials:
+    name: Heidelberg Materials AG
+    type: company
+    founded: 1873
+    headquarters: Heidelberg, Germany
+    sector: construction materials
   heineken:
     name: Heineken N.V.
     type: company
@@ -10833,6 +12018,10 @@ organizations:
       role: board
       from: 2012
       to: 2019
+    - org: blackrock
+      share: 2.3
+    - org: vanguard
+      share: 1.9
   hellenic-olympic-committee:
     name: Hellenic Olympic Committee
     type: agency
@@ -10849,6 +12038,26 @@ organizations:
       role: chairman
       from: 2009
       note: President
+  helleniq-energy:
+    name: HELLENiQ Energy
+    type: company
+    headquarters: Athens, Greece
+    sector: Oil & Gas
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 1.5%
+  henkel:
+    name: Henkel AG & Co. KGaA
+    type: company
+    founded: 1876
+    headquarters: Düsseldorf, Germany
+    sector: consumer goods
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   henry-jackson-society:
     type: thinktank
     founded: 2005
@@ -10870,6 +12079,26 @@ organizations:
       from: 2014
       to: 2022
       note: CEO
+  hermes:
+    name: Hermès International SCA
+    type: company
+    founded: 1837
+    headquarters: Paris, France
+    sector: luxury goods
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 2.0
+  hexagon:
+    name: Hexagon AB
+    type: company
+    founded: 1975
+    headquarters: Stockholm, Sweden
+    stakeholders:
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 3.5%
   hgv-hamburg:
     name: HGV Hamburger Gesellschaft für Vermögens- und Beteiligungsmanagement mbH
     type: company
@@ -10878,6 +12107,12 @@ organizations:
     status: active
     sector: investment
     note: City of Hamburg investment arm.
+  hidroelectrica:
+    name: Hidroelectrica S.A.
+    type: company
+    founded: 2000
+    headquarters: Bucharest, Romania
+    sector: energy
   histadrut:
     type: agency
     founded: 1920
@@ -10889,6 +12124,24 @@ organizations:
       from: 1921
       to: 1935
       note: Secretary-General
+  hm:
+    name: H&M (Hennes & Mauritz)
+    type: company
+    founded: 1947
+    headquarters: Stockholm, Sweden
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 2.0%
+  holcim:
+    name: Holcim Ltd
+    type: company
+    headquarters: Zug, Switzerland
+    sector: construction
+    stakeholders:
+    - org: blackrock
+      share: 5.2%
   hongkong-land:
     name: Hongkong Land Holdings Limited
     type: company
@@ -10919,6 +12172,11 @@ organizations:
     headquarters: London, UK
     status: active
     sector: banking
+    stakeholders:
+    - org: blackrock
+      share: 7.0%
+    - org: vanguard
+      share: 5.0%
   hsbc-private-bank:
     name: HSBC Private Bank (Suisse) SA
     type: bank
@@ -11071,6 +12329,8 @@ organizations:
       note: Executive Chairman (CEO dal 2001)
     - org: blackrock
       share: 5.4
+    - org: vanguard
+      share: 3.0
     - org: qia
       share: 9
       from: 2011
@@ -11117,6 +12377,21 @@ organizations:
       role: chairman
       from: 2016
       to: 2018
+    - person: ajay-banga
+      role: chairman
+      from: 2020
+      to: 2022
+  icj:
+    name: International Court of Justice (ICJ)
+    type: agency
+    founded: 1945
+    headquarters: The Hague, Netherlands
+    status: active
+    stakeholders:
+    - person: bogdan-aurescu
+      role: board
+      from: 2024
+      note: Giudice (primo romeno, eletto 2023)
   idf:
     name: Israel Defense Forces
     type: agency
@@ -11165,6 +12440,11 @@ organizations:
       from: 2007
       to: 2013
       note: Secretary of the Fund
+  ifc:
+    name: International Finance Corporation
+    type: bank
+    headquarters: Washington, D.C., USA
+    status: active
   ifpma:
     name: International Federation of Pharmaceutical Manufacturers & Associations
     type: agency
@@ -11351,6 +12631,14 @@ organizations:
       role: board
       from: 2011
       note: Governor for Netherlands
+    - person: magdalena-andersson
+      role: chairman
+      from: 2020
+      note: Chair IMFC (first woman)
+    - person: mugur-isarescu
+      role: board
+      from: 1990
+      note: Governor for Romania
   ina:
     name: INA (Istituto Nazionale Assicurazioni)
     type: company
@@ -11405,6 +12693,8 @@ organizations:
       from: 2005
       to: 2022
       note: CEO 2005-2011, Chairman & CEO 2011-2022
+    - org: blackrock
+      share: 3.0
   indofood:
     name: Indofood Sukses Makmur
     type: company
@@ -11458,6 +12748,16 @@ organizations:
     headquarters: Munich, Germany
     status: active
     sector: semiconductors
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 6.83
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   infineon-tech:
     name: Infineon Technologies
     type: company
@@ -11470,6 +12770,12 @@ organizations:
       from: 2015
       to: 2017
       note: GM Industrial Microcontroller Division
+  infortar:
+    name: Infortar
+    type: company
+    founded: 1992
+    headquarters: Tallinn, Estonia
+    sector: Diversified Holding
   ing:
     name: ING Group N.V.
     type: bank
@@ -11507,6 +12813,12 @@ organizations:
       from: 2004
       to: 2009
       note: CEO
+    - org: blackrock
+      share: 6.3
+  ing-bank-slaski:
+    name: ING Bank Śląski S.A.
+    type: bank
+    headquarters: Katowice, Poland
   institut-montaigne:
     name: Institut Montaigne
     type: thinktank
@@ -11590,6 +12902,18 @@ organizations:
       from: 1974
       to: 1977
       note: Primo Presidente
+  international-helsinki-federation:
+    name: International Helsinki Federation for Human Rights
+    type: foundation
+    founded: 1982
+    headquarters: Vienna, Austria
+    status: dissolved
+    stakeholders:
+    - person: renate-weber
+      role: board
+      from: 1992
+      to: 1996
+      note: Vice-chair
   international-olympic-academy:
     name: International Olympic Academy
     type: agency
@@ -11646,6 +12970,12 @@ organizations:
       role: shareholder
       share: 5.0
       note: Terzo azionista
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
     - org: banco-ambrosiano-veneto
       role: predecessor
       from: 1998
@@ -11701,6 +13031,16 @@ organizations:
       from: 1987
       to: 1994
       note: Executive Vice President, Wallenberg family holding
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 2.5%
+  inwit:
+    name: INWIT S.p.A.
+    type: company
+    founded: 2015
+    headquarters: Milan, Italy
+    sector: telecommunications infrastructure
   ioc:
     name: International Olympic Committee
     type: agency
@@ -11841,6 +13181,9 @@ organizations:
       role: chairman
       from: 2025
       note: Chairman Board of Directors
+    - org: blackrock
+      role: shareholder
+      share: 4.73
     - org: cdp
       share: 25.98
       note: Tramite CDP RETI
@@ -11965,6 +13308,16 @@ organizations:
     - org: jardine-matheson
       role: parent
       share: 1.0
+  jeronimo-martins:
+    name: Jerónimo Martins
+    type: company
+    headquarters: Lisbon, Portugal
+    sector: Retail
+    stakeholders:
+    - org: blackrock
+      share: 4.0%
+    - org: vanguard
+      share: 2.0%
   jewish-agency:
     name: Jewish Agency for Israel
     type: agency
@@ -12175,6 +13528,11 @@ organizations:
     stakeholders:
     - org: joongang-group
       share: 100%
+  jumbo-greece:
+    name: Jumbo S.A.
+    type: company
+    headquarters: Athens, Greece
+    sector: Retail
   kadewe:
     name: KaDeWe Group
     type: company
@@ -12222,6 +13580,10 @@ organizations:
       role: chairman
       from: 2011
       to: 2020
+    - org: blackrock
+      share: 4.0%
+    - org: vanguard
+      share: 2.0%
   keppel:
     name: Keppel Ltd
     type: company
@@ -12256,6 +13618,25 @@ organizations:
       role: founder
       from: 1963
       note: Fondatore Pinault Group, poi PPR, ora Kering
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+  kerry-group:
+    name: Kerry Group
+    type: company
+    headquarters: Tralee, Ireland
+    sector: Food/Ingredients
+    stakeholders:
+    - org: blackrock
+      share: 5.9%
+    - org: vanguard
+      share: 4.4%
+  kesko:
+    name: Kesko
+    type: company
+    founded: 1940
+    headquarters: Helsinki, Finland
+    sector: Retail
   kgb:
     name: Komitet Gosudarstvennoy Bezopasnosti
     type: agency
@@ -12269,12 +13650,32 @@ organizations:
       from: 1934
       to: 1988
       note: Double agent, defected 1963
+  kghm:
+    name: KGHM Polska Miedź S.A.
+    type: company
+    headquarters: Lubin, Poland
+    sector: Mining
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.0%
   kingdom-holding:
     name: Kingdom Holding Company
     type: company
     headquarters: Riyadh, Saudi Arabia
     status: active
     sector: investment
+  kingspan:
+    name: Kingspan Group
+    type: company
+    headquarters: Kingscourt, Ireland
+    sector: Building Materials
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 4.5%
   kissinger-associates:
     name: Kissinger Associates
     type: company
@@ -12377,6 +13778,32 @@ organizations:
       role: parent
       from: 2004
       note: Subsidiary
+  kone:
+    name: KONE
+    type: company
+    founded: 1910
+    headquarters: Espoo, Finland
+    sector: Elevators/Escalators
+    stakeholders:
+    - org: blackrock
+      share: 5.6%
+      note: Famiglia Herlin controlla 62.7% voti
+  konecranes:
+    name: Konecranes
+    type: company
+    founded: 1910
+    headquarters: Hyvinkää, Finland
+    sector: Cranes/Lifting
+  kongsberg-gruppen:
+    name: Kongsberg Gruppen ASA
+    type: company
+    headquarters: Kongsberg, Norway
+    sector: Defense
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 2.0%
   kosmos-energy:
     type: company
     headquarters: Dallas, USA
@@ -12408,6 +13835,9 @@ organizations:
       from: 2001
       to: 2011
       note: CEO - salvo KPN dal collasso, riorganizzazione massiva
+  kraft-foods:
+    type: company
+    status: active
   krung-thai-bank:
     name: Krungthai Bank
     type: bank
@@ -12459,6 +13889,10 @@ organizations:
       role: chairman
       from: 1966
       note: Honorary chairman, 53.3% owner
+    - org: blackrock
+      share: 2.4%
+    - org: vanguard
+      share: 1.7%
   kuka:
     name: KUKA AG
     type: company
@@ -12674,6 +14108,16 @@ organizations:
     founded: 1984
     headquarters: Beijing, China
     status: active
+  legrand:
+    name: Legrand SA
+    type: company
+    founded: 1865
+    headquarters: Limoges, France
+    sector: electrical equipment
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   lehman-brothers:
     name: Lehman Brothers
     type: bank
@@ -12767,6 +14211,13 @@ organizations:
       from: 2011
       to: 2013
       note: CEO Finmeccanica 2011-2013. Arrestato corruzione India, poi assolto
+    - org: blackrock
+      role: shareholder
+      share: 3.0
+      note: autorizzato dal governo
+    - org: state-street
+      role: shareholder
+      share: 1.0
   les-echos:
     name: Les Echos
     type: media
@@ -12778,6 +14229,12 @@ organizations:
     stakeholders:
     - org: lvmh
       share: 100%
+  lhv-group:
+    name: LHV Group
+    type: company
+    founded: 1999
+    headquarters: Tallinn, Estonia
+    sector: Financial Services
   libero-quotidiano:
     name: Libero Quotidiano
     type: media
@@ -12859,6 +14316,16 @@ organizations:
       from: 2005
       to: 2024
       note: Board of Trustees
+  lloyds:
+    name: Lloyds Banking Group
+    type: bank
+    founded: 1765
+    headquarters: London, UK
+    stakeholders:
+    - org: blackrock
+      share: 9.3%
+    - org: vanguard
+      share: 4.7%
   lockheed:
     name: Lockheed
     type: company
@@ -12871,6 +14338,16 @@ organizations:
       from: 1970
       to: 1976
       note: Scandalo tangenti $1M+
+  lonza:
+    name: Lonza Group AG
+    type: company
+    headquarters: Basel, Switzerland
+    sector: life-sciences
+    stakeholders:
+    - org: blackrock
+      share: 9.85%
+    - org: vanguard
+      share: 3.6%
   loreal:
     name: L'Oréal SA
     type: company
@@ -12906,6 +14383,12 @@ organizations:
       role: executive
       from: 2021
       note: CEO
+    - org: blackrock
+      role: shareholder
+      share: 3.0
+    - org: vanguard
+      role: shareholder
+      share: 2.0
     - org: nestle
       share: 20.1%
       from: 1974
@@ -12937,6 +14420,21 @@ organizations:
     type: government
     headquarters: Hanover, Germany
     note: German federal state. Owns VW via Volkswagen Law.
+  lpp:
+    name: LPP S.A.
+    type: company
+    headquarters: Gdańsk, Poland
+    sector: Fashion
+  lseg:
+    name: London Stock Exchange Group
+    type: company
+    headquarters: London, UK
+    sector: Financial Services
+    stakeholders:
+    - org: blackrock
+      share: 8.4%
+    - org: vanguard
+      share: 5.1%
   lucid-motors:
     name: Lucid Motors
     type: automaker
@@ -13084,6 +14582,15 @@ organizations:
       role: executive
       from: 2021
       note: Director Louis Vuitton Watches
+    - org: blackrock
+      role: shareholder
+      share: 3.0
+    - org: vanguard
+      role: shareholder
+      share: 2.0
+    - org: state-street
+      role: shareholder
+      share: 1.0
     - org: groupe-arnault
       share: 48
       from: 1989
@@ -13123,6 +14630,14 @@ organizations:
       from: 2017
       to: 2022
       note: Chairman of the Board
+    - org: blackrock
+      share: 2.5%
+  magyar-telekom:
+    name: Magyar Telekom
+    type: company
+    founded: 1991
+    headquarters: Budapest, Ungheria
+    sector: telecom
   maire-tecnimont:
     name: Maire Tecnimont SpA
     type: company
@@ -13183,6 +14698,16 @@ organizations:
     stakeholders:
     - org: walt-disney
       share: 100%
+  mastercard:
+    type: company
+    headquarters: Purchase, NY, USA
+    status: active
+    stakeholders:
+    - person: ajay-banga
+      role: executive
+      from: 2010
+      to: 2021
+      note: CEO 2010-2020, Executive Chairman 2021
   mava-foundation:
     name: MAVA Foundation
     type: foundation
@@ -13219,6 +14744,10 @@ organizations:
       from: 1996
       to: 2004
       note: CEO (1998-2004)
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 2.0%
   mbc-group:
     name: MBC Group
     type: media
@@ -13405,6 +14934,9 @@ organizations:
       from: 1996
       to: 2017
       note: Director 1996-2002, Deputy Chairman 2007-2017
+    - org: blackrock
+      role: shareholder
+      share: 4.23
     - org: monte-paschi
       share: 86.3
       from: 2025
@@ -13416,6 +14948,19 @@ organizations:
     - org: edizione
       role: minority
       note: Shareholder
+  medlife:
+    name: MedLife S.A.
+    type: company
+    founded: 1996
+    headquarters: Bucharest, Romania
+    sector: healthcare
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 1.0%
+      note: 10.8M USD
+    - org: vanguard
+      share: 1.0%
   melbourne-city:
     name: Melbourne City FC
     type: sportsclub
@@ -13428,6 +14973,11 @@ organizations:
       share: 100
       from: 2014
       note: Acquired for $12M in 2014, 100% from 2015
+  melexis:
+    name: Melexis NV
+    type: company
+    founded: 1988
+    headquarters: Ieper, Belgium
   mellon-bank:
     name: Mellon National Bank
     type: bank
@@ -13448,6 +14998,15 @@ organizations:
       role: executive
       from: 2019
       note: Chairman of the Board of Management (CEO)
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
     - org: geely
       role: largest-individual
       share: ~10%
@@ -13480,6 +15039,15 @@ organizations:
     - person: kathy-warden
       role: board
       from: 2020
+  merck-kgaa:
+    name: Merck KGaA
+    type: pharma
+    founded: 1668
+    headquarters: Darmstadt, Germany
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   mercy-malaysia:
     name: MERCY Malaysia
     type: foundation
@@ -13493,6 +15061,12 @@ organizations:
       from: 1999
       to: 2009
       note: Founder and President
+  merko-ehitus:
+    name: Merko Ehitus
+    type: company
+    founded: 1990
+    headquarters: Tallinn, Estonia
+    sector: Construction
   merrill-lynch:
     name: Merrill Lynch
     type: bank
@@ -13540,6 +15114,16 @@ organizations:
     - org: state-street
       role: stake
       share: 0.035
+  metlen:
+    name: Metlen Energy & Metals
+    type: company
+    headquarters: Athens, Greece
+    sector: Energy/Metals
+    stakeholders:
+    - org: blackrock
+      share: 0.54%
+    - org: vanguard
+      share: 1.84%
   metro-pacific:
     name: Metro Pacific Investments Corporation
     type: company
@@ -13551,6 +15135,12 @@ organizations:
     - org: first-pacific
       role: parent
       note: Taken private 2023
+  metso:
+    name: Metso
+    type: company
+    founded: 1999
+    headquarters: Helsinki, Finland
+    sector: Mining Equipment
   mgx:
     name: MGX Fund Management
     type: swf
@@ -13694,6 +15284,9 @@ organizations:
       from: 1978
       to: 1996
       note: Started 1978. CEO Michelin North America 1989-1996. Led Uniroyal Goodrich acquisition 1990.
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   microsoft:
     name: Microsoft
     type: company
@@ -13755,6 +15348,16 @@ organizations:
     headquarters: Foshan, China
     status: active
     sector: appliances
+  millennium-bcp:
+    name: Millennium BCP
+    type: bank
+    founded: 1985
+    headquarters: Porto, Portugal
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.0%
   miramax:
     name: Miramax
     type: media
@@ -13832,6 +15435,17 @@ organizations:
       role: incubator
       from: 2010
       note: Incubated Moderna, 20M shares ($4B+ value)
+  mol-group:
+    name: MOL Group
+    type: company
+    founded: 1991
+    headquarters: Budapest, Ungheria
+    sector: oil-gas
+    stakeholders:
+    - org: blackrock
+      share: 1.5%
+    - org: vanguard
+      share: 1.5%
   moma:
     name: Museum of Modern Art (MoMA)
     type: foundation
@@ -13843,6 +15457,16 @@ organizations:
       role: member
       from: 1997
       note: International Council
+  moncler:
+    name: Moncler S.p.A.
+    type: company
+    founded: 1952
+    headquarters: Milan, Italy
+    sector: luxury fashion
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   monte-paschi:
     name: Banca Monte dei Paschi di Siena
     type: bank
@@ -13923,6 +15547,16 @@ organizations:
       role: partner
       from: 1951
       note: Intelligence sharing, Angleton liaison
+  motor-oil-hellas:
+    name: Motor Oil Hellas
+    type: company
+    headquarters: Athens, Greece
+    sector: Oil & Gas
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 1.5%
   mowi:
     name: Mowi ASA
     type: company
@@ -13940,6 +15574,20 @@ organizations:
     - person: cecilie-fredriksen
       role: board
       from: 2008
+    - org: blackrock
+      share: 5.14%
+    - org: vanguard
+      share: 3.0%
+  mtu-aero:
+    name: MTU Aero Engines AG
+    type: company
+    founded: 1934
+    headquarters: Munich, Germany
+    sector: aerospace
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   mtv:
     name: MTV
     type: media
@@ -13996,6 +15644,12 @@ organizations:
       role: board
       from: 2000
       note: Supervisory Board
+    - org: blackrock
+      role: shareholder
+      share: 6.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
   munich-security-conference:
     name: Munich Security Conference
     type: forum
@@ -14027,6 +15681,26 @@ organizations:
     headquarters: Bangkok, Thailand
     status: active
     sector: media
+  national-bank-greece:
+    name: National Bank of Greece
+    type: bank
+    founded: 1841
+    headquarters: Athens, Greece
+    stakeholders:
+    - org: blackrock
+      share: 3.91%
+    - org: vanguard
+      share: 1.5%
+  national-grid:
+    name: National Grid plc
+    type: company
+    headquarters: London, UK
+    sector: Utilities
+    stakeholders:
+    - org: blackrock
+      share: 8.2%
+    - org: vanguard
+      share: 4.8%
   natixis:
     name: Natixis
     type: bank
@@ -14108,9 +15782,42 @@ organizations:
       from: 2014
       to: 2016
       note: Permanent Representative Italy to NATO (first woman)
+    - person: mircea-geoana
+      role: executive
+      from: 2019
+      to: 2024
+      note: Deputy Secretary General
     - org: atlantic-council
       role: advocacy
       note: Think tank pro-NATO, fondato per supporto Alleanza Atlantica
+  naturgy:
+    name: Naturgy Energy Group
+    type: company
+    headquarters: Madrid, Spain
+    sector: utilities
+    stakeholders:
+    - org: blackrock
+      share: 12.6
+  natwest:
+    name: NatWest Group
+    type: bank
+    founded: 1727
+    headquarters: Edinburgh, UK
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 3.0%
+  navigator-company:
+    name: The Navigator Company
+    type: company
+    headquarters: Lisbon, Portugal
+    sector: Paper/Pulp
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.0%
   nbc:
     name: NBC
     type: media
@@ -14184,6 +15891,18 @@ organizations:
       role: founder
       from: 2012
       note: Major donor
+  neste:
+    name: Neste
+    type: company
+    founded: 1948
+    headquarters: Espoo, Finland
+    sector: Oil/Renewables
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
+      note: Stato finlandese 44%
+    - org: vanguard
+      share: 2.3%
   nestle:
     name: Nestlé S.A.
     type: company
@@ -14209,6 +15928,14 @@ organizations:
       from: 2008
       to: 2025
       note: CEO 2008-2017, Chairman 2017-2025, 50 anni in Nestlé
+    - person: ajay-banga
+      role: executive
+      from: 1981
+      to: 1994
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 5.4%
   netflix:
     name: Netflix
     type: media
@@ -14243,6 +15970,17 @@ organizations:
       share: 56.89
       from: 2014
       note: Hostile takeover via Independent Media Trust
+  new-europe-college:
+    name: New Europe College (NEC)
+    type: thinktank
+    founded: 1994
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - person: andrei-plesu
+      role: founder
+      from: 1994
+      note: Fondatore e Presidente
   new-york-post:
     name: New York Post
     type: media
@@ -14345,6 +16083,16 @@ organizations:
     stakeholders:
     - org: news-corp
       share: 100%
+  nexi:
+    name: Nexi S.p.A.
+    type: company
+    founded: 2017
+    headquarters: Milan, Italy
+    sector: digital payments
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   nhk:
     name: NHK (Japan Broadcasting Corporation)
     type: media
@@ -14469,6 +16217,12 @@ organizations:
       from: 2020
       to: 2023
       note: CEO Nokia Italia e Malta
+    - org: blackrock
+      share: 6.4%
+    - org: vanguard
+      share: 7.5%
+    - org: state-street
+      share: 4.9%
   nord-stream-ag:
     name: Nord Stream AG
     type: company
@@ -14480,6 +16234,21 @@ organizations:
       from: 2005
       to: 2022
       note: immediate-post-government
+  nordea:
+    name: Nordea Bank
+    type: bank
+    founded: 2001
+    headquarters: Helsinki, Finland
+    stakeholders:
+    - org: blackrock
+      share: 5.4%
+      note: 184.8M shares
+    - org: vanguard
+      share: 4.4%
+      note: 150.8M shares
+    - org: state-street
+      share: 0.8%
+      note: 26.8M shares
   norges-bank-gpfg:
     name: Norges Bank GPFG
     type: swf
@@ -14500,6 +16269,16 @@ organizations:
       role: executive
       from: 2011
       note: Deputy CEO
+  norsk-hydro:
+    name: Norsk Hydro ASA
+    type: company
+    headquarters: Oslo, Norway
+    sector: Aluminum
+    stakeholders:
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 2.5%
   northrop-grumman:
     name: Northrop Grumman
     type: company
@@ -14509,6 +16288,16 @@ organizations:
       role: executive
       from: 2019
       note: CEO/Chairman
+  nos-portugal:
+    name: NOS
+    type: company
+    headquarters: Lisbon, Portugal
+    sector: Telecom
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.0%
   novartis:
     name: Novartis AG
     type: pharma
@@ -14534,6 +16323,10 @@ organizations:
     - person: jonathan-symonds
       role: executive
       note: ex-CFO
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 4.0%
   novo-nordisk:
     name: Novo Nordisk A/S
     type: company
@@ -14546,6 +16339,10 @@ organizations:
       from: 2018
       to: 2025
       note: Chairman; ousted Nov 2025 by Novo Nordisk Foundation
+    - org: blackrock
+      share: 4.5%
+    - org: vanguard
+      share: 2.5%
   novomatic:
     name: Novomatic AG
     type: company
@@ -14558,6 +16355,15 @@ organizations:
       role: founder
       from: 1980
       note: Owner
+  novonesis:
+    name: Novonesis A/S
+    type: company
+    founded: 2024
+    headquarters: Bagsvaerd, Denmark
+    sector: Biotech
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
   nps-korea:
     name: National Pension Service (NPS)
     type: swf
@@ -14656,6 +16462,19 @@ organizations:
     - person: omri-lavie
       role: founder
       from: 2010
+  nuclearelectrica:
+    name: Nuclearelectrica S.A.
+    type: company
+    founded: 1998
+    headquarters: Bucharest, Romania
+    sector: energy
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 1.5%
+      note: 17M USD
+    - org: vanguard
+      share: 1.0%
   nvidia:
     name: NVIDIA
     type: company
@@ -14810,9 +16629,44 @@ organizations:
       role: executive
       from: 2021
       note: CEO
+    - org: blackrock
+      share: 4.0%
+    - org: vanguard
+      share: 2.0%
     - org: adnoc
       share: 25
       note: Strategic partner, Borealis merger
+  omv-petrom:
+    name: OMV Petrom
+    type: company
+    founded: 1991
+    headquarters: Bucharest, Romania
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: alfred-stern
+      role: chairman
+      from: 2021
+      note: Chairman Supervisory Board
+    - person: christina-verchere
+      role: executive
+      from: 2018
+      note: CEO and President Executive Board
+    - org: blackrock
+      role: shareholder
+      share: 1.0%
+      note: 80M USD
+    - org: vanguard
+      share: 1.0%
+    - org: omv
+      role: parent
+      share: 51.2%
+      from: 2004
+      note: Controlling shareholder
+    - org: governo-romania
+      role: shareholder
+      share: 20.7%
+      note: Ministry of Energy
   onassis-foundation:
     name: Alexander S. Onassis Foundation
     type: foundation
@@ -14869,6 +16723,16 @@ organizations:
       note: Permanent Representative Italy to UN New York
     - org: wef
       role: partner
+  opap:
+    name: OPAP
+    type: company
+    headquarters: Athens, Greece
+    sector: Gaming
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 1.0%
   opec:
     name: OPEC
     type: agency
@@ -14920,6 +16784,28 @@ organizations:
     - person: andreas-treichl
       role: advisor
       note: European Advisory Board
+    - org: open-society-romania
+      role: affiliate
+      from: 1990
+      note: National foundation
+  open-society-romania:
+    name: Foundation for an Open Society - Romania
+    type: foundation
+    founded: 1990
+    headquarters: Bucarest, Romania
+    status: active
+    stakeholders:
+    - person: renate-weber
+      role: chairman
+      from: 1998
+      to: 2007
+      note: Presidente Consiglio Nazionale
+    - person: andrei-plesu
+      role: board
+      note: Foundation Council (a vita)
+    - person: alina-mungiu-pippidi
+      role: board
+      note: Board member
   openai:
     name: OpenAI
     type: company
@@ -15054,6 +16940,41 @@ organizations:
       note: Board of Directors
     - org: stargate-project
       role: partner
+  orange:
+    name: Orange SA
+    type: company
+    founded: 1988
+    headquarters: Paris, France
+    sector: telecommunications
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+  orion-pharma:
+    name: Orion Corporation
+    type: pharma
+    founded: 1917
+    headquarters: Espoo, Finland
+    sector: Pharmaceuticals
+  orkla:
+    name: Orkla ASA
+    type: company
+    headquarters: Oslo, Norway
+    sector: Consumer Goods
+    stakeholders:
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 2.5%
+  orsted:
+    name: Ørsted A/S
+    type: company
+    founded: 1972
+    headquarters: Fredericia, Denmark
+    sector: Energy
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
   oss:
     name: Office of Strategic Services (OSS)
     type: agency
@@ -15115,6 +17036,26 @@ organizations:
       from: 1945
       to: 1945
       note: Operation Sunrise negotiator, traded surrender for immunity
+  ote-group:
+    name: OTE Group
+    type: company
+    headquarters: Athens, Greece
+    sector: Telecom
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 1.5%
+  otp-bank:
+    name: OTP Bank
+    type: bank
+    founded: 1949
+    headquarters: Budapest, Ungheria
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 3.0%
   oxfam:
     name: Oxfam International
     type: foundation
@@ -15165,6 +17106,17 @@ organizations:
       from: 1994
       to: 2004
       note: President
+  pandora:
+    name: Pandora A/S
+    type: company
+    founded: 1982
+    headquarters: Copenhagen, Denmark
+    sector: Jewelry
+    stakeholders:
+    - org: blackrock
+      share: 8.3%
+    - org: vanguard
+      share: 3.0%
   paneuropean-union:
     name: Paneuropean Union
     type: forum
@@ -15276,6 +17228,20 @@ organizations:
       from: 1979
       to: 1986
       note: Eurodeputato; autore Progetto Trattato UE 1984
+    - person: renate-weber
+      role: legislator
+      from: 2007
+      to: 2019
+      note: MEP (PNL/ALDE)
+  partners-group:
+    name: Partners Group Holding AG
+    type: privateequity
+    headquarters: Baar, Switzerland
+    stakeholders:
+    - org: blackrock
+      share: 5.17%
+    - org: vanguard
+      share: 3.76%
   payless:
     name: Payless ShoeSource
     type: company
@@ -15314,6 +17280,16 @@ organizations:
     founded: 1998
     headquarters: Silicon Valley
     status: active
+  pca:
+    name: Permanent Court of Arbitration (PCA)
+    type: agency
+    founded: 1899
+    headquarters: The Hague, Netherlands
+    status: active
+    stakeholders:
+    - person: bogdan-aurescu
+      role: member
+      note: Membro
   peace-parks-foundation:
     name: Peace Parks Foundation
     type: foundation
@@ -15347,6 +17323,10 @@ organizations:
       role: owner
       share: 100%
       from: 2020
+  pepsico:
+    type: company
+    headquarters: Purchase, NY, USA
+    status: active
   permata-bank:
     name: PT Bank Permata Tbk
     type: bank
@@ -15380,6 +17360,16 @@ organizations:
     founded: 1985
     headquarters: London, UK
     status: active
+  pernod-ricard:
+    name: Pernod Ricard SA
+    type: company
+    founded: 1975
+    headquarters: Paris, France
+    sector: beverages
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   peugeot-invest:
     name: Peugeot Invest
     type: company
@@ -15468,6 +17458,8 @@ organizations:
       from: 2011
       to: 2022
       note: CEO
+    - org: blackrock
+      share: 5.5
     - org: exor
       share: 17.5
       from: 2023
@@ -15511,6 +17503,16 @@ organizations:
     - person: frances-haugen
       role: operative
       note: Product manager, algorithmic systems
+  piraeus-bank:
+    name: Piraeus Bank
+    type: bank
+    founded: 1916
+    headquarters: Athens, Greece
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 1.5%
   pirelli:
     name: Pirelli & C. S.p.A.
     type: company
@@ -15540,6 +17542,28 @@ organizations:
     - person: francesco-gori
       role: executive
       note: CEO Pirelli Tyre
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+  pkn-orlen:
+    name: PKN Orlen S.A.
+    type: company
+    headquarters: Warsaw, Poland
+    sector: Energy
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.0%
+  pko-bank-polski:
+    name: PKO Bank Polski S.A.
+    type: bank
+    headquarters: Warsaw, Poland
+    stakeholders:
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 2.5%
   pldt:
     name: PLDT Inc
     type: company
@@ -15566,6 +17590,22 @@ organizations:
       role: chairman
       from: 1969
       to: 2004
+  pnl-romania:
+    name: Partito Nazionale Liberale (Romania)
+    type: government
+    founded: 1875
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - person: renate-weber
+      role: member
+      from: 2007
+      to: 2019
+    - person: klaus-iohannis
+      role: chairman
+      from: 2014
+      to: 2017
+      note: Presidente PNL
   polish-business-roundtable:
     name: Polish Business Roundtable (Polska Rada Biznesu)
     type: forum
@@ -15671,6 +17711,9 @@ organizations:
       from: 2014
       to: 2017
       note: CEO
+    - org: blackrock
+      role: shareholder
+      share: 5.0
     - org: governo-italia
       share: 29.26
       from: 2015
@@ -15701,6 +17744,24 @@ organizations:
     - org: fip
       role: governance
       from: 2022
+  prosus:
+    name: Prosus N.V.
+    type: company
+    headquarters: Amsterdam, Netherlands
+    sector: technology
+    stakeholders:
+    - org: blackrock
+      share: 4.5
+  proximus:
+    name: Proximus PLC
+    type: company
+    founded: 1930
+    headquarters: Brussels, Belgium
+    stakeholders:
+    - org: blackrock
+      share: 5.1%
+    - org: vanguard
+      share: 4.85%
   prysmian:
     name: Prysmian Group
     type: company
@@ -15740,6 +17801,15 @@ organizations:
       from: 2005
       to: 2010
       note: Buyout Pirelli Cavi, €1.3 mld
+    - org: blackrock
+      role: shareholder
+      share: 5.78
+    - org: vanguard
+      role: shareholder
+      share: 2.5
+    - org: state-street
+      role: shareholder
+      share: 1.0
   psa-group:
     name: PSA Group
     type: automaker
@@ -15788,12 +17858,42 @@ organizations:
       role: investor
       share: 12.5%
       from: 2023
+  public-power-corporation:
+    name: Public Power Corporation
+    type: company
+    headquarters: Athens, Greece
+    sector: Energy
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 1.5%
+  publicis:
+    name: Publicis Groupe SA
+    type: company
+    founded: 1926
+    headquarters: Paris, France
+    sector: advertising
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   pwc:
     name: PricewaterhouseCoopers
     type: company
     founded: 1998
     headquarters: London, UK
     status: active
+  pzu:
+    name: Powszechny Zakład Ubezpieczeń S.A.
+    type: company
+    headquarters: Warsaw, Poland
+    sector: Insurance
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 2.0%
   qaf:
     name: QAF Limited
     type: company
@@ -15844,6 +17944,11 @@ organizations:
     - org: volkswagen
       role: stake
       share: 0.17
+  qiagen:
+    name: Qiagen N.V.
+    type: pharma
+    founded: 1984
+    headquarters: 'Venlo, Netherlands (ops: Hilden, Germany)'
   qnb:
     name: Qatar National Bank
     type: bank
@@ -15924,6 +18029,11 @@ organizations:
     founded: 1927
     headquarters: Vienna, Austria
     status: active
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.0%
   raine-group:
     name: The Raine Group
     type: privateequity
@@ -16065,6 +18175,11 @@ organizations:
       role: chairman
       from: 2009
       note: President (also 2000-2006)
+  recordati:
+    name: Recordati S.p.A.
+    type: pharma
+    founded: 1926
+    headquarters: Milan, Italy
   red-bull:
     name: Red Bull GmbH
     type: company
@@ -16158,6 +18273,16 @@ organizations:
     stakeholders:
     - person: mukesh-ambani
       role: chairman
+  relx:
+    name: RELX plc
+    type: company
+    headquarters: London, UK
+    sector: Information Services
+    stakeholders:
+    - org: blackrock
+      share: 11.0%
+    - org: vanguard
+      share: 5.2%
   remgro:
     name: Remgro Limited
     type: company
@@ -16169,6 +18294,16 @@ organizations:
     - person: johann-rupert
       role: chairman
       from: 2000
+  ren-portugal:
+    name: REN
+    type: company
+    headquarters: Lisbon, Portugal
+    sector: Energy Infrastructure
+    stakeholders:
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 2.0%
   renault:
     name: Renault
     type: automaker
@@ -16202,15 +18337,24 @@ organizations:
       from: 2020
       to: 2025
       note: 'Turnaround: Renaulution strategy. Left for Kering CEO.'
+    - org: blackrock
+      role: shareholder
+      share: 5.0
     - org: governo-francia
       role: strategic
       share: 15% equity, ~30% voting
       note: Double voting rights
   repsol:
+    name: Repsol S.A.
     type: company
     headquarters: Madrid, Spain
     status: active
     sector: energy
+    stakeholders:
+    - org: blackrock
+      share: 5.5
+    - org: vanguard
+      share: 3.5
   repubblica:
     name: La Repubblica
     type: media
@@ -16237,6 +18381,16 @@ organizations:
     founded: 1851
     headquarters: Londra
     status: active
+  revista-22:
+    name: Revista 22
+    type: media
+    founded: 1990
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - org: group-for-social-dialogue
+      role: publisher
+      from: 1990
   reyl:
     name: REYL & Cie Ltd
     type: bank
@@ -16260,6 +18414,9 @@ organizations:
       role: board
       from: 2025
       note: Supervisory Board
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   rhodes-trust:
     name: Rhodes Trust
     type: foundation
@@ -16313,6 +18470,20 @@ organizations:
       role: chairman
       from: 1988
       note: Founder, CEO 1988-2002, Chairman 2002-2013, 2014-
+    - org: blackrock
+      share: 2.7%
+    - org: vanguard
+      share: 3.3%
+  rio-tinto:
+    name: Rio Tinto Group
+    type: company
+    headquarters: London, UK
+    sector: Mining
+    stakeholders:
+    - org: blackrock
+      share: 7.3%
+    - org: vanguard
+      share: 5.0%
   roche:
     name: F. Hoffmann-La Roche AG
     type: pharma
@@ -16388,6 +18559,10 @@ organizations:
       from: 1996
       to: 2020
       note: Rappresentante pool azionario
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 3.5%
   rockefeller-foundation:
     name: Rockefeller Foundation
     type: foundation
@@ -16412,6 +18587,39 @@ organizations:
       role: executive
       from: 2016
       note: President
+  romanian-academy:
+    name: Academia Romana
+    type: thinktank
+    founded: 1866
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - person: mugur-isarescu
+      role: member
+      from: 2006
+      note: Membro (corrispondente 2001, ordinario 2006); Presidente Sezione Scienze Economiche
+  romgaz:
+    name: S.N.G.N. Romgaz S.A.
+    type: company
+    founded: 1909
+    headquarters: Medias, Romania
+    status: active
+    sector: natural-gas
+    stakeholders:
+    - person: razvan-popescu
+      role: executive
+      from: 2022
+      note: CEO (CFO 2020-2022)
+    - org: blackrock
+      role: shareholder
+      share: 1.5%
+      note: 38M USD
+    - org: vanguard
+      share: 1.0%
+    - org: governo-romania
+      role: shareholder
+      share: 70%
+      note: Ministry of Energy, majority shareholder
   rosneft:
     name: Rosneft
     type: company
@@ -16579,6 +18787,31 @@ organizations:
     - person: john-scarlett
       role: board
       note: Vice-Chair, Distinguished Fellow
+  rwe:
+    name: RWE AG
+    type: company
+    founded: 1898
+    headquarters: Essen, Germany
+    sector: utilities
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 2.5
+  ryanair:
+    name: Ryanair
+    type: company
+    headquarters: Dublin, Ireland
+    sector: Aviation
+    stakeholders:
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 4.0%
+    - org: state-street
+      share: 2.5%
   saab:
     name: Saab
     type: company
@@ -16614,6 +18847,38 @@ organizations:
       role: ownership
       share: 100%
       note: Agenzia sotto State Council/PBOC
+  safran:
+    name: Safran SA
+    type: company
+    founded: 2005
+    headquarters: Paris, France
+    sector: aerospace
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
+  saint-gobain:
+    name: Compagnie de Saint-Gobain SA
+    type: company
+    founded: 1665
+    headquarters: Courbevoie, France
+    sector: construction materials
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+  saipem:
+    name: Saipem S.p.A.
+    type: company
+    founded: 1957
+    headquarters: San Donato Milanese, Italy
+    sector: oil services
   salim-group:
     name: Salim Group
     type: company
@@ -16636,6 +18901,26 @@ organizations:
       from: 1998
       to: 2002
       note: Seized $5.5B Salim assets as collateral for BLBI bailout
+  salmar:
+    name: SalMar ASA
+    type: company
+    headquarters: Frøya, Norway
+    sector: Aquaculture
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 2.0%
+  sampo:
+    name: Sampo
+    type: company
+    founded: 1909
+    headquarters: Helsinki, Finland
+    sector: Insurance
+    stakeholders:
+    - org: blackrock
+      share: 7.0%
+      note: dato luglio 2025
   samsung:
     name: Samsung Group
     type: company
@@ -16767,6 +19052,16 @@ organizations:
     - org: samsung-ct
       role: shareholder
       share: 19.34
+  sandvik:
+    name: Sandvik AB
+    type: company
+    founded: 1862
+    headquarters: Stockholm, Sweden
+    stakeholders:
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 3.5%
   sanofi:
     name: Sanofi
     type: pharma
@@ -16779,6 +19074,15 @@ organizations:
       from: 2010
       to: 2022
       note: Chairman of the Board; interim CEO Oct 2014 - Apr 2015
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   santander:
     name: Banco Santander SA
     type: bank
@@ -16790,6 +19094,10 @@ organizations:
       from: 2018
       to: 2019
       note: CEO designato, offerta revocata - vinto €68m risarcimento
+  santander-bank-polska:
+    name: Santander Bank Polska S.A.
+    type: bank
+    headquarters: Warsaw, Poland
   sap:
     name: SAP SE
     type: company
@@ -16820,11 +19128,14 @@ organizations:
       from: 2024
       note: Chairman Supervisory Board
     - org: blackrock
-      share: 6.5%
+      share: 6.5
       from: 2024
     - org: vanguard
-      share: 3.9%
+      share: 3.9
       from: 2024
+    - org: state-street
+      role: shareholder
+      share: 2.0
   saras:
     name: Saras S.p.A.
     type: company
@@ -16837,6 +19148,12 @@ organizations:
       from: 2021
       to: 2022
       note: Independent Director
+  sartorius:
+    name: Sartorius AG
+    type: company
+    founded: 1870
+    headquarters: Göttingen, Germany
+    sector: laboratory equipment
   sas:
     name: SAS (Scandinavian Airlines)
     type: company
@@ -16860,6 +19177,17 @@ organizations:
       role: owner
       share: 98.0
       note: Maggiore compagnia petrolifera mondiale
+  save-bucharest-association:
+    name: Save Bucharest Association (Asociatia Salvati Bucurestiul)
+    type: foundation
+    founded: 2008
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - person: nicusor-dan
+      role: founder
+      from: 2008
+      note: Fondatore
   savvy-games-group:
     name: Savvy Games Group
     type: company
@@ -16935,6 +19263,22 @@ organizations:
       role: board
       from: 2016
       to: 2018
+  schneider-electric:
+    name: Schneider Electric SE
+    type: company
+    founded: 1836
+    headquarters: Rueil-Malmaison, France
+    sector: electrical equipment
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   sciences-po:
     founded: 1872
     headquarters: Paris
@@ -17046,6 +19390,10 @@ organizations:
       from: 1998
       to: 2005
       note: CEO 1997, Vice Chairman 2005-2014
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 3.0%
     - org: investor-ab
       role: major-shareholder
   selfridges:
@@ -17090,6 +19438,17 @@ organizations:
       from: 1972
       to: 2004
       note: Crown Member
+  ses:
+    name: SES S.A.
+    type: company
+    founded: 1985
+    headquarters: Luxembourg
+    sector: Satellite
+    stakeholders:
+    - org: blackrock
+      share: 8.5%
+    - org: vanguard
+      share: 3.0%
   seven-i-holdings:
     name: Seven & I Holdings
     type: company
@@ -17141,6 +19500,12 @@ organizations:
       from: 2002
       to: 2006
       note: Commercial positions Berlin, Hamburg, Rotterdam
+    - org: blackrock
+      share: 4.4%
+    - org: vanguard
+      share: 3.2%
+    - org: state-street
+      share: 0.9%
   shin-bet:
     name: Shin Bet (Shabak)
     type: agency
@@ -17246,11 +19611,14 @@ organizations:
       from: 2025
       note: Supervisory Board member
     - org: blackrock
-      share: 6.2%
+      share: 6.2
       note: Largest institutional shareholder
     - org: vanguard
-      share: 4%
+      share: 4.0
       note: Second largest institutional shareholder
+    - org: state-street
+      role: shareholder
+      share: 2.0
     - org: qia
       share: 4%
       note: Azionista significativo
@@ -17266,6 +19634,9 @@ organizations:
       role: board
       from: 2020
       note: Supervisory Board
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   signa-holding:
     name: Signa Holding
     type: company
@@ -17276,6 +19647,14 @@ organizations:
     stakeholders:
     - org: raiffeisen-bank-international
       note: EUR 750M exposure, lost in bankruptcy
+  sika:
+    name: Sika AG
+    type: company
+    headquarters: Baar, Switzerland
+    sector: construction-chemicals
+    stakeholders:
+    - org: blackrock
+      share: 7.7%
   silk-road-fund:
     name: Silk Road Fund
     type: swf
@@ -17393,6 +19772,16 @@ organizations:
     - org: comcast
       share: 100%
       from: 2018
+  smurfit-westrock:
+    name: Smurfit Westrock
+    type: company
+    headquarters: Dublin, Ireland
+    sector: Packaging
+    stakeholders:
+    - org: blackrock
+      share: 4.6%
+    - org: vanguard
+      share: 15.4%
   snam:
     name: Snam S.p.A.
     type: company
@@ -17430,6 +19819,15 @@ organizations:
       from: 2022
       to: 2025
       note: Chairman
+    - org: blackrock
+      role: shareholder
+      share: 5.16
+    - org: vanguard
+      role: shareholder
+      share: 2.0
+    - org: state-street
+      role: shareholder
+      share: 1.0
     - org: cdp
       share: 31.35
       note: Tramite CDP RETI
@@ -17462,6 +19860,17 @@ organizations:
     - person: marlene-amstad
       role: executive
       note: Deputy Director
+  snsb:
+    name: Scoala Normala Superioara Bucuresti
+    type: thinktank
+    founded: 1998
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - person: nicusor-dan
+      role: founder
+      from: 1998
+      note: Primo direttore amministrativo
   socialist-international:
     name: Socialist International
     type: forum
@@ -17475,6 +19884,23 @@ organizations:
       from: 2006
       to: 2022
       note: President
+  societe-generale:
+    name: Société Générale
+    type: bank
+    founded: 1864
+    headquarters: Paris, France
+    status: active
+    sector: banking
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   societe-generale-belgique:
     name: Société Générale de Belgique
     type: company
@@ -17511,6 +19937,10 @@ organizations:
       note: President of Board
     - person: nicolas-boel
       role: board
+    - org: blackrock
+      share: 7.5%
+    - org: vanguard
+      share: 6.9%
   softbank:
     name: SoftBank Group
     type: company
@@ -17635,6 +20065,21 @@ organizations:
       share: 30
       from: 1983
       note: largest shareholder
+  sonae:
+    name: Sonae SGPS
+    type: company
+    headquarters: Maia, Portugal
+    sector: Retail/Holding
+    stakeholders:
+    - org: blackrock
+      share: 6.0%
+    - org: vanguard
+      share: 1.8%
+  sonova:
+    name: Sonova Holding AG
+    type: company
+    headquarters: Stafa, Switzerland
+    sector: hearing-solutions
   spacex:
     name: SpaceX
     type: company
@@ -17682,6 +20127,7 @@ organizations:
       from: 2016
       note: Acquired brand/IP at bankruptcy auction
   spotify:
+    name: Spotify
     type: company
     founded: 2006
     headquarters: Stockholm, Sweden
@@ -17690,6 +20136,12 @@ organizations:
     - person: rene-obermann
       role: board
       note: Ex-Director
+    - org: blackrock
+      share: 5.85%
+    - org: vanguard
+      share: 6.0%
+    - org: state-street
+      share: 2.2%
   stadler-rail:
     name: Stadler Rail
     type: company
@@ -17825,6 +20277,15 @@ organizations:
       role: board
       from: 2021
       note: Senior Independent Director
+    - org: blackrock
+      role: shareholder
+      share: 4.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
     - org: exor
       role: largest-shareholder
       share: 14.2%
@@ -17859,6 +20320,15 @@ organizations:
       from: 2005
       to: 2011
       note: Per conto CDP
+    - org: blackrock
+      role: shareholder
+      share: 6.7
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   stogit:
     name: Stogit S.p.A.
     type: company
@@ -17869,6 +20339,16 @@ organizations:
     - org: snam
       share: 100
       note: Full ownership
+  stora-enso:
+    name: Stora Enso
+    type: company
+    founded: 1998
+    headquarters: Helsinki, Finland
+    sector: Forest/Paper
+    stakeholders:
+    - org: blackrock
+      share: 4.5%
+      note: Sceso sotto 5% dicembre 2024
   storebrand:
     name: Storebrand
     type: company
@@ -17885,6 +20365,10 @@ organizations:
       from: 1996
       to: 2007
       note: SVP Finance & Risk
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 2.5%
   strabag:
     name: Strabag SE
     type: company
@@ -17900,6 +20384,11 @@ organizations:
     - org: raiffeisen-bank-international
       share: 32
       note: UNIQA Raiffeisen Group
+  straumann:
+    name: Straumann Holding AG
+    type: company
+    headquarters: Basel, Switzerland
+    sector: dental
   suez:
     name: Suez SA
     type: company
@@ -17979,6 +20468,8 @@ organizations:
       from: 2014
       to: 2024
       note: CEO 2014-2024
+    - org: blackrock
+      share: 7.1%
   swiss-re:
     type: company
     founded: 1863
@@ -17994,6 +20485,8 @@ organizations:
       from: 2021
       to: 2023
       note: Chairman Board of Directors
+    - org: blackrock
+      share: 6.6%
   syensqo:
     name: Syensqo SA
     type: company
@@ -18020,6 +20513,31 @@ organizations:
       role: executive
       from: 2002
       note: Managing Partner, Co-founder, CIO
+  symrise:
+    name: Symrise AG
+    type: company
+    founded: 2003
+    headquarters: Holzminden, Germany
+    sector: fragrances
+  tallink-grupp:
+    name: Tallink Grupp
+    type: company
+    founded: 1989
+    headquarters: Tallinn, Estonia
+    sector: Transportation/Ferry
+    stakeholders:
+    - org: infortar
+      share: 68.5%
+      note: Post voluntary takeover bid August 2024
+  tallinna-sadam:
+    name: Tallinna Sadam (Port of Tallinn)
+    type: company
+    founded: 1991
+    headquarters: Tallinn, Estonia
+    sector: Infrastructure/Port
+    stakeholders:
+    - org: governo-estonia
+      share: 67%
   talpa-network:
     name: Talpa Network
     type: media
@@ -18145,6 +20663,9 @@ organizations:
       from: 2011
       to: 2016
       note: CEO
+    - org: blackrock
+      role: shareholder
+      share: 5.0
     - org: vivendi
       from: 2015
       to: 2025
@@ -18183,6 +20704,8 @@ organizations:
       from: 1996
       to: 2000
       note: Chairman (amico Aznar, privatizzazione)
+    - org: blackrock
+      share: 4.5
     - org: sepi
       share: 10
       from: 2024
@@ -18220,6 +20743,10 @@ organizations:
       from: 2010
       to: 2012
       note: EVP Nordic activities
+    - org: blackrock
+      share: 1.4%
+    - org: vanguard
+      share: 1.1%
   televisaunivision:
     name: TelevisaUnivision
     type: media
@@ -18282,6 +20809,19 @@ organizations:
       role: advisor
       from: 2025
       note: Advisory Board
+  tenaris:
+    name: Tenaris S.A.
+    type: company
+    founded: 2001
+    headquarters: 'Luxembourg (ops: Dalmine, Italy)'
+    sector: steel tubes
+    stakeholders:
+    - org: blackrock
+      share: 6.5%
+    - org: vanguard
+      share: 7.2%
+    - org: state-street
+      share: 1.0%
   tencent:
     name: Tencent Holdings
     type: company
@@ -18344,6 +20884,15 @@ organizations:
       from: 2005
       to: 2014
       note: Presidente
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 2.0
+    - org: state-street
+      role: shareholder
+      share: 1.0
     - org: cdp
       share: 29.85
       note: Tramite CDP RETI
@@ -18475,6 +21024,16 @@ organizations:
       share: 40%+
       from: 2025
       note: Direct and indirect ownership
+  thales:
+    name: Thales Group
+    type: company
+    founded: 2000
+    headquarters: Paris, France
+    sector: defense/aerospace
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   thames-water:
     name: Thames Water
     type: company
@@ -18578,6 +21137,10 @@ organizations:
       role: chairman
       from: 1989
       note: CEO 1996-2019, Chairman 2023-
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 1.5%
   tko-group:
     name: TKO Group Holdings
     type: company
@@ -18653,6 +21216,22 @@ organizations:
       role: funder
       from: 2021
       note: 257m-gbp
+  totalenergies:
+    name: TotalEnergies SE
+    type: company
+    founded: 1924
+    headquarters: Courbevoie, France
+    sector: energy
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+    - org: vanguard
+      role: shareholder
+      share: 3.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   toulouse-fc:
     name: Toulouse Football Club
     type: sportsclub
@@ -18733,6 +21312,12 @@ organizations:
       from: 2000
       to: 2020
       note: COO, condannato corruzione Angola 2025
+  transgaz:
+    name: Transgaz S.A.
+    type: company
+    founded: 2000
+    headquarters: Medias, Romania
+    sector: gas-transport
   treccani:
     name: Istituto della Enciclopedia Italiana Treccani
     type: company
@@ -18844,6 +21429,9 @@ organizations:
     - person: andreas-treichl
       role: member
       note: European Group
+    - person: mugur-isarescu
+      role: member
+      from: 1993
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -18959,6 +21547,17 @@ organizations:
       share: 7.8%
       from: 2014
       note: Strategic partner, reduced from 18%
+  tryg:
+    name: Tryg A/S
+    type: company
+    founded: 1731
+    headquarters: Ballerup, Denmark
+    sector: Insurance
+    stakeholders:
+    - org: blackrock
+      share: 3.2%
+    - org: vanguard
+      share: 2.2%
   tsmc:
     name: TSMC
     type: company
@@ -19069,6 +21668,20 @@ organizations:
       from: 2012
       to: 2018
       note: President Investment Bank
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 3.0%
+  ucb:
+    name: UCB SA
+    type: pharma
+    founded: 1928
+    headquarters: Brussels, Belgium
+    stakeholders:
+    - org: blackrock
+      share: 6.0%
+    - org: vanguard
+      share: 2.79%
   ue:
     name: Unione Europea
     type: agency
@@ -19135,9 +21748,22 @@ organizations:
       from: 2008
       to: 2021
       note: CEO
+    - org: blackrock
+      share: 5.2%
     - org: societe-generale-belgique
       to: 1998
       note: 'Storico: Union Miniere era controllata da SGB'
+  un-ilc:
+    name: UN International Law Commission (ILC)
+    type: agency
+    founded: 1947
+    headquarters: Geneva, Switzerland
+    status: active
+    stakeholders:
+    - person: bogdan-aurescu
+      role: member
+      from: 2017
+      note: Membro (2017-21, 2023-27); Co-chair Study Group Sea-level rise
   undp:
     name: United Nations Development Programme
     type: agency
@@ -19187,6 +21813,16 @@ organizations:
       role: board
       from: 2024
       note: Deputy Chairman
+    - org: blackrock
+      role: shareholder
+      share: 7.0
+      note: principale azionista privato
+    - org: vanguard
+      role: shareholder
+      share: 2.0
+    - org: state-street
+      role: shareholder
+      share: 1.5
   unilever:
     name: Unilever
     type: company
@@ -19208,6 +21844,10 @@ organizations:
       from: 2015
       to: 2021
       note: Director, Chairman Remuneration Committee
+    - org: blackrock
+      share: 7.7%
+    - org: vanguard
+      share: 5.3%
   unione-europea:
     name: Unione Europea
     type: agency
@@ -19261,6 +21901,17 @@ organizations:
     - org: parlamento-europeo
       role: institution
       note: Legislativo UE
+  unipol:
+    name: Unipol Gruppo S.p.A.
+    type: company
+    founded: 1961
+    headquarters: Bologna, Italy
+    sector: insurance
+  uniqa-insurance:
+    name: Uniqa Insurance Group AG
+    type: company
+    headquarters: Vienna, Austria
+    sector: Insurance
   unit-8200:
     name: Unit 8200
     type: agency
@@ -19335,6 +21986,12 @@ organizations:
       role: chairman
       from: 2006
       to: 2013
+  upm-kymmene:
+    name: UPM-Kymmene
+    type: company
+    founded: 1996
+    headquarters: Helsinki, Finland
+    sector: Forest/Paper
   us-air-force:
     name: United States Air Force
     type: government
@@ -19393,6 +22050,18 @@ organizations:
       from: 2014
       to: 2018
       note: Commander
+  usb:
+    name: Save Bucharest Union (USB)
+    type: party
+    founded: 2015
+    headquarters: Bucharest, Romania
+    status: merged
+    stakeholders:
+    - person: nicusor-dan
+      role: founder
+      from: 2015
+      to: 2016
+      note: Fondatore
   usines-gustave-boel:
     name: Usines Gustave Boël
     type: company
@@ -19414,6 +22083,22 @@ organizations:
     - person: rene-boel
       role: executive
       note: Director
+  usr:
+    name: Save Romania Union (USR)
+    type: party
+    founded: 2016
+    headquarters: Bucharest, Romania
+    status: active
+    stakeholders:
+    - person: nicusor-dan
+      role: founder
+      from: 2016
+      to: 2017
+      note: Co-fondatore, dimesso per disaccordi interni
+    - org: usb
+      role: merged
+      from: 2016
+      note: USB confluito in USR
   vanguard:
     name: Vanguard
     type: assetmanager
@@ -19458,6 +22143,37 @@ organizations:
       role: board
       from: 2024
       note: Member Supervisory Board
+  venice-commission:
+    name: Venice Commission (European Commission for Democracy through Law)
+    type: agency
+    founded: 1990
+    headquarters: Venice, Italy
+    status: active
+    stakeholders:
+    - person: bogdan-aurescu
+      role: member
+      from: 2002
+      note: Membro sostituto; 30 report come relatore/co-relatore
+  veolia:
+    name: Veolia Environnement SA
+    type: company
+    founded: 1853
+    headquarters: Paris, France
+    sector: utilities
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
+  verbund:
+    name: Verbund AG
+    type: company
+    headquarters: Vienna, Austria
+    sector: Energy
+    stakeholders:
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 2.0%
   verizon:
     name: Verizon Communications
     type: company
@@ -19487,6 +22203,17 @@ organizations:
       role: board
     - person: olivier-de-spoelberch
       role: board
+  vestas:
+    name: Vestas Wind Systems A/S
+    type: company
+    founded: 1945
+    headquarters: Aarhus, Denmark
+    sector: Wind Energy
+    stakeholders:
+    - org: blackrock
+      share: 8.6%
+    - org: vanguard
+      share: 3.0%
   viacom18:
     name: Viacom18
     type: media
@@ -19494,6 +22221,11 @@ organizations:
     headquarters: Mumbai, India
     status: active
     note: JV Network18-Paramount (now Reliance). Colors, MTV India. Merged with Star India 2024
+  vienna-insurance-group:
+    name: Vienna Insurance Group AG
+    type: company
+    headquarters: Vienna, Austria
+    sector: Insurance
   villa-vigoni:
     name: Villa Vigoni
     type: foundation
@@ -19505,6 +22237,22 @@ organizations:
       from: 2017
       to: 2024
       note: Presidente
+  vinci:
+    name: Vinci SA
+    type: company
+    founded: 2000
+    headquarters: Nanterre, France
+    sector: construction
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.6
+    - org: vanguard
+      role: shareholder
+      share: 3.9
+    - org: state-street
+      role: shareholder
+      share: 1.5
   visa:
     name: Visa Inc.
     type: company
@@ -19575,6 +22323,20 @@ organizations:
       from: 1999
       to: 2018
       note: Group CEO 2008-2018, vari ruoli dal 1999
+    - org: blackrock
+      share: 4.0%
+    - org: vanguard
+      share: 3.0%
+  voestalpine:
+    name: Voestalpine AG
+    type: company
+    headquarters: Linz, Austria
+    sector: Steel
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.5%
   volkswagen:
     name: Volkswagen
     type: automaker
@@ -19625,6 +22387,15 @@ organizations:
     - person: olaf-lies
       role: board
       from: 2025
+    - org: blackrock
+      role: shareholder
+      share: 2.0
+    - org: vanguard
+      role: shareholder
+      share: 1.6
+    - org: state-street
+      role: shareholder
+      share: 1.0
     - org: qia
       role: stake
       share: 0.17
@@ -19663,6 +22434,26 @@ organizations:
       share: 100%
       from: 2010
       note: $1.8B from Ford
+  volvo-group:
+    name: Volvo Group (AB Volvo)
+    type: company
+    founded: 1927
+    headquarters: Gothenburg, Sweden
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 3.0%
+  vonovia:
+    name: Vonovia SE
+    type: company
+    founded: 2001
+    headquarters: Bochum, Germany
+    sector: real estate
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   vornado-realty:
     name: Vornado Realty Trust
     type: company
@@ -19790,6 +22581,16 @@ organizations:
     stakeholders:
     - org: warner-bros-discovery
       share: 100%
+  wartsila:
+    name: Wärtsilä
+    type: company
+    founded: 1834
+    headquarters: Helsinki, Finland
+    sector: Marine/Energy
+    stakeholders:
+    - org: blackrock
+      share: 5.2%
+      note: Investor AB (Wallenberg) 18% primo azionista
   washington-post:
     name: The Washington Post
     type: media
@@ -19805,6 +22606,14 @@ organizations:
       role: board
       from: 1974
       to: 2011
+  wdp:
+    name: Warehouses De Pauw SA
+    type: company
+    founded: 1971
+    headquarters: Wolvertem, Belgium
+    stakeholders:
+    - org: state-street
+      share: 0.25%
   webuild:
     name: Webuild
     type: company
@@ -19885,6 +22694,8 @@ organizations:
     - person: chrystia-freeland
       role: glt
       from: 2001
+    - person: chrystia-freeland
+      role: board
     - person: nicolas-sarkozy
       role: glt
       from: 1992
@@ -19929,8 +22740,10 @@ organizations:
       from: 2017
     - person: al-gore
       role: glt
+    - person: al-gore
+      role: board
     - person: federica-mogherini
-      role: member
+      role: ygl
       note: Agenda Contributor
     - person: alexander-stubb
       role: ygl
@@ -20035,14 +22848,19 @@ organizations:
     - person: henry-kravis
       role: member
     - person: mathias-dopfner
-      role: member
+      role: ygl
+      from: 2002
       note: Davos participant
+    - person: mukesh-ambani
+      role: board
     - person: emilio-azcarraga-jean
       role: member
       note: WEF participant
     - person: lee-jae-yong
       role: member
       note: Attended Davos 2023 with President Yoon delegation
+    - person: lee-jae-yong
+      role: ygl
     - person: andre-hoffmann
       role: chairman
       from: 2025
@@ -20087,6 +22905,8 @@ organizations:
     - person: lee-hsien-loong
       role: member
       note: Davos participant
+    - person: tharman-shanmugaratnam
+      role: board
     - person: sunil-mittal
       role: member
       note: International Business Council; Co-Chair SDIS 2018
@@ -20145,6 +22965,8 @@ organizations:
     - person: carlos-ghosn
       role: board
       note: Board of Trustees member. Advocate for sustainable transportation and zero-emission vehicles.
+    - person: willem-alexander
+      role: ygl
     - person: queen-maxima
       role: board
       note: Stewardship Board Financial Systems; EDISON Alliance
@@ -20187,12 +23009,16 @@ organizations:
     - person: ivan-glasenberg
       role: member
       note: Davos participant 2013-2015
+    - person: severin-schwan
+      role: ygl
     - person: jemilah-mahmood
       role: member
       note: Global Future Council
     - person: thomas-jordan
       role: member
       note: Speaker Davos
+    - person: philipp-hildebrand
+      role: board
     - person: anders-opedal
       role: member
       note: Agenda Contributor
@@ -20232,6 +23058,382 @@ organizations:
       role: glt
       from: 1993
       note: Global Leaders for Tomorrow 1993
+    - person: magdalena-andersson
+      role: ygl
+    - person: sandra-maischberger
+      role: ygl
+    - person: claus-kleber
+      role: ygl
+    - person: cedrik-neike
+      role: ygl
+    - person: stefan-oelrich
+      role: ygl
+    - person: manuela-kasper-claridge
+      role: ygl
+    - person: tania-singer
+      role: ygl
+    - person: katharina-amann
+      role: ygl
+      from: 2024
+    - person: siegfried-russwurm
+      role: ygl
+    - person: uwe-raschke
+      role: ygl
+    - person: stefan-schaible
+      role: ygl
+    - person: philip-meissner
+      role: ygl
+      from: 2022
+    - person: eleonore-crespo
+      role: ygl
+      from: 2025
+    - person: gabriel-naouri
+      role: ygl
+    - person: fabrice-seiman
+      role: ygl
+    - person: david-martinon
+      role: ygl
+    - person: luca-garavoglia
+      role: ygl
+    - person: rula-jebreal
+      role: ygl
+    - person: paola-lanzarini
+      role: ygl
+    - person: paolo-petrocelli
+      role: ygl
+      from: 2023
+    - person: liv-garfield
+      role: ygl
+    - person: ruzwana-bashir
+      role: ygl
+    - person: stephen-frost
+      role: ygl
+    - person: lucy-cooper
+      role: ygl
+      from: 2021
+    - person: natalie-black
+      role: ygl
+      from: 2022
+    - person: anna-schrimpf
+      role: ygl
+      from: 2024
+    - person: sinead-burke
+      role: ygl
+      from: 2021
+    - person: carme-chacon
+      role: ygl
+    - person: maria-blasco
+      role: ygl
+    - person: jesus-encinar
+      role: ygl
+    - person: enric-sala
+      role: ygl
+    - person: cayetana-alvarez-de-toledo
+      role: ygl
+    - person: angel-cabrera
+      role: ygl
+    - person: crown-princess-victoria
+      role: ygl
+    - person: mona-sahlin
+      role: ygl
+    - person: birgitta-ohlsson
+      role: ygl
+    - person: crown-prince-haakon
+      role: ygl
+    - person: mette-marit
+      role: ygl
+      from: 2010
+    - person: espen-barth-eide
+      role: ygl
+    - person: hadia-tajik
+      role: ygl
+    - person: marte-jerko
+      role: ygl
+      from: 2024
+    - person: annika-saarikko
+      role: ygl
+    - person: crown-prince-frederik
+      role: ygl
+    - person: mette-frederiksen
+      role: ygl
+    - person: ida-auken
+      role: ygl
+    - person: lea-wermelin
+      role: ygl
+    - person: mary-donaldson
+      role: ygl
+      from: 2012
+    - person: christian-jolck
+      role: ygl
+      from: 2024
+    - person: jaime-de-bourbon-parme
+      role: ygl
+    - person: mabel-van-oranje
+      role: ygl
+    - person: rose-damen
+      role: ygl
+      from: 2021
+    - person: claire-boonstra
+      role: ygl
+      from: 2012
+    - person: julia-binder
+      role: ygl
+      from: 2025
+    - person: petra-ehmann
+      role: ygl
+      from: 2024
+    - person: frederic-hoffmann
+      role: ygl
+      from: 2022
+    - person: christophe-beck
+      role: ygl
+    - person: patrick-chappatte
+      role: ygl
+    - person: jaroslaw-krolewski
+      role: ygl
+      from: 2025
+    - person: arkadiusz-nowak
+      role: ygl
+    - person: michaela-erbenova
+      role: ygl
+    - person: ivo-lukacovic
+      role: ygl
+    - person: livia-jaroka
+      role: ygl
+    - person: abel-garamhegyi
+      role: ygl
+    - person: alexander-rodnyansky
+      role: ygl
+      from: 2024
+    - person: cristina-fonseca
+      role: ygl
+      from: 2021
+    - person: vijay-shekhar-sharma
+      role: ygl
+    - person: deepika-padukone
+      role: ygl
+    - person: priyanka-chopra
+      role: ygl
+    - person: byju-raveendran
+      role: ygl
+      from: 2020
+    - person: rammohan-naidu
+      role: ygl
+      from: 2025
+    - person: raghav-chadha
+      role: ygl
+      from: 2022
+    - person: bhumi-pednekar
+      role: ygl
+      from: 2024
+    - person: lu-chaoyang
+      role: ygl
+      from: 2021
+    - person: wang-guan
+      role: ygl
+      from: 2021
+    - person: yifan-li
+      role: ygl
+      from: 2021
+    - person: shi-zhe
+      role: ygl
+      from: 2024
+    - person: liang-pei
+      role: ygl
+      from: 2024
+    - person: steven-lam
+      role: ygl
+      from: 2025
+    - person: yao-chen
+      role: ygl
+    - person: margaret-zhang
+      role: ygl
+    - person: haruka-mera
+      role: ygl
+      from: 2025
+    - person: takashi-sano
+      role: ygl
+      from: 2025
+    - person: masao-koyama
+      role: ygl
+      from: 2024
+    - person: miku-hirano
+      role: ygl
+      from: 2022
+    - person: yoichi-ochiai
+      role: ygl
+      from: 2022
+    - person: shiho-azuma
+      role: ygl
+      from: 2021
+    - person: akira-sakano
+      role: ygl
+      from: 2019
+    - person: park-jin-young
+      role: ygl
+    - person: sophie-kim
+      role: ygl
+      from: 2021
+    - person: lee-seung-gun
+      role: ygl
+      from: 2021
+    - person: kelvin-kim
+      role: ygl
+      from: 2025
+    - person: sultan-olayan
+      role: ygl
+      from: 2024
+    - person: abdulrahman-tarabzouni
+      role: ygl
+      from: 2024
+    - person: naif-shesha
+      role: ygl
+      from: 2022
+    - person: walid-bindawood
+      role: ygl
+      from: 2025
+    - person: sheikh-maktoum-bin-mohammed
+      role: ygl
+      from: 2023
+    - person: sheikha-shamma-bint-sultan
+      role: ygl
+      from: 2023
+    - person: omar-bin-sultan-al-olama
+      role: ygl
+      from: 2022
+    - person: iyinoluwa-aboyeji
+      role: ygl
+    - person: adebola-williams
+      role: ygl
+      from: 2019
+    - person: mayowa-kuyoro
+      role: ygl
+      from: 2025
+    - person: charlize-theron
+      role: ygl
+      from: 2014
+    - person: lewis-pugh
+      role: ygl
+    - person: rapelang-rabana
+      role: ygl
+      from: 2017
+    - person: sumayya-vally
+      role: ygl
+      from: 2022
+    - person: anielle-franco
+      role: ygl
+      from: 2024
+    - person: ilona-szabo-de-carvalho
+      role: ygl
+      from: 2015
+    - person: mariana-vasconcelos
+      role: ygl
+      from: 2022
+    - person: denis-minev
+      role: ygl
+      from: 2012
+    - person: gabriela-rodrigues
+      role: ygl
+      from: 2025
+    - person: martin-lousteau
+      role: ygl
+    - person: alec-oxenford
+      role: ygl
+    - person: andres-lawson
+      role: ygl
+      from: 2025
+    - person: nadia-ahmad-samdin
+      role: ygl
+      from: 2024
+    - person: natasha-latiff
+      role: ygl
+      from: 2024
+    - person: gareth-wong
+      role: ygl
+      from: 2021
+    - person: kishin-rk
+      role: ygl
+      from: 2021
+    - person: sophia-hamblin-wang
+      role: ygl
+      from: 2022
+    - person: simon-sheikh
+      role: ygl
+    - person: james-chin-moody
+      role: ygl
+    - person: ali-babacan
+      role: ygl
+    - person: egemen-bagis
+      role: ygl
+    - person: serpil-timuray
+      role: ygl
+    - person: bilge-demirkoz
+      role: ygl
+      from: 2019
+    - person: safak-pavey
+      role: ygl
+    - person: arzuhan-yalcindag
+      role: ygl
+    - person: kirill-dmitriev
+      role: ygl
+    - person: tigran-khudaverdian
+      role: ygl
+    - person: andrey-guryev
+      role: ygl
+      from: 2021
+    - person: natalia-vodianova
+      role: ygl
+      from: 2014
+    - person: ruben-vardanian
+      role: ygl
+    - person: arkady-dvorkovich
+      role: ygl
+    - person: idan-roll
+      role: ygl
+      from: 2023
+    - person: stav-shaffir
+      role: ygl
+    - person: yair-goldfinger
+      role: ygl
+      from: 2009
+    - person: efrat-peled
+      role: ygl
+      from: 2009
+    - person: gila-gamliel
+      role: ygl
+    - person: sharmeen-obaid-chinoy
+      role: ygl
+    - person: sara-saeed-khurram
+      role: ygl
+      from: 2022
+    - person: ali-mukhtar
+      role: ygl
+      from: 2024
+    - person: sahar-albazar
+      role: ygl
+      from: 2022
+    - person: rania-al-mashat
+      role: ygl
+      from: 2014
+    - person: ayman-ismail
+      role: ygl
+      from: 2012
+    - person: queen-rania
+      role: board
+    - person: tareq-darwazeh
+      role: ygl
+      from: 2024
+    - person: nino-enukidze
+      role: ygl
+      from: 2024
+    - person: ketevan-bochorishvili
+      role: ygl
+      from: 2019
+    - person: ajay-banga
+      role: board
+    - person: bogdan-aurescu
+      role: member
+      note: Partecipante Davos
     - org: bilderberg
       role: partner
     - org: fmi
@@ -20321,6 +23523,16 @@ organizations:
       role: funder
       from: 2000
       note: 2nd largest funder after USA, ~$500M/year
+  wienerberger:
+    name: Wienerberger AG
+    type: company
+    headquarters: Vienna, Austria
+    sector: Construction
+    stakeholders:
+    - org: blackrock
+      share: 5.1%
+    - org: vanguard
+      share: 2.0%
   wikileaks:
     name: WikiLeaks
     type: media
@@ -20383,6 +23595,10 @@ organizations:
       from: 1998
       to: 2013
       note: Governor; Chairman Board of Governors 2013
+    - person: ajay-banga
+      role: leader
+      from: 2023
+      note: President
   world-jewish-congress:
     name: World Jewish Congress
     type: forum
@@ -20542,6 +23758,16 @@ organizations:
     type: company
     headquarters: New York, USA
     status: active
+  yara:
+    name: Yara International ASA
+    type: company
+    headquarters: Oslo, Norway
+    sector: Fertilizers
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 2.5%
   yes-network:
     name: YES Network
     type: media
@@ -20565,6 +23791,16 @@ organizations:
     type: forum
     founded: 1992
     status: active
+  zalando:
+    name: Zalando SE
+    type: company
+    founded: 2008
+    headquarters: Berlin, Germany
+    sector: e-commerce
+    stakeholders:
+    - org: blackrock
+      role: shareholder
+      share: 5.0
   zhongsheng:
     name: Zhongsheng Group Holdings Limited
     type: company
@@ -20575,3 +23811,13 @@ organizations:
     - org: jardine-matheson
       role: investor
       share: 0.2
+  zurich-insurance:
+    name: Zurich Insurance Group AG
+    type: company
+    headquarters: Zurich, Switzerland
+    sector: insurance
+    stakeholders:
+    - org: blackrock
+      share: 5.1%
+    - org: vanguard
+      share: 5.4%
