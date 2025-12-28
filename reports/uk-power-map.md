@@ -1,0 +1,1147 @@
+# UK Power Map - Mappa del Potere Britannico
+
+## Stato del Database
+
+**Organizzazioni UK presenti**: 100+ entità con sede a Londra/UK
+**Persone britanniche (GBR)**: ~90 persone
+**Aggiornamento**: Aggiunti Darktrace (GCHQ spinoff → Thoma Bravo), Mike Lynch (morto 2024, "Britain's Bill Gates"), Poppy Gustafsson (CEO → Minister), Jonathan Evans (MI5 → Darktrace), Thoma Bravo ($184B PE), openDemocracy (media OSF-funded)
+
+---
+
+## Strutture di Potere UK
+
+### 1. INTELLIGENCE & SICUREZZA
+
+#### Agenzie (presenti in DB)
+| ID | Tipo | Note |
+|----|------|------|
+| mi6 | Agency | Secret Intelligence Service |
+| mi5 | Agency | Security Service |
+| gchq | Agency | Signals Intelligence |
+
+#### Revolving Door Intelligence → Privato
+| Persona | Da | A | Status DB |
+|---------|-----|---|-----------|
+| **richard-dearlove** | MI6 Chief 1999-2004 | Hakluyt, AIG, Ascot, RUSI, Ergo Global, Crossword | **Completo (11 affiliazioni)** |
+| john-scarlett | MI6 Chief 2004-2009 | Times Newspapers, RUSI Vice-Chair | Presente |
+| christopher-james | MI6 (capo relazioni business) | Hakluyt (co-founder) | Presente |
+| mike-reynolds | MI6 (counter-terrorism, Berlin) | Hakluyt (co-founder) | Presente |
+| **iain-lobban** | GCHQ Director | Hakluyt Advisory Board | **Presente** |
+| **alex-younger** | MI6 Chief 2014-2020 | RUSI Trustee | **Presente** |
+| **jonathan-evans** | MI5 Director General | Darktrace Advisory Board | **DOCUMENTATO** |
+| **richard-moore** | MI6 Chief (2020-) | In carica | DA AGGIUNGERE |
+
+#### Aziende Intelligence Privata
+| ID | Tipo | Revenue | Note | Status |
+|----|------|---------|------|--------|
+| **hakluyt** | Company | £113M (2023) | Ex-MI6, 196 dipendenti, 50% FTSE 100 clienti | **DOCUMENTATO** |
+| **darktrace** | Company | - | Cyber AI, ex-GCHQ/MI5, acquired Thoma Bravo $5.3B | **DOCUMENTATO** |
+| **ergo-global** | Company | - | Corporate intelligence, Dearlove advisor | Presente |
+| scl-group | Company | - | Cambridge Analytica parent | Presente |
+
+#### Hakluyt & Company - DOCUMENTATO
+
+**Fondazione e MI6 Origins**:
+| Fondatore | Background MI6 | Ruolo |
+|-----------|----------------|-------|
+| Christopher James | Capo relazioni business (20 anni) | Co-Founder |
+| Mike Reynolds | Fondatore counter-terrorism, Station Chief Berlino | Co-Founder |
+| Peter Cazalet | Deputy Chairman BP | Co-Founder (corporate link) |
+
+**Leadership Attuale (2025)**:
+| Ruolo | Nome | Background |
+|-------|------|------------|
+| Chairman Board | **paul-deighton** | Goldman Sachs → Olympics → Treasury → Economist Chairman |
+| Chair Advisory Board | **william-hague** | Ex-Foreign Secretary |
+| Managing Partner | Thomas Ellis | Dal 2024 |
+| Ex-Managing Partner | **varun-chandra** | → PM Starmer advisor (2024) |
+
+**International Advisory Board** (selezione):
+| Nome | Background |
+|------|------------|
+| Iain Lobban | Ex-GCHQ Director |
+| Shriti Vadera | Chair Prudential |
+| Douglas Flint | Ex-Chairman HSBC |
+| Paul Achleitner | Ex-Chairman Deutsche Bank |
+| Mark Wiseman | Ex-BlackRock, ex-CPPIB |
+
+**Corporate Clients**:
+- 50% FTSE 100
+- 75%+ Top 20 Private Equity
+- 40% largest companies globally by market cap
+- Shell, BP (dal 1995)
+
+**Controversie**:
+| Tema | Anno | Dettaglio |
+|------|------|-----------|
+| Greenpeace infiltration | 1997-2000 | Agente ex-Stasi Schlickenrieder infiltrato per Shell/BP |
+| Thames Water | 2023-2025 | £1M+ per strategy "avoid renationalisation" |
+| Varun Chandra lobbying | 2024 | Indagine su meeting con ministri Tory pre-Starmer |
+
+**Pattern chiave**: MI6 → Hakluyt → Downing Street (Varun Chandra pipeline)
+
+#### Darktrace - DOCUMENTATO
+
+**Il Cyber-Industrial Complex Britannico**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 2013, Cambridge |
+| Fondatori | Ex-GCHQ + Cambridge mathematicians + Mike Lynch (Invoke Capital) |
+| CEO (2016-2024) | Poppy Gustafsson |
+| IPO | LSE 2021 |
+| Acquisizione | Thoma Bravo, Ottobre 2024, $5.3B |
+| Status | Private (delisted LSE) |
+
+**Intelligence Connections**:
+| Agenzia | Persone | Ruolo Darktrace |
+|---------|---------|-----------------|
+| GCHQ | Fondatori multipli | Core team originale |
+| MI5 | Stephen Huxter | Managing Director |
+| MI5 | **Jonathan Evans** (ex-DG) | Advisory Board |
+| CIA | Alan Wade (ex-CIO) | Advisory Board |
+| CIA | Marcus Fowler | Darktrace Federal |
+
+**Advisory Board** (politici):
+| Nome | Background |
+|------|------------|
+| **Amber Rudd** | Ex-Home Secretary |
+| **David Willetts** | Ex-Science Minister |
+
+**Mike Lynch - "Britain's Bill Gates" (1965-2024)**:
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Aziende | Autonomy (venduta HP $11B), Invoke Capital, Darktrace |
+| Ruolo | Broker tra Cambridge academia e GCHQ |
+| Processo | Accusato frode HP, **assolto giugno 2024** |
+| Morte | 19 Agosto 2024, naufragio yacht Bayesian, Sicilia |
+| Vittime | Lynch + figlia Hannah + 5 altri (incl. Morgan Stanley Chairman) |
+
+**Poppy Gustafsson - CEO → Minister**:
+| Fase | Periodo | Ruolo |
+|------|---------|-------|
+| Darktrace | 2013-2016 | CFO |
+| Darktrace | 2016-2024 | CEO |
+| Governo UK | Ottobre 2024- | Minister of State for Investment |
+| Lords | Novembre 2024 | Baroness Gustafsson of Chesterton |
+
+**Pattern Cyber-Industrial Complex**:
+```
+GCHQ/MI5 expertise
+       ↓
+ Cambridge maths + Lynch VC
+       ↓
+    DARKTRACE
+       ↓
+ Ex-spies Advisory Board
+       ↓
+ LSE IPO 2021
+       ↓
+ THOMA BRAVO (USA PE) acquires $5.3B
+       ↓
+ CEO → UK Government Minister
+```
+
+**Implicazioni**:
+1. **UK cybersecurity → USA ownership**: Pattern di tech UK acquisita da PE americano
+2. **Intelligence → Private → Government**: Gustafsson revolving door perfetto
+3. **Lynch come broker**: Facilitò incontro GCHQ-Cambridge che creò Darktrace
+4. **Thoma Bravo empire**: Darktrace si aggiunge a Proofpoint, Sophos, McAfee nel portfolio
+
+---
+
+### 2. THINK TANK & FORUM
+
+#### Presenti in DB
+| ID | Tipo | Note |
+|----|------|------|
+| **chatham-house** | ThinkTank | RIIA, gemello CFR, Bronwen Maddox CEO |
+| **rusi** | ThinkTank | **DOCUMENTATO** - Wellington dynasty, MI6 fellows |
+| henry-jackson-society | ThinkTank | Neocon, anti-Russia |
+| fabian-society | ThinkTank | Socialismo gradualista |
+| tony-blair-institute | ThinkTank | Ex-PM network |
+| iiss | ThinkTank | Int'l Institute Strategic Studies |
+| **lse** | ThinkTank | London School of Economics |
+
+#### RUSI - Royal United Services Institute - DOCUMENTATO
+
+**Il più antico think tank difesa al mondo (1831)**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 1831 |
+| Fondatore | 1st Duke of Wellington |
+| Chairman 2025 | **9th Duke of Wellington** |
+| Director-General | Rachel Ellehuus (ex-NATO) |
+| Sede | 61 Whitehall, London |
+| Membri | 1,668 individuali + 129 corporate |
+
+**Leadership Timeline**:
+| Ruolo | Nome | Periodo | Background |
+|-------|------|---------|------------|
+| Chairman | 9th Duke of Wellington | 2025- | Discendente fondatore |
+| Chairman | David Lidington | 2020-2025 | Ex-Cabinet Office Minister |
+| Vice-Chair | Peter Ricketts | 2025- | Ex-NSA, ex-Ambasciatore |
+| Vice-Chair | John Scarlett | 2016-2025 | Ex-MI6 Chief |
+| Director-General | Rachel Ellehuus | 2025- | Ex-NATO, US DoD |
+| Director-General | Karin von Hippel | 2016-2024 | Ex-US State Dept |
+
+**MI6 Chiefs come Distinguished Fellows**:
+| Nome | MI6 Chief | Ruolo RUSI |
+|------|-----------|------------|
+| Richard Dearlove | 1999-2004 | Vice-Chair, Distinguished Fellow |
+| John Scarlett | 2004-2009 | Vice-Chair, Distinguished Fellow |
+| Alex Younger | 2014-2020 | Trustee |
+
+**Trustees (ex-ministri)**:
+| Nome | Ex-Ruolo |
+|------|----------|
+| Jack Straw | Foreign Secretary |
+| Amber Rudd | Home Secretary |
+| Malcolm Rifkind | Foreign Secretary (Fellow) |
+
+**Defence Industry Funding**:
+| Fascia | Funders |
+|--------|---------|
+| £200K-500K | BAE Systems, Google, Philip Morris, US State Dept, UK FCDO, Qatar |
+| £100K-200K | Airbus, Facebook, Open Society, MacArthur, Qatar MoD |
+| £50K-100K | Lockheed Martin, Microsoft, UK MoD, Royal Navy |
+
+**Corporate Members**: BAE, Airbus, Boeing, Blackstone, General Dynamics, MBDA, Rolls Royce, Raytheon, Lockheed Martin
+
+**Pattern chiave**:
+1. **Wellington Dynasty**: Fondato 1831 da 1st Duke, presieduto 2025 da 9th Duke (194 anni)
+2. **MI6-RUSI Pipeline**: 3 ex-MI6 Chiefs come Distinguished Fellows
+3. **Defence Industry Funding**: £500K+ annuali da contractors
+4. **Governo-RUSI-Governo**: Ex-ministri (Straw, Rudd, Rifkind) come trustees
+
+#### Chatham House - Dettaglio
+| Ruolo | Nome | Note |
+|-------|------|------|
+| Director & CEO | bronwen-maddox | Ex-FT, Times, Institute for Government |
+| Chairman | simon-fraser | Ex-Permanent Under-Secretary FCO, Flint Global |
+| President | theresa-may | Ex-PM UK |
+| President | valerie-amos | Prima lineup presidenziale all-female |
+| President | helen-clark | Ex-PM New Zealand |
+| President Emeritus | john-major | Ex-PM UK |
+| Ex-Director | robin-niblett | 15 anni (2007-2022) |
+
+**Relazione chiave**: Chatham House ↔ CFR (sister organizations, co-fondate 1919)
+
+#### DA AGGIUNGERE (priorità alta)
+| Nome | Tipo | Importanza |
+|------|------|------------|
+| **policy-exchange** | ThinkTank | Think tank conservatore influente |
+| **institute-for-government** | ThinkTank | Governance pubblica - Bronwen Maddox ex-Director |
+| **demos** | ThinkTank | Centro-sinistra |
+| **adam-smith-institute** | ThinkTank | Libertarian |
+| **legatum-institute** | ThinkTank | Pro-Brexit, finanziato da Chandler |
+
+---
+
+### 3. FINANZA & CITY OF LONDON
+
+#### Banche (presenti)
+| ID | Tipo | HQ | Big Three % | Note |
+|----|------|----|-------------|------|
+| **barclays** | Bank | London | **12.4%** | BlackRock 8.7%, Vanguard 3.7% |
+| hsbc | Bank | London | 12.0% | |
+| standard-chartered | Bank | London | | |
+| lloyds | Bank | London | 14.0% | |
+| natwest | Bank | Edinburgh | 8.0% | |
+| nm-rothschild | Bank | London | | Private |
+| ebrd | Bank | London | | Dev bank |
+
+#### Barclays - Dettaglio Azionariato
+| Azionista | Quota | Note |
+|-----------|-------|------|
+| BlackRock | 8.7% | Primo azionista |
+| Vanguard | 3.7% | |
+| QIA (Qatar) | 3.0% | Dal rescue 2008 |
+| Credit Suisse AM | 3.2% | |
+
+#### Barclays - Leadership
+| Ruolo | Nome | Background |
+|-------|------|------------|
+| Chairman | nigel-higgins | 36 anni NM Rothschild |
+| CEO | cs-venkatakrishnan | 22 anni JPMorgan |
+| Ex-CEO | jes-staley | JPMorgan → banned FCA (Epstein) |
+| Ex-CEO | bob-diamond | Resigned LIBOR 2012 |
+
+#### Pattern: JPMorgan → UK Banking Pipeline
+| Persona | Da JPMorgan | A |
+|---------|-------------|---|
+| jes-staley | CEO Investment Bank | Barclays CEO (banned) |
+| cs-venkatakrishnan | CIO Fixed Income | Barclays CEO (current) |
+
+#### DA AGGIUNGERE
+| Nome | Tipo | Importanza |
+|------|------|------------|
+| **schroders** | AssetManager | Asset management storico |
+| **legal-and-general** | AssetManager | Maggiore asset manager UK |
+| **baillie-gifford** | AssetManager | Scottish, major tech investor |
+| **aberdeen-standard** | AssetManager | Fusione 2017 |
+| **3i-group** | PrivateEquity | Storico PE UK |
+| **cvc-capital** | PrivateEquity | Major PE |
+
+#### City of London Corporation
+| Ruolo | Persona | Status |
+|-------|---------|--------|
+| Policy Chairman | **Chris Hayward** | DA AGGIUNGERE |
+| Lord Mayor 2025 | **Susan Langley** | DA AGGIUNGERE |
+
+---
+
+### 4. ARISTOCRAZIA & DINASTIE
+
+#### Presenti in DB
+| ID | Origin | Settore |
+|----|--------|---------|
+| rothschild | Germania | Finance, Media |
+| rothermere | UK | Media |
+| windsor | UK | Monarchy |
+
+#### DA AGGIUNGERE (famiglie)
+| Nome | Settore | Patrimonio | Note |
+|------|---------|------------|------|
+| **grosvenor** | Real Estate | £9+ miliardi | Duchi di Westminster, Mayfair/Belgravia |
+| **cadogan** | Real Estate | £6+ miliardi | Chelsea/Knightsbridge |
+| **portman** | Real Estate | £2+ miliardi | Marylebone |
+| **howard-de-walden** | Real Estate | £4+ miliardi | Harley Street |
+| **sainsbury** | Retail | £3+ miliardi | Supermarket dynasty |
+| **weston** | Retail | £10+ miliardi | Selfridges, Primark |
+| **dyson** | Manufacturing | £20+ miliardi | Tech/appliances |
+| **ineos** (Ratcliffe) | Energy | £15+ miliardi | Petrochimica |
+
+---
+
+### 5. POLITICA & GOVERNO
+
+#### Governo UK - DOCUMENTAZIONE COMPLETA
+
+Scheda completa creata: `docs/government/governo-uk.md`
+
+**Timeline Prime Ministers (1945-2025)**:
+| Periodo | PM | Partito | Note |
+|---------|-----|---------|------|
+| 1940-1945 | Winston Churchill | Conservative | Wartime |
+| 1945-1951 | Clement Attlee | Labour | NHS, welfare state |
+| 1951-1955 | Winston Churchill | Conservative | 2nd term |
+| 1957-1963 | Harold Macmillan | Conservative | "Supermac" |
+| 1964-1970 | Harold Wilson | Labour | 1st term |
+| 1970-1974 | Edward Heath | Conservative | EEC entry |
+| 1976-1979 | James Callaghan | Labour | Winter of Discontent |
+| 1979-1990 | **Margaret Thatcher** | Conservative | Thatcherism |
+| 1990-1997 | John Major | Conservative | Post-Thatcher |
+| 1997-2007 | Tony Blair | Labour | New Labour, Iraq |
+| 2007-2010 | Gordon Brown | Labour | Financial crisis |
+| 2010-2016 | **David Cameron** | Conservative | Brexit, Greensill |
+| 2016-2019 | Theresa May | Conservative | Brexit PM |
+| 2019-2022 | Boris Johnson | Conservative | Brexit done |
+| 2022 | Liz Truss | Conservative | **45 giorni** |
+| 2022-2024 | Rishi Sunak | Conservative | First British Asian |
+| 2024- | Keir Starmer | Labour | Current |
+
+**Timeline Chancellors (Post-1979)**:
+| Periodo | Chancellor | Note |
+|---------|------------|------|
+| 1983-1989 | Nigel Lawson | Big Bang |
+| 1997-2007 | Gordon Brown | Longest since 1832 |
+| 2010-2016 | George Osborne | Austerity |
+| 2020-2022 | Rishi Sunak | COVID spending |
+| 2022 | Kwasi Kwarteng | **38 giorni** |
+| 2022-2024 | Jeremy Hunt | Stabilization |
+| 2024- | Rachel Reeves | First woman Chancellor |
+
+#### David Cameron - DOCUMENTATO
+
+Scheda completa: `docs/persons/david-cameron.md`
+
+**Revolving Door Post-PM (2016-2025)**:
+| Periodo | Ruolo | Azienda | Compenso |
+|---------|-------|---------|----------|
+| 2017-2019 | Consultant | First Data | Non disclosed |
+| 2018-oggi | Vice Chair Advisory | **Illumina** (genomics) | Non disclosed |
+| 2018-2021 | Senior Advisor | **Greensill Capital** | **£7.2M** |
+| 2019-2021 | Chairman Advisory | **Afiniti** (AI) | Non disclosed |
+| 2017-2021 | Vice Chairman | UK-China Fund | Abortito |
+| 2023-2024 | Foreign Secretary | UK Government | Salario pubblico |
+| 2023-oggi | Life Peer | House of Lords | Baron Cameron of Chipping Norton |
+
+**Greensill Scandal Timeline**:
+| Data | Evento |
+|------|--------|
+| Agosto 2018 | Entra come Senior Advisor |
+| 2019 | Incassa £4.5M vendendo azioni |
+| Gennaio 2020 | Viaggio Saudi con Lex Greensill, incontra **MBS** |
+| 2020 | **62 messaggi** a ministri per COVID loans |
+| Marzo 2021 | Greensill Capital collassa |
+| Luglio 2021 | Treasury Committee: comportamento "inappropriate" |
+
+**Pattern Cameron**: PM → 6+ ruoli corporate simultanei → Lobbying ex-colleghi → Scandal → Return as Foreign Sec → House of Lords
+
+#### Presenti in DB (completati)
+| ID | Ruolo | Note |
+|----|-------|------|
+| tony-blair | PM 1997-2007 | TBI founder |
+| keir-starmer | PM 2024- | Trilateral, Fabian |
+| john-major | PM 1990-97 | Chatham House President Emeritus |
+| theresa-may | PM 2016-19 | Chatham House President |
+| **david-cameron** | PM 2010-16, FS 2023-24 | **Greensill, revolving door** |
+| rishi-sunak | PM 2022-24 | First British Asian PM |
+| boris-johnson | PM 2019-22 | Brexit, COVID |
+
+#### DA AGGIUNGERE (figure chiave)
+| Nome | Ruolo | Connessioni | Priorità |
+|------|-------|-------------|----------|
+| **george-osborne** | Chancellor | Evening Standard, BlackRock | ALTA |
+| **william-hague** | Foreign Sec | Hakluyt chairman | ALTA |
+| **peter-mandelson** | Minister | Trilateral, EU Commissioner | ALTA |
+| **david-willetts** | Minister | Trilateral | MEDIA |
+| **olly-robbins** | Civil Servant | Hakluyt partner, FCDO | ALTA |
+| **dominic-cummings** | Advisor | Vote Leave, data ops | MEDIA |
+
+---
+
+### 6. MEDIA
+
+#### Presenti in DB
+| ID | Tipo | Owner | Note |
+|----|------|-------|------|
+| bbc | Media | Public | |
+| the-times | Media | News Corp | |
+| the-guardian | Media | Scott Trust | |
+| daily-mail | Media | Rothermere | |
+| news-uk | Media | Murdoch | |
+| **the-economist** | Media | Exor/Rothschild | **DOCUMENTATO** |
+| **opendemocracy** | Media | Charity (OSF/Ford funded) | **DOCUMENTATO** |
+
+#### The Economist - OWNERSHIP COMPLETA
+
+| Azionista | Quota | Voting | Note |
+|-----------|-------|--------|------|
+| **Exor (Agnelli)** | 43.4% | 20% (cap) | Maggiore azionista dal 2015 |
+| **Rothschild (Lynn Forester)** | 26.7% | 20% (cap) | In vendita 2025 (£400M) |
+| Altri (Cadbury, Schroder, staff) | ~30% | - | ~1000 azionisti minori |
+
+**Governance**: Nessun azionista può avere >50%, voting cap 20%
+
+#### The Economist - Leadership Chain
+| Ruolo | Nome | Background |
+|-------|------|------------|
+| Editor-in-Chief | **zanny-minton-beddoes** | IMF → Economist dal 1994, prima donna EIC |
+| Chairman | **paul-deighton** | Goldman Sachs partner → CEO London 2012 → HM Treasury |
+| Board | **john-elkann** | Chairman Exor, nipote Gianni Agnelli |
+| Board | **lynn-forester-de-rothschild** | CEO E.L. Rothschild, 26.7% stake |
+| Chairman storico | **evelyn-rothschild** | Chairman 1972-1989, advisor Queen Elizabeth II |
+
+#### The Economist - Pattern Chiave
+1. **Controllo Italo-Americano**: Agnelli (ITA) 43.4% + Rothschild (USA) 26.7% = 70% di testata britannica
+2. **Goldman Sachs → Media governance**: Paul Deighton (ex-Goldman partner) è chairman
+3. **Rothschild control storico**: Evelyn chairman 17 anni, ora quota family in vendita
+4. **Bilderberg nexus**: Editor (Minton Beddoes) e owner (Lynn) sono attendee regolari
+
+#### Telegraph Media Group - DOCUMENTATO
+
+**Saga Proprietaria 2023-2025**:
+| Data | Evento |
+|------|--------|
+| Giugno 2023 | Lloyds Banking Group seizes control per £1.2B debiti Barclay |
+| Novembre 2023 | RedBird IMI (Sheikh Mansour/UAE) offre £1.2B |
+| Marzo 2024 | UK government blocca foreign state ownership |
+| Aprile 2024 | RedBird IMI si ritira |
+| Novembre 2025 | DMGT (Rothermere) acquisisce per £500M |
+
+**Ownership History**:
+| Periodo | Proprietario | Note |
+|---------|--------------|------|
+| 1855-1928 | Levy-Lawson (Lord Burnham) | Fondazione |
+| 1928-1986 | Berry family (Camrose) | |
+| 1986-2004 | Conrad Black / Hollinger | Scandalo $200M |
+| 2004-2023 | Barclay Brothers / Press Holdings | Debiti £1.2B |
+| 2025- | DMGT / Lord Rothermere | Deal £500M |
+
+**Digital Markets Act 2024**: Legislazione storica che vieta foreign state ownership di giornali UK, innescata dal tentativo UAE
+
+**Pattern**: Consolidamento right-wing media UK - DMGT ora controlla >50% stampa conservatrice, rivale di Murdoch
+
+#### openDemocracy - DOCUMENTATO
+
+**Piattaforma investigativa indipendente (fondata 2001)**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 2001, Londra |
+| Fondatore | Anthony Barnett (ex-Charter 88, New Left Review) |
+| Chair | Suzanna Taverne (ex-BBC Trust, British Museum) |
+| Revenue 2022 | £3.44M |
+| Finanziamento | ~80% grants |
+
+**Principali Finanziatori**:
+| Funder | Importo | Note |
+|--------|---------|------|
+| Open Society Foundations | $600K+ | 2012-2021, progetti globali |
+| Ford Foundation | $2M+ | BUILD grant 5 anni |
+| Oak Foundation | £252K | 3 anni, feminist projects |
+| Wellspring Philanthropic | $450K | 24 mesi |
+| Rowntree Trusts | - | UK democracy |
+
+**Focus investigativo**:
+- Dark money in UK politics
+- "Who Funds You?" transparency ratings
+- Tracking the Backlash (anti-democratic movements)
+
+**Crisi 2024**: Riduzione 40% costi, ~10 licenziamenti (1/3 staff) per vulnerabilità a cambiamenti priorità donor
+
+**Pattern**: Media indipendente UK finanziato da fondazioni progressiste USA (OSF, Ford) - alternativo a mainstream ma dipendente da grants
+
+#### DA AGGIUNGERE
+| Nome | Tipo | Owner | Priorità |
+|------|------|-------|----------|
+| **financial-times** | Media | Nikkei | ALTA |
+| **evening-standard** | Media | Lebedev → Saudi? | MEDIA |
+| **spectator** | Media | Paul Marshall (2024) | MEDIA |
+
+---
+
+### 7. ENERGIA & RISORSE
+
+#### Presenti in DB
+| ID | Tipo | Note |
+|----|------|------|
+| **bp** | Company | **DOCUMENTATO** - Major oil, £61.6B Deepwater cost |
+| shell | Company | Anglo-Dutch, potential BP acquirer 2025 |
+| rio-tinto | Company | Mining |
+| anglo-american | Company | Mining |
+| de-beers | Company | Diamonds (Evelyn Rothschild board 1977-94) |
+| bg-group | Company | Gas (acquired by Shell) |
+
+#### BP - DOCUMENTAZIONE COMPLETA
+
+**Timeline CEO**:
+| Periodo | CEO | Note |
+|---------|-----|------|
+| 1995-2007 | john-browne | Acquisizioni, scandalo personale |
+| 2007-2010 | tony-hayward | Deepwater Horizon, "I'd like my life back" |
+| 2010-2020 | bob-dudley | Cleanup, primo CEO americano |
+| 2020-2023 | bernard-looney | Green pivot, dimissioni scandalo relazioni |
+| 2023-2026 | murray-auchincloss | Transizione, pressione Elliott |
+| 2026- | meg-oneill | Prima donna CEO oil major (incoming) |
+
+**Timeline Chairman**:
+| Periodo | Chairman | Note |
+|---------|----------|------|
+| 1997-2009 | **peter-sutherland** | 12 anni, WTO founder, Goldman Sachs |
+| 2010-2018 | carl-henric-svanberg | Bilderberg attendee |
+| 2019-2025 | helge-lund | Ex-Equinor, BG Group |
+| 2025- | albert-manifold | Ex-CEO CRH, sotto pressione Elliott |
+
+**Azionariato BP**:
+| Azionista | Quota | Tipo |
+|-----------|-------|------|
+| Kuwait Investment Authority | 9.9% | SWF |
+| BlackRock | 9.4% | Asset Manager |
+| Vanguard | 5.3% | Asset Manager |
+| State Street | 1.5% | Asset Manager |
+| **Big Three totale** | **16.2%** | |
+
+**Partecipazioni BP**:
+| Partecipata | Quota | Note |
+|-------------|-------|------|
+| Rosneft (Russia) | 19.75% | "Shadow shareholding" - exit annunciato 2022, mai completato |
+
+**Bilderberg Connections BP**:
+| Persona | Ruolo | Bilderberg |
+|---------|-------|------------|
+| peter-sutherland | Chairman 1997-2009 | Steering Committee |
+| carl-henric-svanberg | Chairman 2010-2018 | Attendee |
+| bernard-looney | CEO 2020-2023 | Attendee |
+
+**Pattern chiave**:
+- **State-Private Revolving Door**: Controllo statale UK 1914-1987 (Churchill→Thatcher), poi privato ma embedded nell'Establishment
+- **Activist Pressure 2025**: Elliott Management ha forzato cambio leadership e pivot da green energy a oil & gas
+- **Shell M&A**: Bloomberg riporta Shell considera acquisizione BP (maggio 2025)
+
+---
+
+### 8. PHARMA & BIOTECH
+
+#### Presenti in DB
+| ID | Note |
+|----|------|
+| gsk | GlaxoSmithKline |
+| astrazeneca | Cambridge |
+
+#### Persone
+| Nome | Ruolo | Status |
+|------|-------|--------|
+| emma-walmsley | GSK CEO | Presente |
+| jonathan-symonds | GSK/AZ boards | Presente |
+| **pascal-soriot** | AZ CEO | DA AGGIUNGERE |
+| **patrick-vallance** | Ex-CSA, GSK | Presente (TBI) |
+
+---
+
+### 9. SPORT & SOFT POWER
+
+#### Presenti in DB
+| ID | Owner | Note |
+|----|-------|------|
+| manchester-city | UAE/ADUG | CFG |
+| chelsea-fc | Clearlake/Boehly | Post-Abramovich |
+| newcastle-united | PIF Saudi | |
+| liverpool-fc | FSG | American |
+
+---
+
+## CONNESSIONI GLOBALI (da DB)
+
+### UK → USA (Finance & Media Revolving Door)
+| Pattern | Dettaglio |
+|---------|-----------|
+| JPMorgan → Barclays | Staley (CEO), Venkatakrishnan (CEO) |
+| Rothschild → Barclays | Nigel Higgins (36y Rothschild → Chairman) |
+| Goldman Sachs → Economist | Paul Deighton (partner → Chairman) |
+| Agnelli (EXOR) → Economist | 43.4% stake, John Elkann board |
+| CFR membership | Jes Staley, Lynn Forester de Rothschild |
+| Chatham House ↔ CFR | Sister organizations (1919) |
+| Lynn Forester | CFR + Chatham House member |
+| BP ↔ BlackRock, Vanguard | Shareholding |
+| Shell ↔ BlackRock, Vanguard | Shareholding |
+| HSBC ↔ BlackRock, Vanguard | Shareholding |
+| MI6 ↔ OSS | Storico |
+| Hakluyt ↔ Kissinger Associates | Network |
+| News UK ↔ News Corp | Murdoch empire |
+
+### UK → Gulf States (UAE/Saudi/Qatar)
+| Connessione | Tipo | Anno | Esito |
+|-------------|------|------|-------|
+| Barclays ← QIA (Qatar) | Rescue | 2008 | **Approvato** |
+| Barclays ← Sheikh Mansour (IPIC) | Rescue | 2008 | **Approvato** |
+| Manchester City ← ADUG (Abu Dhabi) | Sport ownership | 2008 | **Approvato** |
+| Newcastle United ← PIF Saudi | Sport ownership | 2021 | **Approvato** |
+| Telegraph ← RedBird IMI (UAE) | Media acquisition | 2023-24 | **BLOCCATO** |
+| Selfridges ← PIF Saudi | Retail | 2024 | Approvato |
+| LIV Golf ← PIF Saudi | Sport | 2022 | Approvato |
+
+**Pattern critico 2024**:
+- UK **accetta** capitale Gulf in: banche (rescue 2008), sport (City, Newcastle), retail (Selfridges)
+- UK **blocca** capitale Gulf in: **media** (Telegraph) → Digital Markets Act 2024
+
+**Legislazione storica**: Il tentativo UAE di acquisire Telegraph ha innescato il Digital Markets, Competition and Consumers Act 2024 che vieta foreign state ownership di giornali britannici
+
+### UK → Europe
+- EBRD → BRD Romania, Banca Transilvania
+- Amber Capital → Grupo Prisa (Spain)
+- Chatham House → Network think tank europei
+
+### UK → Vatican
+- **Council for Inclusive Capitalism**: Lynn Forester de Rothschild fondò con Papa Francesco (2020)
+- 550+ CEO globali come membri
+- Obiettivo: "trasformare il capitalismo"
+
+### UK → Asia
+- Jaguar Land Rover ← Tata Motors (India)
+- Tesco → CP Axtra (Thailand)
+- Selfridges ← Central Group (Thailand)
+- E.L. Rothschild → IHS Holding (Africa telecom)
+
+---
+
+## PATTERN DI POTERE IDENTIFICATI
+
+### 1. Kissinger come Power Broker
+| Evento | Anno | Risultato |
+|--------|------|-----------|
+| Bilderberg Scotland | 1998 | Kissinger presenta Lynn Forester a Sir Evelyn Rothschild |
+| Matrimonio | 2000 | Lynn diventa Lady de Rothschild |
+| Honeymoon Casa Bianca | 2000 | Clinton invita i novelli sposi |
+| E.L. Rothschild | 2003 | Family office con The Economist stake |
+
+**Pattern**: Kissinger come matchmaker dell'élite transatlantica, Bilderberg come venue
+
+### 2. Rothschild → Media Control (1972-2025)
+| Periodo | Controllo |
+|---------|-----------|
+| 1972-1989 | Sir Evelyn Chairman The Economist |
+| 2000-2022 | Evelyn + Lynn co-fondano E.L. Rothschild |
+| 2003-oggi | E.L. Rothschild detiene 26.7% Economist |
+| 2025 | Lynn esplora vendita (£400M) |
+
+**53 anni di influenza Rothschild su The Economist**
+
+### 3. Rothschild → Crown Connection
+| Persona | Ruolo |
+|---------|-------|
+| Sir Evelyn de Rothschild | Financial advisor to Queen Elizabeth II |
+
+Accesso diretto a Buckingham Palace per consulenza finanziaria sul patrimonio reale.
+
+### 4. Epstein Network → UK Banking
+| Persona | Ruolo | Connessione Epstein |
+|---------|-------|---------------------|
+| jes-staley | Barclays CEO | "Most cherished friend", 1100+ email, banned FCA |
+
+**Implicazioni**:
+- JPMorgan mantenne Epstein come cliente fino 2008
+- Staley visitò isola Epstein fino 2015
+- FCA ban a vita confermato Upper Tribunal giugno 2025
+
+### 5. JPMorgan → UK Executive Pipeline
+Due degli ultimi tre CEO Barclays vengono da JPMorgan:
+- Jes Staley (CEO Investment Bank JPM → CEO Barclays)
+- CS Venkatakrishnan (CIO Fixed Income JPM → CEO Barclays)
+
+### 6. Goldman Sachs → UK Governance
+| Persona | Da Goldman | A |
+|---------|------------|---|
+| Paul Deighton | Partner | CEO London 2012 → HM Treasury → Chairman Economist |
+
+Pattern: Goldman partner → ruoli pubblici UK → governance media
+
+### 7. Agnelli-Rothschild Media Alliance
+| Famiglia | Quota Economist | Via |
+|----------|-----------------|-----|
+| Agnelli | 43.4% | Exor |
+| Rothschild | 26.7% | E.L. Rothschild |
+| **Totale** | **70.1%** | |
+
+Due famiglie (italiana + americana-by-marriage) controllano la testata britannica più influente.
+
+### 8. Think Tank Transatlantico
+- Chatham House (1920) ↔ CFR (1921): co-fondati alla Conferenza di Parigi
+- Stessa origine (Lionel Curtis), stessa missione, membership overlapping
+- Ex-PM UK come Presidents Chatham House (Major, May)
+- Lynn Forester membro di entrambi + Bilderberg
+
+### 9. Gulf Money come Backstop UK
+- 2008: Qatar + Abu Dhabi salvano Barclays (£11.8B)
+- Amanda Staveley come broker (poi Newcastle)
+- QIA mantiene quota ~3% oggi
+
+### 10. Council for Inclusive Capitalism
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Fondatrice | Lynn Forester de Rothschild |
+| Co-fondatore | Papa Francesco (2019) |
+| Membri | 550+ CEO globali |
+| Sede | Washington DC |
+| Obiettivo | "Transform capitalism to be more inclusive" |
+
+**Pattern**: Elite finanziaria USA-UK + Vaticano per "riformare" il capitalismo dall'interno
+
+### 11. Peter Sutherland - "Il Padre della Globalizzazione"
+
+**Il power broker definitivo** (1946-2018):
+
+| Ruolo | Periodo | Note |
+|-------|---------|------|
+| Attorney General Ireland | 1981-1984 | Più giovane nella storia |
+| EU Commissioner Competition | 1985-1989 | Più giovane nella storia |
+| GATT/WTO Director-General | 1993-1995 | **Fondatore WTO** |
+| Goldman Sachs International Chairman | 1995-2015 | **20 anni** |
+| BP Chairman | 1997-2009 | **12 anni** |
+| Trilateral Commission Chairman Europe | 2001-2010 | Honorary 2010-2018 |
+| Bilderberg Steering Committee | fino 2014 | |
+| CFR Advisory Board | - | |
+| WEF Board Foundation | - | |
+| ERT Vice-President | 2006-2009 | |
+| UN Special Rep Migration | 2006-2017 | Nominato da Kofi Annan |
+| Vatican APSA Consultor | 2006-2018 | Riforma finanziaria |
+| LSE Chair Council | 2008-2015 | |
+
+**Pattern**: Unico individuo ad essere **simultaneamente**:
+- Chairman di Goldman Sachs International (banca)
+- Chairman di BP (energia)
+- Chairman Trilateral Commission Europe (forum)
+- Steering Committee Bilderberg (forum)
+- Advisory Board CFR (think tank)
+- Board WEF (forum)
+
+**Soprannome**: Mickey Kantor (USTR): "Without him there would have been no WTO - he is the father of globalisation"
+
+**Revolving door perfetto**: Governo nazionale → Governance internazionale → Alta finanza privata → Forum transnazionali → Vaticano
+
+### 12. Telegraph-Rothermere Consolidation 2025
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Acquirente | DMGT (Lord Rothermere) |
+| Target | Telegraph Media Group |
+| Prezzo | £500M |
+| Data | Novembre 2025 |
+| Bloccato | Sheikh Mansour/UAE (2024) |
+
+**Risultato**: Rothermere controlla Daily Mail + Telegraph + Metro + i Paper = >50% stampa conservatrice UK
+
+**Legislazione innescata**: Digital Markets, Competition and Consumers Act 2024 - vieta foreign state ownership giornali UK
+
+### 13. Gulf Money - Blocked Pattern
+
+| Tentativo | Target | Anno | Esito |
+|-----------|--------|------|-------|
+| Sheikh Mansour (UAE) | Telegraph | 2023-24 | **Bloccato** - UK govt |
+| QIA (Qatar) | Barclays | 2008 | Approvato - rescue |
+| ADUG (Abu Dhabi) | Manchester City | 2008 | Approvato - sport |
+| PIF (Saudi) | Newcastle | 2021 | Approvato - sport |
+
+**Pattern emergente**: UK blocca capitali del Golfo nei **media** ma li accetta in **banche** e **sport**
+
+### 14. Chipping Norton Set - Elite Network
+
+Cluster sociale elite nei Cotswolds - fusione potere politico/media/entertainment:
+
+| Membro | Settore | Connessione |
+|--------|---------|-------------|
+| **David Cameron** | Politica | PM 2010-2016, residente Witney |
+| **George Osborne** | Politica | Chancellor, Bullingdon |
+| **Samantha Cameron** | Politica | Moglie PM |
+| **Rebekah Brooks** | Media | CEO News International |
+| **Charlie Brooks** | Racing | Marito Rebekah, racehorse trainer |
+| **Elisabeth Murdoch** | Media | Figlia Rupert, produttrice TV |
+| **Matthew Freud** | PR | Marito Elisabeth, Freud Communications |
+| **Jeremy Clarkson** | Entertainment | Presenter Top Gear |
+
+**Evento chiave**: Cena 23 dicembre 2010 a casa Brooks - presenti David Cameron e James Murdoch, durante bid BSkyB
+
+**Pattern**: Élite UK vive in cluster geografici dove le connessioni sociali = connessioni di potere
+
+**Critica**: Peter Oborne (Telegraph): "incestuous collection of louche, affluent, power-hungry and amoral Londoners"
+
+### 15. Eton-Oxford-Westminster Pipeline
+
+Percorso classico élite britannica documentato:
+
+```
+ETON COLLEGE
+     ↓
+OXFORD (PPE)
+     ↓
+BULLINGDON CLUB
+     ↓
+CONSERVATIVE RESEARCH DEPT
+     ↓
+MP (Safe seat)
+     ↓
+CABINET
+     ↓
+PRIME MINISTER
+     ↓
+POST-PM: Corporate boards, House of Lords
+```
+
+**Esempi nel DB**:
+| Persona | Eton | Oxford | Bullingdon | PM |
+|---------|------|--------|------------|-----|
+| David Cameron | ✓ | ✓ (Brasenose, PPE) | ✓ | ✓ |
+| Boris Johnson | ✓ | ✓ (Balliol, Classics) | ✓ | ✓ |
+| George Osborne | - | ✓ (Magdalen) | ✓ | Chancellor |
+
+**Statistiche** (Sutton Trust "Elitist Britain 2025"):
+- 36% UK elite da private schools (7% popolazione)
+- 5x più probabile raggiungere elite se Oxbridge
+- 16% House of Lords ha legami finanziari significativi
+
+**Pattern**: Sistema educativo come filtro sociale per accesso al potere
+
+### 16. David Cameron Revolving Door Model
+
+Il case study più documentato di revolving door UK:
+
+| Fase | Ruolo | Durata |
+|------|-------|--------|
+| **1. Formazione** | Eton → Oxford (PPE) → Bullingdon | 1979-1988 |
+| **2. Apprendistato** | CCHQ → Treasury Advisor (Lamont) | 1988-1994 |
+| **3. Privato 1** | Carlton Communications (media) | 1994-2001 |
+| **4. Politica** | MP → Leader → PM | 2001-2016 |
+| **5. Privato 2** | 6+ corporate roles simultanei | 2017-2023 |
+| **6. Return** | Foreign Secretary | 2023-2024 |
+| **7. Lords** | Baron Cameron of Chipping Norton | 2023-oggi |
+
+**Criticità**:
+- ACOBA (Advisory Committee on Business Appointments) troppo debole
+- 2 anni cooling off ignorato de facto
+- Lobbying ex-colleghi ministri (62 messaggi Greensill)
+- Tutti i business ventures falliti: Greensill (collapse), Afiniti (scandal), UK-China Fund (abortito)
+
+### 17. MI6-Hakluyt-Downing Street Pipeline
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│    MI6      │────►│  HAKLUYT    │────►│  DOWNING ST │
+│   (career)  │     │ (corporate) │     │  (advisor)  │
+└─────────────┘     └─────────────┘     └─────────────┘
+      │                   │                   │
+   20+ anni           HUMINT for          Policy
+   intelligence       FTSE 100            influence
+      │                   │                   │
+      ▼                   ▼                   ▼
+ Christopher          Varun               PM Starmer
+   James              Chandra             Business
+ Mike Reynolds      (£2.1M/anno)          Advisor
+```
+
+**Caso Varun Chandra (2024)**:
+- Managing Partner Hakluyt 2019-2024 (£2.1M/anno)
+- Nominato Special Adviser Business & Investment da PM Starmer
+- Mantiene stake in Hakluyt AI investment fund
+- Sotto indagine lobbying watchdog
+
+**Implicazioni**: Corporate intelligence firm con 50% FTSE 100 clienti ha accesso diretto a Downing Street
+
+### 18. RUSI Wellington Dynasty
+
+**194 anni di continuità dinastica**:
+
+| Anno | Duke of Wellington | Ruolo RUSI |
+|------|-------------------|------------|
+| 1831 | 1st Duke (Arthur Wellesley) | **Fondatore** |
+| 2025 | 9th Duke (Arthur Wellesley) | **Chairman** |
+
+**Pattern**: Think tank militare fondato dal vincitore di Waterloo, ancora presieduto dalla famiglia 194 anni dopo
+
+**Controllo simbolico**: La famiglia Wellington mantiene presidenza onoraria dell'establishment militare britannico
+
+### 19. Defence Industry → Think Tank Funding
+
+**RUSI come case study**:
+
+| Funder | Fascia | Settore |
+|--------|--------|---------|
+| BAE Systems | £200K-500K | Arms |
+| Lockheed Martin | £50K-100K | Arms |
+| Airbus | £100K-200K | Aerospace |
+| Raytheon | £25K-50K | Arms |
+| Rolls Royce | Corporate member | Aerospace |
+| Boeing | Corporate member | Aerospace |
+
+**Totale defence contractors**: £500K+ annuali
+
+**Conflitto potenziale**: Think tank che consiglia MoD su procurement riceve £500K+ da aziende che vendono a MoD
+
+### 20. Ex-Intelligence Chiefs Network
+
+**Convergenza di 3 ex-MI6 Chiefs su RUSI**:
+
+| Chief | Periodo MI6 | Ruolo RUSI | Altri ruoli |
+|-------|-------------|------------|-------------|
+| Richard Dearlove | 1999-2004 | Vice-Chair | Hakluyt, AIG, Ascot, Ergo, Crossword |
+| John Scarlett | 2004-2009 | Vice-Chair | Times Newspapers |
+| Alex Younger | 2014-2020 | Trustee | - |
+
+**Pattern**: Ex-capi intelligence convergono su stesso think tank, creando network influenza su policy difesa/sicurezza
+
+### 21. Richard Dearlove - The Connector
+
+**11 affiliazioni corporate/think tank post-MI6**:
+
+| Categoria | Organizzazioni |
+|-----------|----------------|
+| Intelligence privata | Hakluyt, Ergo Global |
+| Assicurazioni | AIG, Ascot Underwriting |
+| Tech/Cyber | Crossword Cybersecurity |
+| Think tank | RUSI (Vice-Chair), Henry Jackson Society |
+| Forum | Atlantik-Brücke |
+| Academia | University of London (Chair Trustees) |
+| Energia | Kosmos Energy (2012-2023) |
+
+**Pattern**: Ex-MI6 Chief come hub che connette intelligence, finanza, difesa, academia
+
+### 22. Cyber-Industrial Complex - GCHQ → Darktrace → USA PE
+
+**Il modello Mike Lynch**:
+```
+Cambridge Academia (maths/AI)
+         +
+    GCHQ expertise
+         ↓
+   INVOKE CAPITAL (Lynch VC)
+         ↓
+      DARKTRACE (2013)
+         ↓
+ Advisory Board: ex-MI5 DG, ex-CIA, ex-Home Sec
+         ↓
+      LSE IPO (2021)
+         ↓
+  THOMA BRAVO acquires $5.3B (2024)
+         ↓
+ CEO → UK Government Minister (2024)
+```
+
+**Implicazioni**:
+- UK sviluppa expertise cybersecurity in agenzie statali (GCHQ)
+- Privatizza in startup (Darktrace)
+- Popola advisory con ex-spie e politici
+- Vende a PE americano (Thoma Bravo)
+- Fondatori entrano in governo (Gustafsson)
+
+**Thoma Bravo Cybersecurity Empire**:
+| Azienda | Valore | Anno |
+|---------|--------|------|
+| Darktrace (UK) | $5.3B | 2024 |
+| Proofpoint | $12.3B | 2021 |
+| Sophos (UK) | $3.9B | 2020 |
+| SailPoint | $6.9B | 2022 |
+| McAfee | - | - |
+
+**Totale AUM Thoma Bravo**: $184 miliardi (2025)
+
+### 23. Mike Lynch - The Broker (1965-2024)
+
+| Ruolo | Organizzazione | Connessione |
+|-------|----------------|-------------|
+| Founder | Autonomy | Venduta HP $11B (2011) |
+| Founder | Invoke Capital | VC £1B |
+| Investor | Darktrace | Broker GCHQ-Cambridge |
+| Board | BBC | 2007-2012 |
+| Advisor | PM Cameron | Council Science & Technology |
+
+**Tragedia**: Assolto giugno 2024 dopo 12 anni battaglia legale. Morto agosto 2024 nel naufragio dello yacht Bayesian in Sicilia, insieme alla figlia 18enne e al Chairman di Morgan Stanley International.
+
+**Pattern**: Imprenditore tech → Broker intelligence-privato → Advisor governo → Processo USA → Assoluzione → Morte tragica
+
+### 24. Poppy Gustafsson - Revolving Door Perfetto
+
+| Fase | Periodo | Ruolo |
+|------|---------|-------|
+| Deloitte | 2003-2006 | Accountant |
+| Autonomy | 2009-2011 | Controller (con Lynch) |
+| Darktrace | 2013-2016 | CFO |
+| Darktrace | 2016-2024 | CEO |
+| **Governo UK** | **2024-** | **Minister of State for Investment** |
+| Lords | 2024 | Baroness Gustafsson of Chesterton |
+
+**Pattern**: Carriera in aziende Lynch → CEO tech company GCHQ-connected → Ministro governo Starmer → Peerage
+
+### 25. Open Society Foundations - UK Media Funding
+
+**Pattern di finanziamento progressista**:
+| Recipient | Tipo | Importo |
+|-----------|------|---------|
+| openDemocracy | Media investigativo | $600K+ |
+| RUSI | Think tank difesa | £100K-200K |
+| Altri think tank progressisti | - | - |
+
+**Critiche**: OSF (George Soros) come finanziatore sistematico di media/think tank progressisti UK, parallelo a Koch/Mercer funding destra USA
+
+---
+
+## PRIORITA' INDAGINE (Aggiornata)
+
+### Tier 1 - COMPLETATI
+| Entità | Status | Note |
+|--------|--------|------|
+| chatham-house | Completato | + 7 persone affiliate |
+| barclays | Completato | + azionariato Big Three + Gulf |
+| jes-staley | Completato | Epstein network documentato |
+| the-economist | Completato | Ownership Agnelli-Rothschild, leadership |
+| lynn-forester-de-rothschild | Completato | E.L. Rothschild, Council Inclusive Capitalism |
+| evelyn-rothschild | Completato | Crown advisor, Economist chairman storico |
+| bp | Completato | Timeline CEO/Chairman, azionariato, Rosneft, Deepwater |
+| peter-sutherland | Completato | "Padre della Globalizzazione", WTO, Goldman, BP, forums |
+| telegraph-group | Completato | Saga proprietaria, DMGT acquisition, UAE blocked |
+| david-cameron | Completato | Revolving door completo, Greensill £7.2M, Chipping Norton Set |
+| governo-uk | Completato | Timeline PM/Chancellors/FS 1945-2025, 50+ affiliazioni |
+| **hakluyt** | **Completato** | MI6 pipeline, Varun Chandra → Starmer, £113M revenue, 50% FTSE 100 |
+| **rusi** | **Completato** | Wellington dynasty 1831-2025, MI6 fellows, £500K+ defence funding |
+| **richard-dearlove** | **Completato** | 11 affiliazioni: Hakluyt, RUSI, AIG, Ascot, Ergo, Crossword |
+| **darktrace** | **Completato** | GCHQ spinoff, Mike Lynch, Thoma Bravo $5.3B, Gustafsson → Minister |
+| **mike-lynch** | **Completato** | "Britain's Bill Gates", Autonomy, Darktrace, morto 2024 Sicilia |
+| **poppy-gustafsson** | **Completato** | Darktrace CEO → Minister of State for Investment, Baroness |
+| **jonathan-evans** | **Completato** | Ex-MI5 DG → Darktrace Advisory Board |
+| **thoma-bravo** | **Completato** | $184B PE, cybersecurity empire (Darktrace, Sophos, Proofpoint) |
+| **opendemocracy** | **Completato** | Media investigativo, OSF/Ford funded, Anthony Barnett |
+
+### Tier 1 - DA FARE
+| Entità | Tipo | Priorità |
+|--------|------|----------|
+| **grosvenor** (famiglia) | Family | ALTA - Maggiori landowner UK |
+| **george-osborne** | Person | ALTA - Revolving door BlackRock/media |
+| **peter-mandelson** | Person | ALTA - Trilateral, EU nexus |
+| **paul-deighton** | Person | ALTA - Goldman → Olympics → Treasury → Economist → Hakluyt |
+| **zanny-minton-beddoes** | Person | ALTA - Economist EIC, Bilderberg, IMF |
+| **conrad-black** | Person | ALTA - Telegraph scandal, Hollinger |
+| **jonathan-rothermere** | Person | ALTA - DMGT, Telegraph acquisition |
+| **rebekah-brooks** | Person | ALTA - Chipping Norton, News International, phone hacking |
+| **varun-chandra** | Person | ALTA - Hakluyt → Starmer advisor, lobbying investigation |
+
+### Tier 2 - IMPORTANTI
+- **albert-manifold** - BP Chairman 2025, ex-CRH
+- **meg-oneill** - BP CEO incoming 2026, prima donna oil major
+- **policy-exchange** - Conservative think tank
+- **john-elkann** - Chairman Exor, board Economist
+- **elliott-management** - Activist fund, pressione su BP
+- **frederick-barclay** / **david-barclay** - Ex-Telegraph owners
+- **shriti-vadera** - Chair Prudential, Hakluyt Advisory Board
+- **douglas-flint** - Ex-Chairman HSBC, Hakluyt Advisory Board
+
+### Tier 3 - COMPLETAMENTO
+- Altre famiglie aristocratiche (Cadogan, Portman, Sainsbury)
+- Asset managers (Schroders, L&G, Baillie Gifford)
+- Altri think tanks (Adam Smith, Legatum)
+- City of London Corporation leadership
+
+---
+
+## NOTE METODOLOGICHE
+
+### Pattern da investigare:
+1. **Revolving door MI6/GCHQ → Cyber privato** - Quasi tutti gli ex-capi finiscono in aziende cyber
+2. **JPMorgan → UK Banking** - Pipeline di CEO americani verso banche UK
+3. **Goldman Sachs → UK Governance** - Partner Goldman in ruoli pubblici/media
+4. **Rothschild come training ground** - Governance banking UK
+5. **Kissinger come power broker** - Matchmaker élite transatlantica
+6. **House of Lords come camera di compensazione** - 16% Lords ha legami finanziari
+7. **Trilateral Commission UK** - Starmer membro, 18 posti UK
+8. **Bilderberg steering committee** - Presenza UK costante, venue per networking élite
+9. **Oxbridge → Establishment** - 36% elite da private schools, 5x più probabile
+10. **Gulf money selettivo** - Bloccato nei media (Telegraph), accettato in banche/sport
+11. **Epstein network** - Connessioni banking USA-UK
+12. **Vatican-Finance nexus** - Council for Inclusive Capitalism
+13. **Peter Sutherland model** - Governo → Int'l governance → Finance → Forums → Vatican
+14. **Activist investors** - Elliott Management forza cambio leadership BP
+15. **Right-wing media consolidation** - DMGT/Rothermere >50% stampa conservatrice
+16. **Foreign ownership legislation** - Digital Markets Act 2024 come precedente
+17. **Russia entanglement** - BP 19.75% Rosneft "shadow shareholding" bloccato
+18. **Energy transition politics** - BP pivot back to oil sotto pressione attivisti
+19. **Chipping Norton Set** - Cluster geografico élite politica/media/entertainment
+20. **Eton-Oxford-Westminster Pipeline** - Sistema educativo come filtro accesso potere
+21. **ACOBA debolezza** - Advisory Committee incapace di controllare revolving door
+22. **PM → House of Lords** - Peerage come ricompensa/uscita (Cameron, Blair)
+23. **Bullingdon Club network** - Cameron, Johnson, Osborne - stesso club Oxford
+24. **MI6-Hakluyt-Downing Street Pipeline** - Corporate intelligence → Policy access (Varun Chandra)
+25. **Wellington Dynasty** - RUSI presieduto dalla stessa famiglia dal 1831 (194 anni)
+26. **Defence Industry → Think Tank Funding** - BAE, Lockheed, Airbus £500K+ a RUSI
+27. **Ex-Intelligence Chiefs Convergence** - 3 ex-MI6 Chiefs tutti su RUSI
+28. **Dearlove Hub Model** - Ex-spy chief come connettore tra intelligence, finanza, difesa
+29. **Hakluyt Advisory Board** - Ex-GCHQ, ex-HSBC, ex-Deutsche Bank, ex-BlackRock su stesso board
+30. **Cyber-Industrial Complex** - GCHQ expertise → Cambridge maths → VC (Lynch) → Startup → Ex-spies advisory → LSE IPO → USA PE acquisition
+31. **UK Tech → USA PE Pipeline** - Darktrace, Sophos vendute a Thoma Bravo; pattern sistematico brain drain tech UK
+32. **Mike Lynch Broker Model** - Imprenditore come ponte tra academia Cambridge, intelligence GCHQ, e governo
+33. **CEO → Minister Revolving Door** - Gustafsson: Darktrace CEO → Minister of State for Investment sotto Starmer
+34. **OSF UK Media Funding** - Open Society Foundations finanzia ecosistema media progressisti (openDemocracy £600K+)
+35. **Thoma Bravo Consolidation** - Singolo PE americano controlla infrastruttura cybersecurity critica globale ($184B AUM)
+36. **Bayesian Tragedy Network** - Naufragio 2024: Lynch + Morgan Stanley Chairman + Clifford Chance lawyer = intersezione tech/finance/legal elite
+
+### Fonti chiave:
+- [Elitist Britain 2025](https://www.suttontrust.com/our-research/elitist-britain-2025/) - Sutton Trust
+- [Bilderberg Participants](https://www.bilderbergmeetings.org/meetings/meeting-2024/participants-2024)
+- [Trilateral Commission](https://www.trilateral.org/regions/european-group/)
+- [House of Lords Register](https://members.parliament.uk/members/lords/interests/register-of-lords-interests)
+- [Declassified UK](https://www.declassifieduk.org/) - Intelligence investigations
+- [FCA Upper Tribunal - Staley](https://www.fca.org.uk/news/press-releases/upper-tribunal-upholds-jes-staley-ban)
+- [Axios - Rothschild Economist sale](https://www.axios.com/2025/10/07/economist-news-owners-rothschild-family-stake)
+- [Council for Inclusive Capitalism](https://www.inclusivecapitalism.com/)
+- [Hakluyt & Company](https://hakluytandco.com/) - Advisory Board, Supporters
+- [RUSI](https://www.rusi.org/) - Governance, Funding
+- [Powerbase - Hakluyt](https://powerbase.info/index.php/Hakluyt) - MI6 connections
+- [openDemocracy - Varun Chandra](https://www.opendemocracy.net/en/dark-money-investigations/) - Lobbying investigations
+- [Wikipedia - Darktrace](https://en.wikipedia.org/wiki/Darktrace) - GCHQ origins, Thoma Bravo acquisition
+- [Wikipedia - Mike Lynch](https://en.wikipedia.org/wiki/Mike_Lynch_(businessman)) - Autonomy, Darktrace, Bayesian tragedy
+- [Thoma Bravo](https://www.thomabravo.com/) - Portfolio, cybersecurity empire
+- [GOV.UK - Baroness Gustafsson](https://www.gov.uk/government/people/poppy-gustafsson) - Minister appointment
+- [openDemocracy - About](https://www.opendemocracy.net/en/about/) - Funding, governance
+
+---
+
+*Ultimo aggiornamento: 27 Dicembre 2025 - Aggiunti Darktrace (GCHQ spinoff → Thoma Bravo $5.3B), Mike Lynch (morto 2024), Poppy Gustafsson (CEO → Minister), Jonathan Evans (MI5 → Darktrace), Thoma Bravo ($184B PE empire), openDemocracy (OSF/Ford funded). Nuovi pattern 30-36: Cyber-Industrial Complex, UK Tech → USA PE, CEO → Minister revolving door.*

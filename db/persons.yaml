@@ -174,6 +174,10 @@ persons:
       note: CEO 2010-2020, Executive Chairman 2021
     - org: dow
       role: board
+    - org: council-inclusive-capitalism
+      role: steering
+      from: 2020
+      note: Guardian
   ajit-jain:
     born: 1951
     nationality: IND
@@ -287,6 +291,18 @@ persons:
       from: 1993
       to: 2013
       note: Re dei Belgi, abdicato
+  albert-manifold:
+    nationality: IRL
+    affiliations:
+    - org: bp
+      role: chairman
+      from: 2025
+      note: Chairman (dal ottobre 2025)
+    - org: crh
+      role: executive
+      from: 2014
+      to: 2024
+      note: CEO
   albert-salim:
     nationality: IDN
     note: Primogenito, ex Volvo dealer
@@ -427,6 +443,39 @@ persons:
       from: 2017
       to: 2023
       note: CEO 2017-2023
+  alex-younger:
+    born: 1963
+    nationality: GBR
+    affiliations:
+    - org: rusi
+      role: board
+      note: Trustee; former MI6 Chief
+  alexander-bortnikov:
+    born: 1951
+    nationality: RUS
+    note: FSB Director dal 2008, Hero of Russia 2019, Army General
+    affiliations:
+    - org: kgb
+      role: officer
+      from: 1975
+      to: 1991
+      note: Counter-intelligence, Leningrad KGB
+    - org: fsb-russia
+      role: director
+      from: 2008
+      note: Longest-serving FSB Director, Hero of Russia 2019
+    - org: sovcomflot
+      role: board
+      from: 2004
+      to: 2008
+      note: Board member before becoming FSB Director
+    relations:
+    - person: nikolai-patrushev
+      type: colleague
+      note: Bortnikov succeeded Patrushev as FSB Director 2008
+    - person: vladimir-putin
+      type: ally
+      note: Leningrad KGB colleague, silovik inner circle
   alexander-de-croo:
     born: 1975
     nationality: BEL
@@ -454,6 +503,11 @@ persons:
       role: founder
       from: 1968
       note: Co-fondatore
+  alexander-litvinenko:
+    born: 1962
+    died: 2006
+    nationality: RUS-GBR
+    note: FSB defector, Berezovsky ally, poisoned with polonium London
   alexander-nix:
     born: 1975
     nationality: GBR
@@ -514,6 +568,10 @@ persons:
       role: executive
       from: 2017
       to: 2020
+  alexander-voloshin:
+    born: 1956
+    nationality: RUS
+    note: Chief of Staff Kremlin 1999-2003, The Family
   alexander-wynaendts:
     born: 1960
     nationality: NLD
@@ -549,6 +607,44 @@ persons:
     - org: ab-inbev
       role: board
       note: Representative main shareholders
+  alexei-mordashov:
+    born: 1965
+    nationality: RUS
+    note: Severstal owner, NMG co-founder
+    affiliations:
+    - org: national-media-group
+      role: founder
+      from: 2008
+      note: Co-founder
+  alexey-likhachev:
+    born: 1962
+    nationality: RUS
+    affiliations:
+    - org: rosatom
+      role: executive
+      from: 2016
+      note: Director General
+  alexey-miller:
+    born: 1962
+    nationality: RUS
+    note: Gazprom CEO 2001-, Putin deputy St Petersburg
+    affiliations:
+    - org: gazprom
+      role: executive
+      from: 2001
+      note: CEO and Chairman Management Committee
+    - org: gazprom-neft
+      role: chairman
+      from: 2006
+      note: Chairman Board
+    - org: gazprombank
+      role: chairman
+      from: 2001
+      note: Chairman Board
+    relations:
+    - person: vladimir-putin
+      type: patron
+      note: Deputy under Putin St Petersburg 1991-96, appointed by Putin to Gazprom 2001
   alfred-dupont:
     born: 1864
     died: 1935
@@ -597,12 +693,31 @@ persons:
     born: 1949
     nationality: USA
     family: walton
+  alina-kabaeva:
+    born: 1983
+    nationality: RUS
+    note: Olympic gymnast, NMG chairwoman, rumored Putin partner
+    affiliations:
+    - org: national-media-group
+      role: chairman
+      from: 2014
+      note: Chairwoman Board of Directors
   alina-mungiu-pippidi:
     nationality: ROU
     affiliations:
     - org: open-society-romania
       role: board
       note: Board member
+  alistair-darling:
+    born: 1953
+    died: 2023
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2007
+      to: 2010
+      note: Chancellor of the Exchequer
   alja-brglez:
     born: 1965
     nationality: SVN
@@ -725,6 +840,16 @@ persons:
       from: 2021
       to: 2024
       note: Co-owner 10% via PCP Capital Partners, poi 6%, exit luglio 2024
+  amber-rudd:
+    born: 1963
+    nationality: GBR
+    affiliations:
+    - org: rusi
+      role: board
+      note: Trustee; former Home Secretary
+    - org: darktrace
+      role: advisor
+      note: Advisory Board, ex Home Secretary
   amos-genish:
     nationality: ISR
     affiliations:
@@ -763,6 +888,59 @@ persons:
     relations:
     - person: emilio-botin
       type: daughter
+  anatoly-chubais:
+    born: 1955
+    nationality: RUS-ISR
+    note: Privatization architect, Davos Pact chairman, fled Russia 2022
+    affiliations:
+    - org: wef
+      role: member
+      from: 1996
+      to: 2022
+      note: Davos Pact 1996, Executive Commission 2015-2018, regular participant
+    - org: governo-russia
+      role: minister
+      from: 1991
+      to: 2022
+      note: Privatization Minister 1991-94, Chief of Staff 1996-97, First Deputy PM/Finance Minister 1997-98, Presidential
+        Envoy 2020-22
+    - org: rao-ues
+      role: chairman
+      from: 1998
+      to: 2008
+      note: Chairman of the Board, oversaw $30B privatization and dissolution
+    - org: rusnano
+      role: executive
+      from: 2008
+      to: 2020
+      note: CEO/General Manager, nanotechnology investments
+    relations:
+    - person: anatoly-sobchak
+      type: mentor
+      note: Chief Economic Advisor to Sobchak 1991
+    - person: mikhail-khodorkovsky
+      type: colleague
+      note: Davos Pact 1996, Yukos
+    - person: valentin-yumashev
+      type: colleague
+      note: Chubais predecessor as Chief of Staff, both in The Family
+    - person: vladimir-gusinsky
+      type: colleague
+      note: Davos Pact 1996, media oligarch NTV
+    - person: vladimir-potanin
+      type: colleague
+      note: Davos Pact 1996, loans-for-shares architect, Onexim
+    - person: vladimir-putin
+      type: colleague
+      note: Both worked for Sobchak in St. Petersburg, later rivals
+    - person: yegor-gaidar
+      type: colleague
+      note: Partners in shock therapy/privatization reforms
+  anatoly-sobchak:
+    born: 1937
+    died: 2000
+    nationality: RUS
+    note: Mayor St. Petersburg 1991-96, mentor to Putin and Chubais
   anders-opedal:
     born: 1968
     nationality: NOR
@@ -1059,6 +1237,9 @@ persons:
       from: 1921
       to: 1932
       note: Secretary of Treasury sotto Harding, Coolidge, Hoover
+  andrew-stein:
+    born: 1945
+    nationality: USA
   andrey-guryev:
     born: 1982
     nationality: RUS
@@ -1067,6 +1248,22 @@ persons:
     - org: wef
       role: ygl
       from: 2021
+  andrey-kostin:
+    born: 1956
+    nationality: RUS
+    affiliations:
+    - org: wef
+      role: glt
+      from: 1999
+      note: Global Leader for Tomorrow
+    - org: vtb-bank
+      role: executive
+      from: 2002
+      note: President and Chairman of the Board
+    - org: united-shipbuilding-corporation
+      role: chairman
+      from: 2023
+      note: Chairman of the Board
   andrius-kubilius:
     born: 1956
     nationality: LTU
@@ -1184,6 +1381,25 @@ persons:
       role: chairman
       from: 2003
       note: Director since 1981, Chairman 2003
+  anthony-barnett:
+    born: 1942
+    nationality: GBR
+    affiliations:
+    - org: opendemocracy
+      role: founder
+      from: 2001
+      to: 2023
+      note: Founding editor-in-chief 2001-07, Board member 1999-2023, Honorary President
+    - org: charter-88
+      role: founder
+      from: 1988
+      to: 1995
+      note: First Director
+    - org: new-left-review
+      role: board
+      from: 1965
+      to: 1983
+      note: Editorial Committee
   antigone-loudiadis:
     nationality: GRC
     affiliations:
@@ -1234,6 +1450,18 @@ persons:
     relations:
     - person: johann-rupert
       type: father
+  anton-siluanov:
+    born: 1963
+    nationality: RUS
+    note: Finance Minister 2011-, Chairman Supervisory Board Sberbank
+    affiliations:
+    - org: governo-russia
+      role: minister
+      from: 2011
+      note: Finance Minister
+    - org: sberbank
+      role: chairman
+      note: Chairman Supervisory Board
   antonio-angelucci:
     born: 1946
     nationality: ITA
@@ -1333,6 +1561,41 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  arkady-rotenberg:
+    born: 1951
+    nationality: RUS
+    note: Putin judo partner, Stroygazmontazh founder, Crimea bridge builder, Hero of Labor
+    affiliations:
+    - org: gazprom
+      role: partner
+      from: 2008
+      note: Major contractor, billions in contracts
+    - org: stroygazmontazh
+      role: founder
+      from: 2008
+      to: 2019
+      note: Sold to Gazstroyprom; built Crimea bridge
+    - org: smp-bank
+      role: founder
+      note: Co-owner with brother Boris
+    - org: russian-judo-federation
+      role: executive
+      note: Vice President
+    - org: dynamo-moscow-hockey
+      role: chairman
+      from: 2012
+      note: President
+    relations:
+    - person: boris-rotenberg
+      type: sibling
+    - person: igor-rotenberg
+      type: parent
+      note: Transferred assets post-sanctions
+    - person: liliya-rotenberg
+      type: parent
+    - person: vladimir-putin
+      type: friend
+      note: Childhood friend, judo sparring partner since 1963
   armand-hartono:
     born: 1975
     nationality: IDN
@@ -1379,6 +1642,14 @@ persons:
     - org: apple
       role: chairman
       from: 2011
+  arthur-wellesley-9th-duke:
+    born: 1945
+    nationality: GBR
+    affiliations:
+    - org: rusi
+      role: chairman
+      from: 2025
+      note: Chair of RUSI
   arzuhan-yalcindag:
     nationality: TUR
     note: CEO Kanal D
@@ -1469,6 +1740,11 @@ persons:
     - org: wef
       role: ygl
       from: 2012
+  badri-patarkatsishvili:
+    born: 1955
+    died: 2008
+    nationality: GEO
+    note: Georgian oligarch, LogoVAZ co-founder with Berezovsky, ORT
   barack-obama:
     born: 1961
     nationality: USA
@@ -1782,6 +2058,17 @@ persons:
       from: 2007
       to: 2010
       note: Min. Esteri (dal PS, fondatore MSF)
+  bernard-looney:
+    born: 1970
+    nationality: IRL
+    affiliations:
+    - org: bilderberg
+      role: member
+    - org: bp
+      role: executive
+      from: 2020
+      to: 2023
+      note: CEO
   bernhard-lippe-biesterfeld:
     born: 1911
     died: 2004
@@ -1962,6 +2249,23 @@ persons:
       role: chairman
       from: 2021
       to: 2024
+  bob-diamond:
+    nationality: USA
+    affiliations:
+    - org: barclays
+      role: executive
+      from: 2011
+      to: 2012
+      note: Group CEO - resigned after LIBOR scandal
+  bob-dudley:
+    born: 1955
+    nationality: USA
+    affiliations:
+    - org: bp
+      role: executive
+      from: 2010
+      to: 2020
+      note: CEO
   bob-sternfels:
     born: 1966
     nationality: USA
@@ -2072,6 +2376,57 @@ persons:
       role: board
       to: 2013
       note: Board Member (resigned when became Foreign Minister)
+  boris-berezovsky:
+    born: 1946
+    died: 2013
+    nationality: RUS
+    note: Oligarch, Davos Pact, The Family, died London
+    affiliations:
+    - org: governo-russia
+      role: advisor
+      from: 1996
+      to: 1997
+      note: Deputy Secretary Security Council, Chechnya envoy
+    - org: sibneft
+      role: board
+      from: 1996
+      note: Co-owner with Abramovich, acquired for $100M in loans-for-shares
+    - org: logovaz
+      role: founder
+      from: 1989
+      note: Co-founder with Badri Patarkatsishvili, Chairman 1994
+    - org: ort
+      role: board
+      from: 1995
+      to: 2000
+      note: 49% stake, key Yeltsin 1996 campaign propaganda
+    - org: aeroflot
+      role: board
+      from: 1996
+      to: 1999
+      note: Board member, control via Forus Services
+    relations:
+    - person: alexander-litvinenko
+      type: patron
+      note: FSB defector, funded by Berezovsky in London exile
+    - person: anatoly-chubais
+      type: colleague
+      note: Davos Pact 1996, ORT, later rivals after Berezovsky removal from Security Council
+    - person: badri-patarkatsishvili
+      type: partner
+      note: LogoVAZ co-founder, ORT partner, lifelong business partner
+    - person: mikhail-khodorkovsky
+      type: colleague
+      note: Davos Pact 1996, Yukos
+    - person: vladimir-gusinsky
+      type: colleague
+      note: Rival turned ally for Davos Pact 1996, NTV
+    - person: vladimir-potanin
+      type: colleague
+      note: Davos Pact 1996, Onexim
+    - person: vladimir-putin
+      type: colleague
+      note: Early ally, helped LogoVAZ in St. Petersburg, later enemy
   boris-biancheri:
     died: 2011
     nationality: ITA
@@ -2082,6 +2437,20 @@ persons:
       from: 1997
       to: 2011
       note: President - revitalized institute
+  boris-johnson:
+    born: 1964
+    nationality: GBR-USA
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 2019
+      to: 2022
+      note: Prime Minister
+    - org: governo-uk
+      role: minister
+      from: 2016
+      to: 2018
+      note: Foreign Secretary
   boris-pistorius:
     born: 1960
     nationality: DEU
@@ -2091,15 +2460,63 @@ persons:
       role: minister
       from: 2023
       note: Defense Minister
+  boris-rotenberg:
+    born: 1957
+    nationality: RUS-FIN
+    note: Putin judo partner, Russian Judo Fed President, Jokerit/Hartwall Arena
+    affiliations:
+    - org: stroygazmontazh
+      role: founder
+      from: 2008
+      to: 2019
+      note: Co-owner with Arkady
+    - org: smp-bank
+      role: founder
+      from: 2001
+      note: Co-founder with Arkady
+    - org: russian-judo-federation
+      role: chairman
+      note: President
+    - org: fc-dynamo-moscow
+      role: chairman
+      from: 2013
+      to: 2015
+      note: President
+    - org: jokerit
+      role: board
+      from: 2013
+      to: 2014
+      note: Via Arena Events, sold to son Roman
+    relations:
+    - person: roman-rotenberg
+      type: parent
+      note: Transferred Arena Events/Jokerit stake
+    - person: vladimir-putin
+      type: friend
+      note: Judo partner since 1968
   boris-yeltsin:
     born: 1931
     died: 2007
     nationality: RUS
+    note: First President of Russia 1991-1999. Dissolved USSR. Shock therapy privatization. Davos Pact 1996.
     affiliations:
+    - org: wef
+      role: speaker
+      from: 1996
+      note: Davos Pact 1996
     - org: governo-russia
       role: leader
       from: 1991
       to: 1999
+    relations:
+    - person: anatoly-chubais
+      type: colleague
+    - person: boris-berezovsky
+      type: patron
+    - person: tatyana-yumasheva
+      type: parent
+    - person: valentin-yumashev
+      type: colleague
   brad-smith:
     nationality: USA
     affiliations:
@@ -2154,6 +2571,41 @@ persons:
       role: chairman
       from: 2023
       note: Board Chair
+  brian-moynihan:
+    born: 1959
+    nationality: USA
+    affiliations:
+    - org: wef
+      role: chairman
+      note: Chairman, International Business Council
+    - org: federal-reserve
+      role: advisor
+      note: Federal Advisory Council member
+    - org: bank-of-america
+      role: executive
+      from: 2010
+      note: Chairman & CEO
+    - org: business-roundtable
+      role: member
+      note: Member
+    - org: bank-policy-institute
+      role: chairman
+      note: Chair
+    - org: council-inclusive-capitalism
+      role: steering
+      from: 2020
+      note: Guardian - Bank of America CEO
+    - org: financial-services-forum
+      role: member
+      note: Member
+    - org: sustainable-markets-initiative
+      role: chairman
+      from: 2020
+      note: Chair
+    - org: brown-university
+      role: chairman
+      from: 2024
+      note: Chancellor
   brian-roberts:
     born: 1959
     nationality: USA
@@ -2169,6 +2621,14 @@ persons:
       role: executive
       from: 2021
       note: Founding CEO
+  bronwen-maddox:
+    born: 1963
+    nationality: USA-GBR
+    affiliations:
+    - org: chatham-house
+      role: executive
+      from: 2022
+      note: Director & CEO
   bruce-karsh:
     born: 1955
     nationality: USA
@@ -2178,6 +2638,14 @@ persons:
       role: founder
       from: 1995
       note: Co-founder, Co-Chairman, CIO
+  brunello-cucinelli:
+    born: 1953
+    nationality: ITA
+    affiliations:
+    - org: council-inclusive-capitalism
+      role: steering
+      from: 2020
+      note: Guardian - Brunello Cucinelli S.p.A.
   bud-walton:
     born: 1921
     died: 1995
@@ -2199,6 +2667,22 @@ persons:
       from: 2004
       to: 2008
       note: Primo Ministro
+  carl-henric-svanberg:
+    nationality: SWE
+    affiliations:
+    - org: bilderberg
+      role: member
+    - org: bp
+      role: chairman
+      from: 2010
+      to: 2018
+  carl-thoma:
+    nationality: USA
+    affiliations:
+    - org: thoma-bravo
+      role: founder
+      from: 2008
+      note: Co-founder, Managing Partner
   carl-wurster:
     born: 1900
     died: 1974
@@ -2966,6 +3450,16 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  clement-attlee:
+    born: 1883
+    died: 1967
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1945
+      to: 1951
+      note: Prime Minister
   cofer-black:
     born: 1950
     nationality: USA
@@ -3039,6 +3533,17 @@ persons:
       role: founder
       from: 1994
       note: Founder, Chairperson
+  conrad-black:
+    born: 1944
+    nationality: CAN-GBR
+    affiliations:
+    - org: telegraph-group
+      role: chairman
+      from: 1986
+      to: 2004
+    - org: hollinger
+      role: executive
+      note: CEO, forced out 2003-2004
   constant-janssen:
     born: 1895
     died: 1970
@@ -3130,6 +3635,19 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  cs-venkatakrishnan:
+    born: 1966
+    nationality: USA-IND
+    affiliations:
+    - org: jpmorgan
+      role: executive
+      from: 1994
+      to: 2016
+      note: CIO Global Fixed Income ($200B AUM)
+    - org: barclays
+      role: executive
+      from: 2021
+      note: Group CEO (CRO 2016-2020)
   cyrille-bollore:
     born: 1986
     nationality: FRA
@@ -3267,6 +3785,17 @@ persons:
       role: executive
       from: 2021
       note: CEO, riconfermato 2024
+  darren-walker:
+    nationality: USA
+    affiliations:
+    - org: council-inclusive-capitalism
+      role: steering
+      from: 2020
+      note: Guardian - Ford Foundation President
+    - org: ford-foundation
+      role: executive
+      from: 2013
+      note: President
   david-abshire:
     born: 1926
     died: 2014
@@ -3276,10 +3805,24 @@ persons:
       role: founder
       from: 1962
       note: Co-founder
+  david-barclay:
+    born: 1934
+    died: 2021
+    nationality: GBR
+    affiliations:
+    - org: telegraph-group
+      role: chairman
+      from: 2004
+      to: 2021
+      note: Via Press Holdings, died 2021
   david-cameron:
     born: 1966
     nationality: GBR
     affiliations:
+    - org: bilderberg
+      role: member
+      from: 2013
+      note: PM host Watford 2013
     - org: wef
       role: member
     - org: governo-uk
@@ -3297,6 +3840,50 @@ persons:
       from: 2018
       to: 2021
       note: Lobbying scandal
+    - org: afiniti
+      role: chairman
+      from: 2019
+      to: 2021
+      note: Advisory Board Chairman
+    - org: illumina
+      role: advisor
+      from: 2018
+      note: Vice Chairman International Advisory Board
+    - org: first-data
+      role: advisor
+      from: 2017
+      to: 2019
+      note: Consultant Brand Ambassador
+    - org: carlton-communications
+      role: executive
+      from: 1994
+      to: 2001
+      note: Director Corporate Affairs
+    - org: conservative-party-uk
+      role: leader
+      from: 2005
+      to: 2016
+      note: Party Leader
+    - org: house-of-lords
+      role: member
+      from: 2023
+      note: Baron Cameron of Chipping Norton
+    relations:
+    - person: boris-johnson
+      type: colleague
+      note: Bullingdon Club, successore come PM
+    - person: george-osborne
+      type: colleague
+      note: Bullingdon Club, Chancellor 2010-2016
+    - person: lex-greensill
+      type: business
+      note: Greensill Capital scandal
+    - person: rebekah-brooks
+      type: social
+      note: Chipping Norton set
+    - person: rishi-sunak
+      type: political
+      note: Lobbying target, poi nominato Foreign Sec
   david-cohen:
     born: 1963
     nationality: USA
@@ -3356,6 +3943,23 @@ persons:
     - person: katharine-gun
       type: contemporary
       note: Both exposed aspects of Iraq war justification 2003
+  david-lammy:
+    born: 1972
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2024
+      note: Foreign Secretary
+  david-lidington:
+    born: 1956
+    nationality: GBR
+    affiliations:
+    - org: rusi
+      role: chairman
+      from: 2020
+      to: 2025
+      note: Chair of RUSI
   david-lloyd-george:
     born: 1863
     died: 1945
@@ -3377,6 +3981,19 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  david-mayer-de-rothschild:
+    born: 1978
+    nationality: GBR
+    family: rothschild
+  david-miliband:
+    born: 1965
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2007
+      to: 2010
+      note: Foreign Secretary
   david-petraeus:
     born: 1952
     nationality: USA
@@ -3452,6 +4069,12 @@ persons:
     - org: moderna
       role: board
       note: Board member, Co-founder Carlyle Group
+  david-willetts:
+    nationality: GBR
+    affiliations:
+    - org: darktrace
+      role: board
+      note: Board of Directors, ex Universities/Science Minister
   davide-melzi-d-eril:
     nationality: ITA
     affiliations:
@@ -3579,6 +4202,45 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader, Goldman Sachs
+  dmitry-medvedev:
+    born: 1965
+    nationality: RUS
+    affiliations:
+    - org: governo-russia
+      role: president
+      from: 2008
+      to: 2012
+      note: Presidente (tandemocracy con Putin PM)
+    - org: security-council-russia
+      role: member
+      from: 2020
+      note: Vice Presidente Security Council
+  dmitry-patrushev:
+    born: 1977
+    nationality: RUS
+    affiliations:
+    - org: governo-russia
+      role: minister
+      from: 2024
+      note: Vice Primo Ministro, agricoltura
+    - org: gazprom
+      role: board
+      from: 2016
+      to: 2021
+    - org: vtb-bank
+      role: executive
+      from: 2004
+      to: 2010
+      note: Senior Vice President
+  dominic-raab:
+    born: 1974
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2019
+      to: 2021
+      note: Foreign Secretary
   dominique-de-villepin:
     born: 1953
     nationality: FRA
@@ -3720,6 +4382,12 @@ persons:
     - org: walmart
       role: executive
       from: 2014
+  douglas-flint:
+    nationality: GBR
+    affiliations:
+    - org: hakluyt
+      role: advisor
+      note: International Advisory Board; former Chairman HSBC
   dustin-moskovitz:
     born: 1984
     nationality: USA
@@ -3855,6 +4523,16 @@ persons:
       role: ygl
       from: 2011
       note: Young Leader 2011, Prime Minister
+  edward-heath:
+    born: 1916
+    died: 2005
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1970
+      to: 1974
+      note: Prime Minister
   edward-snowden:
     born: 1983
     nationality: USA
@@ -4003,7 +4681,7 @@ persons:
       note: Primo Ministro
   elisabeth-murdoch:
     born: 1968
-    nationality: USA
+    nationality: GBR-USA
     family: murdoch
   elizabeth-ii:
     born: 1926
@@ -4516,6 +5194,53 @@ persons:
     died: 2022
     nationality: GBR
     family: rothschild
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Attended 1998 Scotland (where met Lynn)
+    - org: the-economist
+      role: chairman
+      from: 1972
+      to: 1989
+    - org: de-beers
+      role: board
+      from: 1977
+      to: 1994
+    - org: ibm
+      role: board
+      from: 1972
+      to: 1995
+      note: IBM UK Holdings
+    - org: nm-rothschild
+      role: chairman
+      from: 1976
+      to: 2003
+      note: Chairman & CEO
+    - org: el-rothschild
+      role: founder
+      from: 2003
+      to: 2022
+      note: Co-founder with Lynn
+    - org: lse
+      role: board
+      note: Governor
+    relations:
+    - person: david-mayer-de-rothschild
+      type: parent
+    - person: elizabeth-ii
+      type: advisor
+      note: Financial advisor to the Queen
+    - person: jacob-rothschild
+      type: cousin
+      note: Both great-great-grandsons of Nathan Mayer Rothschild
+  evgeny-kiselev:
+    nationality: RUS
+    note: NTV journalist and anchor, now in Ukraine
+    affiliations:
+    - org: ntv
+      role: executive
+      from: 1993
+      to: 2001
   ezra-suleiman:
     born: 1941
     died: 2021
@@ -5246,6 +5971,15 @@ persons:
     - org: wef
       role: ygl
       from: 2022
+  frederick-barclay:
+    born: 1934
+    nationality: GBR
+    affiliations:
+    - org: telegraph-group
+      role: chairman
+      from: 2004
+      to: 2023
+      note: Via Press Holdings, lost control to Lloyds
   frederick-kempe:
     nationality: USA
     affiliations:
@@ -5440,6 +6174,55 @@ persons:
     born: 1967
     nationality: USA
     note: Governatore California
+  gennady-timchenko:
+    born: 1952
+    nationality: RUS-FIN
+    note: Gunvor co-founder, Novatek shareholder, Putin judo friend
+    affiliations:
+    - org: bank-rossiya
+      role: board
+      note: ~10% shareholder
+    - org: volga-group
+      role: founder
+      from: 2007
+      note: Founder and owner
+    - org: novatek
+      role: board
+      from: 2009
+      note: 23.5% shareholder via Volga Group
+    - org: sibur
+      role: board
+      from: 2010
+      note: 17% shareholder
+    - org: gunvor
+      role: founder
+      from: 1997
+      to: 2014
+      note: Co-founder, sold 43.5% stake before sanctions
+    - org: ska-saint-petersburg
+      role: chairman
+      from: 2011
+      note: Chairman Board and President
+    - org: khl
+      role: chairman
+      from: 2012
+      note: Chairman Board of Directors
+    relations:
+    - person: arkady-rotenberg
+      type: colleague
+      note: Fellow Putin judo partner, KHL/hockey business
+    - person: boris-rotenberg
+      type: colleague
+      note: Fellow Putin judo partner, Jokerit co-owner
+    - person: leonid-mikhelson
+      type: colleague
+      note: Novatek and Sibur co-investors
+    - person: vladimir-putin
+      type: friend
+      note: Judo partner since early 1990s, received oil export license 1991
+    - person: yuri-kovalchuk
+      type: colleague
+      note: Bank Rossiya shareholders, Putin inner circle
   george-hw-bush:
     born: 1924
     died: 2018
@@ -5470,6 +6253,15 @@ persons:
       from: 1949
       to: 1949
       note: Forni lista 38 nomi crypto-comunisti
+  george-osborne:
+    born: 1971
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2010
+      to: 2016
+      note: Chancellor of the Exchequer
   george-p-bush:
     born: 1976
     nationality: USA
@@ -5623,11 +6415,40 @@ persons:
     - org: gazprom
       role: board
       from: 2022
-      note: Nominato supervisory board (declinato dopo invasione)
+      note: Nominato supervisory board 2022, declined after invasion; strong Russia ties
+    - org: nord-stream
+      role: chairman
+      from: 2005
+      to: 2022
+      note: Chairman Nord Stream AG, resigned after invasion
     relations:
     - person: vladimir-putin
       type: friend
       note: Personal friendship, energy deals
+  german-gref:
+    born: 1964
+    nationality: RUS
+    note: CEO Sberbank dal 2007, ex Ministro Economia 2000-2007, St Petersburg connection
+    affiliations:
+    - org: wef
+      role: speaker
+      note: Davos speaker, advocated state stake reduction in Russian banks
+    - org: governo-russia
+      role: minister
+      from: 2000
+      to: 2007
+      note: Minister of Economy and Trade, Gref Plan (flat tax 13%, land reform)
+    - org: sberbank
+      role: executive
+      from: 2007
+      note: CEO and Chairman Executive Board
+    relations:
+    - person: dmitry-medvedev
+      type: colleague
+      note: St Petersburg colleagues
+    - person: vladimir-putin
+      type: ally
+      note: St Petersburg colleagues 1990s, Putin made Gref Minister 2000
   gerry-cardinale:
     born: 1967
     nationality: USA
@@ -6028,6 +6849,20 @@ persons:
       from: 1990
       to: 2004
       note: Prime Minister
+  gordon-brown:
+    born: 1951
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 2007
+      to: 2010
+      note: Prime Minister
+    - org: governo-uk
+      role: minister
+      from: 1997
+      to: 2007
+      note: Chancellor of the Exchequer
   grand-duchess-charlotte:
     born: 1896
     died: 1985
@@ -6325,6 +7160,26 @@ persons:
     - org: usines-gustave-boel
       role: executive
       note: early career
+  harold-macmillan:
+    born: 1894
+    died: 1986
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1957
+      to: 1963
+      note: Prime Minister
+  harold-wilson:
+    born: 1916
+    died: 1995
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1964
+      to: 1970
+      note: Prime Minister (1st term)
   harry-dexter-white:
     born: 1892
     died: 1948
@@ -6367,6 +7222,13 @@ persons:
       role: founder
       from: 1972
       note: Co-founder, Chairman 2003-2024
+  helen-clark:
+    born: 1950
+    nationality: NZL
+    affiliations:
+    - org: chatham-house
+      role: board
+      note: President
   helge-lund:
     born: 1962
     nationality: NOR
@@ -6747,6 +7609,12 @@ persons:
       role: founder
       from: 1995
       note: Co-founder, Co-Chairman
+  iain-lobban:
+    nationality: GBR
+    affiliations:
+    - org: hakluyt
+      role: advisor
+      note: International Advisory Board; former GCHQ Director
   ian-bremmer:
     born: 1969
     nationality: USA
@@ -6882,6 +7750,42 @@ persons:
       from: 2019
       to: 2023
       note: CEO
+  igor-malashenko:
+    nationality: RUS
+    note: NTV co-founder, Yeltsin campaign advisor 1996
+    affiliations:
+    - org: ntv
+      role: founder
+      from: 1993
+      to: 2001
+  igor-rotenberg:
+    born: 1974
+    nationality: RUS
+    note: Son of Arkady, Gazprom Burenie owner
+  igor-sechin:
+    born: 1960
+    nationality: RUS
+    note: Rosneft CEO, Putin de facto deputy, siloviki leader, 2nd most powerful man Russia
+    affiliations:
+    - org: governo-russia
+      role: minister
+      from: 2008
+      to: 2012
+      note: Deputy Prime Minister
+    - org: rosneft
+      role: executive
+      from: 2004
+      note: Chairman board 2004-2011, CEO/President 2012-, contract renewed 2025
+    relations:
+    - person: mikhail-khodorkovsky
+      type: rival
+      note: Sechin orchestrated Yukos dismantlement and Khodorkovsky arrest 2003
+    - person: rex-tillerson
+      type: business
+      note: Partnership ExxonMobil-Rosneft, Arctic deal
+    - person: vladimir-putin
+      type: patron
+      note: Chief of staff under Putin St Petersburg 1994, de facto deputy, siloviki leader
   ilham-kadri:
     nationality: FRA
     affiliations:
@@ -6932,6 +7836,10 @@ persons:
       from: 2000
       to: 2004
       note: Presidente della Romania (2° mandato)
+  irina-vedeneeva:
+    born: 1962
+    nationality: RUS
+    note: Journalist, first wife of Valentin Yumashev, mother of Polina
   irineu-marinho:
     born: 1876
     died: 1925
@@ -7053,6 +7961,13 @@ persons:
       role: leader
       from: 2017
       to: 2023
+  jack-straw:
+    born: 1946
+    nationality: GBR
+    affiliations:
+    - org: rusi
+      role: board
+      note: Trustee; former Foreign Secretary
   jacob-rothschild:
     born: 1936
     died: 2024
@@ -7269,12 +8184,31 @@ persons:
     - org: carlyle-group
       role: advisor
       note: Senior Counsellor, Asia/Europe Advisory Boards
+  james-callaghan:
+    born: 1912
+    died: 2005
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1976
+      to: 1979
+      note: Prime Minister
   james-chin-moody:
     nationality: AUS
     note: WEF Global Agenda Council
     affiliations:
     - org: wef
       role: ygl
+  james-cleverly:
+    born: 1969
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2022
+      to: 2023
+      note: Foreign Secretary
   james-l-jones:
     nationality: USA
     affiliations:
@@ -7316,6 +8250,15 @@ persons:
     died: 1969
     nationality: USA
     family: warburg
+  james-wilson:
+    born: 1805
+    died: 1860
+    nationality: GBR
+    affiliations:
+    - org: the-economist
+      role: founder
+      from: 1843
+      to: 1860
   james-wolfensohn:
     born: 1933
     died: 2020
@@ -7792,6 +8735,18 @@ persons:
       from: 2011
       to: 2021
       note: President
+  jeremy-clarkson:
+    born: 1960
+    nationality: GBR
+  jeremy-hunt:
+    born: 1966
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2022
+      to: 2024
+      note: Chancellor of the Exchequer
   jeremy-weir:
     born: 1964
     nationality: AUS
@@ -7867,6 +8822,31 @@ persons:
       role: partner
       from: 1997
       to: 2005
+  jes-staley:
+    born: 1956
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: member
+    - org: jpmorgan
+      role: executive
+      to: 2013
+      note: Head of Private Banking, CEO JP Morgan Investment Bank
+    - org: barclays
+      role: executive
+      from: 2015
+      to: 2021
+      note: Group CEO - resigned over Epstein links
+    - org: ubs
+      role: board
+      from: 2015
+      to: 2015
+      note: Board member - resigned to join Barclays
+    - org: bluemountain-capital
+      role: partner
+      from: 2013
+      to: 2015
+      note: Managing Partner
   jesus-encinar:
     nationality: ESP
     affiliations:
@@ -8158,9 +9138,10 @@ persons:
     - org: stellantis
       role: chairman
       from: 2021
-    - org: economist
-      role: chairman
+    - org: the-economist
+      role: board
       from: 2009
+      note: Board member, Exor holds 43.4% stake
     - org: gedi
       role: owner
       from: 2020
@@ -8248,6 +9229,18 @@ persons:
       note: pm
     - org: jpmorgan-international-council
       role: member
+  john-major:
+    born: 1943
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1990
+      to: 1997
+      note: Prime Minister
+    - org: chatham-house
+      role: board
+      note: President Emeritus
   john-maynard-keynes:
     born: 1883
     died: 1946
@@ -8304,6 +9297,14 @@ persons:
     - org: equinor
       role: chairman
       note: Strategy Advisory Council
+  john-varley:
+    nationality: GBR
+    affiliations:
+    - org: barclays
+      role: executive
+      from: 2004
+      to: 2011
+      note: Group CEO
   joko-widodo:
     born: 1961
     nationality: IDN
@@ -8343,6 +9344,21 @@ persons:
       role: leader
       from: 2021
       note: Prime Minister
+  jonathan-evans:
+    nationality: GBR
+    affiliations:
+    - org: mi5
+      role: executive
+      note: Director General
+    - org: darktrace
+      role: advisor
+      note: Advisory Board, ex Director General MI5
+  jonathan-eyal:
+    nationality: GBR
+    affiliations:
+    - org: rusi
+      role: executive
+      note: Executive Director RUSI Europe
   jonathan-greenblatt:
     born: 1971
     nationality: USA
@@ -8393,6 +9409,9 @@ persons:
     - org: daily-mail
       role: chairman
       from: 1998
+    - org: dmgt
+      role: chairman
+      note: 4th Viscount Rothermere
   jonathan-symonds:
     nationality: GBR
     note: ex-CFO Novartis AND AstraZeneca
@@ -8806,6 +9825,14 @@ persons:
     - org: glencore
       role: chairman
       from: 2021
+  karin-von-hippel:
+    nationality: USA
+    affiliations:
+    - org: rusi
+      role: executive
+      from: 2016
+      to: 2024
+      note: Director-General
   karl-ludwig-kley:
     born: 1951
     nationality: DEU
@@ -8859,6 +9886,10 @@ persons:
     - person: allen-dulles
       type: negotiator
       note: Operation Sunrise - secret surrender Italy
+  katerina-tikhonova:
+    born: 1986
+    nationality: RUS
+    note: Daughter of Putin, tech executive
   katharina-amann:
     nationality: DEU
     affiliations:
@@ -8932,6 +9963,13 @@ persons:
       role: board
       from: 2020
       note: Board of Directors
+  keith-craig:
+    nationality: GBR
+    affiliations:
+    - org: hakluyt
+      role: executive
+      from: 2005
+      note: Managing Director
   keith-murdoch:
     born: 1885
     died: 1952
@@ -9030,6 +10068,17 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  kirill-kovalchuk:
+    nationality: RUS
+    note: Nephew of Yuri, NMG President
+    affiliations:
+    - org: national-media-group
+      role: executive
+      note: President
+  kirill-shamalov:
+    born: 1982
+    nationality: RUS
+    note: Son of Nikolai Shamalov, ex-husband of Katerina Tikhonova
   kirsty-coventry:
     born: 1983
     nationality: ZWE
@@ -9315,6 +10364,15 @@ persons:
     - org: gdp-venture
       role: executive
       note: COO
+  kwasi-kwarteng:
+    born: 1975
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2022
+      to: 2022
+      note: Chancellor of the Exchequer (38 days)
   kyriakos-mitsotakis:
     born: 1968
     nationality: GRC
@@ -9773,6 +10831,10 @@ persons:
     - person: francesco-milleri
       type: business_partner
       note: Milleri successore come Chairman Delfin e CEO EssilorLuxottica
+  leonid-mikhelson:
+    born: 1955
+    nationality: RUS
+    note: Novatek CEO, Sibur co-owner with Timchenko
   leopold-i-belgium:
     born: 1790
     died: 1865
@@ -9815,6 +10877,9 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  lex-greensill:
+    born: 1976
+    nationality: AUS
   li-hongyi:
     born: 1987
     nationality: SGP
@@ -9874,6 +10939,44 @@ persons:
       from: 1957
       to: 2017
       note: Controlling shareholder
+  liliya-rotenberg:
+    born: 1978
+    nationality: RUS
+    note: Daughter of Arkady, doctor, TPS Nedvizhimost
+  lim-boon-heng:
+    born: 1947
+    nationality: SGP
+    affiliations:
+    - org: wef
+      role: member
+      note: Attendee, PAA-WEF strategic partnership
+    - org: temasek
+      role: chairman
+      from: 2013
+      to: 2025
+      note: Chairman (stepped down Oct 2025)
+    - org: governo-singapore
+      role: minister
+      from: 1993
+      to: 2011
+      note: Minister PMO, PAP Chairman 2004-2011
+    - org: council-inclusive-capitalism
+      role: steering
+      from: 2020
+      note: Guardian - Temasek Chairman
+    - org: ntuc
+      role: executive
+      from: 1993
+      to: 2006
+      note: Secretary-General (13 anni)
+    - org: ntuc-enterprise
+      role: chairman
+      from: 2012
+      to: 2025
+      note: Chairman (retired Oct 2025, Income-Allianz saga)
+    - org: philanthropy-asia-alliance
+      role: chairman
+      note: Chairman
   lionel-jospin:
     born: 1937
     nationality: FRA
@@ -9912,6 +11015,20 @@ persons:
       role: board
       from: 1999
       note: Honorary Board of Trustees
+  liz-truss:
+    born: 1975
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 2022
+      to: 2022
+      note: Prime Minister (45 days)
+    - org: governo-uk
+      role: minister
+      from: 2021
+      to: 2022
+      note: Foreign Secretary
   lord-carrington:
     born: 1919
     died: 2018
@@ -10225,6 +11342,50 @@ persons:
       role: executive
       from: 2017
       note: CCO, CEO from Jan 2026
+  lynn-forester-de-rothschild:
+    born: 1954
+    nationality: USA-GBR
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 1998
+      note: Met Evelyn Rothschild at 1998 conference
+    - org: cfr
+      role: member
+    - org: governo-usa
+      role: advisor
+      from: 1993
+      to: 2000
+      note: National Information Infrastructure Advisory Council (Clinton)
+    - org: the-economist
+      role: board
+      note: Board member, family holds 26.7% stake
+    - org: chatham-house
+      role: member
+    - org: council-inclusive-capitalism
+      role: founder
+      from: 2020
+      note: Founder and CEO
+    - org: el-rothschild
+      role: executive
+      from: 2003
+      note: CEO, Co-founder with Evelyn
+    - org: mccain-institute
+      role: board
+    - org: coalition-inclusive-capitalism
+      role: founder
+      from: 2015
+      note: Founding CEO
+    relations:
+    - person: andrew-stein
+      type: ex-spouse
+      note: 'Two children: Ben, Jake'
+    - person: evelyn-rothschild
+      type: spouse
+      note: Third wife
+    - person: henry-kissinger
+      type: mentor
+      note: Introduced Lynn to Evelyn at Bilderberg 1998
   mabel-van-oranje:
     born: 1968
     nationality: NLD
@@ -10299,6 +11460,13 @@ persons:
       role: chairman
       from: 1991
       note: President
+  malcolm-rifkind:
+    born: 1946
+    nationality: GBR
+    affiliations:
+    - org: rusi
+      role: member
+      note: Fellow; former Foreign Secretary
   mamuka-bakhtadze:
     born: 1982
     nationality: GEO
@@ -10311,6 +11479,8 @@ persons:
       from: 2018
       to: 2019
       note: Finance Minister
+  manfred-schlickenrieder:
+    nationality: DEU
   mansoor-al-mahmoud:
     nationality: QAT
     affiliations:
@@ -10331,6 +11501,9 @@ persons:
       role: founder
       from: 2008
       note: Owner
+    - org: telegraph-group
+      role: investor
+      note: Failed acquisition via RedBird IMI 2023-2024, blocked by UK govt
     relations:
     - person: mohammed-bin-zayed
       type: brother
@@ -10364,6 +11537,13 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  marc-benioff:
+    nationality: USA
+    affiliations:
+    - org: council-inclusive-capitalism
+      role: steering
+      from: 2020
+      note: Guardian - Salesforce Founder & CEO
   marc-grynberg:
     nationality: BEL
     affiliations:
@@ -10668,6 +11848,16 @@ persons:
       role: executive
       from: 2006
       to: 2017
+  margaret-thatcher:
+    born: 1925
+    died: 2013
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1979
+      to: 1990
+      note: Prime Minister
   margaret-zhang:
     born: 1993
     nationality: CHN
@@ -10720,6 +11910,10 @@ persons:
       role: executive
       from: 2023
       note: CEO
+  maria-vorontsova:
+    born: 1985
+    nationality: RUS
+    note: Daughter of Putin, endocrinologist
   mariana-vasconcelos:
     nationality: BRA
     note: CEO Agrosmart
@@ -10902,6 +12096,10 @@ persons:
       from: 2013
       to: 2020
       note: Governor
+    - org: council-inclusive-capitalism
+      role: steering
+      from: 2020
+      note: Guardian
   mark-eyskens:
     born: 1933
     nationality: BEL
@@ -11155,6 +12353,14 @@ persons:
     - org: wef
       role: ygl
       from: 2012
+  mary-fitzgerald:
+    nationality: GBR
+    affiliations:
+    - org: opendemocracy
+      role: executive
+      from: 2014
+      to: 2021
+      note: Editor-in-Chief
   mary-ma:
     born: 1953
     died: 2019
@@ -11326,6 +12532,9 @@ persons:
       role: minister
       from: 2022
       note: Vice-Presidente del Consiglio, Ministro Infrastrutture (governo Meloni)
+  matthew-freud:
+    born: 1963
+    nationality: GBR
   mauro-moretti:
     nationality: ITA
     affiliations:
@@ -11365,6 +12574,13 @@ persons:
     - org: wef
       role: ygl
       from: 2025
+  meg-oneill:
+    nationality: USA
+    affiliations:
+    - org: bp
+      role: executive
+      from: 2026
+      note: CEO (dal aprile 2026)
   mehmet-zahid-sobaci:
     nationality: TUR
     note: TRT Director General 2021-. Academic public admin. Ex-Vice Dir Communications Presidency
@@ -11582,6 +12798,35 @@ persons:
       from: 2017
       to: 2024
       note: Presidente
+  mike-lynch:
+    born: 1965
+    died: 2024
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: advisor
+      from: 2011
+      note: Council for Science and Technology, advisor on AI
+    - org: bbc
+      role: board
+      from: 2007
+      to: 2012
+      note: Non-Executive Director
+    - org: darktrace
+      role: founder
+      from: 2013
+      to: 2024
+      note: Investor via Invoke Capital, Advisory Board
+    - org: autonomy
+      role: founder
+      from: 1996
+      to: 2011
+      note: Co-founder, CEO
+    - org: invoke-capital
+      role: founder
+      from: 2012
+      to: 2024
+      note: Founder
   mike-reynolds:
     born: 1945
     nationality: GBR
@@ -11603,6 +12848,16 @@ persons:
       from: 2000
       to: 2020
       note: COO, condannato corruzione Angola 2025
+  mikhail-barsukov:
+    born: 1947
+    nationality: RUS
+    note: FSB Director 1995-96, head of Kremlin security
+    affiliations:
+    - org: fsb-russia
+      role: director
+      from: 1995
+      to: 1996
+      note: Dismissed June 1996 with Korzhakov
   mikhail-gorbachev:
     born: 1931
     died: 2022
@@ -11612,6 +12867,54 @@ persons:
       role: leader
       from: 1985
       to: 1991
+  mikhail-khodorkovsky:
+    born: 1963
+    nationality: RUS
+    note: Ex oligarch, CEO Yukos. Imprisoned 2003-2013. Now London exile, opposition activist. Open Russia founder.
+    affiliations:
+    - org: yukos
+      role: founder
+      from: 1995
+      to: 2003
+      note: CEO and owner, arrested October 2003
+    - org: open-russia
+      role: founder
+      from: 2001
+      note: Relaunched 2014 from exile
+    - org: bank-menatep
+      role: founder
+      from: 1988
+      to: 1998
+      note: CEO, largest shareholder
+    relations:
+    - person: boris-yeltsin
+      type: patron
+      note: Davos Pact 1996, loans-for-shares
+    - person: igor-sechin
+      type: adversary
+      note: Sechin orchestrated Yukos destruction
+    - person: platon-lebedev
+      type: colleague
+      note: Business partner, co-defendant
+    - person: vladimir-putin
+      type: adversary
+      note: Imprisoned by Putin 2003-2013
+  mikhail-kovalchuk:
+    born: 1946
+    nationality: RUS
+    note: Physicist, brother of Yuri, Kurchatov Institute director
+  mikhail-mishustin:
+    born: 1966
+    nationality: RUS
+    affiliations:
+    - org: governo-russia
+      role: minister
+      from: 2020
+      note: Primo Ministro
+  mikhail-prokhorov:
+    born: 1965
+    nationality: RUS
+    note: Oligarch, Onexim Group, ex-partner Potanin, Brooklyn Nets owner
   miku-hirano:
     nationality: JPN
     note: CEO Cinnamon AI
@@ -11930,6 +13233,18 @@ persons:
       role: board
     - org: reliance-industries
       role: chairman
+    - org: council-inclusive-capitalism
+      role: steering
+      from: 2020
+      note: Guardian - Reliance Industries
+  murray-auchincloss:
+    nationality: GBR
+    affiliations:
+    - org: bp
+      role: executive
+      from: 1992
+      to: 2025
+      note: CFO 2020-2023, CEO 2023-2025
   mykhailo-fedorov:
     born: 1991
     nationality: UKR
@@ -12033,6 +13348,10 @@ persons:
     - org: wef
       role: ygl
       from: 2022
+  naina-yeltsina:
+    born: 1932
+    nationality: RUS
+    note: Wife of Boris Yeltsin, First Lady 1991-1999
   najat-vallaud-belkacem:
     born: 1977
     nationality: FRA
@@ -12218,6 +13537,14 @@ persons:
       role: vice-president
       from: 1974
       to: 1977
+  niall-fitzgerald:
+    nationality: IRL
+    affiliations:
+    - org: hakluyt
+      role: chairman
+      from: 2014
+      to: 2024
+      note: Chair International Advisory Board
   nicholas-wahl:
     nationality: USA
     affiliations:
@@ -12445,6 +13772,68 @@ persons:
       role: executive
       from: 2019
       note: Executive Chairman (primo non-famiglia)
+    - org: barclays
+      role: chairman
+      from: 2019
+      note: Group Chairman
+    - org: nm-rothschild
+      role: executive
+      to: 2019
+      note: Deputy Chairman, ex-Co-CEO (36 years)
+  nigel-lawson:
+    born: 1932
+    died: 2023
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 1983
+      to: 1989
+      note: Chancellor of the Exchequer
+  nikolai-patrushev:
+    born: 1951
+    nationality: RUS
+    affiliations:
+    - org: governo-russia
+      role: advisor
+      from: 2024
+      note: Consigliere presidenziale, settore navale
+    - org: kgb
+      role: officer
+      from: 1975
+      to: 1994
+      note: Leningrad KGB, anti-smuggling unit
+    - org: fsb-russia
+      role: director
+      from: 1999
+      to: 2008
+      note: Direttore FSB, succeduto a Putin
+    - org: security-council-russia
+      role: secretary
+      from: 2008
+      to: 2024
+      note: Segretario Consiglio di Sicurezza
+    relations:
+    - person: dmitry-patrushev
+      type: parent
+      note: Padre
+    - person: vladimir-putin
+      type: colleague
+      note: Colleghi KGB Leningrado, cerchia intima
+  nikolai-shamalov:
+    born: 1950
+    nationality: RUS
+    note: Ozero cooperative founder, Bank Rossiya shareholder
+  nikolay-kovalev:
+    born: 1949
+    nationality: RUS
+    note: FSB Director 1996-98, State Duma deputy
+    affiliations:
+    - org: fsb-russia
+      role: director
+      from: 1996
+      to: 1998
+      note: Director before Putin
   nikos-christodoulides:
     born: 1973
     nationality: CYP
@@ -12701,6 +14090,14 @@ persons:
     - org: nso-group
       role: founder
       from: 2010
+  orlando-bravo:
+    born: 1970
+    nationality: USA
+    affiliations:
+    - org: thoma-bravo
+      role: founder
+      from: 2008
+      note: Co-founder, Managing Partner
   otto-skorzeny:
     born: 1908
     died: 1975
@@ -13040,6 +14437,9 @@ persons:
       from: 1988
       to: 2000
       note: Partner (1994), Chairman Germany
+    - org: hakluyt
+      role: advisor
+      note: International Advisory Board; former Chairman Deutsche Bank
     - org: allianz
       role: executive
       from: 2000
@@ -13072,6 +14472,21 @@ persons:
       from: 2008
       to: 2025
       note: CEO 2008-2017, Chairman 2017-2025, 50 anni in Nestlé
+  paul-deighton:
+    born: 1956
+    nationality: GBR
+    affiliations:
+    - org: goldman-sachs
+      role: partner
+      note: Former partner
+    - org: the-economist
+      role: chairman
+      from: 2018
+      note: Chairman of the Board
+    - org: hakluyt
+      role: chairman
+      from: 2020
+      note: Chairman Board of Directors
   paul-dubrule:
     born: 1934
     nationality: FRA
@@ -13236,12 +14651,34 @@ persons:
     died: 2021
     nationality: USA
     family: dupont
+  peter-cazalet:
+    nationality: GBR
+    affiliations:
+    - org: hakluyt
+      role: founder
+      from: 1995
+      note: Co-Founder, former Deputy Chairman BP
   peter-diamandis:
     born: 1961
     nationality: USA
     affiliations:
     - org: fii-saudi
       role: board
+  peter-geoghegan:
+    nationality: IRL
+    affiliations:
+    - org: opendemocracy
+      role: executive
+      from: 2018
+      to: 2023
+      note: UK investigations editor 2018-21, Editor-in-Chief & CEO 2021-23
+  peter-holmes:
+    nationality: GBR
+    affiliations:
+    - org: hakluyt
+      role: chairman
+      from: 1995
+      note: President Hakluyt Foundation; former Chairman Shell
   peter-hughes:
     nationality: GBR
     affiliations:
@@ -13293,6 +14730,14 @@ persons:
       from: 2016
       to: 2025
       note: CTO 2016, CEO 2019-2025
+  peter-ricketts:
+    born: 1952
+    nationality: GBR
+    affiliations:
+    - org: rusi
+      role: board
+      from: 2025
+      note: Vice-Chair
   peter-sutherland:
     born: 1946
     died: 2018
@@ -13312,16 +14757,58 @@ persons:
       role: chairman
       from: 1995
       to: 2015
-      note: chairman-gsi
+      note: Chairman Goldman Sachs International
+    - org: onu
+      role: advisor
+      from: 2006
+      to: 2017
+      note: Special Representative for International Migration (Kofi Annan)
+    - org: governo-irlanda
+      role: minister
+      from: 1981
+      to: 1984
+      note: Attorney General (più giovane nella storia)
+    - org: ert
+      role: board
+      from: 1997
+      to: 2009
+      note: Vice-President 2006-2009
     - org: wto
-      role: director-general
+      role: executive
       from: 1993
       to: 1995
-      note: father-of-globalisation
+      note: Director-General (fondatore)
     - org: bp
       role: chairman
-      from: 2003
+      from: 1997
       to: 2009
+      note: Chairman (12 anni)
+    - org: allianz
+      role: board
+      note: Supervisory Board
+    - org: commissione-europea
+      role: executive
+      from: 1985
+      to: 1989
+      note: Commissioner for Competition (più giovane nella storia)
+    - org: lse
+      role: chairman
+      from: 2008
+      to: 2015
+      note: Chair of Council
+    - org: aib
+      role: chairman
+      from: 1989
+      to: 1993
+    - org: royal-bank-of-scotland
+      role: board
+      from: 2001
+      to: 2006
+    - org: vaticano
+      role: advisor
+      from: 2006
+      to: 2018
+      note: Consultor APSA (riforma finanziaria)
   peter-szijjarto:
     born: 1978
     nationality: HUN
@@ -13432,6 +14919,15 @@ persons:
       from: 1961
       to: 2021
       note: Co-fondatore, President UK 1961-82, International President 1981-96
+  philip-hammond:
+    born: 1955
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2016
+      to: 2019
+      note: Chancellor of the Exchequer
   philip-lane:
     born: 1969
     nationality: IRL
@@ -13772,6 +15268,10 @@ persons:
       from: 2009
       to: 2025
       note: CEO
+  platon-lebedev:
+    born: 1956
+    nationality: RUS
+    note: Yukos shareholder, imprisoned with Khodorkovsky
   pol-clovis-boel:
     born: 1868
     died: 1941
@@ -13780,6 +15280,23 @@ persons:
     - org: usines-gustave-boel
       role: executive
       note: Director
+  polina-yumasheva:
+    born: 1980
+    nationality: RUS
+    note: Daughter of Valentin Yumashev, ex-wife Oleg Deripaska 2001-2018, Forward Media Group
+  poppy-gustafsson:
+    born: 1982
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2024
+      note: Minister of State for Investment, Baroness Gustafsson
+    - org: darktrace
+      role: founder
+      from: 2013
+      to: 2024
+      note: Co-founder, CFO 2013-16, CEO 2016-24
   prabowo-subianto:
     born: 1951
     nationality: IDN
@@ -13893,6 +15410,21 @@ persons:
     affiliations:
     - org: wef
       role: board
+  rachel-ellehuus:
+    nationality: USA
+    affiliations:
+    - org: rusi
+      role: executive
+      from: 2025
+      note: Director-General
+  rachel-reeves:
+    born: 1979
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2024
+      note: Chancellor of the Exchequer
   rachida-dati:
     born: 1965
     nationality: FRA
@@ -13996,6 +15528,49 @@ persons:
       role: executive
       from: 2022
       note: President & CEO
+  rajiv-shah:
+    born: 1973
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: member
+      note: Member
+    - org: rockefeller-foundation
+      role: executive
+      from: 2017
+      note: President
+    - org: governo-usa
+      role: executive
+      from: 2010
+      to: 2015
+      note: USAID Administrator (Obama)
+    - org: gates-foundation
+      role: executive
+      from: 2001
+      to: 2009
+      note: Director Agricultural Development, Chief Economist
+    - org: trilateral-commission
+      role: member
+      note: Member
+    - org: atlantic-council
+      role: board
+      note: Board of Directors
+    - org: council-inclusive-capitalism
+      role: steering
+      from: 2020
+      note: Guardian - Rockefeller Foundation President
+    - org: federal-reserve-new-york
+      role: board
+      from: 2024
+      to: 2026
+      note: Class C Director
+    - org: latitude-capital
+      role: founder
+      from: 2015
+      note: Founder and Managing Partner
+    - org: international-rescue-committee
+      role: board
+      note: Board of Advisors
   ralph-hamers:
     nationality: NLD
     affiliations:
@@ -14139,6 +15714,9 @@ persons:
     - person: edward-snowden
       type: fellow whistleblower
       note: Both NSA, both charged under Espionage Act
+  rebekah-brooks:
+    born: 1968
+    nationality: GBR
   recep-tayyip-erdogan:
     born: 1954
     nationality: TUR
@@ -14208,6 +15786,17 @@ persons:
     - org: bertelsmann-stiftung
       role: founder
       from: 1977
+  rem-viakhirev:
+    born: 1934
+    died: 2013
+    nationality: RUS
+    note: Gazprom CEO 1992-2001, removed by Putin
+    affiliations:
+    - org: gazprom
+      role: executive
+      from: 1992
+      to: 2001
+      note: CEO, removed by Putin
   renate-weber:
     born: 1955
     nationality: ROU
@@ -14295,6 +15884,15 @@ persons:
     - org: eon
       role: board
       note: Ex-Director
+  rex-tillerson:
+    born: 1952
+    nationality: USA
+    affiliations:
+    - org: exxonmobil
+      role: executive
+      from: 2006
+      to: 2017
+      note: CEO
   riccardo-gallo:
     born: 1937
     nationality: ITA
@@ -14341,6 +15939,24 @@ persons:
       to: 2023
     - org: crossword-cybersecurity
       role: chairman
+    - org: hakluyt
+      role: advisor
+      note: Close associate of founder Mike Reynolds; former MI6 Chief
+    - org: aig
+      role: advisor
+      from: 2005
+      note: Advisory Board
+    - org: ascot-underwriting
+      role: chairman
+      from: 2006
+      note: Chairman
+    - org: ergo-global
+      role: advisor
+      from: 2013
+      note: Advisory Board
+    - org: university-of-london
+      role: chairman
+      note: Chair Board of Trustees
   richard-hatchett:
     born: 1965
     nationality: USA
@@ -14651,6 +16267,24 @@ persons:
       from: 1925
       to: 2003
       note: Founder, Chairman until death
+  robin-cook:
+    born: 1946
+    died: 2005
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 1997
+      to: 2001
+      note: Foreign Secretary
+  robin-niblett:
+    nationality: GBR
+    affiliations:
+    - org: chatham-house
+      role: executive
+      from: 2007
+      to: 2022
+      note: Director & CEO
   rodolfo-de-benedetti:
     born: 1961
     nationality: ITA
@@ -14666,6 +16300,12 @@ persons:
     affiliations:
     - org: cma-cgm
       role: chairman
+  roger-jenkins:
+    nationality: GBR
+    affiliations:
+    - org: barclays
+      role: executive
+      note: Executive Chairman Middle East - architected 2008 Qatar rescue
   roland-busch:
     born: 1964
     nationality: DEU
@@ -14730,6 +16370,46 @@ persons:
       role: founder
       from: 1993
       note: Co-Founder, Non-Executive Chairman
+  roman-abramovich:
+    born: 1966
+    nationality: RUS-ISR-PRT
+    note: Oligarch, Sibneft founder. Chelsea FC owner 2003-2022. Chukotka Governor 2000-2008. Yeltsin Family treasurer. Ukraine
+      peace mediator 2022.
+    affiliations:
+    - org: governo-russia
+      role: member
+      from: 1999
+      to: 2008
+      note: Duma deputy 1999-2000, Chukotka Governor 2000-2008
+    - org: chelsea-fc
+      role: chairman
+      from: 2003
+      to: 2022
+      note: Owner. Forced sale after Ukraine sanctions
+    - org: sibneft
+      role: founder
+      from: 1995
+      to: 2005
+      note: Co-founder with Berezovsky. Sold to Gazprom for $13B
+    relations:
+    - person: boris-berezovsky
+      type: colleague
+      note: Sibneft partner 1995-2000, later adversaries
+    - person: boris-yeltsin
+      type: patron
+      note: Treasurer of Yeltsin Family, financed 1996 campaign
+    - person: dmitry-medvedev
+      type: patron
+      note: Recommended Medvedev to Putin as successor 2007
+    - person: tatyana-yumasheva
+      type: friend
+      note: Paid expenses for Tatyana and Yumashev
+    - person: vladimir-putin
+      type: patron
+      note: Recommended Putin to Yeltsin, interviewed cabinet 1999
+  roman-rotenberg:
+    nationality: RUS-FIN
+    note: Son of Boris, Arena Events CEO, SKA VP
   romano-prodi:
     born: 1939
     nationality: ITA
@@ -15175,6 +16855,21 @@ persons:
     - person: emmanuel-macron
       type: sponsor
       note: Met at Attali Commission; introduced Macron to Rothschild 2008
+  sergei-stepashin:
+    born: 1952
+    nationality: RUS
+    note: FSK/FSB Director 1994-95, PM 1999, Accounts Chamber 2000-2013
+    affiliations:
+    - org: governo-russia
+      role: leader
+      from: 1999
+      to: 1999
+      note: Prime Minister May-Aug 1999, replaced by Putin
+    - org: fsb-russia
+      role: director
+      from: 1994
+      to: 1995
+      note: First FSK/FSB Director, resigned after Budyonnovsk crisis
   sergey-brin:
     born: 1973
     nationality: USA
@@ -15189,6 +16884,24 @@ persons:
     - org: stanford-university
       role: member
       note: MS Computer Science 1995 (PhD dropout - founded Google)
+  sergey-kirienko:
+    born: 1962
+    nationality: RUS
+    affiliations:
+    - org: governo-russia
+      role: advisor
+      from: 2016
+      note: First Deputy Chief of Staff Presidential Administration
+    - org: governo-russia
+      role: leader
+      from: 1998
+      to: 1998
+      note: Prime Minister
+    - org: rosatom
+      role: executive
+      from: 2007
+      to: 2016
+      note: Director General
   sergey-lavrov:
     born: 1950
     nationality: RUS
@@ -15417,6 +17130,12 @@ persons:
     relations:
     - person: moshe-schnitzer
       type: son
+  shriti-vadera:
+    nationality: GBR-UGA
+    affiliations:
+    - org: hakluyt
+      role: advisor
+      note: International Advisory Board; Chair Prudential
   sibel-edmonds:
     born: 1970
     nationality: USA
@@ -15525,6 +17244,14 @@ persons:
       from: 1978
       to: 1981
       note: Tessera n. 1816
+  simon-fraser:
+    born: 1958
+    nationality: GBR
+    affiliations:
+    - org: chatham-house
+      role: chairman
+      from: 2022
+      note: Chair of Council (Deputy Chair 2016-2022)
   simon-harris:
     born: 1986
     nationality: IRL
@@ -16057,6 +17784,13 @@ persons:
       from: 2004
       to: 2014
       note: Presidente
+  suzanna-taverne:
+    nationality: GBR
+    affiliations:
+    - org: opendemocracy
+      role: chairman
+      from: 2020
+      note: Chair of Board
   t-coleman-dupont:
     born: 1863
     died: 1930
@@ -16082,6 +17816,44 @@ persons:
     - org: wef
       role: ygl
       from: 2024
+  tatyana-yumasheva:
+    born: 1960
+    nationality: RUS-AUT
+    note: Yeltsin daughter, "The Family" keystone, Putin campaign 2000, Austria citizen 2009
+    affiliations:
+    - org: governo-russia
+      role: advisor
+      from: 1996
+      to: 2000
+      note: Personal advisor to President Yeltsin, Putin campaign advisor
+    - org: yeltsin-center
+      role: board
+      from: 2015
+      note: Board of Trustees
+    relations:
+    - person: alexander-voloshin
+      type: colleague
+      note: The Family inner circle
+    - person: anatoly-chubais
+      type: colleague
+      note: Yeltsin 1996 campaign, co-head with Tatyana
+    - person: boris-berezovsky
+      type: colleague
+      note: The Family, Davos Pact architect
+    - person: boris-yeltsin
+      type: parent
+      note: Father, First President of Russia
+    - person: naina-yeltsina
+      type: parent
+      note: Mother
+    - person: roman-abramovich
+      type: friend
+      note: Close friend, The Family network
+    - person: valentin-yumashev
+      type: spouse
+    - person: vladimir-putin
+      type: colleague
+      note: Advocated for PM appointment 1999, campaign advisor 2000, fired by Putin
   tedros-adhanom:
     born: 1965
     nationality: ETH
@@ -16105,6 +17877,8 @@ persons:
       role: executive
       from: 2017
       note: Director-General
+  teo-chee-hean:
+    nationality: SGP
   thaksin-shinawatra:
     born: 1949
     nationality: THA
@@ -16175,6 +17949,19 @@ persons:
     - org: georgetown-university
       role: board
       note: Board of Regents; alumnus cum laude
+  theresa-may:
+    born: 1956
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 2016
+      to: 2019
+      note: Prime Minister
+    - org: chatham-house
+      role: board
+      from: 2025
+      note: President
   thierry-dassault:
     born: 1957
     nationality: FRA
@@ -16244,6 +18031,13 @@ persons:
     - person: william-binney
       type: colleague
       note: Both NSA whistleblowers, both supported ThinThread vs Trailblazer
+  thomas-ellis:
+    nationality: GBR
+    affiliations:
+    - org: hakluyt
+      role: executive
+      from: 2024
+      note: Managing Partner
   thomas-glocer:
     born: 1959
     nationality: USA
@@ -16514,6 +18308,18 @@ persons:
       role: founder
       from: 2001
       note: Co-founder with Kamarudin Meranun. CEO Capital A
+  tony-hayward:
+    born: 1957
+    nationality: GBR
+    affiliations:
+    - org: bp
+      role: executive
+      from: 2007
+      to: 2010
+      note: CEO
+  torbjorn-tornqvist:
+    nationality: SWE
+    note: Gunvor co-founder, bought out Timchenko 2014
   tos-chirathivat:
     born: 1964
     nationality: THA
@@ -16617,6 +18423,45 @@ persons:
       role: shareholder
       from: 2018
       note: Largest shareholder (transferred from CPB)
+  valentin-yumashev:
+    born: 1957
+    nationality: RUS-AUT
+    note: Chief of Staff Yeltsin, hired Putin, married Tatyana
+    affiliations:
+    - org: governo-russia
+      role: advisor
+      from: 1996
+      to: 2022
+      note: Chief of Staff 1997-1998, unpaid advisor Putin 2000-2022
+    - org: yeltsin-center
+      role: board
+      from: 2015
+      note: Board member
+    - org: ogonyok
+      role: executive
+      from: 1987
+      to: 1996
+      note: Deputy Editor 1991-1995, Editor-in-Chief 1995-1996
+    - org: yeltsin-foundation
+      role: founder
+      from: 2000
+      note: Co-founder
+    relations:
+    - person: boris-berezovsky
+      type: colleague
+      note: Introduced Valentin to Tatyana, The Family
+    - person: oleg-deripaska
+      type: relative
+      note: Ex son-in-law, married daughter Polina 2001-2018
+    - person: polina-yumasheva
+      type: parent
+      note: Daughter from first marriage
+    - person: roman-abramovich
+      type: colleague
+      note: Introduced Deripaska to family
+    - person: vladimir-putin
+      type: colleague
+      note: Hired Putin as deputy 1997
   valentina-bosetti:
     nationality: ITA
     affiliations:
@@ -16625,6 +18470,13 @@ persons:
       from: 2020
       to: 2023
       note: Presidente
+  valerie-amos:
+    nationality: GBR
+    affiliations:
+    - org: chatham-house
+      role: board
+      from: 2025
+      note: President
   valerio-battista:
     born: 1957
     nationality: ITA
@@ -16660,6 +18512,19 @@ persons:
       from: 1974
       to: 1981
       note: Presidente
+  varun-chandra:
+    born: 1985
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: advisor
+      from: 2024
+      note: Special Adviser Business & Investment to PM Starmer
+    - org: hakluyt
+      role: executive
+      from: 2019
+      to: 2024
+      note: Managing Partner
   vas-narasimhan:
     born: 1976
     nationality: USA
@@ -16802,6 +18667,32 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  viktor-chernomyrdin:
+    born: 1938
+    died: 2010
+    nationality: RUS
+    note: Gazprom founder, PM Russia 1992-1998
+    affiliations:
+    - org: governo-russia
+      role: leader
+      from: 1992
+      to: 1998
+      note: Prime Minister
+    - org: gazprom
+      role: founder
+      from: 1989
+      to: 2000
+      note: Founder, first Chairman
+    relations:
+    - person: boris-yeltsin
+      type: patron
+      note: Yeltsin patrono, nominated PM
+    - person: vladimir-potanin
+      type: ally
+      note: Approved loans-for-shares scheme 1995
+    - person: vladimir-putin
+      type: rival
+      note: Removed by Putin from Gazprom 2000
   viktor-orban:
     born: 1963
     nationality: HUN
@@ -16827,6 +18718,24 @@ persons:
     - person: lorinc-meszaros
       type: ally
       note: 'Amico infanzia Felcsut, oligarca #1'
+  viktor-zubkov:
+    born: 1941
+    nationality: RUS
+    note: Gazprom Chairman 2008-, PM 2007-2008
+    affiliations:
+    - org: governo-russia
+      role: leader
+      from: 2007
+      to: 2008
+      note: Prime Minister
+    - org: gazprom
+      role: chairman
+      from: 2008
+      note: Chairman Board of Directors
+    relations:
+    - person: vladimir-putin
+      type: patron
+      note: Deputy under Putin St Petersburg 1992-93, made PM 2007
   vincent-bollore:
     born: 1952
     nationality: FRA
@@ -16908,14 +18817,188 @@ persons:
       role: chairman
       from: 2025
       note: Presidente post-OPS MPS
+  vladimir-gusinsky:
+    born: 1952
+    nationality: RUS-ISR
+    note: Media oligarch, NTV/Media-Most founder, Davos Pact, exiled 2000
+    affiliations:
+    - org: wef
+      role: member
+      from: 1996
+      note: Davos Pact 1996
+    - org: world-jewish-congress
+      role: board
+      from: 2000
+      note: Vice President for Eastern Europe and Russia
+    - org: most-bank
+      role: founder
+      from: 1989
+      to: 1997
+      note: Fondatore e presidente
+    - org: media-most
+      role: founder
+      from: 1997
+      to: 2001
+      note: Presidente, venduto forzatamente a Gazprom
+    - org: ntv
+      role: founder
+      from: 1993
+      to: 2001
+      note: Co-fondatore, perso controllo 2001
+    - org: russian-jewish-congress
+      role: chairman
+      from: 1996
+      to: 2001
+      note: Fondatore e primo presidente
+    - org: echo-moscow
+      role: founder
+      from: 1990
+      to: 2001
+      note: Parte di Media-Most
+    relations:
+    - person: boris-yeltsin
+      type: patron
+      note: Davos Pact 1996, NTV supported Yeltsin campaign
+    - person: mikhail-khodorkovsky
+      type: colleague
+      note: Davos Pact 1996, fellow exiled oligarch
+    - person: vladimir-potanin
+      type: colleague
+      note: Davos Pact 1996
+    - person: vladimir-putin
+      type: rival
+      note: Putin destroyed Media-Most 2000-2001, forced exile
+    - person: yevgeny-primakov
+      type: ally
+      note: Gusinsky backed Primakov-Luzhkov alliance 1999 vs Putin
+    - person: yury-luzhkov
+      type: patron
+      note: Luzhkov gave Most Bank Moscow city accounts, political alliance
+  vladimir-potanin:
+    born: 1961
+    nationality: RUS
+    note: Oligarch, loans-for-shares architect, Norilsk Nickel, Davos Pact, First Deputy PM 1996-97
+    affiliations:
+    - org: wef
+      role: member
+      from: 1996
+      note: Davos Pact 1996, regular participant
+    - org: governo-russia
+      role: minister
+      from: 1996
+      to: 1997
+      note: First Deputy Prime Minister 14/8/1996-17/3/1997
+    - org: interros
+      role: founder
+      from: 1990
+      note: Fondatore e presidente
+    - org: norilsk-nickel
+      role: executive
+      from: 1995
+      note: CEO, 37% via Interros, acquired for $170M
+    - org: onexim-bank
+      role: founder
+      from: 1993
+      note: Co-fondatore con Prokhorov
+    - org: rosbank
+      role: executive
+      from: 2022
+      note: Acquired from Societe Generale, sanctioned
+    - org: vladimir-potanin-foundation
+      role: founder
+      from: 1999
+      note: Fondatore, Giving Pledge signatory
+    - org: state-hermitage-museum
+      role: chairman
+      from: 2003
+      note: Chairman Board of Trustees
+    relations:
+    - person: boris-yeltsin
+      type: patron
+      note: Davos Pact 1996, appointed First Deputy PM
+    - person: mikhail-prokhorov
+      type: partner
+      note: Business partners 1992-2007, split after Courchevel scandal
+    - person: oleg-deripaska
+      type: rival
+      note: Norilsk Nickel ownership conflict 2008-2012
+    - person: roman-abramovich
+      type: colleague
+      note: Abramovich mediated Potanin-Deripaska conflict 2012
+    - person: viktor-chernomyrdin
+      type: patron
+      note: Potanin persuaded Chernomyrdin to approve loans-for-shares 1995
+    - person: vladimir-putin
+      type: ally
+      note: Survived Putin era, buying assets from exiting Western companies
   vladimir-putin:
     born: 1952
     nationality: RUS
-    note: President Russia 2000-2008, 2012-present. PM 2008-2012
+    note: President Russia 2000-2008, 2012-present. PM 1999, 2008-2012. KGB 1975-1991. FSB Director 1998-1999
     affiliations:
+    - org: wef
+      role: speaker
+      from: 1992
+      to: 2021
+      note: Multiple Davos appearances, met Schwab 1992
     - org: governo-russia
       role: president
       from: 2000
+    - org: kgb
+      role: officer
+      from: 1975
+      to: 1991
+      note: Foreign intelligence officer, Lt. Colonel. Dresden 1985-1990
+    - org: fsb-russia
+      role: director
+      from: 1998
+      to: 1999
+      note: Director FSB before becoming PM
+    relations:
+    - person: boris-yeltsin
+      type: mentor
+    - person: dmitry-medvedev
+      type: colleague
+    - person: katerina-tikhonova
+      type: parent
+    - person: klaus-schwab
+      type: acquaintance
+      note: Met 1992 in St. Petersburg
+    - person: maria-vorontsova
+      type: parent
+    - person: mikhail-mishustin
+      type: colleague
+    - person: nikolai-patrushev
+      type: colleague
+      note: Patrushev succeeded Putin as FSB Director 1999
+    - person: nikolai-shamalov
+      type: friend
+    - person: vladimir-yakunin
+      type: friend
+    - person: yuri-kovalchuk
+      type: friend
+  vladimir-yakunin:
+    born: 1948
+    nationality: RUS
+    note: Ozero cooperative founder, ex-Russian Railways
+  vladimir-yevtushenkov:
+    born: 1948
+    nationality: RUS
+    note: Sistema founder, Bashneft owner arrested 2014, Forbes top 20
+    affiliations:
+    - org: bashneft
+      role: chairman
+      from: 2009
+      to: 2014
+      note: Via Sistema, arrested and shares confiscated
+    - org: sistema
+      role: founder
+      from: 1993
+      note: Founder and majority owner
+    relations:
+    - person: igor-sechin
+      type: rival
+      note: Sechin orchestrated Bashneft seizure, Sistema forced to pay $1.7B
   volodymyr-zelensky:
     born: 1978
     nationality: UKR
@@ -16948,6 +19031,16 @@ persons:
     - org: wef
       role: ygl
       from: 2025
+  walter-bagehot:
+    born: 1826
+    died: 1877
+    nationality: GBR
+    affiliations:
+    - org: the-economist
+      role: executive
+      from: 1861
+      to: 1877
+      note: Editor
   walter-hallstein:
     born: 1901
     died: 1982
@@ -17171,6 +19264,19 @@ persons:
       role: executive
       from: 1991
       note: Joined 1991; CEO 2007; Chairman 2021
+  william-hague:
+    born: 1961
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2010
+      to: 2014
+      note: Foreign Secretary
+    - org: hakluyt
+      role: chairman
+      from: 2024
+      note: Chair International Advisory Board
   william-soeryadjaya:
     born: 1922
     died: 2010
@@ -17217,6 +19323,21 @@ persons:
       from: 1982
       to: 1997
       note: President
+  winston-churchill:
+    born: 1874
+    died: 1965
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1940
+      to: 1945
+      note: Prime Minister (wartime)
+    - org: governo-uk
+      role: leader
+      from: 1951
+      to: 1955
+      note: Prime Minister (2nd term)
   winthrop-rockefeller:
     born: 1912
     died: 1973
@@ -17488,6 +19609,16 @@ persons:
       from: 1994
       to: 2004
       note: President
+  yegor-gaidar:
+    born: 1956
+    died: 2009
+    nationality: RUS
+    note: Shock therapy architect, Acting PM 1992
+  yevgeny-primakov:
+    born: 1929
+    died: 2015
+    nationality: RUS
+    note: PM 1998-99, Foreign Minister 1996-98, Gusinsky ally vs Putin
   yifan-li:
     nationality: CHN
     note: CEO Hesai Tech
@@ -17626,6 +19757,50 @@ persons:
     - org: bein-media
       role: executive
       note: CEO
+  yuri-kovalchuk:
+    born: 1951
+    nationality: RUS
+    note: Putin personal banker, Ozero founder, National Media Group
+    affiliations:
+    - org: bank-rossiya
+      role: chairman
+      from: 1991
+    - org: national-media-group
+      role: founder
+      from: 2008
+      note: Founder, majority shareholder
+    - org: sogaz
+      role: chairman
+      from: 2004
+      note: Acquired via Bank Rossiya
+    - org: ioffe-institute
+      role: executive
+      from: 1977
+      to: 1991
+      note: First Deputy Director 1987-1991
+    relations:
+    - person: alexei-mordashov
+      type: colleague
+      note: NMG co-founder
+    - person: alina-kabaeva
+      type: colleague
+      note: NMG chairwoman
+    - person: kirill-kovalchuk
+      type: relative
+      note: Nephew
+    - person: mikhail-kovalchuk
+      type: sibling
+    - person: nikolai-shamalov
+      type: colleague
+      note: Ozero co-founder, Bank Rossiya partner
+    - person: vladimir-yakunin
+      type: colleague
+      note: Ozero co-founder
+  yury-luzhkov:
+    born: 1936
+    died: 2019
+    nationality: RUS
+    note: Mayor of Moscow 1992-2010, ally of Gusinsky
   yves-boel:
     born: 1927
     died: 2012
@@ -17646,6 +19821,23 @@ persons:
       to: 2009
     - org: rand-corporation
       role: advisor
+  zanny-minton-beddoes:
+    born: 1967
+    nationality: GBR
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2015
+      note: Regular attendee
+    - org: fmi
+      role: advisor
+      from: 1992
+      to: 1994
+      note: Economist
+    - org: the-economist
+      role: executive
+      from: 2015
+      note: Editor-in-Chief
   zbigniew-brzezinski:
     born: 1928
     died: 2017

@@ -16,6 +16,18 @@ organizations:
     - person: marcel-telles
       role: founder
       from: 2004
+  3i-group:
+    name: 3i Group plc
+    type: privateequity
+    founded: 1945
+    headquarters: London, UK
+    stakeholders:
+    - org: blackrock
+      share: 7.0%
+    - org: vanguard
+      share: 4.5%
+    - org: state-street
+      share: 1.5%
   4ig:
     name: 4iG Nyrt.
     type: company
@@ -375,6 +387,19 @@ organizations:
       from: 2002
       to: 2005
       note: Resident Fellow, Director New Atlantic Initiative
+  aeroflot:
+    name: Aeroflot
+    type: company
+    founded: 1923
+    headquarters: Moscow, Russia
+    status: active
+    sector: aviation
+    stakeholders:
+    - person: boris-berezovsky
+      role: board
+      from: 1996
+      to: 1999
+      note: Board member, control via Forus Services
   affinity-partners:
     name: Affinity Partners
     type: privateequity
@@ -398,6 +423,18 @@ organizations:
       role: investor
       from: 2024
       note: Capital infusion
+  afiniti:
+    name: Afiniti
+    type: company
+    headquarters: Bermuda
+    status: active
+    sector: AI/software
+    stakeholders:
+    - person: david-cameron
+      role: chairman
+      from: 2019
+      to: 2021
+      note: Advisory Board Chairman
   african-parks:
     name: African Parks
     type: foundation
@@ -433,6 +470,16 @@ organizations:
       from: 1926
       to: 1928
       note: Primo presidente, nominato da Mussolini
+  aib:
+    name: Allied Irish Banks
+    type: bank
+    headquarters: Dublin, Ireland
+    status: active
+    stakeholders:
+    - person: peter-sutherland
+      role: chairman
+      from: 1989
+      to: 1993
   aib-group:
     name: AIB Group
     type: bank
@@ -444,12 +491,17 @@ organizations:
     - org: vanguard
       share: 3.4%
   aig:
-    name: American International Group
+    name: AIG
     type: company
     founded: 1919
     headquarters: New York, USA
     status: active
+    sector: insurance
     stakeholders:
+    - person: richard-dearlove
+      role: advisor
+      from: 2005
+      note: Advisory Board
     - person: marc-hoffmann
       role: executive
       from: 1990
@@ -564,9 +616,9 @@ organizations:
     name: Airbus SE
     type: company
     founded: 1970
-    headquarters: Leiden, Netherlands (legal); Toulouse, France (operational)
+    headquarters: Leiden, Netherlands
     status: active
-    sector: aerospace defense
+    sector: aerospace-defence
     stakeholders:
     - person: rene-obermann
       role: chairman
@@ -769,6 +821,9 @@ organizations:
     status: active
     sector: insurance
     stakeholders:
+    - person: peter-sutherland
+      role: board
+      note: Supervisory Board
     - person: jim-hagemann-snabe
       role: board
       note: Vice Chairman
@@ -988,6 +1043,12 @@ organizations:
       share: 100
       from: 2022
       note: Media arm Adani Group
+  amoco:
+    name: Amoco
+    type: company
+    founded: 1889
+    status: defunct
+    note: Merged with BP 1998
   amplifon:
     name: Amplifon S.p.A.
     type: company
@@ -1034,6 +1095,8 @@ organizations:
       share: 4.7%
     - org: vanguard
       share: 3.5%
+    - org: state-street
+      share: 1.5%
   ania:
     name: Associazione Nazionale fra le Imprese Assicuratrici
     type: agency
@@ -1215,6 +1278,11 @@ organizations:
       share: 5.5%
     - org: state-street
       share: 2.0%
+  arco:
+    name: Atlantic Richfield Company (ARCO)
+    type: company
+    status: defunct
+    note: Acquired by BP 2000
   arctos-partners:
     name: Arctos Partners
     type: privateequity
@@ -1270,6 +1338,16 @@ organizations:
       from: 1965
       to: 1969
       note: Vietnam War
+  ascot-underwriting:
+    type: company
+    headquarters: London, UK
+    status: active
+    sector: insurance
+    stakeholders:
+    - person: richard-dearlove
+      role: chairman
+      from: 2006
+      note: Chairman
   asia-news-network:
     name: Asia News Network
     type: media
@@ -1633,6 +1711,9 @@ organizations:
       note: Distinguished Business Leadership Award 2022
     - person: giampiero-massolo
       role: member
+    - person: rajiv-shah
+      role: board
+      note: Board of Directors
     - org: goldman-sachs
       role: donor
       note: Corporate donor - Finance sector
@@ -1744,6 +1825,19 @@ organizations:
       to: 2007
     - org: volkswagen
       role: subsidiary
+  autonomy:
+    name: Autonomy Corporation
+    type: company
+    founded: 1996
+    headquarters: Cambridge, UK
+    status: defunct
+    sector: technology
+    stakeholders:
+    - person: mike-lynch
+      role: founder
+      from: 1996
+      to: 2011
+      note: Co-founder, CEO
   avolta:
     name: Avolta AG (ex Dufry/Autogrill)
     type: company
@@ -1844,6 +1938,8 @@ organizations:
       share: 8.3%
     - org: vanguard
       share: 4.9%
+    - org: state-street
+      share: 1.5%
   baic:
     name: BAIC Group
     type: automaker
@@ -2143,6 +2239,19 @@ organizations:
     headquarters: Paris, France
     status: active
     note: Acquired Endemol Shine 2020. Largest independent content producer globally.
+  bank-menatep:
+    name: Bank Menatep
+    type: bank
+    founded: 1988
+    headquarters: Moscow, Russia
+    status: defunct
+    note: Founded by Khodorkovsky. Acquired Yukos 1995-96. Collapsed 1998.
+    stakeholders:
+    - person: mikhail-khodorkovsky
+      role: founder
+      from: 1988
+      to: 1998
+      note: CEO, largest shareholder
   bank-of-america:
     name: Bank of America Merrill Lynch
     type: bank
@@ -2159,6 +2268,10 @@ organizations:
       from: 1987
       to: 2004
       note: 'Merrill Lynch: Head Global Equity Markets, Executive Committee'
+    - person: brian-moynihan
+      role: executive
+      from: 2010
+      note: Chairman & CEO
     - org: blackrock
       role: stake
       share: 0.07
@@ -2259,6 +2372,23 @@ organizations:
     - person: colm-kelleher
       role: board
       note: Board member
+    - person: brian-moynihan
+      role: chairman
+      note: Chair
+  bank-rossiya:
+    name: Bank Rossiya
+    type: bank
+    founded: 1990
+    headquarters: Saint Petersburg, Russia
+    status: active
+    note: Personal bank of Putin inner circle, Ozero cooperative shareholders
+    stakeholders:
+    - person: yuri-kovalchuk
+      role: chairman
+      from: 1991
+    - person: gennady-timchenko
+      role: board
+      note: ~10% shareholder
   banque-de-france:
     name: Banque de France
     type: centralbank
@@ -2279,16 +2409,49 @@ organizations:
     name: Barclays plc
     type: bank
     founded: 1690
-    headquarters: Londra
+    headquarters: London, UK
     status: active
+    sector: banking
     stakeholders:
+    - person: nigel-higgins
+      role: chairman
+      from: 2019
+      note: Group Chairman
+    - person: cs-venkatakrishnan
+      role: executive
+      from: 2021
+      note: Group CEO (CRO 2016-2020)
+    - person: bob-diamond
+      role: executive
+      from: 2011
+      to: 2012
+      note: Group CEO - resigned after LIBOR scandal
+    - person: jes-staley
+      role: executive
+      from: 2015
+      to: 2021
+      note: Group CEO - resigned over Epstein links
+    - person: john-varley
+      role: executive
+      from: 2004
+      to: 2011
+      note: Group CEO
+    - person: roger-jenkins
+      role: executive
+      note: Executive Chairman Middle East - architected 2008 Qatar rescue
     - org: blackrock
-      share: 8.7%
+      share: 8.7
+      note: Largest shareholder (2025)
     - org: vanguard
-      share: 3.6%
+      share: 3.7
+      note: Major shareholder (2025)
+    - org: state-street
+      share: 1.5%
     - org: qia
       role: stake
-      share: 0.06
+      share: 3.0
+      from: 2008
+      note: 2008 crisis rescue investment
   baring:
     name: Baring
     type: bank
@@ -2335,6 +2498,29 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
+  bashneft:
+    name: Bashneft PJSOC
+    type: company
+    founded: 1946
+    headquarters: Ufa, Russia
+    status: active
+    sector: oil
+    note: Acquired by Rosneft 2016
+    stakeholders:
+    - person: vladimir-yevtushenkov
+      role: chairman
+      from: 2009
+      to: 2014
+      note: Via Sistema, arrested and shares confiscated
+    - org: rosneft
+      share: 100
+      from: 2016
+      note: Acquired for $5.2B after nationalization
+    - org: sistema
+      share: 72
+      from: 2009
+      to: 2014
+      note: Confiscated by state, nationalized
   bassa-sassonia:
     name: Bassa Sassonia
     type: government
@@ -2411,6 +2597,11 @@ organizations:
       from: 1941
       to: 1943
       note: Produttore Eastern Service, propaganda anti-nazista
+    - person: mike-lynch
+      role: board
+      from: 2007
+      to: 2012
+      note: Non-Executive Director
   bbva:
     name: Banco Bilbao Vizcaya Argentaria
     type: bank
@@ -2946,6 +3137,10 @@ organizations:
       from: 1954
     - person: henry-kissinger
       role: steering
+    - person: david-cameron
+      role: member
+      from: 2013
+      note: PM host Watford 2013
     - person: giuliano-amato
       role: steering
     - person: reid-hoffman
@@ -2954,6 +3149,9 @@ organizations:
       note: Regular attendee since 2011
     - person: jacob-rothschild
       role: member
+    - person: evelyn-rothschild
+      role: member
+      note: Attended 1998 Scotland (where met Lynn)
     - person: kyriakos-mitsotakis
       role: member
       from: 2016
@@ -3133,6 +3331,18 @@ organizations:
     - person: wojciech-kostrzewa
       role: steering
       note: Steering Committee member
+    - person: zanny-minton-beddoes
+      role: member
+      from: 2015
+      note: Regular attendee
+    - person: lynn-forester-de-rothschild
+      role: member
+      from: 1998
+      note: Met Evelyn Rothschild at 1998 conference
+    - person: bernard-looney
+      role: member
+    - person: carl-henric-svanberg
+      role: member
     - org: trilaterale
       role: partner
   biontech:
@@ -3416,6 +3626,17 @@ organizations:
       from: 2008
       to: 2020
       note: President
+  bluemountain-capital:
+    name: BlueMountain Capital
+    type: privateequity
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: jes-staley
+      role: partner
+      from: 2013
+      to: 2015
+      note: Managing Partner
   blum-capital:
     name: Blum Capital Partners
     type: privateequity
@@ -3696,16 +3917,18 @@ organizations:
       role: investor
       note: LP in Boyu funds
   bp:
-    name: BP
+    name: BP plc
     type: company
+    founded: 1909
     headquarters: London, UK
     status: active
     sector: oil
     stakeholders:
     - person: peter-sutherland
       role: chairman
-      from: 2003
+      from: 1997
       to: 2009
+      note: Chairman (12 anni)
     - person: john-browne
       role: executive
       from: 1995
@@ -3721,10 +3944,44 @@ organizations:
       from: 1993
       to: 2018
       note: Regional President Canada, Regional President Asia Pacific
+    - person: bob-dudley
+      role: executive
+      from: 2010
+      to: 2020
+      note: CEO
+    - person: tony-hayward
+      role: executive
+      from: 2007
+      to: 2010
+      note: CEO
+    - person: bernard-looney
+      role: executive
+      from: 2020
+      to: 2023
+      note: CEO
+    - person: murray-auchincloss
+      role: executive
+      from: 1992
+      to: 2025
+      note: CFO 2020-2023, CEO 2023-2025
+    - person: meg-oneill
+      role: executive
+      from: 2026
+      note: CEO (dal aprile 2026)
+    - person: albert-manifold
+      role: chairman
+      from: 2025
+      note: Chairman (dal ottobre 2025)
+    - person: carl-henric-svanberg
+      role: chairman
+      from: 2010
+      to: 2018
     - org: blackrock
       share: 9.4%
     - org: vanguard
       share: 5.3%
+    - org: state-street
+      share: 1.5%
     - org: kuwait-investment-authority
       role: shareholder
       share: 9.9%
@@ -3902,6 +4159,8 @@ organizations:
       share: 6.3%
     - org: vanguard
       share: 4.5%
+    - org: state-street
+      share: 1.5%
   british-south-africa-company:
     name: British South Africa Company
     type: company
@@ -3962,6 +4221,17 @@ organizations:
     stakeholders:
     - person: prescott-bush
       role: partner
+  brown-university:
+    name: Brown University
+    type: foundation
+    founded: 1764
+    headquarters: Providence, Rhode Island, USA
+    status: active
+    stakeholders:
+    - person: brian-moynihan
+      role: chairman
+      from: 2024
+      note: Chancellor
   bruegel:
     name: Bruegel
     type: thinktank
@@ -4033,6 +4303,9 @@ organizations:
       role: member
     - person: bob-sternfels
       role: member
+    - person: brian-moynihan
+      role: member
+      note: Member
   bvb:
     name: Bucharest Stock Exchange
     type: company
@@ -4235,6 +4508,18 @@ organizations:
     stakeholders:
     - org: blackrock
       share: 5.0%
+  carlton-communications:
+    name: Carlton Communications
+    type: company
+    headquarters: London, UK
+    status: defunct
+    sector: media
+    stakeholders:
+    - person: david-cameron
+      role: executive
+      from: 1994
+      to: 2001
+      note: Director Corporate Affairs
   carlyle:
     name: Carlyle Group
     type: privateequity
@@ -4286,6 +4571,12 @@ organizations:
       from: 2009
       to: 2021
       note: Trustee
+  carnegie-corporation:
+    name: Carnegie Corporation of New York
+    type: foundation
+    founded: 1911
+    headquarters: New York, USA
+    status: active
   carnegie-endowment:
     name: Carnegie Endowment for International Peace
     type: thinktank
@@ -4576,6 +4867,13 @@ organizations:
       role: advisor
       from: 2015
       note: Global Board of Advisors
+    - person: jes-staley
+      role: member
+    - person: lynn-forester-de-rothschild
+      role: member
+    - person: rajiv-shah
+      role: member
+      note: Member
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -4634,6 +4932,18 @@ organizations:
       role: executive
       from: 2023
       note: SVP Innovation & Global Investment
+  charter-88:
+    name: Charter 88
+    type: thinktank
+    founded: 1988
+    headquarters: London, UK
+    status: defunct
+    stakeholders:
+    - person: anthony-barnett
+      role: founder
+      from: 1988
+      to: 1995
+      note: First Director
   chase-bank:
     name: Chase Investment Bank
     type: bank
@@ -4659,6 +4969,43 @@ organizations:
       role: chairman
       from: 1969
       to: 1981
+  chatham-house:
+    name: Chatham House - Royal Institute of International Affairs
+    type: thinktank
+    founded: 1920
+    headquarters: London, UK
+    status: active
+    sector: foreign policy
+    stakeholders:
+    - person: bronwen-maddox
+      role: executive
+      from: 2022
+      note: Director & CEO
+    - person: simon-fraser
+      role: chairman
+      from: 2022
+      note: Chair of Council (Deputy Chair 2016-2022)
+    - person: robin-niblett
+      role: executive
+      from: 2007
+      to: 2022
+      note: Director & CEO
+    - person: john-major
+      role: board
+      note: President Emeritus
+    - person: theresa-may
+      role: board
+      from: 2025
+      note: President
+    - person: helen-clark
+      role: board
+      note: President
+    - person: valerie-amos
+      role: board
+      from: 2025
+      note: President
+    - person: lynn-forester-de-rothschild
+      role: member
   chelsea-fc:
     name: Chelsea Football Club
     type: sportsclub
@@ -4666,7 +5013,7 @@ organizations:
     headquarters: London, UK
     status: active
     sector: football
-    note: Acquired 2022 for $5.3B. Clearlake 61.5%, Todd Boehly chairman.
+    note: Owned by Abramovich 2003-2022. Sold to Boehly/Clearlake after sanctions.
     stakeholders:
     - person: behdad-eghbali
       role: board
@@ -4680,6 +5027,11 @@ organizations:
       role: board
       from: 2022
       note: Minority owner ~10-13% via BlueCo
+    - person: roman-abramovich
+      role: chairman
+      from: 2003
+      to: 2022
+      note: Owner. Forced sale after Ukraine sanctions
     - org: clearlake-capital
       role: majority
       share: 61.5
@@ -5167,6 +5519,17 @@ organizations:
     - org: warner-bros-discovery
       share: 100%
       from: 2022
+  coalition-inclusive-capitalism:
+    name: Coalition for Inclusive Capitalism
+    type: foundation
+    founded: 2015
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: lynn-forester-de-rothschild
+      role: founder
+      from: 2015
+      note: Founding CEO
   cobepa:
     name: Cobepa
     type: privateequity
@@ -5333,6 +5696,11 @@ organizations:
     headquarters: Brussels, Belgium
     status: active
     stakeholders:
+    - person: peter-sutherland
+      role: executive
+      from: 1985
+      to: 1989
+      note: Commissioner for Competition (più giovane nella storia)
     - person: nadia-calvino
       role: executive
       from: 2006
@@ -5493,6 +5861,8 @@ organizations:
       share: 8.4%
     - org: vanguard
       share: 4.4%
+    - org: state-street
+      share: 1.5%
   concertgebouw:
     name: Het Concertgebouw
     type: company
@@ -5532,6 +5902,16 @@ organizations:
       from: 1934
       to: 1934
       note: Breve presidenza
+  conservative-party-uk:
+    name: Conservative Party (UK)
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: david-cameron
+      role: leader
+      from: 2005
+      to: 2016
+      note: Party Leader
   consob:
     name: CONSOB
     type: agency
@@ -5565,6 +5945,54 @@ organizations:
       from: 1923
       to: 1924
       note: Direttore e AD
+  council-inclusive-capitalism:
+    name: Council for Inclusive Capitalism with the Vatican
+    type: foundation
+    founded: 2020
+    headquarters: Washington DC, USA
+    status: active
+    aum: 10.5T
+    stakeholders:
+    - person: mukesh-ambani
+      role: steering
+      from: 2020
+      note: Guardian - Reliance Industries
+    - person: mark-carney
+      role: steering
+      from: 2020
+      note: Guardian
+    - person: ajay-banga
+      role: steering
+      from: 2020
+      note: Guardian
+    - person: lynn-forester-de-rothschild
+      role: founder
+      from: 2020
+      note: Founder and CEO
+    - person: darren-walker
+      role: steering
+      from: 2020
+      note: Guardian - Ford Foundation President
+    - person: rajiv-shah
+      role: steering
+      from: 2020
+      note: Guardian - Rockefeller Foundation President
+    - person: brian-moynihan
+      role: steering
+      from: 2020
+      note: Guardian - Bank of America CEO
+    - person: marc-benioff
+      role: steering
+      from: 2020
+      note: Guardian - Salesforce Founder & CEO
+    - person: brunello-cucinelli
+      role: steering
+      from: 2020
+      note: Guardian - Brunello Cucinelli S.p.A.
+    - person: lim-boon-heng
+      role: steering
+      from: 2020
+      note: Guardian - Temasek Chairman
   council-of-europe:
     name: Council of Europe
     type: agency
@@ -5696,12 +6124,17 @@ organizations:
     type: company
     headquarters: Dublin, Ireland
     status: active
-    sector: building-materials
+    sector: building materials
     stakeholders:
     - person: christina-verchere
       role: board
       from: 2023
       note: Non-Executive Director
+    - person: albert-manifold
+      role: executive
+      from: 2014
+      to: 2024
+      note: CEO
     - org: blackrock
       share: 5.8%
     - org: vanguard
@@ -5881,6 +6314,37 @@ organizations:
       share: 5.2%
     - org: vanguard
       share: 2.5%
+  darktrace:
+    name: Darktrace
+    type: company
+    founded: 2013
+    headquarters: Cambridge, UK
+    status: active
+    sector: cybersecurity
+    stakeholders:
+    - person: amber-rudd
+      role: advisor
+      note: Advisory Board, ex Home Secretary
+    - person: poppy-gustafsson
+      role: founder
+      from: 2013
+      to: 2024
+      note: Co-founder, CFO 2013-16, CEO 2016-24
+    - person: mike-lynch
+      role: founder
+      from: 2013
+      to: 2024
+      note: Investor via Invoke Capital, Advisory Board
+    - person: jonathan-evans
+      role: advisor
+      note: Advisory Board, ex Director General MI5
+    - person: david-willetts
+      role: board
+      note: Board of Directors, ex Universities/Science Minister
+    - org: thoma-bravo
+      role: owner
+      from: 2024
+      note: Acquired for $5.3B, delisted from LSE
   dassault-aviation:
     name: Dassault Aviation
     type: company
@@ -5946,8 +6410,12 @@ organizations:
     founded: 1888
     headquarters: London, UK
     status: active
-    sector: diamonds
+    sector: mining
     stakeholders:
+    - person: evelyn-rothschild
+      role: board
+      from: 1977
+      to: 1994
     - person: ernest-oppenheimer
       role: chairman
       from: 1929
@@ -6253,6 +6721,8 @@ organizations:
       share: 7.9%
     - org: vanguard
       share: 4.1%
+    - org: state-street
+      share: 1.5%
   diasorin:
     name: DiaSorin S.p.A.
     type: pharma
@@ -6362,6 +6832,15 @@ organizations:
     - person: victor-hartono
       role: executive
       note: CEO, COO
+  dmgt:
+    name: Daily Mail and General Trust
+    type: media
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: jonathan-rothermere
+      role: chairman
+      note: 4th Viscount Rothermere
   dnb:
     name: De Nederlandsche Bank
     type: centralbank
@@ -6515,6 +6994,19 @@ organizations:
     - org: djarum
       role: parent
       share: 100
+  dynamo-moscow-hockey:
+    name: HC Dynamo Moscow
+    type: sportsclub
+    founded: 1946
+    headquarters: Moscow, Russia
+    status: active
+    sector: ice hockey
+    note: Originally KGB-sponsored club
+    stakeholders:
+    - person: arkady-rotenberg
+      role: chairman
+      from: 2012
+      note: President
   eastern-seaboard:
     name: Eastern Seaboard Development Program
     type: agency
@@ -6643,6 +7135,19 @@ organizations:
     - person: andreas-treichl
       role: member
       note: Council Member
+  echo-moscow:
+    name: Echo of Moscow (Ekho Moskvy)
+    type: media
+    founded: 1990
+    headquarters: Moscow, Russia
+    status: defunct
+    note: Liberal radio station, closed 2022 after Ukraine invasion
+    stakeholders:
+    - person: vladimir-gusinsky
+      role: founder
+      from: 1990
+      to: 2001
+      note: Parte di Media-Most
   echr:
     name: European Court of Human Rights
     type: agency
@@ -6660,16 +7165,6 @@ organizations:
       from: 2003
       to: 2004
       note: Agent for Romania
-  economist:
-    name: The Economist
-    type: media
-    founded: 1843
-    headquarters: Londra
-    status: active
-    stakeholders:
-    - person: john-elkann
-      role: chairman
-      from: 2009
   ecsc:
     name: European Coal and Steel Community
     type: agency
@@ -6847,6 +7342,22 @@ organizations:
     stakeholders:
     - org: grupo-prisa
       share: 100%
+  el-rothschild:
+    name: E.L. Rothschild LLC
+    type: company
+    founded: 2003
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: evelyn-rothschild
+      role: founder
+      from: 2003
+      to: 2022
+      note: Co-founder with Lynn
+    - person: lynn-forester-de-rothschild
+      role: executive
+      from: 2003
+      note: CEO, Co-founder with Evelyn
   elec:
     name: European League for Economic Cooperation
     type: forum
@@ -6914,7 +7425,7 @@ organizations:
     name: Elliott Investment Management
     type: privateequity
     founded: 1977
-    headquarters: West Palm Beach, Florida
+    headquarters: West Palm Beach, USA
     status: active
     aum: $70B
     note: Activist hedge fund, Paul Singer founder
@@ -7246,6 +7757,16 @@ organizations:
       share: 67
       from: 1972
       note: State majority ownership via Ministry of Trade
+  ergo-global:
+    type: company
+    headquarters: New York, USA
+    status: active
+    sector: corporate-intelligence
+    stakeholders:
+    - person: richard-dearlove
+      role: advisor
+      from: 2013
+      note: Advisory Board
   ericsson:
     name: Ericsson AB
     type: company
@@ -7300,7 +7821,7 @@ organizations:
     - org: vanguard
       share: 2.5%
   ert:
-    name: European Round Table for Industry
+    name: European Round Table of Industrialists
     type: forum
     founded: 1983
     headquarters: Brussels, Belgium
@@ -7308,6 +7829,11 @@ organizations:
     stakeholders:
     - person: jacob-wallenberg
       role: member
+    - person: peter-sutherland
+      role: board
+      from: 1997
+      to: 2009
+      note: Vice-President 2006-2009
     - person: dimitris-papalexopoulos
       role: member
       note: Co-Chair Energy Transition Committee
@@ -7692,6 +8218,17 @@ organizations:
     - org: state-street
       role: stake
       share: 0.04
+  exxonmobil:
+    name: ExxonMobil
+    type: company
+    headquarters: Irving, Texas, USA
+    status: active
+    stakeholders:
+    - person: rex-tillerson
+      role: executive
+      from: 2006
+      to: 2017
+      note: CEO
   fabian-society:
     name: Fabian Society
     type: thinktank
@@ -7760,6 +8297,19 @@ organizations:
       from: 2001
       to: 2002
       note: Translator, Turkish/Farsi/Azerbaijani
+  fc-dynamo-moscow:
+    name: FC Dynamo Moscow
+    type: sportsclub
+    founded: 1923
+    headquarters: Moscow, Russia
+    status: active
+    sector: football
+    stakeholders:
+    - person: boris-rotenberg
+      role: chairman
+      from: 2013
+      to: 2015
+      note: President
   fca:
     name: Financial Conduct Authority
     type: agency
@@ -7853,10 +8403,25 @@ organizations:
       from: 1980
       to: 1985
       note: Federal Reserve Bank of Boston
+    - person: brian-moynihan
+      role: advisor
+      note: Federal Advisory Council member
     - org: jpmorgan-chase
       role: partner
     - org: bis
       role: partner
+  federal-reserve-new-york:
+    name: Federal Reserve Bank of New York
+    type: centralbank
+    founded: 1914
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: rajiv-shah
+      role: board
+      from: 2024
+      to: 2026
+      note: Class C Director
   federal-reserve-ny:
     name: Federal Reserve Bank of New York
     type: centralbank
@@ -8044,6 +8609,15 @@ organizations:
     - org: governo-saudi
       role: sponsor
       note: Davos del Deserto, forum annuale Riyadh
+  financial-services-forum:
+    name: Financial Services Forum
+    type: thinktank
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: brian-moynihan
+      role: member
+      note: Member
   fincantieri:
     name: Fincantieri SpA
     type: company
@@ -8149,6 +8723,18 @@ organizations:
     - org: governo-uae
       role: shareholder
       note: Maggiore banca UAE
+  first-data:
+    name: First Data Corporation
+    type: company
+    headquarters: Atlanta, USA
+    status: acquired
+    sector: fintech
+    stakeholders:
+    - person: david-cameron
+      role: advisor
+      from: 2017
+      to: 2019
+      note: Consultant Brand Ambassador
   first-pacific:
     name: First Pacific Company Limited
     type: company
@@ -8261,6 +8847,11 @@ organizations:
       from: 1970
       to: 1975
       note: Secondment da Banca Italia
+    - person: zanny-minton-beddoes
+      role: advisor
+      from: 1992
+      to: 1994
+      note: Economist
     - org: wef
       role: partner
     - org: banca-mondiale
@@ -8312,6 +8903,17 @@ organizations:
     - person: paolo-magri
       role: board
       note: Board of Directors
+  ford-foundation:
+    name: Ford Foundation
+    type: foundation
+    founded: 1936
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: darren-walker
+      role: executive
+      from: 2013
+      note: President
   ford-motor:
     name: Ford Motor Company
     type: automaker
@@ -8585,6 +9187,43 @@ organizations:
     - person: andrew-bailey
       role: chairman
       from: 2025
+  fsb-russia:
+    name: Federal Security Service (FSB)
+    type: agency
+    founded: 1995
+    headquarters: Lubyanka Square, Moscow, Russia
+    status: active
+    note: Principal security agency of Russia, successor to KGB
+    stakeholders:
+    - person: vladimir-putin
+      role: director
+      from: 1998
+      to: 1999
+      note: Director FSB before becoming PM
+    - person: nikolai-patrushev
+      role: director
+      from: 1999
+      to: 2008
+      note: Direttore FSB, succeduto a Putin
+    - person: alexander-bortnikov
+      role: director
+      from: 2008
+      note: Longest-serving FSB Director, Hero of Russia 2019
+    - person: sergei-stepashin
+      role: director
+      from: 1994
+      to: 1995
+      note: First FSK/FSB Director, resigned after Budyonnovsk crisis
+    - person: mikhail-barsukov
+      role: director
+      from: 1995
+      to: 1996
+      note: Dismissed June 1996 with Korzhakov
+    - person: nikolay-kovalev
+      role: director
+      from: 1996
+      to: 1998
+      note: Director before Putin
   fuji-media:
     name: Fuji Media Holdings
     type: media
@@ -8731,6 +9370,11 @@ organizations:
       role: executive
       from: 2020
       note: CEO
+    - person: rajiv-shah
+      role: executive
+      from: 2001
+      to: 2009
+      note: Director Agricultural Development, Chief Economist
   gavi:
     name: GAVI, the Vaccine Alliance
     type: agency
@@ -8759,16 +9403,88 @@ organizations:
       from: 2000
       note: $4.1B total, board seat, ~20% of GAVI funds
   gazprom:
-    name: Gazprom
+    name: Gazprom PJSC
     type: company
-    headquarters: Moscow
-    sector: gas
-    note: state-controlled
+    founded: 1989
+    headquarters: Saint Petersburg, Russia
+    status: active
+    sector: energy
+    note: Largest gas company world, state-controlled 50.23%
     stakeholders:
     - person: gerhard-schroder
       role: board
       from: 2022
-      note: Nominato supervisory board (declinato dopo invasione)
+      note: Nominato supervisory board 2022, declined after invasion; strong Russia ties
+    - person: dmitry-patrushev
+      role: board
+      from: 2016
+      to: 2021
+    - person: arkady-rotenberg
+      role: partner
+      from: 2008
+      note: Major contractor, billions in contracts
+    - person: viktor-chernomyrdin
+      role: founder
+      from: 1989
+      to: 2000
+      note: Founder, first Chairman
+    - person: alexey-miller
+      role: executive
+      from: 2001
+      note: CEO and Chairman Management Committee
+    - person: viktor-zubkov
+      role: chairman
+      from: 2008
+      note: Chairman Board of Directors
+    - person: rem-viakhirev
+      role: executive
+      from: 1992
+      to: 2001
+      note: CEO, removed by Putin
+  gazprom-media:
+    name: Gazprom-Media Holding
+    type: media
+    founded: 1998
+    headquarters: Moscow, Russia
+    status: active
+    note: Largest media conglomerate Russia, 80+ assets
+    stakeholders:
+    - org: gazprom
+      share: 100
+      from: 1998
+      note: Subsidiary
+  gazprom-neft:
+    name: Gazprom Neft
+    type: company
+    founded: 1995
+    headquarters: Saint Petersburg, Russia
+    status: active
+    sector: oil
+    note: 3rd largest oil producer Russia, 96% owned by Gazprom
+    stakeholders:
+    - person: alexey-miller
+      role: chairman
+      from: 2006
+      note: Chairman Board
+    - org: gazprom
+      share: 96
+      from: 2005
+      note: Subsidiary
+  gazprombank:
+    name: Gazprombank
+    type: bank
+    founded: 1990
+    headquarters: Moscow, Russia
+    status: active
+    note: One of largest Russian banks
+    stakeholders:
+    - person: alexey-miller
+      role: chairman
+      from: 2001
+      note: Chairman Board
+    - org: gazprom
+      from: 1990
+      note: Major shareholder
   gazzetta-dello-sport:
     name: Gazzetta dello Sport
     type: media
@@ -8786,7 +9502,7 @@ organizations:
     founded: 1956
     headquarters: Brussels, Belgium
   gchq:
-    name: Government Communications Headquarters
+    name: GCHQ
     type: agency
     founded: 1919
     headquarters: Cheltenham, UK
@@ -8798,6 +9514,9 @@ organizations:
       from: 2001
       to: 2004
       note: Mandarin translator
+    - org: darktrace
+      role: spinoff
+      note: Fondata da ex membri GCHQ, connessioni intelligence
   gdp-venture:
     name: GDP Venture
     type: company
@@ -9161,7 +9880,11 @@ organizations:
       to: 1994
       note: Co-fondatore come Marc Rich + Co AG
     - org: blackrock
-      share: 7.3%
+      share: 6.5%
+    - org: vanguard
+      share: 5.2%
+    - org: state-street
+      share: 1.8%
     - org: qia
       role: shareholder
       from: 2012
@@ -9283,7 +10006,7 @@ organizations:
       role: chairman
       from: 1995
       to: 2015
-      note: chairman-gsi
+      note: Chairman Goldman Sachs International
     - person: gary-cohn
       role: executive
       to: 2017
@@ -9336,6 +10059,9 @@ organizations:
       from: 1988
       to: 1989
       note: Fixed Income London
+    - person: paul-deighton
+      role: partner
+      note: Former partner
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -10235,9 +10961,9 @@ organizations:
       from: 2024
       note: Head National Economic Council (Prabowo)
   governo-irlanda:
-    name: Governo Irlanda
+    name: Governo di Irlanda
     type: government
-    headquarters: Dublino
+    headquarters: Dublin, Ireland
     status: active
     stakeholders:
     - person: leo-varadkar
@@ -10249,6 +10975,11 @@ organizations:
       from: 2025
       to: 2025
       note: Tánaiste, Foreign Affairs
+    - person: peter-sutherland
+      role: minister
+      from: 1981
+      to: 1984
+      note: Attorney General (più giovane nella storia)
   governo-israele:
     type: government
     headquarters: Jerusalem, Israel
@@ -11038,7 +11769,8 @@ organizations:
   governo-russia:
     name: Governo della Russia
     type: government
-    headquarters: Moscow
+    founded: 1991
+    headquarters: Moscow, Kremlin
     status: active
     stakeholders:
     - person: boris-yeltsin
@@ -11048,6 +11780,92 @@ organizations:
     - person: vladimir-putin
       role: president
       from: 2000
+    - person: nikolai-patrushev
+      role: advisor
+      from: 2024
+      note: Consigliere presidenziale, settore navale
+    - person: dmitry-patrushev
+      role: minister
+      from: 2024
+      note: Vice Primo Ministro, agricoltura
+    - person: igor-sechin
+      role: minister
+      from: 2008
+      to: 2012
+      note: Deputy Prime Minister
+    - person: dmitry-medvedev
+      role: president
+      from: 2008
+      to: 2012
+      note: Presidente (tandemocracy con Putin PM)
+    - person: mikhail-mishustin
+      role: minister
+      from: 2020
+      note: Primo Ministro
+    - person: tatyana-yumasheva
+      role: advisor
+      from: 1996
+      to: 2000
+      note: Personal advisor to President Yeltsin, Putin campaign advisor
+    - person: valentin-yumashev
+      role: advisor
+      from: 1996
+      to: 2022
+      note: Chief of Staff 1997-1998, unpaid advisor Putin 2000-2022
+    - person: boris-berezovsky
+      role: advisor
+      from: 1996
+      to: 1997
+      note: Deputy Secretary Security Council, Chechnya envoy
+    - person: anatoly-chubais
+      role: minister
+      from: 1991
+      to: 2022
+      note: Privatization Minister 1991-94, Chief of Staff 1996-97, First Deputy PM/Finance Minister 1997-98, Presidential
+        Envoy 2020-22
+    - person: vladimir-potanin
+      role: minister
+      from: 1996
+      to: 1997
+      note: First Deputy Prime Minister 14/8/1996-17/3/1997
+    - person: roman-abramovich
+      role: member
+      from: 1999
+      to: 2008
+      note: Duma deputy 1999-2000, Chukotka Governor 2000-2008
+    - person: viktor-chernomyrdin
+      role: leader
+      from: 1992
+      to: 1998
+      note: Prime Minister
+    - person: viktor-zubkov
+      role: leader
+      from: 2007
+      to: 2008
+      note: Prime Minister
+    - person: sergei-stepashin
+      role: leader
+      from: 1999
+      to: 1999
+      note: Prime Minister May-Aug 1999, replaced by Putin
+    - person: german-gref
+      role: minister
+      from: 2000
+      to: 2007
+      note: Minister of Economy and Trade, Gref Plan (flat tax 13%, land reform)
+    - person: anton-siluanov
+      role: minister
+      from: 2011
+      note: Finance Minister
+    - person: sergey-kirienko
+      role: advisor
+      from: 2016
+      note: First Deputy Chief of Staff Presidential Administration
+    - person: sergey-kirienko
+      role: leader
+      from: 1998
+      to: 1998
+      note: Prime Minister
   governo-saudi:
     name: Governo del Regno dell'Arabia Saudita
     type: government
@@ -11132,6 +11950,11 @@ organizations:
       from: 1999
       to: 2000
       note: Ambasciatore Indonesia
+    - person: lim-boon-heng
+      role: minister
+      from: 1993
+      to: 2011
+      note: Minister PMO, PAP Chairman 2004-2011
   governo-slovenia:
     name: Governo Slovenia
     type: government
@@ -11305,9 +12128,10 @@ organizations:
       role: leader
       from: 2019
   governo-uk:
-    name: Governo UK
+    name: Government of the United Kingdom
     type: government
-    headquarters: Londra
+    founded: 1707
+    headquarters: London, UK
     status: active
     stakeholders:
     - person: tony-blair
@@ -11411,6 +12235,161 @@ organizations:
       from: 1890
       to: 1896
       note: Prime Minister Cape Colony
+    - person: john-major
+      role: leader
+      from: 1990
+      to: 1997
+      note: Prime Minister
+    - person: theresa-may
+      role: leader
+      from: 2016
+      to: 2019
+      note: Prime Minister
+    - person: george-osborne
+      role: minister
+      from: 2010
+      to: 2016
+      note: Chancellor of the Exchequer
+    - person: boris-johnson
+      role: leader
+      from: 2019
+      to: 2022
+      note: Prime Minister
+    - person: boris-johnson
+      role: minister
+      from: 2016
+      to: 2018
+      note: Foreign Secretary
+    - person: margaret-thatcher
+      role: leader
+      from: 1979
+      to: 1990
+      note: Prime Minister
+    - person: gordon-brown
+      role: leader
+      from: 2007
+      to: 2010
+      note: Prime Minister
+    - person: gordon-brown
+      role: minister
+      from: 1997
+      to: 2007
+      note: Chancellor of the Exchequer
+    - person: liz-truss
+      role: leader
+      from: 2022
+      to: 2022
+      note: Prime Minister (45 days)
+    - person: liz-truss
+      role: minister
+      from: 2021
+      to: 2022
+      note: Foreign Secretary
+    - person: winston-churchill
+      role: leader
+      from: 1940
+      to: 1945
+      note: Prime Minister (wartime)
+    - person: winston-churchill
+      role: leader
+      from: 1951
+      to: 1955
+      note: Prime Minister (2nd term)
+    - person: clement-attlee
+      role: leader
+      from: 1945
+      to: 1951
+      note: Prime Minister
+    - person: harold-macmillan
+      role: leader
+      from: 1957
+      to: 1963
+      note: Prime Minister
+    - person: harold-wilson
+      role: leader
+      from: 1964
+      to: 1970
+      note: Prime Minister (1st term)
+    - person: edward-heath
+      role: leader
+      from: 1970
+      to: 1974
+      note: Prime Minister
+    - person: james-callaghan
+      role: leader
+      from: 1976
+      to: 1979
+      note: Prime Minister
+    - person: nigel-lawson
+      role: minister
+      from: 1983
+      to: 1989
+      note: Chancellor of the Exchequer
+    - person: alistair-darling
+      role: minister
+      from: 2007
+      to: 2010
+      note: Chancellor of the Exchequer
+    - person: philip-hammond
+      role: minister
+      from: 2016
+      to: 2019
+      note: Chancellor of the Exchequer
+    - person: kwasi-kwarteng
+      role: minister
+      from: 2022
+      to: 2022
+      note: Chancellor of the Exchequer (38 days)
+    - person: jeremy-hunt
+      role: minister
+      from: 2022
+      to: 2024
+      note: Chancellor of the Exchequer
+    - person: rachel-reeves
+      role: minister
+      from: 2024
+      note: Chancellor of the Exchequer
+    - person: david-lammy
+      role: minister
+      from: 2024
+      note: Foreign Secretary
+    - person: william-hague
+      role: minister
+      from: 2010
+      to: 2014
+      note: Foreign Secretary
+    - person: dominic-raab
+      role: minister
+      from: 2019
+      to: 2021
+      note: Foreign Secretary
+    - person: james-cleverly
+      role: minister
+      from: 2022
+      to: 2023
+      note: Foreign Secretary
+    - person: david-miliband
+      role: minister
+      from: 2007
+      to: 2010
+      note: Foreign Secretary
+    - person: robin-cook
+      role: minister
+      from: 1997
+      to: 2001
+      note: Foreign Secretary
+    - person: varun-chandra
+      role: advisor
+      from: 2024
+      note: Special Adviser Business & Investment to PM Starmer
+    - person: poppy-gustafsson
+      role: minister
+      from: 2024
+      note: Minister of State for Investment, Baroness Gustafsson
+    - person: mike-lynch
+      role: advisor
+      from: 2011
+      note: Council for Science and Technology, advisor on AI
   governo-ungheria:
     name: Governo di Ungheria
     type: government
@@ -11622,6 +12601,16 @@ organizations:
       from: 1968
       to: 1973
       note: Ambassador to USA
+    - person: lynn-forester-de-rothschild
+      role: advisor
+      from: 1993
+      to: 2000
+      note: National Information Infrastructure Advisory Council (Clinton)
+    - person: rajiv-shah
+      role: executive
+      from: 2010
+      to: 2015
+      note: USAID Administrator (Obama)
   govtech-singapore:
     name: Government Technology Agency
     type: agency
@@ -11811,6 +12800,8 @@ organizations:
       share: 8.1%
     - org: vanguard
       share: 4.5%
+    - org: state-street
+      share: 1.5%
   guardicore:
     type: company
     headquarters: Israel
@@ -11842,6 +12833,20 @@ organizations:
     status: defunct
     sector: petrolio
     note: Fusa in Chevron 1985
+  gunvor:
+    name: Gunvor Group
+    type: company
+    founded: 1997
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: oil trading
+    note: Fourth largest oil trader globally
+    stakeholders:
+    - person: gennady-timchenko
+      role: founder
+      from: 1997
+      to: 2014
+      note: Co-founder, sold 43.5% stake before sanctions
   hakluyt:
     name: Hakluyt & Company
     type: company
@@ -11850,6 +12855,9 @@ organizations:
     status: active
     sector: corporate-intelligence
     stakeholders:
+    - person: richard-dearlove
+      role: advisor
+      note: Close associate of founder Mike Reynolds; former MI6 Chief
     - person: christopher-james
       role: founder
       from: 1995
@@ -11859,9 +12867,70 @@ organizations:
       role: founder
       from: 1995
       note: Co-Founder, Managing Director
+    - person: paul-achleitner
+      role: advisor
+      note: International Advisory Board; former Chairman Deutsche Bank
+    - person: paul-deighton
+      role: chairman
+      from: 2020
+      note: Chairman Board of Directors
+    - person: william-hague
+      role: chairman
+      from: 2024
+      note: Chair International Advisory Board
+    - person: varun-chandra
+      role: executive
+      from: 2019
+      to: 2024
+      note: Managing Partner
+    - person: thomas-ellis
+      role: executive
+      from: 2024
+      note: Managing Partner
+    - person: peter-cazalet
+      role: founder
+      from: 1995
+      note: Co-Founder, former Deputy Chairman BP
+    - person: peter-holmes
+      role: chairman
+      from: 1995
+      note: President Hakluyt Foundation; former Chairman Shell
+    - person: niall-fitzgerald
+      role: chairman
+      from: 2014
+      to: 2024
+      note: Chair International Advisory Board
+    - person: keith-craig
+      role: executive
+      from: 2005
+      note: Managing Director
+    - person: iain-lobban
+      role: advisor
+      note: International Advisory Board; former GCHQ Director
+    - person: shriti-vadera
+      role: advisor
+      note: International Advisory Board; Chair Prudential
+    - person: douglas-flint
+      role: advisor
+      note: International Advisory Board; former Chairman HSBC
     - org: kissinger-associates
       role: strategic partner
       from: 2000
+    - org: mi6
+      role: alumni network
+      from: 1995
+      note: Founded by ex-MI6; recruitment pipeline
+    - org: gchq
+      role: alumni network
+      note: GCHQ officers recruited post-retirement
+    - org: bp
+      role: client
+      from: 1995
+      note: Major client; Cazalet co-founded
+    - org: shell
+      role: client
+      from: 1995
+      note: Major client; Holmes president Hakluyt Foundation
   hannover-re:
     name: Hannover Rück SE
     type: company
@@ -12142,6 +13211,15 @@ organizations:
     stakeholders:
     - org: blackrock
       share: 5.2%
+  hollinger:
+    name: Hollinger International
+    type: company
+    status: defunct
+    note: Dissolved after Conrad Black scandal
+    stakeholders:
+    - person: conrad-black
+      role: executive
+      note: CEO, forced out 2003-2004
   hongkong-land:
     name: Hongkong Land Holdings Limited
     type: company
@@ -12165,6 +13243,15 @@ organizations:
       role: executive
       from: 2010
       note: CEO and President
+  house-of-lords:
+    name: House of Lords
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: david-cameron
+      role: member
+      from: 2023
+      note: Baron Cameron of Chipping Norton
   hsbc:
     name: HSBC Holdings
     type: bank
@@ -12177,6 +13264,8 @@ organizations:
       share: 7.0%
     - org: vanguard
       share: 5.0%
+    - org: state-street
+      share: 1.5%
   hsbc-private-bank:
     name: HSBC Private Bank (Suisse) SA
     type: bank
@@ -12352,6 +13441,11 @@ organizations:
     headquarters: Armonk, NY, USA
     status: active
     stakeholders:
+    - person: evelyn-rothschild
+      role: board
+      from: 1972
+      to: 1995
+      note: IBM UK Holdings
     - person: thomas-buberl
       role: board
       note: Director
@@ -12498,6 +13592,15 @@ organizations:
       from: 1938
       to: 1945
       note: Betriebsfuhrer Upper Rhine, Wehrwirtschaftsfuhrer 1941
+  ihs-holding:
+    name: IHS Holding Ltd
+    type: company
+    headquarters: London, UK
+    status: active
+    sector: telecom
+    stakeholders:
+    - org: el-rothschild
+      note: Largest independent mobile tower operator in Africa
   ihs-markit:
     type: company
     founded: 2016
@@ -12615,6 +13718,17 @@ organizations:
       role: founder
       from: 2018
       note: Fondatore e CEO
+  illumina:
+    name: Illumina
+    type: company
+    headquarters: San Diego, USA
+    status: active
+    sector: genomics
+    stakeholders:
+    - person: david-cameron
+      role: advisor
+      from: 2018
+      note: Vice Chairman International Advisory Board
   imf:
     name: International Monetary Fund
     type: agency
@@ -12926,6 +14040,29 @@ organizations:
       from: 2004
       to: 2009
       note: President
+  international-rescue-committee:
+    name: International Rescue Committee
+    type: foundation
+    founded: 1933
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: rajiv-shah
+      role: board
+      note: Board of Advisors
+  interros:
+    name: Interros
+    type: company
+    founded: 1990
+    headquarters: Moscow, Russia
+    status: active
+    sector: holding
+    note: Potanin investment holding, owns 37% Norilsk Nickel
+    stakeholders:
+    - person: vladimir-potanin
+      role: founder
+      from: 1990
+      note: Fondatore e presidente
   intesa-sanpaolo:
     name: Intesa Sanpaolo SpA
     type: bank
@@ -13035,6 +14172,18 @@ organizations:
       share: 2.5%
     - org: vanguard
       share: 2.5%
+  invoke-capital:
+    name: Invoke Capital
+    type: privateequity
+    founded: 2012
+    headquarters: Cambridge, UK
+    status: active
+    stakeholders:
+    - person: mike-lynch
+      role: founder
+      from: 2012
+      to: 2024
+      note: Founder
   inwit:
     name: INWIT S.p.A.
     type: company
@@ -13074,6 +14223,19 @@ organizations:
       role: member
       from: 1998
       note: Olympic Solidarity Commission
+  ioffe-institute:
+    name: Ioffe Physico-Technical Institute
+    type: company
+    founded: 1918
+    headquarters: Saint Petersburg, Russia
+    status: active
+    sector: research
+    stakeholders:
+    - person: yuri-kovalchuk
+      role: executive
+      from: 1977
+      to: 1991
+      note: First Deputy Director 1987-1991
   ird:
     name: Information Research Department
     type: agency
@@ -13421,6 +14583,20 @@ organizations:
       from: 1961
       to: 2003
       note: After J&J acquisition
+  jokerit:
+    name: Jokerit Helsinki
+    type: sportsclub
+    founded: 1967
+    headquarters: Helsinki, Finland
+    status: active
+    sector: ice hockey
+    note: Left KHL in 2022 after Ukraine invasion
+    stakeholders:
+    - person: boris-rotenberg
+      role: board
+      from: 2013
+      to: 2014
+      note: Via Arena Events, sold to son Roman
   joongang-group:
     name: JoongAng Group
     type: media
@@ -13473,6 +14649,15 @@ organizations:
       from: 1991
       to: 2003
       note: MD 1999, EMEA Public Sector
+    - person: cs-venkatakrishnan
+      role: executive
+      from: 1994
+      to: 2016
+      note: CIO Global Fixed Income ($200B AUM)
+    - person: jes-staley
+      role: executive
+      to: 2013
+      note: Head of Private Banking, CEO JP Morgan Investment Bank
   jpmorgan-chase:
     name: JPMorgan Chase
     type: bank
@@ -13650,6 +14835,21 @@ organizations:
       from: 1934
       to: 1988
       note: Double agent, defected 1963
+    - person: vladimir-putin
+      role: officer
+      from: 1975
+      to: 1991
+      note: Foreign intelligence officer, Lt. Colonel. Dresden 1985-1990
+    - person: nikolai-patrushev
+      role: officer
+      from: 1975
+      to: 1994
+      note: Leningrad KGB, anti-smuggling unit
+    - person: alexander-bortnikov
+      role: officer
+      from: 1975
+      to: 1991
+      note: Counter-intelligence, Leningrad KGB
   kghm:
     name: KGHM Polska Miedź S.A.
     type: company
@@ -13660,6 +14860,18 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 2.0%
+  khl:
+    name: Kontinental Hockey League
+    type: agency
+    founded: 2008
+    headquarters: Moscow, Russia
+    status: active
+    note: Second largest hockey league after NHL
+    stakeholders:
+    - person: gennady-timchenko
+      role: chairman
+      from: 2012
+      note: Chairman Board of Directors
   kingdom-holding:
     name: Kingdom Holding Company
     type: company
@@ -13990,6 +15202,17 @@ organizations:
     stakeholders:
     - org: volkswagen
       role: subsidiary
+  latitude-capital:
+    name: Latitude Capital
+    type: privateequity
+    headquarters: Washington DC, USA
+    status: active
+    sector: infrastructure
+    stakeholders:
+    - person: rajiv-shah
+      role: founder
+      from: 2015
+      note: Founder and Managing Partner
   laureus-foundation:
     name: Laureus Sport for Good Foundation
     type: foundation
@@ -14326,6 +15549,8 @@ organizations:
       share: 9.3%
     - org: vanguard
       share: 4.7%
+    - org: state-street
+      share: 1.5%
   lockheed:
     name: Lockheed
     type: company
@@ -14338,6 +15563,23 @@ organizations:
       from: 1970
       to: 1976
       note: Scandalo tangenti $1M+
+  lockheed-martin:
+    type: company
+    headquarters: Bethesda, USA
+    status: active
+    sector: defence
+  logovaz:
+    name: LogoVAZ
+    type: company
+    founded: 1989
+    headquarters: Moscow, Russia
+    status: defunct
+    sector: automotive
+    stakeholders:
+    - person: boris-berezovsky
+      role: founder
+      from: 1989
+      note: Co-founder with Badri Patarkatsishvili, Chairman 1994
   lonza:
     name: Lonza Group AG
     type: company
@@ -14425,6 +15667,20 @@ organizations:
     type: company
     headquarters: Gdańsk, Poland
     sector: Fashion
+  lse:
+    name: London School of Economics
+    type: foundation
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: evelyn-rothschild
+      role: board
+      note: Governor
+    - person: peter-sutherland
+      role: chairman
+      from: 2008
+      to: 2015
+      note: Chair of Council
   lseg:
     name: London Stock Exchange Group
     type: company
@@ -14435,6 +15691,8 @@ organizations:
       share: 8.4%
     - org: vanguard
       share: 5.1%
+    - org: state-street
+      share: 1.5%
   lucid-motors:
     name: Lucid Motors
     type: automaker
@@ -14764,6 +16022,14 @@ organizations:
       share: 54%
       from: 2024
       note: Via STC
+  mccain-institute:
+    name: McCain Institute for International Leadership
+    type: foundation
+    headquarters: Washington DC
+    status: active
+    stakeholders:
+    - person: lynn-forester-de-rothschild
+      role: board
   mckinsey:
     name: McKinsey & Company
     type: company
@@ -14838,6 +16104,19 @@ organizations:
       from: 1980
       to: 1985
       note: Consultant, banking e insurance
+  media-most:
+    name: Media-Most
+    type: media
+    founded: 1997
+    headquarters: Moscow, Russia
+    status: defunct
+    note: Largest private media holding Russia, seized by Gazprom 2001
+    stakeholders:
+    - person: vladimir-gusinsky
+      role: founder
+      from: 1997
+      to: 2001
+      note: Presidente, venduto forzatamente a Gazprom
   mediacorp:
     name: Mediacorp Pte Ltd
     type: media
@@ -15190,6 +16469,9 @@ organizations:
       from: 1917
       to: 1918
       note: Capo stazione Roma, 100 agenti
+    - person: jonathan-evans
+      role: executive
+      note: Director General
   mi6:
     name: Secret Intelligence Service (MI6)
     type: agency
@@ -15547,6 +16829,19 @@ organizations:
       role: partner
       from: 1951
       note: Intelligence sharing, Angleton liaison
+  most-bank:
+    name: Most Bank
+    type: bank
+    founded: 1989
+    headquarters: Moscow, Russia
+    status: defunct
+    note: Founded by Gusinsky, handled Moscow city accounts
+    stakeholders:
+    - person: vladimir-gusinsky
+      role: founder
+      from: 1989
+      to: 1997
+      note: Fondatore e presidente
   motor-oil-hellas:
     name: Motor Oil Hellas
     type: company
@@ -15701,6 +16996,31 @@ organizations:
       share: 8.2%
     - org: vanguard
       share: 4.8%
+    - org: state-street
+      share: 1.5%
+  national-media-group:
+    name: National Media Group
+    type: media
+    founded: 2008
+    headquarters: Moscow, Russia
+    status: active
+    note: Pro-Kremlin media conglomerate
+    stakeholders:
+    - person: yuri-kovalchuk
+      role: founder
+      from: 2008
+      note: Founder, majority shareholder
+    - person: alina-kabaeva
+      role: chairman
+      from: 2014
+      note: Chairwoman Board of Directors
+    - person: kirill-kovalchuk
+      role: executive
+      note: President
+    - person: alexei-mordashov
+      role: founder
+      from: 2008
+      note: Co-founder
   natixis:
     name: Natixis
     type: bank
@@ -15808,6 +17128,8 @@ organizations:
       share: 5.0%
     - org: vanguard
       share: 3.0%
+    - org: state-street
+      share: 1.5%
   navigator-company:
     name: The Navigator Company
     type: company
@@ -15981,6 +17303,18 @@ organizations:
       role: founder
       from: 1994
       note: Fondatore e Presidente
+  new-left-review:
+    name: New Left Review
+    type: media
+    founded: 1960
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: anthony-barnett
+      role: board
+      from: 1965
+      to: 1983
+      note: Editorial Committee
   new-york-post:
     name: New York Post
     type: media
@@ -16185,6 +17519,15 @@ organizations:
     status: active
     note: Investment bank, famiglia Rothschild
     stakeholders:
+    - person: evelyn-rothschild
+      role: chairman
+      from: 1976
+      to: 2003
+      note: Chairman & CEO
+    - person: nigel-higgins
+      role: executive
+      to: 2019
+      note: Deputy Chairman, ex-Co-CEO (36 years)
     - person: jeremy-weir
       role: executive
       from: 1992
@@ -16223,6 +17566,23 @@ organizations:
       share: 7.5%
     - org: state-street
       share: 4.9%
+  nord-stream:
+    name: Nord Stream AG
+    type: company
+    founded: 2005
+    headquarters: Zug, Switzerland
+    status: active
+    note: Pipeline operator, Gazprom 51%
+    stakeholders:
+    - person: gerhard-schroder
+      role: chairman
+      from: 2005
+      to: 2022
+      note: Chairman Nord Stream AG, resigned after invasion
+    - org: gazprom
+      share: 51
+      from: 2005
+      note: Majority stake
   nord-stream-ag:
     name: Nord Stream AG
     type: company
@@ -16269,6 +17629,23 @@ organizations:
       role: executive
       from: 2011
       note: Deputy CEO
+  norilsk-nickel:
+    name: Norilsk Nickel (Nornickel)
+    type: company
+    founded: 1935
+    headquarters: Moscow, Russia
+    status: active
+    sector: mining
+    note: World largest producer of palladium and refined nickel
+    stakeholders:
+    - person: vladimir-potanin
+      role: executive
+      from: 1995
+      note: CEO, 37% via Interros, acquired for $170M
+    - org: interros
+      share: 37
+      from: 1995
+      note: Controlling stake via loans-for-shares
   norsk-hydro:
     name: Norsk Hydro ASA
     type: company
@@ -16327,6 +17704,19 @@ organizations:
       share: 5.0%
     - org: vanguard
       share: 4.0%
+  novatek:
+    name: Novatek
+    type: company
+    founded: 1994
+    headquarters: Moscow, Russia
+    status: active
+    sector: natural gas
+    note: Russia second largest gas producer after Gazprom
+    stakeholders:
+    - person: gennady-timchenko
+      role: board
+      from: 2009
+      note: 23.5% shareholder via Volga Group
   novo-nordisk:
     name: Novo Nordisk A/S
     type: company
@@ -16462,6 +17852,55 @@ organizations:
     - person: omri-lavie
       role: founder
       from: 2010
+  ntuc:
+    name: National Trades Union Congress
+    type: agency
+    founded: 1961
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - person: lim-boon-heng
+      role: executive
+      from: 1993
+      to: 2006
+      note: Secretary-General (13 anni)
+  ntuc-enterprise:
+    name: NTUC Enterprise Co-operative
+    type: company
+    founded: 1973
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - person: lim-boon-heng
+      role: chairman
+      from: 2012
+      to: 2025
+      note: Chairman (retired Oct 2025, Income-Allianz saga)
+  ntv:
+    name: NTV
+    type: media
+    founded: 1993
+    headquarters: Moscow, Russia
+    status: active
+    note: First private TV in Russia, now state-controlled via Gazprom
+    stakeholders:
+    - person: vladimir-gusinsky
+      role: founder
+      from: 1993
+      to: 2001
+      note: Co-fondatore, perso controllo 2001
+    - person: igor-malashenko
+      role: founder
+      from: 1993
+      to: 2001
+    - person: evgeny-kiselev
+      role: executive
+      from: 1993
+      to: 2001
+    - org: gazprom-media
+      share: 100
+      from: 2001
+      note: Takeover from Gusinsky
   nuclearelectrica:
     name: Nuclearelectrica S.A.
     type: company
@@ -16513,6 +17952,12 @@ organizations:
       share: 10
       from: 2013
       note: Co-founder, reduced from 20% in 2024
+  oak-foundation:
+    name: Oak Foundation
+    type: foundation
+    founded: 1983
+    headquarters: Geneva, Switzerland
+    status: active
   oaktree-capital:
     name: Oaktree Capital Management
     type: privateequity
@@ -16587,6 +18032,18 @@ organizations:
       from: 2007
       to: 2014
       note: Deputy Secretary General, Chief Economist (dal 2009)
+  ogonyok:
+    name: Ogonyok
+    type: media
+    founded: 1899
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: valentin-yumashev
+      role: executive
+      from: 1987
+      to: 1996
+      note: Deputy Editor 1991-1995, Editor-in-Chief 1995-1996
   olivetti:
     name: Olivetti
     type: company
@@ -16684,11 +18141,23 @@ organizations:
       from: 1975
       to: 1988
       note: Prima presidente
+  onexim-bank:
+    name: ONEXIM Bank (United Export Import Bank)
+    type: bank
+    founded: 1993
+    headquarters: Moscow, Russia
+    status: defunct
+    note: Founded by Potanin/Prokhorov, key in loans-for-shares
+    stakeholders:
+    - person: vladimir-potanin
+      role: founder
+      from: 1993
+      note: Co-fondatore con Prokhorov
   onu:
-    name: Organizzazione delle Nazioni Unite
+    name: United Nations
     type: agency
     founded: 1945
-    headquarters: New York
+    headquarters: New York, USA
     status: active
     stakeholders:
     - person: bill-richardson
@@ -16699,6 +18168,11 @@ organizations:
       role: diplomat
       from: 2007
       to: 2009
+    - person: peter-sutherland
+      role: advisor
+      from: 2006
+      to: 2017
+      note: Special Representative for International Migration (Kofi Annan)
     - person: david-kelly
       role: member
       from: 1991
@@ -16771,6 +18245,18 @@ organizations:
       share: 40
       from: 2021
       note: via Fiber Networks Holdings Sarl
+  open-russia:
+    name: Open Russia
+    type: foundation
+    founded: 2001
+    headquarters: London, UK
+    status: banned
+    note: Founded by Khodorkovsky. Banned in Russia 2017. Ceased Russian ops 2021.
+    stakeholders:
+    - person: mikhail-khodorkovsky
+      role: founder
+      from: 2001
+      note: Relaunched 2014 from exile
   open-society:
     name: Open Society Foundations
     type: foundation
@@ -16788,6 +18274,12 @@ organizations:
       role: affiliate
       from: 1990
       note: National foundation
+  open-society-foundations:
+    name: Open Society Foundations
+    type: foundation
+    founded: 1993
+    headquarters: New York, USA
+    status: active
   open-society-romania:
     name: Foundation for an Open Society - Romania
     type: foundation
@@ -16869,6 +18361,44 @@ organizations:
       role: investor
       from: 2024
       note: Participated in $6.6B round
+  opendemocracy:
+    name: openDemocracy
+    type: media
+    founded: 2001
+    headquarters: London, UK
+    status: active
+    sector: media
+    stakeholders:
+    - person: anthony-barnett
+      role: founder
+      from: 2001
+      to: 2023
+      note: Founding editor-in-chief 2001-07, Board member 1999-2023, Honorary President
+    - person: suzanna-taverne
+      role: chairman
+      from: 2020
+      note: Chair of Board
+    - person: peter-geoghegan
+      role: executive
+      from: 2018
+      to: 2023
+      note: UK investigations editor 2018-21, Editor-in-Chief & CEO 2021-23
+    - person: mary-fitzgerald
+      role: executive
+      from: 2014
+      to: 2021
+      note: Editor-in-Chief
+    - org: ford-foundation
+      role: funder
+      from: 2012
+      note: $2M+ BUILD grant over 5 years
+    - org: open-society-foundations
+      role: funder
+      from: 2012
+      note: Major grants including $600k+ for global projects, oDR Russian platform
+    - org: oak-foundation
+      role: funder
+      note: £252k over 3 years for feminist resilience project
   oppenheimer-generations:
     name: Oppenheimer Generations
     type: company
@@ -16975,6 +18505,18 @@ organizations:
     stakeholders:
     - org: blackrock
       share: 3.0%
+  ort:
+    name: ORT (Channel One Russia)
+    type: media
+    founded: 1995
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: boris-berezovsky
+      role: board
+      from: 1995
+      to: 2000
+      note: 49% stake, key Yeltsin 1996 campaign propaganda
   oss:
     name: Office of Strategic Services (OSS)
     type: agency
@@ -17417,6 +18959,15 @@ organizations:
     - person: srettha-thavisin
       role: member
       from: 2022
+  philanthropy-asia-alliance:
+    name: Philanthropy Asia Alliance
+    type: foundation
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - person: lim-boon-heng
+      role: chairman
+      note: Chairman
   philipp-brothers:
     name: Philipp Brothers (Phibro)
     type: company
@@ -17744,6 +19295,12 @@ organizations:
     - org: fip
       role: governance
       from: 2022
+  press-holdings:
+    name: Press Holdings
+    type: company
+    headquarters: Jersey
+    status: active
+    note: Barclay family holding company
   prosus:
     name: Prosus N.V.
     type: company
@@ -17762,6 +19319,19 @@ organizations:
       share: 5.1%
     - org: vanguard
       share: 4.85%
+  prudential:
+    name: Prudential plc
+    type: company
+    founded: 1848
+    headquarters: London, UK
+    sector: Insurance
+    stakeholders:
+    - org: blackrock
+      share: 8.7%
+    - org: vanguard
+      share: 4.6%
+    - org: state-street
+      share: 1.5%
   prysmian:
     name: Prysmian Group
     type: company
@@ -18084,6 +19654,20 @@ organizations:
     - person: jason-matheny
       role: executive
       from: 2022
+  rao-ues:
+    name: RAO UES (Unified Energy System of Russia)
+    type: company
+    founded: 1992
+    headquarters: Moscow, Russia
+    status: defunct
+    sector: technology
+    note: State electricity monopoly, dissolved 2008
+    stakeholders:
+    - person: anatoly-chubais
+      role: chairman
+      from: 1998
+      to: 2008
+      note: Chairman of the Board, oversaw $30B privatization and dissolution
   rcs-mediagroup:
     name: RCS MediaGroup
     type: media
@@ -18283,6 +19867,8 @@ organizations:
       share: 11.0%
     - org: vanguard
       share: 5.2%
+    - org: state-street
+      share: 1.5%
   remgro:
     name: Remgro Limited
     type: company
@@ -18484,6 +20070,8 @@ organizations:
       share: 7.3%
     - org: vanguard
       share: 5.0%
+    - org: state-street
+      share: 1.5%
   roche:
     name: F. Hoffmann-La Roche AG
     type: pharma
@@ -18572,6 +20160,10 @@ organizations:
     stakeholders:
     - person: robert-mcnamara
       role: board
+    - person: rajiv-shah
+      role: executive
+      from: 2017
+      note: President
   rockefeller-university:
     name: The Rockefeller University
     type: foundation
@@ -18587,6 +20179,19 @@ organizations:
       role: executive
       from: 2016
       note: President
+  rolls-royce:
+    name: Rolls-Royce Holdings plc
+    type: company
+    founded: 1906
+    headquarters: London, UK
+    sector: Aerospace/Defense
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 4.5%
+    - org: state-street
+      share: 1.5%
   romanian-academy:
     name: Academia Romana
     type: thinktank
@@ -18620,18 +20225,77 @@ organizations:
       role: shareholder
       share: 70%
       note: Ministry of Energy, majority shareholder
-  rosneft:
-    name: Rosneft
+  rosatom:
+    name: State Atomic Energy Corporation Rosatom
     type: company
-    headquarters: Moscow
-    sector: oil-gas
-    note: state-controlled
+    founded: 2007
+    headquarters: Moscow, Russia
+    status: active
+    sector: nuclear
+    stakeholders:
+    - person: alexey-likhachev
+      role: executive
+      from: 2016
+      note: Director General
+    - person: sergey-kirienko
+      role: executive
+      from: 2007
+      to: 2016
+      note: Director General
+    - org: governo-russia
+      role: owner
+      share: 100
+      note: State Corporation
+  rosbank:
+    name: Rosbank
+    type: bank
+    founded: 1998
+    headquarters: Moscow, Russia
+    status: active
+    note: Acquired by Potanin 2022 from Societe Generale, sanctioned
+    stakeholders:
+    - person: vladimir-potanin
+      role: executive
+      from: 2022
+      note: Acquired from Societe Generale, sanctioned
+  rosneft:
+    name: Rosneft Oil Company PJSC
+    type: company
+    founded: 1993
+    headquarters: Moscow, Russia
+    status: active
+    sector: oil
+    note: Largest oil company Russia, state-controlled 69.5%, built on Yukos assets
     stakeholders:
     - person: gerhard-schroder
       role: chairman
       from: 2017
       to: 2022
       note: 350k-annual
+    - person: igor-sechin
+      role: executive
+      from: 2004
+      note: Chairman board 2004-2011, CEO/President 2012-, contract renewed 2025
+    - org: qia
+      share: 18.46
+      from: 2017
+      note: Via QH Oil Investments LLC
+    - org: bp
+      share: 19.75
+      from: 2013
+      to: 2022
+      note: Acquisita con vendita TNK-BP, ceduta post-invasione Ucraina
+    - org: rosneftegaz
+      share: 40.4
+      from: 2004
+      note: 100% state-owned holding
+  rosneftegaz:
+    name: Rosneftegaz JSC
+    type: company
+    founded: 2004
+    headquarters: Moscow, Russia
+    status: active
+    note: 100% state-owned holding, controls Rosneft and Gazprom stakes
   rossiya-segodnya:
     name: Rossiya Segodnya
     type: media
@@ -18717,6 +20381,16 @@ organizations:
     - person: francois-henrot
       role: partner
       note: Senior partner, right-hand of David de Rothschild
+  royal-bank-of-scotland:
+    name: Royal Bank of Scotland
+    type: bank
+    headquarters: Edinburgh, UK
+    status: active
+    stakeholders:
+    - person: peter-sutherland
+      role: board
+      from: 2001
+      to: 2006
   rt:
     name: RT (Russia Today)
     type: media
@@ -18775,10 +20449,12 @@ organizations:
     - org: rtl-group
       share: 100%
   rusi:
+    name: Royal United Services Institute
     type: thinktank
     founded: 1831
-    headquarters: London, UK
+    headquarters: Whitehall, London, UK
     status: active
+    sector: defence-security
     stakeholders:
     - person: richard-dearlove
       role: board
@@ -18787,6 +20463,91 @@ organizations:
     - person: john-scarlett
       role: board
       note: Vice-Chair, Distinguished Fellow
+    - person: arthur-wellesley-9th-duke
+      role: chairman
+      from: 2025
+      note: Chair of RUSI
+    - person: rachel-ellehuus
+      role: executive
+      from: 2025
+      note: Director-General
+    - person: karin-von-hippel
+      role: executive
+      from: 2016
+      to: 2024
+      note: Director-General
+    - person: david-lidington
+      role: chairman
+      from: 2020
+      to: 2025
+      note: Chair of RUSI
+    - person: peter-ricketts
+      role: board
+      from: 2025
+      note: Vice-Chair
+    - person: alex-younger
+      role: board
+      note: Trustee; former MI6 Chief
+    - person: jack-straw
+      role: board
+      note: Trustee; former Foreign Secretary
+    - person: amber-rudd
+      role: board
+      note: Trustee; former Home Secretary
+    - person: malcolm-rifkind
+      role: member
+      note: Fellow; former Foreign Secretary
+    - person: jonathan-eyal
+      role: executive
+      note: Executive Director RUSI Europe
+    - org: google
+      role: funder
+      note: £200K-500K
+    - org: airbus
+      role: funder
+      note: £100K-200K; corporate member
+    - org: bae-systems
+      role: funder
+      note: £200K-500K annually; corporate member
+    - org: lockheed-martin
+      role: funder
+      note: £50K-100K; corporate member
+  rusnano:
+    name: Rusnano (Russian Nanotechnology Corporation)
+    type: company
+    founded: 2007
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: anatoly-chubais
+      role: executive
+      from: 2008
+      to: 2020
+      note: CEO/General Manager, nanotechnology investments
+  russian-jewish-congress:
+    name: Russian Jewish Congress
+    type: foundation
+    founded: 1996
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: vladimir-gusinsky
+      role: chairman
+      from: 1996
+      to: 2001
+      note: Fondatore e primo presidente
+  russian-judo-federation:
+    name: Russian Judo Federation
+    type: agency
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: arkady-rotenberg
+      role: executive
+      note: Vice President
+    - person: boris-rotenberg
+      role: chairman
+      note: President
   rwe:
     name: RWE AG
     type: company
@@ -19212,6 +20973,25 @@ organizations:
       share: 100
       from: 2021
       note: Wholly owned subsidiary, $38B allocati
+  sberbank:
+    name: Sberbank
+    type: bank
+    founded: 1841
+    headquarters: Moscow, Russia
+    status: active
+    note: Largest Russian bank, ~1/3 of all Russian bank assets, state-owned 50%+1
+    stakeholders:
+    - person: german-gref
+      role: executive
+      from: 2007
+      note: CEO and Chairman Executive Board
+    - person: anton-siluanov
+      role: chairman
+      note: Chairman Supervisory Board
+    - org: governo-russia
+      share: 50.01
+      from: 2020
+      note: Via National Wealth Fund (ex Bank of Russia)
   sc-braga:
     name: Sporting Clube de Braga
     type: sportsclub
@@ -19396,6 +21176,22 @@ organizations:
       share: 3.0%
     - org: investor-ab
       role: major-shareholder
+  security-council-russia:
+    name: Security Council of Russia
+    type: agency
+    founded: 1992
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: nikolai-patrushev
+      role: secretary
+      from: 2008
+      to: 2024
+      note: Segretario Consiglio di Sicurezza
+    - person: dmitry-medvedev
+      role: member
+      from: 2020
+      note: Vice Presidente Security Council
   selfridges:
     name: Selfridges Group
     type: company
@@ -19581,6 +21377,36 @@ organizations:
       role: owner
       from: 1891
       note: Filiale italiana Standard Oil
+  sibneft:
+    name: Sibneft
+    type: company
+    founded: 1995
+    headquarters: Moscow, Russia
+    status: merged
+    note: Oil company. Acquired by Gazprom 2005 for $13B. Now Gazprom Neft.
+    stakeholders:
+    - person: boris-berezovsky
+      role: board
+      from: 1996
+      note: Co-owner with Abramovich, acquired for $100M in loans-for-shares
+    - person: roman-abramovich
+      role: founder
+      from: 1995
+      to: 2005
+      note: Co-founder with Berezovsky. Sold to Gazprom for $13B
+  sibur:
+    name: Sibur Holding
+    type: company
+    founded: 1995
+    headquarters: Moscow, Russia
+    status: active
+    sector: petrochemicals
+    note: Russia largest petrochemical company
+    stakeholders:
+    - person: gennady-timchenko
+      role: board
+      from: 2010
+      note: 17% shareholder
   siemens:
     name: Siemens AG
     type: company
@@ -19737,6 +21563,18 @@ organizations:
       role: majority shareholder
       share: 52
       from: 1993
+  sistema:
+    name: AFK Sistema
+    type: company
+    founded: 1993
+    headquarters: Moscow, Russia
+    status: active
+    note: Yevtushenkov conglomerate, lost Bashneft 2014
+    stakeholders:
+    - person: vladimir-yevtushenkov
+      role: founder
+      from: 1993
+      note: Founder and majority owner
   sitra:
     name: Finnish Innovation Fund Sitra
     type: foundation
@@ -19752,6 +21590,18 @@ organizations:
     founded: 2009
     headquarters: San Francisco, California, USA
     status: active
+  ska-saint-petersburg:
+    name: SKA Saint Petersburg
+    type: sportsclub
+    founded: 1946
+    headquarters: Saint Petersburg, Russia
+    status: active
+    sector: ice hockey
+    stakeholders:
+    - person: gennady-timchenko
+      role: chairman
+      from: 2011
+      note: Chairman Board and President
   skoda:
     name: Skoda
     type: company
@@ -19772,6 +21622,21 @@ organizations:
     - org: comcast
       share: 100%
       from: 2018
+  smp-bank:
+    name: SMP Bank
+    type: bank
+    founded: 2001
+    headquarters: Moscow, Russia
+    status: active
+    note: Rotenberg brothers bank, sanctioned 2014
+    stakeholders:
+    - person: arkady-rotenberg
+      role: founder
+      note: Co-owner with brother Boris
+    - person: boris-rotenberg
+      role: founder
+      from: 2001
+      note: Co-founder with Arkady
   smurfit-westrock:
     name: Smurfit Westrock
     type: company
@@ -20005,6 +21870,19 @@ organizations:
       role: investor
       share: 0.15
       note: $15B LP
+  sogaz:
+    name: SOGAZ Insurance
+    type: company
+    founded: 1993
+    headquarters: Moscow, Russia
+    status: active
+    sector: insurance
+    note: Russia largest insurance company
+    stakeholders:
+    - person: yuri-kovalchuk
+      role: chairman
+      from: 2004
+      note: Acquired via Bank Rossiya
   sole-24-ore:
     name: Il Sole 24 Ore
     type: media
@@ -20080,6 +21958,19 @@ organizations:
     type: company
     headquarters: Stafa, Switzerland
     sector: hearing-solutions
+  sovcomflot:
+    name: Sovcomflot
+    type: company
+    headquarters: Saint Petersburg, Russia
+    status: active
+    sector: shipping
+    note: Largest Russian shipping company, hydrocarbon transporter
+    stakeholders:
+    - person: alexander-bortnikov
+      role: board
+      from: 2004
+      to: 2008
+      note: Board member before becoming FSB Director
   spacex:
     name: SpaceX
     type: company
@@ -20158,6 +22049,13 @@ organizations:
     type: bank
     headquarters: London, UK
     status: active
+    stakeholders:
+    - org: blackrock
+      share: 8.5%
+    - org: vanguard
+      share: 4.0%
+    - org: state-street
+      share: 1.2%
   standard-oil:
     name: Standard Oil
     type: company
@@ -20215,6 +22113,17 @@ organizations:
       role: partner
       from: 2025
       note: Stargate JV founding partner
+  state-hermitage-museum:
+    name: State Hermitage Museum
+    type: foundation
+    founded: 1764
+    headquarters: St. Petersburg, Russia
+    status: active
+    stakeholders:
+    - person: vladimir-potanin
+      role: chairman
+      from: 2003
+      note: Chairman Board of Trustees
   state-street:
     name: State Street
     type: assetmanager
@@ -20389,6 +22298,25 @@ organizations:
     type: company
     headquarters: Basel, Switzerland
     sector: dental
+  stroygazmontazh:
+    name: Stroygazmontazh (SGM Group)
+    type: company
+    founded: 2008
+    headquarters: Moscow, Russia
+    status: merged
+    sector: construction
+    note: Sold to Gazstroyprom 2019; built Crimea bridge
+    stakeholders:
+    - person: arkady-rotenberg
+      role: founder
+      from: 2008
+      to: 2019
+      note: Sold to Gazstroyprom; built Crimea bridge
+    - person: boris-rotenberg
+      role: founder
+      from: 2008
+      to: 2019
+      note: Co-owner with Arkady
   suez:
     name: Suez SA
     type: company
@@ -20422,6 +22350,17 @@ organizations:
       role: partner
       from: 1976
       note: Partner, Head European Operations
+  sustainable-markets-initiative:
+    name: Sustainable Markets Initiative
+    type: foundation
+    founded: 2020
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: brian-moynihan
+      role: chairman
+      from: 2020
+      note: Chair
   swatch-group:
     name: The Swatch Group
     type: company
@@ -20714,6 +22653,45 @@ organizations:
       share: 9.9
       from: 2023
       note: 64% owned by PIF Saudi Arabia
+  telegraph-group:
+    name: Telegraph Media Group
+    type: media
+    founded: 1855
+    headquarters: London, UK
+    status: active
+    note: In vendita a DMGT (novembre 2025)
+    stakeholders:
+    - person: mansour-bin-zayed
+      role: investor
+      note: Failed acquisition via RedBird IMI 2023-2024, blocked by UK govt
+    - person: conrad-black
+      role: chairman
+      from: 1986
+      to: 2004
+    - person: frederick-barclay
+      role: chairman
+      from: 2004
+      to: 2023
+      note: Via Press Holdings, lost control to Lloyds
+    - person: david-barclay
+      role: chairman
+      from: 2004
+      to: 2021
+      note: Via Press Holdings, died 2021
+    - org: hollinger
+      role: owner
+      from: 1986
+      to: 2004
+    - org: dmgt
+      role: acquirer
+      share: 100%
+      from: 2025
+      note: Deal £500M, novembre 2025, pending regulatory approval
+    - org: press-holdings
+      role: owner
+      from: 2004
+      to: 2023
+      note: Seized by Lloyds 2023
   telemundo:
     name: Telemundo
     type: media
@@ -20809,6 +22787,11 @@ organizations:
       role: advisor
       from: 2025
       note: Advisory Board
+    - person: lim-boon-heng
+      role: chairman
+      from: 2013
+      to: 2025
+      note: Chairman (stepped down Oct 2025)
   tenaris:
     name: Tenaris S.A.
     type: company
@@ -20903,6 +22886,13 @@ organizations:
     headquarters: Welwyn Garden City, UK
     status: active
     sector: retail
+    stakeholders:
+    - org: blackrock
+      share: 8.1%
+    - org: vanguard
+      share: 4.7%
+    - org: state-street
+      share: 1.5%
   tesla:
     name: Tesla
     type: automaker
@@ -21047,6 +23037,48 @@ organizations:
       from: 2006
       to: 2017
       note: Via Kemble Water consortium, debito 3x
+  the-economist:
+    name: The Economist
+    type: media
+    founded: 1843
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: john-elkann
+      role: board
+      from: 2009
+      note: Board member, Exor holds 43.4% stake
+    - person: evelyn-rothschild
+      role: chairman
+      from: 1972
+      to: 1989
+    - person: zanny-minton-beddoes
+      role: executive
+      from: 2015
+      note: Editor-in-Chief
+    - person: paul-deighton
+      role: chairman
+      from: 2018
+      note: Chairman of the Board
+    - person: lynn-forester-de-rothschild
+      role: board
+      note: Board member, family holds 26.7% stake
+    - person: james-wilson
+      role: founder
+      from: 1843
+      to: 1860
+    - person: walter-bagehot
+      role: executive
+      from: 1861
+      to: 1877
+      note: Editor
+    - org: exor
+      share: 43.4
+      from: 2015
+      note: Largest shareholder
+    - org: el-rothschild
+      share: 26.7
+      note: Via Rothschild family holdings
   the-elders:
     name: The Elders
     type: forum
@@ -21106,6 +23138,22 @@ organizations:
       role: partner
       from: 2010
       to: 2014
+  thoma-bravo:
+    name: Thoma Bravo
+    type: privateequity
+    founded: 2008
+    headquarters: Chicago, USA
+    status: active
+    sector: private equity
+    stakeholders:
+    - person: orlando-bravo
+      role: founder
+      from: 2008
+      note: Co-founder, Managing Partner
+    - person: carl-thoma
+      role: founder
+      from: 2008
+      note: Co-founder, Managing Partner
   tiktok-usa:
     name: TikTok USA
     type: company
@@ -21154,6 +23202,19 @@ organizations:
       share: controlling
       from: 2023
       note: WWE + UFC merger
+  tnk-bp:
+    name: TNK-BP
+    type: company
+    founded: 2003
+    headquarters: Moscow, Russia
+    status: defunct
+    sector: oil
+    note: BP-AAR JV, acquired by Rosneft 2013
+    stakeholders:
+    - org: rosneft
+      share: 100
+      from: 2013
+      note: Acquired for $55B, largest Russian M&A
   tnt:
     name: TNT
     type: media
@@ -21432,6 +23493,9 @@ organizations:
     - person: mugur-isarescu
       role: member
       from: 1993
+    - person: rajiv-shah
+      role: member
+      note: Member
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -21668,6 +23732,11 @@ organizations:
       from: 2012
       to: 2018
       note: President Investment Bank
+    - person: jes-staley
+      role: board
+      from: 2015
+      to: 2015
+      note: Board member - resigned to join Barclays
     - org: blackrock
       share: 5.0%
     - org: vanguard
@@ -21848,6 +23917,8 @@ organizations:
       share: 7.7%
     - org: vanguard
       share: 5.3%
+    - org: state-street
+      share: 1.5%
   unione-europea:
     name: Unione Europea
     type: agency
@@ -21929,6 +24000,16 @@ organizations:
       role: member
     - person: omri-lavie
       role: member
+  united-shipbuilding-corporation:
+    name: United Shipbuilding Corporation
+    type: company
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: andrey-kostin
+      role: chairman
+      from: 2023
+      note: Chairman of the Board
   universal-pictures:
     name: Universal Pictures
     type: media
@@ -21974,6 +24055,15 @@ organizations:
       role: member
       from: 2015
       note: Honorary Professor
+  university-of-london:
+    name: University of London
+    type: foundation
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: richard-dearlove
+      role: chairman
+      note: Chair Board of Trustees
   unsgab:
     name: UN Secretary-General Advisory Board on Water and Sanitation
     type: agency
@@ -22131,6 +24221,17 @@ organizations:
     - org: walmart
       role: stake
       share: 0.054
+  vaticano:
+    name: Santa Sede
+    type: government
+    headquarters: Vatican City
+    status: active
+    stakeholders:
+    - person: peter-sutherland
+      role: advisor
+      from: 2006
+      to: 2018
+      note: Consultor APSA (riforma finanziaria)
   vdl-groep:
     name: VDL Groep
     type: company
@@ -22311,6 +24412,18 @@ organizations:
       role: owner
       share: 29.9%
       from: 2012
+  vladimir-potanin-foundation:
+    name: Vladimir Potanin Foundation
+    type: foundation
+    founded: 1999
+    headquarters: Moscow, Russia
+    status: active
+    note: Strategic philanthropy, education, culture, Giving Pledge
+    stakeholders:
+    - person: vladimir-potanin
+      role: founder
+      from: 1999
+      note: Fondatore, Giving Pledge signatory
   vodafone:
     name: Vodafone Group
     type: company
@@ -22327,6 +24440,8 @@ organizations:
       share: 4.0%
     - org: vanguard
       share: 3.0%
+    - org: state-street
+      share: 1.5%
   voestalpine:
     name: Voestalpine AG
     type: company
@@ -22337,6 +24452,18 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 2.5%
+  volga-group:
+    name: Volga Group
+    type: privateequity
+    founded: 2007
+    headquarters: Luxembourg / Moscow
+    status: active
+    note: Timchenko investment vehicle
+    stakeholders:
+    - person: gennady-timchenko
+      role: founder
+      from: 2007
+      note: Founder and owner
   volkswagen:
     name: Volkswagen
     type: automaker
@@ -22460,6 +24587,27 @@ organizations:
     headquarters: New York, USA
     status: active
     sector: real-estate
+  vtb-bank:
+    name: VTB Bank
+    type: bank
+    founded: 1990
+    headquarters: Moscow, Russia
+    status: active
+    sector: banking
+    stakeholders:
+    - person: dmitry-patrushev
+      role: executive
+      from: 2004
+      to: 2010
+      note: Senior Vice President
+    - person: andrey-kostin
+      role: executive
+      from: 2002
+      note: President and Chairman of the Board
+    - org: governo-russia
+      role: owner
+      share: 60
+      note: Majority state ownership via Rosimushchestvo
   vvd:
     name: VVD
     type: company
@@ -22705,6 +24853,10 @@ organizations:
     - person: alexander-de-croo
       role: ygl
       from: 2015
+    - person: boris-yeltsin
+      role: speaker
+      from: 1996
+      note: Davos Pact 1996
     - person: tedros-adhanom
       role: member
     - person: borge-brende
@@ -22851,6 +25003,11 @@ organizations:
       role: ygl
       from: 2002
       note: Davos participant
+    - person: vladimir-putin
+      role: speaker
+      from: 1992
+      to: 2021
+      note: Multiple Davos appearances, met Schwab 1992
     - person: mukesh-ambani
       role: board
     - person: emilio-azcarraga-jean
@@ -23434,6 +25591,32 @@ organizations:
     - person: bogdan-aurescu
       role: member
       note: Partecipante Davos
+    - person: anatoly-chubais
+      role: member
+      from: 1996
+      to: 2022
+      note: Davos Pact 1996, Executive Commission 2015-2018, regular participant
+    - person: vladimir-gusinsky
+      role: member
+      from: 1996
+      note: Davos Pact 1996
+    - person: vladimir-potanin
+      role: member
+      from: 1996
+      note: Davos Pact 1996, regular participant
+    - person: brian-moynihan
+      role: chairman
+      note: Chairman, International Business Council
+    - person: lim-boon-heng
+      role: member
+      note: Attendee, PAA-WEF strategic partnership
+    - person: german-gref
+      role: speaker
+      note: Davos speaker, advocated state stake reduction in Russian banks
+    - person: andrey-kostin
+      role: glt
+      from: 1999
+      note: Global Leader for Tomorrow
     - org: bilderberg
       role: partner
     - org: fmi
@@ -23603,7 +25786,7 @@ organizations:
     name: World Jewish Congress
     type: forum
     founded: 1936
-    headquarters: New York
+    headquarters: New York, USA
     status: active
     stakeholders:
     - person: ronald-lauder
@@ -23630,6 +25813,10 @@ organizations:
       role: executive
       from: 1981
       to: 2007
+    - person: vladimir-gusinsky
+      role: board
+      from: 2000
+      note: Vice President for Eastern Europe and Russia
   world-jewish-restitution-org:
     name: World Jewish Restitution Organization
     type: thinktank
@@ -23682,13 +25869,13 @@ organizations:
     name: World Trade Organization
     type: agency
     founded: 1995
-    headquarters: Geneva
+    headquarters: Geneva, Switzerland
     stakeholders:
     - person: peter-sutherland
-      role: director-general
+      role: executive
       from: 1993
       to: 1995
-      note: father-of-globalisation
+      note: Director-General (fondatore)
   wwf:
     name: World Wildlife Fund
     type: foundation
@@ -23768,6 +25955,32 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 2.5%
+  yeltsin-center:
+    name: Yeltsin Center
+    type: foundation
+    founded: 2015
+    headquarters: Yekaterinburg, Russia
+    status: active
+    stakeholders:
+    - person: tatyana-yumasheva
+      role: board
+      from: 2015
+      note: Board of Trustees
+    - person: valentin-yumashev
+      role: board
+      from: 2015
+      note: Board member
+  yeltsin-foundation:
+    name: Boris Yeltsin Presidential Center Foundation
+    type: foundation
+    founded: 2000
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: valentin-yumashev
+      role: founder
+      from: 2000
+      note: Co-founder
   yes-network:
     name: YES Network
     type: media
@@ -23791,6 +26004,20 @@ organizations:
     type: forum
     founded: 1992
     status: active
+  yukos:
+    name: Yukos Oil Company
+    type: company
+    founded: 1993
+    headquarters: Moscow, Russia
+    status: defunct
+    sector: oil
+    note: Khodorkovsky company, dismantled 2003-2007, assets to Rosneft
+    stakeholders:
+    - person: mikhail-khodorkovsky
+      role: founder
+      from: 1995
+      to: 2003
+      note: CEO and owner, arrested October 2003
   zalando:
     name: Zalando SE
     type: company

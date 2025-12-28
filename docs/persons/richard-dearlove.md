@@ -37,13 +37,15 @@
 | **1998** | Assistant Chief | MI6 |
 | **1999-2004** | Chief (C) | MI6 |
 | **2004-2015** | Master | Pembroke College, Cambridge |
-| **2005-** | Advisory Board | AIG |
+| **2005-** | Advisory Board | [AIG](../company/aig.md) |
 | **2005-** | Senior Advisor | Monitor Group |
-| **2006-** | Chairman | Ascot Underwriting |
-| **2012-2023** | Board of Directors | Kosmos Energy |
-| **2016-** | Vice-Chair | RUSI |
-| **-** | Chairman | Crossword Cybersecurity |
-| **-** | Chair Board of Trustees | University of London |
+| **2006-** | Chairman | [Ascot Underwriting](../company/ascot-underwriting.md) |
+| **2012-2023** | Board of Directors | [Kosmos Energy](../company/kosmos-energy.md) |
+| **2013-** | Advisory Board | [Ergo Global Intelligence](../company/ergo-global.md) |
+| **2016-** | Vice-Chair | [RUSI](../think-tank/rusi.md) |
+| **-** | Chairman | [Crossword Cybersecurity](../company/crossword-cybersecurity.md) |
+| **-** | Chair Board of Trustees | [University of London](../foundation/university-of-london.md) |
+| **-** | Advisor | [Hakluyt & Company](../company/hakluyt.md) |
 
 ---
 
@@ -52,14 +54,14 @@
 ### Mappa delle Appartenenze
 
 ```
-                    RICHARD DEARLOVE
-                          |
-    +----------+----------+----------+----------+
-    |          |          |          |          |
-    v          v          v          v          v
-   MI6     Kosmos     Henry      RUSI    Atlantik-
-(1999-04)  Energy    Jackson           Bruecke
-           (2012-23) Society
+                        RICHARD DEARLOVE
+                              |
+    +--------+--------+-------+-------+--------+--------+
+    |        |        |       |       |        |        |
+    v        v        v       v       v        v        v
+   MI6    Hakluyt   AIG   Kosmos  Ascot    RUSI   Henry
+(1999-04) (advisor)      Energy  Underwriting    Jackson
+                       (2012-23) (Chairman)       Society
 ```
 
 ### Think Tank e Forum
@@ -70,14 +72,16 @@
 | **RUSI** | Vice-Chair (2016-), Distinguished Fellow (2021-) |
 | **Atlantik-Brucke** | Member |
 
-### Board Aziendali
+### Board Aziendali e Corporate Intelligence
 
 | Azienda | Ruolo | Periodo |
 |---------|-------|---------|
-| **AIG** | Advisory Board | 2005- |
-| **Kosmos Energy** | Director | 2012-2023 |
-| **Ascot Underwriting** | Chairman | 2006- |
-| **Crossword Cybersecurity** | Chairman | - |
+| **[AIG](../company/aig.md)** | Advisory Board | 2005- |
+| **[Hakluyt & Company](../company/hakluyt.md)** | Advisor | - |
+| **[Ergo Global Intelligence](../company/ergo-global.md)** | Advisory Board | 2013- |
+| **[Kosmos Energy](../company/kosmos-energy.md)** | Director | 2012-2023 |
+| **[Ascot Underwriting](../company/ascot-underwriting.md)** | Chairman | 2006- |
+| **[Crossword Cybersecurity](../company/crossword-cybersecurity.md)** | Chairman | - |
 | **Monitor Group** | Senior Advisor | 2005- |
 
 ---
@@ -118,10 +122,16 @@
 | Entita | Connessione |
 |--------|-------------|
 | [MI6](../agency/mi6.md) | Chief 1999-2004 |
-| [Henry Jackson Society](../think-tank/henry-jackson-society.md) | Member |
-| [RUSI](../think-tank/rusi.md) | Vice-Chair |
-| [Atlantik-Brucke](../forum/atlantik-bruecke.md) | Member |
+| [Hakluyt & Company](../company/hakluyt.md) | Advisor; close associate founder Mike Reynolds |
+| [Ergo Global Intelligence](../company/ergo-global.md) | Advisory Board 2013- |
+| [AIG](../company/aig.md) | Advisory Board 2005- |
 | [Kosmos Energy](../company/kosmos-energy.md) | Board 2012-2023 |
+| [Ascot Underwriting](../company/ascot-underwriting.md) | Chairman 2006- |
+| [Crossword Cybersecurity](../company/crossword-cybersecurity.md) | Chairman |
+| [RUSI](../think-tank/rusi.md) | Vice-Chair |
+| [Henry Jackson Society](../think-tank/henry-jackson-society.md) | Member |
+| [Atlantik-Brucke](../forum/atlantik-bruecke.md) | Member |
+| [University of London](../foundation/university-of-london.md) | Chair Board of Trustees |
 
 ---
 
