@@ -53,3 +53,4 @@ La Tragedia del Bayesian
 
 - [] orlando-bravo (born 1970, primo billionaire portoricano, $12.8B net worth)
 - [] carl-thoma (veterano PE dal 1980)
+- [] british-asian-trust

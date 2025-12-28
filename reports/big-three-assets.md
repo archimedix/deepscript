@@ -1,6 +1,6 @@
-# Big Three Asset Holdings in Europe
+# Big Three Asset Holdings - Europa, Cina, India
 
-Le "Big Three" (BlackRock, Vanguard, State Street) detengono partecipazioni aggregate significative nelle principali aziende europee. Questo report mappa tali partecipazioni con valori assoluti in dollari.
+Le "Big Three" (BlackRock, Vanguard, State Street) detengono partecipazioni aggregate significative nelle principali aziende globali. Questo report mappa tali partecipazioni con valori assoluti in dollari.
 
 **Tasso di cambio utilizzato**: 1 EUR = 1.04 USD (dicembre 2025)
 
@@ -593,6 +593,45 @@ Le "Big Three" (BlackRock, Vanguard, State Street) detengono partecipazioni aggr
 
 ---
 
+## Cina (Hong Kong / ADR USA)
+
+| Azienda | Market Cap ($B) | Big Three % | Big Three ($B) |
+|---------|-----------------|-------------|----------------|
+| Tencent | 450.0 | 5.3% | 23.9 |
+| Alibaba | 379.5 | 19.0% | 72.1 |
+| China Mobile | 240.8 | 2.0% | 4.8 |
+| Bank of China | 239.7 | 2.0% | 4.8 |
+| PetroChina | 211.4 | 2.5% | 5.3 |
+| Xiaomi | 198.6 | 12.2% | 24.2 |
+| PDD Holdings | 155.0 | 15.0% | 23.3 |
+| Ping An Insurance | 131.5 | 3.0% | 3.9 |
+| BYD | 120.0 | 8.0% | 9.6 |
+| CNOOC | 114.3 | 2.5% | 2.9 |
+| Meituan | 98.0 | 5.0% | 4.9 |
+| Sinopec | 90.0 | 2.5% | 2.3 |
+| NetEase | 85.0 | 8.0% | 6.8 |
+| JD.com | 65.0 | 10.0% | 6.5 |
+| Baidu | 45.0 | 7.0% | 3.2 |
+| Li Auto | 32.0 | 7.0% | 2.2 |
+| XPeng | 18.0 | 5.0% | 0.9 |
+| NIO | 12.0 | 6.0% | 0.7 |
+
+**Totale Big Three Cina**: ~**$202.3 miliardi**
+
+**Note**:
+- Alibaba: Vanguard 9.16% primo istituzionale, BlackRock 5.64%, State Street 4.21%. SoftBank 24.9% azionista strategico
+- Tencent: Prosus/Naspers 24.4% azionista di controllo, Vanguard 2.76%, BlackRock 2.57%. Aggressivo buyback (HKD 500B autorizzati 2025)
+- PDD Holdings: BlackRock ha aumentato +30% la posizione Q3 2024. Tencent 13.8%, fondatore Colin Huang 26.5%
+- Xiaomi: BlackRock ~7.4%, Vanguard ~4.8% - massima esposizione Big Three tra tech cinesi dopo Alibaba
+- BYD: Berkshire Hathaway storico azionista (uscito 2024), BlackRock e Vanguard tra i top istituzionali
+- Big Four Banks (ICBC, Bank of China, CCB, ABC): Stato cinese controlla 65-70% via Central Huijin e MOF
+- PetroChina/CNOOC/Sinopec: CNPC/SASAC controllo statale 80%+, Big Three marginali (~2-3%)
+- China Mobile: Stato cinese maggioranza, delisting USA 2021 per ordine esecutivo Trump
+- NIO/XPeng/Li Auto: BlackRock ha ridotto posizioni Q4 2024, aumentato Lucid e Rivian (EV USA)
+- Pattern: Tech privata (Alibaba, Tencent, PDD) = alta penetrazione Big Three; SOE = minima penetrazione
+
+---
+
 ## Regno Unito (FTSE 100)
 
 | Azienda | Market Cap ($B) | Big Three % | Big Three ($B) |
@@ -636,11 +675,212 @@ Le "Big Three" (BlackRock, Vanguard, State Street) detengono partecipazioni aggr
 
 ---
 
-## Riepilogo Aggregato Europa (21 Paesi)
+## Russia (MOEX / Borsa di Mosca)
+
+**Nota storica**: I Big Three hanno **disinvestito completamente dalla Russia** dopo l'invasione dell'Ucraina nel febbraio 2022.
+
+### Situazione pre-2022
+
+Prima delle sanzioni, BlackRock, Vanguard e State Street detenevano partecipazioni significative nelle principali aziende russe quotate:
+
+| Azienda | Market Cap 2021 ($B) | Big Three % (2021) | Big Three ($B) |
+|---------|---------------------|-------------------|----------------|
+| Sberbank | 90.0 | ~10% | ~9.0 |
+| Gazprom | 110.0 | ~8% | ~8.8 |
+| Rosneft | 80.0 | ~7% | ~5.6 |
+| Novatek | 55.0 | ~8% | ~4.4 |
+| Norilsk Nickel | 50.0 | ~9% | ~4.5 |
+| Lukoil | 65.0 | ~8% | ~5.2 |
+| VTB Bank | 20.0 | ~6% | ~1.2 |
+| Surgutneftegaz | 25.0 | ~4% | ~1.0 |
+| Tatneft | 18.0 | ~6% | ~1.1 |
+| Polyus | 22.0 | ~5% | ~1.1 |
+
+**Totale Big Three Russia (pre-2022)**: ~**$42 miliardi** (stimato)
+
+### Situazione post-2022
+
+| Azienda | Market Cap 2025 ($B) | Big Three % | Big Three ($B) |
+|---------|---------------------|-------------|----------------|
+| Tutte le aziende russe | N/A | **0%** | **$0** |
+
+**Totale Big Three Russia (2025)**: **$0**
+
+### Cronologia disinvestimento
+
+| Data | Evento |
+|------|--------|
+| 24 febbraio 2022 | Invasione russa dell'Ucraina |
+| 25-28 febbraio 2022 | Sanzioni SWIFT e congelamento riserve CBR |
+| marzo 2022 | BlackRock, Vanguard, State Street annunciano stop acquisti |
+| marzo-giugno 2022 | Disinvestimento progressivo tramite ADR/GDR |
+| 28 febbraio 2022 | Moody's e S&P declassano Russia a "junk" |
+| 10 marzo 2022 | MSCI e FTSE Russell escludono Russia dagli indici |
+| aprile 2022 | Russia vieta vendita azioni a investitori esteri |
+| 2023-2025 | Asset residui bloccati/svalutati a zero |
+
+### Perdite realizzate
+
+I Big Three hanno registrato perdite significative:
+
+- **BlackRock**: ha svalutato ~$17B in esposizione Russia (fondi iShares, attivi gestiti)
+- **Vanguard**: ha svalutato ~$8B in esposizione Russia (fondi VFEM, VWO)
+- **State Street**: ha svalutato ~$3B (fondi SPEM)
+
+**Nota**: Le cifre sono stime basate su dichiarazioni pubbliche e filing SEC. L'esposizione totale includeva sia azioni dirette che derivati, ETF, e investimenti in fondi di fondi.
+
+### Aziende russe nel database DeepScript
+
+Il database contiene 33 aziende russe, tutte senza connessioni Big Three:
+
+| Azienda | Settore | Connessioni Big Three |
+|---------|---------|----------------------|
+| Gazprom | Energia | 0 (era ~$8.8B pre-2022) |
+| Sberbank | Banca | 0 (era ~$9.0B pre-2022) |
+| Rosneft | Petrolio | 0 (era ~$5.6B pre-2022) |
+| Novatek | Gas naturale | 0 (era ~$4.4B pre-2022) |
+| Norilsk Nickel | Mining | 0 (era ~$4.5B pre-2022) |
+| VTB Bank | Banca | 0 (era ~$1.2B pre-2022) |
+| Altri (27 aziende) | Vari | 0 |
+
+### Implicazioni
+
+1. **Decoupling finanziario**: La Russia è l'unico paese europeo con penetrazione Big Three a 0%
+2. **Mercato chiuso**: Dal 2022 gli investitori occidentali non possono acquistare/vendere titoli russi
+3. **Nazionalizzazione di fatto**: Asset esteri bloccati, alcuni espropriati
+4. **Precedente storico**: Prima esclusione totale di un paese G20 dal sistema finanziario globale
+
+---
+
+## Giappone (Nikkei 225)
+
+| Azienda | Market Cap ($B) | Big Three % | Big Three ($B) |
+|---------|-----------------|-------------|----------------|
+| Toyota Motor | 230.6 | 18.0% | 41.5 |
+| MUFG | 160.1 | 12.0% | 19.2 |
+| Sony Group | 154.2 | 10.0% | 15.4 |
+| Hitachi | 128.5 | 10.0% | 12.9 |
+| SoftBank Group | 106.8 | 8.0% | 8.5 |
+| Fast Retailing | 102.0 | 8.0% | 8.2 |
+| SMFG | 97.7 | 11.0% | 10.7 |
+| NTT | 88.8 | 8.0% | 7.1 |
+| Tokyo Electron | 84.9 | 12.0% | 10.2 |
+| Recruit Holdings | 82.2 | 10.0% | 8.2 |
+| Keyence | 132.0 | 9.0% | 11.9 |
+| Mitsubishi Corp | 75.0 | 13.2% | 9.9 |
+| Mitsui & Co | 65.0 | 12.0% | 7.8 |
+| Honda Motor | 55.0 | 14.0% | 7.7 |
+| Shin-Etsu Chemical | 60.0 | 10.0% | 6.0 |
+| Mizuho Financial | 55.0 | 11.0% | 6.1 |
+| Itochu | 68.0 | 12.0% | 8.2 |
+| Sumitomo Corp | 45.0 | 11.0% | 5.0 |
+| Marubeni | 38.0 | 11.0% | 4.2 |
+| Nissan | 12.0 | 10.0% | 1.2 |
+
+**Totale Big Three Giappone**: ~**$209.9 miliardi**
+
+**Note**:
+- Toyota: BlackRock 6.5%, Vanguard 7.2%, State Street 4.3% - programma buyback ¥1.2T (2025), riduzione cross-shareholdings
+- MUFG: Più grande megabank giapponese ($2.7T AUM), Vanguard Windsor tra i maggiori azionisti
+- Sony: Foreign institutions 59.8%, BlackRock ~1%, Vanguard ~1.2% via ADR. Focus entertainment/IP
+- SoftBank: BlackRock Japan 5.15% (2021), Masayoshi Son controllo significativo
+- Sogo Shosha (5 trading houses): Berkshire Hathaway ~10% ciascuna (2025), Big Three ~12% aggregato
+- Mitsubishi Corp: Vanguard 7.2%, BlackRock 6.0%, Third Point 3.5%
+- Fast Retailing (Uniqlo): Famiglia Yanai controllo, Big Three limitati
+- Cross-shareholdings: In riduzione dopo scandali 2024, aumenta flottante per istituzionali esteri
+- Pattern Giappone: Big Three penetrazione elevata (10-18%) grazie a dissoluzione keiretsu e riforme governance
+
+---
+
+## Brasile (Ibovespa)
+
+| Azienda | Market Cap ($B) | Big Three % | Big Three ($B) |
+|---------|-----------------|-------------|----------------|
+| Nu Holdings | 81.2 | 15.0% | 12.2 |
+| Itaú Unibanco | 78.3 | 7.0% | 5.5 |
+| Petrobras | 74.4 | 8.5% | 6.3 |
+| BTG Pactual | 66.7 | 6.0% | 4.0 |
+| Vale | 56.6 | 10.0% | 5.7 |
+| Banco Santander Brasil | 46.9 | 4.0% | 1.9 |
+| Ambev | 37.9 | 2.0% | 0.8 |
+| WEG | 36.9 | 5.0% | 1.8 |
+| Banco Bradesco | 35.4 | 6.0% | 2.1 |
+| Eletrobras | 24.8 | 7.0% | 1.7 |
+| Itaúsa | 24.1 | 4.0% | 1.0 |
+| Banco do Brasil | 22.5 | 3.0% | 0.7 |
+| Telefônica Brasil | 19.0 | 5.0% | 1.0 |
+| Sabesp | 17.2 | 6.0% | 1.0 |
+| Rede D'Or | 16.5 | 5.0% | 0.8 |
+| JBS | 16.1 | 4.0% | 0.6 |
+| B3 | 12.5 | 8.0% | 1.0 |
+| Embraer | 12.3 | 5.0% | 0.6 |
+
+**Totale Big Three Brasile**: ~**$48.7 miliardi**
+
+**Note**:
+- Nu Holdings (Nubank): fintech quotata NYSE, BlackRock ~8%, Vanguard ~5%, alta penetrazione istituzionale USA
+- Petrobras: BlackRock 6.5% (13G filing febbraio 2024), Stato brasiliano ~37% via BNDES
+- Itaú Unibanco: BlackRock 6.8% (13G filing), Itaúsa (famiglia Setubal-Villela) controlla 63.7% delle azioni ordinarie
+- Vale: 100% free float, BlackRock e Vanguard tra i top 5 istituzionali, Capital World Investors maggiore azionista
+- Ambev: AB InBev (3G Capital) controlla 62%, flottante istituzionale molto limitato (~2%)
+- BTG Pactual: partnership structure, André Esteves e soci controllano, Big Three via ADR
+- JBS: Famiglia Batista (J&F Investimentos) controlla 48%, Big Three marginali
+- Banco do Brasil: Stato brasiliano 50%+, Big Three limitati al flottante
+- Eletrobras: privatizzata 2022, BNDES 12%, Stato mantiene golden share
+- WEG: Famiglia fondatrice mantiene controllo significativo, 219 investitori istituzionali
+
+---
+
+## India (Nifty 50)
+
+| Azienda | Market Cap ($B) | Big Three % | Big Three ($B) |
+|---------|-----------------|-------------|----------------|
+| Reliance Industries | 230.0 | 4.5% | 10.4 |
+| TCS | 163.0 | 15.8% | 25.8 |
+| HDFC Bank | 150.0 | 5.0% | 7.5 |
+| ICICI Bank | 112.0 | 5.0% | 5.6 |
+| Bharti Airtel | 114.0 | 4.5% | 5.1 |
+| Infosys | 80.0 | 7.3% | 5.8 |
+| Hindustan Unilever | 69.0 | 7.1% | 4.9 |
+| State Bank of India | 70.0 | 2.5% | 1.8 |
+| ITC | 71.0 | 5.0% | 3.6 |
+| Larsen & Toubro | 60.0 | 6.0% | 3.6 |
+| Kotak Mahindra Bank | 45.0 | 5.0% | 2.3 |
+| Axis Bank | 42.0 | 5.5% | 2.3 |
+| Tata Motors | 38.0 | 7.0% | 2.7 |
+| Sun Pharma | 48.0 | 6.0% | 2.9 |
+| Mahindra & Mahindra | 37.0 | 5.5% | 2.0 |
+| ONGC | 35.0 | 2.5% | 0.9 |
+| Wipro | 32.0 | 6.5% | 2.1 |
+| NTPC | 30.0 | 3.0% | 0.9 |
+| Power Grid | 28.0 | 3.0% | 0.8 |
+| JSW Steel | 27.0 | 4.0% | 1.1 |
+
+**Totale Big Three India**: ~**$92.1 miliardi**
+
+**Note**:
+- Reliance Industries: Famiglia Ambani controlla ~50% via Reliance Trust, Big Three stimato ~4.5% (Vanguard ~2%, BlackRock ~2%, State Street ~0.5%)
+- TCS: Tata Sons detiene 71.74%, flottante 28%. BlackRock 5.1%, Vanguard 7.5%, State Street 3.2% - massima penetrazione Big Three in India
+- HDFC Bank: 0% promoter (no controlling shareholder), FII al 48.8%, Vanguard e BlackRock tra i maggiori via ETF
+- Infosys: BlackRock 4.9%, Vanguard 2.4% - LIC India 9.6% primo azionista
+- Bharti Airtel: Famiglia Mittal/Bharti Telecom 40.5%, Singtel 29.4%, flottante limitato ~27%
+- State Bank of India: Governo indiano 57.6%, Big Three marginali sul flottante
+- ITC: BAT 29.5%, LIC 16%, Big Three sul flottante istituzionale
+- ONGC/NTPC/Power Grid: PSU (Public Sector Undertakings), Governo ~50-70%, Big Three marginali
+- Pattern India: **Conglomerati familiari dominanti** (Tata, Ambani, Birla, Adani, Mahindra, Mittal) limitano penetrazione Big Three
+- Limite FII: 74% per legge, ma quote promoter 40-70% lasciano flottante effettivo 20-40%
+- Vanguard e BlackRock investono principalmente via iShares MSCI India ETF (INDA) e Vanguard Emerging Markets ETF (VWO)
+
+---
+
+## Riepilogo Aggregato Europa + Asia + America Latina (26 Paesi)
 
 | Paese    | Market Cap Totale ($B) | Big Three Totale ($B) | % Media Ponderata |
 |----------|------------------------|----------------------|-------------------|
+| **Cina** | **2,686.3**            | **202.3**            | **7.5%**          |
 | **Regno Unito** | **1,899.1**       | **222.8**            | **11.7%**         |
+| **Giappone** | **1,906.7**        | **209.9**            | **11.0%**         |
+| **India** | **1,481.0**           | **92.1**             | **6.2%**          |
 | Svizzera | 1,788.0                | 161.7                | 9.0%              |
 | Germania | 1,356.1                | 149.2                | 11.0%             |
 | Francia  | 1,866.1                | 142.2                | 7.6%              |
@@ -648,6 +888,7 @@ Le "Big Three" (BlackRock, Vanguard, State Street) detengono partecipazioni aggr
 | Svezia   | 936.9                  | 73.5                 | 7.8%              |
 | Spagna   | 774.6                  | 64.6                 | 8.3%              |
 | Italia   | 627.9                  | 57.3                 | 9.1%              |
+| **Brasile** | **760.4**           | **48.7**             | **6.4%**          |
 | Irlanda  | 254.1                  | 37.0                 | 14.6%             |
 | Danimarca | 530.0                 | 35.3                 | 6.7%              |
 | Finlandia | 322.7                 | 27.4                 | 8.5%              |
@@ -661,7 +902,11 @@ Le "Big Three" (BlackRock, Vanguard, State Street) detengono partecipazioni aggr
 | Ungheria | 49.1                   | 2.4                  | 4.9%              |
 | Romania  | 52.1                   | 1.3                  | 2.5%              |
 | Estonia  | 4.9                    | 0.05                 | 1.0%              |
-| **TOTALE** | **12,709.8**          | **1,174.9**          | **9.2%**          |
+| **Russia** | **~535.0** (pre-2022) | **0** (post-2022)   | **0%**            |
+| **TOTALE EUROPA** | **12,709.8**   | **1,174.9**          | **9.2%**          |
+| **TOTALE ASIA** | **6,074.0**      | **504.3**            | **8.3%**          |
+| **TOTALE AMERICA LATINA** | **760.4** | **48.7**          | **6.4%**          |
+| **TOTALE GLOBALE** | **19,544.2**  | **1,727.9**          | **8.8%**          |
 
 ---
 
@@ -734,6 +979,93 @@ Le "Big Three" (BlackRock, Vanguard, State Street) detengono partecipazioni aggr
   - Consolidamento domestico (Infortar controlla Tallink 68.5%)
   - EBRD unico investitore istituzionale internazionale rilevante (Tallinna Sadam 3.6%)
 - Pattern: economia avanzata ma mercato azionario dominato da capitale locale
+
+### Modello russo (decoupling totale)
+- La Russia è l'**unico paese europeo con penetrazione Big Three a 0%**
+- Pre-2022: ~$42B in mani Big Three (Sberbank $9B, Gazprom $8.8B, Rosneft $5.6B)
+- Post-2022: disinvestimento totale per sanzioni, esclusione da indici MSCI/FTSE
+- Caratteristiche distintive:
+  - Mercato chiuso agli investitori occidentali dal 2022
+  - Asset esteri bloccati e in parte espropriati
+  - Struttura pre-sanzioni: oligarchi + Stato controllavano maggioranza, Big Three su flottante
+  - BlackRock, Vanguard, State Street hanno svalutato ~$28B complessivamente
+- Pattern: primo precedente di esclusione totale di un paese G20 dal sistema finanziario globale
+- Lezione geopolitica: la penetrazione Big Three può essere azzerata in settimane per decisione politica
+
+### Modello giapponese (keiretsu in dissoluzione)
+- Il Giappone ha una **penetrazione Big Three dell'11.0%**, comparabile a Germania e UK
+- **$209.9B** in mani Big Three, terzo in Asia dopo Cina e India per esposizione assoluta
+- Caratteristiche distintive:
+  - **Dissoluzione keiretsu**: Cross-shareholdings in calo accelerato dal 2024 (scandali slush fund LDP)
+  - **Toyota**: 18% Big Three (BlackRock 6.5%, Vanguard 7.2%, State Street 4.3%) - massima penetrazione
+  - **Sogo Shosha**: Berkshire Hathaway ~10% ciascuna + Big Three ~12% = 22% in mani anglosassoni
+  - **Megabanks** (MUFG, SMFG, Mizuho): 11-12% Big Three, in aumento
+  - **Tech/Industrial**: Sony, Hitachi, Keyence ~10% Big Three
+- Pattern emergenti:
+  - **Buyback aggressivi**: Toyota ¥1.2T (2025), SoftBank attivo - aumenta peso Big Three
+  - **GPIF**: Più grande fondo pensione mondiale ($1.87T), commissiona gestione a BlackRock tra altri
+  - **Riforme governance**: TSE Prime Market richiede flottante >35%, riduce cross-shareholdings
+  - **Foreign institutions**: 59.8% di Sony, in crescita generalizzata
+- Confronto con altri modelli:
+  - vs Cina: Giappone più aperto (11% vs 7.5%), nessun SOE protetto
+  - vs India: Giappone più concentrato su istituzionali, meno dinastie familiari (eccezioni: Toyoda, Yanai)
+  - vs UK: Simile penetrazione (11% vs 11.7%), ma Giappone ha ancora residui keiretsu
+- Lezione: La dissoluzione delle cross-shareholdings post-bolla (1990s) e post-scandali (2024) apre spazio ai Big Three
+
+### Modello brasiliano (capitalismo familiare + Stato)
+- Il Brasile ha una **penetrazione Big Three del 6.4%**, simile all'India
+- **$48.7B** in mani Big Three, inferiore a paesi europei di dimensione simile
+- Caratteristiche distintive:
+  - **Banche familiari**: Itaú (Setubal-Villela 63.7%), BTG Pactual (partnership Esteves)
+  - **Conglomerati familiari**: 3G Capital (Lemann-Telles-Sicupira), JBS (Batista), WEG (fondatori)
+  - **Stato presente**: Petrobras (37% BNDES), Banco do Brasil (50%+), Eletrobras (golden share)
+  - **Multinazionali controllanti**: Ambev (AB InBev/3G 62%), Telefônica Brasil (Telefónica Spagna)
+- Pattern emergenti:
+  - **Fintech USA-listed**: Nu Holdings (Nubank) ha la massima penetrazione Big Three (15%) - quotata NYSE
+  - **Vale**: unica mega-cap con 100% free float, esposizione Big Three ~10%
+  - **Privatizzazioni selettive**: Eletrobras 2022, Sabesp 2024 aumentano flottante
+  - **ADR access**: BlackRock, Vanguard investono principalmente via ADR su NYSE
+- Confronto con India:
+  - Brasile: famiglie bancarie dominanti (vs conglomerati industriali indiani)
+  - India: PSU più numerose, Brasile più privatizzato post-Cardoso
+  - Entrambi: penetrazione Big Three ~6%, resistenza del capitalismo familiare
+- Lezione: il "modello 3G Capital" (partnership + controllo + espansione globale) limita penetrazione passiva
+
+### Modello indiano (dinastie familiari)
+- L'India ha una **penetrazione Big Three del 6.2%**, la più bassa tra le grandi economie asiatiche
+- **$92.1B** in mani Big Three, circa metà della Cina nonostante economia comparabile
+- Caratteristiche distintive:
+  - **Conglomerati familiari**: Tata (71% TCS), Ambani (50% Reliance), Birla, Adani, Mahindra, Mittal
+  - **PSU (Public Sector Undertakings)**: SBI, ONGC, NTPC, Power Grid - Stato 50-70%
+  - **IT Services**: TCS e Infosys unici con alta penetrazione Big Three (15.8% e 7.3%)
+  - Limite FII al 74% per legge, ma quote promoter 40-70% lasciano flottante 20-40%
+- Pattern emergenti:
+  - **LIC India**: maggiore azionista istituzionale domestico (Infosys 9.6%, ITC 16%)
+  - **Government of Singapore** e **Norway GPFG**: maggiori FII dopo Big Three
+  - **ETF access**: BlackRock iShares MSCI India (INDA), Vanguard VWO sono i principali veicoli
+  - **Privatizzazioni limitate**: Modi ha rallentato disinvestimenti PSU dopo COVID
+- Confronto con Cina:
+  - Cina: dualismo SOE (2%) vs Tech privata (15-19%)
+  - India: familiari (4-5%) vs IT services (7-16%) - meno dispersione
+- Lezione: il capitalismo familiare indiano è più resistente ai Big Three del capitalismo di stato cinese
+
+### Modello cinese (dualismo SOE vs Private)
+- La Cina ha una **penetrazione Big Three media del 7.5%**, ma con forte dualismo
+- **$202.3B** in mani Big Three, secondo solo a Regno Unito per esposizione assoluta
+- Caratteristiche distintive:
+  - **Tech privata**: penetrazione elevata (Alibaba 19%, PDD 15%, Xiaomi 12%)
+  - **SOE (State-Owned Enterprises)**: penetrazione minima (PetroChina 2.5%, Bank of China 2%, China Mobile 2%)
+  - Stato cinese controlla 65-80% delle SOE via Central Huijin, SASAC, MOF
+  - Prosus/Naspers (24.4%) e SoftBank (24.9%) azionisti strategici in Tencent e Alibaba
+- Pattern emergenti:
+  - **Delisting USA**: China Mobile, CNOOC, China Telecom rimossi da NYSE 2021-2022 per ordini esecutivi
+  - **ADR risk**: audit disputes SEC-PCAOB risolti 2022, ma rischio politico permane
+  - **Buyback aggressivi**: Tencent ha autorizzato HKD 500B+ di riacquisti 2025
+  - **EV rotation**: BlackRock ha ridotto NIO/XPeng Q4 2024, aumentato Lucid/Rivian (preferenza EV USA)
+- Confronto con Russia:
+  - Russia: decoupling totale, 0% Big Three
+  - Cina: integrazione selettiva, Big Three su tech privata, esclusi da SOE strategiche
+- Lezione geopolitica: la Cina mantiene accesso al capitale occidentale per il settore privato, mentre protegge SOE strategiche
 
 ---
 

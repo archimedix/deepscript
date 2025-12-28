@@ -13,7 +13,7 @@
 | **Figli** | 3: Eiesha, Kavin, Shravin (gemelli 1987) |
 | **Fratelli** | Rakesh e Rajan Mittal (co-costruttori Bharti) |
 | **Residenza** | New Delhi |
-| **Net Worth** | $34B (Forbes India #4, Dec 2025) |
+| **Net Worth** | $34.2B (Forbes India #4, Dec 2025) |
 
 ---
 
@@ -59,6 +59,8 @@
 | **2006** | Rebrand: Bharti Airtel |
 | **2010** | Acquisizione Zain Africa ($10.7B) |
 | **2024** | 550M+ clienti, #2 mondiale |
+| **2024** | Acquisizione 24.5% BT Group (£3.2B) |
+| **2025** | Board member BT Group |
 
 ---
 
@@ -67,21 +69,21 @@
 ### Mappa delle Appartenenze
 
 ```
-                    SUNIL MITTAL
-                         |
-      +------------------+------------------+
-      |                  |                  |
-      v                  v                  v
-BHARTI AIRTEL         WEF IBC            CFR
-Founder/Chair      Member Council    Global Advisors
-  1995-              attuale            attuale
-      |
-      +--------+--------+
-      |        |        |
-      v        v        v
-    ICC    CARNEGIE   GSMA
-  Chairman  Trustee  Chairman
-  2016-18   2009-21   2016-18
+                         SUNIL MITTAL
+                              |
+         +--------------------+--------------------+
+         |                    |                    |
+         v                    v                    v
+   BHARTI AIRTEL          WEF IBC               CFR
+   Founder/Chair       Member Council     Global Advisors
+     1995-               attuale             attuale
+         |
+    +----+----+----+----+----+
+    |    |    |    |    |    |
+    v    v    v    v    v    v
+  ICC  GSMA CARN EUTS  BT  BRDC
+ 2016  2017 2009 2023 2025  att
+  -18   -18  -21   -    -    -
 ```
 
 ### Forum Internazionali
@@ -96,8 +98,10 @@ Founder/Chair      Member Council    Global Advisors
 
 | Organizzazione | Ruolo | Periodo |
 |----------------|-------|---------|
+| **BT Group** | Non-Executive Director | 2025- |
+| **Eutelsat Group** | Co-Chairman | 2023- |
 | **ICC** | Chairman | 2016-2018 |
-| **GSMA** | Chairman | 2016-2018 |
+| **GSMA** | Chairman | 2017-2018 |
 | **Carnegie Endowment** | Trustee | 2009-2021 |
 | **Harvard University** | Global Advisory Council | attuale |
 | **Broadband Commission (ITU/UNESCO)** | Commissioner | attuale |
@@ -138,8 +142,9 @@ Founder/Chair      Member Council    Global Advisors
 
 | Partner | Natura | Significato |
 |---------|--------|-------------|
-| **Singtel (Singapore)** | 28.3% stake | Capitale, governance asiatica |
+| **Singtel (Singapore)** | 28.3% stake in Bharti | Capitale, governance asiatica |
 | **Temasek** | Via Singtel | SWF Singapore |
+| **BT Group (UK)** | 24.5% stake Bharti→BT | Largest shareholder UK telecom |
 | **Siemens** | JV storica | Trasferimento tecnologia |
 
 ---
@@ -208,6 +213,11 @@ Founder/Chair      Member Council    Global Advisors
 | [CFR](../forum/cfr.md) | Global Board of Advisors |
 | [Carnegie](../think-tank/carnegie.md) | Trustee 2009-2021 |
 | [ICC](../agency/icc.md) | Chairman 2016-2018 |
+| [GSMA](../agency/gsma.md) | Chairman 2017-2018 |
+| [BT Group](../company/bt-group.md) | Board 2025-; 24.5% stake |
+| [Eutelsat](../company/eutelsat.md) | Co-Chairman 2023- |
+| [Broadband Commission](../agency/broadband-commission.md) | Commissioner |
+| [Harvard](../think-tank/harvard.md) | Global Advisory Council |
 
 ### Persone
 
@@ -255,7 +265,9 @@ TEMASEK (SWF Singapore)
 | **2010** | Acquisizione Zain Africa ($10.7B) |
 | **2016** | Chairman ICC e GSMA |
 | **2024** | Honorary KBE da Re Carlo III |
-| **2025** | Forbes India #4 ($34B) |
+| **2024** | Acquisizione 24.5% BT Group (£3.2B) |
+| **2025** | Board member BT Group (Sep) |
+| **2025** | Forbes India #4 ($34.2B) |
 
 ---
 
@@ -265,6 +277,8 @@ TEMASEK (SWF Singapore)
 - [ ] Competizione Jio: strategia lungo termine?
 - [ ] Africa: consolidamento o ulteriore espansione?
 - [ ] Evoluzione partnership Singtel?
+- [ ] BT Group: aumento stake oltre 24.5%?
+- [ ] Eutelsat/OneWeb: sviluppo satellite broadband?
 
 ---
 
@@ -283,6 +297,10 @@ TEMASEK (SWF Singapore)
 - [Harvard Business School - Creating Emerging Markets](https://www.hbs.edu/creating-emerging-markets/interviews/Pages/profile.aspx?profile=smittal)
 - [University of Bath - Honorary Degree](https://www.bath.ac.uk/announcements/visionary-entrepreneur-and-philanthropist-sunil-bharti-mittal-kbe-awarded-honorary-degree/)
 
+### BT Group
+- [BT Group Board](https://www.bt.com/about/bt/our-board/sunil-bharti-mittal)
+- [Bharti founder Mittal on BT board](https://www.bebeez.eu/2025/09/17/bharti-founder-mittal-and-airtel-chairman-vittal-secure-seats-on-bt-groups-board/)
+
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Dicembre 2025*
