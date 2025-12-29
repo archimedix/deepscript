@@ -157,6 +157,7 @@ Stournaras          CRISI 2009
 | Nome | Anni | Ruolo | Affiliazione |
 |------|------|-------|--------------|
 | [**Dimitris Papalexopoulos**](../docs/persons/dimitris-papalexopoulos.md) | 2008- | **Steering Committee, Treasurer** | Chairman [Titan Cement](../docs/company/titan-cement.md) |
+| [**Kostas Karras**](../docs/persons/kostas-karras.md) | 2000s | **Steering Committee** | Attore, MP New Democracy (1936-2012) |
 | [Kyriakos Mitsotakis](../docs/persons/kyriakos-mitsotakis.md) | 2016 | Partecipante | PM attuale |
 | [Dora Bakoyannis](../docs/persons/dora-bakoyannis.md) | 2003, 2009 | Partecipante | Min. Esteri |
 | [Kostas Karamanlis](../docs/persons/kostas-karamanlis.md) | 1998, 2009 | Partecipante | PM 2004-2009 |
@@ -443,6 +444,7 @@ RETURN p.id, o.id, r.role
 | lucas-papademos | Person | [Scheda](../docs/persons/lucas-papademos.md) |
 | dimitris-papalexopoulos | Person | [Scheda](../docs/persons/dimitris-papalexopoulos.md) |
 | anna-diamantopoulou | Person | [Scheda](../docs/persons/anna-diamantopoulou.md) |
+| kostas-karras | Person | [Scheda](../docs/persons/kostas-karras.md) |
 | bank-of-greece | CentralBank | [Scheda](../docs/central-bank/bank-of-greece.md) |
 | 2001-goldman-greece-swap | Event | [Scheda](../docs/events/2001-goldman-greece-swap.md) |
 
@@ -508,4 +510,4 @@ RETURN p.id, o.id, r.role
 
 ---
 
-*Ultimo aggiornamento: 17 Dicembre 2024*
+*Ultimo aggiornamento: 29 Dicembre 2024*

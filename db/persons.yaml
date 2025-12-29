@@ -618,20 +618,34 @@ persons:
     born: 1968
     nationality: FIN
     affiliations:
+    - org: bilderberg
+      role: member
+      note: Partecipò 2015
     - org: wef
       role: ygl
       from: 2009
+      note: Young Global Leader 2009
     - org: collegio-europa
       role: alumnus
     - org: governo-finlandia
-      role: minister
-      from: 2008
+      role: leader
+      from: 2014
       to: 2014
-      note: Foreign Affairs
+      note: PM 2014-15, FM 2008-11, Finance 2015-16, President 2024-
     - org: eib
       role: executive
       from: 2017
       to: 2020
+    - org: european-parliament
+      role: legislator
+      from: 2004
+      to: 2008
+      note: MEP National Coalition Party
+    - org: college-of-europe
+      role: member
+      from: 1994
+      to: 1995
+      note: MA, poi Visiting Professor 2000
   alexander-torrenegra:
     nationality: CO
     note: Founded Voice123 (largest voice-over marketplace). MIT TR35 Top Colombian Innovator 2012. Endeavor High-Impact Entrepreneur
@@ -965,16 +979,16 @@ persons:
     died: 1986
     nationality: ITA
     affiliations:
-    - org: parlamento-europeo
-      role: member
-      from: 1979
-      to: 1986
-      note: Eurodeputato; autore Progetto Trattato UE 1984
-    - org: commissione-europea
+    - org: european-commission
       role: executive
       from: 1970
       to: 1976
       note: Commissario Europeo
+    - org: european-parliament
+      role: member
+      from: 1979
+      to: 1986
+      note: Eurodeputato; autore Progetto Trattato UE 1984
     - org: iai
       role: founder
       from: 1965
@@ -1168,6 +1182,48 @@ persons:
     died: 2000
     nationality: RUS
     note: Mayor St. Petersburg 1991-96, mentor to Putin and Chubais
+  anders-eldrup:
+    born: 1948
+    nationality: DNK
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 2001
+      to: 2010
+      note: Steering Committee member
+    - org: orsted
+      role: executive
+      from: 2001
+      to: 2012
+      note: CEO DONG/DONG Energy
+    - org: governo-danimarca
+      role: executive
+      from: 1991
+      to: 2001
+      note: Permanent Secretary, Ministry of Finance
+    - org: rockwool-foundation
+      role: board
+      note: Board member
+    relations:
+    - person: merete-eldrup
+      type: spouse
+  anders-fogh-rasmussen:
+    born: 1953
+    nationality: DNK
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Attendee 2000, 2003, 2014
+    - org: nato
+      role: executive
+      from: 2009
+      to: 2014
+      note: Secretary General
+    - org: governo-danimarca
+      role: leader
+      from: 2001
+      to: 2009
+      note: Prime Minister
   anders-opedal:
     born: 1968
     nationality: NOR
@@ -1539,6 +1595,68 @@ persons:
       role: founder
     - org: bcg
       role: consultant
+  andrew-knight:
+    born: 1939
+    nationality: GBR
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1980
+      to: 1998
+      note: Steering Committee
+    - org: the-economist
+      role: executive
+      from: 1974
+      to: 1986
+      note: Editor
+    - org: times-newspapers
+      role: chairman
+      from: 2012
+      note: Chairman
+    - org: news-corp
+      role: chairman
+      from: 1990
+      to: 1994
+      note: Chairman News International
+    - org: news-corporation
+      role: board
+      from: 1991
+      to: 2012
+      note: Director
+    - org: telegraph-group
+      role: executive
+      from: 1986
+      to: 1989
+      note: Chief Executive and Editor-in-Chief
+    - org: rit-capital-partners
+      role: board
+      from: 1997
+      to: 2008
+      note: Director
+    - org: ditchley-foundation
+      role: board
+      note: Governor
+    - org: centre-for-policy-studies
+      role: board
+      note: Board member
+    - org: j-rothschild-capital-management
+      role: chairman
+      from: 2008
+      to: 2010
+      note: Chairman
+    relations:
+    - person: conrad-black
+      type: colleague
+      note: Recruited by Knight for Telegraph takeover 1985
+    - person: henry-kissinger
+      type: friend
+      note: Close friend via Bilderberg network
+    - person: jacob-rothschild
+      type: colleague
+      note: RIT board, J. Rothschild Capital Management chairman
+    - person: rupert-murdoch
+      type: colleague
+      note: Named successor at News Corp 1990
   andrew-mellon:
     born: 1855
     died: 1937
@@ -1856,10 +1974,23 @@ persons:
     born: 1961
     nationality: PRT
     affiliations:
+    - org: governo-portogallo
+      role: leader
+      from: 2015
+      to: 2024
+      note: Primo Ministro
     - org: unione-europea
       role: leader
       from: 2024
       note: Presidente Consiglio Europeo
+    - org: european-council
+      role: president
+      from: 2024
+    - org: european-parliament
+      role: executive
+      from: 2004
+      to: 2005
+      note: MEP, Vice-Presidente
   antonio-di-pietro:
     born: 1950
     nationality: ITA
@@ -1875,10 +2006,21 @@ persons:
     born: 1953
     nationality: ITA
     affiliations:
+    - org: wef
+      role: member
     - org: governo-italia
       role: minister
       from: 2022
       note: Vice-Presidente del Consiglio, Ministro Esteri (governo Meloni)
+    - org: european-commission
+      role: executive
+      from: 2008
+      to: 2014
+      note: Vice-President, Commissioner Industry
+    - org: european-parliament
+      role: president
+      from: 2017
+      to: 2019
   antony-blinken:
     born: 1962
     nationality: USA
@@ -2520,6 +2662,10 @@ persons:
       from: 2020
       to: 2023
       note: CEO
+    relations:
+    - person: albert-manifold
+      type: colleague
+      note: Irlandesi ai vertici BP; Looney CEO 2020-23, Manifold Chairman 2025-
   bernhard-lippe-biesterfeld:
     born: 1911
     died: 2004
@@ -2641,6 +2787,9 @@ persons:
       role: ygl
       from: 1984
       note: Young Leader 1984
+    - org: club-madrid
+      role: member
+      from: 2001
   bill-ford-jr:
     born: 1957
     nationality: USA
@@ -2693,6 +2842,41 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  bjorn-wahlroos:
+    born: 1952
+    nationality: FIN
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2016
+      note: 6 partecipazioni
+    - org: nordea
+      role: chairman
+      from: 2011
+      to: 2019
+    - org: sampo
+      role: executive
+      from: 2000
+      to: 2009
+      note: CEO
+    - org: sampo
+      role: chairman
+      from: 2009
+      to: 2023
+    - org: upm-kymmene
+      role: chairman
+      from: 2008
+      to: 2023
+    - org: hanken
+      role: chairman
+      from: 2009
+      to: 2018
+      note: Professor 1979-85, Chairman Board 2009-18
+    - org: mandatum
+      role: founder
+      from: 1988
+      to: 2000
+      note: Co-founder, merged into Sampo 2000
   boaz-moldawsky:
     nationality: ISR
     affiliations:
@@ -3232,10 +3416,28 @@ persons:
     born: 1934
     nationality: ITA
     affiliations:
+    - org: fiat
+      role: executive
+      from: 1976
+      to: 1976
+      note: CEO (100 giorni)
+    - org: la-repubblica
+      role: chairman
+      from: 1976
+      note: Proprietario via CIR
     - org: european-round-table
       role: founder
       from: 1983
       note: Fondatore (Olivetti)
+    - org: cir
+      role: chairman
+      from: 1976
+      note: Fondatore/Presidente
+    - org: olivetti
+      role: chairman
+      from: 1978
+      to: 1996
+      note: CEO/Presidente
   carlo-malacarne:
     nationality: ITA
     affiliations:
@@ -3386,6 +3588,24 @@ persons:
       role: board
       from: 2020
       note: Supervisory Board member
+  casimir-ehrnrooth:
+    born: 1931
+    died: 2015
+    nationality: FIN
+    affiliations:
+    - org: nokia
+      role: chairman
+      from: 1992
+      to: 1999
+    - org: nordea
+      role: board
+      note: Union Bank board
+    - org: upm-kymmene
+      role: executive
+      note: CEO Kaukas paper factory
+    relations:
+    - person: henrik-ehrnrooth
+      type: parent
   catherine-howarth:
     nationality: GB
     note: Chief Executive ShareAction. Board Green Alliance. Investment committee Trust for London.
@@ -3571,6 +3791,21 @@ persons:
       role: leader
       from: 2022
       note: Head of the Commonwealth
+  charles-michel:
+    born: 1975
+    nationality: BEL
+    affiliations:
+    - org: wef
+      role: member
+    - org: governo-belgio
+      role: leader
+      from: 2014
+      to: 2019
+      note: Primo Ministro
+    - org: european-council
+      role: president
+      from: 2019
+      to: 2024
   charles-powell:
     born: 1960
     nationality: ESP-GBR
@@ -3833,10 +4068,6 @@ persons:
       role: member
     - org: trilaterale
       role: member
-    - org: bce
-      role: executive
-      from: 2019
-      note: Presidente BCE
     - org: fmi
       role: executive
       from: 2011
@@ -3846,6 +4077,10 @@ persons:
       from: 2007
       to: 2011
       note: Min. Economia e Finanze
+    - org: ecb
+      role: executive
+      from: 2019
+      note: Presidente BCE
   christoph-schell:
     nationality: DEU
     affiliations:
@@ -4126,6 +4361,26 @@ persons:
       role: founder
       from: 1994
       note: Founder, Chairperson
+  connie-hedegaard:
+    born: 1960
+    nationality: DNK
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Current Steering Committee member
+    - org: european-commission
+      role: executive
+      from: 2010
+      to: 2014
+      note: Commissioner for Climate Action
+    - org: berlingske-tidende
+      role: chairman
+      note: Chair of Berlingske Media DPG Group
+    - org: governo-danimarca
+      role: minister
+      from: 2004
+      to: 2009
+      note: Minister of Environment, then Climate and Energy
   conrad-black:
     born: 1944
     nationality: CAN-GBR
@@ -4225,12 +4480,6 @@ persons:
     - org: wef
       role: ygl
       from: 2021
-  crown-prince-frederik:
-    born: 1968
-    nationality: DNK
-    affiliations:
-    - org: wef
-      role: ygl
   crown-prince-haakon:
     born: 1973
     nationality: NOR
@@ -4769,6 +5018,25 @@ persons:
     - org: institute-for-advanced-study
       role: board
       note: Trustee
+  david-sassoli:
+    born: 1956
+    died: 2022
+    nationality: ITA
+    affiliations:
+    - org: rai
+      role: executive
+      from: 1992
+      to: 2009
+      note: Giornalista TG1, Deputy Director
+    - org: european-parliament
+      role: president
+      from: 2019
+      to: 2022
+    - org: european-parliament
+      role: legislator
+      from: 2009
+      to: 2014
+      note: MEP
   david-willetts:
     nationality: GBR
     affiliations:
@@ -4864,6 +5132,63 @@ persons:
     - org: wef
       role: ygl
       from: 2012
+  denis-obrien:
+    born: 1958
+    nationality: IRL
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Membro
+    - org: independent-news-media
+      role: board
+      to: 2019
+      note: Major shareholder fino vendita 2019
+    - org: digicel
+      role: founder
+      from: 2001
+      note: Founder; 10% stake post-restructuring 2023
+    relations:
+    - person: dermot-gleeson
+      type: colleague
+      note: Entrambi board INM
+  dermot-desmond:
+    born: 1950
+    nationality: IRL
+    affiliations:
+    - org: celtic-fc
+      role: board
+      from: 1994
+      note: Largest shareholder (34.9%)
+  dermot-gleeson:
+    born: 1948
+    nationality: IRL
+    affiliations:
+    - org: governo-irlanda
+      role: minister
+      from: 1994
+      to: 1997
+      note: Attorney General
+    - org: de-beers
+      role: advisor
+      from: 2003
+      note: Ombudsman Diamond Trading Company
+    - org: aib
+      role: chairman
+      from: 2003
+      to: 2009
+      note: Chairman AIB Group
+    - org: independent-news-media
+      role: board
+      from: 2000
+      note: Non-executive director
+    - org: university-college-cork
+      role: chairman
+      from: 2007
+      note: Chairman Governing Body
+    relations:
+    - person: peter-sutherland
+      type: colleague
+      note: Entrambi Attorney General IRL e collegati AIB
   devesh-raj:
     nationality: US
     note: SVP Head of Strategy Comcast Corporation. Former BCG Senior Partner Head Americas TMT. Board New York Hall of Science.
@@ -5515,6 +5840,21 @@ persons:
     - org: wef
       role: ygl
       from: 2025
+  elina-valtonen:
+    nationality: FIN
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2018
+      note: Turin 2018
+    - org: governo-finlandia
+      role: minister
+      from: 2023
+      note: Min. Esteri
+    - org: nordea
+      role: executive
+      to: 2014
+      note: Senior Analyst
   elisabeth-belgium:
     born: 2001
     nationality: BEL
@@ -5933,6 +6273,49 @@ persons:
       role: board
       from: 2021
       note: Supervisory Board Co-Chair
+  erik-seidenfaden:
+    born: 1910
+    died: 1990
+    nationality: DNK
+    affiliations:
+    - org: trilateral-commission
+      role: member
+      from: 1976
+      note: Member
+    - org: iiss
+      role: board
+      from: 1965
+      to: 1975
+      note: Council member
+    - org: dagbladet-information
+      role: executive
+      from: 1946
+      to: 1965
+      note: Editor-in-Chief, co-founder
+  erkki-liikanen:
+    born: 1950
+    nationality: FIN
+    affiliations:
+    - org: governo-finlandia
+      role: minister
+      from: 1987
+      to: 1990
+      note: Min. Finanze
+    - org: commissione-ue
+      role: executive
+      from: 1995
+      to: 2004
+      note: Commissioner Budget, Enterprise
+    - org: ecb
+      role: board
+      from: 2004
+      to: 2018
+      note: Governing Council member
+    - org: bank-of-finland
+      role: executive
+      from: 2004
+      to: 2018
+      note: Governor
   erna-solberg:
     born: 1961
     nationality: NOR
@@ -6120,7 +6503,7 @@ persons:
     - org: wef
       role: ygl
       from: 2019
-    - org: parlamento-europeo
+    - org: european-parliament
       role: member
       from: 2014
       note: MEP Bulgaria
@@ -6190,7 +6573,7 @@ persons:
     born: 1959
     nationality: ITA
     affiliations:
-    - org: bce
+    - org: ecb
       role: board
       from: 2020
       to: 2023
@@ -6324,10 +6707,35 @@ persons:
     born: 1942
     nationality: ESP
     affiliations:
+    - org: bilderberg
+      role: member
+      from: 1991
+    - org: governo-spagna
+      role: leader
+      from: 1982
+      to: 1996
+      note: Presidente del Gobierno
+    - org: socialist-international
+      role: board
+      from: 1978
+      to: 1999
+      note: Vice-President
     - org: real-instituto-elcano
       role: board
       from: 2001
       note: Ex-PM, Board of Trustees
+    - org: naturgy
+      role: board
+      from: 2010
+      to: 2015
+      note: Independent Director
+    - org: prisa
+      role: advisor
+      to: 2021
+      note: Editorial Council
+    - org: club-madrid
+      role: member
+      from: 2001
   felipe-vi:
     born: 1968
     nationality: ESP
@@ -6383,7 +6791,7 @@ persons:
       from: 1972
       to: 2013
       note: Diplomatico; Dir. Gen. Integrazione Europea 2004-06; Capo Gabinetto MAE 2006-08
-    - org: commissione-europea
+    - org: european-commission
       role: executive
       from: 2014
       to: 2014
@@ -6892,10 +7300,6 @@ persons:
     nationality: FRA
     note: ENA, IGF. Famiglia Villeroy & Boch (ceramica). Parla tedesco fluente
     affiliations:
-    - org: bce
-      role: board
-      from: 2015
-      note: Governing Council (ex officio come Gov. BdF)
     - org: bis
       role: chairman
       from: 2022
@@ -6905,6 +7309,10 @@ persons:
       from: 1988
       to: 2003
       note: Tesoro 1988-97, Chief of Staff Min. Economia (DSK, Sautter) 1997-2000, DG Fiscale 2000-03
+    - org: ecb
+      role: board
+      from: 2015
+      note: Governing Council (ex officio come Gov. BdF)
     - org: banque-de-france
       role: executive
       from: 2015
@@ -6950,7 +7358,7 @@ persons:
     born: 1970
     nationality: NLD
     affiliations:
-    - org: bce
+    - org: ecb
       role: board
       from: 2020
       note: Executive Board - Banking Supervision
@@ -7097,6 +7505,16 @@ persons:
       role: executive
       from: 2006
       note: President & CEO
+  frederik-x:
+    born: 1968
+    nationality: DNK
+    affiliations:
+    - org: wef
+      role: ygl
+    - org: governo-danimarca
+      role: leader
+      from: 2024
+      note: King Frederik X
   friede-springer:
     born: 1942
     nationality: DEU
@@ -7131,15 +7549,15 @@ persons:
       role: legislator
       from: 1994
       to: 2009
-    - org: parlamento-europeo
-      role: member
-      from: 1989
-      to: 1994
     - org: atlantik-brucke
       role: chairman
       from: 2009
       to: 2019
       note: Chairman per 10 anni
+    - org: european-parliament
+      role: member
+      from: 1989
+      to: 1994
   fritz-hoffmann-la-roche:
     born: 1868
     died: 1920
@@ -7167,6 +7585,18 @@ persons:
       from: 2024
       to: 2024
       note: Primo Ministro (gen-set 2024)
+  gabriel-makhlouf:
+    born: 1960
+    nationality: GBR
+    affiliations:
+    - org: ecb
+      role: board
+      from: 2019
+      note: Governing Council member
+    - org: central-bank-ireland
+      role: executive
+      from: 2019
+      note: Governor
   gabriel-naouri:
     nationality: FRA
     affiliations:
@@ -7268,20 +7698,24 @@ persons:
       to: 1985
     - org: trilateral-commission
       role: member
-    - org: parlamento-europeo
-      role: member
-      from: 1959
-      to: 1969
     - org: rtl-group
       role: chairman
       from: 1985
       to: 2004
       note: Chairman CLT poi RTL Group
+    - org: european-commission
+      role: president
+      from: 1981
+      to: 1985
     - org: bil
       role: executive
       from: 1985
       to: 1999
       note: President
+    - org: european-parliament
+      role: member
+      from: 1959
+      to: 1969
   gautam-adani:
     born: 1962
     nationality: IND
@@ -7471,6 +7905,8 @@ persons:
       from: 2006
       to: 2022
       note: President
+    - org: club-madrid
+      role: member
   george-provopoulos:
     nationality: GRC
     affiliations:
@@ -8116,6 +8552,8 @@ persons:
       from: 1997
       to: 2007
       note: Chancellor of the Exchequer
+    - org: club-madrid
+      role: member
   grand-duchess-charlotte:
     born: 1896
     died: 1985
@@ -8224,6 +8662,8 @@ persons:
       to: 2003
     - org: the-elders
       role: chairman
+    - org: club-madrid
+      role: member
   gu-shu:
     born: 1967
     nationality: CHN
@@ -8621,6 +9061,8 @@ persons:
     - org: chatham-house
       role: board
       note: President
+    - org: club-madrid
+      role: member
   helen-hai:
     nationality: CN
     note: Former Zurich Financial Services. Set up Huajian shoe factory Ethiopia 2011. CEO Made in Africa Initiative.
@@ -8692,6 +9134,11 @@ persons:
       role: alumnus
     - org: meta
       role: board
+    - org: governo-danimarca
+      role: leader
+      from: 2011
+      to: 2015
+      note: Prime Minister
   helmut-kohl:
     born: 1930
     died: 2017
@@ -8768,6 +9215,24 @@ persons:
       role: board
       from: 2018
       note: Board member
+  henrik-ehrnrooth:
+    born: 1954
+    nationality: FIN
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2014
+      note: Copenhagen 2014
+    - org: kone
+      role: executive
+      from: 2014
+      to: 2024
+      note: President & CEO
+    - org: otava
+      role: chairman
+    - org: hanken
+      role: alumnus
+      from: 1981
   henrique-meirelles:
     born: 1945
     nationality: BRA
@@ -9332,11 +9797,6 @@ persons:
     born: 1949
     nationality: ITA
     affiliations:
-    - org: bce
-      role: board
-      from: 2011
-      to: 2023
-      note: Governing Council (ex officio)
     - org: bis
       role: board
       from: 2011
@@ -9347,6 +9807,11 @@ persons:
       from: 2011
       to: 2023
       note: Governatore
+    - org: ecb
+      role: board
+      from: 2011
+      to: 2023
+      note: Governing Council (ex officio)
     - org: oecd
       role: executive
       from: 1997
@@ -9512,7 +9977,7 @@ persons:
     born: 1971
     nationality: DEU
     affiliations:
-    - org: bce
+    - org: ecb
       role: board
       from: 2020
       note: Executive Board - Markets
@@ -9609,6 +10074,43 @@ persons:
       role: ygl
   j-kirk-wiebe:
     nationality: USA
+  jaakko-iloniemi:
+    born: 1932
+    nationality: FIN
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 1984
+      to: 1997
+      note: Rappresentante finlandese
+    - org: onu
+      role: executive
+      from: 1971
+      to: 1972
+      note: Deputy Permanent Representative
+    - org: governo-finlandia
+      role: executive
+      from: 1961
+      to: 1983
+      note: Diplomatico, Ambasciatore USA 1977-83
+    - org: eva
+      role: executive
+      from: 1990
+      to: 2000
+      note: Managing Director
+    - org: cmi
+      role: executive
+      from: 2000
+      note: First Executive Director
+    - org: atlantic-council-finland
+      role: chairman
+      from: 1999
+      to: 2001
+      note: Founder, Honorary Chair
+    relations:
+    - person: martti-ahtisaari
+      type: mentor
+      note: Capo dipartimento di Ahtisaari
   jacinda-ardern:
     born: 1980
     nationality: NZL
@@ -9790,6 +10292,19 @@ persons:
       from: 1985
       to: 1995
       note: Presidente Commissione, architetto Maastricht e mercato unico
+    - org: european-commission
+      role: president
+      from: 1985
+      to: 1995
+    - org: european-parliament
+      role: member
+      from: 1979
+      to: 1981
+      note: Europarlamentare
+    - org: notre-europe
+      role: founder
+      from: 1996
+      note: Fondatore e Presidente
   jacques-detiger:
     nationality: NLD
     affiliations:
@@ -9813,12 +10328,11 @@ persons:
       role: executive
       from: 1995
       to: 1999
-    - org: parlamento-europeo
-      role: member
-      from: 1999
-      to: 2004
-      note: MEP post-Commissione
-    - org: parlamento-europeo
+    - org: european-commission
+      role: president
+      from: 1995
+      to: 1999
+    - org: european-parliament
       role: executive
       from: 1975
       to: 1979
@@ -10238,15 +10752,46 @@ persons:
       role: executive
       from: 2014
       to: 2019
+    - org: european-commission
+      role: president
+      from: 2014
+      to: 2019
   jean-claude-trichet:
     born: 1942
     nationality: FRA
     affiliations:
-    - org: bce
+    - org: bilderberg
+      role: steering
+      note: Steering Committee
+    - org: governo-francia
+      role: executive
+      from: 1987
+      to: 1993
+      note: Directeur du Trésor
+    - org: trilateral-commission
+      role: chairman
+      from: 2012
+      note: European Chairman
+    - org: ecb
       role: executive
       from: 2003
       to: 2011
       note: Presidente BCE
+    - org: banque-de-france
+      role: executive
+      from: 1993
+      to: 2003
+      note: Governatore
+    - org: airbus
+      role: board
+      note: Director
+    - org: bruegel
+      role: chairman
+      note: Chairman of the Board
+    - org: g30
+      role: chairman
+      from: 2011
+      note: Honorary Chairman
   jean-dominique-senard:
     born: 1953
     nationality: FRA
@@ -10414,8 +10959,22 @@ persons:
     died: 1983
     nationality: BEL
     affiliations:
+    - org: governo-belgio
+      role: minister
+      from: 1949
+      to: 1950
+      note: Min. Ricostruzione
+    - org: governo-belgio
+      role: minister
+      from: 1954
+      to: 1958
+      note: Min. Economia
     - org: commissione-ue
       role: executive
+      from: 1967
+      to: 1970
+    - org: european-commission
+      role: president
       from: 1967
       to: 1970
   jean-victor-meyers:
@@ -10667,6 +11226,22 @@ persons:
       role: partner
       from: 1997
       to: 2005
+  jerzy-buzek:
+    born: 1940
+    nationality: POL
+    affiliations:
+    - org: european-parliament
+      role: president
+      from: 2009
+      to: 2012
+    - org: governo-polonia
+      role: leader
+      from: 1997
+      to: 2001
+      note: Prime Minister
+    - org: club-madrid
+      role: member
+      from: 2002
   jes-staley:
     born: 1956
     nationality: USA
@@ -10880,6 +11455,31 @@ persons:
       from: 2013
       to: 2025
       note: Chairman Board of Directors
+  johan-nykopp:
+    born: 1906
+    died: 1993
+    nationality: FIN
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 1962
+      to: 1972
+      note: Primo finlandese invitato
+    - org: governo-finlandia
+      role: executive
+      from: 1931
+      to: 1958
+      note: Diplomatico, Ambasciatore USA 1951-58
+    - org: tampella
+      role: executive
+      from: 1962
+      to: 1972
+      note: Managing Director
+    - org: stk
+      role: executive
+      from: 1958
+      to: 1962
+      note: CEO
   johan-thijs:
     born: 1965
     nationality: BEL
@@ -11519,6 +12119,53 @@ persons:
       from: 1991
       to: 1994
       note: Director
+  jorma-ollila:
+    born: 1950
+    nationality: FIN
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1994
+      to: 2014
+      note: 19 conferenze
+    - org: wef
+      role: member
+      note: Agenda Contributor
+    - org: citigroup
+      role: executive
+      from: 1977
+      to: 1985
+      note: Corporate banking London/Helsinki
+    - org: ert
+      role: chairman
+      from: 2005
+      to: 2009
+    - org: sitra
+      role: board
+    - org: shell
+      role: chairman
+      from: 2006
+      to: 2015
+    - org: nokia
+      role: executive
+      from: 1992
+      to: 2006
+      note: CEO
+    - org: nokia
+      role: chairman
+      from: 1999
+      to: 2012
+    - org: outokumpu
+      role: chairman
+      from: 2013
+      to: 2018
+    - org: otava
+      role: board
+      from: 1996
+      note: Vice Chairman
+    - org: perella-weinberg
+      role: advisor
+      note: Advisory Partner
   jose-barroso:
     born: 1956
     nationality: PRT
@@ -11590,6 +12237,32 @@ persons:
       role: board
       from: 2011
       note: Ex-PM, Board of Trustees
+    - org: club-madrid
+      role: member
+  jose-manuel-barroso:
+    born: 1956
+    nationality: PRT
+    affiliations:
+    - org: bilderberg
+      role: member
+    - org: goldman-sachs
+      role: chairman
+      from: 2016
+      note: Chairman Goldman Sachs International
+    - org: governo-portogallo
+      role: leader
+      from: 2002
+      to: 2004
+      note: Primo Ministro
+    - org: governo-portogallo
+      role: minister
+      from: 1992
+      to: 1995
+      note: Ministro degli Esteri
+    - org: european-commission
+      role: president
+      from: 2004
+      to: 2014
   jose-maria-alvarez-pallete:
     born: 1963
     nationality: ESP
@@ -11671,6 +12344,29 @@ persons:
     - person: rolf-breuer
       type: successor
       note: Successore come CEO Deutsche Bank 2002
+  josep-borrell:
+    born: 1947
+    nationality: ESP
+    affiliations:
+    - org: governo-spagna
+      role: minister
+      from: 1991
+      to: 1996
+      note: Min. Lavori Pubblici e Trasporti
+    - org: governo-spagna
+      role: minister
+      from: 2018
+      to: 2019
+      note: Min. Affari Esteri
+    - org: european-commission
+      role: executive
+      from: 2019
+      to: 2024
+      note: High Representative for Foreign Affairs
+    - org: european-parliament
+      role: president
+      from: 2004
+      to: 2007
   joseph-bae:
     nationality: USA
     affiliations:
@@ -12046,6 +12742,27 @@ persons:
       note: WEF Annual Meeting 2016
     - org: bank-of-america
       role: executive
+  kari-stadigh:
+    born: 1955
+    nationality: FIN
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2014
+      note: Copenhagen 2014
+    - org: nokia
+      role: board
+      from: 2020
+      to: 2022
+      note: Vice Chairman
+    - org: sampo
+      role: executive
+      from: 2009
+      to: 2019
+      note: CEO
+    - org: hanken
+      role: alumnus
+      from: 1980
   karin-von-hippel:
     nationality: USA
     affiliations:
@@ -12598,9 +13315,19 @@ persons:
     died: 1967
     nationality: DEU
     affiliations:
+    - org: governo-germania
+      role: leader
+      from: 1949
+      to: 1963
+      note: Primo Cancelliere della RFT
     - org: unione-europea
       role: founder
       note: Cancelliere Germania Ovest, padre fondatore
+    - org: cdu
+      role: founder
+      from: 1945
+      to: 1966
+      note: Leader CDU
   konstantinos-karamanlis-sr:
     born: 1907
     died: 1998
@@ -12684,6 +13411,19 @@ persons:
       from: 2004
       to: 2009
       note: PM, nascose deficit pre-crisi
+  kostas-karras:
+    born: 1936
+    died: 2012
+    nationality: GRC
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee member
+    - org: governo-grecia
+      role: legislator
+      from: 2000
+      to: 2007
+      note: MP New Democracy
   kristin-skogen-lund:
     born: 1966
     nationality: NOR
@@ -12950,6 +13690,27 @@ persons:
       from: 2023
       to: 2025
       note: Board member, resigned Nov 2025
+  lars-lokke-rasmussen:
+    born: 1964
+    nationality: DNK
+    affiliations:
+    - org: wef
+      role: member
+      note: Forum participant
+    - org: governo-danimarca
+      role: leader
+      from: 2009
+      to: 2011
+      note: Prime Minister (first term)
+    - org: governo-danimarca
+      role: leader
+      from: 2015
+      to: 2019
+      note: Prime Minister (second term)
+    - org: governo-danimarca
+      role: minister
+      from: 2022
+      note: Minister of Foreign Affairs
   laszlo-szijj:
     born: 1957
     nationality: HUN
@@ -13194,6 +13955,9 @@ persons:
       role: leader
       from: 2022
       to: 2024
+    - org: club-madrid
+      role: member
+      from: 2024
   leon-black:
     born: 1951
     nationality: USA
@@ -13462,15 +14226,15 @@ persons:
       from: 1987
       to: 2004
       note: Anchor TG1, inviata di guerra
-    - org: parlamento-europeo
-      role: member
-      from: 2004
-      to: 2008
-      note: MEP Ulivo, Gruppo Socialista
     - org: la7
       role: executive
       from: 2008
       note: Conduttrice Otto e mezzo
+    - org: european-parliament
+      role: member
+      from: 2004
+      to: 2008
+      note: MEP Ulivo, Gruppo Socialista
   lim-boon-heng:
     born: 1947
     nationality: SGP
@@ -13755,11 +14519,6 @@ persons:
       from: 1980
       to: 1985
       note: Federal Reserve Bank of Boston
-    - org: bce
-      role: executive
-      from: 2002
-      to: 2010
-      note: Vice President
     - org: bis
       role: board
       from: 1994
@@ -13779,6 +14538,11 @@ persons:
       from: 1994
       to: 2002
       note: Governor
+    - org: ecb
+      role: executive
+      from: 2002
+      to: 2010
+      note: Vice President
   luciano-benetton:
     born: 1935
     nationality: ITA
@@ -13871,7 +14635,7 @@ persons:
     born: 1960
     nationality: ESP
     affiliations:
-    - org: bce
+    - org: ecb
       role: executive
       from: 2018
       note: Vice President BCE
@@ -14688,11 +15452,6 @@ persons:
       role: chairman
       from: 2002
       to: 2005
-    - org: bce
-      role: executive
-      from: 2011
-      to: 2019
-      note: Presidente BCE - Whatever it takes
     - org: governo-italia
       role: leader
       from: 2021
@@ -14701,6 +15460,11 @@ persons:
       role: leader
       from: 2006
       to: 2011
+    - org: ecb
+      role: executive
+      from: 2011
+      to: 2019
+      note: Presidente BCE - Whatever it takes
     - org: fsb
       role: chairman
       from: 2009
@@ -14780,6 +15544,30 @@ persons:
     born: 1965
     nationality: CAN
     affiliations:
+    - org: bilderberg
+      role: steering
+      from: 2011
+      note: Steering Committee; partecipante 2011, 2012, 2019, 2024, 2025
+    - org: wef
+      role: board
+      note: Foundation Board
+    - org: goldman-sachs
+      role: executive
+      from: 1988
+      to: 2003
+      note: Managing Director (2002); uffici London, Tokyo, NY, Toronto
+    - org: onu
+      role: advisor
+      from: 2019
+      to: 2025
+      note: UN Special Envoy Climate Action and Finance; Co-Chair GFANZ
+    - org: governo-canada
+      role: leader
+      from: 2025
+      note: Prime Minister; MP Nepean
+    - org: group-of-thirty
+      role: chairman
+      note: Chair
     - org: fsb
       role: chairman
       from: 2011
@@ -14794,10 +15582,33 @@ persons:
       from: 2013
       to: 2020
       note: Governor
+    - org: chatham-house
+      role: chairman
+      note: Chair
     - org: council-inclusive-capitalism
       role: steering
       from: 2020
       note: Guardian
+    - org: pimco
+      role: advisor
+      note: Global Advisory Board
+    - org: brookfield
+      role: chairman
+      from: 2020
+      note: Chair; Head of Transition Investing
+    - org: stripe
+      role: board
+      note: External Board Member
+    relations:
+    - person: andrew-bailey
+      type: predecessor
+      note: Predecessore BoE Governor (Carney 2013-2020, Bailey 2020-)
+    - person: justin-trudeau
+      type: successor
+      note: Successore PM Canada e Liberal Leader (Trudeau 2015-2025, Carney 2025-)
+    - person: mario-draghi
+      type: successor
+      note: Successore FSB Chair (Draghi 2009-2011, Carney 2011-2018)
   mark-eyskens:
     born: 1933
     nationality: BEL
@@ -15051,6 +15862,29 @@ persons:
       role: chairman
       from: 2024
       note: Chairman Governing Board
+  martin-schulz:
+    born: 1955
+    nationality: DEU
+    affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor
+    - org: governo-germania
+      role: legislator
+      from: 2017
+      note: Membro Bundestag
+    - org: socialist-international
+      role: executive
+      from: 2004
+      note: Vice-President
+    - org: european-parliament
+      role: president
+      from: 2012
+      to: 2017
+    - org: friedrich-ebert-stiftung
+      role: chairman
+      from: 2020
+      note: Presidente
   martin-winterkorn:
     born: 1947
     nationality: DEU
@@ -15063,6 +15897,23 @@ persons:
       role: chairman
       from: 2002
       to: 2007
+  martti-ahtisaari:
+    born: 1937
+    died: 2023
+    nationality: FIN
+    affiliations:
+    - org: onu
+      role: executive
+      note: UN Representative Namibia
+    - org: governo-finlandia
+      role: leader
+      from: 1994
+      to: 2000
+      note: Presidente della Repubblica
+    - org: cmi
+      role: founder
+      from: 2000
+      note: Fondatore CMI
   mary-burke:
     nationality: US
     note: Global Business Director Thomson Reuters. 16 years at Thomson Reuters. Managed $340M Investment Banking business.
@@ -15101,6 +15952,26 @@ persons:
       role: executive
       to: 2007
       note: CFO, key in IBM PC acquisition 2005
+  mary-robinson:
+    born: 1944
+    nationality: IRL
+    affiliations:
+    - org: onu
+      role: executive
+      from: 1997
+      to: 2002
+      note: UN High Commissioner for Human Rights
+    - org: governo-irlanda
+      role: leader
+      from: 1990
+      to: 1997
+      note: President of Ireland (prima donna)
+    - org: the-elders
+      role: chairman
+      from: 2018
+      note: Chair; membro dal 2007
+    - org: club-madrid
+      role: member
   masaaki-shirakawa:
     born: 1949
     nationality: JPN
@@ -15300,6 +16171,46 @@ persons:
   matthew-freud:
     born: 1963
     nationality: GBR
+  matti-alahuhta:
+    born: 1952
+    nationality: FIN
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2014
+      note: Copenhagen 2014
+    - org: nokia
+      role: executive
+      from: 1978
+      to: 2004
+      note: Executive Board 1993-2004
+    - org: kone
+      role: executive
+      from: 2005
+      to: 2014
+      note: President & CEO
+  matti-apunen:
+    born: 1960
+    nationality: FIN
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2011
+      to: 2015
+      note: 5 partecipazioni consecutive
+    - org: eva
+      role: executive
+      from: 2010
+      to: 2019
+      note: Director
+    - org: aamulehti
+      role: executive
+      from: 1998
+      to: 2010
+      note: Editor-in-Chief
+    - org: yle
+      role: chairman
+      from: 2021
   mauro-moretti:
     nationality: ITA
     affiliations:
@@ -15427,12 +16338,28 @@ persons:
     - person: ren-zhengfei
       type: child
       note: Daughter of Ren Zhengfei
+  merete-eldrup:
+    born: 1963
+    nationality: DNK
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Attendee 2015
+    - org: tv2-denmark
+      role: executive
+      from: 2007
+      to: 2019
+      note: CEO
   mette-frederiksen:
     born: 1977
     nationality: DNK
     affiliations:
     - org: wef
       role: ygl
+    - org: governo-danimarca
+      role: leader
+      from: 2019
+      note: Prime Minister
   mette-marit:
     born: 1973
     nationality: NOR
@@ -15540,6 +16467,23 @@ persons:
       role: executive
       from: 2013
       note: Senior Counselor, Chairman Geo-Political Risk
+  michael-oleary:
+    born: 1961
+    nationality: IRL
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 2015
+      note: Steering Committee; partecipante 2015, 2017, 2025
+    - org: ryanair
+      role: executive
+      from: 1988
+      note: CFO 1988-94; CEO 1994-2019; Group CEO 2019-
+    - org: kpmg
+      role: member
+      from: 1982
+      to: 1985
+      note: Trainee accountant (Stokes Kennedy Crowley, poi KPMG)
   michael-rogers:
     born: 1959
     nationality: USA
@@ -15746,6 +16690,11 @@ persons:
       role: leader
       from: 1985
       to: 1991
+    - org: club-madrid
+      role: member
+      from: 2001
+      to: 2022
+      note: Founding member
   mikhail-khodorkovsky:
     born: 1963
     nationality: RUS
@@ -16250,11 +17199,11 @@ persons:
       from: 2018
       to: 2023
       note: First Vice PM; Min. Economy
-    - org: bei
+    - org: eib
       role: executive
       from: 2024
       note: President
-    - org: commissione-europea
+    - org: european-commission
       role: executive
       from: 2006
       to: 2018
@@ -16620,6 +17569,9 @@ persons:
     born: 1967
     nationality: GBR
     affiliations:
+    - org: wef
+      role: member
+      note: Regular Davos speaker
     - org: collegio-europa
       role: alumnus
       from: 1992
@@ -16630,7 +17582,23 @@ persons:
       to: 2015
     - org: meta
       role: executive
-      from: 2022
+      from: 2018
+      note: VP Global Affairs 2018-22, President Global Affairs 2022-
+    - org: european-commission
+      role: advisor
+      from: 1994
+      to: 1999
+      note: TACIS 1994-96, Advisor to Leon Brittan 1996-99
+    - org: european-parliament
+      role: legislator
+      from: 1999
+      to: 2004
+      note: MEP East Midlands
+    - org: college-of-europe
+      role: member
+      from: 1992
+      to: 1993
+      note: MA European Affairs
   nick-hayek-jr:
     born: 1954
     nationality: CHE
@@ -16819,6 +17787,24 @@ persons:
       role: founder
       from: 2008
       note: Fondatore
+  niels-norlund:
+    born: 1924
+    died: 2004
+    nationality: DNK
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1975
+      note: Steering Committee member
+    - org: berlingske-tidende
+      role: executive
+      from: 1967
+      to: 1970
+      note: Editor-in-Chief
+    relations:
+    - person: terkel-terkelsen
+      type: successor
+      note: Succeeded as Bilderberg steering 1975; succeeded as Berlingske editor 1967
   nigel-higgins:
     nationality: GBR
     affiliations:
@@ -17158,6 +18144,36 @@ persons:
       from: 2006
       to: 2018
       note: CEO
+  ole-bjorn-kraft:
+    born: 1893
+    died: 1980
+    nationality: DNK
+    affiliations:
+    - org: bilderberg
+      role: founder
+      from: 1954
+      note: Founding member, consulted by Retinger
+    - org: nato
+      role: member
+      note: Danish delegate, advocate for NATO membership
+    - org: berlingske-tidende
+      role: member
+      note: Contributor
+    - org: governo-danimarca
+      role: minister
+      from: 1950
+      to: 1953
+      note: Minister of Foreign Affairs
+    - org: governo-danimarca
+      role: minister
+      from: 1945
+      to: 1945
+      note: Minister of Defense
+    - org: governo-danimarca
+      role: legislator
+      from: 1926
+      to: 1964
+      note: Member of Parliament (Folketing)
   oleg-deripaska:
     born: 1968
     nationality: RUS
@@ -17224,6 +18240,30 @@ persons:
     affiliations:
     - org: verlinvest
       role: board
+  olli-rehn:
+    born: 1962
+    nationality: FIN
+    affiliations:
+    - org: governo-finlandia
+      role: minister
+      from: 2015
+      to: 2016
+      note: Min. Economia
+    - org: commissione-ue
+      role: executive
+      from: 2004
+      to: 2014
+      note: Commissioner Enlargement, Economic Affairs, VP 2011-14
+    - org: trilateral-commission
+      role: member
+    - org: ecb
+      role: board
+      from: 2018
+      note: Governing Council member
+    - org: bank-of-finland
+      role: executive
+      from: 2018
+      note: Governor
   omar-bin-sultan-al-olama:
     born: 1989
     nationality: UAE
@@ -17374,15 +18414,15 @@ persons:
     - org: bilderberg
       role: member
       note: Participant 2024 (Madrid), 2025
-    - org: bce
-      role: board
-      from: 2018
-      to: 2024
-      note: Governing Council member (ex-officio as Bank of Spain Governor)
     - org: bis
       role: executive
       from: 2025
       note: General Manager
+    - org: ecb
+      role: board
+      from: 2018
+      to: 2024
+      note: Governing Council member (ex-officio as Bank of Spain Governor)
     - org: real-instituto-elcano
       role: board
       note: Board of Trustees (as Bank of Spain Governor)
@@ -17510,11 +18550,14 @@ persons:
       from: 2006
       to: 2008
       note: Min. Comunicazioni
-    - org: commissione-europea
+    - org: european-commission
       role: executive
       from: 2019
       to: 2024
       note: Commissario Economia
+    - org: club-madrid
+      role: member
+      from: 2019
     relations:
     - person: pier-carlo-padoan
       type: colleague
@@ -17646,6 +18689,42 @@ persons:
       role: executive
       from: 2012
       note: CEO since 2012
+  paschal-donohoe:
+    born: 1974
+    nationality: IRL
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Partecipante 2023, 2025
+    - org: wef
+      role: member
+      note: Partecipante Davos 2024
+    - org: governo-irlanda
+      role: minister
+      from: 2014
+      to: 2025
+      note: Transport 2014-16; Public Expenditure 2016-17, 2022-24; Finance 2017-22, Jan-Nov 2025
+    - org: eurogroup
+      role: chairman
+      from: 2020
+      to: 2025
+      note: President; 3 mandati (2020, 2023, 2025)
+    - org: world-bank
+      role: executive
+      from: 2025
+      note: Managing Director and Chief Knowledge Officer
+    - org: procter-gamble
+      role: executive
+      from: 1997
+      to: 2003
+      note: Sales and Marketing Director (UK)
+    relations:
+    - person: leo-varadkar
+      type: colleague
+      note: Colleghi Fine Gael; entrambi ministri gabinetto
+    - person: simon-harris
+      type: colleague
+      note: Colleghi Fine Gael; Harris successore Finance Nov 2025
   patricia-cobian:
     nationality: GB
     note: Former Hewlett-Packard, McKinsey. Managing Director Telefónica UK. Board Telefónica Deutschland.
@@ -17815,9 +18894,44 @@ persons:
     died: 1972
     nationality: BEL
     affiliations:
+    - org: onu
+      role: chairman
+      from: 1946
+      to: 1946
+      note: Presidente 1a Assemblea Generale
+    - org: nato
+      role: executive
+      from: 1957
+      to: 1961
+      note: Segretario Generale
+    - org: governo-belgio
+      role: leader
+      from: 1938
+      to: 1939
+      note: Primo Ministro (1°)
+    - org: governo-belgio
+      role: leader
+      from: 1947
+      to: 1949
+      note: Primo Ministro (2°)
+    - org: governo-belgio
+      role: minister
+      from: 1954
+      to: 1957
+      note: Ministro Esteri
+    - org: governo-belgio
+      role: minister
+      from: 1961
+      to: 1966
+      note: Vice PM e Min. Esteri
     - org: unione-europea
       role: founder
       note: Organizzatore Conferenza Messina 1955, Trattati di Roma
+    - org: council-of-europe
+      role: chairman
+      from: 1949
+      to: 1949
+      note: Presidente Assemblea Consultiva
   paul-janssen:
     born: 1926
     died: 2003
@@ -17960,12 +19074,53 @@ persons:
       type: child
   pehr-gyllenhammar:
     born: 1935
+    died: 2024
     nationality: SWE
     affiliations:
+    - org: bilderberg
+      role: steering
+      note: Molto attivo
+    - org: chase-manhattan
+      role: advisor
+      from: 1972
+      to: 1995
+      note: International Advisory Committee
+    - org: kissinger-associates
+      role: board
+      from: 1982
+      to: 1997
+    - org: lazard
+      role: advisor
+      from: 1996
+      to: 2003
+      note: Senior Advisor, Managing Director NYC
+    - org: reuters
+      role: chairman
+      from: 1984
+      to: 2012
+      note: Board 1984-1997, Reuters Founders Share Co Chairman 1997-2012
     - org: european-round-table
       role: founder
       from: 1983
-      note: Fondatore e iniziatore (Volvo)
+      note: Primo Chairman 1983-1988
+    - org: volvo
+      role: chairman
+      from: 1971
+      to: 1993
+      note: CEO 1971-1990, Chairman 1990-1993
+    - org: rothschild
+      role: executive
+      from: 2003
+      to: 2013
+      note: Vice Chairman Europe
+    - org: aviva
+      role: chairman
+      from: 2005
+      to: 2012
+    - org: kinnevik
+      role: chairman
+      from: 2004
+      to: 2007
   pekka-ala-pietila:
     nationality: FIN
     affiliations:
@@ -17973,6 +19128,14 @@ persons:
       role: chairman
       from: 2024
       note: Chairman Supervisory Board
+  pekka-lundmark:
+    nationality: FIN
+    affiliations:
+    - org: nokia
+      role: executive
+      from: 2020
+      to: 2025
+      note: CEO
   peng-xiao:
     nationality: CHN
     note: Ex-DarkMatter, controversial background
@@ -18172,7 +19335,7 @@ persons:
     - org: allianz
       role: board
       note: Supervisory Board
-    - org: commissione-europea
+    - org: european-commission
       role: executive
       from: 1985
       to: 1989
@@ -18195,6 +19358,10 @@ persons:
       from: 2006
       to: 2018
       note: Consultor APSA (riforma finanziaria)
+    relations:
+    - person: bernard-looney
+      type: predecessor
+      note: Entrambi irlandesi in ruoli chiave BP
   peter-szijjarto:
     born: 1978
     nationality: HUN
@@ -18318,10 +19485,14 @@ persons:
     born: 1969
     nationality: IRL
     affiliations:
-    - org: bce
+    - org: ecb
       role: executive
       from: 2019
       note: Chief Economist
+    relations:
+    - person: gabriel-makhlouf
+      type: colleague
+      note: Colleghi ECB Governing Council
   philip-meissner:
     nationality: DEU
     affiliations:
@@ -18448,12 +19619,7 @@ persons:
       from: 1988
       to: 1998
       note: Ministro Finanze
-    - org: bei
-      role: executive
-      from: 2000
-      to: 2011
-      note: President
-    - org: bei
+    - org: eib
       role: president
       from: 2000
       to: 2011
@@ -18509,7 +19675,7 @@ persons:
     born: 1961
     nationality: ITA
     affiliations:
-    - org: bce
+    - org: ecb
       role: board
       from: 2023
       note: Executive Board - Payments
@@ -18706,6 +19872,25 @@ persons:
       from: 2013
       to: 2024
       note: Co-founder, CFO 2013-16, CEO 2016-24
+  poul-nyrup-rasmussen:
+    born: 1943
+    nationality: DNK
+    affiliations:
+    - org: european-parliament
+      role: member
+      from: 2004
+      to: 2009
+      note: MEP
+    - org: governo-danimarca
+      role: leader
+      from: 1993
+      to: 2001
+      note: Prime Minister
+    - org: pes
+      role: leader
+      from: 2004
+      to: 2011
+      note: President
   prabowo-subianto:
     born: 1951
     nationality: IDN
@@ -19367,7 +20552,7 @@ persons:
     born: 1955
     nationality: ROU
     affiliations:
-    - org: parlamento-europeo
+    - org: european-parliament
       role: legislator
       from: 2007
       to: 2019
@@ -19450,7 +20635,7 @@ persons:
       from: 1995
       to: 1999
       note: Primo Director-General
-    - org: commissione-europea
+    - org: european-commission
       role: executive
       from: 1970
       to: 1978
@@ -19678,6 +20863,18 @@ persons:
     - org: stanford-university
       role: member
       note: MBA 2006 (Fulbright Scholar)
+  risto-siilasmaa:
+    born: 1966
+    nationality: FIN
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2014
+      note: Copenhagen 2014
+    - org: nokia
+      role: chairman
+      from: 2012
+      to: 2020
   rob-de-wijk:
     nationality: NLD
     affiliations:
@@ -19845,9 +21042,34 @@ persons:
     died: 1963
     nationality: FRA
     affiliations:
+    - org: governo-francia
+      role: minister
+      from: 1946
+      to: 1946
+      note: Ministro delle Finanze
+    - org: governo-francia
+      role: leader
+      from: 1947
+      to: 1947
+      note: Primo Ministro
+    - org: governo-francia
+      role: minister
+      from: 1948
+      to: 1952
+      note: Ministro degli Esteri
+    - org: governo-francia
+      role: minister
+      from: 1955
+      to: 1956
+      note: Ministro della Giustizia
     - org: unione-europea
       role: founder
       note: Dichiarazione Schuman 9 maggio 1950, Min Esteri Francia
+    - org: european-parliament
+      role: chairman
+      from: 1958
+      to: 1960
+      note: Primo Presidente
   robert-zoellick:
     born: 1953
     nationality: USA
@@ -19855,6 +21077,20 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader, World Bank President
+  roberta-metsola:
+    born: 1979
+    nationality: MLT
+    affiliations:
+    - org: european-parliament
+      role: president
+      from: 2022
+    - org: epp
+      role: member
+    - org: college-of-europe
+      role: member
+      from: 2003
+      to: 2004
+      note: MA European Studies
   roberto-cingolani:
     born: 1961
     nationality: ITA
@@ -20083,8 +21319,15 @@ persons:
       role: executive
       from: 1999
       to: 2004
+    - org: european-commission
+      role: president
+      from: 1999
+      to: 2004
     - org: aspen-italia
       role: member
+    - org: club-madrid
+      role: member
+      from: 2001
   ronald-lauder:
     born: 1944
     nationality: USA
@@ -20126,6 +21369,11 @@ persons:
       role: minister
       from: 1967
       to: 1970
+    - org: governo-uk
+      role: minister
+      from: 1965
+      to: 1967
+      note: Home Secretary
     - org: commissione-ue
       role: executive
       from: 1977
@@ -20138,6 +21386,10 @@ persons:
       role: chairman
       from: 1957
       to: 1958
+    - org: european-commission
+      role: president
+      from: 1977
+      to: 1981
   ruben-vardanian:
     born: 1968
     nationality: RUS
@@ -20410,6 +21662,9 @@ persons:
     - org: tony-blair-institute
       role: advisor
       from: 2023
+    - org: club-madrid
+      role: member
+      from: 2023
   sara-menker:
     nationality: US
     note: Founder/CEO Gro Intelligence. Former VP Morgan Stanley Commodities. Trustee Mandela Institute. African Leadership
@@ -20464,6 +21719,12 @@ persons:
     - org: kasikornbank
       role: board
       note: Main board director
+  sari-baldauf:
+    nationality: FIN
+    affiliations:
+    - org: nokia
+      role: chairman
+      from: 2020
   satya-nadella:
     born: 1967
     nationality: USA
@@ -21135,6 +22396,34 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  simone-veil:
+    born: 1927
+    died: 2017
+    nationality: FRA
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 1974
+      to: 1979
+      note: Ministro della Sanità
+    - org: governo-francia
+      role: minister
+      from: 1993
+      to: 1995
+      note: Ministro di Stato Affari Sociali
+    - org: european-parliament
+      role: president
+      from: 1979
+      to: 1982
+    - org: conseil-constitutionnel
+      role: member
+      from: 1998
+      to: 2007
+    - org: academie-francaise
+      role: member
+      from: 2008
+      to: 2017
+      note: 13e fauteuil
   sinead-burke:
     nationality: IRL
     affiliations:
@@ -21399,6 +22688,14 @@ persons:
       role: executive
       from: 2011
       note: CEO
+  stephen-elop:
+    nationality: CAN
+    affiliations:
+    - org: nokia
+      role: executive
+      from: 2010
+      to: 2014
+      note: CEO, primo non-finlandese
   stephen-frost:
     nationality: GBR
     affiliations:
@@ -21928,6 +23225,28 @@ persons:
       note: Director-General
   teo-chee-hean:
     nationality: SGP
+  terkel-terkelsen:
+    born: 1904
+    died: 1985
+    nationality: DNK
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee member
+    - org: governo-uk
+      role: advisor
+      from: 1941
+      to: 1945
+      note: Head of Danish section, Political Intelligence Department
+    - org: international-press-institute
+      role: chairman
+      to: 1972
+      note: Chairman, Danish branch
+    - org: berlingske-tidende
+      role: executive
+      from: 1946
+      to: 1972
+      note: Editor-in-Chief
   thaksin-shinawatra:
     born: 1949
     nationality: THA
@@ -22359,6 +23678,32 @@ persons:
       role: chairman
       from: 2022
       note: Co-owner ~12.7% via BlueCo, Chairman fino 2027
+  toger-seidenfaden:
+    born: 1957
+    died: 2011
+    nationality: DNK
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1995
+      note: Steering Committee member
+    - org: wef
+      role: member
+      note: Annual Meeting 2004
+    - org: trilateral-commission
+      role: board
+      note: Executive Committee member
+    - org: iiss
+      role: member
+    - org: politiken
+      role: executive
+      from: 1993
+      to: 2011
+      note: Editor-in-Chief
+    relations:
+    - person: erik-seidenfaden
+      type: child
+      note: Father-son
   tom-enders:
     born: 1958
     nationality: DEU
@@ -22428,11 +23773,6 @@ persons:
     - org: bilderberg
       role: steering
       note: Steering Committee
-    - org: bce
-      role: board
-      from: 1998
-      to: 2005
-      note: Executive Board member
     - org: bis
       role: chairman
       from: 1993
@@ -22453,12 +23793,17 @@ persons:
       from: 1968
       to: 1997
       note: Deputy Director General 1984-1997
+    - org: ecb
+      role: board
+      from: 1998
+      to: 2005
+      note: Executive Board member
     - org: group-of-thirty
       role: member
       from: 1979
       to: 2010
       note: Member
-    - org: commissione-europea
+    - org: european-commission
       role: executive
       from: 1979
       to: 1983
@@ -22613,12 +23958,52 @@ persons:
       role: founder
       from: 2008
       note: Co-founder, CEO
+  ulrik-federspiel:
+    born: 1943
+    nationality: DNK
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee member
+    - org: governo-danimarca
+      role: executive
+      from: 1993
+      to: 1997
+      note: State Secretary, Prime Minister Office
+    - org: governo-danimarca
+      role: executive
+      from: 1997
+      to: 2000
+      note: Ambassador to Ireland
+    - org: governo-danimarca
+      role: executive
+      from: 2000
+      to: 2005
+      note: Ambassador to USA
+    - org: governo-danimarca
+      role: executive
+      from: 1991
+      to: 1993
+      note: Director, Ministry of Foreign Affairs
+    - org: haldor-topsoe
+      role: executive
+      note: Group Executive, Senior Advisor
   umberto-agnelli:
     born: 1934
     died: 2004
     nationality: ITA
     family: agnelli-elkann
     affiliations:
+    - org: governo-italia
+      role: legislator
+      from: 1976
+      to: 1979
+      note: Senatore DC
+    - org: fiat
+      role: chairman
+      from: 2003
+      to: 2004
+      note: Chairman FIAT Group
     - org: european-round-table
       role: founder
       from: 1983
@@ -22653,6 +24038,9 @@ persons:
       role: leader
       from: 2019
       note: Presidente Commissione Europea
+    - org: european-commission
+      role: president
+      from: 2019
   uwe-raschke:
     nationality: DEU
     affiliations:
@@ -23411,10 +24799,29 @@ persons:
     died: 1982
     nationality: DEU
     affiliations:
+    - org: governo-germania
+      role: minister
+      from: 1951
+      to: 1958
+      note: Segretario di Stato Esteri
     - org: commissione-ue
       role: executive
       from: 1958
       to: 1967
+    - org: european-commission
+      role: president
+      from: 1958
+      to: 1967
+    - org: european-movement
+      role: chairman
+      from: 1968
+      to: 1974
+      note: Presidente
+    - org: cdu
+      role: member
+      from: 1969
+      to: 1972
+      note: Deputato Bundestag
   walter-rauff:
     born: 1906
     died: 1984
@@ -23544,7 +24951,7 @@ persons:
       from: 1994
       to: 2012
       note: Min. State Foreign Affairs; Bundestag
-    - org: bei
+    - org: eib
       role: executive
       from: 2012
       to: 2023
@@ -23771,18 +25178,26 @@ persons:
     died: 2005
     nationality: NLD
     affiliations:
-    - org: bce
-      role: executive
-      from: 1998
-      to: 2003
-      note: Primo Presidente BCE
+    - org: bilderberg
+      role: steering
+      note: Treasurer 1980s
+    - org: governo-olanda
+      role: minister
+      from: 1973
+      to: 1977
+      note: Ministro delle Finanze (più giovane mai)
     - org: ecb
-      role: executive
+      role: chairman
       from: 1998
       to: 2003
-      note: First President ECB
+      note: Primo Presidente
+    - org: imf
+      role: advisor
+      from: 1966
+      to: 1969
+      note: Financial analyst
     - org: dnb
-      role: executive
+      role: chairman
       from: 1982
       to: 1997
       note: President
@@ -23808,13 +25223,22 @@ persons:
     family: rockefeller
   wisse-dekker:
     born: 1924
+    died: 2012
     nationality: NLD
     affiliations:
+    - org: bilderberg
+      role: member
+      note: Partecipò 1982
+    - org: philips
+      role: chairman
+      from: 1982
+      to: 1986
+      note: CEO/President
     - org: european-round-table
-      role: founder
-      from: 1983
+      role: chairman
+      from: 1988
       to: 1992
-      note: Fondatore (Philips), Chairman 1988-1992
+      note: Chairman ERT; fondatore 1983
   wladimir-klitschko:
     born: 1976
     nationality: UKR
@@ -24032,14 +25456,14 @@ persons:
     born: 1956
     nationality: GRC
     affiliations:
-    - org: bce
-      role: board
-      from: 2014
-      note: Governing Council member
     - org: bank-of-greece
       role: executive
       from: 2014
       note: Governor
+    - org: ecb
+      role: board
+      from: 2014
+      note: Governing Council member
   yao-chen:
     born: 1979
     nationality: CHN

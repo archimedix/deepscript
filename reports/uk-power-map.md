@@ -3,8 +3,8 @@
 ## Stato del Database
 
 **Organizzazioni UK presenti**: 100+ entità con sede a Londra/UK
-**Persone britanniche (GBR)**: ~95 persone
-**Aggiornamento**: Aggiunti Denis Healey (Bilderberg founder, Chancellor), John Micklethwait (Bloomberg EIC, Bilderberg Steering), Frederic Bennett (MP, Bilderberg Steering 25 anni), Conrad Black (Hollinger, Telegraph, Bilderberg Steering), Bloomberg (media stub documentato)
+**Persone britanniche (GBR)**: ~96 persone
+**Aggiornamento**: Aggiunto Andrew Knight (Economist Editor, Telegraph CEO, News Corp, Bilderberg Steering 18 anni, Rothschild). Nuove org: RIT Capital Partners, J. Rothschild Capital Management, Ditchley Foundation, Centre for Policy Studies
 
 ---
 
@@ -224,14 +224,16 @@ GCHQ/MI5 expertise
 | **denis-healey** | Founder | 1954-2015 | 23 | Labour, Chancellor, Defence Secretary |
 | **eric-roll** | Chairman | 1986-1989 | 20+ | Warburg, Trilateral founder |
 | **frederic-bennett** | Steering | 1959-1984 | 20 | Tory MP, Council of Europe Chairman |
+| **andrew-knight** | Steering | 1980-1998 | - | Economist → Telegraph → News Corp, recruiting officer UK |
 | **conrad-black** | Steering | 1990s-2000s | - | Hollinger, Telegraph |
 | **john-micklethwait** | Steering | 2010s- | - | Bloomberg EIC, ex-Economist |
 
 **Pattern chiave**:
 - **Bipartisan**: Healey (Labour) + Bennett (Tory) = bridge tra i due partiti
-- **Media control**: Black (Telegraph/Hollinger) + Micklethwait (Economist/Bloomberg)
-- **Generazionale**: Healey/Roll (1954-1980s) → Bennett/Black (1960s-2000s) → Micklethwait (2010s-)
+- **Media control**: Knight (Economist/Telegraph/News Corp) + Black (Telegraph/Hollinger) + Micklethwait (Economist/Bloomberg)
+- **Generazionale**: Healey/Roll (1954-1980s) → Bennett/Knight/Black (1960s-2000s) → Micklethwait (2010s-)
 - **Kleinwort connection**: Bennett madre era Kleinwort (banchieri)
+- **Recruiting officer**: Knight fu il reclutatore UK per Bilderberg, conobbe Black al meeting 1985
 
 **Relazione documentata**: Healey ↔ Bennett (colleghi steering, bridge Tory-Labour)
 
@@ -463,6 +465,7 @@ Scheda completa: `docs/persons/david-cameron.md`
 | Board | **john-elkann** | Chairman Exor, nipote Gianni Agnelli |
 | Board | **lynn-forester-de-rothschild** | CEO E.L. Rothschild, 26.7% stake |
 | Chairman storico | **evelyn-rothschild** | Chairman 1972-1989, advisor Queen Elizabeth II |
+| **Editor storico** | **andrew-knight** | Editor 1974-1986, triplicò circolazione, Bilderberg Steering |
 
 #### The Economist - Pattern Chiave
 1. **Controllo Italo-Americano**: Agnelli (ITA) 43.4% + Rothschild (USA) 26.7% = 70% di testata britannica
@@ -486,9 +489,16 @@ Scheda completa: `docs/persons/david-cameron.md`
 |---------|--------------|------|
 | 1855-1928 | Levy-Lawson (Lord Burnham) | Fondazione |
 | 1928-1986 | Berry family (Camrose) | |
+| **1986-1989** | **Andrew Knight** (CEO) + **Conrad Black** (owner) | Knight orchestrò takeover, nominò Max Hastings editor |
 | 1986-2004 | Conrad Black / Hollinger | Scandalo $200M |
 | 2004-2023 | Barclay Brothers / Press Holdings | Debiti £1.2B |
 | 2025- | DMGT / Lord Rothermere | Deal £500M |
+
+**Knight-Black Partnership (1985-1989)**:
+- Knight incontrò Black a Bilderberg 1985
+- Knight era recruiting officer UK per Bilderberg
+- Knight guadagnò £15M dall'operazione Telegraph
+- Descritto come "Conrad's viceroy, with plenary powers"
 
 **Digital Markets Act 2024**: Legislazione storica che vieta foreign state ownership di giornali UK, innescata dal tentativo UAE
 
@@ -1099,7 +1109,49 @@ Cambridge Academia (maths/AI)
 
 **Pattern**: Carriera in aziende Lynch → CEO tech company GCHQ-connected → Ministro governo Starmer → Peerage
 
-### 25. Open Society Foundations - UK Media Funding
+### 25. Andrew Knight - Il Gatekeeper dei Media UK
+
+**L'architetto che collegò Economist, Telegraph e Murdoch a Bilderberg:**
+
+| Fase | Periodo | Ruolo | Connessione |
+|------|---------|-------|-------------|
+| The Economist | 1974-1986 | Editor | Triplicò circolazione, Bilderberg dal 1980 |
+| Telegraph Group | 1986-1989 | CEO | Orchestrò takeover, reclutò Conrad Black a Bilderberg 1985 |
+| News International | 1990-1994 | Chairman | Successore designato di Murdoch |
+| News Corporation | 1991-2012 | Director | 21 anni nel board Murdoch |
+| RIT Capital Partners | 1997-2008 | Director | Ponte verso Jacob Rothschild |
+| J. Rothschild Capital Mgmt | 2008-2010 | Chairman | Ruolo operativo Rothschild |
+| Times Newspapers | 2012-oggi | Chairman | Sostituì Murdoch come chairman |
+| **Bilderberg** | **1980-1998** | **Steering + Recruiting Officer UK** | **18 anni nel nucleo direttivo** |
+
+**Network chiave**:
+```
+       ANDREW KNIGHT (Bilderberg Steering 1980-1998)
+                       |
+    +------------------+------------------+
+    |                  |                  |
+    v                  v                  v
+CONRAD BLACK      RUPERT MURDOCH    JACOB ROTHSCHILD
+(reclutato 1985)  (successore 1990) (RIT/JRCM 1997-2010)
+    |                  |                  |
+    v                  v                  v
+TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
+(1986-2004)       (1991-2012)       (1997-2010)
+```
+
+**Citazioni chiave**:
+> "Knight was clearly understood to be Conrad's viceroy, with plenary powers"
+
+> "I've done a deal with Andrew Knight. He won't be coming here for a while but once he has prised himself away from Conrad he's ours." — Rupert Murdoch, 1989
+
+**Pattern**:
+1. **Bilderberg come venue di reclutamento**: Knight usò Bilderberg per identificare e reclutare Black (Telegraph) e consolidare relazione con Murdoch
+2. **Media hopping**: Economist → Telegraph → News Corp in 5 anni (1986-1990), mantenendo posizione Bilderberg Steering
+3. **Rothschild connection**: Dopo media, transizione verso finanza Rothschild (RIT, JRCM)
+4. **Longevità**: 40+ anni di influenza sui media britannici, 18 anni Bilderberg Steering
+5. **Profitto personale**: £15M da operazione Telegraph - allineamento interessi economici e potere
+
+### 26. Open Society Foundations - UK Media Funding
 
 **Pattern di finanziamento progressista**:
 | Recipient | Tipo | Importo |
@@ -1143,6 +1195,7 @@ Cambridge Academia (maths/AI)
 | **frederic-bennett** | **Completato** | Tory MP 1955-87, Bilderberg Steering 1959-84 (20 meetings), Council of Europe Chairman, Kleinwort family |
 | **conrad-black** | **Completato** | Hollinger CEO, Telegraph Chairman, Bilderberg Steering, CFR, fraud conviction 2007, Trump pardon 2019 |
 | **bloomberg** | **Completato** | Media empire $60-70B, 350K terminals, Micklethwait EIC dal 2015 |
+| **andrew-knight** | **Completato** | Economist Editor → Telegraph CEO → News Corp → Bilderberg Steering 18 anni → Rothschild |
 
 ### Tier 1 - DA FARE
 | Entità | Tipo | Priorità |
@@ -1216,6 +1269,9 @@ Cambridge Academia (maths/AI)
 37. **Bilderberg UK Steering Continuity** - Presenza costante britannica nello steering dal 1954: Healey (Labour founder) → Roll (Chairman) → Bennett (Tory) → Black (Media) → Micklethwait (Media)
 38. **Bilderberg Bipartisan Bridge** - Healey (Labour) + Bennett (Tory) contemporanei nello steering = network transpartisan
 39. **Media Magnate → Bilderberg Pattern** - Black (Telegraph/Hollinger) e Micklethwait (Economist/Bloomberg) entrambi steering = media ownership correlata a membership elite
+40. **Andrew Knight Gatekeeper Model** - Un singolo individuo (Knight) come ponte tra 3 imperi media (Economist, Telegraph, News Corp) + finanza (Rothschild) via Bilderberg per 40+ anni
+41. **Bilderberg Recruiting Officer Pattern** - Knight come "recruiting officer UK" identifica e recluta talenti/alleati per network transatlantico (es. Conrad Black 1985)
+42. **Media → Finance Transition** - Knight: dopo 25 anni nei media (1966-1990), transizione verso finanza Rothschild (1997-2010), mantenendo influenza in entrambi settori
 
 ### Fonti chiave:
 - [Elitist Britain 2025](https://www.suttontrust.com/our-research/elitist-britain-2025/) - Sutton Trust
@@ -1235,7 +1291,8 @@ Cambridge Academia (maths/AI)
 - [Thoma Bravo](https://www.thomabravo.com/) - Portfolio, cybersecurity empire
 - [GOV.UK - Baroness Gustafsson](https://www.gov.uk/government/people/poppy-gustafsson) - Minister appointment
 - [openDemocracy - About](https://www.opendemocracy.net/en/about/) - Funding, governance
+- [Powerbase - Andrew Knight](https://powerbase.info/index.php/Andrew_Knight) - Bilderberg Steering, Telegraph, News Corp connections
 
 ---
 
-*Ultimo aggiornamento: 29 Dicembre 2025 - Aggiunta sezione Bilderberg UK Steering Committee con Denis Healey (founder 1954, Chancellor), John Micklethwait (Bloomberg EIC), Frederic Bennett (Tory MP, 20 meetings), Conrad Black (Hollinger/Telegraph). Documentato Bloomberg. Aggiunti pattern 37-39 su continuità Bilderberg UK.*
+*Ultimo aggiornamento: 29 Dicembre 2025 - Aggiunto Andrew Knight (Economist Editor → Telegraph CEO → News Corp → Bilderberg Steering 18 anni → Rothschild). Documentato pattern "Gatekeeper dei Media UK": ponte tra 3 imperi media + finanza Rothschild via Bilderberg per 40+ anni. Aggiunti pattern 40-42.*

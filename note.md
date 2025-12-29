@@ -1,11 +1,11 @@
 
-Analizza la mappa del potere in Canada e le connessioni con il resto del mondo. Crea un elenco di entità e di persone rilevanti da indagare più a fondo. Cobntrolla le eventuali connessioni già presenti del db per affinare i dati. 
+Analizza la mappa del potere in Europa e le connessioni con il resto del mondo tenendo conto dei dati già emersi. Crea un report di entità e di persone rilevanti. Cobntrolla le eventuali connessioni già presenti e aggiungi quelli mancanti nel db per affinare i dati. 
 
 Ora crea il report sulla mappa del potere in Canada, integrando le informazioni e le connessioni rilevanti. La aggiornerò in un secondo momento analizzando nuovi dati
 
-Ora puoi aggiornare il file japan-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+Ora puoi aggiornare il file eu-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
-Ora puoi aggiornare il file brazil-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+Ora puoi aggiornare il file turkey-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
 SudaFrica
 categoria Banche
@@ -81,41 +81,5 @@ Priorità 1: Ambiti ad alta interconnessione
   3. Report india-power-network.md - Tata, Ambani, Adani, BJP nexus
   4. Report latam-oligarchs.md - 3G Capital, Slim, Globo, oligarchie
 
-
-Suggerimenti per nuove schede PE
-
- Asia
-
-  Cina / Hong Kong
-
-  | Nome                   | AUM    | Perché interessante                                                          |
-  |------------------------|--------|------------------------------------------------------------------------------|
-  | Hillhouse Capital      | ~$100B | Zhang Lei, Yale MBA, early investor Tencent/JD.com. Ponte Cina-USA           |
-  | Primavera Capital      | ~$8B   | Fred Hu, ex Goldman Sachs China Chairman, McKinsey                           |
-  | CITIC Capital          | ~$30B  | Braccio PE del governo cinese (CITIC Group statale)                          |
-  | PAG (Pacific Alliance) | ~$50B  | Uno dei più grandi Asia, HK-based                                            |
-
-  Giappone
-
-  | Nome                      | AUM    | Perché interessante                                        |
-  |---------------------------|--------|------------------------------------------------------------|
-  | Japan Industrial Partners | -      | Buyout Toshiba 2023, connessioni keiretsu                  |
-
-
-  ---
-  Europa
-
-  | Nome                 | AUM    | Perché interessante                                       |
-  |----------------------|--------|-----------------------------------------------------------|
-  | Permira              | ~$80B  | UK, ex Schroders, Valentino/Hugo Boss                     |
-  | Ardian               | ~$170B | Francia, spin-off AXA                                     |
-  | Partners Group       | ~$150B | Svizzera, Zugo                                            |
-
-  ---
-  Medio Oriente
-
-  | Nome         | AUM   | Perché interessante                              |
-  |--------------|-------|--------------------------------------------------|
-  | Investcorp   | ~$50B | Bahrain, primo PE del Golfo (1982), Gucci buyout |
   | Gulf Capital | ~$5B  | Abu Dhabi, Mubadala-linked   
 

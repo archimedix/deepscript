@@ -64,6 +64,17 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  aamulehti:
+    name: Aamulehti
+    type: media
+    headquarters: Tampere, Finland
+    status: active
+    stakeholders:
+    - person: matti-apunen
+      role: executive
+      from: 1998
+      to: 2010
+      note: Editor-in-Chief
   ab-inbev:
     name: Anheuser-Busch InBev SA/NV
     type: company
@@ -180,6 +191,18 @@ organizations:
     - person: mark-eyskens
       role: member
       from: 1989
+  academie-francaise:
+    name: Académie française
+    type: agency
+    founded: 1635
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: simone-veil
+      role: member
+      from: 2008
+      to: 2017
+      note: 13e fauteuil
   accenture:
     name: Accenture
     stakeholders:
@@ -622,6 +645,11 @@ organizations:
       role: chairman
       from: 1989
       to: 1993
+    - person: dermot-gleeson
+      role: chairman
+      from: 2003
+      to: 2009
+      note: Chairman AIB Group
   aib-group:
     name: AIB Group
     type: bank
@@ -774,6 +802,9 @@ organizations:
     status: active
     sector: aerospace-defence
     stakeholders:
+    - person: jean-claude-trichet
+      role: board
+      note: Director
     - person: rene-obermann
       role: chairman
       from: 2020
@@ -2114,6 +2145,17 @@ organizations:
     - org: google
       role: donor
       note: Corporate donor - Tech sector
+  atlantic-council-finland:
+    name: Atlantic Council of Finland
+    type: thinktank
+    headquarters: Helsinki, Finland
+    status: active
+    stakeholders:
+    - person: jaakko-iloniemi
+      role: chairman
+      from: 1999
+      to: 2001
+      note: Founder, Honorary Chair
   atlantik-brucke:
     name: Atlantik-Brucke
     type: forum
@@ -2216,6 +2258,17 @@ organizations:
       from: 1996
       to: 2011
       note: Co-founder, CEO
+  aviva:
+    type: company
+    founded: 2000
+    headquarters: London, UK
+    status: active
+    sector: insurance
+    stakeholders:
+    - person: pehr-gyllenhammar
+      role: chairman
+      from: 2005
+      to: 2012
   avolta:
     name: Avolta AG (ex Dufry/Autogrill)
     type: company
@@ -2477,8 +2530,6 @@ organizations:
       from: 1968
       to: 1997
       note: Deputy Director General 1984-1997
-    - org: bce
-      role: partner
     - org: bis
       role: partner
   banca-mondiale:
@@ -2566,8 +2617,6 @@ organizations:
       share: 5.2%
       from: 2001
       note: Ridotta da 15% iniziale
-    - org: european-investment-bank
-      role: shareholder
     - org: ifc
       role: shareholder
   banco-ambrosiano-veneto:
@@ -2832,6 +2881,21 @@ organizations:
       from: 2013
       to: 2017
       note: COO, Deputy Governor
+  bank-of-finland:
+    name: Bank of Finland
+    type: centralbank
+    headquarters: Helsinki, Finland
+    status: active
+    stakeholders:
+    - person: erkki-liikanen
+      role: executive
+      from: 2004
+      to: 2018
+      note: Governor
+    - person: olli-rehn
+      role: executive
+      from: 2018
+      note: Governor
   bank-of-greece:
     name: Bank of Greece
     type: centralbank
@@ -2943,6 +3007,11 @@ organizations:
     status: active
     note: Banca centrale francese, membro Eurosistema
     stakeholders:
+    - person: jean-claude-trichet
+      role: executive
+      from: 1993
+      to: 2003
+      note: Governatore
     - person: francois-villeroy-de-galhau
       role: executive
       from: 2015
@@ -3205,91 +3274,6 @@ organizations:
       from: 1998
       to: 2002
       note: Nationalized during bank run May 1998, sold to Hartono 2002
-  bce:
-    name: Banca Centrale Europea
-    type: centralbank
-    founded: 1998
-    headquarters: Francoforte
-    status: active
-    stakeholders:
-    - person: christine-lagarde
-      role: executive
-      from: 2019
-      note: Presidente BCE
-    - person: mario-draghi
-      role: executive
-      from: 2011
-      to: 2019
-      note: Presidente BCE - Whatever it takes
-    - person: lucas-papademos
-      role: executive
-      from: 2002
-      to: 2010
-      note: Vice President
-    - person: yannis-stournaras
-      role: board
-      from: 2014
-      note: Governing Council member
-    - person: wim-duisenberg
-      role: executive
-      from: 1998
-      to: 2003
-      note: Primo Presidente BCE
-    - person: jean-claude-trichet
-      role: executive
-      from: 2003
-      to: 2011
-      note: Presidente BCE
-    - person: luis-de-guindos
-      role: executive
-      from: 2018
-      note: Vice President BCE
-    - person: philip-lane
-      role: executive
-      from: 2019
-      note: Chief Economist
-    - person: isabel-schnabel
-      role: board
-      from: 2020
-      note: Executive Board - Markets
-    - person: frank-elderson
-      role: board
-      from: 2020
-      note: Executive Board - Banking Supervision
-    - person: piero-cipollone
-      role: board
-      from: 2023
-      note: Executive Board - Payments
-    - person: fabio-panetta
-      role: board
-      from: 2020
-      to: 2023
-      note: Executive Board, poi Governatore Banca Italia
-    - person: francois-villeroy-de-galhau
-      role: board
-      from: 2015
-      note: Governing Council (ex officio come Gov. BdF)
-    - person: pablo-hernandez-de-cos
-      role: board
-      from: 2018
-      to: 2024
-      note: Governing Council member (ex-officio as Bank of Spain Governor)
-    - person: ignazio-visco
-      role: board
-      from: 2011
-      to: 2023
-      note: Governing Council (ex officio)
-    - person: tommaso-padoa-schioppa
-      role: board
-      from: 1998
-      to: 2005
-      note: Executive Board member
-    - org: bis
-      role: partner
-    - org: bank-of-greece
-      role: member
-      from: 2001
-      note: Eurosystem member
   bcee:
     name: Banque et Caisse d'Épargne de l'État
     type: bank
@@ -3337,32 +3321,6 @@ organizations:
       from: 1955
       to: 1976
       note: Head of Corporate Finance
-  bei:
-    name: European Investment Bank (BEI/EIB)
-    type: agency
-    founded: 1958
-    headquarters: Luxembourg City, Luxembourg
-    status: active
-    sector: development-banking
-    stakeholders:
-    - person: nadia-calvino
-      role: executive
-      from: 2024
-      note: President
-    - person: werner-hoyer
-      role: executive
-      from: 2012
-      to: 2023
-      note: President
-    - person: philippe-maystadt
-      role: executive
-      from: 2000
-      to: 2011
-      note: President
-    - person: philippe-maystadt
-      role: president
-      from: 2000
-      to: 2011
   bein-media:
     name: beIN Media Group
     type: media
@@ -3439,6 +3397,29 @@ organizations:
     - org: state-street
       role: stake
       share: 0.035
+  berlingske-tidende:
+    name: Berlingske Tidende
+    type: media
+    founded: 1749
+    headquarters: Copenhagen, Denmark
+    status: active
+    stakeholders:
+    - person: terkel-terkelsen
+      role: executive
+      from: 1946
+      to: 1972
+      note: Editor-in-Chief
+    - person: niels-norlund
+      role: executive
+      from: 1967
+      to: 1970
+      note: Editor-in-Chief
+    - person: ole-bjorn-kraft
+      role: member
+      note: Contributor
+    - person: connie-hedegaard
+      role: chairman
+      note: Chair of Berlingske Media DPG Group
   bertelsmann:
     name: Bertelsmann SE & Co. KGaA
     type: media
@@ -3720,6 +3701,9 @@ organizations:
       role: member
     - person: vernon-jordan
       role: steering
+    - person: alexander-stubb
+      role: member
+      note: Partecipò 2015
     - person: bernhard-lippe-biesterfeld
       role: founder
       from: 1954
@@ -3814,6 +3798,12 @@ organizations:
       role: chairman
       from: 2024
       note: Chairman Bilderberg Group (Dec 2024), ex Co-Chairman
+    - person: wim-duisenberg
+      role: steering
+      note: Treasurer 1980s
+    - person: jean-claude-trichet
+      role: steering
+      note: Steering Committee
     - person: christian-sewing
       role: member
       from: 2024
@@ -3881,6 +3871,10 @@ organizations:
       from: 1975
       to: 2024
       note: Honorary Secretary-General 1980-2000, Steering Committee, Chairman Foundation Bilderberg Meetings
+    - person: mark-carney
+      role: steering
+      from: 2011
+      note: Steering Committee; partecipante 2011, 2012, 2019, 2024, 2025
     - person: ernst-van-der-beugel
       role: executive
       from: 1960
@@ -3897,11 +3891,20 @@ organizations:
     - person: edmond-de-rothschild
       role: member
       note: Partecipante anni 70
+    - person: denis-obrien
+      role: member
+      note: Membro
     - person: etienne-davignon
       role: chairman
       from: 1998
       to: 2011
       note: Chairman Steering Committee, Honorary Chairman dal 2011
+    - person: pehr-gyllenhammar
+      role: steering
+      note: Molto attivo
+    - person: wisse-dekker
+      role: member
+      note: Partecipò 1982
     - person: herman-van-rompuy
       role: member
       from: 2009
@@ -3928,6 +3931,9 @@ organizations:
     - person: juan-carlos-i
       role: member
       note: Multiple attendances as head of state
+    - person: felipe-gonzalez
+      role: member
+      from: 1991
     - person: pablo-hernandez-de-cos
       role: member
       note: Participant 2024 (Madrid), 2025
@@ -4079,6 +4085,99 @@ organizations:
       role: steering
       from: 1975
       to: 1989
+    - person: andrew-knight
+      role: steering
+      from: 1980
+      to: 1998
+      note: Steering Committee
+    - person: kostas-karras
+      role: steering
+      note: Steering Committee member
+    - person: jorma-ollila
+      role: steering
+      from: 1994
+      to: 2014
+      note: 19 conferenze
+    - person: jaakko-iloniemi
+      role: member
+      from: 1984
+      to: 1997
+      note: Rappresentante finlandese
+    - person: johan-nykopp
+      role: member
+      from: 1962
+      to: 1972
+      note: Primo finlandese invitato
+    - person: matti-apunen
+      role: member
+      from: 2011
+      to: 2015
+      note: 5 partecipazioni consecutive
+    - person: terkel-terkelsen
+      role: steering
+      note: Steering Committee member
+    - person: bjorn-wahlroos
+      role: member
+      from: 2016
+      note: 6 partecipazioni
+    - person: anders-eldrup
+      role: steering
+      from: 2001
+      to: 2010
+      note: Steering Committee member
+    - person: merete-eldrup
+      role: member
+      note: Attendee 2015
+    - person: risto-siilasmaa
+      role: member
+      from: 2014
+      note: Copenhagen 2014
+    - person: ulrik-federspiel
+      role: steering
+      note: Steering Committee member
+    - person: niels-norlund
+      role: steering
+      from: 1975
+      note: Steering Committee member
+    - person: matti-alahuhta
+      role: member
+      from: 2014
+      note: Copenhagen 2014
+    - person: kari-stadigh
+      role: member
+      from: 2014
+      note: Copenhagen 2014
+    - person: henrik-ehrnrooth
+      role: member
+      from: 2014
+      note: Copenhagen 2014
+    - person: elina-valtonen
+      role: member
+      from: 2018
+      note: Turin 2018
+    - person: toger-seidenfaden
+      role: steering
+      from: 1995
+      note: Steering Committee member
+    - person: ole-bjorn-kraft
+      role: founder
+      from: 1954
+      note: Founding member, consulted by Retinger
+    - person: connie-hedegaard
+      role: steering
+      note: Current Steering Committee member
+    - person: anders-fogh-rasmussen
+      role: member
+      note: Attendee 2000, 2003, 2014
+    - person: paschal-donohoe
+      role: member
+      note: Partecipante 2023, 2025
+    - person: jose-manuel-barroso
+      role: member
+    - person: michael-oleary
+      role: steering
+      from: 2015
+      note: Steering Committee; partecipante 2015, 2017, 2025
     - org: trilaterale
       role: partner
   biontech:
@@ -4194,8 +4293,6 @@ organizations:
       from: 1993
       to: 1997
       note: Chairman Basel Committee on Banking Supervision
-    - org: bce
-      role: partner
     - org: bank-of-greece
       role: member
       note: Member central bank
@@ -5044,6 +5141,16 @@ organizations:
     - org: state-street
       role: stake
       share: 0.034
+  brookfield:
+    name: Brookfield Asset Management
+    type: assetmanager
+    headquarters: Toronto, Canada
+    status: active
+    stakeholders:
+    - person: mark-carney
+      role: chairman
+      from: 2020
+      note: Chair; Head of Transition Investing
   brookfield-asset-management:
     name: Brookfield Asset Management
     type: assetmanager
@@ -5118,6 +5225,9 @@ organizations:
     headquarters: Brussels, Belgium
     status: active
     stakeholders:
+    - person: jean-claude-trichet
+      role: chairman
+      note: Chairman of the Board
     - person: nathalie-tocci
       role: member
       note: Contributor
@@ -5822,6 +5932,24 @@ organizations:
       from: 2004
       to: 2014
       note: DG 2010-14
+  cdu:
+    name: Christlich Demokratische Union
+    type: company
+    founded: 1945
+    headquarters: Berlin, Germany
+    status: active
+    sector: politics
+    stakeholders:
+    - person: walter-hallstein
+      role: member
+      from: 1969
+      to: 1972
+      note: Deputato Bundestag
+    - person: konrad-adenauer
+      role: founder
+      from: 1945
+      to: 1966
+      note: Leader CDU
   cea:
     name: CEA
     type: agency
@@ -5857,6 +5985,28 @@ organizations:
       role: minority
       share: 10
       note: Via ConnecT SpA
+  celtic-fc:
+    name: Celtic FC
+    type: sportsclub
+    founded: 1887
+    headquarters: Glasgow, Scotland
+    status: active
+    stakeholders:
+    - person: dermot-desmond
+      role: board
+      from: 1994
+      note: Largest shareholder (34.9%)
+  central-bank-ireland:
+    name: Central Bank of Ireland
+    type: centralbank
+    founded: 1943
+    headquarters: Dublin, Ireland
+    status: active
+    stakeholders:
+    - person: gabriel-makhlouf
+      role: executive
+      from: 2019
+      note: Governor
   central-bank-of-egypt:
     name: Central Bank of Egypt
     stakeholders:
@@ -5887,6 +6037,16 @@ organizations:
     founded: 2003
     headquarters: Beijing, China
     status: active
+  centre-for-policy-studies:
+    name: Centre for Policy Studies
+    type: thinktank
+    founded: 1974
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: andrew-knight
+      role: board
+      note: Board member
   cepi:
     name: Coalition for Epidemic Preparedness Innovations
     type: agency
@@ -6136,6 +6296,11 @@ organizations:
       role: chairman
       from: 1969
       to: 1981
+    - person: pehr-gyllenhammar
+      role: advisor
+      from: 1972
+      to: 1995
+      note: International Advisory Committee
     - person: john-micklethwait
       role: member
       from: 1985
@@ -6149,6 +6314,9 @@ organizations:
     status: active
     sector: foreign policy
     stakeholders:
+    - person: mark-carney
+      role: chairman
+      note: Chair
     - person: bronwen-maddox
       role: executive
       from: 2022
@@ -6549,6 +6717,10 @@ organizations:
     headquarters: Rome, Italy
     status: active
     stakeholders:
+    - person: carlo-de-benedetti
+      role: chairman
+      from: 1976
+      note: Fondatore/Presidente
     - person: corrado-passera
       role: executive
       from: 1985
@@ -6596,6 +6768,11 @@ organizations:
       from: 2003
       to: 2013
       note: Chairman Switzerland
+    - person: jorma-ollila
+      role: executive
+      from: 1977
+      to: 1985
+      note: Corporate banking London/Helsinki
     - org: kuwait-investment-authority
       role: shareholder
       share: $3B
@@ -6709,6 +6886,51 @@ organizations:
       role: member
       from: 2019
       note: Ex-President member
+  club-madrid:
+    name: Club de Madrid
+    type: forum
+    founded: 2001
+    headquarters: Madrid, Spain
+    status: active
+    stakeholders:
+    - person: romano-prodi
+      role: member
+      from: 2001
+    - person: sanna-marin
+      role: member
+      from: 2023
+    - person: leo-varadkar
+      role: member
+      from: 2024
+    - person: mikhail-gorbachev
+      role: member
+      from: 2001
+      to: 2022
+      note: Founding member
+    - person: bill-clinton
+      role: member
+      from: 2001
+    - person: gro-harlem-brundtland
+      role: member
+    - person: jose-luis-zapatero
+      role: member
+    - person: george-papandreou
+      role: member
+    - person: jerzy-buzek
+      role: member
+      from: 2002
+    - person: felipe-gonzalez
+      role: member
+      from: 2001
+    - person: paolo-gentiloni
+      role: member
+      from: 2019
+    - person: mary-robinson
+      role: member
+    - person: helen-clark
+      role: member
+    - person: gordon-brown
+      role: member
   club-of-rome:
     name: Club of Rome
     type: forum
@@ -6769,6 +6991,21 @@ organizations:
     - person: alexander-saverys
       role: executive
       note: CEO
+  cmi:
+    name: CMI - Martti Ahtisaari Peace Foundation
+    type: foundation
+    founded: 2000
+    headquarters: Helsinki, Finland
+    status: active
+    stakeholders:
+    - person: jaakko-iloniemi
+      role: executive
+      from: 2000
+      note: First Executive Director
+    - person: martti-ahtisaari
+      role: founder
+      from: 2000
+      note: Fondatore CMI
   cna:
     name: CNA (Channel NewsAsia)
     type: media
@@ -6892,6 +7129,28 @@ organizations:
     - org: berkshire-hathaway
       role: stake
       share: 0.093
+  college-of-europe:
+    name: College of Europe
+    type: forum
+    founded: 1949
+    headquarters: Bruges, Belgium / Natolin, Poland
+    status: active
+    stakeholders:
+    - person: nick-clegg
+      role: member
+      from: 1992
+      to: 1993
+      note: MA European Affairs
+    - person: alexander-stubb
+      role: member
+      from: 1994
+      to: 1995
+      note: MA, poi Visiting Professor 2000
+    - person: roberta-metsola
+      role: member
+      from: 2003
+      to: 2004
+      note: MA European Studies
   collegio-europa:
     name: College of Europe
     type: thinktank
@@ -7030,48 +7289,6 @@ organizations:
       share: 28
       from: 2024
       note: In corso acquisizione ostile
-  commissione-europea:
-    name: Commissione Europea
-    type: agency
-    founded: 1958
-    headquarters: Brussels, Belgium
-    status: active
-    stakeholders:
-    - person: peter-sutherland
-      role: executive
-      from: 1985
-      to: 1989
-      note: Commissioner for Competition (più giovane nella storia)
-    - person: nadia-calvino
-      role: executive
-      from: 2006
-      to: 2018
-      note: DG Budget; Deputy DG Competition
-    - person: paolo-gentiloni
-      role: executive
-      from: 2019
-      to: 2024
-      note: Commissario Economia
-    - person: altiero-spinelli
-      role: executive
-      from: 1970
-      to: 1976
-      note: Commissario Europeo
-    - person: ferdinando-nelli-feroci
-      role: executive
-      from: 2014
-      to: 2014
-      note: Commissario Europeo Industria e Imprenditoria
-    - person: tommaso-padoa-schioppa
-      role: executive
-      from: 1979
-      to: 1983
-      note: DG Economic and Financial Affairs
-    - person: renato-ruggiero
-      role: executive
-      from: 1970
-      to: 1978
-      note: Chef de Cabinet Malfatti, DG Regional Policy
   commissione-ue:
     name: Commissione Europea
     type: agency
@@ -7181,6 +7398,16 @@ organizations:
       from: 1995
       to: 1999
       note: Commissaria, scandalo nepotismo
+    - person: erkki-liikanen
+      role: executive
+      from: 1995
+      to: 2004
+      note: Commissioner Budget, Enterprise
+    - person: olli-rehn
+      role: executive
+      from: 2004
+      to: 2014
+      note: Commissioner Enlargement, Economic Affairs, VP 2011-14
   commonwealth:
     name: Commonwealth
     type: agency
@@ -7263,6 +7490,17 @@ organizations:
       from: 1934
       to: 1934
       note: Breve presidenza
+  conseil-constitutionnel:
+    name: Conseil constitutionnel
+    type: agency
+    founded: 1958
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: simone-veil
+      role: member
+      from: 1998
+      to: 2007
   conservation-international:
     name: Conservation International
     type: foundation
@@ -7405,6 +7643,11 @@ organizations:
       role: founder
       from: 1949
       to: 1960
+    - person: paul-henri-spaak
+      role: chairman
+      from: 1949
+      to: 1949
+      note: Presidente Assemblea Consultiva
     - person: frederic-bennett
       role: chairman
       from: 1979
@@ -7666,6 +7909,18 @@ organizations:
       from: 1993
       to: 2022
       note: Co-Founder, Co-Chairman, stepped down 2022
+  dagbladet-information:
+    name: Dagbladet Information
+    type: media
+    founded: 1945
+    headquarters: Copenhagen, Denmark
+    status: active
+    stakeholders:
+    - person: erik-seidenfaden
+      role: executive
+      from: 1946
+      to: 1965
+      note: Editor-in-Chief, co-founder
   daily-mail:
     name: Daily Mail / DMG Media
     type: media
@@ -7871,6 +8126,10 @@ organizations:
     - person: edmond-de-rothschild
       role: board
       note: Azionista
+    - person: dermot-gleeson
+      role: advisor
+      from: 2003
+      note: Ombudsman Diamond Trading Company
     - org: anglo-american
       share: 85
       from: 2012
@@ -8231,6 +8490,17 @@ organizations:
     founded: 1994
     headquarters: Bucharest, Romania
     sector: telecom-media
+  digicel:
+    name: Digicel
+    type: company
+    founded: 2001
+    headquarters: Kingston, Jamaica
+    status: active
+    stakeholders:
+    - person: denis-obrien
+      role: founder
+      from: 2001
+      note: Founder; 10% stake post-restructuring 2023
   digiturk:
     name: Digiturk
     type: media
@@ -8296,6 +8566,16 @@ organizations:
     stakeholders:
     - org: walt-disney
       share: 100%
+  ditchley-foundation:
+    name: Ditchley Foundation
+    type: thinktank
+    founded: 1958
+    headquarters: Oxfordshire, UK
+    status: active
+    stakeholders:
+    - person: andrew-knight
+      role: board
+      note: Governor
   djarum:
     name: Djarum Group
     type: company
@@ -8336,7 +8616,7 @@ organizations:
     status: active
     stakeholders:
     - person: wim-duisenberg
-      role: executive
+      role: chairman
       from: 1982
       to: 1997
       note: President
@@ -8579,16 +8859,68 @@ organizations:
     headquarters: Frankfurt, Germany
     status: active
     stakeholders:
-    - person: wim-duisenberg
+    - person: christine-lagarde
       role: executive
+      from: 2019
+      note: Presidente BCE
+    - person: mario-draghi
+      role: executive
+      from: 2011
+      to: 2019
+      note: Presidente BCE - Whatever it takes
+    - person: lucas-papademos
+      role: executive
+      from: 2002
+      to: 2010
+      note: Vice President
+    - person: yannis-stournaras
+      role: board
+      from: 2014
+      note: Governing Council member
+    - person: wim-duisenberg
+      role: chairman
       from: 1998
       to: 2003
-      note: First President ECB
+      note: Primo Presidente
+    - person: jean-claude-trichet
+      role: executive
+      from: 2003
+      to: 2011
+      note: Presidente BCE
+    - person: luis-de-guindos
+      role: executive
+      from: 2018
+      note: Vice President BCE
+    - person: philip-lane
+      role: executive
+      from: 2019
+      note: Chief Economist
+    - person: isabel-schnabel
+      role: board
+      from: 2020
+      note: Executive Board - Markets
+    - person: frank-elderson
+      role: board
+      from: 2020
+      note: Executive Board - Banking Supervision
+    - person: piero-cipollone
+      role: board
+      from: 2023
+      note: Executive Board - Payments
+    - person: fabio-panetta
+      role: board
+      from: 2020
+      to: 2023
+      note: Executive Board, poi Governatore Banca Italia
     - person: axel-weber
       role: board
       from: 2004
       to: 2011
       note: Governing Council member
+    - person: francois-villeroy-de-galhau
+      role: board
+      from: 2015
+      note: Governing Council (ex officio come Gov. BdF)
     - person: klaas-knot
       role: board
       from: 2011
@@ -8604,10 +8936,38 @@ organizations:
       from: 2014
       to: 2024
       note: Director General
+    - person: pablo-hernandez-de-cos
+      role: board
+      from: 2018
+      to: 2024
+      note: Governing Council member (ex-officio as Bank of Spain Governor)
+    - person: ignazio-visco
+      role: board
+      from: 2011
+      to: 2023
+      note: Governing Council (ex officio)
     - person: mugur-isarescu
       role: board
       from: 2007
       note: General Council member
+    - person: tommaso-padoa-schioppa
+      role: board
+      from: 1998
+      to: 2005
+      note: Executive Board member
+    - person: erkki-liikanen
+      role: board
+      from: 2004
+      to: 2018
+      note: Governing Council member
+    - person: olli-rehn
+      role: board
+      from: 2018
+      note: Governing Council member
+    - person: gabriel-makhlouf
+      role: board
+      from: 2019
+      note: Governing Council member
     - org: bnr
       role: member
       from: 2007
@@ -8840,6 +9200,19 @@ organizations:
       role: executive
       from: 2017
       to: 2020
+    - person: nadia-calvino
+      role: executive
+      from: 2024
+      note: President
+    - person: werner-hoyer
+      role: executive
+      from: 2012
+      to: 2023
+      note: President
+    - person: philippe-maystadt
+      role: president
+      from: 2000
+      to: 2011
   eif:
     name: European Investment Fund (EIF)
     type: agency
@@ -8847,14 +9220,6 @@ organizations:
     headquarters: Luxembourg City, Luxembourg
     status: active
     sector: development-banking
-    stakeholders:
-    - org: bei
-      share: 62.2
-      from: 1994
-      note: Majority shareholder
-    - org: commissione-europea
-      share: 30
-      from: 1994
   el-pais:
     name: El País
     type: media
@@ -8955,6 +9320,11 @@ organizations:
     founded: 1882
     headquarters: Helsinki, Finland
     sector: Telecommunications
+    stakeholders:
+    - org: blackrock
+      share: 4.0%
+    - org: vanguard
+      share: 2.0%
   elliott-management:
     name: Elliott Investment Management
     type: privateequity
@@ -9253,6 +9623,8 @@ organizations:
       from: 2019
       to: 2022
       note: President EPP (93% voti)
+    - person: roberta-metsola
+      role: member
   eqt:
     name: EQT AB
     type: privateequity
@@ -9435,6 +9807,10 @@ organizations:
       role: member
       from: 2008
       note: Prima donna membro ERT
+    - person: jorma-ollila
+      role: chairman
+      from: 2005
+      to: 2009
   escher-wyss:
     name: Escher Wyss AG
     type: company
@@ -9596,6 +9972,11 @@ organizations:
       role: executive
       from: 2005
       to: 2013
+    - person: paschal-donohoe
+      role: chairman
+      from: 2020
+      to: 2025
+      note: President; 3 mandati (2020, 2023, 2025)
   europacable:
     name: Europacable
     type: agency
@@ -9614,6 +9995,56 @@ organizations:
     headquarters: Brussels, Belgium
     status: active
     stakeholders:
+    - person: romano-prodi
+      role: president
+      from: 1999
+      to: 2004
+    - person: walter-hallstein
+      role: president
+      from: 1958
+      to: 1967
+    - person: jean-rey
+      role: president
+      from: 1967
+      to: 1970
+    - person: roy-jenkins
+      role: president
+      from: 1977
+      to: 1981
+    - person: gaston-thorn
+      role: president
+      from: 1981
+      to: 1985
+    - person: jacques-delors
+      role: president
+      from: 1985
+      to: 1995
+    - person: jacques-santer
+      role: president
+      from: 1995
+      to: 1999
+    - person: jean-claude-juncker
+      role: president
+      from: 2014
+      to: 2019
+    - person: ursula-von-der-leyen
+      role: president
+      from: 2019
+    - person: nick-clegg
+      role: advisor
+      from: 1994
+      to: 1999
+      note: TACIS 1994-96, Advisor to Leon Brittan 1996-99
+    - person: josep-borrell
+      role: executive
+      from: 2019
+      to: 2024
+      note: High Representative for Foreign Affairs
+    - person: peter-sutherland
+      role: executive
+      from: 1985
+      to: 1989
+      note: Commissioner for Competition (più giovane nella storia)
     - person: frans-timmermans
       role: executive
       from: 2014
@@ -9623,11 +10054,55 @@ organizations:
       role: executive
       from: 2023
       note: Commissioner Climate 2023-24, Climate/Net Zero/Clean Growth 2024-
+    - person: nadia-calvino
+      role: executive
+      from: 2006
+      to: 2018
+      note: DG Budget; Deputy DG Competition
     - person: etienne-davignon
       role: executive
       from: 1977
       to: 1985
       note: Commissioner 1977-1981, Vice-President 1981-1985
+    - person: paolo-gentiloni
+      role: executive
+      from: 2019
+      to: 2024
+      note: Commissario Economia
+    - person: altiero-spinelli
+      role: executive
+      from: 1970
+      to: 1976
+      note: Commissario Europeo
+    - person: ferdinando-nelli-feroci
+      role: executive
+      from: 2014
+      to: 2014
+      note: Commissario Europeo Industria e Imprenditoria
+    - person: antonio-tajani
+      role: executive
+      from: 2008
+      to: 2014
+      note: Vice-President, Commissioner Industry
+    - person: tommaso-padoa-schioppa
+      role: executive
+      from: 1979
+      to: 1983
+      note: DG Economic and Financial Affairs
+    - person: renato-ruggiero
+      role: executive
+      from: 1970
+      to: 1978
+      note: Chef de Cabinet Malfatti, DG Regional Policy
+    - person: connie-hedegaard
+      role: executive
+      from: 2010
+      to: 2014
+      note: Commissioner for Climate Action
+    - person: jose-manuel-barroso
+      role: president
+      from: 2004
+      to: 2014
   european-council:
     name: European Council
     type: agency
@@ -9635,6 +10110,9 @@ organizations:
     headquarters: Brussels, Belgium
     status: active
     stakeholders:
+    - person: antonio-costa
+      role: president
+      from: 2024
     - person: herman-van-rompuy
       role: chairman
       from: 2009
@@ -9645,6 +10123,10 @@ organizations:
       from: 2014
       to: 2019
       note: President of the European Council
+    - person: charles-michel
+      role: president
+      from: 2019
+      to: 2024
   european-forum-alpbach:
     name: European Forum Alpbach
     type: forum
@@ -9657,11 +10139,6 @@ organizations:
       from: 2020
       to: 2024
       note: President
-  european-investment-bank:
-    name: European Investment Bank
-    type: bank
-    headquarters: Luxembourg
-    status: active
   european-movement:
     name: European Movement
     type: forum
@@ -9669,6 +10146,11 @@ organizations:
     headquarters: Brussels, Belgium
     status: active
     stakeholders:
+    - person: walter-hallstein
+      role: chairman
+      from: 1968
+      to: 1974
+      note: Presidente
     - person: jozef-retinger
       role: founder
       from: 1948
@@ -9684,16 +10166,110 @@ organizations:
     headquarters: Brussels/Strasbourg
     status: active
     stakeholders:
+    - person: gaston-thorn
+      role: member
+      from: 1959
+      to: 1969
+    - person: jacques-delors
+      role: member
+      from: 1979
+      to: 1981
+      note: Europarlamentare
+    - person: jacques-santer
+      role: executive
+      from: 1975
+      to: 1979
+      note: Vice-Presidente PE 1975-77, MEP fino 1979
+    - person: nick-clegg
+      role: legislator
+      from: 1999
+      to: 2004
+      note: MEP East Midlands
+    - person: alexander-stubb
+      role: legislator
+      from: 2004
+      to: 2008
+      note: MEP National Coalition Party
+    - person: eva-maydell
+      role: member
+      from: 2014
+      note: MEP Bulgaria
+    - person: josep-borrell
+      role: president
+      from: 2004
+      to: 2007
+    - person: friedrich-merz
+      role: member
+      from: 1989
+      to: 1994
+    - person: antonio-costa
+      role: executive
+      from: 2004
+      to: 2005
+      note: MEP, Vice-Presidente
+    - person: robert-schuman
+      role: chairman
+      from: 1958
+      to: 1960
+      note: Primo Presidente
+    - person: jerzy-buzek
+      role: president
+      from: 2009
+      to: 2012
     - person: guy-verhofstadt
       role: member
       from: 2009
       to: 2024
       note: MEP Belgium, Brexit Coordinator 2016-2020
+    - person: altiero-spinelli
+      role: member
+      from: 1979
+      to: 1986
+      note: Eurodeputato; autore Progetto Trattato UE 1984
+    - person: antonio-tajani
+      role: president
+      from: 2017
+      to: 2019
     - person: radoslaw-sikorski
       role: member
       from: 2019
       to: 2023
       note: MEP, Chair Delegation for US relations
+    - person: renate-weber
+      role: legislator
+      from: 2007
+      to: 2019
+      note: MEP (PNL/ALDE)
+    - person: lilli-gruber
+      role: member
+      from: 2004
+      to: 2008
+      note: MEP Ulivo, Gruppo Socialista
+    - person: poul-nyrup-rasmussen
+      role: member
+      from: 2004
+      to: 2009
+      note: MEP
+    - person: roberta-metsola
+      role: president
+      from: 2022
+    - person: david-sassoli
+      role: president
+      from: 2019
+      to: 2022
+    - person: david-sassoli
+      role: legislator
+      from: 2009
+      to: 2014
+      note: MEP
+    - person: martin-schulz
+      role: president
+      from: 2012
+      to: 2017
+    - person: simone-veil
+      role: president
+      from: 1979
+      to: 1982
   european-policy-centre:
     name: European Policy Centre
     type: thinktank
@@ -9737,12 +10313,12 @@ organizations:
     - person: pehr-gyllenhammar
       role: founder
       from: 1983
-      note: Fondatore e iniziatore (Volvo)
+      note: Primo Chairman 1983-1988
     - person: wisse-dekker
-      role: founder
-      from: 1983
+      role: chairman
+      from: 1988
       to: 1992
-      note: Fondatore (Philips), Chairman 1988-1992
+      note: Chairman ERT; fondatore 1983
     - person: rodolfo-de-benedetti
       role: member
       from: 2013
@@ -9791,6 +10367,22 @@ organizations:
       role: chairman
       from: 2023
       note: Co-Chairman Eutelsat Group (merger OneWeb)
+  eva:
+    name: Finnish Business and Policy Forum EVA
+    type: thinktank
+    headquarters: Helsinki, Finland
+    status: active
+    stakeholders:
+    - person: jaakko-iloniemi
+      role: executive
+      from: 1990
+      to: 2000
+      note: Managing Director
+    - person: matti-apunen
+      role: executive
+      from: 2010
+      to: 2019
+      note: Director
   exim-bank-china:
     name: Export-Import Bank of China
     type: bank
@@ -10190,6 +10782,16 @@ organizations:
     - person: giovanni-agnelli-sr
       role: founder
       from: 1899
+    - person: umberto-agnelli
+      role: chairman
+      from: 2003
+      to: 2004
+      note: Chairman FIAT Group
+    - person: carlo-de-benedetti
+      role: executive
+      from: 1976
+      to: 1976
+      note: CEO (100 giorni)
     - person: gian-maria-gros-pietro
       role: board
       from: 2005
@@ -10887,6 +11489,17 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  friedrich-ebert-stiftung:
+    name: Friedrich-Ebert-Stiftung
+    type: thinktank
+    founded: 1925
+    headquarters: Bonn/Berlin, Germany
+    status: active
+    stakeholders:
+    - person: martin-schulz
+      role: chairman
+      from: 2020
+      note: Presidente
   frontline:
     name: Frontline Ltd
     type: company
@@ -11059,6 +11672,17 @@ organizations:
     headquarters: Melbourne, Australia
     status: active
     aum: $225B
+  g30:
+    name: Group of Thirty
+    type: forum
+    founded: 1978
+    headquarters: Washington D.C., USA
+    status: active
+    stakeholders:
+    - person: jean-claude-trichet
+      role: chairman
+      from: 2011
+      note: Honorary Chairman
   g42:
     name: G42
     type: company
@@ -11884,6 +12508,11 @@ organizations:
       from: 1991
       to: 2024
       note: International Advisory Board
+    - person: mark-carney
+      role: executive
+      from: 1988
+      to: 2003
+      note: Managing Director (2002); uffici London, Tokyo, NY, Toronto
     - person: alessandro-benetton
       role: member
       from: 1988
@@ -11897,6 +12526,10 @@ organizations:
     - person: paul-deighton
       role: partner
       note: Former partner
+    - person: jose-manuel-barroso
+      role: chairman
+      from: 2016
+      note: Chairman Goldman Sachs International
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -11909,8 +12542,6 @@ organizations:
       role: stake
       share: 0.035
     - org: federal-reserve
-      role: partner
-    - org: bce
       role: partner
     - org: cic
       role: partner
@@ -12053,7 +12684,7 @@ organizations:
       to: 1997
       note: Federal Minister Education/Arts, Science/Research/Arts, Science/Transport/Arts
   governo-belgio:
-    name: Regno del Belgio
+    name: Governo del Belgio
     type: government
     founded: 1831
     headquarters: Brussels, Belgium
@@ -12063,6 +12694,36 @@ organizations:
       role: leader
       from: 2020
       to: 2024
+    - person: jean-rey
+      role: minister
+      from: 1949
+      to: 1950
+      note: Min. Ricostruzione
+    - person: jean-rey
+      role: minister
+      from: 1954
+      to: 1958
+      note: Min. Economia
+    - person: paul-henri-spaak
+      role: leader
+      from: 1938
+      to: 1939
+      note: Primo Ministro (1°)
+    - person: paul-henri-spaak
+      role: leader
+      from: 1947
+      to: 1949
+      note: Primo Ministro (2°)
+    - person: paul-henri-spaak
+      role: minister
+      from: 1954
+      to: 1957
+      note: Ministro Esteri
+    - person: paul-henri-spaak
+      role: minister
+      from: 1961
+      to: 1966
+      note: Vice PM e Min. Esteri
     - person: philippe-maystadt
       role: minister
       from: 1988
@@ -12136,6 +12797,11 @@ organizations:
       from: 1968
       to: 2014
       note: Longest serving MP, President Chamber 1999-2007
+    - person: charles-michel
+      role: leader
+      from: 2014
+      to: 2019
+      note: Primo Ministro
   governo-brasil:
     name: Governo do Brasil
     type: government
@@ -12165,6 +12831,10 @@ organizations:
     - person: chrystia-freeland
       role: minister
       from: 2020
+    - person: mark-carney
+      role: leader
+      from: 2025
+      note: Prime Minister; MP Nepean
     - person: john-manley
       role: minister
       from: 1993
@@ -12287,6 +12957,95 @@ organizations:
     - person: andrej-plenkovic
       role: leader
       from: 2016
+  governo-danimarca:
+    name: Regno di Danimarca
+    type: government
+    founded: 936
+    headquarters: Copenhagen, Denmark
+    status: active
+    stakeholders:
+    - person: helle-thorning-schmidt
+      role: leader
+      from: 2011
+      to: 2015
+      note: Prime Minister
+    - person: frederik-x
+      role: leader
+      from: 2024
+      note: King Frederik X
+    - person: mette-frederiksen
+      role: leader
+      from: 2019
+      note: Prime Minister
+    - person: anders-eldrup
+      role: executive
+      from: 1991
+      to: 2001
+      note: Permanent Secretary, Ministry of Finance
+    - person: ulrik-federspiel
+      role: executive
+      from: 1993
+      to: 1997
+      note: State Secretary, Prime Minister Office
+    - person: ulrik-federspiel
+      role: executive
+      from: 1997
+      to: 2000
+      note: Ambassador to Ireland
+    - person: ulrik-federspiel
+      role: executive
+      from: 2000
+      to: 2005
+      note: Ambassador to USA
+    - person: ulrik-federspiel
+      role: executive
+      from: 1991
+      to: 1993
+      note: Director, Ministry of Foreign Affairs
+    - person: ole-bjorn-kraft
+      role: minister
+      from: 1950
+      to: 1953
+      note: Minister of Foreign Affairs
+    - person: ole-bjorn-kraft
+      role: minister
+      from: 1945
+      to: 1945
+      note: Minister of Defense
+    - person: ole-bjorn-kraft
+      role: legislator
+      from: 1926
+      to: 1964
+      note: Member of Parliament (Folketing)
+    - person: connie-hedegaard
+      role: minister
+      from: 2004
+      to: 2009
+      note: Minister of Environment, then Climate and Energy
+    - person: anders-fogh-rasmussen
+      role: leader
+      from: 2001
+      to: 2009
+      note: Prime Minister
+    - person: lars-lokke-rasmussen
+      role: leader
+      from: 2009
+      to: 2011
+      note: Prime Minister (first term)
+    - person: lars-lokke-rasmussen
+      role: leader
+      from: 2015
+      to: 2019
+      note: Prime Minister (second term)
+    - person: lars-lokke-rasmussen
+      role: minister
+      from: 2022
+      note: Minister of Foreign Affairs
+    - person: poul-nyrup-rasmussen
+      role: leader
+      from: 1993
+      to: 2001
+      note: Prime Minister
   governo-drc:
     name: Governo della Repubblica Democratica del Congo
     type: government
@@ -12339,15 +13098,44 @@ organizations:
       from: 2019
       to: 2023
     - person: alexander-stubb
-      role: minister
-      from: 2008
+      role: leader
+      from: 2014
       to: 2014
-      note: Foreign Affairs
+      note: PM 2014-15, FM 2008-11, Finance 2015-16, President 2024-
     - person: jyrki-katainen
       role: leader
       from: 2011
       to: 2014
       note: Finance
+    - person: jaakko-iloniemi
+      role: executive
+      from: 1961
+      to: 1983
+      note: Diplomatico, Ambasciatore USA 1977-83
+    - person: martti-ahtisaari
+      role: leader
+      from: 1994
+      to: 2000
+      note: Presidente della Repubblica
+    - person: johan-nykopp
+      role: executive
+      from: 1931
+      to: 1958
+      note: Diplomatico, Ambasciatore USA 1951-58
+    - person: erkki-liikanen
+      role: minister
+      from: 1987
+      to: 1990
+      note: Min. Finanze
+    - person: olli-rehn
+      role: minister
+      from: 2015
+      to: 2016
+      note: Min. Economia
+    - person: elina-valtonen
+      role: minister
+      from: 2023
+      note: Min. Esteri
   governo-francia:
     name: Governo della Francia
     type: government
@@ -12395,6 +13183,31 @@ organizations:
       from: 1946
       to: 1952
       note: Commissario Generale del Piano (Piano Monnet)
+    - person: robert-schuman
+      role: minister
+      from: 1946
+      to: 1946
+      note: Ministro delle Finanze
+    - person: robert-schuman
+      role: leader
+      from: 1947
+      to: 1947
+      note: Primo Ministro
+    - person: robert-schuman
+      role: minister
+      from: 1948
+      to: 1952
+      note: Ministro degli Esteri
+    - person: robert-schuman
+      role: minister
+      from: 1955
+      to: 1956
+      note: Ministro della Giustizia
+    - person: jean-claude-trichet
+      role: executive
+      from: 1987
+      to: 1993
+      note: Directeur du Trésor
     - person: edith-cresson
       role: minister
       from: 1991
@@ -12608,6 +13421,16 @@ organizations:
       from: 1997
       to: 2002
       note: Primo Ministro (cohabitation Chirac)
+    - person: simone-veil
+      role: minister
+      from: 1974
+      to: 1979
+      note: Ministro della Sanità
+    - person: simone-veil
+      role: minister
+      from: 1993
+      to: 1995
+      note: Ministro di Stato Affari Sociali
   governo-georgia:
     name: Governo Georgia
     type: government
@@ -12643,6 +13466,11 @@ organizations:
       from: 1982
       to: 1998
       note: Chancellor of Unity. Reunification 1990. Maastricht Treaty 1992.
+    - person: walter-hallstein
+      role: minister
+      from: 1951
+      to: 1958
+      note: Segretario di Stato Esteri
     - person: ursula-von-der-leyen
       role: minister
       from: 2013
@@ -12675,6 +13503,11 @@ organizations:
       role: legislator
       from: 1994
       to: 2009
+    - person: konrad-adenauer
+      role: leader
+      from: 1949
+      to: 1963
+      note: Primo Cancelliere della RFT
     - person: sigmar-gabriel
       role: minister
       from: 2005
@@ -12725,6 +13558,10 @@ organizations:
       from: 1969
       to: 1970
       note: Chief of Planning Staff, Ministry of Defense
+    - person: martin-schulz
+      role: legislator
+      from: 2017
+      note: Membro Bundestag
   governo-giappone:
     name: Governo del Giappone
     type: government
@@ -12950,6 +13787,11 @@ organizations:
       from: 2009
       to: 2012
       note: Min. Education 2009-12, Min. Development 2012
+    - person: kostas-karras
+      role: legislator
+      from: 2000
+      to: 2007
+      note: MP New Democracy
   governo-india:
     name: Repubblica dell'India
     type: government
@@ -13076,6 +13918,21 @@ organizations:
       from: 1981
       to: 1984
       note: Attorney General (più giovane nella storia)
+    - person: mary-robinson
+      role: leader
+      from: 1990
+      to: 1997
+      note: President of Ireland (prima donna)
+    - person: dermot-gleeson
+      role: minister
+      from: 1994
+      to: 1997
+      note: Attorney General
+    - person: paschal-donohoe
+      role: minister
+      from: 2014
+      to: 2025
+      note: Transport 2014-16; Public Expenditure 2016-17, 2022-24; Finance 2017-22, Jan-Nov 2025
   governo-israele:
     type: government
     headquarters: Jerusalem, Israel
@@ -13196,6 +14053,11 @@ organizations:
       from: 2013
       to: 2022
       note: Giudice e Presidente Corte Costituzionale
+    - person: umberto-agnelli
+      role: legislator
+      from: 1976
+      to: 1979
+      note: Senatore DC
     - person: junio-valerio-borghese
       role: military
       from: 1929
@@ -13653,6 +14515,11 @@ organizations:
       from: 2010
       to: 2024
       note: Prime Minister - longest serving in Dutch history
+    - person: wim-duisenberg
+      role: minister
+      from: 1973
+      to: 1977
+      note: Ministro delle Finanze (più giovane mai)
     - person: willem-alexander
       role: leader
       from: 2013
@@ -13721,6 +14588,11 @@ organizations:
     headquarters: Warsaw, Poland
     status: active
     stakeholders:
+    - person: jerzy-buzek
+      role: leader
+      from: 1997
+      to: 2001
+      note: Prime Minister
     - person: radoslaw-sikorski
       role: minister
       from: 2023
@@ -13730,9 +14602,9 @@ organizations:
       from: 2023
       note: Prime Minister (terzo mandato)
   governo-portogallo:
-    name: Governo Portogallo
+    name: Governo del Portogallo
     type: government
-    headquarters: Lisbona
+    headquarters: Lisbon, Portugal
     status: active
     stakeholders:
     - person: jose-barroso
@@ -13744,11 +14616,26 @@ organizations:
       role: leader
       from: 2002
       to: 2004
+    - person: antonio-costa
+      role: leader
+      from: 2015
+      to: 2024
+      note: Primo Ministro
     - person: francisco-balsemao
       role: leader
       from: 1981
       to: 1983
       note: Primeiro-Ministro
+    - person: jose-manuel-barroso
+      role: leader
+      from: 2002
+      to: 2004
+      note: Primo Ministro
+    - person: jose-manuel-barroso
+      role: minister
+      from: 1992
+      to: 1995
+      note: Ministro degli Esteri
   governo-qatar:
     name: Governo del Qatar
     type: government
@@ -14120,6 +15007,16 @@ organizations:
       role: leader
       from: 2004
       to: 2011
+    - person: josep-borrell
+      role: minister
+      from: 1991
+      to: 1996
+      note: Min. Lavori Pubblici e Trasporti
+    - person: josep-borrell
+      role: minister
+      from: 2018
+      to: 2019
+      note: Min. Affari Esteri
     - person: nadia-calvino
       role: minister
       from: 2018
@@ -14134,6 +15031,11 @@ organizations:
       role: leader
       from: 2014
       note: King of Spain
+    - person: felipe-gonzalez
+      role: leader
+      from: 1982
+      to: 1996
+      note: Presidente del Gobierno
   governo-svezia:
     name: Governo Svezia
     type: government
@@ -14294,6 +15196,11 @@ organizations:
       role: minister
       from: 1967
       to: 1970
+    - person: roy-jenkins
+      role: minister
+      from: 1965
+      to: 1967
+      note: Home Secretary
     - person: eric-roll
       role: executive
       from: 1941
@@ -14561,6 +15468,11 @@ organizations:
       from: 1955
       to: 1987
       note: MP Torquay 1955-74, Torbay 1974-87; PPS various ministers; Privy Counsellor 1985
+    - person: terkel-terkelsen
+      role: advisor
+      from: 1941
+      to: 1945
+      note: Head of Danish section, Political Intelligence Department
   governo-ungheria:
     name: Governo di Ungheria
     type: government
@@ -14932,6 +15844,9 @@ organizations:
     - person: klaas-knot
       role: member
       note: G30 member
+    - person: mark-carney
+      role: chairman
+      note: Chair
     - person: raghuram-rajan
       role: chairman
       from: 2021
@@ -15233,6 +16148,17 @@ organizations:
       role: client
       from: 1995
       note: Major client; Holmes president Hakluyt Foundation
+  haldor-topsoe:
+    name: Haldor Topsoe
+    type: company
+    founded: 1940
+    headquarters: Lyngby, Denmark
+    status: active
+    sector: chemicals
+    stakeholders:
+    - person: ulrik-federspiel
+      role: executive
+      note: Group Executive, Senior Advisor
   halkbank:
     name: Turkiye Halk Bankasi
     type: bank
@@ -15242,6 +16168,23 @@ organizations:
     - org: turkiye-wealth-fund
       role: controlling
       share: 75%
+  hanken:
+    name: Hanken School of Economics
+    type: thinktank
+    headquarters: Helsinki, Finland
+    status: active
+    stakeholders:
+    - person: bjorn-wahlroos
+      role: chairman
+      from: 2009
+      to: 2018
+      note: Professor 1979-85, Chairman Board 2009-18
+    - person: kari-stadigh
+      role: alumnus
+      from: 1980
+    - person: henrik-ehrnrooth
+      role: alumnus
+      from: 1981
   hannover-re:
     name: Hannover Rück SE
     type: company
@@ -16342,6 +17285,13 @@ organizations:
       from: 1963
       to: 1987
       note: Council member 1963-76, 1978-87
+    - person: toger-seidenfaden
+      role: member
+    - person: erik-seidenfaden
+      role: board
+      from: 1965
+      to: 1975
+      note: Council member
   il-gazzettino:
     name: Il Gazzettino
     type: media
@@ -16456,6 +17406,11 @@ organizations:
     headquarters: Washington DC, USA
     status: active
     stakeholders:
+    - person: wim-duisenberg
+      role: advisor
+      from: 1966
+      to: 1969
+      note: Financial analyst
     - person: axel-weber
       role: board
       from: 2004
@@ -16548,6 +17503,21 @@ organizations:
     - person: philippe-de-spoelberch
       role: board
       note: Administrator
+  independent-news-media:
+    name: Independent News & Media
+    type: media
+    founded: 1973
+    headquarters: Dublin, Ireland
+    status: acquired
+    stakeholders:
+    - person: denis-obrien
+      role: board
+      to: 2019
+      note: Major shareholder fino vendita 2019
+    - person: dermot-gleeson
+      role: board
+      from: 2000
+      note: Non-executive director
   inditex:
     name: Inditex
     type: company
@@ -16946,6 +17916,10 @@ organizations:
       from: 1986
       to: 1988
       note: President
+    - person: terkel-terkelsen
+      role: chairman
+      to: 1972
+      note: Chairman, Danish branch
   international-rescue-committee:
     name: International Rescue Committee
     type: foundation
@@ -17327,6 +18301,17 @@ organizations:
     stakeholders:
     - person: park-yu-hyun
       role: founder
+  j-rothschild-capital-management:
+    name: J. Rothschild Capital Management
+    type: assetmanager
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: andrew-knight
+      role: chairman
+      from: 2008
+      to: 2010
+      note: Chairman
   jacques-delors-institute:
     type: thinktank
     founded: 1996
@@ -17914,6 +18899,11 @@ organizations:
     founded: 1940
     headquarters: Helsinki, Finland
     sector: Retail
+    stakeholders:
+    - org: blackrock
+      share: 4.0%
+    - org: vanguard
+      share: 2.0%
   keyence:
     name: Keyence Corporation
     type: company
@@ -17996,6 +18986,17 @@ organizations:
       share: 5.0%
     - org: vanguard
       share: 4.5%
+  kinnevik:
+    type: company
+    founded: 1936
+    headquarters: Stockholm, Sweden
+    status: active
+    sector: investment
+    stakeholders:
+    - person: pehr-gyllenhammar
+      role: chairman
+      from: 2004
+      to: 2007
   kissinger-associates:
     name: Kissinger Associates
     type: company
@@ -18042,6 +19043,10 @@ organizations:
       from: 1999
       to: 2008
       note: Kissinger McLarty Associates
+    - person: pehr-gyllenhammar
+      role: board
+      from: 1982
+      to: 1997
     - person: renato-ruggiero
       role: board
       note: Board member
@@ -18141,15 +19146,32 @@ organizations:
     headquarters: Espoo, Finland
     sector: Elevators/Escalators
     stakeholders:
+    - person: matti-alahuhta
+      role: executive
+      from: 2005
+      to: 2014
+      note: President & CEO
+    - person: henrik-ehrnrooth
+      role: executive
+      from: 2014
+      to: 2024
+      note: President & CEO
     - org: blackrock
       share: 5.6%
       note: Famiglia Herlin controlla 62.7% voti
+    - org: vanguard
+      share: 2.5%
   konecranes:
     name: Konecranes
     type: company
     founded: 1910
     headquarters: Hyvinkää, Finland
     sector: Cranes/Lifting
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 2.0%
   kongsberg-gruppen:
     name: Kongsberg Gruppen ASA
     type: company
@@ -18180,6 +19202,19 @@ organizations:
     - person: anand-mahindra
       role: founder
       note: Co-promoter
+  kpmg:
+    name: KPMG
+    type: company
+    founded: 1987
+    headquarters: Amstelveen, Netherlands
+    status: active
+    sector: consulting
+    stakeholders:
+    - person: michael-oleary
+      role: member
+      from: 1982
+      to: 1985
+      note: Trainee accountant (Stokes Kennedy Crowley, poi KPMG)
   kpn:
     name: Koninklijke KPN N.V.
     type: company
@@ -18312,6 +19347,10 @@ organizations:
     status: active
     sector: newspaper
     stakeholders:
+    - person: carlo-de-benedetti
+      role: chairman
+      from: 1976
+      note: Proprietario via CIR
     - org: gedi
       share: 100%
   la-stampa:
@@ -18434,6 +19473,11 @@ organizations:
       role: advisor
       from: 2020
       note: Senior Advisor, Chairman Canada
+    - person: pehr-gyllenhammar
+      role: advisor
+      from: 1996
+      to: 2003
+      note: Senior Advisor, Managing Director NYC
     - person: henrique-meirelles
       role: chairman
       from: 2012
@@ -19280,6 +20324,18 @@ organizations:
     - org: jardine-matheson
       role: parent
       share: 0.87
+  mandatum:
+    name: Mandatum
+    type: bank
+    headquarters: Helsinki, Finland
+    status: active
+    sector: investment banking
+    stakeholders:
+    - person: bjorn-wahlroos
+      role: founder
+      from: 1988
+      to: 2000
+      note: Co-founder, merged into Sampo 2000
   mapai:
     type: company
     founded: 1930
@@ -19783,7 +20839,8 @@ organizations:
       from: 2004
     - person: nick-clegg
       role: executive
-      from: 2022
+      from: 2018
+      note: VP Global Affairs 2018-22, President Global Affairs 2022-
     - person: helle-thorning-schmidt
       role: board
     - person: frances-haugen
@@ -19839,6 +20896,9 @@ organizations:
     founded: 1999
     headquarters: Helsinki, Finland
     sector: Mining Equipment
+    stakeholders:
+    - org: blackrock
+      share: 4.9%
   mgx:
     name: MGX Fund Management
     type: swf
@@ -20683,6 +21743,11 @@ organizations:
       from: 2014
       to: 2024
       note: 13th Secretary General - 10 years, 4 extensions
+    - person: paul-henri-spaak
+      role: executive
+      from: 1957
+      to: 1961
+      note: Segretario Generale
     - person: jeroen-van-der-veer
       role: advisor
       from: 2009
@@ -20727,6 +21792,14 @@ organizations:
       from: 1971
       to: 1984
       note: Secretary General
+    - person: ole-bjorn-kraft
+      role: member
+      note: Danish delegate, advocate for NATO membership
+    - person: anders-fogh-rasmussen
+      role: executive
+      from: 2009
+      to: 2014
+      note: Secretary General
     - org: atlantic-council
       role: advocacy
       note: Think tank pro-NATO, fondato per supporto Alleanza Atlantica
@@ -20746,6 +21819,11 @@ organizations:
     headquarters: Madrid, Spain
     sector: utilities
     stakeholders:
+    - person: felipe-gonzalez
+      role: board
+      from: 2010
+      to: 2015
+      note: Independent Director
     - org: blackrock
       share: 12.6
   natwest:
@@ -20851,7 +21929,7 @@ organizations:
     sector: Oil/Renewables
     stakeholders:
     - org: blackrock
-      share: 5.0%
+      share: 5.3%
       note: Stato finlandese 44%
     - org: vanguard
       share: 2.3%
@@ -21039,6 +22117,11 @@ organizations:
       role: board
       from: 2013
       note: Independent Non-Executive Director
+    - person: andrew-knight
+      role: chairman
+      from: 1990
+      to: 1994
+      note: Chairman News International
   news-corporation:
     name: News Corporation
     type: media
@@ -21052,6 +22135,11 @@ organizations:
       role: board
       from: 2006
       note: 4m-cumulative-salary
+    - person: andrew-knight
+      role: board
+      from: 1991
+      to: 2012
+      note: Director
   news-uk:
     name: News UK (Times, Sun)
     type: media
@@ -21244,11 +22332,12 @@ organizations:
       role: board
       note: Membro del board
   nokia:
-    name: Nokia
+    name: Nokia Corporation
     type: company
+    founded: 1865
     headquarters: Espoo, Finland
     status: active
-    sector: tech
+    sector: telecom
     stakeholders:
     - person: helge-lund
       role: board
@@ -21259,6 +22348,46 @@ organizations:
       from: 2020
       to: 2023
       note: CEO Nokia Italia e Malta
+    - person: jorma-ollila
+      role: executive
+      from: 1992
+      to: 2006
+      note: CEO
+    - person: jorma-ollila
+      role: chairman
+      from: 1999
+      to: 2012
+    - person: risto-siilasmaa
+      role: chairman
+      from: 2012
+      to: 2020
+    - person: stephen-elop
+      role: executive
+      from: 2010
+      to: 2014
+      note: CEO, primo non-finlandese
+    - person: pekka-lundmark
+      role: executive
+      from: 2020
+      to: 2025
+      note: CEO
+    - person: sari-baldauf
+      role: chairman
+      from: 2020
+    - person: matti-alahuhta
+      role: executive
+      from: 1978
+      to: 2004
+      note: Executive Board 1993-2004
+    - person: kari-stadigh
+      role: board
+      from: 2020
+      to: 2022
+      note: Vice Chairman
+    - person: casimir-ehrnrooth
+      role: chairman
+      from: 1992
+      to: 1999
     - org: blackrock
       share: 6.4%
     - org: vanguard
@@ -21299,6 +22428,17 @@ organizations:
     founded: 2001
     headquarters: Helsinki, Finland
     stakeholders:
+    - person: bjorn-wahlroos
+      role: chairman
+      from: 2011
+      to: 2019
+    - person: elina-valtonen
+      role: executive
+      to: 2014
+      note: Senior Analyst
+    - person: casimir-ehrnrooth
+      role: board
+      note: Union Bank board
     - org: blackrock
       share: 5.4%
       note: 184.8M shares
@@ -21375,12 +22515,16 @@ organizations:
     - org: vanguard
       share: 2.0%
   notre-europe:
-    name: Notre Europe
+    name: Notre Europe - Institut Jacques Delors
     type: thinktank
     founded: 1996
     headquarters: Paris, France
     status: active
     stakeholders:
+    - person: jacques-delors
+      role: founder
+      from: 1996
+      note: Fondatore e Presidente
     - person: tommaso-padoa-schioppa
       role: chairman
       from: 2005
@@ -21835,6 +22979,11 @@ organizations:
     status: inactive
     sector: technology
     stakeholders:
+    - person: carlo-de-benedetti
+      role: chairman
+      from: 1978
+      to: 1996
+      note: CEO/Presidente
     - person: corrado-passera
       role: executive
       from: 1990
@@ -21988,6 +23137,16 @@ organizations:
     - person: jens-stoltenberg
       role: advisor
       note: UN Special Envoy on Climate Change
+    - person: paul-henri-spaak
+      role: chairman
+      from: 1946
+      to: 1946
+      note: Presidente 1a Assemblea Generale
+    - person: mark-carney
+      role: advisor
+      from: 2019
+      to: 2025
+      note: UN Special Envoy Climate Action and Finance; Co-Chair GFANZ
     - person: jemilah-mahmood
       role: executive
       from: 2014
@@ -21998,6 +23157,19 @@ organizations:
       from: 2018
       to: 2021
       note: Permanent Representative Italy to UN New York
+    - person: mary-robinson
+      role: executive
+      from: 1997
+      to: 2002
+      note: UN High Commissioner for Human Rights
+    - person: jaakko-iloniemi
+      role: executive
+      from: 1971
+      to: 1972
+      note: Deputy Permanent Representative
+    - person: martti-ahtisaari
+      role: executive
+      note: UN Representative Namibia
     - org: wef
       role: partner
   opap:
@@ -22294,6 +23466,11 @@ organizations:
     founded: 1917
     headquarters: Espoo, Finland
     sector: Pharmaceuticals
+    stakeholders:
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 1.5%
   orkla:
     name: Orkla ASA
     type: company
@@ -22311,6 +23488,11 @@ organizations:
     headquarters: Fredericia, Denmark
     sector: Energy
     stakeholders:
+    - person: anders-eldrup
+      role: executive
+      from: 2001
+      to: 2012
+      note: CEO DONG/DONG Energy
     - org: blackrock
       share: 3.0%
   ort:
@@ -22398,6 +23580,18 @@ organizations:
       from: 1956
       to: 2000
       note: Chairman German East-West Trade Committee
+  otava:
+    name: Otava Books and Magazines Group
+    type: media
+    headquarters: Helsinki, Finland
+    status: active
+    stakeholders:
+    - person: jorma-ollila
+      role: board
+      from: 1996
+      note: Vice Chairman
+    - person: henrik-ehrnrooth
+      role: chairman
   ote-group:
     name: OTE Group
     type: company
@@ -22431,6 +23625,19 @@ organizations:
       from: 1966
       to: 1990
       note: Chairman board management 1966-1986; Chairman supervisory board 1986-1990
+  outokumpu:
+    name: Outokumpu Oyj
+    type: company
+    headquarters: Helsinki, Finland
+    status: active
+    sector: steel
+    stakeholders:
+    - person: jorma-ollila
+      role: chairman
+      from: 2013
+      to: 2018
+    - org: blackrock
+      share: 3.0%
   ovascience:
     name: OvaScience
     stakeholders:
@@ -22597,49 +23804,6 @@ organizations:
     stakeholders:
     - person: ida-auken
       role: member
-  parlamento-europeo:
-    name: Parlamento Europeo
-    type: agency
-    headquarters: Strasbourg/Brussels
-    status: active
-    stakeholders:
-    - person: gaston-thorn
-      role: member
-      from: 1959
-      to: 1969
-    - person: jacques-santer
-      role: member
-      from: 1999
-      to: 2004
-      note: MEP post-Commissione
-    - person: jacques-santer
-      role: executive
-      from: 1975
-      to: 1979
-      note: Vice-Presidente PE 1975-77, MEP fino 1979
-    - person: eva-maydell
-      role: member
-      from: 2014
-      note: MEP Bulgaria
-    - person: friedrich-merz
-      role: member
-      from: 1989
-      to: 1994
-    - person: altiero-spinelli
-      role: member
-      from: 1979
-      to: 1986
-      note: Eurodeputato; autore Progetto Trattato UE 1984
-    - person: renate-weber
-      role: legislator
-      from: 2007
-      to: 2019
-      note: MEP (PNL/ALDE)
-    - person: lilli-gruber
-      role: member
-      from: 2004
-      to: 2008
-      note: MEP Ulivo, Gruppo Socialista
   parlamento-turchia:
     name: Parliament of Turkey
     stakeholders:
@@ -22773,6 +23937,16 @@ organizations:
     type: company
     headquarters: Purchase, NY, USA
     status: active
+  perella-weinberg:
+    name: Perella Weinberg Partners
+    type: bank
+    headquarters: New York, USA
+    status: active
+    sector: investment banking
+    stakeholders:
+    - person: jorma-ollila
+      role: advisor
+      note: Advisory Partner
   permata-bank:
     name: PT Bank Permata Tbk
     type: bank
@@ -22816,6 +23990,18 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  pes:
+    name: Party of European Socialists
+    type: forum
+    founded: 1992
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: poul-nyrup-rasmussen
+      role: leader
+      from: 2004
+      to: 2011
+      note: President
   petrobras:
     name: Petrobras
     type: company
@@ -22944,6 +24130,11 @@ organizations:
       from: 2011
       to: 2022
       note: CEO
+    - person: wisse-dekker
+      role: chairman
+      from: 1982
+      to: 1986
+      note: CEO/President
     - org: blackrock
       share: 5.5
     - org: exor
@@ -22985,6 +24176,9 @@ organizations:
     headquarters: Newport Beach, USA
     status: active
     stakeholders:
+    - person: mark-carney
+      role: advisor
+      note: Global Advisory Board
     - person: raghuram-rajan
       role: advisor
       from: 2025
@@ -23149,6 +24343,18 @@ organizations:
     - org: axel-springer
       share: 100%
       from: 2021
+  politiken:
+    name: Politiken
+    type: media
+    founded: 1884
+    headquarters: Copenhagen, Denmark
+    status: active
+    stakeholders:
+    - person: toger-seidenfaden
+      role: executive
+      from: 1993
+      to: 2011
+      note: Editor-in-Chief
   porsche-ag:
     name: Porsche AG
     type: company
@@ -23328,6 +24534,10 @@ organizations:
     headquarters: Madrid, Spain
     status: active
     stakeholders:
+    - person: felipe-gonzalez
+      role: advisor
+      to: 2021
+      note: Editorial Council
     - person: juan-luis-cebrian
       role: founder
       from: 1972
@@ -23342,6 +24552,18 @@ organizations:
       from: 2012
       to: 2017
       note: Executive Chairman
+  procter-gamble:
+    name: Procter & Gamble
+    type: company
+    founded: 1837
+    headquarters: Cincinnati, USA
+    status: active
+    stakeholders:
+    - person: paschal-donohoe
+      role: executive
+      from: 1997
+      to: 2003
+      note: Sales and Marketing Director (UK)
   prosus:
     name: Prosus N.V.
     type: company
@@ -23680,6 +24902,11 @@ organizations:
       from: 1987
       to: 2004
       note: Anchor TG1, inviata di guerra
+    - person: david-sassoli
+      role: executive
+      from: 1992
+      to: 2009
+      note: Giornalista TG1, Deputy Director
   raiffeisen-bank-international:
     name: Raiffeisen Bank International AG
     type: bank
@@ -24229,6 +25456,12 @@ organizations:
     founded: 1851
     headquarters: Londra
     status: active
+    stakeholders:
+    - person: pehr-gyllenhammar
+      role: chairman
+      from: 1984
+      to: 2012
+      note: Board 1984-1997, Reuters Founders Share Co Chairman 1997-2012
   revista-22:
     name: Revista 22
     type: media
@@ -24357,6 +25590,18 @@ organizations:
       share: 99.7
       from: 2015
       note: Full ownership
+  rit-capital-partners:
+    name: RIT Capital Partners
+    type: assetmanager
+    founded: 1961
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: andrew-knight
+      role: board
+      from: 1997
+      to: 2008
+      note: Director
   rjr-nabisco:
     name: RJR Nabisco
     type: company
@@ -24482,6 +25727,16 @@ organizations:
       role: executive
       from: 2016
       note: President
+  rockwool-foundation:
+    name: Rockwool Foundation
+    type: foundation
+    founded: 1981
+    headquarters: Copenhagen, Denmark
+    status: active
+    stakeholders:
+    - person: anders-eldrup
+      role: board
+      note: Board member
   rolls-royce:
     name: Rolls-Royce Holdings plc
     type: company
@@ -24609,6 +25864,17 @@ organizations:
     stakeholders:
     - org: governo-russia
       share: 100%
+  rothschild:
+    type: bank
+    founded: 1811
+    headquarters: London, UK / Paris, France
+    status: active
+    stakeholders:
+    - person: pehr-gyllenhammar
+      role: executive
+      from: 2003
+      to: 2013
+      note: Vice Chairman Europe
   rothschild-cie:
     name: Rothschild & Cie Banque
     type: bank
@@ -24885,6 +26151,10 @@ organizations:
     headquarters: Dublin, Ireland
     sector: Aviation
     stakeholders:
+    - person: michael-oleary
+      role: executive
+      from: 1988
+      note: CFO 1988-94; CEO 1994-2019; Group CEO 2019-
     - org: blackrock
       share: 3.5%
     - org: vanguard
@@ -25038,9 +26308,25 @@ organizations:
     headquarters: Helsinki, Finland
     sector: Insurance
     stakeholders:
+    - person: bjorn-wahlroos
+      role: executive
+      from: 2000
+      to: 2009
+      note: CEO
+    - person: bjorn-wahlroos
+      role: chairman
+      from: 2009
+      to: 2023
+    - person: kari-stadigh
+      role: executive
+      from: 2009
+      to: 2019
+      note: CEO
     - org: blackrock
       share: 7.0%
       note: dato luglio 2025
+    - org: vanguard
+      share: 3.0%
   samsung:
     name: Samsung Group
     type: company
@@ -25762,6 +27048,10 @@ organizations:
     - person: selahattin-beyazit
       role: executive
       note: Turkey representative
+    - person: jorma-ollila
+      role: chairman
+      from: 2006
+      to: 2015
     - org: blackrock
       share: 4.4%
     - org: vanguard
@@ -26085,6 +27375,8 @@ organizations:
       role: executive
       from: 2020
       to: 2023
+    - person: jorma-ollila
+      role: board
   sixth-street-partners:
     name: Sixth Street Partners
     type: privateequity
@@ -26310,6 +27602,15 @@ organizations:
       from: 2006
       to: 2022
       note: President
+    - person: felipe-gonzalez
+      role: board
+      from: 1978
+      to: 1999
+      note: Vice-President
+    - person: martin-schulz
+      role: executive
+      from: 2004
+      note: Vice-President
   societe-generale:
     name: Société Générale
     type: bank
@@ -26827,6 +28128,18 @@ organizations:
       share: 7.2%
       from: 2021
       note: Via Peugeot 1810 subsidiary (76.5% PI, 23.5% EPF)
+  stk:
+    name: Suomen Tyonantajain Keskusliitto (STK)
+    type: forum
+    headquarters: Helsinki, Finland
+    status: defunct
+    note: Merged into EK 2004
+    stakeholders:
+    - person: johan-nykopp
+      role: executive
+      from: 1958
+      to: 1962
+      note: CEO
   stmicroelectronics:
     name: STMicroelectronics
     type: company
@@ -26913,6 +28226,16 @@ organizations:
     type: company
     headquarters: Basel, Switzerland
     sector: dental
+  stripe:
+    name: Stripe
+    type: company
+    founded: 2010
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: mark-carney
+      role: board
+      note: External Board Member
   stroygazmontazh:
     name: Stroygazmontazh (SGM Group)
     type: company
@@ -27137,6 +28460,18 @@ organizations:
       from: 2005
       to: 2022
       note: Fondatore e proprietario. 30% RTL Nederland post-merger
+  tampella:
+    name: Oy Tampella Ab
+    type: company
+    headquarters: Tampere, Finland
+    status: defunct
+    sector: industrial
+    stakeholders:
+    - person: johan-nykopp
+      role: executive
+      from: 1962
+      to: 1972
+      note: Managing Director
   tap:
     name: Trans Adriatic Pipeline
     type: company
@@ -27420,7 +28755,7 @@ organizations:
     headquarters: São Paulo, Brazil
     sector: Telecom
   telegraph-group:
-    name: Telegraph Media Group
+    name: Telegraph Group
     type: media
     founded: 1855
     headquarters: London, UK
@@ -27444,6 +28779,11 @@ organizations:
       from: 2004
       to: 2021
       note: Via Press Holdings, died 2021
+    - person: andrew-knight
+      role: executive
+      from: 1986
+      to: 1989
+      note: Chief Executive and Editor-in-Chief
     - org: hollinger
       role: owner
       from: 1986
@@ -27906,6 +29246,11 @@ organizations:
       from: 1987
       to: 2015
       note: Editor-in-Chief 2006-2015, US Editor, Business Editor
+    - person: andrew-knight
+      role: executive
+      from: 1974
+      to: 1986
+      note: Editor
     - org: exor
       share: 43.4
       from: 2015
@@ -27917,11 +29262,15 @@ organizations:
     name: The Elders
     type: forum
     founded: 2007
-    headquarters: Londra
+    headquarters: London, UK
     status: active
     stakeholders:
     - person: gro-harlem-brundtland
       role: chairman
+    - person: mary-robinson
+      role: chairman
+      from: 2018
+      note: Chair; membro dal 2007
   the-guardian:
     name: The Guardian
     type: media
@@ -28023,13 +29372,19 @@ organizations:
       role: shareholder
       from: 2025
   times-newspapers:
+    name: Times Newspapers
     type: media
+    founded: 1967
     headquarters: London, UK
     status: active
     stakeholders:
     - person: john-scarlett
       role: board
       from: 2011
+    - person: andrew-knight
+      role: chairman
+      from: 2012
+      note: Chairman
   titan-cement:
     name: Titan Cement Group
     type: company
@@ -28333,6 +29688,10 @@ organizations:
     - person: anna-diamantopoulou
       role: member
       note: European Group
+    - person: jean-claude-trichet
+      role: chairman
+      from: 2012
+      note: European Chairman
     - person: oliver-baete
       role: member
       note: Trilateral Commission European Group
@@ -28433,6 +29792,15 @@ organizations:
       role: member
       from: 1974
       to: 1993
+    - person: olli-rehn
+      role: member
+    - person: toger-seidenfaden
+      role: board
+      note: Executive Committee member
+    - person: erik-seidenfaden
+      role: member
+      from: 1976
+      note: Member
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -28726,6 +30094,18 @@ organizations:
     stakeholders:
     - org: grupo-globo
       share: 100%
+  tv2-denmark:
+    name: TV 2 Danmark
+    type: media
+    founded: 1988
+    headquarters: Odense, Denmark
+    status: active
+    stakeholders:
+    - person: merete-eldrup
+      role: executive
+      from: 2007
+      to: 2019
+      note: CEO
   two-sigma:
     name: Two Sigma Investments
     type: company
@@ -29137,18 +30517,12 @@ organizations:
     - person: konrad-adenauer
       role: founder
       note: Cancelliere Germania Ovest, padre fondatore
-    - org: bce
-      role: institution
-      note: Banca centrale zona euro
     - org: eurogroup
       role: institution
       note: Ministri Finanze zona euro
     - org: commissione-ue
       role: institution
       note: Esecutivo UE
-    - org: parlamento-europeo
-      role: institution
-      note: Legislativo UE
   unipol:
     name: Unipol Gruppo S.p.A.
     type: company
@@ -29232,6 +30606,17 @@ organizations:
       role: member
       from: 2015
       note: Honorary Professor
+  university-college-cork:
+    name: University College Cork
+    type: foundation
+    founded: 1845
+    headquarters: Cork, Ireland
+    status: active
+    stakeholders:
+    - person: dermot-gleeson
+      role: chairman
+      from: 2007
+      note: Chairman Governing Body
   university-of-chicago:
     name: University of Chicago
     stakeholders:
@@ -29269,6 +30654,18 @@ organizations:
     founded: 1996
     headquarters: Helsinki, Finland
     sector: Forest/Paper
+    stakeholders:
+    - person: bjorn-wahlroos
+      role: chairman
+      from: 2008
+      to: 2023
+    - person: casimir-ehrnrooth
+      role: executive
+      note: CEO Kaukas paper factory
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 3.0%
   us-air-force:
     name: United States Air Force
     type: government
@@ -29779,6 +31176,17 @@ organizations:
       role: blocking-minority
       share: 11.8% equity, 20% voting
       note: Volkswagen Law 1960
+  volvo:
+    type: automaker
+    founded: 1927
+    headquarters: Gothenburg, Sweden
+    status: active
+    stakeholders:
+    - person: pehr-gyllenhammar
+      role: chairman
+      from: 1971
+      to: 1993
+      note: CEO 1971-1990, Chairman 1990-1993
   volvo-cars:
     name: Volvo Cars
     type: automaker
@@ -29981,6 +31389,8 @@ organizations:
     - org: blackrock
       share: 5.2%
       note: Investor AB (Wallenberg) 18% primo azionista
+    - org: vanguard
+      share: 2.5%
   washington-post:
     name: The Washington Post
     type: media
@@ -30139,9 +31549,13 @@ organizations:
     - person: federica-mogherini
       role: ygl
       note: Agenda Contributor
+    - person: nick-clegg
+      role: member
+      note: Regular Davos speaker
     - person: alexander-stubb
       role: ygl
       from: 2009
+      note: Young Global Leader 2009
     - person: alexander-schallenberg
       role: member
     - person: charles-iii
@@ -30380,6 +31794,9 @@ organizations:
       role: member
       from: 2017
       note: Co-Chair Davos 2017, PACE Co-Chair
+    - person: mark-carney
+      role: board
+      note: Foundation Board
     - person: frans-timmermans
       role: member
       note: Speaker Davos (2017, 2020+)
@@ -30450,6 +31867,8 @@ organizations:
     - person: paolo-magri
       role: member
       note: Europe Policy Group
+    - person: antonio-tajani
+      role: member
     - person: donald-tusk
       role: member
       note: Davos participant
@@ -30551,7 +31970,7 @@ organizations:
       from: 2024
     - person: annika-saarikko
       role: ygl
-    - person: crown-prince-frederik
+    - person: frederik-x
       role: ygl
     - person: mette-frederiksen
       role: ygl
@@ -31238,6 +32657,23 @@ organizations:
     - person: arda-ermut
       role: member
       note: Agenda Contributor
+    - person: jorma-ollila
+      role: member
+      note: Agenda Contributor
+    - person: toger-seidenfaden
+      role: member
+      note: Annual Meeting 2004
+    - person: lars-lokke-rasmussen
+      role: member
+      note: Forum participant
+    - person: paschal-donohoe
+      role: member
+      note: Partecipante Davos 2024
+    - person: charles-michel
+      role: member
+    - person: martin-schulz
+      role: member
+      note: Agenda Contributor
     - org: bilderberg
       role: partner
     - org: fmi
@@ -31470,6 +32906,10 @@ organizations:
       from: 1977
       to: 2001
       note: VP Poverty Reduction, VP MENA
+    - person: paschal-donohoe
+      role: executive
+      from: 2025
+      note: Managing Director and Chief Knowledge Officer
   world-jewish-congress:
     name: World Jewish Congress
     type: forum
@@ -31747,6 +33187,16 @@ organizations:
     - org: redbird-capital
       role: investor
       note: Yankees, Amazon partnership
+  yle:
+    name: Yleisradio (YLE)
+    type: media
+    headquarters: Helsinki, Finland
+    status: active
+    note: Finnish Broadcasting Company
+    stakeholders:
+    - person: matti-apunen
+      role: chairman
+      from: 2021
   yomiuri-shimbun:
     name: Yomiuri Shimbun Holdings
     type: media
