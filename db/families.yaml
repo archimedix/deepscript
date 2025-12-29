@@ -1,4 +1,29 @@
 families:
+  adani-family:
+    origin: IND
+    founder: gautam-adani
+    sector: infrastructure, energy, ports, airports
+    generations: 3
+    status: active
+    members:
+    - person: gautam-adani
+      generation: 2
+      role: patriarch
+    - person: priti-adani
+      generation: 2
+      role: spouse
+    - person: karan-adani
+      generation: 3
+    - person: jeet-adani
+      generation: 3
+    - person: vinod-adani
+      generation: 2
+    - person: rajesh-adani
+      generation: 2
+    - person: pranav-adani
+      generation: 3
+    - person: sagar-adani
+      generation: 3
   agnelli-elkann:
     origin: Italia
     founder: Giovanni Agnelli Sr.
@@ -46,6 +71,30 @@ families:
     - person: abdullah-bin-zayed
       generation: 2
       role: member
+  ambani-family:
+    origin: IND
+    founder: dhirubhai-ambani
+    sector: oil, telecom, media, retail
+    generations: 3
+    status: active
+    members:
+    - person: mukesh-ambani
+      generation: 2
+      role: patriarch
+    - person: dhirubhai-ambani
+      generation: 1
+      role: founder
+    - person: anil-ambani
+      generation: 2
+    - person: nita-ambani
+      generation: 2
+      role: spouse
+    - person: akash-ambani
+      generation: 3
+    - person: isha-ambani
+      generation: 3
+    - person: anant-ambani
+      generation: 3
   arnault:
     origin: France
     founder: bernard-arnault
@@ -71,6 +120,18 @@ families:
     - person: jean-arnault
       generation: 2
       role: heir
+  aso-yoshida:
+    origin: JPN
+    sector: politics, mining, cement
+    status: active
+    note: 'Dinastia politico-industriale: 2 PM (Yoshida, Aso), connessione imperiale'
+    members:
+    - person: taro-aso
+      generation: 4
+      role: member
+    - person: shigeru-yoshida
+      generation: 2
+      role: patriarch
   azcarraga:
     origin: Mexico
     founder: emilio-azcarraga-vidaurreta
@@ -130,6 +191,25 @@ families:
     - person: nicolas-meyers
       generation: 4
       role: heir
+  birla:
+    origin: IND
+    founder: shiv-narayana-birla
+    sector: industry
+    generations: 6
+    status: active
+    members:
+    - person: gd-birla
+      generation: 2
+      role: patriarch
+    - person: aditya-vikram-birla
+      generation: 3
+    - person: kumar-mangalam-birla
+      generation: 4
+      role: patriarch
+    - person: ananya-birla
+      generation: 5
+    - person: aryaman-birla
+      generation: 5
   boel:
     origin: Belgium
     founder: gustave-boel
@@ -334,6 +414,22 @@ families:
     - person: leonardo-del-vecchio
       generation: 1
       role: founder
+  desmarais:
+    origin: CAN
+    founder: paul-desmarais-sr
+    sector: finance-media
+    generations: 3
+    status: active
+    members:
+    - person: paul-desmarais-sr
+      generation: 1
+      role: founder
+    - person: paul-desmarais-jr
+      generation: 2
+      role: heir
+    - person: andre-desmarais
+      generation: 2
+      role: heir
   dupont:
     origin: Francia/USA
     founder: E.I. du Pont
@@ -429,6 +525,32 @@ families:
     - person: nayla-hayek
       generation: 2
     - person: marc-hayek
+      generation: 3
+  hinduja:
+    origin: IND
+    founder: parmanand-hinduja
+    sector: conglomerate
+    generations: 3
+    status: active
+    members:
+    - person: parmanand-hinduja
+      generation: 1
+      role: founder
+    - person: srichand-hinduja
+      generation: 2
+    - person: gopichand-hinduja
+      generation: 2
+    - person: prakash-hinduja
+      generation: 2
+    - person: ashok-hinduja
+      generation: 2
+    - person: sanjay-hinduja
+      generation: 3
+    - person: dheeraj-hinduja
+      generation: 3
+    - person: ajay-hinduja
+      generation: 3
+    - person: shom-hinduja
       generation: 3
   hoffmann-la-roche:
     origin: CHE
@@ -541,6 +663,25 @@ families:
       generation: 4
     - person: simon-keswick
       generation: 4
+  kishi-sato-abe:
+    origin: JPN
+    founder: nobusuke-kishi
+    sector: politics
+    generations: 4
+    status: active
+    members:
+    - person: shinzo-abe
+      generation: 3
+      role: grandson of founder
+    - person: nobusuke-kishi
+      generation: 1
+      role: founder
+    - person: shintaro-abe
+      generation: 2
+      role: son-in-law
+    - person: eisaku-sato
+      generation: 1
+      role: co-founder (brother)
   kuhne:
     origin: Germany
     founder: august-kuhne
@@ -699,6 +840,28 @@ families:
       role: matriarch
     - person: thomas-coesfeld
       generation: 7
+      role: heir
+  moreira-salles:
+    origin: BRA
+    founder: joao-moreira-salles-sr
+    sector: finance, mining
+    generations: 4
+    status: active
+    members:
+    - person: pedro-moreira-salles
+      generation: 3
+      role: heir
+    - person: walther-moreira-salles
+      generation: 2
+      role: patriarch
+    - person: fernando-moreira-salles
+      generation: 3
+      role: heir
+    - person: joao-moreira-salles
+      generation: 3
+      role: heir
+    - person: walter-salles
+      generation: 3
       role: heir
   morgan:
     origin: USA
@@ -1184,6 +1347,22 @@ families:
     - person: ratan-tata
       generation: 4
       role: patriarch
+  tata-family:
+    origin: IND
+    founder: jamsetji-tata
+    sector: steel, textiles, hospitality, automotive, IT
+    generations: 6
+    status: active
+    members:
+    - person: ratan-tata
+      generation: 4
+    - person: jamsetji-tata
+      generation: 1
+      role: founder
+    - person: jrd-tata
+      generation: 3
+    - person: noel-tata
+      generation: 4
   toyoda:
     origin: Japan
     founder: Sakichi Toyoda

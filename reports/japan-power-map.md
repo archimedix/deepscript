@@ -92,12 +92,46 @@ Nobel 1974    SHINTARO ABE
 
 | Fazione | Leader | Status | Note |
 |---------|--------|--------|------|
-| Shikokai (Aso) | Taro Aso | **Unica attiva** | Sopravvissuta allo scioglimento |
+| Shikokai (Aso) | [Taro Aso](../docs/persons/taro-aso.md) | **Unica attiva** | Sopravvissuta allo scioglimento |
 | Seiwakai (Abe) | - | Sciolta 2024 | Scandalo slush fund, era la piu' grande |
 | Kochikai (Kishida) | - | Sciolta 2024 | Auto-scioglimento |
 | Shisuikai | - | Sciolta 2024 | Scandalo fondi |
 
 **Nota**: Shinzo Abe guidava la Seiwakai, la fazione piu' grande e conservatrice. Dopo il suo assassinio (2022) e lo scandalo fondi neri (2024), la fazione si e' sciolta.
+
+### Il Potere di Taro Aso
+
+[Taro Aso](../docs/persons/taro-aso.md) e' oggi il **kingmaker** del LDP:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fazione** | Shikokai - unica sopravvissuta (~50 parlamentari) |
+| **Carriera** | PM 2008-09, Deputy PM 2012-21 (record), Min. Finanze 8 anni |
+| **Dinastia** | [Aso-Yoshida](../docs/family/aso-yoshida.md) - 3 PM connessi |
+| **Business** | Aso Group (60+ aziende, cemento) |
+| **2024** | Sostenne Takaichi, perse contro Ishiba |
+| **2025** | "Non approvo che Ishiba continui" |
+
+**La Dinastia Aso-Yoshida** (alternativa ai Kishi-Sato-Abe):
+```
+SHIGERU YOSHIDA (1878-1967)
+PM 1946-47, 1948-54
+"Yoshida Doctrine"
+         |
+         | (figlia Kazuko)
+         v
+TARO ASO (1940-)     ←───────────────┐
+PM 2008-09                           |
+Deputy PM 2012-21                    | (matrimonio)
+         |                           |
+         └───────────────────────────┘
+                                     |
+                              ZENKO SUZUKI (1911-2004)
+                              PM 1980-82 (suocero)
+```
+
+**Lineage Kochikai**: La fazione di Aso (Shikokai) deriva dalla Kochikai di Ikeda. Leader storici:
+[Hayato Ikeda](../docs/persons/hayato-ikeda.md) → Ohira → [Zenko Suzuki](../docs/persons/zenko-suzuki.md) → [Kiichi Miyazawa](../docs/persons/kiichi-miyazawa.md) → Kato → Kishida
 
 ### 4. Il Sistema Amakudari
 
@@ -185,7 +219,7 @@ Trading Insurance Real Estate Mfg
 
 | Trading House | Market Cap ($B) | Berkshire % | Big Three % |
 |---------------|-----------------|-------------|-------------|
-| Mitsubishi Corp | 75.0 | 10.23% | 13.2% |
+| [Mitsubishi Corp](../docs/company/mitsubishi-corp.md) | 75.0 | **10.23%** | 13.2% |
 | Itochu | 68.0 | 9.8% | 12.0% |
 | Mitsui & Co | 65.0 | 10%+ | 9.5% |
 | Sumitomo Corp | 45.0 | 9.8% | 11.0% |
@@ -193,13 +227,44 @@ Trading Insurance Real Estate Mfg
 
 **Totale anglosassone**: ~22% delle sogo shosha (Berkshire 10% + Big Three 12%)
 
+### La Scommessa Buffett (2020-2025)
+
+Warren Buffett ha iniziato ad acquisire quote nelle 5 sogo shosha nel 2020:
+
+| Anno | Evento |
+|------|--------|
+| **Ago 2020** | Annuncio stake ~5% in tutte e 5 (90° compleanno Buffett) |
+| **2020-24** | Accumulo graduale, cap 10% concordato |
+| **Feb 2025** | Accordo per superare il 10% |
+| **Ago 2025** | Mitsubishi Corp: 10.23% |
+| **2025** | Valore totale: **$31B** (+392% dal 2020) |
+
+> "They were selling at what I thought was a ridiculous price" - Buffett, 2023
+
+### Mitsubishi Corporation: Il Leader
+
+[Scheda completa](../docs/company/mitsubishi-corp.md)
+
+| Dato | Valore |
+|------|--------|
+| **CEO** | [Katsuya Nakanishi](../docs/persons/katsuya-nakanishi.md) (2022-) |
+| **Fondazione** | 1954 (ri-fusione post-zaibatsu) |
+| **Berkshire** | 10.23% |
+| **BlackRock** | 6.0% |
+| **Vanguard** | 7.2% |
+| **WEF** | Strategic Partner |
+| **Trilateral** | Member |
+| **Stake Lawson** | 50% |
+
+Il keiretsu Mitsubishi include 600+ societa': MUFG (banking), Mitsubishi Heavy Industries, Mitsubishi Motors, Mitsubishi Electric, Mitsubishi Chemical.
+
 ### Modello di Business
 
 Le sogo shosha sono **uniche al mondo**: conglomerati di trading/investimento diversificati su:
-- Metalli e minerali
-- Energia (oil & gas, rinnovabili)
+- Metalli e minerali (Mitsubishi: copper, iron ore)
+- Energia (LNG Canada, rinnovabili)
 - Macchinari e infrastrutture
-- Food & Agriculture
+- Food & Agriculture (Lawson convenience stores)
 - Chimica
 - Consumer products
 
@@ -476,13 +541,38 @@ Dialogo quadrilaterale di sicurezza per contenere la Cina. Ideato da Abe nel 200
 
 ### Trilateral Commission - Sezione Asia-Pacific
 
-| Ruolo | Nome | Affiliazione |
-|-------|------|--------------|
-| 1° Chairman JP | Takeshi Watanabe | Ex-ADB President |
-| 2° Chairman JP | Isamu Yamashita | Mitsui Shipbuilding |
-| 3° Chairman JP | Akio Morita | Sony (fondatore) |
-| Acting Chairman | Kiichi Miyazawa | Ex-PM |
-| JP Director (40 anni) | Tadashi Yamamoto | JCIE Founder |
+| Ruolo | Nome | Affiliazione | Note |
+|-------|------|--------------|------|
+| 1° Chairman JP | Takeshi Watanabe | Ex-ADB President | - |
+| 2° Chairman JP | Isamu Yamashita | Mitsui Shipbuilding | - |
+| 3° Chairman JP | Akio Morita | Sony (fondatore) | - |
+| Acting Chairman | [Kiichi Miyazawa](../docs/persons/kiichi-miyazawa.md) | Ex-PM | Membro fondatore 1973 |
+| JP Director (40 anni) | [Tadashi Yamamoto](../docs/persons/tadashi-yamamoto.md) | [JCIE](../docs/think-tank/jcie.md) Founder | 1973-2012 |
+
+#### I Fondatori Giapponesi della Trilateral (1973)
+
+La Trilateral Commission segno' l'ingresso del Giappone come **partner paritario** nel sistema di governance globale:
+
+```
+DAVID ROCKEFELLER (USA)
+         |
+         | Convoca a Pocantico Hills, 1972
+         v
+TADASHI YAMAMOTO ──────────► Fonda JCIE (1970)
+Japan Director 40 anni       Host Trilateral Asia arm
+         |
+         +────────────────────────┐
+         |                        |
+         v                        v
+KIICHI MIYAZAWA              Delegazione giapponese
+Acting Chairman              al meeting fondativo
+PM 1991-93
+Min. Finanze 1998-2001
+```
+
+**Significato storico**: Prima della Trilateral, Bilderberg aveva rifiutato di includere il Giappone. Rockefeller e Brzezinski crearono la Trilateral proprio per superare questo limite eurocentrico.
+
+[Scheda Kiichi Miyazawa](../docs/persons/kiichi-miyazawa.md) | [Scheda Tadashi Yamamoto](../docs/persons/tadashi-yamamoto.md)
 
 **Membri attuali** (~75 giapponesi su 96 Asia-Pacific):
 - Ex-ambasciatori USA
@@ -507,6 +597,34 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 - Vice-Chair Nobuhiro Endo
 - President Masakazu Kubota
 
+### La Frattura: Keidanren vs JANE
+
+Nel 2011, [Hiroshi Mikitani](../docs/persons/hiroshi-mikitani.md) (Rakuten) usci' da Keidanren e fondo' [JANE](../docs/forum/jane.md), creando una **frattura storica** nel business giapponese:
+
+```
+KEIDANREN (1946)                      JANE (2012)
+"Voce del big business"               "New Economy"
+         |                                  |
+         | Old economy                      | Tech/Digital
+         | Pro-nucleare                     | Anti-nucleare
+         | Conservatore                     | Riformista
+         v                                  v
+    [TRADIZIONALI]                    [DISRUPTORS]
+    - Keiretsu                        - Rakuten
+    - Megabanks                       - Yahoo Japan
+    - Sogo shosha                     - Startups
+    - Automakers                      - Fintech
+```
+
+| Evento | Data | Impatto |
+|--------|------|---------|
+| Fukushima | Mar 2011 | Keidanren pro-nucleare |
+| Uscita Mikitani | Giu 2011 | Annuncio via Twitter |
+| Fondazione JANE | 2012 | Rivale di Keidanren |
+| Partnership Mizuho-Rakuten | 2024 | Riconciliazione? Mikitani torna a collaborare con megabank |
+
+**Ironia**: Mikitani inizio' la carriera alla Industrial Bank of Japan (ora Mizuho) nel 1988. Nel 2024, Mizuho acquista 15% di Rakuten Card - il ribelle torna a collaborare con la megabank, ma da posizione di forza.
+
 ---
 
 ## Think Tank e Policy Network
@@ -521,6 +639,22 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 | Chairman | Kenichiro Sasae (ex-Amb. USA) |
 | Ranking | #1 Asia |
 
+### JCIE (Japan Center for International Exchange)
+
+| Attributo | Valore |
+|-----------|--------|
+| Fondazione | 1970 |
+| Fondatore | [Tadashi Yamamoto](../docs/persons/tadashi-yamamoto.md) |
+| Ruolo | Host Trilateral Asia arm |
+| Status | Attivo (post-Yamamoto dal 2012) |
+
+JCIE e' stato il **veicolo organizzativo** per l'ingresso del Giappone nella governance globale:
+- Shimoda Conference (1967) - primo forum USA-JP tra pari
+- Trilateral Commission (1973-oggi) - secretariat asiatico
+- Korea-Japan Forum, UK-Japan 21st Century Group
+
+[Scheda JCIE](../docs/think-tank/jcie.md)
+
 ### Rete Sasakawa
 
 | Organizzazione | Focus |
@@ -528,7 +662,6 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 | Nippon Foundation | Philanthropy, shipping |
 | Sasakawa Peace Foundation | Diplomacy, security |
 | SPF USA | US-Japan relations |
-| JCIE | Trilateral secretariat (fino 2024) |
 
 ### CFR - Japan Partners
 
@@ -542,6 +675,69 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 
 ---
 
+## Crisi Automotive Giapponese (2024-2025)
+
+### Il Merger Honda-Nissan Fallito
+
+Il tentativo di fusione Honda-Nissan rappresenta il momento piu' critico per l'industria auto giapponese dal dopoguerra:
+
+```
+CRONOLOGIA MERGER FALLITO
+
+Dic 2024 ─────► MoU firmato Honda-Nissan-Mitsubishi Motors
+                "Creare #3 mondiale dopo Toyota e VW"
+                Valore combinato: $60B
+                     │
+Gen 2025 ─────► Honda propone Nissan come SUSSIDIARIA
+                     │
+                     ▼
+             "VEHEMENT OPPOSITION" da Nissan
+                     │
+Feb 2025 ─────► TERMINE UFFICIALE MoU
+                Partnership strategica EV continua
+```
+
+### Nissan: Crollo e Nuovo CEO
+
+[Scheda completa](../docs/automaker/nissan.md)
+
+| Indicatore | Valore |
+|------------|--------|
+| **Profitti H1 2024** | -94% vs 2023 |
+| **Perdita annuale** | >$500M |
+| **Credit rating** | Junk (Moody's, Fitch, S&P) |
+| **Tagli** | 9,000 posti, 3 stabilimenti |
+| **CEO** | [Ivan Espinosa](../docs/persons/ivan-espinosa.md) (Apr 2025-) |
+
+**Ivan Espinosa**: Primo CEO non-giapponese da Ghosn, messicano, 46 anni, in Nissan dal 2003. Descritto come "real car guy".
+
+**Interesse Foxconn**: Il produttore tech taiwanese ha espresso interesse per l'acquisizione.
+
+### Honda: Indipendenza Preservata
+
+[Scheda completa](../docs/automaker/honda.md)
+
+| Dato | Valore |
+|------|--------|
+| **CEO** | [Toshihiro Mibe](../docs/persons/toshihiro-mibe.md) (2021-) |
+| **Fondatore** | [Soichiro Honda](../docs/persons/soichiro-honda.md) (1906-1991) |
+| **WEF** | Hydrogen Council founding member (2017) |
+| **Modello** | No keiretsu, indipendente |
+
+Honda resta **l'unico grande automaker giapponese mai appartenuto a un keiretsu** - fondato da un meccanico autodidatta, non da una famiglia zaibatsu.
+
+### Alliance Renault-Nissan-Mitsubishi: Dissoluzione
+
+| Partner | Quota pre-2023 | Quota 2025 | Trend |
+|---------|----------------|------------|-------|
+| Renault → Nissan | 43.4% | **15%** | ↓↓ |
+| Nissan → Renault | 0% (no voto) | **15%** | ↑ |
+| Nissan → Mitsubishi Motors | 34% | **24%** | ↓ |
+
+L'Alliance nata nel 1999 per salvare Nissan si sta **dissolvendo**: cross-shareholding paritario, autonomia crescente.
+
+---
+
 ## I Campioni Nazionali
 
 ### Top 10 Nikkei 225 per Market Cap
@@ -550,7 +746,7 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 |---------|-----------------|-------------|---------|
 | Toyota | 230.6 | 18.0% | Auto |
 | MUFG | 160.1 | 12.0% | Bank |
-| Sony | 154.2 | 10.0% | Tech/Entertainment |
+| [Sony](../docs/company/sony.md) | 154.2 | 10.0% | Tech/Entertainment |
 | Hitachi | 128.5 | 10.0% | Conglomerate |
 | Keyence | 132.0 | 9.0% | Automation |
 | SoftBank | 106.8 | 8.0% | Telecom/Invest |
@@ -564,42 +760,68 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 | Azienda | BlackRock | Vanguard | State Street | Totale |
 |---------|-----------|----------|--------------|--------|
 | Toyota | 6.5% | 7.2% | 4.3% | **18.0%** |
-| Mitsubishi Corp | 6.0% | 7.2% | - | **13.2%** |
-| Honda | 5.0% | 6.0% | 3.0% | **14.0%** |
-| Sony | 3.5% | 4.0% | 2.5% | **10.0%** |
+| [Mitsubishi Corp](../docs/company/mitsubishi-corp.md) | 6.0% | 7.2% | - | **13.2%** |
+| [Honda](../docs/automaker/honda.md) | 5.0% | 6.0% | - | **11.0%** |
+| [Sony](../docs/company/sony.md) | 3.5% | 4.0% | 2.5% | **10.0%** |
 | SoftBank | 5.15% | 2.0% | 1.0% | **8.15%** |
+| [Nissan](../docs/automaker/nissan.md) | 3.5% | 4.0% | - | **7.5%** |
+
+### Sony: Da Walkman a PlayStation
+
+[Scheda completa](../docs/company/sony.md)
+
+| Dato | Valore |
+|------|--------|
+| **Fondatori** | [Masaru Ibuka](../docs/persons/masaru-ibuka.md), [Akio Morita](../docs/persons/akio-morita.md) (1946) |
+| **CEO** | [Hiroki Totoki](../docs/persons/hiroki-totoki.md) (Apr 2025-) |
+| **Chairman** | [Kenichiro Yoshida](../docs/persons/kenichiro-yoshida.md) (2025-) |
+| **WEF** | Strategic Partner |
+| **Trilateral** | Akio Morita member |
+
+**Akio Morita** (1921-1999): Co-fondatore Sony, vice-chairman Keidanren, **membro Trilateral Commission** - primo imprenditore giapponese a parlare fluentemente inglese sui media USA.
 
 ---
 
-## Persone Chiave da Investigare
+## Persone Chiave
 
-### Gia' nel DB
+### Documentate (Schede Complete)
 
 | ID | Nome | Ruolo | Scheda |
 |----|------|-------|--------|
 | shinzo-abe | Shinzo Abe † | PM 2006-07, 2012-20 | [Link](../docs/persons/shinzo-abe.md) |
+| **taro-aso** | **Taro Aso** | **PM 2008-09, kingmaker LDP** | [Link](../docs/persons/taro-aso.md) |
+| **hiroshi-mikitani** | **Hiroshi Mikitani** | **Rakuten founder, ribelle Keidanren** | [Link](../docs/persons/hiroshi-mikitani.md) |
+| **kiichi-miyazawa** | **Kiichi Miyazawa †** | **PM, fondatore Trilateral JP** | [Link](../docs/persons/kiichi-miyazawa.md) |
+| **tadashi-yamamoto** | **Tadashi Yamamoto †** | **JCIE founder, Trilateral Director 40y** | [Link](../docs/persons/tadashi-yamamoto.md) |
+
+### Nel DB (Stub)
+
+| ID | Nome | Ruolo | Note |
+|----|------|-------|------|
 | kazuo-ueda | Kazuo Ueda | Gov. BOJ 2023- | Stub |
 | haruhiko-kuroda | Haruhiko Kuroda | Gov. BOJ 2013-23 | Stub |
 | hiro-mizuno | Hiro Mizuno | CIO GPIF 2015-20 | Stub |
 | akio-toyoda | Akio Toyoda | Chairman Toyota | Stub |
 | masayoshi-son | Masayoshi Son | CEO SoftBank | Stub |
+| hayato-ikeda | Hayato Ikeda † | PM 1960-64, mentor Miyazawa | Stub |
+| shigeru-yoshida | Shigeru Yoshida † | PM, nonno Aso, fondatore JIIA | Stub |
+| zenko-suzuki | Zenko Suzuki † | PM, suocero Aso | Stub |
+| david-rockefeller | David Rockefeller † | Fondatore Trilateral | Stub |
 
 ### Da Creare - Politici
 
 | ID proposto | Nome | Ruolo | Connessioni |
 |-------------|------|-------|-------------|
-| fumio-kishida | Fumio Kishida | Ex-PM (2021-24) | WEF Davos 2023 |
+| fumio-kishida | Fumio Kishida | Ex-PM (2021-24) | WEF Davos 2023, ultimo leader Kochikai |
 | shigeru-ishiba | Shigeru Ishiba | PM (2024-) | Ex-Difesa, anti-fazioni |
 | sanae-takaichi | Sanae Takaichi | PM (2025-) | Prima donna PM, nazionalista |
-| taro-aso | Taro Aso | Ex-PM, capo Aso faction | Trilateral, Aso Cement |
 | taro-kono | Taro Kono | Digital Minister | WEF Davos 2024 |
 
 ### Da Creare - Business Leaders
 
 | ID proposto | Nome | Azienda | Connessioni |
 |-------------|------|---------|-------------|
-| hiroshi-mikitani | Hiroshi Mikitani | Rakuten | WEF, Harvard MBA |
-| kenichiro-yoshida | Kenichiro Yoshida | Sony | U.Tokyo, turnaround |
+| ~~kenichiro-yoshida~~ | ~~Kenichiro Yoshida~~ | ~~Sony~~ | **CREATO** - Chairman 2025 |
 | kentaro-okuda | Kentaro Okuda | Nomura | Investment banking |
 | masakazu-tokura | Masakazu Tokura | Keidanren Chair | Sumitomo Chemical |
 
@@ -608,7 +830,6 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 | ID proposto | Nome | Ruolo | Note |
 |-------------|------|-------|------|
 | kenichiro-sasae | Kenichiro Sasae | Chairman JIIA | Ex-Amb. USA |
-| tadashi-yamamoto | Tadashi Yamamoto | JCIE Founder † | Trilateral JP Director 40y |
 
 ---
 
@@ -623,16 +844,16 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 | **gpif** | SWF | [Link](../docs/swf/gpif.md) |
 | toyota | Automaker | Presente |
 | softbank | Company | Presente |
-| nissan | Automaker | Presente |
+| **nissan** | Automaker | **[Scheda](../docs/automaker/nissan.md)** - Crisi 2024-25, Espinosa CEO |
 | mufg | Bank | Presente |
 | smfg | Bank | Presente |
 | mizuho | Bank | Presente |
-| sony | Company | Presente |
+| **sony** | Company | **[Scheda](../docs/company/sony.md)** - WEF Strategic Partner |
 | hitachi | Company | Presente |
-| mitsubishi-corp | Company | Presente |
+| **mitsubishi-corp** | Company | **[Scheda](../docs/company/mitsubishi-corp.md)** - Buffett 10.23% |
 | mitsui-co | Company | Presente |
 | mitsubishi-motors | Automaker | Presente |
-| honda | Company | Presente |
+| **honda** | Automaker | **[Scheda](../docs/automaker/honda.md)** - WEF Hydrogen Council |
 | ntt | Company | Presente |
 | itochu | Company | Presente |
 | sumitomo-corp | Company | Presente |
@@ -640,12 +861,19 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 
 ### Persone Giapponesi nel DB
 
-| ID | Ruolo | Note |
-|----|-------|------|
+| ID | Ruolo | Scheda |
+|----|-------|--------|
 | **shinzo-abe** | PM 2006-07, 2012-20 | [Scheda](../docs/persons/shinzo-abe.md) |
+| **taro-aso** | PM 2008-09, kingmaker LDP | [Scheda](../docs/persons/taro-aso.md) |
+| **kiichi-miyazawa** | PM 1991-93, fondatore Trilateral | [Scheda](../docs/persons/kiichi-miyazawa.md) |
+| **tadashi-yamamoto** | JCIE founder, Trilateral Dir. 40y | [Scheda](../docs/persons/tadashi-yamamoto.md) |
+| **hiroshi-mikitani** | Rakuten founder, ribelle Keidanren | [Scheda](../docs/persons/hiroshi-mikitani.md) |
 | nobusuke-kishi | PM 1957-60 | Nonno di Abe |
 | eisaku-sato | PM 1964-72, Nobel | Prozio di Abe |
 | shintaro-abe | Min. Esteri 1982-86 | Padre di Abe |
+| shigeru-yoshida | PM 1946-54, Yoshida Doctrine | Nonno di Aso |
+| zenko-suzuki | PM 1980-82 | Suocero di Aso |
+| hayato-ikeda | PM 1960-64, Income Doubling | Mentor di Miyazawa |
 | **kazuo-ueda** | Gov. BOJ 2023- | - |
 | **haruhiko-kuroda** | Gov. BOJ 2013-23 | Ex-ADB |
 | toshihiko-fukui | Gov. BOJ 2003-08 | Dir. BIS |
@@ -658,16 +886,38 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 | **junichi-hanzawa** | CEO designato MUFG 2026 | Deputy Chairman MUFG |
 | masayoshi-son | CEO SoftBank | Vision Fund |
 | akio-toyoda | Chairman Toyota | - |
+| **kenichiro-yoshida** | **Chairman Sony 2025-** | CEO 2018-25 |
+| **hiroki-totoki** | **CEO Sony 2025-** | "real car guy" |
+| **akio-morita** | **Co-fondatore Sony** | Trilateral member, Keidanren VC |
+| **masaru-ibuka** | **Co-fondatore Sony** | 1908-1997 |
+| **katsuya-nakanishi** | **CEO Mitsubishi Corp 2022-** | Power Solution |
+| **toshihiro-mibe** | **CEO Honda 2021-** | WEF Hydrogen Council |
+| **soichiro-honda** | **Fondatore Honda** | "Japanese Henry Ford" 1906-1991 |
+| **takeo-fujisawa** | **Co-fondatore Honda** | Business partner 1910-1988 |
+| **ivan-espinosa** | **CEO Nissan 2025-** | Messicano, primo non-JP da Ghosn |
+| **makoto-uchida** | **Ex-CEO Nissan** | 2019-2025, resigned amid crisis |
+
+### Organizzazioni Aggiunte
+
+| ID | Tipo | Note |
+|----|------|------|
+| **jcie** | ThinkTank | Host Trilateral Asia arm |
+| **jane** | Forum | Rivale Keidanren, fondata da Mikitani |
+| **keidanren** | Forum | Voce big business giapponese |
+| **ldp** | Party | Liberal Democratic Party |
+| **aso-group** | Company | Conglomerato famiglia Aso |
+| **vissel-kobe** | SportsClub | Owned by Rakuten |
+| **fc-barcelona** | SportsClub | Sponsor Rakuten 2017-22 |
+| **ibj** | Bank | Industrial Bank of Japan (ora Mizuho) |
+| **harvard-business-school** | University | Mikitani MBA 1993 |
 
 ### Da Creare (Priorità)
 
 | ID proposto | Tipo | Priorità |
 |-------------|------|----------|
-| keidanren | Forum | Alta |
 | jiia | ThinkTank | Alta |
 | nippon-foundation | Foundation | Media |
 | spf | Foundation | Media |
-| jcie | ThinkTank | Media |
 
 ### Organizzazioni Aggiunte (Schede Complete)
 
@@ -681,6 +931,9 @@ Keidanren partecipa al **B7** (Business 7) prima di ogni G7:
 | **rakuten** | Company | Stub | Fintech, e-commerce |
 | **bank-btpn** | Bank | Stub | SMFG Indonesia |
 | **vpbank** | Bank | Stub | SMFG Vietnam |
+| **lawson** | Company | Stub | Mitsubishi Corp 50% |
+| **eneos** | Company | Stub | Energy, JV con Mitsubishi |
+| **mitsubishi-heavy-industries** | Company | Stub | Keiretsu Mitsubishi |
 
 ---
 
@@ -760,17 +1013,26 @@ Caratteristiche:
 ### Lezioni per DeepScript
 
 1. **Dissoluzione ≠ Scomparsa**: I zaibatsu si sono trasformati, non estinti
-2. **Dinastie Politiche**: 3 PM dalla stessa famiglia (Kishi-Sato-Abe) = 20+ anni al potere
-3. **Coordinamento Stato-Mercato**: Abe-Kuroda hanno dimostrato sincronizzazione PM-Banca Centrale
+2. **Dinastie Politiche Multiple**: Non solo Kishi-Sato-Abe (3 PM), ma anche Aso-Yoshida (3 PM connessi per sangue/matrimonio)
+3. **Coordinamento Stato-Mercato**: Abe-Kuroda (Abenomics) + Abe-Aso (Deputy PM 8 anni) = sincronizzazione totale
 4. **GPIF come Ponte**: Fondi pubblici ($1.87T) gestiti da asset manager USA
 5. **ESG come Leva**: Mizuno ha usato GPIF per riformare corporate governance giapponese
-6. **Trilateral come Network**: Connessione sistematica Giappone-USA-Europa dal 1973
+6. **Trilateral come Network Fondativo**: Miyazawa e Yamamoto portarono il Giappone nella governance globale nel 1973
 7. **QUAD come Eredita'**: Abe ha creato architettura anti-Cina che sopravvive alla sua morte
 8. **Megabanks → Wall Street**: MUFG-Morgan Stanley e SMFG-Jefferies = integrazione finanziaria transatlantica
 9. **Revolving Door Privato-Pubblico**: Kazuto Uchida (MUFG → GPIF) = primo presidente da banca privata
 10. **Intelligence Connections**: Kamezawa (MUFG) su Hakluyt Advisory Board = link finanza-intelligence
 11. **WEF come Hub**: Tutti e tre i CEO megabanks connessi a WEF (Davos o partner)
 12. **Strategie Divergenti**: MUFG/SMFG verso USA, Mizuho verso fintech domestico (Rakuten)
+13. **Frattura Big Business**: Mikitani (Rakuten) usci' da Keidanren nel 2011 e fondo' JANE - prima sfida aperta all'establishment
+14. **Diplomazia Civile**: Yamamoto (JCIE) creo' il modello di forum non-governativi che ancora oggi connette Giappone al mondo
+15. **Fazioni come Potere Reale**: Dopo lo scandalo 2024, solo la Shikokai (Aso) e' sopravvissuta - un uomo controlla il LDP
+16. **Kochikai Lineage**: Da Ikeda a Miyazawa a Kishida - la fazione moderata ha plasmato la politica estera giapponese per 60 anni
+17. **Crisi Automotive 2025**: Merger Honda-Nissan fallito - Nissan rifiuta status di sussidiaria, conferma orgoglio nazionale vs logica di mercato
+18. **Fondatori nella Trilateral**: Akio Morita (Sony) era membro Trilateral Commission - i costruttori del "miracolo giapponese" erano integrati nelle reti globali
+19. **Modello Honda**: Unico grande automaker mai appartenuto a keiretsu - prova che indipendenza era possibile
+20. **Buffett come Validatore**: $31B nelle sogo shosha = benedizione del capitalismo USA al modello giapponese
+21. **WEF Strategic Partners**: Mitsubishi Corp e Sony sono Strategic Partners WEF - integrazione corporate globale
 
 ---
 
@@ -863,6 +1125,13 @@ RETURN smfg.id, partner.id, partner.headquarters, s.share, s.note
 - [Wikipedia - Zaibatsu](https://en.wikipedia.org/wiki/Zaibatsu)
 - [Wikipedia - Keiretsu](https://en.wikipedia.org/wiki/Keiretsu)
 
+### Automotive / Corporate
+- [CNBC - Nissan CEO Espinosa](https://www.cnbc.com/2025/03/11/nissan-ceo-makoto-uchida-to-step-down-on-april-1.html)
+- [NPR - Honda Nissan Merger Talks](https://www.npr.org/2024/12/23/g-s1-39686/nissan-honda-merge-talks)
+- [Hollywood Reporter - Sony Leadership Change](https://www.hollywoodreporter.com/business/business-news/sony-hiroki-totoki-ceo-kenichiro-yoshida-chairman-1236121166/)
+- [Japan Times - Buffett Japan Trading Houses](https://www.japantimes.co.jp/business/2025/12/27/markets/buffett-japan-trading-houses/)
+- [Bloomberg - Berkshire Mitsubishi 10%](https://www.bloomberg.com/news/articles/2025-08-28/mitsubishi-corp-says-berkshire-hathaway-s-stake-rises-to-10-23-meutunbj)
+
 ### Analisi
 - [CFR - Japan programs](https://www.cfr.org/fellowships/international-affairs-fellowship-japan)
 - [Lowy Institute - Abe and QUAD](https://www.lowyinstitute.org/the-interpreter/abe-shinzo-quad-stands-his-indo-pacific-legacy)
@@ -871,4 +1140,4 @@ RETURN smfg.id, partner.id, partner.headquarters, s.share, s.note
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025 - Aggiunta sezione Megabanks con partnership globali*
+*Ultimo aggiornamento: Dicembre 2025 - Aggiunte: sezione Crisi Automotive 2024-25, schede Mitsubishi Corp, Sony, Honda, Nissan; nuovi CEO (Espinosa, Totoki, Nakanishi, Mibe); Buffett sogo shosha investment +392%*

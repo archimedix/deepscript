@@ -63,6 +63,14 @@ persons:
       from: 2001
       to: 2011
       note: CEO - salvo KPN dal collasso, riorganizzazione massiva
+  adam-crozier:
+    born: 1964
+    nationality: GBR
+    affiliations:
+    - org: bt-group
+      role: chairman
+      from: 2021
+      note: Chairman
   adam-keswick:
     nationality: GBR
     family: keswick
@@ -91,6 +99,16 @@ persons:
       role: chairman
       from: 2014
       note: Non-executive Chairman. Reappointed 2024
+  aditya-vikram-birla:
+    born: 1943
+    died: 1995
+    nationality: IND
+    family: birla
+    affiliations:
+    - org: aditya-birla-group
+      role: chairman
+      from: 1969
+      to: 1995
   adolf-eichmann:
     born: 1906
     died: 1962
@@ -178,6 +196,9 @@ persons:
       role: steering
       from: 2020
       note: Guardian
+  ajay-hinduja:
+    nationality: CHE
+    family: hinduja
   ajit-jain:
     born: 1951
     nationality: IND
@@ -186,6 +207,13 @@ persons:
       role: executive
       from: 1986
       note: Vice Chairman Insurance Operations dal 2018
+  akash-ambani:
+    born: 1991
+    nationality: IND
+    affiliations:
+    - org: reliance-jio
+      role: chairman
+      from: 2022
   akiko-iwasaki:
     born: 1970
     nationality: JPN-USA
@@ -194,6 +222,19 @@ persons:
       role: board
       from: 2022
       note: Board member, Yale Sterling Professor
+  akio-morita:
+    born: 1921
+    died: 1999
+    nationality: JPN
+    affiliations:
+    - org: trilateral-commission
+      role: member
+      note: Trilateral member, Keidanren vice-chairman
+    - org: sony
+      role: founder
+      from: 1946
+      to: 1999
+      note: Co-founder, Chairman
   akio-toyoda:
     born: 1956
     nationality: JPN
@@ -272,6 +313,15 @@ persons:
       role: chairman-ceo
       from: 2019
       note: CEO dal 2019, Chairman dal 2020
+  albert-frere:
+    born: 1926
+    died: 2018
+    nationality: BEL
+    affiliations:
+    - org: gbl
+      role: chairman
+      from: 1982
+      to: 2018
   albert-i-belgium:
     born: 1875
     died: 1934
@@ -589,6 +639,16 @@ persons:
       role: executive
       from: 2021
       note: EVP Tiffany & Co.
+  alexandre-behring:
+    born: 1967
+    nationality: BRA
+    affiliations:
+    - org: 3g-capital
+      role: partner
+      from: 2004
+    - org: kraft-heinz
+      role: chairman
+      from: 2015
   alexandre-de-rothschild:
     born: 1980
     nationality: FRA
@@ -784,6 +844,14 @@ persons:
     relations:
     - person: john-foster-dulles
       type: brother
+  allison-kirkby:
+    born: 1967
+    nationality: GBR
+    affiliations:
+    - org: bt-group
+      role: executive
+      from: 2024
+      note: CEO; first woman to lead BT; NED from 2019
   alois-brunner:
     born: 1912
     died: 2010
@@ -888,6 +956,62 @@ persons:
     relations:
     - person: emilio-botin
       type: daughter
+  anand-mahindra:
+    born: 1955
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: chairman
+      from: 2009
+      to: 2009
+      note: Co-Chairman Annual Meeting
+    - org: cfr
+      role: advisor
+      note: Global Board of Advisors
+    - org: ford-foundation
+      role: board
+      note: Board Member
+    - org: reserve-bank-india
+      role: board
+      note: Part-time Non-official Director
+    - org: mahindra-group
+      role: chairman
+      from: 2012
+      note: Chairman & MD
+    - org: kotak-mahindra-bank
+      role: founder
+      note: Co-promoter
+    - org: un-global-compact
+      role: board
+      note: Board Member
+    - org: cii
+      role: chairman
+      from: 2003
+      to: 2004
+      note: President
+    - org: harvard
+      role: member
+      from: 1977
+      note: BA 1977, MBA 1981, $10M donor Humanities Center
+  anant-ambani:
+    born: 1995
+    nationality: IND
+    affiliations:
+    - org: reliance-new-energy
+      role: board
+      from: 2021
+  ananya-birla:
+    born: 1994
+    nationality: IND
+    family: birla
+    affiliations:
+    - org: hindalco
+      role: board
+      from: 2024
+      note: Non-Executive Director
+    - org: grasim
+      role: board
+      from: 2023
   anatoly-chubais:
     born: 1955
     nationality: RUS-ISR
@@ -969,6 +1093,53 @@ persons:
   andre-de-spoelberch:
     died: 2017
     nationality: BEL
+  andre-desmarais:
+    born: 1956
+    nationality: CAN
+    affiliations:
+    - org: bilderberg
+      role: member
+    - org: trilateral-commission
+      role: member
+    - org: power-corporation
+      role: executive
+      from: 1996
+      note: Co-CEO 1996-2020, Deputy Chairman
+  andre-esteves:
+    born: 1968
+    nationality: BRA
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos participant
+    - org: cfr
+      role: advisor
+      note: Global Board of Advisors
+    - org: ubs
+      role: executive
+      from: 2006
+      to: 2008
+      note: CEO UBS Pactual, Global Head Fixed Income Currencies Commodities
+    - org: btg-pactual
+      role: chairman
+      from: 2009
+      note: Senior Partner, controlling shareholder (~27%)
+    - org: harvard-university
+      role: advisor
+      note: Latin America Advisory Board HBS, Esteves Hall donor 2015
+    - org: ufrj
+      role: member
+      note: BS Computer Science
+    - org: conservation-international
+      role: board
+      note: Amazonia Live program, 5P Alliance Pantanal
+    - org: inteli
+      role: founder
+      from: 2021
+      note: Co-founder with Roberto Sallouti
+    - org: milken-institute
+      role: member
+      note: Global Conference speaker
   andre-hoffmann:
     born: 1958
     nationality: CHE
@@ -1303,6 +1474,13 @@ persons:
     - org: wef
       role: ygl
       from: 2024
+  anil-ambani:
+    born: 1959
+    nationality: IND
+    affiliations:
+    - org: reliance-ada-group
+      role: chairman
+      from: 2005
   anita-hauser:
     born: 1969
     nationality: CHE
@@ -1650,12 +1828,37 @@ persons:
       role: chairman
       from: 2025
       note: Chair of RUSI
+  aryaman-birla:
+    born: 1997
+    nationality: IND
+    family: birla
+    affiliations:
+    - org: hindalco
+      role: board
+      from: 2024
+      note: Non-Executive Director
+    - org: grasim
+      role: board
+      from: 2023
   arzuhan-yalcindag:
     nationality: TUR
     note: CEO Kanal D
     affiliations:
     - org: wef
       role: ygl
+  ashok-hinduja:
+    born: 1950
+    nationality: IND
+    family: hinduja
+    affiliations:
+    - org: hinduja-group
+      role: chairman
+      note: Chairman India
+    - org: hinduja-foundation
+      role: chairman
+    - org: hinduja-hospital
+      role: chairman
+      note: National Health and Education Society
   athina-onassis:
     born: 1985
     nationality: GRC
@@ -2291,6 +2494,13 @@ persons:
       role: board
     - org: us-china-business-council
       role: board
+  bobby-le-blanc:
+    nationality: USA
+    affiliations:
+    - org: onex
+      role: executive
+      from: 1999
+      note: CEO (2023-)
   bogdan-aurescu:
     born: 1973
     nationality: ROU
@@ -2658,6 +2868,18 @@ persons:
     - org: wef
       role: ygl
       from: 2020
+  cai-qi:
+    born: 1955
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: leader
+      from: 2022
+      note: 'CCP Secretariat, PSC #5'
+    - org: ccp
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
   calin-popescu-tariceanu:
     born: 1952
     nationality: ROU
@@ -2799,11 +3021,16 @@ persons:
       to: 2016
       note: Chairman of Russia largest automaker (LADA brand).
   carlos-sicupira:
+    born: 1948
     nationality: BRA
     affiliations:
     - org: 3g-capital
       role: founder
       from: 2004
+    - org: banco-garantia
+      role: founder
+      from: 1971
+      to: 1998
   carlos-tavares:
     born: 1958
     nationality: PRT
@@ -3049,6 +3276,13 @@ persons:
       role: executive
       from: 2012
       note: Director
+  charles-searle:
+    nationality: ZAF
+    affiliations:
+    - org: tencent
+      role: board
+      from: 2001
+      note: Non-Executive Director
   charlie-munger:
     born: 1924
     died: 2023
@@ -3154,6 +3388,36 @@ persons:
     - person: edward-snowden
       type: fellow whistleblower
       note: Both leaked classified US government documents
+  chen-siqing:
+    born: 1961
+    nationality: CHN
+    affiliations:
+    - org: icbc
+      role: chairman
+      from: 2019
+      to: 2024
+  chen-yidan:
+    nationality: CHN
+    affiliations:
+    - org: tencent
+      role: founder
+      from: 1998
+      to: 2013
+      note: Co-founder, CAO
+  chen-zhongyue:
+    born: 1971
+    nationality: CHN
+    affiliations:
+    - org: china-mobile
+      role: chairman
+      from: 2025
+    - org: china-unicom
+      role: chairman
+      from: 2023
+      to: 2025
+    - org: china-telecom
+      role: executive
+      note: Vice President
   chia-ek-chor:
     died: 1983
     nationality: THA
@@ -3666,6 +3930,27 @@ persons:
       from: 2015
       to: 2017
       note: Primo Ministro (tecnico)
+  dai-houliang:
+    born: 1963
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: legislator
+      from: 2023
+      note: 14th CPPCC member
+    - org: petrochina
+      role: chairman
+      from: 2020
+      note: Chairman
+    - org: cnpc
+      role: chairman
+      from: 2020
+      note: Chairman and Party Secretary
+    - org: sinopec
+      role: chairman
+      from: 2018
+      to: 2020
+      note: Chairman and Party Secretary
   damien-comolli:
     nationality: FRA
     affiliations:
@@ -4136,6 +4421,18 @@ persons:
       from: 1969
       to: 2017
       note: Senior Chairman from 2017
+  dheeraj-hinduja:
+    nationality: GBR
+    family: hinduja
+  dhirubhai-ambani:
+    born: 1932
+    died: 2002
+    nationality: IND
+    affiliations:
+    - org: reliance-industries
+      role: founder
+      from: 1966
+      to: 2002
   dick-cheney:
     born: 1941
     nationality: USA
@@ -4202,6 +4499,18 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader, Goldman Sachs
+  ding-xuexiang:
+    born: 1962
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: minister
+      from: 2023
+      note: 'Executive Vice Premier, PSC #6'
+    - org: ccp
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
   dmitry-medvedev:
     born: 1965
     nationality: RUS
@@ -4388,6 +4697,14 @@ persons:
     - org: hakluyt
       role: advisor
       note: International Advisory Board; former Chairman HSBC
+  droupadi-murmu:
+    born: 1958
+    nationality: IND
+    affiliations:
+    - org: governo-india
+      role: leader
+      from: 2022
+      note: President, prima donna tribale e seconda donna in carica
   dustin-moskovitz:
     born: 1984
     nationality: USA
@@ -4434,6 +4751,13 @@ persons:
       role: founder
       from: 1988
       note: Founder, Chairman, CEO
+  eddie-wu:
+    nationality: CHN
+    affiliations:
+    - org: alibaba
+      role: executive
+      from: 2023
+      note: CEO, Co-founder
   edgar-bronfman-sr:
     born: 1929
     died: 2013
@@ -4652,6 +4976,17 @@ persons:
     - org: dupont
       role: founder
       from: 1802
+  eisaku-sato:
+    born: 1901
+    died: 1975
+    nationality: JPN
+    family: kishi-sato-abe
+    affiliations:
+    - org: governo-giappone
+      role: leader
+      from: 1964
+      to: 1972
+      note: Prime Minister - Nobel Peace Prize 1974
   eldar-saetre:
     born: 1956
     nationality: NOR
@@ -5468,6 +5803,45 @@ persons:
       from: 2008
       to: 2013
       note: Rappresentante Permanente Italia presso UE
+  fernando-moreira-salles:
+    born: 1946
+    nationality: BRA
+    family: moreira-salles
+    affiliations:
+    - org: itau-unibanco
+      role: board
+      note: Ex-board member, 13% stake via restructuring 2022
+    - org: cbmm
+      role: chairman
+      note: Family owns 70%, each brother 17.5%
+    - org: unibanco
+      role: chairman
+      to: 2008
+      note: Vice Chairman fino a merger Itau
+    - org: brasil-warrant
+      role: executive
+      note: President
+    - org: cambuhy-investimentos
+      role: partner
+      note: Family investment vehicle, Alpargatas stake
+    - org: fgv
+      role: member
+      note: Laurea Economia
+    - org: companhia-johnston
+      role: chairman
+      note: Vice Chairman, holding Itau stake
+    - org: iupar
+      role: board
+      note: Director
+    relations:
+    - person: joao-moreira-salles
+      type: sibling
+    - person: pedro-moreira-salles
+      type: sibling
+    - person: walter-salles
+      type: sibling
+    - person: walther-moreira-salles
+      type: child
   filippo-filippelli:
     born: 1890
     nationality: ITA
@@ -6174,6 +6548,30 @@ persons:
     born: 1967
     nationality: USA
     note: Governatore California
+  gd-birla:
+    born: 1894
+    died: 1983
+    nationality: IND
+    family: birla
+    affiliations:
+    - org: aditya-birla-group
+      role: founder
+      from: 1919
+    - org: hindustan-times
+      role: founder
+      from: 1924
+  ge-haijiao:
+    born: 1971
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: minister
+      from: 2019
+      to: 2023
+      note: Vice Governor Hebei Province
+    - org: bank-of-china
+      role: chairman
+      from: 2023
   gennady-timchenko:
     born: 1952
     nationality: RUS-FIN
@@ -6466,6 +6864,17 @@ persons:
       role: board
       from: 2022
       note: Owner, Board member
+  gerry-schwartz:
+    born: 1941
+    nationality: CAN
+    affiliations:
+    - org: onex
+      role: founder
+      from: 1984
+      note: Founder & Chairman
+    relations:
+    - person: heather-reisman
+      type: spouse
   giacomo-matteotti:
     born: 1885
     died: 1924
@@ -6849,6 +7258,23 @@ persons:
       from: 1990
       to: 2004
       note: Prime Minister
+  goldy-hyder:
+    nationality: CAN
+    affiliations:
+    - org: business-council-canada
+      role: executive
+      from: 2018
+      note: President & CEO
+  gopichand-hinduja:
+    born: 1940
+    died: 2025
+    nationality: IND-GBR
+    family: hinduja
+    affiliations:
+    - org: hinduja-group
+      role: chairman
+      to: 2025
+      note: Co-chairman
   gordon-brown:
     born: 1951
     nationality: GBR
@@ -6971,6 +7397,19 @@ persons:
       to: 2003
     - org: the-elders
       role: chairman
+  gu-shu:
+    born: 1967
+    nationality: CHN
+    affiliations:
+    - org: icbc
+      role: executive
+      from: 2016
+      to: 2020
+      note: President
+    - org: agricultural-bank-of-china
+      role: chairman
+      from: 2021
+      note: Party Secretary and Chairman
   guido-carli:
     born: 1914
     died: 1993
@@ -7201,6 +7640,20 @@ persons:
     relations:
     - person: nicky-oppenheimer
       type: father
+  haruhiko-kuroda:
+    born: 1944
+    nationality: JPN
+    affiliations:
+    - org: adb
+      role: chairman
+      from: 2005
+      to: 2013
+      note: President
+    - org: bank-of-japan
+      role: chairman
+      from: 2013
+      to: 2023
+      note: Governor (31st) - QQE, YCC, NIRP
   haruka-mera:
     nationality: JPN
     note: CEO READYFOR
@@ -7222,6 +7675,33 @@ persons:
       role: founder
       from: 1972
       note: Co-founder, Chairman 2003-2024
+  hayato-ikeda:
+    born: 1899
+    died: 1965
+    nationality: JPN
+    affiliations:
+    - org: governo-giappone
+      role: leader
+      from: 1960
+      to: 1964
+      note: PM 58°-60°; Income Doubling Plan
+  he-biao:
+    nationality: CHN
+    affiliations:
+    - org: china-mobile
+      role: executive
+      from: 2024
+      note: CEO
+  he-lifeng:
+    born: 1955
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: minister
+      from: 2023
+      note: Vice Premier, economic tsar
+  heather-reisman:
+    nationality: CAN
   helen-clark:
     born: 1950
     nationality: NZL
@@ -7229,6 +7709,8 @@ persons:
     - org: chatham-house
       role: board
       note: President
+  helene-desmarais:
+    nationality: CAN
   helge-lund:
     born: 1962
     nationality: NOR
@@ -7350,6 +7832,65 @@ persons:
     - org: general-atlantic
       role: chairman
       note: Special Advisor and Chairman for Europe
+  henrique-meirelles:
+    born: 1945
+    nationality: BRA
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos participant, featured contributor
+    - org: bis
+      role: board
+      from: 2010
+      to: 2010
+      note: Director
+    - org: lazard
+      role: chairman
+      from: 2012
+      note: Chairman Lazard Americas
+    - org: kkr
+      role: advisor
+      from: 2012
+      note: Senior Advisor, Latin America business development
+    - org: harvard-university
+      role: alumnus
+      from: 1984
+      note: Advanced Management Program (AMP), HBS; Advisory Board HKS
+    - org: banco-central-brasil
+      role: executive
+      from: 2003
+      to: 2011
+      note: President, longest serving
+    - org: bankboston
+      role: executive
+      from: 1974
+      to: 1999
+      note: President Brazil 1984-1996, President & COO worldwide 1996-1999
+    - org: fleetboston
+      role: executive
+      from: 1999
+      to: 2002
+      note: President Global Banking
+    - org: governo-brasil
+      role: minister
+      from: 2016
+      to: 2018
+      note: Minister of Finance (Temer government)
+    - org: azul
+      role: board
+      note: Board of Directors
+    - org: jf-investimentos
+      role: chairman
+      note: Chairman of the board, owner of JBS and Banco Original
+    - org: raytheon
+      role: board
+      from: 1998
+      note: Director
+    - org: lloyds-london
+      role: member
+      note: Council member
+    - org: inter-american-dialogue
+      role: member
   henry-dupont:
     born: 1812
     died: 1889
@@ -7551,6 +8092,82 @@ persons:
       from: 1989
       to: 1997
       note: Vorstandssprecher
+  hiro-mizuno:
+    nationality: JPN
+    affiliations:
+    - org: gpif
+      role: executive
+      from: 2015
+      to: 2020
+      note: CIO - ESG pioneer
+  hirohide-yamaguchi:
+    nationality: JPN
+    affiliations:
+    - org: gpif
+      role: chairman
+      note: Chairman Board of Governors
+  hiroki-totoki:
+    born: 1964
+    nationality: JPN
+    affiliations:
+    - org: sony
+      role: executive
+      from: 2025
+      note: President & CEO
+  hironori-kamezawa:
+    born: 1962
+    nationality: JPN
+    affiliations:
+    - org: morgan-stanley
+      role: board
+      from: 2021
+      note: Director (via MUFG 22% stake)
+    - org: hakluyt
+      role: advisor
+      from: 2023
+      note: International Advisory Board
+    - org: mufg
+      role: executive
+      from: 2020
+      note: President & CEO
+  hiroshi-mikitani:
+    born: 1965
+    nationality: JPN
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos regular, Agenda Contributor
+    - org: mizuho
+      role: partner
+      from: 2023
+      note: Alliance strategica Rakuten-Mizuho fintech
+    - org: rakuten
+      role: founder
+      from: 1997
+      note: Founder, Chairman, President & CEO
+    - org: jane
+      role: founder
+      from: 2012
+      note: Representative Director
+    - org: vissel-kobe
+      role: chairman
+      from: 2004
+      note: Owner via Rakuten; ingaggiò Iniesta 2018
+    - org: ibj
+      role: executive
+      from: 1988
+      to: 1996
+      note: Investment banker
+    - org: harvard-business-school
+      role: alumni
+      from: 1991
+      to: 1993
+      note: MBA 1993; Alumni Achievement Award 2012
+    - org: keidanren
+      role: member
+      from: 2004
+      to: 2011
+      note: Uscita polemica post-Fukushima
   ho-ching:
     born: 1953
     nationality: SGP
@@ -7609,6 +8226,13 @@ persons:
       role: founder
       from: 1995
       note: Co-founder, Co-Chairman
+  hu-houkun:
+    nationality: CHN
+    affiliations:
+    - org: huawei
+      role: chairman
+      from: 2018
+      note: Deputy Chair, Rotating Chairman
   iain-lobban:
     nationality: GBR
     affiliations:
@@ -7821,6 +8445,16 @@ persons:
       from: 2015
       to: 2024
       note: Co-founder, Chief Scientist until 2024
+  indira-gandhi:
+    born: 1917
+    died: 1984
+    nationality: IND
+    affiliations:
+    - org: governo-india
+      role: leader
+      from: 1966
+      to: 1984
+      note: Prime Minister 1966-77, 1980-84. Emergency, assassinata
   ion-iliescu:
     born: 1930
     died: 2025
@@ -7884,6 +8518,12 @@ persons:
       role: executive
       from: 1954
       to: 1974
+  isha-ambani:
+    born: 1991
+    nationality: IND
+    affiliations:
+    - org: reliance-jio
+      role: board
   isser-harel:
     born: 1912
     died: 2003
@@ -7914,6 +8554,14 @@ persons:
   istvan-tiborcz:
     born: 1985
     nationality: HUN
+  ivan-espinosa:
+    born: 1979
+    nationality: MEX
+    affiliations:
+    - org: nissan
+      role: executive
+      from: 2025
+      note: CEO (Apr 2025-)
   ivan-glasenberg:
     born: 1957
     nationality: ZAF
@@ -7961,6 +8609,31 @@ persons:
       role: leader
       from: 2017
       to: 2023
+  jack-ma:
+    born: 1964
+    nationality: CHN
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos speaker, Agenda Contributor
+    - org: softbank
+      role: board
+      from: 2014
+      to: 2020
+      note: Board member
+    - org: alibaba
+      role: founder
+      from: 1999
+      to: 2019
+      note: Co-fondatore e Chairman fino 2019
+    - org: ant-group
+      role: founder
+      from: 2014
+      note: Fondatore, quota ridotta al 6% nel 2023
+    relations:
+    - person: joe-tsai
+      type: co-founder
+      note: Co-fondatori Alibaba
   jack-straw:
     born: 1946
     nationality: GBR
@@ -8241,6 +8914,13 @@ persons:
     - org: redlattice
       role: board
       from: 2023
+  james-mitchell:
+    nationality: GBR
+    affiliations:
+    - org: tencent
+      role: executive
+      from: 2011
+      note: Chief Strategy Officer
   james-murdoch:
     born: 1972
     nationality: USA
@@ -8295,6 +8975,15 @@ persons:
       from: 2005
     - org: federal-reserve-ny
       role: board
+  jamsetji-tata:
+    born: 1839
+    died: 1904
+    nationality: IND
+    affiliations:
+    - org: tata-sons
+      role: founder
+      from: 1868
+      to: 1904
   jan-hommen:
     nationality: NLD
     affiliations:
@@ -8361,6 +9050,16 @@ persons:
     - org: rand-corporation
       role: executive
       from: 2022
+  jawaharlal-nehru:
+    born: 1889
+    died: 1964
+    nationality: IND
+    affiliations:
+    - org: governo-india
+      role: leader
+      from: 1947
+      to: 1964
+      note: Primo Prime Minister, padre della nazione moderna
   jay-rockefeller:
     born: 1937
     nationality: USA
@@ -8614,6 +9313,13 @@ persons:
     born: 1953
     nationality: USA
     family: bush
+  jeet-adani:
+    born: 1997
+    nationality: IND
+    affiliations:
+    - org: adani-airports
+      role: executive
+      from: 2019
   jeff-bezos:
     born: 1964
     nationality: USA
@@ -8638,6 +9344,13 @@ persons:
     - org: washington-post
       role: owner
       from: 2013
+  jeffrey-orr:
+    nationality: CAN
+    affiliations:
+    - org: power-corporation
+      role: executive
+      from: 2020
+      note: President & CEO
   jemilah-mahmood:
     born: 1959
     nationality: MYS
@@ -8945,6 +9658,10 @@ persons:
       role: executive
       from: 2022
       note: President
+  joao-moreira-salles:
+    born: 1962
+    nationality: BRA
+    family: moreira-salles
   joao-roberto-marinho:
     born: 1953
     nationality: BRA
@@ -8982,6 +9699,18 @@ persons:
       from: 2013
       to: 2021
       note: CEO
+  joe-tsai:
+    born: 1964
+    nationality: CAN-TWN
+    affiliations:
+    - org: alibaba
+      role: founder
+      from: 1999
+      note: Co-founder, Chairman dal 2023
+    - org: brooklyn-nets
+      role: owner
+      from: 2019
+      note: Owner
   joerg-duschmale:
     born: 1985
     nationality: CHE
@@ -9229,6 +9958,13 @@ persons:
       note: pm
     - org: jpmorgan-international-council
       role: member
+  john-lo:
+    nationality: HKG
+    affiliations:
+    - org: tencent
+      role: executive
+      from: 2012
+      note: Chief Financial Officer
   john-major:
     born: 1943
     nationality: GBR
@@ -9241,6 +9977,39 @@ persons:
     - org: chatham-house
       role: board
       note: President Emeritus
+  john-manley:
+    born: 1950
+    nationality: CAN
+    affiliations:
+    - org: wef
+      role: member
+    - org: cfr
+      role: member
+      from: 2005
+      note: Co-Chair Independent Task Force on the Future of North America
+    - org: governo-canada
+      role: minister
+      from: 1993
+      to: 2003
+      note: Industry (1993-2000), Foreign Affairs (2000-2002), Finance (2002-2003), Deputy PM (2002-2003)
+    - org: trilateral-commission
+      role: chairman
+      note: Past Chair, Canadian branch
+    - org: business-council-canada
+      role: executive
+      from: 2010
+      to: 2018
+      note: President & CEO
+    - org: cibc
+      role: chairman
+      note: Past Chair CIBC, Chair CIBC Bancorp USA
+    - org: cae-inc
+      role: chairman
+      from: 2018
+      note: Chair
+    - org: telus
+      role: board
+      note: Director
   john-maynard-keynes:
     born: 1883
     died: 1946
@@ -9437,9 +10206,75 @@ persons:
     born: 1939
     nationality: BRA
     affiliations:
+    - org: swiss-re
+      role: board
+      from: 1999
+      to: 2004
+    - org: ubs
+      role: advisor
+      note: International Advisory Board
+    - org: credit-suisse
+      role: trainee
+      from: 1961
+      to: 1962
+      note: Geneva office
+    - org: ab-inbev
+      role: board
+      from: 2004
+      note: 9% stake, controlling shareholder
     - org: 3g-capital
       role: founder
       from: 2004
+    - org: restaurant-brands-international
+      role: board
+      from: 2014
+      note: Controlling shareholder via 3G Capital
+    - org: kraft-heinz
+      role: board
+      from: 2013
+      to: 2021
+      note: Director, divested 2023
+    - org: banco-garantia
+      role: founder
+      from: 1971
+      to: 1998
+      note: Co-founder with Telles and Sicupira
+    - org: gillette
+      role: board
+      from: 1998
+      to: 2005
+      note: Director, first partnership with Buffett
+    - org: lojas-americanas
+      role: board
+      note: Board member, accounting scandal 2023
+    - org: fundacao-lemann
+      role: founder
+      from: 2002
+      note: Chairman
+    - org: fundacao-estudar
+      role: founder
+      from: 1991
+    - org: nature-conservancy
+      role: member
+      note: Latin America Conservation Council
+    - org: harvard-university
+      role: alumnus
+      from: 1956
+      to: 1961
+      note: BA Economics 1961, endowed professorship
+    - org: lts-investments
+      role: founder
+      note: Investment Committee
+    relations:
+    - person: carlos-sicupira
+      type: partner
+      note: Banco Garantia, 3G Capital co-founders
+    - person: marcel-telles
+      type: partner
+      note: Banco Garantia, 3G Capital co-founders
+    - person: warren-buffett
+      type: partner
+      note: First met at Gillette board, Heinz/Kraft Heinz partnership
   joris-voorhoeve:
     born: 1945
     nationality: NLD
@@ -9687,6 +10522,15 @@ persons:
     died: 1943
     nationality: USA
     family: morgan
+  jrd-tata:
+    born: 1904
+    died: 1993
+    nationality: IND
+    affiliations:
+    - org: tata-sons
+      role: chairman
+      from: 1938
+      to: 1991
   juan-carlos-i:
     born: 1938
     nationality: ESP
@@ -9747,6 +10591,14 @@ persons:
       role: executive
       from: 2003
       note: President and CEO
+  junichi-hanzawa:
+    born: 1964
+    nationality: JPN
+    affiliations:
+    - org: mufg
+      role: executive
+      from: 2021
+      note: Deputy Chairman, President MUFG Bank; CEO dal 2026
   junio-valerio-borghese:
     born: 1906
     died: 1974
@@ -9797,6 +10649,14 @@ persons:
       role: executive
       from: 2020
       to: 2023
+  k-krithivasan:
+    born: 1963
+    nationality: IND
+    affiliations:
+    - org: tcs
+      role: executive
+      from: 2023
+      note: CEO & Managing Director
   kaja-kallas:
     born: 1977
     nationality: EST
@@ -9825,6 +10685,14 @@ persons:
     - org: glencore
       role: chairman
       from: 2021
+  karan-adani:
+    born: 1987
+    nationality: IND
+    affiliations:
+    - org: adani-ports
+      role: executive
+      from: 2016
+      note: CEO
   karin-von-hippel:
     nationality: USA
     affiliations:
@@ -9930,6 +10798,36 @@ persons:
       role: executive
       from: 2019
       note: CEO/Chairman
+  katsuya-nakanishi:
+    born: 1960
+    nationality: JPN
+    affiliations:
+    - org: mitsubishi-corp
+      role: executive
+      from: 2022
+      note: President & CEO
+    - org: mitsubishi-heavy-industries
+      role: board
+      note: Board Member
+  kazuo-ueda:
+    born: 1951
+    nationality: JPN
+    affiliations:
+    - org: bank-of-japan
+      role: chairman
+      from: 2023
+      note: Governor (32nd)
+  kazuto-uchida:
+    nationality: JPN
+    affiliations:
+    - org: mufg
+      role: executive
+      to: 2025
+      note: Chief Economist, Board Director MUFG Americas; poi President GPIF dal 2025
+    - org: gpif
+      role: chairman
+      from: 2025
+      note: President (from MUFG)
   keir-starmer:
     born: 1962
     nationality: GBR
@@ -9992,6 +10890,14 @@ persons:
       role: executive
       from: 2023
       note: SVP Innovation & Global Investment
+  kenichiro-yoshida:
+    born: 1959
+    nationality: JPN
+    affiliations:
+    - org: sony
+      role: chairman
+      from: 2018
+      note: CEO 2018-2025, Chairman 2025-
   ketevan-bochorishvili:
     nationality: GEO
     note: CEO Anaklia City
@@ -10023,6 +10929,65 @@ persons:
       role: chairman
       from: 2008
       note: Chairman since acquisition
+  kiichi-miyazawa:
+    born: 1919
+    died: 2007
+    nationality: JPN
+    affiliations:
+    - org: trilateral-commission
+      role: founder
+      from: 1973
+      note: Membro fondatore; Acting Chairman JP; speaker Londra 1980
+    - org: governo-giappone
+      role: leader
+      from: 1991
+      to: 1993
+      note: PM 78°
+    - org: governo-giappone
+      role: minister
+      from: 1986
+      to: 1988
+      note: Min. Finanze
+    - org: governo-giappone
+      role: minister
+      from: 1998
+      to: 2001
+      note: Min. Finanze; New Miyazawa Initiative $30B
+    - org: governo-giappone
+      role: minister
+      from: 1974
+      to: 1976
+      note: Min. Affari Esteri
+    - org: governo-giappone
+      role: minister
+      from: 1970
+      to: 1971
+      note: Min. Commercio e Industria (MITI)
+    - org: governo-giappone
+      role: minister
+      from: 1987
+      to: 1988
+      note: Vice PM (Gabinetto Takeshita)
+    - org: governo-giappone
+      role: legislator
+      from: 1953
+      to: 2003
+      note: Camera Alta 1953-67, Camera Bassa 1967-2003 (14 mandati)
+    - org: ldp
+      role: executive
+      from: 1955
+      to: 2003
+      note: Kochikai faction leader (successore Ikeda-Ohira-Suzuki)
+    relations:
+    - person: hayato-ikeda
+      type: protege
+      note: Protetto di Ikeda al MOF; traduttore summit JFK 1961
+    - person: taro-aso
+      type: colleague
+      note: Entrambi Min. Finanze in periodi diversi
+    - person: zenko-suzuki
+      type: colleague
+      note: Predecessore come leader Kochikai
   kim-philby:
     born: 1912
     died: 1988
@@ -10289,6 +11254,14 @@ persons:
     relations:
     - person: marika-mitsotakis
       type: spouse
+  koos-bekker:
+    born: 1952
+    nationality: ZAF
+    affiliations:
+    - org: tencent
+      role: board
+      from: 2001
+      note: Non-Executive Director
   kostas-bakoyannis:
     born: 1978
     nationality: GRC
@@ -10347,6 +11320,51 @@ persons:
       note: Director General
     - org: adevinta
       role: board
+  kumar-mangalam-birla:
+    born: 1967
+    nationality: IND
+    family: birla
+    affiliations:
+    - org: wef
+      role: member
+    - org: reserve-bank-india
+      role: board
+      note: Former Director, Central Board
+    - org: iim-ahmedabad
+      role: chairman
+      from: 2017
+      to: 2022
+      note: Chairman Board of Governors
+    - org: aditya-birla-group
+      role: chairman
+      from: 1995
+    - org: ultratech-cement
+      role: chairman
+      from: 1995
+      note: Chairman, leader mondiale cemento 152 MTPA
+    - org: hindalco
+      role: chairman
+      from: 1995
+    - org: grasim
+      role: chairman
+      from: 1995
+    - org: aditya-birla-capital
+      role: chairman
+      from: 1995
+      note: Chairman, Financial services arm
+    - org: vodafone-idea
+      role: chairman
+      from: 2018
+      to: 2021
+      note: Non-executive Chairman, dimesso 2021
+    - org: bits-pilani
+      role: chairman
+      note: Chancellor
+    - org: rbi
+      role: board
+      from: 2006
+      to: 2012
+      note: Director Central Board, Chairman Staff Sub-Committee
   kurt-bock:
     nationality: DEU
     affiliations:
@@ -10733,6 +11751,26 @@ persons:
     born: 1955
     nationality: SGP
     family: lee-singapore
+  lei-jun:
+    born: 1969
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: legislator
+      from: 2013
+      note: NPC Deputy
+    - org: xiaomi
+      role: founder
+      from: 2010
+      note: Founder, Chairman, CEO
+    - org: kingsoft
+      role: chairman
+      from: 2011
+      note: Chairman; CEO 1998-2007
+    - org: shunwei-capital
+      role: founder
+      from: 2011
+      note: Co-founder, Chairman
   leo-varadkar:
     born: 1979
     nationality: IRL
@@ -10896,6 +11934,25 @@ persons:
     - org: boyu-capital
       role: investor
       note: Early investor via Li Ka Shing Foundation, helped raise $1B first fund
+  li-qiang:
+    born: 1959
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: leader
+      from: 2023
+      note: 'Premier, PSC #2'
+    - org: ccp
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
+  li-ronghua:
+    nationality: CHN
+    affiliations:
+    - org: china-mobile
+      role: executive
+      from: 2020
+      note: CFO
   li-shufu:
     born: 1963
     nationality: CHN
@@ -10904,6 +11961,18 @@ persons:
     - org: geely
       role: founder-chairman
       from: 1986
+  li-xi:
+    born: 1956
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: leader
+      from: 2022
+      note: 'CCDI Secretary, PSC #7, anti-corruzione'
+    - org: ccp
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
   liad-avraham:
     nationality: ISR
     note: Paragon VP Research
@@ -10912,6 +11981,13 @@ persons:
       role: executive
       from: 2019
       note: VP Research
+  liang-hua:
+    nationality: CHN
+    affiliations:
+    - org: huawei
+      role: chairman
+      from: 2019
+      note: Chairman of the Board
   liang-pei:
     nationality: CHN
     note: Vice Dir Ministero Ecologia Cina
@@ -10919,6 +11995,26 @@ persons:
     - org: wef
       role: ygl
       from: 2024
+  liang-rubo:
+    born: 1983
+    nationality: CHN
+    affiliations:
+    - org: bytedance
+      role: executive
+      from: 2012
+      note: Co-founder, CEO since 2021
+  liao-lin:
+    born: 1966
+    nationality: CHN
+    affiliations:
+    - org: icbc
+      role: chairman
+      from: 2024
+    - org: china-construction-bank
+      role: executive
+      from: 1989
+      to: 2019
+      note: Vice President, CRO
   licio-gelli:
     born: 1919
     died: 2015
@@ -10977,6 +12073,24 @@ persons:
     - org: philanthropy-asia-alliance
       role: chairman
       note: Chairman
+  lin-bin:
+    born: 1968
+    nationality: CHN
+    affiliations:
+    - org: microsoft
+      role: executive
+      from: 1995
+      to: 2006
+      note: Engineering Director
+    - org: google
+      role: executive
+      from: 2006
+      to: 2010
+      note: Engineering Director
+    - org: xiaomi
+      role: founder
+      from: 2010
+      note: Co-founder, Vice Chairman
   lionel-jospin:
     born: 1937
     nationality: FRA
@@ -10991,6 +12105,36 @@ persons:
     died: 1879
     nationality: GBR
     family: rothschild
+  liu-chuanzhi:
+    born: 1944
+    nationality: CHN
+    affiliations:
+    - org: lenovo
+      role: founder
+      from: 1984
+      note: Founder, Chairman 1984-2004, 2009-2011
+    - org: legend-holdings
+      role: founder
+      from: 1984
+      to: 2019
+      note: Founder, Chairman until 2019
+  liu-de-xiaomi:
+    born: 1973
+    nationality: CHN
+    affiliations:
+    - org: xiaomi
+      role: founder
+      from: 2010
+      note: Co-founder, SVP
+  liu-liange:
+    born: 1961
+    nationality: CHN
+    affiliations:
+    - org: bank-of-china
+      role: chairman
+      from: 2019
+      to: 2023
+      note: Condannato per corruzione 2024
   liv-garfield:
     nationality: GBR
     affiliations:
@@ -11426,6 +12570,13 @@ persons:
       role: chairman
       from: 2020
       note: Chair IMFC (first woman)
+  maggie-wu:
+    nationality: CHN
+    affiliations:
+    - org: alibaba
+      role: board
+      from: 2019
+      note: Board member, ex-CFO
   maia-sandu:
     born: 1972
     nationality: MDA
@@ -11460,6 +12611,14 @@ persons:
       role: chairman
       from: 1991
       note: President
+  makoto-uchida:
+    nationality: JPN
+    affiliations:
+    - org: nissan
+      role: executive
+      from: 2019
+      to: 2025
+      note: CEO 2019-2025, resigned amid crisis
   malcolm-rifkind:
     born: 1946
     nationality: GBR
@@ -11481,6 +12640,21 @@ persons:
       note: Finance Minister
   manfred-schlickenrieder:
     nationality: DEU
+  manmohan-singh:
+    born: 1932
+    died: 2024
+    nationality: IND
+    affiliations:
+    - org: imf
+      role: advisor
+      from: 1991
+      to: 1996
+      note: Negoziatore riforme strutturali 1991, bailout IMF
+    - org: governo-india
+      role: leader
+      from: 1991
+      to: 2014
+      note: Finance Minister 1991-96 (riforme), Prime Minister 2004-14
   mansoor-al-mahmoud:
     nationality: QAT
     affiliations:
@@ -11663,11 +12837,19 @@ persons:
       role: founder
       from: 1929
   marcel-telles:
+    born: 1950
     nationality: BRA
     affiliations:
+    - org: ab-inbev
+      role: board
+      from: 2004
     - org: 3g-capital
       role: founder
       from: 2004
+    - org: banco-garantia
+      role: founder
+      from: 1971
+      to: 1998
   marcelo-claure:
     nationality: BOL
     affiliations:
@@ -12375,6 +13557,27 @@ persons:
       role: executive
       to: 2007
       note: CFO, key in IBM PC acquisition 2005
+  masaaki-shirakawa:
+    born: 1949
+    nationality: JPN
+    affiliations:
+    - org: bank-of-japan
+      role: chairman
+      from: 2008
+      to: 2013
+      note: Governor (30th)
+  masahiro-kihara:
+    born: 1965
+    nationality: JPN
+    affiliations:
+    - org: wef
+      role: member
+      from: 2025
+      note: Davos 2025 speaker
+    - org: mizuho
+      role: executive
+      from: 2022
+      note: President & Group CEO
   masao-koyama:
     nationality: JPN
     note: Head CDR Mitsubishi Corporation
@@ -12382,6 +13585,24 @@ persons:
     - org: wef
       role: ygl
       from: 2024
+  masaru-ibuka:
+    born: 1908
+    died: 1997
+    nationality: JPN
+    affiliations:
+    - org: sony
+      role: founder
+      from: 1946
+      to: 1997
+      note: Co-founder, Honorary Chairman
+  masataka-miyazono:
+    nationality: JPN
+    affiliations:
+    - org: gpif
+      role: chairman
+      from: 2020
+      to: 2025
+      note: President
   masayoshi-son:
     born: 1957
     nationality: JPN
@@ -12589,6 +13810,17 @@ persons:
       role: executive
       from: 2021
       note: Director General. Reappointed 2025
+  meng-wanzhou:
+    nationality: CHN
+    affiliations:
+    - org: huawei
+      role: executive
+      from: 2011
+      note: CFO, Deputy Chair, Rotating Chair Oct 2025 - Mar 2026
+    relations:
+    - person: ren-zhengfei
+      type: child
+      note: Daughter of Ren Zhengfei
   mette-frederiksen:
     born: 1977
     nationality: DNK
@@ -12639,6 +13871,13 @@ persons:
       role: chairman
       from: 2015
       note: Chairman Supervisory Board (CEO 2003-2015)
+  michael-evans:
+    nationality: CAN
+    affiliations:
+    - org: alibaba
+      role: executive
+      from: 2015
+      note: President
   michael-hayden:
     born: 1945
     nationality: USA
@@ -13231,12 +14470,42 @@ persons:
     affiliations:
     - org: wef
       role: board
+    - org: bank-of-america
+      role: board
+      from: 2011
+      to: 2013
+      note: First non-American board member; now Global Advisory Council
+    - org: mckinsey
+      role: advisor
+      note: International Advisory Council
     - org: reliance-industries
       role: chairman
+    - org: network18
+      role: executive
+      note: Owner via Reliance (56.89%)
+    - org: brookings
+      role: advisor
+      note: International Advisory Council
     - org: council-inclusive-capitalism
       role: steering
       from: 2020
       note: Guardian - Reliance Industries
+    - org: stanford
+      role: advisor
+      note: Global Advisory Council
+    - org: british-asian-trust
+      role: chairman
+      note: India Advisory Council
+    - org: reliance-jio
+      role: founder
+      from: 2016
+    - org: reliance-retail
+      role: founder
+    - org: reliance-foundation
+      role: founder
+    - org: mumbai-indians
+      role: founder
+      note: IPL franchise owner
   murray-auchincloss:
     nationality: GBR
     affiliations:
@@ -13256,6 +14525,43 @@ persons:
       role: minister
       from: 2019
       note: Vice PM, Digital Transformation
+  n-chandrasekaran:
+    born: 1963
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: chairman
+      from: 2015
+      to: 2016
+      note: Chairperson IT Industry Governors
+    - org: tata-motors
+      role: chairman
+      from: 2017
+    - org: jaguar-land-rover
+      role: chairman
+      from: 2017
+    - org: tata-sons
+      role: chairman
+      from: 2017
+    - org: tcs
+      role: executive
+      from: 2009
+      to: 2017
+      note: CEO
+    - org: tcs
+      role: chairman
+      from: 2017
+      note: Chairman, ex-CEO
+    - org: tata-steel
+      role: chairman
+      from: 2017
+    - org: air-india
+      role: chairman
+      from: 2022
+      note: Post-acquisizione Tata
+    - org: rbi
+      role: board
+      from: 2016
   nadia-ahmad-samdin:
     nationality: SGP
     note: Membro Parlamento Singapore
@@ -13359,6 +14665,75 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader, Minister Education
+  nandan-nilekani:
+    born: 1955
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: board
+      from: 2006
+      note: Foundation Board
+    - org: infosys
+      role: founder
+      from: 1981
+      note: Co-founder
+    - org: infosys
+      role: chairman
+      from: 2017
+      note: Non-executive Chairman
+    - org: governo-india
+      role: executive
+      from: 2009
+      to: 2014
+      note: Chairman UIDAI (Aadhaar), rank Cabinet Minister
+  narayana-murthy:
+    born: 1946
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: chairman
+      from: 2005
+      to: 2005
+      note: Co-Chairman Davos 2005
+    - org: hsbc
+      role: board
+      note: Independent Director
+    - org: unilever
+      role: board
+      from: 2007
+      to: 2010
+    - org: ford-foundation
+      role: board
+    - org: infosys
+      role: founder
+      from: 1981
+      note: CEO 1981-2002, Chairman 2002-2006, Chairman Emeritus 2011-2013, Executive Chairman 2013-2014
+    - org: un-foundation
+      role: board
+    - org: institute-advanced-study
+      role: board
+    - org: iim-ahmedabad
+      role: chairman
+      note: Chairman Governing Board
+    - org: public-health-foundation-india
+      role: chairman
+      note: Chairman Governing Board
+    - org: catamaran-ventures
+      role: founder
+    - org: dbs-bank
+      role: board
+  narendra-modi:
+    born: 1950
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: member
+      from: 2018
+      note: Keynote speaker Davos 2018, 2021, 2022
+    - org: governo-india
+      role: leader
+      from: 2014
+      note: Prime Minister, 3 termini consecutivi (Modi 1.0, 2.0, 3.0)
   nasser-al-khelaifi:
     born: 1973
     nationality: QAT
@@ -13843,6 +15218,13 @@ persons:
       from: 2023
       to: 2022
       note: President
+  ning-min:
+    nationality: CHN
+    affiliations:
+    - org: legend-holdings
+      role: chairman
+      from: 2020
+      note: Chairman since 2020
   nino-enukidze:
     nationality: GEO
     note: Rettore Business and Technology University Georgia
@@ -13857,6 +15239,18 @@ persons:
       role: executive
       from: 2023
       note: CEO
+  nirmala-sitharaman:
+    born: 1959
+    nationality: IND
+    affiliations:
+    - org: imf
+      role: member
+      from: 2019
+      note: Membro IMFC, rappresenta constituency India-Bangladesh-Bhutan-Sri Lanka
+    - org: governo-india
+      role: minister
+      from: 2019
+      note: Finance Minister, membro IMFC rappresenta India a IMF/World Bank
   nissim-zuaretz:
     nationality: ISR
     affiliations:
@@ -13864,6 +15258,38 @@ persons:
       role: chairman
       from: 2024
       note: Presidente attuale
+  nita-ambani:
+    born: 1963
+    nationality: IND
+    affiliations:
+    - org: ioc
+      role: member
+      from: 2016
+      note: First Indian woman member
+    - org: reliance-industries
+      role: board
+      from: 2014
+    - org: reliance-foundation
+      role: founder
+      from: 2010
+  nobusuke-kishi:
+    born: 1896
+    died: 1987
+    nationality: JPN
+    family: kishi-sato-abe
+    affiliations:
+    - org: governo-giappone
+      role: leader
+      from: 1957
+      to: 1960
+      note: Prime Minister
+  noel-tata:
+    born: 1957
+    nationality: IND
+    affiliations:
+    - org: tata-trusts
+      role: chairman
+      from: 2024
   norbert-becker:
     nationality: LUX
     affiliations:
@@ -14193,6 +15619,7 @@ persons:
     - person: yingluck-shinawatra
       type: niece
   pan-gongsheng:
+    born: 1963
     nationality: CHN
     note: PBOC Governor dal 2023, ex SAFE Administrator 2016-2023
     affiliations:
@@ -14201,6 +15628,10 @@ persons:
       from: 2016
       to: 2023
       note: Administrator
+    - org: pboc
+      role: executive
+      from: 2023
+      note: Governor
   paola-lanzarini:
     nationality: ITA
     affiliations:
@@ -14372,6 +15803,15 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  parmanand-hinduja:
+    born: 1901
+    died: 1971
+    nationality: IND
+    family: hinduja
+    affiliations:
+    - org: hinduja-group
+      role: founder
+      from: 1914
   pascal-soriot:
     born: 1959
     nationality: FRA-AUS
@@ -14487,6 +15927,48 @@ persons:
       role: chairman
       from: 2020
       note: Chairman Board of Directors
+  paul-desmarais-jr:
+    born: 1954
+    nationality: CAN
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Attended 2006, 2008
+    - org: cfr
+      role: advisory-board
+      note: Global Board of Advisors
+    - org: brookings
+      role: board
+      note: Senior Trustee, former Co-Chair International Advisory Council
+    - org: gbl
+      role: chairman
+      from: 2019
+      to: 2025
+      note: Vice-Chairman from 2025
+    - org: power-corporation
+      role: chairman
+      from: 1996
+      note: Co-CEO 1996-2020, Chairman
+    - org: business-council-canada
+      role: chairman
+      note: Former Chairman
+    relations:
+    - person: helene-desmarais
+      type: spouse
+  paul-desmarais-sr:
+    born: 1927
+    died: 2013
+    nationality: CAN
+    affiliations:
+    - org: power-corporation
+      role: founder
+      from: 1968
+      to: 2013
+      note: Chairman & CEO until 1996, then Chairman Executive Committee
+    relations:
+    - person: albert-frere
+      type: business-partner
+      note: Pargesa-GBL partnership
   paul-dubrule:
     born: 1934
     nationality: FRA
@@ -14572,6 +16054,73 @@ persons:
       role: minister
       from: 2001
       to: 2005
+  pb-balaji:
+    born: 1970
+    nationality: IND
+    affiliations:
+    - org: tata-motors
+      role: executive
+      from: 2017
+      to: 2025
+      note: Group CFO
+    - org: jaguar-land-rover
+      role: executive
+      from: 2025
+      note: CEO (primo indiano a guidare JLR)
+  pedro-moreira-salles:
+    born: 1959
+    nationality: BRA
+    family: moreira-salles
+    affiliations:
+    - org: wef
+      role: member
+      note: Featured business leader
+    - org: carnegie-endowment
+      role: member
+      note: G-50 sponsor
+    - org: itau-unibanco
+      role: chairman
+      from: 2008
+      note: Co-Chairman of the Board
+    - org: harvard-university
+      role: alumnus
+      from: 1997
+      note: Owner/President Management Program HBS
+    - org: inter-american-dialogue
+      role: member
+      note: Group of Fifty (G-50)
+    - org: cbmm
+      role: board
+      note: Family controlling shareholder
+    - org: unibanco
+      role: executive
+      from: 1989
+      to: 2008
+      note: Board 1989-1997, Chairman Board 1997-2004, President 2004-2008
+    - org: cambuhy-investimentos
+      role: executive
+      note: Partner and Co-CEO
+    - org: febraban
+      role: chairman
+      note: Chairman Brazilian Federation of Banks
+    - org: insper
+      role: board
+      note: Supervisory Board member
+    - org: ucla
+      role: alumnus
+      note: BA Economics and History, magna cum laude
+    - org: yale-university
+      role: alumnus
+      note: Graduate Program International Relations
+    relations:
+    - person: fernando-moreira-salles
+      type: sibling
+    - person: joao-moreira-salles
+      type: sibling
+    - person: walter-salles
+      type: sibling
+    - person: walther-moreira-salles
+      type: child
   pehr-gyllenhammar:
     born: 1935
     nationality: SWE
@@ -15284,6 +16833,29 @@ persons:
     born: 1980
     nationality: RUS
     note: Daughter of Valentin Yumashev, ex-wife Oleg Deripaska 2001-2018, Forward Media Group
+  pony-ma:
+    born: 1971
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: legislator
+      from: 2013
+      to: 2022
+      note: NPC delegate
+    - org: ccp
+      role: member
+    - org: tencent
+      role: founder
+      from: 1998
+      note: Co-founder, Chairman, CEO
+    - org: ma-huateng-global-foundation
+      role: founder
+      from: 2016
+      note: Transferred $2.3B in Tencent shares
+    relations:
+    - person: jack-ma
+      type: peer
+      note: Fellow tech billionaire, both NPC delegates, both disciplined by CCP
   poppy-gustafsson:
     born: 1982
     nationality: GBR
@@ -15305,6 +16877,23 @@ persons:
       role: leader
       from: 2024
       note: Presidente
+  prakash-hinduja:
+    born: 1945
+    nationality: IND-CHE
+    family: hinduja
+    affiliations:
+    - org: wef
+      role: member
+    - org: hinduja-group
+      role: chairman
+      note: Chairman Europe
+  pranav-adani:
+    born: 1979
+    nationality: IND
+    affiliations:
+    - org: adani-enterprises
+      role: executive
+      note: Managing Director
   prannoy-roy:
     born: 1949
     nationality: IND
@@ -15361,6 +16950,12 @@ persons:
       from: 1961
       to: 1976
       note: First President
+  priti-adani:
+    born: 1965
+    nationality: IND
+    affiliations:
+    - org: adani-foundation
+      role: chairman
   priyanka-chopra:
     born: 1982
     nationality: IND
@@ -15501,6 +17096,48 @@ persons:
     - org: wef
       role: ygl
       from: 2022
+  raghuram-rajan:
+    born: 1963
+    nationality: IND
+    affiliations:
+    - org: federal-reserve
+      role: advisor
+      note: NY Fed President Advisory Board
+    - org: bis
+      role: chairman
+      from: 2015
+      to: 2016
+      note: Vice-Chairman
+    - org: world-bank
+      role: advisor
+      note: Advisory roles
+    - org: imf
+      role: executive
+      from: 2003
+      to: 2006
+      note: Chief Economist & Director of Research
+    - org: group-of-thirty
+      role: chairman
+      from: 2021
+      note: Chairman
+    - org: reserve-bank-india
+      role: executive
+      from: 2013
+      to: 2016
+      note: 23rd Governor
+    - org: chicago-booth
+      role: executive
+      from: 1991
+      note: Katherine Dusak Miller Distinguished Service Professor of Finance
+    - org: pimco
+      role: advisor
+      from: 2025
+      note: Global Advisory Board
+    - org: american-finance-association
+      role: chairman
+      from: 2011
+      to: 2011
+      note: President
   rahul-joshi:
     nationality: IND
     note: Network18 MD/CEO 2018-. Ex-Economic Times editor. Group Editor-in-Chief
@@ -15517,6 +17154,12 @@ persons:
       from: 2017
       to: 2024
       note: CEO Vision Fund
+  rajesh-adani:
+    nationality: IND
+    affiliations:
+    - org: adani-group
+      role: executive
+      note: Managing Director
   rajesh-subramaniam:
     nationality: USA
     affiliations:
@@ -15652,6 +17295,10 @@ persons:
     note: Chairman Tata Sons 1991-2012. Acquired JLR 2008. Philanthropist.
     affiliations:
     - org: tata-motors
+      role: chairman
+      from: 1991
+      to: 2012
+    - org: tata-sons
       role: chairman
       from: 1991
       to: 2012
@@ -15797,6 +17444,25 @@ persons:
       from: 1992
       to: 2001
       note: CEO, removed by Putin
+  ren-zhengfei:
+    born: 1944
+    nationality: CHN
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos speaker
+    - org: ccp
+      role: member
+      from: 1978
+      note: Invitato al 12° Congresso Nazionale CCP 1982
+    - org: huawei
+      role: founder
+      from: 1987
+      note: Founder, owns ~0.65% via ESOP
+    relations:
+    - person: meng-wanzhou
+      type: parent
+      note: Figlia
   renate-weber:
     born: 1955
     nationality: ROU
@@ -16526,6 +18192,17 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  s-jaishankar:
+    born: 1955
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: member
+      note: Partecipante regolare Davos
+    - org: governo-india
+      role: minister
+      from: 2019
+      note: External Affairs Minister, ex-Foreign Secretary e ambasciatore
   safak-pavey:
     born: 1976
     nationality: TUR
@@ -16540,6 +18217,14 @@ persons:
     - org: oracle
       role: executive
       from: 2014
+  sagar-adani:
+    born: 1994
+    nationality: IND
+    affiliations:
+    - org: adani-green-energy
+      role: board
+      from: 2015
+      note: Executive Director
   sahar-albazar:
     nationality: EGY
     note: Parlamentare, Vice Chair Affari Esteri
@@ -16547,6 +18232,14 @@ persons:
     - org: wef
       role: ygl
       from: 2022
+  salil-parekh:
+    born: 1964
+    nationality: IND
+    affiliations:
+    - org: infosys
+      role: executive
+      from: 2018
+      note: CEO & Managing Director
   salman-bin-abdulaziz:
     born: 1935
     nationality: SAU
@@ -16646,6 +18339,9 @@ persons:
       role: executive
       from: 2024
       note: CEO
+  sanjay-hinduja:
+    nationality: GBR
+    family: hinduja
   sanjay-pugalia:
     nationality: IND
     note: AMG Media CEO. Ex-CNBC Awaaz, The Quint. Led NDTV acquisition for Adani
@@ -17089,6 +18785,21 @@ persons:
     - org: wef
       role: ygl
       from: 2024
+  shigeru-yoshida:
+    born: 1878
+    died: 1967
+    nationality: JPN
+    affiliations:
+    - org: governo-giappone
+      role: leader
+      from: 1946
+      to: 1947
+      note: PM 45°
+    - org: governo-giappone
+      role: leader
+      from: 1948
+      to: 1954
+      note: PM 48°-51°
   shiho-azuma:
     nationality: JPN
     note: CEO Lily MedTech
@@ -17121,6 +18832,36 @@ persons:
     - org: governo-corea
       role: minister
       note: Chairman Financial Services Commission, Vice Minister Economy
+  shintaro-abe:
+    born: 1924
+    died: 1991
+    nationality: JPN
+    family: kishi-sato-abe
+    affiliations:
+    - org: governo-giappone
+      role: minister
+      from: 1982
+      to: 1986
+      note: Foreign Minister
+  shinzo-abe:
+    born: 1954
+    died: 2022
+    nationality: JPN
+    family: kishi-sato-abe
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos speaker 2014, 2019
+    - org: governo-giappone
+      role: leader
+      from: 2006
+      to: 2007
+      note: Prime Minister (1st term)
+    - org: governo-giappone
+      role: leader
+      from: 2012
+      to: 2020
+      note: Prime Minister (2nd term) - longest serving
   shmuel-schnitzer:
     nationality: ISR
     affiliations:
@@ -17130,6 +18871,21 @@ persons:
     relations:
     - person: moshe-schnitzer
       type: son
+  shom-hinduja:
+    nationality: IND
+    family: hinduja
+  shou-chew:
+    born: 1983
+    nationality: SGP
+    affiliations:
+    - org: bytedance
+      role: executive
+      from: 2021
+      note: CFO
+    - org: tiktok
+      role: executive
+      from: 2021
+      note: CEO
   shriti-vadera:
     nationality: GBR-UGA
     affiliations:
@@ -17285,6 +19041,16 @@ persons:
     - org: wef
       role: ygl
       from: 2021
+  soichiro-honda:
+    born: 1906
+    died: 1991
+    nationality: JPN
+    affiliations:
+    - org: honda
+      role: founder
+      from: 1948
+      to: 1973
+      note: Founder, President & CEO
   somchai-wongsawat:
     born: 1947
     nationality: THA
@@ -17372,6 +19138,15 @@ persons:
       from: 2010
       to: 2016
       note: Managing Director & COO
+  srichand-hinduja:
+    born: 1935
+    died: 2023
+    nationality: IND-GBR
+    family: hinduja
+    affiliations:
+    - org: hinduja-group
+      role: chairman
+      to: 2023
   stav-shaffir:
     born: 1985
     nationality: ISR
@@ -17720,6 +19495,25 @@ persons:
       from: 2009
       to: 2021
       note: Trustee
+    - org: harvard
+      role: advisor
+      note: Global Advisory Council
+    - org: bt-group
+      role: board
+      from: 2025
+      note: Non-Executive Director; Bharti 24.5% stake
+    - org: gsma
+      role: chairman
+      from: 2017
+      to: 2018
+      note: First Indian GSMA Chairman; Board 2005-2008
+    - org: eutelsat
+      role: chairman
+      from: 2023
+      note: Co-Chairman Eutelsat Group (merger OneWeb)
+    - org: broadband-commission
+      role: member
+      note: Commissioner ITU/UNESCO
   suphachai-chearavanont:
     nationality: THA
     family: chearavanont
@@ -17796,6 +19590,39 @@ persons:
     died: 1930
     nationality: USA
     family: dupont
+  tadashi-yamamoto:
+    born: 1936
+    died: 2012
+    nationality: JPN
+    affiliations:
+    - org: cfr
+      role: member
+      note: Member; commemorato da CFR alla morte
+    - org: trilateral-commission
+      role: executive
+      from: 1973
+      to: 2012
+      note: Membro fondatore; Japan/Pacific Asia Director per 40 anni
+    - org: governo-giappone
+      role: advisor
+      from: 1999
+      to: 2000
+      note: Exec. Dir. PM Commission on Japan Goals 21st Century (Obuchi)
+    - org: brookings
+      role: member
+      note: Mansfield Lecture 2000
+    - org: jcie
+      role: founder
+      from: 1970
+      to: 2012
+      note: Founder & President fino alla morte
+    relations:
+    - person: david-rockefeller
+      type: colleague
+      note: Convocato a Pocantico 1972; co-fondatore Trilateral
+    - person: kiichi-miyazawa
+      type: colleague
+      note: Entrambi fondatori Trilateral Giappone
   takashi-sano:
     nationality: JPN
     note: CIO MUFG Innovation Partners
@@ -17803,6 +19630,16 @@ persons:
     - org: wef
       role: ygl
       from: 2025
+  takeo-fujisawa:
+    born: 1910
+    died: 1988
+    nationality: JPN
+    affiliations:
+    - org: honda
+      role: founder
+      from: 1949
+      to: 1973
+      note: Co-founder, Executive VP
   tania-singer:
     born: 1969
     nationality: DEU
@@ -17816,6 +19653,72 @@ persons:
     - org: wef
       role: ygl
       from: 2024
+  taro-aso:
+    born: 1940
+    nationality: JPN
+    affiliations:
+    - org: wef
+      role: member
+      from: 2009
+      note: Davos 2009 - Special Address come PM
+    - org: governo-giappone
+      role: leader
+      from: 2008
+      to: 2009
+      note: PM 92°
+    - org: governo-giappone
+      role: minister
+      from: 2012
+      to: 2021
+      note: Deputy PM, Min. Finanze (record durata)
+    - org: governo-giappone
+      role: minister
+      from: 2005
+      to: 2007
+      note: Min. Affari Esteri
+    - org: governo-giappone
+      role: minister
+      from: 2003
+      to: 2005
+      note: Min. Affari Interni e Comunicazioni
+    - org: governo-giappone
+      role: legislator
+      from: 1979
+      note: Deputato Fukuoka 8°, 15 mandati
+    - org: world-bank
+      role: member
+      from: 2012
+      to: 2021
+      note: Rappresentante Giappone come Min. Finanze
+    - org: imf
+      role: member
+      from: 2012
+      to: 2021
+      note: Rappresentante Giappone come Min. Finanze
+    - org: ldp
+      role: executive
+      from: 2021
+      to: 2024
+      note: Vice Presidente LDP
+    - org: ldp
+      role: advisor
+      from: 2024
+      note: Senior Advisor; capo fazione Shikokai
+    - org: aso-group
+      role: executive
+      from: 1973
+      to: 1979
+      note: President & CEO Aso Cement
+    relations:
+    - person: shigeru-yoshida
+      type: grandchild
+      note: Nonno materno
+    - person: shinzo-abe
+      type: political ally
+      note: Deputy PM sotto Abe; leader Abenomics insieme
+    - person: zenko-suzuki
+      type: son-in-law
+      note: Suocero (padre della moglie Chikako)
   tatyana-yumasheva:
     born: 1960
     nationality: RUS-AUT
@@ -18009,6 +19912,14 @@ persons:
       role: executive
       from: 2027
       note: CEO designato
+  thomas-daquino:
+    nationality: CAN
+    affiliations:
+    - org: business-council-canada
+      role: executive
+      from: 1981
+      to: 2009
+      note: CEO (founder era)
   thomas-drake:
     born: 1957
     nationality: USA
@@ -18320,6 +20231,18 @@ persons:
   torbjorn-tornqvist:
     nationality: SWE
     note: Gunvor co-founder, bought out Timchenko 2014
+  toru-nakashima:
+    born: 1963
+    nationality: JPN
+    affiliations:
+    - org: smfg
+      role: executive
+      from: 2023
+      note: President & Group CEO
+    - org: jefferies
+      role: board
+      from: 2024
+      note: Director
   tos-chirathivat:
     born: 1964
     nationality: THA
@@ -18332,6 +20255,26 @@ persons:
       role: executive
       from: 2013
       note: CEO
+  toshihiko-fukui:
+    born: 1935
+    nationality: JPN
+    affiliations:
+    - org: bis
+      role: board
+      note: Director
+    - org: bank-of-japan
+      role: chairman
+      from: 2003
+      to: 2008
+      note: Governor (29th)
+  toshihiro-mibe:
+    born: 1961
+    nationality: JPN
+    affiliations:
+    - org: honda
+      role: executive
+      from: 2021
+      note: President & CEO
   traian-basescu:
     born: 1951
     nationality: ROU
@@ -18757,6 +20700,8 @@ persons:
       from: 1988
       to: 2003
       note: Amministratore Delegato
+  vinod-adani:
+    nationality: IND
   vitali-klitschko:
     born: 1971
     nationality: UKR
@@ -19071,6 +21016,23 @@ persons:
       from: 1899
       to: 1910
       note: MP Aylesbury, Liberal Unionist
+  walter-salles:
+    born: 1956
+    nationality: BRA
+    family: moreira-salles
+  walther-moreira-salles:
+    born: 1912
+    died: 2001
+    nationality: BRA
+    family: moreira-salles
+    affiliations:
+    - org: governo-brasil
+      role: minister
+      note: Ambassador to USA 1950s, Finance Minister 1961-1963
+    - org: unibanco
+      role: founder
+      from: 1940
+      to: 2001
   wang-chuanfu:
     born: 1966
     nationality: CHN
@@ -19087,6 +21049,39 @@ persons:
     - org: wef
       role: ygl
       from: 2021
+  wang-huning:
+    born: 1955
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: leader
+      from: 2023
+      note: 'CPPCC Chairman, PSC #4, ideologo'
+    - org: ccp
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
+  wang-yi:
+    born: 1953
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: minister
+      from: 2023
+      note: Foreign Minister (reinstated after Qin Gang)
+  wang-zhiheng:
+    born: 1973
+    nationality: CHN
+    affiliations:
+    - org: bank-of-china
+      role: executive
+      from: 2021
+      to: 2024
+      note: Executive Vice President
+    - org: agricultural-bank-of-china
+      role: executive
+      from: 2024
+      note: President, Vice Chairman
   warren-buffett:
     born: 1930
     nationality: USA
@@ -19521,6 +21516,20 @@ persons:
     - org: ccp
       role: general-secretary
       from: 2012
+  xu-chenye:
+    nationality: CHN
+    affiliations:
+    - org: tencent
+      role: founder
+      from: 1998
+      note: Co-founder, CIO
+  xu-zhijun:
+    nationality: CHN
+    affiliations:
+    - org: huawei
+      role: chairman
+      from: 2018
+      note: Deputy Chair, Rotating Chairman Apr-Sep 2025
   yair-goldfinger:
     nationality: ISR
     note: Cofondatore ICQ
@@ -19528,6 +21537,18 @@ persons:
     - org: wef
       role: ygl
       from: 2009
+  yang-jie:
+    born: 1962
+    nationality: CHN
+    affiliations:
+    - org: china-mobile
+      role: chairman
+      from: 2019
+      to: 2025
+    - org: china-telecom
+      role: chairman
+      from: 2015
+      to: 2019
   yannick-bollore:
     born: 1980
     nationality: FRA
@@ -19757,6 +21778,21 @@ persons:
     - org: bein-media
       role: executive
       note: CEO
+  yu-chengdong:
+    nationality: CHN
+    affiliations:
+    - org: huawei
+      role: executive
+      from: 2011
+      note: Executive Director, CEO Consumer Business Group
+  yu-minliang:
+    born: 1960
+    nationality: CHN
+    affiliations:
+    - org: jin-jiang
+      role: executive
+      from: 2019
+      note: Chairman & CEO
   yuri-kovalchuk:
     born: 1951
     nationality: RUS
@@ -19860,12 +21896,93 @@ persons:
       role: board
       from: 1981
       note: Counselor & Trustee
+  zeng-liqing:
+    nationality: CHN
+  zenko-suzuki:
+    born: 1911
+    died: 2004
+    nationality: JPN
+    affiliations:
+    - org: governo-giappone
+      role: leader
+      from: 1980
+      to: 1982
+      note: PM 70°
+  zhang-hui-boc:
+    nationality: CHN
+    affiliations:
+    - org: bank-of-china
+      role: executive
+      from: 2024
+      note: President
+  zhang-jinliang:
+    born: 1969
+    nationality: CHN
+    affiliations:
+    - org: bank-of-china
+      role: executive
+      from: 2003
+      to: 2016
+      note: EVP, GM Beijing Branch
+    - org: china-construction-bank
+      role: chairman
+      from: 2024
+    - org: postal-savings-bank-china
+      role: chairman
+      from: 2019
+      to: 2022
   zhang-xiyong:
     nationality: CHN
     affiliations:
     - org: baic
       role: executive
       note: General Manager (CEO)
+  zhang-yi-ccb:
+    nationality: CHN
+    affiliations:
+    - org: china-construction-bank
+      role: executive
+      from: 2024
+      note: President
+  zhang-yiming:
+    born: 1983
+    nationality: CHN
+    affiliations:
+    - org: bytedance
+      role: founder
+      from: 2012
+      to: 2021
+      note: Founder, CEO until 2021, owns ~21% with >50% voting rights
+    relations:
+    - person: jack-ma
+      type: peer
+      note: Fellow tech billionaire, both moved abroad post-crackdown
+    - person: liang-rubo
+      type: colleague
+      note: College roommates at Nankai University, co-founders ByteDance
+    - person: pony-ma
+      type: peer
+      note: Fellow tech billionaire, surpassed as China richest 2025
+  zhang-zhidong:
+    nationality: CHN
+    affiliations:
+    - org: tencent
+      role: founder
+      from: 1998
+      to: 2014
+      note: Co-founder, CTO
+  zhao-leji:
+    born: 1957
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: leader
+      from: 2023
+      note: 'NPC Chairman, PSC #3'
+    - org: ccp
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
   zhu-hexin:
     nationality: CHN
     note: SAFE Administrator, PBOC Deputy Governor, ex CITIC Chairman

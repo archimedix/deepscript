@@ -29,8 +29,8 @@ Mappa del Potere - Giappone 🇯🇵
   | shigeru-ishiba    | Shigeru Ishiba    | PM Giappone (2024-)               | LDP, ex-Difesa                 |
   | fumio-kishida     | Fumio Kishida     | Ex-PM (2021-24)                   | WEF Davos, Hiroshima G7        |
   | [v] shinzo-abe        | Shinzō Abe        | Ex-PM (2006-07, 2012-20) †        | Abenomics, FOIP, WEF           |
-  | [] taro-aso          | Tarō Asō          | Ex-PM, capo ultima fazione LDP    | Trilateral, cemento Aso        |
-  | [] hiroshi-mikitani  | Hiroshi Mikitani  | CEO Rakuten                       | WEF member, Harvard MBA        |
+  | [v] taro-aso          | Tarō Asō          | Ex-PM, capo ultima fazione LDP    | Trilateral, cemento Aso        |
+  | [v] hiroshi-mikitani  | Hiroshi Mikitani  | CEO Rakuten                       | WEF member, Harvard MBA        |
   | kenichiro-yoshida | Kenichiro Yoshida | Chairman Sony                     | U.Tokyo, CFO turnaround        |
   | toshihiro-mibe    | Toshihiro Mibe    | CEO Honda                         | Fusione Honda-Nissan           |
   | hironori-kamezawa | Hironori Kamezawa | CEO MUFG                          | Più grande megabank            |
@@ -39,8 +39,8 @@ Mappa del Potere - Giappone 🇯🇵
   | kentaro-okuda     | Kentaro Okuda     | President Nomura                  | Investment banking             |
   | kenichiro-sasae   | Kenichiro Sasae   | Chairman JIIA                     | Ex-Amb. USA, MOFA chief        |
   | takeshi-watanabe  | Takeshi Watanabe  | 1° Chairman Trilateral JP         | Ex-ADB President               |
-  | kiichi-miyazawa   | Kiichi Miyazawa   | Ex-PM (1991-93)                   | Trilateral founding            |
-  | tadashi-yamamoto  | Tadashi Yamamoto  | JCIE Founder †                    | Trilateral JP Director 40 anni |
+  | [v] kiichi-miyazawa   | Kiichi Miyazawa   | Ex-PM (1991-93)                   | Trilateral founding            |
+  | [v] tadashi-yamamoto  | Tadashi Yamamoto  | JCIE Founder †                    | Trilateral JP Director 40 anni |
 
   Organizzazioni
 
@@ -52,14 +52,14 @@ Mappa del Potere - Giappone 🇯🇵
   | [v] smfg              | SMFG                               | Bank        | Sumitomo Mitsui               |
   | [v] mizuho            | Mizuho Financial                   | Bank        |                               |
   | nomura            | Nomura Holdings                    | Bank        | Investment banking            |
-  | mitsubishi-corp   | Mitsubishi Corporation             | Company     | Sogo shosha, Buffett 10%      |
+  | [v] mitsubishi-corp   | Mitsubishi Corporation             | Company     | Sogo shosha, Buffett 10%      |
   | mitsui-co         | Mitsui & Co.                       | Company     | Sogo shosha, Buffett 10%      |
   | itochu            | Itochu Corporation                 | Company     | Sogo shosha                   |
   | sumitomo-corp     | Sumitomo Corporation               | Company     | Sogo shosha                   |
   | marubeni          | Marubeni Corporation               | Company     | Sogo shosha                   |
-  | sony              | Sony Group                         | Company     | Entertainment + tech          |
-  | honda             | Honda Motor                        | Company     | Fusione con Nissan            |
-  | nissan            | Nissan Motor                       | Company     | Crisi, fusione                |
+  | [v] sony              | Sony Group                         | Company     | Entertainment + tech          |
+  | [v] honda             | Honda Motor                        | Company     | Fusione con Nissan            |
+  | [v] nissan            | Nissan Motor                       | Company     | Crisi, fusione                |
   | hitachi           | Hitachi                            | Company     | Infrastruttura, IT            |
   | panasonic         | Panasonic                          | Company     |                               |
   | [v] keidanren         | Keidanren                          | Forum       | 1,758 membri, B7              |
@@ -137,3 +137,24 @@ Mappa del Potere - Giappone 🇯🇵
   8. Famiglia Sasakawa e controversie
   9. Connessioni Toyota-governo (lobby automotive)
   10. Honda-Nissan merger dynamics
+
+    Young Global Leaders (YGL)
+
+  | Nome          | Anno YGL | Note      |
+  |---------------|----------|-----------|
+  | [] Yoichi Ochiai | 2022     | nato 1987 |
+  | [] Miku Hirano   | 2022     |           |
+  | Shiho Azuma   | 2021     |           |
+  | Akira Sakano  | 2019     |           |
+  | Masao Koyama  | 2024     |           |
+  | [] Haruka Mera   | 2025     |           |
+  | Takashi Sano  | 2025     |           |
+
+  Altri membri WEF
+
+  | Nome            | Ruolo  | Anno | Note                               |
+  |-----------------|--------|------|------------------------------------|
+  | Shinzo Abe      | member | -    | ex PM, nato 1954, assassinato 2022 |
+  | Masahiro Kihara | member | 2025 | nato 1965, CEO Mizuho              |
+
+  haruka-mera, miku-hirano, yoichi-ochiai

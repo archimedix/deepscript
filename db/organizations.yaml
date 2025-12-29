@@ -16,6 +16,9 @@ organizations:
     - person: marcel-telles
       role: founder
       from: 2004
+    - person: alexandre-behring
+      role: partner
+      from: 2004
   3i-group:
     name: 3i Group plc
     type: privateequity
@@ -73,6 +76,13 @@ organizations:
       role: executive
       from: 2021
       note: CEO
+    - person: jorge-paulo-lemann
+      role: board
+      from: 2004
+      note: 9% stake, controlling shareholder
+    - person: marcel-telles
+      role: board
+      from: 2004
     - person: alexandre-van-damme
       role: board
       note: Representative main shareholders
@@ -205,8 +215,10 @@ organizations:
       share: 6.2
       note: Dal 2016 (acquisizione FRHI)
     - org: jin-jiang
-      share: 10
-      note: Maggiore azionista cinese; partnership strategica
+      role: shareholder
+      share: 13
+      from: 2016
+      note: Largest single shareholder, 17% voting rights
     - org: kingdom-holding
       share: 6.8
       note: Prince Alwaleed; dal 2016
@@ -275,6 +287,41 @@ organizations:
     - person: pierre-werner
       role: member
       note: Membro attivo, collaboratore di Jean Monnet
+  adani-airports:
+    name: Adani Airports
+    type: company
+    headquarters: Ahmedabad, India
+    status: active
+    stakeholders:
+    - person: jeet-adani
+      role: executive
+      from: 2019
+  adani-enterprises:
+    name: Adani Enterprises
+    type: company
+    headquarters: Ahmedabad, India
+    status: active
+    stakeholders:
+    - person: pranav-adani
+      role: executive
+      note: Managing Director
+  adani-foundation:
+    type: foundation
+    headquarters: Ahmedabad, India
+    status: active
+    stakeholders:
+    - person: priti-adani
+      role: chairman
+  adani-green-energy:
+    name: Adani Green Energy
+    type: company
+    headquarters: Ahmedabad, India
+    status: active
+    stakeholders:
+    - person: sagar-adani
+      role: board
+      from: 2015
+      note: Executive Director
   adani-group:
     name: Adani Group
     type: company
@@ -286,6 +333,19 @@ organizations:
     stakeholders:
     - person: gautam-adani
       role: chairman
+    - person: rajesh-adani
+      role: executive
+      note: Managing Director
+  adani-ports:
+    name: Adani Ports and SEZ
+    type: company
+    headquarters: Ahmedabad, India
+    status: active
+    stakeholders:
+    - person: karan-adani
+      role: executive
+      from: 2016
+      note: CEO
   adb:
     name: Asian Development Bank
     type: bank
@@ -298,6 +358,11 @@ organizations:
       from: 2003
       to: 2008
       note: Vice President, Ranking VP
+    - person: haruhiko-kuroda
+      role: chairman
+      from: 2005
+      to: 2013
+      note: President
   adevinta:
     name: Adevinta ASA
     type: company
@@ -328,6 +393,34 @@ organizations:
     - org: vanguard
       role: shareholder
       share: 3.0
+  aditya-birla-capital:
+    name: Aditya Birla Capital
+    type: assetmanager
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: kumar-mangalam-birla
+      role: chairman
+      from: 1995
+      note: Chairman, Financial services arm
+  aditya-birla-group:
+    name: Aditya Birla Group
+    type: company
+    founded: 1857
+    headquarters: Mumbai, India
+    status: active
+    sector: conglomerate
+    stakeholders:
+    - person: gd-birla
+      role: founder
+      from: 1919
+    - person: aditya-vikram-birla
+      role: chairman
+      from: 1969
+      to: 1995
+    - person: kumar-mangalam-birla
+      role: chairman
+      from: 1995
   adl:
     name: Anti-Defamation League
     type: thinktank
@@ -470,6 +563,23 @@ organizations:
       from: 1926
       to: 1928
       note: Primo presidente, nominato da Mussolini
+  agricultural-bank-of-china:
+    name: Agricultural Bank of China
+    type: bank
+    founded: 1951
+    headquarters: Beijing, Cina
+    status: active
+    stakeholders:
+    - person: gu-shu
+      role: chairman
+      from: 2021
+      note: Party Secretary and Chairman
+    - person: wang-zhiheng
+      role: executive
+      from: 2024
+      note: President, Vice Chairman
+    - org: central-huijin
+      share: 40.14
   aib:
     name: Allied Irish Banks
     type: bank
@@ -579,6 +689,18 @@ organizations:
       share: 9.1
       from: 2019
       note: State shareholding
+  air-india:
+    name: Air India
+    type: company
+    founded: 1932
+    headquarters: New Delhi, India
+    status: active
+    sector: aviation
+    stakeholders:
+    - person: n-chandrasekaran
+      role: chairman
+      from: 2022
+      note: Post-acquisizione Tata
   air-liquide:
     name: Air Liquide
     type: company
@@ -778,11 +900,49 @@ organizations:
       from: 2014
       to: 2019
   alibaba:
-    name: Alibaba Group
+    name: Alibaba Group Holding Ltd
     type: company
+    founded: 1999
     headquarters: Hangzhou, China
     status: active
     sector: tech
+    stakeholders:
+    - person: jack-ma
+      role: founder
+      from: 1999
+      to: 2019
+      note: Co-fondatore e Chairman fino 2019
+    - person: joe-tsai
+      role: founder
+      from: 1999
+      note: Co-founder, Chairman dal 2023
+    - person: eddie-wu
+      role: executive
+      from: 2023
+      note: CEO, Co-founder
+    - person: maggie-wu
+      role: board
+      from: 2019
+      note: Board member, ex-CFO
+    - person: michael-evans
+      role: executive
+      from: 2015
+      note: President
+    - org: blackrock
+      role: investor
+      share: 5.64
+      from: 2020
+    - org: vanguard
+      role: investor
+      share: 9.16
+      from: 2020
+    - org: state-street
+      share: 4.21
+    - org: softbank
+      role: investor
+      from: 2000
+      to: 2024
+      note: Divested; was major shareholder since 2000 ($20M investment)
   alior-bank:
     name: Alior Bank
     type: bank
@@ -854,6 +1014,13 @@ organizations:
     - org: state-street
       role: shareholder
       share: 2.0
+  alpargatas:
+    name: Alpargatas
+    type: company
+    founded: 1907
+    headquarters: Sao Paulo, Brazil
+    status: active
+    note: Havaianas sandals
   alpha-bank:
     name: Alpha Bank
     type: bank
@@ -994,6 +1161,12 @@ organizations:
     stakeholders:
     - person: joseph-oughourlian
       role: founder
+  ambev:
+    name: Ambev S.A.
+    type: company
+    founded: 1999
+    headquarters: São Paulo, Brazil
+    sector: Beverages
   amer-sports:
     name: Amer Sports
     type: company
@@ -1017,6 +1190,18 @@ organizations:
     stakeholders:
     - org: berkshire-hathaway
       role: stake
+  american-finance-association:
+    name: American Finance Association
+    type: forum
+    founded: 1939
+    headquarters: USA
+    status: active
+    stakeholders:
+    - person: raghuram-rajan
+      role: chairman
+      from: 2011
+      to: 2011
+      note: President
   american-jewish-congress:
     name: American Jewish Congress
     type: thinktank
@@ -1143,6 +1328,23 @@ organizations:
       from: 1908
       to: 1921
       note: Co-proprietario con fratello Pio
+  ant-group:
+    name: Ant Group
+    type: company
+    founded: 2014
+    headquarters: Hangzhou, China
+    status: active
+    sector: fintech
+    stakeholders:
+    - person: jack-ma
+      role: founder
+      from: 2014
+      note: Fondatore, quota ridotta al 6% nel 2023
+    - org: alibaba
+      role: investor
+      share: 33.0
+      from: 2014
+      note: Affiliate, fintech arm
   antenna-group:
     name: Antenna Group
     type: media
@@ -1348,6 +1550,17 @@ organizations:
       role: chairman
       from: 2006
       note: Chairman
+  ashok-leyland:
+    name: Ashok Leyland
+    type: company
+    founded: 1948
+    headquarters: Chennai, India
+    status: active
+    sector: automotive
+    stakeholders:
+    - org: hinduja-group
+      role: parent
+      from: 1987
   asia-news-network:
     name: Asia News Network
     type: media
@@ -1405,6 +1618,20 @@ organizations:
       from: 1984
       to: 1995
       note: Joint venture with ASM International, IPO 1995
+  aso-group:
+    name: Aso Group
+    type: company
+    founded: 1872
+    headquarters: Fukuoka, Japan
+    status: active
+    sector: conglomerate
+    note: Ex-Aso Mining → Aso Cement → Aso Group (60+ aziende)
+    stakeholders:
+    - person: taro-aso
+      role: executive
+      from: 1973
+      to: 1979
+      note: President & CEO Aso Cement
   aspen-institute:
     name: Aspen Institute
     type: thinktank
@@ -1923,11 +2150,31 @@ organizations:
       from: 2020
       to: 2025
       note: Take-private €6.8B, exit 2025 €13.5B
+  axis-bank:
+    name: Axis Bank
+    type: bank
+    headquarters: Mumbai, India
   azimut:
     name: Azimut Holding S.p.A.
     type: assetmanager
     founded: 1989
     headquarters: Milan, Italy
+  azul:
+    name: Azul Linhas Aereas
+    type: company
+    founded: 2008
+    headquarters: Barueri, Brazil
+    status: active
+    stakeholders:
+    - person: henrique-meirelles
+      role: board
+      note: Board of Directors
+  b3-brasil:
+    name: B3 S.A.
+    type: company
+    founded: 2017
+    headquarters: São Paulo, Brazil
+    sector: Exchange
   bae-systems:
     name: BAE Systems plc
     type: company
@@ -1959,6 +2206,16 @@ organizations:
       share: 9.55%
       from: 2013
       note: Stake in BAIC Motor (HK listed)
+  baidu:
+    name: Baidu Inc
+    type: company
+    headquarters: Beijing, China
+    sector: Technology
+    stakeholders:
+    - org: blackrock
+      share: 4.0
+    - org: vanguard
+      share: 3.0
   bain-capital:
     name: Bain Capital
     type: privateequity
@@ -2178,6 +2435,18 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  banco-central-brasil:
+    name: Banco Central do Brasil
+    type: centralbank
+    founded: 1964
+    headquarters: Brasilia, Brazil
+    status: active
+    stakeholders:
+    - person: henrique-meirelles
+      role: executive
+      from: 2003
+      to: 2011
+      note: President, longest serving
   banco-de-espana:
     name: Banco de Espana
     type: centralbank
@@ -2190,6 +2459,31 @@ organizations:
       from: 2018
       to: 2024
       note: Governor
+  banco-do-brasil:
+    name: Banco do Brasil
+    type: bank
+    founded: 1808
+    headquarters: Brasília, Brazil
+  banco-garantia:
+    name: Banco Garantia
+    type: bank
+    founded: 1971
+    headquarters: São Paulo, Brazil
+    status: defunct
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: founder
+      from: 1971
+      to: 1998
+      note: Co-founder with Telles and Sicupira
+    - person: carlos-sicupira
+      role: founder
+      from: 1971
+      to: 1998
+    - person: marcel-telles
+      role: founder
+      from: 1971
+      to: 1998
   banco-santander:
     name: Banco Santander
     type: bank
@@ -2239,6 +2533,17 @@ organizations:
     headquarters: Paris, France
     status: active
     note: Acquired Endemol Shine 2020. Largest independent content producer globally.
+  bank-btpn:
+    name: Bank BTPN
+    type: bank
+    headquarters: Jakarta, Indonesia
+    status: active
+    note: SMFG consolidated subsidiary since 2019
+    stakeholders:
+    - org: smfg
+      role: subsidiary
+      from: 2019
+      note: Consolidated subsidiary, 10th largest bank Indonesia
   bank-menatep:
     name: Bank Menatep
     type: bank
@@ -2263,6 +2568,11 @@ organizations:
       role: advisor
       from: 2015
       note: during-cooling-off
+    - person: mukesh-ambani
+      role: board
+      from: 2011
+      to: 2013
+      note: First non-American board member; now Global Advisory Council
     - person: sergio-ermotti
       role: executive
       from: 1987
@@ -2297,12 +2607,39 @@ organizations:
   bank-of-china:
     name: Bank of China
     type: bank
+    founded: 1912
     headquarters: Beijing, China
     status: active
+    sector: banking
     stakeholders:
+    - person: ge-haijiao
+      role: chairman
+      from: 2023
+    - person: liu-liange
+      role: chairman
+      from: 2019
+      to: 2023
+      note: Condannato per corruzione 2024
+    - person: zhang-hui-boc
+      role: executive
+      from: 2024
+      note: President
+    - person: zhang-jinliang
+      role: executive
+      from: 2003
+      to: 2016
+      note: EVP, GM Beijing Branch
+    - person: wang-zhiheng
+      role: executive
+      from: 2021
+      to: 2024
+      note: Executive Vice President
     - org: temasek
       role: shareholder
       note: Chinese bank stake
+    - org: central-huijin
+      share: 64.0
+      note: Controlling shareholder
   bank-of-england:
     name: Bank of England
     type: centralbank
@@ -2358,6 +2695,32 @@ organizations:
       share: 7.27%
     - org: vanguard
       share: 4.8%
+  bank-of-japan:
+    name: Bank of Japan
+    type: centralbank
+    founded: 1882
+    headquarters: Tokyo, Japan
+    status: active
+    stakeholders:
+    - person: kazuo-ueda
+      role: chairman
+      from: 2023
+      note: Governor (32nd)
+    - person: haruhiko-kuroda
+      role: chairman
+      from: 2013
+      to: 2023
+      note: Governor (31st) - QQE, YCC, NIRP
+    - person: masaaki-shirakawa
+      role: chairman
+      from: 2008
+      to: 2013
+      note: Governor (30th)
+    - person: toshihiko-fukui
+      role: chairman
+      from: 2003
+      to: 2008
+      note: Governor (29th)
   bank-pekao:
     name: Bank Pekao S.A.
     type: bank
@@ -2389,6 +2752,18 @@ organizations:
     - person: gennady-timchenko
       role: board
       note: ~10% shareholder
+  bankboston:
+    name: BankBoston
+    type: bank
+    founded: 1784
+    headquarters: Boston, USA
+    status: acquired
+    stakeholders:
+    - person: henrique-meirelles
+      role: executive
+      from: 1974
+      to: 1999
+      note: President Brazil 1984-1996, President & COO worldwide 1996-1999
   banque-de-france:
     name: Banque de France
     type: centralbank
@@ -2961,6 +3336,10 @@ organizations:
       role: chairman
       from: 1995
       note: Founder & Chairman
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 2.0%
     - org: singtel
       share: 28.3
       from: 2000
@@ -2992,7 +3371,7 @@ organizations:
     name: Banque Internationale a Luxembourg
     type: bank
     founded: 1856
-    headquarters: Luxembourg City, Luxembourg
+    headquarters: Luxembourg, Luxembourg
     status: active
     aum: 46.8
     stakeholders:
@@ -3010,9 +3389,10 @@ organizations:
       share: 10
       from: 2012
     - org: legend-holdings
-      role: owner
-      share: 89.98
+      role: controlling
+      share: 89.9
       from: 2018
+      note: Acquired 89.9% stake
     - org: precision-capital
       role: owner
       share: 90
@@ -3343,6 +3723,11 @@ organizations:
       role: member
     - person: carl-henric-svanberg
       role: member
+    - person: paul-desmarais-jr
+      role: member
+      note: Attended 2006, 2008
+    - person: andre-desmarais
+      role: member
     - org: trilaterale
       role: partner
   biontech:
@@ -3440,6 +3825,19 @@ organizations:
       from: 1988
       to: 1991
       note: Chairman Gold and Foreign Exchange Committee
+    - person: raghuram-rajan
+      role: chairman
+      from: 2015
+      to: 2016
+      note: Vice-Chairman
+    - person: toshihiko-fukui
+      role: board
+      note: Director
+    - person: henrique-meirelles
+      role: board
+      from: 2010
+      to: 2010
+      note: Director
     - org: bce
       role: partner
     - org: bank-of-greece
@@ -3452,6 +3850,20 @@ organizations:
     - org: bnr
       role: member
       note: BIS member
+    - org: bank-of-japan
+      role: member
+      from: 1930
+      note: Founding member
+  bits-pilani:
+    name: Birla Institute of Technology and Science, Pilani
+    type: thinktank
+    founded: 1964
+    headquarters: Pilani, India
+    status: active
+    stakeholders:
+    - person: kumar-mangalam-birla
+      role: chairman
+      note: Chancellor
   blackrock:
     name: BlackRock Inc.
     type: assetmanager
@@ -4030,6 +4442,24 @@ organizations:
       role: shareholder
       share: 50
       note: Via CDC e Stato diretto
+  bradesco:
+    name: Banco Bradesco
+    type: bank
+    founded: 1943
+    headquarters: Osasco, Brazil
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+  brasil-warrant:
+    name: Brasil Warrant Administracao de Bens e Empresas
+    type: company
+    founded: 1998
+    headquarters: Sao Paulo, Brazil
+    status: active
+    stakeholders:
+    - person: fernando-moreira-salles
+      role: executive
+      note: President
   brd:
     name: BRD - Groupe Société Générale
     type: bank
@@ -4161,6 +4591,14 @@ organizations:
       share: 4.5%
     - org: state-street
       share: 1.5%
+  british-asian-trust:
+    type: foundation
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: mukesh-ambani
+      role: chairman
+      note: India Advisory Council
   british-south-africa-company:
     name: British South Africa Company
     type: company
@@ -4174,6 +4612,17 @@ organizations:
       role: founder
       from: 1889
       to: 1902
+  broadband-commission:
+    name: Broadband Commission for Sustainable Development
+    type: agency
+    founded: 2010
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: telecom
+    stakeholders:
+    - person: sunil-mittal
+      role: member
+      note: Commissioner ITU/UNESCO
   broadcom:
     name: Broadcom
     type: company
@@ -4209,9 +4658,29 @@ organizations:
     headquarters: Washington DC, USA
     status: active
     stakeholders:
+    - person: mukesh-ambani
+      role: advisor
+      note: International Advisory Council
     - person: paul-achleitner
       role: board
       note: Board of Trustees
+    - person: paul-desmarais-jr
+      role: board
+      note: Senior Trustee, former Co-Chair International Advisory Council
+    - person: tadashi-yamamoto
+      role: member
+      note: Mansfield Lecture 2000
+  brooklyn-nets:
+    name: Brooklyn Nets
+    type: sportsclub
+    founded: 1967
+    headquarters: Brooklyn, New York, USA
+    status: active
+    stakeholders:
+    - person: joe-tsai
+      role: owner
+      from: 2019
+      note: Owner
   brown-brothers-harriman:
     name: Brown Brothers Harriman
     type: bank
@@ -4269,6 +4738,46 @@ organizations:
     - person: beny-steinmetz
       role: founder
       note: Beneficial owner
+  bt-group:
+    name: BT Group plc
+    type: company
+    founded: 1846
+    headquarters: London, UK
+    status: active
+    sector: telecom
+    stakeholders:
+    - person: sunil-mittal
+      role: board
+      from: 2025
+      note: Non-Executive Director; Bharti 24.5% stake
+    - person: allison-kirkby
+      role: executive
+      from: 2024
+      note: CEO; first woman to lead BT; NED from 2019
+    - person: adam-crozier
+      role: chairman
+      from: 2021
+      note: Chairman
+    - org: bharti-airtel
+      share: 24.5%
+      from: 2024
+      note: Largest shareholder; acquired from Altice UK for £3.2B
+    - org: deutsche-telekom
+      share: 12%
+      from: 2016
+      note: From EE acquisition; board seat
+  btg-pactual:
+    name: BTG Pactual
+    type: bank
+    founded: 1983
+    headquarters: São Paulo, Brazil
+    stakeholders:
+    - person: andre-esteves
+      role: chairman
+      from: 2009
+      note: Senior Partner, controlling shareholder (~27%)
+    - org: blackrock
+      share: 3.0%
   burisma:
     name: Burisma Holdings
     type: company
@@ -4281,6 +4790,30 @@ organizations:
       role: board
       from: 2017
       note: Security and Strategic Development
+  business-council-canada:
+    name: Business Council of Canada
+    type: thinktank
+    founded: 1976
+    headquarters: Ottawa, Canada
+    status: active
+    stakeholders:
+    - person: paul-desmarais-jr
+      role: chairman
+      note: Former Chairman
+    - person: john-manley
+      role: executive
+      from: 2010
+      to: 2018
+      note: President & CEO
+    - person: thomas-daquino
+      role: executive
+      from: 1981
+      to: 2009
+      note: CEO (founder era)
+    - person: goldy-hyder
+      role: executive
+      from: 2018
+      note: President & CEO
   business-insider:
     name: Business Insider
     type: media
@@ -4330,17 +4863,57 @@ organizations:
       role: founder-chairman-ceo
       from: 1995
       note: Owns 17%
+    - org: blackrock
+      share: 4.0
+    - org: vanguard
+      share: 4.0
   bytedance:
-    name: ByteDance (TikTok)
+    name: ByteDance
     type: company
+    founded: 2012
     headquarters: Beijing, China
     status: active
-    sector: tech
+    sector: technology
     stakeholders:
+    - person: zhang-yiming
+      role: founder
+      from: 2012
+      to: 2021
+      note: Founder, CEO until 2021, owns ~21% with >50% voting rights
+    - person: liang-rubo
+      role: executive
+      from: 2012
+      note: Co-founder, CEO since 2021
+    - person: shou-chew
+      role: executive
+      from: 2021
+      note: CFO
+    - org: softbank
+      role: investor
+      note: Strategic investor
+    - org: kkr
+      role: investor
+      note: PE investor
+    - org: carlyle
+      role: investor
+      note: PE investor
+    - org: general-atlantic
+      role: investor
+      from: 2017
+      note: Board seat (Bill Ford)
     - org: sofina
       role: investor
       from: 2016
       note: Minority stake
+    - org: sequoia-capital
+      role: investor
+      from: 2014
+      note: Led $100M round in 2014, board seat (Neil Shen)
+    - org: susquehanna
+      role: investor
+      share: 15
+      from: 2012
+      note: First investor, 15% stake, board seat (Arthur Dantchik)
   c8:
     name: C8
     type: media
@@ -4351,6 +4924,31 @@ organizations:
     stakeholders:
     - org: canal-plus
       share: 100%
+  cae-inc:
+    name: CAE Inc.
+    type: company
+    founded: 1947
+    headquarters: Montreal, Canada
+    status: active
+    sector: aerospace/defense
+    stakeholders:
+    - person: john-manley
+      role: chairman
+      from: 2018
+      note: Chair
+  cainiao:
+    name: Cainiao Network
+    type: company
+    founded: 2013
+    headquarters: Hangzhou, China
+    status: active
+    sector: logistics
+    stakeholders:
+    - org: alibaba
+      role: parent
+      share: 69.0
+      from: 2013
+      note: Logistics subsidiary
   cairo-communication:
     name: Cairo Communication
     type: media
@@ -4440,6 +5038,18 @@ organizations:
     - person: theodore-kyriakou
       role: advisor
       note: Advisory Board CIBAM
+  cambuhy-investimentos:
+    name: Cambuhy Investimentos
+    type: company
+    headquarters: Sao Paulo, Brazil
+    status: active
+    stakeholders:
+    - person: pedro-moreira-salles
+      role: executive
+      note: Partner and Co-CEO
+    - person: fernando-moreira-salles
+      role: partner
+      note: Family investment vehicle, Alpargatas stake
   camfin:
     name: Camfin S.p.A.
     type: company
@@ -4581,12 +5191,15 @@ organizations:
     name: Carnegie Endowment for International Peace
     type: thinktank
     founded: 1910
-    headquarters: Washington DC
+    headquarters: Washington, USA
     status: active
     stakeholders:
     - person: penny-pritzker
       role: chairman
       note: Chair of the Board
+    - person: pedro-moreira-salles
+      role: member
+      note: G-50 sponsor
   casinos-austria:
     name: Casinos Austria AG
     type: company
@@ -4600,6 +5213,27 @@ organizations:
       from: 2010
       to: 2019
       note: Sold after Ibiza scandal
+  catamaran-ventures:
+    type: privateequity
+    headquarters: Bangalore, India
+    status: active
+    stakeholders:
+    - person: narayana-murthy
+      role: founder
+  cbmm:
+    name: CBMM - Companhia Brasileira de Metalurgia e Mineracao
+    type: company
+    founded: 1965
+    headquarters: Araxa, Brazil
+    status: active
+    sector: mining
+    stakeholders:
+    - person: pedro-moreira-salles
+      role: board
+      note: Family controlling shareholder
+    - person: fernando-moreira-salles
+      role: chairman
+      note: Family owns 70%, each brother 17.5%
   cbp-quilvest:
     name: CBP Quilvest
     type: bank
@@ -4650,6 +5284,36 @@ organizations:
     - person: xi-jinping
       role: general-secretary
       from: 2012
+    - person: li-qiang
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
+    - person: zhao-leji
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
+    - person: wang-huning
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
+    - person: cai-qi
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
+    - person: ding-xuexiang
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
+    - person: li-xi
+      role: leader
+      from: 2022
+      note: Politburo Standing Committee
+    - person: pony-ma
+      role: member
+    - person: ren-zhengfei
+      role: member
+      from: 1978
+      note: Invitato al 12° Congresso Nazionale CCP 1982
   cctv:
     name: China Central Television
     type: media
@@ -4749,6 +5413,12 @@ organizations:
     - person: samrit-chirathivat
       role: chairman
       note: Chairman 21 years
+  central-huijin:
+    name: Central Huijin Investment
+    type: swf
+    founded: 2003
+    headquarters: Beijing, China
+    status: active
   cepi:
     name: Coalition for Epidemic Preparedness Innovations
     type: agency
@@ -4782,7 +5452,7 @@ organizations:
     name: Council on Foreign Relations
     type: thinktank
     founded: 1921
-    headquarters: New York
+    headquarters: New York, USA
     status: active
     stakeholders:
     - person: zbigniew-brzezinski
@@ -4874,6 +5544,22 @@ organizations:
     - person: rajiv-shah
       role: member
       note: Member
+    - person: anand-mahindra
+      role: advisor
+      note: Global Board of Advisors
+    - person: andre-esteves
+      role: advisor
+      note: Global Board of Advisors
+    - person: paul-desmarais-jr
+      role: advisory-board
+      note: Global Board of Advisors
+    - person: tadashi-yamamoto
+      role: member
+      note: Member; commemorato da CFR alla morte
+    - person: john-manley
+      role: member
+      from: 2005
+      note: Co-Chair Independent Task Force on the Future of North America
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -5046,6 +5732,17 @@ organizations:
     stakeholders:
     - org: berkshire-hathaway
       role: stake
+  chicago-booth:
+    name: University of Chicago Booth School of Business
+    type: thinktank
+    founded: 1898
+    headquarters: Chicago, USA
+    status: active
+    stakeholders:
+    - person: raghuram-rajan
+      role: executive
+      from: 1991
+      note: Katherine Dusak Miller Distinguished Service Professor of Finance
   children-investment-fund:
     type: assetmanager
     founded: 2003
@@ -5055,6 +5752,29 @@ organizations:
       role: partner
       from: 2006
       to: 2009
+  china-construction-bank:
+    name: China Construction Bank
+    type: bank
+    founded: 1954
+    headquarters: Beijing, China
+    status: active
+    sector: banking
+    stakeholders:
+    - person: liao-lin
+      role: executive
+      from: 1989
+      to: 2019
+      note: Vice President, CRO
+    - person: zhang-jinliang
+      role: chairman
+      from: 2024
+    - person: zhang-yi-ccb
+      role: executive
+      from: 2024
+      note: President
+    - org: central-huijin
+      share: 55.0
+      note: Controlling shareholder
   china-development-bank:
     name: China Development Bank
     type: bank
@@ -5080,9 +5800,50 @@ organizations:
     name: China Mobile
     type: company
     founded: 1997
-    headquarters: Hong Kong
+    headquarters: Hong Kong, China
     status: active
     sector: telecommunications
+    stakeholders:
+    - person: chen-zhongyue
+      role: chairman
+      from: 2025
+    - person: yang-jie
+      role: chairman
+      from: 2019
+      to: 2025
+    - person: he-biao
+      role: executive
+      from: 2024
+      note: CEO
+    - person: li-ronghua
+      role: executive
+      from: 2020
+      note: CFO
+  china-telecom:
+    name: China Telecom
+    type: company
+    headquarters: Beijing, China
+    status: active
+    sector: telecommunications
+    stakeholders:
+    - person: chen-zhongyue
+      role: executive
+      note: Vice President
+    - person: yang-jie
+      role: chairman
+      from: 2015
+      to: 2019
+  china-unicom:
+    name: China Unicom
+    type: company
+    headquarters: Beijing, China
+    status: active
+    sector: telecommunications
+    stakeholders:
+    - person: chen-zhongyue
+      role: chairman
+      from: 2023
+      to: 2025
   cia:
     name: Central Intelligence Agency
     type: agency
@@ -5227,6 +5988,16 @@ organizations:
       from: 1942
       to: 1947
       note: OSS sciolto 1945, personale e strutture trasferiti a CIA 1947
+  cibc:
+    name: Canadian Imperial Bank of Commerce
+    type: bank
+    founded: 1961
+    headquarters: Toronto, Canada
+    status: active
+    stakeholders:
+    - person: john-manley
+      role: chairman
+      note: Past Chair CIBC, Chair CIBC Bancorp USA
   cic:
     name: China Investment Corporation
     type: swf
@@ -5240,6 +6011,9 @@ organizations:
       from: 2008
       to: 2013
       note: Chairman Supervisory Board
+    - org: governo-cina
+      role: ownership
+      share: 100%
   cicc:
     name: China International Capital Corporation
     type: bank
@@ -5250,6 +6024,18 @@ organizations:
       role: chairman
       from: 2013
       to: 2014
+  cii:
+    name: Confederation of Indian Industry
+    type: forum
+    founded: 1895
+    headquarters: New Delhi, India
+    status: active
+    stakeholders:
+    - person: anand-mahindra
+      role: chairman
+      from: 2003
+      to: 2004
+      note: President
   cinven:
     name: Cinven
     type: privateequity
@@ -5519,6 +6305,28 @@ organizations:
     - org: warner-bros-discovery
       share: 100%
       from: 2022
+  cnooc:
+    name: China National Offshore Oil Corporation
+    type: company
+    founded: 1982
+    headquarters: Beijing, Cina
+    status: active
+    sector: oil-gas
+  cnpc:
+    name: China National Petroleum Corporation
+    type: company
+    founded: 1988
+    headquarters: Beijing, Cina
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: dai-houliang
+      role: chairman
+      from: 2020
+      note: Chairman and Party Secretary
+    - org: sasac
+      share: 100
+      note: 100% state-owned
   coalition-inclusive-capitalism:
     name: Coalition for Inclusive Capitalism
     type: foundation
@@ -5851,6 +6659,16 @@ organizations:
     type: foundation
     headquarters: Turin, Italy
     status: active
+  companhia-johnston:
+    name: Companhia E. Johnston de Participacoes
+    type: company
+    headquarters: Sao Paulo, Brazil
+    status: active
+    note: Holding famiglia Moreira Salles per Itau
+    stakeholders:
+    - person: fernando-moreira-salles
+      role: chairman
+      note: Vice Chairman, holding Itau stake
   compass-group:
     name: Compass Group plc
     type: company
@@ -5902,6 +6720,16 @@ organizations:
       from: 1934
       to: 1934
       note: Breve presidenza
+  conservation-international:
+    name: Conservation International
+    type: foundation
+    founded: 1987
+    headquarters: Arlington, Virginia, USA
+    status: active
+    stakeholders:
+    - person: andre-esteves
+      role: board
+      note: Amazonia Live program, 5P Alliance Pantanal
   conservative-party-uk:
     name: Conservative Party (UK)
     headquarters: London, UK
@@ -6109,6 +6937,11 @@ organizations:
       from: 1996
       to: 1998
       note: Private banker
+    - person: jorge-paulo-lemann
+      role: trainee
+      from: 1961
+      to: 1962
+      note: Geneva office
     - person: severin-schwan
       role: board
       from: 2014
@@ -6404,6 +7237,13 @@ organizations:
     - org: temasek
       share: 29%
       note: Controlling shareholder
+  dbs-bank:
+    type: bank
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - person: narayana-murthy
+      role: board
   de-beers:
     name: De Beers
     type: company
@@ -7386,6 +8226,12 @@ organizations:
     founded: 1919
     headquarters: Stockholm, Sweden
     status: active
+  eletrobras:
+    name: Centrais Elétricas Brasileiras (Eletrobras)
+    type: company
+    founded: 1962
+    headquarters: Rio de Janeiro, Brazil
+    sector: Utilities
   eli-lilly:
     name: Eli Lilly
     type: company
@@ -7441,6 +8287,12 @@ organizations:
       role: chairman
       from: 1991
       note: President
+  embraer:
+    name: Embraer S.A.
+    type: company
+    founded: 1969
+    headquarters: São José dos Campos, Brazil
+    sector: Aerospace
   endeavor:
     name: Endeavor Group Holdings
     type: company
@@ -7540,6 +8392,19 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
+  eneos:
+    name: ENEOS Holdings, Inc.
+    type: company
+    founded: 2010
+    headquarters: Tokyo, Japan
+    status: active
+    sector: energy
+  eneva:
+    name: Eneva SA
+    type: company
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    sector: energy
   engie:
     name: Engie SA
     type: company
@@ -7662,6 +8527,19 @@ organizations:
     - person: jemilah-mahmood
       role: board
       note: Board member
+  epic-games:
+    name: Epic Games
+    type: company
+    founded: 1991
+    headquarters: Cary, North Carolina, USA
+    status: active
+    sector: gaming
+    stakeholders:
+    - org: tencent
+      role: investor
+      share: 40.0
+      from: 2012
+      note: Strategic investment
   epp:
     name: European People Party
     type: forum
@@ -8178,6 +9056,18 @@ organizations:
       role: member
       from: 2023
       note: Professor School of Transnational Governance
+  eutelsat:
+    name: Eutelsat Group
+    type: company
+    founded: 1977
+    headquarters: Paris, France
+    status: active
+    sector: satellite
+    stakeholders:
+    - person: sunil-mittal
+      role: chairman
+      from: 2023
+      note: Co-Chairman Eutelsat Group (merger OneWeb)
   exim-bank-china:
     name: Export-Import Bank of China
     type: bank
@@ -8274,6 +9164,11 @@ organizations:
     - org: silver-lake
       role: investor
       note: Sports commerce platform
+  fast-retailing:
+    name: Fast Retailing Co., Ltd.
+    type: company
+    founded: 1963
+    headquarters: Yamaguchi, Japan
   fatah:
     name: Fatah
     type: agency
@@ -8297,6 +9192,18 @@ organizations:
       from: 2001
       to: 2002
       note: Translator, Turkish/Farsi/Azerbaijani
+  fc-barcelona:
+    name: FC Barcelona
+    type: sportsclub
+    founded: 1899
+    headquarters: Barcelona, Spain
+    status: active
+    stakeholders:
+    - org: rakuten
+      role: sponsor
+      from: 2017
+      to: 2022
+      note: Main shirt sponsor
   fc-dynamo-moscow:
     name: FC Dynamo Moscow
     type: sportsclub
@@ -8379,6 +9286,15 @@ organizations:
       from: 1999
       to: 2001
       note: Commissioner (first female)
+  febraban:
+    name: Federacao Brasileira de Bancos
+    type: company
+    headquarters: Sao Paulo, Brazil
+    status: active
+    stakeholders:
+    - person: pedro-moreira-salles
+      role: chairman
+      note: Chairman Brazilian Federation of Banks
   federal-reserve:
     name: Federal Reserve
     type: centralbank
@@ -8406,6 +9322,9 @@ organizations:
     - person: brian-moynihan
       role: advisor
       note: Federal Advisory Council member
+    - person: raghuram-rajan
+      role: advisor
+      note: NY Fed President Advisory Board
     - org: jpmorgan-chase
       role: partner
     - org: bis
@@ -8495,6 +9414,16 @@ organizations:
       role: executive
       from: 2021
       note: CEO
+  fgv:
+    name: Fundacao Getulio Vargas
+    type: university
+    founded: 1944
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    stakeholders:
+    - person: fernando-moreira-salles
+      role: member
+      note: Laurea Economia
   fiat:
     name: FIAT
     type: automaker
@@ -8787,6 +9716,18 @@ organizations:
       role: founder
       from: 2000
       note: Founder and CEO
+  fleetboston:
+    name: FleetBoston Financial
+    type: bank
+    founded: 1999
+    headquarters: Boston, USA
+    status: acquired
+    stakeholders:
+    - person: henrique-meirelles
+      role: executive
+      from: 1999
+      to: 2002
+      note: President Global Banking
   flutter-entertainment:
     name: Flutter Entertainment
     type: company
@@ -8914,6 +9855,11 @@ organizations:
       role: executive
       from: 2013
       note: President
+    - person: anand-mahindra
+      role: board
+      note: Board Member
+    - person: narayana-murthy
+      role: board
   ford-motor:
     name: Ford Motor Company
     type: automaker
@@ -9232,6 +10178,27 @@ organizations:
     status: active
     sector: TV, entertainment
     note: Fuji TV flagship. First net loss FY2024 after scandal
+  fundacao-estudar:
+    name: Fundação Estudar
+    type: foundation
+    founded: 1991
+    headquarters: São Paulo, Brazil
+    status: active
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: founder
+      from: 1991
+  fundacao-lemann:
+    name: Fundação Lemann
+    type: foundation
+    founded: 2002
+    headquarters: São Paulo, Brazil
+    status: active
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: founder
+      from: 2002
+      note: Chairman
   fundacao-roberto-marinho:
     name: Fundação Roberto Marinho
     type: foundation
@@ -9497,10 +10464,26 @@ organizations:
     - org: rcs-mediagroup
       share: 100%
   gbl:
-    name: Groupe Bruxelles Lambert SA
+    name: Groupe Bruxelles Lambert
     type: company
-    founded: 1956
+    founded: 1902
     headquarters: Brussels, Belgium
+    status: active
+    sector: holding
+    stakeholders:
+    - person: paul-desmarais-jr
+      role: chairman
+      from: 2019
+      to: 2025
+      note: Vice-Chairman from 2025
+    - person: albert-frere
+      role: chairman
+      from: 1982
+      to: 2018
+    - org: pargesa
+      role: control
+      share: 50%
+      from: 1990
   gchq:
     name: GCHQ
     type: agency
@@ -9790,6 +10773,18 @@ organizations:
     - person: lee-hsien-loong
       role: chairman
       from: 2011
+  gillette:
+    name: Gillette
+    type: company
+    founded: 1901
+    headquarters: Boston, USA
+    status: acquired
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: board
+      from: 1998
+      to: 2005
+      note: Director, first partnership with Buffett
   girona-fc:
     name: Girona FC
     type: sportsclub
@@ -10082,16 +11077,21 @@ organizations:
       from: 2017
       note: $2.5B fund partnership
   google:
-    name: Google (Alphabet)
+    name: Google
     type: company
     founded: 1998
-    headquarters: Mountain View, California, USA
+    headquarters: Mountain View, USA
     status: active
     sector: tech
     stakeholders:
     - person: frances-haugen
       role: operative
       note: Product manager, ranking systems
+    - person: lin-bin
+      role: executive
+      from: 2006
+      to: 2010
+      note: Engineering Director
   goto:
     name: GoTo Group (PT GoTo Gojek Tokopedia Tbk)
     type: company
@@ -10279,6 +11279,20 @@ organizations:
       from: 1968
       to: 2014
       note: Longest serving MP, President Chamber 1999-2007
+  governo-brasil:
+    name: Governo do Brasil
+    type: government
+    headquarters: Brasilia, Brazil
+    status: active
+    stakeholders:
+    - person: henrique-meirelles
+      role: minister
+      from: 2016
+      to: 2018
+      note: Minister of Finance (Temer government)
+    - person: walther-moreira-salles
+      role: minister
+      note: Ambassador to USA 1950s, Finance Minister 1961-1963
   governo-canada:
     name: Governo Canada
     type: government
@@ -10294,10 +11308,17 @@ organizations:
     - person: chrystia-freeland
       role: minister
       from: 2020
+    - person: john-manley
+      role: minister
+      from: 1993
+      to: 2003
+      note: Industry (1993-2000), Foreign Affairs (2000-2002), Finance (2002-2003), Deputy PM (2002-2003)
   governo-cina:
     name: Governo della Cina
     type: government
-    headquarters: Beijing
+    founded: 1949
+    headquarters: Beijing, China
+    status: active
     stakeholders:
     - person: xi-jinping
       role: leader
@@ -10308,6 +11329,56 @@ organizations:
       from: 1998
       to: 2003
       note: Vice Minister of Finance
+    - person: li-qiang
+      role: leader
+      from: 2023
+      note: 'Premier, PSC #2'
+    - person: zhao-leji
+      role: leader
+      from: 2023
+      note: 'NPC Chairman, PSC #3'
+    - person: wang-huning
+      role: leader
+      from: 2023
+      note: 'CPPCC Chairman, PSC #4, ideologo'
+    - person: cai-qi
+      role: leader
+      from: 2022
+      note: 'CCP Secretariat, PSC #5'
+    - person: ding-xuexiang
+      role: minister
+      from: 2023
+      note: 'Executive Vice Premier, PSC #6'
+    - person: li-xi
+      role: leader
+      from: 2022
+      note: 'CCDI Secretary, PSC #7, anti-corruzione'
+    - person: he-lifeng
+      role: minister
+      from: 2023
+      note: Vice Premier, economic tsar
+    - person: wang-yi
+      role: minister
+      from: 2023
+      note: Foreign Minister (reinstated after Qin Gang)
+    - person: pony-ma
+      role: legislator
+      from: 2013
+      to: 2022
+      note: NPC delegate
+    - person: ge-haijiao
+      role: minister
+      from: 2019
+      to: 2023
+      note: Vice Governor Hebei Province
+    - person: lei-jun
+      role: legislator
+      from: 2013
+      note: NPC Deputy
+    - person: dai-houliang
+      role: legislator
+      from: 2023
+      note: 14th CPPCC member
   governo-cipro:
     name: Governo Cipro
     type: government
@@ -10790,6 +11861,116 @@ organizations:
     type: government
     headquarters: Tokyo, Japan
     status: active
+    stakeholders:
+    - person: shinzo-abe
+      role: leader
+      from: 2006
+      to: 2007
+      note: Prime Minister (1st term)
+    - person: shinzo-abe
+      role: leader
+      from: 2012
+      to: 2020
+      note: Prime Minister (2nd term) - longest serving
+    - person: nobusuke-kishi
+      role: leader
+      from: 1957
+      to: 1960
+      note: Prime Minister
+    - person: shintaro-abe
+      role: minister
+      from: 1982
+      to: 1986
+      note: Foreign Minister
+    - person: eisaku-sato
+      role: leader
+      from: 1964
+      to: 1972
+      note: Prime Minister - Nobel Peace Prize 1974
+    - person: taro-aso
+      role: leader
+      from: 2008
+      to: 2009
+      note: PM 92°
+    - person: taro-aso
+      role: minister
+      from: 2012
+      to: 2021
+      note: Deputy PM, Min. Finanze (record durata)
+    - person: taro-aso
+      role: minister
+      from: 2005
+      to: 2007
+      note: Min. Affari Esteri
+    - person: taro-aso
+      role: minister
+      from: 2003
+      to: 2005
+      note: Min. Affari Interni e Comunicazioni
+    - person: taro-aso
+      role: legislator
+      from: 1979
+      note: Deputato Fukuoka 8°, 15 mandati
+    - person: shigeru-yoshida
+      role: leader
+      from: 1946
+      to: 1947
+      note: PM 45°
+    - person: shigeru-yoshida
+      role: leader
+      from: 1948
+      to: 1954
+      note: PM 48°-51°
+    - person: zenko-suzuki
+      role: leader
+      from: 1980
+      to: 1982
+      note: PM 70°
+    - person: kiichi-miyazawa
+      role: leader
+      from: 1991
+      to: 1993
+      note: PM 78°
+    - person: kiichi-miyazawa
+      role: minister
+      from: 1986
+      to: 1988
+      note: Min. Finanze
+    - person: kiichi-miyazawa
+      role: minister
+      from: 1998
+      to: 2001
+      note: Min. Finanze; New Miyazawa Initiative $30B
+    - person: kiichi-miyazawa
+      role: minister
+      from: 1974
+      to: 1976
+      note: Min. Affari Esteri
+    - person: kiichi-miyazawa
+      role: minister
+      from: 1970
+      to: 1971
+      note: Min. Commercio e Industria (MITI)
+    - person: kiichi-miyazawa
+      role: minister
+      from: 1987
+      to: 1988
+      note: Vice PM (Gabinetto Takeshita)
+    - person: kiichi-miyazawa
+      role: legislator
+      from: 1953
+      to: 2003
+      note: Camera Alta 1953-67, Camera Bassa 1967-2003 (14 mandati)
+    - person: hayato-ikeda
+      role: leader
+      from: 1960
+      to: 1964
+      note: PM 58°-60°; Income Doubling Plan
+    - person: tadashi-yamamoto
+      role: advisor
+      from: 1999
+      to: 2000
+      note: Exec. Dir. PM Commission on Japan Goals 21st Century (Obuchi)
   governo-grecia:
     name: Governo Grecia
     type: government
@@ -10898,6 +12079,50 @@ organizations:
       from: 2009
       to: 2012
       note: Min. Education 2009-12, Min. Development 2012
+  governo-india:
+    name: Repubblica dell'India
+    type: government
+    founded: 1947
+    headquarters: New Delhi, India
+    status: active
+    note: Democrazia più grande del mondo, 1.4 miliardi di cittadini
+    stakeholders:
+    - person: nandan-nilekani
+      role: executive
+      from: 2009
+      to: 2014
+      note: Chairman UIDAI (Aadhaar), rank Cabinet Minister
+    - person: narendra-modi
+      role: leader
+      from: 2014
+      note: Prime Minister, 3 termini consecutivi (Modi 1.0, 2.0, 3.0)
+    - person: droupadi-murmu
+      role: leader
+      from: 2022
+      note: President, prima donna tribale e seconda donna in carica
+    - person: s-jaishankar
+      role: minister
+      from: 2019
+      note: External Affairs Minister, ex-Foreign Secretary e ambasciatore
+    - person: nirmala-sitharaman
+      role: minister
+      from: 2019
+      note: Finance Minister, membro IMFC rappresenta India a IMF/World Bank
+    - person: manmohan-singh
+      role: leader
+      from: 1991
+      to: 2014
+      note: Finance Minister 1991-96 (riforme), Prime Minister 2004-14
+    - person: jawaharlal-nehru
+      role: leader
+      from: 1947
+      to: 1964
+      note: Primo Prime Minister, padre della nazione moderna
+    - person: indira-gandhi
+      role: leader
+      from: 1966
+      to: 1984
+      note: Prime Minister 1966-77, 1980-84. Emergency, assassinata
   governo-indonesia:
     name: Repubblica di Indonesia
     type: government
@@ -12622,6 +13847,64 @@ organizations:
       role: executive
       from: 2019
       note: Director Open Government Products
+  gpif:
+    name: Government Pension Investment Fund
+    type: swf
+    founded: 2006
+    headquarters: Tokyo, Japan
+    status: active
+    stakeholders:
+    - person: kazuto-uchida
+      role: chairman
+      from: 2025
+      note: President (from MUFG)
+    - person: hirohide-yamaguchi
+      role: chairman
+      note: Chairman Board of Governors
+    - person: hiro-mizuno
+      role: executive
+      from: 2015
+      to: 2020
+      note: CIO - ESG pioneer
+    - person: masataka-miyazono
+      role: chairman
+      from: 2020
+      to: 2025
+      note: President
+    - org: governo-giappone
+      role: owner
+      note: Reports to Ministry of Health, Labour and Welfare
+  grasim:
+    name: Grasim Industries
+    type: company
+    founded: 1947
+    headquarters: Mumbai, India
+    status: active
+    sector: textiles
+    stakeholders:
+    - person: kumar-mangalam-birla
+      role: chairman
+      from: 1995
+    - person: ananya-birla
+      role: board
+      from: 2023
+    - person: aryaman-birla
+      role: board
+      from: 2023
+    - org: aditya-birla-group
+      role: parent
+  great-west-lifeco:
+    name: Great-West Lifeco
+    type: company
+    founded: 1891
+    headquarters: Winnipeg, Canada
+    status: active
+    sector: insurance-financial
+    stakeholders:
+    - org: power-corporation
+      role: control
+      share: 72%
+      from: 1969
   greensill:
     type: company
     founded: 2011
@@ -12669,6 +13952,10 @@ organizations:
     - person: klaas-knot
       role: member
       note: G30 member
+    - person: raghuram-rajan
+      role: chairman
+      from: 2021
+      note: Chairman
   groupe-arnault:
     name: Groupe Arnault
     type: company
@@ -12802,6 +14089,19 @@ organizations:
       share: 4.5%
     - org: state-street
       share: 1.5%
+  gsma:
+    name: GSM Association
+    type: agency
+    founded: 1995
+    headquarters: London, UK
+    status: active
+    sector: telecom
+    stakeholders:
+    - person: sunil-mittal
+      role: chairman
+      from: 2017
+      to: 2018
+      note: First Indian GSMA Chairman; Board 2005-2008
   guardicore:
     type: company
     headquarters: Israel
@@ -12826,13 +14126,17 @@ organizations:
       from: 1994
       note: CEO, 35.67% stake
   gulf-oil:
-    name: Gulf Oil
+    name: Gulf Oil International
     type: company
     founded: 1901
-    headquarters: Pittsburgh, USA
-    status: defunct
-    sector: petrolio
+    headquarters: London, UK
+    status: active
+    sector: oil
     note: Fusa in Chevron 1985
+    stakeholders:
+    - org: hinduja-group
+      role: parent
+      from: 1984
   gunvor:
     name: Gunvor Group
     type: company
@@ -12913,6 +14217,10 @@ organizations:
     - person: douglas-flint
       role: advisor
       note: International Advisory Board; former Chairman HSBC
+    - person: hironori-kamezawa
+      role: advisor
+      from: 2023
+      note: International Advisory Board
     - org: kissinger-associates
       role: strategic partner
       from: 2000
@@ -12995,6 +14303,32 @@ organizations:
       role: board
     - org: qia
       role: subsidiary
+  harvard:
+    name: Harvard University
+    type: thinktank
+    founded: 1636
+    headquarters: Cambridge, USA
+    status: active
+    stakeholders:
+    - person: sunil-mittal
+      role: advisor
+      note: Global Advisory Council
+    - person: anand-mahindra
+      role: member
+      from: 1977
+      note: BA 1977, MBA 1981, $10M donor Humanities Center
+  harvard-business-school:
+    name: Harvard Business School
+    type: university
+    founded: 1908
+    headquarters: Boston, USA
+    status: active
+    stakeholders:
+    - person: hiroshi-mikitani
+      role: alumni
+      from: 1991
+      to: 1993
+      note: MBA 1993; Alumni Achievement Award 2012
   harvard-medical-school:
     name: Harvard Medical School
     type: thinktank
@@ -13005,6 +14339,29 @@ organizations:
     - person: vas-narasimhan
       role: board
       note: Board of Fellows
+  harvard-university:
+    name: Harvard University
+    type: university
+    founded: 1636
+    headquarters: Cambridge, USA
+    status: active
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: alumnus
+      from: 1956
+      to: 1961
+      note: BA Economics 1961, endowed professorship
+    - person: henrique-meirelles
+      role: alumnus
+      from: 1984
+      note: Advanced Management Program (AMP), HBS; Advisory Board HKS
+    - person: pedro-moreira-salles
+      role: alumnus
+      from: 1997
+      note: Owner/President Management Program HBS
+    - person: andre-esteves
+      role: advisor
+      note: Latin America Advisory Board HBS, Esteves Hall donor 2015
   havas:
     name: Havas
     type: media
@@ -13043,6 +14400,17 @@ organizations:
       role: founder
       from: 2007
       note: Founder and Non-Executive Director
+  hdfc-bank:
+    name: HDFC Bank
+    type: company
+    headquarters: Mumbai, India
+    stakeholders:
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 2.0%
+    - org: state-street
+      share: 0.5%
   heathrow-airport:
     name: Heathrow Airport
     type: company
@@ -13182,6 +14550,89 @@ organizations:
     founded: 2000
     headquarters: Bucharest, Romania
     sector: energy
+  hindalco:
+    name: Hindalco Industries
+    type: company
+    founded: 1958
+    headquarters: Mumbai, India
+    status: active
+    sector: metals
+    stakeholders:
+    - person: kumar-mangalam-birla
+      role: chairman
+      from: 1995
+    - person: ananya-birla
+      role: board
+      from: 2024
+      note: Non-Executive Director
+    - person: aryaman-birla
+      role: board
+      from: 2024
+      note: Non-Executive Director
+    - org: aditya-birla-group
+      role: parent
+  hinduja-foundation:
+    name: Hinduja Foundation
+    type: foundation
+    founded: 1968
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: ashok-hinduja
+      role: chairman
+  hinduja-global-solutions:
+    name: Hinduja Global Solutions
+    type: company
+    headquarters: Bangalore, India
+    status: active
+    sector: IT/BPM
+    stakeholders:
+    - org: hinduja-group
+      role: parent
+  hinduja-group:
+    name: Hinduja Group
+    type: company
+    founded: 1914
+    headquarters: London, UK
+    status: active
+    sector: conglomerate
+    stakeholders:
+    - person: parmanand-hinduja
+      role: founder
+      from: 1914
+    - person: srichand-hinduja
+      role: chairman
+      to: 2023
+    - person: gopichand-hinduja
+      role: chairman
+      to: 2025
+      note: Co-chairman
+    - person: prakash-hinduja
+      role: chairman
+      note: Chairman Europe
+    - person: ashok-hinduja
+      role: chairman
+      note: Chairman India
+  hinduja-hospital:
+    name: P.D. Hinduja National Hospital and Medical Research Centre
+    type: foundation
+    founded: 1951
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: ashok-hinduja
+      role: chairman
+      note: National Health and Education Society
+  hindustan-times:
+    name: Hindustan Times
+    type: media
+    founded: 1924
+    headquarters: New Delhi, India
+    status: active
+    stakeholders:
+    - person: gd-birla
+      role: founder
+      from: 1924
   histadrut:
     type: agency
     founded: 1920
@@ -13193,6 +14644,10 @@ organizations:
       from: 1921
       to: 1935
       note: Secretary-General
+  hitachi:
+    name: Hitachi, Ltd.
+    type: company
+    headquarters: Tokyo, Japan
   hm:
     name: H&M (Hennes & Mauritz)
     type: company
@@ -13220,6 +14675,32 @@ organizations:
     - person: conrad-black
       role: executive
       note: CEO, forced out 2003-2004
+  honda:
+    name: Honda Motor Co., Ltd.
+    type: automaker
+    founded: 1948
+    headquarters: Tokyo, Japan
+    status: active
+    sector: automotive
+    stakeholders:
+    - person: soichiro-honda
+      role: founder
+      from: 1948
+      to: 1973
+      note: Founder, President & CEO
+    - person: takeo-fujisawa
+      role: founder
+      from: 1949
+      to: 1973
+      note: Co-founder, Executive VP
+    - person: toshihiro-mibe
+      role: executive
+      from: 2021
+      note: President & CEO
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 6.0%
   hongkong-land:
     name: Hongkong Land Holdings Limited
     type: company
@@ -13231,6 +14712,17 @@ organizations:
     - org: jardine-matheson
       role: parent
       share: 0.504
+  hony-capital:
+    name: Hony Capital
+    type: privateequity
+    founded: 2003
+    headquarters: Beijing, China
+    status: active
+    aum: 7000000000
+    stakeholders:
+    - org: legend-holdings
+      role: controlling
+      note: Subsidiary
   hotel-shilla:
     name: Hotel Shilla
     type: company
@@ -13260,6 +14752,9 @@ organizations:
     status: active
     sector: banking
     stakeholders:
+    - person: narayana-murthy
+      role: board
+      note: Independent Director
     - org: blackrock
       share: 7.0%
     - org: vanguard
@@ -13283,6 +14778,38 @@ organizations:
     - org: hsbc
       role: subsidiary
       share: 100
+  huawei:
+    name: Huawei Technologies
+    type: company
+    founded: 1987
+    headquarters: Shenzhen, China
+    status: active
+    sector: telecommunications
+    stakeholders:
+    - person: ren-zhengfei
+      role: founder
+      from: 1987
+      note: Founder, owns ~0.65% via ESOP
+    - person: meng-wanzhou
+      role: executive
+      from: 2011
+      note: CFO, Deputy Chair, Rotating Chair Oct 2025 - Mar 2026
+    - person: liang-hua
+      role: chairman
+      from: 2019
+      note: Chairman of the Board
+    - person: xu-zhijun
+      role: chairman
+      from: 2018
+      note: Deputy Chair, Rotating Chairman Apr-Sep 2025
+    - person: hu-houkun
+      role: chairman
+      from: 2018
+      note: Deputy Chair, Rotating Chairman
+    - person: yu-chengdong
+      role: executive
+      from: 2011
+      note: Executive Director, CEO Consumer Business Group
   hudson-institute:
     name: Hudson Institute
     type: thinktank
@@ -13304,6 +14831,15 @@ organizations:
     stakeholders:
     - org: gedi
       share: 100%
+  hul:
+    name: Hindustan Unilever
+    type: company
+    headquarters: Mumbai, India
+    stakeholders:
+    - org: blackrock
+      share: 5.2%
+    - org: vanguard
+      share: 1.2%
   hulu:
     name: Hulu
     type: media
@@ -13424,6 +14960,19 @@ organizations:
       share: 9
       from: 2011
       note: Largest shareholder
+  ibj:
+    name: Industrial Bank of Japan
+    type: bank
+    founded: 1902
+    headquarters: Tokyo, Japan
+    status: merged
+    note: Fusa in Mizuho 2002
+    stakeholders:
+    - person: hiroshi-mikitani
+      role: executive
+      from: 1988
+      to: 1996
+      note: Investment banker
   iblac-shanghai:
     name: International Business Leaders Advisory Council for the Mayor of Shanghai
     type: forum
@@ -13456,6 +15005,29 @@ organizations:
     headquarters: Jakarta, Indonesia
     status: defunct
     note: Created to restructure banking sector after 1997-98 crisis. Managed $65B rescue, recovered ~$20B
+  icbc:
+    name: Industrial and Commercial Bank of China
+    type: bank
+    founded: 1984
+    headquarters: Beijing, China
+    status: active
+    sector: banking
+    stakeholders:
+    - person: liao-lin
+      role: chairman
+      from: 2024
+    - person: chen-siqing
+      role: chairman
+      from: 2019
+      to: 2024
+    - person: gu-shu
+      role: executive
+      from: 2016
+      to: 2020
+      note: President
+    - org: central-huijin
+      share: 34.7
+      note: Controlling shareholder
   icc:
     name: International Chamber of Commerce
     type: forum
@@ -13475,6 +15047,17 @@ organizations:
       role: chairman
       from: 2020
       to: 2022
+  icici-bank:
+    name: ICICI Bank
+    type: bank
+    headquarters: Mumbai, India
+    stakeholders:
+    - org: blackrock
+      share: 2.5%
+    - org: vanguard
+      share: 2.0%
+    - org: state-street
+      share: 0.5%
   icj:
     name: International Court of Justice (ICJ)
     type: agency
@@ -13592,6 +15175,17 @@ organizations:
       from: 1938
       to: 1945
       note: Betriebsfuhrer Upper Rhine, Wehrwirtschaftsfuhrer 1941
+  igm-financial:
+    name: IGM Financial
+    type: assetmanager
+    founded: 1926
+    headquarters: Winnipeg, Canada
+    status: active
+    sector: asset-management
+    stakeholders:
+    - org: power-corporation
+      role: control
+      from: 1970
   ihs-holding:
     name: IHS Holding Ltd
     type: company
@@ -13612,6 +15206,20 @@ organizations:
       from: 2003
       to: 2022
       note: Founder Markit 2003; Chairman & CEO IHS Markit 2016-2022
+  iim-ahmedabad:
+    type: thinktank
+    founded: 1961
+    headquarters: Ahmedabad, India
+    status: active
+    stakeholders:
+    - person: narayana-murthy
+      role: chairman
+      note: Chairman Governing Board
+    - person: kumar-mangalam-birla
+      role: chairman
+      from: 2017
+      to: 2022
+      note: Chairman Board of Governors
   iiss:
     name: International Institute for Strategic Studies
     type: thinktank
@@ -13753,6 +15361,25 @@ organizations:
       role: board
       from: 1990
       note: Governor for Romania
+    - person: raghuram-rajan
+      role: executive
+      from: 2003
+      to: 2006
+      note: Chief Economist & Director of Research
+    - person: nirmala-sitharaman
+      role: member
+      from: 2019
+      note: Membro IMFC, rappresenta constituency India-Bangladesh-Bhutan-Sri Lanka
+    - person: manmohan-singh
+      role: advisor
+      from: 1991
+      to: 1996
+      note: Negoziatore riforme strutturali 1991, bailout IMF
+    - person: taro-aso
+      role: member
+      from: 2012
+      to: 2021
+      note: Rappresentante Giappone come Min. Finanze
   ina:
     name: INA (Istituto Nazionale Assicurazioni)
     type: company
@@ -13840,6 +15467,16 @@ organizations:
     - org: salim-group
       share: 45
       note: Via Indoritel Makmur
+  indusind-bank:
+    name: IndusInd Bank
+    type: bank
+    founded: 1994
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - org: hinduja-group
+      role: parent
+      from: 1994
   industry-capital-partners:
     name: Industry Capital Partners
     type: company
@@ -13890,6 +15527,41 @@ organizations:
     founded: 1992
     headquarters: Tallinn, Estonia
     sector: Diversified Holding
+  infosys:
+    name: Infosys Limited
+    type: company
+    founded: 1981
+    headquarters: Bangalore, India
+    status: active
+    sector: IT
+    stakeholders:
+    - person: narayana-murthy
+      role: founder
+      from: 1981
+      note: CEO 1981-2002, Chairman 2002-2006, Chairman Emeritus 2011-2013, Executive Chairman 2013-2014
+    - person: nandan-nilekani
+      role: founder
+      from: 1981
+      note: Co-founder
+    - person: nandan-nilekani
+      role: chairman
+      from: 2017
+      note: Non-executive Chairman
+    - person: salil-parekh
+      role: executive
+      from: 2018
+      note: CEO & Managing Director
+    - org: blackrock
+      share: 4.9%
+    - org: vanguard
+      share: 2.4%
+    - org: state-street
+      share: 0.5%
+  infosys-foundation:
+    type: foundation
+    founded: 1996
+    headquarters: Bangalore, India
+    status: active
   ing:
     name: ING Group N.V.
     type: bank
@@ -13933,6 +15605,15 @@ organizations:
     name: ING Bank Śląski S.A.
     type: bank
     headquarters: Katowice, Poland
+  insper:
+    name: Insper Instituto de Ensino e Pesquisa
+    type: university
+    headquarters: Sao Paulo, Brazil
+    status: active
+    stakeholders:
+    - person: pedro-moreira-salles
+      role: board
+      note: Supervisory Board member
   institut-montaigne:
     name: Institut Montaigne
     type: thinktank
@@ -13959,6 +15640,14 @@ organizations:
     - person: jean-michel-blanquer
       role: member
       note: Former member
+  institute-advanced-study:
+    type: thinktank
+    founded: 1930
+    headquarters: Princeton, NJ, USA
+    status: active
+    stakeholders:
+    - person: narayana-murthy
+      role: board
   institute-international-finance:
     name: Institute of International Finance
     type: forum
@@ -13972,6 +15661,35 @@ organizations:
     - person: axel-weber
       role: chairman
       note: Chairman
+  instituto-moreira-salles:
+    name: Instituto Moreira Salles
+    type: foundation
+    founded: 1990
+    headquarters: Sao Paulo, Brazil
+    status: active
+  inteli:
+    name: Institute of Technology and Leadership
+    type: university
+    founded: 2021
+    headquarters: São Paulo, Brazil
+    status: active
+    stakeholders:
+    - person: andre-esteves
+      role: founder
+      from: 2021
+      note: Co-founder with Roberto Sallouti
+  inter-american-dialogue:
+    name: Inter-American Dialogue
+    type: thinktank
+    founded: 1982
+    headquarters: Washington, USA
+    status: active
+    stakeholders:
+    - person: henrique-meirelles
+      role: member
+    - person: pedro-moreira-salles
+      role: member
+      note: Group of Fifty (G-50)
   inter-milan:
     name: FC Internazionale Milano
     type: sportsclub
@@ -14223,6 +15941,10 @@ organizations:
       role: member
       from: 1998
       note: Olympic Solidarity Commission
+    - person: nita-ambani
+      role: member
+      from: 2016
+      note: First Indian woman member
   ioffe-institute:
     name: Ioffe Physico-Technical Institute
     type: company
@@ -14359,6 +16081,37 @@ organizations:
     stakeholders:
     - org: mediaset-mfe
       share: 100%
+  itau-unibanco:
+    name: Itaú Unibanco
+    type: bank
+    founded: 2008
+    headquarters: São Paulo, Brazil
+    stakeholders:
+    - person: pedro-moreira-salles
+      role: chairman
+      from: 2008
+      note: Co-Chairman of the Board
+    - person: fernando-moreira-salles
+      role: board
+      note: Ex-board member, 13% stake via restructuring 2022
+    - org: blackrock
+      share: 6.8%
+    - org: vanguard
+      share: 0.3%
+  itausa:
+    name: Itaúsa S.A.
+    type: company
+    founded: 1966
+    headquarters: São Paulo, Brazil
+    sector: Holding
+  itc:
+    name: ITC Limited
+    type: company
+    headquarters: Kolkata, India
+  itochu:
+    name: Itochu Corporation
+    type: company
+    headquarters: Osaka, Japan
   itv:
     name: ITV plc
     type: media
@@ -14366,6 +16119,16 @@ organizations:
     headquarters: London, UK
     status: active
     sector: commercial broadcaster
+  iupar:
+    name: Iupar - Itau Unibanco Participacoes
+    type: company
+    headquarters: Sao Paulo, Brazil
+    status: active
+    note: Holding controllo Itau Unibanco
+    stakeholders:
+    - person: fernando-moreira-salles
+      role: board
+      note: Director
   jacques-delors-institute:
     type: thinktank
     founded: 1996
@@ -14375,7 +16138,7 @@ organizations:
       role: chairman
       from: 2016
   jaguar-land-rover:
-    name: Jaguar Land Rover
+    name: Jaguar Land Rover (JLR)
     type: automaker
     founded: 2008
     headquarters: Coventry, UK
@@ -14383,11 +16146,30 @@ organizations:
     sector: automotive, luxury
     note: 100% owned by Tata Motors since 2008 ($2.3B from Ford)
     stakeholders:
+    - person: n-chandrasekaran
+      role: chairman
+      from: 2017
+    - person: pb-balaji
+      role: executive
+      from: 2025
+      note: CEO (primo indiano a guidare JLR)
     - org: tata-motors
       role: owner
       share: 100%
       from: 2008
       note: $2.3B from Ford
+  jane:
+    name: Japan Association of New Economy
+    type: forum
+    founded: 2012
+    headquarters: Tokyo, Japan
+    status: active
+    note: Rivale di Keidanren, fondata da Mikitani dopo uscita
+    stakeholders:
+    - person: hiroshi-mikitani
+      role: founder
+      from: 2012
+      note: Representative Director
   janssen-pharmaceutica:
     name: Janssen Pharmaceutica
     type: pharma
@@ -14470,6 +16252,50 @@ organizations:
     - org: jardine-matheson
       role: parent
       share: 1.0
+  jbs:
+    name: JBS S.A.
+    type: company
+    founded: 1953
+    headquarters: São Paulo, Brazil
+    sector: Food Processing
+  jcie:
+    name: Japan Center for International Exchange
+    type: thinktank
+    founded: 1970
+    headquarters: Tokyo, Japan
+    status: active
+    note: Think tank internazionalista; host Trilateral Asia arm
+    stakeholders:
+    - person: tadashi-yamamoto
+      role: founder
+      from: 1970
+      to: 2012
+      note: Founder & President fino alla morte
+  jd-com:
+    name: JD.com Inc
+    type: company
+    headquarters: Beijing, China
+    sector: E-commerce
+    stakeholders:
+    - org: blackrock
+      share: 5.0
+    - org: vanguard
+      share: 5.0
+  jefferies:
+    name: Jefferies Financial Group
+    type: bank
+    founded: 1962
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: toru-nakashima
+      role: board
+      from: 2024
+      note: Director
+    - org: smfg
+      share: 20%
+      from: 2021
+      note: Strategic alliance, JV equity Japan planned 2027
   jeronimo-martins:
     name: Jerónimo Martins
     type: company
@@ -14512,6 +16338,15 @@ organizations:
       role: parent
       from: 1929
       note: Jewish Agency braccio operativo WZO
+  jf-investimentos:
+    name: J&F Investimentos
+    type: company
+    headquarters: São Paulo, Brazil
+    status: active
+    stakeholders:
+    - person: henrique-meirelles
+      role: chairman
+      note: Chairman of the board, owner of JBS and Banco Original
   jfrog:
     type: company
     founded: 2008
@@ -14524,9 +16359,19 @@ organizations:
   jin-jiang:
     name: Jin Jiang International
     type: company
+    founded: 1935
     headquarters: Shanghai, China
     status: active
     sector: hospitality
+    stakeholders:
+    - person: yu-minliang
+      role: executive
+      from: 2019
+      note: Chairman & CEO
+    - org: governo-cina
+      role: owner
+      share: 100
+      note: Owned by Shanghai Municipal People's Government
   jinsa:
     name: Jewish Institute for National Security of America
     type: thinktank
@@ -14702,6 +16547,10 @@ organizations:
       role: member
     - person: ignacio-galan
       role: member
+  jsw-steel:
+    name: JSW Steel
+    type: company
+    headquarters: Mumbai, India
   jtbc:
     name: JTBC
     type: media
@@ -14769,6 +16618,19 @@ organizations:
       share: 4.0%
     - org: vanguard
       share: 2.0%
+  keidanren:
+    name: Keidanren (Japan Business Federation)
+    type: forum
+    founded: 1946
+    headquarters: Tokyo, Japan
+    status: active
+    note: Voce del big business giapponese
+    stakeholders:
+    - person: hiroshi-mikitani
+      role: member
+      from: 2004
+      to: 2011
+      note: Uscita polemica post-Fukushima
   keppel:
     name: Keppel Ltd
     type: company
@@ -14822,6 +16684,10 @@ organizations:
     founded: 1940
     headquarters: Helsinki, Finland
     sector: Retail
+  keyence:
+    name: Keyence Corporation
+    type: company
+    headquarters: Osaka, Japan
   kgb:
     name: Komitet Gosudarstvennoy Bezopasnosti
     type: agency
@@ -14878,6 +16744,18 @@ organizations:
     headquarters: Riyadh, Saudi Arabia
     status: active
     sector: investment
+  kingsoft:
+    name: Kingsoft Corporation
+    type: company
+    founded: 1988
+    headquarters: Beijing, Cina
+    status: active
+    sector: software
+    stakeholders:
+    - person: lei-jun
+      role: chairman
+      from: 2011
+      note: Chairman; CEO 1998-2007
   kingspan:
     name: Kingspan Group
     type: company
@@ -14965,6 +16843,10 @@ organizations:
     - person: ridha-wirakusumah
       role: partner
       note: Head of Indonesia
+    - person: henrique-meirelles
+      role: advisor
+      from: 2012
+      note: Senior Advisor, Latin America business development
     - org: mubadala
       role: investor
       note: $1B co-investment Asia-Pacific 2022
@@ -15026,6 +16908,16 @@ organizations:
       role: board
       from: 2012
       to: 2023
+  kotak-mahindra-bank:
+    name: Kotak Mahindra Bank
+    type: bank
+    founded: 1985
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: anand-mahindra
+      role: founder
+      note: Co-promoter
   kpn:
     name: Koninklijke KPN N.V.
     type: company
@@ -15050,6 +16942,21 @@ organizations:
   kraft-foods:
     type: company
     status: active
+  kraft-heinz:
+    name: Kraft Heinz Company
+    type: company
+    founded: 2015
+    headquarters: Chicago, USA
+    status: active
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: board
+      from: 2013
+      to: 2021
+      note: Director, divested 2023
+    - person: alexandre-behring
+      role: chairman
+      from: 2015
   krung-thai-bank:
     name: Krungthai Bank
     type: bank
@@ -15202,6 +17109,10 @@ organizations:
     stakeholders:
     - org: volkswagen
       role: subsidiary
+  larsen-toubro:
+    name: Larsen & Toubro
+    type: company
+    headquarters: Mumbai, India
   latitude-capital:
     name: Latitude Capital
     type: privateequity
@@ -15224,6 +17135,18 @@ organizations:
     - person: johann-rupert
       role: founder
       from: 2000
+  lawson:
+    name: Lawson, Inc.
+    type: company
+    founded: 1975
+    headquarters: Tokyo, Japan
+    status: active
+    sector: retail
+    stakeholders:
+    - org: mitsubishi-corp
+      share: 50%
+      from: 2017
+      note: Majority stake via tender offer
   lazard:
     name: Lazard
     type: bank
@@ -15245,6 +17168,31 @@ organizations:
       role: advisor
       from: 2020
       note: Senior Advisor, Chairman Canada
+    - person: henrique-meirelles
+      role: chairman
+      from: 2012
+      note: Chairman Lazard Americas
+  ldp:
+    name: Liberal Democratic Party
+    type: party
+    founded: 1955
+    headquarters: Tokyo, Japan
+    status: active
+    stakeholders:
+    - person: taro-aso
+      role: executive
+      from: 2021
+      to: 2024
+      note: Vice Presidente LDP
+    - person: taro-aso
+      role: advisor
+      from: 2024
+      note: Senior Advisor; capo fazione Shikokai
+    - person: kiichi-miyazawa
+      role: executive
+      from: 1955
+      to: 2003
+      note: Kochikai faction leader (successore Ikeda-Ohira-Suzuki)
   le-figaro:
     name: Le Figaro
     type: media
@@ -15326,11 +17274,23 @@ organizations:
       from: 2004
       note: Director
   legend-holdings:
-    name: Legend Holdings
+    name: Legend Holdings Corporation
     type: company
     founded: 1984
     headquarters: Beijing, China
     status: active
+    sector: investment holding
+    aum: 300000000000
+    stakeholders:
+    - person: liu-chuanzhi
+      role: founder
+      from: 1984
+      to: 2019
+      note: Founder, Chairman until 2019
+    - person: ning-min
+      role: chairman
+      from: 2020
+      note: Chairman since 2020
   legrand:
     name: Legrand SA
     type: company
@@ -15393,9 +17353,14 @@ organizations:
       role: executive
       to: 2007
       note: CFO, key in IBM PC acquisition 2005
+    - person: liu-chuanzhi
+      role: founder
+      from: 1984
+      note: Founder, Chairman 1984-2004, 2009-2011
     - org: legend-holdings
-      role: owner
-      note: Largest shareholder
+      role: controlling
+      share: 31.41
+      note: Controlling shareholder as of March 2025
   leonard-green-partners:
     name: Leonard Green & Partners
     type: privateequity
@@ -15458,6 +17423,16 @@ organizations:
     founded: 1999
     headquarters: Tallinn, Estonia
     sector: Financial Services
+  li-auto:
+    name: Li Auto Inc
+    type: company
+    headquarters: Beijing, China
+    sector: Electric Vehicles
+    stakeholders:
+    - org: blackrock
+      share: 3.5
+    - org: vanguard
+      share: 3.5
   libero-quotidiano:
     name: Libero Quotidiano
     type: media
@@ -15551,6 +17526,16 @@ organizations:
       share: 4.7%
     - org: state-street
       share: 1.5%
+  lloyds-london:
+    name: Lloyd's of London
+    type: company
+    founded: 1688
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: henrique-meirelles
+      role: member
+      note: Council member
   lockheed:
     name: Lockheed
     type: company
@@ -15580,6 +17565,16 @@ organizations:
       role: founder
       from: 1989
       note: Co-founder with Badri Patarkatsishvili, Chairman 1994
+  lojas-americanas:
+    name: Lojas Americanas
+    type: company
+    founded: 1929
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: board
+      note: Board member, accounting scandal 2023
   lonza:
     name: Lonza Group AG
     type: company
@@ -15657,6 +17652,19 @@ organizations:
     - org: bollore-group
       share: 31.5%
       from: 2024
+  louvre-hotels:
+    name: Louvre Hotels Group
+    type: company
+    founded: 1976
+    headquarters: Paris, France
+    status: active
+    sector: hospitality
+    stakeholders:
+    - org: jin-jiang
+      role: owner
+      share: 100
+      from: 2015
+      note: Acquired from Starwood Capital for €1.21B
   lower-saxony:
     name: State of Lower Saxony
     type: government
@@ -15693,6 +17701,15 @@ organizations:
       share: 5.1%
     - org: state-street
       share: 1.5%
+  lts-investments:
+    name: LTS Investments
+    type: privateequity
+    headquarters: São Paulo, Brazil
+    status: active
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: founder
+      note: Investment Committee
   lucid-motors:
     name: Lucid Motors
     type: automaker
@@ -15863,6 +17880,17 @@ organizations:
     stakeholders:
     - org: rtl-group
       share: majority
+  ma-huateng-global-foundation:
+    name: Ma Huateng Global Foundation
+    type: foundation
+    founded: 2016
+    headquarters: Hong Kong
+    status: active
+    stakeholders:
+    - person: pony-ma
+      role: founder
+      from: 2016
+      note: Transferred $2.3B in Tencent shares
   macquarie:
     name: Macquarie Asset Management
     type: assetmanager
@@ -15896,6 +17924,17 @@ organizations:
     founded: 1991
     headquarters: Budapest, Ungheria
     sector: telecom
+  mahindra-group:
+    name: Mahindra Group
+    type: company
+    founded: 1945
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: anand-mahindra
+      role: chairman
+      from: 2012
+      note: Chairman & MD
   maire-tecnimont:
     name: Maire Tecnimont SpA
     type: company
@@ -15946,6 +17985,10 @@ organizations:
       from: 1930
       to: 1968
       note: Leader del partito
+  marubeni:
+    name: Marubeni Corporation
+    type: company
+    headquarters: Tokyo, Japan
   marvel-studios:
     name: Marvel Studios
     type: media
@@ -16047,6 +18090,9 @@ organizations:
       from: 1995
       to: 1997
       note: London, telecom & financial services
+    - person: mukesh-ambani
+      role: advisor
+      note: International Advisory Council
     - person: vas-narasimhan
       role: member
       to: 2005
@@ -16240,6 +18286,16 @@ organizations:
       note: 10.8M USD
     - org: vanguard
       share: 1.0%
+  meituan:
+    name: Meituan
+    type: company
+    headquarters: Beijing, China
+    sector: Technology
+    stakeholders:
+    - org: blackrock
+      share: 2.5
+    - org: vanguard
+      share: 2.5
   melbourne-city:
     name: Melbourne City FC
     type: sportsclub
@@ -16573,7 +18629,7 @@ organizations:
     name: Microsoft
     type: company
     founded: 1975
-    headquarters: Redmond
+    headquarters: Redmond, USA
     status: active
     sector: tech
     stakeholders:
@@ -16609,6 +18665,11 @@ organizations:
     - person: emma-walmsley
       role: board
       from: 2019
+    - person: lin-bin
+      role: executive
+      from: 1995
+      to: 2006
+      note: Engineering Director
     - org: norges-bank-gpfg
       role: stake
       share: 0.011
@@ -16630,6 +18691,16 @@ organizations:
     headquarters: Foshan, China
     status: active
     sector: appliances
+  milken-institute:
+    name: Milken Institute
+    type: thinktank
+    founded: 1991
+    headquarters: Santa Monica, California, USA
+    status: active
+    stakeholders:
+    - person: andre-esteves
+      role: member
+      note: Global Conference speaker
   millennium-bcp:
     name: Millennium BCP
     type: bank
@@ -16666,6 +18737,37 @@ organizations:
       note: Co-invest con ADIA, GIC - $800M deal
     - org: telkom-indonesia
       role: parent
+  mitsubishi-corp:
+    name: Mitsubishi Corporation
+    type: company
+    founded: 1954
+    headquarters: Tokyo, Japan
+    status: active
+    sector: trading
+    stakeholders:
+    - person: katsuya-nakanishi
+      role: executive
+      from: 2022
+      note: President & CEO
+    - org: blackrock
+      share: 6.0%
+    - org: vanguard
+      share: 7.2%
+    - org: berkshire-hathaway
+      share: 10.23%
+      from: 2020
+      note: Warren Buffett sogo shosha investment
+  mitsubishi-heavy-industries:
+    name: Mitsubishi Heavy Industries, Ltd.
+    type: company
+    founded: 1884
+    headquarters: Tokyo, Japan
+    status: active
+    sector: industrial
+    stakeholders:
+    - person: katsuya-nakanishi
+      role: board
+      note: Board Member
   mitsubishi-motors:
     name: Mitsubishi Motors Corporation
     type: automaker
@@ -16679,6 +18781,36 @@ organizations:
       from: 2016
       to: 2018
       note: Chairman after Nissan acquired controlling stake. Removed Nov 2018 after arrest.
+    - org: nissan
+      share: 24%
+      from: 2016
+      note: Originally 34%, reduced to 24% in Nov 2024
+  mitsui-co:
+    name: Mitsui & Co., Ltd.
+    type: company
+    headquarters: Tokyo, Japan
+    stakeholders:
+    - org: blackrock
+      share: 4.5%
+    - org: vanguard
+      share: 5.0%
+  mizuho:
+    name: Mizuho Financial Group
+    type: bank
+    founded: 2000
+    headquarters: Tokyo, Japan
+    status: active
+    sector: banking
+    note: Japan 3rd megabank, first trillion-dollar bank 2000, Rakuten Card 15% stake
+    stakeholders:
+    - person: masahiro-kihara
+      role: executive
+      from: 2022
+      note: President & Group CEO
+    - person: hiroshi-mikitani
+      role: partner
+      from: 2023
+      note: Alliance strategica Rakuten-Mizuho fintech
   mkb-bank:
     name: MKB Bank (Magyar Kulkereskedelmi Bank)
     type: bank
@@ -16777,6 +18909,10 @@ organizations:
       from: 1989
       to: 2019
       note: President 2016-2019, CFO 2007-2009
+    - person: hironori-kamezawa
+      role: board
+      from: 2021
+      note: Director (via MUFG 22% stake)
     - org: norges-bank-gpfg
       role: stake
     - org: cfr
@@ -16790,6 +18926,10 @@ organizations:
     - org: state-street
       role: stake
       share: 0.038
+    - org: mufg
+      share: 22.41%
+      from: 2008
+      note: $9B investment during financial crisis
   mossad:
     name: HaMossad leModiʿin uleTafkidim Meyuḥadim (Mossad)
     type: agency
@@ -16915,9 +19055,39 @@ organizations:
   mufg:
     name: Mitsubishi UFJ Financial Group
     type: bank
+    founded: 2005
     headquarters: Tokyo, Japan
     status: active
     sector: banking
+    aum: $1.5T deposits
+    note: Japan largest financial group, Morgan Stanley 22% stake holder
+    stakeholders:
+    - person: kazuto-uchida
+      role: executive
+      to: 2025
+      note: Chief Economist, Board Director MUFG Americas; poi President GPIF dal 2025
+    - person: hironori-kamezawa
+      role: executive
+      from: 2020
+      note: President & CEO
+    - person: junichi-hanzawa
+      role: executive
+      from: 2021
+      note: Deputy Chairman, President MUFG Bank; CEO dal 2026
+    - org: blackrock
+      share: 4.5%
+    - org: vanguard
+      share: 5.0%
+    - org: state-street
+      share: 2.5%
+  mumbai-indians:
+    type: sportsclub
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: mukesh-ambani
+      role: founder
+      note: IPL franchise owner
   mundys:
     name: Mundys SpA
     type: company
@@ -16969,6 +19139,13 @@ organizations:
     stakeholders:
     - person: jacob-wallenberg
       role: board
+  naspers:
+    name: Naspers Ltd
+    type: company
+    founded: 1915
+    headquarters: Cape Town, South Africa
+    status: active
+    sector: media
   nation-thailand:
     name: Nation Group
     type: media
@@ -17110,6 +19287,16 @@ organizations:
     - org: atlantic-council
       role: advocacy
       note: Think tank pro-NATO, fondato per supporto Alleanza Atlantica
+  nature-conservancy:
+    name: The Nature Conservancy
+    type: foundation
+    founded: 1951
+    headquarters: Arlington, USA
+    status: active
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: member
+      note: Latin America Conservation Council
   naturgy:
     name: Naturgy Energy Group
     type: company
@@ -17258,6 +19445,16 @@ organizations:
       share: 5.0%
     - org: vanguard
       share: 5.4%
+  netease:
+    name: NetEase Inc
+    type: company
+    headquarters: Hangzhou, China
+    sector: Gaming/Technology
+    stakeholders:
+    - org: blackrock
+      share: 4.0
+    - org: vanguard
+      share: 4.0
   netflix:
     name: Netflix
     type: media
@@ -17275,6 +19472,9 @@ organizations:
     sector: TV, digital, news, entertainment
     note: India largest media. Reliance 56.89%. 180M+ weekly viewers. CNBC-TV18, CNN-News18, Colors
     stakeholders:
+    - person: mukesh-ambani
+      role: executive
+      note: Owner via Reliance (56.89%)
     - person: raghav-bahl
       role: founder
       from: 1993
@@ -17483,6 +19683,16 @@ organizations:
     stakeholders:
     - org: paramount-global
       share: 100%
+  nio:
+    name: NIO Inc
+    type: company
+    headquarters: Shanghai, China
+    sector: Electric Vehicles
+    stakeholders:
+    - org: blackrock
+      share: 3.0
+    - org: vanguard
+      share: 3.0
   nippon-tv:
     name: Nippon Television
     type: media
@@ -17507,6 +19717,19 @@ organizations:
       from: 2000
       to: 2018
       note: COO 1999. Saved Nissan from bankruptcy. Arrested Tokyo Nov 2018.
+    - person: ivan-espinosa
+      role: executive
+      from: 2025
+      note: CEO (Apr 2025-)
+    - person: makoto-uchida
+      role: executive
+      from: 2019
+      to: 2025
+      note: CEO 2019-2025, resigned amid crisis
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 4.0%
     - org: renault
       share: 15%
       from: 1999
@@ -17717,6 +19940,18 @@ organizations:
       role: board
       from: 2009
       note: 23.5% shareholder via Volga Group
+  novelis:
+    name: Novelis Inc.
+    type: company
+    founded: 2005
+    headquarters: Atlanta, USA
+    status: active
+    sector: aluminum
+    stakeholders:
+    - org: hindalco
+      role: parent
+      share: 100
+      from: 2007
   novo-nordisk:
     name: Novo Nordisk A/S
     type: company
@@ -17852,6 +20087,14 @@ organizations:
     - person: omri-lavie
       role: founder
       from: 2010
+  ntpc:
+    name: NTPC Limited
+    type: company
+    headquarters: New Delhi, India
+  ntt:
+    name: Nippon Telegraph and Telephone Corporation
+    type: company
+    headquarters: Tokyo, Japan
   ntuc:
     name: National Trades Union Congress
     type: agency
@@ -17901,6 +20144,17 @@ organizations:
       share: 100
       from: 2001
       note: Takeover from Gusinsky
+  nu-holdings:
+    name: Nu Holdings (Nubank)
+    type: company
+    founded: 2013
+    headquarters: São Paulo, Brazil
+    sector: Fintech
+    stakeholders:
+    - org: blackrock
+      share: 8.0%
+    - org: vanguard
+      share: 5.0%
   nuclearelectrica:
     name: Nuclearelectrica S.A.
     type: company
@@ -18141,6 +20395,21 @@ organizations:
       from: 1975
       to: 1988
       note: Prima presidente
+  onex:
+    name: Onex Corporation
+    type: privateequity
+    founded: 1984
+    headquarters: Toronto, Canada
+    status: active
+    stakeholders:
+    - person: gerry-schwartz
+      role: founder
+      from: 1984
+      note: Founder & Chairman
+    - person: bobby-le-blanc
+      role: executive
+      from: 1999
+      note: CEO (2023-)
   onexim-bank:
     name: ONEXIM Bank (United Export Import Bank)
     type: bank
@@ -18153,6 +20422,10 @@ organizations:
       role: founder
       from: 1993
       note: Co-fondatore con Prokhorov
+  ongc:
+    name: Oil and Natural Gas Corporation
+    type: company
+    headquarters: New Delhi, India
   onu:
     name: United Nations
     type: agency
@@ -18737,6 +21010,18 @@ organizations:
     stakeholders:
     - org: paramount-global
       share: 100%
+  pargesa:
+    name: Pargesa Holding SA
+    type: company
+    founded: 1981
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: holding
+    stakeholders:
+    - org: power-corporation
+      role: joint-control
+      from: 1981
+      note: Joint control with Frère family
   parlamento-europeo:
     name: Parlamento Europeo
     type: agency
@@ -18822,6 +21107,20 @@ organizations:
     founded: 1998
     headquarters: Silicon Valley
     status: active
+  pboc:
+    name: People's Bank of China
+    type: centralbank
+    founded: 1948
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - person: pan-gongsheng
+      role: executive
+      from: 2023
+      note: Governor
+    - org: governo-cina
+      role: ownership
+      share: 100%
   pca:
     name: Permanent Court of Arbitration (PCA)
     type: agency
@@ -18832,6 +21131,16 @@ organizations:
     - person: bogdan-aurescu
       role: member
       note: Membro
+  pdd-holdings:
+    name: PDD Holdings Inc
+    type: company
+    headquarters: Shanghai, China
+    sector: E-commerce
+    stakeholders:
+    - org: blackrock
+      share: 7.0
+    - org: vanguard
+      share: 8.0
   peace-parks-foundation:
     name: Peace Parks Foundation
     type: foundation
@@ -18912,6 +21221,32 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  petrobras:
+    name: Petrobras
+    type: company
+    founded: 1953
+    headquarters: Rio de Janeiro, Brazil
+    sector: Oil & Gas
+    stakeholders:
+    - org: blackrock
+      share: 6.5%
+    - org: vanguard
+      share: 2.0%
+  petrochina:
+    name: PetroChina Company Limited
+    type: company
+    founded: 1999
+    headquarters: Beijing, Cina
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: dai-houliang
+      role: chairman
+      from: 2020
+      note: Chairman
+    - org: cnpc
+      share: 82.62
+      note: Listed subsidiary
   peugeot-invest:
     name: Peugeot Invest
     type: company
@@ -19043,6 +21378,38 @@ organizations:
       role: owner
       share: 100.0
       note: Fondo sovrano, $925B AUM
+  pimco:
+    name: PIMCO
+    type: assetmanager
+    founded: 1971
+    headquarters: Newport Beach, USA
+    status: active
+    stakeholders:
+    - person: raghuram-rajan
+      role: advisor
+      from: 2025
+      note: Global Advisory Board
+  ping-an:
+    name: Ping An Insurance Group
+    type: company
+    headquarters: Shenzhen, China
+    sector: Insurance
+    stakeholders:
+    - org: blackrock
+      share: 1.5
+    - org: vanguard
+      share: 1.5
+  pininfarina:
+    name: Pininfarina
+    type: company
+    founded: 1930
+    headquarters: Turin, Italy
+    status: active
+    stakeholders:
+    - org: mahindra-group
+      share: 76.06
+      from: 2015
+      note: Acquired via Tech Mahindra SPV
   pinterest:
     name: Pinterest
     type: company
@@ -19224,6 +21591,16 @@ organizations:
     - org: porsche-ag
       role: stake
       share: 0.25
+  postal-savings-bank-china:
+    name: Postal Savings Bank of China
+    type: bank
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - person: zhang-jinliang
+      role: chairman
+      from: 2019
+      to: 2022
   poste-italiane:
     name: Poste Italiane S.p.A.
     type: company
@@ -19273,6 +21650,35 @@ organizations:
       share: 35.0
       from: 2015
       note: Azionista storico post-IPO
+  power-corporation:
+    name: Power Corporation of Canada
+    type: company
+    founded: 1925
+    headquarters: Montreal, Canada
+    status: active
+    sector: finance-holding
+    stakeholders:
+    - person: paul-desmarais-sr
+      role: founder
+      from: 1968
+      to: 2013
+      note: Chairman & CEO until 1996, then Chairman Executive Committee
+    - person: paul-desmarais-jr
+      role: chairman
+      from: 1996
+      note: Co-CEO 1996-2020, Chairman
+    - person: andre-desmarais
+      role: executive
+      from: 1996
+      note: Co-CEO 1996-2020, Deputy Chairman
+    - person: jeffrey-orr
+      role: executive
+      from: 2020
+      note: President & CEO
+  power-grid:
+    name: Power Grid Corporation
+    type: company
+    headquarters: Gurgaon, India
   precision-capital:
     name: Precision Capital
     type: privateequity
@@ -19309,6 +21715,11 @@ organizations:
     stakeholders:
     - org: blackrock
       share: 4.5
+    - org: naspers
+      role: parent
+      share: 57.0
+      from: 2019
+      note: Majority shareholder
   proximus:
     name: Proximus PLC
     type: company
@@ -19428,6 +21839,14 @@ organizations:
       role: investor
       share: 12.5%
       from: 2023
+  public-health-foundation-india:
+    type: foundation
+    headquarters: New Delhi, India
+    status: active
+    stakeholders:
+    - person: narayana-murthy
+      role: chairman
+      note: Chairman Governing Board
   public-power-corporation:
     name: Public Power Corporation
     type: company
@@ -19575,6 +21994,19 @@ organizations:
     stakeholders:
     - org: gedi
       share: 100%
+  radisson:
+    name: Radisson Hotel Group
+    type: company
+    founded: 1938
+    headquarters: Brussels, Belgium
+    status: active
+    sector: hospitality
+    stakeholders:
+    - org: jin-jiang
+      role: owner
+      share: 100
+      from: 2018
+      note: Acquired from HNA Group
   rai:
     name: RAI - Radiotelevisione Italiana
     type: media
@@ -19625,6 +22057,22 @@ organizations:
     - org: antenna-group
       role: investor
       note: Cornerstone investor in Raine funds
+  rakuten:
+    name: Rakuten Group
+    type: company
+    founded: 1997
+    headquarters: Tokyo, Japan
+    status: active
+    note: E-commerce, fintech, mobile
+    stakeholders:
+    - person: hiroshi-mikitani
+      role: founder
+      from: 1997
+      note: Founder, Chairman, President & CEO
+    - org: mizuho
+      share: 14.99%
+      from: 2024
+      note: Stake in Rakuten Card subsidiary, ¥165B
   rand-corporation:
     name: RAND Corporation
     type: thinktank
@@ -19668,6 +22116,32 @@ organizations:
       from: 1998
       to: 2008
       note: Chairman of the Board, oversaw $30B privatization and dissolution
+  raytheon:
+    name: Raytheon
+    type: company
+    founded: 1922
+    headquarters: Waltham, USA
+    status: active
+    stakeholders:
+    - person: henrique-meirelles
+      role: board
+      from: 1998
+      note: Director
+  rbi:
+    name: Reserve Bank of India
+    type: centralbank
+    founded: 1935
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: n-chandrasekaran
+      role: board
+      from: 2016
+    - person: kumar-mangalam-birla
+      role: board
+      from: 2006
+      to: 2012
+      note: Director Central Board, Chairman Staff Sub-Committee
   rcs-mediagroup:
     name: RCS MediaGroup
     type: media
@@ -19764,6 +22238,10 @@ organizations:
     type: pharma
     founded: 1926
     headquarters: Milan, Italy
+  recruit-holdings:
+    name: Recruit Holdings Co., Ltd.
+    type: company
+    headquarters: Tokyo, Japan
   red-bull:
     name: Red Bull GmbH
     type: company
@@ -19820,6 +22298,12 @@ organizations:
       role: founder
       from: 2014
       note: Founder, Managing Partner, CIO
+  rede-dor:
+    name: Rede D'Or São Luiz
+    type: company
+    founded: 1977
+    headquarters: Rio de Janeiro, Brazil
+    sector: Healthcare
   redlattice:
     type: company
     headquarters: Virginia, USA
@@ -19846,6 +22330,26 @@ organizations:
     - org: ae-industrial-partners
       role: investor
       from: 2020
+  reliance-ada-group:
+    name: Reliance ADA Group
+    type: company
+    founded: 2005
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: anil-ambani
+      role: chairman
+      from: 2005
+  reliance-foundation:
+    type: foundation
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: mukesh-ambani
+      role: founder
+    - person: nita-ambani
+      role: founder
+      from: 2010
   reliance-industries:
     name: Reliance Industries
     type: company
@@ -19857,6 +22361,48 @@ organizations:
     stakeholders:
     - person: mukesh-ambani
       role: chairman
+    - person: dhirubhai-ambani
+      role: founder
+      from: 1966
+      to: 2002
+    - person: nita-ambani
+      role: board
+      from: 2014
+    - org: blackrock
+      share: 2.0%
+    - org: vanguard
+      share: 2.0%
+    - org: state-street
+      share: 0.5%
+  reliance-jio:
+    type: company
+    founded: 2016
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: mukesh-ambani
+      role: founder
+      from: 2016
+    - person: akash-ambani
+      role: chairman
+      from: 2022
+    - person: isha-ambani
+      role: board
+  reliance-new-energy:
+    type: company
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: anant-ambani
+      role: board
+      from: 2021
+  reliance-retail:
+    type: company
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: mukesh-ambani
+      role: founder
   relx:
     name: RELX plc
     type: company
@@ -19930,6 +22476,10 @@ organizations:
       role: strategic
       share: 15% equity, ~30% voting
       note: Double voting rights
+    - org: nissan
+      share: 15%
+      from: 2023
+      note: Cross-shareholding after 2023 rebalancing
   repsol:
     name: Repsol S.A.
     type: company
@@ -19951,6 +22501,35 @@ organizations:
     - person: john-elkann
       role: owner
       from: 2020
+  reserve-bank-india:
+    name: Reserve Bank of India
+    type: centralbank
+    founded: 1935
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: raghuram-rajan
+      role: executive
+      from: 2013
+      to: 2016
+      note: 23rd Governor
+    - person: anand-mahindra
+      role: board
+      note: Part-time Non-official Director
+    - person: kumar-mangalam-birla
+      role: board
+      note: Former Director, Central Board
+  restaurant-brands-international:
+    name: Restaurant Brands International
+    type: company
+    founded: 2014
+    headquarters: Toronto, Canada
+    status: active
+    stakeholders:
+    - person: jorge-paulo-lemann
+      role: board
+      from: 2014
+      note: Controlling shareholder via 3G Capital
   rete-4:
     name: Rete 4
     type: media
@@ -20072,6 +22651,19 @@ organizations:
       share: 5.0%
     - org: state-street
       share: 1.5%
+  riot-games:
+    name: Riot Games
+    type: company
+    founded: 2006
+    headquarters: Los Angeles, USA
+    status: active
+    sector: gaming
+    stakeholders:
+    - org: tencent
+      role: parent
+      share: 99.7
+      from: 2015
+      note: Full ownership
   roche:
     name: F. Hoffmann-La Roche AG
     type: pharma
@@ -20586,6 +23178,12 @@ organizations:
       note: Sviluppo caccia Saab
     - org: investor-ab
       role: major-shareholder
+  sabesp:
+    name: Sabesp
+    type: company
+    founded: 1973
+    headquarters: São Paulo, Brazil
+    sector: Water Utilities
   safe:
     name: State Administration of Foreign Exchange
     type: agency
@@ -20859,6 +23457,11 @@ organizations:
     name: Santander Bank Polska S.A.
     type: bank
     headquarters: Warsaw, Poland
+  santander-brasil:
+    name: Banco Santander Brasil
+    type: bank
+    founded: 1982
+    headquarters: São Paulo, Brazil
   sap:
     name: SAP SE
     type: company
@@ -20925,6 +23528,12 @@ organizations:
     stakeholders:
     - person: marcus-wallenberg-jr
       role: chairman
+  sasac:
+    name: State-owned Assets Supervision and Administration Commission
+    type: agency
+    founded: 2003
+    headquarters: Beijing, Cina
+    status: active
   saudi-aramco:
     name: Saudi Aramco
     type: company
@@ -20992,6 +23601,10 @@ organizations:
       share: 50.01
       from: 2020
       note: Via National Wealth Fund (ex Bank of Russia)
+  sbi:
+    name: State Bank of India
+    type: bank
+    headquarters: Mumbai, India
   sc-braga:
     name: Sporting Clube de Braga
     type: sportsclub
@@ -21088,6 +23701,19 @@ organizations:
       from: 2003
       to: 2018
       note: Director
+  sea-limited:
+    name: Sea Limited
+    type: company
+    founded: 2009
+    headquarters: Singapore
+    status: active
+    sector: tech
+    stakeholders:
+    - org: tencent
+      role: investor
+      share: 20.0
+      from: 2017
+      note: Largest shareholder
   seadrill:
     name: Seadrill Ltd
     type: company
@@ -21222,6 +23848,12 @@ organizations:
     headquarters: Madrid, Spain
     status: active
     sector: state-holding
+  sequoia-capital:
+    name: Sequoia Capital
+    type: privateequity
+    founded: 1972
+    headquarters: Menlo Park, California, USA
+    status: active
   ser-netherlands:
     name: Social-Economic Council
     type: agency
@@ -21330,6 +23962,21 @@ organizations:
       share: 49.6
       from: 2006
       note: Acquired from Shinawatra family for $1.88B
+  shin-etsu-chemical:
+    name: Shin-Etsu Chemical Co., Ltd.
+    type: company
+    headquarters: Tokyo, Japan
+  shunwei-capital:
+    name: Shunwei Capital
+    type: privateequity
+    founded: 2011
+    headquarters: Beijing, Cina
+    status: active
+    stakeholders:
+    - person: lei-jun
+      role: founder
+      from: 2011
+      note: Co-founder, Chairman
   siam-cement-group:
     name: Siam Cement Group
     type: company
@@ -21563,6 +24210,19 @@ organizations:
       role: majority shareholder
       share: 52
       from: 1993
+  sinopec:
+    name: China Petroleum & Chemical Corporation
+    type: company
+    founded: 2000
+    headquarters: Beijing, Cina
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: dai-houliang
+      role: chairman
+      from: 2018
+      to: 2020
+      note: Chairman and Party Secretary
   sistema:
     name: AFK Sistema
     type: company
@@ -21622,6 +24282,19 @@ organizations:
     - org: comcast
       share: 100%
       from: 2018
+  smfg:
+    name: Sumitomo Mitsui Financial Group
+    type: bank
+    founded: 2002
+    headquarters: Tokyo, Japan
+    status: active
+    sector: banking
+    note: Japan 2nd largest bank, Jefferies 20% stake, multi-franchise Asia strategy
+    stakeholders:
+    - person: toru-nakashima
+      role: executive
+      from: 2023
+      note: President & Group CEO
   smp-bank:
     name: SMP Bank
     type: bank
@@ -21830,6 +24503,13 @@ organizations:
       role: executive
       from: 2021
       note: Director Israel Operations
+    - person: jack-ma
+      role: board
+      from: 2014
+      to: 2020
+      note: Board member
+    - org: blackrock
+      share: 5.15%
     - org: pif-saudi
       role: anchor-investor
       from: 2017
@@ -21958,6 +24638,38 @@ organizations:
     type: company
     headquarters: Stafa, Switzerland
     sector: hearing-solutions
+  sony:
+    name: Sony Group Corporation
+    type: company
+    founded: 1946
+    headquarters: Tokyo, Japan
+    status: active
+    sector: entertainment
+    stakeholders:
+    - person: kenichiro-yoshida
+      role: chairman
+      from: 2018
+      note: CEO 2018-2025, Chairman 2025-
+    - person: hiroki-totoki
+      role: executive
+      from: 2025
+      note: President & CEO
+    - person: akio-morita
+      role: founder
+      from: 1946
+      to: 1999
+      note: Co-founder, Chairman
+    - person: masaru-ibuka
+      role: founder
+      from: 1946
+      to: 1997
+      note: Co-founder, Honorary Chairman
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 4.0%
+    - org: state-street
+      share: 2.5%
   sovcomflot:
     name: Sovcomflot
     type: company
@@ -22066,6 +24778,14 @@ organizations:
     - person: john-d-rockefeller-sr
       role: founder
       from: 1870
+  stanford:
+    type: thinktank
+    headquarters: Stanford, CA, USA
+    status: active
+    stakeholders:
+    - person: mukesh-ambani
+      role: advisor
+      note: Global Advisory Council
   stanford-university:
     name: Stanford University
     type: foundation
@@ -22350,6 +25070,20 @@ organizations:
       role: partner
       from: 1976
       note: Partner, Head European Operations
+  sumitomo-corp:
+    name: Sumitomo Corporation
+    type: company
+    headquarters: Tokyo, Japan
+  sun-pharma:
+    name: Sun Pharmaceutical
+    type: pharma
+    headquarters: Mumbai, India
+  susquehanna:
+    name: Susquehanna International Group
+    type: privateequity
+    founded: 1987
+    headquarters: Bala Cynwyd, Pennsylvania, USA
+    status: active
   sustainable-markets-initiative:
     name: Sustainable Markets Initiative
     type: foundation
@@ -22419,6 +25153,10 @@ organizations:
     - person: john-scarlett
       role: advisor
       note: Advisory Board
+    - person: jorge-paulo-lemann
+      role: board
+      from: 1999
+      to: 2004
     - person: sergio-ermotti
       role: chairman
       from: 2021
@@ -22458,6 +25196,13 @@ organizations:
     founded: 2003
     headquarters: Holzminden, Germany
     sector: fragrances
+  taj-hotels:
+    name: Indian Hotels Company (Taj Hotels)
+    type: company
+    founded: 1903
+    headquarters: Mumbai, India
+    status: active
+    sector: hospitality
   tallink-grupp:
     name: Tallink Grupp
     type: company
@@ -22499,6 +25244,13 @@ organizations:
     stakeholders:
     - org: snam
       note: Major shareholder
+  tata-group:
+    name: Tata Group
+    type: company
+    founded: 1868
+    headquarters: Mumbai, India
+    status: active
+    sector: conglomerate
   tata-motors:
     name: Tata Motors
     type: automaker
@@ -22512,6 +25264,68 @@ organizations:
       role: chairman
       from: 1991
       to: 2012
+    - person: n-chandrasekaran
+      role: chairman
+      from: 2017
+    - person: pb-balaji
+      role: executive
+      from: 2017
+      to: 2025
+      note: Group CFO
+    - org: blackrock
+      share: 3.5%
+    - org: vanguard
+      share: 3.0%
+    - org: state-street
+      share: 0.5%
+    - org: tata-sons
+      share: 46%
+      note: Promoter stake
+  tata-sons:
+    name: Tata Sons
+    type: company
+    founded: 1868
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: ratan-tata
+      role: chairman
+      from: 1991
+      to: 2012
+    - person: jamsetji-tata
+      role: founder
+      from: 1868
+      to: 1904
+    - person: jrd-tata
+      role: chairman
+      from: 1938
+      to: 1991
+    - person: n-chandrasekaran
+      role: chairman
+      from: 2017
+    - org: tata-trusts
+      share: 66%
+      note: Controlling stake via philanthropic trusts
+  tata-steel:
+    name: Tata Steel
+    type: company
+    founded: 1907
+    headquarters: Mumbai, India
+    status: active
+    sector: steel
+    stakeholders:
+    - person: n-chandrasekaran
+      role: chairman
+      from: 2017
+  tata-trusts:
+    name: Tata Trusts
+    type: foundation
+    headquarters: Mumbai, India
+    status: active
+    stakeholders:
+    - person: noel-tata
+      role: chairman
+      from: 2024
   tbs:
     name: TBS
     type: media
@@ -22545,6 +25359,37 @@ organizations:
     - person: saravoot-yoovidhya
       role: executive
       note: Red Bull Thailand
+  tcs:
+    name: Tata Consultancy Services
+    type: company
+    founded: 1968
+    headquarters: Mumbai, India
+    status: active
+    sector: IT
+    stakeholders:
+    - person: n-chandrasekaran
+      role: executive
+      from: 2009
+      to: 2017
+      note: CEO
+    - person: n-chandrasekaran
+      role: chairman
+      from: 2017
+      note: Chairman, ex-CEO
+    - person: k-krithivasan
+      role: executive
+      from: 2023
+      note: CEO & Managing Director
+    - org: blackrock
+      share: 5.1%
+    - org: vanguard
+      share: 7.5%
+    - org: state-street
+      share: 3.2%
+    - org: tata-sons
+      role: majority shareholder
+      share: 71%
+      from: 1968
   telecom-italia:
     name: TIM (Telecom Italia)
     type: company
@@ -22653,6 +25498,12 @@ organizations:
       share: 9.9
       from: 2023
       note: 64% owned by PIF Saudi Arabia
+  telefonica-brasil:
+    name: Telefônica Brasil (Vivo)
+    type: company
+    founded: 1998
+    headquarters: São Paulo, Brazil
+    sector: Telecom
   telegraph-group:
     name: Telegraph Media Group
     type: media
@@ -22766,6 +25617,17 @@ organizations:
     - org: telkom-indonesia
       role: parent
       share: 0.699
+  telus:
+    name: TELUS Communications
+    type: company
+    founded: 1990
+    headquarters: Vancouver, Canada
+    status: active
+    sector: telecommunications
+    stakeholders:
+    - person: john-manley
+      role: board
+      note: Director
   temasek:
     name: Temasek Holdings
     type: swf
@@ -22806,11 +25668,60 @@ organizations:
     - org: state-street
       share: 1.0%
   tencent:
-    name: Tencent Holdings
+    name: Tencent Holdings Ltd
     type: company
+    founded: 1998
     headquarters: Shenzhen, China
     status: active
     sector: tech
+    stakeholders:
+    - person: pony-ma
+      role: founder
+      from: 1998
+      note: Co-founder, Chairman, CEO
+    - person: zhang-zhidong
+      role: founder
+      from: 1998
+      to: 2014
+      note: Co-founder, CTO
+    - person: chen-yidan
+      role: founder
+      from: 1998
+      to: 2013
+      note: Co-founder, CAO
+    - person: xu-chenye
+      role: founder
+      from: 1998
+      note: Co-founder, CIO
+    - person: james-mitchell
+      role: executive
+      from: 2011
+      note: Chief Strategy Officer
+    - person: john-lo
+      role: executive
+      from: 2012
+      note: Chief Financial Officer
+    - person: koos-bekker
+      role: board
+      from: 2001
+      note: Non-Executive Director
+    - person: charles-searle
+      role: board
+      from: 2001
+      note: Non-Executive Director
+    - org: blackrock
+      role: investor
+      share: 2.57
+      from: 2020
+    - org: vanguard
+      role: investor
+      share: 2.76
+      from: 2020
+    - org: prosus
+      role: investor
+      share: 23.0
+      from: 2019
+      note: Largest shareholder via Naspers
   terna:
     name: Terna S.p.A.
     type: company
@@ -23154,6 +26065,21 @@ organizations:
       role: founder
       from: 2008
       note: Co-founder, Managing Partner
+  tiktok:
+    name: TikTok
+    type: company
+    founded: 2017
+    headquarters: Culver City, USA
+    status: active
+    stakeholders:
+    - person: shou-chew
+      role: executive
+      from: 2021
+      note: CEO
+    - org: bytedance
+      role: owner
+      share: 100
+      note: 100% owner
   tiktok-usa:
     name: TikTok USA
     type: company
@@ -23247,6 +26173,10 @@ organizations:
       role: founder
       from: 2018
       note: Co-founder, cyber for governments
+  tokyo-electron:
+    name: Tokyo Electron Ltd.
+    type: company
+    headquarters: Tokyo, Japan
   tony-blair-institute:
     file: docs/think-tank/tony-blair-institute.md
     name: Tony Blair Institute
@@ -23322,6 +26252,12 @@ organizations:
       role: chairman
       from: 2023
       note: CEO 2009-2023
+    - org: blackrock
+      share: 6.5%
+    - org: vanguard
+      share: 7.2%
+    - org: state-street
+      share: 4.3%
   toys-r-us:
     name: Toys "R" Us
     type: company
@@ -23496,6 +26432,23 @@ organizations:
     - person: rajiv-shah
       role: member
       note: Member
+    - person: kiichi-miyazawa
+      role: founder
+      from: 1973
+      note: Membro fondatore; Acting Chairman JP; speaker Londra 1980
+    - person: andre-desmarais
+      role: member
+    - person: tadashi-yamamoto
+      role: executive
+      from: 1973
+      to: 2012
+      note: Membro fondatore; Japan/Pacific Asia Director per 40 anni
+    - person: john-manley
+      role: chairman
+      note: Past Chair, Canadian branch
+    - person: akio-morita
+      role: member
+      note: Trilateral member, Keidanren vice-chairman
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -23714,6 +26667,9 @@ organizations:
       from: 2012
       to: 2022
       note: Chairman Board of Directors
+    - person: jorge-paulo-lemann
+      role: advisor
+      note: International Advisory Board
     - person: sergio-ermotti
       role: executive
       from: 2011
@@ -23737,6 +26693,11 @@ organizations:
       from: 2015
       to: 2015
       note: Board member - resigned to join Barclays
+    - person: andre-esteves
+      role: executive
+      from: 2006
+      to: 2008
+      note: CEO UBS Pactual, Global Head Fixed Income Currencies Commodities
     - org: blackrock
       share: 5.0%
     - org: vanguard
@@ -23751,6 +26712,15 @@ organizations:
       share: 6.0%
     - org: vanguard
       share: 2.79%
+  ucla:
+    name: University of California, Los Angeles
+    type: university
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: pedro-moreira-salles
+      role: alumnus
+      note: BA Economics and History, magna cum laude
   ue:
     name: Unione Europea
     type: agency
@@ -23794,6 +26764,29 @@ organizations:
       from: 2009
       to: 2016
       note: Secretary General
+  ufrj:
+    name: Federal University of Rio de Janeiro
+    type: university
+    founded: 1920
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    stakeholders:
+    - person: andre-esteves
+      role: member
+      note: BS Computer Science
+  ultratech-cement:
+    name: UltraTech Cement
+    type: company
+    headquarters: Mumbai, India
+    status: active
+    sector: cement
+    stakeholders:
+    - person: kumar-mangalam-birla
+      role: chairman
+      from: 1995
+      note: Chairman, leader mondiale cemento 152 MTPA
+    - org: aditya-birla-group
+      role: parent
   umicore:
     name: Umicore SA
     type: company
@@ -23822,6 +26815,23 @@ organizations:
     - org: societe-generale-belgique
       to: 1998
       note: 'Storico: Union Miniere era controllata da SGB'
+  un-foundation:
+    type: foundation
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: narayana-murthy
+      role: board
+  un-global-compact:
+    name: UN Global Compact
+    type: agency
+    founded: 2000
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: anand-mahindra
+      role: board
+      note: Board Member
   un-ilc:
     name: UN International Law Commission (ILC)
     type: agency
@@ -23844,6 +26854,26 @@ organizations:
       role: executive
       from: 2025
       note: Administrator
+  unibanco:
+    name: Unibanco
+    type: bank
+    founded: 1924
+    headquarters: Sao Paulo, Brazil
+    status: merged
+    stakeholders:
+    - person: pedro-moreira-salles
+      role: executive
+      from: 1989
+      to: 2008
+      note: Board 1989-1997, Chairman Board 1997-2004, President 2004-2008
+    - person: walther-moreira-salles
+      role: founder
+      from: 1940
+      to: 2001
+    - person: fernando-moreira-salles
+      role: chairman
+      to: 2008
+      note: Vice Chairman fino a merger Itau
   unicredit:
     name: UniCredit SpA
     type: bank
@@ -23913,6 +26943,10 @@ organizations:
       from: 2015
       to: 2021
       note: Director, Chairman Remuneration Committee
+    - person: narayana-murthy
+      role: board
+      from: 2007
+      to: 2010
     - org: blackrock
       share: 7.7%
     - org: vanguard
@@ -24189,6 +27223,17 @@ organizations:
       role: merged
       from: 2016
       note: USB confluito in USR
+  vale:
+    name: Vale S.A.
+    type: company
+    founded: 1942
+    headquarters: Rio de Janeiro, Brazil
+    sector: Mining
+    stakeholders:
+    - org: blackrock
+      share: 5.0%
+    - org: vanguard
+      share: 4.0%
   vanguard:
     name: Vanguard
     type: assetmanager
@@ -24366,6 +27411,22 @@ organizations:
       from: 2017
       to: 2025
       note: CEO Europe
+  vissel-kobe:
+    name: Vissel Kobe
+    type: sportsclub
+    founded: 1966
+    headquarters: Kobe, Japan
+    status: active
+    note: J1 League, acquistato da Rakuten 2004
+    stakeholders:
+    - person: hiroshi-mikitani
+      role: chairman
+      from: 2004
+      note: Owner via Rakuten; ingaggiò Iniesta 2018
+    - org: rakuten
+      role: owner
+      share: 100
+      from: 2004
   vitol:
     name: Vitol Group
     type: company
@@ -24442,6 +27503,19 @@ organizations:
       share: 3.0%
     - org: state-street
       share: 1.5%
+  vodafone-idea:
+    name: Vodafone Idea
+    type: company
+    founded: 2018
+    headquarters: Mumbai, India
+    status: active
+    sector: telecom
+    stakeholders:
+    - person: kumar-mangalam-birla
+      role: chairman
+      from: 2018
+      to: 2021
+      note: Non-executive Chairman, dimesso 2021
   voestalpine:
     name: Voestalpine AG
     type: company
@@ -24587,6 +27661,16 @@ organizations:
     headquarters: New York, USA
     status: active
     sector: real-estate
+  vpbank:
+    name: VPBank
+    type: bank
+    headquarters: Hanoi, Vietnam
+    status: active
+    stakeholders:
+    - org: smfg
+      share: 15%
+      from: 2023
+      note: Equity-method affiliate
   vtb-bank:
     name: VTB Bank
     type: bank
@@ -25617,6 +28701,67 @@ organizations:
       role: glt
       from: 1999
       note: Global Leader for Tomorrow
+    - person: jack-ma
+      role: member
+      note: Davos speaker, Agenda Contributor
+    - person: anand-mahindra
+      role: chairman
+      from: 2009
+      to: 2009
+      note: Co-Chairman Annual Meeting
+    - person: narayana-murthy
+      role: chairman
+      from: 2005
+      to: 2005
+      note: Co-Chairman Davos 2005
+    - person: ren-zhengfei
+      role: member
+      note: Davos speaker
+    - person: n-chandrasekaran
+      role: chairman
+      from: 2015
+      to: 2016
+      note: Chairperson IT Industry Governors
+    - person: kumar-mangalam-birla
+      role: member
+    - person: prakash-hinduja
+      role: member
+    - person: nandan-nilekani
+      role: board
+      from: 2006
+      note: Foundation Board
+    - person: narendra-modi
+      role: member
+      from: 2018
+      note: Keynote speaker Davos 2018, 2021, 2022
+    - person: s-jaishankar
+      role: member
+      note: Partecipante regolare Davos
+    - person: shinzo-abe
+      role: member
+      note: Davos speaker 2014, 2019
+    - person: henrique-meirelles
+      role: member
+      note: Davos participant, featured contributor
+    - person: pedro-moreira-salles
+      role: member
+      note: Featured business leader
+    - person: andre-esteves
+      role: member
+      note: Davos participant
+    - person: masahiro-kihara
+      role: member
+      from: 2025
+      note: Davos 2025 speaker
+    - person: taro-aso
+      role: member
+      from: 2009
+      note: Davos 2009 - Special Address come PM
+    - person: hiroshi-mikitani
+      role: member
+      note: Davos regular, Agenda Contributor
+    - person: john-manley
+      role: member
     - org: bilderberg
       role: partner
     - org: fmi
@@ -25633,6 +28778,15 @@ organizations:
     - org: bertelsmann-stiftung
       role: partner
       note: Klaus Schwab Reinhard Mohn Prize 2016
+    - org: mufg
+      role: partner
+      note: WEF Partner 2026
+  weg:
+    name: WEG S.A.
+    type: company
+    founded: 1961
+    headquarters: Jaraguá do Sul, Brazil
+    sector: Electrical Equipment
   wellcome-trust:
     name: Wellcome Trust
     type: foundation
@@ -25750,6 +28904,15 @@ organizations:
       note: Co-Chair Global Advisory Council
     - person: giampiero-massolo
       role: member
+  wipro:
+    name: Wipro
+    type: company
+    headquarters: Bangalore, India
+    stakeholders:
+    - org: blackrock
+      share: 3.0%
+    - org: vanguard
+      share: 3.0%
   world-athletics:
     name: World Athletics
     type: agency
@@ -25782,6 +28945,14 @@ organizations:
       role: leader
       from: 2023
       note: President
+    - person: raghuram-rajan
+      role: advisor
+      note: Advisory roles
+    - person: taro-aso
+      role: member
+      from: 2012
+      to: 2021
+      note: Rappresentante Giappone come Min. Finanze
   world-jewish-congress:
     name: World Jewish Congress
     type: forum
@@ -25923,6 +29094,30 @@ organizations:
     - person: elon-musk
       role: owner
       from: 2022
+  xiaomi:
+    name: Xiaomi Corporation
+    type: company
+    founded: 2010
+    headquarters: Beijing, Cina
+    status: active
+    sector: Consumer Electronics, EV
+    stakeholders:
+    - person: lei-jun
+      role: founder
+      from: 2010
+      note: Founder, Chairman, CEO
+    - person: lin-bin
+      role: founder
+      from: 2010
+      note: Co-founder, Vice Chairman
+    - person: liu-de-xiaomi
+      role: founder
+      from: 2010
+      note: Co-founder, SVP
+    - org: blackrock
+      share: 7.4
+    - org: vanguard
+      share: 4.8
   xinhua:
     name: Xinhua News Agency
     type: media
@@ -25934,6 +29129,24 @@ organizations:
     stakeholders:
     - org: governo-cina
       share: 100%
+  xpeng:
+    name: XPeng Inc
+    type: company
+    headquarters: Guangzhou, China
+    sector: Electric Vehicles
+    stakeholders:
+    - org: blackrock
+      share: 4.7
+  yale-university:
+    name: Yale University
+    type: university
+    founded: 1701
+    headquarters: New Haven, USA
+    status: active
+    stakeholders:
+    - person: pedro-moreira-salles
+      role: alumnus
+      note: Graduate Program International Relations
   yankee-global:
     name: Yankee Global Enterprises
     type: company
