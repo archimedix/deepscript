@@ -526,6 +526,19 @@ families:
       generation: 2
     - person: marc-hayek
       generation: 3
+  heinz:
+    origin: USA
+    founder: henry-j-heinz
+    sector: food
+    generations: 5
+    status: active
+    members:
+    - person: h-john-heinz-ii
+      generation: 3
+      role: heir
+    - person: john-heinz
+      generation: 4
+      role: heir
   hinduja:
     origin: IND
     founder: parmanand-hinduja
@@ -682,6 +695,16 @@ families:
     - person: eisaku-sato
       generation: 1
       role: co-founder (brother)
+  koc-family:
+    origin: TUR
+    founder: vehbi-koc
+    sector: conglomerate
+    generations: 3
+    status: active
+    members:
+    - person: omer-koc
+      generation: 3
+      role: heir
   kuhne:
     origin: Germany
     founder: august-kuhne
@@ -1204,6 +1227,16 @@ families:
     - person: anton-rupert
       generation: 1
       role: founder
+  sabanci-family:
+    origin: TUR
+    founder: haci-omer-sabanci
+    sector: conglomerate
+    generations: 3
+    status: active
+    members:
+    - person: guler-sabanci
+      generation: 3
+      role: heir
   salim:
     origin: Indonesia
     founder: sudono-salim

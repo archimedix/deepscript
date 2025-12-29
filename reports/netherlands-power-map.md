@@ -171,6 +171,28 @@ King Willem-Alexander (1967-)
 | **R&D investito EUV** | €6.3B in 17 anni |
 | **Revenues 2024** | €28.3B (Cina €10.2B = 36%) |
 
+### Nexperia: Il Caso Emblematico della Guerra Tech
+
+[Nexperia](../docs/company/nexperia.md) rappresenta il caso piu' drammatico di intervento governativo olandese nel settore semiconduttori.
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Origine** | Philips (1950s) → NXP (2006) → Nexperia (2017) |
+| **Acquisizione cinese** | Wingtech Technology, $3.6B (2019) |
+| **Dipendenti** | 12,500+ |
+| **Stabilimenti** | Nijmegen (NL), Hamburg (DE), Manchester (UK), Cina, Malaysia, Filippine |
+
+**Crisi 2025:**
+
+| Data | Evento |
+|------|--------|
+| **30 Sep 2025** | Governo NL invoca Goods Availability Act (1952, mai usata prima) |
+| **7 Oct 2025** | Tribunale Amsterdam sospende CEO Zhang Xuezheng |
+| **Oct 2025** | Cina blocca export prodotti Nexperia assemblati in Cina (70% produzione UE) |
+| **Nov 2025** | Wingtech ricorre alla Corte Suprema olandese |
+
+> **Pattern**: Nexperia dimostra i limiti della sovranita' olandese sui semiconduttori. A differenza di ASML (tecnologia di punta, protezione USA), Nexperia (chip commodity, proprieta' cinese) e' diventata pedina sacrificabile nella guerra tech. Il governo ha usato una legge del 1952 per la prima volta nella storia.
+
 **CEO Timeline:**
 
 | Periodo | Nome | Note |
@@ -379,6 +401,37 @@ Van der Veer rappresenta il cuore dell'establishment economico olandese, con ruo
 ```
 
 > **Pattern unico**: I presidenti DNB non "vanno in pensione" - passano a guidare le istituzioni finanziarie sovranazionali (BCE, BIS, FSB). Un paese di 17M abitanti ha prodotto il primo presidente BCE e il chairman FSB.
+
+### La Pipeline Olandese verso Leadership Globale
+
+L'Olanda produce un numero sproporzionato di leader di organizzazioni internazionali:
+
+| Persona | Ruolo Nazionale | Ruolo Internazionale | Durata |
+|---------|-----------------|----------------------|--------|
+| [Joseph Luns](../docs/persons/joseph-luns.md) | Min. Esteri (19 anni) | **NATO Secretary General** | 1971-1984 (13 anni, record) |
+| [Emile van Lennep](../docs/persons/emile-van-lennep.md) | Treasurer-General | **OCSE Secretary General** | 1969-1984 (15 anni) |
+| [Wim Duisenberg](../docs/persons/wim-duisenberg.md) | DNB President | **BCE President** (primo) | 1998-2003 |
+| [Nout Wellink](../docs/persons/nout-wellink.md) | DNB President | **BIS Chairman** | 2002-2006 |
+| [Klaas Knot](../docs/persons/klaas-knot.md) | DNB President | **FSB Chair** | 2021-2025 |
+| [Mark Rutte](../docs/persons/mark-rutte.md) | PM (14 anni) | **NATO Secretary General** | 2024- |
+| Jaap de Hoop Scheffer | Min. Esteri | **NATO Secretary General** | 2004-2009 |
+
+```
+        LA FABBRICA OLANDESE DI LEADER GLOBALI
+                        |
+    +-------------------+-------------------+
+    |                   |                   |
+   NATO               OCSE/BCE            BIS/FSB
+    |                   |                   |
+Luns (71-84)      van Lennep (69-84)    Wellink (02-06)
+de Hoop S (04-09)  Duisenberg (98-03)    Knot (21-25)
+Rutte (24-)             |
+    |                   |
+    v                   v
+  13+5+?=18+ anni   15+5+4=24 anni
+```
+
+> **Pattern**: Un paese di 17 milioni di abitanti ha prodotto 3 NATO SG (Luns record 13 anni, de Hoop Scheffer, ora Rutte), il primo presidente BCE, il SG OCSE piu' longevo, e il chair FSB. La "fabbrica olandese" di leader internazionali e' unica in Europa.
 
 ### Klaas Knot: Il Super-Connettore Finanziario
 
@@ -1059,6 +1112,8 @@ CEO Van Beurden    Chairman Wijers (board Shell)
 | **nout-wellink** | DNB President 1997-2011 | **Chairman BIS**, Bank of China |
 | olaf-sleijpen | DNB President 2025- | **Advisor Duisenberg BCE 2001-04**, ABP, APG |
 | **ernst-van-der-beugel** | 1918-2004 | **Bilderberg Secretary 1960-80**, KLM President, Kissinger, Marshall Plan |
+| **[joseph-luns](../docs/persons/joseph-luns.md)** | 1911-2002 | **Min. Esteri 19 anni**, **NATO SG 13 anni** (record), Bilderberg, Trattato Roma 1957 |
+| **[emile-van-lennep](../docs/persons/emile-van-lennep.md)** | 1915-1996 | Treasurer-General, **OCSE SG 15 anni**, nobilta' (Jonkheer), Four Freedoms Award |
 | jan-hommen | CEO ING 2009-13 | Ex-CFO Philips |
 | ralph-hamers | CEO ING 2013-20 | Digital transformation |
 | hans-wijers | Chairman ING 2018-23 | Shell board, Heineken, Trilateral |
@@ -1076,6 +1131,7 @@ CEO Van Beurden    Chairman Wijers (board Shell)
 | ID | Tipo | Note |
 |----|------|------|
 | asml | Company | **Monopolio EUV, €419B, #1 tech Europa** |
+| **[nexperia](../docs/company/nexperia.md)** | Company | **Caso 2025**: proprieta' cinese (Wingtech), intervento governo NL, guerra tech |
 | shell | Company | HQ ora Londra, ex "Royal Dutch" |
 | philips | Company | Health-tech, **Exor (Agnelli) 17.5%** |
 | heineken | Company | Famiglia 25% |
@@ -1151,6 +1207,14 @@ CEO Van Beurden    Chairman Wijers (board Shell)
 *Ultimo aggiornamento: Dicembre 2025*
 
 ### Changelog
+
+- **29 Dic 2025 v8**: Figure storiche e Nexperia
+  - **[Joseph Luns](../docs/persons/joseph-luns.md)**: Profilo completo - Min. Esteri record 19 anni, NATO SG record 13 anni, Bilderberg, Trattato Roma 1957
+  - **[Emile van Lennep](../docs/persons/emile-van-lennep.md)**: Profilo completo - Treasurer-General, OCSE SG 15 anni, nobilta' olandese (Jonkheer)
+  - **[Nexperia](../docs/company/nexperia.md)**: Scheda completa - caso emblematico guerra tech 2025, intervento Goods Availability Act, proprieta' Wingtech
+  - **Nuova sezione "La Pipeline Olandese verso Leadership Globale"**: 3 NATO SG, primo BCE, OCSE, BIS, FSB
+  - **Nuova sezione "Nexperia: Il Caso Emblematico della Guerra Tech"**: crisi 2025, intervento governo
+  - Entita' aggiornate: 38 persone (+2), 28 organizzazioni (+1)
 
 - **20 Dic 2025 v7**: Pipeline verso Bruxelles e Governo
   - **Nuova sezione "La Pipeline verso Bruxelles"**: Timmermans → Hoekstra successione Commissario Clima

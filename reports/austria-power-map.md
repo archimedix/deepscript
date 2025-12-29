@@ -243,12 +243,15 @@ Il Partito della Liberta' (FPO) e' il **vettore dell'influenza russa** in Austri
 
 | Forum | Membri Austriaci Chiave | Funzione |
 |-------|------------------------|----------|
+| **Bilderberg** | Scholten (steering), Vranitzky, Androsch | Elite transatlantica core |
 | **Trilaterale** | Treichl, Mahrer, Nowotny, Plassnik, Mitterbauer | Elite transatlantica |
 | **Forum Alpbach** | Treichl (pres.), elite austriaca ed europea | Networking dal 1945 |
+| **Bruno Kreisky Forum** | Scholten (pres.), network SPO | Dialogo internazionale |
 | **ECFR** | Treichl, Edtstadler, Swoboda | Policy europea |
 | **WEF Davos** | Kurz, Schallenberg, Nehammer, Schüssel | Global governance |
 | **Open Society** | Treichl (advisory board) | Liberal network |
 | **GLOBSEC** | Treichl, Schallenberg | Security Atlantica |
+| **Club of Rome** | Scholten (board) | Limiti crescita |
 | **Paneuropean Union** | Karl von Habsburg (pres. Austria) | Integrazione europea |
 
 ### Pattern: Il Club Viennese
@@ -287,11 +290,13 @@ Esiste un **nucleo ristretto** che domina tutti i forum:
 
 | ID | Ruolo | Forum | Scheda |
 |----|-------|-------|--------|
-| `andreas-treichl` | Nodo centrale | Trilat, ECFR, Open Society, Alpbach, GLOBSEC | [Link](../persons/andreas-treichl.md) |
-| `karl-von-habsburg` | Dinastia | Paneuropean Union, Blue Shield | [Link](../persons/karl-von-habsburg.md) |
-| `johann-graf` | Gambling/Corruzione | - | [Link](../persons/johann-graf.md) |
-| `hans-peter-haselsteiner` | Industria/Russia | NEOS | [Link](../persons/hans-peter-haselsteiner.md) |
-| `alexander-schallenberg` | Cancelliere | WEF, GLOBSEC | [Link](../persons/alexander-schallenberg.md) |
+| `andreas-treichl` | Nodo centrale | Trilat, ECFR, Open Society, Alpbach, GLOBSEC | [Link](../docs/persons/andreas-treichl.md) |
+| `rudolf-scholten` | SPO/Banche/Forum | Bilderberg (steering), Club of Rome, Bruno Kreisky Forum | [Link](../docs/persons/rudolf-scholten.md) |
+| `karl-von-habsburg` | Dinastia | Paneuropean Union, Blue Shield | [Link](../docs/persons/karl-von-habsburg.md) |
+| `johann-graf` | Gambling/Corruzione | - | [Link](../docs/persons/johann-graf.md) |
+| `hans-peter-haselsteiner` | Industria/Russia | NEOS | [Link](../docs/persons/hans-peter-haselsteiner.md) |
+| `alexander-schallenberg` | Cancelliere | WEF, GLOBSEC | [Link](../docs/persons/alexander-schallenberg.md) |
+| `franz-vranitzky` | Ex-Cancelliere SPO | Bilderberg | Stub |
 | `sebastian-kurz` | Ex-Cancelliere/Thiel | WEF | Esistente |
 | `oleg-deripaska` | Oligarca russo | - | Stub |
 | `alfred-stern` | CEO OMV | - | Stub |
@@ -300,12 +305,15 @@ Esiste un **nucleo ristretto** che domina tutti i forum:
 
 | ID | Tipo | Note | Scheda |
 |----|------|------|--------|
-| `raiffeisen-bank-international` | Bank | Russia, Signa | [Link](../bank/raiffeisen-bank-international.md) |
-| `omv` | Company | Gas russo, spionaggio | [Link](../company/omv.md) |
+| `raiffeisen-bank-international` | Bank | Russia, Signa | [Link](../docs/bank/raiffeisen-bank-international.md) |
+| `oesterreichische-kontrollbank` | Bank | Export credit agency, Scholten CEO | Stub |
+| `hypo-alpe-adria` | Bank | Defunct, scandalo, Scholten board | Stub |
+| `omv` | Company | Gas russo, spionaggio | [Link](../docs/company/omv.md) |
 | `erste-group` | Bank | Treichl | - |
 | `strabag` | Company | Deripaska 24% | - |
 | `novomatic` | Company | Graf, FPO | - |
 | `european-forum-alpbach` | Forum | Elite dal 1945 | - |
+| `bruno-kreisky-forum` | Forum | Scholten presidente | Stub |
 | `paneuropean-union` | Forum | Habsburg | - |
 
 ### Famiglia Documentata
@@ -386,4 +394,4 @@ L'Austria usa la neutralita' non come principio etico ma come **asset commercial
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Dicembre 2025*

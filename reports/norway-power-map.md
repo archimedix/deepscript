@@ -183,6 +183,8 @@ La Norvegia, con soli 5.5 milioni di abitanti, esercita un'influenza globale spr
 
 #### Bilderberg: La Leadership
 
+**Radici storiche**: La Norvegia e' presente nel Bilderberg fin dalla fondazione. [Leif Høegh](../docs/persons/leif-hoegh.md), armatore e "ministro degli esteri degli armatori", fu **founding member** (1954) e membro dello **Steering Committee** per 20 anni. Partecipo' a tutte le riunioni 1954-1974 (eccetto 1955). Il figlio Westye Høegh continuo' nel Bilderberg Steering Committee, stabilendo una **continuita' dinastica** nei forum transnazionali.
+
 | Persona | Ruolo Bilderberg | Note |
 |---------|------------------|------|
 | [Jens Stoltenberg](../docs/persons/jens-stoltenberg.md) | **Chairman** (dic. 2024-) | Ex PM, ex NATO Secretary General |
@@ -190,6 +192,7 @@ La Norvegia, con soli 5.5 milioni di abitanti, esercita un'influenza globale spr
 | [Helge Lund](../docs/persons/helge-lund.md) | Participant 2019 | Chairman BP + Novo Nordisk |
 | [Kristin Skogen Lund](../docs/persons/kristin-skogen-lund.md) | Participant 2016 | CEO Schibsted, Trilateral Treasurer |
 | [Gro Harlem Brundtland](../docs/persons/gro-harlem-brundtland.md) | Member | Ex PM, ex WHO DG, The Elders |
+| [Leif Høegh](../docs/persons/leif-hoegh.md) | **Founding Member, Steering** (1954-74) | Armatore, dinastia continua con figlio Westye |
 
 **Pattern Stoltenberg**:
 - 1996-97: Finance Minister
@@ -287,6 +290,18 @@ DNB (34% stato) e' la piu' grande banca norvegese con NOK 3.6T+ assets, leader m
 - 48.5% della ricchezza totale = emigrata all'estero (tax optimization)
 - Famiglie shipping dominanti: Wilhelmsen, Høegh, Ugland, Bergesen, Klaveness
 - **Tax exile pattern**: Fredriksen (CYP→UAE), altri verso Svizzera/UK
+
+#### La Dinastia Høegh: Shipping e Bilderberg
+
+| Generazione | Nome | Periodo | Ruolo |
+|-------------|------|---------|-------|
+| **I** | [Leif Høegh](../docs/persons/leif-hoegh.md) | 1927-74 | Fondatore Leif Höegh & Co, **Bilderberg Steering 1954-74** |
+| **II** | Ove Dines Høegh | 1966-82 | Chairman (fino al collasso 1982) |
+| **II** | [Westye Høegh](../docs/persons/westye-hoegh.md) | 1984-2003 | Chairman, **Bilderberg Steering Committee** |
+| **III** | Leif O. Høegh | 2006- | Deputy Chairman Höegh LNG |
+| **III** | Morten W. Høegh | 2003- | Azionista maggioranza |
+
+**Pattern unico**: La famiglia Høegh ha mantenuto presenza nel **Bilderberg Steering Committee** attraverso due generazioni (padre Leif e figlio Westye), dimostrando continuita' dinastica nei forum transnazionali. Leif Høegh fu l'armatore norvegese piu' orientato internazionalmente della sua epoca, soprannominato "il ministro degli esteri dell'Associazione Armatori".
 
 #### I Due Imperi Privati: Fredriksen vs Aker/Røkke
 
@@ -484,6 +499,9 @@ La Norvegia ha sviluppato un modello unico:
 | [john-fredriksen](../docs/persons/john-fredriksen.md) | Shipping tycoon, Frontline, Mowi (CYP citizen) |
 | [olaug-svarva](../docs/persons/olaug-svarva.md) | DNB Chairman, ex-Folketrygdfondet CEO |
 | [kjerstin-braathen](../docs/persons/kjerstin-braathen.md) | DNB CEO |
+| [leif-hoegh](../docs/persons/leif-hoegh.md) | **Bilderberg Founding Member** (1954), Steering 20 anni |
+| [westye-hoegh](../docs/persons/westye-hoegh.md) | Høegh & Co Chairman, Bilderberg Steering |
+| [ove-dines-hoegh](../docs/persons/ove-dines-hoegh.md) | Høegh & Co Chairman 1966-82 |
 
 ### Organizzazioni Norvegesi
 
@@ -503,6 +521,7 @@ La Norvegia ha sviluppato un modello unico:
 | [mowi](../docs/company/mowi.md) | Salmon aquaculture |
 | [golden-ocean](../docs/company/golden-ocean.md) | Shipping (merged 2025) |
 | [folketrygdfondet](../docs/swf/folketrygdfondet.md) | SWF (domestic) |
+| [leif-hoegh-co](../docs/company/leif-hoegh-co.md) | Shipping (auto carriers, LNG) |
 
 ---
 
@@ -515,6 +534,7 @@ La Norvegia ha sviluppato un modello unico:
 - [ ] Sigve Brekke / Benedicte Fasmer - leadership Telenor
 - [x] ~~Trond Grande - Deputy CEO NBIM~~ (documentato)
 - [ ] Famiglia Wilhelmsen - dinastia shipping
+- [x] ~~Famiglia Høegh~~ - dinastia shipping + **Bilderberg founding member** (documentato: Leif, Westye, continuita' Steering Committee)
 - [x] ~~Yngve Slyngstad~~ - ex CEO NBIM (documentato: NBIM architect → Industry Capital Partners/Aker)
 - [ ] Olaug Svarva - DNB Chair, ex-CEO Folketrygdfondet
 - [ ] Kjerstin Braathen - DNB CEO, shipping background
@@ -561,4 +581,4 @@ La Norvegia ha sviluppato un modello unico:
 
 ---
 
-*Ultimo aggiornamento: 23 Dicembre 2025*
+*Ultimo aggiornamento: 29 Dicembre 2025*

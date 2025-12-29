@@ -284,6 +284,7 @@ Aznar appoggio' l'invasione nonostante il **91% degli spagnoli** fosse contrario
 | Persona | Ruolo | Note |
 |---------|-------|------|
 | [Ana Botin](../docs/persons/ana-botin.md) | Steering Committee | Host Madrid 2024 |
+| [Juan Luis Cebrián](../docs/persons/juan-luis-cebrian.md) | Former Steering Committee | Unico ispanico con funzioni esecutive |
 | [Juan Carlos I](../docs/persons/juan-carlos-i.md) | Member | Multiple attendances |
 | Felipe VI | Participant | 2024 (cena venerdi', non in lista ufficiale) |
 | Pedro Sanchez | Guest | Cena sabato 2024 |
@@ -399,11 +400,42 @@ EX-PREMIERS     MINISTRI      IBEX 35
 
 | Gruppo | Controllo | Orientamento |
 |--------|-----------|--------------|
-| [Grupo PRISA](../docs/media/grupo-prisa.md) | El Pais, Cadena SER | Centro-sinistra |
+| [Grupo PRISA](../docs/media/prisa.md) | El Pais, Cadena SER | Centro-sinistra |
 | Grupo Vocento | ABC | Conservatore |
 | Atresmedia | Antena 3, La Sexta | Vario |
 | Mediaset Espana | Telecinco | Popolare |
 | [El Espanol](../docs/media/el-espanol.md) | Digital | Pedro J. Ramirez (Bilderberg) |
+
+### [Juan Luis Cebrián](../docs/persons/juan-luis-cebrian.md): L'Architetto dei Media
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nascita** | 1944, Madrid |
+| **Padre** | Vicente Cebrián, direttore di *Arriba* (Falange) |
+| **El País** | Direttore fondatore (1976-1988) |
+| **PRISA** | Co-fondatore, CEO (1988-2012), Chairman (2012-2017) |
+| **Bilderberg** | Former Steering Committee |
+| **RAE** | Accademico dal 1996 |
+
+```
+                JUAN LUIS CEBRIÁN
+                       │
+    ┌──────────────────┼──────────────────┐
+    │                  │                  │
+    ▼                  ▼                  ▼
+ EL PAÍS           BILDERBERG          PRISA
+ Fondatore         Steering            42 anni
+ 1976              Committee           1972-2017
+    │                  │                  │
+    ▼                  ▼                  ▼
+Transizione       Unico ispanico      Impero:
+democratica       con funzioni        stampa, radio,
+(anti-golpe 23-F) esecutive           TV (Sogecable)
+```
+
+**Paradosso storico**: Figlio del direttore dell'organo della Falange, diventa architetto dell'informazione democratica spagnola. El País fu cruciale nel difendere la democrazia durante il tentato golpe del 23-F (1981).
+
+**Caduta (2017-2024)**: Estromesso da PRISA dagli azionisti guidati da Joseph Oughourlian. Nel 2024 destituito anche da presidente onorario di El País dopo il passaggio al conservatore *The Objective*.
 
 ---
 
@@ -553,6 +585,7 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 
 | ID | Nascita | Ruolo chiave |
 |----|---------|--------------|
+| [juan-luis-cebrian](../docs/persons/juan-luis-cebrian.md) | 1944 | Fondatore El País/PRISA, Bilderberg Steering |
 | [ana-botin](../docs/persons/ana-botin.md) | 1960 | Santander Chairman, Bilderberg Steering |
 | [carlos-torres-vila](../docs/persons/carlos-torres-vila.md) | 1966 | BBVA Chairman, WEF IBC |
 | [jose-maria-aznar](../docs/persons/jose-maria-aznar.md) | 1953 | PM 1996-2004, FAES, News Corp |
@@ -585,7 +618,8 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 | [faes](../docs/think-tank/faes.md) | ThinkTank | Madrid |
 | [real-instituto-elcano](../docs/think-tank/real-instituto-elcano.md) | ThinkTank | Madrid |
 | [club-de-madrid](../docs/forum/club-de-madrid.md) | Forum | Madrid |
-| [grupo-prisa](../docs/media/grupo-prisa.md) | Media | Madrid |
+| [prisa](../docs/media/prisa.md) | Media | Madrid |
+| [el-pais](../docs/media/el-pais.md) | Media | Madrid |
 | [governo-spagna](../docs/government/governo-spagna.md) | Government | Madrid |
 | [banco-de-espana](../docs/central-bank/banco-de-espana.md) | CentralBank | Madrid |
 

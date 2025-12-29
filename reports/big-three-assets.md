@@ -873,7 +873,48 @@ Il database contiene 33 aziende russe, tutte senza connessioni Big Three:
 
 ---
 
-## Riepilogo Aggregato Europa + Asia + America Latina (26 Paesi)
+## Turchia (BIST 100)
+
+| Azienda | Market Cap ($B) | Big Three % | Big Three ($B) |
+|---------|-----------------|-------------|----------------|
+| QNB Finansbank | 33.6 | 1.5% | 0.50 |
+| Aselsan | 24.0 | 3.0% | 0.72 |
+| Garanti BBVA | 13.6 | 2.5% | 0.34 |
+| ENKA Insaat | 10.9 | 2.0% | 0.22 |
+| Koc Holding | 10.0 | 3.0% | 0.30 |
+| Turkish Airlines | 8.6 | 3.5% | 0.30 |
+| Akbank | 8.4 | 3.0% | 0.25 |
+| Turkiye Is Bankasi | 8.4 | 2.5% | 0.21 |
+| Tupras | 8.3 | 3.0% | 0.25 |
+| Ford Otosan | 7.7 | 2.0% | 0.15 |
+| BIM Magazalar | 7.5 | 3.5% | 0.26 |
+| Yapi Kredi | 6.9 | 2.5% | 0.17 |
+| Halkbank | 6.2 | 1.5% | 0.09 |
+| Turkcell | 5.0 | 2.5% | 0.13 |
+| VakifBank | 4.7 | 1.5% | 0.07 |
+| Turk Telekom | 4.6 | 2.0% | 0.09 |
+| Sabanci Holding | 4.0 | 3.0% | 0.12 |
+| Coca-Cola Icecek | 3.9 | 2.0% | 0.08 |
+| Erdemir | 3.7 | 2.5% | 0.09 |
+
+**Totale Big Three Turchia**: ~**$4.3 miliardi**
+
+**Note**:
+- QNB Finansbank: Qatar National Bank controlla 99.8%, nessun flottante significativo, Big Three solo via ETF
+- Turkish Airlines: Turkiye Wealth Fund (TVF) 49.12%, limite 40% per investitori esteri. BlackRock storico ~5% (2019), oggi stimato ~3.5%
+- Garanti BBVA: BBVA (Spagna) azionista di maggioranza, Dogus Group 24.2%, Big Three limitati
+- Akbank: Sabanci Holding 49%, flottante 51%, Big Three via iShares MSCI Turkey ETF (~6.4% peso ETF)
+- Koc Holding: Famiglia Koc controlla 64.8%, flottante estero 60% del free float (26%), BlackRock e Vanguard via ETF
+- Halkbank/VakifBank: Banche statali, Turkiye Wealth Fund controllo, Big Three marginali
+- Turkcell: Morgan Stanley primo istituzionale (0.47%), BlackRock 0.05%, Vanguard marginale via ADR (TKC NYSE)
+- Aselsan: Difesa, Turkish Armed Forces Foundation 74.2%, flottante limitato, Big Three via ETF
+- iShares MSCI Turkey ETF (TUR): $200M AUM, pesa ~0.1% su BIST totale
+- Pattern Turchia: controllo statale (TVF), conglomerati familiari (Koc, Sabanci), banche estere (BBVA, QNB), limite FII 40% per airlines
+- Penetrazione Big Three tra le piu' basse d'Europa (~2.5%), simile a Romania
+
+---
+
+## Riepilogo Aggregato Europa + Asia + America Latina (27 Paesi)
 
 | Paese    | Market Cap Totale ($B) | Big Three Totale ($B) | % Media Ponderata |
 |----------|------------------------|----------------------|-------------------|
@@ -901,12 +942,13 @@ Il database contiene 33 aziende russe, tutte senza connessioni Big Three:
 | Grecia   | 96.6                   | 3.9                  | 4.0%              |
 | Ungheria | 49.1                   | 2.4                  | 4.9%              |
 | Romania  | 52.1                   | 1.3                  | 2.5%              |
+| Turchia  | 175.3                  | 4.3                  | 2.5%              |
 | Estonia  | 4.9                    | 0.05                 | 1.0%              |
 | **Russia** | **~535.0** (pre-2022) | **0** (post-2022)   | **0%**            |
-| **TOTALE EUROPA** | **12,709.8**   | **1,174.9**          | **9.2%**          |
+| **TOTALE EUROPA** | **12,885.1**   | **1,179.2**          | **9.2%**          |
 | **TOTALE ASIA** | **6,074.0**      | **504.3**            | **8.3%**          |
 | **TOTALE AMERICA LATINA** | **760.4** | **48.7**          | **6.4%**          |
-| **TOTALE GLOBALE** | **19,544.2**  | **1,727.9**          | **8.8%**          |
+| **TOTALE GLOBALE** | **19,719.5**  | **1,732.2**          | **8.8%**          |
 
 ---
 
@@ -979,6 +1021,26 @@ Il database contiene 33 aziende russe, tutte senza connessioni Big Three:
   - Consolidamento domestico (Infortar controlla Tallink 68.5%)
   - EBRD unico investitore istituzionale internazionale rilevante (Tallinna Sadam 3.6%)
 - Pattern: economia avanzata ma mercato azionario dominato da capitale locale
+
+### Modello turco (Stato + conglomerati + banche estere)
+- La Turchia ha una **penetrazione Big Three del 2.5%**, tra le piu' basse d'Europa
+- **$4.3B** in mani Big Three, nonostante un mercato di $175B
+- Caratteristiche distintive:
+  - **Turkiye Wealth Fund (TVF)**: controlla Turkish Airlines (49%), Halkbank, VakifBank, Borsa Istanbul
+  - **Conglomerati familiari**: Koc Holding (65% famiglia), Sabanci Holding (49% Akbank)
+  - **Banche estere controllanti**: BBVA (Garanti), QNB Qatar (Finansbank 99.8%)
+  - **Difesa protetta**: Aselsan (Turkish Armed Forces Foundation 74%), flottante limitato
+  - **Limite FII airlines**: 40% massimo per investitori esteri in Turkish Airlines
+- Pattern emergenti:
+  - **iShares MSCI Turkey ETF (TUR)**: solo $200M AUM, peso trascurabile su BIST
+  - **ADR limitati**: Turkcell (TKC) unico ADR liquido, BlackRock 0.05%
+  - **Flottante estero Koc**: 60% del free float (26%), ma Big Three marginali
+  - **Buyback**: Turkish Airlines $234M buyback 2025, aumenta peso istituzionali
+- Confronto con altri modelli:
+  - vs Romania: simile penetrazione (2.5%), ma Turchia piu' grande e diversificata
+  - vs Grecia: Turchia piu' chiusa (2.5% vs 4%), meno privatizzazioni recenti
+  - vs India: simile mix Stato + famiglie, ma Turchia piu' aperta a banche estere
+- Lezione: il "modello TVF" (sovereign wealth fund nazionale) + conglomerati familiari + banche europee crea barriera tripla ai Big Three
 
 ### Modello russo (decoupling totale)
 - La Russia è l'**unico paese europeo con penetrazione Big Three a 0%**

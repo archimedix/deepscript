@@ -470,7 +470,67 @@ Tre condanne penali: Agusta (1998), frode fiscale (2018), corruzione elettorale 
 
 ---
 
-## XI. French-American Foundation: La Seconda Pipeline
+## XI. IFRI e World Policy Conference: Il Soft Power Intellettuale
+
+### Thierry de Montbrial: Architetto dei Think Tank Francesi
+
+[Thierry de Montbrial](../docs/persons/thierry-de-montbrial.md) (1943-) ha introdotto la cultura anglosassone dei think tank in Francia, creando un ecosistema parallelo a quello di Bébéar/de Castries:
+
+```
+THIERRY DE MONTBRIAL (1943-)
+         │
+    ┌────┴────┬────────────┬────────────┐
+    │         │            │            │
+    ▼         ▼            ▼            ▼
+  IFRI    BILDERBERG   TRILATERAL    WPC
+ (1979)   (1976-2011)  (1976-2002)  (2008)
+ founder   steering     member      founder
+    │         │            │            │
+    └────┬────┴────────────┴────────────┘
+         │
+    SOFT POWER FRANCESE
+    (alternativa a IM)
+```
+
+### Il Pattern de Montbrial
+
+| Fase | Anno | Ruolo |
+|------|------|-------|
+| **Stato** | 1973-79 | Director Centre d'Analyse et de Prévision (Min. Esteri) |
+| **Forum globali** | 1976 | Entra Bilderberg Steering + Trilateral + co-fonda FAF |
+| **Think tank** | 1979 | Fonda IFRI (oggi top 3 mondiale) |
+| **Proprio forum** | 2008 | Fonda World Policy Conference |
+
+Pattern: Governo → Forum globali → Think tank proprio → Forum proprio
+
+### IFRI vs Institut Montaigne
+
+| Aspetto | IFRI | Institut Montaigne |
+|---------|------|-------------------|
+| **Fondatore** | de Montbrial (accademico) | Bébéar (businessman) |
+| **Anno** | 1979 | 2000 |
+| **Focus** | Relazioni internazionali | Policy domestica |
+| **Funding** | Diversificato | Corporate (AXA) |
+| **Output** | Analisi geopolitica | Programmi elettorali |
+| **Connessione politica** | Indiretta | Diretta (En Marche) |
+
+### World Policy Conference: Il Forum Alternativo
+
+La WPC (2008-) è l'alternativa francese a Davos:
+
+| Dato | WPC | WEF Davos |
+|------|-----|-----------|
+| **Fondatore** | de Montbrial | Klaus Schwab |
+| **Anno** | 2008 | 1971 |
+| **Partecipanti** | ~300 | ~3000 |
+| **Focus** | Governance globale | Business + Policy |
+| **Stile** | Discreto | Mediatico |
+
+Partecipanti WPC includono: Jean-Claude Trichet, Kevin Rudd, Hubert Védrine, BAN Ki-Moon.
+
+---
+
+## XII. French-American Foundation: La Pipeline Transatlantica
 
 ### Il Forum Transatlantico
 
@@ -1148,6 +1208,9 @@ La famiglia [Peugeot](../docs/family/peugeot.md) da controllori (>25% pre-2012) 
 | **Louis Schweitzer** | Person | ENA, CEO Renault, Alliance Nissan |
 | **Luca de Meo** | Person | CEO Renault 2020-25, Renaulution |
 | **Nissan** | Automaker | (stub) Alliance partner |
+| **Thierry de Montbrial** | Person | [docs/persons/thierry-de-montbrial.md](../docs/persons/thierry-de-montbrial.md) |
+| **IFRI** | ThinkTank | Fondato 1979, top 3 mondiale |
+| **World Policy Conference** | Forum | Fondato 2008, alternativa a Davos |
 
 | **Governo Francia** | Government | [docs/government/governo-francia.md](../docs/government/governo-francia.md) |
 | **François Hollande** | Person | [docs/persons/francois-hollande.md](../docs/persons/francois-hollande.md) |
@@ -1450,7 +1513,18 @@ Carlos Ghosn (CEO simultaneo Renault + Nissan + Chairman Mitsubishi) rappresent�
 
 Pattern: Il modello del CEO globale transnazionale si è scontrato con governance nazionali e interessi locali
 
-### 22. Il Declino Controllato Dinastico
+### 22. Il Costruttore di Forum
+
+Due figure francesi hanno seguito lo stesso percorso: da membro di forum globali a creatore del proprio forum:
+
+| Persona | Forum originari | Forum creato |
+|---------|-----------------|--------------|
+| **de Montbrial** | Bilderberg (1976), Trilateral (1976) | IFRI (1979), WPC (2008) |
+| **Bébéar** | Bilderberg (1995) | Institut Montaigne (2000) |
+
+Pattern: Partecipazione → Comprensione del modello → Creazione di alternativa nazionale
+
+### 23. Il Declino Controllato Dinastico
 
 La famiglia Peugeot dimostra come una dinastia possa accettare la perdita di controllo in cambio della sopravvivenza:
 
@@ -1488,8 +1562,11 @@ Pattern: Controllo → Sopravvivenza → Influenza residua + diversificazione
 | **1967** | Fondazione Accor (SIEH) | Hospitality moderna francese |
 | **1970** | Fondazione Airbus Industrie | Consorzio franco-tedesco aerospazio |
 | **1976** | Fusione Peugeot-Citroën → PSA | Secondo polo automotive francese |
-| **1976** | Fondazione French-American Foundation | Pipeline transatlantica |
+| **1976** | Fondazione French-American Foundation | Pipeline transatlantica (co-fondatore de Montbrial) |
+| **1973** | de Montbrial Dir. Centre d'Analyse (Quai d'Orsay) | Primo think tank governativo francese |
 | **1975** | Bébéar CEO Anciennes Mutuelles | Inizio costruzione impero |
+| **1976** | de Montbrial entra Bilderberg Steering + Trilateral | 35 anni nel cuore dei forum |
+| **1979** | de Montbrial fonda IFRI | Introduce think tank in Francia |
 | **1980** | Feeney fonda General Atlantic | PE per filantropia |
 | **1985** | Nasce AXA | Bébéar rinomina gruppo |
 | **1969** | Pompidou presidente | Ex-Rothschild all'Eliseo |
@@ -1526,6 +1603,7 @@ Pattern: Controllo → Sopravvivenza → Influenza residua + diversificazione
 | **2005** | Sconfitta referendum UE | Umiliazione Chirac |
 | **2007** | Sarkozy presidente | Batte Royal |
 | **2007** | DSK Managing Director FMI | Socialista al vertice globale |
+| **2008** | de Montbrial fonda World Policy Conference | Forum alternativo a Davos |
 | **2007** | Attali incontra Macron | Inizio mentorship |
 | **2007** | Commissione Attali: i 4 sponsor | Weinberg, Fontanet, Darrois reclutano |
 | **2008** | Crisi Natixis | Esposizione Madoff, subprime |
@@ -1680,4 +1758,4 @@ Pattern: Controllo → Sopravvivenza → Influenza residua + diversificazione
 
 ---
 
-*Ultimo aggiornamento: 20 Dicembre 2025*
+*Ultimo aggiornamento: 29 Dicembre 2025*

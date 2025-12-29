@@ -417,7 +417,17 @@ Jerome Kohlberg (poi KKR)           |
 
 > **Nota**: John Manley, Past Chair della Trilateral Commission North America, rappresenta il collegamento diretto tra la lobby corporate canadese (BCC CEO), il sistema bancario (CIBC Chair), e i forum transnazionali.
 
-### Bilderberg - Canadesi Recenti
+### Bilderberg - Canadesi
+
+#### Advisory Committee (Inner Circle Storico)
+
+| Membro | Periodo | Note |
+|--------|---------|------|
+| [Anthony Griffin](../docs/persons/anthony-griffin.md) | **1964-1996** | 32 anni, fondatore Triarch Corp (S.G. Warburg Canada) |
+
+> Griffin fu uno dei soli 10 membri confermati dell'Advisory Committee globale, il gruppo che seleziona lo Steering Committee. Il ponte Warburg-Canada.
+
+#### Partecipanti Recenti
 
 | Anno | Partecipanti Canadesi |
 |------|----------------------|
@@ -592,6 +602,7 @@ Schwartz                   |
 
 | ID | Ruolo | Forum | Scheda |
 |----|-------|-------|--------|
+| [anthony-griffin](../docs/persons/anthony-griffin.md) | Triarch Corp founder, S.G. Warburg Canada | **Bilderberg Advisory Committee 32 anni** | **[Completa](../docs/persons/anthony-griffin.md)** |
 | [john-manley](../docs/persons/john-manley.md) | CIBC Chair, ex-Deputy PM | Trilateral Past Chair, WEF, CFR | **[Completa](../docs/persons/john-manley.md)** |
 | [paul-desmarais-jr](../docs/persons/paul-desmarais-jr.md) | Chairman Power Corp | Bilderberg, CFR GBA, Brookings | **[Completa](../docs/persons/paul-desmarais-jr.md)** |
 | [gerry-schwartz](../docs/persons/gerry-schwartz.md) | Onex Founder/Chairman | - | Stub |
@@ -602,7 +613,7 @@ Schwartz                   |
 | [andre-desmarais](../docs/persons/andre-desmarais.md) | Deputy Chairman | Trilateral, Bilderberg | Da completare |
 | [mark-wiseman](../docs/persons/mark-wiseman.md) | Ex-CPPIB, BlackRock | - | Da completare |
 | [edgar-bronfman-sr](../docs/persons/edgar-bronfman-sr.md) | Seagram, WJC | - | Da completare |
-| [marie-josee-kravis](../docs/persons/marie-josee-kravis.md) | KKR, Bilderberg | Bilderberg Steering | Da completare |
+| [marie-josee-kravis](../docs/persons/marie-josee-kravis.md) | Chair MoMA, Hudson Institute | Bilderberg Co-Chair, CFR | **[Completa](../docs/persons/marie-josee-kravis.md)** |
 | [thomas-daquino](../docs/persons/thomas-daquino.md) | Ex-CEO BCC, Free Trade architect | - | Stub |
 | [goldy-hyder](../docs/persons/goldy-hyder.md) | CEO BCC | - | Stub |
 | [bobby-le-blanc](../docs/persons/bobby-le-blanc.md) | CEO Onex | - | Stub |
@@ -613,6 +624,7 @@ Schwartz                   |
 
 | ID | Tipo | Status |
 |----|------|--------|
+| [triarch-corporation](../docs/bank/triarch-corporation.md) | Bank | Stub (S.G. Warburg Canada, 1953) |
 | [power-corporation](../docs/company/power-corporation.md) | Company | **[Completa](../docs/company/power-corporation.md)** |
 | [business-council-canada](../docs/think-tank/business-council-canada.md) | ThinkTank | **[Completa](../docs/think-tank/business-council-canada.md)** |
 | [onex](../docs/private-equity/onex.md) | PrivateEquity | **[Completa](../docs/private-equity/onex.md)** |

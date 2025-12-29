@@ -71,6 +71,16 @@ persons:
       role: chairman
       from: 2021
       note: Chairman
+  adam-grant:
+    nationality: US
+    note: Professor Management/Psychology Wharton. World 25 most influential management thinkers. Author Give and Take, Originals.
+      Lean In board member.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: wharton
+      role: professor
   adam-keswick:
     nationality: GBR
     family: keswick
@@ -109,6 +119,10 @@ persons:
       role: chairman
       from: 1969
       to: 1995
+  adlai-stevenson:
+    born: 1900
+    died: 1965
+    nationality: USA
   adolf-eichmann:
     born: 1906
     died: 1962
@@ -618,6 +632,16 @@ persons:
       role: executive
       from: 2017
       to: 2020
+  alexander-torrenegra:
+    nationality: CO
+    note: Founded Voice123 (largest voice-over marketplace). MIT TR35 Top Colombian Innovator 2012. Endeavor High-Impact Entrepreneur
+      2013.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: bunny-inc
+      role: founder
   alexander-voloshin:
     born: 1956
     nationality: RUS
@@ -735,13 +759,54 @@ persons:
       role: chairman
       from: 2021
       note: Chairman Supervisory Board
-  ali-babacan:
-    born: 1967
-    nationality: TUR
-    note: Ex Ministro Economia Turchia, cofondatore DEVA
+  ali-adnan-ibrahim:
+    nationality: BH
+    note: Adjunct Professor Georgetown. Former Baker & McKenzie.
     affiliations:
     - org: wef
       role: ygl
+      note: WEF Annual Meeting 2016
+    - org: georgetown-university
+      role: professor
+    - org: al-baraka-banking-group
+      role: executive
+  ali-babacan:
+    born: 1967
+    nationality: TUR
+    note: Co-fondatore AKP, Ministro Economia 2002-2007, Min Esteri 2007-2009, Vice PM 2009-2015, fondatore DEVA 2020
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2003
+      to: 2013
+      note: '7+ partecipazioni: 2003, 2004, 2007, 2008, 2009, 2012, 2013'
+    - org: wef
+      role: ygl
+      note: Young Global Leader, mid-2000s
+    - org: governo-turchia
+      role: minister
+      from: 2002
+      to: 2015
+      note: Min Economia 2002-07, Min Esteri 2007-09, Vice PM 2009-15
+    - org: deva
+      role: founder
+      from: 2020
+      note: Fondatore e Chairman
+    relations:
+    - person: recep-tayyip-erdogan
+      type: colleague
+      note: Co-fondatori AKP, collaboratori fino a rottura 2019
+  ali-j-siddiqui:
+    nationality: PK
+    note: Founded JS Private Equity, Airblue, Bank Islami, JS Bank. CEO Mahvash and Jahangir Siddiqui Foundation. Board Acumen.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: js-group
+      role: chairman
+    - org: acumen
+      role: board
   ali-mukhtar:
     nationality: PAK
     note: Director Strategy Fatima Fertilizer
@@ -768,6 +833,17 @@ persons:
     - org: open-society-romania
       role: board
       note: Board member
+  alison-loat:
+    nationality: CA
+    note: Former McKinsey. Co-founder Samara and Canada25. Author "Tragedy in the Commons".
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mckinsey
+      role: consultant
+    - org: samara
+      role: founder
   alistair-darling:
     born: 1953
     died: 2023
@@ -852,6 +928,16 @@ persons:
       role: executive
       from: 2024
       note: CEO; first woman to lead BT; NED from 2019
+  almira-zejnilagic:
+    nationality: GB
+    note: Managing Director FTI Consulting. Former Serbian Student Union, Serbian Parliament, Ministry of Finance. Former
+      Global Witness.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: fti-consulting
+      role: executive
   alois-brunner:
     born: 1912
     died: 2010
@@ -866,6 +952,14 @@ persons:
     - person: adolf-eichmann
       type: subordinate
       note: Braccio destro, "il mio miglior uomo"
+  alphonso-taft:
+    born: 1810
+    died: 1891
+    nationality: USA
+    affiliations:
+    - org: skull-and-bones
+      role: founder
+      from: 1832
   altiero-spinelli:
     born: 1907
     died: 1986
@@ -899,6 +993,15 @@ persons:
       role: founder
       from: 2010
       note: Founding Partner, grandson of Jiang Zemin
+  amadou-hott:
+    nationality: SN
+    note: Founding CEO FONSIS 2013. Former CEO UBA Capital Lagos. Co-founded Dangote Capital. YGL 2012.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: fonsis
+      role: founder
   amanda-staveley:
     born: 1973
     nationality: GBR
@@ -1179,6 +1282,15 @@ persons:
       role: executive
       from: 2021
       note: CEO GoTo Group
+  andrea-armani:
+    nationality: US
+    note: 'Professor USC Viterbi School of Engineering. Research: integrated photonics for telecommunications and cancer diagnostics.'
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: usc
+      role: professor
   andrea-mangoni:
     born: 1963
     nationality: ITA
@@ -1218,6 +1330,15 @@ persons:
       from: 2018
       to: 2019
       note: CEO designato, offerta revocata - vinto €68m risarcimento
+  andrea-pasinetti:
+    nationality: CN
+    note: Founder Teach For China. Named most influential foreigner in China 2011 by China Newsweek.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: teach-for-china
+      role: founder
   andrea-sironi:
     nationality: ITA
     affiliations:
@@ -1225,6 +1346,16 @@ persons:
       role: chairman
       from: 2025
       note: Presidente indipendente
+  andrea-sturmer:
+    nationality: US
+    note: COO Business Insurance Zurich Insurance Group. Former CFO Group Reinsurance Zurich. Former Allianz, JPMorgan. Board
+      Generation CEO.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: zurich-insurance
+      role: executive
   andreas-dracopoulos:
     born: 1966
     nationality: GRC
@@ -1397,6 +1528,17 @@ persons:
     - org: redlattice
       role: board
       from: 2023
+  andrew-charlton:
+    nationality: AU
+    note: Former Senior Economic Adviser to PM Kevin Rudd. Co-author with Joseph Stiglitz.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: alphabeta
+      role: founder
+    - org: bcg
+      role: consultant
   andrew-mellon:
     born: 1855
     died: 1937
@@ -1516,6 +1658,17 @@ persons:
       role: founder
       from: 2013
       note: President
+  anna-marrs:
+    nationality: SG
+    note: Started at D.E. Shaw. Former McKinsey Partner. Head Commercial and Private Banking Standard Chartered.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mckinsey
+      role: partner
+    - org: standard-chartered
+      role: executive
   anna-schrimpf:
     nationality: GBR
     affiliations:
@@ -1578,6 +1731,37 @@ persons:
       from: 1965
       to: 1983
       note: Editorial Committee
+  anthony-griffin:
+    born: 1911
+    died: 2015
+    nationality: CAN
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1964
+      to: 1996
+      note: Advisory Committee member (32 years)
+    - org: sg-warburg
+      role: partner
+      from: 1953
+      note: Ran Canadian operations via Triarch Corp
+    - org: triarch-corporation
+      role: founder
+      from: 1953
+      note: Founded as S.G. Warburg Canadian subsidiary
+    relations:
+    - person: siegmund-warburg
+      type: professional
+      note: Warburg recruited Griffin to run Canadian operations
+  anthony-smare:
+    nationality: PG
+    note: Lawyer and geologist. Former partner Allens Arthur Robinson. Founded Kumul Foundation and Lek Natin Foundation.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: nambawan-super
+      role: chairman
   antigone-loudiadis:
     nationality: GRC
     affiliations:
@@ -1613,6 +1797,15 @@ persons:
       from: 2010
       to: 2012
       note: Deputy DG 2010-12; Interim CEO Feb-Jul 2012
+  anton-du-plessis:
+    nationality: ZA
+    note: Executive Director ISS. Former senior prosecutor South Africa. Former UN Office on Drugs and Crime.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: iss
+      role: executive
   anton-levy:
     nationality: USA
     affiliations:
@@ -1701,6 +1894,17 @@ persons:
       role: leader
       from: 2025
       note: Primo Ministro
+  arda-ermut:
+    born: 1980
+    nationality: TUR
+    affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor
+    - org: turkiye-wealth-fund
+      role: executive
+      from: 2021
+      note: CEO and General Manager
   ariane-de-rothschild:
     born: 1965
     nationality: FRA
@@ -1846,6 +2050,24 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  asanga-abeyagoonasekera:
+    nationality: LK
+    note: Former Executive Director Lakshman Kadirgamar Institute. Founder Diri Saviya Foundation. Founding Curator Global
+      Shapers Colombo.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+  ashish-j-thakkar:
+    nationality: AE
+    note: Founder Mara Group. 11,000 employees across 25 African countries. Chairman UN Foundation Global Entrepreneurship
+      Council. Author "The Lion Awakes".
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mara-group
+      role: founder
   ashok-hinduja:
     born: 1950
     nationality: IND
@@ -1859,6 +2081,15 @@ persons:
     - org: hinduja-hospital
       role: chairman
       note: National Health and Education Society
+  ashwin-naik:
+    nationality: IN
+    note: Co-founded Vaatsalya for affordable healthcare in rural India. Member Ashoka Leadership Group.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: ashoka
+      role: member
   athina-onassis:
     born: 1985
     nationality: GRC
@@ -1879,6 +2110,14 @@ persons:
       from: 1968
       to: 1984
       note: Co-fondatore e primo Presidente
+  averell-harriman:
+    born: 1891
+    died: 1986
+    nationality: USA
+    affiliations:
+    - org: skull-and-bones
+      role: member
+      from: 1913
   avril-haines:
     born: 1969
     nationality: USA
@@ -2105,6 +2344,15 @@ persons:
       from: 2014
       to: 2022
       note: CEO
+  bengi-korkmaz:
+    nationality: TR
+    note: 'McKinsey Partner. Focus: media industry, emerging markets technology, women empowerment, education-to-employment.'
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mckinsey
+      role: partner
   beniamino-andreatta:
     born: 1928
     died: 2007
@@ -2781,6 +3029,34 @@ persons:
       role: chairman
       from: 2023
       note: Board Chair
+  brian-a-wong:
+    nationality: CN
+    note: 52nd employee Alibaba. Former Special Assistant to Mayor Willie Brown San Francisco. Angel investor.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: alibaba
+      role: executive
+  brian-forde:
+    nationality: US
+    note: Director Digital Currency MIT Media Lab. Former Peace Corps Nicaragua. Co-founded Llamadas. Former White House Senior
+      Adviser Mobile/Data Innovation.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mit
+      role: director
+  brian-gallant:
+    nationality: CA
+    note: Premier of New Brunswick 2014. Youngest elected premier in Canada in two centuries at age 32.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: governo-canada
+      role: leader
   brian-moynihan:
     born: 1959
     nationality: USA
@@ -2856,6 +3132,15 @@ persons:
       role: steering
       from: 2020
       note: Guardian - Brunello Cucinelli S.p.A.
+  bruno-sanchez-andrade-nuno:
+    nationality: US
+    note: Data Scientist World Bank. Former NASA. Director Global Adaptation Institute 2011-13. Chief Scientist Mapbox 2013-14.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: world-bank
+      role: scientist
   bud-walton:
     born: 1921
     died: 1995
@@ -3101,6 +3386,15 @@ persons:
       role: board
       from: 2020
       note: Supervisory Board member
+  catherine-howarth:
+    nationality: GB
+    note: Chief Executive ShareAction. Board Green Alliance. Investment committee Trust for London.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: shareaction
+      role: executive
   catia-bastioli:
     nationality: ITA
     affiliations:
@@ -3177,6 +3471,15 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  celine-herweijer:
+    nationality: GB
+    note: Partner PwC Climate Change. Key adviser G20 and WEF on climate. Visiting Senior Fellow LSE Grantham Institute.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: pwc
+      role: partner
   cem-ozdemir:
     born: 1965
     nationality: DEU
@@ -3283,6 +3586,12 @@ persons:
       role: board
       from: 2001
       note: Non-Executive Director
+  charles-simonyi:
+    nationality: HUN-USA
+    affiliations:
+    - org: institute-for-advanced-study
+      role: chairman
+      note: Chair Emeritus
   charlie-munger:
     born: 1924
     died: 2023
@@ -3436,6 +3745,17 @@ persons:
       role: founder
       from: 1944
       to: 1988
+  christel-heydemann:
+    nationality: FR
+    note: Former BCG Paris. Former Alcatel-Lucent Executive Committee.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: schneider-electric
+      role: executive
+    - org: alcatel-lucent
+      role: executive
   christian-herter:
     nationality: USA
     affiliations:
@@ -3629,6 +3949,15 @@ persons:
     - org: wef
       role: ygl
       from: 2012
+  clare-akamanzi:
+    nationality: RW
+    note: Former Rwanda commercial diplomat London. Trade negotiator WTO Geneva. COO Rwanda Development Board.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: rwanda-development-board
+      role: executive
   claude-bebear:
     born: 1935
     died: 2025
@@ -3801,6 +4130,17 @@ persons:
     born: 1944
     nationality: CAN-GBR
     affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee member
+    - org: cfr
+      role: advisor
+      note: International Advisory Board
+    - org: hudson-institute
+      role: board
+      note: Trustee
+    - org: iiss
+      role: member
     - org: telegraph-group
       role: chairman
       from: 1986
@@ -3808,6 +4148,10 @@ persons:
     - org: hollinger
       role: executive
       note: CEO, forced out 2003-2004
+    relations:
+    - person: henry-kissinger
+      type: associate
+      note: Close friends 40+ years, Kissinger on Hollinger board, later fell out during trial
   constant-janssen:
     born: 1895
     died: 1970
@@ -3912,6 +4256,15 @@ persons:
       role: executive
       from: 2021
       note: Group CEO (CRO 2016-2020)
+  cynthia-wu:
+    nationality: TW
+    note: Former research analyst Merrill Lynch London. Named 100 Most Outstanding Chinese Women 2006.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: shin-kong-life-foundation
+      role: executive
   cyrille-bollore:
     born: 1986
     nationality: FRA
@@ -3978,6 +4331,18 @@ persons:
       note: Accordo monopolio diamanti $20M
     - person: moshe-schnitzer
       type: grandson
+  danah-boyd:
+    nationality: US
+    note: Principal Researcher Microsoft. Research Assistant Professor NYU. Fellow Harvard Berkman Center. Founded Data &
+      Society Research Institute 2014.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: microsoft
+      role: researcher
+    - org: nyu
+      role: professor
   daniel-daniello:
     born: 1946
     nationality: USA
@@ -4081,6 +4446,16 @@ persons:
       role: executive
       from: 2013
       note: President
+  dave-hanley:
+    nationality: US
+    note: Principal Deloitte. Co-founder Banyan Branch. Fulbright Scholar Grameen Bank Bangladesh. Former Shelfari (acquired
+      by Amazon).
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: deloitte
+      role: principal
   david-abshire:
     born: 1926
     died: 2014
@@ -4100,6 +4475,15 @@ persons:
       from: 2004
       to: 2021
       note: Via Press Holdings, died 2021
+  david-boehmer:
+    nationality: GB
+    note: Global Managing Partner Financial Services Heidrick & Struggles. Board Komera Project. Big Brothers Big Sisters.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: heidrick-struggles
+      role: partner
   david-cameron:
     born: 1966
     nationality: GBR
@@ -4208,6 +4592,15 @@ persons:
     - org: rothschild-co
       role: chairman
       from: 2003
+  david-hertz:
+    nationality: BR
+    note: Social entrepreneur São Paulo. Slow food advocate.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: gastromotiva
+      role: founder
   david-kelly:
     born: 1944
     died: 2003
@@ -4260,6 +4653,16 @@ persons:
       from: 1908
       to: 1915
       note: Chancellor of the Exchequer
+  david-lubell:
+    nationality: US
+    note: Founder/Executive Director Welcoming America. Former Executive Director TIRRC. UN Alliance of Civilizations Top
+      5 Intercultural Innovation Award 2014.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: welcoming-america
+      role: founder
   david-martinon:
     born: 1971
     nationality: FRA
@@ -4279,6 +4682,13 @@ persons:
       from: 2007
       to: 2010
       note: Foreign Secretary
+  david-nirenberg:
+    nationality: USA
+    affiliations:
+    - org: institute-for-advanced-study
+      role: executive
+      from: 2022
+      note: Director (10th)
   david-petraeus:
     born: 1952
     nationality: USA
@@ -4342,10 +4752,12 @@ persons:
       role: chairman
       from: 2017
     - org: carlyle-group
-      role: chairman
+      role: founder
+      note: Co-Founder and Co-Chairman
     - org: carlyle-group
       role: founder
       from: 1987
+      note: Co-Founder and Co-Chairman
     - org: fii-saudi
       role: member
       note: Speaker FII8
@@ -4354,6 +4766,9 @@ persons:
     - org: moderna
       role: board
       note: Board member, Co-founder Carlyle Group
+    - org: institute-for-advanced-study
+      role: board
+      note: Trustee
   david-willetts:
     nationality: GBR
     affiliations:
@@ -4374,6 +4789,10 @@ persons:
       role: founder
       from: 1961
       note: Vice Chair fondatore
+  dean-rusk:
+    born: 1909
+    died: 1994
+    nationality: USA
   deepika-padukone:
     born: 1986
     nationality: IND
@@ -4404,6 +4823,40 @@ persons:
     - person: albert-ii-belgium
       type: daughter
       note: riconosciuta 2020 dopo test DNA
+  denis-healey:
+    born: 1917
+    died: 2015
+    nationality: GBR
+    affiliations:
+    - org: bilderberg
+      role: founder
+      from: 1954
+      to: 2015
+      note: Founding member, Steering Committee 30+ years, attended 23 meetings
+    - org: governo-uk
+      role: minister
+      from: 1964
+      to: 1979
+      note: Defence Secretary 1964-70, Chancellor 1974-79, Deputy Leader Labour 1980-83
+    - org: fabian-society
+      role: board
+      from: 1954
+      to: 1961
+      note: Executive member
+    - org: iiss
+      role: founder
+      from: 1958
+      to: 1961
+      note: Founding member
+    - org: chatham-house
+      role: board
+      from: 1948
+      to: 1960
+      note: Councillor
+    relations:
+    - person: eric-roll
+      type: colleague
+      note: Fellow Bilderberg Steering Committee members, top UK attendees
   denis-minev:
     nationality: BRA
     note: CEO Bemol, cofondatore Fundação Amazonas Sustentável
@@ -4411,6 +4864,17 @@ persons:
     - org: wef
       role: ygl
       from: 2012
+  devesh-raj:
+    nationality: US
+    note: SVP Head of Strategy Comcast Corporation. Former BCG Senior Partner Head Americas TMT. Board New York Hall of Science.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: comcast
+      role: executive
+    - org: bcg
+      role: partner
   dhanin-chearavanont:
     born: 1939
     nationality: THA
@@ -4511,6 +4975,17 @@ persons:
       role: leader
       from: 2022
       note: Politburo Standing Committee
+  dirk-carsten-hoke:
+    nationality: DE
+    note: Former R&D Engineer Renault. Various senior roles at Siemens since 1994.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: siemens
+      role: executive
+    - org: airbus
+      role: executive
   dmitry-medvedev:
     born: 1965
     nationality: RUS
@@ -4697,6 +5172,16 @@ persons:
     - org: hakluyt
       role: advisor
       note: International Advisory Board; former Chairman HSBC
+  dries-buytaert:
+    nationality: US
+    note: 'Founder Drupal (powers 2% of internet). President Drupal Association. Co-founded Acquia 2007 (Inc. magazine #1
+      software company 2012).'
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: acquia
+      role: founder
   droupadi-murmu:
     born: 1958
     nationality: IND
@@ -4714,6 +5199,15 @@ persons:
       role: member
       from: 2020
       note: Donor $91.8M (2020), $38M (2024)
+  earl-valencia:
+    nationality: PH
+    note: Former Cisco and Raytheon. Co-founded IdeaSpace Foundation supported by First Pacific.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: ideaspace-foundation
+      role: founder
   ed-stack:
     born: 1954
     nationality: USA
@@ -4907,11 +5401,30 @@ persons:
       from: 2009
   egemen-bagis:
     born: 1970
-    nationality: TUR
-    note: Ex Ministro Affari UE Turchia
+    nationality: TUR-USA
+    note: Min Affari UE 2009-2013, Chief Advisor Erdogan 2002-2007, Amb Rep Ceca 2019-
     affiliations:
     - org: wef
       role: ygl
+      from: 2010
+      note: Young Global Leader 2010
+    - org: nato
+      role: member
+      from: 2002
+      to: 2009
+      note: Deputy Chairman Turkish Delegation NATO-PA, Chair Subcommittee Transatlantic Relations
+    - org: governo-turchia
+      role: minister
+      from: 2009
+      to: 2013
+      note: Min Affari UE, Chief Negotiator EU Accession
+    relations:
+    - person: ali-babacan
+      type: colleague
+      note: Colleghi AKP, entrambi Chief Negotiator EU
+    - person: recep-tayyip-erdogan
+      type: advisor
+      note: Chief Foreign Policy Advisor
   egon-durban:
     nationality: USA
     affiliations:
@@ -5090,6 +5603,25 @@ persons:
       from: 1996
       to: 2000
       note: Presidente della Romania
+  emile-van-lennep:
+    born: 1915
+    died: 1996
+    nationality: NLD
+    affiliations:
+    - org: governo-olanda
+      role: minister
+      from: 1951
+      to: 1969
+      note: Treasurer-General, Ministry of Finance
+    - org: oecd
+      role: executive
+      from: 1969
+      to: 1984
+      note: Secretary-General
+    relations:
+    - person: joseph-luns
+      type: colleague
+      note: Dutch elite, both served 1950s-1980s
   emilio-azcarraga-jean:
     born: 1968
     nationality: MEX
@@ -5279,6 +5811,16 @@ persons:
     died: 2005
     nationality: GBR
     affiliations:
+    - org: bilderberg
+      role: chairman
+      from: 1986
+      to: 1989
+      note: Chairman Steering Committee; member from 1969
+    - org: governo-uk
+      role: executive
+      from: 1941
+      to: 1966
+      note: Permanent Secretary DEA 1964-66; Economic Minister Washington 1963-64
     - org: sg-warburg
       role: chairman
       from: 1974
@@ -5286,6 +5828,64 @@ persons:
     - org: kissinger-associates
       role: advisor
       from: 1984
+    - org: trilateral-commission
+      role: member
+      from: 1973
+      note: Founding member
+    - org: the-times
+      role: board
+      note: Director
+    - org: bank-of-england
+      role: board
+      from: 1968
+      to: 1977
+      note: Director
+  eric-schmidt:
+    born: 1955
+    nationality: USA
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Attendee
+    - org: cfr
+      role: member
+    - org: governo-usa
+      role: advisor
+      from: 2016
+      note: Chair, Defense Innovation Advisory Board; Chair, National Security Commission on AI (2018)
+    - org: alphabet
+      role: chairman
+      from: 2015
+      to: 2018
+      note: Executive Chairman
+    - org: the-economist
+      role: board
+      note: Board member
+    - org: trilateral-commission
+      role: member
+    - org: google
+      role: executive
+      from: 2001
+      to: 2011
+      note: CEO
+    - org: institute-for-advanced-study
+      role: board
+      note: Trustee Emeritus
+    - org: schmidt-futures
+      role: founder
+      from: 2017
+      note: Co-founder with Wendy Schmidt
+    - org: sandboxaq
+      role: chairman
+      from: 2022
+    - org: relativity-space
+      role: executive
+      from: 2025
+      note: CEO
+    - org: scsp
+      role: chairman
+      from: 2021
+      note: Founder and Chairman
   eric-trappier:
     nationality: FRA
     affiliations:
@@ -5803,6 +6403,19 @@ persons:
       from: 2008
       to: 2013
       note: Rappresentante Permanente Italia presso UE
+  ferit-sahenk:
+    born: 1965
+    nationality: TUR
+    affiliations:
+    - org: wef
+      role: member
+      note: Speaker Davos
+    - org: tusiad
+      role: member
+      note: Dogus Holding representative
+    - org: dogus-holding
+      role: chairman
+      from: 2001
   fernando-moreira-salles:
     born: 1946
     nationality: BRA
@@ -5955,6 +6568,17 @@ persons:
     - org: pinterest
       role: operative
       note: Product manager, algorithmic systems
+  francesca-carlesi:
+    nationality: GB
+    note: Former Bridgepoint Capital, McKinsey, Barclays, Intesa SanPaolo. Managing Director Deutsche Bank.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mckinsey
+      role: consultant
+    - org: deutsche-bank
+      role: executive
   francesco-caio:
     nationality: ITA
     affiliations:
@@ -6009,6 +6633,29 @@ persons:
       from: 2014
       to: 2023
       note: CEO e General Manager 2014-2023. 3 mandati
+  francisco-balsemao:
+    born: 1937
+    died: 2025
+    nationality: PRT
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1985
+      to: 2016
+      note: First Portuguese steering committee member, 30+ years
+    - org: governo-portogallo
+      role: leader
+      from: 1981
+      to: 1983
+      note: Primeiro-Ministro
+    - org: impresa
+      role: founder
+      from: 1972
+      to: 2025
+      note: Founder, CEO, Chairman
+    - org: european-publishers-council
+      role: chairman
+      note: Chairman
   francisco-gonzalez:
     born: 1944
     nationality: ESP
@@ -6031,14 +6678,67 @@ persons:
     affiliations:
     - org: bilderberg
       role: steering
+    - org: jpmorgan
+      role: advisor
+      note: International Council
+    - org: fiat
+      role: executive
+      from: 1978
+      to: 1983
+      note: Chief Economist, Planning Dept.
     - org: eni
       role: executive
       from: 1992
       to: 1998
+      note: CEO - privatizzazione e IPO 1995
+    - org: eni
+      role: advisor
+      from: 1983
+      to: 1992
+      note: Assistant to Chairman, then Head of Planning
     - org: telecom-italia
       role: executive
       from: 1998
       to: 1999
+      note: CEO - primo mandato, dimissioni per OPA Olivetti
+    - org: telecom-italia
+      role: executive
+      from: 2007
+      to: 2013
+      note: CEO e Chairman
+    - org: oecd
+      role: advisor
+      from: 1976
+      to: 1978
+      note: Senior Economist, Dept. Economics and Statistics
+    - org: cellnex
+      role: chairman
+      from: 2019
+      to: 2021
+      note: Non-executive Chairman
+    - org: nexi
+      role: chairman
+      from: 2017
+      to: 2019
+    - org: gsma
+      role: chairman
+      from: 2011
+      to: 2013
+    - org: petrochina
+      role: board
+      from: 2003
+      to: 2017
+      note: Independent Director, Chairman Audit Committee
+    - org: council-foreign-relations
+      role: advisor
+      note: Advisory Board
+    - org: rothschild-europe
+      role: executive
+      from: 2004
+      note: Vice Chairman
+    - org: unesco
+      role: chairman
+      note: President Italian National Commission
   franco-bruni:
     nationality: ITA
     note: Economist, Professor Emeritus Bocconi, ISPI President 2024
@@ -6324,6 +7024,18 @@ persons:
       from: 2011
       to: 2022
       note: CEO
+  franz-vranitzky:
+    born: 1937
+    nationality: AUT
+  fred-hu:
+    nationality: CHN-USA
+    affiliations:
+    - org: institute-for-advanced-study
+      role: board
+      note: Trustee
+    - org: primavera-capital
+      role: founder
+      note: Founder and Chairman
   frederic-arnault:
     born: 1995
     nationality: FRA
@@ -6333,6 +7045,30 @@ persons:
       role: executive
       from: 2020
       note: CEO LVMH Watches
+  frederic-bennett:
+    born: 1918
+    died: 2002
+    nationality: GBR
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1959
+      to: 1984
+      note: Steering Committee member, attended 20 meetings
+    - org: governo-uk
+      role: member
+      from: 1955
+      to: 1987
+      note: MP Torquay 1955-74, Torbay 1974-87; PPS various ministers; Privy Counsellor 1985
+    - org: council-of-europe
+      role: chairman
+      from: 1979
+      to: 1987
+      note: Leader UK Delegation, Chairman Council of Europe and WEU Assemblies
+    relations:
+    - person: denis-healey
+      type: colleague
+      note: Fellow Bilderberg Steering Committee members (Conservative/Labour)
   frederic-de-mevius:
     nationality: BEL
     affiliations:
@@ -6496,6 +7232,15 @@ persons:
       role: executive
       from: 2000
       note: CEO 2021-. Head Coal Industrial 2018-21, Head Ferroalloys 2013-18, CEO Prodeco Colombia 2008-13
+  gassan-kibsi:
+    nationality: SA
+    note: Director McKinsey Saudi Arabia. Former WorldSpace. Leads Public Sector and Energy Practice.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mckinsey
+      role: partner
   gaston-eyskens:
     born: 1905
     died: 1988
@@ -6621,6 +7366,40 @@ persons:
     - person: yuri-kovalchuk
       type: colleague
       note: Bank Rossiya shareholders, Putin inner circle
+  george-ball:
+    born: 1909
+    died: 1994
+    nationality: USA
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1954
+      to: 1994
+      note: Founding US member, Steering Committee
+    - org: cfr
+      role: member
+    - org: governo-usa
+      role: minister
+      from: 1961
+      to: 1966
+      note: Undersecretary of State
+    - org: lehman-brothers
+      role: executive
+      from: 1968
+      to: 1982
+      note: Senior Managing Director
+    - org: trilateral-commission
+      role: member
+    relations:
+    - person: henry-morgenthau
+      type: superior
+      note: Ball worked for Morgenthau at Farm Credit Admin and Treasury
+    - person: jean-monnet
+      type: mentor
+      note: Disciple and close friend, worked on European integration
+    - person: lyndon-johnson
+      type: superior
+      note: Ball served as Undersecretary of State under LBJ
   george-hw-bush:
     born: 1924
     died: 2018
@@ -6635,6 +7414,9 @@ persons:
       role: president
       from: 1989
       to: 1993
+    - org: skull-and-bones
+      role: member
+      from: 1948
   george-orwell:
     born: 1903
     died: 1950
@@ -6705,6 +7487,11 @@ persons:
       role: founder
       from: 1976
       note: Co-Founder, Co-Executive Chairman
+    - org: bear-stearns
+      role: partner
+      from: 1969
+      to: 1976
+      note: Partner, Corporate Finance
   george-soros:
     born: 1930
     nationality: USA
@@ -6741,6 +7528,9 @@ persons:
       role: president
       from: 2001
       to: 2009
+    - org: skull-and-bones
+      role: member
+      from: 1968
   georges-pompidou:
     born: 1911
     died: 1974
@@ -6751,6 +7541,16 @@ persons:
       from: 1969
       to: 1974
       note: Presidente
+  georgie-benardete:
+    nationality: US
+    note: Co-founder Orchard Mile, Shopbeam. Founded Yesilist.com Turkey. Investor Belle Capital USA. Al Gore Climate Project
+      speaker.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: orchard-mile
+      role: founder
   georgios-papandreou-sr:
     born: 1888
     died: 1968
@@ -6929,6 +7729,33 @@ persons:
       role: chairman
       from: 2022
       note: Chairman Mundys
+  gian-cittadini-cesi:
+    born: 1907
+    died: 1984
+    nationality: ITA
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee
+    - org: fiat
+      role: executive
+      from: 1972
+      to: 1984
+      note: Rappresentante FIAT Francia
+    - org: oecd
+      role: executive
+      from: 1956
+      to: 1972
+      note: Deputy Secretary General
+    - org: council-of-europe
+      role: executive
+      from: 1953
+      to: 1956
+      note: Primo Rappresentante Permanente Italia
+    relations:
+    - person: gianni-agnelli
+      type: colleague
+      note: Entrambi Bilderberg steering, poi rappresentante FIAT Francia
   gian-maria-gros-pietro:
     born: 1942
     nationality: ITA
@@ -7447,6 +8274,39 @@ persons:
       role: leader
       from: 2025
       note: Grand Duke
+  guillermo-romo:
+    nationality: MX
+    note: Sold Tequila Herradura to Brown-Forman for $876M. Founded Grupo Mega 2003. RFO private equity fund.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: grupo-mega
+      role: founder
+  guler-sabanci:
+    born: 1955
+    nationality: TUR
+    family: sabanci-family
+    note: Chairman Sabanci Holding 2004-2025, Trilateral Commission, ERT (prima donna), 3a generazione famiglia Sabanci
+    affiliations:
+    - org: wef
+      role: board
+      note: Executive Committee International Business Council
+    - org: trilateral-commission
+      role: member
+      note: Europe Group member
+    - org: ert
+      role: member
+      from: 2008
+      note: Prima donna membro ERT
+    - org: sabanci-holding
+      role: chairman
+      from: 2004
+      to: 2025
+      note: Chairman Board of Directors, 21 anni
+    - org: tusiad
+      role: member
+      note: Sabanci Holding representative
   gustave-boel:
     born: 1837
     died: 1912
@@ -7482,6 +8342,34 @@ persons:
       role: founder
       from: 2010
       note: Co-founder
+  h-john-heinz-ii:
+    born: 1908
+    died: 1987
+    nationality: USA
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1981
+      to: 1987
+      note: Advisory Committee
+    - org: hj-heinz-company
+      role: executive
+      from: 1941
+      to: 1987
+      note: President 1941-1966, Chairman 1966-1987
+    - org: skull-and-bones
+      role: member
+      from: 1931
+      note: Yale Class of 1931
+  haakon-of-norway:
+    nationality: 'NO'
+    note: Crown Prince of Norway. UNDP Goodwill Ambassador. Norwegian Naval Academy graduate.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: undp
+      role: ambassador
   hadia-tajik:
     born: 1983
     nationality: NOR
@@ -7512,6 +8400,15 @@ persons:
       from: 2006
       to: 2009
       note: Gestì bailout 2008
+  hanli-prinsloo:
+    nationality: ZA
+    note: Documentary filmmaker. Founder I AM WATER Foundation. 11-time South African freediving record holder.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: i-am-water-foundation
+      role: founder
   hans-dieter-poetsch:
     born: 1951
     nationality: DEU
@@ -7588,6 +8485,21 @@ persons:
       role: board
       from: 2022
       note: Minority owner ~10-13% via BlueCo
+  hanzade-dogan-boyner:
+    born: 1972
+    nationality: TUR
+    affiliations:
+    - org: wef
+      role: member
+      note: Digital Platforms Initiative Committee
+    - org: ecfr
+      role: member
+    - org: brookings
+      role: board
+      note: Board of Trustees
+    - org: tusiad
+      role: member
+      note: Dogan Holding representative
   harold-boel:
     born: 1964
     nationality: BEL
@@ -7709,6 +8621,15 @@ persons:
     - org: chatham-house
       role: board
       note: President
+  helen-hai:
+    nationality: CN
+    note: Former Zurich Financial Services. Set up Huajian shoe factory Ethiopia 2011. CEO Made in Africa Initiative.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: unido
+      role: ambassador
   helene-desmarais:
     nationality: CAN
   helge-lund:
@@ -7817,21 +8738,36 @@ persons:
       role: board
       from: 2021
       note: Senior Independent Director
+    - org: lvmh
+      role: board
+      from: 2024
+      note: Lead Independent Director
     - org: axa
       role: executive
       from: 2000
       to: 2016
       note: CEO
+    - org: hsbc
+      role: board
+      from: 2016
+      note: Independent Non-Executive Director
     - org: institut-montaigne
       role: chairman
       from: 2015
       note: Chairman Institut Montaigne
     - org: nestle
       role: board
+      from: 2012
+      to: 2024
       note: Vice Chairman
     - org: general-atlantic
       role: chairman
+      from: 2017
       note: Special Advisor and Chairman for Europe
+    - org: argus-media
+      role: board
+      from: 2018
+      note: Board member
   henrique-meirelles:
     born: 1945
     nationality: BRA
@@ -7960,9 +8896,65 @@ persons:
       role: founder
       from: 1976
       note: Co-Founder, Co-Executive Chairman
+    - org: rockefeller-university
+      role: board
+      from: 2004
+      to: 2019
+      note: Vice Chair Board of Trustees (2005-2019), now Trustee Emeritus
+    - org: moma
+      role: board
+      from: 1994
+      note: Trustee, major donor (Kravis Wing)
+    - org: bear-stearns
+      role: partner
+      from: 1969
+      to: 1976
+      note: Partner, Corporate Finance
+    - org: partnership-nyc
+      role: chairman
+      note: Former Co-Chairman (with Jerry Speyer), now Board member
+    - org: metropolitan-museum
+      role: board
+      note: Trustee, major donor (Kravis Wing)
+    - org: columbia-university
+      role: board
+      note: Columbia Business School Board, major donor
+    relations:
+    - person: george-roberts
+      type: cousin
+  henry-luce:
+    born: 1898
+    died: 1967
+    nationality: USA
+    affiliations:
+    - org: skull-and-bones
+      role: member
+      from: 1920
+  henry-morgenthau:
+    born: 1891
+    died: 1967
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 1934
+      to: 1945
+      note: Secretary of Treasury
+    relations:
+    - person: harry-dexter-white
+      type: superior
+      note: White was Morgenthau policy brain, Assistant to Secretary
   henry-paulson:
     born: 1946
     nationality: USA
+  henry-stimson:
+    born: 1867
+    died: 1950
+    nationality: USA
+    affiliations:
+    - org: skull-and-bones
+      role: member
+      from: 1888
   henry-sturgis-morgan:
     born: 1900
     died: 1982
@@ -8248,6 +9240,18 @@ persons:
       role: founder
       from: 1998
       note: Founder & President
+  ian-solomon:
+    nationality: US
+    note: VP Global Engagement University of Chicago. Former Associate Dean Yale Law. Former McKinsey. Legislative Counsel
+      to Senator Obama 2005-08.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mckinsey
+      role: consultant
+    - org: university-of-chicago
+      role: executive
   ian-taylor:
     born: 1956
     died: 2020
@@ -8274,10 +9278,14 @@ persons:
       note: CEO at launch
   ida-auken:
     born: 1978
-    nationality: DNK
+    nationality: DK
+    note: Former Minister for the Environment of Denmark 2011-14. Member Forum Europe and Albright Group Womens Network.
     affiliations:
     - org: wef
       role: ygl
+      note: WEF Annual Meeting 2016
+    - org: parlamento-danimarca
+      role: member
   idan-nurick:
     nationality: ISR
     note: Paragon CEO
@@ -8431,12 +9439,15 @@ persons:
       from: 2025
       note: Primo Ministro
   ilona-szabo-de-carvalho:
-    nationality: BRA
-    note: Co-fondatrice Igarapé Institute
+    nationality: BR
+    note: Founded Igarapé Institute. Coordinates Global Commission on Drug Policy. TED speaker 2014.
     affiliations:
     - org: wef
       role: ygl
       from: 2015
+      note: WEF Annual Meeting 2016
+    - org: igarape-institute
+      role: founder
   ilya-sutskever:
     nationality: ISR
     affiliations:
@@ -8641,6 +9652,16 @@ persons:
     - org: rusi
       role: board
       note: Trustee; former Foreign Secretary
+  jacob-hsu:
+    nationality: US
+    note: CEO Symbio. Former CEO Trilogica Technologies, Epitome Software. Former investment banker Fox-Pitt Kelton. Chief
+      Executive Magazine Top 12 Young Global Leaders 2008.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: symbio
+      role: executive
   jacob-rothschild:
     born: 1936
     died: 2024
@@ -8925,6 +9946,17 @@ persons:
     born: 1972
     nationality: USA
     family: murdoch
+  james-mwangi:
+    nationality: ZA
+    note: Managing Partner Dalberg Global Development Advisors. Former McKinsey. Archbishop Tutu Fellowship.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mckinsey
+      role: consultant
+    - org: dalberg
+      role: partner
   james-warburg:
     born: 1896
     died: 1969
@@ -8942,14 +9974,67 @@ persons:
   james-wolfensohn:
     born: 1933
     died: 2020
-    nationality: USA
+    nationality: AUS-USA
     affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1985
+      note: Steering Committee member, ~20 meetings
     - org: cfr
       role: member
     - org: banca-mondiale
       role: executive
       from: 1995
       to: 2005
+      note: President (9th), nominated by Clinton
+    - org: rockefeller-foundation
+      role: board
+      note: Director, Chairman Finance Committee
+    - org: carnegie-corporation
+      role: board
+      from: 2006
+      note: Trustee
+    - org: salomon-brothers
+      role: partner
+      from: 1976
+      to: 1981
+      note: Executive Partner, Head Investment Banking
+    - org: schroders
+      role: executive
+      from: 1967
+      to: 1976
+      note: Managing Director NY
+    - org: institute-advanced-study
+      role: chairman
+      from: 1986
+      to: 2007
+      note: Chair Board of Trustees (longest-serving)
+    - org: carnegie-hall
+      role: chairman
+      from: 1980
+      to: 1991
+      note: Chairman Emeritus
+    - org: kennedy-center
+      role: chairman
+      from: 1990
+      to: 1996
+      note: Chairman Emeritus
+    relations:
+    - person: bill-clinton
+      type: appointed-by
+      note: Nominated for WB presidency
+    - person: paul-volcker
+      type: colleague
+      note: Chrysler rescue 1979
+    - person: paul-wolfowitz
+      type: successor
+      note: Succeeded Wolfensohn at WB 2005
+    - person: robert-mcnamara
+      type: predecessor
+      note: WB president model
+    - person: vernon-jordan
+      type: sponsor
+      note: Jordan key sponsor for WB nomination
   jami-miscik:
     born: 1958
     nationality: USA
@@ -8999,6 +10084,15 @@ persons:
     affiliations:
     - org: collegio-europa
       role: professor
+  jane-burston:
+    nationality: GB
+    note: Former Founder/CEO Carbon Retirement. Head Climate/Environment NPL. Non-Executive Director Sandbag.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: npl
+      role: executive
   jane-fraser:
     born: 1967
     nationality: GBR
@@ -9021,6 +10115,29 @@ persons:
       role: board
       from: 2001
       note: ex-FDA Commissioner
+  jane-mcadam:
+    nationality: AU
+    note: Scientia Professor of Law UNSW. Non-Resident Senior Fellow Brookings Institution.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: brookings
+      role: fellow
+    - org: unsw
+      role: professor
+  jared-cohen:
+    nationality: US
+    note: Founder/Director Google Ideas. Former adviser Condoleezza Rice and Hillary Clinton. Council on Foreign Relations.
+      TIME 100 Most Influential 2013.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: cfr
+      role: fellow
+    - org: google
+      role: executive
   jared-kushner:
     born: 1981
     nationality: USA
@@ -9524,6 +10641,21 @@ persons:
       role: board
       from: 2015
       note: Vice Chair Supervisory Board
+  jerome-kohlberg:
+    born: 1925
+    died: 2015
+    nationality: USA
+    affiliations:
+    - org: kkr
+      role: founder
+      from: 1976
+      to: 1987
+      note: Co-Founder
+    - org: bear-stearns
+      role: executive
+      from: 1955
+      to: 1976
+      note: Head of Corporate Finance
   jerome-powell:
     born: 1953
     nationality: USA
@@ -9560,6 +10692,16 @@ persons:
       from: 2013
       to: 2015
       note: Managing Partner
+  jessica-long:
+    nationality: US
+    note: Managing Director Accenture Strategy & Sustainability. Leads sustainability strategy North America. Co-leading WEF
+      SDG private sector taskforce.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: accenture
+      role: executive
   jesus-encinar:
     nationality: ESP
     affiliations:
@@ -9615,6 +10757,15 @@ persons:
     born: 1948
     nationality: USA
     family: walton
+  jimmy-wales:
+    nationality: US
+    note: Founder Wikipedia/Wikimedia Foundation. Founder Wikia.com. TIME 100 Most Influential 2006.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: wikimedia
+      role: founder
   jin-liqun:
     born: 1949
     nationality: CHN
@@ -9947,6 +11098,23 @@ persons:
       role: executive
       from: 2000
       note: President & CEO
+  john-harthorne:
+    nationality: US
+    note: Founder/CEO MassChallenge (largest startup accelerator). Alumni raised $360M+. MIT $100K Business Plan Competition
+      Grand Prize 2007.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: masschallenge
+      role: founder
+  john-heinz:
+    born: 1938
+    died: 1991
+    nationality: USA
+    relations:
+    - person: h-john-heinz-ii
+      type: son
   john-howard:
     born: 1939
     nationality: AUS
@@ -9958,6 +11126,13 @@ persons:
       note: pm
     - org: jpmorgan-international-council
       role: member
+  john-kerry:
+    born: 1943
+    nationality: USA
+    affiliations:
+    - org: skull-and-bones
+      role: member
+      from: 1966
   john-lo:
     nationality: HKG
     affiliations:
@@ -10039,6 +11214,43 @@ persons:
       role: chairman
       from: 1953
       to: 1960
+  john-micklethwait:
+    born: 1962
+    nationality: GBR
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee member
+    - org: wef
+      role: member
+      note: Davos participant 2014, 2020
+    - org: chase-manhattan
+      role: member
+      from: 1985
+      to: 1987
+      note: Banking, London
+    - org: the-economist
+      role: executive
+      from: 1987
+      to: 2015
+      note: Editor-in-Chief 2006-2015, US Editor, Business Editor
+    - org: bloomberg
+      role: executive
+      from: 2015
+      note: Editor-in-Chief
+    relations:
+    - person: zanny-minton-beddoes
+      type: colleague
+      note: Predecessor/Successor as Editor-in-Chief The Economist
+  john-overdeck:
+    nationality: USA
+    affiliations:
+    - org: institute-for-advanced-study
+      role: chairman
+      note: Chair of the Board
+    - org: two-sigma
+      role: founder
+      note: Co-Founder and Co-Chair
   john-scarlett:
     born: 1948
     nationality: GBR
@@ -10113,6 +11325,15 @@ persons:
       role: leader
       from: 2021
       note: Prime Minister
+  jonathan-adiri:
+    nationality: IL
+    note: Co-founded Getaround (TechCrunch Disrupt winner 2011). First CTO to President Shimon Peres 2008.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: healthy-io
+      role: founder
   jonathan-evans:
     nationality: GBR
     affiliations:
@@ -10152,6 +11373,15 @@ persons:
       role: owner
       from: 2008
       note: Boston Basketball Partners LLC investor group
+  jonathan-nelson:
+    nationality: USA
+    affiliations:
+    - org: institute-for-advanced-study
+      role: board
+      note: Trustee
+    - org: providence-equity
+      role: founder
+      note: Founder and Chairman
   jonathan-oppenheimer:
     born: 1969
     nationality: ZAF
@@ -10321,6 +11551,10 @@ persons:
       role: chairman
       from: 2021
       note: Board Chair
+    relations:
+    - person: francisco-balsemao
+      type: successor
+      note: Bilderberg Steering Committee successor
   jose-feliciano-pe:
     born: 1972
     nationality: USA
@@ -10444,6 +11678,36 @@ persons:
       role: executive
       from: 2021
       note: Co-CEO
+  joseph-johnson:
+    born: 1906
+    died: 1990
+    nationality: USA
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1954
+      to: 1975
+      note: Honorary Secretary General (USA)
+    - org: governo-usa
+      role: advisor
+      from: 1942
+      to: 1947
+      note: Chief, International Security Affairs
+    - org: carnegie-endowment
+      role: executive
+      from: 1950
+      to: 1971
+      note: President
+    - org: iiss
+      role: executive
+      from: 1965
+      to: 1981
+      note: Vice President
+    - org: council-foreign-relations
+      role: board
+      from: 1950
+      to: 1974
+      note: Director
   joseph-kabila:
     born: 1971
     nationality: COD
@@ -10457,6 +11721,33 @@ persons:
     relations:
     - person: laurent-kabila
       type: son
+  joseph-luns:
+    born: 1911
+    died: 2002
+    nationality: NLD
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 1964
+      to: 1984
+    - org: nato
+      role: executive
+      from: 1971
+      to: 1984
+      note: Secretary General
+    - org: governo-olanda
+      role: minister
+      from: 1952
+      to: 1971
+      note: Minister of Foreign Affairs
+    - org: eec
+      role: founder
+      from: 1957
+      note: Signed Treaty of Rome
+    relations:
+    - person: prince-bernhard-netherlands
+      type: colleague
+      note: Bilderberg, Dutch elite
   joseph-oughourlian:
     born: 1971
     nationality: FRA
@@ -10544,6 +11835,48 @@ persons:
       from: 1975
       to: 2014
       note: King of Spain
+  juan-carlos-pinzon-bueno:
+    nationality: US
+    note: Ambassador of Colombia. Former Minister of National Defence Colombia. Former Vice-Minister of Defense. Former World
+      Bank Adviser.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+  juan-luis-cebrian:
+    born: 1944
+    nationality: ESP
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Unico membro ispanico con funzioni esecutive
+    - org: el-pais
+      role: founder
+      from: 1976
+      note: Direttore fondatore
+    - org: prisa
+      role: founder
+      from: 1972
+      note: Co-fondatore
+    - org: prisa
+      role: executive
+      from: 1988
+      to: 2012
+      note: CEO
+    - org: prisa
+      role: chairman
+      from: 2012
+      to: 2017
+      note: Executive Chairman
+    - org: real-academia-espanola
+      role: member
+      from: 1996
+      note: Accademico
+    - org: international-press-institute
+      role: chairman
+      from: 1986
+      to: 1988
+      note: President
   juan-villalonga:
     born: 1953
     nationality: ESP
@@ -10581,6 +11914,16 @@ persons:
     born: 1909
     died: 2004
     nationality: NLD
+  julie-smolyansky:
+    nationality: US
+    note: CEO Lifeway Foods (NASDAQ LWAY). Founder Test400k. UN Foundation Global Entrepreneurs Council. Fortune 40 under
+      40.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: lifeway-foods
+      role: executive
   jung-ku-hyun:
     nationality: KOR
     note: Ex President Samsung Economic Research Institute (SERI). Trilateral Commission member. Prof Emeritus Yonsei University
@@ -10693,6 +12036,16 @@ persons:
       role: executive
       from: 2016
       note: CEO
+  karen-fang:
+    nationality: US
+    note: Managing Director Bank of America. Former Goldman Sachs, Merrill Lynch Tokyo, Deutsche Bank London. 40 under 40
+      Investment Dealers Digest 2011.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: bank-of-america
+      role: executive
   karin-von-hippel:
     nationality: USA
     affiliations:
@@ -10798,6 +12151,18 @@ persons:
       role: executive
       from: 2019
       note: CEO/Chairman
+  katinka-barysch:
+    nationality: DE
+    note: Former Centre for European Reform London. Rockefeller Fellow Trilateral Commission. Strategic Adviser Munich Security
+      Conference.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: trilateral-commission
+      role: fellow
+    - org: allianz
+      role: executive
   katsuya-nakanishi:
     born: 1960
     nationality: JPN
@@ -10880,6 +12245,29 @@ persons:
     - org: wef
       role: ygl
       from: 2025
+  kemal-dervis:
+    born: 1949
+    died: 2023
+    nationality: TUR
+    affiliations:
+    - org: bilderberg
+      role: member
+      note: Attended 2002, 2004, 2006, 2007
+    - org: world-bank
+      role: executive
+      from: 1977
+      to: 2001
+      note: VP Poverty Reduction, VP MENA
+    - org: brookings
+      role: executive
+      from: 2009
+      to: 2017
+      note: VP Global Economy and Development
+    - org: undp
+      role: executive
+      from: 2005
+      to: 2009
+      note: Administrator
   ken-lin:
     nationality: THA
     affiliations:
@@ -10905,6 +12293,15 @@ persons:
     - org: wef
       role: ygl
       from: 2019
+  keyu-jin:
+    nationality: GB
+    note: Professor Economics LSE. Advisory Board Richemont Group. Adviser World Bank, IMF, NY Fed, Bank of England.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: lse
+      role: professor
   khaldoon-al-mubarak:
     born: 1975
     nationality: UAE
@@ -11771,6 +13168,20 @@ persons:
       role: founder
       from: 2011
       note: Co-founder, Chairman
+  leif-hoegh:
+    born: 1896
+    died: 1974
+    nationality: NOR
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1954
+      to: 1974
+      note: Founding member, Steering Committee, attended all meetings 1954-1974 except 1955
+    - org: leif-hoegh-co
+      role: founder
+      from: 1927
+      to: 1974
   leo-varadkar:
     born: 1979
     nationality: IRL
@@ -12039,6 +13450,27 @@ persons:
     born: 1978
     nationality: RUS
     note: Daughter of Arkady, doctor, TPS Nedvizhimost
+  lilli-gruber:
+    born: 1957
+    nationality: ITA
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee, partecipante regolare
+    - org: rai
+      role: executive
+      from: 1987
+      to: 2004
+      note: Anchor TG1, inviata di guerra
+    - org: parlamento-europeo
+      role: member
+      from: 2004
+      to: 2008
+      note: MEP Ulivo, Gruppo Socialista
+    - org: la7
+      role: executive
+      from: 2008
+      note: Conduttrice Otto e mezzo
   lim-boon-heng:
     born: 1947
     nationality: SGP
@@ -12443,6 +13875,15 @@ persons:
       role: executive
       from: 2018
       note: Vice President BCE
+  luis-felipe-carrillo:
+    nationality: PE
+    note: President & CEO GE Andean and Caribbean. Former GE various roles South America.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: ge
+      role: executive
   luis-videgaray:
     born: 1968
     nationality: MEX
@@ -12486,6 +13927,34 @@ persons:
       role: executive
       from: 2017
       note: CCO, CEO from Jan 2026
+  lutfey-siddiqi:
+    nationality: GB
+    note: Global Head Emerging Markets UBS Investment Bank. Former Barclays, Deutsche Bank. Adjunct Professor NUS.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: ubs
+      role: executive
+  lyndon-johnson:
+    born: 1908
+    died: 1973
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: leader
+      from: 1963
+      to: 1969
+      note: 36th President
+    - org: governo-usa
+      role: legislator
+      from: 1937
+      to: 1961
+      note: Representative 1937-49, Senator 1949-61, Majority Leader 1955-61
+    relations:
+    - person: robert-mcnamara
+      type: colleague
+      note: McNamara served as Secretary of Defense under LBJ
   lynn-forester-de-rothschild:
     born: 1954
     nationality: USA-GBR
@@ -13144,11 +14613,54 @@ persons:
       from: 2018
       note: Ex-PM, Board of Trustees
   marie-josee-kravis:
+    born: 1949
     nationality: CAN
     affiliations:
     - org: bilderberg
       role: steering
-      note: Co-Chair Bilderberg Meetings
+      from: 1989
+      note: Co-Chair dal 2019
+    - org: cfr
+      role: member
+    - org: hudson-institute
+      role: board
+      from: 1973
+      to: 2020
+      note: Senior Fellow, Vice Chair Board of Trustees (terminato)
+    - org: lvmh
+      role: board
+    - org: moma
+      role: chairman
+      from: 1994
+      note: President 2005-2018, Chair dal 2021
+    - org: publicis
+      role: board
+    - org: federal-reserve-new-york
+      role: advisor
+      note: International Advisory Committee
+    - org: memorial-sloan-kettering
+      role: chairman
+      note: Chair Sloan Kettering Institute, Vice Chair Board of Trustees
+    - org: institute-for-advanced-study
+      role: board
+    - org: economic-club-new-york
+      role: chairman
+      from: 2018
+      to: 2020
+      note: Chair
+    relations:
+    - person: henry-kravis
+      type: spouse
+  marieme-jamme:
+    nationality: GB
+    note: Founded SpotOne Global Solutions, Africa Gathering. Created JJiguene Tech Hub Senegal. Microsoft 4AfriKa Council.
+      Forbes 20 youngest power women in Africa 2012.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: spotone
+      role: founder
   marika-mitsotakis:
     born: 1930
     died: 2012
@@ -13194,6 +14706,10 @@ persons:
       from: 2009
       to: 2011
       note: Primo Chairman FSB
+    - org: institute-for-advanced-study
+      role: board
+      from: 1998
+      note: Trustee
     relations:
     - person: daniele-franco
       type: colleague
@@ -13315,6 +14831,15 @@ persons:
       role: board
       from: 2013
       note: Ex-FDA Commissioner
+  mark-pollock:
+    nationality: IE
+    note: Adventurer/athlete. Blind since 1998. South Pole expedition. Paralyzed 2010. Board Christopher & Dana Reeve Foundation.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mark-pollock-trust
+      role: founder
   mark-rutte:
     born: 1967
     nationality: NLD
@@ -13490,6 +15015,16 @@ persons:
     affiliations:
     - org: bouygues
       role: chairman
+  martin-bruncko:
+    nationality: GB
+    note: Former Slovakia Junior Minister for Innovations and Deputy Minister of Finance. Former Senior Director WEF. Founded
+      Neulogy.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: aeromobil
+      role: executive
   martin-hartono:
     nationality: IDN
     note: Djarum IT, Kaskus, tech investments
@@ -13528,6 +15063,15 @@ persons:
       role: chairman
       from: 2002
       to: 2007
+  mary-burke:
+    nationality: US
+    note: Global Business Director Thomson Reuters. 16 years at Thomson Reuters. Managed $340M Investment Banking business.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: thomson-reuters
+      role: executive
   mary-donaldson:
     born: 1972
     nationality: DNK
@@ -13774,6 +15318,60 @@ persons:
       from: 1943
       to: 1945
       note: Chief SI Italy
+  max-kohnstamm:
+    born: 1914
+    died: 2010
+    nationality: NLD
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee member
+    - org: governo-olanda
+      role: advisor
+      from: 1945
+      to: 1952
+      note: Private Secretary to Queen Wilhelmina, then Foreign Ministry (German Bureau, European Affairs)
+    - org: trilateral-commission
+      role: chairman
+      from: 1973
+      note: European Chairman (founding)
+    - org: ecsc
+      role: executive
+      from: 1952
+      to: 1956
+      note: Secretary General, High Authority
+    - org: club-of-rome
+      role: founder
+      from: 1968
+      note: Inner group (6 founders)
+    - org: european-university-institute
+      role: chairman
+      from: 1976
+      to: 1981
+      note: Founding President
+    - org: european-movement
+      role: member
+      note: Active supporter
+    - org: action-committee-united-states-europe
+      role: executive
+      from: 1956
+      to: 1975
+      note: Vice President & Secretary General
+    relations:
+    - person: jean-monnet
+      type: mentor
+      note: Right-hand man, closest collaborator
+  max-neukirchen:
+    nationality: US
+    note: Managing Director Head of Strategy JPMorgan. Former McKinsey Partner 2009-13.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: jpmorgan
+      role: executive
+    - org: mckinsey
+      role: partner
   max-van-der-stoel:
     born: 1924
     died: 2011
@@ -13795,6 +15393,14 @@ persons:
     - org: wef
       role: ygl
       from: 2025
+  mcgeorge-bundy:
+    born: 1919
+    died: 1996
+    nationality: USA
+    affiliations:
+    - org: skull-and-bones
+      role: member
+      from: 1940
   meg-oneill:
     nationality: USA
     affiliations:
@@ -13834,6 +15440,15 @@ persons:
     - org: wef
       role: ygl
       from: 2010
+  mette-marit-of-norway:
+    nationality: 'NO'
+    note: Crown Princess of Norway. UNAIDS Special Representative 2006. Patron Norwegian Red Cross.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: unaids
+      role: ambassador
   michael-bambang-hartono:
     born: 1939
     nationality: IDN
@@ -13863,6 +15478,10 @@ persons:
       role: member
       from: 2024
       note: Donor $50M (2024)
+    - org: bloomberg
+      role: founder
+      from: 1981
+      note: Founder, 88% owner, CEO 1981-2001, 2014-2023
   michael-diekmann:
     born: 1954
     nationality: DEU
@@ -13940,6 +15559,17 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  michal-krupinski:
+    nationality: PL
+    note: Former Deputy Minister of State Treasury Poland 2006-07. Alternate Executive Director World Bank 2008.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: bank-of-america
+      role: executive
+    - org: world-bank
+      role: executive
   michel-barnier:
     born: 1951
     nationality: FRA
@@ -14037,6 +15667,16 @@ persons:
       from: 2017
       to: 2024
       note: Presidente
+  michelle-dipp:
+    nationality: US
+    note: Former Wellcome Trust, GSK. Led Sirtris acquisition by GSK for $720M. Founding CEO OvaScience. Founder Longwood
+      Fund.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: ovascience
+      role: founder
   mike-lynch:
     born: 1965
     died: 2024
@@ -14514,6 +16154,23 @@ persons:
       from: 1992
       to: 2025
       note: CFO 2020-2023, CEO 2023-2025
+  mustafa-koc:
+    born: 1960
+    died: 2016
+    nationality: TUR
+    affiliations:
+    - org: bilderberg
+      role: steering
+      to: 2016
+      note: Bilderberg Steering Committee
+    - org: koc-holding
+      role: chairman
+      from: 2003
+      to: 2016
+    - org: tusiad
+      role: chairman
+      from: 2001
+      to: 2004
   mykhailo-fedorov:
     born: 1991
     nationality: UKR
@@ -14562,6 +16219,16 @@ persons:
     - org: rbi
       role: board
       from: 2016
+  nabeel-amudi:
+    nationality: SA
+    note: Former President Saudi Refining. President Aramco Services Company. Harvard Law School Association of Arabia Exec
+      Committee.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: saudi-aramco
+      role: executive
   nadia-ahmad-samdin:
     nationality: SGP
     note: Membro Parlamento Singapore
@@ -14665,6 +16332,15 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader, Minister Education
+  nancy-peretsman:
+    nationality: USA
+    affiliations:
+    - org: allen-company
+      role: partner
+      note: Managing Director
+    - org: institute-for-advanced-study
+      role: board
+      note: Vice Chair of the Board
   nandan-nilekani:
     born: 1955
     nationality: IND
@@ -14709,8 +16385,6 @@ persons:
       from: 1981
       note: CEO 1981-2002, Chairman 2002-2006, Chairman Emeritus 2011-2013, Executive Chairman 2013-2014
     - org: un-foundation
-      role: board
-    - org: institute-advanced-study
       role: board
     - org: iim-ahmedabad
       role: chairman
@@ -14912,6 +16586,15 @@ persons:
       role: vice-president
       from: 1974
       to: 1977
+  niall-dunne:
+    nationality: GB
+    note: Chief Sustainability Officer BT Group. Vice-chair WEF GAC Sustainable Consumption. Non-Executive Director Collectively.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: bt-group
+      role: executive
   niall-fitzgerald:
     nationality: IRL
     affiliations:
@@ -15272,6 +16955,17 @@ persons:
     - org: reliance-foundation
       role: founder
       from: 2010
+  nneka-mobisson-etuk:
+    nationality: ZA
+    note: Executive Director IHI. Former McKinsey consultant. Former World Bank. Co-founded Anadach Group.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mckinsey
+      role: consultant
+    - org: ihi
+      role: executive
   nobusuke-kishi:
     born: 1896
     died: 1987
@@ -15347,6 +17041,16 @@ persons:
       role: founder
       from: 2000
       note: Founder and CEO
+  noura-kaabi:
+    nationality: AE
+    note: CEO Media Zone Authority Abu Dhabi/twofour54. Member UAE Federal National Council. Forbes 30 Most Influential Women
+      in Government 2013.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: twofour54
+      role: executive
   nout-wellink:
     nationality: NLD
     affiliations:
@@ -15360,6 +17064,35 @@ persons:
       from: 1997
       to: 2011
       note: President (dal 1982 Executive Director)
+  nuri-birgi:
+    born: 1907
+    died: 1986
+    nationality: TUR
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1958
+      to: 1972
+      note: Primo turco al Bilderberg, fondatore, 23 partecipazioni
+    - org: nato
+      role: ambassador
+      from: 1960
+      to: 1972
+      note: Permanent Representative
+    - org: governo-uk
+      role: ambassador
+      from: 1957
+      to: 1960
+      note: Ambassador to UK
+    - org: governo-turchia
+      role: executive
+      from: 1954
+      to: 1957
+      note: Secretary General (Undersecretary) Ministry of Foreign Affairs
+    relations:
+    - person: selahattin-beyazit
+      type: mentor
+      note: Lascio eredita e ruolo Bilderberg a Beyazit
   oei-wie-gwan:
     born: 1923
     died: 1963
@@ -15499,6 +17232,33 @@ persons:
     - org: wef
       role: ygl
       from: 2022
+  omer-koc:
+    born: 1962
+    nationality: TUR
+    family: koc-family
+    note: Chairman Koc Holding 2016-, Bilderberg Steering Committee, 3a generazione famiglia Koc
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 2016
+      note: 'Steering Committee, Turkey Representative. Partecipazioni: 2017, 2018, 2019, 2023, 2024'
+    - org: koc-holding
+      role: chairman
+      from: 2016
+    - org: tusiad
+      role: member
+      note: Koc Holding representative
+    - org: tupras
+      role: chairman
+      from: 2008
+      note: Chairman Board of Directors
+    relations:
+    - person: mustafa-koc
+      type: sibling
+      note: Fratello maggiore, predecessore come Chairman Koc Holding
+    - person: rahmi-koc
+      type: parent
+      note: Padre
   omer-tetik:
     born: 1973
     nationality: TUR-DEU
@@ -15546,6 +17306,59 @@ persons:
     - person: yasser-arafat
       type: mentor
       note: Addestramento commando in Egitto
+  otto-wolff-von-amerongen:
+    born: 1918
+    died: 2007
+    nationality: DEU
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1955
+      to: 2001
+      note: Advisory Committee; attended 46 meetings
+    - org: trilaterale
+      role: founder
+      from: 1973
+      to: 2007
+      note: Founding member; executive 1981-1998
+    - org: allianz
+      role: advisor
+      note: Advisory board
+    - org: deutsche-bank
+      role: chairman
+      from: 1976
+      to: 1988
+      note: Chairman Advisory Board
+    - org: otto-wolff-ag
+      role: chairman
+      from: 1966
+      to: 1990
+      note: Chairman board management 1966-1986; Chairman supervisory board 1986-1990
+    - org: exxon
+      role: board
+      from: 1971
+      note: First German on Exxon board
+    - org: diht
+      role: chairman
+      from: 1969
+      to: 1988
+      note: President
+    - org: ostausschuss
+      role: chairman
+      from: 1956
+      to: 2000
+      note: Chairman German East-West Trade Committee
+  ove-dines-hoegh:
+    born: 1936
+    nationality: NOR
+    affiliations:
+    - org: leif-hoegh-co
+      role: board
+      from: 1966
+      note: Chairman until 1982
+    relations:
+    - person: leif-hoegh
+      type: son
   ozlem-tureci:
     born: 1967
     nationality: DEU
@@ -15803,6 +17616,15 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  park-yu-hyun:
+    nationality: SG
+    note: Co-founded infollutionZERO. Developed iZ HERO cyber wellness programme. UNESCO prizes 2012/2013.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: iz-hero-lab
+      role: founder
   parmanand-hinduja:
     born: 1901
     died: 1971
@@ -15824,6 +17646,17 @@ persons:
       role: executive
       from: 2012
       note: CEO since 2012
+  patricia-cobian:
+    nationality: GB
+    note: Former Hewlett-Packard, McKinsey. Managing Director Telefónica UK. Board Telefónica Deutschland.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mckinsey
+      role: consultant
+    - org: telefonica
+      role: executive
   patrick-cao:
     nationality: IDN
     note: GoTo Group President
@@ -16024,6 +17857,10 @@ persons:
       from: 2018
       to: 2024
       note: Commander
+  paul-volcker:
+    born: 1927
+    died: 2019
+    nationality: USA
   paul-warburg:
     born: 1868
     died: 1932
@@ -16934,6 +18771,9 @@ persons:
     affiliations:
     - org: brown-brothers-harriman
       role: partner
+    - org: skull-and-bones
+      role: member
+      from: 1917
   prince-bernhard-netherlands:
     born: 1911
     died: 2004
@@ -16950,6 +18790,10 @@ persons:
       from: 1961
       to: 1976
       note: First President
+  prince-claus:
+    born: 1926
+    died: 2002
+    nationality: DEU-NLD
   priti-adani:
     born: 1965
     nationality: IND
@@ -16973,10 +18817,28 @@ persons:
     affiliations:
     - org: bilderberg
       role: member
-      note: Participant as Queen
+      from: 1962
+      to: 2015
+      note: 50+ anni, figlia del fondatore
+    - org: governo-olanda
+      role: leader
+      from: 1980
+      to: 2013
+      note: Queen of the Netherlands
     - org: leiden-university
       role: member
       note: Law degree
+    - org: club-of-rome
+      role: honorary-member
+    relations:
+    - person: bernhard-lippe-biesterfeld
+      type: child-of
+    - person: prince-claus
+      type: spouse
+    - person: queen-juliana
+      type: child-of
+    - person: willem-alexander
+      type: parent-of
   queen-juliana:
     born: 1909
     died: 2004
@@ -17005,6 +18867,15 @@ persons:
     affiliations:
     - org: wef
       role: board
+  rachael-chong:
+    nationality: US
+    note: Former UBS Investment Bank, BRAC USA. Founder/CEO Catchafire. Fast Company 100 Most Creative People in Business.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: catchafire
+      role: founder
   rachel-ellehuus:
     nationality: USA
     affiliations:
@@ -17138,6 +19009,11 @@ persons:
       from: 2011
       to: 2011
       note: President
+  rahmi-koc:
+    born: 1930
+    nationality: TUR
+    family: koc-family
+    note: Chairman Koc Holding 1984-2003, Honorary Chairman
   rahul-joshi:
     nationality: IND
     note: Network18 MD/CEO 2018-. Ex-Economic Times editor. Group Editor-in-Chief
@@ -17254,6 +19130,17 @@ persons:
     - org: wef
       role: ygl
       from: 2014
+  rania-mashat:
+    nationality: EG
+    note: Former Senior Economist IMF. Helped design Egypt Economic Program after 2011 revolution.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: imf
+      role: economist
+    - org: central-bank-of-egypt
+      role: executive
   raoul-wallenberg:
     born: 1912
     died: 1947
@@ -17287,6 +19174,15 @@ persons:
     - org: wef
       role: ygl
       from: 2017
+  raphael-schoentgen:
+    nationality: FR
+    note: Former President GDF SUEZ China 2009-14. Member France-China Foundation YGL.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: engie
+      role: executive
   ratan-tata:
     born: 1937
     died: 2024
@@ -17372,6 +19268,10 @@ persons:
     - org: governo-turchia
       role: president
       from: 2014
+    - org: turkiye-wealth-fund
+      role: chairman
+      from: 2018
+      note: Chairman of Board of Directors
   reid-hoffman:
     nationality: USA
     affiliations:
@@ -17509,6 +19409,59 @@ persons:
       role: member
       from: 2007
       to: 2019
+  renato-ruggiero:
+    born: 1930
+    died: 2013
+    nationality: ITA
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee
+    - org: governo-italia
+      role: minister
+      from: 1987
+      to: 1991
+      note: Min. Commercio Estero
+    - org: governo-italia
+      role: minister
+      from: 2001
+      to: 2002
+      note: Min. Esteri (Berlusconi II)
+    - org: citigroup
+      role: chairman
+      from: 2003
+      to: 2013
+      note: Chairman Switzerland
+    - org: fiat
+      role: board
+      from: 1991
+      to: 1995
+      note: Board, responsabile relazioni internazionali
+    - org: eni
+      role: chairman
+      from: 1999
+      to: 1999
+      note: Chairman (breve)
+    - org: kissinger-associates
+      role: board
+      note: Board member
+    - org: wto
+      role: executive
+      from: 1995
+      to: 1999
+      note: Primo Director-General
+    - org: commissione-europea
+      role: executive
+      from: 1970
+      to: 1978
+      note: Chef de Cabinet Malfatti, DG Regional Policy
+    - org: unicredit
+      role: advisor
+      note: President International Advisory Committee
+    relations:
+    - person: gianni-agnelli
+      type: patron
+      note: Agnelli lo promosse a Min. Esteri Berlusconi II
   rene-boel:
     born: 1899
     died: 1990
@@ -17798,6 +19751,18 @@ persons:
     - org: rothschild-co
       role: partner
       note: Managing Partner, Co-Chairman Group Partners, Global Advisory
+  robert-lovett:
+    born: 1895
+    died: 1986
+    nationality: USA
+    affiliations:
+    - org: skull-and-bones
+      role: member
+      from: 1918
+  robert-marjolin:
+    born: 1911
+    died: 1986
+    nationality: FRA
   robert-mcnamara:
     born: 1916
     died: 2009
@@ -17951,6 +19916,15 @@ persons:
       from: 2007
       to: 2022
       note: Director & CEO
+  robyn-scott:
+    nationality: GB
+    note: Co-founded Brothers for All, OneLeap. Co-founder/CEO Apolitical. Ambassador Access to Medicine Index.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: apolitical
+      role: founder
   rodolfo-de-benedetti:
     born: 1961
     nationality: ITA
@@ -17966,6 +19940,21 @@ persons:
     affiliations:
     - org: cma-cgm
       role: chairman
+  rodrigo-teijeiro:
+    nationality: AR
+    note: Founder Fnbox, Sonico.com (sold to Match/IAC 2014). MIT Technology Review Top Innovator Under 35.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: recargapay
+      role: founder
+  roger-ferguson:
+    nationality: USA
+    affiliations:
+    - org: institute-for-advanced-study
+      role: board
+      note: Trustee Emeritus
   roger-jenkins:
     nationality: GBR
     affiliations:
@@ -18159,6 +20148,44 @@ persons:
   rubin-steinmetz:
     nationality: ISR
     note: Pioniere industria diamanti israeliana
+  rudolf-scholten:
+    born: 1955
+    nationality: AUT
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee member
+    - org: morgan-stanley
+      role: member
+      from: 1976
+      to: 1984
+      note: International financing
+    - org: governo-austria
+      role: minister
+      from: 1990
+      to: 1997
+      note: Federal Minister Education/Arts, Science/Research/Arts, Science/Transport/Arts
+    - org: club-of-rome
+      role: board
+      note: Board member
+    - org: oesterreichische-kontrollbank
+      role: executive
+      from: 1997
+      to: 2016
+      note: Board member 1997-2013, CEO 2014-2016
+    - org: bruno-kreisky-forum
+      role: chairman
+      from: 2004
+      note: President
+    - org: hypo-alpe-adria
+      role: board
+      from: 2010
+      to: 2014
+      note: Deputy Chairman Supervisory Board
+    relations:
+    - person: franz-vranitzky
+      type: mentor
+      note: Economic policy secretary, then advisor in Chancellery
   rula-jebreal:
     born: 1973
     nationality: ITA
@@ -18205,11 +20232,15 @@ persons:
       note: External Affairs Minister, ex-Foreign Secretary e ambasciatore
   safak-pavey:
     born: 1976
-    nationality: TUR
-    note: Ex deputata Parlamento turco
+    nationality: TR
+    note: MP Turkey since 2011. Former Head of Secretariat UN High Commissioner Human Rights. NATO Parliamentary Assembly.
+      2012 International Woman of Courage Award.
     affiliations:
     - org: wef
       role: ygl
+      note: WEF Annual Meeting 2016
+    - org: parlamento-turchia
+      role: member
   safra-catz:
     born: 1961
     nationality: USA
@@ -18266,6 +20297,16 @@ persons:
     - org: stargate-project
       role: partner
       from: 2025
+  sam-gregory:
+    nationality: US
+    note: Programme Director WITNESS. Co-founder Video4Change. Launched Human Rights Channel YouTube. Rockefeller Bellagio
+      Resident 2010.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: witness
+      role: executive
   sam-nunn:
     born: 1938
     nationality: USA
@@ -18369,6 +20410,18 @@ persons:
     - org: tony-blair-institute
       role: advisor
       from: 2023
+  sara-menker:
+    nationality: US
+    note: Founder/CEO Gro Intelligence. Former VP Morgan Stanley Commodities. Trustee Mandela Institute. African Leadership
+      Initiative Fellow Aspen.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: morgan-stanley
+      role: vp
+    - org: gro-intelligence
+      role: founder
   sara-saeed-khurram:
     nationality: PAK
     note: CEO Sehat Kahani
@@ -18376,6 +20429,15 @@ persons:
     - org: wef
       role: ygl
       from: 2022
+  sara-sutton-fell:
+    nationality: US
+    note: Founder/CEO FlexJobs. Co-founded JobDirect 1995 (sold to Korn/Ferry 2000). Launched Remote.co 2015.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: flexjobs
+      role: founder
   sarah-williamson:
     nationality: USA
     affiliations:
@@ -18495,6 +20557,28 @@ persons:
       from: 2014
       to: 2017
       note: Min. Ecologia, Energia
+  selahattin-beyazit:
+    born: 1931
+    died: 2022
+    nationality: TUR
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1972
+      to: 1992
+      note: Turkey Representative, attended 23 meetings, organized 1975 Cesme meeting
+    - org: pirelli
+      role: chairman
+      from: 2004
+      note: Chairman Turk Pirelli
+    - org: shell
+      role: executive
+      note: Turkey representative
+    - org: galatasaray
+      role: chairman
+      from: 1969
+      to: 1979
+      note: President 1969-1973, 1975-1979. Won 9 trophies including 3 League Championships
   serge-dassault:
     born: 1925
     died: 2018
@@ -18721,6 +20805,16 @@ persons:
       role: chairman
       from: 2009
       note: Member 2009, Vice Chairman 2022-2023, Chairman 2024-2025
+  shaffi-mather:
+    nationality: AE
+    note: Founded emergency ambulance service India (Dial 1298). Founded MUrgency. TED Fellow. BMW Foundation World Responsible
+      Leader.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: murgency
+      role: founder
   shalev-hulio:
     nationality: ISR
     note: NSO Group co-founder, Unit 8200 veteran
@@ -18862,6 +20956,12 @@ persons:
       from: 2012
       to: 2020
       note: Prime Minister (2nd term) - longest serving
+  shirley-tilghman:
+    nationality: CAN-USA
+    affiliations:
+    - org: institute-for-advanced-study
+      role: board
+      note: Trustee
   shmuel-schnitzer:
     nationality: ISR
     affiliations:
@@ -19051,6 +21151,17 @@ persons:
       from: 1948
       to: 1973
       note: Founder, President & CEO
+  soichiro-minami:
+    nationality: JP
+    note: Former Morgan Stanley investment banker. Founding member Rakuten Eagles baseball team. Founded BizReach, LUXA, RegionUP.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: morgan-stanley
+      role: banker
+    - org: bizreach
+      role: founder
   somchai-wongsawat:
     born: 1947
     nationality: THA
@@ -19063,6 +21174,15 @@ persons:
     relations:
     - person: thaksin-shinawatra
       type: brother-in-law
+  sonia-medina:
+    nationality: GB
+    note: Director Climate Change CIFF. Former UNEP, EcoSecurities (acquired by JPMorgan 2010).
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: ciff
+      role: executive
   soopakij-chearavanont:
     nationality: THA
     family: chearavanont
@@ -19084,6 +21204,16 @@ persons:
     - org: wef
       role: ygl
       from: 2021
+  soraya-darabi:
+    nationality: US
+    note: Former NYT Digital. Product Lead drop.io (acquired by Facebook). Co-founded Foodspotting (acquired by OpenTable).
+      Co-founder Zady. Fast Company Most Creative.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: zady
+      role: founder
   spyros-capralos:
     nationality: GRC
     affiliations:
@@ -19346,6 +21476,15 @@ persons:
     - org: american-jewish-congress
       role: founder
       from: 1918
+  steve-arora:
+    nationality: JP
+    note: President Swiss Re Japan. YGL class 2015. Various roles in reinsurance, lending, private equity.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: swiss-re
+      role: executive
   steve-ballmer:
     born: 1956
     nationality: USA
@@ -19472,6 +21611,13 @@ persons:
     - org: wef
       role: ygl
       from: 2022
+  suna-kirac:
+    nationality: TUR
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1992
+      note: Succeduta a Selahattin Beyazit come Turkey Representative
   sunil-mittal:
     born: 1957
     nationality: IND
@@ -19822,6 +21968,44 @@ persons:
       role: leader
       from: 2023
       note: President
+  theo-sommer:
+    born: 1930
+    died: 2022
+    nationality: DEU
+    affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1975
+      to: 1989
+    - org: governo-germania
+      role: advisor
+      from: 1969
+      to: 1970
+      note: Chief of Planning Staff, Ministry of Defense
+    - org: trilateral-commission
+      role: member
+      from: 1974
+      to: 1993
+    - org: bertelsmann-stiftung
+      role: board
+      from: 1990
+      to: 1996
+      note: Advisory board
+    - org: dgap
+      role: member
+    - org: iiss
+      role: board
+      from: 1963
+      to: 1987
+      note: Council member 1963-76, 1978-87
+    - org: die-zeit
+      role: executive
+      from: 1958
+      to: 2022
+      note: Editor-in-Chief 1973-92, Publisher 1992-2000, Editor-at-Large 2000-14
+    - org: german-marshall-fund
+      role: advisor
+      note: German advisory committee
   theodor-herzl:
     born: 1860
     died: 1904
@@ -19873,9 +22057,31 @@ persons:
     born: 1943
     nationality: FRA
     affiliations:
+    - org: bilderberg
+      role: steering
+      from: 1976
+      to: 2011
+      note: Steering Committee member
+    - org: governo-francia
+      role: advisor
+      from: 1973
+      to: 1979
+      note: Director, Centre d Analyse et de Prevision (Min. Affari Esteri)
+    - org: trilateral-commission
+      role: member
+      from: 1976
+      to: 2002
     - org: french-american-foundation
       role: founder
       from: 1976
+    - org: ifri
+      role: founder
+      from: 1979
+      note: Founder and Executive Chairman
+    - org: world-policy-conference
+      role: founder
+      from: 2008
+      note: Founder and Chairman
   thomas-bach:
     born: 1953
     nationality: DEU
@@ -20065,6 +22271,15 @@ persons:
       from: 1987
       to: 1989
       note: Foreign Minister 1987-89, 1990-93; Defence Minister 1979-81
+  tian-ning:
+    nationality: CN
+    note: Founded Panshi 1999, largest Chinese web alliance. Secretary-General Hangzhou International Chamber of Commerce.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: panshi
+      role: founder
   tiang-chirathivat:
     born: 1905
     died: 1968
@@ -20088,6 +22303,16 @@ persons:
     - org: apple
       role: executive
       from: 2011
+  tim-levene:
+    nationality: GB
+    note: Former Bain & Company. Founded Fresh n Smooth/Crussh. Launched Flutter.com (merged with Betfair). Founded Augmentum
+      Capital. Adviser Royal Foundation.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: augmentum-capital
+      role: founder
   timothy-geithner:
     born: 1961
     nationality: USA
@@ -20176,6 +22401,18 @@ persons:
     - org: ge-aerospace
       role: board
       note: Board member
+  tom-hulme:
+    nationality: US
+    note: General Partner Google Ventures. Design Director IDEO. Founded OpenIDEO (51K+ users, Webby Award 2011). Angel investor
+      Wonga, Massive Health.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: google-ventures
+      role: partner
+    - org: ideo
+      role: director
   tom-theobald:
     nationality: LUX
     affiliations:
@@ -20183,6 +22420,77 @@ persons:
       role: executive
       from: 2024
       note: CEO (Sep 2024-)
+  tommaso-padoa-schioppa:
+    born: 1940
+    died: 2010
+    nationality: ITA
+    affiliations:
+    - org: bilderberg
+      role: steering
+      note: Steering Committee
+    - org: bce
+      role: board
+      from: 1998
+      to: 2005
+      note: Executive Board member
+    - org: bis
+      role: chairman
+      from: 1993
+      to: 1997
+      note: Chairman Basel Committee on Banking Supervision
+    - org: fmi
+      role: chairman
+      from: 2007
+      to: 2008
+      note: Chairman IMFC
+    - org: governo-italia
+      role: minister
+      from: 2006
+      to: 2008
+      note: Min. Economia e Finanze (Prodi II)
+    - org: banca-italia
+      role: executive
+      from: 1968
+      to: 1997
+      note: Deputy Director General 1984-1997
+    - org: group-of-thirty
+      role: member
+      from: 1979
+      to: 2010
+      note: Member
+    - org: commissione-europea
+      role: executive
+      from: 1979
+      to: 1983
+      note: DG Economic and Financial Affairs
+    - org: consob
+      role: chairman
+      from: 1997
+      to: 1998
+      note: Chairman
+    - org: notre-europe
+      role: chairman
+      from: 2005
+      to: 2010
+      note: Chairman
+    - org: fiat-industrial
+      role: board
+      from: 2010
+      to: 2010
+      note: Board member (nominato, morto prima insediamento)
+    relations:
+    - person: mario-draghi
+      type: mentor
+      note: Colleghi Banca Italia, Draghi lo definisce "amico e maestro"
+  tong-zhilei:
+    nationality: CN
+    note: Founded Fanso 1999. Founded ChineseAll 2000. VP China Copyright Association.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: chineseall
+      role: founder
   tony-blair:
     born: 1953
     nationality: GBR
@@ -20420,6 +22728,39 @@ persons:
       role: board
       from: 2025
       note: President
+  valerie-casey:
+    nationality: US
+    note: Chief Product Officer Samsung Global Innovation Center. Former IDEO, frog, Pentagram. Founded Designers Accord.
+      Henry Crown Fellow Aspen Institute. TIME Hero of Environment.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: aspen-institute
+      role: fellow
+    - org: samsung
+      role: executive
+  valerie-feldmann:
+    nationality: US
+    note: VP Product Innovation Ogin Inc. Former McKinsey Associate Partner High Tech. Former UN ITU Policy Adviser.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: mckinsey
+      role: consultant
+    - org: ogin
+      role: executive
+  valerie-keller:
+    nationality: US
+    note: Executive Director EY Strategic Transformation. Founder Veritas. JP Morgan Chase 20 Under 40. Harvard Kennedy School
+      Women Leadership Board.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: ey
+      role: executive
   valerio-battista:
     born: 1957
     nationality: ITA
@@ -20520,9 +22861,65 @@ persons:
       role: steering
     - org: cfr
       role: board
+    - org: american-express
+      role: board
+      note: Board of Directors
     - org: lazard
       role: advisor
       from: 2000
+    - org: trilateral-commission
+      role: member
+    - org: dow-jones
+      role: board
+      note: Board of Directors
+    - org: national-urban-league
+      role: executive
+      from: 1971
+      to: 1981
+      note: President & CEO
+    - org: naacp
+      role: executive
+      from: 1962
+      to: 1964
+      note: Georgia Field Director
+    - org: akin-gump
+      role: partner
+      from: 1982
+      to: 2000
+    - org: xerox
+      role: board
+      note: Board of Directors, later Senior Advisor
+    - org: revlon
+      role: board
+      note: Board of Directors
+    - org: rjr-nabisco
+      role: board
+      note: Board during 1989 LBO fight
+    - org: sara-lee
+      role: board
+      note: Board of Directors
+    - org: corning
+      role: board
+      note: Board of Directors
+    - org: jc-penney
+      role: board
+      note: Board of Directors
+    - org: asbury-automotive
+      role: board
+      note: Board of Directors
+    - org: barrick-gold
+      role: advisor
+      note: International Advisory Board
+    - org: howard-university
+      role: board
+      note: Trustee
+    - org: depauw-university
+      role: advisor
+      note: Advisory Trustee
+    relations:
+    - person: bill-clinton
+      type: advisor
+      note: Clinton transition team chairman 1992, longtime advisor
   veronique-morali:
     nationality: FRA
     affiliations:
@@ -20762,6 +23159,18 @@ persons:
       role: chairman
       from: 2025
       note: Presidente post-OPS MPS
+  vivek-kundra:
+    nationality: US
+    note: First United States CIO under Obama. Managed $80B tech investments. Executive VP Salesforce. Council on Foreign
+      Relations. Berkman Center Fellow Harvard.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: cfr
+      role: member
+    - org: salesforce
+      role: executive
   vladimir-gusinsky:
     born: 1952
     nationality: RUS-ISR
@@ -20954,6 +23363,17 @@ persons:
     - org: governo-ucraina
       role: leader
       from: 2019
+  vuk-jeremic:
+    nationality: RS
+    note: President UN General Assembly 67th session 2012. Serbia Foreign Minister 2007-12. President CIRSD.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: cirsd
+      role: president
+    - org: un
+      role: president
   wael-sawan:
     born: 1974
     nationality: LBN
@@ -21033,6 +23453,15 @@ persons:
       role: founder
       from: 1940
       to: 2001
+  wan-tailei:
+    nationality: CN
+    note: Former Chinese Foreign Ministry. Former investment banker Citics (largest in China). Focus on financial market reform.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: nafmii
+      role: executive
   wang-chuanfu:
     born: 1966
     nationality: CHN
@@ -21139,6 +23568,17 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader
+  westye-hoegh:
+    born: 1942
+    nationality: NOR
+    affiliations:
+    - org: leif-hoegh-co
+      role: chairman
+      from: 1984
+      to: 2003
+    relations:
+    - person: leif-hoegh
+      type: son
   willem-alexander:
     born: 1967
     nationality: NLD
@@ -21272,6 +23712,26 @@ persons:
       role: chairman
       from: 2024
       note: Chair International Advisory Board
+  william-russell:
+    born: 1809
+    died: 1885
+    nationality: USA
+    affiliations:
+    - org: skull-and-bones
+      role: founder
+      from: 1832
+  william-saito:
+    nationality: JP
+    note: Authority on encryption/biometrics. Sold company to Microsoft. CTO Fukushima Nuclear Investigation Commission. Ernst
+      & Young Entrepreneur of the Year 1998.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: microsoft
+      role: former
+    - org: governo-giappone
+      role: advisor
   william-soeryadjaya:
     born: 1922
     died: 2010
@@ -21282,6 +23742,14 @@ persons:
       from: 1957
       to: 1992
       note: Lost control due to Bank Summa crisis
+  william-taft:
+    born: 1857
+    died: 1930
+    nationality: USA
+    affiliations:
+    - org: skull-and-bones
+      role: member
+      from: 1878
   william-tanuwijaya:
     born: 1981
     nationality: IDN
@@ -21937,6 +24405,19 @@ persons:
     - org: baic
       role: executive
       note: General Manager (CEO)
+  zhang-xuezheng:
+    born: 1970
+    nationality: CHN
+    affiliations:
+    - org: nexperia
+      role: executive
+      from: 2020
+      to: 2025
+      note: CEO, suspended by Dutch court Oct 2025
+    - org: wingtech
+      role: founder
+      from: 2006
+      note: Chairman
   zhang-yi-ccb:
     nationality: CHN
     affiliations:
@@ -22007,3 +24488,12 @@ persons:
       role: executive
       from: 2025
       note: President
+  zubaida-bai:
+    nationality: IN
+    note: Maternal Health Fellow Ashoka. TED and Echoing Green Fellow.
+    affiliations:
+    - org: wef
+      role: ygl
+      note: WEF Annual Meeting 2016
+    - org: ayzh
+      role: founder

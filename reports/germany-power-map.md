@@ -788,6 +788,8 @@ Axel Springer 48.5%
 
 > **Pattern**: Schröder rappresenta il caso piu' estremo di revolving door energetico. Da Cancelliere firma accordi con la Russia, 17 giorni dopo diventa chairman delle stesse aziende. La sua vicenda ha generato il dibattito sulle "cooling-off periods" in Germania.
 
+**Precursore storico**: [Otto Wolff von Amerongen](../docs/persons/otto-wolff-von-amerongen.md) (1918-2007) fu l'architetto del commercio Est-Ovest tedesco. Chairman dell'Ostausschuss per 44 anni (1956-2000), sostenitore dell'Ostpolitik di Brandt, ruolo chiave nel gasdotto sovietico 1982. La sua rete (Bilderberg, Trilaterale, Deutsche Bank, Exxon) prefigura il pattern Schröder.
+
 ### Altri Casi
 
 | Persona | Da | A | Tempo |
@@ -930,6 +932,7 @@ Ma anche rallenta trasformazione digitale/green.
 | [philipp-rosler](../docs/persons/philipp-rosler.md) | Ex-Vice Cancelliere FDP | **WEF Managing Board 2014-17**, revolving door emblematico |
 | [carsten-spohr](../docs/persons/carsten-spohr.md) | CEO Lufthansa | Munich Re Board, IATA Chairman |
 | karl-ludwig-kley | Chairman Lufthansa Supervisory Board | Ex-CFO Lufthansa, ex-Chairman Merck |
+| [otto-wolff-von-amerongen](../docs/persons/otto-wolff-von-amerongen.md) | Industriale acciaio (1918-2007) | **46 Bilderberg** (record), Trilateral founder, Deutsche Bank Chairman Advisory, Ostausschuss Chairman 44 anni, primo tedesco board Exxon |
 
 ### Organizzazioni Tedesche
 
@@ -960,6 +963,8 @@ Ma anche rallenta trasformazione digitale/green.
 | [eurasia-group](../docs/company/eurasia-group.md) | Company | Political risk consulting, Gabriel advisor, Bremmer founder |
 | [deutsche-borse](../docs/company/deutsche-borse.md) | Company | Proprietaria 100% Clearstream |
 | [clearstream](../docs/company/clearstream.md) | Company | ICSD Lussemburgo, €19T custody, Deutsche Börse 100% |
+| otto-wolff-ag | Company | Steel trading, Colonia 1904, acquisita Thyssen 1990 |
+| exxon | Company | Oil USA, primo tedesco in board (Wolff von Amerongen 1971) |
 
 ### Forum
 
@@ -974,6 +979,8 @@ Ma anche rallenta trasformazione digitale/green.
 | institute-international-finance | Forum | Weber Chairman, Bäte membro |
 | brookings | ThinkTank | Achleitner Trustee |
 | [ecfr](../docs/think-tank/ecfr.md) | ThinkTank | European Council on Foreign Relations, Gabriel membro |
+| ostausschuss | Forum | Commercio Est-Ovest, Wolff von Amerongen Chairman 1956-2000 |
+| diht | Forum | Camera Commercio Industria, Wolff von Amerongen President 1969-1988 |
 
 ### Famiglie
 
@@ -1041,6 +1048,16 @@ Ma anche rallenta trasformazione digitale/green.
 *Ultimo aggiornamento: Dicembre 2025*
 
 ### Changelog
+
+- **29 Dic v12**: Otto Wolff von Amerongen - architetto commercio Est-Ovest
+  - **Otto Wolff von Amerongen** (1918-2007): scheda completa `docs/persons/otto-wolff-von-amerongen.md`
+  - **46 Bilderberg meetings** (1955-2001): record partecipazione, Advisory Committee
+  - **Trilaterale**: membro fondatore 1973, executive 1981-1998
+  - **Deutsche Bank**: Chairman Advisory Board 1976-1988
+  - **Ostausschuss**: Chairman 44 anni (1956-2000), architetto commercio Est-Ovest
+  - **Exxon**: primo tedesco in board multinazionale USA (1971)
+  - Precursore storico del pattern Schroder (Ostpolitik, gasdotto 1982)
+  - Nuove org: otto-wolff-ag, exxon, ostausschuss, diht
 
 - **21 Dic v11**: Infrastruttura finanziaria Clearstream
   - **Nuova sezione "Infrastruttura Finanziaria: Clearstream"**

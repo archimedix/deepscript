@@ -60,6 +60,8 @@ CARLI ──► BAFFI ──► CIAMPI ──► FAZIO ──► DRAGHI ──�
 
 **Pattern**: Visco rappresenta il "tecnico puro" - 44 anni in Banca d'Italia + OECD, nessuna affiliazione a forum internazionali (Bilderberg, Trilaterale, G30).
 
+**La Scuola Bankitalia → BCE**: [Tommaso Padoa-Schioppa](../docs/persons/tommaso-padoa-schioppa.md) (Vice DG Bankitalia 1984-97) fu il precursore del pattern Draghi: co-architetto dell'Euro, membro fondatore Executive Board BCE (1998-2005), poi Ministro Economia. Draghi lo defini' "amico e maestro". Padoa-Schioppa era membro **Group of Thirty** (31 anni) e **Bilderberg Steering Committee** - il profilo forum piu' completo tra i banchieri centrali italiani.
+
 ### 2. Il Braccio dello Stato: CDP
 
 [CDP](../docs/swf/cdp.md) controlla gli asset strategici nazionali:
@@ -145,6 +147,13 @@ CALTAGIRONE                    ANGELUCCI          CAIRO │
 └──────────┘               └───────────┘
 ```
 
+**Media ↔ Elite Globale: [Lilli Gruber](../docs/persons/lilli-gruber.md)**
+- Prima donna anchor TG1 prime time (1987), inviata di guerra
+- Europarlamentare Ulivo (2004-2008) dopo estromissione RAI
+- **Conduttrice Otto e mezzo (La7)** dal 2008: principale talk show politico
+- **Bilderberg Steering Committee**: unica giornalista TV italiana
+- Ponte unico tra informazione mainstream e forum elite transnazionali
+
 ---
 
 ## II. I Connettori: Chi Lega i Nodi
@@ -196,6 +205,7 @@ CALTAGIRONE                    ANGELUCCI          CAIRO │
 | 41 | [Biagio Mazzotta](../docs/persons/biagio-mazzotta.md) | 4 | **Ragioniere Generale dello Stato → Chairman Fincantieri**, Sogei, Invitalia |
 | 42 | [Pierroberto Folgiero](../docs/persons/pierroberto-folgiero.md) | 3 | **CEO Maire Tecnimont → CEO Fincantieri**, Wind, Tirrenia |
 | 43 | [Giuseppe Gola](../docs/persons/giuseppe-gola.md) | 4 | **CEO ACEA → CEO Open Fiber**, CFO Wind, Enel |
+| 44 | [Franco Bernabe](../docs/persons/franco-bernabe.md) | 13 | **CEO ENI (privatizzatore) → CEO Telecom x2**, **Rothschild Europe Vice Chair**, **Bilderberg steering**, PetroChina board 14 anni, JP Morgan Council, CFR, GSMA Chairman |
 
 ### Il Pattern "Goldman Sachs → Palazzo Chigi"
 
@@ -399,8 +409,11 @@ Un quarto profilo emerge per i CEO delle grandi aziende di Stato:
 |-----|---------|---------|----------------------|
 | [Claudio Descalzi](../docs/persons/claudio-descalzi.md) | ENI | **4 consecutivi** (2014-) | WEF Co-Chair, CFR, ERT Steering, Atlantic Council |
 | [Paolo Scaroni](../docs/persons/paolo-scaroni.md) | ENI (precedente) | 2005-2014 | Bilderberg, Rothschild Deputy Chair |
+| [Franco Bernabe](../docs/persons/franco-bernabe.md) | ENI (storico) | 1992-1998 | **Privatizzatore**, Bilderberg steering, Rothschild Vice Chair, CFR, PetroChina board |
 
 **Descalzi**: 43 anni in ENI, 4 mandati da 4 governi diversi (Renzi→Meloni), network costruito internamente, ponte Italia-Africa.
+
+**Bernabe**: Il primo CEO della "nuova ENI" - nominato da Amato a 42 anni durante Tangentopoli, guido' la ristrutturazione (200 dismissioni, 42.000 esuberi) e l'IPO 1995. Poi Telecom Italia (2 mandati), Rothschild Europe (Vice Chairman dal 2004), 14 anni nel board PetroChina.
 
 ### Le "Tre Sorelle" di Stato: ENI, Enel, Leonardo
 
@@ -543,7 +556,7 @@ TIM: 30 ANNI DI PRIVATIZZAZIONE FALLITA
 
 | CEO TIM | Periodo | Durata | Esito |
 |---------|---------|--------|-------|
-| Bernabe' | 1998-99 | 1 anno | Scalata Olivetti |
+| [Bernabe](../docs/persons/franco-bernabe.md) | 1998-99 | 1 anno | Dimissioni OPA Olivetti |
 | Colaninno | 1999-01 | 2 anni | Exit a Pirelli |
 | Tronchetti | 2001-06 | 5 anni | Exit a Telefonica |
 | Patuano | 2011-16 | 5 anni | Dimissioni |
@@ -687,6 +700,13 @@ Paolo Scaroni rappresenta il caso piu' estremo di **revolving door** nel settore
 
 **Osservazione**: Scaroni ha guidato **entrambe** le maggiori utility italiane (Enel ed ENI), poi e' passato alla finanza internazionale (Rothschild), per tornare come Chairman della stessa azienda dove aveva iniziato.
 
+**Precedente storico: [Franco Bernabe](../docs/persons/franco-bernabe.md)** - stesso pattern una generazione prima:
+- CEO ENI (1992-98): privatizzazione e IPO 1995
+- CEO Telecom Italia (1998-99, 2007-13)
+- Vice Chairman Rothschild Europe (2004-)
+- Bilderberg Steering Committee
+- 14 anni nel board PetroChina (ponte Italia-Cina)
+
 ### Il Pattern "Governo Draghi → CEO Aziende Strategiche"
 
 Il governo Draghi (2021-2022) ha funzionato come "hub" di manager poi passati alla guida di aziende strategiche:
@@ -801,6 +821,23 @@ SEMICONDUTTORI ────► CEA (Nucleare) ────► CHAPTER ZERO ─�
 | **[Mariangela Zappia](../docs/persons/mariangela-zappia.md)** | **Board** (2025-) | **Presidente** (2026-) |
 
 Questo crea un **doppio intreccio** tra la prima banca italiana e il principale think tank di politica estera: Zappia siede nel board presieduto da Gros-Pietro, che a sua volta siede nell'ExComm dell'ISPI che Zappia presiede.
+
+### Il Pattern "Diplomazia → FIAT → Bilderberg" (storico)
+
+Pattern storico che lega **diplomazia di alto livello**, **Gruppo FIAT** e **Bilderberg Steering Committee**:
+
+| Persona | Carriera Diplomatica | FIAT | Bilderberg |
+|---------|----------------------|------|------------|
+| [Gian Cittadini-Cesi](../docs/persons/gian-cittadini-cesi.md) | Primo Rapp. Italia Consiglio Europa, **Vice SG OCSE (16 anni)** | Rappresentante Francia 1972-84 | Steering Committee |
+| [Renato Ruggiero](../docs/persons/renato-ruggiero.md) | Chef de Cabinet Malfatti (CE), **Primo DG WTO**, Min. Esteri | Board, Relazioni Internazionali 1991-95 | Steering Committee |
+
+**Pattern comune:**
+- Carriera diplomatica ai massimi livelli (OCSE, WTO, Commissione Europea)
+- Passaggio a FIAT (gruppo Agnelli) in ruoli di relazioni internazionali
+- Membership Bilderberg Steering Committee
+- Continuita' delle reti di potere tra fase pubblica e privata
+
+**Ruggiero** rappresenta l'evoluzione del pattern: dopo FIAT e WTO, diventa **Chairman ENI** (1999), **Min. Esteri Berlusconi II** (su proposta Agnelli), poi **Chairman Citigroup Switzerland** e **board Kissinger Associates**. Il ponte Italia-USA piu' completo della sua generazione.
 
 ### Il Pattern "Intelligence/Sicurezza → Infrastrutture Critiche"
 
@@ -1139,7 +1176,11 @@ Tronchetti Provera rappresenta il classico caso di **cooptazione per matrimonio*
 | Mario Monti | Attivo | Trilaterale chair Europa |
 | Giuliano Amato | Attivo | PM x2, Corte Cost. |
 | John Elkann | Attivo | EXOR, Stellantis |
-| Franco Bernabè | Storico | ENI, Telecom |
+| [Franco Bernabe](../docs/persons/franco-bernabe.md) | Storico | ENI CEO, Telecom CEO x2, **Rothschild Vice Chair**, CFR, PetroChina board |
+| [Tommaso Padoa-Schioppa](../docs/persons/tommaso-padoa-schioppa.md) | Storico (†2010) | **Architetto Euro**, BCE founding board, Min. Economia Prodi II, Chairman IMFC |
+| [Renato Ruggiero](../docs/persons/renato-ruggiero.md) | Storico (†2013) | **Primo DG WTO**, Min. Esteri, FIAT, Kissinger Associates, Citigroup |
+| [Gian Cittadini-Cesi](../docs/persons/gian-cittadini-cesi.md) | Storico (†1984) | **Vice SG OCSE** 16 anni, Consiglio Europa, poi FIAT Francia |
+| [Lilli Gruber](../docs/persons/lilli-gruber.md) | Attivo | **La7 Otto e mezzo**, ex-MEP, unica giornalista TV nello steering |
 
 **Partecipanti recenti:**
 
@@ -1583,6 +1624,17 @@ CRISI → GOVERNO TECNICO → PROFILO ASPEN/FORUM
 | **Commissario Economia** | [Paolo Gentiloni](../docs/persons/paolo-gentiloni.md) (2019-2024) | **Bilderberg 2023-24**, ora Brookings |
 | Commissario Concorrenza | Mario Monti (1995-2004) | Trilaterale chair, Aspen |
 | Board BCE | Fabio Panetta (2020-23), Piero Cipollone (2023-) | - |
+| **Board BCE (fondatore)** | **[Tommaso Padoa-Schioppa](../docs/persons/tommaso-padoa-schioppa.md) (1998-2005)** | **Co-rapporteur Delors, architetto Euro** |
+
+**Tommaso Padoa-Schioppa: L'Architetto dell'Euro**
+- Formulo' il "quartetto inconsistente" (1982): base teorica per la moneta unica
+- Co-rapporteur Comitato Delors (1988-89): disegno' il percorso verso l'EMU
+- **Membro fondatore Executive Board BCE** (1998-2005)
+- Ministro Economia governo Prodi II (2006-2008)
+- Chairman IMFC (FMI) 2007-2008
+- Chairman Basel Committee on Banking Supervision (1993-97)
+- **Bilderberg Steering Committee**, Group of Thirty (31 anni)
+- Mentore di Mario Draghi (colleghi Bankitalia, Draghi lo defini' "amico e maestro")
 
 **Paolo Gentiloni: Da PM a Bruxelles**
 - PM Italia (2016-2018) dopo referendum Renzi
@@ -1606,6 +1658,8 @@ CRISI → GOVERNO TECNICO → PROFILO ASPEN/FORUM
 | **CDP RETI** | **State Grid** | **30%** | **Attivo, board seats** |
 | [Pirelli](../docs/company/pirelli.md) | Sinochem (ex-ChemChina) | 37% | **Golden Power 2023** |
 | Porto Trieste | Via della Seta | - | Sospeso |
+
+**Ponte personale Italia-Cina: [Franco Bernabe](../docs/persons/franco-bernabe.md)** - 14 anni nel board PetroChina (2003-2017), Chairman Audit Committee. Unico italiano in posizione di governance nella maggiore oil company cinese, mentre era Vice Chairman Rothschild Europe.
 
 **Il Deal State Grid-CDP RETI (2014)**:
 

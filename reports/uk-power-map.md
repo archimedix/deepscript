@@ -3,8 +3,8 @@
 ## Stato del Database
 
 **Organizzazioni UK presenti**: 100+ entità con sede a Londra/UK
-**Persone britanniche (GBR)**: ~90 persone
-**Aggiornamento**: Aggiunti Darktrace (GCHQ spinoff → Thoma Bravo), Mike Lynch (morto 2024, "Britain's Bill Gates"), Poppy Gustafsson (CEO → Minister), Jonathan Evans (MI5 → Darktrace), Thoma Bravo ($184B PE), openDemocracy (media OSF-funded)
+**Persone britanniche (GBR)**: ~95 persone
+**Aggiornamento**: Aggiunti Denis Healey (Bilderberg founder, Chancellor), John Micklethwait (Bloomberg EIC, Bilderberg Steering), Frederic Bennett (MP, Bilderberg Steering 25 anni), Conrad Black (Hollinger, Telegraph, Bilderberg Steering), Bloomberg (media stub documentato)
 
 ---
 
@@ -215,6 +215,28 @@ GCHQ/MI5 expertise
 3. **Defence Industry Funding**: £500K+ annuali da contractors
 4. **Governo-RUSI-Governo**: Ex-ministri (Straw, Rudd, Rifkind) come trustees
 
+#### Bilderberg UK Steering Committee - Network Documentato
+
+**Il nucleo del potere atlantico britannico dal 1954:**
+
+| Nome | Ruolo | Periodo | Meetings | Note |
+|------|-------|---------|----------|------|
+| **denis-healey** | Founder | 1954-2015 | 23 | Labour, Chancellor, Defence Secretary |
+| **eric-roll** | Chairman | 1986-1989 | 20+ | Warburg, Trilateral founder |
+| **frederic-bennett** | Steering | 1959-1984 | 20 | Tory MP, Council of Europe Chairman |
+| **conrad-black** | Steering | 1990s-2000s | - | Hollinger, Telegraph |
+| **john-micklethwait** | Steering | 2010s- | - | Bloomberg EIC, ex-Economist |
+
+**Pattern chiave**:
+- **Bipartisan**: Healey (Labour) + Bennett (Tory) = bridge tra i due partiti
+- **Media control**: Black (Telegraph/Hollinger) + Micklethwait (Economist/Bloomberg)
+- **Generazionale**: Healey/Roll (1954-1980s) → Bennett/Black (1960s-2000s) → Micklethwait (2010s-)
+- **Kleinwort connection**: Bennett madre era Kleinwort (banchieri)
+
+**Relazione documentata**: Healey ↔ Bennett (colleghi steering, bridge Tory-Labour)
+
+---
+
 #### Chatham House - Dettaglio
 | Ruolo | Nome | Note |
 |-------|------|------|
@@ -250,6 +272,7 @@ GCHQ/MI5 expertise
 | lloyds | Bank | London | 14.0% | |
 | natwest | Bank | Edinburgh | 8.0% | |
 | nm-rothschild | Bank | London | | Private |
+| **sg-warburg** | Bank | London | | Acquired by SBC 1995 → UBS |
 | ebrd | Bank | London | | Dev bank |
 
 #### Barclays - Dettaglio Azionariato
@@ -342,9 +365,10 @@ Scheda completa creata: `docs/government/governo-uk.md`
 | 2022-2024 | Rishi Sunak | Conservative | First British Asian |
 | 2024- | Keir Starmer | Labour | Current |
 
-**Timeline Chancellors (Post-1979)**:
+**Timeline Chancellors (Post-1970)**:
 | Periodo | Chancellor | Note |
 |---------|------------|------|
+| **1974-1979** | **Denis Healey** | IMF crisis 1976, **Bilderberg founder** |
 | 1983-1989 | Nigel Lawson | Big Bang |
 | 1997-2007 | Gordon Brown | Longest since 1832 |
 | 2010-2016 | George Osborne | Austerity |
@@ -352,6 +376,11 @@ Scheda completa creata: `docs/government/governo-uk.md`
 | 2022 | Kwasi Kwarteng | **38 giorni** |
 | 2022-2024 | Jeremy Hunt | Stabilization |
 | 2024- | Rachel Reeves | First woman Chancellor |
+
+**Timeline Defence Secretaries (chiave)**:
+| Periodo | Defence Secretary | Note |
+|---------|-------------------|------|
+| **1964-1970** | **Denis Healey** | Record 6 anni, **Bilderberg founder**, East of Suez |
 
 #### David Cameron - DOCUMENTATO
 
@@ -494,6 +523,30 @@ Scheda completa: `docs/persons/david-cameron.md`
 **Crisi 2024**: Riduzione 40% costi, ~10 licenziamenti (1/3 staff) per vulnerabilità a cambiamenti priorità donor
 
 **Pattern**: Media indipendente UK finanziato da fondazioni progressiste USA (OSF, Ford) - alternativo a mainstream ma dipendente da grants
+
+#### Bloomberg - DOCUMENTATO
+
+**Impero globale dati finanziari con leadership UK:**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 1981, New York |
+| Fondatore/Owner | Michael Bloomberg (~88%) |
+| Revenue | ~$10 miliardi (2024) |
+| Valutazione | $60-70 miliardi |
+| Bloomberg Terminal | 350,000 abbonati, ~$24K/anno |
+| Market share | ~33% dati finanziari globali |
+
+**UK Connection - Leadership Editoriale**:
+| Ruolo | Nome | Background |
+|-------|------|------------|
+| **Editor-in-Chief** | **john-micklethwait** | Ex-Economist EIC, **Bilderberg Steering** |
+
+**Pattern**: Micklethwait porta il network Bilderberg/Economist a Bloomberg. Da 2015 guida la principale fonte di informazione finanziaria globale.
+
+**Scheda**: `docs/media/bloomberg.md`
+
+---
 
 #### DA AGGIUNGERE
 | Nome | Tipo | Owner | Priorità |
@@ -761,6 +814,39 @@ Due famiglie (italiana + americana-by-marriage) controllano la testata britannic
 **Soprannome**: Mickey Kantor (USTR): "Without him there would have been no WTO - he is the father of globalisation"
 
 **Revolving door perfetto**: Governo nazionale → Governance internazionale → Alta finanza privata → Forum transnazionali → Vaticano
+
+### 11b. Eric Roll - Il Precursore (1907-2005)
+
+**Il modello Sutherland, generazione precedente**:
+
+| Ruolo | Periodo | Note |
+|-------|---------|------|
+| Professor of Economics | 1935-1941 | Hull, a 28 anni con backing Keynes |
+| British Food Mission | 1941-1946 | Deputy Head, Washington |
+| Marshall Aid Negotiations | 1948 | Rappresentante UK, Parigi |
+| EEC Negotiations | 1961-1963 | Deputy Head UK delegation |
+| Economic Minister Washington | 1963-1964 | British Embassy |
+| Permanent Secretary DEA | 1964-1966 | Sotto Harold Wilson |
+| Bank of England Director | 1968-1977 | 9 anni |
+| SG Warburg Chairman | 1974-1987 | 13 anni |
+| Trilateral Commission | 1973- | **Membro fondatore** |
+| Kissinger Associates | 1984- | Senior Advisor |
+| Bilderberg Chairman | 1986-1989 | Steering Committee dal 1969 |
+| The Times Director | - | Board |
+| Baron Roll of Ipsden | 1977 | Life Peer |
+
+**Pattern**: Come Sutherland ma una generazione prima:
+- Academia (Keynes network) → Civil Service (Marshall Aid, EEC) → Central Bank (BoE) → Merchant Bank (Warburg) → Forums (Bilderberg Chairman, Trilateral founder) → Advisory (Kissinger) → Media (Times) → Lords
+
+**Network chiave**:
+- Siegmund Warburg (mentore bancario)
+- Henry Kissinger (partner)
+- Jean Monnet (collaboratore negoziati europei)
+- David Rockefeller (co-fondatore Trilaterale)
+
+**Origine**: Emigrato dall'Impero Austro-Ungarico negli anni '20. Da rifugiato a Chairman Bilderberg in 60 anni.
+
+**Scheda**: `docs/persons/eric-roll.md`
 
 ### 12. Telegraph-Rothermere Consolidation 2025
 
@@ -1051,6 +1137,12 @@ Cambridge Academia (maths/AI)
 | **jonathan-evans** | **Completato** | Ex-MI5 DG → Darktrace Advisory Board |
 | **thoma-bravo** | **Completato** | $184B PE, cybersecurity empire (Darktrace, Sophos, Proofpoint) |
 | **opendemocracy** | **Completato** | Media investigativo, OSF/Ford funded, Anthony Barnett |
+| **eric-roll** | **Completato** | Baron Roll of Ipsden, Bilderberg Chairman 1986-89, SG Warburg, Trilateral founder, Kissinger Associates |
+| **denis-healey** | **Completato** | Bilderberg founder 1954, Chancellor 1974-79, Defence Secretary 1964-70, Steering 30+ anni, 23 meetings |
+| **john-micklethwait** | **Completato** | Bloomberg EIC 2015-, ex-Economist EIC 2006-15, Bilderberg Steering, British Museum Trustee |
+| **frederic-bennett** | **Completato** | Tory MP 1955-87, Bilderberg Steering 1959-84 (20 meetings), Council of Europe Chairman, Kleinwort family |
+| **conrad-black** | **Completato** | Hollinger CEO, Telegraph Chairman, Bilderberg Steering, CFR, fraud conviction 2007, Trump pardon 2019 |
+| **bloomberg** | **Completato** | Media empire $60-70B, 350K terminals, Micklethwait EIC dal 2015 |
 
 ### Tier 1 - DA FARE
 | Entità | Tipo | Priorità |
@@ -1060,7 +1152,6 @@ Cambridge Academia (maths/AI)
 | **peter-mandelson** | Person | ALTA - Trilateral, EU nexus |
 | **paul-deighton** | Person | ALTA - Goldman → Olympics → Treasury → Economist → Hakluyt |
 | **zanny-minton-beddoes** | Person | ALTA - Economist EIC, Bilderberg, IMF |
-| **conrad-black** | Person | ALTA - Telegraph scandal, Hollinger |
 | **jonathan-rothermere** | Person | ALTA - DMGT, Telegraph acquisition |
 | **rebekah-brooks** | Person | ALTA - Chipping Norton, News International, phone hacking |
 | **varun-chandra** | Person | ALTA - Hakluyt → Starmer advisor, lobbying investigation |
@@ -1122,6 +1213,9 @@ Cambridge Academia (maths/AI)
 34. **OSF UK Media Funding** - Open Society Foundations finanzia ecosistema media progressisti (openDemocracy £600K+)
 35. **Thoma Bravo Consolidation** - Singolo PE americano controlla infrastruttura cybersecurity critica globale ($184B AUM)
 36. **Bayesian Tragedy Network** - Naufragio 2024: Lynch + Morgan Stanley Chairman + Clifford Chance lawyer = intersezione tech/finance/legal elite
+37. **Bilderberg UK Steering Continuity** - Presenza costante britannica nello steering dal 1954: Healey (Labour founder) → Roll (Chairman) → Bennett (Tory) → Black (Media) → Micklethwait (Media)
+38. **Bilderberg Bipartisan Bridge** - Healey (Labour) + Bennett (Tory) contemporanei nello steering = network transpartisan
+39. **Media Magnate → Bilderberg Pattern** - Black (Telegraph/Hollinger) e Micklethwait (Economist/Bloomberg) entrambi steering = media ownership correlata a membership elite
 
 ### Fonti chiave:
 - [Elitist Britain 2025](https://www.suttontrust.com/our-research/elitist-britain-2025/) - Sutton Trust
@@ -1144,4 +1238,4 @@ Cambridge Academia (maths/AI)
 
 ---
 
-*Ultimo aggiornamento: 27 Dicembre 2025 - Aggiunti Darktrace (GCHQ spinoff → Thoma Bravo $5.3B), Mike Lynch (morto 2024), Poppy Gustafsson (CEO → Minister), Jonathan Evans (MI5 → Darktrace), Thoma Bravo ($184B PE empire), openDemocracy (OSF/Ford funded). Nuovi pattern 30-36: Cyber-Industrial Complex, UK Tech → USA PE, CEO → Minister revolving door.*
+*Ultimo aggiornamento: 29 Dicembre 2025 - Aggiunta sezione Bilderberg UK Steering Committee con Denis Healey (founder 1954, Chancellor), John Micklethwait (Bloomberg EIC), Frederic Bennett (Tory MP, 20 meetings), Conrad Black (Hollinger/Telegraph). Documentato Bloomberg. Aggiunti pattern 37-39 su continuità Bilderberg UK.*
