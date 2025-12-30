@@ -215,4 +215,4 @@ Jacob Wallenberg incarna la continuita' dinastica del potere:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Dicembre 2025*

@@ -68,8 +68,11 @@
 
 | Forum/Award | Dettaglio |
 |-------------|-----------|
-| **WEF** | Board of Trustees |
-| **ICC** | Chairman 2020-2022 |
+| **[Trilateral Commission](../forum/trilateral-commission.md)** | Member |
+| **[CFR](../think-tank/cfr.md)** | Member |
+| **[WEF](../forum/wef.md)** | Board of Trustees |
+| **[ICC](../agency/icc.md)** | Chairman 2020-2022 |
+| **[Council for Inclusive Capitalism](../foundation/council-inclusive-capitalism.md)** | Guardian |
 | **Padma Shri** | 2016 (India) |
 | **Time 100** | 2024 |
 | **Ellis Island Medal** | |
@@ -127,10 +130,16 @@ Mandato 2023: trasformare l'istituzione per affrontare poverta' e cambiamento cl
 | Entita' | Connessione |
 |---------|-------------|
 | [World Bank](../agency/world-bank.md) | President 2023- |
+| [Trilateral Commission](../forum/trilateral-commission.md) | Member |
+| [CFR](../think-tank/cfr.md) | Member |
 | [WEF](../forum/wef.md) | Board of Trustees |
+| [Council for Inclusive Capitalism](../foundation/council-inclusive-capitalism.md) | Guardian |
+| [ICC](../agency/icc.md) | Chairman 2020-2022 |
+| [General Atlantic](../private-equity/general-atlantic.md) | Vice Chairman 2022-2023 |
 | [Mastercard](../company/mastercard.md) | CEO 2010-2020 |
 | [Citigroup](../bank/citigroup.md) | Executive 1996-2010 |
-| [General Atlantic](../private-equity/general-atlantic.md) | Vice Chairman 2022-2023 |
+| [Nestle](../company/nestle.md) | Executive 1981-1994 |
+| [Dow](../company/dow.md) | Board member |
 
 ---
 
@@ -148,4 +157,4 @@ Mandato 2023: trasformare l'istituzione per affrontare poverta' e cambiamento cl
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Dicembre 2025*

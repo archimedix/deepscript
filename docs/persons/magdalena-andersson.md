@@ -62,6 +62,8 @@
 |-------|----------------|
 | **WEF** | Young Global Leader |
 | **FMI** | Chair IMFC (2020-, prima donna) |
+| **Bilderberg** | Member (2023) |
+| **Trilateral Commission** | Member (2024) |
 
 ---
 
@@ -86,6 +88,8 @@
 | [Governo Svezia](../government/governo-svezia.md) | PM 2021-22, Min. Finanze 2014-21 |
 | [WEF](../forum/wef.md) | Young Global Leader |
 | [FMI](../agency/imf.md) | Chair IMFC 2020- |
+| [Bilderberg](../forum/bilderberg.md) | Member 2023 |
+| [Trilateral Commission](../forum/trilateral-commission.md) | Member 2024 |
 
 ---
 
@@ -100,6 +104,8 @@
 | **2020** | Prima donna Chair IMFC |
 | **2021** | Prima donna Premier svedese |
 | **2022** | Lascia dopo sconfitta elettorale |
+| **2023** | Partecipa Bilderberg |
+| **2024** | Entra Trilateral Commission |
 
 ---
 
@@ -115,4 +121,4 @@
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Dicembre 2025*

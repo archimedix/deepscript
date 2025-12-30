@@ -239,4 +239,4 @@ SEB   Ericsson Saab   ABB   Atlas Copco
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Dicembre 2025*

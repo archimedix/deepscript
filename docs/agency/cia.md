@@ -119,7 +119,7 @@ Unita' paramilitare per operazioni dirette:
 | 2017-18 | Mike Pompeo | Trump |
 | 2018-21 | Gina Haspel | Trump |
 | 2021-25 | William Burns | Biden |
-| 2025- | John Ratcliffe | Trump |
+| 2025- | [John Ratcliffe](../persons/john-ratcliffe.md) | Trump |
 
 ---
 
@@ -240,4 +240,4 @@ L'Intelligence Reform and Terrorism Prevention Act creo' il Director of National
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Dicembre 2025*

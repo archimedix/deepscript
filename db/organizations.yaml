@@ -54,6 +54,12 @@ organizations:
     type: company
     headquarters: Vienna, Austria
     sector: Telecommunications
+  a16z:
+    name: Andreessen Horowitz
+    type: privateequity
+    founded: 2009
+    headquarters: Menlo Park, USA
+    status: active
   a2a:
     name: A2A S.p.A.
     type: company
@@ -64,6 +70,18 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  aaas:
+    name: American Association for the Advancement of Science
+    type: foundation
+    founded: 1848
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: margaret-hamburg
+      role: chairman
+      from: 2017
+      to: 2019
+      note: President and Board Chair 2017-2019, current Board Chair
   aamulehti:
     name: Aamulehti
     type: media
@@ -130,6 +148,8 @@ organizations:
       share: 1.5%
     - org: investor-ab
       role: major-shareholder
+    - org: investor-ab
+      role: major shareholder
   abc:
     name: ABC
     type: media
@@ -203,6 +223,12 @@ organizations:
       from: 2008
       to: 2017
       note: 13e fauteuil
+  accel-partners:
+    name: Accel Partners
+    type: privateequity
+    founded: 1983
+    headquarters: Palo Alto, USA
+    status: active
   accenture:
     name: Accenture
     stakeholders:
@@ -250,6 +276,16 @@ organizations:
     - org: kingdom-holding
       share: 6.8
       note: Prince Alwaleed; dal 2016
+  accrete:
+    name: Accrete
+    type: company
+    status: active
+    sector: AI/Defense
+    stakeholders:
+    - person: paul-nakasone
+      role: advisor
+      from: 2025
+      note: Strategic Board Advisor
   acea:
     name: ACEA SpA
     type: company
@@ -522,9 +558,13 @@ organizations:
     name: American Enterprise Institute
     type: thinktank
     founded: 1938
-    headquarters: Washington DC, USA
+    headquarters: Washington, D.C., USA
     status: active
     stakeholders:
+    - person: scott-gottlieb
+      role: member
+      from: 2007
+      note: Senior Fellow 2007-2017, 2019-present
     - person: radoslaw-sikorski
       role: executive
       from: 2002
@@ -548,6 +588,15 @@ organizations:
     stakeholders:
     - person: martin-bruncko
       role: executive
+  aetion:
+    name: Aetion Inc.
+    type: company
+    headquarters: New York, USA
+    status: active
+    sector: health-tech
+    stakeholders:
+    - person: scott-gottlieb
+      role: board
   affinity-partners:
     name: Affinity Partners
     type: privateequity
@@ -635,6 +684,17 @@ organizations:
       note: President, Vice Chairman
     - org: central-huijin
       share: 40.14
+  ai-fund:
+    name: AI Fund
+    type: privateequity
+    founded: 2018
+    status: active
+    sector: AI, venture capital
+    stakeholders:
+    - person: andrew-ng
+      role: partner
+      from: 2018
+      note: Managing General Partner
   aib:
     name: Allied Irish Banks
     type: bank
@@ -1130,6 +1190,17 @@ organizations:
     - org: state-street
       role: shareholder
       share: 2.0
+  alnylam:
+    name: Alnylam Pharmaceuticals
+    type: pharma
+    founded: 2002
+    headquarters: Cambridge, Massachusetts, USA
+    status: active
+    sector: RNAi therapeutics
+    stakeholders:
+    - person: margaret-hamburg
+      role: board
+      from: 2019
   alpargatas:
     name: Alpargatas
     type: company
@@ -1148,9 +1219,10 @@ organizations:
     - org: vanguard
       share: 1.5%
   alphabet:
-    name: Alphabet
+    name: Alphabet Inc.
     type: company
-    headquarters: Mountain View
+    founded: 2015
+    headquarters: Mountain View, California, USA
     status: active
     sector: tech
     stakeholders:
@@ -1160,22 +1232,47 @@ organizations:
     - person: larry-page
       role: founder
       from: 1998
+    - person: arthur-levinson
+      role: board
+      from: 2004
+      to: 2009
+      note: Director Google
     - person: eric-schmidt
       role: chairman
       from: 2015
       to: 2018
       note: Executive Chairman
+    - person: sundar-pichai
+      role: executive
+      from: 2019
+      note: CEO Alphabet
+    - person: john-hennessy
+      role: chairman
+      from: 2018
+      note: Chairman of the Board
+    - person: john-doerr
+      role: board
+      from: 1999
+      note: Board member since IPO
+    - person: diane-bryant
+      role: executive
+      from: 2017
+      to: 2018
+      note: COO Google Cloud
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
       role: stake
-      share: 0.06
+      share: 6.55
+      note: 2nd largest institutional holder
     - org: vanguard
       role: stake
-      share: 0.07
+      share: 7.73
+      note: Largest institutional holder
     - org: state-street
       role: stake
-      share: 0.03
+      share: 3.47
+      note: 3rd largest institutional holder
   alphabeta:
     name: Alphabeta
     stakeholders:
@@ -1246,6 +1343,55 @@ organizations:
       role: board
       from: 2020
       note: Board of Directors
+    - person: andy-jassy
+      role: executive
+      from: 2021
+      note: CEO & President
+    - person: andy-jassy
+      role: board
+      from: 2021
+      note: Director
+    - person: jamie-gorelick
+      role: board
+      from: 2012
+      note: Governance & Nominating Chair
+    - person: indra-nooyi
+      role: board
+      from: 2019
+      note: Audit Committee Chair
+    - person: andrew-ng
+      role: board
+      from: 2024
+      note: Director, Compensation Committee
+    - person: edith-cooper
+      role: board
+      from: 2021
+      note: Compensation Committee Chair
+    - person: wendell-weeks
+      role: board
+      from: 2016
+      note: Executive Committee Chair
+    - person: patricia-stonesifer
+      role: board
+      from: 2010
+      note: Governance & Nominating
+    - person: jonathan-rubinstein
+      role: board
+      from: 2021
+      note: Director
+    - person: daniel-huttenlocher
+      role: board
+      from: 2015
+      note: Finance Committee
+    - person: brad-smith-amazon
+      role: board
+      from: 2022
+      note: Compensation, Audit
+    - person: john-doerr
+      role: board
+      from: 1996
+      to: 2010
+      note: Early investor and board member
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -1299,6 +1445,35 @@ organizations:
     founded: 1950
     headquarters: Helsinki, Finland
     sector: Sporting Goods
+  american-academy-arts-sciences:
+    name: American Academy of Arts and Sciences
+    type: forum
+    founded: 1780
+    headquarters: Cambridge, Massachusetts, USA
+    status: active
+    stakeholders:
+    - person: vernon-jordan
+      role: member
+      note: Fellow
+  american-academy-berlin:
+    name: American Academy in Berlin
+    type: thinktank
+    founded: 1994
+    headquarters: Berlin, Germany
+    status: active
+    stakeholders:
+    - person: sandra-peterson
+      role: chairman
+      note: Chairman of the Board
+  american-council-germany:
+    name: American Council on Germany
+    type: thinktank
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: robert-kimmitt
+      role: chairman
+      note: Chairman Emeritus
   american-council-on-germany:
     name: American Council on Germany
     type: forum
@@ -1317,6 +1492,11 @@ organizations:
     - person: vernon-jordan
       role: board
       note: Board of Directors
+    - person: alfred-kelly
+      role: executive
+      from: 1987
+      to: 2010
+      note: President 2007-2010
     - org: berkshire-hathaway
       role: stake
   american-finance-association:
@@ -1341,6 +1521,16 @@ organizations:
     - person: stephen-wise
       role: founder
       from: 1918
+  americas-society:
+    name: Americas Society
+    type: forum
+    founded: 1965
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: david-rockefeller
+      role: founder
+      note: Founder and Chairman
   amg-media:
     name: AMG Media Networks
     type: media
@@ -1369,6 +1559,22 @@ organizations:
     founded: 1950
     headquarters: Milan, Italy
     sector: healthcare
+  andreessen-horowitz:
+    name: Andreessen Horowitz (a16z)
+    type: privateequity
+    founded: 2009
+    headquarters: Menlo Park, California, USA
+    status: active
+    sector: venture capital
+    stakeholders:
+    - person: marc-andreessen
+      role: founder
+      from: 2009
+      note: Co-founder, General Partner
+    - person: ben-horowitz
+      role: founder
+      from: 2009
+      note: Co-founder, CEO
   andritz:
     name: Andritz AG
     type: company
@@ -1379,6 +1585,17 @@ organizations:
       share: 4.3%
     - org: vanguard
       share: 2.0%
+  anduril:
+    name: Anduril Industries
+    type: company
+    founded: 2017
+    headquarters: Costa Mesa, California, USA
+    status: active
+    sector: defense-tech
+    stakeholders:
+    - org: in-q-tel
+      role: investor
+      from: 2017
   anglo-american:
     name: Anglo American plc
     type: company
@@ -1405,6 +1622,10 @@ organizations:
       from: 2001
       to: 2012
       note: Vice President
+    - person: mamphela-ramphele
+      role: board
+      from: 2006
+      note: Non-Executive Director
     - org: blackrock
       share: 4.7%
     - org: vanguard
@@ -1576,9 +1797,14 @@ organizations:
     - person: tim-cook
       role: executive
       from: 2011
+      note: CEO
     - person: arthur-levinson
       role: chairman
       from: 2011
+    - person: arthur-levinson
+      role: board
+      from: 2000
+      note: Director, co-lead director 2005-2011
     - person: susan-wagner
       role: board
       from: 2014
@@ -1601,6 +1827,9 @@ organizations:
       share: 0.038
     - org: berkshire-hathaway
       role: stake
+    - org: sequoia-capital
+      from: 1978
+      note: Early investor $150K, IPO 1980
   arcelormittal:
     name: ArcelorMittal
     type: company
@@ -1835,6 +2064,9 @@ organizations:
       note: Ex Officio Trustee
     - person: valerie-casey
       role: fellow
+    - person: julius-genachowski
+      role: member
+      note: Senior Fellow
     - org: trilaterale
       role: partner
     - org: aspen-romania
@@ -1985,6 +2217,10 @@ organizations:
       share: 4.6%
     - org: state-street
       share: 1.0%
+    - org: investor-ab
+      role: major shareholder
+      share: 4
+      note: Via Investor AB + FAM AB, Marcus Wallenberg board member AZ
   atalanta-bc:
     name: Atalanta Bergamasca Calcio
     type: sportsclub
@@ -2106,6 +2342,9 @@ organizations:
     - person: theodore-kyriakou
       role: advisor
       note: International Advisory Board
+    - person: dina-powell
+      role: board
+      note: Board member
     - person: jemilah-mahmood
       role: member
       from: 2020
@@ -2118,6 +2357,11 @@ organizations:
     - person: rajiv-shah
       role: board
       note: Board of Directors
+    - person: robert-kimmitt
+      role: board
+      note: Board member
+    - person: carl-bildt
+      role: board
     - org: goldman-sachs
       role: donor
       note: Corporate donor - Finance sector
@@ -2208,6 +2452,8 @@ organizations:
       share: 3.5%
     - org: investor-ab
       role: major-shareholder
+    - org: investor-ab
+      role: major shareholder
   atletico-madrid:
     name: Club Atlético de Madrid
     type: sportsclub
@@ -2378,6 +2624,17 @@ organizations:
     - person: henrique-meirelles
       role: board
       note: Board of Directors
+  b-flexion:
+    name: B-Flexion
+    type: privateequity
+    founded: 2007
+    headquarters: Geneva, Switzerland
+    status: active
+    stakeholders:
+    - person: ernesto-bertarelli
+      role: chairman
+      from: 2007
+      note: Founder & Chairman
   b3-brasil:
     name: B3 S.A.
     type: company
@@ -2464,6 +2721,15 @@ organizations:
       from: 1992
       to: 1997
       note: Baker Hughes Inteq
+  baltimore-orioles:
+    type: sportsclub
+    headquarters: Baltimore MD, USA
+    status: active
+    stakeholders:
+    - person: david-rubenstein
+      role: owner
+      from: 2024
+      note: Principal Owner ($1.725B acquisition)
   banca-commerciale-italiana:
     name: Banca Commerciale Italiana
     type: bank
@@ -3054,6 +3320,9 @@ organizations:
     - person: roger-jenkins
       role: executive
       note: Executive Chairman Middle East - architected 2008 Qatar rescue
+    - person: michael-miebach
+      role: executive
+      to: 2010
     - org: blackrock
       share: 8.7
       note: Largest shareholder (2025)
@@ -3096,6 +3365,14 @@ organizations:
       from: 2019
       to: 2024
       note: Chair
+    - person: erik-thedeen
+      role: chairman
+      from: 2024
+      note: 3-year term from June 2024
+    - person: stefan-ingves
+      role: chairman
+      from: 2011
+      to: 2019
   basf:
     name: BASF SE
     type: company
@@ -3200,6 +3477,11 @@ organizations:
       role: chairman
       from: 2020
       note: Chairman Supervisory Board
+    - person: sandra-peterson
+      role: executive
+      from: 2005
+      to: 2012
+      note: Chairman & CEO Bayer CropScience
     - org: blackrock
       share: 7.2
       from: 2024
@@ -3287,6 +3569,17 @@ organizations:
       role: consultant
     - person: devesh-raj
       role: partner
+  bdt-msd-partners:
+    name: BDT & MSD Partners
+    type: bank
+    founded: 2023
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: dina-powell
+      role: executive
+      from: 2023
+      note: Vice Chairman, President Global Client Services
   beacon-global-strategies:
     name: Beacon Global Strategies
     type: company
@@ -3420,6 +3713,15 @@ organizations:
     - person: connie-hedegaard
       role: chairman
       note: Chair of Berlingske Media DPG Group
+  bertarelli-foundation:
+    name: Bertarelli Foundation
+    type: foundation
+    headquarters: Geneva, Switzerland
+    status: active
+    stakeholders:
+    - person: ernesto-bertarelli
+      role: chairman
+      note: Chair
   bertelsmann:
     name: Bertelsmann SE & Co. KGaA
     type: media
@@ -3640,12 +3942,14 @@ organizations:
       from: 1958
     - person: john-elkann
       role: steering
-      from: 2015
-    - person: john-elkann
-      role: board
       from: 2012
       to: 2020
-      note: Regular participant
+      note: Ex-Steering Committee, unico italiano
+    - person: john-elkann
+      role: steering
+      from: 2012
+      to: 2020
+      note: Ex-Steering Committee, unico italiano
     - person: tony-blair
       role: member
     - person: emmanuel-macron
@@ -3653,6 +3957,10 @@ organizations:
       from: 2014
     - person: bill-gates
       role: member
+    - person: jeff-bezos
+      role: member
+      from: 2013
+      note: Participant 2013
     - person: peter-thiel
       role: member
       from: 2024
@@ -3741,6 +4049,9 @@ organizations:
       role: member
       from: 2011
       note: Regular attendee since 2011
+    - person: satya-nadella
+      role: steering
+      note: Steering Committee member
     - person: jacob-rothschild
       role: member
     - person: evelyn-rothschild
@@ -3913,6 +4224,9 @@ organizations:
       role: member
       from: 1992
       note: Partecipante 1992, 1993, 1996, 2007-2009, 2012
+    - person: aurelio-peccei
+      role: member
+      note: Membro (non confermato ufficialmente)
     - person: sergio-ermotti
       role: member
       from: 2022
@@ -3955,6 +4269,9 @@ organizations:
     - person: wojciech-kostrzewa
       role: steering
       note: Steering Committee member
+    - person: magdalena-andersson
+      role: member
+      from: 2023
     - person: ali-babacan
       role: member
       from: 2003
@@ -4178,8 +4495,32 @@ organizations:
       role: steering
       from: 2015
       note: Steering Committee; partecipante 2015, 2017, 2025
+    - person: indra-nooyi
+      role: member
+      from: 2004
+      note: Participant
+    - person: daniel-ek
+      role: member
+      from: 2025
+      note: Participant 2025
+    - person: carl-bildt
+      role: steering
+      note: 14 meeting 1996-2014
+    - person: ulf-kristersson
+      role: member
+      from: 2019
     - org: trilaterale
       role: partner
+  bio:
+    name: Biotechnology Innovation Organization
+    type: agency
+    founded: 1993
+    headquarters: Washington, D.C., USA
+    status: active
+    sector: biotech lobby
+    stakeholders:
+    - person: albert-bourla
+      role: board
   biontech:
     name: BioNTech SE
     type: pharma
@@ -4293,6 +4634,13 @@ organizations:
       from: 1993
       to: 1997
       note: Chairman Basel Committee on Banking Supervision
+    - person: erik-thedeen
+      role: board
+      from: 2023
+    - person: stefan-ingves
+      role: board
+      from: 2006
+      note: Vice-Chairman 2021-, longest-serving board member
     - org: bank-of-greece
       role: member
       note: Member central bank
@@ -4341,6 +4689,10 @@ organizations:
       role: founder
       from: 1988
       to: 2012
+    - person: susan-wagner
+      role: board
+      from: 2012
+      note: Director (post-retirement)
     - person: friedrich-merz
       role: chairman
       from: 2016
@@ -5110,6 +5462,16 @@ organizations:
       role: founder
       from: 1889
       to: 1902
+  broad-institute:
+    name: Broad Institute
+    type: foundation
+    founded: 2004
+    headquarters: Cambridge, Massachusetts, USA
+    status: active
+    sector: genomics
+    stakeholders:
+    - person: margaret-hamburg
+      role: board
   broadband-commission:
     name: Broadband Commission for Sustainable Development
     type: agency
@@ -5122,16 +5484,35 @@ organizations:
       role: member
       note: Commissioner ITU/UNESCO
   broadcom:
-    name: Broadcom
+    name: Broadcom Inc.
     type: company
     founded: 1961
-    headquarters: Palo Alto
+    headquarters: Palo Alto, California, USA
     status: active
-    sector: tech
+    sector: semiconductors
     stakeholders:
     - person: hock-tan
       role: executive
       from: 2006
+    - person: henry-samueli
+      role: chairman
+      from: 2018
+      note: Co-founder, Chairman since Dec 2018, CTO 1991-2018
+    - person: kenneth-hao
+      role: board
+      note: Also Avago board before merger
+    - person: diane-bryant
+      role: board
+      from: 2019
+      note: Independent Director
+    - person: harry-you
+      role: board
+      from: 2019
+      note: Chair Compensation Committee, Audit Committee
+    - person: eddy-hartenstein
+      role: board
+      from: 2016
+      note: Lead Independent Director since Dec 2018
     - org: blackrock
       role: stake
       share: 0.074
@@ -5329,6 +5710,15 @@ organizations:
       role: board
       from: 2017
       note: Security and Strategic Development
+  business-council:
+    name: The Business Council
+    type: forum
+    founded: 1933
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: albert-bourla
+      role: member
   business-council-canada:
     name: Business Council of Canada
     type: thinktank
@@ -5371,13 +5761,35 @@ organizations:
     headquarters: Washington
     status: active
     stakeholders:
+    - person: jamie-dimon
+      role: chairman
+      from: 2021
+      note: Chairman
     - person: mark-zuckerberg
+      role: member
+    - person: albert-bourla
       role: member
     - person: bob-sternfels
       role: member
     - person: brian-moynihan
       role: member
       note: Member
+    - person: david-solomon
+      role: member
+    - person: ryan-mcinerney
+      role: member
+    - person: john-lundgren
+      role: member
+      note: While at Stanley Black & Decker
+    - person: alfred-kelly
+      role: board
+    - person: ramon-laguarta
+      role: member
+    - person: michael-miebach
+      role: member
+    - person: david-ricks
+      role: member
+      note: Board Member
   bvb:
     name: Bucharest Stock Exchange
     type: company
@@ -5526,6 +5938,17 @@ organizations:
       share: 4.5
     - org: vanguard
       share: 2.5
+  calico:
+    name: Calico LLC
+    type: company
+    founded: 2013
+    headquarters: South San Francisco, California, USA
+    status: active
+    stakeholders:
+    - person: arthur-levinson
+      role: executive
+      from: 2013
+      note: Founder & CEO
   cambridge-analytica:
     name: Cambridge Analytica
     type: company
@@ -5605,6 +6028,17 @@ organizations:
     founded: 1860
     headquarters: Milan, Italy
     sector: beverages
+  campus-biotech:
+    name: Campus Biotech
+    type: company
+    founded: 2013
+    headquarters: Geneva, Switzerland
+    status: active
+    stakeholders:
+    - person: ernesto-bertarelli
+      role: founder
+      from: 2013
+      note: Co-Founder with Hansjoerg Wyss
   canal-plus:
     name: Canal+
     type: media
@@ -5638,6 +6072,15 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  capitals-coalition:
+    name: Capitals Coalition
+    type: foundation
+    headquarters: Global
+    status: active
+    sector: sustainability
+    stakeholders:
+    - person: andre-hoffmann
+      role: chairman
   carbyne:
     type: company
     founded: 2014
@@ -5692,6 +6135,7 @@ organizations:
       to: 2005
     - person: david-rubenstein
       role: founder
+      from: 1987
       note: Co-Founder and Co-Chairman
     - person: david-rubenstein
       role: founder
@@ -5710,6 +6154,10 @@ organizations:
     - person: james-baker
       role: advisor
       note: Senior Counsellor, Asia/Europe Advisory Boards
+    - person: julius-genachowski
+      role: advisor
+      from: 2014
+      note: Partner/MD 2014-23, Senior Advisor 2024-
   carnegie:
     name: Carnegie Endowment for International Peace
     type: thinktank
@@ -5751,6 +6199,9 @@ organizations:
       from: 1950
       to: 1971
       note: President
+    - person: jamie-gorelick
+      role: board
+      note: Board member
   carnegie-hall:
     name: Carnegie Hall
     type: foundation
@@ -5776,6 +6227,16 @@ organizations:
       from: 2010
       to: 2019
       note: Sold after Ibiza scandal
+  catalyst:
+    name: Catalyst
+    type: foundation
+    founded: 1962
+    headquarters: New York, USA
+    status: active
+    sector: women advancement
+    stakeholders:
+    - person: albert-bourla
+      role: board
   catamaran-ventures:
     type: privateequity
     headquarters: Bangalore, India
@@ -5788,6 +6249,14 @@ organizations:
     stakeholders:
     - person: rachael-chong
       role: founder
+  catholic-university-of-america:
+    type: thinktank
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: william-conway
+      role: board
+      note: Former Trustee and Vice Chairman
   cbmm:
     name: CBMM - Companhia Brasileira de Metalurgia e Mineracao
     type: company
@@ -6059,6 +6528,9 @@ organizations:
       role: executive
       from: 2017
       note: CEO
+    - person: margaret-hamburg
+      role: board
+      note: Former board member
     - org: gates-foundation
       role: founder
       from: 2017
@@ -6089,6 +6561,9 @@ organizations:
       role: steering
     - person: robert-rubin
       role: chairman
+    - person: jamie-dimon
+      role: board
+      note: Board of Directors
     - person: paul-warburg
       role: founder
       from: 1921
@@ -6167,6 +6642,8 @@ organizations:
       role: advisor
       from: 2015
       note: Global Board of Advisors
+    - person: ajay-banga
+      role: member
     - person: jes-staley
       role: member
     - person: lynn-forester-de-rothschild
@@ -6174,6 +6651,9 @@ organizations:
     - person: rajiv-shah
       role: member
       note: Member
+    - person: brian-moynihan
+      role: board
+      note: Board of Directors
     - person: conrad-black
       role: advisor
       note: International Advisory Board
@@ -6201,6 +6681,17 @@ organizations:
       role: member
     - person: eric-schmidt
       role: member
+    - person: david-solomon
+      role: member
+    - person: jamie-gorelick
+      role: member
+    - person: indra-nooyi
+      role: member
+    - person: robert-kimmitt
+      role: member
+      note: Member
+    - person: margaret-hamburg
+      role: board
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -6647,6 +7138,10 @@ organizations:
       from: 1948
       to: 1960
       note: Aided escape, used via Gehlen network
+    - person: john-ratcliffe
+      role: executive
+      from: 2025
+      note: Director
     - org: oss
       role: predecessor
       from: 1942
@@ -6773,6 +7268,13 @@ organizations:
       from: 1977
       to: 1985
       note: Corporate banking London/Helsinki
+    - person: mark-mason
+      role: executive
+      note: CFO
+    - person: michael-miebach
+      role: executive
+      to: 2010
+      note: 13 years, Germany/Austria/UK/Turkey
     - org: kuwait-investment-authority
       role: shareholder
       share: $3B
@@ -6801,6 +7303,17 @@ organizations:
       share: 81%
       from: 2013
       note: Via Newton Investment and Development LLC
+  clarium-capital:
+    name: Clarium Capital
+    type: company
+    status: active
+    sector: hedge-fund
+    note: Peter Thiel hedge fund
+    stakeholders:
+    - person: stephen-cohen-palantir
+      role: member
+      from: 2003
+      to: 2005
   clayton-dubilier-rice:
     name: Clayton Dubilier & Rice
     type: privateequity
@@ -6810,6 +7323,10 @@ organizations:
     - person: helge-lund
       role: advisor
       note: Operating Advisor
+    - person: sandra-peterson
+      role: partner
+      from: 2019
+      note: Operating Partner
   clearlake-capital:
     name: Clearlake Capital Group
     type: privateequity
@@ -6931,6 +7448,8 @@ organizations:
       role: member
     - person: gordon-brown
       role: member
+    - person: carl-bildt
+      role: member
   club-of-rome:
     name: Club of Rome
     type: forum
@@ -6939,6 +7458,11 @@ organizations:
     status: active
     sector: sustainability
     stakeholders:
+    - person: mikhail-gorbachev
+      role: member
+      note: Honorary member
+    - person: andre-hoffmann
+      role: member
     - person: queen-beatrix
       role: honorary-member
     - person: philippe-belgium
@@ -6951,9 +7475,10 @@ organizations:
       to: 1984
       note: Co-fondatore e primo Presidente
     - person: alexander-king
-      role: founder
-      from: 1968
-      note: Co-fondatore
+      role: chairman
+      from: 1984
+      to: 1990
+      note: Presidente (dopo Peccei)
     - person: mark-eyskens
       role: member
       from: 1972
@@ -6969,6 +7494,21 @@ organizations:
     - person: rudolf-scholten
       role: board
       note: Board member
+    - person: hassan-bin-talal
+      role: chairman
+      from: 1999
+      to: 2007
+      note: Presidente
+    - person: ashok-khosla
+      role: chairman
+      from: 2005
+      to: 2012
+      note: Co-Presidente
+    - person: mamphela-ramphele
+      role: chairman
+      from: 2018
+      to: 2023
+      note: Co-Presidente
   cma-cgm:
     name: CMA CGM
     type: company
@@ -7424,6 +7964,17 @@ organizations:
       from: 1952
       to: 2022
       note: Head of the Commonwealth
+  commonwealth-fund:
+    name: Commonwealth Fund
+    type: foundation
+    founded: 1918
+    headquarters: New York, USA
+    status: active
+    sector: health policy
+    stakeholders:
+    - person: margaret-hamburg
+      role: chairman
+      note: Board Chair
   compagnia-san-paolo:
     name: Compagnia di San Paolo
     type: foundation
@@ -7569,6 +8120,16 @@ organizations:
       from: 1923
       to: 1924
       note: Direttore e AD
+  council-americas:
+    name: Council of the Americas
+    type: forum
+    founded: 1965
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: david-rockefeller
+      role: founder
+      note: Founder
   council-foreign-relations:
     name: Council on Foreign Relations
     type: thinktank
@@ -7632,6 +8193,12 @@ organizations:
       role: steering
       from: 2020
       note: Guardian - Temasek Chairman
+    - person: alfred-kelly
+      role: steering
+      note: Guardian
+    - person: michael-miebach
+      role: steering
+      note: Guardian
   council-of-europe:
     name: Council of Europe
     type: agency
@@ -7658,6 +8225,18 @@ organizations:
       from: 1953
       to: 1956
       note: Primo Rappresentante Permanente Italia
+  coursera:
+    name: Coursera
+    type: company
+    founded: 2012
+    headquarters: Mountain View, California, USA
+    status: active
+    sector: edtech
+    stakeholders:
+    - person: andrew-ng
+      role: founder
+      from: 2012
+      note: Co-founder, Chairman
   covestro:
     name: Covestro AG
     type: company
@@ -7872,6 +8451,10 @@ organizations:
     - person: andreas-dracopoulos
       role: board
       note: Trustee, Dracopoulos iDeas Lab founder
+    - person: margaret-hamburg
+      role: member
+      from: 2017
+      note: Commission on Strengthening Americas Health Security
   csr-europe:
     name: CSR Europe
     type: forum
@@ -8148,6 +8731,17 @@ organizations:
     headquarters: Arlington, Virginia, USA
     status: active
     sector: law-enforcement
+  deeplearning-ai:
+    name: DeepLearning.AI
+    type: company
+    founded: 2017
+    status: active
+    sector: AI, education
+    stakeholders:
+    - person: andrew-ng
+      role: founder
+      from: 2017
+      note: Founder
   degesch:
     type: company
     status: defunct
@@ -8705,6 +9299,18 @@ organizations:
     - person: ferit-sahenk
       role: chairman
       from: 2001
+  doordash:
+    name: DoorDash
+    type: company
+    founded: 2013
+    headquarters: San Francisco, USA
+    status: active
+    sector: food delivery
+    stakeholders:
+    - person: tony-xu
+      role: founder
+      from: 2013
+      note: Co-founder & CEO
   dow:
     type: company
     headquarters: Midland, MI, USA
@@ -8725,6 +9331,34 @@ organizations:
       note: Board of Directors
     - org: news-corp
       share: 100%
+  dropbox:
+    name: Dropbox, Inc.
+    type: company
+    founded: 2007
+    headquarters: San Francisco, USA
+    status: active
+    sector: cloud storage
+    stakeholders:
+    - person: drew-houston
+      role: founder
+      from: 2007
+      note: Co-founder & CEO
+    - person: arash-ferdowsi
+      role: founder
+      from: 2007
+      note: Co-founder & CTO
+    - org: sequoia-capital
+      role: investor
+      from: 2007
+      note: Lead investor Series A
+    - org: y-combinator
+      role: investor
+      from: 2007
+      note: Seed investor W07
+    - org: accel-partners
+      role: investor
+      from: 2008
+      note: Early investor via Sameer Gandhi
   dsv:
     name: DSV A/S
     type: company
@@ -8746,6 +9380,14 @@ organizations:
     stakeholders:
     - org: volkswagen
       role: subsidiary
+  duke-university:
+    type: thinktank
+    headquarters: Durham NC, USA
+    status: active
+    stakeholders:
+    - person: david-rubenstein
+      role: chairman
+      note: Former Chairman Board of Trustees
   dupont:
     name: DuPont
     type: company
@@ -8788,6 +9430,45 @@ organizations:
       role: chairman
       from: 2012
       note: President
+  earth-charter-international:
+    name: Earth Charter International
+    type: foundation
+    founded: 2000
+    headquarters: San Jose, Costa Rica
+    status: active
+    sector: sustainability
+    stakeholders:
+    - person: mikhail-gorbachev
+      role: chairman
+      from: 1994
+      note: Co-Chair Earth Charter Commission
+    - person: maurice-strong
+      role: chairman
+      from: 1994
+      to: 2015
+      note: Co-Chair Earth Charter Commission
+    - person: steven-rockefeller
+      role: chairman
+      from: 1997
+      to: 2000
+      note: Chair Earth Charter Drafting Committee
+    - person: ruud-lubbers
+      role: member
+      from: 1997
+      to: 2018
+      note: Commissioner
+    - person: federico-mayor
+      role: member
+      from: 1997
+      note: Commissioner
+    - person: leonardo-boff
+      role: member
+      from: 1997
+      note: Commissioner
+    - org: state-of-the-world-forum
+      role: founder
+      from: 2000
+      note: Earth Charter lanciata dal Forum
   eastern-seaboard:
     name: Eastern Seaboard Development Program
     type: agency
@@ -8805,6 +9486,18 @@ organizations:
       role: supervisione
       from: 1982
       note: Programma governativo
+  ebay:
+    name: eBay Inc.
+    type: company
+    founded: 1995
+    headquarters: San Jose, California, USA
+    status: active
+    stakeholders:
+    - person: marc-andreessen
+      role: board
+      from: 2008
+      to: 2014
+      note: Director
   ebrd:
     name: European Bank for Reconstruction and Development
     type: bank
@@ -8998,6 +9691,9 @@ organizations:
       note: Council Member
     - person: hanzade-dogan-boyner
       role: member
+    - person: carl-bildt
+      role: chairman
+      note: Co-Chair
   echo-moscow:
     name: Echo of Moscow (Ekho Moskvy)
     type: media
@@ -9286,13 +9982,27 @@ organizations:
     headquarters: Rio de Janeiro, Brazil
     sector: Utilities
   eli-lilly:
-    name: Eli Lilly
-    type: company
+    name: Eli Lilly and Company
+    type: pharma
     founded: 1876
-    headquarters: Indianapolis
+    headquarters: Indianapolis, Indiana, USA
     status: active
     sector: healthcare
     stakeholders:
+    - person: david-ricks
+      role: executive
+      from: 2017
+      note: Chairman & CEO
+    - person: juan-luciano
+      role: board
+      from: 2016
+      note: Lead Independent Director (2019-)
+    - person: william-kaelin
+      role: board
+      note: Board Director; Nobel Prize Medicine 2019
+    - person: jon-moeller
+      role: board
+      note: Board Director; CEO P&G
     - org: blackrock
       role: stake
       share: 0.074
@@ -9472,6 +10182,10 @@ organizations:
     stakeholders:
     - person: raphael-schoentgen
       role: executive
+    - person: catherine-macgregor
+      role: executive
+      from: 2021
+      note: CEO
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -9598,6 +10312,16 @@ organizations:
     - person: jemilah-mahmood
       role: board
       note: Board member
+  epfl:
+    name: Ecole Polytechnique Federale de Lausanne
+    type: university
+    founded: 1853
+    headquarters: Lausanne, Switzerland
+    status: active
+    stakeholders:
+    - person: ernesto-bertarelli
+      role: advisor
+      note: Strategic Advisory Board
   epic-games:
     name: Epic Games
     type: company
@@ -9626,7 +10350,7 @@ organizations:
     - person: roberta-metsola
       role: member
   eqt:
-    name: EQT AB
+    name: EQT
     type: privateequity
     founded: 1994
     headquarters: Stockholm, Sweden
@@ -9656,6 +10380,9 @@ organizations:
       role: chairman
       from: 2022
       note: Chair EQT Asia, Chairman dal 2026 (founder Baring PE Asia)
+    - person: edith-cooper
+      role: board
+      note: Industrial Advisor
     - org: blackrock
       share: 2.5%
     - org: vanguard
@@ -9664,6 +10391,13 @@ organizations:
       role: shareholder
       share: 0.144
       note: Largest shareholder, Wallenberg family
+  equifax:
+    name: Equifax Inc.
+    type: company
+    founded: 1899
+    headquarters: Atlanta, USA
+    status: active
+    sector: data/credit
   equinor:
     name: Equinor ASA
     type: company
@@ -9744,6 +10478,8 @@ organizations:
       share: 3.7%
     - org: investor-ab
       role: major-shareholder
+    - org: investor-ab
+      role: major shareholder
   erste-foundation:
     name: ERSTE Foundation
     type: foundation
@@ -9910,6 +10646,16 @@ organizations:
       role: founder
       from: 2002
       to: 2005
+  etsy:
+    name: Etsy
+    type: company
+    status: active
+    stakeholders:
+    - person: edith-cooper
+      role: board
+      from: 2018
+      to: 2021
+      note: Director
   eurasia-group:
     name: Eurasia Group
     type: company
@@ -10393,20 +11139,37 @@ organizations:
       role: shareholder
       note: Via Buttonwood Investment (majority)
   exor:
-    name: EXOR
+    name: Exor N.V.
     type: company
-    headquarters: Amsterdam
+    founded: 1927
+    headquarters: Amsterdam, Netherlands
     status: active
+    sector: investment holding
     stakeholders:
     - person: john-elkann
-      role: chairman
-      from: 2010
+      role: executive
+      from: 2009
+      note: CEO
     - person: john-elkann
-      role: ceo
-      from: 2010
+      role: executive
+      from: 2009
+      note: CEO
     - org: vanguard
       role: shareholder
       share: 3.05
+  experian:
+    name: Experian plc
+    type: company
+    founded: 1996
+    headquarters: Dublin, Ireland
+    status: active
+    sector: data/credit
+    stakeholders:
+    - person: charlotte-hogg
+      role: executive
+      from: 2008
+      to: 2011
+      note: Managing Director UK & Ireland
   exxon:
     name: Exxon
     type: company
@@ -10441,6 +11204,10 @@ organizations:
     headquarters: Irving, Texas, USA
     status: active
     stakeholders:
+    - person: dina-powell
+      role: board
+      from: 2023
+      note: Director
     - person: rex-tillerson
       role: executive
       from: 2006
@@ -10501,6 +11268,19 @@ organizations:
     - org: silver-lake
       role: investor
       note: Sports commerce platform
+  fannie-mae:
+    name: Fannie Mae
+    type: company
+    founded: 1938
+    headquarters: Washington DC, USA
+    status: active
+    sector: finance, mortgage
+    stakeholders:
+    - person: jamie-gorelick
+      role: executive
+      from: 1997
+      to: 2003
+      note: Vice Chairman
   fast-retailing:
     name: Fast Retailing Co., Ltd.
     type: company
@@ -10607,7 +11387,7 @@ organizations:
       role: executive
       from: 2017
       to: 2019
-      note: FDA Commissioner
+      note: 23rd Commissioner
     - person: mark-mcclellan
       role: executive
       from: 2002
@@ -10623,6 +11403,11 @@ organizations:
       from: 1999
       to: 2001
       note: Commissioner (first female)
+    - person: margaret-hamburg
+      role: executive
+      from: 2009
+      to: 2015
+      note: 21st Commissioner
   febraban:
     name: Federacao Brasileira de Bancos
     type: company
@@ -10662,6 +11447,11 @@ organizations:
     - person: raghuram-rajan
       role: advisor
       note: NY Fed President Advisory Board
+    - person: benjamin-strong
+      role: executive
+      from: 1914
+      to: 1928
+      note: First Governor of Federal Reserve Bank of New York
     - org: jpmorgan-chase
       role: partner
     - org: bis
@@ -10792,6 +11582,11 @@ organizations:
       from: 1976
       to: 1976
       note: CEO (100 giorni)
+    - person: aurelio-peccei
+      role: executive
+      from: 1935
+      to: 1958
+      note: Manager, fondò filiale Argentina (1953)
     - person: gian-maria-gros-pietro
       role: board
       from: 2005
@@ -11093,6 +11888,9 @@ organizations:
       role: founder
       from: 2000
       note: Founder and CEO
+    - person: michael-rosenblatt
+      role: advisor
+      note: Senior Adviser
   fleetboston:
     name: FleetBoston Financial
     type: bank
@@ -11351,6 +12149,17 @@ organizations:
       role: chairman
       from: 2007
       to: 2013
+  fred-hutch:
+    name: Fred Hutchinson Cancer Center
+    type: foundation
+    founded: 1975
+    headquarters: Seattle, USA
+    status: active
+    stakeholders:
+    - person: satya-nadella
+      role: board
+      from: 2016
+      note: Board of Trustees
   free-iliad:
     name: Iliad/Free
     type: company
@@ -11788,6 +12597,9 @@ organizations:
       from: 2001
       to: 2009
       note: Director Agricultural Development, Chief Economist
+    - person: margaret-hamburg
+      role: advisor
+      note: Global Health Scientific Advisory Committee
   gavi:
     name: GAVI, the Vaccine Alliance
     type: agency
@@ -11811,6 +12623,9 @@ organizations:
       from: 2011
       to: 2023
       note: CEO
+    - person: margaret-hamburg
+      role: board
+      note: Former board member
     - org: gates-foundation
       role: funder
       from: 2000
@@ -12054,6 +12869,13 @@ organizations:
     headquarters: South San Francisco, USA
     status: active
     stakeholders:
+    - person: arthur-levinson
+      role: executive
+      from: 1995
+      to: 2009
+      note: CEO 1995-2009, Chairman 1999-2014
+    - person: andre-hoffmann
+      role: board
     - person: severin-schwan
       role: chairman
       from: 2015
@@ -12100,6 +12922,9 @@ organizations:
       from: 2022
       to: 2023
       note: Vice Chairman
+    - person: julius-genachowski
+      role: advisor
+      note: Special Advisor
   generali:
     name: Assicurazioni Generali
     type: company
@@ -12237,6 +13062,17 @@ organizations:
     - person: lee-hsien-loong
       role: chairman
       from: 2011
+  gilead:
+    name: Gilead Sciences
+    type: pharma
+    founded: 1987
+    headquarters: Foster City, California, USA
+    status: active
+    stakeholders:
+    - person: daniel-oday
+      role: executive
+      from: 2019
+      note: Chairman & CEO
   gillette:
     name: Gillette
     type: company
@@ -12384,6 +13220,16 @@ organizations:
     - org: snam
       share: 100
       note: Full ownership
+  goethe-university:
+    name: Goethe University Frankfurt
+    headquarters: Frankfurt, Germany
+    status: active
+    stakeholders:
+    - person: alex-karp
+      role: member
+      from: 1992
+      to: 2002
+      note: Ph.D. Philosophy, studied under Habermas
   gold-fields:
     name: Gold Fields of South Africa
     type: company
@@ -12503,6 +13349,11 @@ organizations:
       from: 1988
       to: 2000
       note: Partner (1994), Chairman Germany
+    - person: dina-powell
+      role: partner
+      from: 2007
+      to: 2023
+      note: Partner, Global Head Sovereign Wealth Funds
     - person: victor-halberstadt
       role: advisor
       from: 1991
@@ -12530,6 +13381,15 @@ organizations:
       role: chairman
       from: 2016
       note: Chairman Goldman Sachs International
+    - person: david-solomon
+      role: executive
+      from: 2018
+      note: CEO
+    - person: edith-cooper
+      role: executive
+      from: 1996
+      to: 2017
+      note: EVP Global Head Human Capital Management
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -12548,10 +13408,10 @@ organizations:
       from: 2017
       note: $2.5B fund partnership
   google:
-    name: Google
+    name: Google LLC
     type: company
     founded: 1998
-    headquarters: Mountain View, USA
+    headquarters: Mountain View, California, USA
     status: active
     sector: tech
     stakeholders:
@@ -12570,11 +13430,42 @@ organizations:
       from: 2001
       to: 2011
       note: CEO
+    - person: sundar-pichai
+      role: executive
+      from: 2015
+      note: CEO Google, CEO Alphabet (2019)
+    - org: alphabet
+      share: 100
+      note: Wholly owned subsidiary since 2015
+    - org: sequoia-capital
+      from: 1999
+      note: Series A with Kleiner Perkins
   google-ventures:
     name: Google Ventures
     stakeholders:
     - person: tom-hulme
       role: partner
+  gorbachev-foundation:
+    name: Gorbachev Foundation
+    type: foundation
+    founded: 1991
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: mikhail-gorbachev
+      role: founder
+      from: 1991
+      to: 2022
+    - person: alan-cranston
+      role: chairman
+      from: 1996
+      to: 2000
+      note: Chairman Gorbachev Foundation USA
+    - person: jim-garrison
+      role: executive
+      from: 1992
+      to: 1995
+      note: Co-founder & President Gorbachev Foundation USA
   goto:
     name: GoTo Group (PT GoTo Gojek Tokopedia Tbk)
     type: company
@@ -13679,6 +14570,18 @@ organizations:
       note: Exec. Dir. PM Commission on Japan Goals 21st Century (Obuchi)
     - person: william-saito
       role: advisor
+  governo-giordania:
+    name: Regno Hashemita di Giordania
+    type: government
+    founded: 1946
+    headquarters: Amman, Jordan
+    status: active
+    stakeholders:
+    - person: hassan-bin-talal
+      role: leader
+      from: 1965
+      to: 1999
+      note: Crown Prince
   governo-grecia:
     name: Governo Grecia
     type: government
@@ -13823,19 +14726,43 @@ organizations:
       note: Finance Minister, membro IMFC rappresenta India a IMF/World Bank
     - person: manmohan-singh
       role: leader
-      from: 1991
+      from: 2004
       to: 2014
-      note: Finance Minister 1991-96 (riforme), Prime Minister 2004-14
+      note: Prime Minister
     - person: jawaharlal-nehru
       role: leader
       from: 1947
       to: 1964
-      note: Primo Prime Minister, padre della nazione moderna
+      note: Prime Minister
     - person: indira-gandhi
       role: leader
       from: 1966
       to: 1984
-      note: Prime Minister 1966-77, 1980-84. Emergency, assassinata
+      note: Prime Minister (1966-77, 1980-84)
+    - person: ashok-khosla
+      role: executive
+      from: 1972
+      to: 1976
+      note: Director, Office of Environmental Planning and Coordination (OEPC)
+    - person: sonia-gandhi
+      role: legislator
+      from: 1999
+      note: Member of Parliament, Rae Bareli
+    - person: rajiv-gandhi
+      role: leader
+      from: 1984
+      to: 1989
+      note: Prime Minister
+    - person: pv-narasimha-rao
+      role: leader
+      from: 1991
+      to: 1996
+      note: Prime Minister
+    - person: lal-bahadur-shastri
+      role: leader
+      from: 1964
+      to: 1966
+      note: Prime Minister
   governo-indonesia:
     name: Repubblica di Indonesia
     type: government
@@ -15057,6 +15984,25 @@ organizations:
       from: 2014
       to: 2021
       note: Minister of Finance
+    - person: carl-bildt
+      role: leader
+      from: 1991
+      to: 1994
+      note: primo ministro
+    - person: carl-bildt
+      role: minister
+      from: 2006
+      to: 2014
+      note: ministro esteri
+    - person: ulf-kristersson
+      role: leader
+      from: 2022
+      note: primo ministro
+    - person: erik-thedeen
+      role: advisor
+      from: 2000
+      to: 2003
+      note: State Secretary Ministry of Finance
   governo-thailandia:
     name: Regno di Thailandia
     type: government
@@ -15298,6 +16244,11 @@ organizations:
       from: 1890
       to: 1896
       note: Prime Minister Cape Colony
+    - person: alexander-king
+      role: advisor
+      from: 1940
+      to: 1957
+      note: Civil Service - Ministry of Production, Scientific Secretariat
     - person: john-major
       role: leader
       from: 1990
@@ -15504,11 +16455,17 @@ organizations:
       from: 1985
       to: 1991
   governo-usa:
-    name: Governo USA
+    name: Federal Government of the United States
     type: government
-    headquarters: Washington
+    founded: 1789
+    headquarters: Washington D.C., USA
     status: active
     stakeholders:
+    - person: elon-musk
+      role: advisor
+      from: 2025
+      to: 2025
+      note: Senior Advisor, DOGE co-lead
     - person: pete-buttigieg
       role: minister
       from: 2021
@@ -15535,6 +16492,11 @@ organizations:
       role: leader
       from: 2021
       to: 2025
+    - person: david-rubenstein
+      role: advisor
+      from: 1977
+      to: 1981
+      note: Deputy Assistant to the President for Domestic Policy (Carter)
     - person: daniel-ellsberg
       role: advisor
       from: 1964
@@ -15684,6 +16646,11 @@ organizations:
       from: 1968
       to: 1973
       note: Ambassador to USA
+    - person: dina-powell
+      role: advisor
+      from: 2017
+      to: 2018
+      note: Deputy National Security Advisor
     - person: lynn-forester-de-rothschild
       role: advisor
       from: 1993
@@ -15723,6 +16690,99 @@ organizations:
       from: 1942
       to: 1947
       note: Chief, International Security Affairs
+    - person: jd-vance
+      role: leader
+      from: 2025
+      note: Vice President
+    - person: marco-rubio
+      role: minister
+      from: 2025
+      note: Secretary of State
+    - person: scott-bessent
+      role: minister
+      from: 2025
+      note: Secretary of the Treasury
+    - person: peter-hegseth
+      role: minister
+      from: 2025
+      note: Secretary of Defense
+    - person: robert-kennedy-jr
+      role: minister
+      from: 2025
+      note: Secretary of Health and Human Services
+    - person: linda-mcmahon
+      role: minister
+      from: 2025
+      note: Secretary of Education
+    - person: howard-lutnick
+      role: minister
+      from: 2025
+      note: Secretary of Commerce
+    - person: kristi-noem
+      role: minister
+      from: 2025
+      note: Secretary of Homeland Security
+    - person: susie-wiles
+      role: advisor
+      from: 2025
+      note: White House Chief of Staff
+    - person: john-ratcliffe
+      role: executive
+      from: 2025
+      note: CIA Director
+    - person: elise-stefanik
+      role: ambassador
+      from: 2025
+      note: UN Ambassador
+    - person: jamie-gorelick
+      role: minister
+      from: 1994
+      to: 1997
+      note: Deputy Attorney General
+    - person: marc-andreessen
+      role: advisor
+      from: 2024
+      note: Informal advisor to Trump administration, DOGE recruitment
+    - person: robert-kimmitt
+      role: minister
+      from: 2005
+      to: 2009
+      note: Deputy Secretary of Treasury
+    - person: robert-kimmitt
+      role: advisor
+      from: 1991
+      to: 1993
+      note: Ambassador to Germany
+    - person: robert-kimmitt
+      role: advisor
+      from: 2017
+      to: 2021
+      note: Chairman CIA External Advisory Board
+    - person: robert-kimmitt
+      role: minister
+      from: 1989
+      to: 1991
+      note: Under Secretary of State for Political Affairs
+    - person: robert-kimmitt
+      role: executive
+      from: 1985
+      to: 1987
+      note: General Counsel Treasury
+    - person: robert-kimmitt
+      role: advisor
+      from: 1983
+      to: 1985
+      note: NSC Executive Secretary and General Counsel
+    - person: john-doerr
+      role: advisor
+      from: 2009
+      to: 2011
+      note: Obama Economic Recovery Advisory Board, Council on Jobs
+    - person: julius-genachowski
+      role: executive
+      from: 2009
+      to: 2013
+      note: FCC Chairman
   govtech-singapore:
     name: Government Technology Agency
     type: agency
@@ -15792,6 +16852,16 @@ organizations:
       role: control
       share: 72%
       from: 1969
+  green-cross-international:
+    name: Green Cross International
+    type: foundation
+    founded: 1993
+    headquarters: Geneva, Switzerland
+    status: active
+    stakeholders:
+    - person: mikhail-gorbachev
+      role: founder
+      from: 1993
   greensill:
     type: company
     founded: 2011
@@ -16275,16 +17345,38 @@ organizations:
       from: 1991
       to: 1993
       note: MBA 1993; Alumni Achievement Award 2012
+    - person: ernesto-bertarelli
+      role: board
+      note: Board of Deans Advisors; MBA 1993
   harvard-medical-school:
     name: Harvard Medical School
-    type: thinktank
+    type: university
     founded: 1782
-    headquarters: Boston, USA
+    headquarters: Boston, Massachusetts, USA
     status: active
     stakeholders:
     - person: vas-narasimhan
       role: board
       note: Board of Fellows
+    - person: george-daley
+      role: executive
+      from: 2017
+      note: Dean Faculty of Medicine
+    - person: ernesto-bertarelli
+      role: chairman
+      note: Chairman Board of Fellows
+    - person: jeffrey-flier
+      role: executive
+      from: 2007
+      to: 2016
+      note: Dean Faculty of Medicine
+    - person: michael-rosenblatt
+      role: board
+      from: 2025
+      note: Harvard Board 2025; MD 1973
+    - person: william-kaelin
+      role: member
+      note: Professor of Medicine
   harvard-university:
     name: Harvard University
     type: university
@@ -16324,6 +17416,16 @@ organizations:
       share: 31.5%
       from: 2024
       note: Post Vivendi spin-off
+  haverford-college:
+    name: Haverford College
+    headquarters: Haverford, Pennsylvania, USA
+    status: active
+    stakeholders:
+    - person: alex-karp
+      role: member
+      from: 1985
+      to: 1989
+      note: B.A. Philosophy
   hbo:
     name: HBO
     type: media
@@ -16623,6 +17725,19 @@ organizations:
     founded: 1947
     headquarters: Stockholm, Sweden
     stakeholders:
+    - person: stefan-persson
+      role: chairman
+      from: 1982
+      to: 2020
+    - person: karl-johan-persson
+      role: chairman
+      from: 2020
+    - person: erling-persson
+      role: founder
+      from: 1947
+    - person: helena-helmersson
+      role: executive
+      from: 2020
     - org: blackrock
       share: 2.0%
     - org: vanguard
@@ -16670,6 +17785,16 @@ organizations:
       share: 5.0%
     - org: vanguard
       share: 6.0%
+  honeywell:
+    name: Honeywell International Inc.
+    type: company
+    headquarters: Charlotte, North Carolina, USA
+    status: active
+    stakeholders:
+    - person: indra-nooyi
+      role: board
+      from: 2026
+      note: Independent Director
   hongkong-land:
     name: Hongkong Land Holdings Limited
     type: company
@@ -16722,6 +17847,18 @@ organizations:
     - person: vernon-jordan
       role: board
       note: Trustee
+  hpe:
+    name: Hewlett Packard Enterprise
+    type: company
+    founded: 2015
+    headquarters: Spring, Texas, USA
+    status: active
+    stakeholders:
+    - person: marc-andreessen
+      role: board
+      from: 2015
+      to: 2018
+      note: Director
   hsbc:
     name: HSBC Holdings
     type: bank
@@ -17005,6 +18142,9 @@ organizations:
     - person: thomas-buberl
       role: board
       note: Director
+    - person: michael-miebach
+      role: board
+      from: 2023
   ibra:
     name: Indonesian Bank Restructuring Agency
     type: agency
@@ -17054,6 +18194,11 @@ organizations:
       role: chairman
       from: 2020
       to: 2022
+    - person: indra-nooyi
+      role: board
+      from: 2018
+      to: 2024
+      note: First independent female director
   icici-bank:
     name: ICICI Bank
     type: bank
@@ -17122,6 +18267,18 @@ organizations:
       from: 1948
       to: 1968
       note: Chief of Staff 1964-68
+  idsa:
+    name: Institute for Defence Studies and Analyses
+    type: thinktank
+    founded: 1965
+    headquarters: New Delhi, India
+    status: active
+    stakeholders:
+    - person: k-subrahmanyam
+      role: executive
+      from: 1965
+      to: 1987
+      note: Founding Director
   ifad:
     name: International Fund for Agricultural Development
     type: agency
@@ -17146,6 +18303,9 @@ organizations:
     headquarters: Geneva, Switzerland
     status: active
     stakeholders:
+    - person: albert-bourla
+      role: chairman
+      note: Former President
     - person: severin-schwan
       role: executive
       from: 2016
@@ -17244,6 +18404,19 @@ organizations:
       from: 2003
       to: 2022
       note: Founder Markit 2003; Chairman & CEO IHS Markit 2016-2022
+  iiasa:
+    name: International Institute for Applied Systems Analysis
+    type: thinktank
+    founded: 1972
+    headquarters: Laxenburg, Austria
+    status: active
+    sector: systems-analysis
+    stakeholders:
+    - person: aurelio-peccei
+      role: founder
+      from: 1972
+      to: 1984
+      note: Co-fondatore
   iim-ahmedabad:
     type: thinktank
     founded: 1961
@@ -17292,6 +18465,17 @@ organizations:
       from: 1965
       to: 1975
       note: Council member
+  ikea:
+    name: IKEA
+    type: company
+    founded: 1943
+    headquarters: Delft, Netherlands
+    status: attiva
+    sector: retail-arredamento
+    stakeholders:
+    - person: ingvar-kamprad
+      role: founder
+      from: 1943
   il-gazzettino:
     name: Il Gazzettino
     type: media
@@ -17389,16 +18573,21 @@ organizations:
       from: 2018
       note: Fondatore e CEO
   illumina:
-    name: Illumina
+    name: Illumina Inc.
     type: company
-    headquarters: San Diego, USA
+    founded: 1998
+    headquarters: San Diego, California, USA
     status: active
-    sector: genomics
+    sector: biotech
     stakeholders:
     - person: david-cameron
       role: advisor
       from: 2018
       note: Vice Chairman International Advisory Board
+    - person: scott-gottlieb
+      role: chairman
+      from: 2020
+      note: Board 2020, Chairman current
   imf:
     name: International Monetary Fund
     type: agency
@@ -17449,6 +18638,15 @@ organizations:
       note: Rappresentante Giappone come Min. Finanze
     - person: rania-mashat
       role: economist
+    - person: erik-thedeen
+      role: member
+      from: 2023
+      note: Sweden Governor
+    - person: stefan-ingves
+      role: executive
+      from: 1999
+      to: 2005
+      note: Director Monetary & Financial Systems Dept
   impresa:
     name: Impresa
     type: media
@@ -17462,6 +18660,28 @@ organizations:
       from: 1972
       to: 2025
       note: Founder, CEO, Chairman
+  in-q-tel:
+    name: In-Q-Tel
+    type: company
+    founded: 1999
+    headquarters: Arlington, Virginia, USA
+    status: active
+    sector: venture-capital
+    stakeholders:
+    - person: gilman-louie
+      role: executive
+      from: 1999
+      to: 2006
+      note: First CEO
+    - person: christopher-darby
+      role: executive
+      from: 2006
+      to: 2023
+      note: CEO
+    - org: cia
+      role: founder
+      from: 1999
+      note: CIA venture capital arm
   ina:
     name: INA (Istituto Nazionale Assicurazioni)
     type: company
@@ -17518,6 +18738,55 @@ organizations:
       role: board
       from: 2000
       note: Non-executive director
+  indian-national-congress:
+    name: Indian National Congress
+    founded: 1885
+    headquarters: New Delhi, India
+    status: active
+    sector: politics
+    stakeholders:
+    - person: jawaharlal-nehru
+      role: executive
+      from: 1929
+      to: 1964
+      note: President
+    - person: indira-gandhi
+      role: executive
+      from: 1959
+      to: 1984
+      note: President
+    - person: sonia-gandhi
+      role: executive
+      from: 1998
+      to: 2022
+      note: President (1998-2017, 2019-2022)
+    - person: rajiv-gandhi
+      role: executive
+      from: 1983
+      to: 1991
+      note: President
+    - person: rahul-gandhi
+      role: executive
+      from: 2022
+      note: President
+    - person: mallikarjun-kharge
+      role: executive
+      from: 2022
+      note: President
+    - person: pv-narasimha-rao
+      role: executive
+      from: 1991
+      to: 1996
+      note: President
+    - person: lal-bahadur-shastri
+      role: member
+      from: 1920
+      to: 1966
+    - person: mahatma-gandhi
+      role: member
+      from: 1920
+      to: 1948
+      note: Leader movimento indipendenza
   inditex:
     name: Inditex
     type: company
@@ -17618,6 +18887,17 @@ organizations:
       from: 2015
       to: 2017
       note: GM Industrial Microcontroller Division
+  inflection-ai:
+    name: Inflection AI
+    type: company
+    founded: 2022
+    headquarters: Palo Alto, USA
+    status: active
+    stakeholders:
+    - person: reid-hoffman
+      role: founder
+      from: 2022
+      note: Co-founder with Mustafa Suleyman
   infortar:
     name: Infortar
     type: company
@@ -17702,6 +18982,29 @@ organizations:
     name: ING Bank Śląski S.A.
     type: bank
     headquarters: Katowice, Poland
+  inovalon:
+    name: Inovalon Holdings
+    type: company
+    founded: 1998
+    headquarters: Bowie, Maryland, USA
+    status: active
+    sector: healthcare-data
+    stakeholders:
+    - person: andre-hoffmann
+      role: board
+      note: Early investor, non-executive director
+  insead:
+    name: INSEAD
+    type: company
+    founded: 1957
+    headquarters: Fontainebleau, France
+    status: active
+    sector: education
+    stakeholders:
+    - person: andre-hoffmann
+      role: chairman
+      from: 2018
+      note: Hoffmann Global Institute Advisory Board
   insper:
     name: Insper Instituto de Ensino e Pesquisa
     type: university
@@ -17749,6 +19052,10 @@ organizations:
       from: 1986
       to: 2007
       note: Chair Board of Trustees (longest-serving)
+    - person: sandra-peterson
+      role: board
+      from: 2015
+      note: Trustee, Executive Committee
   institute-for-advanced-study:
     name: Institute for Advanced Study
     type: thinktank
@@ -17813,6 +19120,19 @@ organizations:
     founded: 1990
     headquarters: Sao Paulo, Brazil
     status: active
+  intel:
+    name: Intel Corporation
+    type: company
+    founded: 1968
+    headquarters: Santa Clara, California, USA
+    status: active
+    sector: semiconductors
+    stakeholders:
+    - person: diane-bryant
+      role: executive
+      from: 1985
+      to: 2017
+      note: Group President Data Center Group, former CIO
   inteli:
     name: Institute of Technology and Leadership
     type: university
@@ -17930,6 +19250,8 @@ organizations:
     - person: rajiv-shah
       role: board
       note: Board of Advisors
+    - person: indra-nooyi
+      role: board
   interros:
     name: Interros
     type: company
@@ -18221,6 +19543,19 @@ organizations:
     stakeholders:
     - person: anton-du-plessis
       role: executive
+  italconsult:
+    name: Italconsult
+    type: company
+    founded: 1958
+    headquarters: Rome, Italy
+    status: defunct
+    sector: consulting
+    stakeholders:
+    - person: aurelio-peccei
+      role: founder
+      from: 1958
+      to: 1984
+      note: Fondatore e Chairman
   italgas:
     name: Italgas
     type: company
@@ -18286,6 +19621,19 @@ organizations:
     headquarters: London, UK
     status: active
     sector: commercial broadcaster
+  iucn:
+    name: International Union for Conservation of Nature
+    type: agency
+    founded: 1948
+    headquarters: Gland, Switzerland
+    status: active
+    sector: environment
+    stakeholders:
+    - person: ashok-khosla
+      role: chairman
+      from: 2008
+      to: 2012
+      note: Presidente
   iupar:
     name: Iupar - Itau Unibanco Participacoes
     type: company
@@ -18578,6 +19926,14 @@ organizations:
     - person: morris-amitay
       role: leader
       from: 1981
+  johns-hopkins-medicine:
+    type: foundation
+    headquarters: Baltimore MD, USA
+    status: active
+    stakeholders:
+    - person: william-conway
+      role: chairman
+      note: Former Chairman Board of Trustees
   johns-hopkins-sais:
     name: Johns Hopkins SAIS
     type: university
@@ -18621,6 +19977,11 @@ organizations:
       from: 1961
       to: 2003
       note: After J&J acquisition
+    - person: sandra-peterson
+      role: executive
+      from: 2012
+      to: 2018
+      note: Group Worldwide Chairman
   jokerit:
     name: Jokerit Helsinki
     type: sportsclub
@@ -18654,6 +20015,16 @@ organizations:
     stakeholders:
     - org: joongang-group
       share: 100%
+  jp-morgan-co:
+    name: J.P. Morgan & Co.
+    type: bank
+    founded: 1871
+    status: defunct
+    note: Merged into JPMorgan Chase
+    stakeholders:
+    - person: henry-davison
+      role: partner
+      note: Senior Partner
   jpmorgan:
     name: JPMorgan
     type: bank
@@ -18715,6 +20086,16 @@ organizations:
       role: advisor
       from: 2008
       note: 2.5m-gbp-annual
+    - person: david-rockefeller
+      role: chairman
+      from: 1969
+      to: 1981
+      note: Chairman Chase Manhattan (pre-merger)
+    - person: ryan-mcinerney
+      role: executive
+      from: 2005
+      to: 2013
+      note: CEO Consumer Banking
     - org: norges-bank-gpfg
       role: stake
     - org: wef
@@ -18838,7 +20219,7 @@ organizations:
     name: John F. Kennedy Center for the Performing Arts
     type: foundation
     founded: 1971
-    headquarters: Washington D.C., USA
+    headquarters: Washington DC, USA
     status: active
     stakeholders:
     - person: james-wolfensohn
@@ -18846,6 +20227,9 @@ organizations:
       from: 1990
       to: 1996
       note: Chairman Emeritus
+    - person: david-rubenstein
+      role: chairman
+      note: Chairman (until 2026), largest individual donor ($111M)
   keppel:
     name: Keppel Ltd
     type: company
@@ -18908,6 +20292,19 @@ organizations:
     name: Keyence Corporation
     type: company
     headquarters: Osaka, Japan
+  keyhole:
+    name: Keyhole Inc.
+    type: company
+    founded: 2001
+    headquarters: Mountain View, California, USA
+    status: acquired
+    sector: mapping-software
+    note: Acquired by Google 2004, became Google Earth
+    stakeholders:
+    - org: in-q-tel
+      role: investor
+      from: 2003
+      to: 2004
   kgb:
     name: Komitet Gosudarstvennoy Bezopasnosti
     type: agency
@@ -18997,6 +20394,15 @@ organizations:
       role: chairman
       from: 2004
       to: 2007
+    - person: cristina-stenbeck
+      role: chairman
+      from: 2007
+      to: 2016
+    - person: jan-stenbeck
+      role: chairman
+      to: 2002
+    - person: hugo-stenbeck
+      role: founder
   kissinger-associates:
     name: Kissinger Associates
     type: company
@@ -19093,6 +20499,17 @@ organizations:
     - org: mubadala
       role: investor
       note: $1B co-investment Asia-Pacific 2022
+  kleiner-perkins:
+    name: Kleiner Perkins
+    type: privateequity
+    founded: 1972
+    headquarters: Menlo Park, California
+    status: active
+    stakeholders:
+    - person: john-doerr
+      role: chairman
+      from: 1980
+      note: Partner, later Chairman
   klm:
     name: KLM Royal Dutch Airlines
     type: company
@@ -19289,6 +20706,7 @@ organizations:
       role: partner
       from: 1902
       to: 1914
+      note: Partner, left to join Federal Reserve Board
     - person: felix-warburg
       role: partner
   kuhne-nagel:
@@ -19418,6 +20836,15 @@ organizations:
     name: Larsen & Toubro
     type: company
     headquarters: Mumbai, India
+  lasker-foundation:
+    name: Lasker Foundation
+    type: foundation
+    founded: 1942
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: margaret-hamburg
+      role: board
   latitude-capital:
     name: Latitude Capital
     type: privateequity
@@ -19786,11 +21213,12 @@ organizations:
     - person: julie-smolyansky
       role: executive
   lilly-endowment:
-    name: Lilly Endowment
+    name: Lilly Endowment Inc.
     type: foundation
     founded: 1937
-    headquarters: Indianapolis
+    headquarters: Indianapolis, Indiana, USA
     status: active
+    aum: 80 billion USD
     stakeholders:
     - org: eli-lilly
       role: stake
@@ -19806,6 +21234,17 @@ organizations:
     - person: tom-enders
       role: board
       note: Board member
+  linkedin:
+    name: LinkedIn
+    type: company
+    founded: 2002
+    headquarters: Sunnyvale, USA
+    status: acquired
+    stakeholders:
+    - person: reid-hoffman
+      role: founder
+      from: 2002
+      note: Co-founder, Executive Chairman
   liv-golf:
     name: LIV Golf
     type: company
@@ -20296,6 +21735,17 @@ organizations:
       from: 2013
       to: 2022
       note: CEO and General Manager
+  manas-ai:
+    name: Manas AI
+    type: company
+    founded: 2025
+    headquarters: USA
+    status: active
+    stakeholders:
+    - person: reid-hoffman
+      role: founder
+      from: 2025
+      note: Co-founder with Siddhartha Mukherjee
   manchester-city:
     name: Manchester City FC
     type: sportsclub
@@ -20376,15 +21826,43 @@ organizations:
     - person: john-harthorne
       role: founder
   mastercard:
+    name: Mastercard Inc.
     type: company
+    founded: 1966
     headquarters: Purchase, NY, USA
     status: active
+    sector: payments
     stakeholders:
+    - person: lance-uggla
+      role: board
     - person: ajay-banga
       role: executive
       from: 2010
       to: 2021
       note: CEO 2010-2020, Executive Chairman 2021
+    - person: michael-miebach
+      role: executive
+      from: 2010
+      note: President MEA 2010-16, CPO 2016-20, President 2020, CEO 2021-
+    - person: merit-janow
+      role: chairman
+      from: 2014
+      note: Board Chair, NCG Chair
+    - person: julius-genachowski
+      role: board
+      from: 2014
+      note: Audit Committee Chair
+    - person: richard-davis
+      role: board
+      note: HRCC Chair, ex-CEO US Bancorp
+    - org: blackrock
+      share: 6.8
+    - org: vanguard
+      share: 8.7
+      note: 78.1M shares
+    - org: state-street
+      share: 4.0
+      note: estimated
   mava-foundation:
     name: MAVA Foundation
     type: foundation
@@ -20449,6 +21927,15 @@ organizations:
     stakeholders:
     - person: lynn-forester-de-rothschild
       role: board
+  mci-communications:
+    type: company
+    status: defunct
+    stakeholders:
+    - person: william-conway
+      role: executive
+      from: 1981
+      to: 1987
+      note: SVP and CFO (1984-1987), VP Treasurer (1981-1984)
   mckinsey:
     name: McKinsey & Company
     type: company
@@ -20506,6 +21993,11 @@ organizations:
       from: 2006
       to: 2017
       note: Partner from 2013
+    - person: charlotte-hogg
+      role: advisor
+      from: 1994
+      to: 2001
+      note: Principal, Washington DC
     - person: helge-lund
       role: partner
       from: 1991
@@ -20548,6 +22040,11 @@ organizations:
       role: partner
     - person: ian-solomon
       role: consultant
+    - person: ryan-mcinerney
+      role: partner
+      from: 1997
+      to: 2005
+      note: Principal consultant
   media-most:
     name: Media-Most
     type: media
@@ -20671,6 +22168,16 @@ organizations:
     - org: edizione
       role: minority
       note: Shareholder
+  medley:
+    name: Medley
+    type: company
+    founded: 2020
+    status: active
+    stakeholders:
+    - person: edith-cooper
+      role: founder
+      from: 2020
+      note: Co-Founder (with daughter Jordan Taylor)
   medlife:
     name: MedLife S.A.
     type: company
@@ -20783,6 +22290,9 @@ organizations:
     - person: kathy-warden
       role: board
       from: 2020
+    - person: michael-rosenblatt
+      role: executive
+      note: EVP & Chief Medical Officer (former)
   merck-kgaa:
     name: Merck KGaA
     type: pharma
@@ -20831,12 +22341,24 @@ organizations:
     status: active
     sector: social media
     stakeholders:
+    - person: john-elkann
+      role: board
+      from: 2025
+      note: Director
     - person: mark-zuckerberg
       role: founder
       from: 2004
     - person: mark-zuckerberg
       role: executive
       from: 2004
+    - person: mark-zuckerberg
+      role: chairman
+      from: 2004
+      note: Founder, Chairman & CEO
+    - person: hock-tan
+      role: board
+      from: 2024
+      note: Appointed Feb 2024
     - person: nick-clegg
       role: executive
       from: 2018
@@ -20848,6 +22370,50 @@ organizations:
       from: 2019
       to: 2021
       note: Product manager, Civic Integrity team
+    - person: dina-powell
+      role: board
+      from: 2025
+      note: Director
+    - person: marc-andreessen
+      role: board
+      from: 2008
+      note: Director
+    - person: robert-kimmitt
+      role: board
+      from: 2020
+      note: Lead Independent Director
+    - person: patrick-collison
+      role: board
+      from: 2025
+      note: Director
+    - person: dana-white
+      role: board
+      from: 2025
+      note: Director
+    - person: charlie-songhurst
+      role: board
+      from: 2025
+      note: Director
+    - person: peggy-alford
+      role: board
+      from: 2019
+      note: Director
+    - person: drew-houston
+      role: board
+      from: 2020
+      note: Director
+    - person: nancy-killefer
+      role: board
+      note: Director
+    - person: tony-xu
+      role: board
+      note: Director
+    - person: tracey-travis
+      role: board
+      note: Director
+    - person: john-arnold
+      role: board
+      note: Director
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -21097,6 +22663,36 @@ organizations:
       role: former
     - person: danah-boyd
       role: researcher
+    - person: charlie-scharf
+      role: board
+      note: Board of Directors, CEO Wells Fargo
+    - person: hugh-johnston
+      role: board
+      note: Audit Committee Chair
+    - person: mark-mason
+      role: board
+      note: Board of Directors, CFO Citigroup
+    - person: john-stanton
+      role: board
+      note: Compensation Committee Chair
+    - person: catherine-macgregor
+      role: board
+      note: Board of Directors, CEO Engie
+    - person: john-rainey
+      role: board
+      from: 2025
+      note: Board of Directors (Dec 2025)
+    - person: teri-list-stoll
+      role: board
+      note: Audit Committee Chair
+    - person: sandra-peterson
+      role: board
+      from: 2015
+      note: Lead Independent Director (2023-), Board member (2015-)
+    - person: carolina-dybeck-happe
+      role: executive
+      from: 2024
+      note: COO
     - org: norges-bank-gpfg
       role: stake
       share: 0.011
@@ -21138,6 +22734,17 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 2.0%
+  millicom:
+    name: Millicom International Cellular
+    type: company
+    founded: 1990
+    headquarters: Luxembourg
+    status: attiva
+    sector: telecomunicazioni
+    stakeholders:
+    - person: cristina-stenbeck
+      role: chairman
+      from: 2014
   miramax:
     name: Miramax
     type: media
@@ -21293,12 +22900,15 @@ organizations:
     - org: vanguard
       share: 1.5%
   moma:
-    name: Museum of Modern Art (MoMA)
+    name: Museum of Modern Art
     type: foundation
     founded: 1929
     headquarters: New York, USA
     status: active
     stakeholders:
+    - person: david-rockefeller
+      role: chairman
+      note: Chairman Emeritus
     - person: henry-kravis
       role: board
       from: 1994
@@ -21311,6 +22921,9 @@ organizations:
       role: member
       from: 1997
       note: International Council
+    - person: edith-cooper
+      role: board
+      note: Board of Directors
   moncler:
     name: Moncler S.p.A.
     type: company
@@ -21344,6 +22957,11 @@ organizations:
       role: board
       from: 2013
       note: Lead Director since 2017
+    - person: charlotte-hogg
+      role: executive
+      from: 2001
+      to: 2008
+      note: Managing Director Strategy & Planning
     - person: colm-kelleher
       role: executive
       from: 1989
@@ -21595,6 +23213,16 @@ organizations:
       from: 1962
       to: 1964
       note: Georgia Field Director
+  naacp-ldf:
+    name: NAACP Legal Defense and Educational Fund
+    type: foundation
+    founded: 1940
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: vernon-jordan
+      role: board
+      note: Senior Director, nearly 30 years on board
   nafmii:
     name: NAFMII
     stakeholders:
@@ -21639,6 +23267,26 @@ organizations:
       share: 3.91%
     - org: vanguard
       share: 1.5%
+  national-city-bank:
+    name: National City Bank of New York
+    type: bank
+    founded: 1812
+    status: defunct
+    note: Became Citibank
+    stakeholders:
+    - person: frank-vanderlip
+      role: executive
+      from: 1909
+      to: 1919
+      note: President
+  national-gallery-of-art:
+    type: foundation
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: david-rubenstein
+      role: chairman
+      note: Chairman
   national-grid:
     name: National Grid plc
     type: company
@@ -21674,6 +23322,18 @@ organizations:
       role: founder
       from: 2008
       note: Co-founder
+  national-resilience:
+    name: National Resilience Inc.
+    type: company
+    founded: 2020
+    headquarters: San Diego, California, USA
+    status: active
+    sector: biopharma-manufacturing
+    stakeholders:
+    - person: scott-gottlieb
+      role: board
+      from: 2020
+      note: Original venture investor
   national-urban-league:
     name: National Urban League
     type: foundation
@@ -21813,6 +23473,8 @@ organizations:
     - person: jorge-paulo-lemann
       role: member
       note: Latin America Conservation Council
+    - person: margaret-hamburg
+      role: board
   naturgy:
     name: Naturgy Energy Group
     type: company
@@ -22015,6 +23677,28 @@ organizations:
       share: 56.89
       from: 2014
       note: Hostile takeover via Independent Media Trust
+  neuberger-berman:
+    name: Neuberger Berman
+    type: assetmanager
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: paul-nakasone
+      role: board
+      from: 2024
+      note: Mutual Funds Board
+  new-enterprise-associates:
+    name: New Enterprise Associates
+    type: privateequity
+    founded: 1977
+    headquarters: Chevy Chase, Maryland, USA
+    status: active
+    sector: venture-capital
+    stakeholders:
+    - person: scott-gottlieb
+      role: partner
+      from: 2007
+      note: Venture Partner 2007-2017, Special Partner 2019-present
   new-europe-college:
     name: New Europe College (NEC)
     type: thinktank
@@ -22191,6 +23875,13 @@ organizations:
       share: 100%
       from: 2019
       note: Acquired for $3.6B
+  nextel-communications:
+    type: company
+    status: defunct
+    stakeholders:
+    - person: william-conway
+      role: chairman
+      note: Chairman (Carlyle portfolio company)
   nhk:
     name: NHK (Japan Broadcasting Corporation)
     type: media
@@ -22708,6 +24399,20 @@ organizations:
       from: 2017
       to: 2017
       note: Contractor via Pluribus International, Fort Gordon
+  nscai:
+    name: National Security Commission on Artificial Intelligence
+    type: thinktank
+    founded: 2018
+    headquarters: Washington DC, USA
+    status: disbanded
+    stakeholders:
+    - person: andy-jassy
+      role: member
+      from: 2018
+      to: 2021
+    - person: christopher-darby
+      role: member
+      from: 2019
   nso-group:
     name: NSO Group
     type: company
@@ -22724,6 +24429,17 @@ organizations:
     - person: omri-lavie
       role: founder
       from: 2010
+  nti:
+    name: Nuclear Threat Initiative
+    type: foundation
+    founded: 2001
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: margaret-hamburg
+      role: chairman
+      from: 2001
+      note: Chair bio Advisory Group, founding VP 2001-2009
   ntpc:
     name: NTPC Limited
     type: company
@@ -22806,23 +24522,53 @@ organizations:
     - org: vanguard
       share: 1.0%
   nvidia:
-    name: NVIDIA
+    name: NVIDIA Corporation
     type: company
-    headquarters: Santa Clara
+    founded: 1993
+    headquarters: Santa Clara, California, USA
     status: active
-    sector: tech
+    sector: semiconductors
     stakeholders:
+    - person: jensen-huang
+      role: founder
+      from: 1993
+      note: CEO, President, Chairman
+    - person: mark-stevens
+      role: board
+      from: 1993
+      note: Board Director since 1993 (break 2006-2008), 2nd largest individual shareholder
+    - person: tench-coxe
+      role: board
+      from: 1993
+      note: Board Director, Compensation Committee
+    - person: chris-malachowsky
+      role: founder
+      from: 1993
+      note: Co-founder
+    - person: colette-kress
+      role: executive
+      from: 2013
+      note: CFO
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
       role: stake
-      share: 0.068
+      share: 7.4
+      note: 2nd largest institutional shareholder
     - org: vanguard
       role: stake
-      share: 0.075
+      share: 8.7
+      note: Largest institutional shareholder
     - org: state-street
       role: stake
-      share: 0.032
+      share: 3.7
+      note: 4th largest institutional shareholder
+    - org: sequoia-capital
+      from: 1993
+      note: Early investor (1993)
+    - org: sutter-hill-ventures
+      from: 1993
+      note: Early investor (1993)
   nycfc:
     name: New York City FC
     type: sportsclub
@@ -22894,12 +24640,26 @@ organizations:
     name: Obama Foundation
     type: foundation
     founded: 2014
-    headquarters: Chicago
+    headquarters: Chicago, USA
     status: active
     stakeholders:
     - person: barack-obama
       role: founder
       from: 2017
+    - person: john-doerr
+      role: board
+      from: 2015
+      note: Board member
+  observer-research-foundation:
+    name: Observer Research Foundation
+    type: thinktank
+    headquarters: New Delhi, India
+    status: active
+    stakeholders:
+    - person: dhruva-jaishankar
+      role: executive
+      from: 2020
+      note: Executive Director ORF America
   octea-mining:
     name: Octea Mining
     type: company
@@ -22923,6 +24683,11 @@ organizations:
       from: 1976
       to: 1978
       note: Senior Economist, Dept. Economics and Statistics
+    - person: alexander-king
+      role: executive
+      from: 1961
+      to: 1974
+      note: Director General for Scientific Affairs
     - person: ignazio-visco
       role: executive
       from: 1997
@@ -22984,6 +24749,11 @@ organizations:
       from: 1978
       to: 1996
       note: CEO/Presidente
+    - person: aurelio-peccei
+      role: chairman
+      from: 1964
+      to: 1968
+      note: Presidente
     - person: corrado-passera
       role: executive
       from: 1990
@@ -23443,6 +25213,11 @@ organizations:
       role: board
       from: 2015
       note: Board of Directors
+    - person: harry-you
+      role: executive
+      from: 2004
+      to: 2005
+      note: EVP and CFO
     - org: stargate-project
       role: partner
   orange:
@@ -23673,14 +25448,34 @@ organizations:
       to: 1981
       note: Venerable Master
   palantir:
-    name: Palantir
+    name: Palantir Technologies
     type: company
-    headquarters: Denver
+    founded: 2003
+    headquarters: Denver, Colorado, USA
     status: active
+    sector: defense-tech
     stakeholders:
     - person: peter-thiel
       role: founder
       from: 2003
+      note: Chairman
+    - person: alex-karp
+      role: founder
+      from: 2003
+      note: CEO dal 2005
+    - person: stephen-cohen-palantir
+      role: founder
+      from: 2003
+      note: President, Secretary
+    - person: joe-lonsdale
+      role: founder
+      from: 2003
+      to: 2009
+      note: Departed, founded 8VC
+    - org: in-q-tel
+      role: investor
+      from: 2005
+      note: $2M seed investment
   palestinian-authority:
     name: Palestinian National Authority
     type: government
@@ -23828,6 +25623,9 @@ organizations:
     - person: henry-kravis
       role: chairman
       note: Former Co-Chairman (with Jerry Speyer), now Board member
+    - person: albert-bourla
+      role: chairman
+      note: Co-Chair Board of Directors
   payless:
     name: Payless ShoeSource
     type: company
@@ -23849,7 +25647,8 @@ organizations:
   paypal:
     name: PayPal
     type: company
-    headquarters: San Jose
+    founded: 1998
+    headquarters: San Jose, California, USA
     status: active
     stakeholders:
     - person: elon-musk
@@ -23860,6 +25659,16 @@ organizations:
       role: founder
       from: 1998
       to: 2002
+    - person: reid-hoffman
+      role: board
+      from: 1999
+      to: 2002
+      note: Founding board member, EVP
+    - person: roelof-botha
+      role: executive
+      from: 2000
+      to: 2003
+      note: CFO, led IPO 2002
   paypal-mafia:
     name: PayPal Mafia
     type: forum
@@ -23900,6 +25709,16 @@ organizations:
       share: 7.0
     - org: vanguard
       share: 8.0
+  peace-parks:
+    name: Peace Parks Foundation
+    type: foundation
+    founded: 1997
+    headquarters: Stellenbosch, South Africa
+    status: active
+    sector: conservation
+    stakeholders:
+    - person: andre-hoffmann
+      role: board
   peace-parks-foundation:
     name: Peace Parks Foundation
     type: foundation
@@ -23934,9 +25753,25 @@ organizations:
       share: 100%
       from: 2020
   pepsico:
+    name: PepsiCo
     type: company
-    headquarters: Purchase, NY, USA
+    founded: 1965
+    headquarters: Purchase, New York, USA
     status: active
+    sector: food, beverage
+    stakeholders:
+    - person: indra-nooyi
+      role: executive
+      from: 2006
+      to: 2018
+      note: CEO & Chairman
+    - person: edith-cooper
+      role: board
+      note: Director
+    - person: ramon-laguarta
+      role: executive
+      from: 2018
+      note: CEO
   perella-weinberg:
     name: Perella Weinberg Partners
     type: bank
@@ -24060,7 +25895,7 @@ organizations:
     - person: scott-gottlieb
       role: board
       from: 2019
-      note: Joined 85 days after leaving FDA
+      note: Elected June 2019 (83 days after leaving FDA)
   pheu-thai:
     name: Pheu Thai Party
     founded: 2008
@@ -24135,6 +25970,10 @@ organizations:
       from: 1982
       to: 1986
       note: CEO/President
+    - person: indra-nooyi
+      role: board
+      from: 2021
+      note: Supervisory Board, Corporate Governance Committee
     - org: blackrock
       share: 5.5
     - org: exor
@@ -24148,10 +25987,68 @@ organizations:
     headquarters: Washington DC, USA
     status: active
     stakeholders:
+    - person: albert-bourla
+      role: chairman
+      note: Board Chair-elect (former Chair)
     - person: vas-narasimhan
       role: chairman
       from: 2023
       note: Chair (former Treasurer)
+    - person: billy-tauzin
+      role: executive
+      from: 2005
+      to: 2010
+      note: President & CEO
+    - person: stephen-ubl
+      role: executive
+      from: 2015
+      note: President & CEO
+    - person: daniel-oday
+      role: chairman
+      from: 2024
+      note: Board Chair
+    - person: paul-hudson
+      role: board
+      from: 2024
+      note: Board Treasurer
+    - person: david-ricks
+      role: chairman
+      from: 2020
+      to: 2022
+      note: Board Chairman
+    - org: eli-lilly
+      role: member
+      note: Member company
+    - org: pfizer
+      role: member
+      note: Member company
+    - org: johnson-johnson
+      role: member
+      note: Member company
+    - org: novartis
+      role: member
+      note: Member company
+    - org: merck
+      role: member
+      note: Member company
+    - org: gsk
+      role: member
+      note: Member company
+    - org: bayer
+      role: member
+      note: Member company
+    - org: sanofi
+      role: member
+      note: Member company
+    - org: genentech
+      role: member
+      note: Member company
+    - org: novo-nordisk
+      role: member
+      note: Member company
+    - org: gilead
+      role: member
+      note: Member company
   pif-saudi:
     name: Public Investment Fund (PIF)
     type: swf
@@ -24939,6 +26836,25 @@ organizations:
     - org: antenna-group
       role: investor
       note: Cornerstone investor in Raine funds
+  rajiv-gandhi-foundation:
+    name: Rajiv Gandhi Foundation
+    type: foundation
+    founded: 1991
+    headquarters: New Delhi, India
+    status: active
+    stakeholders:
+    - person: sonia-gandhi
+      role: chairman
+      from: 1991
+      note: Chairperson
+    - person: rahul-gandhi
+      role: board
+      from: 1991
+      note: Founding Trustee
+    - person: priyanka-gandhi
+      role: board
+      from: 1991
+      note: Founding Trustee
   rakuten:
     name: Rakuten Group
     type: company
@@ -25317,8 +27233,13 @@ organizations:
     name: RELX plc
     type: company
     headquarters: London, UK
+    status: active
     sector: Information Services
     stakeholders:
+    - person: charlotte-hogg
+      role: board
+      from: 2019
+      note: Independent Non-Executive Director
     - org: blackrock
       share: 11.0%
     - org: vanguard
@@ -25565,6 +27486,22 @@ organizations:
       share: 2.7%
     - org: vanguard
       share: 3.3%
+  riksbank:
+    name: Sveriges Riksbank
+    type: centralbank
+    founded: 1668
+    headquarters: Stockholm, Sweden
+    status: attiva
+    stakeholders:
+    - person: erik-thedeen
+      role: executive
+      from: 2023
+      note: Governor
+    - person: stefan-ingves
+      role: executive
+      from: 2006
+      to: 2022
+      note: Governor
   rio-tinto:
     name: Rio Tinto Group
     type: company
@@ -25620,6 +27557,11 @@ organizations:
     status: active
     sector: pharma-diagnostics
     stakeholders:
+    - person: arthur-levinson
+      role: board
+      from: 2010
+      to: 2014
+      note: Director
     - person: thomas-schinecker
       role: executive
       from: 2023
@@ -25691,6 +27633,21 @@ organizations:
       share: 5.0%
     - org: vanguard
       share: 3.5%
+  rockefeller-brothers-fund:
+    name: Rockefeller Brothers Fund
+    type: foundation
+    founded: 1940
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: david-rockefeller
+      role: board
+      note: Trustee
+    - person: steven-rockefeller
+      role: board
+      from: 1973
+      to: 2006
+      note: Trustee, Chair 1998-2006
   rockefeller-foundation:
     name: Rockefeller Foundation
     type: foundation
@@ -25703,10 +27660,19 @@ organizations:
     - person: james-wolfensohn
       role: board
       note: Director, Chairman Finance Committee
+    - person: david-rockefeller
+      role: board
+      note: Trustee
     - person: rajiv-shah
       role: executive
       from: 2017
       note: President
+    - person: mamphela-ramphele
+      role: board
+      note: Trustee
+    - person: margaret-hamburg
+      role: board
+      note: Former board member
   rockefeller-university:
     name: The Rockefeller University
     type: foundation
@@ -25715,6 +27681,9 @@ organizations:
     status: active
     sector: research
     stakeholders:
+    - person: david-rockefeller
+      role: chairman
+      note: Chairman Emeritus
     - person: henry-kravis
       role: board
       from: 2004
@@ -26161,6 +28130,17 @@ organizations:
       share: 4.0%
     - org: state-street
       share: 2.5%
+  s-cubed-capital:
+    name: S-Cubed Capital
+    type: privateequity
+    founded: 2012
+    headquarters: Menlo Park, California, USA
+    status: active
+    stakeholders:
+    - person: mark-stevens
+      role: founder
+      from: 2012
+      note: Managing Partner, family office
   saab:
     name: Saab
     type: company
@@ -26174,6 +28154,8 @@ organizations:
       note: Sviluppo caccia Saab
     - org: investor-ab
       role: major-shareholder
+    - org: investor-ab
+      role: major shareholder
   sabanci-holding:
     name: Sabanci Holding A.S.
     type: company
@@ -26327,6 +28309,14 @@ organizations:
       note: dato luglio 2025
     - org: vanguard
       share: 3.0%
+  samsara:
+    name: Samsara Inc.
+    type: company
+    headquarters: San Francisco, California, USA
+    status: active
+    stakeholders:
+    - person: susan-wagner
+      role: board
   samsung:
     name: Samsung Group
     type: company
@@ -26493,6 +28483,10 @@ organizations:
       from: 2010
       to: 2022
       note: Chairman of the Board; interim CEO Oct 2014 - Apr 2015
+    - person: paul-hudson
+      role: executive
+      from: 2019
+      note: CEO
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -26522,6 +28516,15 @@ organizations:
     type: bank
     founded: 1982
     headquarters: São Paulo, Brazil
+  santander-uk:
+    type: bank
+    status: active
+    stakeholders:
+    - person: charlotte-hogg
+      role: executive
+      from: 2011
+      to: 2013
+      note: Head of Retail Distribution
   sap:
     name: SAP SE
     type: company
@@ -26728,6 +28731,11 @@ organizations:
       role: board
       from: 2016
       to: 2018
+    - person: jamie-gorelick
+      role: board
+      from: 2002
+      to: 2010
+      note: Director
   schmidt-futures:
     name: Schmidt Futures
     type: foundation
@@ -26962,6 +28970,32 @@ organizations:
     founded: 1972
     headquarters: Menlo Park, California, USA
     status: active
+    sector: venture-capital
+    aum: 56000000000
+    stakeholders:
+    - person: mark-stevens
+      role: partner
+      from: 1993
+      to: 2011
+      note: Managing Partner
+    - person: don-valentine
+      role: founder
+      from: 1972
+      to: 1996
+      note: Founder, retired 1996
+    - person: michael-moritz
+      role: partner
+      from: 1986
+      to: 2023
+      note: Partner 1986, Chairman 2012, stepped down July 2023
+    - person: doug-leone
+      role: partner
+      from: 1988
+      note: Managing Partner 1996-2022, Global Managing Partner 2012-2022
+    - person: roelof-botha
+      role: partner
+      from: 2003
+      note: Partner 2003, US lead 2017, Senior Steward 2022-2025
   ser-netherlands:
     name: Social-Economic Council
     type: agency
@@ -26974,6 +29008,18 @@ organizations:
       from: 1972
       to: 2004
       note: Crown Member
+  serono:
+    name: Serono S.A.
+    type: pharma
+    founded: 1906
+    headquarters: Geneva, Switzerland
+    status: defunct
+    stakeholders:
+    - person: ernesto-bertarelli
+      role: executive
+      from: 1996
+      to: 2007
+      note: CEO; sold to Merck KGaA for $13.3B
   ses:
     name: SES S.A.
     type: company
@@ -27296,7 +29342,7 @@ organizations:
       share: 15%
       from: 2014
   silver-lake:
-    name: Silver Lake
+    name: Silver Lake Partners
     type: privateequity
     founded: 1999
     headquarters: Menlo Park, USA
@@ -27308,6 +29354,10 @@ organizations:
       role: executive
       from: 1999
       note: Co-CEO, Managing Partner, founding principal
+    - person: kenneth-hao
+      role: chairman
+      from: 2019
+      note: Chairman and Managing Partner, joined 2000
     - org: mubadala
       role: investor
       note: Minority equity stake
@@ -27462,6 +29512,16 @@ organizations:
     - org: comcast
       share: 100%
       from: 2018
+  slack:
+    name: Slack Technologies
+    type: company
+    status: acquired
+    stakeholders:
+    - person: edith-cooper
+      role: board
+      from: 2018
+      to: 2021
+      note: Director (until Salesforce acquisition)
   smfg:
     name: Sumitomo Mitsui Financial Group
     type: bank
@@ -27475,6 +29535,15 @@ organizations:
       role: executive
       from: 2023
       note: President & Group CEO
+  smithsonian-institution:
+    type: foundation
+    founded: 1846
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: david-rubenstein
+      role: chairman
+      note: Former Chairman Board of Regents
   smp-bank:
     name: SMP Bank
     type: bank
@@ -27919,21 +29988,37 @@ organizations:
       from: 2016
       note: Acquired brand/IP at bankruptcy auction
   spotify:
-    name: Spotify
+    name: Spotify Technology S.A.
     type: company
     founded: 2006
     headquarters: Stockholm, Sweden
     status: active
+    sector: music streaming
     stakeholders:
     - person: rene-obermann
       role: board
       note: Ex-Director
+    - person: daniel-ek
+      role: founder
+      from: 2006
+      note: Co-founder, CEO (2006-2025), Executive Chairman (2026-)
+    - person: martin-lorentzon
+      role: founder
+      from: 2006
+      note: Co-founder, Chairman (2008-2016), Board member
     - org: blackrock
+      role: investor
       share: 5.85%
+      note: Major institutional shareholder
     - org: vanguard
       share: 6.0%
     - org: state-street
       share: 2.2%
+    - org: tencent
+      role: investor
+      share: 8.16
+      from: 2017
+      note: Strategic equity swap deal
   spotone:
     name: SpotOne Global Solutions
     stakeholders:
@@ -28008,6 +30093,41 @@ organizations:
       role: board
       from: 2025
       note: Trustee (elected Nov 2025); BA 1992
+    - person: alex-karp
+      role: member
+      from: 1989
+      to: 1992
+      note: J.D. Stanford Law School
+    - person: stephen-cohen-palantir
+      role: member
+      from: 2001
+      to: 2005
+      note: B.S. Computer Science
+  stanley-black-decker:
+    name: Stanley Black & Decker
+    type: company
+    founded: 1843
+    headquarters: New Britain, Connecticut, USA
+    status: active
+    sector: industrial
+    stakeholders:
+    - person: john-lundgren
+      role: executive
+      from: 2004
+      to: 2016
+      note: Chairman and CEO
+  starbucks:
+    name: Starbucks
+    type: company
+    founded: 1971
+    headquarters: Seattle, USA
+    status: active
+    stakeholders:
+    - person: satya-nadella
+      role: board
+      from: 2017
+      to: 2024
+      note: Board of Directors
   stargate-project:
     name: Stargate Project
     type: company
@@ -28040,6 +30160,129 @@ organizations:
       role: chairman
       from: 2003
       note: Chairman Board of Trustees
+  state-of-the-world-forum:
+    name: State of the World Forum
+    type: forum
+    founded: 1995
+    headquarters: San Francisco, USA
+    status: defunct
+    stakeholders:
+    - person: bill-gates
+      role: member
+      from: 1995
+      note: Partecipante
+    - person: mikhail-gorbachev
+      role: founder
+      from: 1995
+      to: 2004
+      note: Convening Chairman
+    - person: george-hw-bush
+      role: member
+      from: 1995
+      note: Partecipante
+    - person: james-baker
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: margaret-thatcher
+      role: member
+      from: 1995
+      note: Partecipante
+    - person: maurice-strong
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: ruud-lubbers
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: alan-cranston
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Chairman of the Board
+    - person: jim-garrison
+      role: executive
+      from: 1995
+      to: 2004
+      note: President
+    - person: george-shultz
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: ted-turner
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: oscar-arias
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: thabo-mbeki
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: rigoberta-menchu
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: desmond-tutu
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: muhammad-yunus
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: elie-wiesel
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: joseph-stiglitz
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: jane-goodall
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: sonia-gandhi
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: wangari-maathai
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: jehan-sadat
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - person: vandana-shiva
+      role: chairman
+      from: 1995
+      to: 2000
+      note: Co-Chair
+    - org: gorbachev-foundation
+      role: founder
+      from: 1995
+      note: Organizzatore principale
   state-street:
     name: State Street
     type: assetmanager
@@ -28079,10 +30322,10 @@ organizations:
     status: active
     sector: telecom
   stellantis:
-    name: Stellantis N.V.
+    name: Stellantis
     type: automaker
     founded: 2021
-    headquarters: Hoofddorp, Netherlands
+    headquarters: Amsterdam, Netherlands
     status: active
     sector: automotive
     note: FCA + PSA merger. 14 brands. Exor 15.5%, Peugeot 7.7%, BPI France 6.9%
@@ -28090,6 +30333,7 @@ organizations:
     - person: john-elkann
       role: chairman
       from: 2021
+      note: Chairman
     - person: carlos-tavares
       role: ceo
       from: 2021
@@ -28232,10 +30476,18 @@ organizations:
     founded: 2010
     headquarters: San Francisco, USA
     status: active
+    sector: fintech, payments
     stakeholders:
     - person: mark-carney
       role: board
       note: External Board Member
+    - person: patrick-collison
+      role: founder
+      from: 2010
+      note: Co-founder & CEO
+    - org: sequoia-capital
+      from: 2011
+      note: Early investor, Moritz on board
   stroygazmontazh:
     name: Stroygazmontazh (SGM Group)
     type: company
@@ -28313,6 +30565,17 @@ organizations:
       role: chairman
       from: 2020
       note: Chair
+  sutter-hill-ventures:
+    name: Sutter Hill Ventures
+    type: privateequity
+    headquarters: Palo Alto, California, USA
+    status: active
+    stakeholders:
+    - person: tench-coxe
+      role: partner
+      from: 1989
+      to: 2020
+      note: Managing Director
   swatch-group:
     name: The Swatch Group
     type: company
@@ -28368,6 +30631,11 @@ organizations:
     status: active
     sector: insurance
     stakeholders:
+    - person: susan-wagner
+      role: board
+      from: 2014
+      to: 2023
+      note: Investment Committee Chair
     - person: john-scarlett
       role: advisor
       note: Advisory Board
@@ -28421,6 +30689,16 @@ organizations:
     founded: 2003
     headquarters: Holzminden, Germany
     sector: fragrances
+  systemiq:
+    name: SystemIQ
+    type: company
+    founded: 2016
+    headquarters: London, UK
+    status: active
+    sector: consulting
+    stakeholders:
+    - person: andre-hoffmann
+      role: board
   taj-hotels:
     name: Indian Hotels Company (Taj Hotels)
     type: company
@@ -28632,6 +30910,27 @@ organizations:
     stakeholders:
     - person: andrea-pasinetti
       role: founder
+  technet:
+    name: TechNet
+    type: forum
+    headquarters: Washington, DC
+    status: active
+    stakeholders:
+    - person: john-doerr
+      role: founder
+      note: Co-founder, Executive Council
+  tele2:
+    name: Tele2
+    type: company
+    founded: 1993
+    headquarters: Stockholm, Sweden
+    status: attiva
+    sector: telecomunicazioni
+    stakeholders:
+    - person: cristina-stenbeck
+      role: board
+    - org: kinnevik
+      role: major shareholder
   telecom-italia:
     name: TIM (Telecom Italia)
     type: company
@@ -28909,6 +31208,19 @@ organizations:
       from: 2013
       to: 2025
       note: Chairman (stepped down Oct 2025)
+    - person: indra-nooyi
+      role: advisor
+      from: 2018
+      note: International Advisory Council
+  tempus-ai:
+    name: Tempus AI
+    type: company
+    headquarters: Chicago, Illinois, USA
+    status: active
+    sector: health-tech
+    stakeholders:
+    - person: scott-gottlieb
+      role: board
   tenaris:
     name: Tenaris S.A.
     type: company
@@ -29351,15 +31663,33 @@ organizations:
     founded: 2017
     headquarters: Culver City, USA
     status: active
+    sector: social media
+    note: US operations, owned by ByteDance until 2026 sale
     stakeholders:
     - person: shou-chew
       role: executive
       from: 2021
       note: CEO
+    - org: oracle
+      role: investor
+      from: 2025
+      note: TikTok USA consortium member, ~15% stake
+    - org: mgx
+      role: investor
+      from: 2025
+      note: TikTok USA consortium member (Abu Dhabi SWF)
+    - org: silver-lake
+      role: investor
+      from: 2025
+      note: TikTok USA consortium member
     - org: bytedance
       role: owner
       share: 100
       note: 100% owner
+    - org: a16z
+      role: investor
+      from: 2025
+      note: TikTok USA consortium member
   tiktok-usa:
     name: TikTok USA
     type: company
@@ -29525,6 +31855,17 @@ organizations:
       share: 85
       from: 2020
       note: 'Multi-club: anche AC Milan. In vendita 2024-25'
+  tour-du-valat:
+    name: Fondation Tour du Valat
+    type: foundation
+    founded: 1954
+    headquarters: Camargue, France
+    status: active
+    sector: conservation
+    stakeholders:
+    - person: andre-hoffmann
+      role: chairman
+      from: 2016
   toyota:
     name: Toyota Motor Corporation
     type: automaker
@@ -29611,6 +31952,13 @@ organizations:
     founded: 2000
     headquarters: Medias, Romania
     sector: gas-transport
+  transunion:
+    name: TransUnion
+    type: company
+    founded: 1968
+    headquarters: Chicago, USA
+    status: active
+    sector: data/credit
   treccani:
     name: Istituto della Enciclopedia Italiana Treccani
     type: company
@@ -29752,6 +32100,11 @@ organizations:
     - person: andreas-treichl
       role: member
       note: European Group
+    - person: magdalena-andersson
+      role: member
+      from: 2024
+    - person: ajay-banga
+      role: member
     - person: mugur-isarescu
       role: member
       from: 1993
@@ -29801,6 +32154,17 @@ organizations:
       role: member
       from: 1976
       note: Member
+    - person: hassan-bin-talal
+      role: member
+    - person: dhruva-jaishankar
+      role: member
+      note: David Rockefeller Fellow
+    - person: robert-kimmitt
+      role: member
+      note: Member
+    - person: carl-bildt
+      role: chairman
+      note: Deputy European Chair
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -29836,12 +32200,6 @@ organizations:
       role: member
     - person: gro-harlem-brundtland
       role: member
-    - person: david-rockefeller
-      role: founder
-      from: 1973
-    - person: david-rockefeller
-      role: founder
-      from: 1973
     - person: henry-kissinger
       role: founder
       from: 1973
@@ -30135,7 +32493,7 @@ organizations:
       from: 2016
       note: uber-files-scandal
   ubs:
-    name: UBS Group AG
+    name: UBS AG
     type: bank
     founded: 1862
     headquarters: Zurich, Switzerland
@@ -30186,6 +32544,11 @@ organizations:
       note: CEO UBS Pactual, Global Head Fixed Income Currencies Commodities
     - person: lutfey-siddiqi
       role: executive
+    - person: ernesto-bertarelli
+      role: board
+      from: 2002
+      to: 2009
+      note: Board Director
     - org: blackrock
       share: 5.0%
     - org: vanguard
@@ -30341,6 +32704,18 @@ organizations:
     stakeholders:
     - person: mette-marit-of-norway
       role: ambassador
+  uncf:
+    name: United Negro College Fund
+    type: foundation
+    founded: 1944
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: vernon-jordan
+      role: executive
+      from: 1970
+      to: 1971
+      note: Executive Director
   undp:
     name: United Nations Development Programme
     type: agency
@@ -30359,6 +32734,19 @@ organizations:
       from: 2005
       to: 2009
       note: Administrator
+  unep:
+    name: United Nations Environment Programme
+    type: agency
+    founded: 1972
+    headquarters: Nairobi, Kenya
+    status: active
+    sector: environment
+    stakeholders:
+    - person: ashok-khosla
+      role: executive
+      from: 1976
+      to: 1982
+      note: Director, Infoterra
   unesco:
     name: UNESCO
     type: agency
@@ -30551,6 +32939,13 @@ organizations:
       role: member
     - person: omri-lavie
       role: member
+  united-defense-industries:
+    type: company
+    status: defunct
+    stakeholders:
+    - person: william-conway
+      role: chairman
+      note: Chairman (Carlyle portfolio company, defense)
   united-shipbuilding-corporation:
     name: United Shipbuilding Corporation
     type: company
@@ -30617,9 +33012,30 @@ organizations:
       role: chairman
       from: 2007
       note: Chairman Governing Body
+  university-for-peace:
+    name: University for Peace
+    type: agency
+    founded: 1980
+    headquarters: San José, Costa Rica
+    status: active
+    stakeholders:
+    - org: earth-charter-international
+      role: hosted
+      from: 2000
+      note: ECI Secretariat hosted at UPEACE
   university-of-chicago:
     name: University of Chicago
+    type: thinktank
+    headquarters: Chicago IL, USA
+    status: active
     stakeholders:
+    - person: david-rubenstein
+      role: chairman
+      from: 2022
+      note: Chairman Board of Trustees
+    - person: satya-nadella
+      role: board
+      note: Board of Trustees
     - person: ian-solomon
       role: executive
   university-of-london:
@@ -30666,6 +33082,15 @@ organizations:
       share: 5.0%
     - org: vanguard
       share: 3.0%
+  urban-institute:
+    name: Urban Institute
+    type: thinktank
+    founded: 1968
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: margaret-hamburg
+      role: board
   us-air-force:
     name: United States Air Force
     type: government
@@ -30706,6 +33131,8 @@ organizations:
       role: executive
       from: 2024
       note: President (7th in history)
+    - person: ryan-mcinerney
+      role: board
   us-cyber-command:
     name: US Cyber Command
     type: agency
@@ -30875,6 +33302,17 @@ organizations:
       share: 2.0%
     - org: vanguard
       share: 2.0%
+  verisign:
+    name: VeriSign Inc.
+    type: company
+    founded: 1995
+    headquarters: Reston, Virginia, USA
+    status: active
+    stakeholders:
+    - person: jamie-gorelick
+      role: board
+      from: 2015
+      note: Director, Chair Governance & Nominating Committee
   verizon:
     name: Verizon Communications
     type: company
@@ -30938,6 +33376,16 @@ organizations:
       from: 2017
       to: 2024
       note: Presidente
+  village-global:
+    name: Village Global
+    type: privateequity
+    founded: 2017
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: reid-hoffman
+      role: chairman
+      note: Chairman
   vinci:
     name: Vinci SA
     type: company
@@ -30958,14 +33406,32 @@ organizations:
     name: Visa Inc.
     type: company
     founded: 1958
-    headquarters: San Francisco, USA
+    headquarters: San Francisco, California, USA
     status: active
+    sector: payments
     stakeholders:
     - person: charlotte-hogg
       role: executive
       from: 2017
       to: 2025
       note: CEO Europe
+    - person: ryan-mcinerney
+      role: executive
+      from: 2023
+      note: CEO since Feb 2023, President 2013-2023
+    - person: john-lundgren
+      role: chairman
+      from: 2024
+      note: Chairman since Jan 2024, Lead Independent Director 2017-2024
+    - person: alfred-kelly
+      role: executive
+      from: 2016
+      to: 2024
+      note: CEO 2016-2023, Chairman 2019-2024
+    - person: ramon-laguarta
+      role: board
+      from: 2019
+      note: Director
   vissel-kobe:
     name: Vissel Kobe
     type: sportsclub
@@ -31040,6 +33506,20 @@ organizations:
       role: founder
       from: 1999
       note: Fondatore, Giving Pledge signatory
+  vmware:
+    name: VMware
+    type: company
+    founded: 1998
+    headquarters: Palo Alto, California, USA
+    status: acquired
+    sector: software
+    note: Acquired by Broadcom Nov 2023
+    stakeholders:
+    - org: broadcom
+      role: owner
+      share: 100%
+      from: 2023
+      note: Acquired for $69B (Nov 2023)
   vodafone:
     name: Vodafone Group
     type: company
@@ -31505,6 +33985,9 @@ organizations:
     - person: alexander-de-croo
       role: ygl
       from: 2015
+    - person: mikhail-gorbachev
+      role: member
+      note: Agenda Contributor
     - person: boris-yeltsin
       role: speaker
       from: 1996
@@ -31546,6 +34029,10 @@ organizations:
       role: glt
     - person: al-gore
       role: board
+    - person: tim-cook
+      role: participant
+      from: 2019
+      note: Davos 2019 participant
     - person: federica-mogherini
       role: ygl
       note: Agenda Contributor
@@ -31568,6 +34055,9 @@ organizations:
       role: member
     - person: ehud-barak
       role: member
+    - person: satya-nadella
+      role: member
+      note: Regular Davos speaker
     - person: sebastian-kurz
       role: ygl
       from: 2016
@@ -31674,6 +34164,9 @@ organizations:
       note: Attended Davos 2023 with President Yoon delegation
     - person: lee-jae-yong
       role: ygl
+    - person: albert-bourla
+      role: member
+      note: Agenda Contributor
     - person: andre-hoffmann
       role: chairman
       from: 2025
@@ -32674,6 +35167,32 @@ organizations:
     - person: martin-schulz
       role: member
       note: Agenda Contributor
+    - person: sundar-pichai
+      role: member
+      from: 2018
+      note: Regular Davos participant
+    - person: andy-jassy
+      role: board
+      note: International Business Council member
+    - person: indra-nooyi
+      role: board
+      note: Foundation Board member
+    - person: drew-houston
+      role: member
+      from: 2013
+      note: Davos participant
+    - person: alex-karp
+      role: member
+      note: Davos participant
+    - person: alfred-kelly
+      role: member
+      note: Agenda Contributor
+    - person: ramon-laguarta
+      role: member
+      note: Co-Chair Food Systems Initiative
+    - person: michael-miebach
+      role: member
+      note: International Business Council
     - org: bilderberg
       role: partner
     - org: fmi
@@ -32699,6 +35218,12 @@ organizations:
     founded: 1961
     headquarters: Jaraguá do Sul, Brazil
     sector: Electrical Equipment
+  weidenfeld-hoffmann-trust:
+    name: Weidenfeld-Hoffmann Trust
+    type: foundation
+    headquarters: Oxford, UK
+    status: active
+    sector: education
   welcoming-america:
     name: Welcoming America
     stakeholders:
@@ -32716,6 +35241,11 @@ organizations:
     headquarters: San Francisco
     status: active
     sector: finance
+    stakeholders:
+    - person: charlie-scharf
+      role: executive
+      from: 2019
+      note: CEO
   westexec-advisors:
     name: WestExec Advisors
     type: company
@@ -32778,6 +35308,10 @@ organizations:
       role: executive
       from: 2017
       note: Director-General
+    - person: carl-bildt
+      role: advisor
+      from: 2021
+      note: Special Envoy ACT-Accelerator
     - org: gates-foundation
       role: funder
       from: 2000
@@ -32819,6 +35353,20 @@ organizations:
     stakeholders:
     - person: jimmy-wales
       role: founder
+  wilmerhale:
+    name: WilmerHale
+    type: company
+    status: active
+    sector: law
+    stakeholders:
+    - person: jamie-gorelick
+      role: partner
+      from: 2003
+      note: Partner
+    - person: robert-kimmitt
+      role: partner
+      from: 2009
+      note: Senior International Counsel
   wilson-center:
     name: Wilson Center
     type: thinktank
@@ -32857,6 +35405,16 @@ organizations:
     stakeholders:
     - person: sam-gregory
       role: executive
+  witnessai:
+    name: WitnessAI
+    type: company
+    status: active
+    sector: AI Security
+    stakeholders:
+    - person: paul-nakasone
+      role: board
+      from: 2024
+      note: Board member
   world-athletics:
     name: World Athletics
     type: agency
@@ -32910,6 +35468,11 @@ organizations:
       role: executive
       from: 2025
       note: Managing Director and Chief Knowledge Officer
+    - person: mamphela-ramphele
+      role: executive
+      from: 2000
+      to: 2004
+      note: Managing Director (prima africana)
   world-jewish-congress:
     name: World Jewish Congress
     type: forum
@@ -33042,10 +35605,10 @@ organizations:
       to: 1976
       note: Primo presidente
     - person: andre-hoffmann
-      role: chairman
+      role: board
       from: 2007
       to: 2017
-      note: Vice-President
+      note: Vice-President 2007-2017, board 1998-2017
     - person: prince-bernhard-netherlands
       role: founder
       from: 1961
@@ -33120,6 +35683,21 @@ organizations:
     stakeholders:
     - org: blackrock
       share: 4.7
+  y-combinator:
+    name: Y Combinator
+    type: privateequity
+    founded: 2005
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: drew-houston
+      role: member
+      from: 2007
+      note: W07 batch
+    - person: arash-ferdowsi
+      role: member
+      from: 2007
+      note: W07 batch
   yale-university:
     name: Yale University
     type: university
@@ -33236,6 +35814,9 @@ organizations:
     headquarters: Berlin, Germany
     sector: e-commerce
     stakeholders:
+    - person: cristina-stenbeck
+      role: chairman
+      from: 2014
     - org: blackrock
       role: shareholder
       share: 5.0

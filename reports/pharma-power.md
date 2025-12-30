@@ -11,7 +11,7 @@ Questo report analizza il **network di potere nell'industria farmaceutica e nell
 | **Fondazioni** | Gates Foundation ($77B), Wellcome Trust ($38B) | Funding → Influence |
 | **PPP (Public-Private Partnership)** | GAVI, CEPI, Global Fund | Governance parallela |
 | **WHO** | $6.8B budget, 83% voluntary | Donor capture |
-| **Big Pharma** | Pfizer, J&J, Roche, Novartis, Moderna, BioNTech, AstraZeneca, Merck, GSK | Oligopolio, revolving door |
+| **Big Pharma** | Pfizer, J&J, Roche, Novartis, Moderna, BioNTech, AstraZeneca, Merck, GSK, **Eli Lilly ($1T)** | Oligopolio, revolving door |
 | **Regolatori** | FDA (65% industry-funded) | Regulatory capture |
 | **Forum** | WEF (Hoffmann Co-Chair), PhRMA, CFR (Glocer) | Industry coordination |
 
@@ -150,6 +150,7 @@ JOSÉ MANUEL BARROSO
 | Azienda | HQ | Revenue 2024 | CEO | Pattern Chiave |
 |---------|-----|--------------|-----|----------------|
 | [Pfizer](../docs/pharma/pfizer.md) | USA | $63.6B | Albert Bourla | Gottlieb (ex-FDA) in board |
+| **[Eli Lilly](../docs/pharma/eli-lilly.md)** | USA | **$63B** | **David Ricks** | **$1T market cap** (Nov 2025), ex-PhRMA Chair, Nobel (Kaelin) in board |
 | [J&J](../docs/pharma/johnson-johnson.md) | USA | $88.8B | Joaquin Duato | McClellan (ex-FDA) in board |
 | [Moderna](../docs/pharma/moderna.md) | USA | $3.2B | Stephane Bancel | Hahn (ex-FDA) → Flagship, Rubenstein (CFR) in board |
 | [BioNTech](../docs/pharma/biontech.md) | DEU | - | Ugur Sahin | Strungmann twins control (~50%) |
@@ -184,7 +185,7 @@ BASEL, SWITZERLAND
 VACCINO COVID         EX-FDA COMMISSIONER         DESTINAZIONE
 
     Pfizer       ───►  Scott Gottlieb (2017-19)  ───►  Board Pfizer
-                                                       (85 giorni dopo)
+                                                       (83 giorni dopo)
 
     J&J          ───►  Mark McClellan (2002-04)  ───►  Board J&J
                                                        (dal 2013)
@@ -209,21 +210,43 @@ VACCINO COVID         EX-FDA COMMISSIONER         DESTINAZIONE
 
 ### Commissioners Post-2000: Tutti in Industria
 
-| Commissioner | Mandato | Dopo FDA |
-|--------------|---------|----------|
-| **Jane Henney** | 1999-01 | **AstraZeneca board** (prima donna FDA) |
-| Mark McClellan | 2002-04 | J&J board |
-| Andrew von Eschenbach | 2006-09 | BioTime, Viamet boards |
-| Margaret Hamburg | 2009-15 | Alnylam board, **GAVI board**, **CFR** |
-| Scott Gottlieb | 2017-19 | Pfizer board, Illumina, AEI |
-| Stephen Hahn | 2019-21 | Flagship Pioneering (Moderna) |
-| Robert Califf | 2016-17, 2022- | Verily (Alphabet) $2.7M |
+| Commissioner | Mandato | Dopo FDA | Scheda |
+|--------------|---------|----------|--------|
+| **Jane Henney** | 1999-01 | **AstraZeneca board** (prima donna FDA) | Stub |
+| Mark McClellan | 2002-04 | J&J board | Stub |
+| Andrew von Eschenbach | 2006-09 | BioTime, Viamet boards | - |
+| **[Margaret Hamburg](../docs/persons/margaret-hamburg.md)** | 2009-15 | Alnylam, **GAVI, CEPI, CFR, Gates, NTI** | **✅** |
+| **[Scott Gottlieb](../docs/persons/scott-gottlieb.md)** | 2017-19 | Pfizer board (**83 giorni**), Illumina Chairman, AEI, NEA | **✅** |
+| Stephen Hahn | 2019-21 | Flagship Pioneering (Moderna) | Stub |
+| Robert Califf | 2016-17, 2022- | Verily (Alphabet) $2.7M | - |
+
+### Il Caso Hamburg: Network Completo
+
+**[Margaret Hamburg](../docs/persons/margaret-hamburg.md)** e' l'unico ex-FDA Commissioner a entrare simultaneamente in:
+
+```
+FDA COMMISSIONER (2009-2015)
+         │
+         ├──► PPP: GAVI board, CEPI board
+         │
+         ├──► FONDAZIONI: Gates (advisor), Rockefeller (ex-board)
+         │
+         ├──► THINK TANK: CFR board, CSIS
+         │
+         ├──► PHARMA: Alnylam board
+         │
+         ├──► BIOSECURITY: NTI (Chair bio Advisory Group)
+         │
+         └──► INTELLIGENCE: Vice Chair PIAB, ex-CIA Science Board
+```
+
+**Pattern unico**: Hamburg collega regolatore, PPP globali, fondazioni, think tank, pharma E intelligence.
 
 ### FDA → Big Pharma COVID Vaccines (Completo)
 
 | Vaccino | Ex-FDA Commissioner | Destinazione |
 |---------|---------------------|--------------|
-| Pfizer | Scott Gottlieb (2017-19) | Pfizer board (85 giorni) |
+| Pfizer | [Scott Gottlieb](../docs/persons/scott-gottlieb.md) (2017-19) | Pfizer board (83 giorni) |
 | J&J | Mark McClellan (2002-04) | J&J board (dal 2013) |
 | Moderna | Stephen Hahn (2019-21) | Flagship Pioneering (incubatore) |
 | **AstraZeneca** | **Jane Henney (1999-01)** | **AstraZeneca board** |
@@ -238,40 +261,121 @@ VACCINO COVID         EX-FDA COMMISSIONER         DESTINAZIONE
 
 ### Leadership WEF 2025
 
-| Ruolo | Nome | Background |
-|-------|------|------------|
-| **Co-Chair** | [Larry Fink](../docs/persons/larry-fink.md) | CEO BlackRock |
-| **Co-Chair** | [Andre Hoffmann](../docs/persons/andre-hoffmann.md) | Vice-Chairman **Roche** |
+| Data | Evento |
+|------|--------|
+| **Apr 2025** | Klaus Schwab lascia WEF board |
+| **Apr 2025** | Peter Brabeck-Letmathe interim chairman |
+| **15 Ago 2025** | **Hoffmann + Fink nominati Co-Chairs** |
 
-**Pattern**: Il forum globale più influente è co-guidato dal CEO del più grande asset manager E dall'erede della dinastia farmaceutica svizzera.
+| Ruolo | Nome | Background | Net Worth |
+|-------|------|------------|-----------|
+| **Co-Chair** | [Larry Fink](../docs/persons/larry-fink.md) | CEO BlackRock | - |
+| **Co-Chair** | **[Andre Hoffmann](../docs/persons/andre-hoffmann.md)** | Vice-Chairman **Roche** (5a gen) | **$9.38B** |
 
-### Andre Hoffmann: Il Ponte
+**Pattern**: Il forum globale piu' influente e' co-guidato dal CEO del piu' grande asset manager E dall'erede della dinastia farmaceutica svizzera.
+
+### [Andre Hoffmann](../docs/persons/andre-hoffmann.md): Il Ponte Pharma-WEF-Environment
 
 ```
-ANDRE HOFFMANN
+ANDRE HOFFMANN ($9.38B)
         │
-        ├── PHARMA: Vice-Chairman Roche (5a generazione)
+        ├── PHARMA
+        │       ├── Vice-Chairman Roche (5a generazione, dal 2006)
+        │       ├── Board Genentech
+        │       └── Famiglia controlla ~50% voting Roche
         │
-        ├── WEF: Co-Chair (con Larry Fink)
+        ├── WEF: Co-Chair (con Larry Fink, dal 15 Ago 2025)
         │
-        ├── ENVIRONMENT: Ex-VP WWF (18 anni)
+        ├── ENVIRONMENT
+        │       ├── Ex-VP WWF International (2007-2017, 10 anni)
+        │       ├── President MAVA Foundation
+        │       ├── President Tour du Valat
+        │       └── Padre Luc Hoffmann = co-fondatore WWF (1961)
         │
-        └── THINK TANKS: Club of Rome, INSEAD
+        └── FORUM/THINK TANKS
+                ├── Club of Rome (member)
+                ├── INSEAD Hoffmann Institute (Chairman)
+                └── SystemIQ (board)
 ```
+
+**Implicazione**: Hoffmann incarna il "stakeholder capitalism" - pharma + environment + global governance in una persona.
 
 ---
 
 ## 7. PhRMA: La Lobby
 
+**Scheda**: [PhRMA](../docs/agency/phrma.md) **✅**
+
+### Profilo
+
+| Metrica | Valore |
+|---------|--------|
+| **Fondazione** | 1958 |
+| **Sede** | Washington DC, USA |
+| **Revenue** | $455M (2017) |
+| **Lobbying 2024** | **$31.7M** (record) |
+| **Lobbying 2025 H1** | $20.6M (on pace $450M+ industria) |
+| **President & CEO** | Stephen Ubl (2015-) |
+
 ### Chair Rotation
 
-| Anno | PhRMA Chair | Azienda |
-|------|-------------|---------|
-| 2022 | Albert Bourla | Pfizer |
-| 2023- | **Vas Narasimhan** | **Novartis** |
-| 2025 | Thomas Schinecker (next) | Roche |
+| Anno | PhRMA Chair | Azienda | Scheda |
+|------|-------------|---------|--------|
+| 2020-22 | **[David Ricks](../docs/persons/david-ricks.md)** | **Eli Lilly** | Stub |
+| 2022-23 | **[Albert Bourla](../docs/persons/albert-bourla.md)** | Pfizer | **✅** |
+| 2023-24 | **Vas Narasimhan** | **Novartis** | Stub |
+| 2024- | **Daniel O'Day** | **Gilead** | Stub |
 
 **Pattern**: I CEO delle Big Pharma si alternano come Chair della lobby USA.
+
+### Il Caso Billy Tauzin: Revolving Door Emblematico
+
+```
+CONGRESSMAN (1980-2004)
+   Chair House Energy & Commerce Committee
+         │
+         ▼
+MEDICARE PART D (2003)
+   Scrisse legge che VIETA negoziazione prezzi Medicare
+         │
+         ▼ (2 mesi dopo lascia Congresso)
+PhRMA PRESIDENT (2005-2010)
+   Salary: $2M/anno → $11.6M (2010)
+```
+
+**Pattern**: Tauzin scrisse legge favorevole a pharma (divieto negoziazione prezzi 19 anni), poi assunto da pharma con stipendio record.
+
+### Member Exits Post-IRA (2022-2023)
+
+| Azienda | Exit | Impatto |
+|---------|------|---------|
+| AbbVie | Dic 2022 | - |
+| Teva | Feb 2023 | - |
+| AstraZeneca | Mag 2023 | - |
+| **Totale** | - | **-$100M dues/anno** |
+
+**Contesto**: Dopo approvazione Inflation Reduction Act (prima negoziazione prezzi Medicare), 3 major companies lasciano PhRMA.
+
+### [Albert Bourla](../docs/persons/albert-bourla.md): Profilo
+
+| Dato | Dettaglio |
+|------|-----------|
+| **Origine** | Thessaloniki, Grecia (ebreo sefardita) |
+| **Genitori** | Sopravvissuti Olocausto |
+| **Formazione** | Veterinario, PhD Biotechnology |
+| **In Pfizer dal** | 1993 (30+ anni) |
+| **CEO Pfizer** | 2019 |
+| **Chairman Pfizer** | 2020 |
+
+**Altri ruoli Bourla**:
+- Chairman PhRMA (lobby pharma USA)
+- Ex-President IFPMA (lobby pharma global)
+- Member Business Roundtable
+- Member Business Council
+- Co-Chair Partnership for NYC
+- WEF Agenda Contributor
+
+**Pattern**: "Company man" (carriera interna 30 anni) + voce principale industria pharma (PhRMA + IFPMA).
 
 ---
 
@@ -379,7 +483,135 @@ MODERNA
 
 ---
 
-## 10. Pattern Identificati
+## 10. Harvard Medical School: Network Hub Accademico
+
+**Scheda**: [Harvard Medical School](../docs/company/harvard-medical-school.md) **✅**
+
+### Board of Fellows come Hub
+
+Il Board of Fellows (creato 1990) e' un advisory board non-fiduciario che connette pharma, biotech e accademia:
+
+```
+HMS BOARD OF FELLOWS
+        │
+        ├── CHAIRMAN: Ernesto Bertarelli
+        │       ├── Ex-CEO Serono (venduta $13.3B)
+        │       ├── B-Flexion family office
+        │       └── HBS Dean's Advisors
+        │
+        ├── Vas Narasimhan
+        │       ├── CEO Novartis
+        │       └── PhRMA Chair 2023-24
+        │
+        ├── William Kaelin (Nobel 2019)
+        │       └── Eli Lilly board
+        │
+        └── Michael Rosenblatt (2025)
+                ├── Ex-CMO Merck
+                └── Flagship Pioneering advisor
+```
+
+### [Ernesto Bertarelli](../docs/persons/ernesto-bertarelli.md): Ponte Swiss-Harvard
+
+**Scheda**: **✅**
+
+| Dato | Dettaglio |
+|------|-----------|
+| **Net Worth** | $11.58B |
+| **Famiglia** | [Bertarelli](../docs/family/bertarelli.md) (3a gen pharma) |
+| **Exit** | Serono → Merck KGaA ($13.3B, 2007) |
+| **Family Office** | [B-Flexion](../docs/private-equity/b-flexion.md) |
+| **Donazione HMS** | $75M (2023) |
+
+```
+ERNESTO BERTARELLI ($11.58B)
+        │
+        ├── HARVARD
+        │       ├── HMS Board of Fellows (Chairman)
+        │       ├── HBS Dean's Advisors
+        │       └── $75M donation (2023)
+        │
+        ├── SVIZZERA
+        │       ├── Campus Biotech Geneva (co-founder)
+        │       ├── EPFL Advisory Board
+        │       └── UBS board (2002-09)
+        │
+        └── INVESTIMENTI
+                ├── B-Flexion (chairman)
+                └── Bertarelli Foundation (co-chair)
+```
+
+**Pattern**: Bertarelli connette Harvard (HMS + HBS), Svizzera (EPFL, Campus Biotech), e filantropia (fondazione), creando un ponte Swiss-American nel settore life sciences.
+
+### Caso Elizabeth Holmes (2015-2016)
+
+| Data | Evento |
+|------|--------|
+| 2015 | Jeffrey Flier (Dean) invita Holmes al Board of Fellows |
+| 2015 | Wall Street Journal pubblica expose' Theranos |
+| 2016 | Holmes chiede dimissioni |
+| 2022 | Holmes condannata per frode |
+
+**Lezione**: Mancanza di due diligence nell'ammissione al Board of Fellows.
+
+---
+
+## 11. Eli Lilly: Il Primo Trilione
+
+**Scheda**: [Eli Lilly](../docs/pharma/eli-lilly.md) **✅**
+
+### $1 Trillion Milestone (Nov 2025)
+
+| Metrica | Valore |
+|---------|--------|
+| **Market Cap** | **$1 trillion** (primo healthcare) |
+| **Revenue 2025** | ~$63B |
+| **GLP-1 Share** | 53% globale (sorpasso Novo Nordisk) |
+| **Chairman & CEO** | [David Ricks](../docs/persons/david-ricks.md) (2017-) |
+
+### Crescita sotto Ricks
+
+```
+2017: Ricks CEO (~$70B market cap)
+      │
+      ▼
+2022: Mounjaro (tirzepatide) approval
+      │
+      ▼
+2023: Zepbound (obesity) approval
+      │
+      ▼
+Nov 2025: $1 TRILLION (14x in 8 anni)
+```
+
+### Network CEO
+
+```
+DAVID RICKS
+    │
+    ├── Eli Lilly (Chairman & CEO 2017-)
+    │
+    ├── PhRMA (Board Chair 2020-22)
+    │
+    ├── Business Roundtable (member)
+    │
+    └── Adobe (board)
+```
+
+### Lilly Endowment
+
+| Metrica | Valore |
+|---------|--------|
+| **Assets** | **$80B** (2024) |
+| **Fondazione** | 1937 (famiglia Lilly) |
+| **Focus** | Indiana, Religion, Education |
+| **Relazione** | Entita' separata da azienda |
+
+**Pattern**: Famiglia Lilly uscita dalla gestione operativa (Gen 4), ma influenza mantenuta attraverso Lilly Endowment ($80B), una delle piu' grandi fondazioni USA.
+
+---
+
+## 12. Pattern Identificati
 
 ### 1. Regulatory Capture Sistemica
 
@@ -397,10 +629,28 @@ FDA (65% industry-funded)
 
 | Forum | Ruolo Pharma |
 |-------|--------------|
-| **WEF** | Andre Hoffmann (Roche) Co-Chair |
-| **PhRMA** | CEO rotation (Bourla → Narasimhan → Schinecker) |
-| **CFR** | Margaret Hamburg board, Rubenstein Chairman |
+| **WEF** | [Andre Hoffmann](../docs/persons/andre-hoffmann.md) (Roche) Co-Chair dal Ago 2025 |
+| **PhRMA** | CEO rotation ([Bourla](../docs/persons/albert-bourla.md) → Narasimhan → Schinecker) |
+| **CFR** | [Margaret Hamburg](../docs/persons/margaret-hamburg.md) board, Rubenstein Chairman |
 | **Bilderberg** | Rubenstein (Moderna board) |
+| **Club of Rome** | [Andre Hoffmann](../docs/persons/andre-hoffmann.md) member |
+| **NTI** | [Margaret Hamburg](../docs/persons/margaret-hamburg.md) Chair bio Advisory |
+
+### 2b. Pattern Hamburg: Regolatore → Full Network
+
+[Margaret Hamburg](../docs/persons/margaret-hamburg.md) rappresenta il pattern piu' completo di revolving door:
+
+| Settore | Posizione |
+|---------|-----------|
+| **Regolatore** | FDA Commissioner 2009-15 |
+| **PPP** | GAVI board, CEPI board |
+| **Fondazioni** | Gates advisor, Rockefeller ex-board |
+| **Think Tank** | CFR board, CSIS |
+| **Pharma** | Alnylam board |
+| **Biosecurity** | NTI Chair bio Advisory |
+| **Intelligence** | Vice Chair PIAB, ex-CIA Science Board |
+
+**Differenza da altri ex-FDA**: Gottlieb, Hahn, McClellan vanno "solo" in pharma/VC. Hamburg entra in tutto il network.
 
 ### 3. PPP Bypass Accountability
 
@@ -437,7 +687,7 @@ BIG THREE (Vanguard, BlackRock, State Street)
 
 ---
 
-## 11. Entità nel Database
+## 13. Entità nel Database
 
 ### Organizzazioni (Schede Complete)
 
@@ -448,38 +698,48 @@ BIG THREE (Vanguard, BlackRock, State Street)
 | [who](../docs/agency/who.md) | Agency | ✅ |
 | [cepi](../docs/agency/cepi.md) | Agency | ✅ |
 | [fda](../docs/agency/fda.md) | Agency | ✅ |
+| **[phrma](../docs/agency/phrma.md)** | Agency | **✅** |
 | [pfizer](../docs/pharma/pfizer.md) | Pharma | ✅ |
+| **[eli-lilly](../docs/pharma/eli-lilly.md)** | Pharma | **✅** |
 | [johnson-johnson](../docs/pharma/johnson-johnson.md) | Pharma | ✅ |
 | [moderna](../docs/pharma/moderna.md) | Pharma | ✅ |
 | [biontech](../docs/pharma/biontech.md) | Pharma | ✅ |
 | [roche](../docs/pharma/roche.md) | Pharma | ✅ |
 | [novartis](../docs/pharma/novartis.md) | Pharma | ✅ |
 | [flagship-pioneering](../docs/private-equity/flagship-pioneering.md) | PrivateEquity | Stub |
+| **[b-flexion](../docs/private-equity/b-flexion.md)** | PrivateEquity | Stub |
 | [astrazeneca](../docs/pharma/astrazeneca.md) | Pharma | ✅ |
 | [merck](../docs/pharma/merck.md) | Pharma | ✅ |
 | [gsk](../docs/pharma/gsk.md) | Pharma | ✅ |
+| **[harvard-medical-school](../docs/company/harvard-medical-school.md)** | University | **✅** |
 | [morgan-stanley](../docs/bank/morgan-stanley.md) | Bank | Stub |
 | [northrop-grumman](../docs/company/northrop-grumman.md) | Company | Stub |
 | [microsoft](../docs/company/microsoft.md) | Company | Stub |
+| **[lilly-endowment](../docs/foundation/lilly-endowment.md)** | Foundation | Stub |
 
 ### Persone Chiave
 
 | ID | Ruolo | Scheda |
 |----|-------|--------|
-| albert-bourla | CEO Pfizer | Stub |
-| scott-gottlieb | Ex-FDA → Pfizer | Stub |
+| **[albert-bourla](../docs/persons/albert-bourla.md)** | CEO Pfizer, Chairman PhRMA | **✅** |
+| **[scott-gottlieb](../docs/persons/scott-gottlieb.md)** | Ex-FDA → Pfizer (83 giorni), Illumina Chairman | **✅** |
+| **[margaret-hamburg](../docs/persons/margaret-hamburg.md)** | Ex-FDA → GAVI, CEPI, CFR, Gates, NTI, Alnylam | **✅** |
+| **[andre-hoffmann](../docs/persons/andre-hoffmann.md)** | Roche Vice-Chair, **WEF Co-Chair** | **✅** |
+| **[ernesto-bertarelli](../docs/persons/ernesto-bertarelli.md)** | HMS Board Chair, ex-CEO Serono, B-Flexion | **✅** |
+| **[david-ricks](../docs/persons/david-ricks.md)** | CEO Eli Lilly, ex-PhRMA Chair | Stub |
 | joaquin-duato | CEO J&J | Stub |
 | mark-mcclellan | Ex-FDA → J&J | Stub |
 | stephane-bancel | CEO Moderna | Stub |
 | stephen-hahn | Ex-FDA → Flagship | Stub |
 | noubar-afeyan | Flagship/Moderna | Stub |
-| david-rubenstein | Moderna board, CFR Chair | Esistente |
+| billy-tauzin | **Ex-Congressman → PhRMA ($2M/anno)** | Stub |
+| daniel-oday | CEO Gilead, **PhRMA Chair 2024** | Stub |
+| [david-rubenstein](../docs/persons/david-rubenstein.md) | Moderna board, CFR Chair | Esistente |
 | ugur-sahin | CEO BioNTech | Stub |
 | ozlem-tureci | CMO BioNTech | Stub |
-| andre-hoffmann | Roche, **WEF Co-Chair** | Stub |
 | thomas-schinecker | CEO Roche | Stub |
-| vas-narasimhan | CEO Novartis, **PhRMA Chair** | Stub |
-| jose-barroso | GAVI Chair, Goldman | Esistente |
+| [vas-narasimhan](../docs/persons/vas-narasimhan.md) | CEO Novartis, **PhRMA Chair**, HMS Board | Esistente |
+| [jose-barroso](../docs/persons/jose-barroso.md) | GAVI Chair, Goldman | Esistente |
 | pascal-soriot | CEO AstraZeneca, WEF | Stub |
 | jane-henney | **Ex-FDA → AstraZeneca** | Stub |
 | michel-demare | Chairman AstraZeneca | Stub |
@@ -489,10 +749,11 @@ BIG THREE (Vanguard, BlackRock, State Street)
 | emma-walmsley | CEO GSK, **Microsoft board** | Stub |
 | jonathan-symonds | Chairman GSK, ex-CFO Novartis+AZ | Stub |
 | luke-miels | Incoming CEO GSK | Stub |
+| william-kaelin | **Nobel 2019, HMS Prof, Eli Lilly board** | Stub |
 
 ---
 
-## 12. Implicazioni
+## 14. Implicazioni
 
 ### 1. Unelected Power
 
@@ -526,7 +787,7 @@ PHARMA CEO ──► PhRMA Chair ──► Lobbying ──► FDA policy
 
 ---
 
-## 13. Domande Aperte
+## 15. Domande Aperte
 
 1. **WEF post-Schwab**: Hoffmann + Fink consolidano pharma + finance al vertice?
 2. **Gates Foundation 2045**: Chi eredita l'influenza?
@@ -549,6 +810,7 @@ PHARMA CEO ──► PhRMA Chair ──► Lobbying ──► FDA policy
 
 ### Aziende
 - [Pfizer](https://www.pfizer.com/)
+- [Eli Lilly](https://www.lilly.com/)
 - [J&J](https://www.jnj.com/)
 - [Moderna](https://www.modernatx.com/)
 - [BioNTech](https://www.biontech.com/)
@@ -557,6 +819,13 @@ PHARMA CEO ──► PhRMA Chair ──► Lobbying ──► FDA policy
 - [AstraZeneca](https://www.astrazeneca.com/)
 - [Merck](https://www.merck.com/)
 - [GSK](https://www.gsk.com/)
+
+### Network Accademico
+- [Harvard Medical School](https://hms.harvard.edu/)
+- [Lilly Endowment](https://lillyendowment.org/)
+
+### Lobbying
+- [OpenSecrets - PhRMA](https://www.opensecrets.org/orgs/pharmaceutical-research-manufacturers-of-america/summary)
 
 ### Analisi Revolving Door
 - [STAT News - Gottlieb Pfizer](https://www.statnews.com/pharmalot/2019/06/27/scott-gottlieb-pfizer-board-fda/)
@@ -571,5 +840,8 @@ PHARMA CEO ──► PhRMA Chair ──► Lobbying ──► FDA policy
 ---
 
 *Report creato: Dicembre 2025*
-*Ultimo aggiornamento: 9 Dicembre 2025*
-*Entità documentate: 9 Pharma, 5 Agency, 1 Foundation, 3 stub (18 org totali), 25+ persone chiave*
+*Ultimo aggiornamento: 30 Dicembre 2025*
+*Entità documentate: 10 Pharma, 6 Agency, 2 Foundation, 1 University, 23 org totali*
+*Persone con schede complete: 5 (Hoffmann, Gottlieb, Hamburg, Bourla, Bertarelli) + 4 esistenti*
+*Nuove schede questa sessione: PhRMA, Harvard Medical School, Eli Lilly, Ernesto Bertarelli*
+*Persone stub: 20+*

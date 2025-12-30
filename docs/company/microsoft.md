@@ -64,20 +64,28 @@
 
 | Ruolo | Nome | Dal |
 |-------|------|-----|
-| CEO & Chairman | Satya Nadella | 2014 (CEO), 2021 (Chairman) |
+| CEO & Chairman | [Satya Nadella](../persons/satya-nadella.md) | 2014 (CEO), 2021 (Chairman) |
 | CFO | Amy Hood | 2013 |
-| President | Brad Smith | 2015 |
+| President | [Brad Smith](../persons/brad-smith.md) | 2015 |
+| COO | Carolina Dybeck-Happe | 2024 |
 | Lead Independent Director | Sandra Peterson | 2023 |
 
-### Board of Directors
+### Board of Directors (2025)
 
-| Nome | Background |
-|------|------------|
-| Satya Nadella | CEO & Chairman |
-| Reid Hoffman | Co-founder LinkedIn, Greylock |
-| Penny Pritzker | Ex Sec. Commerce USA, Pritzker family |
-| Hugh Johnston | CFO PepsiCo |
-| Sandra Peterson | Ex J&J |
+| Nome | Background | Comitato |
+|------|------------|----------|
+| [Satya Nadella](../persons/satya-nadella.md) | CEO & Chairman | - |
+| Sandra Peterson | Lead Independent Director, ex-J&J | Gov & Nom Chair |
+| [Reid Hoffman](../persons/reid-hoffman.md) | Co-founder LinkedIn, Greylock | Gov & Nom |
+| [Penny Pritzker](../persons/penny-pritzker.md) | Ex Sec. Commerce USA, Pritzker family | Independent |
+| Hugh Johnston | Ex-CFO PepsiCo | Audit Chair, Finance |
+| Charlie Scharf | CEO [Wells Fargo](../bank/wells-fargo.md) | Compensation |
+| Mark Mason | CFO [Citigroup](../bank/citigroup.md) | Gov & Nom |
+| John Stanton | Telecom executive | Compensation Chair |
+| [Emma Walmsley](../persons/emma-walmsley.md) | CEO GSK | Compensation |
+| Catherine MacGregor | CEO [Engie](engie.md) | Independent |
+| Teri List-Stoll | Ex-CFO Gap, Kraft | Audit |
+| John Rainey | Ex-CFO Walmart (dal Dec 2025) | - |
 
 ---
 
@@ -198,4 +206,4 @@ Microsoft ha scommesso sull'AI come next platform shift:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: 30 Dicembre 2025*

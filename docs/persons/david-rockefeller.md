@@ -208,7 +208,7 @@ Le istituzioni fondate o plasmate da Rockefeller continuano:
 - **Trilaterale**: Attiva con ~400 membri
 - **CFR**: Piu' influente che mai
 - **JPMorgan Chase**: $4 trilioni di asset
-- **[Rockefeller Foundation](../istituzioni/rockefeller-foundation.md)**: Filantropia globale
+- **[Rockefeller Foundation](../foundation/rockefeller-foundation.md)**: Filantropia globale
 
 ---
 
@@ -218,11 +218,16 @@ Le istituzioni fondate o plasmate da Rockefeller continuano:
 
 | Entita' | Connessione |
 |---------|-------------|
-| [CFR](../istituzioni/cfr.md) | Chairman 1970-1985 |
-| [Trilaterale](../istituzioni/bilderberg-trilaterale.md) | Fondatore 1973 |
-| [Bilderberg](../istituzioni/bilderberg-trilaterale.md) | Partecipante storico |
-| [JPMorgan Chase](../istituzioni/jpmorgan-chase.md) | Chase Manhattan → fusione |
-| [Federal Reserve](../istituzioni/federal-reserve.md) | Influenza indiretta, Volcker |
+| [CFR](../think-tank/cfr.md) | Chairman 1970-1985 |
+| [Trilateral Commission](../forum/trilateral-commission.md) | Fondatore 1973 |
+| [Bilderberg](../forum/bilderberg.md) | Steering Committee dal 1954 |
+| [Chase Manhattan](../bank/chase-manhattan.md) | Chairman & CEO 1969-1981 |
+| [JPMorgan Chase](../bank/jpmorgan-chase.md) | Via fusione Chase |
+| [Rockefeller Foundation](../foundation/rockefeller-foundation.md) | Trustee |
+| [Rockefeller University](../foundation/rockefeller-university.md) | Chairman Emeritus |
+| [MoMA](../foundation/moma.md) | Chairman Emeritus |
+| [Americas Society](../forum/americas-society.md) | Founder & Chairman |
+| [Council of the Americas](../forum/council-americas.md) | Founder |
 
 ### Famiglia
 

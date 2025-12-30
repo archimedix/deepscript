@@ -165,6 +165,16 @@ families:
     - person: pier-silvio-berlusconi
       generation: 2
       role: heir
+  bertarelli:
+    origin: ITA
+    founder: pietro-bertarelli
+    sector: pharma
+    generations: 3
+    status: active
+    members:
+    - person: ernesto-bertarelli
+      generation: 3
+      role: heir
   bettencourt:
     origin: France
     founder: eugene-schueller
@@ -644,6 +654,16 @@ families:
     - person: joseph-kabila
       generation: 2
       role: son
+  kamprad:
+    origin: Svezia
+    founder: Ingvar Kamprad
+    sector: retail-arredamento
+    generations: 2
+    status: attiva
+    members:
+    - person: ingvar-kamprad
+      generation: 1
+      role: founder
   karamanlis:
     origin: Greece, Macedonia (Serres)
     founder: konstantinos-karamanlis-sr
@@ -781,6 +801,12 @@ families:
     - person: li-hongyi
       generation: 3
       role: member
+  lilly:
+    origin: USA
+    founder: eli-lilly-sr
+    sector: pharma
+    generations: 4
+    status: active
   luksic:
     origin: CHL
     founder: Andrónico Luksic Abaroa
@@ -1060,6 +1086,20 @@ families:
     - person: george-papandreou
       generation: 3
       role: heir
+  persson:
+    origin: Svezia
+    founder: Erling Persson
+    sector: retail-moda
+    generations: 3
+    status: attiva
+    members:
+    - person: stefan-persson
+      generation: 2
+    - person: karl-johan-persson
+      generation: 3
+    - person: erling-persson
+      generation: 1
+      role: founder
   peugeot:
     origin: France
     founder: Armand Peugeot
@@ -1367,6 +1407,20 @@ families:
     - person: daniel-steinmetz
       generation: 2
     - person: rubin-steinmetz
+      generation: 1
+      role: founder
+  stenbeck:
+    origin: Svezia
+    founder: Hugo Stenbeck
+    sector: telecomunicazioni-media
+    generations: 4
+    status: attiva
+    members:
+    - person: cristina-stenbeck
+      generation: 3
+    - person: jan-stenbeck
+      generation: 2
+    - person: hugo-stenbeck
       generation: 1
       role: founder
   tata:

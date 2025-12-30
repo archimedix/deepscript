@@ -1,11 +1,12 @@
 
-Analizza la mappa del potere in Europa e le connessioni con il resto del mondo tenendo conto dei dati già emersi. Crea un report di entità e di persone rilevanti. Cobntrolla le eventuali connessioni già presenti e aggiungi quelli mancanti nel db per affinare i dati. 
+Analizza la mappa del potere in Svezia e le connessioni con il resto del mondo tenendo conto dei dati già emersi. Crea un report di entità e di persone rilevanti. Cobntrolla le eventuali connessioni già presenti e aggiungi quelli mancanti nel db per affinare i dati. 
 
 Ora crea il report sulla mappa del potere in Canada, integrando le informazioni e le connessioni rilevanti. La aggiornerò in un secondo momento analizzando nuovi dati
 
-Ora puoi aggiornare il file eu-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+Ora puoi aggiornare il file big-tech-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
-Ora puoi aggiornare il file turkey-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+Ora puoi aggiornare il file usa-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+Ora puoi aggiornare il file sweden-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
 SudaFrica
 categoria Banche
@@ -15,6 +16,8 @@ Gruppo energia (petrolio)
 Casate Reali
 Brasile: lula, bolsonaro
 unthinkable di churchill, alan bruc, 
+
+billionaire Forbes
 
 pininfarina
 council-inclusive-capitalism

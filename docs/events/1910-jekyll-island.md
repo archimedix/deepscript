@@ -118,17 +118,17 @@ Per evitare che il personale di servizio riconoscesse i potenti partecipanti:
 
 | Persona | Connessione |
 |---------|-------------|
-| [David Rockefeller](../persone/david-rockefeller.md) | Nipote di John D. Rockefeller Jr., genero di Aldrich |
-| Nelson Aldrich | Suocero di John D. Rockefeller Jr. |
-| Paul Warburg | Figlio James Warburg sara' CFR |
+| [David Rockefeller](../persons/david-rockefeller.md) | Nipote di John D. Rockefeller Jr., genero di Aldrich |
+| [Nelson Aldrich](../persons/nelson-aldrich.md) | Suocero di John D. Rockefeller Jr. |
+| [Paul Warburg](../persons/paul-warburg.md) | Figlio James Warburg sara' CFR |
 
 ### Istituzioni
 
 | Entita' | Ruolo |
 |---------|-------|
-| [Federal Reserve](../istituzioni/federal-reserve.md) | Creata dal piano Jekyll Island |
-| [JPMorgan Chase](../istituzioni/jpmorgan-chase.md) | Erede di J.P. Morgan & Co. |
-| [CFR](../istituzioni/cfr.md) | Fondato 1921, stesso network |
+| [Federal Reserve](../central-bank/federal-reserve.md) | Creata dal piano Jekyll Island |
+| [JPMorgan Chase](../bank/jpmorgan-chase.md) | Erede di J.P. Morgan & Co. |
+| [CFR](../think-tank/cfr.md) | Fondato 1921, stesso network |
 
 ### Famiglie
 

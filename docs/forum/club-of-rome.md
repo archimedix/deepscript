@@ -58,6 +58,7 @@ Centrale per Peccei era l'idea che i problemi dell'umanita' - degrado ambientale
 | **1968** | Fondazione a Roma |
 | **1970** | Commissione MIT per studio limiti crescita |
 | **1972** | Pubblicazione "The Limits to Growth" |
+| **1972** | Peccei co-fonda [IIASA](../think-tank/iiasa.md) (Laxenburg, Austria) |
 | **1973** | Crisi petrolifera (validazione tesi) |
 | **1984** | Morte Aurelio Peccei |
 | **1991** | "The First Global Revolution" |
@@ -105,17 +106,18 @@ Il report piu' influente del Club.
 
 ### Presidenti Storici
 
-| Nome | Paese | Periodo |
-|------|-------|---------|
-| [Aurelio Peccei](../persons/aurelio-peccei.md) | Italia | 1968-1984 |
-| Alexander King | UK | 1984-1990 |
-| Ricardo Diez Hochleitner | Spagna | 1990-2000 |
-| Prince El Hassan bin Talal | Giordania | 2000-2007 |
-| Ashok Khosla | India | 2007-2012 |
-| Anders Wijkman | Svezia | 2012-2018 |
-| Ernst von Weizsacker | Germania | 2012-2018 |
-| Sandrine Dixson-Decleve | Belgio | 2018-2023 |
-| Mamphela Ramphele | Sudafrica | 2018-2023 |
+| Nome | Paese | Periodo | Note |
+|------|-------|---------|------|
+| [Aurelio Peccei](../persons/aurelio-peccei.md) | Italia | 1968-1984 | Fondatore |
+| [Alexander King](../persons/alexander-king.md) | UK | 1984-1990 | Co-fondatore |
+| Ricardo Diez Hochleitner | Spagna | 1990-1999 | |
+| [Prince El Hassan bin Talal](../persons/hassan-bin-talal.md) | Giordania | 1999-2007 | Ex Crown Prince |
+| [Ashok Khosla](../persons/ashok-khosla.md) | India | 2005-2012 | Co-Presidente con von Koerber |
+| Eberhard von Koerber | Germania | 2005-2012 | Co-Presidente con Khosla |
+| Anders Wijkman | Svezia | 2012-2018 | Co-Presidente |
+| Ernst von Weizsacker | Germania | 2012-2018 | Co-Presidente |
+| Sandrine Dixson-Decleve | Belgio | 2018-2023 | Co-Presidente |
+| [Mamphela Ramphele](../persons/mamphela-ramphele.md) | Sudafrica | 2018-2023 | Co-Presidente |
 
 ### Organi Direttivi
 
@@ -151,8 +153,8 @@ Ammissione solo su invito, per contributo eccezionale nei rispettivi campi.
 
 | Nome | Ruolo | Paese |
 |------|-------|-------|
-| [Philippe del Belgio](../persons/philippe-belgium.md) | Honorary Chairman EU Chapter | Belgio |
-| Prince El Hassan bin Talal | Presidente 2000-2007 | Giordania |
+| [Philippe del Belgio](../persons/philippe-belgium.md) | Honorary Chairman EU Chapter (2004-) | Belgio |
+| [Prince El Hassan bin Talal](../persons/hassan-bin-talal.md) | Presidente (1999-2007) | Giordania |
 
 ---
 
@@ -201,9 +203,12 @@ Ammissione solo su invito, per contributo eccezionale nei rispettivi campi.
 
 | Persona | Ruolo |
 |---------|-------|
-| [Aurelio Peccei](../persons/aurelio-peccei.md) | Fondatore, primo Presidente |
-| [Alexander King](../persons/alexander-king.md) | Co-fondatore |
-| [Philippe del Belgio](../persons/philippe-belgium.md) | Honorary Chairman EU Chapter |
+| [Aurelio Peccei](../persons/aurelio-peccei.md) | Fondatore, primo Presidente (1968-1984) |
+| [Alexander King](../persons/alexander-king.md) | Co-fondatore, Presidente (1984-1990) |
+| [Prince El Hassan bin Talal](../persons/hassan-bin-talal.md) | Presidente (1999-2007) |
+| [Ashok Khosla](../persons/ashok-khosla.md) | Co-Presidente (2005-2012) |
+| [Mamphela Ramphele](../persons/mamphela-ramphele.md) | Co-Presidente (2018-2023) |
+| [Philippe del Belgio](../persons/philippe-belgium.md) | Honorary Chairman EU Chapter (2004-) |
 
 ### Aziende/Istituzioni
 
@@ -211,9 +216,12 @@ Ammissione solo su invito, per contributo eccezionale nei rispettivi campi.
 |---------|-----------|
 | Fondazione Agnelli | Sponsor fondazione 1968 |
 | MIT | Autori "Limits to Growth" |
-| OCSE | Alexander King era capo Scienza |
-| Fiat | Aurelio Peccei era dirigente |
-| Olivetti | Aurelio Peccei era presidente |
+| [OECD](../agency/oecd.md) | Alexander King era Director General Scientific Affairs |
+| [IIASA](../think-tank/iiasa.md) | Co-fondata da Peccei nel 1972 |
+| [Fiat](../automaker/fiat.md) | Aurelio Peccei era dirigente |
+| [Olivetti](../company/olivetti.md) | Aurelio Peccei era presidente |
+| [UNEP](../agency/unep.md) | Ashok Khosla era Director Infoterra |
+| [World Bank](../agency/world-bank.md) | Mamphela Ramphele era Managing Director |
 
 ---
 

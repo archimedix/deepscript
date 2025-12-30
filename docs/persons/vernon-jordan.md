@@ -35,7 +35,7 @@
 | **1960-1962** | Clerk | Studio legale Donald Hollowell, Atlanta |
 | **1962-1964** | Georgia Field Director | [NAACP](../foundation/naacp.md) |
 | **1964-1968** | Director | Voter Education Project, Southern Regional Council |
-| **1970-1971** | Executive Director | United Negro College Fund |
+| **1970-1971** | Executive Director | [United Negro College Fund](../foundation/uncf.md) |
 | **1971-1981** | President & CEO | [National Urban League](../foundation/national-urban-league.md) |
 | **1982-2000** | Partner | [Akin Gump Strauss Hauer & Feld](../company/akin-gump.md) |
 | **2000-2021** | Senior Managing Director | [Lazard](../bank/lazard.md) |
@@ -75,6 +75,7 @@ Il 29 maggio 1980, un suprematista bianco sparo' a Jordan a Fort Wayne, Indiana.
 | **[Bilderberg](../forum/bilderberg.md)** | Steering Committee |
 | **[CFR](../think-tank/cfr.md)** | Life Member, Board |
 | **[Trilateral Commission](../forum/trilateral-commission.md)** | Member |
+| **[American Academy of Arts and Sciences](../forum/american-academy-arts-sciences.md)** | Fellow |
 
 ### Board Aziendali
 
@@ -143,6 +144,9 @@ Il passaggio da presidente National Urban League (1981) a partner di uno studio 
 | [Trilateral Commission](../forum/trilateral-commission.md) | Member |
 | [Lazard](../bank/lazard.md) | Senior Managing Director 2000-2021 |
 | [National Urban League](../foundation/national-urban-league.md) | President 1971-1981 |
+| [NAACP Legal Defense Fund](../foundation/naacp-ldf.md) | Senior Director, Board (~30 anni) |
+| [United Negro College Fund](../foundation/uncf.md) | Executive Director 1970-1971 |
+| [American Academy of Arts and Sciences](../forum/american-academy-arts-sciences.md) | Fellow |
 
 ### Persone
 
@@ -187,4 +191,4 @@ Il passaggio da presidente National Urban League (1981) a partner di uno studio 
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Dicembre 2025*

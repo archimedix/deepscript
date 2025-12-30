@@ -60,27 +60,86 @@ L'India post-1991 rappresenta un **caso studio unico** di trasformazione economi
 | **President** | [Droupadi Murmu](../docs/persons/droupadi-murmu.md) | 2022 | Prima tribale, seconda donna |
 | **Prime Minister** | [Narendra Modi](../docs/persons/narendra-modi.md) | 2014 | WEF Davos keynote 2018, 2021, 2022 |
 | **Finance Minister** | [Nirmala Sitharaman](../docs/persons/nirmala-sitharaman.md) | 2019 | **Membro IMFC**, rappresenta India a IMF/World Bank |
-| **External Affairs** | [S. Jaishankar](../docs/persons/s-jaishankar.md) | 2019 | Ex-ambasciatore USA e Cina, WEF, Chatham House |
+| **External Affairs** | [S. Jaishankar](../docs/persons/s-jaishankar.md) | 2019 | Ex-ambasciatore USA/Cina, WEF, Munich Security, **dinastia strategica** |
+
+### Dinastia Jaishankar: Tre Generazioni di Politica Estera
+
+```
+K. Subrahmanyam (1929-2011)
+    |-- "Padre degli studi strategici indiani"
+    |-- Fondatore IDSA (1965)
+    |-- Architetto dottrina nucleare indiana
+    |-- Chair Kargil Review Committee
+    |
+    +-- S. Jaishankar (1955)
+    |       IFS 1977-2018
+    |       Ambasciatore USA, Cina
+    |       Foreign Secretary 2015-18
+    |       Tata Sons 2018-19 (revolving door)
+    |       External Affairs Minister 2019-
+    |       |
+    |       +-- Dhruva Jaishankar
+    |               David Rockefeller Fellow, Trilateral Commission
+    |               Executive Director ORF America
+    |               Brookings Fellow
+    |               Lowy Institute Fellow
+    |
+    +-- S. Vijay Kumar (IAS, ex-Rural Development Secretary)
+    +-- Sanjay Subrahmanyam (Storico, UCLA)
+```
+
+**Pattern**: Tre generazioni che plasmano la politica estera indiana - padre stratega nucleare, figlio ministro, nipote nei think tank globali (Trilateral, ORF, Brookings). Esempio di **potere tecnocratico ereditario**.
 
 ### Dinastia Nehru-Gandhi
 
 ```
+Motilal Nehru (INC President 1919-20, 1928-29)
+        │
+        ▼
 Jawaharlal Nehru (PM 1947-64)
         │ 17 anni
         ▼
-Indira Gandhi (PM 1966-77, 1980-84)
-        │ 15 anni
+Indira Gandhi nee Nehru (PM 1966-77, 1980-84)
+        │ 15 anni ─── sposata Feroze Gandhi (NO parentela con Mahatma)
         ▼
 Rajiv Gandhi (PM 1984-89)
-        │ 5 anni
+        │ 5 anni ─── sposato [SONIA MAINO](../docs/persons/sonia-gandhi.md) (ITALIANA)
         ▼
-Sonia Gandhi (Congress President 1998-2017)
-        │
+[Sonia Gandhi](../docs/persons/sonia-gandhi.md) (INC President 1998-2022)
+        │ 22+ anni ─── Italiana naturalizzata, rifiuta PM 2004
         ▼
-Rahul Gandhi (Leader opposizione)
+Rahul Gandhi (INC President 2017-19, Leader opposizione)
+Priyanka Gandhi (AICC General Secretary)
 ```
 
-**38 anni** di governo Nehru-Gandhi su 78 anni di indipendenza. La transizione a Modi (2014) segna la fine dell'egemonia Congress.
+**Nota critica**: La dinastia Nehru-Gandhi **non ha parentela** con [Mahatma Gandhi](../docs/persons/mahatma-gandhi.md). Il cognome "Gandhi" di Indira deriva dal marito Feroze Gandhi, un parsi non imparentato col Mahatma.
+
+**54 anni** di governo Congress su 78 anni di indipendenza (1947-2024). **38 anni** governati direttamente dalla famiglia Nehru-Gandhi.
+
+### Sonia Gandhi: L'Italiana al Vertice
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Origine** | Lusiana (Vicenza), cresciuta Orbassano (Torino) |
+| **Cittadinanza** | Italiana (nascita), Indiana (naturalizzata 1983) |
+| **Ruolo INC** | President 1998-2017, 2019-2022 (piu' longeva) |
+| **Rifiuto PM** | 2004: declina premiership per opposizione nazionalista |
+| **Potere reale** | Chairperson UPA, controllava governo Singh 2004-2014 |
+| **Forum globali** | Co-Chair [State of the World Forum](../docs/forum/state-of-the-world-forum.md) (1995-2000) |
+
+**Pattern**: Potere indiretto - governare senza titolo formale. Singh tecnocrate, Sonia decision-maker.
+
+### Indian National Congress: Il Partito-Stato
+
+| Metrica | Valore |
+|---------|--------|
+| **Fondazione** | 1885 (pre-indipendenza) |
+| **Anni al governo** | ~54 su 78 |
+| **PM Congress** | Nehru, Shastri, Indira, Rajiv, Rao, Singh |
+| **Presidente attuale** | [Mallikarjun Kharge](../docs/persons/mallikarjun-kharge.md) (2022, primo non-Gandhi in 24 anni) |
+| **Declino** | Da 415 seggi (1984) a 44 (2014) |
+
+[Scheda completa INC](../docs/company/indian-national-congress.md)
 
 ### Le Riforme 1991: Il Punto di Svolta
 
@@ -522,10 +581,20 @@ WEF Board 2006                1.4 miliardi ID             G20 DPI Chair 2023
 | `narendra-modi` | PM India 2014-, WEF Davos keynote | **STUB** |
 | `droupadi-murmu` | President 2022-, prima tribale | **STUB** |
 | `nirmala-sitharaman` | Finance Minister 2019-, membro IMFC | **STUB** |
-| `s-jaishankar` | External Affairs Minister 2019- | **STUB** |
+| `s-jaishankar` | External Affairs Minister 2019-, dinastia strategica | [Link](../docs/persons/s-jaishankar.md) |
+| `k-subrahmanyam` | Fondatore IDSA, stratega nucleare, padre Jaishankar | **STUB** |
+| `dhruva-jaishankar` | Trilateral Commission, ORF America, figlio Jaishankar | **STUB** |
 | `manmohan-singh` | PM 2004-14, FM 1991-96 (riforme), morto 2024 | **STUB** |
 | `jawaharlal-nehru` | Primo PM 1947-64, padre nazione | **STUB** |
 | `indira-gandhi` | PM 1966-84, Emergency, assassinata | **STUB** |
+| `mahatma-gandhi` | Padre della nazione, leader indipendenza (NO parentela Nehru-Gandhi) | [Link](../docs/persons/mahatma-gandhi.md) |
+| `sonia-gandhi` | INC President 22+ anni, italiana, Co-Chair State of World Forum | [Link](../docs/persons/sonia-gandhi.md) |
+| `rajiv-gandhi` | PM 1984-89, marito Sonia | **STUB** |
+| `rahul-gandhi` | INC President 2017-19, figlio Sonia | **STUB** |
+| `priyanka-gandhi` | AICC General Secretary, figlia Sonia | **STUB** |
+| `mallikarjun-kharge` | INC President 2022-, primo non-Gandhi in 24 anni | **STUB** |
+| `pv-narasimha-rao` | PM 1991-96, riforme economiche | **STUB** |
+| `lal-bahadur-shastri` | PM 1964-66, "Jai Jawan Jai Kisan" | **STUB** |
 | `aryaman-birla` | 6a gen Birla, hospitality, VC | - |
 | `parmanand-hinduja` | Fondatore Hinduja Group 1914 (†1971) | - |
 | `srichand-hinduja` | Chairman Hinduja (†2023) | - |
@@ -609,7 +678,9 @@ WEF Board 2006                1.4 miliardi ID             G20 DPI Chair 2023
 | `nandan-nilekani` | ~~Alta~~ | **COMPLETATA** [Link](../docs/persons/nandan-nilekani.md) - Aadhaar, WEF Board, G20 DPI |
 | `narendra-modi` | ~~Alta~~ | **STUB** - PM India 2014-, WEF Davos |
 | `nirmala-sitharaman` | ~~Alta~~ | **STUB** - Finance Minister, membro IMFC |
-| `s-jaishankar` | ~~Alta~~ | **STUB** - External Affairs Minister |
+| `s-jaishankar` | ~~Alta~~ | **COMPLETATA** [Link](../docs/persons/s-jaishankar.md) - EAM, dinastia strategica |
+| `sonia-gandhi` | ~~Alta~~ | **COMPLETATA** [Link](../docs/persons/sonia-gandhi.md) - INC President, italiana |
+| `mahatma-gandhi` | ~~Alta~~ | **COMPLETATA** [Link](../docs/persons/mahatma-gandhi.md) - Padre nazione |
 | `manmohan-singh` | ~~Alta~~ | **STUB** - PM 2004-14, FM 1991-96, riforme |
 | `droupadi-murmu` | ~~Alta~~ | **STUB** - President 2022-, prima tribale |
 | `jawaharlal-nehru` | Media | **STUB** - Primo PM, 1947-64 |
@@ -644,7 +715,11 @@ WEF Board 2006                1.4 miliardi ID             G20 DPI Chair 2023
 | `jaguar-land-rover` | ~~Automaker~~ | **COMPLETATA** [Link](../docs/automaker/jaguar-land-rover.md) - £23B, P.B. Balaji CEO |
 | `hdfc-bank` | Bank | Media |
 | `icici-bank` | Bank | Media |
-| `observer-research-foundation` | ThinkTank | Media |
+| `observer-research-foundation` | ThinkTank | Media - Dhruva Jaishankar Executive Director |
+| `idsa` | ThinkTank | K. Subrahmanyam fondatore |
+| `indian-national-congress` | Company (politico) | [Link](../docs/company/indian-national-congress.md) - 54 anni governo, dinastia Nehru-Gandhi |
+| `rajiv-gandhi-foundation` | Foundation | Sonia Gandhi chairperson |
+| `state-of-the-world-forum` | Forum | [Link](../docs/forum/state-of-the-world-forum.md) - Gorbachev, Sonia Gandhi Co-Chair |
 
 ---
 
@@ -693,7 +768,17 @@ Modi, Ambani, Adani - tutti gujarati, cresciuti insieme:
 
 **Pattern emergente**: Le tre dinastie dominanti hanno adottato modelli di successione radicalmente diversi - Ambani con transizione rapida per competenza, Adani con trust egualitario, Tata con separazione totale famiglia/gestione.
 
-### 5. WEF Co-Chair Pattern
+### 5. Connessione Italiana
+
+| Persona | Ruolo | Connessione Italia |
+|---------|-------|-------------------|
+| [Sonia Gandhi](../docs/persons/sonia-gandhi.md) | INC President 22+ anni | Nata Lusiana (VI), cresciuta Orbassano (TO) |
+| Ottavio Quattrocchi | Scandalo Bofors | Amico famiglia Gandhi |
+| N. Chandrasekaran | Chairman Tata Sons | Légion d'Honneur Francia |
+
+**Pattern**: L'unica straniera al vertice del potere politico indiano e' italiana. Sonia Gandhi ha governato l'India indirettamente (2004-2014) attraverso PM tecnocrate (Singh).
+
+### 6. WEF Co-Chair Pattern
 
 | Anno | Co-Chair Indiano | Background |
 |------|------------------|------------|
@@ -701,6 +786,18 @@ Modi, Ambani, Adani - tutti gujarati, cresciuti insieme:
 | 2009 | Anand Mahindra | Auto/IT, conglomerate |
 
 Due leader industriali indiani hanno co-presieduto Davos, segnalando l'integrazione dell'elite indiana nel sistema globale.
+
+### 7. Potere Tecnocratico Ereditario
+
+| Famiglia | Generazioni | Settore | Pattern |
+|----------|-------------|---------|---------|
+| **Nehru-Gandhi** | 5 | Politica | PM → PM → PM → President INC |
+| **Jaishankar** | 3 | Politica estera | Stratega IDSA → EAM → Think tank globali |
+| **Ambani** | 3 | Business | Fondatore → Chairman → 3 eredi operativi |
+| **Tata** | 5 | Business | Famiglia → Trust → Manager professionisti |
+| **Birla** | 6 | Business | Famiglia diretta, $2B→$67B |
+
+**Pattern comune**: Il potere in India e' ereditario - politico, tecnocratico e imprenditoriale.
 
 ---
 
@@ -788,4 +885,4 @@ Due leader industriali indiani hanno co-presieduto Davos, segnalando l'integrazi
 
 ---
 
-*Ultimo aggiornamento: 28 Dicembre 2025 - Aggiunte sezioni Governo India (nexus business-politica, riforme 1991, dinastia Nehru-Gandhi), completata scheda Kumar Mangalam Birla (electoral bonds, RBI Board, successione), scheda governo-india*
+*Ultimo aggiornamento: 30 Dicembre 2025 - Aggiunte: dinastia Jaishankar (3 generazioni politica estera, K. Subrahmanyam fondatore IDSA, Dhruva Trilateral Commission); Sonia Gandhi (italiana, INC President 22+ anni, Co-Chair State of World Forum, potere indiretto 2004-14); Mahatma Gandhi (chiarito NO parentela con Nehru-Gandhi); Indian National Congress (54 anni governo, 6 PM); State of the World Forum (Gorbachev 1995-2000)*

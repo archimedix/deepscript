@@ -234,4 +234,4 @@ Marcus Wallenberg Jr e' la figura centrale del potere industriale-finanziario sv
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Dicembre 2025*

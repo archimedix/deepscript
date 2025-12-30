@@ -64,6 +64,121 @@ Gazprombank                                  Nord Stream
 
 ---
 
+## L'Era Gorbachev: Fine dell'URSS e Convergenza Globale
+
+Prima del sistema Yeltsin-Putin, c'e' un capitolo fondamentale: la transizione orchestrata da [Mikhail Gorbachev](../docs/persons/mikhail-gorbachev.md) (1931-2022), ultimo leader sovietico. La sua parabola illumina un pattern cruciale per DeepScript: la **convergenza tra elite sovietiche e occidentali** nella costruzione di una governance globale post-Guerra Fredda.
+
+### Chi era Gorbachev
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nascita** | 2 marzo 1931, Privolnoye, Russia |
+| **Morte** | 30 agosto 2022, Mosca |
+| **Segretario Generale PCUS** | 1985-1991 |
+| **Presidente URSS** | 1990-1991 |
+| **Nobel Pace** | 1990 |
+| **Eredita' in Russia** | Impopolare, visto come responsabile del collasso |
+
+### Le Riforme che Cambiarono il Mondo
+
+| Riforma | Anno | Effetto |
+|---------|------|---------|
+| **Perestroika** | 1985 | Ristrutturazione economica, decentralizzazione |
+| **Glasnost** | 1986 | Apertura, liberta' di stampa e critica |
+| **Demokratizatsiya** | 1987 | Democratizzazione del sistema politico |
+| **Non-intervento** | 1989 | Nessuna repressione rivoluzioni Est Europa |
+
+### Il Network Post-Sovietico: Convergenza Est-Ovest
+
+Dopo la caduta dell'URSS, Gorbachev non si ritiro' dalla scena mondiale. Costrui' un network di organizzazioni che lo connettevano alle elite occidentali - un pattern di **convergenza Est-Ovest** senza precedenti.
+
+```
+                     GORBACHEV (post-1991)
+                            |
+        +-------------------+-------------------+
+        |                   |                   |
+        v                   v                   v
+   GORBACHEV           GREEN CROSS          EARTH CHARTER
+   FOUNDATION          INTL (1993)          INTL (1994)
+   (1991, Mosca)       (Ginevra)            (con Strong)
+        |                   |                   |
+        v                   v                   v
+   Think tank          Ambiente/            16 principi
+   Russia              Sostenibilita'       governance
+        |                   |               globale
+        +-------------------+-------------------+
+                            |
+        +-------------------+-------------------+
+        |                   |                   |
+        v                   v                   v
+    CLUB OF            CLUB MADRID          WEF DAVOS
+    ROME               (2001)               (Contributor)
+   (membro hon.)       (ex capi stato)
+```
+
+### I Partner Occidentali
+
+| Nome | Organizzazione | Connessione con Gorbachev |
+|------|----------------|---------------------------|
+| [Maurice Strong](../docs/persons/maurice-strong.md) | ONU, Earth Council | Co-fondatore Earth Charter (1994) |
+| [Steven Rockefeller](../docs/persons/steven-rockefeller.md) | Rockefeller Brothers Fund | Chair Drafting Committee Earth Charter |
+| [Ruud Lubbers](../docs/persons/ruud-lubbers.md) | Ex PM Paesi Bassi | Co-chair State of World Forum (1995) |
+| Ted Turner | CNN | Co-fondatore State of World Forum |
+| George Shultz | Ex Segr. Stato USA | Co-chair State of World Forum |
+| Klaus Schwab | WEF | Relazioni da anni '90 |
+
+### State of World Forum (1995): La Piattaforma delle Elite
+
+Nel 1995, la Gorbachev Foundation organizzo' il primo **State of the World Forum** a San Francisco, con partecipanti da:
+
+| Network | Rappresentanti |
+|---------|----------------|
+| **Trilateral Commission** | Henry Kissinger |
+| **WEF** | Klaus Schwab |
+| **CFR** | Vari membri |
+| **Club of Rome** | Membri |
+| **Bilderberg** | Partecipanti |
+| **Aspen Institute** | Partecipanti |
+| **Governi** | Bush Sr., Thatcher, Shultz |
+| **Scienza** | Carl Sagan, Jane Goodall |
+| **Economia** | Milton Friedman |
+| **Strategia** | Zbigniew Brzezinski |
+
+**Il messaggio**: "Toward a New Civilization" - Gorbachev proponeva la creazione di un "Global Brain Trust" per guidare la civilta' verso un nuovo ordine mondiale.
+
+### Pattern DeepScript: Da Leader Sovietico a Hub Globale
+
+| Fase | Periodo | Ruolo |
+|------|---------|-------|
+| **1. Leader URSS** | 1985-1991 | Segretario Generale, Presidente |
+| **2. Transizione** | 1991-1992 | Dimissioni, fonda Gorbachev Foundation |
+| **3. Network Builder** | 1993-2000 | Green Cross, Earth Charter, State of World Forum |
+| **4. Elder Statesman** | 2001-2022 | Club Madrid, WEF Contributor, Club of Rome |
+
+### Citazioni Rilevanti
+
+> "We are moving toward a New World Order, the world of Communism. We shall never turn off that road."
+> — Attribuita, 1987
+
+> "The threat of environmental crisis will be the international disaster key to unlock the New World Order."
+> — Attribuita, 1996
+
+> "Further global progress is now possible only through a quest for universal consensus in the movement towards a new world order."
+> — Address to UN, 1988
+
+### Il Paradosso Gorbachev
+
+| In Occidente | In Russia |
+|--------------|-----------|
+| Eroe che pose fine alla Guerra Fredda | Traditore che distrusse l'URSS |
+| Nobel Pace 1990 | Candidato presidenziale 1996: **0.5%** |
+| Partner stimato delle elite globali | Simbolo dell'umiliazione nazionale |
+| Ospite d'onore a Davos | Fece pubblicita' Pizza Hut (1997) |
+
+**La lezione**: Gorbachev rappresenta il primo caso di **convergenza Est-Ovest** al vertice - un ex leader comunista che si integro' pienamente nei network delle elite occidentali. Questo pattern si ripete poi con figure come Anatoly Chubais (riformatore russo → network globale prima di fuggire nel 2022).
+
+---
+
 ## Le Origini: Dal Davos Pact alla Transizione Putin
 
 ### Loans-for-Shares: L'Affare del Secolo (1995)
@@ -1190,21 +1305,35 @@ Gli oligarchi di Putin usano lo sport per soft power, networking e potenzialment
 |------|--------|---------|
 | **1963** | Arkady Rotenberg e Putin iniziano judo insieme | Origine cerchia |
 | **1968** | Boris Rotenberg si unisce al club judo | Cerchia si allarga |
+| **1985** | **Gorbachev Segretario Generale PCUS** | Inizio riforme |
+| **1986** | Gorbachev lancia glasnost e perestroika | Apertura e ristrutturazione |
+| **1987** | Trattato INF con Reagan | Fine missili nucleari intermedi |
+| **1988** | Ritiro truppe sovietiche da Afghanistan | Fine guerra |
+| **1989** | Non-intervento nelle rivoluzioni Est Europa | Caduta Muro Berlino |
 | **1989** | **Berezovsky fonda LogoVAZ** | Primo impero oligarchico |
 | **1989** | **Chernomyrdin trasforma Min. Gas in Gazprom** | Prima azienda statale-corporativa URSS |
+| **1989** | Gorbachev incontra Trilateral Commission (Kissinger, Giscard) | Apertura a elite occidentali |
+| **1990** | **Gorbachev Nobel Pace, Presidente URSS** | Peak riconoscimento internazionale |
+| **Ago 1991** | **Colpo di stato fallito contro Gorbachev** | Inizio fine URSS |
+| **Dic 1991** | **Gorbachev si dimette; dissoluzione URSS** | Fine Guerra Fredda |
+| **1991** | **Gorbachev fonda Gorbachev Foundation** | Base per network post-sovietico |
 | **1991** | Dissoluzione URSS; Yeltsin presidente | Transizione caotica |
 | **1991** | **Kovalchuk e Timchenko incontrano Putin a SPB** | **Origine cerchia economica** |
 | **1991** | Kovalchuk acquista Bank Rossiya (ex banca PCUS/KGB) | Controllo bancario |
 | **1991** | Timchenko riceve licenza export petrolio da Putin | Controllo export |
 | **1992** | Putin incontra Klaus Schwab | Inizio networking WEF |
+| **1993** | **Gorbachev fonda Green Cross International** | Network ambientalista globale |
 | **1993** | Crisi costituzionale, bombardamento Parlamento | Yeltsin rafforza potere |
+| **1994** | **Gorbachev lancia Earth Charter con Maurice Strong** | Convergenza Est-Ovest |
 | **1994** | **Berezovsky sopravvive ad autobomba** | Autista ucciso |
+| **1995** | **Gorbachev: State of World Forum, San Francisco** | Elite globali (Trilateral, WEF, CFR, Bilderberg) |
 | **1995** | **Berezovsky acquisisce 49% ORT** | Controllo TV nazionale |
 | **1995** | **Potanin propone loans-for-shares** | **Schema che creo' gli oligarchi** |
 | **1995** | Potanin/Prokhorov acquisiscono Norilsk per $170M | Oggi vale $30+ miliardi |
 | **1995-96** | **Yumashev Editor-in-Chief Ogonyok** | Ghostwriter Yeltsin |
 | **Feb 1996** | **Davos Pact**: oligarchi si alleano | Salvataggio Yeltsin |
 | **Feb 1996** | **Chubais richiamato come chairman campagna** | Architetto operativo Davos Pact |
+| **1996** | **Gorbachev candidato presidente: 0.5%** | Impopolarita' in Russia |
 | **1996** | **Tatyana Yumasheva co-dirige campagna** | "Trump card" Family |
 | **1996** | **Potanin nominato Vice Premier** | Revolving door: oligarca → governo |
 | **Nov 1996** | **Cooperativa Ozero fondata** | **Nucleo cerchia Putin** |
@@ -1273,6 +1402,7 @@ Gli oligarchi di Putin usano lo sport per soft power, networking e potenzialment
 | **2021** | **Kovalchuk acquisisce VK; Putin ultimo WEF** | **Controllo social media** |
 | **Gen 2022** | **Gref avverte Putin sulle conseguenze sanzioni** | Warning ignorato |
 | **Feb 2022** | Invasione Ucraina; Abramovich mediatore | Guerra |
+| **Ago 2022** | **Morte di Mikhail Gorbachev** (91 anni) | Fine era convergenza Est-Ovest |
 | **Feb 2022** | **Tatyana condanna invasione Ucraina** | Dissociazione pubblica |
 | **Mar 2022** | **CHUBAIS FUGGE IN ISRAELE** | **Ultimo riformatore anni '90 lascia Russia** |
 | **Apr 2022** | **SANZIONI SDN USA SU SBERBANK** + 42 sussidiarie | Full blocking |
