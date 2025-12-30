@@ -189,7 +189,7 @@ Alphabet Inc. - Sintesi
   | ID                  | Tipo       | Priorità | Motivo                         |
   |---------------------|------------|----------|--------------------------------|
   | [v] palantir            | Company    | 🔴 Alta  | Thiel, CIA/NSA, DOGE contracts |
-  | sam-altman          | Person     | 🔴 Alta  | CEO OpenAI, centro mappa AI    |
+  | [v] sam-altman          | Person     | 🔴 Alta  | CEO OpenAI, centro mappa AI    |
   | spacex              | Company    | 🔴 Alta  | Musk, contratti federali       |
   | tim-cook            | Person     | 🟡 Media | CEO Apple $3.5T                |
   | safra-catz          | Person     | 🟡 Media | CEO Oracle, Stargate           |
@@ -218,9 +218,6 @@ Alphabet Inc. - Sintesi
 
   ---
   Raccomandazione
-
-  Priorità 1 (completano triangolo AI-Intelligence-Government):
-  2. sam-altman - CEO della company più importante del momento
 
   Priorità 2 (completano PayPal Mafia + Stargate):
   3. spacex - altro pilastro Musk

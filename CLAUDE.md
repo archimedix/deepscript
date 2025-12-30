@@ -57,6 +57,7 @@ deepscript/
 │   ├── foundation/        # Fondazioni
 │   ├── think-tank/        # Think tank
 │   ├── company/           # Aziende
+│   ├── university/        # Universita'
 │   ├── pharma/            # Aziende farmaceutiche
 │   ├── agency/            # Agenzie internazionali
 │   ├── sports-club/       # Club sportivi
@@ -91,6 +92,7 @@ docs/{cartella}/{id}.md
 | Organization:Foundation | `docs/foundation/` |
 | Organization:ThinkTank | `docs/think-tank/` |
 | Organization:Company | `docs/company/` |
+| Organization:University | `docs/university/` |
 | Organization:Pharma | `docs/pharma/` |
 | Organization:Agency | `docs/agency/` |
 | Organization:SportsClub | `docs/sports-club/` |
@@ -193,6 +195,7 @@ RETURN path
 | Foundation | Gates Foundation, Open Society |
 | ThinkTank | CFR, Rand, Aspen |
 | Company | Apple, Tesla, CFG, FSG |
+| University | Harvard, MIT, Oxford, Bocconi |
 | Pharma | Pfizer, Moderna, Roche, GSK |
 | Agency | FMI, ONU, NATO, FIFA, IOC |
 | SportsClub | PSG, Manchester City, AC Milan |
@@ -318,4 +321,4 @@ NON modificarli. Usa Neo4j per i dati correnti.
 
 ---
 
-*Ultimo aggiornamento: 11 Dicembre 2025*
+*Ultimo aggiornamento: 30 Dicembre 2025*

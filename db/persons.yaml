@@ -319,6 +319,29 @@ persons:
       from: 1995
       to: 2000
       note: Chairman of the Board
+  alan-garber:
+    born: 1955
+    nationality: USA
+    affiliations:
+    - org: eli-lilly
+      role: board
+      note: Director
+    - org: stanford-university
+      role: member
+      from: 1986
+      to: 2011
+      note: Henry J. Kaiser Jr. Professor; MD Stanford; founded Center for Health Policy
+    - org: harvard-university
+      role: executive
+      from: 2024
+      note: President 2024-; Provost 2011-2024; BA 1976, MA 1977, PhD Economics 1982
+    - org: nber
+      role: executive
+      note: Research Associate; founding Director Health Care Program 19 years
+    relations:
+    - person: larry-summers
+      type: successor
+      note: 'Successor as Harvard President (intermediari: Faust 2007-2018, Bacow 2018-2023, Gay 2023-2024)'
   alan-greenspan:
     born: 1926
     nationality: USA
@@ -546,6 +569,13 @@ persons:
       from: 2017
       to: 2023
       note: CEO 2017-2023
+  alex-blania:
+    nationality: DEU
+    affiliations:
+    - org: worldcoin
+      role: executive
+      from: 2019
+      note: Co-founder & CEO of Tools for Humanity
   alex-karp:
     born: 1967
     nationality: USA
@@ -1208,7 +1238,7 @@ persons:
       from: 2003
       to: 2004
       note: President
-    - org: harvard
+    - org: harvard-university
       role: member
       from: 1977
       note: BA 1977, MBA 1981, $10M donor Humanities Center
@@ -2593,6 +2623,11 @@ persons:
     - org: obama-foundation
       role: founder
       from: 2017
+    - org: harvard-university
+      role: alumnus
+      from: 1988
+      to: 1991
+      note: JD Harvard Law 1991, President Harvard Law Review
   barbara-dalibard:
     nationality: FRA
     affiliations:
@@ -3058,6 +3093,11 @@ persons:
       role: ygl
       from: 1984
       note: Young Leader 1984
+    - org: yale-university
+      role: alumnus
+      from: 1970
+      to: 1973
+      note: JD Yale Law 1973
     - org: club-madrid
       role: member
       from: 2001
@@ -3096,6 +3136,11 @@ persons:
       role: member
       from: 2024
       note: Donor $50M (2024, via 501c4 dark money)
+    - org: harvard-university
+      role: alumnus
+      from: 1973
+      to: 1975
+      note: Attended 1973-75, dropped out to found Microsoft, honorary degree 2007
     - org: state-of-the-world-forum
       role: member
       from: 1995
@@ -5535,6 +5580,11 @@ persons:
     - org: moderna
       role: board
       note: Board member, Co-founder Carlyle Group
+    - org: harvard-university
+      role: board
+      from: 2017
+      to: 2023
+      note: Corporation Fellow 2017-2023, JD Harvard Law 1973
     - org: university-of-chicago
       role: chairman
       from: 2022
@@ -8442,6 +8492,14 @@ persons:
     - org: wef
       role: ygl
       from: 2021
+  garry-tan:
+    born: 1981
+    nationality: CAN-USA
+    affiliations:
+    - org: y-combinator
+      role: executive
+      from: 2023
+      note: President & CEO dal 2023
   gary-cohn:
     born: 1960
     nationality: USA
@@ -8662,6 +8720,11 @@ persons:
       role: president
       from: 1989
       to: 1993
+    - org: yale-university
+      role: alumnus
+      from: 1945
+      to: 1948
+      note: BA Economics 1948; Skull and Bones 1948
     - org: skull-and-bones
       role: member
       from: 1948
@@ -8790,6 +8853,11 @@ persons:
       role: president
       from: 2001
       to: 2009
+    - org: yale-university
+      role: alumnus
+      from: 1964
+      to: 1968
+      note: BA History 1968; Skull and Bones 1968
     - org: skull-and-bones
       role: member
       from: 1968
@@ -10291,6 +10359,12 @@ persons:
   henry-paulson:
     born: 1946
     nationality: USA
+    affiliations:
+    - org: harvard-university
+      role: alumnus
+      from: 1968
+      to: 1970
+      note: MBA HBS 1970
   henry-samueli:
     born: 1954
     nationality: USA
@@ -10427,6 +10501,11 @@ persons:
       role: ygl
       from: 1984
       note: Young Leader 1984
+    - org: yale-university
+      role: alumnus
+      from: 1970
+      to: 1973
+      note: JD Yale Law 1973
   hilmar-kopper:
     born: 1935
     nationality: DEU
@@ -10886,6 +10965,11 @@ persons:
       note: CEO & Chairman
     - org: international-rescue-committee
       role: board
+    - org: yale-university
+      role: alumnus
+      from: 1978
+      to: 1980
+      note: MPP Yale School of Management 1980
     - org: honeywell
       role: board
       from: 2026
@@ -12340,6 +12424,13 @@ persons:
       from: 2013
       to: 2015
       note: Managing Partner
+  jessica-livingston:
+    nationality: USA
+    affiliations:
+    - org: y-combinator
+      role: founder
+      from: 2005
+      note: Co-founder
   jessica-long:
     nationality: US
     note: Managing Director Accenture Strategy & Sustainability. Leads sustainability strategy North America. Co-leading WEF
@@ -12534,6 +12625,11 @@ persons:
       role: owner
       from: 2019
       note: Owner
+    - org: yale-university
+      role: alumnus
+      from: 1987
+      to: 1990
+      note: JD Yale Law 1990; co-founder Alibaba
   joerg-duschmale:
     born: 1985
     nationality: CHE
@@ -12880,6 +12976,11 @@ persons:
     born: 1943
     nationality: USA
     affiliations:
+    - org: yale-university
+      role: alumnus
+      from: 1962
+      to: 1966
+      note: BA Political Science 1966; Skull and Bones 1966
     - org: skull-and-bones
       role: member
       from: 1966
@@ -13581,6 +13682,10 @@ persons:
       role: executive
       from: 2021
       note: Co-CEO
+    - org: harvard-university
+      role: board
+      from: 2024
+      note: Corporation Fellow 2024-, AB 1994
   joseph-johnson:
     born: 1906
     died: 1990
@@ -14967,26 +15072,54 @@ persons:
     nationality: USA
     affiliations:
     - org: bilderberg
-      role: member
+      role: steering
+      note: Former Steering Committee member
     - org: cfr
       role: member
     - org: banca-mondiale
-      role: advisor
+      role: executive
       from: 1991
       to: 1993
+      note: Chief Economist and VP Development Economics
     - org: governo-usa
       role: advisor
       from: 2009
       to: 2010
+      note: Director National Economic Council (NEC)
     - org: tesoro-usa
       role: minister
       from: 1999
       to: 2001
+      note: 71st Secretary of Treasury; Deputy Secretary 1995-99; Undersecretary 1993-95
+    - org: citigroup
+      role: advisor
+      from: 2010
     - org: openai
       role: board
       from: 2023
       to: 2025
       note: Board member, resigned Nov 2025
+    - org: trilateral-commission
+      role: member
+    - org: nasdaq
+      role: advisor
+      from: 2010
+    - org: group-of-thirty
+      role: member
+    - org: harvard-university
+      role: executive
+      from: 2001
+      to: 2006
+      note: President 2001-2006; BA 1975, PhD Economics MIT, Professor emeritus
+    - org: andreessen-horowitz
+      role: advisor
+      from: 2011
+      note: Special adviser
+    - org: d-e-shaw
+      role: partner
+      from: 2006
+      to: 2025
+      note: Managing director 2006-08, consultant 2011-2025, terminated Nov 2025
   lars-lokke-rasmussen:
     born: 1964
     nationality: DNK
@@ -17259,6 +17392,11 @@ persons:
       role: member
     - org: breakthrough-energy
       role: founder
+    - org: harvard-university
+      role: alumnus
+      from: 2002
+      to: 2004
+      note: Attended 2002-04, dropped out to found Facebook, honorary degree 2017
   markus-kamieth:
     nationality: DEU
     affiliations:
@@ -17793,6 +17931,13 @@ persons:
       role: executive
     - org: mckinsey
       role: partner
+  max-novendstern:
+    nationality: USA
+    affiliations:
+    - org: worldcoin
+      role: founder
+      from: 2019
+      note: Co-founder
   max-van-der-stoel:
     born: 1924
     died: 2011
@@ -17922,6 +18067,11 @@ persons:
       role: member
       from: 2024
       note: Donor $50M (2024)
+    - org: harvard-university
+      role: alumnus
+      from: 1964
+      to: 1966
+      note: MBA HBS 1966, major donor Bloomberg Center
     - org: bloomberg
       role: founder
       from: 1981
@@ -18064,6 +18214,13 @@ persons:
       role: board
       from: 2025
       note: Harvard Board 2025; MD 1973
+  michael-seibel:
+    nationality: USA
+    affiliations:
+    - org: y-combinator
+      role: partner
+      from: 2013
+      note: Managing Director 2016-24, Partner Emeritus
   michaela-erbenova:
     nationality: CZE
     affiliations:
@@ -18432,6 +18589,11 @@ persons:
       from: 1984
       to: 1999
       note: Co-Founder, CEO/Managing Partner
+    - org: harvard-university
+      role: alumnus
+      from: 1971
+      to: 1975
+      note: JD/MBA joint degree 1975
   mohammed-al-jadaan:
     nationality: SAU
     note: Ministro Finanze dal 2016
@@ -20379,6 +20541,10 @@ persons:
       role: founder
       from: 2010
       note: Co-founder & CEO
+    - org: y-combinator
+      role: member
+      from: 2010
+      note: S2010 batch (Stripe)
   patrick-frost:
     born: 1968
     nationality: CHE
@@ -20518,6 +20684,15 @@ persons:
       role: founder
       from: 1967
       note: Co-fondatore con Pelisson
+  paul-graham:
+    born: 1964
+    nationality: GBR-USA
+    affiliations:
+    - org: y-combinator
+      role: founder
+      from: 2005
+      to: 2014
+      note: Co-founder, stepped down from day-to-day 2014
   paul-henri-spaak:
     born: 1899
     died: 1972
@@ -22156,6 +22331,11 @@ persons:
     - org: fii-saudi
       role: member
       note: Speaker FII7, FII9
+    - org: harvard-university
+      role: alumnus
+      from: 1971
+      to: 1973
+      note: MBA HBS 1973
   razvan-popescu:
     nationality: ROU
     affiliations:
@@ -22580,6 +22760,10 @@ persons:
       role: executive
       from: 2016
       note: President
+    - org: harvard-university
+      role: board
+      from: 2025
+      note: Corporation Fellow 2025-
   richard-nixon:
     born: 1913
     died: 1994
@@ -22834,6 +23018,13 @@ persons:
     died: 1943
     nationality: FRA
     note: Rabbi Neuilly. Murdered Auschwitz. Saved 700 Jews. Grandfather Jean-Pierre Meyers
+  robert-morris:
+    nationality: USA
+    affiliations:
+    - org: y-combinator
+      role: founder
+      from: 2005
+      note: Co-founder, early investor
   robert-oleary:
     nationality: USA
     note: Co-CEO Oaktree (2024-). Global Opportunities strategy PM.
@@ -22879,6 +23070,11 @@ persons:
       from: 1999
       to: 2009
       note: Chairman Executive Committee, then Senior Counselor
+    - org: harvard-university
+      role: alumnus
+      from: 1956
+      to: 1960
+      note: BA Economics 1960 summa cum laude
   robert-schuman:
     born: 1886
     died: 1963
@@ -23440,12 +23636,58 @@ persons:
     born: 1985
     nationality: USA
     affiliations:
+    - org: bilderberg
+      role: member
+      from: 2016
+      note: Invited 2016, 2022, 2023
+    - org: wef
+      role: ygl
+      from: 2016
+      note: Young Global Leader 2016
     - org: openai
       role: executive
       from: 2019
+      note: Co-founder 2015, CEO 2019-present (briefly ousted Nov 2023)
     - org: stargate-project
       role: partner
       from: 2025
+    - org: stanford-university
+      role: member
+      from: 2003
+      to: 2005
+      note: Dropped out after 2 years
+    - org: helion-energy
+      role: chairman
+      from: 2015
+      note: Chairman of the board
+    - org: stripe
+      role: investor
+      from: 2011
+      note: Early investor, ~2% stake
+    - org: y-combinator
+      role: executive
+      from: 2011
+      to: 2019
+      note: Partner 2011-14, President 2014-19
+    - org: oklo
+      role: chairman
+      from: 2024
+      to: 2025
+      note: Chairman 2024-25, stepped down to avoid conflict of interest
+    - org: reddit
+      role: board
+      from: 2014
+      to: 2022
+      note: Interim CEO (8 days in 2014), board member, major investor
+    - org: loopt
+      role: founder
+      from: 2005
+      to: 2012
+      note: Co-founder & CEO
+    - org: worldcoin
+      role: founder
+      from: 2019
+      note: Co-founder, Chairman of Tools for Humanity
   sam-gregory:
     nationality: US
     note: Programme Director WITNESS. Co-founder Video4Change. Launched Human Rights Channel YouTube. Rockefeller Bellagio
@@ -24807,6 +25049,16 @@ persons:
       from: 1985
     - org: fii-saudi
       role: member
+    - org: harvard-university
+      role: alumnus
+      from: 1969
+      to: 1972
+      note: MBA HBS 1972, major donor
+    - org: yale-university
+      role: alumnus
+      from: 1965
+      to: 1969
+      note: BA 1969; Skull and Bones; major donor Schwarzman Center
   stephen-ubl:
     born: 1969
     nationality: USA
@@ -24849,6 +25101,11 @@ persons:
       from: 2000
       to: 2014
       note: CEO
+    - org: harvard-university
+      role: alumnus
+      from: 1973
+      to: 1977
+      note: AB Applied Mathematics 1977 magna cum laude
   steve-bannon:
     born: 1953
     nationality: USA
@@ -25027,9 +25284,6 @@ persons:
       from: 2009
       to: 2021
       note: Trustee
-    - org: harvard
-      role: advisor
-      note: Global Advisory Council
     - org: bt-group
       role: board
       from: 2025
@@ -25046,6 +25300,9 @@ persons:
     - org: broadband-commission
       role: member
       note: Commissioner ITU/UNESCO
+    - org: harvard-university
+      role: advisor
+      note: Global Advisory Council
   suphachai-chearavanont:
     nationality: THA
     family: chearavanont
@@ -26107,6 +26364,13 @@ persons:
       from: 2004
       to: 2014
       note: Presidente della Romania
+  trevor-blackwell:
+    nationality: USA
+    affiliations:
+    - org: y-combinator
+      role: founder
+      from: 2005
+      note: Co-founder, early investor
   trond-grande:
     born: 1965
     nationality: NOR

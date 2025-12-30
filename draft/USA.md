@@ -174,3 +174,22 @@ PHARMA POWER
 
   Priorità 3 - Completare persone già in DB:
   - stephen-hahn, albert-bourla, thomas-glocer, noubar-afeyan
+
+
+HARWARD
+
+  Nuove affiliazioni create (13):
+  - stephen-schwarzman → alumnus (MBA HBS 1972)
+  - henry-paulson → alumnus (MBA HBS 1970)
+  - larry-summers → executive (President 2001-2006)
+  - robert-rubin → alumnus (BA Economics 1960)
+  - michael-bloomberg → alumnus (MBA HBS 1966)
+  - barack-obama → alumnus (JD Harvard Law 1991)
+  - mitt-romney → alumnus (JD/MBA 1975)
+  - bill-gates → alumnus (dropout 1975)
+  - mark-zuckerberg → alumnus (dropout 2004)
+  - joseph-bae → board (Corporation Fellow 2024-)
+  - david-rubenstein → board (Corporation Fellow 2017-2023)
+  - ray-dalio → alumnus (MBA HBS 1973)
+  - steve-ballmer → alumnus (AB Math 1977)
+  - richard-lifton → board (Corporation Fellow 2025-)

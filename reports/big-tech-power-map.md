@@ -704,6 +704,45 @@ Il refresh del board Meta nel 2025 segnala shift verso establishment Republican:
 | **Jeff Bezos** | Amazon | Bilderberg, Breakthrough Energy | 3 | Founder network |
 | **Reid Hoffman** | Microsoft | Bilderberg, CFR | 3 | VC-Tech-Forum |
 | **Christopher Darby** | In-Q-Tel (ex-CEO) | NSCAI, Cerberus | 3 | **IQT→NSCAI→PE** pipeline |
+| **Sam Altman** | OpenAI (CEO) | Bilderberg, WEF YGL, Y Combinator (ex-President) | 6 | **YC→OpenAI→Worldcoin** vertical integration |
+
+---
+
+## Y Combinator: La Talent Pipeline di Big Tech
+
+### Pattern YC → Big Tech
+
+Y Combinator ha formato i fondatori delle aziende piu' influenti:
+
+| Company | Batch | Founders | Valutazione |
+|---------|-------|----------|-------------|
+| **Stripe** | S2010 | Patrick & John Collison | $95B peak |
+| **Airbnb** | W2009 | Chesky, Gebbia, Blecharczyk | $86.5B IPO |
+| **Coinbase** | S2012 | Brian Armstrong | IPO 2021 |
+| **Dropbox** | S2007 | Drew Houston | IPO 2018 |
+| **Reddit** | S2005 | - | IPO 2024 |
+
+### Sam Altman: Da YC President a AI Czar
+
+| Fase | Ruolo | Periodo |
+|------|-------|---------|
+| **Y Combinator** | President | 2014-2019 |
+| **OpenAI** | CEO | 2019-oggi |
+| **Worldcoin** | Co-founder, Chairman | 2019-oggi |
+| **Bilderberg** | Invitato | 2016, 2022, 2023 |
+| **WEF** | Young Global Leader | 2016 |
+| **Stargate Project** | Partner | 2025 |
+
+**Pattern Altman**: Crea il "problema" (AI indistinguibile da umani via OpenAI) e la "soluzione" (Worldcoin per proof of personhood). Vertical integration identita' digitale.
+
+### Worldcoin: Il Progetto Controverso
+
+| Metrica | Valore |
+|---------|--------|
+| **Utenti** | 33M app, 15M verificati |
+| **Paesi con ban** | Kenya, Spagna, Brasile, Indonesia, Filippine, Thailandia, Hong Kong |
+| **Tecnologia** | Scansione iride via "Orb" |
+| **Critica principale** | Sperimentazione su popolazioni vulnerabili ($55 per scansione in Kenya) |
 
 ---
 
@@ -910,6 +949,9 @@ Emerge una distinzione fondamentale tra due modelli di potere in Big Tech:
 19. **Palantir Triangle**: CIA (seed) → DOGE (infra) → Army ($10B); Thiel come ponte tra intelligence e governo Trump
 20. **Philosopher-CEO Paradox**: Karp (PhD Frankfurt School, "socialist") costruisce surveillance tech per $18B
 21. **Founder Trust Control**: Palantir (Thiel/Karp/Cohen 49.99% voti) replica pattern Alphabet/Meta senza dual-class formale
+22. **YC Talent Pipeline**: Y Combinator ha formato founders di Stripe, Airbnb, Coinbase, Reddit; portfolio $600B
+23. **Altman Vertical Integration**: YC President → OpenAI CEO → Worldcoin Chairman; crea problema (AI) e soluzione (ID digitale)
+24. **Worldcoin Controversy**: Ban in 8+ paesi per privacy; sperimentazione su popolazioni vulnerabili ($55/scansione Kenya)
 
 ### Chi Detiene Davvero il Potere?
 
@@ -982,6 +1024,7 @@ Emerge una distinzione fondamentale tra due modelli di potere in Big Tech:
 - [John Doerr](../docs/persons/john-doerr.md) - Kleiner Perkins, board Alphabet E Amazon, Obama network
 - [Alex Karp](../docs/persons/alex-karp.md) - Palantir CEO, PhD Frankfurt School, "socialist" che costruisce surveillance tech
 - [Stephen Cohen](../docs/persons/stephen-cohen-palantir.md) - Palantir President, technical co-founder
+- [Sam Altman](../docs/persons/sam-altman.md) - OpenAI CEO, Y Combinator ex-President, Worldcoin Chairman
 
 ### Profili Documentati - Aziende
 - [Apple](../docs/company/apple.md) - Big Three control, Wagner-Levinson board
@@ -991,6 +1034,8 @@ Emerge una distinzione fondamentale tra due modelli di potere in Big Tech:
 - [Microsoft](../docs/company/microsoft.md) - OpenAI 27%, Hoffman (Bilderberg) nel board
 - [Palantir](../docs/company/palantir.md) - CIA seed, $438B market cap, DOGE infrastructure
 - [In-Q-Tel](../docs/private-equity/in-q-tel.md) - CIA venture capital arm, 800+ company, Keyhole→Google Earth
+- [Y Combinator](../docs/private-equity/y-combinator.md) - Accelerator, $600B portfolio, Altman ex-President
+- [Worldcoin](../docs/company/worldcoin.md) - Digital ID via iris scan, Altman co-founder, ban in 8+ paesi
 
 ### Report Correlati
 - [Microsoft Geopolitical Hub](microsoft-geopolitical-hub.md) - Analisi hub geopolitico
@@ -1014,4 +1059,4 @@ Emerge una distinzione fondamentale tra due modelli di potere in Big Tech:
 
 ---
 
-*Ultimo aggiornamento: 30 Dicembre 2025 (v5 - aggiunto In-Q-Tel pipeline, Palantir $438B, Alex Karp paradox, CIA→DOGE triangle, Founder Trust control)*
+*Ultimo aggiornamento: 30 Dicembre 2025 (v6 - aggiunto Sam Altman profile, Y Combinator talent pipeline, Worldcoin controversy, Altman vertical integration pattern)*

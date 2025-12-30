@@ -1567,6 +1567,10 @@ organizations:
     status: active
     sector: venture capital
     stakeholders:
+    - person: larry-summers
+      role: advisor
+      from: 2011
+      note: Special adviser
     - person: marc-andreessen
       role: founder
       from: 2009
@@ -2835,9 +2839,10 @@ organizations:
       from: 2005
       to: 2007
     - person: larry-summers
-      role: advisor
+      role: executive
       from: 1991
       to: 1993
+      note: Chief Economist and VP Development Economics
     - person: maia-sandu
       role: employee
       from: 2010
@@ -4006,9 +4011,14 @@ organizations:
     - person: hillary-clinton
       role: member
     - person: larry-summers
-      role: member
+      role: steering
+      note: Former Steering Committee member
     - person: vernon-jordan
       role: steering
+    - person: sam-altman
+      role: member
+      from: 2016
+      note: Invited 2016, 2022, 2023
     - person: alexander-stubb
       role: member
       note: Partecipò 2015
@@ -7239,6 +7249,9 @@ organizations:
       from: 1999
       to: 2009
       note: Chairman Executive Committee, then Senior Counselor
+    - person: larry-summers
+      role: advisor
+      from: 2010
     - person: piyush-gupta
       role: executive
       from: 1982
@@ -7693,7 +7706,7 @@ organizations:
       note: MA European Studies
   collegio-europa:
     name: College of Europe
-    type: thinktank
+    type: university
     founded: 1949
     headquarters: Bruges
     status: active
@@ -8492,6 +8505,18 @@ organizations:
       from: 1993
       to: 2022
       note: Co-Founder, Co-Chairman, stepped down 2022
+  d-e-shaw:
+    name: D.E. Shaw
+    type: privateequity
+    founded: 1988
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: larry-summers
+      role: partner
+      from: 2006
+      to: 2025
+      note: Managing director 2006-08, consultant 2011-2025, terminated Nov 2025
   dagbladet-information:
     name: Dagbladet Information
     type: media
@@ -10003,6 +10028,9 @@ organizations:
     - person: jon-moeller
       role: board
       note: Board Director; CEO P&G
+    - person: alan-garber
+      role: board
+      note: Director
     - org: blackrock
       role: stake
       share: 0.074
@@ -16518,6 +16546,7 @@ organizations:
       role: advisor
       from: 2009
       to: 2010
+      note: Director National Economic Council (NEC)
     - person: al-gore
       role: leader
       from: 1993
@@ -16908,6 +16937,8 @@ organizations:
     headquarters: Washington D.C., USA
     status: active
     stakeholders:
+    - person: larry-summers
+      role: member
     - person: axel-weber
       role: member
       note: Member
@@ -17319,20 +17350,6 @@ organizations:
       role: board
     - org: qia
       role: subsidiary
-  harvard:
-    name: Harvard University
-    type: thinktank
-    founded: 1636
-    headquarters: Cambridge, USA
-    status: active
-    stakeholders:
-    - person: sunil-mittal
-      role: advisor
-      note: Global Advisory Council
-    - person: anand-mahindra
-      role: member
-      from: 1977
-      note: BA 1977, MBA 1981, $10M donor Humanities Center
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -17384,11 +17401,86 @@ organizations:
     headquarters: Cambridge, USA
     status: active
     stakeholders:
+    - person: robert-rubin
+      role: alumnus
+      from: 1956
+      to: 1960
+      note: BA Economics 1960 summa cum laude
+    - person: mark-zuckerberg
+      role: alumnus
+      from: 2002
+      to: 2004
+      note: Attended 2002-04, dropped out to found Facebook, honorary degree 2017
+    - person: bill-gates
+      role: alumnus
+      from: 1973
+      to: 1975
+      note: Attended 1973-75, dropped out to found Microsoft, honorary degree 2007
+    - person: barack-obama
+      role: alumnus
+      from: 1988
+      to: 1991
+      note: JD Harvard Law 1991, President Harvard Law Review
+    - person: henry-paulson
+      role: alumnus
+      from: 1968
+      to: 1970
+      note: MBA HBS 1970
+    - person: david-rubenstein
+      role: board
+      from: 2017
+      to: 2023
+      note: Corporation Fellow 2017-2023, JD Harvard Law 1973
+    - person: ray-dalio
+      role: alumnus
+      from: 1971
+      to: 1973
+      note: MBA HBS 1973
+    - person: stephen-schwarzman
+      role: alumnus
+      from: 1969
+      to: 1972
+      note: MBA HBS 1972, major donor
+    - person: larry-summers
+      role: executive
+      from: 2001
+      to: 2006
+      note: President 2001-2006; BA 1975, PhD Economics MIT, Professor emeritus
+    - person: steve-ballmer
+      role: alumnus
+      from: 1973
+      to: 1977
+      note: AB Applied Mathematics 1977 magna cum laude
+    - person: joseph-bae
+      role: board
+      from: 2024
+      note: Corporation Fellow 2024-, AB 1994
+    - person: mitt-romney
+      role: alumnus
+      from: 1971
+      to: 1975
+      note: JD/MBA joint degree 1975
+    - person: michael-bloomberg
+      role: alumnus
+      from: 1964
+      to: 1966
+      note: MBA HBS 1966, major donor Bloomberg Center
+    - person: sunil-mittal
+      role: advisor
+      note: Global Advisory Council
     - person: jorge-paulo-lemann
       role: alumnus
       from: 1956
       to: 1961
       note: BA Economics 1961, endowed professorship
+    - person: richard-lifton
+      role: board
+      from: 2025
+      note: Corporation Fellow 2025-
+    - person: anand-mahindra
+      role: member
+      from: 1977
+      note: BA 1977, MBA 1981, $10M donor Humanities Center
     - person: henrique-meirelles
       role: alumnus
       from: 1984
@@ -17400,6 +17492,10 @@ organizations:
     - person: andre-esteves
       role: advisor
       note: Latin America Advisory Board HBS, Esteves Hall donor 2015
+    - person: alan-garber
+      role: executive
+      from: 2024
+      note: President 2024-; Provost 2011-2024; BA 1976, MA 1977, PhD Economics 1982
   havas:
     name: Havas
     type: media
@@ -17517,6 +17613,18 @@ organizations:
       share: 2.3
     - org: vanguard
       share: 1.9
+  helion-energy:
+    name: Helion Energy
+    type: company
+    founded: 2013
+    headquarters: Everett, Washington, USA
+    status: active
+    sector: energy
+    stakeholders:
+    - person: sam-altman
+      role: chairman
+      from: 2015
+      note: Chairman of the board
   hellenic-olympic-committee:
     name: Hellenic Olympic Committee
     type: agency
@@ -21051,7 +21159,7 @@ organizations:
       note: Senior Managing Director
   leiden-university:
     name: Leiden University
-    type: company
+    type: university
     founded: 1575
     headquarters: Leiden, Netherlands
     status: active
@@ -21365,6 +21473,19 @@ organizations:
       share: 9.85%
     - org: vanguard
       share: 3.6%
+  loopt:
+    name: Loopt
+    type: company
+    founded: 2005
+    headquarters: Mountain View, California, USA
+    status: defunct
+    sector: technology
+    stakeholders:
+    - person: sam-altman
+      role: founder
+      from: 2005
+      to: 2012
+      note: Co-founder & CEO
   loreal:
     name: L'Oréal SA
     type: company
@@ -23241,6 +23362,9 @@ organizations:
     status: active
     sector: exchange
     stakeholders:
+    - person: larry-summers
+      role: advisor
+      from: 2010
     - person: jacob-wallenberg
       role: board
   naspers:
@@ -23541,6 +23665,16 @@ organizations:
     - org: comcast
       share: 100%
       from: 2011
+  nber:
+    name: National Bureau of Economic Research
+    type: thinktank
+    founded: 1920
+    headquarters: Cambridge, Massachusetts, USA
+    status: active
+    stakeholders:
+    - person: alan-garber
+      role: executive
+      note: Research Associate; founding Director Health Care Program 19 years
   ndtv:
     name: NDTV (New Delhi Television)
     type: media
@@ -24737,6 +24871,19 @@ organizations:
       from: 1987
       to: 1996
       note: Deputy Editor 1991-1995, Editor-in-Chief 1995-1996
+  oklo:
+    name: Oklo Inc.
+    type: company
+    founded: 2013
+    headquarters: Santa Clara, California, USA
+    status: active
+    sector: energy
+    stakeholders:
+    - person: sam-altman
+      role: chairman
+      from: 2024
+      to: 2025
+      note: Chairman 2024-25, stepped down to avoid conflict of interest
   olivetti:
     name: Olivetti
     type: company
@@ -25068,6 +25215,7 @@ organizations:
     - person: sam-altman
       role: executive
       from: 2019
+      note: Co-founder 2015, CEO 2019-present (briefly ousted Nov 2023)
     - person: greg-brockman
       role: executive
       from: 2015
@@ -27112,6 +27260,19 @@ organizations:
       role: founder
       from: 2014
       note: Founder, Managing Partner, CIO
+  reddit:
+    name: Reddit
+    type: company
+    founded: 2005
+    headquarters: San Francisco, California, USA
+    status: active
+    sector: technology
+    stakeholders:
+    - person: sam-altman
+      role: board
+      from: 2014
+      to: 2022
+      note: Interim CEO (8 days in 2014), board member, major investor
   rede-dor:
     name: Rede D'Or São Luiz
     type: company
@@ -30069,7 +30230,7 @@ organizations:
       note: Global Advisory Council
   stanford-university:
     name: Stanford University
-    type: foundation
+    type: university
     founded: 1885
     headquarters: Stanford, California, USA
     status: active
@@ -30086,6 +30247,11 @@ organizations:
     - person: condoleezza-rice
       role: executive
       note: Provost 1993-1999; Professor; Hoover Fellow
+    - person: sam-altman
+      role: member
+      from: 2003
+      to: 2005
+      note: Dropped out after 2 years
     - person: rishi-sunak
       role: member
       note: MBA 2006 (Fulbright Scholar)
@@ -30103,6 +30269,11 @@ organizations:
       from: 2001
       to: 2005
       note: B.S. Computer Science
+    - person: alan-garber
+      role: member
+      from: 1986
+      to: 2011
+      note: Henry J. Kaiser Jr. Professor; MD Stanford; founded Center for Health Policy
   stanley-black-decker:
     name: Stanley Black & Decker
     type: company
@@ -30478,6 +30649,10 @@ organizations:
     status: active
     sector: fintech, payments
     stakeholders:
+    - person: sam-altman
+      role: investor
+      from: 2011
+      note: Early investor, ~2% stake
     - person: mark-carney
       role: board
       note: External Board Member
@@ -31445,6 +31620,7 @@ organizations:
       role: minister
       from: 1999
       to: 2001
+      note: 71st Secretary of Treasury; Deputy Secretary 1995-99; Undersecretary 1993-95
     - person: hank-paulson
       role: minister
       from: 2006
@@ -32009,6 +32185,8 @@ organizations:
       role: member
       from: 1973
       note: Founding member
+    - person: larry-summers
+      role: member
     - person: vernon-jordan
       role: member
     - person: jacob-wallenberg
@@ -34033,6 +34211,10 @@ organizations:
       role: participant
       from: 2019
       note: Davos 2019 participant
+    - person: sam-altman
+      role: ygl
+      from: 2016
+      note: Young Global Leader 2016
     - person: federica-mogherini
       role: ygl
       note: Agenda Contributor
@@ -35567,6 +35749,26 @@ organizations:
       from: 1931
       to: 1935
       note: President WZO
+  worldcoin:
+    name: World (Worldcoin)
+    type: company
+    founded: 2019
+    headquarters: San Francisco, California, USA
+    status: active
+    sector: technology
+    stakeholders:
+    - person: sam-altman
+      role: founder
+      from: 2019
+      note: Co-founder, Chairman of Tools for Humanity
+    - person: alex-blania
+      role: executive
+      from: 2019
+      note: Co-founder & CEO of Tools for Humanity
+    - person: max-novendstern
+      role: founder
+      from: 2019
+      note: Co-founder
   wto:
     name: World Trade Organization
     type: agency
@@ -35690,6 +35892,15 @@ organizations:
     headquarters: San Francisco, USA
     status: active
     stakeholders:
+    - person: sam-altman
+      role: executive
+      from: 2011
+      to: 2019
+      note: Partner 2011-14, President 2014-19
+    - person: patrick-collison
+      role: member
+      from: 2010
+      note: S2010 batch (Stripe)
     - person: drew-houston
       role: member
       from: 2007
@@ -35698,6 +35909,31 @@ organizations:
       role: member
       from: 2007
       note: W07 batch
+    - person: paul-graham
+      role: founder
+      from: 2005
+      to: 2014
+      note: Co-founder, stepped down from day-to-day 2014
+    - person: jessica-livingston
+      role: founder
+      from: 2005
+      note: Co-founder
+    - person: robert-morris
+      role: founder
+      from: 2005
+      note: Co-founder, early investor
+    - person: trevor-blackwell
+      role: founder
+      from: 2005
+      note: Co-founder, early investor
+    - person: garry-tan
+      role: executive
+      from: 2023
+      note: President & CEO dal 2023
+    - person: michael-seibel
+      role: partner
+      from: 2013
+      note: Managing Director 2016-24, Partner Emeritus
   yale-university:
     name: Yale University
     type: university
@@ -35705,9 +35941,49 @@ organizations:
     headquarters: New Haven, USA
     status: active
     stakeholders:
+    - person: bill-clinton
+      role: alumnus
+      from: 1970
+      to: 1973
+      note: JD Yale Law 1973
+    - person: george-w-bush
+      role: alumnus
+      from: 1964
+      to: 1968
+      note: BA History 1968; Skull and Bones 1968
+    - person: stephen-schwarzman
+      role: alumnus
+      from: 1965
+      to: 1969
+      note: BA 1969; Skull and Bones; major donor Schwarzman Center
+    - person: hillary-clinton
+      role: alumnus
+      from: 1970
+      to: 1973
+      note: JD Yale Law 1973
+    - person: george-hw-bush
+      role: alumnus
+      from: 1945
+      to: 1948
+      note: BA Economics 1948; Skull and Bones 1948
+    - person: joe-tsai
+      role: alumnus
+      from: 1987
+      to: 1990
+      note: JD Yale Law 1990; co-founder Alibaba
     - person: pedro-moreira-salles
       role: alumnus
       note: Graduate Program International Relations
+    - person: john-kerry
+      role: alumnus
+      from: 1962
+      to: 1966
+      note: BA Political Science 1966; Skull and Bones 1966
+    - person: indra-nooyi
+      role: alumnus
+      from: 1978
+      to: 1980
+      note: MPP Yale School of Management 1980
   yankee-global:
     name: Yankee Global Enterprises
     type: company

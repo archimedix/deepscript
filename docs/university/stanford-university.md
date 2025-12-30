@@ -137,6 +137,12 @@ Stanford Research
 | Herbert Hoover | Class of 1895 | 31° Presidente USA |
 | John F. Kennedy | Attended 1935 | 35° Presidente USA |
 
+### Accademici / Health Policy
+
+| Nome | Connessione Stanford | Carriera |
+|------|---------------------|----------|
+| [Alan Garber](../persons/alan-garber.md) | MD; Professor 1986-2011 | President Harvard 2024- |
+
 ---
 
 ## Hoover Institution
@@ -200,6 +206,7 @@ $36.5B di endowment rendono Stanford:
 | [Peter Thiel](../persons/peter-thiel.md) | BA/JD; PayPal, Palantir |
 | [Rishi Sunak](../persons/rishi-sunak.md) | MBA '06; PM UK |
 | [Condoleezza Rice](../persons/condoleezza-rice.md) | Provost; Sec. State |
+| [Alan Garber](../persons/alan-garber.md) | MD; Professor 1986-2011; Harvard President |
 
 ### Organizzazioni correlate
 
@@ -244,4 +251,4 @@ Ma i due mondi si sovrappongono sempre più: Sternfels (McKinsey/East Coast) è 
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Dicembre 2025*

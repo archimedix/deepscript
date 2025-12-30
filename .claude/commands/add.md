@@ -187,7 +187,11 @@ Per i governi, cerca e documenta:
 | Foundation | `docs/foundation/` |
 | ThinkTank | `docs/think-tank/` |
 | Company | `docs/company/` |
+| University | `docs/university/` |
+| Pharma | `docs/pharma/` |
 | Agency | `docs/agency/` |
+| SportsClub | `docs/sports-club/` |
+| Automaker | `docs/automaker/` |
 | Media | `docs/media/` |
 
 **Workflow scheda:**
