@@ -130,7 +130,7 @@ BILDERBERG  TRILATERALE  DEUTSCHE   EXXON     OSTAUSSCHUSS
 | [Deutsche Bank](../bank/deutsche-bank.md) | Chairman Advisory Board 1976-1988 |
 | [Allianz](../company/allianz.md) | Advisory board |
 | [Otto Wolff AG](../company/otto-wolff-ag.md) | Chairman 1966-1990 |
-| [Exxon](../company/exxon.md) | Board 1971- |
+| [Exxon](../company/exxon-mobil.md) | Board 1971- |
 | [DIHT](../forum/diht.md) | Presidente 1969-1988 |
 | [Ostausschuss](../forum/ostausschuss.md) | Chairman 1956-2000 |
 

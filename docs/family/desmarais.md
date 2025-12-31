@@ -168,7 +168,7 @@ POWER CORPORATION (Montreal)
 | [Power Corporation](../company/power-corporation.md) | Veicolo principale |
 | [Pargesa](../company/pargesa.md) | Joint venture Europa |
 | [GBL](../company/gbl.md) | Holding europea |
-| [JPMorgan Chase](../bank/jpmorgan.md) | Andre in Advisory Board |
+| [JPMorgan Chase](../bank/jpmorgan-chase.md) | Andre in Advisory Board |
 | [Brookings Institution](../think-tank/brookings.md) | Paul Jr. Senior Trustee |
 
 ### Famiglie

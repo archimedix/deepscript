@@ -169,7 +169,7 @@ GUSTAVE BOEL (fondatore acciaieria)
 | Entita' | Connessione |
 |---------|-------------|
 | [Societe Generale de Belgique](../company/societe-generale-belgique.md) | Partner controllo 1964-1988 |
-| [Solvay](../company/solvay.md) | Connessione familiare, Nicolas Boel Chairman |
+| [Solvay](../company/solvay-sa.md) | Connessione familiare, Nicolas Boel Chairman |
 | [Etienne Davignon](../persons/etienne-davignon.md) | Elite belga, stessa rete |
 
 ---
@@ -181,7 +181,7 @@ GUSTAVE BOEL (fondatore acciaieria)
 | Entita' | Connessione |
 |---------|-------------|
 | [Societe Generale de Belgique](../company/societe-generale-belgique.md) | Partner storico 1964-1988 |
-| [Solvay](../company/solvay.md) | Connessione familiare Boel-Solvay |
+| [Solvay](../company/solvay-sa.md) | Connessione familiare Boel-Solvay |
 | [ByteDance](../company/bytedance.md) | Investimento 2016 |
 
 ### Famiglie

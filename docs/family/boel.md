@@ -248,7 +248,7 @@ Primo caso in cui un sovrano belga e' stato portato in tribunale per paternita'.
 | Entita' | Relazione |
 |---------|-----------|
 | [Sofina](../company/sofina.md) | Holding di famiglia |
-| [Solvay](../company/solvay.md) | Nicolas Boel Chairman |
+| [Solvay](../company/solvay-sa.md) | Nicolas Boel Chairman |
 | [Usines Gustave Boel](../company/usines-gustave-boel.md) | Azienda originale (defunct) |
 
 ### Famiglie

@@ -88,7 +88,7 @@ JOHN ELKANN    Lapo Elkann
 | **Iveco Group** | Trucks | Board |
 | **Juventus FC** | Calcio | Azionista |
 | **The Economist** | Media | Azionista |
-| **GEDI** | Media Italia ([Repubblica](../media/repubblica.md), [La Stampa](../media/la-stampa.md)) | Controllata |
+| **GEDI** | Media Italia ([Repubblica](../media/la-repubblica.md), [La Stampa](../media/la-stampa.md)) | Controllata |
 
 ### La Creazione di Stellantis (2021)
 
@@ -159,7 +159,7 @@ JOHN ELKANN    Lapo Elkann
 
 | Testata | Status |
 |---------|--------|
-| [**la Repubblica**](../media/repubblica.md) | In vendita ad [Antenna Group](../media/antenna-group.md) |
+| [**la Repubblica**](../media/la-repubblica.md) | In vendita ad [Antenna Group](../media/antenna-group.md) |
 | [**La Stampa**](../media/la-stampa.md) | In vendita ad [Antenna Group](../media/antenna-group.md) |
 | **Radio DeeJay, Capital, m2o** | In vendita ad [Antenna Group](../media/antenna-group.md) |
 | **HuffPost Italia, Limes** | In vendita ad [Antenna Group](../media/antenna-group.md) |

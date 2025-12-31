@@ -155,7 +155,7 @@ Rupert Murdoch lo defini' "backstop and successor" a News Corporation. Occupo' l
 |---------|-------------|
 | [The Economist](../media/the-economist.md) | Editor (1974-1986) |
 | [Telegraph Group](../media/telegraph-group.md) | CEO (1986-1989) |
-| [News Corporation](../media/news-corporation.md) | Director (1991-2012) |
+| [News Corporation](../media/news-corp.md) | Director (1991-2012) |
 | [Times Newspapers](../media/times-newspapers.md) | Chairman (2012-oggi) |
 | [Bilderberg](../forum/bilderberg.md) | Steering Committee (1980-1998) |
 | [RIT Capital Partners](../asset-manager/rit-capital-partners.md) | Director (1997-2008) |

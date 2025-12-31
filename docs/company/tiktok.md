@@ -83,7 +83,7 @@
 | [General Atlantic](../private-equity/general-atlantic.md) | - | Board seat (Bill Ford) |
 | [SoftBank](../company/softbank.md) | - | Late stage investor |
 | [KKR](../private-equity/kkr.md) | - | Growth investor |
-| [Carlyle Group](../private-equity/carlyle.md) | - | Growth investor |
+| [Carlyle Group](../private-equity/carlyle-group.md) | - | Growth investor |
 
 ### TikTok USA Deal 2025
 
@@ -155,7 +155,7 @@
 | [General Atlantic](../private-equity/general-atlantic.md) | Board seat (Bill Ford) |
 | [SoftBank](../company/softbank.md) | Late stage |
 | [KKR](../private-equity/kkr.md) | Growth |
-| [Carlyle](../private-equity/carlyle.md) | Growth |
+| [Carlyle](../private-equity/carlyle-group.md) | Growth |
 
 ### Figure Chiave
 

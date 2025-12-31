@@ -100,7 +100,7 @@ Investitori          Fondatori +        Dipendenti
 |-------------|------|
 | [KKR](../private-equity/kkr.md) | PE investor |
 | [SoftBank](../company/softbank.md) | Strategic investor |
-| [Carlyle](../private-equity/carlyle.md) | PE investor |
+| [Carlyle](../private-equity/carlyle-group.md) | PE investor |
 | China Internet Investment Fund | 1% golden share (2021) |
 
 ### Leadership Attuale

@@ -144,7 +144,7 @@ ELKANN ELKANN
 
 | Testata | Tipo | Status |
 |---------|------|--------|
-| [**la Repubblica**](../media/repubblica.md) | Quotidiano | Controllata (GEDI) |
+| [**la Repubblica**](../media/la-repubblica.md) | Quotidiano | Controllata (GEDI) |
 | [**La Stampa**](../media/la-stampa.md) | Quotidiano | Controllata (GEDI) |
 | **L'Espresso** | Settimanale | Controllato (GEDI) |
 | **Radio DeeJay** | Radio | Controllata |
@@ -355,7 +355,7 @@ STELLANTIS FERRARI CNH  GEDI  ECONOMIST
 - [Bilderberg e Trilaterale](../istituzioni/bilderberg-trilaterale.md)
 
 ### Media (da /media/)
-- [la Repubblica](../media/repubblica.md) — acquisita 2020
+- [la Repubblica](../media/la-repubblica.md) — acquisita 2020
 - [La Stampa](../media/la-stampa.md) — storica testata di famiglia dal 1925
 
 ---

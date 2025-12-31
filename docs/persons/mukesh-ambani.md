@@ -211,7 +211,7 @@ I tre figli sono entrati nel board Reliance Industries nell'agosto 2023.
 | [Bank of America](../bank/bank-of-america.md) | Board 2011-13, Advisory |
 | [Brookings](../think-tank/brookings.md) | Advisory Council |
 | [McKinsey](../company/mckinsey.md) | Advisory Council |
-| [Stanford](../think-tank/stanford.md) | Global Advisory Council |
+| [Stanford](../university/stanford-university.md) | Global Advisory Council |
 | [British Asian Trust](../foundation/british-asian-trust.md) | Chair India Advisory |
 
 ### Persone

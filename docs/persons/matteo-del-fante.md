@@ -28,7 +28,7 @@
 
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
-| **1991-2003** | Research → Managing Director (1999) | [JP Morgan](../bank/jpmorgan.md) |
+| **1991-2003** | Research → Managing Director (1999) | [JP Morgan](../bank/jpmorgan-chase.md) |
 | **2004-2014** | Responsabile Finanza → DG (2010) | [CDP](../swf/cdp.md) |
 | **2008-2014** | Board | [Terna](../company/terna.md) |
 | **2005-2011** | Board | [STMicroelectronics](../company/stmicroelectronics.md) |
@@ -142,7 +142,7 @@ Nel 2025, Del Fante ha guidato l'acquisizione del 27.32% di TIM da Vivendi per �
 | [Poste Italiane](../company/poste-italiane.md) | CEO 2017- |
 | [Terna](../company/terna.md) | Board 2008-14, CEO 2014-17 |
 | [CDP](../swf/cdp.md) | DG 2010-14 |
-| [JP Morgan](../bank/jpmorgan.md) | MD 1991-2003 |
+| [JP Morgan](../bank/jpmorgan-chase.md) | MD 1991-2003 |
 | [STMicroelectronics](../company/stmicroelectronics.md) | Board 2005-11 |
 | [TIM](../company/telecom-italia.md) | Azionista 27.32% via Poste |
 | [ASSONIME](../agency/assonime.md) | Vicepresidente 2021- |

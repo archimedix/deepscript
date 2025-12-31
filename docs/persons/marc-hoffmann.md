@@ -30,7 +30,7 @@
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
 | **1984-1987** | Banker | Morgan Guaranty Trust Co. (NY/Brussels) |
-| **1987-1990** | Vice President | [JP Morgan](../bank/jpmorgan.md) Securities, London |
+| **1987-1990** | Vice President | [JP Morgan](../bank/jpmorgan-chase.md) Securities, London |
 | **1990-1991** | Vice President | [AIG](../company/aig.md) Financial Products, London |
 | **1991-1993** | Management Committee | Banque AIG, Paris |
 | **1993-1994** | President Comite Direction | Banque AIG, Paris |
@@ -162,7 +162,7 @@ Con la chairmanship di Intesa Sanpaolo Wealth Management, Hoffmann supervisiona 
 
 | Entita' | Connessione |
 |---------|-------------|
-| [JPMorgan](../bank/jpmorgan.md) | VP 1987-1990 |
+| [JPMorgan](../bank/jpmorgan-chase.md) | VP 1987-1990 |
 | [AIG](../company/aig.md) | VP, President 1990-1994 |
 | [Dexia](../bank/dexia.md) | CEO Dexia BIL 2001-2006 |
 | [CBP Quilvest](../bank/cbp-quilvest.md) | Co-fondatore, CEO 2007-2023 |

@@ -143,7 +143,7 @@ Partecipazione familiare: ~2% delle azioni, ma controllo effettivo attraverso st
 | [Bilderberg](../forum/bilderberg.md) | Steering Committee |
 | [WEF](../forum/wef.md) | IBC member |
 | [Coca-Cola](../company/coca-cola.md) | Board (2013-) |
-| [JP Morgan](../bank/jpmorgan.md) | Trader (1981-1988) |
+| [JP Morgan](../bank/jpmorgan-chase.md) | Trader (1981-1988) |
 
 ### Persone
 

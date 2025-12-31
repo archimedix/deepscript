@@ -145,7 +145,7 @@ CIC risponde al **Consiglio di Stato** della Repubblica Popolare Cinese.
 | [Goldman Sachs](../bank/goldman-sachs.md) | $2.5B fund USA-Cina | 2017 |
 | Goldman Sachs | $3B in Boyd | 2018 |
 | Blackstone | LP stake | Ongoing |
-| [Carlyle](../private-equity/carlyle.md) | LP stake | Ongoing |
+| [Carlyle](../private-equity/carlyle-group.md) | LP stake | Ongoing |
 
 ### Disinvestimenti 2025
 
@@ -161,7 +161,7 @@ CIC sta vendendo ~$1B in stakes PE USA (Blackstone, Carlyle e altri 6 fondi) per
 |----------------|-----------|
 | [Goldman Sachs](../bank/goldman-sachs.md) | Partner strategico |
 | [Blackstone](../private-equity/blackstone.md) | Azionista + LP |
-| [Carlyle](../private-equity/carlyle.md) | LP |
+| [Carlyle](../private-equity/carlyle-group.md) | LP |
 | PBOC | Fonte capitale, ex-datore Chairman |
 | Central Huijin | Sussidiaria (banche cinesi) |
 

@@ -149,7 +149,7 @@ Staley multato £650,000 per aver tentato di smascherare un whistleblower usando
 | Persona | Da | A | Pattern |
 |---------|-----|-----|---------|
 | Nigel Higgins | [NM Rothschild](../bank/nm-rothschild.md) (36 anni) | Barclays Chairman | Finance → Finance |
-| CS Venkatakrishnan | [JPMorgan](../bank/jpmorgan.md) (22 anni) | Barclays CEO | US → UK |
+| CS Venkatakrishnan | [JPMorgan](../bank/jpmorgan-chase.md) (22 anni) | Barclays CEO | US → UK |
 | Jes Staley | JPMorgan | Barclays CEO | US → UK |
 
 ### Azionisti Sovrani

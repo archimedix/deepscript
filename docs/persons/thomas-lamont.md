@@ -114,7 +114,7 @@ Lamont fu tra i membri piu' attivi della Italy America Society (IAS):
 
 | Entita' | Connessione |
 |---------|-------------|
-| [J.P. Morgan](../bank/jpmorgan.md) | Partner/Chairman (1911-1948) |
+| [J.P. Morgan](../bank/jpmorgan-chase.md) | Partner/Chairman (1911-1948) |
 | [CFR](../think-tank/cfr.md) | Membro (1921-1948) |
 
 ### Persone

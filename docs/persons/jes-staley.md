@@ -30,7 +30,7 @@
 
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
-| **1979-2012** | Vari ruoli executive | [JPMorgan](../bank/jpmorgan.md) |
+| **1979-2012** | Vari ruoli executive | [JPMorgan](../bank/jpmorgan-chase.md) |
 | **2004** | Head Private Banking | JPMorgan |
 | **2009-2012** | CEO Investment Bank | JPMorgan |
 | **2013-2015** | Managing Partner | [BlueMountain Capital](../private-equity/bluemountain-capital.md) |
@@ -160,7 +160,7 @@ Staley divenne champion interno per LGBT rights a JPMorgan, che emerse come pion
 
 | Entita | Connessione |
 |--------|-------------|
-| [JPMorgan](../bank/jpmorgan.md) | CEO Investment Bank 2009-2012 |
+| [JPMorgan](../bank/jpmorgan-chase.md) | CEO Investment Bank 2009-2012 |
 | [Barclays](../bank/barclays.md) | Group CEO 2015-2021 |
 | [UBS](../bank/ubs.md) | Board 2015 |
 | [BlueMountain Capital](../private-equity/bluemountain-capital.md) | Managing Partner 2013-2015 |

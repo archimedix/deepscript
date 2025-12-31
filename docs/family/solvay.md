@@ -135,7 +135,7 @@ Holding familiare quotata
 
 | Entita' | Settore | Controllo | Fondazione |
 |---------|---------|-----------|------------|
-| [Solvay SA](../company/solvay.md) | Chimica | 30% via Solvac | 1863 |
+| [Solvay SA](../company/solvay-sa.md) | Chimica | 30% via Solvac | 1863 |
 | [Solvac](../company/solvac.md) | Holding | 77% famiglia | 1983 |
 | Syensqo | Specialty materials | 30% via Solvac | 2023 (spin-off) |
 
@@ -220,7 +220,7 @@ Fu sede del celebre dibattito Einstein-Bohr sull'interpretazione di Copenaghen d
 
 | Entita' | Relazione |
 |---------|-----------|
-| [Solvay SA](../company/solvay.md) | Azienda di famiglia |
+| [Solvay SA](../company/solvay-sa.md) | Azienda di famiglia |
 | [Solvac](../company/solvac.md) | Holding familiare |
 | [Sofina](../company/sofina.md) | Connessione via Boel |
 
