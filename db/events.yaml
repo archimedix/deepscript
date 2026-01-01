@@ -83,11 +83,27 @@ events:
     year: 2008
     type: crisi
     location: globale
+  2011-bahrain-uprising:
+    year: 2011
+    month: 2
+    type: uprising
+    location: Manama, Bahrain
+    outcome: suppressed
+    note: Arab Spring protests Pearl Roundabout. 200,000 protesters. Saudi-led GCC intervention March 14. Martial law. 19+
+      killed. Opposition leaders imprisoned.
   2011-crisi-debito-sovrano:
     year: 2011
     type: crisi
     location: Europa
     outcome: governi-tecnici
+  2020-abraham-accords-bahrain:
+    year: 2020
+    month: 9
+    type: treaty
+    location: Washington DC
+    outcome: normalization
+    note: Bahrain-Israel normalization agreement signed Sept 15, 2020. 4th Arab state to recognize Israel, 2nd in one month
+      after UAE.
   2020-pandemia-great-reset:
     year: 2020
     type: crisi

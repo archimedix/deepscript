@@ -195,6 +195,7 @@ Figure USA presenti in 3+ forum/think tank:
 | [Larry Ellison](../docs/persons/larry-ellison.md) | Oracle, Apple, Tesla | Tony Blair Institute |
 | [Mark Zuckerberg](../docs/persons/mark-zuckerberg.md) | Meta | WEF, Business Roundtable |
 | [Jensen Huang](../docs/persons/jensen-huang.md) | NVIDIA | **NESSUNO** - caso anomalo |
+| [Michael Dell](../docs/persons/michael-dell.md) | Dell Technologies | **WEF Honorary Board**, Business Roundtable, Tech CEO Council |
 | [Daniel Ek](../docs/persons/daniel-ek.md) | Spotify | **Bilderberg 2025** |
 | [Drew Houston](../docs/persons/drew-houston.md) | Dropbox | WEF Davos |
 
@@ -259,6 +260,33 @@ PAYPAL    GREYLOCK   MICROSOFT   BILDERBERG    CFR
 Huang controlla l'infrastruttura dell'AI globale (80-90% GPU training) senza partecipare ai circuiti tradizionali del potere. Il suo potere e' **strutturale**: Google, Microsoft, OpenAI, Meta dipendono tutti da NVIDIA. E' un potere di **bottleneck**, non di network.
 
 **Implicazione**: Il potere tecnocratico puro (controllo infrastruttura critica) puo' operare indipendentemente dalle reti tradizionali di elite.
+
+#### Michael Dell: Il Tech Billionaire Low-Profile
+
+[Michael Dell](../docs/persons/michael-dell.md) ($151B, 10° al mondo) rappresenta un pattern intermedio tra Huang (zero forum) e Nadella (steering committee):
+
+| Aspetto | Michael Dell |
+|---------|--------------|
+| **WEF** | Honorary Member Foundation Board, Executive Committee IBC |
+| **Bilderberg** | Nessuna partecipazione documentata |
+| **Business Roundtable** | Member |
+| **Technology CEO Council** | Member |
+| **Filantropia** | $6.25B donazione 2025, Michael & Susan Dell Foundation |
+
+**Pattern Dell:**
+- **Forum access** ma non inner circle (WEF Honorary, non Bilderberg)
+- **Focus business**: Dell Technologies privata 2013, fusione Dell-EMC-VMware 2016
+- **Family office**: DFO Management (ex MSD Capital) dal 1998
+- **Board educativi**: Indian School of Business, Tsinghua University
+
+**Confronto Tech Billionaires:**
+
+| Tech Leader | Net Worth | Bilderberg | WEF | Pattern |
+|-------------|-----------|------------|-----|---------|
+| Jensen Huang | $152B | No | No | Infrastrutturale puro |
+| Michael Dell | $151B | No | **Honorary Board** | Low-profile forum |
+| Satya Nadella | ~$1B | **Steering Committee** | Speaker | Fully integrated |
+| Elon Musk | $400B+ | No | No (antagonistic) | Anti-establishment |
 
 ### 5. Venture Capital: I Kingmaker di Silicon Valley
 
@@ -683,6 +711,55 @@ Diane Bryant rappresenta il flusso di talenti Intel → altri semiconduttori:
 | [J.P. Morgan Jr](../docs/persons/jp-morgan-jr.md) | Continuity |
 | [Henry Sturgis Morgan](../docs/persons/henry-sturgis-morgan.md) | Morgan Stanley founder |
 
+### Koch - Il Network Politico Parallelo
+
+La famiglia Koch rappresenta un modello **alternativo** alle dinastie tradizionali: potere costruito attraverso network politico parallelo ai forum globali.
+
+| Membro | Anni | Ruoli chiave |
+|--------|------|--------------|
+| Fred C. Koch | 1900-1967 | Fondatore Koch Industries, John Birch Society |
+| [Charles Koch](../docs/persons/charles-koch.md) | 1935- | Chairman & CEO Koch Industries, Cato Institute founder |
+| [David Koch](../docs/persons/david-koch.md) | 1940-2019 | EVP Koch Industries, Americans for Prosperity founder |
+| [Julia Koch](../docs/persons/julia-koch.md) | 1962- | Matriarch, 42% Koch Industries, $74-81B net worth |
+
+**Pattern Koch vs Dynasty Tradizionali:**
+
+| Aspetto | Koch | Rockefeller/Bush |
+|---------|------|------------------|
+| **Forum globali** | Assenti (no Bilderberg, no WEF) | Fondatori/partecipanti |
+| **Strategia** | Network parallelo (think tanks, grassroots) | Integrazione establishment |
+| **Strumenti** | Cato Institute, Americans for Prosperity, academia | CFR, Trilateral, Bilderberg |
+| **Focus** | Politica interna USA, libertarismo | Governance globale |
+
+**Koch Network:**
+- **Cato Institute** (1977): Think tank libertario, Charles co-founder
+- **Americans for Prosperity** (2004): Grassroots, $200M+ budget, 34 stati
+- **Heritage Foundation**, **Mercatus Center**, **Federalist Society**: Major donors
+- **Impatto**: 400+ congressmen firmarono pledge anti-carbon tax; 900 seggi statali guadagnati durante Obama
+
+> "I Koch hanno costruito una macchina politica senza eguali in America" — CBC
+
+**Orgs connected:** Koch Industries ($125B), Cato Institute, Americans for Prosperity, Heritage Foundation
+
+### Walton - Potere Economico Puro
+
+La famiglia **piu' ricca del mondo** ($432B) ma assente dai forum globali.
+
+| Membro | Ruoli chiave |
+|--------|--------------|
+| Sam Walton | Fondatore Walmart (1962) |
+| [Rob Walton](../docs/persons/rob-walton.md) | Ex-Chairman Walmart (1992-2015), Denver Broncos owner |
+| Jim Walton | Chairman Arvest Bank |
+| Alice Walton | Crystal Bridges Museum, filantropia artistica |
+
+**Pattern Walton:**
+- **Forum**: Assenti da Bilderberg, Trilateral, WEF
+- **Focus**: Business puro, filantropia locale (Arkansas)
+- **Rob Walton (2022)**: Acquista Denver Broncos per $4.65B (record mondiale)
+- **Eccezione**: Conservation International board (Rob Walton) - ambientalismo
+
+> A differenza di Rockefeller o Koch, i Walton non costruiscono network di influenza politica. Il loro potere e' nella scala economica (2.1M dipendenti, $648B ricavi).
+
 ---
 
 ## Connessioni Internazionali
@@ -837,6 +914,9 @@ L'analisi rivela otto tipi distinti di potere:
 | **Geopolitical PE** | TikTok Consortium | PE navigates US-China | Oracle (Trump ally), MGX (UAE neutral) | TikTok USDS JV |
 | **VC Pipeline** | Drew Houston | YC → Sequoia → NASDAQ | WEF Davos | Dropbox CEO |
 | **Nordic Crossover** | Daniel Ek | Swedish tech → transatlantic | **Bilderberg 2025** | Spotify Chairman |
+| **Parallel Network** | Charles Koch | Think tank + grassroots alternative | **Nessuno** (anti-establishment) | Cato, AFP, Heritage |
+| **Economic-Only** | Walton Family | Pure business scale | **Nessuno** | Walmart ($648B revenue) |
+| **Low-Profile Tech** | Michael Dell | Business + selective forum | WEF Honorary (no Bilderberg) | Dell Technologies, DFO |
 
 **Insight chiave:**
 
@@ -848,6 +928,10 @@ L'analisi rivela otto tipi distinti di potere:
 6. **TikTok Consortium** mostra come PE naviga la geopolitica US-China: Oracle (Larry Ellison = Trump ally) + MGX (Abu Dhabi = neutral bridge) + Susquehanna (Jeff Yass = GOP mega-donor). Il deal e' strumento geopolitico mascherato da transazione commerciale.
 7. **Drew Houston** rappresenta la VC Pipeline: MIT → Y Combinator → Sequoia → NASDAQ. Pattern replicabile che ha creato $3.3T+ di valore (Apple, Google, NVIDIA, Dropbox).
 8. **Daniel Ek** segna l'ingresso di Nordic tech nell'elite transatlantica: primo CEO Spotify al Bilderberg (2025). Pattern di internazionalizzazione del tech power europeo.
+9. **Charles Koch** ha costruito un network parallelo ai forum globali: invece di partecipare a Bilderberg/Trilateral, ha fondato Cato Institute e Americans for Prosperity. "Una macchina politica senza eguali" secondo CBC.
+10. **Walton Family** ($432B) dimostra che il potere economico puro può operare senza engagement politico-istituzionale. Assenti da tutti i forum globali, focus su scala (2.1M dipendenti).
+11. **Michael Dell** rappresenta il modello "low-profile tech": WEF Honorary Board ma no Bilderberg, filantropia ($6.25B donazione 2025) ma non political networking.
+12. **Julia Koch** incarna la transizione generazionale: eredita $74-81B e 42% Koch Industries, ma si concentra su filantropia artistica NYC (Met, Lincoln Center) invece che network politico Koch.
 
 **Implicazione**: Il potere si sta stratificando. Alcuni (Huang) controllano infrastruttura, altri (Nadella) sono nel cerchio interno dei forum, altri (Peterson) accumulano governance, altri (Rubenstein) controllano le istituzioni che definiscono la foreign policy. Le combinazioni determinano l'influenza reale.
 
@@ -897,6 +981,13 @@ L'analisi rivela otto tipi distinti di potere:
 | **Regulator → PE → Payments** | Genachowski (FCC → Carlyle → Mastercard board) | Revolving door completo |
 | **Common Ownership Duopoly** | Big Three own ~19% Visa AND Mastercard | Competition disincentive |
 | **German CEO → US Major Corp** | Miebach (Mastercard), pattern immigrato elite | International executive pipeline |
+| **Parallel Political Network** | Koch (Cato, AFP) vs Bilderberg/Trilateral | Alternative power structure |
+| **Economic-Only Dynasty** | Walton ($432B) no forum engagement | Business scale = power |
+| **Low-Profile Tech Billionaire** | Michael Dell (WEF Honorary, no Bilderberg) | Selective forum access |
+| **Sports Ownership Power** | Rob Walton (Broncos $4.65B), Rubenstein (Orioles) | PE/Dynasty → sports |
+| **Conservation Philanthropy** | Rob Walton (Conservation Int'l, African Parks) | Environment as soft power |
+| **Widow Matriarch Inheritance** | Julia Koch (42% Koch Industries, $74-81B) | Dynastic wealth transfer |
+| **Arts Philanthropy vs Political Network** | Julia Koch (Met, Lincoln Center) vs Charles Koch (AFP) | Different power strategies |
 
 ---
 
@@ -911,7 +1002,7 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 4. **Tim Cook** → Apple (CEO)
 5. **Sundar Pichai** → Google/Alphabet (CEO)
 
-### Nuove entità aggiunte (Dicembre 2025)
+### Nuove entità aggiunte (Dicembre 2025 - Gennaio 2026)
 
 **Schede complete create:**
 | Entità | Tipo | Path |
@@ -928,6 +1019,10 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 | **Broadcom** | Company | `docs/company/broadcom.md` |
 | **Visa** | Company | `docs/company/visa.md` |
 | **Mastercard** | Company | `docs/company/mastercard.md` |
+| **Michael Dell** | Person | `docs/persons/michael-dell.md` |
+| **Rob Walton** | Person | `docs/persons/rob-walton.md` |
+| **Julia Koch** | Person | `docs/persons/julia-koch.md` |
+| **Famiglia Koch** | Family | `docs/family/koch.md` |
 
 **Organizzazioni create (stub):**
 | Organizzazione | Tipo | Note |
@@ -952,6 +1047,23 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 | **Intel** | Company | Semiconductor, Diane Bryant 32 anni |
 | **VMware** | Company | Acquired by Broadcom 2023, $69B |
 | **Stanley Black & Decker** | Company | Lundgren CEO 2004-2016 |
+| **Koch Industries** | Company | 2a azienda privata USA, $125B+ ricavi |
+| **Cato Institute** | ThinkTank | Charles Koch co-founder 1977 |
+| **Americans for Prosperity** | ThinkTank | Koch brothers founder 2004, $200M+ budget |
+| **Heritage Foundation** | ThinkTank | Major Koch donor |
+| **David H. Koch Foundation** | Foundation | Julia Koch president |
+| **Metropolitan Museum of Art** | Foundation | Julia Koch trustee 2023 |
+| **Memorial Sloan Kettering** | Foundation | Julia Koch board |
+| **Lincoln Center** | Foundation | Koch major donor ($100M) |
+| **Denver Broncos** | SportsClub | Rob Walton owner 2022, $4.65B (record) |
+| **Conservation International** | Foundation | Rob Walton board |
+| **African Parks** | Foundation | Rob Walton chair emeritus |
+| **Walton Family Foundation** | Foundation | Rob Walton board |
+| **BSE Global** | Company | Julia Koch 15% stake (Brooklyn Nets) |
+| **New York Giants** | SportsClub | Julia Koch 10% stake 2025 |
+| **Technology CEO Council** | Forum | Michael Dell member |
+| **DFO Management** | PrivateEquity | Michael Dell family office (ex MSD Capital) |
+| **Michael & Susan Dell Foundation** | Foundation | Michael Dell founder 1999 |
 
 **Persone aggiunte al DB:**
 | Persona | Nazionalita' | Ruoli chiave |
@@ -990,6 +1102,14 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 | Merit Janow | USA | **Mastercard Board Chair**, Columbia SIPA Dean |
 | Julius Genachowski | USA | **Mastercard board**, ex-FCC Chairman, Carlyle |
 | Richard Davis | USA | Mastercard board, ex-CEO US Bancorp |
+| [Michael Dell](../docs/persons/michael-dell.md) | USA | Dell Technologies founder/CEO, **WEF Honorary Board** |
+| [Rob Walton](../docs/persons/rob-walton.md) | USA | Ex-Walmart Chairman, **Denver Broncos owner** |
+| [Julia Koch](../docs/persons/julia-koch.md) | USA | Koch Industries 42%, **$74-81B**, 3a donna più ricca |
+| Fred C. Koch | USA | Koch Industries founder (1900-1967) |
+| [Charles Koch](../docs/persons/charles-koch.md) | USA | Koch Industries Chairman, **Cato Institute founder** |
+| [David Koch](../docs/persons/david-koch.md) | USA | Koch Industries EVP, **AFP founder** (1940-2019) |
+| Frederick Koch | USA | Koch family, patron arts (1933-2020) |
+| William Koch | USA | Koch family, estranged (1940-) |
 
 **Organizzazioni aggiunte/aggiornate:**
 | Organizzazione | Tipo | Note |
@@ -1040,6 +1160,15 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 - **Big Three → Visa + Mastercard (~19% each)** (common ownership of "competing" duopoly)
 - **Merit Janow → Mastercard (chair) + Columbia SIPA (dean)** (academia-payments governance bridge)
 - **Lance Uggla → Mastercard (board) + IHS Markit (founder)** (data infrastructure crossover)
+- **Michael Dell → WEF (Honorary Board) + Business Roundtable + Tech CEO Council** (low-profile tech forum)
+- **Michael Dell → Dell Technologies (founder) + DFO Management (family office)** (tech + PE personal)
+- **Rob Walton → Walmart (chairman 1992-2015) → Denver Broncos (owner 2022)** (retail → sports)
+- **Rob Walton → Conservation International + African Parks** (conservation philanthropy)
+- **Julia Koch → Koch Industries (42% board) + David H. Koch Foundation (president)** (inheritance + filantropia)
+- **Julia Koch → Metropolitan Museum (trustee) + Lincoln Center** (NYC arts philanthropy)
+- **Julia Koch → BSE Global (15%) + NY Giants (10%)** (sports investments)
+- **Charles Koch → Koch Industries (chairman) + Cato Institute (founder) + AFP (founder)** (parallel political network)
+- **Family Koch → MEMBER_OF (fred, charles, david, frederick, william, julia)** (dinastia completa)
 
 ---
 
@@ -1074,4 +1203,4 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 
 ---
 
-*Ultimo aggiornamento: 30 Dicembre 2025 - Aggiunta analisi completa duopolio Visa-Mastercard, pattern Payments CEO → World Bank (Banga), Regulator → PE → Payments Board (Genachowski), Big Three common ownership del duopolio*
+*Ultimo aggiornamento: 1 Gennaio 2026 - Aggiunte dinastie Koch e Walton, pattern "Parallel Network" (Koch) vs forum tradizionali, Michael Dell come "Low-Profile Tech Billionaire", Julia Koch transizione generazionale, Rob Walton sports ownership, 11 tipi di potere (da 8)*

@@ -643,6 +643,9 @@ organizations:
     headquarters: Johannesburg, South Africa
     status: active
     stakeholders:
+    - person: rob-walton
+      role: board
+      note: Chair, African Parks Foundation of America; Emeritus Trustee
     - person: vas-narasimhan
       role: chairman
       from: 2022
@@ -1036,6 +1039,19 @@ organizations:
       share: ~90%
       from: 1996
       note: Funding ~90%, Emir nomina board
+  alba:
+    name: Aluminium Bahrain (Alba)
+    type: company
+    founded: 1971
+    headquarters: Manama, Bahrain
+    status: active
+    sector: aluminium
+    note: First aluminium smelter in Middle East. Listed Bahrain Bourse + LSE. Mumtalakat 69.38%, Maaden (Saudi) 20.62%. Production
+      1.62M mtpa.
+    stakeholders:
+    - org: mumtalakat
+      role: majority
+      share: 69.38%
   alcatel-lucent:
     name: Alcatel-Lucent
     type: company
@@ -1049,6 +1065,9 @@ organizations:
     headquarters: Pittsburgh, USA
     status: active
     sector: alluminio
+    stakeholders:
+    - person: ernesto-zedillo
+      role: board
   alcon:
     name: Alcon Inc.
     type: company
@@ -1452,6 +1471,31 @@ organizations:
     founded: 1950
     headquarters: Helsinki, Finland
     sector: Sporting Goods
+  america-movil:
+    name: América Móvil
+    type: company
+    founded: 2000
+    headquarters: Mexico
+    sector: telecom
+    stakeholders:
+    - person: carlos-slim
+      role: chairman
+      from: 2000
+    - person: daniel-hajj
+      role: executive
+      from: 2000
+      note: CEO
+    - person: carlos-slim-domit
+      role: chairman
+      from: 2000
+    - person: patrick-slim-domit
+      role: chairman
+      note: Co-Chairman
+    - person: marco-antonio-slim
+      role: shareholder
+      note: 3.8%
+    - org: grupo-carso
+      role: parent
   american-academy-arts-sciences:
     name: American Academy of Arts and Sciences
     type: forum
@@ -1472,6 +1516,15 @@ organizations:
     - person: sandra-peterson
       role: chairman
       note: Chairman of the Board
+  american-ballet-theatre:
+    name: American Ballet Theatre
+    type: foundation
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: julia-koch
+      role: member
+      note: Event chair
   american-council-germany:
     name: American Council on Germany
     type: thinktank
@@ -1528,6 +1581,32 @@ organizations:
     - person: stephen-wise
       role: founder
       from: 1918
+  american-university:
+    name: American University
+    type: university
+    founded: 1893
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: salman-bin-hamad-al-khalifa
+      role: member
+      from: 1988
+      to: 1992
+      note: BA Public Administration
+  americans-for-prosperity:
+    name: Americans for Prosperity
+    type: thinktank
+    founded: 2004
+    headquarters: Arlington, USA
+    status: active
+    stakeholders:
+    - person: charles-koch
+      role: founder
+      from: 2004
+    - person: david-koch
+      role: founder
+      from: 2004
+      to: 2019
   americas-society:
     name: Americas Society
     type: forum
@@ -1903,6 +1982,15 @@ organizations:
       role: board
       from: 2018
       note: Board member
+  arizona-state-university:
+    name: Arizona State University
+    type: university
+    headquarters: Tempe, USA
+    status: active
+    stakeholders:
+    - person: rob-walton
+      role: board
+      note: Co-Chairman, Global Institute of Sustainability
   arm:
     name: ARM Holdings
     type: company
@@ -1927,6 +2015,31 @@ organizations:
       from: 1965
       to: 1969
       note: Vietnam War
+  artemis:
+    name: Groupe Artemis
+    type: company
+    founded: 1992
+    headquarters: Paris, France
+    status: active
+    sector: holding
+    stakeholders:
+    - person: francois-pinault
+      role: founder
+      from: 1992
+    - person: francois-henri-pinault
+      role: executive
+      from: 2003
+      note: CEO
+  asarco:
+    name: ASARCO
+    type: company
+    founded: 1899
+    headquarters: Tucson, USA
+    status: active
+    sector: mining
+    stakeholders:
+    - org: grupo-mexico
+      role: parent
   asbury-automotive:
     name: Asbury Automotive Group
     type: company
@@ -2668,6 +2781,28 @@ organizations:
       share: 4.9%
     - org: state-street
       share: 1.5%
+  bahrain-defence-force:
+    name: Bahrain Defence Force
+    type: agency
+    headquarters: Riffa, Bahrain
+    status: active
+    stakeholders:
+    - person: salman-bin-hamad-al-khalifa
+      role: executive
+      from: 1999
+      to: 2008
+      note: Commander-in-Chief 1999-2008, Deputy Supreme Commander 2008-
+  bahrain-edb:
+    name: Bahrain Economic Development Board
+    type: agency
+    founded: 2000
+    headquarters: Manama, Bahrain
+    status: active
+    stakeholders:
+    - person: salman-bin-hamad-al-khalifa
+      role: chairman
+      from: 2002
+      note: Chairman, responsabile Vision 2030
   baic:
     name: BAIC Group
     type: automaker
@@ -2736,6 +2871,16 @@ organizations:
       from: 1992
       to: 1997
       note: Baker Hughes Inteq
+  ballmer-group:
+    name: Ballmer Group
+    type: foundation
+    founded: 2015
+    headquarters: Seattle, USA
+    status: active
+    stakeholders:
+    - person: steve-ballmer
+      role: founder
+      from: 2015
   baltimore-orioles:
     type: sportsclub
     headquarters: Baltimore MD, USA
@@ -2919,6 +3064,18 @@ organizations:
       from: 1995
       to: 2002
       note: Head of Planning
+  banco-azteca:
+    name: Banco Azteca
+    type: bank
+    founded: 2002
+    headquarters: Mexico
+    sector: finance
+    stakeholders:
+    - person: ricardo-salinas-pliego
+      role: founder
+      from: 2002
+    - org: grupo-salinas
+      role: parent
   banco-bpm:
     name: Banco BPM SpA
     type: bank
@@ -3302,6 +3459,22 @@ organizations:
       role: owner
       share: 100
       note: Banca centrale nazionale
+  banxico:
+    name: Banco de México
+    type: centralbank
+    founded: 1925
+    headquarters: Mexico
+    sector: central-bank
+    stakeholders:
+    - person: ernesto-zedillo
+      role: executive
+      from: 1978
+      to: 1987
+      note: Deputy Manager
+    - person: agustin-carstens
+      role: governor
+      from: 2010
+      to: 2017
   barclays:
     name: Barclays plc
     type: bank
@@ -3456,6 +3629,19 @@ organizations:
     - org: volkswagen
       role: stake
       share: 0.2
+  batelco:
+    name: Batelco (Beyon)
+    type: company
+    founded: 1981
+    headquarters: Hamala, Bahrain
+    status: active
+    sector: telecommunications
+    note: Principal telecom company Bahrain. Rebranded Beyon 2022. Mumtalakat 36.67%, Amber Holding (UK) 20%, GOSI pension
+      funds ~20%.
+    stakeholders:
+    - org: mumtalakat
+      role: largest
+      share: 36.67%
   battery-ventures:
     name: Battery Ventures
     type: privateequity
@@ -3572,6 +3758,17 @@ organizations:
       from: 1998
       to: 2002
       note: Nationalized during bank run May 1998, sold to Hartono 2002
+  bce:
+    name: BCE Inc.
+    type: company
+    founded: 1880
+    headquarters: Montreal, Canada
+    status: active
+    sector: telecom
+    stakeholders:
+    - org: woodbridge
+      role: investor
+      note: Minority stake in Bell Canada parent
   bcee:
     name: Banque et Caisse d'Épargne de l'État
     type: bank
@@ -4663,6 +4860,11 @@ organizations:
       role: board
       from: 2006
       note: Vice-Chairman 2021-, longest-serving board member
+    - person: agustin-carstens
+      role: executive
+      from: 2017
+      to: 2025
+      note: General Manager
     - org: bank-of-greece
       role: member
       note: Member central bank
@@ -5651,6 +5853,24 @@ organizations:
       role: founder
       from: 2006
       note: Co-fondatore, Chairman board
+  bsa-international:
+    name: BSA International SA
+    type: company
+    founded: 1999
+    headquarters: Belgium
+    status: active
+    sector: holding
+  bse-global:
+    name: BSE Global
+    type: company
+    headquarters: Brooklyn, USA
+    status: active
+    note: Brooklyn Nets, NY Liberty, Barclays Center
+    stakeholders:
+    - person: julia-koch
+      role: partner
+      from: 2024
+      note: 15% stake, ~$900M
   bsgr:
     name: BSG Resources
     type: company
@@ -5802,6 +6022,8 @@ organizations:
     - person: david-ricks
       role: member
       note: Board Member
+    - person: michael-dell
+      role: member
   bvb:
     name: Bucharest Stock Exchange
     type: company
@@ -6005,6 +6227,11 @@ organizations:
     headquarters: Cambridge, UK
     status: active
     stakeholders:
+    - person: salman-bin-hamad-al-khalifa
+      role: member
+      from: 1992
+      to: 1994
+      note: MA Philosophy and History
     - person: peter-martland
       role: academic
       from: 1982
@@ -6103,6 +6330,18 @@ organizations:
       role: chairman
       from: 2015
       note: Lead investor, fondi da Epstein
+  carl-victor-page-memorial-foundation:
+    name: Carl Victor Page Memorial Foundation
+    type: foundation
+    founded: 2006
+    headquarters: California, USA
+    status: active
+    sector: philanthropy
+    stakeholders:
+    - person: larry-page
+      role: founder
+      from: 2006
+      note: Fondazione in memoria del padre
   carlsberg:
     name: Carlsberg A/S
     type: company
@@ -6240,6 +6479,20 @@ organizations:
     stakeholders:
     - person: albert-bourla
       role: board
+    - person: michael-dell
+      role: board
+  catalyst4:
+    name: Catalyst4
+    type: foundation
+    founded: 2021
+    headquarters: California, USA
+    status: active
+    sector: health, environment
+    stakeholders:
+    - person: sergey-brin
+      role: founder
+      from: 2021
+      note: 501(c)(4) per ricerca Parkinson e ambiente
   catamaran-ventures:
     type: privateequity
     headquarters: Bangalore, India
@@ -6261,6 +6514,16 @@ organizations:
     - person: william-conway
       role: board
       note: Former Trustee and Vice Chairman
+  cato-institute:
+    name: Cato Institute
+    type: thinktank
+    founded: 1977
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: charles-koch
+      role: founder
+      from: 1977
   cbmm:
     name: CBMM - Companhia Brasileira de Metalurgia e Mineracao
     type: company
@@ -6470,6 +6733,20 @@ organizations:
       role: board
       from: 1994
       note: Largest shareholder (34.9%)
+  cemex:
+    name: CEMEX
+    type: company
+    founded: 1906
+    headquarters: Monterrey
+    sector: cement
+    stakeholders:
+    - person: lorenzo-zambrano
+      role: executive
+      from: 1985
+      to: 2014
+    - person: rogelio-zambrano
+      role: chairman
+      from: 2014
   central-bank-ireland:
     name: Central Bank of Ireland
     type: centralbank
@@ -6732,6 +7009,22 @@ organizations:
     - person: mark-zuckerberg
       role: founder
       from: 2015
+  chanel:
+    name: Chanel
+    type: company
+    founded: 1910
+    headquarters: Paris, France
+    status: active
+    sector: luxury
+    stakeholders:
+    - person: alain-wertheimer
+      role: chairman
+      from: 1996
+      note: Global Executive Chairman, co-owner
+    - person: gerard-wertheimer
+      role: board
+      from: 1996
+      note: Co-owner, watch division
   chapter-zero-france:
     name: Chapter Zero France
     type: foundation
@@ -6778,10 +7071,11 @@ organizations:
       to: 1991
       note: London
   chase-manhattan:
-    name: Chase Manhattan
+    name: Chase Manhattan Bank
     type: bank
     headquarters: New York
-    status: active
+    status: defunct
+    note: Merged into JPMorgan Chase 2000
     stakeholders:
     - person: gianni-agnelli
       role: board
@@ -6803,6 +7097,11 @@ organizations:
       from: 1985
       to: 1987
       note: Banking, London
+    - person: nemir-kirdar
+      role: executive
+      from: 1974
+      to: 1981
+      note: Vice President, Middle East banking
   chatham-house:
     name: Chatham House - Royal Institute of International Affairs
     type: thinktank
@@ -7006,6 +7305,18 @@ organizations:
     stakeholders:
     - person: tong-zhilei
       role: founder
+  christies:
+    name: Christies
+    type: company
+    founded: 1766
+    headquarters: London, UK
+    status: active
+    sector: auction
+    stakeholders:
+    - org: artemis
+      share: 100%
+      from: 1998
+      note: Acquired for $1.2 billion
   cia:
     name: Central Intelligence Agency
     type: agency
@@ -7287,6 +7598,8 @@ organizations:
       role: executive
       to: 2010
       note: 13 years, Germany/Austria/UK/Turkey
+    - person: ernesto-zedillo
+      role: board
     - org: kuwait-investment-authority
       role: shareholder
       share: $3B
@@ -7681,6 +7994,15 @@ organizations:
     - org: berkshire-hathaway
       role: stake
       share: 0.093
+  coca-cola-femsa:
+    name: Coca-Cola FEMSA
+    type: company
+    founded: 1993
+    headquarters: Mexico
+    sector: beverages
+    stakeholders:
+    - person: jose-antonio-fernandez-carbajal
+      role: chairman
   college-of-europe:
     name: College of Europe
     type: forum
@@ -7783,6 +8105,11 @@ organizations:
     status: active
     sector: education
     stakeholders:
+    - person: rob-walton
+      role: member
+      from: 1966
+      to: 1969
+      note: JD, Law School
     - person: henry-kravis
       role: board
       note: Columbia Business School Board, major donor
@@ -7815,6 +8142,12 @@ organizations:
     stakeholders:
     - org: paramount-global
       share: 100%
+  comexi:
+    name: Consejo Mexicano de Asuntos Internacionales
+    type: thinktank
+    founded: 2001
+    headquarters: Mexico
+    sector: think-tank
   comitato-leonardo:
     name: Comitato Leonardo
     type: agency
@@ -8071,6 +8404,8 @@ organizations:
     headquarters: Arlington, Virginia, USA
     status: active
     stakeholders:
+    - person: rob-walton
+      role: board
     - person: andre-esteves
       role: board
       note: Amazonia Live program, 5P Alliance Pantanal
@@ -8673,6 +9008,16 @@ organizations:
     status: active
     sector: software
     note: 3D design software leader. 40% Dassault family
+  david-h-koch-foundation:
+    name: David H. Koch Foundation
+    type: foundation
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: julia-koch
+      role: executive
+      from: 2019
+      note: President
   dbs:
     name: DBS Bank
     type: bank
@@ -8805,6 +9150,10 @@ organizations:
       from: 2009
       to: 2013
       note: NSA contractor
+    - person: michael-dell
+      role: founder
+      from: 1984
+      note: Chairman & CEO
   deloitte:
     name: Deloitte
     type: company
@@ -8823,6 +9172,17 @@ organizations:
       from: 1943
       to: 1954
       note: Segretario e Presidente
+  denver-broncos:
+    name: Denver Broncos
+    type: sportsclub
+    founded: 1960
+    headquarters: Denver, USA
+    status: active
+    stakeholders:
+    - person: rob-walton
+      role: founder
+      from: 2022
+      note: Principal Owner, Walton-Penner Ownership Group
   depauw-university:
     name: DePauw University
     type: university
@@ -9026,6 +9386,16 @@ organizations:
     - org: jardine-matheson
       role: parent
       share: 0.78
+  dfo-management:
+    name: DFO Management
+    type: privateequity
+    founded: 1998
+    headquarters: Austin, USA
+    status: active
+    stakeholders:
+    - person: michael-dell
+      role: founder
+      from: 1998
   dgap:
     name: German Council on Foreign Relations
     type: thinktank
@@ -9944,6 +10314,16 @@ organizations:
     headquarters: Luxembourg City, Luxembourg
     status: active
     sector: development-banking
+  eisenhower-fellowships:
+    name: Eisenhower Fellowships
+    type: foundation
+    founded: 1953
+    headquarters: Philadelphia, USA
+    status: active
+    stakeholders:
+    - person: nemir-kirdar
+      role: board
+      note: Trustee; Nemir Kirdar Fellowship created 2018
   el-pais:
     name: El País
     type: media
@@ -11523,6 +11903,16 @@ organizations:
       role: executive
       from: 2022
       note: President & CEO
+  femsa:
+    name: FEMSA
+    type: company
+    founded: 1890
+    headquarters: Monterrey
+    sector: beverages
+    stakeholders:
+    - person: jose-antonio-fernandez-carbajal
+      role: chairman
+      from: 2001
   fenway-sports-group:
     name: Fenway Sports Group
     type: company
@@ -12003,6 +12393,11 @@ organizations:
       from: 2007
       to: 2008
       note: Chairman IMFC
+    - person: agustin-carstens
+      role: executive
+      from: 2003
+      to: 2006
+      note: Deputy Managing Director
     - org: wef
       role: partner
     - org: banca-mondiale
@@ -12019,6 +12414,18 @@ organizations:
       from: 2006
       to: 2018
       note: CEO
+  fondation-bettencourt-schueller:
+    name: Fondation Bettencourt Schueller
+    type: foundation
+    founded: 1987
+    headquarters: Paris, France
+    status: active
+    sector: philanthropy
+    stakeholders:
+    - person: francoise-bettencourt-meyers
+      role: chairman
+      from: 2012
+      note: President
   fondation-louis-vuitton:
     name: Fondation Louis Vuitton
     type: foundation
@@ -12324,6 +12731,20 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  fresnillo:
+    name: Fresnillo plc
+    type: company
+    founded: 2008
+    headquarters: Mexico City
+    status: active
+    sector: mining
+    stakeholders:
+    - person: alejandro-bailleres
+      role: chairman
+      from: 2021
+    - org: penoles
+      role: parent
+      share: 75
   friedrich-ebert-stiftung:
     name: Friedrich-Ebert-Stiftung
     type: thinktank
@@ -12773,6 +13194,18 @@ organizations:
       role: control
       share: 50%
       from: 1990
+  gcc:
+    name: Gulf Cooperation Council
+    type: agency
+    founded: 1981
+    headquarters: Riyadh, Saudi Arabia
+    status: active
+    stakeholders:
+    - person: abdullatif-al-zayani
+      role: executive
+      from: 2011
+      to: 2020
+      note: Secretary General
   gchq:
     name: GCHQ
     type: agency
@@ -13070,6 +13503,11 @@ organizations:
       note: Board of Regents; alumnus cum laude
     - person: ali-adnan-ibrahim
       role: professor
+  georgia-pacific:
+    name: Georgia-Pacific
+    type: company
+    headquarters: Atlanta, USA
+    status: active
   german-marshall-fund:
     name: German Marshall Fund
     type: thinktank
@@ -13080,6 +13518,18 @@ organizations:
     - person: theo-sommer
       role: advisor
       note: German advisory committee
+  gib:
+    name: Gulf International Bank
+    type: bank
+    founded: 1976
+    headquarters: Manama, Bahrain
+    status: active
+    note: 'Largest bank in Bahrain by assets ($46B). Owned by PIF Saudi and GCC governments. Branches: London, NY, Riyadh,
+      Jeddah. Rep offices: Beirut, Abu Dhabi.'
+    stakeholders:
+    - org: pif-saudi
+      role: owner
+      note: Major shareholder insieme a governi GCC
   gic:
     name: Government of Singapore Investment Corporation
     type: swf
@@ -13225,6 +13675,16 @@ organizations:
       role: chairman
       from: 2009
       to: 2011
+  globe-and-mail:
+    name: The Globe and Mail
+    type: media
+    founded: 1844
+    headquarters: Toronto, Canada
+    status: active
+    stakeholders:
+    - org: woodbridge
+      role: owner
+      note: Major publication
   globsec:
     name: GLOBSEC
     type: thinktank
@@ -13239,6 +13699,16 @@ organizations:
     - person: andreas-treichl
       role: advisor
       note: International Advisory Council
+  gmexico-transportes:
+    name: GMéxico Transportes
+    type: company
+    founded: 2017
+    headquarters: Mexico
+    status: active
+    sector: railway
+    stakeholders:
+    - org: grupo-mexico
+      role: parent
   gnl-italia:
     name: GNL Italia S.p.A.
     type: company
@@ -13605,6 +14075,44 @@ organizations:
       from: 1990
       to: 1997
       note: Federal Minister Education/Arts, Science/Research/Arts, Science/Transport/Arts
+  governo-bahrain:
+    name: Governo del Regno del Bahrain
+    type: government
+    founded: 1783
+    headquarters: Manama, Bahrain
+    status: active
+    note: Monarchia costituzionale dal 2002. Host US Fifth Fleet dal 1948. Abraham Accords 2020.
+    stakeholders:
+    - person: nasser-bin-hamad-al-khalifa
+      role: advisor
+      note: National Security Advisor
+    - person: salman-bin-hamad-al-khalifa
+      role: leader
+      from: 2020
+      note: Prime Minister, Crown Prince dal 1999
+    - person: hamad-bin-isa-al-khalifa
+      role: leader
+      from: 1999
+      note: King dal 2002, Emir 1999-2002
+    - person: salman-bin-khalifa-al-khalifa
+      role: minister
+      note: Finance and National Economy
+    - person: khalid-bin-hamad-al-khalifa
+      role: advisor
+      note: Supreme Council Youth & Sports, Olympic Committee President
+    - person: khalid-bin-ahmed-al-khalifa
+      role: minister
+      from: 2005
+      to: 2020
+      note: Foreign Minister; now Adviser on Diplomatic Affairs
+    - person: abdullatif-al-zayani
+      role: minister
+      from: 2020
+      note: Foreign Minister
+    - org: us-fifth-fleet
+      role: partner
+      from: 1971
+      note: NSA Bahrain lease, former British base HMS Jufair
   governo-belgio:
     name: Governo del Belgio
     type: government
@@ -15375,6 +15883,45 @@ organizations:
       from: 2017
       to: 2018
       note: Foreign Minister
+  governo-mexico:
+    name: Gobierno de México
+    type: government
+    headquarters: Mexico
+    stakeholders:
+    - person: luis-videgaray
+      role: minister
+      from: 2012
+      to: 2018
+      note: Finance/Foreign
+    - person: ernesto-zedillo
+      role: leader
+      from: 1994
+      to: 2000
+      note: President
+    - person: carlos-salinas-de-gortari
+      role: leader
+      from: 1988
+      to: 1994
+      note: President
+    - person: agustin-carstens
+      role: minister
+      from: 2006
+      to: 2009
+      note: Finance Minister
+    - person: pedro-aspe
+      role: minister
+      from: 1988
+      to: 1994
+      note: Finance
+    - person: claudia-sheinbaum
+      role: leader
+      from: 2024
+      note: President
+    - person: jaime-serra-puche
+      role: minister
+      from: 1988
+      to: 1994
+      note: Trade
   governo-moldova:
     name: Governo Moldova
     type: government
@@ -16815,6 +17362,9 @@ organizations:
       from: 2009
       to: 2013
       note: FCC Chairman
+    - org: us-fifth-fleet
+      role: member
+      note: Component of US Central Command (CENTCOM)
   govtech-singapore:
     name: Government Technology Agency
     type: agency
@@ -16961,6 +17511,8 @@ organizations:
       from: 1979
       to: 2010
       note: Member
+    - person: ernesto-zedillo
+      role: member
   groupe-arnault:
     name: Groupe Arnault
     type: company
@@ -16972,6 +17524,54 @@ organizations:
     - person: bernard-arnault
       role: chairman
       from: 1987
+  grupo-bal:
+    name: Grupo BAL
+    type: company
+    founded: 1950
+    headquarters: Mexico
+    sector: conglomerate
+    stakeholders:
+    - person: alberto-bailleres
+      role: chairman
+      from: 1962
+      to: 2021
+    - person: alejandro-bailleres
+      role: chairman
+      from: 2021
+  grupo-bimbo:
+    name: Grupo Bimbo
+    type: company
+    founded: 1945
+    headquarters: Mexico
+    sector: food
+    stakeholders:
+    - person: lorenzo-servitje
+      role: founder
+      from: 1945
+    - person: daniel-servitje
+      role: executive
+      from: 1997
+  grupo-carso:
+    name: Grupo Carso
+    type: company
+    founded: 1980
+    headquarters: Mexico
+    sector: conglomerate
+    stakeholders:
+    - person: carlos-slim
+      role: founder
+      from: 1980
+  grupo-elektra:
+    name: Grupo Elektra
+    type: company
+    founded: 1950
+    headquarters: Mexico
+    sector: retail
+    stakeholders:
+    - person: ricardo-salinas-pliego
+      role: chairman
+    - org: grupo-salinas
+      role: parent
   grupo-globo:
     name: Grupo Globo
     type: media
@@ -17010,6 +17610,16 @@ organizations:
     stakeholders:
     - person: guillermo-romo
       role: founder
+  grupo-mexico:
+    name: Grupo México
+    type: company
+    founded: 1942
+    headquarters: Mexico
+    sector: mining
+    stakeholders:
+    - person: german-larrea
+      role: chairman
+      from: 1994
   grupo-prisa:
     name: Grupo Prisa
     type: media
@@ -17024,6 +17634,16 @@ organizations:
       note: via Amber Capital
     - org: amber-capital
       share: controlling
+  grupo-salinas:
+    name: Grupo Salinas
+    type: company
+    founded: 1950
+    headquarters: Mexico
+    sector: conglomerate
+    stakeholders:
+    - person: ricardo-salinas-pliego
+      role: chairman
+      from: 1987
   grupo-televisa:
     name: Grupo Televisa
     type: media
@@ -17127,6 +17747,18 @@ organizations:
     - org: battery-ventures
       role: investor
       note: 'Exit: Akamai acquisition'
+  gulf-air:
+    name: Gulf Air
+    type: company
+    founded: 1950
+    headquarters: Muharraq, Bahrain
+    status: active
+    sector: aviation
+    note: National carrier of Bahrain. 100% owned by Mumtalakat via Gulf Air Group Holding.
+    stakeholders:
+    - org: mumtalakat
+      role: owner
+      share: 100%
   gulf-energy:
     name: Gulf Development
     type: company
@@ -17617,6 +18249,8 @@ organizations:
       role: board
       from: 2012
       to: 2019
+    - person: jose-antonio-fernandez-carbajal
+      role: board
     - org: blackrock
       share: 2.3
     - org: vanguard
@@ -17690,6 +18324,12 @@ organizations:
       from: 2014
       to: 2022
       note: CEO
+  heritage-foundation:
+    name: Heritage Foundation
+    type: thinktank
+    founded: 1973
+    headquarters: Washington DC, USA
+    status: active
   hermes:
     name: Hermès International SCA
     type: company
@@ -18849,6 +19489,18 @@ organizations:
     - person: philippe-de-spoelberch
       role: board
       note: Administrator
+  inbursa:
+    name: Grupo Financiero Inbursa
+    type: bank
+    founded: 1992
+    headquarters: Mexico
+    sector: finance
+    stakeholders:
+    - person: carlos-slim
+      role: founder
+      from: 1992
+    - org: grupo-carso
+      role: parent
   independent-news-media:
     name: Independent News & Media
     type: media
@@ -18914,19 +19566,47 @@ organizations:
       from: 1920
       to: 1948
       note: Leader movimento indipendenza
+  indian-school-of-business:
+    name: Indian School of Business
+    type: university
+    headquarters: Hyderabad, India
+    status: active
+    stakeholders:
+    - person: michael-dell
+      role: board
+      note: Governing Board
   inditex:
-    name: Inditex
+    name: Industria de Diseño Textil SA
     type: company
     founded: 1985
     headquarters: Arteixo, Spain
     status: active
-    sector: fashion
+    sector: retail-fashion
     stakeholders:
     - person: pablo-isla
       role: executive
       from: 2005
       to: 2022
       note: CEO 2005-2011, Chairman & CEO 2011-2022
+    - person: amancio-ortega
+      role: founder
+      from: 1975
+      note: Fondatore, 59% azionista
+    - person: marta-ortega
+      role: chairman
+      from: 2022
+      note: Chair Inditex
+    - person: sandra-ortega
+      role: board
+      note: 5% azionista
+    - person: oscar-garcia-maceiras
+      role: executive
+      from: 2021
+      note: CEO
+    - person: flora-perez
+      role: board
+      from: 2024
+      note: Proprietary director (Pontegadea)
     - org: blackrock
       share: 3.0
   indofood:
@@ -19484,6 +20164,23 @@ organizations:
       share: 42.25
       from: 2021
       note: Major shareholder
+  investcorp:
+    name: Investcorp
+    type: privateequity
+    founded: 1982
+    headquarters: Manama, Bahrain
+    status: active
+    aum: $53 billion
+    note: 'Pioneer PE in Gulf. Founded by Nemir Kirdar. Mubadala 20% stake. Offices: Bahrain, USA, UK, UAE, Saudi, India,
+      China, Japan, Singapore.'
+    stakeholders:
+    - person: nemir-kirdar
+      role: founder
+      from: 1982
+      to: 2017
+    - org: mubadala
+      role: shareholder
+      share: 20%
   investor-ab:
     name: Investor AB
     type: company
@@ -19711,6 +20408,15 @@ organizations:
     stakeholders:
     - org: mediaset-mfe
       share: 100%
+  itam:
+    name: Instituto Tecnológico Autónomo de México
+    type: university
+    founded: 1946
+    headquarters: Mexico
+    sector: education
+    stakeholders:
+    - person: alberto-bailleres
+      role: benefactor
   itau-unibanco:
     name: Itaú Unibanco
     type: bank
@@ -20388,9 +21094,17 @@ organizations:
       role: founder
       from: 1963
       note: Fondatore Pinault Group, poi PPR, ora Kering
+    - person: francois-henri-pinault
+      role: executive
+      from: 2005
+      to: 2025
+      note: CEO 2005-2025, Chairman
     - org: blackrock
       role: shareholder
       share: 5.0
+    - org: artemis
+      share: 41%
+      note: Controlling stake
   kerry-group:
     name: Kerry Group
     type: company
@@ -20680,6 +21394,31 @@ organizations:
     - org: state-street
       share: 0.5%
       note: Via SPDR Emerging Markets ETF
+  koch-industries:
+    name: Koch Industries
+    type: company
+    founded: 1940
+    headquarters: Wichita, USA
+    status: active
+    sector: energy, chemicals, commodities
+    stakeholders:
+    - person: julia-koch
+      role: board
+      from: 2019
+      note: 42% stake inherited from David Koch
+    - person: fred-koch
+      role: founder
+      from: 1940
+      to: 1967
+    - person: charles-koch
+      role: chairman
+      from: 1967
+      note: Chairman & CEO
+    - person: david-koch
+      role: executive
+      from: 1970
+      to: 2019
+      note: Executive Vice President
   kone:
     name: KONE
     type: company
@@ -20939,6 +21678,21 @@ organizations:
       note: Conduttrice Otto e mezzo
     - org: cairo-communication
       share: 100%
+  lactalis:
+    name: Groupe Lactalis
+    type: company
+    founded: 1933
+    headquarters: Laval, France
+    status: active
+    sector: dairy
+    stakeholders:
+    - person: emmanuel-besnier
+      role: executive
+      from: 2000
+      note: CEO
+    - org: bsa-international
+      share: 50.8%
+      note: Controlling stake
   lagardere:
     name: Lagardere
     type: media
@@ -21351,6 +22105,15 @@ organizations:
     - org: eli-lilly
       role: stake
       share: 0.107
+  lincoln-center:
+    name: Lincoln Center for the Performing Arts
+    type: foundation
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: julia-koch
+      role: member
+      note: Major donor via David H. Koch Foundation
   linde:
     name: Linde plc
     type: company
@@ -21529,10 +22292,14 @@ organizations:
       from: 1997
       to: 2025
       note: Vice-Chair 2020-25
+    - person: jean-pierre-meyers
+      role: board
+      from: 1987
+      note: Vice-Chairman emeritus
     - person: jean-victor-meyers
       role: board
-      from: 2018
-      note: Vice-Chair from Apr 2025
+      from: 2025
+      note: Vice-Chairman from 2025
     - person: jean-paul-agon
       role: chairman
       from: 2011
@@ -21551,6 +22318,21 @@ organizations:
       share: 20.1%
       from: 1974
       note: Originally 29%, reduced 2014
+    - org: tethys
+      share: 34.7%
+      from: 2003
+      note: Largest shareholder
+  los-angeles-clippers:
+    name: Los Angeles Clippers
+    type: sportsclub
+    founded: 1970
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: steve-ballmer
+      role: chairman
+      from: 2014
+      note: Owner
   los-angeles-times:
     name: Los Angeles Times
     type: media
@@ -21624,6 +22406,18 @@ organizations:
       share: 5.1%
     - org: state-street
       share: 1.5%
+  lta-research:
+    name: LTA Research
+    type: company
+    founded: 2015
+    headquarters: California, USA
+    status: active
+    sector: aerospace
+    stakeholders:
+    - person: sergey-brin
+      role: founder
+      from: 2015
+      note: Sviluppo dirigibili ecologici
   lts-investments:
     name: LTS Investments
     type: privateequity
@@ -21876,6 +22670,19 @@ organizations:
       from: 2013
       to: 2022
       note: CEO and General Manager
+  manama-dialogue:
+    name: IISS Manama Dialogue
+    type: forum
+    founded: 2004
+    headquarters: Manama, Bahrain
+    status: active
+    note: Annual security summit hosted by IISS and Bahrain. Leading regional security forum. Hosted by Crown Prince Salman.
+    stakeholders:
+    - person: salman-bin-hamad-al-khalifa
+      role: host
+      note: Hosts annual Manama Dialogue
+    - org: iiss
+      role: organizer
   manas-ai:
     name: Manas AI
     type: company
@@ -22189,6 +22996,20 @@ organizations:
       from: 1997
       to: 2005
       note: Principal consultant
+  mclaren:
+    name: McLaren Group
+    type: company
+    founded: 1963
+    headquarters: Woking, UK
+    status: active
+    sector: automotive, motorsport
+    note: 'F1 team + supercar manufacturer. 100% Mumtalakat dal 2024. McLaren Racing: Mumtalakat majority + CYVN Holdings
+      (Abu Dhabi). Valuation $5B.'
+    stakeholders:
+    - org: mumtalakat
+      role: owner
+      share: 100%
+      from: 2024
   media-most:
     name: Media-Most
     type: media
@@ -22374,6 +23195,8 @@ organizations:
     - person: marie-josee-kravis
       role: chairman
       note: Chair Sloan Kettering Institute, Vice Chair Board of Trustees
+    - person: julia-koch
+      role: board
   mercedes-benz:
     name: Mercedes-Benz Group AG
     type: automaker
@@ -22585,7 +23408,7 @@ organizations:
       role: parent
       note: Taken private 2023
   metropolitan-museum:
-    name: Metropolitan Museum of Art
+    name: The Metropolitan Museum of Art
     type: foundation
     founded: 1870
     headquarters: New York, USA
@@ -22594,6 +23417,10 @@ organizations:
     - person: henry-kravis
       role: board
       note: Trustee, major donor (Kravis Wing)
+    - person: julia-koch
+      role: board
+      from: 2023
+      note: Trustee; Benefactor since 1997
   metso:
     name: Metso
     type: company
@@ -22708,6 +23535,16 @@ organizations:
       from: 1942
       to: 1945
       note: Collaborazione WWII, MI6 mentore di OSS
+  michael-susan-dell-foundation:
+    name: Michael & Susan Dell Foundation
+    type: foundation
+    founded: 1999
+    headquarters: Austin, USA
+    status: active
+    stakeholders:
+    - person: michael-dell
+      role: founder
+      from: 1999
   michelin:
     name: Compagnie Generale des Etablissements Michelin
     type: company
@@ -22900,6 +23737,9 @@ organizations:
     name: MIT Media Laboratory
     type: university
     stakeholders:
+    - person: luis-videgaray
+      role: professor
+      from: 2019
     - person: brian-forde
       role: board
   mitratel:
@@ -23198,6 +24038,13 @@ organizations:
       share: 2.0%
     - org: vanguard
       share: 1.5%
+  mousse-partners:
+    name: Mousse Partners
+    type: privateequity
+    founded: 1991
+    headquarters: Hamilton, Bermuda
+    status: active
+    sector: family office
   mowi:
     name: Mowi ASA
     type: company
@@ -23294,6 +24141,26 @@ organizations:
     - person: mukesh-ambani
       role: founder
       note: IPL franchise owner
+  mumtalakat:
+    name: Bahrain Mumtalakat Holding Company
+    type: swf
+    founded: 2006
+    headquarters: Manama, Bahrain
+    status: active
+    aum: $18 billion
+    note: 'SWF del Bahrain, 100% governo. 60+ portfolio companies in 13 paesi. 2024 net profit BD 363M (record). Key holdings:
+      McLaren (100%), Alba (69%), Gulf Air (100%), Beyon (37%).'
+    stakeholders:
+    - person: salman-bin-khalifa-al-khalifa
+      role: chairman
+      note: Chairman Board (anche Min. Finanze)
+    - person: abdulla-bin-khalifa-al-khalifa
+      role: executive
+      from: 2023
+      note: CEO dal maggio 2023. Ex CEO Osool Asset Management.
+    - org: governo-bahrain
+      role: owner
+      share: 100%
   mundys:
     name: Mundys SpA
     type: company
@@ -23877,6 +24744,16 @@ organizations:
       from: 1965
       to: 1983
       note: Editorial Committee
+  new-york-giants:
+    name: New York Giants
+    type: sportsclub
+    headquarters: East Rutherford, USA
+    status: active
+    stakeholders:
+    - person: julia-koch
+      role: partner
+      from: 2025
+      note: 10% stake, ~$1B valuation
   new-york-post:
     name: New York Post
     type: media
@@ -23911,6 +24788,10 @@ organizations:
     - person: ag-sulzberger
       role: publisher
       from: 2018
+    - person: carlos-slim
+      role: shareholder
+      from: 2008
+      note: 17% stake
   newcastle-united:
     name: Newcastle United FC
     type: sportsclub
@@ -25438,6 +26319,18 @@ organizations:
       from: 1995
       to: 2000
       note: 49% stake, key Yeltsin 1996 campaign propaganda
+  osmington:
+    name: Osmington Inc.
+    type: company
+    founded: 1995
+    headquarters: Toronto, Canada
+    status: active
+    sector: real-estate
+    stakeholders:
+    - person: david-thomson
+      role: founder
+      from: 1995
+      note: Personal investment vehicle
   oss:
     name: Office of Strategic Services (OSS)
     type: agency
@@ -25587,6 +26480,17 @@ organizations:
       from: 2018
       to: 2021
       note: First Independent Chair
+  oxford-university:
+    name: University of Oxford
+    type: university
+    founded: 1096
+    headquarters: Oxford, UK
+    status: active
+    stakeholders:
+    - person: nemir-kirdar
+      role: board
+      from: 2009
+      note: Honorary Fellow St Antonys, Chair Middle East Centre Advisory Board 2015, Kirdar Building named 2017
   p2:
     name: Propaganda Due (P2)
     type: forum
@@ -25764,6 +26668,18 @@ organizations:
     stakeholders:
     - person: safak-pavey
       role: member
+  parmalat:
+    name: Parmalat
+    type: company
+    founded: 1961
+    headquarters: Parma, Italy
+    status: active
+    sector: dairy
+    stakeholders:
+    - org: lactalis
+      share: 100%
+      from: 2011
+      note: Acquired for EUR 2.5 billion
   partners-group:
     name: Partners Group Holding AG
     type: privateequity
@@ -25912,6 +26828,26 @@ organizations:
       role: owner
       share: 100%
       from: 2020
+  penoles:
+    name: Industrias Peñoles
+    type: company
+    founded: 1887
+    headquarters: Mexico
+    sector: mining
+    stakeholders:
+    - person: alberto-bailleres
+      role: chairman
+      from: 1962
+      to: 2022
+    - person: alejandro-bailleres
+      role: chairman
+      from: 2021
+    - person: rafael-rebollar
+      role: executive
+      from: 2021
+      note: CEO
+    - org: grupo-bal
+      role: parent
   pepsico:
     name: PepsiCo
     type: company
@@ -26413,6 +27349,18 @@ organizations:
       from: 1993
       to: 2011
       note: Editor-in-Chief
+  pontegadea:
+    name: Pontegadea Inversiones
+    type: company
+    founded: 2001
+    headquarters: A Coruña, Spain
+    status: active
+    sector: real-estate
+    stakeholders:
+    - person: amancio-ortega
+      role: founder
+      from: 2001
+      note: Fondatore e proprietario
   porsche-ag:
     name: Porsche AG
     type: company
@@ -26617,11 +27565,19 @@ organizations:
     headquarters: Cincinnati, USA
     status: active
     stakeholders:
+    - person: steve-ballmer
+      role: executive
+      from: 1977
+      to: 1979
+      note: Assistant Product Manager
     - person: paschal-donohoe
       role: executive
       from: 1997
       to: 2003
       note: Sales and Marketing Director (UK)
+    - person: ernesto-zedillo
+      role: board
+      from: 2001
   prosus:
     name: Prosus N.V.
     type: company
@@ -28926,6 +29882,15 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
+  school-of-american-ballet:
+    name: School of American Ballet
+    type: foundation
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: julia-koch
+      role: board
+      note: Former Board; chaired Nutcracker Benefit, Winter Ball
   schroders:
     name: J. Henry Schroder & Co. / Schroders
     type: bank
@@ -29170,6 +30135,18 @@ organizations:
       from: 1972
       to: 2004
       note: Crown Member
+  sergey-brin-family-foundation:
+    name: Sergey Brin Family Foundation
+    type: foundation
+    founded: 2014
+    headquarters: California, USA
+    status: active
+    sector: philanthropy
+    stakeholders:
+    - person: sergey-brin
+      role: founder
+      from: 2014
+      note: Asset >$1.4B in Google stock
   serono:
     name: Serono S.A.
     type: pharma
@@ -29555,6 +30532,18 @@ organizations:
       role: majority shareholder
       share: 52
       from: 1993
+  singularity-university:
+    name: Singularity University
+    type: university
+    founded: 2008
+    headquarters: Santa Clara, California, USA
+    status: active
+    sector: education, technology
+    stakeholders:
+    - person: larry-page
+      role: founder
+      from: 2008
+      note: Finanziatore principale
   sinopec:
     name: China Petroleum & Chemical Corporation
     type: company
@@ -30081,6 +31070,19 @@ organizations:
       share: 4.0%
     - org: state-street
       share: 2.5%
+  southern-copper:
+    name: Southern Copper Corporation
+    type: company
+    founded: 1952
+    headquarters: Phoenix
+    sector: mining
+    stakeholders:
+    - person: german-larrea
+      role: chairman
+      from: 1999
+    - org: grupo-mexico
+      role: majority
+      share: 75
   sovcomflot:
     name: Sovcomflot
     type: company
@@ -30240,6 +31242,11 @@ organizations:
     - person: rishi-sunak
       role: member
       note: MBA 2006 (Fulbright Scholar)
+    - person: steve-ballmer
+      role: alumnus
+      from: 1979
+      to: 1980
+      note: MBA incomplete
     - person: mukesh-ambani
       role: advisor
       note: Global Advisory Council
@@ -31084,6 +32091,14 @@ organizations:
     - person: john-doerr
       role: founder
       note: Co-founder, Executive Council
+  technology-ceo-council:
+    name: Technology CEO Council
+    type: forum
+    headquarters: Washington, USA
+    status: active
+    stakeholders:
+    - person: michael-dell
+      role: member
   tele2:
     name: Tele2
     type: company
@@ -31295,6 +32310,16 @@ organizations:
       share: 1.4%
     - org: vanguard
       share: 1.1%
+  televisa:
+    name: Grupo Televisa
+    type: media
+    founded: 1973
+    headquarters: Mexico
+    sector: media
+    stakeholders:
+    - person: emilio-azcarraga-jean
+      role: chairman
+      from: 1997
   televisaunivision:
     name: TelevisaUnivision
     type: media
@@ -31336,6 +32361,18 @@ organizations:
     - org: telkom-indonesia
       role: parent
       share: 0.699
+  telmex:
+    name: Telmex
+    type: company
+    founded: 1947
+    headquarters: Mexico
+    sector: telecom
+    stakeholders:
+    - person: carlos-slim
+      role: chairman
+      from: 1990
+    - org: grupo-carso
+      role: parent
   telus:
     name: TELUS Communications
     type: company
@@ -31554,6 +32591,14 @@ organizations:
       role: executive
       from: 2008
       note: Owns 13%
+    - person: sergey-brin
+      role: advisor
+      from: 2006
+      note: Early investor con Larry Page
+    - person: larry-page
+      role: advisor
+      from: 2006
+      note: Early investor
     - person: larry-ellison
       role: board
       from: 2018
@@ -31618,6 +32663,34 @@ organizations:
       note: Gestì bailout 2008
     - org: banca-mondiale
       role: partner
+  tethys:
+    name: Téthys SAS
+    type: company
+    founded: 2003
+    headquarters: Paris, France
+    status: active
+    sector: holding
+    stakeholders:
+    - person: francoise-bettencourt-meyers
+      role: chairman
+      from: 2003
+      note: Chair of family holding
+    - person: jean-pierre-meyers
+      role: executive
+      from: 2003
+      note: CEO
+  tethys-invest:
+    name: Téthys Invest
+    type: privateequity
+    founded: 2016
+    headquarters: Paris, France
+    status: active
+    sector: private equity
+    stakeholders:
+    - org: tethys
+      share: 100%
+      from: 2016
+      note: Subsidiary
   tf1:
     name: Groupe TF1
     type: media
@@ -31749,6 +32822,8 @@ organizations:
       role: chairman
       from: 2018
       note: Chair; membro dal 2007
+    - person: ernesto-zedillo
+      role: member
   the-guardian:
     name: The Guardian
     type: media
@@ -31824,6 +32899,27 @@ organizations:
     stakeholders:
     - person: mary-burke
       role: executive
+    - person: roy-thomson
+      role: founder
+      from: 1934
+      to: 1976
+      note: Founded Thomson media empire
+    - person: kenneth-thomson
+      role: chairman
+      from: 1976
+      to: 2002
+      note: Chairman of Thomson Corporation
+    - person: david-thomson
+      role: chairman
+      from: 2008
+      note: Chairman since Thomson-Reuters merger
+    - person: peter-thomson
+      role: board
+      from: 2008
+    - org: woodbridge
+      role: controlling
+      share: 68
+      note: Primary investment vehicle
   tiktok:
     name: TikTok
     type: company
@@ -32334,6 +33430,13 @@ organizations:
     - person: carl-bildt
       role: chairman
       note: Deputy European Chair
+    - person: lorenzo-zambrano
+      role: steering
+      from: 2000
+      to: 2011
+    - person: jaime-serra-puche
+      role: steering
+      from: 2011
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -32459,6 +33562,15 @@ organizations:
       share: 3.2%
     - org: vanguard
       share: 2.2%
+  tsinghua-university:
+    name: Tsinghua University
+    type: university
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - person: michael-dell
+      role: advisor
+      note: Advisory Board, School of Economics and Management
   tsmc:
     name: TSMC
     type: company
@@ -32610,6 +33722,18 @@ organizations:
       role: chairman
       from: 2001
       to: 2004
+  tv-azteca:
+    name: TV Azteca
+    type: media
+    founded: 1993
+    headquarters: Mexico
+    sector: media
+    stakeholders:
+    - person: ricardo-salinas-pliego
+      role: founder
+      from: 1993
+    - org: grupo-salinas
+      role: parent
   tv-globo:
     name: TV Globo
     type: media
@@ -32849,6 +33973,9 @@ organizations:
     stakeholders:
     - person: narayana-murthy
       role: board
+    - person: michael-dell
+      role: advisor
+      note: First Global Advocate for Entrepreneurship
   un-global-compact:
     name: UN Global Compact
     type: agency
@@ -33196,6 +34323,17 @@ organizations:
       role: hosted
       from: 2000
       note: ECI Secretariat hosted at UPEACE
+  university-of-arkansas:
+    name: University of Arkansas
+    type: university
+    headquarters: Fayetteville, USA
+    status: active
+    stakeholders:
+    - person: rob-walton
+      role: member
+      from: 1962
+      to: 1966
+      note: BS Business Administration
   university-of-chicago:
     name: University of Chicago
     type: thinktank
@@ -33220,6 +34358,26 @@ organizations:
     - person: richard-dearlove
       role: chairman
       note: Chair Board of Trustees
+  university-of-maryland:
+    name: University of Maryland
+    type: university
+    founded: 1856
+    headquarters: College Park, Maryland, USA
+    status: active
+    stakeholders:
+    - person: sergey-brin
+      role: member
+      note: BS Computer Science & Mathematics 1993
+  university-of-michigan:
+    name: University of Michigan
+    type: university
+    founded: 1817
+    headquarters: Ann Arbor, Michigan, USA
+    status: active
+    stakeholders:
+    - person: larry-page
+      role: member
+      note: BS Computer Engineering 1995
   unsgab:
     name: UN Secretary-General Advisory Board on Water and Sanitation
     type: agency
@@ -33325,6 +34483,24 @@ organizations:
       from: 2014
       to: 2018
       note: Commander
+  us-fifth-fleet:
+    name: United States Fifth Fleet / NAVCENT
+    type: agency
+    founded: 1943
+    headquarters: NSA Bahrain, Manama
+    status: active
+    note: Reactivated 1995 after 48-year hiatus. Commander dual-hatted as COMUSNAVCENT. Combined Maritime Forces (46 nations)
+      embedded since 2002.
+  usafacts:
+    name: USAFacts
+    type: foundation
+    founded: 2017
+    headquarters: Seattle, USA
+    status: active
+    stakeholders:
+    - person: steve-ballmer
+      role: founder
+      from: 2017
   usb:
     name: Save Bucharest Union (USB)
     type: party
@@ -33953,6 +35129,7 @@ organizations:
       role: chairman
       from: 1992
       to: 2015
+      note: Board Chairman
     - org: blackrock
       role: stake
       share: 0.036
@@ -33981,6 +35158,16 @@ organizations:
     - org: walmart
       role: stake
       share: 0.46
+  walton-family-foundation:
+    name: Walton Family Foundation
+    type: foundation
+    founded: 1987
+    headquarters: Bentonville, USA
+    status: active
+    stakeholders:
+    - person: rob-walton
+      role: board
+      note: Former Chair, Environment Committee
   war-refugee-board:
     name: War Refugee Board
     type: agency
@@ -34343,6 +35530,9 @@ organizations:
       note: Attended Davos 2023 with President Yoon delegation
     - person: lee-jae-yong
       role: ygl
+    - person: salman-bin-hamad-al-khalifa
+      role: speaker
+      note: Regular speaker at Davos, Future Investment Initiative, Clinton Global Initiative
     - person: albert-bourla
       role: member
       note: Agenda Contributor
@@ -35372,6 +36562,35 @@ organizations:
     - person: michael-miebach
       role: member
       note: International Business Council
+    - person: hamad-almahmeed
+      role: ygl
+      from: 2022
+    - person: wafa-al-obaidat
+      role: ygl
+      from: 2023
+    - person: khalid-bin-ahmed-al-khalifa
+      role: speaker
+    - person: michael-dell
+      role: board
+      note: Honorary Member, Foundation Board; Executive Committee, International Business Council
+    - person: ernesto-zedillo
+      role: board
+      from: 2002
+      to: 2014
+    - person: agustin-carstens
+      role: member
+    - person: altagracia-gomez-sierra
+      role: ygl
+      from: 2025
+    - person: felipe-vallejo-dabdoub
+      role: ygl
+      from: 2025
+    - person: nathan-shabot
+      role: ygl
+      from: 2024
+    - person: marina-del-pilar-avila
+      role: ygl
+      from: 2024
     - org: bilderberg
       role: partner
     - org: fmi
@@ -35598,6 +36817,22 @@ organizations:
       role: board
       from: 2024
       note: Board member
+  woodbridge:
+    name: The Woodbridge Company
+    type: company
+    founded: 1978
+    headquarters: Toronto, Canada
+    status: active
+    sector: holding
+    stakeholders:
+    - person: david-thomson
+      role: chairman
+      from: 2006
+      note: Co-chairman with Peter
+    - person: peter-thomson
+      role: chairman
+      from: 2006
+      note: Co-chairman with David
   world-athletics:
     name: World Athletics
     type: agency
@@ -35935,6 +37170,16 @@ organizations:
       role: partner
       from: 2013
       note: Managing Director 2016-24, Partner Emeritus
+  yale:
+    name: Yale University
+    type: university
+    founded: 1701
+    headquarters: New Haven, USA
+    status: active
+    stakeholders:
+    - person: ernesto-zedillo
+      role: professor
+      from: 2002
   yale-university:
     name: Yale University
     type: university

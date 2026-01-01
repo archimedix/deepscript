@@ -53,8 +53,9 @@
 | **2017** | Sundar Pichai entra nel board Alphabet |
 | **2018** | John Hennessy diventa Chairman |
 | **2019** | Page e Brin lasciano ruoli esecutivi, Pichai CEO Alphabet |
+| **2022** | Sergey Brin ritorna operativo per rispondere a ChatGPT |
 | **2023** | Lancio Bard (poi Gemini) AI |
-| **2024** | DOJ ruling: Google monopolio illegale in search |
+| **2024** | DOJ ruling: Google monopolio illegale in search; Brin: "uscito dal ritiro per l'AI" |
 
 ---
 
@@ -261,4 +262,4 @@ Google possiede probabilmente il piu' grande dataset sulla popolazione mondiale:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

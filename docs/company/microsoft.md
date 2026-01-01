@@ -41,7 +41,7 @@
 | Anno | Evento |
 |------|--------|
 | **1975** | Fondazione da Gates e Allen |
-| **1980** | Deal IBM per MS-DOS |
+| **1980** | Deal IBM per MS-DOS; Ballmer entra come 30° dipendente |
 | **1985** | Lancio Windows 1.0 |
 | **1986** | IPO |
 | **1995** | Windows 95, Internet Explorer |
@@ -105,7 +105,7 @@
 | Nome | Quota | Note |
 |------|-------|------|
 | Bill Gates | <1% | Venduto gran parte nel tempo |
-| Steve Ballmer | ~4% | Maggior azionista individuale |
+| Steve Ballmer | ~4% | Maggior azionista individuale, 30° dipendente (1980), originariamente 8% |
 
 ---
 
@@ -139,7 +139,7 @@
 |---------|-------|
 | [Bill Gates](../persons/bill-gates.md) | Founder, ex-CEO |
 | [Satya Nadella](../persons/satya-nadella.md) | CEO & Chairman |
-| [Steve Ballmer](../persons/steve-ballmer.md) | Ex-CEO 2000-2014 |
+| [Steve Ballmer](../persons/steve-ballmer.md) | Ex-CEO 2000-2014 (revenue $25B→$70B) |
 | [Reid Hoffman](../persons/reid-hoffman.md) | Board member |
 
 ### Organizzazioni Correlate

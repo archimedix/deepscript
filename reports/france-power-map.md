@@ -68,13 +68,15 @@ GRANDES ÉCOLES
 | Famiglia | Patrimonio | Settori | Controllo |
 |----------|------------|---------|-----------|
 | [Arnault](../docs/family/arnault.md) | $230B | Lusso, media | LVMH, Les Echos, Le Parisien |
+| [Wertheimer](../docs/family/wertheimer.md) | $90B | Lusso | Chanel (100%), Mousse Partners |
+| [Bettencourt](../docs/family/bettencourt.md) | $88B | Cosmesi | L'Oréal (34.7%), Tethys |
 | [Dassault](../docs/family/dassault.md) | $42B | Difesa, software, media | Rafale, Dassault Systèmes, Le Figaro |
+| [Pinault](../docs/family/pinault.md) | $31B | Lusso, arte | Kering, Artemis, Christie's |
+| [Besnier](../docs/family/besnier.md) | $24B | Dairy | Lactalis, Parmalat |
 | [Bolloré](../docs/family/bollore.md) | €9.9B | Media | Vivendi, Canal+, CNews, Havas, Lagardère |
-| [Pinault](../docs/family/pinault.md) | $25B | Lusso, retail | Kering (Gucci), Artemis |
-| [Bouygues](../docs/family/bouygues.md) | $4B | Costruzioni, media, telecom | TF1, Bouygues Telecom |
 | [Peugeot](../docs/family/peugeot.md) | $6B | Automotive | Stellantis (7.2%) |
+| [Bouygues](../docs/family/bouygues.md) | $4B | Costruzioni, media, telecom | TF1, Bouygues Telecom |
 | [Rothschild](../docs/family/rothschild.md) | €3.7B | Banca | Rothschild & Co |
-| [Bettencourt](../docs/family/bettencourt.md) | ~$80B | Cosmesi | L'Oréal (34.7%) |
 
 ### Struttura del Potere Dinastico
 
@@ -99,6 +101,22 @@ GRANDES ÉCOLES
                              │
                       INFLUENZA STATO
 ```
+
+### I Miliardari Invisibili
+
+Alcune delle famiglie piu' ricche di Francia operano con estrema riservatezza, evitando esposizione mediatica.
+
+| Famiglia | Soprannome | Caratteristiche |
+|----------|------------|-----------------|
+| **[Wertheimer](../docs/family/wertheimer.md)** | "Fashion's quietest billionaires" | Mai fotografati, no interviste. [Alain](../docs/persons/alain-wertheimer.md) e [Gerard](../docs/persons/gerard-wertheimer.md) controllano Chanel (100% privata) da NY e Ginevra. Family office [Mousse Partners](../docs/private-equity/mousse-partners.md) gestisce $90-100B. Passione: cavalli e vini (Chateau Latour) |
+| **[Besnier](../docs/family/besnier.md)** | "The invisible billionaire" | [Emmanuel Besnier](../docs/persons/emmanuel-besnier.md) guida [Lactalis](../docs/company/lactalis.md), #1 mondiale dairy (EUR 30B revenue). Holding BSA in Belgio. Zero presenza pubblica |
+| **[Bettencourt](../docs/family/bettencourt.md)** | - | [Francoise Bettencourt Meyers](../docs/persons/francoise-bettencourt-meyers.md), donna piu' ricca del mondo. Holding [Tethys](../docs/company/tethys.md). Nel 2025 lascia board L'Oreal al figlio Jean-Victor |
+
+**Pattern comune:**
+- Aziende private (no quotazione) o controllo via holding
+- Family office sofisticati (Mousse Partners, Tethys Invest)
+- Passaggio generazionale pianificato
+- Diversificazione: vini, cavalli, arte, PE
 
 ---
 
@@ -1196,6 +1214,24 @@ La famiglia [Peugeot](../docs/family/peugeot.md) da controllori (>25% pre-2012) 
 | **Kingdom Holding** | Company | Prince Alwaleed, Accor ~6.8% |
 | **L'Oréal** | Company | [docs/company/loreal.md](../docs/company/loreal.md) |
 | **Famiglia Bettencourt** | Family | [docs/family/bettencourt.md](../docs/family/bettencourt.md) |
+| **Francoise Bettencourt Meyers** | Person | [docs/persons/francoise-bettencourt-meyers.md](../docs/persons/francoise-bettencourt-meyers.md) |
+| **Tethys** | Company | [docs/company/tethys.md](../docs/company/tethys.md) |
+| **Tethys Invest** | PrivateEquity | [docs/private-equity/tethys-invest.md](../docs/private-equity/tethys-invest.md) |
+| **Fondation Bettencourt Schueller** | Foundation | [docs/foundation/fondation-bettencourt-schueller.md](../docs/foundation/fondation-bettencourt-schueller.md) |
+| **Famiglia Wertheimer** | Family | [docs/family/wertheimer.md](../docs/family/wertheimer.md) |
+| **Alain Wertheimer** | Person | [docs/persons/alain-wertheimer.md](../docs/persons/alain-wertheimer.md) |
+| **Gerard Wertheimer** | Person | [docs/persons/gerard-wertheimer.md](../docs/persons/gerard-wertheimer.md) |
+| **Chanel** | Company | [docs/company/chanel.md](../docs/company/chanel.md) |
+| **Mousse Partners** | PrivateEquity | [docs/private-equity/mousse-partners.md](../docs/private-equity/mousse-partners.md) |
+| **Famiglia Besnier** | Family | [docs/family/besnier.md](../docs/family/besnier.md) |
+| **Emmanuel Besnier** | Person | [docs/persons/emmanuel-besnier.md](../docs/persons/emmanuel-besnier.md) |
+| **Lactalis** | Company | [docs/company/lactalis.md](../docs/company/lactalis.md) |
+| **Parmalat** | Company | [docs/company/parmalat.md](../docs/company/parmalat.md) |
+| **Famiglia Pinault** | Family | [docs/family/pinault.md](../docs/family/pinault.md) |
+| **Francois Pinault** | Person | [docs/persons/francois-pinault.md](../docs/persons/francois-pinault.md) |
+| **Francois-Henri Pinault** | Person | [docs/persons/francois-henri-pinault.md](../docs/persons/francois-henri-pinault.md) |
+| **Artemis** | Company | [docs/company/artemis.md](../docs/company/artemis.md) |
+| **Christie's** | Company | [docs/company/christies.md](../docs/company/christies.md) |
 | **Eugène Schueller** | Person | [docs/persons/eugene-schueller.md](../docs/persons/eugene-schueller.md) |
 | **Robert Meyers** | Person | [docs/persons/robert-meyers.md](../docs/persons/robert-meyers.md) |
 | **Vivendi** | Media | [docs/media/vivendi.md](../docs/media/vivendi.md) |
@@ -1235,11 +1271,9 @@ La famiglia [Peugeot](../docs/family/peugeot.md) da controllori (>25% pre-2012) 
 |--------|------|--------|
 | Lazard Paris | Bank | Alternativa a Rothschild |
 | Société Générale | Bank | Sistemica, terza banca francese |
-| Pinault (famiglia) | Family | Rivale Arnault, Kering |
 | Alain Minc | Person | "Consigliere ombra" di presidenti |
 | Jean Lemierre | Person | EBRD → BNP Chairman |
 | Michel Pébereau | Person | Architetto BNP Paribas |
-| François Pinault | Person | Fondatore Kering, patron Weinberg |
 | Xavier Fontanet | Person | CEO Essilor, sponsor Macron |
 | Édouard Philippe | Person | PM Macron 2017-20, Le Siècle |
 
@@ -1665,6 +1699,8 @@ Pattern: Controllo → Sopravvivenza → Influenza residua + diversificazione
 | **2025** | Obermann advisor Governo tedesco | Consulente difesa |
 | **2024** | Dimissioni Tavares da Stellantis | Conflitto con Elkann |
 | **2025** | De Meo lascia Renault per Kering | CEO automotive → lusso |
+| **2025** | Francoise Bettencourt Meyers lascia board L'Oreal | Successione a figlio Jean-Victor |
+| **2025** | Lactalis acquisisce Fonterra Consumer | $2.2B, espansione ANZ |
 | **2017** | Morte Liliane Bettencourt | Françoise eredita L'Oréal |
 | **2023** | Françoise Bettencourt $100B | Prima donna a superare $100B |
 | **2024** | Split Vivendi in 4 entità | Bolloré ristruttura impero |
@@ -1758,4 +1794,4 @@ Pattern: Controllo → Sopravvivenza → Influenza residua + diversificazione
 
 ---
 
-*Ultimo aggiornamento: 29 Dicembre 2025*
+*Ultimo aggiornamento: 1 Gennaio 2026*

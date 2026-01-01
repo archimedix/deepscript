@@ -52,6 +52,30 @@ families:
       generation: 4
     - person: lapo-elkann
       generation: 4
+  al-khalifa:
+    origin: Bahrain
+    founder: Ahmed ibn Muhammad Al Khalifa
+    sector: royalty, government, finance
+    generations: 7
+    status: active
+    note: Ruling family of Bahrain since 1783. Sunni Islam, Anizah tribe. Controls government, Mumtalakat SWF, key economic
+      sectors.
+    members:
+    - person: nasser-bin-hamad-al-khalifa
+      role: member
+    - person: salman-bin-hamad-al-khalifa
+      role: heir
+    - person: hamad-bin-isa-al-khalifa
+      role: head
+    - person: salman-bin-khalifa-al-khalifa
+      role: member
+    - person: abdulla-bin-khalifa-al-khalifa
+      role: member
+    - person: khalid-bin-hamad-al-khalifa
+      generation: 7
+      role: member
+    - person: khalid-bin-ahmed-al-khalifa
+      role: member
   al-nahyan:
     origin: Abu Dhabi, UAE
     founder: sheikh-zayed-bin-sultan
@@ -134,7 +158,7 @@ families:
       role: patriarch
   azcarraga:
     origin: Mexico
-    founder: emilio-azcarraga-vidaurreta
+    founder: Raul Azcarraga Vidaurreta
     sector: media
     generations: 4
     status: active
@@ -150,6 +174,17 @@ families:
     - person: emilio-azcarraga-vidaurreta
       generation: 1
       role: founder
+  bailleres:
+    origin: Guanajuato
+    founder: Raul Bailleres
+    sector: mining/finance
+    generations: 3
+    status: active
+    members:
+    - person: alberto-bailleres
+      generation: 2
+    - person: alejandro-bailleres
+      generation: 3
   berlusconi:
     origin: Italia
     founder: Silvio Berlusconi
@@ -175,6 +210,17 @@ families:
     - person: ernesto-bertarelli
       generation: 3
       role: heir
+  besnier:
+    origin: France
+    founder: andre-besnier
+    sector: dairy
+    generations: 3
+    status: active
+    note: Lactalis owners. 100% BSA. Invisible billionaires
+    members:
+    - person: emmanuel-besnier
+      generation: 3
+      role: patriarch
   bettencourt:
     origin: France
     founder: eugene-schueller
@@ -709,6 +755,30 @@ families:
     - person: omer-koc
       generation: 3
       role: heir
+  koch:
+    origin: USA
+    founder: Fred Koch
+    sector: energy, chemicals
+    generations: 3
+    status: active
+    members:
+    - person: julia-koch
+      role: matriarch
+    - person: fred-koch
+      generation: 1
+      role: founder
+    - person: charles-koch
+      generation: 2
+      role: chairman
+    - person: david-koch
+      generation: 2
+      role: vice-president
+    - person: william-koch
+      generation: 2
+      role: estranged
+    - person: frederick-koch
+      generation: 2
+      role: patron-arts
   kuhne:
     origin: Germany
     founder: august-kuhne
@@ -729,6 +799,15 @@ families:
     - person: werner-kuhne
       generation: 2
       role: partner
+  larrea:
+    origin: Mexico
+    founder: Jorge Larrea Ortega
+    sector: mining
+    generations: 2
+    status: active
+    members:
+    - person: german-larrea
+      generation: 2
   lauder:
     origin: USA
     founder: Estée Lauder
@@ -1053,6 +1132,21 @@ families:
     - person: queen-juliana
       generation: 4
       role: monarch
+  ortega:
+    origin: ESP
+    founder: amancio-ortega
+    sector: retail
+    status: active
+    members:
+    - person: amancio-ortega
+      generation: 1
+      role: founder
+    - person: marta-ortega
+      generation: 2
+      role: heir
+    - person: sandra-ortega
+      generation: 2
+      role: heir
   papandreou:
     origin: Greece, Achaea
     founder: georgios-papandreou-sr
@@ -1101,6 +1195,19 @@ families:
     sector: electronics
     generations: 4
     status: disconnected
+  pinault:
+    origin: France
+    founder: francois-pinault
+    sector: luxury
+    generations: 3
+    status: active
+    note: Kering (Gucci, YSL, Balenciaga). Christies. Art collection 10000 opere
+    members:
+    - person: francois-pinault
+      generation: 1
+      role: patriarch
+    - person: francois-henri-pinault
+      generation: 2
   porsche-piech:
     origin: Germany/Austria
     founder: Ferdinand Porsche
@@ -1281,6 +1388,15 @@ families:
       generation: 2
     - person: mira-salim
       generation: 2
+  salinas-pliego:
+    origin: Mexico
+    founder: Benjamin Salinas
+    sector: retail/media
+    generations: 4
+    status: active
+    members:
+    - person: ricardo-salinas-pliego
+      generation: 4
   saxe-coburg-gotha:
     origin: Germany
     founder: leopold-i-belgium
@@ -1323,6 +1439,18 @@ families:
     - person: dan-gertler
       generation: 3
       role: grandson
+  servitje:
+    origin: Catalonia/Mexico
+    founder: Lorenzo Servitje
+    sector: food
+    generations: 3
+    status: active
+    members:
+    - person: lorenzo-servitje
+      generation: 1
+      role: founder
+    - person: daniel-servitje
+      generation: 2
   shanghai-clique:
     origin: China
     founder: jiang-zemin
@@ -1365,6 +1493,15 @@ families:
       generation: 1
       role: founder
     - person: thapana-sirivadhanabhakdi
+      generation: 2
+  slim:
+    origin: Mexico/Lebanon
+    founder: Julian Slim Haddad
+    sector: telecom/finance
+    generations: 3
+    status: active
+    members:
+    - person: carlos-slim
       generation: 2
   solvay:
     origin: Belgium
@@ -1450,6 +1587,28 @@ families:
       generation: 3
     - person: noel-tata
       generation: 4
+  thomson:
+    origin: CAN
+    founder: roy-thomson
+    sector: media
+    generations: 4
+    status: active
+    members:
+    - person: roy-thomson
+      generation: 1
+      role: founder
+    - person: kenneth-thomson
+      generation: 2
+      role: heir
+    - person: david-thomson
+      generation: 3
+      role: heir
+    - person: peter-thomson
+      generation: 3
+      role: member
+    - person: taylor-thomson
+      generation: 3
+      role: member
   toyoda:
     origin: Japan
     founder: Sakichi Toyoda
@@ -1546,6 +1705,19 @@ families:
     - person: siegmund-warburg
       generation: 4
       role: founder-sg-warburg
+  wertheimer:
+    origin: France
+    founder: pierre-wertheimer
+    sector: luxury
+    generations: 4
+    status: active
+    note: Chanel owners. Riservatissimi. Horse racing, vineyards
+    members:
+    - person: alain-wertheimer
+      generation: 3
+      role: patriarch
+    - person: gerard-wertheimer
+      generation: 3
   windsor:
     origin: UK
     founder: George V
@@ -1581,3 +1753,14 @@ families:
     - person: saravoot-yoovidhya
       generation: 2
       role: member
+  zambrano:
+    origin: Monterrey
+    founder: Lorenzo Zambrano Gutierrez
+    sector: cement
+    generations: 3
+    status: active
+    members:
+    - person: lorenzo-zambrano
+      generation: 2
+    - person: rogelio-zambrano
+      generation: 2

@@ -23,7 +23,7 @@ Il Canada e' un nodo cruciale del sistema di potere transatlantico, spesso sotto
 | **PIL** | ~$2.2T (2024) - 9a economia mondiale |
 | **PIL pro capite** | ~$55,000 |
 | **Billionaires** | 64 (2024) |
-| **Famiglia piu' ricca** | Thomson (~$70B) |
+| **Famiglia piu' ricca** | Thomson (~$98B) |
 | **Popolazione** | 41 milioni |
 | **Big Five Banks** | RBC, TD, BMO, Scotiabank, CIBC |
 | **AUM Brookfield** | $1 trilione |
@@ -182,16 +182,18 @@ POWER CORPORATION (Montreal)          |
 | Jean Chretien | Liberal | Consuocero (figlia France sposa Andre) |
 | Paul Martin | Liberal | Lavoro Power Corp, Canada Steamship Lines |
 
-### Famiglia Thomson: Media e Dati
+### [Famiglia Thomson](../docs/family/thomson.md): Media e Dati
 
 | Aspetto | Dettaglio |
 |---------|-----------|
-| **Patrimonio** | ~$70B (piu' ricca del Canada) |
-| **Fondatore** | Roy Thomson (1894-1976) |
-| **Veicolo** | Thomson Reuters, Woodbridge |
+| **Patrimonio** | ~$98B (piu' ricca del Canada) |
+| **Fondatore** | [Roy Thomson](../docs/persons/roy-thomson.md) (1894-1976) |
+| **Veicolo** | [Thomson Reuters](../docs/media/thomson-reuters.md), [Woodbridge](../docs/company/woodbridge.md) |
 | **Business** | Dati finanziari, news, informazione legale |
-| **Erede** | David Thomson (3rd Baron Thomson of Fleet) |
-| **Controllo** | 14% Thomson Reuters via Woodbridge |
+| **Erede** | [David Thomson](../docs/persons/david-thomson.md) (3rd Baron, $68.6B) |
+| **Controllo** | ~68% Thomson Reuters via Woodbridge |
+| **Altri asset** | Globe and Mail, BCE, Winnipeg Jets (40%), Montreal Canadiens |
+| **Scheda** | [Completa](../docs/family/thomson.md) |
 
 ### Famiglia Weston: Retail e Food
 
@@ -605,6 +607,7 @@ Schwartz                   |
 | [anthony-griffin](../docs/persons/anthony-griffin.md) | Triarch Corp founder, S.G. Warburg Canada | **Bilderberg Advisory Committee 32 anni** | **[Completa](../docs/persons/anthony-griffin.md)** |
 | [john-manley](../docs/persons/john-manley.md) | CIBC Chair, ex-Deputy PM | Trilateral Past Chair, WEF, CFR | **[Completa](../docs/persons/john-manley.md)** |
 | [paul-desmarais-jr](../docs/persons/paul-desmarais-jr.md) | Chairman Power Corp | Bilderberg, CFR GBA, Brookings | **[Completa](../docs/persons/paul-desmarais-jr.md)** |
+| [david-thomson](../docs/persons/david-thomson.md) | Chairman Thomson Reuters, Woodbridge | - | **[Completa](../docs/persons/david-thomson.md)** |
 | [gerry-schwartz](../docs/persons/gerry-schwartz.md) | Onex Founder/Chairman | - | Stub |
 | [mark-carney](../docs/persons/mark-carney.md) | PM, ex-BoC/BoE | Bilderberg, GFANZ | Da completare |
 | [chrystia-freeland](../docs/persons/chrystia-freeland.md) | Ex-Deputy PM | WEF Board, Rhodes | Da completare |
@@ -640,12 +643,17 @@ Schwartz                   |
 | [great-west-lifeco](../docs/company/great-west-lifeco.md) | Company | Da completare |
 | [igm-financial](../docs/asset-manager/igm-financial.md) | AssetManager | Da completare |
 | [pargesa](../docs/company/pargesa.md) | Company | Da completare |
+| [woodbridge](../docs/company/woodbridge.md) | Company | Stub (Thomson holding) |
+| [globe-and-mail](../docs/media/globe-and-mail.md) | Media | Stub |
+| [bce](../docs/company/bce.md) | Company | Stub (Bell Canada parent) |
+| [osmington](../docs/company/osmington.md) | Company | Stub (David Thomson real estate) |
 
 ### Famiglie Canadesi
 
 | ID | Status |
 |----|--------|
 | [desmarais](../docs/family/desmarais.md) | **[Completa](../docs/family/desmarais.md)** |
+| [thomson](../docs/family/thomson.md) | **[Completa](../docs/family/thomson.md)** |
 | [bronfman](../docs/family/bronfman.md) | Da completare |
 
 ---
@@ -658,7 +666,6 @@ Schwartz                   |
 |------|-----|------|
 | Person | bruce-flatt | CEO Brookfield, $1T AUM |
 | Person | jim-balsillie | CIGI founder, ex-BlackBerry |
-| Family | thomson | Famiglia piu' ricca, Reuters |
 | Family | weston | Loblaw, retail |
 | Family | irving | New Brunswick, oil/forestry |
 | Org | cigi | Think tank Waterloo |
@@ -668,7 +675,6 @@ Schwartz                   |
 | Tipo | ID | Note |
 |------|-----|------|
 | Family | richardson | Grano, finanza, Manitoba |
-| Person | david-thomson | 3rd Baron, Chairman Reuters |
 | Person | galen-weston-jr | Loblaw controllo |
 | Person | deborah-orida | CEO PSP, Bilderberg 2023 |
 | Bank | rbc | Maggior banca Canada |
@@ -686,7 +692,6 @@ Schwartz                   |
 | Person | victor-dodig | CEO CIBC |
 | ThinkTank | c-d-howe-institute | Economic policy |
 | ThinkTank | fraser-institute | Free market |
-| Media | globe-and-mail | Thomson |
 | Media | la-presse | Ex-Desmarais |
 
 ---
@@ -722,6 +727,6 @@ Schwartz                   |
 
 ---
 
-*Ultimo aggiornamento: 29 Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*
 
-*Schede completate in questa sessione: John Manley, Business Council of Canada, Onex Corporation, Paul Desmarais Jr.*
+*Schede completate: John Manley, Business Council of Canada, Onex Corporation, Paul Desmarais Jr., Thomson Family, David Thomson*

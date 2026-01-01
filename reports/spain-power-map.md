@@ -13,6 +13,7 @@ Il potere spagnolo post-Franco si distingue per:
 - **Real Instituto Elcano**: Nodo unico dove tutti i PM dal 1982 siedono con CEO IBEX 35
 - **Capitale sovrano Golfo**: Qatar in Iberdrola (9%), Saudi in Telefonica (9.9%) - geopolitica attraverso investimenti
 - **Florentino Perez**: Fusione costruzioni-calcio-politica, palco Bernabeu come luogo di potere
+- **Amancio Ortega**: Potere "silenzioso" - €110B patrimonio, zero presenza politica/forum, impero immobiliare globale via Pontegadea
 
 ---
 
@@ -24,7 +25,7 @@ Il potere spagnolo post-Franco si distingue per:
 |----------|---------|-------------|-----------|
 | [Borbon](../docs/family/borbon.md) | Monarchia | 5 | Corona di Spagna |
 | [Botin](../docs/family/botin.md) | Banca | 4 | Banco Santander |
-| Ortega | Retail/Immobiliare | 2 | Inditex, Pontegadea |
+| [Ortega](../docs/family/ortega.md) | Retail/Immobiliare | 2 | Inditex (59%), Pontegadea ($34B) |
 | Del Pino | Infrastrutture | 3 | Ferrovial |
 | March | Banca/Investimenti | 4 | Banca March |
 | Roig | Retail | 2 | Mercadona |
@@ -44,14 +45,16 @@ Il potere spagnolo post-Franco si distingue per:
      │               │               │
   Felipe VI      Ana Botin       Amancio O.
      │               │               │
-     │           ┌───┴───┐           │
-     │           │       │           │
-     │         BBVA    CaixaBank     │
-     │      (Torres)               │
-     │           │                   │
-     └───────────┴─────────┬─────────┘
-                           │
-                    BILDERBERG/WEF
+     │           ┌───┴───┐      ┌────┴────┐
+     │           │       │      │         │
+     │         BBVA    CaixaBank │    PONTEGADEA
+     │      (Torres)          Marta O.   $34B
+     │           │           Chairman    real estate
+     │           │               │
+     └───────────┴───────────────┘
+                 │
+          BILDERBERG/WEF
+         (Ortega assente)
 ```
 
 ---
@@ -93,7 +96,81 @@ Il potere spagnolo post-Franco si distingue per:
 
 ---
 
-## III. Casa Borbon: Monarchia e Scandali
+## III. La Dinastia Ortega: Dal Fast Fashion all'Impero Immobiliare
+
+### [Amancio Ortega](../docs/persons/amancio-ortega.md): Il Sarto Miliardario
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nascita** | 1936, León |
+| **Net Worth** | ~$110 miliardi (2025) |
+| **Inditex** | Fondatore, 59.29% azionista |
+| **Pontegadea** | Fondatore, family office |
+| **Ranking** | #2 Europa, #16 mondo |
+
+**Pattern unico**: A differenza degli altri oligarchi spagnoli, Ortega non ha connessioni politiche dirette né partecipa a forum transnazionali. Il suo potere è puramente economico.
+
+### La Rete Ortega
+
+```
+                    AMANCIO ORTEGA (1936)
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+        ▼                  ▼                  ▼
+    INDITEX            PONTEGADEA         FAMIGLIA
+   59% stake          $34B assets           ORTEGA
+        │                  │                  │
+   €38.6B revenue     Real estate:          │
+   7 brand            Amazon, Apple,    ┌───┴───┐
+   5,600 negozi       Meta tenants      │       │
+        │                  │            ▼       ▼
+        ▼                  │         MARTA    SANDRA
+   MARTA ORTEGA ←──────────┘        Chairman   5%
+   Chairman 2022-                    Inditex
+```
+
+### Successione Generazionale
+
+| Generazione | Nome | Ruolo | Note |
+|-------------|------|-------|------|
+| **1a** | [Amancio Ortega](../docs/persons/amancio-ortega.md) | Fondatore | Ritirato 2011, ancora 59% |
+| **2a** | [Marta Ortega](../docs/persons/marta-ortega.md) | Chairman Inditex | Dal 2022, figlia |
+| **2a** | [Sandra Ortega](../docs/persons/sandra-ortega.md) | 5% Inditex | Donna più ricca di Spagna |
+
+### Pontegadea: L'Impero Immobiliare Nascosto
+
+Il family office Ortega è il più grande proprietario immobiliare privato d'Europa:
+
+| Metrica | Valore |
+|---------|--------|
+| **Asset totali** | €34.3 miliardi (2024) |
+| **Portfolio** | 51% Europa, 46% Americhe, 3% Asia |
+| **Inquilini** | Amazon, Apple, Meta |
+| **Dividendi Inditex 2024** | €3.3 miliardi |
+
+**Acquisizioni recenti (2024-2025):**
+- Vancouver warehouse (Amazon) - $272M
+- Parigi, Rue Halévy - €200M
+- Milano/Roma logistics - €327M
+- Barcellona, Diagonal - $283M
+- PD Ports UK (49%)
+
+### Differenza con Altri Oligarchi
+
+| Aspetto | Ortega | Botin/Galan/Perez |
+|---------|--------|-------------------|
+| **Bilderberg** | Mai | Steering/Member |
+| **WEF** | Mai | IBC/Davos |
+| **Politica** | Nessuna connessione | Revolving door |
+| **Media** | Zero interviste | Presenza pubblica |
+| **Potere** | Economico puro | Economico + politico |
+
+Ortega rappresenta un modello di potere "silenzioso": massima concentrazione economica, minima visibilità politica.
+
+---
+
+## IV. Casa Borbon: Monarchia e Scandali
 
 ### Successione Recente
 
@@ -594,7 +671,10 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 | [emilio-botin](../docs/persons/emilio-botin.md) | 1934-2014 | Santander Chairman |
 | [luis-de-guindos](../docs/persons/luis-de-guindos.md) | 1960 | Vice-Pres. BCE |
 | [nadia-calvino](../docs/persons/nadia-calvino.md) | 1968 | Pres. BEI |
-| [pablo-isla](../docs/persons/pablo-isla.md) | 1964 | Ex-Inditex, Nestle |
+| [pablo-isla](../docs/persons/pablo-isla.md) | 1964 | Ex-Inditex, Nestlé Chairman |
+| [amancio-ortega](../docs/persons/amancio-ortega.md) | 1936 | Fondatore Inditex, 59%, #2 Europa |
+| [marta-ortega](../docs/persons/marta-ortega.md) | 1984 | Chairman Inditex |
+| [sandra-ortega](../docs/persons/sandra-ortega.md) | 1968 | 5% Inditex, donna più ricca Spagna |
 | [pablo-hernandez-de-cos](../docs/persons/pablo-hernandez-de-cos.md) | 1971 | BIS GM, ex-Gov Banco Espana |
 | [florentino-perez](../docs/persons/florentino-perez.md) | 1947 | ACS Chairman, Real Madrid Pres. |
 | [ignacio-galan](../docs/persons/ignacio-galan.md) | 1950 | Iberdrola Chairman, WEF/ERT |
@@ -610,6 +690,7 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 | [bbva](../docs/bank/bbva.md) | Bank | Bilbao |
 | [endesa](../docs/company/endesa.md) | Company | Madrid |
 | [inditex](../docs/company/inditex.md) | Company | Arteixo |
+| [pontegadea](../docs/company/pontegadea.md) | Company | A Coruña |
 | [telefonica](../docs/company/telefonica.md) | Company | Madrid |
 | [iberdrola](../docs/company/iberdrola.md) | Company | Bilbao |
 | [repsol](../docs/company/repsol.md) | Company | Madrid |
@@ -629,6 +710,7 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 |----|---------|--------|
 | [borbon](../docs/family/borbon.md) | Royalty | Attiva |
 | [botin](../docs/family/botin.md) | Banking | Attiva |
+| [ortega](../docs/family/ortega.md) | Retail/Real Estate | Attiva |
 
 ---
 
@@ -637,7 +719,7 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 - [ ] Quantificare i flussi finanziari Juan Carlos ↔ Golfo
 - [x] ~~Mappare rete completa Telefonica-PP~~ (documentato)
 - [x] ~~Documentare Iberdrola e board politici~~ (documentato)
-- [ ] Esplorare connessioni Amancio Ortega
+- [x] ~~Esplorare connessioni Amancio Ortega~~ (documentato: Inditex, Pontegadea, successione)
 - [x] ~~Real Instituto Elcano: chi siede nel board?~~ (documentato)
 - [x] ~~Florentino Perez: ACS, Real Madrid, influenza~~ (documentato)
 - [ ] Cesar Alierta: dettagli carriera Tabacalera-Telefonica
@@ -674,4 +756,4 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*
