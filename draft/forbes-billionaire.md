@@ -23,28 +23,28 @@ Forbes World's Billionaires 2025 - Top 100
   | 19  | Carlos Slim Helu & family      | $78.2B     | Messico   | Telecom               | ✓  | ✓      |                             |
   | 20  | Julia Koch & family            | $74.2B     | USA       | Koch Industries       | ✓  | ✓      |                             |
   | 21  | Françoise Bettencourt Meyers   | $72.8B     | Francia   | L'Oréal               | ✓  | ✓      | francoise-bettencourt-meyers|
-  | 22  | David Thomson & family         | $69.4B     | Canada    | Thomson Reuters       |    |        |                             |
+  | 22  | David Thomson & family         | $69.4B     | Canada    | Thomson Reuters       | ✓  | ✓      |                             |
   | 23  | Charles Koch & family          | $67.5B     | USA       | Koch Industries       | ✓  |        |                             |
-  | 24  | Changpeng Zhao                 | $64.3B     | Cina      | Binance               |    |        |                             |
-  | 25  | Gautam Adani                   | $59.6B     | India     | Adani Group           | ✓  |        | gautam-adani                |
-  | 26  | Zhong Shanshan                 | $55.3B     | Cina      | Nongfu Spring         |    |        |                             |
-  | 27  | Thomas Peterffy                | $52.9B     | USA       | Interactive Brokers   |    |        |                             |
-  | 28  | Stephen Schwarzman             | $50.4B     | USA       | Blackstone            | ✓  |        | stephen-schwarzman          |
-  | 29  | Jeff Yass                      | $49.6B     | USA       | Susquehanna           |    |        |                             |
+  | 24  | Changpeng Zhao                 | $64.3B     | Cina      | Binance               | ✓  | ✓      |                             |
+  | 25  | Gautam Adani                   | $59.6B     | India     | Adani Group           | ✓  | ✓      | gautam-adani                |
+  | 26  | Zhong Shanshan                 | $55.3B     | Cina      | Nongfu Spring         | ✓  | ✓      |                             |
+  | 27  | Thomas Peterffy                | $52.9B     | USA       | Interactive Brokers   | ✓  | ✓      |                             |
+  | 28  | Stephen Schwarzman             | $50.4B     | USA       | Blackstone            | ✓  | ✓      | stephen-schwarzman          |
+  | 29  | Jeff Yass                      | $49.6B     | USA       | Susquehanna           | ✓  | ✓      |                             |
   | 30  | Tadashi Yanai & family         | $47.5B     | Giappone  | Uniqlo/Fast Retailing |    |        |                             |
-  | 31  | Ma Huateng                     | $46.0B     | Cina      | Tencent               | ✓  |        | pony-ma                     |
+  | 31  | Ma Huateng                     | $46.0B     | Cina      | Tencent               | ✓  | ✓      | pony-ma                     |
   | 32  | Ken Griffin                    | $45.8B     | USA       | Citadel               |    |        |                             |
-  | 33  | Zhang Yiming                   | $45.6B     | Cina      | ByteDance/TikTok      | ✓  |        | zhang-yiming                |
+  | 33  | Zhang Yiming                   | $45.6B     | Cina      | ByteDance/TikTok      | ✓  | ✓      | zhang-yiming                |
   | 34  | Jacqueline Mars                | $43.4B     | USA       | Mars Inc.             |    |        |                             |
   | 34  | John Mars                      | $43.4B     | USA       | Mars Inc.             |    |        |                             |
-  | 36  | Prajogo Pangestu               | $42.3B     | Indonesia | Barito Pacific        |    |        |                             |
-  | 37  | Shiv Nadar                     | $41.6B     | India     | HCL Technologies      |    |        |                             |
+  | 36  | Prajogo Pangestu               | $42.3B     | Indonesia | Barito Pacific        | ✓  | ✓      |                             |
+  | 37  | Shiv Nadar                     | $41.6B     | India     | HCL Technologies      | ✓  | ✓      |                             |
   | 38  | Giovanni Ferrero               | $41.6B     | Italia    | Ferrero/Nutella       |    |        |                             |
   | 39  | Alain Wertheimer               | $41.5B     | Francia   | Chanel                | ✓  | ✓      |                             |
   | 39  | Gerard Wertheimer              | $41.5B     | Francia   | Chanel                | ✓  |        |                             |
-  | 41  | Savitri Jindal & family        | $38.8B     | India     | Jindal Steel          |    |        |                             |
+  | 41  | Savitri Jindal & family        | $38.8B     | India     | Jindal Steel          | ✓  | ✓      |                             |
   | 42  | Lukas Walton                   | $38.3B     | USA       | Walmart               | ✓  |        | lukas-walton                |
-  | 43  | Robin Zeng                     | $37.9B     | Cina      | CATL (batterie)       |    |        |                             |
+  | 43  | Robin Zeng                     | $37.9B     | Cina      | CATL (batterie)       | ✓  | ✓      |                             |
   | 44  | Mark Mateschitz                | $37.6B     | Austria   | Red Bull              |    |        |                             |
   | 45  | Klaus-Michael Kühne            | $36.1B     | Germania  | Kühne+Nagel           | ✓  |        | klaus-michael-kuhne         |
   | 46  | Abigail Johnson                | $36.0B     | USA       | Fidelity              |    |        |                             |
@@ -62,7 +62,7 @@ Forbes World's Billionaires 2025 - Top 100
   | 58  | Melinda French Gates           | $30.0B     | USA       | Investments           |    |        |                             |
   | 59  | Masayoshi Son                  | $29.5B     | Giappone  | SoftBank              | ✓  | ✓      | masayoshi-son               |
   | 60  | Dieter Schwarz                 | $29.2B     | Germania  | Lidl/Kaufland         |    |        |                             |
-  | 61  | Dilip Shanghvi                 | $29.0B     | India     | Sun Pharma            |    |        |                             |
+  | 61  | Dilip Shanghvi                 | $29.0B     | India     | Sun Pharma            | ✓  | ✓      |                             |
   | 62  | Len Blavatnik                  | $28.5B     | USA       | Access Industries     |    |        |                             |
   | 63  | Low Tuck Kwong                 | $28.3B     | Indonesia | Bayan Resources       |    |        |                             |
   | 64  | Elaine Marshall & family       | $28.3B     | USA       | Koch Industries       | ✓  |        |                             |

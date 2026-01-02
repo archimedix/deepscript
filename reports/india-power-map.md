@@ -184,7 +184,7 @@ I tre hanno costruito potere insieme in Gujarat prima di proiettarlo a livello n
 | Famiglia | Conglomerato | Settori | Net Worth | Connessioni Globali |
 |----------|--------------|---------|-----------|---------------------|
 | **[Ambani](../docs/family/ambani-family.md)** | Reliance Industries | Oil, Telecom, Retail, Media | $113B | WEF Foundation Board, Council for Inclusive Capitalism, IOC (Nita), Bank of America, Brookings |
-| **[Adani](../docs/family/adani-family.md)** | Adani Group | Infrastrutture, Energia, Porti, Aeroporti, Media | ~$84B | Modi-Gujarat axis, B20 |
+| **[Adani](../docs/family/adani-family.md)** | [Adani Group](../docs/company/adani-group.md) | Infrastrutture, Energia, Porti, Aeroporti, Media | **$64B** ([Gautam](../docs/persons/gautam-adani.md)) | Modi-Gujarat axis, WEF Agenda Contributor, **US DOJ indictment Nov 2024** ($250M bribery charges), Hindenburg Report Jan 2023; successione: Karan (Ports), Jeet (Airports), nipoti Sagar/Pranav |
 | **[Tata](../docs/family/tata-family.md)** | [Tata Group](../docs/company/tata-group.md) | Auto, Steel, IT, Hospitality, Aviation | **$446B market cap**, $165B revenue | 157 anni storia, 66% in trust filantropici, JLR, Air India, **29 societa' quotate**, Iveco acq. 2025 |
 
 ### Tier 2: I Conglomerati Storici
@@ -196,16 +196,18 @@ I tre hanno costruito potere insieme in Gujarat prima di proiettarlo a livello n
 | **[Hinduja](../docs/family/hinduja.md)** | Hinduja Group | Banking, Auto, Oil, IT/BPM, Healthcare | £35.3B | **UK's richest family** (4 anni consecutivi), WEF, 48 paesi, diaspora Sindhi |
 | **Godrej** | Godrej Group | FMCG, Real Estate | ~$11B | Split 2024 |
 | **Bajaj** | Bajaj Group | Auto, Finanza | ~$23B | Legacy Gandhi |
-| **Jindal** | OP Jindal Group | Acciaio, Energia | - | 4 rami fratelli |
+| **[Jindal](../docs/family/jindal-family.md)** | [OP Jindal Group](../docs/company/op-jindal-group.md) | Acciaio, Energia, Mining | **$40B famiglia** | [Savitri Jindal](../docs/persons/savitri-jindal.md) matriarca, donna piu' ricca India $35.5B; 4 figli: Sajjan (JSW), Naveen (JSPL, MP BJP), Prithviraj (SAW), Ratan (Stainless); cross-holdings |
 
-### Tier 3: Tech & Nuovi Ricchi
+### Tier 3: Tech, Pharma & Nuovi Ricchi
 
-| Famiglia | Azienda | Settore | Connessioni Globali |
-|----------|---------|---------|---------------------|
-| **[Murthy](../docs/persons/narayana-murthy.md)** | Infosys | IT | WEF Co-Chair 2005, HSBC Board, Unilever Board, Ford Fdn, UN Fdn, Suocero ex-PM UK |
-| **Premji** | Wipro | IT | Giving Pledge |
-| **[Mittal](../docs/persons/sunil-mittal.md)** | Bharti Airtel | Telecom | **$34.2B Forbes India #4**, CFR Advisor, WEF IBC, GSMA Chairman 2017-18, **BT Group 24.5% + board 2025**, Eutelsat Co-Chair, ICC Chairman 2016-18 |
-| **Agarwal** | Vedanta | Mining | LSE, Anglo American |
+| Famiglia | Azienda | Settore | Net Worth | Connessioni Globali |
+|----------|---------|---------|-----------|---------------------|
+| **[Shiv Nadar](../docs/persons/shiv-nadar.md)** | [HCL Technologies](../docs/company/hcl-technologies.md) | IT | **$34.4B** (#4 India) | Founder HCL 1976, Chairman Emeritus 2020, [Shiv Nadar Foundation](../docs/foundation/shiv-nadar-foundation.md) $1.7B donati, **top donor India 2024**; [Roshni Nadar](../docs/persons/roshni-nadar.md) prima donna chair IT quotata (2020) |
+| **[Dilip Shanghvi](../docs/persons/dilip-shanghvi.md)** | [Sun Pharmaceutical](../docs/pharma/sun-pharma.md) | Pharma generici | **$28.9B** (#5 India) | Founder 1983 con Rs 10.000, acquisito Ranbaxy $4B (2014), **RBI Board 2018**, Chairman IIT Bombay, **Rhodes Trust Trustee 2017**, 54.4% stake |
+| **[Murthy](../docs/persons/narayana-murthy.md)** | Infosys | IT | ~$5B | WEF Co-Chair 2005, HSBC Board, Unilever Board, Ford Fdn, UN Fdn, **Suocero ex-PM UK Sunak** |
+| **Premji** | Wipro | IT | ~$10B | Giving Pledge, Azim Premji Foundation |
+| **[Mittal](../docs/persons/sunil-mittal.md)** | Bharti Airtel | Telecom | **$34.2B** (#4 India) | CFR Advisor, WEF IBC, GSMA Chairman 2017-18, **BT Group 24.5% + board 2025**, Eutelsat Co-Chair, ICC Chairman 2016-18, **Honorary KBE 2024** |
+| **Agarwal** | Vedanta | Mining | ~$8B | LSE quotata, sede Londra |
 
 ---
 
@@ -535,8 +537,9 @@ WEF Board 2006                1.4 miliardi ID             G20 DPI Chair 2023
 | **Cemento** | Birla (UltraTech) | ~23% |
 | **Auto (2-3 ruote)** | Bajaj | #4 mondiale |
 | **SUV/Trattori** | Mahindra | Leader domestico |
-| **Steel** | Tata + Jindal | Duopolio |
-| **IT Services** | Tata ([TCS](../docs/company/tcs.md) $30B) + [Infosys](../docs/company/infosys.md) $19B + Wipro | 60%+ export, 920,000+ dipendenti |
+| **Steel** | Tata + [Jindal](../docs/family/jindal-family.md) | Duopolio ($40B Jindal famiglia) |
+| **IT Services** | Tata ([TCS](../docs/company/tcs.md) $30B) + [Infosys](../docs/company/infosys.md) $19B + [HCL](../docs/company/hcl-technologies.md) $14B + Wipro | 60%+ export, 1M+ dipendenti |
+| **Pharma Generici** | [Sun Pharma](../docs/pharma/sun-pharma.md) ([Shanghvi](../docs/persons/dilip-shanghvi.md)) | Largest India, "Farmacia del Mondo" |
 | **Retail** | Ambani (Reliance Retail) | In crescita |
 
 ---
@@ -555,11 +558,11 @@ WEF Board 2006                1.4 miliardi ID             G20 DPI Chair 2023
 | `akash-ambani` | Chairman Reliance Jio (dal 2022) | - |
 | `isha-ambani` | CEO Reliance Retail | - |
 | `anant-ambani` | Head Reliance Green Energy | - |
-| `gautam-adani` | Adani Group Chairman | - |
-| `karan-adani` | CEO Adani Ports | - |
-| `jeet-adani` | Head Adani Airports | - |
+| `gautam-adani` | Adani Group Chairman, **US DOJ indictment Nov 2024** | [Link](../docs/persons/gautam-adani.md) |
+| `karan-adani` | CEO Adani Ports, successore designato | - |
+| `jeet-adani` | Head Adani Airports, successore designato | - |
 | `pranav-adani` | MD Adani Enterprises (nipote) | - |
-| `sagar-adani` | ED Adani Green Energy (nipote) | - |
+| `sagar-adani` | ED Adani Green Energy (nipote), co-indicted US | - |
 | `ratan-tata` | Tata Group Chairman 1991-2012 (deceased Oct 2024) | - |
 | `noel-tata` | Chairman Tata Trusts (dal 2024) | - |
 | `n-chandrasekaran` | Chairman Tata Sons (primo non-Parsi), KBE 2025 | [Link](../docs/persons/n-chandrasekaran.md) |
@@ -595,6 +598,16 @@ WEF Board 2006                1.4 miliardi ID             G20 DPI Chair 2023
 | `mallikarjun-kharge` | INC President 2022-, primo non-Gandhi in 24 anni | **STUB** |
 | `pv-narasimha-rao` | PM 1991-96, riforme economiche | **STUB** |
 | `lal-bahadur-shastri` | PM 1964-66, "Jai Jawan Jai Kisan" | **STUB** |
+| `shiv-nadar` | Founder HCL Technologies, $34.4B (#4 India), top donor 2024 | [Link](../docs/persons/shiv-nadar.md) |
+| `roshni-nadar` | Chairperson HCL (2020-), prima donna chair IT quotata | - |
+| `kiran-nadar` | Art collector, Kiran Nadar Museum of Art | - |
+| `dilip-shanghvi` | Founder Sun Pharma, $28.9B (#5 India), RBI Board, Rhodes Trust | [Link](../docs/persons/dilip-shanghvi.md) |
+| `savitri-jindal` | Matriarca Jindal, $35.5B donna piu' ricca India, BJP 2024 | [Link](../docs/persons/savitri-jindal.md) |
+| `om-prakash-jindal` | Founder OP Jindal Group (†2005 helicopter crash) | - |
+| `sajjan-jindal` | Chairman JSW Group, figlio OP Jindal | - |
+| `naveen-jindal` | Chairman JSPL, MP BJP Kurukshetra 2024, figlio OP Jindal | - |
+| `prithviraj-jindal` | Chairman Jindal SAW, figlio maggiore OP Jindal | - |
+| `ratan-jindal` | Chairman Jindal Stainless, figlio OP Jindal | - |
 | `aryaman-birla` | 6a gen Birla, hospitality, VC | - |
 | `parmanand-hinduja` | Fondatore Hinduja Group 1914 (†1971) | - |
 | `srichand-hinduja` | Chairman Hinduja (†2023) | - |
@@ -665,6 +678,15 @@ WEF Board 2006                1.4 miliardi ID             G20 DPI Chair 2023
 | `hinduja-global-solutions` | Company | IT/BPM |
 | `hinduja-foundation` | Foundation | Mumbai 1968 |
 | `hinduja-hospital` | Foundation | P.D. Hinduja Hospital Mumbai |
+| `hcl-technologies` | Company | Shiv Nadar founder, $14B revenue, 219K dipendenti |
+| `shiv-nadar-foundation` | Foundation | $1.7B investiti, top donor India 2024 |
+| `sun-pharma` | Pharma | Dilip Shanghvi, largest generic drugmaker India |
+| `op-jindal-group` | Company | Holding Jindal, Savitri matriarca |
+| `jsw-group` | Company | Sajjan Jindal Chairman |
+| `jindal-steel-power` | Company | Naveen Jindal Chairman |
+| `jindal-family` | Family | Steel dynasty, $40B patrimonio famiglia |
+| `iit-bombay` | University | Dilip Shanghvi Chairman Board |
+| `rhodes-trust` | Foundation | Dilip Shanghvi Trustee 2017- |
 
 ---
 
@@ -787,7 +809,23 @@ Modi, Ambani, Adani - tutti gujarati, cresciuti insieme:
 
 Due leader industriali indiani hanno co-presieduto Davos, segnalando l'integrazione dell'elite indiana nel sistema globale.
 
-### 7. Potere Tecnocratico Ereditario
+### 7. Donne al Vertice del Potere Economico
+
+| Donna | Posizione | Net Worth | Significato |
+|-------|-----------|-----------|-------------|
+| **[Savitri Jindal](../docs/persons/savitri-jindal.md)** | Chairperson Emeritus OP Jindal Group | **$35.5B** | **Donna piu' ricca India**, unica donna top-10 billionaires, da casalinga a leader impero acciaio post-2005 |
+| **[Roshni Nadar](../docs/persons/roshni-nadar.md)** | Chairperson HCL Technologies | ~$5B (famiglia) | **Prima donna chair IT quotata India** (2020), eredita da padre |
+| **Nita Ambani** | IOC, Reliance Foundation | $113B (famiglia) | **Prima donna indiana IOC** (2016), power behind Reliance |
+| **Isha Ambani** | CEO Reliance Retail | $113B (famiglia) | Nuova generazione, retail empire |
+
+**Pattern**: Le donne raggiungono il potere economico in India principalmente per:
+1. **Vedovanza** (Savitri Jindal 2005)
+2. **Successione padre-figlia** (Roshni Nadar 2020)
+3. **Matrimonio in dinastia** (Nita Ambani)
+
+**Eccezione**: [Kiran Mazumdar-Shaw](Biocon) - self-made billionaire, rara eccezione.
+
+### 8. Potere Tecnocratico Ereditario
 
 | Famiglia | Generazioni | Settore | Pattern |
 |----------|-------------|---------|---------|
@@ -816,28 +854,32 @@ Due leader industriali indiani hanno co-presieduto Davos, segnalando l'integrazi
 | **1966** | [Indira Gandhi](../docs/persons/indira-gandhi.md) diventa PM; Dhirubhai Ambani fonda Reliance Industries |
 | **1969** | **Aditya Vikram Birla fonda Indo Thai Synthetics** - prima multinazionale indiana |
 | **1975-77** | **Emergency**: sospensione democrazia, censura stampa |
+| **1976** | **Shiv Nadar fonda HCL** in un garage a Delhi con Rs 187.000 |
 | **1979** | **Hinduja si sposta a Londra** post-Rivoluzione Islamica Iran |
 | **1981** | Murthy e Nilekani fondano Infosys con $250 (7 ingegneri) |
+| **1983** | **Dilip Shanghvi fonda Sun Pharma** con Rs 10.000, 5 farmaci psichiatrici |
 | **1984** | **Assassinio Indira Gandhi**; Rajiv Gandhi PM; Hinduja acquisisce Gulf Oil da Chevron |
 | **1987** | Hinduja acquisisce Ashok Leyland da British Leyland |
 | **1988** | Gautam Adani fonda Adani Enterprises con fratelli |
 | **1991** | **Crisi economica, riforme FMI/World Bank**; [Manmohan Singh](../docs/persons/manmohan-singh.md) Finance Minister abolisce License Raj; Ratan Tata Chairman |
-| **1994** | Hinduja fonda IndusInd Bank |
+| **1994** | Hinduja fonda IndusInd Bank; Sun Pharma IPO; **Shiv Nadar Foundation fondata** |
 | **1995** | **Kumar Mangalam Birla Chairman ABG a 28 anni** (morte padre) |
+| **1997** | **Shanghvi acquisisce Caraco Pharmaceuticals** (Detroit) - ingresso mercato USA |
 | **2001** | Modi diventa CM Gujarat; **Hinduja scandalo cash-for-passports** (Mandelson dimissioni) |
 | **2002** | Morte Dhirubhai Ambani senza testamento |
 | **2004** | **[Manmohan Singh](../docs/persons/manmohan-singh.md) diventa PM** (UPA), primo Sikh PM |
-| **2005** | Murthy Co-Chair WEF Davos; **Scissione Mukesh-Anil Ambani** mediata da Kokilaben |
+| **2005** | Murthy Co-Chair WEF Davos; **Scissione Mukesh-Anil Ambani** mediata da Kokilaben; **OP Jindal muore in helicopter crash** - Savitri assume controllo, eletta MLA Hisar |
 | **2007** | Mukesh Ambani diventa Asia's richest; Tata acquisisce Corus; **Hindalco acquisisce Novelis $6B** |
 | **2008** | Tata acquisisce Jaguar Land Rover |
 | **2009** | Mahindra Co-Chair WEF Davos; Sunak sposa Akshata Murty; **Nilekani Chairman UIDAI (Aadhaar)** |
-| **2014** | Modi PM; Reliance acquisisce Network18 |
+| **2014** | Modi PM; Reliance acquisisce Network18; **Shanghvi acquisisce Ranbaxy $4B** - Sun Pharma diventa largest Indian pharma |
 | **2016** | Jio launch; **UPI lanciato (framework Nilekani)**; **Nita Ambani prima donna indiana IOC**; Mistry rimosso da Tata; **N. Chandrasekaran board RBI** |
-| **2017** | N Chandrasekaran Chairman Tata Sons (primo non-Tata) |
-| **2020** | Anil Ambani dichiara bancarotta UK; $20B in Jio |
+| **2017** | N Chandrasekaran Chairman Tata Sons (primo non-Tata); **Dilip Shanghvi Trustee Rhodes Trust** |
+| **2018** | **Dilip Shanghvi nominato RBI Central Board** |
+| **2020** | Anil Ambani dichiara bancarotta UK; $20B in Jio; **Roshni Nadar Chairperson HCL** (prima donna chair IT quotata); **Shiv Nadar Chairman Emeritus** |
 | **2022** | Sunak PM UK; **Akash Ambani Chairman Jio**; Adani acquisisce NDTV; Tata riacquista Air India |
 | **2023** | **Hindenburg Report su Adani**; Isha, Akash, Anant in board Reliance; **Morte Srichand Hinduja**; **Ananya e Aryaman Birla board Grasim/Hindalco**; KM Birla riceve Padma Bhushan; **Nilekani Co-Chair G20 DPI Task Force**; K. Krithivasan CEO TCS |
-| **2024** | SC rivela electoral bonds; Modi rieletto (coalizione); Sunak perde elezioni UK; **Morte Ratan Tata (9 ottobre)**; **Noel Tata Chairman Tata Trusts**; **Prakash Hinduja condannato in Svizzera**; Birla figli board Hindalco; **Bharti acquisisce 24.5% BT Group (£3.2B)**; **Sunil Mittal riceve Honorary KBE** (primo indiano) |
+| **2024** | SC rivela electoral bonds; Modi rieletto (coalizione); Sunak perde elezioni UK; **Morte Ratan Tata (9 ottobre)**; **Noel Tata Chairman Tata Trusts**; **Prakash Hinduja condannato in Svizzera**; Birla figli board Hindalco; **Bharti acquisisce 24.5% BT Group (£3.2B)**; **Sunil Mittal riceve Honorary KBE** (primo indiano); **Savitri Jindal passa a BJP**; **Naveen Jindal eletto MP BJP Kurukshetra**; **Gautam Adani incriminato US DOJ** ($250M bribery, Nov 20) |
 | **2025** | India 5th largest economy; Sunak torna a Goldman; **Jeet Adani matrimonio (7 feb)**; **Tata vs Mistry 2.0** (Mehli rimosso); RBI listing deadline Tata Sons (settembre); **Morte Gopichand Hinduja (novembre)**; **Hinduja #1 Sunday Times Rich List** (4o anno consecutivo £35.3B); **Sunil Mittal board BT Group (settembre)**; **Tata acquisisce Iveco commercial vehicles (€3.8B)**; **Tata Group market cap $446B**; **N. Chandrasekaran riceve Honorary KBE**; **P.B. Balaji CEO JLR (primo indiano, novembre)**; JLR cyberattack £196M |
 
 ---
@@ -885,4 +927,4 @@ Due leader industriali indiani hanno co-presieduto Davos, segnalando l'integrazi
 
 ---
 
-*Ultimo aggiornamento: 30 Dicembre 2025 - Aggiunte: dinastia Jaishankar (3 generazioni politica estera, K. Subrahmanyam fondatore IDSA, Dhruva Trilateral Commission); Sonia Gandhi (italiana, INC President 22+ anni, Co-Chair State of World Forum, potere indiretto 2004-14); Mahatma Gandhi (chiarito NO parentela con Nehru-Gandhi); Indian National Congress (54 anni governo, 6 PM); State of the World Forum (Gorbachev 1995-2000)*
+*Ultimo aggiornamento: 1 Gennaio 2026 - Aggiunte: [Gautam Adani](../docs/persons/gautam-adani.md) (US DOJ indictment Nov 2024, $250M bribery); [Shiv Nadar](../docs/persons/shiv-nadar.md) (HCL founder, $34.4B, top donor 2024); [Dilip Shanghvi](../docs/persons/dilip-shanghvi.md) (Sun Pharma, $28.9B, RBI Board, Rhodes Trust); [Savitri Jindal](../docs/persons/savitri-jindal.md) (donna piu' ricca India $35.5B, matriarca Jindal, BJP 2024); [Jindal family](../docs/family/jindal-family.md) ($40B, 4 figli cross-holdings); pattern donne al potere economico; settore pharma generici*

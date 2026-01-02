@@ -179,7 +179,8 @@ CALTAGIRONE                    ANGELUCCI          CAIRO │
 | 15 | [Gian Maria Gros-Pietro](../docs/persons/gian-maria-gros-pietro.md) | 6 | **Il Privatizzatore**: Chairman IRI → ENI → Atlantia → **Chairman Intesa Sanpaolo**, ISPI ExComm |
 | 16 | [Alessandro Benetton](../docs/persons/alessandro-benetton.md) | 6 | **Goldman Sachs → 21 Invest → Chairman Edizione**, Vice Chairman Mundys, Benetton F1 |
 | 17 | [Roberto Cingolani](../docs/persons/roberto-cingolani.md) | 6 | **IIT Dir. → Min. Draghi → CEO Leonardo**, **NATO Innovation Fund** |
-| 18 | [Flavio Cattaneo](../docs/persons/flavio-cattaneo.md) | 6 | **CEO Enel**, board Generali, **ex CEO Telecom/Terna/NTV**, WEF |
+| 18 | [Guido Crosetto](../docs/persons/guido-crosetto.md) | 5 | **Co-fondatore FdI**, **Pres. AIAD → Advisor Leonardo → Min. Difesa**, Orizzonte SN |
+| 19 | [Flavio Cattaneo](../docs/persons/flavio-cattaneo.md) | 6 | **CEO Enel**, board Generali, **ex CEO Telecom/Terna/NTV**, WEF |
 | 19 | [Claudio Descalzi](../docs/persons/claudio-descalzi.md) | 6 | **ENI CEO 4 mandati**, **WEF Co-Chair Oil&Gas**, **CFR**, **ERT Steering**, Atlantic Council |
 | 20 | [Paolo Gentiloni](../docs/persons/paolo-gentiloni.md) | 6 | PM, **Commissario UE Economia**, **Bilderberg 2023-24**, Brookings |
 | 21 | [Enrico Letta](../docs/persons/enrico-letta.md) | 6 | PM, Trilaterale, Sciences Po, **Aspen Italia VP** |
@@ -421,7 +422,7 @@ Un quarto profilo emerge per i CEO delle grandi aziende di Stato:
 |---------|-------------|---------------|----------|---------|
 | [ENI](../docs/company/eni.md) | 28.5% (CDP+MEF) | - | [Claudio Descalzi](../docs/persons/claudio-descalzi.md) | Oil & Gas |
 | [Enel](../docs/company/enel.md) | 23.6% (MEF) | [Paolo Scaroni](../docs/persons/paolo-scaroni.md) | Flavio Cattaneo | Elettricita' |
-| [Leonardo](../docs/company/leonardo.md) | 30.2% (MEF) | Stefano Pontecorvo | Roberto Cingolani | Difesa |
+| [Leonardo](../docs/defense/leonardo.md) | 30.2% (MEF) | [Stefano Pontecorvo](../docs/persons/stefano-pontecorvo.md) | [Roberto Cingolani](../docs/persons/roberto-cingolani.md) | Difesa |
 
 **Pattern comune:**
 - Nomine concordate con governo di turno
@@ -750,6 +751,44 @@ Il Chairman di Leonardo, Stefano Pontecorvo, rappresenta il **revolving door dip
 - Cingolani: CEO Leonardo → NATO Innovation Fund Board
 
 L'azienda di difesa italiana ha entrambi i vertici con connessioni NATO attive.
+
+### Il Pattern "Lobby Difesa → Ministro Difesa": Guido Crosetto
+
+[Guido Crosetto](../docs/persons/guido-crosetto.md) rappresenta il **revolving door piu' completo** nel settore difesa italiano: da co-fondatore del partito al governo, a presidente della lobby delle aziende difesa, a ministro che controlla quelle stesse aziende.
+
+```
+CROSETTO: DA LOBBISTA A MINISTRO
+
+   POLITICA ──────► INDUSTRIA DIFESA ──────► MINISTRO DIFESA
+   (1988-2014)         (2014-2022)              (2022-)
+   DC→FI→PdL→FdI       AIAD + Leonardo          Governo Meloni
+        │                    │                       │
+        └──── Sottosegr. ────┼───────────────────────┘
+              Difesa 2008    │
+                             ▼
+                    Orizzonte Sistemi Navali
+                    (Fincantieri + Leonardo)
+```
+
+| Fase | Periodo | Ruolo | Organizzazione |
+|------|---------|-------|----------------|
+| Politica | 1988-2014 | Deputato, Sottosegr. Difesa | DC → FI → PdL → FdI |
+| Lobby | 2014-2022 | **Presidente** | AIAD (Confindustria) |
+| Industria | 2014-2022 | Senior Advisor | Leonardo |
+| Industria | 2020-2022 | Presidente CdA | Orizzonte Sistemi Navali |
+| Governo | 2022- | **Ministro Difesa** | Governo Meloni |
+
+**Il triangolo Crosetto:**
+- **AIAD**: Federazione ~200 aziende difesa/aerospazio di Confindustria
+- **Leonardo**: Senior Advisor del campione nazionale difesa
+- **Orizzonte SN**: Presidente JV Fincantieri (51%) + Leonardo (49%) per navi militari
+
+**Pattern unico**: Crosetto si dimise da deputato nel 2019 per conflitto di interessi come presidente AIAD, ma nel 2022 e' tornato come Ministro che assegna commesse alle stesse aziende che rappresentava.
+
+**Osservazione**: Con Crosetto ministro, Cingolani CEO e Pontecorvo Chairman, Leonardo ha:
+- Il ministro che fu suo advisor
+- Un CEO ex-ministro Draghi
+- Un Chairman ex-NATO Afghanistan
 
 ### Il Pattern "Tech → WEF Climate → Utility": Monica de Virgiliis
 

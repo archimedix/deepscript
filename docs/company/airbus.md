@@ -95,6 +95,10 @@ AEROSPATIALE  DEUTSCHE  CASA
 |-------|------|-----|------------|
 | Chairman | [Rene Obermann](../persons/rene-obermann.md) | 2020 | Ex-CEO Deutsche Telekom; Chairman Warburg Pincus Europe |
 | CEO | [Guillaume Faury](../persons/guillaume-faury.md) | 2019 | Ingegnere; Board AXA |
+| CEO Defence & Space | Michael Schoellhorn | 2021 | Ex-COO Airbus, ex-Bosch, ex-German Army pilot |
+| CEO Commercial Aircraft | Christian Scherer | 2024 | |
+| CEO Helicopters | Bruno Even | 2018 | |
+| CFO | Thomas Toepfer | 2024 | |
 
 ### Successione CEO
 
@@ -125,6 +129,49 @@ AEROSPATIALE  DEUTSCHE  CASA
 | Flottante | ~68% | Borsa Parigi, Francoforte, Madrid |
 
 ~25% delle azioni rimane sotto controllo statale.
+
+---
+
+## Divisioni
+
+### Airbus Defence and Space
+
+| Metrica | Valore |
+|---------|--------|
+| **CEO** | Michael Schoellhorn (2021-) |
+| **Formazione** | 2014 (fusione Airbus Military + Astrium + Cassidian) |
+| **Dipendenti** | ~35.000 |
+| **Ricavi** | ~€11B |
+
+**Business Lines:**
+- **Air Power**: Eurofighter, A400M, tanker/transport
+- **Space Systems**: Satelliti, lanciatori (Ariane)
+- **Connected Intelligence**: Cyber, comunicazioni sicure
+
+**Prodotti chiave:**
+| Prodotto | Tipo | Note |
+|----------|------|------|
+| Eurofighter Typhoon | Caccia | Consorzio con BAE, Leonardo |
+| A400M Atlas | Trasporto militare | 8 nazioni |
+| A330 MRTT | Tanker | Multi-Role Tanker Transport |
+| Ariane 6 | Lanciatore | ESA |
+| OneWeb | Costellazione satelliti | LEO broadband |
+
+### Airbus Commercial Aircraft
+
+| Metrica | Valore |
+|---------|--------|
+| **CEO** | Christian Scherer (2024-) |
+| **Prodotti** | A220, A320neo, A330neo, A350, A380 |
+| **Backlog** | >8.500 aerei |
+
+### Airbus Helicopters
+
+| Metrica | Valore |
+|---------|--------|
+| **CEO** | Bruno Even (2018-) |
+| **Sede** | Marignane, Francia |
+| **Prodotti** | H125, H145, H160, NH90, Tiger |
 
 ---
 
@@ -267,4 +314,4 @@ La struttura dimostra come un'azienda strategica europea possa mantenere governa
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Gennaio 2026*

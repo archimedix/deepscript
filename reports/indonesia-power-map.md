@@ -12,7 +12,7 @@ L'Indonesia rappresenta il caso piu' complesso di **transizione oligarchica** in
 | **Popolazione** | 277 milioni (#4 mondo) |
 | **PIL** | $1.4 trilioni (#16 mondo) |
 | **Famiglie oligarchiche** | 7+ principali |
-| **Patrimonio top 5** | ~$100B |
+| **Patrimonio top 5** | ~$120B (Pangestu $42B + Hartono $50B + altri) |
 | **SOE** | 107 aziende statali |
 | **SWF** | [INA](../docs/swf/ina-indonesia.md) ($20B+, fondato 2021) |
 
@@ -38,11 +38,11 @@ L'Indonesia rappresenta il caso piu' complesso di **transizione oligarchica** in
     +-------+-------+-------+-------+-------+
     |       |       |       |       |       |
     v       v       v       v       v       v
-HARTONO  SALIM  WIDJAJA PANGESTU RIADY  TANOTO
- $50B   $13.6B  ~$10B   ~$8B    ~$3B   ~$5B
-  BCA  Indofood SinarMas Barito  Lippo   RGE
-Djarum  PLDT    APP    Chandra  OVO   APRIL
-Blibli          Palm   Asri
+PANGESTU HARTONO SALIM  WIDJAJA RIADY  TANOTO
+ $42B    $50B   $13.6B  ~$10B   ~$3B   ~$5B
+Barito    BCA  Indofood SinarMas Lippo   RGE
+Chandra Djarum  PLDT    APP     OVO   APRIL
+StarEner Blibli         Palm
 ```
 
 ---
@@ -53,10 +53,10 @@ Blibli          Palm   Asri
 
 | # | Famiglia | Patrimonio | Conglomerato | Settori | Origine |
 |---|----------|------------|--------------|---------|---------|
-| 1 | [Hartono](../docs/family/hartono.md) | $50B | Djarum Group | Tabacco, BCA, Tech | Kudus |
-| 2 | [Salim](../docs/family/salim.md) | $13.6B | Salim Group | Food, Telecom PHL, Retail | Fujian→Kudus |
-| 3 | Widjaja | ~$10B | Sinar Mas | Carta, Palma, Real Estate | Fujian |
-| 4 | Pangestu | ~$8B | Barito Pacific | Petrolchimica, Energia | Kalimantan |
+| 1 | [Pangestu](../docs/family/pangestu.md) | **$42-43B** | Barito Pacific | Energia, Petrolchimica, Mining | Kalimantan |
+| 2 | [Hartono](../docs/family/hartono.md) | $50B | Djarum Group | Tabacco, BCA, Tech | Kudus |
+| 3 | [Salim](../docs/family/salim.md) | $13.6B | Salim Group | Food, Telecom PHL, Retail | Fujian→Kudus |
+| 4 | Widjaja | ~$10B | Sinar Mas | Carta, Palma, Real Estate | Fujian |
 | 5 | Tanoto | ~$5B | RGE | Carta, Palma, Energia | Medan |
 | 6 | Riady | ~$3B | Lippo Group | Healthcare, Real Estate, Fintech | Malang |
 | 7 | Tahir | ~$2B | Mayapada | Banking, Healthcare | Surabaya |
@@ -181,6 +181,65 @@ La strategia di diversificazione geografica via [First Pacific](../docs/company/
 | Metro Pacific | Controllo | Taken private 2023 ($500M) |
 | Meralco | Via MPI | Distribuzione elettrica Manila |
 | Maynilad | Via MPI | Acqua Manila |
+
+---
+
+## Famiglia Pangestu: Il Nuovo #1
+
+[Prajogo Pangestu](../docs/persons/prajogo-pangestu.md) (1944) ha superato tutti nel 2025, diventando l'uomo piu' ricco del Sud-Est asiatico.
+
+### Struttura del Potere
+
+```
+PANGESTU FAMILY ($42-43B)
+Prajogo Pangestu (81 anni)
+              |
+              v
+       BARITO PACIFIC (71%)
+              |
+    +---------+---------+
+    |                   |
+    v                   v
+CHANDRA ASRI        BARITO RENEWABLES
+(petrolchimica)     (22% via Green Era)
+#1 Indonesia              |
+                          v
+                    STAR ENERGY (100%)
+                    (geotermico)
+                          +
+                    PETRINDO JAYA (84%)
+                    (carbone)
+```
+
+### Dati Chiave
+
+| Metrica | Valore |
+|---------|--------|
+| **Patrimonio** | $42-43B (Bloomberg 2025) |
+| **Barito Pacific ownership** | 71% |
+| **Star Energy** | 100% (via Green Era) |
+| **Petrindo Jaya Kreasi** | 84% |
+| **Generazione** | 1a (Prajogo) → 2a (Agus, Nancy, Baritono) |
+
+### Da Crony Suharto a Re dell'Energia
+
+| Fase | Periodo | Status |
+|------|---------|--------|
+| **Timber King** | 1970-1998 | 3.5M ettari concessioni, crony Suharto |
+| **Crisi** | 1998 | Sopravvissuto (non bancario) |
+| **Diversificazione** | 2000s | Petrolchimica (Chandra Asri) |
+| **Energy Pivot** | 2018-2023 | Star Energy, Barito Renewables, Petrindo |
+| **#1 SEA** | 2025 | $42-43B, supera Hartono |
+
+### Successione in Corso
+
+| Figlio | Ruolo | Azienda |
+|--------|-------|---------|
+| Agus Salim Pangestu | President Director | Barito Pacific |
+| Nancy Pangestu | Family Office | Green Era (Singapore) |
+| Baritono Pangestu | Commercial VP | Chandra Asri |
+
+> **Pattern**: A differenza di Salim (bancario, crollato nel 1998), Pangestu era nel timber/industrial - meno esposto alla crisi finanziaria. Ora domina la transizione energetica indonesiana.
 
 ---
 
@@ -715,14 +774,16 @@ KOPASSUS (militare) + TOBA SEJAHTRA (business) + CINA (nickel/EV)
 
 | Famiglia | Scheda |
 |----------|--------|
-| [Hartono](../docs/family/hartono.md) | #1 Indonesia, BCA, Djarum, Blibli |
-| [Salim](../docs/family/salim.md) | #5 Indonesia, Indofood, First Pacific |
+| [Pangestu](../docs/family/pangestu.md) | #1 Indonesia/SEA, Barito Pacific, Star Energy |
+| [Hartono](../docs/family/hartono.md) | #2 Indonesia, BCA, Djarum, Blibli |
+| [Salim](../docs/family/salim.md) | #3 Indonesia, Indofood, First Pacific |
 | [Keswick](../docs/family/keswick.md) | UK/HK, controlla Jardine Matheson → Astra |
 
 ### Persone
 
 | Persona | Ruolo |
 |---------|-------|
+| [Prajogo Pangestu](../docs/persons/prajogo-pangestu.md) | Founder Pangestu, #1 Indonesia/SEA |
 | [Robert Budi Hartono](../docs/persons/robert-budi-hartono.md) | Co-owner Hartono (51%) |
 | [Michael Bambang Hartono](../docs/persons/michael-bambang-hartono.md) | Co-owner Hartono (49%) |
 | [Victor Hartono](../docs/persons/victor-hartono.md) | CEO Djarum, travel ban 2025 |
@@ -745,6 +806,10 @@ KOPASSUS (militare) + TOBA SEJAHTRA (business) + CINA (nickel/EV)
 
 | Organizzazione | Tipo |
 |----------------|------|
+| [Barito Pacific](../docs/company/barito-pacific.md) | Conglomerato Pangestu |
+| [Chandra Asri](../docs/company/chandra-asri.md) | Petrolchimica Pangestu |
+| [Star Energy](../docs/company/star-energy.md) | Geotermico Pangestu |
+| [Barito Renewables](../docs/company/barito-renewables.md) | Rinnovabili Pangestu |
 | [BCA](../docs/bank/bca.md) | Banca Hartono |
 | [Djarum](../docs/company/djarum.md) | Conglomerato Hartono |
 | [Blibli](../docs/company/blibli.md) | E-commerce Hartono |
@@ -794,7 +859,7 @@ KOPASSUS (militare) + TOBA SEJAHTRA (business) + CINA (nickel/EV)
 ### Priorita' Alta
 
 - [ ] Famiglia Widjaja (Sinar Mas)
-- [ ] Famiglia Pangestu (Barito Pacific)
+- [x] Famiglia Pangestu (Barito Pacific)
 - [ ] Bank Mandiri, BRI, BNI (SOE bancarie)
 - [ ] Pertamina
 - [x] Telkom Indonesia
@@ -837,14 +902,17 @@ KOPASSUS (militare) + TOBA SEJAHTRA (business) + CINA (nickel/EV)
 |------|--------|
 | **1916** | Nascita Liem Sioe Liong (Salim) |
 | **1923** | Nascita Oei Wie Gwan (Hartono) |
+| **1944** | Nascita Prajogo Pangestu (Kalimantan) |
 | **1951** | Fondazione Djarum |
 | **1957** | Fondazione BCA (Salim), Astra (Soeryadjaya) |
 | **1963** | Morte Oei Wie Gwan, Hartono brothers ereditano |
 | **1966** | Ascesa Suharto, inizio New Order |
 | **1972** | Fondazione Salim Group |
+| **1979** | Fondazione Barito Pacific (Pangestu) |
 | **1981** | Fondazione First Pacific (Hong Kong) |
 | **1990** | Fondazione Indofood |
 | **1992** | Crisi Bank Summa, William Soeryadjaya perde Astra |
+| **1993** | Barito Pacific #1 alla borsa di Jakarta |
 | **1997** | Crisi finanziaria asiatica |
 | **1998** | Caduta Suharto, riots, fondazione IBRA |
 | **2000** | Jardine C&C acquisisce Astra da IBRA |
@@ -854,18 +922,20 @@ KOPASSUS (militare) + TOBA SEJAHTRA (business) + CINA (nickel/EV)
 | **2010** | Fondazione Gojek (Nadiem Makarim) |
 | **2011** | Fondazione Blibli (Hartono tech) |
 | **2014** | Jokowi presidente, Luhut Chief of Staff |
+| **2018** | Pangestu acquisisce Star Energy (66.67%) |
 | **2019** | Nadiem Makarim Ministro, Erick Thohir Ministro SOE |
 | **2020** | Bangkok Bank acquisisce Permata |
 | **2021** | Fondazione INA (SWF), merger GoTo |
-| **2022** | IPO GoTo ($1.1B), IPO Blibli ($509M) |
-| **2023** | ByteDance acquisisce 75% Tokopedia |
+| **2022** | IPO GoTo ($1.1B), IPO Blibli ($509M), Pangestu 100% Star Energy |
+| **2023** | ByteDance 75% Tokopedia, IPO Barito Renewables, Petrindo Jaya |
 | **2024** | Prabowo presidente |
-| **2025** | Hartono $50B, Victor Hartono travel ban |
+| **2025** | Pangestu $42-43B #1 SEA, Hartono $50B, Victor travel ban |
 
 ---
 
 ## Domande Aperte
 
+- [ ] Successione Pangestu (Prajogo 81 anni) - chi tra Agus, Nancy, Baritono?
 - [ ] Come evolvera' GoTo dopo acquisizione ByteDance?
 - [ ] INA crescera' verso modello Temasek?
 - [ ] Successione Hartono (Victor sotto indagine)?
@@ -879,7 +949,7 @@ KOPASSUS (militare) + TOBA SEJAHTRA (business) + CINA (nickel/EV)
 ## Fonti
 
 ### Database DeepScript
-- Schede: hartono, salim, keswick, bca, djarum, salim-group, indofood, first-pacific, goto, blibli, ina-indonesia, ibra, permata-bank, astra-international, luhut-pandjaitan, governo-indonesia, jardine-matheson, toba-sejahtra, william-soeryadjaya, telkom-indonesia, telkomsel, nadiem-makarim, william-tanuwijaya
+- Schede: pangestu, prajogo-pangestu, barito-pacific, chandra-asri, star-energy, barito-renewables, hartono, salim, keswick, bca, djarum, salim-group, indofood, first-pacific, goto, blibli, ina-indonesia, ibra, permata-bank, astra-international, luhut-pandjaitan, governo-indonesia, jardine-matheson, toba-sejahtra, william-soeryadjaya, telkom-indonesia, telkomsel, nadiem-makarim, william-tanuwijaya
 
 ### News e Analisi
 - [Forbes Indonesia Billionaires](https://www.forbes.com/indonesia-billionaires/)
@@ -903,4 +973,4 @@ KOPASSUS (militare) + TOBA SEJAHTRA (business) + CINA (nickel/EV)
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

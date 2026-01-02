@@ -76,6 +76,17 @@ families:
       role: member
     - person: khalid-bin-ahmed-al-khalifa
       role: member
+  al-maktoum:
+    origin: Dubai, UAE
+    founder: maktoum-bin-butti
+    sector: real-estate,trade,aviation
+    status: active
+    note: Ruling family of Dubai
+    members:
+    - person: mohammed-bin-rashid
+      role: leader
+    - person: hamdan-bin-mohammed-al-maktoum
+      role: heir
   al-nahyan:
     origin: Abu Dhabi, UAE
     founder: sheikh-zayed-bin-sultan
@@ -95,6 +106,50 @@ families:
     - person: abdullah-bin-zayed
       generation: 2
       role: member
+    - person: khaled-bin-mohamed-al-nahyan
+      role: heir
+  al-rajhi:
+    origin: Buraidah, Arabia Saudita
+    founder: Abdullah Al-Rajhi
+    sector: banca islamica
+    generations: 3
+    status: active
+    note: Fondatori Al Rajhi Bank (1983). Fortuna $18B+. Cresciuti con boom migranti 1970s.
+  al-saud:
+    origin: Diriyah, Arabia Saudita
+    founder: Muhammad ibn Saud
+    sector: royalty, petrolio, finanza
+    generations: 7
+    status: active
+    note: Famiglia reale saudita, fondatori del regno. Potere consolidato sotto MBS dal 2017.
+    members:
+    - person: mohammed-bin-salman
+      generation: 7
+      role: crown-prince
+    - person: salman-bin-abdulaziz
+      generation: 6
+      role: king
+    - person: abdulaziz-bin-salman
+      generation: 7
+      role: prince
+    - person: alwaleed-bin-talal
+      generation: 6
+      role: prince
+    - person: khalid-bin-salman
+      generation: 7
+      role: prince
+    - person: turki-al-faisal
+      generation: 6
+      role: prince
+    - person: bandar-bin-sultan
+      generation: 6
+      role: prince
+    - person: saud-al-faisal
+      generation: 6
+      role: prince
+    - person: ibn-saud
+      generation: 6
+      role: founder
   ambani-family:
     origin: IND
     founder: dhirubhai-ambani
@@ -247,6 +302,13 @@ families:
     - person: nicolas-meyers
       generation: 4
       role: heir
+  binladin:
+    origin: Hadhramaut, Yemen (poi SA)
+    founder: Mohammed bin Awad bin Laden
+    sector: costruzioni
+    generations: 3
+    status: active
+    note: Saudi Binladin Group. Costruttori vicini alla famiglia reale. Progetto di espansione Mecca e Medina.
   birla:
     origin: IND
     founder: shiv-narayana-birla
@@ -671,6 +733,16 @@ families:
     members:
     - person: emmanuel-janssen
       role: patriarch
+  jindal-family:
+    origin: IND
+    founder: om-prakash-jindal
+    sector: steel, mining, power
+    generations: 2
+    status: active
+    members:
+    - person: savitri-jindal
+      generation: 1
+      role: matriarch
   kabila:
     origin: DRC
     founder: laurent-kabila
@@ -994,6 +1066,25 @@ families:
     - person: henry-sturgis-morgan
       generation: 4
       role: founder-morgan-stanley
+  motsepe:
+    origin: South Africa
+    founder: patrice-motsepe
+    sector: mining, sport, finance
+    generations: 2
+    status: active
+    members:
+    - person: patrice-motsepe
+      generation: 1
+      role: founder
+    - person: patrice-motsepe
+      generation: 1
+      role: patriarch
+    - person: bridgette-radebe
+      generation: 1
+      role: member
+    - person: tshepo-motsepe
+      generation: 1
+      role: member
   murdoch:
     origin: Australia
     founder: Keith Murdoch
@@ -1074,6 +1165,13 @@ families:
     - person: idan-ofer
       generation: 2
       role: heir
+  olayan:
+    origin: Nejd, Arabia Saudita
+    founder: Suliman Saleh Olayan
+    sector: finanza, diversificato
+    generations: 3
+    status: active
+    note: Fortuna $15B+. Olayan Group. Prima donna in board saudita (Lubna Olayan 2004).
   onassis:
     origin: Greece/Turkey (Smyrna)
     founder: aristotle-onassis
@@ -1147,6 +1245,22 @@ families:
     - person: sandra-ortega
       generation: 2
       role: heir
+  pangestu:
+    origin: IDN
+    founder: prajogo-pangestu
+    sector: energy, petrochemicals, forestry
+    generations: 2
+    status: active
+    members:
+    - person: prajogo-pangestu
+      generation: 1
+      role: founder
+    - person: agus-salim-pangestu
+      generation: 2
+    - person: nancy-pangestu
+      generation: 2
+    - person: baritono-pangestu
+      generation: 2
   papandreou:
     origin: Greece, Achaea
     founder: georgios-papandreou-sr

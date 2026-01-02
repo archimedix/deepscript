@@ -143,6 +143,19 @@ CONTROLLO PREZZI GLOBALI
 | [Anglo American](../company/anglo-american.md) | Fondatori, controllo 1917-2012 |
 | [Oppenheimer Generations](../company/oppenheimer-generations.md) | Family office attuale |
 | [Brenthurst Foundation](../foundation/brenthurst-foundation.md) | Think tank familiare |
+| [N M Rothschild & Sons](../bank/nm-rothschild.md) | Jonathan Oppenheimer inizio carriera (1995-1999) |
+
+### Famiglie
+
+| Famiglia | Connessione |
+|----------|-------------|
+| [Rothschild](../family/rothschild.md) | Finanziatori originali De Beers via Cecil Rhodes; Jonathan Oppenheimer ha lavorato per N M Rothschild |
+
+### Persone
+
+| Persona | Connessione |
+|---------|-------------|
+| [Cecil Rhodes](../persons/cecil-rhodes.md) | Predecessore - fondatore De Beers, Ernest Oppenheimer ne eredita il controllo |
 
 ---
 
@@ -179,9 +192,9 @@ CONTROLLO PREZZI GLOBALI
 
 ## Domande Aperte
 
-- [ ] Connessioni con forum transnazionali (Bilderberg, WEF)?
-- [ ] Relazioni con altre dinastie (Rothschild, Rupert)?
-- [ ] Investimenti attuali Oppenheimer Generations
+- [x] ~~Connessioni con forum transnazionali (Bilderberg, WEF)?~~ Nessuna partecipazione documentata a Bilderberg o WEF board
+- [x] ~~Relazioni con altre dinastie (Rothschild, Rupert)?~~ Connessione Rothschild: finanziamento originale De Beers + Jonathan lavoro NM Rothschild
+- [ ] Investimenti attuali Oppenheimer Generations (Tswalu Kalahari Reserve, Fireblade Aviation, altri)
 
 ---
 
@@ -198,4 +211,4 @@ CONTROLLO PREZZI GLOBALI
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Gennaio 2026*

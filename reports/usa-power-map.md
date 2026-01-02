@@ -657,7 +657,89 @@ Diane Bryant rappresenta il flusso di talenti Intel → altri semiconduttori:
 | 2017-2018 | Google Cloud COO |
 | 2019-oggi | Broadcom board |
 
-### 14. Stanford-Tech Nexus: L'Accademia come Pipeline
+### 14. Crypto-Political Nexus: Trump e Binance
+
+Il 2024-2025 segna l'emergere di un nuovo pattern: **crypto come strumento di potere presidenziale**.
+
+#### World Liberty Financial: La Crypto di Famiglia
+
+[World Liberty Financial](../docs/company/world-liberty-financial.md) rappresenta il primo caso di **presidente USA con business crypto attivo**:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 2024 |
+| **Ownership** | Trump entity 60%, 75% revenue share |
+| **Management** | Eric Trump, Donald Trump Jr., Zach Witkoff (CEO) |
+| **Prodotti** | $WLFI token, USD1 stablecoin (5° mondiale, $2.7B) |
+| **Profitti Trump** | $1B realizzati + $3B in token (dic 2025) |
+
+**Fondatori e background:**
+
+| Persona | Ruolo | Background |
+|---------|-------|------------|
+| Donald Trump | Founder, 60% ownership | Presidente USA |
+| Eric Trump | Management | Trump Organization |
+| Donald Trump Jr. | Management | Trump Organization |
+| Steve Witkoff | Co-founder | Real estate, $2M donor Trump |
+| Zach Witkoff | CEO | Figlio Steve Witkoff |
+| Chase Herro | Co-founder (Axiom) | Ex-carcerato, "dirtbag of internet" |
+| Zachary Folkman | Co-founder (Axiom) | Ex pickup artist |
+
+#### Il Deal MGX-Binance-USD1
+
+```
+World Liberty Financial ──► USD1 stablecoin ($2B)
+         │                         │
+         │                         v
+         │                  MGX (Abu Dhabi SWF)
+         │                         │
+         │                         v
+         │                  Binance (investment)
+         │                         │
+         └─────────────────────────┘
+                    │
+                    v
+         Grazia presidenziale a CZ
+              (Ott 2025)
+```
+
+| Data | Evento |
+|------|--------|
+| **Gen 2025** | Justin Sun investe $30M in WLFI |
+| **Mar 2025** | Lancio USD1 stablecoin |
+| **Mag 2025** | MGX usa $2B in USD1 per deal Binance |
+| **Set 2024** | CZ rilasciato da carcere federale |
+| **Ott 2025** | Trump concede grazia a CZ |
+
+#### Changpeng Zhao (CZ): Da Carcerato a Graziato
+
+[Changpeng Zhao](../docs/persons/changpeng-zhao.md) incarna il pattern **crypto billionaire → sistema legale → riabilitazione politica**:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Net worth** | $64.8B (Forbes 2025) |
+| **Binance ownership** | ~90% |
+| **Condanna** | Guilty plea Nov 2023 (money laundering, sanctions) |
+| **Pena** | 4 mesi carcere federale (Apr-Set 2024) |
+| **Grazia** | Trump, 23 Ottobre 2025 |
+| **Post-grazia** | Advisor Pakistan, Kyrgyzstan |
+
+**Pattern "Pardon for Business":**
+
+| Elemento | Connessione |
+|----------|-------------|
+| Binance | Riceve $2B investimento via USD1 (Trump stablecoin) |
+| CZ | Graziato 5 mesi dopo il deal |
+| Justin Sun | $30M in WLFI → SEC investigation archiviata |
+
+#### Implicazioni Sistemiche
+
+1. **Crypto come strumento presidenziale**: Prima volta che famiglia presidente ha business crypto attivo
+2. **Stablecoin come leverage**: USD1 usata per deal geopolitici (MGX-Binance)
+3. **Pardon economy**: Grazie presidenziali correlate a deal commerciali
+4. **Regulatory capture**: Investitori WLFI (Justin Sun) vedono indagini archiviate
+
+### 15. Stanford-Tech Nexus: L'Accademia come Pipeline
 
 [John Hennessy](../docs/persons/john-hennessy.md) incarna la connessione Stanford-Silicon Valley:
 
@@ -675,6 +757,97 @@ Diane Bryant rappresenta il flusso di talenti Intel → altri semiconduttori:
 - Sequoia e Kleiner Perkins: partner spesso da Stanford
 - Knight-Hennessy Scholars: $750M per formare futuri leader
 - Stanford Engineering alumni in leadership Big Tech
+
+### 16. Trading Billionaires: Market Making & Prop Trading
+
+Una categoria distinta di billionaires USA emerge dal trading proprietario e market making - diversi sia da PE che da tech founders.
+
+#### I Tre Grandi del Trading
+
+| Persona | Azienda | Net Worth | Pattern |
+|---------|---------|-----------|---------|
+| [Jeff Yass](../docs/persons/jeff-yass.md) | Susquehanna (SIG) | $65B | Poker pro → options trading → ByteDance stake |
+| [Thomas Peterffy](../docs/persons/thomas-peterffy.md) | Interactive Brokers | $57B | Hungarian immigrant → electronic trading pioneer |
+| [Israel Englander](../docs/persons/israel-englander.md) | Millennium Management | $19-26B | AMEX specialist → multi-strategy hedge fund |
+
+#### Pattern Distintivi
+
+**1. Nessuna partecipazione ai forum globali:**
+
+| Persona | Bilderberg | WEF | CFR | Trilateral |
+|---------|------------|-----|-----|------------|
+| Jeff Yass | No | No | No | No |
+| Thomas Peterffy | No | No | No | No |
+| Israel Englander | No | No | No | No |
+
+A differenza di PE billionaires (Schwarzman, Rubenstein) o tech (Nadella, Schmidt), i trading billionaires operano **fuori dai circuiti elite tradizionali**.
+
+**2. Mentor-Protégé Network:**
+
+```
+ISRAEL ENGLANDER (1948)
+         │
+    1981 │ $30k per seggio Philadelphia Stock Exchange
+         │
+         v
+    JEFF YASS (1958)
+         │
+    1987 │ Fonda SIG con amici SUNY Binghamton
+         │
+         v
+SUSQUEHANNA INTERNATIONAL GROUP
+   $65B net worth, 15% ByteDance
+```
+
+**3. Political Giving vs Forum Participation:**
+
+| Persona | Donazioni Politiche | Forum Alternativi |
+|---------|---------------------|-------------------|
+| Jeff Yass | ~$100M 2024 (GOP) | Cato Institute (ex-board), Club for Growth |
+| Thomas Peterffy | ~$7M+ 2024 (GOP) | Common Sense Society (ex-chairman) |
+| Israel Englander | Bipartisan, modesto | Nessuno |
+
+**Insight:** I trading billionaires costruiscono influenza attraverso **donazioni dirette** e **think tank libertari** invece di partecipare a forum globali. Pattern simile ai Koch ma nel settore finanziario.
+
+**4. TikTok/ByteDance Connection:**
+
+[Susquehanna International Group](../docs/company/susquehanna-international-group.md) possiede **15% di ByteDance** (TikTok parent):
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Stake SIG** | 15% ByteDance |
+| **Stake Yass personale** | ~7% (~$21B valore) |
+| **Implicazione** | Maggior investitore USA in TikTok |
+| **Conflitto** | Yass dona $100M a GOP che vuole bannare TikTok |
+
+Trump ha cambiato posizione su TikTok una settimana dopo aver incontrato Yass (marzo 2024).
+
+**5. Hungarian-American Finance Pattern:**
+
+| Persona | Origine | Emigrazione | Settore | Net Worth |
+|---------|---------|-------------|---------|-----------|
+| Thomas Peterffy | Budapest | 1965 | Electronic trading | $57B |
+| George Soros | Budapest | 1947 | Hedge funds | $6.7B |
+
+Entrambi fuggiti dal comunismo, entrambi hanno rivoluzionato la finanza americana, ma **ideologie politiche opposte** (Peterffy = GOP, Soros = Democrat).
+
+**6. Poker-to-Trading Pipeline (Yass):**
+
+```
+SUNY Binghamton (matematica)
+         │
+         v
+Las Vegas (poker professionista)
+         │
+         v
+Philadelphia Stock Exchange (1981)
+         │
+         v
+Susquehanna International Group (1987)
+   "Poker tournaments to train traders"
+```
+
+SIG è nota per usare **tornei di poker** per formare i trader - decisioni rapide sotto incertezza.
 
 ---
 
@@ -917,6 +1090,8 @@ L'analisi rivela otto tipi distinti di potere:
 | **Parallel Network** | Charles Koch | Think tank + grassroots alternative | **Nessuno** (anti-establishment) | Cato, AFP, Heritage |
 | **Economic-Only** | Walton Family | Pure business scale | **Nessuno** | Walmart ($648B revenue) |
 | **Low-Profile Tech** | Michael Dell | Business + selective forum | WEF Honorary (no Bilderberg) | Dell Technologies, DFO |
+| **Crypto-Political** | Trump/WLFI, CZ | Crypto business + presidential power | **Nessuno** | Binance, WLFI, pardon |
+| **Trading No-Forum** | Jeff Yass, Thomas Peterffy | Prop trading/market making wealth | **Nessuno** | SIG, Interactive Brokers, donations |
 
 **Insight chiave:**
 
@@ -932,6 +1107,8 @@ L'analisi rivela otto tipi distinti di potere:
 10. **Walton Family** ($432B) dimostra che il potere economico puro può operare senza engagement politico-istituzionale. Assenti da tutti i forum globali, focus su scala (2.1M dipendenti).
 11. **Michael Dell** rappresenta il modello "low-profile tech": WEF Honorary Board ma no Bilderberg, filantropia ($6.25B donazione 2025) ma non political networking.
 12. **Julia Koch** incarna la transizione generazionale: eredita $74-81B e 42% Koch Industries, ma si concentra su filantropia artistica NYC (Met, Lincoln Center) invece che network politico Koch.
+13. **Trump/WLFI-Binance-CZ** rappresenta un nuovo pattern: crypto come strumento di potere presidenziale. La famiglia del presidente ha un business crypto attivo ($4B+ valore), la cui stablecoin USD1 finanzia deal geopolitici (MGX-Binance), seguiti da grazie presidenziali correlate (CZ). Pattern "Pardon Economy" senza precedenti.
+14. **Trading Billionaires** (Yass, Peterffy, Englander) rappresentano un tipo di potere completamente diverso: nessuna partecipazione ai forum globali, influenza costruita attraverso donazioni politiche dirette (~$100M+ Yass 2024) e think tank libertari (Cato, Club for Growth). Il caso Englander→Yass (1981) mostra come il mentorship nel trading crea dynasty finanziarie. Il conflitto Yass (7% ByteDance + $100M GOP donor) illustra le tensioni tra interessi business e posizioni partito.
 
 **Implicazione**: Il potere si sta stratificando. Alcuni (Huang) controllano infrastruttura, altri (Nadella) sono nel cerchio interno dei forum, altri (Peterson) accumulano governance, altri (Rubenstein) controllano le istituzioni che definiscono la foreign policy. Le combinazioni determinano l'influenza reale.
 
@@ -985,9 +1162,21 @@ L'analisi rivela otto tipi distinti di potere:
 | **Economic-Only Dynasty** | Walton ($432B) no forum engagement | Business scale = power |
 | **Low-Profile Tech Billionaire** | Michael Dell (WEF Honorary, no Bilderberg) | Selective forum access |
 | **Sports Ownership Power** | Rob Walton (Broncos $4.65B), Rubenstein (Orioles) | PE/Dynasty → sports |
+| **Crypto-Presidential Nexus** | Trump/WLFI → Binance → CZ pardon | Crypto as political tool |
+| **Pardon Economy** | CZ graziato 5 mesi dopo deal MGX-Binance-USD1 | Business deal → presidential pardon |
+| **Stablecoin Geopolitics** | USD1 ($2.7B) per deal Abu Dhabi-Binance | Crypto infrastructure as leverage |
 | **Conservation Philanthropy** | Rob Walton (Conservation Int'l, African Parks) | Environment as soft power |
 | **Widow Matriarch Inheritance** | Julia Koch (42% Koch Industries, $74-81B) | Dynastic wealth transfer |
 | **Arts Philanthropy vs Political Network** | Julia Koch (Met, Lincoln Center) vs Charles Koch (AFP) | Different power strategies |
+| **Trading Billionaire No-Forum** | Yass, Peterffy, Englander (no Bilderberg/WEF/CFR) | Power via donations not forums |
+| **Mentor → Protégé Trading** | Englander → Yass ($30k 1981 → $65B 2025) | Trading dynasty creation |
+| **Poker → Trading Pipeline** | Yass (Vegas poker → SIG traders use poker) | Decision-making training |
+| **Hungarian Finance Diaspora** | Peterffy, Soros (Budapest → Wall Street) | Opposite ideologies, same origin |
+| **Electronic Trading Pioneer** | Peterffy (first automated trading 1977-1986) | Structural transformation |
+| **School Choice as Political Lever** | Yass ($41.7M Students First, candidate filter) | Single-issue mega-donor |
+| **TikTok Investor → GOP Donor Conflict** | Yass ($100M GOP, 7% ByteDance) | Business vs party position |
+| **PE founder → Trump Advisor** | Schwarzman (Strategic Policy Forum Chair 2017) | PE-White House direct line |
+| **Newsmax Conservative Media Stake** | Peterffy ~25% ($6B+ value post-IPO 2025) | Trading wealth → media influence |
 
 ---
 
@@ -1023,6 +1212,12 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 | **Rob Walton** | Person | `docs/persons/rob-walton.md` |
 | **Julia Koch** | Person | `docs/persons/julia-koch.md` |
 | **Famiglia Koch** | Family | `docs/family/koch.md` |
+| **Changpeng Zhao** | Person | `docs/persons/changpeng-zhao.md` |
+| **World Liberty Financial** | Company | `docs/company/world-liberty-financial.md` |
+| **Thomas Peterffy** | Person | `docs/persons/thomas-peterffy.md` |
+| **Stephen Schwarzman** | Person | `docs/persons/stephen-schwarzman.md` |
+| **Jeff Yass** | Person | `docs/persons/jeff-yass.md` |
+| **Israel Englander** | Person | `docs/persons/israel-englander.md` |
 
 **Organizzazioni create (stub):**
 | Organizzazione | Tipo | Note |
@@ -1062,8 +1257,21 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 | **BSE Global** | Company | Julia Koch 15% stake (Brooklyn Nets) |
 | **New York Giants** | SportsClub | Julia Koch 10% stake 2025 |
 | **Technology CEO Council** | Forum | Michael Dell member |
+| **Binance** | Company | Largest crypto exchange, CZ founder |
+| **OKCoin** | Company | Crypto exchange, CZ was CTO |
+| **Bloomberg L.P.** | Company | Financial data, CZ early career |
+| **Fusion Systems** | Company | HFT software, CZ founder |
+| **Governo Pakistan** | Government | CZ advisor 2024 |
+| **Governo Kyrgyzstan** | Government | CZ advisor 2025 |
 | **DFO Management** | PrivateEquity | Michael Dell family office (ex MSD Capital) |
 | **Michael & Susan Dell Foundation** | Foundation | Michael Dell founder 1999 |
+| **Interactive Brokers** | Company | Trading/brokerage, Thomas Peterffy founder 1993 |
+| **Timber Hill** | Company | Market making, Thomas Peterffy founder 1982 |
+| **Newsmax** | Media | TV conservativa, Peterffy ~25% stake |
+| **Common Sense Society** | Foundation | Think tank conservatore, Peterffy ex-chairman |
+| **Susquehanna International Group** | Company | Prop trading/market making, Jeff Yass founder 1987 |
+| **Club for Growth** | ThinkTank | PAC anti-tasse, Yass major donor |
+| **Millennium Management** | Company | Multi-strategy hedge fund, Englander founder 1989 |
 
 **Persone aggiunte al DB:**
 | Persona | Nazionalita' | Ruoli chiave |
@@ -1110,6 +1318,18 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 | [David Koch](../docs/persons/david-koch.md) | USA | Koch Industries EVP, **AFP founder** (1940-2019) |
 | Frederick Koch | USA | Koch family, patron arts (1933-2020) |
 | William Koch | USA | Koch family, estranged (1940-) |
+| [Changpeng Zhao](../docs/persons/changpeng-zhao.md) | CHN-CAN | **Binance founder**, $64.8B, graziato Trump 2025 |
+| Donald Trump Jr. | USA | World Liberty Financial management |
+| Eric Trump | USA | World Liberty Financial management |
+| Steve Witkoff | USA | WLFI co-founder, Trump donor |
+| Zach Witkoff | USA | WLFI CEO |
+| Chase Herro | USA | WLFI co-founder (Axiom) |
+| Zachary Folkman | USA | WLFI co-founder (Axiom) |
+| Justin Sun | CHN | WLFI investor $30M, Tron founder |
+| [Thomas Peterffy](../docs/persons/thomas-peterffy.md) | HUN-USA | Interactive Brokers founder, $57B, GOP donor |
+| [Stephen Schwarzman](../docs/persons/stephen-schwarzman.md) | USA | Blackstone co-founder/CEO, $50B, Trump advisor |
+| [Jeff Yass](../docs/persons/jeff-yass.md) | USA | SIG founder, $65B, ByteDance 7%, Cato ex-board |
+| [Israel Englander](../docs/persons/israel-englander.md) | USA | Millennium Management founder, $19-26B, mentor Yass |
 
 **Organizzazioni aggiunte/aggiornate:**
 | Organizzazione | Tipo | Note |
@@ -1169,6 +1389,27 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 - **Julia Koch → BSE Global (15%) + NY Giants (10%)** (sports investments)
 - **Charles Koch → Koch Industries (chairman) + Cato Institute (founder) + AFP (founder)** (parallel political network)
 - **Family Koch → MEMBER_OF (fred, charles, david, frederick, william, julia)** (dinastia completa)
+- **World Liberty Financial → Binance** (STAKE_IN via MGX deal $2B USD1)
+- **Changpeng Zhao → Binance** (founder 2017-2023)
+- **Changpeng Zhao → Bloomberg, Fusion Systems, OKCoin** (career path)
+- **Changpeng Zhao → Governo Pakistan, Governo Kyrgyzstan** (advisor 2024-2025)
+- **Trump family → World Liberty Financial** (60% ownership, 75% revenue)
+- **Justin Sun → World Liberty Financial** (investor $30M)
+- **Thomas Peterffy → Interactive Brokers** (founder 1993, pioneer electronic trading)
+- **Thomas Peterffy → Newsmax** (~25% stake via Conyers Investments)
+- **Thomas Peterffy → Common Sense Society** (chairman 2021-2023)
+- **Jeff Yass → Susquehanna International Group** (co-founder 1987, 51% ownership)
+- **Jeff Yass → ByteDance** (~7% stake personale, ~$21B valore)
+- **Jeff Yass → Cato Institute** (board, Vice Chairman fino 2022)
+- **Jeff Yass → Club for Growth** (major donor $32M+)
+- **Israel Englander → Millennium Management** (founder 1989, Chairman/CEO)
+- **Israel Englander → Jeff Yass** (mentor 1981, $30k per seggio Philadelphia SE)
+- **Stephen Schwarzman → Blackstone** (co-founder 1985, Chairman/CEO)
+- **Stephen Schwarzman → Lehman Brothers** (Managing Director 1972-1985)
+- **Stephen Schwarzman → Peter Peterson** (mentor, co-founder Blackstone)
+- **Stephen Schwarzman → Governo USA** (advisor Trump, Strategic Policy Forum Chair 2017)
+- **Stephen Schwarzman → Bilderberg** (partecipante)
+- **Susquehanna → ByteDance** (15% stake, TikTok parent)
 
 ---
 
@@ -1203,4 +1444,4 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 
 ---
 
-*Ultimo aggiornamento: 1 Gennaio 2026 - Aggiunte dinastie Koch e Walton, pattern "Parallel Network" (Koch) vs forum tradizionali, Michael Dell come "Low-Profile Tech Billionaire", Julia Koch transizione generazionale, Rob Walton sports ownership, 11 tipi di potere (da 8)*
+*Ultimo aggiornamento: 1 Gennaio 2026 - Aggiunta sezione 16 "Trading Billionaires" (Yass, Peterffy, Englander), pattern mentor-protégé trading, Hungarian finance diaspora, TikTok investor conflict, Schwarzman scheda completa*

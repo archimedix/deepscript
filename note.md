@@ -1,14 +1,13 @@
 
-Analizza la mappa del potere in Messico e le connessioni con il resto del mondo tenendo conto dei dati già emersi. Crea un report di entità e di persone rilevanti. Cobntrolla le eventuali connessioni già presenti e aggiungi quelli mancanti nel db per affinare i dati. 
+Analizza la mappa del potere negli Emirati Arabi uniti (UAE) e le connessioni con il resto del mondo tenendo conto dei dati già emersi. Crea un report di entità e di persone rilevanti. Cobntrolla le eventuali connessioni già presenti e aggiungi quelli mancanti nel db per affinare i dati. 
 
 Ora crea il report sulla mappa del potere in Canada, integrando le informazioni e le connessioni rilevanti. La aggiornerò in un secondo momento analizzando nuovi dati
 
-Ora puoi aggiornare il file big-tech-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+Ora puoi aggiornare il file military-industrial-complex.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
 Ora puoi aggiornare il file usa-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
-Ora puoi aggiornare il file canada-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+Ora puoi aggiornare il file india-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
-SudaFrica
 categoria Banche
 categoria intelligence
 categoria Aerospace

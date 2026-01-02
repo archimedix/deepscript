@@ -166,12 +166,27 @@ Brands    Investments
 | [Anton Rupert](../persons/anton-rupert.md) | Fondatore, 1a gen |
 | [Johann Rupert](../persons/johann-rupert.md) | Patriarch, 2a gen |
 
+### Stellenbosch Network
+
+La famiglia Rupert e' al centro della cosiddetta "Stellenbosch Mafia" - network informale di miliardari afrikaner legati all'Universita' di Stellenbosch.
+
+| Persona | Azienda | Connessione |
+|---------|---------|-------------|
+| [Koos Bekker](../persons/koos-bekker.md) | Naspers/Prosus | Fellow alumni Stellenbosch |
+| [Christo Wiese](../persons/christo-wiese.md) | Shoprite | Fellow alumni Stellenbosch |
+| [Jannie Mouton](../persons/jannie-mouton.md) | PSG Group | Fellow alumni Stellenbosch |
+| [GT Ferreira](../persons/gt-ferreira.md) | FirstRand | Co-fondatore RMB con Johann |
+| [Paul Harris](../persons/paul-harris.md) | FirstRand | Co-fondatore RMB con Johann |
+| [Whitey Basson](../persons/whitey-basson.md) | Shoprite | Fellow alumni Stellenbosch |
+
 ### Organizzazioni
 
 | Entita' | Relazione |
 |---------|-----------|
 | [Richemont](../company/richemont.md) | Holding luxury, controllo |
 | [Remgro](../company/remgro.md) | Holding SA, controllo |
+| [FirstRand](../bank/firstrand.md) | Johann co-fondatore RMB (1979) |
+| [Stellenbosch University](../university/stellenbosch-university.md) | Alma mater Johann e Anton |
 | [Peace Parks Foundation](../foundation/peace-parks-foundation.md) | Fondazione conservazione |
 | [Laureus Foundation](../foundation/laureus-foundation.md) | Fondazione sport |
 | [WEF](../forum/wef.md) | Johann GLT 1992 |
@@ -180,7 +195,7 @@ Brands    Investments
 
 | Famiglia | Connessione |
 |----------|-------------|
-| Rothschild | JV vini (Rupert & Rothschild Vignerons) |
+| [Rothschild](../family/rothschild.md) | JV vini (Rupert & Rothschild Vignerons) |
 | [Oppenheimer](../family/oppenheimer.md) | Fellow SA dynasty, diamanti/luxury |
 
 ---
@@ -232,7 +247,7 @@ Brands    Investments
 ## Domande Aperte
 
 - [ ] Piano successione dopo Johann (Anton Jr.?)
-- [ ] Connessioni Bilderberg (Johann nega ma non verificato)
+- [x] ~~Connessioni Bilderberg~~ Non risulta partecipazione documentata (2024-2025)
 - [ ] Evoluzione partnership Rothschild
 
 ---
@@ -253,4 +268,4 @@ Brands    Investments
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Gennaio 2026*

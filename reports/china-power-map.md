@@ -86,29 +86,48 @@ La Cina e' uno **stato a partito unico** dove il potere reale risiede nel **Poli
 | [Pan Gongsheng](../persons/pan-gongsheng.md) | PBOC Governor | ✓ |
 | [Jin Liqun](../persons/jin-liqun.md) | AIIB President | ✓ |
 
-#### Tech Billionaires (completo)
+#### Billionaires Cinesi (Top 10 + chiave)
 
-| Nome | Azienda | Net Worth 2025 | Status DB |
-|------|---------|----------------|-----------|
-| [Zhang Yiming](../persons/zhang-yiming.md) | ByteDance/TikTok | $65.5B (#1 Cina) | ✓ |
-| [Pony Ma](../persons/pony-ma.md) | Tencent | $63B (#2 Cina) | ✓ |
-| [Jack Ma](../persons/jack-ma.md) | Alibaba, Ant Group | $27B | ✓ |
-| [Ren Zhengfei](../persons/ren-zhengfei.md) | Huawei | $1.5-2B | ✓ TIME100 AI 2025 |
-| [Joe Tsai](../persons/joe-tsai.md) | Alibaba Chairman | ~$10B | ✓ + Brooklyn Nets owner |
-| [Eddie Wu](../persons/eddie-wu.md) | Alibaba CEO | - | ✓ nuovo |
+| Rank | Nome | Azienda | Net Worth 2025 | Forum | Status DB |
+|------|------|---------|----------------|-------|-----------|
+| #1 | [Zhong Shanshan](../persons/zhong-shanshan.md) | Nongfu Spring, Wantai | $65.9B | **Nessuno** ("Lone Wolf") | ✓ nuovo |
+| #2 | [Zhang Yiming](../persons/zhang-yiming.md) | ByteDance/TikTok | $65.5B | Nessuno (Singapore) | ✓ |
+| #3 | [Pony Ma](../persons/pony-ma.md) | Tencent | $63B | WEF (ex) | ✓ |
+| #4 | [Robin Zeng](../persons/robin-zeng.md) | CATL | $57.5B | **WEF Davos**, Summer Davos Co-chair | ✓ nuovo |
+| #5 | [Lei Jun](../persons/lei-jun.md) | Xiaomi | $42.6B | **NPC Deputy** (allineato) | ✓ |
+| - | [Jack Ma](../persons/jack-ma.md) | Alibaba, Ant Group | $27B | WEF (ex), riabilitato | ✓ |
+| - | [He Xiangjian](../persons/he-xiangjian.md) | Midea | $23.7B | **Nessuno** (parla solo cantonese) | ✓ nuovo |
+| - | [Ren Zhengfei](../persons/ren-zhengfei.md) | Huawei | $1.5-2B | WEF | ✓ TIME100 AI 2025 |
+| - | [Joe Tsai](../persons/joe-tsai.md) | Alibaba Chairman | ~$10B | - | ✓ + Brooklyn Nets owner |
+
+**Pattern Forum**:
+- **WEF attivi**: Robin Zeng (CATL), Ren Zhengfei (Huawei)
+- **"Lone Wolf"**: Zhong Shanshan (Nongfu) - mai interviste, mai forum
+- **Emigrati**: Zhang Yiming (Singapore), Jack Ma (Tokyo/rientrato)
+- **Allineati**: Lei Jun (NPC Deputy) - unico tech tycoon ancora in organi politici
 
 #### Imprenditori e Manager Chiave
 
 | Nome | Azienda | Ruolo | Status DB |
 |------|---------|-------|-----------|
-| [Liu Chuanzhi](../persons/liu-chuanzhi.md) | Legend Holdings | Founder, "Godfather" | ✓ nuovo |
-| [Ning Min](../persons/ning-min.md) | Legend Holdings | Chairman | ✓ nuovo |
-| [Yu Minliang](../persons/yu-minliang.md) | Jin Jiang International | Chairman & CEO | ✓ nuovo |
-| [Liang Rubo](../persons/liang-rubo.md) | ByteDance | CEO | ✓ aggiornato |
-| [Shou Chew](../persons/shou-chew.md) | TikTok | CEO | ✓ aggiornato |
-| [Lei Jun](../persons/lei-jun.md) | Xiaomi, Kingsoft, Shunwei | Founder/Chairman, NPC | ✓ nuovo |
-| [Dai Houliang](../persons/dai-houliang.md) | CNPC/PetroChina | Chairman | ✓ nuovo |
-| [Gu Shu](../persons/gu-shu.md) | Agricultural Bank of China | Chairman | ✓ nuovo |
+| [Liu Chuanzhi](../persons/liu-chuanzhi.md) | Legend Holdings | Founder, "Godfather" | ✓ |
+| [Ning Min](../persons/ning-min.md) | Legend Holdings | Chairman | ✓ |
+| [Yu Minliang](../persons/yu-minliang.md) | Jin Jiang International | Chairman & CEO | ✓ |
+| [Liang Rubo](../persons/liang-rubo.md) | ByteDance | CEO | ✓ |
+| [Shou Chew](../persons/shou-chew.md) | TikTok | CEO | ✓ |
+| [Dai Houliang](../persons/dai-houliang.md) | CNPC/PetroChina | Chairman | ✓ |
+| [Gu Shu](../persons/gu-shu.md) | Agricultural Bank of China | Chairman | ✓ |
+| [Fang Hongbo](../persons/fang-hongbo.md) | Midea Group | Chairman & CEO | ✓ nuovo |
+| [Huang Shilin](../persons/huang-shilin.md) | CATL | Co-founder, ex Vice Chairman | ✓ nuovo |
+| [Pan Jian](../persons/pan-jian.md) | CATL | Co-Chairman, **Aspen**, WEF | ✓ nuovo |
+
+#### Successioni Notevoli
+
+| Azienda | Modello | Fondatore | Successore | Note |
+|---------|---------|-----------|------------|------|
+| **Midea** | Manager professionale | He Xiangjian | Fang Hongbo (2012) | Figlio escluso dal board 2024 |
+| **ByteDance** | Co-fondatore | Zhang Yiming | Liang Rubo (2021) | College roommate |
+| **CATL** | Fondatore attivo | Robin Zeng | - | Pan Jian Co-Chairman |
 
 ### Connessioni Cina-Occidente mappate
 
@@ -125,6 +144,10 @@ La Cina e' uno **stato a partito unico** dove il potere reale risiede nel **Poli
 | Vanguard → Alibaba | **13.39%** | Maggiore azionista istituzionale |
 | BlackRock → Alibaba | 3.02% | Asset manager USA |
 | SoftBank → Alibaba | 0% (exit 2024) | Ex ~25%, ROI 3000x su $20M |
+| **CATL - Investitori Globali** | | |
+| BlackRock → CATL | **5.45%** | H-shares (Dic 2025) |
+| Kuwait Investment Authority → CATL | cornerstone | $500M IPO HK 2025 |
+| Sinopec → CATL | cornerstone | $500M IPO HK 2025 |
 | **Tech - Investitori USA in ByteDance** | | |
 | Susquehanna (SIG) → ByteDance | 15% stake | Primo investitore 2012, board seat |
 | Sequoia Capital → ByteDance | investor | Neil Shen board seat |
@@ -392,6 +415,52 @@ Investitori USA      Zhang Yiming       Dipendenti
 | **Precedente** | Prima app consumer bannata per sicurezza nazionale |
 | **Messaggio** | Proprieta' USA irrilevante se controllo e' cinese |
 | **Ironia** | Investitori USA (SIG 15%, Sequoia, GA, KKR) perdono |
+
+---
+
+## CATL e la Dominanza Cinese nelle Batterie EV
+
+### Il Re delle Batterie
+
+[CATL](../company/catl.md) (Contemporary Amperex Technology) e' il piu' grande produttore mondiale di batterie EV con **37% del market share globale**. Fondata nel 2011 da [Robin Zeng](../persons/robin-zeng.md), fornisce batterie a Tesla, BMW, VW, Mercedes.
+
+```
+                    CATL - $166B valutazione
+                              │
+         ┌────────────────────┼────────────────────┐
+         │                    │                    │
+    FONDATORI            INVESTITORI           CLIENTI
+         │                    │                    │
+   Robin Zeng (31%)    BlackRock 5.45%         Tesla
+   Huang Shilin (10%)  KIA $500M              BMW
+   Pan Jian            Sinopec $500M          VW
+         │                                     Mercedes
+         │
+    FORUM CONNECTIONS
+    - WEF Davos (Zeng, Pan)
+    - Aspen (Pan Jian)
+```
+
+### Leadership CATL e Connessioni Forum
+
+| Nome | Ruolo | Forum | Note |
+|------|-------|-------|------|
+| [Robin Zeng](../persons/robin-zeng.md) | Founder, Chairman, CEO | **WEF Davos**, Summer Davos Co-chair 2023 | $57.5B, ACFIC Vice Chairman |
+| [Pan Jian](../persons/pan-jian.md) | Co-founder, Co-Chairman | **WEF Davos 2025**, **Aspen AGLN** | University of Chicago |
+| [Huang Shilin](../persons/huang-shilin.md) | Co-founder, ex Vice Chairman | - | 10.6% stake, dimesso Ago 2024, $24.3B |
+
+**Insight**: A differenza di altri tech billionaires cinesi (emigrati o basso profilo), Robin Zeng e Pan Jian sono **molto attivi nei forum occidentali** - strategia per navigare le tensioni geopolitiche.
+
+### Pentagon CMC List 2025
+
+CATL e Tencent sono state aggiunte alla lista del Pentagono delle "Chinese Military Companies" nel gennaio 2025:
+
+| Azienda | Data CMC List | Risposta | Impatto |
+|---------|---------------|----------|---------|
+| [CATL](../company/catl.md) | 7 Gen 2025 | "Designazione errata", azione legale | Ban acquisti DoD da Ott 2027 |
+| [Tencent](../company/tencent.md) | 7 Gen 2025 | Protesta | - |
+
+**Pattern**: Il governo USA sta usando la CMC List per colpire aziende cinesi strategiche anche senza prove di coinvolgimento militare diretto.
 
 ---
 
@@ -900,6 +969,10 @@ Huawei e' l'**unica** grande tech cinese **senza capitale occidentale**.
 - [x] Agricultural Bank of China → **Gu Shu Chairman (2021-), $5.6T assets, ex ICBC President**
 - [x] Big Three Oil → **PetroChina/CNPC documentata. Dai Houliang Chairman (2020-), $244B market cap, SASAC controlla**
 - [x] Xiaomi + Lei Jun → **Lei Jun fondatore, $42.6B, NPC Deputy dal 2013 - tech tycoon "allineato"**
+- [x] CATL e Robin Zeng → **Robin Zeng $57.5B, CATL 37% market share, BlackRock 5.45%, CMC List Gen 2025**
+- [x] Pan Jian (CATL Co-Chairman) → **Aspen AGLN member, WEF Davos 2025 speaker, University of Chicago**
+- [x] Zhong Shanshan (Nongfu Spring) → **$65.9B #1 Cina, "Lone Wolf" - nessun forum, nessuna intervista**
+- [x] He Xiangjian (Midea) → **$23.7B, successione a manager professionale 2012, figlio escluso dal board 2024**
 - [ ] Documentare China Unicom e China Telecom
 - [ ] Documentare Sinopec e CNOOC (Big Three Oil)
 
@@ -989,6 +1062,20 @@ Huawei e' l'**unica** grande tech cinese **senza capitale occidentale**.
 - [Britannica - Lei Jun](https://www.britannica.com/money/Lei-Jun)
 - [The Motley Fool - Who Owns Xiaomi](https://www.fool.com/investing/how-to-invest/stocks/who-owns-xiaomi/)
 
+### CATL e Batterie EV
+- [Wikipedia - Robin Zeng](https://en.wikipedia.org/wiki/Robin_Zeng)
+- [Wikipedia - CATL](https://en.wikipedia.org/wiki/CATL)
+- [CATL Investor Relations](https://www.catl.com/en/inverelations/)
+- [Fortune - Davos 2024](https://fortune.com/asia/2024/01/22/catl-ceo-robin-zeng-davos-world-economic-forum-geopolitics-ev-batteries/)
+- [MarketScreener - BlackRock 5.45%](https://www.marketscreener.com/news/blackrock-s-long-position-in-h-shares-of-catl-increases-to-5-45-on-dec-1-hkex-says-ce7d51dfda8ff425)
+- [Defense News - Pentagon CMC List](https://www.defensenews.com/pentagon/2025/01/07/pentagon-blacklists-chinese-tech-firms-over-alleged-military-ties/)
+
+### Billionaires Cinesi
+- [Wikipedia - Zhong Shanshan](https://en.wikipedia.org/wiki/Zhong_Shanshan)
+- [Wikipedia - He Xiangjian](https://en.wikipedia.org/wiki/He_Xiangjian)
+- [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/)
+- [SCMP - Midea succession](https://www.scmp.com/business/companies/article/3089956/midea-billionaire-founder-kidnap-victim-and-model-reformer)
+
 ---
 
-*Ultimo aggiornamento: 28 Dicembre 2025 - Completate Big Four Banks (ABC aggiunta), Big Three Oil (PetroChina/CNPC), Xiaomi/Lei Jun, SASAC, pattern rotazione leadership banche/telecom/oil*
+*Ultimo aggiornamento: 1 Gennaio 2026 - Aggiunti: Zhong Shanshan (Nongfu, #1 Cina), Robin Zeng/CATL (BlackRock 5.45%, CMC List), He Xiangjian/Midea, Pan Jian (Aspen), pattern forum billionaires*
