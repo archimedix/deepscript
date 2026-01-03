@@ -629,12 +629,35 @@ organizations:
       from: 1996
       to: 1999
       note: Board member, control via Forus Services
+  aerojet-rocketdyne:
+    name: Aerojet Rocketdyne
+    type: defense
+    founded: 1942
+    headquarters: El Segundo, California, USA
+    status: subsidiary
+    sector: propulsion
+    stakeholders:
+    - org: l3harris
+      role: owner
+      share: 100
+      from: 2023
+      note: Acquired for $4.7B
   aeromobil:
     name: AeroMobil
     type: company
     stakeholders:
     - person: martin-bruncko
       role: executive
+  aerospace-industries-association:
+    name: Aerospace Industries Association
+    type: agency
+    founded: 1919
+    headquarters: Arlington, USA
+    status: active
+    stakeholders:
+    - person: christopher-calio
+      role: board
+      note: Executive Committee, Board of Governors
   aetion:
     name: Aetion Inc.
     type: company
@@ -766,6 +789,23 @@ organizations:
       role: partner
       from: 2018
       note: Managing General Partner
+  ai-infrastructure-partnership:
+    name: AI Infrastructure Partnership
+    type: company
+    founded: 2024
+    headquarters: USA
+    status: active
+    sector: AI infrastructure
+    stakeholders:
+    - org: blackrock
+      role: founding-member
+      from: 2024
+    - org: microsoft
+      role: founding-member
+      from: 2024
+    - org: mgx
+      role: founding-member
+      from: 2024
   aib:
     name: Allied Irish Banks
     type: bank
@@ -808,6 +848,9 @@ organizations:
       from: 1990
       to: 1994
       note: AIG Financial Products UK, Banque AIG Paris
+    - person: anastasia-kelly
+      role: executive
+      note: EVP & General Counsel, Vice Chairman
   aiib:
     name: Asian Infrastructure Investment Bank
     type: bank
@@ -868,6 +911,10 @@ organizations:
       role: executive
       from: 1954
       to: 1974
+    - person: haim-saban
+      role: donor
+      from: 2002
+      note: major donor $2M+
   air-france-klm:
     name: Air France-KLM
     type: company
@@ -1212,6 +1259,31 @@ organizations:
       from: 2000
       to: 2024
       note: Divested; was major shareholder since 2000 ($20M investment)
+  aligned-data-centers:
+    name: Aligned Data Centers
+    type: company
+    founded: 2018
+    headquarters: Dallas, USA
+    status: active
+    sector: data centers
+    stakeholders:
+    - org: mgx
+      role: owner
+      from: 2025
+      note: $40B acquisition with BlackRock/GIP
+  alion-science:
+    name: Alion Science and Technology
+    type: defense
+    founded: 1995
+    headquarters: McLean, Virginia, USA
+    status: subsidiary
+    sector: defense-technology
+    stakeholders:
+    - org: huntington-ingalls
+      role: owner
+      share: 100
+      from: 2021
+      note: Acquired for $1.65B from Veritas Capital
   alior-bank:
     name: Alior Bank
     type: bank
@@ -1657,6 +1729,19 @@ organizations:
     - person: stephen-wise
       role: founder
       from: 1918
+  american-tower:
+    name: American Tower Corporation
+    type: company
+    founded: 1995
+    headquarters: Boston, USA
+    status: active
+    sector: telecom
+    stakeholders:
+    - person: james-taiclet
+      role: executive
+      from: 2001
+      to: 2020
+      note: COO 2001, CEO 2003, Chairman 2004
   american-university:
     name: American University
     type: university
@@ -3317,6 +3402,27 @@ organizations:
       role: subsidiary
       from: 2019
       note: Consolidated subsidiary, 10th largest bank Indonesia
+  bank-hapoalim:
+    name: Bank Hapoalim
+    type: bank
+    founded: 1921
+    headquarters: Tel Aviv, Israel
+    status: active
+    stakeholders:
+    - person: ted-arison
+      role: owner
+      from: 1996
+      to: 1999
+    - person: shari-arison
+      role: owner
+      from: 1999
+      to: 2019
+  bank-leumi:
+    name: Bank Leumi
+    type: bank
+    founded: 1902
+    headquarters: Tel Aviv, Israel
+    status: active
   bank-menatep:
     name: Bank Menatep
     type: bank
@@ -3492,6 +3598,12 @@ organizations:
       share: 7.27%
     - org: vanguard
       share: 4.8%
+  bank-of-israel:
+    name: Bank of Israel
+    type: centralbank
+    founded: 1954
+    headquarters: Jerusalem, Israel
+    status: active
   bank-of-japan:
     name: Bank of Japan
     type: centralbank
@@ -4047,6 +4159,10 @@ organizations:
       role: executive
       from: 1986
       note: Vice Chairman Insurance Operations dal 2018
+    - person: eitan-wertheimer
+      role: board
+      from: 2006
+      note: post-acquisition
     - org: blackrock
       role: stake
       share: 0.08
@@ -5476,6 +5592,19 @@ organizations:
       role: executive
       from: 2024
       note: COO, then President Commercial Airplanes
+    - person: kirkland-donald
+      role: advisor
+      from: 2024
+      note: Special Advisor Quality Review
+    - person: tom-bell
+      role: executive
+      to: 2023
+      note: SVP Global Sales, Defense Space & Security
+    - person: roger-krone
+      role: executive
+      from: 1997
+      to: 2014
+      note: President Network & Space Systems
   bogasari:
     name: Bogasari Flour Mills
     type: company
@@ -6260,6 +6389,10 @@ organizations:
       note: Board Member
     - person: michael-dell
       role: member
+    - person: james-taiclet
+      role: member
+    - person: christopher-calio
+      role: member
   bvb:
     name: Bucharest Stock Exchange
     type: company
@@ -6666,6 +6799,9 @@ organizations:
       role: advisor
       from: 2014
       note: Partner/MD 2014-23, Senior Advisor 2024-
+    - person: roger-fradin
+      role: advisor
+      note: Operating Executive
     - org: adia
       role: investor
   carnegie:
@@ -6748,6 +6884,8 @@ organizations:
     - person: albert-bourla
       role: board
     - person: michael-dell
+      role: board
+    - person: james-taiclet
       role: board
   catalyst4:
     name: Catalyst4
@@ -7504,6 +7642,21 @@ organizations:
       from: 1948
       to: 1960
       note: Councillor
+  check-point:
+    name: Check Point Software
+    type: company
+    founded: 1993
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: cybersecurity
+    stakeholders:
+    - person: shlomo-kramer
+      role: founder
+      from: 1993
+    - person: nir-zuk
+      role: executive
+      from: 1994
+      to: 1999
   chelsea-fc:
     name: Chelsea Football Club
     type: sportsclub
@@ -7824,6 +7977,11 @@ organizations:
     - person: mike-vickers
       role: officer
       note: Operations officer, Afghan program
+    - person: stephanie-osullivan
+      role: executive
+      from: 1995
+      to: 2011
+      note: Associate Deputy Director, Dir S&T
     - org: oss
       role: predecessor
       from: 1942
@@ -8268,6 +8426,12 @@ organizations:
       role: founder
       from: 2007
       note: Co-Founder, Chair Board of Directors
+    - person: mike-petters
+      role: advisor
+      note: Board of Advisors
+    - person: roger-krone
+      role: board
+      note: Board of Directors
   cnbc:
     name: CNBC
     type: media
@@ -9229,6 +9393,20 @@ organizations:
       from: 1993
       to: 2022
       note: Co-Founder, Co-Chairman, stepped down 2022
+  cyberark:
+    name: CyberArk
+    type: company
+    founded: 1999
+    headquarters: Petah Tikva, Israel
+    status: active
+    sector: cybersecurity
+    stakeholders:
+    - person: udi-mokady
+      role: founder
+      from: 1999
+    - person: udi-mokady
+      role: chairman
+      from: 2022
   d-e-shaw:
     name: D.E. Shaw
     type: privateequity
@@ -9303,6 +9481,23 @@ organizations:
       role: partner
       from: 2008
       note: DRC copper/cobalt. Scandalo corruzione 2024
+  dan-hotels:
+    name: Dan Hotels
+    type: company
+    founded: 1947
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: hospitality
+    stakeholders:
+    - person: michael-federmann
+      role: chairman
+      from: 1989
+      to: 2023
+    - person: gideon-federmann
+      role: chairman
+      from: 2023
+    - org: federmann-enterprises
+      role: owner
   danone:
     name: Danone SA
     type: company
@@ -9521,6 +9716,22 @@ organizations:
       from: 1940
       to: 1945
       note: Supervisory board
+  delek-group:
+    name: Delek Group
+    type: company
+    founded: 1951
+    headquarters: Netanya, Israel
+    status: active
+    sector: energy
+    stakeholders:
+    - person: yitzhak-tshuva
+      role: chairman
+      from: 1998
+    - org: mubadala
+      role: investor
+      share: 22
+      from: 2021
+      note: Tamar gas field $1B
   delfin:
     name: Delfin S.à r.l.
     type: company
@@ -10559,6 +10770,33 @@ organizations:
       from: 1952
       to: 1956
       note: Secretary General, High Authority
+  edge-group:
+    name: EDGE Group
+    type: defense
+    founded: 2019
+    headquarters: Abu Dhabi, UAE
+    status: active
+    sector: defense-technology
+    stakeholders:
+    - person: mohammed-bin-zayed
+      role: founder
+      from: 2019
+      note: Annuncio pubblico creazione EDGE
+    - person: faisal-al-bannai
+      role: founder
+      from: 2019
+      note: Founder & first CEO
+    - person: faisal-al-bannai
+      role: chairman
+      from: 2022
+      note: Chairman of the Board
+    - person: hamad-al-marar
+      role: executive
+      from: 2024
+      note: Managing Director & CEO
+    - org: governo-uae
+      share: 100%
+      note: State-owned defense conglomerate
   edison:
     name: Edison
     type: company
@@ -10745,6 +10983,17 @@ organizations:
     - person: nemir-kirdar
       role: board
       note: Trustee; Nemir Kirdar Fellowship created 2018
+  el-ad-group:
+    name: El-Ad Group
+    type: company
+    founded: 1978
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: real estate
+    stakeholders:
+    - person: yitzhak-tshuva
+      role: founder
+      from: 1978
   el-pais:
     name: El País
     type: media
@@ -10788,6 +11037,17 @@ organizations:
       role: executive
       from: 2013
       note: CEO
+    - person: michael-federmann
+      role: chairman
+      from: 2000
+      to: 2023
+    - person: david-federmann
+      role: chairman
+      from: 2023
+      note: Vice Chair 2015-2023
+    - org: federmann-enterprises
+      role: controlling shareholder
+      share: 42.3%
   elec:
     name: European League for Economic Cooperation
     type: forum
@@ -11161,6 +11421,10 @@ organizations:
     - person: rolf-breuer
       role: board
       from: 2000
+      note: Supervisory Board
+    - person: ulrich-grillo
+      role: board
+      from: 2019
       note: Supervisory Board
     - org: blackrock
       role: shareholder
@@ -12044,6 +12308,19 @@ organizations:
     - org: vanguard
       role: shareholder
       share: 3.05
+  expal-systems:
+    name: Expal Systems
+    type: defense
+    founded: 1971
+    headquarters: Madrid, Spain
+    status: subsidiary
+    sector: ammunition
+    stakeholders:
+    - org: rheinmetall
+      role: owner
+      share: 100
+      from: 2023
+      note: Europe largest 155mm artillery plant
   experian:
     name: Experian plc
     type: company
@@ -12161,6 +12438,9 @@ organizations:
       from: 1997
       to: 2003
       note: Vice Chairman
+    - person: anastasia-kelly
+      role: executive
+      note: General Counsel
   fast-retailing:
     name: Fast Retailing Co., Ltd.
     type: company
@@ -12371,6 +12651,18 @@ organizations:
       role: partner
     - org: warburg-pincus
       role: partner
+  federmann-enterprises:
+    name: Federmann Enterprises Ltd
+    type: company
+    headquarters: Israel
+    status: active
+    sector: holding
+    stakeholders:
+    - person: michael-federmann
+      role: chairman
+    - person: david-federmann
+      role: executive
+      from: 2000
   fedex:
     name: FedEx Corporation
     type: company
@@ -13501,6 +13793,10 @@ organizations:
       role: investor
       from: 2021
       note: $800M equity investment
+    - org: rafael
+      role: partner
+      from: 2021
+      note: AI R&D JV with Silver Lake
   galatasaray:
     name: Galatasaray SK
     type: sportsclub
@@ -16046,6 +16342,37 @@ organizations:
     - person: shimon-peres
       role: minister
       note: Foreign Minister, Prime Minister, President
+    - person: benjamin-netanyahu
+      role: leader
+      from: 1996
+      to: 1999
+    - person: benjamin-netanyahu
+      role: leader
+      from: 2009
+      to: 2021
+    - person: benjamin-netanyahu
+      role: leader
+      from: 2022
+    - person: stef-wertheimer
+      role: legislator
+      from: 1977
+      to: 1992
+      note: Knesset
+    - person: amir-peretz
+      role: minister
+      from: 2006
+      to: 2007
+      note: Defense Minister
+    - person: yuval-steinitz
+      role: minister
+      from: 2009
+      to: 2021
+      note: Finance, Intelligence, Energy Minister
+    - person: yuval-steinitz
+      role: legislator
+      from: 1999
+      to: 2021
+      note: Knesset member, Likud
   governo-italia:
     name: Repubblica Italiana
     type: government
@@ -17392,7 +17719,13 @@ organizations:
     - person: khaled-bin-mohamed-al-nahyan
       role: crown-prince
     - person: hamdan-bin-mohammed-al-maktoum
-      role: crown-prince
+      role: minister
+      from: 2024
+      note: Crown Prince, Deputy PM, Defence Minister
+    - person: maktoum-bin-mohammed-al-maktoum
+      role: minister
+      from: 2021
+      note: First Deputy Ruler Dubai, Deputy PM, Minister of Finance
   governo-ucraina:
     name: Governo Ucraina
     type: government
@@ -18147,6 +18480,29 @@ organizations:
       from: 2011
       to: 2017
       note: Senator New Hampshire
+    - person: harry-harris
+      role: military
+      from: 1978
+      to: 2018
+      note: Admiral, PACOM Commander
+    - person: edward-rice
+      role: military
+      note: General USAF, Air Education & Training Command
+    - person: kirkland-donald
+      role: military
+      from: 1975
+      to: 2013
+      note: Admiral, Dir Naval Nuclear Propulsion
+    - person: tina-jonas
+      role: minister
+      note: Under Secretary of Defense (Comptroller)
+    - person: nancy-norton
+      role: military
+      note: Vice Admiral, Director DISA
+    - person: david-sacks
+      role: advisor
+      from: 2025
+      note: AI/Crypto Czar
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -18727,6 +19083,50 @@ organizations:
     headquarters: Changwon, South Korea
     status: active
     sector: defense-aerospace
+    stakeholders:
+    - person: kim-seung-youn
+      role: chairman
+      from: 1977
+    - person: kim-dong-kwan
+      role: executive
+      from: 2022
+      note: Vice Chairman & CEO
+    - person: son-jae-il
+      role: executive
+      from: 2022
+      note: CEO
+    - org: hanwha-group
+      role: parent
+      share: 30%+
+      note: controlling stake via Hanwha Corporation
+  hanwha-group:
+    name: Hanwha Group
+    type: company
+    founded: 1952
+    headquarters: Seoul, South Korea
+    status: active
+    sector: conglomerate
+    stakeholders:
+    - person: kim-seung-youn
+      role: chairman
+      from: 1981
+    - person: kim-dong-kwan
+      role: executive
+      from: 2022
+      note: Vice Chairman
+  hanwha-ocean:
+    name: Hanwha Ocean
+    type: defense
+    founded: 1973
+    headquarters: Geoje, South Korea
+    status: active
+    sector: shipbuilding-defense
+    stakeholders:
+    - org: hanwha-group
+      role: parent
+      share: 49.3%
+      from: 2022
+      note: acquired from Korea Development Bank
   hapag-lloyd:
     name: Hapag-Lloyd AG
     type: company
@@ -19024,6 +19424,17 @@ organizations:
     - org: qia
       role: stake
       share: 0.2
+  hebrew-university:
+    name: Hebrew University of Jerusalem
+    type: university
+    founded: 1918
+    headquarters: Jerusalem, Israel
+    status: active
+    stakeholders:
+    - person: michael-federmann
+      role: chairman
+      from: 2000
+      note: Board of Trustees
   hec-paris:
     name: HEC Paris
     type: company
@@ -19372,6 +19783,15 @@ organizations:
       role: board
       from: 2026
       note: Independent Director
+    - person: james-taiclet
+      role: executive
+      from: 1999
+      to: 2001
+      note: President Aerospace Services
+    - person: roger-fradin
+      role: executive
+      to: 2017
+      note: Former VP & CEO divisions
   hongkong-land:
     name: Hongkong Land Holdings Limited
     type: company
@@ -19589,6 +20009,22 @@ organizations:
       role: executive
       from: 2022
       note: President & CEO
+    - person: mike-petters
+      role: executive
+      from: 2011
+      to: 2022
+      note: President & CEO
+    - person: kirkland-donald
+      role: chairman
+      from: 2020
+      note: Board dal 2017, Chairman dal 2020
+    - person: stephanie-osullivan
+      role: board
+      from: 2021
+    - person: anastasia-kelly
+      role: board
+      from: 2011
+      note: Former Chairman
   hyatt-hotels:
     name: Hyatt Hotels Corporation
     type: company
@@ -19819,6 +20255,12 @@ organizations:
     stakeholders:
     - person: mohammed-bin-rashid
       role: chairman
+    - person: hamdan-bin-mohammed-al-maktoum
+      role: chairman
+      from: 2015
+    - person: maktoum-bin-mohammed-al-maktoum
+      role: vice-chairman
+      from: 2015
   icici-bank:
     name: ICICI Bank
     type: bank
@@ -19889,6 +20331,11 @@ organizations:
       from: 1948
       to: 1968
       note: Chief of Staff 1964-68
+    - person: benjamin-netanyahu
+      role: member
+      from: 1967
+      to: 1972
+      note: Sayeret Matkal
   idsa:
     name: Institute for Defence Studies and Analyses
     type: thinktank
@@ -21188,6 +21635,25 @@ organizations:
       from: 1997
       to: 1999
       note: Chairman, privatizzazioni
+  iscar:
+    name: ISCAR Metalworking
+    type: company
+    founded: 1952
+    headquarters: Tefen, Israel
+    status: active
+    sector: manufacturing
+    stakeholders:
+    - person: stef-wertheimer
+      role: founder
+      from: 1952
+    - person: eitan-wertheimer
+      role: chairman
+      from: 1988
+    - org: berkshire-hathaway
+      role: owner
+      share: 100
+      from: 2013
+      note: acquired 80% 2006, 100% 2013
   ispi:
     name: ISPI - Istituto per gli Studi di Politica Internazionale
     type: thinktank
@@ -21243,7 +21709,16 @@ organizations:
     stakeholders:
     - person: boaz-levy
       role: executive
-      note: CEO
+      from: 2020
+      note: CEO & President
+    - person: amir-peretz
+      role: chairman
+      from: 2021
+      to: 2024
+      note: Chairman of the Board
+    - org: governo-israele
+      share: 100%
+      note: State-owned, via Ministry of Defense
   israel-diamond-exchange:
     name: Israel Diamond Exchange
     type: company
@@ -22579,6 +23054,40 @@ organizations:
       role: executive
       from: 2021
       note: CEO & Chair
+    - person: roger-fradin
+      role: board
+      from: 2019
+    - person: robert-millard
+      role: board
+      from: 1997
+      note: Harris board dal 1997
+    - person: harry-harris
+      role: military
+      from: 1978
+      to: 2018
+      note: Admiral, PACOM Commander
+    - person: lewis-hay
+      role: board
+      from: 2019
+      note: Lead Independent Director
+    - person: kirk-hachigian
+      role: board
+      from: 2023
+    - person: edward-rice
+      role: board
+      from: 2023
+    - person: thomas-dattilo
+      role: board
+      from: 2001
+      note: Harris chairman 2012-2014
+    - person: joanna-geraghty
+      role: board
+      from: 2022
+      note: Compensation Committee chair
+    - person: david-regnery
+      role: board
+      from: 2024
+      note: D.E. Shaw agreement
   la-repubblica:
     name: La Repubblica
     type: media
@@ -22931,6 +23440,34 @@ organizations:
       from: 1966
       to: 1984
       note: Professor International Relations
+  leidos:
+    name: Leidos Holdings
+    type: defense
+    founded: 2013
+    headquarters: Reston, Virginia, USA
+    status: active
+    sector: defense-it
+    stakeholders:
+    - person: tom-bell
+      role: executive
+      from: 2023
+      note: CEO
+    - person: roger-krone
+      role: executive
+      from: 2014
+      to: 2023
+      note: CEO
+    - person: robert-shapard
+      role: chairman
+      from: 2023
+      note: Board dal 2013, Chairman dal 2023
+    - person: tina-jonas
+      role: board
+      from: 2024
+      note: Audit & Finance Committee
+    - person: nancy-norton
+      role: board
+      from: 2024
   leif-hoegh-co:
     name: Leif Höegh & Co
     type: company
@@ -23063,6 +23600,18 @@ organizations:
     stakeholders:
     - person: julie-smolyansky
       role: executive
+  likud:
+    name: Likud
+    type: agency
+    founded: 1973
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: political party
+    stakeholders:
+    - person: benjamin-netanyahu
+      role: chairman
+      from: 1993
+      note: Leader del partito
   lilly-endowment:
     name: Lilly Endowment Inc.
     type: foundation
@@ -23176,6 +23725,19 @@ organizations:
     - person: henrique-meirelles
       role: member
       note: Council member
+  loc-performance:
+    name: Loc Performance Products
+    type: defense
+    founded: 1971
+    headquarters: Plymouth, Michigan, USA
+    status: subsidiary
+    sector: military-vehicles
+    stakeholders:
+    - org: rheinmetall
+      role: owner
+      share: 100
+      from: 2024
+      note: Acquired for $950M
   lockheed:
     name: Lockheed
     type: company
@@ -23201,11 +23763,21 @@ organizations:
       role: executive
       from: 2020
       note: CEO & Chairman
+    - person: christopher-kubasik
+      role: executive
+      from: 1999
+      to: 2012
+      note: President & COO
     - person: marillyn-hewson
       role: executive
       from: 2013
       to: 2020
       note: CEO & Chairman
+    - person: marillyn-hewson
+      role: executive
+      from: 2013
+      to: 2020
+      note: CEO; Chairman 2014-2021
     - person: joseph-dunford
       role: board
       from: 2020
@@ -24060,6 +24632,11 @@ organizations:
       from: 1997
       to: 2005
       note: Principal consultant
+    - person: james-taiclet
+      role: advisor
+      from: 1991
+      to: 1996
+      note: Consultant telecom/aerospace
   mclaren:
     name: McLaren Group
     type: company
@@ -24831,6 +25408,16 @@ organizations:
       from: 2019
     - person: brian-forde
       role: board
+    - person: robert-millard
+      role: chairman
+      from: 2014
+      to: 2020
+      note: MIT Corporation
+    - person: benjamin-netanyahu
+      role: alumni
+      from: 1972
+      to: 1976
+      note: BSc/MSc
   mitratel:
     name: PT Dayamitra Telekomunikasi Tbk
     type: company
@@ -26414,6 +27001,10 @@ organizations:
       role: executive
       from: 2019
       note: CEO & Chair
+    - person: chris-kastner
+      role: executive
+      to: 2011
+      note: VP Business Management, CFO Gulf Coast
     - person: gary-roughead
       role: board
       note: Former CNO
@@ -26432,6 +27023,11 @@ organizations:
     - person: james-turley
       role: board
       note: Ex CEO Ernst & Young
+    - person: mike-petters
+      role: executive
+      from: 2008
+      to: 2011
+      note: President Northrop Grumman Shipbuilding
   nos-portugal:
     name: NOS
     type: company
@@ -27814,6 +28410,17 @@ organizations:
       from: 1994
       to: 2004
       note: President
+  palo-alto-networks:
+    name: Palo Alto Networks
+    type: company
+    founded: 2005
+    headquarters: Santa Clara, USA
+    status: active
+    sector: cybersecurity
+    stakeholders:
+    - person: nir-zuk
+      role: founder
+      from: 2005
   pandora:
     name: Pandora A/S
     type: company
@@ -28815,6 +29422,16 @@ organizations:
     - person: fred-hu
       role: founder
       note: Founder and Chairman
+  princeton:
+    name: Princeton University
+    type: university
+    founded: 1746
+    headquarters: Princeton, USA
+    status: active
+    stakeholders:
+    - person: james-taiclet
+      role: alumni
+      note: MPA Woodrow Wilson School
   prisa:
     name: Grupo PRISA
     type: media
@@ -29219,6 +29836,17 @@ organizations:
       role: executive
       from: 2024
       note: CEO, ex ELTA, Arrow missile program leader
+    - person: stef-wertheimer
+      role: executive
+      from: 1950
+      to: 1955
+    - person: yuval-steinitz
+      role: chairman
+      from: 2023
+      note: Chairman of the Board
+    - org: governo-israele
+      share: 100%
+      note: State-owned defense company
   rai:
     name: RAI - Radiotelevisione Italiana
     type: media
@@ -29893,6 +30521,10 @@ organizations:
       role: executive
       from: 2013
       note: CEO
+    - person: ulrich-grillo
+      role: chairman
+      from: 2017
+      note: Supervisory Board Chairman
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -30198,6 +30830,11 @@ organizations:
     headquarters: London, UK
     sector: Aerospace/Defense
     stakeholders:
+    - person: tom-bell
+      role: executive
+      from: 2012
+      to: 2021
+      note: President Defense, Chairman & CEO North America
     - org: blackrock
       share: 5.0%
     - org: vanguard
@@ -30755,6 +31392,13 @@ organizations:
     - org: governo-francia
       share: 11
       note: Via Bpifrance/APE
+  saic:
+    name: Science Applications International Corporation
+    type: defense
+    founded: 2013
+    headquarters: Reston, Virginia, USA
+    status: active
+    sector: defense-it
   saint-gobain:
     name: Compagnie de Saint-Gobain SA
     type: company
@@ -32422,6 +33066,10 @@ organizations:
       role: executive
       from: 2021
       note: Director Israel Operations
+    - person: yossi-cohen
+      role: executive
+      from: 2021
+      note: head of SoftBank Israel
     - person: jack-ma
       role: board
       from: 2014
@@ -35126,6 +35774,16 @@ organizations:
       role: partner
     - org: cfr
       role: partner
+  trinity-college:
+    name: Trinity College
+    type: university
+    founded: 1823
+    headquarters: Hartford, USA
+    status: active
+    stakeholders:
+    - person: christopher-calio
+      role: alumni
+      note: BA Political Science
   trt:
     name: Turkish Radio and Television Corporation
     type: media
@@ -35501,6 +36159,17 @@ organizations:
     - person: pedro-moreira-salles
       role: alumnus
       note: BA Economics and History, magna cum laude
+  uconn:
+    name: University of Connecticut
+    type: university
+    founded: 1881
+    headquarters: Storrs, USA
+    status: active
+    stakeholders:
+    - person: christopher-calio
+      role: alumni
+      from: 2000
+      note: JD/MBA
   ue:
     name: Unione Europea
     type: agency
@@ -35601,6 +36270,10 @@ organizations:
     stakeholders:
     - person: vuk-jeremic
       role: president
+    - person: benjamin-netanyahu
+      role: ambassador
+      from: 1984
+      to: 1988
   un-foundation:
     type: foundation
     headquarters: Washington DC, USA
@@ -35874,6 +36547,14 @@ organizations:
       role: member
     - person: omri-lavie
       role: member
+    - person: shlomo-kramer
+      role: member
+    - person: nir-zuk
+      role: member
+    - person: assaf-rappaport
+      role: member
+    - person: udi-mokady
+      role: member
   united-defense-industries:
     type: defense
     status: defunct
@@ -36081,6 +36762,23 @@ organizations:
       from: 2010
       to: 2016
       note: Cryptologic linguist, 94th Intelligence Squadron, Fort Meade
+    - person: james-taiclet
+      role: member
+      from: 1985
+      to: 1991
+      note: Pilot C-141, Gulf War
+  us-air-force-academy:
+    name: US Air Force Academy
+    type: university
+    founded: 1954
+    headquarters: Colorado Springs, USA
+    status: active
+    stakeholders:
+    - person: james-taiclet
+      role: alumni
+      from: 1978
+      to: 1982
+      note: BSc Engineering
   us-army:
     name: United States Army
     type: government
@@ -38284,6 +38982,12 @@ organizations:
     - person: pan-jian
       role: member
       note: Speaker Davos 2025
+    - person: kim-dong-kwan
+      role: member
+      note: Davos 2024 speaker
+    - person: benjamin-netanyahu
+      role: speaker
+      from: 1996
     - org: bilderberg
       role: partner
     - org: fmi
@@ -38315,6 +39019,15 @@ organizations:
     headquarters: Oxford, UK
     status: active
     sector: education
+  weizmann-institute:
+    name: Weizmann Institute of Science
+    type: university
+    founded: 1934
+    headquarters: Rehovot, Israel
+    status: active
+    stakeholders:
+    - person: michael-federmann
+      role: board
   welcoming-america:
     name: Welcoming America
     type: foundation
@@ -38510,6 +39223,25 @@ organizations:
       role: board
       from: 2024
       note: Board member
+  wiz:
+    name: Wiz
+    type: company
+    founded: 2020
+    headquarters: Tel Aviv, Israel
+    status: acquired
+    sector: cloud security
+    stakeholders:
+    - person: assaf-rappaport
+      role: founder
+      from: 2020
+    - person: assaf-rappaport
+      role: executive
+      from: 2020
+    - org: google
+      role: owner
+      share: 100
+      from: 2024
+      note: $32B acquisition
   woodbridge:
     name: The Woodbridge Company
     type: company
@@ -38668,6 +39400,10 @@ organizations:
       role: member
       from: 2025
       note: Investor, $30M
+    - org: mgx
+      role: investor
+      from: 2025
+      note: $2B via USD1 stablecoin
   world-policy-conference:
     name: World Policy Conference
     type: forum

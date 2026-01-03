@@ -79,13 +79,17 @@ families:
   al-maktoum:
     origin: Dubai, UAE
     founder: maktoum-bin-butti
-    sector: real-estate,trade,aviation
+    sector: trade,real-estate,aviation,finance
+    generations: 8
     status: active
-    note: Ruling family of Dubai
+    note: Ruling family of Dubai since 1833
     members:
     - person: mohammed-bin-rashid
       role: leader
     - person: hamdan-bin-mohammed-al-maktoum
+      role: heir
+    - person: maktoum-bin-mohammed-al-maktoum
+      generation: 3
       role: heir
   al-nahyan:
     origin: Abu Dhabi, UAE
@@ -174,6 +178,19 @@ families:
       generation: 3
     - person: anant-ambani
       generation: 3
+  arison:
+    origin: Israel
+    founder: ted-arison
+    sector: shipping, banking
+    generations: 2
+    status: active
+    members:
+    - person: ted-arison
+      generation: 1
+      role: founder
+    - person: shari-arison
+      generation: 2
+      role: heir
   arnault:
     origin: France
     founder: bernard-arnault
@@ -583,6 +600,20 @@ families:
     - person: larry-ellison
       generation: 1
       role: founder
+  federmann:
+    origin: ISR
+    sector: defense-hospitality
+    status: active
+    members:
+    - person: michael-federmann
+      generation: 2
+      role: patriarch
+    - person: david-federmann
+      generation: 3
+    - person: gideon-federmann
+      generation: 3
+    - person: daniel-federmann
+      generation: 3
   ford-family:
     origin: USA
     founder: Henry Ford
@@ -1165,6 +1196,12 @@ families:
     - person: idan-ofer
       generation: 2
       role: heir
+    - person: idan-ofer
+      generation: 2
+      role: heir
+    - person: eyal-ofer
+      generation: 2
+      role: heir
   olayan:
     origin: Nejd, Arabia Saudita
     founder: Suliman Saleh Olayan
@@ -1734,6 +1771,16 @@ families:
     - person: akio-toyoda
       generation: 4
       role: chairman
+  tshuva:
+    origin: Israel
+    founder: yitzhak-tshuva
+    sector: energy, real estate
+    generations: 2
+    status: active
+    members:
+    - person: yitzhak-tshuva
+      generation: 1
+      role: founder
   van-damme:
     origin: Belgium
     sector: brewing, investment
@@ -1832,6 +1879,19 @@ families:
       role: patriarch
     - person: gerard-wertheimer
       generation: 3
+  wertheimer-israel:
+    origin: Israel
+    founder: stef-wertheimer
+    sector: manufacturing, defense
+    generations: 3
+    status: active
+    members:
+    - person: stef-wertheimer
+      generation: 1
+      role: founder
+    - person: eitan-wertheimer
+      generation: 2
+      role: heir
   windsor:
     origin: UK
     founder: George V

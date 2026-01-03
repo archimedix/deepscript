@@ -1,17 +1,21 @@
 # UAE Power Map
 
-> Gli Emirati Arabi Uniti: $2.5 trilioni di asset sovrani, due dinastie, un modello di stato-azienda
+> Gli Emirati Arabi Uniti: $2.5 trilioni di asset sovrani, due dinastie, un uomo al centro di tutto
 
 ## Executive Summary
 
-Gli Emirati Arabi Uniti rappresentano il caso piu' sofisticato di **stato-azienda del XXI secolo**: una federazione di sette emirati dominata da Abu Dhabi (Al Nahyan) e Dubai (Al Maktoum), che ha trasformato le rendite petrolifere in un impero finanziario globale. La mappa del potere UAE si articola in:
+Gli Emirati Arabi Uniti rappresentano il caso piu' sofisticato di **stato-azienda del XXI secolo**: una federazione di sette emirati dominata da Abu Dhabi (Al Nahyan) e Dubai (Al Maktoum), che ha trasformato le rendite petrolifere in un impero finanziario globale.
 
-1. **[Famiglia Al Nahyan](../docs/family/al-nahyan.md)** - Abu Dhabi, $1.7T+ AuM, Presidente UAE
-2. **[Famiglia Al Maktoum](../docs/family/al-maktoum.md)** - Dubai, trade hub, Emirates, PM UAE
-3. **Sovereign Wealth Funds** - ADIA ($1T), Mubadala ($330B), ADQ ($170B), ICD ($380B)
-4. **Tech/AI Pivot** - G42, MGX, Stargate partnership, Microsoft $1.5B
-5. **Aziende strategiche** - ADNOC, Emirates, Etihad, DP World, Masdar
-6. **Sport & soft power** - Manchester City (CFG), Formula 1, COP28
+**Tesi centrale**: Nel 2025, il potere reale UAE si e' concentrato in un singolo individuo - **Sheikh Tahnoun bin Zayed** - che controlla oltre $1.5 trilioni di asset e ha costruito un canale diretto alla Casa Bianca Trump tramite investimenti nella sua crypto company. Questo rappresenta un caso unico di "state capture" inverso: uno stato sovrano che "cattura" l'accesso a un'amministrazione straniera.
+
+La mappa del potere UAE si articola in:
+
+1. **[Sheikh Tahnoun bin Zayed](../docs/persons/sheikh-tahnoun-bin-zayed.md)** - L'uomo piu' potente: ADIA, ADQ, G42, MGX, FAB, canale Trump
+2. **[Famiglia Al Nahyan](../docs/family/al-nahyan.md)** - Abu Dhabi, $1.7T+ AuM, Presidente UAE
+3. **[Famiglia Al Maktoum](../docs/family/al-maktoum.md)** - Dubai, trade hub, Emirates, PM UAE
+4. **Sovereign Wealth Funds** - ADIA ($1T), Mubadala ($330B), ADQ ($170B), ICD ($380B)
+5. **Tech/AI Pivot** - G42, MGX, Stargate, Aligned Data Centers ($40B), AIP ($100B)
+6. **Connessione Trump** - $2B World Liberty Financial, chip AI export, $1.4T framework
 
 ### Mappa del Network
 
@@ -27,39 +31,46 @@ Gli Emirati Arabi Uniti rappresentano il caso piu' sofisticato di **stato-aziend
     +----+----+                              +-----+-----+
     |         |                              |           |
     v         v                              v           v
-  MBZ      Tahnoun                       Mohammed    Hamdan
- (Pres)   (NSA, $1T+)                   bin Rashid  (Crown Prince)
-    |         |                              |
-    +---------+---------+                    |
-              |         |                    |
-              v         v                    v
-         +---------+  +---------+      +---------+
-         |  ADIA   |  |   ADQ   |      |   ICD   |
-         | $1.06T  |  |  $170B  |      |  $380B  |
-         +---------+  +---------+      +---------+
-              |              |               |
-         +---------+    +---------+    +---------+
-         |Mubadala |    | Etihad  |    |Emirates |
-         | $330B   |    | ADNOC   |    |DP World |
-         +----+----+    +---------+    +---------+
-              |
-    +---------+---------+---------+
-    |         |         |         |
-    v         v         v         v
-+------+  +------+  +------+  +------+
-| G42  |  | MGX  |  |Global|  |Masdar|
-| (AI) |  |(AI$) |  |Found.|  |(Ren.)|
-+------+  +------+  +------+  +------+
-    |         |
-    v         v
-+--------------------------------+
-|    INVESTIMENTI GLOBALI        |
-+--------+--------+------+-------+
-|  USA   | EUROPA | ASIA | SPORT |
-|OpenAI  |  UK    |India |Man City|
-|Stargate|  -     |Indon.|F1 Abu D|
-|MSFT    |        |      |        |
-+--------+--------+------+-------+
+  MBZ    ╔═══════════╗                  Mohammed    Hamdan
+ (Pres)  ║ TAHNOUN   ║                 bin Rashid  (Def.Min)
+         ║ (NSA)     ║                      |
+         ║ $1.5T+    ║                      v
+         ╚═════╦═════╝                 +---------+
+               |                       |   ICD   |
+    +----------+----------+            |  $380B  |
+    |          |          |            +---------+
+    v          v          v                 |
++-------+  +-------+  +-------+        +----+----+
+| ADIA  |  |  ADQ  |  |  FAB  |        |Emirates |
+| $1T   |  | $170B |  | Bank  |        |DP World |
++-------+  +-------+  +-------+        +---------+
+    |          |
+    v          v
++-------+  +-------+
+|Mubadala|  |Etihad|
+| $330B  |  |ADNOC |
++---+----+  +------+
+    |
+    +----------+----------+
+    |          |          |
+    v          v          v
++------+   +------+   +------+
+| G42  |   | MGX  |   |Masdar|
++------+   +------+   +------+
+    |          |
+    v          v
++----------------------------------+
+|     TRUMP-UAE NEXUS (2025)       |
++--------+--------+-------+--------+
+|Stargate|  AIP   | WLF   | Aligned|
+|$500B   | $100B  | $2B   |  $40B  |
++--------+--------+-------+--------+
+    |          |       |
+    v          v       v
++----------------------------------+
+|  ACCESSO USA: Chip AI, OpenAI,  |
+|  Microsoft, BlackRock, Trump    |
++----------------------------------+
 ```
 
 ---
@@ -113,9 +124,12 @@ I sei figli di Sheikh Zayed con Fatima bint Mubarak formano il blocco dominante:
 
 | Persona | Ruolo | Organizzazioni |
 |---------|-------|----------------|
-| [Mohammed bin Rashid](../docs/persons/mohammed-bin-rashid.md) | Ruler Dubai, VP e PM UAE | ICD |
-| [Hamdan bin Mohammed](../docs/persons/hamdan-bin-mohammed-al-maktoum.md) | Crown Prince Dubai | Executive Council Dubai |
-| [Maktoum bin Mohammed](../docs/persons/sheikh-maktoum-bin-mohammed.md) | Deputy Ruler Dubai | WEF YGL |
+| [Mohammed bin Rashid](../docs/persons/mohammed-bin-rashid.md) | Ruler Dubai, VP e PM UAE | ICD (chairman) |
+| [Hamdan bin Mohammed](../docs/persons/hamdan-bin-mohammed-al-maktoum.md) | Crown Prince Dubai, Deputy PM, **Defence Minister** (2024) | ICD (chairman), Governo UAE |
+| [Maktoum bin Mohammed](../docs/persons/maktoum-bin-mohammed-al-maktoum.md) | First Deputy Ruler Dubai, **Minister of Finance** (2021) | ICD (vice-chairman), DIFC |
+| Ahmed bin Mohammed | Second Deputy Ruler Dubai (2023) | - |
+
+**Nota**: Dal 2024 Hamdan bin Mohammed detiene il portafoglio Difesa, ereditato dal padre. E' la prima volta dal 1971 che il ruolo passa fuori dal Ruler.
 
 ---
 
@@ -242,6 +256,34 @@ TAHNOUN BIN ZAYED
        +--- GEOPOLITICA (Israele, USA, Cina)
 ```
 
+### Timeline 2025: L'Anno della Svolta USA
+
+| Data | Evento | Impatto |
+|------|--------|---------|
+| **Jan 2025** | MGX partner Stargate Project | Accesso infrastruttura AI USA |
+| **Mar 2025** | White House meeting con Trump | $1.4T investment framework |
+| **May 2025** | MGX investe $2B in World Liberty Financial | Stablecoin USD1, crypto Trump |
+| **May 2025** | Trump firma accordo campus AI G42 | Il piu' grande fuori USA |
+| **May 2025** | Approvazione export chip AI avanzati | Post-investimento WLF |
+| **Sep 2025** | MGX + BlackRock acquisiscono Aligned Data Centers | $40B, record mondiale |
+| **Nov 2025** | Espansione datacenter G42/Khazna | 200MW con Microsoft |
+
+### Controversia World Liberty Financial
+
+L'investimento di $2B di MGX in World Liberty Financial (crypto dei Trump) e' al centro di accuse di corruzione:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Investitore** | MGX (chaired by Tahnoun) |
+| **Beneficiario** | Famiglia Trump (75% net proceeds) |
+| **Meccanismo** | Acquisto $2B stablecoin USD1 |
+| **Timing** | 2 settimane prima approvazione chip AI |
+| **Critiche** | "Largest public corruption scandal in US history" (Stanford) |
+| **Negoziatori USA** | David Sacks (AI Czar), Steve Witkoff |
+| **Status** | Indagine richiesta da Senatori Warren/Merkley |
+
+> **Implicazione**: Tahnoun ha costruito un canale diretto alla Casa Bianca Trump tramite investimenti finanziari che beneficiano direttamente la famiglia presidenziale.
+
 ---
 
 ## Tech & AI: Il Pivot Strategico
@@ -272,7 +314,7 @@ TAHNOUN BIN ZAYED
 | **Vice Chair** | Khaldoon Al Mubarak |
 | **Fondatori** | Mubadala + G42 |
 
-**Investimenti MGX:**
+**Investimenti MGX (2024-2025):**
 
 | Partner/Deal | Valore | Note |
 |--------------|--------|------|
@@ -280,8 +322,11 @@ TAHNOUN BIN ZAYED
 | Anthropic | Partecipazione | Via MGX |
 | xAI | Partecipazione | Musk's AI |
 | Databricks | Partecipazione | Data/AI |
-| **Stargate Project** | Partner | Con OpenAI, SoftBank, Oracle |
-| **GAIIP** | $30B | Con BlackRock, Microsoft |
+| **Binance** | $2B | Crypto exchange, 2025 |
+| **World Liberty Financial** | $2B | Stablecoin USD1, crypto Trump |
+| **Stargate Project** | Partner | Con OpenAI, SoftBank, Oracle, Cisco |
+| **AI Infrastructure Partnership (AIP)** | $100B target | Con BlackRock, Microsoft, Nvidia, xAI |
+| **Aligned Data Centers** | $40B | Acquisizione con BlackRock/GIP, record mondiale |
 
 ### Stargate: UAE Dentro, Saudi Fuori
 
@@ -412,11 +457,39 @@ Il progetto Stargate ($500B per infrastruttura AI USA) vede MGX come partner men
 
 | Regione | Focus | Partner Chiave |
 |---------|-------|----------------|
-| **USA** | Tech, AI, PE | Microsoft, BlackRock, OpenAI, Stargate |
+| **USA** | Tech, AI, PE, Crypto | Microsoft, BlackRock, OpenAI, Stargate, Trump/WLF |
 | **UK** | Infra, real estate | Manchester City, Barclays stake (storico) |
 | **Europa** | Energia, auto | Masdar, Ferrari (5%), Stellantis |
 | **Asia** | Indonesia, India | Trans-Java Toll Roads, Jio Platforms |
 | **Africa** | Porti, energia | DP World |
+
+### Network Trump-UAE (2025)
+
+La relazione UAE-Trump rappresenta un caso senza precedenti di intreccio tra interessi sovrani esteri e famiglia presidenziale USA:
+
+```
+SHEIKH TAHNOUN -----> MGX -----> $2B World Liberty Financial
+     |                               |
+     |                               v
+     +---> G42 <---- Trump signs --- TRUMP FAMILY (75% proceeds)
+     |              AI campus deal         |
+     |                                     v
+     +---> Meeting White House -----> David Sacks (AI Czar)
+           Mar 2025                   Steve Witkoff (negotiator)
+                                           |
+                                           v
+                                    CHIP EXPORT APPROVAL
+                                    (2 settimane dopo WLF deal)
+```
+
+| Attore USA | Ruolo | Connessione UAE |
+|------------|-------|-----------------|
+| Donald Trump | Presidente | Beneficiario WLF ($1B+ profitti) |
+| David Sacks | AI/Crypto Czar | Negoziatore chip deal |
+| Steve Witkoff | Inviato speciale | Co-founder WLF, negoziatore |
+| Zach Witkoff | - | Annuncia $2B deal |
+
+> **Implicazione strategica**: UAE ha ottenuto accesso ai chip AI piu' avanzati al mondo (esclusi a Cina) tramite un investimento che beneficia direttamente la famiglia del Presidente USA.
 
 ### Abraham Accords (2020)
 
@@ -497,17 +570,24 @@ Sheikh Tahnoun controlla piu' asset ($1.2T+) di qualsiasi altro individuo non-mo
 | **Kafala** | Sempre | Sistema lavoratori migranti |
 | **Sportswashing** | 2008- | Man City, F1 |
 | **COP28** | 2023 | Oil CEO presiede summit clima |
+| **World Liberty Financial** | 2025 | $2B a crypto Trump, accuse corruzione |
+| **AI Chips Deal** | 2025 | Export chip avanzati post-investimento WLF |
+| **Principessa Latifa** | 2018-2021 | Tentata fuga, accuse prigionia |
+| **Principessa Haya** | 2019 | Fuga UK, divorzio, custodia |
 
 ---
 
 ## Domande Aperte
 
-1. **Successione MBZ**: Chi dopo Mohammed bin Zayed?
-2. **Tahnoun consolidation**: Diventera' ancora piu' potente?
-3. **China pivot**: Abbandono definitivo o tattico?
-4. **AI leadership**: UAE puo' diventare hub AI globale?
-5. **Dubai vs Abu Dhabi**: La competizione interna continuera'?
-6. **Clima**: Transizione reale o greenwashing?
+1. **Successione MBZ**: Chi dopo Mohammed bin Zayed? Khaled bin Mohamed gia' Crown Prince.
+2. **Tahnoun consolidation**: Con $1.5T+ sotto controllo e canale diretto a Trump, diventera' il vero decision-maker?
+3. **China pivot**: Abbandono definitivo o tattico? I chip AI vanno davvero solo a UAE o transito verso Cina?
+4. **AI leadership**: UAE puo' diventare hub AI globale con G42/Stargate/Aligned?
+5. **Dubai vs Abu Dhabi**: La competizione interna continuera'? Hamdan ora Defence Minister.
+6. **Clima**: Transizione reale o greenwashing? ADNOC + Masdar modello sostenibile?
+7. **WLF Investigation**: L'indagine Warren/Merkley portera' a conseguenze? Quali per relazione UAE-USA?
+8. **Post-Trump**: La relazione sopravvivera' a un cambio di amministrazione?
+9. **Chip diversion**: I chip AI avanzati esportati in UAE finiranno in Cina via G42?
 
 ---
 
@@ -519,23 +599,35 @@ Sheikh Tahnoun controlla piu' asset ($1.2T+) di qualsiasi altro individuo non-mo
 - [ADQ Official](https://www.adq.ae/)
 - [ICD Official](https://icd.gov.ae/)
 - [G42 Official](https://www.g42.ai/)
+- [MGX Official](https://www.mgx.ae/)
 
 ### Report e Analisi
 - [Global SWF - UAE Funds](https://globalswf.com/)
 - [Bloomberg - Abu Dhabi Funds](https://www.bloomberg.com/graphics/2025-abu-dhabi-investment-funds/)
 - [Wikipedia - House of Nahyan](https://en.wikipedia.org/wiki/House_of_Nahyan)
 - [Wikipedia - Royal Families UAE](https://en.wikipedia.org/wiki/Royal_families_of_the_United_Arab_Emirates)
+- [Gulf Business - 100 Most Powerful Arabs 2025](https://gulfbusiness.com/lists/100-most-powerful-arabs-2025/)
 
 ### Media
 - [The National UAE](https://www.thenationalnews.com/)
 - [AGBI - Arabian Gulf Business Insight](https://www.agbi.com/)
 - [Spear's - UAE Royal Families](https://spearswms.com/wealth/who-are-the-uae-royal-families/)
 
+### Controversie 2025
+- [Bloomberg - UAE $1.4T Investment](https://www.bloomberg.com/news/articles/2025-03-21/uae-to-pledge-1-4-trillion-us-investment-after-trump-meeting)
+- [Middle East Eye - World Liberty Financial](https://www.middleeasteye.net/news/uaes-ruling-family-agrees-2bn-transaction-trump-crypto-firm)
+- [NYT - UAE Chips Deal / WLF](https://www.democracynow.org/2025/9/16/headlines/nyt_uae_chips_deal_linked_to_2b_investment_in_trump_family_cryptocurrency_firm)
+- [CNBC - Aligned Data Centers $40B](https://www.cnbc.com/2025/10/15/nvidia-microsoft-blackrock-aligned-data-centers.html)
+- [Senate Banking - Warren/Merkley Investigation](https://www.banking.senate.gov/newsroom/minority/)
+
 ### Schede Database
 - [Famiglia Al Nahyan](../docs/family/al-nahyan.md)
 - [Famiglia Al Maktoum](../docs/family/al-maktoum.md)
+- [Sheikh Tahnoun bin Zayed](../docs/persons/sheikh-tahnoun-bin-zayed.md)
+- [G42](../docs/company/g42.md)
 - [ADIA](../docs/swf/adia.md)
 - [Mubadala](../docs/swf/mubadala.md)
+- [MGX](../docs/swf/mgx.md)
 
 ---
 

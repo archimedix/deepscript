@@ -1324,6 +1324,21 @@ persons:
     - org: saudi-aramco
       role: board
       from: 2010
+  amir-peretz:
+    born: 1952
+    nationality: ISR
+    note: Ex Defense Minister, ex IAI Chairman
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 2006
+      to: 2007
+      note: Defense Minister
+    - org: israel-aerospace-industries
+      role: chairman
+      from: 2021
+      to: 2024
+      note: Chairman of the Board
   amos-genish:
     nationality: ISR
     affiliations:
@@ -1418,6 +1433,19 @@ persons:
     - org: grasim
       role: board
       from: 2023
+  anastasia-kelly:
+    nationality: USA
+    affiliations:
+    - org: aig
+      role: executive
+      note: EVP & General Counsel, Vice Chairman
+    - org: fannie-mae
+      role: executive
+      note: General Counsel
+    - org: huntington-ingalls
+      role: board
+      from: 2011
+      note: Former Chairman
   anatoly-chubais:
     born: 1955
     nationality: RUS-ISR
@@ -2494,7 +2522,7 @@ persons:
       note: Co-CEO
   armin-papperger:
     born: 1963
-    nationality: Germany
+    nationality: DEU
     note: Rheinmetall CEO since 2013
     affiliations:
     - org: rheinmetall
@@ -2665,6 +2693,18 @@ persons:
       note: WEF Annual Meeting 2016
     - org: ashoka
       role: member
+  assaf-rappaport:
+    born: 1985
+    nationality: ISR
+    affiliations:
+    - org: unit-8200
+      role: member
+    - org: wiz
+      role: founder
+      from: 2020
+    - org: wiz
+      role: executive
+      from: 2020
   athina-onassis:
     born: 1985
     nationality: GRC
@@ -3039,6 +3079,42 @@ persons:
     born: 1894
     died: 1976
     nationality: USA
+  benjamin-netanyahu:
+    born: 1949
+    nationality: ISR
+    affiliations:
+    - org: wef
+      role: speaker
+      from: 1996
+    - org: governo-israele
+      role: leader
+      from: 1996
+      to: 1999
+    - org: governo-israele
+      role: leader
+      from: 2009
+      to: 2021
+    - org: governo-israele
+      role: leader
+      from: 2022
+    - org: idf
+      role: member
+      from: 1967
+      to: 1972
+      note: Sayeret Matkal
+    - org: un
+      role: ambassador
+      from: 1984
+      to: 1988
+    - org: mit
+      role: alumni
+      from: 1972
+      to: 1976
+      note: BSc/MSc
+    - org: likud
+      role: chairman
+      from: 1993
+      note: Leader del partito
   benjamin-strong:
     born: 1872
     died: 1928
@@ -3216,7 +3292,7 @@ persons:
       from: 1983
       to: 1987
   bezhalel-machlis:
-    nationality: Israel
+    nationality: ISR
     note: Elbit Systems CEO since 2013
     affiliations:
     - org: elbit-systems
@@ -3410,12 +3486,14 @@ persons:
       to: 2000
       note: Co-founder, merged into Sampo 2000
   boaz-levy:
-    nationality: Israel
+    born: 1961
+    nationality: ISR
     note: IAI CEO
     affiliations:
     - org: israel-aerospace-industries
       role: executive
-      note: CEO
+      from: 2020
+      note: CEO & President
   boaz-moldawsky:
     nationality: ISR
     affiliations:
@@ -4774,6 +4852,10 @@ persons:
     nationality: USA
     note: Ex Northrop Grumman Shipbuilding
     affiliations:
+    - org: northrop-grumman
+      role: executive
+      to: 2011
+      note: VP Business Management, CFO Gulf Coast
     - org: huntington-ingalls
       role: executive
       from: 2022
@@ -4920,10 +5002,22 @@ persons:
     nationality: USA
     note: RTX CEO May 2024, Chairman April 2025. Ex Pratt & Whitney President.
     affiliations:
+    - org: business-roundtable
+      role: member
     - org: rtx
       role: executive
       from: 2024
       note: CEO & Chairman from 2025
+    - org: trinity-college
+      role: alumni
+      note: BA Political Science
+    - org: uconn
+      role: alumni
+      from: 2000
+      note: JD/MBA
+    - org: aerospace-industries-association
+      role: board
+      note: Executive Committee, Board of Governors
   christopher-darby:
     nationality: USA
     affiliations:
@@ -4954,6 +5048,11 @@ persons:
     nationality: USA
     note: Ex Lockheed Martin President/COO, Ernst & Young
     affiliations:
+    - org: lockheed-martin
+      role: executive
+      from: 1999
+      to: 2012
+      note: President & COO
     - org: l3harris
       role: executive
       from: 2021
@@ -5568,6 +5667,12 @@ persons:
     - person: william-binney
       type: colleague
       note: Fellow whistleblowers, both Sam Adams Award recipients
+  daniel-federmann:
+    nationality: ISR
+    note: Married to Sharona Pick
+    relations:
+    - person: michael-federmann
+      type: son
   daniel-hajj:
     born: 1966
     nationality: MX
@@ -5838,6 +5943,19 @@ persons:
     - org: rothschild-co
       role: chairman
       from: 2003
+  david-federmann:
+    nationality: ISR
+    affiliations:
+    - org: elbit-systems
+      role: chairman
+      from: 2023
+      note: Vice Chair 2015-2023
+    - org: federmann-enterprises
+      role: executive
+      from: 2000
+    relations:
+    - person: michael-federmann
+      type: son
   david-hertz:
     nationality: BR
     note: Social entrepreneur São Paulo. Slow food advocate.
@@ -5971,6 +6089,13 @@ persons:
       role: partner
       from: 2013
       note: Chairman KKR Global Institute, Chairman KKR Middle East
+  david-regnery:
+    nationality: USA
+    affiliations:
+    - org: l3harris
+      role: board
+      from: 2024
+      note: D.E. Shaw agreement
   david-ricks:
     born: 1967
     nationality: USA
@@ -6104,6 +6229,14 @@ persons:
       role: owner
       from: 2024
       note: Principal Owner ($1.725B acquisition)
+  david-sacks:
+    born: 1972
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2025
+      note: AI/Crypto Czar
   david-sassoli:
     born: 1956
     died: 2022
@@ -6971,6 +7104,15 @@ persons:
       from: 1970
       to: 1974
       note: Prime Minister
+  edward-rice:
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: military
+      note: General USAF, Air Education & Training Command
+    - org: l3harris
+      role: board
+      from: 2023
   edward-snowden:
     born: 1983
     nationality: USA
@@ -7120,6 +7262,18 @@ persons:
       from: 1964
       to: 1972
       note: Prime Minister - Nobel Peace Prize 1974
+  eitan-wertheimer:
+    born: 1950
+    died: 2022
+    nationality: ISR
+    affiliations:
+    - org: berkshire-hathaway
+      role: board
+      from: 2006
+      note: post-acquisition
+    - org: iscar
+      role: chairman
+      from: 1988
   eldar-saetre:
     born: 1956
     nationality: NOR
@@ -8017,6 +8171,9 @@ persons:
       role: executive
       from: 1993
       to: 2001
+  eyal-ofer:
+    born: 1950
+    nationality: ISR
   ezra-suleiman:
     born: 1941
     died: 2021
@@ -8112,6 +8269,18 @@ persons:
     - person: pier-carlo-padoan
       type: predecessor
       note: Saccomanni predecessore di Padoan sia al MEF che come Chairman UniCredit
+  faisal-al-bannai:
+    nationality: ARE
+    note: Founder EDGE, DarkMatter; Chairman EDGE; Secretary General ATRC
+    affiliations:
+    - org: edge-group
+      role: founder
+      from: 2019
+      note: Founder & first CEO
+    - org: edge-group
+      role: chairman
+      from: 2022
+      note: Chairman of the Board
   faisal-bin-bandar:
     nationality: SAU
     family: saud
@@ -9961,6 +10130,15 @@ persons:
       role: member
       from: 2020
       note: IOC Member
+  gideon-federmann:
+    nationality: ISR
+    affiliations:
+    - org: dan-hotels
+      role: chairman
+      from: 2023
+    relations:
+    - person: michael-federmann
+      type: son
   gila-gamliel:
     born: 1974
     nationality: ISR
@@ -10526,6 +10704,22 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  haim-saban:
+    born: 1944
+    nationality: ISR-USA
+    affiliations:
+    - org: aipac
+      role: donor
+      from: 2002
+      note: major donor $2M+
+  hamad-al-marar:
+    nationality: ARE
+    note: CEO EDGE Group dal 2024
+    affiliations:
+    - org: edge-group
+      role: executive
+      from: 2024
+      note: Managing Director & CEO
   hamad-almahmeed:
     nationality: bahrain
     note: Undersecretary for Research & Projects, Prime Minister Office. WEF Young Global Leader 2022.
@@ -10553,11 +10747,17 @@ persons:
       from: 1996
       note: Fondatore e Chairman board
   hamdan-bin-mohammed-al-maktoum:
+    born: 1982
     nationality: UAE
     note: Crown Prince of Dubai
     affiliations:
     - org: governo-uae
-      role: crown-prince
+      role: minister
+      from: 2024
+      note: Crown Prince, Deputy PM, Defence Minister
+    - org: icd
+      role: chairman
+      from: 2015
   hana-al-rostamani:
     nationality: UAE
     note: First female CEO of FAB
@@ -10716,6 +10916,20 @@ persons:
     born: 1892
     died: 1948
     nationality: USA
+  harry-harris:
+    born: 1956
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: military
+      from: 1978
+      to: 2018
+      note: Admiral, PACOM Commander
+    - org: l3harris
+      role: military
+      from: 1978
+      to: 2018
+      note: Admiral, PACOM Commander
   harry-oppenheimer:
     born: 1908
     died: 2000
@@ -12468,10 +12682,42 @@ persons:
       role: board
       from: 2023
       note: Co-chair Task Force Economic Security
+    - org: business-roundtable
+      role: member
+    - org: mckinsey
+      role: advisor
+      from: 1991
+      to: 1996
+      note: Consultant telecom/aerospace
+    - org: us-air-force
+      role: member
+      from: 1985
+      to: 1991
+      note: Pilot C-141, Gulf War
     - org: lockheed-martin
       role: executive
       from: 2020
       note: CEO & Chairman
+    - org: honeywell
+      role: executive
+      from: 1999
+      to: 2001
+      note: President Aerospace Services
+    - org: catalyst
+      role: board
+    - org: us-air-force-academy
+      role: alumni
+      from: 1978
+      to: 1982
+      note: BSc Engineering
+    - org: princeton
+      role: alumni
+      note: MPA Woodrow Wilson School
+    - org: american-tower
+      role: executive
+      from: 2001
+      to: 2020
+      note: COO 2001, CEO 2003, Chairman 2004
   james-turley:
     nationality: USA
     note: Ex Chairman & CEO Ernst & Young
@@ -13568,6 +13814,13 @@ persons:
       role: executive
       from: 2022
       note: President
+  joanna-geraghty:
+    nationality: USA
+    affiliations:
+    - org: l3harris
+      role: board
+      from: 2022
+      note: Compensation Committee chair
   joao-moreira-salles:
     born: 1962
     nationality: BRA
@@ -15670,6 +15923,24 @@ persons:
     - person: zenko-suzuki
       type: colleague
       note: Predecessore come leader Kochikai
+  kim-dong-kwan:
+    born: 1983
+    nationality: KOR
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos 2024 speaker
+    - org: hanwha-aerospace
+      role: executive
+      from: 2022
+      note: Vice Chairman & CEO
+    - org: hanwha-group
+      role: executive
+      from: 2022
+      note: Vice Chairman
+    relations:
+    - person: kim-seung-youn
+      type: son
   kim-philby:
     born: 1912
     died: 1988
@@ -15695,6 +15966,16 @@ persons:
     - person: james-angleton
       type: colleague
       note: Washington liaison, weekly lunches, Philby deceived Angleton
+  kim-seung-youn:
+    born: 1952
+    nationality: KOR
+    affiliations:
+    - org: hanwha-aerospace
+      role: chairman
+      from: 1977
+    - org: hanwha-group
+      role: chairman
+      from: 1981
   kim-tae-hyun:
     born: 1966
     nationality: KOR
@@ -15733,6 +16014,29 @@ persons:
     born: 1982
     nationality: RUS
     note: Son of Nikolai Shamalov, ex-husband of Katerina Tikhonova
+  kirk-hachigian:
+    nationality: USA
+    affiliations:
+    - org: l3harris
+      role: board
+      from: 2023
+  kirkland-donald:
+    born: 1953
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: military
+      from: 1975
+      to: 2013
+      note: Admiral, Dir Naval Nuclear Propulsion
+    - org: huntington-ingalls
+      role: chairman
+      from: 2020
+      note: Board dal 2017, Chairman dal 2020
+    - org: boeing
+      role: advisor
+      from: 2024
+      note: Special Advisor Quality Review
   kirsty-coventry:
     born: 1983
     nationality: ZWE
@@ -16738,6 +17042,13 @@ persons:
       note: Re dei Belgi
   leszek-balcerowicz:
     nationality: POL
+  lewis-hay:
+    nationality: USA
+    affiliations:
+    - org: l3harris
+      role: board
+      from: 2019
+      note: Lead Independent Director
   lewis-preston:
     born: 1926
     died: 1995
@@ -17592,6 +17903,17 @@ persons:
       from: 2019
       to: 2025
       note: CEO 2019-2025, resigned amid crisis
+  maktoum-bin-mohammed-al-maktoum:
+    born: 1983
+    nationality: UAE
+    affiliations:
+    - org: governo-uae
+      role: minister
+      from: 2021
+      note: First Deputy Ruler Dubai, Deputy PM, Minister of Finance
+    - org: icd
+      role: vice-chairman
+      from: 2015
   malcolm-rifkind:
     born: 1946
     nationality: GBR
@@ -18349,6 +18671,11 @@ persons:
       from: 2013
       to: 2020
       note: CEO & Chairman
+    - org: lockheed-martin
+      role: executive
+      from: 2013
+      to: 2020
+      note: CEO; Chairman 2014-2021
   marina-berlusconi:
     born: 1966
     nationality: ITA
@@ -19500,6 +19827,30 @@ persons:
       role: executive
       from: 2015
       note: President
+  michael-federmann:
+    born: 1944
+    nationality: ISR
+    affiliations:
+    - org: elbit-systems
+      role: chairman
+      from: 2000
+      to: 2023
+    - org: federmann-enterprises
+      role: chairman
+    - org: dan-hotels
+      role: chairman
+      from: 1989
+      to: 2023
+    - org: hebrew-university
+      role: chairman
+      from: 2000
+      note: Board of Trustees
+    - org: weizmann-institute
+      role: board
+    relations:
+    - person: ehud-barak
+      type: colleague
+      note: Sayeret Matkal, IDF
   michael-hayden:
     born: 1945
     nationality: USA
@@ -19805,6 +20156,23 @@ persons:
       from: 2012
       to: 2024
       note: Founder
+  mike-petters:
+    born: 1959
+    nationality: USA
+    affiliations:
+    - org: cnas
+      role: advisor
+      note: Board of Advisors
+    - org: northrop-grumman
+      role: executive
+      from: 2008
+      to: 2011
+      note: President Northrop Grumman Shipbuilding
+    - org: huntington-ingalls
+      role: executive
+      from: 2011
+      to: 2022
+      note: President & CEO
   mike-reynolds:
     born: 1945
     nationality: GBR
@@ -20118,6 +20486,10 @@ persons:
       role: leader
       from: 2022
       note: Presidente UAE, Ruler Abu Dhabi
+    - org: edge-group
+      role: founder
+      from: 2019
+      note: Annuncio pubblico creazione EDGE
   mona-sahlin:
     born: 1957
     nationality: SWE
@@ -20519,6 +20891,15 @@ persons:
     - org: meta
       role: board
       note: Director
+  nancy-norton:
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: military
+      note: Vice Admiral, Director DISA
+    - org: leidos
+      role: board
+      from: 2024
   nancy-pangestu:
     nationality: IDN
     family: pangestu
@@ -21206,6 +21587,19 @@ persons:
       role: executive
       from: 2023
       note: CEO
+  nir-zuk:
+    born: 1971
+    nationality: ISR
+    affiliations:
+    - org: unit-8200
+      role: member
+    - org: check-point
+      role: executive
+      from: 1994
+      to: 1999
+    - org: palo-alto-networks
+      role: founder
+      from: 2005
   nirmala-sitharaman:
     born: 1959
     nationality: IND
@@ -24845,6 +25239,18 @@ persons:
     died: 1943
     nationality: FRA
     note: Rabbi Neuilly. Murdered Auschwitz. Saved 700 Jews. Grandfather Jean-Pierre Meyers
+  robert-millard:
+    nationality: USA
+    affiliations:
+    - org: mit
+      role: chairman
+      from: 2014
+      to: 2020
+      note: MIT Corporation
+    - org: l3harris
+      role: board
+      from: 1997
+      note: Harris board dal 1997
   robert-morris:
     nationality: USA
     affiliations:
@@ -24935,6 +25341,13 @@ persons:
       from: 1958
       to: 1960
       note: Primo Presidente
+  robert-shapard:
+    nationality: USA
+    affiliations:
+    - org: leidos
+      role: chairman
+      from: 2023
+      note: Board dal 2013, Chairman dal 2023
   robert-steel:
     nationality: USA
     note: Ex Goldman Sachs Vice Chairman, Under Secretary Treasury
@@ -25111,12 +25524,42 @@ persons:
     - org: institute-for-advanced-study
       role: board
       note: Trustee Emeritus
+  roger-fradin:
+    nationality: USA
+    affiliations:
+    - org: carlyle-group
+      role: advisor
+      note: Operating Executive
+    - org: honeywell
+      role: executive
+      to: 2017
+      note: Former VP & CEO divisions
+    - org: l3harris
+      role: board
+      from: 2019
   roger-jenkins:
     nationality: GBR
     affiliations:
     - org: barclays
       role: executive
       note: Executive Chairman Middle East - architected 2008 Qatar rescue
+  roger-krone:
+    born: 1956
+    nationality: USA
+    affiliations:
+    - org: cnas
+      role: board
+      note: Board of Directors
+    - org: boeing
+      role: executive
+      from: 1997
+      to: 2014
+      note: President Network & Space Systems
+    - org: leidos
+      role: executive
+      from: 2014
+      to: 2023
+      note: CEO
   roland-busch:
     born: 1964
     nationality: DEU
@@ -26341,6 +26784,14 @@ persons:
       role: founder
       from: 2010
       note: CEO
+  shari-arison:
+    born: 1957
+    nationality: ISR-USA
+    affiliations:
+    - org: bank-hapoalim
+      role: owner
+      from: 1999
+      to: 2019
   sharmeen-obaid-chinoy:
     born: 1978
     nationality: PAK
@@ -26382,6 +26833,9 @@ persons:
     - org: adq
       role: chairman
     relations:
+    - person: donald-trump
+      type: business-partner
+      note: UAE-USA $1.4T investment framework, World Liberty Financial deal
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
@@ -26499,6 +26953,15 @@ persons:
       type: spouse
     - person: roshni-nadar
       type: parent
+  shlomo-kramer:
+    born: 1966
+    nationality: ISR
+    affiliations:
+    - org: unit-8200
+      role: member
+    - org: check-point
+      role: founder
+      from: 1993
   shmuel-schnitzer:
     nationality: ISR
     affiliations:
@@ -26739,6 +27202,13 @@ persons:
     relations:
     - person: thaksin-shinawatra
       type: brother-in-law
+  son-jae-il:
+    nationality: KOR
+    affiliations:
+    - org: hanwha-aerospace
+      role: executive
+      from: 2022
+      note: CEO
   sonia-gandhi:
     born: 1946
     nationality: ITA-IND
@@ -26891,6 +27361,26 @@ persons:
       role: founder
       from: 1996
       note: Creata per testamento
+  stef-wertheimer:
+    born: 1926
+    died: 2025
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 1977
+      to: 1992
+      note: Knesset
+    - org: rafael
+      role: executive
+      from: 1950
+      to: 1955
+    - org: iscar
+      role: founder
+      from: 1952
+    relations:
+    - person: eitan-wertheimer
+      type: father
   stefan-ingves:
     born: 1953
     nationality: SWE
@@ -27026,6 +27516,17 @@ persons:
       role: executive
       from: 2011
       note: CEO
+  stephanie-osullivan:
+    nationality: USA
+    affiliations:
+    - org: cia
+      role: executive
+      from: 1995
+      to: 2011
+      note: Associate Deputy Director, Dir S&T
+    - org: huntington-ingalls
+      role: board
+      from: 2021
   stephanie-pope:
     nationality: USA
     affiliations:
@@ -27706,6 +28207,15 @@ persons:
     born: 1959
     nationality: CAN
     family: thomson
+  ted-arison:
+    born: 1924
+    died: 1999
+    nationality: ISR-USA
+    affiliations:
+    - org: bank-hapoalim
+      role: owner
+      from: 1996
+      to: 1999
   ted-turner:
     nationality: USA
     affiliations:
@@ -27991,6 +28501,13 @@ persons:
       from: 1981
       to: 2009
       note: CEO (founder era)
+  thomas-dattilo:
+    nationality: USA
+    affiliations:
+    - org: l3harris
+      role: board
+      from: 2001
+      note: Harris chairman 2012-2014
   thomas-drake:
     born: 1957
     nationality: USA
@@ -28262,6 +28779,16 @@ persons:
       role: advisor
       from: 1985
       to: 1988
+  tina-jonas:
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      note: Under Secretary of Defense (Comptroller)
+    - org: leidos
+      role: board
+      from: 2024
+      note: Audit & Finance Committee
   tito-mboweni:
     born: 1959
     died: 2024
@@ -28328,6 +28855,22 @@ persons:
       role: executive
       from: 2020
       note: President & CEO BAE Systems Inc
+  tom-bell:
+    nationality: USA
+    affiliations:
+    - org: rolls-royce
+      role: executive
+      from: 2012
+      to: 2021
+      note: President Defense, Chairman & CEO North America
+    - org: boeing
+      role: executive
+      to: 2023
+      note: SVP Global Sales, Defense Space & Security
+    - org: leidos
+      role: executive
+      from: 2023
+      note: CEO
   tom-enders:
     born: 1958
     nationality: DEU
@@ -28646,6 +29189,18 @@ persons:
     relations:
     - person: ibn-saud
       type: grandson
+  udi-mokady:
+    born: 1970
+    nationality: ISR
+    affiliations:
+    - org: unit-8200
+      role: member
+    - org: cyberark
+      role: founder
+      from: 1999
+    - org: cyberark
+      role: chairman
+      from: 2022
   ugur-sahin:
     born: 1965
     nationality: TUR-DEU
@@ -28665,6 +29220,18 @@ persons:
       role: leader
       from: 2022
       note: primo ministro
+  ulrich-grillo:
+    born: 1959
+    nationality: DEU
+    affiliations:
+    - org: rheinmetall
+      role: chairman
+      from: 2017
+      note: Supervisory Board Chairman
+    - org: eon
+      role: board
+      from: 2019
+      note: Supervisory Board
   ulrik-federspiel:
     born: 1943
     nationality: DNK
@@ -30213,6 +30780,9 @@ persons:
       role: chairman
       from: 2018
       note: Deputy Chair, Rotating Chairman Apr-Sep 2025
+  yadin-antebi:
+    born: 1970
+    nationality: ISR
   yair-goldfinger:
     nationality: ISR
     note: Cofondatore ICQ
@@ -30366,6 +30936,16 @@ persons:
       from: 1948
       to: 1968
       note: Chief of Staff 1964-68
+  yitzhak-tshuva:
+    born: 1948
+    nationality: ISR
+    affiliations:
+    - org: delek-group
+      role: chairman
+      from: 1998
+    - org: el-ad-group
+      role: founder
+      from: 1978
   yngve-slyngstad:
     born: 1962
     nationality: NOR
@@ -30383,7 +30963,7 @@ persons:
       from: 2022
       note: Managing Partner, 5% owner
   yoav-turgeman:
-    nationality: Israel
+    nationality: ISR
     note: Rafael CEO, ex ELTA CEO, Arrow missile program
     affiliations:
     - org: rafael
@@ -30450,6 +31030,10 @@ persons:
       role: executive
       from: 2021
       note: Director Israel Operations
+    - org: softbank
+      role: executive
+      from: 2021
+      note: head of SoftBank Israel
     - org: mossad
       role: executive
       from: 2016
@@ -30528,6 +31112,25 @@ persons:
     died: 2019
     nationality: RUS
     note: Mayor of Moscow 1992-2010, ally of Gusinsky
+  yuval-steinitz:
+    born: 1958
+    nationality: ISR
+    note: Chairman Rafael, ex Finance/Intelligence/Energy Minister
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 2009
+      to: 2021
+      note: Finance, Intelligence, Energy Minister
+    - org: governo-israele
+      role: legislator
+      from: 1999
+      to: 2021
+      note: Knesset member, Likud
+    - org: rafael
+      role: chairman
+      from: 2023
+      note: Chairman of the Board
   yves-boel:
     born: 1927
     died: 2012

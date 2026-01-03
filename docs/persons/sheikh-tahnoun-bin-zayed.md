@@ -1,6 +1,6 @@
 # Sheikh Tahnoun bin Zayed Al Nahyan (1968)
 
-> L'architetto del potere tecnologico e di sorveglianza degli Emirati - $1.5 trilioni sotto controllo
+> L'architetto del potere tecnologico e di sorveglianza degli Emirati - oltre $1.5 trilioni sotto controllo diretto
 
 ## Dati Essenziali
 
@@ -35,6 +35,7 @@
 | **2018-** | Chairman | G42 |
 | **2023-** | Deputy Ruler | Emirate of Abu Dhabi |
 | **2024-** | Chairman | MGX |
+| **Mar 2025** | Lead Negotiator | UAE-USA $1.4T Investment Framework |
 
 ### Portfolio Controllato (~$1.5 Trilioni)
 
@@ -91,10 +92,13 @@
 | Aspetto | Dettaglio |
 |---------|-----------|
 | **G42** | AI conglomerate, biotech, surveillance |
-| **MGX** | $50B+ AI investment fund |
-| **Stargate** | Partner nel progetto $500B |
+| **MGX** | $50B+ AI investment fund (target $100B) |
+| **Stargate** | Partner nel progetto $500B con SoftBank/OpenAI (Jan 2025) |
 | **Microsoft deal** | $1.5B investment in G42 (2024) |
 | **AI investments** | OpenAI, Anthropic, xAI |
+| **AIP** | AI Infrastructure Partnership con BlackRock/Microsoft/Nvidia |
+| **Aligned Data Centers** | $40B acquisition con BlackRock/GIP (Oct 2025) |
+| **Binance** | $2B investment via MGX (2025) |
 
 ### Intelligence & Surveillance
 
@@ -132,6 +136,8 @@
 | **DarkMatter** | 2017-2019 | Cyber company con ties intelligence, risorse poi in G42 |
 | **G42-Huawei** | 2020-2023 | Partnership con Huawei, pressioni USA per terminare |
 | **Surveillance tech** | Ongoing | Accuse di uso tech per repressione dissidenti |
+| **World Liberty Financial** | May 2025 | MGX investe $2B in crypto firm dei Trump (USD1 stablecoin), settimane prima approvazione export chip AI avanzati |
+| **AI Chips Deal** | May-Sep 2025 | Approvazione export GPU avanzate a UAE dopo $2B investment, criticato come conflitto d'interessi |
 
 ---
 
@@ -170,7 +176,10 @@
 | **2023** | Deputy Ruler Abu Dhabi |
 | **2024** | Chairman MGX, TIME 100 AI |
 | **2024** | Microsoft investe $1.5B in G42 |
-| **2025** | Partner Stargate, $1.4T UAE-US deal annunciato |
+| **Jan 2025** | Partner Stargate Project (SoftBank, OpenAI, Oracle) |
+| **Mar 2025** | White House meeting con Trump; annuncia $1.4T UAE-USA framework |
+| **May 2025** | MGX investe $2B in World Liberty Financial (Trump crypto) |
+| **Sep 2025** | AIP + MGX acquisiscono Aligned Data Centers per $40B |
 
 ---
 
@@ -180,6 +189,8 @@
 - [ ] Come sono stati integrati gli asset DarkMatter in G42?
 - [ ] Relazione con intelligence USA post-Project Raven?
 - [ ] Ruolo negli Abraham Accords?
+- [ ] Dettagli dell'accordo World Liberty Financial e implicazioni politiche?
+- [ ] Uso finale dei chip AI avanzati esportati verso UAE?
 
 ---
 
@@ -188,12 +199,19 @@
 ### Biografie
 - [Wikipedia - Tahnoun bin Zayed](https://en.wikipedia.org/wiki/Tahnoun_bin_Zayed_Al_Nahyan_(national_security_advisor))
 - [The National - Profile](https://www.thenationalnews.com/uae/government/2023/03/30/profile-sheikh-tahnoun-bin-zayed-deputy-ruler-of-abu-dhabi/)
+- [Gulf Business 100 Most Powerful Arabs 2025](https://gulfbusiness.com/lists/100-most-powerful-arabs-2025/hh-sheikh-tahnoon-bin-zayed-al-nahyan/)
 
 ### Analisi
 - [TIME - 100 Most Influential in AI](https://time.com/7012785/sheik-tahnoun-bin-zayed-al-nahyan/)
 - [Gulf States Newsletter - Profile](https://www.gsn-online.com/news-centre/article/profile-who-royal-groups-sheikh-tahnoun)
-- [Emirates Leaks - Surveillance Empire](https://emiratesleaks.com/tahnoun-bin-zayed-the-enigmatic-billionaire-behind-the-uaes-surveillance-empire/?lang=en)
+- [Emirates Leaks - Surveillance Empire](https://emiratesleaks.com/tahnoun-bin-zayed-the-enigmatic-billionaire-behind-global-espionage-and-surveillance/?lang=en)
+- [Bloomberg - Abu Dhabi Wealth Funds](https://www.bloomberg.com/graphics/2025-abu-dhabi-investment-funds/)
+
+### Deal News
+- [Bloomberg - UAE $1.4T Investment](https://www.bloomberg.com/news/articles/2025-03-21/uae-to-pledge-1-4-trillion-us-investment-after-trump-meeting)
+- [CNBC - Aligned Data Centers $40B](https://www.cnbc.com/2025/10/15/nvidia-microsoft-blackrock-aligned-data-centers.html)
+- [Middle East Eye - World Liberty Financial](https://www.middleeasteye.net/news/uaes-ruling-family-agrees-2bn-transaction-trump-crypto-firm)
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*
