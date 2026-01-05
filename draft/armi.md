@@ -63,7 +63,7 @@
   Persone Chiave (19):
   | Categoria      | Persone                                                                                                                                                             |
   |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-  | CEO USA        | [v] James Taiclet (Lockheed), Christopher Calio (RTX), [v] Kathy Warden (Northrop), [v] Phebe Novakovic (General Dynamics), Christopher Kubasik (L3Harris), Chris Kastner (HII) |
+  | CEO USA        | [v] James Taiclet (Lockheed), [v] Christopher Calio (RTX), [v] Kathy Warden (Northrop), [v] Phebe Novakovic (General Dynamics), Christopher Kubasik (L3Harris), Chris Kastner (HII) |
   | CEO Europa/UK  | Charles Woodburn (BAE), Armin Papperger (Rheinmetall)                                                                                                               |
   | CEO Israele    | Bezhalel Machlis (Elbit), Boaz Levy (IAI), Yoav Turgeman (Rafael)                                                                                                   |
   | Revolving Door | Lloyd Austin, Mark Esper, James Mattis, Patrick Shanahan, Michael Vickers                                                                                           |

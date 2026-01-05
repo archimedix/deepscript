@@ -1042,6 +1042,160 @@ Caso emblematico di **privatizzazione fallita**: IRI (1950) → Benetton (1995) 
 
 ---
 
+### L'Eredita' IRI: Lo Stato Imprenditore (1933-2002)
+
+L'[IRI](../docs/company/iri.md) (Istituto per la Ricostruzione Industriale) fu la piu' grande holding statale dell'Occidente, creata nel 1933 da Mussolini per salvare le banche italiane dalla Grande Depressione e liquidata nel 2002 dopo le privatizzazioni.
+
+```
+IRI - LA HOLDING DI STATO (1933-2002)
+
+          ┌──────────────────┐
+          │       IRI        │
+          │   (1933-2002)    │
+          └────────┬─────────┘
+    ┌──────────────┼──────────────┐──────────────┐
+    │              │              │              │
+┌───▼───┐    ┌─────▼─────┐  ┌─────▼─────┐  ┌─────▼─────┐
+│FINSIDER│   │FINMECCANICA│  │   STET    │  │  BANCHE   │
+│(acciaio)│  │(meccanica) │  │(telecom)  │  │(3 grandi) │
+└───┬───┘    └─────┬─────┘  └─────┬─────┘  └─────┬─────┘
+    │              │              │              │
+    ▼              ▼              ▼              ▼
+ Italsider    Aeritalia      Telecom Italia   BCI, Credit,
+ (defunct)    → Alenia       (privatizzata)   Banco Roma
+              → Leonardo                      (privatizzate)
+```
+
+**Dimensione al picco (1980):**
+
+| Metrica | Valore |
+|---------|--------|
+| Aziende controllate | ~1.000 |
+| Dipendenti | 500.000+ |
+| Quota acciaio Italia | 55% |
+| Quota trasporto aereo | 91% (Alitalia) |
+| Ranking mondiale | Piu' grande gruppo industriale fuori USA |
+
+**Le Holding Settoriali IRI:**
+
+| Holding | Settore | Destino |
+|---------|---------|---------|
+| Finsider | Siderurgia | Liquidata 1990s |
+| [Finmeccanica](../docs/defense/finmeccanica.md) | Meccanica/Difesa | → Leonardo (2017) |
+| STET | Telecomunicazioni | → Telecom Italia (privatizzata) |
+| SME | Alimentare | Venduta |
+| Finmare | Navigazione | Liquidata |
+| Italstat | Infrastrutture | → Autostrade (Benetton) |
+
+**Le Banche IRI ("Banche di Interesse Nazionale"):**
+
+| Banca | Acquisizione IRI | Privatizzazione |
+|-------|------------------|-----------------|
+| Banca Commerciale Italiana | 1933 | 1994 → Intesa |
+| Credito Italiano | 1933 | 1993 → UniCredit |
+| Banco di Roma | 1933 | 1992 → UniCredit |
+
+**Presidenti IRI:**
+
+| Presidente | Periodo | Note |
+|------------|---------|------|
+| [Alberto Beneduce](../docs/persons/alberto-beneduce.md) | 1933-1939 | Fondatore, economista socialista |
+| [Romano Prodi](../docs/persons/romano-prodi.md) | 1982-89, 1993-94 | Privatizzazioni |
+| [Gian Maria Gros-Pietro](../docs/persons/gian-maria-gros-pietro.md) | 1997-1999 | Ultima fase |
+
+**Pattern**: Da strumento fascista a motore del miracolo economico, IRI incarno' il "capitalismo di stato all'italiana". Le privatizzazioni degli anni '90 (accordo Andreatta-Van Miert) smantellarono il sistema, ma molte ex-IRI rimangono strategiche: Leonardo (difesa), Fincantieri (navi), RAI (media).
+
+---
+
+### Alitalia: Il Fallimento Cronico (1946-2021)
+
+[Alitalia](../docs/company/alitalia.md) rappresenta il caso emblematico di **fallimento del capitalismo di stato italiano**: 75 anni di perdite, un solo anno di profitto (1998), €10+ miliardi di aiuti pubblici.
+
+```
+ALITALIA: DAL VETTORE DI BANDIERA AL BUCO NERO
+
+IRI (1946)
+    │
+    ▼
+ALITALIA ──────► 1998: unico profitto ──────► €3.7 mld perdite (1999-2008)
+    │
+    ▼
+FALLIMENTO 2008 ──► CAI (€1.05 mld)
+    │
+    ▼
+AIR FRANCE 25% (2009) ──► svalutato
+    │
+    ▼
+ETIHAD 49% (2014-17) ──► fallito
+    │
+    ▼
+AMM. STRAORDINARIA (2017-21)
+    │
+    ▼
+ITA AIRWAYS (2021) ──► LUFTHANSA 41% (2025)
+```
+
+| Fase | Periodo | Esito |
+|------|---------|-------|
+| Statale (IRI) | 1946-1996 | Perdite croniche |
+| Privatizzazione parziale | 1996-2008 | Fallimento |
+| CAI (Berlusconi) | 2008-2014 | €1.05 mld bruciati |
+| Era Etihad | 2014-2017 | 49% stake perso |
+| Amm. straordinaria | 2017-2021 | Agonia |
+| ITA Airways | 2021- | Lufthansa 41% (2025) |
+
+**Figure chiave:**
+
+| Persona | Ruolo | Periodo |
+|---------|-------|---------|
+| [Giancarlo Cimoli](../docs/persons/giancarlo-cimoli.md) | CEO | 2004-2007 (condannato) |
+| [Luca Cordero di Montezemolo](../docs/persons/luca-cordero-di-montezemolo.md) | Chairman | 2014-2017 |
+| Cramer Ball | CEO | 2016-2017 |
+
+**Lezione**: Il "nazionalismo economico" (protezione del vettore di bandiera) e' costato €10+ miliardi ai contribuenti. ITA Airways e' ora in orbita Lufthansa.
+
+---
+
+### Da Alenia a Leonardo: La Catena dell'Aerospazio Italiano
+
+La filiera aerospaziale italiana ha radici nell'IRI e converge oggi in [Leonardo](../docs/defense/leonardo.md):
+
+```
+CAPRONI (1908)     AERITALIA (1969)     SELENIA
+    │                    │                 │
+    └──► AGUSTA          └────────┬────────┘
+           │                      │
+           │              ALENIA (1990)
+           │                      │
+           └──────────────────────┤
+                                  │
+                          FINMECCANICA
+                                  │
+                         LEONARDO (2017)
+```
+
+**[Alenia Aeronautica](../docs/defense/alenia.md) (1990-2016):**
+
+| Programma | Ruolo | Partner |
+|-----------|-------|---------|
+| Eurofighter Typhoon | 19.5% workshare | UK, GER, ESP |
+| C-27J Spartan | Prime contractor | Lockheed Martin |
+| Boeing 787 | 14% aerostructures | Boeing |
+| ATR 42/72 | 50% JV | Airbus |
+
+**La Famiglia [Caproni](../docs/family/caproni.md): Pionieri dell'Aviazione**
+
+Gianni Caproni (1886-1957) fondo' nel 1908 la prima industria aeronautica italiana. Fornitore chiave di Mussolini, l'azienda fallì nel 1950. Gli asset furono assorbiti da Agusta (oggi Leonardo).
+
+| Fase | Periodo | Note |
+|------|---------|------|
+| Fondazione | 1908 | Milano, bombardieri WWI |
+| Era fascista | 1922-1945 | Espansione, 20+ sussidiarie |
+| Fallimento | 1950 | Fine conglomerato |
+| Museo | 1927-oggi | Trento, piu' antico museo aeronautico italiano |
+
+---
+
 ### Il Pattern "L'Outsider che Sfida il Sistema"
 
 Leonardo Del Vecchio rappresenta un caso unico di **outsider** che ha sfidato frontalmente il "salotto buono":
@@ -1510,6 +1664,29 @@ Tronchetti Provera rappresenta il classico caso di **cooptazione per matrimonio*
 
 **Forum**: Nessuna presenza significativa in forum internazionali (a differenza di Agnelli-Elkann). Alessandro Benetton ha background Goldman Sachs (1988-89).
 
+### Caproni (Storica - Defunct)
+
+| Generazione | Figure | Asset |
+|-------------|--------|-------|
+| I (fondatore) | [Gianni Caproni](../docs/persons/gianni-caproni.md) (1886-1957) | Societa' Italiana Caproni (1908), bombardieri WWI |
+| I (consorte) | [Timina Guasti Caproni](../docs/persons/timina-caproni.md) (1902-1991) | Museo Caproni (1927) |
+| II | Maria Fede Caproni (†2019) | Custodia collezione |
+
+**La parabola Caproni:**
+
+| Fase | Periodo | Note |
+|------|---------|------|
+| Fondazione | 1908 | Prima industria aeronautica italiana |
+| WWI | 1914-1918 | Bombardieri Ca.32, Ca.33, Ca.40 |
+| Era fascista | 1922-1945 | Espansione a 20+ sussidiarie, simbolo regime |
+| Declino | 1945-1950 | Mancata riconversione post-bellica |
+| Fallimento | 1950 | Fine Societa' Italiana Caproni |
+| Acquisizione | 1983 | Caproni Vizzola venduta ad Agusta (oggi Leonardo) |
+
+**Eredita'**: Il [Museo dell'Aeronautica Gianni Caproni](../docs/foundation/museo-caproni.md) a Trento e' il piu' antico museo aeronautico d'Italia (fondato 1927). La collezione fu ceduta alla Provincia di Trento nel 2011.
+
+**Pattern**: Dinastia industriale "bruciata" dal fascismo - espansione durante il regime, incapacita' di riconversione post-bellica, fallimento. Gli asset confluirono nella filiera che oggi e' Leonardo.
+
 ---
 
 ## V. I Governi Tecnici: Pattern di Crisi
@@ -1783,4 +1960,4 @@ Firmato da Renzi e Padoan nel 2014 per €2.1 miliardi:
 - Neo4j: [Schema corrente](../db/schema.yaml)
 - Query per aggiornamenti: vedi CLAUDE.md
 
-*Ultimo aggiornamento: 24 Dicembre 2025 - Aggiunti: Pattern "Presidente che Nomina i Tecnici" (Napolitano → Draghi/Monti/Letta), confronto Presidenti Repubblica e Forum (Mattarella unico senza affiliazioni dal 1985), sezione Governo Meloni (rottura pattern tecnocratico), schede governo-italia.md, sergio-mattarella.md, giorgio-napolitano.md*
+*Ultimo aggiornamento: 4 Gennaio 2026 - Aggiunti: Sezione "L'Eredita' IRI: Lo Stato Imprenditore (1933-2002)" con holding settoriali e banche, sezione "Alitalia: Il Fallimento Cronico (1946-2021)", sezione "Da Alenia a Leonardo: La Catena dell'Aerospazio Italiano", dinastia Caproni (pionieri aviazione 1908-1950). Schede create: iri.md, alitalia.md, alenia.md, caproni.md (family)*

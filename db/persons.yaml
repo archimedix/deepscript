@@ -544,6 +544,16 @@ persons:
       to: 2022
     - org: itam
       role: benefactor
+  alberto-beneduce:
+    born: 1877
+    died: 1944
+    nationality: ITA
+    affiliations:
+    - org: iri
+      role: chairman
+      from: 1933
+      to: 1939
+      note: Founding President
   alberto-nagel:
     nationality: ITA
     affiliations:
@@ -675,7 +685,7 @@ persons:
       role: executive
       from: 2017
       to: 2023
-      note: CEO 2017-2023
+      note: CEO
   alex-blania:
     nationality: DEU
     affiliations:
@@ -3424,6 +3434,10 @@ persons:
       role: member
       from: 1995
       note: Partecipante
+    - org: microsoft-research
+      role: founder
+      from: 1991
+      note: Co-founder
   bill-richardson:
     born: 1947
     died: 2023
@@ -4829,6 +4843,17 @@ persons:
     - org: china-telecom
       role: executive
       note: Vice President
+  chen-zongnian:
+    nationality: CHN
+    affiliations:
+    - org: hikvision
+      role: chairman
+      from: 2001
+      note: NPC delegate 2018
+    - org: cetc
+      role: executive
+      from: 1986
+      note: Head 52nd Research Institute, Party Secretary CETHIK
   chia-ek-chor:
     died: 1983
     nationality: THA
@@ -5433,6 +5458,14 @@ persons:
       role: executive
       from: 2024
       note: Vice Governor
+  cramer-ball:
+    nationality: AUS
+    affiliations:
+    - org: alitalia
+      role: executive
+      from: 2016
+      to: 2017
+      note: CEO
   cressida-hogg:
     born: 1968
     nationality: GBR
@@ -5500,6 +5533,18 @@ persons:
       note: WEF Annual Meeting 2016
     - org: shin-kong-life-foundation
       role: executive
+  cyril-han:
+    nationality: CHN
+    affiliations:
+    - org: alibaba
+      role: executive
+      from: 2011
+      to: 2014
+      note: Corporate Finance
+    - org: ant-group
+      role: executive
+      from: 2025
+      note: CEO (Mar 2025-), ex-CFO, President
   cyril-ramaphosa:
     born: 1952
     nationality: ZAF
@@ -7651,6 +7696,21 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader, Mayor LA, Ambassador India
+  eric-jing:
+    born: 1972
+    nationality: CHN
+    affiliations:
+    - org: wef
+      role: board
+      note: YGL Foundation Board member
+    - org: alibaba
+      role: board
+      from: 2007
+      note: Board member, ex-VP Finance
+    - org: ant-group
+      role: chairman
+      from: 2018
+      note: CEO 2016-2025, Chairman 2018-
   eric-roll:
     born: 1907
     died: 2005
@@ -7762,6 +7822,13 @@ persons:
       role: founder
       from: 1952
       note: Co-fondatore
+  eric-xu-baidu:
+    nationality: CHN
+    affiliations:
+    - org: baidu
+      role: founder
+      from: 2000
+      note: Co-founder
   erick-thohir:
     born: 1970
     nationality: IDN
@@ -8337,6 +8404,8 @@ persons:
     - org: aspen-romania
       role: member
       note: Speaker
+  federico-caproni:
+    nationality: ITA
   federico-mayor:
     born: 1934
     nationality: ESP
@@ -9079,6 +9148,19 @@ persons:
       role: leader
       from: 2017
       note: Bundespraesident
+  frank-wang:
+    born: 1980
+    nationality: CHN
+    affiliations:
+    - org: dji
+      role: founder
+      from: 2006
+      note: Founder & CEO, ~40% stake
+    - org: hkust
+      role: member
+      from: 2003
+      to: 2006
+      note: BS Engineering, mentored by Li Zexiang
   frank-wisner:
     born: 1909
     died: 1965
@@ -9352,6 +9434,32 @@ persons:
       from: 2003
       to: 2022
       note: Acquired for £598M, sold to Central/Signa for ~£4B
+  gan-jie:
+    nationality: CHN
+    note: Deputy Dean Cheung Kong Graduate School of Business
+    affiliations:
+    - org: xbotpark
+      role: founder
+      from: 2014
+      note: Co-founder, CKGSB Deputy Dean
+  gao-bingqiang:
+    nationality: CHN
+    note: Former Dean HKUST Engineering, chip expert, DJI early investor
+    affiliations:
+    - org: dji
+      role: advisor
+      note: Early angel investor
+    - org: hkust
+      role: executive
+      note: Former Dean School of Engineering
+    - org: xbotpark
+      role: founder
+      from: 2014
+      note: Co-founder with Li Zexiang
+    - org: googol-technology
+      role: founder
+      from: 1999
+      note: Co-founder with Li Zexiang
   gareth-wong:
     nationality: SGP
     note: CEO Mitbana
@@ -10079,6 +10187,14 @@ persons:
       from: 2011
       to: 2016
       note: President
+  giancarlo-cimoli:
+    nationality: ITA
+    affiliations:
+    - org: alitalia
+      role: executive
+      from: 2004
+      to: 2007
+      note: CEO
   giancarlo-giorgetti:
     born: 1966
     nationality: ITA
@@ -10113,6 +10229,21 @@ persons:
       to: 2003
     - org: la-stampa
       role: owner
+  gianni-caproni:
+    born: 1886
+    died: 1957
+    nationality: ITA
+    affiliations:
+    - org: caproni
+      role: founder
+      from: 1908
+      to: 1957
+    - org: museo-caproni
+      role: founder
+      from: 1927
+    relations:
+    - person: timina-caproni
+      type: spouse
   gianni-infantino:
     born: 1970
     nationality: CHE
@@ -10349,6 +10480,11 @@ persons:
       from: 2011
       to: 2013
       note: CEO Finmeccanica 2011-2013. Arrestato corruzione India, poi assolto
+    - org: finmeccanica
+      role: executive
+      from: 2011
+      to: 2013
+      note: CEO
   giuseppina-di-foggia:
     born: 1969
     nationality: ITA
@@ -10378,6 +10514,13 @@ persons:
       role: executive
       from: 2018
       note: President & CEO
+  gong-hongjia:
+    nationality: CHN-HKG
+    affiliations:
+    - org: hikvision
+      role: founder
+      from: 2001
+      note: Vice Chairman, 13% stake, HK permanent resident
   gopichand-hinduja:
     born: 1940
     died: 2025
@@ -11747,6 +11890,17 @@ persons:
       role: chairman
       from: 2018
       note: Deputy Chair, Rotating Chairman
+  hu-yangzhong:
+    nationality: CHN
+    affiliations:
+    - org: hikvision
+      role: executive
+      from: 2001
+      note: CEO, ex-chief engineer 52nd Research Institute
+    - org: cetc
+      role: executive
+      to: 2001
+      note: Chief engineer 52nd Research Institute
   huang-shilin:
     born: 1967
     nationality: CHN
@@ -12604,6 +12758,13 @@ persons:
       from: 2022
       to: 2023
       note: Foreign Secretary
+  james-ding:
+    born: 1966
+    nationality: CHN
+    affiliations:
+    - org: baidu
+      role: board
+      note: Independent Director, Compensation Committee Chair
   james-l-jones:
     nationality: USA
     affiliations:
@@ -13805,6 +13966,13 @@ persons:
       role: chairman
       from: 2013
       to: 2014
+  jixun-foo:
+    nationality: SGP
+    affiliations:
+    - org: baidu
+      role: board
+      from: 2019
+      note: Independent Director
   joachim-nagel:
     born: 1966
     nationality: DEU
@@ -16180,6 +16348,22 @@ persons:
     died: 1938
     nationality: SWE
     family: wallenberg
+  ko-ping-keung:
+    nationality: CHN-HKG
+    note: Professor Emeritus HKUST, Ex-Dean Engineering 1995-2000, Bell Labs alum
+    affiliations:
+    - org: hkust
+      role: executive
+      from: 1993
+      note: Dean of Engineering 1995-2000, Professor Emeritus
+    - org: xbotpark
+      role: founder
+      from: 2014
+      note: Co-founder with Li Zexiang
+    - org: googol-technology
+      role: founder
+      from: 1999
+      note: Co-founder with Li Zexiang
   koenraad-debackere:
     nationality: BEL
     affiliations:
@@ -17127,6 +17311,39 @@ persons:
       role: leader
       from: 2022
       note: Politburo Standing Committee
+  li-zexiang:
+    born: 1961
+    nationality: CHN
+    affiliations:
+    - org: dji
+      role: chairman
+      from: 2006
+      note: Mentor to Frank Wang, angel investor, shareholder
+    - org: hkust
+      role: executive
+      from: 1992
+      note: Colin Lam Ko Yin Professor of Engineering, ECE Dept, Robotics Institute
+    - org: xbotpark
+      role: founder
+      from: 2014
+      note: Co-founder, robotics incubator Songshan Lake
+    - org: googol-technology
+      role: founder
+      from: 1999
+      note: Co-founder with Prof. Ko Ping-Keung, first motion control company in China
+    - org: innox-academy
+      role: founder
+      from: 2021
+      note: Founder, entrepreneurship education
+    - org: central-south-university
+      role: member
+      from: 1978
+      to: 1979
+      note: Freshman at Zhongnan Mining and Metallurgy College, ALCOA scholarship to CMU
+    relations:
+    - person: frank-wang
+      type: mentor
+      note: Professor-mentor at HKUST, then DJI angel investor and chairman
   liad-avraham:
     nationality: ISR
     note: Paragon VP Research
@@ -17266,6 +17483,19 @@ persons:
       role: founder
       from: 2010
       note: Co-founder, Vice Chairman
+  lin-chenxi:
+    born: 1980
+    nationality: CHN
+    affiliations:
+    - org: alibaba
+      role: executive
+      from: 2008
+      to: 2012
+      note: First Director Alibaba Cloud, Apsara OS
+    - org: yitu
+      role: founder
+      from: 2012
+      note: Co-founder, CTO
   linda-mcmahon:
     born: 1948
     nationality: USA
@@ -17318,6 +17548,17 @@ persons:
       from: 2019
       to: 2023
       note: Condannato per corruzione 2024
+  liu-qingfeng:
+    nationality: CHN
+    note: Founder & Chairman iFlytek, started as PhD student 1999
+    affiliations:
+    - org: iflytek
+      role: founder
+      from: 1999
+      note: Chairman & CEO
+    - org: ustc
+      role: member
+      note: PhD student, Human-Computer Voice Lab
   liv-garfield:
     nationality: GBR
     affiliations:
@@ -17518,6 +17759,14 @@ persons:
     - org: mava-foundation
       role: founder
       from: 1994
+  luca-cordero-di-montezemolo:
+    nationality: ITA
+    affiliations:
+    - org: alitalia
+      role: chairman
+      from: 2014
+      to: 2017
+      note: Presidente era Etihad
   luca-de-meo:
     born: 1967
     nationality: ITA
@@ -18514,6 +18763,14 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  maria-fede-caproni:
+    died: 2019
+    nationality: ITA
+    relations:
+    - person: gianni-caproni
+      type: child
+    - person: timina-caproni
+      type: child
   maria-ramos:
     born: 1959
     nationality: PRT-ZAF
@@ -19575,6 +19832,11 @@ persons:
       from: 2014
       to: 2017
       note: CEO 2014-2017. Rinomino in Leonardo 2016
+    - org: finmeccanica
+      role: executive
+      from: 2014
+      to: 2017
+      note: CEO
   max-corvo:
     born: 1920
     died: 2008
@@ -21112,6 +21374,14 @@ persons:
     died: 1836
     nationality: GBR
     family: rothschild
+  nathan-myhrvold:
+    born: 1959
+    nationality: USA
+    affiliations:
+    - org: microsoft-research
+      role: founder
+      from: 1991
+      note: Co-founder, CTO
   nathan-shabot:
     nationality: MX
     affiliations:
@@ -23149,6 +23419,12 @@ persons:
       role: founder
       from: 2003
       note: Founder & CEO
+  peter-lee:
+    nationality: USA
+    affiliations:
+    - org: microsoft-research
+      role: executive
+      note: President
   peter-martland:
     nationality: GBR
     note: Storico intelligence britannica, co-fondatore Cambridge Intelligence Seminar
@@ -23630,6 +23906,18 @@ persons:
     - person: ignazio-visco
       type: colleague
       note: Entrambi Chief Economist OECD (Visco 1997-2002, Padoan 2009-2014)
+  pier-francesco-guarguaglini:
+    born: 1937
+    nationality: ITA
+    affiliations:
+    - org: finmeccanica
+      role: executive
+      from: 2002
+      to: 2011
+      note: CEO
+    - org: selenia
+      role: executive
+      note: 20 years in managerial positions
   pier-silvio-berlusconi:
     born: 1969
     nationality: ITA
@@ -24963,6 +25251,14 @@ persons:
     born: 1913
     died: 1994
     nationality: USA
+  rick-rashid:
+    born: 1952
+    nationality: USA
+    affiliations:
+    - org: microsoft-research
+      role: founder
+      from: 1991
+      note: Co-founder, SVP
   ridha-wirakusumah:
     nationality: IDN
     note: INA CEO 2021-. Ex-CEO Bank Permata, Head of Indonesia KKR, CEO Maybank Indonesia. Ohio U + City U HK DBA
@@ -25442,6 +25738,14 @@ persons:
       from: 1997
       to: 2001
       note: Foreign Secretary
+  robin-li:
+    born: 1968
+    nationality: CHN
+    affiliations:
+    - org: baidu
+      role: founder
+      from: 2000
+      note: Co-founder, Chairman & CEO
   robin-niblett:
     nationality: GBR
     affiliations:
@@ -25473,6 +25777,12 @@ persons:
       note: WEF Annual Meeting 2016
     - org: apolitical
       role: founder
+  rocco-sabelli:
+    nationality: ITA
+    affiliations:
+    - org: alitalia
+      role: executive
+      note: CEO CAI era
   rodolfo-de-benedetti:
     born: 1961
     nationality: ITA
@@ -25682,6 +25992,16 @@ persons:
       role: executive
       from: 1999
       to: 2004
+    - org: iri
+      role: chairman
+      from: 1982
+      to: 1989
+      note: Prima presidenza
+    - org: iri
+      role: chairman
+      from: 1993
+      to: 1994
+      note: Seconda presidenza, privatizzazioni
     - org: european-commission
       role: president
       from: 1999
@@ -28086,6 +28406,36 @@ persons:
       from: 1949
       to: 1973
       note: Co-founder, Executive VP
+  tang-wenbin:
+    nationality: CHN
+    affiliations:
+    - org: megvii
+      role: founder
+      from: 2011
+      note: Co-founder & CTO
+  tang-xiaoou:
+    born: 1968
+    died: 2023
+    nationality: CHN
+    affiliations:
+    - org: mit
+      role: member
+      from: 1991
+      to: 1996
+      note: PhD Computer Vision
+    - org: ustc
+      role: member
+      to: 1990
+      note: BS
+    - org: sensetime
+      role: founder
+      from: 2014
+      to: 2023
+      note: Founder, largest shareholder 20.63%
+    - org: cuhk
+      role: member
+      from: 1996
+      note: Professor, founded Multimedia Lab 2001
   tania-singer:
     born: 1969
     nationality: DEU
@@ -28741,6 +29091,17 @@ persons:
       note: WEF Annual Meeting 2016
     - org: augmentum-capital
       role: founder
+  timina-caproni:
+    born: 1902
+    died: 1991
+    nationality: ITA
+    affiliations:
+    - org: caproni
+      role: board
+      from: 1916
+    - org: museo-caproni
+      role: founder
+      from: 1927
   timothy-geithner:
     born: 1961
     nationality: USA
@@ -30246,6 +30607,44 @@ persons:
       role: board
       from: 1974
       to: 2011
+  wen-jiabao:
+    born: 1942
+    nationality: CHN
+    note: Premier of China 2003-2013
+    affiliations:
+    - org: governo-cina
+      role: leader
+      from: 2003
+      to: 2013
+      note: Premier (Prime Minister)
+  wen-ruchun:
+    nationality: CHN
+    note: Daughter of Premier Wen Jiabao, sister of Wen Yunsong. Worked at Credit Suisse, Lehman Brothers
+    relations:
+    - person: wen-jiabao
+      type: daughter
+  wen-yunsong:
+    born: 1971
+    nationality: CHN
+    note: Son of Premier Wen Jiabao - princeling. Founded Unihub 2000, New Horizon Capital 2005, Chairman China Satcom 2012
+    affiliations:
+    - org: new-horizon-capital
+      role: founder
+      from: 2005
+      note: Co-founder and Principal
+    - org: china-satcom
+      role: chairman
+      from: 2012
+      note: State-owned satellite company
+    - org: unihub-global
+      role: founder
+      from: 2000
+      note: CEO, Internet data services
+    relations:
+    - person: wen-jiabao
+      type: son
+    - person: wen-ruchun
+      type: sibling
   wendell-weeks:
     nationality: USA
     affiliations:
@@ -30707,6 +31106,14 @@ persons:
     - person: frans-timmermans
       type: successor
       note: Succeeded as EU Climate Commissioner
+  wu-hong:
+    nationality: CHN
+    note: Co-founder Googol Technology, HKUST professor
+    affiliations:
+    - org: googol-technology
+      role: founder
+      from: 1999
+      note: Co-founder
   wyc-grousbeck:
     nationality: USA
     affiliations:
@@ -30766,6 +31173,13 @@ persons:
     - org: ccp
       role: general-secretary
       from: 2012
+  xiong-qunli:
+    nationality: CHN
+    affiliations:
+    - org: cetc
+      role: chairman
+      from: 2015
+      note: Chairman & Party Secretary, ex-president 2011, NPC 19th Congress delegate
   xu-chenye:
     nationality: CHN
     affiliations:
@@ -30773,6 +31187,19 @@ persons:
       role: founder
       from: 1998
       note: Co-founder, CIO
+  xu-li:
+    born: 1982
+    nationality: CHN
+    affiliations:
+    - org: sensetime
+      role: executive
+      from: 2014
+      note: Co-founder, CEO & Chairman
+    - org: cuhk
+      role: member
+      from: 2007
+      to: 2010
+      note: PhD Computer Science
   xu-zhijun:
     nationality: CHN
     affiliations:
@@ -30802,6 +31229,13 @@ persons:
       role: chairman
       from: 2015
       to: 2019
+  yang-mu-megvii:
+    nationality: CHN
+    affiliations:
+    - org: megvii
+      role: founder
+      from: 2011
+      note: Co-founder
   yannick-bollore:
     born: 1980
     nationality: FRA
@@ -30900,6 +31334,31 @@ persons:
     - org: wef
       role: ygl
       from: 2021
+  yin-mingshan:
+    born: 1938
+    nationality: CHN
+    affiliations:
+    - org: qianli-technology
+      role: founder
+      from: 1992
+      to: 2017
+      note: Fondatore Lifan, lascia dopo fallimento EV
+  yin-qi:
+    born: 1988
+    nationality: CHN
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2019
+      note: Young Global Leader 2019
+    - org: megvii
+      role: founder
+      from: 2011
+      note: Co-founder & CEO
+    - org: qianli-technology
+      role: chairman
+      from: 2024
+      note: Chairman, 10.6% stake personale
   yingluck-shinawatra:
     born: 1967
     nationality: THA
@@ -31060,6 +31519,14 @@ persons:
       role: executive
       from: 2011
       note: Executive Director, CEO Consumer Business Group
+  yu-jianming:
+    nationality: CHN
+    note: Co-founder New Horizon, later Advantech Capital and Redview Capital
+    affiliations:
+    - org: new-horizon-capital
+      role: founder
+      from: 2005
+      note: Co-founder, Managing Partner & CEO
   yu-minliang:
     born: 1960
     nationality: CHN
@@ -31068,6 +31535,18 @@ persons:
       role: executive
       from: 2019
       note: Chairman & CEO
+  yuanqing-yang:
+    born: 1964
+    nationality: CHN
+    affiliations:
+    - org: lenovo
+      role: chairman
+      from: 2011
+      note: Chairman & CEO, 5.94% stake
+    - org: baidu
+      role: board
+      from: 2015
+      note: Independent Director, Audit & Gov Committee
   yuri-kovalchuk:
     born: 1951
     nationality: RUS
@@ -31316,6 +31795,20 @@ persons:
       role: chairman
       from: 2001
       note: Majority shareholder
+  zhou-xi:
+    born: 1978
+    nationality: CHN
+    affiliations:
+    - org: ustc
+      role: member
+      note: BS AI/Pattern Recognition
+    - org: cloudwalk
+      role: founder
+      from: 2015
+      note: Founder & President
+    - org: uiuc
+      role: member
+      note: PhD
   zhu-hexin:
     nationality: CHN
     note: SAFE Administrator, PBOC Deputy Governor, ex CITIC Chairman
@@ -31332,6 +31825,21 @@ persons:
       role: chairman
       from: 2022
       note: Chairwoman
+  zhu-long:
+    born: 1980
+    nationality: CHN
+    affiliations:
+    - org: ucla
+      role: member
+      to: 2008
+      note: PhD Statistics
+    - org: mit
+      role: member
+      note: Postdoc AI Lab (Bill Freeman)
+    - org: yitu
+      role: founder
+      from: 2012
+      note: CEO
   zou-jiayi:
     nationality: CHN
     note: Presidente AIIB dal 2025, ex Vice Min Finanze

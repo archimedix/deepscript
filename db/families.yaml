@@ -447,6 +447,25 @@ families:
     origin: ITA
     sector: construction, media, finance
     status: active
+  caproni:
+    origin: ITA
+    founder: gianni-caproni
+    sector: aviation
+    generations: 3
+    status: legacy
+    members:
+    - person: gianni-caproni
+      generation: 1
+      role: founder
+    - person: timina-caproni
+      generation: 1
+      role: spouse
+    - person: maria-fede-caproni
+      generation: 2
+      role: heir
+    - person: federico-caproni
+      generation: 1
+      role: member
   chearavanont:
     origin: Thailand/China
     founder: chia-ek-chor

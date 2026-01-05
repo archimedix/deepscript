@@ -14,8 +14,8 @@ Israel Power Map
 
   Persone (13 nuove):
   - [v] Benjamin Netanyahu (PM)
-  - Stef Wertheimer (†2025, ISCAR)
-  - Eitan Wertheimer (ISCAR, Berkshire board)
+  - [v] Stef Wertheimer (†2025, ISCAR)
+  - [v] Eitan Wertheimer (ISCAR, Berkshire board)
   - Yitzhak Tshuva (Delek Group)
   - Eyal Ofer (billionaire #1)
   - Shlomo Kramer (Check Point)

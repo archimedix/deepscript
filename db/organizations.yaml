@@ -616,6 +616,12 @@ organizations:
       from: 2002
       to: 2005
       note: Resident Fellow, Director New Atlantic Initiative
+  aeritalia:
+    name: Aeritalia
+    type: defense
+    founded: 1969
+    headquarters: Turin, Italy
+    status: defunct
   aeroflot:
     name: Aeroflot
     type: company
@@ -1213,6 +1219,26 @@ organizations:
       role: member
       from: 2014
       to: 2019
+  alenia:
+    name: Alenia Aeronautica
+    type: defense
+    founded: 1990
+    headquarters: Rome, Italy
+    status: defunct
+    sector: aerospace
+    stakeholders:
+    - org: finmeccanica
+      role: parent
+      from: 1990
+      to: 2016
+    - org: aeritalia
+      role: merged
+      from: 1990
+      note: Fusione per creare Alenia
+    - org: selenia
+      role: merged
+      from: 1990
+      note: Fusione per creare Alenia
   alibaba:
     name: Alibaba Group Holding Ltd
     type: company
@@ -1244,6 +1270,20 @@ organizations:
       note: President
     - person: brian-a-wong
       role: executive
+    - person: eric-jing
+      role: board
+      from: 2007
+      note: Board member, ex-VP Finance
+    - person: cyril-han
+      role: executive
+      from: 2011
+      to: 2014
+      note: Corporate Finance
+    - person: lin-chenxi
+      role: executive
+      from: 2008
+      to: 2012
+      note: First Director Alibaba Cloud, Apsara OS
     - org: blackrock
       role: investor
       share: 5.64
@@ -1293,6 +1333,49 @@ organizations:
     - person: wojciech-kostrzewa
       role: chairman
       note: President Supervisory Board
+  alitalia:
+    name: Alitalia - Linee Aeree Italiane
+    type: company
+    founded: 1946
+    headquarters: Rome, Italy
+    status: defunct
+    sector: airline
+    stakeholders:
+    - person: giancarlo-cimoli
+      role: executive
+      from: 2004
+      to: 2007
+      note: CEO
+    - person: rocco-sabelli
+      role: executive
+      note: CEO CAI era
+    - person: cramer-ball
+      role: executive
+      from: 2016
+      to: 2017
+      note: CEO
+    - person: luca-cordero-di-montezemolo
+      role: chairman
+      from: 2014
+      to: 2017
+      note: Presidente era Etihad
+    - org: iri
+      role: parent
+      from: 1946
+      to: 1996
+      note: Controllo statale via IRI
+    - org: air-france-klm
+      role: shareholder
+      share: 25%
+      from: 2009
+      to: 2014
+      note: Investimento fallito
+    - org: etihad-airways
+      role: shareholder
+      share: 49%
+      from: 2014
+      to: 2017
+      note: Terminato supporto
   allegro:
     name: Allegro.eu S.A.
     type: company
@@ -1947,10 +2030,10 @@ organizations:
       to: 1921
       note: Co-proprietario con fratello Pio
   ant-group:
-    name: Ant Group
+    name: Ant Group (Alipay)
     type: company
     founded: 2014
-    headquarters: Hangzhou, China
+    headquarters: Hangzhou, Zhejiang, China
     status: active
     sector: fintech
     stakeholders:
@@ -1958,6 +2041,14 @@ organizations:
       role: founder
       from: 2014
       note: Fondatore, quota ridotta al 6% nel 2023
+    - person: eric-jing
+      role: chairman
+      from: 2018
+      note: CEO 2016-2025, Chairman 2018-
+    - person: cyril-han
+      role: executive
+      from: 2025
+      note: CEO (Mar 2025-), ex-CFO, President
     - org: alibaba
       role: investor
       share: 33.0
@@ -2812,6 +2903,15 @@ organizations:
       from: 1996
       to: 2011
       note: Co-founder, CEO
+  autostrade:
+    name: Autostrade per l Italia
+    type: company
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - org: iri
+      role: parent
+      to: 1999
   aviva:
     type: company
     founded: 2000
@@ -3031,15 +3131,38 @@ organizations:
       from: 2013
       note: Stake in BAIC Motor (HK listed)
   baidu:
-    name: Baidu Inc
+    name: Baidu
     type: company
+    founded: 2000
     headquarters: Beijing, China
-    sector: Technology
+    status: active
+    sector: tech
     stakeholders:
+    - person: robin-li
+      role: founder
+      from: 2000
+      note: Co-founder, Chairman & CEO
+    - person: eric-xu-baidu
+      role: founder
+      from: 2000
+      note: Co-founder
+    - person: james-ding
+      role: board
+      note: Independent Director, Compensation Committee Chair
+    - person: yuanqing-yang
+      role: board
+      from: 2015
+      note: Independent Director, Audit & Gov Committee
+    - person: jixun-foo
+      role: board
+      from: 2019
+      note: Independent Director
     - org: blackrock
-      share: 4.0
+      share: 3.2
+      note: '2025'
     - org: vanguard
-      share: 3.0
+      share: 3.4
+      note: '2025'
   bain-capital:
     name: Bain Capital
     type: privateequity
@@ -3102,7 +3225,7 @@ organizations:
     name: Banca Commerciale Italiana
     type: bank
     founded: 1894
-    headquarters: Milano, Italia
+    headquarters: Milan, Italy
     status: defunct
     note: Fusa in Intesa Sanpaolo
     stakeholders:
@@ -3116,6 +3239,11 @@ organizations:
       from: 1933
       to: 1972
       note: CEO
+    - org: iri
+      role: parent
+      from: 1933
+      to: 1994
+      note: Nazionalizzata nella crisi 1930s
   banca-generali:
     name: Banca Generali SpA
     type: bank
@@ -3317,6 +3445,17 @@ organizations:
       from: 2018
       to: 2024
       note: Governor
+  banco-di-roma:
+    name: Banco di Roma
+    type: bank
+    founded: 1880
+    headquarters: Rome, Italy
+    status: defunct
+    stakeholders:
+    - org: iri
+      role: parent
+      from: 1933
+      to: 1992
   banco-do-brasil:
     name: Banco do Brasil
     type: bank
@@ -6719,6 +6858,21 @@ organizations:
       role: chairman
       from: 2007
       to: 2016
+  caproni:
+    name: Società Italiana Caproni
+    type: company
+    founded: 1908
+    headquarters: Milan, Italy
+    status: defunct
+    sector: aviation
+    stakeholders:
+    - person: gianni-caproni
+      role: founder
+      from: 1908
+      to: 1957
+    - person: timina-caproni
+      role: board
+      from: 1916
   carbyne:
     type: company
     founded: 2014
@@ -7242,6 +7396,18 @@ organizations:
     founded: 2003
     headquarters: Beijing, China
     status: active
+  central-south-university:
+    name: Central South University
+    type: university
+    founded: 1952
+    headquarters: Changsha, Hunan, China
+    status: active
+    stakeholders:
+    - person: li-zexiang
+      role: member
+      from: 1978
+      to: 1979
+      note: Freshman at Zhongnan Mining and Metallurgy College, ALCOA scholarship to CMU
   centre-for-policy-studies:
     name: Centre for Policy Studies
     type: thinktank
@@ -7284,6 +7450,26 @@ organizations:
     - person: nathalie-tocci
       role: member
       note: Former Research Fellow
+  cetc:
+    name: China Electronics Technology Group Corporation (CETC)
+    type: company
+    founded: 2002
+    headquarters: Beijing, China
+    status: active
+    sector: defense-electronics
+    stakeholders:
+    - person: chen-zongnian
+      role: executive
+      from: 1986
+      note: Head 52nd Research Institute, Party Secretary CETHIK
+    - person: hu-yangzhong
+      role: executive
+      to: 2001
+      note: Chief engineer 52nd Research Institute
+    - person: xiong-qunli
+      role: chairman
+      from: 2015
+      note: Chairman & Party Secretary, ex-president 2011, NPC 19th Congress delegate
   cfm-international:
     name: CFM International
     type: company
@@ -7765,9 +7951,10 @@ organizations:
     name: China Mobile
     type: company
     founded: 1997
-    headquarters: Hong Kong, China
+    headquarters: Beijing, China
     status: active
     sector: telecommunications
+    note: State-owned, largest telecom operator
     stakeholders:
     - person: chen-zhongyue
       role: chairman
@@ -7784,6 +7971,18 @@ organizations:
       role: executive
       from: 2020
       note: CFO
+  china-satcom:
+    name: China Satellite Communications Corporation
+    type: company
+    headquarters: Beijing, China
+    status: active
+    sector: telecommunications
+    note: State-owned, controlled by China Aerospace Science & Technology Corp
+    stakeholders:
+    - person: wen-yunsong
+      role: chairman
+      from: 2012
+      note: State-owned satellite company
   china-telecom:
     name: China Telecom
     type: company
@@ -8023,6 +8222,17 @@ organizations:
       role: chairman
       from: 2013
       to: 2014
+  cidi:
+    name: CiDi (Changsha Intelligent Driving Institute)
+    type: company
+    headquarters: Changsha, China
+    status: active
+    sector: autonomous-driving
+    note: Autonomous driving unicorn
+    stakeholders:
+    - org: xbotpark
+      role: incubator
+      note: Incubated unicorn, autonomous driving
   ciff:
     name: Children's Investment Fund Foundation
     type: foundation
@@ -8236,6 +8446,26 @@ organizations:
     - person: bill-clinton
       role: founder
       from: 2001
+  cloudwalk:
+    name: CloudWalk Technology
+    type: company
+    founded: 2015
+    headquarters: Guangzhou, China
+    status: active
+    sector: AI
+    stakeholders:
+    - person: zhou-xi
+      role: founder
+      from: 2015
+      note: Founder & President
+    - org: icbc
+      role: investor
+      from: 2020
+      note: Series C
+    - org: shunwei-capital
+      role: investor
+      from: 2017
+      note: Series B lead
   club-de-madrid:
     name: Club de Madrid
     type: forum
@@ -9255,6 +9485,17 @@ organizations:
       share: 100%
       from: 2023
       note: Acquisizione emergenza marzo 2023, CHF 3 miliardi
+  credito-italiano:
+    name: Credito Italiano
+    type: bank
+    founded: 1870
+    headquarters: Genoa, Italy
+    status: defunct
+    stakeholders:
+    - org: iri
+      role: parent
+      from: 1933
+      to: 1993
   crh:
     name: CRH plc
     type: company
@@ -9366,6 +9607,22 @@ organizations:
     - person: etienne-davignon
       role: chairman
       note: Chairman
+  cuhk:
+    name: Chinese University of Hong Kong
+    type: university
+    founded: 1963
+    headquarters: Hong Kong
+    status: active
+    stakeholders:
+    - person: tang-xiaoou
+      role: member
+      from: 1996
+      note: Professor, founded Multimedia Lab 2001
+    - person: xu-li
+      role: member
+      from: 2007
+      to: 2010
+      note: PhD Computer Science
   cvc-capital-partners:
     name: CVC Capital Partners
     type: privateequity
@@ -10200,6 +10457,29 @@ organizations:
     - person: victor-hartono
       role: executive
       note: CEO, COO
+  dji:
+    name: DJI (Da-Jiang Innovations)
+    type: company
+    founded: 2006
+    headquarters: Shenzhen, China
+    status: active
+    sector: drones-robotics
+    stakeholders:
+    - person: frank-wang
+      role: founder
+      from: 2006
+      note: Founder & CEO, ~40% stake
+    - person: li-zexiang
+      role: chairman
+      from: 2006
+      note: Mentor to Frank Wang, angel investor, shareholder
+    - person: gao-bingqiang
+      role: advisor
+      note: Early angel investor
+    - org: new-horizon-capital
+      role: investor
+      from: 2015
+      note: $500M round with GIC, New China Life
   dmgt:
     name: Daily Mail and General Trust
     type: media
@@ -10741,6 +11021,17 @@ organizations:
       from: 2003
       to: 2004
       note: Agent for Romania
+  ecoflow:
+    name: EcoFlow
+    type: company
+    headquarters: Shenzhen, China
+    status: active
+    sector: energy
+    note: Portable power unicorn
+    stakeholders:
+    - org: xbotpark
+      role: incubator
+      note: Incubated unicorn, portable power
   economic-club-new-york:
     name: Economic Club of New York
     type: thinktank
@@ -12985,17 +13276,38 @@ organizations:
       from: 2024
       note: CEO
   finmeccanica:
-    name: Finmeccanica SpA
+    name: Finmeccanica
     type: company
+    founded: 1948
     headquarters: Rome, Italy
-    status: renamed
+    status: defunct
     sector: defense aerospace
     stakeholders:
+    - person: mauro-moretti
+      role: executive
+      from: 2014
+      to: 2017
+      note: CEO
+    - person: giuseppe-orsi
+      role: executive
+      from: 2011
+      to: 2013
+      note: CEO
     - person: giuseppe-bono
       role: executive
       from: 1993
       to: 2002
       note: General Manager, Managing Director
+    - person: pier-francesco-guarguaglini
+      role: executive
+      from: 2002
+      to: 2011
+      note: CEO
+    - org: iri
+      role: parent
+      from: 1948
+      to: 1993
+      note: Holding ingegneria/difesa
   fip:
     name: International Padel Federation
     type: agency
@@ -13819,6 +14131,11 @@ organizations:
       share: 4.5%
     - org: vanguard
       share: 2.5%
+  gaorong-capital:
+    name: Gaorong Capital
+    type: privateequity
+    headquarters: Beijing, China
+    status: active
   garanti-bbva:
     name: Garanti BBVA
     type: bank
@@ -14115,10 +14432,10 @@ organizations:
       from: 2025
       note: Trattativa esclusiva EUR 130-140M, closing Q1 2026
   geely:
-    name: Zhejiang Geely Holding Group
+    name: Geely Holding Group
     type: automaker
     founded: 1986
-    headquarters: Hangzhou, China
+    headquarters: Hangzhou, Zhejiang, China
     status: active
     sector: automotive
     note: Li Shufu. Owns Volvo, 10% Mercedes, Lotus, Polestar
@@ -14834,6 +15151,30 @@ organizations:
     stakeholders:
     - person: tom-hulme
       role: partner
+  googol-technology:
+    name: Googol Technology (固高科技)
+    type: company
+    founded: 1999
+    headquarters: Shenzhen, China
+    status: active
+    sector: motion-control
+    stakeholders:
+    - person: li-zexiang
+      role: founder
+      from: 1999
+      note: Co-founder with Prof. Ko Ping-Keung, first motion control company in China
+    - person: gao-bingqiang
+      role: founder
+      from: 1999
+      note: Co-founder with Li Zexiang
+    - person: ko-ping-keung
+      role: founder
+      from: 1999
+      note: Co-founder with Li Zexiang
+    - person: wu-hong
+      role: founder
+      from: 1999
+      note: Co-founder
   gorbachev-foundation:
     name: Gorbachev Foundation
     type: foundation
@@ -15229,6 +15570,11 @@ organizations:
     - person: robin-zeng
       role: advisor
       note: Vice Chairman, All-China Federation of Industry and Commerce
+    - person: wen-jiabao
+      role: leader
+      from: 2003
+      to: 2013
+      note: Premier (Prime Minister)
   governo-cipro:
     name: Governo Cipro
     type: government
@@ -18941,6 +19287,17 @@ organizations:
       from: 1997
       to: 2014
       note: Co-founder, sold 43.5% stake before sanctions
+  hai-robotics:
+    name: HAI Robotics
+    type: company
+    headquarters: Shenzhen, China
+    status: active
+    sector: robotics
+    note: Warehouse automation unicorn 2021
+    stakeholders:
+    - org: xbotpark
+      role: incubator
+      note: Incubated unicorn 2021, warehouse automation
   hakluyt:
     name: Hakluyt & Company
     type: company
@@ -19596,6 +19953,34 @@ organizations:
     founded: 2000
     headquarters: Bucharest, Romania
     sector: energy
+  hikvision:
+    name: Hikvision
+    type: company
+    founded: 2001
+    headquarters: Hangzhou, China
+    status: active
+    sector: surveillance
+    stakeholders:
+    - person: chen-zongnian
+      role: chairman
+      from: 2001
+      note: NPC delegate 2018
+    - person: hu-yangzhong
+      role: executive
+      from: 2001
+      note: CEO, ex-chief engineer 52nd Research Institute
+    - person: gong-hongjia
+      role: founder
+      from: 2001
+      note: Vice Chairman, 13% stake, HK permanent resident
+    - org: cetc
+      share: 42
+      note: State-owned controlling shareholder via CETHIK
+  hillhouse-capital:
+    name: Hillhouse Capital
+    type: privateequity
+    headquarters: Hong Kong
+    status: active
   hindalco:
     name: Hindalco Industries
     type: company
@@ -19707,6 +20092,29 @@ organizations:
       from: 1941
       to: 1987
       note: President 1941-1966, Chairman 1966-1987
+  hkust:
+    name: Hong Kong University of Science and Technology
+    type: university
+    founded: 1991
+    headquarters: Hong Kong
+    status: active
+    stakeholders:
+    - person: frank-wang
+      role: member
+      from: 2003
+      to: 2006
+      note: BS Engineering, mentored by Li Zexiang
+    - person: li-zexiang
+      role: executive
+      from: 1992
+      note: Colin Lam Ko Yin Professor of Engineering, ECE Dept, Robotics Institute
+    - person: gao-bingqiang
+      role: executive
+      note: Former Dean School of Engineering
+    - person: ko-ping-keung
+      role: executive
+      from: 1993
+      note: Dean of Engineering 1995-2000, Professor Emeritus
   hm:
     name: H&M (Hennes & Mauritz)
     type: company
@@ -20365,6 +20773,26 @@ organizations:
     type: bank
     headquarters: Washington, D.C., USA
     status: active
+  iflytek:
+    name: iFlytek
+    type: company
+    founded: 1999
+    headquarters: Hefei, Anhui, China
+    status: active
+    sector: AI
+    note: AI speech recognition, Entity List 2019 for Xinjiang surveillance
+    stakeholders:
+    - person: liu-qingfeng
+      role: founder
+      from: 1999
+      note: Chairman & CEO
+    - org: china-mobile
+      role: shareholder
+      share: 15%
+      note: Largest shareholder
+    - org: ustc
+      role: shareholder
+      note: USTC Holdings spin-off
   ifpma:
     name: International Federation of Pharmaceutical Manufacturers & Associations
     type: agency
@@ -21119,6 +21547,18 @@ organizations:
     name: ING Bank Śląski S.A.
     type: bank
     headquarters: Katowice, Poland
+  innox-academy:
+    name: Shenzhen InnoX Academy
+    type: company
+    founded: 2021
+    headquarters: Shenzhen, China
+    status: active
+    sector: education-incubator
+    stakeholders:
+    - person: li-zexiang
+      role: founder
+      from: 2021
+      note: Founder, entrepreneurship education
   inovalon:
     name: Inovalon Holdings
     type: company
@@ -21622,12 +22062,23 @@ organizations:
       to: 1949
       note: Forni lista 38 nomi crypto-comunisti
   iri:
-    name: IRI (Istituto Ricostruzione Industriale)
+    name: Istituto per la Ricostruzione Industriale
     type: company
     founded: 1933
-    headquarters: Roma
-    status: active
+    headquarters: Rome, Italy
+    status: defunct
+    sector: state-holding
     stakeholders:
+    - person: romano-prodi
+      role: chairman
+      from: 1982
+      to: 1989
+      note: Prima presidenza
+    - person: romano-prodi
+      role: chairman
+      from: 1993
+      to: 1994
+      note: Seconda presidenza, privatizzazioni
     - person: riccardo-gallo
       role: leader
     - person: gian-maria-gros-pietro
@@ -21635,6 +22086,11 @@ organizations:
       from: 1997
       to: 1999
       note: Chairman, privatizzazioni
+    - person: alberto-beneduce
+      role: chairman
+      from: 1933
+      to: 1939
+      note: Founding President
   iscar:
     name: ISCAR Metalworking
     type: company
@@ -21750,6 +22206,23 @@ organizations:
     stakeholders:
     - person: anton-du-plessis
       role: executive
+  ita-airways:
+    name: ITA Airways
+    type: company
+    founded: 2021
+    headquarters: Rome, Italy
+    status: active
+    sector: airline
+    stakeholders:
+    - org: lufthansa
+      role: shareholder
+      share: 41%
+      from: 2025
+      note: Acquisizione completata, opzione su 90%
+    - org: alitalia
+      role: successor
+      from: 2021
+      note: Asset trasferiti a nuova compagnia
   italconsult:
     name: Italconsult
     type: company
@@ -23489,10 +23962,12 @@ organizations:
       from: 1984
       to: 2003
   lenovo:
-    name: Lenovo
+    name: Lenovo Group
     type: company
+    founded: 1984
     headquarters: Beijing, China / Hong Kong
     status: active
+    sector: technology
     stakeholders:
     - person: mary-ma
       role: executive
@@ -23502,6 +23977,10 @@ organizations:
       role: founder
       from: 1984
       note: Founder, Chairman 1984-2004, 2009-2011
+    - person: yuanqing-yang
+      role: chairman
+      from: 2011
+      note: Chairman & CEO, 5.94% stake
     - org: legend-holdings
       role: controlling
       share: 31.41
@@ -23533,7 +24012,7 @@ organizations:
       role: executive
       from: 2017
       to: 2023
-      note: CEO 2017-2023
+      note: CEO
     - person: mauro-moretti
       role: executive
       from: 2014
@@ -23556,6 +24035,18 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.0
+    - org: finmeccanica
+      role: renamed
+      from: 2017
+      note: Rinominata Leonardo S.p.A.
+    - org: caproni
+      role: acquired
+      from: 1983
+      note: Caproni Vizzola acquired by Agusta (now Leonardo)
+    - org: alenia
+      role: merged
+      from: 2016
+      note: Fusione in Leonardo-Finmeccanica
   les-echos:
     name: Les Echos
     type: media
@@ -24791,6 +25282,39 @@ organizations:
       note: 10.8M USD
     - org: vanguard
       share: 1.0%
+  megvii:
+    name: Megvii (Face++)
+    type: company
+    founded: 2011
+    headquarters: Beijing, China
+    status: active
+    sector: AI
+    stakeholders:
+    - person: yin-qi
+      role: founder
+      from: 2011
+      note: Co-founder & CEO
+    - person: tang-wenbin
+      role: founder
+      from: 2011
+      note: Co-founder & CTO
+    - person: yang-mu-megvii
+      role: founder
+      from: 2011
+      note: Co-founder
+    - org: lenovo
+      note: Investor
+    - org: bank-of-china
+      from: 2019
+      note: BOCGI led $750M round
+    - org: alibaba
+      share: 14
+      from: 2018
+      note: Series D
+    - org: ant-group
+      share: 15
+      from: 2015
+      note: Series B lead
   meituan:
     name: Meituan
     type: company
@@ -24839,7 +25363,7 @@ organizations:
     - person: julia-koch
       role: board
   mercedes-benz:
-    name: Mercedes-Benz Group AG
+    name: Mercedes-Benz Group
     type: automaker
     founded: 1926
     headquarters: Stuttgart, Germany
@@ -25326,6 +25850,33 @@ organizations:
     - org: state-street
       role: stake
       share: 0.035
+    - org: microsoft-research
+      role: subsidiary
+      from: 1991
+      note: Research division
+  microsoft-research:
+    name: Microsoft Research
+    type: company
+    founded: 1991
+    headquarters: Redmond, Washington
+    status: active
+    sector: research
+    stakeholders:
+    - person: bill-gates
+      role: founder
+      from: 1991
+      note: Co-founder
+    - person: rick-rashid
+      role: founder
+      from: 1991
+      note: Co-founder, SVP
+    - person: peter-lee
+      role: executive
+      note: President
+    - person: nathan-myhrvold
+      role: founder
+      from: 1991
+      note: Co-founder, CTO
   midea-group:
     name: Midea Group
     type: company
@@ -25418,6 +25969,14 @@ organizations:
       from: 1972
       to: 1976
       note: BSc/MSc
+    - person: tang-xiaoou
+      role: member
+      from: 1991
+      to: 1996
+      note: PhD Computer Vision
+    - person: zhu-long
+      role: member
+      note: Postdoc AI Lab (Bill Freeman)
   mitratel:
     name: PT Dayamitra Telekomunikasi Tbk
     type: company
@@ -25905,6 +26464,19 @@ organizations:
     stakeholders:
     - person: shaffi-mather
       role: founder
+  museo-caproni:
+    name: Museo Aeronautica Gianni Caproni
+    type: foundation
+    founded: 1927
+    headquarters: Trento, Italy
+    status: active
+    stakeholders:
+    - person: gianni-caproni
+      role: founder
+      from: 1927
+    - person: timina-caproni
+      role: founder
+      from: 1927
   naacp:
     name: NAACP
     type: foundation
@@ -25939,6 +26511,17 @@ organizations:
     stakeholders:
     - person: anthony-smare
       role: chairman
+  narwal:
+    name: Narwal
+    type: company
+    headquarters: Shenzhen, China
+    status: active
+    sector: robotics
+    note: Robot vacuum unicorn
+    stakeholders:
+    - org: xbotpark
+      role: incubator
+      note: Incubated unicorn, robot vacuum
   nasdaq:
     name: NASDAQ
     type: company
@@ -26481,6 +27064,31 @@ organizations:
       role: founder
       from: 1994
       note: Fondatore e Presidente
+  new-horizon-capital:
+    name: New Horizon Capital
+    type: privateequity
+    founded: 2005
+    headquarters: Beijing, China
+    status: active
+    sector: private-equity
+    note: Princeling PE - co-founded by son of Premier Wen Jiabao
+    stakeholders:
+    - person: wen-yunsong
+      role: founder
+      from: 2005
+      note: Co-founder and Principal
+    - person: yu-jianming
+      role: founder
+      from: 2005
+      note: Co-founder, Managing Partner & CEO
+    - org: softbank
+      role: lp
+      from: 2005
+      note: Founding Limited Partner via SBI Holdings
+    - org: temasek
+      role: lp
+      from: 2005
+      note: Founding Limited Partner
   new-left-review:
     name: New Left Review
     type: media
@@ -29742,6 +30350,33 @@ organizations:
     type: pharma
     founded: 1984
     headquarters: 'Venlo, Netherlands (ops: Hilden, Germany)'
+  qianli-technology:
+    name: Qianli Technology / Afari (ex-Lifan)
+    type: company
+    founded: 1992
+    headquarters: Chongqing, China
+    status: active
+    sector: automotive/AI
+    stakeholders:
+    - person: yin-qi
+      role: chairman
+      from: 2024
+      note: Chairman, 10.6% stake personale
+    - person: yin-mingshan
+      role: founder
+      from: 1992
+      to: 2017
+      note: Fondatore Lifan, lascia dopo fallimento EV
+    - org: geely
+      role: controlling
+      share: '29.85'
+      from: 2020
+      note: Via Manjianghong Fund (50.9% Geely)
+    - org: mercedes-benz
+      role: minority
+      share: '3'
+      from: 2025
+      note: RMB 1.34B ($191M) via Mercedes-Benz Digital Technology
   qnb:
     name: Qatar National Bank
     type: bank
@@ -29875,6 +30510,10 @@ organizations:
       from: 1992
       to: 2009
       note: Giornalista TG1, Deputy Director
+    - org: iri
+      role: parent
+      from: 1952
+      to: 2002
   raiffeisen-bank-international:
     name: Raiffeisen Bank International AG
     type: bank
@@ -32169,6 +32808,15 @@ organizations:
       role: member
       from: 2020
       note: Vice Presidente Security Council
+  selenia:
+    name: Selenia
+    type: defense
+    headquarters: Rome, Italy
+    status: defunct
+    stakeholders:
+    - person: pier-francesco-guarguaglini
+      role: executive
+      note: 20 years in managerial positions
   selfridges:
     name: Selfridges Group
     type: company
@@ -32193,6 +32841,44 @@ organizations:
       from: 2022
       to: 2024
       note: JV with Central Group, sold to PIF after Signa collapse
+  sensetime:
+    name: SenseTime
+    type: company
+    founded: 2014
+    headquarters: Shanghai, China
+    status: active
+    sector: AI
+    stakeholders:
+    - person: tang-xiaoou
+      role: founder
+      from: 2014
+      to: 2023
+      note: Founder, largest shareholder 20.63%
+    - person: xu-li
+      role: executive
+      from: 2014
+      note: Co-founder, CEO & Chairman
+    - org: softbank
+      role: investor
+      share: 14.88%
+      from: 2018
+      note: Series D $1B, largest outside shareholder
+    - org: silver-lake
+      role: investor
+      from: 2018
+      note: Series C+
+    - org: temasek
+      role: investor
+      from: 2018
+      note: Series C
+    - org: alibaba
+      role: investor
+      from: 2018
+      note: Series C lead, Taobao shareholder
+    - org: qualcomm
+      role: investor
+      from: 2018
+      note: Qualcomm Ventures, Series C+
   sepi:
     name: SEPI
     type: company
@@ -32231,6 +32917,11 @@ organizations:
       role: partner
       from: 2003
       note: Partner 2003, US lead 2017, Senior Steward 2022-2025
+  sequoia-china:
+    name: Sequoia Capital China
+    type: privateequity
+    headquarters: Beijing, China
+    status: active
   ser-netherlands:
     name: Social-Economic Council
     type: agency
@@ -36159,6 +36850,10 @@ organizations:
     - person: pedro-moreira-salles
       role: alumnus
       note: BA Economics and History, magna cum laude
+    - person: zhu-long
+      role: member
+      to: 2008
+      note: PhD Statistics
   uconn:
     name: University of Connecticut
     type: university
@@ -36223,6 +36918,16 @@ organizations:
     - person: andre-esteves
       role: member
       note: BS Computer Science
+  uiuc:
+    name: University of Illinois Urbana-Champaign
+    type: university
+    founded: 1867
+    headquarters: Urbana, Illinois, USA
+    status: active
+    stakeholders:
+    - person: zhou-xi
+      role: member
+      note: PhD
   ultratech-cement:
     name: UltraTech Cement
     type: company
@@ -36441,6 +37146,19 @@ organizations:
     stakeholders:
     - person: helen-hai
       role: ambassador
+  unihub-global:
+    name: Unihub Global Networks
+    type: company
+    founded: 2000
+    headquarters: Beijing, China
+    status: active
+    sector: networking
+    note: Internet data services provider
+    stakeholders:
+    - person: wen-yunsong
+      role: founder
+      from: 2000
+      note: CEO, Internet data services
   unilever:
     name: Unilever
     type: company
@@ -36901,6 +37619,24 @@ organizations:
       role: merged
       from: 2016
       note: USB confluito in USR
+  ustc:
+    name: University of Science and Technology of China
+    type: university
+    founded: 1958
+    headquarters: Hefei, Anhui, China
+    status: active
+    note: Elite research university, CAS affiliated
+    stakeholders:
+    - person: liu-qingfeng
+      role: member
+      note: PhD student, Human-Computer Voice Lab
+    - person: tang-xiaoou
+      role: member
+      to: 1990
+      note: BS
+    - person: zhou-xi
+      role: member
+      note: BS AI/Pattern Recognition
   vale:
     name: Vale S.A.
     type: company
@@ -38988,6 +39724,13 @@ organizations:
     - person: benjamin-netanyahu
       role: speaker
       from: 1996
+    - person: yin-qi
+      role: ygl
+      from: 2019
+      note: Young Global Leader 2019
+    - person: eric-jing
+      role: board
+      note: YGL Foundation Board member
     - org: bilderberg
       role: partner
     - org: fmi
@@ -39547,6 +40290,30 @@ organizations:
     - org: kingdom-holding
       from: 2024
       note: Secondo maggior azionista dopo Musk
+  xbotpark:
+    name: XbotPark (Songshan Lake Robot Base)
+    type: company
+    founded: 2014
+    headquarters: Dongguan, China
+    status: active
+    sector: incubator
+    stakeholders:
+    - person: li-zexiang
+      role: founder
+      from: 2014
+      note: Co-founder, robotics incubator Songshan Lake
+    - person: gao-bingqiang
+      role: founder
+      from: 2014
+      note: Co-founder with Li Zexiang
+    - person: gan-jie
+      role: founder
+      from: 2014
+      note: Co-founder, CKGSB Deputy Dean
+    - person: ko-ping-keung
+      role: founder
+      from: 2014
+      note: Co-founder with Li Zexiang
   xerox:
     name: Xerox Corporation
     type: company
@@ -39766,6 +40533,37 @@ organizations:
     - org: redbird-capital
       role: investor
       note: Yankees, Amazon partnership
+  yitu:
+    name: Yitu Technology
+    type: company
+    founded: 2012
+    headquarters: Shanghai, China
+    status: active
+    sector: AI
+    stakeholders:
+    - person: zhu-long
+      role: founder
+      from: 2012
+      note: CEO
+    - person: lin-chenxi
+      role: founder
+      from: 2012
+      note: Co-founder, CTO
+    - org: sequoia-china
+      role: investor
+      from: 2017
+      note: Series C
+    - org: hillhouse-capital
+      role: investor
+      from: 2017
+      note: Series C lead, RMB 380M
+    - org: gaorong-capital
+      role: investor
+      note: Early investor
+    - org: zhenfund
+      role: investor
+      from: 2013
+      note: Seed round
   yle:
     name: Yleisradio (YLE)
     type: media
@@ -39822,6 +40620,11 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  zhenfund:
+    name: ZhenFund
+    type: privateequity
+    headquarters: Beijing, China
+    status: active
   zhongsheng:
     name: Zhongsheng Group Holdings Limited
     type: company
