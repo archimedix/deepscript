@@ -6,7 +6,7 @@ Ora crea il report sulla mappa del potere in Canada, integrando le informazioni 
 Ora puoi aggiornare il file military-industrial-complex.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
 Ora puoi aggiornare il file usa-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
-Ora puoi aggiornare il file china-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+Ora puoi aggiornare il file russia-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
 categoria Banche
 categoria intelligence

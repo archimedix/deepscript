@@ -26,11 +26,11 @@ Mappa del Potere Russo - Analisi
   |---------------------|-------------------------------------------|----------|
   | [v] nikolai-patrushev   | Ex capo Security Council, ora consigliere | ALTA     |
   | [v] igor-sechin         | CEO Rosneft, "secondo uomo più potente"   | ALTA     |
-  | sergei-shoigu       | Ex Ministro Difesa                        | ALTA     |
-  | [] alexander-bortnikov | Direttore FSB                             | ALTA     |
+  | [v] sergei-shoigu       | Ex Ministro Difesa                        | ALTA     |
+  | [v] alexander-bortnikov | Direttore FSB                             | ALTA     |
   | sergey-naryshkin    | Direttore SVR (intelligence estera)       | ALTA     |
   | sergei-kiriyenko    | Ex PM, ora admin presidenziale            | MEDIA    |
-  | dmitry-medvedev     | Vice Security Council, ex presidente      | ALTA     |
+  | [v] dmitry-medvedev     | Vice Security Council, ex presidente      | ALTA     |
   | mikhail-mishustin   | Primo Ministro                            | MEDIA    |
   | viktor-zubkov       | Chairman Gazprom                          | MEDIA    |
   | [] alexey-miller       | CEO Gazprom                               | ALTA     |
@@ -59,8 +59,8 @@ Mappa del Potere Russo - Analisi
   | Entità       | Tipo      | Priorità              |
   |--------------|-----------|-----------------------|
   | [v] fsb          | Agency    | Successore KGB        |
-  | svr          | Agency    | Intelligence estera   |
-  | gru          | Agency    | Intelligence militare |
+  | [v] svr          | Agency    | Intelligence estera   |
+  | [v] gru          | Agency    | Intelligence militare |
   | [v] sberbank     | Bank      | Maggiore banca russa  |
   | [v] vtb-bank     | Bank      | Seconda banca         |
   | [] alfa-bank    | Bank      | Maggiore privata      |
@@ -68,7 +68,7 @@ Mappa del Potere Russo - Analisi
   | [] novatek      | Company   | Gas, Timchenko        |
   | [v] rosatom      | Company   | Nucleare, stato       |
   | [] rostec       | Company   | Difesa, Chemezov      |
-  | [] valdai-club  | ThinkTank | Forum propaganda      |
+  | [v] valdai-club  | ThinkTank | Forum propaganda      |
 
   5. CONNESSIONI OCCIDENTALI DA MAPPARE
 
@@ -108,3 +108,10 @@ Mappa del Potere Russo - Analisi
   - [v] vladimir-gusinsky - Oligarca media, NTV, Davos Pact
   - [v] vladimir-potanin - Oligarca, Norilsk Nickel, Davos Pact
   - [] mikhail-khodorkovsky | colleague | Davos Pact 1996
+
+Seychelles meeting con Erik Prince
+
+Skripal
+Prigozhin
+
+Operazioni notevoli: Illegals Program (Anna Chapman 2010), SolarWinds (2020)

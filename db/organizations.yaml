@@ -7470,6 +7470,17 @@ organizations:
       role: chairman
       from: 2015
       note: Chairman & Party Secretary, ex-president 2011, NPC 19th Congress delegate
+  cfdp:
+    name: Council for Foreign and Defense Policy
+    type: thinktank
+    founded: 1992
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: sergei-karaganov
+      role: founder
+      from: 1992
+      note: Co-founder, Honorary Chairman of Presidium
   cfm-international:
     name: CFM International
     type: company
@@ -7638,6 +7649,9 @@ organizations:
     - person: gary-roughead
       role: member
       note: Task Force co-chair (Belt and Road)
+    - person: sergei-karaganov
+      role: advisor
+      note: International Advisory Board
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -8212,6 +8226,10 @@ organizations:
     - org: governo-cina
       role: ownership
       share: 100%
+    - org: rdif
+      role: joint-fund
+      from: 2012
+      note: Russia-China Investment Fund $2B
   cicc:
     name: China International Capital Corporation
     type: bank
@@ -13911,6 +13929,9 @@ organizations:
     - person: andrew-bailey
       role: chairman
       from: 2025
+    - org: gru
+      role: partnership
+      note: 'Agenzie intelligence parallele: GRU militare, FSB interno'
   fsb-russia:
     name: Federal Security Service (FSB)
     type: agency
@@ -13930,9 +13951,9 @@ organizations:
       to: 2008
       note: Direttore FSB, succeduto a Putin
     - person: alexander-bortnikov
-      role: board
+      role: executive
       from: 2008
-      note: Longest-serving FSB Director, Hero of Russia 2019
+      note: Direttore FSB, piu lungo in carica. Presidente Comitato Antiterrorismo. Membro permanente Consiglio Sicurezza.
     - person: sergei-stepashin
       role: board
       from: 1994
@@ -14237,6 +14258,11 @@ organizations:
       role: board
       from: 2016
       to: 2021
+    - person: dmitry-medvedev
+      role: chairman
+      from: 2000
+      to: 2003
+      note: Board Chairman
     - person: arkady-rotenberg
       role: partner
       from: 2008
@@ -14267,6 +14293,11 @@ organizations:
     status: active
     note: Largest media conglomerate Russia, 80+ assets
     stakeholders:
+    - person: mikhail-lesin
+      role: executive
+      from: 2013
+      to: 2015
+      note: Head of Gazprom-Media Holding
     - org: gazprom
       share: 100
       from: 1998
@@ -15071,6 +15102,11 @@ organizations:
       from: 1988
       to: 1989
       note: Fixed Income London
+    - person: kirill-dmitriev
+      role: member
+      from: 1996
+      to: 1999
+      note: Investment banking, New York
     - person: paul-deighton
       role: partner
       note: Former partner
@@ -17602,6 +17638,10 @@ organizations:
     - person: vladimir-putin
       role: president
       from: 2000
+    - person: kirill-dmitriev
+      role: advisor
+      from: 2025
+      note: Special Presidential Representative for Investment and Economic Cooperation
     - person: nikolai-patrushev
       role: advisor
       from: 2024
@@ -17620,6 +17660,11 @@ organizations:
       from: 2008
       to: 2012
       note: Presidente (tandemocracy con Putin PM)
+    - person: dmitry-medvedev
+      role: leader
+      from: 2012
+      to: 2020
+      note: Prime Minister
     - person: mikhail-mishustin
       role: minister
       from: 2020
@@ -17665,6 +17710,10 @@ organizations:
       from: 2007
       to: 2008
       note: Prime Minister
+    - person: alexander-bortnikov
+      role: advisor
+      from: 2008
+      note: Membro permanente Consiglio di Sicurezza
     - person: sergei-stepashin
       role: leader
       from: 1999
@@ -17688,6 +17737,62 @@ organizations:
       from: 1998
       to: 1998
       note: Prime Minister
+    - person: sergei-karaganov
+      role: advisor
+      from: 1993
+      note: Presidential Council 1993-1999, advisor Yeltsin and Putin
+    - person: aleksey-gromov
+      role: advisor
+      from: 1996
+      note: First Deputy Chief of Staff (2012+), Putin spokesperson (2000-2012), Press Service head (1996-2000)
+    - person: mikhail-lesin
+      role: minister
+      from: 1999
+      to: 2004
+      note: Minister of Press, Broadcasting and Mass Communications
+    - person: mikhail-lesin
+      role: advisor
+      from: 2004
+      to: 2009
+      note: Presidential Adviser for mass media relations
+    - person: sergey-naryshkin
+      role: advisor
+      from: 2008
+      to: 2012
+      note: Chief of Staff Presidential Administration
+    - person: sergey-naryshkin
+      role: legislator
+      from: 2011
+      to: 2016
+      note: State Duma Chairman
+    - person: mikhail-fradkov
+      role: leader
+      from: 2004
+      to: 2007
+      note: Prime Minister
+    - person: igor-korobov
+      role: executive
+      from: 2016
+      to: 2018
+      note: Vice Capo Stato Maggiore Forze Armate
+    - person: igor-sergun
+      role: executive
+      from: 2011
+      to: 2016
+      note: Vice Capo Stato Maggiore Forze Armate
+    - person: valery-gerasimov
+      role: minister
+      from: 2012
+      note: Capo di Stato Maggiore, Primo Vice Min. Difesa. Membro Consiglio Sicurezza.
+    - person: sergey-shoigu
+      role: minister
+      from: 2012
+      to: 2024
+      note: Ministro della Difesa
+    - person: sergey-shoigu
+      role: advisor
+      from: 2024
+      note: Segretario Consiglio di Sicurezza
   governo-saudi:
     name: Governo del Regno dell'Arabia Saudita
     type: government
@@ -19013,6 +19118,54 @@ organizations:
     - person: bernard-arnault
       role: chairman
       from: 1987
+  gru:
+    name: GRU - Main Directorate of the General Staff
+    type: agency
+    founded: 1918
+    headquarters: Moscow, Russia
+    status: active
+    note: 'Servizio intelligence militare russo. Successore del GRU sovietico (fondato 1918 come Registrupravlenie). Gestisce
+      spetsnaz, cyber-operazioni (APT28/Fancy Bear, Unit 74455/Sandworm), assassinii (Unit 29155). Responsabile di: hacking
+      DNC 2016, NotPetya 2017, avvelenamento Skripal 2018, coup Montenegro 2016. Riporta a Min. Difesa e Capo Stato Maggiore
+      (non direttamente al Presidente come FSB/SVR). Direttori recenti: Sergun (2011-16, morto), Korobov (2016-18, morto),
+      Kostyukov (2018-). Rinominato GU nel 2010 ma GRU ancora usato.'
+    stakeholders:
+    - person: igor-kostyukov
+      role: executive
+      from: 2018
+      note: Direttore GRU
+    - person: igor-korobov
+      role: executive
+      from: 2016
+      to: 2018
+      note: Direttore GRU
+    - person: igor-sergun
+      role: executive
+      from: 2011
+      to: 2016
+      note: Direttore GRU
+    - person: alexander-shlyakhturov
+      role: executive
+      from: 2009
+      to: 2011
+      note: Direttore GRU
+    - person: valentin-korabelnikov
+      role: executive
+      from: 1997
+      to: 2009
+      note: Direttore GRU, 12 anni
+    - person: fyodor-ladygin
+      role: executive
+      from: 1992
+      to: 1997
+      note: Direttore GRU
+    - person: andrei-averyanov
+      role: executive
+      note: Comandante Unit 29155
+    - person: valery-gerasimov
+      role: executive
+      from: 2012
+      note: GRU riporta al Capo di Stato Maggiore
   grupo-bal:
     name: Grupo BAL
     type: company
@@ -23059,6 +23212,13 @@ organizations:
       from: 1975
       to: 1991
       note: Counter-intelligence, Leningrad KGB
+    - org: svr
+      role: successor
+      from: 1991
+      note: SVR succeeded KGB First Chief Directorate
+    - org: gru
+      role: successor
+      note: GRU militare continuo attraverso caduta URSS, a differenza di KGB che fu diviso in FSB/SVR
   kghm:
     name: KGHM Polska Miedź S.A.
     type: company
@@ -23515,6 +23675,11 @@ organizations:
     status: active
     aum: $1.03T
     note: Oldest SWF in the world
+    stakeholders:
+    - org: rdif
+      role: joint-fund
+      from: 2012
+      note: Automatic co-investment $1B
   l3harris:
     name: L3Harris Technologies
     type: defense
@@ -26361,6 +26526,10 @@ organizations:
       role: owner
       share: 100.0
       note: Fondo sovrano di Abu Dhabi
+    - org: rdif
+      role: joint-fund
+      from: 2013
+      note: Co-investment fund $2B, 66 investments
   mufg:
     name: Mitsubishi UFJ Financial Group
     type: bank
@@ -26417,6 +26586,9 @@ organizations:
     - org: governo-bahrain
       role: owner
       share: 100%
+    - org: rdif
+      role: partner
+      note: MoU investment cooperation Russia-Bahrain
   mundys:
     name: Mundys SpA
     type: company
@@ -29660,6 +29832,10 @@ organizations:
       role: owner
       share: 100.0
       note: Fondo sovrano, $925B AUM
+    - org: rdif
+      role: joint-fund
+      from: 2015
+      note: Strategic partnership for Russia investments
   pimco:
     name: PIMCO
     type: assetmanager
@@ -30345,6 +30521,9 @@ organizations:
     - org: volkswagen
       role: stake
       share: 0.17
+    - org: rdif
+      role: joint-fund
+      note: Qatar Holding co-investment fund
   qiagen:
     name: Qiagen N.V.
     type: pharma
@@ -30692,6 +30871,26 @@ organizations:
     - org: cairo-communication
       share: controlling
       from: 2016
+  rdif:
+    name: Russian Direct Investment Fund
+    type: swf
+    founded: 2011
+    headquarters: Moscow, Russia
+    status: active
+    aum: $10B reserved + $40B+ mobilized
+    note: 'Russia sovereign wealth fund. Financed Sputnik V vaccine. Co-investments with CIC, Mubadala, PIF, QIA, KIA. US/EU/UK
+      sanctioned Feb 2022. US Treasury: "slush fund for Putin, emblematic of Russia kleptocracy". Dmitriev CEO since 2011,
+      named Putin special envoy Feb 2025. Waiver granted for US entry Oct 2025.'
+    stakeholders:
+    - person: kirill-dmitriev
+      role: executive
+      from: 2011
+      note: CEO
+    - org: governo-russia
+      role: owner
+      share: 100%
+      from: 2011
+      note: State-owned sovereign wealth fund
   real-academia-espanola:
     name: Real Academia Española
     type: thinktank
@@ -31585,13 +31784,21 @@ organizations:
     status: active
     note: 100% state-owned holding, controls Rosneft and Gazprom stakes
   rossiya-segodnya:
-    name: Rossiya Segodnya
+    name: Rossiya Segodnya (RIA Novosti)
     type: media
-    founded: 2013
+    founded: 1941
     headquarters: Moscow, Russia
     status: active
-    note: State-owned media group. Controls RT, RIA Novosti, Sputnik
+    note: State media group. Owns RIA Novosti, Sputnik, RT. EU/US/Canada sanctioned. Budget 9.4B RUB.
     stakeholders:
+    - person: margarita-simonyan
+      role: executive
+      from: 2013
+      note: Editor-in-Chief
+    - person: dmitry-kiselyov
+      role: executive
+      from: 2013
+      note: Director General
     - org: governo-russia
       share: 100%
   rothschild-cie:
@@ -31714,6 +31921,11 @@ organizations:
     - person: margarita-simonyan
       role: editor-in-chief
       from: 2005
+    - person: mikhail-lesin
+      role: founder
+      from: 2005
+      to: 2015
+      note: Co-created RT with Aleksey Gromov
     - org: rossiya-segodnya
       share: 100%
   rtl-group:
@@ -34668,6 +34880,42 @@ organizations:
       from: 1989
       to: 2020
       note: Managing Director
+  svr:
+    name: Foreign Intelligence Service (SVR)
+    type: agency
+    founded: 1991
+    headquarters: Yasenevo, Moscow, Russia
+    status: active
+    note: Russian civilian foreign intelligence agency. Successor to KGB First Chief Directorate. Reports to President. Responsible
+      for SolarWinds attack 2020, Illegals Program. Sanctioned by US 2023.
+    stakeholders:
+    - person: yevgeny-primakov
+      role: executive
+      from: 1991
+      to: 1996
+      note: First Director SVR
+    - person: sergey-naryshkin
+      role: executive
+      from: 2016
+      note: Director SVR
+    - person: mikhail-fradkov
+      role: executive
+      from: 2007
+      to: 2016
+      note: Director SVR
+    - person: vyacheslav-trubnikov
+      role: executive
+      from: 1996
+      to: 2000
+      note: Director SVR
+    - person: sergei-lebedev
+      role: executive
+      from: 2000
+      to: 2007
+      note: Director SVR
+    - org: gru
+      role: partnership
+      note: 'Agenzie intelligence parallele: GRU militare, SVR estero civile'
   swatch-group:
     name: The Swatch Group
     type: company
@@ -36411,6 +36659,9 @@ organizations:
       from: 2011
     - person: marillyn-hewson
       role: member
+    - person: sergei-karaganov
+      role: member
+      from: 1998
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -37637,6 +37888,32 @@ organizations:
     - person: zhou-xi
       role: member
       note: BS AI/Pattern Recognition
+  valdai-club:
+    name: Valdai Discussion Club
+    type: thinktank
+    founded: 2004
+    headquarters: Moscow, Russia
+    status: active
+    note: Russian elite forum, Putin meets annually. Financed by RIA Novosti. EU sanctioned 2025.
+    stakeholders:
+    - person: vladimir-putin
+      role: member
+      from: 2004
+      note: Informal patron, annual plenary speaker
+    - person: sergey-lavrov
+      role: member
+      note: Regular participant
+    - person: dmitry-medvedev
+      role: member
+      note: Regular participant
+    - person: sergei-karaganov
+      role: founder
+      from: 2004
+      to: 2013
+      note: Founder and Chairman 2004-2013
+    - org: rossiya-segodnya
+      role: funder
+      note: Finanzia il Valdai Club
   vale:
     name: Vale S.A.
     type: company
@@ -37790,6 +38067,22 @@ organizations:
       share: 8.6%
     - org: vanguard
       share: 3.0%
+  vgtrk:
+    name: VGTRK
+    type: media
+    headquarters: Moscow, Russia
+    status: active
+    note: All-Russia State Television and Radio Broadcasting Company
+    stakeholders:
+    - person: dmitry-kiselyov
+      role: executive
+      from: 2008
+      note: Deputy General Director
+    - person: mikhail-lesin
+      role: executive
+      from: 1997
+      to: 1999
+      note: First Deputy Chairman
   viacom18:
     name: Viacom18
     type: media
@@ -39166,6 +39459,7 @@ organizations:
       role: ygl
     - person: kirill-dmitriev
       role: ygl
+      from: 2009
     - person: tigran-khudaverdian
       role: ygl
     - person: andrey-guryev
@@ -39224,6 +39518,10 @@ organizations:
     - person: bogdan-aurescu
       role: member
       note: Partecipante Davos
+    - person: dmitry-medvedev
+      role: speaker
+      from: 2007
+      note: Davos speaker 2007, 2011, 2013
     - person: anatoly-chubais
       role: member
       from: 1996

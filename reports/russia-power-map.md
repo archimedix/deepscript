@@ -443,9 +443,57 @@ L'FSB (Federal Security Service) non e' solo un'agenzia di sicurezza - e' la spi
 | Nikolay Kovalev | 1996-1998 | - | Duma |
 | **Vladimir Putin** | **1998-1999** | **Da qui a Presidente** | **Presidente 2000-oggi** |
 | [Nikolai Patrushev](../docs/persons/nikolai-patrushev.md) | 1999-2008 | Successe a Putin | Segretario Security Council |
-| [Alexander Bortnikov](../docs/persons/alexander-bortnikov.md) | **2008-oggi** | **Direttore piu' longevo** | Hero of Russia 2019 |
+| [Alexander Bortnikov](../docs/persons/alexander-bortnikov.md) | **2008-oggi** | **17+ anni - record assoluto** | Hero of Russia 2019, sanzionato |
 
 **Pattern**: Tutti i direttori FSB dal 1998 provengono dal **KGB di Leningrado** - la stessa unita' di Putin.
+
+### Alexander Bortnikov: Il Guardiano del Sistema
+
+[Bortnikov](../docs/persons/alexander-bortnikov.md) e' il direttore FSB piu' longevo della storia (2008-oggi). Conobbe Putin negli anni '70 quando entrambi erano nel KGB di Leningrado.
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Mandato** | 17+ anni (record assoluto) |
+| **Nomina** | Medvedev, maggio 2008 |
+| **Predecessore** | Patrushev (passato a Security Council) |
+| **Ruoli paralleli** | Presidente Comitato Antiterrorismo, membro Consiglio Sicurezza |
+| **Onorificenze** | Eroe della Federazione Russa (2019), Generale dell'Esercito |
+| **Famiglia** | Figlio Denis vice presidente VTB Bank (sanzionato) |
+
+### Il Caso Navalny e il Team Novichok
+
+L'indagine Bellingcat/The Insider (dicembre 2020) ha rivelato che un team FSB di 6-10 agenti specializzati in tossine seguiva Navalny dal 2017:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Avvelenamento** | 20 agosto 2020, Novichok |
+| **Team FSB** | Medici, tossicologi, paramedici |
+| **Sorveglianza** | 30+ viaggi seguiti dal 2017 |
+| **Telefonata trappola** | Navalny chiamo' agente FSB che confesso' |
+| **Sanzioni EU** | Bortnikov "forni' supporto" agli esecutori |
+
+### Le Sanzioni Contro Bortnikov
+
+| Data | Giurisdizione | Motivo |
+|------|---------------|--------|
+| **2014** | UK | Ruolo in Crimea/Ucraina |
+| **Ott 2020** | EU | Avvelenamento Navalny |
+| **2020** | UK | Novichok (Navalny) |
+| **Mar 2021** | USA | Avvelenamento Navalny |
+| **Feb 2022** | USA | Invasione Ucraina (con figlio Denis) |
+
+### Il Fallimento Intelligence Ucraina (2022)
+
+Il 5° Servizio FSB (responsabile ex-URSS) produsse l'analisi catastrofica che convinse Putin a invadere:
+
+| Valutazione FSB | Realta' |
+|-----------------|---------|
+| Ucraini accoglieranno russi come liberatori | Resistenza feroce |
+| Blitzkrieg di pochi giorni | Guerra di anni |
+| Zelensky fuggira' | Zelensky resta a Kiev |
+| Forze armate ucraine crolleranno | Difesa efficace |
+
+Report indicano che ufficiali FSB furono arrestati dopo i fallimenti iniziali.
 
 ### L'Incidente Ryazan (Settembre 1999)
 
@@ -482,6 +530,235 @@ Nel settembre 1999, quattro attentati ad appartamenti uccisero 300+ persone. Il 
 | **2020** | Navalny | Novichok | Sopravvissuto; morto in prigione 2024 |
 
 **Lezione**: Chi investiga sui siloviki o sfida il sistema viene sistematicamente eliminato
+
+---
+
+## L'SVR: L'Occhio Estero del Cremlino
+
+Se l'FSB e' la colonna vertebrale della sicurezza interna, l'**[SVR](../docs/agency/svr.md)** (Sluzhba Vneshney Razvedki - Foreign Intelligence Service) e' lo strumento per operazioni globali: spionaggio, cyber-attacchi, influenza elettorale e eliminazione di nemici all'estero.
+
+### Origini e Struttura
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | Dicembre 1991 |
+| **Predecessore** | KGB First Chief Directorate |
+| **Sede** | Yasenevo, Mosca |
+| **Riporta a** | Direttamente al Presidente |
+| **Focus** | Intelligence civile estera (politica, economica, tecnologica) |
+| **Unita' cyber** | APT29/Cozy Bear |
+
+### La Successione dei Direttori SVR
+
+| Direttore | Periodo | Note | Destino |
+|-----------|---------|------|---------|
+| [Yevgeny Primakov](../docs/persons/yevgeny-primakov.md) | 1991-1996 | Primo direttore | Min. Esteri, PM |
+| [Vyacheslav Trubnikov](../docs/persons/vyacheslav-trubnikov.md) | 1996-2000 | Career KGB | Ambasciatore India |
+| [Sergei Lebedev](../docs/persons/sergei-lebedev.md) | 2000-2007 | Career SVR | Segr. Esecutivo CIS |
+| [Mikhail Fradkov](../docs/persons/mikhail-fradkov.md) | 2007-2016 | Ex PM Russia | - |
+| **[Sergey Naryshkin](../docs/persons/sergey-naryshkin.md)** | **2016-oggi** | **Ex Chief of Staff Putin** | **Classmate KGB di Putin** |
+
+**Pattern**: Naryshkin studio' con Putin alla Scuola Superiore del KGB. E' stato Chief of Staff del Cremlino (2008-2012) e Chairman della Duma (2011-2016) prima di passare all'SVR.
+
+### Operazioni SVR Documentate
+
+| Operazione | Anno | Target | Metodo |
+|------------|------|--------|--------|
+| **Illegals Program** | 2000-2010 | USA | 10 agenti sleeper (Anna Chapman) |
+| **Hacking DNC** | 2016 | Partito Democratico | Cyber (APT29) |
+| **SolarWinds** | 2020 | 18.000 organizzazioni, 9 agenzie USA | Supply-chain attack |
+| **Furto ricerca COVID** | 2020 | UK, USA, Canada | Cyber-spionaggio |
+
+### Il Caso SolarWinds (2020)
+
+L'operazione piu' sofisticata attribuita all'SVR:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Metodo** | Compromissione build system SolarWinds Orion |
+| **Backdoor** | Distribuita a 18.000 clienti |
+| **Vittime** | Governi USA/UK, aziende Fortune 500 |
+| **Attribuzione** | USA/UK: SVR/APT29 (aprile 2021) |
+| **Sanzioni** | 6 aziende tech russe, 10 diplomatici espulsi |
+
+### Differenza SVR vs FSB vs GRU
+
+| Aspetto | SVR | FSB | GRU |
+|---------|-----|-----|-----|
+| **Focus** | Estero civile | Interno + controspionaggio | Estero militare |
+| **Stile** | Paziente, lungo termine | Repressione, eliminazioni | Aggressivo |
+| **Cyber** | APT29/Cozy Bear | - | APT28/Fancy Bear |
+| **Assassinii** | Rari | Navalny, Litvinenko | Skripal (Novichok) |
+
+**Lezione**: L'apparato intelligence russo e' diviso in tre servizi complementari, ma tutti rispondono direttamente a Putin.
+
+---
+
+## Il GRU: L'Artiglio Militare
+
+Se l'SVR e' l'intelligence civile estera e l'FSB quella interna, il **[GRU](../docs/agency/gru.md)** (Glavnoye Razvedyvatelnoye Upravleniye - Main Intelligence Directorate) e' il braccio militare - piu' aggressivo, piu' visibile, e responsabile delle operazioni "sporche" che gli altri servizi evitano.
+
+### Caratteristiche Distintive del GRU
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1918 (sopravvissuto intatto alla caduta URSS) |
+| **Riporta a** | Ministro della Difesa e Capo di Stato Maggiore (NON direttamente al Presidente) |
+| **Stile** | Aggressivo, meno preoccupato per l'attribuzione |
+| **Forze proprie** | Comanda le brigate Spetsnaz |
+| **Cyber** | APT28/Fancy Bear (Unit 26165), Sandworm (Unit 74455) |
+| **Assassinii** | Unit 29155 - Skripal, Vrbetice, Montenegro |
+
+### La Successione dei Direttori GRU
+
+| Periodo | Direttore | Note |
+|---------|-----------|------|
+| **1992-1997** | Fyodor Ladygin | Primo direttore post-sovietico |
+| **1997-2009** | Valentin Korabelnikov | 12 anni, licenziato dopo fallimento Georgia 2008 |
+| **2009-2011** | Alexander Shlyakhturov | Transizione |
+| **2011-2016** | [Igor Sergun](../docs/persons/igor-sergun.md) | **Morto improvvisamente** - annessione Crimea |
+| **2016-2018** | [Igor Korobov](../docs/persons/igor-korobov.md) | **Morto in carica** dopo "lunga malattia" |
+| **2018-oggi** | [Igor Kostyukov](../docs/persons/igor-kostyukov.md) | Primo ufficiale navale, sanzionato USA |
+
+**Pattern inquietante**: Due direttori consecutivi morti in carica (Sergun 2016, Korobov 2018). Entrambi morirono dopo operazioni controverse (Crimea, Skripal).
+
+### Igor Sergun: L'Architetto della Crimea
+
+[Igor Sergun](../docs/persons/igor-sergun.md) (1957-2016) trasformo' il GRU da agenzia ridimensionata dopo il fallimento Georgia 2008 a strumento efficace di guerra ibrida.
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Mandato** | Dicembre 2011 - Gennaio 2016 |
+| **Operazione chiave** | Annessione Crimea 2014 ("little green men") |
+| **Eroe Russia** | Postumo, maggio 2016 |
+| **Ospite inusuale** | Michael Flynn (Dir. DIA USA) al GRU HQ, giugno 2013 |
+
+**La visita Flynn**: Nel giugno 2013, Sergun ospito' il generale Michael Flynn, direttore della DIA (Defense Intelligence Agency), al quartier generale GRU - prima visita di un ufficiale intelligence USA. Flynn tenne una conferenza su leadership, ceno' all'ambasciata USA con Sergun. La visita di Sergun negli USA fu cancellata dopo l'invasione della Crimea.
+
+**La morte misteriosa (3 gennaio 2016):**
+
+| Versione | Dettaglio |
+|----------|-----------|
+| **Ufficiale** | Infarto al resort FSB vicino Mosca |
+| **Stratfor** | Morto 1 gennaio in Libano, in missione segreta |
+| **Al Akhbar** | Ucciso da agenzie intelligence arabe/mediorientali |
+| **Flynn** | Dichiaro' all'FBI che Sergun mori' "in Libano" |
+
+### Igor Korobov: Sotto la Sua Guardia i Fallimenti
+
+[Igor Korobov](../docs/persons/igor-korobov.md) (1956-2018), ex pilota caccia, successe a Sergun e presiedette alle operazioni piu' controverse - e fallimentari - del GRU.
+
+| Operazione | Anno | Esito |
+|------------|------|-------|
+| **Hacking DNC** | 2016 | Successo, ma attribuito |
+| **Avvelenamento Skripal** | 2018 | Fallito, agenti identificati |
+| **Hacking OPCW** | 2018 | Fallito, 4 agenti espulsi L'Aia |
+
+**Sanzioni personali:**
+- Dicembre 2016: Obama, per interferenza elettorale
+- Marzo 2018: Trump administration, CAATSA
+
+**La morte e le speculazioni:**
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Data** | 21 novembre 2018 |
+| **Versione ufficiale** | "Lunga e grave malattia" (cancro) |
+| **Contesto** | Mesi dopo fiasco Skripal |
+| **Speculazioni** | Convocato da Putin, severamente criticato per Skripal |
+| **Viktor Suvorov** | "Assassinato al 125%" |
+
+### La Visita a Washington (Gennaio 2018)
+
+Un evento senza precedenti: tutti e tre i capi intelligence russi a Washington contemporaneamente, mentre erano sotto sanzioni USA.
+
+| Capo | Agenzia | Incontri |
+|------|---------|----------|
+| [Alexander Bortnikov](../docs/persons/alexander-bortnikov.md) | FSB | Pompeo (CIA) |
+| [Sergey Naryshkin](../docs/persons/sergey-naryshkin.md) | SVR | Pompeo (CIA), Coats (DNI) |
+| [Igor Korobov](../docs/persons/igor-korobov.md) | GRU | Non chiaro |
+
+**Controversia**: Avvenne giorni prima che Trump decidesse di non implementare nuove sanzioni contro la Russia. Steven Hall (ex CIA Moscow): "Non ricordo nulla del genere negli ultimi 15 anni."
+
+### Unit 29155: Il Braccio Sporco
+
+| Operazione | Anno | Target | Esito |
+|------------|------|--------|-------|
+| **Vrbetice** | 2014 | Depositi munizioni, Rep. Ceca | 2 morti |
+| **Avvelenamento Gebrev** | 2015 | Commerciante armi bulgaro | Sopravvissuto |
+| **Golpe Montenegro** | 2016 | Prevenire ingresso NATO | Fallito |
+| **Avvelenamento Skripal** | 2018 | Ex agente GRU, Salisbury UK | Fallito, 1 morto civile |
+
+> "A differenza degli agenti FSB o SVR rinomati per la discrezione, quelli di Unit 29155 non mostrano lo stesso grado di finezza; faranno tutto il necessario per raggiungere i loro obiettivi."
+
+### Le Cyber-Operazioni GRU
+
+| Unita' | Alias | Operazioni Note |
+|--------|-------|-----------------|
+| **Unit 26165** | APT28/Fancy Bear | Hacking DNC 2016, Bundestag 2015 |
+| **Unit 74455** | Sandworm | NotPetya 2017 ($10B+ danni globali) |
+
+**NotPetya (2017)**: Il piu' devastante cyberattacco della storia. Lanciato contro l'Ucraina, si diffuse globalmente causando $10+ miliardi di danni. Maersk, FedEx, Merck paralizzate. Il GRU fu incriminato dal DOJ nel 2020.
+
+**Lezione**: Il GRU opera come un'arma non convenzionale - disposto a essere identificato, a fallire pubblicamente, e a lasciare vittime civili.
+
+---
+
+## Il Comando Militare: Gerasimov e Shoigu
+
+Al vertice della catena di comando militare russa, appena sotto Putin, si trovano due figure che controllano le forze armate e, crucialmente, sono tra i tre detentori dei codici nucleari russi.
+
+### Valery Gerasimov: Il Teorico della Guerra Ibrida
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Ruolo** | Capo di Stato Maggiore, Primo Vice Min. Difesa (2012-) |
+| **Comando Ucraina** | Comandante forze russe (gennaio 2023-) |
+| **Codici nucleari** | Uno dei 3 detentori (con Putin e Min. Difesa) |
+| **ICC** | Mandato di arresto giugno 2024 |
+
+La **[Dottrina Gerasimov](../docs/persons/valery-gerasimov.md)** (2013) ha ridefinito la guerra moderna:
+
+> "Nel XXI secolo c'e' una tendenza a cancellare la distinzione tra stato di guerra e pace. Le guerre non vengono dichiarate."
+
+| Principio | Applicazione |
+|-----------|--------------|
+| **Ratio 4:1** | Mezzi non-militari vs militari |
+| **8 Fasi** | 5 non-cinetiche (info-ops), poi 3 cinetiche |
+| **Primo caso** | Crimea 2014 - "little green men" |
+
+### Sergey Shoigu: L'Amico Tuvano
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Etnia** | Meta' tuvano (unico non-russo etnico ai vertici) |
+| **Ruolo precedente** | Ministro della Difesa (2012-2024) |
+| **Ruolo attuale** | Segretario Consiglio di Sicurezza (2024-) |
+| **Paradosso** | Generale dell'Esercito senza mai aver servito |
+| **ICC** | Mandato di arresto giugno 2024 |
+
+**[Shoigu](../docs/persons/sergey-shoigu.md)** e' l'unico vero amico di Putin - vacanze insieme in Siberia, hockey, escursioni. Co-fondatore di Russia Unita nel 2001. Fu considerato potenziale successore, ma la sua etnia tuvana rende impossibile la candidatura.
+
+### La Caduta di Shoigu (2024)
+
+| Data | Evento |
+|------|--------|
+| **Giu 2023** | Ammutinamento Wagner - Shoigu target principale |
+| **Ago 2023** | Morte Prigozhin |
+| **Mag 2024** | Putin sostituisce Shoigu con Belousov |
+| **Giu 2024** | ICC emette mandato di arresto |
+
+**Lezione**: Anche l'amico piu' intimo di Putin puo' essere rimosso dopo fallimenti militari. Shoigu e' sopravvissuto politicamente, ma non e' piu' al comando.
+
+### I Tre Detentori dei Codici Nucleari
+
+| Posizione | Persona | Note |
+|-----------|---------|------|
+| **Presidente** | Vladimir Putin | Comando supremo |
+| **Capo Stato Maggiore** | Valery Gerasimov | In carica dal 2012 |
+| **Ministro Difesa** | Andrey Belousov | Dal maggio 2024 (prima Shoigu) |
+
+Questi tre uomini hanno il potere di ordinare un attacco nucleare. Gerasimov e' l'unico ad aver mantenuto la posizione continuativamente dal 2012.
 
 ---
 
@@ -608,6 +885,191 @@ Yuri Kovalchuk e' considerato il "Numero 2" della Russia - non per ruolo formale
 
 ---
 
+## L'Apparato di Soft Power: Think Tank, Forum e Propaganda
+
+Accanto al controllo mediatico di Kovalchuk (NMG) e alla propaganda di stato (RT), il Cremlino ha costruito un sofisticato apparato di **soft power intellettuale** per influenzare le elite occidentali e legittimare la narrativa russa. I pilastri sono il **Valdai Club**, il **CFDP** e l'agenzia **Rossiya Segodnya**.
+
+**Ma chi controlla davvero il sistema?** Non Kiselyov, non Simonyan. Il vero architetto e' **[Aleksey Gromov](../docs/persons/aleksey-gromov.md)**, First Deputy Chief of Staff di Putin - lo "zar della televisione" russa.
+
+### Aleksey Gromov: L'Architetto Invisibile del Sistema Mediatico
+
+[Aleksey Gromov](../docs/persons/aleksey-gromov.md) (1960) e' la figura piu' potente del sistema mediatico russo, eppure quasi sconosciuta in Occidente:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Posizione** | First Deputy Chief of Staff, Amministrazione Presidenziale (2012+) |
+| **Ruolo reale** | "Zar della televisione" - unico autorizzato a dare ordini ai media |
+| **Connessione Putin** | Si conoscono da Praga, fine anni '80 (entrambi diplomatici) |
+| **Background** | Legami KGB fin dagli anni universitari |
+| **Portavoce Putin** | 2000-2012 |
+| **Sanzioni** | USA (SDN List) 2014, EU 2014, UK Director Disqualification 2025 |
+
+**Il Sistema delle Riunioni del Giovedi'**: Ogni settimana, nel suo ufficio di Staraya Square, Gromov riunisce i capi di **tutti** i canali TV federali (Pervyi Kanal, Rossiya 1, Rossiya 24, NTV, REN TV) e i portavoce di varie agenzie. In queste riunioni ricevono istruzioni dirette su cosa coprire e cosa ignorare.
+
+> "Se qualcuno pensa che qualsiasi funzionario possa chiamare i capi delle TV di stato e dare istruzioni, questo e' un grosso errore. **Solo Gromov puo' farlo.**" — Fonte anonima, OCCRP
+
+**Co-creatore RT (2005)**: Insieme a [Mikhail Lesin](../docs/persons/mikhail-lesin.md) (morto misteriosamente a Washington 2015), Gromov creo' RT e **insistette** perche' Margarita Simonyan fosse nominata editor-in-chief - all'eta' di 25 anni.
+
+### Mikhail Lesin: "Il Bulldozer" (1958-2015)
+
+Prima di Gromov, il vero architetto della presa di controllo statale sui media fu **[Mikhail Lesin](../docs/persons/mikhail-lesin.md)** - soprannominato "Il Bulldozer" per la sua capacita' di portare tutti i media sotto il controllo del Cremlino:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Posizione** | Ministro della Stampa (1999-2004), Consigliere Putin (2004-2009) |
+| **Operazione chiave** | Takeover NTV/Media-Most (2000-2001) |
+| **Metodo** | "Protocollo 6" - azioni per liberta' (firma o carcere) |
+| **RT** | Co-creatore 2005 con Gromov |
+| **Gazprom-Media** | Direttore 2013-2015 |
+| **Morte** | 5 novembre 2015, Washington DC |
+
+**Il Takeover NTV (2000-2001)**: Lesin orchestro' la distruzione dell'impero mediatico di [Vladimir Gusinsky](../docs/persons/vladimir-gusinsky.md):
+- **Maggio 2000**: Raid polizia fiscale sugli uffici NTV
+- **Luglio 2000**: Lesin firma "Protocollo 6" con Gusinsky (cedere Media-Most o affrontare accuse)
+- **Aprile 2001**: Gazprom prende controllo NTV con la forza
+- **Gennaio 2002**: Lesin ordina chiusura TV-6, ultimo canale nazionale privato
+
+**Il Trigger**: NTV trasmise un reportage investigativo suggerendo che l'FSB fosse dietro il fallito attentato agli appartamenti di Ryazan. Lesin disse al direttore NTV: "Avete **oltrepassato il limite**."
+
+**Caduta e Morte Misteriosa**: Nel 2014 Lesin cade in disgrazia (conflitto con Yuri Kovalchuk a Gazprom-Media). Il 5 novembre 2015 viene trovato morto nel Dupont Circle Hotel, Washington DC:
+
+| Versione | Dettaglio |
+|----------|-----------|
+| **Ufficiale** | Cadute accidentali da intossicazione alcolica |
+| **Cause morte** | Trauma cranico da forza contundente |
+| **Fonti FBI** | Omicidio, alla vigilia di incontro con DOJ su RT |
+| **Report Steele** | Ucciso da agenti russi per conto di oligarca vicino a Putin |
+
+**Lezione**: Chi costruisce il sistema puo' essere sacrificato quando diventa un rischio.
+
+### La Vera Gerarchia della Propaganda
+
+```
+                        PUTIN
+                          |
+          +---------------+---------------+
+          |               |               |
+          v               v               v
+     GROMOV (zar TV)  KOVALCHUK (NMG)  VALDAI (elite)
+     [First Deputy     [Bank Rossiya]   [Karaganov]
+      Chief of Staff]        |              |
+          |                  |              v
+    +-----+-----+            v         CFDP/Think Tanks
+    |     |     |      Channel One,
+    v     v     v       VK, Ren TV
+KISELYOV SIMONYAN  Riunioni
+(Rossiya  (RT +    Giovedi'
+Segodnya) R.Segodnya)  |
+    |         |        v
+    v         v     TUTTI I
+ Sputnik    RT     CANALI TV
+ RIA Novosti (30+ lingue) FEDERALI
+    |         |
+    v         v
+AUDIENCE:  AUDIENCE:
+Domestica  Globale
++ Globale
+```
+
+**Budget Propaganda 2025**: 137.2 miliardi RUB (~$1.64 miliardi), +13% vs 2024
+
+### Valdai Discussion Club: Il "Davos Russo"
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 2004 |
+| **Fondatore** | [Sergei Karaganov](../docs/persons/sergei-karaganov.md) (CFDP) |
+| **Finanziamento** | [Rossiya Segodnya](../docs/media/rossiya-segodnya.md) (RIA Novosti) |
+| **Chairman** | Andrey Bystritsky (2014+) |
+| **Research Director** | Fyodor Lukyanov (2015+) |
+| **Patrono informale** | Vladimir Putin (speaker annuale dal 2004) |
+| **Status** | EU sanctioned (Bystritsky, Lukyanov) - Dicembre 2025 |
+
+**Funzione**: Forum d'elite che invita ~40 esperti occidentali per "dialogo" con leadership russa. Daniel Drezner (Tufts) lo descrisse come "the highest-profile Russian equivalent to Davos (minus the corporate presence)."
+
+**Critica**: "Un progetto di propaganda del Cremlino" (Nikolay Petrov, Carnegie); "Putin's Useful Idiots" (Lilia Shevtsova).
+
+### Sergei Karaganov: L'Architetto Intellettuale
+
+[Sergei Karaganov](../docs/persons/sergei-karaganov.md) (1952) e' il principale **architetto intellettuale** della politica estera russa e della nuova dottrina nucleare:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Ruolo chiave** | Co-fondatore CFDP (1992), Fondatore Valdai Club (2004-2013) |
+| **Formazione** | Stanford, Harvard connections |
+| **Trilateral Commission** | Membro dal 1998 |
+| **CFR** | International Advisory Board |
+| **Governo Russia** | Advisor Yeltsin (1993-99), Putin (2000+) |
+
+**La Dottrina Karaganov (1992)**: Mosca deve porsi come difensore dei russi etnici nel "near abroad" - usata per giustificare interventi in Baltico, Georgia, Ucraina.
+
+**Dottrina Nucleare (2023-2024)**: Nel giugno 2023 pubblico' "L'uso delle armi nucleari puo' salvare l'umanita'". Al Valdai 2023 propose a Putin di abbassare la soglia nucleare. La nuova dottrina russa (novembre 2024) incorpora elementi della proposta Karaganov.
+
+| Evento | Data | Dettaglio |
+|--------|------|-----------|
+| Articolo nucleare | Giugno 2023 | "Colpire obiettivi NATO per riportare alla ragione l'Occidente" |
+| Confronto Putin | Ottobre 2023 | Valdai: propone abbassare soglia nucleare |
+| Nuova dottrina | Novembre 2024 | Russia adotta elementi Karaganov |
+| Ideologia di stato | Luglio 2025 | Propone insegnare "devozione allo stato e al leader" |
+
+### Rossiya Segodnya: Il Braccio della Propaganda
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1941 (Sovinformburo), 2013 (Rossiya Segodnya) |
+| **Decreto** | Putin, 9 dicembre 2013 (fusione RIA Novosti + Voice of Russia) |
+| **Director General** | [Dmitry Kiselyov](../docs/persons/dmitry-kiselyov.md) ("Kremlin's chief propagandist" - BBC) |
+| **Editor-in-Chief** | [Margarita Simonyan](../docs/persons/margarita-simonyan.md) (anche RT) |
+| **Budget** | 9.4 miliardi RUB (2023) |
+| **Copertura** | 30+ lingue via Sputnik |
+| **Sanzioni** | UK (2022), Canada (2023), EU (2024), USA (2024), Meta ban (2024) |
+
+**Brand del gruppo**: RIA Novosti, Sputnik, RT (Russia Today), inoSMI
+
+**Connessione Valdai**: Rossiya Segodnya finanzia il Valdai Club, creando un circuito chiuso propaganda → legittimazione intellettuale → propaganda.
+
+### I Volti della Propaganda: Kiselyov e Simonyan
+
+**[Dmitry Kiselyov](../docs/persons/dmitry-kiselyov.md)** (1954) - Director General Rossiya Segodnya, conduttore Vesti Nedeli:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nomina** | Decreto Putin, stesso giorno fusione (9 dic 2013) |
+| **Minacce nucleari** | "Russia unico paese capace di trasformare USA in polvere radioattiva" (2014) |
+| **Poseidon** | Minaccia tsunami radioattivo 500m contro UK (2022) |
+| **Omofobia** | 2012: cuori di omosessuali "da bruciare" |
+| **Sanzioni** | EU 2014, UK 2020, Ucraina 2023, UK Director Disqualification 2025 |
+
+**[Margarita Simonyan](../docs/persons/margarita-simonyan.md)** (1980) - Editor-in-Chief RT e Rossiya Segodnya:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Origine** | Armena, Krasnodar; famiglia modesta |
+| **Ascesa** | Kremlin pool journalist → Beslan 2004 → RT chief a 25 anni |
+| **Mentore** | [Aleksey Gromov](../docs/persons/aleksey-gromov.md) la impose come capo RT |
+| **Impero** | RT 900 milioni audience, 100+ paesi, 30+ lingue |
+| **US State Dept** | "Putin's loyal propagandist", "adept at serving lies as truths" |
+| **Sanzioni** | Ucraina 2016, EU/UK/Canada 2022, USA 2024 (interferenza elettorale) |
+| **2025** | Financial Times 100 piu' influenti; diagnosi cancro al seno; vedova Keosayan |
+
+**Pattern**: Simonyan e' la protetta di Gromov; Kiselyov e' la voce bellicosa; entrambi rispondono a Gromov, non direttamente a Putin.
+
+### Dmitry Medvedev: Da Davos a Falco
+
+[Dmitry Medvedev](../docs/persons/dmitry-medvedev.md) rappresenta la **trasformazione** dell'elite russa da dialogo occidentale a confronto totale:
+
+| Fase | Periodo | Caratteristica |
+|------|---------|----------------|
+| **Modernizzatore** | 2007-2012 | Davos speaker, New START, anti-corruzione |
+| **Premier** | 2012-2020 | Gestione economica, ancora Davos 2013 |
+| **Falco** | 2020+ | Vice Chair Security Council, minacce nucleari |
+
+**Il pivot**: Da "Gazprom potrebbe perdere il monopolio export" (Davos 2013) a minacce nucleari su Telegram (2022+).
+
+**Pattern**: L'ex uomo di Davos e' ora il volto bellicoso del regime - dimostra che la "fazione liberale" era un'illusione o e' stata completamente assorbita.
+
+---
+
 ## Gli Oligarchi: Da Indipendenti a Dipendenti
 
 ### Era Yeltsin (1991-1999): Oligarchi Indipendenti
@@ -648,6 +1110,8 @@ Yuri Kovalchuk e' considerato il "Numero 2" della Russia - non per ruolo formale
 |---------|------|-----------|--------|
 | [Governo Russia](../docs/government/governo-russia.md) | Government | - | Scheda |
 | [FSB Russia](../docs/agency/fsb-russia.md) | Agency | Stato | **Scheda** |
+| [SVR](../docs/agency/svr.md) | Agency | Stato (Naryshkin) | **Scheda** |
+| [GRU](../docs/agency/gru.md) | Agency | Stato (Kostyukov) | **Scheda** |
 | [Security Council](../docs/agency/security-council-russia.md) | Agency | Presidenza | Scheda |
 | [Rosneft](../docs/company/rosneft.md) | Company | Stato (Sechin) | **Scheda** |
 | [Gazprom](../docs/company/gazprom.md) | Company | Stato (Miller) | **Scheda** |
@@ -655,8 +1119,9 @@ Yuri Kovalchuk e' considerato il "Numero 2" della Russia - non per ruolo formale
 | [VTB Bank](../docs/bank/vtb-bank.md) | Bank | Stato (Kostin) | **Scheda** |
 | [Rosatom](../docs/company/rosatom.md) | Company | Stato (Likhachev) | **Scheda** |
 | [Bank Rossiya](../docs/bank/bank-rossiya.md) | Bank | Kovalchuk/Ozero | Scheda |
-| [RT](../docs/media/rt.md) | Media | Stato | Scheda |
-| [Rossiya Segodnya](../docs/media/rossiya-segodnya.md) | Media | Stato | Stub |
+| [RT](../docs/media/rt.md) | Media | Stato (Gromov/Simonyan) | Scheda |
+| [Rossiya Segodnya](../docs/media/rossiya-segodnya.md) | Media | Stato (Gromov/Kiselyov/Simonyan) | **Scheda** |
+| [RDIF](../docs/swf/rdif.md) | SWF | Stato (Dmitriev) | **Scheda** |
 | [KGB](../docs/agency/kgb.md) | Agency | Defunct (1991) | Stub |
 | [Sovcomflot](../docs/company/sovcomflot.md) | Company | Stato | Stub |
 
@@ -751,16 +1216,27 @@ Yuri Kovalchuk e' considerato il "Numero 2" della Russia - non per ruolo formale
 | [Anatoly Chubais](../docs/persons/anatoly-chubais.md) | Architetto Privatizzazione | Davos Pact chairman, fuggito Israele 2022 | **Scheda** |
 | [Vladimir Gusinsky](../docs/persons/vladimir-gusinsky.md) | Media Oligarca | NTV, primo cacciato 2000, Israele | **Scheda** |
 | [Vladimir Potanin](../docs/persons/vladimir-potanin.md) | Architetto loans-for-shares | Norilsk, unico sopravvissuto Semibankirschina | **Scheda** |
+| [Aleksey Gromov](../docs/persons/aleksey-gromov.md) | "Zar della TV" | First Deputy Chief of Staff, controlla tutti i canali TV | **Scheda** |
+| [Margarita Simonyan](../docs/persons/margarita-simonyan.md) | Editor-in-Chief RT | RT, Rossiya Segodnya, protetta Gromov | **Scheda** |
+| [Dmitry Kiselyov](../docs/persons/dmitry-kiselyov.md) | Dir. Gen. Rossiya Segodnya | "Kremlin's chief propagandist", minacce nucleari | **Scheda** |
+| [Kirill Dmitriev](../docs/persons/kirill-dmitriev.md) | CEO RDIF | Soft power finanziario, negoziatore USA 2025 | **Scheda** |
+| [Dmitry Medvedev](../docs/persons/dmitry-medvedev.md) | Ex Presidente | Tandemocracy 2008-12, da Davos a falco | **Scheda** |
+| [Sergei Karaganov](../docs/persons/sergei-karaganov.md) | Architetto intellettuale | Fondatore Valdai, dottrina nucleare | **Scheda** |
+| [Mikhail Lesin](../docs/persons/mikhail-lesin.md) | "Il Bulldozer" | Ministro Stampa, takeover NTV, co-creatore RT, morto 2015 | **Scheda** |
+| [Sergey Naryshkin](../docs/persons/sergey-naryshkin.md) | Direttore SVR | Classmate KGB Putin, ex Chief of Staff | **Scheda** |
+| [Valery Gerasimov](../docs/persons/valery-gerasimov.md) | Capo di Stato Maggiore | Dottrina Guerra Ibrida, 1 dei 3 con codici nucleari, ICC | **Scheda** |
+| [Sergey Shoigu](../docs/persons/sergey-shoigu.md) | Ex Min. Difesa, Segr. Cons. Sicurezza | Amico Putin, tuvano, co-fondatore Russia Unita, ICC | **Scheda** |
+| [Alexander Bortnikov](../docs/persons/alexander-bortnikov.md) | Direttore FSB (2008-) | 17+ anni record, KGB Leningrado, Navalny, sanzionato | **Scheda** |
+| [Igor Sergun](../docs/persons/igor-sergun.md) | Dir. GRU (2011-2016) | Crimea, visita Flynn 2013, morto misteriosamente | **Scheda** |
+| [Igor Korobov](../docs/persons/igor-korobov.md) | Dir. GRU (2016-2018) | Hacking DNC, Skripal, morto in carica | **Scheda** |
 
 #### Stub (Da Espandere)
 
 | Persona | Ruolo Chiave | Note |
 |---------|--------------|------|
-| [Alexander Bortnikov](../docs/persons/alexander-bortnikov.md) | Direttore FSB | KGB Leningrado, dal 2008, Hero of Russia |
 | [German Gref](../docs/persons/german-gref.md) | CEO Sberbank | Ex Min. Economia, SPB connection, sanzionato |
 | [Sergei Stepashin](../docs/persons/sergei-stepashin.md) | Ex PM, primo direttore FSB | 1994-95, poi PM 1999 |
 | [Anton Siluanov](../docs/persons/anton-siluanov.md) | Ministro Finanze | Chairman Supervisory Board Sberbank |
-| [Dmitry Medvedev](../docs/persons/dmitry-medvedev.md) | Ex Presidente | Tandemocracy 2008-12 |
 | [Mikhail Mishustin](../docs/persons/mikhail-mishustin.md) | Primo Ministro | Technocrate |
 | [Dmitry Patrushev](../docs/persons/dmitry-patrushev.md) | Vice PM | Figlio Nikolai, dinastia |
 | [Alexander Voloshin](../docs/persons/alexander-voloshin.md) | Chief of Staff 1999-2003 | The Family, continuita' |
@@ -772,10 +1248,15 @@ Yuri Kovalchuk e' considerato il "Numero 2" della Russia - non per ruolo formale
 | [Rem Viakhirev](../docs/persons/rem-viakhirev.md) | Ex CEO Gazprom | Rimosso da Putin 2001, morto 2013 |
 | [Vladimir Yevtushenkov](../docs/persons/vladimir-yevtushenkov.md) | Fondatore Sistema | Arrestato 2014, perse Bashneft |
 | [Yury Luzhkov](../docs/persons/yury-luzhkov.md) | Ex Sindaco Mosca | Patrono Gusinsky, morto 2019 |
-| [Yevgeny Primakov](../docs/persons/yevgeny-primakov.md) | Ex PM | Alleato Gusinsky 1999, morto 2015 |
+| [Yevgeny Primakov](../docs/persons/yevgeny-primakov.md) | Ex PM, primo Dir. SVR | Alleato Gusinsky 1999, morto 2015 |
+| [Mikhail Fradkov](../docs/persons/mikhail-fradkov.md) | Ex PM, Dir. SVR | SVR 2007-2016, PM 2004-2007 |
+| [Vyacheslav Trubnikov](../docs/persons/vyacheslav-trubnikov.md) | Dir. SVR 1996-2000 | Career KGB, Ambasciatore India |
+| [Sergei Lebedev](../docs/persons/sergei-lebedev.md) | Dir. SVR 2000-2007 | Career SVR, Segr. Esecutivo CIS |
+| [Igor Kostyukov](../docs/persons/igor-kostyukov.md) | Dir. GRU 2018- | Primo ufficiale navale, sanzionato USA |
+| [Andrei Averyanov](../docs/persons/andrei-averyanov.md) | Comandante Unit 29155 | Assassinii, sabotaggio (Skripal, Vrbetice) |
+| [Michael Flynn](../docs/persons/michael-flynn.md) | Ex Dir. DIA, NSA Trump | Visito' GRU HQ 2013, RT gala 2015 |
 | [Sergey Lavrov](../docs/persons/sergey-lavrov.md) | Min. Esteri | Governo Russia |
 | [Oleg Deripaska](../docs/persons/oleg-deripaska.md) | Oligarca | En+, Strabag |
-| [Margarita Simonyan](../docs/persons/margarita-simonyan.md) | Editor-in-chief | RT |
 | [Leonid Mikhelson](../docs/persons/leonid-mikhelson.md) | CEO Novatek | Partner Timchenko |
 | [Alina Kabaeva](../docs/persons/alina-kabaeva.md) | Chairwoman NMG | Rumored partner Putin |
 | [Mikhail Kovalchuk](../docs/persons/mikhail-kovalchuk.md) | Dir. Kurchatov Institute | Fratello Yuri |
@@ -833,12 +1314,30 @@ Il World Economic Forum ha avuto un ruolo centrale nella legittimazione internaz
 
 | Persona | Anno | Note |
 |---------|------|------|
-| Kirill Dmitriev | YGL | CEO RDIF (fondo sovrano) |
+| [Kirill Dmitriev](../docs/persons/kirill-dmitriev.md) | **2009** | **CEO RDIF, Stanford/Harvard, Goldman Sachs, Putin envoy 2025** |
 | Arkady Dvorkovich | YGL | Ex Vice PM |
 | Ruben Vardanian | YGL | Finanziere |
 | Tigran Khudaverdyan | YGL | Yandex |
 | Andrey Guryev | 2021 | PhosAgro |
 | Natalia Vodianova | 2014 | Supermodella, filantropa |
+
+### Kirill Dmitriev: Il Caso Emblematico
+
+[Kirill Dmitriev](../docs/persons/kirill-dmitriev.md) (1975) incarna il **ponte Russia-Occidente** costruito attraverso il WEF e ora usato per i negoziati Trump-Putin:
+
+| Fase | Periodo | Caratteristica |
+|------|---------|----------------|
+| **Formazione USA** | 1989-2000 | Stanford (BA), Harvard MBA (Baker Scholar) |
+| **Wall Street** | 1996-1999 | Goldman Sachs, McKinsey |
+| **WEF YGL** | 2009 | Legittimazione internazionale |
+| **RDIF** | 2011+ | CEO fondo sovrano russo |
+| **Seychelles** | Gennaio 2017 | Meeting segreto con Erik Prince |
+| **Mueller** | 2017-2019 | Indagato per back-channel Trump |
+| **Sanzioni** | 2022 | RDIF e Dmitriev sanzionati USA |
+| **Putin envoy** | Febbraio 2025 | Special Presidential Representative |
+| **Miami talks** | Ottobre 2025 | Negoziati con Witkoff e Kushner |
+
+**Pattern**: Formazione elite occidentale (Stanford/Harvard/Goldman) → legittimazione WEF → posizione strategica russa → canale segreto con USA → inviato ufficiale. Il WEF ha involontariamente creato il profilo perfetto per un intermediario Russia-USA.
 
 ---
 
@@ -863,6 +1362,29 @@ Il World Economic Forum ha avuto un ruolo centrale nella legittimazione internaz
 | **Premio** | 2013: Putin conferisce Ordine Amicizia a Tillerson |
 | **Sanzioni** | 2014: Sechin sanzionato; Exxon firma comunque (multa $2M) |
 | **Exit** | 2022: Exxon abbandona Russia |
+
+### USA: Dmitriev-Trump Back-Channel (2017-2025)
+
+[Kirill Dmitriev](../docs/persons/kirill-dmitriev.md) rappresenta il **canale segreto** Russia-USA che precede e sopravvive alle sanzioni:
+
+| Data | Evento | Partecipanti | Significato |
+|------|--------|--------------|-------------|
+| **Gennaio 2017** | Seychelles meeting | Dmitriev + Erik Prince | Back-channel pre-inaugurazione Trump |
+| **2017-2019** | Mueller Investigation | Dmitriev indagato | Sospetto coordinamento Russia-Trump |
+| **Febbraio 2022** | Sanzioni | RDIF + Dmitriev | "Close associate of Putin" (Treasury) |
+| **Febbraio 2025** | Nomina envoy | Dmitriev | Special Presidential Representative |
+| **Aprile 2025** | Washington | Dmitriev + Witkoff | Incontri near White House |
+| **Ottobre 2025** | Miami talks | Dmitriev + Witkoff + Kushner | Piano pace Ucraina |
+| **Dicembre 2025** | Continua | - | Negoziati in corso |
+
+**Il Piano Miami** (controverso):
+- Cessione territorio ucraino orientale alla Russia
+- Riconoscimento Crimea russa
+- Ucraina non entra in NATO
+- Bypassato processo interagenzia USA
+- Preoccupazioni bipartisan a Capitol Hill
+
+**Pattern**: Un individuo sanzionato (Dmitriev) negozia direttamente con consiglieri presidenziali USA (Witkoff, Kushner), dimostrando che le sanzioni non impediscono i canali diplomatici informali quando c'e' volonta' politica.
 
 ### UK: BP-Rosneft
 
@@ -1131,6 +1653,66 @@ Il controllo di energia E finanza viene dallo stesso gruppo di San Pietroburgo:
 
 ---
 
+## RDIF: Il Fondo Sovrano e la Diplomazia Finanziaria Parallela
+
+Accanto ai campioni nazionali dell'energia e alle banche statali, Putin ha creato uno strumento di **soft power finanziario**: il [Russian Direct Investment Fund (RDIF)](../docs/swf/rdif.md).
+
+### Struttura e Leadership
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | Giugno 2011 |
+| **Fondatori** | Presidente Medvedev + PM Putin |
+| **CEO** | [Kirill Dmitriev](../docs/persons/kirill-dmitriev.md) (dal 2011) |
+| **AUM** | $10 miliardi (riservati) + $40B+ mobilitati |
+| **Proprietario** | Stato russo (100%) |
+| **Sanzioni** | USA/EU/UK/Canada febbraio-marzo 2022 |
+| **Caratterizzazione US Treasury** | "Slush fund for Putin, emblematic of Russia's kleptocracy" |
+
+### La Rete dei Co-Investimenti
+
+RDIF ha creato joint funds con i principali fondi sovrani del mondo:
+
+| Partner | Paese | Valore | Anno |
+|---------|-------|--------|------|
+| [CIC](../docs/swf/cic.md) | Cina | $2B | 2012 |
+| [Mubadala](../docs/swf/mubadala.md) | UAE | $2B | 2013 |
+| [KIA](../docs/swf/kuwait-investment-authority.md) | Kuwait | $1B | 2012 |
+| [PIF](../docs/swf/pif-saudi.md) | Saudi Arabia | N/D | 2015 |
+| [QIA](../docs/swf/qia.md) | Qatar | N/D | - |
+| Danantara | Indonesia | €2B | 2025 |
+
+**Leva finanziaria**: Per ogni $1 investito da RDIF, vengono mobilitati $9-10 dai partner.
+
+### Kirill Dmitriev: Il Perfetto Intermediario
+
+[Kirill Dmitriev](../docs/persons/kirill-dmitriev.md) (1975) rappresenta il **profilo ideale** per il soft power finanziario russo:
+
+| Fase | Periodo | Caratteristica |
+|------|---------|----------------|
+| **Formazione USA** | 1989-2000 | Stanford BA, Harvard MBA (Baker Scholar) |
+| **Wall Street** | 1996-1999 | Goldman Sachs NY, McKinsey |
+| **WEF** | 2009 | Young Global Leader |
+| **RDIF** | 2011+ | CEO, $40B+ mobilitati |
+| **Sputnik V** | 2020-2021 | Finanziamento e marketing vaccino |
+| **Sanzioni** | Feb 2022 | USA/EU/UK/Canada |
+| **Inviato Putin** | Feb 2025 | Special Presidential Representative |
+| **Miami talks** | Ott 2025 | Negozia con Kushner e Witkoff (con waiver USA) |
+
+**Il Paradosso**: Sanzionato nel 2022, Dmitriev ottiene un **waiver USA** nel 2025 per negoziare il piano di pace Ucraina con l'amministrazione Trump.
+
+### Il Pattern del Soft Power Finanziario
+
+1. **Formazione occidentale**: Stanford, Harvard, Goldman Sachs creano credibilita'
+2. **Accesso ai forum elite**: WEF Young Global Leader apre porte
+3. **Co-investimenti**: Creano dipendenze con fondi sovrani stranieri
+4. **Vaccine diplomacy**: Sputnik V come strumento di influenza
+5. **Diplomazia parallela**: Canale alternativo quando i diplomatici ufficiali sono bloccati
+
+**Lezione**: Le sanzioni non fermano i canali informali. Dmitriev sanzionato 2022 → negozia pace Ucraina 2025.
+
+---
+
 ## Pattern di Potere
 
 ### 1. Dacha Ozero: L'Origine della Cerchia
@@ -1232,7 +1814,7 @@ Gli oligarchi di Putin usano lo sport per soft power, networking e potenzialment
 |---------|-------|-----------|
 | ~~Alexey Miller~~ | ~~CEO Gazprom~~ | **STUB** (in Gazprom) |
 | ~~Alexander Bortnikov~~ | ~~Direttore FSB~~ | **STUB** (in FSB-Russia) |
-| **Sergey Naryshkin** | Direttore SVR | ALTA |
+| ~~Sergey Naryshkin~~ | ~~Direttore SVR~~ | **COMPLETATO** |
 | ~~Yuri Kovalchuk~~ | ~~Bank Rossiya~~ | **COMPLETATO** |
 | ~~Gennady Timchenko~~ | ~~Gunvor, Novatek~~ | **COMPLETATO** |
 | ~~Arkady Rotenberg~~ | ~~Stroygazmontazh~~ | **COMPLETATO** |
@@ -1247,11 +1829,17 @@ Gli oligarchi di Putin usano lo sport per soft power, networking e potenzialment
 | ~~Sergey Kirienko~~ | ~~First Deputy Chief of Staff~~ | **COMPLETATO** |
 | ~~Alexey Likhachev~~ | ~~CEO Rosatom~~ | **COMPLETATO** |
 | ~~Andrey Kostin~~ | ~~CEO VTB Bank~~ | **COMPLETATO** |
-| Andrey Belousov | Ministro Difesa | MEDIA |
+| ~~Andrey Belousov~~ | ~~Ministro Difesa~~ | **STUB** (in Gerasimov) |
+| ~~Valery Gerasimov~~ | ~~Capo di Stato Maggiore~~ | **COMPLETATO** |
+| ~~Sergey Shoigu~~ | ~~Ex Min. Difesa~~ | **COMPLETATO** |
+| ~~Alexander Bortnikov~~ | ~~Direttore FSB~~ | **COMPLETATO** |
+| ~~Igor Sergun~~ | ~~Dir. GRU 2011-2016~~ | **COMPLETATO** |
+| ~~Igor Korobov~~ | ~~Dir. GRU 2016-2018~~ | **COMPLETATO** |
 | **Leonid Mikhelson** | CEO Novatek | ALTA |
 | **Alina Kabaeva** | NMG Chairwoman | ALTA |
 | **Alexander Voloshin** | Chief of Staff 1999-2003 | ALTA |
 | **Elvira Nabiullina** | Governatrice Banca Centrale | ALTA |
+| **Michael Flynn** | Ex Dir. DIA, NSA Trump | MEDIA |
 
 ### Organizzazioni Da Creare
 
@@ -1273,8 +1861,8 @@ Gli oligarchi di Putin usano lo sport per soft power, networking e potenzialment
 | ~~Ogonyok~~ | ~~Media~~ | **COMPLETATO** |
 | ~~Rosatom~~ | ~~Company~~ | **COMPLETATO** |
 | **Rostec** | Company | MEDIA |
-| **SVR** | Agency | MEDIA |
-| **GRU** | Agency | MEDIA |
+| ~~SVR~~ | ~~Agency~~ | **COMPLETATO** |
+| ~~GRU~~ | ~~Agency~~ | **COMPLETATO** |
 | **Valdai Club** | ThinkTank | BASSA |
 
 ### Famiglie/Dinastie
@@ -1479,11 +2067,12 @@ Gli oligarchi di Putin usano lo sport per soft power, networking e potenzialment
     +----------+-----------+
     |          |           |
     v          v           v
-SILOVIKI   OZERO      CERCHIO JUDO
-(FSB)    (Kovalchuk)  (Rotenberg/Timchenko)
+SILOVIKI     OZERO      CERCHIO JUDO
+(FSB+SVR)  (Kovalchuk)  (Rotenberg/Timchenko)
     |          |           |
     v          v           v
- Sechin   Bank+Media   Costruzioni+Energia+Sport
+Sechin+    Bank+Media   Costruzioni+Energia+Sport
+Naryshkin
 ```
 
 ### I Veri Detentori del Potere (2025)
@@ -1491,19 +2080,26 @@ SILOVIKI   OZERO      CERCHIO JUDO
 | Livello | Chi | Perche' | Patrimonio |
 |---------|-----|---------|------------|
 | **1. Putin** | Vladimir Putin | 25 anni di verticale del potere | Sconosciuto (stime $200B) |
-| **2. "Numero 2"** | **[Yuri Kovalchuk](../docs/persons/yuri-kovalchuk.md)** | **"Quasi inseparabile" da Putin; controlla media (NMG) e banche (Rossiya); influenza ideologica** | **$3.1B** |
-| **3. Siloviki** | [Igor Sechin](../docs/persons/igor-sechin.md), Bortnikov (FSB) | Controllo sicurezza + energia (Rosneft) | N/D |
-| **4. Cerchio Judo** | [Timchenko](../docs/persons/gennady-timchenko.md), [Rotenbergs](../docs/persons/arkady-rotenberg.md) | Amicizia dai '60-'90; contratti statali; sport | $30B+ combinato |
-| **5. Technocrati** | Mishustin (PM) | Esecutori, non decisori | - |
-| **6. Oligarchi "tollerati"** | Potanin, Abramovich | Sopravvissuti perche' leali | Variabile |
+| **2. "Numero 2" Media** | **[Yuri Kovalchuk](../docs/persons/yuri-kovalchuk.md)** | **"Quasi inseparabile" da Putin; controlla media privati (NMG) e banche (Rossiya); influenza ideologica** | **$3.1B** |
+| **2b. "Zar della TV"** | **[Aleksey Gromov](../docs/persons/aleksey-gromov.md)** | **First Deputy Chief of Staff; controlla TUTTI i canali TV statali via riunioni giovedi'; amico Putin da Praga** | **N/D** |
+| **3. Comando Militare** | **[Valery Gerasimov](../docs/persons/valery-gerasimov.md)**, [Sergey Shoigu](../docs/persons/sergey-shoigu.md) | **Gerasimov: Capo SM dal 2012, uno dei 3 con codici nucleari, Dottrina Guerra Ibrida, ICC; Shoigu: amico Putin, ex Min. Difesa, ora Cons. Sicurezza** | N/D |
+| **4. Siloviki** | [Igor Sechin](../docs/persons/igor-sechin.md), [Bortnikov](../docs/persons/alexander-bortnikov.md) (FSB 17+ anni), [Naryshkin](../docs/persons/sergey-naryshkin.md) (SVR), [Kostyukov](../docs/persons/igor-kostyukov.md) (GRU) | Controllo sicurezza interna (FSB) + estera (SVR) + militare (GRU) + energia (Rosneft) | N/D |
+| **5. Cerchio Judo** | [Timchenko](../docs/persons/gennady-timchenko.md), [Rotenbergs](../docs/persons/arkady-rotenberg.md) | Amicizia dai '60-'90; contratti statali; sport | $30B+ combinato |
+| **6. Soft Power Finanziario** | [Kirill Dmitriev](../docs/persons/kirill-dmitriev.md) | CEO RDIF; $40B+ mobilitati; negoziatore USA; waiver sanzioni | N/D |
+| **7. Technocrati** | Mishustin (PM) | Esecutori, non decisori | - |
+| **8. Oligarchi "tollerati"** | Potanin, Abramovich | Sopravvissuti perche' leali | Variabile |
 
-### I Tre Pilastri del Potere Economico Putin
+### I Sette Pilastri del Potere Putin
 
 | Pilastro | Controller | Organizzazioni | Funzione |
 |----------|------------|----------------|----------|
-| **Informazione** | [Kovalchuk](../docs/persons/yuri-kovalchuk.md) | NMG, VK, Channel One | Propaganda, controllo narrativa |
+| **Comando Militare** | [Gerasimov](../docs/persons/valery-gerasimov.md) + Belousov | Forze Armate, Stato Maggiore | Guerra convenzionale, deterrenza nucleare, codici nucleari |
+| **Intelligence** | [Naryshkin](../docs/persons/sergey-naryshkin.md) (SVR), Bortnikov (FSB), [Kostyukov](../docs/persons/igor-kostyukov.md) ([GRU](../docs/agency/gru.md)) | [SVR](../docs/agency/svr.md), FSB, [GRU](../docs/agency/gru.md) | Spionaggio, cyber-operazioni, eliminazioni, Spetsnaz |
+| **Informazione (domestica)** | [Gromov](../docs/persons/aleksey-gromov.md) + [Kovalchuk](../docs/persons/yuri-kovalchuk.md) | Tutti i canali TV federali, NMG, VK | Controllo narrativa interna |
+| **Informazione (globale)** | [Gromov](../docs/persons/aleksey-gromov.md) via Simonyan/Kiselyov | RT, Sputnik, Rossiya Segodnya | Propaganda internazionale, interferenza elettorale |
 | **Energia** | [Sechin](../docs/persons/igor-sechin.md) + [Timchenko](../docs/persons/gennady-timchenko.md) | Rosneft, Novatek, Sibur | Revenue, leverage geopolitico |
 | **Infrastrutture** | [Rotenberg](../docs/persons/arkady-rotenberg.md) | SGM, Gazprom contracts | Costruzioni, distribuzione rendite |
+| **Finanza sovrana** | [Dmitriev](../docs/persons/kirill-dmitriev.md) | [RDIF](../docs/swf/rdif.md) | Co-investimenti, soft power finanziario, diplomazia parallela |
 
 ### Le Lezioni
 
@@ -1530,6 +2126,41 @@ SILOVIKI   OZERO      CERCHIO JUDO
 21. **Anche i "liberali" servono il sistema**: Gref avverti' sulle sanzioni, ma rimane CEO Sberbank sanzionata
 22. **I warning economici non fermano Putin**: Gref avverti' a gennaio 2022, Putin invase un mese dopo
 23. **I documenti vengono secretati**: Ryazan secretato 75 anni, la verita' emergera' quando i protagonisti saranno morti
+24. **L'apparato di soft power e' sofisticato**: Valdai Club, CFDP, RT/Sputnik - propaganda per masse E elite
+25. **Gli intellettuali del regime influenzano la dottrina**: Karaganov (1992: "near abroad", 2023: nucleare) → policy reale
+26. **La formazione occidentale crea ponti utili**: Dmitriev (Stanford/Harvard/Goldman/WEF) → perfetto intermediario Russia-USA
+27. **Le sanzioni non bloccano i canali informali**: Dmitriev sanzionato 2022 → negozia con Kushner 2025
+28. **I "moderati" possono diventare falchi**: Medvedev da Davos speaker a minacce nucleari su Telegram
+29. **Il finanziamento della propaganda e' circolare**: Rossiya Segodnya finanzia Valdai → legittimazione intellettuale → propaganda
+30. **L'UE sanziona tardivamente**: Leadership Valdai sanzionata solo dicembre 2025 (21 anni dopo fondazione)
+31. **Il vero potere e' invisibile**: Aleksey Gromov controlla TUTTA la TV russa, ma e' quasi sconosciuto in Occidente
+32. **Il sistema mediatico e' centralizzato al massimo**: Un uomo (Gromov) tiene riunioni settimanali con TUTTI i capi TV e detta la linea
+33. **I co-creatori del sistema possono essere sacrificati**: Mikhail Lesin co-creo' RT con Gromov, mori' misteriosamente a Washington 2015
+34. **Le relazioni personali superano le istituzioni**: Gromov conosce Putin da Praga anni '80, e' intoccabile
+35. **I fondi sovrani sono strumenti di soft power**: RDIF crea dipendenze con CIC, Mubadala, PIF attraverso co-investimenti
+36. **Le sanzioni hanno eccezioni politiche**: Dmitriev ottiene waiver USA 2025 per negoziare nonostante sanzioni 2022
+37. **I volti pubblici non sono i decisori**: Kiselyov e Simonyan sono famosi, ma rispondono a Gromov
+38. **L'apparato intelligence e' trino e complementare**: SVR (estero civile), FSB (interno), GRU (militare) - tutti rispondono direttamente a Putin
+39. **I direttori SVR sono tutti uomini di Putin**: Naryshkin era suo classmate alla Scuola Superiore KGB, Chief of Staff 2008-12, Chairman Duma 2011-16 prima di passare all'SVR
+40. **Chi vuole collaborare con l'Occidente viene eliminato**: Mikhail Lesin fu trovato morto a Washington DC il giorno prima di un incontro con il DOJ su RT
+41. **Le operazioni cyber sono sofisticate**: SolarWinds (2020) - l'SVR ha compromesso 18.000 organizzazioni tramite un singolo supply-chain attack
+42. **Il "Bulldozer" Lesin stabili' il modello del takeover mediatico**: NTV 2000-2001 fu il template per tutti i successivi - arresto/pressione legale → vendita forzata → controllo statale
+43. **Il GRU e' il braccio sporco dello stato**: Unit 29155 per assassinii (Skripal), Unit 74455 per cyber-terrorismo (NotPetya) - disposti a fallire pubblicamente
+44. **Due direttori GRU morti consecutivamente in carica**: Sergun (2016) e Korobov (2018) - pattern inquietante dopo operazioni controverse
+45. **Gerasimov e' l'unico stabile al vertice militare**: Capo di Stato Maggiore dal 2012, ha teorizzato la guerra ibrida e la sta perdendo in Ucraina
+46. **I tre detentori dei codici nucleari**: Putin, Gerasimov (dal 2012), e il Ministro della Difesa (ora Belousov)
+47. **Anche il miglior amico di Putin puo' cadere**: Shoigu, vacanze insieme per 20 anni, rimosso da Min. Difesa dopo fallimenti Ucraina
+48. **L'etnia conta ai vertici**: Shoigu, meta' tuvano, e' stato l'unico non-russo etnico ai massimi livelli - ma proprio per questo non poteva essere successore
+49. **L'ICC sta stringendo il cerchio**: Putin, Shoigu, Gerasimov tutti con mandati di arresto - 4+ leader russi incriminati per crimini di guerra
+50. **La Dottrina Gerasimov si e' ritorta contro la Russia**: teorizzata nel 2013, applicata in Crimea 2014, fallita in Ucraina 2022
+51. **Bortnikov e' il direttore FSB piu' longevo della storia**: 17+ anni (2008-oggi), record assoluto - la stabilita' ai vertici intelligence e' cruciale per Putin
+52. **Il team Novichok FSB seguiva Navalny dal 2017**: 6-10 agenti specializzati in tossine lo pedinarono su 30+ viaggi prima dell'avvelenamento 2020
+53. **Il fallimento intelligence FSB anticipo' il disastro Ucraina**: il 5° Servizio produsse l'analisi catastrofica che ucraini avrebbero accolto i russi come liberatori
+54. **Tutti e tre i capi intelligence a Washington contemporaneamente**: gennaio 2018, Bortnikov+Naryshkin+Korobov - evento senza precedenti mentre erano sotto sanzioni
+55. **Il nepotismo e' sistematico anche nell'intelligence**: figlio di Bortnikov (Denis) e' vice presidente VTB Bank - entrambi sanzionati
+56. **Michael Flynn ospite al quartier generale GRU**: giugno 2013, prima visita di un direttore DIA USA - canale che si spezzo' con l'invasione Crimea
+57. **Le morti dei direttori GRU seguono pattern sospetti**: Sergun (2016) ufficialmente infarto, Flynn disse all'FBI che mori' "in Libano"; Korobov (2018) "lunga malattia" dopo fiasco Skripal
+58. **L'avvelenamento Navalny rivelo' il modus operandi FSB**: telefonata trappola di Navalny ottenne confessione dall'agente FSB che credeva di parlare con un superiore
 
 ### Il Destino dei Sette Banchieri (Semibankirschina)
 
@@ -1561,5 +2192,5 @@ La "Family" e i riformatori che avevano portato Putin al potere sono stati progr
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
-*Status: Versione 7.0 - Integrati dati completi su: FSB Russia (scheda completa, successione direttori, incidente Ryazan 1999, pattern avvelenamenti), Sberbank (scheda completa, German Gref, sistema bancario statale), connessione San Pietroburgo ampliata (ora include Gref), timeline direttori FSB (Stepashin → Barsukov → Kovalev → Putin → Patrushev → Bortnikov), sanzioni Sberbank SDN 2022, Gref warning ignorato gennaio 2022, FSB centri detenzione 2025, stagnazione economica 2025*
+*Ultimo aggiornamento: Gennaio 2026*
+*Status: Versione 9.0 - Nuove sezioni: Alexander Bortnikov (direttore FSB 17+ anni, caso Navalny, fallimento intelligence Ucraina), Igor Sergun (architetto Crimea, visita Flynn 2013, morte misteriosa), Igor Korobov (hacking DNC, Skripal, morte in carica), La Visita a Washington 2018 (tutti e 3 i capi intelligence). 8 nuove lezioni (#51-58) su intelligence russa, morti sospette GRU, team Novichok FSB. Precedente: Versione 8.0 con Apparato Soft Power, Dmitriev back-channel, dottrina nucleare Karaganov.*

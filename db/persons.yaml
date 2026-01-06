@@ -651,6 +651,21 @@ persons:
       from: 2014
       to: 2015
       note: Developer app thisisyourdigitallife
+  aleksey-gromov:
+    born: 1960
+    nationality: RUS
+    note: First Deputy Chief of Staff Presidential Administration (2012+). Controls all Russian TV via weekly Thursday meetings.
+      Co-creator RT (2005) with Mikhail Lesin. Mentor Simonyan. Putin spokesperson 2000-2012. Met Putin in Prague embassy
+      1980s. KGB ties from student years. US/EU sanctioned 2014. UK Director Disqualification 2025.
+    affiliations:
+    - org: governo-russia
+      role: advisor
+      from: 1996
+      note: First Deputy Chief of Staff (2012+), Putin spokesperson (2000-2012), Press Service head (1996-2000)
+    relations:
+    - person: vladimir-putin
+      type: associate
+      note: Met in Prague embassy 1980s. Putin spokesperson 2000-2012. First Deputy Chief of Staff 2012+
   alessandro-benetton:
     born: 1964
     nationality: ITA
@@ -729,17 +744,23 @@ persons:
   alexander-bortnikov:
     born: 1951
     nationality: RUS
-    note: FSB Director dal 2008, Hero of Russia 2019, Army General
+    note: Direttore FSB dal 2008 (piu lungo in carica). Generale Esercito. Eroe Russia 2019. Ex KGB Leningrado con Putin.
+      Membro Consiglio Sicurezza. Sanzionato EU/UK 2014 (Ucraina), EU/USA/UK 2020 (Navalny), USA 2022 (invasione). Figlio
+      Denis vice VTB Bank (sanzionato). Parte cerchia siloviki. Ruolo controverso in intelligence pre-invasione 2022.
     affiliations:
+    - org: governo-russia
+      role: advisor
+      from: 2008
+      note: Membro permanente Consiglio di Sicurezza
     - org: kgb
       role: officer
       from: 1975
       to: 1991
       note: Counter-intelligence, Leningrad KGB
     - org: fsb-russia
-      role: board
+      role: executive
       from: 2008
-      note: Longest-serving FSB Director, Hero of Russia 2019
+      note: Direttore FSB, piu lungo in carica. Presidente Comitato Antiterrorismo. Membro permanente Consiglio Sicurezza.
     - org: sovcomflot
       role: board
       from: 2004
@@ -841,6 +862,15 @@ persons:
       note: Federal Chancellor
     - org: globsec
       role: member
+  alexander-shlyakhturov:
+    nationality: RUS
+    note: Direttore GRU 2009-2011.
+    affiliations:
+    - org: gru
+      role: executive
+      from: 2009
+      to: 2011
+      note: Direttore GRU
   alexander-stubb:
     born: 1968
     nationality: FIN
@@ -1852,6 +1882,14 @@ persons:
     - org: qaf
       role: owner
       note: Main shareholder, Vice Chairman
+  andrei-averyanov:
+    nationality: RUS
+    note: Maggiore Generale. Comandante Unit 29155 (assassinii e sabotaggio). Basato al 161st Special Purpose Training Center,
+      Mosca.
+    affiliations:
+    - org: gru
+      role: executive
+      note: Comandante Unit 29155
   andrei-plesu:
     born: 1948
     nationality: ROU
@@ -6687,19 +6725,64 @@ persons:
       role: executive
     - org: airbus
       role: executive
+  dmitry-kiselyov:
+    born: 1954
+    nationality: RUS
+    note: 'Director General Rossiya Segodnya (2013+). Host Vesti Nedeli. "Kremlin chief propagandist". Nuclear threats: "turn
+      USA into radioactive dust" (2014), Poseidon tsunami UK (2022). Homophobic statements 2012. EU sanctioned 2014, UK 2020,
+      Ukraine 2023. UK Director Disqualification 2025.'
+    affiliations:
+    - org: rossiya-segodnya
+      role: executive
+      from: 2013
+      note: Director General
+    - org: vgtrk
+      role: executive
+      from: 2008
+      note: Deputy General Director
+    relations:
+    - person: margarita-simonyan
+      type: colleague
+      note: Kiselyov Director General, Simonyan Editor-in-Chief at Rossiya Segodnya
+    - person: vladimir-putin
+      type: protege
+      note: Appointed by Putin as Rossiya Segodnya director Dec 2013
   dmitry-medvedev:
     born: 1965
     nationality: RUS
+    note: President 2008-2012 (tandem with Putin PM), PM 2012-2020, Deputy Chair Security Council 2020+. Gazprom chairman
+      2000-2003.
     affiliations:
+    - org: wef
+      role: speaker
+      from: 2007
+      note: Davos speaker 2007, 2011, 2013
     - org: governo-russia
       role: president
       from: 2008
       to: 2012
       note: Presidente (tandemocracy con Putin PM)
+    - org: governo-russia
+      role: leader
+      from: 2012
+      to: 2020
+      note: Prime Minister
+    - org: gazprom
+      role: chairman
+      from: 2000
+      to: 2003
+      note: Board Chairman
     - org: security-council-russia
       role: member
       from: 2020
       note: Vice Presidente Security Council
+    - org: valdai-club
+      role: member
+      note: Regular participant
+    relations:
+    - person: vladimir-putin
+      type: protege
+      note: Putin campaign manager 2000, tandemocracy 2008-2012
   dmitry-patrushev:
     born: 1977
     nationality: RUS
@@ -9381,6 +9464,15 @@ persons:
       from: 2005
       to: 2014
       note: CEO e General Manager 2005-2014
+  fyodor-ladygin:
+    nationality: RUS
+    note: Direttore GRU 1992-1997. Primo direttore GRU nella Russia post-sovietica.
+    affiliations:
+    - org: gru
+      role: executive
+      from: 1992
+      to: 1997
+      note: Direttore GRU
   gabriel-attal:
     born: 1989
     nationality: FRA
@@ -12092,6 +12184,42 @@ persons:
       from: 2019
       to: 2023
       note: CEO
+  igor-korobov:
+    born: 1956
+    died: 2018
+    nationality: RUS
+    note: 'Direttore GRU 2016-2018. Vice Capo Stato Maggiore. Ex pilota caccia Aeronautica (Stavropol 1977). Morto 21 nov
+      2018 dopo lunga malattia (ufficialmente cancro; speculazioni: punito per fiasco Skripal). Sanzionato USA dic 2016 e
+      mar 2018 per hacking elezioni. Eroe della Federazione Russa (maggio 2017). Secondo direttore GRU consecutivo a morire
+      in carica.'
+    affiliations:
+    - org: governo-russia
+      role: executive
+      from: 2016
+      to: 2018
+      note: Vice Capo Stato Maggiore Forze Armate
+    - org: gru
+      role: executive
+      from: 2016
+      to: 2018
+      note: Direttore GRU
+    relations:
+    - person: igor-kostyukov
+      type: colleague
+      note: Kostyukov successore come Direttore GRU, era suo vice
+    - person: vladimir-putin
+      type: subordinate
+      note: Nominato da Putin dopo morte Sergun. Eroe Russia 2017.
+  igor-kostyukov:
+    born: 1961
+    nationality: RUS
+    note: Ammiraglio, Direttore GRU dal 2018. Primo ufficiale navale a dirigere GRU. Supervisiono operazioni in Siria. Sanzionato
+      USA.
+    affiliations:
+    - org: gru
+      role: executive
+      from: 2018
+      note: Direttore GRU
   igor-malashenko:
     nationality: RUS
     note: NTV co-founder, Yeltsin campaign advisor 1996
@@ -12128,6 +12256,35 @@ persons:
     - person: vladimir-putin
       type: patron
       note: Chief of staff under Putin St Petersburg 1994, de facto deputy, siloviki leader
+  igor-sergun:
+    born: 1957
+    died: 2016
+    nationality: RUS
+    note: 'Direttore GRU 2011-2016. Vice Capo Stato Maggiore. Supervisiono annessione Crimea 2014, "little green men". Sanzionato
+      EU/USA. Morto improvvisamente 3 gennaio 2016 (ufficialmente: infarto a Mosca; Stratfor: Lebanon, missione segreta).
+      Eroe della Federazione Russa (postumo maggio 2016). Ospito Michael Flynn (DIA) al GRU HQ giugno 2013 - prima visita
+      di ufficiale USA.'
+    affiliations:
+    - org: governo-russia
+      role: executive
+      from: 2011
+      to: 2016
+      note: Vice Capo Stato Maggiore Forze Armate
+    - org: gru
+      role: executive
+      from: 2011
+      to: 2016
+      note: Direttore GRU
+    relations:
+    - person: igor-korobov
+      type: colleague
+      note: Korobov successore come Direttore GRU
+    - person: michael-flynn
+      type: counterpart
+      note: Flynn ospite GRU HQ giugno 2013, prima visita Dir. DIA
+    - person: vladimir-putin
+      type: subordinate
+      note: Nominato da Putin, ricevette condoglianze personali
   ilham-kadri:
     nationality: FRA
     affiliations:
@@ -16167,10 +16324,28 @@ persons:
   kirill-dmitriev:
     born: 1975
     nationality: RUS
-    note: CEO Russian Direct Investment Fund
+    note: CEO RDIF. WEF YGL 2009. Stanford, Harvard MBA. Seychelles meeting Prince 2017. Putin envoy 2025. US sanctioned 2022.
     affiliations:
     - org: wef
       role: ygl
+      from: 2009
+    - org: goldman-sachs
+      role: member
+      from: 1996
+      to: 1999
+      note: Investment banking, New York
+    - org: governo-russia
+      role: advisor
+      from: 2025
+      note: Special Presidential Representative for Investment and Economic Cooperation
+    - org: rdif
+      role: executive
+      from: 2011
+      note: CEO
+    relations:
+    - person: vladimir-putin
+      type: protege
+      note: Close associate, hand-picked envoy
   kirill-kovalchuk:
     nationality: RUS
     note: Nephew of Yuri, NMG President
@@ -18728,11 +18903,24 @@ persons:
   margarita-simonyan:
     born: 1980
     nationality: RUS
-    note: Editor-in-Chief RT since 2005. Key figure Russian information war
+    note: 'Editor-in-Chief RT (2005+) and Rossiya Segodnya (2013+). Armenian origin from Krasnodar. US State Dept: "Putin
+      loyal propagandist". US/EU/UK/Canada sanctioned. 2024 US sanctions for election interference. FT 100 most influential
+      2025. Breast cancer diagnosis Sep 2025. Widow of Tigran Keosayan (died Sep 2025).'
     affiliations:
     - org: rt
       role: editor-in-chief
       from: 2005
+    - org: rossiya-segodnya
+      role: executive
+      from: 2013
+      note: Editor-in-Chief
+    relations:
+    - person: aleksey-gromov
+      type: protege
+      note: Gromov mentored Simonyan, controls Kremlin media
+    - person: vladimir-putin
+      type: protege
+      note: Kremlin pool journalist, then appointed RT chief
   margaritis-schinas:
     born: 1962
     nationality: GRC
@@ -20113,6 +20301,11 @@ persons:
     - person: ehud-barak
       type: colleague
       note: Sayeret Matkal, IDF
+  michael-flynn:
+    born: 1958
+    nationality: USA
+    note: Generale USA. Dir. DIA 2012-2014. NSA Trump 2017 (dimesso). Visito GRU HQ giugno 2013 ospite Sergun. Seduto accanto
+      Putin gala RT 2015.
   michael-hayden:
     born: 1945
     nationality: USA
@@ -20481,6 +20674,22 @@ persons:
       from: 1995
       to: 1996
       note: Dismissed June 1996 with Korzhakov
+  mikhail-fradkov:
+    born: 1950
+    nationality: RUS
+    note: SVR Director 2007-2016. Prime Minister Russia 2004-2007. Director Federal Tax Police 2001-2003. Career diplomat
+      and intelligence.
+    affiliations:
+    - org: governo-russia
+      role: leader
+      from: 2004
+      to: 2007
+      note: Prime Minister
+    - org: svr
+      role: executive
+      from: 2007
+      to: 2016
+      note: Director SVR
   mikhail-gorbachev:
     born: 1931
     died: 2022
@@ -20553,6 +20762,52 @@ persons:
     born: 1946
     nationality: RUS
     note: Physicist, brother of Yuri, Kurchatov Institute director
+  mikhail-lesin:
+    born: 1958
+    died: 2015
+    nationality: RUS
+    note: Putin media czar, nicknamed "The Bulldozer". Created RT 2005 with Gromov. Press Minister 1999-2004. Architect of
+      NTV/Media-Most takeover. Head Gazprom-Media 2013-15. Fell from favor 2014. Died Nov 2015 Washington DC from blunt force
+      trauma - officially ruled accidental falls while intoxicated, but FBI sources claim murder eve of planned DOJ meeting.
+    affiliations:
+    - org: governo-russia
+      role: minister
+      from: 1999
+      to: 2004
+      note: Minister of Press, Broadcasting and Mass Communications
+    - org: governo-russia
+      role: advisor
+      from: 2004
+      to: 2009
+      note: Presidential Adviser for mass media relations
+    - org: rt
+      role: founder
+      from: 2005
+      to: 2015
+      note: Co-created RT with Aleksey Gromov
+    - org: gazprom-media
+      role: executive
+      from: 2013
+      to: 2015
+      note: Head of Gazprom-Media Holding
+    - org: vgtrk
+      role: executive
+      from: 1997
+      to: 1999
+      note: First Deputy Chairman
+    relations:
+    - person: aleksey-gromov
+      type: colleague
+      note: Co-created RT together 2005
+    - person: vladimir-gusinsky
+      type: adversary
+      note: Lesin architetto takeover NTV/Media-Most 2000-2001
+    - person: vladimir-putin
+      type: associate
+      note: Media czar under Putin 1999-2014. Fell from favor 2014, died 2015
+    - person: yuri-kovalchuk
+      type: rival
+      note: Conflitto a Gazprom-Media 2014, causa caduta in disgrazia Lesin
   mikhail-mishustin:
     born: 1966
     nationality: RUS
@@ -26894,6 +27149,44 @@ persons:
     - person: emmanuel-macron
       type: sponsor
       note: Met at Attali Commission; introduced Macron to Rothschild 2008
+  sergei-karaganov:
+    born: 1952
+    nationality: RUS
+    note: Political scientist, founder Valdai Club, chairman CFDP, nuclear doctrine advisor
+    affiliations:
+    - org: cfr
+      role: advisor
+      note: International Advisory Board
+    - org: governo-russia
+      role: advisor
+      from: 1993
+      note: Presidential Council 1993-1999, advisor Yeltsin and Putin
+    - org: trilateral-commission
+      role: member
+      from: 1998
+    - org: valdai-club
+      role: founder
+      from: 2004
+      to: 2013
+      note: Founder and Chairman 2004-2013
+    - org: cfdp
+      role: founder
+      from: 1992
+      note: Co-founder, Honorary Chairman of Presidium
+    relations:
+    - person: vladimir-putin
+      type: advisor
+      note: Nuclear doctrine advisor, Valdai Club interlocutor
+  sergei-lebedev:
+    born: 1948
+    nationality: RUS
+    note: SVR Director 2000-2007. Executive Secretary CIS 2007-2020. Career KGB/SVR officer.
+    affiliations:
+    - org: svr
+      role: executive
+      from: 2000
+      to: 2007
+      note: Director SVR
   sergei-stepashin:
     born: 1952
     nationality: RUS
@@ -26964,6 +27257,55 @@ persons:
   sergey-lavrov:
     born: 1950
     nationality: RUS
+    affiliations:
+    - org: valdai-club
+      role: member
+      note: Regular participant
+  sergey-naryshkin:
+    born: 1954
+    nationality: RUS
+    note: SVR Director 2016-present. State Duma Chairman 2011-16. Kremlin Chief of Staff 2008-12. Studied with Putin at KGB
+      Higher School. Soviet Embassy Brussels 1988-92. EU/US sanctioned.
+    affiliations:
+    - org: governo-russia
+      role: advisor
+      from: 2008
+      to: 2012
+      note: Chief of Staff Presidential Administration
+    - org: governo-russia
+      role: legislator
+      from: 2011
+      to: 2016
+      note: State Duma Chairman
+    - org: svr
+      role: executive
+      from: 2016
+      note: Director SVR
+    relations:
+    - person: vladimir-putin
+      type: colleague
+      note: KGB Higher School classmates. Long-term Putin ally
+  sergey-shoigu:
+    born: 1955
+    nationality: RUS
+    note: Politico e generale russo di etnia tuvana. Ministro Difesa 2012-2024. Segretario Consiglio Sicurezza 2024-. Fondatore
+      EMERCOM (Min. Emergenze 1991-2012). Co-fondatore Russia Unita (con Putin). Amico personale e compagno di vacanza di
+      Putin. Mandato arresto ICC giugno 2024 crimini di guerra. Navalny denuncio villa $18M. Generale dell Esercito (senza
+      aver mai servito in esercito). Non russo etnico (meta tuvano, meta ucraino), rarissimo in vertici potere.
+    affiliations:
+    - org: governo-russia
+      role: minister
+      from: 2012
+      to: 2024
+      note: Ministro della Difesa
+    - org: governo-russia
+      role: advisor
+      from: 2024
+      note: Segretario Consiglio di Sicurezza
+    relations:
+    - person: vladimir-putin
+      type: associate
+      note: Co-fondatori Russia Unita. Amici personali, vacanze insieme in Siberia. Shoigu considerato potenziale successore.
   sergio-ermotti:
     born: 1960
     nationality: CHE
@@ -29697,6 +30039,17 @@ persons:
       role: shareholder
       from: 2018
       note: Largest shareholder (transferred from CPB)
+  valentin-korabelnikov:
+    born: 1946
+    nationality: RUS
+    note: Generale, Direttore GRU 1997-2009. 12 anni in carica. Licenziato da Medvedev dopo fallimento guerra Georgia 2008.
+      Ex Spetsnaz Cecenia.
+    affiliations:
+    - org: gru
+      role: executive
+      from: 1997
+      to: 2009
+      note: Direttore GRU, 12 anni
   valentin-yumashev:
     born: 1957
     nationality: RUS-AUT
@@ -29809,6 +30162,29 @@ persons:
       role: chairman
       from: 2014
       note: President
+  valery-gerasimov:
+    born: 1955
+    nationality: RUS
+    note: Generale dell Esercito. Capo di Stato Maggiore e Primo Vice Ministro della Difesa (2012-). Comandante forze russe
+      in Ucraina (2023-). Ideatore della "Dottrina Gerasimov" sulla guerra ibrida. Uno dei 3 detentori codici nucleari russi.
+      Mandato di arresto ICC giugno 2024 per crimini di guerra (attacchi infrastrutture civili Ucraina). Eroe della Federazione
+      Russa. Servizio in Cecenia (58a Armata 1998-2003). Membro Consiglio di Sicurezza.
+    affiliations:
+    - org: governo-russia
+      role: minister
+      from: 2012
+      note: Capo di Stato Maggiore, Primo Vice Min. Difesa. Membro Consiglio Sicurezza.
+    - org: gru
+      role: executive
+      from: 2012
+      note: GRU riporta al Capo di Stato Maggiore
+    relations:
+    - person: sergey-shoigu
+      type: colleague
+      note: Superiore diretto 2012-2024. Entrambi incriminati ICC.
+    - person: vladimir-putin
+      type: subordinate
+      note: Nominato da Putin 2012. Uno dei 3 detentori codici nucleari.
   valery-giscard-destaing:
     born: 1926
     died: 2020
@@ -30350,6 +30726,10 @@ persons:
       from: 1998
       to: 1999
       note: Director FSB before becoming PM
+    - org: valdai-club
+      role: member
+      from: 2004
+      note: Informal patron, annual plenary speaker
     relations:
     - person: boris-yeltsin
       type: mentor
@@ -30416,6 +30796,17 @@ persons:
       role: president
     - org: un
       role: president
+  vyacheslav-trubnikov:
+    born: 1944
+    nationality: RUS
+    note: SVR Director 1996-2000. First Deputy Foreign Minister 2000-2004. Ambassador to India 2004-2009. KGB First Directorate
+      career, South Asia specialist.
+    affiliations:
+    - org: svr
+      role: executive
+      from: 1996
+      to: 2000
+      note: Director SVR
   wael-sawan:
     born: 1974
     nationality: LBN
@@ -31327,6 +31718,12 @@ persons:
     died: 2015
     nationality: RUS
     note: PM 1998-99, Foreign Minister 1996-98, Gusinsky ally vs Putin
+    affiliations:
+    - org: svr
+      role: executive
+      from: 1991
+      to: 1996
+      note: First Director SVR
   yifan-li:
     nationality: CHN
     note: CEO Hesai Tech
