@@ -1379,6 +1379,26 @@ persons:
     - org: saudi-aramco
       role: board
       from: 2010
+  amine-gemayel:
+    born: 1942
+    nationality: LBN
+    note: Presidente Libano 1982-88, leader Kataeb 2007-2015, avvocato
+    affiliations:
+    - org: governo-lebanon
+      role: leader
+      from: 1982
+      to: 1988
+      note: Presidente
+    - org: kataeb
+      role: leader
+      from: 2007
+      to: 2015
+      note: Presidente partito
+    relations:
+    - person: pierre-gemayel-jr
+      type: father
+    - person: samy-gemayel
+      type: father
   amir-peretz:
     born: 1952
     nationality: ISR
@@ -3043,6 +3063,34 @@ persons:
       role: executive
       from: 2024
       note: CEO
+  bashar-assad:
+    born: 1965
+    nationality: SYR
+    note: Presidente Siria 2000-2024, caduto dicembre 2024
+  bashir-gemayel:
+    born: 1947
+    died: 1982
+    nationality: LBN
+    note: Comandante Lebanese Forces, presidente eletto 1982, assassinato 14 settembre 1982
+    affiliations:
+    - org: governo-lebanon
+      role: leader
+      from: 1982
+      to: 1982
+      note: Presidente eletto, mai insediato
+    - org: kataeb
+      role: executive
+      from: 1976
+      to: 1982
+      note: Comandante milizia
+    - org: lebanese-forces
+      role: leader
+      from: 1976
+      to: 1982
+      note: Comandante Lebanese Forces
+    relations:
+    - person: nadim-gemayel
+      type: father
   baudouin-belgium:
     born: 1930
     died: 1993
@@ -11644,6 +11692,14 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  hafez-assad:
+    born: 1930
+    died: 2000
+    nationality: SYR
+    note: Presidente Siria 1971-2000
+    relations:
+    - person: bashar-assad
+      type: father
   haim-saban:
     born: 1944
     nationality: ISR-USA
@@ -16202,13 +16258,21 @@ persons:
       to: 2007
   joseph-aoun:
     born: 1964
-    nationality: Lebanese
-    note: Presidente Lebanon dal 2025. Ex comandante esercito 2017-25
+    nationality: LBN
+    note: Presidente Libano 2025-, comandante esercito 2017-25, operazione anti-ISIS Fajr al-Joroud 2017
     affiliations:
     - org: governo-lebanon
       role: leader
       from: 2025
       note: Presidente
+    - org: governo-lebanon
+      role: military
+      from: 2017
+      to: 2025
+      note: Comandante LAF (Lebanese Armed Forces)
+    - org: lau
+      role: alumni
+      note: BA Political Science
   joseph-bae:
     nationality: USA
     affiliations:
@@ -22442,6 +22506,19 @@ persons:
       note: WEF Annual Meeting 2016
     - org: saudi-aramco
       role: executive
+  nabih-berri:
+    born: 1938
+    nationality: LBN
+    note: Speaker Parlamento dal 1992, leader Amal Movement
+    affiliations:
+    - org: governo-lebanon
+      role: legislator
+      from: 1992
+      note: Speaker Parlamento
+    - org: amal-movement
+      role: leader
+      from: 1980
+      note: Presidente Amal
   nadhmi-al-nasr:
     nationality: SAU
     note: CEO NEOM 2017-2024. Veterano Aramco.
@@ -22504,6 +22581,17 @@ persons:
       from: 2010
       to: 2019
       note: Gojek founder, left to become Minister
+  nadim-gemayel:
+    born: 1982
+    nationality: LBN
+    note: Deputato, figlio di Bashir Gemayel, avvocato
+    affiliations:
+    - org: governo-lebanon
+      role: legislator
+      note: Deputato
+    - org: kataeb
+      role: member
+      note: Deputato
   nahum-goldmann:
     born: 1895
     died: 1982
@@ -22580,6 +22668,7 @@ persons:
     - org: governo-lebanon
       role: leader
       from: 2021
+      to: 2025
       note: PM
     - org: m1-group
       role: founder
@@ -22848,6 +22937,15 @@ persons:
     affiliations:
     - org: jindal-steel-power
       role: chairman
+  nawaf-salam:
+    born: 1953
+    nationality: LBN
+    note: PM Libano 2025-, ex giudice ICJ 2018-24, ambasciatore ONU 2007-17
+    affiliations:
+    - org: governo-lebanon
+      role: leader
+      from: 2025
+      note: PM
   nayla-hayek:
     born: 1951
     nationality: CHE
@@ -25526,6 +25624,47 @@ persons:
       role: board
       from: 2023
       note: Executive Board - Payments
+  pierre-gemayel-jr:
+    born: 1972
+    died: 2006
+    nationality: LBN
+    note: Ministro Industria 2005-06, March 14, assassinato 21 novembre 2006
+    affiliations:
+    - org: governo-lebanon
+      role: minister
+      from: 2005
+      to: 2006
+      note: Ministro Industria
+    - org: kataeb
+      role: member
+      from: 2000
+      to: 2006
+  pierre-gemayel-sr:
+    born: 1905
+    died: 1984
+    nationality: LBN
+    note: Fondatore Kataeb 1936, farmacista, capitano nazionale calcio Libano
+    affiliations:
+    - org: governo-lebanon
+      role: minister
+      from: 1960
+      to: 1970
+      note: Min. Finanze 1960-61, 1968; Min. LL.PP. 1970
+    - org: governo-lebanon
+      role: legislator
+      from: 1960
+      to: 1984
+      note: Deputato Beirut
+    - org: kataeb
+      role: founder
+      from: 1936
+      to: 1984
+      note: Fondatore e leader 1936-1980
+    relations:
+    - person: amine-gemayel
+      type: father
+    - person: bashir-gemayel
+      type: father
   pierre-gramegna:
     born: 1958
     nationality: LUX
@@ -28300,6 +28439,18 @@ persons:
     died: 1948
     nationality: USA
     family: bush
+  samy-gemayel:
+    born: 1980
+    nationality: LBN
+    note: Leader Kataeb 2015-, deputato, de facto leader opposizione libanese
+    affiliations:
+    - org: governo-lebanon
+      role: legislator
+      note: Deputato
+    - org: kataeb
+      role: leader
+      from: 2015
+      note: Presidente partito
   sandra-maischberger:
     born: 1966
     nationality: DEU
@@ -30138,6 +30289,57 @@ persons:
       from: 1945
       to: 1967
       note: Presidente fondatore
+  suleiman-frangieh-jr:
+    born: 1965
+    nationality: LBN
+    note: Leader Marada, candidato presidenziale Hezbollah 2022-25, ritirato gen 2025
+    affiliations:
+    - org: governo-lebanon
+      role: minister
+      from: 2004
+      to: 2005
+      note: Ministro Interni
+    - org: governo-lebanon
+      role: legislator
+      from: 1991
+      to: 2018
+      note: Deputato Zgharta
+    - org: marada
+      role: leader
+      from: 1992
+      note: Presidente partito
+    relations:
+    - person: bashar-assad
+      type: ally
+      note: Amicizia da infanzia con Bassel Assad, poi Bashar
+    - person: tony-frangieh-jr
+      type: father
+  suleiman-frangieh-sr:
+    born: 1910
+    died: 1992
+    nationality: LBN
+    note: Presidente Libano 1970-76, fondatore Marada, amico Hafez Assad
+    affiliations:
+    - org: governo-lebanon
+      role: leader
+      from: 1970
+      to: 1976
+      note: Presidente
+    - org: governo-lebanon
+      role: minister
+      from: 1960
+      to: 1970
+      note: Min. PTT, Agricoltura, Interni, Giustizia, Economia
+    - org: marada
+      role: founder
+      from: 1975
+      to: 1992
+    relations:
+    - person: hafez-assad
+      type: ally
+      note: Amicizia dal 1957 esilio Siria
+    - person: tony-frangieh-sr
+      type: father
   sultan-olayan:
     nationality: SAU
     note: Director Olayan Group
@@ -31398,6 +31600,32 @@ persons:
       role: founder
       from: 2001
       note: Co-founder with Kamarudin Meranun. CEO Capital A
+  tony-frangieh-jr:
+    born: 1987
+    nationality: LBN
+    note: Deputato Marada, figlio di Suleiman Jr
+    affiliations:
+    - org: governo-lebanon
+      role: legislator
+      from: 2018
+      note: Deputato Zgharta
+    - org: marada
+      role: member
+      from: 2018
+  tony-frangieh-sr:
+    born: 1941
+    died: 1978
+    nationality: LBN
+    note: Comandante Marada, assassinato massacro Ehden 13 giugno 1978
+    affiliations:
+    - org: marada
+      role: leader
+      from: 1975
+      to: 1978
+      note: Comandante milizia
+    relations:
+    - person: suleiman-frangieh-jr
+      type: father
   tony-hayward:
     born: 1957
     nationality: GBR

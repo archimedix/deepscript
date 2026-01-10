@@ -35,6 +35,20 @@ events:
     type: fondazione
     location: USA
     outcome: trilaterale
+  1978-ehden-massacre:
+    year: 1978
+    month: 6
+    type: massacre
+    location: Ehden, Lebanon
+    outcome: Tony Frangieh, moglie, figlia uccisi. Rottura Frangieh-Gemayel
+    note: 'Esecutori: Kataeb (Geagea, Hobeika). Mandante: Bashir Gemayel'
+  1982-bashir-gemayel-assassination:
+    year: 1982
+    month: 9
+    type: assassination
+    location: Beirut, Achrafieh
+    outcome: Bashir assassinato, Sabra e Shatila, Amine presidente
+    note: Bomba SSNP, Habib Shartouni
   1991-dissoluzione-urss:
     year: 1991
     type: evento-storico
@@ -86,6 +100,13 @@ events:
     location: Beirut, Lebanon
     outcome: Rivoluzione dei Cedri, ritiro truppe siriane
     note: 23 morti. Hezbollah condannato da tribunale ONU
+  2006-pierre-gemayel-assassination:
+    year: 2006
+    month: 11
+    type: assassination
+    location: Jdeideh, Beirut
+    outcome: Escalation March 14 vs pro-Syria
+    note: 5o politico anti-siriano assassinato in 2 anni
   2008-crisi-finanziaria:
     year: 2008
     type: crisi

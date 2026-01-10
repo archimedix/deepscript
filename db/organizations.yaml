@@ -1609,6 +1609,18 @@ organizations:
       share: 5.5
     - org: vanguard
       share: 3.5
+  amal-movement:
+    name: Amal Movement
+    type: party
+    founded: 1974
+    headquarters: Beirut
+    status: active
+    note: Fondato da Musa al-Sadr, leader Nabih Berri dal 1980
+    stakeholders:
+    - person: nabih-berri
+      role: leader
+      from: 1980
+      note: Presidente Amal
   amazon:
     name: Amazon
     type: company
@@ -17889,6 +17901,7 @@ organizations:
     - person: najib-mikati
       role: leader
       from: 2021
+      to: 2025
       note: PM
     - person: walid-jumblatt
       role: minister
@@ -17897,6 +17910,74 @@ organizations:
       role: leader
       from: 2025
       note: Presidente
+    - person: joseph-aoun
+      role: military
+      from: 2017
+      to: 2025
+      note: Comandante LAF (Lebanese Armed Forces)
+    - person: pierre-gemayel-sr
+      role: minister
+      from: 1960
+      to: 1970
+      note: Min. Finanze 1960-61, 1968; Min. LL.PP. 1970
+    - person: pierre-gemayel-sr
+      role: legislator
+      from: 1960
+      to: 1984
+      note: Deputato Beirut
+    - person: bashir-gemayel
+      role: leader
+      from: 1982
+      to: 1982
+      note: Presidente eletto, mai insediato
+    - person: amine-gemayel
+      role: leader
+      from: 1982
+      to: 1988
+      note: Presidente
+    - person: pierre-gemayel-jr
+      role: minister
+      from: 2005
+      to: 2006
+      note: Ministro Industria
+    - person: samy-gemayel
+      role: legislator
+      note: Deputato
+    - person: nadim-gemayel
+      role: legislator
+      note: Deputato
+    - person: suleiman-frangieh-sr
+      role: leader
+      from: 1970
+      to: 1976
+      note: Presidente
+    - person: suleiman-frangieh-sr
+      role: minister
+      from: 1960
+      to: 1970
+      note: Min. PTT, Agricoltura, Interni, Giustizia, Economia
+    - person: suleiman-frangieh-jr
+      role: minister
+      from: 2004
+      to: 2005
+      note: Ministro Interni
+    - person: suleiman-frangieh-jr
+      role: legislator
+      from: 1991
+      to: 2018
+      note: Deputato Zgharta
+    - person: tony-frangieh-jr
+      role: legislator
+      from: 2018
+      note: Deputato Zgharta
+    - person: nawaf-salam
+      role: leader
+      from: 2025
+      note: PM
+    - person: nabih-berri
+      role: legislator
+      from: 1992
+      note: Speaker Parlamento
   governo-lituania:
     name: Governo Lituania
     type: government
@@ -24251,6 +24332,33 @@ organizations:
     headquarters: Beirut
     status: active
     note: Phalange, dinastia Gemayel
+    stakeholders:
+    - person: pierre-gemayel-sr
+      role: founder
+      from: 1936
+      to: 1984
+      note: Fondatore e leader 1936-1980
+    - person: bashir-gemayel
+      role: executive
+      from: 1976
+      to: 1982
+      note: Comandante milizia
+    - person: amine-gemayel
+      role: leader
+      from: 2007
+      to: 2015
+      note: Presidente partito
+    - person: pierre-gemayel-jr
+      role: member
+      from: 2000
+      to: 2006
+    - person: samy-gemayel
+      role: leader
+      from: 2015
+      note: Presidente partito
+    - person: nadim-gemayel
+      role: member
+      note: Deputato
   kbc:
     name: KBC Group NV
     type: bank
@@ -25050,6 +25158,16 @@ organizations:
       role: founder
       from: 2015
       note: Founder and Managing Partner
+  lau:
+    name: Lebanese American University
+    type: university
+    founded: 1924
+    headquarters: Beirut, Lebanon
+    status: active
+    stakeholders:
+    - person: joseph-aoun
+      role: alumni
+      note: BA Political Science
   laureus-foundation:
     name: Laureus Sport for Good Foundation
     type: foundation
@@ -25200,6 +25318,12 @@ organizations:
     headquarters: Beirut
     status: active
     note: Ex-milizia guerra civile, ora partito
+    stakeholders:
+    - person: bashir-gemayel
+      role: leader
+      from: 1976
+      to: 1982
+      note: Comandante Lebanese Forces
   leeum-museum:
     name: Leeum, Samsung Museum of Art
     type: foundation
@@ -26285,6 +26409,30 @@ organizations:
     stakeholders:
     - person: ashish-j-thakkar
       role: founder
+  marada:
+    name: Marada Movement
+    type: party
+    founded: 1975
+    headquarters: Zgharta
+    status: active
+    note: Ex milizia Frangieh, ora partito
+    stakeholders:
+    - person: suleiman-frangieh-sr
+      role: founder
+      from: 1975
+      to: 1992
+    - person: tony-frangieh-sr
+      role: leader
+      from: 1975
+      to: 1978
+      note: Comandante milizia
+    - person: suleiman-frangieh-jr
+      role: leader
+      from: 1992
+      note: Presidente partito
+    - person: tony-frangieh-jr
+      role: member
+      from: 2018
   mark-pollock-trust:
     name: Mark Pollock Trust
     type: foundation

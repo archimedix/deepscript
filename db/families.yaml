@@ -650,12 +650,44 @@ families:
     sector: politics
     status: active
     note: Dinastia maronita del Nord, pro-Syria/Hezbollah
+    members:
+    - person: suleiman-frangieh-sr
+      generation: 1
+      role: founder
+    - person: tony-frangieh-sr
+      generation: 2
+      role: member
+    - person: suleiman-frangieh-jr
+      generation: 3
+      role: member
+    - person: tony-frangieh-jr
+      generation: 4
+      role: member
   gemayel-family:
     origin: Bikfaya, Lebanon
     founder: Pierre Gemayel
     sector: politics
     status: active
     note: 3 presidenti, fondatori Kataeb/Phalange
+    members:
+    - person: pierre-gemayel-sr
+      generation: 1
+      role: founder
+    - person: bashir-gemayel
+      generation: 2
+      role: member
+    - person: amine-gemayel
+      generation: 2
+      role: member
+    - person: pierre-gemayel-jr
+      generation: 3
+      role: member
+    - person: samy-gemayel
+      generation: 3
+      role: member
+    - person: nadim-gemayel
+      generation: 3
+      role: member
   habsburg:
     origin: Austria/Switzerland
     founder: Radbot von Klettgau
