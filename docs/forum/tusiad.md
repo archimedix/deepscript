@@ -169,7 +169,9 @@ Le grandi famiglie industriali turche hanno dominato la leadership TUSIAD:
 |---------|--------------|
 | [Omer Koc](../persons/omer-koc.md) | Member (Koc Holding) |
 | [Guler Sabanci](../persons/guler-sabanci.md) | Member (Sabanci Holding) |
-| [Mustafa Koc](../persons/mustafa-koc.md) | Chairman 2001-2004 |
+| [Mustafa Koc](../persons/mustafa-koc.md) | Chairman 2001-2004, High Advisory Council Chair 2007-2014 |
+| [Rahmi Koc](../persons/rahmi-koc.md) | High Advisory Council Chair 1997-2006 |
+| [Ali Koc](../persons/ali-koc.md) | Member (Koc Holding) |
 | [Hanzade Dogan Boyner](../persons/hanzade-dogan-boyner.md) | Member (Dogan Holding) |
 | [Ferit Sahenk](../persons/ferit-sahenk.md) | Member (Dogus Holding) |
 
@@ -186,8 +188,8 @@ Le grandi famiglie industriali turche hanno dominato la leadership TUSIAD:
 
 | Famiglia | Connessione |
 |----------|-------------|
-| [Koc Family](../family/koc-family.md) | Dominante in High Advisory Council |
-| [Sabanci Family](../family/sabanci-family.md) | Multiple chairmanship |
+| [Koc](../family/koc.md) | Dominante in High Advisory Council (Vehbi, Rahmi, Mustafa) |
+| [Sabanci](../family/sabanci.md) | Multiple chairmanship (Sakip, Omer, Haluk) |
 
 ---
 
@@ -230,4 +232,4 @@ Storicamente TUSIAD ha avuto rapporti tesi con l'AKP su temi come:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

@@ -8,6 +8,13 @@ persons:
       from: 2012
       to: 2019
       note: Chairman & CEO
+  abbas-araghchi:
+    born: 1963
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: foreign-minister
+      from: 2024
   abdulaziz-bin-salman:
     born: 1960
     nationality: SAU
@@ -225,6 +232,13 @@ persons:
       from: 2006
       to: 2009
       note: Finance Minister
+  ahmad-jannati:
+    born: 1927
+    nationality: IRN
+    affiliations:
+    - org: guardian-council
+      role: secretary
+      from: 1992
   aiman-al-mudaifer:
     nationality: SAU
     note: CEO NEOM dal 2025. Ex capo Local Real Estate Investment Division di PIF dal 2018.
@@ -1107,6 +1121,40 @@ persons:
       role: chairman
     - org: acumen
       role: board
+  ali-khamenei:
+    born: 1939
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: supreme-leader
+      from: 1989
+    - org: irgc
+      role: commander-in-chief
+      from: 1989
+    - org: guardian-council
+      role: supervisor
+      from: 1989
+    - org: assembly-of-experts
+      role: member
+      from: 1983
+    relations:
+    - person: mojtaba-khamenei
+      type: father
+  ali-koc:
+    born: 1967
+    nationality: TUR
+    family: koc
+    affiliations:
+    - org: koc-holding
+      role: board
+      note: Vice Chairman
+    - org: tusiad
+      role: member
+      note: Koc Holding representative
+    - org: fenerbahce
+      role: chairman
+      from: 2018
+      note: 37th president
   ali-mukhtar:
     nationality: PAK
     note: Director Strategy Fatima Fertilizer
@@ -2948,6 +2996,20 @@ persons:
     - org: institute-international-finance
       role: chairman
       note: Chairman
+  ayhan-sahenk:
+    born: 1929
+    died: 2001
+    nationality: TUR
+    family: sahenk
+    note: Fondatore Dogus Group 1951
+    affiliations:
+    - org: dogus-holding
+      role: founder
+      from: 1951
+      to: 2001
+    relations:
+    - person: ferit-sahenk
+      type: parent
   ayman-hariri:
     born: 1978
     nationality: LBN-FRA
@@ -4673,6 +4735,14 @@ persons:
       from: 2000
       to: 2016
       note: Chairman
+  cevdet-yilmaz:
+    nationality: TUR
+    note: Vice Presidente 2023-
+    affiliations:
+    - org: governo-turchia
+      role: executive
+      from: 2023
+      note: Vice Presidente
   chaim-weizmann:
     born: 1874
     died: 1952
@@ -7521,6 +7591,16 @@ persons:
       role: leader
       from: 2022
       note: President, prima donna tribale e seconda donna in carica
+  durmus-yilmaz:
+    born: 1947
+    nationality: TUR
+    note: TCMB Governor 2006-2011, CB Governor of Year 2009, IYI Party
+    affiliations:
+    - org: tcmb
+      role: executive
+      from: 2006
+      to: 2011
+      note: Governor, CB Governor of Year 2009
   dustin-moskovitz:
     born: 1984
     nationality: USA
@@ -7539,6 +7619,15 @@ persons:
       note: WEF Annual Meeting 2016
     - org: ideaspace-foundation
       role: founder
+  ebrahim-raisi:
+    born: 1960
+    died: 2024
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: president
+      from: 2021
+      to: 2024
   ed-stack:
     born: 1954
     nationality: USA
@@ -8767,6 +8856,13 @@ persons:
       from: 1961
       to: 1963
       note: President
+  esmail-qaani:
+    born: 1957
+    nationality: IRN
+    affiliations:
+    - org: quds-force
+      role: commander
+      from: 2020
   espen-barth-eide:
     born: 1964
     nationality: NOR
@@ -9100,6 +9196,20 @@ persons:
       role: executive
       from: 1992
       note: Chairman & CEO since 2012, joined 1992
+  fatih-karahan:
+    born: 1982
+    nationality: TUR
+    note: TCMB Governor 2024-, PhD UPenn, ex-Fed NY, ex-Amazon
+    affiliations:
+    - org: federal-reserve-ny
+      role: executive
+      from: 2012
+      to: 2022
+      note: Economist, Labor & Product Markets advisor
+    - org: tcmb
+      role: executive
+      from: 2024
+      note: Governor
   federica-mogherini:
     born: 1973
     nationality: ITA
@@ -9256,13 +9366,29 @@ persons:
       from: 2008
       to: 2013
       note: Rappresentante Permanente Italia presso UE
+  fereydoun-abbasi:
+    born: 1958
+    died: 2025
+    nationality: IRN
+    affiliations:
+    - org: aeoi
+      role: chairman
+      from: 2011
+      to: 2013
   ferit-sahenk:
-    born: 1965
+    born: 1964
     nationality: TUR
+    family: sahenk
+    note: Chairman Dogus Holding 2001-, figlio fondatore Ayhan Sahenk, vendita Garanti a BBVA ~$8B, Galataport
     affiliations:
     - org: wef
       role: member
       note: Speaker Davos
+    - org: garanti-bbva
+      role: chairman
+      from: 2001
+      to: 2017
+      note: CEO fino 2017, famiglia vendette a BBVA ~$8B
     - org: tusiad
       role: member
       note: Dogus Holding representative
@@ -11632,6 +11758,30 @@ persons:
       role: founder
       from: 1880
       to: 1912
+  guven-sak:
+    born: 1961
+    nationality: TUR
+    note: Founding MD TEPAV 2004, Rector TOBB ETU, T20 Migration Task Force co-chair
+    affiliations:
+    - org: tepav
+      role: founder
+      from: 2004
+      note: Founding Managing Director
+    - org: tcmb
+      role: board
+      from: 2001
+      to: 2006
+      note: Founding external member, Monetary Policy Committee
+    - org: tobb-etu
+      role: executive
+      from: 2006
+      note: Rector, Professor of Public Economics
+    - org: g20
+      role: advisor
+      note: T20 Migration Task Force co-chair (Germany, Japan, Argentina, Saudi Arabia presidencies)
+    - org: erf
+      role: member
+      note: Senior Associate
   guy-verhofstadt:
     born: 1953
     nationality: BEL
@@ -11700,6 +11850,15 @@ persons:
     relations:
     - person: bashar-assad
       type: father
+  hafize-gaye-erkan:
+    nationality: TUR
+    note: TCMB Governor 2023-2024, first female, ex-First Republic Bank
+    affiliations:
+    - org: tcmb
+      role: executive
+      from: 2023
+      to: 2024
+      note: Governor, first female
   haim-saban:
     born: 1944
     nationality: ISR-USA
@@ -11708,6 +11867,65 @@ persons:
       role: donor
       from: 2002
       note: major donor $2M+
+  hakan-fidan:
+    born: 1968
+    nationality: TUR
+    note: Min Esteri 2023-, Direttore MIT 2010-2023
+    affiliations:
+    - org: governo-turchia
+      role: minister
+      from: 2023
+      note: Min Esteri
+  haluk-bayraktar:
+    born: 1978
+    nationality: TUR
+    affiliations:
+    - org: columbia-university
+      role: member
+      from: 2000
+      to: 2002
+      note: MS Industrial Engineering
+    - org: baykar
+      role: executive
+      from: 2007
+      note: CEO, President
+    relations:
+    - person: selcuk-bayraktar
+      type: sibling
+  haluk-gorgun:
+    born: 1973
+    nationality: TUR
+    affiliations:
+    - org: aselsan
+      role: chairman
+      from: 2018
+      to: 2023
+      note: Chairman Board of Directors, CEO 2017-2023
+    - org: tobb
+      role: chairman
+      note: President, Defence Industry Council
+    - org: ssb
+      role: executive
+      from: 2023
+      note: President (Secretary of Defense Industries)
+    - org: tskgv
+      role: board
+      from: 2023
+      note: Member Board of Trustees, Chairman Board of Directors
+    - org: yildiz-technical-university
+      role: member
+      from: 2005
+      to: 2014
+      note: Professor, Founding Chair Control & Automation Dept 2009-2013
+    - org: gebze-technical-university
+      role: executive
+      from: 2014
+      to: 2018
+      note: Rector
+    - org: tuba
+      role: member
+      from: 2012
+      note: Associate Member
   hamad-al-marar:
     nationality: ARE
     note: CEO EDGE Group dal 2024
@@ -11976,6 +12194,15 @@ persons:
     - org: wef
       role: ygl
       from: 2025
+  hashemi-rafsanjani:
+    born: 1934
+    died: 2017
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: president
+      from: 1989
+      to: 1997
   hassan-al-thawadi:
     nationality: QAT
     affiliations:
@@ -11999,6 +12226,9 @@ persons:
       from: 1965
       to: 1999
       note: Crown Prince
+  hassan-khomeini:
+    born: 1972
+    nationality: IRN
   hassan-nasrallah:
     born: 1960
     died: 2024
@@ -12738,6 +12968,15 @@ persons:
       role: chairman
       from: 2002
       note: Fondatore, 5% azionista
+  hossein-salami:
+    born: 1960
+    died: 2025
+    nationality: IRN
+    affiliations:
+    - org: irgc
+      role: commander
+      from: 2019
+      to: 2025
   howard-kohr:
     born: 1955
     nationality: USA
@@ -13083,6 +13322,25 @@ persons:
     - person: vladimir-putin
       type: subordinate
       note: Nominato da Putin, ricevette condoglianze personali
+  ihsan-kaya:
+    born: 1979
+    nationality: TUR
+    affiliations:
+    - org: stm
+      role: chairman
+      note: Chairman of the Board
+    - org: ssb
+      role: executive
+      from: 2023
+      note: Deputy President
+    - org: yildiz-technical-university
+      role: executive
+      from: 2018
+      note: Professor Industrial Engineering, Dean of Faculty 2021-
+    - org: tuba
+      role: member
+      from: 2019
+      note: GEBIP Outstanding Young Scientist Award 2019
   ilham-kadri:
     nationality: FRA
     affiliations:
@@ -13121,6 +13379,13 @@ persons:
       from: 2015
       to: 2024
       note: Co-founder, Chief Scientist until 2024
+  inan-kirac:
+    born: 1937
+    nationality: TUR
+    affiliations:
+    - org: suna-inan-kirac-foundation
+      role: founder
+      from: 2003
   indira-gandhi:
     born: 1917
     died: 1984
@@ -13205,6 +13470,10 @@ persons:
       from: 2000
       to: 2004
       note: Presidente della Romania (2° mandato)
+  ipek-kirac:
+    born: 1984
+    nationality: TUR
+    family: koc
   irina-vedeneeva:
     born: 1962
     nationality: RUS
@@ -13263,6 +13532,14 @@ persons:
     affiliations:
     - org: reliance-jio
       role: board
+  ismail-demir:
+    nationality: TUR
+    affiliations:
+    - org: ssb
+      role: executive
+      from: 2014
+      to: 2023
+      note: Undersecretary 2014-2018, President 2018-2023
   israel-englander:
     born: 1948
     nationality: USA
@@ -16970,6 +17247,13 @@ persons:
     - org: mitsubishi-heavy-industries
       role: board
       note: Board Member
+  kazim-taskent:
+    nationality: TUR
+    note: Founder Yapi Kredi 1944
+    affiliations:
+    - org: yapi-kredi
+      role: founder
+      from: 1944
   kazuo-ueda:
     born: 1951
     nationality: JPN
@@ -17091,6 +17375,11 @@ persons:
       from: 2005
       to: 2009
       note: Administrator
+    - org: tcmb
+      role: advisor
+      from: 2001
+      to: 2002
+      note: Architect of 2001 reform, granted CB independence
   ken-lin:
     nationality: THA
     affiliations:
@@ -19453,6 +19742,14 @@ persons:
     - org: m1-group
       role: executive
       note: Deputy CEO, CEO M1 Fashion
+  mahmoud-ahmadinejad:
+    born: 1956
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: president
+      from: 2005
+      to: 2013
   maia-sandu:
     born: 1972
     nationality: MDA
@@ -21020,6 +21317,13 @@ persons:
       role: founder
       from: 2017
       note: Created with PIF Saudi
+  masoud-pezeshkian:
+    born: 1954
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: president
+      from: 2024
   massimo-battaini:
     born: 1961
     nationality: ITA
@@ -21339,6 +21643,15 @@ persons:
       role: executive
       from: 2026
       note: CEO (dal aprile 2026)
+  mehmet-simsek:
+    born: 1967
+    nationality: TUR
+    note: Min Tesoro e Finanze 2023-, ex Merrill Lynch, Min Finanze 2009-2018
+    affiliations:
+    - org: governo-turchia
+      role: minister
+      from: 2023
+      note: Min Tesoro e Finanze
   mehmet-zahid-sobaci:
     nationality: TUR
     note: TRT Director General 2021-. Academic public admin. Ex-Vice Dir Communications Presidency
@@ -22150,6 +22463,22 @@ persons:
     - org: emaar-properties
       role: founder
       from: 1997
+  mohammad-javad-zarif:
+    born: 1960
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: foreign-minister
+      from: 2013
+      to: 2021
+  mohammad-khatami:
+    born: 1943
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: president
+      from: 1997
+      to: 2005
   mohammed-al-jadaan:
     nationality: SAU
     note: Ministro Finanze dal 2016
@@ -22223,6 +22552,24 @@ persons:
       role: founder
       from: 2019
       note: Annuncio pubblico creazione EDGE
+  mohsen-fakhrizadeh:
+    born: 1958
+    died: 2020
+    nationality: IRN
+    affiliations:
+    - org: aeoi
+      role: scientist
+      from: 1990
+      to: 2020
+      note: head of nuclear weapons program AMAD
+  mojtaba-khamenei:
+    born: 1969
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: advisor
+      from: 2000
+      note: gatekeeper to Supreme Leader, probable successor
   mona-sahlin:
     born: 1957
     nationality: SWE
@@ -22435,6 +22782,7 @@ persons:
     born: 1960
     died: 2016
     nationality: TUR
+    family: koc
     affiliations:
     - org: bilderberg
       role: steering
@@ -22448,6 +22796,7 @@ persons:
       role: chairman
       from: 2001
       to: 2004
+      note: Chairman 2001-2004, High Advisory Council Chair 2007-2014
   mykhailo-fedorov:
     born: 1991
     nationality: UKR
@@ -23320,6 +23669,20 @@ persons:
       from: 1983
       to: 1989
       note: Chancellor of the Exchequer
+  nihat-ali-ozcan:
+    born: 1958
+    nationality: TUR
+    affiliations:
+    - org: tepav
+      role: advisor
+      from: 2005
+      note: Consultant Area Studies Program
+    - org: tobb-etu
+      role: member
+      note: Associate Professor
+    - org: jamestown-foundation
+      role: member
+      note: Analyst, Terrorism Monitor contributor
   nikolai-patrushev:
     born: 1951
     nationality: RUS
@@ -23822,7 +24185,7 @@ persons:
   omer-koc:
     born: 1962
     nationality: TUR
-    family: koc-family
+    family: koc
     note: Chairman Koc Holding 2016-, Bilderberg Steering Committee, 3a generazione famiglia Koc
     affiliations:
     - org: bilderberg
@@ -23961,6 +24324,39 @@ persons:
     relations:
     - person: leif-hoegh
       type: son
+  ozdemir-bayraktar:
+    born: 1949
+    died: 2021
+    nationality: TUR
+    affiliations:
+    - org: baykar
+      role: founder
+      from: 1984
+      to: 2021
+      note: Chairman of the Board
+    relations:
+    - person: haluk-bayraktar
+      type: parent
+    - person: selcuk-bayraktar
+      type: parent
+  ozgur-guleryuz:
+    born: 1974
+    nationality: TUR
+    affiliations:
+    - org: aselsan
+      role: member
+      from: 2003
+      to: 2007
+      note: Communication, information security, cyber security, crypto projects
+    - org: stm
+      role: executive
+      from: 2007
+      note: Specialist Engineer 2007, Deputy GM 2019, General Manager 2020-
+    - org: bilkent-university
+      role: member
+      from: 1992
+      to: 1998
+      note: BSc EE 1996, MSc 1998, Research Assistant
   ozlem-tureci:
     born: 1967
     nationality: DEU
@@ -26047,6 +26443,15 @@ persons:
       from: 1991
       to: 1996
       note: President
+  qasem-soleimani:
+    born: 1957
+    died: 2020
+    nationality: IRN
+    affiliations:
+    - org: quds-force
+      role: commander
+      from: 1998
+      to: 2020
   queen-beatrix:
     born: 1938
     nationality: NLD
@@ -26284,8 +26689,19 @@ persons:
   rahmi-koc:
     born: 1930
     nationality: TUR
-    family: koc-family
+    family: koc
     note: Chairman Koc Holding 1984-2003, Honorary Chairman
+    affiliations:
+    - org: koc-holding
+      role: chairman
+      from: 1984
+      to: 2003
+      note: Honorary Chairman from 2003
+    - org: tusiad
+      role: chairman
+      from: 1997
+      to: 2006
+      note: High Advisory Council Chair
   rahul-gandhi:
     born: 1970
     nationality: IND
@@ -26635,12 +27051,21 @@ persons:
     note: President Turkey since 2014. PM 2003-2014
     affiliations:
     - org: governo-turchia
-      role: president
+      role: leader
       from: 2014
+      note: Presidente 2014-, PM 2003-2014
     - org: turkiye-wealth-fund
       role: chairman
       from: 2018
       note: Chairman of Board of Directors
+    - org: ssb
+      role: chairman
+      from: 2017
+      note: Chairs SSIK (Defence Industry Executive Committee)
+    - org: tskgv
+      role: chairman
+      from: 2017
+      note: Board Chairman by decree 696
   reid-hoffman:
     born: 1967
     nationality: USA
@@ -27131,6 +27556,14 @@ persons:
       role: executive
       from: 2021
       note: CEO
+  rifat-hisarciklioglu:
+    nationality: TUR
+    note: President TOBB 2001-, WCF President 2023-, Eskihisar Group Chairman
+    affiliations:
+    - org: tobb
+      role: chairman
+      from: 2001
+      note: President since 2001, re-elected 7 times
   rigoberta-menchu:
     nationality: GTM
     affiliations:
@@ -28071,6 +28504,18 @@ persons:
     - org: center-american-progress
       role: member
       note: Senior Fellow
+  ruhollah-khomeini:
+    born: 1902
+    died: 1989
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: supreme-leader
+      from: 1979
+      to: 1989
+    relations:
+    - person: hassan-khomeini
+      type: grandfather
   rula-jebreal:
     born: 1973
     nationality: ITA
@@ -28814,6 +29259,31 @@ persons:
       from: 1969
       to: 1979
       note: President 1969-1973, 1975-1979. Won 9 trophies including 3 League Championships
+  selcuk-bayraktar:
+    born: 1979
+    nationality: TUR
+    affiliations:
+    - org: mit
+      role: member
+      from: 2004
+      to: 2007
+      note: MS Engineering, PhD studies (incomplete)
+    - org: baykar
+      role: executive
+      from: 2007
+      note: CTO, Chairman of the Board, lead designer TB2
+    - org: upenn
+      role: member
+      from: 2002
+      to: 2004
+      note: MS Engineering
+    relations:
+    - person: recep-tayyip-erdogan
+      type: son-in-law
+      note: Married to Sumeyye Erdogan
+  semahat-arsel:
+    nationality: TUR
+    family: koc
   serge-dassault:
     born: 1925
     died: 2018
@@ -30356,12 +30826,31 @@ persons:
       role: ygl
       from: 2022
   suna-kirac:
+    born: 1941
+    died: 2020
     nationality: TUR
+    family: koc
     affiliations:
     - org: bilderberg
       role: steering
       from: 1992
       note: Succeduta a Selahattin Beyazit come Turkey Representative
+    - org: koc-holding
+      role: board
+      from: 1980
+      to: 2020
+      note: Vice Chair Board of Directors
+    - org: vehbi-koc-foundation
+      role: board
+    - org: suna-inan-kirac-foundation
+      role: founder
+      from: 2003
+      to: 2020
+    relations:
+    - person: inan-kirac
+      type: spouse
+    - person: ipek-kirac
+      type: parent
   sundar-pichai:
     born: 1972
     nationality: USA-IND
@@ -32145,6 +32634,28 @@ persons:
     - org: harvard-medical-school
       role: board
       note: Board of Fellows
+  vehbi-koc:
+    born: 1901
+    died: 1996
+    nationality: TUR
+    family: koc
+    affiliations:
+    - org: koc-holding
+      role: founder
+      from: 1926
+      to: 1996
+    - org: tusiad
+      role: chairman
+      from: 1971
+      to: 1979
+      note: High Advisory Council Chair, fondatore
+    - org: ford-otosan
+      role: founder
+      from: 1959
+      note: Ford dealer dal 1928
+    relations:
+    - person: suna-kirac
+      type: parent
   vera-kobalia:
     born: 1981
     nationality: GEO

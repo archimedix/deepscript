@@ -1,6 +1,6 @@
 # Turchia: Mappa del Potere
 
-> Ponte tra Oriente e Occidente: come quattro dinastie industriali, un sovrano wealth fund e la rete Bilderberg-Koc hanno plasmato la Turchia moderna
+> Ponte tra Oriente e Occidente: come le dinastie industriali (Koc, Sabanci, Bayraktar), i wealth fund, e la rete transatlantica Bilderberg-TUSIAD hanno plasmato la Turchia moderna
 
 ---
 
@@ -8,12 +8,14 @@
 
 La Turchia rappresenta un **caso studio unico** per il progetto DeepScript:
 
-- **Quattro dinastie industriali** che dominano l'economia (Koc, Sabanci, Dogus, Zorlu) con patrimoni combinati di ~$50 miliardi
+- **Cinque poli di potere economico**: 4 dinastie laiche (Koc, Sabanci, Dogus, Zorlu) + 1 tecno-militare (Bayraktar)
 - **Connessione Bilderberg profonda**: la Turchia ha ospitato 3 meeting Bilderberg e 4 turchi sono stati nel Comitato Direttivo
 - **Turkiye Wealth Fund (TVF)**: sovereign wealth fund da $360 miliardi presieduto direttamente da Erdogan
 - **Deep State storico**: transizione dal potere militare kemalista al controllo civile AKP
 - **Ponte geopolitico** tra NATO, UE, Russia e Medio Oriente
 - **Penetrazione Big Three tra le piu' basse d'Europa** (2.5%) per controllo statale e familiare
+- **Modello Koc**: JV con multinazionali occidentali (Ford 1928, Shell 2005, UniCredit 2006) → consolidamento → controllo diretto
+- **Shift geopolitico 2024-25**: uscita partner europei, ingresso capitali Golfo (FAB trattative Yapi Kredi $8B)
 
 ---
 
@@ -33,13 +35,13 @@ La Turchia rappresenta un **caso studio unico** per il progetto DeepScript:
                          v
               [GOVERNO TURCHIA]
                     |
-    +---------------+---------------+---------------+
-    |               |               |               |
-    v               v               v               v
- [MIT]          [TCMB]           [TVF]         [MILITARI]
-Intelligence   Banca Centrale  $360B AUM      TSK, ora sotto
-Kalin/Fidan    sotto controllo  Erdogan Chair  controllo civile
-               politico
+    +-------+-------+-------+-------+-------+
+    |       |       |       |       |       |
+    v       v       v       v       v       v
+ [MIT]   [TCMB]   [TVF]  [TSKGV]  [SSB]  [TSK]
+ Intel    BC    $360B   Difesa   Procur  Forze
+ Kalin   sotto  Erdogan Erdogan  sotto   Armate
+         press.  Chair   Chair   Pres.
 
                     POTERE ECONOMICO
                          |
@@ -82,12 +84,17 @@ Kalin/Fidan    sotto controllo  Erdogan Chair  controllo civile
 | 3 | Mustafa Koc (1960-2016) | 2003-2016 | Chairman | **Bilderberg Steering** |
 | 3 | Omer Koc (1962-) | 2016- | **Chairman attuale** | **Bilderberg Steering** |
 
-**Impero Koc**:
-- **Tupras**: maggiore raffineria petrolifera turca
-- **Ford Otosan**: JV con Ford, maggiore produttore auto
-- **Arcelik/Beko**: elettrodomestici, brand globale
-- **Yapi Kredi**: banca (JV con UniCredit)
-- **Koc University**: universita' privata d'elite
+**Impero Koc - Il Triangolo Industriale**:
+
+| Settore | Azienda | Partner | Controllo | Revenue |
+|---------|---------|---------|-----------|---------|
+| **Energia** | [Tupras](../docs/company/tupras.md) | Shell (uscito 2008) | 51% via Enerji Yatirimlari | $25B |
+| **Automotive** | [Ford Otosan](../docs/automaker/ford-otosan.md) | Ford Motor | JV 41-41-18 | ~$15B |
+| **Finanza** | [Yapi Kredi](../docs/bank/yapi-kredi.md) | UniCredit (uscito 2021) | 61.2% | - |
+| **Elettronica** | Arcelik/Beko | - | Controllata | - |
+| **Education** | Koc University | - | Fondazione | - |
+
+**Pattern JV Koc**: Partnership con multinazionali occidentali (Ford 1928, Shell 2005, UniCredit 2006), poi consolidamento controllo diretto quando i partner escono
 
 **Connessioni internazionali**:
 - Omer Koc: Bilderberg Steering Committee (attuale)
@@ -115,23 +122,36 @@ Kalin/Fidan    sotto controllo  Erdogan Chair  controllo civile
 - Guler Sabanci: **Trilateral Commission**, European Round Table of Industrialists (prima donna turca), WEF Executive Committee, MIT Energy Initiative Advisory Board, Columbia Business School Board
 - Premi: David Rockefeller Bridging Leadership Award, Clinton Global Citizen Award
 
-### Famiglia Sahenk: Il Ponte con l'Europa
+### Famiglia Sahenk: L'Exit Strategy da $8 Miliardi
 
 | Gen | Nome | Periodo | Ruolo Chiave | Forum |
 |-----|------|---------|--------------|-------|
-| 1 | Ayhan Sahenk (1929-2001) | 1951-2001 | Fondatore | - |
-| 2 | Ferit Sahenk (1965-) | 2001- | **Chairman attuale** | WEF, UN Alliance of Civilizations |
+| 1 | [Ayhan Sahenk](../docs/persons/ayhan-sahenk.md) (1929-2001) | 1951-2001 | Fondatore Dogus Group | - |
+| 2 | [Ferit Sahenk](../docs/persons/ferit-sahenk.md) (1964-) | 2001- | **Chairman attuale** | WEF, TUSIAD, DEIK, UN Alliance of Civilizations |
 
-**Impero Dogus**:
-- **Garanti BBVA**: seconda banca privata (venduta a BBVA 86%)
-- **Dogus Otomotiv**: distributore VW, Audi, Porsche, Bentley
-- **D-Marin**: maggiore operatore marina Mediterraneo
-- **Eataly Turkey, Nusr-Et**: ristorazione
-- **Media**: NTV, Star TV (venduti)
+**Formazione Ferit**: Boston College (Marketing/HR), poi 8 anni apprendistato in Garanti Bank sotto il padre.
 
-**Connessioni internazionali**:
-- Ferit Sahenk: WEF speaker, UN Alliance of Civilizations, MIT Regional Executive Board, Eisenhower Fellowships Trustee
-- Ha venduto Garanti a BBVA (Spagna) nel 2017-2022
+**L'Exit da Garanti Bank (~$8 miliardi)**:
+
+| Anno | Transazione | Acquirente | Valore |
+|------|-------------|------------|--------|
+| 2005 | 25% Garanti | GE Capital | $1.6B |
+| 2014 | 15% Garanti | BBVA | ~$2B |
+| 2017 | Ultimo 10% | BBVA | €859M (~$900M) |
+| **Totale** | **Exit completo** | | **~$8 miliardi** |
+
+**Pivot verso Hospitality/Real Estate**:
+
+| Settore | Asset | Note |
+|---------|-------|------|
+| **Galataport** | Cruise terminal + retail Istanbul | $1.7B investimento, **€1B debito ristrutturato 2024** |
+| **D.ream** | Zuma, Nusr-Et (Salt Bae), Coya, Roka | Global luxury dining |
+| **D-Marin** | 16 marine, 15.000 posti barca | Maggiore rete Mediterraneo |
+| **Automotive** | VW, Audi, Porsche, Bentley | Distribuzione esclusiva |
+
+**Crisi Galataport 2024**: Costruzione in ritardo, economia turca rallentata. 49% ceduto a banche creditrici con opzione riacquisto 3 anni. Trattative 2023 con QIA (Qatar) non concluse.
+
+**Pattern Sahenk**: Banca (core business padre) → Exit massivo ($8B) → Reinvestimento in hospitality luxury e real estate. Diverso dal modello Koc (JV industriali)
 
 ### Famiglia Zorlu: L'Outsider
 
@@ -145,6 +165,96 @@ Kalin/Fidan    sotto controllo  Erdogan Chair  controllo civile
 - **Zorlu Enerji**: energia, gas naturale
 - **Korteks**: tessile industriale
 - **Zorlu Center**: complesso immobiliare $2.5B Istanbul
+
+---
+
+## Il Quinto Polo: Baykar e la Famiglia Bayraktar
+
+### Una Nuova Dinastia del Potere
+
+A differenza delle quattro dinastie storiche (Koc, Sabanci, Dogus, Zorlu) nate nell'era kemalista e legate a TUSIAD/Bilderberg, la famiglia Bayraktar rappresenta un **nuovo modello di potere**:
+
+- **Legame diretto con Erdogan** (Selcuk genero dal 2016)
+- **Settore strategico** (difesa/droni, non diversificato)
+- **Soft power nazionalista** (TEKNOFEST, T3 Foundation)
+- **Nessuna connessione con forum occidentali** (no Bilderberg, no WEF YGL)
+
+### Famiglia Bayraktar
+
+| Gen | Nome | Anni | Ruolo | Note |
+|-----|------|------|-------|------|
+| 1 | [Ozdemir Bayraktar](../docs/persons/ozdemir-bayraktar.md) | 1949-2021 | Fondatore | Da CNC a droni |
+| 2 | [Haluk Bayraktar](../docs/persons/haluk-bayraktar.md) | 1978- | CEO | Columbia MS |
+| 2 | **[Selcuk Bayraktar](../docs/persons/selcuk-bayraktar.md)** | 1979- | Chairman/CTO | **Genero Erdogan**, MIT, Forbes billionaire |
+
+### Baykar: Numeri Chiave
+
+| Metrica | Valore |
+|---------|--------|
+| **Fondazione** | 1984 (come CNC), 2000s transizione UAV |
+| **Revenue 2024** | $2 miliardi (90% export) |
+| **Market share** | 60% export UAV turco, Turchia = 65% mercato globale |
+| **Clienti** | 37 paesi (incl. 6 NATO, 4 UE) |
+| **Prodotti** | TB2 (36 paesi), Akinci (16 paesi), Kizilelma (jet unmanned) |
+
+### Il Legame Erdogan-Bayraktar
+
+```
+RECEP TAYYIP ERDOGAN
+         |
+         | (figlia Sumeyye, 2016)
+         v
+    SELCUK BAYRAKTAR ←──── MIT, UPenn
+         |                      |
+    +----+----+                 |
+    |         |                 v
+    v         v            TECNOLOGIA
+  BAYKAR   T3 FOUNDATION   OCCIDENTALE
+  Droni    TEKNOFEST       applicata a
+  $2B rev  1.1M visitatori difesa turca
+```
+
+**Pattern**: Selcuk Bayraktar combina formazione d'elite occidentale (MIT, UPenn) con matrimonio nella famiglia Erdogan (2016), creando un ponte tra tecnologia avanzata e potere politico.
+
+### Soft Power: TEKNOFEST e T3 Foundation
+
+| Iniziativa | Descrizione | Impatto |
+|------------|-------------|---------|
+| **TEKNOFEST** | Piu' grande evento aerospace mondiale | 1.1M visitatori (2024) |
+| **T3 Foundation** | Fondazione tech nazionalista | AI turca (T3 AI), Kure Encyclopedia |
+| **Next Social** | Social media AI-powered | Alternativa a piattaforme occidentali |
+
+### Acquisizioni e Partnership Internazionali
+
+| Anno | Operazione | Tipo | Note |
+|------|------------|------|------|
+| **2024** | [Piaggio Aerospace](../docs/defense/piaggio-aerospace.md) | Acquisizione | 100%, Italia |
+| **2025** | [Leonardo](../docs/defense/leonardo.md) | Partnership | Cooperazione UAV |
+| **ongoing** | Motor Sich (UKR) | Supply chain | Motori Akinci/Kizilelma |
+| **2025** | Stabilimento Ucraina | Produzione | $100M, 120 droni/anno |
+
+### Confronto: Dinastie Laiche vs Bayraktar
+
+| Aspetto | Koc/Sabanci/Dogus | Bayraktar |
+|---------|-------------------|-----------|
+| **Origine** | Era kemalista (1920s-60s) | Era AKP (2000s) |
+| **Settore** | Diversificato | Difesa/tech |
+| **Forum** | Bilderberg, Trilateral, WEF | Nessuno |
+| **Rapporto Erdogan** | Tensione/coesistenza | Famiglia |
+| **Soft power** | Universita', filantropia | Nazionalismo tech |
+| **Modello** | Borghesia laica globale | Tecno-nazionalismo islamico |
+
+### Onorificenze Internazionali Selcuk Bayraktar
+
+| Anno | Onorificenza | Paese |
+|------|--------------|-------|
+| 2021 | Ordine del Karabakh | Azerbaijan |
+| 2022 | Ordine al Merito | Ucraina |
+| 2023 | Ordine Nazionale | Mali |
+| 2024 | Ordine NSDC 1° Classe | Ucraina |
+| 2024 | Ordine Dank | Kirghizistan |
+
+**Pattern**: Le onorificenze vengono da paesi clienti TB2 o alleati geopolitici turchi, non da istituzioni occidentali tradizionali.
 
 ---
 
@@ -328,37 +438,411 @@ Birgi non fu solo un partecipante ma un **architetto** del Bilderberg: membro de
 
 La famiglia Koc ha controllato il High Advisory Council per 43 dei 53 anni di storia TUSIAD (1971-2014)
 
+### Sistema Politico: Da Parlamentare a Presidenziale
+
+**Transizione 2017-2018**: La Turchia e' passata da sistema parlamentare a **presidenziale puro**.
+
+| Anno | Evento | Impatto |
+|------|--------|---------|
+| **Apr 2017** | Referendum costituzionale (51.4% si) | Abolizione PM |
+| **Giu 2018** | Elezioni, nuovo sistema | Erdogan primo presidente esecutivo |
+| **2018** | Ultimo PM: Binali Yildirim | Fine 95 anni di premiership |
+
+**Poteri Presidenziali post-2018**:
+- Nomina diretta gabinetto (senza conferma parlamentare)
+- Nomina giudici Corte Costituzionale
+- Decreto presidenziale con forza di legge
+- Scioglimento parlamento
+- Dichiarazione stato emergenza
+
+### Gabinetto Erdogan (2023-)
+
+| Ruolo | Nome | Background | Note |
+|-------|------|------------|------|
+| **Presidente** | [Recep Tayyip Erdogan](../docs/persons/recep-tayyip-erdogan.md) | PM 2003-14, Pres. 2014- | Chairman TVF |
+| **Vice Presidente** | Cevdet Yilmaz | Economista | - |
+| **Min. Esteri** | [Hakan Fidan](../docs/persons/hakan-fidan.md) | **Direttore MIT 13 anni** | "Custode dei segreti" |
+| **Min. Finanze** | [Mehmet Simsek](../docs/persons/mehmet-simsek.md) | **Ex-Merrill Lynch** | Ortodossia vs Erdoganomics |
+| **Min. Difesa** | Yasar Guler | Generale | - |
+| **Min. Interno** | Ali Yerlikaya | Prefetto | - |
+
+**Hakan Fidan**: 13 anni alla guida del MIT (2010-2023), il piu' lungo mandato. Architetto delle operazioni in Siria, Libya, lotta al movimento Gulen. Erdogan lo definì "il mio custode dei segreti". Ora guida la politica estera attiva turca.
+
+**Mehmet Simsek**: Ex-economista Merrill Lynch, richiamato nel 2023 per rassicurare i mercati dopo anni di politiche eterodosse (tassi bassi nonostante inflazione). Rappresenta il ritorno all'ortodossia economica.
+
+### Presidenti della Repubblica (1923-oggi)
+
+| # | Presidente | Periodo | Note |
+|---|------------|---------|------|
+| 1 | Mustafa Kemal **Ataturk** | 1923-1938 | Fondatore, secolarismo |
+| 2 | Ismet Inonu | 1938-1950 | Neutralita' WWII |
+| 3 | Celal Bayar | 1950-1960 | Deposto golpe |
+| 7 | Kenan Evren | 1982-1989 | Generale, golpe 1980 |
+| 8 | Turgut Ozal | 1989-1993 | Liberalizzazione |
+| 9 | Suleyman Demirel | 1993-2000 | 7 volte PM |
+| 11 | Abdullah Gul | 2007-2014 | Co-fondatore AKP |
+| 12 | **Recep Tayyip Erdogan** | 2014- | PM 2003-14, sistema presidenziale |
+
+### Colpi di Stato nella Storia Turca
+
+| Anno | Tipo | Esito |
+|------|------|-------|
+| **1960** | Militare | Nuova costituzione, Bayar deposto |
+| **1971** | Memorandum | Governo tecnico imposto |
+| **1980** | Militare | Kenan Evren presidente, repressione |
+| **1997** | "Postmoderno" | Caduta governo islamista Erbakan |
+| **2016** | **Tentato** | Fallito, purghe massive (130.000 funzionari) |
+
+Il fallimento del golpe 2016 ha permesso a Erdogan di consolidare il potere, purgare l'esercito e accelerare la transizione al sistema presidenziale.
+
 ### MIT (Milli Istihbarat Teskilati)
 
 | Aspetto | Dettaglio |
 |---------|-----------|
 | **Fondazione** | 1927 (da Karakol) |
 | **Direttore attuale** | Ibrahim Kalin (dal 2023) |
-| **Direttore precedente** | Hakan Fidan (2010-2023, ora Min. Esteri) |
+| **Direttore precedente** | **Hakan Fidan** (2010-2023, ora Min. Esteri) |
 | **Controllo** | Diretto presidenziale |
 | **Ruolo post-2016** | Purga 130,000 funzionari, 24,000 militari |
 
 ### Banca Centrale (TCMB)
 
-| Governatore | Periodo | Note |
-|-------------|---------|------|
-| Hafize Gaye Erkan | 2023-2024 | Ritorno a ortodossia, dimessa |
-| Fatih Karahan | 2024- | Ex Fed NY, Amazon, Columbia |
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1930 |
+| **Sede** | Ankara |
+| **Governatore** | [Fatih Karahan](../docs/persons/fatih-karahan.md) (2024-) |
+| **Indipendenza** | 2001 (riforma Dervis) |
+| **Inflation Targeting** | 2006 |
 
-**Nota**: Indipendenza formale, ma Erdogan ha cambiato 4 governatori 2019-2021 per mantenere tassi bassi.
+#### La Riforma 2001: Architetto Kemal Dervis
+
+La crisi finanziaria del 2001 porto' a riforme strutturali della banca centrale, architettate da [Kemal Dervis](../docs/persons/kemal-dervis.md):
+
+| Aspetto | Prima | Dopo 2001 |
+|---------|-------|-----------|
+| **Obiettivo** | Multiplo | Stabilita' prezzi (primario) |
+| **Indipendenza** | Limitata | Operativa (strumenti) |
+| **Finanziamento governo** | Consentito | **Vietato** |
+| **Decisioni** | Governatore | MPC (7 membri) |
+
+**Risultati disinflazione**: Inflazione dal 70% (1990s) al 12% (2003), single-digit 2004-2017.
+
+#### Governatori Recenti
+
+| Periodo | Governatore | Note |
+|---------|-------------|------|
+| **2001-2006** | Sureyya Serdengecti | Crisi 2001, prima disinflazione |
+| **2006-2011** | [Durmus Yilmaz](../docs/persons/durmus-yilmaz.md) | **CB Governor of Year 2009** |
+| **2011-2016** | Erdem Basci | - |
+| **2016-2019** | Murat Cetinkaya | Rimosso da Erdogan |
+| **2019-2020** | Murat Uysal | 16 mesi |
+| **2020-2021** | Naci Agbal | 5 mesi, alzò tassi |
+| **2021-2023** | Sahap Kavcioglu | Low-rate policy |
+| **2023-2024** | [Hafize Gaye Erkan](../docs/persons/hafize-gaye-erkan.md) | Prima donna, dimessa |
+| **2024-** | [Fatih Karahan](../docs/persons/fatih-karahan.md) | Ex-Fed NY, PhD UPenn |
+
+**Instabilita' 2019-2024**: 4 governatori in 2 anni. Erdogan rimuove chi alza i tassi (Agbal licenziato dopo aumento dal 17% al 19%). Erkan dimessa per "assassinio reputazionale".
+
+**Fatih Karahan**: PhD Economics U Penn, 10 anni alla Fed NY (Labor & Product Markets), poi Amazon. Rappresenta ritorno all'ortodossia insieme a Mehmet Simsek.
+
+---
+
+### Complesso Militare-Industriale: TSKGV - SSB - Aziende Difesa
+
+Il cuore dell'industria della difesa turca e' controllato attraverso una struttura fondazione-agenzia ora sotto controllo presidenziale diretto.
+
+#### Struttura di Controllo Post-2017
+
+```
+                    ERDOGAN (Presidente)
+                           |
+          +----------------+----------------+
+          |                |                |
+        TSKGV            SSB             SSIK
+     (Chairman)       (reports)       (convoca)
+          |                |
+    +-----+-----+     +----+----+
+    |     |     |     |         |
+    v     v     v     v         v
+Aselsan TAI  Havelsan STM    Baykar
+ (74%)  (maj) (98%)  (34%)  (privato)
+    |     |     |
+    v     v     v
+Roketsan Aspilsan Isbir
+ (55%)   (98%)   (maj)
+```
+
+#### TSKGV (Turkish Armed Forces Foundation)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1987 (Law 3388) |
+| **Origine** | Risposta embargo USA post-Cipro 1974 |
+| **Chairman** | [Recep Tayyip Erdogan](../docs/persons/recep-tayyip-erdogan.md) (dal 2017, Decreto 696) |
+| **Precedente** | Sotto Ministero Difesa fino 2017 |
+| **Portfolio** | 6 subsidiarie, 8 partecipate, 61+ aziende totali |
+| **Performance** | 42% vendite difesa TR, 74% R&D nazionale (2019) |
+
+**Subsidiarie TSKGV**:
+
+| Azienda | Quota | Settore | Ranking 2024 |
+|---------|-------|---------|--------------|
+| [Aselsan](../docs/defense/aselsan.md) | 74.2% | Electronics, radar, EW | #42 Defense News |
+| [TAI/TUSAS](../docs/defense/tai.md) | Maggioranza | Aerospace, droni Anka | #47 Defense News |
+| [Havelsan](../docs/defense/havelsan.md) | 98% | Software, C4ISR | - |
+| [Roketsan](../docs/defense/roketsan.md) | 55.5% | Missili, razzi | - |
+| Aspilsan | 98.52% | Batterie aeronautiche | - |
+| Isbir | Maggioranza | Alternatori, generatori | - |
+
+#### SSB (Savunma Sanayii Baskanligi - Defence Industry Agency)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 7 novembre 1985 (Law 3238) |
+| **Sede** | Ankara |
+| **Ruolo** | Agenzia procurement difesa nazionale |
+| **Post-2017** | Reports direttamente al Presidente (Decreto 696) |
+| **President** | [Prof. Dr. Haluk Gorgun](../docs/persons/haluk-gorgun.md) (2023-) |
+| **Deputy President** | [Prof. Dr. Ihsan Kaya](../docs/persons/ihsan-kaya.md) (anche Chairman STM) |
+| **Progetti attivi** | 1.300+ |
+| **Volume progetti** | $100+ miliardi |
+| **Export 2024** | $7.154 miliardi (+29%) |
+| **Export 2025** | $10.56 miliardi (+48%) |
+
+**SSIK (Defence Industry Executive Committee)** - Organo decisionale supremo:
+
+| Ruolo | Nome (2024) |
+|-------|-------------|
+| **Chairman** | Recep Tayyip Erdogan (Presidente) |
+| **Membro** | Cevdet Yilmaz (Vice Presidente) |
+| **Membro** | Mehmet Simsek (Min. Tesoro/Finanze) |
+| **Membro** | Yasar Guler (Min. Difesa) |
+| **Membro** | Gen. Metin Gurak (Capo di Stato Maggiore) |
+| **Segretario** | Haluk Gorgun (President SSB) |
+
+**Sanzioni USA CAATSA (14 Dicembre 2020)**:
+- Motivo: Acquisto sistema S-400 da Russia
+- Soggetti: SSB come entita', Ismail Demir (ex-President) personalmente
+- Effetti: Divieto licenze export USA, Turchia esclusa da F-35
+
+**Pattern dual-hatting**: Ihsan Kaya ricopre simultaneamente:
+- Chairman of the Board, [STM](../docs/defense/stm.md) (2018-)
+- Deputy President, [SSB](../docs/agency/ssb.md) (2023-)
+
+Questo crea **conflitto di interessi strutturale**: SSB detiene 34% di STM e supervisiona i contratti che STM riceve.
+
+#### STM (Savunma Teknolojileri)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1991 |
+| **Azionariato** | SSB 34%, altri 66% |
+| **Chairman** | [Ihsan Kaya](../docs/persons/ihsan-kaya.md) |
+| **General Manager** | Ozgur Guleryuz |
+| **Revenue** | $167 milioni (2025) |
+| **Focus** | Naval, UAV, cybersecurity, C4ISR |
+
+**Progetti chiave STM**:
+- MİLGEM corvette nazionali (main subcontractor)
+- Sottomarini Reis-Class Type-214
+- ALPAGU kamikaze UAV (esportato 2023)
+- Corvette per Malaysia (2024)
+- Navi logistiche per Portogallo (2025)
+
+#### Il Decreto 696 (Dicembre 2017)
+
+Dopo il tentato golpe del 2016, Erdogan consolido' il controllo sull'industria difesa:
+
+| Prima | Dopo Decreto 696 |
+|-------|------------------|
+| TSKGV sotto Min. Difesa | TSKGV sotto Presidenza |
+| Chairman: Min. Difesa | **Chairman: Presidente** |
+| SSB sotto Min. Difesa | SSB sotto Presidenza |
+| SSIK convocato da Min. | SSIK convocato da Presidente |
+
+> "The decree only formalizes a de facto situation in which Erdogan was the procurement boss."
+> — Western defense executive (2017)
+
+#### Ecosistema Difesa Turco: TSKGV vs Baykar
+
+| Aspetto | TSKGV (statale) | [Baykar](../docs/defense/baykar.md) (privato) |
+|---------|-----------------|-----------------------------------------------|
+| **Controllo** | Fondazione statale, Erdogan chairman | Famiglia Bayraktar |
+| **Legame Erdogan** | Istituzionale (post-2017) | Familiare (genero Selcuk) |
+| **Focus** | Full spectrum (naval, aerospace, SW) | UAV specializzato |
+| **Modello** | Conglomerato para-statale | Startup tech → Champion nazionale |
+| **Export** | Diversificato | 90% revenue, 37 paesi |
+
+#### Sviluppi 2025
+
+| Data | Evento |
+|------|--------|
+| **Mar 2025** | Aselsan: $616M per nuove facilities |
+| **Set 2025** | 5 aziende turche in Defense News Top 100 |
+| **Nov 2025** | Contratto $6.5B Steel Dome (Aselsan, Havelsan, Roketsan) |
+
+#### I Tecnocrati Difesa: Gorgun, Kaya, Guleryuz
+
+Il vertice dell'industria difesa turca e' controllato da tre figure che rappresentano pattern distinti di cooptazione del talento:
+
+| Nome | Ruolo | Background | Pattern |
+|------|-------|------------|---------|
+| [Haluk Gorgun](../docs/persons/haluk-gorgun.md) | President SSB, Chair TSKGV Board | PhD fuel cells RPI, Rector Gebze, CEO Aselsan | **Accademico → CEO → Stato** |
+| [Ihsan Kaya](../docs/persons/ihsan-kaya.md) | Deputy President SSB, Chairman STM | PhD quality control ITU, Dean YTU, TUBA | **Dual-hatting (regolatore + regolato)** |
+| [Ozgur Guleryuz](../docs/persons/ozgur-guleryuz.md) | General Manager STM | BSc/MBA Bilkent, Nokia Finland, Aselsan | **Crescita interna + internazionale** |
+
+**Il Pattern Gorgun: Accademico → Industria → Stato**
+
+```
+PhD RPI (fuel cells)     Gebze Rector     Aselsan CEO     SSB President + TSKGV Chair
+    2003          →        2014-18    →     2018-23    →         2023-
+  Formazione USA      Legittimazione     Test industriale    Controllo totale
+                       accademica                             settore difesa
+```
+
+Gorgun rappresenta il **modello ideale** di tecnocrate Erdogan:
+- Formazione d'elite occidentale (PhD Rensselaer Polytechnic, post-doc UConn)
+- Credenziali accademiche turche (Professor YTU, Rector Gebze)
+- Prova industriale (CEO Aselsan, azienda #42 mondiale)
+- Controllo statale (SSB + TSKGV = procurement + holding)
+
+**Il Pattern Kaya: Conflitto di Interessi Strutturale**
+
+| Ruolo 1 | Ruolo 2 | Conflitto |
+|---------|---------|-----------|
+| Deputy President SSB | Chairman STM | SSB supervisiona STM (34% partecipazione) |
+| Regolatore | Regolato | Assegna contratti a se stesso |
+| Dean YTU | - | Mantiene anche ruolo accademico |
+
+Kaya e' stato descritto come **"il piu' giovane Vice Presidente nella storia di SSB"**. Premio TUBA GEBIP 2019 (Outstanding Young Scientist).
+
+**Il Pattern Guleryuz: Manager Operativo**
+
+A differenza di Gorgun e Kaya (accademici), Guleryuz rappresenta il **manager industriale**:
+- 5 anni Nokia Finland (R&D, raro background internazionale)
+- 4 anni Aselsan (crypto, comunicazioni)
+- 13 anni crescita interna in STM prima di diventare GM
+
+**Confronto Pattern Leadership Difesa**:
+
+| Aspetto | Gorgun/Kaya | Guleryuz |
+|---------|-------------|----------|
+| Background | Accademico (Professor) | Industriale |
+| Percorso | Universita' → Industria → Stato | Nokia → Aselsan → STM |
+| Ruolo | Strategico/Governance | Operativo |
+| Nomina | Presidenziale | Interna aziendale |
+| PhD | Si | No (MBA) |
+| Esperienza estera | Post-doc USA (Gorgun) | 5 anni Nokia Finland |
+
+**L'Ecosistema YTU (Yildiz Technical University)**:
+
+Nota: Sia Gorgun che Kaya hanno legami con Yildiz Technical University, creando un "pipeline" accademico → difesa:
+
+| Persona | Ruolo YTU |
+|---------|-----------|
+| Haluk Gorgun | Professor 2005-2014 |
+| Ihsan Kaya | Professor 2018-, Dean 2021- |
+
+---
+
+### Infrastruttura Tecnocratica: TOBB - TEPAV - TOBB ETU
+
+Un ecosistema parallelo al potere politico: il **triangolo tecnocratico** che connette business, ricerca e formazione.
+
+```
+                    TOBB
+        (365 camere, 2M aziende)
+         Rifat Hisarciklioglu 2001-
+                    |
+          +---------+---------+
+          |                   |
+          v                   v
+       TEPAV              TOBB ETU
+    (Think Tank)        (Universita')
+     Guven Sak 2004-    Guven Sak Rector
+          |                   |
+          +---------+---------+
+                    |
+                    v
+            POLICY INFLUENCE
+         (G20, T20, TCMB MPC)
+```
+
+#### TOBB (Union of Chambers and Commodity Exchanges)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1950 |
+| **Sede** | Ankara |
+| **Presidente** | [Rifat Hisarciklioglu](../docs/persons/rifat-hisarciklioglu.md) (2001-) |
+| **Membri** | 365 camere, 2+ milioni aziende |
+| **Ruolo** | Principale org imprenditoriale turca |
+
+**Hisarciklioglu**: Presidente TOBB dal 2001 (24 anni, 7 rielezioni). Anche President World Chambers Federation (WCF) dal 2023. Board member TVF.
+
+#### TEPAV (Economic Policy Research Foundation)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 2004 |
+| **Fondatore** | TOBB + [Guven Sak](../docs/persons/guven-sak.md) |
+| **Managing Director** | Guven Sak (2004-) |
+| **Staff** | 50+ ricercatori |
+| **Ruolo** | Primo think tank economico indipendente turco |
+
+**T20 Turkey 2015**: TEPAV ha coordinato il Think 20 durante la presidenza G20 turca. 12 conferenze internazionali, raccomandazioni incluse nel G20 Leaders Communique.
+
+**Riconoscimenti**: Top 3 think tank europei (The Spectator 2014), Top 50 mondiale (U Penn ranking).
+
+#### TOBB ETU (University of Economics and Technology)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 2006 |
+| **Fondatore** | TOBB |
+| **Rector** | Guven Sak |
+| **Focus** | Economia, tecnologia, business |
+
+#### Il Pattern Guven Sak: Tecnocrate Ponte
+
+[Guven Sak](../docs/persons/guven-sak.md) (1961-) rappresenta il modello del **tecnocrate multi-piattaforma**:
+
+| Periodo | Ruolo | Istituzione |
+|---------|-------|-------------|
+| **2001-2006** | MPC Founding Member | [TCMB](../docs/central-bank/tcmb.md) |
+| **2004-oggi** | Founding MD | [TEPAV](../docs/think-tank/tepav.md) |
+| **2006-oggi** | Rector | TOBB ETU |
+| **2017-2020** | Co-chair Migration Task Force | T20/G20 |
+
+**Pattern**: Banca centrale (policy) → Think tank (ricerca) → Universita' (formazione) → Internazionale (G20). Opera simultaneamente su tutte le piattaforme, connettendo business turco (TOBB) con policy internazionale.
+
+**Confronto con Kemal Dervis**: Dervis segui' percorso World Bank → Governo → UNDP → Brookings. Sak rimase in Turchia costruendo istituzioni locali con proiezione internazionale.
+
+#### Significato nel Sistema di Potere
+
+Il triangolo TOBB-TEPAV-TOBB ETU rappresenta:
+
+1. **Autonomia dal governo**: Finanziato dal business, non dallo stato
+2. **Formazione elite**: TOBB ETU forma nuova generazione economisti
+3. **Policy influence**: TEPAV come "ideas bank" per decisori
+4. **Proiezione internazionale**: T20 coordinator, network think tank globali
+5. **Ponte TCMB**: Guven Sak membro fondatore MPC, poi think tank
 
 ---
 
 ## Connessioni con Entita' Estere
 
-### Banche Europee in Turchia
+### Banche Estere in Turchia
 
 | Banca Turca | Controllante | Share | Note |
 |-------------|--------------|-------|------|
-| Garanti BBVA | BBVA (Spagna) | 86% | Acquisita da Dogus |
+| Garanti BBVA | BBVA (Spagna) | 86% | Acquisita da Dogus 2017-22 |
 | QNB Finansbank | QNB (Qatar) | 99.8% | Ex Finansbank |
-| Yapi Kredi | UniCredit/Koc | 50/50 JV | - |
+| [Yapi Kredi](../docs/bank/yapi-kredi.md) | **Koc Holding** | **61.2%** | UniCredit uscito 2021, **trattative vendita FAB $8B** |
 | Denizbank | Emirates NBD | 100% | Ex Sberbank |
+
+**Shift Geopolitico 2024-25**: La potenziale vendita di Yapi Kredi a First Abu Dhabi Bank (~$8 miliardi) segnala uno shift del capitale turco verso il Golfo, dopo l'uscita dei partner europei (UniCredit, Shell, vendita Garanti a BBVA)
 
 ### Big Three in Turchia
 
@@ -376,9 +860,23 @@ La famiglia Koc ha controllato il High Advisory Council per 43 dei 53 anni di st
 |---------|------|------|
 | NATO | Militare | Membro dal 1952, seconda forza armata |
 | UE | Candidato | Negoziati dal 2005, stallo |
-| Russia | Energia | TurkStream gas, turismo |
+| Russia | Energia | TurkStream gas, turismo, **Tupras maggior importatore greggio russo** |
 | Qatar | Investimenti | QNB, base militare |
-| Azerbaijan | Strategico | "Una nazione, due stati" |
+| Azerbaijan | Strategico | "Una nazione, due stati", clienti TB2 |
+| UAE | Finanza | FAB in trattative per Yapi Kredi $8B |
+
+### Caso Tupras: Il Dilemma Energetico
+
+| Anno | Import Russo (bpd) | % Import Turchia |
+|------|-------------------|------------------|
+| 2023 | 178,000 | ~60% |
+| 2024 | 225,000 | **65%** (record) |
+| 2025 | Stop | Sanzioni occidentali |
+
+[Tupras](../docs/company/tupras.md), controllata da Koc Holding (Omer Koc chairman), e' stata il **maggior importatore di greggio russo** in Europa dopo l'invasione dell'Ucraina. Questo crea una tensione tra:
+- **Koc/Bilderberg**: Connessione transatlantica storica (70 anni)
+- **Interessi energetici**: Dipendenza da greggio russo a basso costo
+- **Pressione occidentale**: Sanzioni 2025 hanno forzato lo stop
 
 ---
 
@@ -403,6 +901,7 @@ La famiglia Koc ha controllato il High Advisory Council per 43 dei 53 anni di st
 |------|-------|-------------------|
 | **[Omer Koc](../docs/persons/omer-koc.md)** | Chairman Koc Holding | **Bilderberg Steering** (5 meeting: 2017-19, 2023-24) |
 | **[Guler Sabanci](../docs/persons/guler-sabanci.md)** | Chairman Sabanci 2004-2025 | **Trilateral**, **ERT** (prima donna 2008), WEF IBC |
+| **[Selcuk Bayraktar](../docs/persons/selcuk-bayraktar.md)** | Chairman/CTO Baykar | **Nessuno** (nuovo modello) - genero Erdogan |
 | Ferit Sahenk | Chairman Dogus | WEF, UN Alliance of Civilizations |
 | Hanzade Dogan Boyner | Vice Chair Dogan, CEO Hepsiburada | WEF Digital Platforms, Brookings Trustee, ECFR |
 | Arda Ermut | CEO TVF | WEF Agenda Contributor |
@@ -410,6 +909,8 @@ La famiglia Koc ha controllato il High Advisory Council per 43 dei 53 anni di st
 **Omer Koc**: 5° nella "linea turca" Bilderberg (dopo Birgi, Beyazit, Suna Kirac, Mustafa Koc). Anche Chairman Tupras.
 
 **Guler Sabanci**: Lascia chairmanship marzo 2025 dopo 21 anni. Prima donna ERT (2008), prima donna TUSIAD. Premi: David Rockefeller Award, Clinton Global Citizen.
+
+**Selcuk Bayraktar**: Genero di Erdogan dal 2016, architetto dell'industria UAV turca. A differenza degli altri magnati turchi, non ha connessioni con forum occidentali (Bilderberg, WEF). Rappresenta un nuovo modello di potere: tecno-nazionalismo legato alla famiglia presidenziale. Forbes billionaire 2024, onorificenze da Azerbaijan, Ucraina, Mali, Kirghizistan.
 
 ### Diplomatici/Fondatori
 
@@ -422,9 +923,15 @@ La famiglia Koc ha controllato il High Advisory Council per 43 dei 53 anni di st
 
 | Nome | Ruolo | Connessioni |
 |------|-------|-------------|
+| **[Guven Sak](../docs/persons/guven-sak.md)** | MD TEPAV, Rector TOBB ETU | **TCMB MPC 2001-06**, T20 co-chair |
+| **[Nihat Ali Ozcan](../docs/persons/nihat-ali-ozcan.md)** | Consultant TEPAV, Assoc. Prof. TOBB ETU | Ex-Maggiore TSK, primo accademico PKK |
 | Mustafa Aydin | Prof. Kadir Has | Bilderberg 2024 |
 | Senem Aydin-Duzgit | Prof. Istanbul Bilgi | Bilderberg 2016 |
 | Selva Demiralp | Prof. Koc University | Bilderberg 2019 |
+
+**Guven Sak**: Tecnocrate ponte tra banca centrale (MPC), think tank (TEPAV), universita' (TOBB ETU) e forum internazionali (T20). Esempio di institution-building: ha creato infrastruttura per influence policy finanziata dal business (TOBB), non dal governo.
+
+**Nihat Ali Ozcan**: Ex-Maggiore dell'Esercito Turco (pensionato 1998), autore della prima dissertazione accademica sul PKK. Pattern militare → accademico → policy: dal TSK a TEPAV (security analyst dal 2005) e TOBB ETU. Expertise: PKK, terrorismo, relazioni civili-militari. Contributor Jamestown Foundation.
 
 ---
 
@@ -432,11 +939,12 @@ La famiglia Koc ha controllato il High Advisory Council per 43 dei 53 anni di st
 
 ### Modello Turco
 
-1. **Quattro Pilastri**:
+1. **Cinque Pilastri** (aggiornato 2025):
    - Stato (TVF, banche pubbliche, Turkish Airlines)
-   - Conglomerati familiari (Koc, Sabanci, Dogus, Zorlu)
+   - Conglomerati familiari laici (Koc, Sabanci, Dogus, Zorlu)
    - Banche europee (BBVA, QNB, UniCredit)
    - Militari/Intelligence (sotto controllo civile dal 2016)
+   - **Complesso Militare-Industriale Erdoganiano** (Baykar, ASELSAN, TAI)
 
 2. **Connessione Bilderberg-Turchia (70 anni ininterrotti)**:
    - **Nuri Birgi** (1958-72): Diplomatico, fondatore, "gatekeeper" ingresso Turchia
@@ -461,15 +969,55 @@ La famiglia Koc ha controllato il High Advisory Council per 43 dei 53 anni di st
    - Bagis scandalo 2013 ma riabilitato: mostra protezione politica
    - Pattern: formazione elite occidentale → ruoli chiave AKP → rottura/continuita'
 
-### Confronto con Altri Modelli
+6. **Asse Erdogan-Bayraktar** (nuovo polo 2016-):
+   - Matrimonio Selcuk-Sumeyye (2016) crea legame familiare diretto
+   - Baykar diventa leader mondiale droni ($2B revenue, 65% market share globale)
+   - **Diverso dalle dinastie laiche**: nessuna connessione Bilderberg/WEF
+   - Soft power nazionalista (TEKNOFEST) vs filantropia occidentale (universita' Koc/Sabanci)
+   - Onorificenze da clienti droni (Azerbaijan, Ucraina, Mali) non da istituzioni occidentali
+   - **Pattern successione?** Selcuk come potenziale erede politico (Foreign Policy 2023: "Crown Prince")
+   - Acquisizioni italiane (Piaggio 2024, partnership Leonardo 2025) espandono reach europeo
 
-| Aspetto | Turchia | Grecia | India |
-|---------|---------|--------|-------|
-| Famiglie dominanti | 4 (Koc, Sabanci, Dogus, Zorlu) | 2 armatoriali (Onassis, Niarchos) | 6+ (Tata, Ambani, Adani, etc.) |
-| Controllo statale | Alto (TVF 30+ aziende) | Basso post-crisi | Alto (PSU) |
-| Penetrazione Big Three | 2.5% | 4.0% | 6.2% |
-| Bilderberg Steering | Si (Koc) | Si (Papandreou) | No |
-| Trilateral | Si (Sabanci) | Si | Si |
+7. **Il Modello Koc: JV → Consolidamento → Controllo**:
+   - **Ford** (1928-oggi): Da dealer Ankara a JV 41-41, partnership piu' lunga (97 anni)
+   - **Shell** (2005-2008): JV per acquisizione Tupras $4.14B, Shell esce, Koc consolida 51%
+   - **UniCredit** (2006-2021): JV 50-50 per Yapi Kredi, UniCredit esce, Koc consolida 61.2%
+   - **Pattern**: Partner occidentale porta capitale/know-how → Koc impara → Partner esce → Koc controlla
+   - **Eccezione Ford**: Unica partnership che dura, perche' Ford porta tecnologia continua (EV, batterie)
+   - **Shift 2024-25**: Potenziale vendita Yapi Kredi a FAB (UAE) segna pivot verso capitali Golfo
+
+8. **Infrastruttura Tecnocratica (TOBB-TEPAV-TOBB ETU)**:
+   - **TOBB**: 365 camere, 2M aziende, Hisarciklioglu presidente 24 anni
+   - **TEPAV**: Primo think tank economico indipendente (2004), T20 coordinator 2015
+   - **TOBB ETU**: Universita' del business turco (2006)
+   - **Pattern Guven Sak**: Banca centrale (MPC) → Think tank → Universita' → G20
+   - **Autonomia dal governo**: Finanziato dal business, non dallo stato
+   - **Diverso da Baykar**: Integrazione transnazionale vs tecno-nazionalismo
+
+9. **Banca Centrale: Tensione Indipendenza vs Controllo**:
+   - **2001**: Riforma Dervis, indipendenza, MPC, divieto finanziamento governo
+   - **2001-2019**: Relativa stabilita', disinflazione, inflation targeting
+   - **2019-2024**: 4 governatori in 2 anni, Erdogan rimuove chi alza tassi
+   - **Revolving door**: Fed NY → TCMB (Karahan), MPC → TEPAV (Sak)
+   - **2023-**: Ritorno ortodossia con Simsek + Erkan/Karahan
+
+10. **Complesso Militare-Industriale sotto Controllo Presidenziale (2017)**:
+   - **TSKGV**: Fondazione che controlla Aselsan (74%), Roketsan (55%), Havelsan (98%), TAI, Aspilsan (98%)
+   - **Decreto 696 (Dic 2017)**: Erdogan diventa Chairman TSKGV, SSB passa sotto Presidenza
+   - **SSB**: Agenzia procurement (34% STM), ora reports direttamente al Presidente
+   - **Dual-hatting**: Ihsan Kaya e' Chairman STM E Deputy President SSB
+   - **Pattern**: Fondazione come veicolo di controllo (meno trasparenza di ministero)
+   - **Post-golpe 2016**: Consolidamento controllo civile/presidenziale su apparato militare-industriale
+
+11. **Tecnocrati Difesa: Pipeline Accademico → Industria → Stato**:
+   - **Haluk Gorgun**: PhD RPI → Prof YTU → Rector Gebze → CEO Aselsan → President SSB + Chair TSKGV
+   - **Ihsan Kaya**: PhD ITU → Prof YTU → Dean YTU → Chairman STM → Deputy President SSB (dual-hatting)
+   - **Ozgur Guleryuz**: Nokia Finland → Aselsan → STM (13 anni crescita interna) → GM STM
+   - **Pattern Gorgun**: Formazione USA elite → legittimazione accademica TR → test industriale → controllo statale
+   - **Pattern Kaya**: Conflitto interessi strutturale (regolatore + regolato), piu' giovane VP SSB
+   - **Pattern Guleryuz**: Manager operativo, background industriale internazionale (raro)
+   - **YTU Pipeline**: Yildiz Technical University come fucina di talenti difesa (Gorgun Prof 2005-14, Kaya Dean 2021-)
+   - **Performance**: Export difesa da $1.5B (2014) a $10.56B (2025) sotto leadership tecnocratica
 
 ---
 
@@ -485,49 +1033,103 @@ La famiglia Koc ha controllato il High Advisory Council per 43 dei 53 anni di st
 | **guler-sabanci** | Guler Sabanci | **DOCUMENTATO** | Trilateral, ERT, Sabanci 2004-2025 |
 | **ali-babacan** | Ali Babacan | **DOCUMENTATO** | Bilderberg 7+, YGL WEF, DEVA |
 | **egemen-bagis** | Egemen Bagis | **DOCUMENTATO** | YGL WEF 2010, scandalo 2013 |
-| ferit-sahenk | Ferit Sahenk | stub | WEF, Dogus Chairman |
+| **selcuk-bayraktar** | Selcuk Bayraktar | **DOCUMENTATO** | Genero Erdogan, CTO Baykar, MIT |
+| **haluk-bayraktar** | Haluk Bayraktar | stub | CEO Baykar, Columbia |
+| **ozdemir-bayraktar** | Ozdemir Bayraktar | stub | Fondatore Baykar (1949-2021) |
+| **vehbi-koc** | Vehbi Koc | stub | Fondatore dinastia Koc (1901-1996) |
+| **ali-koc** | Ali Koc | stub | Vice Chairman Koc, Pres. Fenerbahce |
+| **ipek-kirac** | Ipek Kirac | stub | 4a gen Koc, ex-CEO Sirena Marine |
+| **ferit-sahenk** | Ferit Sahenk | **DOCUMENTATO** | Chairman Dogus, exit Garanti $8B, Galataport |
+| **ayhan-sahenk** | Ayhan Sahenk | stub | Fondatore Dogus (1929-2001) |
+| **hakan-fidan** | Hakan Fidan | stub | Min Esteri 2023-, ex-MIT 13 anni |
+| **mehmet-simsek** | Mehmet Simsek | stub | Min Finanze 2023-, ex-Merrill Lynch |
+| **cevdet-yilmaz** | Cevdet Yilmaz | stub | Vice Presidente 2023- |
 | mustafa-koc | Mustafa Koc | stub | Bilderberg Steering (morto 2016) |
 | rahmi-koc | Rahmi Koc | stub | Chairman Koc 1984-2003, padre Omer |
+| **suna-kirac** | Suna Kirac | **DOCUMENTATO** | Bilderberg Steering 1992-2008, Vice Chair Koc, Pera Museum |
+| semahat-arsel | Semahat Arsel | stub | 2a gen Koc |
 | kemal-dervis | Kemal Dervis | gia' esistente | Bilderberg, UNDP, World Bank |
 | hanzade-dogan-boyner | Hanzade Dogan Boyner | gia' esistente | WEF, Brookings, ECFR |
 | arda-ermut | Arda Ermut | stub | CEO TVF, WEF |
+| **guven-sak** | Guven Sak | **DOCUMENTATO** | TEPAV founder, TOBB ETU Rector, TCMB MPC 2001-06 |
+| rifat-hisarciklioglu | Rifat Hisarciklioglu | stub | President TOBB 2001-, WCF 2023- |
+| fatih-karahan | Fatih Karahan | stub | TCMB Governor 2024-, ex-Fed NY |
+| durmus-yilmaz | Durmus Yilmaz | stub | TCMB Governor 2006-11, CB Gov of Year 2009 |
+| hafize-gaye-erkan | Hafize Gaye Erkan | stub | TCMB Governor 2023-24, prima donna |
+| **nihat-ali-ozcan** | Nihat Ali Ozcan | **DOCUMENTATO** | TEPAV security, TOBB ETU, ex-TSK, primo su PKK |
+| **haluk-gorgun** | Haluk Gorgun | **DOCUMENTATO** | President SSB 2023-, ex-CEO Aselsan, PhD RPI |
+| **ihsan-kaya** | Ihsan Kaya | **DOCUMENTATO** | Deputy President SSB, Chairman STM, dual-hatting |
+| **ozgur-guleryuz** | Ozgur Guleryuz | **DOCUMENTATO** | General Manager STM, ex-Nokia Finland, ex-Aselsan |
+| ismail-demir | Ismail Demir | stub | Ex-President SSB 2014-2023, sanzioni CAATSA |
 
 ### Organizzazioni (create)
 
 | ID | Type | Status | Note |
 |----|------|--------|------|
+| **governo-turchia** | Government | **DOCUMENTATO** | Sistema presidenziale 2018, gabinetto Erdogan |
 | turkiye-wealth-fund | SWF | **DOCUMENTATO** | Scheda completa |
 | tusiad | Forum | **DOCUMENTATO** | Scheda completa |
+| **baykar** | Defense | **DOCUMENTATO** | Leader mondiale droni, Bayraktar |
 | koc-holding | Company | stub | Conglomerato Koc |
 | sabanci-holding | Company | stub | Conglomerato Sabanci |
-| tupras | Company | stub | Oil refinery, Koc, Omer Koc chairman |
+| dogus-holding | Company | stub | Conglomerato Sahenk, Garanti venduta |
+| **tupras** | Company | **DOCUMENTATO** | Maggiore raffineria Turchia, Koc 51%, Omer Koc chairman |
+| **ford-otosan** | Automaker | **DOCUMENTATO** | JV Ford-Koc dal 1959, prima auto turca (Anadol 1966) |
+| **yapi-kredi** | Bank | **DOCUMENTATO** | 4a banca turca, Koc 61.2%, trattative FAB $8B |
+| garanti-bbva | Bank | gia' esistente | Ex-Dogus, ora BBVA 86% |
+| **piaggio-aerospace** | Defense | stub | Acquisita da Baykar 2024, Italia |
+| **fenerbahce** | SportsClub | stub | Ali Koc presidente 2018- |
+| **upenn** | University | stub | Selcuk Bayraktar MS |
 | deva | Forum | stub | Partito Babacan 2020 |
+| first-abu-dhabi-bank | Bank | stub | UAE, potenziale acquirente Yapi Kredi $8B |
+| vehbi-koc-foundation | Foundation | stub | Prima fondazione privata turca (1969) |
+| suna-inan-kirac-foundation | Foundation | stub | Pera Museum, Istanbul Research Institute |
+| kazim-taskent | Person | stub | Fondatore Yapi Kredi (1944) |
+| inan-kirac | Person | stub | Marito Suna Kirac, Pera Museum |
 | ziraat-bank | Bank | stub | Portfolio TVF |
 | halkbank | Bank | stub | Portfolio TVF, scandalo 2013 |
 | borsa-istanbul | Company | stub | Portfolio TVF |
 | botas | Company | stub | Portfolio TVF |
 | tpao | Company | stub | Portfolio TVF |
 | turk-telekom | Company | stub | Portfolio TVF |
+| **tcmb** | CentralBank | **DOCUMENTATO** | Banca centrale, indipendente 2001, IT 2006 |
+| **tepav** | ThinkTank | **DOCUMENTATO** | Think tank TOBB, T20 coordinator 2015 |
+| tobb | Forum | **CREATO** | 365 camere, 2M aziende, Hisarciklioglu |
+| tobb-etu | University | **CREATO** | Universita' TOBB, Guven Sak rector |
+| g20 | Forum | **CREATO** | Group of Twenty |
+| erf | ThinkTank | **CREATO** | Economic Research Forum, Cairo |
+| **tskgv** | Foundation | **DOCUMENTATO** | Turkish Armed Forces Foundation, Erdogan chairman 2017 |
+| **stm** | Defense | **DOCUMENTATO** | STM Savunma, SSB 34%, naval/UAV/cyber |
+| **ssb** | Agency | **DOCUMENTATO** | Defence Industry Agency, Gorgun president, SSIK, sanzioni CAATSA |
+| tai | Defense | **CREATO** | Turkish Aerospace Industries |
+| havelsan | Defense | **CREATO** | Software, C4ISR, 98% TSKGV |
+| aspilsan | Defense | **CREATO** | Batterie, 98.52% TSKGV |
+| isbir | Company | **CREATO** | Alternatori, generatori |
+| roketsan | Defense | stub | Missili, 55.5% TSKGV |
+| jamestown-foundation | ThinkTank | **CREATO** | Washington DC, Nihat Ali Ozcan analyst |
+| yildiz-technical-university | University | **CREATO** | Istanbul, Gorgun/Kaya pipeline difesa |
+| gebze-technical-university | University | **CREATO** | Kocaeli, Gorgun rector 2014-18 |
+| bilkent-university | University | **CREATO** | Ankara, Guleryuz BSc/MSc/MBA |
+| tuba | Agency | **CREATO** | Turkish Academy of Sciences, Kaya GEBIP 2019 |
 
 ### Famiglie (create)
 
 | ID | Status | Note |
 |----|--------|------|
-| koc-family | gia' esistente | Dominante Bilderberg/TUSIAD |
-| sabanci-family | gia' esistente | Trilateral Commission |
+| **koc** | **DOCUMENTATO** | Scheda completa, 4 generazioni, Bilderberg/TUSIAD |
+| **sahenk** | **CREATO** | Dogus Group, exit Garanti $8B, Galataport |
+| sabanci | stub | Trilateral Commission |
 
 ### Da creare
 
 | Tipo | ID | Note |
 |------|-----|------|
 | Person | ahmet-zorlu | Zorlu Chairman |
-| Person | vehbi-koc | Fondatore Koc |
+| Family | bayraktar | Nuova dinastia difesa/Erdogan |
 | Company | zorlu-holding | Conglomerato |
 | Company | dogan-holding | Media/e-commerce |
-| Family | sahenk-family | Dogus |
-| Family | zorlu-family | Zorlu |
-| Family | dogan-family | Media |
-| CentralBank | tcmb | Banca centrale
+| Family | zorlu | Zorlu |
+| Family | dogan | Media |
 
 ---
 
@@ -551,6 +1153,9 @@ La famiglia Koc ha controllato il High Advisory Council per 43 dei 53 anni di st
 - [Trilateral Commission - Guler Sabanci](https://www.trilateral.org/people/guler-sabanci/)
 - [WEF - Ali Babacan](https://www.weforum.org/people/ali-babacan/)
 - [TVF - Board of Directors](https://www.tvf.com.tr/en/who-we-are/board-and-management/board-of-directors)
+- [TCMB - Governors](https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/About+the+Bank/History/Governors)
+- [TEPAV - Sito ufficiale](https://www.tepav.org.tr/en)
+- [TOBB - Sito ufficiale](https://www.tobb.org.tr/)
 
 ### Media
 - [Forbes Turkey Richest 2024](https://www.turkiyetoday.com/business/turkiyes-wealthiest-2024-63684)
@@ -561,7 +1166,20 @@ La famiglia Koc ha controllato il High Advisory Council per 43 dei 53 anni di st
 - [Middle East Institute - Turkey Deep State](https://www.mei.edu/publications/turkeys-deep-state-and-ergenekon-conundrum)
 - [CFR - Turkey Foreign Policy](https://www.cfr.org/backgrounder/turkeys-growing-foreign-policy-ambitions)
 - [Washington Institute - Erdogan's Wars](https://www.washingtoninstitute.org/policy-analysis/coming-erdogans-fourth-war-control-akps-looming-showdown-turkeys-nationalists)
+- [Defence Turkey - TSKGV Backbone](https://www.defenceturkey.com/en/content/turkish-armed-forces-foundation-compose-backbone-of-turkish-defense-industries-with-power-of-its-subsidiaries-affiliates-4692)
+- [Defense News - Erdogan Decree 2017](https://www.defensenews.com/industry/2017/12/27/turkeys-erdogan-decrees-sweeping-defense-procurement-takeover/)
+- [Carnegie - Military Businesses Turkey](https://carnegieendowment.org/research/2020/06/two-paths-to-dominance-military-businesses-in-turkey-and-egypt)
+- [Jamestown Foundation - Nihat Ali Ozcan](https://jamestown.org/analyst/nihat-ali-ozcan/)
+- [STM Defence](https://www.stm.com.tr/en)
+- [SSB - Defence Industry Agency](https://www.ssb.gov.tr/)
+- [Defence Turkey - SSB 2024-2025 Goals](https://www.defenceturkey.com/en/content/ssb-s-2024-evaluation-2025-goals-6214)
+- [TURDEF - Youngest VP SSB Ihsan Kaya](https://turdef.com/article/the-youngest-vice-president-at-ssb-ihsan-kaya)
+- [TURDEF - Professor Gorgun New President SSB](https://turdef.com/article/professor-gorgun-new-president-of-ssb)
+- [Anadolu Agency - Gorgun Appointment](https://www.aa.com.tr/en/turkiye/turkiye-names-new-head-of-defense-industry-agency/2915114)
+- [TRT World - Guleryuz TEKNOFEST Interview](https://www.trtworld.com/article/8329b105055b)
+- [ResearchGate - Haluk Gorgun Publications](https://www.researchgate.net/scientific-contributions/Haluk-Gorgun-10702464)
+- [Norton Rose - CAATSA Sanctions on SSB](https://www.nortonrosefulbright.com/en-pl/knowledge/publications/852a1100/us-imposes-caatsa-sanctions-on-turkish-ssb-and-related-officers)
 
 ---
 
-*Ultimo aggiornamento: 29 Dicembre 2025*
+*Ultimo aggiornamento: 10 Gennaio 2026*

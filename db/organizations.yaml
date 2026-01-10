@@ -643,6 +643,22 @@ organizations:
       from: 2005
       to: 2008
       note: Research Fellow, Asia policy and security assistance
+  aeoi:
+    name: Atomic Energy Organization of Iran
+    type: agency
+    founded: 1974
+    headquarters: Tehran
+    status: active
+    stakeholders:
+    - person: fereydoun-abbasi
+      role: chairman
+      from: 2011
+      to: 2013
+    - person: mohsen-fakhrizadeh
+      role: scientist
+      from: 1990
+      to: 2020
+      note: head of nuclear weapons program AMAD
   aeritalia:
     name: Aeritalia
     type: defense
@@ -2431,12 +2447,26 @@ organizations:
     status: active
     sector: defense
     stakeholders:
+    - person: ozgur-guleryuz
+      role: member
+      from: 2003
+      to: 2007
+      note: Communication, information security, cyber security, crypto projects
+    - person: haluk-gorgun
+      role: chairman
+      from: 2018
+      to: 2023
+      note: Chairman Board of Directors, CEO 2017-2023
     - org: blackrock
       share: 1.5%
       note: Via iShares MSCI Turkey ETF
     - org: vanguard
       share: 1.0%
       note: Via VWO Emerging Markets ETF
+    - org: tskgv
+      role: shareholder
+      share: 74.2
+      note: Majority shareholder
   ashok-leyland:
     name: Ashok Leyland
     type: company
@@ -2639,6 +2669,27 @@ organizations:
     - person: bogdan-aurescu
       role: member
       note: Speaker
+  aspilsan:
+    name: Aspilsan Enerji
+    type: defense
+    founded: 1981
+    headquarters: Kayseri, Turkey
+    status: active
+    stakeholders:
+    - org: tskgv
+      role: shareholder
+      share: 98.52
+      note: Majority shareholder
+  assembly-of-experts:
+    name: Assembly of Experts
+    type: agency
+    founded: 1979
+    headquarters: Tehran
+    status: active
+    stakeholders:
+    - person: ali-khamenei
+      role: member
+      from: 1983
   assoimmobiliare:
     name: Assoimmobiliare
     type: agency
@@ -4344,6 +4395,32 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
+  baykar:
+    name: Baykar Makina
+    type: defense
+    founded: 1984
+    headquarters: Istanbul, Turkey
+    status: active
+    sector: defense-aerospace-drones
+    note: World leader UAV/drone exports, Bayraktar TB2/Akinci/Kizilelma
+    stakeholders:
+    - person: ozdemir-bayraktar
+      role: founder
+      from: 1984
+      to: 2021
+      note: Chairman of the Board
+    - person: selcuk-bayraktar
+      role: executive
+      from: 2007
+      note: CTO, Chairman of the Board, lead designer TB2
+    - person: haluk-bayraktar
+      role: executive
+      from: 2007
+      note: CEO, President
+    - org: leonardo
+      role: partner
+      from: 2025
+      note: UAV cooperation agreement March 2025
   bbc:
     name: British Broadcasting Corporation
     type: media
@@ -5422,6 +5499,18 @@ organizations:
       note: Participant 2024
     - org: trilaterale
       role: partner
+  bilkent-university:
+    name: Bilkent University
+    type: university
+    founded: 1984
+    headquarters: Ankara, Turkey
+    status: active
+    stakeholders:
+    - person: ozgur-guleryuz
+      role: member
+      from: 1992
+      to: 1998
+      note: BSc EE 1996, MSc 1998, Research Assistant
   binance:
     name: Binance
     type: company
@@ -6076,6 +6165,13 @@ organizations:
       role: executive
       from: 2019
       note: CEO
+  bonyad-mostazafan:
+    name: Bonyad Mostazafan
+    type: foundation
+    founded: 1979
+    headquarters: Tehran
+    status: active
+    sector: conglomerate
   booz-allen-hamilton:
     name: Booz Allen Hamilton
     type: company
@@ -6433,6 +6529,16 @@ organizations:
       role: ownership
       from: 2013
       note: Iniziativa di Xi Jinping
+  brics:
+    name: BRICS
+    type: agency
+    founded: 2006
+    headquarters: Rotating
+    status: active
+    stakeholders:
+    - org: governo-iran
+      role: member
+      from: 2024
   bridgewater:
     name: Bridgewater Associates
     type: assetmanager
@@ -9348,6 +9454,11 @@ organizations:
       from: 1937
       to: 1938
       note: Research Fellow
+    - person: haluk-bayraktar
+      role: member
+      from: 2000
+      to: 2002
+      note: MS Industrial Engineering
   columbus-nova:
     type: privateequity
     headquarters: New York, USA
@@ -11146,6 +11257,10 @@ organizations:
     - person: ferit-sahenk
       role: chairman
       from: 2001
+    - person: ayhan-sahenk
+      role: founder
+      from: 1951
+      to: 2001
   doordash:
     name: DoorDash
     type: company
@@ -11829,6 +11944,12 @@ organizations:
     headquarters: Luxembourg City, Luxembourg
     status: active
     sector: development-banking
+  eiko:
+    name: Execution of Imam Khomeini Order (EIKO)
+    type: foundation
+    founded: 1989
+    headquarters: Tehran
+    status: active
   eisenhower-fellowships:
     name: Eisenhower Fellowships
     type: foundation
@@ -12452,6 +12573,16 @@ organizations:
       share: 67
       from: 1972
       note: State majority ownership via Ministry of Trade
+  erf:
+    name: Economic Research Forum
+    type: thinktank
+    headquarters: Cairo, Egypt
+    status: active
+    note: MENA region economic research network
+    stakeholders:
+    - person: guven-sak
+      role: member
+      note: Senior Associate
   ergo-global:
     type: company
     headquarters: New York, USA
@@ -13567,6 +13698,11 @@ organizations:
       role: executive
       from: 2003
       to: 2009
+    - person: fatih-karahan
+      role: executive
+      from: 2012
+      to: 2022
+      note: Economist, Labor & Product Markets advisor
     - org: jpmorgan-chase
       role: partner
     - org: warburg-pincus
@@ -13605,6 +13741,17 @@ organizations:
     - person: jose-antonio-fernandez-carbajal
       role: chairman
       from: 2001
+  fenerbahce:
+    name: Fenerbahce SK
+    type: sportsclub
+    founded: 1907
+    headquarters: Istanbul, Turkey
+    status: active
+    stakeholders:
+    - person: ali-koc
+      role: chairman
+      from: 2018
+      note: 37th president
   fenway-sports-group:
     name: Fenway Sports Group
     type: company
@@ -13947,7 +14094,7 @@ organizations:
   first-abu-dhabi-bank:
     name: First Abu Dhabi Bank
     type: bank
-    headquarters: Abu Dhabi
+    headquarters: Abu Dhabi, UAE
     status: active
     stakeholders:
     - person: sheikh-tahnoun-bin-zayed
@@ -14260,6 +14407,25 @@ organizations:
     - person: bill-ford-jr
       role: chairman
       from: 1999
+  ford-otosan:
+    name: Ford Otosan - Ford Otomotiv Sanayi A.S.
+    type: automaker
+    founded: 1959
+    headquarters: Kocaeli, Turkey
+    status: active
+    sector: automotive
+    stakeholders:
+    - person: vehbi-koc
+      role: founder
+      from: 1959
+      note: Ford dealer dal 1928
+    - org: ford-motor
+      share: 41
+      from: 1977
+      note: Equal JV partner with Koc
+    - org: koc-holding
+      share: 41
+      from: 1959
   foreign-policy-initiative:
     name: Foreign Policy Initiative
     type: thinktank
@@ -14790,6 +14956,16 @@ organizations:
       role: leader
       from: 2005
       to: 2022
+  g20:
+    name: G20 - Group of Twenty
+    type: forum
+    founded: 1999
+    headquarters: Rotating
+    status: active
+    stakeholders:
+    - person: guven-sak
+      role: advisor
+      note: T20 Migration Task Force co-chair (Germany, Japan, Argentina, Saudi Arabia presidencies)
   g30:
     name: Group of Thirty
     type: forum
@@ -14872,6 +15048,11 @@ organizations:
     headquarters: Istanbul, Turkey
     status: active
     stakeholders:
+    - person: ferit-sahenk
+      role: chairman
+      from: 2001
+      to: 2017
+      note: CEO fino 2017, famiglia vendette a BBVA ~$8B
     - org: bbva
       role: controlling
       share: 86%
@@ -15141,6 +15322,17 @@ organizations:
     type: company
     headquarters: Rapperswil-Jona, Switzerland
     sector: sanitary-products
+  gebze-technical-university:
+    name: Gebze Technical University
+    type: university
+    headquarters: Gebze, Kocaeli, Turkey
+    status: active
+    stakeholders:
+    - person: haluk-gorgun
+      role: executive
+      from: 2014
+      to: 2018
+      note: Rector
   gedeon-richter:
     name: Gedeon Richter
     type: pharma
@@ -17414,6 +17606,48 @@ organizations:
     headquarters: Tehran
     status: active
     note: Guida Suprema Khamenei. Sponsor Axis of Resistance
+    stakeholders:
+    - person: ali-khamenei
+      role: supreme-leader
+      from: 1989
+    - person: mojtaba-khamenei
+      role: advisor
+      from: 2000
+      note: gatekeeper to Supreme Leader, probable successor
+    - person: masoud-pezeshkian
+      role: president
+      from: 2024
+    - person: ebrahim-raisi
+      role: president
+      from: 2021
+      to: 2024
+    - person: mohammad-javad-zarif
+      role: foreign-minister
+      from: 2013
+      to: 2021
+    - person: abbas-araghchi
+      role: foreign-minister
+      from: 2024
+    - person: ruhollah-khomeini
+      role: supreme-leader
+      from: 1979
+      to: 1989
+    - person: mahmoud-ahmadinejad
+      role: president
+      from: 2005
+      to: 2013
+    - person: hashemi-rafsanjani
+      role: president
+      from: 1989
+      to: 1997
+    - person: mohammad-khatami
+      role: president
+      from: 1997
+      to: 2005
+    - org: governo-russia
+      role: strategic-partner
+      from: 2025
+      note: Comprehensive Strategic Partnership Treaty
   governo-irlanda:
     name: Governo di Irlanda
     type: government
@@ -19012,13 +19246,16 @@ organizations:
       to: 2011
       note: PM
   governo-turchia:
-    name: Governo della Turchia
+    name: Repubblica di Turchia
     type: government
-    headquarters: Ankara
+    founded: 1923
+    headquarters: Ankara, Turkey
+    status: active
     stakeholders:
     - person: recep-tayyip-erdogan
-      role: president
+      role: leader
       from: 2014
+      note: Presidente 2014-, PM 2003-2014
     - person: ali-babacan
       role: minister
       from: 2002
@@ -19034,6 +19271,18 @@ organizations:
       from: 1954
       to: 1957
       note: Secretary General (Undersecretary) Ministry of Foreign Affairs
+    - person: hakan-fidan
+      role: minister
+      from: 2023
+      note: Min Esteri
+    - person: mehmet-simsek
+      role: minister
+      from: 2023
+      note: Min Tesoro e Finanze
+    - person: cevdet-yilmaz
+      role: executive
+      from: 2023
+      note: Vice Presidente
   governo-uae:
     name: Governo degli Emirati Arabi Uniti
     type: government
@@ -20453,6 +20702,19 @@ organizations:
       from: 2017
       to: 2018
       note: First Indian GSMA Chairman; Board 2005-2008
+  guardian-council:
+    name: Guardian Council
+    type: agency
+    founded: 1979
+    headquarters: Tehran
+    status: active
+    stakeholders:
+    - person: ali-khamenei
+      role: supervisor
+      from: 1989
+    - person: ahmad-jannati
+      role: secretary
+      from: 1992
   guardicore:
     type: company
     headquarters: Israel
@@ -20646,6 +20908,16 @@ organizations:
       from: 1995
       to: 2000
       note: Chairman & CEO
+  hamas:
+    name: Hamas
+    type: party
+    founded: 1987
+    headquarters: Gaza
+    status: active
+    stakeholders:
+    - org: irgc
+      role: sponsor
+      from: 1992
   hanken:
     name: Hanken School of Economics
     type: thinktank
@@ -20958,6 +21230,17 @@ organizations:
       share: 31.5%
       from: 2024
       note: Post Vivendi spin-off
+  havelsan:
+    name: Havelsan
+    type: defense
+    founded: 1982
+    headquarters: Ankara, Turkey
+    status: active
+    stakeholders:
+    - org: tskgv
+      role: shareholder
+      share: 98
+      note: Majority shareholder
   haverford-college:
     name: Haverford College
     type: university
@@ -21545,6 +21828,16 @@ organizations:
       role: member
       from: 2023
       note: Baron Cameron of Chipping Norton
+  houthis:
+    name: Ansar Allah (Houthis)
+    type: party
+    founded: 1992
+    headquarters: Sanaa
+    status: active
+    stakeholders:
+    - org: irgc
+      role: sponsor
+      from: 2014
   howard-university:
     name: Howard University
     type: university
@@ -23462,6 +23755,16 @@ organizations:
     headquarters: Tehran
     status: active
     note: Pasdaran. Quds Force per operazioni estere. Sponsor Hezbollah
+    stakeholders:
+    - person: ali-khamenei
+      role: commander-in-chief
+      from: 1989
+    - person: hossein-salami
+      role: commander
+      from: 2019
+      to: 2025
+    - org: quds-force
+      role: unit
   iri:
     name: Istituto per la Ricostruzione Industriale
     type: company
@@ -23492,6 +23795,16 @@ organizations:
       from: 1933
       to: 1939
       note: Founding President
+  isbir:
+    name: Isbir Elektrik
+    type: company
+    founded: 1978
+    headquarters: Balikesir, Turkey
+    status: active
+    stakeholders:
+    - org: tskgv
+      role: shareholder
+      note: Majority shareholder
   iscar:
     name: ISCAR Metalworking
     type: company
@@ -23785,6 +24098,16 @@ organizations:
       share: 100%
       from: 2008
       note: $2.3B from Ford
+  jamestown-foundation:
+    name: Jamestown Foundation
+    type: thinktank
+    founded: 1984
+    headquarters: Washington, DC, USA
+    status: active
+    stakeholders:
+    - person: nihat-ali-ozcan
+      role: member
+      note: Analyst, Terrorism Monitor contributor
   jane:
     name: Japan Association of New Economy
     type: forum
@@ -24544,6 +24867,17 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 2.0%
+  khatam-al-anbiya:
+    name: Khatam al-Anbiya Construction Headquarters
+    type: company
+    founded: 1990
+    headquarters: Tehran
+    status: active
+    sector: construction
+    stakeholders:
+    - org: irgc
+      role: owner
+      share: 100%
   khl:
     name: Kontinental Hockey League
     type: agency
@@ -24748,6 +25082,11 @@ organizations:
     status: active
     sector: conglomerate
     stakeholders:
+    - person: suna-kirac
+      role: board
+      from: 1980
+      to: 2020
+      note: Vice Chair Board of Directors
     - person: omer-koc
       role: chairman
       from: 2016
@@ -24755,6 +25094,18 @@ organizations:
       role: chairman
       from: 2003
       to: 2016
+    - person: rahmi-koc
+      role: chairman
+      from: 1984
+      to: 2003
+      note: Honorary Chairman from 2003
+    - person: vehbi-koc
+      role: founder
+      from: 1926
+      to: 1996
+    - person: ali-koc
+      role: board
+      note: Vice Chairman
     - org: blackrock
       share: 1.5%
       note: Via iShares MSCI Turkey ETF
@@ -27590,6 +27941,11 @@ organizations:
       from: 1927
       to: 1931
       note: BS
+    - person: selcuk-bayraktar
+      role: member
+      from: 2004
+      to: 2007
+      note: MS Engineering, PhD studies (incomplete)
   mitratel:
     name: PT Dayamitra Telekomunikasi Tbk
     type: company
@@ -31380,6 +31736,18 @@ organizations:
     - org: gilead
       role: member
       note: Member company
+  piaggio-aerospace:
+    name: Piaggio Aerospace
+    type: defense
+    founded: 1884
+    headquarters: Genoa, Italy
+    status: active
+    note: Acquired by Baykar Dec 2024
+    stakeholders:
+    - org: baykar
+      role: owner
+      from: 2024
+      note: Acquired December 2024
   pif-saudi:
     name: Public Investment Fund (PIF)
     type: swf
@@ -32286,6 +32654,20 @@ organizations:
     - person: idan-ofer
       role: founder
       note: Principal owner
+  quds-force:
+    name: Quds Force
+    type: agency
+    founded: 1988
+    headquarters: Tehran
+    status: active
+    stakeholders:
+    - person: esmail-qaani
+      role: commander
+      from: 2020
+    - person: qasem-soleimani
+      role: commander
+      from: 1998
+      to: 2020
   quinenco:
     name: Quiñenco S.A.
     type: company
@@ -33360,6 +33742,20 @@ organizations:
     - person: anders-eldrup
       role: board
       note: Board member
+  roketsan:
+    name: Roketsan
+    type: defense
+    founded: 1988
+    headquarters: Ankara, Turkey
+    status: active
+    stakeholders:
+    - org: stm
+      role: affiliate
+      note: Listed affiliate
+    - org: tskgv
+      role: shareholder
+      share: 55.5
+      note: Majority shareholder
   rolls-royce:
     name: Rolls-Royce Holdings plc
     type: company
@@ -34608,6 +35004,16 @@ organizations:
       from: 2003
       to: 2018
       note: Director
+  sco:
+    name: Shanghai Cooperation Organisation
+    type: agency
+    founded: 2001
+    headquarters: Beijing
+    status: active
+    stakeholders:
+    - org: governo-iran
+      role: member
+      from: 2023
   scsp:
     name: Special Competitive Studies Project
     type: thinktank
@@ -36013,6 +36419,34 @@ organizations:
     stakeholders:
     - person: marieme-jamme
       role: founder
+  ssb:
+    name: Savunma Sanayii Baskanligi (Defence Industry Agency)
+    type: agency
+    founded: 1985
+    headquarters: Ankara, Turkey
+    status: active
+    stakeholders:
+    - person: recep-tayyip-erdogan
+      role: chairman
+      from: 2017
+      note: Chairs SSIK (Defence Industry Executive Committee)
+    - person: ihsan-kaya
+      role: executive
+      from: 2023
+      note: Deputy President
+    - person: haluk-gorgun
+      role: executive
+      from: 2023
+      note: President (Secretary of Defense Industries)
+    - person: ismail-demir
+      role: executive
+      from: 2014
+      to: 2023
+      note: Undersecretary 2014-2018, President 2018-2023
+    - org: governo-turchia
+      role: control
+      from: 2017
+      note: Affiliated to Presidency since Dec 2017
   stadler-rail:
     name: Stadler Rail
     type: company
@@ -36451,6 +36885,25 @@ organizations:
       from: 1958
       to: 1962
       note: CEO
+  stm:
+    name: STM Savunma Teknolojileri
+    type: defense
+    founded: 1991
+    headquarters: Ankara, Turkey
+    status: active
+    sector: defense
+    stakeholders:
+    - person: ihsan-kaya
+      role: chairman
+      note: Chairman of the Board
+    - person: ozgur-guleryuz
+      role: executive
+      from: 2007
+      note: Specialist Engineer 2007, Deputy GM 2019, General Manager 2020-
+    - org: ssb
+      role: shareholder
+      share: 34
+      from: 1991
   stmicroelectronics:
     name: STMicroelectronics
     type: company
@@ -36627,6 +37080,20 @@ organizations:
       role: founder
       from: 1983
       note: Managing Director. 54.4% stake
+  suna-inan-kirac-foundation:
+    name: Suna and Inan Kirac Foundation
+    type: foundation
+    founded: 2003
+    headquarters: Istanbul, Turkey
+    status: active
+    stakeholders:
+    - person: suna-kirac
+      role: founder
+      from: 2003
+      to: 2020
+    - person: inan-kirac
+      role: founder
+      from: 2003
   susquehanna:
     name: Susquehanna International Group
     type: privateequity
@@ -36837,6 +37304,16 @@ organizations:
     stakeholders:
     - person: andre-hoffmann
       role: board
+  tai:
+    name: Turkish Aerospace Industries (TAI/TUSAS)
+    type: defense
+    founded: 1984
+    headquarters: Ankara, Turkey
+    status: active
+    stakeholders:
+    - org: tskgv
+      role: shareholder
+      note: Major shareholder (joint venture with govt)
   taj-hotels:
     name: Indian Hotels Company (Taj Hotels)
     type: company
@@ -37006,6 +37483,38 @@ organizations:
     stakeholders:
     - person: charoen-sirivadhanabhakdi
       role: chairman
+  tcmb:
+    name: TCMB - Central Bank of the Republic of Turkey
+    type: centralbank
+    founded: 1930
+    headquarters: Ankara, Turkey
+    status: active
+    note: Independent since 2001 reform, inflation targeting since 2006
+    stakeholders:
+    - person: kemal-dervis
+      role: advisor
+      from: 2001
+      to: 2002
+      note: Architect of 2001 reform, granted CB independence
+    - person: guven-sak
+      role: board
+      from: 2001
+      to: 2006
+      note: Founding external member, Monetary Policy Committee
+    - person: fatih-karahan
+      role: executive
+      from: 2024
+      note: Governor
+    - person: durmus-yilmaz
+      role: executive
+      from: 2006
+      to: 2011
+      note: Governor, CB Governor of Year 2009
+    - person: hafize-gaye-erkan
+      role: executive
+      from: 2023
+      to: 2024
+      note: Governor, first female
   tcp-group:
     name: TC Pharmaceutical / TCP Group
     type: company
@@ -37508,6 +38017,26 @@ organizations:
       role: board
       to: 2014
       note: Board of Directors
+  tepav:
+    name: TEPAV - Economic Policy Research Foundation of Turkey
+    type: thinktank
+    founded: 2004
+    headquarters: Ankara, Turkey
+    status: active
+    note: Founded by TOBB, largest economic policy think tank in Turkey
+    stakeholders:
+    - person: guven-sak
+      role: founder
+      from: 2004
+      note: Founding Managing Director
+    - person: nihat-ali-ozcan
+      role: advisor
+      from: 2005
+      note: Consultant Area Studies Program
+    - org: tobb
+      role: founder
+      from: 2004
+      note: TEPAV established by TOBB
   terna:
     name: Terna S.p.A.
     type: company
@@ -38106,6 +38635,39 @@ organizations:
       role: founder
       from: 2004
       note: Co-founder, shareholder
+  tobb:
+    name: TOBB - Union of Chambers and Commodity Exchanges of Turkey
+    type: forum
+    founded: 1950
+    headquarters: Ankara, Turkey
+    status: active
+    note: Largest non-profit business organization in Turkey, 365 chambers, 2M+ companies
+    stakeholders:
+    - person: rifat-hisarciklioglu
+      role: chairman
+      from: 2001
+      note: President since 2001, re-elected 7 times
+    - person: haluk-gorgun
+      role: chairman
+      note: President, Defence Industry Council
+  tobb-etu:
+    name: TOBB University of Economics and Technology
+    type: university
+    founded: 2006
+    headquarters: Ankara, Turkey
+    status: active
+    note: Founded by TOBB
+    stakeholders:
+    - person: guven-sak
+      role: executive
+      from: 2006
+      note: Rector, Professor of Public Economics
+    - person: nihat-ali-ozcan
+      role: member
+      note: Associate Professor
+    - org: tobb
+      role: founder
+      from: 2006
   toka:
     type: company
     founded: 2018
@@ -38671,6 +39233,24 @@ organizations:
     - person: michael-dell
       role: advisor
       note: Advisory Board, School of Economics and Management
+  tskgv:
+    name: Turkish Armed Forces Foundation (TSKGV)
+    type: foundation
+    founded: 1987
+    headquarters: Ankara, Turkey
+    status: active
+    stakeholders:
+    - person: recep-tayyip-erdogan
+      role: chairman
+      from: 2017
+      note: Board Chairman by decree 696
+    - person: haluk-gorgun
+      role: board
+      from: 2023
+      note: Member Board of Trustees, Chairman Board of Directors
+    - org: governo-turchia
+      role: control
+      note: State-controlled foundation under Presidency since 2017
   tsmc:
     name: TSMC
     type: company
@@ -38721,19 +39301,37 @@ organizations:
     - person: peter-wennink
       role: chairman
       note: Chairman Supervisory Board
+  tuba:
+    name: Turkish Academy of Sciences (TUBA)
+    type: agency
+    headquarters: Ankara, Turkey
+    status: active
+    stakeholders:
+    - person: ihsan-kaya
+      role: member
+      from: 2019
+      note: GEBIP Outstanding Young Scientist Award 2019
+    - person: haluk-gorgun
+      role: member
+      from: 2012
+      note: Associate Member
   tupras:
-    name: Tupras
+    name: Tupras - Turkiye Petrol Rafinerileri A.S.
     type: company
     founded: 1983
     headquarters: Kocaeli, Turkey
     status: active
-    sector: oil refining
+    sector: oil-refining
     note: Largest oil refinery Turkey, Koc Holding subsidiary
     stakeholders:
     - person: omer-koc
       role: chairman
       from: 2008
       note: Chairman Board of Directors
+    - org: koc-holding
+      share: 51
+      from: 2006
+      note: Via Enerji Yatirimlari A.S.
   turk-telekom:
     name: Turk Telekom
     type: company
@@ -38822,6 +39420,20 @@ organizations:
       role: chairman
       from: 2001
       to: 2004
+      note: Chairman 2001-2004, High Advisory Council Chair 2007-2014
+    - person: rahmi-koc
+      role: chairman
+      from: 1997
+      to: 2006
+      note: High Advisory Council Chair
+    - person: vehbi-koc
+      role: chairman
+      from: 1971
+      to: 1979
+      note: High Advisory Council Chair, fondatore
+    - person: ali-koc
+      role: member
+      note: Koc Holding representative
   tv-azteca:
     name: TV Azteca
     type: media
@@ -39635,6 +40247,17 @@ organizations:
     stakeholders:
     - person: jane-mcadam
       role: professor
+  upenn:
+    name: University of Pennsylvania
+    type: university
+    headquarters: Philadelphia, USA
+    status: active
+    stakeholders:
+    - person: selcuk-bayraktar
+      role: member
+      from: 2002
+      to: 2004
+      note: MS Engineering
   upm-kymmene:
     name: UPM-Kymmene
     type: company
@@ -39957,6 +40580,15 @@ organizations:
       role: board
       from: 2024
       note: Member Supervisory Board
+  vehbi-koc-foundation:
+    name: Vehbi Koc Foundation
+    type: foundation
+    founded: 1969
+    headquarters: Istanbul, Turkey
+    status: active
+    stakeholders:
+    - person: suna-kirac
+      role: board
   venice-commission:
     name: Venice Commission (European Commission for Democracy through Law)
     type: agency
@@ -42055,6 +42687,8 @@ organizations:
     - org: mufg
       role: partner
       note: WEF Partner 2026
+    - org: tupras
+      role: member
     - org: unitedhealth
       role: partner
   weg:
@@ -42777,6 +43411,21 @@ organizations:
     type: company
     headquarters: New York, USA
     status: active
+  yapi-kredi:
+    name: Yapi ve Kredi Bankasi A.S.
+    type: bank
+    founded: 1944
+    headquarters: Istanbul, Turkey
+    status: active
+    sector: banking
+    stakeholders:
+    - person: kazim-taskent
+      role: founder
+      from: 1944
+    - org: koc-holding
+      share: 61.2
+      from: 2006
+      note: Via Koc Finansal Hizmetler; UniCredit exited 2021
   yara:
     name: Yara International ASA
     type: company
@@ -42823,6 +43472,21 @@ organizations:
     - org: redbird-capital
       role: investor
       note: Yankees, Amazon partnership
+  yildiz-technical-university:
+    name: Yildiz Technical University
+    type: university
+    headquarters: Istanbul, Turkey
+    status: active
+    stakeholders:
+    - person: ihsan-kaya
+      role: executive
+      from: 2018
+      note: Professor Industrial Engineering, Dean of Faculty 2021-
+    - person: haluk-gorgun
+      role: member
+      from: 2005
+      to: 2014
+      note: Professor, Founding Chair Control & Automation Dept 2009-2013
   yitu:
     name: Yitu Technology
     type: company

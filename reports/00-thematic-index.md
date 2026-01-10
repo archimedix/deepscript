@@ -262,6 +262,37 @@ Report focalizzati su specifiche aree geografiche.
 
 ---
 
+## Medio Oriente
+
+Report e analisi specifiche sul Medio Oriente.
+
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Iran Power Map](iran-power-map.md) | 1979-2025 | Teocrazia, IRGC, proxy, pivot verso Est |
+| [Israel Power Map](israel-power-map.md) | 1948-2025 | Sicurezza, tech, diaspora |
+| [Saudi Arabia Power Map](saudi-arabia-power-map.md) | 1932-2025 | MBS, Vision 2030, PIF |
+| [UAE Power Map](uae-power-map.md) | 1971-2025 | Abu Dhabi, Dubai, Mubadala |
+| [Bahrain Power Map](bahrain-power-map.md) | 1971-2025 | Al Khalifa, finanza |
+| [Lebanon Power Map](lebanon-power-map.md) | 1943-2025 | Confessionalismo, Hezbollah, dinastie |
+
+**Iran - Figure chiave:**
+- [Ali Khamenei](../docs/persons/ali-khamenei.md) - Leader Supremo 1989-
+- [Mojtaba Khamenei](../docs/persons/mojtaba-khamenei.md) - Probabile successore
+- [Qasem Soleimani](../docs/persons/qasem-soleimani.md) - Quds Force, assassinato 2020
+- [Esmail Qaani](../docs/persons/esmail-qaani.md) - Quds Force 2020-
+
+**Iran - Organizzazioni:**
+- [IRGC](../docs/agency/irgc.md) - Guardie Rivoluzionarie
+- [Quds Force](../docs/agency/quds-force.md) - Operazioni estere
+- [Bonyad Mostazafan](../docs/foundation/bonyad-mostazafan.md) - Conglomerato para-statale
+
+**Axis of Resistance:**
+- [Hezbollah](../docs/party/hezbollah.md) - Libano, sponsor Iran dal 1982
+- [Hamas](../docs/party/hamas.md) - Gaza, supporto Iran
+- [Houthis](../docs/party/houthis.md) - Yemen, alleato Iran 2014-
+
+---
+
 ## Ungheria
 
 Report e analisi specifiche sull'Ungheria.
@@ -328,6 +359,12 @@ Mappe di potere regionali:
 - [Spain Power Map](spain-power-map.md)
 - [Switzerland Power Map](switzerland-power-map.md)
 - [Austria Power Map](austria-power-map.md)
+- [Iran Power Map](iran-power-map.md)
+- [Israel Power Map](israel-power-map.md)
+- [Saudi Arabia Power Map](saudi-arabia-power-map.md)
+- [UAE Power Map](uae-power-map.md)
+- [Bahrain Power Map](bahrain-power-map.md)
+- [Lebanon Power Map](lebanon-power-map.md)
 
 ### Report Settoriali
 Analisi di industrie specifiche:
@@ -342,7 +379,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 42 |
+| **Report totali** | 43 |
 | **Eventi documentati** | 30+ |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |
@@ -355,11 +392,11 @@ Analisi di industrie specifiche:
 |------|--------------|
 | **Vietnam** | Report su operazioni CIA Vietnam |
 | **Sud America** | Operation Condor, dittature |
-| **Russia post-Soviet** | Transizione 1990s, oligarchi |
-| **Cina** | Ascesa economica, CCP-business |
 | **Guerra al Terrore** | Afghanistan, Iraq, GWOT |
 | **Energia** | Petrolio, nucleare, transizione |
-| **Tech Giants** | Google, Amazon, Meta |
+| **Tech Giants** | Google, Amazon, Meta (oltre Big Tech esistente) |
+| **Africa** | Neo-colonialismo, risorse, Cina-Africa |
+| **Pakistan** | ISI, nucleare, Afghanistan |
 
 ---
 
