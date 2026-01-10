@@ -20,6 +20,13 @@ events:
     year: 1944
     type: conferenza
     location: New Hampshire
+  1953-operation-ajax:
+    year: 1953
+    month: 8
+    type: coup
+    location: Iran
+    outcome: success
+    note: Colpo di stato CIA-MI6 che rovescio Mossadegh e reinstallo lo Shah
   1971-fine-bretton-woods:
     year: 1971
     type: decisione
@@ -151,3 +158,14 @@ events:
     type: crisi
     location: globale
     outcome: great-reset
+  2025-iran-protests:
+    year: 2025
+    type: uprising
+    location: Iran
+    outcome: ongoing
+  2025-munich-convergence-summit:
+    year: 2025
+    month: 2
+    type: conference
+    location: Munich, Germany
+    outcome: Pahlavi designated transitional leader

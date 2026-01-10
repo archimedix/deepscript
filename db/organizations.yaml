@@ -8709,6 +8709,17 @@ organizations:
       from: 1995
       to: 2011
       note: Associate Deputy Director, Dir S&T
+    - person: mohammad-reza-pahlavi
+      role: asset
+      from: 1953
+      to: 1979
+      note: Reinstallato da Operation Ajax 1953, SAVAK addestrata da CIA
+    - person: kermit-roosevelt
+      role: officer
+      from: 1950
+      to: 1958
+    - person: donald-wilber
+      role: officer
     - org: oss
       role: predecessor
       from: 1942
@@ -17600,12 +17611,12 @@ organizations:
       from: 2024
       note: Head National Economic Council (Prabowo)
   governo-iran:
-    name: Islamic Republic of Iran
+    name: Repubblica Islamica dell'Iran
     type: government
     founded: 1979
     headquarters: Tehran
     status: active
-    note: Guida Suprema Khamenei. Sponsor Axis of Resistance
+    note: Guida Suprema Khamenei. Sistema velayet-e faqih (tutela del giureconsulto). Sponsor Axis of Resistance.
     stakeholders:
     - person: ali-khamenei
       role: supreme-leader
@@ -17628,6 +17639,10 @@ organizations:
     - person: abbas-araghchi
       role: foreign-minister
       from: 2024
+    - person: ahmad-jannati
+      role: board
+      from: 1980
+      note: Segretario Guardian Council, Presidente Assembly of Experts
     - person: ruhollah-khomeini
       role: supreme-leader
       from: 1979
@@ -17644,10 +17659,28 @@ organizations:
       role: president
       from: 1997
       to: 2005
+    - person: mohammad-reza-aref
+      role: vice-president
+      from: 2024
+      note: First Vice President
+    - person: hassan-rouhani
+      role: president
+      from: 2013
+      to: 2021
+    - person: esmail-khatib
+      role: minister
+      from: 2021
+      note: Ministro Intelligence (MOIS), confermato da Pezeshkian su richiesta Khamenei
     - org: governo-russia
       role: strategic-partner
       from: 2025
       note: Comprehensive Strategic Partnership Treaty
+    - org: irgc
+      role: controlled
+      note: Riporta direttamente alla Guida Suprema
+    - org: impero-pahlavi
+      role: predecessor
+      note: Rovesciato dalla Rivoluzione Islamica 1979
   governo-irlanda:
     name: Governo di Irlanda
     type: government
@@ -21505,6 +21538,9 @@ organizations:
       role: deputy
       from: 1991
       to: 2024
+    - org: governo-iran
+      role: sponsor
+      note: Axis of Resistance, finanziamento e armamento via IRGC
     - org: irgc
       role: sponsor
       from: 1982
@@ -22821,6 +22857,49 @@ organizations:
       from: 1999
       to: 2005
       note: Director Monetary & Financial Systems Dept
+  impero-pahlavi:
+    name: Imperial State of Iran
+    type: government
+    founded: 1925
+    headquarters: Tehran
+    status: defunct
+    note: Dinastia Pahlavi 1925-1979, rovesciata dalla Rivoluzione Islamica
+    stakeholders:
+    - person: mohammad-reza-pahlavi
+      role: leader
+      from: 1941
+      to: 1979
+      note: Shahanshah (Re dei Re), Aryamehr (Luce degli Ariani)
+    - person: reza-shah-pahlavi
+      role: founder
+      from: 1925
+      to: 1941
+      note: Shah fondatore, abdicazione forzata 1941 per invasione anglo-sovietica
+    - person: amir-abbas-hoveyda
+      role: prime-minister
+      from: 1965
+      to: 1977
+      note: PM piu' longevo storia Iran, 12 anni. Eseguito 1979.
+    - person: shapour-bakhtiar
+      role: prime-minister
+      from: 1979
+      to: 1979
+      note: Ultimo PM, 37 giorni. Assassinato a Parigi 1991 da agenti iraniani.
+    - person: mohammad-mossadegh
+      role: prime-minister
+      from: 1951
+      to: 1953
+      note: Nazionalizzo' petrolio. Deposto da colpo CIA-MI6 Operation Ajax.
+    - person: fazlollah-zahedi
+      role: executive
+      from: 1953
+      to: 1955
+      note: Primo Ministro post-colpo
+    - org: cia
+      role: sponsor
+      from: 1953
+      to: 1979
+      note: Operation Ajax 1953, addestramento SAVAK, supporto regime
   impresa:
     name: Impresa
     type: media
@@ -23735,6 +23814,17 @@ organizations:
     - person: douglas-flint
       role: chairman
       from: 2018
+  iran-national-council:
+    name: Iran National Council for Free Elections
+    type: forum
+    founded: 2013
+    headquarters: Paris, France
+    status: dormant
+    stakeholders:
+    - person: reza-pahlavi
+      role: founder
+      from: 2013
+      note: Co-founder, Spokesman
   ird:
     name: Information Research Department
     type: agency
@@ -23749,20 +23839,34 @@ organizations:
       to: 1949
       note: Forni lista 38 nomi crypto-comunisti
   irgc:
-    name: Islamic Revolutionary Guard Corps
+    name: Islamic Revolutionary Guard Corps (Pasdaran)
     type: agency
     founded: 1979
     headquarters: Tehran
     status: active
-    note: Pasdaran. Quds Force per operazioni estere. Sponsor Hezbollah
+    note: Forze armate parallele, 150-190k effettivi. Include Quds Force per operazioni esterne.
     stakeholders:
     - person: ali-khamenei
       role: commander-in-chief
       from: 1989
+    - person: qasem-soleimani
+      role: commander
+      from: 1998
+      to: 2020
+      note: Comandante Quds Force, ucciso drone USA Baghdad
     - person: hossein-salami
       role: commander
       from: 2019
       to: 2025
+      note: Comandante in capo IRGC, ucciso raid israeliano
+    - person: esmail-ghaani
+      role: commander
+      from: 2020
+      note: Comandante Quds Force
+    - person: ahmad-vahidi
+      role: deputy-commander
+      from: 2025
+      note: Implicato attentato AMIA 1994, ex capo Quds Force
     - org: quds-force
       role: unit
   iri:

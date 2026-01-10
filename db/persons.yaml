@@ -236,9 +236,21 @@ persons:
     born: 1927
     nationality: IRN
     affiliations:
+    - org: governo-iran
+      role: board
+      from: 1980
+      note: Segretario Guardian Council, Presidente Assembly of Experts
     - org: guardian-council
       role: secretary
       from: 1992
+  ahmad-vahidi:
+    born: 1958
+    nationality: IRN
+    affiliations:
+    - org: irgc
+      role: deputy-commander
+      from: 2025
+      note: Implicato attentato AMIA 1994, ex capo Quds Force
   aiman-al-mudaifer:
     nationality: SAU
     note: CEO NEOM dal 2025. Ex capo Local Real Estate Investment Division di PIF dal 2018.
@@ -1162,6 +1174,10 @@ persons:
     - org: wef
       role: ygl
       from: 2024
+  ali-reza-pahlavi:
+    born: 1966
+    died: 2011
+    nationality: IRN-USA
   alice-walton:
     born: 1949
     nationality: USA
@@ -1447,6 +1463,16 @@ persons:
       type: father
     - person: samy-gemayel
       type: father
+  amir-abbas-hoveyda:
+    born: 1919
+    died: 1979
+    nationality: IRN
+    affiliations:
+    - org: impero-pahlavi
+      role: prime-minister
+      from: 1965
+      to: 1977
+      note: PM piu' longevo storia Iran, 12 anni. Eseguito 1979.
   amir-peretz:
     born: 1952
     nationality: ISR
@@ -7466,6 +7492,14 @@ persons:
     - person: radoslaw-sikorski
       type: colleague
       note: Sikorski Min. Esteri nei governi Tusk
+  donald-wilber:
+    born: 1907
+    died: 1997
+    nationality: USA
+    note: Pianificatore CIA, autore del piano Operation Ajax
+    affiliations:
+    - org: cia
+      role: officer
   dora-bakoyannis:
     born: 1954
     nationality: GRC
@@ -8856,6 +8890,22 @@ persons:
       from: 1961
       to: 1963
       note: President
+  esmail-ghaani:
+    born: 1957
+    nationality: IRN
+    affiliations:
+    - org: irgc
+      role: commander
+      from: 2020
+      note: Comandante Quds Force
+  esmail-khatib:
+    born: 1961
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: minister
+      from: 2021
+      note: Ministro Intelligence (MOIS), confermato da Pezeshkian su richiesta Khamenei
   esmail-qaani:
     born: 1957
     nationality: IRN
@@ -9196,6 +9246,20 @@ persons:
       role: executive
       from: 1992
       note: Chairman & CEO since 2012, joined 1992
+  farah-pahlavi:
+    born: 1938
+    nationality: IRN
+    family: pahlavi
+  farah-pahlavi-jr:
+    born: 2004
+    nationality: USA
+    family: pahlavi
+    relations:
+    - person: reza-pahlavi
+      type: father
+  farahnaz-pahlavi:
+    born: 1963
+    nationality: IRN-USA
   fatih-karahan:
     born: 1982
     nationality: TUR
@@ -9210,6 +9274,17 @@ persons:
       role: executive
       from: 2024
       note: Governor
+  fazlollah-zahedi:
+    born: 1892
+    died: 1963
+    nationality: IRN
+    note: Generale, divenne PM dopo il colpo di stato 1953
+    affiliations:
+    - org: impero-pahlavi
+      role: executive
+      from: 1953
+      to: 1955
+      note: Primo Ministro post-colpo
   federica-mogherini:
     born: 1973
     nationality: ITA
@@ -12239,6 +12314,14 @@ persons:
       role: leader
       from: 1992
       to: 2024
+  hassan-rouhani:
+    born: 1948
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: president
+      from: 2013
+      to: 2021
   hasso-plattner:
     born: 1944
     nationality: DEU
@@ -12977,6 +13060,7 @@ persons:
       role: commander
       from: 2019
       to: 2025
+      note: Comandante in capo IRGC, ucciso raid israeliano
   howard-kohr:
     born: 1955
     nationality: USA
@@ -13379,6 +13463,13 @@ persons:
       from: 2015
       to: 2024
       note: Co-founder, Chief Scientist until 2024
+  iman-pahlavi:
+    born: 1993
+    nationality: USA
+    family: pahlavi
+    relations:
+    - person: reza-pahlavi
+      type: father
   inan-kirac:
     born: 1937
     nationality: TUR
@@ -17419,6 +17510,16 @@ persons:
       from: 1976
       to: 2002
       note: Chairman of Thomson Corporation
+  kermit-roosevelt:
+    born: 1916
+    died: 2000
+    nationality: USA
+    note: Nipote di Theodore Roosevelt, capo operativo CIA per Operation Ajax
+    affiliations:
+    - org: cia
+      role: officer
+      from: 1950
+      to: 1958
   ketevan-bochorishvili:
     nationality: GEO
     note: CEO Anaklia City
@@ -18613,6 +18714,10 @@ persons:
       role: founder
       from: 1927
       to: 1974
+  leila-pahlavi:
+    born: 1970
+    died: 2001
+    nationality: IRN-USA
   leo-strauss:
     born: 1899
     died: 1973
@@ -22479,6 +22584,70 @@ persons:
       role: president
       from: 1997
       to: 2005
+  mohammad-mossadegh:
+    born: 1882
+    died: 1967
+    nationality: IRN
+    affiliations:
+    - org: impero-pahlavi
+      role: prime-minister
+      from: 1951
+      to: 1953
+      note: Nazionalizzo' petrolio. Deposto da colpo CIA-MI6 Operation Ajax.
+    relations:
+    - person: mohammad-reza-pahlavi
+      type: adversary
+      note: PM nazionalista deposto, Shah lo fece processare
+  mohammad-reza-aref:
+    born: 1951
+    nationality: IRN
+    affiliations:
+    - org: governo-iran
+      role: vice-president
+      from: 2024
+      note: First Vice President
+  mohammad-reza-pahlavi:
+    born: 1919
+    died: 1980
+    nationality: IRN
+    family: pahlavi
+    affiliations:
+    - org: cia
+      role: asset
+      from: 1953
+      to: 1979
+      note: Reinstallato da Operation Ajax 1953, SAVAK addestrata da CIA
+    - org: impero-pahlavi
+      role: leader
+      from: 1941
+      to: 1979
+      note: Shahanshah (Re dei Re), Aryamehr (Luce degli Ariani)
+    relations:
+    - person: ali-reza-pahlavi
+      type: father
+    - person: david-rockefeller
+      type: ally
+      note: Amicizia ventennale, Chase Manhattan gestiva conti Iran, lobby per ammissione USA 1979
+    - person: farah-pahlavi
+      type: spouse
+    - person: farahnaz-pahlavi
+      type: father
+    - person: henry-kissinger
+      type: ally
+      note: Twin Pillars policy, lobby per ammissione USA 1979
+    - person: leila-pahlavi
+      type: father
+    - person: reza-pahlavi
+      type: father
+      note: Principe ereditario, oggi leader opposizione in esilio
+    - person: reza-shah-pahlavi
+      type: son
+      note: Succeduto al trono 1941 dopo abdicazione forzata del padre
+    - person: ruhollah-khomeini
+      type: adversary
+      note: Khomeini arrestato 1963, esiliato 1964, leader rivoluzione 1979
+    - person: shahnaz-pahlavi
+      type: father
   mohammed-al-jadaan:
     nationality: SAU
     note: Ministro Finanze dal 2016
@@ -23841,6 +24010,13 @@ persons:
     - org: tata-trusts
       role: chairman
       from: 2024
+  noor-pahlavi:
+    born: 1992
+    nationality: USA
+    family: pahlavi
+    relations:
+    - person: reza-pahlavi
+      type: father
   norbert-becker:
     nationality: LUX
     affiliations:
@@ -26448,6 +26624,11 @@ persons:
     died: 2020
     nationality: IRN
     affiliations:
+    - org: irgc
+      role: commander
+      from: 1998
+      to: 2020
+      note: Comandante Quds Force, ucciso drone USA Baghdad
     - org: quds-force
       role: commander
       from: 1998
@@ -27327,6 +27508,36 @@ persons:
       from: 2006
       to: 2017
       note: CEO
+  reza-pahlavi:
+    born: 1960
+    nationality: IRN-USA
+    family: pahlavi
+    affiliations:
+    - org: iran-national-council
+      role: founder
+      from: 2013
+      note: Co-founder, Spokesman
+    relations:
+    - person: farah-pahlavi
+      type: mother
+    - person: mohammad-reza-pahlavi
+      type: father
+    - person: yasmine-pahlavi
+      type: spouse
+  reza-shah-pahlavi:
+    born: 1878
+    died: 1944
+    nationality: IRN
+    family: pahlavi
+    affiliations:
+    - org: impero-pahlavi
+      role: founder
+      from: 1925
+      to: 1941
+      note: Shah fondatore, abdicazione forzata 1941 per invasione anglo-sovietica
+    relations:
+    - person: mohammad-reza-pahlavi
+      type: father
   riad-salameh:
     born: 1950
     nationality: Lebanese
@@ -29627,6 +29838,9 @@ persons:
       note: WEF Annual Meeting 2016
     - org: murgency
       role: founder
+  shahnaz-pahlavi:
+    born: 1940
+    nationality: IRN
   shalev-hulio:
     nationality: ISR
     note: NSO Group co-founder, Unit 8200 veteran
@@ -29637,6 +29851,16 @@ persons:
       role: founder
       from: 2010
       note: CEO
+  shapour-bakhtiar:
+    born: 1914
+    died: 1991
+    nationality: IRN
+    affiliations:
+    - org: impero-pahlavi
+      role: prime-minister
+      from: 1979
+      to: 1979
+      note: Ultimo PM, 37 giorni. Assassinato a Parigi 1991 da agenti iraniani.
   shari-arison:
     born: 1957
     nationality: ISR-USA
@@ -34217,6 +34441,9 @@ persons:
       role: chairman
       from: 2021
       note: Chairman via PIF
+  yasmine-pahlavi:
+    born: 1968
+    nationality: IRN-USA
   yasser-arafat:
     born: 1929
     died: 2004

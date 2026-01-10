@@ -6,7 +6,8 @@ Ora crea il report sulla mappa del potere in Canada, integrando le informazioni 
 Ora puoi aggiornare il file military-industrial-complex.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
 Ora puoi aggiornare il file turkey-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
-Ora puoi aggiornare il file pnac-fpi-neocon-network.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+
+Ora puoi aggiornare il file impero-pahlavi.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
 categoria Banche
 categoria intelligence

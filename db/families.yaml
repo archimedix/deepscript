@@ -1425,6 +1425,45 @@ families:
     - person: sandra-ortega
       generation: 2
       role: heir
+  pahlavi:
+    origin: IRN
+    founder: reza-shah-pahlavi
+    sector: monarchy
+    generations: 3
+    status: exile
+    note: 'Dinastia regnante Iran 1925-1979, fondatore Reza Khan (ufficiale cosacco). In esilio dal 1979. 3a generazione:
+      Reza Pahlavi guida movimento opposizione.'
+    members:
+    - person: mohammad-reza-pahlavi
+      generation: 2
+      role: heir
+    - person: reza-shah-pahlavi
+      generation: 1
+      role: founder
+    - person: reza-pahlavi
+      generation: 3
+      role: heir
+    - person: farah-pahlavi
+      generation: 2
+      role: consort
+    - person: farahnaz-pahlavi
+      generation: 3
+    - person: ali-reza-pahlavi
+      generation: 3
+    - person: leila-pahlavi
+      generation: 3
+    - person: shahnaz-pahlavi
+      generation: 3
+    - person: yasmine-pahlavi
+      generation: 3
+      role: consort
+    - person: noor-pahlavi
+      generation: 4
+      role: heir
+    - person: iman-pahlavi
+      generation: 4
+    - person: farah-pahlavi-jr
+      generation: 4
   pangestu:
     origin: IDN
     founder: prajogo-pangestu
