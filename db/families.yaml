@@ -24,6 +24,35 @@ families:
       generation: 3
     - person: sagar-adani
       generation: 3
+  agnelli:
+    origin: ITA
+    founder: giovanni-agnelli-sr
+    sector: automotive-finance
+    generations: 5
+    status: active
+    note: Dynasty controlling Fiat/Stellantis, Ferrari, Juventus via Exor. Italian Kennedys.
+    members:
+    - person: gianni-agnelli
+      generation: 3
+      role: patriarch
+    - person: john-elkann
+      generation: 5
+      role: patriarch
+    - person: giovanni-agnelli-sr
+      generation: 1
+      role: founder
+    - person: umberto-agnelli
+      generation: 3
+      role: heir
+    - person: margherita-agnelli
+      generation: 4
+      role: heir
+    - person: edoardo-agnelli
+      generation: 4
+      role: heir
+    - person: giovanni-alberto-agnelli
+      generation: 4
+      role: heir
   agnelli-elkann:
     origin: Italia
     founder: Giovanni Agnelli Sr.
@@ -633,6 +662,22 @@ families:
       generation: 3
     - person: daniel-federmann
       generation: 3
+  ferrari:
+    origin: ITA
+    founder: enzo-ferrari
+    sector: automotive
+    generations: 3
+    status: active
+    members:
+    - person: enzo-ferrari
+      generation: 1
+      role: founder
+    - person: piero-ferrari
+      generation: 2
+      role: heir
+    - person: alfredo-ferrari
+      generation: 2
+      role: heir
   ford-family:
     origin: USA
     founder: Henry Ford
@@ -1541,6 +1586,25 @@ families:
       role: patriarch
     - person: francois-henri-pinault
       generation: 2
+  pininfarina:
+    origin: ITA
+    founder: battista-pininfarina
+    sector: automotive-design
+    generations: 4
+    status: active
+    members:
+    - person: battista-pininfarina
+      generation: 1
+      role: founder
+    - person: sergio-pininfarina
+      generation: 2
+      role: patriarch
+    - person: andrea-pininfarina
+      generation: 3
+      role: heir
+    - person: paolo-pininfarina
+      generation: 3
+      role: heir
   porsche-piech:
     origin: Germany/Austria
     founder: Ferdinand Porsche

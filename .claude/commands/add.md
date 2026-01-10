@@ -97,7 +97,8 @@ Focus su:
 **Person:**
 ```cypher
 MERGE (p:Person {id: 'nome-id'})
-SET p.born = 1970,
+SET p.name = 'Nome Completo',
+    p.born = 1970,
     p.nationality = 'ITA'  // Codice ISO 3166-1 alpha-3
 ```
 
@@ -235,11 +236,12 @@ Per ogni org/person referenziata che non esiste:
 ```cypher
 // Stub persona
 MERGE (p:Person {id: 'ref-id'})
-SET p.nationality = 'XXX'
+SET p.name = 'Nome Completo',
+    p.nationality = 'XXX'
 
 // Stub org
 MERGE (o:Organization {id: 'ref-id'})
-SET o:Company, o.status = 'active'
+SET o:Company, o.name = 'Nome Organizzazione', o.status = 'active'
 ```
 
 ### 8. Report

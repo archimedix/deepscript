@@ -188,6 +188,7 @@ CALTAGIRONE                    ANGELUCCI          CAIRO │
 | 23 | [Carlo Messina](../docs/persons/carlo-messina.md) | 5 | **CEO Intesa Sanpaolo** (2013-), **Trilateral**, WEF Davos, ABI, "Banchiere di sistema" |
 | 24 | [Giovanni Bazoli](../docs/persons/giovanni-bazoli.md) | 5 | **"Il Salvatore"**: Prof. Cattolica → **Chairman Banco Ambrosiano Veneto** → **40 anni Chairman Intesa** (Honorary), Fondazione Cini |
 | 25 | [Gianni Agnelli](../docs/persons/gianni-agnelli.md) | 5 | FIAT, Bilderberg steering, Trilaterale, Chase Manhattan |
+| 25b | [Sergio Marchionne](../docs/persons/sergio-marchionne.md) | 8 | **Salvatore FIAT/Chrysler**: CEO Fiat (2004-18), CEO Chrysler (2009-18), **Chairman Ferrari**, Vice-Chair Exor, Chairman CNH, board Philip Morris |
 | 26 | [Matteo Renzi](../docs/persons/matteo-renzi.md) | 5 | PM, WEF YGL, Bilderberg, FII Saudi |
 | 27 | [Marta Dassù](../docs/persons/marta-dassu.md) | 5 | **Aspen Senior Dir.**, Trilaterale, NATO experts, Gov. Monti/Letta |
 | 28 | [Giulio Tremonti](../docs/persons/giulio-tremonti.md) | 4 | **Aspen Italia Presidente**, Min. Economia (record), NATO PA |
@@ -1575,14 +1576,63 @@ Tronchetti Provera rappresenta il classico caso di **cooptazione per matrimonio*
 
 ### Agnelli-Elkann
 
-| Generazione | Figure | Asset |
-|-------------|--------|-------|
-| I | Giovanni Agnelli Sr. | FIAT (1899) |
-| II | Edoardo Agnelli, Giovanni "Gianni" Agnelli | FIAT, La Stampa |
-| III | Gianni Agnelli | FIAT, Bilderberg, Trilaterale |
-| IV | John Elkann | EXOR, Stellantis, Ferrari, GEDI, Economist |
+La piu' potente dinastia industriale italiana. Cinque generazioni di controllo su Fiat (1899-2021), ora Stellantis.
 
-**Connessioni internazionali**: Bilderberg (steering), Trilaterale, Chase Manhattan (Rockefeller)
+| Generazione | Figure | Asset | Periodo |
+|-------------|--------|-------|---------|
+| I | [Giovanni Agnelli Sr.](../docs/persons/giovanni-agnelli-sr.md) | FIAT (fondatore) | 1899-1945 |
+| II | Edoardo Agnelli (1892-1935) | FIAT | Morto in incidente aereo |
+| III | [Gianni Agnelli](../docs/persons/gianni-agnelli.md) "L'Avvocato" | FIAT, Bilderberg, Trilaterale | 1966-2003 |
+| III | [Umberto Agnelli](../docs/persons/umberto-agnelli.md) | FIAT Chairman | 2003-2004 |
+| IV | [Margherita Agnelli](../docs/persons/margherita-agnelli.md) | Erede, lite successoria | - |
+| V | [John Elkann](../docs/persons/john-elkann.md) | EXOR, Stellantis, Ferrari, GEDI | 2004- |
+
+**Le Tragedie Dinastiche (1997-2004):**
+
+| Anno | Evento | Conseguenza |
+|------|--------|-------------|
+| 1997 | Morte Giovanni Alberto Agnelli (33 anni, cancro) | Primo erede designato |
+| 2000 | Morte Edoardo Agnelli (46 anni, figlio di Gianni) | Suicidio |
+| 2003 | Morte Gianni Agnelli (81 anni) | Fine di un'era |
+| 2004 | Morte Umberto Agnelli (69 anni, cancro) | Crisi successoria |
+
+**Il Salvataggio Marchionne (2004-2018):**
+
+Quando Umberto muore nel 2004, Fiat perdeva €6B in due anni. La famiglia sceglie [Sergio Marchionne](../docs/persons/sergio-marchionne.md), manager italo-canadese senza esperienza automotive.
+
+| Anno | Evento Marchionne |
+|------|-------------------|
+| 2004 | CEO Fiat, azienda in crisi terminale |
+| 2005 | Ritorno in utile in 1 anno |
+| 2007 | Lancio Fiat 500 (successo globale) |
+| 2009 | Alleanza Chrysler (Chapter 11), CEO di entrambe |
+| 2014 | Fusione Fiat-Chrysler → FCA |
+| 2014 | Chairman e CEO Ferrari (sostituisce Di Montezemolo) |
+| 2015-16 | IPO e spin-off Ferrari |
+| 2018 | Muore (luglio), John Elkann assume controllo diretto |
+| 2021 | Fusione FCA-PSA → Stellantis (Elkann Chairman) |
+
+**La Struttura di Controllo Elkann (2025):**
+
+```
+Giovanni Agnelli B.V. (cassaforte familiare)
+              │
+              ▼
+         EXOR N.V.
+         (Amsterdam)
+              │
+    ┌─────────┼─────────┬──────────┐
+    │         │         │          │
+    ▼         ▼         ▼          ▼
+Stellantis  Ferrari   CNH      Juventus
+ (14.2%)   (24.65%)  Industrial   (64%)
+    │         │
+    │     36.5% voting
+    │
+ 14 marchi auto
+```
+
+**Connessioni internazionali**: Bilderberg (steering), Trilaterale, Chase Manhattan (Rockefeller), Economist Group (43.4% via Exor)
 
 ### Berlusconi
 
@@ -1686,6 +1736,55 @@ Tronchetti Provera rappresenta il classico caso di **cooptazione per matrimonio*
 **Eredita'**: Il [Museo dell'Aeronautica Gianni Caproni](../docs/foundation/museo-caproni.md) a Trento e' il piu' antico museo aeronautico d'Italia (fondato 1927). La collezione fu ceduta alla Provincia di Trento nel 2011.
 
 **Pattern**: Dinastia industriale "bruciata" dal fascismo - espansione durante il regime, incapacita' di riconversione post-bellica, fallimento. Gli asset confluirono nella filiera che oggi e' Leonardo.
+
+### La Perdita di Sovranita' Industriale
+
+Pattern emergente: asset industriali italiani storici che passano a controllo straniero.
+
+#### Pininfarina (1930 → India 2015)
+
+| Fase | Periodo | Controllo |
+|------|---------|-----------|
+| Fondazione | 1930 | [Battista "Pinin" Farina](../docs/persons/battista-pininfarina.md) |
+| Epoca d'oro | 1951-2017 | Famiglia Pininfarina, partnership Ferrari |
+| Crisi | 2006-2015 | Da 2.768 a 800 dipendenti |
+| Acquisizione | 2015 | [Mahindra Group](../docs/company/mahindra-group.md) (India) 76% per €168M |
+| Oggi | 2025 | Brand italiano, controllo indiano |
+
+**La partnership Ferrari (1951-2017)**: 66 anni, ~200 modelli disegnati. Finita quando Ferrari creo' Centro Stile interno. [Paolo Pininfarina](../docs/persons/paolo-pininfarina.md) (ultimo Chairman familiare) muore nel 2024.
+
+**Pattern**: Dinastia design perde cliente principale (Ferrari) → crisi → vendita a conglomerato estero.
+
+#### Piaggio Aerospace (1884 → Turchia 2024)
+
+| Fase | Periodo | Controllo |
+|------|---------|-----------|
+| Fondazione | 1884 | Rinaldo Piaggio (Genova) |
+| Aeronautica | 1915- | Transizione da navale/ferroviario |
+| Prodotto iconico | 1986- | P.180 Avanti (turboprop piu' veloce al mondo) |
+| Acquisizione UAE | 2006 | [Mubadala](../docs/swf/mubadala.md) (Abu Dhabi SWF) 35% |
+| Controllo UAE | 2014 | Mubadala maggioranza, progetto drone HammerHead |
+| Crisi | 2018 | UAE cancella ordine, receivership |
+| Amministrazione straordinaria | 2018-2024 | Stato italiano |
+| Acquisizione Turchia | 2024 | [Baykar](../docs/defense/baykar.md) (produttore droni TB2/Akinci) |
+
+**Il fallimento HammerHead**: Mubadala voleva drone MALE basato su P.180. Italia non compra, UAE cancella, azienda fallisce. Sei anni di amministrazione straordinaria.
+
+**Ironia strategica**: Asset aerospaziale italiano passa da controllo Golfo (alleato) a Turchia (NATO ma tensioni). Baykar produrra' droni TB2 in Italia.
+
+**Pattern comune Pininfarina-Piaggio:**
+
+| Aspetto | Pininfarina | Piaggio Aerospace |
+|---------|-------------|-------------------|
+| Fondazione | 1930 | 1884 |
+| Core business | Design auto | Aerospazio/difesa |
+| Crisi trigger | Fine partnership Ferrari | Fallimento progetto drone |
+| Primo acquirente estero | Mahindra (India) | Mubadala (UAE) |
+| Controllo finale | Mahindra (India) | Baykar (Turchia) |
+| Asset strategico? | No | Si' (difesa) |
+| Golden power? | No | No (vendita a NATO member) |
+
+**Implicazione**: L'Italia applica golden power su Pirelli (pneumatici) e 5G, ma non su design industriale (Pininfarina) o aerospazio/difesa (Piaggio). Pattern di cessione di sovranita' industriale a potenze emergenti (India, Turchia).
 
 ---
 

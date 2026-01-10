@@ -5,7 +5,7 @@ Ora crea il report sulla mappa del potere in Canada, integrando le informazioni 
 
 Ora puoi aggiornare il file military-industrial-complex.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
-Ora puoi aggiornare il file turkey-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
+Ora puoi aggiornare il file italy-power-map.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
 Ora puoi aggiornare il file impero-pahlavi.md con i nuovi dati emersi dalle analisi che ritieni rilevanti su chi detiene davvero il potere
 
@@ -17,8 +17,12 @@ Casate Reali
 Brasile: lula, bolsonaro
 unthinkable di churchill, alan bruc, 
 
-pininfarina
-piaggio-aerospace
+cnh-industrial
+iveco
+pirelli
+deloitte
+philip morris
+
 council-inclusive-capitalism
 
 Bretton Woods Committee

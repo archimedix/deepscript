@@ -3105,6 +3105,23 @@ organizations:
     stakeholders:
     - person: tim-levene
       role: founder
+  automobili-pininfarina:
+    name: Automobili Pininfarina GmbH
+    type: automaker
+    founded: 2018
+    headquarters: Munich, Germany
+    status: active
+    sector: electric-vehicles
+    note: Luxury EV manufacturer, subsidiary of Mahindra
+    stakeholders:
+    - org: mahindra-group
+      role: owner
+      share: 100
+      from: 2018
+    - org: pininfarina
+      role: design-partner
+      from: 2018
+      note: Brand licensing and design
   autonomy:
     name: Autonomy Corporation
     type: company
@@ -4419,8 +4436,8 @@ organizations:
       note: CEO, President
     - org: leonardo
       role: partner
-      from: 2025
-      note: UAV cooperation agreement March 2025
+      from: 2024
+      note: 'MoU June 2024: JV for unmanned aerial systems, Leonardo provides mission systems'
   bbc:
     name: British Broadcasting Corporation
     type: media
@@ -8554,6 +8571,11 @@ organizations:
     stakeholders:
     - person: gabriel-hauge
       role: board
+    - person: sergio-marchionne
+      role: executive
+      from: 2009
+      to: 2018
+      note: CEO
   cia:
     name: Central Intelligence Agency
     type: agency
@@ -9254,6 +9276,19 @@ organizations:
     stakeholders:
     - org: canal-plus
       share: 100%
+  cnh-industrial:
+    name: CNH Industrial N.V.
+    type: company
+    founded: 2013
+    headquarters: Amsterdam, Netherlands
+    status: active
+    sector: agricultural-machinery
+    note: Spin-off from Fiat Industrial. Exor controlled.
+    stakeholders:
+    - person: sergio-marchionne
+      role: chairman
+      from: 2013
+      to: 2018
   cnn:
     name: CNN
     type: media
@@ -10694,6 +10729,11 @@ organizations:
     stakeholders:
     - person: dave-hanley
       role: principal
+    - person: sergio-marchionne
+      role: executive
+      from: 1983
+      to: 1992
+      note: Tax specialist, chartered accountant
   democrazia-cristiana:
     name: Democrazia Cristiana
     type: party
@@ -13335,6 +13375,11 @@ organizations:
       role: executive
       from: 2009
       note: CEO
+    - person: sergio-marchionne
+      role: board
+      from: 2010
+      to: 2018
+      note: Vice Chairman from 2015
     - org: vanguard
       role: shareholder
       share: 3.05
@@ -13780,7 +13825,41 @@ organizations:
     type: automaker
     founded: 1947
     headquarters: Maranello, Italy
+    status: active
+    sector: luxury-automotive
+    note: IPO 2015 NYSE/Milano. Exor 24.65%, Piero Ferrari 10.48%. Spin-off FCA 2016.
     stakeholders:
+    - person: john-elkann
+      role: chairman
+      from: 2018
+      note: Executive Chairman
+    - person: luca-cordero-di-montezemolo
+      role: chairman
+      from: 1991
+      to: 2014
+    - person: enzo-ferrari
+      role: founder
+      from: 1947
+      to: 1988
+      note: Founder and President
+    - person: piero-ferrari
+      role: board
+      from: 1988
+      note: Vice Chairman, 10.48% shareholder
+    - person: sergio-marchionne
+      role: executive
+      from: 2014
+      to: 2018
+      note: CEO and Chairman
+    - person: louis-camilleri
+      role: executive
+      from: 2018
+      to: 2020
+      note: CEO
+    - person: benedetto-vigna
+      role: executive
+      from: 2021
+      note: CEO
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -13790,6 +13869,21 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
+    - org: fiat
+      role: owner
+      from: 1969
+      to: 2016
+      note: 50% 1969, 90% after 1988, spun off 2016
+    - org: exor
+      role: shareholder
+      share: 24.65
+      from: 2016
+      note: 36.48% voting rights, largest shareholder
+    - org: pininfarina
+      role: design-partner
+      from: 1951
+      to: 2017
+      note: Exclusive design partnership, ~200 Ferrari models designed
   ferrovial:
     name: Ferrovial
     type: company
@@ -13819,15 +13913,22 @@ organizations:
       role: member
       note: Laurea Economia
   fiat:
-    name: FIAT
+    name: Fiat S.p.A.
     type: automaker
-    headquarters: Torino
-    status: active
+    founded: 1899
+    headquarters: Turin, Italy
+    status: merged
+    sector: automotive
+    note: Fabbrica Italiana Automobili Torino. Merged into FCA 2014, then Stellantis 2021. Brand continues under Stellantis.
     stakeholders:
     - person: gianni-agnelli
       role: chairman
       from: 1966
       to: 2003
+    - person: john-elkann
+      role: chairman
+      from: 2010
+      to: 2021
     - person: franco-bernabe
       role: executive
       from: 1978
@@ -13866,6 +13967,16 @@ organizations:
       from: 1991
       to: 1995
       note: Board, responsabile relazioni internazionali
+    - person: sergio-marchionne
+      role: executive
+      from: 2004
+      to: 2018
+      note: CEO
+    - org: exor
+      role: owner
+      from: 1927
+      to: 2021
+      note: Via IFI holding. Merged into Stellantis 2021.
   fiat-industrial:
     name: Fiat Industrial
     type: company
@@ -26281,6 +26392,11 @@ organizations:
     headquarters: Basel, Switzerland
     sector: life-sciences
     stakeholders:
+    - person: sergio-marchionne
+      role: executive
+      from: 2000
+      to: 2002
+      note: CEO
     - org: blackrock
       share: 9.85%
     - org: vanguard
@@ -28637,6 +28753,11 @@ organizations:
     headquarters: Bangkok, Thailand
     status: active
     sector: media
+    stakeholders:
+    - person: sontiyan-chuenruetainaidhama
+      role: owner
+      from: 2018
+      note: Acquisizione ostile via News Network Corp
   national-bank-greece:
     name: National Bank of Greece
     type: bank
@@ -31715,6 +31836,19 @@ organizations:
     - person: lim-boon-heng
       role: chairman
       note: Chairman
+  philip-morris:
+    name: Philip Morris International Inc.
+    type: company
+    founded: 2008
+    headquarters: Stamford, Connecticut, USA
+    status: active
+    sector: tobacco
+    stakeholders:
+    - person: sergio-marchionne
+      role: board
+      from: 2008
+      to: 2018
+      note: Independent Director
   philipp-brothers:
     name: Philipp Brothers (Phibro)
     type: company
@@ -31844,10 +31978,23 @@ organizations:
     name: Piaggio Aerospace
     type: defense
     founded: 1884
-    headquarters: Genoa, Italy
+    headquarters: Villanova d'Albenga, Italy
     status: active
-    note: Acquired by Baykar Dec 2024
+    sector: aerospace-defense
+    note: Founded 1884 Genoa. P.180 Avanti, P.1HH HammerHead. Mubadala owner 2014-2018, receivership 2018-2024, acquired by
+      Baykar Dec 2024
     stakeholders:
+    - org: mubadala
+      role: owner
+      from: 2006
+      to: 2018
+      note: 35% stake 2006, majority 2014, withdrew support 2018
+    - org: tata-group
+      role: shareholder
+      share: 33
+      from: 2008
+      to: 2018
+      note: One-third stake, 3 board seats
     - org: baykar
       role: owner
       from: 2024
@@ -31903,12 +32050,32 @@ organizations:
     - org: vanguard
       share: 1.5
   pininfarina:
-    name: Pininfarina
+    name: Pininfarina S.p.A.
     type: company
     founded: 1930
     headquarters: Turin, Italy
     status: active
+    sector: automotive-design
+    note: Italian automotive design house, 76% owned by Mahindra Group since 2015
     stakeholders:
+    - person: battista-pininfarina
+      role: founder
+      from: 1930
+      to: 1966
+      note: Founder and Chairman
+    - person: sergio-pininfarina
+      role: chairman
+      from: 1966
+      to: 2008
+    - person: andrea-pininfarina
+      role: executive
+      from: 2001
+      to: 2008
+      note: CEO (2001-2006), Chairman & CEO (2006-2008)
+    - person: paolo-pininfarina
+      role: chairman
+      from: 2008
+      to: 2024
     - org: mahindra-group
       share: 76.06
       from: 2015
@@ -33184,6 +33351,10 @@ organizations:
       from: 1984
       to: 2022
       note: 49% stake, CEO
+    - person: mark-mateschitz
+      role: owner
+      from: 2022
+      note: Ereditato dal padre Dietrich Mateschitz
     - org: tcp-group
       share: 51
       note: Yoovidhya family stake (49% + 2%)
@@ -35444,6 +35615,19 @@ organizations:
       note: Ran Canadian operations via Triarch Corp
     - org: kissinger-associates
       role: partner
+  sgs:
+    name: SGS S.A.
+    type: company
+    founded: 1878
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: testing-certification
+    stakeholders:
+    - person: sergio-marchionne
+      role: chairman
+      from: 2002
+      to: 2018
+      note: CEO 2002-2006, Chairman 2006-2018
   shanduka-group:
     name: Shanduka Group
     type: company
@@ -36908,7 +37092,7 @@ organizations:
     headquarters: Amsterdam, Netherlands
     status: active
     sector: automotive
-    note: FCA + PSA merger. 14 brands. Exor 15.5%, Peugeot 7.7%, BPI France 6.9%
+    note: FCA + PSA merger. 14 brands. Exor 14.2%, Peugeot 7%, BPI France 6%.
     stakeholders:
     - person: john-elkann
       role: chairman
@@ -36935,10 +37119,15 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
-    - org: exor
-      role: largest-shareholder
-      share: 14.2%
+    - org: fiat
+      role: predecessor
       from: 2021
+      note: Fiat/FCA merged with PSA to form Stellantis
+    - org: exor
+      role: shareholder
+      share: 14.2
+      from: 2021
+      note: Largest shareholder, John Elkann Chairman
     - org: bpifrance
       role: strategic
       share: 6%
@@ -37670,6 +37859,18 @@ organizations:
     stakeholders:
     - person: andrea-pasinetti
       role: founder
+  tech-mahindra:
+    name: Tech Mahindra Ltd.
+    type: company
+    founded: 1986
+    headquarters: Pune, India
+    status: active
+    sector: IT-services
+    note: Part of Mahindra Group, IT services
+    stakeholders:
+    - org: mahindra-group
+      role: parent
+      note: Part of Mahindra Group
   technet:
     name: TechNet
     type: forum

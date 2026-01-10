@@ -1085,6 +1085,10 @@ persons:
       role: chairman
       from: 2021
       note: Chairman Supervisory Board
+  alfredo-ferrari:
+    born: 1932
+    died: 1956
+    nationality: ITA
   ali-adnan-ibrahim:
     nationality: BH
     note: Adjunct Professor Georgetown. Former Baker & McKenzie.
@@ -1881,6 +1885,19 @@ persons:
       note: WEF Annual Meeting 2016
     - org: teach-for-china
       role: founder
+  andrea-pininfarina:
+    born: 1957
+    died: 2008
+    nationality: ITA
+    affiliations:
+    - org: pininfarina
+      role: executive
+      from: 2001
+      to: 2008
+      note: CEO (2001-2006), Chairman & CEO (2006-2008)
+    relations:
+    - person: paolo-pininfarina
+      type: sibling
   andrea-sironi:
     nationality: ITA
     affiliations:
@@ -3179,6 +3196,19 @@ persons:
     relations:
     - person: nadim-gemayel
       type: father
+  battista-pininfarina:
+    born: 1893
+    died: 1966
+    nationality: ITA
+    affiliations:
+    - org: pininfarina
+      role: founder
+      from: 1930
+      to: 1966
+      note: Founder and Chairman
+    relations:
+    - person: sergio-pininfarina
+      type: parent
   baudouin-belgium:
     born: 1930
     died: 1993
@@ -3282,6 +3312,14 @@ persons:
       role: executive
       from: 2014
       to: 2022
+      note: CEO
+  benedetto-vigna:
+    born: 1969
+    nationality: ITA
+    affiliations:
+    - org: ferrari
+      role: executive
+      from: 2021
       note: CEO
   bengi-korkmaz:
     nationality: TR
@@ -7796,6 +7834,10 @@ persons:
     - org: edmond-de-rothschild-foundation-israel
       role: founder
       from: 1953
+  edoardo-agnelli:
+    born: 1954
+    died: 2000
+    nationality: ITA
   edoardo-agnelli-sr:
     born: 1892
     died: 1935
@@ -8440,6 +8482,21 @@ persons:
     - person: fabrizio-saccomanni
       type: appointed
       note: Letta nomino Saccomanni Min. Economia
+  enzo-ferrari:
+    born: 1898
+    died: 1988
+    nationality: ITA
+    affiliations:
+    - org: ferrari
+      role: founder
+      from: 1947
+      to: 1988
+      note: Founder and President
+    relations:
+    - person: alfredo-ferrari
+      type: parent
+    - person: piero-ferrari
+      type: parent
   enzo-moavero-milanesi:
     born: 1954
     nationality: ITA
@@ -11275,6 +11332,13 @@ persons:
       to: 2003
     - org: la-stampa
       role: owner
+    relations:
+    - person: edoardo-agnelli
+      type: parent
+    - person: margherita-agnelli
+      type: parent
+    - person: umberto-agnelli
+      type: sibling
   gianni-caproni:
     born: 1886
     died: 1957
@@ -11399,6 +11463,10 @@ persons:
     - org: fiat
       role: founder
       from: 1899
+  giovanni-alberto-agnelli:
+    born: 1964
+    died: 1997
+    nationality: ITA
   giovanni-bazoli:
     born: 1932
     nationality: ITA
@@ -15741,6 +15809,10 @@ persons:
       role: board
       from: 2025
       note: Director
+    - org: fiat
+      role: chairman
+      from: 2010
+      to: 2021
     - org: exor
       role: executive
       from: 2009
@@ -15769,6 +15841,10 @@ persons:
     - org: aspen-italia
       role: chairman
       note: Vice-Presidente
+    - org: ferrari
+      role: chairman
+      from: 2018
+      note: Executive Chairman
   john-f-kennedy:
     born: 1917
     died: 1963
@@ -19375,6 +19451,15 @@ persons:
     - person: laszlo-szijj
       type: partner
       note: Partner MKB Bank, costruzioni
+  louis-camilleri:
+    born: 1955
+    nationality: MLT-USA
+    affiliations:
+    - org: ferrari
+      role: executive
+      from: 2018
+      to: 2020
+      note: CEO
   louis-cheung:
     nationality: CHN
     affiliations:
@@ -19466,8 +19551,13 @@ persons:
       role: founder
       from: 1994
   luca-cordero-di-montezemolo:
+    born: 1947
     nationality: ITA
     affiliations:
+    - org: ferrari
+      role: chairman
+      from: 1991
+      to: 2014
     - org: alitalia
       role: chairman
       from: 2014
@@ -20518,6 +20608,9 @@ persons:
     born: 1955
     nationality: ITA
     family: agnelli-elkann
+    relations:
+    - person: john-elkann
+      type: parent
   maria-bianca-farina:
     nationality: ITA
     affiliations:
@@ -20940,6 +21033,14 @@ persons:
     - org: microsoft
       role: board
       note: Board of Directors, CFO Citigroup
+  mark-mateschitz:
+    born: 1992
+    nationality: austriaca
+    affiliations:
+    - org: red-bull
+      role: owner
+      from: 2022
+      note: Ereditato dal padre Dietrich Mateschitz
   mark-mcclellan:
     born: 1963
     nationality: USA
@@ -24754,6 +24855,15 @@ persons:
     - org: wef
       role: ygl
       from: 2023
+  paolo-pininfarina:
+    born: 1958
+    died: 2024
+    nationality: ITA
+    affiliations:
+    - org: pininfarina
+      role: chairman
+      from: 2008
+      to: 2024
   paolo-savona:
     born: 1936
     nationality: ITA
@@ -26196,6 +26306,14 @@ persons:
       role: board
       from: 2023
       note: Executive Board - Payments
+  piero-ferrari:
+    born: 1945
+    nationality: ITA
+    affiliations:
+    - org: ferrari
+      role: board
+      from: 1988
+      note: Vice Chairman, 10.48% shareholder
   pierre-gemayel-jr:
     born: 1972
     died: 2006
@@ -29744,6 +29862,55 @@ persons:
       from: 2005
       to: 2010
       note: Deputy CEO 2007-2010, Head Markets & Investment Banking
+  sergio-marchionne:
+    born: 1952
+    died: 2018
+    nationality: ITA-CAN
+    affiliations:
+    - org: fiat
+      role: executive
+      from: 2004
+      to: 2018
+      note: CEO
+    - org: exor
+      role: board
+      from: 2010
+      to: 2018
+      note: Vice Chairman from 2015
+    - org: ferrari
+      role: executive
+      from: 2014
+      to: 2018
+      note: CEO and Chairman
+    - org: lonza
+      role: executive
+      from: 2000
+      to: 2002
+      note: CEO
+    - org: deloitte
+      role: executive
+      from: 1983
+      to: 1992
+      note: Tax specialist, chartered accountant
+    - org: chrysler
+      role: executive
+      from: 2009
+      to: 2018
+      note: CEO
+    - org: sgs
+      role: chairman
+      from: 2002
+      to: 2018
+      note: CEO 2002-2006, Chairman 2006-2018
+    - org: cnh-industrial
+      role: chairman
+      from: 2013
+      to: 2018
+    - org: philip-morris
+      role: board
+      from: 2008
+      to: 2018
+      note: Independent Director
   sergio-mattarella:
     born: 1941
     nationality: ITA
@@ -29777,6 +29944,20 @@ persons:
       from: 1983
       to: 2008
       note: Deputato Camera (7 legislature)
+  sergio-pininfarina:
+    born: 1926
+    died: 2012
+    nationality: ITA
+    affiliations:
+    - org: pininfarina
+      role: chairman
+      from: 1966
+      to: 2008
+    relations:
+    - person: andrea-pininfarina
+      type: parent
+    - person: paolo-pininfarina
+      type: parent
   serpil-timuray:
     nationality: TUR
     note: CEO Vodafone Africa Middle East Asia Pacific
@@ -30334,6 +30515,13 @@ persons:
       note: WEF Annual Meeting 2016
     - org: ciff
       role: executive
+  sontiyan-chuenruetainaidhama:
+    nationality: thailandese
+    affiliations:
+    - org: nation-thailand
+      role: owner
+      from: 2018
+      note: Acquisizione ostile via News Network Corp
   soopakij-chearavanont:
     nationality: THA
     family: chearavanont
@@ -32582,6 +32770,9 @@ persons:
       role: founder
       from: 1983
       note: Fondatore (Fiat)
+    relations:
+    - person: giovanni-alberto-agnelli
+      type: parent
   urbano-cairo:
     born: 1957
     nationality: ITA
