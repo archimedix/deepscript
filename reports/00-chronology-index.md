@@ -34,9 +34,34 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 **Eventi chiave (non ancora documentati):**
 - 1914: Fondazione Il Popolo d'Italia
 - 1917: MI5 inizia pagamenti a Mussolini
+- 1919: Howard Scott fonda Technical Alliance (proto-Technocracy)
 - 1922: Marcia su Roma
 - 1924: Delitto Matteotti / Scandalo petroli
 - 1926: Prestito J.P. Morgan $100M, accordo debiti Mellon
+
+---
+
+## 1930s: Grande Depressione e Utopie
+
+### Eventi
+
+| Anno | Evento | Link |
+|------|--------|------|
+| 1932 | Committee on Technocracy, Columbia University | [Technocracy Inc.](../docs/forum/technocracy-incorporated.md) |
+| 1933 | Fondazione Technocracy Incorporated | [Technocracy Inc.](../docs/forum/technocracy-incorporated.md) |
+| 1933 | Hotel Pierre Address (disastro Scott) | - |
+
+### Report
+
+| Report | Focus |
+|--------|-------|
+| [Technocracy Genealogy](technocracy-genealogy.md) | Da Technocracy Inc. a DOGE (1933-2025) |
+
+**Figure chiave:**
+- [Howard Scott](../docs/persons/howard-scott.md) - Fondatore, Chief Engineer
+- [M. King Hubbert](../docs/persons/m-king-hubbert.md) - Co-fondatore, poi teorico Peak Oil
+- [Joshua Haldeman](../docs/persons/joshua-haldeman.md) - Membro, nonno di Elon Musk
+- [Jacque Fresco](../docs/persons/jacque-fresco.md) - Membro teenager, poi Venus Project
 
 ---
 
@@ -68,13 +93,16 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 | Anno | Evento | Link |
 |------|--------|------|
-| - | *Gap da colmare* | - |
+| 1950 | Joshua Haldeman emigra in Sudafrica | [Haldeman](../docs/persons/joshua-haldeman.md) |
+| 1951 | M. King Hubbert lascia Technocracy Inc. | [Hubbert](../docs/persons/m-king-hubbert.md) |
+| 1956 | Hubbert presenta teoria Peak Oil all'API | [Hubbert](../docs/persons/m-king-hubbert.md) |
 
 ### Report
 
 | Report | Focus |
 |--------|-------|
 | [Italy Cold War Theater](italy-cold-war-theater.md) | Gladio, P2, strategia tensione |
+| [Technocracy Genealogy](technocracy-genealogy.md) | Peak Oil come eredita' tecnocratica |
 
 ---
 
@@ -133,12 +161,16 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 1992 | Convegno Britannia | [Link](../docs/events/1992-britannia.md) |
 | 1993 | Accordi di Oslo | [Link](../docs/events/1993-oslo-accords.md) |
 | 1995 | Assassinio Rabin | [Link](../docs/events/1995-assassinio-rabin.md) |
+| 1995 | Kristol fonda Weekly Standard (Murdoch) | [PNAC-FPI Report](pnac-fpi-neocon-network.md) |
+| 1997 | Fondazione PNAC (Kristol, Kagan) | [PNAC](../docs/think-tank/pnac.md) |
+| 1998 | Lettera PNAC a Clinton su Iraq | [PNAC-FPI Report](pnac-fpi-neocon-network.md) |
 | 1999 | Abolizione Glass-Steagall | [Link](../docs/events/1999-abolizione-glass-steagall.md) |
 
 ### Report
 
 | Report | Focus |
 |--------|-------|
+| [PNAC e FPI: Network Neocon](pnac-fpi-neocon-network.md) | Fondazione PNAC, dottrina interventista |
 | [Revolving Door](revolving-door-ex-leaders.md) | Transizioni pubblico-privato |
 | [WEF Young Global Leaders](wef-young-global-leaders.md) | Network WEF |
 
@@ -150,15 +182,23 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 | Anno | Evento | Link |
 |------|--------|------|
+| 2000 | PNAC: "Rebuilding America's Defenses" | [PNAC-FPI Report](pnac-fpi-neocon-network.md) |
 | 2001 | 11 Settembre | [Link](../docs/events/2001-11-settembre.md) |
+| 2001 | 10 firmatari PNAC entrano in governo Bush | [PNAC](../docs/think-tank/pnac.md) |
 | 2001 | Goldman Sachs-Greece swap (€2.8B nascosti) | [Greece Power Map](greece-power-map.md) |
+| 2003 | Guerra Iraq - apice influenza PNAC | [PNAC-FPI Report](pnac-fpi-neocon-network.md) |
+| 2006 | Dissoluzione PNAC | [PNAC](../docs/think-tank/pnac.md) |
+| 2007 | *Zeitgeist: The Movie* diventa virale (100M+ views) | [Peter Joseph](../docs/persons/peter-joseph.md) |
+| 2008 | Fondazione Zeitgeist Movement | [Zeitgeist](../docs/forum/zeitgeist-movement.md) |
 | 2008 | Crisi finanziaria | [Link](../docs/events/2008-crisi-finanziaria.md) |
+| 2009 | Fondazione FPI (Kristol, Kagan, Senor) | [FPI](../docs/think-tank/foreign-policy-initiative.md) |
 | 2009 | Papandreou rivela deficit greco reale (12.7%) | [Greece Power Map](greece-power-map.md) |
 
 ### Report
 
 | Report | Focus |
 |--------|-------|
+| [PNAC e FPI: Network Neocon](pnac-fpi-neocon-network.md) | Iraq War, dissoluzione PNAC, nascita FPI |
 | [Pharma Power](pharma-power.md) | Industria farmaceutica |
 | [Whistleblowers](whistleblowers-power-exposed.md) | Manning, Snowden |
 
@@ -171,10 +211,15 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | Anno | Evento | Link |
 |------|--------|------|
 | 2010 | Primo bailout Grecia (€110B) | [Greece Power Map](greece-power-map.md) |
+| 2010 | Zeitgeist Z-Day: 330 eventi in 70+ paesi | [Zeitgeist](../docs/forum/zeitgeist-movement.md) |
+| 2011 | Rottura Venus Project / Zeitgeist Movement | [Technocracy Genealogy](technocracy-genealogy.md) |
 | 2011 | Papademos PM tecnico (Trilateral) | [Greece Power Map](greece-power-map.md) |
 | 2011 | Crisi debito sovrano | [Link](../docs/events/2011-crisi-debito-sovrano.md) |
 | 2012 | Secondo bailout Grecia (€130B, haircut 50%) | [Greece Power Map](greece-power-map.md) |
 | 2015 | Default greco FMI, referendum, terzo bailout (€86B) | [Greece Power Map](greece-power-map.md) |
+| 2017 | Chiusura FPI (post-Trump) | [FPI](../docs/think-tank/foreign-policy-initiative.md) |
+| 2017 | Morte Jacque Fresco (101 anni) | [Fresco](../docs/persons/jacque-fresco.md) |
+| 2019 | Musk tweet: "Martian Technocracy" | [Technocracy Genealogy](technocracy-genealogy.md) |
 
 ### Report
 
@@ -200,11 +245,13 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | Anno | Evento | Link |
 |------|--------|------|
 | 2020 | Pandemia/Great Reset | [Link](../docs/events/2020-pandemia-great-reset.md) |
+| 2024 | Lancio DOGE (Musk) - paralleli con Technocracy Inc. | [Technocracy Genealogy](technocracy-genealogy.md) |
 
 ### Report
 
 | Report | Focus |
 |--------|-------|
+| [Technocracy Genealogy](technocracy-genealogy.md) | Da Technocracy Inc. a DOGE (1933-2025) |
 | [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | Investimenti Golfo USA |
 | [Gulf-Europe Pipeline](gulf-europe-pipeline-media.md) | Petroldollari in sport, media, infrastrutture EU |
 | [Media Power](media-power.md) | Controllo media |
@@ -255,4 +302,4 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

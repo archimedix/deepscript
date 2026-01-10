@@ -79,6 +79,13 @@ events:
     type: financial
     location: Greece
     outcome: Greece entered Eurozone with hidden debt
+  2005-hariri-assassination:
+    year: 2005
+    month: February
+    type: assassination
+    location: Beirut, Lebanon
+    outcome: Rivoluzione dei Cedri, ritiro truppe siriane
+    note: 23 morti. Hezbollah condannato da tribunale ONU
   2008-crisi-finanziaria:
     year: 2008
     type: crisi
@@ -96,6 +103,13 @@ events:
     type: crisi
     location: Europa
     outcome: governi-tecnici
+  2017-hariri-detention:
+    year: 2017
+    month: November
+    type: diplomatic crisis
+    location: Riyadh, Saudi Arabia
+    outcome: Rilasciato dopo intervento Macron
+    note: MBS fece annunciare dimissioni forzate
   2020-abraham-accords-bahrain:
     year: 2020
     month: 9
@@ -104,6 +118,13 @@ events:
     outcome: normalization
     note: Bahrain-Israel normalization agreement signed Sept 15, 2020. 4th Arab state to recognize Israel, 2nd in one month
       after UAE.
+  2020-beirut-explosion:
+    year: 2020
+    month: August
+    type: disaster
+    location: Beirut, Lebanon
+    outcome: 217 morti, $15B danni. Crisi politica
+    note: 2750 tonnellate nitrato ammonio
   2020-pandemia-great-reset:
     year: 2020
     type: crisi

@@ -644,6 +644,18 @@ families:
     - person: bill-ford-jr
       generation: 4
       role: chairman
+  frangieh-family:
+    origin: Zgharta, Lebanon
+    founder: Suleiman Frangieh Sr.
+    sector: politics
+    status: active
+    note: Dinastia maronita del Nord, pro-Syria/Hezbollah
+  gemayel-family:
+    origin: Bikfaya, Lebanon
+    founder: Pierre Gemayel
+    sector: politics
+    status: active
+    note: 3 presidenti, fondatori Kataeb/Phalange
   habsburg:
     origin: Austria/Switzerland
     founder: Radbot von Klettgau
@@ -653,6 +665,26 @@ families:
     members:
     - person: karl-von-habsburg
       role: head
+  hariri-family:
+    origin: Saida, Lebanon
+    founder: Rafic Hariri
+    sector: construction, politics, media
+    status: active
+    note: Dinastia politico-economica sunnita, connessione saudita
+    members:
+    - person: rafic-hariri
+      generation: 1
+      role: founder
+    - person: saad-hariri
+      generation: 2
+      role: heir
+    - person: bahaa-hariri
+      generation: 2
+    - person: fahd-hariri
+      generation: 2
+    - person: ayman-hariri
+      generation: 2
+      role: heir
   hartono:
     origin: Indonesia
     founder: oei-wie-gwan
@@ -793,6 +825,22 @@ families:
     - person: savitri-jindal
       generation: 1
       role: matriarch
+  jumblatt-family:
+    origin: Chouf, Lebanon
+    founder: kamal-jumblatt
+    sector: politics
+    status: active
+    note: Dinastia Druze dal XVIII secolo, leader PSP
+    members:
+    - person: walid-jumblatt
+      generation: 2
+      role: patriarch
+    - person: taymour-jumblatt
+      generation: 3
+      role: heir
+    - person: kamal-jumblatt
+      generation: 1
+      role: founder
   kabila:
     origin: DRC
     founder: laurent-kabila
@@ -1034,6 +1082,24 @@ families:
       role: leader
     - person: edouard-michelin-jr
       generation: 4
+      role: heir
+  mikati-family:
+    origin: Tripoli, Lebanon
+    founder: Najib Mikati Sr.
+    sector: telecom, investment
+    status: active
+    note: Billionaires Najib e Taha, M1 Group
+    members:
+    - person: najib-mikati
+      generation: 1
+      role: patriarch
+    - person: taha-mikati
+      generation: 1
+    - person: azmi-mikati
+      generation: 2
+      role: heir
+    - person: maher-mikati
+      generation: 2
       role: heir
   mitsotakis:
     origin: Greece, Crete

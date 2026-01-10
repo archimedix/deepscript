@@ -3,8 +3,8 @@
 ## Stato del Database
 
 **Organizzazioni UK presenti**: 100+ entità con sede a Londra/UK
-**Persone britanniche (GBR)**: ~96 persone
-**Aggiornamento**: Aggiunto Andrew Knight (Economist Editor, Telegraph CEO, News Corp, Bilderberg Steering 18 anni, Rothschild). Nuove org: RIT Capital Partners, J. Rothschild Capital Management, Ditchley Foundation, Centre for Policy Studies
+**Persone britanniche (GBR)**: ~100 persone
+**Aggiornamento**: Documentato HSBC (oppio origins, scandali cartelli $1.9B, Swiss Leaks). Aggiunti Stephen Green (HSBC → Baron → Minister, paradosso prete-banchiere) e Douglas Flint (HSBC → IIF → Abrdn → Hakluyt → Belt Road Envoy). Nuove org: British Bankers Association, Asia House, Institute of International Finance, Abrdn, IP Group, Centre for Policy Studies
 
 ---
 
@@ -269,13 +269,60 @@ GCHQ/MI5 expertise
 | ID | Tipo | HQ | Big Three % | Note |
 |----|------|----|-------------|------|
 | **barclays** | Bank | London | **12.4%** | BlackRock 8.7%, Vanguard 3.7% |
-| hsbc | Bank | London | 12.0% | |
+| **hsbc** | Bank | London | **13.5%** | **DOCUMENTATO** - Oppio origins, cartels scandal |
 | standard-chartered | Bank | London | | |
 | lloyds | Bank | London | 14.0% | |
 | natwest | Bank | Edinburgh | 8.0% | |
 | nm-rothschild | Bank | London | | Private |
 | **sg-warburg** | Bank | London | | Acquired by SBC 1995 → UBS |
 | ebrd | Bank | London | | Dev bank |
+
+#### HSBC - DOCUMENTAZIONE COMPLETA
+
+**La banca dell'Impero: dall'oppio ai cartelli messicani**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 1865, Hong Kong |
+| Fondatore | Thomas Sutherland (P&O shipping) |
+| Contesto | Fine Seconda Guerra dell'Oppio, 70% export UK in Cina era oppio |
+| Total Assets | $3.098 trillion (2024) |
+| Ranking | 7a banca mondiale, 1a europea |
+| Status | active |
+
+**Azionariato HSBC**:
+| Azionista | Quota |
+|-----------|-------|
+| BlackRock | 7.0% |
+| Vanguard | 5.0% |
+| State Street | 1.5% |
+| **Big Three totale** | **13.5%** |
+
+**Timeline Leadership**:
+
+| Periodo | Chairman | CEO | Note |
+|---------|----------|-----|------|
+| 2003-2006 | - | **Stephen Green** | |
+| 2006-2010 | **Stephen Green** | Michael Geoghegan | Swiss Leaks period |
+| 2010-2017 | **Douglas Flint** | Stuart Gulliver | Cartels fine $1.9B |
+| 2017-2025 | Mark Tucker | Noel Quinn (2020-24) | Primo chairman esterno |
+| 2024- | Mark Tucker (uscita 2025) | **Georges Elhedery** | Ristrutturazione |
+
+**Scandali Documentati**:
+
+| Scandalo | Periodo | Dettaglio | Conseguenza |
+|----------|---------|-----------|-------------|
+| **Riciclaggio Cartelli** | 2006-2010 | $881M+ Sinaloa, Norte del Valle | Multa $1.92B, zero condanne |
+| **Swiss Leaks** | 2006-2010 | 100,000+ clienti, evasione fiscale | Multa $192M, Green dimesso TheCityUK |
+| **BMPE** | 2003-2010 | Black Market Peso Exchange | $670B wire non monitorati |
+
+**Pattern HSBC → UK Government**:
+| Persona | Da HSBC | A Governo UK |
+|---------|---------|--------------|
+| **Stephen Green** | Chairman 2006-2010 | Baron + Minister Trade 2011-2013 |
+| **Douglas Flint** | Chairman 2010-2017 | Belt and Road UK Envoy |
+
+**Scheda**: `docs/bank/hsbc.md`
 
 #### Barclays - Dettaglio Azionariato
 | Azionista | Quota | Note |
@@ -762,6 +809,38 @@ Due degli ultimi tre CEO Barclays vengono da JPMorgan:
 
 Pattern: Goldman partner → ruoli pubblici UK → governance media
 
+### 6b. HSBC → UK Government Pipeline
+
+**Pattern sistematico di chairman HSBC che entrano in governo/diplomazia:**
+
+| Persona | Ruolo HSBC | Ruolo Governo UK |
+|---------|------------|------------------|
+| **Stephen Green** | Chairman 2006-2010 | Baron + Minister Trade 2011-2013 |
+| **Douglas Flint** | Chairman 2010-2017 | Belt and Road UK Envoy |
+
+**Stephen Green - Il Paradosso del Prete-Banchiere**:
+- Ordinato prete anglicano
+- Autore di "Good Value: Reflections on Money, Morality" (2009)
+- **Contemporaneamente**: HSBC riciclava $881M+ per cartelli messicani
+- **Contemporaneamente**: HSBC Svizzera (di cui era Chairman) aiutava 100,000+ clienti a evadere tasse
+- Elevato a Baron nel 2010, Ministro nel 2011
+- Dimesso da TheCityUK nel 2015 dopo Swiss Leaks
+- **Zero conseguenze penali**
+
+**Douglas Flint - Il CFO che Sapeva**:
+- CFO HSBC 1995-2010 durante tutti gli scandali
+- Promosso Chairman quando Green va in governo
+- Multa $1.9B durante suo mandato (2012)
+- Post-HSBC: IIF Chairman, Abrdn Chairman, IP Group Chairman, Centre for Policy Studies, Hakluyt Advisory Board
+- UK Belt and Road Envoy - ponte con Cina
+
+**Pattern "Too Big to Jail"**:
+- $881M riciclati per Sinaloa e Norte del Valle
+- $670B di wire transfers non monitorati
+- Multa $1.92B = **5 settimane di profitti HSBC**
+- **Zero dirigenti incriminati**
+- Chairman (Green) diventa Baron e Ministro
+
 ### 7. Agnelli-Rothschild Media Alliance
 | Famiglia | Quota Economist | Via |
 |----------|-----------------|-----|
@@ -1196,6 +1275,9 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 | **conrad-black** | **Completato** | Hollinger CEO, Telegraph Chairman, Bilderberg Steering, CFR, fraud conviction 2007, Trump pardon 2019 |
 | **bloomberg** | **Completato** | Media empire $60-70B, 350K terminals, Micklethwait EIC dal 2015 |
 | **andrew-knight** | **Completato** | Economist Editor → Telegraph CEO → News Corp → Bilderberg Steering 18 anni → Rothschild |
+| **hsbc** | **Completato** | Oppio origins 1865, $3.1T assets, cartels $1.9B fine, Swiss Leaks, Big Three 13.5% |
+| **stephen-green** | **Completato** | HSBC CEO/Chairman → Baron → Minister Trade 2011-13; Swiss Leaks durante mandato; prete-banchiere paradosso |
+| **douglas-flint** | **Completato** | HSBC CFO/Chairman → BP board → IIF Chairman → Abrdn → IP Group → Hakluyt → Belt Road Envoy |
 
 ### Tier 1 - DA FARE
 | Entità | Tipo | Priorità |
@@ -1217,7 +1299,6 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 - **elliott-management** - Activist fund, pressione su BP
 - **frederick-barclay** / **david-barclay** - Ex-Telegraph owners
 - **shriti-vadera** - Chair Prudential, Hakluyt Advisory Board
-- **douglas-flint** - Ex-Chairman HSBC, Hakluyt Advisory Board
 
 ### Tier 3 - COMPLETAMENTO
 - Altre famiglie aristocratiche (Cadogan, Portman, Sainsbury)
@@ -1272,6 +1353,12 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 40. **Andrew Knight Gatekeeper Model** - Un singolo individuo (Knight) come ponte tra 3 imperi media (Economist, Telegraph, News Corp) + finanza (Rothschild) via Bilderberg per 40+ anni
 41. **Bilderberg Recruiting Officer Pattern** - Knight come "recruiting officer UK" identifica e recluta talenti/alleati per network transatlantico (es. Conrad Black 1985)
 42. **Media → Finance Transition** - Knight: dopo 25 anni nei media (1966-1990), transizione verso finanza Rothschild (1997-2010), mantenendo influenza in entrambi settori
+43. **HSBC Colonial Origins** - Fondata 1865 per finanziare commercio oppio britannico in Cina; oggi 7a banca mondiale ma stessa logica: servire capitale globale ovunque
+44. **HSBC → UK Government Pipeline** - Green (Chairman → Baron + Minister) e Flint (Chairman → Belt Road Envoy): pattern sistematico di chairman HSBC che entrano in governo/diplomazia UK
+45. **"Prete-Banchiere" Paradox** - Stephen Green: ordinato prete anglicano, autore libri su etica finanziaria, mentre HSBC riciclava per cartelli e facilitava evasione fiscale. Nessuna conseguenza penale
+46. **"Too Big to Jail" Banking** - HSBC: $881M riciclati per Sinaloa, $1.9B multa = 5 settimane di profitti, zero condanne penali. Pattern: banche sistemiche immune da conseguenze reali
+47. **Institute of International Finance Network** - Douglas Flint Chairman IIF 2012-16: lobby bancaria globale che connette chairman banche mondiali e influenza regolamentazione
+48. **CFO → Chairman Promotion Pattern** - Flint: CFO HSBC 1995-2010, promosso Chairman quando Green va in governo. Pattern: il CFO conosce dove sono i corpi, diventa chairman
 
 ### Fonti chiave:
 - [Elitist Britain 2025](https://www.suttontrust.com/our-research/elitist-britain-2025/) - Sutton Trust
@@ -1292,7 +1379,12 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 - [GOV.UK - Baroness Gustafsson](https://www.gov.uk/government/people/poppy-gustafsson) - Minister appointment
 - [openDemocracy - About](https://www.opendemocracy.net/en/about/) - Funding, governance
 - [Powerbase - Andrew Knight](https://powerbase.info/index.php/Andrew_Knight) - Bilderberg Steering, Telegraph, News Corp connections
+- [Wikipedia - HSBC](https://en.wikipedia.org/wiki/HSBC) - Opium origins, scandals
+- [ICIJ - Swiss Leaks](https://www.icij.org/investigations/swiss-leaks/) - HSBC tax evasion
+- [US DOJ - HSBC Settlement 2012](https://www.justice.gov/archives/opa/pr/hsbc-holdings-plc-and-hsbc-bank-usa-na-admit-anti-money-laundering-and-sanctions-violations) - Cartels money laundering
+- [Wikipedia - Stephen Green](https://en.wikipedia.org/wiki/Stephen_Green,_Baron_Green_of_Hurstpierpoint) - HSBC Chairman, Baron, Minister
+- [Wikipedia - Douglas Flint](https://en.wikipedia.org/wiki/Douglas_Flint) - HSBC CFO/Chairman
 
 ---
 
-*Ultimo aggiornamento: 29 Dicembre 2025 - Aggiunto Andrew Knight (Economist Editor → Telegraph CEO → News Corp → Bilderberg Steering 18 anni → Rothschild). Documentato pattern "Gatekeeper dei Media UK": ponte tra 3 imperi media + finanza Rothschild via Bilderberg per 40+ anni. Aggiunti pattern 40-42.*
+*Ultimo aggiornamento: 10 Gennaio 2026 - Documentato HSBC (oppio origins 1865, $3.1T assets, cartels $1.9B fine, Swiss Leaks, Big Three 13.5%). Aggiunti Stephen Green (HSBC → Baron → Minister, "prete-banchiere" paradosso) e Douglas Flint (HSBC → IIF → Abrdn → Hakluyt → Belt Road Envoy). Documentati pattern 43-48: HSBC Colonial Origins, HSBC-Government Pipeline, "Prete-Banchiere" Paradox, "Too Big to Jail" Banking, IIF Network, CFO → Chairman Promotion.*

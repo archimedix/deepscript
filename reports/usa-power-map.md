@@ -15,6 +15,7 @@ Gli Stati Uniti rappresentano il centro nevralgico del potere globale post-1945.
 7. **AI Infrastructure** - NVIDIA (80-90% GPU AI), controllo bottleneck globale
 8. **Intelligence** - CIA (27), NSA (12), OSS (11)
 9. **Dinastie** - Rockefeller, Bush, Morgan, Walton, Pritzker
+10. **Filantropia strategica** - Ford Foundation ($16B), Rockefeller Foundation ($6B), Gates Foundation - agenda setting, elite pipeline, revolving door governo-filantropia
 
 ---
 
@@ -38,6 +39,7 @@ Le figure con piu' affiliazioni nel database:
 | 12 | [Ajay Banga](../docs/persons/ajay-banga.md) | 9 | World Bank President, Mastercard, WEF |
 | 13 | [Larry Ellison](../docs/persons/larry-ellison.md) | 9 | Oracle founder, Tesla, Stargate Project |
 | 14 | [Elon Musk](../docs/persons/elon-musk.md) | 9 | Tesla, SpaceX, X, DOGE |
+| 15 | [James Johnson](../docs/persons/james-johnson.md) | 12 | Fannie Mae, Goldman Sachs, Brookings, Bilderberg steering, VP selection |
 
 ---
 
@@ -58,6 +60,8 @@ Le figure con piu' affiliazioni nel database:
 | [Kissinger Associates](../docs/company/kissinger-associates.md) | 14 | Company | Strategic consulting, revolving door |
 | [Skull and Bones](../docs/forum/skull-and-bones.md) | 13 | Forum | Yale elite network |
 | [JPMorgan Chase](../docs/bank/jpmorgan-chase.md) | 10 | Bank | Fusione Morgan-Rockefeller, $4T assets |
+| [Ford Foundation](../docs/foundation/ford-foundation.md) | 10 | Foundation | Filantropia strategica, CFR/Trilateral funder |
+| [Rockefeller Foundation](../docs/foundation/rockefeller-foundation.md) | 7 | Foundation | Green Revolution, elite pipeline |
 
 ---
 
@@ -190,7 +194,7 @@ Figure USA presenti in 3+ forum/think tank:
 | [Eric Schmidt](../docs/persons/eric-schmidt.md) | Google | Bilderberg, CFR, SCSP (AI Commission), DoD Advisor |
 | [Peter Thiel](../docs/persons/peter-thiel.md) | Palantir, OpenAI | Bilderberg, WEF |
 | [Bill Gates](../docs/persons/bill-gates.md) | Microsoft | Bilderberg, WEF, State of World Forum |
-| [Elon Musk](../docs/persons/elon-musk.md) | Tesla, OpenAI | DOGE (Trump 2025) |
+| [Elon Musk](../docs/persons/elon-musk.md) | Tesla, SpaceX, X | DOGE (Jan-Nov 2025, defunct), nipote Joshua Haldeman (Technocracy Inc.) |
 | [Reid Hoffman](../docs/persons/reid-hoffman.md) | LinkedIn, Microsoft, OpenAI | Bilderberg, CFR, PayPal Mafia |
 | [Larry Ellison](../docs/persons/larry-ellison.md) | Oracle, Apple, Tesla | Tony Blair Institute |
 | [Mark Zuckerberg](../docs/persons/mark-zuckerberg.md) | Meta | WEF, Business Roundtable |
@@ -198,6 +202,42 @@ Figure USA presenti in 3+ forum/think tank:
 | [Michael Dell](../docs/persons/michael-dell.md) | Dell Technologies | **WEF Honorary Board**, Business Roundtable, Tech CEO Council |
 | [Daniel Ek](../docs/persons/daniel-ek.md) | Spotify | **Bilderberg 2025** |
 | [Drew Houston](../docs/persons/drew-houston.md) | Dropbox | WEF Davos |
+
+#### Bilderberg Steering Committee USA: Continuita' Storica
+
+Il **Bilderberg Steering Committee** - il cerchio interno che organizza i meeting e seleziona i partecipanti - ha avuto membri americani chiave fin dalle origini (1954). Il pattern mostra una continuita' notevole: **governo → finanza → steering committee**.
+
+**Membri storici USA (documentati):**
+
+| Persona | Periodo | Background | Pattern |
+|---------|---------|------------|---------|
+| [David Rockefeller](../docs/persons/david-rockefeller.md) | 1954-2017 | Chase Manhattan, CFR, Trilateral | Fondatore sistema |
+| [Emilio Collado](../docs/persons/emilio-collado.md) | ~1950s-70s | World Bank (1° US Exec Dir), Exxon EVP | Bretton Woods → Oil → Steering |
+| [Gabriel Hauge](../docs/persons/gabriel-hauge.md) | ~1950s-70s | Eisenhower advisor, Mfrs Hanover Chairman | White House → Bank → Steering |
+| [James Johnson](../docs/persons/james-johnson.md) | ~1990s-2020 | Fannie Mae CEO, Goldman Sachs board | Housing → Wall Street → Steering |
+| [Richard Perle](../docs/persons/richard-perle.md) | ~1980s-2015 | Asst Sec Defense, AEI, PNAC | Neocon network |
+| [Henry Kissinger](../docs/persons/henry-kissinger.md) | 1957-2023 | State, NSC, Kissinger Associates | Architetto sistema |
+
+**Membri attuali USA (tech era):**
+
+| Persona | Ruolo Corporate | Pattern |
+|---------|-----------------|---------|
+| [Satya Nadella](../docs/persons/satya-nadella.md) | Microsoft CEO | Tech inner circle |
+| [Peter Thiel](../docs/persons/peter-thiel.md) | Palantir, OpenAI | Tech-defense |
+| [Eric Schmidt](../docs/persons/eric-schmidt.md) | ex-Google | Tech-government |
+
+**Pattern storico Steering Committee:**
+```
+1950s-70s: Bretton Woods architects (Collado), White House advisors (Hauge)
+           │
+           v
+1980s-90s: Neocon network (Perle), Democratic power brokers (Johnson)
+           │
+           v
+2000s-oggi: Tech executives (Nadella, Thiel, Schmidt)
+```
+
+**Insight:** Il passaggio da "Bretton Woods architects" a "tech executives" nel steering committee riflette la transizione del potere USA da finanza tradizionale a tech platform. Tuttavia il **pattern governo→privato→steering** rimane costante.
 
 #### Satya Nadella: Bilderberg Steering Committee
 
@@ -849,6 +889,87 @@ Susquehanna International Group (1987)
 
 SIG è nota per usare **tornei di poker** per formare i trader - decisioni rapide sotto incertezza.
 
+### 17. Healthcare Power: Il Complesso Sanitario-Assicurativo
+
+Il settore healthcare USA rappresenta **18% del PIL** (~$4.5 trilioni) - un potere economico paragonabile al PIL della Germania. Al centro: assicuratori privati che fungono da gatekeeper tra pazienti e cure.
+
+#### UnitedHealth Group: Il Colosso
+
+[UnitedHealth Group](../docs/company/unitedhealth.md) e' la 7° azienda al mondo per ricavi (Fortune Global 500):
+
+| Metrica | Valore |
+|---------|--------|
+| **Revenue** | $445+ billion (2025) |
+| **Market Cap** | ~$300 billion |
+| **Membri assicurati** | 70+ milioni |
+| **Dipendenti** | ~400,000 |
+| **Divisioni** | UnitedHealthcare (assicurazione) + Optum (servizi) |
+
+**WEF Partner**: UnitedHealth e' partner del World Economic Forum - integrazione nella governance globale.
+
+#### Pattern di Potere Healthcare
+
+| Tipo | Esempio | Pattern |
+|------|---------|---------|
+| **Board crossover** | [James Johnson](../docs/persons/james-johnson.md) | Fannie Mae → Goldman Sachs → UnitedHealth board |
+| **CEO-to-wealth** | [William McGuire](../docs/persons/william-mcguire.md) | Medico → CEO → $1.6B in options |
+| **Accounting to C-suite** | [Brian Thompson](../docs/persons/brian-thompson.md) | PwC → CFO roles → CEO |
+
+#### Lo Scandalo McGuire (2006): Corporate Governance Fallita
+
+[William McGuire](../docs/persons/william-mcguire.md) rappresenta il **piu' grande scandalo stock options** della storia USA:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Pratica** | Backdating options per massimizzare profitti |
+| **Periodo** | 1994-2005 |
+| **Compensi nascosti** | $1+ billion |
+| **Settlement SEC** | **$468 million** (record individuale) |
+| **Totale restituito** | $600+ million |
+| **Ban** | 10 anni da public company |
+
+**Prima applicazione** del "clawback" Sarbanes-Oxley su un individuo.
+
+**Implicazione**: Anche nelle piu' grandi corporations, il controllo degli insider puo' operare per anni senza oversight efficace.
+
+#### L'Assassinio Thompson (2024): Crisi Sistemica
+
+Il 4 dicembre 2024, [Brian Thompson](../docs/persons/brian-thompson.md), CEO di UnitedHealthcare, e' stato assassinato a New York:
+
+| Dettaglio | Significato |
+|-----------|-------------|
+| **Bossoli incisi** | "delay, deny, depose" - riferimento a pratiche claim denial |
+| **Reazione pubblica** | Supporto virale per l'assassino sui social |
+| **#FreeLuigi** | 50,000+ tweet di supporto |
+| **Dibattito** | Crisi sistemica del modello sanitario USA |
+
+**Pattern**: L'assassinio ha catalizzato la rabbia pubblica contro il sistema, non contro l'individuo. Segnale di **crisi di legittimita'** del modello healthcare USA.
+
+#### James Johnson: Il Connettore Democratico
+
+[James Johnson](../docs/persons/james-johnson.md) (1943-2020) rappresenta l'architetto del **potere democratico** USA - ponte tra Wall Street, housing policy, think tank e selezione VP:
+
+```
+                    JAMES JOHNSON
+                         |
+     +--------+----------+----------+---------+
+     |        |          |          |         |
+     v        v          v          v         v
+ FANNIE MAE  GOLDMAN   BROOKINGS  BILDERBERG  VP SELECTION
+ (1991-98)   SACHS     (Chairman)  (Steering)  Obama, Kerry,
+ CEO         (Board     CFR                    Mondale
+             1999-2018) Trilateral
+```
+
+**Pattern Johnson:**
+- **Housing finance**: CEO Fannie Mae durante boom anni '90
+- **Wall Street**: Board Goldman Sachs (19 anni, longest-serving)
+- **Think tank**: Chairman Brookings Institution
+- **Forum**: Bilderberg Steering Committee, CFR, Trilateral
+- **Political**: VP selection per Mondale (1984), Kerry (2004), Obama (2008)
+
+**Controversia 2008**: Si dimise dalla VP search Obama per la controversia "Friends of Angelo" (prestiti preferenziali Countrywide).
+
 ---
 
 ## Dinastie USA
@@ -935,6 +1056,131 @@ La famiglia **piu' ricca del mondo** ($432B) ma assente dai forum globali.
 
 ---
 
+## Filantropia Strategica: Il Potere delle Fondazioni
+
+Le grandi fondazioni americane rappresentano un nodo cruciale del potere: **capitale finanziario + agenda setting + formazione elite + revolving door governo-filantropia**.
+
+### Le Due Grandi: Rockefeller e Ford
+
+| Fondazione | Endowment | Grantmaking | Fondazione | Pattern |
+|------------|-----------|-------------|------------|---------|
+| [Rockefeller Foundation](../docs/foundation/rockefeller-foundation.md) | $6B | ~$200M/anno | 1913 | Dinastia → Think tank → Global policy |
+| [Ford Foundation](../docs/foundation/ford-foundation.md) | $16B | $500-600M/anno | 1936 | Automotive → Civil rights → Social justice |
+| Gates Foundation | $75B | $7B+/anno | 2000 | Tech → Global health → Education |
+
+### Ford Foundation: Il Nodo del Potere Liberal
+
+La Ford Foundation ($16B endowment) e' diventata uno degli architetti principali dell'agenda progressista americana:
+
+```
+FORD FOUNDATION
+      │
+      ├──► CFR Funding (co-finanziatore storico)
+      │
+      ├──► Trilateral Commission (1972)
+      │    McGeorge Bundy presente alla riunione fondativa
+      │
+      ├──► PBS/Public Television (1967)
+      │    Creazione broadcasting pubblico USA
+      │
+      ├──► Civil Rights Movement
+      │    NAACP, Urban League, voter registration (1960s)
+      │
+      └──► University Research Centers
+           107 centri finanziati (studio State Dept)
+```
+
+#### McGeorge Bundy: NSA → Ford Foundation
+
+[McGeorge Bundy](../docs/persons/mcgeorge-bundy.md) rappresenta il pattern **governo → filantropia**:
+
+| Periodo | Ruolo | Impatto |
+|---------|-------|---------|
+| **1961-1966** | National Security Advisor (Kennedy/LBJ) | Vietnam, Cuba, nuclear policy |
+| **1966-1979** | President Ford Foundation | Civil rights, PBS, urban development |
+| **1972** | Presente a riunione fondativa Trilaterale | Con David Rockefeller e Zbigniew Brzezinski |
+
+**Pattern**: L'architetto della politica estera USA durante Vietnam diventa presidente della maggiore fondazione filantropica, partecipando alla creazione dell'infrastruttura di governance transnazionale (Trilateral).
+
+#### Darren Walker: Il Connettore Filantropia-Corporate-Forum
+
+[Darren Walker](../docs/persons/darren-walker.md) rappresenta la **nuova generazione** del potere filantropico:
+
+```
+DARREN WALKER
+      │
+      ├──► Rockefeller Foundation (2002-2010)
+      │    VP Foundation Initiatives
+      │
+      ├──► Ford Foundation (2013-2025)
+      │    President - $16B, $600M/anno grantmaking
+      │
+      ├──► National Gallery of Art (2025-)
+      │    President
+      │
+      ├──► Corporate Boards
+      │    PepsiCo (2016-), Ralph Lauren, Bloomberg, Netflix
+      │
+      └──► Forum
+           CFR Member, Council for Inclusive Capitalism (Guardian)
+```
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Pipeline** | Rockefeller Foundation → Ford Foundation → National Gallery |
+| **Corporate crossover** | PepsiCo board (con Indra Nooyi), Ralph Lauren, Netflix |
+| **Innovazione** | Prima fondazione USA a emettere social bond ($1B, 2020) |
+| **Detroit Bargain** | Presiede comitato che porta Detroit fuori dalla bancarotta ($816M, 2014) |
+| **Record** | Primo uomo nero gay a guidare fondazione miliardaria |
+
+### Il Pattern Governo-Filantropia
+
+| Persona | Governo | Filantropia |
+|---------|---------|-------------|
+| [McGeorge Bundy](../docs/persons/mcgeorge-bundy.md) | NSA Kennedy/LBJ | Ford Foundation President |
+| [Rajiv Shah](../docs/persons/rajiv-shah.md) | USAID Administrator | Rockefeller Foundation President |
+| [Samantha Power](../docs/persons/samantha-power.md) | UN Ambassador, USAID | - |
+| Franklin Thomas | Bedford-Stuyvesant | Ford Foundation President (primo nero) |
+
+**Pattern**: La filantropia strategica funziona come **atterraggio morbido** per figure del governo, mantenendo influenza senza accountability elettorale.
+
+### Filantropia → Forum: Il Circuito del Potere
+
+Le fondazioni non solo finanziano, ma **co-creano** le istituzioni del potere transnazionale:
+
+| Fondazione | Forum/Istituzione | Relazione |
+|------------|-------------------|-----------|
+| [Rockefeller Foundation](../docs/foundation/rockefeller-foundation.md) | CFR | Finanziamento storico (anni '30), War and Peace Studies |
+| [Rockefeller Foundation](../docs/foundation/rockefeller-foundation.md) | Trilateral Commission | David Rockefeller fondatore, RF tra i finanziatori |
+| [Ford Foundation](../docs/foundation/ford-foundation.md) | CFR | Co-finanziatore, 107 centri ricerca universitari |
+| [Ford Foundation](../docs/foundation/ford-foundation.md) | Trilateral Commission | McGeorge Bundy alla riunione fondativa 1972 |
+| [Rockefeller Foundation](../docs/foundation/rockefeller-foundation.md) | WEF | Stewardship Board Food Systems |
+
+### Filantropia come Soft Power
+
+Le fondazioni esercitano potere attraverso:
+
+1. **Agenda setting**: Decidono quali temi diventano priorita' (climate, inequality, DEI)
+2. **Pipeline elite**: Fellowship creano network di futuri leader
+3. **University influence**: Funding determina direzioni di ricerca
+4. **Media shaping**: Ford creo' PBS, Gates finanzia giornalismo
+5. **Global South**: Green Revolution (Rockefeller + Ford) trasformo' agricoltura Asia
+
+> "La filantropia modella la salute globale lungo linee tecnocratiche che oscurano la politica delle disuguaglianze" — Critica accademica
+
+### Board Crossover: Filantropia-Corporate
+
+| Persona | Fondazione | Corporate Board |
+|---------|------------|-----------------|
+| [Darren Walker](../docs/persons/darren-walker.md) | Ford Foundation | PepsiCo, Ralph Lauren, Netflix, Bloomberg |
+| [Laurene Powell Jobs](../docs/persons/laurene-powell-jobs.md) | Emerson Collective | Ford Foundation Board (Chair Nominating) |
+| [Indra Nooyi](../docs/persons/indra-nooyi.md) | - | PepsiCo CEO → Amazon Board |
+| Patty Stonesifer | Gates Foundation CEO | Rockefeller Foundation Board |
+
+**Implicazione**: Le stesse persone siedono nei board di fondazioni e corporation, creando un circuito chiuso di influenza.
+
+---
+
 ## Connessioni Internazionali
 
 ### USA → Europa
@@ -974,12 +1220,113 @@ La famiglia **piu' ricca del mondo** ($432B) ma assente dai forum globali.
 |-------|---------|------------|
 | President | [Donald Trump](../docs/persons/donald-trump.md) | Real estate, media |
 | Vice President | [JD Vance](../docs/persons/jd-vance.md) | Venture capital, Senator |
-| Secretary of State | [Marco Rubio](../docs/persons/marco-rubio.md) | Senator Florida |
+| Secretary of State | [Marco Rubio](../docs/persons/marco-rubio.md) | Senator Florida, **"Secretary of Everything"** |
 | Secretary of Treasury | [Scott Bessent](../docs/persons/scott-bessent.md) | Hedge fund (Soros Fund) |
 | Secretary of Defense | [Peter Hegseth](../docs/persons/peter-hegseth.md) | Fox News |
 | Secretary of HHS | [Robert F. Kennedy Jr](../docs/persons/robert-kennedy-jr.md) | Kennedy family |
 | CIA Director | [John Ratcliffe](../docs/persons/john-ratcliffe.md) | Former DNI |
-| DOGE Advisor | [Elon Musk](../docs/persons/elon-musk.md) | Tesla, SpaceX (Jan-May 2025) |
+| DOGE Chair | [Elon Musk](../docs/persons/elon-musk.md) | Tesla, SpaceX (Jan-Nov 2025, defunct) |
+| DOGE Co-Chair (nominato) | [Vivek Ramaswamy](../docs/persons/vivek-ramaswamy.md) | Roivant, Strive (mai operativo) |
+
+### Marco Rubio: "Secretary of Everything" (2025)
+
+Rubio ha accumulato nel 2025 un numero senza precedenti di ruoli simultanei:
+
+| Ruolo | Periodo | Note |
+|-------|---------|------|
+| **Secretary of State** | Gen 2025- | 72nd, primo Latino |
+| **Acting NSA** | Mag 2025- | Ultimo precedente: Kissinger 1973-75 |
+| **Acting USAID Administrator** | 2025 | Durante smantellamento |
+| **Acting Archivist** | 2025 | - |
+
+**Pattern storico:** L'ultima volta che una persona ha ricoperto contemporaneamente Secretary of State e National Security Advisor fu [Henry Kissinger](../docs/persons/henry-kissinger.md) sotto Nixon/Ford (1973-1975).
+
+### DOGE: Esperimento Tecnocratico (Gen-Nov 2025)
+
+Il [Department of Government Efficiency](../docs/agency/doge.md) rappresenta il piu' ambizioso tentativo di riforma governativa della storia recente - e il suo rapido fallimento.
+
+| Fase | Periodo | Evento |
+|------|---------|--------|
+| **Annuncio** | Nov 2024 | Trump nomina Musk + Ramaswamy |
+| **Lancio** | Gen 2025 | E.O. 14158, riorganizza USDS |
+| **Obiettivo** | - | $2T tagli, poi rivisto a $1T |
+| **Ramaswamy out** | 20 Gen 2025 | Lascia per corsa governatore Ohio |
+| **Musk riduce** | Apr 2025 | Torna a Tesla |
+| **Fine** | Nov 2025 | DOGE non esiste piu' |
+
+**Risultati secondo Cato Institute:**
+> "DOGE had no noticeable effect on the trajectory of spending. But it did help engineer the largest peacetime workforce reduction on record."
+
+**Spesa federale:** FY2024 $6.7T → FY2025 ~$7T (aumento nonostante DOGE)
+
+#### La Genealogia Tecnocratica: Da Technocracy Inc. a DOGE
+
+DOGE rappresenta la quarta generazione di un movimento ideologico americano nato negli anni '30:
+
+```
+TECHNOCRACY INCORPORATED (1933)
+│
+├── HOWARD SCOTT (1890-1970)
+│   └── Chief Engineer, credenziali false
+│
+├── M. KING HUBBERT (1903-1989)
+│   └── Co-fondatore → Peak Oil Theory (1956)
+│
+├── JOSHUA HALDEMAN (1902-1974)
+│   ├── Membro 1936-1941, arrestato Canada 1940
+│   ├── Emigrato Sudafrica 1950
+│   └── Nonno materno di Elon Musk
+│
+└── JACQUE FRESCO (1916-2017)
+    └── Venus Project (1985)
+        └── PETER JOSEPH → Zeitgeist Movement (2008)
+            └── 350M+ views film
+
+                         ↓
+
+ELON MUSK (1971-)
+├── Tweet 2019: "accelerating Starship development
+│   to build the Martian Technocracy"
+└── DOGE (2024-2025) - paralleli ideologici
+```
+
+**Paralleli Technocracy Inc. ↔ DOGE:**
+
+| Technocracy Inc. (1930s) | DOGE (2025) |
+|--------------------------|-------------|
+| Eliminare 90% tribunali | Taglio drastico burocrazia |
+| Efficienza come principio | Efficienza come principio |
+| Gestione tecnocratica | Gestione imprenditoriale |
+| Energy accounting | Automazione con AI |
+| Anti-democrazia | Scetticismo verso burocrazia |
+
+**Differenza chiave:** A differenza dei predecessori, Musk aveva accesso reale al potere esecutivo, risorse finanziarie, controllo su piattaforme (X), e tecnologie di automazione.
+
+**Fonti:** [Technocracy Genealogy Report](technocracy-genealogy.md), [Jill Lepore (Harvard)](https://www.cbc.ca/newsinteractives/features/joshua-haldeman-elon-musk-saskatchewan-tech-utopian-conspiracist)
+
+### Smantellamento USAID (2025)
+
+Lo smantellamento di [USAID](../docs/agency/usaid.md) rappresenta la piu' drastica riorganizzazione degli aiuti esteri USA dal 1961:
+
+| Data | Evento |
+|------|--------|
+| **1961** | Kennedy fonda USAID (E.O. 10973) |
+| **2024** | Budget $35B+, 100+ paesi |
+| **20 Gen 2025** | E.O. 14169 pausa 90 giorni |
+| **10 Mar 2025** | Rubio cancella 83% programmi |
+| **1 Lug 2025** | USAID cessa operazioni |
+
+**Figure chiave:**
+
+| Persona | Ruolo |
+|---------|-------|
+| [Marco Rubio](../docs/persons/marco-rubio.md) | Secretary of State che smantella |
+| [Samantha Power](../docs/persons/samantha-power.md) | Ultima Administrator (2021-2025) |
+| [Rajiv Shah](../docs/persons/rajiv-shah.md) | Administrator 2010-2015, ora Rockefeller Foundation |
+
+**Status legale:** USAID fu riorganizzata come agenzia indipendente dal Congresso nel 1998 - legalmente puo' essere chiusa solo con atto del Congresso. Sfide legali in corso.
+
+**Implicazione:** Fine di 64 anni di soft power USA attraverso aiuti allo sviluppo. Programmi "allineati" trasferiti a State Dept.
 
 ---
 
@@ -1072,6 +1419,11 @@ Il potere USA opera attraverso:
 29. **Regulator → PE → Infrastructure Board**: Genachowski (FCC Chairman → Carlyle → Mastercard board) - capitale relazionale monetizzato
 30. **Big Three Common Ownership**: Vanguard/BlackRock/State Street possiedono ~19% di ENTRAMBI Visa e Mastercard - riduce incentivi competizione
 31. **German Executive → US Major Corp**: Miebach (Mastercard CEO) come pattern immigrato simile a Nadella
+32. **Genealogia Tecnocratica**: Technocracy Inc. (1933) → Joshua Haldeman → Elon Musk → DOGE (2025) - ideologia marginale che riemerge al potere
+33. **Concentrazione Poteri Esecutivi**: Rubio "Secretary of Everything" (State + NSA + USAID + Archivist) - precedente Kissinger 1973-75
+34. **Smantellamento Istituzioni**: USAID (64 anni, $35B) smantellata in 6 mesi da Rubio - fine soft power development
+35. **Esperimenti Tecnocratici Falliti**: DOGE prometteva $2T tagli, spesa aumentata FY2025 - workforce reduction senza efficienza
+36. **Tech Billionaire Anti-Establishment**: Musk pattern (no Bilderberg, no WEF, antagonistic) vs Nadella (fully integrated)
 
 ### Nuovo Pattern: Otto Tipi di Potere
 
@@ -1092,6 +1444,8 @@ L'analisi rivela otto tipi distinti di potere:
 | **Low-Profile Tech** | Michael Dell | Business + selective forum | WEF Honorary (no Bilderberg) | Dell Technologies, DFO |
 | **Crypto-Political** | Trump/WLFI, CZ | Crypto business + presidential power | **Nessuno** | Binance, WLFI, pardon |
 | **Trading No-Forum** | Jeff Yass, Thomas Peterffy | Prop trading/market making wealth | **Nessuno** | SIG, Interactive Brokers, donations |
+| **Tecnocratico** | Elon Musk | Tech + accesso esecutivo + genealogia ideologica | **Nessuno** (antagonistic) | DOGE (defunct), Tesla, SpaceX, X |
+| **Concentrazione Esecutiva** | Marco Rubio | Ruoli multipli simultanei | N/A (governo) | State + NSA + USAID Acting |
 
 **Insight chiave:**
 
@@ -1109,6 +1463,8 @@ L'analisi rivela otto tipi distinti di potere:
 12. **Julia Koch** incarna la transizione generazionale: eredita $74-81B e 42% Koch Industries, ma si concentra su filantropia artistica NYC (Met, Lincoln Center) invece che network politico Koch.
 13. **Trump/WLFI-Binance-CZ** rappresenta un nuovo pattern: crypto come strumento di potere presidenziale. La famiglia del presidente ha un business crypto attivo ($4B+ valore), la cui stablecoin USD1 finanzia deal geopolitici (MGX-Binance), seguiti da grazie presidenziali correlate (CZ). Pattern "Pardon Economy" senza precedenti.
 14. **Trading Billionaires** (Yass, Peterffy, Englander) rappresentano un tipo di potere completamente diverso: nessuna partecipazione ai forum globali, influenza costruita attraverso donazioni politiche dirette (~$100M+ Yass 2024) e think tank libertari (Cato, Club for Growth). Il caso Englander→Yass (1981) mostra come il mentorship nel trading crea dynasty finanziarie. Il conflitto Yass (7% ByteDance + $100M GOP donor) illustra le tensioni tra interessi business e posizioni partito.
+15. **Elon Musk** incarna il pattern "Tecnocratico": nipote di Joshua Haldeman (membro Technocracy Inc. 1936-1941), ha portato l'ideologia marginale anni '30 al potere esecutivo con DOGE. A differenza di Nadella (fully integrated), Musk e' antagonistico verso forum globali (assente da Bilderberg, critico di WEF). DOGE ha fallito ($2T promessi → spesa aumentata), ma ha prodotto "largest peacetime workforce reduction on record" (Cato).
+16. **Marco Rubio** rappresenta la "Concentrazione Esecutiva": primo Latino Secretary of State + Acting NSA + Acting USAID Administrator + Acting Archivist simultaneamente. Ultimo precedente: Kissinger 1973-75 (State + NSA). Ha smantellato USAID (64 anni, $35B budget) in 6 mesi. Pattern di consolidamento poteri esecutivi senza precedenti post-WWII.
 
 **Implicazione**: Il potere si sta stratificando. Alcuni (Huang) controllano infrastruttura, altri (Nadella) sono nel cerchio interno dei forum, altri (Peterson) accumulano governance, altri (Rubenstein) controllano le istituzioni che definiscono la foreign policy. Le combinazioni determinano l'influenza reale.
 
@@ -1177,6 +1533,10 @@ L'analisi rivela otto tipi distinti di potere:
 | **TikTok Investor → GOP Donor Conflict** | Yass ($100M GOP, 7% ByteDance) | Business vs party position |
 | **PE founder → Trump Advisor** | Schwarzman (Strategic Policy Forum Chair 2017) | PE-White House direct line |
 | **Newsmax Conservative Media Stake** | Peterffy ~25% ($6B+ value post-IPO 2025) | Trading wealth → media influence |
+| **Bretton Woods → Oil → Steering** | Emilio Collado (World Bank → Exxon → Bilderberg) | Post-war financial architecture |
+| **White House Advisor → Bank Chairman → Steering** | Gabriel Hauge (Eisenhower → Mfrs Hanover → Bilderberg) | Government-finance-forum pipeline |
+| **Neocon Network → Steering** | Richard Perle (Pentagon → AEI → PNAC → Bilderberg) | Defense policy to forum |
+| **Steering Committee Continuity** | Collado/Hauge (1950s) → Perle (1980s) → Nadella (2020s) | 70 years same pattern |
 
 ---
 
@@ -1330,6 +1690,10 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 | [Stephen Schwarzman](../docs/persons/stephen-schwarzman.md) | USA | Blackstone co-founder/CEO, $50B, Trump advisor |
 | [Jeff Yass](../docs/persons/jeff-yass.md) | USA | SIG founder, $65B, ByteDance 7%, Cato ex-board |
 | [Israel Englander](../docs/persons/israel-englander.md) | USA | Millennium Management founder, $19-26B, mentor Yass |
+| [Emilio Collado](../docs/persons/emilio-collado.md) | USA | World Bank 1° US Exec Dir, Exxon EVP, **Bilderberg Steering** |
+| [Gabriel Hauge](../docs/persons/gabriel-hauge.md) | USA | Eisenhower advisor, Mfrs Hanover Chairman, **Bilderberg Steering** |
+| [Richard Perle](../docs/persons/richard-perle.md) | USA | "Prince of Darkness", AEI, PNAC, **Bilderberg Steering** |
+| [Charles Mathias](../docs/persons/charles-mathias.md) | USA | Senator Maryland 1969-87, Jones Day partner |
 
 **Organizzazioni aggiunte/aggiornate:**
 | Organizzazione | Tipo | Note |
@@ -1355,6 +1719,39 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 - **Hoffman → PayPal Mafia + Bilderberg + CFR** (Silicon Valley connector)
 - **Microsoft board → Wells Fargo CEO + Citigroup CFO** (tech-finance bridge)
 - **Peterson → Microsoft + J&J + Bayer + CD&R** (super-director cross-sector)
+- **James Johnson → Bilderberg Steering + Goldman Sachs + Brookings + CFR + Trilateral** (Democratic power architect)
+- **UnitedHealth → WEF partner** (healthcare-global governance link)
+- **William McGuire → UnitedHealth + Minnesota United FC** (CEO scandal → sports owner)
+- **Brian Thompson → UnitedHealth + PwC** (accounting → C-suite → assassinated)
+
+**Schede complete create (Gennaio 2026 - Healthcare Power):**
+| Entità | Tipo | Path |
+|--------|------|------|
+| **James Johnson** | Person | `docs/persons/james-johnson.md` |
+| **UnitedHealth Group** | Company | `docs/company/unitedhealth.md` |
+| **Brian Thompson** | Person | `docs/persons/brian-thompson.md` |
+| **William McGuire** | Person | `docs/persons/william-mcguire.md` |
+
+**Schede complete create (Gennaio 2026 - Bilderberg Steering Storico):**
+| Entità | Tipo | Path |
+|--------|------|------|
+| **Emilio Collado** | Person | `docs/persons/emilio-collado.md` |
+| **Gabriel Hauge** | Person | `docs/persons/gabriel-hauge.md` |
+| **Richard Perle** | Person | `docs/persons/richard-perle.md` |
+| **Charles Mathias** | Person | `docs/persons/charles-mathias.md` |
+
+**Organizzazioni stub create:**
+| Organizzazione | Tipo | Note |
+|----------------|------|------|
+| **Target** | Company | Retail, James Johnson board |
+| **Perseus LLC** | PrivateEquity | Washington DC, James Johnson Vice Chairman 2001-12 |
+| **Minnesota United FC** | SportsClub | MLS, William McGuire owner |
+| **Manufacturers Hanover** | Bank | NY bank, Gabriel Hauge chairman 1971-79 (merged 1991) |
+| **Chrysler** | Automaker | Gabriel Hauge board |
+| **Jones Day** | Company | Law firm, Charles Mathias partner |
+| **Haverford College** | University | Charles Mathias BA 1944 |
+| **PNAC** | ThinkTank | Project for New American Century, Richard Perle signatory |
+
 - **Rubenstein → CFR Chairman + Carlyle founder + Trilateral Executive** (PE-foreign policy nexus)
 - **Rubenstein → Kennedy Center + Smithsonian + National Gallery** ("Patriotic Philanthropy")
 - **Conway → Johns Hopkins + Catholic University** (PE-healthcare governance)
@@ -1410,6 +1807,21 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 - **Stephen Schwarzman → Governo USA** (advisor Trump, Strategic Policy Forum Chair 2017)
 - **Stephen Schwarzman → Bilderberg** (partecipante)
 - **Susquehanna → ByteDance** (15% stake, TikTok parent)
+- **Emilio Collado → World Bank** (1° US Executive Director 1946-47, Temporary Chairman)
+- **Emilio Collado → Exxon** (EVP 1966-75, 28 anni totali)
+- **Emilio Collado → Bilderberg** (Steering Committee)
+- **Emilio Collado → OECD** (Chairman)
+- **Emilio Collado → JP Morgan & Co** (Board)
+- **Gabriel Hauge → Governo USA** (Economic Advisor Eisenhower 1953-58)
+- **Gabriel Hauge → Manufacturers Hanover** (Chairman 1971-79)
+- **Gabriel Hauge → Bilderberg** (Steering Committee, early member)
+- **Gabriel Hauge → CFR** (Director 1964-81)
+- **Gabriel Hauge → Shell** (Board, Royal Dutch Petroleum)
+- **Richard Perle → Governo USA** (Asst Sec Defense 1981-87, DPB Chair 2001-03)
+- **Richard Perle → AEI** (Resident Fellow 1987-)
+- **Richard Perle → Bilderberg** (Steering Committee, -2015)
+- **Richard Perle → PNAC** (Signatory)
+- **Richard Perle → Hollinger** (Executive Committee, scandalo Black)
 
 ---
 
@@ -1444,4 +1856,4 @@ Durante questa analisi sono state aggiunte le seguenti connessioni:
 
 ---
 
-*Ultimo aggiornamento: 1 Gennaio 2026 - Aggiunta sezione 16 "Trading Billionaires" (Yass, Peterffy, Englander), pattern mentor-protégé trading, Hungarian finance diaspora, TikTok investor conflict, Schwarzman scheda completa*
+*Ultimo aggiornamento: 10 Gennaio 2026 - Aggiunta sezione "Filantropia Strategica" (Ford Foundation, Rockefeller Foundation, pattern governo-filantropia, Darren Walker, McGeorge Bundy NSA→Ford), aggiornato Executive Summary e Nodi Organizzativi*

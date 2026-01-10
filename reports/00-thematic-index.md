@@ -57,6 +57,7 @@ Report che analizzano forum transnazionali, reti di coordinamento elite, e pipel
 
 | Report | Periodo | Focus |
 |--------|---------|-------|
+| [PNAC e FPI: Network Neocon](pnac-fpi-neocon-network.md) | 1997-2017 | PNAC, FPI, Iraq War, Kristol-Kagan |
 | [Consulting Power Pipeline](consulting-power-pipeline.md) | 1926-2025 | McKinsey come fabbrica di leader, Bob Sternfels hub |
 | [WEF Young Global Leaders](wef-young-global-leaders.md) | 1992-2025 | Programma YGL e impatto |
 | [Revolving Door](revolving-door-ex-leaders.md) | 1995-2024 | Transizioni governo-privato |
@@ -210,14 +211,15 @@ Report e analisi specifiche sul Belgio.
 
 ---
 
-## Movimenti Politici
+## Movimenti Politici e Ideologie
 
-Report che analizzano la costruzione di movimenti politici e stati.
+Report che analizzano la costruzione di movimenti politici, stati e ideologie.
 
 | Report | Periodo | Focus |
 |--------|---------|-------|
 | [Sionismo: Da Movimento a Stato](zionism-state-building.md) | 1897-1948 | Herzl, Balfour, Ben-Gurion |
 | [Nascita del Fascismo](fascismo-nascita-finanziamento.md) | 1914-1926 | Finanziatori internazionali |
+| [Technocracy Genealogy](technocracy-genealogy.md) | 1933-2025 | Da Technocracy Inc. a DOGE via Musk |
 
 **Eventi correlati:**
 - [Dichiarazione Balfour (1917)](../docs/events/1917-balfour-declaration.md)
@@ -304,6 +306,7 @@ Analisi di pattern/fenomeni attraverso il tempo:
 - [Dynasties Private Equity](dynasties-private-equity.md)
 - [Transatlantic Forums](transatlantic-forums-europe-influence.md)
 - [Gulf-Europe Pipeline](gulf-europe-pipeline-media.md)
+- [Technocracy Genealogy](technocracy-genealogy.md)
 
 ### Report Geografici
 Mappe di potere regionali:
@@ -339,7 +342,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 41 |
+| **Report totali** | 42 |
 | **Eventi documentati** | 30+ |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |
@@ -360,4 +363,4 @@ Analisi di industrie specifiche:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

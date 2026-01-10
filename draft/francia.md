@@ -19,14 +19,14 @@ Mappa del Potere Francese - Entità da Indagare
 
   | Organizzazione    | Tipo          | Priorità |
   |-------------------|---------------|----------|
-  | BNP Paribas       | Bank          | ✓ presente   |
-  | Société Générale  | Bank          | ⭐⭐⭐   |
-  | Crédit Agricole   | Bank          | ⭐⭐     |
-  | Banque de France  | CentralBank   | ⭐⭐⭐   |
+  | [v] BNP Paribas   | Bank          | ✓ presente   |
+  | [v] Société Générale| Bank          | ⭐⭐⭐   |
+  | [v] Crédit Agricole| Bank          | ⭐⭐     |
+  | [v] Banque de France| CentralBank   | ⭐⭐⭐   |
   | Caisse des Dépôts | SWF/Bank      | ⭐⭐⭐   |
   | Rothschild & Co   | Bank          | ✓ presente   |
   | Lazard Paris      | Bank          | ⭐⭐     |
-  | Amundi            | AssetManager  | ⭐⭐     |
+  | [v] Amundi        | AssetManager  | ⭐⭐     |
   | Ardian            | PrivateEquity | ⭐⭐     |
   | Eurazeo           | PrivateEquity | ⭐⭐     |
 

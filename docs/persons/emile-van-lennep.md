@@ -55,12 +55,13 @@
 ```
                   EMILE VAN LENNEP
                          |
-          +--------------+--------------+
-          |              |              |
-          v              v              v
-       OCSE         GOVERNO NL        FMI/IBRD
-   (1969-1984)     (1951-1969)      (delegato)
-   Segr. Gen.     Treasurer-Gen.
+       +--------+--------+--------+--------+
+       |        |        |        |        |
+       v        v        v        v        v
+    OCSE    GOVERNO   FMI/IBRD  BILDERBERG
+ (1969-84)    NL     (delegato) (1969-84)
+ Segr.Gen  (1951-69)            Regular
+          Treasurer              participant
 ```
 
 ### Network Professionale
@@ -68,6 +69,9 @@
 | Nome | Connessione |
 |------|-------------|
 | [Joseph Luns](joseph-luns.md) | Colleghi, elite olandese anni '50-'80 |
+| [Ernst van der Beugel](ernst-van-der-beugel.md) | Bilderberg Honorary Secretary General, contemporanei |
+| [Prince Bernhard](prince-bernhard-netherlands.md) | Fondatore Bilderberg, elite olandese |
+| [Max Kohnstamm](max-kohnstamm.md) | Bilderberg Steering Committee, contemporanei |
 
 ---
 
@@ -89,6 +93,15 @@
 | **Obiettivo** | Rendere OCSE forum piu' efficace per cooperazione internazionale |
 | **Tentativo fallito** | Espandere ruolo OCSE in negoziati monetari e commerciali |
 | **Opposizione** | Francia contraria, resistenza da GATT e FMI |
+
+### Bilderberg Group
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Periodo** | 1969-1984 (durante mandato OCSE) |
+| **Ruolo** | Regular participant, presentatore paper |
+| **1981** | Presentò paper su questioni economiche internazionali |
+| **Network** | Collegamento con elite olandese Bilderberg (Prince Bernhard, Ernst van der Beugel) |
 
 ---
 
@@ -119,6 +132,7 @@
 |---------|-------------|
 | [OCSE/OECD](../agency/oecd.md) | Secretary-General 1969-1984 |
 | [Governo Olanda](../government/governo-olanda.md) | Treasurer-General 1951-1969 |
+| [Bilderberg](../forum/bilderberg.md) | Regular participant 1969-1984 |
 
 ### Persone
 
@@ -155,4 +169,4 @@
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

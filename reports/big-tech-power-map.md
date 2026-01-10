@@ -705,6 +705,7 @@ Il refresh del board Meta nel 2025 segnala shift verso establishment Republican:
 | **Reid Hoffman** | Microsoft | Bilderberg, CFR | 3 | VC-Tech-Forum |
 | **Christopher Darby** | In-Q-Tel (ex-CEO) | NSCAI, Cerberus | 3 | **IQT→NSCAI→PE** pipeline |
 | **Sam Altman** | OpenAI (CEO) | Bilderberg, WEF YGL, Y Combinator (ex-President) | 6 | **YC→OpenAI→Worldcoin** vertical integration |
+| **Laurene Powell Jobs** | The Atlantic (owner) | CFR Chair Advisory, Ford Foundation, Goldman (alumna) | 6 | **Philanthrocapitalism** LLC, OpenAI+Anthropic investor |
 
 ---
 
@@ -754,6 +755,9 @@ Y Combinator ha formato i fondatori delle aziende piu' influenti:
 | **NVIDIA** | OpenAI | investor | Hardware supplier |
 | **Microsoft** | G42 (UAE) | investor | Middle East AI |
 | **Microsoft** | WEF | partner | Strategic Partnership |
+| **Emerson Collective** | OpenAI | investor | LPJ founding investor AI device con Jony Ive |
+| **Emerson Collective** | Anthropic | investor | AI safety |
+| **Emerson Collective** | Mistral | investor | French LLM ($415M Series A) |
 
 ---
 
@@ -969,7 +973,8 @@ Emerge una distinzione fondamentale tra due modelli di potere in Big Tech:
 | **Gulf State bridge** | Powell (Meta), Tahnoon (G42), MGX | Capitale sovrano → AI |
 | **Wall Street → Tech** | Cooper (Goldman→Amazon), Wagner (BlackRock→Apple) | Compensation control, governance |
 | **VC Kingmaker** | Doerr (board Alphabet + ex-Amazon), IQT ($40 leverage) | Investimenti trasformativi |
-| **Media control** | Bezos (WaPo), Ellison/figlio (Paramount) | Tech → media ownership |
+| **Media control** | Bezos (WaPo), Ellison/figlio (Paramount), LPJ (The Atlantic) | Tech/widow → media ownership |
+| **Philanthrocapitalism AI** | Laurene Powell Jobs (Emerson Collective) | OpenAI + Anthropic investor, CFR Chair Advisory |
 
 ### Implicazioni
 
@@ -1025,6 +1030,7 @@ Emerge una distinzione fondamentale tra due modelli di potere in Big Tech:
 - [Alex Karp](../docs/persons/alex-karp.md) - Palantir CEO, PhD Frankfurt School, "socialist" che costruisce surveillance tech
 - [Stephen Cohen](../docs/persons/stephen-cohen-palantir.md) - Palantir President, technical co-founder
 - [Sam Altman](../docs/persons/sam-altman.md) - OpenAI CEO, Y Combinator ex-President, Worldcoin Chairman
+- [Laurene Powell Jobs](../docs/persons/laurene-powell-jobs.md) - Emerson Collective founder, The Atlantic owner, CFR Chair Advisory
 
 ### Profili Documentati - Aziende
 - [Apple](../docs/company/apple.md) - Big Three control, Wagner-Levinson board
@@ -1036,6 +1042,7 @@ Emerge una distinzione fondamentale tra due modelli di potere in Big Tech:
 - [In-Q-Tel](../docs/private-equity/in-q-tel.md) - CIA venture capital arm, 800+ company, Keyhole→Google Earth
 - [Y Combinator](../docs/private-equity/y-combinator.md) - Accelerator, $600B portfolio, Altman ex-President
 - [Worldcoin](../docs/company/worldcoin.md) - Digital ID via iris scan, Altman co-founder, ban in 8+ paesi
+- [Emerson Collective](../docs/foundation/emerson-collective.md) - LPJ LLC, The Atlantic owner, OpenAI+Anthropic investor
 
 ### Report Correlati
 - [Microsoft Geopolitical Hub](microsoft-geopolitical-hub.md) - Analisi hub geopolitico
@@ -1059,4 +1066,4 @@ Emerge una distinzione fondamentale tra due modelli di potere in Big Tech:
 
 ---
 
-*Ultimo aggiornamento: 30 Dicembre 2025 (v6 - aggiunto Sam Altman profile, Y Combinator talent pipeline, Worldcoin controversy, Altman vertical integration pattern)*
+*Ultimo aggiornamento: 10 Gennaio 2026 (v7 - aggiunto Laurene Powell Jobs, Emerson Collective, pattern philanthrocapitalism AI investor)*

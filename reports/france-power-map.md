@@ -187,13 +187,14 @@ Alcune delle famiglie piu' ricche di Francia operano con estrema riservatezza, e
 
 ## V. Il Sistema Bancario Francese
 
-### Le Tre Grandi Banche
+### Le Quattro Grandi Banche
 
 | Banca | Asset | Tipo | Pattern |
 |-------|-------|------|---------|
-| [BNP Paribas](../docs/bank/bnp-paribas.md) | $2.9T | Universale | #1 Eurozona, multa $8.9B |
+| [BNP Paribas](../docs/bank/bnp-paribas.md) | €2.9T | Universale | #1 Eurozona, multa $8.9B |
+| [Crédit Agricole](../docs/bank/credit-agricole.md) | €2.5T | Cooperativa | #10 mondiale, controlla Amundi |
 | [BPCE](../docs/bank/bpce.md) | €1.57T | Cooperativa | Creata da Pérol 2009 |
-| Société Générale | €1.5T | Universale | Da documentare |
+| [Société Générale](../docs/bank/societe-generale.md) | €1.5T | Universale | Chairman italiano ex-ECB |
 
 ### BNP Paribas: La Banca Sistemica
 
@@ -239,14 +240,127 @@ MULTA $8.9B  VILLEROY COO
 
 Pattern: Istituzione multilaterale → Banca privata
 
+### Société Générale: Il Ponte Italia-Francia
+
+[Société Générale](../docs/bank/societe-generale.md) (1864) presenta un pattern unico: un chairman italiano ex-BCE a capo di una banca francese.
+
+```
+SOCIÉTÉ GÉNÉRALE (1864 - Napoleone III)
+            │
+    ┌───────┴───────┐
+    │               │
+CHAIRMAN         CEO
+    │               │
+    ▼               ▼
+BINI SMAGHI     KRUPA
+(ITA, ex-ECB)   (FRA-POL)
+2015-2026       2023-
+    │               │
+    │      ┌────────┴────────┐
+    │      │                 │
+    │      ▼                 ▼
+    │   KOHLER            OUDÉA
+    │   (ex-Eliseo)       (ex-CEO)
+    │   EVP 2025          → Sanofi
+    │      │
+    └──────┴──► BCE Governing Council
+```
+
+| Persona | Ruolo | Pattern |
+|---------|-------|---------|
+| [Lorenzo Bini Smaghi](../docs/persons/lorenzo-bini-smaghi.md) | Chairman 2015-2026 | ECB → Banca privata francese |
+| [Slawomir Krupa](../docs/persons/slawomir-krupa.md) | CEO 2023- | Chair European Banking Federation 2025 |
+| [Frédéric Oudéa](../docs/persons/frederic-oudea.md) | CEO 2008-2023 | IGF → SocGen → Chairman Sanofi |
+| [Alexis Kohler](../docs/persons/alexis-kohler.md) | EVP 2025- | **Eliseo (Macron) → Banca** |
+| [William Connelly](../docs/persons/william-connelly.md) | Future Chairman 2026 | Board member dal 2017 |
+
+**Il caso Kohler**: L'ingresso di Alexis Kohler (ex capo gabinetto di Macron) come Executive Vice President nel 2025 rappresenta il revolving door Eliseo-Finanza più diretto del macronismo.
+
+### Crédit Agricole e Amundi: Il Gigante Cooperativo
+
+[Crédit Agricole](../docs/bank/credit-agricole.md) (1894) è la più grande banca cooperativa del mondo e controlla [Amundi](../docs/asset-manager/amundi.md), il più grande asset manager europeo.
+
+```
+CRÉDIT AGRICOLE (1894 - cooperative agricole)
+            │
+    39 Caisses Régionales (cooperative)
+            │
+            ▼
+    SAS Rue La Boétie (55%)
+            │
+            ▼
+    CRÉDIT AGRICOLE S.A. (quotata)
+            │
+    ┌───────┴───────┬───────────────┐
+    │               │               │
+    ▼               ▼               ▼
+ AMUNDI         CA-CIB          INDOSUEZ
+(asset mgmt)   (investment)   (private bank)
+ €2.3T AUM
+    │
+    └──► #1 Europa, Top 10 globale
+```
+
+| Entità | Ruolo | AUM/Asset |
+|--------|-------|-----------|
+| [Crédit Agricole](../docs/bank/credit-agricole.md) | Parent | €2.5T asset |
+| [Amundi](../docs/asset-manager/amundi.md) | Asset manager | €2.3T AUM |
+| Crédit Agricole CIB | Investment bank | - |
+
+**Leadership Crédit Agricole 2025-2026:**
+
+| Ruolo | Nome | Note |
+|-------|------|------|
+| CEO | [Olivier Gavalda](../docs/persons/olivier-gavalda.md) | Dal 2025, carriera interna |
+| Chairman | [Eric Vial](../docs/persons/eric-vial.md) | Dal 2026 |
+| Ex-CEO | [Philippe Brassac](../docs/persons/philippe-brassac.md) | 2015-2025, Chair French Banking Federation |
+
+**Leadership Amundi:**
+
+| Ruolo | Nome | Note |
+|-------|------|------|
+| CEO | [Valérie Baudson](../docs/persons/valerie-baudson.md) | Dal 2021, ex ETF division |
+| Chairman | [Olivier Gavalda](../docs/persons/olivier-gavalda.md) | Dal 2025 (doppio ruolo) |
+| Fondatore | [Yves Perrier](../docs/persons/yves-perrier.md) | CEO 2010-2021, architetto fusione |
+
+**Pattern Amundi**: Nata nel 2010 dalla fusione CAAM (Crédit Agricole) + SGAM (Société Générale), Amundi ha poi acquisito Pioneer (Unicredit, €3.5B) e Lyxor (SocGen, €825M), consolidando l'asset management europeo.
+
 ### Banque de France e Sistema Globale
 
+La [Banque de France](../docs/central-bank/banque-de-france.md) (1800, Napoleone) è il nodo centrale del sistema monetario francese e un pilastro dell'Eurosistema.
+
+**Governatori e la pipeline BCE:**
+
+| Governatore | Periodo | Poi |
+|-------------|---------|-----|
+| [Jean-Claude Trichet](../docs/persons/jean-claude-trichet.md) | 1993-2003 | **Presidente BCE** 2003-2011 |
+| [Christian Noyer](../docs/persons/christian-noyer.md) | 2003-2015 | Chair BIS 2010-2015 |
+| [François Villeroy de Galhau](../docs/persons/francois-villeroy-de-galhau.md) | 2015- | Chair BIS 2022- |
+
 [François Villeroy de Galhau](../docs/persons/francois-villeroy-de-galhau.md) occupa tre vertici simultanei:
-- **Governatore Banque de France** (2015-)
+- **Governatore Banque de France** (2015-, rinominato 2021)
 - **Governing Council BCE** (ex officio)
 - **Chairman BIS** (2022-)
 
-Percorso: BNP COO → Banca centrale francese → Vertice banche centrali globali
+```
+VILLEROY DE GALHAU
+        │
+    ┌───┴───┬───────────┐
+    │       │           │
+    ▼       ▼           ▼
+BANQUE    BCE         BIS
+DE FRANCE Governing   Chairman
+Governor  Council     (2022-)
+(2015-)      │           │
+    │        │           │
+    └────────┴───────────┘
+             │
+    TRIPLO VERTICE SIMULTANEO
+```
+
+Percorso: Polytechnique → ENA → IGF → DSK staff → BNP COO → Banca centrale → Vertice banche centrali globali
+
+**Pattern francese BCE**: La Francia ha prodotto 2 presidenti BCE (Trichet, Lagarde) e 2 chairman BIS (Noyer, Villeroy) in 25 anni.
 
 ---
 
@@ -618,11 +732,22 @@ Tre membri della stessa classe YL si ritrovarono nell'orbita Macron:
 
 | Forum | Francesi Chiave | Ruolo |
 |-------|-----------------|-------|
-| **Bilderberg** | Henri de Castries (steering), Macron (2014), Bernard Arnault | Steering committee |
-| **WEF** | Macron (YGL 2016), Sarkozy (GLT 1992) | Young Global Leaders |
+| **Bilderberg** | Henri de Castries (steering), Macron (2014), Bernard Arnault, Bini Smaghi (2024) | Steering/Partecipanti |
+| **WEF** | Macron (YGL 2016), Sarkozy (GLT 1992), Villeroy de Galhau | Young Global Leaders |
 | **French-American Foundation** | Macron (2012), Hollande (1996), Philippe (2011) | Young Leaders |
 | **Trilaterale** | Lagarde, membri storici | Europa |
 | **Group of Thirty** | Trichet, Lagarde | Banchieri centrali |
+| **BIS** | Villeroy de Galhau (Chair), Noyer (ex-Chair) | Vertice banche centrali |
+
+### Il Ponte Italia-Francia
+
+Pattern unico: un italiano (ex-BCE) alla guida di una grande banca francese.
+
+| Persona | Ruolo in Francia | Background |
+|---------|------------------|------------|
+| [Lorenzo Bini Smaghi](../docs/persons/lorenzo-bini-smaghi.md) | Chairman Société Générale 2015-2026 | ECB Executive Board 2005-11, Banca d'Italia, SNAM, Italgas |
+
+Bini Smaghi rappresenta il pattern **banchiere centrale → corporate board**: dopo la BCE, ha presieduto SNAM (energia) e Italgas in Italia, poi Société Générale in Francia. Partecipante Bilderberg 2024.
 
 ### Bilderberg 2014: Il Lancio di Macron
 
@@ -1794,4 +1919,4 @@ Pattern: Controllo → Sopravvivenza → Influenza residua + diversificazione
 
 ---
 
-*Ultimo aggiornamento: 1 Gennaio 2026*
+*Ultimo aggiornamento: 10 Gennaio 2026*
