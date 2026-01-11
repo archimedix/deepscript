@@ -165,7 +165,6 @@ Riporta:
 - Righe prima: X
 - Righe dopo: Y
 - Riduzione: Z%
-- Link rimossi (rotti): lista
 - Pattern mantenuti: lista
 - TODO identificati: lista
 
@@ -176,4 +175,4 @@ Riporta:
 3. **Mai perdere TODO** - Sono il lavoro futuro
 4. **Preferisci tabelle a prose** - Piu' dense di info
 5. **Un link rotto e' peggio di nessun link** - Rimuovi link non funzionanti
-6. **Obiettivo: -50% righe** - Dimezza mantenendo l'essenza
+6. **Obiettivo: non superare le 1000 righe** - Dimezza mantenendo l'essenza

@@ -134,7 +134,7 @@ L'Italia rappresenta il caso piu' estremo di influenza dei forum:
 
 #### Italiani nello Steering Committee Bilderberg
 
-L'Italia ha il maggior numero di membri nello Steering Committee Bilderberg (6), superando USA, Germania e UK:
+L'Italia ha il maggior numero di membri nello Steering Committee Bilderberg (10), superando ampiamente USA, Germania e UK:
 
 | Persona | Periodo | Background |
 |---------|---------|------------|
@@ -142,28 +142,41 @@ L'Italia ha il maggior numero di membri nello Steering Committee Bilderberg (6),
 | **Mario Monti** | attivo | PM, Commissario UE |
 | **Romano Prodi** | attivo | PM, Presidente Commissione UE |
 | **Giuliano Amato** | attivo | PM, Corte Costituzionale |
-| **John Elkann** | 2015- | Exor, FIAT, Economist |
+| **John Elkann** | 2012-2020 | Exor, FIAT, Economist |
 | **Franco Bernabe'** | attivo | ENI, Telecom Italia |
+| **Tommaso Padoa-Schioppa** | attivo | BCE board 1998-2005, Min. Economia |
+| **Renato Ruggiero** | attivo | Direttore Generale WTO |
+| **Lilli Gruber** | attivo | Giornalista La7 (pattern media) |
+| **Gian Cittadini-Cesi** | attivo | Business |
 
 > La dinastia Agnelli-Elkann e' l'unica famiglia con continuita' nello Steering dal 1958.
+> **Nota**: La presenza di Lilli Gruber (giornalista) e' significativa come pattern media-forum.
 
 #### Pattern Intelligence-Forum
 
-| Persona | Intelligence | Forum | Business |
-|---------|--------------|-------|----------|
-| **Giampiero Massolo** | Dir. AISE 2012-16 | AC, Bilderberg, Trilat, WEF | Atlantia, ISPI |
+| Persona | Intelligence | Forum | Business/Ruolo |
+|---------|--------------|-------|----------------|
+| **Giampiero Massolo** | Dir. AISE 2012-16 | AC, Bilderberg, Trilat, WEF | Atlantia, ISPI (4 forum - record) |
+| **Henry Kissinger** | NSA (advisor) | AC, Bilderberg, Trilaterale | Segr. Stato USA |
+| **Michael Hayden** | Dir. CIA, Dir. NSA | Atlantic Council | Gen. USAF |
+| **Robert Gates** | Dir. CIA 1991-93 | Atlantic Council | Segr. Difesa USA |
+| **Leon Panetta** | Dir. CIA 2009-11 | Atlantic Council | Segr. Difesa USA |
+| **Brent Scowcroft** | NSA (Consigliere) | Atlantic Council (Chairman) | Gen. USAF |
 | **Roberto Cingolani** | - | NATO board | Leonardo CEO |
 | **Stefano Pontecorvo** | - | NATO executive | Diplomatico |
+
+> **Pattern USA**: L'Atlantic Council funziona come "approdo" per ex-direttori CIA/NSA.
+> **Pattern Italia**: Massolo e' l'unico non-americano con 4 forum + intelligence.
 
 #### Italiani nei Forum (riepilogo)
 
 | Forum | Italiani | Ruoli Chiave |
 |-------|----------|--------------|
-| **Bilderberg** | 14 | 6 Steering, 8 membri |
-| **WEF** | 11 | 1 YGL (Renzi), membri |
-| **Trilaterale** | 4 | 1 executive (Magri) |
+| **Bilderberg** | 18 | 10 Steering, 8 membri |
+| **WEF** | 33 | 6 YGL (Renzi, Mogherini, Petrocelli...), membri |
+| **Trilaterale** | 5 | 1 executive (Magri), Messina, Tronchetti Provera |
 | **Atlantic Council** | 3 | Massolo, Descalzi |
-| **NATO** | 4 | Zappia, Pontecorvo, Cingolani |
+| **NATO** | 4 | Zappia, Pontecorvo, Cingolani, Mogherini |
 
 ---
 
@@ -215,6 +228,9 @@ BILDERBERG (coordinamento elite)
 | **Børge Brende** | NOR | Bilderberg (Steering), Trilaterale, WEF (President) | Min. Esteri Norvegia |
 | **Jeroen van der Veer** | NLD | NATO (advisor), Bilderberg, WEF | Ex CEO Shell |
 | **Philippe Belgium** | BEL | Bilderberg, Trilaterale, WEF | Re del Belgio |
+| **Carl Bildt** | SWE | Atlantic Council, Bilderberg, Trilaterale | PM Svezia, Min. Esteri |
+| **Magdalena Andersson** | SWE | Bilderberg, Trilaterale, WEF | PM Svezia 2021-22 |
+| **Toger Seidenfaden** | DNK | Bilderberg, Trilaterale, WEF | Editore Politiken |
 
 ### Figure in 2 Forum (Europei)
 
@@ -254,35 +270,50 @@ Il programma **Young Global Leaders** del WEF e' un sistema di selezione:
 
 | Leader | Anno YGL/GLT | Poi |
 |--------|--------------|-----|
-| Emmanuel Macron | 2016 | Presidente Francia 2017 |
-| Matteo Renzi | 2012 | PM Italia 2014 |
-| Alexander de Croo | 2015 | PM Belgio 2020 |
-| Annalena Baerbock | 2020 | Min. Esteri Germania 2021 |
-| Jens Spahn | 2012 | Min. Salute Germania |
-| Sanna Marin | 2020 | PM Finlandia |
-| Sebastian Kurz | 2016 | Cancelliere Austria |
-| Kaja Kallas | 2017 | PM Estonia, Alto Rapp. UE |
-| Justin Trudeau | 2005 | PM Canada |
-| Jacinda Ardern | 2014 | PM Nuova Zelanda |
+| **Viktor Orban** | GLT 1993 | PM Ungheria (caso notevole: da GLT a sovranista) |
+| Tony Blair | GLT 1992 | PM UK 1997 |
+| Angela Merkel | GLT 1992 | Cancelliere Germania 2005 |
+| Nicolas Sarkozy | GLT 1992 | Presidente Francia 2007 |
+| Jose Barroso | GLT 1993 | PM Portogallo, Pres. Commissione UE |
+| Emmanuel Macron | YGL 2016 | Presidente Francia 2017 |
+| Matteo Renzi | YGL 2012 | PM Italia 2014 |
+| Alexander de Croo | YGL 2015 | PM Belgio 2020 |
+| Annalena Baerbock | YGL 2020 | Min. Esteri Germania 2021 |
+| Jens Spahn | YGL 2012 | Min. Salute Germania |
+| Sanna Marin | YGL 2020 | PM Finlandia |
+| Sebastian Kurz | YGL 2016 | Cancelliere Austria |
+| Kaja Kallas | YGL 2017 | PM Estonia, Alto Rapp. UE |
+| Justin Trudeau | YGL 2005 | PM Canada |
+| Jacinda Ardern | YGL 2014 | PM Nuova Zelanda |
+| Mette Frederiksen | YGL | PM Danimarca |
+| Magdalena Andersson | YGL | PM Svezia 2021-22 |
+| **Milojko Spajic** | YGL 2025 | PM Montenegro (in carica) |
+| **Simon Harris** | YGL 2025 | PM Irlanda (in carica) |
+| **Paetongtarn Shinawatra** | YGL 2025 | PM Thailandia (in carica) |
 
 > Klaus Schwab: "Siamo molto orgogliosi dei nostri Young Global Leaders... penetrano i gabinetti"
+
+**Nota**: Viktor Orban, oggi leader sovranista anti-WEF, fu GLT nel 1993. Il programma non garantisce allineamento permanente.
 
 #### YGL/GLT per Paese (nel DB)
 
 | Paese | # | Leader Notabili |
 |-------|---|-----------------|
-| **USA** | 6 | Zuckerberg, Thiel, Page, Brin, Buttigieg, Gore |
-| **Germania** | 5 | Merkel (GLT), Baerbock, Spahn, Ozdemir, Guttenberg |
-| **Finlandia** | 3 | Marin, Stubb, Katainen |
-| **Ucraina** | 3 | Fedorov, W. Klitschko, Kaleniuk |
-| **Francia** | 2 | Macron, Sarkozy (GLT) |
-| **Canada** | 2 | Trudeau, Freeland |
-| **Irlanda** | 2 | Varadkar, Harris |
-| **Spagna** | 2 | Aznar (GLT), Zapatero (GLT) |
-| **Italia** | 1 | Renzi |
-| **UK** | 1 | Blair (GLT) |
+| **USA** | 48 | Zuckerberg, Thiel, Page, Brin, Buttigieg, Gore, Sam Altman |
+| **Germania** | 22 | Merkel (GLT), Baerbock, Spahn, Ozdemir, Guttenberg |
+| **UK** | 18 | Blair (GLT), Cameron, vari business |
+| **Finlandia** | 5 | Marin, Stubb, Katainen, Saarikko |
+| **Ucraina** | 4 | Fedorov, W. Klitschko, Kaleniuk, Rodnyansky |
+| **Francia** | 6 | Macron, Sarkozy (GLT), Heydemann |
+| **Canada** | 4 | Trudeau, Freeland, Gallant |
+| **Irlanda** | 4 | Varadkar, Harris, Pollock |
+| **Spagna** | 8 | Aznar (GLT), Zapatero (GLT), Chacon |
+| **Italia** | 6 | Renzi, Mogherini, Petrocelli, Garavoglia, Jebreal, Lanzarini |
+| **Danimarca** | 5 | Frederik X, Frederiksen, Seidenfaden |
+| **Svezia** | 4 | Andersson, Victoria, Sahlin |
+| **Norvegia** | 5 | Haakon, Mette-Marit, Tajik |
 
-> **Pattern**: Il programma YGL/GLT ha prodotto 15+ capi di governo documentati.
+> **Pattern**: Il programma YGL/GLT ha prodotto **25+ capi di governo** documentati nel DB (309 totali: 295 YGL, 14 GLT).
 
 ### 2. Coordinamento Transatlantico (Bilderberg)
 
@@ -299,7 +330,7 @@ Bilderberg funziona come **stanza di compensazione** tra elite USA ed europee:
 
 | Paese | Membri | Note |
 |-------|--------|------|
-| **Italia** | 6 | Monti, Prodi, Amato, Agnelli, Elkann, Bernabe' |
+| **Italia** | 10 | Monti, Prodi, Amato, Agnelli, Elkann, Bernabe', Padoa-Schioppa, Ruggiero, Gruber, Cittadini-Cesi |
 | **USA** | 4 | Rockefeller, Kissinger, Jordan, Kravis |
 | **Germania** | 3 | Dopfner, Enders, Achleitner |
 | **Olanda** | 2 | Halberstadt, van der Beugel |
@@ -307,11 +338,8 @@ Bilderberg funziona come **stanza di compensazione** tra elite USA ed europee:
 | **Polonia** | 2 | Sikorski, Kostrzewa |
 | **Norvegia** | 1 | Brende |
 | **Grecia** | 1 | Papalexopoulos (Treasurer) |
-| **Francia** | 1 | de Castries |
-| **Irlanda** | 1 | Sutherland |
-| **Spagna** | 1 | Botin |
 
-> L'Italia domina lo Steering con 6 membri - pattern unico di sovra-rappresentazione.
+> L'Italia con 10 membri Steering ha piu' del doppio di qualsiasi altro paese - pattern unico di sovra-rappresentazione.
 
 ### 3. Advocacy Sicurezza (Atlantic Council)
 
@@ -469,6 +497,10 @@ Nel 2009, un anno prima della crisi, Bilderberg si tenne a Vouliagmeni (Atene):
 
 ### Banca Centrale Europea
 
+Il database ora contiene **25 persone** affiliate alla BCE con date precise.
+
+#### Presidenti
+
 | Presidente | Periodo | Forum | Background |
 |------------|---------|-------|------------|
 | **Christine Lagarde** | 2019- | Bilderberg | FMI |
@@ -478,11 +510,28 @@ Nel 2009, un anno prima della crisi, Bilderberg si tenne a Vouliagmeni (Atene):
 
 **Pattern BCE:** 3 su 4 presidenti BCE documentati in forum transatlantici. Draghi e' l'unico ad aver ricoperto poi il ruolo di PM.
 
-**Vice Presidenti BCE in Forum:**
+#### Vice Presidenti e Executive Board
 
-| Nome | Periodo | Forum |
-|------|---------|-------|
-| **Lucas Papademos** | 2002-10 | Trilaterale |
+| Nome | Periodo | Ruolo | Forum/Note |
+|------|---------|-------|------------|
+| **Lucas Papademos** | 2002-10 | Vice Presidente | Trilaterale, poi PM Grecia |
+| **Luis de Guindos** | 2018- | Vice Presidente | Ex Min. Economia Spagna |
+| **Philip Lane** | 2019- | Chief Economist | |
+| **Isabel Schnabel** | 2020- | Board | |
+| **Frank Elderson** | 2020- | Board | |
+
+#### Italiani nel Board BCE (storico)
+
+| Nome | Periodo | Ruolo | Poi |
+|------|---------|-------|-----|
+| **Tommaso Padoa-Schioppa** | 1998-2005 | Board | Min. Economia, Bilderberg Steering |
+| **Lorenzo Bini Smaghi** | 2005-11 | Board | Bilderberg 2024 |
+| **Mario Draghi** | 2011-19 | Presidente | PM Italia |
+| **Ignazio Visco** | 2011-23 | Board | Gov. Banca d'Italia |
+| **Fabio Panetta** | 2020-23 | Board | Gov. Banca d'Italia |
+| **Piero Cipollone** | 2023- | Board | |
+
+> L'Italia ha avuto **6 membri** nel board BCE storico - piu' di qualsiasi altro paese. Padoa-Schioppa rappresenta il pattern BCE → Forum → Governo.
 
 > Papademos passa da Vice Presidente BCE a PM tecnico della Grecia (2011-12) durante la crisi del debito.
 
@@ -518,19 +567,19 @@ Nel 2009, un anno prima della crisi, Bilderberg si tenne a Vouliagmeni (Atene):
 
 | Forum | Membri nel DB | Note |
 |-------|---------------|------|
-| **WEF** | 131 | Include YGL, GLT, board, membri |
-| **Bilderberg** | 85 | Include steering, fondatori, partecipanti |
-| **Trilaterale** | 32 | Europa, USA, Asia |
-| **Atlantic Council** | 21 | Board, chairman, fondatori |
-| **NATO** (leadership) | 12 | Seg. Gen., SACEUR, advisor |
+| **WEF** | 465 | Include 295 YGL, 14 GLT, board, membri |
+| **Bilderberg** | 176 | Include steering, fondatori, partecipanti |
+| **Trilaterale** | 65 | Europa, USA, Asia |
+| **Atlantic Council** | 27 | Board, chairman, fondatori |
+| **NATO** (leadership) | 21 | Seg. Gen., SACEUR, advisor |
 
 ### Multi-Forum Membership (5 forum transatlantici)
 
 | # Forum | Persone | Esempi Chiave |
 |---------|---------|---------------|
 | 4 | 1 | Giampiero Massolo (ITA) |
-| 3 | 8 | Kissinger, Stoltenberg, Rutte, Brende, Papalexopoulos, Rubenstein, van der Veer, Philippe Belgium |
-| 2 | 39 | Draghi, Monti, Macron, von der Leyen, Blair, Gates, Schwab... |
+| 3 | 12 | Kissinger, Stoltenberg, Rutte, Brende, Papalexopoulos, Rubenstein, van der Veer, Philippe Belgium, **Carl Bildt**, **Magdalena Andersson**, **Toger Seidenfaden** |
+| 2 | 88 | Draghi, Monti, Macron, von der Leyen, Blair, Gates, Schwab, Sam Altman, Eric Schmidt, Satya Nadella... |
 
 ### Istituzioni UE e Forum
 
@@ -538,7 +587,8 @@ Nel 2009, un anno prima della crisi, Bilderberg si tenne a Vouliagmeni (Atene):
 |-------------|-------|----------|
 | **Commissione UE** | Presidenti | 5/13 (38%) documentati |
 | **BCE** | Presidenti | 3/4 (75%) |
-| **BCE** | Vice Presidenti | 1/4 (Papademos - Trilaterale) |
+| **BCE** | Board (totale) | 25 persone nel DB |
+| **BCE** | Italiani nel Board | 6 (record per paese) |
 | **Alto Rappresentante** | Titolari | 4/4 (100%) |
 | **Consiglio Europeo** | Presidenti | 2/4 (50%) documentati |
 
@@ -577,28 +627,35 @@ I dati mostrano:
 ### Pattern Emergenti
 
 1. **Pre-selezione**: L'appartenenza ai forum precede l'ascesa al potere (100% PM tecnici analizzati)
-2. **Interconnessione**: I forum non sono isolati ma formano un ecosistema (48 persone in 2+ forum)
+2. **Interconnessione**: I forum non sono isolati ma formano un ecosistema (88 persone in 2+ forum)
 3. **Tecnocrazia**: I governi tecnici europei hanno tutti avuto leader dai forum
 4. **Asse NATO**: Atlantic Council → NATO → Bilderberg e' un percorso documentato
-5. **Concentrazione**: 9 persone in 3+ forum, 1 in tutti e 4 (Massolo)
-6. **BCE come hub**: 75% dei presidenti BCE in forum, con pattern BCE → PM (Draghi, Papademos)
+5. **Concentrazione**: 12 persone in 3+ forum, 1 in tutti e 4 (Massolo)
+6. **BCE come hub**: 75% dei presidenti BCE in forum, 6 italiani nel board storico, pattern BCE → PM
 7. **Alto Rappresentante**: 100% dei titolari con background forum/NATO
-8. **Italia sovra-rappresentata**: 6 membri Steering Bilderberg (piu' di USA), super-connettore #1 italiano
-9. **YGL come pipeline**: 15+ capi di governo passati dal programma WEF
+8. **Italia sovra-rappresentata**: 10 membri Steering Bilderberg (piu' del doppio di USA), super-connettore #1 italiano
+9. **YGL come pipeline**: 25+ capi di governo passati dal programma WEF (309 totali nel DB)
 10. **Corporate-Stato**: Atlantic Council finanziato da governi NATO + big tech + defense
+11. **Intelligence-Forum**: L'Atlantic Council e' "approdo" per ex-direttori CIA/NSA
+12. **Media-Forum**: Lilli Gruber (giornalista) nello Steering Bilderberg - pattern media
 
-### Numeri Chiave (Dicembre 2024)
+### Numeri Chiave (Gennaio 2026)
 
 | Metrica | Valore |
 |---------|--------|
-| Membri WEF nel DB | 131 |
-| Membri Bilderberg nel DB | 85 |
-| Membri Trilaterale nel DB | 32 |
-| Membri Atlantic Council nel DB | 21 |
-| Persone in 2+ forum | 48 |
-| Persone in 3+ forum | 9 |
-| Italiani Steering Bilderberg | 6 |
-| YGL/GLT diventati capi governo | 15+ |
+| Membri WEF nel DB | 465 |
+| Membri Bilderberg nel DB | 176 |
+| Membri Trilaterale nel DB | 65 |
+| Membri Atlantic Council nel DB | 27 |
+| Membri NATO (leadership) nel DB | 21 |
+| Persone in 2+ forum | 88 |
+| Persone in 3+ forum | 12 |
+| Persone in 4 forum | 1 (Massolo) |
+| Italiani Steering Bilderberg | 10 |
+| Italiani Board BCE (storico) | 6 |
+| YGL totali nel DB | 295 |
+| GLT totali nel DB | 14 |
+| YGL/GLT diventati capi governo | 25+ |
 
 ### Domande Aperte
 
@@ -633,4 +690,4 @@ I dati mostrano:
 ---
 
 *Report generato da DeepScript - Dicembre 2024*
-*Ultimo aggiornamento: Dicembre 2024 (131 WEF, 85 Bilderberg, 32 Trilat, 21 AC; Massolo super-connettore; Italia 6 Steering)*
+*Ultimo aggiornamento: Gennaio 2026 (465 WEF, 176 Bilderberg, 65 Trilat, 27 AC, 21 NATO; 88 multi-forum; Massolo 4 forum; Italia 10 Steering)*
