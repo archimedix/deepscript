@@ -810,6 +810,12 @@ organizations:
       from: 1926
       to: 1928
       note: Primo presidente, nominato da Mussolini
+  agnico-eagle:
+    name: Agnico Eagle Mines
+    type: company
+    headquarters: Toronto, Canada
+    status: active
+    sector: gold-mining
   agricultural-bank-of-china:
     name: Agricultural Bank of China
     type: bank
@@ -1190,6 +1196,16 @@ organizations:
     stakeholders:
     - person: ali-adnan-ibrahim
       role: executive
+  al-bilad-islamic-bank:
+    name: Al-Bilad Islamic Bank for Investment and Finance
+    type: bank
+    headquarters: Baghdad, Iraq
+    status: sanctioned
+    note: OFAC sanctioned May 2018 for IRGC-QF support
+    stakeholders:
+    - person: aras-habib
+      role: chairman
+      note: Chairman & CEO, OFAC sanctioned 2018
   al-jazeera:
     name: Al Jazeera Media Network
     type: media
@@ -2074,7 +2090,8 @@ organizations:
     type: company
     founded: 2004
     headquarters: Johannesburg, South Africa
-    sector: mining
+    status: active
+    sector: gold-mining
     stakeholders:
     - person: tito-mboweni
       role: chairman
@@ -3078,6 +3095,11 @@ organizations:
       note: BA Political Science 1972
     - person: maher-mikati
       role: alumni
+    - person: ahmed-chalabi
+      role: executive
+      from: 1970
+      to: 1977
+      note: Professor of Mathematics
     - org: rockefeller-foundation
       role: funder
       from: 1920
@@ -3282,6 +3304,38 @@ organizations:
     founded: 2017
     headquarters: São Paulo, Brazil
     sector: Exchange
+  baath-party:
+    name: Arab Socialist Ba'ath Party - Iraq Region
+    type: party
+    founded: 1951
+    headquarters: Baghdad, Iraq
+    status: banned
+    stakeholders:
+    - person: saddam-hussein
+      role: leader
+      from: 1979
+      to: 2003
+      note: Secretary General
+    - person: ahmed-hassan-al-bakr
+      role: leader
+      from: 1968
+      to: 1979
+      note: Regional Secretary, President of Iraq
+    - person: izzat-ibrahim-al-douri
+      role: leader
+      from: 1979
+      to: 2003
+      note: RCC Vice Chairman, succeeded Saddam as leader 2007
+    - person: tariq-aziz
+      role: member
+      from: 1958
+      to: 2003
+      note: Foreign Minister, Deputy PM
+    - person: michel-aflaq
+      role: founder
+      from: 1947
+      to: 1989
+      note: Ideological founder of Ba'athism
   bae-systems:
     name: BAE Systems plc
     type: defense
@@ -3422,6 +3476,18 @@ organizations:
       role: partner
       from: 1984
       note: Founding partner, Co-Chairman 2016-2023
+  baker-botts:
+    name: Baker Botts LLP
+    type: company
+    founded: 1872
+    headquarters: Houston, Texas, USA
+    status: active
+    sector: legal
+    stakeholders:
+    - person: james-baker
+      role: partner
+      from: 1993
+      note: Senior Partner
   baker-hughes:
     name: Baker Hughes
     type: company
@@ -3893,6 +3959,9 @@ organizations:
       role: executive
     - person: karen-fang
       role: executive
+    - person: jonathan-moulds
+      role: executive
+      note: CEO Merrill Lynch International, European President
     - org: blackrock
       role: stake
       share: 0.07
@@ -4198,6 +4267,9 @@ organizations:
     - person: michael-miebach
       role: executive
       to: 2010
+    - person: jonathan-moulds
+      role: executive
+      note: COO
     - org: blackrock
       share: 8.7
       note: Largest shareholder (2025)
@@ -4247,12 +4319,12 @@ organizations:
     - org: barito-pacific
       role: parent company
   barrick-gold:
-    name: Barrick Gold
+    name: Barrick Gold Corporation
     type: company
     founded: 1983
     headquarters: Toronto, Canada
     status: active
-    sector: mining
+    sector: gold-mining
     stakeholders:
     - person: vernon-jordan
       role: advisor
@@ -4573,6 +4645,13 @@ organizations:
       from: 1955
       to: 1976
       note: Head of Corporate Finance
+  bechtel:
+    name: Bechtel Corporation
+    type: company
+    founded: 1898
+    headquarters: Reston, Virginia
+    status: active
+    sector: engineering construction
   bein-media:
     name: beIN Media Group
     type: media
@@ -4748,6 +4827,18 @@ organizations:
       from: 1990
       to: 1996
       note: Advisory board
+  beutel-goodman:
+    name: Beutel, Goodman & Company
+    type: assetmanager
+    headquarters: Toronto, Canada
+    status: active
+    sector: pension-fund-management
+    stakeholders:
+    - person: seymour-schulich
+      role: executive
+      from: 1968
+      to: 1990
+      note: President (1987-1990), Vice-Chairman Emeritus
   beyondnetzero:
     name: BeyondNetZero
     type: privateequity
@@ -5851,6 +5942,11 @@ organizations:
       from: 2005
       to: 2008
       note: Vice Chairman
+    - person: erik-prince
+      role: founder
+      from: 1997
+      to: 2010
+      note: Founder and CEO
   blibli:
     name: PT Global Digital Niaga Tbk (Blibli)
     type: company
@@ -5880,6 +5976,17 @@ organizations:
     headquarters: Beirut
     status: active
     note: Famiglie Azhari, Chaker, Saade. Bank of New York 34%
+  bloom-energy:
+    name: Bloom Energy
+    type: company
+    founded: 2001
+    headquarters: San Jose, California
+    status: active
+    sector: energy technology
+    stakeholders:
+    - person: colin-powell
+      role: board
+      to: 2021
   bloomberg:
     name: Bloomberg L.P.
     type: media
@@ -5934,6 +6041,16 @@ organizations:
       from: 2008
       to: 2020
       note: President
+  bluecrest-capital:
+    name: BlueCrest Capital Management
+    type: assetmanager
+    headquarters: London, United Kingdom
+    status: active
+    sector: hedge-fund
+    stakeholders:
+    - person: david-tait
+      role: partner
+      note: Partner
   bluemountain-capital:
     name: BlueMountain Capital
     type: privateequity
@@ -7269,6 +7386,16 @@ organizations:
       role: founder
       from: 2013
       note: Co-Founder with Hansjoerg Wyss
+  canada-council-arts:
+    name: Canada Council for the Arts
+    type: agency
+    headquarters: Ottawa, Canada
+    status: active
+    stakeholders:
+    - person: pierre-lassonde
+      role: chairman
+      from: 2015
+      to: 2020
   canal-plus:
     name: Canal+
     type: media
@@ -7453,6 +7580,10 @@ organizations:
       role: board
       from: 2006
       note: Trustee
+    - person: condoleezza-rice
+      role: board
+      from: 1991
+      to: 2001
   carnegie-endowment:
     name: Carnegie Endowment for International Peace
     type: thinktank
@@ -7831,6 +7962,16 @@ organizations:
     - person: rudy-deleon
       role: member
       note: Senior Fellow
+  center-security-policy:
+    name: Center for Security Policy
+    type: thinktank
+    founded: 1988
+    headquarters: Washington, D.C.
+    status: active
+    stakeholders:
+    - person: douglas-feith
+      role: chairman
+      note: Founding member, Chairman board
   central-bank-ireland:
     name: Central Bank of Ireland
     type: centralbank
@@ -8028,6 +8169,11 @@ organizations:
       role: member
     - person: jami-miscik
       role: chairman
+    - person: condoleezza-rice
+      role: member
+      from: 1986
+      to: 1987
+      note: International Affairs Fellow
     - person: paul-wolfowitz
       role: member
       note: Member, Foreign Affairs advisory board
@@ -8064,6 +8210,8 @@ organizations:
       note: Co-chair CFR Task Force on Immigration
     - person: peter-sutherland
       role: advisory-board
+    - person: james-baker
+      role: member
     - person: henry-kravis
       role: member
     - person: marie-josee-kravis
@@ -8173,6 +8321,9 @@ organizations:
     - person: laurene-powell-jobs
       role: board
       note: Chairman advisory board
+    - person: colin-powell
+      role: board
+      from: 2005
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -8416,6 +8567,11 @@ organizations:
     status: active
     sector: energy
     stakeholders:
+    - person: condoleezza-rice
+      role: board
+      from: 1991
+      to: 2001
+      note: Board of Directors
     - org: berkshire-hathaway
       role: stake
   chicago-booth:
@@ -8506,6 +8662,12 @@ organizations:
       role: executive
       from: 2020
       note: CFO
+  china-national-gold:
+    name: China National Gold Corporation
+    type: company
+    headquarters: Beijing, China
+    status: active
+    sector: gold-mining
   china-satcom:
     name: China Satellite Communications Corporation
     type: company
@@ -8903,6 +9065,18 @@ organizations:
       from: 2008
       to: 2009
       note: Preferred stock, sold for $4.1B (+37% return)
+  city-college-new-york:
+    name: City College of New York
+    type: university
+    founded: 1847
+    headquarters: New York City
+    status: active
+    stakeholders:
+    - person: colin-powell
+      role: alumnus
+      from: 1954
+      to: 1958
+      note: BA Geology, ROTC
   city-football-group:
     name: City Football Group
     type: company
@@ -10070,6 +10244,38 @@ organizations:
       role: executive
       from: 2017
       note: CEO
+  cpa-iraq:
+    name: Coalition Provisional Authority
+    type: agency
+    founded: 2003
+    headquarters: Baghdad, Iraq
+    status: dissolved
+    stakeholders:
+    - person: paul-bremer
+      role: executive
+      from: 2003
+      to: 2004
+      note: Administrator, de facto ruler of Iraq
+    - person: dan-senor
+      role: advisor
+      from: 2003
+      to: 2004
+      note: Senior Advisor to Bremer, Chief Spokesman
+    - person: ahmed-chalabi
+      role: member
+      from: 2003
+      to: 2004
+      note: Iraqi Governing Council, rotating president Sep 2003
+    - person: ayad-allawi
+      role: member
+      from: 2003
+      to: 2004
+      note: Iraqi Governing Council, rotating president Oct 2003
+    - person: jay-garner
+      role: executive
+      from: 2003
+      to: 2003
+      note: Director ORHA (precursor to CPA), replaced by Bremer after 1 month
   cpf:
     name: Charoen Pokphand Foods
     type: company
@@ -10149,6 +10355,10 @@ organizations:
       from: 2014
       to: 2022
       note: Vice Chairman 2017-2022
+    - person: david-tait
+      role: executive
+      to: 2016
+      note: Global Head of Fixed Income Macro Products
     - org: ubs
       role: acquirer
       share: 100%
@@ -10753,6 +10963,10 @@ organizations:
     headquarters: Denver, USA
     status: active
     stakeholders:
+    - person: condoleezza-rice
+      role: partner
+      from: 2022
+      note: Part-owner, Walton-Penner Group
     - person: rob-walton
       role: founder
       from: 2022
@@ -14331,6 +14545,18 @@ organizations:
     stakeholders:
     - person: sara-sutton-fell
       role: founder
+  florida-state-university:
+    name: Florida State University
+    type: university
+    founded: 1851
+    headquarters: Tallahassee, Florida
+    status: active
+    stakeholders:
+    - person: jay-garner
+      role: alumnus
+      from: 1958
+      to: 1962
+      note: BA History
   flutter-entertainment:
     name: Flutter Entertainment
     type: company
@@ -14410,6 +14636,43 @@ organizations:
       role: partner
     - org: banca-mondiale
       role: partner
+  fmsb:
+    name: Financial Markets Standards Board
+    type: agency
+    founded: 2015
+    headquarters: London, United Kingdom
+    status: active
+    sector: financial-standards
+    stakeholders:
+    - person: david-tait
+      role: advisor
+      note: Advisory Council member, Chair Precious Metals Working Group
+    - person: jonathan-moulds
+      role: chairman
+      from: 2023
+      note: Chair and Director
+    - person: myles-mcguinness
+      role: executive
+      from: 2021
+      note: CEO
+    - org: morgan-stanley
+      role: member
+      note: Full Member - Christopher Beatty
+    - org: blackrock
+      role: member
+      note: Full Member - Jatin Vara
+    - org: bank-of-america
+      role: member
+      note: Full Member - Brian Weinstein
+    - org: hsbc
+      role: member
+      note: Full Member - Richard Blackburn
+    - org: ubs
+      role: member
+      note: Full Member - Christophe Patricot
+    - org: deutsche-bank
+      role: member
+      note: Full Member - Vathany Vijayaratna
   folketrygdfondet:
     name: Folketrygdfondet
     type: swf
@@ -14687,6 +14950,23 @@ organizations:
     - person: gebran-bassil
       role: leader
       from: 2015
+  franco-nevada:
+    name: Franco-Nevada Corporation
+    type: company
+    headquarters: Toronto, Canada
+    status: active
+    sector: gold-royalties
+    stakeholders:
+    - person: pierre-lassonde
+      role: founder
+      from: 1982
+      to: 2020
+      note: Co-founder, Chairman (Chairman Emeritus dal 2020)
+    - person: seymour-schulich
+      role: founder
+      from: 1983
+      to: 2002
+      note: Co-founder with Pierre Lassonde
   fraser-neave:
     name: Fraser and Neave Limited
     type: company
@@ -15737,6 +16017,17 @@ organizations:
       role: board
       from: 2022
       note: Independent Director
+  george-washington-university:
+    name: George Washington University
+    type: university
+    founded: 1821
+    headquarters: Washington, D.C.
+    status: active
+    stakeholders:
+    - person: colin-powell
+      role: alumnus
+      to: 1971
+      note: MBA
   georgetown-university:
     name: Georgetown University
     type: university
@@ -15756,6 +16047,15 @@ organizations:
     - person: david-bradley
       role: board
       note: JD, Board of Directors
+    - person: douglas-feith
+      role: alumnus
+      to: 1978
+      note: JD magna cum laude
+    - person: douglas-feith
+      role: member
+      from: 2006
+      to: 2008
+      note: Professor National Security Policy
   georgia-pacific:
     name: Georgia-Pacific
     type: company
@@ -16204,6 +16504,9 @@ organizations:
       from: 1985
       to: 1988
       note: Fixed-income trading strategist
+    - person: david-tait
+      role: executive
+      note: Trader
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -17792,6 +18095,71 @@ organizations:
     - org: impero-pahlavi
       role: predecessor
       note: Rovesciato dalla Rivoluzione Islamica 1979
+  governo-iraq:
+    name: Government of Iraq
+    type: government
+    founded: 2004
+    headquarters: Baghdad, Iraq
+    status: active
+    stakeholders:
+    - person: nouri-al-maliki
+      role: leader
+      from: 2006
+      to: 2014
+      note: Prime Minister, two terms
+    - person: haider-al-abadi
+      role: leader
+      from: 2014
+      to: 2018
+      note: Prime Minister
+    - person: mustafa-al-kadhimi
+      role: leader
+      from: 2020
+      to: 2022
+      note: Prime Minister
+    - person: mohammed-shia-al-sudani
+      role: leader
+      from: 2022
+      note: Prime Minister, pro-Iran Coordination Framework
+    - person: ibrahim-al-jaafari
+      role: leader
+      from: 2005
+      to: 2006
+      note: First post-Saddam Prime Minister
+    - person: jalal-talabani
+      role: leader
+      from: 2005
+      to: 2014
+      note: President, first non-Arab head of state
+    - person: ahmed-chalabi
+      role: minister
+      from: 2005
+      to: 2006
+      note: Deputy PM 2005-06, Oil Minister Apr-May 2005, Dec 2005-Jan 2006
+    - person: ayad-allawi
+      role: leader
+      from: 2004
+      to: 2005
+      note: First PM of Iraqi Interim Government
+    - person: saddam-hussein
+      role: leader
+      from: 1979
+      to: 2003
+      note: President
+    - person: ahmed-hassan-al-bakr
+      role: leader
+      from: 1968
+      to: 1979
+      note: President
+    - person: tariq-aziz
+      role: minister
+      from: 1983
+      to: 2003
+      note: Foreign Minister 1983-1991, Deputy PM 1979-2003
+    - person: aras-habib
+      role: executive
+      from: 2003
+      note: Director of Intelligence, Interior Ministry; Under-Secretary
   governo-irlanda:
     name: Governo di Irlanda
     type: government
@@ -19838,6 +20206,7 @@ organizations:
       role: president
       from: 2001
       to: 2009
+      note: 43rd President
     - person: barack-obama
       role: leader
       from: 2009
@@ -19879,6 +20248,21 @@ organizations:
       from: 2017
       to: 2017
       note: Chair, Strategic and Policy Forum (Trump)
+    - person: paul-bremer
+      role: diplomat
+      from: 1966
+      to: 1989
+      note: Foreign Service, Ambassador Netherlands 1983-86
+    - person: paul-bremer
+      role: advisor
+      from: 1974
+      to: 1976
+      note: Executive Assistant to SecState Kissinger
+    - person: paul-bremer
+      role: advisor
+      from: 1986
+      to: 1989
+      note: Ambassador-at-Large for Counter-Terrorism
     - person: donald-rumsfeld
       role: legislator
       from: 1962
@@ -19909,6 +20293,21 @@ organizations:
       from: 2001
       to: 2006
       note: 21st Secretary of Defense (Bush 43) - oldest ever
+    - person: condoleezza-rice
+      role: advisor
+      from: 1989
+      to: 1991
+      note: NSC Director Soviet Affairs (Bush 41)
+    - person: condoleezza-rice
+      role: advisor
+      from: 2001
+      to: 2005
+      note: National Security Advisor
+    - person: condoleezza-rice
+      role: minister
+      from: 2005
+      to: 2009
+      note: Secretary of State
     - person: daniel-ellsberg
       role: advisor
       from: 1964
@@ -20068,7 +20467,29 @@ organizations:
       note: Secretary of Defense (Reagan)
     - person: james-baker
       role: minister
-      note: Secretary of State (Bush Sr), Secretary of Treasury (Reagan)
+      from: 1975
+      to: 1976
+      note: Under Secretary of Commerce (Ford)
+    - person: james-baker
+      role: advisor
+      from: 1981
+      to: 1985
+      note: White House Chief of Staff (Reagan)
+    - person: james-baker
+      role: minister
+      from: 1985
+      to: 1988
+      note: Secretary of Treasury (Reagan)
+    - person: james-baker
+      role: minister
+      from: 1989
+      to: 1992
+      note: Secretary of State (Bush 41)
+    - person: james-baker
+      role: advisor
+      from: 1992
+      to: 1993
+      note: White House Chief of Staff (Bush 41)
     - person: gary-cohn
       role: advisor
       from: 2017
@@ -20411,6 +20832,81 @@ organizations:
       from: 1972
       to: 1993
       note: US Army Lt. Col., Office of Net Assessment, staff 3 Defense Secretaries
+    - person: douglas-feith
+      role: executive
+      from: 1984
+      to: 1986
+      note: Deputy Asst SecDef Negotiations Policy (Reagan)
+    - person: douglas-feith
+      role: executive
+      from: 2001
+      to: 2005
+      note: Under Secretary Defense for Policy
+    - person: jay-garner
+      role: military
+      from: 1962
+      to: 1997
+      note: Lieutenant General, US Army
+    - person: colin-powell
+      role: minister
+      from: 2001
+      to: 2005
+      note: Secretary of State
+    - person: colin-powell
+      role: advisor
+      from: 1987
+      to: 1989
+      note: National Security Advisor (Reagan)
+    - person: colin-powell
+      role: executive
+      from: 1989
+      to: 1993
+      note: Chairman Joint Chiefs of Staff
+    - person: george-h-w-bush
+      role: leader
+      from: 1989
+      to: 1993
+      note: President
+    - person: norman-schwarzkopf
+      role: military
+      from: 1988
+      to: 1991
+      note: CENTCOM Commander
+    - person: april-glaspie
+      role: diplomat
+      from: 1988
+      to: 1990
+      note: US Ambassador to Iraq
+    - person: april-glaspie
+      role: diplomat
+      from: 1973
+      to: 1977
+      note: Political Officer Cairo
+    - person: april-glaspie
+      role: diplomat
+      from: 1983
+      to: 1985
+      note: Political Officer/DCM Damascus
+    - person: april-glaspie
+      role: executive
+      from: 1985
+      to: 1987
+      note: Dir. Office of Jordan, Lebanon, Syria Affairs
+    - person: april-glaspie
+      role: diplomat
+      from: 1991
+      to: 2002
+      note: Consul General Cape Town
+    - person: karl-rove
+      role: advisor
+      from: 2001
+      to: 2007
+      note: Senior Advisor, Deputy Chief of Staff
+    - person: bunnatine-greenhouse
+      role: executive
+      from: 1997
+      to: 2005
+      note: Chief Contracting Officer, Army Corps of Engineers
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -21043,14 +21539,23 @@ organizations:
     name: Halliburton
     type: company
     founded: 1919
-    headquarters: Houston, USA
+    headquarters: Houston, Texas
     status: active
-    sector: oil services
+    sector: energy services
     stakeholders:
     - person: dick-cheney
       role: executive
       from: 1995
       to: 2000
+      note: CEO before Vice Presidency
+    - person: jeff-miller
+      role: executive
+      from: 2017
+      note: Chairman & CEO
+    - person: david-lesar
+      role: executive
+      from: 2000
+      to: 2017
       note: Chairman & CEO
   hamas:
     name: Hamas
@@ -21172,6 +21677,18 @@ organizations:
     - org: hgv-hamburg
       share: 13.9
       note: City of Hamburg
+  harken-energy:
+    name: Harken Energy
+    type: company
+    founded: 1973
+    headquarters: Dallas, Texas
+    sector: oil-gas
+    stakeholders:
+    - person: george-w-bush
+      role: board
+      from: 1986
+      to: 1990
+      note: Director, consultant
   harpercollins:
     name: HarperCollins
     type: media
@@ -21242,7 +21759,7 @@ organizations:
     name: Harvard University
     type: university
     founded: 1636
-    headquarters: Cambridge, USA
+    headquarters: Cambridge, Massachusetts
     status: active
     stakeholders:
     - person: robert-rubin
@@ -21260,6 +21777,11 @@ organizations:
       from: 1973
       to: 1975
       note: Attended 1973-75, dropped out to found Microsoft, honorary degree 2007
+    - person: george-w-bush
+      role: alumnus
+      from: 1973
+      to: 1975
+      note: MBA
     - person: barack-obama
       role: alumnus
       from: 1988
@@ -21285,6 +21807,11 @@ organizations:
       from: 1969
       to: 1972
       note: MBA HBS 1972, major donor
+    - person: paul-bremer
+      role: alumnus
+      from: 1964
+      to: 1966
+      note: MBA, Harvard Business School
     - person: larry-summers
       role: executive
       from: 2001
@@ -21358,6 +21885,29 @@ organizations:
       role: alumni
       to: 1984
       note: MPA Kennedy School 1980, PhD 1984
+    - person: douglas-feith
+      role: alumnus
+      from: 1971
+      to: 1975
+      note: BA magna cum laude
+  hashd-al-shaabi:
+    name: Popular Mobilization Forces
+    type: defense
+    founded: 2014
+    headquarters: Baghdad, Iraq
+    status: active
+    sector: paramilitary
+    stakeholders:
+    - person: qasem-soleimani
+      role: advisor
+      from: 2014
+      to: 2020
+      note: IRGC Quds Force commander, key strategist
+    - person: abu-mahdi-al-muhandis
+      role: executive
+      from: 2014
+      to: 2020
+      note: Deputy Chairman, killed with Soleimani
   havas:
     name: Havas
     type: media
@@ -21605,6 +22155,11 @@ organizations:
     headquarters: Washington DC, USA
     status: active
     stakeholders:
+    - person: paul-bremer
+      role: advisor
+      from: 2001
+      to: 2002
+      note: Chaired Homeland Security Task Force
     - person: mark-esper
       role: executive
       from: 1996
@@ -21949,6 +22504,15 @@ organizations:
     headquarters: Stanford, California, USA
     status: active
     stakeholders:
+    - person: condoleezza-rice
+      role: member
+      from: 1991
+      to: 2001
+      note: Senior Fellow
+    - person: condoleezza-rice
+      role: executive
+      from: 2020
+      note: Director
     - person: gary-roughead
       role: member
       from: 2011
@@ -21995,6 +22559,8 @@ organizations:
     - person: vernon-jordan
       role: board
       note: Trustee
+    - person: colin-powell
+      role: board
   hpe:
     name: Hewlett Packard Enterprise
     type: company
@@ -22145,6 +22711,10 @@ organizations:
     - person: andrew-krepinevich
       role: advisor
       from: 2016
+      note: Senior Fellow
+    - person: douglas-feith
+      role: member
+      from: 2008
       note: Senior Fellow
     - org: rand-corporation
       role: partner
@@ -23936,6 +24506,28 @@ organizations:
       role: founder
       from: 2013
       note: Co-founder, Spokesman
+  iraqi-national-congress:
+    name: Iraqi National Congress
+    type: thinktank
+    founded: 1992
+    headquarters: London, UK (main); Washington, DC
+    status: active
+    sector: political opposition
+    stakeholders:
+    - person: ahmed-chalabi
+      role: founder
+      from: 1992
+      to: 2015
+      note: Founded INC, leader of Iraqi opposition in exile
+    - person: aras-habib
+      role: founder
+      from: 1992
+      note: Co-founder with Chalabi, intelligence chief, General Secretary 2015-
+    - org: rendon-group
+      role: creator
+      from: 1992
+      to: 1996
+      note: CIA contractor, created INC name and structure
   ird:
     name: Information Research Department
     type: agency
@@ -24571,6 +25163,23 @@ organizations:
       from: 1981
     - person: richard-perle
       role: member
+    - person: douglas-feith
+      role: board
+    - person: jay-garner
+      role: member
+      from: 1998
+      note: Signed 2000 statement supporting Israel
+  johns-hopkins:
+    name: Johns Hopkins University
+    type: university
+    founded: 1876
+    headquarters: Baltimore, Maryland, USA
+    status: active
+    stakeholders:
+    - person: april-glaspie
+      role: alumnus
+      to: 1965
+      note: MA, SAIS
   johns-hopkins-apl:
     name: Johns Hopkins APL
     type: thinktank
@@ -24921,6 +25530,19 @@ organizations:
       share: 4.0%
     - org: vanguard
       share: 2.0%
+  kbr:
+    name: KBR Inc
+    type: company
+    founded: 1998
+    headquarters: Houston, Texas
+    status: active
+    sector: defense contractor
+    stakeholders:
+    - org: halliburton
+      role: parent
+      from: 1962
+      to: 2007
+      note: Subsidiary, spun off April 2007
   keidanren:
     name: Keidanren (Japan Business Federation)
     type: forum
@@ -25160,6 +25782,12 @@ organizations:
       to: 2002
     - person: hugo-stenbeck
       role: founder
+  kinross-gold:
+    name: Kinross Gold Corporation
+    type: company
+    headquarters: Toronto, Canada
+    status: active
+    sector: gold-mining
   kissinger-associates:
     name: Kissinger Associates
     type: company
@@ -25180,7 +25808,10 @@ organizations:
       from: 1984
       to: 1989
     - person: paul-bremer
-      role: advisor
+      role: executive
+      from: 1989
+      to: 2001
+      note: Managing Director
     - person: john-brennan
       role: advisor
     - person: bill-richardson
@@ -25267,6 +25898,11 @@ organizations:
       role: chairman
       from: 1980
       note: Partner, later Chairman
+    - person: colin-powell
+      role: partner
+      from: 2005
+      to: 2021
+      note: Strategic Limited Partner
   klm:
     name: KLM Royal Dutch Airlines
     type: company
@@ -25561,6 +26197,14 @@ organizations:
       role: joint-fund
       from: 2012
       note: Automatic co-investment $1B
+  l3-communications:
+    name: L3 Communications
+    type: defense
+    founded: 1997
+    headquarters: New York, USA
+    status: merged
+    sector: defense electronics
+    note: Merged with Harris Corp 2019 → L3Harris
   l3harris:
     name: L3Harris Technologies
     type: defense
@@ -27010,6 +27654,19 @@ organizations:
     stakeholders:
     - person: mark-pollock
       role: founder
+  marsh-mclennan:
+    name: Marsh McLennan Companies
+    type: company
+    founded: 1871
+    headquarters: New York, USA
+    status: active
+    sector: insurance, risk management
+    stakeholders:
+    - person: paul-bremer
+      role: executive
+      from: 2001
+      to: 2003
+      note: Chairman & CEO, Marsh Crisis Consulting
   marubeni:
     name: Marubeni Corporation
     type: company
@@ -28108,6 +28765,17 @@ organizations:
     - person: cristina-stenbeck
       role: chairman
       from: 2014
+  mills-college:
+    name: Mills College
+    type: university
+    founded: 1852
+    headquarters: Oakland, California, USA
+    status: merged
+    stakeholders:
+    - person: april-glaspie
+      role: alumnus
+      to: 1963
+      note: BA
   minnesota-united:
     name: Minnesota United FC
     type: sportsclub
@@ -28166,6 +28834,11 @@ organizations:
       from: 2004
       to: 2007
       note: MS Engineering, PhD studies (incomplete)
+    - person: ahmed-chalabi
+      role: alumnus
+      from: 1961
+      to: 1965
+      note: BS Mathematics
   mitratel:
     name: PT Dayamitra Telekomunikasi Tbk
     type: company
@@ -28278,6 +28951,17 @@ organizations:
     - person: bridgette-radebe
       role: founder
       from: 1980
+  mnbaq:
+    name: Musee national des beaux-arts du Quebec
+    type: foundation
+    headquarters: Quebec City, Canada
+    status: active
+    stakeholders:
+    - person: pierre-lassonde
+      role: chairman
+      from: 2005
+      to: 2016
+      note: Donatore Pierre Lassonde Pavilion
   moderna:
     name: Moderna Inc.
     type: pharma
@@ -29439,6 +30123,23 @@ organizations:
       share: 85
       from: 2021
       note: £300M acquisition, 80% iniziale poi 85% dal 2024
+  newmont:
+    name: Newmont Corporation
+    type: company
+    headquarters: Denver, USA
+    status: active
+    sector: gold-mining
+    stakeholders:
+    - person: pierre-lassonde
+      role: executive
+      from: 2002
+      to: 2007
+      note: President (2002-2007), Vice-Chairman (2007)
+    - person: seymour-schulich
+      role: board
+      from: 2002
+      to: 2007
+      note: Director, Chairman Newmont Capital
   news-corp:
     name: News Corp
     type: media
@@ -30057,10 +30758,6 @@ organizations:
       role: advisor
       from: 1989
       to: 1993
-    - person: condoleezza-rice
-      role: advisor
-      from: 2001
-      to: 2005
     - person: henry-kissinger
       role: advisor
       from: 1969
@@ -30454,6 +31151,22 @@ organizations:
       from: 1997
       to: 2016
       note: Board member 1997-2013, CEO 2014-2016
+  office-special-plans:
+    name: Office of Special Plans
+    type: agency
+    founded: 2002
+    headquarters: Washington DC, USA
+    status: dissolved
+    stakeholders:
+    - person: paul-wolfowitz
+      role: founder
+      from: 2002
+      note: Co-creator with Rumsfeld
+    - person: douglas-feith
+      role: executive
+      from: 2002
+      to: 2003
+      note: Head, created by Wolfowitz/Rumsfeld
   ogin:
     name: Ogin Inc.
     type: company
@@ -31736,6 +32449,19 @@ organizations:
       from: 2004
       to: 2011
       note: President
+  petra-bank:
+    name: Petra Bank
+    type: bank
+    founded: 1977
+    headquarters: Amman, Jordan
+    status: defunct
+    sector: banking
+    stakeholders:
+    - person: ahmed-chalabi
+      role: founder
+      from: 1977
+      to: 1989
+      note: Founded with Crown Prince Hassan, convicted of fraud 1992
   petrindo-jaya-kreasi:
     name: Petrindo Jaya Kreasi
     type: company
@@ -32202,9 +32928,9 @@ organizations:
       from: 1997
       note: Signatory Statement of Principles
     - person: zalmay-khalilzad
-      role: founder
+      role: signatory
       from: 1997
-      note: Signatory Statement of Principles
+      note: 1998 Iraq letter signatory
     - person: jeb-bush
       role: founder
       from: 1997
@@ -32260,6 +32986,9 @@ organizations:
       role: founder
       from: 1997
       note: Signatory Statement of Principles
+    - person: douglas-feith
+      role: signatory
+      note: 1998 Iraq letter signatory
   pnl-romania:
     name: Partito Nazionale Liberale (Romania)
     type: government
@@ -32309,6 +33038,16 @@ organizations:
       from: 1993
       to: 2011
       note: Editor-in-Chief
+  polytechnique-montreal:
+    name: Polytechnique Montreal
+    type: university
+    headquarters: Montreal, Canada
+    status: active
+    stakeholders:
+    - person: pierre-lassonde
+      role: chairman
+      from: 2020
+      note: Principal and Chair of Board
   pontegadea:
     name: Pontegadea Inversiones
     type: company
@@ -32500,6 +33239,10 @@ organizations:
     headquarters: Princeton, USA
     status: active
     stakeholders:
+    - person: james-baker
+      role: alumnus
+      to: 1952
+      note: BA History, cum laude
     - person: james-taiclet
       role: alumni
       note: MPA Woodrow Wilson School
@@ -33121,7 +33864,7 @@ organizations:
     - person: condoleezza-rice
       role: board
       from: 1991
-      to: 1997
+      to: 2001
     - person: albert-wohlstetter
       role: advisor
     - person: herman-kahn
@@ -33601,6 +34344,13 @@ organizations:
       share: 15%
       from: 2023
       note: Cross-shareholding after 2023 rebalancing
+  rendon-group:
+    name: The Rendon Group
+    type: company
+    founded: 1989
+    headquarters: Washington, DC
+    status: active
+    sector: PR, strategic communications
   repsol:
     name: Repsol S.A.
     type: company
@@ -33763,6 +34513,28 @@ organizations:
       role: board
       from: 2017
       note: Trustee
+  rice-university:
+    name: Rice University
+    type: university
+    founded: 1912
+    headquarters: Houston, Texas, USA
+    status: active
+    stakeholders:
+    - person: james-baker
+      role: chairman
+      from: 1993
+      note: Honorary Chairman, Baker Institute for Public Policy
+  ricehadleygates:
+    name: Rice, Hadley, Gates & Manuel LLC
+    type: company
+    founded: 2009
+    headquarters: Washington, D.C.
+    status: active
+    sector: consulting
+    stakeholders:
+    - person: condoleezza-rice
+      role: founder
+      from: 2009
   richemont:
     name: Compagnie Financiere Richemont
     type: company
@@ -34659,6 +35431,10 @@ organizations:
     stakeholders:
     - person: vivek-kundra
       role: executive
+    - person: colin-powell
+      role: board
+      from: 2014
+      to: 2021
   salim-group:
     name: Salim Group
     type: company
@@ -35260,6 +36036,16 @@ organizations:
       from: 2015
       to: 2021
       note: Dean PSIA
+  sciences-po-paris:
+    name: Institut d'etudes politiques de Paris (Sciences Po)
+    type: university
+    founded: 1872
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: paul-bremer
+      role: alumnus
+      note: CEP
   scl-group:
     name: SCL Group
     type: company
@@ -35628,6 +36414,13 @@ organizations:
       from: 2002
       to: 2018
       note: CEO 2002-2006, Chairman 2006-2018
+  shandong-gold:
+    name: Shandong Gold Group
+    type: company
+    founded: 1996
+    headquarters: Jinan, China
+    status: active
+    sector: gold-mining
   shanduka-group:
     name: Shanduka Group
     type: company
@@ -35826,6 +36619,12 @@ organizations:
       role: owner
       from: 1891
       note: Filiale italiana Standard Oil
+  sibanye-stillwater:
+    name: Sibanye-Stillwater
+    type: company
+    headquarters: Johannesburg, South Africa
+    status: active
+    sector: precious-metals
   sibneft:
     name: Sibneft
     type: company
@@ -36113,6 +36912,7 @@ organizations:
     - person: george-w-bush
       role: member
       from: 1968
+      note: Senior year
     - person: prescott-bush
       role: member
       from: 1917
@@ -36803,6 +37603,15 @@ organizations:
     - person: condoleezza-rice
       role: executive
       note: Provost 1993-1999; Professor; Hoover Fellow
+    - person: condoleezza-rice
+      role: professor
+      from: 1981
+      note: Political Science
+    - person: condoleezza-rice
+      role: executive
+      from: 1993
+      to: 1999
+      note: Provost
     - person: sam-altman
       role: member
       from: 2003
@@ -37549,6 +38358,23 @@ organizations:
       role: executive
     - org: blackrock
       share: 6.6%
+  sy-technology:
+    name: SY Technology (SYColeman)
+    type: defense
+    founded: 1978
+    headquarters: Huntsville, Alabama
+    status: acquired
+    sector: missile defense
+    note: Acquired by L-3 Communications 2002
+    stakeholders:
+    - person: jay-garner
+      role: executive
+      from: 1997
+      to: 2003
+      note: President
+    - org: l3-communications
+      role: acquired
+      from: 2002
   syensqo:
     name: Syensqo SA
     type: company
@@ -38545,6 +39371,18 @@ organizations:
       share: 100%
       from: 2016
       note: Subsidiary
+  texas-rangers:
+    name: Texas Rangers
+    type: sportsclub
+    founded: 1961
+    headquarters: Arlington, Texas
+    status: active
+    stakeholders:
+    - person: george-w-bush
+      role: partner
+      from: 1989
+      to: 1998
+      note: Managing General Partner
   tf1:
     name: Groupe TF1
     type: media
@@ -39860,6 +40698,9 @@ organizations:
       from: 2002
       to: 2009
       note: Board Director
+    - person: david-tait
+      role: executive
+      note: Senior Trader
     - org: blackrock
       share: 5.0%
     - org: vanguard
@@ -40495,6 +41336,28 @@ organizations:
     - person: allan-bloom
       role: executive
       note: Professor, Committee on Social Thought
+    - person: ahmed-chalabi
+      role: alumnus
+      from: 1965
+      to: 1969
+      note: PhD Mathematics, advisor George Glauberman
+  university-of-denver:
+    name: University of Denver
+    type: university
+    founded: 1864
+    headquarters: Denver, Colorado
+    status: active
+    stakeholders:
+    - person: condoleezza-rice
+      role: alumnus
+      from: 1970
+      to: 1974
+      note: BA Political Science
+    - person: condoleezza-rice
+      role: alumnus
+      from: 1979
+      to: 1981
+      note: PhD Political Science
   university-of-london:
     name: University of London
     type: foundation
@@ -40524,6 +41387,29 @@ organizations:
     - person: larry-page
       role: member
       note: BS Computer Engineering 1995
+  university-of-notre-dame:
+    name: University of Notre Dame
+    type: university
+    founded: 1842
+    headquarters: Notre Dame, Indiana
+    status: active
+    stakeholders:
+    - person: condoleezza-rice
+      role: alumnus
+      from: 1974
+      to: 1975
+      note: MA Political Science
+  university-of-texas:
+    name: University of Texas at Austin
+    type: university
+    founded: 1883
+    headquarters: Austin, Texas, USA
+    status: active
+    stakeholders:
+    - person: james-baker
+      role: alumnus
+      to: 1957
+      note: JD with honors
   university-texas:
     name: University of Texas at Austin
     type: university
@@ -43096,6 +43982,12 @@ organizations:
     stakeholders:
     - person: adam-grant
       role: professor
+  wheaton-precious-metals:
+    name: Wheaton Precious Metals
+    type: company
+    headquarters: Vancouver, Canada
+    status: active
+    sector: precious-metals-streaming
   white-house:
     name: White House
     type: government
@@ -43281,6 +44173,78 @@ organizations:
       role: board
       from: 2003
       note: IAAF Council member
+  world-gold-council:
+    name: World Gold Council
+    type: agency
+    founded: 1987
+    headquarters: London, United Kingdom
+    status: active
+    sector: gold
+    stakeholders:
+    - person: david-tait
+      role: executive
+      from: 2019
+      note: CEO
+    - person: neal-froneman
+      role: chairman
+      from: 2023
+      note: Board Chair
+    - person: tom-palmer
+      role: board
+      from: 2020
+      note: Vice Chair
+    - person: randy-smallwood
+      role: chairman
+      from: 2020
+      to: 2023
+    - person: david-harquail
+      role: chairman
+      from: 2017
+      to: 2019
+    - person: pierre-lassonde
+      role: chairman
+      from: 2005
+      to: 2008
+    - person: aram-shishmanian
+      role: executive
+      from: 2009
+      to: 2019
+      note: CEO
+    - person: ammar-al-joundi
+      role: board
+      from: 2020
+      note: Chair Governance & Nominations Committee
+    - person: christian-milau
+      role: board
+      from: 2020
+      note: Chair Audit Committee
+    - person: paul-brink
+      role: board
+      from: 2020
+      note: Chair Compensation Committee
+    - org: barrick-gold
+      role: member
+    - org: anglogold-ashanti
+      role: member
+    - org: newmont
+      role: member
+      note: Founding member
+    - org: sibanye-stillwater
+      role: member
+    - org: franco-nevada
+      role: member
+    - org: agnico-eagle
+      role: member
+    - org: wheaton-precious-metals
+      role: member
+    - org: kinross-gold
+      role: member
+    - org: shandong-gold
+      role: member
+      note: State-owned enterprise
+    - org: china-national-gold
+      role: member
+      note: State-owned enterprise
   world-jewish-congress:
     name: World Jewish Congress
     type: forum
@@ -43667,12 +44631,17 @@ organizations:
       role: alumnus
       from: 1964
       to: 1968
-      note: BA History 1968; Skull and Bones 1968
+      note: BA History, DKE President
     - person: stephen-schwarzman
       role: alumnus
       from: 1965
       to: 1969
       note: BA 1969; Skull and Bones; major donor Schwarzman Center
+    - person: paul-bremer
+      role: alumnus
+      from: 1959
+      to: 1963
+      note: BA
     - person: hillary-clinton
       role: alumnus
       from: 1970

@@ -84,6 +84,16 @@ persons:
       from: 2008
       to: 2011
       note: PM
+  abu-mahdi-al-muhandis:
+    born: 1954
+    died: 2020
+    nationality: Iraq
+    affiliations:
+    - org: hashd-al-shaabi
+      role: executive
+      from: 2014
+      to: 2020
+      note: Deputy Chairman, killed with Soleimani
   ad-scheepbouwer:
     nationality: NLD
     affiliations:
@@ -251,6 +261,80 @@ persons:
       role: deputy-commander
       from: 2025
       note: Implicato attentato AMIA 1994, ex capo Quds Force
+  ahmed-chalabi:
+    born: 1945
+    died: 2015
+    nationality: IRQ
+    affiliations:
+    - org: mit
+      role: alumnus
+      from: 1961
+      to: 1965
+      note: BS Mathematics
+    - org: university-of-chicago
+      role: alumnus
+      from: 1965
+      to: 1969
+      note: PhD Mathematics, advisor George Glauberman
+    - org: aub
+      role: executive
+      from: 1970
+      to: 1977
+      note: Professor of Mathematics
+    - org: governo-iraq
+      role: minister
+      from: 2005
+      to: 2006
+      note: Deputy PM 2005-06, Oil Minister Apr-May 2005, Dec 2005-Jan 2006
+    - org: cpa-iraq
+      role: member
+      from: 2003
+      to: 2004
+      note: Iraqi Governing Council, rotating president Sep 2003
+    - org: iraqi-national-congress
+      role: founder
+      from: 1992
+      to: 2015
+      note: Founded INC, leader of Iraqi opposition in exile
+    - org: petra-bank
+      role: founder
+      from: 1977
+      to: 1989
+      note: Founded with Crown Prince Hassan, convicted of fraud 1992
+    relations:
+    - person: dick-cheney
+      type: ally
+      note: Backer in White House, $300k/month INC funding
+    - person: donald-rumsfeld
+      type: ally
+      note: Pentagon support for INC
+    - person: douglas-feith
+      type: ally
+      note: Office of Special Plans, INC intelligence
+    - person: paul-bremer
+      type: colleague
+      note: Iraqi Governing Council under CPA
+    - person: paul-wolfowitz
+      type: ally
+      note: INC-Pentagon alliance, WMD intelligence
+    - person: richard-perle
+      type: ally
+      note: Defense Policy Board, Iraq invasion advocate
+  ahmed-hassan-al-bakr:
+    born: 1914
+    died: 1982
+    nationality: IRQ
+    affiliations:
+    - org: governo-iraq
+      role: leader
+      from: 1968
+      to: 1979
+      note: President
+    - org: baath-party
+      role: leader
+      from: 1968
+      to: 1979
+      note: Regional Secretary, President of Iraq
   aiman-al-mudaifer:
     nationality: SAU
     note: CEO NEOM dal 2025. Ex capo Local Real Estate Investment Division di PIF dal 2018.
@@ -1182,6 +1266,9 @@ persons:
     born: 1966
     died: 2011
     nationality: IRN-USA
+  ali-sistani:
+    born: 1930
+    nationality: Iraq
   alice-walton:
     born: 1949
     nationality: USA
@@ -1492,6 +1579,13 @@ persons:
       from: 2021
       to: 2024
       note: Chairman of the Board
+  ammar-al-joundi:
+    nationality: CAN
+    affiliations:
+    - org: world-gold-council
+      role: board
+      from: 2020
+      note: Chair Governance & Nominations Committee
   amos-genish:
     nationality: ISR
     affiliations:
@@ -2629,6 +2723,84 @@ persons:
       role: leader
       from: 2025
       note: Primo Ministro
+  april-glaspie:
+    born: 1942
+    nationality: USA-CAN
+    affiliations:
+    - org: governo-usa
+      role: diplomat
+      from: 1988
+      to: 1990
+      note: US Ambassador to Iraq
+    - org: governo-usa
+      role: diplomat
+      from: 1973
+      to: 1977
+      note: Political Officer Cairo
+    - org: governo-usa
+      role: diplomat
+      from: 1983
+      to: 1985
+      note: Political Officer/DCM Damascus
+    - org: governo-usa
+      role: executive
+      from: 1985
+      to: 1987
+      note: Dir. Office of Jordan, Lebanon, Syria Affairs
+    - org: governo-usa
+      role: diplomat
+      from: 1991
+      to: 2002
+      note: Consul General Cape Town
+    - org: mills-college
+      role: alumnus
+      to: 1963
+      note: BA
+    - org: johns-hopkins
+      role: alumnus
+      to: 1965
+      note: MA, SAIS
+    relations:
+    - person: george-h-w-bush
+      type: hierarchical
+      note: Ambassador under Bush 41
+    - person: james-baker
+      type: hierarchical
+      note: Secretary of State during her ambassadorship
+    - person: saddam-hussein
+      type: diplomatic
+      note: July 25, 1990 meeting - "no opinion on Arab-Arab conflicts"
+    - person: tariq-aziz
+      type: diplomatic
+      note: Present at July 25, 1990 meeting
+  aram-shishmanian:
+    nationality: GBR
+    affiliations:
+    - org: world-gold-council
+      role: executive
+      from: 2009
+      to: 2019
+      note: CEO
+  aras-habib:
+    born: 1967
+    nationality: IRQ
+    note: INC co-founder, intelligence chief, Feyli Kurd, OFAC sanctioned 2018
+    affiliations:
+    - org: governo-iraq
+      role: executive
+      from: 2003
+      note: Director of Intelligence, Interior Ministry; Under-Secretary
+    - org: iraqi-national-congress
+      role: founder
+      from: 1992
+      note: Co-founder with Chalabi, intelligence chief, General Secretary 2015-
+    - org: al-bilad-islamic-bank
+      role: chairman
+      note: Chairman & CEO, OFAC sanctioned 2018
+    relations:
+    - person: ahmed-chalabi
+      type: partner
+      note: INC co-founders, intelligence chief and leader
   arash-ferdowsi:
     born: 1985
     nationality: USA
@@ -3039,6 +3211,20 @@ persons:
     - org: institute-international-finance
       role: chairman
       note: Chairman
+  ayad-allawi:
+    born: 1944
+    nationality: Iraq
+    affiliations:
+    - org: governo-iraq
+      role: leader
+      from: 2004
+      to: 2005
+      note: First PM of Iraqi Interim Government
+    - org: cpa-iraq
+      role: member
+      from: 2003
+      to: 2004
+      note: Iraqi Governing Council, rotating president Oct 2003
   ayhan-sahenk:
     born: 1929
     died: 2001
@@ -4299,6 +4485,14 @@ persons:
     died: 1995
     nationality: USA
     family: walton
+  bunnatine-greenhouse:
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: executive
+      from: 1997
+      to: 2005
+      note: Chief Contracting Officer, Army Corps of Engineers
   byju-raveendran:
     born: 1980
     nationality: IND
@@ -5268,6 +5462,13 @@ persons:
       role: executive
       from: 2020
       note: CEO
+  christian-milau:
+    nationality: CAN
+    affiliations:
+    - org: world-gold-council
+      role: board
+      from: 2020
+      note: Chair Audit Committee
   christian-noyer:
     born: 1950
     nationality: FRA
@@ -5675,6 +5876,66 @@ persons:
       role: executive
       from: 2013
       note: CFO
+  colin-powell:
+    born: 1937
+    died: 2021
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: board
+      from: 2005
+    - org: governo-usa
+      role: minister
+      from: 2001
+      to: 2005
+      note: Secretary of State
+    - org: governo-usa
+      role: advisor
+      from: 1987
+      to: 1989
+      note: National Security Advisor (Reagan)
+    - org: governo-usa
+      role: executive
+      from: 1989
+      to: 1993
+      note: Chairman Joint Chiefs of Staff
+    - org: salesforce
+      role: board
+      from: 2014
+      to: 2021
+    - org: howard-university
+      role: board
+    - org: kleiner-perkins
+      role: partner
+      from: 2005
+      to: 2021
+      note: Strategic Limited Partner
+    - org: bloom-energy
+      role: board
+      to: 2021
+    - org: city-college-new-york
+      role: alumnus
+      from: 1954
+      to: 1958
+      note: BA Geology, ROTC
+    - org: george-washington-university
+      role: alumnus
+      to: 1971
+      note: MBA
+    relations:
+    - person: condoleezza-rice
+      type: colleague
+      note: Cabinet Bush 43
+    - person: dick-cheney
+      type: colleague
+    - person: donald-rumsfeld
+      type: colleague
+      note: Cabinet Bush 43
+    - person: george-h-w-bush
+      type: colleague
+      note: Chairman JCS sotto Bush 41
+    - person: paul-wolfowitz
+      type: colleague
   colm-kelleher:
     born: 1957
     nationality: IRL
@@ -5698,17 +5959,103 @@ persons:
     born: 1954
     nationality: USA
     affiliations:
-    - org: nsa
+    - org: cfr
+      role: member
+      from: 1986
+      to: 1987
+      note: International Affairs Fellow
+    - org: governo-usa
+      role: advisor
+      from: 1989
+      to: 1991
+      note: NSC Director Soviet Affairs (Bush 41)
+    - org: governo-usa
       role: advisor
       from: 2001
       to: 2005
+      note: National Security Advisor
+    - org: governo-usa
+      role: minister
+      from: 2005
+      to: 2009
+      note: Secretary of State
+    - org: chevron
+      role: board
+      from: 1991
+      to: 2001
+      note: Board of Directors
     - org: rand-corporation
       role: board
       from: 1991
-      to: 1997
+      to: 2001
     - org: stanford-university
       role: executive
       note: Provost 1993-1999; Professor; Hoover Fellow
+    - org: stanford-university
+      role: professor
+      from: 1981
+      note: Political Science
+    - org: stanford-university
+      role: executive
+      from: 1993
+      to: 1999
+      note: Provost
+    - org: carnegie-corporation
+      role: board
+      from: 1991
+      to: 2001
+    - org: denver-broncos
+      role: partner
+      from: 2022
+      note: Part-owner, Walton-Penner Group
+    - org: hoover-institution
+      role: member
+      from: 1991
+      to: 2001
+      note: Senior Fellow
+    - org: hoover-institution
+      role: executive
+      from: 2020
+      note: Director
+    - org: university-of-denver
+      role: alumnus
+      from: 1970
+      to: 1974
+      note: BA Political Science
+    - org: university-of-denver
+      role: alumnus
+      from: 1979
+      to: 1981
+      note: PhD Political Science
+    - org: university-of-notre-dame
+      role: alumnus
+      from: 1974
+      to: 1975
+      note: MA Political Science
+    - org: ricehadleygates
+      role: founder
+      from: 2009
+    relations:
+    - person: dick-cheney
+      type: colleague
+      note: Bush 43 cabinet
+    - person: donald-rumsfeld
+      type: colleague
+      note: Bush 43 cabinet
+    - person: george-h-w-bush
+      type: colleague
+      note: NSC 1989-1991
+    - person: george-shultz
+      type: protege
+    - person: paul-wolfowitz
+      type: colleague
+      note: Bush 43 administration
+    - person: robert-gates
+      type: partner
+      note: RiceHadleyGates LLC
+    - person: stephen-hadley
+      type: partner
+      note: RiceHadleyGates LLC
   conni-jonsson:
     born: 1959
     nationality: SWE
@@ -6101,6 +6448,11 @@ persons:
     - org: rosemont-capital
       role: founder
       note: Co-founder
+    - org: cpa-iraq
+      role: advisor
+      from: 2003
+      to: 2004
+      note: Senior Advisor to Bremer, Chief Spokesman
   dana-white:
     born: 1969
     nationality: USA
@@ -6504,6 +6856,13 @@ persons:
     relations:
     - person: michael-federmann
       type: son
+  david-harquail:
+    nationality: CAN
+    affiliations:
+    - org: world-gold-council
+      role: chairman
+      from: 2017
+      to: 2019
   david-hertz:
     nationality: BR
     note: Social entrepreneur São Paulo. Slow food advocate.
@@ -6556,6 +6915,14 @@ persons:
       role: minister
       from: 2024
       note: Foreign Secretary
+  david-lesar:
+    nationality: USA
+    affiliations:
+    - org: halliburton
+      role: executive
+      from: 2000
+      to: 2017
+      note: Chairman & CEO
   david-lidington:
     born: 1956
     nationality: GBR
@@ -6816,6 +7183,30 @@ persons:
       note: CEO
     - org: business-roundtable
       role: member
+  david-tait:
+    born: 1963
+    nationality: ZAF-GBR
+    affiliations:
+    - org: goldman-sachs
+      role: executive
+      note: Trader
+    - org: ubs
+      role: executive
+      note: Senior Trader
+    - org: credit-suisse
+      role: executive
+      to: 2016
+      note: Global Head of Fixed Income Macro Products
+    - org: world-gold-council
+      role: executive
+      from: 2019
+      note: CEO
+    - org: bluecrest-capital
+      role: partner
+      note: Partner
+    - org: fmsb
+      role: advisor
+      note: Advisory Council member, Chair Precious Metals Working Group
   david-thomson:
     born: 1957
     nationality: CAN-GBR
@@ -7095,7 +7486,7 @@ persons:
       role: executive
       from: 1995
       to: 2000
-      note: Chairman & CEO
+      note: CEO before Vice Presidency
     relations:
     - person: liz-cheney
       type: father
@@ -7592,6 +7983,60 @@ persons:
     - org: walmart
       role: executive
       from: 2014
+  douglas-feith:
+    born: 1953
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: executive
+      from: 1984
+      to: 1986
+      note: Deputy Asst SecDef Negotiations Policy (Reagan)
+    - org: governo-usa
+      role: executive
+      from: 2001
+      to: 2005
+      note: Under Secretary Defense for Policy
+    - org: jinsa
+      role: board
+    - org: hudson-institute
+      role: member
+      from: 2008
+      note: Senior Fellow
+    - org: georgetown-university
+      role: alumnus
+      to: 1978
+      note: JD magna cum laude
+    - org: georgetown-university
+      role: member
+      from: 2006
+      to: 2008
+      note: Professor National Security Policy
+    - org: harvard-university
+      role: alumnus
+      from: 1971
+      to: 1975
+      note: BA magna cum laude
+    - org: pnac
+      role: signatory
+      note: 1998 Iraq letter signatory
+    - org: office-special-plans
+      role: executive
+      from: 2002
+      to: 2003
+      note: Head, created by Wolfowitz/Rumsfeld
+    - org: center-security-policy
+      role: chairman
+      note: Founding member, Chairman board
+    relations:
+    - person: donald-rumsfeld
+      type: colleague
+    - person: paul-wolfowitz
+      type: colleague
+      note: Sotto Wolfowitz come Under SecDef Policy
+    - person: richard-perle
+      type: mentor
+      note: Lavoro per Perle al Pentagon Reagan
   douglas-flint:
     born: 1955
     nationality: GBR
@@ -8745,6 +9190,15 @@ persons:
       role: board
       from: 2021
       note: Supervisory Board Co-Chair
+  erik-prince:
+    born: 1969
+    nationality: USA
+    affiliations:
+    - org: blackwater
+      role: founder
+      from: 1997
+      to: 2010
+      note: Founder and CEO
   erik-seidenfaden:
     born: 1910
     died: 1990
@@ -10828,6 +11282,16 @@ persons:
       role: executive
       from: 2017
       note: Dean Faculty of Medicine
+  george-h-w-bush:
+    born: 1924
+    died: 2018
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: leader
+      from: 1989
+      to: 1993
+      note: President
   george-hw-bush:
     born: 1924
     died: 2018
@@ -10975,14 +11439,53 @@ persons:
       role: president
       from: 2001
       to: 2009
+      note: 43rd President
+    - org: harvard-university
+      role: alumnus
+      from: 1973
+      to: 1975
+      note: MBA
     - org: yale-university
       role: alumnus
       from: 1964
       to: 1968
-      note: BA History 1968; Skull and Bones 1968
+      note: BA History, DKE President
     - org: skull-and-bones
       role: member
       from: 1968
+      note: Senior year
+    - org: texas-rangers
+      role: partner
+      from: 1989
+      to: 1998
+      note: Managing General Partner
+    - org: harken-energy
+      role: board
+      from: 1986
+      to: 1990
+      note: Director, consultant
+    relations:
+    - person: colin-powell
+      type: colleague
+      note: Secretary of State
+    - person: condoleezza-rice
+      type: colleague
+      note: NSA 2001-05, Sec State 2005-09
+    - person: dick-cheney
+      type: colleague
+      note: Vice President
+    - person: donald-rumsfeld
+      type: colleague
+      note: Secretary of Defense
+    - person: george-h-w-bush
+      type: son
+      note: Father-son presidents
+    - person: karl-rove
+      type: advisor
+      note: The Architect
+    - person: paul-wolfowitz
+      type: colleague
+      note: Deputy Sec Defense
   georges-elhedery:
     born: 1974
     nationality: LBN-FRA
@@ -12002,6 +12505,15 @@ persons:
       from: 2023
       to: 2024
       note: Governor, first female
+  haider-al-abadi:
+    born: 1952
+    nationality: Iraq
+    affiliations:
+    - org: governo-iraq
+      role: leader
+      from: 2014
+      to: 2018
+      note: Prime Minister
   haim-saban:
     born: 1944
     nationality: ISR-USA
@@ -13253,6 +13765,15 @@ persons:
       from: 1932
       to: 1953
       note: Primo Re Arabia Saudita
+  ibrahim-al-jaafari:
+    born: 1947
+    nationality: Iraq
+    affiliations:
+    - org: governo-iraq
+      role: leader
+      from: 2005
+      to: 2006
+      note: First post-Saddam Prime Minister
   ibrahim-eren:
     nationality: TUR
     note: TRT Dir Gen 2017-2021. First Turk ABU President. Now BeIN Media advisor
@@ -13783,6 +14304,16 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  izzat-ibrahim-al-douri:
+    born: 1942
+    died: 2020
+    nationality: IRQ
+    affiliations:
+    - org: baath-party
+      role: leader
+      from: 1979
+      to: 2003
+      note: RCC Vice Chairman, succeeded Saddam as leader 2007
   j-kirk-wiebe:
     nationality: USA
   jaakko-iloniemi:
@@ -14098,6 +14629,16 @@ persons:
       from: 1988
       to: 1994
       note: Trade
+  jalal-talabani:
+    born: 1933
+    died: 2017
+    nationality: Iraq
+    affiliations:
+    - org: governo-iraq
+      role: leader
+      from: 2005
+      to: 2014
+      note: President, first non-Arab head of state
   james-angleton:
     born: 1917
     died: 1987
@@ -14141,9 +14682,33 @@ persons:
     born: 1930
     nationality: USA
     affiliations:
+    - org: cfr
+      role: member
     - org: governo-usa
       role: minister
-      note: Secretary of State (Bush Sr), Secretary of Treasury (Reagan)
+      from: 1975
+      to: 1976
+      note: Under Secretary of Commerce (Ford)
+    - org: governo-usa
+      role: advisor
+      from: 1981
+      to: 1985
+      note: White House Chief of Staff (Reagan)
+    - org: governo-usa
+      role: minister
+      from: 1985
+      to: 1988
+      note: Secretary of Treasury (Reagan)
+    - org: governo-usa
+      role: minister
+      from: 1989
+      to: 1992
+      note: Secretary of State (Bush 41)
+    - org: governo-usa
+      role: advisor
+      from: 1992
+      to: 1993
+      note: White House Chief of Staff (Bush 41)
     - org: carlyle-group
       role: advisor
       note: Senior Counsellor, Asia/Europe Advisory Boards
@@ -14152,6 +14717,35 @@ persons:
       from: 1995
       to: 2000
       note: Co-Chair
+    - org: princeton
+      role: alumnus
+      to: 1952
+      note: BA History, cum laude
+    - org: university-of-texas
+      role: alumnus
+      to: 1957
+      note: JD with honors
+    - org: baker-botts
+      role: partner
+      from: 1993
+      note: Senior Partner
+    - org: rice-university
+      role: chairman
+      from: 1993
+      note: Honorary Chairman, Baker Institute for Public Policy
+    relations:
+    - person: april-glaspie
+      type: hierarchical
+      note: Glaspie reported to Baker as SecState
+    - person: colin-powell
+      type: colleague
+      note: Powell Chairman JCS, Baker SecState during Gulf War
+    - person: dick-cheney
+      type: colleague
+      note: Both in Bush 41 cabinet
+    - person: george-h-w-bush
+      type: ally
+      note: Best friend, managed campaigns, Secretary of State
   james-callaghan:
     born: 1912
     died: 2005
@@ -14660,6 +15254,47 @@ persons:
       from: 1929
       to: 1964
       note: President
+  jay-garner:
+    born: 1938
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: military
+      from: 1962
+      to: 1997
+      note: Lieutenant General, US Army
+    - org: jinsa
+      role: member
+      from: 1998
+      note: Signed 2000 statement supporting Israel
+    - org: cpa-iraq
+      role: executive
+      from: 2003
+      to: 2003
+      note: Director ORHA (precursor to CPA), replaced by Bremer after 1 month
+    - org: sy-technology
+      role: executive
+      from: 1997
+      to: 2003
+      note: President
+    - org: florida-state-university
+      role: alumnus
+      from: 1958
+      to: 1962
+      note: BA History
+    relations:
+    - person: donald-rumsfeld
+      type: colleague
+      note: Policy disagreements led to replacement
+    - person: douglas-feith
+      type: colleague
+      note: Pentagon Iraq planning
+    - person: paul-bremer
+      type: replaced_by
+      note: Bremer replaced Garner May 2003
+    - person: paul-wolfowitz
+      type: colleague
+      note: Pentagon Iraq planning
   jay-rockefeller:
     born: 1937
     nationality: USA
@@ -15053,6 +15688,13 @@ persons:
   jeff-immelt:
     born: 1956
     nationality: USA
+  jeff-miller:
+    nationality: USA
+    affiliations:
+    - org: halliburton
+      role: executive
+      from: 2017
+      note: Chairman & CEO
   jeff-radebe:
     born: 1953
     nationality: ZAF
@@ -16278,6 +16920,19 @@ persons:
       role: owner
       from: 2008
       note: Boston Basketball Partners LLC investor group
+  jonathan-moulds:
+    nationality: GBR
+    affiliations:
+    - org: bank-of-america
+      role: executive
+      note: CEO Merrill Lynch International, European President
+    - org: barclays
+      role: executive
+      note: COO
+    - org: fmsb
+      role: chairman
+      from: 2023
+      note: Chair and Director
   jonathan-nelson:
     nationality: USA
     affiliations:
@@ -17274,6 +17929,15 @@ persons:
       role: chairman
       from: 2018
       note: Chairman Supervisory Board
+  karl-rove:
+    born: 1950
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2001
+      to: 2007
+      note: Senior Advisor, Deputy Chief of Staff
   karl-theodor-zu-guttenberg:
     born: 1971
     nationality: DEU
@@ -22199,6 +22863,16 @@ persons:
       role: executive
     - org: bank-of-america
       role: executive
+  michel-aflaq:
+    born: 1910
+    died: 1989
+    nationality: SYR
+    affiliations:
+    - org: baath-party
+      role: founder
+      from: 1947
+      to: 1989
+      note: Ideological founder of Ba'athism
   michel-barnier:
     born: 1951
     nationality: FRA
@@ -22822,6 +23496,14 @@ persons:
       role: founder
       from: 2019
       note: Annuncio pubblico creazione EDGE
+  mohammed-shia-al-sudani:
+    born: 1970
+    nationality: Iraq
+    affiliations:
+    - org: governo-iraq
+      role: leader
+      from: 2022
+      note: Prime Minister, pro-Iran Coordination Framework
   mohsen-fakhrizadeh:
     born: 1958
     died: 2020
@@ -23048,6 +23730,15 @@ persons:
       from: 1992
       to: 2025
       note: CFO 2020-2023, CEO 2023-2025
+  mustafa-al-kadhimi:
+    born: 1967
+    nationality: Iraq
+    affiliations:
+    - org: governo-iraq
+      role: leader
+      from: 2020
+      to: 2022
+      note: Prime Minister
   mustafa-koc:
     born: 1960
     died: 2016
@@ -23078,6 +23769,13 @@ persons:
       role: minister
       from: 2019
       note: Vice PM, Digital Transformation
+  myles-mcguinness:
+    nationality: GBR
+    affiliations:
+    - org: fmsb
+      role: executive
+      from: 2021
+      note: CEO
   n-chandrasekaran:
     born: 1963
     nationality: IND
@@ -23574,6 +24272,13 @@ persons:
       role: chairman
       from: 2010
       note: Chairman Board of Directors
+  neal-froneman:
+    nationality: ZAF
+    affiliations:
+    - org: world-gold-council
+      role: chairman
+      from: 2023
+      note: Board Chair
   neelie-kroes:
     born: 1941
     nationality: NLD
@@ -24171,6 +24876,16 @@ persons:
       role: founder
       from: 1997
       note: Signatory Statement of Principles - Neocon ideologue
+  norman-schwarzkopf:
+    born: 1934
+    died: 2012
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: military
+      from: 1988
+      to: 1991
+      note: CENTCOM Commander
   noubar-afeyan:
     born: 1962
     nationality: LBN-USA
@@ -24193,6 +24908,15 @@ persons:
       note: WEF Annual Meeting 2016
     - org: twofour54
       role: executive
+  nouri-al-maliki:
+    born: 1950
+    nationality: Iraq
+    affiliations:
+    - org: governo-iraq
+      role: leader
+      from: 2006
+      to: 2014
+      note: Prime Minister, two terms
   nout-wellink:
     nationality: NLD
     affiliations:
@@ -25177,8 +25901,83 @@ persons:
     born: 1941
     nationality: USA
     affiliations:
-    - org: kissinger-associates
+    - org: governo-usa
+      role: diplomat
+      from: 1966
+      to: 1989
+      note: Foreign Service, Ambassador Netherlands 1983-86
+    - org: governo-usa
       role: advisor
+      from: 1974
+      to: 1976
+      note: Executive Assistant to SecState Kissinger
+    - org: governo-usa
+      role: advisor
+      from: 1986
+      to: 1989
+      note: Ambassador-at-Large for Counter-Terrorism
+    - org: kissinger-associates
+      role: executive
+      from: 1989
+      to: 2001
+      note: Managing Director
+    - org: harvard-university
+      role: alumnus
+      from: 1964
+      to: 1966
+      note: MBA, Harvard Business School
+    - org: yale-university
+      role: alumnus
+      from: 1959
+      to: 1963
+      note: BA
+    - org: heritage-foundation
+      role: advisor
+      from: 2001
+      to: 2002
+      note: Chaired Homeland Security Task Force
+    - org: cpa-iraq
+      role: executive
+      from: 2003
+      to: 2004
+      note: Administrator, de facto ruler of Iraq
+    - org: marsh-mclennan
+      role: executive
+      from: 2001
+      to: 2003
+      note: Chairman & CEO, Marsh Crisis Consulting
+    - org: sciences-po-paris
+      role: alumnus
+      note: CEP
+    relations:
+    - person: colin-powell
+      type: colleague
+      note: Iraq policy, CPA Orders controversy
+    - person: condoleezza-rice
+      type: colleague
+      note: Iraq policy, CPA Orders controversy
+    - person: dick-cheney
+      type: colleague
+      note: Iraq policy
+    - person: donald-rumsfeld
+      type: colleague
+      note: Reported to SecDef as CPA Administrator
+    - person: douglas-feith
+      type: colleague
+      note: Pentagon Iraq policy
+    - person: george-w-bush
+      type: appointed_by
+      note: Presidential Medal of Freedom 2004
+    - person: henry-kissinger
+      type: protege
+      note: Executive Assistant 1974-76, Managing Director Kissinger Associates
+  paul-brink:
+    nationality: CAN
+    affiliations:
+    - org: world-gold-council
+      role: board
+      from: 2020
+      note: Chair Compensation Committee
   paul-bulcke:
     born: 1954
     nationality: BEL
@@ -25505,6 +26304,10 @@ persons:
     - org: ned
       role: board
       note: Board member
+    - org: office-special-plans
+      role: founder
+      from: 2002
+      note: Co-creator with Rumsfeld
   paula-dobriansky:
     born: 1955
     nationality: USA
@@ -26371,6 +27174,44 @@ persons:
     - org: solvay-sa
       role: chairman
       from: 2023
+  pierre-lassonde:
+    born: 1947
+    nationality: CAN
+    affiliations:
+    - org: world-gold-council
+      role: chairman
+      from: 2005
+      to: 2008
+    - org: newmont
+      role: executive
+      from: 2002
+      to: 2007
+      note: President (2002-2007), Vice-Chairman (2007)
+    - org: franco-nevada
+      role: founder
+      from: 1982
+      to: 2020
+      note: Co-founder, Chairman (Chairman Emeritus dal 2020)
+    - org: canada-council-arts
+      role: chairman
+      from: 2015
+      to: 2020
+    - org: polytechnique-montreal
+      role: chairman
+      from: 2020
+      note: Principal and Chair of Board
+    - org: mnbaq
+      role: chairman
+      from: 2005
+      to: 2016
+      note: Donatore Pierre Lassonde Pavilion
+    relations:
+    - person: david-harquail
+      type: business-partner
+      note: Co-rilancio Franco-Nevada 2008
+    - person: seymour-schulich
+      type: business-partner
+      note: Co-fondatori Franco-Nevada 1982
   pierre-moscovici:
     born: 1957
     nationality: FRA
@@ -26751,6 +27592,11 @@ persons:
       role: commander
       from: 1998
       to: 2020
+    - org: hashd-al-shaabi
+      role: advisor
+      from: 2014
+      to: 2020
+      note: IRGC Quds Force commander, key strategist
   queen-beatrix:
     born: 1938
     nationality: NLD
@@ -27160,6 +28006,13 @@ persons:
       role: chairman
       from: 2019
       note: Chairman & CEO
+  randy-smallwood:
+    nationality: CAN
+    affiliations:
+    - org: world-gold-council
+      role: chairman
+      from: 2020
+      to: 2023
   rania-al-mashat:
     nationality: EGY
     note: Ministro Cooperazione Internazionale Egitto
@@ -28950,6 +29803,21 @@ persons:
       role: leader
       from: 2005
       to: 2022
+  saddam-hussein:
+    born: 1937
+    died: 2006
+    nationality: IRQ
+    affiliations:
+    - org: governo-iraq
+      role: leader
+      from: 1979
+      to: 2003
+      note: President
+    - org: baath-party
+      role: leader
+      from: 1979
+      to: 2003
+      note: Secretary General
   safak-pavey:
     born: 1976
     nationality: TR
@@ -30009,6 +30877,25 @@ persons:
       role: chairman
       from: 2009
       note: Member 2009, Vice Chairman 2022-2023, Chairman 2024-2025
+  seymour-schulich:
+    born: 1940
+    nationality: CAN
+    affiliations:
+    - org: newmont
+      role: board
+      from: 2002
+      to: 2007
+      note: Director, Chairman Newmont Capital
+    - org: franco-nevada
+      role: founder
+      from: 1983
+      to: 2002
+      note: Co-founder with Pierre Lassonde
+    - org: beutel-goodman
+      role: executive
+      from: 1968
+      to: 1990
+      note: President (1987-1990), Vice-Chairman Emeritus
   shaffi-mather:
     nationality: AE
     note: Founded emergency ambulance service India (Dial 1298). Founded MUrgency. TED Fellow. BMW Foundation World Responsible
@@ -31525,6 +32412,31 @@ persons:
     - org: wef
       role: ygl
       from: 2024
+  tariq-aziz:
+    born: 1936
+    died: 2015
+    nationality: IRQ
+    affiliations:
+    - org: governo-iraq
+      role: minister
+      from: 1983
+      to: 2003
+      note: Foreign Minister 1983-1991, Deputy PM 1979-2003
+    - org: baath-party
+      role: member
+      from: 1958
+      to: 2003
+      note: Foreign Minister, Deputy PM
+    relations:
+    - person: donald-rumsfeld
+      type: diplomatic contact
+      note: Met during Rumsfeld mission to Baghdad Dec 1983, Mar 1984
+    - person: james-baker
+      type: diplomatic contact
+      note: Geneva talks Jan 9 1991 before Gulf War
+    - person: saddam-hussein
+      type: colleague
+      note: Ba'ath Party colleagues since 1957, inner circle
   taro-aso:
     born: 1940
     nationality: JPN
@@ -32387,6 +33299,13 @@ persons:
       role: partner
     - org: ideo
       role: board
+  tom-palmer:
+    nationality: AUS
+    affiliations:
+    - org: world-gold-council
+      role: board
+      from: 2020
+      note: Vice Chair
   tom-theobald:
     nationality: LUX
     affiliations:
@@ -35021,9 +35940,9 @@ persons:
       to: 1986
       note: Assistant Professor Political Science
     - org: pnac
-      role: founder
+      role: signatory
       from: 1997
-      note: Signatory Statement of Principles
+      note: 1998 Iraq letter signatory
     - org: university-chicago
       role: alumni
       note: PhD Political Science (under Albert Wohlstetter)

@@ -49,6 +49,11 @@ events:
     location: Ehden, Lebanon
     outcome: Tony Frangieh, moglie, figlia uccisi. Rottura Frangieh-Gemayel
     note: 'Esecutori: Kataeb (Geagea, Hobeika). Mandante: Bashir Gemayel'
+  1980-iran-iraq-war:
+    year: 1980
+    type: war
+    location: Iran, Iraq, Persian Gulf
+    outcome: Stalemate, UN ceasefire Resolution 598
   1982-bashir-gemayel-assassination:
     year: 1982
     month: 9
@@ -56,6 +61,12 @@ events:
     location: Beirut, Achrafieh
     outcome: Bashir assassinato, Sabra e Shatila, Amine presidente
     note: Bomba SSNP, Habib Shartouni
+  1990-invasione-kuwait:
+    year: 1990
+    month: 8
+    type: war
+    location: Kuwait, Iraq, Saudi Arabia
+    outcome: Coalition victory, Kuwait liberated, Iraq sanctions
   1991-dissoluzione-urss:
     year: 1991
     type: evento-storico
@@ -100,6 +111,30 @@ events:
     type: financial
     location: Greece
     outcome: Greece entered Eurozone with hidden debt
+  2003-cpa-costituzione:
+    year: 2003
+    month: 5
+    type: political
+    location: Baghdad, Iraq
+    outcome: US civilian administration
+  2003-de-baathification:
+    year: 2003
+    month: 5
+    type: decree
+    location: Baghdad, Iraq
+    outcome: purge of Baath party members
+  2003-invasione-iraq:
+    year: 2003
+    month: 3
+    type: war
+    location: Iraq
+    outcome: Regime change, Saddam captured Dec 2003, executed 2006
+  2003-iraqi-army-dissolution:
+    year: 2003
+    month: 5
+    type: decree
+    location: Baghdad, Iraq
+    outcome: 500000 unemployed, fueled insurgency
   2005-hariri-assassination:
     year: 2005
     month: February
@@ -107,6 +142,12 @@ events:
     location: Beirut, Lebanon
     outcome: Rivoluzione dei Cedri, ritiro truppe siriane
     note: 23 morti. Hezbollah condannato da tribunale ONU
+  2006-esecuzione-saddam:
+    year: 2006
+    month: 12
+    type: execution
+    location: Baghdad
+    outcome: Saddam Hussein executed by hanging
   2006-pierre-gemayel-assassination:
     year: 2006
     month: 11
@@ -114,6 +155,12 @@ events:
     location: Jdeideh, Beirut
     outcome: Escalation March 14 vs pro-Syria
     note: 5o politico anti-siriano assassinato in 2 anni
+  2007-nisour-square:
+    year: 2007
+    month: 9
+    type: massacre
+    location: Baghdad, Iraq
+    outcome: 17 civilians killed by Blackwater contractors
   2008-crisi-finanziaria:
     year: 2008
     type: crisi
@@ -131,6 +178,12 @@ events:
     type: crisi
     location: Europa
     outcome: governi-tecnici
+  2014-isis-mosul:
+    year: 2014
+    month: 6
+    type: military
+    location: Mosul, Iraq
+    outcome: ISIS caliphate proclaimed
   2017-hariri-detention:
     year: 2017
     month: November
@@ -146,6 +199,12 @@ events:
     outcome: normalization
     note: Bahrain-Israel normalization agreement signed Sept 15, 2020. 4th Arab state to recognize Israel, 2nd in one month
       after UAE.
+  2020-assassinio-soleimani:
+    year: 2020
+    month: 1
+    type: assassination
+    location: Baghdad, Iraq
+    outcome: escalation Iran-USA tensions
   2020-beirut-explosion:
     year: 2020
     month: August

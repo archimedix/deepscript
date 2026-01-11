@@ -4,7 +4,7 @@
 
 **Organizzazioni UK presenti**: 100+ entità con sede a Londra/UK
 **Persone britanniche (GBR)**: ~100 persone
-**Aggiornamento**: Documentato HSBC (oppio origins, scandali cartelli $1.9B, Swiss Leaks). Aggiunti Stephen Green (HSBC → Baron → Minister, paradosso prete-banchiere) e Douglas Flint (HSBC → IIF → Abrdn → Hakluyt → Belt Road Envoy). Nuove org: British Bankers Association, Asia House, Institute of International Finance, Abrdn, IP Group, Centre for Policy Studies
+**Aggiornamento**: Documentato FMSB (Financial Markets Standards Board - post-LIBOR standard-setter). Aggiunto World Gold Council (HQ Londra). Documentati David Tait (CEO WGC, ex-Goldman/CS/UBS, FMSB Chair PM WG, MBE) e Jonathan Moulds (Chairman FMSB, ex-BofA, ex-Barclays). Pattern chiave: "Industry-Led Regulation" e "London Gold Hub Nexus"
 
 ---
 
@@ -361,6 +361,111 @@ GCHQ/MI5 expertise
 |-------|---------|--------|
 | Policy Chairman | **Chris Hayward** | DA AGGIUNGERE |
 | Lord Mayor 2025 | **Susan Langley** | DA AGGIUNGERE |
+
+#### FMSB - Financial Markets Standards Board - DOCUMENTATO
+
+**Standard-setter post-scandalo LIBOR/FX (fondata 2015)**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 2015 |
+| Sede | London, UK |
+| Tipo | Agency (industry-led standard-setting) |
+| Chairman | **Jonathan Moulds** CBE (dal 2023) |
+| CEO | Myles McGuinness (dal 2021) |
+| Membri | ~50 (banche, asset manager, corporate) |
+
+**Origine**: Creata da raccomandazione congiunta di HM Treasury, Bank of England e FCA dopo scandali LIBOR e FX manipulation. Obiettivo: colmare il "regulatory void" tra principi alti e regole operative.
+
+**Leadership**:
+| Ruolo | Nome | Background |
+|-------|------|------------|
+| Chairman | [jonathan-moulds](../persons/jonathan-moulds.md) | Ex-CEO Merrill Lynch International, Ex-COO Barclays |
+| CEO | myles-mcguinness | 30 anni investment banking |
+
+**Board of Directors** (selezione):
+| Nome | Background |
+|------|------------|
+| Peter Warne | Ex-Chair Macquarie Group (15 anni) |
+| Stephen O'Connor | Ex-Chair HSBC Bank plc, Founder Quantile |
+| Michael Cole-Fontayn | J.P. Morgan, Ex-Chair AFME |
+| Edward Ocampo | J.P. Morgan, Ex-Morgan Stanley |
+
+**Membri Istituzionali** (dal DB):
+| Banca | Rappresentante |
+|-------|----------------|
+| BlackRock | Jatin Vara |
+| HSBC | Richard Blackburn |
+| Morgan Stanley | Christopher Beatty |
+| UBS | Christophe Patricot |
+| Deutsche Bank | Vathany Vijayaratna |
+| Bank of America | Brian Weinstein |
+
+**Corporate Members**: AstraZeneca, BAE Systems, BHP, BP, Rio Tinto, Shell
+
+**Bank of England Connection**:
+- Mark Carney (ex-Governor) - speaker eventi FMSB
+- Andrew Bailey (Governor) - speaker anniversario 2025
+- Victoria Saporta (Executive Director Markets) - collaborazione standard
+
+**David Tait Connection**:
+- [david-tait](../persons/david-tait.md) (CEO World Gold Council) è Advisory Council member e Chair Precious Metals Working Group
+
+**Pattern "Industry-Led Regulation"**: I regolati scrivono le proprie regole. FMSB come esempio di self-governance mercati wholesale post-scandalo.
+
+**Scheda**: `docs/agency/fmsb.md`
+
+---
+
+### 3b. GOLD & COMMODITIES
+
+#### World Gold Council - DOCUMENTATO
+
+**Trade association globale industria oro (HQ Londra)**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 1987 |
+| Sede | **London, UK** |
+| Tipo | Agency (trade association) |
+| CEO | **David Tait** (dal 2019) |
+| Chairman | Neal Froneman (dal 2023) |
+| Membri | 30 aziende minerarie globali |
+
+**Perché UK Power Map**: Londra è il centro del mercato oro globale (LBMA). WGC coordina i maggiori produttori mondiali.
+
+**Leadership UK Connection**:
+| Ruolo | Nome | Background UK |
+|-------|------|---------------|
+| CEO | [david-tait](../persons/david-tait.md) | Ex-Goldman Sachs, Credit Suisse, UBS, BlueCrest (Londra) |
+
+**David Tait - Pattern Revolving Door Finance → Commodities**:
+| Periodo | Ruolo | Organizzazione |
+|---------|-------|----------------|
+| 1980s | Trader | Goldman Sachs |
+| - | Senior Trader | UBS |
+| - | Partner | BlueCrest Capital (hedge fund) |
+| -2016 | Global Head Fixed Income Macro | Credit Suisse |
+| 2019- | CEO | World Gold Council |
+| - | Advisory Council, Chair Precious Metals WG | **FMSB** |
+
+**Cross-connection FMSB**: David Tait siede su entrambi WGC (CEO) e FMSB (Advisory Council, Chair Precious Metals Working Group) - ponte tra gold industry e standard-setting finanziario.
+
+**Membri notevoli** (gold miners globali):
+| Azienda | Paese | Note |
+|---------|-------|------|
+| Newmont | USA | Maggior produttore mondiale |
+| Barrick Gold | Canada | |
+| Sibanye-Stillwater | South Africa | Chairman WGC |
+| Franco-Nevada | Canada | Royalty model pioneer |
+| Shandong Gold | China | State-owned |
+
+**Pattern**: Londra mantiene ruolo centrale nel gold market attraverso:
+1. LBMA (London Bullion Market Association) - price discovery
+2. WGC HQ - industry coordination
+3. FMSB Precious Metals WG - standard-setting
+
+**Scheda**: `docs/agency/world-gold-council.md`
 
 ---
 
@@ -1241,6 +1346,88 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 
 **Critiche**: OSF (George Soros) come finanziatore sistematico di media/think tank progressisti UK, parallelo a Koch/Mercer funding destra USA
 
+### 27. FMSB - Industry-Led Regulation Post-Scandal
+
+**Pattern "I regolati scrivono le proprie regole"**:
+
+| Fase | Anno | Evento |
+|------|------|--------|
+| Scandalo | 2012-2015 | LIBOR manipulation, FX rigging |
+| Review | 2015 | Fair and Effective Markets Review (BoE/FCA/Treasury) |
+| Soluzione | 2015 | Creazione FMSB - standard-setter industry-led |
+| Governance | 2025 | Board = ex-executives delle stesse banche coinvolte |
+
+**Board FMSB - Background**:
+| Nome | Ex-Ruolo |
+|------|----------|
+| Jonathan Moulds | Ex-CEO Merrill Lynch Intl, Ex-COO Barclays |
+| Stephen O'Connor | Ex-Chair HSBC Bank |
+| Michael Cole-Fontayn | J.P. Morgan, Ex-Chair AFME |
+
+**Membri FMSB**: Le stesse banche coinvolte negli scandali (UBS, Deutsche Bank, HSBC, Barclays via BofA) ora scrivono gli standard
+
+**Pattern**: Post-scandalo, invece di regolamentazione statale più stringente, si crea ente "indipendente" governato dalla stessa industry. BoE/FCA mantengono relazione ma senza potere enforcement.
+
+### 28. London Gold Hub - WGC/LBMA/FMSB Nexus
+
+**Londra come centro potere mercato oro globale**:
+
+```
+          LONDON GOLD HUB
+                |
+    +-----------+-----------+
+    |           |           |
+    v           v           v
+  LBMA        WGC        FMSB
+(pricing)  (industry)  (standards)
+    |           |           |
+    +-----------+-----------+
+                |
+         DAVID TAIT
+    (CEO WGC + Chair FMSB PM WG)
+```
+
+**Componenti**:
+| Organizzazione | Funzione | HQ |
+|----------------|----------|-----|
+| LBMA | Price discovery, vaulting standards | London |
+| World Gold Council | Industry coordination, 30 miners | London |
+| FMSB Precious Metals WG | Trading standards | London |
+
+**David Tait come connector**:
+- CEO World Gold Council (gold industry)
+- Chair FMSB Precious Metals Working Group (standard-setting)
+- Ex-Goldman Sachs, Credit Suisse, UBS (trading floor experience)
+
+**Pattern**: Un singolo individuo (Tait) connette industry association, standard-setting body, e ha background nelle maggiori trading floors. Concentrazione influenza su mercato oro in poche mani.
+
+### 29. Jonathan Moulds - Bank of America → Barclays → FMSB
+
+**Pattern USA Bank → UK Bank → UK Standard-Setter**:
+
+| Fase | Ruolo | Note |
+|------|-------|------|
+| Bank of America | CEO Merrill Lynch International | Leadership US bank in London |
+| Bank of America | European President | Top US banker in Europe |
+| Barclays | COO | Jump a UK bank |
+| FMSB | Chairman (2023-) | Governa standard-setting |
+
+**Implicazione**: Ex-executive di banca USA (BofA) e UK (Barclays) ora presiede ente che scrive regole per mercati wholesale. Stesse persone che gestivano trading ora scrivono standard.
+
+### 30. David Tait - Survivor CEO Model
+
+**Pattern unico: Trauma personale → Filantropia → Industry Leadership**
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Background | Survivor abusi sessuali infantili (Sud Africa) |
+| Filantropia | 5 scalate Everest, £7.5M raccolti per NSPCC |
+| Riconoscimento | MBE per servizi beneficenza |
+| Career | 35 anni finance: Goldman → Credit Suisse → WGC |
+| Film | "Sulphur & White" (2020) - storia personale |
+
+**Pattern**: Tait rappresenta modello "redemption narrative" - trauma personale trasformato in advocacy pubblica, che coesiste con carriera ai vertici della finanza. Soft power attraverso storia personale + hard power attraverso ruoli istituzionali.
+
 ---
 
 ## PRIORITA' INDAGINE (Aggiornata)
@@ -1278,6 +1465,10 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 | **hsbc** | **Completato** | Oppio origins 1865, $3.1T assets, cartels $1.9B fine, Swiss Leaks, Big Three 13.5% |
 | **stephen-green** | **Completato** | HSBC CEO/Chairman → Baron → Minister Trade 2011-13; Swiss Leaks durante mandato; prete-banchiere paradosso |
 | **douglas-flint** | **Completato** | HSBC CFO/Chairman → BP board → IIF Chairman → Abrdn → IP Group → Hakluyt → Belt Road Envoy |
+| **fmsb** | **Completato** | Financial Markets Standards Board - post-LIBOR/FX standard-setter, industry-led, BoE/FCA creation 2015 |
+| **world-gold-council** | **Completato** | Trade association oro globale, HQ Londra, 30 membri, David Tait CEO |
+| **david-tait** | **Completato** | CEO WGC, ex-Goldman/Credit Suisse/UBS/BlueCrest, FMSB Precious Metals WG Chair, MBE, survivor |
+| **jonathan-moulds** | **Completato** | Chairman FMSB, CBE, ex-CEO Merrill Lynch Intl, ex-COO Barclays |
 
 ### Tier 1 - DA FARE
 | Entità | Tipo | Priorità |
@@ -1359,6 +1550,11 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 46. **"Too Big to Jail" Banking** - HSBC: $881M riciclati per Sinaloa, $1.9B multa = 5 settimane di profitti, zero condanne penali. Pattern: banche sistemiche immune da conseguenze reali
 47. **Institute of International Finance Network** - Douglas Flint Chairman IIF 2012-16: lobby bancaria globale che connette chairman banche mondiali e influenza regolamentazione
 48. **CFO → Chairman Promotion Pattern** - Flint: CFO HSBC 1995-2010, promosso Chairman quando Green va in governo. Pattern: il CFO conosce dove sono i corpi, diventa chairman
+49. **FMSB Industry-Led Regulation** - Post-LIBOR/FX scandal, invece di regolamentazione statale stringente, si crea standard-setter governato dalla stessa industry. I regolati scrivono le proprie regole
+50. **London Gold Hub Nexus** - LBMA (pricing) + WGC (industry) + FMSB PM WG (standards) tutti a Londra. David Tait come connector (CEO WGC + Chair FMSB PM WG)
+51. **USA Bank → UK Bank → Standard-Setter Pipeline** - Jonathan Moulds: Bank of America (CEO Merrill Lynch Intl) → Barclays (COO) → FMSB (Chairman). Pattern di ex-banker che poi scrivono regole
+52. **Finance → Commodities Industry Association** - David Tait: 35 anni trading (Goldman, CS, UBS, BlueCrest) → CEO trade association (WGC). Trading floor expertise → industry governance
+53. **Survivor CEO Model** - David Tait: trauma personale (abusi infantili) trasformato in advocacy (NSPCC, Everest) che coesiste con carriera ai vertici finanza. Soft power (storia) + hard power (ruoli)
 
 ### Fonti chiave:
 - [Elitist Britain 2025](https://www.suttontrust.com/our-research/elitist-britain-2025/) - Sutton Trust
@@ -1384,7 +1580,10 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 - [US DOJ - HSBC Settlement 2012](https://www.justice.gov/archives/opa/pr/hsbc-holdings-plc-and-hsbc-bank-usa-na-admit-anti-money-laundering-and-sanctions-violations) - Cartels money laundering
 - [Wikipedia - Stephen Green](https://en.wikipedia.org/wiki/Stephen_Green,_Baron_Green_of_Hurstpierpoint) - HSBC Chairman, Baron, Minister
 - [Wikipedia - Douglas Flint](https://en.wikipedia.org/wiki/Douglas_Flint) - HSBC CFO/Chairman
+- [FMSB](https://fmsb.com/) - Structure, Board, Advisory Council
+- [World Gold Council](https://www.gold.org/) - Governance, Members, Leadership
+- [David Tait](https://davidtait.com/) - Personal story, NSPCC, Everest
 
 ---
 
-*Ultimo aggiornamento: 10 Gennaio 2026 - Documentato HSBC (oppio origins 1865, $3.1T assets, cartels $1.9B fine, Swiss Leaks, Big Three 13.5%). Aggiunti Stephen Green (HSBC → Baron → Minister, "prete-banchiere" paradosso) e Douglas Flint (HSBC → IIF → Abrdn → Hakluyt → Belt Road Envoy). Documentati pattern 43-48: HSBC Colonial Origins, HSBC-Government Pipeline, "Prete-Banchiere" Paradox, "Too Big to Jail" Banking, IIF Network, CFO → Chairman Promotion.*
+*Ultimo aggiornamento: 11 Gennaio 2026 - Documentato FMSB (Financial Markets Standards Board - post-LIBOR/FX standard-setter, industry-led). Aggiunto World Gold Council (HQ Londra, 30 membri, trade association oro globale). Documentati David Tait (CEO WGC, ex-Goldman/CS/UBS/BlueCrest, FMSB PM WG Chair, MBE, survivor) e Jonathan Moulds (Chairman FMSB, ex-CEO Merrill Lynch Intl, ex-COO Barclays). Nuovi pattern 49-53: FMSB Industry-Led Regulation, London Gold Hub Nexus, USA Bank → UK Bank → Standard-Setter Pipeline, Finance → Commodities transition, Survivor CEO Model.*
