@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Graph node colors */
+:root {
+  --color-person: #3B82F6;
+  --color-organization: #10B981;
+  --color-family: #8B5CF6;
+  --color-event: #F59E0B;
+}
