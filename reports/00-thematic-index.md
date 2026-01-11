@@ -124,90 +124,23 @@ Report che analizzano specifici settori economici.
 ### Tech
 | Report | Periodo | Focus |
 |--------|---------|-------|
-| [Microsoft Geopolitical Hub](microsoft-geopolitical-hub.md) | 2007-2025 | Big Tech e geopolitica |
+| [Big Tech Power Map](big-tech-power-map.md) | 1998-2025 | GAFAM, monopoli, lobbying |
+| [Microsoft Geopolitical Hub](microsoft-geopolitical-hub.md) | 2007-2025 | Microsoft e geopolitica |
 
----
-
-## Grecia
-
-Report e analisi specifiche sulla Grecia moderna.
-
+### Difesa
 | Report | Periodo | Focus |
 |--------|---------|-------|
-| [Greece Power Map](greece-power-map.md) | 2001-2018 | Dinastie, crisi debito, Troika |
+| [Military-Industrial Complex](military-industrial-complex.md) | 1945-2025 | MIC, revolving door, contractors |
 
-**Dinastie politiche:**
-- [Famiglia Papandreou](../docs/family/papandreou.md) - PASOK, 3 generazioni PM
-- [Famiglia Mitsotakis](../docs/family/mitsotakis.md) - ND, PM attuale
-- [Famiglia Karamanlis](../docs/family/karamanlis.md) - ND, architetti UE
-
-**Dinastie economiche:**
-- [Famiglia Onassis](../docs/family/onassis.md) - Shipping, Jackie Kennedy
-- [Famiglia Niarchos](../docs/family/niarchos.md) - Shipping, SNF $3.4B+
-
-**Eventi crisi debito:**
-- Goldman Sachs swap 2001
-- Rivelazione deficit 2009
-- Primo bailout 2010 (€110B)
-- PM tecnico Papademos 2011
-- Secondo bailout 2012 (€130B)
-- Terzo bailout 2015 (€86B)
-
----
-
-## Paesi Bassi
-
-Report e analisi specifiche sui Paesi Bassi.
-
+### Finanza e Pagamenti
 | Report | Periodo | Focus |
 |--------|---------|-------|
-| [Netherlands Power Map](netherlands-power-map.md) | 1544-2025 | Orange-Nassau, Bilderberg, ASML, finanza |
+| [Payments Duopoly Power Map](payments-duopoly-power-map.md) | 1958-2025 | Visa, Mastercard, duopolio globale |
 
-**Casa Reale:**
-- [Famiglia Orange-Nassau](../docs/family/orange-nassau.md) - Monarchia dal 1815, fondatori Bilderberg/WWF
-
-**Figure chiave:**
-- [Mark Rutte](../docs/persons/mark-rutte.md) - PM 2010-24, NATO SG 2024-
-- [Klaas Knot](../docs/persons/klaas-knot.md) - DNB President, FSB Chair
-- [Peter Wennink](../docs/persons/peter-wennink.md) - CEO ASML, Bilderberg
-- [Prince Bernhard](../docs/persons/prince-bernhard-netherlands.md) - Fondatore Bilderberg e WWF
-
-**Multinazionali:**
-- [ASML](../docs/company/asml.md) - Monopolio semiconduttori EUV
-- [Shell](../docs/company/shell.md) - Oil & Gas (HQ ora Londra)
-- [Heineken](../docs/company/heineken.md) - Beverage
-
-**Forum originati in Olanda:**
-- [Bilderberg](../docs/forum/bilderberg.md) - Fondato 1954 a Oosterbeek
-
----
-
-## Belgio
-
-Report e analisi specifiche sul Belgio.
-
+### Education
 | Report | Periodo | Focus |
 |--------|---------|-------|
-| [Belgium Power Map](belgium-power-map.md) | 1831-2025 | Capitale EU, Davignon, AB InBev, SWIFT |
-
-**Architetti europei:**
-- [Paul-Henri Spaak](../docs/persons/paul-henri-spaak.md) - Padre fondatore UE, NATO
-- [Etienne Davignon](../docs/persons/etienne-davignon.md) - VP Commissione, Chairman Bilderberg, ERT founder
-- [Herman Van Rompuy](../docs/persons/herman-van-rompuy.md) - Primo Presidente EU Council
-
-**Dinastie economiche:**
-- Van Damme / de Spoelberch / de Mevius - AB InBev, 4a famiglia piu' ricca al mondo
-- Boel - Sofina, Solvay
-- Janssen - UCB, pharma
-
-**Infrastruttura globale:**
-- SWIFT (La Hulpe) - 42 milioni messaggi/giorno, sanzioni Russia
-- Euroclear - €37T asset in custodia
-
-**Forum basati a Bruxelles:**
-- [European Round Table](../docs/forum/european-round-table.md) - Co-fondata da Davignon 1983
-- [Egmont Institute](../docs/think-tank/egmont-institute.md)
-- [European Policy Centre](../docs/think-tank/european-policy-centre.md)
+| [Universities Power Map](universities-power-map.md) | 1636-2025 | Ivy League, Oxbridge, endowments |
 
 ---
 
@@ -235,89 +168,73 @@ Report che analizzano la costruzione di movimenti politici, stati e ideologie.
 
 ## Geografie
 
-Report focalizzati su specifiche aree geografiche.
+Report focalizzati su specifiche aree geografiche, organizzati per regione.
 
-| Report | Area | Focus |
-|--------|------|-------|
-| [Zionism State-Building](zionism-state-building.md) | Israele/UK | 1897-1948 |
-| [Italy Cold War Theater](italy-cold-war-theater.md) | Italia | 1943-1990 |
-| [Korea Power Map](korea-power-map.md) | Corea Sud | Chaebol, stato |
-| [Singapore Power Map](singapore-power-map.md) | Singapore | Stato-azienda Lee |
-| [Indonesia Power Map](indonesia-power-map.md) | Indonesia | Oligarchie post-Suharto |
-| [Thailand Power Map](thailand-power-map.md) | Thailandia | Monarchia, Shinawatra |
-| [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | Golfo/USA | Investimenti AI |
-| [Greece Power Map](greece-power-map.md) | Grecia | Dinastie, crisi debito, Troika |
-| [Germany Power Map](germany-power-map.md) | Germania | Famiglie industriali, DAX, Atlantik-Brucke |
-| [France Power Map](france-power-map.md) | Francia | CAC 40, ENA, famiglie |
-| [Netherlands Power Map](netherlands-power-map.md) | Paesi Bassi | Orange-Nassau, Bilderberg, ASML |
-| [Belgium Power Map](belgium-power-map.md) | Belgio | Capitale EU, Davignon, SWIFT |
-| [Poland Power Map](poland-power-map.md) | Polonia | Retinger, Brzezinski, shock therapy |
-| [Hungary Power Map](hungary-power-map.md) | Ungheria | Stato illiberale, Orban, oligarchi |
-| [Italy Power Map](italy-power-map.md) | Italia | Mediobanca, CDP, governi tecnici |
-| [Luxembourg Power Map](luxembourg-power-map.md) | Lussemburgo | Nassau-Weilburg, 3 PM→Commissione, hub PE |
-| [Norway Power Map](norway-power-map.md) | Norvegia | GPFG $1.9T, Stoltenberg, Brende WEF |
-| [Spain Power Map](spain-power-map.md) | Spagna | Borbone, Santander, Real Elcano |
-| [Switzerland Power Map](switzerland-power-map.md) | Svizzera | UBS, BIS, WEF, commodity trading |
-| [Austria Power Map](austria-power-map.md) | Austria | Vienna hub, Treichl, ponte Est-Ovest |
+### Americhe
 
----
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [USA Power Map](usa-power-map.md) | 1945-2025 | Wall Street, MIC, think tanks, dinastie |
+| [Canada Power Map](canada-power-map.md) | 1867-2025 | Bay Street, risorse, Five Eyes |
+| [Mexico Power Map](mexico-power-map.md) | 1929-2025 | PRI, oligarchi, NAFTA |
+| [Brazil Power Map](brazil-power-map.md) | 1964-2025 | Militari, Lula, agribusiness |
 
-## Medio Oriente
+### Europa
 
-Report e analisi specifiche sul Medio Oriente.
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [EU Power Map](eu-power-map.md) | 1957-2025 | Commissione, BCE, lobby Bruxelles |
+| [UK Power Map](uk-power-map.md) | 1945-2025 | City, Westminster, Commonwealth |
+| [France Power Map](france-power-map.md) | 1945-2025 | CAC 40, ENA, famiglie |
+| [Germany Power Map](germany-power-map.md) | 1945-2025 | Famiglie industriali, DAX, Atlantik-Brucke |
+| [Italy Power Map](italy-power-map.md) | 1945-2025 | Mediobanca, CDP, governi tecnici |
+| [Spain Power Map](spain-power-map.md) | 1975-2025 | Borbone, Santander, Real Elcano |
+| [Netherlands Power Map](netherlands-power-map.md) | 1544-2025 | Orange-Nassau, Bilderberg, ASML |
+| [Belgium Power Map](belgium-power-map.md) | 1831-2025 | Capitale EU, Davignon, SWIFT |
+| [Luxembourg Power Map](luxembourg-power-map.md) | 1815-2025 | Nassau-Weilburg, hub PE |
+| [Switzerland Power Map](switzerland-power-map.md) | 1848-2025 | UBS, BIS, WEF, commodity trading |
+| [Austria Power Map](austria-power-map.md) | 1945-2025 | Vienna hub, ponte Est-Ovest |
+| [Ireland Power Map](ireland-power-map.md) | 1922-2025 | Tax haven, tech hub, diaspora |
+| [Poland Power Map](poland-power-map.md) | 1989-2025 | Shock therapy, NATO, EU |
+| [Hungary Power Map](hungary-power-map.md) | 1989-2025 | Stato illiberale, Orban |
+| [Romania Power Map](romania-power-map.md) | 1989-2025 | Post-Ceausescu, EU |
+| [Greece Power Map](greece-power-map.md) | 2001-2018 | Crisi debito, Troika |
+| [Norway Power Map](norway-power-map.md) | 1905-2025 | GPFG $1.9T, Stoltenberg |
+| [Sweden Power Map](sweden-power-map.md) | 1945-2025 | Wallenberg, NATO 2024 |
+| [Finland Power Map](finland-power-map.md) | 1917-2025 | Nokia, NATO 2023 |
+| [Denmark Power Map](denmark-power-map.md) | 1849-2025 | Maersk, Novo Nordisk |
+| [Russia Power Map](russia-power-map.md) | 1991-2025 | Oligarchi, siloviki, Putin |
+
+### Asia-Pacifico
+
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [China Power Map](china-power-map.md) | 1949-2025 | CCP, princelings, SOE, tech |
+| [Japan Power Map](japan-power-map.md) | 1945-2025 | Keiretsu, LDP, burocrazia |
+| [Korea Power Map](korea-power-map.md) | 1961-2025 | Chaebol, stato sviluppista |
+| [India Power Map](india-power-map.md) | 1947-2025 | Dinastie politiche, Tata, Ambani |
+| [Singapore Power Map](singapore-power-map.md) | 1959-2025 | GIC, Temasek, stato-azienda Lee |
+| [Indonesia Power Map](indonesia-power-map.md) | 1966-2025 | Oligarchie sino-indonesiane |
+| [Thailand Power Map](thailand-power-map.md) | 1932-2025 | Monarchia, Shinawatra, militari |
+
+### Medio Oriente
 
 | Report | Periodo | Focus |
 |--------|---------|-------|
 | [Iran Power Map](iran-power-map.md) | 1979-2025 | Teocrazia, IRGC, proxy, pivot verso Est |
+| [Iraq Power Map](iraq-power-map.md) | 1958-2025 | Ba'ath, invasione, settarismo |
 | [Israel Power Map](israel-power-map.md) | 1948-2025 | Sicurezza, tech, diaspora |
 | [Saudi Arabia Power Map](saudi-arabia-power-map.md) | 1932-2025 | MBS, Vision 2030, PIF |
 | [UAE Power Map](uae-power-map.md) | 1971-2025 | Abu Dhabi, Dubai, Mubadala |
 | [Bahrain Power Map](bahrain-power-map.md) | 1971-2025 | Al Khalifa, finanza |
 | [Lebanon Power Map](lebanon-power-map.md) | 1943-2025 | Confessionalismo, Hezbollah, dinastie |
+| [Turkey Power Map](turkey-power-map.md) | 1923-2025 | Ataturk, Erdogan, neo-ottomanismo |
 
-**Iran - Figure chiave:**
-- [Ali Khamenei](../docs/persons/ali-khamenei.md) - Leader Supremo 1989-
-- [Mojtaba Khamenei](../docs/persons/mojtaba-khamenei.md) - Probabile successore
-- [Qasem Soleimani](../docs/persons/qasem-soleimani.md) - Quds Force, assassinato 2020
-- [Esmail Qaani](../docs/persons/esmail-qaani.md) - Quds Force 2020-
-
-**Iran - Organizzazioni:**
-- [IRGC](../docs/agency/irgc.md) - Guardie Rivoluzionarie
-- [Quds Force](../docs/agency/quds-force.md) - Operazioni estere
-- [Bonyad Mostazafan](../docs/foundation/bonyad-mostazafan.md) - Conglomerato para-statale
-
-**Axis of Resistance:**
-- [Hezbollah](../docs/party/hezbollah.md) - Libano, sponsor Iran dal 1982
-- [Hamas](../docs/party/hamas.md) - Gaza, supporto Iran
-- [Houthis](../docs/party/houthis.md) - Yemen, alleato Iran 2014-
-
----
-
-## Ungheria
-
-Report e analisi specifiche sull'Ungheria.
+### Africa
 
 | Report | Periodo | Focus |
 |--------|---------|-------|
-| [Hungary Power Map](hungary-power-map.md) | 1989-2025 | Stato illiberale, oligarchia di stato, ponte Est-Ovest |
-
-**Nucleo del potere:**
-- [Viktor Orban](../docs/persons/viktor-orban.md) - PM 1998-02, 2010-oggi, WEF GLT 1993
-- [Peter Szijjarto](../docs/persons/peter-szijjarto.md) - Min. Esteri, Order of Friendship Russia
-
-**Oligarchi:**
-- [Lorinc Meszaros](../docs/persons/lorinc-meszaros.md) - #1 Ungheria, $3.2B, amico infanzia Orban
-- [Istvan Tiborcz](../docs/persons/istvan-tiborcz.md) - Genero Orban, BDPST, Granit Bank
-- [Laszlo Szijj](../docs/persons/laszlo-szijj.md) - Costruzioni, autostrade
-
-**Organizzazioni:**
-- [Opus Global](../docs/company/opus-global.md) - Holding Meszaros
-- [MKB Bank](../docs/bank/mkb-bank.md) - Banca oligarchi
-
-**Pattern chiave:**
-- Capitalismo clientelare: lealta' → appalti → ricchezza
-- Cattura mediatica: KESMA 400+ outlet, 77.8% controllo
-- Ponte Est-Ovest: Russia (gas) ↔ Ungheria ↔ USA (CPAC/Trump)
+| [South Africa Power Map](south-africa-power-map.md) | 1948-2025 | Apartheid, ANC, Oppenheimer |
 
 ---
 
@@ -379,8 +296,9 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 43 |
-| **Eventi documentati** | 30+ |
+| **Report totali** | 71 |
+| **Power Map geografici** | 40+ |
+| **Report tematici/settoriali** | 30+ |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |
 
@@ -392,9 +310,8 @@ Analisi di industrie specifiche:
 |------|--------------|
 | **Vietnam** | Report su operazioni CIA Vietnam |
 | **Sud America** | Operation Condor, dittature |
-| **Guerra al Terrore** | Afghanistan, Iraq, GWOT |
+| **Guerra al Terrore** | Afghanistan, GWOT |
 | **Energia** | Petrolio, nucleare, transizione |
-| **Tech Giants** | Google, Amazon, Meta (oltre Big Tech esistente) |
 | **Africa** | Neo-colonialismo, risorse, Cina-Africa |
 | **Pakistan** | ISI, nucleare, Afghanistan |
 

@@ -70,6 +70,7 @@ relationship_types:
     properties:
       - generation    # 1, 2, 3...
       - role          # from family_roles enum
+      - note          # details
 
   RELATED_TO:
     from: Person
@@ -83,12 +84,14 @@ relationship_types:
     to: Event
     properties:
       - role          # from event_participation_roles enum
+      - note          # details
 
   INVOLVED_IN:
     from: Organization
     to: Event
     properties:
       - role          # from event_involvement_roles enum
+      - note          # details
 
 # =============================================================================
 # DOCS PATH MAPPING (label -> folder in docs/)

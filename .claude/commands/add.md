@@ -87,6 +87,11 @@ Focus su:
 - Revolving door pubblico-privato
 - Connessioni italiane
 
+**Solo per Person - cerca anche:**
+- **Formazione**: universita', anni, titoli (BA, MBA, PhD, JD)
+- **Elite societies**: Skull & Bones, Scroll & Key, Porcelain Club, etc.
+- **Mentori accademici**: professori influenti
+
 **Cerca anche figure correlate rilevanti** per il progetto:
 - Predecessori/successori in ruoli chiave
 - Collaboratori stretti
@@ -101,6 +106,29 @@ SET p.name = 'Nome Completo',
     p.born = 1970,
     p.nationality = 'ITA'  // Codice ISO 3166-1 alpha-3
 ```
+
+**Education (solo Person):**
+Per ogni universita' frequentata, crea la relazione alumni:
+```cypher
+// Crea/trova l'universita'
+MERGE (u:Organization:University {id: 'harvard'})
+ON CREATE SET u.name = 'Harvard University',
+              u.headquarters = 'Cambridge, USA',
+              u.status = 'active'
+
+// Crea relazione alumni
+MATCH (p:Person {id: 'nome-id'})
+MATCH (u:Organization {id: 'harvard'})
+MERGE (p)-[r:AFFILIATED_WITH]->(u)
+SET r.role = 'alumni',
+    r.note = 'MBA 1976'  // Formato: "[Degree] [Year], [Society]"
+                         // Es: "BA Economics 1968, Skull & Bones"
+```
+
+**Formato note per education:**
+- Solo laurea: `"MBA 1976"`, `"BA Political Science 1974"`
+- Con societa': `"BA 1969, Skull & Bones"`, `"BA 1970, Scroll & Key"`
+- Multiple lauree stessa uni: crea relazioni separate
 
 **Formato nationality:**
 - Usa sempre codice ISO 3166-1 alpha-3 (es. `ITA`, `USA`, `DEU`, `GBR`)
@@ -127,6 +155,17 @@ SET r.role = 'executive',
     r.note = 'CEO'
 ```
 
+**Stake (Organization → Organization):**
+```cypher
+MATCH (o1:Organization {id: 'org1-id'})
+MATCH (o2:Organization {id: 'org2-id'})
+MERGE (o1)-[r:STAKE_IN]->(o2)
+SET r.role = 'stake',
+    r.share = 0.15,
+    r.from = 2010,
+    r.note = 'acquired via merger'
+```
+
 **Family:**
 ```cypher
 MERGE (f:Family {id: 'nome-id'})
@@ -136,12 +175,49 @@ SET f.origin = 'USA',
     f.status = 'active'
 ```
 
+**Member of Family (Person → Family):**
+```cypher
+MATCH (p:Person {id: 'person-id'})
+MATCH (f:Family {id: 'family-id'})
+MERGE (p)-[r:MEMBER_OF]->(f)
+SET r.generation = 3,
+    r.role = 'heir',
+    r.note = 'married into family 1985'
+```
+
+**Related to (Person → Person):**
+```cypher
+MATCH (p1:Person {id: 'person1-id'})
+MATCH (p2:Person {id: 'person2-id'})
+MERGE (p1)-[r:RELATED_TO]->(p2)
+SET r.type = 'mentor',
+    r.note = 'protege at Goldman Sachs'
+```
+
 **Event:**
 ```cypher
 MERGE (e:Event {id: 'nome-id'})
 SET e.year = 2008,
     e.type = 'crisis',
     e.location = 'USA'
+```
+
+**Participated in Event (Person → Event):**
+```cypher
+MATCH (p:Person {id: 'person-id'})
+MATCH (e:Event {id: 'event-id'})
+MERGE (p)-[r:PARTICIPATED_IN]->(e)
+SET r.role = 'organizer',
+    r.note = 'keynote speaker, announced new policy'
+```
+
+**Involved in Event (Organization → Event):**
+```cypher
+MATCH (o:Organization {id: 'org-id'})
+MATCH (e:Event {id: 'event-id'})
+MERGE (o)-[r:INVOLVED_IN]->(e)
+SET r.role = 'affected',
+    r.note = 'received $85B bailout'
 ```
 
 **Government (shortcut `gov`):**
