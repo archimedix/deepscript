@@ -40,34 +40,19 @@ Manuale di storia 1945-oggi attraverso i **soggetti del potere reale**: famiglie
 ```
 deepscript/
 ├── CLAUDE.md              # Questo file
-├── db/                    # YAML esportati (backup, NON editare)
-│   ├── persons.yaml
+├── db/                    # Database files
+│   ├── schema.yaml        # SOURCE OF TRUTH per lo schema
+│   ├── persons.yaml       # Backup (NON editare)
 │   ├── organizations.yaml
 │   ├── families.yaml
 │   └── events.yaml
-├── docs/                  # Tutte le schede .md
-│   ├── persons/           # Persone
-│   ├── forum/             # Forum (Bilderberg, WEF, etc.)
-│   ├── bank/              # Banche
-│   ├── central-bank/      # Banche centrali
-│   ├── asset-manager/     # Asset manager
-│   ├── private-equity/    # Private equity
-│   ├── swf/               # Sovereign wealth funds
-│   ├── government/        # Governi
-│   ├── foundation/        # Fondazioni
-│   ├── think-tank/        # Think tank
-│   ├── company/           # Aziende
-│   ├── defense/           # Industria difesa
-│   ├── university/        # Universita'
-│   ├── pharma/            # Aziende farmaceutiche
-│   ├── agency/            # Agenzie internazionali
-│   ├── sports-club/       # Club sportivi
-│   ├── automaker/         # Case automobilistiche
-│   ├── family/            # Dinastie
-│   ├── events/            # Eventi storici
-│   └── media/             # Media
+├── docs/                  # Schede .md (vedi schema.yaml per mapping)
 ├── templates/             # Template schede
-├── migration/             # Script migrazione/export
+├── migration/             # Script migrazione
+│   ├── lib/               # Libreria condivisa
+│   │   └── schema.py      # Loader per schema.yaml
+│   ├── import_yaml.py
+│   └── export_neo4j.py
 └── archive/               # YAML legacy (read-only)
 ```
 
@@ -78,28 +63,7 @@ Il path della scheda e' calcolato da label + id:
 docs/{cartella}/{id}.md
 ```
 
-| Label | Cartella |
-|-------|----------|
-| Person | `docs/persons/` |
-| Family | `docs/family/` |
-| Event | `docs/events/` |
-| Organization:Forum | `docs/forum/` |
-| Organization:Bank | `docs/bank/` |
-| Organization:CentralBank | `docs/central-bank/` |
-| Organization:AssetManager | `docs/asset-manager/` |
-| Organization:PrivateEquity | `docs/private-equity/` |
-| Organization:SWF | `docs/swf/` |
-| Organization:Government | `docs/government/` |
-| Organization:Foundation | `docs/foundation/` |
-| Organization:ThinkTank | `docs/think-tank/` |
-| Organization:Company | `docs/company/` |
-| Organization:Defense | `docs/defense/` |
-| Organization:University | `docs/university/` |
-| Organization:Pharma | `docs/pharma/` |
-| Organization:Agency | `docs/agency/` |
-| Organization:SportsClub | `docs/sports-club/` |
-| Organization:Automaker | `docs/automaker/` |
-| Organization:Media | `docs/media/` |
+Il mapping label -> cartella e' definito in `db/schema.yaml` (sezione `docs_path_mapping`).
 
 ---
 
@@ -174,63 +138,28 @@ RETURN path
 
 ## Schema Neo4j
 
-### Node Types
+> **Source of Truth**: `db/schema.yaml`
+>
+> Lo schema completo (node types, sublabels, relationships, ruoli, enum) e' definito in `db/schema.yaml`.
+> Tutti gli script e skills leggono da questo file.
 
-| Label | Proprieta' |
-|-------|-----------|
-| Person | id, name, born, died, nationality, family |
-| Organization | id, name, founded, headquarters, status, sector |
-| Family | id, origin, founder, sector, generations, status |
-| Event | id, year, month, type, location, outcome |
+### Quick Reference
 
-### Sub-labels Organization
+**Node Types**: Person, Organization, Family, Event
 
-| Sub-label | Esempi |
-|-----------|--------|
-| Forum | Bilderberg, WEF, Trilaterale |
-| Bank | Goldman Sachs, JPMorgan |
-| CentralBank | Fed, BCE, BIS |
-| AssetManager | BlackRock, Vanguard |
-| PrivateEquity | Warburg Pincus, Carlyle |
-| SWF | GPFG, QIA, PIF |
-| Government | governo-usa, governo-italia |
-| Foundation | Gates Foundation, Open Society |
-| ThinkTank | CFR, Rand, Aspen |
-| Company | Apple, Tesla, CFG, FSG |
-| Defense | Lockheed Martin, RTX, BAE, Leonardo |
-| University | Harvard, MIT, Oxford, Bocconi |
-| Pharma | Pfizer, Moderna, Roche, GSK |
-| Agency | FMI, ONU, NATO, FIFA, IOC |
-| SportsClub | PSG, Manchester City, AC Milan |
-| Automaker | BMW, Toyota, Stellantis, Geely |
-| Media | Washington Post, Economist |
+**Organization Sublabels**: Forum, Company, Bank, CentralBank, AssetManager, PrivateEquity, HedgeFund, SWF, Government, Foundation, ThinkTank, University, Agency, Media, Defense, Pharma, SportsClub, Automaker
 
-### Relationships
+**Relationships**:
+- `AFFILIATED_WITH`: Person -> Organization (role, from, to, note)
+- `STAKE_IN`: Organization -> Organization (role, share, from, to, note)
+- `MEMBER_OF`: Person -> Family (generation, role)
+- `RELATED_TO`: Person -> Person (type, note)
+- `PARTICIPATED_IN`: Person -> Event (role)
+- `INVOLVED_IN`: Organization -> Event (role)
 
-| Tipo | Da | A | Proprieta' |
-|------|-----|-----|-----------|
-| AFFILIATED_WITH | Person | Organization | role, from, to, note |
-| STAKE_IN | Organization | Organization | role, share, from, to |
-| MEMBER_OF | Person | Family | generation, role |
-| RELATED_TO | Person | Person | type, from, to |
-| PARTICIPATED_IN | Person | Event | role |
+**Ruoli comuni**: leader, minister, executive, chairman, founder, board, partner, advisor, member, steering, ygl, glt
 
-### Ruoli (role property)
-
-| Ruolo | Uso |
-|-------|-----|
-| leader | Capo governo/stato |
-| minister | Ministro |
-| executive | CEO, Director |
-| chairman | Chairman |
-| founder | Fondatore |
-| board | Membro board |
-| partner | Partner |
-| advisor | Consigliere |
-| member | Membro generico |
-| steering | Comitato direttivo |
-| ygl | WEF Young Global Leader |
-| glt | WEF Global Leader for Tomorrow |
+Per dettagli completi (enum, mapping, validazione) vedi `db/schema.yaml`.
 
 ---
 
@@ -324,4 +253,4 @@ NON modificarli. Usa Neo4j per i dati correnti.
 
 ---
 
-*Ultimo aggiornamento: 1 Gennaio 2026*
+*Ultimo aggiornamento: 11 Gennaio 2026*

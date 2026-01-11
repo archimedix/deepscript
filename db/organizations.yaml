@@ -655,10 +655,10 @@ organizations:
       from: 2011
       to: 2013
     - person: mohsen-fakhrizadeh
-      role: scientist
+      role: professor
       from: 1990
       to: 2020
-      note: head of nuclear weapons program AMAD
+      note: head of nuclear weapons program AMAD | scientist
   aeritalia:
     name: Aeritalia
     type: defense
@@ -967,9 +967,9 @@ organizations:
       from: 1954
       to: 1974
     - person: haim-saban
-      role: donor
+      role: member
       from: 2002
-      note: major donor $2M+
+      note: major donor $2M+ | Donor
     - person: dan-senor
       role: member
       from: 1990
@@ -2407,10 +2407,10 @@ organizations:
     note: NSA predecessor military unit
     stakeholders:
     - person: william-binney
-      role: operative
+      role: official
       from: 1965
       to: 1969
-      note: Vietnam War
+      note: Vietnam War | Operative
   artemis:
     name: Groupe Artemis
     type: company
@@ -3665,7 +3665,8 @@ organizations:
     - person: michal-krupinski
       role: executive
     - person: bruno-sanchez-andrade-nuno
-      role: scientist
+      role: professor
+      note: scientist
     - person: kemal-dervis
       role: executive
       from: 1977
@@ -4222,9 +4223,10 @@ organizations:
       to: 1987
       note: Deputy Manager
     - person: agustin-carstens
-      role: governor
+      role: leader
       from: 2010
       to: 2017
+      note: Governor
   barclays:
     name: Barclays plc
     type: bank
@@ -4597,7 +4599,8 @@ organizations:
     type: company
     stakeholders:
     - person: andrew-charlton
-      role: consultant
+      role: advisor
+      note: Consultant
     - person: devesh-raj
       role: partner
   bdt-msd-partners:
@@ -6097,9 +6100,9 @@ organizations:
     note: 'Controlled by Quandt family (46.8%). Brands: BMW, MINI, Rolls-Royce'
     stakeholders:
     - person: stefan-quandt
-      role: vice-chairman
+      role: chairman
       from: 1999
-      note: Owns 26.8%
+      note: Owns 26.8% | Vice
     - person: susanne-klatten
       role: board
       from: 1997
@@ -6318,10 +6321,10 @@ organizations:
       role: board
       from: 2018
     - person: edward-snowden
-      role: contractor
+      role: partner
       from: 2013
       to: 2013
-      note: Infrastructure analyst, Hawaii NSA facility
+      note: Infrastructure analyst, Hawaii NSA facility | Contractor
   borsa-istanbul:
     name: Borsa Istanbul
     type: company
@@ -6421,8 +6424,8 @@ organizations:
       from: 2011
       note: Partner, ex-General Atlantic, ex-Providence Equity, now Singapore
     - person: li-ka-shing
-      role: investor
-      note: Early investor via Li Ka Shing Foundation, helped raise $1B first fund
+      role: shareholder
+      note: Early investor via Li Ka Shing Foundation, helped raise $1B first fund | investor
     - org: temasek
       role: investor
       note: LP in Boyu funds
@@ -7137,9 +7140,9 @@ organizations:
     note: Wang Chuanfu 17%. Berkshire exited 2024. Largest EV maker.
     stakeholders:
     - person: wang-chuanfu
-      role: founder-chairman-ceo
+      role: founder
       from: 1995
-      note: Owns 17%
+      note: Owns 17% | Chairman
     - org: blackrock
       share: 4.0
     - org: vanguard
@@ -7166,8 +7169,8 @@ organizations:
       from: 2021
       note: CFO
     - person: jeff-yass
-      role: investor
-      note: ~7% stake via SIG (15% total), worth ~$21B
+      role: shareholder
+      note: ~7% stake via SIG (15% total), worth ~$21B | investor
     - org: carlyle-group
       role: investor
       note: PE investor
@@ -7321,10 +7324,10 @@ organizations:
       to: 2018
       note: CEO, co-founder, suspended Mar 2018
     - person: aleksandr-kogan
-      role: contractor
+      role: partner
       from: 2014
       to: 2015
-      note: Developer app thisisyourdigitallife
+      note: Developer app thisisyourdigitallife | Contractor
     - org: scl-group
       role: parent
       from: 2013
@@ -7341,9 +7344,9 @@ organizations:
       to: 1994
       note: MA Philosophy and History
     - person: peter-martland
-      role: academic
+      role: professor
       from: 1982
-      note: Fellow Corpus Christi College, co-fondatore Cambridge Intelligence Seminar
+      note: Fellow Corpus Christi College, co-fondatore Cambridge Intelligence Seminar | academic
     - person: theodore-kyriakou
       role: advisor
       note: Advisory Board CIBAM
@@ -7793,8 +7796,9 @@ organizations:
     status: active
     stakeholders:
     - person: xi-jinping
-      role: general-secretary
+      role: leader
       from: 2012
+      note: General Secretary
     - person: li-qiang
       role: leader
       from: 2022
@@ -8209,7 +8213,8 @@ organizations:
       role: member
       note: Co-chair CFR Task Force on Immigration
     - person: peter-sutherland
-      role: advisory-board
+      role: board
+      note: advisory-board
     - person: james-baker
       role: member
     - person: henry-kravis
@@ -8258,8 +8263,8 @@ organizations:
       role: advisor
       note: Global Board of Advisors
     - person: paul-desmarais-jr
-      role: advisory-board
-      note: Global Board of Advisors
+      role: board
+      note: Global Board of Advisors | advisory-board
     - person: tadashi-yamamoto
       role: member
       note: Member; commemorato da CFR alla morte
@@ -8788,8 +8793,8 @@ organizations:
       to: 1962
       note: Deputy Director Plans
     - person: yossi-cohen
-      role: liaison
-      note: George J. Tenet Award 2021
+      role: advisor
+      note: George J. Tenet Award 2021 | liaison
     - person: david-petraeus
       role: executive
       from: 2011
@@ -8848,10 +8853,10 @@ organizations:
       from: 1976
       to: 1977
     - person: edward-snowden
-      role: operative
+      role: official
       from: 2006
       to: 2009
-      note: Network security technician, Geneva posting 2007
+      note: Network security technician, Geneva posting 2007 | Operative
     - person: thomas-drake
       role: member
       from: 1989
@@ -8882,12 +8887,12 @@ organizations:
       from: 2025
       note: Director
     - person: phebe-novakovic
-      role: officer
+      role: official
       to: 1997
-      note: Intelligence officer before private sector
+      note: Intelligence officer before private sector | officer
     - person: mike-vickers
-      role: officer
-      note: Operations officer, Afghan program
+      role: official
+      note: Operations officer, Afghan program | officer
     - person: stephanie-osullivan
       role: executive
       from: 1995
@@ -8899,11 +8904,13 @@ organizations:
       to: 1979
       note: Reinstallato da Operation Ajax 1953, SAVAK addestrata da CIA
     - person: kermit-roosevelt
-      role: officer
+      role: official
       from: 1950
       to: 1958
+      note: officer
     - person: donald-wilber
-      role: officer
+      role: official
+      note: officer
     - org: oss
       role: predecessor
       from: 1942
@@ -9073,7 +9080,7 @@ organizations:
     status: active
     stakeholders:
     - person: colin-powell
-      role: alumnus
+      role: alumni
       from: 1954
       to: 1958
       note: BA Geology, ROTC
@@ -9238,8 +9245,8 @@ organizations:
     status: active
     stakeholders:
     - person: jeff-yass
-      role: donor
-      note: Major donor, $32M+ total
+      role: member
+      note: Major donor, $32M+ total | Donor
   club-madrid:
     name: Club de Madrid
     type: forum
@@ -9301,7 +9308,8 @@ organizations:
     - person: andre-hoffmann
       role: member
     - person: queen-beatrix
-      role: honorary-member
+      role: member
+      note: honorary-member
     - person: philippe-belgium
       role: chairman
       from: 2004
@@ -9592,20 +9600,20 @@ organizations:
       from: 1950
       to: 1972
     - person: nick-clegg
-      role: alumnus
+      role: alumni
       from: 1992
       to: 1993
     - person: helle-thorning-schmidt
-      role: alumnus
+      role: alumni
     - person: alexander-stubb
-      role: alumnus
+      role: alumni
     - person: alexander-schallenberg
       role: member
       note: Alumni, European Law
     - person: margaritis-schinas
-      role: alumnus
+      role: alumni
     - person: enzo-moavero-milanesi
-      role: alumnus
+      role: alumni
       from: 1981
       to: 1982
     - person: enzo-moavero-milanesi
@@ -9616,10 +9624,10 @@ organizations:
       role: chairman
       from: 2019
     - person: pier-carlo-padoan
-      role: academic
+      role: professor
       from: 1992
       to: 2001
-      note: Professor of Economics (Bruges e Warsaw)
+      note: Professor of Economics (Bruges e Warsaw) | academic
     - person: nathalie-tocci
       role: member
       note: Former lecturer
@@ -9653,10 +9661,10 @@ organizations:
     sector: education
     stakeholders:
     - person: zalmay-khalilzad
-      role: academic
+      role: professor
       from: 1979
       to: 1986
-      note: Assistant Professor Political Science
+      note: Assistant Professor Political Science | academic
     - person: rob-walton
       role: member
       from: 1966
@@ -10341,15 +10349,15 @@ organizations:
     note: Acquired by UBS 2023
     stakeholders:
     - person: bradley-birkenfeld
-      role: operative
+      role: official
       from: 1996
       to: 1998
-      note: Private banker
+      note: Private banker | Operative
     - person: jorge-paulo-lemann
-      role: trainee
+      role: employee
       from: 1961
       to: 1962
-      note: Geneva office
+      note: Geneva office | trainee
     - person: severin-schwan
       role: board
       from: 2014
@@ -10925,10 +10933,10 @@ organizations:
     sector: technology
     stakeholders:
     - person: edward-snowden
-      role: contractor
+      role: partner
       from: 2009
       to: 2013
-      note: NSA contractor
+      note: NSA contractor | Contractor
     - person: michael-dell
       role: founder
       from: 1984
@@ -10938,7 +10946,8 @@ organizations:
     type: company
     stakeholders:
     - person: dave-hanley
-      role: principal
+      role: executive
+      note: principal
     - person: sergio-marchionne
       role: executive
       from: 1983
@@ -13877,9 +13886,9 @@ organizations:
       role: advisor
       note: Chair Turkey Program
     - person: paul-singer
-      role: donor
+      role: member
       from: 2008
-      note: Second-largest contributor 2008-2011, $3.6M+
+      note: Second-largest contributor 2008-2011, $3.6M+ | Donor
   febraban:
     name: Federacao Brasileira de Bancos
     type: company
@@ -13900,10 +13909,10 @@ organizations:
       role: chairman
       from: 2018
     - person: paul-warburg
-      role: architect
+      role: advisor
       from: 1913
       to: 1918
-      note: Jekyll Island architect
+      note: Jekyll Island architect | Architect
     - person: alan-greenspan
       role: chairman
       from: 1987
@@ -13948,14 +13957,15 @@ organizations:
       to: 2026
       note: Class C Director
     - person: emilio-collado
-      role: economist
+      role: professor
       from: 1936
       to: 1938
+      note: economist
     - person: gabriel-hauge
-      role: economist
+      role: professor
       from: 1939
       to: 1939
-      note: Senior Statistician, summer
+      note: Senior Statistician, summer | economist
   federal-reserve-ny:
     name: Federal Reserve Bank of New York
     type: centralbank
@@ -14553,7 +14563,7 @@ organizations:
     status: active
     stakeholders:
     - person: jay-garner
-      role: alumnus
+      role: alumni
       from: 1958
       to: 1962
       note: BA History
@@ -14842,10 +14852,10 @@ organizations:
       to: 2017
       note: Board Director, fmr Undersecretary of Defense
     - person: paul-singer
-      role: donor
+      role: member
       from: 2009
       to: 2016
-      note: Primary seed donor, Elliott Management
+      note: Primary seed donor, Elliott Management | Donor
     - person: christopher-griffin
       role: executive
       from: 2013
@@ -14910,8 +14920,9 @@ organizations:
     note: Broadcasting arm post-Disney sale. Fox News, Fox Sports, Fox Business
     stakeholders:
     - person: rupert-murdoch
-      role: chairman-emeritus
+      role: chairman
       from: 2019
+      note: Emeritus
     - person: lachlan-murdoch
       role: chairman
       from: 2019
@@ -15774,8 +15785,9 @@ organizations:
     note: Li Shufu. Owns Volvo, 10% Mercedes, Lotus, Polestar
     stakeholders:
     - person: li-shufu
-      role: founder-chairman
+      role: founder
       from: 1986
+      note: Chairman
   gehlen-organization:
     name: Gehlen Organization
     type: agency
@@ -16025,7 +16037,7 @@ organizations:
     status: active
     stakeholders:
     - person: colin-powell
-      role: alumnus
+      role: alumni
       to: 1971
       note: MBA
   georgetown-university:
@@ -16048,7 +16060,7 @@ organizations:
       role: board
       note: JD, Board of Directors
     - person: douglas-feith
-      role: alumnus
+      role: alumni
       to: 1978
       note: JD magna cum laude
     - person: douglas-feith
@@ -16069,7 +16081,7 @@ organizations:
     status: active
     stakeholders:
     - person: craig-mundie
-      role: alumnus
+      role: alumni
       from: 1967
       to: 1972
       note: BS Electrical Engineering (1971), MS Information Theory/CS (1972)
@@ -16388,9 +16400,10 @@ organizations:
       to: 2006
       note: CEO and Chairman
     - person: rishi-sunak
-      role: analyst
+      role: advisor
       from: 2001
       to: 2004
+      note: Analyst
     - person: rishi-sunak
       role: advisor
       from: 2025
@@ -16408,10 +16421,10 @@ organizations:
       to: 2017
       note: President & COO
     - person: alvin-jiang
-      role: analyst
+      role: advisor
       from: 2009
       to: 2010
-      note: Private Equity unit, Hong Kong
+      note: Private Equity unit, Hong Kong | Analyst
     - person: gerry-cardinale
       role: partner
       from: 1992
@@ -16533,8 +16546,8 @@ organizations:
     sector: tech
     stakeholders:
     - person: frances-haugen
-      role: operative
-      note: Product manager, ranking systems
+      role: official
+      note: Product manager, ranking systems | Operative
     - person: lin-bin
       role: executive
       from: 2006
@@ -18033,8 +18046,9 @@ organizations:
     note: Guida Suprema Khamenei. Sistema velayet-e faqih (tutela del giureconsulto). Sponsor Axis of Resistance.
     stakeholders:
     - person: ali-khamenei
-      role: supreme-leader
+      role: leader
       from: 1989
+      note: Supreme Leader
     - person: mojtaba-khamenei
       role: advisor
       from: 2000
@@ -18047,20 +18061,23 @@ organizations:
       from: 2021
       to: 2024
     - person: mohammad-javad-zarif
-      role: foreign-minister
+      role: minister
       from: 2013
       to: 2021
+      note: Foreign Minister
     - person: abbas-araghchi
-      role: foreign-minister
+      role: minister
       from: 2024
+      note: Foreign Minister
     - person: ahmad-jannati
       role: board
       from: 1980
       note: Segretario Guardian Council, Presidente Assembly of Experts
     - person: ruhollah-khomeini
-      role: supreme-leader
+      role: leader
       from: 1979
       to: 1989
+      note: Supreme Leader
     - person: mahmoud-ahmadinejad
       role: president
       from: 2005
@@ -18074,9 +18091,9 @@ organizations:
       from: 1997
       to: 2005
     - person: mohammad-reza-aref
-      role: vice-president
+      role: leader
       from: 2024
-      note: First Vice President
+      note: First Vice President | VP
     - person: hassan-rouhani
       role: president
       from: 2013
@@ -18352,10 +18369,10 @@ organizations:
       to: 1979
       note: Senatore DC
     - person: junio-valerio-borghese
-      role: military
+      role: official
       from: 1929
       to: 1945
-      note: Regia Marina, Comandante Decima MAS
+      note: Regia Marina, Comandante Decima MAS | Military
     - person: alcide-de-gasperi
       role: leader
       from: 1945
@@ -18657,10 +18674,10 @@ organizations:
       from: 2025
       note: Presidente
     - person: joseph-aoun
-      role: military
+      role: official
       from: 2017
       to: 2025
-      note: Comandante LAF (Lebanese Armed Forces)
+      note: Comandante LAF (Lebanese Armed Forces) | Military
     - person: pierre-gemayel-sr
       role: minister
       from: 1960
@@ -18966,10 +18983,10 @@ organizations:
     status: active
     stakeholders:
     - person: bernhard-lippe-biesterfeld
-      role: military
+      role: official
       from: 1940
       to: 1945
-      note: Comandante Forze Interne Olandesi
+      note: Comandante Forze Interne Olandesi | Military
     - person: mark-rutte
       role: leader
       from: 2010
@@ -19119,10 +19136,10 @@ organizations:
     status: active
     stakeholders:
     - person: mircea-geoana
-      role: ambassador
+      role: diplomat
       from: 1996
       to: 2000
-      note: Ambasciatore negli USA
+      note: Ambasciatore negli USA | Ambassador
     - person: mircea-geoana
       role: minister
       from: 2000
@@ -19802,9 +19819,9 @@ organizations:
     status: active
     stakeholders:
     - person: sheikh-tahnoun-bin-zayed
-      role: national-security-advisor
+      role: advisor
       from: 2016
-      note: Anche presidente Abu Dhabi Investment Authority e Chairman MGX
+      note: Anche presidente Abu Dhabi Investment Authority e Chairman MGX | National Security Advisor
     - person: khaldoon-al-mubarak
       role: executive
       note: Abu Dhabi Executive Council
@@ -19825,7 +19842,8 @@ organizations:
       from: 2006
       note: Ministro Esteri, negoziatore Abraham Accords
     - person: khaled-bin-mohamed-al-nahyan
-      role: crown-prince
+      role: leader
+      note: Crown Prince
     - person: hamdan-bin-mohammed-al-maktoum
       role: minister
       from: 2024
@@ -20125,10 +20143,10 @@ organizations:
       from: 2011
       note: Council for Science and Technology, advisor on AI
     - person: nuri-birgi
-      role: ambassador
+      role: diplomat
       from: 1957
       to: 1960
-      note: Ambassador to UK
+      note: Ambassador to UK | Ambassador
     - person: denis-healey
       role: minister
       from: 1964
@@ -20334,10 +20352,10 @@ organizations:
       to: 1986
       note: Assistant Secretary of State for East Asian and Pacific Affairs
     - person: paul-wolfowitz
-      role: ambassador
+      role: diplomat
       from: 1986
       to: 1989
-      note: US Ambassador to Indonesia
+      note: US Ambassador to Indonesia | Ambassador
     - person: paul-wolfowitz
       role: minister
       from: 1989
@@ -20390,9 +20408,10 @@ organizations:
       to: 1959
       note: Secretary of State
     - person: henry-kissinger
-      role: secretary-state
+      role: minister
       from: 1973
       to: 1977
+      note: Secretary of State
     - person: david-petraeus
       role: executive
       from: 2008
@@ -20448,9 +20467,10 @@ organizations:
       to: 2017
       note: Secretary of Commerce (Obama)
     - person: nelson-rockefeller
-      role: vice-president
+      role: leader
       from: 1974
       to: 1977
+      note: VP
     - person: george-hw-bush
       role: president
       from: 1989
@@ -20516,10 +20536,10 @@ organizations:
       to: 1932
       note: Secretary of Treasury sotto Harding, Coolidge, Hoover
     - person: yitzhak-rabin
-      role: ambassador
+      role: diplomat
       from: 1968
       to: 1973
-      note: Ambassador to USA
+      note: Ambassador to USA | Ambassador
     - person: dina-powell
       role: advisor
       from: 2017
@@ -20610,9 +20630,9 @@ organizations:
       from: 2025
       note: CIA Director
     - person: elise-stefanik
-      role: ambassador
+      role: diplomat
       from: 2025
-      note: UN Ambassador
+      note: UN Ambassador | Ambassador
     - person: jamie-gorelick
       role: minister
       from: 1994
@@ -20668,58 +20688,58 @@ organizations:
       to: 2001
       note: Special Asst to SecDef/Deputy SecDef
     - person: lloyd-austin
-      role: secretary of defense
+      role: minister
       from: 2021
-      note: 28th SecDef, needed congressional waiver
+      note: 28th SecDef, needed congressional waiver | Secretary of Defense
     - person: mark-esper
-      role: secretary of defense
+      role: minister
       from: 2019
       to: 2020
-      note: 27th SecDef, fired by Trump
+      note: 27th SecDef, fired by Trump | Secretary of Defense
     - person: james-mattis
-      role: secretary of defense
+      role: minister
       from: 2017
       to: 2018
-      note: 26th SecDef, resigned over Syria withdrawal
+      note: 26th SecDef, resigned over Syria withdrawal | Secretary of Defense
     - person: patrick-shanahan
-      role: deputy secretary of defense
+      role: minister
       from: 2017
       to: 2019
-      note: Deputy then Acting SecDef Jan-Jun 2019
+      note: Deputy then Acting SecDef Jan-Jun 2019 | Deputy Secretary of Defense
     - person: joseph-dunford
-      role: military
+      role: official
       from: 2015
       to: 2019
-      note: Chairman Joint Chiefs of Staff
+      note: Chairman Joint Chiefs of Staff | Military
     - person: heather-wilson
       role: minister
       from: 2017
       to: 2019
       note: Secretary of the Air Force
     - person: ellen-pawlikowski
-      role: military
+      role: official
       from: 1978
       to: 2018
-      note: General USAF, Commander AFMC
+      note: General USAF, Commander AFMC | Military
     - person: gary-roughead
-      role: military
+      role: official
       from: 2007
       to: 2011
-      note: Chief of Naval Operations
+      note: Chief of Naval Operations | Military
     - person: mark-welsh-iii
-      role: military
+      role: official
       from: 2012
       to: 2016
-      note: Chief of Staff of the Air Force
+      note: Chief of Staff of the Air Force | Military
     - person: richard-clarke-general
-      role: military
-      note: Commander SOCOM 2019-22, 82nd Airborne
+      role: official
+      note: Commander SOCOM 2019-22, 82nd Airborne | Military
     - person: cecil-haney
-      role: military
-      note: Commander STRATCOM 2013-16, Pacific Fleet
+      role: official
+      note: Commander STRATCOM 2013-16, Pacific Fleet | Military
     - person: charles-hooper
-      role: military
-      note: Director DSCA 2017-20
+      role: official
+      note: Director DSCA 2017-20 | Military
     - person: rudy-deleon
       role: minister
       note: Deputy SecDef 2000-01, UnderSec Personnel
@@ -20742,24 +20762,24 @@ organizations:
       to: 2017
       note: Senator New Hampshire
     - person: harry-harris
-      role: military
+      role: official
       from: 1978
       to: 2018
-      note: Admiral, PACOM Commander
+      note: Admiral, PACOM Commander | Military
     - person: edward-rice
-      role: military
-      note: General USAF, Air Education & Training Command
+      role: official
+      note: General USAF, Air Education & Training Command | Military
     - person: kirkland-donald
-      role: military
+      role: official
       from: 1975
       to: 2013
-      note: Admiral, Dir Naval Nuclear Propulsion
+      note: Admiral, Dir Naval Nuclear Propulsion | Military
     - person: tina-jonas
       role: minister
       note: Under Secretary of Defense (Comptroller)
     - person: nancy-norton
-      role: military
-      note: Vice Admiral, Director DISA
+      role: official
+      note: Vice Admiral, Director DISA | Military
     - person: david-sacks
       role: advisor
       from: 2025
@@ -20828,10 +20848,10 @@ organizations:
       to: 2024
       note: 'Career Ambassador: Deputy NSA Cheney (03-05), Amb NATO (05-08), Asst SecState EUR (13-17), Under SecState (21-24)'
     - person: andrew-krepinevich
-      role: military
+      role: official
       from: 1972
       to: 1993
-      note: US Army Lt. Col., Office of Net Assessment, staff 3 Defense Secretaries
+      note: US Army Lt. Col., Office of Net Assessment, staff 3 Defense Secretaries | Military
     - person: douglas-feith
       role: executive
       from: 1984
@@ -20843,10 +20863,10 @@ organizations:
       to: 2005
       note: Under Secretary Defense for Policy
     - person: jay-garner
-      role: military
+      role: official
       from: 1962
       to: 1997
-      note: Lieutenant General, US Army
+      note: Lieutenant General, US Army | Military
     - person: colin-powell
       role: minister
       from: 2001
@@ -20868,10 +20888,10 @@ organizations:
       to: 1993
       note: President
     - person: norman-schwarzkopf
-      role: military
+      role: official
       from: 1988
       to: 1991
-      note: CENTCOM Commander
+      note: CENTCOM Commander | Military
     - person: april-glaspie
       role: diplomat
       from: 1988
@@ -21350,11 +21370,13 @@ organizations:
     status: active
     stakeholders:
     - person: ali-khamenei
-      role: supervisor
+      role: executive
       from: 1989
+      note: supervisor
     - person: ahmad-jannati
-      role: secretary
+      role: executive
       from: 1992
+      note: secretary
   guardicore:
     type: company
     headquarters: Israel
@@ -21579,10 +21601,10 @@ organizations:
       to: 2018
       note: Professor 1979-85, Chairman Board 2009-18
     - person: kari-stadigh
-      role: alumnus
+      role: alumni
       from: 1980
     - person: henrik-ehrnrooth
-      role: alumnus
+      role: alumni
       from: 1981
   hannover-re:
     name: Hannover Rück SE
@@ -21719,7 +21741,7 @@ organizations:
     status: active
     stakeholders:
     - person: hiroshi-mikitani
-      role: alumnus
+      role: alumni
       from: 1991
       to: 1993
       note: MBA 1993; Alumni Achievement Award 2012
@@ -21763,32 +21785,32 @@ organizations:
     status: active
     stakeholders:
     - person: robert-rubin
-      role: alumnus
+      role: alumni
       from: 1956
       to: 1960
       note: BA Economics 1960 summa cum laude
     - person: mark-zuckerberg
-      role: alumnus
+      role: alumni
       from: 2002
       to: 2004
       note: Attended 2002-04, dropped out to found Facebook, honorary degree 2017
     - person: bill-gates
-      role: alumnus
+      role: alumni
       from: 1973
       to: 1975
       note: Attended 1973-75, dropped out to found Microsoft, honorary degree 2007
     - person: george-w-bush
-      role: alumnus
+      role: alumni
       from: 1973
       to: 1975
       note: MBA
     - person: barack-obama
-      role: alumnus
+      role: alumni
       from: 1988
       to: 1991
       note: JD Harvard Law 1991, President Harvard Law Review
     - person: henry-paulson
-      role: alumnus
+      role: alumni
       from: 1968
       to: 1970
       note: MBA HBS 1970
@@ -21798,17 +21820,17 @@ organizations:
       to: 2023
       note: Corporation Fellow 2017-2023, JD Harvard Law 1973
     - person: ray-dalio
-      role: alumnus
+      role: alumni
       from: 1971
       to: 1973
       note: MBA HBS 1973
     - person: stephen-schwarzman
-      role: alumnus
+      role: alumni
       from: 1969
       to: 1972
       note: MBA HBS 1972, major donor
     - person: paul-bremer
-      role: alumnus
+      role: alumni
       from: 1964
       to: 1966
       note: MBA, Harvard Business School
@@ -21818,7 +21840,7 @@ organizations:
       to: 2006
       note: President 2001-2006; BA 1975, PhD Economics MIT, Professor emeritus
     - person: steve-ballmer
-      role: alumnus
+      role: alumni
       from: 1973
       to: 1977
       note: AB Applied Mathematics 1977 magna cum laude
@@ -21827,12 +21849,12 @@ organizations:
       from: 2024
       note: Corporation Fellow 2024-, AB 1994
     - person: mitt-romney
-      role: alumnus
+      role: alumni
       from: 1971
       to: 1975
       note: JD/MBA joint degree 1975
     - person: michael-bloomberg
-      role: alumnus
+      role: alumni
       from: 1964
       to: 1966
       note: MBA HBS 1966, major donor Bloomberg Center
@@ -21840,7 +21862,7 @@ organizations:
       role: advisor
       note: Global Advisory Council
     - person: jorge-paulo-lemann
-      role: alumnus
+      role: alumni
       from: 1956
       to: 1961
       note: BA Economics 1961, endowed professorship
@@ -21853,11 +21875,11 @@ organizations:
       from: 1977
       note: BA 1977, MBA 1981, $10M donor Humanities Center
     - person: henrique-meirelles
-      role: alumnus
+      role: alumni
       from: 1984
       note: Advanced Management Program (AMP), HBS; Advisory Board HKS
     - person: pedro-moreira-salles
-      role: alumnus
+      role: alumni
       from: 1997
       note: Owner/President Management Program HBS
     - person: andre-esteves
@@ -21872,21 +21894,21 @@ organizations:
       from: 1998
       note: J.D. 1999, Professor, Carr Center founder
     - person: emilio-collado
-      role: student
+      role: alumni
       from: 1931
       to: 1936
-      note: MA 1934, PhD 1936
+      note: MA 1934, PhD 1936 | Student
     - person: gabriel-hauge
-      role: student
+      role: alumni
       from: 1936
       to: 1947
-      note: MA 1938, PhD 1947; Instructor 1938-40
+      note: MA 1938, PhD 1947; Instructor 1938-40 | Student
     - person: andrew-krepinevich
       role: alumni
       to: 1984
       note: MPA Kennedy School 1980, PhD 1984
     - person: douglas-feith
-      role: alumnus
+      role: alumni
       from: 1971
       to: 1975
       note: BA magna cum laude
@@ -21948,10 +21970,10 @@ organizations:
       to: 1989
       note: B.A. Philosophy
     - person: charles-mathias
-      role: student
+      role: alumni
       from: 1940
       to: 1944
-      note: BA 1944
+      note: BA 1944 | Student
   hbo:
     name: HBO
     type: media
@@ -22201,9 +22223,10 @@ organizations:
       role: leader
       from: 2024
     - person: naim-qassem
-      role: deputy
+      role: minister
       from: 1991
       to: 2024
+      note: Deputy
     - org: governo-iran
       role: sponsor
       note: Axis of Resistance, finanziamento e armamento via IRGC
@@ -22651,10 +22674,10 @@ organizations:
     note: SwissLeaks scandal, 300M EUR fine France 2017, 192M USD fine USA
     stakeholders:
     - person: herve-falciani
-      role: operative
+      role: official
       from: 2001
       to: 2008
-      note: Systems engineer, database administrator
+      note: Systems engineer, database administrator | Operative
     - org: hsbc
       role: subsidiary
       share: 100
@@ -23023,8 +23046,9 @@ organizations:
       role: chairman
       from: 2015
     - person: maktoum-bin-mohammed-al-maktoum
-      role: vice-chairman
+      role: chairman
       from: 2015
+      note: Vice
   icici-bank:
     name: ICICI Bank
     type: bank
@@ -23528,7 +23552,8 @@ organizations:
       to: 2021
       note: Rappresentante Giappone come Min. Finanze
     - person: rania-mashat
-      role: economist
+      role: professor
+      note: economist
     - person: erik-thedeen
       role: member
       from: 2023
@@ -23557,20 +23582,20 @@ organizations:
       to: 1941
       note: Shah fondatore, abdicazione forzata 1941 per invasione anglo-sovietica
     - person: amir-abbas-hoveyda
-      role: prime-minister
+      role: leader
       from: 1965
       to: 1977
-      note: PM piu' longevo storia Iran, 12 anni. Eseguito 1979.
+      note: PM piu' longevo storia Iran, 12 anni. Eseguito 1979. | PM
     - person: shapour-bakhtiar
-      role: prime-minister
+      role: leader
       from: 1979
       to: 1979
-      note: Ultimo PM, 37 giorni. Assassinato a Parigi 1991 da agenti iraniani.
+      note: Ultimo PM, 37 giorni. Assassinato a Parigi 1991 da agenti iraniani. | PM
     - person: mohammad-mossadegh
-      role: prime-minister
+      role: leader
       from: 1951
       to: 1953
-      note: Nazionalizzo' petrolio. Deposto da colpo CIA-MI6 Operation Ajax.
+      note: Nazionalizzo' petrolio. Deposto da colpo CIA-MI6 Operation Ajax. | PM
     - person: fazlollah-zahedi
       role: executive
       from: 1953
@@ -24550,26 +24575,27 @@ organizations:
     note: Forze armate parallele, 150-190k effettivi. Include Quds Force per operazioni esterne.
     stakeholders:
     - person: ali-khamenei
-      role: commander-in-chief
+      role: leader
       from: 1989
+      note: Commander-in-Chief
     - person: qasem-soleimani
-      role: commander
+      role: official
       from: 1998
       to: 2020
-      note: Comandante Quds Force, ucciso drone USA Baghdad
+      note: Comandante Quds Force, ucciso drone USA Baghdad | commander
     - person: hossein-salami
-      role: commander
+      role: official
       from: 2019
       to: 2025
-      note: Comandante in capo IRGC, ucciso raid israeliano
+      note: Comandante in capo IRGC, ucciso raid israeliano | commander
     - person: esmail-ghaani
-      role: commander
+      role: official
       from: 2020
-      note: Comandante Quds Force
+      note: Comandante Quds Force | commander
     - person: ahmad-vahidi
-      role: deputy-commander
+      role: official
       from: 2025
-      note: Implicato attentato AMIA 1994, ex capo Quds Force
+      note: Implicato attentato AMIA 1994, ex capo Quds Force | deputy-commander
     - org: quds-force
       role: unit
   iri:
@@ -24797,7 +24823,8 @@ organizations:
     sector: education
     stakeholders:
     - person: alberto-bailleres
-      role: benefactor
+      role: member
+      note: Donor
   itau-unibanco:
     name: Itaú Unibanco
     type: bank
@@ -25177,7 +25204,7 @@ organizations:
     status: active
     stakeholders:
     - person: april-glaspie
-      role: alumnus
+      role: alumni
       to: 1965
       note: MA, SAIS
   johns-hopkins-apl:
@@ -25668,25 +25695,25 @@ organizations:
     sector: intelligence
     stakeholders:
     - person: kim-philby
-      role: agent
+      role: official
       from: 1934
       to: 1988
-      note: Double agent, defected 1963
+      note: Double agent, defected 1963 | Agent
     - person: vladimir-putin
-      role: officer
+      role: official
       from: 1975
       to: 1991
-      note: Foreign intelligence officer, Lt. Colonel. Dresden 1985-1990
+      note: Foreign intelligence officer, Lt. Colonel. Dresden 1985-1990 | officer
     - person: nikolai-patrushev
-      role: officer
+      role: official
       from: 1975
       to: 1994
-      note: Leningrad KGB, anti-smuggling unit
+      note: Leningrad KGB, anti-smuggling unit | officer
     - person: alexander-bortnikov
-      role: officer
+      role: official
       from: 1975
       to: 1991
-      note: Counter-intelligence, Leningrad KGB
+      note: Counter-intelligence, Leningrad KGB | officer
     - org: svr
       role: successor
       from: 1991
@@ -26225,10 +26252,10 @@ organizations:
       from: 1997
       note: Harris board dal 1997
     - person: harry-harris
-      role: military
+      role: official
       from: 1978
       to: 2018
-      note: Admiral, PACOM Commander
+      note: Admiral, PACOM Commander | Military
     - person: lewis-hay
       role: board
       from: 2019
@@ -27201,8 +27228,8 @@ organizations:
     - person: keyu-jin
       role: professor
     - person: richard-perle
-      role: student
-      note: Graduate studies
+      role: alumni
+      note: Graduate studies | Student
   lseg:
     name: London Stock Exchange Group
     type: company
@@ -27530,8 +27557,8 @@ organizations:
     note: Annual security summit hosted by IISS and Bahrain. Leading regional security forum. Hosted by Crown Prince Salman.
     stakeholders:
     - person: salman-bin-hamad-al-khalifa
-      role: host
-      note: Hosts annual Manama Dialogue
+      role: member
+      note: Hosts annual Manama Dialogue | host
     - org: iiss
       role: organizer
   manas-ai:
@@ -27841,9 +27868,10 @@ organizations:
     sector: consulting
     stakeholders:
     - person: pete-buttigieg
-      role: consultant
+      role: advisor
       from: 2007
       to: 2010
+      note: Consultant
     - person: kyriakos-mitsotakis
       role: employee
       from: 1995
@@ -27862,14 +27890,15 @@ organizations:
       to: 2012
       note: Chairman McKinsey India
     - person: nadiem-makarim
-      role: consultant
+      role: advisor
       from: 2006
       to: 2009
-      note: Management consultant Jakarta
+      note: Management consultant Jakarta | Consultant
     - person: parit-wacharasindhu
-      role: consultant
+      role: advisor
       from: 2014
       to: 2018
+      note: Consultant
     - person: bob-sternfels
       role: executive
       from: 2021
@@ -27915,27 +27944,34 @@ organizations:
       to: 1985
       note: Consultant, banking e insurance
     - person: alison-loat
-      role: consultant
+      role: advisor
+      note: Consultant
     - person: gassan-kibsi
       role: partner
     - person: anna-marrs
       role: partner
     - person: nneka-mobisson-etuk
-      role: consultant
+      role: advisor
+      note: Consultant
     - person: james-mwangi
-      role: consultant
+      role: advisor
+      note: Consultant
     - person: bengi-korkmaz
       role: partner
     - person: francesca-carlesi
-      role: consultant
+      role: advisor
+      note: Consultant
     - person: patricia-cobian
-      role: consultant
+      role: advisor
+      note: Consultant
     - person: valerie-feldmann
-      role: consultant
+      role: advisor
+      note: Consultant
     - person: max-neukirchen
       role: partner
     - person: ian-solomon
-      role: consultant
+      role: advisor
+      note: Consultant
     - person: ryan-mcinerney
       role: partner
       from: 1997
@@ -28313,10 +28349,10 @@ organizations:
     - person: helle-thorning-schmidt
       role: board
     - person: frances-haugen
-      role: operative
+      role: official
       from: 2019
       to: 2021
-      note: Product manager, Civic Integrity team
+      note: Product manager, Civic Integrity team | Operative
     - person: dina-powell
       role: board
       from: 2025
@@ -28456,10 +28492,10 @@ organizations:
     status: active
     stakeholders:
     - person: benito-mussolini
-      role: agent
+      role: official
       from: 1917
       to: 1918
-      note: Pagato 100 sterline/settimana per propaganda pro-guerra
+      note: Pagato 100 sterline/settimana per propaganda pro-guerra | Agent
     - person: samuel-hoare
       role: executive
       from: 1917
@@ -28477,20 +28513,20 @@ organizations:
     sector: intelligence
     stakeholders:
     - person: william-donovan
-      role: liaison
+      role: advisor
       from: 1940
       to: 1945
-      note: Coordinamento OSS-SOE-MI6
+      note: Coordinamento OSS-SOE-MI6 | liaison
     - person: allen-dulles
-      role: liaison
+      role: advisor
       from: 1942
       to: 1945
-      note: OSS Berna - collaborazione wartime
+      note: OSS Berna - collaborazione wartime | liaison
     - person: james-angleton
-      role: liaison
+      role: advisor
       from: 1943
       to: 1945
-      note: X-2 counterintelligence London/Rome
+      note: X-2 counterintelligence London/Rome | liaison
     - person: kim-philby
       role: executive
       from: 1940
@@ -28621,9 +28657,11 @@ organizations:
       to: 2006
       note: Engineering Director
     - person: william-saito
-      role: former
+      role: member
+      note: Former
     - person: danah-boyd
-      role: researcher
+      role: professor
+      note: researcher
     - person: charlie-scharf
       role: board
       note: Board of Directors, CEO Wells Fargo
@@ -28773,7 +28811,7 @@ organizations:
     status: merged
     stakeholders:
     - person: april-glaspie
-      role: alumnus
+      role: alumni
       to: 1963
       note: BA
   minnesota-united:
@@ -28825,17 +28863,17 @@ organizations:
       role: member
       note: Postdoc AI Lab (Bill Freeman)
     - person: emilio-collado
-      role: student
+      role: alumni
       from: 1927
       to: 1931
-      note: BS
+      note: BS | Student
     - person: selcuk-bayraktar
       role: member
       from: 2004
       to: 2007
       note: MS Engineering, PhD studies (incomplete)
     - person: ahmed-chalabi
-      role: alumnus
+      role: alumni
       from: 1961
       to: 1965
       note: BS Mathematics
@@ -29069,9 +29107,11 @@ organizations:
       from: 2021
       note: Director (via MUFG 22% stake)
     - person: soichiro-minami
-      role: banker
+      role: employee
+      note: banker
     - person: sara-menker
-      role: vice-chairman
+      role: chairman
+      note: Vice
     - person: rudolf-scholten
       role: member
       from: 1976
@@ -29103,10 +29143,10 @@ organizations:
     sector: intelligence
     stakeholders:
     - person: james-angleton
-      role: liaison
+      role: advisor
       from: 1951
       to: 1975
-      note: CIA-Mossad liaison, rapporto privilegiato con Amos Manor e Isser Harel
+      note: CIA-Mossad liaison, rapporto privilegiato con Amos Manor e Isser Harel | liaison
     - person: yossi-cohen
       role: executive
       from: 2016
@@ -29581,10 +29621,10 @@ organizations:
       from: 1984
       to: 1988
     - person: donald-rumsfeld
-      role: ambassador
+      role: diplomat
       from: 1973
       to: 1974
-      note: US Ambassador to NATO
+      note: US Ambassador to NATO | Ambassador
     - person: federica-mogherini
       role: member
       from: 2013
@@ -29649,10 +29689,10 @@ organizations:
       to: 2024
       note: Deputy Secretary General
     - person: nuri-birgi
-      role: ambassador
+      role: diplomat
       from: 1960
       to: 1972
-      note: Permanent Representative
+      note: Permanent Representative | Ambassador
     - person: joseph-luns
       role: executive
       from: 1971
@@ -30091,8 +30131,9 @@ organizations:
     sector: newspaper
     stakeholders:
     - person: ag-sulzberger
-      role: publisher
+      role: owner
       from: 2018
+      note: Publisher
     - person: carlos-slim
       role: shareholder
       from: 2008
@@ -30183,9 +30224,9 @@ organizations:
     sector: media
     stakeholders:
     - person: thomas-peterffy
-      role: investor
+      role: shareholder
       from: 2025
-      note: Circa 25% stake via Conyers Investments
+      note: Circa 25% stake via Conyers Investments | investor
   nexi:
     name: Nexi S.p.A.
     type: company
@@ -30783,10 +30824,10 @@ organizations:
       to: 2005
       note: Director NSA
     - person: edward-snowden
-      role: contractor
+      role: partner
       from: 2009
       to: 2013
-      note: Infrastructure analyst, systems administrator
+      note: Infrastructure analyst, systems administrator | Contractor
     - person: william-binney
       role: executive
       from: 1970
@@ -31393,9 +31434,9 @@ organizations:
       to: 1998
       note: UNSCOM Chief Weapons Inspector, 37 missions Iraq
     - person: yasser-arafat
-      role: speaker
+      role: member
       from: 1974
-      note: First PLO address to UN General Assembly
+      note: First PLO address to UN General Assembly | Speaker
     - person: jens-stoltenberg
       role: advisor
       note: UN Special Envoy on Climate Change
@@ -32815,8 +32856,8 @@ organizations:
     sector: technology
     stakeholders:
     - person: frances-haugen
-      role: operative
-      note: Product manager, algorithmic systems
+      role: official
+      note: Product manager, algorithmic systems | Operative
   piraeus-bank:
     name: Piraeus Bank
     type: bank
@@ -32928,9 +32969,9 @@ organizations:
       from: 1997
       note: Signatory Statement of Principles
     - person: zalmay-khalilzad
-      role: signatory
+      role: member
       from: 1997
-      note: 1998 Iraq letter signatory
+      note: 1998 Iraq letter signatory | signatory
     - person: jeb-bush
       role: founder
       from: 1997
@@ -32987,8 +33028,8 @@ organizations:
       from: 1997
       note: Signatory Statement of Principles
     - person: douglas-feith
-      role: signatory
-      note: 1998 Iraq letter signatory
+      role: member
+      note: 1998 Iraq letter signatory | signatory
   pnl-romania:
     name: Partito Nazionale Liberale (Romania)
     type: government
@@ -33240,7 +33281,7 @@ organizations:
     status: active
     stakeholders:
     - person: james-baker
-      role: alumnus
+      role: alumni
       to: 1952
       note: BA History, cum laude
     - person: james-taiclet
@@ -33251,9 +33292,9 @@ organizations:
       from: 1940
       to: 1942
     - person: richard-perle
-      role: student
+      role: alumni
       to: 1967
-      note: MA Political Science 1967
+      note: MA Political Science 1967 | Student
   prisa:
     name: Grupo PRISA
     type: media
@@ -33375,9 +33416,9 @@ organizations:
       to: 2024
       note: CEO (22 anni)
     - person: valerio-battista
-      role: vice-chairman
+      role: chairman
       from: 2024
-      note: Vice-Chairman
+      note: Vice-Chairman | Vice
     - person: francesco-gori
       role: chairman
       from: 2024
@@ -33676,12 +33717,14 @@ organizations:
     status: active
     stakeholders:
     - person: esmail-qaani
-      role: commander
+      role: official
       from: 2020
+      note: commander
     - person: qasem-soleimani
-      role: commander
+      role: official
       from: 1998
       to: 2020
+      note: commander
   quinenco:
     name: Quiñenco S.A.
     type: company
@@ -33870,10 +33913,10 @@ organizations:
     - person: herman-kahn
       role: advisor
     - person: daniel-ellsberg
-      role: analyst
+      role: advisor
       from: 1959
       to: 1970
-      note: Nuclear war analyst, Vietnam study
+      note: Nuclear war analyst, Vietnam study | Analyst
     - person: zalmay-khalilzad
       role: advisor
     - person: jason-matheny
@@ -35069,8 +35112,9 @@ organizations:
     note: State-funded. Foreign agent US 2017. Banned EU 2022. Editor-in-chief Margarita Simonyan
     stakeholders:
     - person: margarita-simonyan
-      role: editor-in-chief
+      role: editor
       from: 2005
+      note: Editor-in-Chief
     - person: mikhail-lesin
       role: founder
       from: 2005
@@ -35423,8 +35467,8 @@ organizations:
     status: active
     stakeholders:
     - person: eric-edelman
-      role: academic
-      note: Distinguished Practitioner in Residence, Merrill Center
+      role: professor
+      note: Distinguished Practitioner in Residence, Merrill Center | academic
   salesforce:
     name: Salesforce
     type: company
@@ -35794,9 +35838,10 @@ organizations:
     headquarters: Pretoria, South Africa
     stakeholders:
     - person: tito-mboweni
-      role: governor
+      role: leader
       from: 1999
       to: 2009
+      note: Governor
   sartorius:
     name: Sartorius AG
     type: company
@@ -36044,7 +36089,7 @@ organizations:
     status: active
     stakeholders:
     - person: paul-bremer
-      role: alumnus
+      role: alumni
       note: CEP
   scl-group:
     name: SCL Group
@@ -36208,10 +36253,10 @@ organizations:
     status: active
     stakeholders:
     - person: nikolai-patrushev
-      role: secretary
+      role: executive
       from: 2008
       to: 2024
-      note: Segretario Consiglio di Sicurezza
+      note: Segretario Consiglio di Sicurezza | secretary
     - person: dmitry-medvedev
       role: member
       from: 2020
@@ -36612,9 +36657,9 @@ organizations:
     note: Filiale Standard Oil in Italia, poi Esso Italiana
     stakeholders:
     - person: filippo-filippelli
-      role: intermediary
+      role: advisor
       from: 1924
-      note: Ricevette tangente 1M lire
+      note: Ricevette tangente 1M lire | intermediary
     - org: standard-oil
       role: owner
       from: 1891
@@ -37621,7 +37666,7 @@ organizations:
       role: member
       note: MBA 2006 (Fulbright Scholar)
     - person: steve-ballmer
-      role: alumnus
+      role: alumni
       from: 1979
       to: 1980
       note: MBA incomplete
@@ -38101,9 +38146,9 @@ organizations:
     sector: fintech, payments
     stakeholders:
     - person: sam-altman
-      role: investor
+      role: shareholder
       from: 2011
-      note: Early investor, ~2% stake
+      note: Early investor, ~2% stake | investor
     - person: mark-carney
       role: board
       note: External Board Member
@@ -38885,8 +38930,8 @@ organizations:
     note: In vendita a DMGT (novembre 2025)
     stakeholders:
     - person: mansour-bin-zayed
-      role: investor
-      note: Failed acquisition via RedBird IMI 2023-2024, blocked by UK govt
+      role: shareholder
+      note: Failed acquisition via RedBird IMI 2023-2024, blocked by UK govt | investor
     - person: conrad-black
       role: chairman
       from: 1986
@@ -39848,9 +39893,9 @@ organizations:
     - person: nick-carter
       role: advisor
     - person: larry-ellison
-      role: donor
+      role: member
       from: 2021
-      note: 257m-gbp-donation
+      note: 257m-gbp-donation | Donor
     - org: oracle
       role: funder
       from: 2021
@@ -40273,8 +40318,8 @@ organizations:
     - person: enrico-letta
       role: member
     - person: peter-sutherland
-      role: chairman-europe
-      note: honorary-chairman-2010-2018
+      role: chairman
+      note: honorary-chairman-2010-2018 | Europe
     - person: marta-dassu
       role: member
     - person: otto-wolff-von-amerongen
@@ -40638,9 +40683,9 @@ organizations:
     sector: tech
     stakeholders:
     - person: neelie-kroes
-      role: advisory-board
+      role: board
       from: 2016
-      note: uber-files-scandal
+      note: uber-files-scandal | advisory-board
   ubs:
     name: UBS AG
     type: bank
@@ -40651,10 +40696,10 @@ organizations:
     aum: 5.7 trillion USD
     stakeholders:
     - person: bradley-birkenfeld
-      role: operative
+      role: official
       from: 2001
       to: 2006
-      note: Private banker, wealth management Geneva
+      note: Private banker, wealth management Geneva | Operative
     - person: axel-weber
       role: chairman
       from: 2012
@@ -40722,7 +40767,7 @@ organizations:
     status: active
     stakeholders:
     - person: pedro-moreira-salles
-      role: alumnus
+      role: alumni
       note: BA Economics and History, magna cum laude
     - person: zhu-long
       role: member
@@ -40850,9 +40895,10 @@ organizations:
     - person: vuk-jeremic
       role: president
     - person: benjamin-netanyahu
-      role: ambassador
+      role: diplomat
       from: 1984
       to: 1988
+      note: Ambassador
   un-foundation:
     type: foundation
     headquarters: Washington DC, USA
@@ -40889,7 +40935,8 @@ organizations:
     type: agency
     stakeholders:
     - person: mette-marit-of-norway
-      role: ambassador
+      role: diplomat
+      note: Ambassador
   uncf:
     name: United Negro College Fund
     type: foundation
@@ -40914,7 +40961,8 @@ organizations:
       from: 2025
       note: Administrator
     - person: haakon-of-norway
-      role: ambassador
+      role: diplomat
+      note: Ambassador
     - person: kemal-dervis
       role: executive
       from: 2005
@@ -41019,7 +41067,8 @@ organizations:
     type: agency
     stakeholders:
     - person: helen-hai
-      role: ambassador
+      role: diplomat
+      note: Ambassador
   unihub-global:
     name: Unihub Global Networks
     type: company
@@ -41251,9 +41300,9 @@ organizations:
     status: active
     stakeholders:
     - person: trevor-manuel
-      role: faculty
+      role: professor
       from: 2015
-      note: Honorary Professor, Mandela School
+      note: Honorary Professor, Mandela School | faculty
   university-chicago:
     name: University of Chicago
     type: university
@@ -41293,7 +41342,7 @@ organizations:
     status: active
     stakeholders:
     - person: ray-ozzie
-      role: alumnus
+      role: alumni
       from: 1975
       to: 1979
       note: BS Computer Science, worked on PLATO system
@@ -41324,10 +41373,10 @@ organizations:
     - person: ian-solomon
       role: executive
     - person: saul-alinsky
-      role: student
+      role: alumni
       from: 1926
       to: 1930
-      note: BA Archaeology, graduate studies criminology
+      note: BA Archaeology, graduate studies criminology | Student
     - person: leo-strauss
       role: executive
       from: 1949
@@ -41337,7 +41386,7 @@ organizations:
       role: executive
       note: Professor, Committee on Social Thought
     - person: ahmed-chalabi
-      role: alumnus
+      role: alumni
       from: 1965
       to: 1969
       note: PhD Mathematics, advisor George Glauberman
@@ -41349,12 +41398,12 @@ organizations:
     status: active
     stakeholders:
     - person: condoleezza-rice
-      role: alumnus
+      role: alumni
       from: 1970
       to: 1974
       note: BA Political Science
     - person: condoleezza-rice
-      role: alumnus
+      role: alumni
       from: 1979
       to: 1981
       note: PhD Political Science
@@ -41395,7 +41444,7 @@ organizations:
     status: active
     stakeholders:
     - person: condoleezza-rice
-      role: alumnus
+      role: alumni
       from: 1974
       to: 1975
       note: MA Political Science
@@ -41407,7 +41456,7 @@ organizations:
     status: active
     stakeholders:
     - person: james-baker
-      role: alumnus
+      role: alumni
       to: 1957
       note: JD with honors
   university-texas:
@@ -41616,9 +41665,9 @@ organizations:
     - person: andrea-armani
       role: professor
     - person: richard-perle
-      role: student
+      role: alumni
       to: 1964
-      note: BA International Politics 1964
+      note: BA International Politics 1964 | Student
   usines-gustave-boel:
     name: Usines Gustave Boël
     type: company
@@ -42377,10 +42426,10 @@ organizations:
     status: defunct
     stakeholders:
     - person: raoul-wallenberg
-      role: operative
+      role: official
       from: 1944
       to: 1945
-      note: Reclutato da Iver Olsen
+      note: Reclutato da Iver Olsen | Operative
   warburg-pincus:
     name: Warburg Pincus
     type: privateequity
@@ -42567,9 +42616,9 @@ organizations:
       role: member
       note: Agenda Contributor
     - person: boris-yeltsin
-      role: speaker
+      role: member
       from: 1996
-      note: Davos Pact 1996
+      note: Davos Pact 1996 | Speaker
     - person: tedros-adhanom
       role: member
     - person: borge-brende
@@ -42608,9 +42657,9 @@ organizations:
     - person: al-gore
       role: board
     - person: tim-cook
-      role: participant
+      role: member
       from: 2019
-      note: Davos 2019 participant
+      note: Davos 2019 participant | participant
     - person: sam-altman
       role: ygl
       from: 2016
@@ -42732,10 +42781,10 @@ organizations:
       from: 2002
       note: Davos participant
     - person: vladimir-putin
-      role: speaker
+      role: member
       from: 1992
       to: 2021
-      note: Multiple Davos appearances, met Schwab 1992
+      note: Multiple Davos appearances, met Schwab 1992 | Speaker
     - person: mukesh-ambani
       role: board
     - person: gautam-adani
@@ -42750,8 +42799,8 @@ organizations:
     - person: lee-jae-yong
       role: ygl
     - person: salman-bin-hamad-al-khalifa
-      role: speaker
-      note: Regular speaker at Davos, Future Investment Initiative, Clinton Global Initiative
+      role: member
+      note: Regular speaker at Davos, Future Investment Initiative, Clinton Global Initiative | Speaker
     - person: albert-bourla
       role: member
       note: Agenda Contributor
@@ -42772,11 +42821,11 @@ organizations:
       role: member
       note: WEF contributor
     - person: yasser-arafat
-      role: speaker
-      note: Davos 1994, 1997, 2001
+      role: member
+      note: Davos 1994, 1997, 2001 | Speaker
     - person: shimon-peres
-      role: speaker
-      note: Davos 1994, 2001 (con Arafat)
+      role: member
+      note: Davos 1994, 2001 (con Arafat) | Speaker
     - person: thaksin-shinawatra
       role: member
       note: Davos participant
@@ -43341,9 +43390,9 @@ organizations:
       role: member
       note: Partecipante Davos
     - person: dmitry-medvedev
-      role: speaker
+      role: member
       from: 2007
-      note: Davos speaker 2007, 2011, 2013
+      note: Davos speaker 2007, 2011, 2013 | Speaker
     - person: anatoly-chubais
       role: member
       from: 1996
@@ -43364,8 +43413,8 @@ organizations:
       role: member
       note: Attendee, PAA-WEF strategic partnership
     - person: german-gref
-      role: speaker
-      note: Davos speaker, advocated state stake reduction in Russian banks
+      role: member
+      note: Davos speaker, advocated state stake reduction in Russian banks | Speaker
     - person: andrey-kostin
       role: glt
       from: 1999
@@ -43793,7 +43842,8 @@ organizations:
       role: ygl
       from: 2023
     - person: khalid-bin-ahmed-al-khalifa
-      role: speaker
+      role: member
+      note: Speaker
     - person: michael-dell
       role: board
       note: Honorary Member, Foundation Board; Executive Committee, International Business Council
@@ -43842,8 +43892,9 @@ organizations:
       role: member
       note: Davos 2024 speaker
     - person: benjamin-netanyahu
-      role: speaker
+      role: member
       from: 1996
+      note: Speaker
     - person: yin-qi
       role: ygl
       from: 2019
@@ -44041,10 +44092,10 @@ organizations:
       from: 2006
       note: Editor-in-chief
     - person: chelsea-manning
-      role: source
+      role: advisor
       from: 2010
       to: 2010
-      note: Leaked War Logs, Cablegate, Collateral Murder
+      note: Leaked War Logs, Cablegate, Collateral Murder | Source
   wikimedia:
     name: Wikimedia Foundation
     type: foundation
@@ -44613,8 +44664,8 @@ organizations:
       role: professor
       from: 2002
     - person: charles-mathias
-      role: student
-      note: Graduate studies
+      role: alumni
+      note: Graduate studies | Student
   yale-university:
     name: Yale University
     type: university
@@ -44623,50 +44674,50 @@ organizations:
     status: active
     stakeholders:
     - person: bill-clinton
-      role: alumnus
+      role: alumni
       from: 1970
       to: 1973
       note: JD Yale Law 1973
     - person: george-w-bush
-      role: alumnus
+      role: alumni
       from: 1964
       to: 1968
       note: BA History, DKE President
     - person: stephen-schwarzman
-      role: alumnus
+      role: alumni
       from: 1965
       to: 1969
       note: BA 1969; Skull and Bones; major donor Schwarzman Center
     - person: paul-bremer
-      role: alumnus
+      role: alumni
       from: 1959
       to: 1963
       note: BA
     - person: hillary-clinton
-      role: alumnus
+      role: alumni
       from: 1970
       to: 1973
       note: JD Yale Law 1973
     - person: george-hw-bush
-      role: alumnus
+      role: alumni
       from: 1945
       to: 1948
       note: BA Economics 1948; Skull and Bones 1948
     - person: joe-tsai
-      role: alumnus
+      role: alumni
       from: 1987
       to: 1990
       note: JD Yale Law 1990; co-founder Alibaba
     - person: pedro-moreira-salles
-      role: alumnus
+      role: alumni
       note: Graduate Program International Relations
     - person: john-kerry
-      role: alumnus
+      role: alumni
       from: 1962
       to: 1966
       note: BA Political Science 1966; Skull and Bones 1966
     - person: indra-nooyi
-      role: alumnus
+      role: alumni
       from: 1978
       to: 1980
       note: MPP Yale School of Management 1980

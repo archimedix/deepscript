@@ -19,6 +19,9 @@ import sys
 import yaml
 from neo4j import GraphDatabase
 
+# Import schema loader (single source of truth)
+from lib.schema import get_type_to_sublabel, type_to_sublabel
+
 # Neo4j connection
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
@@ -27,29 +30,6 @@ NEO4J_PASSWORD = "deepscript2025"
 # Input directory
 BASE_DIR = "/Users/archimedix/app/deepscript"
 INPUT_DIR = os.path.join(BASE_DIR, "db")
-
-# Type to Neo4j sub-label mapping
-TYPE_TO_SUBLABEL = {
-    "forum": "Forum",
-    "bank": "Bank",
-    "centralbank": "CentralBank",
-    "central-bank": "CentralBank",
-    "assetmanager": "AssetManager",
-    "asset-manager": "AssetManager",
-    "privateequity": "PrivateEquity",
-    "private-equity": "PrivateEquity",
-    "hedgefund": "HedgeFund",
-    "hedge-fund": "HedgeFund",
-    "swf": "SWF",
-    "government": "Government",
-    "foundation": "Foundation",
-    "thinktank": "ThinkTank",
-    "think-tank": "ThinkTank",
-    "company": "Company",
-    "agency": "Agency",
-    "media": "Media",
-    "university": "University",
-}
 
 
 def load_yaml(filename):
@@ -142,9 +122,9 @@ def import_organizations(driver, dry_run=False):
         shs = props.pop("stakeholders", [])
         # Remove file property
         props.pop("file", None)
-        # Get type for sub-label
+        # Get type for sub-label (using schema.yaml as source of truth)
         org_type = props.pop("type", None)
-        sublabel = TYPE_TO_SUBLABEL.get(org_type, "Company") if org_type else None
+        sublabel = type_to_sublabel(org_type) if org_type else None
 
         if dry_run:
             print(f"  [DRY-RUN] MERGE Organization:{sublabel} {org_id}: {props}")

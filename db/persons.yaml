@@ -13,8 +13,9 @@ persons:
     nationality: IRN
     affiliations:
     - org: governo-iran
-      role: foreign-minister
+      role: minister
       from: 2024
+      note: Foreign Minister
   abdulaziz-bin-salman:
     born: 1960
     nationality: SAU
@@ -191,8 +192,9 @@ persons:
     family: ochs-sulzberger
     affiliations:
     - org: new-york-times
-      role: publisher
+      role: owner
       from: 2018
+      note: Publisher
   agostino-scornajenchi:
     nationality: ITA
     affiliations:
@@ -234,9 +236,10 @@ persons:
       to: 2006
       note: Deputy Managing Director
     - org: banxico
-      role: governor
+      role: leader
       from: 2010
       to: 2017
+      note: Governor
     - org: governo-mexico
       role: minister
       from: 2006
@@ -251,28 +254,29 @@ persons:
       from: 1980
       note: Segretario Guardian Council, Presidente Assembly of Experts
     - org: guardian-council
-      role: secretary
+      role: executive
       from: 1992
+      note: secretary
   ahmad-vahidi:
     born: 1958
     nationality: IRN
     affiliations:
     - org: irgc
-      role: deputy-commander
+      role: official
       from: 2025
-      note: Implicato attentato AMIA 1994, ex capo Quds Force
+      note: Implicato attentato AMIA 1994, ex capo Quds Force | deputy-commander
   ahmed-chalabi:
     born: 1945
     died: 2015
     nationality: IRQ
     affiliations:
     - org: mit
-      role: alumnus
+      role: alumni
       from: 1961
       to: 1965
       note: BS Mathematics
     - org: university-of-chicago
-      role: alumnus
+      role: alumni
       from: 1965
       to: 1969
       note: PhD Mathematics, advisor George Glauberman
@@ -653,7 +657,8 @@ persons:
       from: 1962
       to: 2022
     - org: itam
-      role: benefactor
+      role: member
+      note: Donor
   alberto-beneduce:
     born: 1877
     died: 1944
@@ -757,10 +762,10 @@ persons:
     note: Data scientist, creo app thisisyourdigitallife per Cambridge Analytica
     affiliations:
     - org: cambridge-analytica
-      role: contractor
+      role: partner
       from: 2014
       to: 2015
-      note: Developer app thisisyourdigitallife
+      note: Developer app thisisyourdigitallife | Contractor
   aleksey-gromov:
     born: 1960
     nationality: RUS
@@ -863,10 +868,10 @@ persons:
       from: 2008
       note: Membro permanente Consiglio di Sicurezza
     - org: kgb
-      role: officer
+      role: official
       from: 1975
       to: 1991
-      note: Counter-intelligence, Leningrad KGB
+      note: Counter-intelligence, Leningrad KGB | officer
     - org: fsb-russia
       role: executive
       from: 2008
@@ -993,7 +998,7 @@ persons:
       from: 2009
       note: Young Global Leader 2009
     - org: collegio-europa
-      role: alumnus
+      role: alumni
     - org: governo-finlandia
       role: leader
       from: 2014
@@ -1226,14 +1231,17 @@ persons:
     nationality: IRN
     affiliations:
     - org: governo-iran
-      role: supreme-leader
+      role: leader
       from: 1989
+      note: Supreme Leader
     - org: irgc
-      role: commander-in-chief
+      role: leader
       from: 1989
+      note: Commander-in-Chief
     - org: guardian-council
-      role: supervisor
+      role: executive
       from: 1989
+      note: supervisor
     - org: assembly-of-experts
       role: member
       from: 1983
@@ -1296,7 +1304,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: mckinsey
-      role: consultant
+      role: advisor
+      note: Consultant
     - org: samara
       role: founder
   alistair-darling:
@@ -1367,10 +1376,10 @@ persons:
       to: 1926
       note: State Department, Vienna, Bern, Berlin, Constantinople
     - org: mi6
-      role: liaison
+      role: advisor
       from: 1942
       to: 1945
-      note: OSS Berna - collaborazione wartime
+      note: OSS Berna - collaborazione wartime | liaison
     - org: oss
       role: executive
       from: 1942
@@ -1454,10 +1463,10 @@ persons:
     nationality: CHN
     affiliations:
     - org: goldman-sachs
-      role: analyst
+      role: advisor
       from: 2009
       to: 2010
-      note: Private Equity unit, Hong Kong
+      note: Private Equity unit, Hong Kong | Analyst
     - org: boyu-capital
       role: founder
       from: 2010
@@ -1560,10 +1569,10 @@ persons:
     nationality: IRN
     affiliations:
     - org: impero-pahlavi
-      role: prime-minister
+      role: leader
       from: 1965
       to: 1977
-      note: PM piu' longevo storia Iran, 12 anni. Eseguito 1979.
+      note: PM piu' longevo storia Iran, 12 anni. Eseguito 1979. | PM
   amir-peretz:
     born: 1952
     nationality: ISR
@@ -2199,7 +2208,8 @@ persons:
     - org: alphabeta
       role: founder
     - org: bcg
-      role: consultant
+      role: advisor
+      note: Consultant
   andrew-knight:
     born: 1939
     nationality: GBR
@@ -2264,10 +2274,10 @@ persons:
     - org: cfr
       role: member
     - org: governo-usa
-      role: military
+      role: official
       from: 1972
       to: 1993
-      note: US Army Lt. Col., Office of Net Assessment, staff 3 Defense Secretaries
+      note: US Army Lt. Col., Office of Net Assessment, staff 3 Defense Secretaries | Military
     - org: hudson-institute
       role: advisor
       from: 2016
@@ -2753,11 +2763,11 @@ persons:
       to: 2002
       note: Consul General Cape Town
     - org: mills-college
-      role: alumnus
+      role: alumni
       to: 1963
       note: BA
     - org: johns-hopkins
-      role: alumnus
+      role: alumni
       to: 1965
       note: MA, SAIS
     relations:
@@ -3289,7 +3299,7 @@ persons:
       role: founder
       from: 2017
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1988
       to: 1991
       note: JD Harvard Law 1991, President Harvard Law Review
@@ -3537,10 +3547,10 @@ persons:
       to: 1943
       note: Primo Ministro 1922-1925, Duce 1925-1943
     - org: mi5
-      role: agent
+      role: official
       from: 1917
       to: 1918
-      note: Pagato 100 sterline/settimana per propaganda pro-guerra
+      note: Pagato 100 sterline/settimana per propaganda pro-guerra | Agent
     - org: il-popolo-d-italia
       role: founder
       from: 1914
@@ -3574,8 +3584,9 @@ persons:
     nationality: ISR
     affiliations:
     - org: wef
-      role: speaker
+      role: member
       from: 1996
+      note: Speaker
     - org: governo-israele
       role: leader
       from: 1996
@@ -3593,9 +3604,10 @@ persons:
       to: 1972
       note: Sayeret Matkal
     - org: un
-      role: ambassador
+      role: diplomat
       from: 1984
       to: 1988
+      note: Ambassador
     - org: mit
       role: alumni
       from: 1972
@@ -3754,10 +3766,10 @@ persons:
       to: 1937
       note: Parigi
     - org: governo-olanda
-      role: military
+      role: official
       from: 1940
       to: 1945
-      note: Comandante Forze Interne Olandesi
+      note: Comandante Forze Interne Olandesi | Military
     - org: lockheed
       role: advisor
       from: 1970
@@ -3863,7 +3875,7 @@ persons:
       from: 1984
       note: Young Leader 1984
     - org: yale-university
-      role: alumnus
+      role: alumni
       from: 1970
       to: 1973
       note: JD Yale Law 1973
@@ -3906,7 +3918,7 @@ persons:
       from: 2024
       note: Donor $50M (2024, via 501c4 dark money)
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1973
       to: 1975
       note: Attended 1973-75, dropped out to found Microsoft, honorary degree 2007
@@ -4254,9 +4266,9 @@ persons:
     note: First President of Russia 1991-1999. Dissolved USSR. Shock therapy privatization. Davos Pact 1996.
     affiliations:
     - org: wef
-      role: speaker
+      role: member
       from: 1996
-      note: Davos Pact 1996
+      note: Davos Pact 1996 | Speaker
     - org: governo-russia
       role: leader
       from: 1991
@@ -4302,15 +4314,15 @@ persons:
     note: Whistleblower UBS, ricompensa IRS 104M USD, distrusse segreto bancario svizzero
     affiliations:
     - org: ubs
-      role: operative
+      role: official
       from: 2001
       to: 2006
-      note: Private banker, wealth management Geneva
+      note: Private banker, wealth management Geneva | Operative
     - org: credit-suisse
-      role: operative
+      role: official
       from: 1996
       to: 1998
-      note: Private banker
+      note: Private banker | Operative
   brent-scowcroft:
     born: 1925
     died: 2020
@@ -4479,7 +4491,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: banca-mondiale
-      role: scientist
+      role: professor
+      note: scientist
   bud-walton:
     born: 1921
     died: 1995
@@ -4897,8 +4910,8 @@ persons:
     note: Admiral USN, Commander STRATCOM (2013-2016)
     affiliations:
     - org: governo-usa
-      role: military
-      note: Commander STRATCOM 2013-16, Pacific Fleet
+      role: official
+      note: Commander STRATCOM 2013-16, Pacific Fleet | Military
     - org: general-dynamics
       role: board
       from: 2019
@@ -5093,8 +5106,8 @@ persons:
     note: Lt General USA, Director DSCA (2017-2020)
     affiliations:
     - org: governo-usa
-      role: military
-      note: Director DSCA 2017-20
+      role: official
+      note: Director DSCA 2017-20 | Military
     - org: general-dynamics
       role: board
       from: 2023
@@ -5141,13 +5154,13 @@ persons:
       to: 1987
       note: Representative MD-6 1961-69; Senator MD 1969-87
     - org: haverford-college
-      role: student
+      role: alumni
       from: 1940
       to: 1944
-      note: BA 1944
+      note: BA 1944 | Student
     - org: yale
-      role: student
-      note: Graduate studies
+      role: alumni
+      note: Graduate studies | Student
     - org: jones-day
       role: partner
       from: 1987
@@ -5335,10 +5348,10 @@ persons:
     note: WikiLeaks source, largest leak classified docs US history
     affiliations:
     - org: wikileaks
-      role: source
+      role: advisor
       from: 2010
       to: 2010
-      note: Leaked War Logs, Cablegate, Collateral Murder
+      note: Leaked War Logs, Cablegate, Collateral Murder | Source
     - org: us-army
       role: member
       from: 2007
@@ -5914,12 +5927,12 @@ persons:
       role: board
       to: 2021
     - org: city-college-new-york
-      role: alumnus
+      role: alumni
       from: 1954
       to: 1958
       note: BA Geology, ROTC
     - org: george-washington-university
-      role: alumnus
+      role: alumni
       to: 1971
       note: MBA
     relations:
@@ -6018,17 +6031,17 @@ persons:
       from: 2020
       note: Director
     - org: university-of-denver
-      role: alumnus
+      role: alumni
       from: 1970
       to: 1974
       note: BA Political Science
     - org: university-of-denver
-      role: alumnus
+      role: alumni
       from: 1979
       to: 1981
       note: PhD Political Science
     - org: university-of-notre-dame
-      role: alumnus
+      role: alumni
       from: 1974
       to: 1975
       note: MA Political Science
@@ -6211,7 +6224,7 @@ persons:
       to: 2014
       note: Chief Research and Strategy Officer (2006-2012), Senior Advisor to CEO (2012-2014)
     - org: georgia-tech
-      role: alumnus
+      role: alumni
       from: 1967
       to: 1972
       note: BS Electrical Engineering (1971), MS Information Theory/CS (1972)
@@ -6470,7 +6483,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: microsoft
-      role: researcher
+      role: professor
+      note: researcher
     - org: nyu
       role: professor
   daniel-daniello:
@@ -6507,10 +6521,10 @@ persons:
       to: 1967
       note: Defense/State Dept, Vietnam analyst
     - org: rand-corporation
-      role: analyst
+      role: advisor
       from: 1959
       to: 1970
-      note: Nuclear war analyst, Vietnam study
+      note: Nuclear war analyst, Vietnam study | Analyst
     - org: freedom-press-foundation
       role: founder
       from: 2012
@@ -6673,7 +6687,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: deloitte
-      role: principal
+      role: executive
+      note: principal
   david-abney:
     nationality: USA
     note: Executive Chairman UPS, ex-CEO
@@ -7657,9 +7672,9 @@ persons:
       2000-2003.
     affiliations:
     - org: wef
-      role: speaker
+      role: member
       from: 2007
-      note: Davos speaker 2007, 2011, 2013
+      note: Davos speaker 2007, 2011, 2013 | Speaker
     - org: governo-russia
       role: president
       from: 2008
@@ -7806,10 +7821,10 @@ persons:
       role: member
       note: Attendee
     - org: nato
-      role: ambassador
+      role: diplomat
       from: 1973
       to: 1974
-      note: US Ambassador to NATO
+      note: US Ambassador to NATO | Ambassador
     - org: governo-usa
       role: legislator
       from: 1962
@@ -7928,7 +7943,8 @@ persons:
     note: Pianificatore CIA, autore del piano Operation Ajax
     affiliations:
     - org: cia
-      role: officer
+      role: official
+      note: officer
   dora-bakoyannis:
     born: 1954
     nationality: GRC
@@ -8004,7 +8020,7 @@ persons:
       from: 2008
       note: Senior Fellow
     - org: georgetown-university
-      role: alumnus
+      role: alumni
       to: 1978
       note: JD magna cum laude
     - org: georgetown-university
@@ -8013,13 +8029,13 @@ persons:
       to: 2008
       note: Professor National Security Policy
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1971
       to: 1975
       note: BA magna cum laude
     - org: pnac
-      role: signatory
-      note: 1998 Iraq letter signatory
+      role: member
+      note: 1998 Iraq letter signatory | signatory
     - org: office-special-plans
       role: executive
       from: 2002
@@ -8339,8 +8355,8 @@ persons:
     nationality: USA
     affiliations:
     - org: governo-usa
-      role: military
-      note: General USAF, Air Education & Training Command
+      role: official
+      note: General USAF, Air Education & Training Command | Military
     - org: l3harris
       role: board
       from: 2023
@@ -8350,25 +8366,25 @@ persons:
     note: Whistleblower NSA, cittadino russo dal 2022
     affiliations:
     - org: cia
-      role: operative
+      role: official
       from: 2006
       to: 2009
-      note: Network security technician, Geneva posting 2007
+      note: Network security technician, Geneva posting 2007 | Operative
     - org: nsa
-      role: contractor
+      role: partner
       from: 2009
       to: 2013
-      note: Infrastructure analyst, systems administrator
+      note: Infrastructure analyst, systems administrator | Contractor
     - org: booz-allen-hamilton
-      role: contractor
+      role: partner
       from: 2013
       to: 2013
-      note: Infrastructure analyst, Hawaii NSA facility
+      note: Infrastructure analyst, Hawaii NSA facility | Contractor
     - org: dell
-      role: contractor
+      role: partner
       from: 2009
       to: 2013
-      note: NSA contractor
+      note: NSA contractor | Contractor
     - org: freedom-press-foundation
       role: chairman
       from: 2014
@@ -8572,9 +8588,9 @@ persons:
     nationality: USA
     affiliations:
     - org: governo-usa
-      role: ambassador
+      role: diplomat
       from: 2025
-      note: UN Ambassador
+      note: UN Ambassador | Ambassador
     - org: foreign-policy-initiative
       role: member
       note: Staffer before Congress
@@ -8594,10 +8610,10 @@ persons:
     note: 4-star General USAF, Commander Air Force Materiel Command (2015-2018)
     affiliations:
     - org: governo-usa
-      role: military
+      role: official
       from: 1978
       to: 2018
-      note: General USAF, Commander AFMC
+      note: General USAF, Commander AFMC | Military
     - org: rtx
       role: board
       from: 2020
@@ -8802,19 +8818,20 @@ persons:
       to: 1975
       note: Treasurer 1954-60, Director 1960-75, EVP 1966-75
     - org: federal-reserve-new-york
-      role: economist
+      role: professor
       from: 1936
       to: 1938
+      note: economist
     - org: harvard-university
-      role: student
+      role: alumni
       from: 1931
       to: 1936
-      note: MA 1934, PhD 1936
+      note: MA 1934, PhD 1936 | Student
     - org: mit
-      role: student
+      role: alumni
       from: 1927
       to: 1931
-      note: BS
+      note: BS | Student
     - org: jp-morgan-co
       role: board
       note: Director, Advisory Committee Morgan Guaranty Trust
@@ -8947,7 +8964,7 @@ persons:
     nationality: ITA
     affiliations:
     - org: collegio-europa
-      role: alumnus
+      role: alumni
       from: 1981
       to: 1982
     - org: collegio-europa
@@ -9010,8 +9027,8 @@ persons:
       role: advisor
       note: Counselor
     - org: sais
-      role: academic
-      note: Distinguished Practitioner in Residence, Merrill Center
+      role: professor
+      note: Distinguished Practitioner in Residence, Merrill Center | academic
     relations:
     - person: dick-cheney
       type: colleague
@@ -9406,9 +9423,9 @@ persons:
     nationality: IRN
     affiliations:
     - org: irgc
-      role: commander
+      role: official
       from: 2020
-      note: Comandante Quds Force
+      note: Comandante Quds Force | commander
   esmail-khatib:
     born: 1961
     nationality: IRN
@@ -9422,8 +9439,9 @@ persons:
     nationality: IRN
     affiliations:
     - org: quds-force
-      role: commander
+      role: official
       from: 2020
+      note: commander
   espen-barth-eide:
     born: 1964
     nationality: NOR
@@ -10029,9 +10047,9 @@ persons:
       from: 1920
       note: Segretario Arnaldo Mussolini
     - org: siap
-      role: intermediary
+      role: advisor
       from: 1924
-      note: Ricevette tangente 1M lire
+      note: Ricevette tangente 1M lire | intermediary
     - org: corriere-italiano
       role: executive
       from: 1923
@@ -10134,16 +10152,16 @@ persons:
     note: Whistleblower Facebook/Meta, Facebook Papers 2021
     affiliations:
     - org: meta
-      role: operative
+      role: official
       from: 2019
       to: 2021
-      note: Product manager, Civic Integrity team
+      note: Product manager, Civic Integrity team | Operative
     - org: google
-      role: operative
-      note: Product manager, ranking systems
+      role: official
+      note: Product manager, ranking systems | Operative
     - org: pinterest
-      role: operative
-      note: Product manager, algorithmic systems
+      role: official
+      note: Product manager, algorithmic systems | Operative
   francesca-carlesi:
     nationality: GBR
     note: Former Bridgepoint Capital, McKinsey, Barclays, Intesa SanPaolo. Managing Director Deutsche Bank.
@@ -10152,7 +10170,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: mckinsey
-      role: consultant
+      role: advisor
+      note: Consultant
     - org: deutsche-bank
       role: executive
   francesco-caio:
@@ -10903,15 +10922,15 @@ persons:
       role: board
       note: Royal Dutch Petroleum
     - org: federal-reserve-new-york
-      role: economist
+      role: professor
       from: 1939
       to: 1939
-      note: Senior Statistician, summer
+      note: Senior Statistician, summer | economist
     - org: harvard-university
-      role: student
+      role: alumni
       from: 1936
       to: 1947
-      note: MA 1938, PhD 1947; Instructor 1938-40
+      note: MA 1938, PhD 1947; Instructor 1938-40 | Student
     - org: princeton
       role: professor
       from: 1940
@@ -11051,10 +11070,10 @@ persons:
       role: member
       note: Task Force co-chair (Belt and Road)
     - org: governo-usa
-      role: military
+      role: official
       from: 2007
       to: 2011
-      note: Chief of Naval Operations
+      note: Chief of Naval Operations | Military
     - org: northrop-grumman
       role: board
       note: Former CNO
@@ -11307,7 +11326,7 @@ persons:
       from: 1989
       to: 1993
     - org: yale-university
-      role: alumnus
+      role: alumni
       from: 1945
       to: 1948
       note: BA Economics 1948; Skull and Bones 1948
@@ -11441,12 +11460,12 @@ persons:
       to: 2009
       note: 43rd President
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1973
       to: 1975
       note: MBA
     - org: yale-university
-      role: alumnus
+      role: alumni
       from: 1964
       to: 1968
       note: BA History, DKE President
@@ -11600,8 +11619,8 @@ persons:
     note: CEO Sberbank dal 2007, ex Ministro Economia 2000-2007, St Petersburg connection
     affiliations:
     - org: wef
-      role: speaker
-      note: Davos speaker, advocated state stake reduction in Russian banks
+      role: member
+      note: Davos speaker, advocated state stake reduction in Russian banks | Speaker
     - org: governo-russia
       role: minister
       from: 2000
@@ -12481,7 +12500,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: undp
-      role: ambassador
+      role: diplomat
+      note: Ambassador
   hadia-tajik:
     born: 1983
     nationality: NOR
@@ -12519,9 +12539,9 @@ persons:
     nationality: ISR-USA
     affiliations:
     - org: aipac
-      role: donor
+      role: member
       from: 2002
-      note: major donor $2M+
+      note: major donor $2M+ | Donor
   hakan-fidan:
     born: 1968
     nationality: TUR
@@ -12790,15 +12810,15 @@ persons:
     nationality: USA
     affiliations:
     - org: governo-usa
-      role: military
+      role: official
       from: 1978
       to: 2018
-      note: Admiral, PACOM Commander
+      note: Admiral, PACOM Commander | Military
     - org: l3harris
-      role: military
+      role: official
       from: 1978
       to: 2018
-      note: Admiral, PACOM Commander
+      note: Admiral, PACOM Commander | Military
   harry-oppenheimer:
     born: 1908
     died: 2000
@@ -12988,7 +13008,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: unido
-      role: ambassador
+      role: diplomat
+      note: Ambassador
   helena-helmersson:
     born: 1973
     nationality: SWE
@@ -13055,7 +13076,7 @@ persons:
     nationality: DNK
     affiliations:
     - org: collegio-europa
-      role: alumnus
+      role: alumni
     - org: meta
       role: board
     - org: governo-danimarca
@@ -13155,7 +13176,7 @@ persons:
     - org: otava
       role: chairman
     - org: hanken
-      role: alumnus
+      role: alumni
       from: 1981
   henrique-meirelles:
     born: 1945
@@ -13178,7 +13199,7 @@ persons:
       from: 2012
       note: Senior Advisor, Latin America business development
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1984
       note: Advanced Management Program (AMP), HBS; Advisory Board HKS
     - org: banco-central-brasil
@@ -13258,9 +13279,10 @@ persons:
     - org: cfr
       role: board
     - org: governo-usa
-      role: secretary-state
+      role: minister
       from: 1973
       to: 1977
+      note: Secretary of State
     - org: nsa
       role: advisor
       from: 1969
@@ -13352,7 +13374,7 @@ persons:
     nationality: USA
     affiliations:
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1968
       to: 1970
       note: MBA HBS 1970
@@ -13468,10 +13490,10 @@ persons:
     note: Whistleblower HSBC, SwissLeaks, franco-italiano
     affiliations:
     - org: hsbc-private-bank
-      role: operative
+      role: official
       from: 2001
       to: 2008
-      note: Systems engineer, database administrator
+      note: Systems engineer, database administrator | Operative
     relations:
     - person: christine-lagarde
       type: whistleblower-recipient
@@ -13493,7 +13515,7 @@ persons:
       from: 1984
       note: Young Leader 1984
     - org: yale-university
-      role: alumnus
+      role: alumni
       from: 1970
       to: 1973
       note: JD Yale Law 1973
@@ -13577,7 +13599,7 @@ persons:
       to: 1996
       note: Investment banker
     - org: harvard-business-school
-      role: alumnus
+      role: alumni
       from: 1991
       to: 1993
       note: MBA 1993; Alumni Achievement Award 2012
@@ -13637,10 +13659,10 @@ persons:
     nationality: IRN
     affiliations:
     - org: irgc
-      role: commander
+      role: official
       from: 2019
       to: 2025
-      note: Comandante in capo IRGC, ucciso raid israeliano
+      note: Comandante in capo IRGC, ucciso raid israeliano | commander
   howard-kohr:
     born: 1955
     nationality: USA
@@ -13741,7 +13763,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: mckinsey
-      role: consultant
+      role: advisor
+      note: Consultant
     - org: university-of-chicago
       role: executive
   ian-taylor:
@@ -14119,7 +14142,7 @@ persons:
     - org: international-rescue-committee
       role: board
     - org: yale-university
-      role: alumnus
+      role: alumni
       from: 1978
       to: 1980
       note: MPP Yale School of Management 1980
@@ -14650,20 +14673,20 @@ persons:
       to: 1975
       note: Chief of Counterintelligence
     - org: mi6
-      role: liaison
+      role: advisor
       from: 1943
       to: 1945
-      note: X-2 counterintelligence London/Rome
+      note: X-2 counterintelligence London/Rome | liaison
     - org: oss
       role: executive
       from: 1943
       to: 1945
       note: Capo X-2 Roma
     - org: mossad
-      role: liaison
+      role: advisor
       from: 1951
       to: 1975
-      note: CIA-Mossad liaison, rapporto privilegiato con Amos Manor e Isser Harel
+      note: CIA-Mossad liaison, rapporto privilegiato con Amos Manor e Isser Harel | liaison
     relations:
     - person: allen-dulles
       type: mentor
@@ -14718,11 +14741,11 @@ persons:
       to: 2000
       note: Co-Chair
     - org: princeton
-      role: alumnus
+      role: alumni
       to: 1952
       note: BA History, cum laude
     - org: university-of-texas
-      role: alumnus
+      role: alumni
       to: 1957
       note: JD with honors
     - org: baker-botts
@@ -14855,10 +14878,10 @@ persons:
     note: Retired 4-star General USMC, "Mad Dog"
     affiliations:
     - org: governo-usa
-      role: secretary of defense
+      role: minister
       from: 2017
       to: 2018
-      note: 26th SecDef, resigned over Syria withdrawal
+      note: 26th SecDef, resigned over Syria withdrawal | Secretary of Defense
     - org: general-dynamics
       role: board
       from: 2013
@@ -14895,7 +14918,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: mckinsey
-      role: consultant
+      role: advisor
+      note: Consultant
     - org: dalberg
       role: partner
   james-taiclet:
@@ -15259,10 +15283,10 @@ persons:
     nationality: USA
     affiliations:
     - org: governo-usa
-      role: military
+      role: official
       from: 1962
       to: 1997
-      note: Lieutenant General, US Army
+      note: Lieutenant General, US Army | Military
     - org: jinsa
       role: member
       from: 1998
@@ -15278,7 +15302,7 @@ persons:
       to: 2003
       note: President
     - org: florida-state-university
-      role: alumnus
+      role: alumni
       from: 1958
       to: 1962
       note: BA History
@@ -15709,8 +15733,8 @@ persons:
     nationality: USA
     affiliations:
     - org: bytedance
-      role: investor
-      note: ~7% stake via SIG (15% total), worth ~$21B
+      role: shareholder
+      note: ~7% stake via SIG (15% total), worth ~$21B | investor
     - org: cato-institute
       role: board
       to: 2022
@@ -15720,8 +15744,8 @@ persons:
       from: 1987
       note: Co-founder, 51% ownership
     - org: club-for-growth
-      role: donor
-      note: Major donor, $32M+ total
+      role: member
+      note: Major donor, $32M+ total | Donor
   jeffrey-flier:
     born: 1948
     nationality: USA
@@ -16217,7 +16241,7 @@ persons:
       from: 2019
       note: Owner
     - org: yale-university
-      role: alumnus
+      role: alumni
       from: 1987
       to: 1990
       note: JD Yale Law 1990; co-founder Alibaba
@@ -16610,7 +16634,7 @@ persons:
     nationality: USA
     affiliations:
     - org: yale-university
-      role: alumnus
+      role: alumni
       from: 1962
       to: 1966
       note: BA Political Science 1966; Skull and Bones 1966
@@ -17016,10 +17040,10 @@ persons:
       role: advisor
       note: International Advisory Board
     - org: credit-suisse
-      role: trainee
+      role: employee
       from: 1961
       to: 1962
-      note: Geneva office
+      note: Geneva office | trainee
     - org: ab-inbev
       role: board
       from: 2004
@@ -17060,7 +17084,7 @@ persons:
       role: member
       note: Latin America Conservation Council
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1956
       to: 1961
       note: BA Economics 1961, endowed professorship
@@ -17365,10 +17389,10 @@ persons:
       from: 2025
       note: Presidente
     - org: governo-lebanon
-      role: military
+      role: official
       from: 2017
       to: 2025
-      note: Comandante LAF (Lebanese Armed Forces)
+      note: Comandante LAF (Lebanese Armed Forces) | Military
     - org: lau
       role: alumni
       note: BA Political Science
@@ -17389,10 +17413,10 @@ persons:
     note: 19th Chairman Joint Chiefs of Staff (2015-2019)
     affiliations:
     - org: governo-usa
-      role: military
+      role: official
       from: 2015
       to: 2019
-      note: Chairman Joint Chiefs of Staff
+      note: Chairman Joint Chiefs of Staff | Military
     - org: lockheed-martin
       role: board
       from: 2020
@@ -17756,10 +17780,10 @@ persons:
     nationality: ITA
     affiliations:
     - org: governo-italia
-      role: military
+      role: official
       from: 1929
       to: 1945
-      note: Regia Marina, Comandante Decima MAS
+      note: Regia Marina, Comandante Decima MAS | Military
     relations:
     - person: james-angleton
       type: asset
@@ -17904,7 +17928,7 @@ persons:
       to: 2019
       note: CEO
     - org: hanken
-      role: alumnus
+      role: alumni
       from: 1980
   karin-von-hippel:
     nationality: USA
@@ -18257,9 +18281,10 @@ persons:
     note: Nipote di Theodore Roosevelt, capo operativo CIA per Operation Ajax
     affiliations:
     - org: cia
-      role: officer
+      role: official
       from: 1950
       to: 1958
+      note: officer
   ketevan-bochorishvili:
     nationality: GEO
     note: CEO Anaklia City
@@ -18316,13 +18341,15 @@ persons:
     note: Crown Prince of Abu Dhabi since 2023
     affiliations:
     - org: governo-uae
-      role: crown-prince
+      role: leader
+      note: Crown Prince
   khalid-bin-ahmed-al-khalifa:
     born: 1960
     nationality: BHR
     affiliations:
     - org: wef
-      role: speaker
+      role: member
+      note: Speaker
     - org: governo-bahrain
       role: minister
       from: 2005
@@ -18442,10 +18469,10 @@ persons:
       to: 1951
       note: Head of counterespionage, Washington liaison
     - org: kgb
-      role: agent
+      role: official
       from: 1934
       to: 1988
-      note: Double agent, defected 1963
+      note: Double agent, defected 1963 | Agent
     relations:
     - person: james-angleton
       type: colleague
@@ -18527,10 +18554,10 @@ persons:
     nationality: USA
     affiliations:
     - org: governo-usa
-      role: military
+      role: official
       from: 1975
       to: 2013
-      note: Admiral, Dir Naval Nuclear Propulsion
+      note: Admiral, Dir Naval Nuclear Propulsion | Military
     - org: huntington-ingalls
       role: chairman
       from: 2020
@@ -19062,9 +19089,9 @@ persons:
       to: 2002
       note: Nominato da Steve Jobs, dimesso per assenze
     - org: tony-blair-institute
-      role: donor
+      role: member
       from: 2021
-      note: 257m-gbp-donation
+      note: 257m-gbp-donation | Donor
     - org: paramount-global
       role: owner
       from: 2025
@@ -19675,8 +19702,8 @@ persons:
     nationality: HKG
     affiliations:
     - org: boyu-capital
-      role: investor
-      note: Early investor via Li Ka Shing Foundation, helped raise $1B first fund
+      role: shareholder
+      note: Early investor via Li Ka Shing Foundation, helped raise $1B first fund | investor
   li-qiang:
     born: 1959
     nationality: CHN
@@ -19702,8 +19729,9 @@ persons:
     note: Founder Chairman Geely. Acquired Volvo, Lotus, 10% Mercedes. Self-made billionaire.
     affiliations:
     - org: geely
-      role: founder-chairman
+      role: founder
       from: 1986
+      note: Chairman
   li-xi:
     born: 1956
     nationality: CHN
@@ -20011,9 +20039,9 @@ persons:
     note: Retired 4-star General, CENTCOM Commander
     affiliations:
     - org: governo-usa
-      role: secretary of defense
+      role: minister
       from: 2021
-      note: 28th SecDef, needed congressional waiver
+      note: 28th SecDef, needed congressional waiver | Secretary of Defense
     - org: raytheon
       role: board
       from: 2016
@@ -20660,8 +20688,9 @@ persons:
       from: 2021
       note: First Deputy Ruler Dubai, Deputy PM, Minister of Finance
     - org: icd
-      role: vice-chairman
+      role: chairman
       from: 2015
+      note: Vice
   malcolm-rifkind:
     born: 1946
     nationality: GBR
@@ -20748,8 +20777,8 @@ persons:
       from: 2008
       note: Owner
     - org: telegraph-group
-      role: investor
-      note: Failed acquisition via RedBird IMI 2023-2024, blocked by UK govt
+      role: shareholder
+      note: Failed acquisition via RedBird IMI 2023-2024, blocked by UK govt | investor
     - org: eia
       role: chairman
     relations:
@@ -21246,8 +21275,9 @@ persons:
       2025. Breast cancer diagnosis Sep 2025. Widow of Tigran Keosayan (died Sep 2025).'
     affiliations:
     - org: rt
-      role: editor-in-chief
+      role: editor
       from: 2005
+      note: Editor-in-Chief
     - org: rossiya-segodnya
       role: executive
       from: 2013
@@ -21264,7 +21294,7 @@ persons:
     nationality: GRC
     affiliations:
     - org: collegio-europa
-      role: alumnus
+      role: alumni
     - org: commissione-ue
       role: leader
       from: 2019
@@ -21653,10 +21683,10 @@ persons:
     note: West Point, Gulf War veteran, PhD GWU
     affiliations:
     - org: governo-usa
-      role: secretary of defense
+      role: minister
       from: 2019
       to: 2020
-      note: 27th SecDef, fired by Trump
+      note: 27th SecDef, fired by Trump | Secretary of Defense
     - org: raytheon
       role: executive
       from: 2010
@@ -21833,10 +21863,10 @@ persons:
     note: General USAF, Chief of Staff of Air Force (2012-2016)
     affiliations:
     - org: governo-usa
-      role: military
+      role: official
       from: 2012
       to: 2016
-      note: Chief of Staff of the Air Force
+      note: Chief of Staff of the Air Force | Military
     - org: northrop-grumman
       role: board
       note: Former CSAF
@@ -21892,7 +21922,7 @@ persons:
     - org: breakthrough-energy
       role: founder
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 2002
       to: 2004
       note: Attended 2002-04, dropped out to found Facebook, honorary degree 2017
@@ -22585,7 +22615,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: unaids
-      role: ambassador
+      role: diplomat
+      note: Ambassador
   michael-bambang-hartono:
     born: 1939
     nationality: IDN
@@ -22613,7 +22644,7 @@ persons:
       from: 2024
       note: Donor $50M (2024)
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1964
       to: 1966
       note: MBA HBS 1966, major donor Bloomberg Center
@@ -23055,8 +23086,8 @@ persons:
     note: Ex-CIA, Under Secretary of Defense for Intelligence (2011-2015)
     affiliations:
     - org: cia
-      role: officer
-      note: Operations officer, Afghan program
+      role: official
+      note: Operations officer, Afghan program | officer
     - org: governo-usa
       role: minister
       from: 2011
@@ -23296,10 +23327,10 @@ persons:
       from: 2006
       note: Fondatore e Presidente
     - org: governo-romania
-      role: ambassador
+      role: diplomat
       from: 1996
       to: 2000
-      note: Ambasciatore negli USA
+      note: Ambasciatore negli USA | Ambassador
     - org: governo-romania
       role: minister
       from: 2000
@@ -23331,7 +23362,7 @@ persons:
       to: 1999
       note: Co-Founder, CEO/Managing Partner
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1971
       to: 1975
       note: JD/MBA joint degree 1975
@@ -23348,9 +23379,10 @@ persons:
     nationality: IRN
     affiliations:
     - org: governo-iran
-      role: foreign-minister
+      role: minister
       from: 2013
       to: 2021
+      note: Foreign Minister
   mohammad-khatami:
     born: 1943
     nationality: IRN
@@ -23365,10 +23397,10 @@ persons:
     nationality: IRN
     affiliations:
     - org: impero-pahlavi
-      role: prime-minister
+      role: leader
       from: 1951
       to: 1953
-      note: Nazionalizzo' petrolio. Deposto da colpo CIA-MI6 Operation Ajax.
+      note: Nazionalizzo' petrolio. Deposto da colpo CIA-MI6 Operation Ajax. | PM
     relations:
     - person: mohammad-reza-pahlavi
       type: adversary
@@ -23378,9 +23410,9 @@ persons:
     nationality: IRN
     affiliations:
     - org: governo-iran
-      role: vice-president
+      role: leader
       from: 2024
-      note: First Vice President
+      note: First Vice President | VP
   mohammad-reza-pahlavi:
     born: 1919
     died: 1980
@@ -23510,10 +23542,10 @@ persons:
     nationality: IRN
     affiliations:
     - org: aeoi
-      role: scientist
+      role: professor
       from: 1990
       to: 2020
-      note: head of nuclear weapons program AMAD
+      note: head of nuclear weapons program AMAD | scientist
   mojtaba-khamenei:
     born: 1969
     nationality: IRN
@@ -23885,10 +23917,10 @@ persons:
       from: 2018
       note: Young Global Leader 2018
     - org: mckinsey
-      role: consultant
+      role: advisor
       from: 2006
       to: 2009
-      note: Management consultant Jakarta
+      note: Management consultant Jakarta | Consultant
     - org: governo-indonesia
       role: minister
       from: 2019
@@ -23957,9 +23989,10 @@ persons:
       role: leader
       from: 2024
     - org: hezbollah
-      role: deputy
+      role: minister
       from: 1991
       to: 2024
+      note: Deputy
   naina-yeltsina:
     born: 1932
     nationality: RUS
@@ -24002,8 +24035,8 @@ persons:
     nationality: USA
     affiliations:
     - org: governo-usa
-      role: military
-      note: Vice Admiral, Director DISA
+      role: official
+      note: Vice Admiral, Director DISA | Military
     - org: leidos
       role: board
       from: 2024
@@ -24284,9 +24317,9 @@ persons:
     nationality: NLD
     affiliations:
     - org: uber
-      role: advisory-board
+      role: board
       from: 2016
-      note: uber-files-scandal
+      note: uber-files-scandal | advisory-board
     - org: bank-of-america
       role: advisor
       from: 2015
@@ -24319,9 +24352,10 @@ persons:
     family: rockefeller
     affiliations:
     - org: governo-usa
-      role: vice-president
+      role: leader
       from: 1974
       to: 1977
+      note: VP
   nemir-kirdar:
     born: 1936
     died: 2020
@@ -24383,7 +24417,7 @@ persons:
       role: member
       note: Regular Davos speaker
     - org: collegio-europa
-      role: alumnus
+      role: alumni
       from: 1992
       to: 1993
     - org: governo-uk
@@ -24667,20 +24701,20 @@ persons:
       from: 2024
       note: Consigliere presidenziale, settore navale
     - org: kgb
-      role: officer
+      role: official
       from: 1975
       to: 1994
-      note: Leningrad KGB, anti-smuggling unit
+      note: Leningrad KGB, anti-smuggling unit | officer
     - org: fsb-russia
       role: board
       from: 1999
       to: 2008
       note: Direttore FSB, succeduto a Putin
     - org: security-council-russia
-      role: secretary
+      role: executive
       from: 2008
       to: 2024
-      note: Segretario Consiglio di Sicurezza
+      note: Segretario Consiglio di Sicurezza | secretary
     relations:
     - person: dmitry-patrushev
       type: parent
@@ -24786,7 +24820,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: mckinsey
-      role: consultant
+      role: advisor
+      note: Consultant
     - org: ihi
       role: executive
   nobusuke-kishi:
@@ -24882,10 +24917,10 @@ persons:
     nationality: USA
     affiliations:
     - org: governo-usa
-      role: military
+      role: official
       from: 1988
       to: 1991
-      note: CENTCOM Commander
+      note: CENTCOM Commander | Military
   noubar-afeyan:
     born: 1962
     nationality: LBN-USA
@@ -24941,15 +24976,15 @@ persons:
       to: 1972
       note: Primo turco al Bilderberg, fondatore, 23 partecipazioni
     - org: nato
-      role: ambassador
+      role: diplomat
       from: 1960
       to: 1972
-      note: Permanent Representative
+      note: Permanent Representative | Ambassador
     - org: governo-uk
-      role: ambassador
+      role: diplomat
       from: 1957
       to: 1960
-      note: Ambassador to UK
+      note: Ambassador to UK | Ambassador
     - org: governo-turchia
       role: executive
       from: 1954
@@ -25620,9 +25655,10 @@ persons:
       role: ygl
       from: 2024
     - org: mckinsey
-      role: consultant
+      role: advisor
       from: 2014
       to: 2018
+      note: Consultant
     - org: governo-thailandia
       role: legislator
       from: 2023
@@ -25775,7 +25811,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: mckinsey
-      role: consultant
+      role: advisor
+      note: Consultant
     - org: telefonica
       role: executive
   patricia-stonesifer:
@@ -25834,10 +25871,10 @@ persons:
     note: Ex Boeing SVP, acting SecDef 2019
     affiliations:
     - org: governo-usa
-      role: deputy secretary of defense
+      role: minister
       from: 2017
       to: 2019
-      note: Deputy then Acting SecDef Jan-Jun 2019
+      note: Deputy then Acting SecDef Jan-Jun 2019 | Deputy Secretary of Defense
     - org: boeing
       role: executive
       from: 1986
@@ -25922,12 +25959,12 @@ persons:
       to: 2001
       note: Managing Director
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1964
       to: 1966
       note: MBA, Harvard Business School
     - org: yale-university
-      role: alumnus
+      role: alumni
       from: 1959
       to: 1963
       note: BA
@@ -25947,7 +25984,7 @@ persons:
       to: 2003
       note: Chairman & CEO, Marsh Crisis Consulting
     - org: sciences-po-paris
-      role: alumnus
+      role: alumni
       note: CEP
     relations:
     - person: colin-powell
@@ -26010,8 +26047,8 @@ persons:
       role: member
       note: Attended 2006, 2008
     - org: cfr
-      role: advisory-board
-      note: Global Board of Advisors
+      role: board
+      note: Global Board of Advisors | advisory-board
     - org: brookings
       role: board
       note: Senior Trustee, former Co-Chair International Advisory Council
@@ -26194,18 +26231,18 @@ persons:
       from: 1977
       note: Founder, President, Co-CEO
     - org: foreign-policy-initiative
-      role: donor
+      role: member
       from: 2009
       to: 2016
-      note: Primary seed donor, Elliott Management
+      note: Primary seed donor, Elliott Management | Donor
     - org: manhattan-institute
       role: chairman
       from: 2011
       note: Chairman of the Board
     - org: fdd
-      role: donor
+      role: member
       from: 2008
-      note: Second-largest contributor 2008-2011, $3.6M+
+      note: Second-largest contributor 2008-2011, $3.6M+ | Donor
     - org: paul-singer-foundation
       role: founder
       note: Founder
@@ -26226,10 +26263,10 @@ persons:
       role: founder
       from: 1921
     - org: federal-reserve
-      role: architect
+      role: advisor
       from: 1913
       to: 1918
-      note: Jekyll Island architect
+      note: Jekyll Island architect | Architect
     - org: kuhn-loeb
       role: partner
       from: 1902
@@ -26274,10 +26311,10 @@ persons:
       to: 1986
       note: Assistant Secretary of State for East Asian and Pacific Affairs
     - org: governo-usa
-      role: ambassador
+      role: diplomat
       from: 1986
       to: 1989
-      note: US Ambassador to Indonesia
+      note: US Ambassador to Indonesia | Ambassador
     - org: governo-usa
       role: minister
       from: 1989
@@ -26354,7 +26391,7 @@ persons:
       from: 2008
       note: Co-Chairman of the Board
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1997
       note: Owner/President Management Program HBS
     - org: inter-american-dialogue
@@ -26378,10 +26415,10 @@ persons:
       role: board
       note: Supervisory Board member
     - org: ucla
-      role: alumnus
+      role: alumni
       note: BA Economics and History, magna cum laude
     - org: yale-university
-      role: alumnus
+      role: alumni
       note: Graduate Program International Relations
     relations:
     - person: fernando-moreira-salles
@@ -26513,9 +26550,10 @@ persons:
       role: minister
       from: 2021
     - org: mckinsey
-      role: consultant
+      role: advisor
       from: 2007
       to: 2010
+      note: Consultant
     - org: rhodes-trust
       role: member
       from: 2005
@@ -26591,9 +26629,9 @@ persons:
     note: Storico intelligence britannica, co-fondatore Cambridge Intelligence Seminar
     affiliations:
     - org: cambridge-university
-      role: academic
+      role: professor
       from: 1982
-      note: Fellow Corpus Christi College, co-fondatore Cambridge Intelligence Seminar
+      note: Fellow Corpus Christi College, co-fondatore Cambridge Intelligence Seminar | academic
   peter-mohnen:
     nationality: DEU
     affiliations:
@@ -26647,12 +26685,13 @@ persons:
       role: steering
       to: 2014
     - org: trilaterale
-      role: chairman-europe
-      note: honorary-chairman-2010-2018
+      role: chairman
+      note: honorary-chairman-2010-2018 | Europe
     - org: wef
       role: board
     - org: cfr
-      role: advisory-board
+      role: board
+      note: advisory-board
     - org: goldman-sachs
       role: chairman
       from: 1995
@@ -26847,9 +26886,9 @@ persons:
       role: board
       from: 2020
     - org: cia
-      role: officer
+      role: official
       to: 1997
-      note: Intelligence officer before private sector
+      note: Intelligence officer before private sector | officer
     - org: governo-usa
       role: advisor
       from: 1997
@@ -27046,10 +27085,10 @@ persons:
     nationality: ITA
     affiliations:
     - org: collegio-europa
-      role: academic
+      role: professor
       from: 1992
       to: 2001
-      note: Professor of Economics (Bruges e Warsaw)
+      note: Professor of Economics (Bruges e Warsaw) | academic
     - org: fmi
       role: executive
       from: 2001
@@ -27584,14 +27623,15 @@ persons:
     nationality: IRN
     affiliations:
     - org: irgc
-      role: commander
+      role: official
       from: 1998
       to: 2020
-      note: Comandante Quds Force, ucciso drone USA Baghdad
+      note: Comandante Quds Force, ucciso drone USA Baghdad | commander
     - org: quds-force
-      role: commander
+      role: official
       from: 1998
       to: 2020
+      note: commander
     - org: hashd-al-shaabi
       role: advisor
       from: 2014
@@ -27616,7 +27656,8 @@ persons:
       role: member
       note: Law degree
     - org: club-of-rome
-      role: honorary-member
+      role: member
+      note: honorary-member
     relations:
     - person: bernhard-lippe-biesterfeld
       type: child-of
@@ -28028,7 +28069,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: imf
-      role: economist
+      role: professor
+      note: economist
     - org: central-bank-of-egypt
       role: executive
   raoul-wallenberg:
@@ -28043,10 +28085,10 @@ persons:
       to: 1945
       note: Legazione Svezia Budapest
     - org: war-refugee-board
-      role: operative
+      role: official
       from: 1944
       to: 1945
-      note: Reclutato da Iver Olsen
+      note: Reclutato da Iver Olsen | Operative
     - org: oss
       role: asset
       from: 1944
@@ -28120,7 +28162,7 @@ persons:
       role: member
       note: Speaker FII7, FII9
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1971
       to: 1973
       note: MBA HBS 1973
@@ -28143,7 +28185,7 @@ persons:
       from: 2015
       note: Independent Director
     - org: university-illinois
-      role: alumnus
+      role: alumni
       from: 1975
       to: 1979
       note: BS Computer Science, worked on PLATO system
@@ -28569,8 +28611,8 @@ persons:
     note: General USA, Commander SOCOM (2019-2022)
     affiliations:
     - org: governo-usa
-      role: military
-      note: Commander SOCOM 2019-22, 82nd Airborne
+      role: official
+      note: Commander SOCOM 2019-22, 82nd Airborne | Military
     - org: general-dynamics
       role: board
       from: 2023
@@ -28698,19 +28740,19 @@ persons:
       from: 1987
       note: Resident Fellow
     - org: lse
-      role: student
-      note: Graduate studies
+      role: alumni
+      note: Graduate studies | Student
     - org: hollinger
       role: board
       note: Executive Committee
     - org: usc
-      role: student
+      role: alumni
       to: 1964
-      note: BA International Politics 1964
+      note: BA International Politics 1964 | Student
     - org: princeton
-      role: student
+      role: alumni
       to: 1967
-      note: MA Political Science 1967
+      note: MA Political Science 1967 | Student
     - org: pnac
       role: member
       note: Signatory
@@ -28761,9 +28803,10 @@ persons:
     - org: wef
       role: member
     - org: goldman-sachs
-      role: analyst
+      role: advisor
       from: 2001
       to: 2004
+      note: Analyst
     - org: goldman-sachs
       role: advisor
       from: 2025
@@ -29108,7 +29151,7 @@ persons:
       to: 2009
       note: Chairman Executive Committee, then Senior Counselor
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1956
       to: 1960
       note: BA Economics 1960 summa cum laude
@@ -29692,9 +29735,10 @@ persons:
     nationality: IRN
     affiliations:
     - org: governo-iran
-      role: supreme-leader
+      role: leader
       from: 1979
       to: 1989
+      note: Supreme Leader
     relations:
     - person: hassan-khomeini
       type: grandfather
@@ -29713,8 +29757,9 @@ persons:
       role: founder
       note: chairman-emeritus
     - org: fox-corporation
-      role: chairman-emeritus
+      role: chairman
       from: 2019
+      note: Emeritus
   russell-hardy:
     born: 1965
     nationality: GBR
@@ -29888,8 +29933,8 @@ persons:
       Global Initiative, Future Investment Initiative.
     affiliations:
     - org: wef
-      role: speaker
-      note: Regular speaker at Davos, Future Investment Initiative, Clinton Global Initiative
+      role: member
+      note: Regular speaker at Davos, Future Investment Initiative, Clinton Global Initiative | Speaker
     - org: cambridge-university
       role: member
       from: 1992
@@ -29900,8 +29945,8 @@ persons:
       from: 2020
       note: Prime Minister, Crown Prince dal 1999
     - org: manama-dialogue
-      role: host
-      note: Hosts annual Manama Dialogue
+      role: member
+      note: Hosts annual Manama Dialogue | host
     - org: bahrain-edb
       role: chairman
       from: 2002
@@ -29963,9 +30008,9 @@ persons:
       from: 2015
       note: Chairman of the board
     - org: stripe
-      role: investor
+      role: shareholder
       from: 2011
-      note: Early investor, ~2% stake
+      note: Early investor, ~2% stake | investor
     - org: y-combinator
       role: executive
       from: 2011
@@ -30198,7 +30243,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: morgan-stanley
-      role: vice-chairman
+      role: chairman
+      note: Vice
     - org: gro-intelligence
       role: founder
   sara-saeed-khurram:
@@ -30294,10 +30340,10 @@ persons:
     nationality: USA
     affiliations:
     - org: university-of-chicago
-      role: student
+      role: alumni
       from: 1926
       to: 1930
-      note: BA Archaeology, graduate studies criminology
+      note: BA Archaeology, graduate studies criminology | Student
     - org: industrial-areas-foundation
       role: founder
       from: 1940
@@ -30925,10 +30971,10 @@ persons:
     nationality: IRN
     affiliations:
     - org: impero-pahlavi
-      role: prime-minister
+      role: leader
       from: 1979
       to: 1979
-      note: Ultimo PM, 37 giorni. Assassinato a Parigi 1991 da agenti iraniani.
+      note: Ultimo PM, 37 giorni. Assassinato a Parigi 1991 da agenti iraniani. | PM
   shari-arison:
     born: 1957
     nationality: ISR-USA
@@ -30970,9 +31016,9 @@ persons:
       role: chairman
       from: 2017
     - org: governo-uae
-      role: national-security-advisor
+      role: advisor
       from: 2016
-      note: Anche presidente Abu Dhabi Investment Authority e Chairman MGX
+      note: Anche presidente Abu Dhabi Investment Authority e Chairman MGX | National Security Advisor
     - org: adia
       role: chairman
     - org: adq
@@ -31026,8 +31072,8 @@ persons:
     nationality: ISR
     affiliations:
     - org: wef
-      role: speaker
-      note: Davos 1994, 2001 (con Arafat)
+      role: member
+      note: Davos 1994, 2001 (con Arafat) | Speaker
     - org: governo-israele
       role: minister
       note: Foreign Minister, Prime Minister, President
@@ -31340,7 +31386,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: morgan-stanley
-      role: banker
+      role: employee
+      note: banker
     - org: bizreach
       role: founder
   somchai-wongsawat:
@@ -31584,9 +31631,9 @@ persons:
     note: Owns 26.8% BMW. Deputy Chair Supervisory Board. Net worth $21.6B.
     affiliations:
     - org: bmw
-      role: vice-chairman
+      role: chairman
       from: 1999
-      note: Owns 26.8%
+      note: Owns 26.8% | Vice
   stefan-schaible:
     nationality: DEU
     affiliations:
@@ -31828,12 +31875,12 @@ persons:
       to: 1985
       note: Managing Director, Chair M&A Committee
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1969
       to: 1972
       note: MBA HBS 1972, major donor
     - org: yale-university
-      role: alumnus
+      role: alumni
       from: 1965
       to: 1969
       note: BA 1969; Skull and Bones; major donor Schwarzman Center
@@ -31884,12 +31931,12 @@ persons:
       to: 2014
       note: CEO
     - org: stanford-university
-      role: alumnus
+      role: alumni
       from: 1979
       to: 1980
       note: MBA incomplete
     - org: harvard-university
-      role: alumnus
+      role: alumni
       from: 1973
       to: 1977
       note: AB Applied Mathematics 1977 magna cum laude
@@ -32976,9 +33023,9 @@ persons:
       from: 1982
       note: Founder
     - org: newsmax
-      role: investor
+      role: shareholder
       from: 2025
-      note: Circa 25% stake via Conyers Investments
+      note: Circa 25% stake via Conyers Investments | investor
     - org: common-sense-society
       role: chairman
       from: 2021
@@ -33087,9 +33134,9 @@ persons:
     nationality: USA
     affiliations:
     - org: wef
-      role: participant
+      role: member
       from: 2019
-      note: Davos 2019 participant
+      note: Davos 2019 participant | participant
     - org: apple
       role: executive
       from: 2011
@@ -33173,9 +33220,10 @@ persons:
       from: 2010
       to: 2018
     - org: sarb
-      role: governor
+      role: leader
       from: 1999
       to: 2009
+      note: Governor
     - org: governo-sudafrica
       role: minister
       from: 1994
@@ -33554,9 +33602,9 @@ persons:
     - org: african-leadership-institute
       role: chairman
     - org: university-cape-town
-      role: faculty
+      role: professor
       from: 2015
-      note: Honorary Professor, Mandela School
+      note: Honorary Professor, Mandela School | faculty
     relations:
     - person: maria-ramos
       type: spouse
@@ -33845,7 +33893,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: mckinsey
-      role: consultant
+      role: advisor
+      note: Consultant
     - org: ogin
       role: executive
   valerie-keller:
@@ -33872,9 +33921,9 @@ persons:
       to: 2024
       note: CEO (22 anni)
     - org: prysmian
-      role: vice-chairman
+      role: chairman
       from: 2024
-      note: Vice-Chairman
+      note: Vice-Chairman | Vice
     - org: brembo
       role: board
       from: 2017
@@ -34504,18 +34553,18 @@ persons:
     note: President Russia 2000-2008, 2012-present. PM 1999, 2008-2012. KGB 1975-1991. FSB Director 1998-1999
     affiliations:
     - org: wef
-      role: speaker
+      role: member
       from: 1992
       to: 2021
-      note: Multiple Davos appearances, met Schwab 1992
+      note: Multiple Davos appearances, met Schwab 1992 | Speaker
     - org: governo-russia
       role: president
       from: 2000
     - org: kgb
-      role: officer
+      role: official
       from: 1975
       to: 1991
-      note: Foreign intelligence officer, Lt. Colonel. Dresden 1985-1990
+      note: Foreign intelligence officer, Lt. Colonel. Dresden 1985-1990 | officer
     - org: fsb-russia
       role: board
       from: 1998
@@ -34740,9 +34789,9 @@ persons:
     note: 'Founder Chairman CEO BYD. Owns 17%. Forbes: China 11th richest ($24.4B).'
     affiliations:
     - org: byd
-      role: founder-chairman-ceo
+      role: founder
       from: 1995
-      note: Owns 17%
+      note: Owns 17% | Chairman
   wang-guan:
     nationality: CHN
     note: Corrispondente capo CGTN
@@ -34953,10 +35002,10 @@ persons:
       to: 2001
       note: Technical Director SIGINT
     - org: army-security-agency
-      role: operative
+      role: official
       from: 1965
       to: 1969
-      note: Vietnam War
+      note: Vietnam War | Operative
     - org: entity-mapping-llc
       role: founder
       from: 2001
@@ -35038,10 +35087,10 @@ persons:
       to: 1929
       note: US Attorney, Asst Attorney General Antitrust
     - org: mi6
-      role: liaison
+      role: advisor
       from: 1940
       to: 1945
-      note: Coordinamento OSS-SOE-MI6
+      note: Coordinamento OSS-SOE-MI6 | liaison
     - org: oss
       role: founder
       from: 1942
@@ -35152,7 +35201,8 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
     - org: microsoft
-      role: former
+      role: member
+      note: Former
     - org: governo-giappone
       role: advisor
   william-soeryadjaya:
@@ -35430,8 +35480,9 @@ persons:
       from: 2012
       note: Presidente e Segretario Generale CCP
     - org: ccp
-      role: general-secretary
+      role: leader
       from: 2012
+      note: General Secretary
   xiong-qunli:
     nationality: CHN
     affiliations:
@@ -35560,12 +35611,12 @@ persons:
     nationality: PSE
     affiliations:
     - org: wef
-      role: speaker
-      note: Davos 1994, 1997, 2001
+      role: member
+      note: Davos 1994, 1997, 2001 | Speaker
     - org: onu
-      role: speaker
+      role: member
       from: 1974
-      note: First PLO address to UN General Assembly
+      note: First PLO address to UN General Assembly | Speaker
     - org: plo
       role: chairman
       from: 1969
@@ -35649,10 +35700,10 @@ persons:
     nationality: ISR
     affiliations:
     - org: governo-usa
-      role: ambassador
+      role: diplomat
       from: 1968
       to: 1973
-      note: Ambassador to USA
+      note: Ambassador to USA | Ambassador
     - org: governo-israele
       role: leader
       from: 1992
@@ -35751,8 +35802,8 @@ persons:
     nationality: ISR
     affiliations:
     - org: cia
-      role: liaison
-      note: George J. Tenet Award 2021
+      role: advisor
+      note: George J. Tenet Award 2021 | liaison
     - org: softbank
       role: executive
       from: 2021
@@ -35935,14 +35986,14 @@ persons:
       role: advisor
       note: Counselor
     - org: columbia-university
-      role: academic
+      role: professor
       from: 1979
       to: 1986
-      note: Assistant Professor Political Science
+      note: Assistant Professor Political Science | academic
     - org: pnac
-      role: signatory
+      role: member
       from: 1997
-      note: 1998 Iraq letter signatory
+      note: 1998 Iraq letter signatory | signatory
     - org: university-chicago
       role: alumni
       note: PhD Political Science (under Albert Wohlstetter)

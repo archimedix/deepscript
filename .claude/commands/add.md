@@ -174,27 +174,7 @@ Per i governi, cerca e documenta:
 | org:Media | `templates/media.md` | `docs/media/` |
 | gov | `templates/gov.md` | `docs/government/` |
 
-**Sub-label Organization → Cartella:**
-
-| Sub-label | Cartella |
-|-----------|----------|
-| Forum | `docs/forum/` |
-| Bank | `docs/bank/` |
-| CentralBank | `docs/central-bank/` |
-| AssetManager | `docs/asset-manager/` |
-| PrivateEquity | `docs/private-equity/` |
-| SWF | `docs/swf/` |
-| Government | `docs/government/` |
-| Foundation | `docs/foundation/` |
-| ThinkTank | `docs/think-tank/` |
-| Company | `docs/company/` |
-| Defense | `docs/defense/` |
-| University | `docs/university/` |
-| Pharma | `docs/pharma/` |
-| Agency | `docs/agency/` |
-| SportsClub | `docs/sports-club/` |
-| Automaker | `docs/automaker/` |
-| Media | `docs/media/` |
+**Sub-label → Cartella**: Vedi `db/schema.yaml` sezione `docs_path_mapping`
 
 **Workflow scheda:**
 1. Leggi il template: `Read templates/{tipo}.md`
@@ -253,19 +233,11 @@ SET o:Company, o.name = 'Nome Organizzazione', o.status = 'active'
 
 ---
 
-## Reference: Role Mapping
+## Reference
 
-| Role | Uso |
-|------|-----|
-| leader | Capo governo/stato |
-| minister | Ministro |
-| executive | CEO, Director |
-| chairman | Chairman, Co-chairman |
-| founder | Fondatore |
-| board | Membro board |
-| partner | Partner |
-| advisor | Consigliere |
-| member | Membro generico |
-| steering | Comitato direttivo (forum) |
-| ygl | WEF Young Global Leader |
-| glt | WEF Global Leader for Tomorrow |
+**Schema completo**: `db/schema.yaml`
+- `org_sublabels`: Sublabels Organization disponibili
+- `affiliation_roles`: Ruoli Person → Organization
+- `stake_roles`: Ruoli Organization → Organization
+- `type_mapping`: Mapping tipo → sublabel
+- `docs_path_mapping`: Mapping label → cartella docs

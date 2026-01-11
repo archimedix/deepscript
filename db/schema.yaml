@@ -1,17 +1,12 @@
-# DeepScript - Schema v2
-# Consolidated enums and configuration
-# All field names and enum values in English
-# Generated: 2025-12-06
+# DeepScript - Schema v3
+# Single Source of Truth for database structure
+# Used by: CLAUDE.md, migration scripts, skills (/add, /export, /import)
+# Updated: 2026-01-11
 
 meta:
-  version: 2
-  updated: 2025-12-06
-  source_files:
-    - persone.yaml
-    - istituzioni.yaml
-    - media.yaml
-    - eventi.yaml
-    - famiglie.yaml
+  version: 3
+  updated: 2026-01-11
+  description: Single source of truth for DeepScript database schema
 
 # =============================================================================
 # NODE TYPES
@@ -34,11 +29,96 @@ org_sublabels:
   - HedgeFund       # Bridgewater, Soros Fund
   - SWF             # Sovereign wealth funds
   - Government      # National executives
+  - Party           # Political parties
   - Foundation      # Rockefeller, Gates, Open Society
   - ThinkTank       # Brookings, ISPI, Aspen
   - University      # Harvard, Oxford, Bocconi
   - Agency          # UN, IMF, NATO, EU Commission
   - Media           # News, TV, agency
+  - Defense         # Lockheed Martin, RTX, BAE, Leonardo
+  - Pharma          # Pfizer, Moderna, Roche, GSK
+  - SportsClub      # PSG, Manchester City, AC Milan
+  - Automaker       # BMW, Toyota, Stellantis, Geely
+
+# =============================================================================
+# RELATIONSHIP TYPES
+# =============================================================================
+
+relationship_types:
+  AFFILIATED_WITH:
+    from: Person
+    to: Organization
+    properties:
+      - role          # from affiliation_roles enum
+      - from          # start year
+      - to            # end year (null = current)
+      - note          # details
+
+  STAKE_IN:
+    from: Organization
+    to: Organization
+    properties:
+      - role          # from stake_roles enum
+      - share         # percentage (0.0-1.0) or string "majority"
+      - from
+      - to
+      - note
+
+  MEMBER_OF:
+    from: Person
+    to: Family
+    properties:
+      - generation    # 1, 2, 3...
+      - role          # from family_roles enum
+
+  RELATED_TO:
+    from: Person
+    to: Person
+    properties:
+      - type          # from person_relation_types enum
+      - note          # details: "father", "rival", etc.
+
+  PARTICIPATED_IN:
+    from: Person
+    to: Event
+    properties:
+      - role          # from event_participation_roles enum
+
+  INVOLVED_IN:
+    from: Organization
+    to: Event
+    properties:
+      - role          # from event_involvement_roles enum
+
+# =============================================================================
+# DOCS PATH MAPPING (label -> folder in docs/)
+# =============================================================================
+
+docs_path_mapping:
+  # Node types
+  Person: persons
+  Family: family
+  Event: events
+  # Organization sublabels
+  Forum: forum
+  Bank: bank
+  CentralBank: central-bank
+  AssetManager: asset-manager
+  PrivateEquity: private-equity
+  HedgeFund: hedge-fund
+  SWF: swf
+  Government: government
+  Party: party
+  Foundation: foundation
+  ThinkTank: think-tank
+  Company: company
+  University: university
+  Agency: agency
+  Media: media
+  Defense: defense
+  Pharma: pharma
+  SportsClub: sports-club
+  Automaker: automaker
 
 # =============================================================================
 # ENUMS
@@ -87,7 +167,7 @@ enums:
     # founder (reused)
     - president     # note: "Rector", "Chancellor", "Provost"
     - professor     # note: "Dean", "Associate", "Researcher"
-    - alumnus       # note: "Fellow", "MBA 1985"
+    - alumni        # note: "Fellow", "MBA 1985"
     - trustee
 
     # Foundation (4 roles)
@@ -100,9 +180,10 @@ enums:
     - editor        # note: "Editor-in-Chief", "Columnist"
     - journalist    # note: "Anchor", "Correspondent"
 
-    # Agency (4 roles)
+    # Agency (5 roles)
     # leader, diplomat, official (reused)
     - commissioner  # note: "Representative", "Board Member"
+    - asset         # note: intelligence asset (recruited, not employed)
 
     # WEF-specific
     - ygl           # Young Global Leader (post-2004)
@@ -180,11 +261,13 @@ enums:
     - finance       # note: "banking", "insurance", "asset-management"
     - tech          # note: "software", "hardware", "telecom", "semiconductor"
     - energy        # note: "oil-gas", "utilities", "renewables"
-    - industry      # note: "automotive", "aerospace", "defense", "manufacturing"
+    - defense       # note: "aerospace", "military"
+    - industry      # note: "automotive", "manufacturing"
     - consumer      # note: "retail", "luxury", "food-beverage"
-    - healthcare    # note: "pharma"
+    - healthcare    # note: "pharma", "biotech"
     - services      # note: "consulting", "legal", "real-estate"
     - media         # note: "entertainment"
+    - transport     # note: "logistics", "shipping", "airlines"
 
   # ---------------------------------------------------------------------------
   # Media types (for Media sub-label)
@@ -205,7 +288,170 @@ enums:
     - merged
 
 # =============================================================================
+# TYPE MAPPING (yaml type value -> Neo4j sub-label)
+# Used by import scripts to assign correct labels
+# =============================================================================
+
+type_mapping:
+  # Forums
+  forum: Forum
+  network: Forum
+  programma: Forum
+
+  # Banks
+  bank: Bank
+  investment-bank: Bank
+  central-bank: CentralBank
+  centralbank: CentralBank
+
+  # Asset management
+  asset-manager: AssetManager
+  assetmanager: AssetManager
+  private-equity: PrivateEquity
+  privateequity: PrivateEquity
+  hedge-fund: HedgeFund
+  hedgefund: HedgeFund
+  sovereign-wealth-fund: SWF
+  swf: SWF
+  venture-capital: PrivateEquity
+
+  # Corporations
+  company: Company
+  corporate: Company
+  corporation: Company
+  holding: Company
+  tech: Company
+  oil: Company
+  telecom: Company
+  retail: Company
+  moto: Company
+  assicurazioni: Company
+  airline: Company
+  infrastruttura: Company
+  joint-venture: Company
+  consulenza: Company
+
+  # Defense
+  defense: Defense
+  difesa: Defense
+
+  # Pharma
+  pharma: Pharma
+  farmaceutica: Pharma
+
+  # Sports
+  sports-club: SportsClub
+  sportsclub: SportsClub
+  club-sportivo: SportsClub
+
+  # Automotive
+  automaker: Automaker
+  auto: Automaker
+  automotive: Automaker
+
+  # Government & Agencies
+  government: Government
+  governo: Government
+  party: Party
+  partito: Party
+  agency: Agency
+  agenzia: Agency
+  organizzazione-internazionale: Agency
+  istituzione-ue: Agency
+  alleanza-militare: Agency
+  istituzione-finanziaria: Agency
+  cartello: Agency
+
+  # Other orgs
+  foundation: Foundation
+  fondazione: Foundation
+  think-tank: ThinkTank
+  thinktank: ThinkTank
+  advocacy: ThinkTank
+  lobby: ThinkTank
+  university: University
+  universita: University
+  media: Media
+  testata: Media
+  gruppo: Media
+  broadcaster: Media
+
+# =============================================================================
+# ROLE MAPPING (legacy Italian roles -> English)
+# =============================================================================
+
+role_mapping:
+  # Compound roles -> split into list
+  ceo-fondatore: [founder, executive]
+  fondatore-ceo: [founder, executive]
+  fondatore-chairman: [founder, chairman]
+  fondatore-direttore: [founder, executive]
+  fondatore-rettore: [founder, president]
+  fondatore-editore: [founder, editor]
+
+  # Government roles
+  capo-governo: leader
+  capo-stato: leader
+  ministro: minister
+  vice-presidente: leader
+  governatore: leader
+  commissario: commissioner
+  senatore: legislator
+  ambasciatore: diplomat
+  segretario-generale: leader
+  consigliere: advisor
+
+  # Corporate roles
+  ceo: executive
+  cfo: executive
+  coo: executive
+  cto: executive
+  managing-director: executive
+  chairman: chairman
+  co-chairman: chairman
+  vice-chairman: chairman
+  executive-chairman: chairman
+  presidente: executive
+  board: board
+  partner: partner
+  senior-advisor: advisor
+  advisor: advisor
+  banchiere: employee
+  proprietario: owner
+  direttore: executive
+  co-fondatore: founder
+  fondatore: founder
+
+  # Forum/ThinkTank roles
+  steering: steering
+  membro: member
+  partecipante: member
+  co-chair: chairman
+
+  # WEF specific
+  ygl: ygl
+  glt: glt
+
+  # University roles
+  rettore: president
+  docente: professor
+  alumnus: alumni
+
+  # Media roles
+  editore: editor
+  caporedattore: editor
+  editorialista: editor
+  inviato: journalist
+  conduttore: journalist
+
+  # Stakeholder roles (org -> org)
+  holding: stake
+  controllata: subsidiary
+  cliente: partner
+
+# =============================================================================
 # FIELD MAPPING (Italian -> English)
+# For legacy YAML files
 # =============================================================================
 
 field_mapping:
@@ -243,134 +489,6 @@ field_mapping:
   risultato: outcome
 
 # =============================================================================
-# TYPE MAPPING (tipo -> sub-label)
-# =============================================================================
-
-type_mapping:
-  # Forums
-  forum: Forum
-  network: Forum
-  programma: Forum
-
-  # Banks
-  bank: Bank
-  investment-bank: Bank
-  central-bank: CentralBank
-
-  # Asset management
-  asset-manager: AssetManager
-  private-equity: PrivateEquity
-  hedge-fund: HedgeFund
-  sovereign-wealth-fund: SWF
-  venture-capital: PrivateEquity
-
-  # Corporations
-  corporate: Company
-  corporation: Company
-  holding: Company
-  tech: Company
-  oil: Company
-  auto: Company
-  telecom: Company
-  retail: Company
-  moto: Company
-  assicurazioni: Company
-  airline: Company
-  infrastruttura: Company
-  joint-venture: Company
-
-  # Government & Agencies
-  governo: Government
-  agenzia: Agency
-  organizzazione-internazionale: Agency
-  istituzione-ue: Agency
-  alleanza-militare: Agency
-  istituzione-finanziaria: Agency
-  cartello: Agency
-
-  # Other orgs
-  fondazione: Foundation
-  think-tank: ThinkTank
-  universita: University
-  advocacy: ThinkTank
-  lobby: ThinkTank
-  consulenza: Company
-
-  # Media
-  testata: Media
-  gruppo: Media
-  broadcaster: Media
-
-# =============================================================================
-# ROLE MAPPING (ruolo -> role)
-# =============================================================================
-
-role_mapping:
-  # Compound roles -> split
-  ceo-fondatore: [founder, executive]
-  fondatore-ceo: [founder, executive]
-  fondatore-chairman: [founder, chairman]
-  fondatore-direttore: [founder, executive]
-  fondatore-rettore: [founder, president]
-  fondatore-editore: [founder, editor]
-
-  # Government roles
-  capo-governo: leader
-  capo-stato: leader
-  ministro: minister
-  vice-presidente: leader
-  governatore: leader
-  commissario: commissioner
-  senatore: legislator
-  ambasciatore: diplomat
-  segretario-generale: leader
-  consigliere: advisor
-
-  # Corporate roles
-  ceo: executive
-  chairman: chairman
-  co-chairman: chairman
-  vice-chairman: chairman
-  executive-chairman: chairman
-  presidente: executive
-  board: board
-  partner: partner
-  senior-advisor: advisor
-  advisor: advisor
-  banchiere: employee
-  proprietario: owner
-  direttore: executive
-  co-fondatore: founder
-  fondatore: founder
-
-  # Forum/ThinkTank roles
-  steering: steering
-  membro: member
-  partecipante: member
-  co-chair: chairman
-
-  # WEF specific
-  ygl: ygl
-  glt: glt
-
-  # University roles
-  rettore: president
-  docente: professor
-  alumnus: alumnus
-
-  # Media roles
-  editore: editor
-  caporedattore: editor
-  editorialista: editor
-  inviato: journalist
-  conduttore: journalist
-
-  # Stakeholder roles (org -> org)
-  holding: stake
-  controllata: subsidiary
-  cliente: partner
-
-# =============================================================================
 # VALIDATION
 # =============================================================================
 
@@ -379,7 +497,6 @@ validation:
     - id
   required_org_fields:
     - id
-    - type
   required_family_fields:
     - id
     - origin

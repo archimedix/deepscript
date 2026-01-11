@@ -18,6 +18,9 @@ import yaml
 from neo4j import GraphDatabase
 from collections import OrderedDict
 
+# Schema loader available for validation if needed
+# from lib.schema import get_sublabels, get_docs_path_mapping
+
 # Neo4j connection
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"

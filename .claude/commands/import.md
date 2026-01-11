@@ -34,6 +34,7 @@ Lo script legge da `db/`:
 - **Default**: MERGE (aggiorna se esiste, crea se non esiste)
 - **--clear**: Cancella TUTTI i dati Neo4j prima di importare (chiede conferma)
 - **--dry-run**: Mostra cosa farebbe senza modificare Neo4j
+- **Type mapping**: Usa `db/schema.yaml` per convertire `type` → Neo4j sublabel
 
 ## Uso
 
