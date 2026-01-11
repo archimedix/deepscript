@@ -82,7 +82,7 @@
   | godrej-group       | Company | Mumbai    | Split in 2 gruppi 2024 |
   | jsw-group          | Company | Mumbai    | Sajjan Jindal, $30B    |
   | jindal-steel-power | Company | New Delhi | Naveen Jindal          |
-  | mahindra-group     | Company | Mumbai    | $19B, 100 paesi        |
+  | [] mahindra-group     | Company | Mumbai    | $19B, 100 paesi        |
   | hinduja-group      | Company | London    | £37B, banking/auto     |
   | vedanta-resources  | Company | London    | Mining, LSE listed     |
 

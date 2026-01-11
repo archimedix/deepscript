@@ -178,7 +178,7 @@ RETURN path
 
 | Label | Proprieta' |
 |-------|-----------|
-| Person | id, born, died, nationality, family |
+| Person | id, name, born, died, nationality, family |
 | Organization | id, name, founded, headquarters, status, sector |
 | Family | id, origin, founder, sector, generations, status |
 | Event | id, year, month, type, location, outcome |

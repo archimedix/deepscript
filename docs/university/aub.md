@@ -147,6 +147,7 @@ L'AUB rappresenta un nodo cruciale del soft power americano in Medio Oriente:
 | Persona | Ruolo |
 |---------|-------|
 | [Zalmay Khalilzad](../persons/zalmay-khalilzad.md) | Alumni (BA, MA) |
+| [Ahmed Chalabi](../persons/ahmed-chalabi.md) | Professor Mathematics (1970-77) |
 | [Katherine Maher](../persons/katherine-maher.md) | Board |
 | [David Bradley](../persons/david-bradley.md) | Board |
 | [Fadlo Khuri](../persons/fadlo-khuri.md) | President |
@@ -178,4 +179,4 @@ L'AUB rappresenta un nodo cruciale del soft power americano in Medio Oriente:
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2025*
+*Ultimo aggiornamento: Gennaio 2026*
