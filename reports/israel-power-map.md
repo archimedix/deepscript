@@ -232,11 +232,42 @@ Droni, mortai ────────────► Iron Beam    ◄───�
 
 #### Servizi di Intelligence
 
-| Agenzia | Funzione | Direttori Notabili | Connessioni Post-Servizio |
-|---------|----------|-------------------|---------------------------|
-| [Mossad](../docs/agency/mossad.md) | Intelligence estera | [Yossi Cohen](../docs/persons/yossi-cohen.md) (2016-21) | SoftBank, Abrahamovic |
-| [Shin Bet](../docs/agency/shin-bet.md) | Sicurezza interna | [Isser Harel](../docs/persons/isser-harel.md) (1948-63) | Storico legame CIA |
-| [Unit 8200](../docs/agency/unit-8200.md) | SIGINT/Cyber | [Ehud Schneorson](../docs/persons/ehud-schneorson.md) | Paragon founder |
+```
+           PRIMO MINISTRO
+                 |
+    +------------+------------+
+    |            |            |
+    v            v            v
+  MOSSAD     SHIN BET       AMAN
+ (estero)   (interno)     (militare)
+                             |
+                            IDF
+```
+
+| Agenzia | Funzione | Direttore Attuale | Crisi 7 Ottobre |
+|---------|----------|-------------------|-----------------|
+| [Mossad](../docs/agency/mossad.md) | Intelligence estera | David Barnea (2021-) | Sotto esame |
+| [Shin Bet](../docs/agency/shin-bet.md) | Sicurezza interna | **David Zini (2025-)** | Ronen Bar licenziato/dimesso |
+| [Aman](../docs/agency/aman.md) | Intelligence militare | Shlomi Binder (2024-) | Aharon Haliva dimesso Apr 2024 |
+| [Unit 8200](../docs/agency/unit-8200.md) | SIGINT/Cyber | Classificato | Fallimento warning |
+
+**Crisi Intelligence 7 Ottobre 2023**: Il peggior fallimento nella storia dell'intelligence israeliana. Conseguenze:
+- **Aman**: Direttore Aharon Haliva dimesso (aprile 2024)
+- **Shin Bet**: Ronen Bar licenziato da Netanyahu (marzo 2025), primo nella storia; Alta Corte dichiara licenziamento illegittimo; Bar dimesso giugno 2025
+- **Mossad**: David Barnea sotto pressione ma confermato
+
+#### Operazioni Storiche: Il Caso Eli Cohen
+
+| Anno | Evento | Agenzia |
+|------|--------|---------|
+| **1957-59** | [Eli Cohen](../docs/persons/eli-cohen.md) analista Aman | Aman |
+| **1961** | Reclutato da [Meir Amit](../docs/persons/meir-amit.md) per missione Siria | Mossad |
+| **1962-65** | Infiltrazione vertici governo siriano ([Amin al-Hafez](../docs/persons/amin-al-hafez.md)) | Mossad |
+| **1965** | Catturato e giustiziato a Damasco | - |
+| **1967** | Intelligence Cohen cruciale per Guerra Sei Giorni | - |
+| **Mag 2025** | **Mossad recupera archivio Cohen** (2.500 documenti) dalla Siria | Mossad |
+
+> L'operazione Cohen rimane il gold standard dello spionaggio israeliano: un agente che raggiunse i vertici di un governo nemico.
 
 ### 3. La Pipeline Cyber: Unit 8200 → Silicon Valley
 
@@ -445,8 +476,11 @@ RAFAEL CHAIRMAN (2023-)
 | **Dic 2024** | Invasione Siria post-Assad | Espansione influenza regionale |
 | **Gen 2025** | Cessate fuoco Gaza | Breve pausa |
 | **Mar 2025** | Fine cessate fuoco (attacco Gaza) | Rinvio processo Netanyahu |
-| **Mar 2025** | Licenziamento capo Shin Bet | Conflitto con intelligence |
+| **Mar 2025** | Licenziamento capo Shin Bet Ronen Bar | Primo licenziamento direttore nella storia, Alta Corte: illegittimo |
 | **Mar 2025** | Morte Stef Wertheimer (98) | Fine era fondatori industria |
+| **Apr 2025** | Bar annuncia dimissioni volontarie | Exit dopo 35 anni nei servizi |
+| **Mag 2025** | **Mossad recupera archivio Eli Cohen** | 2.500 documenti dalla Siria post-Assad |
+| **Giu 2025** | Ronen Bar lascia Shin Bet, David Zini nominato | Nuovo corso intelligence |
 | **Giu 2025** | Attacco Iran (nucleare) | Guerra regionale, cessate fuoco 23/6 |
 | **Nov 2025** | Netanyahu chiede grazia | Exit strategy legale |
 | **Dic 2025** | Piano $110B difesa approvato | Autosufficienza militare |
@@ -474,6 +508,15 @@ RAFAEL CHAIRMAN (2023-)
 ### Tech e Cybersecurity
 - [Unit 8200 and Silicon Valley](https://thejudean.com/index.php/news/science-technology/3116-unit-8200-israeli-cyber-elite-dominating-silicon-valley-innovation)
 
+### Intelligence
+- [Wikipedia - Shin Bet](https://en.wikipedia.org/wiki/Shin_Bet)
+- [Wikipedia - Aman](https://en.wikipedia.org/wiki/Military_Intelligence_Directorate_(Israel))
+- [Jewish Virtual Library - Aman Directors](https://www.jewishvirtuallibrary.org/directors-of-military-intelligence-aman)
+- [Jewish Virtual Library - Shin Bet Directors](https://www.jewishvirtuallibrary.org/directors-of-the-general-security-service-shabak)
+- [Times of Israel - Ronen Bar steps down](https://www.timesofisrael.com/shin-bet-chief-ronen-bar-announces-he-will-step-down-from-his-role-on-june-15/)
+- [Wikipedia - Eli Cohen](https://en.wikipedia.org/wiki/Eli_Cohen)
+- [Times of Israel - Eli Cohen archive recovered](https://www.timesofisrael.com/2500-items-belonging-to-executed-spy-eli-cohen-recovered-from-syria-by-mossad/)
+
 ### Lobby e Connessioni USA
 - [AIPAC Spending - The Intercept](https://theintercept.com/2024/10/24/aipac-spending-congress-elections-israel/)
 
@@ -498,4 +541,4 @@ RAFAEL CHAIRMAN (2023-)
 
 ---
 
-*Ultimo aggiornamento: 3 Gennaio 2026 - Triangolo Difesa ($17.7B ricavi, $65B backlog), Iron Beam game changer, Pattern Steinitz, EDGE Group UAE*
+*Ultimo aggiornamento: 17 Gennaio 2026 - Intelligence post-7 ottobre (crisi Shin Bet/Aman, Zini nuovo direttore), Caso Eli Cohen (archivio recuperato maggio 2025), Triangolo Difesa ($17.7B ricavi, $65B backlog)*

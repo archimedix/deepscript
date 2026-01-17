@@ -142,6 +142,7 @@ Tra le aziende israeliane:
 [] Orca Security,
 [] Cato Networks
 [] Imperva (acquisita da Thales nel 2023)
+[] xm-cyber
 
 hebrew-university
 

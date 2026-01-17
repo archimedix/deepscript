@@ -1764,6 +1764,24 @@ organizations:
       role: leader
       from: 1980
       note: Presidente Amal
+  aman:
+    name: Aman (Agaf ha-Modi'in)
+    type: agency
+    founded: 1950
+    headquarters: Tel Aviv, Israel
+    status: active
+    note: IDF Military Intelligence Directorate
+    stakeholders:
+    - person: meir-amit
+      role: leader
+      from: 1961
+      to: 1963
+      note: Director
+    - person: eli-cohen
+      role: analyst
+      from: 1957
+      to: 1959
+      note: Counter-intelligence analyst, translator
   amazon:
     name: Amazon
     type: company
@@ -3647,6 +3665,19 @@ organizations:
       from: 1947
       to: 1989
       note: Ideological founder of Ba'athism
+  baath-party-syria:
+    name: Arab Socialist Ba'ath Party - Syria Region
+    type: party
+    founded: 1947
+    headquarters: Damascus, Syria
+    status: defunct
+    note: Dissolved after Assad fall Dec 2024
+    stakeholders:
+    - person: amin-al-hafez
+      role: leader
+      from: 1963
+      to: 1966
+      note: Party leader during presidency
   babuschkin-ventures:
     name: Babuschkin Ventures
     type: privateequity
@@ -10499,6 +10530,9 @@ organizations:
       from: 2000
       to: 2002
       note: MS Industrial Engineering
+    - person: meir-amit
+      role: alumni
+      note: MBA late 1950s
   columbus-nova:
     type: privateequity
     headquarters: New York, USA
@@ -19845,6 +19879,36 @@ organizations:
       from: 1999
       to: 2021
       note: Knesset member, Likud
+    - person: meir-amit
+      role: minister
+      from: 1977
+      to: 1978
+      note: Minister of Transportation and Communications
+    - person: danny-yatom
+      role: advisor
+      from: 1999
+      to: 2001
+      note: Chief of Staff to PM Ehud Barak
+    - person: danny-yatom
+      role: legislator
+      from: 2003
+      to: 2008
+      note: MK, Labour Party
+    - person: efraim-halevy
+      role: advisor
+      from: 1996
+      to: 1998
+      note: Ambassador to European Union, Brussels
+    - person: efraim-halevy
+      role: advisor
+      from: 2002
+      to: 2003
+      note: Head of National Security Council, Advisor to PM Sharon
+    - person: meir-dagan
+      role: advisor
+      from: 1996
+      to: 2002
+      note: CT Advisor to PM Netanyahu, NSA to PM Sharon
     - org: talpiot
       role: subsidiary
       note: IDF/Ministry of Defense program
@@ -21134,6 +21198,23 @@ organizations:
       from: 1993
       to: 2011
       note: Minister PMO, PAP Chairman 2004-2011
+  governo-siria:
+    name: Governo della Siria
+    type: government
+    founded: 1946
+    headquarters: Damascus, Syria
+    status: active
+    stakeholders:
+    - person: amin-al-hafez
+      role: leader
+      from: 1963
+      to: 1966
+      note: President of Syria
+    - person: amin-al-hafez
+      role: military
+      from: 1946
+      to: 1966
+      note: General, Syrian Army
   governo-slovenia:
     name: Governo Slovenia
     type: government
@@ -23178,6 +23259,10 @@ organizations:
       from: 1940
       to: 1943
       note: Courier
+    - person: meir-amit
+      role: member
+      from: 1940
+      to: 1948
   hai-robotics:
     name: HAI Robotics
     type: company
@@ -23189,6 +23274,15 @@ organizations:
     - org: xbotpark
       role: incubator
       note: Incubated unicorn 2021, warehouse automation
+  haifa-university:
+    name: University of Haifa
+    type: university
+    headquarters: Haifa, Israel
+    status: active
+    stakeholders:
+    - person: meir-dagan
+      role: alumni
+      note: BA Political Science
   hakluyt:
     name: Hakluyt & Company
     type: company
@@ -23527,6 +23621,9 @@ organizations:
     - person: joshua-kushner
       role: alumni
       note: BA 2008
+    - person: shabtai-shavit
+      role: alumni
+      note: MPA Public Administration
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -23904,6 +24001,15 @@ organizations:
     - person: gil-shwed
       role: employee
       note: System administrator age 14-18, computer science courses in high school
+    - person: shabtai-shavit
+      role: alumni
+      note: BA Middle East Studies
+    - person: danny-yatom
+      role: alumni
+      note: BSc Mathematics, Physics, Computer Science
+    - person: efraim-halevy
+      role: alumni
+      note: LL.M. cum laude 1956
     - org: talpiot
       role: partner
       note: Academic partner, cadets study at Hebrew University
@@ -25038,6 +25144,19 @@ organizations:
       role: founder
       from: 2011
       note: Co-founder
+  ict-herzliya:
+    name: International Institute for Counter-Terrorism (ICT)
+    type: thinktank
+    founded: 1996
+    headquarters: Herzliya, Israel
+    status: active
+    sector: security
+    stakeholders:
+    - person: shabtai-shavit
+      role: chairman
+      from: 2001
+      to: 2023
+      note: Co-founder, Chairman of Board
   ideaspace-foundation:
     name: IdeaSpace Foundation
     type: foundation
@@ -25100,6 +25219,47 @@ organizations:
       from: 1948
       to: 1968
       note: Major General, Givati Brigade, Southern Command, Military Attaché London
+    - person: meir-amit
+      role: executive
+      from: 1948
+      to: 1968
+      note: Major General
+    - person: yitzhak-hofi
+      role: executive
+      from: 1948
+      to: 1974
+      note: Major General, Northern Command, Acting Chief of Staff 1974
+    - person: nahum-admoni
+      role: member
+      from: 1948
+      to: 1950
+      note: Lieutenant, Military Intelligence
+    - person: shabtai-shavit
+      role: member
+      note: Sayeret Matkal
+    - person: danny-yatom
+      role: executive
+      from: 1963
+      to: 1996
+      note: Major General, Sayeret Matkal, Central Command
+    - person: meir-dagan
+      role: executive
+      from: 1963
+      to: 1995
+      note: Major General, Paratroopers, Sayeret Rimon founder, Barak Brigade commander
+    - person: tamir-pardo
+      role: member
+      from: 1971
+      to: 1978
+      note: Captain, Sayeret Matkal, Shaldag founder, Entebbe raid 1976
+    - person: david-barnea
+      role: member
+      from: 1983
+      note: Sayeret Matkal, team leader
+    - org: aman
+      role: subsidiary
+      from: 1950
+      note: Intelligence branch of IDF
   idsa:
     name: Institute for Defence Studies and Analyses
     type: thinktank
@@ -26880,6 +27040,17 @@ organizations:
       role: chairman
       from: 2024
       note: Presidente attuale
+  israel-electric-corporation:
+    name: Israel Electric Corporation
+    type: company
+    headquarters: Tel Aviv, Israel
+    status: active
+    stakeholders:
+    - person: yitzhak-hofi
+      role: executive
+      from: 1982
+      to: 1990
+      note: Director
   iss:
     name: Institute for Security Studies
     type: thinktank
@@ -28257,6 +28428,18 @@ organizations:
       share: 2.0%
     - org: vanguard
       share: 2.0%
+  koor-industries:
+    name: Koor Industries
+    type: company
+    headquarters: Tel Aviv, Israel
+    status: dissolved
+    note: Histadrut industrial conglomerate
+    stakeholders:
+    - person: meir-amit
+      role: executive
+      from: 1968
+      to: 1977
+      note: CEO
   kosmos-energy:
     name: Kosmos Energy
     type: company
@@ -29781,6 +29964,19 @@ organizations:
     stakeholders:
     - org: pif-saudi
       note: Major shareholder
+  maccabi-health:
+    name: Maccabi Healthcare Services
+    type: company
+    founded: 1941
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: healthcare
+    stakeholders:
+    - person: shabtai-shavit
+      role: executive
+      from: 1996
+      to: 2001
+      note: CEO
   macquarie:
     name: Macquarie Asset Management
     type: assetmanager
@@ -30524,6 +30720,16 @@ organizations:
       share: 2.5
     - org: vanguard
       share: 2.5
+  mekorot:
+    name: Mekorot Water Company
+    type: company
+    headquarters: Tel Aviv, Israel
+    status: active
+    stakeholders:
+    - person: nahum-admoni
+      role: executive
+      from: 1989
+      note: General Manager
   melbourne-city:
     name: Melbourne City FC
     type: sportsclub
@@ -31774,6 +31980,70 @@ organizations:
       from: 1974
       to: 1982
       note: Director
+    - person: nahum-admoni
+      role: leader
+      from: 1982
+      to: 1989
+      note: Director
+    - person: eli-cohen
+      role: asset
+      from: 1961
+      to: 1965
+      note: Spy in Syria, executed
+    - person: shabtai-shavit
+      role: leader
+      from: 1989
+      to: 1996
+      note: Director
+    - person: shabtai-shavit
+      role: executive
+      from: 1964
+      to: 1989
+      note: Tzomet, Caesarea, Deputy Director
+    - person: danny-yatom
+      role: leader
+      from: 1996
+      to: 1998
+      note: Director
+    - person: efraim-halevy
+      role: leader
+      from: 1998
+      to: 2002
+      note: Director
+    - person: efraim-halevy
+      role: executive
+      from: 1961
+      to: 1990
+      note: Senior positions, multiple branches
+    - person: efraim-halevy
+      role: executive
+      from: 1990
+      to: 1995
+      note: Deputy Director under Shabtai Shavit
+    - person: meir-dagan
+      role: leader
+      from: 2002
+      to: 2011
+      note: Director (10th), longest-serving after Isser Harel
+    - person: tamir-pardo
+      role: leader
+      from: 2011
+      to: 2016
+      note: Director (11th)
+    - person: tamir-pardo
+      role: executive
+      from: 1980
+      to: 2010
+      note: Keshet dept head, Deputy Director, 3x Israel Security Prize
+    - person: david-barnea
+      role: leader
+      from: 2021
+      note: Director (13th)
+    - person: david-barnea
+      role: executive
+      from: 1996
+      to: 2021
+      note: Tzomet Division head 2013, Deputy Director 2019
     - org: cia
       role: partner
       from: 1951
@@ -33831,6 +34101,15 @@ organizations:
       share: 10
       from: 2013
       note: Co-founder, reduced from 20% in 2024
+  nyit:
+    name: New York Institute of Technology
+    type: university
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: david-barnea
+      role: alumni
+      note: BA
   nyu:
     name: New York University
     type: university
@@ -34977,6 +35256,15 @@ organizations:
       from: 1970
       to: 1981
       note: Venerable Master
+  pace-university:
+    name: Pace University
+    type: university
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: david-barnea
+      role: alumni
+      note: MBA Finance
   palantir:
     name: Palantir Technologies
     type: company
@@ -35035,6 +35323,15 @@ organizations:
       from: 1943
       to: 1948
       note: Fondò 6° Battaglione, convoys to Jerusalem
+    - person: yitzhak-hofi
+      role: member
+      from: 1944
+      to: 1948
+    - person: nahum-admoni
+      role: member
+      from: 1946
+      to: 1948
+      note: Third Battalion
   palo-alto-networks:
     name: Palo Alto Networks
     type: company
@@ -42555,6 +42852,12 @@ organizations:
     - person: marius-nacht
       role: alumni
       note: MSc Electrical Engineering 1987
+    - person: meir-dagan
+      role: alumni
+      note: Painting and sculpture studies
+    - person: tamir-pardo
+      role: alumni
+      note: BA Political Science
   tele2:
     name: Tele2
     type: company
@@ -44627,6 +44930,9 @@ organizations:
     - person: mendel-rosenblum
       role: alumni
       note: MS 1989, PhD Computer Science 1992
+    - person: nahum-admoni
+      role: alumni
+      note: International Relations 1950-1954
   uc-santa-cruz:
     name: University of California, Santa Cruz
     type: university
@@ -48906,6 +49212,19 @@ organizations:
     stakeholders:
     - org: governo-cina
       share: 100%
+  xm-cyber:
+    name: XM Cyber
+    type: company
+    founded: 2016
+    headquarters: Herzliya, Israel
+    status: active
+    sector: cybersecurity
+    note: Acquired by Schwarz Group 2021 for $700M
+    stakeholders:
+    - person: tamir-pardo
+      role: founder
+      from: 2016
+      note: Co-founder and President
   xpeng:
     name: XPeng Inc
     type: company

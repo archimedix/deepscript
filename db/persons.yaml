@@ -1713,6 +1713,30 @@ persons:
     - person: yinon-costica
       type: colleague
       note: Co-founder Adallom (2012), Wiz (2020). Met in Talpiot/Unit 8200 (2001)
+  amin-al-hafez:
+    born: 1921
+    died: 2009
+    nationality: SYR
+    affiliations:
+    - org: governo-siria
+      role: leader
+      from: 1963
+      to: 1966
+      note: President of Syria
+    - org: governo-siria
+      role: military
+      from: 1946
+      to: 1966
+      note: General, Syrian Army
+    - org: baath-party-syria
+      role: leader
+      from: 1963
+      to: 1966
+      note: Party leader during presidency
+    relations:
+    - person: eli-cohen
+      type: contact
+      note: 'Cohen infiltrated Syrian govt during Hafez presidency (disputed: Hafez denied friendship)'
   amin-nasser:
     born: 1958
     nationality: SAU
@@ -7342,6 +7366,40 @@ persons:
       from: 2021
       to: 2022
       note: Board of Governors (ex officio Min. Finanze)
+  danny-yatom:
+    born: 1945
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: leader
+      from: 1996
+      to: 1998
+      note: Director
+    - org: governo-israele
+      role: advisor
+      from: 1999
+      to: 2001
+      note: Chief of Staff to PM Ehud Barak
+    - org: governo-israele
+      role: legislator
+      from: 2003
+      to: 2008
+      note: MK, Labour Party
+    - org: idf
+      role: executive
+      from: 1963
+      to: 1996
+      note: Major General, Sayeret Matkal, Central Command
+    - org: hebrew-university
+      role: alumni
+      note: BSc Mathematics, Physics, Computer Science
+    relations:
+    - person: efraim-halevy
+      type: predecessor
+      note: Mossad Director 1998-2002
+    - person: shabtai-shavit
+      type: successor
+      note: Mossad Director 1989-1996
   daria-kaleniuk:
     born: 1985
     nationality: UKR
@@ -7473,6 +7531,33 @@ persons:
       from: 2004
       to: 2021
       note: Via Press Holdings, died 2021
+  david-barnea:
+    born: 1965
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: leader
+      from: 2021
+      note: Director (13th)
+    - org: mossad
+      role: executive
+      from: 1996
+      to: 2021
+      note: Tzomet Division head 2013, Deputy Director 2019
+    - org: idf
+      role: member
+      from: 1983
+      note: Sayeret Matkal, team leader
+    - org: pace-university
+      role: alumni
+      note: MBA Finance
+    - org: nyit
+      role: alumni
+      note: BA
+    relations:
+    - person: yossi-cohen
+      type: colleague
+      note: Succeeded Cohen as Mossad Director 2021
   david-boehmer:
     nationality: GBR
     note: Global Managing Partner Financial Services Heidrick & Struggles. Board Komera Project. Big Brothers Big Sisters.
@@ -9404,6 +9489,45 @@ persons:
       role: chairman
       from: 2023
       note: Chair Board of Directors
+  efraim-halevy:
+    born: 1934
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: leader
+      from: 1998
+      to: 2002
+      note: Director
+    - org: mossad
+      role: executive
+      from: 1961
+      to: 1990
+      note: Senior positions, multiple branches
+    - org: mossad
+      role: executive
+      from: 1990
+      to: 1995
+      note: Deputy Director under Shabtai Shavit
+    - org: governo-israele
+      role: advisor
+      from: 1996
+      to: 1998
+      note: Ambassador to European Union, Brussels
+    - org: governo-israele
+      role: advisor
+      from: 2002
+      to: 2003
+      note: Head of National Security Council, Advisor to PM Sharon
+    - org: hebrew-university
+      role: alumni
+      note: LL.M. cum laude 1956
+    relations:
+    - person: danny-yatom
+      type: colleague
+      note: Succeeded Yatom as Mossad Director 1998
+    - person: shabtai-shavit
+      type: colleague
+      note: Deputy under Shavit 1990-1995, successor as Mossad Director
   efrat-peled:
     nationality: ISR
     note: CEO Arison Holdings
@@ -9539,6 +9663,25 @@ persons:
     - org: wef
       role: ygl
       from: 2025
+  eli-cohen:
+    born: 1924
+    died: 1965
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: asset
+      from: 1961
+      to: 1965
+      note: Spy in Syria, executed
+    - org: aman
+      role: analyst
+      from: 1957
+      to: 1959
+      note: Counter-intelligence analyst, translator
+    relations:
+    - person: meir-amit
+      type: handler
+      note: Recruited by Amit for Syria mission 1961
   elie-wiesel:
     nationality: USA
     affiliations:
@@ -24796,6 +24939,73 @@ persons:
       from: 1963
       to: 1968
       note: Director
+    - org: governo-israele
+      role: minister
+      from: 1977
+      to: 1978
+      note: Minister of Transportation and Communications
+    - org: idf
+      role: executive
+      from: 1948
+      to: 1968
+      note: Major General
+    - org: columbia-university
+      role: alumni
+      note: MBA late 1950s
+    - org: haganah
+      role: member
+      from: 1940
+      to: 1948
+    - org: aman
+      role: leader
+      from: 1961
+      to: 1963
+      note: Director
+    - org: koor-industries
+      role: executive
+      from: 1968
+      to: 1977
+      note: CEO
+    relations:
+    - person: eli-cohen
+      type: mentor
+      note: Recruited and ran Cohen as Syrian asset
+    - person: isser-harel
+      type: successor
+      note: Successor as Mossad Director 1963
+  meir-dagan:
+    born: 1945
+    died: 2016
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: leader
+      from: 2002
+      to: 2011
+      note: Director (10th), longest-serving after Isser Harel
+    - org: governo-israele
+      role: advisor
+      from: 1996
+      to: 2002
+      note: CT Advisor to PM Netanyahu, NSA to PM Sharon
+    - org: idf
+      role: executive
+      from: 1963
+      to: 1995
+      note: Major General, Paratroopers, Sayeret Rimon founder, Barak Brigade commander
+    - org: tel-aviv-university
+      role: alumni
+      note: Painting and sculpture studies
+    - org: haifa-university
+      role: alumni
+      note: BA Political Science
+    relations:
+    - person: efraim-halevy
+      type: colleague
+      note: Succeeded Halevy as Mossad Director 2002
+    - person: tamir-pardo
+      type: colleague
+      note: Pardo succeeded Dagan as Mossad Director 2011
   mendel-rosenblum:
     born: 1962
     nationality: USA
@@ -26400,6 +26610,36 @@ persons:
     - org: kataeb
       role: member
       note: Deputato
+  nahum-admoni:
+    born: 1929
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: leader
+      from: 1982
+      to: 1989
+      note: Director
+    - org: idf
+      role: member
+      from: 1948
+      to: 1950
+      note: Lieutenant, Military Intelligence
+    - org: uc-berkeley
+      role: alumni
+      note: International Relations 1950-1954
+    - org: palmach
+      role: member
+      from: 1946
+      to: 1948
+      note: Third Battalion
+    - org: mekorot
+      role: executive
+      from: 1989
+      note: General Manager
+    relations:
+    - person: yitzhak-hofi
+      type: successor
+      note: Successor as Mossad Director 1982
   nahum-goldmann:
     born: 1895
     died: 1982
@@ -34007,6 +34247,47 @@ persons:
       from: 1968
       to: 1990
       note: President (1987-1990), Vice-Chairman Emeritus
+  shabtai-shavit:
+    born: 1939
+    died: 2023
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: leader
+      from: 1989
+      to: 1996
+      note: Director
+    - org: mossad
+      role: executive
+      from: 1964
+      to: 1989
+      note: Tzomet, Caesarea, Deputy Director
+    - org: idf
+      role: member
+      note: Sayeret Matkal
+    - org: hebrew-university
+      role: alumni
+      note: BA Middle East Studies
+    - org: harvard
+      role: alumni
+      note: MPA Public Administration
+    - org: ict-herzliya
+      role: chairman
+      from: 2001
+      to: 2023
+      note: Co-founder, Chairman of Board
+    - org: maccabi-health
+      role: executive
+      from: 1996
+      to: 2001
+      note: CEO
+    relations:
+    - person: danny-yatom
+      type: predecessor
+      note: Mossad Director 1996-1998
+    - person: nahum-admoni
+      type: successor
+      note: Successor as Mossad Director 1989
   shaffi-mather:
     nationality: AE
     note: Founded emergency ambulance service India (Dial 1298). Founded MUrgency. TED Fellow. BMW Foundation World Responsible
@@ -35680,6 +35961,39 @@ persons:
       from: 1949
       to: 1973
       note: Co-founder, Executive VP
+  tamir-pardo:
+    born: 1953
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: leader
+      from: 2011
+      to: 2016
+      note: Director (11th)
+    - org: mossad
+      role: executive
+      from: 1980
+      to: 2010
+      note: Keshet dept head, Deputy Director, 3x Israel Security Prize
+    - org: idf
+      role: member
+      from: 1971
+      to: 1978
+      note: Captain, Sayeret Matkal, Shaldag founder, Entebbe raid 1976
+    - org: tel-aviv-university
+      role: alumni
+      note: BA Political Science
+    - org: xm-cyber
+      role: founder
+      from: 2016
+      note: Co-founder and President
+    relations:
+    - person: meir-dagan
+      type: colleague
+      note: Deputy under Dagan, succeeded him as Mossad Director 2011
+    - person: yossi-cohen
+      type: colleague
+      note: Cohen succeeded Pardo as Mossad Director 2016
   tang-wenbin:
     nationality: CHN
     affiliations:
@@ -39269,6 +39583,20 @@ persons:
       from: 1974
       to: 1982
       note: Director
+    - org: idf
+      role: executive
+      from: 1948
+      to: 1974
+      note: Major General, Northern Command, Acting Chief of Staff 1974
+    - org: palmach
+      role: member
+      from: 1944
+      to: 1948
+    - org: israel-electric-corporation
+      role: executive
+      from: 1982
+      to: 1990
+      note: Director
     relations:
     - person: zvi-zamir
       type: successor
@@ -39438,6 +39766,10 @@ persons:
     - org: idf
       role: member
       note: Military service before Mossad career
+    relations:
+    - person: david-barnea
+      type: colleague
+      note: Barnea succeeded Cohen as Mossad Director 2021
   yousef-obaidly:
     nationality: QAT
     affiliations:
