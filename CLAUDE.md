@@ -18,19 +18,19 @@ Manuale di storia 1945-oggi attraverso i **soggetti del potere reale**: famiglie
 │  (graph DB)     │
 └────────┬────────┘
          │
-    MCP Protocol
-         │
-┌────────┴────────┐
-│   Claude Code   │  ← /add, /export commands
-└────────┬────────┘
-         │
-    ┌────┴────┐
-    ▼         ▼
-┌───────┐  ┌───────┐
-│docs/  │  │ db/   │
-│ .md   │  │ YAML  │
-└───────┘  └───────┘
-(schede)   (backup)
+    ┌────┴────────────────┐
+    │                     │
+MCP Protocol         Neo4j Driver
+    │                     │
+┌───┴───┐           ┌─────┴─────┐
+│Claude │           │  Web App  │  ← app/ (Nuxt)
+│ Code  │           │ Explorer  │
+└───┬───┘           └─────┬─────┘
+    │                     │
+┌───┴───┐           ┌─────┴─────┐
+│docs/  │           │  Browser  │
+│ .md   │           │   UI      │
+└───────┘           └───────────┘
 ```
 
 ---
@@ -40,6 +40,10 @@ Manuale di storia 1945-oggi attraverso i **soggetti del potere reale**: famiglie
 ```
 deepscript/
 ├── CLAUDE.md              # Questo file
+├── app/                   # Web App Explorer (Nuxt 4)
+│   ├── CLAUDE.md          # Docs specifiche app
+│   ├── app/               # Vue components
+│   └── server/            # API endpoints
 ├── db/                    # Database files
 │   ├── schema.yaml        # SOURCE OF TRUTH per lo schema
 │   ├── persons.yaml       # Backup (NON editare)
@@ -246,6 +250,24 @@ I report hanno due indici in `reports/`:
 
 ---
 
+## Web App Explorer
+
+Interfaccia grafica per esplorare il grafo. Vedi `app/CLAUDE.md` per dettagli.
+
+```bash
+cd app
+npm install
+npm run dev    # http://localhost:3000
+```
+
+Funzionalita':
+- Ricerca full-text entita'
+- Visualizzazione grafo interattivo (Cytoscape)
+- Preview schede markdown
+- Filtri per tipo nodo/relazione
+
+---
+
 ## File Legacy (Read-Only)
 
 I file YAML in `archive/` (`persone.yaml`, `istituzioni.yaml`, etc.) sono **archivio storico**.
@@ -253,4 +275,4 @@ NON modificarli. Usa Neo4j per i dati correnti.
 
 ---
 
-*Ultimo aggiornamento: 11 Gennaio 2026*
+*Ultimo aggiornamento: 12 Gennaio 2026*

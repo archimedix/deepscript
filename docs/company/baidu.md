@@ -54,6 +54,9 @@
 | **2021** | IPO secondaria Hong Kong |
 | **2023** | Lancio ERNIE Bot (risposta a ChatGPT) |
 | **2024** | Management rotation: nuovo CFO Junjie He |
+| **Mar 2025** | Lancio ERNIE 4.5 e ERNIE X1 (reasoning) |
+| **Jun 2025** | Open-source ERNIE 4.5 (10 varianti fino a 424B param) |
+| **Nov 2025** | ERNIE 5.0 omni-modal, compete con GPT-5 |
 
 ---
 
@@ -123,9 +126,16 @@
 
 ### ERNIE (LLM)
 
-- ERNIE 4.0 (competitor GPT-4)
-- ERNIE Bot (ChatGPT cinese)
-- Integrato in Baidu Search
+| Versione | Data | Caratteristiche |
+|----------|------|-----------------|
+| ERNIE 4.5 | Mar 2025 | Multimodale (video, immagini, audio), open-sourced Jun 2025 |
+| ERNIE X1 | Mar 2025 | Reasoning model, "on par with DeepSeek R1 at half the price" |
+| ERNIE X1.1 | Set 2025 | Upgrade reasoning, 23.3M developers, 760K enterprise |
+| ERNIE 5.0 | Nov 2025 | Natively omni-modal, compete con GPT-5 e Gemini |
+
+**Ecosystem**: PaddlePaddle framework, Baidu Comate 3.5S coding assistant
+
+**Hardware AI (Kunlun)**: M100 (inference, Q1 2026), M300 (training), P800 (Tianchi supernode)
 
 ---
 

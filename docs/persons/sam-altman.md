@@ -82,12 +82,32 @@
 
 | Nome | Connessione |
 |------|-------------|
-| Elon Musk | Co-fondatore OpenAI (uscito 2018) |
-| Peter Thiel | Co-fondatore OpenAI, investitore |
-| Reid Hoffman | Co-fondatore OpenAI |
-| Greg Brockman | Co-fondatore OpenAI, President |
+| [Elon Musk](elon-musk.md) | Co-fondatore OpenAI (uscito 2018), ora rivale con xAI |
+| [Peter Thiel](peter-thiel.md) | Co-fondatore OpenAI, investitore |
+| [Reid Hoffman](reid-hoffman.md) | Co-fondatore OpenAI |
+| [Greg Brockman](greg-brockman.md) | Co-fondatore OpenAI, President |
+| [Ilya Sutskever](ilya-sutskever.md) | Co-fondatore OpenAI, autore memo ouster Nov 2023 |
 | Satya Nadella | Partner Microsoft-OpenAI |
 | Paul Graham | Mentor a Y Combinator |
+
+### Board OpenAI (2025)
+
+| Nome | Ruolo |
+|------|-------|
+| [Bret Taylor](bret-taylor.md) | Chair, lo ha reintegrato Nov 2023 |
+| [Adam D'Angelo](adam-dangelo.md) | Unico sopravvissuto pre-crisi |
+| [Sue Desmond-Hellmann](sue-desmond-hellmann.md) | Ex CEO Gates Foundation |
+| [Zico Kolter](zico-kolter.md) | CMU ML Head, unico AI researcher |
+| [Paul Nakasone](paul-nakasone.md) | Ex NSA Director |
+| [Adebayo Ogunlesi](adebayo-ogunlesi.md) | GIP/BlackRock |
+| [Nicole Seligman](nicole-seligman.md) | Ex President Sony |
+
+### Ex-OpenAI (Anthropic founders)
+
+| Nome | Connessione |
+|------|-------------|
+| [Dario Amodei](dario-amodei.md) | VP Research 2016-20, CEO Anthropic |
+| [Daniela Amodei](daniela-amodei.md) | VP Operations 2018-20, President Anthropic |
 
 ---
 
@@ -218,4 +238,4 @@
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

@@ -434,6 +434,23 @@ Abramovich non e' solo un oligarca: fu il selezionatore dell'intero apparato gov
 
 L'FSB (Federal Security Service) non e' solo un'agenzia di sicurezza - e' la spina dorsale su cui Putin ha costruito il suo sistema. Da direttore FSB (1998-99) a presidente, Putin ha usato l'agenzia come trampolino e strumento di potere.
 
+### Origini Storiche: Dall'Okhrana all'FSB
+
+La tradizione della polizia segreta russa precede l'Unione Sovietica di oltre un secolo:
+
+| Periodo | Organizzazione | Note |
+|---------|----------------|------|
+| 1881-1917 | [Okhrana](../docs/agency/okhrana.md) | Polizia segreta zarista, maestri dell'infiltrazione |
+| 1917-1922 | Cheka | Terrore Rosso, Dzerzhinsky |
+| 1922-1934 | GPU/OGPU | Polizia politica staliniana |
+| 1934-1946 | NKVD | Gulag, Grandi Purghe |
+| 1946-1954 | MGB/MVD | Era tardo-staliniana |
+| 1954-1991 | [KGB](../docs/agency/kgb.md) | Guerra Fredda, Putin vi entro' nel 1975 |
+| 1991-1995 | FSK | Transizione post-sovietica |
+| 1995-oggi | FSB | Agenzia di Putin |
+
+**Continuita' metodologica**: L'Okhrana pionerizzo' l'infiltrazione sistematica di movimenti di opposizione e l'uso di agenti provocatori - metodi adottati e perfezionati da tutte le agenzie successive.
+
 ### La Successione dei Direttori FSB
 
 | Direttore | Periodo | Note | Destino |
@@ -1189,6 +1206,7 @@ Domestica  Globale
 
 | Entita' | Tipo | Note | Status |
 |---------|------|------|--------|
+| [Okhrana](../docs/agency/okhrana.md) | Agency | Polizia segreta zarista 1881-1917, predecessore KGB | **NEW** |
 | [Yukos](../docs/company/yukos.md) | Company | Distrutta 2003-2007, asset a Rosneft | **Scheda** |
 | [Bank Menatep](../docs/bank/bank-menatep.md) | Bank | Khodorkovsky, fallita 1998 | **NEW** |
 | [Sibneft](../docs/company/sibneft.md) | Company | Ora Gazprom Neft | **NEW** |
@@ -1891,6 +1909,9 @@ Gli oligarchi di Putin usano lo sport per soft power, networking e potenzialment
 
 | Anno | Evento | Impatto |
 |------|--------|---------|
+| **1881** | Fondazione [Okhrana](../docs/agency/okhrana.md) dopo assassinio Alessandro II | Origine polizia segreta moderna |
+| **1917** | Dissoluzione Okhrana; fondazione Cheka | Da zarismo a bolscevismo |
+| **1954** | Fondazione KGB | Agenzia dove Putin entro' nel 1975 |
 | **1963** | Arkady Rotenberg e Putin iniziano judo insieme | Origine cerchia |
 | **1968** | Boris Rotenberg si unisce al club judo | Cerchia si allarga |
 | **1985** | **Gorbachev Segretario Generale PCUS** | Inizio riforme |

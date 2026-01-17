@@ -11,7 +11,7 @@
 | **Tipo** | Technology (social media, AI) |
 | **Fondatori** | Zhang Yiming, Liang Rubo |
 | **CEO** | Liang Rubo (dal 2021) |
-| **Valutazione** | USD 300-414 miliardi (2025) |
+| **Valutazione** | USD 480 miliardi (Nov 2025) |
 | **Revenue** | USD 155 miliardi (2024) |
 | **Dipendenti** | 150,000+ |
 | **Status** | active |
@@ -125,7 +125,7 @@ Investitori          Fondatori +        Dipendenti
 | **CapCut** | Globale | - | Bannato Gen 2025 |
 | **Lemon8** | Globale | - | Bannato Gen 2025 |
 | **Toutiao** | Cina | 300M+ | Operativo |
-| **Doubao** | Cina | - | AI assistant leader |
+| **Doubao** | Cina | 159M MAU | AI assistant leader |
 
 ### Tecnologia Core
 

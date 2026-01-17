@@ -126,6 +126,8 @@ Report che analizzano specifici settori economici.
 |--------|---------|-------|
 | [Big Tech Power Map](big-tech-power-map.md) | 1998-2025 | GAFAM, monopoli, lobbying |
 | [Microsoft Geopolitical Hub](microsoft-geopolitical-hub.md) | 2007-2025 | Microsoft e geopolitica |
+| [AI Power Map](ai-power.md) | 2010-2026 | OpenAI, Anthropic, DeepSeek, ByteDance, corsa AGI |
+| [Silicon Valley Power Map](silicon-valley-power-map.md) | 1939-2026 | Stanford, VC, PayPal Mafia, AI labs, forum locali |
 
 ### Difesa
 | Report | Periodo | Focus |
@@ -175,6 +177,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | Report | Periodo | Focus |
 |--------|---------|-------|
 | [USA Power Map](usa-power-map.md) | 1945-2025 | Wall Street, MIC, think tanks, dinastie |
+| [Silicon Valley Power Map](silicon-valley-power-map.md) | 1939-2026 | Stanford, VC, PayPal Mafia, AI labs, forum locali |
 | [Canada Power Map](canada-power-map.md) | 1867-2025 | Bay Street, risorse, Five Eyes |
 | [Mexico Power Map](mexico-power-map.md) | 1929-2025 | PRI, oligarchi, NAFTA |
 | [Brazil Power Map](brazil-power-map.md) | 1964-2025 | Militari, Lula, agribusiness |
@@ -285,6 +288,7 @@ Mappe di potere regionali:
 
 ### Report Settoriali
 Analisi di industrie specifiche:
+- [AI Power Map](ai-power.md)
 - [Luxury Power Dynasties](luxury-power-dynasties.md)
 - [Media Power](media-power.md)
 - [Pharma Power](pharma-power.md)
@@ -296,7 +300,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 71 |
+| **Report totali** | 73 |
 | **Power Map geografici** | 40+ |
 | **Report tematici/settoriali** | 30+ |
 | **Periodo coperto** | 1897-2025 |
@@ -314,6 +318,7 @@ Analisi di industrie specifiche:
 | **Energia** | Petrolio, nucleare, transizione |
 | **Africa** | Neo-colonialismo, risorse, Cina-Africa |
 | **Pakistan** | ISI, nucleare, Afghanistan |
+| ~~**AI**~~ | ~~Foundation models, corsa AGI~~ → [AI Power Map](ai-power.md) |
 
 ---
 

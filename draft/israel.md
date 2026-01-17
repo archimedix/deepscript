@@ -12,6 +12,8 @@ Israel Power Map
 
   Entita' Aggiunte al DB
 
+open-university-israel
+
   Persone (13 nuove):
   - [v] Benjamin Netanyahu (PM)
   - [v] Stef Wertheimer (†2025, ISCAR)
@@ -55,3 +57,6 @@ Israel Power Map
   - Connessioni USA (AIPAC), UAE, Europa
   - Top 15 connettori dal database
   - Statistiche complete
+
+
+Zeev Vladimir Jabotinsky (connessione con Mussolini e padre di Natanyau) 

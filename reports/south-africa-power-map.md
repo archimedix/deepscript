@@ -337,9 +337,45 @@ Le elezioni maggio 2024 hanno segnato la fine dell'egemonia ANC: per la prima vo
 
 ---
 
+## Connessione Silicon Valley
+
+### La Dinastia Botha: Da Apartheid a Sequoia Capital
+
+Una delle connessioni piu' inaspettate tra Sudafrica e Silicon Valley passa attraverso la famiglia Botha:
+
+| Generazione | Persona | Ruolo | Periodo |
+|-------------|---------|-------|---------|
+| **Nonno** | [Pik Botha](../docs/persons/pik-botha.md) | Ministro Esteri Apartheid, poi Min. Energia sotto Mandela | 1977-1996 |
+| **Nipote** | [Roelof Botha](../docs/persons/roelof-botha.md) | CFO PayPal, Managing Partner Sequoia Capital | 2000-2025 |
+
+**Roelof Frederik "Pik" Botha** (1932-2018) fu il ministro degli esteri piu' longevo del Sudafrica (17 anni), volto internazionale del regime dell'Apartheid. Dopo la transizione democratica, servi' sotto Nelson Mandela come Ministro delle Risorse Minerarie ed Energia (1994-1996).
+
+**Roelof Botha** (1973-), suo nipote, ha seguito un percorso completamente diverso:
+- Laurea attuariale a Cape Town (GPA record)
+- MBA Stanford (valedictorian)
+- CFO di PayPal a 28 anni (guido' l'IPO 2002)
+- Partner Sequoia Capital dal 2003
+- Investimenti in YouTube, Instagram, Square, MongoDB
+- Managing Partner Sequoia 2022-2025
+
+**Pattern:** Come il nonno navigo' la transizione dall'Apartheid alla democrazia, il nipote ha navigato la transizione dalla finanza sudafricana (via McKinsey Johannesburg) al cuore del venture capital globale.
+
+### Altri Sudafricani in Silicon Valley
+
+| Persona | Background SA | Ruolo USA |
+|---------|---------------|-----------|
+| [Elon Musk](../docs/persons/elon-musk.md) | Nato Pretoria, emigrato 17 anni | Tesla, SpaceX, xAI, DOGE |
+| [David Sacks](../docs/persons/david-sacks.md) | Nato Cape Town, emigrato da bambino | PayPal COO, WH AI Czar |
+| [Roelof Botha](../docs/persons/roelof-botha.md) | Cape Town, McKinsey JHB | Sequoia Capital |
+| [Divesh Makan](../docs/persons/divesh-makan.md) | Goldman Sachs SA | ICONIQ Capital founder |
+
+**ICONIQ Capital**: Fondato nel 2011 da Divesh Makan (sudafricano), gestisce >$80B per i billionaires della tech (Zuckerberg, Sandberg, Hoffman, Dorsey). Ha guidato il round da $13B in Anthropic nel 2025.
+
+---
+
 ## Entita' nel Database
 
-### Persone (~45 con nazionalita' ZA/ZAF)
+### Persone (~50 con nazionalita' ZA/ZAF)
 
 | Persona | Connessioni | Ruoli Chiave | Scheda |
 |---------|-------------|--------------|--------|
@@ -348,19 +384,33 @@ Le elezioni maggio 2024 hanno segnato la fine dell'egemonia ANC: per la prima vo
 | **Maria Ramos** | 7 | Absa CEO, Standard Chartered Chair, G30, Richemont board | [Link](../docs/persons/maria-ramos.md) |
 | **Trevor Manuel** | 6 | Finance Minister, Rothschild, Old Mutual, marito Ramos | [Link](../docs/persons/trevor-manuel.md) |
 | **Tito Mboweni** (1959-2024) | 5 | SARB Governor, Goldman Sachs, Finance Minister | [Link](../docs/persons/tito-mboweni.md) |
+| **Roelof Botha** | 9 | PayPal CFO, Sequoia Capital, nipote Pik Botha | [Link](../docs/persons/roelof-botha.md) |
+| **Pik Botha** (1932-2018) | 3 | Foreign Minister Apartheid, Min. under Mandela | [Link](../docs/persons/pik-botha.md) |
 | **Johann Rupert** | 7 | Richemont Chairman, WEF GLT, FirstRand co-founder | - |
 | **Koos Bekker** | 5 | Naspers/Prosus Chairman, Tencent board, Stellenbosch | - |
 | **Nicky Oppenheimer** | 4 | De Beers Chairman (ex), Brenthurst | - |
 | **Bridgette Radebe** | 3 | Mmakau Mining, sorella Motsepe, moglie Jeff Radebe | - |
 | **Jeff Radebe** | 3 | Minister in Presidency, cognato Motsepe e Ramaphosa | - |
+| **Elon Musk** | 8 | Tesla, SpaceX, xAI, DOGE, nato Pretoria | [Link](../docs/persons/elon-musk.md) |
+| **David Sacks** | 7 | PayPal COO, WH AI Czar, nato Cape Town | [Link](../docs/persons/david-sacks.md) |
 
-### Famiglie (3 con schede complete)
+### Famiglie (4 con schede complete)
 
 | Famiglia | Generazioni | Settore | Net Worth Cumulativo | Scheda |
 |----------|-------------|---------|---------------------|--------|
 | **Oppenheimer** | 4 | Diamanti, mining | $12.3B | [Link](../docs/family/oppenheimer.md) |
 | **Rupert** | 3 | Lusso, tabacco | $16-19B | [Link](../docs/family/rupert.md) |
 | **Motsepe** | 2 | Mining, sport | $3.7B | [Link](../docs/family/motsepe.md) |
+| **Botha** | 2 | Politica → VC | - | [Pik](../docs/persons/pik-botha.md), [Roelof](../docs/persons/roelof-botha.md) |
+
+### Leader Storici (Apartheid → Transizione)
+
+| Persona | Ruolo | Periodo | Note |
+|---------|-------|---------|------|
+| [P.W. Botha](../docs/persons/pw-botha.md) | State President | 1984-1989 | "Rubicon speech", rifiuto riforme |
+| [F.W. de Klerk](../docs/persons/fw-de-klerk.md) | Ultimo Presidente Apartheid | 1989-1994 | Rilascio Mandela, Nobel 1993 |
+| [Pik Botha](../docs/persons/pik-botha.md) | Foreign Minister | 1977-1994 | 17 anni, poi sotto Mandela |
+| [Nelson Mandela](../docs/persons/nelson-mandela.md) | Primo Presidente Democratico | 1994-1999 | Transizione, riconciliazione |
 
 ### Organizzazioni (~30 con HQ Sud Africa)
 

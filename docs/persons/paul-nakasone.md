@@ -17,10 +17,12 @@
 
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
-| **1986** | St. John's University (Minnesota) | Commissione come ufficiale intelligence (ROTC) |
-| - | University of Southern California | M.S. Systems Management |
-| - | National Defense Intelligence College | Master |
-| - | US Army War College | Master |
+| **1986** | [Saint John's University](../university/saint-johns-university.md) | BA Economics, ROTC commission |
+| **1989** | [University of Southern California](../university/usc.md) | MS Systems Management |
+| **1991** | [Defense Intelligence College](../university/defense-intelligence-college.md) | Master |
+| **2007** | [US Army War College](../university/us-army-war-college.md) | Master |
+| **2024** | [Dartmouth College](../university/dartmouth.md) | Honorary Doctor of Laws |
+| **2024** | [Saint John's University](../university/saint-johns-university.md) | Honorary Doctorate; Board of Trustees |
 
 ---
 
@@ -115,19 +117,26 @@
 
 | Entita' | Connessione |
 |---------|-------------|
+| [Saint John's University](../university/saint-johns-university.md) | Alumni BA 1986, Board Trustees 2024- |
+| [USC](../university/usc.md) | Alumni MS 1989 |
+| [Defense Intelligence College](../university/defense-intelligence-college.md) | Alumni 1991 |
+| [US Army War College](../university/us-army-war-college.md) | Alumni 2007 |
+| [Governo USA](../government/governo-usa.md) | US Army 1986-2024, 4-star General |
 | [NSA](../agency/nsa.md) | Direttore 2018-2024 |
 | [US Cyber Command](../agency/us-cyber-command.md) | Comandante 2018-2024 |
+| [Vanderbilt](../university/vanderbilt.md) | Founding Director Institute of National Security 2024- |
 | [OpenAI](../company/openai.md) | Board 2024- |
-| WitnessAI | Board 2024- |
-| [Accrete](../company/accrete.md) | Strategic Board Advisor 2025- |
+| [WitnessAI](../company/witnessai.md) | Board 2024- |
 | [Neuberger Berman](../asset-manager/neuberger-berman.md) | Mutual Funds Board 2024- |
-| [Governo USA](../government/governo-usa.md) | Carriera militare 38 anni |
+| [Accrete](../company/accrete.md) | Strategic Board Advisor 2025- |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
 | [Sam Altman](sam-altman.md) | CEO OpenAI |
+| [Bret Taylor](bret-taylor.md) | OpenAI Board Chair, lo ha nominato |
+| [Timothy Haugh](timothy-haugh.md) | Successore a NSA/Cyber Command (2024) |
 
 ---
 
@@ -174,4 +183,4 @@ La nomina di Nakasone in multipli board AI rappresenta un pattern chiaro:
 
 ---
 
-*Ultimo aggiornamento: 30 Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

@@ -193,3 +193,8 @@ fondazione-italia-cina
 
 [v] Giovanni Bazoli
 Roberto Calvi
+
+Mossad:
+Enrico Mattei
+Aldo moro
+Giulio Andreotti

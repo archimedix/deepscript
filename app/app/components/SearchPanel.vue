@@ -39,7 +39,7 @@
           {{ getTypeLabel(result.labels) }}
         </span>
         <span class="result-name">{{ result.name || result.id }}</span>
-        <span v-if="result.nationality" class="result-meta">{{ result.nationality }}</span>
+        <span v-if="result.nationality" class="result-flag" :title="result.nationality">{{ countryToFlag(result.nationality) }}</span>
       </div>
     </div>
 
@@ -49,11 +49,63 @@
 
     <div v-else class="search-hint">
       <p>Type to search people, organizations, families, and events.</p>
-      <div class="hint-legend">
-        <span class="legend-item"><span class="legend-dot type-person"></span>Person</span>
-        <span class="legend-item"><span class="legend-dot type-organization"></span>Organization</span>
-        <span class="legend-item"><span class="legend-dot type-family"></span>Family</span>
-        <span class="legend-item"><span class="legend-dot type-event"></span>Event</span>
+
+      <div class="legend-section">
+        <div class="legend-title">Main Types</div>
+        <div class="hint-legend">
+          <span class="legend-item"><span class="legend-dot type-person"></span>Person</span>
+          <span class="legend-item"><span class="legend-dot type-family"></span>Family</span>
+          <span class="legend-item"><span class="legend-dot type-event"></span>Event</span>
+        </div>
+      </div>
+
+      <div class="legend-section">
+        <div class="legend-title">Financial</div>
+        <div class="hint-legend">
+          <span class="legend-item"><span class="legend-dot type-bank"></span>Bank</span>
+          <span class="legend-item"><span class="legend-dot type-centralbank"></span>Central Bank</span>
+          <span class="legend-item"><span class="legend-dot type-assetmanager"></span>Asset Mgr</span>
+          <span class="legend-item"><span class="legend-dot type-privateequity"></span>Private Eq</span>
+          <span class="legend-item"><span class="legend-dot type-hedgefund"></span>Hedge Fund</span>
+          <span class="legend-item"><span class="legend-dot type-swf"></span>SWF</span>
+        </div>
+      </div>
+
+      <div class="legend-section">
+        <div class="legend-title">Government</div>
+        <div class="hint-legend">
+          <span class="legend-item"><span class="legend-dot type-government"></span>Government</span>
+          <span class="legend-item"><span class="legend-dot type-agency"></span>Agency</span>
+          <span class="legend-item"><span class="legend-dot type-party"></span>Party</span>
+        </div>
+      </div>
+
+      <div class="legend-section">
+        <div class="legend-title">Knowledge</div>
+        <div class="hint-legend">
+          <span class="legend-item"><span class="legend-dot type-foundation"></span>Foundation</span>
+          <span class="legend-item"><span class="legend-dot type-thinktank"></span>Think Tank</span>
+          <span class="legend-item"><span class="legend-dot type-university"></span>University</span>
+        </div>
+      </div>
+
+      <div class="legend-section">
+        <div class="legend-title">Business</div>
+        <div class="hint-legend">
+          <span class="legend-item"><span class="legend-dot type-company"></span>Company</span>
+          <span class="legend-item"><span class="legend-dot type-defense"></span>Defense</span>
+          <span class="legend-item"><span class="legend-dot type-pharma"></span>Pharma</span>
+          <span class="legend-item"><span class="legend-dot type-automaker"></span>Automaker</span>
+          <span class="legend-item"><span class="legend-dot type-sportsclub"></span>Sports Club</span>
+        </div>
+      </div>
+
+      <div class="legend-section">
+        <div class="legend-title">Other</div>
+        <div class="hint-legend">
+          <span class="legend-item"><span class="legend-dot type-media"></span>Media</span>
+          <span class="legend-item"><span class="legend-dot type-forum"></span>Forum</span>
+        </div>
       </div>
     </div>
   </div>
@@ -138,13 +190,72 @@ function selectHighlighted() {
   }
 }
 
+// ISO alpha-3 to alpha-2 mapping
+const iso3to2: Record<string, string> = {
+  AFG: 'AF', ARE: 'AE', ARG: 'AR', AUS: 'AU', AUT: 'AT', BEL: 'BE', BGD: 'BD',
+  BGR: 'BG', BHR: 'BH', BOL: 'BO', BRA: 'BR', CAN: 'CA', CHE: 'CH', CHN: 'CN',
+  COD: 'CD', CRI: 'CR', CYP: 'CY', CZE: 'CZ', DEU: 'DE', DNK: 'DK', EGY: 'EG',
+  ESP: 'ES', EST: 'EE', ETH: 'ET', FIN: 'FI', FRA: 'FR', GBR: 'GB', GEO: 'GE',
+  GRC: 'GR', GTM: 'GT', HKG: 'HK', HRV: 'HR', HUN: 'HU', IDN: 'ID', IND: 'IN',
+  IRL: 'IE', IRN: 'IR', IRQ: 'IQ', ISR: 'IL', ITA: 'IT', JOR: 'JO', JPN: 'JP',
+  KEN: 'KE', KOR: 'KR', LBN: 'LB', LKA: 'LK', LTU: 'LT', LUX: 'LU', MDA: 'MD',
+  MEX: 'MX', MLT: 'MT', MNE: 'ME', MYS: 'MY', NGA: 'NG', NLD: 'NL', NOR: 'NO',
+  NZL: 'NZ', PAK: 'PK', PHL: 'PH', POL: 'PL', PRT: 'PT', PSE: 'PS', QAT: 'QA',
+  ROU: 'RO', RUS: 'RU', SAU: 'SA', SGP: 'SG', SRB: 'RS', SVN: 'SI', SWE: 'SE',
+  SYR: 'SY', THA: 'TH', TUR: 'TR', TWN: 'TW', UAE: 'AE', UKR: 'UA', USA: 'US',
+  XKX: 'XK', ZAF: 'ZA', ZWE: 'ZW'
+}
+
+// Convert country code to flag emoji
+function countryToFlag(code: string): string {
+  if (!code) return ''
+  // Handle dual nationality (e.g., "USA-ITA") - take first
+  const primary = code.split('-')[0]
+  // Convert alpha-3 to alpha-2 if needed
+  let alpha2 = primary.length === 3 ? iso3to2[primary] : primary.toUpperCase()
+  // Handle UK -> GB
+  if (alpha2 === 'UK') alpha2 = 'GB'
+  if (!alpha2 || alpha2.length !== 2) return ''
+  const codePoints = alpha2.split('').map(char => 127397 + char.charCodeAt(0))
+  return String.fromCodePoint(...codePoints)
+}
+
+// Sublabel display config
+const sublabelConfig: Record<string, { short: string; class: string }> = {
+  // Financial
+  Bank: { short: 'BNK', class: 'type-bank' },
+  CentralBank: { short: 'CB', class: 'type-centralbank' },
+  AssetManager: { short: 'AM', class: 'type-assetmanager' },
+  PrivateEquity: { short: 'PE', class: 'type-privateequity' },
+  HedgeFund: { short: 'HF', class: 'type-hedgefund' },
+  SWF: { short: 'SWF', class: 'type-swf' },
+  // Government
+  Government: { short: 'GOV', class: 'type-government' },
+  Agency: { short: 'AGY', class: 'type-agency' },
+  Party: { short: 'PTY', class: 'type-party' },
+  // Knowledge
+  Foundation: { short: 'FND', class: 'type-foundation' },
+  ThinkTank: { short: 'TT', class: 'type-thinktank' },
+  University: { short: 'UNI', class: 'type-university' },
+  // Business
+  Company: { short: 'CO', class: 'type-company' },
+  Defense: { short: 'DEF', class: 'type-defense' },
+  Pharma: { short: 'PHA', class: 'type-pharma' },
+  Automaker: { short: 'CAR', class: 'type-automaker' },
+  SportsClub: { short: 'SPT', class: 'type-sportsclub' },
+  // Other
+  Media: { short: 'MED', class: 'type-media' },
+  Forum: { short: 'FRM', class: 'type-forum' }
+}
+
 function getTypeLabel(labels: string[]): string {
   if (labels.includes('Person')) return 'P'
   if (labels.includes('Family')) return 'F'
   if (labels.includes('Event')) return 'E'
   // Organization sublabels
-  const sublabel = labels.find(l => l !== 'Organization')
-  if (sublabel) return sublabel.substring(0, 3).toUpperCase()
+  for (const label of labels) {
+    if (sublabelConfig[label]) return sublabelConfig[label].short
+  }
   return 'ORG'
 }
 
@@ -152,6 +263,10 @@ function getTypeClass(labels: string[]): string {
   if (labels.includes('Person')) return 'type-person'
   if (labels.includes('Family')) return 'type-family'
   if (labels.includes('Event')) return 'type-event'
+  // Organization sublabels
+  for (const label of labels) {
+    if (sublabelConfig[label]) return sublabelConfig[label].class
+  }
   return 'type-organization'
 }
 
@@ -290,6 +405,7 @@ onMounted(() => {
   letter-spacing: 0.02em;
 }
 
+/* Main types */
 .type-person {
   background: rgba(59, 130, 246, 0.15);
   color: var(--color-person);
@@ -310,6 +426,106 @@ onMounted(() => {
   color: var(--color-event);
 }
 
+/* Financial sublabels */
+.type-bank {
+  background: rgba(5, 150, 105, 0.15);
+  color: var(--color-bank);
+}
+
+.type-centralbank {
+  background: rgba(4, 120, 87, 0.15);
+  color: var(--color-centralbank);
+}
+
+.type-assetmanager {
+  background: rgba(13, 148, 136, 0.15);
+  color: var(--color-assetmanager);
+}
+
+.type-privateequity {
+  background: rgba(8, 145, 178, 0.15);
+  color: var(--color-privateequity);
+}
+
+.type-hedgefund {
+  background: rgba(14, 116, 144, 0.15);
+  color: var(--color-hedgefund);
+}
+
+.type-swf {
+  background: rgba(20, 184, 166, 0.15);
+  color: var(--color-swf);
+}
+
+/* Government sublabels */
+.type-government {
+  background: rgba(220, 38, 38, 0.15);
+  color: var(--color-government);
+}
+
+.type-agency {
+  background: rgba(234, 88, 12, 0.15);
+  color: var(--color-agency);
+}
+
+.type-party {
+  background: rgba(225, 29, 72, 0.15);
+  color: var(--color-party);
+}
+
+/* Knowledge sublabels */
+.type-foundation {
+  background: rgba(124, 58, 237, 0.15);
+  color: var(--color-foundation);
+}
+
+.type-thinktank {
+  background: rgba(99, 102, 241, 0.15);
+  color: var(--color-thinktank);
+}
+
+.type-university {
+  background: rgba(139, 92, 246, 0.15);
+  color: var(--color-university);
+}
+
+/* Business sublabels */
+.type-company {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--color-company);
+}
+
+.type-defense {
+  background: rgba(100, 116, 139, 0.15);
+  color: var(--color-defense);
+}
+
+.type-pharma {
+  background: rgba(236, 72, 153, 0.15);
+  color: var(--color-pharma);
+}
+
+.type-automaker {
+  background: rgba(120, 113, 108, 0.15);
+  color: var(--color-automaker);
+}
+
+.type-sportsclub {
+  background: rgba(34, 197, 94, 0.15);
+  color: var(--color-sportsclub);
+}
+
+/* Other sublabels */
+.type-media {
+  background: rgba(244, 114, 182, 0.15);
+  color: var(--color-media);
+}
+
+.type-forum {
+  background: rgba(251, 191, 36, 0.15);
+  color: var(--color-forum);
+}
+
 .result-name {
   flex: 1;
   font-size: 13px;
@@ -319,12 +535,10 @@ onMounted(() => {
   text-overflow: ellipsis;
 }
 
-.result-meta {
+.result-flag {
   flex-shrink: 0;
-  font-family: var(--font-mono);
-  font-size: 10px;
-  color: var(--text-muted);
-  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 1;
 }
 
 .search-empty {
@@ -335,37 +549,83 @@ onMounted(() => {
 }
 
 .search-hint {
-  padding: 20px 16px;
+  padding: 16px;
   color: var(--text-muted);
   font-size: 12px;
+  overflow-y: auto;
 }
 
-.search-hint p {
+.search-hint > p {
   margin-bottom: 16px;
   line-height: 1.6;
+}
+
+.legend-section {
+  margin-bottom: 12px;
+}
+
+.legend-title {
+  font-size: 9px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+  opacity: 0.7;
 }
 
 .hint-legend {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 8px 12px;
 }
 
 .legend-item {
   display: flex;
   align-items: center;
-  gap: 6px;
-  font-size: 11px;
+  gap: 5px;
+  font-size: 10px;
 }
 
 .legend-dot {
-  width: 8px;
-  height: 8px;
+  width: 7px;
+  height: 7px;
   border-radius: 50%;
+  flex-shrink: 0;
 }
 
+/* Main types */
 .legend-dot.type-person { background: var(--color-person); }
 .legend-dot.type-organization { background: var(--color-organization); }
 .legend-dot.type-family { background: var(--color-family); }
 .legend-dot.type-event { background: var(--color-event); }
+
+/* Financial */
+.legend-dot.type-bank { background: var(--color-bank); }
+.legend-dot.type-centralbank { background: var(--color-centralbank); }
+.legend-dot.type-assetmanager { background: var(--color-assetmanager); }
+.legend-dot.type-privateequity { background: var(--color-privateequity); }
+.legend-dot.type-hedgefund { background: var(--color-hedgefund); }
+.legend-dot.type-swf { background: var(--color-swf); }
+
+/* Government */
+.legend-dot.type-government { background: var(--color-government); }
+.legend-dot.type-agency { background: var(--color-agency); }
+.legend-dot.type-party { background: var(--color-party); }
+
+/* Knowledge */
+.legend-dot.type-foundation { background: var(--color-foundation); }
+.legend-dot.type-thinktank { background: var(--color-thinktank); }
+.legend-dot.type-university { background: var(--color-university); }
+
+/* Business */
+.legend-dot.type-company { background: var(--color-company); }
+.legend-dot.type-defense { background: var(--color-defense); }
+.legend-dot.type-pharma { background: var(--color-pharma); }
+.legend-dot.type-automaker { background: var(--color-automaker); }
+.legend-dot.type-sportsclub { background: var(--color-sportsclub); }
+
+/* Other */
+.legend-dot.type-media { background: var(--color-media); }
+.legend-dot.type-forum { background: var(--color-forum); }
 </style>

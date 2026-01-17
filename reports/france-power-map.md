@@ -1082,7 +1082,175 @@ Pattern: Presidenza → Club de Madrid → influenza internazionale continua
 
 ---
 
-## XVII. L'Oréal: Dall'Ombra Nazista agli Eredi Ebrei
+## XVII. Ecosistema AI Francese: Niel, Mistral, Kyutai
+
+### Il Patron dell'AI Francese
+
+[Xavier Niel](../docs/persons/xavier-niel.md) (1967-) ha costruito un ecosistema AI francese parallelo a quello USA, posizionandosi come king-maker del settore:
+
+```
+XAVIER NIEL
+     │
+     ├── ILIAD/FREE (96% - €13B net worth)
+     │         │
+     │         └── SCALEWAY (cloud computing)
+     │
+     ├── ISTITUZIONI CREATE
+     │         │
+     │         ├── École 42 (2013) - coding school gratuita
+     │         │
+     │         └── Station F (2017) - incubatore più grande mondo
+     │
+     ├── AI INVESTMENTS
+     │         │
+     │         ├── MISTRAL AI (angel 2023)
+     │         │
+     │         └── KYUTAI (co-founder €100M, 2023)
+     │
+     └── BOARD POSITIONS
+               │
+               ├── KKR (2018-)
+               │
+               └── ByteDance (2024-) - unico europeo
+```
+
+### Mistral AI: Il Campione Europeo
+
+[Mistral AI](../docs/company/mistral-ai.md) (2023-) è diventata la risposta europea a OpenAI in meno di 2 anni:
+
+| Metrica | Valore |
+|---------|--------|
+| **Fondazione** | Aprile 2023 |
+| **Valutazione** | €12B ($14B, Sep 2025) |
+| **Funding totale** | €3B+ |
+| **Dipendenti** | ~600 |
+
+### I Fondatori Mistral: La Pipeline Polytechnique
+
+| Fondatore | Background | Ruolo |
+|-----------|------------|-------|
+| [Arthur Mensch](../docs/persons/arthur-mensch.md) | DeepMind → Polytechnique X2011 | CEO |
+| [Guillaume Lample](../docs/persons/guillaume-lample.md) | Meta (co-creatore LLaMA) → Polytechnique X2011 | Chief Scientist |
+| [Timothée Lacroix](../docs/persons/timothee-lacroix.md) | Meta → ENS | CTO |
+
+**Pattern**: I tre fondatori si conoscevano dagli studi. Mensch e Lample sono della stessa classe (X2011) a Polytechnique. Nel settembre 2025 sono diventati i primi AI billionaires francesi (~€1.1B ciascuno, 8%+ stake).
+
+### Investitori Strategici Mistral
+
+| Investitore | Round | Stake/Note |
+|-------------|-------|------------|
+| [ASML](../docs/company/asml.md) | Series C lead | €1.3B, 11% |
+| [Microsoft](../docs/company/microsoft.md) | Series B | Azure partnership |
+| [Nvidia](../docs/company/nvidia.md) | Series B, C | NeMo collaboration |
+| [a16z](../docs/vc/andreessen-horowitz.md) | Series A lead | - |
+| [Eric Schmidt](../docs/persons/eric-schmidt.md) | Angel | - |
+| [Xavier Niel](../docs/persons/xavier-niel.md) | Angel | - |
+
+### Kyutai: Il Lab Open-Source
+
+[Kyutai](../docs/foundation/kyutai.md) (2023-) è il primo lab AI nonprofit europeo, complementare a Mistral:
+
+```
+KYUTAI (€300M budget)
+     │
+     ├── CO-FOUNDERS
+     │         │
+     │         ├── Xavier Niel (Iliad) - €100M
+     │         │
+     │         ├── Rodolphe Saadé (CMA CGM) - €100M
+     │         │
+     │         └── Eric Schmidt (Schmidt Futures) - €100M
+     │
+     ├── LEADERSHIP
+     │         │
+     │         └── Patrick Pérez (CEO, ex-Valeo)
+     │
+     ├── COMPUTING
+     │         │
+     │         └── Scaleway (Iliad Group)
+     │
+     └── OUTPUT
+               │
+               ├── Moshi (voice AI, Jul 2024)
+               │
+               ├── Helium-1 (LLM mobile, Jan 2025)
+               │
+               └── Hibiki (traduzione vocale, Feb 2025)
+```
+
+### Il Modello Duale: Commerciale + Open-Source
+
+| Aspetto | Mistral AI | Kyutai |
+|---------|------------|--------|
+| **Tipo** | Startup commerciale | Nonprofit open-source |
+| **Modelli** | Proprietari/open-weight | Completamente open |
+| **Funding** | VC + strategici | Donazioni filantropiche |
+| **Obiettivo** | Profitto, competere con OpenAI | Ricerca pura, accessibilità |
+| **Patron comune** | Xavier Niel | Xavier Niel |
+
+**Pattern**: Niel replica il modello USA (lab commerciale + fondazione nonprofit) interamente in Francia.
+
+### La Connessione Schmidt-Niel
+
+[Eric Schmidt](../docs/persons/eric-schmidt.md) (ex-Google CEO) connette l'ecosistema AI francese a quello americano:
+
+| Investimento | Tipo | Partner |
+|--------------|------|---------|
+| Kyutai | Co-founder | Niel, Saadé |
+| Mistral AI | Angel | - |
+
+Schmidt porta expertise Silicon Valley + network (Bilderberg steering, NSCAI) nell'AI francese.
+
+### CMA CGM: Il Terzo Pilastro
+
+[Rodolphe Saadé](../docs/persons/rodolphe-saade.md) (1970-) porta nel triangolo AI:
+- Capitale logistico (CMA CGM, #3 shipping mondiale)
+- Network mediterraneo (Marsiglia, Libano)
+- Co-investimento Kyutai €100M
+
+### Geopolitica AI: Macron e Sovereign AI
+
+Partnership strategica annunciata a VivaTech (Giugno 2025) con Nvidia per "sovereign AI" europea:
+- Emmanuel Macron e Jensen Huang presenti
+- Mistral partner per deployment EU
+- Obiettivo: indipendenza AI da USA/Cina
+
+### Pattern: L'Ecosistema Niel
+
+```
+         TELECOMUNICAZIONI
+              (Free/Iliad)
+                   │
+          ┌───────┴───────┐
+          │               │
+    COMPUTING         INFRASTRUTTURA
+    (Scaleway)        (Monaco Tel, Salt)
+          │               │
+          └───────┬───────┘
+                  │
+         ┌───────┴───────┐
+         │               │
+    FORMAZIONE        INCUBAZIONE
+    (École 42)        (Station F)
+         │               │
+         └───────┬───────┘
+                 │
+        ┌────────┴────────┐
+        │                 │
+   AI COMMERCIALE    AI OPEN-SOURCE
+   (Mistral - angel)  (Kyutai - €100M)
+        │                 │
+        └────────┬────────┘
+                 │
+            GOVERNANCE
+         (KKR, ByteDance boards)
+```
+
+Niel ha costruito una pipeline verticale: infrastruttura → computing → formazione → incubazione → AI. È l'unico europeo a replicare il modello di integrazione verticale tech tipico di Silicon Valley.
+
+---
+
+## XVIII. L'Oréal: Dall'Ombra Nazista agli Eredi Ebrei
 
 ### La Fondazione Controversa
 
@@ -1182,7 +1350,7 @@ Rabbino Neuilly                  Lista Knochen
 
 ---
 
-## XVIII. L'Automotive Francese: Stato, Manager, Alleanze
+## XIX. L'Automotive Francese: Stato, Manager, Alleanze
 
 ### Il Dualismo PSA-Renault
 
@@ -1289,7 +1457,7 @@ La famiglia [Peugeot](../docs/family/peugeot.md) da controllori (>25% pre-2012) 
 
 ---
 
-## XIX. Entità Completate e da Investigare
+## XX. Entità Completate e da Investigare
 
 ### Completate in questa sessione
 
@@ -1415,7 +1583,7 @@ La famiglia [Peugeot](../docs/family/peugeot.md) da controllori (>25% pre-2012) 
 
 ---
 
-## XX. Pattern Chiave
+## XXI. Pattern Chiave
 
 ### 1. La Fabbrica delle Élite
 
@@ -1700,9 +1868,57 @@ Compensazioni:
 
 Pattern: Controllo → Sopravvivenza → Influenza residua + diversificazione
 
+### 24. L'Integrazione Verticale Tech
+
+Xavier Niel ha costruito un ecosistema integrato verticalmente unico in Europa:
+
+```
+TELECOMUNICAZIONI (Free/Iliad)
+         │
+         ▼
+    COMPUTING (Scaleway)
+         │
+         ▼
+    FORMAZIONE (École 42)
+         │
+         ▼
+    INCUBAZIONE (Station F)
+         │
+    ┌────┴────┐
+    ▼         ▼
+AI COMMERCIALE   AI OPEN-SOURCE
+(Mistral)        (Kyutai)
+```
+
+Pattern: Infrastruttura → Computing → Talenti → Startup → AI (dual-track)
+
+### 25. Il Ponte Silicon Valley-Parigi
+
+Eric Schmidt connette l'ecosistema AI francese a quello americano:
+
+| Rete USA | Investimento Francia |
+|----------|---------------------|
+| Bilderberg Steering | Kyutai co-founder |
+| NSCAI Chairman | Mistral angel |
+| Google ex-CEO | Station F advisor |
+
+Pattern: Network transatlantico esistente → veicolo investimento AI europeo
+
+### 26. La Pipeline Grandes Écoles → AI
+
+I fondatori Mistral replicano il pattern élite francese in un settore nuovo:
+
+| Fondatore | Grande École | Big Tech | Startup |
+|-----------|--------------|----------|---------|
+| Mensch | Polytechnique X2011 | DeepMind | Mistral CEO |
+| Lample | Polytechnique X2011 | Meta | Mistral Chief Scientist |
+| Lacroix | ENS | Meta | Mistral CTO |
+
+Pattern: Stessa classe Polytechnique → stesso team Big Tech → co-fondatori billionaires
+
 ---
 
-## XXI. Cronologia Essenziale
+## XXII. Cronologia Essenziale
 
 | Anno | Evento | Significato |
 |------|--------|-------------|
@@ -1830,6 +2046,23 @@ Pattern: Controllo → Sopravvivenza → Influenza residua + diversificazione
 | **2023** | Françoise Bettencourt $100B | Prima donna a superare $100B |
 | **2024** | Split Vivendi in 4 entità | Bolloré ristruttura impero |
 | **2025** | Jean-Victor Meyers Vice-Chair L'Oréal | Pronipote rabbino Auschwitz ai vertici |
+| **2013** | Niel fonda École 42 | Coding school gratuita, no professori |
+| **2017** | Niel inaugura Station F | Incubatore più grande mondo, con Macron |
+| **2018** | Niel entra board KKR | Primo francese nel PE americano |
+| **2023 Apr** | Fondazione Mistral AI | Mensch, Lample, Lacroix (ex-DeepMind/Meta) |
+| **2023 Jun** | Mistral Seed €105M | Lightspeed, Index Ventures |
+| **2023 Nov** | Fondazione Kyutai | Niel + Schmidt + Saadé, €300M |
+| **2023 Dec** | Mistral Series A €385M | a16z lead, valutazione €2B |
+| **2024 Feb** | Lancio Le Chat (Mistral) | Chatbot consumer, partnership Microsoft |
+| **2024 Jun** | Mistral Series B €600M | General Catalyst, Nvidia, IBM - €6B val. |
+| **2024 Jul** | Kyutai rilascia Moshi | Prima voice AI open-source EU |
+| **2024 Sep** | Niel entra board ByteDance | Unico europeo, TikTok parent |
+| **2025 Jan** | Kyutai rilascia Helium-1 | LLM mobile, 6 lingue EU |
+| **2025 Feb** | Kyutai rilascia Hibiki | Traduzione vocale simultanea |
+| **2025 Jun** | VivaTech AI Sovereign | Macron + Jensen Huang, partnership Nvidia |
+| **2025 Sep** | Mistral Series C €1.7B | ASML lead (€1.3B, 11%) - €12B valutazione |
+| **2025 Sep** | Fondatori Mistral billionaires | Primi AI billionaires francesi (~€1.1B) |
+| **2025 Dec** | Mistral Large 3 | MoE 675B parametri, flagship model |
 
 ---
 
@@ -1917,6 +2150,23 @@ Pattern: Controllo → Sopravvivenza → Influenza residua + diversificazione
 - [Britannica - Fifth Republic](https://www.britannica.com/topic/Fifth-Republic-French-history)
 - [Club de Madrid - Hollande](https://clubmadrid.org/who/members/hollande-francois/)
 
+### AI / Tech
+- [Mistral AI](https://mistral.ai)
+- [Mistral AI - About](https://mistral.ai/about)
+- [Kyutai](https://kyutai.org)
+- [Kyutai - Team](https://kyutai.org/team)
+- [Wikipedia - Xavier Niel](https://en.wikipedia.org/wiki/Xavier_Niel)
+- [Wikipedia - Mistral AI](https://en.wikipedia.org/wiki/Mistral_AI)
+- [Wikipedia - Arthur Mensch](https://en.wikipedia.org/wiki/Arthur_Mensch)
+- [CNBC - Mistral $14B valuation](https://www.cnbc.com/2025/09/09/ai-firm-mistral-valued-at-14-billion-as-asml-takes-major-stake.html)
+- [Bloomberg - French AI billionaires](https://www.bloomberg.com/news/articles/2025-09-11/first-ai-billionaires-emerge-from-french-homegrown-startup)
+- [TechCrunch - Kyutai Launch](https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/)
+- [Fortune - Billionaires AI Lab](https://fortune.com/2023/11/17/ai-billionaires-xavier-niel-rodolphe-saade-eric-schmidt-france-lab/)
+- [Fortune - Europe Tech Savior Niel](https://fortune.com/europe/2025/06/03/this-hacker-turned-telecom-mogul-could-be-europe-tech-savior-xavier-niel-stationf-ai-lvmh/)
+- [TechCrunch - Niel ByteDance Board](https://techcrunch.com/2024/09/03/xavier-niel-replaces-coatues-laffont-on-board-of-tiktok-parent-bytedance/)
+- [École 42](https://42.fr)
+- [Station F](https://stationf.co)
+
 ---
 
-*Ultimo aggiornamento: 10 Gennaio 2026*
+*Ultimo aggiornamento: 15 Gennaio 2026*

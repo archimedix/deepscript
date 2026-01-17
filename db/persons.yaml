@@ -8,6 +8,9 @@ persons:
       from: 2012
       to: 2019
       note: Chairman & CEO
+    - org: svlg
+      role: chairman
+      note: Past Chairman
   abbas-araghchi:
     born: 1963
     nationality: IRN
@@ -85,6 +88,14 @@ persons:
       from: 2008
       to: 2011
       note: PM
+  abigail-johnson:
+    born: 1961
+    nationality: USA
+    affiliations:
+    - org: fidelity
+      role: executive
+      from: 2014
+      note: CEO & Chair
   abu-mahdi-al-muhandis:
     born: 1954
     died: 2020
@@ -111,6 +122,40 @@ persons:
       role: chairman
       from: 2021
       note: Chairman
+  adam-dangelo:
+    born: 1984
+    nationality: USA
+    affiliations:
+    - org: openai
+      role: board
+      from: 2018
+      note: Board of Directors; voted to remove Altman Nov 2023
+    - org: meta
+      role: executive
+      from: 2006
+      to: 2008
+      note: CTO, VP Engineering
+    - org: quora
+      role: founder
+      from: 2009
+      note: Co-founder, CEO
+    - org: caltech
+      role: alumni
+      note: BS Computer Science 2006
+    - org: asana
+      role: board
+      from: 2008
+      note: Board of Directors
+    relations:
+    - person: bret-taylor
+      type: colleague
+      note: OpenAI board colleagues
+    - person: mark-zuckerberg
+      type: colleague
+      note: Phillips Exeter classmate; Synapse Media Player; Facebook CTO
+    - person: sam-altman
+      type: colleague
+      note: OpenAI board; voted to remove Nov 2023, remained on new board
   adam-grant:
     nationality: USA
     note: Professor Management/Psychology Wharton. World 25 most influential management thinkers. Author Give and Take, Originals.
@@ -129,6 +174,63 @@ persons:
       role: board
       from: 2007
       note: Executive Director
+  adebayo-ogunlesi:
+    born: 1953
+    nationality: NGA-USA
+    note: GIP founder, Goldman Sachs Lead Director, OpenAI board, first non-American SCOTUS clerk
+    affiliations:
+    - org: goldman-sachs
+      role: board
+      from: 2012
+      to: 2024
+      note: Board of Directors, Lead Director (2014-2024)
+    - org: blackrock
+      role: executive
+      from: 2024
+      note: Senior MD, Board of Directors, Global Executive Committee
+    - org: governo-usa
+      role: advisor
+      from: 1980
+      to: 1981
+      note: Law Clerk to Justice Thurgood Marshall, first non-American SCOTUS clerk
+    - org: openai
+      role: board
+      from: 2025
+      note: Board of Directors
+    - org: kosmos-energy
+      role: board
+      from: 2004
+      note: Board of Directors, Lead Independent Director (2025)
+    - org: credit-suisse
+      role: executive
+      from: 1983
+      to: 2006
+      note: EVP, Chief Client Officer, Head Global Investment Banking (2002-04)
+    - org: harvard-business-school
+      role: alumni
+      note: MBA 1979
+    - org: oxford
+      role: alumni
+      note: BA PPE First Class Honors 1975, Lincoln College
+    - org: harvard-law-school
+      role: alumni
+      note: JD magna cum laude 1979, Harvard Law Review
+    - org: gip
+      role: founder
+      from: 2006
+      note: Founding Partner, Chairman, CEO
+    - org: cravath
+      role: partner
+      from: 1981
+      to: 1983
+      note: Attorney
+    relations:
+    - person: bret-taylor
+      type: colleague
+      note: OpenAI board
+    - person: sam-altman
+      type: colleague
+      note: OpenAI board
   adebola-williams:
     nationality: NGA
     note: CEO Red Media Africa
@@ -339,6 +441,19 @@ persons:
       from: 1968
       to: 1979
       note: Regional Secretary, President of Iraq
+  aidan-gomez:
+    born: 1995
+    nationality: GBR-CAN
+    affiliations:
+    - org: cohere
+      role: founder
+      from: 2019
+      note: Co-founder, CEO
+    - org: google-brain
+      role: researcher
+      from: 2017
+      to: 2017
+      note: Intern, co-author Attention Is All You Need
   aiman-al-mudaifer:
     nationality: SAU
     note: CEO NEOM dal 2025. Ex capo Local Real Estate Investment Division di PIF dal 2018.
@@ -470,6 +585,14 @@ persons:
       role: leader
       from: 1993
       to: 2001
+    - org: kleiner-perkins
+      role: partner
+      from: 2007
+      note: Climate change solutions group
+    - org: generation-investment-management
+      role: founder
+      from: 2004
+      note: Co-founder and Chairman
   alain-juppe:
     born: 1945
     nationality: FRA
@@ -849,6 +972,11 @@ persons:
       from: 1992
       to: 2002
       note: Ph.D. Philosophy, studied under Habermas
+    - org: sun-valley-conference
+      role: member
+      note: Attendee 2025
+  alex-krizhevsky:
+    nationality: CAN
   alex-younger:
     born: 1963
     nationality: GBR
@@ -1127,6 +1255,12 @@ persons:
     died: 1935
     nationality: USA
     family: dupont
+    affiliations:
+    - org: dupont-de-nemours
+      role: executive
+      from: 1902
+      to: 1915
+      note: Led 1902 purchase with T. Coleman and Pierre
   alfred-kelly:
     born: 1958
     nationality: USA
@@ -1424,6 +1558,25 @@ persons:
     - person: adolf-eichmann
       type: subordinate
       note: Braccio destro, "il mio miglior uomo"
+  alon-cohen:
+    born: 1968
+    nationality: ISR
+    affiliations:
+    - org: unit-8200
+      role: member
+      note: Mamram (central computing)
+    - org: cyberark
+      role: founder
+      from: 1999
+    - org: cyberark
+      role: executive
+      from: 1999
+      to: 2012
+      note: CEO
+    - org: cyberark
+      role: chairman
+      from: 1999
+      to: 2004
   alphonso-taft:
     born: 1810
     died: 1891
@@ -1528,6 +1681,38 @@ persons:
     - org: darktrace
       role: advisor
       note: Advisory Board, ex Home Secretary
+  ami-luttwak:
+    born: 1984
+    nationality: ISR
+    affiliations:
+    - org: microsoft
+      role: executive
+      from: 2015
+      to: 2020
+      note: Via Adallom acquisition
+    - org: unit-8200
+      role: member
+      note: Captain, R&D team leader and group architect
+    - org: hebrew-university
+      role: alumni
+      note: BSc Physics, Math, CS 2004; MSc CS 2011 (Intel Prize biomedical engineering)
+    - org: wiz
+      role: founder
+      from: 2020
+      note: Co-Founder & CTO
+    - org: adallom
+      role: founder
+      from: 2012
+      to: 2015
+      note: Co-Founder & CTO
+    - org: talpiot
+      role: alumni
+      from: 2001
+      note: Class of 2001, co-founder Adallom & Wiz
+    relations:
+    - person: yinon-costica
+      type: colleague
+      note: Co-founder Adallom (2012), Wiz (2020). Met in Talpiot/Unit 8200 (2001)
   amin-nasser:
     born: 1958
     nationality: SAU
@@ -1595,6 +1780,13 @@ persons:
       role: board
       from: 2020
       note: Chair Governance & Nominations Committee
+  amnon-shashua:
+    nationality: ISR
+    affiliations:
+    - org: ai21-labs
+      role: founder
+      from: 2017
+      note: Chairman, also founder/CEO Mobileye
   amos-genish:
     nationality: ISR
     affiliations:
@@ -1818,6 +2010,14 @@ persons:
       from: 1992
       to: 1997
       note: Baker Hughes Inteq
+  anderson-cooper:
+    born: 1967
+    nationality: USA
+    affiliations:
+    - org: cnn
+      role: journalist
+      from: 2001
+      note: Anderson Cooper 360
   andre-bettencourt:
     born: 1919
     died: 2007
@@ -2317,14 +2517,51 @@ persons:
       from: 1921
       to: 1932
       note: Secretary of Treasury sotto Harding, Coolidge, Hoover
+  andrew-moore:
+    born: 1966
+    nationality: GBR-USA
+    affiliations:
+    - org: google
+      role: executive
+      from: 2018
+      to: 2020
+      note: VP Google Cloud AI
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner, DoD appointee
+    - org: carnegie-mellon
+      role: executive
+      from: 2014
+      to: 2018
+      note: Dean, School of Computer Science
   andrew-ng:
     born: 1976
     nationality: GBR-USA
+    note: AI pioneer, Google Brain co-founder, Stanford professor, Coursera co-founder
     affiliations:
     - org: amazon
       role: board
       from: 2024
       note: Director, Compensation Committee
+    - org: google
+      role: executive
+      from: 2011
+      to: 2012
+      note: Founded Google Brain project
+    - org: stanford-university
+      role: executive
+      from: 2002
+      note: Professor, Director Stanford AI Lab, Adjunct Professor
+    - org: baidu
+      role: executive
+      from: 2014
+      to: 2017
+      note: Chief Scientist, led 1,300 person AI Group
+    - org: mit
+      role: alumni
+      note: MS Electrical Engineering and Computer Science 1998
     - org: coursera
       role: founder
       from: 2012
@@ -2337,6 +2574,25 @@ persons:
       role: partner
       from: 2018
       note: Managing General Partner
+    - org: google-brain
+      role: founder
+      from: 2011
+      to: 2012
+      note: Co-founder, Stanford professor
+    - org: cmu
+      role: alumni
+      note: BS Computer Science, Statistics, Economics 1997
+    - org: berkeley
+      role: alumni
+      note: PhD Computer Science 2002, advisor Michael I. Jordan
+    - org: landing-ai
+      role: founder
+      from: 2017
+      note: Founder, Executive Chairman
+    relations:
+    - person: dario-amodei
+      type: mentor
+      note: Recruited Dario to Baidu AI Lab
   andrew-stein:
     born: 1945
     nationality: USA
@@ -2388,6 +2644,50 @@ persons:
       role: leader
       from: 2008
       to: 2012
+  andy-bechtolsheim:
+    born: 1955
+    nationality: DEU-USA
+    affiliations:
+    - org: google
+      role: shareholder
+      from: 1998
+      note: First investor $100K check
+    - org: stanford-university
+      role: alumni
+      note: MS Electrical Engineering, designed SUN workstation
+    - org: sun-microsystems
+      role: founder
+      from: 1982
+      note: Co-founder, designed SUN workstation
+  andy-grove:
+    born: 1936
+    died: 2016
+    nationality: HUN-USA
+    note: Intel CEO 1987-1998, Chairman 1997-2005. Time Person of the Year 1997. "Only the paranoid survive"
+    affiliations:
+    - org: intel
+      role: executive
+      from: 1968
+      to: 2016
+      note: 'Employee #3, COO, CEO 1987-1998, Chairman 1998-2004'
+    - org: uc-berkeley
+      role: alumni
+      note: PhD Chemical Engineering 1963
+    - org: fairchild-semiconductor
+      role: executive
+      from: 1963
+      to: 1968
+      note: Assistant Director of R&D
+    - org: ccny
+      role: alumni
+      note: BS Chemical Engineering 1960
+    relations:
+    - person: gordon-moore
+      type: mentor
+      note: Grove idolized Moore, followed him from Fairchild to Intel 1968
+    - person: robert-noyce
+      type: colleague
+      note: Intel co-founders, worked together 1968-1990. Complex relationship.
   andy-jassy:
     born: 1968
     nationality: USA
@@ -2407,6 +2707,16 @@ persons:
       role: member
       from: 2018
       to: 2021
+      note: Commissioner
+  andy-konwinski:
+    nationality: USA
+    affiliations:
+    - org: perplexity
+      role: founder
+      from: 2022
+    - org: databricks
+      role: founder
+      note: Co-founder, co-creator Apache Spark
   angel-cabrera:
     born: 1967
     nationality: ESP
@@ -2823,6 +3133,28 @@ persons:
       role: member
       from: 2007
       note: W07 batch
+  aravind-srinivas:
+    born: 1993
+    nationality: IND
+    affiliations:
+    - org: openai
+      role: researcher
+      note: Research intern during PhD
+    - org: deepmind
+      role: researcher
+      note: Research intern during PhD
+    - org: perplexity
+      role: founder
+      from: 2022
+    - org: google-brain
+      role: researcher
+      note: Research intern during PhD
+    - org: iit-madras
+      role: alumni
+      note: B.Tech + M.Tech Electrical Engineering
+    - org: uc-berkeley
+      role: alumni
+      note: PhD Computer Science 2021
   arda-ermut:
     born: 1980
     nationality: TUR
@@ -2989,6 +3321,41 @@ persons:
     - person: steve-jobs
       type: colleague
       note: Close friend, Apple co-lead directors
+  arthur-mensch:
+    born: 1992
+    nationality: FRA
+    affiliations:
+    - org: deepmind
+      role: executive
+      from: 2020
+      to: 2023
+      note: Research Scientist, LLMs
+    - org: mistral-ai
+      role: founder
+      from: 2023
+      note: CEO
+    - org: ecole-polytechnique
+      role: alumni
+      note: X2011, Applied Math & CS 2011-2015
+    - org: ens-paris-saclay
+      role: alumni
+      note: Master MVA 2014-2015
+    relations:
+    - person: guillaume-lample
+      type: co-founder
+      note: Co-fondatori Mistral AI 2023, entrambi X2011
+    - person: timothee-lacroix
+      type: co-founder
+      note: Co-fondatori Mistral AI 2023
+  arthur-rock:
+    born: 1926
+    nationality: USA
+    note: Pioneer VC, coined term venture capitalist, funded Fairchild and Intel
+    affiliations:
+    - org: fairchild-semiconductor
+      role: investor
+      from: 1957
+      note: Arranged funding, coined venture capitalist
   arthur-shelton:
     nationality: USA
   arthur-wellesley-9th-duke:
@@ -3098,17 +3465,51 @@ persons:
     - org: ashoka
       role: member
   assaf-rappaport:
-    born: 1985
+    born: 1983
     nationality: ISR
     affiliations:
+    - org: microsoft
+      role: executive
+      from: 2015
+      to: 2020
+      note: GM Cloud Security (via Adallom acquisition)
     - org: unit-8200
       role: member
+    - org: mckinsey
+      role: member
+      note: Consultant, brief stint post-military
+    - org: hebrew-university
+      role: alumni
+      note: BSc Computer Science, Physics, Mathematics 2005
     - org: wiz
       role: founder
       from: 2020
+      note: Co-Founder & CEO
     - org: wiz
       role: executive
       from: 2020
+    - org: technion
+      role: alumni
+      note: MSc Computer Science 2012
+    - org: adallom
+      role: founder
+      from: 2012
+      to: 2015
+      note: Co-Founder & CEO. CASB startup acquired by Microsoft for $320M
+    - org: talpiot
+      role: alumni
+      from: 2001
+      note: Class of 2001, co-founder Adallom & Wiz
+    relations:
+    - person: ami-luttwak
+      type: colleague
+      note: Co-founder Adallom (2012), Wiz (2020). Met in Talpiot/Unit 8200 (2001)
+    - person: roy-reznik
+      type: colleague
+      note: Co-founder Adallom (2012), Wiz (2020). Met in Unit 8200
+    - person: yinon-costica
+      type: colleague
+      note: Co-founder Adallom (2012), Wiz (2020). Met in Talpiot/Unit 8200 (2001)
   athina-onassis:
     born: 1985
     nationality: GRC
@@ -3349,6 +3750,13 @@ persons:
     - org: chandra-asri
       role: executive
       note: Commercial Vice President Director
+  barry-eggers:
+    nationality: USA
+    affiliations:
+    - org: lightspeed-venture-partners
+      role: founder
+      from: 2000
+      note: Co-founder, Partner
   bart-de-wever:
     born: 1970
     nationality: BEL
@@ -3481,6 +3889,7 @@ persons:
   ben-horowitz:
     born: 1966
     nationality: USA
+    note: Andreessen Horowitz co-founder
     affiliations:
     - org: andreessen-horowitz
       role: founder
@@ -3821,6 +4230,14 @@ persons:
       role: chairman
       from: 2024
       note: Chairman Board of Directors
+  bijan-sabet:
+    nationality: USA
+    affiliations:
+    - org: spark-capital
+      role: founder
+      from: 2005
+      to: 2021
+      note: Co-founder, GP (stepped back 2021)
   bilge-demirkoz:
     nationality: TUR
     note: Professoressa METU, fisica particelle
@@ -3882,6 +4299,10 @@ persons:
     - org: club-madrid
       role: member
       from: 2001
+    relations:
+    - person: hillary-clinton
+      type: spouse
+      note: Married 1975
   bill-ford-jr:
     born: 1957
     nationality: USA
@@ -3930,6 +4351,17 @@ persons:
       role: founder
       from: 1991
       note: Co-founder
+    - org: sun-valley-conference
+      role: member
+      note: Attendee storico
+  bill-joy:
+    born: 1954
+    nationality: USA
+    affiliations:
+    - org: sun-microsystems
+      role: founder
+      from: 1982
+      note: Co-founder, BSD developer, led software
   bill-richardson:
     born: 1947
     died: 2023
@@ -3956,6 +4388,13 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  biz-stone:
+    nationality: USA
+    affiliations:
+    - org: twitter
+      role: founder
+      from: 2006
+      note: Co-founder
   bjorn-wahlroos:
     born: 1952
     nationality: FIN
@@ -4049,6 +4488,14 @@ persons:
       role: board
     - org: us-china-business-council
       role: board
+  bob-swan:
+    nationality: USA
+    affiliations:
+    - org: intel
+      role: executive
+      from: 2016
+      to: 2021
+      note: CFO 2016-19, CEO 2019-2021
   bobby-le-blanc:
     nationality: USA
     affiliations:
@@ -4291,6 +4738,7 @@ persons:
       from: 2020
       note: Group Finance Director
   brad-smith:
+    born: 1959
     nationality: USA
     affiliations:
     - org: microsoft
@@ -4301,6 +4749,25 @@ persons:
       role: board
       from: 2024
       note: Microsoft President, joined with investment
+    - org: netflix
+      role: board
+      from: 2015
+      note: Independent Director
+    - org: columbia-university
+      role: alumni
+      note: JD 1985
+    - org: princeton
+      role: alumni
+      note: BA International Affairs 1981, Woodrow Wilson School
+    - org: princeton
+      role: board
+      from: 2014
+      note: Board of Trustees
+    - org: covington-burling
+      role: partner
+      from: 1986
+      to: 1993
+      note: Associate, software practice London
   brad-smith-amazon:
     nationality: USA
     affiliations:
@@ -4345,12 +4812,64 @@ persons:
       to: 2014
       note: Interim Chairman; anche 1998-99
   bret-taylor:
+    born: 1980
     nationality: USA
     affiliations:
     - org: openai
       role: chairman
       from: 2023
       note: Board Chair
+    - org: meta
+      role: executive
+      from: 2009
+      to: 2012
+      note: CTO (via FriendFeed acquisition), created Like button
+    - org: google
+      role: executive
+      from: 2003
+      to: 2007
+      note: APM, co-creator Google Maps
+    - org: stanford-university
+      role: alumni
+      note: BS Computer Science 2002
+    - org: stanford-university
+      role: alumni
+      note: MS Computer Science 2003
+    - org: salesforce
+      role: executive
+      from: 2016
+      to: 2023
+      note: COO 2016-2021, Co-CEO 2021-2023
+    - org: twitter
+      role: chairman
+      from: 2021
+      to: 2022
+      note: Board Chair fino acquisizione Musk
+    - org: shopify
+      role: board
+      from: 2023
+      note: Board of Directors
+    - org: sierra-ai
+      role: founder
+      from: 2023
+      note: Co-founder with Clay Bavor
+    - org: san-francisco-49ers
+      role: partner
+      from: 2025
+      note: ~1% minority stake (Dec 2025)
+    relations:
+    - person: clay-bavor
+      type: colleague
+      note: Sierra AI co-founder, ex-Google
+    - person: elon-musk
+      type: colleague
+      note: Twitter Board Chair durante acquisizione 2022
+    - person: marc-benioff
+      type: colleague
+      note: Salesforce co-CEO 2021-2023
+    - person: sam-altman
+      type: colleague
+      note: OpenAI Board Chair, reinstated Altman 2023
   brian-a-wong:
     nationality: CN
     note: 52nd employee Alibaba. Former Special Assistant to Mayor Willie Brown San Francisco. Angel investor.
@@ -4379,6 +4898,14 @@ persons:
       note: WEF Annual Meeting 2016
     - org: governo-canada
       role: leader
+  brian-krzanich:
+    nationality: USA
+    affiliations:
+    - org: intel
+      role: executive
+      from: 1982
+      to: 2018
+      note: CEO 2013-2018, resigned
   brian-moynihan:
     born: 1959
     nationality: USA
@@ -4811,6 +5338,16 @@ persons:
     relations:
     - person: francisco-gonzalez
       type: successor
+  carly-fiorina:
+    born: 1954
+    nationality: USA
+    note: First female CEO of Fortune 20 company, 2016 presidential candidate
+    affiliations:
+    - org: hewlett-packard
+      role: executive
+      from: 1999
+      to: 2005
+      note: CEO and Chairman. Compaq merger, ended HP Way
   carme-chacon:
     born: 1971
     nationality: ESP
@@ -4830,6 +5367,15 @@ persons:
     affiliations:
     - org: cobepa
       role: board
+  caroline-kennedy:
+    born: 1957
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: ambassador
+      from: 2013
+      to: 2024
+      note: Ambassador Japan 2013-17, Australia 2022-24
   carsten-spohr:
     born: 1966
     nationality: DEU
@@ -5014,6 +5560,13 @@ persons:
       role: executive
       from: 2023
       note: Vice Presidente
+  chad-boeding:
+    nationality: USA
+    affiliations:
+    - org: iconiq-capital
+      role: founder
+      from: 2011
+      note: Co-founder
   chaim-weizmann:
     born: 1874
     died: 1952
@@ -5342,6 +5895,27 @@ persons:
       role: founder
       from: 2018
       note: President; co-founder
+  chelsea-clinton:
+    born: 1980
+    nationality: USA
+    affiliations:
+    - org: clinton-foundation
+      role: board
+      from: 2011
+      note: Vice Chair
+    - org: oxford
+      role: alumni
+      note: MPhil International Relations 2003, DPhil 2014
+    - org: columbia
+      role: alumni
+      note: MPH 2010
+    - org: stanford
+      role: alumni
+      note: BA History 2001
+    relations:
+    - person: marc-mezvinsky
+      type: spouse
+      note: Married 2010, 3 children
   chelsea-manning:
     born: 1987
     nationality: USA
@@ -5443,6 +6017,24 @@ persons:
       role: founder
       from: 1993
       note: Co-founder
+  chris-olah:
+    born: 1993
+    nationality: CAN
+    affiliations:
+    - org: openai
+      role: employee
+      from: 2017
+      to: 2021
+      note: Lead Interpretability Research
+    - org: google
+      role: employee
+      from: 2015
+      to: 2017
+      note: Research Scientist, Google Brain
+    - org: anthropic
+      role: founder
+      from: 2021
+      note: Head Mechanistic Interpretability
   christel-heydemann:
     nationality: FR
     note: Former BCG Paris. Former Alcatel-Lucent Executive Committee.
@@ -5515,6 +6107,40 @@ persons:
       role: executive
       from: 1998
       note: CEO 2019-2025, now Chair EQT Council
+  christian-szegedy:
+    nationality: HUN
+    note: xAI co-founder, ex-Google Research, InceptionNet inventor, Batch Normalization, Morph Labs Chief Scientist
+    affiliations:
+    - org: google
+      role: researcher
+      from: 2010
+      to: 2023
+      note: Software Engineer 2010-15, Staff Research Scientist 2015-23. InceptionNet, Batch Normalization
+    - org: xai
+      role: founder
+      from: 2023
+      to: 2025
+      note: Co-founder, left Feb 2025
+    - org: university-of-bonn
+      role: alumni
+      note: PhD Applied Mathematics 2005
+    - org: morph-labs
+      role: executive
+      from: 2025
+      note: Chief Scientist, seed investor
+    relations:
+    - person: elon-musk
+      type: colleague
+      note: xAI co-founders 2023-25
+    - person: geoffrey-hinton
+      type: colleague
+      note: Google deep learning research
+    - person: igor-babuschkin
+      type: colleague
+      note: xAI co-founders 2023-25
+    - person: jeff-dean
+      type: colleague
+      note: Google Research 2010-23
   christina-onassis:
     born: 1950
     died: 1988
@@ -5620,7 +6246,9 @@ persons:
     affiliations:
     - org: nscai
       role: member
-      from: 2019
+      from: 2018
+      to: 2021
+      note: Commissioner
     - org: in-q-tel
       role: executive
       from: 2006
@@ -5676,6 +6304,13 @@ persons:
       role: executive
       from: 2021
       note: CEO & Chair
+  christopher-schaepe:
+    nationality: USA
+    affiliations:
+    - org: lightspeed-venture-partners
+      role: founder
+      from: 2000
+      note: Co-founder
   christopher-wylie:
     born: 1989
     nationality: CAN
@@ -5792,6 +6427,17 @@ persons:
     - person: marc-rich
       type: colleague
       note: Worked at Marc Rich + Co before founding Trafigura
+  claude-shannon:
+    born: 1916
+    died: 2001
+    nationality: USA
+    note: Father of information theory
+    affiliations:
+    - org: bell-labs
+      role: researcher
+      from: 1941
+      to: 1972
+      note: Published "A Mathematical Theory of Communication" 1948
   claudia-sheinbaum:
     born: 1962
     nationality: MX
@@ -5848,6 +6494,18 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  clay-bavor:
+    nationality: USA
+    affiliations:
+    - org: google
+      role: executive
+      from: 2005
+      to: 2023
+      note: VP (Gmail, VR/AR Labs)
+    - org: sierra-ai
+      role: founder
+      from: 2023
+      note: Co-founder with Bret Taylor
   clement-attlee:
     born: 1883
     died: 1967
@@ -6140,6 +6798,26 @@ persons:
       role: founder
       from: 1933
       to: 1970
+  cornelius-vanderbilt:
+    born: 1794
+    died: 1877
+    nationality: USA
+    affiliations:
+    - org: new-york-central-railroad
+      role: founder
+      from: 1867
+      to: 1877
+      note: Built railroad empire
+  cornelius-vanderbilt-ii:
+    born: 1843
+    died: 1899
+    nationality: USA
+    affiliations:
+    - org: new-york-central-railroad
+      role: executive
+      from: 1885
+      to: 1899
+      note: Chairman
   corrado-passera:
     born: 1954
     nationality: ITA
@@ -6198,6 +6876,14 @@ persons:
       role: executive
       from: 2024
       note: Vice Governor
+  craig-barrett:
+    nationality: USA
+    affiliations:
+    - org: intel
+      role: executive
+      from: 1974
+      to: 2009
+      note: CEO 1998-2005, Chairman 2005-2009
   craig-mundie:
     born: 1949
     nationality: USA
@@ -6543,6 +7229,14 @@ persons:
     relations:
     - person: michael-federmann
       type: son
+  daniel-gross:
+    nationality: ISR-USA
+    affiliations:
+    - org: safe-superintelligence
+      role: founder
+      from: 2024
+      to: 2025
+      note: Co-founder, CEO (left June 2025 for Meta)
   daniel-hajj:
     born: 1966
     nationality: MX
@@ -6562,6 +7256,13 @@ persons:
     born: 1975
     nationality: CZE
     note: energy, media investor
+  daniel-levy:
+    nationality: USA
+    affiliations:
+    - org: safe-superintelligence
+      role: executive
+      from: 2024
+      note: Co-founder, President
   daniel-oday:
     born: 1964
     nationality: USA
@@ -6589,6 +7290,27 @@ persons:
       role: executive
       from: 2013
       note: CEO, ha rilevato quota Beny
+  daniela-amodei:
+    born: 1987
+    nationality: USA
+    affiliations:
+    - org: openai
+      role: executive
+      from: 2018
+      to: 2020
+      note: VP Safety & Policy
+    - org: stripe
+      role: employee
+      from: 2013
+      to: 2018
+      note: Risk Manager, Core Operations, User Policy
+    - org: anthropic
+      role: founder
+      from: 2021
+      note: President
+    - org: uc-santa-cruz
+      role: alumni
+      note: BA English Literature, Music 2008, Summa Cum Laude
   daniela-schwarzer:
     born: 1973
     nationality: DEU
@@ -6628,6 +7350,42 @@ persons:
       role: ygl
       from: 2019
       note: Director Anti-Corruption Action Centre
+  dario-amodei:
+    born: 1983
+    nationality: USA
+    affiliations:
+    - org: openai
+      role: executive
+      from: 2016
+      to: 2021
+      note: VP Research
+    - org: google
+      role: employee
+      from: 2015
+      to: 2016
+      note: Senior Research Scientist, Google Brain
+    - org: stanford-university
+      role: alumni
+      note: BS Physics 2006, Hertz Fellow
+    - org: baidu
+      role: employee
+      from: 2014
+      to: 2015
+      note: AI Research, Deep Speech 2
+    - org: princeton
+      role: alumni
+      note: PhD Biophysics
+    - org: anthropic
+      role: founder
+      from: 2021
+      note: CEO
+    relations:
+    - person: daniela-amodei
+      type: sibling
+      note: Sister
+    - person: ilya-sutskever
+      type: associate
+      note: Co-authors GPT-2, colleagues at OpenAI
   dario-scannapieco:
     born: 1967
     nationality: ITA
@@ -7001,6 +7759,24 @@ persons:
       role: executive
       from: 2022
       note: Director (10th)
+  david-packard:
+    born: 1912
+    died: 1996
+    nationality: USA
+    note: HP co-founder, Deputy Secretary of Defense 1969-1971
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 1969
+      to: 1971
+      note: Deputy Secretary of Defense under Nixon
+    - org: hewlett-packard
+      role: founder
+      from: 1939
+      note: Co-founder
+    - org: svlg
+      role: founder
+      note: Fondatore 1978
   david-petraeus:
     born: 1952
     nationality: USA
@@ -7161,12 +7937,44 @@ persons:
       note: Principal Owner ($1.725B acquisition)
   david-sacks:
     born: 1972
-    nationality: USA
+    nationality: ZAF-USA
     affiliations:
     - org: governo-usa
       role: advisor
       from: 2025
       note: AI/Crypto Czar
+    - org: paypal
+      role: executive
+      from: 1999
+      to: 2002
+      note: COO, product leader
+    - org: mckinsey
+      role: partner
+      from: 1998
+      to: 1999
+      note: Consultant
+    - org: stanford-university
+      role: alumni
+      note: BA Economics 1994, Stanford Review editor
+    - org: university-of-chicago
+      role: alumni
+      note: JD 1998
+    - org: craft-ventures
+      role: founder
+      from: 2017
+      note: Co-founder, General Partner, $3.3B AUM
+    - org: yammer
+      role: founder
+      from: 2008
+      to: 2012
+      note: Founder & CEO, acquired by Microsoft $1.2B
+    relations:
+    - person: elon-musk
+      type: colleague
+      note: PayPal Mafia
+    - person: reid-hoffman
+      type: colleague
+      note: PayPal Mafia
   david-sassoli:
     born: 1956
     died: 2022
@@ -7293,6 +8101,20 @@ persons:
     - person: albert-ii-belgium
       type: daughter
       note: riconosciuta 2020 dopo test DNA
+  demis-hassabis:
+    born: 1976
+    nationality: GBR
+    affiliations:
+    - org: deepmind
+      role: founder
+      from: 2010
+      note: CEO, Nobel Prize Chemistry 2024
+    - org: cambridge
+      role: alumni
+      note: BA Computer Science 1997, Queens College, Double First
+    - org: ucl
+      role: alumni
+      note: PhD Cognitive Neuroscience 2009, Gatsby Unit postdoc
   denis-healey:
     born: 1917
     died: 2015
@@ -7353,6 +8175,22 @@ persons:
     - person: dermot-gleeson
       type: colleague
       note: Entrambi board INM
+  denis-yarats:
+    nationality: UKR-USA
+    affiliations:
+    - org: meta
+      role: researcher
+      note: Facebook AI Research (FAIR)
+    - org: nyu
+      role: alumni
+      note: PhD Computer Science
+    - org: perplexity
+      role: founder
+      from: 2022
+      note: CTO
+    - org: quora
+      role: executive
+      note: Software Engineer
   dermot-desmond:
     born: 1950
     nationality: IRL
@@ -7459,6 +8297,36 @@ persons:
       from: 1985
       to: 2017
       note: Group President Data Center Group, former CIO
+  diane-greene:
+    born: 1955
+    nationality: USA
+    affiliations:
+    - org: google
+      role: executive
+      from: 2015
+      to: 2019
+      note: CEO Google Cloud, Board member 2012-2019
+    - org: mit
+      role: alumni
+      note: MS Naval Architecture 1978, Chair of MIT Corporation 2020
+    - org: stripe
+      role: board
+    - org: vmware
+      role: founder
+      from: 1998
+      to: 2008
+      note: CEO 1998-2008
+    - org: uc-berkeley
+      role: alumni
+      note: MS Computer Science 1987
+    - org: intuit
+      role: board
+      from: 2006
+      to: 2017
+    relations:
+    - person: mendel-rosenblum
+      type: spouse
+      note: Co-founders of VMware
   dick-cheney:
     born: 1941
     died: 2025
@@ -7643,6 +8511,23 @@ persons:
       role: executive
     - org: airbus
       role: executive
+  dirk-meyer:
+    nationality: USA
+    affiliations:
+    - org: amd
+      role: executive
+      from: 1996
+      to: 2011
+      note: CEO 2008-2011, designed Athlon processor
+  divesh-makan:
+    born: 1974
+    nationality: ZAF-USA
+    note: ICONIQ Capital founder, manages wealth of tech billionaires
+    affiliations:
+    - org: iconiq-capital
+      role: founder
+      from: 2011
+      note: Co-founder, Partner
   dmitry-kiselyov:
     born: 1954
     nationality: RUS
@@ -7787,6 +8672,32 @@ persons:
       from: 1972
       to: 1996
       note: Founder, retired 1996
+    - org: raytheon
+      role: employee
+      note: Sales engineer, mid 1950s
+    - org: fairchild-semiconductor
+      role: executive
+      note: Sales executive, 7 years
+    - org: national-semiconductor
+      role: founder
+      from: 1967
+      note: Co-founder, VP Sales & Marketing
+    - org: fordham
+      role: alumni
+      note: BS Chemistry
+    relations:
+    - person: doug-leone
+      type: mentor
+      note: Sequoia successor, handed reins 1996
+    - person: michael-moritz
+      type: mentor
+      note: Recruited from journalism, Sequoia successor
+    - person: mike-markkula
+      type: associate
+      note: Valentine introduced Jobs to Markkula
+    - person: steve-jobs
+      type: associate
+      note: Early Apple investor, introduced Jobs to Markkula
   donald-johnston:
     born: 1936
     nationality: CAN
@@ -8124,6 +9035,13 @@ persons:
       role: leader
       from: 2022
       note: President, prima donna tribale e seconda donna in carica
+  dubose-montgomery:
+    nationality: USA
+    affiliations:
+    - org: menlo-ventures
+      role: founder
+      from: 1976
+      note: Founder (led firm ~40 years)
   durmus-yilmaz:
     born: 1947
     nationality: TUR
@@ -8139,10 +9057,36 @@ persons:
     nationality: USA
     note: Facebook co-founder; Asana CEO; youngest self-made billionaire 2011; $130M+ Dem donations
     affiliations:
+    - org: meta
+      role: founder
+      from: 2004
+      to: 2008
+      note: Co-founder, CTO, VP Engineering
     - org: future-forward
       role: member
       from: 2020
       note: Donor $91.8M (2020), $38M (2024)
+    - org: iconiq-capital
+      role: member
+      note: Client
+    - org: harvard
+      role: alumni
+      note: Economics 2002-2004, dropped out
+    - org: asana
+      role: founder
+      from: 2008
+      note: Co-founder, CEO 2008-2025, Chairman 2025+
+    - org: good-ventures
+      role: founder
+      from: 2011
+      note: Co-founder with Cari Tuna
+    relations:
+    - person: justin-rosenstein
+      type: colleague
+      note: Asana co-founders
+    - person: mark-zuckerberg
+      type: colleague
+      note: Facebook co-founders, Harvard roommates
   earl-valencia:
     nationality: PH
     note: Former Cisco and Raytheon. Co-founded IdeaSpace Foundation supported by First Pacific.
@@ -8161,6 +9105,19 @@ persons:
       role: president
       from: 2021
       to: 2024
+  ed-gillespie:
+    born: 1961
+    nationality: USA
+    affiliations:
+    - org: american-crossroads
+      role: founder
+      from: 2010
+      note: Co-founder with Karl Rove
+    - org: rnc
+      role: chairman
+      from: 2003
+      to: 2005
+      note: Chairman RNC
   ed-stack:
     born: 1954
     nationality: USA
@@ -8341,6 +9298,33 @@ persons:
       role: ygl
       from: 2011
       note: Young Leader 2011, Prime Minister
+  eduardo-saverin:
+    born: 1982
+    nationality: BRA-SGP
+    affiliations:
+    - org: meta
+      role: founder
+      from: 2004
+      to: 2012
+      note: Co-founder, CFO
+    - org: harvard
+      role: alumni
+      note: BA Economics 2006, magna cum laude, Phoenix SK Club, Alpha Epsilon Pi
+    - org: b-capital
+      role: founder
+      from: 2015
+      note: Co-founder, Co-CEO
+    - org: antler
+      role: investor
+      from: 2020
+      note: Early investor
+    relations:
+    - person: dustin-moskovitz
+      type: colleague
+      note: Facebook co-founders
+    - person: mark-zuckerberg
+      type: colleague
+      note: Facebook co-founders, Harvard classmates, lawsuit settlement 2009
   edward-heath:
     born: 1916
     died: 2005
@@ -8351,6 +9335,25 @@ persons:
       from: 1970
       to: 1974
       note: Prime Minister
+  edward-johnson-ii:
+    born: 1898
+    died: 1984
+    nationality: USA
+    affiliations:
+    - org: fidelity
+      role: founder
+      from: 1946
+      to: 1984
+      note: Founder
+  edward-johnson-iii:
+    born: 1930
+    nationality: USA
+    affiliations:
+    - org: fidelity
+      role: executive
+      from: 1977
+      to: 2014
+      note: CEO
   edward-rice:
     nationality: USA
     affiliations:
@@ -8618,6 +9621,60 @@ persons:
       role: board
       from: 2020
       note: Former Raytheon board (2018-2020)
+  elliot-abrams:
+    born: 1948
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: fellow
+      note: Senior Fellow for Middle Eastern Studies
+    - org: governo-usa
+      role: minister
+      from: 1981
+      to: 1989
+      note: Assistant Secretary of State (Human Rights, Inter-American Affairs)
+    - org: governo-usa
+      role: advisor
+      from: 2001
+      to: 2009
+      note: NSC Senior Director, Deputy NSA for Global Democracy Strategy
+    - org: governo-usa
+      role: advisor
+      from: 2019
+      to: 2021
+      note: Special Representative for Venezuela and Iran
+    - org: hudson-institute
+      role: fellow
+    - org: aei
+      role: fellow
+    - org: lse
+      role: alumni
+      note: MSc International Relations 1970
+    - org: ned
+      role: board
+      from: 2012
+      to: 2023
+    - org: harvard
+      role: alumni
+      note: BA 1969
+    - org: harvard
+      role: alumni
+      note: JD 1973
+    - org: ethics-public-policy-center
+      role: executive
+      from: 1996
+      to: 2001
+      note: President
+    relations:
+    - person: norman-podhoretz
+      type: family
+      note: son-in-law (married Rachel Decter 1980-2013)
+    - person: paul-wolfowitz
+      type: colleague
+      note: fellow neoconservatives, PNAC signatories
+    - person: richard-perle
+      type: colleague
+      note: fellow neoconservatives, both from Senator Jackson staff
   elliott-abrams:
     born: 1948
     nationality: USA
@@ -8664,11 +9721,18 @@ persons:
       from: 2015
       to: 2018
       note: Co-chair, left board 2018
+    - org: xai
+      role: founder
+      from: 2023
+      note: Founder & CEO
     - org: doge
       role: leader
       from: 2025
       to: 2025
       note: Chair (de facto), lascia Aprile 2025
+    - org: sun-valley-conference
+      role: member
+      note: Speaker 2022, non invitato 2025
     relations:
     - person: joshua-haldeman
       type: grandfather
@@ -9043,6 +10107,18 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader, Mayor LA, Ambassador India
+  eric-horvitz:
+    born: 1960
+    nationality: USA
+    affiliations:
+    - org: microsoft
+      role: executive
+      note: Chief Scientific Officer, Technical Fellow
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner
   eric-jing:
     born: 1972
     nationality: CHN
@@ -9135,9 +10211,29 @@ persons:
       from: 2025
       note: CEO
     - org: scsp
-      role: chairman
+      role: founder
       from: 2021
       note: Founder and Chairman
+    - org: nscai
+      role: chairman
+      from: 2018
+      to: 2021
+    - org: mistral-ai
+      role: investor
+      from: 2023
+    - org: kyutai
+      role: founder
+      from: 2023
+      note: Co-founder via Schmidt Futures
+    - org: sun-microsystems
+      role: executive
+      from: 1983
+      to: 1997
+      note: CTO, 14 years
+    relations:
+    - person: sheryl-sandberg
+      type: colleague
+      note: CEO when Sandberg joined Google 2001
   eric-trappier:
     nationality: FRA
     affiliations:
@@ -9553,6 +10649,20 @@ persons:
       role: executive
       from: 1949
       to: 1962
+  eugene-kleiner:
+    born: 1923
+    died: 2003
+    nationality: USA
+    note: Fairchild Traitorous Eight, Kleiner Perkins founder
+    affiliations:
+    - org: kleiner-perkins
+      role: founder
+      from: 1972
+    - org: fairchild-semiconductor
+      role: founder
+      from: 1957
+      to: 1961
+      note: Left to found Kleiner Perkins 1972
   eugene-schueller:
     born: 1881
     died: 1957
@@ -9573,6 +10683,13 @@ persons:
       role: member
       from: 2014
       note: MEP Bulgaria
+  evan-williams:
+    nationality: USA
+    affiliations:
+    - org: twitter
+      role: founder
+      from: 2006
+      note: Co-founder, CEO 2008-2010
   evelyn-rothschild:
     born: 1931
     died: 2022
@@ -9907,6 +11024,18 @@ persons:
     relations:
     - person: juan-carlos-i
       type: son
+  felix-dothan:
+    born: 1924
+    died: 2005
+    nationality: ISR
+    affiliations:
+    - org: hebrew-university
+      role: professor
+      note: Physics
+    - org: talpiot
+      role: founder
+      from: 1979
+      note: Co-initiator with Shaul Yatziv
   felix-warburg:
     born: 1871
     died: 1937
@@ -10733,6 +11862,35 @@ persons:
       role: founder
       from: 1940
       to: 1967
+  fred-terman:
+    born: 1900
+    died: 1982
+    nationality: USA
+    note: Father of Silicon Valley, Stanford provost, Radio Engineering textbook author
+    affiliations:
+    - org: stanford-university
+      role: alumni
+      from: 1925
+      to: 1965
+      note: BA Chemistry 1920, MS Electrical Engineering 1922
+    - org: mit
+      role: alumni
+      note: ScD Electrical Engineering 1924, advisor Vannevar Bush
+    - org: harvard
+      role: executive
+      from: 1942
+      to: 1945
+      note: Director, Radio Research Laboratory
+    relations:
+    - person: david-packard
+      type: mentor
+      note: Stanford professor, encouraged HP founding
+    - person: william-hewlett
+      type: mentor
+      note: Stanford professor, encouraged HP founding
+    - person: william-shockley
+      type: mentor
+      note: Recruited Shockley to return to Palo Alto 1956
   frederic-arnault:
     born: 1995
     nationality: FRA
@@ -10821,6 +11979,13 @@ persons:
       role: leader
       from: 2024
       note: King Frederik X
+  fridtjof-berge:
+    nationality: NOR
+    affiliations:
+    - org: antler
+      role: founder
+      from: 2017
+      note: Co-founder
   friede-springer:
     born: 1942
     nationality: DEU
@@ -10882,6 +12047,11 @@ persons:
       from: 2005
       to: 2014
       note: CEO e General Manager 2005-2014
+  fw-de-klerk:
+    born: 1936
+    died: 2021
+    nationality: ZAF
+    note: Last Apartheid President, released Mandela, Nobel Peace Prize 1993
   fyodor-ladygin:
     nationality: RUS
     note: Direttore GRU 1992-1997. Primo direttore GRU nella Russia post-sovietica.
@@ -11259,6 +12429,28 @@ persons:
     - person: yuri-kovalchuk
       type: colleague
       note: Bank Rossiya shareholders, Putin inner circle
+  geoffrey-hinton:
+    born: 1947
+    nationality: GBR-CAN
+    affiliations:
+    - org: google
+      role: researcher
+      from: 2013
+      to: 2023
+      note: VP and Engineering Fellow
+    - org: university-of-toronto
+      role: faculty
+      from: 1987
+      note: Professor Emeritus, Computer Science
+    - org: google-brain
+      role: founder
+      from: 2013
+      to: 2023
+      note: VP and Engineering Fellow
+    - org: vector-institute
+      role: founder
+      from: 2017
+      note: Co-founder, Chief Scientific Advisor
   george-ball:
     born: 1909
     died: 1994
@@ -11337,6 +12529,15 @@ persons:
       role: member
       from: 1995
       note: Partecipante
+    - org: rnc
+      role: chairman
+      from: 1973
+      to: 1974
+      note: Chairman RNC during Watergate
+    relations:
+    - person: karl-rove
+      type: mentor
+      note: RNC chair ruled in Rove favor 1973, hired him at RNC, career patron
   george-orwell:
     born: 1903
     died: 1950
@@ -11505,6 +12706,10 @@ persons:
     - person: paul-wolfowitz
       type: colleague
       note: Deputy Sec Defense
+  george-washington-vanderbilt:
+    born: 1862
+    died: 1914
+    nationality: USA
   georges-elhedery:
     born: 1974
     nationality: LBN-FRA
@@ -11676,6 +12881,16 @@ persons:
     relations:
     - person: heather-reisman
       type: spouse
+  gertrude-vanderbilt-whitney:
+    born: 1875
+    died: 1942
+    nationality: USA
+    affiliations:
+    - org: whitney-museum
+      role: founder
+      from: 1931
+      to: 1942
+      note: Founded Whitney Museum
   giacomo-matteotti:
     born: 1885
     died: 1924
@@ -11902,6 +13117,39 @@ persons:
     relations:
     - person: michael-federmann
       type: son
+  gil-shwed:
+    born: 1968
+    nationality: ISR
+    affiliations:
+    - org: wef
+      role: glt
+      note: Global Leader for Tomorrow
+    - org: unit-8200
+      role: member
+      note: Developed stateful inspection concept
+    - org: hebrew-university
+      role: employee
+      note: System administrator age 14-18, computer science courses in high school
+    - org: check-point
+      role: founder
+      from: 1993
+      note: Co-founder with Kramer and Nacht
+    - org: check-point
+      role: executive
+      from: 1994
+      to: 2024
+      note: CEO, longest tenure Nasdaq-listed company
+    - org: check-point
+      role: chairman
+      from: 2024
+      note: Executive Chairman
+    relations:
+    - person: marius-nacht
+      type: associate
+      note: Co-founder Check Point, met at Optrotech
+    - person: shlomo-kramer
+      type: associate
+      note: Co-founder Check Point, met in Unit 8200
   gila-gamliel:
     born: 1974
     nationality: ISR
@@ -11931,6 +13179,11 @@ persons:
     born: 1960
     nationality: USA
     affiliations:
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner
     - org: in-q-tel
       role: executive
       from: 1999
@@ -12134,6 +13387,10 @@ persons:
       role: executive
       from: 2023
       note: CEO e Direttore Generale
+  gloria-vanderbilt:
+    born: 1924
+    died: 2019
+    nationality: USA
   goh-chok-tong:
     born: 1941
     nationality: SGP
@@ -12183,6 +13440,41 @@ persons:
       note: Chancellor of the Exchequer
     - org: club-madrid
       role: member
+  gordon-moore:
+    born: 1929
+    died: 2023
+    nationality: USA
+    note: Intel co-founder, Moore Law author, $10B+ philanthropist
+    affiliations:
+    - org: intel
+      role: founder
+      from: 1968
+      to: 2023
+      note: Co-founder, President 1975-79, CEO 1979-87, Chairman 1987-97, Emeritus 1997-2023
+    - org: uc-berkeley
+      role: alumni
+      note: BS Chemistry 1950
+    - org: caltech
+      role: alumni
+      note: PhD Chemistry & Physics 1954
+    - org: caltech
+      role: board
+      from: 1983
+      to: 2023
+      note: Trustee 1983, Chairman 1993-2000, Life Member 2009
+    - org: fairchild-semiconductor
+      role: founder
+      from: 1957
+      to: 1968
+      note: R&D Director
+    - org: moore-foundation
+      role: founder
+      from: 2000
+      to: 2023
+    relations:
+    - person: andy-grove
+      type: colleague
+      note: 'Intel Trinity: Moore handed CEO to Grove 1987'
   grand-duchess-charlotte:
     born: 1896
     died: 1985
@@ -12228,6 +13520,19 @@ persons:
     - person: grand-duke-henri
       type: parent
       note: Padre di Henri
+  grant-gale:
+    born: 1903
+    died: 1998
+    nationality: USA
+    note: Physics professor Grinnell, classmate of John Bardeen, mentor to Noyce
+    affiliations:
+    - org: grinnell-college
+      role: professor
+      note: S.S. Williston Professor of Physics
+    relations:
+    - person: robert-noyce
+      type: mentor
+      note: Showed Noyce first transistors 1948, saved him from expulsion
   greg-abel:
     born: 1962
     nationality: CAN
@@ -12237,12 +13542,44 @@ persons:
       from: 2018
       note: Vice Chairman 2018-2025, CEO dal 1 gennaio 2026
   greg-brockman:
+    born: 1987
     nationality: USA
     affiliations:
     - org: openai
       role: executive
       from: 2015
-      note: President, Co-founder
+      note: Co-founder, President, Chairman
+    - org: mit
+      role: alumni
+      note: Dropped out 2010
+    - org: stripe
+      role: executive
+      from: 2010
+      to: 2015
+      note: First CTO (2013-2015)
+    - org: harvard
+      role: alumni
+      note: Dropped out 2009, Math/CS
+    relations:
+    - person: elon-musk
+      type: colleague
+      note: OpenAI co-founders
+    - person: ilya-sutskever
+      type: colleague
+      note: OpenAI co-founders
+    - person: patrick-collison
+      type: colleague
+      note: MIT classmate, Stripe co-founder
+    - person: sam-altman
+      type: colleague
+      note: OpenAI co-founders
+  greg-corrado:
+    nationality: USA
+    affiliations:
+    - org: google-brain
+      role: founder
+      from: 2011
+      note: Co-founder
   greg-norman:
     born: 1955
     nationality: AUS
@@ -12373,6 +13710,28 @@ persons:
       role: executive
       from: 2019
       note: CEO
+  guillaume-lample:
+    born: 1991
+    nationality: FRA
+    affiliations:
+    - org: meta
+      role: executive
+      to: 2023
+      note: Research Scientist, LLaMA co-creator
+    - org: mistral-ai
+      role: founder
+      from: 2023
+      note: Chief Scientist
+    - org: ecole-polytechnique
+      role: alumni
+      note: X2011
+    - org: carnegie-mellon
+      role: alumni
+      note: PhD Computer Science, NLP
+    relations:
+    - person: timothee-lacroix
+      type: co-founder
+      note: Co-fondatori Mistral AI 2023, colleghi Meta FAIR
   guillaume-v-luxembourg:
     born: 1981
     nationality: LUX
@@ -12991,6 +14350,14 @@ persons:
     - org: lockheed-martin
       role: board
       note: Classified Business & Security Committee
+  hector-ruiz:
+    nationality: MEX-USA
+    affiliations:
+    - org: amd
+      role: executive
+      from: 2000
+      to: 2008
+      note: CEO 2002-2008, Executive Chairman 2008
   helen-clark:
     born: 1950
     nationality: NZL
@@ -13250,6 +14617,12 @@ persons:
     died: 1889
     nationality: USA
     family: dupont
+    affiliations:
+    - org: dupont-de-nemours
+      role: executive
+      from: 1850
+      to: 1889
+      note: CEO, expanded during Civil War
   henry-ford-iii:
     nationality: USA
     affiliations:
@@ -13891,6 +15264,42 @@ persons:
     - person: fabio-panetta
       type: predecessor
       note: Predecessore come Governatore Banca Italia
+  igor-babuschkin:
+    nationality: DEU
+    note: xAI co-founder, ex-DeepMind/OpenAI, AlphaStar lead, Babuschkin Ventures founder
+    affiliations:
+    - org: openai
+      role: researcher
+      from: 2020
+      to: 2023
+      note: Research Engineer, GPT-4 development
+    - org: xai
+      role: founder
+      from: 2023
+      to: 2025
+      note: Co-founder, Chief Engineer, Memphis supercluster lead
+    - org: deepmind
+      role: researcher
+      from: 2017
+      to: 2020
+      note: Senior Research Engineer, AlphaStar lead, WaveNet
+    - org: tu-dortmund
+      role: alumni
+      note: MS Physics 2015
+    - org: babuschkin-ventures
+      role: founder
+      from: 2025
+      note: Founder
+    relations:
+    - person: demis-hassabis
+      type: colleague
+      note: DeepMind 2017-20
+    - person: elon-musk
+      type: colleague
+      note: xAI co-founders 2023-25
+    - person: sam-altman
+      type: colleague
+      note: OpenAI 2020-23
   igor-bogudlov:
     nationality: ISR
     note: Paragon CTO
@@ -14068,13 +15477,45 @@ persons:
     - org: igarape-institute
       role: founder
   ilya-sutskever:
-    nationality: ISR
+    born: 1986
+    nationality: ISR-CAN
     affiliations:
     - org: openai
       role: founder
       from: 2015
       to: 2024
       note: Co-founder, Chief Scientist until 2024
+    - org: university-of-toronto
+      role: alumni
+      note: BSc Math 2005, MSc CS 2007, PhD CS 2013
+    - org: google-brain
+      role: researcher
+      from: 2013
+      to: 2015
+      note: Research Scientist, seq2seq, TensorFlow, AlphaGo
+    - org: open-university-israel
+      role: alumni
+      note: Early studies 2000-2002
+    - org: safe-superintelligence
+      role: founder
+      from: 2024
+      note: Co-founder, CEO (July 2025-)
+    relations:
+    - person: alex-krizhevsky
+      type: colleague
+      note: AlexNet co-creators 2012
+    - person: andrew-ng
+      type: colleague
+      note: Postdoc at Stanford 2012
+    - person: daniel-gross
+      type: colleague
+      note: SSI co-founders
+    - person: daniel-levy
+      type: colleague
+      note: SSI co-founders, President
+    - person: geoffrey-hinton
+      type: mentor
+      note: PhD supervisor, AlexNet collaborator
   iman-pahlavi:
     born: 1993
     nationality: USA
@@ -14255,6 +15696,20 @@ persons:
     - person: jeff-yass
       type: mentor
       note: Finanziatore iniziale, $30k per seggio Philadelphia Stock Exchange
+  israel-grimberg:
+    nationality: ISR
+    affiliations:
+    - org: unit-8200
+      role: member
+      note: Senior officer
+    - org: team8
+      role: founder
+      from: 2014
+      note: Co-founder, Chief Innovation Officer
+    relations:
+    - person: liran-grinberg
+      type: associate
+      note: Co-founder Team8, Unit 8200 colleagues
   isser-harel:
     born: 1912
     died: 2003
@@ -14306,6 +15761,16 @@ persons:
       from: 1984
       to: 2021
       note: CEO 2002-2021, joined as coal trader 1984. Largest shareholder 10.09% (2025)
+  ivan-zhang:
+    nationality: CAN
+    affiliations:
+    - org: cohere
+      role: founder
+      from: 2019
+      note: Co-founder, CTO → Product Lead
+    - org: university-of-toronto
+      role: alumni
+      note: Attended, dropped out
   ivanka-trump:
     born: 1981
     nationality: USA
@@ -14387,6 +15852,82 @@ persons:
       role: leader
       from: 2017
       to: 2023
+  jack-clark:
+    nationality: GBR
+    affiliations:
+    - org: openai
+      role: executive
+      from: 2016
+      to: 2020
+      note: Policy Director
+    - org: bloomberg
+      role: employee
+      from: 2014
+      to: 2016
+      note: Technology Reporter, AI/ML beat
+    - org: anthropic
+      role: founder
+      from: 2021
+      note: Co-founder
+    - org: uea
+      role: alumni
+      note: BA English Literature with Creative Writing 2009
+    - org: stanford-hai
+      role: advisor
+      from: 2017
+      to: 2024
+      note: Founding member AI Index, co-chair
+  jack-dorsey:
+    born: 1976
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: board
+      from: 2013
+      note: Board of Directors
+    - org: nyu
+      role: alumni
+      note: Computer Science 1997-1999 (no degree)
+    - org: twitter
+      role: founder
+      from: 2006
+      to: 2021
+      note: Co-founder, CEO 2006-2008, 2015-2021
+    - org: block
+      role: founder
+      from: 2009
+      note: Co-founder, Chairman, CEO (formerly Square)
+    - org: bluesky
+      role: founder
+      from: 2019
+      to: 2024
+      note: Founder, Board of Directors 2022-2024
+    - org: berggruen-institute
+      role: board
+      note: Governance Center board member
+    - org: start-small
+      role: founder
+      from: 2020
+      note: Philanthropic initiative, $1B initial funding
+    - org: missouri-st
+      role: alumni
+      note: Computer Science 1995-1997 (no degree)
+    relations:
+    - person: biz-stone
+      type: colleague
+      note: Twitter co-founder
+    - person: elon-musk
+      type: colleague
+      note: Twitter board connection; Dorsey supported Musk acquisition 2022
+    - person: evan-williams
+      type: colleague
+      note: Twitter co-founder
+    - person: jim-mckelvey
+      type: colleague
+      note: Square/Block co-founder
+    - person: marc-andreessen
+      type: rival
+      note: Public disputes over Web3 and crypto; Andreessen blocked Dorsey on Twitter
   jack-ma:
     born: 1964
     nationality: CHN
@@ -14412,6 +15953,9 @@ persons:
     - person: joe-tsai
       type: co-founder
       note: Co-fondatori Alibaba
+  jack-schlossberg:
+    born: 1993
+    nationality: USA
   jack-straw:
     born: 1946
     nationality: GBR
@@ -14922,6 +16466,19 @@ persons:
       note: Consultant
     - org: dalberg
       role: partner
+  james-stavridis:
+    born: 1955
+    nationality: USA
+    affiliations:
+    - org: nato
+      role: official
+      from: 2009
+      to: 2013
+      note: 16th Supreme Allied Commander Europe (SACEUR)
+    - org: fortinet
+      role: board
+      from: 2021
+      note: Director since Oct 2021
   james-taiclet:
     born: 1960
     nationality: USA
@@ -15210,6 +16767,19 @@ persons:
       role: fellow
     - org: unsw
       role: professor
+  janet-napolitano:
+    born: 1957
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 2009
+      to: 2013
+      note: Secretary of Homeland Security
+    - org: fortinet
+      role: board
+      from: 2024
+      note: Director since Nov 2024
   jannie-mouton:
     born: 1946
     died: 2024
@@ -15234,6 +16804,32 @@ persons:
       role: fellow
     - org: google
       role: executive
+  jared-kaplan:
+    nationality: USA
+    affiliations:
+    - org: openai
+      role: employee
+      from: 2019
+      to: 2020
+      note: Researcher, co-developed GPT-3, Codex, Scaling Laws
+    - org: stanford-university
+      role: alumni
+      note: BS Physics & Mathematics 2005
+    - org: anthropic
+      role: founder
+      from: 2021
+      note: Chief Science Officer
+    - org: johns-hopkins
+      role: employee
+      from: 2012
+      note: Associate Professor of Physics, on leave 2024-25
+    - org: harvard
+      role: alumni
+      note: 'PhD Physics 2009, Hertz Fellow, thesis: Aspects of Holography'
+    relations:
+    - person: dario-amodei
+      type: colleague
+      note: Hertz Fellows, co-founders Anthropic
   jared-kushner:
     born: 1981
     nationality: USA
@@ -15263,6 +16859,11 @@ persons:
     - org: rand-corporation
       role: executive
       from: 2022
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner
   jawaharlal-nehru:
     born: 1889
     died: 1964
@@ -15319,6 +16920,17 @@ persons:
     - person: paul-wolfowitz
       type: colleague
       note: Pentagon Iraq planning
+  jay-last:
+    born: 1929
+    died: 2021
+    nationality: USA
+    note: Traitorous Eight, photolithography, co-founded Amelco
+    affiliations:
+    - org: fairchild-semiconductor
+      role: founder
+      from: 1957
+      to: 1961
+      note: Photolithography, first IC team
   jay-rockefeller:
     born: 1937
     nationality: USA
@@ -15459,6 +17071,17 @@ persons:
       role: chairman
       from: 2022
       note: Chair EQT Asia, Chairman dal 2026 (founder Baring PE Asia)
+  jean-hoerni:
+    born: 1924
+    died: 1997
+    nationality: CHE-USA
+    note: Traitorous Eight, invented planar process 1959
+    affiliations:
+    - org: fairchild-semiconductor
+      role: founder
+      from: 1957
+      to: 1961
+      note: Invented planar process
   jean-jacques-morin:
     nationality: FRA
     affiliations:
@@ -15709,6 +17332,31 @@ persons:
     - org: washington-post
       role: owner
       from: 2013
+    - org: perplexity
+      role: investor
+      from: 2024
+    - org: sun-valley-conference
+      role: member
+      note: Attendee regolare, 2024, 2025
+  jeff-dean:
+    born: 1968
+    nationality: USA
+    affiliations:
+    - org: google
+      role: executive
+      from: 1999
+      note: Senior Fellow, Chief Scientist (2023)
+    - org: google-brain
+      role: founder
+      from: 2011
+      to: 2023
+      note: Co-founder, leader
+    - org: university-of-minnesota
+      role: alumni
+      note: BS Computer Science & Economics 1990, summa cum laude
+    - org: university-of-washington
+      role: alumni
+      note: PhD Computer Science 1996
   jeff-immelt:
     born: 1956
     nationality: USA
@@ -15984,6 +17632,58 @@ persons:
       role: partner
       from: 1997
       to: 2005
+  jerry-sanders:
+    born: 1936
+    nationality: USA
+    affiliations:
+    - org: amd
+      role: founder
+      from: 1969
+      to: 2002
+      note: Co-founder, CEO 1969-2002, Chairman until 2008
+    - org: fairchild-semiconductor
+      role: executive
+      from: 1961
+      to: 1969
+      note: Director of Marketing, fired by Hogan management
+  jerry-ungerman:
+    nationality: USA
+    affiliations:
+    - org: ibm
+      role: executive
+    - org: check-point
+      role: executive
+      from: 1998
+      to: 2000
+      note: EVP Sales, Marketing, Business Development
+    - org: check-point
+      role: executive
+      from: 2001
+      to: 2005
+      note: President
+    - org: check-point
+      role: board
+      from: 2005
+      to: 2020
+      note: Vice Chairman
+    - org: check-point
+      role: chairman
+      from: 2020
+      to: 2024
+    - org: check-point
+      role: board
+      from: 2024
+      note: Director
+    - org: university-of-minnesota
+      role: alumni
+      note: BA Business Administration
+    - org: hitachi-data-systems
+      role: executive
+      note: EVP Operations
+    - org: serena-software
+      role: board
+      from: 1998
+      note: Director, Compensation/Audit/Nominating Committees
   jerzy-buzek:
     born: 1940
     nationality: POL
@@ -16076,6 +17776,15 @@ persons:
       from: 1995
       to: 2004
       note: President
+  jim-goetz:
+    nationality: USA
+    affiliations:
+    - org: sequoia-capital
+      role: partner
+      note: Partner
+    - org: palo-alto-networks
+      role: board
+      note: Board Director
   jim-hagemann-snabe:
     born: 1965
     nationality: DNK
@@ -16109,6 +17818,33 @@ persons:
       role: advisor
       from: 2022
       note: Advisory Board
+  jim-mckelvey:
+    born: 1965
+    nationality: USA
+    affiliations:
+    - org: block
+      role: founder
+      from: 2009
+      note: Co-founder (formerly Square), Board Member
+    - org: federal-reserve-st-louis
+      role: board
+      from: 2017
+      to: 2023
+      note: Class C Director 2017-2023, Board Chair 2022-2023
+    - org: washington-university
+      role: alumni
+      note: BA Economics, BS Computer Science 1987; Trustee; $15M+ donor (engineering school renamed McKelvey)
+    - org: emerson-electric
+      role: board
+      note: Board of Directors
+    - org: launchcode
+      role: founder
+      from: 2013
+      note: Co-founder, tech workforce non-profit
+    - org: invisibly
+      role: founder
+      from: 2016
+      note: Founder and CEO
   jim-walton:
     born: 1948
     nationality: USA
@@ -16245,6 +17981,8 @@ persons:
       from: 1987
       to: 1990
       note: JD Yale Law 1990; co-founder Alibaba
+  joel-klein:
+    nationality: USA
   joerg-duschmale:
     born: 1985
     nationality: CHE
@@ -16350,12 +18088,82 @@ persons:
     - org: meta
       role: board
       note: Director
+  john-bardeen:
+    born: 1908
+    died: 1991
+    nationality: USA
+    note: Only person with two Nobel Prizes in Physics (1956, 1972)
+    affiliations:
+    - org: bell-labs
+      role: researcher
+      from: 1945
+      to: 1951
+      note: Co-invented transistor 1947
   john-bell:
     nationality: GBR
     affiliations:
     - org: rhodes-trust
       role: chairman
       note: Chairman of Rhodes Trustees
+  john-bolton:
+    born: 1948
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 1985
+      to: 1989
+      note: Assistant Attorney General (Civil Division)
+    - org: governo-usa
+      role: minister
+      from: 1989
+      to: 1993
+      note: Assistant Secretary of State (International Organizations)
+    - org: governo-usa
+      role: minister
+      from: 2001
+      to: 2005
+      note: Under Secretary of State for Arms Control
+    - org: governo-usa
+      role: advisor
+      from: 2018
+      to: 2019
+      note: National Security Advisor
+    - org: aei
+      role: fellow
+      from: 1997
+      note: Senior VP 1997-2001, Senior Fellow, Director Foreign/Defense Policy 2010-2018
+    - org: un
+      role: executive
+      from: 2005
+      to: 2006
+      note: US Ambassador (recess appointment)
+    - org: yale
+      role: alumni
+      note: BA 1970, summa cum laude, Phi Beta Kappa
+    - org: yale
+      role: alumni
+      note: JD 1974
+    - org: gatestone-institute
+      role: chairman
+      from: 2013
+      to: 2018
+    relations:
+    - person: dick-cheney
+      type: colleague
+      note: PNAC, Bush administration
+    - person: donald-rumsfeld
+      type: colleague
+      note: PNAC, Bush administration Pentagon
+    - person: elliot-abrams
+      type: colleague
+      note: PNAC signatories, neocon network
+    - person: paul-wolfowitz
+      type: colleague
+      note: PNAC, Bush administration
+    - person: richard-perle
+      type: colleague
+      note: PNAC signatories
   john-brennan:
     born: 1955
     nationality: USA
@@ -16383,6 +18191,13 @@ persons:
       role: chairman
       from: 2021
       note: Co-Founder and Chairman
+  john-collison:
+    nationality: IRL
+    affiliations:
+    - org: stripe
+      role: founder
+      from: 2010
+      note: Co-founder, President
   john-connally:
     born: 1917
     died: 1993
@@ -16428,6 +18243,7 @@ persons:
   john-doerr:
     born: 1951
     nationality: USA
+    note: Kleiner Perkins chairman, backed Google and Amazon
     affiliations:
     - org: governo-usa
       role: advisor
@@ -16516,6 +18332,11 @@ persons:
     died: 1963
     nationality: USA
     affiliations:
+    - org: governo-usa
+      role: leader
+      from: 1961
+      to: 1963
+      note: 35th President
     - org: usaid
       role: founder
       from: 1961
@@ -16837,6 +18658,16 @@ persons:
       from: 2004
       to: 2011
       note: Group CEO
+  johnny-ho:
+    nationality: USA
+    affiliations:
+    - org: perplexity
+      role: founder
+      from: 2022
+      note: Chief Strategy Officer
+    - org: quora
+      role: executive
+      note: Engineer
   joko-widodo:
     born: 1961
     nationality: IDN
@@ -17330,6 +19161,18 @@ persons:
     - person: rupert-murdoch
       type: professional
       note: board-news-corp
+  jose-marie-griffiths:
+    nationality: USA
+    affiliations:
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner
+    - org: dakota-state-university
+      role: executive
+      from: 2015
+      note: President
   jose-roberto-marinho:
     born: 1955
     nationality: BRA
@@ -17464,6 +19307,16 @@ persons:
     relations:
     - person: laurent-kabila
       type: son
+  joseph-kennedy-sr:
+    born: 1888
+    died: 1969
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: ambassador
+      from: 1938
+      to: 1940
+      note: Ambassador to UK
   joseph-lieberman:
     born: 1942
     died: 2024
@@ -17538,6 +19391,32 @@ persons:
       from: 1990
       to: 2021
       note: Co-Founder. Left for sports investments
+  joshua-kushner:
+    born: 1985
+    nationality: USA
+    affiliations:
+    - org: goldman-sachs
+      role: analyst
+      from: 2008
+      to: 2009
+      note: Private equity, distressed debt
+    - org: harvard-business-school
+      role: alumni
+      note: MBA 2011
+    - org: harvard
+      role: alumni
+      note: BA 2008
+    - org: thrive-capital
+      role: founder
+      from: 2010
+      note: Founder & Managing Partner
+    relations:
+    - person: jared-kushner
+      type: sibling
+      note: Younger brother
+    - person: magnus-grimeland
+      type: classmate
+      note: Harvard classmates ~2003-2008
   jozef-retinger:
     born: 1888
     died: 1960
@@ -17733,6 +19612,17 @@ persons:
       note: WEF Annual Meeting 2016
     - org: lifeway-foods
       role: executive
+  julius-blank:
+    born: 1925
+    died: 2011
+    nationality: USA
+    note: Traitorous Eight, manufacturing expert
+    affiliations:
+    - org: fairchild-semiconductor
+      role: founder
+      from: 1957
+      to: 1969
+      note: Manufacturing director
   julius-genachowski:
     born: 1962
     nationality: USA
@@ -17793,6 +19683,31 @@ persons:
     died: 1890
     nationality: USA
     family: morgan
+  justin-rosenstein:
+    born: 1983
+    nationality: USA
+    note: Asana co-founder, ex-Facebook/Google, Like button creator, One Project founder
+    affiliations:
+    - org: meta
+      role: executive
+      from: 2007
+      to: 2008
+      note: Engineer, created Like button and Facebook Pages
+    - org: google
+      role: executive
+      from: 2004
+      to: 2007
+      note: Product Manager, created Gmail Chat prototype
+    - org: asana
+      role: founder
+      from: 2008
+      note: Co-founder, CEO 2009-2010, President 2010-2019, Board 2008+
+    - org: stanford
+      role: alumni
+      note: BA Math, partial MS Computer Science
+    - org: one-project
+      role: founder
+      note: Co-founder & Co-director
   justin-sun:
     nationality: CHN
     affiliations:
@@ -17909,6 +19824,13 @@ persons:
       note: WEF Annual Meeting 2016
     - org: bank-of-america
       role: executive
+  karen-simonyan:
+    nationality: GBR
+    affiliations:
+    - org: microsoft
+      role: executive
+      from: 2024
+      note: Chief Scientist, Microsoft AI
   kari-stadigh:
     born: 1955
     nationality: FIN
@@ -17962,6 +19884,32 @@ persons:
       from: 2001
       to: 2007
       note: Senior Advisor, Deputy Chief of Staff
+    - org: wall-street-journal
+      role: member
+      from: 2008
+      note: Op-ed columnist
+    - org: fox-news
+      role: member
+      from: 2008
+      note: Political analyst and contributor
+    - org: american-crossroads
+      role: founder
+      from: 2010
+      note: Co-founder with Ed Gillespie
+    - org: crossroads-gps
+      role: founder
+      from: 2010
+      to: 2016
+      note: Co-founder, 501(c)(4) dark money group
+    - org: rnc
+      role: executive
+      from: 1971
+      to: 1974
+      note: Executive Director College Republicans, then Special Assistant RNC
+    relations:
+    - person: george-w-bush
+      type: colleague
+      note: Chief political strategist since 1978, architect of 2000/2004 campaigns
   karl-theodor-zu-guttenberg:
     born: 1971
     nationality: DEU
@@ -18017,6 +19965,14 @@ persons:
     - org: wef
       role: ygl
       from: 2024
+  katharina-mcfarland:
+    nationality: DEU-USA
+    affiliations:
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner
   katharine-gun:
     born: 1974
     nationality: GBR
@@ -18235,6 +20191,17 @@ persons:
       from: 2001
       to: 2002
       note: Architect of 2001 reform, granted CB independence
+  ken-ford:
+    nationality: USA
+    affiliations:
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner
+    - org: ihmc
+      role: founder
+      note: Founder & CEO
   ken-lin:
     nationality: THA
     affiliations:
@@ -18245,6 +20212,29 @@ persons:
       role: executive
       from: 2023
       note: SVP Innovation & Global Investment
+  ken-xie:
+    born: 1963
+    nationality: CHN-USA
+    affiliations:
+    - org: stanford
+      role: alumni
+      note: MS Electrical Engineering early 1990s
+    - org: fortinet
+      role: founder
+      from: 2000
+      note: CEO and Chairman
+    - org: netscreen
+      role: founder
+      from: 1996
+      to: 2000
+      note: Founder, President, CEO
+    - org: tsinghua
+      role: alumni
+      note: BSc Electronic Engineering 1987, MSc 1989
+    relations:
+    - person: michael-xie
+      type: family
+      note: brother
   kenichiro-yoshida:
     born: 1959
     nationality: JPN
@@ -19199,6 +21189,10 @@ persons:
       from: 2006
       to: 2025
       note: Managing director 2006-08, consultant 2011-2025, terminated Nov 2025
+    relations:
+    - person: sheryl-sandberg
+      type: mentor
+      note: Thesis advisor at Harvard, hired at World Bank and Treasury
   lars-lokke-rasmussen:
     born: 1964
     nationality: DNK
@@ -19332,6 +21326,20 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  lee-atwater:
+    born: 1951
+    died: 1991
+    nationality: USA
+    affiliations:
+    - org: rnc
+      role: chairman
+      from: 1989
+      to: 1991
+      note: Chairman RNC
+    relations:
+    - person: karl-rove
+      type: mentor
+      note: Southern campaign chair 1973, early political mentor
   lee-boo-jin:
     born: 1970
     nationality: KOR
@@ -19402,6 +21410,13 @@ persons:
     - person: park-geun-hye
       type: bribery scandal
       note: Lee convicted for bribing Park (43B won). Both pardoned
+  lee-klarich:
+    nationality: USA
+    affiliations:
+    - org: palo-alto-networks
+      role: executive
+      from: 2006
+      note: CPO & CTO (from Aug 2025), Board Director
   lee-kuan-yew:
     born: 1923
     died: 2015
@@ -19685,6 +21700,21 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  lewis-terman:
+    born: 1877
+    died: 1956
+    nationality: USA
+    note: Stanford psychologist, Stanford-Binet IQ test creator
+    affiliations:
+    - org: stanford-university
+      role: executive
+      from: 1910
+      to: 1956
+      note: Professor of Psychology, Chair Psychology Dept 1922-1945
+    relations:
+    - person: fred-terman
+      type: parent
+      note: Father
   lex-greensill:
     born: 1976
     nationality: AUS
@@ -19807,6 +21837,21 @@ persons:
       role: executive
       from: 2012
       note: Co-founder, CEO since 2021
+  liang-wenfeng:
+    born: 1985
+    nationality: CHN
+    affiliations:
+    - org: deepseek
+      role: founder
+      from: 2023
+      note: Founder and CEO, 84% owner
+    - org: high-flyer
+      role: founder
+      from: 2016
+      note: Co-founder with Xu Jin and Zheng Dawei
+    - org: zhejiang-university
+      role: alumni
+      note: BE Electronic Information Engineering 2007, ME Information and Communication Engineering 2010
   liao-lin:
     born: 1966
     nationality: CHN
@@ -19951,6 +21996,31 @@ persons:
     died: 1879
     nationality: GBR
     family: rothschild
+  lip-bu-tan:
+    nationality: MYS-USA
+    affiliations:
+    - org: intel
+      role: executive
+      from: 2025
+      note: CEO from March 2025
+  liran-grinberg:
+    nationality: ISR
+    affiliations:
+    - org: unit-8200
+      role: member
+      note: Officer, cyber and data division
+    - org: team8
+      role: founder
+      from: 2014
+      note: Co-founder, Managing Partner
+  lisa-su:
+    born: 1969
+    nationality: TWN-USA
+    affiliations:
+    - org: amd
+      role: executive
+      from: 2012
+      note: CEO & Chair from 2014, first female CEO of major chip company
   liu-chuanzhi:
     born: 1944
     nationality: CHN
@@ -20560,6 +22630,19 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  mac-thornberry:
+    born: 1958
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 1995
+      to: 2021
+      note: Representative TX-13, HASC Chairman 2015-2019
+    - org: scsp
+      role: board
+      from: 2021
+      note: Board of Advisors
   mack-mclarty:
     born: 1946
     nationality: USA
@@ -20607,6 +22690,24 @@ persons:
       role: board
       from: 2019
       note: Board member, ex-CFO
+  magnus-grimeland:
+    nationality: NOR
+    affiliations:
+    - org: mckinsey
+      role: partner
+      note: Junior Partner, Telco/Media/Tech, 6 years
+    - org: harvard
+      role: alumni
+      from: 2003
+      note: BA 2007, crew team
+    - org: antler
+      role: founder
+      from: 2017
+      note: Founder & CEO
+    relations:
+    - person: eduardo-saverin
+      type: classmate
+      note: Harvard classmates 2003-2007, Saverin invested in Antler 2020
   mahatma-gandhi:
     born: 1869
     died: 1948
@@ -20785,6 +22886,16 @@ persons:
     - person: mohammed-bin-zayed
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
+  manuel-noriega:
+    born: 1934
+    died: 2017
+    nationality: PAN
+    affiliations:
+    - org: governo-panama
+      role: leader
+      from: 1983
+      to: 1989
+      note: Dictator
   manuel-pangilinan:
     born: 1946
     nationality: PHL
@@ -20854,6 +22965,10 @@ persons:
       role: steering
       from: 2020
       note: Guardian - Salesforce Founder & CEO
+    - org: salesforce
+      role: founder
+      from: 1999
+      note: Founder, CEO
   marc-grynberg:
     nationality: BEL
     affiliations:
@@ -20911,6 +23026,17 @@ persons:
     - person: norbert-becker
       type: business_partner
       note: Co-fondatori CBP 2007
+  marc-mezvinsky:
+    born: 1977
+    nationality: USA
+    affiliations:
+    - org: stanford
+      role: alumni
+      note: BA 1999
+    - org: tpg
+      role: partner
+      from: 2019
+      note: Partner
   marc-murtra:
     nationality: ESP
     affiliations:
@@ -21595,6 +23721,49 @@ persons:
       from: 1908
       to: 1921
       note: Co-proprietario con fratello Pio
+  marius-nacht:
+    born: 1962
+    nationality: ISR
+    affiliations:
+    - org: hebrew-university
+      role: alumni
+      note: BSc Physics & Math 1983, cum laude
+    - org: check-point
+      role: founder
+      from: 1993
+      note: Co-founder with Gil Shwed and Shlomo Kramer
+    - org: check-point
+      role: board
+      from: 2001
+      to: 2015
+      note: Vice Chairman
+    - org: check-point
+      role: chairman
+      from: 2015
+      to: 2020
+      note: Non-Executive Chairman
+    - org: talpiot
+      role: alumni
+      from: 1980
+      note: Early 1980s cohort
+    - org: tel-aviv-university
+      role: alumni
+      note: MSc Electrical Engineering 1987
+    - org: amoon
+      role: founder
+      from: 2016
+      note: Co-founder with Dr. Yair Schindel, anchor investor
+    - org: optrotech
+      role: executive
+      to: 1993
+      note: Software Development Manager
+    - org: wisdo
+      role: board
+      note: Board member and advisor
+    relations:
+    - person: gil-shwed
+      type: colleague
+      note: Met at Optrotech 1990, co-founded Check Point 1993
   mark-boris-andrijanic:
     born: 1985
     nationality: SVN
@@ -21926,6 +24095,17 @@ persons:
       from: 2002
       to: 2004
       note: Attended 2002-04, dropped out to found Facebook, honorary degree 2017
+    - org: iconiq-capital
+      role: member
+      from: 2011
+      note: Founding client, primary client
+    - org: sun-valley-conference
+      role: member
+      note: Attendee regolare, 2024, 2025
+    relations:
+    - person: sheryl-sandberg
+      type: colleague
+      note: Recruited her as COO at Facebook 2008
   markus-kamieth:
     nationality: DEU
     affiliations:
@@ -22129,6 +24309,22 @@ persons:
       role: executive
       to: 2007
       note: CFO, key in IBM PC acquisition 2005
+  mary-meeker:
+    born: 1959
+    nationality: USA
+    affiliations:
+    - org: morgan-stanley
+      role: executive
+      to: 2010
+      note: Managing Director, Global Technology Research
+    - org: kleiner-perkins
+      role: partner
+      from: 2010
+      to: 2018
+      note: General Partner, Internet Trends Report
+    - org: bond-capital
+      role: founder
+      from: 2019
   mary-robinson:
     born: 1944
     nationality: IRL
@@ -22287,6 +24483,21 @@ persons:
       role: executive
       from: 2002
       note: CEO
+  matt-cohen:
+    nationality: USA
+    affiliations:
+    - org: cyberark
+      role: executive
+      from: 2019
+      to: 2020
+      note: CRO
+  matt-murphy:
+    nationality: USA
+    affiliations:
+    - org: menlo-ventures
+      role: partner
+      from: 2015
+      note: Partner, led Anthropic investment
   matteo-del-fante:
     born: 1967
     nationality: ITA
@@ -22543,6 +24754,21 @@ persons:
       role: executive
       from: 2026
       note: CEO (dal aprile 2026)
+  meg-whitman:
+    born: 1956
+    nationality: USA
+    note: eBay CEO, HP CEO, HPE CEO, Quibi CEO
+    affiliations:
+    - org: hewlett-packard
+      role: executive
+      from: 2011
+      to: 2015
+      note: CEO 2011-2015. Led 2015 split into HP Inc and HPE
+    - org: hewlett-packard-enterprise
+      role: executive
+      from: 2015
+      to: 2018
+      note: CEO 2015-2018
   mehmet-simsek:
     born: 1967
     nationality: TUR
@@ -22560,6 +24786,31 @@ persons:
       role: executive
       from: 2021
       note: Director General. Reappointed 2025
+  meir-amit:
+    born: 1921
+    died: 2009
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: leader
+      from: 1963
+      to: 1968
+      note: Director
+  mendel-rosenblum:
+    born: 1962
+    nationality: USA
+    affiliations:
+    - org: vmware
+      role: founder
+      from: 1998
+      to: 2008
+      note: Chief Scientist
+    - org: uc-berkeley
+      role: alumni
+      note: MS 1989, PhD Computer Science 1992
+    - org: stanford
+      role: professor
+      note: Professor of Computer Science
   meng-wanzhou:
     nationality: CHN
     affiliations:
@@ -22590,6 +24841,21 @@ persons:
       role: chairman
       from: 2014
       note: Board Chair, NCG Chair
+  mervin-kelly:
+    born: 1894
+    died: 1971
+    nationality: USA
+    note: Bell Labs president 1951-1959, recruited Shockley
+    affiliations:
+    - org: bell-labs
+      role: executive
+      from: 1925
+      to: 1959
+      note: Director of Research 1936, President 1951-1959, Chairman 1959
+    relations:
+    - person: william-shockley
+      type: recruiter
+      note: Recruited Shockley to Bell Labs 1936
   mette-frederiksen:
     born: 1977
     nationality: DNK
@@ -22617,6 +24883,13 @@ persons:
     - org: unaids
       role: diplomat
       note: Ambassador
+  michael-anders:
+    nationality: USA
+    affiliations:
+    - org: iconiq-capital
+      role: founder
+      from: 2011
+      note: Co-founder, Partner
   michael-bambang-hartono:
     born: 1939
     nationality: IDN
@@ -22727,6 +25000,18 @@ persons:
     nationality: USA
     note: Generale USA. Dir. DIA 2012-2014. NSA Trump 2017 (dimesso). Visito GRU HQ giugno 2013 ospite Sergun. Seduto accanto
       Putin gala RT 2015.
+  michael-gable:
+    nationality: USA
+    affiliations:
+    - org: scsp
+      role: executive
+      from: 2021
+      note: EVP & COO
+    - org: nscai
+      role: executive
+      from: 2019
+      to: 2021
+      note: Chief of Staff
   michael-geoghegan:
     born: 1953
     nationality: GBR
@@ -22736,6 +25021,46 @@ persons:
       from: 2006
       to: 2010
       note: Group CEO
+  michael-harari:
+    born: 1927
+    died: 2014
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: executive
+      from: 1963
+      to: 1980
+      note: Head of Caesarea, founded Kidon unit
+    - org: idf
+      role: member
+      from: 1948
+      to: 1960
+    - org: shin-bet
+      role: operative
+      from: 1950
+      to: 1963
+    - org: haganah
+      role: member
+      from: 1940
+      to: 1943
+      note: Courier
+    - org: palmach
+      role: member
+      from: 1943
+      to: 1948
+      note: Atlit raid 1945
+    - org: governo-panama
+      role: advisor
+      from: 1968
+      to: 1989
+      note: Security advisor to Torrijos, then Noriega
+    relations:
+    - person: manuel-noriega
+      type: colleague
+      note: Security advisor and arms dealer
+    - person: zvi-zamir
+      type: colleague
+      note: Operations chief under Zamir, Wrath of God
   michael-hayden:
     born: 1945
     nationality: USA
@@ -22878,6 +25203,16 @@ persons:
     born: 1953
     nationality: USA
     note: Ex-husband of Phebe Novakovic, CIA paramilitary, USD(I)
+  michael-xie:
+    nationality: CHN-USA
+    affiliations:
+    - org: fortinet
+      role: founder
+      from: 2000
+      note: President and CTO, co-founder
+    - org: netscreen
+      role: executive
+      note: Software Director and Architect
   michaela-erbenova:
     nationality: CZE
     affiliations:
@@ -22963,21 +25298,25 @@ persons:
     - org: cfr
       role: member
     - org: governo-usa
-      role: executive
+      role: minister
       from: 2009
       to: 2012
-      note: Under Secretary of Defense for Policy (highest-ranking woman in DoD history)
+      note: Under Secretary of Defense for Policy
     - org: westexec-advisors
       role: founder
       from: 2017
-      note: Co-Founder, Managing Partner
+      note: Co-Founder & Managing Partner
     - org: cnas
       role: founder
       from: 2007
-      note: Co-Founder, Chair Board of Directors
+      note: Co-Founder, Board Chair
     - org: booz-allen-hamilton
       role: board
       from: 2018
+    - org: scsp
+      role: board
+      from: 2021
+      note: Board of Advisors
   michele-valensise:
     born: 1952
     nationality: ITA
@@ -23022,6 +25361,24 @@ persons:
       role: chairman
       from: 2007
       to: 2016
+  mignon-clyburn:
+    born: 1962
+    nationality: USA
+    affiliations:
+    - org: open-society-foundations
+      role: fellow
+      from: 2018
+      note: Leadership in Government Fellow
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner
+    - org: fcc
+      role: board
+      from: 2009
+      to: 2018
+      note: Commissioner, Acting Chair 2013
   mike-lynch:
     born: 1965
     died: 2024
@@ -23051,6 +25408,9 @@ persons:
       from: 2012
       to: 2024
       note: Founder
+  mike-markkula:
+    born: 1942
+    nationality: USA
   mike-petters:
     born: 1959
     nationality: USA
@@ -23790,6 +26150,56 @@ persons:
       from: 2001
       to: 2004
       note: Chairman 2001-2004, High Advisory Council Chair 2007-2014
+  mustafa-suleyman:
+    born: 1984
+    nationality: GBR
+    affiliations:
+    - org: microsoft
+      role: executive
+      from: 2024
+      note: EVP & CEO Microsoft AI
+    - org: greylock
+      role: partner
+      from: 2022
+      to: 2022
+      note: Venture Partner
+    - org: google
+      role: executive
+      from: 2019
+      to: 2022
+      note: VP AI Product Management & Policy
+    - org: inflection-ai
+      role: founder
+      from: 2022
+      to: 2024
+      note: CEO
+    - org: harvard
+      role: fellow
+      note: Senior Fellow, Belfer Center for Science and International Affairs
+    - org: deepmind
+      role: founder
+      from: 2010
+      to: 2019
+      note: Head of Applied AI, DeepMind Ethics founder
+    - org: oxford
+      role: alumni
+      note: Philosophy & Theology (dropout), Mansfield College
+    - org: economist
+      role: board
+      note: Board of Directors
+    relations:
+    - person: demis-hassabis
+      type: colleague
+      note: DeepMind co-founders
+    - person: karen-simonyan
+      type: colleague
+      note: Longtime collaborator, Inflection AI to Microsoft AI
+    - person: satya-nadella
+      type: colleague
+      note: Microsoft AI CEO reports to Nadella
+    - person: shane-legg
+      type: colleague
+      note: DeepMind co-founders
   mykhailo-fedorov:
     born: 1991
     nationality: UKR
@@ -23868,6 +26278,43 @@ persons:
       role: leader
       from: 1980
       note: Presidente Amal
+  nadav-zafrir:
+    nationality: ISR
+    affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor, speaker at Davos
+    - org: unit-8200
+      role: executive
+      from: 1988
+      to: 2014
+      note: Commander 2009-2014, established IDF Cyber Command, Brigadier General
+    - org: check-point
+      role: executive
+      from: 2024
+      note: CEO dal Dicembre 2024, successore Gil Shwed
+    - org: team8
+      role: founder
+      from: 2014
+      note: Co-founder cybersecurity VC
+    - org: solaredge
+      role: chairman
+      from: 2019
+      to: 2024
+      note: Chairman of the Board 2019-2024, remained on board
+    - org: istari
+      role: chairman
+      note: Vice Chairman
+    relations:
+    - person: gil-shwed
+      type: associate
+      note: Successor as Check Point CEO (Dec 2024)
+    - person: israel-grimberg
+      type: associate
+      note: Co-founder Team8, Unit 8200 colleagues
+    - person: liran-grinberg
+      type: associate
+      note: Co-founder Team8, Unit 8200 colleagues
   nadhmi-al-nasr:
     nationality: SAU
     note: CEO NEOM 2017-2024. Veterano Aramco.
@@ -23907,6 +26354,18 @@ persons:
       from: 2006
       to: 2018
       note: DG Budget; Deputy DG Competition
+  nadia-schadlow:
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2017
+      to: 2018
+      note: Deputy National Security Advisor for Strategy
+    - org: scsp
+      role: board
+      from: 2021
+      note: Board of Advisors
   nadiem-makarim:
     born: 1984
     nationality: IDN
@@ -24443,6 +26902,25 @@ persons:
       from: 1992
       to: 1993
       note: MA European Affairs
+  nick-frosst:
+    nationality: CAN
+    affiliations:
+    - org: cohere
+      role: founder
+      from: 2019
+      note: Co-founder
+    - org: university-of-toronto
+      role: alumni
+      note: BSc Computer Science 2016
+    - org: google-brain
+      role: researcher
+      from: 2016
+      to: 2019
+      note: Hinton first employee at Toronto lab
+    relations:
+    - person: geoffrey-hinton
+      type: mentee
+      note: First employee at Google Brain Toronto lab (2016)
   nick-hayek-jr:
     born: 1954
     nationality: CHE
@@ -24595,6 +27073,54 @@ persons:
       note: Figlia Giulia (2011)
     - person: cecilia-attias
       type: ex-spouse
+  nicole-seligman:
+    born: 1957
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: fellow
+      from: 1984
+      to: 1985
+      note: SCOTUS clerk Justice Thurgood Marshall
+    - org: openai
+      role: board
+      from: 2024
+      note: Safety and Security Committee
+    - org: sony
+      role: executive
+      from: 2001
+      to: 2016
+      note: EVP General Counsel 2001-14, President Sony Entertainment 2014-16
+    - org: harvard
+      role: alumni
+      note: BA magna cum laude 1978, Radcliffe
+    - org: harvard-law-school
+      role: alumni
+      note: JD magna cum laude 1983, Harvard Law Review editor, Sears Prize
+    - org: williams-connolly
+      role: partner
+      from: 1985
+      to: 2001
+      note: litigation partner
+    - org: intuitive-machines
+      role: board
+    - org: meiragtx
+      role: board
+    relations:
+    - person: adam-dangelo
+      type: colleague
+      note: OpenAI board
+    - person: adebayo-ogunlesi
+      type: colleague
+      note: Fellow Thurgood Marshall clerks, OpenAI board
+    - person: bret-taylor
+      type: colleague
+      note: OpenAI board
+    - person: joel-klein
+      type: spouse
+    - person: sue-desmond-hellmann
+      type: colleague
+      note: OpenAI board, joined together Mar 2024
   nicusor-dan:
     born: 1969
     nationality: ROU
@@ -24692,6 +27218,49 @@ persons:
     - org: jamestown-foundation
       role: member
       note: Analyst, Terrorism Monitor contributor
+  nikesh-arora:
+    born: 1968
+    nationality: IND-USA
+    affiliations:
+    - org: softbank
+      role: executive
+      from: 2014
+      to: 2016
+      note: President & COO
+    - org: business-roundtable
+      role: member
+      note: Member
+    - org: google
+      role: executive
+      from: 2004
+      to: 2014
+      note: SVP & Chief Business Officer
+    - org: richemont
+      role: board
+      note: Board member
+    - org: deutsche-telekom
+      role: executive
+      from: 2000
+      to: 2004
+      note: Founder T-Motion, CMO T-Mobile International
+    - org: palo-alto-networks
+      role: executive
+      from: 2018
+      note: Chairman & CEO
+    - org: fidelity
+      role: executive
+      from: 1992
+      to: 1999
+      note: VP Finance, Fidelity Technologies
+    - org: iit-bhu
+      role: alumni
+      note: BE Electrical Engineering 1989
+    - org: northeastern
+      role: alumni
+      note: MBA
+    - org: boston-college
+      role: alumni
+      note: MS Finance
   nikolai-patrushev:
     born: 1951
     nationality: RUS
@@ -24773,12 +27342,15 @@ persons:
     - org: unit-8200
       role: member
     - org: check-point
-      role: executive
+      role: engineer
       from: 1994
       to: 1999
+      note: One of first employees, developed first firewall
     - org: palo-alto-networks
       role: founder
       from: 2005
+      to: 2025
+      note: Founder & CTO, retired Aug 2025
   nirmala-sitharaman:
     born: 1959
     nationality: IND
@@ -24851,6 +27423,13 @@ persons:
     - org: tata-trusts
       role: chairman
       from: 2024
+  nolan-bushnell:
+    born: 1943
+    nationality: USA
+    relations:
+    - person: don-valentine
+      type: associate
+      note: Atari founder, introduced Jobs to Valentine
   noor-pahlavi:
     born: 1992
     nationality: USA
@@ -25262,6 +27841,16 @@ persons:
     - org: nso-group
       role: founder
       from: 2010
+  ori-goshen:
+    nationality: ISR
+    affiliations:
+    - org: unit-8200
+      role: member
+      note: IDF service
+    - org: ai21-labs
+      role: founder
+      from: 2017
+      note: Co-CEO, Unit 8200 alumni
   orlando-bravo:
     born: 1970
     nationality: USA
@@ -25757,6 +28346,19 @@ persons:
     - person: simon-harris
       type: colleague
       note: Colleghi Fine Gael; Harris successore Finance Nov 2025
+  pat-gelsinger:
+    nationality: USA
+    affiliations:
+    - org: intel
+      role: executive
+      from: 1979
+      to: 2024
+      note: First tenure 1979-2009 (CTO), CEO 2021-2024 (ousted)
+    - org: vmware
+      role: executive
+      from: 2012
+      to: 2021
+      note: CEO
   patrice-caine:
     born: 1970
     nationality: FRA
@@ -25865,6 +28467,10 @@ persons:
       from: 2014
       to: 2024
       note: CEO 2014-2024
+  patrick-kennedy:
+    born: 1823
+    died: 1858
+    nationality: IRL-USA
   patrick-shanahan:
     born: 1962
     nationality: USA
@@ -26024,6 +28630,13 @@ persons:
       from: 2008
       to: 2025
       note: CEO 2008-2017, Chairman 2017-2025, 50 anni in Nestlé
+  paul-conway:
+    nationality: USA
+    affiliations:
+    - org: spark-capital
+      role: founder
+      from: 2005
+      note: Co-founder, GP, CFO
   paul-deighton:
     born: 1956
     nationality: GBR
@@ -26178,6 +28791,47 @@ persons:
       from: 1953
       to: 2003
       note: Chief Scientific Officer
+  paul-maritz:
+    born: 1955
+    nationality: ZWE-ZAF
+    affiliations:
+    - org: microsoft
+      role: executive
+      from: 1986
+      to: 2000
+      note: EVP Platforms Strategy, third-ranking exec after Gates and Ballmer
+    - org: intel
+      role: employee
+      from: 1981
+      to: 1986
+      note: Developer tools for x86 platform
+    - org: vmware
+      role: executive
+      from: 2008
+      to: 2012
+      note: CEO
+    - org: university-cape-town
+      role: alumni
+      note: BSc Hons Computer Science 1977
+    - org: emc
+      role: executive
+      from: 2008
+      to: 2008
+      note: President Cloud Computing Division, Chief Strategy Officer
+    - org: university-natal
+      role: alumni
+      note: BSc Computer Science
+    - org: pivotal
+      role: founder
+      from: 2012
+      note: CEO 2012-2015, Chairman 2015-2019
+    - org: acronis
+      role: chairman
+      from: 2021
+      note: Board member May 2021, Chairman Sept 2021
+    - org: grameen-foundation
+      role: board
+      note: Board member for 10 years, Chairman
   paul-mashatile:
     born: 1961
     nationality: ZAF
@@ -26210,6 +28864,9 @@ persons:
       from: 2018
       to: 2024
       note: Commander
+    - org: usc
+      role: alumni
+      note: MS Systems Management 1989
     - org: witnessai
       role: board
       from: 2024
@@ -26222,6 +28879,34 @@ persons:
       role: board
       from: 2024
       note: Mutual Funds Board
+    - org: saint-johns-university
+      role: alumni
+      note: BA Economics 1986, ROTC commission
+    - org: us-army-war-college
+      role: alumni
+      note: Master 2007
+    - org: defense-intelligence-college
+      role: alumni
+      note: Master 1991
+    - org: vanderbilt
+      role: executive
+      from: 2024
+      note: Founding Director Institute of National Security, Research Professor
+    relations:
+    - person: bret-taylor
+      type: colleague
+      note: OpenAI board, Taylor as Chair nominated Nakasone
+    - person: timothy-haugh
+      type: successor
+      note: Haugh succeeded Nakasone as NSA Director and Cyber Command Commander (Feb 2024)
+  paul-otellini:
+    nationality: USA
+    affiliations:
+    - org: intel
+      role: executive
+      from: 1974
+      to: 2013
+      note: CEO 2005-2013
   paul-singer:
     born: 1944
     nationality: USA
@@ -26500,13 +29185,35 @@ persons:
       to: 2025
       note: CEO
   peng-xiao:
-    nationality: CHN
-    note: Ex-DarkMatter, controversial background
+    nationality: UAE
+    note: Ex-DarkMatter CEO, ex-MicroStrategy CTO. Rinunciato a cittadinanza USA per UAE.
     affiliations:
     - org: g42
       role: executive
       from: 2018
       note: Group CEO
+    - org: george-washington-university
+      role: alumni
+      note: Graduate degree
+    - org: mbzuai
+      role: board
+      from: 2019
+      note: Founding member Board of Trustees
+    - org: microstrategy
+      role: executive
+      to: 2018
+      note: SVP, CTO, CIO - 10 years
+    - org: hawaii-pacific-university
+      role: alumni
+      note: Undergraduate degree
+    - org: darkmatter
+      role: executive
+      to: 2018
+      note: CEO, led In-Q subsidiary
+    - org: cleveland-clinic-abu-dhabi
+      role: chairman
+      from: 2025
+      note: Appointed to advance AI-led healthcare
   penny-pritzker:
     born: 1959
     nationality: USA
@@ -26564,6 +29271,17 @@ persons:
     died: 2021
     nationality: USA
     family: dupont
+    affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 1971
+      to: 1977
+      note: US Representative from Delaware
+    - org: governo-delaware
+      role: leader
+      from: 1977
+      to: 1985
+      note: Governor of Delaware
   peter-cazalet:
     nationality: GBR
     affiliations:
@@ -26640,6 +29358,13 @@ persons:
       from: 2018
       to: 2025
       note: CEO (CFO 2012-2018)
+  peter-nieh:
+    nationality: USA
+    affiliations:
+    - org: lightspeed-venture-partners
+      role: founder
+      from: 2000
+      note: Co-founder, Partner
   peter-peterson:
     born: 1926
     died: 2018
@@ -26797,13 +29522,30 @@ persons:
       role: advisor
       from: 2015
       note: Initial investor
+    - org: meta
+      role: board
+      from: 2004
+      to: 2022
+      note: First outside investor $500K, board member
     - org: stanford-university
       role: member
       note: BA Philosophy 1989, JD Law 1992
+    - org: sun-valley-conference
+      role: member
+      note: Attendee
     relations:
     - person: alex-karp
       type: colleague
       note: Stanford Law School classmates, Palantir co-founders
+    - person: david-sacks
+      type: colleague
+      note: PayPal Mafia, Sacks was COO
+    - person: elon-musk
+      type: colleague
+      note: PayPal co-founders, Thiel replaced Musk as CEO 2000
+    - person: jd-vance
+      type: mentor
+      note: Thiel mentored Vance since 2011, $15M donation 2022, VP 2024
   peter-thomson:
     born: 1965
     nationality: CAN
@@ -27273,6 +30015,11 @@ persons:
       role: chairman
       from: 1915
       to: 1919
+    - org: general-motors
+      role: chairman
+      from: 1915
+      to: 1929
+      note: Board Director 1915, President 1920-1923, Chairman until 1929
   pierre-samuel-dupont:
     born: 1739
     died: 1817
@@ -27327,6 +30074,35 @@ persons:
       role: executive
       from: 2022
       note: CEO, 2° mandato 2024
+  pik-botha:
+    born: 1932
+    died: 2018
+    nationality: ZAF
+    note: Longest-serving Foreign Minister (1977-1994), Minister under Mandela (1994-1996)
+    affiliations:
+    - org: governo-sudafrica
+      role: minister
+      from: 1977
+      to: 1994
+      note: Foreign Minister
+    - org: governo-sudafrica
+      role: minister
+      from: 1994
+      to: 1996
+      note: Minister Mineral & Energy Affairs (under Mandela)
+    - org: university-pretoria
+      role: alumni
+      note: BA LLB
+    relations:
+    - person: fw-de-klerk
+      type: colleague
+      note: Foreign Minister under de Klerk 1989-1994
+    - person: nelson-mandela
+      type: colleague
+      note: Minister under President Mandela 1994-1996
+    - person: pw-botha
+      type: colleague
+      note: Foreign Minister under P.W. Botha (not related by blood)
   pincus-green:
     born: 1936
     nationality: USA
@@ -27376,6 +30152,10 @@ persons:
       from: 2009
       to: 2025
       note: CEO
+  pj-kennedy:
+    born: 1858
+    died: 1929
+    nationality: USA
   platon-lebedev:
     born: 1956
     nationality: RUS
@@ -27617,6 +30397,11 @@ persons:
       from: 1991
       to: 1996
       note: President
+  pw-botha:
+    born: 1916
+    died: 2006
+    nationality: ZAF
+    note: Prime Minister 1978-1984, State President 1984-1989
   qasem-soleimani:
     born: 1957
     died: 2020
@@ -27830,6 +30615,14 @@ persons:
     - org: wef
       role: ygl
       from: 2022
+  raghu-raghuram:
+    nationality: USA
+    affiliations:
+    - org: vmware
+      role: executive
+      from: 2003
+      to: 2023
+      note: CEO 2021-2023, various roles since 2003
   raghuram-rajan:
     born: 1963
     nationality: IND
@@ -27908,6 +30701,28 @@ persons:
       role: executive
       from: 2015
       note: MD, CEO, Group Editor-in-Chief
+  raj-ganguly:
+    nationality: USA
+    affiliations:
+    - org: mckinsey
+      role: consultant
+    - org: bain-capital
+      role: partner
+      note: Co-leader global technology initiative
+    - org: harvard-business-school
+      role: alumni
+      note: MBA
+    - org: wharton
+      role: alumni
+      note: BSE/BAS summa cum laude, Benjamin Franklin Scholar, Joseph Wharton Scholar
+    - org: b-capital
+      role: founder
+      from: 2015
+      note: Co-founder, Co-CEO
+    relations:
+    - person: eduardo-saverin
+      type: colleague
+      note: B Capital co-founders, met Singapore 2012
   rajeev-misra:
     nationality: IND
     affiliations:
@@ -28133,6 +30948,13 @@ persons:
       role: chairman
       from: 1991
       to: 2012
+  ravi-mhatre:
+    nationality: USA
+    affiliations:
+    - org: lightspeed-venture-partners
+      role: founder
+      from: 2000
+      note: Co-founder, Partner
   ravish-kumar:
     nationality: IND
     note: NDTV anchor 1996-2022. Ramon Magsaysay 2019. YouTube 10M. "While We Watched" doc
@@ -28284,10 +31106,22 @@ persons:
       role: advisor
       from: 2015
       note: Initial investor
+    - org: apple
+      role: executive
+      from: 1994
+      to: 1996
+      note: eWorld product manager
     - org: greylock
       role: partner
       from: 2009
       note: General Partner
+    - org: stanford-university
+      role: alumni
+      note: BS Symbolic Systems 1990
+    - org: lse
+      role: fellow
+      from: 2025
+      note: Visiting Senior Fellow
     - org: linkedin
       role: founder
       from: 2002
@@ -28303,6 +31137,32 @@ persons:
       role: founder
       from: 2025
       note: Co-founder with Siddhartha Mukherjee
+    - org: iconiq-capital
+      role: member
+      note: Client
+    - org: cambridge
+      role: fellow
+      from: 2025
+      note: Distinguished Academic Visitor, Queens College
+    - org: oxford
+      role: alumni
+      note: MSt Philosophy 1993, Marshall Scholar, Wolfson College
+    - org: sun-valley-conference
+      role: member
+      note: Attendee regolare
+    relations:
+    - person: elon-musk
+      type: colleague
+      note: PayPal Mafia
+    - person: mustafa-suleyman
+      type: colleague
+      note: Inflection AI co-founders
+    - person: peter-thiel
+      type: colleague
+      note: PayPal Mafia
+    - person: siddhartha-mukherjee
+      type: colleague
+      note: Manas AI co-founders
   reinhard-gehlen:
     born: 1902
     died: 1979
@@ -28982,6 +31842,16 @@ persons:
       role: minister
       from: 2025
       note: Secretary of Health and Human Services
+  robert-kennedy-sr:
+    born: 1925
+    died: 1968
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 1961
+      to: 1964
+      note: Attorney General
   robert-kimmitt:
     born: 1947
     nationality: USA
@@ -29105,6 +31975,38 @@ persons:
       role: founder
       from: 2005
       note: Co-founder, early investor
+  robert-noyce:
+    born: 1927
+    died: 1990
+    nationality: USA
+    note: Mayor of Silicon Valley. Co-invented planar IC 1959. Co-founded Fairchild & Intel. Mentored Steve Jobs
+    affiliations:
+    - org: mit
+      role: alumni
+      note: PhD Physics 1953
+    - org: intel
+      role: founder
+      from: 1968
+      to: 1990
+      note: Co-founder, first CEO, then Chairman
+    - org: fairchild-semiconductor
+      role: founder
+      from: 1957
+      to: 1968
+      note: General Manager, co-invented planar IC 1960
+    - org: grinnell-college
+      role: alumni
+      note: BA Physics & Mathematics 1949, Phi Beta Kappa
+    relations:
+    - person: andy-grove
+      type: colleague
+      note: Intel co-founders, complementary leadership styles
+    - person: gordon-moore
+      type: partner
+      note: Co-founders Fairchild 1957, Intel 1968
+    - person: steve-jobs
+      type: mentor
+      note: Jobs called Noyce asking for guidance, became father figure
   robert-oleary:
     nationality: USA
     note: Co-CEO Oaktree (2024-). Global Opportunities strategy PM.
@@ -29210,6 +32112,17 @@ persons:
       role: board
       from: 2021
       note: Ex Treasury, Goldman
+  robert-work:
+    nationality: USA
+    affiliations:
+    - org: scsp
+      role: board
+      from: 2021
+      note: Board of Advisors, Co-Chair
+    - org: nscai
+      role: vice-chairman
+      from: 2018
+      to: 2021
   robert-zoellick:
     born: 1953
     nationality: USA
@@ -29353,6 +32266,10 @@ persons:
       role: executive
       from: 2017
       note: CEO
+    - org: kyutai
+      role: founder
+      from: 2023
+      note: Co-founder, €100M via CMA CGM
   rodrigo-teijeiro:
     nationality: AR
     note: Founder Fnbox, Sonico.com (sold to Match/IAC 2014). MIT Technology Review Top Innovator Under 35.
@@ -29364,17 +32281,44 @@ persons:
       role: founder
   roelof-botha:
     born: 1973
-    nationality: ZAF
+    nationality: ZAF-USA
+    note: PayPal CFO, Sequoia managing partner 2022-2025, grandson of Pik Botha
     affiliations:
     - org: paypal
       role: executive
       from: 2000
       to: 2003
       note: CFO, led IPO 2002
+    - org: mckinsey
+      role: employee
+      from: 1996
+      to: 1998
+      note: Business analyst, Johannesburg
+    - org: stanford-university
+      role: alumni
+      note: MBA 2000, Henry Ford II Scholar, valedictorian
     - org: sequoia-capital
-      role: partner
+      role: executive
       from: 2003
-      note: Partner 2003, US lead 2017, Senior Steward 2022-2025
+      note: Managing Partner dal 2022
+    - org: university-cape-town
+      role: alumni
+      note: BSc Actuarial Science 1996, highest GPA in program history
+    - org: unity-technologies
+      role: chairman
+      from: 2023
+      note: Chairman of the Board
+    - org: mongodb
+      role: board
+    - org: natera
+      role: board
+    - org: block
+      role: board
+      note: Led Sequoia investment in Square
+    relations:
+    - person: pik-botha
+      type: family
+      note: grandfather
   rogelio-zambrano:
     born: 1958
     nationality: MX
@@ -29585,6 +32529,14 @@ persons:
       role: diplomat
       from: 1986
       to: 1987
+  rory-read:
+    nationality: USA
+    affiliations:
+    - org: amd
+      role: executive
+      from: 2011
+      to: 2014
+      note: CEO 2011-2014, won PlayStation/Xbox contracts
   rose-damen:
     nationality: NLD
     affiliations:
@@ -29656,6 +32608,38 @@ persons:
       role: president
       from: 1977
       to: 1981
+  roy-reznik:
+    born: 1989
+    nationality: ISR
+    affiliations:
+    - org: microsoft
+      role: executive
+      from: 2015
+      to: 2020
+      note: Azure Cloud Security Group (via Adallom acquisition)
+    - org: unit-8200
+      role: member
+      note: Joined Adallom immediately after service
+    - org: wiz
+      role: founder
+      from: 2020
+      note: Co-Founder & VP Engineering
+    - org: adallom
+      role: founder
+      from: 2012
+      to: 2015
+      note: Co-Founder & VP Engineering
+    - org: talpiot
+      role: alumni
+      from: 2001
+      note: Class of 2001, co-founder Adallom & Wiz
+    relations:
+    - person: ami-luttwak
+      type: colleague
+      note: Co-founder Adallom (2012), Wiz (2020). Met in Unit 8200
+    - person: yinon-costica
+      type: colleague
+      note: Co-founder Adallom (2012), Wiz (2020). Met in Unit 8200
   roy-thomson:
     born: 1894
     died: 1976
@@ -29881,6 +32865,11 @@ persons:
     - org: oracle
       role: executive
       from: 2014
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner
   sagar-adani:
     born: 1994
     nationality: IND
@@ -30035,6 +33024,37 @@ persons:
       role: founder
       from: 2019
       note: Co-founder, Chairman of Tools for Humanity
+    - org: sun-valley-conference
+      role: member
+      note: Attendee 2024, 2025
+    relations:
+    - person: daniela-amodei
+      type: colleague
+      note: OpenAI VP Operations 2018-20, left to found Anthropic
+    - person: dario-amodei
+      type: colleague
+      note: OpenAI VP Research 2016-20, left to found Anthropic
+    - person: elon-musk
+      type: colleague
+      note: OpenAI co-founders 2015, Musk left 2018
+    - person: ilya-sutskever
+      type: colleague
+      note: OpenAI co-founders; Sutskever led ouster Nov 2023, then left May 2024
+    - person: nicole-seligman
+      type: colleague
+      note: OpenAI board 2024-
+    - person: paul-nakasone
+      type: colleague
+      note: OpenAI board 2024-
+    - person: peter-thiel
+      type: colleague
+      note: OpenAI co-founders 2015
+    - person: reid-hoffman
+      type: colleague
+      note: OpenAI co-founders 2015
+    - person: zico-kolter
+      type: colleague
+      note: OpenAI board 2024-
   sam-gregory:
     nationality: USA
     note: Programme Director WITNESS. Co-founder Video4Change. Launched Human Rights Channel YouTube. Rockefeller Bellagio
@@ -30045,6 +33065,33 @@ persons:
       note: WEF Annual Meeting 2016
     - org: witness
       role: executive
+  sam-mccandlish:
+    nationality: USA
+    affiliations:
+    - org: openai
+      role: employee
+      from: 2018
+      to: 2020
+      note: Research Lead, co-author Scaling Laws
+    - org: stanford-university
+      role: alumni
+      note: PhD Theoretical Physics 2017, DOE SCGF Fellow 2012
+    - org: anthropic
+      role: founder
+      from: 2021
+      note: CTO, Responsible Scaling Officer
+    - org: brandeis
+      role: alumni
+      note: BS Math & Physics, MS Physics 2012
+    - org: boston-university
+      role: employee
+      from: 2017
+      to: 2018
+      note: Postdoctoral Fellow, Physics
+    relations:
+    - person: jared-kaplan
+      type: colleague
+      note: Co-author Scaling Laws for Neural Language Models (2020), co-founders Anthropic
   sam-nunn:
     born: 1938
     nationality: USA
@@ -30234,6 +33281,13 @@ persons:
     - org: club-madrid
       role: member
       from: 2023
+  santo-politi:
+    nationality: USA
+    affiliations:
+    - org: spark-capital
+      role: founder
+      from: 2005
+      note: Co-founder, General Partner
   sara-menker:
     nationality: USA
     note: Founder/CEO Gro Intelligence. Former VP Morgan Stanley Commodities. Trustee Mandela Institute. African Leadership
@@ -30322,6 +33376,9 @@ persons:
       role: board
       from: 2016
       note: Board of Trustees
+    - org: sun-valley-conference
+      role: member
+      note: Attendee regolare
   saud-al-faisal:
     born: 1940
     died: 2015
@@ -30409,6 +33466,14 @@ persons:
       role: board
     - org: tempus-ai
       role: board
+  scott-mcnealy:
+    born: 1954
+    nationality: USA
+    affiliations:
+    - org: sun-microsystems
+      role: founder
+      from: 1982
+      note: Co-founder, CEO 1984-2006
   scott-nuttall:
     nationality: USA
     affiliations:
@@ -30965,6 +34030,17 @@ persons:
       role: founder
       from: 2010
       note: CEO
+  shane-legg:
+    born: 1974
+    nationality: NZL-GBR
+    affiliations:
+    - org: deepmind
+      role: founder
+      from: 2010
+      note: Chief AGI Scientist
+    - org: ucl
+      role: alumni
+      note: Postdoc, Gatsby Computational Neuroscience Unit
   shapour-bakhtiar:
     born: 1914
     died: 1991
@@ -30990,6 +34066,14 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  shaul-yatziv:
+    affiliations:
+    - org: hebrew-university
+      role: professor
+    - org: talpiot
+      role: founder
+      from: 1979
+      note: Co-initiator with Felix Dothan
   sheikh-maktoum-bin-mohammed:
     born: 1983
     nationality: UAE
@@ -31037,6 +34121,92 @@ persons:
     - org: wef
       role: ygl
       from: 2023
+  sheldon-roberts:
+    born: 1926
+    died: 2015
+    nationality: USA
+    note: Traitorous Eight, materials expert
+    affiliations:
+    - org: fairchild-semiconductor
+      role: founder
+      from: 1957
+      to: 1962
+      note: Head of materials
+  sherman-fairchild:
+    born: 1896
+    died: 1971
+    nationality: USA
+    note: Inventor, founder Fairchild Camera & Instrument
+    affiliations:
+    - org: fairchild-semiconductor
+      role: investor
+      from: 1957
+      note: Provided $1.38M loan via Fairchild Camera
+  sheryl-sandberg:
+    born: 1969
+    nationality: USA
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos participant
+    - org: banca-mondiale
+      role: executive
+      from: 1991
+      to: 1993
+      note: Research Assistant to Larry Summers
+    - org: meta
+      role: executive
+      from: 2008
+      to: 2022
+      note: COO, Board 2012-2024
+    - org: mckinsey
+      role: executive
+      from: 1995
+      to: 1996
+      note: Management Consultant
+    - org: walt-disney
+      role: board
+      from: 2010
+      to: 2018
+      note: Board of Directors
+    - org: google
+      role: executive
+      from: 2001
+      to: 2008
+      note: VP Global Online Sales & Operations
+    - org: harvard-business-school
+      role: alumni
+      note: MBA 1995 highest distinction
+    - org: harvard
+      role: alumni
+      note: BA Economics 1991 summa cum laude, Phi Beta Kappa
+    - org: us-treasury
+      role: executive
+      from: 1996
+      to: 2001
+      note: Chief of Staff to Larry Summers
+    - org: lean-in
+      role: founder
+      from: 2013
+      note: Founder & Chair
+    - org: surveymonkey
+      role: board
+      from: 2015
+      note: Board of Directors
+    - org: one-campaign
+      role: board
+      note: Board of Directors
+    - org: center-global-development
+      role: board
+      note: Board of Directors
+    - org: sandberg-bernthal-ventures
+      role: founder
+      from: 2022
+      note: Co-founder
+    - org: bay-fc
+      role: board
+      from: 2023
+      note: Co-owner
   shi-zhe:
     nationality: CHN
     note: CDO Foxconn
@@ -31153,6 +34323,12 @@ persons:
     - org: check-point
       role: founder
       from: 1993
+    - org: imperva
+      role: founder
+      from: 2002
+    - org: cato-networks
+      role: founder
+      from: 2015
   shmuel-schnitzer:
     nationality: ISR
     affiliations:
@@ -31209,6 +34385,26 @@ persons:
       role: executive
       from: 1972
       to: 1973
+  siddhartha-mukherjee:
+    born: 1970
+    nationality: IND-USA
+    affiliations:
+    - org: stanford-university
+      role: alumni
+      note: BS Biology
+    - org: manas-ai
+      role: founder
+      from: 2025
+      note: Co-founder with Reid Hoffman
+    - org: harvard
+      role: alumni
+      note: MD 2000, Harvard Medical School
+    - org: oxford
+      role: alumni
+      note: DPhil Immunology, Rhodes Scholar
+    - org: columbia
+      role: faculty
+      note: Associate Professor of Medicine, Herbert Irving Cancer Center
   siegfried-russwurm:
     born: 1963
     nationality: DEU
@@ -31969,6 +35165,17 @@ persons:
       from: 2014
       to: 2017
       note: Vice President, investor 1-5M USD
+  steve-chien:
+    nationality: USA
+    affiliations:
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner, Commerce Dept appointee
+    - org: nasa-jpl
+      role: executive
+      note: Technical Fellow, Head of AI Group
   steve-jobs:
     born: 1955
     died: 2011
@@ -32085,6 +35292,49 @@ persons:
     - org: first-pacific
       role: founder
       from: 1981
+  sue-desmond-hellmann:
+    born: 1958
+    nationality: USA
+    affiliations:
+    - org: openai
+      role: board
+      from: 2024
+      note: Board of Directors (Mar 2024)
+    - org: gates-foundation
+      role: executive
+      from: 2014
+      to: 2020
+      note: CEO (first physician, first non-Microsoft executive)
+    - org: pfizer
+      role: board
+      from: 2020
+      note: Board of Directors
+    - org: genentech
+      role: executive
+      from: 1995
+      to: 2009
+      note: President Product Development; led Herceptin, Avastin
+    - org: uc-berkeley
+      role: alumni
+      note: MPH
+    - org: university-nevada-reno
+      role: alumni
+      note: BS Pre-Medicine 1978, MD 1982
+    - org: ucsf
+      role: executive
+      from: 2009
+      to: 2014
+      note: Chancellor (first woman)
+    relations:
+    - person: bill-gates
+      type: colleague
+      note: Gates Foundation CEO 2014-2020
+    - person: bret-taylor
+      type: colleague
+      note: OpenAI board colleagues
+    - person: sam-altman
+      type: colleague
+      note: OpenAI board (2024-)
   suharto:
     born: 1921
     died: 2008
@@ -32213,6 +35463,9 @@ persons:
       role: executive
       from: 2015
       note: CEO Google, CEO Alphabet (2019)
+    - org: sun-valley-conference
+      role: member
+      note: Attendee 2024
   sunil-mittal:
     born: 1957
     nationality: IND
@@ -32354,6 +35607,17 @@ persons:
     died: 1930
     nationality: USA
     family: dupont
+    affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 1921
+      to: 1928
+      note: US Senator from Delaware (1921-1922, 1925-1928)
+    - org: dupont-de-nemours
+      role: executive
+      from: 1902
+      to: 1915
+      note: President
   tadashi-yamamoto:
     born: 1936
     died: 2012
@@ -32609,6 +35873,16 @@ persons:
       role: owner
       from: 1996
       to: 1999
+  ted-kennedy:
+    born: 1932
+    died: 2009
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 1962
+      to: 2009
+      note: Senator Massachusetts
   ted-turner:
     nationality: USA
     affiliations:
@@ -32945,6 +36219,13 @@ persons:
       role: board
       from: 2007
       note: Lead Director
+  thomas-hogan:
+    nationality: USA
+    affiliations:
+    - org: cellebrite
+      role: executive
+      from: 2023
+      note: Executive Chairman 2023, CEO Jan 2025
   thomas-jordan:
     born: 1963
     nationality: CHE
@@ -33141,6 +36422,9 @@ persons:
       role: executive
       from: 2011
       note: CEO
+    - org: sun-valley-conference
+      role: member
+      note: Attendee regolare, 2024, 2025
   tim-levene:
     nationality: GBR
     note: Former Bain & Company. Founded Fresh n Smooth/Crussh. Launched Flutter.com (merged with Betfair). Founded Augmentum
@@ -33162,6 +36446,27 @@ persons:
     - org: museo-caproni
       role: founder
       from: 1927
+  timothee-lacroix:
+    born: 1991
+    nationality: FRA
+    affiliations:
+    - org: meta
+      role: executive
+      to: 2023
+      note: Research Scientist
+    - org: mistral-ai
+      role: founder
+      from: 2023
+      note: CTO
+    - org: ens-paris-saclay
+      role: alumni
+      note: Master
+    - org: ens-ulm
+      role: alumni
+      note: Computer Science
+    - org: ecole-des-ponts
+      role: alumni
+      note: PhD 2016-2019
   timothy-geithner:
     born: 1961
     nationality: USA
@@ -33200,6 +36505,9 @@ persons:
       role: advisor
       from: 1985
       to: 1988
+  timothy-haugh:
+    nationality: USA
+    note: NSA Director, Cyber Command Commander (2024-)
   tina-jonas:
     nationality: USA
     affiliations:
@@ -33243,6 +36551,13 @@ persons:
       role: chairman
       from: 2022
       note: Co-owner ~12.7% via BlueCo, Chairman fino 2027
+  todd-dagres:
+    nationality: USA
+    affiliations:
+    - org: spark-capital
+      role: founder
+      from: 2005
+      note: Co-founder, Partner Emeritus
   toger-seidenfaden:
     born: 1957
     died: 2011
@@ -33293,6 +36608,23 @@ persons:
       role: executive
       from: 2023
       note: CEO
+  tom-brown:
+    nationality: USA
+    affiliations:
+    - org: openai
+      role: employee
+      from: 2016
+      to: 2021
+      note: Lead Engineer GPT-3
+    - org: google
+      role: employee
+      note: Member of Technical Staff, Google Brain
+    - org: mit
+      role: alumni
+    - org: anthropic
+      role: founder
+      from: 2021
+      note: Head Core Resources
   tom-enders:
     born: 1958
     nationality: DEU
@@ -33354,6 +36686,20 @@ persons:
       role: board
       from: 2020
       note: Vice Chair
+  tom-perkins:
+    born: 1932
+    died: 2016
+    nationality: USA
+    affiliations:
+    - org: kleiner-perkins
+      role: founder
+      from: 1972
+    - org: harvard
+      role: alumni
+      note: MBA
+    - org: hewlett-packard
+      role: executive
+      note: Early executive, ran computer division
   tom-theobald:
     nationality: LUX
     affiliations:
@@ -33645,8 +36991,8 @@ persons:
     - person: ibn-saud
       type: grandson
   udi-mokady:
-    born: 1970
-    nationality: ISR
+    born: 1968
+    nationality: ISR-USA
     affiliations:
     - org: unit-8200
       role: member
@@ -33655,7 +37001,13 @@ persons:
       from: 1999
     - org: cyberark
       role: chairman
-      from: 2022
+      from: 2023
+      note: Executive Chairman
+    - org: cyberark
+      role: executive
+      from: 2005
+      to: 2023
+      note: CEO
   ugur-sahin:
     born: 1965
     nationality: TUR-DEU
@@ -33973,6 +37325,44 @@ persons:
       from: 1995
       to: 2000
       note: Co-Chair
+  vannevar-bush:
+    born: 1890
+    died: 1974
+    nationality: USA
+    note: First presidential science advisor, OSRD director, proposed NSF, invented differential analyzer, memex concept
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 1940
+      to: 1947
+      note: Director OSRD 1941-1947, Chairman NDRC 1940-1941, first presidential science advisor
+    - org: raytheon
+      role: founder
+      from: 1922
+      note: Co-founded as American Appliance Company
+    - org: mit
+      role: alumni
+      note: PhD Electrical Engineering 1916 (joint with Harvard)
+    - org: mit
+      role: executive
+      from: 1919
+      to: 1938
+      note: Professor 1919, VP and Dean of Engineering 1932-1938
+    - org: harvard
+      role: alumni
+      note: PhD Electrical Engineering 1916 (joint with MIT)
+    - org: tufts-university
+      role: alumni
+      note: BS Mathematics 1913, MS Mathematics 1913
+    - org: carnegie-institution
+      role: executive
+      from: 1939
+      to: 1955
+      note: President
+    relations:
+    - person: fred-terman
+      type: mentor
+      note: PhD advisor at MIT 1922-1924
   varun-chandra:
     born: 1985
     nationality: GBR
@@ -34137,6 +37527,16 @@ persons:
       role: chairman
       from: 2024
       note: First chairperson starting January 1, 2024
+  victor-grinich:
+    born: 1924
+    died: 2000
+    nationality: USA
+    note: Traitorous Eight, only EE among them
+    affiliations:
+    - org: fairchild-semiconductor
+      role: founder
+      from: 1957
+      to: 1962
   victor-halberstadt:
     born: 1939
     died: 2024
@@ -34351,6 +37751,25 @@ persons:
       note: Amministratore Delegato
   vinod-adani:
     nationality: IND
+  vinod-khosla:
+    born: 1955
+    nationality: IND-USA
+    affiliations:
+    - org: stanford-university
+      role: alumni
+      note: MBA
+    - org: kleiner-perkins
+      role: partner
+      from: 1986
+      to: 2004
+      note: General Partner
+    - org: sun-microsystems
+      role: founder
+      from: 1982
+      note: Co-founder and first CEO
+    - org: khosla-ventures
+      role: founder
+      from: 2004
   vitali-klitschko:
     born: 1971
     nationality: UKR
@@ -34708,6 +38127,17 @@ persons:
       from: 1861
       to: 1877
       note: Editor
+  walter-brattain:
+    born: 1902
+    died: 1987
+    nationality: USA
+    note: Nobel Prize Physics 1956, transistor co-inventor
+    affiliations:
+    - org: bell-labs
+      role: researcher
+      from: 1929
+      to: 1967
+      note: Co-invented transistor 1947
   walter-hallstein:
     born: 1901
     died: 1982
@@ -34860,6 +38290,9 @@ persons:
       role: board
       from: 1974
       to: 2011
+    - org: sun-valley-conference
+      role: member
+      note: Attendee regolare dagli anni 90, ritirato 2025
   wen-jiabao:
     born: 1942
     nationality: CHN
@@ -35122,6 +38555,26 @@ persons:
       role: chairman
       from: 2024
       note: Chair International Advisory Board
+  william-henry-vanderbilt:
+    born: 1821
+    died: 1885
+    nationality: USA
+    affiliations:
+    - org: new-york-central-railroad
+      role: executive
+      from: 1877
+      to: 1885
+      note: President
+  william-hewlett:
+    born: 1913
+    died: 2001
+    nationality: USA
+    note: HP co-founder, Stanford Engineering
+    affiliations:
+    - org: hewlett-packard
+      role: founder
+      from: 1939
+      note: Co-founder
   william-kaelin:
     born: 1957
     nationality: USA
@@ -35132,6 +38585,10 @@ persons:
     - org: harvard-medical-school
       role: member
       note: Professor of Medicine
+  william-kissam-vanderbilt:
+    born: 1849
+    died: 1920
+    nationality: USA
   william-koch:
     born: 1940
     nationality: USA
@@ -35173,6 +38630,17 @@ persons:
     relations:
     - person: irving-kristol
       type: son
+  william-mark:
+    nationality: USA
+    affiliations:
+    - org: nscai
+      role: member
+      from: 2018
+      to: 2021
+      note: Commissioner, DoD appointee
+    - org: sri-international
+      role: executive
+      note: VP Information & Computing Sciences
   william-mcguire:
     born: 1948
     nationality: USA
@@ -35205,6 +38673,44 @@ persons:
       note: Former
     - org: governo-giappone
       role: advisor
+  william-shockley:
+    born: 1910
+    died: 1989
+    nationality: USA-GBR
+    note: Nobel Prize Physics 1956, transistor co-inventor, founded Shockley Semiconductor, eugenics advocate
+    affiliations:
+    - org: stanford-university
+      role: professor
+      from: 1958
+      to: 1975
+      note: Alexander M. Poniatoff Professor of Engineering and Applied Science (1963-1975)
+    - org: mit
+      role: alumni
+      note: 'PhD Physics 1936, thesis: Electronic Bands in Sodium Chloride'
+    - org: caltech
+      role: alumni
+      note: BS Physics 1932
+    - org: shockley-semiconductor
+      role: founder
+      from: 1956
+    - org: bell-labs
+      role: executive
+      from: 1936
+      to: 1955
+      note: Solid-state physics group leader, co-invented transistor 1947
+    relations:
+    - person: gordon-moore
+      type: manager
+      note: Moore worked at Shockley Semiconductor 1956-1957, left as part of Traitorous Eight
+    - person: john-bardeen
+      type: colleague
+      note: Co-inventors transistor at Bell Labs 1947, Nobel Prize 1956
+    - person: robert-noyce
+      type: manager
+      note: Noyce worked at Shockley Semiconductor 1956-1957, left as part of Traitorous Eight
+    - person: walter-brattain
+      type: colleague
+      note: Co-inventors transistor at Bell Labs 1947, Nobel Prize 1956
   william-soeryadjaya:
     born: 1922
     died: 2010
@@ -35459,10 +38965,35 @@ persons:
     nationality: FRA
     note: fondatore Free, tech billionaire
     affiliations:
+    - org: kkr
+      role: board
+      from: 2018
+      note: Independent Director
     - org: le-monde
       role: owner
     - org: free-iliad
       role: founder
+    - org: bytedance
+      role: board
+      from: 2024
+      note: Board member, unico europeo
+    - org: mistral-ai
+      role: investor
+      from: 2023
+      note: Angel investor seed round
+    - org: kyutai
+      role: founder
+      from: 2023
+      note: Co-founder, €100M via Iliad
+    - org: station-f
+      role: founder
+      from: 2017
+    - org: ecole-42
+      role: founder
+      from: 2013
+    - org: scaleway
+      role: founder
+      from: 1999
   xavier-parain:
     nationality: FRA
     affiliations:
@@ -35694,6 +39225,54 @@ persons:
     - org: pheu-thai
       role: leader
       from: 2011
+  yinon-costica:
+    born: 1983
+    nationality: ISR
+    affiliations:
+    - org: microsoft
+      role: executive
+      from: 2015
+      to: 2020
+      note: Partner Director of Product Management, Cloud Security Group. Grew business 0 to $1.5B revenue
+    - org: unit-8200
+      role: member
+      note: Head of cyber division. Israel Secretary of Defense Award for Excellence
+    - org: hebrew-university
+      role: alumni
+      note: BSc Physics, Mathematics, Computer Science
+    - org: wiz
+      role: founder
+      from: 2020
+      note: Co-Founder & VP Product
+    - org: technion
+      role: alumni
+      note: MSc Computer Networking
+    - org: adallom
+      role: founder
+      from: 2012
+      to: 2015
+      note: Co-Founder & VP Product
+    - org: naval-postgraduate-school
+      role: alumni
+      note: MSc Operations Research
+    - org: talpiot
+      role: alumni
+      from: 2001
+      note: Class of 2001, co-founder Wiz
+  yitzhak-hofi:
+    born: 1927
+    died: 2014
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: leader
+      from: 1974
+      to: 1982
+      note: Director
+    relations:
+    - person: zvi-zamir
+      type: successor
+      note: Successor as Mossad Director 1974
   yitzhak-rabin:
     born: 1922
     died: 1995
@@ -35724,6 +39303,19 @@ persons:
     - org: el-ad-group
       role: founder
       from: 1978
+  ylli-bajraktari:
+    born: 1975
+    nationality: USA
+    affiliations:
+    - org: scsp
+      role: executive
+      from: 2021
+      note: President & CEO
+    - org: nscai
+      role: executive
+      from: 2019
+      to: 2021
+      note: Executive Director
   yngve-slyngstad:
     born: 1962
     nationality: NOR
@@ -35740,6 +39332,19 @@ persons:
       role: founder
       from: 2022
       note: Managing Partner, 5% owner
+  yoav-shoham:
+    nationality: ISR
+    affiliations:
+    - org: google
+      role: executive
+      note: Former Principal Scientist
+    - org: stanford-university
+      role: faculty
+      note: Professor Emeritus Computer Science
+    - org: ai21-labs
+      role: founder
+      from: 2017
+      note: Co-CEO, Prof Emeritus Stanford, ex-Google Principal Scientist
   yoav-turgeman:
     nationality: ISR
     note: Rafael CEO, ex ELTA CEO, Arrow missile program
@@ -35797,6 +39402,14 @@ persons:
     - person: otto-skorzeny
       type: handler
       note: Handler principale, presente al funerale
+  yossi-carmil:
+    nationality: ISR
+    affiliations:
+    - org: cellebrite
+      role: executive
+      from: 2004
+      to: 2024
+      note: Co-CEO 2005-2020, CEO 2020-2024
   yossi-cohen:
     born: 1961
     nationality: ISR
@@ -36158,6 +39771,12 @@ persons:
       role: chairman
       from: 2001
       note: Majority shareholder
+  zhou-jingren:
+    nationality: CHN
+    affiliations:
+    - org: alibaba
+      role: executive
+      note: CTO Alibaba Cloud, Head Tongyi Lab, Alibaba Partner (2025)
   zhou-xi:
     born: 1978
     nationality: CHN
@@ -36203,6 +39822,52 @@ persons:
       role: founder
       from: 2012
       note: CEO
+  zico-kolter:
+    nationality: USA
+    note: AI safety researcher, CMU ML Department Head, OpenAI board
+    affiliations:
+    - org: openai
+      role: board
+      from: 2024
+      note: Board member, Safety & Security Committee
+    - org: stanford-university
+      role: alumni
+      note: PhD Computer Science 2010, advisor Andrew Ng
+    - org: mit
+      role: fellow
+      from: 2010
+      to: 2012
+      note: Postdoctoral Fellow
+    - org: qualcomm
+      role: board
+      from: 2025
+      note: Board of Directors
+    - org: georgetown
+      role: alumni
+      note: BS Computer Science
+    - org: cmu
+      role: executive
+      from: 2012
+      note: Professor, ML Department Head (2024-)
+    - org: bosch
+      role: advisor
+      note: Chief Expert AI Research
+    - org: gray-swan
+      role: advisor
+      note: Chief Technical Advisor
+    relations:
+    - person: adam-dangelo
+      type: colleague
+      note: OpenAI board
+    - person: andrew-ng
+      type: mentor
+      note: PhD advisor at Stanford (2010)
+    - person: bret-taylor
+      type: colleague
+      note: OpenAI board, Safety & Security Committee
+    - person: paul-nakasone
+      type: colleague
+      note: OpenAI board, Safety & Security Committee
   zou-jiayi:
     nationality: CHN
     note: Presidente AIIB dal 2025, ex Vice Min Finanze
@@ -36220,3 +39885,30 @@ persons:
       note: WEF Annual Meeting 2016
     - org: ayzh
       role: founder
+  zvi-zamir:
+    born: 1925
+    died: 2024
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: leader
+      from: 1968
+      to: 1974
+      note: Director
+    - org: idf
+      role: executive
+      from: 1948
+      to: 1968
+      note: Major General, Givati Brigade, Southern Command, Military Attaché London
+    - org: palmach
+      role: member
+      from: 1943
+      to: 1948
+      note: Fondò 6° Battaglione, convoys to Jerusalem
+    relations:
+    - person: isser-harel
+      type: successor
+      note: Successor as Mossad Director (via Meir Amit)
+    - person: meir-amit
+      type: successor
+      note: Successor as Mossad Director 1968

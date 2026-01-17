@@ -53,7 +53,12 @@
 | **2017** | Prima azienda asiatica a superare $500B market cap |
 | **2018** | Supera $500B market cap |
 | **2021** | Si avvicina a $1T market cap |
-| **2025** | Inserita nella lista DoD "Chinese Military Companies" |
+| **Gen 2025** | Inserita nella lista DoD "Chinese Military Companies" |
+| **Mar 2025** | Board approva buyback $10B su 24 mesi |
+| **Mag 2025** | Shareholders approvano buyback HKD 500B+ (10% shares) |
+| **Set 2025** | Hunyuan-MT vince 30/31 lingue WMT25 |
+| **Nov 2025** | Lancio globale Hunyuan 3D Engine |
+| **Dic 2025** | Rilascio Hunyuan 2.0 (406B MoE) |
 
 ---
 
@@ -122,7 +127,19 @@
 3. **Fintech** - WeChat Pay, Tencent FiT
 4. **Cloud** - Tencent Cloud (terzo in Cina)
 5. **Media & Entertainment** - Tencent Video, Tencent Music
-6. **AI** - Sviluppo modelli proprietari
+6. **AI** - Hunyuan LLM suite
+
+### Hunyuan AI (2025)
+
+| Modello | Data | Caratteristiche |
+|---------|------|-----------------|
+| Hunyuan 2.0 | Dic 2025 | MoE 406B param (32B attivi), 256K context window |
+| Hunyuan 3D 3.0 | Nov 2025 | 3D asset generation, 3M+ downloads su HuggingFace |
+| Hunyuan-MT | Set 2025 | Translation, #1 in 30/31 lingue WMT25 (vs Google, OpenAI) |
+| HunyuanVideo | 2025 | Video generation, supera Runway Gen-3, Luma 1.6 |
+| Hunyuan-A13B | 2025 | Hybrid inference model, open-source |
+
+**Partnerships**: Unity China, Bambu Lab, Liblib (150+ enterprise in Cina)
 
 ---
 

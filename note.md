@@ -37,54 +37,126 @@ iran/iraq, khomeini
 gheddafi -> Sarkozy
 
 
-Priorità 1: Ambiti ad alta interconnessione
 
-  FARMACEUTICO/HEALTHCARE
-          │
-          ├── Gates Foundation (già connesso a WEF, Bilderberg)
-          ├── GAVI (Microsoft co-funder)
-          ├── WHO (governance, funding)
-          ├── Big Pharma revolving door
-          └── Pandemia come "stress test" del network
+AI:
+daniel-gross SSI
+daniel-levy SSI
+xAI
+Grok
 
-  Questo ambito interseca già molti nodi esistenti (Gates→WEF, pharma→revolving door).
-  1. Big Pharma (Pfizer, J&J, Roche, Novartis, AstraZeneca, Moderna, BioNTech)
-  2. Regolatori (FDA, EMA)
-  3. Persone (Bill Gates scheda completa, Tedros, Scott Gottlieb, Albert Bourla)
+Silicon Valley
 
-  Priorità 2: Commodity Trading Houses
+Blockbuster
+qualcomm
+Netscape
 
-  COMMODITIES
-          │
-          ├── Glencore (Glasenberg→Gary Nagle, Svizzera)
-          ├── Trafigura, Vitol, Mercuria
-          ├── Cargill, ADM (agri)
-          └── Pattern: opacità estrema, Swiss-based, Africa/LatAm exposure
 
-  Le trading houses sono il "PE delle commodities" - stessa opacità, stessa concentrazione.
+Silicon Valley Billionaires Club
 
-  Priorità 3: Espansione geografica mirata
+divesh-makan
+michael-anders
+chad-boeding
+andy-bechtolsheim
 
-  India come caso più ricco:
-  - Tata (più vicino a modello occidentale, trust structure)
-  - Reliance vs Adani (rivalry, Modi connection)
-  - Diaspora tech (Nadella, Pichai - già nel network)
-  - Think tank indiani (ORF, Brookings India)
 
-  Sudamerica - focus Brasile:
-  - 3G Capital (Lemann) - già connesso a Berkshire/PE globale
-  - Safra family (banche)
-  - BTG Pactual
-  - Odebrecht scandal (pattern corruzione sistemica)
+Akamai
+SalesForge
+Discord
+Slack
+Oculus
+Tumblr
+Twitter
+Coinbase
+Stripe
+Siri
+Dropbox
+Uber
+AirBnb
+Roku
+Cisco
+microstrategy
+VMware
+Broadcom
+Dell
+Compaq
+Sun microsystem
 
-  Proposta Concreta
+Famiglie USA:
+johnson-fidelity
 
-  Vuoi che proceda con:
 
-  1. Report pharma-power.md - Gates, GAVI, WHO, Big Pharma, revolving door
-  2. Report commodity-trading.md - Glencore, trading houses, food security
-  3. Report india-power-network.md - Tata, Ambani, Adani, BJP nexus
-  4. Report latam-oligarchs.md - 3G Capital, Slim, Globo, oligarchie
+Transformer Diaspora: Tutti 8 autori del paper 2017 hanno fondato aziende AI ((Cohere, Character.AI, Essential AI, Sakana AI, NEAR Protocol))
+| Autore | Affiliazione 2017 | Company/Ruolo 2025 | Note |
+|--------|-------------------|-------------------|------|
+| Ashish Vaswani | Google Brain | Essential AI (co-founder) | Ex-Adept AI |
+| Noam Shazeer | Google Brain | Character.AI (co-founder) | $1B+ valuation |
+| Niki Parmar | Google Brain | Stealth startup | Ex-Adept AI |
+| Jakob Uszkoreit | Google Research | Inceptive (co-founder) | RNA design |
+| Llion Jones | Google Research | Sakana AI (co-founder, Tokyo) | AI scientist |
+| [Aidan Gomez](../docs/persons/aidan-gomez.md) | U of T (intern) | [Cohere](../docs/company/cohere.md) (CEO) | $7B valuation |
+| Lukasz Kaiser | Google Brain | OpenAI | Researcher |
+| Illia Polosukhin | Google Research | NEAR Protocol (co-founder) | Web3/blockchain |
 
-  | Gulf Capital | ~$5B  | Abu Dhabi, Mubadala-linked   
+Organizzazioni:
+  - deepseek (Company)
+  - [v] deepmind (Company)
+  - [v] mistral-ai (Company)
+  - [v] cohere (Company)
+  - [v] perplexity (Company)
+  - [v] scsp (ThinkTank)
+  - 2025-stargate-announcement (Event)
+
+  Persone:
+  - liang-wenfeng (DeepSeek founder)
+  - demis-hassabis (DeepMind founder)
+  - arthur-mensch (Mistral founder)
+  - aidan-gomez (Cohere founder)
+  - aravind-srinivas (Perplexity founder)
+  - robert-work (NSCAI Vice-Chair)
+
+
+  - geoffrey-hinton (Person, Nobel Physics 2024)
+  - nick-frosst (Person, Cohere co-founder)
+  - ivan-zhang (Person, Cohere co-founder)
+  - aidan-gomez (Person, Cohere CEO)
+  - google-brain (Company, merged 2023)
+  - vector-institute (ThinkTank)
+
+CINA BAN
+Tra le aziende USA colpite vi sono
+[v] VMware (di Broadcom),
+[v]Palo Alto Networks,
+[v]Fortinet,
+[] Mandiant
+[v]Wiz (di Alphabet),
+[] CrowdStrike,
+[] SentinelOne,
+[] Recorded Future,
+[] McAfee,
+[] Claroty
+[] Rapid7. 
+
+Tra le aziende israeliane:
+[v] Check Point Software Technologies,
+[v]CyberArk,
+[] Orca Security,
+[] Cato Networks
+[] Imperva (acquisita da Thales nel 2023)
+
+hebrew-university
+
+alon-cohen
+udi-mokady
+Felix Dothan
+Shaul Yatziv
+Marius Nacht
+israel-grimberg
+
+aziende cyberswcurity
+Optrotech
+aMoon
+Wisdo
+Kollart
+WhereCanItBe
+
 

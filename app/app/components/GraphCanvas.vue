@@ -197,12 +197,37 @@ function applyFilters() {
   })
 }
 
-// Node colors by type
+// Node colors by type and sublabel
 const nodeColors: Record<string, string> = {
+  // Main types
   Person: '#3B82F6',
   Organization: '#10B981',
   Family: '#8B5CF6',
-  Event: '#F59E0B'
+  Event: '#F59E0B',
+  // Financial sublabels
+  Bank: '#059669',
+  CentralBank: '#047857',
+  AssetManager: '#0D9488',
+  PrivateEquity: '#0891B2',
+  HedgeFund: '#0E7490',
+  SWF: '#14B8A6',
+  // Government sublabels
+  Government: '#DC2626',
+  Agency: '#EA580C',
+  Party: '#E11D48',
+  // Knowledge sublabels
+  Foundation: '#7C3AED',
+  ThinkTank: '#6366F1',
+  University: '#8B5CF6',
+  // Business sublabels
+  Company: '#10B981',
+  Defense: '#64748B',
+  Pharma: '#EC4899',
+  Automaker: '#78716C',
+  SportsClub: '#22C55E',
+  // Other sublabels
+  Media: '#F472B6',
+  Forum: '#FBBF24'
 }
 
 // Edge colors by type
@@ -216,6 +241,13 @@ const edgeColors: Record<string, string> = {
 }
 
 function getNodeColor(labels: string[]): string {
+  // Check sublabels first (skip Organization which is the base label)
+  for (const label of labels) {
+    if (label !== 'Organization' && nodeColors[label]) {
+      return nodeColors[label]
+    }
+  }
+  // Fallback to main types
   for (const label of labels) {
     if (nodeColors[label]) return nodeColors[label]
   }
@@ -247,13 +279,16 @@ async function initCytoscape() {
           'label': 'data(label)',
           'color': '#f0f0f2',
           'text-valign': 'bottom',
+          'text-halign': 'center',
           'text-margin-y': 8,
-          'font-size': 11,
+          'font-size': 10,
           'font-family': 'Outfit, system-ui, sans-serif',
           'text-outline-color': '#0a0a0c',
           'text-outline-width': 2,
-          'width': 40,
-          'height': 40,
+          'text-wrap': 'wrap',
+          'text-max-width': 120,
+          'width': 36,
+          'height': 36,
           'shape': 'data(shape)',
           'border-width': 2,
           'border-color': 'data(color)',
@@ -325,19 +360,72 @@ function getNodeType(labels: string[]): string {
   return 'Organization'
 }
 
+// Get specific sublabel for display
+function getNodeSublabel(labels: string[]): string | null {
+  const sublabels = ['Bank', 'CentralBank', 'AssetManager', 'PrivateEquity', 'HedgeFund', 'SWF',
+    'Government', 'Agency', 'Party', 'Foundation', 'ThinkTank', 'University',
+    'Company', 'Defense', 'Pharma', 'Automaker', 'SportsClub', 'Media', 'Forum']
+  for (const label of labels) {
+    if (sublabels.includes(label)) return label
+  }
+  return null
+}
+
+// ISO alpha-3 to alpha-2 mapping
+const iso3to2: Record<string, string> = {
+  AFG: 'AF', ARE: 'AE', ARG: 'AR', AUS: 'AU', AUT: 'AT', BEL: 'BE', BGD: 'BD',
+  BGR: 'BG', BHR: 'BH', BOL: 'BO', BRA: 'BR', CAN: 'CA', CHE: 'CH', CHN: 'CN',
+  COD: 'CD', CRI: 'CR', CYP: 'CY', CZE: 'CZ', DEU: 'DE', DNK: 'DK', EGY: 'EG',
+  ESP: 'ES', EST: 'EE', ETH: 'ET', FIN: 'FI', FRA: 'FR', GBR: 'GB', GEO: 'GE',
+  GRC: 'GR', GTM: 'GT', HKG: 'HK', HRV: 'HR', HUN: 'HU', IDN: 'ID', IND: 'IN',
+  IRL: 'IE', IRN: 'IR', IRQ: 'IQ', ISR: 'IL', ITA: 'IT', JOR: 'JO', JPN: 'JP',
+  KEN: 'KE', KOR: 'KR', LBN: 'LB', LKA: 'LK', LTU: 'LT', LUX: 'LU', MDA: 'MD',
+  MEX: 'MX', MLT: 'MT', MNE: 'ME', MYS: 'MY', NGA: 'NG', NLD: 'NL', NOR: 'NO',
+  NZL: 'NZ', PAK: 'PK', PHL: 'PH', POL: 'PL', PRT: 'PT', PSE: 'PS', QAT: 'QA',
+  ROU: 'RO', RUS: 'RU', SAU: 'SA', SGP: 'SG', SRB: 'RS', SVN: 'SI', SWE: 'SE',
+  SYR: 'SY', THA: 'TH', TUR: 'TR', TWN: 'TW', UAE: 'AE', UKR: 'UA', USA: 'US',
+  XKX: 'XK', ZAF: 'ZA', ZWE: 'ZW'
+}
+
+// Convert country code to flag emoji
+function countryToFlag(code: string): string {
+  if (!code) return ''
+  const primary = code.split('-')[0]
+  let alpha2 = primary.length === 3 ? iso3to2[primary] : primary.toUpperCase()
+  if (alpha2 === 'UK') alpha2 = 'GB'
+  if (!alpha2 || alpha2.length !== 2) return ''
+  const codePoints = alpha2.split('').map(char => 127397 + char.charCodeAt(0))
+  return String.fromCodePoint(...codePoints)
+}
+
 function updateGraph() {
   if (!cy) return
 
   // Convert nodes
-  const cyNodes = props.nodes.map(node => ({
-    data: {
-      id: node.id,
-      label: node.name || node.id,
-      color: getNodeColor(node.labels),
-      shape: getNodeShape(node.labels),
-      nodeType: getNodeType(node.labels)
+  const cyNodes = props.nodes.map(node => {
+    const sublabel = getNodeSublabel(node.labels)
+    const name = node.name || node.id
+    const isPerson = node.labels.includes('Person')
+    const flag = isPerson && node.nationality ? countryToFlag(node.nationality) : ''
+
+    let label = name
+    if (flag) {
+      label = `${flag} ${name}`
     }
-  }))
+    if (sublabel) {
+      label = `${label}\n[${sublabel}]`
+    }
+
+    return {
+      data: {
+        id: node.id,
+        label,
+        color: getNodeColor(node.labels),
+        shape: getNodeShape(node.labels),
+        nodeType: getNodeType(node.labels)
+      }
+    }
+  })
 
   // Convert edges
   const cyEdges = props.edges.map(edge => ({

@@ -25,6 +25,10 @@
 | Alipay | Sistema pagamenti digitali (ora Ant Group) |
 | Cainiao | Network logistico di Alibaba |
 | Alibaba Cloud | Divisione cloud computing (Aliyun) |
+| Qwen | Famiglia di LLM (Tongyi Qianwen), open-source |
+| Tongyi Lab | Laboratorio AI che sviluppa Qwen |
+| DAMO Academy | Istituto di ricerca avanzata Alibaba |
+| MoE | Mixture of Experts, architettura AI sparse |
 
 ---
 
@@ -111,9 +115,67 @@ Sistema di governance unico: gruppo di partner con diritto di nominare maggioran
 1. **E-commerce domestico** - Taobao, Tmall (core business)
 2. **E-commerce internazionale** - AliExpress, Lazada
 3. **Cloud Computing** - Alibaba Cloud (terzo al mondo)
-4. **Digital Media** - Youku, Alibaba Pictures
-5. **Logistica** - Cainiao Network
-6. **Fintech** - Ant Group (Alipay) - affiliate
+4. **Intelligenza Artificiale** - Qwen/Tongyi Qianwen (vedi sezione dedicata)
+5. **Digital Media** - Youku, Alibaba Pictures
+6. **Logistica** - Cainiao Network
+7. **Fintech** - Ant Group (Alipay) - affiliate
+
+---
+
+## Intelligenza Artificiale: Qwen e Tongyi Lab
+
+### Overview
+
+Alibaba e' uno dei leader mondiali nell'AI open-source attraverso la famiglia di modelli **Qwen** (通义千问, Tongyi Qianwen), sviluppati dal **Tongyi Lab** sotto Alibaba Cloud.
+
+| Metrica | Valore (2025) |
+|---------|---------------|
+| **Modelli open-source** | 300+ |
+| **Download totali** | 600+ milioni |
+| **Modelli derivati** | 140.000+ |
+| **Clienti enterprise** | 290.000+ |
+| **Market share AI Cloud Cina** | 35.8% (#1) |
+
+### Investimento Strategico
+
+Il 24 febbraio 2025, Alibaba ha annunciato un investimento di **RMB 380 miliardi ($53B)** in infrastruttura AI e cloud nei prossimi 3 anni - il piu' grande progetto di computing privato nella storia cinese.
+
+> "We are vigorously advancing a three-year, 380 billion [yuan] AI infrastructure initiative... in anticipation of the artificial superintelligence era."
+> — Eddie Wu, CEO, Apsara Conference 2025
+
+### Modelli Qwen
+
+| Modello | Rilascio | Parametri | Note |
+|---------|----------|-----------|------|
+| Qwen2.5-Max | Gen 2025 | - | Supera GPT-4o, DeepSeek-V3 |
+| Qwen2.5-VL-32B | Mar 2025 | 32B | Vision-Language, Apache 2.0 |
+| Qwen2.5-Omni-7B | Mar 2025 | 7B | Multimodale (text, image, video, audio) |
+| Qwen3 | Apr 2025 | 0.6B-235B | 36T token, 119 lingue, Apache 2.0 |
+| Qwen3-Max | Set 2025 | 1T+ | Flagship, supera Claude 4 Opus |
+| Qwen3-Next | Set 2025 | - | Hybrid attention, multi-token prediction |
+
+### Leadership Tongyi Lab
+
+| Nome | Ruolo | Note |
+|------|-------|------|
+| [Zhou Jingren](../persons/zhou-jingren.md) | CTO Alibaba Cloud, Head Tongyi Lab | Alibaba Partner (dic 2025), ex-Microsoft |
+| [Steven Hoi](../persons/steven-hoi.md) | Head Multimodal Research | Trasferito a Tongyi 2025 |
+| Lin Junyang | Lead Open-Source Qwen | PhD Tsinghua, ex-Apple/MSRA |
+| Wu Chenfei | Lead Qwen-Image, Wan | Ex-Microsoft Research Asia |
+
+### Talenti Persi (2025)
+
+| Nome | Ruolo precedente | Nuova destinazione |
+|------|------------------|-------------------|
+| Zhou Chang | Tech Lead Qwen | ByteDance (arbitrato in corso) |
+| Yan Zhijie | Head Speech Lab | JD.com Explore Academy |
+| Bo Liefeng | Head Applied Vision | Tencent Hunyuan |
+
+### Riconoscimenti
+
+- **Gartner 2025**: Emerging Leader of Generative AI Model Providers
+- **Omdia H1 2025**: #1 AI Cloud market share Cina (35.8%)
+- **LMArena**: Qwen3-Max #3 globale (Chatbot Arena)
 
 ---
 
@@ -136,7 +198,17 @@ Sistema di governance unico: gruppo di partner con diritto di nominare maggioran
 | [Jack Ma](../persons/jack-ma.md) | Fondatore, ex-Chairman |
 | [Joe Tsai](../persons/joe-tsai.md) | Co-fondatore, Chairman, owner Brooklyn Nets |
 | [Eddie Wu](../persons/eddie-wu.md) | Co-fondatore, CEO |
+| [Zhou Jingren](../persons/zhou-jingren.md) | CTO Alibaba Cloud, Head Tongyi Lab |
 | [Masayoshi Son](../persons/masayoshi-son.md) | Early investor (SoftBank) |
+
+### Competitor AI
+
+| Azienda | Modello |
+|---------|---------|
+| [DeepSeek](deepseek.md) | DeepSeek-R1, V3 |
+| [Tencent](tencent.md) | Hunyuan |
+| [ByteDance](bytedance.md) | Doubao |
+| [Baidu](baidu.md) | ERNIE |
 
 ---
 
@@ -168,6 +240,14 @@ Sistema di governance unico: gruppo di partner con diritto di nominare maggioran
 - [Britannica - Jack Ma](https://www.britannica.com/money/Jack-Ma)
 - [SCMP - Jack Ma, Joe Tsai replace SoftBank](https://www.scmp.com/tech/big-tech/article/3249552/jack-ma-joe-tsai-replace-softbank-alibabas-largest-shareholders-scooping-tech-giants-tumbling-shares)
 
+### AI/Qwen
+- [Alibaba Cloud Qwen](https://www.alibabacloud.com/en/solutions/generative-ai/qwen)
+- [Qwen - Wikipedia](https://en.wikipedia.org/wiki/Qwen)
+- [Qwen GitHub](https://github.com/QwenLM/Qwen)
+- [Bloomberg - $53B AI investment](https://www.bloomberg.com/news/articles/2025-02-24/alibaba-to-spend-53-billion-on-ai-infrastructure-in-big-pivot)
+- [SCMP - Tongyi Lab talent](https://www.scmp.com/tech/big-tech/article/3330653/meet-young-talent-scaling-alibabas-ai-future-tongyi-lab-developer-qwen-models)
+- [SCMP - Zhou Jingren Partner](https://www.scmp.com/tech/big-tech/article/3335932/alibaba-names-ai-lab-leader-zhou-jingren-new-group-partner)
+
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2025*

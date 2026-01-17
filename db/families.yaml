@@ -538,6 +538,25 @@ families:
     - person: chung-eui-sun
       generation: 3
       role: chairman
+  clinton:
+    origin: USA
+    founder: bill-clinton
+    sector: politica
+    generations: 2
+    status: active
+    members:
+    - person: bill-clinton
+      generation: 1
+      role: founder
+    - person: hillary-clinton
+      generation: 1
+      role: founder
+    - person: chelsea-clinton
+      generation: 2
+      role: heir
+    - person: marc-mezvinsky
+      generation: 2
+      role: heir
   dassault:
     origin: France
     founder: marcel-dassault
@@ -614,11 +633,11 @@ families:
       generation: 2
       role: heir
   dupont:
-    origin: Francia/USA
-    founder: E.I. du Pont
-    sector: chimica
+    origin: FRA/USA
+    founder: pierre-samuel-dupont
+    sector: chemicals
     generations: 8
-    status: defunct
+    status: active
     members:
     - person: pierre-samuel-dupont
       generation: 1
@@ -902,6 +921,20 @@ families:
     - person: savitri-jindal
       generation: 1
       role: matriarch
+  johnson-fidelity:
+    origin: USA
+    sector: finance
+    status: active
+    members:
+    - person: edward-johnson-ii
+      generation: 1
+      role: patriarch
+    - person: edward-johnson-iii
+      generation: 2
+      role: heir
+    - person: abigail-johnson
+      generation: 3
+      role: heir
   jumblatt-family:
     origin: Chouf, Lebanon
     founder: kamal-jumblatt
@@ -954,6 +987,39 @@ families:
       role: founder
     - person: kostas-karamanlis
       generation: 2
+      role: heir
+  kennedy:
+    origin: USA
+    founder: patrick-kennedy
+    sector: politics
+    status: active
+    members:
+    - person: robert-kennedy-jr
+      generation: 4
+      role: heir
+    - person: john-f-kennedy
+      generation: 3
+      role: leader
+    - person: patrick-kennedy
+      generation: 1
+      role: founder
+    - person: pj-kennedy
+      generation: 2
+      role: leader
+    - person: joseph-kennedy-sr
+      generation: 3
+      role: patriarch
+    - person: robert-kennedy-sr
+      generation: 3
+      role: leader
+    - person: ted-kennedy
+      generation: 3
+      role: leader
+    - person: caroline-kennedy
+      generation: 4
+      role: heir
+    - person: jack-schlossberg
+      generation: 5
       role: heir
   keswick:
     origin: Scotland
@@ -1072,6 +1138,17 @@ families:
     - person: werner-kuhne
       generation: 2
       role: partner
+  kushner:
+    origin: USA
+    sector: real estate, finance
+    status: active
+    members:
+    - person: jared-kushner
+      generation: 2
+      role: heir
+    - person: joshua-kushner
+      generation: 2
+      role: heir
   larrea:
     origin: Mexico
     founder: Jorge Larrea Ortega
@@ -2045,6 +2122,36 @@ families:
     status: active
     members:
     - person: alexandre-van-damme
+  vanderbilt:
+    origin: USA
+    founder: cornelius-vanderbilt
+    sector: transport
+    status: defunct
+    members:
+    - person: cornelius-vanderbilt
+      generation: 1
+      role: founder
+    - person: william-henry-vanderbilt
+      generation: 2
+      role: heir
+    - person: cornelius-vanderbilt-ii
+      generation: 3
+      role: heir
+    - person: william-kissam-vanderbilt
+      generation: 3
+      role: heir
+    - person: george-washington-vanderbilt
+      generation: 3
+      role: heir
+    - person: gertrude-vanderbilt-whitney
+      generation: 4
+      role: heir
+    - person: gloria-vanderbilt
+      generation: 5
+      role: heir
+    - person: anderson-cooper
+      generation: 6
+      role: descendant
   wallenberg:
     origin: Svezia
     founder: andre-oscar-wallenberg

@@ -56,10 +56,10 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 
 | Nome | Ruolo PayPal | Poi |
 |------|--------------|-----|
-| **Elon Musk** | CEO (breve) | Tesla, SpaceX |
-| **Reid Hoffman** | VP | LinkedIn |
+| **[Elon Musk](elon-musk.md)** | CEO (breve) | Tesla, SpaceX, xAI |
+| **[Reid Hoffman](reid-hoffman.md)** | VP | LinkedIn, Greylock |
 | **Max Levchin** | CTO | Affirm |
-| **David Sacks** | COO | Craft Ventures, DOGE |
+| **[David Sacks](david-sacks.md)** | COO | Craft Ventures, AI Czar DOGE |
 | **Keith Rabois** | VP | Khosla Ventures |
 | **Steve Chen** | Ingegnere | YouTube |
 | **Chad Hurley** | Designer | YouTube |
@@ -111,7 +111,7 @@ Thiel e' considerato il "capo" della PayPal Mafia:
   (2024)              (VC)               (Mentor JD Vance)
 ```
 
-### JD Vance
+### [JD Vance](jd-vance.md)
 
 | Anno | Evento |
 |------|--------|
@@ -141,12 +141,12 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 
 > Paradossale: Thiel critica il "globalismo" ma partecipa al Bilderberg.
 
-### Trump Administration
+### Trump Administration (2025)
 
 | Nome | Connessione Thiel | Ruolo |
 |------|-------------------|-------|
-| **JD Vance** | Protetto | Vice President |
-| **David Sacks** | PayPal | AI Czar |
+| **[JD Vance](jd-vance.md)** | Protetto | Vice President |
+| **[David Sacks](david-sacks.md)** | PayPal | AI & Crypto Czar |
 | **Jacob Helberg** | Palantir | State Dept |
 | **Ken Howery** | PayPal | Ambasciatore |
 | **Kevin Hassett** | Advisor | NEC Director |
@@ -271,7 +271,12 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 
 | Persona | Relazione |
 |---------|-----------|
-| [Elon Musk](elon-musk.md) | Co-fondatore PayPal |
+| [Elon Musk](elon-musk.md) | PayPal co-founder, Thiel lo sostituì come CEO |
+| [Reid Hoffman](reid-hoffman.md) | PayPal Mafia, OpenAI co-founders |
+| [David Sacks](david-sacks.md) | PayPal COO, ora AI Czar |
+| [JD Vance](jd-vance.md) | Protégé, VP USA 2024 |
+| [Sam Altman](sam-altman.md) | OpenAI co-founders 2015 |
+| [Alex Karp](alex-karp.md) | Palantir co-founder, Stanford Law classmate |
 | [Klaus Schwab](klaus-schwab.md) | Fondatore WEF/YGL |
 
 ---
@@ -331,4 +336,4 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

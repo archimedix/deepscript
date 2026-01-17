@@ -21,25 +21,25 @@ Gli Stati Uniti rappresentano il centro nevralgico del potere globale post-1945.
 
 ## Top Connettori USA
 
-Le figure con piu' affiliazioni nel database:
+Le figure con piu' affiliazioni nel database (aggiornato Gennaio 2026):
 
 | Rank | Persona | Connessioni | Settori chiave |
 |------|---------|-------------|----------------|
 | 1 | [Vernon Jordan](../docs/persons/vernon-jordan.md) | 22 | Law, corporate boards, Clinton orbit, civil rights |
-| 2 | [David Rubenstein](../docs/persons/david-rubenstein.md) | **16** | **Carlyle founder, CFR Chairman, Bilderberg, WEF, Trilateral Executive** |
-| 3 | [Eric Schmidt](../docs/persons/eric-schmidt.md) | 12 | Google, governo, AI, Bilderberg |
-| 4 | [Timothy Geithner](../docs/persons/timothy-geithner.md) | 11 | Treasury, Fed, Warburg Pincus |
-| 5 | [David Rockefeller](../docs/persons/david-rockefeller.md) | 11 | Chase Manhattan, CFR, Trilateral founder, Bilderberg |
-| 6 | [Henry Kissinger](../docs/persons/henry-kissinger.md) | 11 | State, NSC, CFR, Trilateral, JPM Council |
-| 7 | [James Wolfensohn](../docs/persons/james-wolfensohn.md) | 10 | World Bank President, Carnegie Hall |
-| 8 | [Henry Kravis](../docs/persons/henry-kravis.md) | 10 | KKR founder, Bilderberg, CFR |
-| 9 | [Brian Moynihan](../docs/persons/brian-moynihan.md) | 10 | Bank of America CEO, WEF Chairman IBC |
-| 10 | [Reid Hoffman](../docs/persons/reid-hoffman.md) | 10 | LinkedIn founder, Microsoft board, PayPal Mafia, Bilderberg |
-| 11 | [Rajiv Shah](../docs/persons/rajiv-shah.md) | 10 | USAID, Gates, Rockefeller Foundation |
-| 12 | [Ajay Banga](../docs/persons/ajay-banga.md) | 9 | World Bank President, Mastercard, WEF |
-| 13 | [Larry Ellison](../docs/persons/larry-ellison.md) | 9 | Oracle founder, Tesla, Stargate Project |
-| 14 | [Elon Musk](../docs/persons/elon-musk.md) | 9 | Tesla, SpaceX, X, DOGE |
-| 15 | [James Johnson](../docs/persons/james-johnson.md) | 12 | Fannie Mae, Goldman Sachs, Brookings, Bilderberg steering, VP selection |
+| 2 | [David Rubenstein](../docs/persons/david-rubenstein.md) | 17 | Carlyle founder, CFR Chairman, Bilderberg, WEF, Trilateral Executive |
+| 3 | [Reid Hoffman](../docs/persons/reid-hoffman.md) | 17 | LinkedIn founder, Microsoft board, PayPal Mafia, Bilderberg, CFR, OpenAI |
+| 4 | [Condoleezza Rice](../docs/persons/condoleezza-rice.md) | 17 | NSA, Secretary of State, Stanford, Chevron, Dropbox |
+| 5 | [Paul Wolfowitz](../docs/persons/paul-wolfowitz.md) | 16 | Deputy SecDef, World Bank, PNAC architect |
+| 6 | [Eric Schmidt](../docs/persons/eric-schmidt.md) | 16 | Google, governo, AI, Bilderberg, SCSP |
+| 7 | [Margaret Hamburg](../docs/persons/margaret-hamburg.md) | 15 | FDA Commissioner, NTI, Asan Foundation |
+| 8 | [Donald Rumsfeld](../docs/persons/donald-rumsfeld.md) | 14 | Secretary of Defense (2x), Gilead, Searle |
+| 9 | [Sam Altman](../docs/persons/sam-altman.md) | 13 | OpenAI CEO, YC, Stargate Project |
+| 10 | [Larry Summers](../docs/persons/larry-summers.md) | 13 | Treasury Secretary, Harvard, D.E. Shaw |
+| 11 | [Elon Musk](../docs/persons/elon-musk.md) | 12 | Tesla, SpaceX, xAI, DOGE (2025) |
+| 12 | [Stephen Schwarzman](../docs/persons/stephen-schwarzman.md) | 12 | Blackstone founder, WEF, Bilderberg |
+| 13 | [Paul Nakasone](../docs/persons/paul-nakasone.md) | 12 | NSA Director, Cyber Command, OpenAI board |
+| 14 | [James Baker](../docs/persons/james-baker.md) | 12 | Secretary of State, Treasury, Carlyle |
+| 15 | [Andrew Ng](../docs/persons/andrew-ng.md) | 12 | Stanford AI, Google Brain, Coursera, Baidu |
 
 ---
 
@@ -1054,6 +1054,85 @@ La famiglia **piu' ricca del mondo** ($432B) ma assente dai forum globali.
 
 > A differenza di Rockefeller o Koch, i Walton non costruiscono network di influenza politica. Il loro potere e' nella scala economica (2.1M dipendenti, $648B ricavi).
 
+### Clinton - La Dinastia Politica Democratica
+
+La [famiglia Clinton](../docs/family/clinton.md) rappresenta la **dinastia politica democratica** piu' influente dalla fine del XX secolo:
+
+| Membro | Anni | Ruoli chiave |
+|--------|------|--------------|
+| [Bill Clinton](../docs/persons/bill-clinton.md) | 1946- | 42° Presidente USA (1993-2001) |
+| [Hillary Clinton](../docs/persons/hillary-clinton.md) | 1947- | Senator NY, Secretary of State, candidata presidenziale 2016 |
+| [Chelsea Clinton](../docs/persons/chelsea-clinton.md) | 1980- | Vice Chair Clinton Foundation |
+| [Marc Mezvinsky](../docs/persons/marc-mezvinsky.md) | 1977- | Partner TPG (sposato Chelsea) |
+
+**Pattern Clinton:**
+- **Forum globali**: Bilderberg (Bill 1991, pre-nomination), Trilateral, CFR (entrambi), FAF Young Leaders 1984
+- **Filantropia**: Clinton Foundation ($2B+ raccolti), Clinton Global Initiative
+- **Network**: Vernon Jordan (transition chairman), Goldman Sachs (Robert Rubin)
+- **Formazione**: Yale Law School (entrambi, dove si incontrarono 1971)
+
+**Clinton vs Bush:**
+
+| Aspetto | Clinton | Bush |
+|---------|---------|------|
+| **Generazioni** | 2 | 4 |
+| **Presidenti** | 1 | 2 |
+| **Origine classe** | Working class Arkansas | Elite East Coast |
+| **Partito** | Democratico | Repubblicano |
+| **Veicolo post-politica** | Foundation | Private equity |
+
+**Orgs connected:** Clinton Foundation, Yale Law, Bilderberg, Trilateral, CFR, FAF
+
+### Kennedy - La Dinastia Politica per Eccellenza
+
+La [famiglia Kennedy](../docs/family/kennedy.md) rappresenta l'archetipo della dinastia politica americana: da immigrati irlandesi alla Casa Bianca in tre generazioni.
+
+| Membro | Anni | Ruoli chiave |
+|--------|------|--------------|
+| [Patrick Kennedy](../docs/persons/patrick-kennedy.md) | 1823-1858 | Immigrato irlandese, fondatore |
+| [Joseph P. Kennedy Sr.](../docs/persons/joseph-kennedy-sr.md) | 1888-1969 | Ambassador UK, patriarch, costrui' la fortuna |
+| [John F. Kennedy](../docs/persons/john-f-kennedy.md) | 1917-1963 | 35° Presidente USA |
+| [Robert F. Kennedy](../docs/persons/robert-kennedy-sr.md) | 1925-1968 | Attorney General, Senator NY |
+| [Ted Kennedy](../docs/persons/ted-kennedy.md) | 1932-2009 | Senator Massachusetts (47 anni) |
+| [Robert F. Kennedy Jr.](../docs/persons/robert-kennedy-jr.md) | 1954- | HHS Secretary (Trump admin 2025) |
+| [Caroline Kennedy](../docs/persons/caroline-kennedy.md) | 1957- | Ambassador Japan, Australia |
+
+**Pattern Kennedy:**
+- **Record**: Almeno un Kennedy in carica federale dal 1947 al 2011 (ininterrotto)
+- **Formazione**: Harvard (JFK, RFK Jr., altri)
+- **Divisione 2024-25**: RFK Jr. (MAGA) vs Caroline/Jack Schlossberg (Democrats)
+
+**Orgs connected:** Governo USA (presidenza, cabinet, senato), USAID (fondata da JFK 1961)
+
+### Vanderbilt - La Fortuna Dissipata
+
+La [famiglia Vanderbilt](../docs/family/vanderbilt.md) rappresenta il caso emblematico della fortuna americana costruita e poi completamente dissipata.
+
+| Membro | Anni | Ruoli chiave |
+|--------|------|--------------|
+| [Cornelius Vanderbilt](../docs/persons/cornelius-vanderbilt.md) | 1794-1877 | "The Commodore", shipping + railroads |
+| [William Henry Vanderbilt](../docs/persons/william-henry-vanderbilt.md) | 1821-1885 | Raddoppio' la fortuna, richest American |
+| [Cornelius Vanderbilt II](../docs/persons/cornelius-vanderbilt-ii.md) | 1843-1899 | Railroad chief, The Breakers |
+| [Gertrude Vanderbilt Whitney](../docs/persons/gertrude-vanderbilt-whitney.md) | 1875-1942 | Fondo' Whitney Museum |
+| [Gloria Vanderbilt](../docs/persons/gloria-vanderbilt.md) | 1924-2019 | Fashion designer, socialite |
+| [Anderson Cooper](../docs/persons/anderson-cooper.md) | 1967- | CNN anchor ("no trust fund") |
+
+**Pattern Vanderbilt:**
+- **Picco**: $100M nel 1877 (~$143B in valore 2007), 2° piu' ricco nella storia USA dopo Rockefeller
+- **Declino**: 1973 reunion - 120 discendenti, nessun milionario
+- **Causa**: Divisione eredita', spese folli, nessuna gestione attiva
+
+**Confronto dinastie:**
+
+| Dinastia | Fortuna Originale | Status 2025 | Strategia |
+|----------|-------------------|-------------|-----------|
+| **Rockefeller** | $900M (1913) | Attiva | Fondazioni, trust, forum |
+| **Vanderbilt** | $100M (1877) | Estinta | Spese, no strategia |
+| **Morgan** | Vasta | Estinta | Assorbita da istituzioni |
+| **Kennedy** | Modesta | Attiva/Divisa | Politica, servizio pubblico |
+
+**Orgs connected:** New York Central Railroad, Whitney Museum, Vanderbilt University, CNN
+
 ---
 
 ## Filantropia Strategica: Il Potere delle Fondazioni
@@ -1327,6 +1406,46 @@ Lo smantellamento di [USAID](../docs/agency/usaid.md) rappresenta la piu' drasti
 **Status legale:** USAID fu riorganizzata come agenzia indipendente dal Congresso nel 1998 - legalmente puo' essere chiusa solo con atto del Congresso. Sfide legali in corso.
 
 **Implicazione:** Fine di 64 anni di soft power USA attraverso aiuti allo sviluppo. Programmi "allineati" trasferiti a State Dept.
+
+### Stargate Project: Infrastruttura AI da $500B (2025)
+
+Il **Stargate Project** rappresenta il piu' grande investimento infrastrutturale privato nella storia americana - e una ridefinizione del rapporto Stato-Big Tech.
+
+| Data | Evento |
+|------|--------|
+| **21 Gen 2025** | Trump annuncia Stargate alla Casa Bianca |
+| **Gen 2025** | Costruzione inizia ad Abilene, Texas |
+| **Q2 2025** | 5 nuovi siti annunciati (7 GW capacita') |
+| **Mag 2025** | Stargate UAE (primo internazionale, con G42) |
+| **Lug 2025** | Stargate Norway (primo europeo) |
+| **Ott 2025** | Michigan, Ohio, Texas (nuovi campus) |
+| **Ott 2025** | Stargate Argentina (primo LATAM, $25B) |
+
+**Struttura proprietaria:**
+
+| Partner | Ruolo | Note |
+|---------|-------|------|
+| **SoftBank** | Lead financial | Masayoshi Son chairman |
+| **OpenAI** | Lead operational | Sam Altman |
+| **Oracle** | Technology partner | Larry Ellison |
+| **MGX** | Equity funder | UAE sovereign wealth |
+| **NVIDIA** | Hardware partner | GPU supply |
+| **Microsoft** | Technology partner | Cloud, compute |
+| **Arm** | Technology partner | Chip architecture |
+
+**Numeri chiave:**
+- **Investimento totale:** $500B su 4 anni
+- **Capacita' energetica:** 10 GW (target fine 2025)
+- **Primo tranche:** $100B immediati
+- **Jobs:** Centinaia di migliaia (promessi)
+
+**Pattern di potere:**
+1. **Trump + Tech**: Il presidente annuncia deal di aziende private - fusione simbolica Stato-mercato
+2. **Sovereign Wealth**: MGX (UAE) come equity funder - capitale estero in infrastruttura critica USA
+3. **Sam Altman pivot**: Da critico di Trump a ospite Casa Bianca - pragmatismo tech
+4. **Oracle comeback**: Larry Ellison ritorna centrale dopo anni di marginalita' AI
+
+**Implicazione strategica:** Stargate posiziona USA come hub globale dell'infrastruttura AI, con controllo su compute critico. Ma la dipendenza da capitale estero (UAE, Giappone via SoftBank) solleva questioni di sovranita'.
 
 ---
 

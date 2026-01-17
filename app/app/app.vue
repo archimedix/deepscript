@@ -199,10 +199,40 @@ function handleClearGraph() {
   --border-color: #2a2a30;
   --border-accent: #3a3a42;
 
+  /* Main types */
   --color-person: #3B82F6;
   --color-organization: #10B981;
   --color-family: #8B5CF6;
   --color-event: #F59E0B;
+
+  /* Organization sublabels - Financial */
+  --color-bank: #059669;
+  --color-centralbank: #047857;
+  --color-assetmanager: #0D9488;
+  --color-privateequity: #0891B2;
+  --color-hedgefund: #0E7490;
+  --color-swf: #14B8A6;
+
+  /* Organization sublabels - Government */
+  --color-government: #DC2626;
+  --color-agency: #EA580C;
+  --color-party: #E11D48;
+
+  /* Organization sublabels - Knowledge */
+  --color-foundation: #7C3AED;
+  --color-thinktank: #6366F1;
+  --color-university: #8B5CF6;
+
+  /* Organization sublabels - Business */
+  --color-company: #10B981;
+  --color-defense: #64748B;
+  --color-pharma: #EC4899;
+  --color-automaker: #78716C;
+  --color-sportsclub: #22C55E;
+
+  /* Organization sublabels - Other */
+  --color-media: #F472B6;
+  --color-forum: #FBBF24;
 
   --font-display: 'Instrument Serif', Georgia, serif;
   --font-body: 'Outfit', system-ui, sans-serif;

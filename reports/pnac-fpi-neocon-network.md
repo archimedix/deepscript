@@ -146,6 +146,14 @@ Iraq War architect            Amb. Afghanistan/Iraq/ONU
 | [William Kristol](../docs/persons/william-kristol.md) | 1952 | Weekly Standard, FPI, The Bulwark |
 | [Robert Kagan](../docs/persons/robert-kagan.md) | 1958 | Brookings, Carnegie, FPI |
 
+#### Director e Figure Chiave
+
+| Nome | Nascita | Ruolo PNAC | Ruolo in Admin Bush/Trump |
+|------|---------|------------|---------------------------|
+| [John Bolton](../docs/persons/john-bolton.md) | 1948 | **Director** | Under SecState Arms Control (01-05), UN Amb (05-06), NSA Trump (18-19) |
+
+**John Bolton** e' una figura centrale del network: Director PNAC, firmatario lettera 1998 su Iraq, architetto politica arms control sotto Bush, poi National Security Advisor sotto Trump. Compagno di classe di Clarence Thomas a Yale Law. Chairman Gatestone Institute (2013-2018).
+
 #### Altri Firmatari Statement of Principles (1997)
 
 | Nome | Nascita | Ruolo in Admin Bush |
@@ -271,6 +279,8 @@ La vera mappa del potere emerge dalle **affiliazioni multiple** dei membri PNAC:
 | **Donald Rumsfeld** | Attendee | - | - | - | Chairman (2x) |
 | **Paul Wolfowitz** | **Steering** | Member | Member | Visiting | - |
 | **Richard Perle** | **Steering** | - | - | Fellow | - |
+| **John Bolton** | - | - | - | **Senior Fellow** | - |
+| **Elliott Abrams** | - | - | **Senior Fellow** | Fellow | - |
 | **Robert Kagan** | - | - | - | - | - |
 | **Victoria Nuland** | - | - | - | - | - |
 
@@ -287,6 +297,7 @@ La vera mappa del potere emerge dalle **affiliazioni multiple** dei membri PNAC:
    AEI             BROOKINGS            CFR
  Perle              Kagan              Senor
 Wolfowitz          Nuland             Griffin
+Bolton                                Abrams
 Edelman (fmr)
     |                  |                  |
     +--------+---------+--------+---------+
@@ -488,6 +499,7 @@ Robert Kagan e [Victoria Nuland](../docs/persons/victoria-nuland.md) rappresenta
 | Dick Cheney | VP, principale advocate, pressioni su intelligence |
 | Donald Rumsfeld | SecDef, "lite footprint", Abu Ghraib |
 | Paul Wolfowitz | Deputy SecDef, architetto strategico, "oil pays" |
+| **John Bolton** | Under SecState Arms Control, case builder WMD, UN Amb |
 | Scooter Libby | Caso Plame/Wilson, condannato |
 | Zalmay Khalilzad | Ambasciatore Iraq |
 | Dan Senor | Spokesman CPA, "volto" dell'occupazione |
@@ -526,14 +538,17 @@ PNAC forni' il framework intellettuale per la "Bush Doctrine":
 | **FPI** | 2009-2017 | Rebranding, opposizione a Obama |
 | **Collasso** | 2016-2017 | Trump, Singer ritira fondi |
 
-### Frattura con Trump (2016)
+### Frattura con Trump (2016-2019)
 
 | Figura | Posizione su Trump |
 |--------|-------------------|
 | William Kristol | Leader Never Trump, fonda The Bulwark |
 | Robert Kagan | Endorsa Hillary Clinton |
+| **John Bolton** | NSA 2018-19, licenziato, scrive libro critico, Trump rimuove Secret Service (2025) |
 | Dick Cheney | Endorsa Kamala Harris (2024) |
 | Victoria Nuland | Continua carriera con Biden |
+
+**Caso Bolton:** Unico neocon entrato nell'admin Trump (NSA 2018-19), poi licenziato per disaccordi su Iran e North Korea. Ha scritto "The Room Where It Happened" (2020), memoir critico. Nel 2025 Trump ha rimosso la sua protezione Secret Service nonostante minacce iraniane documentate, e Bolton e' stato incriminato per documenti classificati.
 
 Il trumpismo ("America First") rappresenta l'antitesi del globalismo interventista neocon.
 
@@ -547,6 +562,8 @@ Il trumpismo ("America First") rappresenta l'antitesi del globalismo interventis
 | Dan Senor | CFR, Elliott Management |
 | Paul Singer | Elliott Management, Republican donor |
 | Paul Wolfowitz | AEI Visiting Scholar, ritirato |
+| **John Bolton** | **Incriminato (ottobre 2025)** - 18 capi d'accusa documenti classificati |
+| Elliott Abrams | CFR Senior Fellow, commentatore |
 | **Dick Cheney** | **Deceduto (3 novembre 2025)** |
 | **Donald Rumsfeld** | **Deceduto (29 giugno 2021)** |
 
@@ -666,6 +683,10 @@ La dottrina interventista puo' riemergere con future amministrazioni.
 - [Dan Senor](../docs/persons/dan-senor.md)
 - [Eric Edelman](../docs/persons/eric-edelman.md)
 
+**Director e figure chiave PNAC:**
+- [John Bolton](../docs/persons/john-bolton.md)
+- [Elliott Abrams](../docs/persons/elliot-abrams.md)
+
 **Firmatari e implementatori:**
 - [Zalmay Khalilzad](../docs/persons/zalmay-khalilzad.md)
 - [Jeb Bush](../docs/persons/jeb-bush.md)
@@ -688,4 +709,4 @@ La dottrina interventista puo' riemergere con future amministrazioni.
 
 *Report aggiornato: Gennaio 2026*
 *Dati: Neo4j DeepScript database*
-*Ultima revisione: aggiunta linea Chicago-RAND (Wohlstetter), ONA/CSBA come incubatori, Eric Edelman come anello di congiunzione, leadership operativa FPI*
+*Ultima revisione: aggiunta John Bolton (PNAC Director), Elliott Abrams, status giudiziario Bolton 2025*
