@@ -228,17 +228,31 @@ POWER CORPORATION (Montreal)          |
 | **Leader** | Thor Richardson (8a generazione, 2024-) |
 | **Export** | Maggior esportatore privato grano Canada |
 
-### [Famiglia Bronfman](../docs/family/bronfman.md): Liquori e Media
+### [Famiglia Bronfman](../docs/family/bronfman.md): Liquori, Media e Filantropia Ebraica
 
 | Aspetto | Dettaglio |
 |---------|-----------|
-| **Patrimonio** | Diversificato |
-| **Fondatore** | Samuel Bronfman (1889-1971) |
-| **Veicolo storico** | [Seagram](../docs/company/seagram.md) |
-| **Business** | Distillati, poi media (Universal) |
-| **Declino** | Vendita Seagram 2000, perdite Vivendi |
-| **Status** | Patrimonio disperso tra rami familiari |
+| **Patrimonio** | Charles $2.5B (2023), Edgar Jr $300M, disperso post-Vivendi |
+| **Fondatore** | [Samuel Bronfman](../docs/persons/samuel-bronfman.md) (1889-1971) |
+| **Veicolo storico** | [Seagram](../docs/company/seagram.md) (1924-2000) |
+| **Business** | Distillati → Media (Universal/MCA) → Filantropia |
+| **Forum** | [Mega Group](../docs/forum/mega-group.md) (Edgar Sr + Charles co-fondatori 1991) |
+| **Influenza** | [World Jewish Congress](../docs/forum/world-jewish-congress.md) (Edgar Sr presidente 1981-2007) |
+| **Filantropia** | [Birthright Israel](../docs/forum/birthright-israel.md) (Charles co-fondatore 1999) |
+| **Declino** | Vendita Seagram a Vivendi 2000, perdite $3B+ |
+| **Controversia** | Clare Bronfman condannata 81 mesi per NXIVM (2020) |
 | **Scheda** | [Completa](../docs/family/bronfman.md) |
+
+#### I Rami Familiari
+
+| Ramo | Leader | Status | Note |
+|------|--------|--------|------|
+| **Edgar Sr** | [Edgar Bronfman Sr.](../docs/persons/edgar-bronfman-sr.md) (1929-2013) | Deceduto | Seagram USA, WJC, Mega Group |
+| **Charles** | [Charles Bronfman](../docs/persons/charles-bronfman.md) (1931-) | Attivo | Claridge, Birthright, Montreal Expos |
+| **Edgar Jr** | [Edgar Bronfman Jr.](../docs/persons/edgar-bronfman-jr.md) (1955-) | Attivo | Vendita Vivendi, poi Warner Music |
+| **Clare/Sara** | Figlie Edgar Sr (3° matrimonio) | Controverso | NXIVM, Clare in prigione 2020-24 |
+
+> **Pattern Bronfman**: Da bootlegger del Proibizionismo a impero globale liquori, poi media, infine influenza residua via filantropia ebraica. Il Mega Group (1991) con Wexner rappresenta il pivot verso il soft power.
 
 ---
 
@@ -615,7 +629,13 @@ Schwartz                   |
 | [paul-desmarais-sr](../docs/persons/paul-desmarais-sr.md) | Fondatore Power Corp | - | Da completare |
 | [andre-desmarais](../docs/persons/andre-desmarais.md) | Deputy Chairman | Trilateral, Bilderberg | Da completare |
 | [mark-wiseman](../docs/persons/mark-wiseman.md) | Ex-CPPIB, BlackRock | - | Da completare |
-| [edgar-bronfman-sr](../docs/persons/edgar-bronfman-sr.md) | Seagram, WJC | - | Da completare |
+| [samuel-bronfman](../docs/persons/samuel-bronfman.md) | Fondatore Seagram | - | Stub |
+| [edgar-bronfman-sr](../docs/persons/edgar-bronfman-sr.md) | Seagram CEO, WJC President | Mega Group, Bilderberg | Stub |
+| [charles-bronfman](../docs/persons/charles-bronfman.md) | Seagram, Montreal Expos | Mega Group (co-founder) | Stub |
+| [edgar-bronfman-jr](../docs/persons/edgar-bronfman-jr.md) | Seagram CEO, Warner Music | - | Stub |
+| [phyllis-lambert](../docs/persons/phyllis-lambert.md) | Architetto, Seagram Building | - | Stub |
+| [clare-bronfman](../docs/persons/clare-bronfman.md) | Erede, NXIVM | - | Stub |
+| [sara-bronfman](../docs/persons/sara-bronfman.md) | Erede, NXIVM | - | Stub |
 | [marie-josee-kravis](../docs/persons/marie-josee-kravis.md) | Chair MoMA, Hudson Institute | Bilderberg Co-Chair, CFR | **[Completa](../docs/persons/marie-josee-kravis.md)** |
 | [thomas-daquino](../docs/persons/thomas-daquino.md) | Ex-CEO BCC, Free Trade architect | - | Stub |
 | [goldy-hyder](../docs/persons/goldy-hyder.md) | CEO BCC | - | Stub |
@@ -654,7 +674,7 @@ Schwartz                   |
 |----|--------|
 | [desmarais](../docs/family/desmarais.md) | **[Completa](../docs/family/desmarais.md)** |
 | [thomson](../docs/family/thomson.md) | **[Completa](../docs/family/thomson.md)** |
-| [bronfman](../docs/family/bronfman.md) | Da completare |
+| [bronfman](../docs/family/bronfman.md) | **[Completa](../docs/family/bronfman.md)** |
 
 ---
 
@@ -729,4 +749,4 @@ Schwartz                   |
 
 *Ultimo aggiornamento: Gennaio 2026*
 
-*Schede completate: John Manley, Business Council of Canada, Onex Corporation, Paul Desmarais Jr., Thomson Family, David Thomson*
+*Schede completate: John Manley, Business Council of Canada, Onex Corporation, Paul Desmarais Jr., Thomson Family, David Thomson, Bronfman Family*

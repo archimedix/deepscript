@@ -208,17 +208,20 @@ families:
     - person: anant-ambani
       generation: 3
   arison:
-    origin: Israel
-    founder: ted-arison
-    sector: shipping, banking
+    origin: ISR
+    founder: meir-arison
+    sector: shipping, cruise, finance
     generations: 2
     status: active
     members:
     - person: ted-arison
-      generation: 1
+      generation: 2
       role: founder
     - person: shari-arison
-      generation: 2
+      generation: 3
+      role: heir
+    - person: micky-arison
+      generation: 3
       role: heir
   arnault:
     origin: France
@@ -443,12 +446,33 @@ families:
       generation: 2
       role: chairman
   bronfman:
-    origin: Canada
-    founder: Samuel Bronfman
-    sector: liquor-media
+    origin: CAN
+    founder: samuel-bronfman
+    sector: liquor-media-philanthropy
     status: active
+    note: Seagram dynasty, largest liquor empire, later media (Universal), major Jewish philanthropy
     members:
     - person: edgar-bronfman-sr
+      generation: 2
+      role: heir
+    - person: charles-bronfman
+      generation: 3
+      role: heir
+    - person: samuel-bronfman
+      generation: 1
+      role: founder
+    - person: phyllis-lambert
+      generation: 2
+      role: heir
+    - person: edgar-bronfman-jr
+      generation: 3
+      role: heir
+    - person: clare-bronfman
+      generation: 3
+      role: heir
+    - person: sara-bronfman
+      generation: 3
+      role: heir
   bush:
     origin: USA
     founder: Prescott Bush

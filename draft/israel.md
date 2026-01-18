@@ -62,21 +62,35 @@ open-university-israel
 Zeev Vladimir Jabotinsky (connessione con Mussolini e padre di Natanyau) 
 
 hebrew-university
-shin-bet
+Birthright Israel
+
+
+claridge-group
+tadiran
+makhteshim-agan
+viola-group
+ion-asset-management
+
+adl - Anti-Defamation League
+shamrock-holdings
+roy-e-disney
+steven-spielberg
+dov-kotler
 
 Mossad.
-eli-cohen
-zvi-zamir
-Rafi Eitan
+
+Isaiah Berlin
 
 ict-herzliya
 maccabi-health
-israel-electric-corporation
+
 mekorot
 haganah
-palmach
-koor-industries
-aman
+
+israel-electric-corporation
+israel-chemicals
 
 manuel-noriega
+
+
 

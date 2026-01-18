@@ -33,7 +33,7 @@ persons:
       type: son
       note: Figlio Re Salman, fratellastro MBS
   abdulla-bin-khalifa-al-khalifa:
-    nationality: bahrain
+    nationality: BHR
     family: al-khalifa
     note: CEO Mumtalakat dal 2023. Ex CEO Osool Asset Management.
     affiliations:
@@ -43,7 +43,7 @@ persons:
       note: CEO dal maggio 2023. Ex CEO Osool Asset Management.
   abdullah-bin-zayed:
     born: 1972
-    nationality: UAE
+    nationality: ARE
     note: Ministro Esteri, fratello MBZ, negoziatore Abraham Accords
     affiliations:
     - org: governo-uae
@@ -99,7 +99,7 @@ persons:
   abu-mahdi-al-muhandis:
     born: 1954
     died: 2020
-    nationality: Iraq
+    nationality: IRQ
     affiliations:
     - org: hashd-al-shaabi
       role: executive
@@ -323,7 +323,7 @@ persons:
       note: President Director
   agustin-carstens:
     born: 1958
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: wef
       role: member
@@ -768,7 +768,7 @@ persons:
   alberto-bailleres:
     born: 1931
     died: 2022
-    nationality: MX
+    nationality: MEX
     family: bailleres
     affiliations:
     - org: grupo-bal
@@ -791,7 +791,11 @@ persons:
       role: chairman
       from: 1933
       to: 1939
-      note: Founding President
+      note: Fondatore e primo presidente
+    - org: iri
+      role: president
+      from: 1933
+      to: 1939
   alberto-nagel:
     nationality: ITA
     affiliations:
@@ -856,7 +860,7 @@ persons:
     - org: wef
       role: ygl
   alejandro-bailleres:
-    nationality: MX
+    nationality: MEX
     family: bailleres
     affiliations:
     - org: grupo-bal
@@ -1147,7 +1151,7 @@ persons:
       to: 1995
       note: MA, poi Visiting Professor 2000
   alexander-torrenegra:
-    nationality: CO
+    nationality: COL
     note: Founded Voice123 (largest voice-over marketplace). MIT TR35 Top Colombian Innovator 2012. Endeavor High-Impact Entrepreneur
       2013.
     affiliations:
@@ -1313,7 +1317,7 @@ persons:
     died: 1956
     nationality: ITA
   ali-adnan-ibrahim:
-    nationality: BH
+    nationality: BHR
     note: Adjunct Professor Georgetown. Former Baker & McKenzie.
     affiliations:
     - org: wef
@@ -1350,7 +1354,7 @@ persons:
       type: colleague
       note: Co-fondatori AKP, collaboratori fino a rottura 2019
   ali-j-siddiqui:
-    nationality: PK
+    nationality: PAK
     note: Founded JS Private Equity, Airblue, Bank Islami, JS Bank. CEO Mahvash and Jahangir Siddiqui Foundation. Board Acumen.
     affiliations:
     - org: wef
@@ -1410,7 +1414,7 @@ persons:
     nationality: IRN-USA
   ali-sistani:
     born: 1930
-    nationality: Iraq
+    nationality: IRQ
   alice-walton:
     born: 1949
     nationality: USA
@@ -1431,7 +1435,7 @@ persons:
       role: board
       note: Board member
   alison-loat:
-    nationality: CA
+    nationality: CAN
     note: Former McKinsey. Co-founder Samara and Canada25. Author "Tragedy in the Commons".
     affiliations:
     - org: wef
@@ -1586,7 +1590,7 @@ persons:
       role: founder
       from: 1832
   altagracia-gomez-sierra:
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: wef
       role: ygl
@@ -1641,7 +1645,7 @@ persons:
     - person: ibn-saud
       type: grandson
   amadou-hott:
-    nationality: SN
+    nationality: SEN
     note: Founding CEO FONSIS 2013. Former CEO UBA Capital Lagos. Co-founded Dangote Capital. YGL 2012.
     affiliations:
     - org: wef
@@ -1681,6 +1685,13 @@ persons:
     - org: darktrace
       role: advisor
       note: Advisory Board, ex Home Secretary
+  amerigo-dumini:
+    nationality: ITA
+    affiliations:
+    - org: pnf
+      role: squadrista
+      from: 1919
+      to: 1924
   ami-luttwak:
     born: 1984
     nationality: ISR
@@ -1792,6 +1803,11 @@ persons:
       from: 2006
       to: 2007
       note: Defense Minister
+    - org: histadrut
+      role: executive
+      from: 1995
+      to: 2006
+      note: Secretary General
     - org: israel-aerospace-industries
       role: chairman
       from: 2021
@@ -2204,7 +2220,7 @@ persons:
       to: 2019
       note: CEO designato, offerta revocata - vinto €68m risarcimento
   andrea-pasinetti:
-    nationality: CN
+    nationality: CHN
     note: Founder Teach For China. Named most influential foreigner in China 2011 by China Newsweek.
     affiliations:
     - org: wef
@@ -2423,7 +2439,7 @@ persons:
       role: board
       from: 2023
   andrew-charlton:
-    nationality: AU
+    nationality: AUS
     note: Former Senior Economic Adviser to PM Kevin Rudd. Co-author with Joseph Stiglitz.
     affiliations:
     - org: wef
@@ -2541,6 +2557,10 @@ persons:
       from: 1921
       to: 1932
       note: Secretary of Treasury sotto Harding, Coolidge, Hoover
+    - org: treasury-us
+      role: secretary
+      from: 1921
+      to: 1932
   andrew-moore:
     born: 1966
     nationality: GBR-USA
@@ -2758,6 +2778,13 @@ persons:
       role: leader
       from: 2005
       to: 2021
+  angelo-tarchi:
+    nationality: ITA
+    affiliations:
+    - org: rsi
+      role: economy-minister
+      from: 1943
+      to: 1945
   anielle-franco:
     nationality: BRA
     note: Ministra Uguaglianza Razziale Brasile
@@ -2808,7 +2835,7 @@ persons:
       from: 2013
       note: President
   anna-marrs:
-    nationality: SG
+    nationality: SGP
     note: Started at D.E. Shaw. Former McKinsey Partner. Head Commercial and Private Banking Standard Chartered.
     affiliations:
     - org: wef
@@ -2903,7 +2930,7 @@ persons:
       type: professional
       note: Warburg recruited Griffin to run Canadian operations
   anthony-smare:
-    nationality: PG
+    nationality: PNG
     note: Lawyer and geologist. Former partner Allens Arthur Robinson. Founded Kumul Foundation and Lek Natin Foundation.
     affiliations:
     - org: wef
@@ -2947,7 +2974,7 @@ persons:
       to: 2012
       note: Deputy DG 2010-12; Interim CEO Feb-Jul 2012
   anton-du-plessis:
-    nationality: ZA
+    nationality: ZAF
     note: Executive Director ISS. Former senior prosecutor South Africa. Former UN Office on Drugs and Crime.
     affiliations:
     - org: wef
@@ -3296,6 +3323,30 @@ persons:
     - org: french-american-foundation
       role: ygl
       note: Young Leader, Minister
+  arnon-bar-david:
+    nationality: ISR
+    affiliations:
+    - org: histadrut
+      role: leader
+      from: 2019
+      note: Chairman, 15th chairman
+  arnon-milchan:
+    born: 1944
+    nationality: ISR
+    affiliations:
+    - org: lakam
+      role: member
+      from: 1965
+      to: 1986
+      note: Agent; operated 30 front companies for technology acquisition
+    - org: regency-enterprises
+      role: founder
+      from: 1982
+      note: Founder and Chairman
+    relations:
+    - person: benjamin-netanyahu
+      type: associate
+      note: Friend; provided gifts (Case 1000 trial)
   arthur-balfour:
     born: 1848
     died: 1930
@@ -3425,7 +3476,7 @@ persons:
     - org: wef
       role: ygl
   asanga-abeyagoonasekera:
-    nationality: LK
+    nationality: LKA
     note: Former Executive Director Lakshman Kadirgamar Institute. Founder Diri Saviya Foundation. Founding Curator Global
       Shapers Colombo.
     affiliations:
@@ -3433,7 +3484,7 @@ persons:
       role: ygl
       note: WEF Annual Meeting 2016
   ashish-j-thakkar:
-    nationality: AE
+    nationality: ARE
     note: Founder Mara Group. 11,000 employees across 25 African countries. Chairman UN Foundation Global Entrepreneurship
       Council. Author "The Lion Awakes".
     affiliations:
@@ -3480,7 +3531,7 @@ persons:
       to: 1982
       note: Director, Infoterra
   ashwin-naik:
-    nationality: IN
+    nationality: IND
     note: Co-founded Vaatsalya for affordable healthcare in rural India. Member Ashoka Leadership Group.
     affiliations:
     - org: wef
@@ -3648,7 +3699,7 @@ persons:
       note: Chairman
   ayad-allawi:
     born: 1944
-    nationality: Iraq
+    nationality: IRQ
     affiliations:
     - org: governo-iraq
       role: leader
@@ -3699,7 +3750,7 @@ persons:
     note: Georgian oligarch, LogoVAZ co-founder with Berezovsky, ORT
   bahaa-hariri:
     born: 1966
-    nationality: Lebanese-Saudi
+    nationality: LBN-SAU
     note: 'Fondatore Horizon Group, Globe Express Services. Forbes 2025: $2B'
   bandar-bin-sultan:
     born: 1949
@@ -3905,7 +3956,7 @@ persons:
       role: executive
       from: 1921
       to: 1935
-      note: Secretary-General
+      note: Secretary General
     relations:
     - person: shimon-peres
       type: mentor
@@ -3951,7 +4002,7 @@ persons:
       from: 2021
       note: CEO
   bengi-korkmaz:
-    nationality: TR
+    nationality: TUR
     note: 'McKinsey Partner. Focus: media industry, emerging markets technology, women empowerment, education-to-employment.'
     affiliations:
     - org: wef
@@ -3989,6 +4040,34 @@ persons:
       from: 1914
       to: 1943
       note: Fondatore e direttore fino 1922, poi controllo indiretto
+    - org: popolo-ditalia
+      role: founder
+      from: 1914
+      to: 1943
+    - org: pnf
+      role: leader
+      from: 1921
+      to: 1943
+    - org: governo-italiano
+      role: prime-minister
+      from: 1922
+      to: 1943
+    - org: rsi
+      role: president
+      from: 1943
+      to: 1945
+  benjamin-blumberg:
+    nationality: ISR
+    affiliations:
+    - org: lakam
+      role: leader
+      from: 1957
+      to: 1981
+      note: First Director; founded agency with Shimon Peres
+    relations:
+    - person: arnon-milchan
+      type: handler
+      note: LAKAM handler for Milchan operations
   benjamin-de-rothschild:
     born: 1963
     died: 2021
@@ -4008,6 +4087,49 @@ persons:
     - person: edmond-de-rothschild
       type: child
       note: Figlio unico
+  benjamin-gaon:
+    born: 1935
+    died: 2008
+    nationality: ISR
+    note: CEO Koor Industries 1988-98, led restructuring. Close to Rabin, Labor Party. Brother of singer Yehoram Gaon. Founded
+      Gaon Holdings 1998. MBA Geneva.
+    affiliations:
+    - org: bank-hapoalim
+      role: board
+      note: Board member
+    - org: delek-group
+      role: chairman
+      from: 1998
+      to: 2000
+      note: Chairman post-Koor
+    - org: koor-industries
+      role: executive
+      from: 1988
+      to: 1998
+      note: CEO. Led restructuring, cut workforce 40%, reduced holdings from 100 to 30.
+    - org: tadiran
+      role: chairman
+      from: 1988
+      to: 1998
+      note: Chairman while CEO of parent Koor
+    - org: electra-israel
+      role: executive
+      from: 1962
+      note: Started as technician, became marketing manager air conditioning dept
+    - org: blue-square-israel
+      role: chairman
+      from: 1999
+      to: 2000
+      note: Chairman
+    - org: gaon-holdings
+      role: founder
+      from: 1998
+      to: 2008
+      note: Founded after leaving Koor
+    relations:
+    - person: jonathan-kolber
+      type: colleague
+      note: Gaon predecessor as Koor CEO, Kolber succeeded 1998
   benjamin-graham:
     born: 1894
     died: 1976
@@ -4895,7 +5017,7 @@ persons:
       type: colleague
       note: OpenAI Board Chair, reinstated Altman 2023
   brian-a-wong:
-    nationality: CN
+    nationality: CHN
     note: 52nd employee Alibaba. Former Special Assistant to Mayor Willie Brown San Francisco. Angel investor.
     affiliations:
     - org: wef
@@ -4914,7 +5036,7 @@ persons:
     - org: mit
       role: board
   brian-gallant:
-    nationality: CA
+    nationality: CAN
     note: Premier of New Brunswick 2014. Youngest elected premier in Canada in two centuries at age 32.
     affiliations:
     - org: wef
@@ -5196,6 +5318,13 @@ persons:
       from: 1978
       to: 1996
       note: CEO/Presidente
+  carlo-esterle:
+    nationality: ITA
+    affiliations:
+    - org: edison
+      role: chairman
+      from: 1884
+      to: 1918
   carlo-malacarne:
     nationality: ITA
     affiliations:
@@ -5231,6 +5360,13 @@ persons:
       role: board
       from: 2014
       note: Board of Directors
+  carlo-pareschi:
+    nationality: ITA
+    affiliations:
+    - org: governo-italiano
+      role: agriculture-minister
+      from: 1941
+      to: 1943
   carlos-ghosn:
     born: 1954
     nationality: FRA
@@ -5267,7 +5403,7 @@ persons:
       note: Chairman of Russia largest automaker (LADA brand).
   carlos-salinas-de-gortari:
     born: 1948
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: governo-mexico
       role: leader
@@ -5287,7 +5423,7 @@ persons:
       to: 1998
   carlos-slim:
     born: 1940
-    nationality: MX
+    nationality: MEX
     family: slim
     note: Billionaire telecom, $82B. Genitori immigrati libanesi. Ex uomo piu ricco mondo 2010-13
     affiliations:
@@ -5309,7 +5445,7 @@ persons:
       from: 1992
   carlos-slim-domit:
     born: 1967
-    nationality: MX
+    nationality: MEX
     family: slim
     affiliations:
     - org: america-movil
@@ -5576,6 +5712,13 @@ persons:
       from: 2000
       to: 2016
       note: Chairman
+  cesare-rossi:
+    nationality: ITA
+    affiliations:
+    - org: pnf
+      role: capo-ufficio-stampa
+      from: 1922
+      to: 1924
   cevdet-yilmaz:
     nationality: TUR
     note: Vice Presidente 2023-
@@ -5668,6 +5811,55 @@ persons:
       role: advisor
       from: 2025
       note: Advisor to President on digital assets
+  charles-bronfman:
+    born: 1931
+    nationality: CAN-USA
+    affiliations:
+    - org: seagram
+      role: executive
+      from: 1951
+      to: 2000
+      note: Co-Chairman 1986-2000, President Canadian operations 1975-1986
+    - org: koor-industries
+      role: chairman
+      from: 1997
+      to: 2002
+      note: Chairman through Claridge Group ownership.
+    - org: claridge-group
+      role: founder
+      from: 1987
+      note: Family investment management company.
+    - org: mcgill
+      role: alumni
+      note: BA ~1951, Honorary Doctorate 1990
+    - org: mega-group
+      role: founder
+      from: 1991
+      note: Co-founder with Leslie Wexner
+    - org: birthright-israel
+      role: founder
+      from: 1999
+      note: Co-founder with Michael Steinhardt
+    - org: montreal-expos
+      role: chairman
+      from: 1968
+      to: 1991
+      note: Majority owner, brought MLB to Canada
+    - org: historica-canada
+      role: founder
+      note: Founding co-chairman
+    - org: acbp
+      role: founder
+      from: 1986
+      to: 2016
+      note: Chairman
+    relations:
+    - person: edgar-bronfman-sr
+      type: sibling
+      note: Younger brother, co-inherited Seagram 1971
+    - person: samuel-bronfman
+      type: child
+      note: youngest son of Samuel
   charles-de-gaulle:
     born: 1890
     died: 1970
@@ -5780,7 +5972,7 @@ persons:
       note: Chair Emeritus
   charles-woodburn:
     born: 1971
-    nationality: UK
+    nationality: GBR
     note: PhD Cambridge, ex Schlumberger, Expro Group
     affiliations:
     - org: bae-systems
@@ -6060,7 +6252,7 @@ persons:
       from: 2021
       note: Head Mechanistic Interpretability
   christel-heydemann:
-    nationality: FR
+    nationality: FRA
     note: Former BCG Paris. Former Alcatel-Lucent Executive Committee.
     affiliations:
     - org: wef
@@ -6217,7 +6409,7 @@ persons:
       note: Presidente BCE
   christo-wiese:
     born: 1941
-    nationality: ZA
+    nationality: ZAF
     affiliations:
     - org: shoprite
       role: chairman
@@ -6406,7 +6598,7 @@ persons:
       role: ygl
       from: 2012
   clare-akamanzi:
-    nationality: RW
+    nationality: RWA
     note: Former Rwanda commercial diplomat London. Trade negotiator WTO Geneva. COO Rwanda Development Board.
     affiliations:
     - org: wef
@@ -6414,6 +6606,13 @@ persons:
       note: WEF Annual Meeting 2016
     - org: rwanda-development-board
       role: executive
+  clare-bronfman:
+    born: 1979
+    nationality: USA
+    relations:
+    - person: edgar-bronfman-sr
+      type: child
+      note: daughter of Edgar Sr, 3rd marriage
   claude-bebear:
     born: 1935
     died: 2025
@@ -6464,7 +6663,7 @@ persons:
       note: Published "A Mathematical Theory of Communication" 1948
   claudia-sheinbaum:
     born: 1962
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: governo-mexico
       role: leader
@@ -7018,7 +7217,7 @@ persons:
       from: 2021
       note: Group CEO (CRO 2016-2020)
   cynthia-wu:
-    nationality: TW
+    nationality: TWN
     note: Former research analyst Merrill Lynch London. Named 100 Most Outstanding Chinese Women 2006.
     affiliations:
     - org: wef
@@ -7263,7 +7462,7 @@ persons:
       note: Co-founder, CEO (left June 2025 for Meta)
   daniel-hajj:
     born: 1966
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: america-movil
       role: executive
@@ -7301,7 +7500,7 @@ persons:
       note: Chairman & CEO
   daniel-servitje:
     born: 1959
-    nationality: MX
+    nationality: MEX
     family: servitje
     affiliations:
     - org: grupo-bimbo
@@ -7722,7 +7921,7 @@ persons:
       from: 2017
       to: 2019
   david-hertz:
-    nationality: BR
+    nationality: BRA
     note: Social entrepreneur São Paulo. Slow food advocate.
     affiliations:
     - org: wef
@@ -8585,8 +8784,15 @@ persons:
       role: leader
       from: 2022
       note: Politburo Standing Committee
+  dino-grandi:
+    nationality: ITA
+    affiliations:
+    - org: governo-italiano
+      role: ambassador-uk
+      from: 1932
+      to: 1939
   dirk-carsten-hoke:
-    nationality: DE
+    nationality: DEU
     note: Former R&D Engineer Renault. Various senior roles at Siemens since 1994.
     affiliations:
     - org: wef
@@ -8941,6 +9147,25 @@ persons:
     - org: cia
       role: official
       note: officer
+  donato-menichella:
+    born: 1896
+    died: 1984
+    nationality: ITA
+    affiliations:
+    - org: banca-italia
+      role: chairman
+      from: 1948
+      to: 1960
+      note: Governatore
+    - org: iri
+      role: executive
+      from: 1933
+      to: 1946
+      note: Direttore generale
+    - org: iri
+      role: director-general
+      from: 1934
+      to: 1943
   dora-bakoyannis:
     born: 1954
     nationality: GRC
@@ -9078,6 +9303,14 @@ persons:
       from: 2018
     - org: centre-policy-studies
       role: board
+  dov-kotler:
+    nationality: ISR
+    affiliations:
+    - org: bank-hapoalim
+      role: executive
+      from: 2019
+      to: 2024
+      note: CEO
   drew-houston:
     born: 1983
     nationality: USA
@@ -9173,7 +9406,7 @@ persons:
       type: colleague
       note: Facebook co-founders, Harvard roommates
   earl-valencia:
-    nationality: PH
+    nationality: PHL
     note: Former Cisco and Raytheon. Co-founded IdeaSpace Foundation supported by First Pacific.
     affiliations:
     - org: wef
@@ -9254,6 +9487,19 @@ persons:
       role: board
       from: 2016
       note: Lead Independent Director since Dec 2018
+  edgar-bronfman-jr:
+    born: 1955
+    nationality: USA-CAN
+    affiliations:
+    - org: seagram
+      role: executive
+      from: 1994
+      to: 2000
+      note: CEO, sold to Vivendi
+    relations:
+    - person: edgar-bronfman-sr
+      type: child
+      note: son of Edgar Sr, 1st marriage
   edgar-bronfman-sr:
     born: 1929
     died: 2013
@@ -9268,6 +9514,13 @@ persons:
       role: executive
       from: 1971
       to: 1994
+    - org: mega-group
+      role: member
+      from: 1991
+    relations:
+    - person: samuel-bronfman
+      type: child
+      note: son of Samuel
   edith-cooper:
     born: 1961
     nationality: USA
@@ -9603,7 +9856,6 @@ persons:
       note: Chief of Staff 1991-95, most decorated soldier
   ehud-schneorson:
     nationality: ISR
-    note: Unit 8200 commander until 2017
     affiliations:
     - org: paragon
       role: founder
@@ -9616,6 +9868,19 @@ persons:
       role: executive
       to: 2017
       note: Commander
+    relations:
+    - person: ehud-barak
+      type: business
+      note: Co-founded Paragon Solutions 2019
+    - person: idan-nurick
+      type: business
+      note: Co-founded Paragon Solutions 2019
+    - person: igor-bogudlov
+      type: business
+      note: Co-founded Paragon Solutions 2019
+    - person: liad-avraham
+      type: business
+      note: Co-founded Paragon Solutions 2019
   ei-dupont:
     born: 1771
     died: 1834
@@ -9947,7 +10212,7 @@ persons:
       note: Bilderberg founder, elite olandese
   emilio-azcarraga-jean:
     born: 1968
-    nationality: MX
+    nationality: MEX
     family: azcarraga
     note: CEO Televisa 1997-2017. Saved from bankruptcy. Leave Oct 2024 DOJ FIFA probe.
     affiliations:
@@ -10042,6 +10307,13 @@ persons:
     - org: jp-morgan-co
       role: board
       note: Director, Advisory Committee Morgan Guaranty Trust
+  emilio-de-bono:
+    nationality: ITA
+    affiliations:
+    - org: pnf
+      role: quadrumviro
+      from: 1922
+      to: 1943
   emma-walmsley:
     born: 1969
     nationality: GBR
@@ -10099,6 +10371,14 @@ persons:
     died: 2000
     nationality: ITA
     affiliations:
+    - org: iri
+      role: staff
+      from: 1934
+      to: 1938
+    - org: banca-commerciale-italiana
+      role: executive
+      from: 1938
+      to: 1946
     - org: mediobanca
       role: founder
       from: 1946
@@ -10110,9 +10390,17 @@ persons:
       note: Amministratore Delegato
     - org: mediobanca
       role: chairman
-      from: 1988
+      from: 1982
       to: 2000
       note: Presidente onorario
+    - org: mediobanca
+      role: director-general
+      from: 1946
+      to: 1982
+    relations:
+    - person: alberto-beneduce
+      type: son-in-law
+      note: Sposò Idea Beneduce
   enrico-laghi:
     nationality: ITA
     affiliations:
@@ -10602,7 +10890,7 @@ persons:
       note: CEO; sold to Merck KGaA for $13.3B
   ernesto-zedillo:
     born: 1951
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: wef
       role: board
@@ -10992,7 +11280,7 @@ persons:
       note: President
   fahd-hariri:
     born: 1980
-    nationality: Lebanese
+    nationality: LBN
     note: '13.8% Bank Audi, real estate NY/Paris. Forbes 2025: $1.2B'
     affiliations:
     - org: bank-audi
@@ -11150,7 +11438,7 @@ persons:
       role: member
       from: 2001
   felipe-vallejo-dabdoub:
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: wef
       role: ygl
@@ -11327,10 +11615,16 @@ persons:
       from: 1923
       to: 1924
       note: Direttore e AD
+    - org: popolo-ditalia
+      role: staff
+      from: 1914
+      to: 1923
     relations:
     - person: benito-mussolini
       type: associate
       note: Segretario fratello Arnaldo, accusò Mussolini come mandante Matteotti
+  filippo-naldi:
+    nationality: ITA
   flavio-cattaneo:
     born: 1963
     nationality: ITA
@@ -12288,6 +12582,17 @@ persons:
       role: executive
       from: 1989
       to: 1993
+  galeazzo-ciano:
+    nationality: ITA
+    affiliations:
+    - org: governo-italiano
+      role: foreign-minister
+      from: 1936
+      to: 1943
+    relations:
+    - person: benito-mussolini
+      type: son-in-law
+      note: Sposò Edda Mussolini 1930
   galen-weston-sr:
     born: 1940
     died: 2021
@@ -12398,7 +12703,7 @@ persons:
       role: board
       from: 2015
   gassan-kibsi:
-    nationality: SA
+    nationality: SAU
     note: Director McKinsey Saudi Arabia. Former WorldSpace. Leads Public Sector and Energy Practice.
     affiliations:
     - org: wef
@@ -12517,7 +12822,7 @@ persons:
       from: 2023
   gebran-bassil:
     born: 1970
-    nationality: Lebanese
+    nationality: LBN
     note: Leader FPM, genero Michel Aoun, ex ministro
     affiliations:
     - org: fpm
@@ -12987,7 +13292,7 @@ persons:
       note: St Petersburg colleagues 1990s, Putin made Gref Minister 2000
   german-larrea:
     born: 1953
-    nationality: MX
+    nationality: MEX
     family: larrea
     affiliations:
     - org: grupo-mexico
@@ -13034,6 +13339,10 @@ persons:
       from: 1931
       to: 1942
       note: Founded Whitney Museum
+  ghislaine-maxwell:
+    born: 1961
+    nationality: GBR
+    note: Convicted sex trafficker, Epstein accomplice
   giacomo-matteotti:
     born: 1885
     died: 1924
@@ -13381,10 +13690,18 @@ persons:
     - org: fiat
       role: founder
       from: 1899
+      to: 1945
   giovanni-alberto-agnelli:
     born: 1964
     died: 1997
     nationality: ITA
+  giovanni-balella:
+    nationality: ITA
+    affiliations:
+    - org: confindustria
+      role: president
+      from: 1939
+      to: 1943
   giovanni-bazoli:
     born: 1932
     nationality: ITA
@@ -13421,6 +13738,13 @@ persons:
     - org: cdp
       role: chairman
       from: 2019
+  giovanni-marinelli:
+    nationality: ITA
+    affiliations:
+    - org: pnf
+      role: secretary-admin
+      from: 1922
+      to: 1943
   giuliano-amato:
     born: 1938
     nationality: ITA
@@ -13517,6 +13841,30 @@ persons:
       from: 2011
       to: 2013
       note: CEO
+  giuseppe-pontremoli:
+    nationality: ITA
+  giuseppe-volpi:
+    born: 1877
+    died: 1947
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 1925
+      to: 1928
+      note: Ministro delle Finanze
+    - org: confindustria
+      role: chairman
+      from: 1934
+      to: 1943
+    - org: confindustria
+      role: president
+      from: 1934
+      to: 1943
+    - org: sade
+      role: founder
+      from: 1905
+      to: 1943
   giuseppina-di-foggia:
     born: 1969
     nationality: ITA
@@ -13837,6 +14185,20 @@ persons:
       from: 2014
       to: 2022
       note: Senior Advisor
+  guido-jung:
+    born: 1876
+    died: 1949
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 1932
+      to: 1935
+      note: Ministro delle Finanze - creò IRI
+    - org: governo-italiano
+      role: finance-minister
+      from: 1932
+      to: 1935
   guillaume-de-spoelberch:
     born: 1874
     died: 1947
@@ -13884,7 +14246,7 @@ persons:
       from: 2025
       note: Grand Duke
   guillermo-romo:
-    nationality: MX
+    nationality: MEX
     note: Sold Tequila Herradura to Brown-Forman for $876M. Founded Grupo Mega 2003. RFO private equity fund.
     affiliations:
     - org: wef
@@ -13995,7 +14357,7 @@ persons:
       from: 1931
       note: Yale Class of 1931
   haakon-of-norway:
-    nationality: 'NO'
+    nationality: NOR
     note: Crown Prince of Norway. UNDP Goodwill Ambassador. Norwegian Naval Academy graduate.
     affiliations:
     - org: wef
@@ -14029,7 +14391,7 @@ persons:
       note: Governor, first female
   haider-al-abadi:
     born: 1952
-    nationality: Iraq
+    nationality: IRQ
     affiliations:
     - org: governo-iraq
       role: leader
@@ -14112,7 +14474,7 @@ persons:
       from: 2024
       note: Managing Director & CEO
   hamad-almahmeed:
-    nationality: bahrain
+    nationality: BHR
     note: Undersecretary for Research & Projects, Prime Minister Office. WEF Young Global Leader 2022.
     affiliations:
     - org: wef
@@ -14120,7 +14482,7 @@ persons:
       from: 2022
   hamad-bin-isa-al-khalifa:
     born: 1950
-    nationality: bahrain
+    nationality: BHR
     family: al-khalifa
     note: King of Bahrain dal 2002 (Emir 1999-2002). Close ties UK royal family, Sandhurst. Signed Abraham Accords 2020. Repressione
       proteste 2011.
@@ -14139,7 +14501,7 @@ persons:
       note: Fondatore e Chairman board
   hamdan-bin-mohammed-al-maktoum:
     born: 1982
-    nationality: UAE
+    nationality: ARE
     note: Crown Prince of Dubai
     affiliations:
     - org: governo-uae
@@ -14150,7 +14512,7 @@ persons:
       role: chairman
       from: 2015
   hana-al-rostamani:
-    nationality: UAE
+    nationality: ARE
     note: First female CEO of FAB
     affiliations:
     - org: first-abu-dhabi-bank
@@ -14173,7 +14535,7 @@ persons:
       to: 2009
       note: Gestì bailout 2008
   hanli-prinsloo:
-    nationality: ZA
+    nationality: ZAF
     note: Documentary filmmaker. Founder I AM WATER Foundation. 11-time South African freediving record holder.
     affiliations:
     - org: wef
@@ -14194,6 +14556,8 @@ persons:
       to: 2015
     - org: porsche-se
       role: chairman
+  hans-leyers:
+    nationality: DEU
   hans-michel-piech:
     born: 1942
     nationality: AUT
@@ -14409,7 +14773,7 @@ persons:
   hassan-nasrallah:
     born: 1960
     died: 2024
-    nationality: Lebanese
+    nationality: LBN
     note: Segretario Generale Hezbollah 1992-2024. Ucciso da Israele
     affiliations:
     - org: hezbollah
@@ -14511,7 +14875,7 @@ persons:
     - org: club-madrid
       role: member
   helen-hai:
-    nationality: CN
+    nationality: CHN
     note: Former Zurich Financial Services. Set up Huajian shoe factory Ethiopia 2011. CEO Made in Africa Initiative.
     affiliations:
     - org: wef
@@ -14927,6 +15291,13 @@ persons:
       role: executive
       from: 2018
       to: 2022
+  herbert-hoover:
+    nationality: USA
+    affiliations:
+    - org: commerce-us
+      role: secretary
+      from: 1921
+      to: 1928
   herbert-samuel:
     born: 1870
     died: 1963
@@ -15306,7 +15677,7 @@ persons:
       note: Primo Re Arabia Saudita
   ibrahim-al-jaafari:
     born: 1947
-    nationality: Iraq
+    nationality: IRQ
     affiliations:
     - org: governo-iraq
       role: leader
@@ -15329,7 +15700,7 @@ persons:
       note: CEO at launch
   ida-auken:
     born: 1978
-    nationality: DK
+    nationality: DNK
     note: Former Minister for the Environment of Denmark 2011-14. Member Forum Europe and Albright Group Womens Network.
     affiliations:
     - org: wef
@@ -15610,7 +15981,7 @@ persons:
       from: 2025
       note: Primo Ministro
   ilona-szabo-de-carvalho:
-    nationality: BR
+    nationality: BRA
     note: Founded Igarapé Institute. Coordinates Global Commission on Drug Policy. TED speaker 2014.
     affiliations:
     - org: wef
@@ -15880,6 +16251,9 @@ persons:
     - person: otto-skorzeny
       type: handler
       note: Recluto Skorzeny per Mossad
+    - person: rafi-eitan
+      type: mentor
+      note: Recruited Eitan into Shin Bet in 1951
   istvan-tiborcz:
     born: 1985
     nationality: HUN
@@ -16290,7 +16664,7 @@ persons:
   jacques-saade:
     born: 1937
     died: 2018
-    nationality: French-Lebanese
+    nationality: FRA-LBN
     note: Fondatore CMA CGM 1978. Fuggito guerra civile Libano
     affiliations:
     - org: cma-cgm
@@ -16329,7 +16703,7 @@ persons:
       role: ygl
   jaime-serra-puche:
     born: 1951
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: trilateral-commission
       role: steering
@@ -16342,7 +16716,7 @@ persons:
   jalal-talabani:
     born: 1933
     died: 2017
-    nationality: Iraq
+    nationality: IRQ
     affiliations:
     - org: governo-iraq
       role: leader
@@ -16598,7 +16972,7 @@ persons:
     nationality: USA
     family: murdoch
   james-mwangi:
-    nationality: ZA
+    nationality: ZAF
     note: Managing Partner Dalberg Global Development Advisors. Former McKinsey. Archbishop Tutu Fellowship.
     affiliations:
     - org: wef
@@ -16900,7 +17274,7 @@ persons:
       from: 2001
       note: ex-FDA Commissioner
   jane-mcadam:
-    nationality: AU
+    nationality: AUS
     note: Scientia Professor of Law UNSW. Non-Resident Senior Fellow Brookings Institution.
     affiliations:
     - org: wef
@@ -17537,6 +17911,43 @@ persons:
     - org: club-for-growth
       role: member
       note: Major donor, $32M+ total | Donor
+  jeffrey-epstein:
+    born: 1953
+    died: 2019
+    nationality: USA
+    affiliations:
+    - org: bear-stearns
+      role: partner
+      from: 1976
+      to: 1981
+      note: Limited Partner 1980-81, left after Reg D violation
+    - org: harvard
+      role: donor
+      from: 1998
+      to: 2012
+      note: Donated $8.9M, continued campus visits after 2008 conviction
+    - org: wexner-foundation
+      role: board
+      from: 1990
+      to: 2007
+      note: Board member via Wexner relationship
+    - org: j-epstein-company
+      role: founder
+      from: 1988
+      to: 2019
+    relations:
+    - person: edgar-bronfman-sr
+      type: advisor
+      note: Tax mitigation advisor at Bear Stearns late 1970s
+    - person: ghislaine-maxwell
+      type: accomplice
+      note: Partner and recruiter 1994-2019, convicted 2021
+    - person: leon-black
+      type: advisor
+      note: Tax advisor 2012-2017, paid $158M for estate planning
+    - person: leslie-wexner
+      type: advisor
+      note: Financial advisor 1987-2007, power of attorney 1991-2007, alleged misappropriation of $46M+
   jeffrey-flier:
     born: 1948
     nationality: USA
@@ -18525,6 +18936,10 @@ persons:
       from: 1911
       to: 1953
       note: Senior Partner
+    - org: sullivan-cromwell
+      role: ceo
+      from: 1927
+      to: 1949
   john-fredriksen:
     born: 1944
     nationality: CYP
@@ -18858,7 +19273,7 @@ persons:
       from: 2021
       note: Prime Minister
   jonathan-adiri:
-    nationality: IL
+    nationality: ISR
     note: Co-founded Getaround (TechCrunch Disrupt winner 2011). First CTO to President Shimon Peres 2008.
     affiliations:
     - org: wef
@@ -18905,6 +19320,49 @@ persons:
       role: chairman
       from: 2024
       note: Chairman BAE Systems Inc, ex-CNO USN
+  jonathan-kolber:
+    born: 1961
+    nationality: CAN-ISR
+    note: Son of Leo Kolber (Bronfman consigliere). CEO Koor 1998-2006. Co-founder Claridge Israel 1986. Harvard BA Near Eastern
+      Languages 1983. General Partner Viola PE. Chairman Fiverr, Taboola, ION Asset Management.
+    affiliations:
+    - org: adl
+      role: board
+      from: 2025
+      note: Elected to board February 2025
+    - org: harvard
+      role: alumni
+      note: BA Near Eastern Language and Literature 1983
+    - org: koor-industries
+      role: executive
+      from: 1998
+      to: 2006
+      note: CEO. Continued restructuring, focused on defense, telecom, agrochemicals.
+    - org: claridge-group
+      role: executive
+      from: 1986
+      to: 1997
+      note: Founded and managed Claridge Israel alongside Bronfman family.
+    - org: viola-group
+      role: partner
+      note: General Partner Viola Private Equity, investor Viola Growth
+    - org: fiverr
+      role: chairman
+      from: 2019
+      note: Board Chairman since June 2019
+    - org: taboola
+      role: chairman
+      note: Board Chairman
+    - org: ion-asset-management
+      role: chairman
+      note: Chairman of the Board, investment committee ION Crossover Partners
+    - org: anfield-ltd
+      role: founder
+      note: Personal investment company, Chairman and CEO
+    relations:
+    - person: leo-kolber
+      type: son
+      note: Father-son, both worked with Bronfman family
   jonathan-lavine:
     born: 1966
     nationality: USA
@@ -18963,6 +19421,23 @@ persons:
       from: 1995
       to: 1999
       note: Inizio carriera prima di Anglo American
+  jonathan-pollard:
+    born: 1954
+    nationality: USA-ISR
+    affiliations:
+    - org: governo-usa
+      role: member
+      from: 1979
+      to: 1985
+      note: Naval Intelligence Analyst, Anti-Terrorist Alert Center
+    - org: stanford
+      role: alumni
+      note: BA International Relations 1976
+    - org: lakam
+      role: member
+      from: 1984
+      to: 1985
+      note: Recruited by Rafi Eitan; passed classified documents
   jonathan-rothermere:
     born: 1967
     nationality: GBR
@@ -19147,7 +19622,7 @@ persons:
       note: Secretary-General
   jose-antonio-fernandez-carbajal:
     born: 1954
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: heineken
       role: board
@@ -19600,6 +20075,11 @@ persons:
     died: 1943
     nationality: USA
     family: morgan
+    affiliations:
+    - org: jp-morgan-co
+      role: chairman
+      from: 1913
+      to: 1943
   jrd-tata:
     born: 1904
     died: 1993
@@ -20179,7 +20659,7 @@ persons:
       from: 2019
       note: CEO & Chair
   katinka-barysch:
-    nationality: DE
+    nationality: DEU
     note: Former Centre for European Reform London. Rockefeller Fellow Trilateral Commission. Strategic Adviser Munich Security
       Conference.
     affiliations:
@@ -20445,7 +20925,7 @@ persons:
       note: Interim President
   khaldoon-al-mubarak:
     born: 1975
-    nationality: UAE
+    nationality: ARE
     note: CEO Mubadala, Vice Chair MGX, Chairman Manchester City
     affiliations:
     - org: mubadala
@@ -20470,7 +20950,7 @@ persons:
     - org: globalfoundries
       role: board
   khaled-bin-mohamed-al-nahyan:
-    nationality: UAE
+    nationality: ARE
     note: Crown Prince of Abu Dhabi since 2023
     affiliations:
     - org: governo-uae
@@ -21370,6 +21850,15 @@ persons:
     died: 2004
     nationality: USA
     family: rockefeller
+  laurence-tisch:
+    born: 1923
+    died: 2003
+    nationality: USA
+    affiliations:
+    - org: mega-group
+      role: member
+      from: 1991
+      note: Chairman Loews Corp, owned CBS News
   laurene-powell-jobs:
     born: 1963
     nationality: USA
@@ -21643,6 +22132,17 @@ persons:
     born: 1970
     died: 2001
     nationality: IRN-USA
+  leo-kolber:
+    born: 1929
+    died: 2020
+    nationality: CAN
+    note: Canadian Senator, Bronfman family consigliere. Ran Bronfman investments 1957-. Major Liberal Party fundraiser. Father
+      of Jonathan Kolber.
+    affiliations:
+    - org: claridge-group
+      role: executive
+      from: 1957
+      note: Ran Bronfman family investments
   leo-strauss:
     born: 1899
     died: 1973
@@ -21723,6 +22223,13 @@ persons:
     - org: atlantic-council
       role: board
       note: Honorary Director
+  leonard-abramson:
+    nationality: USA
+    affiliations:
+    - org: mega-group
+      role: member
+      from: 1991
+      note: Founder U.S. Healthcare
   leonardo-badea:
     nationality: ROU
     affiliations:
@@ -21806,6 +22313,42 @@ persons:
       from: 1865
       to: 1909
       note: Re dei Belgi
+  leslie-wexner:
+    born: 1937
+    nationality: USA
+    affiliations:
+    - org: harvard
+      role: advisor
+      note: Visiting lecturer Kennedy School, Society of John Harvard Fellows
+    - org: mega-group
+      role: founder
+      from: 1991
+      note: Co-founder with Charles Bronfman
+    - org: ohio-state
+      role: alumni
+      note: BS Business Administration 1959, Sigma Alpha Mu fraternity
+    - org: ohio-state
+      role: board
+      from: 1988
+      to: 2021
+      note: Board of Trustees, Chair 2009-2021
+    - org: wexner-foundation
+      role: founder
+      from: 1983
+      note: Founder and Chairman
+    - org: l-brands
+      role: founder
+      from: 1963
+      to: 2020
+      note: Founder, Chairman & CEO until Feb 2020
+  lester-crown:
+    born: 1925
+    nationality: USA
+    affiliations:
+    - org: mega-group
+      role: member
+      from: 1991
+      note: Chicago billionaire, part owner Bulls, former pres. General Dynamics
   leszek-balcerowicz:
     nationality: POL
   lewis-hay:
@@ -22017,6 +22560,10 @@ persons:
       from: 1970
       to: 1981
       note: Venerable Master
+    - org: p2
+      role: master
+      from: 1970
+      to: 1981
   liliane-bettencourt:
     born: 1922
     died: 2017
@@ -22320,7 +22867,7 @@ persons:
   lorenzo-servitje:
     born: 1918
     died: 2017
-    nationality: MX
+    nationality: MEX
     family: servitje
     affiliations:
     - org: grupo-bimbo
@@ -22329,7 +22876,7 @@ persons:
   lorenzo-zambrano:
     born: 1944
     died: 2014
-    nationality: MX
+    nationality: MEX
     family: zambrano
     affiliations:
     - org: trilateral-commission
@@ -22524,6 +23071,13 @@ persons:
     - org: edizione
       role: founder
       from: 1981
+  luciano-gottardi:
+    nationality: ITA
+    affiliations:
+    - org: confindustria
+      role: labor-president
+      from: 1939
+      to: 1943
   lucy-cooper:
     nationality: GBR
     affiliations:
@@ -22614,7 +23168,7 @@ persons:
       from: 2018
       note: Vice President BCE
   luis-felipe-carrillo:
-    nationality: PE
+    nationality: PER
     note: President & CEO GE Andean and Caribbean. Former GE various roles South America.
     affiliations:
     - org: wef
@@ -22624,7 +23178,7 @@ persons:
       role: executive
   luis-videgaray:
     born: 1968
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: wef
       role: ygl
@@ -22925,7 +23479,7 @@ persons:
       note: CEO 2019-2025, resigned amid crisis
   maktoum-bin-mohammed-al-maktoum:
     born: 1983
-    nationality: UAE
+    nationality: ARE
     affiliations:
     - org: governo-uae
       role: minister
@@ -23009,7 +23563,7 @@ persons:
       to: 2024
   mansour-bin-zayed:
     born: 1970
-    nationality: UAE
+    nationality: ARE
     note: Deputy PM, fratello MBZ, proprietario Manchester City
     affiliations:
     - org: governo-uae
@@ -23287,7 +23841,7 @@ persons:
       note: Gas business, Terna IPO
   marco-antonio-slim:
     born: 1968
-    nationality: MX
+    nationality: MEX
     family: slim
     affiliations:
     - org: america-movil
@@ -23770,7 +24324,7 @@ persons:
       role: chairman
       from: 2023
   marina-del-pilar-avila:
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: wef
       role: ygl
@@ -23811,6 +24365,11 @@ persons:
       role: board
       from: 1998
       note: Trustee
+    - org: governo-italiano
+      role: treasury-dg
+      from: 1991
+      to: 2001
+      note: Architetto privatizzazioni, riunione Britannia 1992
     relations:
     - person: daniele-franco
       type: colleague
@@ -24041,7 +24600,7 @@ persons:
       note: Board of Directors, CFO Citigroup
   mark-mateschitz:
     born: 1992
-    nationality: austriaca
+    nationality: AUT
     affiliations:
     - org: red-bull
       role: owner
@@ -24061,7 +24620,7 @@ persons:
       from: 2013
       note: Ex-FDA Commissioner
   mark-pollock:
-    nationality: IE
+    nationality: IRL
     note: Adventurer/athlete. Blind since 1998. South Pole expedition. Paralyzed 2010. Board Christopher & Dana Reeve Foundation.
     affiliations:
     - org: wef
@@ -24411,6 +24970,12 @@ persons:
       role: founder
       from: 2000
       note: Fondatore CMI
+  marvin-lender:
+    nationality: USA
+    affiliations:
+    - org: mega-group
+      role: member
+      from: 1991
   mary-burke:
     nationality: USA
     note: Global Business Director Thomson Reuters. 16 years at Thomson Reuters. Managed $340M Investment Banking business.
@@ -24795,6 +25360,15 @@ persons:
       from: 1943
       to: 1945
       note: Chief SI Italy
+  max-fisher:
+    born: 1908
+    died: 2005
+    nationality: USA
+    affiliations:
+    - org: mega-group
+      role: member
+      from: 1991
+      note: Detroit oil magnate, founder Republican Jewish Coalition
   max-kohnstamm:
     born: 1914
     died: 2010
@@ -25084,7 +25658,7 @@ persons:
       role: ygl
       from: 2010
   mette-marit-of-norway:
-    nationality: 'NO'
+    nationality: NOR
     note: Crown Princess of Norway. UNAIDS Special Representative 2006. Patron Norwegian Red Cross.
     affiliations:
     - org: wef
@@ -25409,6 +25983,17 @@ persons:
       role: partner
       from: 2013
       note: Managing Director 2016-24, Partner Emeritus
+  michael-steinhardt:
+    born: 1940
+    nationality: USA
+    affiliations:
+    - org: mega-group
+      role: member
+      from: 1991
+    - org: birthright-israel
+      role: founder
+      from: 1999
+      note: Co-founder with Charles Bronfman
   michael-vickers:
     born: 1953
     nationality: USA
@@ -25429,7 +26014,7 @@ persons:
     - org: wef
       role: ygl
   michal-krupinski:
-    nationality: PL
+    nationality: POL
     note: Former Deputy Minister of State Treasury Poland 2006-07. Alternate Executive Director World Bank 2008.
     affiliations:
     - org: wef
@@ -25527,6 +26112,21 @@ persons:
       role: board
       from: 2021
       note: Board of Advisors
+  michele-sindona:
+    nationality: ITA
+    affiliations:
+    - org: p2
+      role: treasurer
+      from: 1970
+      to: 1981
+    - org: franklin-national-bank
+      role: owner
+      from: 1972
+      to: 1974
+    - org: banca-privata-italiana
+      role: owner
+      from: 1960
+      to: 1974
   michele-valensise:
     born: 1952
     nationality: ITA
@@ -25562,7 +26162,7 @@ persons:
       role: founder
   michiel-le-roux:
     born: 1949
-    nationality: ZA
+    nationality: ZAF
     affiliations:
     - org: capitec
       role: founder
@@ -25571,6 +26171,22 @@ persons:
       role: chairman
       from: 2007
       to: 2016
+  micky-arison:
+    born: 1949
+    nationality: ISR-USA
+    affiliations:
+    - org: carnival-corporation
+      role: executive
+      from: 1979
+      note: CEO 1979-2013, Chairman 2013-present
+    - org: miami-heat
+      role: chairman
+      from: 1995
+      note: Managing Partner
+    relations:
+    - person: ted-arison
+      type: child
+      note: son, inherited Carnival Corporation
   mignon-clyburn:
     born: 1962
     nationality: USA
@@ -25938,7 +26554,7 @@ persons:
       note: JD/MBA joint degree 1975
   mohamed-alabbar:
     born: 1956
-    nationality: UAE
+    nationality: ARE
     note: Founder Emaar Properties, Burj Khalifa builder
     affiliations:
     - org: emaar-properties
@@ -26049,7 +26665,7 @@ persons:
       role: board
   mohammed-bin-rashid:
     born: 1949
-    nationality: UAE
+    nationality: ARE
     note: Vice Presidente UAE, PM, Ruler Dubai
     affiliations:
     - org: governo-uae
@@ -26087,7 +26703,7 @@ persons:
       note: Crown Prince, figlio Re Salman
   mohammed-bin-zayed:
     born: 1961
-    nationality: UAE
+    nationality: ARE
     note: Presidente UAE dal 2022, Ruler Abu Dhabi
     affiliations:
     - org: governo-uae
@@ -26100,7 +26716,7 @@ persons:
       note: Annuncio pubblico creazione EDGE
   mohammed-shia-al-sudani:
     born: 1970
-    nationality: Iraq
+    nationality: IRQ
     affiliations:
     - org: governo-iraq
       role: leader
@@ -26334,7 +26950,7 @@ persons:
       note: CFO 2020-2023, CEO 2023-2025
   mustafa-al-kadhimi:
     born: 1967
-    nationality: Iraq
+    nationality: IRQ
     affiliations:
     - org: governo-iraq
       role: leader
@@ -26466,7 +27082,7 @@ persons:
       role: board
       from: 2016
   nabeel-amudi:
-    nationality: SA
+    nationality: SAU
     note: Former President Saudi Refining. President Aramco Services Company. Harvard Law School Association of Arabia Exec
       Committee.
     affiliations:
@@ -26681,7 +27297,7 @@ persons:
       from: 2022
   naim-qassem:
     born: 1953
-    nationality: Lebanese
+    nationality: LBN
     note: Segretario Generale Hezbollah dal 2024. Vice dal 1991
     affiliations:
     - org: hezbollah
@@ -26705,7 +27321,7 @@ persons:
       note: Young Leader, Minister Education
   najib-mikati:
     born: 1955
-    nationality: Lebanese
+    nationality: LBN
     note: 'PM Lebanon 2005, 2011-14, 2021-25. Co-founder Investcom/M1 Group. Board AUB, WEF participant. Forbes 2025: $3.1B'
     affiliations:
     - org: wef
@@ -26848,7 +27464,7 @@ persons:
       note: Chairman ECA
   nasser-bin-hamad-al-khalifa:
     born: 1987
-    nationality: bahrain
+    nationality: BHR
     family: al-khalifa
     note: National Security Advisor. 4th son of King Hamad. Rising influence in security apparatus.
     affiliations:
@@ -26960,7 +27576,7 @@ persons:
       from: 1991
       note: Co-founder, CTO
   nathan-shabot:
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: wef
       role: ygl
@@ -27035,7 +27651,7 @@ persons:
   nelson-mandela:
     born: 1918
     died: 2013
-    nationality: ZA
+    nationality: ZAF
     affiliations:
     - org: wef
       role: member
@@ -27625,7 +28241,7 @@ persons:
       role: founder
       from: 2010
   nneka-mobisson-etuk:
-    nationality: ZA
+    nationality: ZAF
     note: Executive Director IHI. Former McKinsey consultant. Former World Bank. Co-founded Anadach Group.
     affiliations:
     - org: wef
@@ -27753,7 +28369,7 @@ persons:
       from: 2000
       note: Founder and CEO
   noura-kaabi:
-    nationality: AE
+    nationality: ARE
     note: CEO Media Zone Authority Abu Dhabi/twofour54. Member UAE Federal National Council. Forbes 30 Most Influential Women
       in Government 2013.
     affiliations:
@@ -27764,7 +28380,7 @@ persons:
       role: executive
   nouri-al-maliki:
     born: 1950
-    nationality: Iraq
+    nationality: IRQ
     affiliations:
     - org: governo-iraq
       role: leader
@@ -28031,7 +28647,7 @@ persons:
       to: 2005
   omar-bin-sultan-al-olama:
     born: 1989
-    nationality: UAE
+    nationality: ARE
     note: Ministro AI ed Economia Digitale UAE
     affiliations:
     - org: wef
@@ -28294,6 +28910,13 @@ persons:
       type: daughter
     - person: yingluck-shinawatra
       type: niece
+  palmiro-togliatti:
+    nationality: ITA
+    affiliations:
+    - org: pci
+      role: secretary
+      from: 1927
+      to: 1964
   pam-kaur:
     nationality: GBR
     affiliations:
@@ -28513,7 +29136,7 @@ persons:
     - org: wef
       role: ygl
   park-yu-hyun:
-    nationality: SG
+    nationality: SGP
     note: Co-founded infollutionZERO. Developed iZ HERO cyber wellness programme. UNESCO prizes 2012/2013.
     affiliations:
     - org: wef
@@ -28618,7 +29241,7 @@ persons:
       note: Director
   patrice-motsepe:
     born: 1962
-    nationality: ZA
+    nationality: ZAF
     affiliations:
     - org: wef
       role: board
@@ -28728,7 +29351,7 @@ persons:
       note: SVP Supply Chain, 31 years at Boeing
   patrick-slim-domit:
     born: 1969
-    nationality: MX
+    nationality: MEX
     family: slim
     affiliations:
     - org: america-movil
@@ -29031,6 +29654,13 @@ persons:
       from: 1953
       to: 2003
       note: Chief Scientific Officer
+  paul-marcinkus:
+    nationality: USA
+    affiliations:
+    - org: ior
+      role: president
+      from: 1971
+      to: 1989
   paul-maritz:
     born: 1955
     nationality: ZWE-ZAF
@@ -29293,7 +29923,7 @@ persons:
       note: CEO (primo indiano a guidare JLR)
   pedro-aspe:
     born: 1950
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: governo-mexico
       role: minister
@@ -29425,7 +30055,7 @@ persons:
       to: 2025
       note: CEO
   peng-xiao:
-    nationality: UAE
+    nationality: ARE
     note: Ex-DarkMatter CEO, ex-MicroStrategy CTO. Rinunciato a cittadinanza USA per UAE.
     affiliations:
     - org: g42
@@ -30058,6 +30688,13 @@ persons:
       role: president
       from: 2000
       to: 2011
+  phyllis-lambert:
+    born: 1927
+    nationality: CAN
+    relations:
+    - person: samuel-bronfman
+      type: child
+      note: daughter of Samuel, architect
   piatt-andrew:
     born: 1873
     died: 1936
@@ -30307,6 +30944,13 @@ persons:
       from: 2013
       to: 2022
       note: CEO and General Manager
+  pietro-badoglio:
+    nationality: ITA
+    affiliations:
+    - org: governo-italiano
+      role: prime-minister
+      from: 1943
+      to: 1944
   pietro-labriola:
     nationality: ITA
     affiliations:
@@ -30358,6 +31002,14 @@ persons:
       from: 1953
       to: 1974
       note: Top trader, Zug office
+  pinhas-lavon:
+    nationality: ISR
+    affiliations:
+    - org: histadrut
+      role: executive
+      from: 1956
+      to: 1961
+      note: Secretary General
   pio-perrone:
     born: 1875
     died: 1952
@@ -30369,6 +31021,14 @@ persons:
       from: 1908
       to: 1921
       note: Co-proprietario con fratello Mario
+    - org: ansaldo
+      role: owner
+      from: 1903
+      to: 1921
+    - org: banca-di-sconto
+      role: controller
+      from: 1914
+      to: 1921
   piyush-gupta:
     born: 1960
     nationality: SGP
@@ -30791,7 +31451,7 @@ persons:
       type: successor
       note: Continua eredita polacca nel Bilderberg Steering Committee
   rafael-rebollar:
-    nationality: MX
+    nationality: MEX
     affiliations:
     - org: penoles
       role: executive
@@ -30807,14 +31467,71 @@ persons:
       from: 1933
       to: 1972
       note: CEO
+    - org: banca-commerciale-italiana
+      role: ceo
+      from: 1933
+      to: 1972
     - org: mediobanca
       role: founder
       from: 1946
       note: Ideatore con Cuccia
+  rafi-eitan:
+    born: 1926
+    died: 2019
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: executive
+      from: 1972
+      to: 1981
+      note: Head of Operations; led Eichmann capture team
+    - org: governo-israele
+      role: advisor
+      from: 1978
+      to: 1981
+      note: Advisor on terrorism to PM Menachem Begin
+    - org: governo-israele
+      role: legislator
+      from: 2006
+      to: 2009
+      note: Knesset member; leader of Gil party
+    - org: shin-bet
+      role: executive
+      from: 1951
+      to: 1972
+      note: Recruited by Isser Harel; rose through ranks
+    - org: haganah
+      role: member
+      from: 1940
+      to: 1948
+      note: Joined at age 14
+    - org: palmach
+      role: member
+      from: 1940
+      to: 1948
+      note: Injured in mine explosion during operations
+    - org: lakam
+      role: leader
+      from: 1981
+      to: 1986
+      note: Director; ran Pollard operation; resigned after scandal
+    relations:
+    - person: arnon-milchan
+      type: handler
+      note: LAKAM handler for Milchan operations 1980s
+    - person: jonathan-pollard
+      type: handler
+      note: Recruited and ran Pollard for LAKAM 1984-1985
+    - person: shimon-peres
+      type: colleague
+      note: Peres founded LAKAM in 1957; Eitan later headed it
+    - person: yitzhak-rabin
+      type: colleague
+      note: Met during Haganah/Palmach service in 1940s
   rafic-hariri:
     born: 1944
     died: 2005
-    nationality: Lebanese-Saudi
+    nationality: LBN-SAU
     note: PM 1992-98, 2000-04. Assassinato 14/2/2005. Costruttore, cittadino saudita
     affiliations:
     - org: governo-saudi
@@ -31117,7 +31834,7 @@ persons:
       role: ygl
       from: 2014
   rania-mashat:
-    nationality: EG
+    nationality: EGY
     note: Former Senior Economist IMF. Helped design Egypt Economic Program after 2011 revolution.
     affiliations:
     - org: wef
@@ -31162,7 +31879,7 @@ persons:
       role: ygl
       from: 2017
   raphael-schoentgen:
-    nationality: FR
+    nationality: FRA
     note: Former President GDF SUEZ China 2009-14. Member France-China Foundation YGL.
     affiliations:
     - org: wef
@@ -31653,7 +32370,7 @@ persons:
       type: father
   riad-salameh:
     born: 1950
-    nationality: Lebanese
+    nationality: LBN
     note: Governatore BDL 1993-2023. Accusato corruzione, arrestato 2024
     affiliations:
     - org: banque-du-liban
@@ -31663,7 +32380,7 @@ persons:
       note: Governatore
   ricardo-salinas-pliego:
     born: 1955
-    nationality: MX
+    nationality: MEX
     family: salinas-pliego
     affiliations:
     - org: grupo-salinas
@@ -32384,6 +33101,17 @@ persons:
       from: 2003
       to: 2004
       note: MA European Studies
+  roberto-calvi:
+    nationality: ITA
+    affiliations:
+    - org: p2
+      role: member
+      from: 1975
+      to: 1982
+    - org: banco-ambrosiano
+      role: president
+      from: 1975
+      to: 1982
   roberto-cingolani:
     born: 1961
     nationality: ITA
@@ -32511,7 +33239,7 @@ persons:
       from: 2023
       note: Co-founder, €100M via CMA CGM
   rodrigo-teijeiro:
-    nationality: AR
+    nationality: ARG
     note: Founder Fnbox, Sonico.com (sold to Match/IAC 2014). MIT Technology Review Top Innovator Under 35.
     affiliations:
     - org: wef
@@ -32561,7 +33289,7 @@ persons:
       note: grandfather
   rogelio-zambrano:
     born: 1958
-    nationality: MX
+    nationality: MEX
     family: zambrano
     affiliations:
     - org: cemex
@@ -32769,6 +33497,9 @@ persons:
       role: diplomat
       from: 1986
       to: 1987
+    - org: mega-group
+      role: member
+      from: 1991
   rory-read:
     nationality: USA
     affiliations:
@@ -32811,6 +33542,15 @@ persons:
       from: 2000
       to: 2008
       note: CFO (when Thomson-CSF)
+  roy-e-disney:
+    born: 1930
+    died: 2009
+    nationality: USA
+    affiliations:
+    - org: shamrock-holdings
+      role: founder
+      from: 1978
+      note: Disney family investment vehicle.
   roy-jakobs:
     nationality: NLD
     affiliations:
@@ -33052,7 +33792,7 @@ persons:
       type: child
   saad-hariri:
     born: 1970
-    nationality: Lebanese-Saudi
+    nationality: LBN-SAU
     note: PM 2009-11, 2016-20. Figlio di Rafic. Sequestrato in Saudi 2017
     affiliations:
     - org: governo-saudi
@@ -33089,7 +33829,7 @@ persons:
       note: Secretary General
   safak-pavey:
     born: 1976
-    nationality: TR
+    nationality: TUR
     note: MP Turkey since 2011. Former Head of Secretariat UN High Commissioner Human Rights. NATO Parliamentary Assembly.
       2012 International Woman of Courage Award.
     affiliations:
@@ -33191,7 +33931,7 @@ persons:
       to: 1992
       note: BA Public Administration
   salman-bin-khalifa-al-khalifa:
-    nationality: bahrain
+    nationality: BHR
     family: al-khalifa
     note: Minister of Finance and National Economy. Chairman Mumtalakat Board.
     affiliations:
@@ -33388,6 +34128,15 @@ persons:
     - org: central-group
       role: chairman
       note: Chairman 21 years
+  samuel-bronfman:
+    born: 1889
+    died: 1971
+    nationality: CAN
+    affiliations:
+    - org: seagram
+      role: founder
+      from: 1924
+      to: 1971
   samuel-hoare:
     born: 1880
     died: 1959
@@ -33404,6 +34153,11 @@ persons:
       from: 1917
       to: 1918
       note: Capo stazione Roma, 100 agenti
+    - org: mi5
+      role: station-chief
+      from: 1917
+      to: 1918
+      note: Capo MI5 Roma
     relations:
     - person: benito-mussolini
       type: handler
@@ -33528,6 +34282,13 @@ persons:
       role: founder
       from: 2005
       note: Co-founder, General Partner
+  sara-bronfman:
+    born: 1976
+    nationality: USA
+    relations:
+    - person: edgar-bronfman-sr
+      type: child
+      note: daughter of Edgar Sr, 3rd marriage
   sara-menker:
     nationality: USA
     note: Founder/CEO Gro Intelligence. Former VP Morgan Stanley Commodities. Trustee Mandela Institute. African Leadership
@@ -34289,7 +35050,7 @@ persons:
       type: successor
       note: Successor as Mossad Director 1989
   shaffi-mather:
-    nationality: AE
+    nationality: ARE
     note: Founded emergency ambulance service India (Dial 1298). Founded MUrgency. TED Fellow. BMW Foundation World Responsible
       Leader.
     affiliations:
@@ -34334,12 +35095,24 @@ persons:
       note: Ultimo PM, 37 giorni. Assassinato a Parigi 1991 da agenti iraniani. | PM
   shari-arison:
     born: 1957
-    nationality: ISR-USA
+    nationality: USA-ISR
     affiliations:
     - org: bank-hapoalim
       role: owner
       from: 1999
       to: 2019
+    - org: shikun-binui
+      role: chairman
+      from: 1999
+      note: Owner via Arison Group, inherited from Ted Arison
+    - org: arison-investments
+      role: chairman
+      from: 1999
+      note: Inherited from Ted Arison
+    relations:
+    - person: ted-arison
+      type: child
+      note: daughter, inherited Israeli assets
   sharmeen-obaid-chinoy:
     born: 1978
     nationality: PAK
@@ -34357,7 +35130,7 @@ persons:
       note: Co-initiator with Felix Dothan
   sheikh-maktoum-bin-mohammed:
     born: 1983
-    nationality: UAE
+    nationality: ARE
     note: Vice PM Dubai
     affiliations:
     - org: wef
@@ -34365,7 +35138,7 @@ persons:
       from: 2023
   sheikh-tahnoun-bin-zayed:
     born: 1968
-    nationality: UAE
+    nationality: ARE
     affiliations:
     - org: mubadala
       role: board
@@ -34396,7 +35169,7 @@ persons:
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
   sheikha-shamma-bint-sultan:
-    nationality: UAE
+    nationality: ARE
     note: Head UAE Climate Change Accelerators
     affiliations:
     - org: wef
@@ -34528,7 +35301,14 @@ persons:
     - org: governo-israele
       role: minister
       note: Foreign Minister, Prime Minister, President
+    - org: lakam
+      role: founder
+      from: 1957
+      note: Founded LAKAM as Ministry of Defense official
     relations:
+    - person: arnon-milchan
+      type: recruiter
+      note: Recruited Milchan for LAKAM in 1960s
     - person: yitzhak-rabin
       type: colleague
       note: Rivale/partner politico, co-laureato Nobel
@@ -34856,7 +35636,7 @@ persons:
       to: 1973
       note: Founder, President & CEO
   soichiro-minami:
-    nationality: JP
+    nationality: JPN
     note: Former Morgan Stanley investment banker. Founding member Rakuten Eagles baseball team. Founded BizReach, LUXA, RegionUP.
     affiliations:
     - org: wef
@@ -34927,7 +35707,7 @@ persons:
     - org: ciff
       role: executive
   sontiyan-chuenruetainaidhama:
-    nationality: thailandese
+    nationality: THA
     affiliations:
     - org: nation-thailand
       role: owner
@@ -35390,7 +36170,7 @@ persons:
       role: founder
       from: 1918
   steve-arora:
-    nationality: JP
+    nationality: JPN
     note: President Swiss Re Japan. YGL class 2015. Various roles in reinsurance, lending, private equity.
     affiliations:
     - org: wef
@@ -35540,6 +36320,14 @@ persons:
       from: 1973
       to: 2006
       note: Trustee, Chair 1998-2006
+  steven-spielberg:
+    born: 1946
+    nationality: USA
+    affiliations:
+    - org: mega-group
+      role: member
+      from: 1991
+      note: Hollywood director
   steven-van-rijswijk:
     nationality: NLD
     affiliations:
@@ -35934,7 +36722,7 @@ persons:
       note: Entrambi fondatori Trilateral Giappone
   taha-mikati:
     born: 1948
-    nationality: Lebanese
+    nationality: LBN
     note: 'Co-founder Investcom/M1 Group. Forbes 2025: $2.8B'
     affiliations:
     - org: m1-group
@@ -36172,7 +36960,7 @@ persons:
     family: thomson
   taymour-jumblatt:
     born: 1982
-    nationality: Lebanese
+    nationality: LBN
     note: Leader PSP dal 2023, figlio di Walid
     affiliations:
     - org: psp
@@ -36185,7 +36973,30 @@ persons:
     affiliations:
     - org: bank-hapoalim
       role: owner
+      from: 1997
+      to: 1999
+      note: Acquired 43% in $1.4B privatization, largest in Israeli history
+    - org: aub
+      role: alumni
+      note: Commerce and Economics
+    - org: shikun-binui
+      role: chairman
       from: 1996
+      to: 1999
+      note: Acquired from Histadrut in privatization
+    - org: carnival-corporation
+      role: founder
+      from: 1972
+      to: 1999
+      note: Founded as Carnival Cruise Lines
+    - org: miami-heat
+      role: founder
+      from: 1988
+      to: 1999
+      note: Founded NBA team
+    - org: arison-investments
+      role: founder
+      from: 1990
       to: 1999
   ted-kennedy:
     born: 1932
@@ -36573,6 +37384,10 @@ persons:
       from: 1911
       to: 1948
       note: Partner 1911, Chairman 1943-1948
+    - org: jp-morgan-co
+      role: partner
+      from: 1911
+      to: 1948
   thomas-leysen:
     born: 1960
     nationality: BEL
@@ -36598,6 +37413,13 @@ persons:
       role: executive
       from: 2016
       note: President and CEO
+  thomas-mckittrick:
+    nationality: USA
+    affiliations:
+    - org: bis
+      role: president
+      from: 1940
+      to: 1946
   thomas-pesquet:
     born: 1978
     nationality: FRA
@@ -36687,7 +37509,7 @@ persons:
       to: 1989
       note: Foreign Minister 1987-89, 1990-93; Defence Minister 1979-81
   tian-ning:
-    nationality: CN
+    nationality: CHN
     note: Founded Panshi 1999, largest Chinese web alliance. Secretary-General Hangzhou International Chamber of Commerce.
     affiliations:
     - org: wef
@@ -36835,7 +37657,7 @@ persons:
   tito-mboweni:
     born: 1959
     died: 2024
-    nationality: ZA
+    nationality: ZAF
     affiliations:
     - org: goldman-sachs
       role: advisor
@@ -37084,7 +37906,7 @@ persons:
       type: mentor
       note: Colleghi Banca Italia, Draghi lo definisce "amico e maestro"
   tong-zhilei:
-    nationality: CN
+    nationality: CHN
     note: Founded Fanso 1999. Founded ChineseAll 2000. VP China Copyright Association.
     affiliations:
     - org: wef
@@ -37287,6 +38109,13 @@ persons:
     relations:
     - person: cyril-ramaphosa
       type: spouse
+  tullio-cianetti:
+    nationality: ITA
+    affiliations:
+    - org: governo-italiano
+      role: corporations-minister
+      from: 1939
+      to: 1943
   turki-al-faisal:
     born: 1945
     nationality: SAU
@@ -38092,6 +38921,13 @@ persons:
       role: member
       from: 2014
       note: Mayor Kyiv, regular Davos speaker
+  vittorio-cini:
+    nationality: ITA
+    affiliations:
+    - org: governo-italiano
+      role: communications-minister
+      from: 1943
+      to: 1943
   vittorio-colao:
     born: 1961
     nationality: ITA
@@ -38144,6 +38980,13 @@ persons:
       role: chairman
       from: 2025
       note: Presidente post-OPS MPS
+  vittorio-valletta:
+    nationality: ITA
+    affiliations:
+    - org: fiat
+      role: ceo
+      from: 1928
+      to: 1966
   vivek-kundra:
     nationality: USA
     note: First United States CIO under Obama. Managed $80B tech investments. Executive VP Salesforce. Council on Foreign
@@ -38363,7 +39206,7 @@ persons:
       role: leader
       from: 2019
   vuk-jeremic:
-    nationality: RS
+    nationality: SRB
     note: President UN General Assembly 67th session 2012. Serbia Foreign Minister 2007-12. President CIRSD.
     affiliations:
     - org: wef
@@ -38393,7 +39236,7 @@ persons:
       from: 2023
       note: CEO
   wafa-al-obaidat:
-    nationality: bahrain
+    nationality: BHR
     note: CEO Obai and Hill. WEF Young Global Leader 2023.
     affiliations:
     - org: wef
@@ -38415,7 +39258,7 @@ persons:
       from: 2025
   walid-jumblatt:
     born: 1949
-    nationality: Lebanese
+    nationality: LBN
     note: Leader PSP 1977-2023, ministro più volte. AUB 1972. Consegna armi allo Stato 2025
     affiliations:
     - org: aub
@@ -38519,7 +39362,7 @@ persons:
       from: 1940
       to: 2001
   wan-tailei:
-    nationality: CN
+    nationality: CHN
     note: Former Chinese Foreign Ministry. Former investment banker Citics (largest in China). Focus on financial market reform.
     affiliations:
     - org: wef
@@ -38975,7 +39818,7 @@ persons:
       role: founder
       from: 1832
   william-saito:
-    nationality: JP
+    nationality: JPN
     note: Authority on encryption/biometrics. Sold company to Microsoft. CTO Fukushima Nuclear Investigation Commission. Ernst
       & Young Entrepreneur of the Year 1998.
     affiliations:
@@ -39362,6 +40205,12 @@ persons:
       role: chairman
       from: 2018
       note: Deputy Chair, Rotating Chairman Apr-Sep 2025
+  yaakov-levinson:
+    nationality: ISR
+    affiliations:
+    - org: bank-hapoalim
+      role: executive
+      note: Manager, led stock price manipulation in 1970s-80s
   yadin-antebi:
     born: 1970
     nationality: ISR
@@ -39573,6 +40422,14 @@ persons:
       role: alumni
       from: 2001
       note: Class of 2001, co-founder Wiz
+  yitzhak-ben-aharon:
+    nationality: ISR
+    affiliations:
+    - org: histadrut
+      role: executive
+      from: 1969
+      to: 1973
+      note: Secretary General
   yitzhak-hofi:
     born: 1927
     died: 2014
@@ -40209,7 +41066,7 @@ persons:
       from: 2025
       note: President
   zubaida-bai:
-    nationality: IN
+    nationality: IND
     note: Maternal Health Fellow Ashoka. TED and Echoing Green Fellow.
     affiliations:
     - org: wef

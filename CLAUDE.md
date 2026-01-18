@@ -163,6 +163,20 @@ RETURN path
 
 **Ruoli comuni**: leader, minister, executive, chairman, founder, board, partner, advisor, member, steering, ygl, glt
 
+**Nationality**: Usa sempre codici ISO 3166-1 alpha-3, mai acronimi comuni:
+
+| Paese | NON usare | Usa |
+|-------|-----------|-----|
+| United Arab Emirates | `UAE` | `ARE` |
+| United Kingdom | `UK` | `GBR` |
+| South Africa | `SA` | `ZAF` |
+| South Korea | `SK` | `KOR` |
+| Mexico | `MX` | `MEX` |
+| China | `CN` | `CHN` |
+| Japan | `JP` | `JPN` |
+
+Doppia nazionalita': `ISO-ISO` (es. `DEU-USA`, `FRA-LBN`)
+
 Per dettagli completi (enum, mapping, validazione) vedi `db/schema.yaml`.
 
 ---

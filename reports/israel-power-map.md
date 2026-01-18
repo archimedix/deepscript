@@ -138,7 +138,7 @@ Netanyahu ha annunciato un piano decennale da $110 miliardi per l'autosufficienz
 | [Wertheimer](../docs/family/wertheimer-israel.md) | Manifattura | $7.6B | [ISCAR](../docs/company/iscar.md) | Berkshire Hathaway (Warren Buffett) |
 | [Steinmetz](../docs/family/steinmetz.md) | Diamanti, Mining | $1.5B | BSGR, Diacore | Africa, Guinea |
 | [Tshuva](../docs/family/tshuva.md) | Energia, RE | $4.6B | Delek Group, El-Ad | Gas naturale |
-| [Arison](../docs/family/arison.md) | Shipping, Banking | $3B | Bank Hapoalim | Ted Arison → Carnival |
+| [Arison](../docs/family/arison.md) | Cruise, Banking, Costruzioni | $10B+ (al picco) | [Bank Hapoalim](../docs/bank/bank-hapoalim.md), [Shikun & Binui](../docs/company/shikun-binui.md), Carnival Corp | Privatizzazioni anni '90, Miami Heat |
 
 #### Focus: La Dinastia Wertheimer e il Modello Buffett
 
@@ -166,6 +166,141 @@ La famiglia Wertheimer rappresenta il modello ideale di **dinastia industriale i
 **I 7 Parchi Industriali**: Tefen, Tel Hai, Dalton, Lavon, Nazareth, Omer (Negev), Gebze (Turchia)
 
 **Connessione Berkshire**: Warren Buffett defini' ISCAR "pride and joy" di Berkshire Hathaway - prima acquisizione importante fuori dagli USA.
+
+#### Focus: La Dinastia Arison e le Grandi Privatizzazioni
+
+> Vedi schede: [Ted Arison](../docs/persons/ted-arison.md), [Shari Arison](../docs/persons/shari-arison.md), [Micky Arison](../docs/persons/micky-arison.md)
+
+La famiglia Arison rappresenta il ponte tra **capitalismo americano** e **privatizzazioni israeliane**. [Ted Arison](../docs/persons/ted-arison.md), fondatore di Carnival Cruise Lines, torno' in Israele nel 1990 e acquisto' i gioielli dell'era Histadrut.
+
+**Timeline della Dinastia:**
+
+| Anno | Evento | Protagonista |
+|------|--------|--------------|
+| **1924** | Nascita a Tel Aviv | Ted Arison |
+| **1948** | Servizio IDF, Guerra Indipendenza | Ted (Tenente Colonnello) |
+| **1952** | Emigrazione negli USA | Ted |
+| **1966** | Co-fonda Norwegian Cruise Lines | Ted + Knut Kloster |
+| **1972** | Fonda Carnival Cruise Lines | Ted + Meshulam Riklis |
+| **1988** | Carnival #1 mondiale, fonda Miami Heat | Ted |
+| **1990** | **Rinuncia cittadinanza USA**, torna in Israele | Ted (tax planning) |
+| **1996** | **Acquista Shikun & Binui** (privatizzazione Histadrut) | Ted |
+| **1997** | **Acquista 43% Bank Hapoalim** per $1.37B | Ted (record privatizzazione) |
+| **1999** | Morte Ted, eredita' divisa | Micky (USA), Shari (Israel) |
+| **2024** | Shari esce da Bank Hapoalim | Fine era Arison in banca |
+
+**Pattern Arison**: Ted sfrutto' la sua ricchezza americana per acquisire asset israeliani privatizzati negli anni '90. Controllava simultaneamente il **piu' grande creditore** (Bank Hapoalim) e uno dei **piu' grandi debitori** (Shikun & Binui) di Israele.
+
+**Eredita' divisa (1999):**
+- **Micky Arison** (USA): Carnival Corporation (CEO 1979-2013, Chairman), Miami Heat
+- **Shari Arison** (Israele): Arison Investments, Bank Hapoalim, Shikun & Binui → [Solel Boneh](../docs/company/solel-boneh.md)
+
+> La privatizzazione Bank Hapoalim (1997) fu la piu' grande nella storia israeliana e segno' la fine dell'economia Histadrut.
+
+#### Focus: L'Impero Histadrut - Solel Boneh, Koor e Bank Hapoalim
+
+> Vedi schede: [Histadrut](../docs/forum/histadrut.md), [Solel Boneh](../docs/company/solel-boneh.md), [Koor Industries](../docs/company/koor-industries.md), [Bank Hapoalim](../docs/bank/bank-hapoalim.md)
+
+Prima delle privatizzazioni, l'**Histadrut** (fondata 1920) era molto piu' di un sindacato: attraverso **Hevrat HaOvdim** controllava un impero economico che rappresentava il 10% del PIL israeliano.
+
+**L'Impero Hevrat HaOvdim:**
+
+```
+                    HISTADRUT (1920)
+                          |
+                   Hevrat HaOvdim
+                   (Workers' Society)
+                          |
+     +--------------------+--------------------+
+     |                    |                    |
+     v                    v                    v
+COSTRUZIONI          INDUSTRIA            FINANZA
+     |                    |                    |
+     v                    v                    v
+Solel Boneh (1924)  Koor (1944)     Bank Hapoalim (1921)
+     |                    |                    |
+     +----+               |                    |
+     |    |               |                    |
+     v    v               v                    v
+  Infra- Opera-    +------+------+      Assorbimento
+  strut- tion      |      |      |      immigrati,
+  ture   Entebbe   v      v      v      credito
+  Africa (1976)  Tadiran Tnuva  ZIM     cooperativo
+```
+
+**Solel Boneh - La Compagnia Costruttrice dello Stato:**
+
+[Solel Boneh](../docs/company/solel-boneh.md) (1924) costrui' fisicamente Israele: strade, insediamenti, aeroporti. Nel 1944 creo' **Koor Industries** come braccio industriale.
+
+| Connessione | Dettaglio |
+|-------------|-----------|
+| **Operation Entebbe (1976)** | Solel Boneh costrui' il terminale di Entebbe (Uganda). Le planimetrie, conservate in Israele, furono usate per pianificare il raid che libero' 102 ostaggi. |
+| **Africa (1958-70s)** | Su impulso di Golda Meir, Solel Boneh opero' in Nigeria, Ghana, Uganda, Kenya - strumento di soft power israeliano. |
+| **Koor Industries** | Spin-off 1944, separata 1958. Divenne il piu' grande conglomerato industriale israeliano. |
+
+**Crisi Bancaria 1983 - Fine dell'Era Socialista:**
+
+La **crisi del 1983** segno' la fine dell'economia Histadrut. Le banche israeliane (Hapoalim, Leumi, Discount) manipolavano i propri prezzi azionari dagli anni '70.
+
+| Data | Evento |
+|------|--------|
+| **6 Ott 1983** | "Giovedi' Nero" - crollo azionario |
+| **6-24 Ott** | Borsa Tel Aviv chiusa 18 giorni |
+| **1983** | Nazionalizzazione banche (costo: $6.9B, 25% PIL) |
+| **1986** | Commissione Beisky: condanne per manipolazione |
+| **1997** | Privatizzazione Bank Hapoalim → Ted Arison |
+
+> La crisi 1983 fu il punto di svolta: da economia controllata dalla Histadrut a capitalismo di mercato. Le privatizzazioni anni '90 (Koor, Bank Hapoalim, Shikun & Binui) completarono la transizione.
+
+#### Focus: Koor Industries - Dal Socialismo a Bronfman
+
+> Vedi schede: [Koor Industries](../docs/company/koor-industries.md), [Benjamin Gaon](../docs/persons/benjamin-gaon.md), [Jonathan Kolber](../docs/persons/jonathan-kolber.md)
+
+[Koor Industries](../docs/company/koor-industries.md), creata da [Solel Boneh](../docs/company/solel-boneh.md) nel 1944, divenne il piu' grande conglomerato industriale israeliano. La sua privatizzazione rappresenta l'ingresso del capitale straniero (Disney, Bronfman) nell'economia israeliana.
+
+**Timeline della Privatizzazione Koor:**
+
+| Anno | Evento | Protagonista |
+|------|--------|--------------|
+| **1944** | Fondazione Koor (braccio industriale Histadrut) | Solel Boneh |
+| **1968-77** | [Meir Amit](../docs/persons/meir-amit.md) CEO (post-Mossad) | Intelligence → Industria |
+| **1987** | Crisi: 32.000 dipendenti, $1.2B debito, 130 societa' | - |
+| **1988** | [Benjamin Gaon](../docs/persons/benjamin-gaon.md) CEO, ristrutturazione | -40% workforce |
+| **1995** | **Shamrock Holdings (Disney)** acquisisce 22.5% per $252M | Capitale USA |
+| **1997** | **Claridge Group (Bronfman)** sostituisce Shamrock | Capitale Canada |
+| **1998** | [Jonathan Kolber](../docs/persons/jonathan-kolber.md) CEO | Figlio del "consigliere" Bronfman |
+| **2006** | Vendita a IDB Group | Fine era Bronfman |
+| **2013** | Fusione in Discount Investment Corporation | Dissoluzione |
+
+**La Connessione Kolber-Bronfman:**
+
+```
+Samuel Bronfman (Seagram)
+        |
+        v
+Charles Bronfman ──────► Leo Kolber ("consigliere", Senatore Canada)
+        |                       |
+        v                       v
+   Claridge Group          Jonathan Kolber
+        |                       |
+        └──────────┬────────────┘
+                   v
+            Claridge Israel (1986)
+                   |
+                   v
+            Koor Industries (1997-2006)
+```
+
+[Leo Kolber](../docs/persons/leo-kolber.md), senatore canadese e "consigliere" della famiglia Bronfman, gestì i loro investimenti per decenni. Suo figlio [Jonathan Kolber](../docs/persons/jonathan-kolber.md) fondo' Claridge Israel nel 1986, crescendola da $50M a $700M con exit in Teva, ECI Telecom, Osem. Nel 1997 Claridge acquisì Koor, con Jonathan come CEO dal 1998.
+
+**Pattern storico**: La privatizzazione Koor segna il passaggio da **economia socialista Histadrut** a **capitalismo internazionale**. Il capitale straniero (Disney, Bronfman) entro' in Israele attraverso le privatizzazioni degli anni '90, creando le condizioni per la "Start-up Nation".
+
+**Subsidiaries storiche Koor:**
+- [Tadiran](../docs/defense/tadiran.md) (defense electronics, 63%)
+- [Makhteshim-Agan](../docs/companies/makhteshim-agan.md) (agrochemicals, 68% - ora ADAMA/ChemChina)
+- Telrad (telecom)
+- ECI Telecom
+- Nesher Cement
 
 ### 2. Il Complesso Difesa-Intelligence
 
@@ -269,6 +404,52 @@ Droni, mortai ────────────► Iron Beam    ◄───�
 
 > L'operazione Cohen rimane il gold standard dello spionaggio israeliano: un agente che raggiunse i vertici di un governo nemico.
 
+#### LAKAM: L'Agenzia Segreta per il Nucleare (1957-1986)
+
+> Vedi scheda completa: [LAKAM](../docs/agencies/lakam.md)
+
+Il **Bureau of Scientific Relations** (LAKAM) fu l'agenzia piu' segreta di Israele, creata per acquisire tecnologia nucleare. Operava separatamente da Mossad/Shin Bet, rispondendo direttamente al PM.
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1957 da [Shimon Peres](../docs/persons/shimon-peres.md) |
+| **Missione** | Acquisizione tecnologia/materiali nucleari |
+| **Segretezza** | Perfino Isser Harel non ne conosceva l'esistenza |
+| **Scioglimento** | 1986 (scandalo Pollard) |
+
+**Leadership LAKAM:**
+
+| Periodo | Direttore | Operazioni Chiave |
+|---------|-----------|-------------------|
+| **1957-1981** | [Benjamin Blumberg](../docs/persons/benjamin-blumberg.md) | Fondazione, rete agenti |
+| **1981-1986** | [Rafi Eitan](../docs/persons/rafi-eitan.md) | Caso Pollard, NUMEC |
+
+**Operazioni Chiave:**
+
+| Operazione | Periodo | Agente | Risultato |
+|------------|---------|--------|-----------|
+| **NUMEC Affair** | 1968 | [Rafi Eitan](../docs/persons/rafi-eitan.md) | ~91 kg uranio arricchito "scomparso" |
+| **Krytron Smuggling** | 1979-83 | [Arnon Milchan](../docs/persons/arnon-milchan.md) | ~1000 detonatori nucleari via MILCO |
+| **Caso Pollard** | 1984-85 | [Jonathan Pollard](../docs/persons/jonathan-pollard.md) | Documenti CIA/NSA/DoD; ergastolo |
+
+**Il Network Milchan:**
+
+[Arnon Milchan](../docs/persons/arnon-milchan.md), produttore Hollywood (Pretty Woman, Fight Club, 12 Years a Slave), fu per oltre 20 anni il "Chuck Norris del LAKAM":
+- 30 front company in 17 paesi
+- Contrabbando krytron via MILCO (California)
+- Oggi coinvolto nel **Case 1000** (regali a Netanyahu)
+
+**Lo Scandalo Pollard:**
+
+[Jonathan Pollard](../docs/persons/jonathan-pollard.md), analista US Navy, fu reclutato da [Rafi Eitan](../docs/persons/rafi-eitan.md) nel 1984. Passo' enormi quantita' di documenti classificati. Arresto 1985 → Ergastolo → Rilasciato 2015 → Emigrato in Israele 2020.
+
+Conseguenze:
+- LAKAM sciolto (1986)
+- Scuse ufficiali PM Peres
+- Crisi diplomatica USA-Israele durata decenni
+
+> [Rafi Eitan](../docs/persons/rafi-eitan.md) e' una figura leggendaria: cattura di Eichmann (1960), furto uranio NUMEC (1968), caso Pollard (1985). Dal Palmach al Mossad al LAKAM, incarna 50 anni di operazioni clandestine israeliane.
+
 ### 3. La Pipeline Cyber: Unit 8200 → Silicon Valley
 
 La Unit 8200 e' il "motore" della Start-up Nation. Alumni hanno fondato aziende per oltre $160 miliardi di valore:
@@ -281,8 +462,23 @@ La Unit 8200 e' il "motore" della Start-up Nation. Alumni hanno fondato aziende 
 | [Assaf Rappaport](../docs/persons/assaf-rappaport.md) | Wiz | $32B (Google) | 2024 |
 | [Shalev Hulio](../docs/persons/shalev-hulio.md) | NSO Group | Controverso | 2010 |
 | [Omri Lavie](../docs/persons/omri-lavie.md) | NSO Group | Controverso | 2010 |
+| [Ehud Schneorson](../docs/persons/ehud-schneorson.md) | **Paragon Solutions** | $900M (AE Industrial) | 2019 |
 
 > **Pattern**: 50% dei founder di exit >$100M sono alumni Unit 8200. Media acquisizione: $317M.
+
+#### Il Caso Paragon: Da Unit 8200 a Spyware Globale
+
+[Ehud Schneorson](../docs/persons/ehud-schneorson.md), comandante Unit 8200 fino al 2017, ha co-fondato [Paragon Solutions](../docs/companies/paragon.md) con [Ehud Barak](../docs/persons/ehud-barak.md) (ex-PM e capo IDF).
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 2019 |
+| **Co-fondatori** | Schneorson, Barak, Idan Nurick, Igor Bogudlov, Liad Avraham |
+| **Prodotto** | Graphite (spyware zero-click per WhatsApp/Telegram) |
+| **Exit** | $900M ad AE Industrial Partners (2024) |
+| **Controversia** | Scandalo Italia 2025: 90 giornalisti/attivisti spiati |
+
+**Pattern Intelligence → Spyware:** La vendita ha "infuriato l'elite intelligence israeliana" per rischi alla sicurezza nazionale - tecnologia sviluppata con know-how militare ceduta a private equity USA.
 
 ---
 
@@ -297,6 +493,68 @@ La Unit 8200 e' il "motore" della Start-up Nation. Alumni hanno fondato aziende 
 **Figure chiave USA-Israel:**
 - [James Angleton](../docs/persons/james-angleton.md) (CIA) - liaison Mossad 1951-1975
 - [Yossi Cohen](../docs/persons/yossi-cohen.md) - ex Mossad, ora SoftBank
+
+#### Il Mega Group: Network Billionari Ebrei Americani
+
+> Vedi scheda completa: [Mega Group](../docs/forum/mega-group.md)
+
+Il [Mega Group](../docs/forum/mega-group.md) (o "Study Group") e' un network esclusivo di ~20-50 billionari ebrei americani fondato nel 1991 da [Leslie Wexner](../docs/persons/leslie-wexner.md) (L Brands) e [Charles Bronfman](../docs/persons/charles-bronfman.md) (Seagram). Si riunisce due volte l'anno per coordinare filantropia e supporto a Israele.
+
+**Membri chiave:**
+
+| Nome | Settore | Connessione Israel |
+|------|---------|-------------------|
+| [Leslie Wexner](../docs/persons/leslie-wexner.md) | Retail (L Brands) | Wexner Foundation Israel Fellowship |
+| [Charles Bronfman](../docs/persons/charles-bronfman.md) | Liquori/Media | Chairman Koor, co-founder Birthright |
+| [Edgar Bronfman Sr.](../docs/persons/edgar-bronfman-sr.md) | Seagram, WJC | Presidente World Jewish Congress |
+| [Michael Steinhardt](../docs/persons/michael-steinhardt.md) | Hedge Fund | Co-founder Birthright Israel |
+| [Ronald Lauder](../docs/persons/ronald-lauder.md) | Cosmetici | Presidente WJC, Amb. Austria |
+| [Lester Crown](../docs/persons/lester-crown.md) | Difesa/Sport | General Dynamics, investimenti Israel |
+| [Steven Spielberg](../docs/persons/steven-spielberg.md) | Cinema | Shoah Foundation |
+
+**Iniziative pro-Israel finanziate:**
+
+| Iniziativa | Anno | Impatto |
+|------------|------|---------|
+| **Birthright Israel** | 1999 | 700.000+ giovani ebrei in viaggi gratuiti |
+| **Hillel International** | 1994 | $1.3M/anno per 5 anni, campus USA |
+| **PEJE** | 1996 | Scuole ebraiche day school |
+| **Wexner Israel Fellowship** | 1989 | Leader israeliani a Harvard Kennedy School |
+
+**Controversia Epstein**: [Leslie Wexner](../docs/persons/leslie-wexner.md), co-fondatore del Mega Group, fu per 20 anni il principale patron finanziario di [Jeffrey Epstein](../docs/persons/jeffrey-epstein.md) ($200M+, power of attorney 1991-2007). Epstein avrebbe usato l'ambiente del Mega Group per costruire la sua rete di contatti. Wexner si dimise da CEO L Brands nel 2020 dopo lo scandalo. Nel gennaio 2026 e' stato citato a deporre dalla House Oversight Committee.
+
+**Pattern**: Il Mega Group rappresenta il **soft power** ebraico-americano verso Israele - filantropia coordinata che forma leader (Wexner Fellowship), costruisce identita' (Birthright), e mantiene legami diaspora-Israel.
+
+### Canada: La Connessione Bronfman
+
+La famiglia Bronfman (Seagram) ha avuto un ruolo chiave nell'apertura di Israele al capitale internazionale, operando su due fronti: **investimenti diretti** (Claridge → Koor) e **filantropia coordinata** (Mega Group → Birthright).
+
+| Persona | Ruolo | Connessione Israel |
+|---------|-------|--------------------|
+| [Charles Bronfman](../docs/persons/charles-bronfman.md) | Co-chairman Seagram, co-founder Mega Group | Chairman Koor (1997-2002), co-founder Birthright Israel |
+| [Edgar Bronfman Sr.](../docs/persons/edgar-bronfman-sr.md) | Chairman Seagram, presidente WJC | World Jewish Congress, Mega Group member |
+| [Leo Kolber](../docs/persons/leo-kolber.md) | Senatore Canada, "consigliere" Bronfman | Padre di Jonathan, gestì investimenti Bronfman |
+| [Jonathan Kolber](../docs/persons/jonathan-kolber.md) | Co-founder Claridge Israel | CEO Koor (1998-2006), oggi chairman Fiverr, Taboola |
+
+**Exit Claridge Israel:** Teva Pharmaceuticals, ECI Telecom, Osem, Optrotech - da $50M a $700M in 11 anni.
+
+**Dual Track Bronfman:**
+```
+FAMIGLIA BRONFMAN (Seagram $35B → Vivendi 2000)
+            |
+    +-------+-------+
+    |               |
+    v               v
+INVESTIMENTI     FILANTROPIA
+(hard power)     (soft power)
+    |               |
+    v               v
+Claridge →      Mega Group →
+Koor Industries   Birthright Israel
+(1997-2006)       (1999-)
+```
+
+**Pattern**: Il capitale dinastico canadese (Bronfman) entro' in Israele attraverso le privatizzazioni Histadrut, creando un ponte finanziario Nord America-Israel che precede di decenni la pipeline tech attuale. La vendita disastrosa di Seagram a Vivendi (2000) non interruppe l'impegno filantropico: Birthright Israel continua a operare.
 
 ### UAE: Abraham Accords e Nuovo Asse
 
@@ -351,10 +609,14 @@ Pattern distintivo israeliano: ex-capi intelligence e ministri entrano in posizi
 
 | Persona | Ruolo Intelligence | Ruolo Business |
 |---------|-------------------|----------------|
+| [Meir Amit](../docs/persons/meir-amit.md) | **Capo Mossad (1963-68)**, Capo Aman | **CEO Koor Industries (1968-77)**, Ministro |
+| [Rafi Eitan](../docs/persons/rafi-eitan.md) | Mossad Ops Chief, LAKAM Director | Israel Chemicals CEO, Knesset |
 | [Ehud Barak](../docs/persons/ehud-barak.md) | Capo IDF, PM | Carbyne, Toka, Paragon |
+| [Ehud Schneorson](../docs/persons/ehud-schneorson.md) | Comandante Unit 8200 | Paragon co-founder, Blumberg Capital |
 | [Yossi Cohen](../docs/persons/yossi-cohen.md) | Capo Mossad | SoftBank Israel, consigliere Netanyahu |
 | [Benny Gantz](../docs/persons/benny-gantz.md) | Capo IDF, Min. Difesa | Fifth Dimension (pre-politica) |
 | [Ram Ben-Barak](../docs/persons/ram-ben-barak.md) | Vice Mossad | Fifth Dimension advisor |
+| [Arnon Milchan](../docs/persons/arnon-milchan.md) | Agente LAKAM (20+ anni) | Hollywood producer, Regency Enterprises |
 
 ### Politica → Industria Difesa
 
@@ -402,15 +664,30 @@ RAFAEL CHAIRMAN (2023-)
 | Persona | Connessioni | Settori |
 |---------|-------------|---------|
 | [Benjamin Netanyahu](../docs/persons/benjamin-netanyahu.md) | 8 | Governo (x3), IDF, MIT, ONU, WEF, Likud |
-| [Ehud Barak](../docs/persons/ehud-barak.md) | 7 | Governo, IDF, Cyber, WEF |
+| [Rafi Eitan](../docs/persons/rafi-eitan.md) | 7 | Haganah, Palmach, Shin Bet, Mossad, LAKAM, Governo, Knesset |
+| [Ehud Barak](../docs/persons/ehud-barak.md) | 7 | Governo, IDF, Cyber, WEF, Paragon |
 | [Vladimir Gusinsky](../docs/persons/vladimir-gusinsky.md) | 7 | Media, Russia-Israel |
 | [Ben Gurion](../docs/persons/ben-gurion.md) | 6 | Fondatore, IDF, Jewish Agency |
 | [Yossi Cohen](../docs/persons/yossi-cohen.md) | 6 | Mossad, Governo, SoftBank, CIA |
+| [Arnon Milchan](../docs/persons/arnon-milchan.md) | 6 | LAKAM, Regency, Hollywood, Netanyahu (Case 1000) |
 | [Yuval Steinitz](../docs/persons/yuval-steinitz.md) | 5 | Governo (x4), Knesset, Rafael, Iran dossier |
 | [Michael Federmann](../docs/persons/michael-federmann.md) | 5 | Elbit, Difesa, Sayeret Matkal |
+| [Ehud Schneorson](../docs/persons/ehud-schneorson.md) | 4 | Unit 8200, IDF, Paragon, Blumberg Capital |
 | [Stef Wertheimer](../docs/persons/stef-wertheimer.md) | 4 | ISCAR, Rafael, Knesset, Berkshire |
+| [Jonathan Kolber](../docs/persons/jonathan-kolber.md) | 8 | Claridge Israel, Koor, Viola Group, Fiverr, Taboola, ADL, Harvard |
+| [Meir Amit](../docs/persons/meir-amit.md) | 5 | Aman, Mossad, Koor Industries, Knesset, Ministro |
 | [Boaz Levy](../docs/persons/boaz-levy.md) | 3 | IAI, Arrow program, ELTA Systems |
 | [Anatoly Chubais](../docs/persons/anatoly-chubais.md) | 4 | Russia-Israel, WEF |
+
+### Top Connettori USA-Israel (Mega Group Network)
+
+| Persona | Connessioni | Settori |
+|---------|-------------|---------|
+| [Leslie Wexner](../docs/persons/leslie-wexner.md) | 6 | L Brands, Mega Group, Wexner Foundation, Ohio State, Harvard, Epstein |
+| [Charles Bronfman](../docs/persons/charles-bronfman.md) | 7 | Seagram, Mega Group, Birthright Israel, Koor Industries, Claridge, ACBP |
+| [Michael Steinhardt](../docs/persons/michael-steinhardt.md) | 4 | Hedge Fund, Mega Group, Birthright Israel, Hillel |
+| [Ronald Lauder](../docs/persons/ronald-lauder.md) | 5 | Estee Lauder, Mega Group, WJC, Amb. Austria, Museum |
+| [Jeffrey Epstein](../docs/persons/jeffrey-epstein.md) | 6 | Bear Stearns, Wexner, Leon Black, Harvard, Bronfman, Maxwell |
 
 ---
 
@@ -450,8 +727,8 @@ RAFAEL CHAIRMAN (2023-)
 
 | Metrica | Valore |
 |---------|--------|
-| Persone israeliane nel DB | 60+ |
-| Organizzazioni israeliane | 34+ |
+| Persone israeliane nel DB | 65+ |
+| Organizzazioni israeliane | 36+ |
 | Famiglie israeliane | 6 |
 | Miliardari Forbes 2025 | 41 |
 | **Triangolo Difesa ricavi 2024** | **$17.7B** |
@@ -462,6 +739,20 @@ RAFAEL CHAIRMAN (2023-)
 | Exit tech 2024 (Wiz) | $32B |
 | Patrimonio Ofer (top) | $50B+ |
 | **Iron Beam costo per shot** | **$3** |
+
+---
+
+## Eventi Storici Chiave
+
+| Anno | Evento | Impatto sul Potere |
+|------|--------|-------------------|
+| **1920** | Fondazione Histadrut | Inizio economia socialista israeliana |
+| **1921** | Fondazione Bank Hapoalim | Braccio finanziario Histadrut |
+| **1924** | Fondazione Solel Boneh | Costruttore dello Stato |
+| **1944** | Fondazione Koor Industries | Braccio industriale Histadrut |
+| **1976** | [Operation Entebbe](../docs/events/1976-entebbe-raid.md) | Planimetrie Solel Boneh usate per raid |
+| **1983** | [Crisi bancaria israeliana](../docs/events/1983-israel-bank-crisis.md) | Nazionalizzazione banche, fine era Histadrut |
+| **1995-97** | Privatizzazioni (Koor, Bank Hapoalim, Shikun) | Transizione a capitalismo di mercato |
 
 ---
 
@@ -517,14 +808,44 @@ RAFAEL CHAIRMAN (2023-)
 - [Wikipedia - Eli Cohen](https://en.wikipedia.org/wiki/Eli_Cohen)
 - [Times of Israel - Eli Cohen archive recovered](https://www.timesofisrael.com/2500-items-belonging-to-executed-spy-eli-cohen-recovered-from-syria-by-mossad/)
 
+### LAKAM e Spionaggio Nucleare
+- [Wikipedia - Lekem](https://en.wikipedia.org/wiki/Lekem)
+- [GlobalSecurity - LAKAM](https://www.globalsecurity.org/intell/world/israel/lekem.htm)
+- [Britannica - Lekem Bureau](https://www.britannica.com/topic/Lekem-Bureau-of-Scientific-Relations)
+- [Wikipedia - Rafi Eitan](https://en.wikipedia.org/wiki/Rafi_Eitan)
+- [Foreign Policy - Rafi Eitan Obituary](https://foreignpolicy.com/2019/03/31/remembering-israels-most-celebrated-spy-rafi-eitan-mossad-pollard-eichmann/)
+- [Wikipedia - Jonathan Pollard](https://en.wikipedia.org/wiki/Jonathan_Pollard)
+- [National Security Archive - Pollard CIA Damage Assessment](https://nsarchive.gwu.edu/briefing-book/intelligence/2012-12-14/jonathan-pollard-spy-case-cias-1987-damage-assessment-declassified)
+- [Wikipedia - Arnon Milchan](https://en.wikipedia.org/wiki/Arnon_Milchan)
+- [Variety - Milchan Confirms Spy Past](https://variety.com/2013/film/news/fight-club-producer-arnon-milchan-confirms-israeli-spy-past-1200887616/)
+
+### Paragon e Spyware
+- [Wikipedia - Paragon Solutions](https://en.wikipedia.org/wiki/Paragon_Solutions)
+- [Citizen Lab - Graphite Spyware Analysis](https://citizenlab.ca/2025/03/a-first-look-at-paragons-proliferating-spyware-operations/)
+- [JNS - Paragon Sale Security Concerns](https://www.jns.org/israeli-cyber-firms-1-billion-exit-endangers-nations-security-intel-experts-say/)
+
 ### Lobby e Connessioni USA
 - [AIPAC Spending - The Intercept](https://theintercept.com/2024/10/24/aipac-spending-congress-elections-israel/)
+
+### Mega Group e Filantropia Ebraica USA
+- [Wikipedia - Study Group (Jewish group)](https://en.wikipedia.org/wiki/Study_Group_(Jewish_group))
+- [Wikipedia - Charles Bronfman](https://en.wikipedia.org/wiki/Charles_Bronfman)
+- [Wikipedia - Les Wexner](https://en.wikipedia.org/wiki/Les_Wexner)
+- [Times of Israel - Wexner-Epstein Relationship](https://www.timesofisrael.com/the-relationship-between-epstein-and-jewish-philanthropist-wexner-explained/)
+- [Wexner Foundation - Our Story](https://www.wexnerfoundation.org/our-story/)
+- [Senate Finance - Leon Black Investigation](https://www.finance.senate.gov/chairmans-news/wyden-unveils-ongoing-investigation-into-private-equity-billionaire-leon-blacks-tax-planning-and-financial-ties-with-jeffrey-epstein)
 
 ### UAE e Abraham Accords
 - [Abraham Accords Economic Dimension - Chatham House](https://www.chathamhouse.org/2023/03/abraham-accords-and-israel-uae-normalization/05-economic-dimension)
 
 ### Sistema Bancario
 - [Wikipedia - Banking in Israel](https://en.wikipedia.org/wiki/Banking_in_Israel)
+
+### Koor Industries e Privatizzazioni
+- [FundingUniverse - Koor Industries History](https://www.fundinguniverse.com/company-histories/koor-industries-ltd-history/)
+- [Encyclopedia.com - Koor Industries](https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/koor-industries-ltd)
+- [ION Asset Management - Jonathan Kolber](https://www.ion-am.com/jonathan-kolber)
+- [Canadian Encyclopedia - Leo Kolber](https://www.thecanadianencyclopedia.ca/en/article/leo-kolber)
 
 ### Difesa
 - [IAI - Sito ufficiale](https://www.iai.co.il)
@@ -539,6 +860,18 @@ RAFAEL CHAIRMAN (2023-)
 - [Wikipedia - Yuval Steinitz](https://en.wikipedia.org/wiki/Yuval_Steinitz)
 - [Jerusalem Post - Steinitz Interview](https://www.jpost.com/israel-news/article-859966)
 
+### Histadrut e Impero Economico
+- [Wikipedia - Histadrut](https://en.wikipedia.org/wiki/Histadrut)
+- [Jewish Virtual Library - Histadrut](https://www.jewishvirtuallibrary.org/the-histadrut)
+- [Wikipedia - Solel Boneh](https://en.wikipedia.org/wiki/Solel_Boneh)
+- [Wikipedia - Bank Hapoalim](https://en.wikipedia.org/wiki/Bank_Hapoalim)
+- [Wikipedia - 1983 Israel bank stock crisis](https://en.wikipedia.org/wiki/1983_Israel_bank_stock_crisis)
+
+### Famiglia Arison
+- [Wikipedia - Ted Arison](https://en.wikipedia.org/wiki/Ted_Arison)
+- [Wikipedia - Arison family](https://en.wikipedia.org/wiki/Arison_family)
+- [Jewish Virtual Library - Ted Arison](https://www.jewishvirtuallibrary.org/ted-arison)
+
 ---
 
-*Ultimo aggiornamento: 17 Gennaio 2026 - Intelligence post-7 ottobre (crisi Shin Bet/Aman, Zini nuovo direttore), Caso Eli Cohen (archivio recuperato maggio 2025), Triangolo Difesa ($17.7B ricavi, $65B backlog)*
+*Ultimo aggiornamento: 18 Gennaio 2026 - Aggiunta sezione "Dinastia Arison e Grandi Privatizzazioni" (Ted Arison, Bank Hapoalim $1.37B, Shikun & Binui). Nuova sezione "Impero Histadrut" con Solel Boneh (Operation Entebbe, Africa), Bank Hapoalim, Koor Industries. Aggiunta crisi bancaria 1983 come evento storico chiave. Espansa famiglia Arison nella tabella.*

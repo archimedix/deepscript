@@ -134,6 +134,19 @@ SET r.role = 'alumni',
 - Usa sempre codice ISO 3166-1 alpha-3 (es. `ITA`, `USA`, `DEU`, `GBR`)
 - Doppia nazionalita': formato `ISO-ISO` (es. `DEU-USA`, `FRA-LBN`)
 - Mai nomi estesi (`Italia`, `Germany`) o formati misti (`USA/Italy`)
+- Mai acronimi comuni: usa il codice ISO, non la sigla d'uso
+
+| Paese | NON usare | Usa |
+|-------|-----------|-----|
+| United Arab Emirates | `UAE` | `ARE` |
+| United Kingdom | `UK` | `GBR` |
+| South Africa | `SA` | `ZAF` |
+| South Korea | `SK` | `KOR` |
+| New Zealand | `NZ` | `NZL` |
+| Mexico | `MX` | `MEX` |
+| Brazil | `BR` | `BRA` |
+| China | `CN` | `CHN` |
+| Japan | `JP` | `JPN` |
 
 **Organization (con sub-label):**
 ```cypher

@@ -245,6 +245,19 @@ organizations:
       from: 2008
       to: 2017
       note: 13e fauteuil
+  acbp:
+    name: Andrea and Charles Bronfman Philanthropies
+    type: foundation
+    founded: 1986
+    headquarters: New York, USA
+    status: defunct
+    note: Closed 2016, disbursed $340M+
+    stakeholders:
+    - person: charles-bronfman
+      role: founder
+      from: 1986
+      to: 2016
+      note: Chairman
   accel:
     name: Accel Partners
     type: privateequity
@@ -622,6 +635,10 @@ organizations:
     - person: jonathan-greenblatt
       role: executive
       from: 2015
+    - person: jonathan-kolber
+      role: board
+      from: 2025
+      note: Elected to board February 2025
   adnoc:
     name: Abu Dhabi National Oil Company (ADNOC)
     type: company
@@ -2258,6 +2275,17 @@ organizations:
     - org: lightspeed-venture-partners
       role: stake
       note: Investor
+  anfield-ltd:
+    name: Anfield Ltd.
+    type: privateequity
+    headquarters: Israel
+    status: active
+    sector: private investment
+    note: Jonathan Kolber personal investment company.
+    stakeholders:
+    - person: jonathan-kolber
+      role: founder
+      note: Personal investment company, Chairman and CEO
   anglo-american:
     name: Anglo American plc
     type: company
@@ -2353,6 +2381,10 @@ organizations:
       from: 1908
       to: 1921
       note: Co-proprietario con fratello Mario
+    - person: pio-perrone
+      role: owner
+      from: 1903
+      to: 1921
     - person: mario-perrone
       role: executive
       from: 1908
@@ -2673,6 +2705,22 @@ organizations:
       role: board
       from: 2018
       note: Board member
+  arison-investments:
+    name: Arison Investments
+    type: company
+    founded: 1990
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: investments
+    stakeholders:
+    - person: ted-arison
+      role: founder
+      from: 1990
+      to: 1999
+    - person: shari-arison
+      role: chairman
+      from: 1999
+      note: Inherited from Ted Arison
   arizona-state-university:
     name: Arizona State University
     type: university
@@ -3392,6 +3440,9 @@ organizations:
     - person: zalmay-khalilzad
       role: alumni
       note: BA and MA
+    - person: ted-arison
+      role: alumni
+      note: Commerce and Economics
     - person: katherine-maher
       role: board
     - person: david-bradley
@@ -3899,16 +3950,37 @@ organizations:
       from: 1930
       to: 1945
       note: Presidente per 15 anni
+    - person: enrico-cuccia
+      role: executive
+      from: 1938
+      to: 1946
     - person: raffaele-mattioli
       role: executive
       from: 1933
       to: 1972
       note: CEO
+    - person: raffaele-mattioli
+      role: ceo
+      from: 1933
+      to: 1972
     - org: iri
       role: parent
       from: 1933
       to: 1994
       note: Nazionalizzata nella crisi 1930s
+    - org: iri
+      role: owner
+      from: 1933
+      to: 1993
+  banca-di-sconto:
+    name: Banca Italiana di Sconto
+    type: bank
+    founded: 1914
+    stakeholders:
+    - person: pio-perrone
+      role: controller
+      from: 1914
+      to: 1921
   banca-generali:
     name: Banca Generali SpA
     type: bank
@@ -3962,6 +4034,11 @@ organizations:
       from: 1983
       to: 1994
       note: Economist, Research Dept
+    - person: donato-menichella
+      role: chairman
+      from: 1948
+      to: 1960
+      note: Governatore
     - org: bis
       role: partner
   banca-mondiale:
@@ -4069,6 +4146,15 @@ organizations:
       from: 1987
       to: 1992
       note: Manager Corporate Finance
+  banca-privata-italiana:
+    name: Banca Privata Italiana
+    type: bank
+    founded: 1930
+    stakeholders:
+    - person: michele-sindona
+      role: owner
+      from: 1960
+      to: 1974
   banca-transilvania:
     name: Banca Transilvania
     type: bank
@@ -4098,6 +4184,19 @@ organizations:
       note: Ridotta da 15% iniziale
     - org: ifc
       role: shareholder
+  banco-ambrosiano:
+    name: Banco Ambrosiano
+    type: bank
+    founded: 1896
+    stakeholders:
+    - person: roberto-calvi
+      role: president
+      from: 1975
+      to: 1982
+    - org: ior
+      role: major-shareholder
+      from: 1970
+      to: 1982
   banco-ambrosiano-veneto:
     name: Banco Ambrosiano Veneto
     type: bank
@@ -4170,6 +4269,10 @@ organizations:
     stakeholders:
     - org: iri
       role: parent
+      from: 1933
+      to: 1992
+    - org: iri
+      role: owner
       from: 1933
       to: 1992
   banco-do-brasil:
@@ -4275,15 +4378,38 @@ organizations:
     founded: 1921
     headquarters: Tel Aviv, Israel
     status: active
+    note: Israel largest bank. Founded by Histadrut, nationalized 1983, privatized 1997 (Arison).
     stakeholders:
     - person: ted-arison
       role: owner
-      from: 1996
+      from: 1997
       to: 1999
+      note: Acquired 43% in $1.4B privatization, largest in Israeli history
     - person: shari-arison
       role: owner
       from: 1999
       to: 2019
+    - person: benjamin-gaon
+      role: board
+      note: Board member
+    - person: dov-kotler
+      role: executive
+      from: 2019
+      to: 2024
+      note: CEO
+    - person: yaakov-levinson
+      role: executive
+      note: Manager, led stock price manipulation in 1970s-80s
+    - org: governo-israele
+      role: stake
+      from: 1983
+      to: 1997
+      note: Nationalized after bank stock crisis, privatized to Arison
+    - org: histadrut
+      role: stake
+      from: 1921
+      to: 1983
+      note: Owned via Hevrat HaOvdim until bank stock crisis
   bank-leumi:
     name: Bank Leumi
     type: bank
@@ -5077,6 +5203,11 @@ organizations:
       from: 1955
       to: 1976
       note: Head of Corporate Finance
+    - person: jeffrey-epstein
+      role: partner
+      from: 1976
+      to: 1981
+      note: Limited Partner 1980-81, left after Reg D violation
   bechtel:
     name: Bechtel Corporation
     type: company
@@ -6172,6 +6303,22 @@ organizations:
     stakeholders:
     - person: michael-makovsky
       role: executive
+  birthright-israel:
+    name: Birthright Israel
+    type: foundation
+    founded: 1999
+    headquarters: Israel
+    status: active
+    note: Free educational trips to Israel for young Jewish adults
+    stakeholders:
+    - person: charles-bronfman
+      role: founder
+      from: 1999
+      note: Co-founder with Michael Steinhardt
+    - person: michael-steinhardt
+      role: founder
+      from: 1999
+      note: Co-founder with Charles Bronfman
   bis:
     name: Bank for International Settlements
     type: centralbank
@@ -6265,6 +6412,10 @@ organizations:
       from: 2010
       to: 2015
       note: Chair BIS
+    - person: thomas-mckittrick
+      role: president
+      from: 1940
+      to: 1946
     - org: bank-of-greece
       role: member
       note: Member central bank
@@ -6557,6 +6708,19 @@ organizations:
       from: 2008
       to: 2020
       note: President
+  blue-square-israel:
+    name: Blue Square Israel Ltd.
+    type: company
+    headquarters: Israel
+    status: active
+    sector: retail
+    note: 'Israeli supermarket chain. NYSE: BSI.'
+    stakeholders:
+    - person: benjamin-gaon
+      role: chairman
+      from: 1999
+      to: 2000
+      note: Chairman
   bluecrest-capital:
     name: BlueCrest Capital Management
     type: assetmanager
@@ -8267,6 +8431,23 @@ organizations:
       from: 2014
       to: 2018
       note: Dean, School of Computer Science
+  carnival-corporation:
+    name: Carnival Corporation
+    type: company
+    founded: 1972
+    headquarters: Miami, USA
+    status: active
+    sector: cruise
+    stakeholders:
+    - person: ted-arison
+      role: founder
+      from: 1972
+      to: 1999
+      note: Founded as Carnival Cruise Lines
+    - person: micky-arison
+      role: executive
+      from: 1979
+      note: CEO 1979-2013, Chairman 2013-present
   casinos-austria:
     name: Casinos Austria AG
     type: company
@@ -9857,6 +10038,29 @@ organizations:
       share: 81%
       from: 2013
       note: Via Newton Investment and Development LLC
+  claridge-group:
+    name: The Claridge Group
+    type: privateequity
+    founded: 1987
+    headquarters: Montreal, Canada
+    status: active
+    sector: private equity
+    note: Bronfman family investment management company. Charles Bronfman vehicle. Major investor in Israel (Koor Industries
+      1997-2002).
+    stakeholders:
+    - person: jonathan-kolber
+      role: executive
+      from: 1986
+      to: 1997
+      note: Founded and managed Claridge Israel alongside Bronfman family.
+    - person: charles-bronfman
+      role: founder
+      from: 1987
+      note: Family investment management company.
+    - person: leo-kolber
+      role: executive
+      from: 1957
+      note: Ran Bronfman family investments
   clarium-capital:
     name: Clarium Capital
     type: company
@@ -10577,6 +10781,15 @@ organizations:
     - person: luisa-todini
       role: chairman
       from: 2009
+  commerce-us:
+    name: U.S. Department of Commerce
+    type: government
+    founded: 1913
+    stakeholders:
+    - person: herbert-hoover
+      role: secretary
+      from: 1921
+      to: 1928
   commerzbank:
     name: Commerzbank AG
     type: bank
@@ -10818,6 +11031,22 @@ organizations:
       from: 1934
       to: 1934
       note: Breve presidenza
+    - person: giuseppe-volpi
+      role: chairman
+      from: 1934
+      to: 1943
+    - person: giuseppe-volpi
+      role: president
+      from: 1934
+      to: 1943
+    - person: giovanni-balella
+      role: president
+      from: 1939
+      to: 1943
+    - person: luciano-gottardi
+      role: labor-president
+      from: 1939
+      to: 1943
   conseil-constitutionnel:
     name: Conseil constitutionnel
     type: agency
@@ -11261,6 +11490,10 @@ organizations:
     stakeholders:
     - org: iri
       role: parent
+      from: 1933
+      to: 1993
+    - org: iri
+      role: owner
       from: 1933
       to: 1993
   crh:
@@ -11934,6 +12167,11 @@ organizations:
     - person: yitzhak-tshuva
       role: chairman
       from: 1998
+    - person: benjamin-gaon
+      role: chairman
+      from: 1998
+      to: 2000
+      note: Chairman post-Koor
     - org: mubadala
       role: investor
       share: 22
@@ -12379,6 +12617,14 @@ organizations:
       share: 2.0%
     - org: vanguard
       share: 2.0%
+  discount-investment-corporation:
+    name: Discount Investment Corporation (DIC)
+    type: company
+    founded: 1961
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: holding company
+    note: Israeli holding company, subsidiary of IDB Development. Acquired Koor Industries 2007, merged with Koor 2013.
   disney-plus:
     name: Disney+
     type: media
@@ -13168,6 +13414,10 @@ organizations:
     - person: nathalie-tocci
       role: board
       note: Former Independent Director
+    - person: carlo-esterle
+      role: chairman
+      from: 1884
+      to: 1918
   edizione:
     name: Edizione SpA
     type: company
@@ -13413,6 +13663,18 @@ organizations:
     stakeholders:
     - person: pierre-werner
       role: member
+  electra-israel:
+    name: Electra Ltd.
+    type: company
+    headquarters: Israel
+    status: active
+    sector: appliances
+    note: Israeli appliance company, Histadrut-owned.
+    stakeholders:
+    - person: benjamin-gaon
+      role: executive
+      from: 1962
+      note: Started as technician, became marketing manager air conditioning dept
   electrica:
     name: Electrica S.A.
     type: company
@@ -15427,6 +15689,7 @@ organizations:
     - person: giovanni-agnelli-sr
       role: founder
       from: 1899
+      to: 1945
     - person: umberto-agnelli
       role: chairman
       from: 2003
@@ -15462,6 +15725,10 @@ organizations:
       from: 2004
       to: 2018
       note: CEO
+    - person: vittorio-valletta
+      role: ceo
+      from: 1928
+      to: 1966
     - org: exor
       role: owner
       from: 1927
@@ -15811,6 +16078,18 @@ organizations:
     - org: mi6
       role: founding member
       from: 1946
+  fiverr:
+    name: Fiverr International Ltd.
+    type: company
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: technology
+    note: 'Global online marketplace for freelance services. NYSE: FVRR.'
+    stakeholders:
+    - person: jonathan-kolber
+      role: chairman
+      from: 2019
+      note: Board Chairman since June 2019
   flagship-pioneering:
     name: Flagship Pioneering
     type: privateequity
@@ -16309,6 +16588,15 @@ organizations:
       from: 1983
       to: 2002
       note: Co-founder with Pierre Lassonde
+  franklin-national-bank:
+    name: Franklin National Bank
+    type: bank
+    founded: 1926
+    stakeholders:
+    - person: michele-sindona
+      role: owner
+      from: 1972
+      to: 1974
   fraser-neave:
     name: Fraser and Neave Limited
     type: company
@@ -16784,6 +17072,20 @@ organizations:
       share: 4.5%
     - org: vanguard
       share: 2.5%
+  gaon-holdings:
+    name: B. Gaon Holdings
+    type: company
+    founded: 1998
+    headquarters: Israel
+    status: active
+    sector: holding company
+    note: Founded by Benny Gaon. Agro, wholesale, financial services. Acquired H&O, Ace, Auto Depot.
+    stakeholders:
+    - person: benjamin-gaon
+      role: founder
+      from: 1998
+      to: 2008
+      note: Founded after leaving Koor
   gaorong-capital:
     name: Gaorong Capital
     type: privateequity
@@ -17620,6 +17922,10 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 2.0%
+  gladio:
+    name: Gladio
+    type: agency
+    founded: 1956
   glencore:
     name: Glencore plc
     type: company
@@ -19909,6 +20215,16 @@ organizations:
       from: 1996
       to: 2002
       note: CT Advisor to PM Netanyahu, NSA to PM Sharon
+    - person: rafi-eitan
+      role: advisor
+      from: 1978
+      to: 1981
+      note: Advisor on terrorism to PM Menachem Begin
+    - person: rafi-eitan
+      role: legislator
+      from: 2006
+      to: 2009
+      note: Knesset member; leader of Gil party
     - org: talpiot
       role: subsidiary
       note: IDF/Ministry of Defense program
@@ -20230,6 +20546,58 @@ organizations:
       from: 1998
       to: 2005
       note: DG International Financial Relations, Min. Economia
+    - person: giuseppe-volpi
+      role: minister
+      from: 1925
+      to: 1928
+      note: Ministro delle Finanze
+    - person: guido-jung
+      role: minister
+      from: 1932
+      to: 1935
+      note: Ministro delle Finanze - creò IRI
+  governo-italiano:
+    name: Governo Italiano
+    type: government
+    founded: 1861
+    stakeholders:
+    - person: mario-draghi
+      role: treasury-dg
+      from: 1991
+      to: 2001
+      note: Architetto privatizzazioni, riunione Britannia 1992
+    - person: benito-mussolini
+      role: prime-minister
+      from: 1922
+      to: 1943
+    - person: guido-jung
+      role: finance-minister
+      from: 1932
+      to: 1935
+    - person: galeazzo-ciano
+      role: foreign-minister
+      from: 1936
+      to: 1943
+    - person: dino-grandi
+      role: ambassador-uk
+      from: 1932
+      to: 1939
+    - person: vittorio-cini
+      role: communications-minister
+      from: 1943
+      to: 1943
+    - person: pietro-badoglio
+      role: prime-minister
+      from: 1943
+      to: 1944
+    - person: carlo-pareschi
+      role: agriculture-minister
+      from: 1941
+      to: 1943
+    - person: tullio-cianetti
+      role: corporations-minister
+      from: 1939
+      to: 1943
   governo-kosovo:
     name: Governo Kosovo
     type: government
@@ -22692,6 +23060,11 @@ organizations:
       from: 2009
       to: 2013
       note: Secretary of Homeland Security
+    - person: jonathan-pollard
+      role: member
+      from: 1979
+      to: 1985
+      note: Naval Intelligence Analyst, Anti-Terrorist Alert Center
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -23263,6 +23636,11 @@ organizations:
       role: member
       from: 1940
       to: 1948
+    - person: rafi-eitan
+      role: member
+      from: 1940
+      to: 1948
+      note: Joined at age 14
   hai-robotics:
     name: HAI Robotics
     type: company
@@ -23624,6 +24002,17 @@ organizations:
     - person: shabtai-shavit
       role: alumni
       note: MPA Public Administration
+    - person: jonathan-kolber
+      role: alumni
+      note: BA Near Eastern Language and Literature 1983
+    - person: leslie-wexner
+      role: advisor
+      note: Visiting lecturer Kennedy School, Society of John Harvard Fellows
+    - person: jeffrey-epstein
+      role: donor
+      from: 1998
+      to: 2012
+      note: Donated $8.9M, continued campus visits after 2008 conviction
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -24377,16 +24766,47 @@ organizations:
       role: founder
       from: 1924
   histadrut:
-    type: agency
+    name: Histadrut
+    type: forum
     founded: 1920
-    headquarters: Tel Aviv
+    headquarters: Tel Aviv, Israel
     status: active
     stakeholders:
     - person: ben-gurion
       role: executive
       from: 1921
       to: 1935
-      note: Secretary-General
+      note: Secretary General
+    - person: amir-peretz
+      role: executive
+      from: 1995
+      to: 2006
+      note: Secretary General
+    - person: arnon-bar-david
+      role: leader
+      from: 2019
+      note: Chairman, 15th chairman
+    - person: pinhas-lavon
+      role: executive
+      from: 1956
+      to: 1961
+      note: Secretary General
+    - person: yitzhak-ben-aharon
+      role: executive
+      from: 1969
+      to: 1973
+      note: Secretary General
+  historica-canada:
+    name: Historica Canada
+    type: foundation
+    founded: 1999
+    headquarters: Toronto, Canada
+    status: active
+    note: Producers of Heritage Minutes TV shorts
+    stakeholders:
+    - person: charles-bronfman
+      role: founder
+      note: Founding co-chairman
   hitachi:
     name: Hitachi, Ltd.
     type: company
@@ -25727,6 +26147,10 @@ organizations:
       from: 1999
       to: 2005
       note: Director Monetary & Financial Systems Dept
+  imi:
+    name: Istituto Mobiliare Italiano
+    type: bank
+    founded: 1931
   impero-pahlavi:
     name: Imperial State of Iran
     type: government
@@ -26802,6 +27226,26 @@ organizations:
       from: 1977
       to: 1991
       note: First Deputy Director 1987-1991
+  ion-asset-management:
+    name: ION Asset Management Ltd.
+    type: assetmanager
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: asset management
+    note: Leading Israeli investment manager. ION Crossover Partners is Israels first crossover fund.
+    stakeholders:
+    - person: jonathan-kolber
+      role: chairman
+      note: Chairman of the Board, investment committee ION Crossover Partners
+  ior:
+    name: Istituto per le Opere di Religione
+    type: bank
+    founded: 1942
+    stakeholders:
+    - person: paul-marcinkus
+      role: president
+      from: 1971
+      to: 1989
   ip-group:
     name: IP Group
     type: privateequity
@@ -26911,6 +27355,10 @@ organizations:
       note: Seconda presidenza, privatizzazioni
     - person: riccardo-gallo
       role: leader
+    - person: enrico-cuccia
+      role: staff
+      from: 1934
+      to: 1938
     - person: gian-maria-gros-pietro
       role: chairman
       from: 1997
@@ -26920,7 +27368,20 @@ organizations:
       role: chairman
       from: 1933
       to: 1939
-      note: Founding President
+      note: Fondatore e primo presidente
+    - person: alberto-beneduce
+      role: president
+      from: 1933
+      to: 1939
+    - person: donato-menichella
+      role: executive
+      from: 1933
+      to: 1946
+      note: Direttore generale
+    - person: donato-menichella
+      role: director-general
+      from: 1934
+      to: 1943
   isbir:
     name: Isbir Elektrik
     type: company
@@ -27210,6 +27671,18 @@ organizations:
     stakeholders:
     - person: park-yu-hyun
       role: founder
+  j-epstein-company:
+    name: J. Epstein & Company
+    type: company
+    founded: 1988
+    headquarters: New York, USA
+    status: defunct
+    note: Wealth management for billionaires, sole client Wexner
+    stakeholders:
+    - person: jeffrey-epstein
+      role: founder
+      from: 1988
+      to: 2019
   j-rothschild-capital-management:
     name: J. Rothschild Capital Management
     type: assetmanager
@@ -27653,6 +28126,14 @@ organizations:
     status: defunct
     note: Merged into JPMorgan Chase
     stakeholders:
+    - person: jp-morgan-jr
+      role: chairman
+      from: 1913
+      to: 1943
+    - person: thomas-lamont
+      role: partner
+      from: 1911
+      to: 1948
     - person: henry-davison
       role: partner
       note: Senior Partner
@@ -28429,17 +28910,65 @@ organizations:
     - org: vanguard
       share: 2.0%
   koor-industries:
-    name: Koor Industries
+    name: Koor Industries Ltd.
     type: company
+    founded: 1944
     headquarters: Tel Aviv, Israel
     status: dissolved
-    note: Histadrut industrial conglomerate
+    sector: industrial conglomerate
+    note: Histadrut industrial arm, largest Israeli conglomerate until 1990s. Created Tadiran (defense electronics), Makhteshim-Agan
+      (agrochemicals). Sold to Shamrock Holdings (1995), Claridge/Bronfman (1997), IDB Group (2000s). Merged into Discount
+      Investment Corporation 2013.
     stakeholders:
     - person: meir-amit
       role: executive
       from: 1968
       to: 1977
       note: CEO
+    - person: benjamin-gaon
+      role: executive
+      from: 1988
+      to: 1998
+      note: CEO. Led restructuring, cut workforce 40%, reduced holdings from 100 to 30.
+    - person: jonathan-kolber
+      role: executive
+      from: 1998
+      to: 2006
+      note: CEO. Continued restructuring, focused on defense, telecom, agrochemicals.
+    - person: charles-bronfman
+      role: chairman
+      from: 1997
+      to: 2002
+      note: Chairman through Claridge Group ownership.
+    - org: histadrut
+      role: owner
+      share: 1.0
+      from: 1944
+      to: 1995
+      note: Full ownership via Solel Boneh until 1958, then direct. Sold majority to Shamrock Holdings 1995.
+    - org: solel-boneh
+      role: stake
+      from: 1944
+      to: 1958
+      note: Created as industrial arm, spun off 1958
+    - org: shamrock-holdings
+      role: stake
+      share: 0.225
+      from: 1995
+      to: 1997
+      note: Acquired 22.5% for $252M. Sold to Claridge Group 1997.
+    - org: claridge-group
+      role: stake
+      share: 0.29
+      from: 1997
+      to: 2007
+      note: Acquired from Shamrock. Charles Bronfman as chairman 1997-2002.
+    - org: discount-investment-corporation
+      role: owner
+      share: 0.765
+      from: 2007
+      to: 2013
+      note: IDB Group acquired majority. Merged Koor into DIC 2013.
   kosmos-energy:
     name: Kosmos Energy
     type: company
@@ -28630,6 +29159,19 @@ organizations:
       role: founder
       from: 2023
       note: Co-founder via Schmidt Futures
+  l-brands:
+    name: L Brands
+    type: company
+    founded: 1963
+    headquarters: Columbus, Ohio, USA
+    status: defunct
+    note: Split into Bath & Body Works and Victorias Secret 2021
+    stakeholders:
+    - person: leslie-wexner
+      role: founder
+      from: 1963
+      to: 2020
+      note: Founder, Chairman & CEO until Feb 2020
   l3-communications:
     name: L3 Communications
     type: defense
@@ -28768,6 +29310,37 @@ organizations:
     - org: louis-hachette-group
       share: minority
       from: 2024
+  lakam:
+    name: LAKAM - Bureau of Scientific Relations
+    type: agency
+    founded: 1957
+    headquarters: Tel Aviv, Israel
+    status: dissolved
+    stakeholders:
+    - person: shimon-peres
+      role: founder
+      from: 1957
+      note: Founded LAKAM as Ministry of Defense official
+    - person: rafi-eitan
+      role: leader
+      from: 1981
+      to: 1986
+      note: Director; ran Pollard operation; resigned after scandal
+    - person: jonathan-pollard
+      role: member
+      from: 1984
+      to: 1985
+      note: Recruited by Rafi Eitan; passed classified documents
+    - person: benjamin-blumberg
+      role: leader
+      from: 1957
+      to: 1981
+      note: First Director; founded agency with Shimon Peres
+    - person: arnon-milchan
+      role: member
+      from: 1965
+      to: 1986
+      note: Agent; operated 30 front companies for technology acquisition
   lakera:
     name: Lakera
     type: company
@@ -30033,6 +30606,21 @@ organizations:
       from: 2013
       to: 2022
       note: CEO and General Manager
+  makhteshim-agan:
+    name: Makhteshim-Agan Industries (now ADAMA)
+    type: company
+    founded: 1945
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: agrochemicals
+    note: Worlds largest generic agrochemical company. Merger of Makhteshim (1963) and Agan (1974). Rebranded ADAMA 2014,
+      now owned by ChemChina/Syngenta.
+    stakeholders:
+    - org: koor-industries
+      role: owner
+      share: 0.68
+      from: 1963
+      note: Acquired Makhteshim 1963, created Agan 1974. Core asset after restructuring.
   mamelodi-sundowns:
     name: Mamelodi Sundowns F.C.
     type: sportsclub
@@ -30361,6 +30949,16 @@ organizations:
     stakeholders:
     - person: lynn-forester-de-rothschild
       role: board
+  mcgill:
+    name: McGill University
+    type: university
+    founded: 1821
+    headquarters: Montreal, Canada
+    status: active
+    stakeholders:
+    - person: charles-bronfman
+      role: alumni
+      note: BA ~1951, Honorary Doctorate 1990
   mci-communications:
     type: company
     status: defunct
@@ -30598,9 +31196,13 @@ organizations:
       note: Amministratore Delegato
     - person: enrico-cuccia
       role: chairman
-      from: 1988
+      from: 1982
       to: 2000
       note: Presidente onorario
+    - person: enrico-cuccia
+      role: director-general
+      from: 1946
+      to: 1982
     - person: raffaele-mattioli
       role: founder
       from: 1946
@@ -30636,6 +31238,10 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 4.23
+    - org: banca-commerciale-italiana
+      role: founder-shareholder
+      from: 1946
+      to: 2000
     - org: monte-paschi
       share: 86.3
       from: 2025
@@ -30647,6 +31253,14 @@ organizations:
     - org: edizione
       role: minority
       note: Shareholder
+    - org: credito-italiano
+      role: founder-shareholder
+      from: 1946
+      to: 2000
+    - org: banco-di-roma
+      role: founder-shareholder
+      from: 1946
+      to: 2000
   medley:
     name: Medley
     type: company
@@ -30670,6 +31284,54 @@ organizations:
       note: 10.8M USD
     - org: vanguard
       share: 1.0%
+  mega-group:
+    name: Mega Group
+    type: forum
+    founded: 1991
+    headquarters: USA
+    status: active
+    note: Informal group of wealthy Jewish businessmen focused on philanthropy
+    stakeholders:
+    - person: ronald-lauder
+      role: member
+      from: 1991
+    - person: edgar-bronfman-sr
+      role: member
+      from: 1991
+    - person: charles-bronfman
+      role: founder
+      from: 1991
+      note: Co-founder with Leslie Wexner
+    - person: leslie-wexner
+      role: founder
+      from: 1991
+      note: Co-founder with Charles Bronfman
+    - person: michael-steinhardt
+      role: member
+      from: 1991
+    - person: max-fisher
+      role: member
+      from: 1991
+      note: Detroit oil magnate, founder Republican Jewish Coalition
+    - person: laurence-tisch
+      role: member
+      from: 1991
+      note: Chairman Loews Corp, owned CBS News
+    - person: leonard-abramson
+      role: member
+      from: 1991
+      note: Founder U.S. Healthcare
+    - person: lester-crown
+      role: member
+      from: 1991
+      note: Chicago billionaire, part owner Bulls, former pres. General Dynamics
+    - person: steven-spielberg
+      role: member
+      from: 1991
+      note: Hollywood director
+    - person: marvin-lender
+      role: member
+      from: 1991
   megvii:
     name: Megvii (Face++)
     type: company
@@ -31115,6 +31777,11 @@ organizations:
       from: 1917
       to: 1918
       note: Capo stazione Roma, 100 agenti
+    - person: samuel-hoare
+      role: station-chief
+      from: 1917
+      to: 1918
+      note: Capo MI5 Roma
     - person: jonathan-evans
       role: executive
       note: Director General
@@ -31171,6 +31838,22 @@ organizations:
       from: 1942
       to: 1945
       note: Collaborazione WWII, MI6 mentore di OSS
+  miami-heat:
+    name: Miami Heat
+    type: sportsclub
+    founded: 1988
+    headquarters: Miami, USA
+    status: active
+    stakeholders:
+    - person: ted-arison
+      role: founder
+      from: 1988
+      to: 1999
+      note: Founded NBA team
+    - person: micky-arison
+      role: chairman
+      from: 1995
+      note: Managing Partner
   michael-susan-dell-foundation:
     name: Michael & Susan Dell Foundation
     type: foundation
@@ -31837,6 +32520,19 @@ organizations:
     founded: 1472
     headquarters: Siena, Italia
     status: active
+  montreal-expos:
+    name: Montreal Expos
+    type: sportsclub
+    founded: 1968
+    headquarters: Montreal, Canada
+    status: defunct
+    note: First MLB team outside USA, became Washington Nationals 2005
+    stakeholders:
+    - person: charles-bronfman
+      role: chairman
+      from: 1968
+      to: 1991
+      note: Majority owner, brought MLB to Canada
   moore-foundation:
     name: Gordon and Betty Moore Foundation
     type: foundation
@@ -32044,6 +32740,11 @@ organizations:
       from: 1996
       to: 2021
       note: Tzomet Division head 2013, Deputy Director 2019
+    - person: rafi-eitan
+      role: executive
+      from: 1972
+      to: 1981
+      note: Head of Operations; led Eichmann capture team
     - org: cia
       role: partner
       from: 1951
@@ -34311,6 +35012,21 @@ organizations:
       from: 1987
       to: 1996
       note: Deputy Editor 1991-1995, Editor-in-Chief 1995-1996
+  ohio-state:
+    name: Ohio State University
+    type: university
+    founded: 1870
+    headquarters: Columbus, Ohio, USA
+    status: active
+    stakeholders:
+    - person: leslie-wexner
+      role: alumni
+      note: BS Business Administration 1959, Sigma Alpha Mu fraternity
+    - person: leslie-wexner
+      role: board
+      from: 1988
+      to: 2021
+      note: Board of Trustees, Chair 2009-2021
   okcoin:
     name: OKCoin
     type: company
@@ -35256,6 +35972,18 @@ organizations:
       from: 1970
       to: 1981
       note: Venerable Master
+    - person: licio-gelli
+      role: master
+      from: 1970
+      to: 1981
+    - person: michele-sindona
+      role: treasurer
+      from: 1970
+      to: 1981
+    - person: roberto-calvi
+      role: member
+      from: 1975
+      to: 1982
   pace-university:
     name: Pace University
     type: university
@@ -35332,6 +36060,11 @@ organizations:
       from: 1946
       to: 1948
       note: Third Battalion
+    - person: rafi-eitan
+      role: member
+      from: 1940
+      to: 1948
+      note: Injured in mine explosion during operations
   palo-alto-networks:
     name: Palo Alto Networks
     type: company
@@ -35599,6 +36332,15 @@ organizations:
     - person: bogdan-aurescu
       role: member
       note: Membro
+  pci:
+    name: Partito Comunista Italiano
+    type: government
+    founded: 1921
+    stakeholders:
+    - person: palmiro-togliatti
+      role: secretary
+      from: 1927
+      to: 1964
   pdd-holdings:
     name: PDD Holdings Inc
     type: company
@@ -36380,6 +37122,31 @@ organizations:
     - person: douglas-feith
       role: member
       note: 1998 Iraq letter signatory | signatory
+  pnf:
+    name: Partito Nazionale Fascista
+    type: government
+    founded: 1921
+    stakeholders:
+    - person: benito-mussolini
+      role: leader
+      from: 1921
+      to: 1943
+    - person: amerigo-dumini
+      role: squadrista
+      from: 1919
+      to: 1924
+    - person: cesare-rossi
+      role: capo-ufficio-stampa
+      from: 1922
+      to: 1924
+    - person: emilio-de-bono
+      role: quadrumviro
+      from: 1922
+      to: 1943
+    - person: giovanni-marinelli
+      role: secretary-admin
+      from: 1922
+      to: 1943
   pnl-romania:
     name: Partito Nazionale Liberale (Romania)
     type: government
@@ -36461,6 +37228,19 @@ organizations:
       role: founder
       from: 2001
       note: Fondatore e proprietario
+  popolo-ditalia:
+    name: Il Popolo d'Italia
+    type: media
+    founded: 1914
+    stakeholders:
+    - person: benito-mussolini
+      role: founder
+      from: 1914
+      to: 1943
+    - person: filippo-filippelli
+      role: staff
+      from: 1914
+      to: 1923
   porsche-ag:
     name: Porsche AG
     type: company
@@ -37625,6 +38405,18 @@ organizations:
     - org: ae-industrial-partners
       role: investor
       from: 2020
+  regency-enterprises:
+    name: Regency Enterprises
+    type: company
+    founded: 1982
+    headquarters: Los Angeles, USA
+    status: active
+    sector: media
+    stakeholders:
+    - person: arnon-milchan
+      role: founder
+      from: 1982
+      note: Founder and Chairman
   relativity-space:
     name: Relativity Space
     type: company
@@ -38537,6 +39329,19 @@ organizations:
       role: board
       from: 2001
       to: 2006
+  rsi:
+    name: Repubblica Sociale Italiana
+    type: government
+    founded: 1943
+    stakeholders:
+    - person: benito-mussolini
+      role: president
+      from: 1943
+      to: 1945
+    - person: angelo-tarchi
+      role: economy-minister
+      from: 1943
+      to: 1945
   rt:
     name: RT (Russia Today)
     type: media
@@ -38821,6 +39626,15 @@ organizations:
       share: 70
       from: 2020
       note: Acquisizione $69B
+  sade:
+    name: SADE
+    type: company
+    founded: 1905
+    stakeholders:
+    - person: giuseppe-volpi
+      role: founder
+      from: 1905
+      to: 1943
   safe:
     name: State Administration of Foreign Exchange
     type: agency
@@ -39724,6 +40538,20 @@ organizations:
       role: executive
       from: 1971
       to: 1994
+    - person: charles-bronfman
+      role: executive
+      from: 1951
+      to: 2000
+      note: Co-Chairman 1986-2000, President Canadian operations 1975-1986
+    - person: samuel-bronfman
+      role: founder
+      from: 1924
+      to: 1971
+    - person: edgar-bronfman-jr
+      role: executive
+      from: 1994
+      to: 2000
+      note: CEO, sold to Vivendi
   searle:
     name: G.D. Searle & Company
     type: pharma
@@ -40029,6 +40857,20 @@ organizations:
       from: 2002
       to: 2018
       note: CEO 2002-2006, Chairman 2006-2018
+  shamrock-holdings:
+    name: Shamrock Holdings
+    type: privateequity
+    founded: 1978
+    headquarters: Burbank, California, USA
+    status: active
+    sector: private equity
+    note: Disney family investment vehicle. Founded by Roy E. Disney. Acquired 22.5% Koor Industries 1995, sold to Claridge
+      1997.
+    stakeholders:
+    - person: roy-e-disney
+      role: founder
+      from: 1978
+      note: Disney family investment vehicle.
   shandong-gold:
     name: Shandong Gold Group
     type: company
@@ -40106,6 +40948,23 @@ organizations:
       share: 3.2%
     - org: state-street
       share: 0.9%
+  shikun-binui:
+    name: Shikun & Binui
+    type: company
+    founded: 1924
+    headquarters: Israel
+    status: active
+    sector: construction
+    stakeholders:
+    - person: ted-arison
+      role: chairman
+      from: 1996
+      to: 1999
+      note: Acquired from Histadrut in privatization
+    - person: shari-arison
+      role: chairman
+      from: 1999
+      note: Owner via Arison Group, inherited from Ted Arison
   shin-bet:
     name: Shin Bet (Shabak)
     type: agency
@@ -40122,6 +40981,11 @@ organizations:
       role: operative
       from: 1950
       to: 1963
+    - person: rafi-eitan
+      role: executive
+      from: 1951
+      to: 1972
+      note: Recruited by Isser Harel; rose through ranks
   shin-corporation:
     name: Shin Corporation
     type: company
@@ -40450,6 +41314,10 @@ organizations:
     - org: mubadala
       role: investor
       note: Minority equity stake
+  sinclair-oil:
+    name: Sinclair Oil
+    type: company
+    founded: 1916
   singapore-technologies:
     name: Singapore Technologies Engineering
     type: company
@@ -40986,6 +41854,25 @@ organizations:
       from: 2019
       to: 2024
       note: Chairman of the Board 2019-2024, remained on board
+  solel-boneh:
+    name: Solel Boneh
+    type: company
+    founded: 1924
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: construction
+    note: Histadrut construction company. Built Entebbe terminal (blueprints used in 1976 raid). Major infrastructure in Africa
+      1960s-70s.
+    stakeholders:
+    - org: histadrut
+      role: stake
+      from: 1924
+      to: 1996
+      note: Owned via Hevrat HaOvdim until privatization
+    - org: shikun-binui
+      role: stake
+      from: 1989
+      note: Parent company acquired Solel Boneh 1989
   solvac:
     name: Solvac SA
     type: company
@@ -41331,6 +42218,9 @@ organizations:
     - person: ken-xie
       role: alumni
       note: MS Electrical Engineering early 1990s
+    - person: jonathan-pollard
+      role: alumni
+      note: BA International Relations 1976
   stanford-hai:
     name: Stanford Human-Centered AI Institute
     type: thinktank
@@ -42019,6 +42909,10 @@ organizations:
       from: 1911
       to: 1953
       note: Senior Partner
+    - person: john-foster-dulles
+      role: ceo
+      from: 1927
+      to: 1949
     - person: allan-chapin
       role: partner
       from: 1976
@@ -42451,6 +43345,37 @@ organizations:
     stakeholders:
     - person: andre-hoffmann
       role: board
+  taboola:
+    name: Taboola.com Ltd.
+    type: company
+    headquarters: New York, USA
+    status: active
+    sector: technology
+    note: 'Content discovery and native advertising platform. NASDAQ: TBLA. Founded in Israel.'
+    stakeholders:
+    - person: jonathan-kolber
+      role: chairman
+      note: Board Chairman
+  tadiran:
+    name: Tadiran
+    type: defense
+    founded: 1962
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: defense electronics
+    note: Israeli defense electronics company. JV Koor Industries and Defense Ministry 1962-1969. Produced telecommunications,
+      military electronics.
+    stakeholders:
+    - person: benjamin-gaon
+      role: chairman
+      from: 1988
+      to: 1998
+      note: Chairman while CEO of parent Koor
+    - org: koor-industries
+      role: owner
+      share: 0.63
+      from: 1962
+      note: Created as JV with Defense Ministry 1962. 63% Koor stake later.
   tai:
     name: Turkish Aerospace Industries (TAI/TUSAS)
     type: defense
@@ -44140,6 +45065,15 @@ organizations:
     headquarters: Chicago, USA
     status: active
     sector: data/credit
+  treasury-us:
+    name: U.S. Department of the Treasury
+    type: government
+    founded: 1789
+    stakeholders:
+    - person: andrew-mellon
+      role: secretary
+      from: 1921
+      to: 1932
   treccani:
     name: Istituto della Enciclopedia Italiana Treccani
     type: company
@@ -46397,6 +47331,17 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
+  viola-group:
+    name: Viola Group
+    type: privateequity
+    headquarters: Tel Aviv, Israel
+    status: active
+    sector: private equity
+    note: Israels largest technology-focused PE group. Over $2B AUM. Includes Viola Private Equity, Viola Growth, Viola Ventures.
+    stakeholders:
+    - person: jonathan-kolber
+      role: partner
+      note: General Partner Viola Private Equity, investor Viola Growth
   visa:
     name: Visa Inc.
     type: company
@@ -48497,6 +49442,23 @@ organizations:
     headquarters: New York
     status: active
     sector: consumer
+  wexner-foundation:
+    name: Wexner Foundation
+    type: foundation
+    founded: 1983
+    headquarters: New Albany, Ohio, USA
+    status: active
+    note: Develops Jewish professional and volunteer leaders
+    stakeholders:
+    - person: leslie-wexner
+      role: founder
+      from: 1983
+      note: Founder and Chairman
+    - person: jeffrey-epstein
+      role: board
+      from: 1990
+      to: 2007
+      note: Board member via Wexner relationship
   wfdb:
     name: World Federation of Diamond Bourses
     type: agency
@@ -49582,6 +50544,18 @@ organizations:
     - org: jardine-matheson
       role: investor
       share: 0.2
+  zim-shipping:
+    name: ZIM Integrated Shipping Services
+    type: company
+    founded: 1945
+    headquarters: Haifa, Israel
+    status: active
+    sector: shipping
+    stakeholders:
+    - org: histadrut
+      role: stake
+      from: 1945
+      note: Founded as Histadrut enterprise
   ziraat-bank:
     name: Ziraat Bankasi
     type: bank
