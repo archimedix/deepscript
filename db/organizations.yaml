@@ -171,6 +171,53 @@ organizations:
     - org: walt-disney
       share: 100%
       from: 1996
+  abraham-accords-peace-institute:
+    name: Abraham Accords Peace Institute
+    type: thinktank
+    founded: 2021
+    headquarters: Washington DC, USA
+    status: defunct
+    stakeholders:
+    - person: jared-kushner
+      role: founder
+      from: 2021
+      to: 2025
+      note: Co-Founder
+    - person: haim-saban
+      role: founder
+      from: 2021
+      to: 2025
+      note: Co-Founder
+    - person: joseph-lieberman
+      role: advisor
+      from: 2021
+      note: Honorary Advisory Council founding member
+    - person: aryeh-lightstone
+      role: executive
+      from: 2021
+      note: CEO
+    - person: avi-berkowitz
+      role: founder
+      from: 2021
+      to: 2025
+      note: Co-Founder
+    - person: robert-greenway
+      role: executive
+      from: 2021
+      to: 2025
+      note: First CEO/Executive Director
+    - person: yousef-al-otaiba
+      role: founder
+      from: 2021
+      note: Co-Founder; UAE Ambassador to USA
+    - person: abdulla-al-khalifa
+      role: founder
+      from: 2021
+      note: Co-Founder; Bahrain Ambassador to USA
+    - person: gabi-ashkenazi
+      role: founder
+      from: 2021
+      note: Co-Founder; Israeli Foreign Minister
   abrdn:
     name: Abrdn
     type: assetmanager
@@ -591,6 +638,8 @@ organizations:
     headquarters: Herzogenaurach, Germany
     sector: sportswear
     stakeholders:
+    - person: nassef-sawiris
+      role: board
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -835,6 +884,15 @@ organizations:
       from: 2019
       to: 2021
       note: Advisory Board Chairman
+  afit:
+    name: Air Force Institute of Technology
+    type: university
+    headquarters: Wright-Patterson AFB, Ohio, USA
+    status: active
+    stakeholders:
+    - person: thomas-kennedy
+      role: alumni
+      note: MS Electrical Engineering
   african-leadership-institute:
     name: African Leadership Institute
     type: thinktank
@@ -2127,6 +2185,16 @@ organizations:
       from: 1988
       to: 1992
       note: BA Public Administration
+  american-university-cairo:
+    name: American University in Cairo
+    type: university
+    founded: 1919
+    headquarters: Cairo, Egypt
+    status: active
+    stakeholders:
+    - person: sigrid-kaag
+      role: alumni
+      note: BA Middle East Studies 1985
   americans-for-prosperity:
     name: Americans for Prosperity
     type: thinktank
@@ -2754,6 +2822,18 @@ organizations:
       from: 1965
       to: 1969
       note: Vietnam War | Operative
+  aroundtown:
+    name: Aroundtown SA
+    type: company
+    founded: 2004
+    headquarters: Luxembourg
+    status: active
+    sector: real estate
+    stakeholders:
+    - person: yakir-gabay
+      role: founder
+      from: 2004
+      note: Founder, Deputy Chairman Advisory Board, 15% stake
   artemis:
     name: Groupe Artemis
     type: company
@@ -3299,6 +3379,9 @@ organizations:
     - person: katherine-maher
       role: member
       note: Senior Fellow DFRLab
+    - person: william-lynn
+      role: board
+      note: Board of Directors
     - org: goldman-sachs
       role: donor
       note: Corporate donor - Finance sector
@@ -4079,11 +4162,6 @@ organizations:
       from: 1991
       to: 1993
       note: Chief Economist and VP Development Economics
-    - person: maia-sandu
-      role: employee
-      from: 2010
-      to: 2012
-      note: Economist, Chisinau then Washington
     - person: sri-mulyani
       role: executive
       from: 2010
@@ -4416,6 +4494,12 @@ organizations:
     founded: 1902
     headquarters: Tel Aviv, Israel
     status: active
+    stakeholders:
+    - person: yakir-gabay
+      role: executive
+      from: 1995
+      to: 2000
+      note: CEO Investment Banking Division
   bank-menatep:
     name: Bank Menatep
     type: bank
@@ -6227,6 +6311,16 @@ organizations:
       note: Participant 2024
     - org: trilaterale
       role: partner
+  bilkent:
+    name: Bilkent University
+    type: university
+    founded: 1984
+    headquarters: Ankara, Turkey
+    status: active
+    stakeholders:
+    - person: hakan-fidan
+      role: alumni
+      note: MA International Relations 1999, PhD
   bilkent-university:
     name: Bilkent University
     type: university
@@ -6907,6 +7001,65 @@ organizations:
       from: 2007
       to: 2020
       note: Portfolio Manager, International Reserves
+  board-of-peace:
+    name: Board of Peace
+    type: agency
+    founded: 2026
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: jared-kushner
+      role: board
+      from: 2026
+      note: Founding Executive Member
+    - person: marc-rowan
+      role: board
+      from: 2026
+      note: Executive Board member, Gaza Executive Board
+    - person: ajay-banga
+      role: board
+      from: 2026
+      note: Executive Board member
+    - person: steve-witkoff
+      role: board
+      from: 2026
+      note: Executive Board member, Gaza Executive Board
+    - person: hakan-fidan
+      role: member
+      from: 2026
+      note: Turkish representative
+    - person: robert-gabriel
+      role: board
+      from: 2026
+      note: Executive Board member
+    - person: josh-gruenbaum
+      role: advisor
+      from: 2026
+      note: Senior Advisor - day-to-day strategy and operations
+    - person: nickolay-mladenov
+      role: executive
+      from: 2026
+      note: High Representative for Gaza
+    - person: ali-al-thawadi
+      role: member
+      from: 2026
+      note: Qatar representative, Executive Board
+    - person: hassan-rashad
+      role: board
+      from: 2026
+      note: Executive Council member
+    - person: reem-al-hashimy
+      role: board
+      from: 2026
+      note: Gaza Executive Board member
+    - person: yakir-gabay
+      role: board
+      from: 2026
+      note: Gaza Executive Board member
+    - person: sigrid-kaag
+      role: board
+      from: 2026
+      note: Gaza Executive Board member (UN representative)
   bocconi:
     name: Universita Bocconi
     type: agency
@@ -7702,6 +7855,10 @@ organizations:
     - person: beny-steinmetz
       role: founder
       note: Beneficial owner
+  bsp-bulgaria:
+    name: Bulgarian Socialist Party (BSP)
+    type: party
+    headquarters: Sofia, Bulgaria
   bt-group:
     name: BT Group plc
     type: company
@@ -8864,6 +9021,8 @@ organizations:
   central-bank-of-egypt:
     name: Central Bank of Egypt
     type: centralbank
+    founded: 1961
+    headquarters: Cairo, Egypt
     stakeholders:
     - person: rania-mashat
       role: executive
@@ -10420,6 +10579,9 @@ organizations:
     - person: andrew-krepinevich
       role: advisor
       note: Adjunct Senior Fellow
+    - person: william-lynn
+      role: board
+      note: Board of Directors
   cnbc:
     name: CNBC
     type: media
@@ -11097,6 +11259,15 @@ organizations:
       from: 1997
       to: 1998
       note: Chairman
+  cornell-law:
+    name: Cornell Law School
+    type: university
+    headquarters: Ithaca, New York, USA
+    status: active
+    stakeholders:
+    - person: william-lynn
+      role: alumni
+      note: JD 1980
   cornell-university:
     name: Cornell University
     type: university
@@ -11632,6 +11803,11 @@ organizations:
     - person: phebe-novakovic
       role: board
       note: Trustee
+    - person: william-lynn
+      role: fellow
+      from: 1982
+      to: 1987
+      note: Executive Director defense reorganization study, led to Goldwater-Nichols Act
   csr-europe:
     name: CSR Europe
     type: forum
@@ -11898,6 +12074,18 @@ organizations:
       role: owner
       from: 2024
       note: Acquired for $5.3B, delisted from LSE
+  dartmouth:
+    name: Dartmouth College
+    type: university
+    headquarters: Hanover, New Hampshire, USA
+    status: active
+    stakeholders:
+    - person: leon-black
+      role: alumni
+      note: BA Philosophy/History 1973, summa cum laude
+    - person: william-lynn
+      role: alumni
+      note: BA 1976
   dassault-aviation:
     name: Dassault Aviation
     type: company
@@ -12868,6 +13056,31 @@ organizations:
     stakeholders:
     - org: icd
       role: owner
+  dps-bulgaria:
+    name: Movement for Rights and Freedoms (DPS)
+    type: party
+    headquarters: Sofia, Bulgaria
+    stakeholders:
+    - person: delyan-peevski
+      role: leader
+      note: Chairman DPS-New Beginning
+  drexel-burnham-lambert:
+    name: Drexel Burnham Lambert
+    type: bank
+    founded: 1935
+    headquarters: New York, USA
+    status: defunct
+    stakeholders:
+    - person: marc-rowan
+      role: executive
+      from: 1985
+      to: 1990
+      note: M&A team
+    - person: leon-black
+      role: executive
+      from: 1977
+      to: 1990
+      note: MD, Head M&A, co-head Corporate Finance
   dropbox:
     name: Dropbox, Inc.
     type: company
@@ -13531,6 +13744,31 @@ organizations:
     - person: etienne-davignon
       role: chairman
       note: President
+  egypt-gis:
+    name: General Intelligence Service
+    type: agency
+    founded: 1954
+    headquarters: Cairo, Egypt
+    stakeholders:
+    - person: abbas-kamel
+      role: executive
+      from: 2018
+      to: 2024
+      note: Director
+    - person: hassan-rashad
+      role: executive
+      from: 2024
+      note: Director
+  egyptian-armed-forces:
+    name: Egyptian Armed Forces
+    type: defense
+    founded: 1952
+    headquarters: Cairo, Egypt
+    stakeholders:
+    - person: abdel-fattah-el-sisi
+      role: executive
+      from: 1977
+      note: Ex comandante in capo
   eia:
     name: Emirates Investment Authority
     type: swf
@@ -14877,6 +15115,11 @@ organizations:
       role: president
       from: 1979
       to: 1982
+    - person: nickolay-mladenov
+      role: member
+      from: 2007
+      to: 2009
+      note: MEP, EPP-ED Group (GERB)
   european-policy-centre:
     name: European Policy Centre
     type: thinktank
@@ -15002,6 +15245,16 @@ organizations:
       role: chairman
       from: 2008
       note: Founder and Chairman
+  exeter:
+    name: University of Exeter
+    type: university
+    founded: 1955
+    headquarters: Exeter, UK
+    status: active
+    stakeholders:
+    - person: sigrid-kaag
+      role: alumni
+      note: MA Middle East Studies 1988, Honorary LLD 2015
   exim-bank-china:
     name: Export-Import Bank of China
     type: bank
@@ -16548,6 +16801,9 @@ organizations:
       role: member
       from: 2008
       note: Political analyst and contributor
+    - person: robert-gabriel
+      role: executive
+      note: Associate Producer, The Ingraham Angle
     - org: fox-corporation
       share: 100%
   fox-sports:
@@ -17790,6 +18046,19 @@ organizations:
       from: 1967
       to: 1972
       note: BS Electrical Engineering (1971), MS Information Theory/CS (1972)
+  gerb:
+    name: Citizens for European Development of Bulgaria (GERB)
+    type: party
+    founded: 2006
+    headquarters: Sofia, Bulgaria
+    stakeholders:
+    - person: eva-maydell
+      role: member
+    - person: rosen-zhelyazkov
+      role: member
+    - person: boyko-borisov
+      role: founder
+      from: 2006
   german-marshall-fund:
     name: German Marshall Fund
     type: thinktank
@@ -18778,6 +19047,37 @@ organizations:
     - person: walther-moreira-salles
       role: minister
       note: Ambassador to USA 1950s, Finance Minister 1961-1963
+  governo-bulgaria:
+    name: Government of Bulgaria
+    type: government
+    founded: 1878
+    headquarters: Sofia, Bulgaria
+    status: active
+    stakeholders:
+    - person: nickolay-mladenov
+      role: minister
+      from: 2009
+      to: 2013
+      note: Min. Defense 2009-10, Min. Foreign Affairs 2010-13
+    - person: rumen-radev
+      role: leader
+      from: 2017
+      note: Presidente 2017-2026
+    - person: rosen-zhelyazkov
+      role: leader
+      from: 2025
+      to: 2025
+      note: PM gennaio-dicembre 2025
+    - person: boyko-borisov
+      role: leader
+      from: 2009
+      to: 2021
+      note: 'PM 3 mandati: 2009-2013, 2014-2017, 2017-2021'
+    - person: todor-zhivkov
+      role: leader
+      from: 1954
+      to: 1989
+      note: Segretario Generale Partito Comunista
   governo-canada:
     name: Governo Canada
     type: government
@@ -19045,6 +19345,50 @@ organizations:
       from: 2001
       to: 2019
       note: Presidente
+  governo-egitto:
+    name: Government of Egypt
+    type: government
+    founded: 1952
+    headquarters: Cairo, Egypt
+    stakeholders:
+    - person: dina-powell
+      role: advisor
+      note: Egyptian-American, connects US-Egypt
+    - person: rania-al-mashat
+      role: minister
+      from: 2024
+      note: Minister of Planning
+    - person: abdel-fattah-el-sisi
+      role: leader
+      from: 2014
+    - person: mostafa-madbouly
+      role: minister
+      from: 2018
+      note: Prime Minister
+    - person: abbas-kamel
+      role: advisor
+      from: 2024
+      note: Coordinatore servizi sicurezza, inviato speciale
+    - person: badr-abdelatty
+      role: minister
+      from: 2024
+      note: Minister of Foreign Affairs
+    - person: gamal-abdel-nasser
+      role: leader
+      from: 1956
+      to: 1970
+    - person: anwar-sadat
+      role: leader
+      from: 1970
+      to: 1981
+    - person: hosni-mubarak
+      role: leader
+      from: 1981
+      to: 2011
+    - person: mohamed-morsi
+      role: leader
+      from: 2012
+      to: 2013
   governo-estonia:
     name: Governo Estonia
     type: government
@@ -20879,16 +21223,6 @@ organizations:
       from: 1988
       to: 1994
       note: Trade
-  governo-moldova:
-    name: Governo Moldova
-    type: government
-    headquarters: Chisinau
-    stakeholders:
-    - person: maia-sandu
-      role: leader
-      from: 2020
-      to: 2019
-      note: President
   governo-montenegro:
     name: Governo Montenegro
     type: government
@@ -21044,6 +21378,11 @@ organizations:
       from: 1951
       to: 1969
       note: Treasurer-General, Ministry of Finance
+    - person: sigrid-kaag
+      role: minister
+      from: 2017
+      to: 2024
+      note: Min. Foreign Trade (2017-21), Min. Finance & Deputy PM (2022-24)
   governo-pakistan:
     name: Government of Pakistan
     type: government
@@ -21129,6 +21468,10 @@ organizations:
     name: Governo del Qatar
     type: government
     headquarters: Doha
+    stakeholders:
+    - person: ali-al-thawadi
+      role: minister
+      note: Minister for Strategic Affairs, Chief of Staff to Sheikh Mohammed bin Hamad
   governo-romania:
     name: Governo della Romania
     type: government
@@ -21573,6 +21916,16 @@ organizations:
     headquarters: Damascus, Syria
     status: active
     stakeholders:
+    - person: hafez-assad
+      role: leader
+      from: 1971
+      to: 2000
+      note: President (1971-2000)
+    - person: bashar-assad
+      role: leader
+      from: 2000
+      to: 2024
+      note: President (2000-2024), fled to Russia Dec 8, 2024
     - person: amin-al-hafez
       role: leader
       from: 1963
@@ -21583,6 +21936,23 @@ organizations:
       from: 1946
       to: 1966
       note: General, Syrian Army
+    - person: ahmed-al-sharaa
+      role: leader
+      from: 2025
+      note: Transitional President (Jan 2025-)
+    - person: asaad-al-shaybani
+      role: minister
+      from: 2024
+      note: Minister of Foreign Affairs (Dec 2024-)
+    - person: mohammed-al-bashir
+      role: leader
+      from: 2024
+      to: 2025
+      note: Prime Minister caretaker government (Dec 2024 - Mar 2025)
+    - person: murhaf-abu-qasra
+      role: minister
+      from: 2024
+      note: Minister of Defense (Dec 2024-)
   governo-slovenia:
     name: Governo Slovenia
     type: government
@@ -21830,8 +22200,8 @@ organizations:
       note: Secretary General (Undersecretary) Ministry of Foreign Affairs
     - person: hakan-fidan
       role: minister
-      from: 2023
-      note: Min Esteri
+      from: 2003
+      note: TIKA Dir 2003-07, Deputy Undersec 2007-10, MIT Dir 2010-23, Min Esteri 2023-
     - person: mehmet-simsek
       role: minister
       from: 2023
@@ -21880,6 +22250,10 @@ organizations:
       role: minister
       from: 2021
       note: First Deputy Ruler Dubai, Deputy PM, Minister of Finance
+    - person: reem-al-hashimy
+      role: minister
+      from: 2008
+      note: Minister of State for International Cooperation (2016-)
   governo-ucraina:
     name: Governo Ucraina
     type: government
@@ -22784,6 +23158,10 @@ organizations:
     - person: robert-steel
       role: minister
       note: Under Secretary Domestic Finance 2006-08
+    - person: steve-witkoff
+      role: advisor
+      from: 2025
+      note: Special Envoy Middle East, Special Envoy Peace Missions
     - person: mike-vickers
       role: minister
       from: 2011
@@ -22970,6 +23348,11 @@ organizations:
       from: 1997
       to: 2005
       note: Chief Contracting Officer, Army Corps of Engineers
+    - person: robert-work
+      role: executive
+      from: 2014
+      to: 2017
+      note: Deputy Secretary of Defense
     - person: nadia-schadlow
       role: advisor
       from: 2017
@@ -23065,6 +23448,41 @@ organizations:
       from: 1979
       to: 1985
       note: Naval Intelligence Analyst, Anti-Terrorist Alert Center
+    - person: william-lynn
+      role: executive
+      from: 2009
+      to: 2011
+      note: Deputy Secretary of Defense
+    - person: william-lynn
+      role: staff
+      from: 1987
+      to: 1993
+      note: Counsel to Sen. Ted Kennedy, Senate Armed Services Committee
+    - person: william-lynn
+      role: executive
+      from: 1993
+      to: 1997
+      note: Director, Program Analysis & Evaluation, DoD
+    - person: william-lynn
+      role: executive
+      from: 1997
+      to: 2001
+      note: Under Secretary of Defense (Comptroller), CFO DoD
+    - person: thomas-kennedy
+      role: military
+      note: Captain, USAF, satellite launch vehicle avionics
+    - person: frances-townsend
+      role: advisor
+      note: Assistant to President Bush for Homeland Security and Counterterrorism
+    - person: robert-gabriel
+      role: advisor
+      from: 2025
+      note: Deputy National Security Adviser, Assistant to President for Policy
+    - person: aryeh-lightstone
+      role: advisor
+      from: 2017
+      to: 2021
+      note: Senior Advisor to US Ambassador to Israel; Special Envoy for Economic Normalization
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -23127,6 +23545,18 @@ organizations:
     - person: paul-maritz
       role: board
       note: Board member for 10 years, Chairman
+  grand-city-properties:
+    name: Grand City Properties SA
+    type: company
+    founded: 2012
+    headquarters: Luxembourg
+    status: active
+    sector: real estate
+    stakeholders:
+    - person: yakir-gabay
+      role: founder
+      from: 2012
+      note: Founder, Chairman Advisory Board, 40% stake
   grasim:
     name: Grasim Industries
     type: company
@@ -23500,6 +23930,17 @@ organizations:
     - person: francesco-gaetano-caltagirone
       role: chairman
       note: Fondatore e patron
+  gsa:
+    name: General Services Administration
+    type: agency
+    founded: 1949
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: josh-gruenbaum
+      role: executive
+      from: 2025
+      note: Commissioner, Federal Acquisition Service
   gsk:
     name: GSK plc
     type: pharma
@@ -23951,6 +24392,9 @@ organizations:
     headquarters: Cambridge, USA
     status: active
     stakeholders:
+    - person: jared-kushner
+      role: alumni
+      note: BA Government 2003
     - person: greg-brockman
       role: alumni
       note: Dropped out 2009, Math/CS
@@ -24013,6 +24457,9 @@ organizations:
       from: 1998
       to: 2012
       note: Donated $8.9M, continued campus visits after 2008 conviction
+    - person: reem-al-hashimy
+      role: alumni
+      note: Master degree
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -24020,6 +24467,9 @@ organizations:
     headquarters: Boston, USA
     status: active
     stakeholders:
+    - person: leon-black
+      role: alumni
+      note: MBA 1975
     - person: hiroshi-mikitani
       role: alumni
       from: 1991
@@ -24399,6 +24849,9 @@ organizations:
     - person: efraim-halevy
       role: alumni
       note: LL.M. cum laude 1956
+    - person: yakir-gabay
+      role: alumni
+      note: BS Economics/Accounting, MBA Finance
     - org: talpiot
       role: partner
       note: Academic partner, cadets study at Hebrew University
@@ -24534,6 +24987,30 @@ organizations:
       from: 1996
       to: 1998
       note: Chief of Staff
+    - person: robert-greenway
+      role: executive
+      from: 2025
+      note: Director Allison Center; Chairman Abraham Accords initiative
+    - person: edwin-feulner
+      role: founder
+      from: 1973
+      note: Co-Founder; President 1977-2013, 2017
+    - person: paul-weyrich
+      role: founder
+      from: 1973
+      to: 2008
+      note: Co-Founder; First President
+    - person: kevin-roberts
+      role: executive
+      from: 2021
+      note: President; Project 2025 lead
+    - person: rebekah-mercer
+      role: board
+      note: Board of Trustees
+    - org: abraham-accords-peace-institute
+      role: merged
+      from: 2025
+      note: Mission absorbed by Heritage Foundation April 2025
   hermes:
     name: Hermès International SCA
     type: company
@@ -24879,6 +25356,15 @@ organizations:
       share: 2.0%
     - org: vanguard
       share: 2.0%
+  hofstra:
+    name: Hofstra University
+    type: university
+    headquarters: Hempstead, New York, USA
+    status: active
+    stakeholders:
+    - person: steve-witkoff
+      role: alumni
+      note: BA Political Science 1980, JD 1983
   holcim:
     name: Holcim Ltd
     type: company
@@ -25139,6 +25625,18 @@ organizations:
     - org: hsbc
       role: subsidiary
       share: 100
+  hts:
+    name: Hayat Tahrir al-Sham
+    type: party
+    founded: 2017
+    headquarters: Idlib, Syria
+    status: active
+    stakeholders:
+    - person: ahmed-al-sharaa
+      role: leader
+      from: 2017
+      to: 2025
+      note: Emir (founder as Abu Mohammed al-Jolani)
   huawei:
     name: Huawei Technologies
     type: company
@@ -25267,6 +25765,16 @@ organizations:
       role: board
       from: 2011
       note: Former Chairman
+  huvepharma:
+    name: Huvepharma
+    type: company
+    founded: 1999
+    headquarters: Sofia, Bulgaria
+    sector: pharma
+    stakeholders:
+    - person: kiril-domuschiev
+      role: founder
+      from: 1999
   hyatt-hotels:
     name: Hyatt Hotels Corporation
     type: company
@@ -25322,6 +25830,17 @@ organizations:
     stakeholders:
     - person: hanli-prinsloo
       role: founder
+  iaea:
+    name: International Atomic Energy Agency
+    type: agency
+    founded: 1957
+    headquarters: Vienna, Austria
+    status: active
+    stakeholders:
+    - person: hakan-fidan
+      role: board
+      from: 2008
+      note: Board of Governors, Nuclear Sherpa for PM Erdogan
   iai:
     name: Istituto Affari Internazionali
     type: thinktank
@@ -28591,6 +29110,16 @@ organizations:
     - person: alwaleed-bin-talal
       role: chairman
       from: 1980
+  kings-college-london:
+    name: King's College London
+    type: university
+    founded: 1829
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: nickolay-mladenov
+      role: alumni
+      note: MA War Studies 1996
   kingsoft:
     name: Kingsoft Corporation
     type: company
@@ -28739,6 +29268,11 @@ organizations:
       from: 1976
       to: 1987
       note: Co-Founder
+    - person: josh-gruenbaum
+      role: executive
+      from: 2020
+      to: 2025
+      note: Director, Credit team - restructurings
     - org: mubadala
       role: investor
       note: $1B co-investment Asia-Pacific 2022
@@ -29226,6 +29760,15 @@ organizations:
       role: board
       from: 2024
       note: D.E. Shaw agreement
+  la-mancha-holding:
+    name: La Mancha Holding
+    type: company
+    founded: 2012
+    headquarters: Toronto, Canada
+    stakeholders:
+    - person: naguib-sawiris
+      role: chairman
+      from: 2012
   la-repubblica:
     name: La Repubblica
     type: media
@@ -29815,6 +30358,31 @@ organizations:
       role: merged
       from: 2016
       note: Fusione in Leonardo-Finmeccanica
+  leonardo-drs:
+    name: Leonardo DRS
+    type: defense
+    founded: 1968
+    headquarters: Arlington, Virginia, USA
+    status: active
+    note: 'US subsidiary of Leonardo SpA. Acquired by Finmeccanica 2008 for $5.2B. IPO 2022 via RADA merger. Nasdaq: DRS'
+    stakeholders:
+    - person: william-lynn
+      role: executive
+      from: 2012
+      to: 2025
+      note: Chairman & CEO
+    - person: john-baylouny
+      role: executive
+      from: 2026
+      note: President & CEO from Jan 2026. Previously COO 2018-2025, CTO
+    - person: frances-townsend
+      role: chairman
+      from: 2009
+      note: Board since 2009, Lead Independent Director, Chairman from Jan 2026
+    - org: leonardo
+      role: subsidiary
+      share: 1.0
+      note: Largest US subsidiary
   les-echos:
     name: Les Echos
     type: media
@@ -30341,6 +30909,15 @@ organizations:
       share: 60%
       from: 2018
       note: $8B+ invested
+  ludogorets-razgrad:
+    name: PFC Ludogorets Razgrad
+    type: sportsclub
+    founded: 1945
+    headquarters: Razgrad, Bulgaria
+    stakeholders:
+    - person: kiril-domuschiev
+      role: owner
+      from: 2010
   lufthansa:
     name: Deutsche Lufthansa AG
     type: company
@@ -30710,6 +31287,17 @@ organizations:
       role: chairman
       from: 2011
       note: Chairman of the Board
+  mansour-group:
+    name: Mansour Group
+    type: company
+    founded: 1952
+    headquarters: Cairo, Egypt
+    stakeholders:
+    - person: mohamed-mansour
+      role: chairman
+    - person: youssef-mansour
+      role: chairman
+      note: Chairman consumer goods division
   manufacturers-hanover:
     name: Manufacturers Hanover Trust Company
     type: bank
@@ -30796,6 +31384,16 @@ organizations:
     stakeholders:
     - org: walt-disney
       share: 100%
+  maryland:
+    name: University of Maryland
+    type: university
+    founded: 1856
+    headquarters: College Park, USA
+    status: active
+    stakeholders:
+    - person: hakan-fidan
+      role: alumni
+      note: BA Management, BA Political Science
   masdar:
     name: Masdar (Abu Dhabi Future Energy Company)
     type: company
@@ -31715,6 +32313,10 @@ organizations:
     - person: henry-kravis
       role: board
       note: Trustee, major donor (Kravis Wing)
+    - person: leon-black
+      role: board
+      from: 2000
+      note: Trustee
     - person: julia-koch
       role: board
       from: 2023
@@ -32105,6 +32707,16 @@ organizations:
       role: executive
       from: 1992
       note: Chairman & CEO since 2012, joined 1992
+  military-technical-college-egypt:
+    name: Military Technical College
+    type: university
+    founded: 1957
+    headquarters: Cairo, Egypt
+    status: active
+    stakeholders:
+    - person: hassan-rashad
+      role: alumni
+      note: First Lieutenant 1990
   milken-institute:
     name: Milken Institute
     type: thinktank
@@ -32460,6 +33072,18 @@ organizations:
       role: incubator
       from: 2010
       note: Incubated Moderna, 20M shares ($4B+ value)
+  moelis:
+    name: Moelis & Company
+    type: bank
+    founded: 2007
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: josh-gruenbaum
+      role: executive
+      from: 2016
+      to: 2020
+      note: Vice President, Restructuring Group
   mol-group:
     name: MOL Group
     type: company
@@ -32489,6 +33113,11 @@ organizations:
       role: chairman
       from: 1994
       note: President 2005-2018, Chair dal 2021
+    - person: leon-black
+      role: chairman
+      from: 2018
+      to: 2021
+      note: Chairman 2018-2021, trustee ongoing
     - person: andreas-dracopoulos
       role: member
       from: 1997
@@ -33317,6 +33946,11 @@ organizations:
       from: 2005
       to: 2008
       note: US Ambassador to NATO (first woman)
+    - person: hakan-fidan
+      role: staff
+      from: 1986
+      to: 2001
+      note: NCO, Allied Rapid Reaction Corps (Germany)
     - person: james-stavridis
       role: official
       from: 2009
@@ -33679,6 +34313,14 @@ organizations:
       from: 2009
       to: 2021
       note: Board member, then emeritus
+  new-bulgarian-media-group:
+    name: New Bulgarian Media Group
+    type: media
+    headquarters: Sofia, Bulgaria
+    stakeholders:
+    - person: delyan-peevski
+      role: owner
+      note: Fondatore, controlla 80% stampa bulgara
   new-enterprise-associates:
     name: New Enterprise Associates
     type: privateequity
@@ -34817,6 +35459,9 @@ organizations:
     headquarters: New York, USA
     status: active
     stakeholders:
+    - person: jared-kushner
+      role: alumni
+      note: JD/MBA 2007
     - person: danah-boyd
       role: professor
     - person: jack-dorsey
@@ -34825,6 +35470,12 @@ organizations:
     - person: denis-yarats
       role: alumni
       note: PhD Computer Science
+    - person: robert-gabriel
+      role: alumni
+      note: BA
+    - person: josh-gruenbaum
+      role: alumni
+      note: JD School of Law, MBA Stern School of Business
   oak-foundation:
     name: Oak Foundation
     type: foundation
@@ -34891,6 +35542,15 @@ organizations:
       role: executive
       from: 2020
       note: Executive Director ORF America
+  oci:
+    name: OCI N.V.
+    type: company
+    founded: 2013
+    headquarters: Amsterdam, Netherlands
+    stakeholders:
+    - person: nassef-sawiris
+      role: chairman
+      from: 2013
   octea-mining:
     name: Octea Mining
     type: company
@@ -35306,6 +35966,11 @@ organizations:
       from: 2013
       to: 2017
       note: US Ambassador to UN (cabinet rank)
+    - person: sigrid-kaag
+      role: executive
+      from: 1994
+      note: UNDP ASG, UNICEF Regional Dir, Special Coordinator Lebanon/Syria, Gaza Coordinator, Middle East Peace Process
+        Coordinator
     - org: wef
       role: partner
   op-jindal-group:
@@ -35397,6 +36062,11 @@ organizations:
     - person: andreas-treichl
       role: advisor
       note: European Advisory Board
+    - person: nickolay-mladenov
+      role: executive
+      from: 1996
+      to: 1998
+      note: Program Director, Sofia
     - org: open-society-romania
       role: affiliate
       from: 1990
@@ -35944,6 +36614,9 @@ organizations:
     - person: chelsea-clinton
       role: alumni
       note: MPhil International Relations 2003, DPhil 2014
+    - person: sigrid-kaag
+      role: alumni
+      note: MPhil International Relations 1987, St Antony College
   oxford-university:
     name: University of Oxford
     type: university
@@ -37445,6 +38118,9 @@ organizations:
     - person: dario-amodei
       role: alumni
       note: PhD Biophysics
+    - person: william-lynn
+      role: alumni
+      note: MPA 1982
   prisa:
     name: Grupo PRISA
     type: media
@@ -38140,10 +38816,25 @@ organizations:
       from: 2010
       to: 2017
       note: VP Government Relations, top lobbyist, $1.5M/year
+    - person: robert-work
+      role: board
+      from: 2017
+      to: 2020
+      note: Board of Directors, joined 1 month after leaving Pentagon
     - person: vannevar-bush
       role: founder
       from: 1922
       note: Co-founded as American Appliance Company
+    - person: william-lynn
+      role: executive
+      from: 2002
+      to: 2009
+      note: SVP Government Operations, chief lobbyist
+    - person: thomas-kennedy
+      role: executive
+      from: 2014
+      to: 2020
+      note: CEO & Chairman, orchestrated UTC merger
   rbi:
     name: Reserve Bank of India
     type: centralbank
@@ -39432,6 +40123,15 @@ organizations:
       from: 2018
       to: 2021
       note: CEO Collins Aerospace
+    - person: thomas-kennedy
+      role: chairman
+      from: 2020
+      to: 2021
+      note: Executive Chairman post-merger
+    - org: raytheon
+      role: merged
+      from: 2020
+      note: Merger with United Technologies to form RTX
   rusi:
     name: Royal United Services Institute
     type: thinktank
@@ -39532,6 +40232,15 @@ organizations:
     - person: boris-rotenberg
       role: chairman
       note: President
+  rutgers:
+    name: Rutgers University
+    type: university
+    headquarters: New Brunswick, New Jersey, USA
+    status: active
+    stakeholders:
+    - person: thomas-kennedy
+      role: alumni
+      note: BS Electrical Engineering 1977
   rwanda-development-board:
     name: Rwanda Development Board
     type: agency
@@ -40502,6 +41211,17 @@ organizations:
       role: executive
       from: 2021
       note: EVP & COO
+  sdf:
+    name: Syrian Democratic Forces
+    type: party
+    founded: 2015
+    headquarters: Northeast Syria
+    status: active
+    stakeholders:
+    - person: mazloum-abdi
+      role: leader
+      from: 2015
+      note: Commander-in-Chief
   sea-limited:
     name: Sea Limited
     type: company
@@ -40942,6 +41662,11 @@ organizations:
     - person: gabriel-hauge
       role: board
       note: Royal Dutch Petroleum
+    - person: sigrid-kaag
+      role: executive
+      from: 1988
+      to: 1990
+      note: Analyst, London
     - org: blackrock
       share: 4.4%
     - org: vanguard
@@ -44424,6 +45149,18 @@ organizations:
       from: 1989
       to: 1998
       note: Managing General Partner
+  textron:
+    name: Textron Inc.
+    type: defense
+    founded: 1923
+    headquarters: Providence, Rhode Island, USA
+    status: active
+    note: 'Conglomerate: Bell helicopters, Cessna aircraft, defense systems'
+    stakeholders:
+    - person: thomas-kennedy
+      role: board
+      from: 2023
+      note: Board of Directors
   tf1:
     name: Groupe TF1
     type: media
@@ -45449,6 +46186,9 @@ organizations:
     - person: ken-xie
       role: alumni
       note: BSc Electronic Engineering 1987, MSc 1989
+    - person: reem-al-hashimy
+      role: alumni
+      note: PhD
   tsinghua-university:
     name: Tsinghua University
     type: university
@@ -45554,6 +46294,16 @@ organizations:
     type: company
     status: active
     sector: cybersecurity
+  tufts:
+    name: Tufts University
+    type: university
+    founded: 1852
+    headquarters: Medford, USA
+    status: active
+    stakeholders:
+    - person: reem-al-hashimy
+      role: alumni
+      note: BA International Relations and French
   tufts-university:
     name: Tufts University
     type: university
@@ -45912,6 +46662,9 @@ organizations:
       role: member
       to: 2008
       note: PhD Statistics
+    - person: thomas-kennedy
+      role: alumni
+      note: PhD Engineering (Systems Control Theory)
   uconn:
     name: University of Connecticut
     type: university
@@ -46006,6 +46759,15 @@ organizations:
     - person: zhou-xi
       role: member
       note: PhD
+  uja-federation:
+    name: UJA-Federation of New York
+    type: foundation
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: marc-rowan
+      role: chairman
+      note: Board Chair
   ultratech-cement:
     name: UltraTech Cement
     type: company
@@ -46397,6 +47159,18 @@ organizations:
     - person: william-conway
       role: chairman
       note: Chairman (Carlyle portfolio company, defense)
+  united-nations:
+    name: United Nations
+    type: agency
+    founded: 1945
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: nickolay-mladenov
+      role: executive
+      from: 2013
+      to: 2020
+      note: Special Rep Iraq 2013-15, Special Coordinator Middle East Peace 2015-20
   united-shipbuilding-corporation:
     name: United Shipbuilding Corporation
     type: company
@@ -48149,16 +48923,13 @@ organizations:
     - person: volodymyr-zelensky
       role: member
       note: Davos speaker, alumni mentioned
-    - person: maia-sandu
-      role: member
-      note: Davos 2023 speaker
     - person: daria-kaleniuk
       role: ygl
       from: 2019
       note: Director Anti-Corruption Action Centre
     - person: eva-maydell
       role: ygl
-      from: 2019
+      from: 2022
     - person: andrius-kubilius
       role: member
       note: Personal invitation from Klaus Schwab
@@ -49333,6 +50104,9 @@ organizations:
     - person: nadav-zafrir
       role: member
       note: Agenda Contributor, speaker at Davos
+    - person: abdel-fattah-el-sisi
+      role: member
+      note: Special address Davos 2026
     - org: bilderberg
       role: partner
     - org: fmi
@@ -49474,6 +50248,9 @@ organizations:
     name: The Wharton School
     type: university
     stakeholders:
+    - person: marc-rowan
+      role: alumni
+      note: BS/MBA Finance 1985, Chair Board of Advisors
     - person: adam-grant
       role: professor
     - person: raj-ganguly
@@ -49640,6 +50417,17 @@ organizations:
     - person: marius-nacht
       role: board
       note: Board member and advisor
+  witkoff-group:
+    name: Witkoff Group
+    type: company
+    founded: 1997
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: steve-witkoff
+      role: founder
+      from: 1997
+      note: Chairman & CEO
   witness:
     name: WITNESS
     type: foundation
@@ -49737,6 +50525,18 @@ organizations:
       role: board
       from: 2003
       note: IAAF Council member
+  world-bank:
+    name: World Bank
+    type: agency
+    founded: 1944
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: nickolay-mladenov
+      role: staff
+      from: 1998
+      to: 1999
+      note: Program Coordinator, Social Dept Bulgaria
   world-gold-council:
     name: World Gold Council
     type: agency
@@ -50406,6 +51206,16 @@ organizations:
     - org: redbird-capital
       role: investor
       note: Yankees, Amazon partnership
+  yeshiva-university:
+    name: Yeshiva University
+    type: university
+    founded: 1886
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: aryeh-lightstone
+      role: alumni
+      note: BA Finance, Rabbinic Ordination (RIETS)
   yildiz-technical-university:
     name: Yildiz Technical University
     type: university
