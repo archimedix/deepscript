@@ -102,6 +102,60 @@ Mark Esper e' stato **il principale lobbyista** di Raytheon a Washington per 7 a
 
 **Conflitto**: Esper rifiuto' di ricusarsi da decisioni riguardanti Raytheon durante la sua conferma. Sen. Elizabeth Warren: "This smacks of corruption, plain and simple."
 
+### Caso Lynn: Da Lobbyista Raytheon a Deputy SecDef (con Waiver Obama)
+
+[William Lynn](../docs/persons/william-lynn.md) rappresenta un pattern ancora piu' completo di revolving door:
+
+| Periodo | Posizione | Note |
+|---------|-----------|------|
+| 1997-2001 | Under Secretary of Defense (Comptroller) | CFO del Pentagono (Clinton) |
+| 2002-2009 | SVP Government Operations, Raytheon | **Chief lobbyist al Pentagono** |
+| 2009-2011 | **Deputy Secretary of Defense** | Con waiver etico Obama |
+| 2012-2025 | Chairman & CEO, Leonardo DRS | Contractor europeo in USA |
+
+**Il Waiver Obama**: Lynn era registrato come lobbyista Raytheon al Pentagono fino al 2008. Le nuove regole etiche di Obama vietavano ai lobbyisti di lavorare nelle agenzie lobbate per 2 anni. **Obama concesse il primo waiver** della sua amministrazione proprio a Lynn, generando critiche da McCain e gruppi esterni.
+
+```
+LYNN: IL CICLO COMPLETO
+
+DoD (CFO) ──► RAYTHEON (lobby) ──► DoD (Deputy SecDef) ──► LEONARDO DRS (CEO)
+ 1997-01         2002-09              2009-11                 2012-25
+    │                │                    │                       │
+    │   $1.5M/anno   │    con waiver      │    14 anni CEO        │
+    │   lobbying     │    Obama           │    contractor IT      │
+    └────────────────┴────────────────────┴───────────────────────┘
+              CICLO GOVERNO-INDUSTRIA-GOVERNO-INDUSTRIA
+```
+
+### Caso Work: Deputy SecDef → Board Raytheon in 30 Giorni
+
+[Robert Work](../docs/persons/robert-work.md) e' entrato nel board di Raytheon **un mese** dopo aver lasciato il Pentagono:
+
+| Data | Evento |
+|------|--------|
+| **19 luglio 2017** | Lascia carica Deputy Secretary of Defense |
+| **14 agosto 2017** | Eletto nel Board of Directors Raytheon |
+| **26 giorni** | Tempo tra uscita Pentagono e ingresso Raytheon |
+
+**Pattern Work**: Servizio sotto Obama E Trump come Deputy SecDef → Board Raytheon (2017-2020) → Board RTX post-fusione.
+
+### Raytheon Revolving Door: Statistiche Aggregate
+
+Secondo POGO (2018) e il Warren Report (2022):
+
+| Metrica | Valore |
+|---------|--------|
+| Ex-funzionari gov in Raytheon | 64 |
+| Di cui: executives | 1 |
+| Di cui: board members | 3 |
+| Di cui: lobbyisti registrati | 60 |
+| SecDef con legami Raytheon (2017-2024) | **3 su 4** |
+
+**I 3 SecDef Raytheon**:
+- **Mark Esper**: VP Government Relations 2010-2017
+- **Lloyd Austin**: Board member 2016-2021
+- **+ William Lynn**: Deputy SecDef con waiver (2009-2011)
+
 ---
 
 ## Board dei Big 3: L'Elite Militare
@@ -951,6 +1005,43 @@ Leonardo (ex-Finmeccanica) e' controllata dallo Stato italiano (30% Tesoro):
 
 **Pattern italiano**: Nomine politiche, scandali giudiziari, revolving door governo-azienda di stato.
 
+#### Leonardo DRS: La Porta Europea nel Pentagono
+
+[Leonardo DRS](../docs/defense/leonardo-drs.md) e' la sussidiaria USA di Leonardo, acquisita nel 2008 per $5.2 miliardi. Rappresenta un caso unico di **revolving door transatlantico**:
+
+| Metrica | Valore |
+|---------|--------|
+| Ricavi 2024 | $3.23B |
+| Dipendenti | ~7.500 |
+| Sede | Arlington, Virginia (ombra del Pentagono) |
+| Ticker | Nasdaq: DRS (IPO 2022) |
+
+**Leadership e Revolving Door**:
+
+| Persona | Ruolo Leonardo DRS | Background Governo USA |
+|---------|-------------------|------------------------|
+| [William Lynn](../docs/persons/william-lynn.md) | CEO 2012-2025 | Deputy SecDef (Obama), ex-lobbyista Raytheon |
+| [Frances Townsend](../docs/persons/frances-townsend.md) | Chairman 2026- | Assistant to President Bush (Homeland Security) |
+| [John Baylouny](../docs/persons/john-baylouny.md) | CEO 2026- | Career DRS (35+ anni), ex-COO/CTO |
+
+**Pattern Leonardo DRS**:
+```
+CONTROLLO ITALIANO          LEADERSHIP AMERICANA
+      │                            │
+      ▼                            ▼
+Leonardo SpA (Roma)         William Lynn (ex-Deputy SecDef)
+   100% owner               Frances Townsend (ex-Bush WH)
+      │                            │
+      └──────────► CONTRATTI DOD ◄─┘
+                   $3+ miliardi/anno
+```
+
+**Significato strategico**:
+1. **Porta europea nel mercato USA**: Permette all'Italia accesso diretto ai contratti DoD
+2. **Reverse revolving door**: Ex-funzionari USA guidano sussidiaria di azienda statale estera
+3. **Consolidamento transatlantico**: Integrazione supply chain NATO
+4. **Il caso Lynn**: Da lobbyista Raytheon → Deputy SecDef → CEO di contractor europeo. Il ciclo completo del revolving door ora include contractor stranieri.
+
 ### I Campioni Francesi e la Rete Polytechnique
 
 La Francia ha costruito un ecosistema difesa integrato attorno a tre "campioni nazionali" con significativa partecipazione statale:
@@ -1609,6 +1700,7 @@ L'analisi dei Big 4 contractor USA rivela una **oligarchia militare-industriale*
 | **MBDA** | EU (JV) | €4.9B | Trinazionale (Airbus+BAE+Leonardo), combat-proven | [scheda](../docs/defense/mbda.md) |
 | **Airbus D&S** | EU | ~€11B | Divisione Airbus, CEO ex-Bundeswehr pilot | [scheda](../docs/company/airbus.md) |
 | **Rheinmetall** | Germania | **EUR 9.75B** | **Gabriel (Vice Chancellor) + Grillo (BDI President) board** | [scheda](../docs/defense/rheinmetall.md) |
+| **Leonardo DRS** | Italia/USA | **$3.23B** | **Sussidiaria USA Leonardo, CEO ex-Deputy SecDef** | [scheda](../docs/defense/leonardo-drs.md) |
 
 ### Persone Chiave Documentate
 
@@ -1626,7 +1718,8 @@ L'analisi dei Big 4 contractor USA rivela una **oligarchia militare-industriale*
 | Persona | Azienda | Scheda |
 |---------|---------|--------|
 | Marillyn Hewson | Ex Lockheed Martin | [scheda](../docs/persons/marillyn-hewson.md) |
-| Gregory Hayes | Ex RTX | - |
+| Gregory Hayes | Ex RTX | [scheda](../docs/persons/gregory-hayes.md) |
+| **Thomas Kennedy** | **Ex Raytheon** (CEO 2014-20, orchestro' fusione RTX) | [scheda](../docs/persons/thomas-kennedy.md) |
 
 #### Board Members (ex-vertici militari)
 
@@ -1652,6 +1745,9 @@ L'analisi dei Big 4 contractor USA rivela una **oligarchia militare-industriale*
 | **Edward Rice** | **General USAF** | **L3Harris** | [scheda](../docs/persons/edward-rice.md) |
 | **Tina Jonas** | **Under Secretary Defense (Comptroller)** | **Leidos** | [scheda](../docs/persons/tina-jonas.md) |
 | **Nancy Norton** | **Vice Admiral, Director DISA** | **Leidos** | [scheda](../docs/persons/nancy-norton.md) |
+| **Robert Work** | **Deputy SecDef (Obama-Trump)** | **Raytheon/RTX** | [scheda](../docs/persons/robert-work.md) |
+| **William Lynn** | **Deputy SecDef (Obama)** | **Raytheon → Leonardo DRS CEO** | [scheda](../docs/persons/william-lynn.md) |
+| **Frances Townsend** | **Bush WH Homeland Security** | **Leonardo DRS Chairman** | [scheda](../docs/persons/frances-townsend.md) |
 
 #### Boeing Leadership (Financial Nexus)
 

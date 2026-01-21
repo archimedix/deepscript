@@ -124,6 +124,7 @@
 | [Affinity Partners](../private-equity/affinity-partners.md) | Founder (2021-) |
 | [PIF Saudi](../swf/pif-saudi.md) | Recipient $2B investment |
 | [Governo USA](../government/governo-usa.md) | Senior Advisor (2017-21) |
+| [Board of Peace](../agency/board-of-peace.md) | Founding Executive Member (2026-) |
 
 ### Persone
 
@@ -152,14 +153,47 @@
 | **2021** | Riceve $2B da PIF Saudi |
 | **2024** | Net worth $900M (Forbes) |
 | **2025** | Annunciato deal EA $52.5B |
+| **2025** | Rientra in negoziazioni Gaza con Witkoff |
+| **2025** | Finalizza 20-point plan per Gaza (settembre) |
+| **2026** | Nominato nel Board of Peace |
+
+---
+
+## Ruolo Trump II (2025-2026)
+
+### Gaza Ceasefire Negotiations
+
+| Periodo | Ruolo |
+|---------|-------|
+| **Estate 2025** | Rientra nelle negoziazioni dopo stallo |
+| **Settembre 2025** | Finalizza 20-point plan con Witkoff durante UNGA |
+| **Ottobre 2025** | Coordina implementazione accordo |
+| **Novembre 2025** | Sviluppa "Plan B" come backup |
+| **Gennaio 2026** | Nominato nel Board of Peace |
+
+### Board of Peace (2026)
+
+Membro fondatore del Board of Peace insieme a:
+- Donald Trump (Chair)
+- Marco Rubio (Secretary of State)
+- Steve Witkoff (Middle East Envoy)
+- Tony Blair (ex UK PM)
+
+Anche nel **Gaza Executive Board** con Blair, Witkoff, Hakan Fidan (Turkey FM), Ali Al Thawadi (Qatar).
+
+### Conflitto di Interessi
+
+Critiche per il doppio ruolo:
+- Gestisce Affinity Partners con $2B+ da PIF Saudi e investimenti Qatar
+- Contemporaneamente consiglia su politica estera Medio Oriente
 
 ---
 
 ## Domande Aperte
 
 - [ ] Quali altri deal sta facilitando Affinity per PIF?
-- [ ] Ruolo nel secondo mandato Trump (2025-)?
-- [ ] Connessioni con altri SWF del Golfo?
+- [ ] Evoluzione ruolo nel Board of Peace
+- [ ] Dettagli "Plan B" per Gaza
 
 ---
 
@@ -179,4 +213,4 @@
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

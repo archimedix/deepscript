@@ -201,6 +201,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Poland Power Map](poland-power-map.md) | 1989-2025 | Shock therapy, NATO, EU |
 | [Hungary Power Map](hungary-power-map.md) | 1989-2025 | Stato illiberale, Orban |
 | [Romania Power Map](romania-power-map.md) | 1989-2025 | Post-Ceausescu, EU |
+| [Bulgaria Power Map](bulgaria-power-map.md) | 1946-2026 | State capture, oligarchi, sanzioni USA |
 | [Greece Power Map](greece-power-map.md) | 2001-2018 | Crisi debito, Troika |
 | [Norway Power Map](norway-power-map.md) | 1905-2025 | GPFG $1.9T, Stoltenberg |
 | [Sweden Power Map](sweden-power-map.md) | 1945-2025 | Wallenberg, NATO 2024 |
@@ -220,10 +221,11 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Indonesia Power Map](indonesia-power-map.md) | 1966-2025 | Oligarchie sino-indonesiane |
 | [Thailand Power Map](thailand-power-map.md) | 1932-2025 | Monarchia, Shinawatra, militari |
 
-### Medio Oriente
+### Medio Oriente e Nord Africa
 
 | Report | Periodo | Focus |
 |--------|---------|-------|
+| [Egypt Power Map](egypt-power-map.md) | 1952-2025 | Stato militare, Sisi, economia esercito, Camp David |
 | [Iran Power Map](iran-power-map.md) | 1979-2025 | Teocrazia, IRGC, proxy, pivot verso Est |
 | [Iraq Power Map](iraq-power-map.md) | 1958-2025 | Ba'ath, invasione, settarismo |
 | [Israel Power Map](israel-power-map.md) | 1948-2025 | Sicurezza, tech, diaspora |
@@ -232,6 +234,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Bahrain Power Map](bahrain-power-map.md) | 1971-2025 | Al Khalifa, finanza |
 | [Lebanon Power Map](lebanon-power-map.md) | 1943-2025 | Confessionalismo, Hezbollah, dinastie |
 | [Turkey Power Map](turkey-power-map.md) | 1923-2025 | Ataturk, Erdogan, neo-ottomanismo |
+| [Siria Power Map](siria-power-map.md) | 1963-2026 | Assad, caduta regime, transizione al-Sharaa |
 
 ### Africa
 
@@ -273,6 +276,7 @@ Mappe di potere regionali:
 - [Belgium Power Map](belgium-power-map.md)
 - [Poland Power Map](poland-power-map.md)
 - [Hungary Power Map](hungary-power-map.md)
+- [Bulgaria Power Map](bulgaria-power-map.md)
 - [Italy Power Map](italy-power-map.md)
 - [Luxembourg Power Map](luxembourg-power-map.md)
 - [Norway Power Map](norway-power-map.md)
@@ -285,6 +289,7 @@ Mappe di potere regionali:
 - [UAE Power Map](uae-power-map.md)
 - [Bahrain Power Map](bahrain-power-map.md)
 - [Lebanon Power Map](lebanon-power-map.md)
+- [Siria Power Map](siria-power-map.md)
 
 ### Report Settoriali
 Analisi di industrie specifiche:
@@ -300,8 +305,8 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 73 |
-| **Power Map geografici** | 40+ |
+| **Report totali** | 75 |
+| **Power Map geografici** | 42+ |
 | **Report tematici/settoriali** | 30+ |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |

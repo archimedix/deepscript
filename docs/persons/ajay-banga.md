@@ -38,6 +38,7 @@
 | **2020-2022** | Chairman | [ICC](../agency/icc.md) |
 | **2022-2023** | Vice Chairman | [General Atlantic](../private-equity/general-atlantic.md) |
 | **2023-** | President | [World Bank](../agency/world-bank.md) |
+| **2026-** | Executive Board member | [Board of Peace](../agency/board-of-peace.md) |
 
 ### Risultati Mastercard
 
@@ -120,6 +121,7 @@ Mandato 2023: trasformare l'istituzione per affrontare poverta' e cambiamento cl
 | **2022** | Vice Chairman General Atlantic |
 | **2023** | Nominato President World Bank (2 giugno) |
 | **2024** | Time 100 Most Influential |
+| **2026** | Nominato Executive Board member, Board of Peace (Gaza) |
 
 ---
 
@@ -130,6 +132,7 @@ Mandato 2023: trasformare l'istituzione per affrontare poverta' e cambiamento cl
 | Entita' | Connessione |
 |---------|-------------|
 | [World Bank](../agency/world-bank.md) | President 2023- |
+| [Board of Peace](../agency/board-of-peace.md) | Executive Board member 2026- |
 | [Trilateral Commission](../forum/trilateral-commission.md) | Member |
 | [CFR](../think-tank/cfr.md) | Member |
 | [WEF](../forum/wef.md) | Board of Trustees |
@@ -157,4 +160,4 @@ Mandato 2023: trasformare l'istituzione per affrontare poverta' e cambiamento cl
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*
