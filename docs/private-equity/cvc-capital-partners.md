@@ -178,6 +178,47 @@ Nuova entita' dedicata agli investimenti sportivi:
 
 ---
 
+## CVC Italia
+
+### Presenza
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Ufficio | Milano (dal 1987) |
+| Team | 10 investment professionals |
+| Equity deployed | >EUR 5B (ultimo decennio) |
+
+### Leadership Italia
+
+| Ruolo | Nome | Dal |
+|-------|------|-----|
+| Managing Partner, Head of Italy | [Giampiero Mazza](../persons/giampiero-mazza.md) | 2010 |
+| MD, Head of Italy - CVC DIF | [Roberta Battaglia](../persons/roberta-battaglia.md) | 2024 |
+
+### Deal Italiani Principali
+
+| Target | Anno | Valore | Settore | Note |
+|--------|------|--------|---------|------|
+| [Recordati](../pharma/recordati.md) | 2018 | EUR 3B | Pharma | Via FIMEI, 51.8% |
+| Sisal | - | - | Gaming | - |
+| Genetic | - | - | - | - |
+| Multiversity | - | - | Education | Pegaso, Mercatorum |
+| BIP | 2021 | EUR 700M+ | Consulting | Da Apax |
+| Pasubio | - | - | - | - |
+| Gruppo La Piadineria | - | - | Food | - |
+
+### CVC DIF (Infrastructure)
+
+Nel 2023 CVC acquisisce majority stake in DIF Capital Partners (fondato 2005), specializzato in mid-market infrastructure.
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Focus Italia | Data centers, 5G, fiber, SME consolidation |
+| Head of Italy | [Roberta Battaglia](../persons/roberta-battaglia.md) |
+| Ufficio | Milano (aperto 2024) |
+
+---
+
 ## Connessioni nel Database
 
 ### Figure correlate
@@ -188,6 +229,8 @@ Nuova entita' dedicata agli investimenti sportivi:
 | [Rob Lucas](../persons/rob-lucas.md) | CEO dal 2024 |
 | [Rolly van Rappard](../persons/rolly-van-rappard.md) | Co-Founder, Chairman |
 | [Steve Koltes](../persons/steve-koltes.md) | Co-Founder (ritirato 2022) |
+| [Giampiero Mazza](../persons/giampiero-mazza.md) | Managing Partner, Head of Italy (2010-) |
+| [Roberta Battaglia](../persons/roberta-battaglia.md) | MD, Head of Italy - CVC DIF (2024-) |
 
 ### Confronto con altri PE
 
@@ -232,8 +275,11 @@ CVC e' il leader indiscusso nel PE sportivo.
 ### Ufficiali
 - [CVC Capital Partners](https://www.cvc.com/)
 - [Rob Lucas Bio](https://www.cvc.com/about/our-people/rob-lucas/)
+- [Giampiero Mazza Bio](https://www.cvc.com/about/our-people/giampiero-mazza/)
 - [Donald Mackenzie Steps Back](https://www.cvc.com/media/news/2024/2024-02-13-cvc-co-founder-donald-mackenzie-to-step-back/)
 - [CVC Full Year 2024](https://www.cvc.com/media/news/2025/full-year-2024-activity-update/)
+- [CVC Recordati Acquisition](https://www.cvc.com/media/news/2018/2018-06-29-cvc-fund-vii-acquires-controlling-stake-in-recordati-spa/)
+- [CVC DIF - Roberta Battaglia](https://www.cvcdif.com/news-insights/5-questions-with-roberta-battaglia-managing-director-and-head-of-italy-at-cvc-dif)
 
 ### Wikipedia
 - [CVC Capital Partners](https://en.wikipedia.org/wiki/CVC_Capital_Partners)
@@ -246,7 +292,8 @@ CVC e' il leader indiscusso nel PE sportivo.
 - [PitchBook - CVC Six Nations Deal](https://pitchbook.com/news/articles/cvc-finally-scores-six-nations-rugby-deal)
 - [Sky Sports - Six Nations CVC Partnership](https://www.skysports.com/rugby-union/news/12333/12242553/six-nations-secures-long-term-partnership-with-cvc-capital-partners)
 - [PE Insights - CVC Sport Investments](https://pe-insights.com/from-rugby-to-laliga-cvc-launches-14bn-global-sport-group/)
+- [Il Sole 24 Ore - CVC conquista BIP](https://www.ilsole24ore.com/art/cvc-conquista-multinazionale-consulenza-bip-AE3Yq0M)
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

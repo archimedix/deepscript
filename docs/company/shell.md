@@ -141,6 +141,34 @@ La [famiglia Orange-Nassau](../family/orange-nassau.md) ha avuto storicamente pa
 | **Climate litigation** | 2021 | Tribunale olandese ordina riduzione emissioni 45% entro 2030 |
 | **Greenwashing** | Continuo | Accuse di marketing ingannevole su impegni climatici |
 | **Exit Olanda** | 2022 | Trasferimento HQ visto come "fuga" da tassazione e sentenze clima |
+| **BP Merger blocked** | 2025 | M&A team propone acquisizione BP; CEO Sawan e CFO Gorman bloccano |
+
+---
+
+## Sviluppi 2025
+
+### Speculazione Merger Shell-BP
+
+Nel 2025 Shell ha valutato internamente l'acquisizione di BP, che avrebbe creato il piu' grande deal petrolifero da decenni.
+
+| Data | Evento |
+|------|--------|
+| **Maggio 2025** | Bloomberg riporta che Shell sta valutando BP |
+| **Giugno 2025** | WSJ riporta "early talks"; azioni BP +10% |
+| **Giugno 2025** | Shell nega formalmente qualsiasi trattativa |
+| **Dicembre 2025** | Greg Gut (Head of M&A) si dimette |
+
+**Posizioni interne:**
+- **Pro-merger**: Greg Gut (M&A), Sir Andrew Mackenzie (Chairman)
+- **Contro-merger**: Wael Sawan (CEO), Sinead Gorman (CFO)
+
+**Motivazioni CEO contro**: Timore che una transazione di tale scala potesse deragliare le priorita' strategiche di Shell.
+
+**Contesto BP**: Nel febbraio 2025, BP ha annunciato un "fundamental reset" strategico, abbandonando i piani clean-energy per tornare a focalizzarsi sui combustibili fossili. Elliott Investment Management ha aumentato la quota sopra il 5%.
+
+### Dimissioni Greg Gut
+
+Greg Gut, Head of M&A di Shell, si e' dimesso nel dicembre 2025 dopo che la sua proposta di acquisire BP e' stata bloccata dal CEO Wael Sawan.
 
 ---
 
@@ -207,4 +235,4 @@ La [famiglia Orange-Nassau](../family/orange-nassau.md) ha avuto storicamente pa
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Gennaio 2025*

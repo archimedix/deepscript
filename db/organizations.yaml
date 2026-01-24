@@ -1,4 +1,18 @@
 organizations:
+  1mdb:
+    name: 1Malaysia Development Berhad
+    type: company
+    founded: 2009
+    headquarters: Kuala Lumpur, Malaysia
+    stakeholders:
+    - person: jho-low
+      role: advisor
+      note: Ideatore schema di frode, latitante
+    - org: goldman-sachs
+      role: underwriter
+      from: 2012
+      to: 2013
+      note: Bond $6.5B, settlement $2.9B nel 2020
   3g-capital:
     name: 3G Capital
     type: privateequity
@@ -692,9 +706,76 @@ organizations:
     name: Abu Dhabi National Oil Company (ADNOC)
     type: company
     founded: 1971
-    headquarters: Abu Dhabi, UAE
+    headquarters: Abu Dhabi, ARE
     status: active
     sector: oil-gas
+    aum: $80B+ (XRG enterprise value)
+    stakeholders:
+    - person: sultan-al-jaber
+      role: executive
+      from: 2016
+      note: Group CEO
+  adnoc-distribution:
+    name: ADNOC Distribution
+    type: company
+    headquarters: Abu Dhabi, ARE
+    status: active
+    sector: fuel-retail
+    stakeholders:
+    - org: xrg
+      role: stake
+      share: 0.77
+      from: 2025
+      note: 77% via XRG transfer
+  adnoc-drilling:
+    name: ADNOC Drilling
+    type: company
+    headquarters: Abu Dhabi, ARE
+    status: active
+    sector: oil-gas-services
+    stakeholders:
+    - org: xrg
+      role: stake
+      share: 0.785
+      from: 2025
+      note: 78.5% via XRG transfer
+  adnoc-gas:
+    name: ADNOC Gas
+    type: company
+    headquarters: Abu Dhabi, ARE
+    status: active
+    sector: gas
+    stakeholders:
+    - org: xrg
+      role: stake
+      share: 0.86
+      from: 2025
+      note: 86% via XRG transfer
+  adnoc-gas-pipeline:
+    name: ADNOC Gas Pipeline Assets
+    type: company
+    headquarters: Abu Dhabi, ARE
+    status: active
+    sector: gas-infrastructure
+    stakeholders:
+    - org: kkr
+      role: stake
+      from: 2025
+      note: Minority stake acquired 2025
+    - org: adnoc
+      role: subsidiary
+  adnoc-logistics:
+    name: ADNOC Logistics & Services
+    type: company
+    headquarters: Abu Dhabi, ARE
+    status: active
+    sector: logistics
+    stakeholders:
+    - org: xrg
+      role: stake
+      share: 0.78
+      from: 2025
+      note: 78% via XRG transfer
   adq:
     name: Abu Dhabi Developmental Holding Company
     type: swf
@@ -952,6 +1033,10 @@ organizations:
       from: 1926
       to: 1928
       note: Primo presidente, nominato da Mussolini
+    - person: enrico-mattei
+      role: executive
+      from: 1945
+      to: 1953
   agnico-eagle:
     name: Agnico Eagle Mines
     type: company
@@ -2150,6 +2235,17 @@ organizations:
       from: 2011
       to: 2011
       note: President
+  american-investment-council:
+    name: American Investment Council
+    type: forum
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: mike-sommers
+      role: executive
+      from: 2016
+      to: 2018
+      note: CEO
   american-jewish-congress:
     name: American Jewish Congress
     type: thinktank
@@ -2160,6 +2256,57 @@ organizations:
     - person: stephen-wise
       role: founder
       from: 1918
+  american-petroleum-institute:
+    name: American Petroleum Institute
+    type: forum
+    founded: 1919
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: rex-tillerson
+      role: member
+    - person: meg-oneill
+      role: board
+      note: Board member
+    - person: darren-woods
+      role: board
+    - person: mike-sommers
+      role: executive
+      from: 2018
+      note: CEO, 15th chief executive
+    - person: mike-wirth
+      role: chairman
+      from: 2022
+      note: Board Chairman
+    - person: greg-garland
+      role: chairman
+      from: 2020
+      to: 2022
+      note: Board Chairman
+    - person: ryan-lance
+      role: board
+      note: Former Chairman, Executive Committee
+    - person: peter-bijur
+      role: chairman
+      note: Past Chairman
+    - org: chevron
+      role: partner
+      note: member
+    - org: bp
+      role: partner
+      note: member
+    - org: shell
+      role: partner
+      note: member
+    - org: exxonmobil
+      role: partner
+      note: member
+    - org: halliburton
+      role: partner
+      note: member
+    - org: phillips-66
+      role: partner
+      note: member
   american-tower:
     name: American Tower Corporation
     type: company
@@ -2241,6 +2388,11 @@ organizations:
     founded: 1889
     status: defunct
     note: Merged with BP 1998
+    stakeholders:
+    - org: standard-oil
+      role: spinoff
+      from: 1911
+      note: Antitrust breakup. Acquired by BP 1998
   amoon:
     name: aMoon Fund
     type: privateequity
@@ -2259,6 +2411,11 @@ organizations:
     founded: 1950
     headquarters: Milan, Italy
     sector: healthcare
+    stakeholders:
+    - org: tamburi-investment-partners
+      role: stake
+      from: 2010
+      note: Long-term investment
   amundi:
     name: Amundi
     type: assetmanager
@@ -2393,6 +2550,12 @@ organizations:
       share: 3.5%
     - org: state-street
       share: 1.5%
+  anglo-iranian:
+    name: Anglo-Iranian Oil Company
+    type: company
+    founded: 1909
+    headquarters: London, UK
+    note: Original Seven Sister. Renamed British Petroleum 1954, now BP
   anglogold-ashanti:
     name: AngloGold Ashanti
     type: company
@@ -2429,6 +2592,18 @@ organizations:
       role: investor
       to: 2011
       note: 'Exit: Apple acquisition'
+  anp-brasil:
+    name: Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP)
+    type: agency
+    founded: 1997
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    note: Brazilian oil & gas regulator
+    stakeholders:
+    - person: magda-chambriard
+      role: executive
+      to: 2012
+      note: Director-General. Joined in 2000s, led agency 2012.
   ansa:
     name: ANSA
     type: media
@@ -2573,6 +2748,16 @@ organizations:
       role: stake
       from: 2025
       note: Co-led Series F ($13B, Sep 2025), Series E participant (Mar 2025)
+  antin-infrastructure:
+    name: Antin Infrastructure Partners
+    type: privateequity
+    headquarters: Paris, France
+    status: active
+    sector: infrastructure
+    stakeholders:
+    - person: roberta-battaglia
+      role: member
+      note: Investment team, 10 years, Paris
   antler:
     name: Antler
     type: vc
@@ -2712,6 +2897,18 @@ organizations:
     - org: sequoia-capital
       from: 1978
       note: Early investor $150K, IPO 1980
+  arcaplanet:
+    name: Arcaplanet
+    type: company
+    headquarters: Genova, Italy
+    status: active
+    sector: retail
+    stakeholders:
+    - org: cinven
+      role: majority
+      from: 2022
+      to: 2024
+      note: Venduta a Fressnapf Group
   arcelormittal:
     name: ArcelorMittal
     type: company
@@ -3180,6 +3377,18 @@ organizations:
       from: 2012
       to: 2020
       note: Chairman (non-executive)
+  aston-martin:
+    name: Aston Martin
+    type: automaker
+    founded: 1913
+    headquarters: Gaydon, United Kingdom
+    status: active
+    stakeholders:
+    - org: investindustrial
+      role: stake
+      share: 0.375
+      from: 2013
+      note: Acquired 37.5% for $240M, committed £500M over 5 years
   astra-international:
     name: PT Astra International Tbk
     type: company
@@ -3512,6 +3721,18 @@ organizations:
       share: 27%
       from: 2018
       note: Minority shareholder post-Apollo deal (was 32%)
+  atm-milano:
+    name: ATM Milano
+    type: company
+    headquarters: Milano, Italy
+    status: active
+    sector: transport
+    stakeholders:
+    - person: arrigo-giana
+      role: executive
+      from: 2017
+      to: 2025
+      note: CEO
   aub:
     name: American University of Beirut
     type: university
@@ -3614,6 +3835,40 @@ organizations:
     - org: iri
       role: parent
       to: 1999
+  autostrade-italia:
+    name: Autostrade per l'Italia
+    type: company
+    founded: 2003
+    headquarters: Rome, Italy
+    status: active
+    sector: infrastructure
+    note: Nata come spin-off di Autostrade SpA (IRI 1950, privatizzata 1999). Gestisce 3000km autostrade italiane.
+    stakeholders:
+    - person: roberta-battaglia
+      role: board
+      from: 2022
+      note: Director, post-CDP acquisition
+    - person: antonino-turicchi
+      role: chairman
+      from: 2025
+    - person: arrigo-giana
+      role: executive
+      from: 2025
+      note: CEO
+    - person: roberto-tomasi
+      role: executive
+      from: 2019
+      to: 2025
+      note: CEO
+    - person: andrea-valeri
+      role: board
+      from: 2025
+      note: Vicepresidente
+    - org: holding-reti-autostradali
+      role: stake
+      share: 0.88
+      from: 2021
+      note: Acquisita da Atlantia per 8.2 miliardi
   aviva:
     type: company
     founded: 2000
@@ -3710,6 +3965,17 @@ organizations:
       from: 2020
       to: 2025
       note: Take-private €6.8B, exit 2025 €13.5B
+  axiata-group:
+    name: Axiata Group Berhad
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: telecom
+    note: ASEAN telecom group, Celcom parent
+    stakeholders:
+    - org: khazanah
+      role: stake
+      note: Strategic stake
   axis-bank:
     name: Axis Bank
     type: bank
@@ -3720,6 +3986,16 @@ organizations:
     stakeholders:
     - person: zubaida-bai
       role: founder
+  azerbaijan-noc:
+    name: National Olympic Committee of Azerbaijan
+    founded: 1992
+    headquarters: Baku, Azerbaijan
+    status: active
+    stakeholders:
+    - person: ilham-aliyev
+      role: chairman
+      from: 1997
+      note: President since 1997
   azimut:
     name: Azimut Holding S.p.A.
     type: assetmanager
@@ -3735,6 +4011,26 @@ organizations:
     - person: henrique-meirelles
       role: board
       note: Board of Directors
+  azzurra-capital:
+    name: Azzurra Capital
+    type: privateequity
+    founded: 2021
+    headquarters: Dubai, ARE
+    status: active
+    sector: private equity
+    stakeholders:
+    - person: stefano-marsaglia
+      role: founder
+      from: 2021
+      note: Founder, CEO
+    - person: jorge-delclaux
+      role: founder
+      from: 2021
+      note: Co-founder, ex Rothschild Spain
+    - person: alfredo-saenz
+      role: advisor
+      from: 2021
+      note: Advisory Board, ex CEO Banco Santander
   b-capital:
     name: B Capital Group
     type: vc
@@ -3977,6 +4273,16 @@ organizations:
     - person: raj-ganguly
       role: partner
       note: Co-leader global technology initiative
+  bain-company:
+    name: Bain & Company
+    type: company
+    headquarters: Boston, USA
+    status: active
+    sector: consulting
+    stakeholders:
+    - person: giampiero-mazza
+      role: member
+      note: Business Strategy Advisor, Dallas
   baker-botts:
     name: Baker Botts LLP
     type: company
@@ -4001,6 +4307,11 @@ organizations:
       from: 1992
       to: 1997
       note: Baker Hughes Inteq
+    - person: lynn-elsenhans
+      role: board
+      from: 2012
+      to: 2017
+      note: Independent Director
   ballmer-group:
     name: Ballmer Group
     type: foundation
@@ -4382,7 +4693,7 @@ organizations:
     name: Banco Santander
     type: bank
     founded: 1857
-    headquarters: Santander, Spain
+    headquarters: Madrid, ESP
     status: active
     sector: banking
     stakeholders:
@@ -4395,6 +4706,9 @@ organizations:
       from: 1986
       to: 2014
       note: Executive Chairman
+    - person: alfredo-saenz
+      role: executive
+      note: CEO
     - org: blackrock
       share: 5.5
     - org: vanguard
@@ -4854,6 +5168,11 @@ organizations:
     - person: jonathan-moulds
       role: executive
       note: COO
+    - person: stefano-marsaglia
+      role: executive
+      from: 2010
+      to: 2014
+      note: Chairman Global Financial Institutions
     - org: blackrock
       share: 8.7
       note: Largest shareholder (2025)
@@ -4867,12 +5186,55 @@ organizations:
       share: 3.0
       from: 2008
       note: 2008 crisis rescue investment
+  barilla:
+    name: Barilla Group
+    type: company
+    founded: 1877
+    headquarters: Parma, Italy
+    status: active
+    sector: food
+    stakeholders:
+    - person: guido-barilla
+      role: chairman
+      from: 1993
+      note: Group Chairman since 2003
+    - person: luca-barilla
+      role: board
+      from: 1988
+      note: Deputy Chairman
+    - person: paolo-barilla
+      role: board
+      from: 1990
+      note: Deputy Chairman, CEO 1999-2000
+    - person: emanuela-barilla
+      role: board
+      note: Director
+    - person: gianluca-di-tondo
+      role: executive
+      from: 2020
+      note: CMO 2020-2023, Group CEO from 2023
+    - person: claudio-colzani
+      role: executive
+      from: 2012
+      note: CEO 2012-2023, Chairman of Barilla G.e R. Fratelli
   baring:
     name: Baring
     type: bank
     founded: 1762
     headquarters: Londra
     status: active
+  barings:
+    name: Barings
+    type: assetmanager
+    headquarters: London, UK
+    status: active
+    note: Part of MassMutual
+    stakeholders:
+    - person: natig-mustafayev
+      role: executive
+      from: 2014
+      to: 2024
+      note: MD, Portfolio Manager EM Debt ($15B AUM)
   barito-pacific:
     name: Barito Pacific
     type: company
@@ -5187,6 +5549,17 @@ organizations:
       share: 6.8
     - org: vanguard
       share: 4.1
+  bc-partners:
+    name: BC Partners
+    type: privateequity
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: giampiero-mazza
+      role: partner
+      from: 2005
+      to: 2010
+      note: Partner, focus Spain
   bca:
     name: Bank Central Asia
     type: bank
@@ -6309,6 +6682,13 @@ organizations:
       role: member
       from: 2024
       note: Participant 2024
+    - person: andrew-liveris
+      role: member
+      note: Attended 2012
+    - person: patrick-pouyanne
+      role: member
+      from: 2022
+      note: Regular participant 2022-2025
     - org: trilaterale
       role: partner
   bilkent:
@@ -6583,6 +6963,9 @@ organizations:
       role: executive
       from: 2024
       note: Senior MD, Board of Directors, Global Executive Committee
+    - person: andrew-liveris
+      role: chairman
+      note: Chairman Long Term Private Capital Fund
     - org: norges-bank-gpfg
       role: stake
     - org: trilaterale
@@ -6655,6 +7038,9 @@ organizations:
       role: partner
       from: 2014
       note: Senior Managing Director, Head PE Portfolio Ops
+    - person: andrea-valeri
+      role: executive
+      note: Chairman Italy, Senior Managing Director
     - org: pif-saudi
       role: investor
       note: Infrastructure investment $20B (2017)
@@ -6933,6 +7319,12 @@ organizations:
       from: 1958
       to: 1962
       note: Agent in Chile, paid 70,000 DM, dismissed as untrustworthy
+  bndes:
+    name: Banco Nacional de Desenvolvimento Econômico e Social (BNDES)
+    type: bank
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    note: Brazilian development bank. State-owned.
   bnp-paribas:
     name: BNP Paribas
     type: bank
@@ -7061,7 +7453,7 @@ organizations:
       from: 2026
       note: Gaza Executive Board member (UN representative)
   bocconi:
-    name: Universita Bocconi
+    name: Bocconi University
     type: agency
     founded: 1902
     headquarters: Milan, Italy
@@ -7071,6 +7463,15 @@ organizations:
       role: member
       to: 1992
       note: Laurea Economia Politica 110 e lode
+    - person: gianluca-di-tondo
+      role: alumni
+      note: Business Administration, Marketing 1996
+    - person: arrigo-giana
+      role: alumni
+      note: Laurea Economia
+    - person: eugenio-preve
+      role: alumni
+      note: MSc Business Administration
   boeing:
     name: The Boeing Company
     type: defense
@@ -7128,6 +7529,17 @@ organizations:
       note: CEO
     - org: indofood
       role: parent
+  bogazici:
+    name: Boğaziçi University
+    type: university
+    founded: 1863
+    headquarters: Istanbul, Turkey
+    status: active
+    note: Top Turkish university, successor to Robert College (American)
+    stakeholders:
+    - person: natig-mustafayev
+      role: alumni
+      note: BA Economics & Business Administration, top of class
   bollore-group:
     name: Bollore Group
     type: company
@@ -7177,6 +7589,17 @@ organizations:
       from: 2013
       to: 2013
       note: Infrastructure analyst, Hawaii NSA facility | Contractor
+  borouge:
+    name: Borouge
+    type: company
+    headquarters: Abu Dhabi, ARE
+    status: active
+    sector: petrochemicals
+    stakeholders:
+    - org: adnoc
+      role: stake
+      share: 0.6
+      note: 60% stake
   borsa-istanbul:
     name: Borsa Istanbul
     type: company
@@ -7245,6 +7668,9 @@ organizations:
     - person: nikesh-arora
       role: alumni
       note: MS Finance
+    - person: guido-barilla
+      role: alumni
+      note: Freshman year ~1976
   boston-university:
     name: Boston University
     type: university
@@ -7279,6 +7705,18 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  boy-scouts-america:
+    name: Boy Scouts of America
+    type: foundation
+    founded: 1910
+    headquarters: Irving, Texas, USA
+    status: active
+    stakeholders:
+    - person: rex-tillerson
+      role: leader
+      from: 2010
+      to: 2012
+      note: National President, Eagle Scout, Silver Buffalo
   boyu-capital:
     name: Boyu Capital
     type: privateequity
@@ -7376,6 +7814,14 @@ organizations:
       from: 2005
       to: 2011
       note: Non-Executive Director
+    - person: natig-mustafayev
+      role: analyst
+      note: Commercial Analyst, BP Azerbaijan
+    - person: robert-dudley
+      role: executive
+      from: 2010
+      to: 2020
+      note: Group CEO
     - org: blackrock
       share: 9.4%
     - org: vanguard
@@ -7901,6 +8347,34 @@ organizations:
       note: Senior Partner, controlling shareholder (~27%)
     - org: blackrock
       share: 3.0%
+  buitoni:
+    name: Buitoni
+    type: company
+    founded: 1827
+    headquarters: Sansepolcro, Italy
+    status: defunct
+    sector: food
+    note: Brand owned by Nestle since 1988, NA operations sold 2020
+    stakeholders:
+    - person: carlo-de-benedetti
+      role: chairman
+      from: 1985
+      to: 1988
+      note: Acquired from Buitoni family, sold to Nestle for $1.2B
+    - person: giovanni-buitoni
+      role: chairman
+      to: 1979
+      note: Podesta di Perugia 1930-35
+    - person: marco-buitoni
+      role: chairman
+      from: 1979
+      to: 1985
+      note: Nephew of Giovanni, last family CEO
+    - org: nestle
+      role: acquisition
+      share: 1.0
+      from: 1988
+      note: Acquired from De Benedetti for $1.2B, includes Perugina
   bunny-inc:
     name: Bunny Inc.
     type: company
@@ -7927,6 +8401,10 @@ organizations:
     status: active
     stakeholders:
     - person: albert-bourla
+      role: member
+    - person: darren-woods
+      role: member
+    - person: mike-wirth
       role: member
   business-council-canada:
     name: Business Council of Canada
@@ -8010,6 +8488,17 @@ organizations:
     - person: nikesh-arora
       role: member
       note: Member
+    - person: darren-woods
+      role: member
+    - person: mike-wirth
+      role: member
+    - person: ryan-lance
+      role: board
+    - person: peter-bijur
+      role: member
+    - person: andrew-liveris
+      role: board
+      note: Vice Chair, Executive Committee
   bvb:
     name: Bucharest Stock Exchange
     type: company
@@ -8230,6 +8719,9 @@ organizations:
     - person: demis-hassabis
       role: alumni
       note: BA Computer Science 1997, Queens College, Double First
+    - person: peter-jackson
+      role: alumni
+      note: BA Manufacturing Engineering, MEng Mechanical Engineering, Pembroke College 1995-1999
   cambridge-analytica:
     name: Cambridge Analytica
     type: company
@@ -8365,6 +8857,10 @@ organizations:
     headquarters: Paris, France
     sector: IT services
     stakeholders:
+    - person: patrick-pouyanne
+      role: board
+      from: 2017
+      note: Board member
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -8605,6 +9101,16 @@ organizations:
       role: executive
       from: 1979
       note: CEO 1979-2013, Chairman 2013-present
+  case-western:
+    name: Case Western Reserve University
+    type: university
+    founded: 1826
+    headquarters: Cleveland, USA
+    status: active
+    stakeholders:
+    - person: mark-weinberger
+      role: alumni
+      note: MBA, JD 1987
   casinos-austria:
     name: Casinos Austria AG
     type: company
@@ -8631,6 +9137,8 @@ organizations:
     - person: michael-dell
       role: board
     - person: james-taiclet
+      role: board
+    - person: mike-wirth
       role: board
   catalyst4:
     name: Catalyst4
@@ -8722,6 +9230,21 @@ organizations:
     - person: shlomo-kramer
       role: founder
       from: 2015
+  cbar:
+    name: Central Bank of the Republic of Azerbaijan
+    type: centralbank
+    founded: 1992
+    headquarters: Baku, Azerbaijan
+    status: active
+    note: 'CBAR. Governor: Taleh Kazimov (2022-). FX reserves $82.5B (Oct 2025).'
+    stakeholders:
+    - person: taleh-kazimov
+      role: executive
+      from: 2022
+      note: Governor
+    - org: governo-azerbaijan
+      role: parent
+      note: State institution
   cbmm:
     name: CBMM - Companhia Brasileira de Metalurgia e Mineracao
     type: company
@@ -8879,6 +9402,23 @@ organizations:
       from: 2004
       to: 2014
       note: DG 2010-14
+    - person: roberta-battaglia
+      role: executive
+      to: 2024
+      note: Head of Infrastructure, CDP Equity
+    - person: antonino-turicchi
+      role: executive
+      note: Direttore Generale
+  cdp-equity:
+    name: CDP Equity SpA
+    type: company
+    headquarters: Rome, Italy
+    status: active
+    note: Controllata 100% da CDP
+    stakeholders:
+    - org: cdp
+      role: stake
+      share: 1.0
   cdu:
     name: Christlich Demokratische Union
     type: company
@@ -9224,6 +9764,8 @@ organizations:
       role: member
     - person: vernon-jordan
       role: board
+    - person: lee-raymond
+      role: member
     - person: allen-dulles
       role: chairman
       from: 1927
@@ -9365,6 +9907,8 @@ organizations:
     - person: elliot-abrams
       role: fellow
       note: Senior Fellow for Middle Eastern Studies
+    - person: peter-bijur
+      role: member
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -9657,17 +10201,34 @@ organizations:
       from: 2022
       note: Via BlueCo consortium, £2.5B acquisition
   chevron:
-    name: Chevron
+    name: Chevron Corporation
     type: company
-    headquarters: San Ramon
+    founded: 1879
+    headquarters: San Ramon, California, USA
     status: active
-    sector: energy
+    sector: oil
+    note: Second largest Standard Oil descendant. Formed from SoCal (1911) + Gulf Oil (1984) + Texaco (2001) + Unocal (2005)
+      + Hess (2025). Seven Sister survivor.
     stakeholders:
     - person: condoleezza-rice
       role: board
       from: 1991
       to: 2001
       note: Board of Directors
+    - person: mike-wirth
+      role: executive
+      from: 2018
+      note: Chairman & CEO
+    - person: dave-oreilly
+      role: executive
+      from: 2000
+      to: 2009
+      note: Chairman and CEO. Led Texaco merger (2001) and Unocal acquisition (2005)
+    - person: john-watson-chevron
+      role: executive
+      from: 2009
+      to: 2018
+      note: Chairman and CEO
     - org: berkshire-hathaway
       role: stake
   chicago-booth:
@@ -10076,12 +10637,44 @@ organizations:
       from: 2003
       to: 2004
       note: President
+  cimb-group:
+    name: CIMB Group Holdings Berhad
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: finance
+    note: Malaysian banking group, ASEAN regional bank
+    stakeholders:
+    - org: khazanah
+      role: stake
+      note: Strategic stake
   cinven:
     name: Cinven
     type: privateequity
     founded: 1977
     headquarters: London, UK
     status: active
+    aum: 44B EUR
+    note: 'Fondata da British Coal, Railways, Barclays pension funds. Nome originale: Coal Investment Nominees for Venture
+      Capital'
+    stakeholders:
+    - person: bruno-schick
+      role: partner
+      from: 2024
+      note: Co-Managing Partner, Head DACH & Emerging Europe, Chair Portfolio Review Committees
+    - person: jorge-quemada
+      role: partner
+      from: 2011
+      note: Co-Managing Partner, Head Iberia, Chair Investment Committees
+    - person: alexandra-hess
+      role: executive
+      from: 2025
+      note: President, Head of Investor Relations
+    - person: eugenio-preve
+      role: partner
+      from: 2009
+      to: 2024
+      note: Partner 2020, Head of Milan, Italian team lead
   cir:
     name: CIR - Compagnie Industriali Riunite
     type: company
@@ -10103,6 +10696,21 @@ organizations:
     stakeholders:
     - person: vuk-jeremic
       role: president
+  citgo:
+    name: CITGO Petroleum Corporation
+    type: company
+    founded: 1910
+    headquarters: Houston, Texas, USA
+    status: active
+    sector: Oil Refining
+    note: US refiner. 3 refineries, 807K bpd capacity. Acquired by PDVSA 1986-1990. Sale to Amber Energy 2025.
+    stakeholders:
+    - org: pdvsa
+      role: subsidiary
+      share: 100%
+      from: 1990
+      to: 2025
+      note: Via PDV Holding. Sold to Amber Energy Nov 2025 for $5.9B.
   citigroup:
     name: Citigroup Inc.
     type: bank
@@ -10157,6 +10765,9 @@ organizations:
       note: 13 years, Germany/Austria/UK/Turkey
     - person: ernesto-zedillo
       role: board
+    - person: andrew-liveris
+      role: board
+      note: Board member
     - org: kuwait-investment-authority
       role: shareholder
       share: $3B
@@ -10858,6 +11469,15 @@ organizations:
     - person: chelsea-clinton
       role: alumni
       note: MPH 2010
+    - person: rovshan-najaf
+      role: alumni
+      note: MA Economic Policy / Energy Management 2007-08
+    - person: natig-mustafayev
+      role: alumni
+      note: MA, MPhil Economics
+    - person: peter-bijur
+      role: alumni
+      note: MBA 1966
   columbia-university:
     name: Columbia University
     type: thinktank
@@ -10882,6 +11502,9 @@ organizations:
     - person: henry-kravis
       role: board
       note: Columbia Business School Board, major donor
+    - person: amin-nasser
+      role: alumni
+      note: Senior Executive Program 2002
     - person: victoria-nuland
       role: member
       from: 2024
@@ -11148,6 +11771,9 @@ organizations:
     headquarters: Chertsey, UK
     sector: Food Services
     stakeholders:
+    - person: john-bryant
+      role: board
+      note: Non-Executive Director
     - org: blackrock
       share: 8.4%
     - org: vanguard
@@ -11169,6 +11795,18 @@ organizations:
       role: board
       from: 2015
       to: 2019
+  conference-board:
+    name: The Conference Board
+    type: thinktank
+    founded: 1916
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: mike-wirth
+      role: member
+    - person: peter-bijur
+      role: board
+      note: Vice Chairman
   conference-of-presidents:
     name: Conference of Presidents
     type: forum
@@ -11177,9 +11815,9 @@ organizations:
     status: active
   confindustria:
     name: Confindustria
-    type: agency
+    type: forum
     founded: 1910
-    headquarters: Roma, Italia
+    headquarters: Rome, ITA
     status: active
     sector: business association
     stakeholders:
@@ -11209,6 +11847,23 @@ organizations:
       role: labor-president
       from: 1939
       to: 1943
+    - person: luca-montezemolo
+      role: chairman
+      from: 2004
+      to: 2008
+      note: President 2004-2008
+  conocophillips:
+    name: ConocoPhillips
+    type: company
+    founded: 2002
+    headquarters: Houston, Texas, USA
+    status: active
+    sector: energy
+    stakeholders:
+    - person: ryan-lance
+      role: executive
+      from: 2012
+      note: Chairman & CEO
   conseil-constitutionnel:
     name: Conseil constitutionnel
     type: agency
@@ -11259,6 +11914,23 @@ organizations:
       from: 1997
       to: 1998
       note: Chairman
+  continental-oil:
+    name: Continental Oil Company
+    type: company
+    founded: 1911
+    status: defunct
+    sector: oil
+    note: Became Conoco. Merged with Phillips 2002
+    stakeholders:
+    - org: standard-oil
+      role: spinoff
+      from: 1911
+      note: Antitrust breakup. Part of ConocoPhillips
+  copenhagen-infrastructure:
+    name: Copenhagen Infrastructure Partners
+    type: assetmanager
+    headquarters: Copenhagen, DNK
+    status: active
   cornell-law:
     name: Cornell Law School
     type: university
@@ -11433,6 +12105,12 @@ organizations:
     founded: 2015
     headquarters: Leverkusen, Germany
     sector: chemicals
+    stakeholders:
+    - org: adnoc
+      role: acquisition
+      share: 1.0
+      from: 2024
+      note: $16.3B acquisition
   covington-burling:
     name: Covington & Burling LLP
     type: company
@@ -11647,6 +12325,9 @@ organizations:
       from: 1983
       to: 2006
       note: EVP, Chief Client Officer, Head Global Investment Banking (2002-04)
+    - person: natig-mustafayev
+      role: executive
+      note: Senior role, London
     - org: ubs
       role: acquirer
       share: 100%
@@ -11808,6 +12489,9 @@ organizations:
       from: 1982
       to: 1987
       note: Executive Director defense reorganization study, led to Goldwater-Nichols Act
+    - person: darren-woods
+      role: board
+      note: Board of Trustees
   csr-europe:
     name: CSR Europe
     type: forum
@@ -11818,6 +12502,15 @@ organizations:
     - person: etienne-davignon
       role: chairman
       note: Chairman
+  csu-los-angeles:
+    name: California State University, Los Angeles
+    type: university
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: sultan-al-jaber
+      role: alumni
+      note: MBA
   cuhk:
     name: Chinese University of Hong Kong
     type: university
@@ -11861,6 +12554,14 @@ organizations:
       from: 1993
       to: 2022
       note: Co-Founder, Co-Chairman, stepped down 2022
+    - person: giampiero-mazza
+      role: executive
+      from: 2010
+      note: Managing Partner, Head of Italy
+    - person: roberta-battaglia
+      role: executive
+      from: 2024
+      note: Managing Director, Head of Italy - CVC DIF
   cyberark:
     name: CyberArk
     type: company
@@ -11960,6 +12661,11 @@ organizations:
     type: automaker
     founded: 2021
     headquarters: Stuttgart, Germany
+  daiwa:
+    name: Daiwa Securities Group
+    type: bank
+    headquarters: Tokyo, JPN
+    status: active
   dakota-state-university:
     name: Dakota State University
     type: university
@@ -12017,6 +12723,9 @@ organizations:
     headquarters: Paris, France
     sector: food
     stakeholders:
+    - person: guido-barilla
+      role: board
+      note: Director
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -12445,6 +13154,16 @@ organizations:
     - person: vernon-jordan
       role: advisor
       note: Advisory Trustee
+  design-holding:
+    name: Design Holding
+    type: company
+    headquarters: Milan, Italy
+    status: active
+    sector: luxury design furniture
+    stakeholders:
+    - org: investindustrial
+      role: stake
+      note: B&B Italia, Flos, Louis Poulsen
   deutsche-bank:
     name: Deutsche Bank AG
     type: bank
@@ -12506,6 +13225,9 @@ organizations:
       from: 1976
       to: 1988
       note: Chairman Advisory Board
+    - person: roberta-battaglia
+      role: member
+      note: Corporate Finance Milan, then EMEA Infrastructure London
     - org: blackrock
       share: 6.76
       note: Largest disclosed shareholder (2025)
@@ -13033,6 +13755,20 @@ organizations:
     stakeholders:
     - person: ajay-banga
       role: board
+  dow-chemical:
+    name: Dow Chemical Company
+    type: company
+    founded: 1897
+    headquarters: Midland, Michigan, USA
+    status: active
+    sector: chemicals
+    note: Merged with DuPont 2017, split 2019
+    stakeholders:
+    - person: andrew-liveris
+      role: executive
+      from: 2004
+      to: 2018
+      note: Chairman & CEO
   dow-jones:
     name: Dow Jones & Company
     type: media
@@ -13127,14 +13863,29 @@ organizations:
     - org: vanguard
       share: 2.0%
   ducati:
-    name: Ducati
+    name: Ducati Motor Holding S.p.A.
     type: company
     founded: 1926
-    headquarters: Bologna
+    headquarters: Borgo Panigale, Bologna, Italy
     status: active
+    sector: motorcycles
     stakeholders:
+    - person: claudio-domenicali
+      role: executive
+      from: 2013
+      note: CEO
     - org: volkswagen
       role: subsidiary
+    - org: lamborghini
+      role: subsidiary
+      share: 1.0
+      from: 2012
+      note: Acquired for €747M
+    - org: investindustrial
+      role: stake
+      from: 2006
+      to: 2012
+      note: Acquired 29.9% in 2006, 100% in 2008, sold to VW/Audi 2012 for $1.1B (3x return)
   duke-university:
     type: thinktank
     headquarters: Durham NC, USA
@@ -13256,6 +14007,30 @@ organizations:
       role: supervisione
       from: 1982
       note: Programma governativo
+  eataly:
+    name: Eataly
+    type: company
+    founded: 2007
+    headquarters: Turin, Italy
+    status: active
+    sector: food retail
+    stakeholders:
+    - person: oscar-farinetti
+      role: founder
+      from: 2007
+      note: Ex CEO UniEuro
+    - person: nicola-farinetti
+      role: executive
+      note: CEO until 2022, then Chairman
+    - org: investindustrial
+      role: stake
+      share: 0.52
+      from: 2022
+      note: Acquired for €200M
+    - org: tamburi-investment-partners
+      role: stake
+      from: 2014
+      note: Via Clubitaly, ~20%
   ebay:
     name: eBay Inc.
     type: company
@@ -13541,6 +14316,12 @@ organizations:
     - person: guillaume-lample
       role: alumni
       note: X2011
+    - person: patrick-pouyanne
+      role: alumni
+      note: Engineering degree, Corps des Mines
+    - person: thierry-desmarest
+      role: alumni
+      note: Engineering degree, Corps des Mines
   economic-club-new-york:
     name: Economic Club of New York
     type: thinktank
@@ -14092,6 +14873,16 @@ organizations:
     - org: icd
       role: owner
       share: 100%
+  emory-university:
+    name: Emory University
+    type: university
+    founded: 1836
+    headquarters: Atlanta, USA
+    status: active
+    stakeholders:
+    - person: mark-weinberger
+      role: alumni
+      note: BA 1983
   endeavor:
     name: Endeavor Group Holdings
     type: company
@@ -14142,6 +14933,11 @@ organizations:
       role: chairman
       from: 2023
       note: Vice Chairman dal 2023
+    - person: borja-prado-eulate
+      role: chairman
+      from: 2009
+      to: 2019
+      note: President
     - org: enel
       role: majority
       share: 70
@@ -14182,6 +14978,11 @@ organizations:
       from: 1991
       to: 1996
       note: Divisione Teleinformatica, poi Wind
+    - person: roberto-tomasi
+      role: executive
+      from: 1996
+      to: 2015
+      note: Ruoli dirigenziali progressivi
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -14198,12 +14999,66 @@ organizations:
     headquarters: Tokyo, Japan
     status: active
     sector: energy
+  energy-transfer:
+    name: Energy Transfer LP
+    type: company
+    founded: 1996
+    headquarters: Dallas, USA
+    status: active
+    sector: energy
   eneva:
     name: Eneva SA
     type: company
     headquarters: Rio de Janeiro, Brazil
     status: active
     sector: energy
+  enfinity-global:
+    name: Enfinity Global
+    type: company
+    founded: 2019
+    headquarters: Miami, USA
+    status: active
+    sector: renewable energy
+    stakeholders:
+    - person: carlos-domenech
+      role: executive
+      from: 2019
+      note: CEO, Co-Founder
+    - person: pj-lee
+      role: board
+      from: 2019
+      note: Co-Founder, Board Director
+    - org: volkswagen
+      role: partner
+      from: 2025
+      note: Guarantees of Origin supply agreement (Italy solar)
+    - org: hsbc
+      role: investor
+      note: Asset management investor
+    - org: macquarie
+      role: investor
+      note: Equity investor
+    - org: sofaz
+      role: investor
+      share: 0.49
+      from: 2025
+      note: 49% stake in 402 MW Italy portfolio
+    - org: icg
+      role: investor
+      from: 2023
+      note: €400M equity investment
+    - org: nomura
+      role: investor
+      from: 2020
+      note: Development capital partnership
+    - org: daiwa
+      role: investor
+      share: 0.49
+      from: 2025
+      note: 49% stake in 380 MW BESS portfolio (US/Italy)
+    - org: copenhagen-infrastructure
+      role: investor
+      note: Equity investor
   engie:
     name: Engie SA
     type: company
@@ -14227,11 +15082,12 @@ organizations:
       role: shareholder
       share: 1.5
   eni:
-    name: ENI
+    name: ENI S.p.A.
     type: company
     founded: 1953
-    headquarters: Roma
+    headquarters: Roma, ITA
     status: active
+    sector: oil-gas
     stakeholders:
     - person: gabriele-cagliari
       role: executive
@@ -14279,6 +15135,14 @@ organizations:
       from: 1999
       to: 1999
       note: Chairman (breve)
+    - person: enrico-mattei
+      role: founder
+      from: 1953
+      to: 1962
+    - person: giuseppe-zafarana
+      role: chairman
+      from: 2023
+      note: Chairman; ex-Comandante Generale Guardia di Finanza
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -14288,6 +15152,10 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
+    - org: governo-italia
+      role: shareholder
+      share: 0.0437
+      note: MEF diretto 4.37%; +28.5% via CDP = 32.87% controllo statale
     - org: cdp
       share: 28.5
       note: Azionista di riferimento
@@ -14699,6 +15567,24 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 3.0%
+  esso:
+    name: Standard Oil of New Jersey (Esso)
+    type: company
+    founded: 1882
+    headquarters: New York, USA
+    status: defunct
+    sector: oil
+    note: Original Seven Sister. Became Exxon, merged with Mobil 1999
+    stakeholders:
+    - person: walter-teagle
+      role: executive
+      from: 1917
+      to: 1942
+      note: President 1917-1937, Chairman 1937-1942
+    - org: standard-oil
+      role: spinoff
+      from: 1911
+      note: Antitrust breakup. Largest successor, became Exxon
   estee-lauder:
     name: Estee Lauder
     type: company
@@ -14822,6 +15708,17 @@ organizations:
       from: 2020
       to: 2025
       note: President; 3 mandati (2020, 2023, 2025)
+  euromobiliare:
+    name: Euromobiliare S.p.A.
+    type: bank
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: giovanni-tamburi
+      role: executive
+      from: 1980
+      to: 1991
+      note: Vice Direttore Generale, DG Euromobiliare Montagu
   europacable:
     name: Europacable
     type: agency
@@ -15179,6 +16076,15 @@ organizations:
     - person: mark-schneider
       role: member
       note: Member (as Nestlé CEO)
+  european-school-brussels:
+    name: European School of Brussels
+    type: university
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: giovanni-ferrero
+      role: alumni
+      note: 1975-1980
   european-super-league:
     name: European Super League
     type: forum
@@ -15205,6 +16111,18 @@ organizations:
       from: 1976
       to: 1981
       note: Founding President
+  eurovita:
+    name: Eurovita SpA
+    type: company
+    headquarters: Milano, Italy
+    status: active
+    sector: insurance
+    note: Ex ERGO Italia
+    stakeholders:
+    - org: cinven
+      role: majority
+      from: 2016
+      note: Strategia consolidamento assicurativo italiano
   eutelsat:
     name: Eutelsat Group
     type: company
@@ -15314,32 +16232,21 @@ organizations:
       from: 2008
       to: 2011
       note: Managing Director UK & Ireland
-  exxon-mobil:
-    name: ExxonMobil
-    type: company
-    headquarters: Irving
-    status: active
-    sector: energy
-    stakeholders:
-    - person: otto-wolff-von-amerongen
-      role: board
-      from: 1971
-      note: First German on Exxon board
-    - org: blackrock
-      role: stake
-      share: 0.071
-    - org: vanguard
-      role: stake
-      share: 0.082
-    - org: state-street
-      role: stake
-      share: 0.04
   exxonmobil:
-    name: ExxonMobil
+    name: ExxonMobil Corporation
     type: company
+    founded: 1999
     headquarters: Irving, Texas, USA
     status: active
+    sector: oil
+    note: Largest publicly traded oil and gas company in the US. Formed from 1999 merger of Exxon and Mobil, both descendants
+      of Standard Oil.
     stakeholders:
+    - person: lee-raymond
+      role: executive
+      from: 1999
+      to: 2005
+      note: Chairman and CEO
     - person: dina-powell
       role: board
       from: 2023
@@ -15349,17 +16256,58 @@ organizations:
       from: 2006
       to: 2017
       note: CEO
+    - person: meg-oneill
+      role: executive
+      from: 1993
+      to: 2016
+      note: 23 years; SVP roles
+    - person: otto-wolff-von-amerongen
+      role: board
+      from: 1971
     - person: emilio-collado
       role: executive
       from: 1947
       to: 1975
       note: Treasurer 1954-60, Director 1960-75, EVP 1966-75
+    - person: darren-woods
+      role: executive
+      from: 2017
+      note: Chairman and CEO
+    - person: joseph-hooley
+      role: board
+      note: Lead Independent Director
+    - org: blackrock
+      role: stake
+      share: 0.069
+      note: 6.9% institutional ownership (2024)
+    - org: vanguard
+      role: stake
+      share: 0.099
+      note: 9.9% institutional ownership - largest shareholder (2024)
+    - org: state-street
+      role: stake
+      share: 0.05
+      note: 5.0% institutional ownership - third largest shareholder (2024)
+    - org: standard-oil
+      role: predecessor
+      note: ExxonMobil formed from descendants of Standard Oil (Esso and Socony/Mobil) after 1911 breakup
+    - org: socony
+      role: predecessor
+      note: Standard Oil of New York became Mobil, then merged with Exxon (1999)
+    - org: esso
+      role: predecessor
+      note: Standard Oil of New Jersey became Exxon (1972), then merged with Mobil (1999)
   ey:
     name: EY
     type: company
     stakeholders:
     - person: valerie-keller
       role: executive
+    - person: mark-weinberger
+      role: executive
+      from: 2013
+      to: 2019
+      note: Global Chairman & CEO
   fabian-society:
     name: Fabian Society
     type: thinktank
@@ -15827,11 +16775,11 @@ organizations:
       note: $750M deal
   ferrari:
     name: Ferrari N.V.
-    type: automaker
+    type: company
     founded: 1947
-    headquarters: Maranello, Italy
+    headquarters: Maranello, ITA
     status: active
-    sector: luxury-automotive
+    sector: automotive
     note: IPO 2015 NYSE/Milano. Exor 24.65%, Piero Ferrari 10.48%. Spin-off FCA 2016.
     stakeholders:
     - person: john-elkann
@@ -15865,6 +16813,11 @@ organizations:
       role: executive
       from: 2021
       note: CEO
+    - person: luca-montezemolo
+      role: chairman
+      from: 1991
+      to: 2014
+      note: President 1991-2014
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -15889,6 +16842,49 @@ organizations:
       from: 1951
       to: 2017
       note: Exclusive design partnership, ~200 Ferrari models designed
+  ferrero:
+    name: Ferrero Group
+    type: company
+    founded: 1946
+    headquarters: Alba, Italy
+    status: active
+    sector: confectionery
+    stakeholders:
+    - person: pietro-ferrero
+      role: founder
+      from: 1946
+      to: 1949
+    - person: michele-ferrero
+      role: chairman
+      from: 1949
+      to: 2015
+    - person: giovanni-ferrero
+      role: chairman
+      from: 1997
+      note: Co-CEO 1997-2017, Executive Chairman 2017-
+    - person: pietro-ferrero-jr
+      role: executive
+      from: 1997
+      to: 2011
+      note: Co-CEO
+    - person: lapo-civiletti
+      role: executive
+      from: 2017
+      note: CEO, primo non-family
+  ferrero-foundation:
+    name: Piera, Pietro and Giovanni Ferrero Foundation
+    type: foundation
+    founded: 1983
+    headquarters: Alba, Italy
+    status: active
+    note: Social works per ex-dipendenti Ferrero, borse di studio
+    stakeholders:
+    - person: maria-franca-fissolo
+      role: chairman
+      note: Chairperson
+    - org: ferrero
+      role: parent
+      note: Corporate foundation
   ferrovial:
     name: Ferrovial
     type: company
@@ -15907,6 +16903,18 @@ organizations:
       role: executive
       from: 2021
       note: CEO
+  fertiglobe:
+    name: Fertiglobe
+    type: company
+    headquarters: Abu Dhabi, ARE
+    status: active
+    sector: fertilizers
+    stakeholders:
+    - org: xrg
+      role: stake
+      share: 0.862
+      from: 2024
+      note: 86.2% after OCI buyout
   fgv:
     name: Fundacao Getulio Vargas
     type: university
@@ -15921,8 +16929,8 @@ organizations:
     name: Fiat S.p.A.
     type: automaker
     founded: 1899
-    headquarters: Turin, Italy
-    status: merged
+    headquarters: Turin, ITA
+    status: active
     sector: automotive
     note: Fabbrica Italiana Automobili Torino. Merged into FCA 2014, then Stellantis 2021. Brand continues under Stellantis.
     stakeholders:
@@ -15982,6 +16990,11 @@ organizations:
       role: ceo
       from: 1928
       to: 1966
+    - person: luca-montezemolo
+      role: chairman
+      from: 2004
+      to: 2010
+      note: President Fiat Group 2004-2010
     - org: exor
       role: owner
       from: 1927
@@ -16392,16 +17405,45 @@ organizations:
       from: 1958
       to: 1962
       note: BA History
+  flowserve:
+    name: Flowserve Corporation
+    type: company
+    founded: 1997
+    headquarters: Irving, USA
+    status: active
+    sector: industrial
+    stakeholders:
+    - person: lynn-elsenhans
+      role: board
+      note: Independent Director
   flutter-entertainment:
     name: Flutter Entertainment
     type: company
+    founded: 2016
     headquarters: Dublin, Ireland
+    status: active
     sector: Gaming/Betting
     stakeholders:
+    - person: francesco-durante
+      role: executive
+      from: 2022
+      note: CEO Flutter SEA (Southern Europe & Africa) dal 2025
+    - person: peter-jackson
+      role: executive
+      from: 2018
+      note: CEO
+    - person: john-bryant
+      role: chairman
+      from: 2023
+      note: Chair of the Board
     - org: blackrock
-      share: 5.0%
+      role: stake
+      share: 0.05
+      note: Major institutional shareholder
     - org: vanguard
-      share: 10.04%
+      role: stake
+      share: 0.098
+      note: Largest institutional shareholder ~9.8%
   fmi:
     name: Fondo Monetario Internazionale
     type: agency
@@ -16558,6 +17600,11 @@ organizations:
     - person: giovanni-bazoli
       role: chairman
       note: President
+  fondazione-crt:
+    name: Fondazione CRT
+    type: foundation
+    headquarters: Torino, Italy
+    status: active
   fondazione-italia-cina:
     name: Fondazione Italia-Cina
     type: foundation
@@ -16908,6 +17955,17 @@ organizations:
       from: 2014
       to: 2022
       note: Board member 2014, President 2016-2022
+  freeport-mcmoran:
+    name: Freeport-McMoRan Inc.
+    type: company
+    founded: 1912
+    headquarters: Phoenix, Arizona, USA
+    status: active
+    sector: mining, copper
+    stakeholders:
+    - person: robert-dudley
+      role: board
+      note: Board member
   french-american-foundation:
     name: French-American Foundation
     type: forum
@@ -17453,13 +18511,13 @@ organizations:
       from: 2000
       note: $4.1B total, board seat, ~20% of GAVI funds
   gazprom:
-    name: Gazprom PJSC
+    name: Gazprom
     type: company
     founded: 1989
     headquarters: Saint Petersburg, Russia
     status: active
     sector: energy
-    note: Largest gas company world, state-controlled 50.23%
+    note: New Seven Sister. World largest natural gas company. State-controlled
     stakeholders:
     - person: gerhard-schroder
       role: board
@@ -17625,6 +18683,9 @@ organizations:
     stakeholders:
     - person: luis-felipe-carrillo
       role: executive
+    - person: carlos-domenech
+      role: executive
+      note: CFO Universal Pictures International Entertainment
   ge-aerospace:
     name: GE Aerospace
     type: company
@@ -17898,6 +18959,10 @@ organizations:
       role: board
       from: 2025
       note: Consigliere, Chairman Related-Party Transactions Committee
+    - person: stefano-marsaglia
+      role: board
+      from: 2022
+      note: Board member since July 2022
     - org: blackrock
       role: shareholder
       share: 3.0
@@ -17954,6 +19019,13 @@ organizations:
       share: 6.5%
     - org: vanguard
       share: 2.0%
+  genting-group:
+    name: Genting Group
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    stakeholders:
+    - person: lim-kok-thay
+      role: chairman
   geodis:
     name: Geodis SA
     type: company
@@ -18001,6 +19073,9 @@ organizations:
     - person: zico-kolter
       role: alumni
       note: BS Computer Science
+    - person: mark-weinberger
+      role: alumni
+      note: LLM Taxation
   georgetown-university:
     name: Georgetown University
     type: university
@@ -18345,6 +19420,23 @@ organizations:
     headquarters: San Francisco, California, USA
     status: active
     sector: private equity
+  golden-goose:
+    name: Golden Goose
+    type: company
+    headquarters: Milano, Italy
+    status: active
+    sector: luxury fashion
+    stakeholders:
+    - org: carlyle-group
+      role: majority
+      from: 2017
+      to: 2020
+      note: Venduto a Permira per EUR 1.28B
+    - org: permira
+      role: majority
+      from: 2020
+      to: 2026
+      note: Acquisito da Carlyle per EUR 1.28B, venduto a HSG/Temasek per EUR 2.5B
   golden-ocean:
     name: Golden Ocean Group
     type: company
@@ -18876,6 +19968,54 @@ organizations:
       from: 1990
       to: 1997
       note: Federal Minister Education/Arts, Science/Research/Arts, Science/Transport/Arts
+  governo-azerbaijan:
+    name: Government of Azerbaijan
+    type: government
+    founded: 1991
+    headquarters: Baku, Azerbaijan
+    status: active
+    note: Authoritarian regime dominated by Aliyev family since 1969. Semi-presidential republic de jure. No presidential
+      term limits (2009 referendum).
+    stakeholders:
+    - person: mehriban-aliyeva
+      role: executive
+      from: 2017
+      note: First Vice President (position created for her)
+    - person: heydar-aliyev
+      role: leader
+      from: 1993
+      to: 2003
+      note: President
+    - person: ilham-aliyev
+      role: leader
+      from: 2003
+    - person: ali-asadov
+      role: executive
+      from: 2019
+      note: Prime Minister
+    - person: natig-mustafayev
+      role: official
+      note: Securities Commission of Azerbaijan
+    - person: jeyhun-bayramov
+      role: minister
+      from: 2020
+      note: Foreign Minister
+    - person: zakir-hasanov
+      role: minister
+      from: 2013
+      note: Defense Minister
+    - person: mikayil-jabbarov
+      role: minister
+      from: 2019
+      note: Economy Minister
+    - person: samir-sharifov
+      role: executive
+      from: 2006
+      note: Deputy PM. Ex Finance Minister
+    - person: yaqub-eyyubov
+      role: executive
+      from: 2003
+      note: First Deputy PM
   governo-bahrain:
     name: Governo del Regno del Bahrain
     type: government
@@ -19047,6 +20187,11 @@ organizations:
     - person: walther-moreira-salles
       role: minister
       note: Ambassador to USA 1950s, Finance Minister 1961-1963
+  governo-brasile:
+    name: Governo del Brasile
+    type: government
+    headquarters: Brasília, Brazil
+    status: active
   governo-bulgaria:
     name: Government of Bulgaria
     type: government
@@ -19079,20 +20224,28 @@ organizations:
       to: 1989
       note: Segretario Generale Partito Comunista
   governo-canada:
-    name: Governo Canada
+    name: Government of Canada
     type: government
-    headquarters: Ottawa
+    founded: 1867
+    headquarters: Ottawa, Canada
     status: active
     stakeholders:
     - person: justin-trudeau
       role: leader
       from: 2015
+      to: 2025
     - person: chrystia-freeland
       role: leader
       from: 2019
     - person: chrystia-freeland
       role: minister
       from: 2020
+      to: 2025
+      note: Deputy PM; Minister of Finance (2020-2024)
+    - person: chrystia-freeland
+      role: minister
+      from: 2025
+      note: Minister of Transport
     - person: mark-carney
       role: leader
       from: 2025
@@ -19104,6 +20257,50 @@ organizations:
       note: Industry (1993-2000), Foreign Affairs (2000-2002), Finance (2002-2003), Deputy PM (2002-2003)
     - person: brian-gallant
       role: leader
+    - person: dominic-leblanc
+      role: minister
+      from: 2025
+      note: President Privy Council; Min. Canada-US Trade, Intergovernmental Affairs
+    - person: melanie-joly
+      role: minister
+      from: 2025
+      note: Minister of Industry
+    - person: francois-philippe-champagne
+      role: minister
+      from: 2025
+      note: Minister of Finance
+    - person: anita-anand
+      role: minister
+      from: 2025
+      note: Minister of Foreign Affairs
+    - person: steven-guilbeault
+      role: minister
+      from: 2025
+      note: Minister of Canadian Identity and Culture
+    - person: david-mcguinty
+      role: minister
+      from: 2025
+      note: Minister of National Defence
+    - person: patty-hajdu
+      role: minister
+      from: 2025
+      note: Minister of Jobs and Families
+    - person: sean-fraser
+      role: minister
+      from: 2025
+      note: Minister of Justice; Attorney General
+    - person: steven-mackinnon
+      role: minister
+      from: 2025
+      note: Leader of Government in House of Commons
+    - person: gregor-robertson
+      role: minister
+      from: 2025
+      note: Minister of Housing and Infrastructure
+    - person: evan-solomon
+      role: minister
+      from: 2025
+      note: Minister of AI and Digital Innovation
   governo-cina:
     name: Governo della Cina
     type: government
@@ -19768,6 +20965,11 @@ organizations:
       from: 1993
       to: 1995
       note: Ministro di Stato Affari Sociali
+    - person: patrick-pouyanne
+      role: advisor
+      from: 1989
+      to: 1996
+      note: Ministry Industry/Environment 1989-93, Tech Advisor PM Balladur 1993-95, Chief of Staff Min. Fillon 1995-96
   governo-georgia:
     name: Governo Georgia
     type: government
@@ -20951,6 +22153,11 @@ organizations:
       role: leader
       from: 2021
       to: 2020
+  governo-kuwait:
+    name: Government of Kuwait
+    type: government
+    headquarters: Kuwait City, KWT
+    status: active
   governo-kyrgyzstan:
     name: Government of Kyrgyzstan
     type: government
@@ -21174,6 +22381,20 @@ organizations:
       from: 2020
       to: 2021
       note: Special Advisor to PM on Public Health
+    - person: anwar-ibrahim
+      role: leader
+      from: 2022
+      note: PM dal novembre 2022
+    - person: mahathir-mohamad
+      role: leader
+      from: 1981
+      to: 2003
+      note: PM 1981-2003, 2018-2020
+    - person: najib-razak
+      role: leader
+      from: 2009
+      to: 2018
+      note: PM 2009-2018, condannato per 1MDB
   governo-messico:
     type: government
     headquarters: Mexico City
@@ -21472,6 +22693,10 @@ organizations:
     - person: ali-al-thawadi
       role: minister
       note: Minister for Strategic Affairs, Chief of Staff to Sheikh Mohammed bin Hamad
+    - person: saad-al-kaabi
+      role: minister
+      from: 2018
+      note: Minister of State for Energy Affairs
   governo-romania:
     name: Governo della Romania
     type: government
@@ -22254,6 +23479,10 @@ organizations:
       role: minister
       from: 2008
       note: Minister of State for International Cooperation (2016-)
+    - person: sultan-al-jaber
+      role: minister
+      from: 2020
+      note: Minister of Industry and Advanced Technology
   governo-ucraina:
     name: Governo Ucraina
     type: government
@@ -22957,6 +24186,11 @@ organizations:
       from: 2017
       to: 2018
       note: Deputy National Security Advisor
+    - person: rex-tillerson
+      role: minister
+      from: 2017
+      to: 2018
+      note: 69th Secretary of State
     - person: lynn-forester-de-rothschild
       role: advisor
       from: 1993
@@ -23483,6 +24717,26 @@ organizations:
       from: 2017
       to: 2021
       note: Senior Advisor to US Ambassador to Israel; Special Envoy for Economic Normalization
+    - person: mike-sommers
+      role: official
+      from: 1998
+      to: 2016
+      note: Chief of Staff to Speaker Boehner 2010-2015, Special Assistant to President at NEC 2005
+    - person: john-boehner
+      role: legislator
+      from: 1991
+      to: 2015
+      note: Speaker of the House 2011-2015, Representative Ohio
+    - person: andrew-liveris
+      role: advisor
+      from: 2016
+      to: 2017
+      note: Chair American Manufacturing Council (Trump)
+    - person: mark-weinberger
+      role: minister
+      from: 2001
+      to: 2002
+      note: Assistant Secretary of Treasury for Tax Policy
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -23496,6 +24750,21 @@ organizations:
       from: 1961
       to: 2025
       note: Agenzia indipendente sotto State Dept
+  governo-venezuela:
+    name: Governo del Venezuela
+    type: government
+    headquarters: Caracas, Venezuela
+    status: active
+    stakeholders:
+    - person: delcy-rodriguez
+      role: minister
+      from: 2024
+      note: Min. Hydrocarbons (formerly Petroleum). Also Vice President.
+    - person: rafael-ramirez
+      role: minister
+      from: 2002
+      to: 2014
+      note: Min. Energy and Petroleum. Also briefly Foreign Minister 2014.
   govtech-singapore:
     name: Government Technology Agency
     type: agency
@@ -23557,6 +24826,17 @@ organizations:
       role: founder
       from: 2012
       note: Founder, Chairman Advisory Board, 40% stake
+  grant-thornton-uk:
+    name: Grant Thornton UK
+    type: company
+    headquarters: London, UK
+    status: active
+    sector: professional services
+    stakeholders:
+    - org: cinven
+      role: majority
+      from: 2024
+      note: Acquisizione per GBP 1.3B
   grasim:
     name: Grasim Industries
     type: company
@@ -23930,6 +25210,17 @@ organizations:
     - person: francesco-gaetano-caltagirone
       role: chairman
       note: Fondatore e patron
+  gruppo-florence:
+    name: Gruppo Florence
+    type: company
+    headquarters: Firenze, Italy
+    status: active
+    sector: luxury manufacturing
+    note: Piattaforma manifatturiera per luxury brands
+    stakeholders:
+    - org: permira
+      role: majority
+      from: 2023
   gsa:
     name: General Services Administration
     type: agency
@@ -23962,6 +25253,9 @@ organizations:
       role: executive
       from: 2017
       note: CCO, CEO from Jan 2026
+    - person: lynn-elsenhans
+      role: board
+      note: Non-Executive Director
     - org: blackrock
       share: 8.1%
     - org: vanguard
@@ -24039,11 +25333,25 @@ organizations:
     name: Gulf Oil International
     type: company
     founded: 1901
-    headquarters: London, UK
+    headquarters: Pittsburgh, Pennsylvania, USA
     status: active
     sector: oil
-    note: Fusa in Chevron 1985
+    note: Original Seven Sister. Acquired by Chevron 1984
     stakeholders:
+    - person: andrew-mellon
+      role: founder
+      from: 1901
+      note: Co-founder, first president 1907
+    - person: william-larimer-mellon
+      role: executive
+      from: 1909
+      to: 1948
+      note: President, 39 years
+    - org: chevron
+      role: acquisition
+      share: 1.0
+      from: 1984
+      note: Largest merger in history at the time ($13.3B). SoCal renamed to Chevron
     - org: hinduja-group
       role: parent
       from: 1984
@@ -24460,6 +25768,18 @@ organizations:
     - person: reem-al-hashimy
       role: alumni
       note: Master degree
+    - person: giampiero-mazza
+      role: alumni
+      note: MBA 1996
+    - person: roberto-tomasi
+      role: alumni
+      note: Executive Program
+    - person: lynn-elsenhans
+      role: alumni
+      note: MBA 1980
+    - person: amirul-feisal-wan-zahir
+      role: alumni
+      note: Advanced Management Program
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -24490,6 +25810,15 @@ organizations:
     - person: joshua-kushner
       role: alumni
       note: MBA 2011
+  harvard-law:
+    name: Harvard Law School
+    type: university
+    headquarters: Cambridge, USA
+    status: active
+    stakeholders:
+    - person: nawaf-al-sabah
+      role: alumni
+      note: JD, PhD Law
   harvard-law-school:
     name: Harvard Law School
     type: university
@@ -24897,6 +26226,11 @@ organizations:
       to: 2019
     - person: jose-antonio-fernandez-carbajal
       role: board
+    - person: gianluca-di-tondo
+      role: executive
+      from: 2006
+      to: 2020
+      note: Senior Director Global Heineken Brand
     - org: blackrock
       share: 2.3
     - org: vanguard
@@ -24939,6 +26273,11 @@ organizations:
       share: 2.0%
     - org: vanguard
       share: 1.5%
+  hellman-friedman:
+    name: Hellman & Friedman
+    type: privateequity
+    headquarters: San Francisco, USA
+    status: active
   henkel:
     name: Henkel AG & Co. KGaA
     type: company
@@ -25021,6 +26360,17 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 2.0
+  hess:
+    name: Hess Corporation
+    type: company
+    status: defunct
+    sector: oil
+    stakeholders:
+    - org: chevron
+      role: acquisition
+      share: 1.0
+      from: 2025
+      note: $53B acquisition. Bakken Formation + 30% Stabroek Block (Guyana)
   hewlett-packard:
     name: Hewlett-Packard Company
     type: company
@@ -25077,6 +26427,19 @@ organizations:
       share: 3.5%
     - org: vanguard
       share: 3.5%
+  heydar-aliyev-foundation:
+    name: Heydar Aliyev Foundation
+    type: foundation
+    founded: 2004
+    headquarters: Baku, Azerbaijan
+    note: Charity run by First Family, criticized as regime image-laundering vehicle
+    stakeholders:
+    - person: mehriban-aliyeva
+      role: chairman
+      from: 2004
+    - person: leyla-aliyeva
+      role: executive
+      note: Vice President
   hezbollah:
     name: Hezbollah
     type: party
@@ -25310,6 +26673,17 @@ organizations:
       from: 1941
       to: 1987
       note: President 1941-1966, Chairman 1966-1987
+  hkex:
+    name: Hong Kong Exchanges and Clearing Limited
+    type: company
+    founded: 2000
+    headquarters: Hong Kong
+    status: active
+    sector: finance
+    stakeholders:
+    - person: stuart-gulliver
+      role: advisor
+      note: International Advisory Council
   hkust:
     name: Hong Kong University of Science and Technology
     type: university
@@ -25373,6 +26747,27 @@ organizations:
     stakeholders:
     - org: blackrock
       share: 5.2%
+  holding-reti-autostradali:
+    name: Holding Reti Autostradali SpA
+    type: company
+    founded: 2021
+    headquarters: Rome, Italy
+    status: active
+    note: Veicolo per acquisizione ASPI da Atlantia
+    stakeholders:
+    - org: blackstone
+      role: stake
+      share: 0.245
+      from: 2021
+      note: Via Blackstone Infrastructure Partners
+    - org: macquarie-asset-management
+      role: stake
+      share: 0.245
+      from: 2021
+    - org: cdp-equity
+      role: stake
+      share: 0.51
+      from: 2021
   hollinger:
     name: Hollinger International
     type: company
@@ -25430,6 +26825,13 @@ organizations:
       role: executive
       to: 2017
       note: Former VP & CEO divisions
+  hong-leong-group:
+    name: Hong Leong Group
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    stakeholders:
+    - person: quek-leng-chan
+      role: chairman
   hongkong-land:
     name: Hongkong Land Holdings Limited
     type: company
@@ -25958,6 +27360,9 @@ organizations:
       note: Through Lotus/Iris acquisition
     - person: jerry-ungerman
       role: executive
+    - person: andrew-liveris
+      role: board
+      note: Board member
   ibra:
     name: Indonesian Bank Restructuring Agency
     type: agency
@@ -26030,6 +27435,11 @@ organizations:
       role: chairman
       from: 2015
       note: Vice
+  icg:
+    name: Intermediate Capital Group (ICG)
+    type: assetmanager
+    headquarters: London, GBR
+    status: active
   icici-bank:
     name: ICICI Bank
     type: bank
@@ -26332,6 +27742,17 @@ organizations:
     - org: power-corporation
       role: control
       from: 1970
+  ihh-healthcare:
+    name: IHH Healthcare Berhad
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: healthcare
+    note: Asian healthcare group, Parkway Pantai owner
+    stakeholders:
+    - org: khazanah
+      role: stake
+      note: Major stake
   ihi:
     name: Institute for Healthcare Improvement
     type: thinktank
@@ -26977,6 +28398,23 @@ organizations:
       role: founder
       from: 1940
       to: 1972
+  industries-qatar:
+    name: Industries Qatar (IQ)
+    type: company
+    founded: 2003
+    headquarters: Doha, QAT
+    status: active
+    sector: petrochemicals
+    stakeholders:
+    - person: saad-al-kaabi
+      role: chairman
+      from: 2014
+      note: Chairman of the Board
+    - org: qatarenergy
+      role: stake
+      share: 0.51
+      from: 2003
+      note: Majority stake; listed on Qatar Stock Exchange
   industry-capital-partners:
     name: Industry Capital Partners
     type: company
@@ -27163,6 +28601,9 @@ organizations:
       role: chairman
       from: 2018
       note: Hoffmann Global Institute Advisory Board
+    - person: jorge-quemada
+      role: alumni
+      note: MBA 2001
   insper:
     name: Insper Instituto de Ensino e Pesquisa
     type: university
@@ -27479,6 +28920,17 @@ organizations:
       from: 2004
       to: 2009
       note: President
+  international-paper:
+    name: International Paper Company
+    type: company
+    status: active
+    sector: manufacturing
+    stakeholders:
+    - person: peter-bijur
+      role: board
+    - person: lynn-elsenhans
+      role: board
+      note: Independent Director
   international-press-institute:
     name: International Press Institute
     type: agency
@@ -27507,6 +28959,18 @@ organizations:
       note: Board of Advisors
     - person: indra-nooyi
       role: board
+  interpump:
+    name: Interpump Group S.p.A.
+    type: company
+    founded: 1977
+    headquarters: Sant'Ilario d'Enza, Italy
+    status: active
+    sector: industrial pumps
+    stakeholders:
+    - org: tamburi-investment-partners
+      role: stake
+      from: 2002
+      note: Long-term investment, 20+ years
   interros:
     name: Interros
     type: company
@@ -27649,6 +29113,25 @@ organizations:
     - org: mubadala
       role: shareholder
       share: 20%
+  investindustrial:
+    name: Investindustrial
+    type: privateequity
+    founded: 1990
+    headquarters: London, United Kingdom
+    status: active
+    stakeholders:
+    - person: andrea-bonomi
+      role: founder
+      from: 1990
+      note: Chairman
+    - person: carlo-umberto-bonomi
+      role: partner
+      from: 1995
+      note: Managing Principal
+    - person: roberto-ardagna
+      role: partner
+      from: 2010
+      note: Managing Principal, leads Investindustrial Growth
   investor-ab:
     name: Investor AB
     type: company
@@ -28054,6 +29537,11 @@ organizations:
     status: active
     sector: airline
     stakeholders:
+    - person: antonino-turicchi
+      role: chairman
+      from: 2022
+      to: 2025
+      note: Gestito privatizzazione con Lufthansa
     - org: lufthansa
       role: shareholder
       share: 41%
@@ -28108,6 +29596,71 @@ organizations:
     stakeholders:
     - org: mediaset-mfe
       share: 100%
+  italo-ntv:
+    name: Italo - Nuovo Trasporto Viaggiatori
+    type: company
+    founded: 2006
+    headquarters: Rome, ITA
+    status: active
+    sector: transport
+    stakeholders:
+    - person: flavio-cattaneo
+      role: board
+      note: Reinvested shareholder
+    - person: luca-montezemolo
+      role: founder
+      from: 2006
+      note: Co-founder, Chairman
+    - person: diego-della-valle
+      role: founder
+      from: 2006
+      to: 2018
+      note: Co-founder
+    - person: gianni-punzo
+      role: founder
+      from: 2006
+      note: Co-founder
+    - person: giuseppe-sciarrone
+      role: founder
+      from: 2006
+      note: Co-founder
+    - person: isabella-seragnoli
+      role: board
+      note: Reinvested shareholder
+    - person: alberto-bombassei
+      role: board
+      note: Reinvested shareholder
+    - org: intesa-sanpaolo
+      role: investor
+      from: 2008
+      to: 2018
+      note: Early investor, exited with GIP acquisition
+    - org: allianz
+      role: investor
+      from: 2023
+      note: Co-investor with GIP via Allianz Capital Partners
+    - org: gip
+      role: stake
+      share: 0.5
+      from: 2018
+      note: Acquired 100% in 2018 for €1.98B; 50% since 2023
+    - org: msc
+      role: stake
+      share: 0.5
+      from: 2023
+      note: Acquired 50% stake, strategic partnership with GIP
+    - org: sncf
+      role: investor
+      share: 0.2
+      from: 2008
+      to: 2015
+      note: 20% stake; exited 2015 declining capital increase
+    - org: peninsula-capital
+      role: investor
+      share: 0.13
+      from: 2017
+      to: 2018
+      note: 13% stake 2017; reinvested via GIP Neptune 2018
   itam:
     name: Instituto Tecnológico Autónomo de México
     type: university
@@ -28326,6 +29879,10 @@ organizations:
       from: 1983
       to: 1988
       note: Taipan (7th Keswick)
+    - person: stuart-gulliver
+      role: board
+      from: 2019
+      note: Board of Directors
   jardine-motors:
     name: Jardine Motors Group
     type: company
@@ -28593,6 +30150,9 @@ organizations:
       from: 2012
       to: 2018
       note: Group Worldwide Chairman
+    - person: mark-weinberger
+      role: board
+      note: Board member
   jokerit:
     name: Jokerit Helsinki
     type: sportsclub
@@ -28683,6 +30243,11 @@ organizations:
     - person: franco-bernabe
       role: advisor
       note: International Council
+    - person: lee-raymond
+      role: board
+      from: 1987
+      to: 2020
+      note: Lead Independent Director until 2020
     - person: david-rockefeller
       role: chairman
       from: 1969
@@ -28727,6 +30292,10 @@ organizations:
     - person: phebe-novakovic
       role: board
       from: 2020
+    - person: mark-weinberger
+      role: board
+      from: 2024
+      note: Board of Directors, Audit Committee
     - org: norges-bank-gpfg
       role: stake
     - org: wef
@@ -28820,6 +30389,23 @@ organizations:
       from: 2015
       to: 2024
       note: Also landlord of buildings. Collapsed Nov 2023
+  kapital-bank:
+    name: Kapital Bank
+    type: bank
+    headquarters: Baku, Azerbaijan
+    status: active
+    note: 'One of top 5 Azerbaijani banks. Controlled by Aliyev family. Ultimate owners: Leyla Aliyeva, Arzu Aliyeva, Arif
+      Pashayev.'
+    stakeholders:
+    - person: leyla-aliyeva
+      role: board
+      note: Ultimate beneficial owner
+    - person: arzu-aliyeva
+      role: board
+      note: Ultimate beneficial owner
+    - org: pasha-holding
+      role: stake
+      note: majority owner
   kasikornbank:
     name: Kasikornbank
     type: bank
@@ -28863,6 +30449,16 @@ organizations:
     - person: nadim-gemayel
       role: member
       note: Deputato
+  kaust:
+    name: King Abdullah University of Science and Technology
+    type: university
+    founded: 2009
+    headquarters: Thuwal, Saudi Arabia
+    status: active
+    stakeholders:
+    - person: amin-nasser
+      role: board
+      note: Board of Trustees
   kbc:
     name: KBC Group NV
     type: bank
@@ -28913,6 +30509,60 @@ organizations:
       from: 2004
       to: 2011
       note: Uscita polemica post-Fukushima
+  kellanova:
+    name: Kellanova
+    type: company
+    founded: 2023
+    headquarters: Chicago, USA
+    status: acquired
+    sector: Snacks/Food
+    stakeholders:
+    - person: steve-cahillane
+      role: executive
+      from: 2023
+      to: 2025
+      note: Chairman & CEO until Mars acquisition
+    - org: kellogg
+      role: spinoff
+      from: 2023
+      note: Oct 2023 split - snacks/international division
+    - org: mars
+      role: parent
+      share: 1.0
+      from: 2025
+      note: Acquired Dec 2025 for ~$30B
+  kellogg:
+    name: Kellogg Company
+    type: company
+    founded: 1906
+    headquarters: Battle Creek, USA
+    status: split
+    sector: Food
+    stakeholders:
+    - person: john-bryant
+      role: executive
+      from: 1998
+      to: 2018
+      note: CEO 2011-2017, Chairman 2014-2017
+    - person: steve-cahillane
+      role: executive
+      from: 2017
+      to: 2023
+      note: CEO 2017-2023, Chairman 2018-2023
+    - person: gary-pilnick
+      role: executive
+      from: 2000
+      to: 2023
+      note: General Counsel 2003, Vice Chairman 2016
+  kellogg-northwestern:
+    name: Kellogg School of Management, Northwestern University
+    type: university
+    headquarters: Evanston, Illinois, USA
+    status: active
+    stakeholders:
+    - person: darren-woods
+      role: alumni
+      note: MBA
   kennedy-center:
     name: John F. Kennedy Center for the Performing Arts
     type: foundation
@@ -29016,6 +30666,19 @@ organizations:
       role: investor
       from: 2003
       to: 2004
+  kfupm:
+    name: King Fahd University of Petroleum and Minerals
+    type: university
+    founded: 1963
+    headquarters: Dhahran, Saudi Arabia
+    status: active
+    stakeholders:
+    - person: amin-nasser
+      role: alumni
+      note: BS Petroleum Engineering
+    - person: amin-nasser
+      role: board
+      note: International Advisory Board
   kgb:
     name: Komitet Gosudarstvennoy Bezopasnosti
     type: agency
@@ -29075,6 +30738,27 @@ organizations:
     - org: irgc
       role: owner
       share: 100%
+  khazanah:
+    name: Khazanah Nasional Berhad
+    type: swf
+    founded: 1993
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    note: Malaysian sovereign wealth fund. Chaired by Prime Minister. AUM ~$36B (2024).
+    stakeholders:
+    - person: amirul-feisal-wan-zahir
+      role: executive
+      from: 2021
+      note: Managing Director
+    - person: anwar-ibrahim
+      role: chairman
+      from: 2022
+      note: Chairman ex-officio (Prime Minister)
+    - person: mahathir-mohamad
+      role: founder
+      from: 1993
+      to: 2003
+      note: Founding Chairman (as PM)
   khl:
     name: Kontinental Hockey League
     type: agency
@@ -29334,6 +31018,18 @@ organizations:
       role: parent
       from: 2004
       note: Subsidiary
+  knpc:
+    name: Kuwait National Petroleum Company (KNPC)
+    type: company
+    founded: 1960
+    headquarters: Kuwait City, KWT
+    status: active
+    sector: oil-refining
+    stakeholders:
+    - org: kuwait-petroleum
+      role: subsidiary
+      share: 1.0
+      from: 1980
   koc-holding:
     name: Koc Holding A.S.
     type: company
@@ -29530,6 +31226,31 @@ organizations:
     - person: anand-mahindra
       role: founder
       note: Co-promoter
+  kotc:
+    name: Kuwait Oil Tanker Company (KOTC)
+    type: company
+    founded: 1957
+    headquarters: Kuwait City, KWT
+    status: active
+    sector: shipping
+    stakeholders:
+    - org: kuwait-petroleum
+      role: subsidiary
+      share: 1.0
+      from: 1979
+      note: Nationalized 1979
+  kpc-trading:
+    name: KPC Trading Ltd
+    type: company
+    founded: 2024
+    headquarters: Dubai, ARE
+    status: active
+    sector: oil-trading
+    stakeholders:
+    - org: kuwait-petroleum
+      role: subsidiary
+      share: 1.0
+      from: 2024
   kpmg:
     name: KPMG
     type: company
@@ -29607,6 +31328,23 @@ organizations:
       role: parent
       from: 2013
       note: Majority shareholder, consolidated subsidiary
+  kufpec:
+    name: Kuwait Foreign Petroleum Exploration Company (KUFPEC)
+    type: company
+    founded: 1981
+    headquarters: Kuwait City, KWT
+    status: active
+    sector: oil-gas-upstream
+    stakeholders:
+    - person: nawaf-al-sabah
+      role: executive
+      from: 2013
+      to: 2019
+      note: CEO
+    - org: kuwait-petroleum
+      role: subsidiary
+      share: 1.0
+      from: 1981
   kuhn-loeb:
     name: Kuhn Loeb
     type: bank
@@ -29660,6 +31398,13 @@ organizations:
       share: 100%
       from: 2016
       note: Full ownership since 2022 (delisted)
+  kuok-group:
+    name: Kuok Group
+    type: company
+    headquarters: Hong Kong
+    stakeholders:
+    - person: robert-kuok
+      role: founder
   kuwait-investment-authority:
     name: Kuwait Investment Authority
     type: swf
@@ -29673,6 +31418,65 @@ organizations:
       role: joint-fund
       from: 2012
       note: Automatic co-investment $1B
+  kuwait-oil-company:
+    name: Kuwait Oil Company (KOC)
+    type: company
+    founded: 1934
+    headquarters: Ahmadi, KWT
+    status: active
+    sector: oil-gas-upstream
+    stakeholders:
+    - org: kuwait-petroleum
+      role: subsidiary
+      share: 1.0
+      from: 1980
+  kuwait-petroleum:
+    name: Kuwait Petroleum Corporation (KPC)
+    type: company
+    founded: 1980
+    headquarters: Kuwait City, KWT
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: nawaf-al-sabah
+      role: executive
+      from: 2022
+      note: Deputy Chairman & CEO
+    - org: governo-kuwait
+      role: owner
+      share: 1.0
+      note: State-owned via Supreme Petroleum Council
+  kuwait-petroleum-italia:
+    name: Kuwait Petroleum Italia (Q8 Italia)
+    type: company
+    founded: 1984
+    headquarters: Roma, ITA
+    status: active
+    sector: oil-downstream
+    stakeholders:
+    - person: fadel-al-faraj
+      role: chairman
+      from: 2024
+      note: President
+    - person: fadel-al-faraj
+      role: executive
+      from: 2022
+      to: 2024
+      note: Amministratore Delegato
+    - person: bashar-al-awadhi
+      role: executive
+      from: 2024
+      note: Amministratore Delegato (CEO)
+    - person: giuseppe-zappala
+      role: executive
+      from: 2019
+      to: 2022
+      note: Amministratore Delegato; in azienda dal 1988
+    - org: q8-kpi
+      role: subsidiary
+      share: 1.0
+      from: 1984
+      note: Acquired Gulf Oil Italia network
   kyutai:
     name: Kyutai
     type: foundation
@@ -29895,14 +31699,29 @@ organizations:
       from: 2025
       note: AI-native security firm
   lamborghini:
-    name: Lamborghini
+    name: Automobili Lamborghini S.p.A.
     type: company
     founded: 1963
-    headquarters: Sant'Agata Bolognese
+    headquarters: Sant'Agata Bolognese, Italy
     status: active
+    sector: luxury sports cars
     stakeholders:
+    - person: stephan-winkelmann
+      role: executive
+      from: 2020
+      note: President and CEO (second term, first 2005-2016)
+    - person: ferruccio-lamborghini
+      role: founder
+      from: 1963
+      to: 1974
+      note: Fondatore
     - org: volkswagen
       role: subsidiary
+    - org: audi
+      role: subsidiary
+      share: 1.0
+      from: 1998
+      note: Acquired from Mycom/VPower
   landing-ai:
     name: LandingAI
     type: company
@@ -30561,6 +32380,9 @@ organizations:
     founded: 1765
     headquarters: London, UK
     stakeholders:
+    - person: peter-jackson
+      role: executive
+      note: HBOS 7 years, then Lloyds consumer bank head after 2008 rescue
     - org: blackrock
       share: 9.3%
     - org: vanguard
@@ -30853,6 +32675,12 @@ organizations:
     - person: elliot-abrams
       role: alumni
       note: MSc International Relations 1970
+    - person: mohd-bakke-salleh
+      role: alumni
+      note: BSc Economics
+    - person: amirul-feisal-wan-zahir
+      role: alumni
+      note: BSc Economics (Accounting and Finance)
   lseg:
     name: London Stock Exchange Group
     type: company
@@ -30904,6 +32732,9 @@ organizations:
       from: 2016
       to: 2025
       note: CTO 2016, CEO 2019-2025
+    - person: andrew-liveris
+      role: chairman
+      note: Chairman of the Board
     - org: pif-saudi
       role: controlling
       share: 60%
@@ -30967,6 +32798,9 @@ organizations:
       from: 2013
       to: 2014
       note: Docente School of Government
+    - person: francesco-durante
+      role: alumni
+      note: Laurea Economia e Commercio 1994
   luma-foundation:
     name: LUMA Foundation
     type: foundation
@@ -31065,6 +32899,17 @@ organizations:
       share: 48
       from: 1989
       note: Controlling stake
+  lyondellbasell:
+    name: LyondellBasell Industries
+    type: company
+    founded: 2007
+    headquarters: Rotterdam, Netherlands / Houston, USA
+    status: active
+    sector: chemicals, plastics
+    stakeholders:
+    - person: robert-dudley
+      role: board
+      note: Board member
   m1-group:
     name: M1 Group
     type: company
@@ -31132,6 +32977,11 @@ organizations:
     type: assetmanager
     headquarters: Sydney, Australia
     status: active
+  macquarie-asset-management:
+    name: Macquarie Asset Management
+    type: assetmanager
+    headquarters: Sydney, Australia
+    status: active
   macquarie-group:
     name: Macquarie Group
     type: assetmanager
@@ -31139,6 +32989,20 @@ organizations:
     headquarters: Sydney, Australia
     status: active
     sector: infrastructure
+  maddox-sa:
+    name: Maddox SA
+    type: company
+    founded: 2013
+    headquarters: Geneva, Switzerland
+    status: active
+    sector: oil-trading
+    note: 'Oil trading company. Owner: Rovshan Tamrazov (AZE). Offshore: Maddox Energy Trading (BVI, 2010).'
+    stakeholders:
+    - person: mariam-almaszade
+      role: executive
+      from: 2016
+      to: 2018
+      note: 'CEO. Prior: Head of Legal, Audit, Compliance (2012-2016)'
   maersk:
     name: A.P. Moller-Maersk
     type: company
@@ -31198,6 +33062,34 @@ organizations:
       share: 0.68
       from: 1963
       note: Acquired Makhteshim 1963, created Agan 1974. Core asset after restructuring.
+  malaysia-airports:
+    name: Malaysia Airports Holdings Berhad
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: transport
+    note: Airport operator, KLIA
+    stakeholders:
+    - org: khazanah
+      role: stake
+      note: Strategic stake
+  malaysia-lng:
+    name: Malaysia LNG Sdn Bhd
+    type: company
+    founded: 1978
+    headquarters: Bintulu, Malaysia
+    status: active
+    sector: energy
+    note: JV with Mitsubishi and Shell. LNG production.
+    stakeholders:
+    - org: shell
+      role: stake
+      from: 1978
+      note: JV partner with Petronas and Mitsubishi
+    - org: petronas
+      role: stake
+      from: 1978
+      note: JV with Mitsubishi and Shell
   mamelodi-sundowns:
     name: Mamelodi Sundowns F.C.
     type: sportsclub
@@ -31357,6 +33249,12 @@ organizations:
     stakeholders:
     - person: mark-pollock
       role: founder
+  mars:
+    name: Mars Inc.
+    type: company
+    headquarters: McLean, USA
+    status: active
+    sector: Confectionery/Food
   marsh-mclennan:
     name: Marsh McLennan Companies
     type: company
@@ -31402,6 +33300,10 @@ organizations:
     status: active
     sector: renewable-energy
     stakeholders:
+    - person: sultan-al-jaber
+      role: chairman
+      from: 2006
+      note: Founder, CEO 2006-2016, Chairman
     - org: mubadala
       role: shareholder
     - org: adnoc
@@ -31712,6 +33614,9 @@ organizations:
     - person: magnus-grimeland
       role: partner
       note: Junior Partner, Telco/Media/Tech, 6 years
+    - person: peter-jackson
+      role: consultant
+      note: Early career, 3 years
   mclaren:
     name: McLaren Group
     type: company
@@ -31833,6 +33738,19 @@ organizations:
       from: 1996
       to: 2017
       note: Director 1996-2002, Deputy Chairman 2007-2017
+    - person: stefano-marsaglia
+      role: executive
+      from: 2014
+      to: 2018
+      note: Executive Chairman, Co-Head Global CIB
+    - person: borja-prado-eulate
+      role: executive
+      from: 2007
+      to: 2014
+      note: President, Iberia & Latin America
+    - person: javier-de-la-rica
+      role: executive
+      note: Vice President, Mediobanca Spain
     - org: blackrock
       role: shareholder
       share: 4.23
@@ -32292,6 +34210,18 @@ organizations:
       share: 0.54%
     - org: vanguard
       share: 1.84%
+  metlife:
+    name: MetLife Inc.
+    type: company
+    founded: 1868
+    headquarters: New York City, USA
+    status: active
+    sector: insurance
+    stakeholders:
+    - person: mark-weinberger
+      role: board
+      from: 2019
+      note: Board of Directors
   metro-pacific:
     name: Metro Pacific Investments Corporation
     type: company
@@ -32330,6 +34260,16 @@ organizations:
     stakeholders:
     - org: blackrock
       share: 4.9%
+  mgimo:
+    name: Moscow State Institute of International Relations (MGIMO)
+    type: university
+    founded: 1944
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: ilham-aliyev
+      role: alumni
+      note: PhD History 1985, Lecturer 1985-1990
   mgx:
     name: MGX Fund Management
     type: swf
@@ -32456,6 +34396,15 @@ organizations:
       role: chairman
       from: 1995
       note: Managing Partner
+  miami-university:
+    name: Miami University
+    type: university
+    headquarters: Oxford, Ohio, USA
+    status: active
+    stakeholders:
+    - person: mike-sommers
+      role: alumni
+      note: BA
   michael-susan-dell-foundation:
     name: Michael & Susan Dell Foundation
     type: foundation
@@ -32792,6 +34741,19 @@ organizations:
       share: 51%
       from: 2016
       note: ViacomCBS owns 49%
+  misc-berhad:
+    name: MISC Berhad
+    type: company
+    founded: 1968
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: shipping
+    note: Malaysian shipping company, LNG tanker fleet
+    stakeholders:
+    - org: petronas
+      role: stake
+      share: 0.63
+      note: Controlling majority stake
   missouri-st:
     name: Missouri University of Science and Technology
     type: university
@@ -32861,11 +34823,17 @@ organizations:
     - person: luis-videgaray
       role: professor
       from: 2019
+    - person: meg-oneill
+      role: alumni
+      note: BS Ocean Engineering, BS Chemical Engineering, MS Ocean Systems Management
     - person: brian-forde
       role: board
     - person: andrew-ng
       role: alumni
       note: MS Electrical Engineering and Computer Science 1998
+    - person: amin-nasser
+      role: advisor
+      note: Presidential CEO Advisory Board
     - person: robert-millard
       role: chairman
       from: 2014
@@ -33132,9 +35100,16 @@ organizations:
     headquarters: Milan, Italy
     sector: luxury fashion
     stakeholders:
+    - person: alessandra-gritti
+      role: board
+      note: Board member
     - org: blackrock
       role: shareholder
       share: 5.0
+    - org: tamburi-investment-partners
+      role: stake
+      from: 2013
+      note: Pre-IPO investment
   mongodb:
     name: MongoDB Inc.
     type: company
@@ -33143,6 +35118,15 @@ organizations:
     stakeholders:
     - person: roelof-botha
       role: board
+  montana-tech:
+    name: Montana Tech
+    type: university
+    headquarters: Butte, Montana, USA
+    status: active
+    stakeholders:
+    - person: ryan-lance
+      role: alumni
+      note: BS Petroleum Engineering
   monte-paschi:
     name: Banca Monte dei Paschi di Siena
     type: bank
@@ -33429,6 +35413,12 @@ organizations:
       share: 5.14%
     - org: vanguard
       share: 3.0%
+  msc:
+    name: Mediterranean Shipping Company (MSC)
+    type: company
+    headquarters: Geneva, CHE
+    status: active
+    sector: shipping
   mtn:
     name: MTN Group
     type: company
@@ -33475,6 +35465,10 @@ organizations:
       role: executive
       from: 2002
       note: Managing Director & Group CEO
+    - person: sultan-al-jaber
+      role: executive
+      to: 2016
+      note: CEO Energy Platform
     - org: governo-uae
       role: owner
       share: 100.0
@@ -33776,6 +35770,31 @@ organizations:
       role: founder
       from: 2008
       note: Co-founder
+  national-petroleum-council:
+    name: National Petroleum Council
+    type: forum
+    founded: 1946
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: rex-tillerson
+      role: member
+    - person: darren-woods
+      role: member
+    - person: mike-wirth
+      role: member
+    - person: greg-garland
+      role: member
+    - person: alan-armstrong
+      role: chairman
+      from: 2023
+      note: Chair
+    - person: ryan-lance
+      role: chairman
+      from: 2025
+      note: Vice Chair, incoming Chair
+    - person: peter-bijur
+      role: member
   national-public-radio:
     name: National Public Radio
     type: media
@@ -34313,6 +36332,22 @@ organizations:
       from: 2009
       to: 2021
       note: Board member, then emeritus
+  new-azerbaijan-party:
+    name: New Azerbaijan Party (YAP)
+    founded: 1992
+    headquarters: Baku, Azerbaijan
+    note: Ruling party, founded by Heydar Aliyev
+    stakeholders:
+    - person: mehriban-aliyeva
+      role: executive
+      from: 2013
+      note: Deputy Chairman
+    - person: heydar-aliyev
+      role: founder
+      from: 1992
+    - person: ilham-aliyev
+      role: chairman
+      from: 2003
   new-bulgarian-media-group:
     name: New Bulgarian Media Group
     type: media
@@ -34668,6 +36703,34 @@ organizations:
       share: 3.0
     - org: vanguard
       share: 3.0
+  nioc:
+    name: National Iranian Oil Company (NIOC)
+    type: company
+    founded: 1951
+    headquarters: Tehran, Iran
+    status: active
+    sector: energy
+    note: New Seven Sister. Created after nationalization of Anglo-Iranian. State-owned, 2nd largest oil company in world
+    stakeholders:
+    - person: mohammad-mossadegh
+      role: founder
+      from: 1951
+      to: 1953
+      note: Created NIOC through nationalization law
+    - person: hamid-bovard
+      role: executive
+      from: 2024
+      note: CEO and Deputy Oil Minister
+    - person: mohsen-khojasteh-mehr
+      role: executive
+      from: 2021
+      to: 2024
+      note: CEO and Deputy Oil Minister
+    - org: governo-iran
+      role: controlling
+      share: 1.0
+      from: 1951
+      note: 100% state-owned via Ministry of Petroleum
   nippon-tv:
     name: Nippon Television
     type: media
@@ -34815,6 +36878,11 @@ organizations:
       share: 7.5%
     - org: state-street
       share: 4.9%
+  nomura:
+    name: Nomura Holdings
+    type: bank
+    headquarters: Tokyo, JPN
+    status: active
   nongfu-spring:
     name: Nongfu Spring
     type: company
@@ -34977,6 +37045,15 @@ organizations:
       from: 2008
       to: 2011
       note: President Northrop Grumman Shipbuilding
+  northwestern-kellogg:
+    name: Northwestern University - Kellogg School of Management
+    type: university
+    headquarters: Evanston, USA
+    status: active
+    stakeholders:
+    - person: carlos-domenech
+      role: alumni
+      note: MBA
   nos-portugal:
     name: NOS
     type: company
@@ -35476,6 +37553,18 @@ organizations:
     - person: josh-gruenbaum
       role: alumni
       note: JD School of Law, MBA Stern School of Business
+  nyu-stern:
+    name: NYU Stern School of Business
+    type: university
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: andrea-bonomi
+      role: alumni
+      note: BS 1986
+    - person: andrea-bonomi
+      role: board
+      note: Trustee
   oak-foundation:
     name: Oak Foundation
     type: foundation
@@ -35797,6 +37886,11 @@ organizations:
     - org: adnoc
       share: 25
       note: Strategic partner, Borealis merger
+    - org: xrg
+      role: stake
+      share: 0.249
+      from: 2025
+      note: 24.9% transferred to XRG
   omv-petrom:
     name: OMV Petrom
     type: company
@@ -36580,6 +38674,16 @@ organizations:
     stakeholders:
     - person: michelle-dipp
       role: founder
+  ovs:
+    name: OVS S.p.A.
+    type: company
+    headquarters: Venice, Italy
+    status: active
+    sector: retail fashion
+    stakeholders:
+    - org: tamburi-investment-partners
+      role: stake
+      note: Retail investment
   oxfam:
     name: Oxfam International
     type: foundation
@@ -36602,6 +38706,9 @@ organizations:
     - person: reid-hoffman
       role: alumni
       note: MSt Philosophy 1993, Marshall Scholar, Wolfson College
+    - person: stuart-gulliver
+      role: alumni
+      note: BA Jurisprudence, Worcester College
     - person: mustafa-suleyman
       role: alumni
       note: Philosophy & Theology (dropout), Mansfield College
@@ -36918,6 +39025,46 @@ organizations:
     - person: albert-bourla
       role: chairman
       note: Co-Chair Board of Directors
+  pasha-bank:
+    name: Pasha Bank
+    type: bank
+    headquarters: Baku, Azerbaijan
+    status: active
+    note: Controlled by Aliyev daughters (Leyla, Arzu) and Arif Pashayev. Operations in Azerbaijan, Turkey, Georgia, Russia.
+      Part of Pasha Holding.
+    stakeholders:
+    - person: leyla-aliyeva
+      role: board
+      note: Ultimate beneficial owner
+    - person: arzu-aliyeva
+      role: board
+      note: Ultimate beneficial owner
+    - org: pasha-holding
+      role: parent
+      note: majority owner
+  pasha-holding:
+    name: Pasha Holding
+    type: company
+    headquarters: Baku, Azerbaijan
+    status: active
+    note: Conglomerate controlled by Pashayev family. Banking, insurance, construction, travel, investments. Operations in
+      Azerbaijan, Georgia, Turkey, Russia.
+    stakeholders:
+    - person: leyla-aliyeva
+      role: founder
+      note: ultimate beneficiary
+    - person: arzu-aliyeva
+      role: founder
+      note: ultimate beneficiary
+    - person: heydar-aliyev-jr
+      role: founder
+      note: ultimate beneficiary
+    - person: arif-pashayev
+      role: chairman
+      note: nominal owner
+    - person: mir-jamal-pashayev
+      role: executive
+      note: Managing Director
   paul-singer-foundation:
     name: Paul E. Singer Foundation
     type: foundation
@@ -37024,6 +39171,42 @@ organizations:
       share: 7.0
     - org: vanguard
       share: 8.0
+  pdvsa:
+    name: Petróleos de Venezuela S.A. (PDVSA)
+    type: company
+    founded: 1976
+    headquarters: Caracas, Venezuela
+    status: active
+    sector: Oil & Gas
+    note: New Seven Sister. Venezuelan state oil company. Largest proven oil reserves in world (303B barrels). Crisis since
+      2014.
+    stakeholders:
+    - person: hector-obregon
+      role: executive
+      from: 2024
+      note: President. Appointed Aug 2024.
+    - person: rafael-ramirez
+      role: executive
+      from: 2004
+      to: 2014
+      note: President. Also Oil Minister. Longest tenure. Fled amid corruption probe.
+    - person: pedro-tellechea
+      role: executive
+      from: 2023
+      to: 2024
+      note: President. Also Oil Minister. Removed Aug 2024, arrested Oct 2024.
+    - person: gustavo-gonzalez-lopez
+      role: executive
+      from: 2025
+      note: President. General. Former SEBIN chief. Sanctioned for human rights violations.
+    - org: chevron
+      role: partner
+      note: Only US oil company still operating in Venezuela. Joint ventures in Orinoco Belt.
+    - org: governo-venezuela
+      role: stake
+      share: 100%
+      from: 1976
+      note: Nationalized oil industry
   peace-parks:
     name: Peace Parks Foundation
     type: foundation
@@ -37067,6 +39250,39 @@ organizations:
       role: owner
       share: 100%
       from: 2020
+  peninsula-capital:
+    name: Peninsula Capital
+    type: privateequity
+    founded: 2016
+    headquarters: Luxembourg, LUX
+    status: active
+    stakeholders:
+    - person: stefano-marsaglia
+      role: founder
+      from: 2016
+      to: 2021
+      note: Co-founder with QIA
+    - person: borja-prado-eulate
+      role: founder
+      from: 2016
+      note: Co-founder
+    - person: javier-de-la-rica
+      role: founder
+      from: 2016
+      note: Co-founder, ex Mediobanca Spain VP
+    - org: qia
+      role: investor
+      from: 2016
+      note: Co-founded with Marsaglia, €1.6B fund
+  penn-state:
+    name: Pennsylvania State University
+    type: university
+    headquarters: State College, USA
+    status: active
+    stakeholders:
+    - person: saad-al-kaabi
+      role: alumni
+      note: BS Petroleum & Natural Gas Engineering 1991
   penoles:
     name: Industrias Peñoles
     type: company
@@ -37153,6 +39369,21 @@ organizations:
     founded: 1985
     headquarters: London, UK
     status: active
+    aum: 80B EUR
+    note: 'Ex Schroder Ventures (1985). Rebranding 2001. Focus: Technology, Consumer, Services, Healthcare'
+    stakeholders:
+    - person: kurt-bjorklund
+      role: chairman
+      from: 2024
+      note: Executive Chairman. Managing Partner 2021-2024, Co-Managing Partner 2008-2021
+    - person: brian-ruder
+      role: partner
+      from: 2008
+      note: Co-Managing Partner, Co-CEO dal 2024. Chair Buyout Funds IC, Chair Growth Opportunities IC
+    - person: dipan-patel
+      role: partner
+      from: 2009
+      note: Co-Managing Partner, Co-CEO dal 2024. Co-Head Consumer team
   pernod-ricard:
     name: Pernod Ricard SA
     type: company
@@ -37224,6 +39455,17 @@ organizations:
       from: 2004
       to: 2011
       note: President
+  peter-kiewit:
+    name: Peter Kiewit Sons Inc.
+    type: company
+    founded: 1884
+    headquarters: Omaha, USA
+    status: active
+    sector: construction
+    stakeholders:
+    - person: lynn-elsenhans
+      role: board
+      note: Independent Director
   petra-bank:
     name: Petra Bank
     type: bank
@@ -37250,16 +39492,44 @@ organizations:
       from: 2023
       note: 84% stake
   petrobras:
-    name: Petrobras
+    name: Petróleo Brasileiro S.A. (Petrobras)
     type: company
     founded: 1953
     headquarters: Rio de Janeiro, Brazil
+    status: active
     sector: Oil & Gas
+    note: New Seven Sister. Brazilian state-controlled oil company. Majority owned by Federal Government (50.26% common shares).
+      Pre-salt leader.
     stakeholders:
+    - person: magda-chambriard
+      role: executive
+      from: 2024
+      note: CEO. Also member Board of Directors. Reappointed until 2027.
+    - person: jean-paul-prates
+      role: executive
+      from: 2023
+      to: 2024
+      note: CEO. Fired by President Lula over dividend policy.
+    - person: bruno-moretti
+      role: chairman
+      from: 2024
+      note: Chairman Board of Directors. Appointed by controlling shareholder (Federal Government).
+    - person: maria-das-gracas-foster
+      role: executive
+      to: 2015
+      note: CEO. First woman to lead Petrobras. Resigned during Lava Jato scandal.
     - org: blackrock
       share: 6.5%
     - org: vanguard
       share: 2.0%
+    - org: governo-brasile
+      role: stake
+      share: 50.26%
+      note: Majority of voting shares. Additional indirect stake via BNDES.
+    - org: bndes
+      role: stake
+      share: 6.98%
+      note: Via BNDES and BNDESPar
   petrochina:
     name: PetroChina Company Limited
     type: company
@@ -37280,6 +39550,64 @@ organizations:
     - org: cnpc
       share: 82.62
       note: Listed subsidiary
+  petronas:
+    name: Petroliam Nasional Berhad (Petronas)
+    type: company
+    founded: 1974
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: energy
+    note: Malaysian state-owned oil and gas company. One of the New Seven Sisters. Wholly owned by Government of Malaysia.
+    stakeholders:
+    - person: tengku-muhammad-taufik
+      role: executive
+      from: 2020
+      note: President & Group CEO
+    - person: mohd-bakke-salleh
+      role: chairman
+      from: 2021
+      note: Independent Non-Executive Chairman
+    - person: razaleigh-hamzah
+      role: founder
+      from: 1974
+      to: 1976
+      note: Founding Chairman & Chief Executive
+    - person: sazali-hamzah
+      role: executive
+      note: EVP & CEO Downstream
+    - person: adif-zulkifli
+      role: executive
+      note: EVP & CEO Gas & Maritime Business
+    - person: liza-mustapha
+      role: executive
+      note: EVP & Group CFO, Executive Director
+    - person: mohd-jukris-abdul-wahab
+      role: executive
+      note: EVP & CEO Upstream
+    - org: khazanah
+      note: Government-linked investment
+  petronas-chemicals:
+    name: PETRONAS Chemicals Group Berhad
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: chemicals
+    note: Chemical arm of Petronas, listed on Bursa Malaysia
+    stakeholders:
+    - org: petronas
+      role: stake
+      note: Majority stake, listed on Bursa Malaysia
+  petronas-gas:
+    name: PETRONAS Gas Berhad
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: energy
+    note: Gas processing and transmission subsidiary
+    stakeholders:
+    - org: petronas
+      role: stake
+      note: Majority stake, listed on Bursa Malaysia
   peugeot-invest:
     name: Peugeot Invest
     type: company
@@ -37292,6 +39620,16 @@ organizations:
       role: chairman
       from: 2002
       note: Chairman & CEO 2002-2020, Chairman 2020-
+  pew-charitable-trusts:
+    name: The Pew Charitable Trusts
+    type: foundation
+    founded: 1948
+    headquarters: Philadelphia, USA
+    status: active
+    stakeholders:
+    - person: j-howard-pew
+      role: founder
+      from: 1948
   pfizer:
     name: Pfizer Inc.
     type: pharma
@@ -37410,6 +39748,18 @@ organizations:
       share: 17.5
       from: 2023
       note: Largest shareholder, €3.3B investment
+  phillips-66:
+    name: Phillips 66
+    type: company
+    founded: 2012
+    headquarters: Houston, USA
+    status: active
+    sector: energy
+    stakeholders:
+    - person: greg-garland
+      role: executive
+      from: 2012
+      note: Chairman & CEO
   phrma:
     name: Pharmaceutical Research and Manufacturers of America
     type: agency
@@ -37504,6 +39854,17 @@ organizations:
       role: owner
       from: 2024
       note: Acquired December 2024
+  pic-kuwait:
+    name: Petrochemical Industries Company (PIC)
+    type: company
+    headquarters: Kuwait City, KWT
+    status: active
+    sector: petrochemicals
+    stakeholders:
+    - org: kuwait-petroleum
+      role: subsidiary
+      share: 1.0
+      from: 1980
   pif-saudi:
     name: Public Investment Fund (PIF)
     type: swf
@@ -37522,6 +39883,9 @@ organizations:
       from: 2018
       to: 2024
       note: Local Real Estate Investment Division
+    - person: andrew-liveris
+      role: advisor
+      note: Special Advisor on strategic matters
     - org: governo-saudi
       role: owner
       share: 100.0
@@ -38121,6 +40485,9 @@ organizations:
     - person: william-lynn
       role: alumni
       note: MPA 1982
+    - person: nawaf-al-sabah
+      role: alumni
+      note: BA Public & International Affairs 1994
   prisa:
     name: Grupo PRISA
     type: media
@@ -38400,6 +40767,27 @@ organizations:
       share: 5.0%
     - org: vanguard
       share: 2.0%
+  q8-kpi:
+    name: Kuwait Petroleum International (Q8)
+    type: company
+    founded: 1983
+    headquarters: London, GBR
+    status: active
+    sector: oil-downstream
+    stakeholders:
+    - person: fadel-al-faraj
+      role: executive
+      from: 2017
+      note: EVP Marketing; ex-MD Q8 Benelux 2017-2022, MD Q8 NW Europe
+    - person: bashar-al-awadhi
+      role: executive
+      from: 2015
+      note: CEO Q8 España; GM Italy per 4 anni
+    - org: kuwait-petroleum
+      role: subsidiary
+      share: 1.0
+      from: 1983
+      note: Acquired Gulf Oil Europe assets
   qaf:
     name: QAF Limited
     type: company
@@ -38422,6 +40810,45 @@ organizations:
       role: board
     - org: qia
       role: subsidiary
+  qatarenergy:
+    name: QatarEnergy
+    type: company
+    founded: 1974
+    headquarters: Doha, QAT
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: saad-al-kaabi
+      role: executive
+      from: 2014
+      note: President & CEO; Deputy Chairman
+    - org: governo-qatar
+      role: owner
+      share: 1.0
+      from: 1974
+      note: State-owned NOC
+  qatarenergy-lng:
+    name: QatarEnergy LNG
+    type: company
+    founded: 1984
+    headquarters: Doha, QAT
+    status: active
+    sector: lng
+    stakeholders:
+    - person: khalid-bin-khalifa-al-thani
+      role: executive
+      from: 2010
+      to: 2025
+      note: CEO; led Qatargas-RasGas merger
+    - person: ahmad-al-muhannadi
+      role: executive
+      from: 2026
+      note: CEO
+    - org: qatarenergy
+      role: subsidiary
+      share: 1.0
+      from: 1984
+      note: Rebranded from Qatargas 2023
   qia:
     name: Qatar Investment Authority
     type: swf
@@ -38634,6 +41061,24 @@ organizations:
     - org: governo-israele
       share: 100%
       note: State-owned defense company
+  raffineria-milazzo:
+    name: Raffineria di Milazzo S.C.p.A. (RAM)
+    type: company
+    founded: 1961
+    headquarters: Milazzo, ITA
+    status: active
+    sector: oil-refining
+    stakeholders:
+    - org: eni
+      role: joint-venture
+      share: 0.5
+      from: 1996
+      note: JV paritaria con Kuwait Petroleum Italia; ex Agip Petroli
+    - org: kuwait-petroleum-italia
+      role: joint-venture
+      share: 0.5
+      from: 1996
+      note: JV paritaria con Eni
   rai:
     name: RAI - Radiotelevisione Italiana
     type: media
@@ -38987,6 +41432,11 @@ organizations:
     type: pharma
     founded: 1926
     headquarters: Milan, Italy
+    stakeholders:
+    - person: giampiero-mazza
+      role: board
+      from: 2018
+      note: Director (CVC acquisition)
   recruit-holdings:
     name: Recruit Holdings Co., Ltd.
     type: company
@@ -39455,6 +41905,12 @@ organizations:
       role: chairman
       from: 1993
       note: Honorary Chairman, Baker Institute for Public Policy
+    - person: giampiero-mazza
+      role: alumni
+      note: BA Economics 1991, summa cum laude
+    - person: lynn-elsenhans
+      role: alumni
+      note: BA Mathematical Sciences 1978
   ricehadleygates:
     name: Rice, Hadley, Gates & Manuel LLC
     type: company
@@ -39874,6 +42330,11 @@ organizations:
       role: executive
       from: 2004
       note: Chairman board 2004-2011, CEO/President 2012-, contract renewed 2025
+    - person: robert-dudley
+      role: board
+      from: 2013
+      to: 2022
+      note: Resigned after Russia invasion of Ukraine
     - org: qia
       share: 18.46
       from: 2017
@@ -39912,6 +42373,25 @@ organizations:
       note: Director General
     - org: governo-russia
       share: 100%
+  rothschild:
+    name: N M Rothschild & Sons
+    type: bank
+    headquarters: London, GBR
+    status: active
+    stakeholders:
+    - person: stefano-marsaglia
+      role: executive
+      from: 1992
+      to: 2009
+      note: Global Co-Head Financial Institutions
+    - person: jorge-delclaux
+      role: executive
+      note: Head of Rothschild Spain
+    - person: borja-prado-eulate
+      role: board
+      from: 1995
+      to: 1999
+      note: Director, Rothschild Spain
   rothschild-cie:
     name: Rothschild & Cie Banque
     type: bank
@@ -40315,6 +42795,16 @@ organizations:
       from: 2004
       to: 2025
       note: Chairman Board of Directors, 21 anni
+  sabb:
+    name: Saudi Awwal Bank (SABB)
+    type: bank
+    founded: 1978
+    headquarters: Riyadh, Saudi Arabia
+    status: active
+    stakeholders:
+    - person: stuart-gulliver
+      role: board
+      note: Board member, Risk Committee, Nom & Rem Committee
   sabesp:
     name: Sabesp
     type: company
@@ -40856,6 +43346,18 @@ organizations:
     - org: state-street
       role: shareholder
       share: 2.0
+  sapienza:
+    name: Universita La Sapienza
+    type: university
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: giovanni-tamburi
+      role: alumni
+      note: Laurea Economia e Commercio, 110 e lode
+    - person: antonino-turicchi
+      role: alumni
+      note: Laurea Economia e Commercio
   sara-lee:
     name: Sara Lee Corporation
     type: company
@@ -40918,11 +43420,14 @@ organizations:
     headquarters: Dhahran, Saudi Arabia
     status: active
     sector: oil, gas, petrochemicals
-    note: Largest oil company in world. IPO 2019 $25.6B record. Market cap $1.5T+
+    note: New Seven Sister. World largest oil company by reserves. State-owned
     stakeholders:
     - person: yasir-al-rumayyan
       role: chairman
       from: 2019
+    - person: mohammed-al-jadaan
+      role: board
+      note: Board member
     - person: nabeel-amudi
       role: executive
     - person: amin-nasser
@@ -40932,6 +43437,39 @@ organizations:
     - person: amin-nasser
       role: board
       from: 2010
+    - person: stuart-gulliver
+      role: board
+      from: 2021
+      note: Board member, Chair Audit Committee, Risk & HSE Committee
+    - person: robert-dudley
+      role: board
+      from: 2024
+      note: Board member, former BP CEO
+    - person: andrew-liveris
+      role: board
+      note: Board member, former Dow Chemical CEO
+    - person: mark-weinberger
+      role: board
+      from: 2020
+      note: Board member, former EY CEO
+    - person: lynn-elsenhans
+      role: board
+      from: 2018
+      note: First woman on board, former Sunoco CEO
+    - person: ibrahim-al-assaf
+      role: board
+      note: Deputy Chairman, Minister of State
+    - person: faisal-alibrahim
+      role: board
+      from: 2024
+      note: Minister of Economy and Planning
+    - person: khalid-al-dabbagh
+      role: board
+      note: Board member, SABIC Chairman
+    - org: pif-saudi
+      role: stake
+      share: 16
+      note: Sovereign Wealth Fund stake
     - org: governo-saudi
       role: owner
       share: 98.0
@@ -41667,6 +44205,11 @@ organizations:
       from: 1988
       to: 1990
       note: Analyst, London
+    - person: lynn-elsenhans
+      role: executive
+      from: 1980
+      to: 2008
+      note: President Shell Oil Co & CEO Shell Oil Products US (2003-2005), EVP Global Manufacturing (2005-2008)
     - org: blackrock
       share: 4.4%
     - org: vanguard
@@ -42098,6 +44641,28 @@ organizations:
       from: 2018
       to: 2020
       note: Chairman and Party Secretary
+  sisal:
+    name: Sisal S.p.A.
+    type: company
+    founded: 1945
+    headquarters: Milan, Italy
+    status: active
+    sector: gaming
+    stakeholders:
+    - person: francesco-durante
+      role: executive
+      from: 2009
+      note: CEO dal 2019, CEO Flutter SEA dal 2025
+    - org: cvc-capital-partners
+      role: majority
+      from: 2016
+      to: 2022
+      note: Acquired from Permira/Apax for EUR 1B, sold to Flutter for EUR 1.9B
+    - org: flutter-entertainment
+      role: parent
+      share: 1.0
+      from: 2022
+      note: Acquired from CVC for EUR 1.9B
   sistema:
     name: AFK Sistema
     type: company
@@ -42260,6 +44825,16 @@ organizations:
       role: founder
       from: 2001
       note: Co-founder with Arkady
+  smu:
+    name: Southern Methodist University
+    type: university
+    founded: 1911
+    headquarters: Dallas, Texas, USA
+    status: active
+    stakeholders:
+    - person: robert-dudley
+      role: alumni
+      note: MBA
   smurfit-westrock:
     name: Smurfit Westrock
     type: company
@@ -42363,6 +44938,12 @@ organizations:
     - person: marlene-amstad
       role: executive
       note: Deputy Director
+  sncf:
+    name: Societe Nationale des Chemins de fer Francais (SNCF)
+    type: company
+    headquarters: Paris, FRA
+    status: active
+    sector: transport
   snsb:
     name: Scoala Normala Superioara Bucuresti
     type: thinktank
@@ -42374,6 +44955,82 @@ organizations:
       role: founder
       from: 1998
       note: Primo direttore amministrativo
+  socal:
+    name: Standard Oil of California (Socal)
+    type: company
+    founded: 1879
+    headquarters: San Francisco, California, USA
+    status: defunct
+    sector: oil
+    note: Original Seven Sister. Renamed Chevron 1984
+    stakeholders:
+    - org: chevron
+      role: successor
+      from: 1984
+      note: SoCal renamed to Chevron after Gulf Oil merger
+    - org: standard-oil
+      role: spinoff
+      from: 1911
+      note: Antitrust breakup. Became Chevron 1984
+  socar:
+    name: SOCAR (State Oil Company of Azerbaijan Republic)
+    type: company
+    founded: 1992
+    headquarters: Baku, Azerbaijan
+    sector: energy
+    note: 100% state-owned. Revenue $50B (2024). 66000 employees. Operations in 20 countries. 25% BTC pipeline, 58% TANAP,
+      20% TAP. Star Refinery Turkey ($19.5B investment). Acquiring Gruppo API (Italy) for €2.5B (2026).
+    stakeholders:
+    - person: ilham-aliyev
+      role: executive
+      from: 1994
+      to: 2003
+      note: VP 1994-1999, First VP 1999-2003
+    - person: rovshan-najaf
+      role: executive
+      from: 2022
+      note: President
+    - person: elshad-nassirov
+      role: executive
+      from: 2005
+      note: VP Investments and Marketing
+    - person: zaur-gurbanov
+      role: executive
+      from: 2021
+      note: Vice President
+    - person: ziba-mustafayeva
+      role: executive
+      from: 2023
+      note: Vice President
+    - org: governo-azerbaijan
+      role: parent
+      share: 1.0
+      note: 100% state-owned
+  socar-trading:
+    name: SOCAR Trading
+    type: company
+    founded: 2008
+    headquarters: Geneva, Switzerland
+    status: active
+    note: Trading subsidiary 100% SOCAR. HQ Geneva. Revenue $31.7B (2024) = 73% of SOCAR total. Biggest supplier Azeri Light
+      crude globally. 50% third-party business. ~300 employees.
+    stakeholders:
+    - person: natig-mustafayev
+      role: executive
+      from: 2024
+      note: CEO (Apr 2025-), Chief Commercial Strategy Officer (Sep 2024-Apr 2025)
+    - person: mariam-almaszade
+      role: executive
+      from: 2018
+      to: 2025
+      note: CEO, Board member. Senior Advisor SOCAR Group (2025-)
+    - person: taghi-taghi-zada
+      role: executive
+      from: 2014
+      note: Acting Chief Trading Officer
+    - org: socar
+      role: parent
+      share: 1.0
   socialist-international:
     name: Socialist International
     type: forum
@@ -42452,6 +45109,35 @@ organizations:
       from: 1964
       to: 1988
       note: Joint control with Boel family
+  socony:
+    name: Standard Oil of New York (Socony/Mobil)
+    type: company
+    founded: 1882
+    headquarters: New York, USA
+    status: defunct
+    sector: oil
+    note: Original Seven Sister. Became Mobil, merged with Exxon 1999
+    stakeholders:
+    - org: standard-oil
+      role: spinoff
+      from: 1911
+      note: Antitrust breakup. Became Mobil, merged with Exxon 1999
+  sofaz:
+    name: State Oil Fund of Azerbaijan (SOFAZ)
+    type: swf
+    founded: 1999
+    headquarters: Baku, Azerbaijan
+    status: active
+    note: 'Sovereign wealth fund. AUM ~$71B (2025). CEO: Israfil Mammadov (2019-). Supervisory Board: PM, Finance/Economy
+      Ministers, CB Governor.'
+    stakeholders:
+    - person: israfil-mammadov
+      role: executive
+      from: 2019
+      note: CEO/Executive Director
+    - org: governo-azerbaijan
+      role: parent
+      note: 100% state-owned
   sofina:
     name: Sofina SA
     type: company
@@ -42835,6 +45521,17 @@ organizations:
     stakeholders:
     - person: marieme-jamme
       role: founder
+  squarespace:
+    name: Squarespace
+    type: company
+    headquarters: New York, USA
+    status: active
+    sector: technology
+    stakeholders:
+    - org: permira
+      role: majority
+      from: 2024
+      note: Take-private per USD 7.2B
   sri-international:
     name: SRI International
     type: thinktank
@@ -42873,6 +45570,22 @@ organizations:
       role: control
       from: 2017
       note: Affiliated to Presidency since Dec 2017
+  stada:
+    name: STADA Arzneimittel AG
+    type: pharma
+    headquarters: Bad Vilbel, Germany
+    status: active
+    stakeholders:
+    - org: bain-capital
+      role: stake
+      from: 2017
+      to: 2025
+      note: Co-investimento con Cinven, venduto a CapVest
+    - org: cinven
+      role: stake
+      from: 2017
+      to: 2025
+      note: Co-investimento con Bain Capital, venduto a CapVest
   stadler-rail:
     name: Stadler Rail
     type: company
@@ -42913,11 +45626,14 @@ organizations:
     - org: state-street
       share: 1.2%
   standard-oil:
-    name: Standard Oil
+    name: Standard Oil Company
     type: company
     founded: 1870
-    headquarters: Cleveland
-    status: dissolved
+    headquarters: Cleveland, Ohio, USA
+    status: defunct
+    sector: oil
+    note: Rockefeller oil monopoly. Controlled 90% US oil refining. Dissolved by Supreme Court 1911 into 34 companies. Origin
+      of ExxonMobil, Chevron, BP America, ConocoPhillips.
     stakeholders:
     - person: john-d-rockefeller-sr
       role: founder
@@ -43113,6 +45829,16 @@ organizations:
       role: owner
       share: 100%
       from: 2022
+  star-refinery:
+    name: STAR Refinery
+    type: company
+    founded: 2018
+    headquarters: Izmir, Turkey
+    status: active
+    note: $19.5B investment. Opened 2018 by Aliyev and Erdogan. Part of Petkim complex.
+    stakeholders:
+    - org: socar
+      role: parent
   starbucks:
     name: Starbucks
     type: company
@@ -43308,6 +46034,9 @@ organizations:
     status: active
     aum: 5.4T
     stakeholders:
+    - person: joseph-hooley
+      role: executive
+      note: Former Chairman and CEO
     - org: goldman-sachs
       role: stake
       share: 0.035
@@ -43540,6 +46269,15 @@ organizations:
     - org: raiffeisen-bank-international
       share: 32
       note: UNIQA Raiffeisen Group
+  strathclyde:
+    name: University of Strathclyde
+    type: university
+    headquarters: Glasgow, United Kingdom
+    status: active
+    stakeholders:
+    - person: tengku-muhammad-taufik
+      role: alumni
+      note: BA Honours Finance & Accounting
   straumann:
     name: Straumann Holding AG
     type: company
@@ -43605,6 +46343,18 @@ organizations:
       from: 2008
       to: 2019
       note: Co-owner with Arkady
+  stsa:
+    name: Suissenégoce (STSA)
+    type: forum
+    founded: 2006
+    headquarters: Geneva, Switzerland
+    status: active
+    note: Swiss Trading & Shipping Association. Founded as GTSA (2006), renamed STSA (2014), now Suissenégoce. Umbrella for
+      GTSA, ZCA (Zug), LCTA (Ticino). 190+ member companies.
+    stakeholders:
+    - person: mariam-almaszade
+      role: board
+      note: Board member
   suez:
     name: Suez SA
     type: company
@@ -43764,6 +46514,42 @@ organizations:
     - person: inan-kirac
       role: founder
       from: 2003
+  sunoco:
+    name: Sunoco LP
+    type: company
+    founded: 1886
+    headquarters: Dallas, USA
+    status: active
+    sector: energy
+    stakeholders:
+    - person: lynn-elsenhans
+      role: executive
+      from: 2008
+      to: 2012
+      note: Chair, President & CEO. First woman CEO of major US oil company
+    - person: joe-kim
+      role: executive
+      from: 2017
+      note: President & CEO
+    - person: ray-washburne
+      role: chairman
+      from: 2022
+      note: Chairman of the Board
+    - person: joseph-newton-pew
+      role: founder
+      from: 1886
+      to: 1912
+      note: Co-founder with Edward O. Emerson
+    - person: j-howard-pew
+      role: executive
+      from: 1912
+      to: 1947
+      note: President, then Chairman
+    - org: energy-transfer
+      role: controlling
+      share: 0.34
+      from: 2012
+      note: Owns GP interests, IDRs and ~34% LP units
   surveymonkey:
     name: SurveyMonkey (Momentive)
     type: company
@@ -44185,6 +46971,21 @@ organizations:
       role: alumni
       from: 1980
       note: Early 1980s cohort
+  tamburi-investment-partners:
+    name: Tamburi Investment Partners S.p.A.
+    type: privateequity
+    founded: 1999
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: giovanni-tamburi
+      role: founder
+      from: 1992
+      note: President and CEO
+    - person: alessandra-gritti
+      role: founder
+      from: 1992
+      note: Vice Chairman and CEO
   tampella:
     name: Oy Tampella Ab
     type: company
@@ -44686,6 +47487,17 @@ organizations:
       from: 2004
       to: 2023
       note: Seized by Lloyds 2023
+  telekom-malaysia:
+    name: Telekom Malaysia Berhad
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: telecom
+    note: Malaysian telecom incumbent
+    stakeholders:
+    - org: khazanah
+      role: stake
+      note: Strategic stake
   telemundo:
     name: Telemundo
     type: media
@@ -44823,6 +47635,9 @@ organizations:
       role: advisor
       from: 2018
       note: International Advisory Council
+    - org: khazanah
+      role: partner
+      note: Iskandar Malaysia joint development with Temasek
   tempus-ai:
     name: Tempus AI
     type: company
@@ -44832,6 +47647,17 @@ organizations:
     stakeholders:
     - person: scott-gottlieb
       role: board
+  tenaga-nasional:
+    name: Tenaga Nasional Berhad
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    status: active
+    sector: energy
+    note: Malaysian national electricity utility
+    stakeholders:
+    - org: khazanah
+      role: stake
+      note: Strategic stake
   tenaris:
     name: Tenaris S.A.
     type: company
@@ -45137,6 +47963,50 @@ organizations:
       share: 100%
       from: 2016
       note: Subsidiary
+  texaco:
+    name: Texaco Inc.
+    type: company
+    founded: 1902
+    headquarters: White Plains, New York, USA
+    status: defunct
+    sector: oil
+    note: Original Seven Sister. Founded as Texas Fuel Company in Beaumont, Texas. Acquired Getty Oil 1984. Merged with Chevron
+      2001
+    stakeholders:
+    - person: john-mckinley
+      role: executive
+      from: 1980
+      to: 1986
+      note: Chairman and CEO
+    - person: james-kinnear
+      role: executive
+      from: 1987
+      to: 1993
+      note: President and CEO. Steered company through Pennzoil settlement and Chapter 11
+    - person: alfred-decrane
+      role: executive
+      from: 1987
+      to: 1996
+      note: Chairman 1987-1996, CEO 1993-1996
+    - person: peter-bijur
+      role: executive
+      from: 1996
+      to: 2001
+      note: Chairman and CEO. Led merger with Chevron
+    - org: chevron
+      role: acquisition
+      share: 1.0
+      from: 2001
+      note: Merger creating ChevronTexaco, later renamed Chevron
+  texas-am:
+    name: Texas A&M University
+    type: university
+    headquarters: College Station, Texas, USA
+    status: active
+    stakeholders:
+    - person: darren-woods
+      role: alumni
+      note: BS Electrical Engineering
   texas-rangers:
     name: Texas Rangers
     type: sportsclub
@@ -45433,6 +48303,17 @@ organizations:
       role: founder
       from: 2010
       note: Founder & Managing Partner
+  thunderbird:
+    name: Thunderbird School of Global Management
+    type: university
+    founded: 1946
+    headquarters: Phoenix, Arizona, USA
+    status: active
+    note: Part of Arizona State University since 2014
+    stakeholders:
+    - person: robert-dudley
+      role: alumni
+      note: Master of International Management
   tiktok:
     name: TikTok
     type: company
@@ -45600,6 +48481,18 @@ organizations:
     - org: tobb
       role: founder
       from: 2006
+  tods:
+    name: Tod's Group
+    type: company
+    founded: 1978
+    headquarters: Sant'Elpidio a Mare, ITA
+    status: active
+    sector: luxury
+    stakeholders:
+    - person: diego-della-valle
+      role: executive
+      from: 1978
+      note: CEO, Chairman
   toka:
     type: company
     founded: 2018
@@ -45649,8 +48542,27 @@ organizations:
     type: company
     founded: 1924
     headquarters: Courbevoie, France
+    status: active
     sector: energy
     stakeholders:
+    - person: laurent-mignon
+      role: board
+      from: 2025
+      note: Independent director
+    - person: patrick-pouyanne
+      role: executive
+      from: 2014
+      note: CEO 2014, Chairman & CEO 2015-present
+    - person: christophe-de-margerie
+      role: executive
+      from: 1974
+      to: 2014
+      note: CEO 2007-2014, Chairman & CEO 2010-2014
+    - person: thierry-desmarest
+      role: executive
+      from: 1981
+      to: 2016
+      note: CEO 1995-2007, Chairman & CEO 1998-2007, Chairman 2014-2015
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -45795,6 +48707,19 @@ organizations:
       role: executive
       from: 2004
       to: 2009
+  transpetro:
+    name: Petrobras Transporte S.A. (Transpetro)
+    type: company
+    founded: 1998
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    sector: Logistics
+    note: Petrobras logistics subsidiary. Pipelines and terminals.
+    stakeholders:
+    - org: petrobras
+      role: subsidiary
+      share: 100%
+      from: 1998
   transunion:
     name: TransUnion
     type: company
@@ -45839,6 +48764,16 @@ organizations:
       role: parent
       from: 1953
       note: Canadian subsidiary
+  trilantic-europe:
+    name: Trilantic Europe
+    type: privateequity
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: eugenio-preve
+      role: partner
+      from: 2024
+      note: Partner, Italian team
   trilateral-commission:
     name: Trilateral Commission
     type: forum
@@ -46035,6 +48970,9 @@ organizations:
       role: member
     - person: david-bradley
       role: member
+    - person: borja-prado-eulate
+      role: steering
+      note: President Spanish Group
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -46234,6 +49172,10 @@ organizations:
     - person: cc-wei
       role: executive
       from: 2018
+    - person: lynn-elsenhans
+      role: board
+      from: 2024
+      note: Non-Executive Director
     - org: blackrock
       role: stake
       share: 0.062
@@ -46809,6 +49751,19 @@ organizations:
     - org: societe-generale-belgique
       to: 1998
       note: 'Storico: Union Miniere era controllata da SGB'
+  umno:
+    name: United Malays National Organisation
+    founded: 1946
+    headquarters: Kuala Lumpur, Malaysia
+    stakeholders:
+    - person: mahathir-mohamad
+      role: leader
+      from: 1981
+      to: 2003
+    - person: najib-razak
+      role: leader
+      from: 2009
+      to: 2018
   un:
     name: UN General Assembly
     type: agency
@@ -47033,12 +49988,26 @@ organizations:
       role: board
       from: 2007
       to: 2010
+    - person: claudio-colzani
+      role: executive
+      from: 1984
+      to: 2012
+      note: Chairman France 2006-09, Chief Customer Officer 2010-12
     - org: blackrock
       share: 7.7%
     - org: vanguard
       share: 5.3%
     - org: state-street
       share: 1.5%
+  union-college:
+    name: Union College
+    type: university
+    headquarters: Schenectady, USA
+    status: active
+    stakeholders:
+    - person: pj-lee
+      role: alumni
+      note: BA 1993
   unione-europea:
     name: Unione Europea
     type: agency
@@ -47248,6 +50217,18 @@ organizations:
     - person: paolo-magri
       role: member
       note: Professor International Relations
+    - person: lapo-civiletti
+      role: alumni
+      note: Economics
+  universita-bologna:
+    name: Universita' di Bologna
+    type: university
+    headquarters: Bologna, Italy
+    status: active
+    stakeholders:
+    - person: claudio-domenicali
+      role: alumni
+      note: Laurea Ingegneria Meccanica
   universita-cattolica:
     name: Universita Cattolica del Sacro Cuore
     type: university
@@ -47259,6 +50240,36 @@ organizations:
       role: member
       to: 2001
       note: Professor of Administrative Law and Public Law
+  universita-milano:
+    name: University of Milan
+    type: university
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: guido-barilla
+      role: alumni
+      note: Philosophy
+    - person: claudio-colzani
+      role: alumni
+      note: Philosophy
+  universita-padova:
+    name: Universita degli Studi di Padova
+    type: university
+    headquarters: Padova, Italy
+    status: active
+    stakeholders:
+    - person: roberto-tomasi
+      role: alumni
+      note: Laurea Ingegneria Meccanica
+  universita-torino:
+    name: Universita degli Studi di Torino
+    type: university
+    headquarters: Turin, ITA
+    status: active
+    stakeholders:
+    - person: stefano-marsaglia
+      role: alumni
+      note: Laurea Economia 1978
   universita-tubinga:
     name: University of Tübingen
     type: university
@@ -47306,6 +50317,16 @@ organizations:
       role: chairman
       from: 2007
       note: Chairman Governing Body
+  university-colorado-boulder:
+    name: University of Colorado Boulder
+    type: university
+    founded: 1876
+    headquarters: Boulder, USA
+    status: active
+    stakeholders:
+    - person: mike-wirth
+      role: alumni
+      note: BS Chemical Engineering 1982
   university-for-peace:
     name: University for Peace
     type: agency
@@ -47329,6 +50350,9 @@ organizations:
       from: 1975
       to: 1979
       note: BS Computer Science, worked on PLATO system
+    - person: robert-dudley
+      role: alumni
+      note: BS Chemical Engineering, Phi Kappa Psi
   university-natal:
     name: University of Natal
     type: university
@@ -47475,6 +50499,15 @@ organizations:
       from: 1974
       to: 1975
       note: MA Political Science
+  university-of-oklahoma:
+    name: University of Oklahoma
+    type: university
+    headquarters: Norman, Oklahoma, USA
+    status: active
+    stakeholders:
+    - person: alan-armstrong
+      role: alumni
+      note: BS Civil Engineering 1985
   university-of-texas:
     name: University of Texas at Austin
     type: university
@@ -47524,6 +50557,16 @@ organizations:
     - person: pik-botha
       role: alumni
       note: BA LLB
+  university-queensland:
+    name: University of Queensland
+    type: university
+    founded: 1909
+    headquarters: Brisbane, Australia
+    status: active
+    stakeholders:
+    - person: andrew-liveris
+      role: alumni
+      note: BE Chemical Engineering (Hons) 1975, University Medal
   university-texas:
     name: University of Texas at Austin
     type: university
@@ -47534,6 +50577,17 @@ organizations:
       role: alumni
       to: 1973
       note: BA Latin American Studies
+  unocal:
+    name: Unocal Corporation
+    type: company
+    status: defunct
+    sector: oil
+    stakeholders:
+    - org: chevron
+      role: acquisition
+      share: 1.0
+      from: 2005
+      note: Gulf of Mexico and Asia oil/gas assets
   unsgab:
     name: UN Secretary-General Advisory Board on Water and Sanitation
     type: agency
@@ -47706,6 +50760,14 @@ organizations:
     - person: steve-ballmer
       role: founder
       from: 2017
+  usaha-tegas:
+    name: Usaha Tegas Sdn Bhd
+    type: company
+    headquarters: Kuala Lumpur, Malaysia
+    stakeholders:
+    - person: ananda-krishnan
+      role: founder
+      note: Maxis, Astro, Bumi Armada
   usaid:
     name: United States Agency for International Development
     type: agency
@@ -47757,6 +50819,9 @@ organizations:
       role: alumni
       to: 1964
       note: BA International Politics 1964 | Student
+    - person: sultan-al-jaber
+      role: alumni
+      note: BSc Chemical Engineering
   usines-gustave-boel:
     name: Usines Gustave Boël
     type: company
@@ -47812,6 +50877,15 @@ organizations:
     - person: zhou-xi
       role: member
       note: BS AI/Pattern Recognition
+  ut-austin:
+    name: University of Texas at Austin
+    type: university
+    headquarters: Austin, Texas, USA
+    status: active
+    stakeholders:
+    - person: rex-tillerson
+      role: alumni
+      note: BS Civil Engineering 1975, Tejas Club
   valdai-club:
     name: Valdai Discussion Club
     type: thinktank
@@ -47849,6 +50923,18 @@ organizations:
       share: 5.0%
     - org: vanguard
       share: 4.0%
+  valentino:
+    name: Valentino SpA
+    type: company
+    headquarters: Roma, Italy
+    status: active
+    sector: luxury fashion
+    stakeholders:
+    - org: permira
+      role: majority
+      from: 2007
+      to: 2012
+      note: Espansione retail e internazionale
   valor-equity:
     name: Valor Equity Partners
     type: privateequity
@@ -48063,6 +51149,13 @@ organizations:
     headquarters: Mumbai, India
     status: active
     note: JV Network18-Paramount (now Reliance). Colors, MTV India. Merged with Star India 2024
+  vibra-energia:
+    name: Vibra Energia S.A.
+    type: company
+    headquarters: Rio de Janeiro, Brazil
+    status: active
+    sector: Oil Distribution
+    note: Formerly Petrobras Distribuidora (BR). Spun off 2021. Largest fuel distributor in Brazil and Latin America.
   vienna-insurance-group:
     name: Vienna Insurance Group AG
     type: company
@@ -48116,6 +51209,15 @@ organizations:
     - person: jonathan-kolber
       role: partner
       note: General Partner Viola Private Equity, investor Viola Growth
+  virginia-commonwealth:
+    name: Virginia Commonwealth University
+    type: university
+    headquarters: Richmond, USA
+    status: active
+    stakeholders:
+    - person: carlos-domenech
+      role: alumni
+      note: BS Business Administration
   visa:
     name: Visa Inc.
     type: company
@@ -50073,6 +53175,9 @@ organizations:
     - person: pan-jian
       role: member
       note: Speaker Davos 2025
+    - person: amin-nasser
+      role: member
+      note: International Business Council (IBC)
     - person: kim-dong-kwan
       role: member
       note: Davos 2024 speaker
@@ -50107,6 +53212,30 @@ organizations:
     - person: abdel-fattah-el-sisi
       role: member
       note: Special address Davos 2026
+    - person: ilham-aliyev
+      role: member
+      note: Davos regular attendee 2014-2026
+    - person: mike-wirth
+      role: member
+      note: International Business Council
+    - person: peter-bijur
+      role: member
+      note: Attended Davos 2001
+    - person: robert-dudley
+      role: member
+      note: International Business Council
+    - person: mark-weinberger
+      role: member
+      note: International Business Council, Global Steward
+    - person: tengku-muhammad-taufik
+      role: member
+      note: Oil & Gas Governors Forum; Industry Action Group
+    - person: anwar-ibrahim
+      role: member
+      note: Global Leader, frequent Davos speaker
+    - person: patrick-pouyanne
+      role: member
+      note: Regular Davos participant, Agenda Contributor
     - org: bilderberg
       role: partner
     - org: fmi
@@ -50256,6 +53385,9 @@ organizations:
     - person: raj-ganguly
       role: alumni
       note: BSE/BAS summa cum laude, Benjamin Franklin Scholar, Joseph Wharton Scholar
+    - person: john-bryant
+      role: alumni
+      note: MBA
   wheaton-precious-metals:
     name: Wheaton Precious Metals
     type: company
@@ -50349,6 +53481,18 @@ organizations:
       from: 2016
       to: 2021
       note: CEO
+  williams-companies:
+    name: Williams Companies
+    type: company
+    founded: 1908
+    headquarters: Tulsa, Oklahoma, USA
+    status: active
+    sector: energy
+    stakeholders:
+    - person: alan-armstrong
+      role: executive
+      from: 2011
+      note: CEO 2011-2025, Executive Chairman 2025-
   williams-connolly:
     name: Williams & Connolly LLP
     type: company
@@ -50497,6 +53641,28 @@ organizations:
     - org: thrive-capital
       role: investor
       note: Series E lead, ~$1B stake at exit
+  wk-kellogg:
+    name: WK Kellogg Co
+    type: company
+    founded: 2023
+    headquarters: Battle Creek, USA
+    status: acquired
+    sector: Cereal
+    stakeholders:
+    - person: gary-pilnick
+      role: executive
+      from: 2023
+      to: 2025
+      note: Chairman & CEO until Ferrero acquisition
+    - org: kellogg
+      role: spinoff
+      from: 2023
+      note: Oct 2023 split - North American cereal division
+    - org: ferrero
+      role: stake
+      share: 1.0
+      from: 2025
+      note: Acquisizione $3.1B annunciata luglio 2025
   woodbridge:
     name: The Woodbridge Company
     type: company
@@ -50513,6 +53679,19 @@ organizations:
       role: chairman
       from: 2006
       note: Co-chairman with David
+  woodside-energy:
+    name: Woodside Energy
+    type: company
+    founded: 1954
+    headquarters: Perth, Australia
+    status: active
+    sector: oil-gas
+    stakeholders:
+    - person: meg-oneill
+      role: executive
+      from: 2021
+      to: 2025
+      note: CEO
   world-athletics:
     name: World Athletics
     type: agency
@@ -50766,6 +53945,17 @@ organizations:
       role: founder
       from: 2019
       note: Co-founder
+  worley:
+    name: Worley Limited
+    type: company
+    founded: 1971
+    headquarters: Sydney, Australia
+    status: active
+    sector: engineering, consulting
+    stakeholders:
+    - person: andrew-liveris
+      role: board
+      note: Deputy Chairman
   wto:
     name: World Trade Organization
     type: agency
@@ -50905,6 +54095,12 @@ organizations:
       role: investor
       from: 2025
       note: Jan 2026 round
+  xalq-bank:
+    name: Xalq Bank
+    type: bank
+    headquarters: Baku, Azerbaijan
+    status: active
+    note: One of top 5 Azerbaijani banks. Controlled by Aliyev family and Mehriban relatives.
   xbotpark:
     name: XbotPark (Songshan Lake Robot Base)
     type: company
@@ -50995,6 +54191,19 @@ organizations:
     stakeholders:
     - org: blackrock
       share: 4.7
+  xrg:
+    name: XRG
+    type: company
+    founded: 2024
+    headquarters: Abu Dhabi, ARE
+    status: active
+    sector: energy-chemicals
+    stakeholders:
+    - org: adnoc
+      role: subsidiary
+      share: 1.0
+      from: 2024
+      note: Wholly owned
   y-combinator:
     name: Y Combinator
     type: privateequity
@@ -51329,6 +54538,21 @@ organizations:
     - person: peter-joseph
       role: founder
       from: 2008
+  zendesk:
+    name: Zendesk
+    type: company
+    headquarters: San Francisco, USA
+    status: active
+    sector: technology
+    stakeholders:
+    - org: permira
+      role: stake
+      from: 2022
+      note: Take-private USD 10.2B con Hellman & Friedman
+    - org: hellman-friedman
+      role: stake
+      from: 2022
+      note: Take-private USD 10.2B con Permira
   zhejiang-university:
     name: Zhejiang University
     type: university

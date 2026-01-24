@@ -39,18 +39,18 @@ Il Canada e' un nodo cruciale del sistema di potere transatlantico, spesso sotto
      +---------------------------+---------------------------+
      |                           |                           |
   GOVERNO                   FINANZA                    DINASTIE
-     |                           |                           |
+  CARNEY                         |                           |
      |                    +------+------+           +--------+--------+
      |                    |             |           |        |        |
-  Carney              BAY STREET    PENSION     DESMARAIS THOMSON SCHWARTZ
-  PM 2025-               |          FUNDS          |        |      (Onex)
+  LeBlanc             BAY STREET    PENSION     DESMARAIS THOMSON SCHWARTZ
+  "Min Everything"       |          FUNDS          |        |      (Onex)
      |               +---+---+         |        POWER    REUTERS    |
-     |               |       |         |        CORP.         $57B AUM
-  Freeland         RBC     TD      CPPIB          |
-  ex-FinMin       BMO  SCOTIA   BROOKFIELD   +---+---+
-     |            CIBC          AIMCO        |       |
-     |              |                      GWL     PARGESA
-     |           Manley                            |
+  Champagne          |       |         |        CORP.         $57B AUM
+  Finance          RBC     TD      CPPIB          |
+     |            BMO  SCOTIA   BROOKFIELD   +---+---+
+  Freeland        CIBC          AIMCO        |       |
+  Transport          |                     GWL     PARGESA
+     |            Manley                            |
      |           (Chair)                          GBL
      |              |                          (Europa)
      +------+-------+-------+---------+
@@ -90,29 +90,33 @@ Il Canada e' un nodo cruciale del sistema di potere transatlantico, spesso sotto
 
 | Figura | Ruolo | Forum |
 |--------|-------|-------|
-| [Mark Carney](../docs/persons/mark-carney.md) | PM | Bilderberg, Trilateral, GFANZ, Council for Inclusive Capitalism |
-| [Chrystia Freeland](../docs/persons/chrystia-freeland.md) | Ex-Deputy PM/Finance | WEF GLT 2001, WEF Board, Rhodes Trust CEO 2026- |
+| [Mark Carney](../docs/persons/mark-carney.md) | PM | Bilderberg Steering, G30 Chair, WEF Board, Chatham House Chair |
+| [Dominic LeBlanc](../docs/persons/dominic-leblanc.md) | Privy Council, Canada-US Trade | "Minister of Everything" |
+| [François-Philippe Champagne](../docs/persons/francois-philippe-champagne.md) | Min. Finance | Bilderberg 2024 |
+| [Anita Anand](../docs/persons/anita-anand.md) | Min. Foreign Affairs | Ex-Defence |
+| [Mélanie Joly](../docs/persons/melanie-joly.md) | Min. Industry | Ex-Foreign Affairs |
+| [Chrystia Freeland](../docs/persons/chrystia-freeland.md) | Min. Transport | WEF GLT 2001, WEF Board, Rhodes Trust CEO 2026- |
+| [David McGuinty](../docs/persons/david-mcguinty.md) | Min. Defence | |
+| [Evan Solomon](../docs/persons/evan-solomon.md) | Min. AI & Digital Innovation | Ex-giornalista |
 | [Justin Trudeau](../docs/persons/justin-trudeau.md) | Ex-PM 2015-2025 | WEF YGL 2005 |
-| Francois-Philippe Champagne | Min. Finance | Bilderberg 2024 |
 
 ### Timeline Politica Recente
 
 ```
-2015        2020        2024      2025
-  |           |           |         |
+2015        2020        2024      2025        2026
+  |           |           |         |           |
 TRUDEAU----------------------------→|
-  PM                                 |
-  YGL 2005                          |
+  PM 2015-2025                      |
+  WEF YGL 2005                      |
                                     |
-         FREELAND----------------->|
-         Deputy PM, Finance        Rhodes
-         WEF Board                 Trust
-                                   CEO
+         FREELAND-------------------|---------->
+         Deputy PM, Finance         Transport  Rhodes
+         WEF Board                             Trust CEO
                                     |
-                            CARNEY--|------->
-                            Goldman→BoC→BoE→PM
-                            Brookfield
-                            GFANZ
+                            CARNEY--|---------->
+                            Goldman→BoC→BoE    PM Canada
+                            Brookfield         30th Ministry
+                            GFANZ              (Mar 2025-)
 ```
 
 > **Peculiarita'**: Carney e' il primo PM canadese a non aver mai ricoperto cariche elettive prima. La sua carriera e' interamente nel settore finanziario globale (Goldman Sachs, banche centrali, Brookfield).
@@ -623,9 +627,9 @@ Schwartz                   |
 | [paul-desmarais-jr](../docs/persons/paul-desmarais-jr.md) | Chairman Power Corp | Bilderberg, CFR GBA, Brookings | **[Completa](../docs/persons/paul-desmarais-jr.md)** |
 | [david-thomson](../docs/persons/david-thomson.md) | Chairman Thomson Reuters, Woodbridge | - | **[Completa](../docs/persons/david-thomson.md)** |
 | [gerry-schwartz](../docs/persons/gerry-schwartz.md) | Onex Founder/Chairman | - | Stub |
-| [mark-carney](../docs/persons/mark-carney.md) | PM, ex-BoC/BoE | Bilderberg, GFANZ | Da completare |
-| [chrystia-freeland](../docs/persons/chrystia-freeland.md) | Ex-Deputy PM | WEF Board, Rhodes | Da completare |
-| [justin-trudeau](../docs/persons/justin-trudeau.md) | Ex-PM | WEF YGL | Da completare |
+| [mark-carney](../docs/persons/mark-carney.md) | PM, ex-BoC/BoE | Bilderberg, GFANZ, G30 Chair, Chatham House Chair | **[Completa](../docs/persons/mark-carney.md)** |
+| [chrystia-freeland](../docs/persons/chrystia-freeland.md) | Min. Transport | WEF Board, Rhodes Trust CEO 2026 | Da completare |
+| [justin-trudeau](../docs/persons/justin-trudeau.md) | Ex-PM 2015-2025 | WEF YGL | **[Completa](../docs/persons/justin-trudeau.md)** |
 | [paul-desmarais-sr](../docs/persons/paul-desmarais-sr.md) | Fondatore Power Corp | - | Da completare |
 | [andre-desmarais](../docs/persons/andre-desmarais.md) | Deputy Chairman | Trilateral, Bilderberg | Da completare |
 | [mark-wiseman](../docs/persons/mark-wiseman.md) | Ex-CPPIB, BlackRock | - | Da completare |
@@ -642,6 +646,16 @@ Schwartz                   |
 | [bobby-le-blanc](../docs/persons/bobby-le-blanc.md) | CEO Onex | - | Stub |
 | [heather-reisman](../docs/persons/heather-reisman.md) | CEO Indigo, moglie Schwartz | - | Stub |
 | [helene-desmarais](../docs/persons/helene-desmarais.md) | CEO CEIM, moglie Paul Jr. | - | Stub |
+| [dominic-leblanc](../docs/persons/dominic-leblanc.md) | Min. Privy Council, Canada-US Trade | - | Stub |
+| [francois-philippe-champagne](../docs/persons/francois-philippe-champagne.md) | Min. Finance | Bilderberg 2024 | Stub |
+| [anita-anand](../docs/persons/anita-anand.md) | Min. Foreign Affairs | - | Stub |
+| [melanie-joly](../docs/persons/melanie-joly.md) | Min. Industry | - | Stub |
+| [david-mcguinty](../docs/persons/david-mcguinty.md) | Min. Defence | - | Stub |
+| [evan-solomon](../docs/persons/evan-solomon.md) | Min. AI & Digital Innovation | - | Stub |
+| [sean-fraser](../docs/persons/sean-fraser.md) | Min. Justice | - | Stub |
+| [patty-hajdu](../docs/persons/patty-hajdu.md) | Min. Jobs and Families | - | Stub |
+| [steven-guilbeault](../docs/persons/steven-guilbeault.md) | Min. Canadian Identity | - | Stub |
+| [gregor-robertson](../docs/persons/gregor-robertson.md) | Min. Housing | Ex-Mayor Vancouver | Stub |
 
 ### Organizzazioni Canadesi
 
@@ -658,7 +672,7 @@ Schwartz                   |
 | [cppib](../docs/swf/cppib.md) | SWF | Da completare |
 | [aimco](../docs/swf/aimco.md) | SWF | Da completare |
 | [bank-of-canada](../docs/central-bank/bank-of-canada.md) | CentralBank | Da completare |
-| [governo-canada](../docs/government/governo-canada.md) | Government | Da completare |
+| [governo-canada](../docs/government/governo-canada.md) | Government | **[Completa](../docs/government/governo-canada.md)** |
 | [seagram](../docs/company/seagram.md) | Company | Da completare |
 | [great-west-lifeco](../docs/company/great-west-lifeco.md) | Company | Da completare |
 | [igm-financial](../docs/asset-manager/igm-financial.md) | AssetManager | Da completare |
@@ -747,6 +761,6 @@ Schwartz                   |
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Gennaio 2026 (gabinetto Carney aggiornato)*
 
-*Schede completate: John Manley, Business Council of Canada, Onex Corporation, Paul Desmarais Jr., Thomson Family, David Thomson, Bronfman Family*
+*Schede completate: Mark Carney, Justin Trudeau, John Manley, Paul Desmarais Jr., David Thomson, Marie-Josée Kravis, Anthony Griffin, Business Council of Canada, Onex Corporation, Power Corporation, Thomson Family, Desmarais Family, Bronfman Family, Governo Canada*

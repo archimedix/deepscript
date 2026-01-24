@@ -183,6 +183,29 @@ families:
     - person: ibn-saud
       generation: 6
       role: founder
+  aliyev:
+    origin: Nakhchivan, Azerbaijan
+    founder: heydar-aliyev
+    sector: political
+    status: active
+    note: Ruling dynasty of Azerbaijan since 1969. Controls gov, oil/gas, banking (43% of sector via Pasha Bank, Kapital Bank,
+      Xalq Bank). Estimated wealth $13B+. Pandora Papers revealed $700M London properties.
+    members:
+    - person: mehriban-aliyeva
+      generation: 2
+      role: spouse
+    - person: leyla-aliyeva
+      generation: 3
+    - person: heydar-aliyev
+      generation: 1
+      role: founder
+    - person: ilham-aliyev
+      generation: 2
+      role: heir
+    - person: arzu-aliyeva
+      generation: 3
+    - person: heydar-aliyev-jr
+      generation: 3
   ambani-family:
     origin: IND
     founder: dhirubhai-ambani
@@ -289,6 +312,24 @@ families:
       generation: 2
     - person: alejandro-bailleres
       generation: 3
+  barilla:
+    origin: ITA
+    founder: pietro-barilla-sr
+    sector: food
+    status: active
+    members:
+    - person: guido-barilla
+      generation: 4
+      role: heir
+    - person: luca-barilla
+      generation: 4
+      role: heir
+    - person: paolo-barilla
+      generation: 4
+      role: heir
+    - person: emanuela-barilla
+      generation: 4
+      role: heir
   berlusconi:
     origin: Italia
     founder: Silvio Berlusconi
@@ -472,6 +513,19 @@ families:
       role: heir
     - person: sara-bronfman
       generation: 3
+      role: heir
+  buitoni:
+    origin: ITA
+    founder: giulia-buitoni
+    sector: food
+    status: defunct
+    note: Sold company 1985
+    members:
+    - person: giovanni-buitoni
+      generation: 4
+      role: heir
+    - person: marco-buitoni
+      generation: 5
       role: heir
   bush:
     origin: USA
@@ -721,6 +775,35 @@ families:
     - person: alfredo-ferrari
       generation: 2
       role: heir
+  ferrero:
+    origin: ITA
+    founder: pietro-ferrero
+    sector: confectionery
+    generations: 3
+    status: active
+    note: Dynasty fondatrice di Nutella, Ferrero Rocher, Kinder
+    members:
+    - person: pietro-ferrero
+      generation: 1
+      role: patriarch
+    - person: michele-ferrero
+      generation: 2
+      role: patriarch
+    - person: giovanni-ferrero
+      generation: 3
+      role: heir
+    - person: pietro-ferrero-jr
+      generation: 3
+      role: heir
+    - person: maria-franca-fissolo
+      generation: 2
+      role: married-in
+    - person: piera-cillario
+      generation: 1
+      role: married-in
+    - person: giovanni-ferrero-sr
+      generation: 1
+      role: member
   ford-family:
     origin: USA
     founder: Henry Ford
@@ -1281,6 +1364,17 @@ families:
     - person: irineu-marinho
       generation: 1
       role: founder
+  mellon:
+    origin: USA
+    sector: finance, oil
+    status: active
+    members:
+    - person: andrew-mellon
+      generation: 2
+      role: patriarch
+    - person: william-larimer-mellon
+      generation: 3
+      role: heir
   michelin-family:
     origin: FRA
     founder: edouard-michelin-sr
@@ -1650,6 +1744,19 @@ families:
     - person: george-papandreou
       generation: 3
       role: heir
+  pashayev:
+    origin: Baku, Azerbaijan
+    sector: finance
+    status: active
+    note: Described in US diplomatic cables as "the single most powerful family in Azerbaijan". Controls Pasha Holding, banking,
+      telecom, construction.
+    members:
+    - person: mehriban-aliyeva
+      generation: 2
+      role: heir
+    - person: arif-pashayev
+      generation: 1
+      role: patriarch
   persson:
     origin: Svezia
     founder: Erling Persson
@@ -1675,6 +1782,17 @@ families:
     - person: robert-peugeot
       generation: 6
       role: chairman
+  pew:
+    origin: USA
+    sector: energy
+    status: active
+    members:
+    - person: joseph-newton-pew
+      generation: 1
+      role: patriarch
+    - person: j-howard-pew
+      generation: 2
+      role: heir
   philips-family:
     origin: Netherlands
     founder: frederik-philips

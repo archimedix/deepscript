@@ -44,6 +44,8 @@ Report che analizzano istituzioni finanziarie, flussi di capitale, e potere econ
 **Eventi correlati:**
 - [Bretton Woods (1944)](../docs/events/1944-bretton-woods.md)
 - [Fine Bretton Woods (1971)](../docs/events/1971-fine-bretton-woods.md)
+- [Fondazione OPEC (1960)](../docs/events/1960-fondazione-opec.md)
+- [Morte Mattei (1962)](../docs/events/1962-morte-mattei.md)
 - [Crisi petrolifera (1973)](../docs/events/1973-crisi-petrolifera.md)
 - [Abolizione Glass-Steagall (1999)](../docs/events/1999-abolizione-glass-steagall.md)
 - [Crisi finanziaria (2008)](../docs/events/2008-crisi-finanziaria.md)
@@ -134,6 +136,11 @@ Report che analizzano specifici settori economici.
 |--------|---------|-------|
 | [Military-Industrial Complex](military-industrial-complex.md) | 1945-2025 | MIC, revolving door, contractors |
 
+### Energia
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Seven Sisters](seven-sisters.md) | 1911-2007 | Cartello petrolifero, Mattei, OPEC, NOC |
+
 ### Finanza e Pagamenti
 | Report | Periodo | Focus |
 |--------|---------|-------|
@@ -220,6 +227,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Singapore Power Map](singapore-power-map.md) | 1959-2025 | GIC, Temasek, stato-azienda Lee |
 | [Indonesia Power Map](indonesia-power-map.md) | 1966-2025 | Oligarchie sino-indonesiane |
 | [Thailand Power Map](thailand-power-map.md) | 1932-2025 | Monarchia, Shinawatra, militari |
+| [Malaysia Power Map](malaysia-power-map.md) | 1957-2025 | UMNO, Mahathir, 1MDB, tycoon sino-malesi |
 
 ### Medio Oriente e Nord Africa
 
@@ -235,6 +243,12 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Lebanon Power Map](lebanon-power-map.md) | 1943-2025 | Confessionalismo, Hezbollah, dinastie |
 | [Turkey Power Map](turkey-power-map.md) | 1923-2025 | Ataturk, Erdogan, neo-ottomanismo |
 | [Siria Power Map](siria-power-map.md) | 1963-2026 | Assad, caduta regime, transizione al-Sharaa |
+
+### Caucaso e Asia Centrale
+
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Azerbaijan Power Map](azerbaijan-power-map.md) | 1969-2025 | Dinastia Aliyev, KGB, SOCAR, caviar diplomacy |
 
 ### Africa
 
@@ -268,6 +282,7 @@ Mappe di potere regionali:
 - [Singapore Power Map](singapore-power-map.md)
 - [Indonesia Power Map](indonesia-power-map.md)
 - [Thailand Power Map](thailand-power-map.md)
+- [Malaysia Power Map](malaysia-power-map.md)
 - [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md)
 - [Greece Power Map](greece-power-map.md)
 - [Germany Power Map](germany-power-map.md)
@@ -305,7 +320,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 75 |
+| **Report totali** | 77 |
 | **Power Map geografici** | 42+ |
 | **Report tematici/settoriali** | 30+ |
 | **Periodo coperto** | 1897-2025 |
@@ -320,7 +335,7 @@ Analisi di industrie specifiche:
 | **Vietnam** | Report su operazioni CIA Vietnam |
 | **Sud America** | Operation Condor, dittature |
 | **Guerra al Terrore** | Afghanistan, GWOT |
-| **Energia** | Petrolio, nucleare, transizione |
+| ~~**Energia**~~ | ~~Petrolio, nucleare, transizione~~ → [Seven Sisters](seven-sisters.md) |
 | **Africa** | Neo-colonialismo, risorse, Cina-Africa |
 | **Pakistan** | ISI, nucleare, Afghanistan |
 | ~~**AI**~~ | ~~Foundation models, corsa AGI~~ → [AI Power Map](ai-power.md) |

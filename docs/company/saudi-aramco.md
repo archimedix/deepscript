@@ -90,17 +90,21 @@
 | Upstream President | Nasir Al-Naimi | - |
 | Downstream President | Mohammed Al Qahtani | 2023 |
 
-### Board of Directors
+### Board of Directors (2024-2027)
 
 | Nome | Background | Note |
 |------|------------|------|
-| Yasir Al-Rumayyan | PIF Governor | Chairman |
-| Amin Nasser | CEO Aramco | Executive |
-| Ibrahim Al-Assaf | Ex Min. Finanze SA | Ministro di Stato |
-| Stuart Gulliver | Ex CEO HSBC | Board SAB |
-| Andrew Liveris | Ex CEO Dow Chemical | Worley Parsons |
-| Robert Dudley | Ex CEO BP | Dal 2024 |
-| Mark Weinberger | Ex CEO EY | FCLTGlobal |
+| [Yasir Al-Rumayyan](../persons/yasir-al-rumayyan.md) | PIF Governor | Chairman |
+| [Ibrahim Al-Assaf](../persons/ibrahim-al-assaf.md) | Ex Min. Finanze SA | Deputy Chairman, Ministro di Stato |
+| [Amin Nasser](../persons/amin-nasser.md) | CEO Aramco | Executive |
+| [Mohammed Al-Jadaan](../persons/mohammed-al-jadaan.md) | Min. Finanze SA | Board member |
+| [Faisal Alibrahim](../persons/faisal-alibrahim.md) | Min. Economia SA | Dal 2024 |
+| [Khalid Al-Dabbagh](../persons/khalid-al-dabbagh.md) | Chairman SABIC | Board member |
+| [Andrew Liveris](../persons/andrew-liveris.md) | Ex CEO Dow Chemical | Advisor PIF, Worley |
+| [Lynn Elsenhans](../persons/lynn-elsenhans.md) | Ex CEO Sunoco | Prima donna board (2018) |
+| [Stuart Gulliver](../persons/stuart-gulliver.md) | Ex CEO HSBC | Board SAB |
+| [Robert Dudley](../persons/robert-dudley.md) | Ex CEO BP | Dal 2024 |
+| [Mark Weinberger](../persons/mark-weinberger.md) | Ex CEO EY | Dal 2020 |
 
 ---
 
@@ -120,8 +124,10 @@
 | Metrica | 2024 | 2023 |
 |---------|------|------|
 | **Revenue** | $480.6B | $495.1B |
-| **Earnings** | $208.6B | $236.8B |
-| **Dividendi** | $124B | - |
+| **Net Income** | $106.2B | $121.3B |
+| **Dividendi pagati** | $124B | - |
+| **Dividendi attesi 2025** | $85.4B | - |
+| **Capital Investment** | $53.3B | - |
 
 ---
 
@@ -130,9 +136,12 @@
 | Azienda | Quota | Settore |
 |---------|-------|---------|
 | [SABIC](../company/sabic.md) | 70% | Petrolchimica |
+| Sadara Chemical | 65% | Petrolchimica (JV con [Dow Chemical](../company/dow-chemical.md)) |
 | Motiva (USA) | 100% | Raffinazione |
 | S-Oil (Corea) | 63% | Raffinazione |
 | ARLANXEO | 50% | Gomma sintetica |
+
+> **Sadara**: Piu' grande impianto chimico integrato mai costruito in una singola fase. JV strategica negoziata da [Andrew Liveris](../persons/andrew-liveris.md) quando era CEO Dow.
 
 ---
 
@@ -143,9 +152,13 @@
 | Persona | Ruolo |
 |---------|-------|
 | [Yasir Al-Rumayyan](../persons/yasir-al-rumayyan.md) | Chairman (anche PIF Governor) |
-| [Amin Nasser](../persons/amin-nasser.md) | CEO, Board BlackRock |
+| [Amin Nasser](../persons/amin-nasser.md) | CEO, Board BlackRock, WEF IBC |
 | [Mohammed bin Salman](../persons/mohammed-bin-salman.md) | Controllo via PIF |
-| [Nabeel Amudi](../persons/nabeel-amudi.md) | Executive |
+| [Andrew Liveris](../persons/andrew-liveris.md) | Board, ex CEO Dow, architetto JV Sadara |
+| [Robert Dudley](../persons/robert-dudley.md) | Board (2024), ex CEO BP |
+| [Lynn Elsenhans](../persons/lynn-elsenhans.md) | Board (2018), ex CEO Sunoco, TSMC |
+| [Stuart Gulliver](../persons/stuart-gulliver.md) | Board, ex CEO HSBC |
+| [Mark Weinberger](../persons/mark-weinberger.md) | Board (2020), ex CEO EY |
 
 ### Organizzazioni Collegate
 
@@ -154,13 +167,17 @@
 | [PIF](../swf/pif-saudi.md) | Azionista 16% |
 | [Governo Saudita](../government/governo-saudi.md) | Azionista 81% |
 | [SABIC](../company/sabic.md) | Controllata 70% |
-| [BlackRock](../asset-manager/blackrock.md) | CEO Nasser in board |
+| [Dow Chemical](../company/dow-chemical.md) | JV Sadara |
+| [BlackRock](../asset-manager/blackrock.md) | Nasser board, Liveris chairman LTPC Fund |
+| [BP](../company/bp.md) | Dudley ex CEO |
+| [HSBC](../bank/hsbc.md) | Gulliver ex CEO |
 
 ### Forum
 
 | Forum | Connessione |
 |-------|-------------|
-| [WEF](../forum/wef.md) | Amin Nasser membro IBC |
+| [WEF](../forum/wef.md) | Nasser, Weinberger membri IBC |
+| [Bilderberg](../forum/bilderberg.md) | Liveris (2012) |
 
 ---
 

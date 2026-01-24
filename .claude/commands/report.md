@@ -240,6 +240,8 @@ Se il report ha timeline significativa (3+ eventi), aggiungi anche a `00-chronol
 
 # Workflow AGGIORNAMENTO (report esistente)
 
+> **Flusso tipico**: L'utente aggiunge entità con `/add`, poi lancia `/report` per integrare le nuove info.
+
 ## U1: Leggi il report esistente
 
 Leggi `reports/{nome-report}.md` per capire:
@@ -248,47 +250,19 @@ Leggi `reports/{nome-report}.md` per capire:
 - Ultima data/periodo coperto
 - Gap evidenti
 
-## U2: Cerca novità nel database
+## U2: Analizza il contesto della sessione
 
-```cypher
-// Nuove persone del paese/tema aggiunte di recente
-MATCH (p:Person)
-WHERE p.nationality CONTAINS '{ISO_CODE}'
-  OR p.id CONTAINS '{tema}'
-RETURN p.id, p.name
+**NON fare WebSearch.** Le informazioni da integrare sono già nel contesto della conversazione.
 
-// Nuove affiliazioni rilevanti
-MATCH (p:Person)-[r:AFFILIATED_WITH]->(o:Organization)
-WHERE (p.nationality CONTAINS '{ISO_CODE}' OR o.headquarters CONTAINS '{PAESE}')
-RETURN p.id, o.id, r.role, r.from
+Scorri il contesto cercando:
+- Entità aggiunte con `/add` (persone, org, eventi)
+- Informazioni emerse durante la ricerca
+- Relazioni e affiliazioni scoperte
+- Fatti rilevanti per il report
 
-// Nuovi eventi
-MATCH (e:Event)
-WHERE e.location CONTAINS '{PAESE}' OR e.id CONTAINS '{tema}'
-RETURN e.id, e.year
-```
+Filtra solo ciò che è pertinente al report `$ARGUMENTS`.
 
-Confronta con il report: cosa c'è nel DB che manca nel report?
-
-## U3: Ricerca web per aggiornamenti
-
-Cerca sviluppi recenti (2024-2025):
-- Cambi di leadership
-- Nuove nomine in forum/aziende
-- Eventi significativi
-- Nuove connessioni emerse
-- Aggiornamenti statistiche
-
-**Query tipo:**
-- "{paese/tema} 2025 news"
-- "{persona chiave} new role 2025"
-- "{paese} Bilderberg WEF Davos 2025"
-
-## U4: Aggiungi nuove entità a Neo4j
-
-Come in C3, aggiungi persone/org/relazioni scoperte.
-
-## U5: Aggiorna il report
+## U3: Aggiorna il report
 
 **NON riscrivere tutto.** Aggiorna chirurgicamente:
 
@@ -303,11 +277,11 @@ Come in C3, aggiungi persone/org/relazioni scoperte.
 - Estendi timeline con nuovi eventi
 - Aggiungi sottosezioni se serve
 
-## U6: Segnala modifiche
+## U4: Segnala modifiche
 
 Elenca cosa è stato aggiornato:
 - Sezioni modificate
-- Nuove entità aggiunte al DB
+- Info integrate dal contesto
 - Nuovi link/riferimenti
 
 ---
@@ -323,7 +297,6 @@ Elenca cosa è stato aggiornato:
 
 ## Per AGGIORNAMENTO:
 1. Stato report esistente
-2. Novità trovate (DB + web)
-3. Entità aggiunte in Neo4j
-4. Sezioni aggiornate nel report
-5. Riepilogo modifiche
+2. Info rilevanti trovate nel contesto sessione
+3. Sezioni aggiornate nel report
+4. Riepilogo modifiche

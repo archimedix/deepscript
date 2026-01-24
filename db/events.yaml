@@ -27,6 +27,17 @@ events:
     location: Iran
     outcome: success
     note: Colpo di stato CIA-MI6 che rovescio Mossadegh e reinstallo lo Shah
+  1960-fondazione-opec:
+    year: 1960
+    type: fondazione
+    location: Baghdad, Iraq
+    note: OPEC founded by Iran, Iraq, Kuwait, Saudi Arabia, Venezuela in response to Seven Sisters price cuts
+  1962-morte-mattei:
+    year: 1962
+    type: morte
+    location: Bascapè, Lombardia, Italia
+    note: Enrico Mattei dies in plane crash. Suspected sabotage, never solved. Possible involvement of Seven Sisters, French
+      SDECE, or Mafia
   1971-fine-bretton-woods:
     year: 1971
     type: decisione
@@ -99,6 +110,11 @@ events:
     type: trattato
     location: Washington DC
     outcome: Palestinian self-government
+  1994-contract-of-century:
+    year: 1994
+    type: agreement
+    location: Baku, Azerbaijan
+    note: BP-led consortium for ACG oil field development, signed by Heydar Aliyev
   1995-assassinio-rabin:
     year: 1995
     month: 11
@@ -220,15 +236,35 @@ events:
     location: Beirut, Lebanon
     outcome: 217 morti, $15B danni. Crisi politica
     note: 2750 tonnellate nitrato ammonio
+  2020-karabakh-war:
+    year: 2020
+    type: war
+    location: Nagorno-Karabakh
+    note: Azerbaijan recaptured territories, Russian peacekeepers deployed
   2020-pandemia-great-reset:
     year: 2020
     type: crisi
     location: globale
     outcome: great-reset
+  2023-karabakh-offensive:
+    year: 2023
+    type: war
+    location: Nagorno-Karabakh
+    note: 100,000 Armenians expelled, ethnic cleansing allegations
+  cop28-dubai:
+    year: 2023
+    type: conference
+    location: Dubai, ARE
+    note: First Global Stocktake, UAE Consensus
   2024-caduta-assad:
     year: 2024
     type: regime-change
     location: Syria
+  2024-cop29-baku:
+    year: 2024
+    type: summit
+    location: Baku, Azerbaijan
+    note: Controversial choice of petro-state as host, $300B climate finance agreement
   2025-iran-protests:
     year: 2025
     type: uprising

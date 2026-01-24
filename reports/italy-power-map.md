@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-L'Italia rappresenta un caso unico nel panorama del potere occidentale: un capitalismo "relazionale" costruito su partecipazioni incrociate, una classe dirigente formata nei forum transnazionali, e una sequenza di "governi tecnici" che emerge nei momenti di crisi. Il potere reale si concentra in pochi nodi: Mediobanca (finanza), CDP (Stato), le "Tre Sorelle" di Stato (ENI, Enel, Leonardo), i forum internazionali (legittimazione), e le dinastie industriali (Agnelli-Elkann, Berlusconi, Del Vecchio).
+L'Italia rappresenta un caso unico nel panorama del potere occidentale: un capitalismo "relazionale" costruito su partecipazioni incrociate, una classe dirigente formata nei forum transnazionali, e una sequenza di "governi tecnici" che emerge nei momenti di crisi. Il potere reale si concentra in pochi nodi: Mediobanca (finanza), CDP (Stato), le "Tre Sorelle" di Stato (ENI, Enel, Leonardo), i forum internazionali (legittimazione), e le dinastie industriali (Agnelli-Elkann, Berlusconi, Del Vecchio, Ferrero).
 
 ---
 
@@ -1018,6 +1018,31 @@ Caso emblematico di **privatizzazione fallita**: IRI (1950) → Benetton (1995) 
 | **Mag. 2022** | **Vendita ASPI a CDP** | **€8.2 mld, ri-nazionalizzazione** |
 | Dic. 2022 | OPA Edizione-Blackstone | Delisting Atlantia |
 | Mar. 2023 | Atlantia → [Mundys](../docs/company/atlantia.md) | Rebranding |
+| Apr. 2025 | Nuova governance ASPI | Turicchi presidente, Giana CEO |
+
+**Governance ASPI 2025:**
+
+| Ruolo | Nome | Background |
+|-------|------|------------|
+| Presidente | [Antonino Turicchi](../docs/persons/antonino-turicchi.md) | DG CDP, Pres. ITA Airways |
+| CEO | [Arrigo Giana](../docs/persons/arrigo-giana.md) | CEO ATM Milano |
+| Vicepresidente | [Andrea Valeri](../docs/persons/andrea-valeri.md) | Chairman Blackstone Italy |
+
+**Struttura proprietaria ASPI (2025):**
+
+```
+CDP (100%)
+    │
+CDP Equity (51%)────Blackstone (24.5%)────Macquarie (24.5%)
+                           │
+              Holding Reti Autostradali (HRA)
+                           │
+                         88%
+                           │
+              Autostrade per l'Italia
+```
+
+**Pattern**: La "ri-nazionalizzazione" e' in realta' un partenariato pubblico-privato con PE globali (Blackstone, Macquarie). Valeri (Blackstone) siede in CdA come vicepresidente. Turicchi rappresenta il revolving door Stato-corporate: Tesoro → CDP → ITA Airways → ASPI.
 
 **Partecipazioni Edizione** (NAV €13.2 mld, Blackstone 37.8% in Mundys):
 
@@ -1714,6 +1739,137 @@ Stellantis  Ferrari   CNH      Juventus
 
 **Forum**: Nessuna presenza significativa in forum internazionali (a differenza di Agnelli-Elkann). Alessandro Benetton ha background Goldman Sachs (1988-89).
 
+### Ferrero
+
+La dinastia dolciaria piu' ricca d'Italia. Tre generazioni, 100% controllo familiare, zero quotazione, estrema riservatezza.
+
+| Generazione | Figure | Asset |
+|-------------|--------|-------|
+| I (fondatore) | [Pietro Ferrero](../docs/persons/pietro-ferrero.md) (1898-1949) | Ferrero (1946), Supercrema |
+| I | [Piera Cillario](../docs/persons/piera-cillario.md), [Giovanni Ferrero Sr.](../docs/persons/giovanni-ferrero-sr.md) | Co-fondatori |
+| II | [Michele Ferrero](../docs/persons/michele-ferrero.md) (1925-2015) | Nutella (1964), Kinder (1968), espansione globale |
+| II | [Maria Franca Fissolo](../docs/persons/maria-franca-fissolo.md) (1939-) | [Ferrero Foundation](../docs/foundation/ferrero-foundation.md) Chairman |
+| III | [Pietro Ferrero Jr.](../docs/persons/pietro-ferrero-jr.md) (1963-2011) | Co-CEO 1997-2011 |
+| III | [Giovanni Ferrero](../docs/persons/giovanni-ferrero.md) (1964-) | **Executive Chairman, richest in Italy ($41B+)** |
+
+**La holding Ferrero International (Lussemburgo):**
+
+| Asset | Controllo | Settore |
+|-------|-----------|---------|
+| [Ferrero Group](../docs/companies/ferrero.md) | 100% famiglia | Confectionery |
+| [WK Kellogg](../docs/companies/wk-kellogg.md) | Acquisizione 2025 ($3.1B) | Cereali USA |
+| Nestle US Confections | Acquisizione 2018 ($2.8B) | Candy USA |
+
+**Revenue**: €15-16B (2024) - **#3 confectionery mondiale**
+
+**Il percorso:**
+1. **1946**: Pietro fonda laboratorio ad Alba, inventa Supercrema (precursore Nutella)
+2. **1949**: Morte Pietro, subentra figlio Michele
+3. **1964**: Lancio Nutella (con Francesco Rivella)
+4. **1968**: Lancio Kinder
+5. **1983**: Fondazione [Ferrero Foundation](../docs/foundation/ferrero-foundation.md) (welfare ex-dipendenti)
+6. **1997**: Giovanni e Pietro Jr co-CEO
+7. **2011**: Morte Pietro Jr (incidente Sudafrica)
+8. **2015**: Morte Michele Ferrero
+9. **2017**: [Lapo Civiletti](../docs/persons/lapo-civiletti.md) primo CEO non-family
+10. **2025**: Acquisizione WK Kellogg ($3.1B)
+
+**Pattern distintivo - "L'Anti-Sistema":**
+
+| Aspetto | Ferrero | Altre dinastie italiane |
+|---------|---------|-------------------------|
+| **Quotazione** | Mai | FIAT/Stellantis, Luxottica quotate |
+| **Forum internazionali** | Nessuno | Agnelli (Bilderberg steering), Monti (Trilateral) |
+| **Influenza politica** | Minima | Berlusconi (partito), Agnelli (PM de facto) |
+| **Trasparenza** | "Most secretive firm" | Disclosure obbligatorio |
+| **CEO esterno** | Solo dal 2017 | Comune |
+| **Sede legale** | Lussemburgo | Mix Italia/estero |
+
+**Forum**: Nessuna presenza documentata in Bilderberg, WEF, Trilateral, Aspen. Famiglia notoriamente riservata e apolitica.
+
+**Osservazione**: I Ferrero sono l'eccezione che conferma la regola del capitalismo relazionale italiano. Successo globale senza partecipazione ai forum di potere, senza quotazione, senza influenza politica diretta. Il "modello Ferrero" dimostra che e' possibile costruire un impero industriale italiano rimanendo fuori dal "salotto buono" - ma richiede un prodotto consumer con brand globale (Nutella, Kinder) e una disciplina familiare ferrea.
+
+### Il Settore Food: Dinastie e Passaggi di Proprieta'
+
+Il food italiano mostra tre pattern distinti: dinastie che resistono (Ferrero, Barilla), marchi storici ceduti (Buitoni), e nuovi formati con PE (Eataly).
+
+#### Barilla (1877 - famiglia)
+
+[Barilla](../docs/companies/barilla.md): primo produttore mondiale di pasta, azienda familiare dalla quarta generazione.
+
+| Metrica | Valore |
+|---------|--------|
+| **Fondazione** | 1877 (Parma) |
+| **Fatturato** | €4.88B (2024) |
+| **Proprieta'** | 85% famiglia Barilla |
+| **Chairman** | [Guido Barilla](../docs/persons/guido-barilla.md) |
+| **CEO** | [Gianluca Di Tondo](../docs/persons/gianluca-di-tondo.md) (dal 2023) |
+
+**Pattern successorio**: Nel 1993 muore Pietro Barilla, il controllo passa ai quattro figli (Guido, Luca, Paolo, Emanuela). A differenza degli Agnelli, i Barilla mantengono gestione collegiale senza conflitti pubblici.
+
+**Management professionale**: CEO esterni di alto profilo:
+- [Claudio Colzani](../docs/persons/claudio-colzani.md) (2012-2023): 28 anni in Unilever, Chairman Francia
+- Gianluca Di Tondo (2023-): ex Heineken Global Brand Director, Bocconi
+
+**Crosslink**: Guido Barilla siede nel board [Danone](../docs/companies/danone.md).
+
+#### Buitoni (1827 → Nestle 1988)
+
+[Buitoni](../docs/companies/buitoni.md): caso emblematico di marchio storico italiano ceduto.
+
+```
+FAMIGLIA (1827) ──► DE BENEDETTI (1985) ──► NESTLE (1988) ──► FRAMMENTATO (2020+)
+  150+ anni            3 anni = 10x           brand globale      NA venduto
+```
+
+| Fase | Periodo | Controllo | Exit Value |
+|------|---------|-----------|------------|
+| Famiglia Buitoni | 1827-1985 | Giovanni → Marco Buitoni | n.d. |
+| [Carlo De Benedetti](../docs/persons/carlo-de-benedetti.md) | 1985-1988 | CIR | $1.2B (10x) |
+| Nestle | 1988-oggi | Brand globale | - |
+| Brynwood → Tuscan Brands | 2020-oggi | Solo Nord America | ~$115M |
+
+**Pattern De Benedetti**: Acquisizione a sconto di asset in difficolta', ristrutturazione rapida (3 anni), exit a multiplo elevato a multinazionale. Lo stesso pattern applicato poi a Olivetti.
+
+**2022**: Fine produzione Buitoni in Italia (licenza Newlat non rinnovata). Il marchio italiano piu' antico nella pasta non produce piu' in Italia.
+
+#### Eataly (2007 - PE)
+
+[Eataly](../docs/companies/eataly.md): nuovo modello food retail italiano, ora controllato da PE.
+
+| Metrica | Valore |
+|---------|--------|
+| **Fondazione** | 2007 (Torino) |
+| **Fondatore** | [Oscar Farinetti](../docs/persons/oscar-farinetti.md) |
+| **Fatturato** | €684M (2024) |
+| **Negozi** | 44 in 15 paesi |
+| **Controllo** | [Investindustrial](../docs/private-equity/investindustrial.md) 52% |
+
+**Azionariato 2025**:
+
+| Azionista | Quota | Note |
+|-----------|-------|------|
+| Investindustrial | 52% | Dal 2022, €200M |
+| Farinetti family (Eatinvest) | parte 48% | |
+| [TIP](../docs/private-equity/tamburi-investment-partners.md) (Clubitaly) | ~20% | Partner dal 2014 |
+| Baffigo/Miroglio | parte 48% | |
+
+**Pattern Farinetti**: Da retail elettronica (UniEuro venduta £230M nel 2003) a food premium. CEO fino al 2022, poi Chairman (figlio Nicola).
+
+**Espansione 2025**: Investindustrial annuncia €100M per Middle East (fino a 40 store).
+
+#### Confronto Modelli Food
+
+| Aspetto | Ferrero | Barilla | Buitoni | Eataly |
+|---------|---------|---------|---------|--------|
+| **Proprieta'** | 100% famiglia | 85% famiglia | Nestle | PE 52% |
+| **Quotazione** | No | No | n.a. | No |
+| **Management** | Famiglia | Professionale | Multinazionale | Professionale |
+| **Forum** | Nessuno | Nessuno | n.a. | Nessuno |
+| **Stato** | Indipendente | Indipendente | Ceduto | PE-backed |
+
+**Osservazione**: Il food italiano di marca resta fuori dai forum di potere (a differenza di finanza e automotive), ma segue traiettorie diverse: resistenza familiare (Ferrero, Barilla) vs cessione a multinazionali (Buitoni) vs ingresso PE (Eataly).
+
 ### Caproni (Storica - Defunct)
 
 | Generazione | Figure | Asset |
@@ -2018,13 +2174,321 @@ Firmato da Renzi e Padoan nel 2014 per €2.1 miliardi:
 
 ---
 
-## VIII. TODO
+## VIII. Private Equity Italiano: Il Nuovo Potere
+
+### Il Pattern "Investment Banking → Private Equity Mediterraneo"
+
+Il private equity italiano e' dominato da figure con background in investment banking europeo (Rothschild, Mediobanca, Barclays) che creano veicoli con capitali del Golfo per investire nel mid-market mediterraneo.
+
+```
+BANCA D'AFFARI EUROPEA ────► PRIVATE EQUITY ────► ASSET STRATEGICI ITALIANI
+    (formazione)              (veicolo)              (target)
+        │                         │                       │
+   Rothschild                Peninsula              Italo-NTV
+   Mediobanca                 Azzurra               Trasporti
+   Barclays                     GIP                 Energia
+        │                         │                       │
+        └─────────────────────────┼───────────────────────┘
+                                  │
+                        CAPITALI DEL GOLFO
+                        (QIA, SOFAZ, MSC)
+```
+
+### Stefano Marsaglia: Il Ponte Italia-Golfo
+
+[Stefano Marsaglia](../docs/persons/stefano-marsaglia.md) rappresenta il prototipo del nuovo connettore: dinastia bancaria italiana (Banco Marsaglia 1875-1959), formazione nell'investment banking europeo, poi private equity con capitali sovrani del Golfo.
+
+| Fase | Periodo | Ruolo | Organizzazione |
+|------|---------|-------|----------------|
+| Investment Banking | 1992-2009 | Global Co-Head FIG | [Rothschild](../docs/companies/rothschild.md) |
+| Investment Banking | 2010-2014 | Chairman Global FIG | [Barclays](../docs/companies/barclays.md) |
+| Investment Banking | 2014-2018 | Executive Chairman CIB | [Mediobanca](../docs/bank/mediobanca.md) |
+| Private Equity | 2016-2021 | Co-founder | [Peninsula Capital](../docs/companies/peninsula-capital.md) |
+| Private Equity | 2021- | Founder, CEO | [Azzurra Capital](../docs/companies/azzurra-capital.md) |
+| Corporate | 2022- | Board Member | [Generali](../docs/company/generali.md) |
+
+**Onorificenze**: Cavaliere del Lavoro (2015), Cavaliere Stella d'Italia (2014)
+
+### Peninsula Capital (2016-2021)
+
+| Metrica | Valore |
+|---------|--------|
+| **AUM** | €1.6 miliardi |
+| **Anchor Investor** | [QIA](../docs/government/qia.md) (Qatar Investment Authority) |
+| **Fondatori** | Marsaglia, Borja Prado Eulate, Javier de la Rica |
+| **Focus** | Italia, Spagna, Mediterraneo |
+
+**Network Mediobanca**: Tutti e tre i fondatori erano ex-dirigenti Mediobanca (Italia/Iberia).
+
+**Portfolio italiano**: Italo-NTV (13% → exit a GIP), Kiko, Guala Closures.
+
+**Connessione Trilateral**: [Borja Prado Eulate](../docs/persons/borja-prado-eulate.md) e' **Presidente del Gruppo Spagnolo della Trilateral Commission**, ex Presidente Endesa (2009-2019).
+
+### Azzurra Capital (2021-)
+
+| Metrica | Valore |
+|---------|--------|
+| **AUM target** | €850 milioni |
+| **Sede** | Dubai (HQ) |
+| **Fondatori** | Marsaglia, Jorge Delclaux (ex Rothschild Spain) |
+| **Advisory** | Alfredo Saenz (ex CEO Banco Santander) |
+| **Focus** | Growth/expansion Italia, Europa |
+
+**Portfolio 2024-2025**: Desa Group (30%, home care), Marval, VM Motori (ex Stellantis), Proger (25.45%, engineering).
+
+### Italo-NTV: Il Caso Emblematico
+
+[Italo-NTV](../docs/companies/italo-ntv.md) illustra il pattern completo: elite imprenditoriale italiana che sfida monopolio di Stato, poi cede a PE americano e shipping svizzero.
+
+```
+FONDATORI (2006) ────► GIP (2018) ────► GIP + MSC (2023)
+€300K ciascuno         €1.98B          50%-50%
+    │                     │                │
+Montezemolo           Private Equity    Shipping
+Della Valle           USA               Svizzera
+Punzo
+```
+
+| Azionista | Quota | Periodo |
+|-----------|-------|---------|
+| Fondatori italiani | 100% | 2006-2018 |
+| [Peninsula Capital](../docs/companies/peninsula-capital.md) | 13% | 2017-2018 |
+| [GIP](../docs/companies/gip.md) | 100% → 50% | 2018-oggi |
+| [MSC](../docs/companies/msc.md) | 50% | 2023-oggi |
+| [Allianz](../docs/company/allianz.md) | minority | 2023-oggi |
+
+**Fondatori di Italo**:
+- [Luca Cordero di Montezemolo](../docs/persons/luca-montezemolo.md): Presidente Ferrari (1991-2014), Presidente Fiat (2004-2010), **Presidente Confindustria (2004-2008)**
+- [Diego Della Valle](../docs/persons/diego-della-valle.md): CEO Tod's, filantropo (restauro Colosseo)
+- [Gianni Punzo](../docs/persons/gianni-punzo.md) (1936-2025): Fondatore CIS Nola, Cavaliere del Lavoro
+
+**Azionisti reinvestitori**: [Flavio Cattaneo](../docs/persons/flavio-cattaneo.md) (ora CEO Enel), Isabella Seragnoli, Alberto Bombassei.
+
+### Enfinity Global e il Capitale Azero
+
+[Enfinity Global](../docs/companies/enfinity-global.md) (USA, renewable energy) rappresenta un altro canale di capitali sovrani verso l'Italia:
+
+| Investitore | Quota | Asset |
+|-------------|-------|-------|
+| [SOFAZ](../docs/government/sofaz.md) (Azerbaijan) | 49% | Portfolio Italia 402 MW solar |
+| [Daiwa](../docs/companies/daiwa.md) (Giappone) | 49% | Portfolio BESS 380 MW (US/Italia) |
+
+**Pipeline Italia**: 8 GW solar/storage, €1.3 miliardi raccolti 2023-2025.
+
+### Pattern: Capitali del Golfo nel Mid-Market Italiano
+
+| Fondo Sovrano | Veicolo | Settore | Target Italiano |
+|---------------|---------|---------|-----------------|
+| **QIA** (Qatar) | Peninsula Capital | PE | Italo, Kiko |
+| **SOFAZ** (Azerbaijan) | Enfinity Global | Energia | Solar Italia |
+| **MSC** (Svizzera-Aponte) | Diretto | Trasporti | Italo-NTV 50% |
+
+**Osservazione**: Il mid-market italiano (trasporti, energia, consumer) attrae capitali sovrani del Golfo attraverso veicoli PE gestiti da ex-investment banker italiani (Marsaglia) o con forte presenza italiana (Peninsula).
+
+### Investindustrial: Il PE Italiano di Scala Europea
+
+[Investindustrial](../docs/private-equity/investindustrial.md) e' il maggiore PE italiano per AUM, fondato dalla famiglia Bonomi.
+
+| Metrica | Valore |
+|---------|--------|
+| **Fondazione** | 1990 (Londra) |
+| **Fondatore** | [Andrea Bonomi](../docs/persons/andrea-bonomi.md) (NYU Stern '86) |
+| **Co-fondatore** | [Carlo Umberto C. Bonomi](../docs/persons/carlo-umberto-bonomi.md) (fratello) |
+| **AUM** | €17 miliardi raccolti |
+| **Fund VIII (2025)** | €4 miliardi |
+| **Portfolio** | 29 aziende, €30B enterprise value |
+| **Dipendenti portfolio** | 52,000 |
+| **Team** | 200+ professionisti, 8 uffici |
+
+**Portfolio italiano rilevante**:
+
+| Target | Settore | Note |
+|--------|---------|------|
+| [Eataly](../docs/companies/eataly.md) | Food retail | 52% dal 2022 |
+| [Ducati](../docs/automaker/ducati.md) | Moto | **Exit 2012**: venduta a VW/Audi per $1.1B (3x return) |
+| Sammontana | Gelato | 2024, espansione Nord America |
+| La Doria | Food (canning) | 2023 |
+| Fassi Gru | Industrial | 2024 |
+
+**Exit storici eccellenti**:
+- **[Ducati](../docs/automaker/ducati.md)** (2006-2012): 29.9% → 100% → vendita a VW per $1.1B = **3x return**
+- **[Aston Martin](../docs/automaker/aston-martin.md)** (2013-): 37.5% per $240M, partnership Daimler
+
+**Strategia**: Partnership con famiglie imprenditoriali italiane, globalizzazione mid-market. Focus su "Made in Italy" consumer e manufacturing.
+
+**Background Bonomi**: Pre-Investindustrial: Saffa Group, Kleinwort Benson (London), Lazard Freres (NY). Board: BPM, RCS MediaGroup, Illy. NYU Trustee. Private Equity Hall of Fame 2018.
+
+### Tamburi Investment Partners: Il Merchant Bank Italiano
+
+[TIP](../docs/private-equity/tamburi-investment-partners.md) opera come merchant bank quotata, investitore di lungo termine in campioni italiani. Tamburi e' soprannominato il "Warren Buffett italiano".
+
+| Metrica | Valore |
+|---------|--------|
+| **Fondazione** | 1999 (Milano) |
+| **Fondatori** | [Giovanni Tamburi](../docs/persons/giovanni-tamburi.md), [Alessandra Gritti](../docs/persons/alessandra-gritti.md) |
+| **Quotazione** | STAR (Borsa Italiana, 2005) |
+| **Investimenti** | €5+ miliardi (a valori odierni) |
+
+**Azionisti storici (patto parasociale)**: Le grandi famiglie industriali italiane: Seragnoli (packaging), Angelini (pharma), Marzotto (tessile), Branca (distillati), D'Amico (shipping), Lavazza (caffe'), Lunelli (vini), Dompe' (pharma).
+
+**Portfolio (quotate e non)**:
+
+| Target | Settore | Nota |
+|--------|---------|------|
+| Eataly | Food retail | ~20% via Clubitaly |
+| [Interpump](../docs/companies/interpump.md) | Industrial pumps | **Dal 2002 - 20+ anni, x12 return** |
+| [Amplifon](../docs/companies/amplifon.md) | Healthcare | Dal 2010, ingresso a €3 → €20+ |
+| [Moncler](../docs/companies/moncler.md) | Luxury | Pre-IPO 2013 |
+| Hugo Boss | Fashion | Minority |
+| [OVS](../docs/companies/ovs.md) | Retail | Board |
+
+**Modello TIP**: Investimento paziente in eccellenze italiane (10-20+ anni holding), no LBO aggressivi, co-investimento con famiglie. Tamburi siede in numerosi CdA come "azionista-consulente".
+
+**Confronto PE italiano**:
+
+| Aspetto | Investindustrial | TIP |
+|---------|------------------|-----|
+| **Struttura** | PE tradizionale | Merchant bank quotata |
+| **Sede** | Londra | Milano |
+| **Holding period** | 5-7 anni | 10+ anni |
+| **Stile** | Buyout, globalizzazione | Minoranze, patient capital |
+| **Target** | Mid-market €100M-500M | Eccellenze italiane |
+
+**Pattern comune**: Entrambi evitano i forum transnazionali (Bilderberg, Trilateral) - il PE italiano resta "industriale" e non entra nel circuito diplomatico-finanziario.
+
+### CVC Capital Partners: Il Gigante Europeo in Italia
+
+[CVC Capital Partners](../docs/private-equity/cvc-capital-partners.md) (#4 mondiale, €200B AUM) ha una presenza storica in Italia dal 1987 con ufficio a Milano e oltre €5B di equity deployed nell'ultimo decennio.
+
+| Metrica | Valore |
+|---------|--------|
+| **Ufficio** | Milano (dal 1987) |
+| **Team** | 10 investment professionals |
+| **Equity deployed** | >EUR 5B (ultimo decennio) |
+| **Ranking** | #4 mondiale (PEI 300 2024) |
+
+**Leadership CVC Italia**:
+
+| Ruolo | Nome | Background |
+|-------|------|------------|
+| Managing Partner, Head of Italy | [Giampiero Mazza](../docs/persons/giampiero-mazza.md) | Rice, HBS MBA, Bain, BC Partners → CVC 2010 |
+| MD, Head of Italy - CVC DIF | [Roberta Battaglia](../docs/persons/roberta-battaglia.md) | Deutsche Bank, Antin, CDP Equity → CVC 2024 |
+
+**Deal italiani principali**:
+
+| Target | Anno | Valore | Settore | Exit |
+|--------|------|--------|---------|------|
+| [Recordati](../docs/pharma/recordati.md) | 2018 | EUR 3B | Pharma | - |
+| [Sisal](../docs/companies/sisal.md) | 2016 | EUR 1B | Gaming | Flutter EUR 1.9B (2022) |
+| Multiversity | - | - | Education | - |
+| BIP | 2021 | EUR 700M+ | Consulting | - |
+| Gruppo La Piadineria | - | - | Food | - |
+
+**Pattern CVC Italia**: Acquisizione di leader di settore (pharma, gaming, education) con focus su digitalizzazione e internazionalizzazione, poi exit a gruppi globali (Flutter per Sisal).
+
+### Sisal: Dal Totocalcio a Flutter
+
+[Sisal](../docs/companies/sisal.md) rappresenta l'evoluzione del gaming italiano: fondata 1945 dai giornalisti sportivi che inventarono il Totocalcio, ora parte del piu' grande operatore gaming mondiale.
+
+```
+FONDATORI (1945) ──► NAZIONALIZZAZIONE ──► PERMIRA/APAX ──► CVC ──► FLUTTER
+ 3 giornalisti        Totocalcio 1948        ~2010           2016      2022
+                                                            €1B      €1.9B
+```
+
+| Fase | Periodo | Owner | Valore |
+|------|---------|-------|--------|
+| Fondazione | 1945-1948 | Della Pergola, Jegher, Molo | - |
+| Statale | 1948-~2000 | Stato italiano | - |
+| PE I | ~2010-2016 | Permira, Apax | - |
+| PE II | 2016-2022 | [CVC Capital Partners](../docs/private-equity/cvc-capital-partners.md) | EUR 1B |
+| Globale | 2022- | [Flutter Entertainment](../docs/companies/flutter-entertainment.md) | EUR 1.9B |
+
+**CVC Return**: ~2x in 6 anni (EUR 1B → EUR 1.9B)
+
+**CEO**: [Francesco Durante](../docs/persons/francesco-durante.md) (LUISS 1994, Lucent, Sara Lee) - CEO Sisal dal 2019, promosso **CEO Flutter SEA** (Southern Europe & Africa) dal 1 gennaio 2025.
+
+**Licenze strategiche**: SuperEnalotto (dal 1997, 27 anni), Lotteria Turchia (2019), Marocco. Nel 2025 Sisal compete per la licenza Lotto italiano (~$5B revenue in 9 anni).
+
+### Motor Valley: L'Eccellenza Automotive Emiliana
+
+La "Motor Valley" e' il distretto automotive dell'Emilia-Romagna, concentrazione unica al mondo di marchi premium e supersportivi in un raggio di 50 km.
+
+```
+                    MOTOR VALLEY (Emilia-Romagna)
+                              │
+     ┌────────────┬───────────┼───────────┬────────────┐
+     │            │           │           │            │
+ MARANELLO    MODENA    SANT'AGATA   BOLOGNA    VARANO
+     │            │      BOLOGNESE       │       DE' M.
+     ▼            ▼           │          ▼            ▼
+  FERRARI    MASERATI         │       DUCATI      DALLARA
+  (Elkann)   (Stellantis)     ▼       (VW)        (Dallara)
+                          LAMBORGHINI
+                            (VW/Audi)
+```
+
+| Marchio | Location | Fondazione | Proprieta' attuale |
+|---------|----------|------------|-------------------|
+| Ferrari | Maranello | 1939 | [EXOR](../docs/company/exor.md) (Elkann) |
+| Maserati | Modena | 1914 | Stellantis |
+| [Lamborghini](../docs/automaker/lamborghini.md) | Sant'Agata Bolognese | 1963 | Audi/VW Group |
+| [Ducati](../docs/automaker/ducati.md) | Borgo Panigale, Bologna | 1926 | Lamborghini/Audi/VW |
+| Pagani | San Cesario sul Panaro | 1992 | Famiglia Pagani |
+| Dallara | Varano de' Melegari | 1972 | Famiglia Dallara |
+
+**Struttura proprietaria VW in Italia**:
+
+```
+Volkswagen AG (DEU)
+       │
+       ▼
+   Audi AG (DEU) ──────────────────────────┐
+       │                                    │
+       ▼                                    │
+Automobili Lamborghini S.p.A.              │
+(Sant'Agata Bolognese)                     │
+       │ 100% (2012)                        │
+       ▼                                    │
+Ducati Motor Holding S.p.A.                │
+(Borgo Panigale, Bologna)                  │
+                                           │
+Lamborghini ←─── 100% (1998) ──────────────┘
+```
+
+**Figure chiave Motor Valley**:
+
+| Persona | Ruolo | Azienda |
+|---------|-------|---------|
+| [Stephan Winkelmann](../docs/persons/stephan-winkelmann.md) | President e CEO | Lamborghini (2005-16, 2020-) |
+| [Claudio Domenicali](../docs/persons/claudio-domenicali.md) | CEO | Ducati (2013-), Pres. Motor Valley Dev. |
+| [Ferruccio Lamborghini](../docs/persons/ferruccio-lamborghini.md) | Fondatore | Lamborghini (1963-1974) |
+
+**Passaggi proprietari Ducati** (pattern PE → VW):
+
+| Periodo | Proprietario | Note |
+|---------|--------------|------|
+| 1926-1948 | Famiglia Ducati | Fondatori (radio → moto) |
+| 1948-1983 | IRI/Stato | Partecipazioni statali |
+| 1983-1996 | Cagiva (Castiglioni) | Moto italiane |
+| 1996-1999 | TPG | PE americano |
+| 1999-2006 | Quotata Borsa | IPO |
+| 2006-2012 | [Investindustrial](../docs/private-equity/investindustrial.md) | Exit 3x a VW |
+| 2012- | Lamborghini/Audi/VW | €747M |
+
+**Pattern Motor Valley**: Marchi italiani iconici, fondati da imprenditori visionari, ora controllati da gruppi globali (VW, Stellantis, EXOR). L'unico rimasto familiare e' Pagani.
+
+---
+
+## IX. TODO
 
 ### Persone
 
 | Persona | Motivo |
 |---------|--------|
 | Emma Marcegaglia | Ex Confindustria, Aspen |
+| Ricardo Diaz | CEO Americas Enfinity, ex ieX Renewables |
+| Julio Fournier Fisas | CEO Europe Enfinity |
 
 ### Famiglie
 
@@ -2032,6 +2496,7 @@ Firmato da Renzi e Padoan nel 2014 per €2.1 miliardi:
 |----------|---------|
 | De Benedetti | Editoria, tech |
 | Caltagirone | Costruzioni, media, finanza |
+| Aponte | MSC shipping, ora 50% Italo |
 
 ### Eventi Storici
 
@@ -2040,10 +2505,58 @@ Firmato da Renzi e Padoan nel 2014 per €2.1 miliardi:
 | Tangentopoli | 1992-94 | Fine Prima Repubblica |
 | Privatizzazioni IRI | 1992-2000 | Smantellamento stato imprenditore |
 | Crisi debito sovrano | 2011 | Governo Monti |
+| Vendita Italo a GIP | 2018 | Exit fondatori italiani |
+| MSC entra in Italo | 2023 | Shipping svizzero nel trasporto ferroviario |
+
+### Private Equity in Italia
+
+I fondi PE globali hanno acquisito asset significativi in Italia, spesso in settori strategici (healthcare, lusso, infrastrutture).
+
+#### [Cinven](../docs/private-equity/cinven.md) - Healthcare & Insurance
+
+| Investimento | Settore | Status | Note |
+|--------------|---------|--------|------|
+| [Eurovita](../docs/companies/eurovita.md) | Assicurazioni | Attivo | Ex ERGO Italia, consolidamento mercato |
+| Arcaplanet | Retail pet | Exit 2024 | Venduto a Fressnapf (EUR 1.3B EV) |
+| Avio | Aerospace | Exit | Space propulsion |
+
+**Leadership italiana**: Eugenio Preve (ex Head of Milan 2009-2024, alumni Bocconi/JP Morgan) ora passato a Trilantic Europe.
+
+#### [Permira](../docs/private-equity/permira.md) - Consumer/Luxury & Tech
+
+| Investimento | Settore | Status | Note |
+|--------------|---------|--------|------|
+| [Golden Goose](../docs/companies/golden-goose.md) | Luxury sneakers | Exit 2026 | Da EUR 1.28B a EUR 2.5B (HSG/Temasek) |
+| [Gruppo Florence](../docs/companies/gruppo-florence.md) | Luxury manufacturing | Attivo | Piattaforma produzione per luxury brands |
+| [Valentino](../docs/companies/valentino.md) | Alta moda | Exit 2012 | Espansione internazionale |
+
+**Track record luxury italiano**: Hugo Boss, Dr. Martens, K-Way - pattern di acquisizione brand italiani per internazionalizzazione.
+
+#### CVC Capital Partners
+
+| Investimento | Settore | Status | Note |
+|--------------|---------|--------|------|
+| Recordati | Pharma | Exit | Famiglia Recordati riacquista |
+| Sisal | Gaming | Exit 2022 | Venduto a Flutter (€1.9B) |
+
+#### Pattern PE Italia
+
+1. **Healthcare/Pharma**: Consolidamento frammentato mercato italiano
+2. **Luxury/Fashion**: Internazionalizzazione brand, poi exit a gruppi asiatici
+3. **Infrastrutture**: Partenariati con CDP (vedi ASPI, utilities)
+4. **Tech/Services**: Carve-out da gruppi industriali
+
+| Fondo | AUM | Focus Italia |
+|-------|-----|--------------|
+| [Permira](../docs/private-equity/permira.md) | €80B | Consumer, luxury, tech |
+| [Cinven](../docs/private-equity/cinven.md) | €44B | Healthcare, insurance |
+| [CVC Capital](../docs/private-equity/cvc-capital-partners.md) | €190B | Pharma, gaming |
+| [BC Partners](../docs/private-equity/bc-partners.md) | - | Servizi, industriali |
+| [Investindustrial](../docs/private-equity/investindustrial.md) | €12B+ | Mid-market italiano |
 
 ---
 
-## IX. Fonti e Metodologia
+## X. Fonti e Metodologia
 
 ### Fonti Primarie
 - Bilanci societari, SEC filings
@@ -2059,4 +2572,4 @@ Firmato da Renzi e Padoan nel 2014 per €2.1 miliardi:
 - Neo4j: [Schema corrente](../db/schema.yaml)
 - Query per aggiornamenti: vedi CLAUDE.md
 
-*Ultimo aggiornamento: 4 Gennaio 2026 - Aggiunti: Sezione "L'Eredita' IRI: Lo Stato Imprenditore (1933-2002)" con holding settoriali e banche, sezione "Alitalia: Il Fallimento Cronico (1946-2021)", sezione "Da Alenia a Leonardo: La Catena dell'Aerospazio Italiano", dinastia Caproni (pionieri aviazione 1908-1950). Schede create: iri.md, alitalia.md, alenia.md, caproni.md (family)*
+*Ultimo aggiornamento: 23 Gennaio 2026 - Aggiunti: governance ASPI 2025 (Turicchi, Giana, Valeri), struttura HRA, sezione PE Italia completa (Cinven, Permira con investimenti italiani). Schede create: autostrade-italia.md, cinven.md, permira.md.*
