@@ -151,7 +151,7 @@ RETURN path
 
 **Node Types**: Person, Organization, Family, Event
 
-**Organization Sublabels**: Forum, Company, Bank, CentralBank, AssetManager, PrivateEquity, HedgeFund, SWF, Government, Foundation, ThinkTank, University, Agency, Media, Defense, Pharma, SportsClub, Automaker
+**Organization Sublabels**: Forum, Company, Bank, CentralBank, AssetManager, PrivateEquity, HedgeFund, SWF, Government, Foundation, ThinkTank, University, Agency, Media, Defense, Pharma, SportsClub, Automaker, Airline
 
 **Relationships**:
 - `AFFILIATED_WITH`: Person -> Organization (role, from, to, note)

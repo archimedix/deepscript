@@ -39,6 +39,7 @@ org_sublabels:
   - Pharma          # Pfizer, Moderna, Roche, GSK
   - SportsClub      # PSG, Manchester City, AC Milan
   - Automaker       # BMW, Toyota, Stellantis, Geely
+  - Airline         # Delta, Lufthansa, Emirates
 
 # =============================================================================
 # RELATIONSHIP TYPES
@@ -122,6 +123,7 @@ docs_path_mapping:
   Pharma: pharma
   SportsClub: sports-club
   Automaker: automaker
+  Airline: airline
 
 # =============================================================================
 # ENUMS
@@ -351,6 +353,11 @@ type_mapping:
   automaker: Automaker
   auto: Automaker
   automotive: Automaker
+
+  # Airlines
+  airline: Airline
+  compagnia-aerea: Airline
+  aviation: Airline
 
   # Government & Agencies
   government: Government

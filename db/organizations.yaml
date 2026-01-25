@@ -819,6 +819,11 @@ organizations:
     status: active
     sector: private-equity
     note: Aerospace/defense PE, $7.5B AUM, acquired Paragon 2024, portfolio includes BigBear.ai, Redwire
+  aegean-airlines:
+    name: Aegean Airlines
+    type: airline
+    headquarters: Athens, Greece
+    status: active
   aei:
     name: American Enterprise Institute
     type: thinktank
@@ -905,6 +910,20 @@ organizations:
       share: 100
       from: 2023
       note: Acquired for $4.7B
+  aerolineas-argentinas:
+    name: Aerolíneas Argentinas
+    type: airline
+    headquarters: Buenos Aires, Argentina
+    status: active
+    stakeholders:
+    - person: david-cush
+      role: executive
+      note: COO
+  aeromexico:
+    name: Aeroméxico
+    type: airline
+    headquarters: Mexico City, Mexico
+    status: active
   aeromobil:
     name: AeroMobil
     type: company
@@ -1233,6 +1252,21 @@ organizations:
       from: 1990
       to: 1999
       note: Staffer
+  air-canada:
+    name: Air Canada
+    type: airline
+    headquarters: Montreal, Canada
+    status: active
+  air-china:
+    name: Air China
+    type: airline
+    headquarters: Beijing, China
+    status: active
+  air-europa:
+    name: Air Europa
+    type: airline
+    headquarters: Palma de Mallorca, Spain
+    status: active
   air-france-klm:
     name: Air France-KLM
     type: company
@@ -1268,6 +1302,8 @@ organizations:
       role: board
       from: 2020
       note: Independent Director
+    - person: pierre-breber
+      role: board
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -1277,6 +1313,11 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
+  air-new-zealand:
+    name: Air New Zealand
+    type: airline
+    headquarters: Auckland, New Zealand
+    status: active
   airasia:
     name: AirAsia / Capital A
     type: company
@@ -1347,6 +1388,38 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
+  airlines-for-america:
+    name: Airlines for America (A4A)
+    type: thinktank
+    founded: 1936
+    headquarters: Washington D.C., USA
+    status: active
+    stakeholders:
+    - person: robert-isom
+      role: board
+      note: Vice Chair, Board of Directors
+    - person: nicholas-calio
+      role: executive
+      from: 2011
+      to: 2025
+      note: President & CEO
+    - person: chris-sununu
+      role: executive
+      from: 2025
+      note: President & CEO
+    - person: scott-kirby
+      role: chairman
+      note: Board Chairman
+    - org: delta-air-lines
+      role: partner
+      from: 2019
+      note: Member airline, rejoined 2019
+    - org: american-airlines
+      role: partner
+      note: Member airline
+    - org: united-airlines
+      role: partner
+      note: Member airline
   ais:
     name: Advanced Info Service (AIS)
     type: company
@@ -1481,12 +1554,15 @@ organizations:
     headquarters: Doha, Qatar
     status: active
     sector: news, TV
-    note: State-funded Qatar. Founded by Emir. Registered as foreign agent in US 2020
+    note: 90% finanziato da governo Qatar. Strumento soft power.
     stakeholders:
     - person: hamad-bin-thamer
       role: chairman
       from: 1996
       note: Fondatore e Chairman board
+    - person: hamad-bin-khalifa-al-thani
+      role: founder
+      from: 1996
     - org: governo-qatar
       role: owner
       share: ~90%
@@ -1500,6 +1576,19 @@ organizations:
     status: active
     sector: banca islamica
     note: Prima banca islamica commerciale saudita. Maggiore banca islamica al mondo.
+  alaska-airlines:
+    name: Alaska Airlines
+    type: airline
+    founded: 1932
+    headquarters: Seattle, Washington, USA
+    status: active
+    sector: transport
+    stakeholders:
+    - person: nat-pieper
+      role: executive
+      from: 2019
+      to: 2024
+      note: Treasurer, SVP Fleet, Finance & Alliances
   alba:
     name: Aluminium Bahrain (Alba)
     type: company
@@ -1694,6 +1783,11 @@ organizations:
       from: 2014
       to: 2017
       note: Presidente era Etihad
+    - person: glen-hauenstein
+      role: executive
+      from: 2003
+      to: 2005
+      note: Vice General Director, CCO, COO
     - org: iri
       role: parent
       from: 1946
@@ -2145,6 +2239,29 @@ organizations:
       note: 3.8%
     - org: grupo-carso
       role: parent
+  america-west:
+    name: America West Airlines
+    type: airline
+    founded: 1981
+    headquarters: Phoenix, Arizona, USA
+    status: merged
+    sector: transport
+    stakeholders:
+    - person: robert-isom
+      role: executive
+      from: 1995
+      to: 2000
+      note: VP Revenue Management, VP Operations, VP Finance
+    - person: doug-parker
+      role: executive
+      from: 2001
+      to: 2005
+      note: CEO & Chairman
+    - person: scott-kirby
+      role: executive
+      from: 1995
+      to: 2005
+      note: EVP Strategy & Planning
   american-academy-arts-sciences:
     name: American Academy of Arts and Sciences
     type: forum
@@ -2165,6 +2282,58 @@ organizations:
     - person: sandra-peterson
       role: chairman
       note: Chairman of the Board
+  american-airlines:
+    name: American Airlines Group
+    type: airline
+    founded: 1930
+    headquarters: Fort Worth, Texas, USA
+    status: active
+    sector: transport
+    stakeholders:
+    - person: robert-isom
+      role: executive
+      from: 2022
+      note: CEO, President 2016-2022
+    - person: doug-parker
+      role: executive
+      from: 2013
+      to: 2022
+      note: CEO, Chairman 2013-2023
+    - person: gregory-smith
+      role: chairman
+      from: 2023
+      note: Independent Chairman
+    - person: marty-nesbitt
+      role: board
+      from: 2015
+      note: Board of Directors
+    - person: john-cahill
+      role: board
+      from: 2013
+      note: Lead Independent Director 2013-2023
+    - person: susan-kronick
+      role: board
+      from: 2015
+      note: Board of Directors
+    - person: scott-kirby
+      role: executive
+      from: 2013
+      to: 2016
+      note: President
+    - person: nat-pieper
+      role: executive
+      from: 2025
+      note: Chief Commercial Officer
+    - person: david-cush
+      role: executive
+      from: 1987
+      to: 2007
+      note: SVP Global Sales, VP St. Louis Hub, VP International Planning
+    - org: us-airways
+      role: subsidiary
+      from: 2013
+      to: 2015
+      note: Merged 2013, brand retired 2015
   american-ballet-theatre:
     name: American Ballet Theatre
     type: foundation
@@ -2456,6 +2625,11 @@ organizations:
       role: majority-shareholder
       from: 2010
       note: Azionista di maggioranza
+  ana:
+    name: All Nippon Airways
+    type: airline
+    headquarters: Tokyo, Japan
+    status: active
   andreessen-horowitz:
     name: Andreessen Horowitz (a16z)
     type: privateequity
@@ -3164,6 +3338,11 @@ organizations:
       role: member
       from: 1999
       note: Membro fondatore
+  asiana-airlines:
+    name: Asiana Airlines
+    type: airline
+    headquarters: Seoul, South Korea
+    status: active
   asm-international:
     name: ASM International N.V.
     type: company
@@ -3254,6 +3433,11 @@ organizations:
     - person: pan-jian
       role: member
       note: Aspen Global Leadership Network
+    - person: walter-isaacson
+      role: executive
+      from: 2003
+      to: 2018
+      note: President & CEO
     - org: trilaterale
       role: partner
     - org: aspen-romania
@@ -3796,6 +3980,11 @@ organizations:
     stakeholders:
     - person: tim-levene
       role: founder
+  austrian-airlines:
+    name: Austrian Airlines
+    type: airline
+    headquarters: Vienna, Austria
+    status: active
   automobili-pininfarina:
     name: Automobili Pininfarina GmbH
     type: automaker
@@ -3869,6 +4058,11 @@ organizations:
       share: 0.88
       from: 2021
       note: Acquisita da Atlantia per 8.2 miliardi
+  avianca:
+    name: Avianca
+    type: airline
+    headquarters: Bogota, Colombia
+    status: active
   aviva:
     type: company
     founded: 2000
@@ -5611,6 +5805,11 @@ organizations:
       note: Consultant
     - person: devesh-raj
       role: partner
+    - person: james-whitehurst
+      role: partner
+      from: 1989
+      to: 2001
+      note: Partner 2000; Chicago, Hong Kong, Shanghai, Atlanta
     - org: b-capital
       role: partner
       from: 2015
@@ -5675,11 +5874,11 @@ organizations:
   bein-media:
     name: beIN Media Group
     type: media
-    founded: 2014
+    founded: 2012
     headquarters: Doha, Qatar
     status: active
     sector: sports-broadcasting
-    note: Spin-off from Al Jazeera (2014), largest sports rights portfolio globally
+    note: Network sportivo globale, diritti FIFA World Cup 2022 in 24 paesi MENA
     stakeholders:
     - person: nasser-al-khelaifi
       role: chairman
@@ -7071,6 +7270,17 @@ organizations:
       from: 1997
       to: 2010
       note: Founder and CEO
+  blade-air-mobility:
+    name: Blade Air Mobility Inc.
+    type: company
+    founded: 2014
+    headquarters: New York, USA
+    status: active
+    sector: transport
+    stakeholders:
+    - person: edward-philip
+      role: board
+      note: Board of Directors
   blibli:
     name: PT Global Digital Niaga Tbk (Blibli)
     type: company
@@ -7516,6 +7726,11 @@ organizations:
       from: 1997
       to: 2014
       note: President Network & Space Systems
+    - person: gregory-smith
+      role: executive
+      from: 2007
+      to: 2021
+      note: CFO 2020-2021, Interim CEO 2019-2020
   bogasari:
     name: Bogasari Flour Mills
     type: company
@@ -8037,6 +8252,13 @@ organizations:
       from: 2015
       to: 2016
       note: Co-Executive Chairman
+  british-airways:
+    name: British Airways
+    type: airline
+    founded: 1974
+    headquarters: London, United Kingdom
+    status: active
+    sector: transport
   british-american-tobacco:
     name: British American Tobacco
     type: company
@@ -8232,6 +8454,17 @@ organizations:
       role: chairman
       from: 2024
       note: Chancellor
+  brp:
+    name: BRP Inc.
+    type: company
+    founded: 2003
+    headquarters: Valcourt, Quebec, Canada
+    status: active
+    sector: manufacturing
+    stakeholders:
+    - person: edward-philip
+      role: board
+      note: Board of Directors
   bruegel:
     name: Bruegel
     type: thinktank
@@ -8499,6 +8732,15 @@ organizations:
     - person: andrew-liveris
       role: board
       note: Vice Chair, Executive Committee
+    - person: ed-bastian
+      role: member
+    - person: robert-isom
+      role: member
+      from: 2022
+      note: Member as CEO American Airlines
+    - person: scott-kirby
+      role: member
+      note: CEO member
   bvb:
     name: Bucharest Stock Exchange
     type: company
@@ -9105,12 +9347,15 @@ organizations:
     name: Case Western Reserve University
     type: university
     founded: 1826
-    headquarters: Cleveland, USA
+    headquarters: Cleveland, Ohio, USA
     status: active
     stakeholders:
     - person: mark-weinberger
       role: alumni
       note: MBA, JD 1987
+    - person: nicholas-calio
+      role: alumni
+      note: JD 1978
   casinos-austria:
     name: Casinos Austria AG
     type: company
@@ -9165,6 +9410,13 @@ organizations:
     stakeholders:
     - person: rachael-chong
       role: founder
+  cathay-pacific:
+    name: Cathay Pacific
+    type: airline
+    founded: 1946
+    headquarters: Hong Kong
+    status: active
+    sector: transport
   catholic-university-of-america:
     type: thinktank
     headquarters: Washington DC, USA
@@ -9909,6 +10161,9 @@ organizations:
       note: Senior Fellow for Middle Eastern Studies
     - person: peter-bijur
       role: member
+    - person: ed-bastian
+      role: member
+      from: 2019
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -10229,6 +10484,11 @@ organizations:
       from: 2009
       to: 2018
       note: Chairman and CEO
+    - person: pierre-breber
+      role: executive
+      from: 2019
+      to: 2024
+      note: CFO, Vice President
     - org: berkshire-hathaway
       role: stake
   chicago-booth:
@@ -10251,6 +10511,11 @@ organizations:
       role: partner
       from: 2006
       to: 2009
+  china-airlines:
+    name: China Airlines
+    type: airline
+    headquarters: Taipei, Taiwan
+    status: active
   china-construction-bank:
     name: China Construction Bank
     type: bank
@@ -10283,6 +10548,11 @@ organizations:
     - org: safe
       role: shareholder
       note: Via Buttonwood Investment
+  china-eastern:
+    name: China Eastern Airlines
+    type: airline
+    headquarters: Shanghai, China
+    status: active
   china-media-group:
     name: China Media Group
     type: media
@@ -10768,6 +11038,11 @@ organizations:
     - person: andrew-liveris
       role: board
       note: Board member
+    - person: nicholas-calio
+      role: executive
+      from: 2003
+      to: 2011
+      note: EVP Global Government Affairs
     - org: kuwait-investment-authority
       role: shareholder
       share: $3B
@@ -10943,6 +11218,16 @@ organizations:
       role: board
       from: 2011
       note: Vice Chair
+  clorox:
+    name: The Clorox Company
+    type: company
+    headquarters: Oakland, California, USA
+    status: active
+    stakeholders:
+    - person: pierre-breber
+      role: board
+      from: 2024
+      note: Audit Committee, Nominating & Governance Committee
   cloudwalk:
     name: CloudWalk Technology
     type: company
@@ -11240,6 +11525,11 @@ organizations:
       role: journalist
       from: 2001
       note: Anderson Cooper 360
+    - person: walter-isaacson
+      role: executive
+      from: 2001
+      to: 2003
+      note: Chairman & CEO
     - org: warner-bros-discovery
       share: 100%
       from: 2022
@@ -11914,6 +12204,18 @@ organizations:
       from: 1997
       to: 1998
       note: Chairman
+  continental-airlines:
+    name: Continental Airlines
+    type: airline
+    founded: 1934
+    headquarters: Houston, USA
+    status: defunct
+    stakeholders:
+    - person: glen-hauenstein
+      role: executive
+      from: 1987
+      to: 2003
+      note: SVP Network
   continental-oil:
     name: Continental Oil Company
     type: company
@@ -11926,6 +12228,11 @@ organizations:
       role: spinoff
       from: 1911
       note: Antitrust breakup. Part of ConocoPhillips
+  copa-airlines:
+    name: Copa Airlines
+    type: airline
+    headquarters: Panama City, Panama
+    status: active
   copenhagen-infrastructure:
     name: Copenhagen Infrastructure Partners
     type: assetmanager
@@ -11950,6 +12257,9 @@ organizations:
       role: alumni
       to: 1972
       note: BA History and Government
+    - person: pierre-breber
+      role: alumni
+      note: MBA 1989
   corning:
     name: Corning Incorporated
     type: company
@@ -12235,6 +12545,34 @@ organizations:
       from: 2012
       to: 2016
       note: President & CEO
+  cpv:
+    name: Communist Party of Vietnam
+    founded: 1930
+    headquarters: Hanoi, Vietnam
+    stakeholders:
+    - person: to-lam
+      role: leader
+      from: 2024
+      note: General Secretary
+    - person: nguyen-phu-trong
+      role: leader
+      from: 2011
+      to: 2024
+      note: General Secretary
+    - person: ho-chi-minh
+      role: founder
+      from: 1930
+      to: 1969
+    - person: le-duan
+      role: leader
+      from: 1960
+      to: 1986
+      note: General Secretary
+    - person: truong-chinh
+      role: leader
+      from: 1941
+      to: 1956
+      note: Secretary-General
   craft-ventures:
     name: Craft Ventures
     type: privateequity
@@ -12370,6 +12708,11 @@ organizations:
       share: 6.0%
     - org: state-street
       share: 5.0%
+  croatia-airlines:
+    name: Croatia Airlines
+    type: airline
+    headquarters: Zagreb, Croatia
+    status: active
   crossroads-gps:
     name: Crossroads GPS
     type: foundation
@@ -13117,6 +13460,37 @@ organizations:
       from: 1983
       to: 1992
       note: Tax specialist, chartered accountant
+  delta-air-lines:
+    name: Delta Air Lines
+    type: airline
+    founded: 1925
+    headquarters: Atlanta, USA
+    status: active
+    stakeholders:
+    - person: ed-bastian
+      role: executive
+      from: 2016
+      note: CEO
+    - person: david-taylor
+      role: chairman
+      note: Non-Executive Chairman
+    - person: glen-hauenstein
+      role: executive
+      from: 2005
+      to: 2026
+      note: President (2016-2026), EVP CRO (2013-2016), EVP Network (2005-2013)
+    - person: james-whitehurst
+      role: executive
+      from: 2002
+      to: 2007
+      note: SVP Finance 2002, COO 2005-2007
+    - org: blackrock
+      role: stake
+      note: Major institutional shareholder
+    - org: vanguard
+      role: stake
+      share: 0.11
+      note: Largest institutional shareholder
   democrazia-cristiana:
     name: Democrazia Cristiana
     type: party
@@ -14540,6 +14914,11 @@ organizations:
       role: executive
       from: 2024
       note: Director
+  egyptair:
+    name: EgyptAir
+    type: airline
+    headquarters: Cairo, Egypt
+    status: active
   egyptian-armed-forces:
     name: Egyptian Armed Forces
     type: defense
@@ -14782,8 +15161,8 @@ organizations:
     founded: 1977
     headquarters: West Palm Beach, USA
     status: active
-    aum: $70B
-    note: Activist hedge fund, Paul Singer founder
+    aum: $65B
+    note: 'Activist hedge fund, #1 campaigns 2024 (14), founded Paul Singer'
     stakeholders:
     - person: dan-senor
       role: advisor
@@ -14792,6 +15171,17 @@ organizations:
       role: founder
       from: 1977
       note: Founder, President, Co-CEO
+    - person: jonathan-pollock
+      role: executive
+      from: 1989
+      note: Co-CEO, Co-CIO since 1989
+    - person: gordon-singer
+      role: partner
+      note: Managing Partner, London office head
+    - person: jesse-cohn
+      role: partner
+      from: 2004
+      note: Managing Partner, activism lead, ex-Morgan Stanley M&A
   emaar-properties:
     name: Emaar Properties
     type: company
@@ -15603,6 +15993,11 @@ organizations:
       from: 1996
       to: 2001
       note: President
+  ethiopian-airlines:
+    name: Ethiopian Airlines
+    type: airline
+    headquarters: Addis Ababa, Ethiopia
+    status: active
   ethos-water:
     name: Ethos Water
     type: company
@@ -16151,6 +16546,11 @@ organizations:
       from: 2010
       to: 2019
       note: Director
+  eva-air:
+    name: EVA Air
+    type: airline
+    headquarters: Taipei, Taiwan
+    status: active
   excelined:
     name: Foundation for Excellence in Education (ExcelinEd)
     type: foundation
@@ -16615,6 +17015,18 @@ organizations:
     - person: pedro-moreira-salles
       role: chairman
       note: Chairman Brazilian Federation of Banks
+  fed-dallas:
+    name: Federal Reserve Bank of Dallas
+    type: centralbank
+    founded: 1914
+    headquarters: Dallas, Texas, USA
+    status: active
+    stakeholders:
+    - person: herb-kelleher
+      role: chairman
+      from: 2011
+      to: 2013
+      note: Chair of Board of Directors
   federal-reserve:
     name: Federal Reserve
     type: centralbank
@@ -17874,6 +18286,11 @@ organizations:
     - person: gebran-bassil
       role: leader
       from: 2015
+  fpt:
+    name: FPT Corporation
+    type: company
+    founded: 1988
+    headquarters: Hanoi, Vietnam
   franco-nevada:
     name: Franco-Nevada Corporation
     type: company
@@ -18420,6 +18837,11 @@ organizations:
     - org: bbva
       role: controlling
       share: 86%
+  garuda-indonesia:
+    name: Garuda Indonesia
+    type: airline
+    headquarters: Jakarta, Indonesia
+    status: active
   gaslog:
     name: GasLog Ltd
     type: company
@@ -19063,6 +19485,9 @@ organizations:
       role: alumni
       to: 1971
       note: MBA
+    - person: scott-kirby
+      role: alumni
+      note: MS Operations Research
   georgetown:
     name: Georgetown University
     type: university
@@ -19615,6 +20040,9 @@ organizations:
       from: 2008
       to: 2009
       note: Private equity, distressed debt
+    - person: matthew-friend
+      role: banker
+      note: Investment Banking
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -22697,6 +23125,21 @@ organizations:
       role: minister
       from: 2018
       note: Minister of State for Energy Affairs
+    - person: tamim-bin-hamad-al-thani
+      role: emir
+      from: 2013
+    - person: hamad-bin-khalifa-al-thani
+      role: emir
+      from: 1995
+      to: 2013
+    - person: mohammed-bin-abdulrahman-al-thani
+      role: prime-minister
+      from: 2023
+    - person: mohammed-bin-abdulrahman-al-thani
+      role: minister
+      from: 2016
+      to: 2023
+      note: Foreign Minister
   governo-romania:
     name: Governo della Romania
     type: government
@@ -24737,6 +25180,16 @@ organizations:
       from: 2001
       to: 2002
       note: Assistant Secretary of Treasury for Tax Policy
+    - person: nicholas-calio
+      role: advisor
+      from: 2001
+      to: 2003
+      note: Asst to President for Legislative Affairs (G.W. Bush)
+    - person: chris-sununu
+      role: leader
+      from: 2017
+      to: 2025
+      note: Governor of New Hampshire
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -24765,6 +25218,24 @@ organizations:
       from: 2002
       to: 2014
       note: Min. Energy and Petroleum. Also briefly Foreign Minister 2014.
+  governo-vietnam:
+    name: Government of Vietnam
+    type: government
+    founded: 1945
+    headquarters: Hanoi, Vietnam
+    stakeholders:
+    - person: pham-minh-chinh
+      role: leader
+      from: 2021
+      note: Prime Minister
+    - person: luong-cuong
+      role: leader
+      from: 2024
+      note: President
+    - person: tran-thanh-man
+      role: chairman
+      from: 2024
+      note: National Assembly Chairman
   govtech-singapore:
     name: Government Technology Agency
     type: agency
@@ -25780,6 +26251,15 @@ organizations:
     - person: amirul-feisal-wan-zahir
       role: alumni
       note: Advanced Management Program
+    - person: walter-isaacson
+      role: alumni
+      note: BA History & Literature 1974, Signet Society
+    - person: james-whitehurst
+      role: alumni
+      note: MBA 1994
+    - person: edward-philip
+      role: alumni
+      note: MBA
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -27286,6 +27766,19 @@ organizations:
       from: 2001
       to: 2013
       note: Presidente
+  iata:
+    name: International Air Transport Association (IATA)
+    type: agency
+    founded: 1945
+    headquarters: Montreal, Canada
+    status: active
+    stakeholders:
+    - person: robert-isom
+      role: board
+      note: Board of Governors
+    - person: scott-kirby
+      role: board
+      note: Board of Governors
   iberdrola:
     name: Iberdrola S.A.
     type: company
@@ -27363,6 +27856,11 @@ organizations:
     - person: andrew-liveris
       role: board
       note: Board member
+    - person: james-whitehurst
+      role: executive
+      from: 2020
+      to: 2021
+      note: President
   ibra:
     name: Indonesian Bank Restructuring Agency
     type: agency
@@ -29839,6 +30337,13 @@ organizations:
       share: 100%
       from: 1961
       note: Acquired 1961
+  japan-airlines:
+    name: Japan Airlines
+    type: airline
+    founded: 1951
+    headquarters: Tokyo, Japan
+    status: active
+    sector: transport
   jardine-cycle-carriage:
     name: Jardine Cycle & Carriage Limited
     type: company
@@ -30583,6 +31088,11 @@ organizations:
       from: 1996
       to: 2004
       note: Chairman, Chairman Emeritus after
+  kenya-airways:
+    name: Kenya Airways
+    type: airline
+    headquarters: Nairobi, Kenya
+    status: active
   keppel:
     name: Keppel Ltd
     type: company
@@ -31199,6 +31709,11 @@ organizations:
       from: 2007
       to: 2013
       note: IDB Group acquired majority. Merged Koor into DIC 2013.
+  korean-air:
+    name: Korean Air
+    type: airline
+    headquarters: Seoul, South Korea
+    status: active
   kosmos-energy:
     name: Kosmos Energy
     type: company
@@ -31303,6 +31818,10 @@ organizations:
     - person: alexandre-behring
       role: chairman
       from: 2015
+    - person: john-cahill
+      role: executive
+      from: 2015
+      note: Vice Chairman, Chairman & CEO Kraft Foods 2014-2015
   krung-thai-bank:
     name: Krungthai Bank
     type: bank
@@ -32602,6 +33121,11 @@ organizations:
     - person: patrick-soon-shiong
       role: owner
       from: 2018
+  lot-polish:
+    name: LOT Polish Airlines
+    type: airline
+    headquarters: Warsaw, Poland
+    status: active
   lotus:
     name: Lotus Development Corporation
     type: company
@@ -32681,6 +33205,9 @@ organizations:
     - person: amirul-feisal-wan-zahir
       role: alumni
       note: BSc Economics (Accounting and Finance)
+    - person: james-whitehurst
+      role: alumni
+      note: General Course (undergraduate exchange)
   lseg:
     name: London Stock Exchange Group
     type: company
@@ -32899,6 +33426,19 @@ organizations:
       share: 48
       from: 1989
       note: Controlling stake
+  lycos:
+    name: Lycos Inc.
+    type: company
+    founded: 1994
+    headquarters: Waltham, Massachusetts, USA
+    status: acquired
+    sector: technology
+    stakeholders:
+    - person: edward-philip
+      role: founder
+      from: 1996
+      to: 2000
+      note: President, COO, CFO at various times
   lyondellbasell:
     name: LyondellBasell Industries
     type: company
@@ -33178,7 +33718,7 @@ organizations:
     - person: paul-singer
       role: chairman
       from: 2011
-      note: Chairman of the Board
+      note: Long-time chairman of board
   mansour-group:
     name: Mansour Group
     type: company
@@ -34222,6 +34762,15 @@ organizations:
       role: board
       from: 2019
       note: Board of Directors
+  metro-atlanta-chamber:
+    name: Metro Atlanta Chamber of Commerce
+    type: thinktank
+    headquarters: Atlanta, USA
+    status: active
+    stakeholders:
+    - person: ed-bastian
+      role: chairman
+      from: 2021
   metro-pacific:
     name: Metro Pacific Investments Corporation
     type: company
@@ -34459,6 +35008,15 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  michigan-ross:
+    name: University of Michigan Ross School of Business
+    type: university
+    headquarters: Ann Arbor, Michigan, USA
+    status: active
+    stakeholders:
+    - person: robert-isom
+      role: alumni
+      note: MBA 1991
   microsoft:
     name: Microsoft
     type: company
@@ -34639,6 +35197,11 @@ organizations:
       role: executive
       to: 2018
       note: SVP, CTO, CIO - 10 years
+  middle-east-airlines:
+    name: Middle East Airlines
+    type: airline
+    headquarters: Beirut, Lebanon
+    status: active
   midea-group:
     name: Midea Group
     type: company
@@ -34894,6 +35457,9 @@ organizations:
     - person: diane-greene
       role: alumni
       note: MS Naval Architecture 1978, Chair of MIT Corporation 2020
+    - person: chris-sununu
+      role: alumni
+      note: BS Mechanical Engineering
   mitratel:
     name: PT Dayamitra Telekomunikasi Tbk
     type: company
@@ -36693,6 +37259,17 @@ organizations:
     stakeholders:
     - org: paramount-global
       share: 100%
+  nike:
+    name: Nike Inc.
+    type: company
+    founded: 1964
+    headquarters: Beaverton, Oregon, USA
+    status: active
+    sector: retail
+    stakeholders:
+    - person: matthew-friend
+      role: executive
+      note: EVP & CFO
   nio:
     name: NIO Inc
     type: company
@@ -37045,6 +37622,19 @@ organizations:
       from: 2008
       to: 2011
       note: President Northrop Grumman Shipbuilding
+  northwest-airlines:
+    name: Northwest Airlines
+    type: airline
+    founded: 1926
+    headquarters: Eagan, Minnesota, USA
+    status: merged
+    sector: transport
+    stakeholders:
+    - person: robert-isom
+      role: executive
+      from: 1991
+      to: 1995
+      note: VP International, VP Finance
   northwestern-kellogg:
     name: Northwestern University - Kellogg School of Management
     type: university
@@ -37064,6 +37654,15 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 2.0%
+  notre-dame:
+    name: University of Notre Dame
+    type: university
+    headquarters: South Bend, Indiana, USA
+    status: active
+    stakeholders:
+    - person: robert-isom
+      role: alumni
+      note: BS Mechanical Engineering, BA English
   notre-europe:
     name: Notre Europe - Institut Jacques Delors
     type: thinktank
@@ -37553,6 +38152,9 @@ organizations:
     - person: josh-gruenbaum
       role: alumni
       note: JD School of Law, MBA Stern School of Business
+    - person: herb-kelleher
+      role: alumni
+      note: JD 1956, cum laude, Root-Tilden Scholar, Law Review
   nyu-stern:
     name: NYU Stern School of Business
     type: university
@@ -37776,6 +38378,15 @@ organizations:
       from: 1988
       to: 2021
       note: Board of Trustees, Chair 2009-2021
+  ohio-wesleyan:
+    name: Ohio Wesleyan University
+    type: university
+    headquarters: Delaware, Ohio, USA
+    status: active
+    stakeholders:
+    - person: nicholas-calio
+      role: alumni
+      note: BA English 1975, Board of Trustees Chair
   okcoin:
     name: OKCoin
     type: company
@@ -37959,6 +38570,49 @@ organizations:
     - person: justin-rosenstein
       role: founder
       note: Co-founder & Co-director
+  oneworld:
+    name: oneworld Alliance
+    type: forum
+    founded: 1999
+    headquarters: Fort Worth, Texas, USA
+    status: active
+    stakeholders:
+    - person: robert-isom
+      role: chairman
+      note: Governing Board Chairman
+    - person: nat-pieper
+      role: executive
+      from: 2024
+      to: 2025
+      note: CEO
+    - org: qatar-airways
+      role: partner
+      from: 2013
+      note: Member
+    - org: american-airlines
+      role: partner
+      from: 1999
+      note: Founding member
+    - org: british-airways
+      role: partner
+      from: 1999
+      note: Founding member
+    - org: qantas
+      role: partner
+      from: 1999
+      note: Founding member
+    - org: cathay-pacific
+      role: partner
+      from: 1999
+      note: Founding member
+    - org: japan-airlines
+      role: partner
+      from: 2007
+      note: Member
+    - org: alaska-airlines
+      role: partner
+      from: 2021
+      note: Member
   onex:
     name: Onex Corporation
     type: privateequity
@@ -38724,6 +39378,9 @@ organizations:
     - person: sigrid-kaag
       role: alumni
       note: MPhil International Relations 1987, St Antony College
+    - person: walter-isaacson
+      role: alumni
+      note: PPE First Class Honours, Rhodes Scholar, Pembroke College
   oxford-university:
     name: University of Oxford
     type: university
@@ -38764,6 +39421,15 @@ organizations:
       role: member
       from: 1975
       to: 1982
+  paccar:
+    name: PACCAR Inc
+    type: company
+    headquarters: Bellevue, Washington, USA
+    status: active
+    stakeholders:
+    - person: pierre-breber
+      role: board
+      from: 2024
   pace-university:
     name: Pace University
     type: university
@@ -39012,6 +39678,18 @@ organizations:
       share: 5.17%
     - org: vanguard
       share: 3.76%
+  partners-in-health:
+    name: Partners in Health
+    type: foundation
+    founded: 1987
+    headquarters: Boston, Massachusetts, USA
+    status: active
+    stakeholders:
+    - person: edward-philip
+      role: executive
+      from: 2013
+      to: 2017
+      note: COO
   partnership-nyc:
     name: Partnership for New York City
     type: forum
@@ -39326,6 +40004,9 @@ organizations:
       role: chairman
       from: 2019
       note: Chairman & CEO
+    - person: ed-bastian
+      role: executive
+      note: VP Finance Pepsi Cola International, VP Frito-Lay
   perella-weinberg:
     name: Perella Weinberg Partners
     type: bank
@@ -39335,6 +40016,10 @@ organizations:
     stakeholders:
     - person: jorma-ollila
       role: advisor
+      note: Advisory Partner
+    - person: walter-isaacson
+      role: advisor
+      from: 2020
       note: Advisory Partner
   permata-bank:
     name: PT Bank Permata Tbk
@@ -40533,6 +41218,10 @@ organizations:
     - person: ernesto-zedillo
       role: board
       from: 2001
+    - person: robert-isom
+      role: employee
+      to: 1991
+      note: Early career before MBA
   prosus:
     name: Prosus N.V.
     type: company
@@ -40757,6 +41446,9 @@ organizations:
       from: 1997
       to: 2004
       note: Manager, Transaction Advisory Services
+    - person: ed-bastian
+      role: partner
+      note: Audit partner, New York practice
   pzu:
     name: Powszechny Zakład Ubezpieczeń S.A.
     type: company
@@ -40799,17 +41491,45 @@ organizations:
     - person: andree-salim
       role: owner
       note: Main shareholder, Vice Chairman
+  qantas:
+    name: Qantas Airways
+    type: airline
+    founded: 1920
+    headquarters: Sydney, Australia
+    status: active
+    sector: transport
   qatar-airways:
     name: Qatar Airways
     type: company
     founded: 1993
-    headquarters: Doha
+    headquarters: Doha, Qatar
     status: active
+    sector: transport
     stakeholders:
     - person: mohammed-al-sowaidi
       role: board
     - org: qia
       role: subsidiary
+  qatar-foundation:
+    name: Qatar Foundation
+    type: foundation
+    founded: 1995
+    headquarters: Doha, Qatar
+    note: Fondazione per educazione, scienza, sviluppo sociale. Budget €11B/anno
+    stakeholders:
+    - person: moza-bint-nasser
+      role: chairman
+      from: 1995
+  qatar-museums:
+    name: Qatar Museums
+    type: foundation
+    founded: 2005
+    headquarters: Doha, Qatar
+    note: Autorità musei Qatar, €1B/anno in acquisizioni arte
+    stakeholders:
+    - person: al-mayassa-bint-hamad-al-thani
+      role: chairman
+      from: 2011
   qatarenergy:
     name: QatarEnergy
     type: company
@@ -40817,6 +41537,7 @@ organizations:
     headquarters: Doha, QAT
     status: active
     sector: oil-gas
+    note: 'NOC Qatar, ex Qatar Petroleum. LNG: 77 mtpa (2024) -> 142 mtpa (2030)'
     stakeholders:
     - person: saad-al-kaabi
       role: executive
@@ -40855,7 +41576,8 @@ organizations:
     founded: 2005
     headquarters: Doha, Qatar
     status: active
-    aum: 525B
+    aum: 475
+    note: Fondo sovrano Qatar, $475B AUM. Top 10 mondiale.
     stakeholders:
     - person: nicolas-sarkozy
       role: advisor
@@ -40874,6 +41596,9 @@ organizations:
     - person: hassan-al-thawadi
       role: board
       from: 2020
+    - person: tamim-bin-hamad-al-thani
+      role: chairman
+      from: 2013
     - org: volkswagen
       role: stake
       share: 0.17
@@ -40926,15 +41651,19 @@ organizations:
   qsi:
     name: Qatar Sports Investments
     type: swf
-    founded: 2004
+    founded: 2005
     headquarters: Doha, Qatar
     status: active
     sector: sports
+    note: Veicolo investimenti sportivi. PSG (2011), Braga (2022), Premier Padel
     stakeholders:
     - person: nasser-al-khelaifi
       role: chairman
       from: 2011
       note: Chairman QSI
+    - person: tamim-bin-hamad-al-thani
+      role: founder
+      from: 2011
     - org: qia
       role: parent
       share: 100%
@@ -41475,6 +42204,24 @@ organizations:
     headquarters: Tel Aviv, Israel
     status: active
     note: Israeli VC, Paragon investor
+  red-hat:
+    name: Red Hat Inc.
+    type: company
+    founded: 1993
+    headquarters: Raleigh, North Carolina, USA
+    status: acquired
+    sector: technology
+    stakeholders:
+    - person: james-whitehurst
+      role: executive
+      from: 2008
+      to: 2019
+      note: President & CEO
+    - org: ibm
+      role: stake
+      share: 1.0
+      from: 2019
+      note: $34B acquisition
   red-lobster:
     name: Red Lobster
     type: company
@@ -41911,6 +42658,9 @@ organizations:
     - person: lynn-elsenhans
       role: alumni
       note: BA Mathematical Sciences 1978
+    - person: james-whitehurst
+      role: alumni
+      note: BS Computer Science & Economics 1989; Board of Trustees 2019-
   ricehadleygates:
     name: Rice, Hadley, Gates & Manuel LLC
     type: company
@@ -43491,6 +44241,11 @@ organizations:
     stakeholders:
     - org: pif-saudi
       note: Major shareholder
+  saudia:
+    name: Saudia
+    type: airline
+    headquarters: Jeddah, Saudi Arabia
+    status: active
   save-bucharest-association:
     name: Save Bucharest Association (Asociatia Salvati Bucurestiul)
     type: foundation
@@ -44067,6 +44822,20 @@ organizations:
       from: 1996
       to: 2007
       note: CEO; sold to Merck KGaA for $13.3B
+  service-king:
+    name: Service King Collision
+    type: company
+    headquarters: Richardson, Texas, USA
+    status: merged
+    stakeholders:
+    - person: david-cush
+      role: executive
+      from: 2017
+      to: 2022
+      note: CEO
+    - org: blackstone
+      role: stake
+      note: co-owned with Carlyle
   ses:
     name: SES S.A.
     type: company
@@ -44216,6 +44985,11 @@ organizations:
       share: 3.2%
     - org: state-street
       share: 0.9%
+  shenzhen-airlines:
+    name: Shenzhen Airlines
+    type: airline
+    headquarters: Shenzhen, China
+    status: active
   shikun-binui:
     name: Shikun & Binui
     type: company
@@ -44579,6 +45353,10 @@ organizations:
       role: chairman
       from: 2019
       note: Chairman and Managing Partner, joined 2000
+    - person: james-whitehurst
+      role: partner
+      from: 2021
+      note: Managing Director
     - org: mubadala
       role: investor
       note: Minority equity stake
@@ -44586,6 +45364,11 @@ organizations:
     name: Sinclair Oil
     type: company
     founded: 1916
+  singapore-airlines:
+    name: Singapore Airlines
+    type: airline
+    headquarters: Singapore
+    status: active
   singapore-technologies:
     name: Singapore Technologies Engineering
     type: company
@@ -44772,6 +45555,74 @@ organizations:
     - org: comcast
       share: 100%
       from: 2018
+  skyteam:
+    name: SkyTeam
+    type: forum
+    founded: 2000
+    headquarters: Amstelveen, Netherlands
+    status: active
+    stakeholders:
+    - org: sas
+      role: partner
+      from: 2024
+      note: Formerly Star Alliance; joined after Air France-KLM investment
+    - org: air-france-klm
+      role: partner
+      from: 2000
+      note: Air France founding member; KLM joined 2004
+    - org: ita-airways
+      role: partner
+      from: 2021
+      to: 2025
+      note: Left after Lufthansa acquisition; joining Star Alliance 2026
+    - org: delta-air-lines
+      role: partner
+      from: 2000
+      note: Founding member
+    - org: korean-air
+      role: partner
+      from: 2000
+      note: Founding member
+    - org: aeromexico
+      role: partner
+      from: 2000
+      note: Founding member
+    - org: vietnam-airlines
+      role: partner
+      from: 2010
+    - org: china-eastern
+      role: partner
+      from: 2011
+    - org: china-airlines
+      role: partner
+      from: 2011
+    - org: garuda-indonesia
+      role: partner
+      from: 2014
+    - org: saudia
+      role: partner
+      from: 2012
+    - org: middle-east-airlines
+      role: partner
+      from: 2012
+    - org: kenya-airways
+      role: partner
+      from: 2007
+    - org: air-europa
+      role: partner
+      from: 2007
+    - org: tarom
+      role: partner
+      from: 2010
+    - org: aerolineas-argentinas
+      role: partner
+      from: 2012
+    - org: xiamenair
+      role: partner
+      from: 2012
+    - org: virgin-atlantic
+      role: partner
+      from: 2023
   slack:
     name: Slack Technologies
     type: company
@@ -44835,6 +45686,9 @@ organizations:
     - person: robert-dudley
       role: alumni
       note: MBA
+    - person: david-cush
+      role: alumni
+      note: BFA Broadcast/Film, BS Psychology 1982; MBA Cox School 1983
   smurfit-westrock:
     name: Smurfit Westrock
     type: company
@@ -45385,6 +46239,11 @@ organizations:
       share: 4.0%
     - org: state-street
       share: 2.5%
+  south-african-airways:
+    name: South African Airways
+    type: airline
+    headquarters: Johannesburg, South Africa
+    status: active
   southern-copper:
     name: Southern Copper Corporation
     type: company
@@ -45398,6 +46257,60 @@ organizations:
     - org: grupo-mexico
       role: majority
       share: 75
+  southwest-airlines:
+    name: Southwest Airlines
+    type: airline
+    founded: 1967
+    headquarters: Dallas, Texas, USA
+    status: active
+    stakeholders:
+    - person: bob-jordan
+      role: executive
+      from: 2022
+      note: CEO, President, Vice Chairman of Board
+    - person: gary-kelly
+      role: executive
+      from: 2004
+      to: 2024
+      note: CEO 2004-2022, Executive Chairman 2022-2024, Chairman Emeritus
+    - person: herb-kelleher
+      role: founder
+      from: 1967
+      to: 2019
+      note: Co-founder, CEO 1981-2001, Chairman 1978-2008
+    - person: rollin-king
+      role: founder
+      from: 1967
+      to: 2006
+      note: Co-founder, Board member
+    - person: rakesh-gangwal
+      role: board
+      from: 2024
+      note: Chair Jul 2024 - Aug 2025, Chair Fleet Oversight Committee
+    - person: doug-brooks
+      role: chairman
+      from: 2010
+      note: Independent Chair of Board from Aug 2025
+    - person: david-cush
+      role: board
+      from: 2024
+      note: Elliott-nominated director, Finance Committee
+    - person: robert-fornaro
+      role: board
+      from: 2024
+      note: Former CEO Spirit Airlines, AirTran
+    - person: lisa-atherton
+      role: board
+      from: 2024
+    - person: pierre-breber
+      role: board
+      from: 2024
+      note: Elliott-nominated director
+    - org: elliott-management
+      role: stake
+      share: 0.1
+      from: 2024
+      note: Activist stake, board seats Oct 2024
   sovcomflot:
     name: Sovcomflot
     type: company
@@ -45570,6 +46483,16 @@ organizations:
       role: control
       from: 2017
       note: Affiliated to Presidency since Dec 2017
+  st-bonaventure:
+    name: St. Bonaventure University
+    type: university
+    founded: 1858
+    headquarters: Allegany, USA
+    status: active
+    stakeholders:
+    - person: ed-bastian
+      role: alumni
+      note: BBA Accounting 1979
   stada:
     name: STADA Arzneimittel AG
     type: pharma
@@ -45813,6 +46736,105 @@ organizations:
       from: 2004
       to: 2016
       note: Chairman and CEO
+  star-alliance:
+    name: Star Alliance
+    type: forum
+    founded: 1997
+    headquarters: Frankfurt, Germany
+    status: active
+    stakeholders:
+    - person: scott-kirby
+      role: chairman
+      from: 2020
+      note: Chairman Chief Executive Board
+    - org: sas
+      role: partner
+      from: 1997
+      to: 2024
+      note: Founding member; left for SkyTeam after Air France-KLM investment
+    - org: lufthansa
+      role: partner
+      from: 1997
+      note: Founding member
+    - org: brussels-airlines
+      role: partner
+      from: 2009
+    - org: air-india
+      role: partner
+      from: 2014
+    - org: turkish-airlines
+      role: partner
+      from: 2008
+    - org: ita-airways
+      role: partner
+      from: 2026
+      note: Expected to join after leaving SkyTeam; Lufthansa acquisition
+    - org: united-airlines
+      role: partner
+      from: 1997
+      note: Founding member
+    - org: air-canada
+      role: partner
+      from: 1997
+      note: Founding member
+    - org: thai-airways
+      role: partner
+      from: 1997
+      note: Founding member
+    - org: singapore-airlines
+      role: partner
+      from: 2000
+    - org: air-new-zealand
+      role: partner
+      from: 1999
+    - org: ana
+      role: partner
+      from: 1999
+    - org: austrian-airlines
+      role: partner
+      from: 2000
+    - org: air-china
+      role: partner
+      from: 2007
+    - org: ethiopian-airlines
+      role: partner
+      from: 2011
+    - org: south-african-airways
+      role: partner
+      from: 2006
+    - org: egyptair
+      role: partner
+      from: 2008
+    - org: tap-air-portugal
+      role: partner
+      from: 2005
+    - org: swiss
+      role: partner
+      from: 2006
+    - org: eva-air
+      role: partner
+      from: 2013
+    - org: asiana-airlines
+      role: partner
+      from: 2003
+    - org: lot-polish
+      role: partner
+      from: 2003
+    - org: croatia-airlines
+      role: partner
+      from: 2004
+    - org: aegean-airlines
+      role: partner
+      from: 2010
+    - org: avianca
+      role: partner
+      from: 2012
+    - org: copa-airlines
+      role: partner
+      from: 2012
+    - org: shenzhen-airlines
+      role: partner
+      from: 2012
   star-energy:
     name: Star Energy
     type: company
@@ -45851,6 +46873,9 @@ organizations:
       from: 2017
       to: 2024
       note: Board of Directors
+    - person: rosalind-brewer
+      role: executive
+      note: COO & Group President
   stargate-project:
     name: Stargate Project
     type: company
@@ -46157,6 +47182,16 @@ organizations:
       role: alumni
     - person: whitey-basson
       role: alumni
+  stetson:
+    name: Stetson University
+    type: university
+    founded: 1883
+    headquarters: DeLand, USA
+    status: active
+    stakeholders:
+    - person: glen-hauenstein
+      role: alumni
+      note: BBA Finance 1982
   stk:
     name: Suomen Tyonantajain Keskusliitto (STK)
     type: forum
@@ -46748,6 +47783,11 @@ organizations:
     headquarters: La Hulpe, Belgium
     status: Active
     sector: Financial Infrastructure
+  swiss:
+    name: Swiss International Air Lines
+    type: airline
+    headquarters: Basel, Switzerland
+    status: active
   swiss-life:
     name: Swiss Life Holding AG
     type: company
@@ -47007,6 +48047,11 @@ organizations:
     stakeholders:
     - org: snam
       note: Major shareholder
+  tap-air-portugal:
+    name: TAP Air Portugal
+    type: airline
+    headquarters: Lisbon, Portugal
+    status: active
   target:
     name: Target Corporation
     type: company
@@ -47015,6 +48060,11 @@ organizations:
     stakeholders:
     - person: james-johnson
       role: board
+  tarom:
+    name: TAROM
+    type: airline
+    headquarters: Bucharest, Romania
+    status: active
   tata-group:
     name: Tata Group
     type: company
@@ -48031,6 +49081,10 @@ organizations:
       role: board
       from: 2023
       note: Board of Directors
+    - person: lisa-atherton
+      role: executive
+      from: 2023
+      note: CEO, President
   tf1:
     name: Groupe TF1
     type: media
@@ -48042,6 +49096,11 @@ organizations:
     stakeholders:
     - org: bouygues-group
       share: majority
+  thai-airways:
+    name: Thai Airways International
+    type: airline
+    headquarters: Bangkok, Thailand
+    status: active
   thai-beverage:
     name: Thai Beverage Public Company Limited
     type: company
@@ -48370,6 +49429,18 @@ organizations:
       role: founder
       from: 1982
       note: Founder
+  time-magazine:
+    name: TIME Magazine
+    type: media
+    founded: 1923
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: walter-isaacson
+      role: executive
+      from: 1996
+      to: 2001
+      note: Managing Editor (14th editor)
   times-newspapers:
     name: Times Newspapers
     type: media
@@ -49255,6 +50326,17 @@ organizations:
     - person: vannevar-bush
       role: alumni
       note: BS Mathematics 1913, MS Mathematics 1913
+  tulane:
+    name: Tulane University
+    type: university
+    founded: 1834
+    headquarters: New Orleans, USA
+    status: active
+    stakeholders:
+    - person: walter-isaacson
+      role: professor
+      from: 2018
+      note: Professor of History
   tupras:
     name: Tupras - Turkiye Petrol Rafinerileri A.S.
     type: company
@@ -49559,6 +50641,9 @@ organizations:
     - person: nahum-admoni
       role: alumni
       note: International Relations 1950-1954
+    - person: pierre-breber
+      role: alumni
+      note: BS Mechanical Engineering 1986, MS Mechanical Engineering 1987
   uc-santa-cruz:
     name: University of California, Santa Cruz
     type: university
@@ -50120,6 +51205,50 @@ organizations:
     - person: alon-cohen
       role: member
       note: Mamram (central computing)
+  united-airlines:
+    name: United Airlines
+    type: airline
+    founded: 1926
+    headquarters: Chicago, Illinois, USA
+    status: active
+    sector: transport
+    stakeholders:
+    - person: scott-kirby
+      role: executive
+      from: 2020
+      note: CEO
+    - person: walter-isaacson
+      role: board
+      note: Board of Directors
+    - person: james-whitehurst
+      role: board
+      note: Board of Directors
+    - person: edward-philip
+      role: chairman
+      from: 2021
+      note: Chairman of the Board
+    - person: rosalind-brewer
+      role: board
+      note: Board of Directors
+    - person: matthew-friend
+      role: board
+      note: Board of Directors
+    - org: blackrock
+      role: stake
+      share: 0.0476
+      note: Institutional shareholder
+    - org: vanguard
+      role: stake
+      share: 0.1151
+      note: Largest institutional shareholder
+    - org: state-street
+      role: stake
+      share: 0.0354
+      note: Institutional shareholder
+    - org: fidelity
+      role: stake
+      share: 0.043
+      note: Institutional shareholder
   united-defense-industries:
     type: defense
     status: defunct
@@ -50193,6 +51322,10 @@ organizations:
       role: chairman
       from: 2023
       note: Chairman of the Board
+    - person: james-whitehurst
+      role: executive
+      from: 2023
+      note: Interim CEO & Executive Chair
   universal-pictures:
     name: Universal Pictures
     type: media
@@ -50672,6 +51805,37 @@ organizations:
       from: 1978
       to: 1982
       note: BSc Engineering
+    - person: scott-kirby
+      role: alumni
+      note: BS Computer Science & Operations Research 1989
+  us-airways:
+    name: US Airways
+    type: airline
+    founded: 1937
+    headquarters: Tempe, Arizona, USA
+    status: merged
+    sector: transport
+    stakeholders:
+    - person: robert-isom
+      role: executive
+      from: 2007
+      to: 2013
+      note: EVP & COO
+    - person: doug-parker
+      role: executive
+      from: 2005
+      to: 2013
+      note: CEO, Chairman
+    - person: scott-kirby
+      role: executive
+      from: 2006
+      to: 2013
+      note: President
+    - person: rakesh-gangwal
+      role: executive
+      from: 1998
+      to: 2001
+      note: CEO, President
   us-army:
     name: United States Army
     type: government
@@ -50952,6 +52116,12 @@ organizations:
       role: executive
       from: 2024
       note: Founding Director Institute of National Security, Research Professor
+    - person: doug-parker
+      role: alumni
+      note: MBA 1986
+    - person: edward-philip
+      role: alumni
+      note: BS Economics & Mathematics
   vanguard:
     name: Vanguard
     type: assetmanager
@@ -51161,6 +52331,16 @@ organizations:
     type: company
     headquarters: Vienna, Austria
     sector: Insurance
+  vietnam-airlines:
+    name: Vietnam Airlines
+    type: airline
+    headquarters: Hanoi, Vietnam
+    status: active
+  viettel:
+    name: Viettel Group
+    type: company
+    founded: 1989
+    headquarters: Hanoi, Vietnam
   villa-vigoni:
     name: Villa Vigoni
     type: foundation
@@ -51198,6 +52378,24 @@ organizations:
     - org: state-street
       role: shareholder
       share: 1.5
+  vinfast:
+    name: VinFast Auto
+    type: company
+    founded: 2017
+    headquarters: Hai Phong, Vietnam
+    stakeholders:
+    - org: vingroup
+      role: parent
+      note: subsidiary
+  vingroup:
+    name: Vingroup JSC
+    type: company
+    founded: 2007
+    headquarters: Hanoi, Vietnam
+    stakeholders:
+    - person: pham-nhat-vuong
+      role: founder
+      from: 2007
   viola-group:
     name: Viola Group
     type: privateequity
@@ -51209,6 +52407,27 @@ organizations:
     - person: jonathan-kolber
       role: partner
       note: General Partner Viola Private Equity, investor Viola Growth
+  virgin-america:
+    name: Virgin America
+    type: airline
+    founded: 2004
+    headquarters: Burlingame, California, USA
+    status: merged
+    stakeholders:
+    - person: david-cush
+      role: executive
+      from: 2007
+      to: 2016
+      note: CEO, led IPO and sale to Alaska Airlines
+    - org: alaska-airlines
+      role: parent
+      from: 2016
+      note: Acquired for $2.6B
+  virgin-atlantic:
+    name: Virgin Atlantic
+    type: airline
+    headquarters: Crawley, UK
+    status: active
   virginia-commonwealth:
     name: Virginia Commonwealth University
     type: university
@@ -51264,6 +52483,17 @@ organizations:
       role: owner
       share: 100
       from: 2004
+  vistria-group:
+    name: The Vistria Group
+    type: privateequity
+    founded: 2013
+    headquarters: Chicago, Illinois, USA
+    status: active
+    stakeholders:
+    - person: marty-nesbitt
+      role: executive
+      from: 2013
+      note: Co-CEO, Co-Founder
   vitol:
     name: Vitol Group
     type: company
@@ -51667,6 +52897,11 @@ organizations:
       from: 2010
       to: 2018
       note: Board of Directors
+    - person: edward-philip
+      role: executive
+      from: 1991
+      to: 1995
+      note: VP Finance
   walton-enterprises:
     name: Walton Enterprises
     type: company
@@ -53306,6 +54541,16 @@ organizations:
       role: executive
       from: 2019
       note: CEO
+  wesleyan-university:
+    name: Wesleyan University
+    type: university
+    founded: 1831
+    headquarters: Middletown, Connecticut, USA
+    status: active
+    stakeholders:
+    - person: herb-kelleher
+      role: alumni
+      note: BA English & Philosophy 1953, cum laude, Olin Scholar, DKE
   west-point:
     name: United States Military Academy (West Point)
     type: university
@@ -54135,6 +55380,11 @@ organizations:
     - person: vernon-jordan
       role: board
       note: Board of Directors, later Senior Advisor
+  xiamenair:
+    name: XiamenAir
+    type: airline
+    headquarters: Xiamen, China
+    status: active
   xiaomi:
     name: Xiaomi Corporation
     type: company

@@ -228,6 +228,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Indonesia Power Map](indonesia-power-map.md) | 1966-2025 | Oligarchie sino-indonesiane |
 | [Thailand Power Map](thailand-power-map.md) | 1932-2025 | Monarchia, Shinawatra, militari |
 | [Malaysia Power Map](malaysia-power-map.md) | 1957-2025 | UMNO, Mahathir, 1MDB, tycoon sino-malesi |
+| [Vietnam Power Map](vietnam-power-map.md) | 1945-2026 | CPV, Doi Moi, To Lam, Vingroup |
 
 ### Medio Oriente e Nord Africa
 
@@ -240,6 +241,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Saudi Arabia Power Map](saudi-arabia-power-map.md) | 1932-2025 | MBS, Vision 2030, PIF |
 | [UAE Power Map](uae-power-map.md) | 1971-2025 | Abu Dhabi, Dubai, Mubadala |
 | [Bahrain Power Map](bahrain-power-map.md) | 1971-2025 | Al Khalifa, finanza |
+| [Qatar Power Map](qatar-power-map.md) | 1868-2025 | Al Thani, QIA, LNG, soft power |
 | [Lebanon Power Map](lebanon-power-map.md) | 1943-2025 | Confessionalismo, Hezbollah, dinastie |
 | [Turkey Power Map](turkey-power-map.md) | 1923-2025 | Ataturk, Erdogan, neo-ottomanismo |
 | [Siria Power Map](siria-power-map.md) | 1963-2026 | Assad, caduta regime, transizione al-Sharaa |
@@ -305,6 +307,7 @@ Mappe di potere regionali:
 - [Bahrain Power Map](bahrain-power-map.md)
 - [Lebanon Power Map](lebanon-power-map.md)
 - [Siria Power Map](siria-power-map.md)
+- [Vietnam Power Map](vietnam-power-map.md)
 
 ### Report Settoriali
 Analisi di industrie specifiche:
@@ -320,8 +323,8 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 77 |
-| **Power Map geografici** | 42+ |
+| **Report totali** | 79 |
+| **Power Map geografici** | 44+ |
 | **Report tematici/settoriali** | 30+ |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |
@@ -332,7 +335,7 @@ Analisi di industrie specifiche:
 
 | Tema | Suggerimento |
 |------|--------------|
-| **Vietnam** | Report su operazioni CIA Vietnam |
+| ~~**Vietnam**~~ | ~~Report su operazioni CIA Vietnam~~ -> [Vietnam Power Map](vietnam-power-map.md) |
 | **Sud America** | Operation Condor, dittature |
 | **Guerra al Terrore** | Afghanistan, GWOT |
 | ~~**Energia**~~ | ~~Petrolio, nucleare, transizione~~ → [Seven Sisters](seven-sisters.md) |

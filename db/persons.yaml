@@ -657,6 +657,19 @@ persons:
       role: founder
       from: 2004
       note: Co-founder and Chairman
+  al-mayassa-bint-hamad-al-thani:
+    born: 1983
+    nationality: QAT
+    note: Sorella emiro, presidente Qatar Museums, influente collezionista arte
+    affiliations:
+    - org: qatar-museums
+      role: chairman
+      from: 2011
+    relations:
+    - person: hamad-bin-khalifa-al-thani
+      type: daughter
+    - person: moza-bint-nasser
+      type: daughter
   alain-juppe:
     born: 1945
     nationality: FRA
@@ -5027,6 +5040,13 @@ persons:
       from: 2010
       to: 2020
       note: CEO
+  bob-jordan:
+    nationality: USA
+    affiliations:
+    - org: southwest-airlines
+      role: executive
+      from: 2022
+      note: CEO, President, Vice Chairman of Board
   bob-sternfels:
     born: 1966
     nationality: USA
@@ -6756,6 +6776,22 @@ persons:
       role: founder
       from: 2021
       note: Head Mechanistic Interpretability
+  chris-sununu:
+    born: 1974
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: leader
+      from: 2017
+      to: 2025
+      note: Governor of New Hampshire
+    - org: mit
+      role: alumni
+      note: BS Mechanical Engineering
+    - org: airlines-for-america
+      role: executive
+      from: 2025
+      note: President & CEO
   christel-heydemann:
     nationality: FRA
     note: Former BCG Paris. Former Alcatel-Lucent Executive Committee.
@@ -8466,6 +8502,35 @@ persons:
       from: 2017
       to: 2021
       note: Principal
+  david-cush:
+    born: 1960
+    nationality: USA
+    affiliations:
+    - org: smu
+      role: alumni
+      note: BFA Broadcast/Film, BS Psychology 1982; MBA Cox School 1983
+    - org: american-airlines
+      role: executive
+      from: 1987
+      to: 2007
+      note: SVP Global Sales, VP St. Louis Hub, VP International Planning
+    - org: aerolineas-argentinas
+      role: executive
+      note: COO
+    - org: southwest-airlines
+      role: board
+      from: 2024
+      note: Elliott-nominated director, Finance Committee
+    - org: virgin-america
+      role: executive
+      from: 2007
+      to: 2016
+      note: CEO, led IPO and sale to Alaska Airlines
+    - org: service-king
+      role: executive
+      from: 2017
+      to: 2022
+      note: CEO
   david-de-rothschild-fr:
     born: 1942
     nationality: FRA
@@ -8905,6 +8970,12 @@ persons:
     - org: fmsb
       role: advisor
       note: Advisory Council member, Chair Precious Metals Working Group
+  david-taylor:
+    nationality: USA
+    affiliations:
+    - org: delta-air-lines
+      role: chairman
+      note: Non-Executive Chairman
   david-thomson:
     born: 1957
     nationality: CAN-GBR
@@ -9836,6 +9907,13 @@ persons:
       note: mother
   dora-janssen:
     nationality: BEL
+  doug-brooks:
+    nationality: USA
+    affiliations:
+    - org: southwest-airlines
+      role: chairman
+      from: 2010
+      note: Independent Chair of Board from Aug 2025
   doug-hart:
     nationality: USA
     affiliations:
@@ -9859,6 +9937,32 @@ persons:
     - org: walmart
       role: executive
       from: 2014
+  doug-parker:
+    born: 1961
+    nationality: USA
+    affiliations:
+    - org: vanderbilt
+      role: alumni
+      note: MBA 1986
+    - org: american-airlines
+      role: executive
+      from: 2013
+      to: 2022
+      note: CEO, Chairman 2013-2023
+    - org: us-airways
+      role: executive
+      from: 2005
+      to: 2013
+      note: CEO, Chairman
+    - org: america-west
+      role: executive
+      from: 2001
+      to: 2005
+      note: CEO & Chairman
+    relations:
+    - person: robert-isom
+      type: mentor
+      note: Protege at US Airways and American Airlines
   douglas-feith:
     born: 1953
     nationality: USA
@@ -10062,6 +10166,31 @@ persons:
       role: president
       from: 2021
       to: 2024
+  ed-bastian:
+    born: 1957
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: member
+      from: 2019
+    - org: business-roundtable
+      role: member
+    - org: pwc
+      role: partner
+      note: Audit partner, New York practice
+    - org: pepsico
+      role: executive
+      note: VP Finance Pepsi Cola International, VP Frito-Lay
+    - org: delta-air-lines
+      role: executive
+      from: 2016
+      note: CEO
+    - org: st-bonaventure
+      role: alumni
+      note: BBA Accounting 1979
+    - org: metro-atlanta-chamber
+      role: chairman
+      from: 2021
   ed-gillespie:
     born: 1961
     nationality: USA
@@ -10331,6 +10460,40 @@ persons:
       from: 1977
       to: 2014
       note: CEO
+  edward-philip:
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: executive
+      from: 1991
+      to: 1995
+      note: VP Finance
+    - org: harvard
+      role: alumni
+      note: MBA
+    - org: vanderbilt
+      role: alumni
+      note: BS Economics & Mathematics
+    - org: united-airlines
+      role: chairman
+      from: 2021
+      note: Chairman of the Board
+    - org: lycos
+      role: founder
+      from: 1996
+      to: 2000
+      note: President, COO, CFO at various times
+    - org: partners-in-health
+      role: executive
+      from: 2013
+      to: 2017
+      note: COO
+    - org: brp
+      role: board
+      note: Board of Directors
+    - org: blade-air-mobility
+      role: board
+      note: Board of Directors
   edward-rice:
     nationality: USA
     affiliations:
@@ -13456,6 +13619,14 @@ persons:
       role: board
       from: 2025
       note: Lead Independent Director
+  gary-kelly:
+    nationality: USA
+    affiliations:
+    - org: southwest-airlines
+      role: executive
+      from: 2004
+      to: 2024
+      note: CEO 2004-2022, Executive Chairman 2022-2024, Chairman Emeritus
   gary-nagle:
     born: 1975
     nationality: ZAF
@@ -14799,6 +14970,32 @@ persons:
       role: executive
       from: 2023
       note: CEO e Direttore Generale
+  glen-hauenstein:
+    born: 1961
+    nationality: USA
+    affiliations:
+    - org: alitalia
+      role: executive
+      from: 2003
+      to: 2005
+      note: Vice General Director, CCO, COO
+    - org: delta-air-lines
+      role: executive
+      from: 2005
+      to: 2026
+      note: President (2016-2026), EVP CRO (2013-2016), EVP Network (2005-2013)
+    - org: stetson
+      role: alumni
+      note: BBA Finance 1982
+    - org: continental-airlines
+      role: executive
+      from: 1987
+      to: 2003
+      note: SVP Network
+    relations:
+    - person: ed-bastian
+      type: colleague
+      note: Delta leadership duo 2016-2026
   gloria-vanderbilt:
     born: 1924
     died: 2019
@@ -14887,6 +15084,16 @@ persons:
     - person: andy-grove
       type: colleague
       note: 'Intel Trinity: Moore handed CEO to Grove 1987'
+  gordon-singer:
+    nationality: USA
+    affiliations:
+    - org: elliott-management
+      role: partner
+      note: Managing Partner, London office head
+    relations:
+    - person: paul-singer
+      type: family
+      note: son
   grand-duchess-charlotte:
     born: 1896
     died: 1985
@@ -15050,6 +15257,18 @@ persons:
       from: 2020
       to: 2024
       note: CEO, architected RTX merger
+  gregory-smith:
+    nationality: USA
+    affiliations:
+    - org: boeing
+      role: executive
+      from: 2007
+      to: 2021
+      note: CFO 2020-2021, Interim CEO 2019-2020
+    - org: american-airlines
+      role: chairman
+      from: 2023
+      note: Independent Chairman
   gro-harlem-brundtland:
     born: 1939
     nationality: NOR
@@ -15495,6 +15714,18 @@ persons:
       role: leader
       from: 1999
       note: King dal 2002, Emir 1999-2002
+  hamad-bin-khalifa-al-thani:
+    born: 1952
+    nationality: QAT
+    note: Emiro del Qatar 1995-2013, fondatore Al Jazeera
+    affiliations:
+    - org: al-jazeera
+      role: founder
+      from: 1996
+    - org: governo-qatar
+      role: emir
+      from: 1995
+      to: 2013
   hamad-bin-thamer:
     nationality: QAT
     family: al-thani
@@ -16316,6 +16547,31 @@ persons:
     - org: morgan-stanley
       role: founder
       from: 1935
+  herb-kelleher:
+    born: 1931
+    died: 2019
+    nationality: USA
+    affiliations:
+    - org: nyu
+      role: alumni
+      note: JD 1956, cum laude, Root-Tilden Scholar, Law Review
+    - org: southwest-airlines
+      role: founder
+      from: 1967
+      to: 2019
+      note: Co-founder, CEO 1981-2001, Chairman 1978-2008
+    - org: wesleyan-university
+      role: alumni
+      note: BA English & Philosophy 1953, cum laude, Olin Scholar, DKE
+    - org: fed-dallas
+      role: chairman
+      from: 2011
+      to: 2013
+      note: Chair of Board of Directors
+    relations:
+    - person: rollin-king
+      type: associate
+      note: Southwest Airlines co-founders, attorney-client relationship
   herbert-diess:
     born: 1958
     nationality: DEU
@@ -16556,6 +16812,15 @@ persons:
       from: 2004
       to: 2011
       note: Uscita polemica post-Fukushima
+  ho-chi-minh:
+    born: 1890
+    died: 1969
+    nationality: VNM
+    affiliations:
+    - org: cpv
+      role: founder
+      from: 1930
+      to: 1969
   ho-ching:
     born: 1953
     nationality: SGP
@@ -18206,6 +18471,50 @@ persons:
     died: 1969
     nationality: USA
     family: warburg
+  james-whitehurst:
+    born: 1967
+    nationality: USA
+    affiliations:
+    - org: silver-lake
+      role: partner
+      from: 2021
+      note: Managing Director
+    - org: ibm
+      role: executive
+      from: 2020
+      to: 2021
+      note: President
+    - org: lse
+      role: alumni
+      note: General Course (undergraduate exchange)
+    - org: bcg
+      role: partner
+      from: 1989
+      to: 2001
+      note: Partner 2000; Chicago, Hong Kong, Shanghai, Atlanta
+    - org: rice-university
+      role: alumni
+      note: BS Computer Science & Economics 1989; Board of Trustees 2019-
+    - org: harvard
+      role: alumni
+      note: MBA 1994
+    - org: unity-technologies
+      role: executive
+      from: 2023
+      note: Interim CEO & Executive Chair
+    - org: delta-air-lines
+      role: executive
+      from: 2002
+      to: 2007
+      note: SVP Finance 2002, COO 2005-2007
+    - org: united-airlines
+      role: board
+      note: Board of Directors
+    - org: red-hat
+      role: executive
+      from: 2008
+      to: 2019
+      note: President & CEO
   james-wilson:
     born: 1805
     died: 1860
@@ -19465,6 +19774,13 @@ persons:
       from: 2013
       to: 2015
       note: Managing Partner
+  jesse-cohn:
+    nationality: USA
+    affiliations:
+    - org: elliott-management
+      role: partner
+      from: 2004
+      note: Managing Partner, activism lead, ex-Morgan Stanley M&A
   jessica-livingston:
     nationality: USA
     affiliations:
@@ -19992,6 +20308,17 @@ persons:
       from: 1998
       to: 2018
       note: CEO 2011-2017, Chairman 2014-2017
+  john-cahill:
+    nationality: USA
+    affiliations:
+    - org: kraft-heinz
+      role: executive
+      from: 2015
+      note: Vice Chairman, Chairman & CEO Kraft Foods 2014-2015
+    - org: american-airlines
+      role: board
+      from: 2013
+      note: Lead Independent Director 2013-2023
   john-collison:
     nationality: IRL
     affiliations:
@@ -20701,6 +21028,13 @@ persons:
       from: 1984
       to: 1985
       note: Recruited by Rafi Eitan; passed classified documents
+  jonathan-pollock:
+    nationality: USA
+    affiliations:
+    - org: elliott-management
+      role: executive
+      from: 1989
+      note: Co-CEO, Co-CIO since 1989
   jonathan-rothermere:
     born: 1967
     nationality: GBR
@@ -23342,6 +23676,16 @@ persons:
       role: leader
       from: 2024
       note: Prime Minister
+  le-duan:
+    born: 1908
+    died: 1986
+    nationality: VNM
+    affiliations:
+    - org: cpv
+      role: leader
+      from: 1960
+      to: 1986
+      note: General Secretary
   lea-wermelin:
     born: 1985
     nationality: DNK
@@ -24153,6 +24497,16 @@ persons:
       role: founder
       from: 2014
       note: Co-founder, Managing Partner
+  lisa-atherton:
+    nationality: USA
+    affiliations:
+    - org: textron
+      role: executive
+      from: 2023
+      note: CEO, President
+    - org: southwest-airlines
+      role: board
+      from: 2024
   lisa-su:
     born: 1969
     nationality: TWN-USA
@@ -24714,6 +25068,14 @@ persons:
       role: executive
       from: 2017
       note: CCO, CEO from Jan 2026
+  luong-cuong:
+    born: 1957
+    nationality: VNM
+    affiliations:
+    - org: governo-vietnam
+      role: leader
+      from: 2024
+      note: President
   lutfey-siddiqi:
     nationality: GBR
     note: Global Head Emerging Markets UBS Investment Bank. Former Barclays, Deutsche Bank. Adjunct Professor NUS.
@@ -26626,6 +26988,17 @@ persons:
       role: founder
       from: 2000
       note: Fondatore CMI
+  marty-nesbitt:
+    nationality: USA
+    affiliations:
+    - org: american-airlines
+      role: board
+      from: 2015
+      note: Board of Directors
+    - org: vistria-group
+      role: executive
+      from: 2013
+      note: Co-CEO, Co-Founder
   marvin-lender:
     nationality: USA
     affiliations:
@@ -26938,6 +27311,18 @@ persons:
   matthew-freud:
     born: 1963
     nationality: GBR
+  matthew-friend:
+    nationality: USA
+    affiliations:
+    - org: goldman-sachs
+      role: banker
+      note: Investment Banking
+    - org: united-airlines
+      role: board
+      note: Board of Directors
+    - org: nike
+      role: executive
+      note: EVP & CFO
   matti-alahuhta:
     born: 1952
     nationality: FIN
@@ -28493,6 +28878,19 @@ persons:
       role: board
     - org: volkswagen
       role: board
+  mohammed-bin-abdulrahman-al-thani:
+    born: 1980
+    nationality: QAT
+    note: Primo Ministro dal 2023, ex Ministro Esteri
+    affiliations:
+    - org: governo-qatar
+      role: prime-minister
+      from: 2023
+    - org: governo-qatar
+      role: minister
+      from: 2016
+      to: 2023
+      note: Foreign Minister
   mohammed-bin-rashid:
     born: 1949
     nationality: ARE
@@ -28720,6 +29118,17 @@ persons:
       role: minister
       from: 2018
       note: Prime Minister
+  moza-bint-nasser:
+    born: 1959
+    nationality: QAT
+    note: Madre emiro, presidente Qatar Foundation, UNESCO Special Envoy
+    affiliations:
+    - org: qatar-foundation
+      role: chairman
+      from: 1995
+    relations:
+    - person: hamad-bin-khalifa-al-thani
+      type: spouse
   mugur-isarescu:
     born: 1949
     nationality: ROU
@@ -29370,6 +29779,23 @@ persons:
     - org: governo-bahrain
       role: advisor
       note: National Security Advisor
+  nat-pieper:
+    nationality: USA
+    affiliations:
+    - org: american-airlines
+      role: executive
+      from: 2025
+      note: Chief Commercial Officer
+    - org: oneworld
+      role: executive
+      from: 2024
+      to: 2025
+      note: CEO
+    - org: alaska-airlines
+      role: executive
+      from: 2019
+      to: 2024
+      note: Treasurer, SVP Fleet, Finance & Alliances
   nat-rothschild:
     born: 1971
     nationality: GBR
@@ -29641,6 +30067,16 @@ persons:
       role: board
       from: 2009
       note: Honorary Fellow St Antonys, Chair Middle East Centre Advisory Board 2015, Kirdar Building named 2017
+  nguyen-phu-trong:
+    born: 1944
+    died: 2024
+    nationality: VNM
+    affiliations:
+    - org: cpv
+      role: leader
+      from: 2011
+      to: 2024
+      note: General Secretary
   niall-dunne:
     nationality: GBR
     note: Chief Sustainability Officer BT Group. Vice-chair WEF GAC Sustainable Consumption. Non-Executive Director Collectively.
@@ -29658,6 +30094,31 @@ persons:
       from: 2014
       to: 2024
       note: Chair International Advisory Board
+  nicholas-calio:
+    born: 1953
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2001
+      to: 2003
+      note: Asst to President for Legislative Affairs (G.W. Bush)
+    - org: citigroup
+      role: executive
+      from: 2003
+      to: 2011
+      note: EVP Global Government Affairs
+    - org: case-western
+      role: alumni
+      note: JD 1978
+    - org: airlines-for-america
+      role: executive
+      from: 2011
+      to: 2025
+      note: President & CEO
+    - org: ohio-wesleyan
+      role: alumni
+      note: BA English 1975, Board of Trustees Chair
   nicholas-wahl:
     nationality: USA
     affiliations:
@@ -31836,7 +32297,7 @@ persons:
     - org: manhattan-institute
       role: chairman
       from: 2011
-      note: Chairman of the Board
+      note: Long-time chairman of board
     - org: fdd
       role: member
       from: 2008
@@ -32595,6 +33056,21 @@ persons:
       from: 1987
       to: 1992
       note: Head Money Markets Trading London, Head Provincial Bond Trading Canada
+  pham-minh-chinh:
+    born: 1958
+    nationality: VNM
+    affiliations:
+    - org: governo-vietnam
+      role: leader
+      from: 2021
+      note: Prime Minister
+  pham-nhat-vuong:
+    born: 1968
+    nationality: VNM
+    affiliations:
+    - org: vingroup
+      role: founder
+      from: 2007
   phebe-novakovic:
     born: 1957
     nationality: USA
@@ -32888,6 +33364,34 @@ persons:
       role: board
       from: 1988
       note: Vice Chairman, 10.48% shareholder
+  pierre-breber:
+    born: 1964
+    nationality: USA-CAN
+    affiliations:
+    - org: chevron
+      role: executive
+      from: 2019
+      to: 2024
+      note: CFO, Vice President
+    - org: air-liquide
+      role: board
+    - org: cornell-university
+      role: alumni
+      note: MBA 1989
+    - org: uc-berkeley
+      role: alumni
+      note: BS Mechanical Engineering 1986, MS Mechanical Engineering 1987
+    - org: southwest-airlines
+      role: board
+      from: 2024
+      note: Elliott-nominated director
+    - org: paccar
+      role: board
+      from: 2024
+    - org: clorox
+      role: board
+      from: 2024
+      note: Audit Committee, Nominating & Governance Committee
   pierre-gemayel-jr:
     born: 1972
     died: 2006
@@ -33938,6 +34442,18 @@ persons:
       from: 2010
       to: 2015
       note: Administrator
+  rakesh-gangwal:
+    nationality: USA-IND
+    affiliations:
+    - org: us-airways
+      role: executive
+      from: 1998
+      to: 2001
+      note: CEO, President
+    - org: southwest-airlines
+      role: board
+      from: 2024
+      note: Chair Jul 2024 - Aug 2025, Chair Fleet Oversight Committee
   ralph-hamers:
     nationality: NLD
     affiliations:
@@ -35020,6 +35536,13 @@ persons:
     - org: freeport-mcmoran
       role: board
       note: Board member
+  robert-fornaro:
+    nationality: USA
+    affiliations:
+    - org: southwest-airlines
+      role: board
+      from: 2024
+      note: Former CEO Spirit Airlines, AirTran
   robert-gabriel:
     nationality: USA
     affiliations:
@@ -35066,6 +35589,52 @@ persons:
       from: 2021
       to: 2025
       note: First CEO/Executive Director
+  robert-isom:
+    born: 1967
+    nationality: USA
+    affiliations:
+    - org: business-roundtable
+      role: member
+      from: 2022
+      note: Member as CEO American Airlines
+    - org: procter-gamble
+      role: employee
+      to: 1991
+      note: Early career before MBA
+    - org: american-airlines
+      role: executive
+      from: 2022
+      note: CEO, President 2016-2022
+    - org: notre-dame
+      role: alumni
+      note: BS Mechanical Engineering, BA English
+    - org: michigan-ross
+      role: alumni
+      note: MBA 1991
+    - org: oneworld
+      role: chairman
+      note: Governing Board Chairman
+    - org: us-airways
+      role: executive
+      from: 2007
+      to: 2013
+      note: EVP & COO
+    - org: airlines-for-america
+      role: board
+      note: Vice Chair, Board of Directors
+    - org: iata
+      role: board
+      note: Board of Governors
+    - org: northwest-airlines
+      role: executive
+      from: 1991
+      to: 1995
+      note: VP International, VP Finance
+    - org: america-west
+      role: executive
+      from: 1995
+      to: 2000
+      note: VP Revenue Management, VP Operations, VP Finance
   robert-kagan:
     born: 1958
     nationality: USA
@@ -35770,6 +36339,16 @@ persons:
       role: executive
       from: 2014
       note: CEO
+  rollin-king:
+    born: 1931
+    died: 2014
+    nationality: USA
+    affiliations:
+    - org: southwest-airlines
+      role: founder
+      from: 1967
+      to: 2006
+      note: Co-founder, Board member
   rolly-van-rappard:
     nationality: NLD
     affiliations:
@@ -35884,6 +36463,15 @@ persons:
       from: 2011
       to: 2014
       note: CEO 2011-2014, won PlayStation/Xbox contracts
+  rosalind-brewer:
+    nationality: USA
+    affiliations:
+    - org: starbucks
+      role: executive
+      note: COO & Group President
+    - org: united-airlines
+      role: board
+      note: Board of Directors
   rose-damen:
     nationality: NLD
     affiliations:
@@ -36926,6 +37514,48 @@ persons:
       role: board
     - org: tempus-ai
       role: board
+  scott-kirby:
+    born: 1967
+    nationality: USA
+    affiliations:
+    - org: business-roundtable
+      role: member
+      note: CEO member
+    - org: us-air-force-academy
+      role: alumni
+      note: BS Computer Science & Operations Research 1989
+    - org: george-washington-university
+      role: alumni
+      note: MS Operations Research
+    - org: american-airlines
+      role: executive
+      from: 2013
+      to: 2016
+      note: President
+    - org: us-airways
+      role: executive
+      from: 2006
+      to: 2013
+      note: President
+    - org: airlines-for-america
+      role: chairman
+      note: Board Chairman
+    - org: iata
+      role: board
+      note: Board of Governors
+    - org: america-west
+      role: executive
+      from: 1995
+      to: 2005
+      note: EVP Strategy & Planning
+    - org: united-airlines
+      role: executive
+      from: 2020
+      note: CEO
+    - org: star-alliance
+      role: chairman
+      from: 2020
+      note: Chairman Chief Executive Board
   scott-mcnealy:
     born: 1954
     nationality: USA
@@ -39225,6 +39855,13 @@ persons:
       role: chairman
       from: 2023
       note: Chairman post-merger
+  susan-kronick:
+    nationality: USA
+    affiliations:
+    - org: american-airlines
+      role: board
+      from: 2015
+      note: Board of Directors
   susan-rice:
     born: 1964
     nationality: USA
@@ -39401,6 +40038,27 @@ persons:
       role: executive
       from: 2022
       note: Governor
+  tamim-bin-hamad-al-thani:
+    born: 1980
+    nationality: QAT
+    note: Emiro del Qatar dal 2013
+    affiliations:
+    - org: qia
+      role: chairman
+      from: 2013
+    - org: qsi
+      role: founder
+      from: 2011
+    - org: governo-qatar
+      role: emir
+      from: 2013
+    relations:
+    - person: al-mayassa-bint-hamad-al-thani
+      type: sibling
+    - person: hamad-bin-khalifa-al-thani
+      type: son
+    - person: moza-bint-nasser
+      type: son
   tamir-pardo:
     born: 1953
     nationality: ISR
@@ -40388,6 +41046,14 @@ persons:
     - org: anglogold-ashanti
       role: chairman
       from: 2010
+  to-lam:
+    born: 1957
+    nationality: VNM
+    affiliations:
+    - org: cpv
+      role: leader
+      from: 2024
+      note: General Secretary
   todd-boehly:
     born: 1973
     nationality: USA
@@ -40777,6 +41443,14 @@ persons:
       from: 2004
       to: 2014
       note: Presidente della Romania
+  tran-thanh-man:
+    born: 1962
+    nationality: VNM
+    affiliations:
+    - org: governo-vietnam
+      role: chairman
+      from: 2024
+      note: National Assembly Chairman
   trevor-blackwell:
     nationality: USA
     affiliations:
@@ -40822,6 +41496,19 @@ persons:
       from: 1996
       to: 2007
       note: SVP Finance & Risk
+  truong-chinh:
+    born: 1907
+    died: 1988
+    nationality: VNM
+    affiliations:
+    - org: cpv
+      role: leader
+      from: 1941
+      to: 1956
+      note: Secretary-General
+  truong-my-lan:
+    born: 1957
+    nationality: VNM
   tshepo-motsepe:
     nationality: ZAF
     note: First Lady Sudafrica dal 2018, medico, sorella Patrice Motsepe
@@ -42044,6 +42731,42 @@ persons:
       from: 1969
       to: 1972
       note: Deputato Bundestag
+  walter-isaacson:
+    born: 1952
+    nationality: USA
+    affiliations:
+    - org: aspen-institute
+      role: executive
+      from: 2003
+      to: 2018
+      note: President & CEO
+    - org: cnn
+      role: executive
+      from: 2001
+      to: 2003
+      note: Chairman & CEO
+    - org: perella-weinberg
+      role: advisor
+      from: 2020
+      note: Advisory Partner
+    - org: harvard
+      role: alumni
+      note: BA History & Literature 1974, Signet Society
+    - org: oxford
+      role: alumni
+      note: PPE First Class Honours, Rhodes Scholar, Pembroke College
+    - org: united-airlines
+      role: board
+      note: Board of Directors
+    - org: tulane
+      role: professor
+      from: 2018
+      note: Professor of History
+    - org: time-magazine
+      role: executive
+      from: 1996
+      to: 2001
+      note: Managing Editor (14th editor)
   walter-rauff:
     born: 1906
     died: 1984

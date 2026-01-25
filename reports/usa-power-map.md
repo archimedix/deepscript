@@ -631,6 +631,25 @@ Miebach e' anche nel **WEF International Business Council** e board **IBM** - in
 
 **Implicazione critica:** I Big Three sono tra i maggiori azionisti di ENTRAMBE le aziende del duopolio. Questo common ownership riduce incentivi alla competizione - perché competere aggressivamente se gli stessi proprietari possiedono entrambi?
 
+#### Big Three Ownership: Oligopolio Airline USA
+
+Lo stesso pattern si replica nel settore aereo. Le quattro major airline USA sono tutte possedute dagli stessi asset manager:
+
+| Asset Manager | [Delta](../docs/airline/delta-air-lines.md) | [United](../docs/airline/united-airlines.md) | [Southwest](../docs/airline/southwest-airlines.md) | Pattern |
+|---------------|-------|--------|-----------|---------|
+| [Vanguard](../docs/asset-manager/vanguard.md) | ~11% | 11.51% | ~10% | Top shareholder tutte e tre |
+| [BlackRock](../docs/asset-manager/blackrock.md) | ~7% | 4.76% | ~7% | Top-5 shareholder tutte |
+| [State Street](../docs/asset-manager/state-street.md) | - | 3.54% | - | Significant in United |
+| **Totale Big Three** | **~18%** | **~20%** | **~17%** | **Stesso blocco controlla i "concorrenti"** |
+
+**Connessioni Elite:**
+- **Ed Bastian** (Delta CEO): [CFR](../docs/think-tank/cfr.md) dal 2019, [Business Roundtable](../docs/think-tank/business-roundtable.md), TIME100 2025
+- **Scott Kirby** (United CEO): [Business Roundtable](../docs/think-tank/business-roundtable.md), Chairman [Airlines for America (A4A)](../docs/think-tank/airlines-for-america.md), Chairman [Star Alliance](../docs/forum/star-alliance.md) CEB
+
+**Crossover unico Delta-United:** [James Whitehurst](../docs/persons/james-whitehurst.md) e' l'unico executive con ruoli C-suite in entrambi i competitor - COO Delta (2005-2007), board United (2021-). Pattern: Delta → Red Hat CEO → IBM President → Silver Lake MD → United board.
+
+**Activist PE:** [Elliott Management](../docs/private-equity/elliott-management.md) ha acquisito ~10% di Southwest (2024), ottenendo 5 board seats e forzando trasformazione radicale (fine del modello no-posti-assegnati dopo 53 anni).
+
 #### Industrial → Finance Governance (Lundgren)
 
 John Lundgren rappresenta un pattern emergente: **CEO industriale → Chairman finance**:
@@ -1543,6 +1562,8 @@ Il potere USA opera attraverso:
 34. **Smantellamento Istituzioni**: USAID (64 anni, $35B) smantellata in 6 mesi da Rubio - fine soft power development
 35. **Esperimenti Tecnocratici Falliti**: DOGE prometteva $2T tagli, spesa aumentata FY2025 - workforce reduction senza efficienza
 36. **Tech Billionaire Anti-Establishment**: Musk pattern (no Bilderberg, no WEF, antagonistic) vs Nadella (fully integrated)
+37. **Airline Oligopoly Common Ownership**: Big Three possiedono ~18-20% di Delta, United, Southwest - stesso pattern Visa/Mastercard. CEO in CFR (Bastian) e Business Roundtable (Kirby). Elliott activism forza trasformazione Southwest.
+38. **Aviation Crossover Unico**: James Whitehurst (COO Delta → board United) - unico executive C-suite in entrambi i competitor, ora Silver Lake MD
 
 ### Nuovo Pattern: Otto Tipi di Potere
 
