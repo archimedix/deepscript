@@ -4,7 +4,7 @@
 
 **Organizzazioni UK presenti**: 100+ entità con sede a Londra/UK
 **Persone britanniche (GBR)**: ~100 persone
-**Aggiornamento**: Documentato FMSB (Financial Markets Standards Board - post-LIBOR standard-setter). Aggiunto World Gold Council (HQ Londra). Documentati David Tait (CEO WGC, ex-Goldman/CS/UBS, FMSB Chair PM WG, MBE) e Jonathan Moulds (Chairman FMSB, ex-BofA, ex-Barclays). Pattern chiave: "Industry-Led Regulation" e "London Gold Hub Nexus"
+**Aggiornamento**: Aggiunto IAG (International Airlines Group, HQ Londra) e British Airways. Documentata struttura gruppo IAG con Javier Ferrán (Chairman) e Luis Gallego (CEO). Qatar Airways 25.1% stake - esempio di Gulf capital in UK aviation
 
 ---
 
@@ -809,6 +809,60 @@ Scheda completa: `docs/persons/david-cameron.md`
 
 ---
 
+### 10. AVIATION - IAG (HQ Londra)
+
+#### International Airlines Group - DOCUMENTATO
+
+**Maggiore gruppo aereo europeo con HQ a Londra**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 2011 (fusione BA-Iberia) |
+| Sede legale | Madrid |
+| Sede operativa | **London, UK** |
+| Chairman | Javier Ferrán |
+| CEO | Luis Gallego |
+| Flotta | ~600 aerei |
+| Passeggeri/anno | ~122 milioni |
+
+**Compagnie controllate (100%)**:
+| Compagnia | Paese | Hub |
+|-----------|-------|-----|
+| **British Airways** | UK | London Heathrow |
+| Iberia | Spain | Madrid |
+| Aer Lingus | Ireland | Dublin |
+| Vueling | Spain | Barcelona |
+| LEVEL | Spain | Barcelona |
+
+**Azionariato IAG**:
+| Azionista | Quota | Note |
+|-----------|-------|------|
+| **Qatar Airways** | **25.1%** | Largest shareholder dal 2015 |
+| Free float | ~75% | LSE, BME |
+
+**Leadership**:
+| Ruolo | Nome | Background |
+|-------|------|------------|
+| Chairman | javier-ferran | Ex-Diageo Chairman, ESADE alumni |
+| CEO | luis-gallego | Ex-Iberia CEO, IATA Board Chair 2025 |
+| CEO British Airways | sean-doyle | Ex-Aer Lingus CEO |
+
+**Pattern Gulf Money in UK Aviation**:
+- 2015: Qatar Airways entra con 10% (€1.2B)
+- 2020: Sale al 25% ($600M addizionali)
+- 2024-25: Partecipa a share buyback per mantenere 25.1%
+
+**Differenza con Telegraph**: UK **accetta** capitale Qatar in aviation (25% IAG) ma **blocca** capitale UAE in media (Telegraph). Settore strategico diversamente trattato.
+
+**Cross-connection con UK Establishment**:
+| Persona | Ruolo IAG | Altri ruoli UK |
+|---------|-----------|----------------|
+| Javier Ferrán | Chairman | Ex-Chairman Diageo (spirits UK) |
+
+**Schede**: `docs/company/iag.md`, `docs/airline/british-airways.md`
+
+---
+
 ## CONNESSIONI GLOBALI (da DB)
 
 ### UK → USA (Finance & Media Revolving Door)
@@ -835,12 +889,13 @@ Scheda completa: `docs/persons/david-cameron.md`
 | Barclays ← Sheikh Mansour (IPIC) | Rescue | 2008 | **Approvato** |
 | Manchester City ← ADUG (Abu Dhabi) | Sport ownership | 2008 | **Approvato** |
 | Newcastle United ← PIF Saudi | Sport ownership | 2021 | **Approvato** |
+| **IAG ← Qatar Airways** | **Aviation stake** | **2015-** | **Approvato (25.1%)** |
 | Telegraph ← RedBird IMI (UAE) | Media acquisition | 2023-24 | **BLOCCATO** |
 | Selfridges ← PIF Saudi | Retail | 2024 | Approvato |
 | LIV Golf ← PIF Saudi | Sport | 2022 | Approvato |
 
-**Pattern critico 2024**:
-- UK **accetta** capitale Gulf in: banche (rescue 2008), sport (City, Newcastle), retail (Selfridges)
+**Pattern critico 2024-2025**:
+- UK **accetta** capitale Gulf in: banche (rescue 2008), sport (City, Newcastle), retail (Selfridges), **aviation (IAG 25%)**
 - UK **blocca** capitale Gulf in: **media** (Telegraph) → Digital Markets Act 2024
 
 **Legislazione storica**: Il tentativo UAE di acquisire Telegraph ha innescato il Digital Markets, Competition and Consumers Act 2024 che vieta foreign state ownership di giornali britannici
@@ -1463,6 +1518,8 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 | **bloomberg** | **Completato** | Media empire $60-70B, 350K terminals, Micklethwait EIC dal 2015 |
 | **andrew-knight** | **Completato** | Economist Editor → Telegraph CEO → News Corp → Bilderberg Steering 18 anni → Rothschild |
 | **hsbc** | **Completato** | Oppio origins 1865, $3.1T assets, cartels $1.9B fine, Swiss Leaks, Big Three 13.5% |
+| **iag** | **Completato** | International Airlines Group, HQ Londra, BA parent, Qatar Airways 25.1% |
+| **british-airways** | **Completato** | UK flag carrier, IAG subsidiary, Sean Doyle CEO |
 | **stephen-green** | **Completato** | HSBC CEO/Chairman → Baron → Minister Trade 2011-13; Swiss Leaks durante mandato; prete-banchiere paradosso |
 | **douglas-flint** | **Completato** | HSBC CFO/Chairman → BP board → IIF Chairman → Abrdn → IP Group → Hakluyt → Belt Road Envoy |
 | **fmsb** | **Completato** | Financial Markets Standards Board - post-LIBOR/FX standard-setter, industry-led, BoE/FCA creation 2015 |
@@ -1555,6 +1612,7 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 51. **USA Bank → UK Bank → Standard-Setter Pipeline** - Jonathan Moulds: Bank of America (CEO Merrill Lynch Intl) → Barclays (COO) → FMSB (Chairman). Pattern di ex-banker che poi scrivono regole
 52. **Finance → Commodities Industry Association** - David Tait: 35 anni trading (Goldman, CS, UBS, BlueCrest) → CEO trade association (WGC). Trading floor expertise → industry governance
 53. **Survivor CEO Model** - David Tait: trauma personale (abusi infantili) trasformato in advocacy (NSPCC, Everest) che coesiste con carriera ai vertici finanza. Soft power (storia) + hard power (ruoli)
+54. **Qatar Aviation Stake Pattern** - Qatar Airways 25.1% in IAG (BA parent) accettato senza ostacoli, mentre UAE bloccato sui media. Aviation = settore strategico trattato diversamente da media
 
 ### Fonti chiave:
 - [Elitist Britain 2025](https://www.suttontrust.com/our-research/elitist-britain-2025/) - Sutton Trust
@@ -1586,4 +1644,4 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 
 ---
 
-*Ultimo aggiornamento: 11 Gennaio 2026 - Documentato FMSB (Financial Markets Standards Board - post-LIBOR/FX standard-setter, industry-led). Aggiunto World Gold Council (HQ Londra, 30 membri, trade association oro globale). Documentati David Tait (CEO WGC, ex-Goldman/CS/UBS/BlueCrest, FMSB PM WG Chair, MBE, survivor) e Jonathan Moulds (Chairman FMSB, ex-CEO Merrill Lynch Intl, ex-COO Barclays). Nuovi pattern 49-53: FMSB Industry-Led Regulation, London Gold Hub Nexus, USA Bank → UK Bank → Standard-Setter Pipeline, Finance → Commodities transition, Survivor CEO Model.*
+*Ultimo aggiornamento: 25 Gennaio 2026 - Aggiunta sezione Aviation con IAG (International Airlines Group, HQ Londra) e British Airways. Documentato Qatar Airways 25.1% stake come esempio di Gulf money in UK aviation (pattern 54). Cross-reference con pattern Gulf States: aviation accettato, media bloccato.*

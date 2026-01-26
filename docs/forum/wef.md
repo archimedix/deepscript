@@ -406,6 +406,160 @@ Paesi con >30 YGL: Cina, Germania, India, Giappone, Singapore, Svizzera, UK, USA
 
 ---
 
+## Annual Meeting Davos 2026
+
+### Dati
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Date | 19-23 gennaio 2026 |
+| Location | Davos-Klosters, Svizzera |
+| Tema | **"A Spirit of Dialogue"** |
+| Partecipanti | ~3,000 da 130+ paesi |
+| Capi di Stato/Governo | **65** (record storico) |
+| Leader politici | **400+** (record) |
+| CEO e Chairman | **830** |
+
+> Record storico di partecipazione governativa. 6 leader G7 presenti.
+
+### Contesto Geopolitico
+
+Davos 2026 si e' svolto in un momento di **tensioni senza precedenti** tra USA e alleati:
+- **Crisi Groenlandia**: Trump minaccia tariffe su 8 paesi europei per forzare l'acquisto
+- **Frammentazione geoeconomica**: segnalata come rischio #1 nel Global Risks Report 2026
+- **Polarizzazione sociale**: sale al #2 nel ranking dei rischi globali
+- **Transizione tecnologica**: AI, quantum computing, biotecnologie ridefiniscono economia e lavoro
+
+### Discorsi Chiave
+
+#### Mark Carney - PM Canada (20 gennaio)
+
+Discorso **"Principled and Pragmatic: Canada's Path"** - definito il piu' importante discorso di politica estera canadese dal 1947.
+
+**Tesi centrale**: L'ordine mondiale guidato dagli USA e' finito. Le potenze medie devono coalizzarsi.
+
+> "The old order is not coming back. We should not mourn it. Nostalgia is not a strategy. But from the fracture, we can build something better, stronger and more just."
+
+> "Great powers can afford to go it alone... Middle powers do not. But when we only negotiate bilaterally with a hegemon, we negotiate from weakness."
+
+**Reazione Trump** (21 gennaio): "Canada lives because of the United States... they should be grateful to us."
+
+**Risposta Carney**: "Canada doesn't live because of the United States."
+
+#### Donald Trump - Presidente USA (21 gennaio)
+
+- Annuncia minaccia tariffe 10% (poi 25%) su Danimarca, Norvegia, Svezia, Francia, Germania, UK, Olanda, Finlandia fino all'acquisto della Groenlandia
+- Poi sospende le tariffe citando "concept of a deal" con NATO su Groenlandia
+- Critica l'Europa: "Certain places in Europe are not recognizable anymore"
+- Alza tariffe sulla Svizzera al 39% dopo call con Keller-Sutter
+- Dichiara: "I won't use force" per la Groenlandia
+
+#### Ursula von der Leyen - Presidente Commissione UE (20 gennaio)
+
+Tema: **"Indipendenza Europea"** come necessita' strategica.
+
+> "We now live in a world defined by raw power. It is imperative for Europe to speed up our push for independence."
+
+**Annunci:**
+- **Accordo EU-Mercosur** firmato (17 gennaio) - piu' grande zona di libero scambio al mondo
+- **Accordo EU-India** "on the cusp" - mercato di 2 miliardi di persone, 25% PIL globale
+- **€90 miliardi** di prestito all'Ucraina per 2026-2027
+
+> "Europe prefers dialogue and solutions, but we are fully prepared to act if necessary with unity, urgency and determination."
+
+#### Volodymyr Zelenskyy - Presidente Ucraina
+
+Messaggio all'Europa: smettere di cercare di "cambiare" Trump, adattarsi alla nuova realta'.
+
+### Partecipanti Notabili
+
+**Capi di Stato/Governo (65):**
+- **Donald Trump** (USA) - con delegazione: Rubio, Bessent, Witkoff, Kushner
+- **Mark Carney** (Canada)
+- **Emmanuel Macron** (Francia)
+- **Friedrich Merz** (Germania) - nuovo Cancelliere
+- **Javier Milei** (Argentina)
+- **Prabowo Subianto** (Indonesia)
+- **Volodymyr Zelenskyy** (Ucraina)
+- **Isaac Herzog** (Israele)
+- **Ursula von der Leyen** (Commissione UE)
+
+**Assenti notevoli:**
+- Xi Jinping (Cina)
+- Narendra Modi (India)
+- Lula da Silva (Brasile)
+- Delegazione danese (per crisi Groenlandia)
+- Pedro Sanchez (Spagna) - cancellato per incidente ferroviario
+
+**CEO e Business (830):**
+- **Elon Musk** (Tesla/SpaceX) - prima apparizione a Davos
+- **Jensen Huang** (Nvidia)
+- **Satya Nadella** (Microsoft)
+- **Jamie Dimon** (JPMorgan Chase)
+- **Dario Amodei** (Anthropic)
+- **Demis Hassabis** (Google DeepMind)
+- **Albert Bourla** (Pfizer)
+
+**Istituzioni:**
+- **Christine Lagarde** (BCE)
+- **Kristalina Georgieva** (FMI)
+
+### Panel "The Day After AGI"
+
+Sessione storica con i leader dell'AI: **Dario Amodei** (Anthropic) e **Demis Hassabis** (DeepMind).
+
+**Previsioni Amodei:**
+- AI sostituira' il lavoro di tutti i software developer entro 1 anno
+- Ricerca scientifica "Nobel-level" in 2 anni
+- AGI entro 2026-2027: "Very hard for me to see how it could take longer"
+- Meta' dei lavori white-collar entry-level a rischio
+
+> "As this exponential keeps compounding... it will overwhelm our ability to adapt."
+
+**Previsioni Hassabis (piu' cauto):**
+- AGI con 50% probabilita' entro 2030
+- Ottimista su creazione di "new, more meaningful jobs"
+
+**Amodei sulla geopolitica AI:**
+> "Are we going to sell nuclear weapons to North Korea because that produces profit for Boeing?" - difendendo restrizioni export chip verso Cina
+
+### Elon Musk - Prima Apparizione (22 gennaio)
+
+**Contesto**: Musk aveva sempre rifiutato Davos, definendolo "boring" e il WEF "an unelected world government."
+
+**Format**: Fireside chat con **Larry Fink** (BlackRock)
+
+**Battuta d'apertura** (su "Board of Peace" di Trump): "Is that piece? A little piece of Greenland. A little piece of Venezuela."
+
+**Previsioni:**
+- AI piu' intelligente di qualsiasi umano entro fine 2026
+- AI superiore all'intelligenza collettiva umana entro 5 anni
+- Robotaxi Tesla in Europa "il mese prossimo"
+- Invecchiamento e' "a very solvable problem"
+
+**Su Marte**: "People ask if I want to die on Mars. I say yes, just not on impact."
+
+### Accordi Commerciali Annunciati
+
+| Accordo | Status | Dimensione |
+|---------|--------|------------|
+| **EU-Mercosur** | Firmato 17 gennaio 2026 | 31 paesi, 20% PIL globale, 700M consumatori |
+| **EU-India** | Quasi concluso (firma 27 gennaio) | 2 miliardi persone, 25% PIL globale |
+
+L'accordo EU-India, chiamato "mother of all deals", include:
+- Taglio tariffe su auto e vini europei
+- Accesso mercato UE per elettronica, tessile, chimici indiani
+- Mobilita' professionisti qualificati (tema sensibile)
+
+### Global Risks Report 2026
+
+Cambiamenti rispetto al 2025:
+1. **Frammentazione geoeconomica** - sale al #1
+2. **Polarizzazione sociale** - sale al #2
+3. Eventi meteo estremi - scende al #4 (non meno urgente, altri piu' pressanti)
+
+---
+
 ## Controversie e Critiche
 
 ### Elitismo e Plutocrazia
@@ -596,6 +750,18 @@ State Street       Energy, Finance
 - [Annual Meeting 2025 | WEF](https://www.weforum.org/meetings/world-economic-forum-annual-meeting-2025/)
 - [Davos 2025 Takeaways | BCG](https://www.bcg.com/about/partner-ecosystem/world-economic-forum/davos)
 
+### Davos 2026
+- [56th World Economic Forum - Wikipedia](https://en.wikipedia.org/wiki/56th_World_Economic_Forum)
+- [4 Takeaways from Davos 2026 | WEF](https://www.weforum.org/stories/2026/01/4-takeaways-from-davos-2026/)
+- [Heads of State at Davos 2026 | WEF](https://www.weforum.org/stories/2026/01/heads-of-state-gathering-davos-2026-what-they-saying/)
+- [Mark Carney Davos Speech 2026 - Wikipedia](https://en.wikipedia.org/wiki/2026_Mark_Carney_speech_at_the_World_Economic_Forum)
+- [Carney Davos Speech Full Text | CBC](https://www.cbc.ca/news/politics/mark-carney-speech-davos-rules-based-order-9.7053350)
+- [Trump Davos Speech | CNBC](https://www.cnbc.com/2026/01/21/trump-greenland-tariffs-davos-europe.html)
+- [Von der Leyen Davos 2026 | Euronews](https://www.euronews.com/my-europe/2026/01/20/in-davos-von-der-leyen-pitches-european-independence-versus-trumps-worldview)
+- [Elon Musk First Davos Appearance | Euronews](https://www.euronews.com/2026/01/22/elon-musk-predicts-robot-majority-future-in-first-davos-appearance)
+- [AI Panel Davos 2026 - Amodei vs Hassabis | Fortune](https://fortune.com/2026/01/23/deepmind-demis-hassabis-anthropic-dario-amodei-yann-lecun-ai-davos/)
+- [EU-India Trade Deal Davos | Business Today](https://www.businesstoday.in/latest/economy/story/mother-of-all-deals-at-davos-2026-eu-signals-fta-with-india-will-cover-quarter-of-global-gdp-511958-2026-01-21)
+
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

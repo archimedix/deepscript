@@ -10,19 +10,19 @@ Ecco le maggiori compagnie aeree del mondo per fatturato e passeggeri trasportat
   ├───────────────────────┼─────────┼─────────────────┤
   │ [v]United Airline     │ USA     │ ~53 mld         │
   ├───────────────────────┼─────────┼─────────────────┤
-  │ Lufthansa Group       │ DEU     │ ~40 mld         │
+  │ [v]Lufthansa Group    │ DEU     │ ~40 mld         │
   ├───────────────────────┼─────────┼─────────────────┤
-  │ Air France-KLM        │ FRA/NLD │ ~35 mld         │
+  │ [v]Air France-KLM     │ FRA/NLD │ ~35 mld         │
   ├───────────────────────┼─────────┼─────────────────┤
-  │ Emirates              │ ARE     │ ~32 mld         │
+  │ [v]Emirates           │ ARE     │ ~32 mld         │
   ├───────────────────────┼─────────┼─────────────────┤
-  │ British Airways (IAG) │ GBR     │ ~30 mld         │
+  │ [v]British Airways    │ GBR     │ ~30 mld         │
   ├───────────────────────┼─────────┼─────────────────┤
-  │ [v]Southwest Airlines  │ USA     │ ~26 mld         │
+  │ [v]Southwest Airlines │ USA     │ ~26 mld         │
   ├───────────────────────┼─────────┼─────────────────┤
   │ China Southern        │ CHN     │ ~22 mld         │
   ├───────────────────────┼─────────┼─────────────────┤
-  │ Qatar Airways         │ QAT     │ ~21 mld         │
+  │ [v]Qatar Airways      │ QAT     │ ~21 mld         │
   └───────────────────────┴─────────┴─────────────────┘
   Per Passeggeri Trasportati
   ┌────────────────────┬─────────────────┐
@@ -47,3 +47,25 @@ Ecco le maggiori compagnie aeree del mondo per fatturato e passeggeri trasportat
   Per Flotta
 
   Le più grandi flotte: American (~950 aerei), Delta (~900), United (~870), Southwest (~800), Ryanair (~550).
+
+  [v] flydubai
+  [v] srilankan-airlines
+  [v] gulf-air
+  [v] Etihad
+  [v] Oman Air
+
+  - jet-airways
+  - gmg-airlines - defunct
+  - spicejet
+  - air-berlin - defunct
+  - virgin-australia - active
+  - jet-airways - defunct
+  - azul-airlines - active
+  - tap-air-portugal - active
+  - jetblue (Airline)
+  - breeze-airways (Airline)
+  - morris-air (Airline, defunct)
+  - tap-portugal (Airline)
+  - rwandair
+  - airlink
+  - latam

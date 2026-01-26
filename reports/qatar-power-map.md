@@ -111,7 +111,36 @@ Maggiore banca Medio Oriente/Africa per asset.
 
 ### Qatar Airways
 
-Compagnia di bandiera, strumento di soft power e connettività globale.
+[Qatar Airways](../docs/airline/qatar-airways.md) - compagnia di bandiera, strumento di soft power e connettività globale.
+
+**Dati chiave:**
+- Flotta: 300+ aeromobili
+- Destinazioni: 170+
+- Dipendenti: ~75,000
+- Hub: [Hamad International Airport](../docs/company/hamad-airport.md)
+- Alleanza: Oneworld (dal 2013)
+- 7x Skytrax World's Best Airline (9 volte sotto Al-Meer nel 2025)
+
+**Leadership (successione CEO):**
+
+| Periodo | CEO | Note |
+|---------|-----|------|
+| 1997-2023 | [Akbar Al Baker](../docs/persons/akbar-al-baker.md) | 27 anni; trasformo' da 4 aerei a 300+; Chairman IATA 2018-19, Oneworld 2021-23 |
+| 2023-2025 | [Badr Al-Meer](../docs/persons/badr-al-meer.md) | Ex COO Hamad Airport; profitti record $2.15B; rimosso senza spiegazioni dic 2025 |
+| 2025- | [Hamad Al-Khater](../docs/persons/hamad-al-khater.md) | Ex COO Hamad Airport; nominato 7 dic 2025 |
+
+Chairman board: [Saad Al-Kaabi](../docs/persons/saad-al-kaabi.md) (anche Ministro Energia)
+
+**Partecipazioni strategiche:**
+
+| Target | Quota | Anno | Note |
+|--------|-------|------|------|
+| [IAG](../docs/company/iag.md) | 25.1% | 2015 | British Airways, Iberia, Aer Lingus |
+| [Virgin Australia](../docs/airline/virgin-australia.md) | 25% | 2025 | Acquisita feb 2025 |
+| [Airlink](../docs/airline/airlink.md) | 25% | 2024 | Sud Africa |
+| [RwandAir](../docs/airline/rwandair.md) | 49% | 2024 | Pending approval |
+| [China Southern](../docs/airline/china-southern.md) | 5% | 2019 | |
+| [Cathay Pacific](../docs/airline/cathay-pacific.md) | 9.6% | 2017-2025 | Venduta nov 2025 per $897M |
 
 ---
 
@@ -204,7 +233,8 @@ Compagnia di bandiera, strumento di soft power e connettività globale.
 |---------|-------|------|
 | [Nasser Al-Khelaifi](../docs/persons/nasser-al-khelaifi.md) | QSI Chairman, PSG, beIN, ECA, FIFA, UEFA, QIA board | Hub sport-media-finanza |
 | [Mohammed Al-Sowaidi](../docs/persons/mohammed-al-sowaidi.md) | QIA exec, Harrods, Qatar Airways, QNB, VW board | Hub finanza-retail |
-| [Saad Al-Kaabi](../docs/persons/saad-al-kaabi.md) | QatarEnergy CEO, Ministro Energia, Industries Qatar | Hub energia-governo |
+| [Saad Al-Kaabi](../docs/persons/saad-al-kaabi.md) | QatarEnergy CEO, Ministro Energia, Industries Qatar, Chairman Qatar Airways | Hub energia-governo-aviation |
+| [Akbar Al Baker](../docs/persons/akbar-al-baker.md) | Ex CEO Qatar Airways (27 anni), Ex Chairman IATA/Oneworld, Ex board Heathrow | Hub aviation globale (ritirato) |
 
 ---
 
@@ -265,8 +295,13 @@ Qatar si è posizionato come mediatore globale:
 | 2017 | Crisi Golfo, blocco saudita-emiratino |
 | 2021 | Riconciliazione GCC (Al-Ula) |
 | 2022 | FIFA World Cup Qatar |
+| Nov 2023 | Badr Al-Meer succede ad Akbar Al Baker come CEO Qatar Airways |
 | 2024 | Referendum abolisce elezioni Shura |
+| 2024 | Qatar Airways acquisisce 25% Airlink, 49% RwandAir |
 | 2024-30 | Espansione LNG: 77 → 142 mtpa |
+| Feb 2025 | Qatar Airways acquisisce 25% Virgin Australia |
+| Nov 2025 | Qatar Airways vende 9.6% Cathay Pacific per $897M |
+| 7 Dic 2025 | Hamad Al-Khater sostituisce Al-Meer come CEO Qatar Airways (senza spiegazioni) |
 
 ---
 
@@ -292,4 +327,4 @@ Qatar si è posizionato come mediatore globale:
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Gennaio 2026 (aggiornato con successione CEO Qatar Airways)*

@@ -61,3 +61,9 @@ UAE Power Map
   2. Vantaggio su Saudi: Abraham Accords (2020) hanno dato accesso preferenziale a tech USA (Stargate, OpenAI)
   3. Pivot AI: UAE sta diventando hub AI globale via G42/MGX mentre Saudi resta focalizzato su sport
   4. Modello stato-azienda: La struttura federazione permette competizione interna Abu Dhabi vs Dubai
+
+  - ad-ports - AD Ports Group
+  - seha - Abu Dhabi Health Services
+  - enec - Emirates Nuclear Energy Corporation
+  - ewec - Emirates Water and Electricity Company
+  - louis-dreyfus - Louis Dreyfus Company (commodities)

@@ -796,8 +796,11 @@ Axel Springer 48.5%
 |---------|-----|-----|-------|
 | **[Philipp Rösler](../docs/persons/philipp-rosler.md)** | Vice-Cancelliere FDP | **WEF Managing Board** | **4 mesi** |
 | **[Sigmar Gabriel](../docs/persons/sigmar-gabriel.md)** | Vice-Cancelliere SPD | Atlantik-Brücke Chairman + Deutsche Bank/Rheinmetall Boards | ~18 mesi |
+| **[Karl-Ludwig Kley](../docs/persons/karl-ludwig-kley.md)** | Lufthansa CFO | Merck CEO → E.ON Chairman → BMW Deputy → Lufthansa Chairman | Carriera |
 | Ronald Pofalla | Capo Cancelleria Merkel | Deutsche Bahn | - |
 | Wolfgang Ischinger | Ambasciatore USA | Chairman MSC | - |
+
+> **Pattern Kley**: Rappresenta il "Deutschland AG manager" ideale - attraversa 5 settori (chimica Bayer → aviazione Lufthansa → pharma Merck → energia E.ON → auto BMW) accumulando board multipli. Torna a Lufthansa come Chairman SB dopo averla lasciata come CFO. Commendatore della Repubblica Italiana.
 
 > **Pattern Rösler**: Il caso più veloce - da Vice-Cancelliere a dirigente del forum globale più influente in soli 4 mesi. Dopo WEF, CEO della fondazione di HNA Group (Cina).
 
@@ -930,8 +933,8 @@ Ma anche rallenta trasformazione digitale/green.
 | joachim-nagel | Bundesbank President (2022-) | SPD, ex-BIS, ex-KfW |
 | [helmut-kohl](../docs/persons/helmut-kohl.md) | Cancelliere 1982-1998 | Riunificazione, Maastricht, CDU scandal |
 | [philipp-rosler](../docs/persons/philipp-rosler.md) | Ex-Vice Cancelliere FDP | **WEF Managing Board 2014-17**, revolving door emblematico |
-| [carsten-spohr](../docs/persons/carsten-spohr.md) | CEO Lufthansa | Munich Re Board, IATA Chairman |
-| karl-ludwig-kley | Chairman Lufthansa Supervisory Board | Ex-CFO Lufthansa, ex-Chairman Merck |
+| [carsten-spohr](../docs/persons/carsten-spohr.md) | CEO Lufthansa (2014-) | KIT alumni, pilota certificato, CEO LH Cargo 2007-11, **IATA Chairman BoG 2019-20**, Munich Re Board, LH Technik Chairman, ESMT Board |
+| [karl-ludwig-kley](../docs/persons/karl-ludwig-kley.md) | Chairman Lufthansa SB (2017-) | LMU Munich (JD/PhD), Bayer 1982-98, **Lufthansa CFO 1998-2006**, **Merck CEO 2006-16**, E.ON Chairman SB 2016-23, BMW Deputy Chair 2008-21, Verizon Board 2015-, WEF, Commendatore Italia |
 | [otto-wolff-von-amerongen](../docs/persons/otto-wolff-von-amerongen.md) | Industriale acciaio (1918-2007) | **46 Bilderberg** (record), Trilateral founder, Deutsche Bank Chairman Advisory, Ostausschuss Chairman 44 anni, primo tedesco board Exxon |
 
 ### Organizzazioni Tedesche
@@ -954,7 +957,9 @@ Ma anche rallenta trasformazione digitale/green.
 | midea-group | Company (China) | Proprietario KUKA |
 | hapag-lloyd | Company | Kuhne 30%, CSAV 30%, Hamburg 13.9%, QIA 12.3% |
 | kuhne-nagel | Company | Kuhne 53.3%, Schindellegi Switzerland |
-| [lufthansa](../docs/company/lufthansa.md) | Company | Kuhne 17.5%, BlackRock 3.4%, bailout pandemico 2020-23 |
+| [lufthansa](../docs/company/lufthansa.md) | Company | Kuhne 17.5%, BlackRock 3.4%, bailout pandemico 2020-23, CEO Spohr, Chairman SB Kley |
+| [lufthansa-technik](../docs/company/lufthansa-technik.md) | Company | 100% Lufthansa, MRO aviation, Chairman SB Spohr |
+| [lufthansa-cargo](../docs/company/lufthansa-cargo.md) | Company | 100% Lufthansa, cargo aviation |
 | [rheinmetall](../docs/company/rheinmetall.md) | Company | Defense, Gabriel Supervisory Board 2025 |
 | [siemens-energy](../docs/company/siemens-energy.md) | Company | Spin-off Siemens 2020, Gabriel Board |
 | [munich-re](../docs/company/munich-re.md) | Company | Reinsurance, Spohr Board |
@@ -1045,9 +1050,17 @@ Ma anche rallenta trasformazione digitale/green.
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*
 
 ### Changelog
+
+- **25 Gen v13**: Schede complete Spohr e Kley
+  - **Carsten Spohr**: scheda completa `docs/persons/carsten-spohr.md` (KIT alumni, pilota, CEO LH Cargo 2007-11, IATA Chairman 2019-20, LH Technik Chairman, ESMT Board)
+  - **Karl-Ludwig Kley**: scheda completa `docs/persons/karl-ludwig-kley.md` (LMU JD/PhD, Bayer 1982-98, Lufthansa CFO 1998-2006, Merck CEO 2006-16, E.ON Chairman 2016-23, BMW Deputy Chair 2008-21, Verizon 2015-, Commendatore Italia)
+  - Nuove università: karlsruhe-institute-technology, esmt-berlin, lmu-munich, whu
+  - Nuove org: lufthansa-technik, lufthansa-cargo (subsidiaries 100%)
+  - Pattern Kley: revolving door attraverso 5 settori (chimica→aviazione→pharma→energia→auto)
+
 
 - **29 Dic v12**: Otto Wolff von Amerongen - architetto commercio Est-Ovest
   - **Otto Wolff von Amerongen** (1918-2007): scheda completa `docs/persons/otto-wolff-von-amerongen.md`

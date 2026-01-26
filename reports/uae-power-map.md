@@ -143,7 +143,7 @@ Gli UAE possiedono il piu' grande ecosistema di SWF al mondo con ~$2.5 trilioni 
 |-----|-----|----------|-------|--------------|
 | [ADIA](../docs/swf/adia.md) | $1.06T | Tahnoun bin Zayed | Globale, diversificato | #3 |
 | [Mubadala](../docs/swf/mubadala.md) | $330B | Khaldoon Al Mubarak | Tech, PE, semiconduttori | #14 |
-| [ADQ](../docs/swf/adq.md) | $170B | Tahnoun bin Zayed | Domestico, infra, food | Top 10 |
+| [ADQ](../docs/swf/adq.md) | $251B | Tahnoun bin Zayed | Domestico, infra, food | Top 10 |
 | [ICD](../docs/swf/icd.md) | $380B | Mohammed bin Rashid | Dubai assets | #8 |
 | [EIA](../docs/swf/eia.md) | N/D | Mansour bin Zayed | Federale | - |
 
@@ -190,18 +190,30 @@ Gli UAE possiedono il piu' grande ecosistema di SWF al mondo con ~$2.5 trilioni 
 | Metrica | Valore |
 |---------|--------|
 | **Fondato** | 2018 |
-| **AuM** | $170B (raddoppiato in 4 anni) |
+| **AuM** | $251B (2024, raddoppiato in 4 anni) |
 | **Chairman** | Tahnoun bin Zayed |
+| **CEO** | [Mohamed Hassan Alsuwaidi](../docs/persons/mohamed-alsuwaidi.md) (anche Min. Investment UAE) |
 | **Focus** | Food security, infra domestica, energia |
+| **Portfolio** | 25+ aziende, 85,000 dipendenti, 130+ paesi |
 
-**Subsidiaries:**
-- Etihad Airways
+**Subsidiaries chiave:**
+- [Etihad Airways](../docs/airline/etihad.md) (100%)
+- [AD Ports Group](../docs/company/ad-ports.md) (majority)
+- [Aramex](../docs/company/aramex.md) (63%, acquisito 2025)
 - Abu Dhabi Airports
 - Emirates Nuclear Energy Corp (ENEC)
-- Louis Dreyfus Company (45%)
-- LuLu Group International
+- [Louis Dreyfus Company](../docs/company/louis-dreyfus.md) (45%)
+- SEHA (healthcare)
+- EWEC (utilities)
 
-**Deal 2024:** $35B per sviluppo Ras el-Hekma (Egitto)
+**Deal 2024-2025:**
+- $35B sviluppo Ras el-Hekma (Egitto)
+- Aramex (63% via tender offer)
+- 35% Limagrain Vegetable Seeds
+- $25B partnership Energy Capital Partners (data center power)
+- 49% Plenary Group (Australia, PPP infrastructure)
+
+> Vedi scheda completa: [ADQ](../docs/swf/adq.md)
 
 ### ICD: Il Portafoglio Dubai
 
@@ -233,7 +245,7 @@ Gli UAE possiedono il piu' grande ecosistema di SWF al mondo con ~$2.5 trilioni 
 | Organizzazione | Ruolo | AuM/Valore |
 |----------------|-------|------------|
 | **ADIA** | Chairman | $1.06T |
-| **ADQ** | Chairman | $170B |
+| **ADQ** | Chairman | $251B |
 | **G42** | Chairman | AI unicorn |
 | **MGX** | Chairman | $100B target |
 | **First Abu Dhabi Bank** | Chairman | Largest UAE bank |
@@ -247,7 +259,7 @@ TAHNOUN BIN ZAYED
        |
        +--- SICUREZZA (NSA)
        |
-       +--- FINANZA (ADIA $1T + ADQ $170B)
+       +--- FINANZA (ADIA $1T + ADQ $251B)
        |
        +--- TECH/AI (G42 + MGX)
        |
@@ -382,10 +394,27 @@ Il progetto Stargate ($500B per infrastruttura AI USA) vede MGX come partner men
 
 | Aspetto | Emirates (Dubai) | Etihad (Abu Dhabi) |
 |---------|------------------|-------------------|
-| **Owner** | ICD (100%) | ADQ (100%) |
-| **Fleet** | 260 aerei | 80+ aerei |
+| **Owner** | ICD (100%) | ADQ (100%, dal 2022) |
+| **Fleet** | 260 aerei | 107 aerei |
 | **Hub** | Dubai DXB | Abu Dhabi AUH |
-| **Modello** | Global network | Premium, partnerships |
+| **Passeggeri** | 52M (2024) | 18M (2024) |
+| **CEO** | Tim Clark | [Antonoaldo Neves](../docs/persons/antonoaldo-neves.md) |
+| **Modello** | Global network | Turnaround, organic growth |
+
+**Etihad: L'Equity Alliance Fallita (2011-2020)**
+
+Etihad ha tentato una strategia aggressiva di partecipazioni minoritarie, perdendo $7-10 miliardi:
+
+| Partner | Quota | Periodo | Esito |
+|---------|-------|---------|-------|
+| Air Berlin | 29.21% | 2011-2017 | Bancarotta (-$3.2B) |
+| Alitalia | 49% | 2014-2017 | Bancarotta (-€2-3B) |
+| Jet Airways | 24% | 2013-2019 | Cessato |
+| Virgin Australia | 21.4% | 2012-2020 | Amministrazione controllata |
+
+Dal 2022 con CEO Neves (ex Azul, ex TAP) Etihad ha abbandonato la strategia per concentrarsi su crescita organica: record profitti H1 2025 (AED 1.1B), obiettivo 38M passeggeri entro 2030, piano investimenti $20B.
+
+> Vedi scheda completa: [Etihad Airways](../docs/airline/etihad.md)
 
 ---
 
@@ -406,7 +435,9 @@ Il progetto Stargate ($500B per infrastruttura AI USA) vede MGX come partner men
 | Persona | Ruolo | Affiliazioni |
 |---------|-------|--------------|
 | [Khaldoon Al Mubarak](../docs/persons/khaldoon-al-mubarak.md) | CEO Mubadala | MGX, Man City, GlobalFoundries, Ferrari |
+| [Mohamed Alsuwaidi](../docs/persons/mohamed-alsuwaidi.md) | CEO ADQ, Min. Investment | $251B AuM, Etihad, Aramex, Louis Dreyfus |
 | [Mohamed Alabbar](../docs/persons/mohamed-alabbar.md) | Founder Emaar | Burj Khalifa, Noon.com |
+| [Antonoaldo Neves](../docs/persons/antonoaldo-neves.md) | CEO Etihad | Ex Azul, ex TAP, turnaround specialist |
 | [Hana Al Rostamani](../docs/persons/hana-al-rostamani.md) | CEO FAB | Prima donna CEO banca UAE |
 | Sultan Al Jaber | CEO ADNOC | COP28 President, Masdar |
 
@@ -627,8 +658,12 @@ Sheikh Tahnoun controlla piu' asset ($1.2T+) di qualsiasi altro individuo non-mo
 - [G42](../docs/company/g42.md)
 - [ADIA](../docs/swf/adia.md)
 - [Mubadala](../docs/swf/mubadala.md)
+- [ADQ](../docs/swf/adq.md)
 - [MGX](../docs/swf/mgx.md)
+- [Etihad Airways](../docs/airline/etihad.md)
+- [Antonoaldo Neves](../docs/persons/antonoaldo-neves.md)
+- [Mohamed Alsuwaidi](../docs/persons/mohamed-alsuwaidi.md)
 
 ---
 
-*Ultimo aggiornamento: 2 Gennaio 2026*
+*Ultimo aggiornamento: Gennaio 2026*

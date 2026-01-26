@@ -18,6 +18,7 @@ La recente normalizzazione con UAE (Abraham Accords) ha aperto un nuovo asse di 
 | Sfera | Detentore | Controllo |
 |-------|-----------|-----------|
 | **Politica** | [Benjamin Netanyahu](../docs/persons/benjamin-netanyahu.md) | PM 18+ anni, Likud, piano $110B difesa |
+| **Presidenza** | [Isaac Herzog](../docs/persons/isaac-herzog.md) | 11° Presidente, dinastia [Herzog](../docs/family/herzog.md) |
 | **Difesa privata** | [Famiglia Federmann](../docs/family/federmann.md) | Elbit Systems (44%), $6.3B fatturato |
 | **Manifattura** | [Famiglia Wertheimer](../docs/family/wertheimer-israel.md) | ISCAR → Berkshire ($6B exit) |
 | **Energia** | [Yitzhak Tshuva](../docs/persons/yitzhak-tshuva.md) | Delek Group, giacimenti gas Tamar/Leviathan |
@@ -139,6 +140,41 @@ Netanyahu ha annunciato un piano decennale da $110 miliardi per l'autosufficienz
 | [Steinmetz](../docs/family/steinmetz.md) | Diamanti, Mining | $1.5B | BSGR, Diacore | Africa, Guinea |
 | [Tshuva](../docs/family/tshuva.md) | Energia, RE | $4.6B | Delek Group, El-Ad | Gas naturale |
 | [Arison](../docs/family/arison.md) | Cruise, Banking, Costruzioni | $10B+ (al picco) | [Bank Hapoalim](../docs/bank/bank-hapoalim.md), [Shikun & Binui](../docs/company/shikun-binui.md), Carnival Corp | Privatizzazioni anni '90, Miami Heat |
+| [Herzog](../docs/family/herzog.md) | Politica, Diplomazia | Potere istituzionale | Presidenza (x2), Jewish Agency, Ambasciata USA | Unica dinastia con padre-figlio Presidenti |
+
+#### Focus: La Dinastia Herzog - Dal Rabbinato alla Presidenza
+
+> Vedi schede: [Famiglia Herzog](../docs/family/herzog.md), [Isaac Herzog](../docs/persons/isaac-herzog.md), [Chaim Herzog](../docs/persons/chaim-herzog.md)
+
+La [famiglia Herzog](../docs/family/herzog.md) rappresenta un caso unico di **dinastia politico-istituzionale** israeliana: tre generazioni dal Gran Rabbinato alla Presidenza della Repubblica.
+
+**Albero del Potere:**
+
+```
+YITZHAK HALEVI HERZOG (1888-1959)
+Chief Rabbi Irlanda → Chief Rabbi Israele
+                |
+    +-----------+-----------+
+    |                       |
+CHAIM HERZOG            YAAKOV HERZOG
+(1918-1997)             (1921-1972)
+6° Presidente           Dir. Gen. PM Office
+Gen. IDF, Amb. ONU      Negoziatore segreto
+                |
+    +-----------+-----------+
+    |                       |
+ISAAC HERZOG          MIKE HERZOG
+(1960-)               (1952-)
+11° Presidente        Ambasciatore USA
+Labor, Jewish Agency  Brig. Gen. IDF
+```
+
+**Pattern Herzog**: A differenza delle dinastie industriali (Ofer, Federmann, Wertheimer), gli Herzog accumulano **potere istituzionale**, non patrimoniale. Ogni generazione raggiunge posizioni apicali in ambiti diversi:
+- Gen 1: Autorita' religiosa (Gran Rabbinato)
+- Gen 2: Legittimita' militare + diplomatica (Presidente, Generale, Dir. Gen. PM)
+- Gen 3: Presidenza + Ambasciata chiave (USA)
+
+**Record**: Prima e unica famiglia nella storia di Israele con padre e figlio entrambi Presidenti.
 
 #### Focus: La Dinastia Wertheimer e il Modello Buffett
 
@@ -678,6 +714,7 @@ RAFAEL CHAIRMAN (2023-)
 | [Meir Amit](../docs/persons/meir-amit.md) | 5 | Aman, Mossad, Koor Industries, Knesset, Ministro |
 | [Boaz Levy](../docs/persons/boaz-levy.md) | 3 | IAI, Arrow program, ELTA Systems |
 | [Anatoly Chubais](../docs/persons/anatoly-chubais.md) | 4 | Russia-Israel, WEF |
+| [Isaac Herzog](../docs/persons/isaac-herzog.md) | 9 | Presidente, Jewish Agency, Labor, Knesset, WEF, Unit 8200, Tel Aviv Univ, Cornell |
 
 ### Top Connettori USA-Israel (Mega Group Network)
 
@@ -729,7 +766,7 @@ RAFAEL CHAIRMAN (2023-)
 |---------|--------|
 | Persone israeliane nel DB | 65+ |
 | Organizzazioni israeliane | 36+ |
-| Famiglie israeliane | 6 |
+| Famiglie israeliane | 7 |
 | Miliardari Forbes 2025 | 41 |
 | **Triangolo Difesa ricavi 2024** | **$17.7B** |
 | **Triangolo Difesa backlog 2024** | **$65B** |
@@ -874,4 +911,4 @@ RAFAEL CHAIRMAN (2023-)
 
 ---
 
-*Ultimo aggiornamento: 18 Gennaio 2026 - Aggiunta sezione "Dinastia Arison e Grandi Privatizzazioni" (Ted Arison, Bank Hapoalim $1.37B, Shikun & Binui). Nuova sezione "Impero Histadrut" con Solel Boneh (Operation Entebbe, Africa), Bank Hapoalim, Koor Industries. Aggiunta crisi bancaria 1983 come evento storico chiave. Espansa famiglia Arison nella tabella.*
+*Ultimo aggiornamento: 26 Gennaio 2026 - Aggiunta dinastia Herzog (unica famiglia con padre-figlio Presidenti): Isaac Herzog (11° Presidente), Chaim Herzog (6° Presidente), Yitzhak HaLevi Herzog (Chief Rabbi), Yaakov Herzog (diplomatico), Mike Herzog (Ambasciatore USA). Aggiornato conteggio famiglie a 7.*
