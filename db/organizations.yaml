@@ -154,6 +154,11 @@ organizations:
     - person: jacob-wallenberg
       role: board
       note: Vice Chairman
+    - person: xabier-de-irala
+      role: executive
+      from: 1990
+      to: 1996
+      note: Executive VP and MD Spain
     - org: blackrock
       share: 5.8%
     - org: vanguard
@@ -905,6 +910,16 @@ organizations:
       from: 2019
       to: 2020
       note: Chairman and CEO
+    - person: tony-ryan
+      role: executive
+      from: 1955
+      to: 1975
+      note: Dispatcher 1955; NY Station Manager 1968; aircraft leasing pioneer
+    - person: willie-walsh
+      role: executive
+      from: 2001
+      to: 2005
+      note: CEO
     - org: iag
       role: owner
       share: 1.0
@@ -1170,6 +1185,18 @@ organizations:
     - org: intel
       role: investor
       note: Intel Capital investor
+  aia:
+    name: Aerospace Industries Association
+    type: thinktank
+    headquarters: Arlington, Virginia, USA
+    status: active
+    stakeholders:
+    - person: kelly-ortberg
+      role: chairman
+      note: Chair, Board of Governors
+    - person: clay-jones
+      role: board
+      note: Board of Governors
   aib:
     name: Allied Irish Banks
     type: bank
@@ -1335,6 +1362,11 @@ organizations:
       role: executive
       from: 2018
       note: CEO, first woman in this role
+    - person: marco-sansavini
+      role: executive
+      from: 2004
+      to: 2009
+      note: VP Global Business, Commercial Director Europe
     - org: air-france-klm
       role: parent
       from: 2004
@@ -1381,16 +1413,38 @@ organizations:
       note: Strategic partnership China
   air-india:
     name: Air India
-    type: company
+    type: airline
     founded: 1932
     headquarters: New Delhi, India
     status: active
     sector: aviation
     stakeholders:
+    - person: jrd-tata
+      role: founder
+      from: 1932
+      to: 1977
+      note: Founder as Tata Airlines; Chairman until 1977
     - person: n-chandrasekaran
       role: chairman
       from: 2022
       note: Post-acquisizione Tata
+    - person: campbell-wilson
+      role: executive
+      from: 2022
+      note: CEO & MD; leading Vihaan.ai transformation
+    - person: goh-choon-phong
+      role: board
+      from: 2024
+    - org: tata-sons
+      role: owner
+      share: 0.749
+      from: 2022
+      note: Acquired from Government of India for ₹18,000 crore
+    - org: singapore-airlines
+      role: stake
+      share: 0.251
+      from: 2024
+      note: acquired via Vistara merger
   air-liquide:
     name: Air Liquide
     type: company
@@ -1900,6 +1954,11 @@ organizations:
       from: 2003
       to: 2005
       note: Vice General Director, CCO, COO
+    - person: marco-sansavini
+      role: executive
+      from: 2009
+      to: 2012
+      note: EVP Sales Distribution & Customer Care
     - org: iri
       role: parent
       from: 1946
@@ -3087,6 +3146,13 @@ organizations:
       from: 1994
       to: 1999
       note: Co-presidente
+  ape-france:
+    name: Agence des participations de l'État
+    type: agency
+    founded: 2004
+    headquarters: Paris, France
+    status: active
+    note: French state investment agency, manages strategic participations
   apex-group:
     name: Apex Group Ltd.
     type: company
@@ -3195,6 +3261,16 @@ organizations:
     - org: sequoia-capital
       from: 1978
       note: Early investor $150K, IPO 1980
+  aptiv:
+    name: Aptiv PLC
+    type: company
+    headquarters: Dublin, Ireland
+    status: active
+    sector: automotive
+    stakeholders:
+    - person: kelly-ortberg
+      role: board
+      note: Board Director
   aramex:
     name: Aramex
     type: company
@@ -5662,6 +5738,15 @@ organizations:
     - person: vernon-jordan
       role: advisor
       note: International Advisory Board
+  baruch-college:
+    name: Baruch College
+    type: university
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: nikos-kardassis
+      role: alumni
+      note: MBA Finance 1984
   basel-committee:
     name: Basel Committee on Banking Supervision
     type: agency
@@ -5915,6 +6000,17 @@ organizations:
       from: 2007
       to: 2012
       note: Non-Executive Director
+  bbk:
+    name: Bilbao Bizkaia Kutxa (BBK)
+    type: bank
+    headquarters: Bilbao, Spain
+    status: defunct
+    stakeholders:
+    - person: xabier-de-irala
+      role: executive
+      from: 2003
+      to: 2009
+      note: President
   bbva:
     name: Banco Bilbao Vizcaya Argentaria
     type: bank
@@ -6371,6 +6467,13 @@ organizations:
       share: 28.3
       from: 2000
       note: Via Bharti Telecom (49.44%) + direct via Pastel
+  bharti-global:
+    name: Bharti Global
+    type: company
+    headquarters: New Delhi, India
+    status: active
+    sector: finance
+    note: Investment arm of Bharti Enterprises, Sunil Mittal family
   big-c:
     name: Big C Supercenter
     type: company
@@ -6394,6 +6497,15 @@ organizations:
     - org: ae-industrial-partners
       role: investor
       from: 2020
+  bikram-college-patiala:
+    name: Govt. Bikram College of Commerce
+    type: university
+    headquarters: Patiala, India
+    status: active
+    stakeholders:
+    - person: naresh-goyal
+      role: alumni
+      note: B.Com
   bil:
     name: Banque Internationale a Luxembourg
     type: bank
@@ -7801,6 +7913,17 @@ organizations:
       from: 2007
       to: 2020
       note: Portfolio Manager, International Reserves
+  bny-mellon:
+    name: BNY Mellon
+    type: bank
+    founded: 1784
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: nikos-kardassis
+      role: executive
+      from: 2014
+      note: Chair Enterprise Product Management Group
   board-of-peace:
     name: Board of Peace
     type: agency
@@ -7894,6 +8017,10 @@ organizations:
       role: executive
       from: 2024
       note: President & CEO
+    - person: kelly-ortberg
+      role: board
+      from: 2024
+      note: Director
     - person: steve-mollenkopf
       role: chairman
       from: 2024
@@ -8473,6 +8600,11 @@ organizations:
       role: executive
       from: 2020
       note: Chairman and CEO
+    - person: willie-walsh
+      role: executive
+      from: 2005
+      to: 2011
+      note: CEO
     - org: iag
       role: owner
       share: 1.0
@@ -8510,6 +8642,18 @@ organizations:
       role: chairman
       from: 2006
       to: 2010
+  british-land:
+    name: British Land
+    type: company
+    headquarters: London, GBR
+    status: active
+    sector: real estate
+    stakeholders:
+    - person: stephen-hester
+      role: executive
+      from: 2004
+      to: 2008
+      note: CEO
   british-south-africa-company:
     name: British South Africa Company
     type: company
@@ -9335,6 +9479,11 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  capital-group:
+    name: Capital Group
+    type: assetmanager
+    headquarters: Los Angeles, USA
+    status: active
   capitals-coalition:
     name: Capitals Coalition
     type: foundation
@@ -9383,6 +9532,17 @@ organizations:
       role: chairman
       from: 2015
       note: Lead investor, fondi da Epstein
+  cardinal-health:
+    name: Cardinal Health
+    type: company
+    headquarters: Dublin, Ohio, USA
+    status: active
+    sector: healthcare
+    stakeholders:
+    - person: clay-jones
+      role: board
+      from: 2012
+      note: Director
   carl-victor-page-memorial-foundation:
     name: Carl Victor Page Memorial Foundation
     type: foundation
@@ -10111,6 +10271,16 @@ organizations:
     stakeholders:
     - person: douglas-flint
       role: board
+  centrica:
+    name: Centrica plc
+    type: company
+    headquarters: Windsor, GBR
+    status: active
+    sector: energy
+    stakeholders:
+    - person: stephen-hester
+      role: board
+      note: Senior Independent Director
   cepi:
     name: Coalition for Epidemic Preparedness Innovations
     type: agency
@@ -10738,6 +10908,17 @@ organizations:
       role: executive
       from: 1991
       note: Katherine Dusak Miller Distinguished Service Professor of Finance
+  chicago-kent:
+    name: Chicago-Kent College of Law
+    type: university
+    founded: 1888
+    headquarters: Chicago, USA
+    status: active
+    note: Part of Illinois Institute of Technology
+    stakeholders:
+    - person: greg-wyler
+      role: alumni
+      note: JD 1996
   children-investment-fund:
     type: assetmanager
     founded: 2003
@@ -11646,10 +11827,10 @@ organizations:
     name: CMA CGM
     type: company
     founded: 1978
-    headquarters: Marseille, Francia
+    headquarters: Marseille, France
     status: active
-    sector: shipping
-    note: 3rd largest shipping company
+    sector: transport
+    note: French shipping conglomerate, Saadé family
     stakeholders:
     - person: rodolphe-saade
       role: chairman
@@ -12000,6 +12181,33 @@ organizations:
     - person: nathalie-tocci
       role: member
       note: Former lecturer
+  collins-aerospace:
+    name: Collins Aerospace
+    type: defense
+    founded: 2018
+    headquarters: Charlotte, North Carolina, USA
+    status: active
+    sector: aerospace
+    stakeholders:
+    - person: kelly-ortberg
+      role: executive
+      from: 2018
+      to: 2020
+      note: CEO
+    - person: troy-brunk
+      role: executive
+      from: 2025
+      note: President
+    - person: stephen-timm
+      role: executive
+      from: 2020
+      to: 2025
+      note: President
+    - org: rtx
+      role: subsidiary
+      share: 1.0
+      from: 2020
+      note: Business unit of RTX since UTC-Raytheon merger
   colony-capital:
     name: Colony Capital
     type: privateequity
@@ -12522,6 +12730,9 @@ organizations:
     - person: isaac-herzog
       role: alumni
       note: Graduate studies
+    - person: ajay-singh-spicejet
+      role: alumni
+      note: MBA
   cornell-law:
     name: Cornell Law School
     type: university
@@ -12918,7 +13129,7 @@ organizations:
     name: Credit Suisse
     type: bank
     founded: 1856
-    headquarters: Zurich, Switzerland
+    headquarters: Zurich, CHE
     status: defunct
     sector: banking
     note: Acquired by UBS 2023
@@ -12950,6 +13161,11 @@ organizations:
     - person: natig-mustafayev
       role: executive
       note: Senior role, London
+    - person: stephen-hester
+      role: executive
+      from: 1982
+      to: 2001
+      note: Credit Suisse First Boston, Global Head Fixed Income
     - org: ubs
       role: acquirer
       share: 100%
@@ -13501,6 +13717,10 @@ organizations:
       from: 2009
       to: 2025
       note: CEO
+    - person: peter-seah
+      role: chairman
+      from: 2010
+      note: Chairman DBS Group Holdings
     - org: temasek
       share: 29%
       note: Controlling shareholder
@@ -13651,6 +13871,17 @@ organizations:
       share: 1.0
       from: 2023
       note: Sole funder and backer
+  deere:
+    name: Deere & Company
+    type: company
+    headquarters: Moline, Illinois, USA
+    status: active
+    sector: industry
+    stakeholders:
+    - person: clay-jones
+      role: board
+      from: 2007
+      note: Director, Compensation & Pension Committees
   defending-democracy-together:
     name: Defending Democracy Together
     type: thinktank
@@ -13718,6 +13949,16 @@ organizations:
     - person: leonardo-del-vecchio
       role: founder
       to: 2022
+  delhi-university:
+    name: University of Delhi
+    type: university
+    founded: 1922
+    headquarters: New Delhi, India
+    status: active
+    stakeholders:
+    - person: ajay-singh-spicejet
+      role: alumni
+      note: LL.B, Faculty of Law
   dell:
     name: Dell Technologies
     type: company
@@ -14532,6 +14773,16 @@ organizations:
       note: Sceso sotto 5% ottobre 2025
     - org: vanguard
       share: 2.0%
+  dtu:
+    name: Technical University of Denmark
+    type: university
+    founded: 1829
+    headquarters: Lyngby, Denmark
+    status: active
+    stakeholders:
+    - person: eva-berneke
+      role: alumni
+      note: MSc Mechanical Engineering 1992
   dubai-aerospace-enterprise:
     name: Dubai Aerospace Enterprise
     type: company
@@ -14666,6 +14917,19 @@ organizations:
       role: chairman
       from: 2012
       note: President
+  e-space:
+    name: E-Space
+    type: company
+    founded: 2021
+    headquarters: USA
+    status: active
+    sector: tech
+    note: Sustainable LEO satellite constellation, 300k+ satellites via Rwanda
+    stakeholders:
+    - person: greg-wyler
+      role: founder
+      from: 2021
+      note: CEO and Chief Architect
   earth-charter-international:
     name: Earth Charter International
     type: foundation
@@ -14722,6 +14986,30 @@ organizations:
       role: supervisione
       from: 1982
       note: Programma governativo
+  easyjet:
+    name: easyJet plc
+    type: airline
+    founded: 1995
+    headquarters: London Luton, GBR
+    status: active
+    stakeholders:
+    - person: stelios-haji-ioannou
+      role: founder
+      from: 1995
+      note: Founder, largest shareholder ~15%
+    - person: stephen-hester
+      role: chairman
+      from: 2021
+      note: Non-Executive Chairman
+    - person: kenton-jarvis
+      role: executive
+      from: 2025
+      note: CEO
+    - person: johan-lundgren
+      role: executive
+      from: 2017
+      to: 2025
+      note: CEO
   eataly:
     name: Eataly
     type: company
@@ -15037,6 +15325,10 @@ organizations:
     - person: thierry-desmarest
       role: alumni
       note: Engineering degree, Corps des Mines
+    - person: eva-berneke
+      role: board
+      from: 2019
+      note: Non-executive director
   economic-club-new-york:
     name: Economic Club of New York
     type: thinktank
@@ -16953,15 +17245,49 @@ organizations:
     headquarters: Paris, France
     status: active
     sector: satellite
+    note: European satellite operator, LEO+GEO. Originally intergovernmental (1977), privatized 2001, IPO 2005. Merged with
+      OneWeb 2023.
     stakeholders:
     - person: sunil-mittal
       role: chairman
       from: 2023
-      note: Co-Chairman Eutelsat Group (merger OneWeb)
+      note: Vice-President and Co-Chair post OneWeb merger
     - person: florence-parly
       role: board
       from: 2023
       note: Independent Director
+    - person: eva-berneke
+      role: executive
+      from: 2022
+      to: 2025
+      note: CEO, oversaw OneWeb merger
+    - person: jean-francois-fallacher
+      role: executive
+      from: 2025
+      note: CEO
+    - person: dominique-dhinnin
+      role: chairman
+      note: Chairman of the Board
+    - org: governo-uk
+      role: stake
+      share: 0.11
+      from: 2023
+      note: 10.89% post-2025 capital increase, plus special share for national security
+    - org: cma-cgm
+      role: stake
+      share: 0.08
+      from: 2025
+      note: €100.4M investment in 2025 capital increase
+    - org: bharti-global
+      role: stake
+      share: 0.19
+      from: 2023
+      note: Via OneWeb merger, 18.7% post-2025 capital increase
+    - org: ape-france
+      role: stake
+      share: 0.3
+      from: 2025
+      note: Largest shareholder post capital increase, previously via Bpifrance 13.6%
   eva:
     name: Finnish Business and Policy Forum EVA
     type: thinktank
@@ -19593,6 +19919,11 @@ organizations:
     - person: carlos-domenech
       role: executive
       note: CFO Universal Pictures International Entertainment
+    - person: xabier-de-irala
+      role: executive
+      from: 1971
+      to: 1990
+      note: 'Various roles: MD Spain, VP Finance Paris'
   ge-aerospace:
     name: GE Aerospace
     type: company
@@ -19973,6 +20304,9 @@ organizations:
     - person: scott-kirby
       role: alumni
       note: MS Operations Research
+    - person: clay-jones
+      role: alumni
+      note: MBA 1986
   georgetown:
     name: Georgetown University
     type: university
@@ -20077,6 +20411,9 @@ organizations:
     - person: lee-hsien-loong
       role: chairman
       from: 2011
+    - person: peter-seah
+      role: board
+      note: Director; Chair HR & Organization Committee
   gilead:
     name: Gilead Sciences
     type: pharma
@@ -20674,6 +21011,11 @@ organizations:
       from: 2004
       to: 2014
       note: SVP & Chief Business Officer
+    - person: greg-wyler
+      role: employee
+      from: 2014
+      to: 2014
+      note: Led satellite internet initiative before WorldVu/OneWeb
     - org: alphabet
       share: 100
       note: Wholly owned subsidiary since 2015
@@ -22285,7 +22627,7 @@ organizations:
       to: 2007
       note: MP New Democracy
   governo-india:
-    name: Repubblica dell'India
+    name: Government of India
     type: government
     founded: 1947
     headquarters: New Delhi, India
@@ -22352,6 +22694,15 @@ organizations:
       from: 1964
       to: 1966
       note: Prime Minister
+    - person: ajay-singh-spicejet
+      role: advisor
+      note: OSD to Ministry of I&B and Communications under Pramod Mahajan (NDA govt)
+    - person: dayanidhi-maran
+      role: minister
+      note: Minister of Communications & IT (2004-2007, 2009-2011)
+    - person: murasoli-maran
+      role: minister
+      note: Union Minister in 3 governments; Commerce & Industry (1999-2002)
   governo-indonesia:
     name: Repubblica di Indonesia
     type: government
@@ -25750,6 +26101,11 @@ organizations:
       from: 2017
       to: 2025
       note: Governor of New Hampshire
+    - person: clay-jones
+      role: official
+      from: 1971
+      to: 1979
+      note: USAF Fighter Pilot
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -26335,6 +26691,18 @@ organizations:
     - org: battery-ventures
       role: investor
       note: 'Exit: Akamai acquisition'
+  guinness-peat-aviation:
+    name: Guinness Peat Aviation
+    type: company
+    founded: 1975
+    headquarters: Shannon, Ireland
+    status: defunct
+    sector: Aviation leasing
+    stakeholders:
+    - person: tony-ryan
+      role: founder
+      from: 1975
+      note: Founder, created aircraft leasing industry
   gulf-air:
     name: Gulf Air
     type: airline
@@ -26869,6 +27237,9 @@ organizations:
     - person: joshua-kushner
       role: alumni
       note: MBA 2011
+    - person: campbell-wilson
+      role: alumni
+      note: Global Strategic Management 2016
   harvard-law:
     name: Harvard Law School
     type: university
@@ -28339,6 +28710,20 @@ organizations:
       role: chairman
       from: 2021
       note: Chairman; board member since 2019
+    - person: willie-walsh
+      role: executive
+      from: 2011
+      to: 2020
+      note: CEO (founding)
+    - person: fernando-candela
+      role: executive
+      from: 2020
+      note: Chief Transformation Officer
+    - person: carolina-martinoli
+      role: executive
+      from: 2011
+      to: 2024
+      note: Chief People, Corporate Affairs and Sustainability Officer
     - org: qatar-airways
       role: stake
       share: 0.251
@@ -28419,6 +28804,25 @@ organizations:
       from: 2024
       to: 2025
       note: Board of Governors
+    - person: naresh-goyal
+      role: board
+      from: 2004
+      to: 2016
+      note: Board member 2004-2006, re-elected 2008-2016
+    - person: willie-walsh
+      role: executive
+      from: 2021
+      note: Director General (8th), Board 2005-2018, Chair 2016-2017
+    - person: xabier-de-irala
+      role: chairman
+      from: 2001
+      to: 2002
+      note: Chairman of the Board
+    - person: goh-choon-phong
+      role: chairman
+      from: 2017
+      to: 2018
+      note: Board of Governors Chairman
   iberdrola:
     name: Iberdrola S.A.
     type: company
@@ -28452,6 +28856,25 @@ organizations:
       from: 2014
       to: 2020
       note: Chairman and CEO
+    - person: fernando-candela
+      role: executive
+      from: 2023
+      to: 2024
+      note: Chairman and CEO
+    - person: xabier-de-irala
+      role: executive
+      from: 1996
+      to: 2001
+      note: Chairman and CEO; led privatization
+    - person: fernando-conte
+      role: executive
+      from: 2003
+      to: 2013
+      note: Chairman
+    - person: marco-sansavini
+      role: executive
+      from: 2012
+      note: CCO 2012-2020, CEO 2024-
     - org: iag
       role: owner
       share: 1.0
@@ -28469,6 +28892,11 @@ organizations:
       from: 2012
       to: 2013
       note: Founding CEO
+    - person: fernando-candela
+      role: executive
+      from: 2013
+      to: 2019
+      note: CEO
     - org: iag
       role: owner
       share: 1.0
@@ -29080,6 +29508,16 @@ organizations:
     - person: dilip-shanghvi
       role: chairman
       note: Chairman Board of Governors
+  iit-delhi:
+    name: Indian Institute of Technology Delhi
+    type: university
+    founded: 1961
+    headquarters: New Delhi, India
+    status: active
+    stakeholders:
+    - person: ajay-singh-spicejet
+      role: alumni
+      note: B.Tech Engineering
   iit-madras:
     name: Indian Institute of Technology Madras
     type: university
@@ -29215,6 +29653,15 @@ organizations:
       role: chairman
       from: 2020
       note: Board 2020, Chairman current
+  imd-lausanne:
+    name: IMD Business School
+    type: university
+    headquarters: Lausanne, Switzerland
+    status: active
+    stakeholders:
+    - person: marco-sansavini
+      role: alumni
+      note: MBA
   imf:
     name: International Monetary Fund
     type: agency
@@ -29792,6 +30239,9 @@ organizations:
     - person: jorge-quemada
       role: alumni
       note: MBA 2001
+    - person: eva-berneke
+      role: alumni
+      note: MBA 1995
   insper:
     name: Insper Instituto de Ensino e Pesquisa
     type: university
@@ -31185,12 +31635,44 @@ organizations:
       from: 2022
       to: 2023
       note: CEO-designate (resigned before relaunch)
+    - person: naresh-goyal
+      role: founder
+      from: 1992
+      to: 2019
+      note: Chairman until March 2019
+    - person: nikos-kardassis
+      role: executive
+      from: 1994
+      to: 2018
+      note: CEO 1994-1999, CEO 2009-2013, Advisor 2018
+    - person: wolfgang-prock-schauer
+      role: executive
+      from: 2003
+      to: 2009
+      note: CEO
+    - person: anita-goyal
+      role: executive
+      from: 1979
+      to: 2019
+      note: EVP, Head of Marketing and Sales
+    - org: gulf-air
+      role: stake
+      share: 0.2
+      from: 1993
+      to: 1997
+      note: Forced to exit due to policy change
     - org: etihad
       role: stake
       share: 0.24
       from: 2013
       to: 2019
       note: acquired for $379M + $220M Heathrow slots
+    - org: kuwait-airways
+      role: stake
+      share: 0.2
+      from: 1993
+      to: 1997
+      note: Forced to exit due to policy change
   jetblue:
     name: JetBlue Airways
     type: airline
@@ -31901,6 +32383,11 @@ organizations:
     headquarters: Tralee, Ireland
     sector: Food/Ingredients
     stakeholders:
+    - person: stan-mccarthy
+      role: executive
+      from: 2008
+      to: 2017
+      note: CEO 2008-2017
     - org: blackrock
       share: 5.9%
     - org: vanguard
@@ -32281,10 +32768,29 @@ organizations:
       from: 1961
       to: 1963
       note: President
+    - person: marco-sansavini
+      role: executive
+      from: 1995
+      to: 2004
+      note: 'Various roles: Marketing Manager, GM Central Europe'
     - org: air-france-klm
       role: parent
       from: 2004
       note: Subsidiary
+  kmd:
+    name: KMD
+    type: company
+    founded: 1972
+    headquarters: Ballerup, Denmark
+    status: active
+    sector: tech
+    note: Danish IT services, subsidiary of NEC
+    stakeholders:
+    - person: eva-berneke
+      role: executive
+      from: 2014
+      to: 2021
+      note: CEO, transformed to digital company
   knpc:
     name: Kuwait National Petroleum Company (KNPC)
     type: company
@@ -32681,6 +33187,12 @@ organizations:
     stakeholders:
     - person: robert-kuok
       role: founder
+  kuwait-airways:
+    name: Kuwait Airways
+    type: airline
+    founded: 1953
+    headquarters: Kuwait City, Kuwait
+    status: active
   kuwait-investment-authority:
     name: Kuwait Investment Authority
     type: swf
@@ -32753,6 +33265,19 @@ organizations:
       share: 1.0
       from: 1984
       note: Acquired Gulf Oil Italia network
+  kyndryl:
+    name: Kyndryl Holdings
+    type: company
+    founded: 2021
+    headquarters: New York, USA
+    status: active
+    sector: IT services
+    note: IBM spin-off
+    stakeholders:
+    - person: stephen-hester
+      role: board
+      from: 2021
+      note: Lead Independent Director
   kyutai:
     name: Kyutai
     type: foundation
@@ -33270,6 +33795,19 @@ organizations:
       role: chairman
       from: 2020
       note: Chairman since 2020
+  lego:
+    name: LEGO Group
+    type: company
+    founded: 1932
+    headquarters: Billund, Denmark
+    status: active
+    sector: consumer
+    note: Toy manufacturer, Kirk Kristiansen family
+    stakeholders:
+    - person: eva-berneke
+      role: board
+      from: 2011
+      note: Non-executive director
   legrand:
     name: Legrand SA
     type: company
@@ -33977,6 +34515,15 @@ organizations:
     type: government
     headquarters: Hanover, Germany
     note: German federal state. Owns VW via Volkswagen Law.
+  loyola-chennai:
+    name: Loyola College, Chennai
+    type: university
+    founded: 1925
+    headquarters: Chennai, India
+    status: active
+    stakeholders:
+    - person: kalanidhi-maran
+      role: alumni
   lpp:
     name: LPP S.A.
     type: company
@@ -34731,6 +35278,8 @@ organizations:
     - person: richard-davis
       role: board
       note: HRCC Chair, ex-CEO US Bancorp
+    - person: goh-choon-phong
+      role: board
     - org: blackrock
       share: 6.8
     - org: vanguard
@@ -35009,6 +35558,11 @@ organizations:
       from: 2000
       to: 2014
       note: Partner, Infrastructure and Real Estate practices, aviation sector Brazil
+    - person: eva-berneke
+      role: partner
+      from: 1993
+      to: 2007
+      note: Partner Paris office, TMT specialist
   mclaren:
     name: McLaren Group
     type: company
@@ -35459,6 +36013,11 @@ organizations:
       from: 1992
       to: 2012
       note: Head Global Origination, Investment Banking
+    - person: nikos-kardassis
+      role: executive
+      from: 1999
+      to: 2008
+      note: MD Global Bank Group, Co-head Investments & Wealth Management
   meta:
     name: Meta Platforms
     type: media
@@ -36327,6 +36886,9 @@ organizations:
     - person: chris-sununu
       role: alumni
       note: BS Mechanical Engineering
+    - person: goh-choon-phong
+      role: alumni
+      note: MS EECS 1990; BS Computer Science, Management Science, Cognitive Science
   mitratel:
     name: PT Dayamitra Telekomunikasi Tbk
     type: company
@@ -37296,6 +37858,16 @@ organizations:
       from: 1971
       to: 1981
       note: President & CEO
+  nationalbank-denmark:
+    name: Danmarks Nationalbank
+    type: centralbank
+    founded: 1818
+    headquarters: Copenhagen, Denmark
+    status: active
+    stakeholders:
+    - person: eva-berneke
+      role: board
+      note: Board member
   natixis:
     name: Natixis
     type: bank
@@ -38390,10 +38962,11 @@ organizations:
       to: 2022
       note: immediate-post-government
   nordea:
-    name: Nordea Bank
+    name: Nordea Abp
     type: bank
     founded: 2001
-    headquarters: Helsinki, Finland
+    headquarters: Helsinki, FIN
+    status: active
     stakeholders:
     - person: bjorn-wahlroos
       role: chairman
@@ -38406,6 +38979,14 @@ organizations:
     - person: casimir-ehrnrooth
       role: board
       note: Union Bank board
+    - person: stephen-hester
+      role: chairman
+      from: 2022
+      note: Chairman
+    - person: frank-vang-jensen
+      role: executive
+      from: 2019
+      note: President & Group CEO
     - org: blackrock
       share: 5.4%
       note: 184.8M shares
@@ -38946,6 +39527,19 @@ organizations:
       note: 17M USD
     - org: vanguard
       share: 1.0%
+  nus:
+    name: National University of Singapore
+    type: university
+    founded: 1905
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - person: goh-choon-phong
+      role: board
+      note: Board of Trustees; Chair Innovation & Enterprise Committee
+    - person: peter-seah
+      role: alumni
+      note: BBA Honours 1968
   nvidia:
     name: NVIDIA Corporation
     type: company
@@ -39061,6 +39655,29 @@ organizations:
     - person: andrea-bonomi
       role: board
       note: Trustee
+  o3b:
+    name: O3b Networks
+    type: company
+    founded: 2007
+    headquarters: Jersey, Channel Islands
+    status: merged
+    sector: tech
+    note: MEO satellite constellation, acquired by SES 2016
+    stakeholders:
+    - person: greg-wyler
+      role: founder
+      from: 2007
+      to: 2009
+      note: Founded, stepped down as CEO 2009
+    - org: google
+      role: stake
+      from: 2009
+      to: 2016
+      note: Early investor alongside SES, HSBC
+    - org: ses
+      role: subsidiary
+      from: 2016
+      note: Full acquisition $2.6B, now SES Networks
   oak-foundation:
     name: Oak Foundation
     type: foundation
@@ -39486,6 +40103,46 @@ organizations:
     - person: justin-rosenstein
       role: founder
       note: Co-founder & Co-director
+  oneweb:
+    name: OneWeb
+    type: company
+    founded: 2012
+    headquarters: London, United Kingdom
+    status: merged
+    sector: tech
+    note: Satellite internet constellation, merged with Eutelsat 2023
+    stakeholders:
+    - person: sunil-mittal
+      role: chairman
+      from: 2020
+      to: 2023
+      note: Executive Chairman post-bankruptcy, now Vice-Chair Eutelsat
+    - person: greg-wyler
+      role: founder
+      from: 2012
+      to: 2017
+      note: Founded as WorldVu, renamed OneWeb
+    - org: governo-uk
+      role: stake
+      share: 0.19
+      from: 2020
+      to: 2023
+      note: $500M bailout investment, special share retained for national security
+    - org: softbank
+      role: stake
+      share: 0.12
+      from: 2016
+      to: 2023
+      note: Initial $1B investment 2016, retained 12% post-bankruptcy
+    - org: eutelsat
+      role: subsidiary
+      from: 2023
+      note: Full acquisition via merger, now Eutelsat OneWeb
+    - org: bharti-global
+      role: stake
+      from: 2020
+      to: 2023
+      note: Major shareholder post-bankruptcy
   oneworld:
     name: oneworld Alliance
     type: forum
@@ -40253,6 +40910,18 @@ organizations:
     stakeholders:
     - person: michelle-dipp
       role: founder
+  overseas-union-bank:
+    name: Overseas Union Bank
+    type: bank
+    headquarters: Singapore
+    status: defunct
+    note: Acquired by UOB 2001
+    stakeholders:
+    - person: peter-seah
+      role: executive
+      from: 1977
+      to: 2001
+      note: Vice-Chairman & CEO
   ovs:
     name: OVS S.p.A.
     type: company
@@ -40306,6 +40975,9 @@ organizations:
     - person: walter-isaacson
       role: alumni
       note: PPE First Class Honours, Rhodes Scholar, Pembroke College
+    - person: stephen-hester
+      role: alumni
+      note: BA PPE 1982, Lady Margaret Hall
   oxford-university:
     name: University of Oxford
     type: university
@@ -42985,6 +43657,41 @@ organizations:
       role: board
       from: 2018
       note: Central board committee member
+  rbs:
+    name: Royal Bank of Scotland
+    type: bank
+    founded: 1727
+    headquarters: Edinburgh, GBR
+    status: active
+    note: Now part of NatWest Group (rebranded 2020). Bailout £45.5B 2008-2009. Returned to private ownership May 2025.
+    stakeholders:
+    - person: stephen-hester
+      role: executive
+      from: 2008
+      to: 2013
+      note: CEO, led restructuring after 2008 bailout
+    - person: fred-goodwin
+      role: executive
+      from: 2000
+      to: 2008
+      note: CEO, led ABN Amro acquisition
+    - person: tom-mckillop
+      role: chairman
+      to: 2009
+      note: Chairman during bailout
+    - person: paul-thwaite
+      role: executive
+      from: 2024
+      note: CEO (as NatWest Group)
+    - person: alison-rose
+      role: executive
+      from: 2019
+      to: 2023
+      note: CEO (as NatWest Group)
+    - person: howard-davies
+      role: chairman
+      to: 2024
+      note: Chairman (as NatWest Group)
   rcs-mediagroup:
     name: RCS MediaGroup
     type: media
@@ -43903,6 +44610,46 @@ organizations:
       role: executive
       from: 2016
       note: President
+  rockwell-collins:
+    name: Rockwell Collins
+    type: defense
+    founded: 1933
+    headquarters: Cedar Rapids, Iowa, USA
+    status: merged
+    sector: aerospace
+    note: Originariamente Collins Radio Company, fondata da Arthur Collins
+    stakeholders:
+    - person: kelly-ortberg
+      role: executive
+      from: 2013
+      to: 2018
+      note: Chairman, President & CEO
+    - person: clay-jones
+      role: executive
+      from: 2001
+      to: 2013
+      note: Chairman 2002, President 1999, CEO 2001
+    - person: arthur-collins
+      role: founder
+      from: 1933
+      to: 1971
+      note: Founder Collins Radio Company, removed by Rockwell 1971
+    - org: united-technologies
+      role: parent
+      share: 1.0
+      from: 2018
+      note: Acquired for $30B, merged with UTC Aerospace to form Collins Aerospace
+    - org: rockwell-international
+      role: parent
+      from: 1973
+      to: 2001
+      note: Acquired Collins Radio 1973, spun off 2001 IPO
+  rockwell-international:
+    name: Rockwell International
+    type: company
+    headquarters: Pittsburgh, Pennsylvania, USA
+    status: defunct
+    sector: aerospace
   rockwool-foundation:
     name: Rockwool Foundation
     type: foundation
@@ -44207,6 +44954,19 @@ organizations:
       role: board
       from: 2001
       to: 2006
+  rsa-insurance:
+    name: RSA Insurance Group
+    type: company
+    headquarters: London, GBR
+    status: defunct
+    sector: insurance
+    note: Acquired by Intact/Tryg 2021
+    stakeholders:
+    - person: stephen-hester
+      role: executive
+      from: 2014
+      to: 2021
+      note: CEO
   rsi:
     name: Repubblica Sociale Italiana
     type: government
@@ -44460,21 +45220,55 @@ organizations:
       role: shareholder
       share: 2.5
   ryanair:
-    name: Ryanair
+    name: Ryanair Holdings plc
     type: company
+    founded: 1984
     headquarters: Dublin, Ireland
+    status: active
     sector: Aviation
     stakeholders:
+    - person: amber-rudd
+      role: board
+      from: 2024
+      note: Non-Executive Director
     - person: michael-oleary
       role: executive
       from: 1988
       note: CFO 1988-94; CEO 1994-2019; Group CEO 2019-
+    - person: tony-ryan
+      role: founder
+      from: 1984
+      to: 2007
+      note: Co-founder; Chairman until 1997
+    - person: david-bonderman
+      role: board
+      from: 1996
+      note: Acquired 20% stake 1996
+    - person: stan-mccarthy
+      role: chairman
+      from: 2017
+      note: Non-Executive Chairman
+    - person: declan-ryan
+      role: founder
+      from: 1984
+      note: Co-founder with father Tony Ryan
+    - person: cathal-ryan
+      role: board
+      from: 1985
+      to: 2007
+      note: Inaugural pilot, board member
     - org: blackrock
-      share: 3.5%
+      role: stake
+      share: 0.035
+      note: 3.5% as of July 2025
     - org: vanguard
       share: 4.0%
     - org: state-street
       share: 2.5%
+    - org: capital-group
+      role: stake
+      share: 0.14
+      note: '>14% as of Dec 2025'
   s-cubed-capital:
     name: S-Cubed Capital
     type: privateequity
@@ -45445,6 +46239,40 @@ organizations:
     - org: governo-iran
       role: member
       from: 2023
+  scoot:
+    name: Scoot
+    type: airline
+    founded: 2011
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - person: campbell-wilson
+      role: founder
+      from: 2011
+      to: 2016
+      note: Founding CEO; second term 2020-2022
+    - person: leslie-thng
+      role: executive
+      from: 2022
+      note: CEO; EVP SIA Group from 2024
+    - person: goh-choon-phong
+      role: chairman
+      note: Chairman Budget Aviation Holdings
+    - org: singapore-airlines
+      role: stake
+      share: 1.0
+      from: 2011
+      note: wholly owned subsidiary via Budget Aviation Holdings
+  scranton:
+    name: University of Scranton
+    type: university
+    founded: 1888
+    headquarters: Scranton, USA
+    status: active
+    stakeholders:
+    - person: kalanidhi-maran
+      role: alumni
+      note: Business Administration
   scsp:
     name: Special Competitive Studies Project
     type: thinktank
@@ -46356,8 +47184,36 @@ organizations:
   singapore-airlines:
     name: Singapore Airlines
     type: airline
+    founded: 1947
     headquarters: Singapore
     status: active
+    stakeholders:
+    - person: campbell-wilson
+      role: executive
+      from: 1996
+      to: 2022
+      note: Founding CEO Scoot 2011-2016, 2020-2022; SVP Sales & Marketing 2016-2020
+    - person: vinod-kannan
+      role: executive
+      note: Career from 2001; CCO Scoot
+    - person: leslie-thng
+      role: executive
+      note: CEO Silkair; CCO TigerAir/Scoot
+    - person: phee-teik-yeoh
+      role: executive
+      note: Career SIA man; SVP Customer Experience
+    - person: goh-choon-phong
+      role: executive
+      from: 2011
+      note: CEO
+    - person: peter-seah
+      role: chairman
+      from: 2017
+      note: Chairman
+    - org: temasek
+      role: stake
+      share: 0.56
+      note: majority shareholder via Napier Investments
   singapore-technologies:
     name: Singapore Technologies Engineering
     type: company
@@ -47371,6 +48227,15 @@ organizations:
       from: 2013
       to: 2015
       note: COO
+    - person: ajay-singh-spicejet
+      role: founder
+      from: 2005
+      note: Co-founder, Chairman & MD; sold 2010, reacquired 2015
+    - person: kalanidhi-maran
+      role: shareholder
+      from: 2010
+      to: 2015
+      note: Majority stake via KAL Airways; sold back to Ajay Singh
   spinelli-group:
     name: Spinelli Group
     type: forum
@@ -47524,6 +48389,17 @@ organizations:
     - person: ed-bastian
       role: alumni
       note: BBA Accounting 1979
+  st-engineering:
+    name: Singapore Technologies Engineering
+    type: defense
+    headquarters: Singapore
+    status: active
+    stakeholders:
+    - person: peter-seah
+      role: executive
+      from: 2001
+      to: 2004
+      note: President & CEO Singapore Technologies
   stada:
     name: STADA Arzneimittel AG
     type: pharma
@@ -47791,8 +48667,9 @@ organizations:
       role: partner
       from: 2009
     - org: air-india
-      role: partner
+      role: member
       from: 2014
+      note: 27th member
     - org: turkish-airlines
       role: partner
       from: 2008
@@ -47813,8 +48690,9 @@ organizations:
       from: 1997
       note: Founding member
     - org: singapore-airlines
-      role: partner
+      role: member
       from: 2000
+      note: founding member
     - org: air-new-zealand
       role: partner
       from: 1999
@@ -47866,6 +48744,9 @@ organizations:
     - org: shenzhen-airlines
       role: partner
       from: 2012
+    - org: scoot
+      role: member
+      note: connecting partner via SIA
   star-energy:
     name: Star Energy
     type: company
@@ -48467,6 +49348,16 @@ organizations:
     type: company
     headquarters: Nagoya, Japan
     status: active
+  sun-group:
+    name: Sun Group
+    type: media
+    founded: 1993
+    headquarters: Chennai, India
+    status: active
+    stakeholders:
+    - person: kalanidhi-maran
+      role: founder
+      note: Founder & Chairman
   sun-microsystems:
     name: Sun Microsystems
     type: company
@@ -49303,6 +50194,20 @@ organizations:
       role: majority shareholder
       share: 71%
       from: 1968
+  tdc:
+    name: TDC Group
+    type: company
+    founded: 1882
+    headquarters: Copenhagen, Denmark
+    status: active
+    sector: tech
+    note: Largest Danish telecom, formerly TeleDanmark
+    stakeholders:
+    - person: eva-berneke
+      role: executive
+      from: 2007
+      to: 2014
+      note: CSO, then SVP Business
   teach-for-china:
     name: Teach for China
     type: foundation
@@ -51183,6 +52088,16 @@ organizations:
     - person: christopher-calio
       role: alumni
       note: BA Political Science
+  trinity-college-dublin:
+    name: Trinity College Dublin
+    type: university
+    founded: 1592
+    headquarters: Dublin, Ireland
+    status: active
+    stakeholders:
+    - person: willie-walsh
+      role: alumni
+      note: MSc Management 1992
   trt:
     name: Turkish Radio and Television Corporation
     type: media
@@ -51395,6 +52310,15 @@ organizations:
     - person: vannevar-bush
       role: alumni
       note: BS Mathematics 1913, MS Mathematics 1913
+  tui-group:
+    name: TUI Group
+    type: company
+    headquarters: Hanover, DEU
+    status: active
+    stakeholders:
+    - person: kenton-jarvis
+      role: executive
+      note: CEO Aviation division
   tulane:
     name: Tulane University
     type: university
@@ -51560,6 +52484,16 @@ organizations:
       from: 2007
       to: 2019
       note: CEO
+  twa:
+    name: Trans World Airlines
+    type: airline
+    founded: 1930
+    headquarters: Kansas City, USA
+    status: defunct
+    stakeholders:
+    - person: nikos-kardassis
+      role: executive
+      note: Finance and operational positions
   twitter:
     name: Twitter
     type: company
@@ -52363,6 +53297,12 @@ organizations:
       role: chairman
       from: 2023
       note: Chairman of the Board
+  united-technologies:
+    name: United Technologies Corporation
+    type: company
+    founded: 1934
+    headquarters: Farmington, Connecticut, USA
+    status: merged
   unitedhealth:
     name: UnitedHealth Group
     type: company
@@ -52610,6 +53550,16 @@ organizations:
       from: 1962
       to: 1966
       note: BS Business Administration
+  university-of-bologna:
+    name: University of Bologna
+    type: university
+    founded: 1088
+    headquarters: Bologna, Italy
+    status: active
+    stakeholders:
+    - person: marco-sansavini
+      role: alumni
+      note: BA Economics
   university-of-bonn:
     name: University of Bonn
     type: university
@@ -52620,6 +53570,15 @@ organizations:
     - person: christian-szegedy
       role: alumni
       note: PhD Applied Mathematics 2005
+  university-of-canterbury:
+    name: University of Canterbury
+    type: university
+    headquarters: Christchurch, New Zealand
+    status: active
+    stakeholders:
+    - person: campbell-wilson
+      role: alumni
+      note: BCom 1994, MCom 1995 Business Administration
   university-of-chicago:
     name: University of Chicago
     type: thinktank
@@ -52676,6 +53635,18 @@ organizations:
     - person: ahmed-bin-saeed-al-maktoum
       role: alumni
       note: Business Administration
+  university-of-iowa:
+    name: University of Iowa
+    type: university
+    headquarters: Iowa City, USA
+    status: active
+    stakeholders:
+    - person: kelly-ortberg
+      role: alumni
+      note: BS Mechanical Engineering 1982
+    - person: troy-brunk
+      role: alumni
+      note: BS Industrial Engineering 1992, MBA 2005
   university-of-london:
     name: University of London
     type: university
@@ -52741,6 +53712,15 @@ organizations:
     - person: alan-armstrong
       role: alumni
       note: BS Civil Engineering 1985
+  university-of-tennessee:
+    name: University of Tennessee
+    type: university
+    headquarters: Knoxville, Tennessee, USA
+    status: active
+    stakeholders:
+    - person: clay-jones
+      role: alumni
+      note: BA Political Science 1971
   university-of-texas:
     name: University of Texas at Austin
     type: university
@@ -53433,6 +54413,10 @@ organizations:
     headquarters: Aarhus, Denmark
     sector: Wind Energy
     stakeholders:
+    - person: eva-berneke
+      role: board
+      from: 2019
+      note: Independent director
     - org: blackrock
       share: 8.6%
     - org: vanguard
@@ -53646,17 +54630,44 @@ organizations:
       share: 100
       from: 2004
   vistara:
-    name: Vistara - TATA SIA Airlines
+    name: Vistara
     type: airline
     founded: 2013
     headquarters: Gurgaon, India
-    status: active
+    status: defunct
     stakeholders:
     - person: sanjiv-kapoor
       role: executive
       from: 2016
       to: 2020
       note: Chief Strategy & Commercial Officer
+    - person: vinod-kannan
+      role: executive
+      from: 2022
+      to: 2024
+      note: CEO (last CEO before merger)
+    - person: leslie-thng
+      role: executive
+      from: 2017
+      to: 2021
+      note: CEO; launched international ops, B787
+    - person: phee-teik-yeoh
+      role: executive
+      from: 2014
+      to: 2017
+      note: First CEO, launched airline
+    - org: tata-sons
+      role: owner
+      share: 0.51
+      from: 2013
+      to: 2024
+      note: Joint venture with Singapore Airlines
+    - org: singapore-airlines
+      role: stake
+      share: 0.49
+      from: 2013
+      to: 2024
+      note: Joint venture with Tata Sons; converted to 25.1% Air India stake
   vistria-group:
     name: The Vistria Group
     type: privateequity
@@ -54022,6 +55033,20 @@ organizations:
       from: 2009
       to: 2012
       note: COO
+    - person: marco-sansavini
+      role: executive
+      from: 2020
+      to: 2024
+      note: CEO
+    - person: carolina-martinoli
+      role: executive
+      from: 2024
+      note: CEO and Chair
+    - person: alex-cruz
+      role: executive
+      from: 2009
+      to: 2016
+      note: CEO
     - org: iag
       role: owner
       share: 1.0
@@ -55714,6 +56739,8 @@ organizations:
     - person: volodymyr-zelenskyy
       role: member
       note: Speaker Davos 2026
+    - person: ajay-singh-spicejet
+      role: member
     - org: bilderberg
       role: partner
     - org: fmi

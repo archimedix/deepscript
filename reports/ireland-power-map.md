@@ -28,12 +28,14 @@ L'Irlanda, paese di 5 milioni di abitanti, esercita un'influenza sproporzionata 
 | 5 | [Denis O'Brien](../docs/persons/denis-obrien.md) | 1958 | 3 | Digicel Founder |
 | 6 | [Mary Robinson](../docs/persons/mary-robinson.md) | 1944 | 3 | The Elders Chair |
 | 7 | [Michael O'Leary](../docs/persons/michael-oleary.md) | 1961 | 3 | Ryanair CEO |
-| 8 | [Leo Varadkar](../docs/persons/leo-varadkar.md) | 1979 | 2 | Ex-Taoiseach |
-| 9 | [Simon Harris](../docs/persons/simon-harris.md) | 1986 | 2 | Tanaiste |
-| 10 | [Bernard Looney](../docs/persons/bernard-looney.md) | 1970 | 2 | Ex-BP CEO |
-| 11 | [Albert Manifold](../docs/persons/albert-manifold.md) | - | 2 | BP Chairman |
-| 12 | [Dermot Desmond](../docs/persons/dermot-desmond.md) | 1950 | 1 | IFSC Founder |
-| 13 | [Philip Lane](../docs/persons/philip-lane.md) | 1969 | 1 | ECB Chief Economist |
+| 8 | [Tony Ryan](../docs/persons/tony-ryan.md) | 1936 | 3 | GPA/Ryanair Founder |
+| 9 | [Leo Varadkar](../docs/persons/leo-varadkar.md) | 1979 | 2 | Ex-Taoiseach |
+| 10 | [Simon Harris](../docs/persons/simon-harris.md) | 1986 | 2 | Tanaiste |
+| 11 | [Bernard Looney](../docs/persons/bernard-looney.md) | 1970 | 2 | Ex-BP CEO |
+| 12 | [Albert Manifold](../docs/persons/albert-manifold.md) | - | 2 | BP Chairman |
+| 13 | [Stan McCarthy](../docs/persons/stan-mccarthy.md) | - | 2 | Ryanair Chairman |
+| 14 | [Dermot Desmond](../docs/persons/dermot-desmond.md) | 1950 | 1 | IFSC Founder |
+| 15 | [Philip Lane](../docs/persons/philip-lane.md) | 1969 | 1 | ECB Chief Economist |
 
 ---
 
@@ -109,7 +111,39 @@ Pipeline per la nuova classe dirigente irlandese:
 
 **Pattern**: Due su tre sono diventati leader politici (Varadkar Taoiseach, Harris Tanaiste).
 
-### 5. ECB-Central Bank Axis
+### 5. Tony Ryan Mentor Network
+
+Tony Ryan (1936-2007) e' il nodo centrale di una delle piu' importanti reti mentor-protege irlandesi:
+
+```
+TONY RYAN NETWORK
+
+         GPA (1975)                      RYANAIR (1984)
+              |                               |
+              v                               v
+    Inventore aircraft leasing         Co-founder con figli
+              |
+    +---------+---------+
+    |         |         |
+    v         v         v
+Denis O'Brien   Michael O'Leary   Declan/Cathal Ryan
+(PA ~1985-88)   (PA 1987, CFO 88)    (Figli, board)
+    |               |
+    v               v
+Digicel         Ryanair
+Billionaire     Largest EU carrier
+Bilderberg      Bilderberg Steering
+```
+
+| Protege | Ruolo con Ryan | Successo |
+|---------|----------------|----------|
+| [Michael O'Leary](../docs/persons/michael-oleary.md) | Tax advisor, poi CFO | CEO Ryanair, Bilderberg Steering, ~EUR 2.5B |
+| [Denis O'Brien](../docs/persons/denis-obrien.md) | Personal Assistant | Digicel founder, Bilderberg, ~EUR 4B |
+| [Declan Ryan](../docs/persons/declan-ryan.md) | Figlio, co-founder | Irelandia Aviation |
+
+**Pattern**: Ryan formo' due dei tre irlandesi miliardari piu' influenti (O'Brien, O'Leary).
+
+### 6. ECB-Central Bank Axis
 
 Irlandesi ai vertici della politica monetaria europea:
 
@@ -137,7 +171,9 @@ Irlandesi ai vertici della politica monetaria europea:
 
 | Organizzazione | Settore | Connessioni Chiave |
 |----------------|---------|-------------------|
-| [Ryanair](../docs/company/ryanair.md) | Aviation | O'Leary (CEO 1994-) |
+| [Ryanair](../docs/airline/ryanair.md) | Aviation | Tony Ryan (founder), O'Leary (CEO), McCarthy (Chairman) |
+| [Guinness Peat Aviation](../docs/company/guinness-peat-aviation.md) | Leasing | Tony Ryan (founder 1975) - creo' l'industria |
+| [Kerry Group](../docs/company/kerry-group.md) | Food | McCarthy (CEO 2008-17) |
 | [CRH](../docs/company/crh.md) | Construction | Manifold (CEO 2014-24) |
 | [Digicel](../docs/company/digicel.md) | Telecom | O'Brien (Founder) |
 
@@ -222,9 +258,14 @@ Irlandesi ai vertici della politica monetaria europea:
 
 | Persona 1 | Tipo | Persona 2 | Note |
 |-----------|------|-----------|------|
+| Tony Ryan | mentor | Michael O'Leary | PA 1987, CFO 1988, successore |
+| Tony Ryan | mentor | Denis O'Brien | PA ~1985-88, poi Digicel |
+| Tony Ryan | parent | Declan Ryan | Figlio, co-founder Ryanair |
+| Tony Ryan | parent | Cathal Ryan | Figlio, pilota Ryanair, board |
 | Peter Sutherland | colleague | Dermot Gleeson | Entrambi AG IRL + AIB |
 | Peter Sutherland | predecessor | Bernard Looney | BP connection |
 | Bernard Looney | colleague | Albert Manifold | BP Irish leadership |
+| Stan McCarthy | bridge | Michael O'Leary | Kerry Group CEO → Ryanair Chairman |
 | Paschal Donohoe | colleague | Leo Varadkar | Fine Gael cabinet |
 | Paschal Donohoe | colleague | Simon Harris | Fine Gael; Harris successore Finance |
 | Philip Lane | colleague | Gabriel Makhlouf | ECB Governing Council |
@@ -238,18 +279,29 @@ Irlandesi ai vertici della politica monetaria europea:
 
 L'Irlanda rimane ai margini delle strutture di potere globale. Economia agricola, emigrazione di massa, dipendenza dal Regno Unito.
 
+### 1975-1985: Nascita dell'Aviation Industry
+
+- **1975**: Tony Ryan fonda GPA (Guinness Peat Aviation) - inventa aircraft leasing
+- **1984**: Tony Ryan fonda Ryanair
+- **1985**: Primo volo Ryanair Dublin-Waterford; Sutherland EU Commissioner Competition
+
 ### 1985-2000: Integrazione Europea
 
-- **1985**: Sutherland EU Commissioner Competition
 - **1987**: IFSC fondato (Dermot Desmond)
+- **1988**: Michael O'Leary CFO Ryanair
 - **1990**: Mary Robinson prima donna President
+- **1991**: O'Leary visita Southwest Airlines, adotta modello low-cost
+- **1992**: Crollo GPA (IPO cancellata), fine era Ryan come tycoon
 - **1993**: Sutherland fonda WTO
+- **1994**: O'Leary CEO Ryanair
 - **1995**: Sutherland Chairman Goldman Sachs International
+- **1997**: Tony Ryan lascia chairmanship Ryanair; IPO Dublin/NYSE
 
 ### 2000-2010: Celtic Tiger e Crisi
 
-- **2003**: Gleeson Chairman AIB
+- **2003**: Gleeson Chairman AIB; Ryanair sorpassa British Airways
 - **2006**: Sutherland UN Special Envoy Migration
+- **2007**: Morte Tony Ryan (3 ottobre), figlio Cathal 3 mesi dopo
 - **2008**: Crisi bancaria; Gleeson dimissioni AIB
 - **2009**: Sutherland lascia BP
 
@@ -283,11 +335,17 @@ L'Irlanda rimane ai margini delle strutture di potere globale. Economia agricola
 |---------|-----------|
 | BP | Sutherland (Chairman), Looney (CEO), Manifold (Chairman) |
 
-### Trasporti
+### Aviation (Pattern dominante)
 
-| Azienda | Irlandese |
-|---------|-----------|
-| Ryanair | O'Leary (CEO) |
+L'Irlanda ha una posizione unica nell'aviazione globale:
+
+| Settore | Azienda/Ruolo | Irlandese |
+|---------|---------------|-----------|
+| **Aircraft Leasing** | GPA (founder industria 1975) | Tony Ryan |
+| **Low-cost carrier** | Ryanair (largest EU) | Ryan (founder), O'Leary (CEO), McCarthy (Chairman) |
+| **Petroleum** | BP (3 leadership) | Sutherland, Looney, Manifold |
+
+**Pattern**: Tony Ryan invento' l'aircraft leasing con GPA (1975), poi fondo' Ryanair (1984), formando O'Leary che la trasformo' nel piu' grande vettore europeo. La connessione Kerry Group → Ryanair (McCarthy CEO Kerry → Chairman Ryanair) mostra la cooptazione tra settori.
 
 ### Media/Telecomunicazioni
 
@@ -305,11 +363,12 @@ L'Irlanda rimane ai margini delle strutture di potere globale. Economia agricola
 | Persona | Motivo |
 |---------|--------|
 | Colm Kelleher | UBS Chairman, Morgan Stanley President |
-| Denis O'Brien | Billionaire, Bilderberg, controversie politiche |
+| Denis O'Brien | Billionaire, Bilderberg, controversie politiche, protege Tony Ryan |
 | Dermot Desmond | IFSC founder, Celtic FC |
 | Mary Robinson | President, UN, Elders Chair |
 | Albert Manifold | CRH, BP Chairman |
 | Bernard Looney | BP CEO |
+| Declan Ryan | Figlio Tony Ryan, Irelandia Aviation |
 
 ### Priority 2 - Da ricercare
 
@@ -369,4 +428,4 @@ La piccola Irlanda ha costruito una rete di influenza globale attraverso:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

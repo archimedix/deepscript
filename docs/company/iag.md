@@ -88,6 +88,7 @@ Tutte le compagnie IAG (eccetto LEVEL) sono membri di [oneworld](../airline/onew
 |---------|-------|
 | [Javier Ferrán](../persons/javier-ferran.md) | Chairman (2021-) |
 | [Luis Gallego](../persons/luis-gallego.md) | CEO (2020-) |
+| [Willie Walsh](../persons/willie-walsh.md) | CEO fondatore (2011-2020) |
 | [Sean Doyle](../persons/sean-doyle.md) | CEO British Airways |
 
 ### Organizzazioni correlate

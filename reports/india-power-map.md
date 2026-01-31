@@ -14,6 +14,7 @@ L'India post-1991 rappresenta un **caso studio unico** di trasformazione economi
 - **Media consolidation**: Reliance e Adani dominano l'informazione
 - **WEF integration**: Massiccia presenza a Davos, 3 Co-Chairman indiani
 - **Asse India-UK**: Murthy-Sunak, Tata-JLR, Hinduja - soft power via capitale
+- **Aviazione consolidata**: Tata riacquista Air India dopo 69 anni, merger Vistara, asse India-Singapore
 
 ---
 
@@ -541,6 +542,118 @@ WEF Board 2006                1.4 miliardi ID             G20 DPI Chair 2023
 | **IT Services** | Tata ([TCS](../docs/company/tcs.md) $30B) + [Infosys](../docs/company/infosys.md) $19B + [HCL](../docs/company/hcl-technologies.md) $14B + Wipro | 60%+ export, 1M+ dipendenti |
 | **Pharma Generici** | [Sun Pharma](../docs/pharma/sun-pharma.md) ([Shanghvi](../docs/persons/dilip-shanghvi.md)) | Largest India, "Farmacia del Mondo" |
 | **Retail** | Ambani (Reliance Retail) | In crescita |
+| **Aviazione** | [Tata](../docs/family/tata-family.md) ([Air India](../docs/airline/air-india.md) + [Vistara](../docs/airline/vistara.md) merged) + Ambani (Jio) + SpiceJet | Consolidamento Tata 2022-24 |
+
+---
+
+## Aviazione: Il Ritorno dei Tata
+
+### Consolidamento 2022-2024
+
+```
+1932: JRD TATA fonda Tata Airlines
+              |
+1946: Rinominata AIR INDIA
+              |
+1953: NAZIONALIZZAZIONE (Nehru)
+              |
+         [69 ANNI DI STATO]
+              |
+2022: TATA RIACQUISTA Air India (₹18,000 crore)
+              |
+2024: MERGER VISTARA → Air India
+              |
+         SINGAPORE AIRLINES 25.1%
+```
+
+### Struttura Attuale (2025)
+
+| Compagnia | Proprietario | Quote | Note |
+|-----------|--------------|-------|------|
+| [Air India](../docs/airline/air-india.md) | [Tata Sons](../docs/company/tata-sons.md) 74.9% + [Singapore Airlines](../docs/airline/singapore-airlines.md) 25.1% | Flag carrier | 300 aerei post-merger, Star Alliance |
+| [Vistara](../docs/airline/vistara.md) | - | **Merged** Nov 2024 | Brand dismesso |
+| Air India Express | Tata 100% | Low-cost | |
+| [SpiceJet](../docs/airline/spicejet.md) | [Ajay Singh](../docs/persons/ajay-singh-spicejet.md) 59% | #4 India | Fondatore creatore slogan BJP |
+| IndiGo | Disperso | #1 India | ~60% market share |
+
+### Pattern: Ciclo Tata-Stato-Tata
+
+Air India rappresenta l'unico caso di azienda tornata ai fondatori dopo 69 anni di nazionalizzazione:
+
+| Fase | Periodo | Caratteristiche |
+|------|---------|-----------------|
+| **Fondazione Tata** | 1932-1953 | JRD Tata pilota primo volo, efficienza, profitti |
+| **Nazionalizzazione** | 1953-2022 | Stato sviluppista Nehru, declino, debiti |
+| **Ri-privatizzazione** | 2022- | Ritorno Tata, merger Vistara, Singapore Airlines partner |
+
+### Asse India-Singapore (Aviazione)
+
+```
+TEMASEK (SWF Singapore)
+         |
+         v
+SINGAPORE AIRLINES
+         |
+    +----+----+
+    |         |
+    v         v
+ VISTARA   AIR INDIA
+ (49%)     (25.1% post-merger)
+ 2013-24        2024-
+```
+
+**Pattern**: Singapore Airlines ha costruito una presenza strategica nell'aviazione indiana:
+- Joint venture Vistara (2013-2024) con Tata
+- Conversione 49% Vistara → 25.1% Air India (2024)
+- Management expertise (tutti i CEO Vistara erano singaporiani)
+
+### SpiceJet e il Nexus BJP
+
+[Ajay Singh](../docs/persons/ajay-singh-spicejet.md) rappresenta la convergenza business-politica BJP:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Ruolo SpiceJet** | Co-founder 2005, Chairman & MD |
+| **Ruolo BJP** | Creatore slogan **"Abki Baar Modi Sarkar"** (2014) |
+| **Governo** | OSD sotto Pramod Mahajan (Min. I&B, NDA) |
+| **WEF** | Member |
+| **Education** | IIT Delhi, Cornell MBA, Delhi LLB |
+
+**Pattern**: Revolving door governo BJP → business → supporto campagne elettorali.
+
+### Dinastia Maran: Media-Politica-Aviazione (Tamil Nadu)
+
+```
+M. KARUNANIDHI (CM Tamil Nadu, DMK)
+         |
+         | nipote
+         v
+MURASOLI MARAN (†2003)
+Union Minister Commerce 1999-2002
+         |
+    +----+----+
+    |         |
+    v         v
+KALANITHI     DAYANIDHI
+(1964)        MARAN
+    |         Union Minister
+    v         Communications 2004-11
+SUN GROUP
+(media empire)
+    |
+    +-- Sun TV (33 canali)
+    +-- Sun Pictures (film)
+    +-- Sunrisers Hyderabad (IPL)
+    +-- SpiceJet (2010-2015, venduto)
+```
+
+[Kalanithi Maran](../docs/persons/kalanidhi-maran.md) ($2.57B):
+- Fondatore [Sun Group](../docs/media/sun-group.md) (1993)
+- Proprietario SpiceJet 2010-2015 (venduto ad Ajay Singh)
+- Pronipote di Karunanidhi (DMK patriarch)
+- Fratello Dayanidhi ex-ministro (Aircel-Maxis scandal)
+
+**Pattern**: Dinastia politica DMK → impero mediatico → tentativo aviazione fallito → ritorno media.
 
 ---
 
@@ -616,6 +729,12 @@ WEF Board 2006                1.4 miliardi ID             G20 DPI Chair 2023
 | `ashok-hinduja` | Chairman India, Healthcare | - |
 | `sanjay-hinduja` | 3a gen Hinduja, Executive | - |
 | `dheeraj-hinduja` | 3a gen Hinduja, Executive | - |
+| `ajay-singh-spicejet` | SpiceJet founder, creatore "Abki Baar Modi Sarkar", WEF | [Link](../docs/persons/ajay-singh-spicejet.md) |
+| `kalanidhi-maran` | Sun Group founder, $2.57B, pronipote Karunanidhi | [Link](../docs/persons/kalanidhi-maran.md) |
+| `dayanidhi-maran` | Union Minister Communications 2004-11, fratello Kalanithi | **STUB** |
+| `murasoli-maran` | Union Minister Commerce 1999-2002, padre Maran (†2003) | **STUB** |
+| `campbell-wilson` | CEO Air India (2022-), ex-Singapore Airlines | **STUB** |
+| `vinod-kannan` | Ultimo CEO Vistara (2022-24) | **STUB** |
 
 ### Connessione UK Documentata
 
@@ -687,6 +806,15 @@ WEF Board 2006                1.4 miliardi ID             G20 DPI Chair 2023
 | `jindal-family` | Family | Steel dynasty, $40B patrimonio famiglia |
 | `iit-bombay` | University | Dilip Shanghvi Chairman Board |
 | `rhodes-trust` | Foundation | Dilip Shanghvi Trustee 2017- |
+| `air-india` | ~~Airline~~ | **COMPLETATA** [Link](../docs/airline/air-india.md) - Tata 74.9%, SIA 25.1%, 300 aerei |
+| `vistara` | ~~Airline~~ | **COMPLETATA** [Link](../docs/airline/vistara.md) - Merged Nov 2024, defunct |
+| `spicejet` | ~~Airline~~ | **COMPLETATA** [Link](../docs/airline/spicejet.md) - Ajay Singh 59%, #4 India |
+| `singapore-airlines` | Airline | Partner Air India 25.1%, ex-Vistara 49% |
+| `sun-group` | Media | Kalanithi Maran, Sun TV, 33 canali, IPL team |
+| `tata-sons` | ~~Company~~ | **COMPLETATA** [Link](../docs/company/tata-sons.md) - Holding 66% trust, $446B market cap |
+| `iit-delhi` | University | Ajay Singh alumni |
+| `loyola-chennai` | University | Kalanithi Maran alumni |
+| `star-alliance` | Forum | Air India member dal 2014 |
 
 ---
 
@@ -848,7 +976,9 @@ Due leader industriali indiani hanno co-presieduto Davos, segnalando l'integrazi
 | **1914** | Parmanand Hinduja fonda Hinduja Group a Shikarpur |
 | **1919** | G.D. Birla acquisisce Birla Jute Mill; Hinduja si espande in Iran |
 | **1924** | G.D. Birla co-fonda Hindustan Times |
+| **1932** | **JRD Tata fonda Tata Airlines** (poi [Air India](../docs/airline/air-india.md)), primo volo Karachi-Bombay pilotato personalmente |
 | **1947** | **Indipendenza e Partition**; [Jawaharlal Nehru](../docs/persons/jawaharlal-nehru.md) primo PM; famiglie pre-esistenti (Tata, Birla) |
+| **1953** | **Nazionalizzazione Air India** (Nehru); JRD Tata resta Chairman fino 1977 |
 | **1958** | Birla fonda Hindalco (alluminio) |
 | **1964** | Morte Nehru dopo 17 anni di governo |
 | **1966** | [Indira Gandhi](../docs/persons/indira-gandhi.md) diventa PM; Dhirubhai Ambani fonda Reliance Industries |
@@ -868,18 +998,21 @@ Due leader industriali indiani hanno co-presieduto Davos, segnalando l'integrazi
 | **2001** | Modi diventa CM Gujarat; **Hinduja scandalo cash-for-passports** (Mandelson dimissioni) |
 | **2002** | Morte Dhirubhai Ambani senza testamento |
 | **2004** | **[Manmohan Singh](../docs/persons/manmohan-singh.md) diventa PM** (UPA), primo Sikh PM |
-| **2005** | Murthy Co-Chair WEF Davos; **Scissione Mukesh-Anil Ambani** mediata da Kokilaben; **OP Jindal muore in helicopter crash** - Savitri assume controllo, eletta MLA Hisar |
+| **2005** | Murthy Co-Chair WEF Davos; **Scissione Mukesh-Anil Ambani** mediata da Kokilaben; **OP Jindal muore in helicopter crash** - Savitri assume controllo, eletta MLA Hisar; **[Ajay Singh](../docs/persons/ajay-singh-spicejet.md) fonda [SpiceJet](../docs/airline/spicejet.md)** |
 | **2007** | Mukesh Ambani diventa Asia's richest; Tata acquisisce Corus; **Hindalco acquisisce Novelis $6B** |
 | **2008** | Tata acquisisce Jaguar Land Rover |
 | **2009** | Mahindra Co-Chair WEF Davos; Sunak sposa Akshata Murty; **Nilekani Chairman UIDAI (Aadhaar)** |
-| **2014** | Modi PM; Reliance acquisisce Network18; **Shanghvi acquisisce Ranbaxy $4B** - Sun Pharma diventa largest Indian pharma |
+| **2010** | **[Kalanithi Maran](../docs/persons/kalanidhi-maran.md) acquisisce 58% SpiceJet** via KAL Airways |
+| **2013** | **[Vistara](../docs/airline/vistara.md) JV Tata-Singapore Airlines** incorporata |
+| **2014** | Modi PM; Reliance acquisisce Network18; **Shanghvi acquisisce Ranbaxy $4B** - Sun Pharma diventa largest Indian pharma; **Ajay Singh crea slogan "Abki Baar Modi Sarkar"** per campagna BJP |
+| **2015** | **Ajay Singh riacquista [SpiceJet](../docs/airline/spicejet.md)** da [Kalanithi Maran](../docs/persons/kalanidhi-maran.md) (Sun Group); Vistara lancia operazioni |
 | **2016** | Jio launch; **UPI lanciato (framework Nilekani)**; **Nita Ambani prima donna indiana IOC**; Mistry rimosso da Tata; **N. Chandrasekaran board RBI** |
 | **2017** | N Chandrasekaran Chairman Tata Sons (primo non-Tata); **Dilip Shanghvi Trustee Rhodes Trust** |
 | **2018** | **Dilip Shanghvi nominato RBI Central Board** |
 | **2020** | Anil Ambani dichiara bancarotta UK; $20B in Jio; **Roshni Nadar Chairperson HCL** (prima donna chair IT quotata); **Shiv Nadar Chairman Emeritus** |
-| **2022** | Sunak PM UK; **Akash Ambani Chairman Jio**; Adani acquisisce NDTV; Tata riacquista Air India |
+| **2022** | Sunak PM UK; **Akash Ambani Chairman Jio**; Adani acquisisce NDTV; **Tata riacquista [Air India](../docs/airline/air-india.md) (₹18,000 crore)** dopo 69 anni; N. Chandrasekaran Chairman Air India; Campbell Wilson CEO |
 | **2023** | **Hindenburg Report su Adani**; Isha, Akash, Anant in board Reliance; **Morte Srichand Hinduja**; **Ananya e Aryaman Birla board Grasim/Hindalco**; KM Birla riceve Padma Bhushan; **Nilekani Co-Chair G20 DPI Task Force**; K. Krithivasan CEO TCS |
-| **2024** | SC rivela electoral bonds; Modi rieletto (coalizione); Sunak perde elezioni UK; **Morte Ratan Tata (9 ottobre)**; **Noel Tata Chairman Tata Trusts**; **Prakash Hinduja condannato in Svizzera**; Birla figli board Hindalco; **Bharti acquisisce 24.5% BT Group (£3.2B)**; **Sunil Mittal riceve Honorary KBE** (primo indiano); **Savitri Jindal passa a BJP**; **Naveen Jindal eletto MP BJP Kurukshetra**; **Gautam Adani incriminato US DOJ** ($250M bribery, Nov 20) |
+| **2024** | SC rivela electoral bonds; Modi rieletto (coalizione); Sunak perde elezioni UK; **Morte Ratan Tata (9 ottobre)**; **Noel Tata Chairman Tata Trusts**; **Prakash Hinduja condannato in Svizzera**; Birla figli board Hindalco; **Bharti acquisisce 24.5% BT Group (£3.2B)**; **Sunil Mittal riceve Honorary KBE** (primo indiano); **Savitri Jindal passa a BJP**; **Naveen Jindal eletto MP BJP Kurukshetra**; **Gautam Adani incriminato US DOJ** ($250M bribery, Nov 20); **[Vistara](../docs/airline/vistara.md) merger Air India completato (12 nov)** - Singapore Airlines 25.1% Air India; ordine record 470 aerei ($70B) |
 | **2025** | India 5th largest economy; Sunak torna a Goldman; **Jeet Adani matrimonio (7 feb)**; **Tata vs Mistry 2.0** (Mehli rimosso); RBI listing deadline Tata Sons (settembre); **Morte Gopichand Hinduja (novembre)**; **Hinduja #1 Sunday Times Rich List** (4o anno consecutivo £35.3B); **Sunil Mittal board BT Group (settembre)**; **Tata acquisisce Iveco commercial vehicles (€3.8B)**; **Tata Group market cap $446B**; **N. Chandrasekaran riceve Honorary KBE**; **P.B. Balaji CEO JLR (primo indiano, novembre)**; JLR cyberattack £196M |
 
 ---
@@ -927,4 +1060,4 @@ Due leader industriali indiani hanno co-presieduto Davos, segnalando l'integrazi
 
 ---
 
-*Ultimo aggiornamento: 1 Gennaio 2026 - Aggiunte: [Gautam Adani](../docs/persons/gautam-adani.md) (US DOJ indictment Nov 2024, $250M bribery); [Shiv Nadar](../docs/persons/shiv-nadar.md) (HCL founder, $34.4B, top donor 2024); [Dilip Shanghvi](../docs/persons/dilip-shanghvi.md) (Sun Pharma, $28.9B, RBI Board, Rhodes Trust); [Savitri Jindal](../docs/persons/savitri-jindal.md) (donna piu' ricca India $35.5B, matriarca Jindal, BJP 2024); [Jindal family](../docs/family/jindal-family.md) ($40B, 4 figli cross-holdings); pattern donne al potere economico; settore pharma generici*
+*Ultimo aggiornamento: 30 Gennaio 2026 - Aggiunte: Sezione Aviazione completa; [Air India](../docs/airline/air-india.md) (Tata 74.9% + SIA 25.1%, merger Vistara 2024); [Vistara](../docs/airline/vistara.md) (defunct, merged); [SpiceJet](../docs/airline/spicejet.md) (Ajay Singh 59%); [Tata Sons](../docs/company/tata-sons.md) ($446B, 66% trust); [Ajay Singh](../docs/persons/ajay-singh-spicejet.md) (creatore "Abki Baar Modi Sarkar", WEF); [Kalanithi Maran](../docs/persons/kalanidhi-maran.md) (Sun Group, DMK dynasty); pattern asse India-Singapore aviazione; ciclo Tata-Stato-Tata*

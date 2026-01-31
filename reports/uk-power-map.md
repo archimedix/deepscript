@@ -4,7 +4,7 @@
 
 **Organizzazioni UK presenti**: 100+ entità con sede a Londra/UK
 **Persone britanniche (GBR)**: ~100 persone
-**Aggiornamento**: Aggiunto IAG (International Airlines Group, HQ Londra) e British Airways. Documentata struttura gruppo IAG con Javier Ferrán (Chairman) e Luis Gallego (CEO). Qatar Airways 25.1% stake - esempio di Gulf capital in UK aviation
+**Aggiornamento**: Aggiunto RBS (Royal Bank of Scotland) con documentazione bailout £45.5B e ritorno privato maggio 2025. Aggiunto easyJet con Stephen Hester come chairman. Documentato pattern Stephen Hester "crisis turnaround specialist" cross-sector (RBS → RSA → easyJet → Nordea). Aggiunta connessione UK-Nordic via Hester (easyJet + Nordea chairmanships).
 
 ---
 
@@ -272,7 +272,8 @@ GCHQ/MI5 expertise
 | **hsbc** | Bank | London | **13.5%** | **DOCUMENTATO** - Oppio origins, cartels scandal |
 | standard-chartered | Bank | London | | |
 | lloyds | Bank | London | 14.0% | |
-| natwest | Bank | Edinburgh | 8.0% | |
+| natwest | Bank | Edinburgh | 8.0% | **Ora NatWest Group** |
+| **rbs** | Bank | Edinburgh | - | **DOCUMENTATO** - Bailout £45.5B 2008, privatizzato 2025 |
 | nm-rothschild | Bank | London | | Private |
 | **sg-warburg** | Bank | London | | Acquired by SBC 1995 → UBS |
 | ebrd | Bank | London | | Dev bank |
@@ -323,6 +324,73 @@ GCHQ/MI5 expertise
 | **Douglas Flint** | Chairman 2010-2017 | Belt and Road UK Envoy |
 
 **Scheda**: `docs/bank/hsbc.md`
+
+#### Royal Bank of Scotland (NatWest Group) - DOCUMENTATO
+
+**Il più grande bailout bancario della storia britannica**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 1727 |
+| Sede | Edinburgh |
+| Holding | NatWest Group plc (dal 2020) |
+| Chairman 2025 | Rick Haythornthwaite |
+| CEO 2025 | Paul Thwaite |
+| Bailout | **£45.5 miliardi (2008-2009)** |
+| Quota governo max | **84.4%** |
+| Privatizzazione | **Maggio 2025** |
+
+**La Crisi ABN Amro 2007-2008**:
+| Dato | Dettaglio |
+|------|-----------|
+| Target | ABN Amro (banca olandese) |
+| Consorzio | RBS + Fortis + Banco Santander |
+| Valore | €71.1 miliardi |
+| Perdite RBS 2008 | **£24.1 miliardi** (record UK) |
+| Di cui ABN Amro | £16.8 miliardi |
+
+**Timeline Leadership**:
+| Periodo | CEO | Chairman | Note |
+|---------|-----|----------|------|
+| 2000-2008 | **[Fred Goodwin](../docs/persons/fred-goodwin.md)** | Tom McKillop | ABN Amro acquisition |
+| 2008-2013 | **[Stephen Hester](../docs/persons/stephen-hester.md)** | Philip Hampton | **Ristrutturazione bailout** |
+| 2013-2019 | Ross McEwan | Philip Hampton | Stabilizzazione |
+| 2019-2023 | Alison Rose | Howard Davies | Prima CEO donna, dimessa (Farage scandal) |
+| 2024- | Paul Thwaite | Rick Haythornthwaite | Ritorno privato |
+
+**Bailout e Ritorno al Privato**:
+| Data | Evento |
+|------|--------|
+| Ottobre 2008 | Bailout £45.5B, governo UK al 84.4% |
+| 2008-2013 | Hester riduce asset £720B, taglia costi £4.2B |
+| Luglio 2020 | Rinominata NatWest Group |
+| **Maggio 2025** | **HM Treasury vende ultime azioni** |
+| Perdita netta | ~£10 miliardi per contribuenti |
+
+**Fred Goodwin - "Fred the Shred"**:
+| Aspetto | Dettaglio |
+|---------|-----------|
+| Strategia | Espansione aggressiva via acquisizioni |
+| Peak | RBS più grande banca mondo per asset (£1.9T) |
+| Knighthood | 2004, annullato 2012 |
+| Responsabilità | Nessuna condanna criminale |
+
+**Pattern RBS → Stephen Hester → Cross-Sector**:
+```
+RBS bailout 2008
+      ↓
+Stephen Hester (CEO 2008-2013)
+      ↓ ristrutturazione £720B
+RSA Insurance (CEO 2014-2021)
+      ↓
+easyJet (Chairman 2021-)
+      ↓
+Nordea (Chairman 2022-)
+```
+
+**Implicazione**: Hester porta expertise "crisis turnaround" da banking UK a insurance, aviation e banking nordico.
+
+**Scheda**: `docs/bank/rbs.md`
 
 #### Barclays - Dettaglio Azionariato
 | Azionista | Quota | Note |
@@ -860,6 +928,62 @@ Scheda completa: `docs/persons/david-cameron.md`
 | Javier Ferrán | Chairman | Ex-Chairman Diageo (spirits UK) |
 
 **Schede**: `docs/company/iag.md`, `docs/airline/british-airways.md`
+
+#### easyJet plc - DOCUMENTATO
+
+**Low-cost airline pioniera europea (HQ Luton)**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 1995 |
+| Fondatore | [Stelios Haji-Ioannou](../docs/persons/stelios-haji-ioannou.md) |
+| Sede | London Luton, UK |
+| Chairman | [Stephen Hester](../docs/persons/stephen-hester.md) (dal 2021) |
+| CEO | [Kenton Jarvis](../docs/persons/kenton-jarvis.md) (dal 2025) |
+| Flotta | 356 aerei |
+| Passeggeri/anno | 93.4 milioni |
+
+**Leadership**:
+| Ruolo | Nome | Background |
+|-------|------|------------|
+| Chairman | **stephen-hester** | Ex-CEO RBS, RSA Insurance, Credit Suisse |
+| CEO | kenton-jarvis | Ex-TUI Aviation CEO |
+| Ex-CEO | johan-lundgren | 2017-2025 |
+| Founder | stelios-haji-ioannou | Monaco-based, easyGroup |
+
+**Azionariato**:
+| Azionista | Quota | Note |
+|-----------|-------|------|
+| Famiglia Haji-Ioannou | ~15% | Stelios, Polys, Clelia |
+| Institutional investors | ~85% | Free float |
+
+**Pattern Stephen Hester - Crisis Turnaround Specialist**:
+| Azienda | Periodo | Crisi | Risultato |
+|---------|---------|-------|-----------|
+| Abbey National | 2002-2004 | Problemi wholesale | Venduta a Santander |
+| British Land | 2004-2008 | Bolla immobiliare | Uscita prima del crollo |
+| **RBS** | 2008-2013 | **Bailout £45.5B** | Ristrutturazione £720B |
+| RSA Insurance | 2014-2021 | Crisi finanziaria | Venduta £7.2B (record premium) |
+| **easyJet** | 2021- | Post-COVID | Chairman |
+
+**Hester Cross-Connections**:
+| Organizzazione | Ruolo | Periodo |
+|----------------|-------|---------|
+| [Nordea](../docs/bank/nordea.md) | Chairman | 2022- |
+| [Kyndryl](../docs/company/kyndryl.md) | Lead Independent Director | 2021- |
+| [Centrica](../docs/company/centrica.md) | Senior Independent Director | - |
+| University of Oxford | Alumni | PPE, Lady Margaret Hall |
+
+**Differenza IAG vs easyJet**:
+| Aspetto | IAG | easyJet |
+|---------|-----|---------|
+| Modello | Flag carrier + acquisizioni | Low-cost puro |
+| Gulf money | Qatar Airways 25.1% | No |
+| Leadership | Spanish-led | UK turnaround specialist |
+
+**Pattern**: Stephen Hester porta expertise banking crisis (RBS) a settore aviation post-COVID
+
+**Scheda**: `docs/airline/easyjet.md`
 
 ---
 
@@ -1483,6 +1607,79 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 
 **Pattern**: Tait rappresenta modello "redemption narrative" - trauma personale trasformato in advocacy pubblica, che coesiste con carriera ai vertici della finanza. Soft power attraverso storia personale + hard power attraverso ruoli istituzionali.
 
+### 31. Stephen Hester - Crisis Turnaround Specialist Cross-Sector
+
+**Pattern: Banking Crisis Manager → Insurance → Aviation → Nordic Banking**
+
+| Fase | Periodo | Azienda | Crisi | Risultato |
+|------|---------|---------|-------|-----------|
+| 1 | 1982-2001 | Credit Suisse | - | Global Head Fixed Income |
+| 2 | 2002-2004 | Abbey National | Problemi wholesale | Venduta a Santander |
+| 3 | 2004-2008 | British Land | Bolla immobiliare | Uscita prima del crollo |
+| 4 | **2008-2013** | **RBS** | **Bailout £45.5B** | **Ristrutturazione £720B** |
+| 5 | 2014-2021 | RSA Insurance | Crisi finanziaria | Venduta £7.2B (record) |
+| 6 | 2021- | easyJet | Post-COVID | Chairman |
+| 7 | 2022- | Nordea | - | Chairman (largest Nordic bank) |
+
+**Network Stephen Hester (2025)**:
+```
+                STEPHEN HESTER (Chair dual-role)
+                         |
+         +---------------+---------------+
+         |                               |
+    AVIATION                        BANKING
+         |                               |
+    easyJet (UK)                   Nordea (Nordic)
+    Chairman 2021-                 Chairman 2022-
+         |                               |
+    + Kyndryl (board)             + Credit Suisse (alumni)
+    + Centrica (board)            + RBS (ex-CEO bailout)
+    + RSA Insurance (ex-CEO)      + British Land (ex-CEO)
+```
+
+**Caratteristiche pattern**:
+1. **Crisis entry**: Entra in aziende in crisi, non durante fase crescita
+2. **Government-appointed**: RBS e Northern Rock incarichi da Alistair Darling (Chancellor)
+3. **Cross-sector mobility**: Banking → Real estate → Insurance → Aviation
+4. **International reach**: UK (easyJet) + Nordic (Nordea) dual chairmanship
+5. **Oxford PPE pipeline**: Lady Margaret Hall, Tory Reform Group
+
+**Knighthood 2024**: Services to Business and the Economy - riconoscimento per RBS turnaround
+
+**Implicazione**: Hester rappresenta modello "professional crisis manager" che UK Government e boards usano quando aziende sistemicamente importanti sono in difficoltà. Pattern replicabile cross-sector.
+
+### 32. RBS Bailout 2008 - State Rescue Pattern
+
+**Il più grande bailout bancario UK e le sue conseguenze**
+
+| Metrica | Prima crisi | Bailout | Privatizzazione |
+|---------|-------------|---------|-----------------|
+| Asset | £1.9 trilioni | - | - |
+| Governo UK | 0% | 84.4% | 0% (maggio 2025) |
+| Iniezione | - | £45.5 miliardi | - |
+| Recupero | - | - | ~£35 miliardi |
+| **Perdita netta** | - | - | **~£10 miliardi** |
+
+**Timeline crisi → privatizzazione**:
+| Anno | Evento |
+|------|--------|
+| 2007 | RBS guida consorzio per ABN Amro (€71B) |
+| 2008 | Perdite record £24.1B (di cui £16.8B ABN Amro) |
+| Ott 2008 | Bailout £45.5B, governo al 84.4% |
+| 2008-2013 | Hester ristruttura: -£720B asset, -£4.2B costi |
+| 2020 | Rinominata NatWest Group |
+| Mag 2025 | HM Treasury vende ultime azioni |
+
+**Responsabilità**:
+| Persona | Ruolo | Conseguenza |
+|---------|-------|-------------|
+| Fred Goodwin | CEO 2000-2008 | Knighthood annullato 2012, nessuna condanna |
+| Tom McKillop | Chairman | Dimissioni 2009 |
+| Alistair Darling | Chancellor | Gestì bailout |
+| Stephen Hester | CEO 2008-2013 | Ricompensato con altri ruoli |
+
+**Pattern**: Privatizzazione guadagni (bonus pre-crisi), socializzazione perdite (bailout £45.5B), ritorno al privato (maggio 2025) con perdita £10B per contribuenti. Nessuna conseguenza penale per management.
+
 ---
 
 ## PRIORITA' INDAGINE (Aggiornata)
@@ -1523,6 +1720,10 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 | **stephen-green** | **Completato** | HSBC CEO/Chairman → Baron → Minister Trade 2011-13; Swiss Leaks durante mandato; prete-banchiere paradosso |
 | **douglas-flint** | **Completato** | HSBC CFO/Chairman → BP board → IIF Chairman → Abrdn → IP Group → Hakluyt → Belt Road Envoy |
 | **fmsb** | **Completato** | Financial Markets Standards Board - post-LIBOR/FX standard-setter, industry-led, BoE/FCA creation 2015 |
+| **rbs** | **Completato** | Royal Bank of Scotland - bailout £45.5B 2008, privatizzato 2025, £10B perdita contribuenti |
+| **stephen-hester** | **Completato** | Crisis turnaround specialist: RBS → RSA → easyJet (Chair) + Nordea (Chair), Knighted 2024 |
+| **easyjet** | **Completato** | Low-cost airline, Stelios founder, Stephen Hester chairman 2021-, 93.4M passeggeri |
+| **nordea** | **Completato** | Maggiore banca nordica, Stephen Hester chairman 2022-, fusione 4 banche 2001 |
 | **world-gold-council** | **Completato** | Trade association oro globale, HQ Londra, 30 membri, David Tait CEO |
 | **david-tait** | **Completato** | CEO WGC, ex-Goldman/Credit Suisse/UBS/BlueCrest, FMSB Precious Metals WG Chair, MBE, survivor |
 | **jonathan-moulds** | **Completato** | Chairman FMSB, CBE, ex-CEO Merrill Lynch Intl, ex-COO Barclays |

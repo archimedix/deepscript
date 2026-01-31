@@ -179,14 +179,14 @@ TEMASEK HOLDINGS ($382B)
    │         │        │        │        │        │
    ▼         ▼        ▼        ▼        ▼        ▼
 SINGTEL    DBS    SEATRIUM  KEPPEL  MEDIACORP   SIA
- (52%)    (29%)    (~38%)   (ctrl)   (100%)    (%)
-   │         │        │        │        │
-   │         │        │        │        │
-   ▼         ▼        ▼        ▼        ▼
-OPTUS    S$739B  Cantieri  Infra    CNA
-(AUS)    #1 SEA   globali  Asset   (news)
-Bharti            Lava     Mgr
-(IND)             Jato
+ (52%)    (29%)    (~38%)   (ctrl)   (100%)    (56%)
+   │         │        │        │        │        │
+   │         │        │        │        │        │
+   ▼         ▼        ▼        ▼        ▼        ▼
+OPTUS    S$739B  Cantieri  Infra    CNA     AIR INDIA
+(AUS)    #1 SEA   globali  Asset   (news)   (25.1%)
+Bharti            Lava     Mgr              Scoot
+(IND)             Jato                     (100%)
 ```
 
 ### Singtel: Telecomunicazioni
@@ -265,6 +265,58 @@ Bharti            Lava     Mgr
 | **Controllo** | Temasek (maggioranza) |
 | **Post-2024** | Asset manager (infra, real estate, connectivity) |
 | **Deputy Chairman** | Piyush Gupta (2025-) |
+
+### Singapore Airlines: Aviazione
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Controllo** | Temasek 56% |
+| **Fondazione** | 1947 (come Malayan Airways) |
+| **Chairman** | [Peter Seah](../docs/persons/peter-seah.md) (2017-) |
+| **CEO** | [Goh Choon Phong](../docs/persons/goh-choon-phong.md) (2011-) |
+| **Alliance** | Star Alliance (membro fondatore) |
+| **Flotta** | 163 aerei (2025) |
+| **Profit FY2024/25** | S$2.8B (record) |
+
+**Controllate:**
+- [Scoot](../docs/airline/scoot.md): 100%, LCC Asia-Pacific, 59 aerei
+- SIA Engineering: quotata SGX
+- SIA Cargo: 12 freighters
+
+**Espansione India (2024):**
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Target** | [Air India](../docs/airline/air-india.md) |
+| **Quota** | 25.1% |
+| **Veicolo** | Merger Vistara (JV SIA-Tata) |
+| **Manager inviato** | [Campbell Wilson](../docs/persons/campbell-wilson.md) come CEO Air India |
+| **Board SIA** | Goh Choon Phong siede nel board Air India |
+
+**Pattern "Singapore Inc." in SIA:**
+
+```
+PETER SEAH (Chairman)
+     │
+     ├──► DBS Bank (Chairman)
+     │         │
+     │         └──► S$739B assets, #1 SEA
+     │
+     └──► Singapore Airlines (Chairman)
+               │
+               ├──► Goh Choon Phong (CEO)
+               │         │
+               │         ├──► IATA Chairman 2017-18
+               │         ├──► Mastercard Board
+               │         └──► Air India Board
+               │
+               └──► Scoot (subsidiary)
+                         │
+                         └──► Leslie Thng (CEO)
+                               Campbell Wilson (founder, ora CEO Air India)
+```
+
+> **Connessione chiave:** Peter Seah e' Chairman simultaneo di DBS (banca) e SIA (aviazione), entrambe GLC Temasek. Un unico individuo collega finanza e trasporti nel sistema Singapore.
 
 ---
 
@@ -347,11 +399,66 @@ TEMASEK (SWF)
 **Citigroup come vivaio:**
 [Citigroup](../docs/bank/citigroup.md) ha formato Gupta nei 27 anni piu' formativi della carriera. Il pattern "Wall Street → GLC → SWF" dimostra come Singapore assorba talenti globali per poi integrarli nel sistema statale.
 
+### Pattern Peter Seah: Il Connettore
+
+```
+OVERSEAS UNION BANK (privato SGP)
+     │
+     │ 24 anni (1977-2001)
+     │ Vice-Chairman & CEO
+     ▼
+SINGAPORE TECHNOLOGIES (GLC)
+     │
+     │ 3 anni (2001-2004)
+     │ President & CEO
+     ▼
+DBS BANK (GLC)
+     │
+     │ Chairman (2010-)
+     │ "World's Best Bank" 2021
+     │
+     ├────► SINGAPORE AIRLINES (GLC)
+     │      Chairman (2017-)
+     │
+     └────► GIC (SWF)
+            Board Director
+            Chair HR Committee
+```
+
+**Pattern "Chairman multiplo":** Peter Seah dimostra il modello di governance Singapore dove un singolo individuo di fiducia presiede piu' GLCs simultaneamente, garantendo coordinamento e allineamento strategico.
+
+### Pattern Campbell Wilson: Export Manageriale
+
+```
+SINGAPORE AIRLINES (GLC)
+     │
+     │ 26 anni (1996-2022)
+     │ Founding CEO Scoot
+     │ SVP Sales & Marketing
+     ▼
+AIR INDIA (Tata Group)
+     │
+     │ CEO & MD (2022-)
+     │ Trasformazione post-privatizzazione
+     │ 470 nuovi aerei ordinati
+     ▼
+BRIDGING SIA ←→ TATA
+     │
+     └─ SIA 25.1% Air India
+        Goh Choon Phong nel board
+```
+
+**Pattern "export manageriale":** Singapore esporta talenti formati nel sistema GLC per gestire asset in cui ha investito, mantenendo influenza operativa oltre la quota azionaria.
+
 ### Altri Pattern Identificati
 
 | Persona | Percorso |
 |---------|----------|
 | **Piyush Gupta** | Citi → DBS → Temasek/Keppel |
+| **Peter Seah** | OUB → ST Engineering → DBS + SIA + GIC |
+| **Campbell Wilson** | SIA → Scoot founder → Air India CEO |
+| **Goh Choon Phong** | MIT → SIA → IATA Chairman → Mastercard |
+| **Leslie Thng** | SIA → SilkAir → Vistara → Scoot CEO |
 | **Dr Stephen Lu** | Temasek Portfolio Development → Seatrium Strategy |
 | **Lee Hsien Yang** | SAF → Singtel CEO → Dissidente |
 | **Ho Ching** | DSO → Temasek CEO |
@@ -583,6 +690,8 @@ GIC e Temasek non competono:
 |-----|------------|
 | Singtel → Optus | Australia (11M clienti) |
 | Singtel → Bharti Airtel | India + 15 paesi Africa (550M clienti) |
+| SIA → Air India | India (25.1% + CEO Campbell Wilson) |
+| SIA → Scoot | Asia-Pacific LCC (70+ destinazioni) |
 | Seatrium | Indonesia, UK, Brasile |
 | CNA | 94M homes Asia-Pacific |
 | DBS | Greater China, India |
@@ -603,6 +712,10 @@ GIC e Temasek non competono:
 | [Lawrence Wong](../docs/persons/lawrence-wong.md) | PM 2024- |
 | [Tharman Shanmugaratnam](../docs/persons/tharman-shanmugaratnam.md) | President 2023- |
 | [Piyush Gupta](../docs/persons/piyush-gupta.md) | CEO DBS 2009-2025, Temasek Chairman India |
+| [Peter Seah](../docs/persons/peter-seah.md) | Chairman DBS + SIA, Board GIC |
+| [Goh Choon Phong](../docs/persons/goh-choon-phong.md) | CEO SIA 2011-, IATA Chairman 2017-18, Mastercard Board |
+| [Campbell Wilson](../docs/persons/campbell-wilson.md) | Founder Scoot, CEO Air India 2022- |
+| [Leslie Thng](../docs/persons/leslie-thng.md) | CEO Scoot 2022-, EVP SIA Group |
 | [Sunil Bharti Mittal](../docs/persons/sunil-mittal.md) | Chairman Bharti Airtel, partner Singtel |
 
 ### Organizzazioni
@@ -612,6 +725,9 @@ GIC e Temasek non competono:
 | [GIC](../docs/swf/gic.md) | SWF riserve $800B |
 | [Temasek](../docs/swf/temasek.md) | SWF investimenti $382B |
 | [DBS Bank](../docs/bank/dbs.md) | GLC banca, S$739B assets |
+| [Singapore Airlines](../docs/airline/singapore-airlines.md) | GLC aviazione, Temasek 56% |
+| [Scoot](../docs/airline/scoot.md) | LCC SIA, 100%, 59 aerei |
+| [Air India](../docs/airline/air-india.md) | SIA 25.1%, CEO Campbell Wilson |
 | [Singtel](../docs/company/singtel.md) | GLC telco |
 | [Optus](../docs/company/optus.md) | Sussidiaria Singtel, Australia |
 | [Seatrium](../docs/company/seatrium.md) | GLC cantieristica offshore |
@@ -622,6 +738,10 @@ GIC e Temasek non competono:
 | [Asia News Network](../docs/media/asia-news-network.md) | Hub media regionale |
 | [Bharti Airtel](../docs/company/bharti-airtel.md) | Singtel 28.3%, India/Africa 550M clienti |
 | [Citigroup](../docs/bank/citigroup.md) | Formazione Piyush Gupta (27 anni) |
+| [NUS](../docs/university/nus.md) | Alumni network (Peter Seah, Goh Choon Phong board) |
+| [MIT](../docs/university/mit.md) | Alumni Goh Choon Phong, Li Hongyi |
+| [IATA](../docs/agency/iata.md) | Goh Choon Phong Chairman 2017-18 |
+| [Mastercard](../docs/company/mastercard.md) | Goh Choon Phong board |
 
 ### Asset Manager USA
 
@@ -657,6 +777,9 @@ GIC e Temasek non competono:
 - [ ] Temasek aumentera' stake in BlackRock?
 - [ ] Espansione Temasek in India sotto guida Piyush Gupta?
 - [ ] Conseguenze finanziarie causa OAIC contro Optus?
+- [ ] SIA aumentera' quota in Air India oltre il 25.1%?
+- [ ] Campbell Wilson tornera' a Singapore o restera' in India?
+- [ ] Successore di Goh Choon Phong come CEO SIA?
 
 ---
 
@@ -664,12 +787,13 @@ GIC e Temasek non competono:
 
 Singapore rappresenta il **modello piu' sofisticato** di stato-azienda dinastico:
 
-1. **Controllo totale** via governo + SWF + GLCs (telco, banca, cantieri, media)
+1. **Controllo totale** via governo + SWF + GLCs (telco, banca, aviazione, cantieri, media)
 2. **Legittimazione via performance** economica eccezionale
 3. **Successione pianificata** ma con persistenza familiare
 4. **Posizionamento neutrale** come hub globale
 5. **Cross-ownership** con asset manager USA (BlackRock)
 6. **Proiezione regionale** via GLCs in Australia, India, ASEAN
+7. **Export manageriale** (Campbell Wilson SIA → Air India, talent pipeline Scoot)
 
 La transizione 2024 (Lawrence Wong PM) sembra segnare la fine dell'era Lee diretta, ma Lee Hsien Loong mantiene il controllo su $800B come Chairman GIC. Il vero test sara' se Li Hongyi (3a generazione) entrera' in politica.
 
@@ -684,6 +808,8 @@ La transizione 2024 (Lawrence Wong PM) sembra segnare la fine dell'era Lee diret
 - [GIC](https://www.gic.com.sg/)
 - [Temasek](https://www.temasek.com.sg/)
 - [DBS](https://www.dbs.com/)
+- [Singapore Airlines](https://www.singaporeair.com/)
+- [Scoot](https://www.flyscoot.com/)
 - [Singtel](https://www.singtel.com/)
 - [Seatrium](https://www.seatrium.com/)
 - [Mediacorp](https://www.mediacorp.sg/)
@@ -694,8 +820,8 @@ La transizione 2024 (Lawrence Wong PM) sembra segnare la fine dell'era Lee diret
 - [Bloomberg - Temasek BlackRock](https://www.bloomberg.com/news/articles/2020-08-14/singapore-s-temasek-buys-stake-worth-3-5-billion-in-blackrock)
 
 ### Database DeepScript
-- Schede: lee-singapore, lee-kuan-yew, lee-hsien-loong, piyush-gupta, sunil-mittal, gic, temasek, dbs, singtel, optus, bharti-airtel, seatrium, keppel, mediacorp, cna, governo-singapore, citigroup
+- Schede: lee-singapore, lee-kuan-yew, lee-hsien-loong, piyush-gupta, sunil-mittal, peter-seah, goh-choon-phong, campbell-wilson, leslie-thng, gic, temasek, dbs, singapore-airlines, scoot, air-india, singtel, optus, bharti-airtel, seatrium, keppel, mediacorp, cna, governo-singapore, citigroup, nus, mit, iata, mastercard
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Gennaio 2026*

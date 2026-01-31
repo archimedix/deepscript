@@ -36,13 +36,13 @@ Ecco le maggiori compagnie aeree del mondo per fatturato e passeggeri trasportat
   ├────────────────────┼─────────────────┤
   │ United Airlines    │ ~165 mln        │
   ├────────────────────┼─────────────────┤
-  │ Ryanair            │ ~160 mln        │
+  │ [v] Ryanair        │ ~160 mln        │
   ├────────────────────┼─────────────────┤
   │ China Southern     │ ~140 mln        │
   ├────────────────────┼─────────────────┤
   │ IndiGo             │ ~100 mln        │
   ├────────────────────┼─────────────────┤
-  │ easyJet            │ ~95 mln         │
+  │ [v]easyJet         │ ~95 mln         │
   └────────────────────┴─────────────────┘
   Per Flotta
 
@@ -54,12 +54,12 @@ Ecco le maggiori compagnie aeree del mondo per fatturato e passeggeri trasportat
   [v] Etihad
   [v] Oman Air
 
-  - jet-airways
+  - [v] iberia
+  - [v] jet-airways - defunct
   - gmg-airlines - defunct
-  - spicejet
+  - [v] spicejet
   - air-berlin - defunct
   - virgin-australia - active
-  - jet-airways - defunct
   - azul-airlines - active
   - tap-air-portugal - active
   - jetblue (Airline)
@@ -69,3 +69,5 @@ Ecco le maggiori compagnie aeree del mondo per fatturato e passeggeri trasportat
   - rwandair
   - airlink
   - latam
+  - kuwait-airways
+  - [v] singapore-airlines

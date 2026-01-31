@@ -277,6 +277,24 @@ Ortega rappresenta un modello di potere "silenzioso": massima concentrazione eco
 - Naturgy/Gas Natural (Barcellona)
 - [Telefonica](../docs/company/telefonica.md) (Madrid) - storico legame col PP
 
+### Iberia: Privatizzazione con Manager Americano
+
+La privatizzazione di Iberia (2001) illustra un altro pattern: l'importazione di manager dal settore privato americano.
+
+| Anno | Evento |
+|------|--------|
+| **1996** | Aznar nomina [Xabier de Irala](../docs/persons/xabier-de-irala.md) CEO |
+| **1996-2001** | Ristrutturazione: -15% personale, -8.5% salari |
+| **2001** | Privatizzazione completata |
+| **2001-2002** | De Irala Chairman IATA |
+| **2003** | De Irala passa a BBK (cassa basca) |
+
+**Pattern de Irala**: 19 anni in GE (scuola Jack Welch) → ABB → Iberia → IATA → BBK. Manager transnazionale che guida privatizzazioni.
+
+**IATA Chairman spagnoli**:
+- Xabier de Irala (2001-2002) - durante crisi post-11 settembre
+- [Luis Gallego](../docs/persons/luis-gallego.md) (2025-) - CEO IAG
+
 ### [Telefonica](../docs/company/telefonica.md): Il Caso Esemplare
 
 La privatizzazione di Telefonica (1997) e' il caso piu' emblematico del legame PP-grandi imprese.
@@ -678,6 +696,9 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 | [pablo-hernandez-de-cos](../docs/persons/pablo-hernandez-de-cos.md) | 1971 | BIS GM, ex-Gov Banco Espana |
 | [florentino-perez](../docs/persons/florentino-perez.md) | 1947 | ACS Chairman, Real Madrid Pres. |
 | [ignacio-galan](../docs/persons/ignacio-galan.md) | 1950 | Iberdrola Chairman, WEF/ERT |
+| [xabier-de-irala](../docs/persons/xabier-de-irala.md) | 1947 | CEO Iberia 1996-2001, IATA Chair, BBK |
+| [luis-gallego](../docs/persons/luis-gallego.md) | 1968 | CEO IAG, IATA Chair 2025 |
+| [marco-sansavini](../docs/persons/marco-sansavini.md) | 1970 | CEO Iberia (italiano) |
 | [felipe-gonzalez](../docs/persons/felipe-gonzalez.md) | 1942 | PM 1982-1996, Elcano Board |
 | [mariano-rajoy](../docs/persons/mariano-rajoy.md) | 1955 | PM 2011-2018, Elcano Board |
 | [jose-luis-zapatero](../docs/persons/jose-luis-zapatero.md) | 1960 | PM 2004-2011, Elcano Board |
@@ -696,6 +717,10 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 | [repsol](../docs/company/repsol.md) | Company | Madrid |
 | [acs-group](../docs/company/acs-group.md) | Company | Madrid |
 | [real-madrid](../docs/sports-club/real-madrid.md) | SportsClub | Madrid |
+| [iag](../docs/company/iag.md) | Company | Londra/Madrid |
+| [iberia](../docs/airline/iberia.md) | Airline | Madrid |
+| [vueling](../docs/airline/vueling.md) | Airline | Barcellona |
+| [bbk](../docs/bank/bbk.md) | Bank | Bilbao (defunct) |
 | [faes](../docs/think-tank/faes.md) | ThinkTank | Madrid |
 | [real-instituto-elcano](../docs/think-tank/real-instituto-elcano.md) | ThinkTank | Madrid |
 | [club-de-madrid](../docs/forum/club-de-madrid.md) | Forum | Madrid |
@@ -726,6 +751,8 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 - [ ] Juan Villalonga: cosa fa oggi?
 - [ ] Dettagli accordo STC-SEPI per Telefonica
 - [ ] Ignacio Galan: connessioni italiane?
+- [x] ~~Settore aviazione spagnolo~~ (documentato: IAG, Iberia, Vueling, de Irala, Gallego, Sansavini)
+- [x] ~~Manager italiani in Spagna~~ ([Marco Sansavini](../docs/persons/marco-sansavini.md) CEO Iberia - carriera KLM/Air France/Alitalia/IAG)
 
 ---
 
@@ -756,4 +783,4 @@ A differenza delle altre utilities spagnole (legate al PP madrileno), Iberdrola 
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Gennaio 2025*

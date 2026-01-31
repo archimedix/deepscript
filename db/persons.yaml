@@ -621,6 +621,28 @@ persons:
   ajay-hinduja:
     nationality: CHE
     family: hinduja
+  ajay-singh-spicejet:
+    born: 1965
+    nationality: IND
+    affiliations:
+    - org: wef
+      role: member
+    - org: governo-india
+      role: advisor
+      note: OSD to Ministry of I&B and Communications under Pramod Mahajan (NDA govt)
+    - org: spicejet
+      role: founder
+      from: 2005
+      note: Co-founder, Chairman & MD; sold 2010, reacquired 2015
+    - org: cornell
+      role: alumni
+      note: MBA
+    - org: iit-delhi
+      role: alumni
+      note: B.Tech Engineering
+    - org: delhi-university
+      role: alumni
+      note: LL.B, Faculty of Law
   ajit-jain:
     born: 1951
     nationality: IND
@@ -1130,6 +1152,14 @@ persons:
       role: executive
       from: 2019
       note: Co-founder & CEO of Tools for Humanity
+  alex-cruz:
+    nationality: ESP
+    affiliations:
+    - org: vueling
+      role: executive
+      from: 2009
+      to: 2016
+      note: CEO
   alex-karp:
     born: 1967
     nationality: USA
@@ -1674,6 +1704,15 @@ persons:
       note: Consultant
     - org: samara
       role: founder
+  alison-rose:
+    nationality: GBR
+    note: First female CEO of major UK bank
+    affiliations:
+    - org: rbs
+      role: executive
+      from: 2019
+      to: 2023
+      note: CEO (as NatWest Group)
   alistair-darling:
     born: 1953
     died: 2023
@@ -1910,6 +1949,10 @@ persons:
     - org: rusi
       role: board
       note: Trustee; former Home Secretary
+    - org: ryanair
+      role: board
+      from: 2024
+      note: Non-Executive Director
     - org: darktrace
       role: advisor
       note: Advisory Board, ex Home Secretary
@@ -3149,6 +3192,15 @@ persons:
       role: minister
       from: 2025
       note: Minister of Foreign Affairs
+  anita-goyal:
+    died: 2024
+    nationality: IND
+    affiliations:
+    - org: jet-airways
+      role: executive
+      from: 1979
+      to: 2019
+      note: EVP, Head of Marketing and Sales
   anita-hauser:
     born: 1969
     nationality: CHE
@@ -3833,6 +3885,14 @@ persons:
       from: 1916
       to: 1919
       note: Foreign Secretary
+  arthur-collins:
+    nationality: USA
+    affiliations:
+    - org: rockwell-collins
+      role: founder
+      from: 1933
+      to: 1971
+      note: Founder Collins Radio Company, removed by Rockwell 1971
   arthur-levinson:
     born: 1950
     nationality: USA
@@ -5880,6 +5940,30 @@ persons:
       from: 2004
       to: 2008
       note: Primo Ministro
+  campbell-wilson:
+    born: 1971
+    nationality: NZL
+    affiliations:
+    - org: air-india
+      role: executive
+      from: 2022
+      note: CEO & MD; leading Vihaan.ai transformation
+    - org: harvard-business-school
+      role: alumni
+      note: Global Strategic Management 2016
+    - org: singapore-airlines
+      role: executive
+      from: 1996
+      to: 2022
+      note: Founding CEO Scoot 2011-2016, 2020-2022; SVP Sales & Marketing 2016-2020
+    - org: university-of-canterbury
+      role: alumni
+      note: BCom 1994, MCom 1995 Business Administration
+    - org: scoot
+      role: founder
+      from: 2011
+      to: 2016
+      note: Founding CEO; second term 2020-2022
   carl-bildt:
     born: 1949
     nationality: SWE
@@ -6223,6 +6307,18 @@ persons:
       role: executive
       from: 2024
       note: COO
+  carolina-martinoli:
+    nationality: ESP
+    affiliations:
+    - org: iag
+      role: executive
+      from: 2011
+      to: 2024
+      note: Chief People, Corporate Affairs and Sustainability Officer
+    - org: vueling
+      role: executive
+      from: 2024
+      note: CEO and Chair
   caroline-de-spoelberch:
     nationality: BEL
     affiliations:
@@ -6291,6 +6387,16 @@ persons:
     born: 1954
     nationality: USA
     note: Harvard Law professor, OIRA Administrator
+  cathal-ryan:
+    born: 1959
+    died: 2007
+    nationality: IRL
+    affiliations:
+    - org: ryanair
+      role: board
+      from: 1985
+      to: 2007
+      note: Inaugural pilot, board member
   catherine-howarth:
     nationality: GBR
     note: Chief Executive ShareAction. Board Green Alliance. Investment committee Trust for London.
@@ -7522,6 +7628,41 @@ persons:
       role: founder
       from: 2023
       note: Co-founder with Bret Taylor
+  clay-jones:
+    born: 1949
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: official
+      from: 1971
+      to: 1979
+      note: USAF Fighter Pilot
+    - org: george-washington-university
+      role: alumni
+      note: MBA 1986
+    - org: rockwell-collins
+      role: executive
+      from: 2001
+      to: 2013
+      note: Chairman 2002, President 1999, CEO 2001
+    - org: aia
+      role: board
+      note: Board of Governors
+    - org: university-of-tennessee
+      role: alumni
+      note: BA Political Science 1971
+    - org: deere
+      role: board
+      from: 2007
+      note: Director, Compensation & Pension Committees
+    - org: cardinal-health
+      role: board
+      from: 2012
+      note: Director
+    relations:
+    - person: kelly-ortberg
+      type: mentor
+      note: Predecessor at Rockwell Collins, role model
   clement-attlee:
     born: 1883
     died: 1967
@@ -8642,6 +8783,13 @@ persons:
       note: WEF Annual Meeting 2016
     - org: heidrick-struggles
       role: partner
+  david-bonderman:
+    nationality: USA
+    affiliations:
+    - org: ryanair
+      role: board
+      from: 1996
+      note: Acquired 20% stake 1996
   david-bradley:
     born: 1953
     nationality: USA
@@ -9312,6 +9460,12 @@ persons:
       role: executive
       from: 2025
       note: AD post-OPS MPS
+  dayanidhi-maran:
+    nationality: IND
+    affiliations:
+    - org: governo-india
+      role: minister
+      note: Minister of Communications & IT (2004-2007, 2009-2011)
   dean-acheson:
     nationality: USA
     affiliations:
@@ -9323,6 +9477,14 @@ persons:
     born: 1909
     died: 1994
     nationality: USA
+  declan-ryan:
+    born: 1963
+    nationality: IRL
+    affiliations:
+    - org: ryanair
+      role: founder
+      from: 1984
+      note: Co-founder with father Tony Ryan
   deepika-padukone:
     born: 1986
     nationality: IND
@@ -9931,6 +10093,13 @@ persons:
       from: 2005
       to: 2007
       note: Primo Ministro (Chirac)
+  dominique-dhinnin:
+    nationality: FRA
+    note: Chairman Eutelsat, former Lagardère executive
+    affiliations:
+    - org: eutelsat
+      role: chairman
+      note: Chairman of the Board
   dominique-lefebvre:
     nationality: FRA
     affiliations:
@@ -12272,6 +12441,52 @@ persons:
       role: partner
       from: 2024
       note: Partner, Italian team
+  eva-berneke:
+    born: 1969
+    nationality: DNK
+    note: Former McKinsey partner, TDC exec, Eutelsat CEO 2022-2025
+    affiliations:
+    - org: mckinsey
+      role: partner
+      from: 1993
+      to: 2007
+      note: Partner Paris office, TMT specialist
+    - org: vestas
+      role: board
+      from: 2019
+      note: Independent director
+    - org: eutelsat
+      role: executive
+      from: 2022
+      to: 2025
+      note: CEO, oversaw OneWeb merger
+    - org: insead
+      role: alumni
+      note: MBA 1995
+    - org: ecole-polytechnique
+      role: board
+      from: 2019
+      note: Non-executive director
+    - org: tdc
+      role: executive
+      from: 2007
+      to: 2014
+      note: CSO, then SVP Business
+    - org: kmd
+      role: executive
+      from: 2014
+      to: 2021
+      note: CEO, transformed to digital company
+    - org: lego
+      role: board
+      from: 2011
+      note: Non-executive director
+    - org: nationalbank-denmark
+      role: board
+      note: Board member
+    - org: dtu
+      role: alumni
+      note: MSc Mechanical Engineering 1992
   eva-maydell:
     born: 1986
     nationality: BGR
@@ -12761,6 +12976,31 @@ persons:
     - org: dogus-holding
       role: chairman
       from: 2001
+  fernando-candela:
+    nationality: ESP
+    affiliations:
+    - org: iag
+      role: executive
+      from: 2020
+      note: Chief Transformation Officer
+    - org: iberia
+      role: executive
+      from: 2023
+      to: 2024
+      note: Chairman and CEO
+    - org: iberia-express
+      role: executive
+      from: 2013
+      to: 2019
+      note: CEO
+  fernando-conte:
+    nationality: ESP
+    affiliations:
+    - org: iberia
+      role: executive
+      from: 2003
+      to: 2013
+      note: Chairman
   fernando-moreira-salles:
     born: 1946
     nationality: BRA
@@ -13475,6 +13715,13 @@ persons:
       from: 1909
       to: 1919
       note: President
+  frank-vang-jensen:
+    nationality: DNK
+    affiliations:
+    - org: nordea
+      role: executive
+      from: 2019
+      note: President & Group CEO
   frank-walter-steinmeier:
     born: 1956
     nationality: DEU
@@ -13569,6 +13816,16 @@ persons:
   franz-vranitzky:
     born: 1937
     nationality: AUT
+  fred-goodwin:
+    born: 1958
+    nationality: GBR
+    note: Knighted 2004, annulled 2012
+    affiliations:
+    - org: rbs
+      role: executive
+      from: 2000
+      to: 2008
+      note: CEO, led ABN Amro acquisition
   fred-hu:
     nationality: CHN-USA
     affiliations:
@@ -15376,6 +15633,33 @@ persons:
       from: 1990
       to: 2004
       note: Prime Minister
+  goh-choon-phong:
+    born: 1963
+    nationality: SGP
+    affiliations:
+    - org: mastercard
+      role: board
+    - org: air-india
+      role: board
+      from: 2024
+    - org: mit
+      role: alumni
+      note: MS EECS 1990; BS Computer Science, Management Science, Cognitive Science
+    - org: iata
+      role: chairman
+      from: 2017
+      to: 2018
+      note: Board of Governors Chairman
+    - org: singapore-airlines
+      role: executive
+      from: 2011
+      note: CEO
+    - org: nus
+      role: board
+      note: Board of Trustees; Chair Innovation & Enterprise Committee
+    - org: scoot
+      role: chairman
+      note: Chairman Budget Aviation Holdings
   goldy-hyder:
     nationality: CAN
     affiliations:
@@ -15590,6 +15874,33 @@ persons:
       from: 2021
       to: 2025
       note: CEO e Commissioner
+  greg-wyler:
+    born: 1969
+    nationality: USA
+    note: Satellite internet pioneer, founded O3b, OneWeb, E-Space
+    affiliations:
+    - org: google
+      role: employee
+      from: 2014
+      to: 2014
+      note: Led satellite internet initiative before WorldVu/OneWeb
+    - org: oneweb
+      role: founder
+      from: 2012
+      to: 2017
+      note: Founded as WorldVu, renamed OneWeb
+    - org: o3b
+      role: founder
+      from: 2007
+      to: 2009
+      note: Founded, stepped down as CEO 2009
+    - org: e-space
+      role: founder
+      from: 2021
+      note: CEO and Chief Architect
+    - org: chicago-kent
+      role: alumni
+      note: JD 1996
   gregoire-de-spoelberch:
     born: 1966
     nationality: BEL
@@ -17259,6 +17570,13 @@ persons:
       from: 2019
       to: 2025
       note: Comandante in capo IRGC, ucciso raid israeliano | commander
+  howard-davies:
+    nationality: GBR
+    affiliations:
+    - org: rbs
+      role: chairman
+      to: 2024
+      note: Chairman (as NatWest Group)
   howard-kohr:
     born: 1955
     nationality: USA
@@ -19513,6 +19831,14 @@ persons:
       role: chairman
       from: 2022
       note: Chair EQT Asia, Chairman dal 2026 (founder Baring PE Asia)
+  jean-francois-fallacher:
+    nationality: FRA
+    note: Former Orange executive, Eutelsat CEO 2025-
+    affiliations:
+    - org: eutelsat
+      role: executive
+      from: 2025
+      note: CEO
   jean-hoerni:
     born: 1924
     died: 1997
@@ -20521,6 +20847,15 @@ persons:
       from: 2013
       to: 2025
       note: Chairman Board of Directors
+  johan-lundgren:
+    born: 1966
+    nationality: SWE
+    affiliations:
+    - org: easyjet
+      role: executive
+      from: 2017
+      to: 2025
+      note: CEO
   johan-nykopp:
     born: 1906
     died: 1993
@@ -22199,6 +22534,11 @@ persons:
       role: chairman
       from: 1938
       to: 1991
+    - org: air-india
+      role: founder
+      from: 1932
+      to: 1977
+      note: Founder as Tata Airlines; Chairman until 1977
   juan-carlos-i:
     born: 1938
     nationality: ESP
@@ -22519,6 +22859,29 @@ persons:
       role: leader
       from: 2024
       note: Alto Rappresentante Affari Esteri e Politica di Sicurezza
+  kalanidhi-maran:
+    born: 1964
+    nationality: IND
+    affiliations:
+    - org: spicejet
+      role: shareholder
+      from: 2010
+      to: 2015
+      note: Majority stake via KAL Airways; sold back to Ajay Singh
+    - org: sun-group
+      role: founder
+      note: Founder & Chairman
+    - org: loyola-chennai
+      role: alumni
+    - org: scranton
+      role: alumni
+      note: Business Administration
+    relations:
+    - person: dayanidhi-maran
+      type: sibling
+      note: Elder brother
+    - person: murasoli-maran
+      type: son
   kalidas-madhavpeddi:
     nationality: USA
     note: Chairman Glencore
@@ -22932,6 +23295,29 @@ persons:
       role: executive
       from: 2024
       note: President & CEO
+    - org: boeing
+      role: board
+      from: 2024
+      note: Director
+    - org: collins-aerospace
+      role: executive
+      from: 2018
+      to: 2020
+      note: CEO
+    - org: university-of-iowa
+      role: alumni
+      note: BS Mechanical Engineering 1982
+    - org: aptiv
+      role: board
+      note: Board Director
+    - org: rockwell-collins
+      role: executive
+      from: 2013
+      to: 2018
+      note: Chairman, President & CEO
+    - org: aia
+      role: chairman
+      note: Chair, Board of Governors
   kelvin-kim:
     nationality: KOR
     note: CEO Korea Credit Data
@@ -23040,6 +23426,16 @@ persons:
       from: 1976
       to: 2002
       note: Chairman of Thomson Corporation
+  kenton-jarvis:
+    nationality: GBR
+    affiliations:
+    - org: easyjet
+      role: executive
+      from: 2025
+      note: CEO
+    - org: tui-group
+      role: executive
+      note: CEO Aviation division
   kermit-roosevelt:
     born: 1916
     died: 2000
@@ -24566,6 +24962,21 @@ persons:
       from: 1865
       to: 1909
       note: Re dei Belgi
+  leslie-thng:
+    nationality: SGP
+    affiliations:
+    - org: singapore-airlines
+      role: executive
+      note: CEO Silkair; CCO TigerAir/Scoot
+    - org: vistara
+      role: executive
+      from: 2017
+      to: 2021
+      note: CEO; launched international ops, B787
+    - org: scoot
+      role: executive
+      from: 2022
+      note: CEO; EVP SIA Group from 2024
   leslie-wexner:
     born: 1937
     nationality: USA
@@ -26342,6 +26753,40 @@ persons:
     - person: donald-trump
       type: political ally
       note: Nominato Secretary of State
+  marco-sansavini:
+    born: 1970
+    nationality: ITA
+    affiliations:
+    - org: klm
+      role: executive
+      from: 1995
+      to: 2004
+      note: 'Various roles: Marketing Manager, GM Central Europe'
+    - org: alitalia
+      role: executive
+      from: 2009
+      to: 2012
+      note: EVP Sales Distribution & Customer Care
+    - org: air-france
+      role: executive
+      from: 2004
+      to: 2009
+      note: VP Global Business, Commercial Director Europe
+    - org: iberia
+      role: executive
+      from: 2012
+      note: CCO 2012-2020, CEO 2024-
+    - org: vueling
+      role: executive
+      from: 2020
+      to: 2024
+      note: CEO
+    - org: university-of-bologna
+      role: alumni
+      note: BA Economics
+    - org: imd-lausanne
+      role: alumni
+      note: MBA
   marco-simoni:
     born: 1974
     nationality: ITA
@@ -29759,6 +30204,14 @@ persons:
     - org: mumbai-indians
       role: founder
       note: IPL franchise owner
+  murasoli-maran:
+    born: 1934
+    died: 2003
+    nationality: IND
+    affiliations:
+    - org: governo-india
+      role: minister
+      note: Union Minister in 3 governments; Commerce & Industry (1999-2002)
   murhaf-abu-qasra:
     nationality: SYR
     affiliations:
@@ -30280,6 +30733,27 @@ persons:
       role: leader
       from: 2014
       note: Prime Minister, 3 termini consecutivi (Modi 1.0, 2.0, 3.0)
+  naresh-goyal:
+    born: 1949
+    nationality: IND
+    affiliations:
+    - org: iata
+      role: board
+      from: 2004
+      to: 2016
+      note: Board member 2004-2006, re-elected 2008-2016
+    - org: jet-airways
+      role: founder
+      from: 1992
+      to: 2019
+      note: Chairman until March 2019
+    - org: bikram-college-patiala
+      role: alumni
+      note: B.Com
+    relations:
+    - person: anita-goyal
+      type: spouse
+      note: Married 1988, died May 2024
   nassef-sawiris:
     born: 1961
     nationality: EGY
@@ -31167,6 +31641,29 @@ persons:
       from: 2023
       to: 2022
       note: President
+  nikos-kardassis:
+    nationality: GRC-USA
+    affiliations:
+    - org: merrill-lynch
+      role: executive
+      from: 1999
+      to: 2008
+      note: MD Global Bank Group, Co-head Investments & Wealth Management
+    - org: jet-airways
+      role: executive
+      from: 1994
+      to: 2018
+      note: CEO 1994-1999, CEO 2009-2013, Advisor 2018
+    - org: baruch-college
+      role: alumni
+      note: MBA Finance 1984
+    - org: twa
+      role: executive
+      note: Finance and operational positions
+    - org: bny-mellon
+      role: executive
+      from: 2014
+      note: Chair Enterprise Product Management Group
   ning-min:
     nationality: CHN
     affiliations:
@@ -32855,6 +33352,13 @@ persons:
     - org: start-up-nation-central
       role: founder
       note: Co-founder
+  paul-thwaite:
+    nationality: GBR
+    affiliations:
+    - org: rbs
+      role: executive
+      from: 2024
+      note: CEO (as NatWest Group)
   paul-volcker:
     born: 1927
     died: 2019
@@ -33385,6 +33889,34 @@ persons:
       role: board
       from: 2025
       note: Vice-Chair
+  peter-seah:
+    born: 1947
+    nationality: SGP
+    affiliations:
+    - org: gic
+      role: board
+      note: Director; Chair HR & Organization Committee
+    - org: dbs
+      role: chairman
+      from: 2010
+      note: Chairman DBS Group Holdings
+    - org: singapore-airlines
+      role: chairman
+      from: 2017
+      note: Chairman
+    - org: nus
+      role: alumni
+      note: BBA Honours 1968
+    - org: overseas-union-bank
+      role: executive
+      from: 1977
+      to: 2001
+      note: Vice-Chairman & CEO
+    - org: st-engineering
+      role: executive
+      from: 2001
+      to: 2004
+      note: President & CEO Singapore Technologies
   peter-sutherland:
     born: 1946
     died: 2018
@@ -33642,6 +34174,17 @@ persons:
       role: executive
       from: 2013
       note: CEO & Chairman, ex-CIA
+  phee-teik-yeoh:
+    nationality: SGP
+    affiliations:
+    - org: singapore-airlines
+      role: executive
+      note: Career SIA man; SVP Customer Experience
+    - org: vistara
+      role: executive
+      from: 2014
+      to: 2017
+      note: First CEO, launched airline
   philip-edinburgh:
     born: 1921
     died: 2021
@@ -39553,6 +40096,18 @@ persons:
     - org: hinduja-group
       role: chairman
       to: 2023
+  stan-mccarthy:
+    nationality: IRL
+    affiliations:
+    - org: ryanair
+      role: chairman
+      from: 2017
+      note: Non-Executive Chairman
+    - org: kerry-group
+      role: executive
+      from: 2008
+      to: 2017
+      note: CEO 2008-2017
   stav-shaffir:
     born: 1985
     nationality: ISR
@@ -39741,6 +40296,14 @@ persons:
       from: 2014
       to: 2022
       note: CEO
+  stelios-haji-ioannou:
+    born: 1967
+    nationality: GRC-CYP
+    affiliations:
+    - org: easyjet
+      role: founder
+      from: 1995
+      note: Founder, largest shareholder ~15%
   stephan-weil:
     born: 1958
     nationality: DEU
@@ -39868,6 +40431,48 @@ persons:
       role: chairman
       from: 2006
       note: CEO 2006-2017, Chairman 2017-, CEO again 2025-
+  stephen-hester:
+    born: 1960
+    nationality: GBR
+    affiliations:
+    - org: credit-suisse
+      role: executive
+      from: 1982
+      to: 2001
+      note: Credit Suisse First Boston, Global Head Fixed Income
+    - org: nordea
+      role: chairman
+      from: 2022
+      note: Chairman
+    - org: oxford
+      role: alumni
+      note: BA PPE 1982, Lady Margaret Hall
+    - org: easyjet
+      role: chairman
+      from: 2021
+      note: Non-Executive Chairman
+    - org: rbs
+      role: executive
+      from: 2008
+      to: 2013
+      note: CEO, led restructuring after 2008 bailout
+    - org: british-land
+      role: executive
+      from: 2004
+      to: 2008
+      note: CEO
+    - org: rsa-insurance
+      role: executive
+      from: 2014
+      to: 2021
+      note: CEO
+    - org: kyndryl
+      role: board
+      from: 2021
+      note: Lead Independent Director
+    - org: centrica
+      role: board
+      note: Senior Independent Director
   stephen-pagliuca:
     born: 1955
     nationality: USA
@@ -39934,6 +40539,14 @@ persons:
     - person: peter-peterson
       type: mentor
       note: Co-fondatore Blackstone, mentor a Lehman Brothers
+  stephen-timm:
+    nationality: USA
+    affiliations:
+    - org: collins-aerospace
+      role: executive
+      from: 2020
+      to: 2025
+      note: President
   stephen-ubl:
     born: 1969
     nationality: USA
@@ -40457,13 +41070,18 @@ persons:
     - org: eutelsat
       role: chairman
       from: 2023
-      note: Co-Chairman Eutelsat Group (merger OneWeb)
+      note: Vice-President and Co-Chair post OneWeb merger
     - org: broadband-commission
       role: member
       note: Commissioner ITU/UNESCO
     - org: harvard-university
       role: advisor
       note: Global Advisory Council
+    - org: oneweb
+      role: chairman
+      from: 2020
+      to: 2023
+      note: Executive Chairman post-bankruptcy, now Vice-Chair Eutelsat
   suphachai-chearavanont:
     nationality: THA
     family: chearavanont
@@ -41853,6 +42471,13 @@ persons:
       role: partner
     - org: ideo
       role: board
+  tom-mckillop:
+    nationality: GBR
+    affiliations:
+    - org: rbs
+      role: chairman
+      to: 2009
+      note: Chairman during bailout
   tom-palmer:
     nationality: AUS
     affiliations:
@@ -42023,6 +42648,38 @@ persons:
       from: 2007
       to: 2010
       note: CEO
+  tony-ryan:
+    born: 1936
+    died: 2007
+    nationality: IRL
+    affiliations:
+    - org: ryanair
+      role: founder
+      from: 1984
+      to: 2007
+      note: Co-founder; Chairman until 1997
+    - org: aer-lingus
+      role: executive
+      from: 1955
+      to: 1975
+      note: Dispatcher 1955; NY Station Manager 1968; aircraft leasing pioneer
+    - org: guinness-peat-aviation
+      role: founder
+      from: 1975
+      note: Founder, created aircraft leasing industry
+    relations:
+    - person: cathal-ryan
+      type: parent
+      note: Son, eldest, Ryanair pilot and board member, died 2007
+    - person: declan-ryan
+      type: parent
+      note: Son, middle child, co-founded Ryanair, later Irelandia Aviation
+    - person: denis-obrien
+      type: mentor
+      note: O'Brien was Ryan's PA before O'Leary
+    - person: michael-oleary
+      type: mentor
+      note: Hired O'Leary as CFO 1988; O'Leary transformed Ryanair
   tony-xu:
     born: 1984
     nationality: CHN-USA
@@ -42149,6 +42806,16 @@ persons:
       from: 1996
       to: 2007
       note: SVP Finance & Risk
+  troy-brunk:
+    nationality: USA
+    affiliations:
+    - org: collins-aerospace
+      role: executive
+      from: 2025
+      note: President
+    - org: university-of-iowa
+      role: alumni
+      note: BS Industrial Engineering 1992, MBA 2005
   truong-chinh:
     born: 1907
     died: 1988
@@ -42955,6 +43622,17 @@ persons:
       note: Amministratore Delegato
   vinod-adani:
     nationality: IND
+  vinod-kannan:
+    nationality: SGP
+    affiliations:
+    - org: singapore-airlines
+      role: executive
+      note: Career from 2001; CCO Scoot
+    - org: vistara
+      role: executive
+      from: 2022
+      to: 2024
+      note: CEO (last CEO before merger)
   vinod-khosla:
     born: 1955
     nationality: IND-USA
@@ -44081,6 +44759,32 @@ persons:
   william-wales:
     born: 1982
     nationality: GBR
+  willie-walsh:
+    born: 1961
+    nationality: IRL
+    affiliations:
+    - org: iata
+      role: executive
+      from: 2021
+      note: Director General (8th), Board 2005-2018, Chair 2016-2017
+    - org: british-airways
+      role: executive
+      from: 2005
+      to: 2011
+      note: CEO
+    - org: iag
+      role: executive
+      from: 2011
+      to: 2020
+      note: CEO (founding)
+    - org: aer-lingus
+      role: executive
+      from: 2001
+      to: 2005
+      note: CEO
+    - org: trinity-college-dublin
+      role: alumni
+      note: MSc Management 1992
   wim-duisenberg:
     born: 1935
     died: 2005
@@ -44210,6 +44914,14 @@ persons:
       from: 2007
     - org: porsche-ag
       role: chairman
+  wolfgang-prock-schauer:
+    nationality: AUT
+    affiliations:
+    - org: jet-airways
+      role: executive
+      from: 2003
+      to: 2009
+      note: CEO
   wolfgang-schmidt:
     born: 1970
     nationality: DEU
@@ -44273,6 +44985,35 @@ persons:
       from: 2002
       to: 2028
       note: Lead owner 2002-2025, Governor until 2028
+  xabier-de-irala:
+    born: 1947
+    nationality: ESP-USA
+    affiliations:
+    - org: abb
+      role: executive
+      from: 1990
+      to: 1996
+      note: Executive VP and MD Spain
+    - org: ge
+      role: executive
+      from: 1971
+      to: 1990
+      note: 'Various roles: MD Spain, VP Finance Paris'
+    - org: iata
+      role: chairman
+      from: 2001
+      to: 2002
+      note: Chairman of the Board
+    - org: iberia
+      role: executive
+      from: 1996
+      to: 2001
+      note: Chairman and CEO; led privatization
+    - org: bbk
+      role: executive
+      from: 2003
+      to: 2009
+      note: President
   xavier-bettel:
     born: 1973
     nationality: LUX
