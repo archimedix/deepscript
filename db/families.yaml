@@ -36,8 +36,8 @@ families:
       generation: 3
       role: patriarch
     - person: john-elkann
-      generation: 5
-      role: patriarch
+      generation: 4
+      role: heir
     - person: giovanni-agnelli-sr
       generation: 1
       role: founder
@@ -45,6 +45,9 @@ families:
       generation: 3
       role: heir
     - person: margherita-agnelli
+      generation: 3
+      role: heir
+    - person: lapo-elkann
       generation: 4
       role: heir
     - person: edoardo-agnelli
@@ -52,6 +55,30 @@ families:
       role: heir
     - person: giovanni-alberto-agnelli
       generation: 4
+      role: heir
+    - person: alessandro-nasi
+      generation: 4
+      role: branch-nasi
+    - person: ginevra-elkann
+      generation: 4
+      role: heir
+    - person: aniceta-agnelli
+      generation: 2
+      role: heir
+    - person: maria-de-pahlen
+      generation: 5
+      role: heir
+    - person: pierre-de-pahlen
+      generation: 5
+      role: heir
+    - person: sophie-de-pahlen
+      generation: 5
+      role: heir
+    - person: anna-de-pahlen
+      generation: 5
+      role: heir
+    - person: tatiana-de-pahlen
+      generation: 5
       role: heir
   agnelli-elkann:
     origin: Italia
@@ -675,6 +702,37 @@ families:
     status: active
     members:
     - person: frederic-de-mevius
+  de-pahlen:
+    origin: Baltic German (Estonia/Livonia)
+    founder: johannes-de-pala
+    sector: nobility, military, publishing
+    status: active
+    note: Baltic German noble family. First record 1290 (Johannes de Pala). Barony from Charles XI Sweden 1679. County from
+      Paul I Russia 1799. Palmse Manor (Estonia) 1676-1919. White Russian emigres post-1917.
+    members:
+    - person: serge-de-pahlen
+      role: patriarch
+    - person: peter-ludwig-pahlen
+      generation: -5
+      role: founder-count
+    - person: serge-s-pahlen
+      generation: -1
+      role: heir
+    - person: maria-de-pahlen
+      generation: 1
+      role: heir
+    - person: pierre-de-pahlen
+      generation: 1
+      role: heir
+    - person: sophie-de-pahlen
+      generation: 1
+      role: heir
+    - person: anna-de-pahlen
+      generation: 1
+      role: heir
+    - person: tatiana-de-pahlen
+      generation: 1
+      role: heir
   de-spoelberch:
     origin: Belgium
     founder: willem-spoelberch
@@ -751,6 +809,30 @@ families:
     - person: pete-dupont
       generation: 6
       role: governor-delaware
+  elkann:
+    origin: FRA-ITA
+    founder: jean-paul-elkann
+    sector: finance-media
+    generations: 4
+    status: active
+    note: 'Jewish family: French-Italian banking roots. Via marriage to Agnelli, controls Exor empire. Main heirs: John, Lapo,
+      Ginevra.'
+    members:
+    - person: john-elkann
+      generation: 3
+      role: heir
+    - person: lapo-elkann
+      generation: 3
+      role: heir
+    - person: ginevra-elkann
+      generation: 3
+      role: heir
+    - person: jean-paul-elkann
+      generation: 1
+      role: founder
+    - person: alain-elkann
+      generation: 2
+      role: heir
   ellison:
     origin: USA
     sector: tech, media
@@ -1559,6 +1641,27 @@ families:
       role: heir-designated
     - person: james-murdoch
       generation: 3
+  nasi:
+    origin: ITA
+    founder: carlo-nasi
+    sector: automotive-holdings
+    generations: 4
+    status: active
+    note: Ramo Agnelli via matrimonio Carlo Nasi-Aniceta Agnelli (1907). Detiene ~21% di Giovanni Agnelli BV. Alessandro Nasi
+      Vice Chairman Exor.
+    members:
+    - person: alessandro-nasi
+      generation: 4
+      role: heir
+    - person: carlo-nasi
+      generation: 1
+      role: founder
+    - person: giovanni-nasi-1918
+      generation: 2
+      role: heir
+    - person: andrea-nasi
+      generation: 3
+      role: heir
   nassau-weilburg:
     origin: Luxembourg
     founder: adolphe-nassau

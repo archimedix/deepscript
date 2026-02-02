@@ -764,6 +764,24 @@ persons:
       type: daughter
     - person: moza-bint-nasser
       type: daughter
+  alain-elkann:
+    born: 1950
+    nationality: FRA-ITA-USA
+    note: Writer, journalist. Ex-husband Margherita Agnelli. Father of John, Lapo, Ginevra. Jewish intellectual, expert Jewish-Italian
+      history.
+    relations:
+    - person: ginevra-elkann
+      type: parent
+      note: Father-daughter
+    - person: john-elkann
+      type: parent
+      note: Father-son
+    - person: lapo-elkann
+      type: parent
+      note: Father-son
+    - person: margherita-agnelli
+      type: ex-spouse
+      note: 'Married 1975, divorced 1981. 3 children: John, Lapo, Ginevra'
   alain-juppe:
     born: 1945
     nationality: FRA
@@ -1132,6 +1150,51 @@ persons:
     - org: acea
       role: board
       note: Consigliere (rappresentante famiglia Caltagirone)
+  alessandro-nasi:
+    born: 1974
+    nationality: ITA
+    affiliations:
+    - org: fiat
+      role: executive
+      from: 2005
+      to: 2013
+      note: Corporate & Business Development; VP Fiat Powertrain Technologies 2007
+    - org: exor
+      role: board
+      from: 2017
+      note: Vice Chairman; Agnelli family
+    - org: cnh-industrial
+      role: board
+      from: 2019
+      note: Non-Executive Director; Agnelli family representative
+    - org: iveco-group
+      role: board
+      from: 2022
+      note: Non-Executive Director; Chairman Iveco Defence Vehicles
+    - org: university-turin
+      role: alumni
+      note: Laurea in Economia
+    - org: jp-morgan
+      role: employee
+      from: 2000
+      to: 2005
+      note: Associate, Private Equity Division (JP Morgan Partners)
+    - org: comau
+      role: chairman
+      from: 2020
+      note: Executive Chairman
+    - org: gvs
+      role: chairman
+      from: 2023
+      note: Chairman of the Board
+    - org: kirkbi
+      role: board
+      from: 2024
+      note: Board member; LEGO Group Board from May 2025
+    relations:
+    - person: john-elkann
+      type: cousin
+      note: Cugini via famiglia Agnelli
   alessandro-profumo:
     nationality: ITA
     affiliations:
@@ -2507,6 +2570,13 @@ persons:
     - person: carlo-umberto-bonomi
       type: family
       note: brother
+  andrea-casaluci:
+    nationality: ITA
+    affiliations:
+    - org: pirelli
+      role: executive
+      from: 2023
+      note: CEO
   andrea-mangoni:
     born: 1963
     nationality: ITA
@@ -2515,6 +2585,15 @@ persons:
       role: executive
       from: 2023
       note: CEO
+  andrea-nasi:
+    born: 1945
+    nationality: ITA
+    note: Son of Giovanni Nasi. Father of Alessandro Nasi. Previous holder of Nasi stake in Giovanni Agnelli BV via company
+      Enne.
+    relations:
+    - person: alessandro-nasi
+      type: parent
+      note: Father-son
   andrea-orcel:
     born: 1963
     nationality: ITA
@@ -3170,6 +3249,11 @@ persons:
       role: economy-minister
       from: 1943
       to: 1945
+  aniceta-agnelli:
+    born: 1889
+    died: 1928
+    nationality: ITA
+    note: Daughter of Fiat founder Giovanni Agnelli. Married Carlo Nasi. Mother of Nasi branch.
   anielle-franco:
     nationality: BRA
     note: Ministra Uguaglianza Razziale Brasile
@@ -3209,6 +3293,10 @@ persons:
       role: board
       from: 2017
       note: Board member, Remuneration Committee
+  anna-de-pahlen:
+    born: 1988
+    nationality: FRA-ITA
+    note: Twin with Sophie
   anna-diamantopoulou:
     born: 1959
     nationality: GRC
@@ -4249,6 +4337,12 @@ persons:
       from: 2017
       to: 2021
       note: Principal, consulted for Palantir
+  axel-dumas:
+    nationality: FRA
+    affiliations:
+    - org: exor
+      role: board
+      note: Non-Executive Director; CEO Hermès
   axel-weber:
     born: 1957
     nationality: DEU
@@ -6122,6 +6216,18 @@ persons:
       role: board
       from: 2014
       note: Board of Directors
+  carlo-nasi:
+    born: 1877
+    died: 1935
+    nationality: ITA
+    note: Baron. Olympic sailor 1924. Married Aniceta Agnelli (daughter of Fiat founder). 5 children.
+    relations:
+    - person: aniceta-agnelli
+      type: spouse
+      note: 'Married ~1907. 5 children: Clara, Laura, Giovanni, Umberta, Emanuele'
+    - person: giovanni-nasi-1918
+      type: parent
+      note: Father-son
   carlo-pareschi:
     nationality: ITA
     affiliations:
@@ -14886,6 +14992,50 @@ persons:
     - org: southern-copper
       role: chairman
       from: 1999
+  gerrit-marx:
+    born: 1975
+    nationality: DEU
+    affiliations:
+    - org: volkswagen
+      role: executive
+      from: 2011
+      to: 2012
+      note: EVP VW China; President Skoda China
+    - org: mckinsey
+      role: partner
+      from: 1999
+      to: 2007
+      note: Automotive & aerospace improvement programs; Europe, Brazil, Japan
+    - org: bain-capital
+      role: partner
+      from: 2012
+      to: 2018
+      note: European Leadership Team; Interim CEO Wittur Group 2017-2018
+    - org: daimler
+      role: executive
+      from: 2007
+      to: 2011
+      note: President & CEO Daimler Trucks China (2009-2011)
+    - org: acea
+      role: chairman
+      from: 2019
+      to: 2020
+      note: Chairman, Commercial Vehicle Board
+    - org: cnh-industrial
+      role: executive
+      from: 2024
+      note: CEO
+    - org: iveco-group
+      role: executive
+      from: 2022
+      to: 2024
+      note: CEO 2022-2024
+    - org: rwth-aachen
+      role: alumni
+      note: Diplom Ingenieur (Mechanical Engineering); Diplom Kaufmann (MBA)
+    - org: university-cologne
+      role: alumni
+      note: PhD Business Administration
   gerry-cardinale:
     born: 1967
     nationality: USA
@@ -15163,6 +15313,7 @@ persons:
       type: parent
     - person: margherita-agnelli
       type: parent
+      note: Father-daughter. Only child.
     - person: umberto-agnelli
       type: sibling
   gianni-caproni:
@@ -15287,6 +15438,12 @@ persons:
       from: 1999
       to: 2006
       note: First CEO
+  ginevra-elkann:
+    nationality: ITA
+    affiliations:
+    - org: exor
+      role: board
+      note: Non-Executive Director; Agnelli family
   giorgia-meloni:
     born: 1977
     nationality: ITA
@@ -15337,6 +15494,10 @@ persons:
       role: founder
       from: 1899
       to: 1945
+    relations:
+    - person: aniceta-agnelli
+      type: parent
+      note: Father-daughter. Aniceta was eldest child.
   giovanni-alberto-agnelli:
     born: 1964
     died: 1997
@@ -15348,6 +15509,16 @@ persons:
       role: president
       from: 1939
       to: 1943
+  giovanni-battista-pirelli:
+    born: 1848
+    died: 1932
+    nationality: ITA
+    affiliations:
+    - org: pirelli
+      role: founder
+      from: 1872
+      to: 1932
+      note: Fondatore
   giovanni-bazoli:
     born: 1932
     nationality: ITA
@@ -15423,6 +15594,15 @@ persons:
       role: secretary-admin
       from: 1922
       to: 1943
+  giovanni-nasi-1918:
+    born: 1918
+    died: 1995
+    nationality: ITA
+    note: Son of Carlo Nasi and Aniceta Agnelli. Married Marinella Wolf. Father of Andrea Nasi.
+    relations:
+    - person: andrea-nasi
+      type: parent
+      note: Father-son
   giovanni-tamburi:
     born: 1954
     nationality: ITA
@@ -17570,6 +17750,53 @@ persons:
       from: 2019
       to: 2025
       note: Comandante in capo IRGC, ucciso raid israeliano | commander
+  howard-buffett:
+    born: 1983
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: member
+      note: Former member
+    - org: governo-usa
+      role: advisor
+      from: 2009
+      to: 2011
+      note: Policy Advisor, White House Domestic Policy Council; Presidential Transition Team 2008-09
+    - org: toyota
+      role: board
+      note: Diversity Advisory Board, Toyota North America
+    - org: mit
+      role: alumni
+      note: MBA, Sloan School of Management
+    - org: cnh-industrial
+      role: board
+      from: 2020
+      note: Independent Non-Executive Director
+    - org: columbia
+      role: alumni
+      note: MPA 2008, School of International and Public Affairs
+    - org: columbia
+      role: faculty
+      from: 2012
+      note: Adjunct Associate Professor, SIPA
+    - org: northwestern
+      role: alumni
+      note: BA Political Science & Communication Studies 2006
+    - org: inari-agriculture
+      role: board
+      note: Chair, ESG Committee
+    - org: howard-g-buffett-foundation
+      role: executive
+      from: 2011
+      to: 2014
+      note: Executive Director
+    relations:
+    - person: howard-g-buffett
+      type: child
+      note: Figlio di Howard G. Buffett
+    - person: warren-buffett
+      type: grandchild
+      note: Nipote di Warren Buffett; figlio di Howard G. Buffett
   howard-davies:
     nationality: GBR
     affiliations:
@@ -17577,6 +17804,13 @@ persons:
       role: chairman
       to: 2024
       note: Chairman (as NatWest Group)
+  howard-g-buffett:
+    born: 1954
+    nationality: USA
+    relations:
+    - person: warren-buffett
+      type: child
+      note: Secondo figlio di Warren Buffett
   howard-kohr:
     born: 1955
     nationality: USA
@@ -19954,6 +20188,19 @@ persons:
       role: chairman
       from: 2022
       note: Chairman Board
+  jean-paul-elkann:
+    born: 1923
+    died: 1982
+    nationality: FRA
+    note: French Jewish industrialist. Chairman Dior. President Israelite Central Consistory of France. Father of Alain.
+    affiliations:
+    - org: dior
+      role: chairman
+      note: Chairman
+    relations:
+    - person: alain-elkann
+      type: parent
+      note: Father-son
   jean-paul-prates:
     nationality: BRA
     affiliations:
@@ -20342,6 +20589,16 @@ persons:
   jeremy-clarkson:
     born: 1960
     nationality: GBR
+  jeremy-heywood:
+    born: 1961
+    died: 2018
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: advisor
+      from: 1983
+      to: 2018
+      note: Cabinet Secretary 2012-2018; served Blair, Brown, Cameron, May
   jeremy-hunt:
     born: 1966
     nationality: GBR
@@ -21194,7 +21451,7 @@ persons:
     - org: meta
       role: board
       from: 2025
-      note: Director
+      note: Board director from January 2025
     - org: fiat
       role: chairman
       from: 2010
@@ -21202,11 +21459,11 @@ persons:
     - org: exor
       role: executive
       from: 2009
-      note: CEO
+      note: Chairman & CEO
     - org: exor
       role: executive
       from: 2009
-      note: CEO
+      note: Chairman & CEO
     - org: stellantis
       role: chairman
       from: 2021
@@ -24266,6 +24523,17 @@ persons:
     born: 1977
     nationality: ITA
     family: agnelli-elkann
+    note: Designer, entrepreneur. Italia Independent founder. Brother of John and Ginevra.
+    affiliations:
+    - org: fiat
+      role: executive
+      from: 2002
+      to: 2005
+      note: Brand promotion
+    - org: italia-independent
+      role: founder
+      from: 2007
+      note: Founder and creative director
   larry-ellison:
     born: 1944
     nationality: USA
@@ -24962,6 +25230,16 @@ persons:
       from: 1865
       to: 1909
       note: Re dei Belgi
+  leopoldo-pirelli:
+    born: 1925
+    died: 2007
+    nationality: ITA
+    affiliations:
+    - org: pirelli
+      role: chairman
+      from: 1965
+      to: 1996
+      note: CEO 1956-1992, Chairman 1965-1996
   leslie-thng:
     nationality: SGP
     affiliations:
@@ -25577,6 +25855,13 @@ persons:
     - org: grupo-bimbo
       role: founder
       from: 1945
+  lorenzo-simonelli:
+    nationality: ITA
+    affiliations:
+    - org: iveco-group
+      role: board
+      from: 2022
+      note: Senior Non-Executive Director
   lorenzo-zambrano:
     born: 1944
     died: 2014
@@ -26810,6 +27095,9 @@ persons:
     born: 1948
     nationality: ITA
     affiliations:
+    - org: jpmorgan-chase
+      role: advisor
+      note: International Council
     - org: telecom-italia
       role: chairman
       from: 2001
@@ -26827,7 +27115,7 @@ persons:
       role: member
       note: Italian Group
     - org: pirelli
-      role: executive
+      role: chairman
       from: 1992
       to: 2023
       note: CEO 1992-2022, Executive Vice Chairman 2023-
@@ -26836,9 +27124,14 @@ persons:
       from: 1996
       to: 2017
       note: Director 1996-2002, Deputy Chairman 2007-2017
+    - org: aspen-italia
+      role: member
+      from: 2020
     - org: camfin
       role: chairman
       note: Chairman, controlling shareholder
+    - org: bocconi
+      role: board
     relations:
     - person: enrico-letta
       type: colleague
@@ -27022,8 +27315,27 @@ persons:
     born: 1955
     nationality: ITA
     family: agnelli-elkann
+    note: Sole heir of Gianni Agnelli. Ex-wife Alain Elkann. Current wife Serge de Pahlen. 8 children total. Disputing inheritance
+      with Elkann children.
     relations:
+    - person: anna-de-pahlen
+      type: parent
+    - person: ginevra-elkann
+      type: parent
+      note: Mother-daughter
     - person: john-elkann
+      type: parent
+      note: Mother-son
+    - person: lapo-elkann
+      type: parent
+      note: Mother-son
+    - person: maria-de-pahlen
+      type: parent
+    - person: pierre-de-pahlen
+      type: parent
+    - person: sophie-de-pahlen
+      type: parent
+    - person: tatiana-de-pahlen
       type: parent
   maria-bianca-farina:
     nationality: ITA
@@ -27049,6 +27361,9 @@ persons:
       role: executive
       to: 2015
       note: CEO. First woman to lead Petrobras. Resigned during Lava Jato scandal.
+  maria-de-pahlen:
+    born: 1983
+    nationality: FRA-ITA
   maria-fede-caproni:
     died: 2019
     nationality: ITA
@@ -31734,6 +32049,13 @@ persons:
     - org: reliance-foundation
       role: founder
       from: 2010
+  nitin-nohria:
+    nationality: USA-IND
+    affiliations:
+    - org: exor
+      role: chairman
+      from: 2022
+      note: Independent Chairman
   nneka-mobisson-etuk:
     nationality: ZAF
     note: Executive Director IHI. Former McKinsey consultant. Former World Bank. Co-founded Anadach Group.
@@ -32129,6 +32451,54 @@ persons:
       role: executive
       from: 2018
       note: Governor
+  olof-persson:
+    born: 1964
+    nationality: SWE
+    affiliations:
+    - org: abb
+      role: executive
+      from: 1988
+      to: 2001
+      note: Various positions incl. AdTranz
+    - org: volvo-group
+      role: executive
+      from: 2006
+      to: 2015
+      note: CEO 2011-2015; President Volvo Construction Equipment 2008-2011
+    - org: iveco-group
+      role: executive
+      from: 2024
+      note: CEO
+    - org: iveco-group
+      role: board
+      from: 2022
+      to: 2024
+      note: Non-Executive Director
+    - org: cerberus
+      role: executive
+      from: 2016
+      to: 2022
+      note: Senior Operating Executive
+    - org: karlstad-university
+      role: alumni
+      note: BBA Economics 1988
+    - org: bombardier
+      role: executive
+      from: 2001
+      to: 2006
+      note: Division Head Transportation; President Mainline and Metros
+    - org: new-wave-group
+      role: chairman
+      from: 2022
+      note: Chairman of the Board
+    - org: staples-solutions
+      role: chairman
+      from: 2017
+      note: Executive Chairman; Cerberus portfolio company
+    - org: recover-textile
+      role: chairman
+      from: 2022
+      note: Chairman of the Board; sustainable textiles
   om-prakash-jindal:
     born: 1930
     died: 2005
@@ -33830,6 +34200,12 @@ persons:
     - org: microsoft-research
       role: executive
       note: President
+  peter-ludwig-pahlen:
+    born: 1745
+    died: 1826
+    nationality: RUS
+    note: Baltic German count. Governor Military St Petersburg 1798-1801. Organized assassination of Tsar Paul I (1801). Family
+      received comital title 1799.
   peter-martland:
     nationality: GBR
     note: Storico intelligence britannica, co-fondatore Cambridge Intelligence Seminar
@@ -34482,6 +34858,10 @@ persons:
       role: board
       from: 2024
       note: Audit Committee, Nominating & Governance Committee
+  pierre-de-pahlen:
+    born: 1986
+    nationality: FRA-ITA
+    note: Construction business in Moscow
   pierre-gemayel-jr:
     born: 1972
     died: 2006
@@ -38874,6 +39254,69 @@ persons:
       role: owner
       from: 2004
       to: 2018
+  serge-de-pahlen:
+    born: 1944
+    nationality: FRA-RUS
+    note: 'Franco-Russian count, Baltic German nobility. VP International Fiat (1983-2005). Second husband Margherita Agnelli
+      since 1981. Five children: Maria, Pierre, Sophie, Anna, Tatiana.'
+    affiliations:
+    - org: fiat
+      role: executive
+      from: 1983
+      to: 2005
+      note: VP International Activities; President Fiat Russia late 1980s
+    - org: eth-zurich
+      role: alumni
+      note: Undergraduate degree
+    - org: edifin-services
+      role: chairman
+      from: 2010
+    - org: intl-industrial-bank-russia
+      role: board
+      from: 2007
+      to: 2010
+      note: Board member until bankruptcy
+    - org: technip
+      role: executive
+      note: Director South America (Brazil), early 1980s
+    - org: editions-des-syrtes
+      role: founder
+      from: 1999
+    relations:
+    - person: anna-de-pahlen
+      type: parent
+    - person: gianni-agnelli
+      type: son-in-law
+      note: Married Gianni daughter Margherita 1981
+    - person: ginevra-elkann
+      type: stepfather
+      note: Via marriage to Margherita Agnelli 1981
+    - person: john-elkann
+      type: stepfather
+      note: Via marriage to Margherita Agnelli 1981
+    - person: lapo-elkann
+      type: stepfather
+      note: Via marriage to Margherita Agnelli 1981
+    - person: margherita-agnelli
+      type: spouse
+      note: 'Married 1981. 5 children: Maria, Pierre, Sophie, Anna, Tatiana'
+    - person: maria-de-pahlen
+      type: parent
+    - person: pierre-de-pahlen
+      type: parent
+    - person: sophie-de-pahlen
+      type: parent
+    - person: tatiana-de-pahlen
+      type: parent
+  serge-s-pahlen:
+    born: 1915
+    died: 1991
+    nationality: RUS-FRA
+    note: White Russian emigre. Born Eckau (Latvia). Died Paris. Father of Serge de Pahlen.
+    relations:
+    - person: serge-de-pahlen
+      type: parent
+      note: Father
   serge-weinberg:
     born: 1951
     nationality: FRA
@@ -38944,6 +39387,17 @@ persons:
       from: 2000
       to: 2007
       note: Director SVR
+  sergei-pugachev:
+    born: 1963
+    nationality: RUS-FRA
+    note: Russian-French oligarch. Founded Mezhprombank 1992. Known as Putin banker. Senator 2002-2011. Fled Russia 2011,
+      UK 2015. Lives France.
+    affiliations:
+    - org: intl-industrial-bank-russia
+      role: founder
+      from: 1992
+      to: 2010
+      note: Co-founder with Sergey Veremeenko
   sergei-stepashin:
     born: 1952
     nationality: RUS
@@ -40016,6 +40470,10 @@ persons:
     - org: wef
       role: ygl
       from: 2022
+  sophie-de-pahlen:
+    born: 1988
+    nationality: FRA-ITA
+    note: Twin with Anna
   sophie-kim:
     nationality: KOR
     note: Fondatrice Market Kurly
@@ -41183,6 +41641,52 @@ persons:
       role: chairman
       from: 2020
       note: Chair of Board
+  suzanne-heywood:
+    born: 1969
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: advisor
+      from: 1993
+      to: 1997
+      note: HM Treasury; Private Secretary to Financial Secretary 1995-96
+    - org: exor
+      role: executive
+      from: 2016
+      note: COO dal 2022; Managing Director 2016-2022
+    - org: the-economist
+      role: board
+      note: Board member, The Economist Group
+    - org: mckinsey
+      role: partner
+      from: 1997
+      to: 2016
+      note: Senior Partner 2013; Global Head Organization Design
+    - org: chanel
+      role: board
+      note: Non-Executive Director
+    - org: cnh-industrial
+      role: chairman
+      from: 2018
+      note: Acting CEO 2020-2021
+    - org: cambridge
+      role: alumni
+      note: PhD 1993, King's College
+    - org: oxford
+      role: alumni
+      note: BA Zoology 1990, Somerville College
+    - org: iveco-group
+      role: chairman
+      from: 2022
+      note: Chairman
+    - org: clarivate
+      role: board
+      from: 2024
+      note: Non-Executive Director; nominated by Exor
+    relations:
+    - person: jeremy-heywood
+      type: spouse
+      note: Married 1997; three children
   t-boone-pickens:
     nationality: USA
   t-coleman-dupont:
@@ -41468,6 +41972,9 @@ persons:
     - person: zenko-suzuki
       type: son-in-law
       note: Suocero (padre della moglie Chikako)
+  tatiana-de-pahlen:
+    born: 1990
+    nationality: FRA-ITA
   tatyana-yumasheva:
     born: 1960
     nationality: RUS-AUT
@@ -42136,6 +42643,12 @@ persons:
       role: founder
       from: 1947
       to: 1968
+  tiberto-brandolini:
+    nationality: ITA
+    affiliations:
+    - org: exor
+      role: board
+      note: Non-Executive Director; Agnelli family
   tigran-khudaverdian:
     nationality: RUS
     note: Deputy CEO Yandex
@@ -42835,6 +43348,12 @@ persons:
     relations:
     - person: cyril-ramaphosa
       type: spouse
+  tufan-erginbilgic:
+    nationality: GBR-TUR
+    affiliations:
+    - org: iveco-group
+      role: board
+      from: 2022
   tullio-cianetti:
     nationality: ITA
     affiliations:

@@ -1117,6 +1117,26 @@ Domestica  Globale
 | Mikhail Fridman | Alfa Group | LetterOne, Royal Academy trustee |
 | Petr Aven | Alfa Bank | Woodrow Wilson Award 2015 |
 
+### Sergei Pugachev: "Putin's Banker" Caduto
+
+[Sergei Pugachev](../docs/persons/sergei-pugachev.md) (1963-) rappresenta il caso emblematico dell'oligarca che credeva di essere intoccabile.
+
+| Anno | Evento |
+|------|--------|
+| **1992** | Fonda [Mezhprombank](../docs/bank/intl-industrial-bank-russia.md) (International Industrial Bank) |
+| **1995** | Scandalo Eurocards per famiglia Eltsin |
+| **2000s** | Soprannome "Putin's banker" - tra gli oligarchi più vicini al Cremlino |
+| **2002-11** | Senatore per la Tuva |
+| **2010** | Mezhprombank fallisce (€200M default, tra le 10 banche più grandi) |
+| **2011** | Indagato per appropriazione $700M fondi Banca Centrale; fugge a Londra |
+| **2014** | $15B di beni congelati da High Court UK |
+| **2015** | Fugge da UK a Nizza violando ordini del tribunale |
+| **2025** | Condannato in contumacia 14 anni; vive in Francia |
+
+**Il pattern Pugachev**: Unico oligarca ad aver fondato una grande banca (non averla acquisita), ma quando il Cremlino decise di eliminarlo, la stessa banca divenne lo strumento della sua caduta.
+
+**Connessione Agnelli**: Nel board di Mezhprombank sedeva [Serge de Pahlen](../docs/persons/serge-de-pahlen.md), conte franco-russo, marito di Margherita Agnelli ed ex VP Fiat Russia (1983-2005). De Pahlen rappresenta il ponte tra oligarchia russa e dinastie industriali europee.
+
 ---
 
 ## Entita' nel Database
@@ -1141,6 +1161,7 @@ Domestica  Globale
 | [RDIF](../docs/swf/rdif.md) | SWF | Stato (Dmitriev) | **Scheda** |
 | [KGB](../docs/agency/kgb.md) | Agency | Defunct (1991) | Stub |
 | [Sovcomflot](../docs/company/sovcomflot.md) | Company | Stato | Stub |
+| [Mezhprombank](../docs/bank/intl-industrial-bank-russia.md) | Bank | Pugachev (defunct 2010) | **NEW** |
 
 ### Organizzazioni Cerchio Judo/Kovalchuk (NEW)
 
@@ -1897,7 +1918,7 @@ Gli oligarchi di Putin usano lo sport per soft power, networking e potenzialment
 
 | Connessione | Tipo |
 |-------------|------|
-| Russia-Italia (Berlusconi, Salvini) | Politica |
+| Russia-Italia (Berlusconi, Salvini, [de Pahlen](../docs/persons/serge-de-pahlen.md)-Agnelli) | Politica, Business |
 | Russia-Serbia | Geopolitica |
 | Russia-Cina (Xi-Putin) | Geopolitica |
 | Russia-India (Modi) | Energia, armi |
@@ -2213,5 +2234,5 @@ La "Family" e i riformatori che avevano portato Putin al potere sono stati progr
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
-*Status: Versione 9.0 - Nuove sezioni: Alexander Bortnikov (direttore FSB 17+ anni, caso Navalny, fallimento intelligence Ucraina), Igor Sergun (architetto Crimea, visita Flynn 2013, morte misteriosa), Igor Korobov (hacking DNC, Skripal, morte in carica), La Visita a Washington 2018 (tutti e 3 i capi intelligence). 8 nuove lezioni (#51-58) su intelligence russa, morti sospette GRU, team Novichok FSB. Precedente: Versione 8.0 con Apparato Soft Power, Dmitriev back-channel, dottrina nucleare Karaganov.*
+*Ultimo aggiornamento: Febbraio 2026*
+*Status: Versione 9.1 - Nuova sezione: Sergei Pugachev "Putin's Banker" (fondatore Mezhprombank, caduta 2010-2011, esilio Francia). Nuove entità: [Mezhprombank](../docs/bank/intl-industrial-bank-russia.md), [Serge de Pahlen](../docs/persons/serge-de-pahlen.md) (connessione Agnelli). Aggiornata connessione Russia-Italia. Precedente: Versione 9.0 con intelligence (Bortnikov, Sergun, Korobov, Visita Washington 2018).*

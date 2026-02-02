@@ -1641,21 +1641,76 @@ Quando Umberto muore nel 2004, Fiat perdeva €6B in due anni. La famiglia scegl
 
 ```
 Giovanni Agnelli B.V. (cassaforte familiare)
-              │
+        │ 56.9% equity, 86% voto
+        ▼
+   EXOR N.V.
+   (Amsterdam)
+        │
+   ┌────┼────┬────┬────┬────┬────┐
+   │    │    │    │    │    │    │
+   ▼    ▼    ▼    ▼    ▼    ▼    ▼
+Juve Ferrari Iveco CNH Stel. Philips Economist
+(65%) (19.5%)(27%) (27%)(15.5%)(19%) (43%)
+       │      │
+    32% voto  │ → In vendita 2025
               ▼
-         EXOR N.V.
-         (Amsterdam)
-              │
-    ┌─────────┼─────────┬──────────┐
-    │         │         │          │
-    ▼         ▼         ▼          ▼
-Stellantis  Ferrari   CNH      Juventus
- (14.2%)   (24.65%)  Industrial   (64%)
-    │         │
-    │     36.5% voting
-    │
- 14 marchi auto
+        Tata Motors €3.8B (civilian)
+        Leonardo €1.7B (defence)
 ```
+
+**Azionisti [Giovanni Agnelli B.V.](../docs/company/giovanni-agnelli-bv.md) (2025):**
+
+| Ramo | Quota | Rappresentanti |
+|------|-------|----------------|
+| [Elkann](../docs/family/elkann.md) (John, Lapo, Ginevra) | 37.96% | John Elkann |
+| [Nasi](../docs/family/nasi.md) (tutti i rami) | ~21% | Alessandro Nasi |
+| Maria Sole Agnelli heirs | 12.32% | - |
+| Umberto Agnelli heirs | 11.85% | Andrea Agnelli |
+| Brandolini d'Adda | 5.67% | Tiberto Brandolini |
+| Susanna Agnelli-Rattazzi heirs | 4.81% | - |
+| Treasury + Fondazione | 5.81% | - |
+| Fürstenberg | 0.27% | Alexandre von Fürstenberg |
+
+**Nota**: Solo i discendenti del Senatore Giovanni Agnelli possono essere azionisti. Le regole di trasferimento sono molto restrittive.
+
+**Origini Famiglia [Elkann](../docs/family/elkann.md):**
+
+Gli Elkann sono una famiglia ebraica franco-italiana. [Jean-Paul Elkann](../docs/persons/jean-paul-elkann.md) (1923-1982), Chairman Dior e Presidente del Concistoro Israelita di Francia, ebbe il figlio [Alain Elkann](../docs/persons/alain-elkann.md) (1950-), scrittore e intellettuale. Nel 1975 Alain sposò [Margherita Agnelli](../docs/persons/margherita-agnelli.md), figlia unica di Gianni Agnelli. I tre figli - John (1976), Lapo (1977), Ginevra (1979) - furono battezzati cattolici. Il divorzio nel 1981 e il secondo matrimonio di Margherita con il conte [Serge de Pahlen](../docs/persons/serge-de-pahlen.md) (5 figli) ha creato tensioni sulla successione.
+
+**Faida Ereditaria (2020-2025):**
+
+| Anno | Evento |
+|------|--------|
+| 2020 | Margherita avvia causa contro i figli per eredità Marella Caracciolo |
+| 2023 | Emerge questione residenza fiscale Marella (Torino vs Svizzera) |
+| 2024 | Sequestro €74.8M ai tre Elkann |
+| 2025 Lug | Settlement €175M con Agenzia Entrate |
+| 2025 Nov | Processo Thun (CH) - deposizione John |
+| 2025 Dic | Imputazione coatta John; archiviazione Lapo e Ginevra |
+
+Se Margherita vincesse, la divisione sarebbe tra 8 figli (3 Elkann + 5 de Pahlen) invece di 3, con potenziale riconfigurazione del controllo Exor.
+
+**Quote aggiornate 2025:**
+| Partecipata | Quota | Voto | Note |
+|-------------|-------|------|------|
+| [Juventus](../docs/sports-club/juventus.md) | 65.4% | 65.4% | Tether offerta rifiutata |
+| [The Economist](../docs/media/the-economist.md) | 43.4% | - | - |
+| [Iveco Group](../docs/company/iveco-group.md) | 27% | 43% | **In vendita** Tata/Leonardo |
+| [CNH Industrial](../docs/company/cnh-industrial.md) | 26.9% | 45% | Gerrit Marx CEO |
+| [Ferrari](../docs/company/ferrari.md) | 19.5% | 32% | Venduto €3B marzo 2025 |
+| [Philips](../docs/company/philips.md) | 19% | 19% | - |
+| [Stellantis](../docs/company/stellantis.md) | 15.5% | 24% | - |
+
+**Disinvestimenti 2025:**
+- **Ferrari**: Venduti €3B di azioni (marzo), Exor resta maggiore azionista
+- **Iveco Group**: Accordo vendita totale (luglio 2025) - Tata Motors acquisisce civilian (€3.8B), Leonardo acquisisce defence/IDV (€1.7B). Closing H1 2026. Prima acquisizione di un OEM europeo da gruppo asiatico.
+
+**Leadership Exor 2025:**
+| Ruolo | Nome | Note |
+|-------|------|------|
+| Chairman & CEO | [John Elkann](../docs/persons/john-elkann.md) | V gen. Agnelli |
+| Vice Chairman | [Alessandro Nasi](../docs/persons/alessandro-nasi.md) | Ramo Nasi; Managing Partner GA B.V. |
+| COO | [Suzanne Heywood](../docs/persons/suzanne-heywood.md) | Anche Chair CNH, Iveco |
 
 **Connessioni internazionali**: Bilderberg (steering), Trilaterale, Chase Manhattan (Rockefeller), Economist Group (43.4% via Exor)
 
@@ -2492,11 +2547,13 @@ Lamborghini ←─── 100% (1998) ──────────────�
 
 ### Famiglie
 
-| Famiglia | Settore |
-|----------|---------|
-| De Benedetti | Editoria, tech |
-| Caltagirone | Costruzioni, media, finanza |
-| Aponte | MSC shipping, ora 50% Italo |
+| Famiglia | Settore | Status |
+|----------|---------|--------|
+| De Benedetti | Editoria, tech | TODO |
+| Caltagirone | Costruzioni, media, finanza | TODO |
+| Aponte | MSC shipping, ora 50% Italo | TODO |
+| [Elkann](../docs/family/elkann.md) | Holdings (via Agnelli) | **Documentata** |
+| [Nasi](../docs/family/nasi.md) | Holdings (ramo Agnelli) | **Documentata** |
 
 ### Eventi Storici
 
@@ -2506,7 +2563,10 @@ Lamborghini ←─── 100% (1998) ──────────────�
 | Privatizzazioni IRI | 1992-2000 | Smantellamento stato imprenditore |
 | Crisi debito sovrano | 2011 | Governo Monti |
 | Vendita Italo a GIP | 2018 | Exit fondatori italiani |
+| Spin-off Iveco da CNH | 2022 | Separazione on-highway / off-highway |
 | MSC entra in Italo | 2023 | Shipping svizzero nel trasporto ferroviario |
+| Vendita Iveco a Tata/Leonardo | 2025 | Prima cessione OEM europeo a gruppo asiatico |
+| Exor vende Ferrari €3B | 2025 | Monetizzazione parziale gioiello di famiglia |
 
 ### Private Equity in Italia
 
@@ -2572,4 +2632,4 @@ I fondi PE globali hanno acquisito asset significativi in Italia, spesso in sett
 - Neo4j: [Schema corrente](../db/schema.yaml)
 - Query per aggiornamenti: vedi CLAUDE.md
 
-*Ultimo aggiornamento: 23 Gennaio 2026 - Aggiunti: governance ASPI 2025 (Turicchi, Giana, Valeri), struttura HRA, sezione PE Italia completa (Cinven, Permira con investimenti italiani). Schede create: autostrade-italia.md, cinven.md, permira.md.*
+*Ultimo aggiornamento: 2 Febbraio 2026 - Aggiunta struttura azionaria Giovanni Agnelli B.V. con rami familiari (Elkann 38%, Nasi 21%, altri). Documentata faida ereditaria Margherita vs figli Elkann (2020-2025). Aggiunte origini famiglia Elkann (ebrei franco-italiani). Link alle schede family/elkann.md e family/nasi.md.*

@@ -159,6 +159,11 @@ organizations:
       from: 1990
       to: 1996
       note: Executive VP and MD Spain
+    - person: olof-persson
+      role: executive
+      from: 1988
+      to: 2001
+      note: Various positions incl. AdTranz
     - org: blackrock
       share: 5.8%
     - org: vanguard
@@ -394,10 +399,10 @@ organizations:
       from: 2025
       note: Strategic Board Advisor
   acea:
-    name: ACEA SpA
-    type: company
-    founded: 1909
-    headquarters: Rome, Italy
+    name: ACEA - European Automobile Manufacturers Association
+    type: forum
+    founded: 1991
+    headquarters: Brussels, Belgium
     status: active
     sector: multi-utility
     stakeholders:
@@ -417,6 +422,11 @@ organizations:
     - person: alessandro-caltagirone
       role: board
       note: Consigliere (rappresentante famiglia Caltagirone)
+    - person: gerrit-marx
+      role: chairman
+      from: 2019
+      to: 2020
+      note: Chairman, Commercial Vehicle Board
     - org: governo-italia
       share: 51
       note: Roma Capitale azionista di controllo
@@ -3697,6 +3707,9 @@ organizations:
     - person: paolo-savona
       role: chairman
       note: Vice-Presidente
+    - person: marco-tronchetti-provera
+      role: member
+      from: 2020
     - person: giampiero-massolo
       role: steering
       note: Executive Committee
@@ -4731,6 +4744,11 @@ organizations:
     - person: raj-ganguly
       role: partner
       note: Co-leader global technology initiative
+    - person: gerrit-marx
+      role: partner
+      from: 2012
+      to: 2018
+      note: European Leadership Team; Interim CEO Wittur Group 2017-2018
   bain-company:
     name: Bain & Company
     type: company
@@ -7990,6 +8008,8 @@ organizations:
     headquarters: Milan, Italy
     status: active
     stakeholders:
+    - person: marco-tronchetti-provera
+      role: board
     - person: matteo-del-fante
       role: member
       to: 1992
@@ -8096,6 +8116,17 @@ organizations:
       role: executive
       from: 2019
       note: CEO
+  bombardier:
+    name: Bombardier Inc.
+    type: company
+    headquarters: Montreal, Canada
+    status: active
+    stakeholders:
+    - person: olof-persson
+      role: executive
+      from: 2001
+      to: 2006
+      note: Division Head Transportation; President Mainline and Metros
   bond-capital:
     name: Bond Capital
     type: privateequity
@@ -9337,6 +9368,9 @@ organizations:
     - person: peter-jackson
       role: alumni
       note: BA Manufacturing Engineering, MEng Mechanical Engineering, Pembroke College 1995-1999
+    - person: suzanne-heywood
+      role: alumni
+      note: PhD 1993, King's College
   cambridge-analytica:
     name: Cambridge Analytica
     type: company
@@ -10313,6 +10347,17 @@ organizations:
     - person: nathalie-tocci
       role: member
       note: Former Research Fellow
+  cerberus:
+    name: Cerberus Capital Management
+    type: privateequity
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: olof-persson
+      role: executive
+      from: 2016
+      to: 2022
+      note: Senior Operating Executive
   cetc:
     name: China Electronics Technology Group Corporation (CETC)
     type: company
@@ -10570,6 +10615,9 @@ organizations:
     - person: ed-bastian
       role: member
       from: 2019
+    - person: howard-buffett
+      role: member
+      note: Former member
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -10638,6 +10686,9 @@ organizations:
       role: board
       from: 1996
       note: Co-owner, watch division
+    - person: suzanne-heywood
+      role: board
+      note: Non-Executive Director
   chapter-zero-france:
     name: Chapter Zero France
     type: foundation
@@ -11561,6 +11612,17 @@ organizations:
       role: member
       from: 2003
       to: 2005
+  clarivate:
+    name: Clarivate Plc
+    type: company
+    headquarters: London, UK
+    status: active
+    sector: analytics
+    stakeholders:
+    - person: suzanne-heywood
+      role: board
+      from: 2024
+      note: Non-Executive Director; nominated by Exor
   clayton-dubilier-rice:
     name: Clayton Dubilier & Rice
     type: privateequity
@@ -11959,15 +12021,36 @@ organizations:
     name: CNH Industrial N.V.
     type: company
     founded: 2013
-    headquarters: Amsterdam, Netherlands
+    headquarters: Basildon, UK (global HQ); Amsterdam, Netherlands (registered)
     status: active
     sector: agricultural-machinery
-    note: Spin-off from Fiat Industrial. Exor controlled.
+    note: Spin-off from Fiat Industrial 2013. Iveco Group spin-off 2022. Exor controlled (27% equity, 42% voting).
     stakeholders:
     - person: sergio-marchionne
       role: chairman
       from: 2013
       to: 2018
+    - person: gerrit-marx
+      role: executive
+      from: 2024
+      note: CEO
+    - person: suzanne-heywood
+      role: chairman
+      from: 2018
+      note: Acting CEO 2020-2021
+    - person: howard-buffett
+      role: board
+      from: 2020
+      note: Independent Non-Executive Director
+    - person: alessandro-nasi
+      role: board
+      from: 2019
+      note: Non-Executive Director; Agnelli family representative
+    - org: exor
+      role: shareholder
+      share: 26.9
+      from: 2013
+      note: 42% voting rights
   cnn:
     name: CNN
     type: media
@@ -12250,6 +12333,13 @@ organizations:
     - person: peter-bijur
       role: alumni
       note: MBA 1966
+    - person: howard-buffett
+      role: alumni
+      note: MPA 2008, School of International and Public Affairs
+    - person: howard-buffett
+      role: faculty
+      from: 2012
+      note: Adjunct Associate Professor, SIPA
   columbia-university:
     name: Columbia University
     type: thinktank
@@ -12300,6 +12390,18 @@ organizations:
     status: active
     sector: venture-capital
     note: Viktor Vekselberg, sanctioned 2018
+  comau:
+    name: Comau S.p.A.
+    type: company
+    founded: 1973
+    headquarters: Turin, Italy
+    status: active
+    sector: robotics
+    stakeholders:
+    - person: alessandro-nasi
+      role: chairman
+      from: 2020
+      note: Executive Chairman
   comcast:
     name: Comcast Corporation
     type: media
@@ -13499,6 +13601,11 @@ organizations:
       from: 1995
       to: 2005
       note: Chairman International Advisory Board
+    - person: gerrit-marx
+      role: executive
+      from: 2007
+      to: 2011
+      note: President & CEO Daimler Trucks China (2009-2011)
   daimler-truck:
     name: Daimler Truck Holding AG
     type: automaker
@@ -14434,6 +14541,16 @@ organizations:
       share: 2.0%
     - org: vanguard
       share: 2.0%
+  dior:
+    name: Christian Dior SE
+    type: company
+    headquarters: Paris, France
+    status: active
+    sector: luxury
+    stakeholders:
+    - person: jean-paul-elkann
+      role: chairman
+      note: Chairman
   discount-investment-corporation:
     name: Discount Investment Corporation (DIC)
     type: company
@@ -15405,6 +15522,15 @@ organizations:
     - org: governo-uae
       share: 100%
       note: State-owned defense conglomerate
+  edifin-services:
+    name: Edifin Services SA
+    type: company
+    headquarters: Switzerland
+    status: active
+    stakeholders:
+    - person: serge-de-pahlen
+      role: chairman
+      from: 2010
   edison:
     name: Edison
     type: company
@@ -15430,6 +15556,18 @@ organizations:
       role: chairman
       from: 1884
       to: 1918
+  editions-des-syrtes:
+    name: Éditions des Syrtes
+    type: media
+    founded: 1999
+    headquarters: Geneva, Switzerland
+    status: active
+    note: Publishing house specializing in Russian/Slavic literature. Founded by Serge de Pahlen. Moved from Paris to Geneva
+      2013.
+    stakeholders:
+    - person: serge-de-pahlen
+      role: founder
+      from: 1999
   edizione:
     name: Edizione SpA
     type: company
@@ -16691,6 +16829,16 @@ organizations:
     founded: 1946
     headquarters: New York
     status: active
+  eth-zurich:
+    name: ETH Zurich
+    type: university
+    founded: 1855
+    headquarters: Zurich, Switzerland
+    status: active
+    stakeholders:
+    - person: serge-de-pahlen
+      role: alumni
+      note: Undergraduate degree
   ethics-public-policy-center:
     name: Ethics and Public Policy Center
     type: thinktank
@@ -17360,19 +17508,44 @@ organizations:
     - person: john-elkann
       role: executive
       from: 2009
-      note: CEO
+      note: Chairman & CEO
     - person: john-elkann
       role: executive
       from: 2009
-      note: CEO
+      note: Chairman & CEO
     - person: sergio-marchionne
       role: board
       from: 2010
       to: 2018
       note: Vice Chairman from 2015
+    - person: suzanne-heywood
+      role: executive
+      from: 2016
+      note: COO dal 2022; Managing Director 2016-2022
+    - person: alessandro-nasi
+      role: board
+      from: 2017
+      note: Vice Chairman; Agnelli family
+    - person: nitin-nohria
+      role: chairman
+      from: 2022
+      note: Independent Chairman
+    - person: ginevra-elkann
+      role: board
+      note: Non-Executive Director; Agnelli family
+    - person: tiberto-brandolini
+      role: board
+      note: Non-Executive Director; Agnelli family
+    - person: axel-dumas
+      role: board
+      note: Non-Executive Director; CEO Hermès
     - org: vanguard
       role: shareholder
       share: 3.05
+    - org: giovanni-agnelli-bv
+      role: controlling
+      share: 56.9
+      note: 86% voting rights via loyalty shares
   expal-systems:
     name: Expal Systems
     type: defense
@@ -18013,9 +18186,9 @@ organizations:
       note: 50% 1969, 90% after 1988, spun off 2016
     - org: exor
       role: shareholder
-      share: 24.65
+      share: 19.5
       from: 2016
-      note: 36.48% voting rights, largest shareholder
+      note: 32.2% voting rights; sold €3B in March 2025
     - org: pininfarina
       role: design-partner
       from: 1951
@@ -18135,6 +18308,11 @@ organizations:
       from: 2003
       to: 2004
       note: Chairman FIAT Group
+    - person: lapo-elkann
+      role: executive
+      from: 2002
+      to: 2005
+      note: Brand promotion
     - person: carlo-de-benedetti
       role: executive
       from: 1976
@@ -18174,6 +18352,16 @@ organizations:
       from: 2004
       to: 2010
       note: President Fiat Group 2004-2010
+    - person: alessandro-nasi
+      role: executive
+      from: 2005
+      to: 2013
+      note: Corporate & Business Development; VP Fiat Powertrain Technologies 2007
+    - person: serge-de-pahlen
+      role: executive
+      from: 1983
+      to: 2005
+      note: VP International Activities; President Fiat Russia late 1980s
     - org: exor
       role: owner
       from: 1927
@@ -20452,6 +20640,12 @@ organizations:
       from: 1998
       to: 2005
       note: Director, first partnership with Buffett
+  giovanni-agnelli-bv:
+    name: Giovanni Agnelli B.V.
+    type: company
+    founded: 1984
+    headquarters: Amsterdam, Netherlands
+    status: active
   gip:
     name: Global Infrastructure Partners
     type: privateequity
@@ -25152,6 +25346,16 @@ organizations:
       from: 2011
       to: 2013
       note: Minister of State for Trade and Investment
+    - person: suzanne-heywood
+      role: advisor
+      from: 1993
+      to: 1997
+      note: HM Treasury; Private Secretary to Financial Secretary 1995-96
+    - person: jeremy-heywood
+      role: advisor
+      from: 1983
+      to: 2018
+      note: Cabinet Secretary 2012-2018; served Blair, Brown, Cameron, May
   governo-ungheria:
     name: Governo di Ungheria
     type: government
@@ -26106,6 +26310,11 @@ organizations:
       from: 1971
       to: 1979
       note: USAF Fighter Pilot
+    - person: howard-buffett
+      role: advisor
+      from: 2009
+      to: 2011
+      note: Policy Advisor, White House Domestic Policy Council; Presidential Transition Team 2008-09
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -26774,6 +26983,17 @@ organizations:
       from: 1997
       to: 2014
       note: Co-founder, sold 43.5% stake before sanctions
+  gvs:
+    name: GVS S.p.A.
+    type: company
+    headquarters: Bologna, Italy
+    status: active
+    sector: filtration
+    stakeholders:
+    - person: alessandro-nasi
+      role: chairman
+      from: 2023
+      note: Chairman of the Board
   haganah:
     name: Haganah
     type: agency
@@ -28357,6 +28577,20 @@ organizations:
     - org: irgc
       role: sponsor
       from: 2014
+  howard-g-buffett-foundation:
+    name: Howard G. Buffett Foundation
+    type: foundation
+    founded: 1999
+    headquarters: Decatur, USA
+    status: active
+    sector: philanthropy
+    note: $150M+ annual grants for food security
+    stakeholders:
+    - person: howard-buffett
+      role: executive
+      from: 2011
+      to: 2014
+      note: Executive Director
   howard-university:
     name: Howard University
     type: university
@@ -29843,6 +30077,16 @@ organizations:
       role: board
       from: 2021
       note: Supervisory Board Co-Chair
+  inari-agriculture:
+    name: Inari Agriculture
+    type: company
+    headquarters: Cambridge, USA
+    status: active
+    sector: agtech
+    stakeholders:
+    - person: howard-buffett
+      role: board
+      note: Chair, ESG Committee
   inbev-baillet-latour-fund:
     name: InBev-Baillet Latour Fund
     type: foundation
@@ -30251,6 +30495,16 @@ organizations:
     - person: pedro-moreira-salles
       role: board
       note: Supervisory Board member
+  institut-merieux:
+    name: Institut Mérieux
+    type: pharma
+    headquarters: Lyon, France
+    status: active
+    stakeholders:
+    - org: exor
+      role: stake
+      share: 10.0
+      note: 5.3% voting rights
   institut-montaigne:
     name: Institut Montaigne
     type: thinktank
@@ -30699,6 +30953,24 @@ organizations:
       share: 100
       from: 2023
       note: Via Fideuram-ISPB
+  intl-industrial-bank-russia:
+    name: International Industrial Bank (Mezhprombank)
+    type: bank
+    founded: 1992
+    headquarters: Moscow, Russia
+    status: defunct
+    note: Founded by Sergei Pugachev. One of Russia largest banks. Bankrupt Nov 2010. Pugachev known as Putin banker.
+    stakeholders:
+    - person: serge-de-pahlen
+      role: board
+      from: 2007
+      to: 2010
+      note: Board member until bankruptcy
+    - person: sergei-pugachev
+      role: founder
+      from: 1992
+      to: 2010
+      note: Co-founder with Sergey Veremeenko
   intouch-holdings:
     name: Intouch Holdings
     type: company
@@ -31245,6 +31517,18 @@ organizations:
     stakeholders:
     - org: mediaset-mfe
       share: 100%
+  italia-independent:
+    name: Italia Independent
+    type: company
+    founded: 2007
+    headquarters: Turin, Italy
+    status: active
+    sector: fashion
+    stakeholders:
+    - person: lapo-elkann
+      role: founder
+      from: 2007
+      note: Founder and creative director
   italo-ntv:
     name: Italo - Nuovo Trasporto Viaggiatori
     type: company
@@ -31381,6 +31665,47 @@ organizations:
     - person: fernando-moreira-salles
       role: board
       note: Director
+  iveco-group:
+    name: Iveco Group N.V.
+    type: company
+    founded: 2022
+    headquarters: Turin, Italy
+    status: active
+    stakeholders:
+    - person: gerrit-marx
+      role: executive
+      from: 2022
+      to: 2024
+      note: CEO 2022-2024
+    - person: suzanne-heywood
+      role: chairman
+      from: 2022
+      note: Chairman
+    - person: alessandro-nasi
+      role: board
+      from: 2022
+      note: Non-Executive Director; Chairman Iveco Defence Vehicles
+    - person: olof-persson
+      role: executive
+      from: 2024
+      note: CEO
+    - person: olof-persson
+      role: board
+      from: 2022
+      to: 2024
+      note: Non-Executive Director
+    - person: lorenzo-simonelli
+      role: board
+      from: 2022
+      note: Senior Non-Executive Director
+    - person: tufan-erginbilgic
+      role: board
+      from: 2022
+    - org: exor
+      role: stake
+      share: 27.0
+      from: 2022
+      note: 27% equity, 43% voting rights
   ivp:
     name: Institutional Venture Partners
     type: privateequity
@@ -31932,6 +32257,18 @@ organizations:
     stakeholders:
     - org: joongang-group
       share: 100%
+  jp-morgan:
+    name: JPMorgan Chase & Co.
+    type: bank
+    founded: 1799
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: alessandro-nasi
+      role: employee
+      from: 2000
+      to: 2005
+      note: Associate, Private Equity Division (JP Morgan Partners)
   jp-morgan-co:
     name: J.P. Morgan & Co.
     type: bank
@@ -32002,6 +32339,9 @@ organizations:
       from: 1981
       to: 1988
       note: Trading floor, New York
+    - person: marco-tronchetti-provera
+      role: advisor
+      note: International Council
     - person: matteo-del-fante
       role: executive
       from: 1991
@@ -32105,6 +32445,17 @@ organizations:
     status: active
     sector: tech
     note: Networking equipment. Acquired NetScreen 2004.
+  juventus:
+    name: Juventus Football Club S.p.A.
+    type: sportsclub
+    founded: 1897
+    headquarters: Turin, Italy
+    status: active
+    stakeholders:
+    - org: exor
+      role: controlling
+      share: 65.4
+      note: Majority shareholder
   kadewe:
     name: KaDeWe Group
     type: company
@@ -32150,6 +32501,15 @@ organizations:
     - person: carsten-spohr
       role: alumni
       note: Industrial Engineering and Management 1991
+  karlstad-university:
+    name: Karlstad University
+    type: university
+    headquarters: Karlstad, Sweden
+    status: active
+    stakeholders:
+    - person: olof-persson
+      role: alumni
+      note: BBA Economics 1988
   kasikornbank:
     name: Kasikornbank
     type: bank
@@ -32606,6 +32966,18 @@ organizations:
     headquarters: Toronto, Canada
     status: active
     sector: gold-mining
+  kirkbi:
+    name: KIRKBI A/S
+    type: company
+    headquarters: Billund, Denmark
+    status: active
+    sector: investment holding
+    note: Holding company of LEGO Group
+    stakeholders:
+    - person: alessandro-nasi
+      role: board
+      from: 2024
+      note: Board member; LEGO Group Board from May 2025
   kissinger-associates:
     name: Kissinger Associates
     type: company
@@ -35563,6 +35935,16 @@ organizations:
       from: 1993
       to: 2007
       note: Partner Paris office, TMT specialist
+    - person: gerrit-marx
+      role: partner
+      from: 1999
+      to: 2007
+      note: Automotive & aerospace improvement programs; Europe, Brazil, Japan
+    - person: suzanne-heywood
+      role: partner
+      from: 1997
+      to: 2016
+      note: Senior Partner 2013; Global Head Organization Design
   mclaren:
     name: McLaren Group
     type: company
@@ -36029,7 +36411,7 @@ organizations:
     - person: john-elkann
       role: board
       from: 2025
-      note: Director
+      note: Board director from January 2025
     - person: mark-zuckerberg
       role: founder
       from: 2004
@@ -36889,6 +37271,9 @@ organizations:
     - person: goh-choon-phong
       role: alumni
       note: MS EECS 1990; BS Computer Science, Management Science, Cognitive Science
+    - person: howard-buffett
+      role: alumni
+      note: MBA, Sloan School of Management
   mitratel:
     name: PT Dayamitra Telekomunikasi Tbk
     type: company
@@ -38455,6 +38840,16 @@ organizations:
       from: 1938
       to: 1949
       note: Research Fellow, then Faculty
+  new-wave-group:
+    name: New Wave Group AB
+    type: company
+    headquarters: Gothenburg, Sweden
+    status: active
+    stakeholders:
+    - person: olof-persson
+      role: chairman
+      from: 2022
+      note: Chairman of the Board
   new-york-central-railroad:
     name: New York Central Railroad
     type: company
@@ -39110,6 +39505,16 @@ organizations:
       from: 1997
       to: 2001
       note: Finance, planning, procurement
+  northwestern:
+    name: Northwestern University
+    type: university
+    founded: 1851
+    headquarters: Evanston, USA
+    status: active
+    stakeholders:
+    - person: howard-buffett
+      role: alumni
+      note: BA Political Science & Communication Studies 2006
   northwestern-kellogg:
     name: Northwestern University - Kellogg School of Management
     type: university
@@ -40978,6 +41383,9 @@ organizations:
     - person: stephen-hester
       role: alumni
       note: BA PPE 1982, Lady Margaret Hall
+    - person: suzanne-heywood
+      role: alumni
+      note: BA Zoology 1990, Somerville College
   oxford-university:
     name: University of Oxford
     type: university
@@ -42258,7 +42666,7 @@ organizations:
     founded: 1872
     headquarters: Milan, Italy
     status: active
-    sector: pneumatici, cavi
+    sector: pneumatici
     stakeholders:
     - person: alberto-pirelli
       role: executive
@@ -42266,7 +42674,7 @@ organizations:
       to: 1971
       note: Amministratore delegato Pirelli Holding
     - person: marco-tronchetti-provera
-      role: executive
+      role: chairman
       from: 1992
       to: 2023
       note: CEO 1992-2022, Executive Vice Chairman 2023-
@@ -42285,9 +42693,32 @@ organizations:
       role: chairman
       from: 2004
       note: Chairman Turk Pirelli
+    - person: andrea-casaluci
+      role: executive
+      from: 2023
+      note: CEO
+    - person: giovanni-battista-pirelli
+      role: founder
+      from: 1872
+      to: 1932
+      note: Fondatore
+    - person: leopoldo-pirelli
+      role: chairman
+      from: 1965
+      to: 1996
+      note: CEO 1956-1992, Chairman 1965-1996
     - org: blackrock
       role: shareholder
       share: 5.0
+    - org: camfin
+      role: shareholder
+      share: 26.4
+      note: via Marco Tronchetti Provera & C. holding
+    - org: sinochem
+      role: shareholder
+      share: 37
+      from: 2015
+      note: via ChemChina merger; control ended April 2025 per DPCM
   pivotal:
     name: Pivotal Software
     type: company
@@ -43830,6 +44261,16 @@ organizations:
       role: board
       from: 2018
       note: Director (CVC acquisition)
+  recover-textile:
+    name: Recover
+    type: company
+    headquarters: Spain
+    status: active
+    stakeholders:
+    - person: olof-persson
+      role: chairman
+      from: 2022
+      note: Chairman of the Board; sustainable textiles
   recruit-holdings:
     name: Recruit Holdings Co., Ltd.
     type: company
@@ -45219,6 +45660,16 @@ organizations:
     - org: vanguard
       role: shareholder
       share: 2.5
+  rwth-aachen:
+    name: RWTH Aachen University
+    type: university
+    founded: 1870
+    headquarters: Aachen, Germany
+    status: active
+    stakeholders:
+    - person: gerrit-marx
+      role: alumni
+      note: Diplom Ingenieur (Mechanical Engineering); Diplom Kaufmann (MBA)
   ryanair:
     name: Ryanair Holdings plc
     type: company
@@ -47256,6 +47707,12 @@ organizations:
       role: founder
       from: 2008
       note: Finanziatore principale
+  sinochem:
+    name: Sinochem Holdings
+    type: company
+    founded: 1950
+    headquarters: Beijing, China
+    status: active
   sinopec:
     name: China Petroleum & Chemical Corporation
     type: company
@@ -48643,6 +49100,16 @@ organizations:
       from: 2004
       to: 2016
       note: Chairman and CEO
+  staples-solutions:
+    name: Staples Solutions B.V.
+    type: company
+    headquarters: Amsterdam, Netherlands
+    status: active
+    stakeholders:
+    - person: olof-persson
+      role: chairman
+      from: 2017
+      note: Executive Chairman; Cerberus portfolio company
   star-alliance:
     name: Star Alliance
     type: forum
@@ -49053,9 +49520,9 @@ organizations:
       note: Fiat/FCA merged with PSA to form Stellantis
     - org: exor
       role: shareholder
-      share: 14.2
+      share: 15.5
       from: 2021
-      note: Largest shareholder, John Elkann Chairman
+      note: 23.9% voting rights; John Elkann Chairman
     - org: bpifrance
       role: strategic
       share: 6%
@@ -50273,6 +50740,17 @@ organizations:
     - person: yinon-costica
       role: alumni
       note: MSc Computer Networking
+  technip:
+    name: Technip
+    type: company
+    headquarters: Paris, France
+    status: active
+    sector: energy
+    note: French multinational in petroleum extraction technology
+    stakeholders:
+    - person: serge-de-pahlen
+      role: executive
+      note: Director South America (Brazil), early 1980s
   technocracy-incorporated:
     name: Technocracy Incorporated
     type: forum
@@ -51207,6 +51685,9 @@ organizations:
       from: 1974
       to: 1986
       note: Editor
+    - person: suzanne-heywood
+      role: board
+      note: Board member, The Economist Group
     - org: exor
       share: 43.4
       from: 2015
@@ -51657,6 +52138,9 @@ organizations:
       role: chairman
       from: 2023
       note: CEO 2009-2023
+    - person: howard-buffett
+      role: board
+      note: Diversity Advisory Board, Toyota North America
     - org: blackrock
       share: 6.5%
     - org: vanguard
@@ -53474,6 +53958,16 @@ organizations:
       role: chairman
       from: 2007
       note: Chairman Governing Body
+  university-cologne:
+    name: University of Cologne
+    type: university
+    founded: 1388
+    headquarters: Cologne, Germany
+    status: active
+    stakeholders:
+    - person: gerrit-marx
+      role: alumni
+      note: PhD Business Administration
   university-colorado-boulder:
     name: University of Colorado Boulder
     type: university
@@ -53790,6 +54284,16 @@ organizations:
       role: alumni
       to: 1973
       note: BA Latin American Studies
+  university-turin:
+    name: University of Turin
+    type: university
+    founded: 1404
+    headquarters: Turin, Italy
+    status: active
+    stakeholders:
+    - person: alessandro-nasi
+      role: alumni
+      note: Laurea in Economia
   university-utah:
     name: University of Utah
     type: university
@@ -54902,6 +55406,11 @@ organizations:
     - person: olaf-lies
       role: board
       from: 2025
+    - person: gerrit-marx
+      role: executive
+      from: 2011
+      to: 2012
+      note: EVP VW China; President Skoda China
     - org: blackrock
       role: shareholder
       share: 2.0
@@ -54969,6 +55478,11 @@ organizations:
     founded: 1927
     headquarters: Gothenburg, Sweden
     stakeholders:
+    - person: olof-persson
+      role: executive
+      from: 2006
+      to: 2015
+      note: CEO 2011-2015; President Volvo Construction Equipment 2008-2011
     - org: blackrock
       share: 3.0%
     - org: vanguard

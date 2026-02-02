@@ -266,6 +266,9 @@ STELLANTIS FERRARI CNH  GEDI  ECONOMIST
 
 | Famiglia | Connessione |
 |----------|-------------|
+| [Elkann](elkann.md) | Alleanza matrimoniale 1975 (Alain-Margherita); John Elkann erede |
+| [Nasi](nasi.md) | Ramo collaterale dal 1907; ~21% Giovanni Agnelli B.V. |
+| [de Pahlen](de-pahlen.md) | Seconda famiglia di Margherita (1981); 5 figli in causa eredità |
 | [Rockefeller](rockefeller.md) | Alleanza storica via Trilaterale, Chase |
 
 ---

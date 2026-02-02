@@ -19,9 +19,6 @@ Casate Reali
 Brasile: lula, bolsonaro
 unthinkable di churchill, alan bruc, 
 
-cnh-industrial
-iveco
-pirelli
 deloitte
 philip morris
 
