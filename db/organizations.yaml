@@ -63,6 +63,15 @@ organizations:
       share: 100%
       from: 2005
       note: Wholly owned subsidiary
+  911-memorial:
+    name: National September 11 Memorial & Museum
+    type: foundation
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: bob-iger
+      role: board
+      note: Board of Trustees
   a1-telekom-austria:
     name: A1 Telekom Austria AG
     type: company
@@ -182,6 +191,11 @@ organizations:
     status: active
     sector: tv network
     stakeholders:
+    - person: bob-iger
+      role: executive
+      from: 1974
+      to: 1996
+      note: President ABC 1994-1995, President COO Capital Cities/ABC 1995-1996
     - org: walt-disney
       share: 100%
   abc-news:
@@ -830,6 +844,17 @@ organizations:
       role: founder
       from: 2008
       note: Owner
+  advancit-capital:
+    name: Advancit Capital
+    type: privateequity
+    founded: 2011
+    headquarters: Boston, USA
+    status: active
+    stakeholders:
+    - person: shari-redstone
+      role: founder
+      from: 2011
+      note: Co-founder & Managing Partner
   adyen:
     name: Adyen N.V.
     type: company
@@ -1752,6 +1777,19 @@ organizations:
     status: active
     sector: banca islamica
     note: Prima banca islamica commerciale saudita. Maggiore banca islamica al mondo.
+  alamo-drafthouse:
+    name: Alamo Drafthouse Cinema
+    type: company
+    founded: 1997
+    headquarters: Austin, USA
+    status: active
+    sector: cinema
+    stakeholders:
+    - org: sony-pictures
+      role: parent
+      share: 1.0
+      from: 2024
+      note: Acquired June 2024
   alaska-airlines:
     name: Alaska Airlines
     type: airline
@@ -2340,6 +2378,21 @@ organizations:
     founded: 1999
     headquarters: São Paulo, Brazil
     sector: Beverages
+  amblin-entertainment:
+    name: Amblin Entertainment
+    type: media
+    founded: 1981
+    headquarters: Universal City, USA
+    status: active
+    stakeholders:
+    - person: steven-spielberg
+      role: founder
+      from: 1981
+      note: Co-founder
+    - person: kathleen-kennedy
+      role: founder
+      from: 1981
+      note: Co-founder with Steven Spielberg
   amd:
     name: Advanced Micro Devices, Inc.
     type: company
@@ -2460,6 +2513,9 @@ organizations:
     headquarters: Berlin, Germany
     status: active
     stakeholders:
+    - person: mathias-dopfner
+      role: board
+      note: supervisory body
     - person: sandra-peterson
       role: chairman
       note: Chairman of the Board
@@ -2573,6 +2629,16 @@ organizations:
       note: President 2007-2010
     - org: berkshire-hathaway
       role: stake
+  american-film-institute:
+    name: American Film Institute
+    type: foundation
+    founded: 1967
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: donna-langley
+      role: board
+      note: Board of Trustees
   american-finance-association:
     name: American Finance Association
     type: forum
@@ -2692,6 +2758,21 @@ organizations:
     - person: sigrid-kaag
       role: alumni
       note: BA Middle East Studies 1985
+  american-zoetrope:
+    name: American Zoetrope
+    type: media
+    founded: 1969
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: george-lucas
+      role: founder
+      from: 1969
+      note: Co-founder with Francis Ford Coppola
+    - person: francis-ford-coppola
+      role: founder
+      from: 1969
+      note: Co-founder, principal
   americans-for-prosperity:
     name: Americans for Prosperity
     type: thinktank
@@ -2936,6 +3017,17 @@ organizations:
       role: chairman
       from: 2015
       note: Prima donna presidente
+  annapurna:
+    name: Annapurna Pictures
+    type: media
+    founded: 2011
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: megan-ellison
+      role: founder
+      from: 2011
+      note: Founder & CEO
   anobit:
     type: company
     founded: 2006
@@ -3082,6 +3174,10 @@ organizations:
       role: founder
       from: 2021
       note: Co-founder
+    - person: reed-hastings
+      role: board
+      from: 2025
+      note: appointed by Long Term Benefit Trust May 2025
     - org: amazon
       role: stake
       from: 2023
@@ -3254,6 +3350,11 @@ organizations:
       from: 1994
       to: 1996
       note: eWorld product manager
+    - person: bob-iger
+      role: board
+      from: 2011
+      to: 2019
+      note: Board of Directors, resigned due to Disney+ vs Apple TV+ conflict
     - org: norges-bank-gpfg
       role: stake
       share: 0.012
@@ -3366,6 +3467,17 @@ organizations:
       role: board
       from: 2018
       note: Board member
+  ariel-investments:
+    name: Ariel Investments
+    type: assetmanager
+    founded: 1983
+    headquarters: Chicago, USA
+    status: active
+    stakeholders:
+    - person: mellody-hobson
+      role: executive
+      from: 1991
+      note: President, Co-CEO
   arison-investments:
     name: Arison Investments
     type: company
@@ -3636,8 +3748,14 @@ organizations:
       role: leader
     - person: timothy-geithner
       role: chairman
+    - person: susan-rice
+      role: member
+      note: Aspen Strategy Group
     - person: michael-morell
       role: member
+    - person: brian-roberts
+      role: member
+      note: Festival Underwriter, Aspen Ideas speaker
     - person: ed-stack
       role: member
       note: Speaker Aspen Ideas Festival
@@ -3660,6 +3778,9 @@ organizations:
       from: 2003
       to: 2018
       note: President & CEO
+    - person: cesar-conde
+      role: board
+      note: Trustee
     - org: trilaterale
       role: partner
     - org: aspen-romania
@@ -5649,6 +5770,11 @@ organizations:
       from: 2010
       to: 2014
       note: Chairman Global Financial Institutions
+    - person: richard-fisher
+      role: advisor
+      from: 2015
+      to: 2024
+      note: Senior Advisor
     - org: blackrock
       share: 8.7
       note: Largest shareholder (2025)
@@ -6274,6 +6400,15 @@ organizations:
     - person: andrew-ng
       role: alumni
       note: PhD Computer Science 2002, advisor Michael I. Jordan
+  berklee:
+    name: Berklee College of Music
+    type: university
+    headquarters: Boston, USA
+    status: active
+    stakeholders:
+    - person: mathias-dopfner
+      role: alumni
+      note: jazz studies
   berkshire-hathaway:
     name: Berkshire Hathaway
     type: company
@@ -7252,6 +7387,15 @@ organizations:
       role: partner
       from: 2025
       note: MGX $2B deal financed with USD1 stablecoin
+  binghamton-university:
+    name: Binghamton University
+    type: university
+    headquarters: Binghamton, USA
+    status: active
+    stakeholders:
+    - person: david-zaslav
+      role: alumni
+      note: BS 1982
   bio:
     name: Biotechnology Innovation Organization
     type: agency
@@ -7700,6 +7844,15 @@ organizations:
       from: 2001
       to: 2005
       note: Developer, Tradebook
+  bloomberg-philanthropies:
+    name: Bloomberg Philanthropies
+    type: foundation
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: bob-iger
+      role: board
+      note: Board member
   blue-origin:
     name: Blue Origin
     type: company
@@ -8253,6 +8406,12 @@ organizations:
       from: 2017
       to: 2018
       note: Postdoctoral Fellow, Physics
+    - person: david-zaslav
+      role: alumni
+      note: JD 1985
+    - person: shari-redstone
+      role: alumni
+      note: Master in Tax Law
   botas:
     name: BOTAS
     type: company
@@ -8276,6 +8435,15 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  bowdoin-college:
+    name: Bowdoin College
+    type: university
+    headquarters: Brunswick, USA
+    status: active
+    stakeholders:
+    - person: reed-hastings
+      role: alumni
+      note: BA Mathematics 1983
   boy-scouts-america:
     name: Boy Scouts of America
     type: foundation
@@ -8288,6 +8456,16 @@ organizations:
       from: 2010
       to: 2012
       note: National President, Eagle Scout, Silver Buffalo
+  boys-girls-clubs:
+    name: Boys & Girls Clubs of America
+    type: foundation
+    founded: 1906
+    headquarters: Atlanta, USA
+    status: active
+    stakeholders:
+    - person: mark-lazarus
+      role: board
+      note: Board of Governors
   boyu-capital:
     name: Boyu Capital
     type: privateequity
@@ -8793,6 +8971,11 @@ organizations:
     headquarters: Washington DC, USA
     status: active
     stakeholders:
+    - person: susan-rice
+      role: member
+      from: 2002
+      to: 2009
+      note: Senior Fellow; foreign policy, weak states, global poverty
     - person: mukesh-ambani
       role: advisor
       note: International Advisory Council
@@ -8847,6 +9030,10 @@ organizations:
     stakeholders:
     - person: prescott-bush
       role: partner
+    - person: richard-fisher
+      role: partner
+      from: 1975
+      note: Fixed income, founded Texas operations
   brown-university:
     name: Brown University
     type: foundation
@@ -9043,6 +9230,9 @@ organizations:
       role: member
     - person: mike-wirth
       role: member
+    - person: james-gorman
+      role: member
+      note: Member
   business-council-canada:
     name: Business Council of Canada
     type: thinktank
@@ -9075,6 +9265,9 @@ organizations:
     status: active
     sector: digital news
     stakeholders:
+    - person: mathias-dopfner
+      role: executive
+      note: owner via Axel Springer
     - org: axel-springer
       share: 100%
       from: 2015
@@ -9092,6 +9285,8 @@ organizations:
     - person: mark-zuckerberg
       role: member
     - person: stephen-schwarzman
+      role: member
+    - person: brian-roberts
       role: member
     - person: albert-bourla
       role: member
@@ -9320,6 +9515,19 @@ organizations:
       share: 4.5
     - org: vanguard
       share: 2.5
+  calarts:
+    name: California Institute of the Arts
+    type: university
+    founded: 1961
+    headquarters: Valencia, USA
+    status: active
+    stakeholders:
+    - person: john-lasseter
+      role: alumni
+      note: BFA Character Animation 1979. Two-time Student Academy Award winner
+    - person: pete-docter
+      role: alumni
+      note: BFA Character Animation 1990. Student Academy Award winner
   calico:
     name: Calico LLC
     type: company
@@ -9610,6 +9818,18 @@ organizations:
       from: 1994
       to: 2001
       note: Director Corporate Affairs
+  carlyle:
+    name: The Carlyle Group
+    type: privateequity
+    founded: 1987
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: michael-cavanagh
+      role: executive
+      from: 2014
+      to: 2015
+      note: Co-President & Co-COO
   carlyle-group:
     name: Carlyle Group
     type: privateequity
@@ -9970,6 +10190,11 @@ organizations:
     status: active
     sector: tv network
     stakeholders:
+    - person: tony-vinciquerra
+      role: executive
+      from: 1986
+      to: 1997
+      note: EVP TV Stations, GM WBZ-TV Boston, GM KYW-TV Philadelphia
     - org: paramount-global
       share: 100%
   cbs-news:
@@ -10618,6 +10843,18 @@ organizations:
     - person: howard-buffett
       role: member
       note: Former member
+    - person: cesar-conde
+      role: member
+    - person: james-gorman
+      role: board
+      from: 2017
+      note: Board of Directors
+    - person: michael-froman
+      role: leader
+      from: 2023
+      note: President
+    - person: michael-cavanagh
+      role: member
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -10713,6 +10950,16 @@ organizations:
       role: executive
       from: 2023
       note: SVP Innovation & Global Investment
+  charter:
+    name: Charter Communications
+    type: media
+    headquarters: Stamford, USA
+    status: active
+    stakeholders:
+    - person: john-malone
+      role: board
+      to: 2024
+      note: Director Emeritus until 2024 (Clayton Act concerns)
   charter-88:
     name: Charter 88
     type: thinktank
@@ -11523,6 +11770,11 @@ organizations:
       from: 2003
       to: 2011
       note: EVP Global Government Affairs
+    - person: michael-froman
+      role: executive
+      from: 2001
+      to: 2009
+      note: CEO CitiInsurance, Head of Emerging Markets Strategy, Managing Director
     - org: kuwait-investment-authority
       role: shareholder
       share: $3B
@@ -12004,6 +12256,9 @@ organizations:
     sector: tv channel
     note: business news
     stakeholders:
+    - person: richard-fisher
+      role: advisor
+      note: Senior Contributing Editor
     - org: nbcuniversal
       share: 100%
   cnews:
@@ -12340,6 +12595,32 @@ organizations:
       role: faculty
       from: 2012
       note: Adjunct Associate Professor, SIPA
+  columbia-pictures:
+    name: Columbia Pictures
+    type: media
+    founded: 1924
+    headquarters: Culver City, USA
+    status: active
+    sector: film
+    stakeholders:
+    - person: tom-rothman
+      role: chairman
+      from: 2015
+      note: Chairman & CEO, Sony Pictures Motion Picture Group (oversees Columbia)
+    - person: sanford-panitch
+      role: executive
+      from: 2016
+      note: President of Columbia Pictures
+    - person: harry-cohn
+      role: founder
+      from: 1924
+      to: 1958
+      note: Co-founder (with Jack Cohn and Joe Brandt), President from 1932
+    - org: sony-pictures
+      role: subsidiary
+      share: 1.0
+      from: 1989
+      note: Acquired from Coca-Cola for $3.4B
   columbia-university:
     name: Columbia University
     type: thinktank
@@ -12384,6 +12665,9 @@ organizations:
     - person: meir-amit
       role: alumni
       note: MBA late 1950s
+    - person: james-gorman
+      role: alumni
+      note: MBA 1987
   columbus-nova:
     type: privateequity
     headquarters: New York, USA
@@ -12415,6 +12699,15 @@ organizations:
       from: 2002
     - person: devesh-raj
       role: executive
+    - person: jeff-shell
+      role: executive
+      from: 2005
+      to: 2020
+      note: President Programming Group 2005-2011, various exec roles
+    - person: michael-cavanagh
+      role: executive
+      from: 2015
+      note: CFO 2015-2022, President 2022, Co-CEO 2026
   comedy-central:
     name: Comedy Central
     type: media
@@ -13347,6 +13640,19 @@ organizations:
       role: chairman
       from: 2018
       note: Full personal ownership since 2018 reform
+  crunchyroll:
+    name: Crunchyroll
+    type: media
+    founded: 2006
+    headquarters: San Francisco, USA
+    status: active
+    sector: streaming
+    stakeholders:
+    - org: sony-pictures
+      role: parent
+      share: 1.0
+      from: 2021
+      note: Acquired from AT&T for $1.175B
   csav:
     name: Compañía Sud Americana de Vapores
     type: company
@@ -13666,6 +13972,15 @@ organizations:
       from: 2023
     - org: federmann-enterprises
       role: owner
+  dana-farber:
+    name: Dana-Farber Cancer Institute
+    type: foundation
+    headquarters: Boston, USA
+    status: active
+    stakeholders:
+    - person: shari-redstone
+      role: board
+      note: Board of Directors
   danone:
     name: Danone SA
     type: company
@@ -14551,6 +14866,16 @@ organizations:
     - person: jean-paul-elkann
       role: chairman
       note: Chairman
+  directv:
+    name: DirecTV
+    type: media
+    founded: 1994
+    headquarters: El Segundo, USA
+    status: active
+    stakeholders:
+    - person: tony-vinciquerra
+      role: board
+      note: Director
   discount-investment-corporation:
     name: Discount Investment Corporation (DIC)
     type: company
@@ -14559,6 +14884,24 @@ organizations:
     status: active
     sector: holding company
     note: Israeli holding company, subsidiary of IDB Development. Acquired Koor Industries 2007, merged with Koor 2013.
+  discovery-inc:
+    name: Discovery, Inc.
+    type: media
+    founded: 1985
+    headquarters: Silver Spring, USA
+    status: merged
+    note: Merged with WarnerMedia to form WBD (2022)
+    stakeholders:
+    - person: david-zaslav
+      role: executive
+      from: 2006
+      to: 2022
+      note: CEO, took company public 2008, Fortune 500 2014
+    - person: john-malone
+      role: board
+      from: 2008
+      to: 2022
+      note: Board, TCI was founding investor 1985
   disney-plus:
     name: Disney+
     type: media
@@ -14828,6 +15171,40 @@ organizations:
     - person: delyan-peevski
       role: leader
       note: Chairman DPS-New Beginning
+  dreamworks-animation:
+    name: DreamWorks Animation
+    type: media
+    founded: 1994
+    headquarters: Glendale, USA
+    status: active
+    stakeholders:
+    - person: steven-spielberg
+      role: founder
+      from: 1994
+      note: Co-founder
+    - person: donna-langley
+      role: board
+      from: 2016
+      note: Oversight as Universal Pictures Chairman
+    - person: jeffrey-katzenberg
+      role: founder
+      from: 1994
+      to: 2016
+      note: Co-founder, CEO until NBCUniversal acquisition
+    - person: david-geffen
+      role: founder
+      from: 1994
+      to: 2016
+      note: Co-founder
+    - person: margie-cohn
+      role: executive
+      from: 2019
+      note: President & CEO
+    - org: nbcuniversal
+      role: parent
+      share: 1.0
+      from: 2016
+      note: Acquired for $3.8B
   drexel-burnham-lambert:
     name: Drexel Burnham Lambert
     type: bank
@@ -15086,6 +15463,16 @@ organizations:
       role: founder
       from: 2000
       note: Earth Charter lanciata dal Forum
+  east-lake-foundation:
+    name: East Lake Foundation
+    type: foundation
+    founded: 1998
+    headquarters: Atlanta, USA
+    status: active
+    stakeholders:
+    - person: mark-lazarus
+      role: board
+      note: Board of Directors
   eastern-seaboard:
     name: Eastern Seaboard Development Program
     type: agency
@@ -17967,6 +18354,11 @@ organizations:
       from: 2011
       to: 2013
       note: Chair of Board of Directors
+    - person: richard-fisher
+      role: leader
+      from: 2005
+      to: 2015
+      note: President & CEO
   federal-reserve:
     name: Federal Reserve
     type: centralbank
@@ -18006,6 +18398,11 @@ organizations:
       role: board
       from: 2021
       note: Board NY Fed
+    - person: emmett-rice
+      role: board
+      from: 1979
+      to: 1986
+      note: Governor; appointed by Carter; second Black member
     - org: jpmorgan-chase
       role: partner
     - org: bis
@@ -18052,6 +18449,9 @@ organizations:
       from: 2012
       to: 2022
       note: Economist, Labor & Product Markets advisor
+    - person: james-gorman
+      role: board
+      note: Director, President Federal Advisory Council
     - org: jpmorgan-chase
       role: partner
     - org: warburg-pincus
@@ -19165,6 +19565,19 @@ organizations:
     headquarters: Atlanta, Georgia, USA
     status: active
     sector: private equity
+  formula-one:
+    name: Formula One Group
+    type: sportsclub
+    headquarters: London, UK
+    status: active
+    note: Controlled by Liberty Media
+    stakeholders:
+    - person: john-malone
+      role: board
+      note: 49.5% voting power via Liberty Media
+    - org: liberty-media
+      role: controlling
+      note: Acquired 2017
   fortinet:
     name: Fortinet, Inc.
     type: company
@@ -19228,6 +19641,17 @@ organizations:
     stakeholders:
     - org: fox-corporation
       share: 100%
+  fox-cable:
+    name: FOX Cable Networks Group
+    type: media
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: jeff-shell
+      role: executive
+      from: 2001
+      to: 2002
+      note: President
   fox-corporation:
     name: Fox Corporation
     type: media
@@ -19243,6 +19667,24 @@ organizations:
     - person: lachlan-murdoch
       role: chairman
       from: 2019
+  fox-networks:
+    name: Fox Networks Group
+    type: media
+    founded: 1986
+    headquarters: Los Angeles, USA
+    status: defunct
+    note: Acquired by Disney 2019
+    stakeholders:
+    - person: ravi-ahuja
+      role: executive
+      from: 2007
+      to: 2019
+      note: CFO, led Hulu JV, Roku/DraftKings investments
+    - person: tony-vinciquerra
+      role: executive
+      from: 2001
+      to: 2011
+      note: President & CEO, Chairman 2008
   fox-news:
     name: Fox News
     type: media
@@ -20206,6 +20648,17 @@ organizations:
       from: 1945
       to: 1954
       note: Alleged collaboration before escape to Syria
+  gemstar-tv-guide:
+    name: Gemstar TV Guide International
+    type: media
+    headquarters: Los Angeles, USA
+    status: defunct
+    stakeholders:
+    - person: jeff-shell
+      role: executive
+      from: 2002
+      to: 2005
+      note: Co-President/COO 2002, CEO 2003-2005
   genentech:
     name: Genentech
     type: pharma
@@ -20278,6 +20731,10 @@ organizations:
     - person: julius-genachowski
       role: advisor
       note: Special Advisor
+    - person: james-gorman
+      role: advisor
+      from: 2024
+      note: Senior Advisor
   general-dynamics:
     name: General Dynamics Corporation
     type: defense
@@ -20334,6 +20791,11 @@ organizations:
       from: 1990
       to: 1993
       note: Chairman & CEO
+    - person: john-malone
+      role: executive
+      from: 1970
+      to: 1973
+      note: Group VP, then President Jerrold Electronics
   general-motors:
     name: General Motors
     type: company
@@ -20347,6 +20809,10 @@ organizations:
       from: 1915
       to: 1929
       note: Board Director 1915, President 1920-1923, Chairman until 1929
+    - person: mary-barra
+      role: executive
+      from: 2014
+      note: CEO and Chairman
     - org: dupont-de-nemours
       role: stake
       share: 0.25
@@ -20711,6 +21177,17 @@ organizations:
     name: Gladio
     type: agency
     founded: 1956
+  glef:
+    name: George Lucas Educational Foundation
+    type: foundation
+    founded: 1991
+    headquarters: Marin County, USA
+    status: active
+    stakeholders:
+    - person: george-lucas
+      role: founder
+      from: 1991
+      note: Founder, Chairman
   glencore:
     name: Glencore plc
     type: company
@@ -20854,6 +21331,15 @@ organizations:
       from: 1992
       to: 2002
       note: Ph.D. Philosophy, studied under Habermas
+  goethe-university-frankfurt:
+    name: Goethe University Frankfurt
+    type: university
+    headquarters: Frankfurt, Germany
+    status: active
+    stakeholders:
+    - person: mathias-dopfner
+      role: alumni
+      note: PhD Musicology 1990; dissertation on music criticism post-1945
   gold-fields:
     name: Gold Fields of South Africa
     type: company
@@ -21071,6 +21557,9 @@ organizations:
     - person: matthew-friend
       role: banker
       note: Investment Banking
+    - person: anthony-noto
+      role: executive
+      note: Co-Head Global TMT Investment Banking
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -21088,6 +21577,16 @@ organizations:
       role: partner
       from: 2017
       note: $2.5B fund partnership
+  goldsmiths:
+    name: Goldsmiths, University of London
+    type: university
+    founded: 1891
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: rob-stringer
+      role: alumni
+      note: BA Sociology 1984
   good-ventures:
     name: Good Ventures
     type: foundation
@@ -26315,6 +26814,66 @@ organizations:
       from: 2009
       to: 2011
       note: Policy Advisor, White House Domestic Policy Council; Presidential Transition Team 2008-09
+    - person: richard-fisher
+      role: executive
+      from: 1997
+      to: 2001
+      note: Deputy USTR (Ambassador rank), NAFTA, China/Taiwan WTO accession
+    - person: richard-fisher
+      role: advisor
+      from: 1978
+      to: 1979
+      note: Special Assistant to Treasury Secretary Blumenthal, dollar crisis
+    - person: cesar-conde
+      role: advisor
+      from: 2002
+      to: 2003
+      note: White House Fellow to Secretary of State Colin Powell
+    - person: michael-froman
+      role: minister
+      from: 2013
+      to: 2017
+      note: US Trade Representative
+    - person: michael-froman
+      role: advisor
+      from: 1996
+      to: 1999
+      note: Deputy Asst Secretary Treasury, Chief of Staff to Robert Rubin
+    - person: michael-froman
+      role: advisor
+      from: 2009
+      to: 2013
+      note: Deputy NSA for International Economic Affairs, G7/G8/G20 Sherpa
+    - person: charles-rivkin
+      role: diplomat
+      from: 2009
+      to: 2013
+      note: Ambassador to France and Monaco
+    - person: charles-rivkin
+      role: executive
+      from: 2014
+      to: 2017
+      note: Assistant Secretary of State for Economic and Business Affairs
+    - person: jack-valenti
+      role: advisor
+      from: 1963
+      to: 1966
+      note: Special Assistant to President Lyndon Johnson
+    - person: chris-dodd
+      role: legislator
+      from: 1981
+      to: 2011
+      note: Senator from Connecticut (5 terms)
+    - person: chris-dodd
+      role: legislator
+      from: 1975
+      to: 1981
+      note: Representative from Connecticut 2nd district
+    - person: thomas-dodd
+      role: legislator
+      from: 1959
+      to: 1971
+      note: Senator from Connecticut
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -27427,6 +27986,27 @@ organizations:
     - person: edward-philip
       role: alumni
       note: MBA
+    - person: richard-fisher
+      role: alumni
+      note: BA Economics 1971
+    - person: jeff-shell
+      role: alumni
+      note: MBA 1991, Harvard Business School
+    - person: cesar-conde
+      role: alumni
+      note: BA History 1995
+    - person: sumner-redstone
+      role: alumni
+      note: JD, Harvard Law School
+    - person: michael-froman
+      role: alumni
+      note: JD, Harvard Law Review editor
+    - person: charles-rivkin
+      role: alumni
+      note: MBA 1988
+    - person: jack-valenti
+      role: alumni
+      note: MBA
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -27773,6 +28353,18 @@ organizations:
     stakeholders:
     - person: jonathan-adiri
       role: founder
+  hearst:
+    name: Hearst Corporation
+    type: media
+    founded: 1887
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: tony-vinciquerra
+      role: executive
+      from: 1997
+      to: 2001
+      note: EVP & COO Hearst Television
   heathrow-airport:
     name: Heathrow Airport Holdings
     type: company
@@ -29887,6 +30479,18 @@ organizations:
       role: chairman
       from: 2020
       note: Board 2020, Chairman current
+  ilm:
+    name: Industrial Light & Magic
+    type: media
+    founded: 1975
+    headquarters: San Francisco, USA
+    status: subsidiary
+    stakeholders:
+    - org: lucasfilm
+      role: owner
+      share: 1.0
+      from: 1975
+      note: Division of Lucasfilm
   imd-lausanne:
     name: IMD Business School
     type: university
@@ -31631,6 +32235,15 @@ organizations:
     name: ITC Limited
     type: company
     headquarters: Kolkata, India
+  ithaca-college:
+    name: Ithaca College
+    type: university
+    headquarters: Ithaca, USA
+    status: active
+    stakeholders:
+    - person: bob-iger
+      role: alumni
+      note: BS Television and Radio 1973, magna cum laude
   itochu:
     name: Itochu Corporation
     type: company
@@ -31934,6 +32547,10 @@ organizations:
       role: board
       from: 2024
       note: Director
+    - person: richard-fisher
+      role: advisor
+      from: 2024
+      note: Senior Advisor
     - org: smfg
       share: 20%
       from: 2021
@@ -32137,6 +32754,9 @@ organizations:
       role: employee
       from: 2012
       note: Associate Professor of Physics, on leave 2024-25
+    - person: john-malone
+      role: alumni
+      note: MS Industrial Management 1964, PhD Operations Research 1967
   johns-hopkins-apl:
     name: Johns Hopkins APL
     type: thinktank
@@ -32290,6 +32910,18 @@ organizations:
     - person: emilio-collado
       role: board
       note: Director, Advisory Committee Morgan Guaranty Trust
+  jpmorgan:
+    name: JPMorgan Chase & Co.
+    type: bank
+    founded: 2000
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: michael-cavanagh
+      role: executive
+      from: 2004
+      to: 2014
+      note: CFO 2004-2010, Co-CEO Corporate & Investment Bank 2012-2014
   jpmorgan-chase:
     name: JPMorgan Chase
     type: bank
@@ -33034,6 +33666,11 @@ organizations:
     - person: renato-ruggiero
       role: board
       note: Board member
+    - person: richard-fisher
+      role: executive
+      from: 2001
+      to: 2005
+      note: Vice Chairman, Kissinger McLarty Associates
   kkr:
     name: KKR
     type: privateequity
@@ -34445,6 +35082,34 @@ organizations:
     stakeholders:
     - person: antonio-angelucci
       role: owner
+  liberty-broadband:
+    name: Liberty Broadband Corporation
+    type: company
+    headquarters: Englewood, USA
+    status: active
+    stakeholders:
+    - person: john-malone
+      role: chairman
+      note: Chairman
+  liberty-global:
+    name: Liberty Global
+    type: media
+    headquarters: London, UK
+    status: active
+    note: 'European telecom: Virgin Media O2, VodafoneZiggo, Telenet'
+    stakeholders:
+    - person: john-malone
+      role: chairman
+      note: Chairman (Chair Emeritus from 2026), largest voting shareholder
+  liberty-media:
+    name: Liberty Media Corporation
+    type: company
+    headquarters: Englewood, USA
+    status: active
+    stakeholders:
+    - person: john-malone
+      role: chairman
+      note: Chairman, largest voting shareholder
   lifeway-foods:
     name: Lifeway Foods
     type: company
@@ -34541,6 +35206,17 @@ organizations:
       role: founder
       from: 2002
       note: Co-founder, Executive Chairman
+  lionsgate:
+    name: Lionsgate Entertainment
+    type: media
+    headquarters: Santa Monica, USA
+    status: active
+    stakeholders:
+    - person: david-zaslav
+      role: board
+      from: 2015
+      to: 2021
+      note: Director, resigned for WBD merger
   liv-golf:
     name: LIV Golf
     type: company
@@ -34973,6 +35649,38 @@ organizations:
     - person: jorge-paulo-lemann
       role: founder
       note: Investment Committee
+  lucasfilm:
+    name: Lucasfilm Ltd.
+    type: media
+    founded: 1971
+    headquarters: San Francisco, USA
+    status: subsidiary
+    stakeholders:
+    - person: ed-catmull
+      role: executive
+      from: 1979
+      to: 1986
+      note: Vice President, Computer Division. Genesis effect in Star Trek II
+    - person: john-lasseter
+      role: member
+      from: 1984
+      to: 1986
+      note: Graphics Group animator. Adventures of Andre & Wally B.
+    - person: george-lucas
+      role: founder
+      from: 1971
+      to: 2012
+      note: Founder, Chairman
+    - person: kathleen-kennedy
+      role: executive
+      from: 2012
+      to: 2026
+      note: President
+    - org: walt-disney
+      role: owner
+      share: 1.0
+      from: 2012
+      note: Acquired for $4.05B
   lucid-motors:
     name: Lucid Motors
     type: automaker
@@ -35652,6 +36360,11 @@ organizations:
       note: HRCC Chair, ex-CEO US Bancorp
     - person: goh-choon-phong
       role: board
+    - person: michael-froman
+      role: executive
+      from: 2018
+      to: 2023
+      note: Vice Chairman, President for Strategic Growth
     - org: blackrock
       share: 6.8
     - org: vanguard
@@ -35789,6 +36502,9 @@ organizations:
       from: 2007
       to: 2010
       note: Consultant
+    - person: susan-rice
+      role: member
+      note: management consultant, Toronto; first job
     - person: kyriakos-mitsotakis
       role: employee
       from: 1995
@@ -35945,6 +36661,19 @@ organizations:
       from: 1997
       to: 2016
       note: Senior Partner 2013; Global Head Organization Design
+    - person: john-malone
+      role: partner
+      from: 1968
+      to: 1970
+      note: Management Consultant
+    - person: james-gorman
+      role: partner
+      from: 1987
+      to: 1999
+      note: Senior Partner, Financial Services Practice
+    - person: ravi-ahuja
+      role: consultant
+      note: Pre-1999
   mclaren:
     name: McLaren Group
     type: company
@@ -36400,6 +37129,11 @@ organizations:
       from: 1999
       to: 2008
       note: MD Global Bank Group, Co-head Investments & Wealth Management
+    - person: james-gorman
+      role: executive
+      from: 1999
+      to: 2006
+      note: Chief Marketing Officer, then head of brokerage
   meta:
     name: Meta Platforms
     type: media
@@ -36527,6 +37261,9 @@ organizations:
       from: 2004
       to: 2012
       note: Co-founder, CFO
+    - person: reed-hastings
+      role: board
+      note: Facebook board member
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -36942,6 +37679,10 @@ organizations:
       from: 2015
       to: 2020
       note: Azure Cloud Security Group (via Adallom acquisition)
+    - person: reed-hastings
+      role: board
+      from: 2007
+      to: 2012
     - org: norges-bank-gpfg
       role: stake
       share: 0.011
@@ -37594,6 +38335,10 @@ organizations:
       role: executive
       to: 2010
       note: Managing Director, Global Technology Research
+    - person: james-gorman
+      role: executive
+      from: 2006
+      note: CEO 2010-2023, Chairman 2012-2024, Chairman Emeritus 2025-
     - org: norges-bank-gpfg
       role: stake
     - org: cfr
@@ -37777,6 +38522,54 @@ organizations:
       from: 1989
       to: 1997
       note: Fondatore e presidente
+  motion-picture-association:
+    name: Motion Picture Association
+    type: forum
+    founded: 1922
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: donna-langley
+      role: board
+      note: Board of Trustees
+    - person: charles-rivkin
+      role: executive
+      from: 2017
+      note: Chairman & CEO
+    - person: jack-valenti
+      role: executive
+      from: 1966
+      to: 2004
+      note: President (38 years)
+    - person: chris-dodd
+      role: executive
+      from: 2011
+      to: 2017
+      note: Chairman & CEO
+    - org: amazon
+      role: member
+      note: Studio member
+    - org: warner-bros-discovery
+      role: member
+      note: Studio member
+    - org: nbcuniversal
+      role: member
+      note: Studio member
+    - org: walt-disney
+      role: member
+      note: Studio member
+    - org: netflix
+      role: member
+      note: Studio member
+    - org: sony
+      role: member
+      note: Studio member
+    - org: paramount
+      role: member
+      note: Studio member
+    - org: sony-pictures
+      role: member
+      note: Studio member
   motor-oil-hellas:
     name: Motor Oil Hellas
     type: company
@@ -38102,6 +38895,43 @@ organizations:
       role: owner
       from: 2018
       note: Acquisizione ostile via News Network Corp
+  national-amusements:
+    name: National Amusements
+    type: company
+    founded: 1936
+    headquarters: Norwood, USA
+    status: merged
+    stakeholders:
+    - person: sumner-redstone
+      role: executive
+      from: 1959
+      to: 2020
+      note: CEO 1967-2016, Chairman
+    - person: shari-redstone
+      role: executive
+      from: 1994
+      to: 2025
+      note: President since 2000
+    - person: michael-redstone
+      role: founder
+      from: 1936
+      to: 1987
+      note: Founded as Northeast Theater Corporation
+    - person: tyler-korff
+      role: board
+      from: 2013
+      to: 2025
+      note: Director
+    - person: brandon-korff
+      role: board
+      from: 2019
+      to: 2025
+      note: Director
+    - person: kimberlee-korff
+      role: board
+      from: 2019
+      to: 2025
+      note: Director
   national-bank-greece:
     name: National Bank of Greece
     type: bank
@@ -38124,6 +38954,16 @@ organizations:
       from: 1909
       to: 1919
       note: President
+  national-constitution-center:
+    name: National Constitution Center
+    type: foundation
+    founded: 1988
+    headquarters: Philadelphia, USA
+    status: active
+    stakeholders:
+    - person: jeff-shell
+      role: board
+      note: Board of Directors
   national-gallery-of-art:
     name: National Gallery of Art
     type: foundation
@@ -38483,14 +39323,53 @@ organizations:
     stakeholders:
     - org: nbcuniversal
       share: 100%
+  nbc-sports:
+    name: NBC Sports Group
+    type: media
+    headquarters: Stamford, USA
+    status: active
+    stakeholders:
+    - person: mark-lazarus
+      role: executive
+      from: 2010
+      to: 2023
+      note: Chairman NBC Sports Group
+    - org: nbcuniversal
+      share: 100%
   nbcuniversal:
-    name: NBCUniversal
+    name: NBCUniversal Media, LLC
     type: media
     founded: 2004
     headquarters: New York, USA
     status: active
-    sector: media
+    sector: media conglomerate
     stakeholders:
+    - person: brian-roberts
+      role: board
+      from: 2011
+      note: Board of Directors (via Comcast)
+    - person: david-zaslav
+      role: executive
+      to: 2006
+      note: Cable Division President, helped launch CNBC/MSNBC
+    - person: donna-langley
+      role: executive
+      from: 2023
+      note: Chairman, NBCUniversal Entertainment & Studios
+    - person: jeff-shell
+      role: executive
+      from: 2020
+      to: 2023
+      note: CEO
+    - person: mark-lazarus
+      role: executive
+      from: 2023
+      to: 2025
+      note: Chairman, NBCUniversal Media Group
+    - person: cesar-conde
+      role: executive
+      from: 2020
+      note: Chairman, NBCUniversal News Group
     - org: comcast
       share: 100%
       from: 2011
@@ -38655,12 +39534,60 @@ organizations:
     headquarters: Los Gatos, USA
     status: active
     sector: streaming
-    note: publicly traded, no controlling shareholder
+    note: publicly traded, no controlling shareholder; 85.8% institutional ownership
     stakeholders:
+    - person: susan-rice
+      role: board
+      from: 2018
+      note: board member 2018-2020, rejoined 2023
     - person: brad-smith
       role: board
       from: 2015
       note: Independent Director
+    - person: mathias-dopfner
+      role: board
+      from: 2018
+      note: board member; CEO Axel Springer, Bilderberg steering
+    - person: reed-hastings
+      role: founder
+      from: 1997
+      note: Co-founder 1997; CEO 1997-2023; Chairman 2023-present
+    - person: ted-sarandos
+      role: executive
+      from: 2000
+      note: Chief Content Officer 2000-2020; Co-CEO 2020-present
+    - person: greg-peters
+      role: executive
+      from: 2008
+      note: COO; Co-CEO 2023-present
+    - person: jay-hoag
+      role: board
+      from: 1999
+      note: early investor; TCV founding partner; board trustee Northwestern, Vanderbilt
+    - person: anne-sweeney
+      role: board
+      from: 2015
+      note: ex-President Disney-ABC Television Group
+    - org: blackrock
+      role: stake
+      share: 0.052
+      note: second largest institutional holder 5.19%
+    - org: vanguard
+      role: stake
+      share: 0.091
+      note: largest institutional holder 9.1%
+    - org: state-street
+      role: stake
+      share: 0.04
+      note: 4.01%
+    - org: fidelity
+      role: stake
+      share: 0.05
+      note: 5.03%
+    - org: capital-group
+      role: stake
+      share: 0.028
+      note: 2.75%
   netscape:
     name: Netscape
     type: company
@@ -38828,6 +39755,17 @@ organizations:
       from: 1965
       to: 1983
       note: Editorial Committee
+  new-line-cinema:
+    name: New Line Cinema
+    type: media
+    founded: 1967
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: donna-langley
+      role: executive
+      to: 2001
+      note: Production Executive
   new-school:
     name: The New School for Social Research
     type: university
@@ -39058,6 +39996,18 @@ organizations:
     - person: william-conway
       role: chairman
       note: Chairman (Carlyle portfolio company)
+  nfl:
+    name: National Football League
+    type: sportsclub
+    founded: 1920
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: anthony-noto
+      role: executive
+      from: 2008
+      to: 2010
+      note: CFO & EVP
   nhk:
     name: NHK (Japan Broadcasting Corporation)
     type: media
@@ -40022,6 +40972,11 @@ organizations:
     - person: david-barnea
       role: alumni
       note: BA
+    - person: ed-catmull
+      role: founder
+      from: 1974
+      to: 1979
+      note: Founded Computer Graphics Lab
   nyu:
     name: New York University
     type: university
@@ -41356,6 +42311,9 @@ organizations:
     headquarters: Oxford, GBR
     status: active
     stakeholders:
+    - person: susan-rice
+      role: alumni
+      note: MPhil, DPhil International Relations; Rhodes Scholar; Chatham House Prize
     - person: reid-hoffman
       role: alumni
       note: MSt Philosophy 1993, Marshall Scholar, Wolfson College
@@ -41386,6 +42344,12 @@ organizations:
     - person: suzanne-heywood
       role: alumni
       note: BA Zoology 1990, Somerville College
+    - person: richard-fisher
+      role: alumni
+      note: Hertford College 1972-73, Latin American Studies; Honorary Fellow
+    - person: michael-froman
+      role: alumni
+      note: DPhil International Relations 1988, St Antony's College, Fulbright Scholar
   oxford-university:
     name: University of Oxford
     type: university
@@ -41485,6 +42449,16 @@ organizations:
       from: 1994
       to: 2004
       note: President
+  paley-center:
+    name: Paley Center for Media
+    type: foundation
+    founded: 1975
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: cesar-conde
+      role: board
+      note: Trustee
   palmach:
     name: Palmach
     type: agency
@@ -41617,6 +42591,52 @@ organizations:
     - org: red-dot-capital
       role: investor
       from: 2019
+  paramount:
+    name: Paramount Skydance
+    type: media
+    founded: 1912
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: gerry-cardinale
+      role: advisor
+      from: 2025
+      note: RedBird Capital backed Skydance-Paramount deal
+    - person: jeff-shell
+      role: executive
+      from: 2025
+      note: President, Paramount Skydance
+    - person: david-ellison
+      role: executive
+      from: 2025
+      note: Chairman & CEO, Paramount Skydance
+    - person: shari-redstone
+      role: chairman
+      from: 2019
+      to: 2025
+      note: Chair ViacomCBS/Paramount Global
+    - person: george-cheeks
+      role: executive
+      from: 2025
+      note: Chair TV Media
+    - person: jeffrey-katzenberg
+      role: executive
+      from: 1975
+      to: 1984
+      note: President of Production
+    - org: redbird-capital
+      role: investor
+      from: 2025
+      note: Backed Skydance-Paramount merger
+    - org: skydance
+      role: merged
+      from: 2025
+      note: $8B merger, David Ellison controlling
+    - org: national-amusements
+      role: controlling
+      from: 1987
+      to: 2025
+      note: Controlling shareholder via Class A voting stock
   paramount-global:
     name: Paramount Global (Skydance)
     type: media
@@ -42012,6 +43032,13 @@ organizations:
     - person: ed-bastian
       role: executive
       note: VP Finance Pepsi Cola International, VP Frito-Lay
+    - person: richard-fisher
+      role: board
+      to: 2021
+      note: Director
+    - person: cesar-conde
+      role: board
+      note: Board of Directors
   perella-weinberg:
     name: Perella Weinberg Partners
     type: bank
@@ -42746,6 +43773,41 @@ organizations:
       from: 2012
       to: 2016
       note: Brought Greenplum, Pivotal Labs, $400M
+  pixar:
+    name: Pixar Animation Studios
+    type: media
+    founded: 1986
+    headquarters: Emeryville, USA
+    status: active
+    stakeholders:
+    - person: steve-jobs
+      role: chairman
+      from: 1986
+      to: 2006
+      note: Majority shareholder, bought from Lucasfilm for $10M
+    - person: ed-catmull
+      role: founder
+      from: 1986
+      to: 2019
+      note: Co-founder, President. Also President of Walt Disney Animation Studios 2006-2019
+    - person: john-lasseter
+      role: founder
+      from: 1986
+      to: 2018
+      note: Co-founder, Chief Creative Officer. Left after misconduct allegations
+    - person: pete-docter
+      role: executive
+      from: 1990
+      note: Chief Creative Officer since 2018. Director of Up, Inside Out, Soul
+    - person: jim-morris
+      role: executive
+      from: 2005
+      note: President since 2014. General Manager 2008-2014. Producer of WALL-E
+    - org: walt-disney
+      role: owner
+      share: 1.0
+      from: 2006
+      note: Acquired for $7.4B all-stock deal
   pkn-orlen:
     name: PKN Orlen S.A.
     type: company
@@ -42941,6 +44003,10 @@ organizations:
     status: active
     sector: digital news
     stakeholders:
+    - person: mathias-dopfner
+      role: executive
+      from: 2021
+      note: owner via Axel Springer acquisition
     - org: axel-springer
       share: 100%
       from: 2021
@@ -43201,6 +44267,9 @@ organizations:
     - person: nawaf-al-sabah
       role: alumni
       note: BA Public & International Affairs 1994
+    - person: michael-froman
+      role: alumni
+      note: BA Public and International Affairs
   prisa:
     name: Grupo PRISA
     type: media
@@ -43270,6 +44339,15 @@ organizations:
     - org: naspers
       share: 73%
       from: 2019
+  providence-college:
+    name: Providence College
+    type: university
+    headquarters: Providence, USA
+    status: active
+    stakeholders:
+    - person: chris-dodd
+      role: alumni
+      note: BA English Literature 1966
   providence-equity:
     name: Providence Equity Partners
     type: privateequity
@@ -43744,6 +44822,9 @@ organizations:
       role: board
       from: 2025
       note: Board of Directors
+    - person: tony-vinciquerra
+      role: board
+      note: Director
   quantum-pacific:
     name: Quantum Pacific Group
     type: company
@@ -44353,6 +45434,10 @@ organizations:
       role: founder
       from: 2014
       note: Founder, Managing Partner, CIO
+    - person: jeff-shell
+      role: partner
+      from: 2024
+      note: Joined Feb 2024
   reddit:
     name: Reddit
     type: company
@@ -44387,6 +45472,15 @@ organizations:
       from: 2023
     - org: ae-industrial-partners
       role: owner
+  redstone-foundation:
+    name: Redstone Family Foundation
+    type: foundation
+    headquarters: Boston, USA
+    status: active
+    stakeholders:
+    - person: shari-redstone
+      role: executive
+      note: CEO
   redwire:
     type: company
     founded: 2020
@@ -45115,6 +46209,19 @@ organizations:
       role: shareholder
       share: 55.5
       note: Majority shareholder
+  roku:
+    name: Roku Inc.
+    type: company
+    founded: 2002
+    headquarters: San Jose, USA
+    status: active
+    sector: streaming
+    stakeholders:
+    - person: ravi-ahuja
+      role: board
+      from: 2013
+      to: 2025
+      note: Director, led Fox early investment
   rolls-royce:
     name: Rolls-Royce Holdings plc
     type: company
@@ -47726,6 +48833,29 @@ organizations:
       from: 2018
       to: 2020
       note: Chairman and Party Secretary
+  sipur:
+    name: Sipur
+    type: media
+    headquarters: Tel Aviv, Israel
+    status: active
+    stakeholders:
+    - person: shari-redstone
+      role: chairman
+      from: 2025
+      note: Chair, Israeli entertainment studio
+  sirius-xm:
+    name: Sirius XM Holdings
+    type: media
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: david-zaslav
+      role: board
+      from: 2013
+      note: Independent Director
+    - person: john-malone
+      role: board
+      note: Via Liberty Media stake
   sisal:
     name: Sisal S.p.A.
     type: company
@@ -47857,6 +48987,39 @@ organizations:
     - org: comcast
       share: 100%
       from: 2018
+  skydance:
+    name: Skydance Media
+    type: media
+    founded: 2006
+    headquarters: Santa Monica, USA
+    status: merged
+    stakeholders:
+    - person: david-ellison
+      role: founder
+      from: 2006
+      to: 2025
+      note: Founder & CEO
+  skydance-animation:
+    name: Skydance Animation
+    type: media
+    founded: 2017
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: david-ellison
+      role: founder
+      from: 2017
+      note: Founder and CEO of Skydance Media
+    - person: john-lasseter
+      role: executive
+      from: 2019
+      note: Head of Animation
+  skydance-media:
+    name: Skydance Media
+    type: media
+    founded: 2010
+    headquarters: Santa Monica, USA
+    status: active
   skyteam:
     name: SkyTeam
     type: forum
@@ -47925,6 +49088,18 @@ organizations:
     - org: virgin-atlantic
       role: partner
       from: 2023
+  skywalker-sound:
+    name: Skywalker Sound
+    type: media
+    founded: 1975
+    headquarters: Marin County, USA
+    status: subsidiary
+    stakeholders:
+    - org: lucasfilm
+      role: owner
+      share: 1.0
+      from: 1975
+      note: Division of Lucasfilm
   slack:
     name: Slack Technologies
     type: company
@@ -48300,6 +49475,16 @@ organizations:
     - org: governo-azerbaijan
       role: parent
       note: 100% state-owned
+  sofi:
+    name: SoFi Technologies
+    type: company
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: anthony-noto
+      role: executive
+      from: 2018
+      note: CEO
   sofina:
     name: Sofina SA
     type: company
@@ -48541,12 +49726,99 @@ organizations:
       from: 2001
       to: 2016
       note: EVP General Counsel 2001-14, President Sony Entertainment 2014-16
+    - person: ravi-ahuja
+      role: executive
+      from: 2025
+      note: Officer in charge of Pictures Business
+    - person: lin-tao
+      role: executive
+      from: 2025
+      note: CFO (first female CFO in company history)
     - org: blackrock
       share: 3.5%
     - org: vanguard
       share: 4.0%
     - org: state-street
       share: 2.5%
+  sony-financial-group:
+    name: Sony Financial Group
+    type: company
+    founded: 2004
+    headquarters: Tokyo, Japan
+    status: active
+    sector: finance
+    stakeholders:
+    - org: sony
+      role: parent
+      share: 1.0
+      note: Wholly owned subsidiary
+  sony-interactive-entertainment:
+    name: Sony Interactive Entertainment
+    type: company
+    founded: 1993
+    headquarters: San Mateo, USA
+    status: active
+    sector: gaming
+    stakeholders:
+    - person: hideaki-nishino
+      role: executive
+      from: 2025
+      note: President & CEO
+    - org: sony
+      role: parent
+      share: 1.0
+      note: Wholly owned subsidiary
+  sony-music:
+    name: Sony Music Group
+    type: company
+    founded: 1929
+    headquarters: New York, USA
+    status: active
+    sector: music
+    stakeholders:
+    - person: rob-stringer
+      role: executive
+      from: 2017
+      note: Chairman & CEO
+    - org: sony
+      role: parent
+      share: 1.0
+      note: Wholly owned subsidiary
+  sony-pictures:
+    name: Sony Pictures Entertainment
+    type: media
+    founded: 1989
+    headquarters: Culver City, USA
+    status: active
+    sector: entertainment
+    stakeholders:
+    - person: ravi-ahuja
+      role: executive
+      from: 2021
+      note: Chairman Global TV Studios 2021, President & COO 2024, CEO 2025
+    - person: tony-vinciquerra
+      role: executive
+      from: 2017
+      to: 2025
+      note: Chairman & CEO
+    - person: amy-pascal
+      role: executive
+      from: 2006
+      to: 2015
+      note: Co-Chair SPE, Chair Motion Picture Group
+    - person: michael-lynton
+      role: executive
+      from: 2004
+      to: 2017
+      note: Chairman & CEO
+    - person: tom-rothman
+      role: executive
+      from: 2015
+      note: Chairman, Motion Picture Group
+    - org: sony
+      role: parent
+      share: 1.0
+      note: Wholly owned subsidiary
   south-african-airways:
     name: South African Airways
     type: airline
@@ -48744,6 +50016,10 @@ organizations:
       role: founder
       from: 2006
       note: Co-founder, Chairman (2008-2016), Board member
+    - person: ted-sarandos
+      role: board
+      from: 2016
+      note: board member since September 2016
     - org: blackrock
       role: investor
       share: 5.85%
@@ -48931,6 +50207,9 @@ organizations:
     headquarters: Stanford, USA
     status: active
     stakeholders:
+    - person: susan-rice
+      role: alumni
+      note: BA History 1986, Phi Beta Kappa, Truman Scholar
     - person: chelsea-clinton
       role: alumni
       note: BA History 2001
@@ -48949,6 +50228,12 @@ organizations:
     - person: jonathan-pollard
       role: alumni
       note: BA International Relations 1976
+    - person: reed-hastings
+      role: alumni
+      note: MS Computer Science 1988, AI
+    - person: richard-fisher
+      role: alumni
+      note: MBA 1975
   stanford-hai:
     name: Stanford Human-Centered AI Institute
     type: thinktank
@@ -49255,6 +50540,11 @@ organizations:
     - person: rosalind-brewer
       role: executive
       note: COO & Group President
+    - person: mellody-hobson
+      role: chairman
+      from: 2021
+      to: 2024
+      note: First Black woman to chair S&P 500 company
   stargate-project:
     name: Stargate Project
     type: company
@@ -49974,6 +51264,16 @@ organizations:
       share: 0.34
       from: 2012
       note: Owns GP interests, IDRs and ~34% LP units
+  suny-albany:
+    name: University at Albany (SUNY)
+    type: university
+    founded: 1844
+    headquarters: Albany, USA
+    status: active
+    stakeholders:
+    - person: tony-vinciquerra
+      role: alumni
+      note: BS Marketing 1977
   surveymonkey:
     name: SurveyMonkey (Momentive)
     type: company
@@ -50584,6 +51884,19 @@ organizations:
     stakeholders:
     - person: charoen-sirivadhanabhakdi
       role: chairman
+  tci:
+    name: Tele-Communications Inc.
+    type: media
+    founded: 1958
+    headquarters: Denver, USA
+    status: acquired
+    note: Acquired by AT&T 1999 for $48B
+    stakeholders:
+    - person: john-malone
+      role: executive
+      from: 1973
+      to: 1999
+      note: President & CEO, built into largest US cable company
   tcmb:
     name: TCMB - Central Bank of the Republic of Turkey
     type: centralbank
@@ -51239,6 +52552,10 @@ organizations:
       role: board
       to: 2014
       note: Board of Directors
+    - person: richard-fisher
+      role: board
+      from: 2017
+      note: Independent Director
   tepav:
     name: TEPAV - Economic Policy Research Foundation of Turkey
     type: thinktank
@@ -52192,6 +53509,11 @@ organizations:
       role: partner
       from: 2019
       note: Partner
+    - person: tony-vinciquerra
+      role: advisor
+      from: 2011
+      to: 2017
+      note: Media Advisor (6 years)
   trafigura:
     name: Trafigura Group Pte. Ltd.
     type: company
@@ -52785,6 +54107,9 @@ organizations:
     - person: reem-al-hashimy
       role: alumni
       note: BA International Relations and French
+    - person: shari-redstone
+      role: alumni
+      note: BS
   tufts-university:
     name: Tufts University
     type: university
@@ -52895,6 +54220,17 @@ organizations:
       role: executive
       from: 2021
       note: CEO and General Manager
+  turner-sports:
+    name: Turner Sports
+    type: media
+    headquarters: Atlanta, USA
+    status: active
+    stakeholders:
+    - person: mark-lazarus
+      role: executive
+      from: 1990
+      to: 2008
+      note: President Turner Sports 1999-2003, President Turner Entertainment Group 2003-2008
   tusiad:
     name: TUSIAD - Turkish Industry and Business Association
     type: forum
@@ -53002,6 +54338,11 @@ organizations:
       role: founder
       from: 2006
       note: Co-founder
+    - person: anthony-noto
+      role: executive
+      from: 2014
+      to: 2018
+      note: CFO 2014-17, COO 2016-18
     - org: kleiner-perkins
       role: stake
       note: Early investor
@@ -53131,6 +54472,9 @@ organizations:
     - person: pierre-breber
       role: alumni
       note: BS Mechanical Engineering 1986, MS Mechanical Engineering 1987
+    - person: jeff-shell
+      role: alumni
+      note: BA Economics & Applied Mathematics 1987
   uc-santa-cruz:
     name: University of California, Santa Cruz
     type: university
@@ -53150,6 +54494,15 @@ organizations:
       share: 6.0%
     - org: vanguard
       share: 2.79%
+  uchicago:
+    name: University of Chicago
+    type: university
+    headquarters: Chicago, USA
+    status: active
+    stakeholders:
+    - person: michael-cavanagh
+      role: alumni
+      note: JD 1993
   ucl:
     name: University College London (UCL)
     type: university
@@ -53842,6 +55195,10 @@ organizations:
     status: active
     sector: film studio
     stakeholders:
+    - person: donna-langley
+      role: executive
+      from: 2001
+      note: SVP Production 2001, Chairman 2013-
     - org: nbcuniversal
       share: 100%
   universita-bocconi:
@@ -54014,6 +55371,24 @@ organizations:
     - person: robert-dudley
       role: alumni
       note: BS Chemical Engineering, Phi Kappa Psi
+  university-mannheim:
+    name: University of Mannheim
+    type: university
+    headquarters: Mannheim, Germany
+    status: active
+    stakeholders:
+    - person: gunnar-wiedenfels
+      role: alumni
+      note: Business Informatics
+  university-melbourne:
+    name: University of Melbourne
+    type: university
+    headquarters: Melbourne, Australia
+    status: active
+    stakeholders:
+    - person: james-gorman
+      role: alumni
+      note: BA, LLB
   university-natal:
     name: University of Natal
     type: university
@@ -54129,6 +55504,15 @@ organizations:
     - person: ahmed-bin-saeed-al-maktoum
       role: alumni
       note: Business Administration
+  university-of-houston:
+    name: University of Houston
+    type: university
+    headquarters: Houston, USA
+    status: active
+    stakeholders:
+    - person: jack-valenti
+      role: alumni
+      note: BA
   university-of-iowa:
     name: University of Iowa
     type: university
@@ -54153,6 +55537,15 @@ organizations:
     - person: tim-clark
       role: alumni
       note: BA Economics
+  university-of-louisville:
+    name: University of Louisville
+    type: university
+    headquarters: Louisville, USA
+    status: active
+    stakeholders:
+    - person: chris-dodd
+      role: alumni
+      note: JD 1972
   university-of-maryland:
     name: University of Maryland
     type: university
@@ -54185,6 +55578,9 @@ organizations:
     - person: jerry-ungerman
       role: alumni
       note: BA Business Administration
+    - person: pete-docter
+      role: alumni
+      note: Attended 1 year, philosophy and art, before transferring to CalArts
   university-of-notre-dame:
     name: University of Notre Dame
     type: university
@@ -54226,6 +55622,16 @@ organizations:
       role: alumni
       to: 1957
       note: JD with honors
+  university-of-tokyo:
+    name: University of Tokyo
+    type: university
+    founded: 1877
+    headquarters: Tokyo, Japan
+    status: active
+    stakeholders:
+    - person: kenichiro-yoshida
+      role: alumni
+      note: BA Economics 1983
   university-of-toronto:
     name: University of Toronto
     type: university
@@ -54246,6 +55652,15 @@ organizations:
       role: faculty
       from: 1987
       note: Professor Emeritus, Computer Science
+  university-of-utah:
+    name: University of Utah
+    type: university
+    headquarters: Salt Lake City, USA
+    status: active
+    stakeholders:
+    - person: ed-catmull
+      role: alumni
+      note: 'BS Physics, BS Computer Science 1969; PhD Computer Science 1974. Advisor: Ivan Sutherland'
   university-of-washington:
     name: University of Washington
     type: university
@@ -54313,6 +55728,20 @@ organizations:
     - person: antonoaldo-neves
       role: alumni
       note: MBA, Darden School of Business
+  univision:
+    name: Univision
+    type: media
+    headquarters: Miami, USA
+    status: active
+    stakeholders:
+    - person: cesar-conde
+      role: executive
+      from: 2003
+      to: 2013
+      note: President Univision Networks 2009-2013
+    - person: tony-vinciquerra
+      role: board
+      note: Director
   unocal:
     name: Unocal Corporation
     type: company
@@ -54348,6 +55777,9 @@ organizations:
     headquarters: Philadelphia, USA
     status: active
     stakeholders:
+    - person: brian-roberts
+      role: alumni
+      note: BS Wharton 1981
     - person: selcuk-bayraktar
       role: member
       from: 2002
@@ -54459,6 +55891,11 @@ organizations:
       from: 2007
       to: 2013
       note: Intelligence analyst, deployed Iraq 2009
+    - person: anthony-noto
+      role: member
+      from: 1990
+      to: 1994
+      note: Captain, Army Ranger, 24th Infantry Division
   us-army-war-college:
     name: US Army War College
     type: university
@@ -54536,6 +55973,18 @@ organizations:
     - person: steve-ballmer
       role: founder
       from: 2017
+  usagm:
+    name: U.S. Agency for Global Media
+    type: agency
+    founded: 1994
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: jeff-shell
+      role: board
+      from: 2013
+      to: 2017
+      note: Chairman, Broadcasting Board of Governors (Obama appointee)
   usaha-tegas:
     name: Usaha Tegas Sdn Bhd
     type: company
@@ -54585,6 +56034,9 @@ organizations:
   usc:
     name: University of Southern California
     type: university
+    founded: 1880
+    headquarters: Los Angeles, USA
+    status: active
     stakeholders:
     - person: paul-nakasone
       role: alumni
@@ -54598,6 +56050,9 @@ organizations:
     - person: sultan-al-jaber
       role: alumni
       note: BSc Chemical Engineering
+    - person: george-lucas
+      role: alumni
+      note: BFA Film 1966
   usines-gustave-boel:
     name: Usines Gustave Boël
     type: company
@@ -54743,6 +56198,9 @@ organizations:
     - person: edward-philip
       role: alumni
       note: BS Economics & Mathematics
+    - person: mark-lazarus
+      role: alumni
+      note: BA Political Science
   vanguard:
     name: Vanguard
     type: assetmanager
@@ -54910,6 +56368,22 @@ organizations:
       role: board
     - person: olivier-de-spoelberch
       role: board
+  versant-media:
+    name: Versant
+    type: company
+    founded: 2025
+    headquarters: New York, USA
+    status: active
+    sector: cable networks
+    stakeholders:
+    - person: mark-lazarus
+      role: executive
+      from: 2025
+      note: CEO
+    - org: comcast
+      role: stake
+      from: 2025
+      note: Spin-off Jan 2026, distributed to Comcast shareholders
   vestas:
     name: Vestas Wind Systems A/S
     type: company
@@ -55183,6 +56657,16 @@ organizations:
       role: executive
       from: 2013
       note: Co-CEO, Co-Founder
+  vital-voices:
+    name: Vital Voices Global Partnership
+    type: foundation
+    founded: 1997
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: donna-langley
+      role: board
+      note: Ambassador and Board Member
   vitol:
     name: Vitol Group
     type: company
@@ -55611,6 +57095,9 @@ organizations:
       from: 1992
       to: 2015
       note: Board Chairman
+    - person: cesar-conde
+      role: board
+      note: Board of Directors
     - org: blackrock
       role: stake
       share: 0.036
@@ -55631,6 +57118,10 @@ organizations:
     status: active
     sector: media conglomerate
     stakeholders:
+    - person: hugh-johnston
+      role: executive
+      from: 2023
+      note: CFO
     - person: jack-dorsey
       role: board
       from: 2013
@@ -55645,6 +57136,72 @@ organizations:
       from: 1991
       to: 1995
       note: VP Finance
+    - person: anne-sweeney
+      role: executive
+      from: 1996
+      to: 2014
+      note: President Disney-ABC Television Group 2004-2014
+    - person: ed-catmull
+      role: executive
+      from: 2006
+      to: 2019
+      note: President of Walt Disney Animation Studios
+    - person: john-lasseter
+      role: executive
+      from: 2006
+      to: 2018
+      note: Chief Creative Officer of Walt Disney Animation Studios
+    - person: bob-iger
+      role: executive
+      from: 2005
+      note: CEO 2005-2020, 2022-present
+    - person: james-gorman
+      role: chairman
+      from: 2025
+      note: Chairman of the Board
+    - person: michael-froman
+      role: board
+      from: 2018
+      note: Board of Directors
+    - person: mary-barra
+      role: board
+      from: 2021
+      note: Board of Directors
+    - person: carolyn-everson
+      role: board
+      from: 2021
+      note: Board of Directors
+    - person: dana-walden
+      role: executive
+      note: Co-Chairman Disney Entertainment
+    - person: josh-damaro
+      role: executive
+      note: Chairman Disney Experiences
+    - person: james-pitaro
+      role: executive
+      note: Chairman ESPN
+    - person: jeffrey-katzenberg
+      role: chairman
+      from: 1984
+      to: 1994
+      note: Chairman Walt Disney Studios
+    - person: ravi-ahuja
+      role: executive
+      from: 2019
+      to: 2021
+      note: President Business Operations & CFO, Walt Disney Television
+    - org: blackrock
+      role: stake
+      share: 0.053
+      note: 79.3M shares
+    - org: vanguard
+      role: stake
+      share: 0.087
+      note: Largest institutional shareholder
+    - org: state-street
+      role: stake
+      share: 0.044
+      note: 79M shares
   walton-enterprises:
     name: Walton Enterprises
     type: company
@@ -55719,6 +57276,37 @@ organizations:
     headquarters: New York, USA
     status: active
     sector: media conglomerate
+    note: Formed from AT&T WarnerMedia spin-off + Discovery merger. Netflix acquisition pending (2026)
+    stakeholders:
+    - person: david-zaslav
+      role: executive
+      from: 2022
+      note: President & CEO
+    - person: john-malone
+      role: board
+      from: 2022
+      note: Chair Emeritus (2025), largest individual shareholder
+    - person: gunnar-wiedenfels
+      role: executive
+      from: 2022
+      note: CFO, CEO-elect Discovery Global (post-split)
+    - person: richard-fisher
+      role: board
+      from: 2022
+      note: Independent Director
+    - person: anthony-noto
+      role: board
+      from: 2025
+      note: Independent Director
+    - org: blackrock
+      role: stake
+      note: Major institutional shareholder
+    - org: vanguard
+      role: stake
+      note: Major institutional shareholder
+    - org: netflix
+      role: acquirer
+      note: Pending $72B acquisition of Warner Bros unit (announced Dec 2025, DOJ review)
   warner-bros-pictures:
     name: Warner Bros. Pictures
     type: media
@@ -55729,6 +57317,18 @@ organizations:
     stakeholders:
     - org: warner-bros-discovery
       share: 100%
+  warner-music:
+    name: Warner Music Group
+    type: media
+    founded: 1958
+    headquarters: New York, USA
+    status: active
+    note: major record label; owned by Access Industries (Len Blavatnik)
+    stakeholders:
+    - person: mathias-dopfner
+      role: board
+      from: 2014
+      note: Independent Director
   wartsila:
     name: Wärtsilä
     type: company
@@ -55741,6 +57341,16 @@ organizations:
       note: Investor AB (Wallenberg) 18% primo azionista
     - org: vanguard
       share: 2.5%
+  waseda:
+    name: Waseda University
+    type: university
+    founded: 1882
+    headquarters: Tokyo, Japan
+    status: active
+    stakeholders:
+    - person: hiroki-totoki
+      role: alumni
+      note: BA Business Administration
   washington-institute:
     name: Washington Institute for Near East Policy
     type: thinktank
@@ -57255,6 +58865,12 @@ organizations:
       note: Speaker Davos 2026
     - person: ajay-singh-spicejet
       role: member
+    - person: jeff-shell
+      role: member
+    - person: cesar-conde
+      role: ygl
+      from: 2012
+      note: Young Global Leader
     - org: bilderberg
       role: partner
     - org: fmi
@@ -57345,6 +58961,9 @@ organizations:
       role: alumni
       to: 1972
       note: BS 1972, later taught social sciences
+    - person: anthony-noto
+      role: alumni
+      note: BS Mechanical Engineering 1990, Football All-American
   western-ontario:
     name: University of Western Ontario
     type: university
@@ -57446,6 +59065,15 @@ organizations:
     - person: sanjiv-kapoor
       role: alumni
       note: MBA Strategic Management 1996
+    - person: anthony-noto
+      role: alumni
+      note: MBA 1999
+    - person: cesar-conde
+      role: alumni
+      note: MBA
+    - person: ravi-ahuja
+      role: alumni
+      note: BS Economics, MBA Strategic Management
   wheaton-precious-metals:
     name: Wheaton Precious Metals
     type: company
@@ -57731,6 +59359,17 @@ organizations:
       share: 1.0
       from: 2025
       note: Acquisizione $3.1B annunciata luglio 2025
+  wndrco:
+    name: WndrCo
+    type: privateequity
+    founded: 2017
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: jeffrey-katzenberg
+      role: founder
+      from: 2017
+      note: Founding Partner, Managing Partner
   woodbridge:
     name: The Woodbridge Company
     type: company
@@ -58345,6 +59984,18 @@ organizations:
     - person: john-bolton
       role: alumni
       note: JD 1974
+    - person: greg-peters
+      role: alumni
+      note: BS Physics and Astronomy
+    - person: john-malone
+      role: alumni
+      note: BS Electrical Engineering & Economics 1963, Phi Beta Kappa
+    - person: michael-cavanagh
+      role: alumni
+      note: BA History 1988, Board of Trustees, Chair Investment Committee
+    - person: charles-rivkin
+      role: alumni
+      note: BA Political Science 1984
   yale-university:
     name: Yale University
     type: university

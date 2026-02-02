@@ -841,6 +841,12 @@ families:
     - person: larry-ellison
       generation: 1
       role: founder
+    - person: david-ellison
+      generation: 2
+      role: heir
+    - person: megan-ellison
+      generation: 2
+      role: heir
   federmann:
     origin: ISR
     sector: defense-hospitality
@@ -2001,6 +2007,33 @@ families:
       role: heir
     - person: susanne-klatten
       generation: 3
+      role: heir
+  redstone:
+    origin: USA
+    founder: michael-redstone
+    sector: media
+    status: active
+    members:
+    - person: sumner-redstone
+      generation: 2
+      role: patriarch
+    - person: shari-redstone
+      generation: 3
+      role: heir
+    - person: michael-redstone
+      generation: 1
+      role: founder
+    - person: brent-redstone
+      generation: 3
+      role: heir
+    - person: tyler-korff
+      generation: 4
+      role: heir
+    - person: brandon-korff
+      generation: 4
+      role: heir
+    - person: kimberlee-korff
+      generation: 4
       role: heir
   roberts:
     origin: USA

@@ -65,6 +65,15 @@
 |-------|------|-----|
 | Chairman | [Kenichiro Yoshida](../persons/kenichiro-yoshida.md) | 2025 |
 | President & CEO | [Hiroki Totoki](../persons/hiroki-totoki.md) | 2025 |
+| CFO | [Lin Tao](../persons/lin-tao.md) | 2025 |
+
+### CEO Divisioni
+
+| Divisione | CEO | Dal |
+|-----------|-----|-----|
+| Sony Pictures Entertainment | [Ravi Ahuja](../persons/ravi-ahuja.md) | 2025 |
+| Sony Music Group | [Rob Stringer](../persons/rob-stringer.md) | 2017 |
+| Sony Interactive Entertainment | [Hideaki Nishino](../persons/hideaki-nishino.md) | 2025 |
 
 ### Leadership Storica
 
@@ -121,6 +130,10 @@
 |---------|-------|
 | [Hiroki Totoki](../persons/hiroki-totoki.md) | President & CEO (2025-) |
 | [Kenichiro Yoshida](../persons/kenichiro-yoshida.md) | Chairman (2025-), ex-CEO |
+| [Lin Tao](../persons/lin-tao.md) | CFO (2025-), prima donna CFO nella storia Sony |
+| [Ravi Ahuja](../persons/ravi-ahuja.md) | CEO Sony Pictures (2025-) |
+| [Rob Stringer](../persons/rob-stringer.md) | Chairman & CEO Sony Music (2017-) |
+| [Hideaki Nishino](../persons/hideaki-nishino.md) | CEO PlayStation (2025-) |
 | [Akio Morita](../persons/akio-morita.md) | Co-founder (1921-1999) |
 | [Masaru Ibuka](../persons/masaru-ibuka.md) | Co-founder (1908-1997) |
 
@@ -128,13 +141,13 @@
 
 ## Sussidiarie Chiave
 
-| Societa' | Settore | Note |
-|----------|---------|------|
-| Sony Interactive Entertainment | Gaming | PlayStation |
-| Sony Music Group | Music | Columbia, RCA, Epic |
-| Sony Pictures Entertainment | Film | Columbia Pictures |
-| Sony Financial Group | Finance | Insurance, banking |
-| Sony Semiconductor Solutions | Tech | Image sensors |
+| Societa' | Settore | CEO | Note |
+|----------|---------|-----|------|
+| [Sony Interactive Entertainment](sony-interactive-entertainment.md) | Gaming | [Hideaki Nishino](../persons/hideaki-nishino.md) | PlayStation |
+| [Sony Music Group](sony-music.md) | Music | [Rob Stringer](../persons/rob-stringer.md) | Columbia, RCA, Epic |
+| [Sony Pictures Entertainment](sony-pictures.md) | Film | [Ravi Ahuja](../persons/ravi-ahuja.md) | Columbia Pictures, Crunchyroll |
+| [Sony Financial Group](sony-financial-group.md) | Finance | | Insurance, banking |
+| Sony Semiconductor Solutions | Tech | | Image sensors (leader mondiale)
 
 ---
 
@@ -174,4 +187,4 @@ Il nome combina:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

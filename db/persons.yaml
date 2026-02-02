@@ -2200,6 +2200,15 @@ persons:
       from: 2017
       to: 2018
       note: CEO, nominato da Vivendi
+  amy-pascal:
+    born: 1958
+    nationality: USA
+    affiliations:
+    - org: sony-pictures
+      role: executive
+      from: 2006
+      to: 2015
+      note: Co-Chair SPE, Chair Motion Picture Group
   ana-botin:
     born: 1960
     nationality: ESP
@@ -3375,6 +3384,18 @@ persons:
     - org: atout-france
       role: board
       note: Director, representing Air France
+  anne-sweeney:
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: executive
+      from: 1996
+      to: 2014
+      note: President Disney-ABC Television Group 2004-2014
+    - org: netflix
+      role: board
+      from: 2015
+      note: ex-President Disney-ABC Television Group
   annika-saarikko:
     born: 1983
     nationality: FIN
@@ -3439,6 +3460,42 @@ persons:
     - person: siegmund-warburg
       type: professional
       note: Warburg recruited Griffin to run Canadian operations
+  anthony-noto:
+    born: 1968
+    nationality: USA
+    affiliations:
+    - org: goldman-sachs
+      role: executive
+      note: Co-Head Global TMT Investment Banking
+    - org: warner-bros-discovery
+      role: board
+      from: 2025
+      note: Independent Director
+    - org: us-army
+      role: member
+      from: 1990
+      to: 1994
+      note: Captain, Army Ranger, 24th Infantry Division
+    - org: wharton
+      role: alumni
+      note: MBA 1999
+    - org: west-point
+      role: alumni
+      note: BS Mechanical Engineering 1990, Football All-American
+    - org: twitter
+      role: executive
+      from: 2014
+      to: 2018
+      note: CFO 2014-17, COO 2016-18
+    - org: sofi
+      role: executive
+      from: 2018
+      note: CEO
+    - org: nfl
+      role: executive
+      from: 2008
+      to: 2010
+      note: CFO & EVP
   anthony-smare:
     nationality: PNG
     note: Lawyer and geologist. Former partner Allens Arthur Robinson. Founded Kumul Foundation and Lek Natin Foundation.
@@ -4546,6 +4603,12 @@ persons:
     - org: chandra-asri
       role: executive
       note: Commercial Vice President Director
+  barry-diller:
+    nationality: USA
+    relations:
+    - person: jeffrey-katzenberg
+      type: mentor
+      note: Mentor at Paramount Pictures
   barry-eggers:
     nationality: USA
     affiliations:
@@ -5370,6 +5433,37 @@ persons:
       from: 2010
       to: 2020
       note: CEO
+  bob-iger:
+    born: 1951
+    nationality: USA
+    affiliations:
+    - org: apple
+      role: board
+      from: 2011
+      to: 2019
+      note: Board of Directors, resigned due to Disney+ vs Apple TV+ conflict
+    - org: walt-disney
+      role: executive
+      from: 2005
+      note: CEO 2005-2020, 2022-present
+    - org: abc
+      role: executive
+      from: 1974
+      to: 1996
+      note: President ABC 1994-1995, President COO Capital Cities/ABC 1995-1996
+    - org: ithaca-college
+      role: alumni
+      note: BS Television and Radio 1973, magna cum laude
+    - org: 911-memorial
+      role: board
+      note: Board of Trustees
+    - org: bloomberg-philanthropies
+      role: board
+      note: Board member
+    relations:
+    - person: steve-jobs
+      type: friend
+      note: Close friendship from Pixar acquisition 2006, Jobs was Disney largest shareholder
   bob-jordan:
     nationality: USA
     affiliations:
@@ -5742,6 +5836,28 @@ persons:
       from: 1996
       to: 1998
       note: Private banker | Operative
+  brandon-korff:
+    nationality: USA
+    affiliations:
+    - org: national-amusements
+      role: board
+      from: 2019
+      to: 2025
+      note: Director
+    relations:
+    - person: shari-redstone
+      type: child
+      note: Son of Shari Redstone
+  brent-redstone:
+    born: 1950
+    nationality: USA
+    relations:
+    - person: shari-redstone
+      type: sibling
+      note: Brother of Shari
+    - person: sumner-redstone
+      type: child
+      note: Son of Sumner Redstone
   brent-scowcroft:
     born: 1925
     died: 2020
@@ -5901,9 +6017,21 @@ persons:
     nationality: USA
     family: roberts
     affiliations:
+    - org: aspen-institute
+      role: member
+      note: Festival Underwriter, Aspen Ideas speaker
+    - org: business-roundtable
+      role: member
     - org: comcast
       role: chairman
       from: 2002
+    - org: nbcuniversal
+      role: board
+      from: 2011
+      note: Board of Directors (via Comcast)
+    - org: upenn
+      role: alumni
+      note: BS Wharton 1981
   brian-ruder:
     nationality: USA
     affiliations:
@@ -6439,6 +6567,13 @@ persons:
       from: 2013
       to: 2024
       note: Ambassador Japan 2013-17, Australia 2022-24
+  carolyn-everson:
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: board
+      from: 2021
+      note: Board of Directors
   carsten-spohr:
     born: 1966
     nationality: DEU
@@ -6645,6 +6780,55 @@ persons:
       from: 2000
       to: 2016
       note: Chairman
+  cesar-conde:
+    born: 1973
+    nationality: USA
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2012
+      note: Young Global Leader
+    - org: cfr
+      role: member
+    - org: aspen-institute
+      role: board
+      note: Trustee
+    - org: governo-usa
+      role: advisor
+      from: 2002
+      to: 2003
+      note: White House Fellow to Secretary of State Colin Powell
+    - org: walmart
+      role: board
+      note: Board of Directors
+    - org: nbcuniversal
+      role: executive
+      from: 2020
+      note: Chairman, NBCUniversal News Group
+    - org: pepsico
+      role: board
+      note: Board of Directors
+    - org: wharton
+      role: alumni
+      note: MBA
+    - org: harvard
+      role: alumni
+      note: BA History 1995
+    - org: univision
+      role: executive
+      from: 2003
+      to: 2013
+      note: President Univision Networks 2009-2013
+    - org: paley-center
+      role: board
+      note: Trustee
+    relations:
+    - person: colin-powell
+      type: mentor
+      note: White House Fellow 2002-2003
+    - person: jorge-conde
+      type: sibling
+      note: Brother, Senior Partner at Andreessen Horowitz
   cesare-rossi:
     nationality: ITA
     affiliations:
@@ -6904,6 +7088,30 @@ persons:
       role: executive
       from: 2012
       note: Director
+  charles-rivkin:
+    born: 1962
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: diplomat
+      from: 2009
+      to: 2013
+      note: Ambassador to France and Monaco
+    - org: governo-usa
+      role: executive
+      from: 2014
+      to: 2017
+      note: Assistant Secretary of State for Economic and Business Affairs
+    - org: yale
+      role: alumni
+      note: BA Political Science 1984
+    - org: harvard
+      role: alumni
+      note: MBA 1988
+    - org: motion-picture-association
+      role: executive
+      from: 2017
+      note: Chairman & CEO
   charles-searle:
     nationality: ZAF
     affiliations:
@@ -7160,6 +7368,31 @@ persons:
       role: founder
       from: 1944
       to: 1988
+  chris-dodd:
+    born: 1944
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 1981
+      to: 2011
+      note: Senator from Connecticut (5 terms)
+    - org: governo-usa
+      role: legislator
+      from: 1975
+      to: 1981
+      note: Representative from Connecticut 2nd district
+    - org: motion-picture-association
+      role: executive
+      from: 2011
+      to: 2017
+      note: Chairman & CEO
+    - org: providence-college
+      role: alumni
+      note: BA English Literature 1966
+    - org: university-of-louisville
+      role: alumni
+      note: JD 1972
   chris-kastner:
     born: 1964
     nationality: USA
@@ -8461,6 +8694,14 @@ persons:
       from: 2003
       to: 2004
       note: Senior Advisor to Bremer, Chief Spokesman
+  dana-shell-smith:
+    nationality: USA
+  dana-walden:
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: executive
+      note: Co-Chairman Disney Entertainment
   dana-white:
     born: 1969
     nationality: USA
@@ -9059,6 +9300,30 @@ persons:
     - org: rothschild-co
       role: chairman
       from: 2003
+  david-ellison:
+    born: 1983
+    nationality: USA
+    affiliations:
+    - org: paramount
+      role: executive
+      from: 2025
+      note: Chairman & CEO, Paramount Skydance
+    - org: skydance
+      role: founder
+      from: 2006
+      to: 2025
+      note: Founder & CEO
+    - org: skydance-animation
+      role: founder
+      from: 2017
+      note: Founder and CEO of Skydance Media
+    relations:
+    - person: larry-ellison
+      type: child
+      note: Son of Larry Ellison
+    - person: megan-ellison
+      type: sibling
+      note: Brother of Megan
   david-federmann:
     nationality: ISR
     affiliations:
@@ -9074,6 +9339,15 @@ persons:
       type: son
   david-friedman:
     nationality: USA
+  david-geffen:
+    born: 1943
+    nationality: USA
+    affiliations:
+    - org: dreamworks-animation
+      role: founder
+      from: 1994
+      to: 2016
+      note: Co-founder
   david-harquail:
     nationality: CAN
     affiliations:
@@ -9559,6 +9833,38 @@ persons:
     - org: darktrace
       role: board
       note: Board of Directors, ex Universities/Science Minister
+  david-zaslav:
+    born: 1960
+    nationality: USA
+    affiliations:
+    - org: warner-bros-discovery
+      role: executive
+      from: 2022
+      note: President & CEO
+    - org: nbcuniversal
+      role: executive
+      to: 2006
+      note: Cable Division President, helped launch CNBC/MSNBC
+    - org: boston-university
+      role: alumni
+      note: JD 1985
+    - org: binghamton-university
+      role: alumni
+      note: BS 1982
+    - org: sirius-xm
+      role: board
+      from: 2013
+      note: Independent Director
+    - org: lionsgate
+      role: board
+      from: 2015
+      to: 2021
+      note: Director, resigned for WBD merger
+    - org: discovery-inc
+      role: executive
+      from: 2006
+      to: 2022
+      note: CEO, took company public 2008, Fortune 500 2014
   davide-melzi-d-eril:
     nationality: ITA
     affiliations:
@@ -9917,6 +10223,8 @@ persons:
       type: spouse
     - person: mary-cheney
       type: father
+  dick-ebersol:
+    nationality: USA
   dick-schoof:
     born: 1957
     nationality: NLD
@@ -10463,6 +10771,39 @@ persons:
       role: director-general
       from: 1934
       to: 1943
+  donna-langley:
+    born: 1968
+    nationality: GBR
+    affiliations:
+    - org: nbcuniversal
+      role: executive
+      from: 2023
+      note: Chairman, NBCUniversal Entertainment & Studios
+    - org: universal-pictures
+      role: executive
+      from: 2001
+      note: SVP Production 2001, Chairman 2013-
+    - org: new-line-cinema
+      role: executive
+      to: 2001
+      note: Production Executive
+    - org: vital-voices
+      role: board
+      note: Ambassador and Board Member
+    - org: american-film-institute
+      role: board
+      note: Board of Trustees
+    - org: motion-picture-association
+      role: board
+      note: Board of Trustees
+    - org: dreamworks-animation
+      role: board
+      from: 2016
+      note: Oversight as Universal Pictures Chairman
+    relations:
+    - person: michael-de-luca
+      type: mentor
+      note: De Luca gave Langley her first job at New Line Cinema
   dora-bakoyannis:
     born: 1954
     nationality: GRC
@@ -10778,6 +11119,46 @@ persons:
     - org: metro-atlanta-chamber
       role: chairman
       from: 2021
+  ed-catmull:
+    born: 1945
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: executive
+      from: 2006
+      to: 2019
+      note: President of Walt Disney Animation Studios
+    - org: nyit
+      role: founder
+      from: 1974
+      to: 1979
+      note: Founded Computer Graphics Lab
+    - org: pixar
+      role: founder
+      from: 1986
+      to: 2019
+      note: Co-founder, President. Also President of Walt Disney Animation Studios 2006-2019
+    - org: university-of-utah
+      role: alumni
+      note: 'BS Physics, BS Computer Science 1969; PhD Computer Science 1974. Advisor: Ivan Sutherland'
+    - org: lucasfilm
+      role: executive
+      from: 1979
+      to: 1986
+      note: Vice President, Computer Division. Genesis effect in Star Trek II
+    relations:
+    - person: ivan-sutherland
+      type: mentor
+      note: PhD advisor at University of Utah
+    - person: john-lasseter
+      type: colleague
+      note: 'Pixar co-founder. Catmull: tech/operations; Lasseter: creative'
+    - person: pat-hanrahan
+      type: colleague
+      note: Co-recipient 2019 ACM Turing Award; RenderMan co-developers at Pixar
+    - person: steve-jobs
+      type: colleague
+      note: Pixar co-founder 1986. Catmull led operations, Jobs provided capital
   ed-gillespie:
     born: 1961
     nationality: USA
@@ -11775,6 +12156,17 @@ persons:
       role: ygl
       from: 2012
       note: Young Leader 2012, President of France
+  emmett-rice:
+    born: 1919
+    died: 2011
+    nationality: USA
+    note: Federal Reserve Governor 1979-86 (Carter); Cornell professor; Tuskegee Airman; helped create Central Bank of Nigeria
+    affiliations:
+    - org: federal-reserve
+      role: board
+      from: 1979
+      to: 1986
+      note: Governor; appointed by Carter; second Black member
   enric-sala:
     born: 1968
     nationality: ESP
@@ -13421,6 +13813,14 @@ persons:
       from: 2014
       to: 2023
       note: CEO e General Manager 2014-2023. 3 mandati
+  francis-ford-coppola:
+    born: 1939
+    nationality: USA
+    affiliations:
+    - org: american-zoetrope
+      role: founder
+      from: 1969
+      note: Co-founder, principal
   francis-fukuyama:
     born: 1952
     nationality: USA
@@ -14078,7 +14478,7 @@ persons:
   friede-springer:
     born: 1942
     nationality: DEU
-    note: Widow of Axel Springer, majority owner Axel Springer SE
+    note: Widow of Axel Springer; majority owner Axel Springer SE; designated Döpfner as successor 2020
     affiliations:
     - org: axel-springer
       role: owner
@@ -14622,6 +15022,13 @@ persons:
     - person: lyndon-johnson
       type: superior
       note: Ball served as Undersecretary of State under LBJ
+  george-cheeks:
+    nationality: USA
+    affiliations:
+    - org: paramount
+      role: executive
+      from: 2025
+      note: Chair TV Media
   george-daley:
     born: 1960
     nationality: USA
@@ -14675,6 +15082,36 @@ persons:
     - person: karl-rove
       type: mentor
       note: RNC chair ruled in Rove favor 1973, hired him at RNC, career patron
+  george-lucas:
+    born: 1944
+    nationality: USA
+    affiliations:
+    - org: usc
+      role: alumni
+      note: BFA Film 1966
+    - org: lucasfilm
+      role: founder
+      from: 1971
+      to: 2012
+      note: Founder, Chairman
+    - org: american-zoetrope
+      role: founder
+      from: 1969
+      note: Co-founder with Francis Ford Coppola
+    - org: glef
+      role: founder
+      from: 1991
+      note: Founder, Chairman
+    relations:
+    - person: francis-ford-coppola
+      type: colleague
+      note: Mentor, co-founder American Zoetrope
+    - person: mellody-hobson
+      type: spouse
+      note: Married 2013
+    - person: steven-spielberg
+      type: colleague
+      note: Co-creator Indiana Jones, lifelong collaborator
   george-orwell:
     born: 1903
     died: 1950
@@ -15053,6 +15490,10 @@ persons:
       role: board
       from: 2022
       note: Owner, Board member
+    - org: paramount
+      role: advisor
+      from: 2025
+      note: RedBird Capital backed Skydance-Paramount deal
   gerry-schwartz:
     born: 1941
     nationality: CAN
@@ -16054,6 +16495,16 @@ persons:
       from: 2021
       to: 2025
       note: CEO e Commissioner
+  greg-peters:
+    nationality: USA
+    affiliations:
+    - org: netflix
+      role: executive
+      from: 2008
+      note: COO; Co-CEO 2023-present
+    - org: yale
+      role: alumni
+      note: BS Physics and Astronomy
   greg-wyler:
     born: 1969
     nationality: USA
@@ -16316,6 +16767,17 @@ persons:
     - org: tusiad
       role: member
       note: Sabanci Holding representative
+  gunnar-wiedenfels:
+    born: 1978
+    nationality: DEU
+    affiliations:
+    - org: warner-bros-discovery
+      role: executive
+      from: 2022
+      note: CFO, CEO-elect Discovery Global (post-split)
+    - org: university-mannheim
+      role: alumni
+      note: Business Informatics
   gustave-boel:
     born: 1837
     died: 1912
@@ -16774,6 +17236,16 @@ persons:
       from: 1964
       to: 1970
       note: Prime Minister (1st term)
+  harry-cohn:
+    born: 1891
+    died: 1958
+    nationality: USA
+    affiliations:
+    - org: columbia-pictures
+      role: founder
+      from: 1924
+      to: 1958
+      note: Co-founder (with Jack Cohn and Joe Brandt), President from 1932
   harry-dexter-white:
     born: 1892
     died: 1948
@@ -17567,6 +18039,13 @@ persons:
     - org: pasha-holding
       role: founder
       note: ultimate beneficiary
+  hideaki-nishino:
+    nationality: JPN
+    affiliations:
+    - org: sony-interactive-entertainment
+      role: executive
+      from: 2025
+      note: President & CEO
   hillary-clinton:
     born: 1947
     nationality: USA
@@ -17623,6 +18102,9 @@ persons:
       role: executive
       from: 2025
       note: President & CEO
+    - org: waseda
+      role: alumni
+      note: BA Business Administration
   hironori-kamezawa:
     born: 1962
     nationality: JPN
@@ -17882,6 +18364,10 @@ persons:
     - org: microsoft
       role: board
       note: Audit Committee Chair
+    - org: walt-disney
+      role: executive
+      from: 2023
+      note: CFO
   hugo-stenbeck:
     born: 1890
     died: 1977
@@ -18638,6 +19124,9 @@ persons:
       from: 1984
       to: 2021
       note: CEO 2002-2021, joined as coal trader 1984. Largest shareholder 10.09% (2025)
+  ivan-sutherland:
+    born: 1938
+    nationality: USA
   ivan-zhang:
     nationality: CAN
     affiliations:
@@ -18853,6 +19342,27 @@ persons:
     - org: rusi
       role: board
       note: Trustee; former Foreign Secretary
+  jack-valenti:
+    born: 1921
+    died: 2007
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 1963
+      to: 1966
+      note: Special Assistant to President Lyndon Johnson
+    - org: harvard
+      role: alumni
+      note: MBA
+    - org: motion-picture-association
+      role: executive
+      from: 1966
+      to: 2004
+      note: President (38 years)
+    - org: university-of-houston
+      role: alumni
+      note: BA
   jacob-hsu:
     nationality: USA
     note: CEO Symbio. Former CEO Trilogica Technologies, Epitome Software. Former investment banker Fox-Pitt Kelton. Chief
@@ -19235,6 +19745,52 @@ persons:
     - org: baidu
       role: board
       note: Independent Director, Compensation Committee Chair
+  james-gorman:
+    born: 1958
+    nationality: AUS-USA
+    affiliations:
+    - org: cfr
+      role: board
+      from: 2017
+      note: Board of Directors
+    - org: morgan-stanley
+      role: executive
+      from: 2006
+      note: CEO 2010-2023, Chairman 2012-2024, Chairman Emeritus 2025-
+    - org: federal-reserve-ny
+      role: board
+      note: Director, President Federal Advisory Council
+    - org: mckinsey
+      role: partner
+      from: 1987
+      to: 1999
+      note: Senior Partner, Financial Services Practice
+    - org: walt-disney
+      role: chairman
+      from: 2025
+      note: Chairman of the Board
+    - org: general-atlantic
+      role: advisor
+      from: 2024
+      note: Senior Advisor
+    - org: merrill-lynch
+      role: executive
+      from: 1999
+      to: 2006
+      note: Chief Marketing Officer, then head of brokerage
+    - org: columbia-university
+      role: alumni
+      note: MBA 1987
+    - org: business-council
+      role: member
+      note: Member
+    - org: university-melbourne
+      role: alumni
+      note: BA, LLB
+    relations:
+    - person: ted-pick
+      type: successor
+      note: Pick succeeded Gorman as Morgan Stanley CEO 2024
   james-johnson:
     born: 1943
     died: 2020
@@ -19364,6 +19920,12 @@ persons:
       note: Consultant
     - org: dalberg
       role: partner
+  james-pitaro:
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: executive
+      note: Chairman ESPN
   james-stavridis:
     born: 1955
     nationality: USA
@@ -19914,6 +20476,13 @@ persons:
     - person: paul-wolfowitz
       type: colleague
       note: Pentagon Iraq planning
+  jay-hoag:
+    nationality: USA
+    affiliations:
+    - org: netflix
+      role: board
+      from: 1999
+      note: early investor; TCV founding partner; board trustee Northwestern, Vanderbilt
   jay-last:
     born: 1929
     died: 2021
@@ -20399,6 +20968,58 @@ persons:
       role: minister
       from: 1994
       note: Various ministerial positions incl. Minister in the Presidency
+  jeff-shell:
+    born: 1965
+    nationality: USA
+    affiliations:
+    - org: wef
+      role: member
+    - org: redbird-capital
+      role: partner
+      from: 2024
+      note: Joined Feb 2024
+    - org: comcast
+      role: executive
+      from: 2005
+      to: 2020
+      note: President Programming Group 2005-2011, various exec roles
+    - org: nbcuniversal
+      role: executive
+      from: 2020
+      to: 2023
+      note: CEO
+    - org: harvard
+      role: alumni
+      note: MBA 1991, Harvard Business School
+    - org: uc-berkeley
+      role: alumni
+      note: BA Economics & Applied Mathematics 1987
+    - org: paramount
+      role: executive
+      from: 2025
+      note: President, Paramount Skydance
+    - org: fox-cable
+      role: executive
+      from: 2001
+      to: 2002
+      note: President
+    - org: gemstar-tv-guide
+      role: executive
+      from: 2002
+      to: 2005
+      note: Co-President/COO 2002, CEO 2003-2005
+    - org: usagm
+      role: board
+      from: 2013
+      to: 2017
+      note: Chairman, Broadcasting Board of Governors (Obama appointee)
+    - org: national-constitution-center
+      role: board
+      note: Board of Directors
+    relations:
+    - person: dana-shell-smith
+      type: sibling
+      note: Sister, US Ambassador to Qatar
   jeff-yass:
     born: 1958
     nationality: USA
@@ -20463,6 +21084,36 @@ persons:
       from: 2007
       to: 2016
       note: Dean Faculty of Medicine
+  jeffrey-katzenberg:
+    born: 1950
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: chairman
+      from: 1984
+      to: 1994
+      note: Chairman Walt Disney Studios
+    - org: paramount
+      role: executive
+      from: 1975
+      to: 1984
+      note: President of Production
+    - org: dreamworks-animation
+      role: founder
+      from: 1994
+      to: 2016
+      note: Co-founder, CEO until NBCUniversal acquisition
+    - org: wndrco
+      role: founder
+      from: 2017
+      note: Founding Partner, Managing Partner
+    relations:
+    - person: david-geffen
+      type: partner
+      note: DreamWorks co-founders
+    - person: steven-spielberg
+      type: partner
+      note: DreamWorks co-founders
   jeffrey-orr:
     nationality: CAN
     affiliations:
@@ -20941,6 +21592,13 @@ persons:
       role: founder
       from: 2016
       note: Founder and CEO
+  jim-morris:
+    nationality: USA
+    affiliations:
+    - org: pixar
+      role: executive
+      from: 2005
+      note: President since 2014. General Manager 2008-2014. Producer of WALL-E
   jim-walton:
     born: 1948
     nationality: USA
@@ -21627,6 +22285,36 @@ persons:
     - org: skull-and-bones
       role: member
       from: 1966
+  john-lasseter:
+    born: 1957
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: executive
+      from: 2006
+      to: 2018
+      note: Chief Creative Officer of Walt Disney Animation Studios
+    - org: pixar
+      role: founder
+      from: 1986
+      to: 2018
+      note: Co-founder, Chief Creative Officer. Left after misconduct allegations
+    - org: lucasfilm
+      role: member
+      from: 1984
+      to: 1986
+      note: Graphics Group animator. Adventures of Andre & Wally B.
+    - org: calarts
+      role: alumni
+      note: BFA Character Animation 1979. Two-time Student Academy Award winner
+    - org: skydance-animation
+      role: executive
+      from: 2019
+      note: Head of Animation
+    relations:
+    - person: steve-jobs
+      type: colleague
+      note: Pixar co-founder. Jobs backed Lasseter creative vision
   john-lo:
     nationality: HKG
     affiliations:
@@ -21650,6 +22338,12 @@ persons:
       from: 2004
       to: 2016
       note: Chairman and CEO
+  john-mack:
+    nationality: USA
+    relations:
+    - person: james-gorman
+      type: predecessor
+      note: Gorman succeeded Mack as Morgan Stanley CEO 2010
   john-major:
     born: 1943
     nationality: GBR
@@ -21662,6 +22356,63 @@ persons:
     - org: chatham-house
       role: board
       note: President Emeritus
+  john-malone:
+    born: 1941
+    nationality: USA
+    affiliations:
+    - org: mckinsey
+      role: partner
+      from: 1968
+      to: 1970
+      note: Management Consultant
+    - org: warner-bros-discovery
+      role: board
+      from: 2022
+      note: Chair Emeritus (2025), largest individual shareholder
+    - org: yale
+      role: alumni
+      note: BS Electrical Engineering & Economics 1963, Phi Beta Kappa
+    - org: general-instrument
+      role: executive
+      from: 1970
+      to: 1973
+      note: Group VP, then President Jerrold Electronics
+    - org: johns-hopkins
+      role: alumni
+      note: MS Industrial Management 1964, PhD Operations Research 1967
+    - org: liberty-media
+      role: chairman
+      note: Chairman, largest voting shareholder
+    - org: sirius-xm
+      role: board
+      note: Via Liberty Media stake
+    - org: discovery-inc
+      role: board
+      from: 2008
+      to: 2022
+      note: Board, TCI was founding investor 1985
+    - org: tci
+      role: executive
+      from: 1973
+      to: 1999
+      note: President & CEO, built into largest US cable company
+    - org: liberty-global
+      role: chairman
+      note: Chairman (Chair Emeritus from 2026), largest voting shareholder
+    - org: liberty-broadband
+      role: chairman
+      note: Chairman
+    - org: formula-one
+      role: board
+      note: 49.5% voting power via Liberty Media
+    - org: charter
+      role: board
+      to: 2024
+      note: Director Emeritus until 2024 (Clayton Act concerns)
+    relations:
+    - person: david-zaslav
+      type: mentor
+      note: Longtime mentor, engineered Discovery-WarnerMedia merger
   john-manley:
     born: 1950
     nationality: CAN
@@ -22107,6 +22858,8 @@ persons:
       role: executive
       from: 2019
       note: CEO e Chairman Board of Management
+  jorge-conde:
+    nationality: USA
   jorge-delclaux:
     nationality: ESP
     affiliations:
@@ -22655,6 +23408,12 @@ persons:
       from: 1995
       to: 2000
       note: Co-Chair
+  josh-damaro:
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: executive
+      note: Chairman Disney Experiences
   josh-gruenbaum:
     nationality: USA
     affiliations:
@@ -23413,6 +24172,19 @@ persons:
     - org: signal-foundation
       role: chairman
       note: Chair of Board
+  kathleen-kennedy:
+    born: 1953
+    nationality: USA
+    affiliations:
+    - org: lucasfilm
+      role: executive
+      from: 2012
+      to: 2026
+      note: President
+    - org: amblin-entertainment
+      role: founder
+      from: 1981
+      note: Co-founder with Steven Spielberg
   kathrine-fredriksen:
     born: 1983
     nationality: NOR
@@ -23662,6 +24434,9 @@ persons:
       role: chairman
       from: 2018
       note: CEO 2018-2025, Chairman 2025-
+    - org: university-of-tokyo
+      role: alumni
+      note: BA Economics 1983
   kenneth-hao:
     nationality: USA
     affiliations:
@@ -23940,6 +24715,18 @@ persons:
     - org: governo-corea
       role: minister
       note: Finance Ministry, Foreign Affairs Ministry, FSC departments
+  kimberlee-korff:
+    nationality: USA
+    affiliations:
+    - org: national-amusements
+      role: board
+      from: 2019
+      to: 2025
+      note: Director
+    relations:
+    - person: shari-redstone
+      type: child
+      note: Daughter of Shari Redstone
   kiran-nadar:
     nationality: IND
     note: Art collector, philanthropist. Wife of Shiv Nadar. Founded Kiran Nadar Museum of Art
@@ -25630,6 +26417,13 @@ persons:
       role: founder
       from: 2012
       note: Co-founder, CTO
+  lin-tao:
+    nationality: JPN
+    affiliations:
+    - org: sony
+      role: executive
+      from: 2025
+      note: CFO (first female CFO in company history)
   linda-mcmahon:
     born: 1948
     nationality: USA
@@ -26460,6 +27254,11 @@ persons:
       from: 1999
       to: 2008
       note: Kissinger McLarty Associates
+  madeleine-albright:
+    born: 1937
+    died: 2022
+    nationality: USA
+    note: Secretary of State 1997-2001 (Clinton); first woman; UN Ambassador 1993-97
   magda-chambriard:
     nationality: BRA
     affiliations:
@@ -27337,6 +28136,13 @@ persons:
       type: parent
     - person: tatiana-de-pahlen
       type: parent
+  margie-cohn:
+    nationality: USA
+    affiliations:
+    - org: dreamworks-animation
+      role: executive
+      from: 2019
+      note: President & CEO
   maria-bianca-farina:
     nationality: ITA
     affiliations:
@@ -27841,6 +28647,42 @@ persons:
     - person: gaston-eyskens
       type: son
       note: Both served as PM
+  mark-lazarus:
+    born: 1962
+    nationality: USA
+    affiliations:
+    - org: nbcuniversal
+      role: executive
+      from: 2023
+      to: 2025
+      note: Chairman, NBCUniversal Media Group
+    - org: vanderbilt
+      role: alumni
+      note: BA Political Science
+    - org: versant-media
+      role: executive
+      from: 2025
+      note: CEO
+    - org: turner-sports
+      role: executive
+      from: 1990
+      to: 2008
+      note: President Turner Sports 1999-2003, President Turner Entertainment Group 2003-2008
+    - org: boys-girls-clubs
+      role: board
+      note: Board of Governors
+    - org: east-lake-foundation
+      role: board
+      note: Board of Directors
+    - org: nbc-sports
+      role: executive
+      from: 2010
+      to: 2023
+      note: Chairman NBC Sports Group
+    relations:
+    - person: dick-ebersol
+      type: mentor
+      note: Ebersol recruited Lazarus to NBC Sports in 2010
   mark-mason:
     born: 1969
     nationality: USA
@@ -28281,6 +29123,17 @@ persons:
     - org: mega-group
       role: member
       from: 1991
+  mary-barra:
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: board
+      from: 2021
+      note: Board of Directors
+    - org: general-motors
+      role: executive
+      from: 2014
+      note: CEO and Chairman
   mary-burke:
     nationality: USA
     note: Global Business Director Thomson Reuters. 16 years at Thomson Reuters. Managed $340M Investment Banking business.
@@ -28482,7 +29335,8 @@ persons:
   mathias-dopfner:
     born: 1963
     nationality: DEU
-    note: CEO Axel Springer, Bilderberg Steering Committee, board Netflix/Warner Music
+    note: CEO Axel Springer; Bilderberg steering; 22% shareholder + Friede Springer 95% total; self-described "non-Jewish
+      Zionist"; Netflix/Warner Music boards
     affiliations:
     - org: bilderberg
       role: steering
@@ -28496,6 +29350,34 @@ persons:
       role: executive
       from: 2002
       note: CEO
+    - org: netflix
+      role: board
+      from: 2018
+      note: board member; CEO Axel Springer, Bilderberg steering
+    - org: politico
+      role: executive
+      from: 2021
+      note: owner via Axel Springer acquisition
+    - org: business-insider
+      role: executive
+      note: owner via Axel Springer
+    - org: american-academy-berlin
+      role: board
+      note: supervisory body
+    - org: goethe-university-frankfurt
+      role: alumni
+      note: PhD Musicology 1990; dissertation on music criticism post-1945
+    - org: berklee
+      role: alumni
+      note: jazz studies
+    - org: warner-music
+      role: board
+      from: 2014
+      note: Independent Director
+    relations:
+    - person: friede-springer
+      type: patron
+      note: designated successor 2020; received €1B+ shares 2021; joint 95% ownership
   matt-cohen:
     nationality: USA
     affiliations:
@@ -28834,6 +29716,18 @@ persons:
       from: 2015
       to: 2018
       note: CEO 2015-2018
+  megan-ellison:
+    born: 1986
+    nationality: USA
+    affiliations:
+    - org: annapurna
+      role: founder
+      from: 2011
+      note: Founder & CEO
+    relations:
+    - person: larry-ellison
+      type: child
+      note: Daughter of Larry Ellison
   mehmet-simsek:
     born: 1967
     nationality: TUR
@@ -28956,6 +29850,19 @@ persons:
       role: minister
       from: 2025
       note: Minister of Industry
+  mellody-hobson:
+    born: 1969
+    nationality: USA
+    affiliations:
+    - org: starbucks
+      role: chairman
+      from: 2021
+      to: 2024
+      note: First Black woman to chair S&P 500 company
+    - org: ariel-investments
+      role: executive
+      from: 1991
+      note: President, Co-CEO
   mendel-rosenblum:
     born: 1962
     nationality: USA
@@ -29084,6 +29991,34 @@ persons:
     - org: bloomberg
       role: founder
       from: 1981
+  michael-cavanagh:
+    born: 1966
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: member
+    - org: comcast
+      role: executive
+      from: 2015
+      note: CFO 2015-2022, President 2022, Co-CEO 2026
+    - org: yale
+      role: alumni
+      note: BA History 1988, Board of Trustees, Chair Investment Committee
+    - org: carlyle
+      role: executive
+      from: 2014
+      to: 2015
+      note: Co-President & Co-COO
+    - org: jpmorgan
+      role: executive
+      from: 2004
+      to: 2014
+      note: CFO 2004-2010, Co-CEO Corporate & Investment Bank 2012-2014
+    - org: uchicago
+      role: alumni
+      note: JD 1993
+  michael-de-luca:
+    nationality: USA
   michael-dell:
     born: 1965
     nationality: USA
@@ -29124,6 +30059,16 @@ persons:
       role: chairman
       from: 2015
       note: Chairman Supervisory Board (CEO 2003-2015)
+  michael-eisner:
+    born: 1942
+    nationality: USA
+    relations:
+    - person: bob-iger
+      type: predecessor
+      note: Iger succeeded Eisner as Disney CEO 2005
+    - person: jeffrey-katzenberg
+      type: mentor
+      note: Mentor at Paramount and Disney
   michael-evans:
     nationality: CAN
     affiliations:
@@ -29160,6 +30105,56 @@ persons:
     nationality: USA
     note: Generale USA. Dir. DIA 2012-2014. NSA Trump 2017 (dimesso). Visito GRU HQ giugno 2013 ospite Sergun. Seduto accanto
       Putin gala RT 2015.
+  michael-froman:
+    born: 1962
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: leader
+      from: 2023
+      note: President
+    - org: governo-usa
+      role: minister
+      from: 2013
+      to: 2017
+      note: US Trade Representative
+    - org: governo-usa
+      role: advisor
+      from: 1996
+      to: 1999
+      note: Deputy Asst Secretary Treasury, Chief of Staff to Robert Rubin
+    - org: governo-usa
+      role: advisor
+      from: 2009
+      to: 2013
+      note: Deputy NSA for International Economic Affairs, G7/G8/G20 Sherpa
+    - org: citigroup
+      role: executive
+      from: 2001
+      to: 2009
+      note: CEO CitiInsurance, Head of Emerging Markets Strategy, Managing Director
+    - org: walt-disney
+      role: board
+      from: 2018
+      note: Board of Directors
+    - org: mastercard
+      role: executive
+      from: 2018
+      to: 2023
+      note: Vice Chairman, President for Strategic Growth
+    - org: princeton
+      role: alumni
+      note: BA Public and International Affairs
+    - org: harvard
+      role: alumni
+      note: JD, Harvard Law Review editor
+    - org: oxford
+      role: alumni
+      note: DPhil International Relations 1988, St Antony's College, Fulbright Scholar
+    relations:
+    - person: barack-obama
+      type: classmate
+      note: Harvard Law School classmates, Harvard Law Review, Froman advised Obama Senate campaign 2004
   michael-gable:
     nationality: USA
     affiliations:
@@ -29238,6 +30233,15 @@ persons:
     - org: atlantic-council
       role: board
       note: Board member
+  michael-lynton:
+    born: 1960
+    nationality: USA
+    affiliations:
+    - org: sony-pictures
+      role: executive
+      from: 2004
+      to: 2017
+      note: Chairman & CEO
   michael-makovsky:
     born: 1968
     nationality: USA
@@ -29316,6 +30320,16 @@ persons:
       from: 1982
       to: 1985
       note: Trainee accountant (Stokes Kennedy Crowley, poi KPMG)
+  michael-redstone:
+    born: 1902
+    died: 1987
+    nationality: USA
+    affiliations:
+    - org: national-amusements
+      role: founder
+      from: 1936
+      to: 1987
+      note: Founded as Northeast Theater Corporation
   michael-rogers:
     born: 1959
     nationality: USA
@@ -31715,6 +32729,10 @@ persons:
       note: Figlia Giulia (2011)
     - person: cecilia-attias
       type: ex-spouse
+  nicole-avant:
+    born: 1968
+    nationality: USA
+    note: US Ambassador Bahamas 2009-11 (Obama); Obama bundler $800K+; daughter of Clarence Avant (Motown)
   nicole-seligman:
     born: 1957
     nationality: USA
@@ -33105,6 +34123,8 @@ persons:
       from: 2012
       to: 2021
       note: CEO
+  pat-hanrahan:
+    nationality: USA
   patrice-caine:
     born: 1970
     nationality: FRA
@@ -34079,6 +35099,27 @@ persons:
       from: 2005
       to: 2007
       note: Rhodes Scholar (Oxford, PPE)
+  pete-docter:
+    born: 1968
+    nationality: USA
+    affiliations:
+    - org: university-of-minnesota
+      role: alumni
+      note: Attended 1 year, philosophy and art, before transferring to CalArts
+    - org: pixar
+      role: executive
+      from: 1990
+      note: Chief Creative Officer since 2018. Director of Up, Inside Out, Soul
+    - org: calarts
+      role: alumni
+      note: BFA Character Animation 1990. Student Academy Award winner
+    relations:
+    - person: ed-catmull
+      type: colleague
+      note: Pixar colleagues since 1990; Brain Trust members
+    - person: john-lasseter
+      type: mentor
+      note: Lasseter recruited Docter to Pixar 1990; designated successor as CCO
   pete-dupont:
     born: 1935
     died: 2021
@@ -36067,6 +37108,39 @@ persons:
       role: chairman
       from: 1991
       to: 2012
+  ravi-ahuja:
+    born: 1971
+    nationality: USA
+    affiliations:
+    - org: mckinsey
+      role: consultant
+      note: Pre-1999
+    - org: walt-disney
+      role: executive
+      from: 2019
+      to: 2021
+      note: President Business Operations & CFO, Walt Disney Television
+    - org: sony
+      role: executive
+      from: 2025
+      note: Officer in charge of Pictures Business
+    - org: wharton
+      role: alumni
+      note: BS Economics, MBA Strategic Management
+    - org: sony-pictures
+      role: executive
+      from: 2021
+      note: Chairman Global TV Studios 2021, President & COO 2024, CEO 2025
+    - org: fox-networks
+      role: executive
+      from: 2007
+      to: 2019
+      note: CFO, led Hulu JV, Roku/DraftKings investments
+    - org: roku
+      role: board
+      from: 2013
+      to: 2025
+      note: Director, led Fox early investment
   ravi-mhatre:
     nationality: USA
     affiliations:
@@ -36223,6 +37297,39 @@ persons:
       role: chairman
       from: 2017
       note: Board Chairman by decree 696
+  reed-hastings:
+    born: 1960
+    nationality: USA
+    note: Netflix co-founder; Peace Corps Swaziland 1983-85; charter schools advocate; $6.6B net worth 2025
+    affiliations:
+    - org: microsoft
+      role: board
+      from: 2007
+      to: 2012
+    - org: meta
+      role: board
+      note: Facebook board member
+    - org: netflix
+      role: founder
+      from: 1997
+      note: Co-founder 1997; CEO 1997-2023; Chairman 2023-present
+    - org: anthropic
+      role: board
+      from: 2025
+      note: appointed by Long Term Benefit Trust May 2025
+    - org: stanford
+      role: alumni
+      note: MS Computer Science 1988, AI
+    - org: bowdoin-college
+      role: alumni
+      note: BA Mathematics 1983
+    relations:
+    - person: dario-amodei
+      type: colleague
+      note: Anthropic board 2025
+    - person: john-doerr
+      type: collaborator
+      note: Prop 39 California education 2000; Silicon Valley VC network
   reem-al-hashimy:
     born: 1977
     nationality: ARE
@@ -36718,6 +37825,74 @@ persons:
     - org: university-of-london
       role: chairman
       note: Chair Board of Trustees
+  richard-fisher:
+    born: 1949
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: executive
+      from: 1997
+      to: 2001
+      note: Deputy USTR (Ambassador rank), NAFTA, China/Taiwan WTO accession
+    - org: governo-usa
+      role: advisor
+      from: 1978
+      to: 1979
+      note: Special Assistant to Treasury Secretary Blumenthal, dollar crisis
+    - org: barclays
+      role: advisor
+      from: 2015
+      to: 2024
+      note: Senior Advisor
+    - org: kissinger-associates
+      role: executive
+      from: 2001
+      to: 2005
+      note: Vice Chairman, Kissinger McLarty Associates
+    - org: brown-brothers-harriman
+      role: partner
+      from: 1975
+      note: Fixed income, founded Texas operations
+    - org: warner-bros-discovery
+      role: board
+      from: 2022
+      note: Independent Director
+    - org: cnbc
+      role: advisor
+      note: Senior Contributing Editor
+    - org: pepsico
+      role: board
+      to: 2021
+      note: Director
+    - org: jefferies
+      role: advisor
+      from: 2024
+      note: Senior Advisor
+    - org: tenet-healthcare
+      role: board
+      from: 2017
+      note: Independent Director
+    - org: harvard
+      role: alumni
+      note: BA Economics 1971
+    - org: oxford
+      role: alumni
+      note: Hertford College 1972-73, Latin American Studies; Honorary Fellow
+    - org: stanford
+      role: alumni
+      note: MBA 1975
+    - org: fed-dallas
+      role: leader
+      from: 2005
+      to: 2015
+      note: President & CEO
+  richard-haass:
+    born: 1951
+    nationality: USA
+    relations:
+    - person: michael-froman
+      type: predecessor
+      note: Froman succeeded Haass as CFR President 2023
   richard-hatchett:
     born: 1965
     nationality: USA
@@ -36920,6 +38095,17 @@ persons:
       role: executive
       from: 1996
       note: CEO dal 2024
+  rob-stringer:
+    born: 1962
+    nationality: GBR
+    affiliations:
+    - org: sony-music
+      role: executive
+      from: 2017
+      note: Chairman & CEO
+    - org: goldsmiths
+      role: alumni
+      note: BA Sociology 1984
   rob-walton:
     born: 1944
     nationality: USA
@@ -37374,6 +38560,10 @@ persons:
       from: 1956
       to: 1960
       note: BA Economics 1960 summa cum laude
+    relations:
+    - person: michael-froman
+      type: mentor
+      note: Froman was Chief of Staff to Rubin at Treasury, followed him to Citigroup
   robert-schuman:
     born: 1886
     died: 1963
@@ -38751,6 +39941,13 @@ persons:
       from: 1998
       to: 2006
       note: Co-CEO 1998-2000, CEO 2000-2003, Chairman 2003-2006
+  sanford-panitch:
+    nationality: USA
+    affiliations:
+    - org: columbia-pictures
+      role: executive
+      from: 2016
+      note: President of Columbia Pictures
   sania-nishtar:
     born: 1963
     nationality: PAK
@@ -39824,6 +41021,44 @@ persons:
     - person: ted-arison
       type: child
       note: daughter, inherited Israeli assets
+  shari-redstone:
+    born: 1954
+    nationality: USA
+    affiliations:
+    - org: boston-university
+      role: alumni
+      note: Master in Tax Law
+    - org: tufts
+      role: alumni
+      note: BS
+    - org: paramount
+      role: chairman
+      from: 2019
+      to: 2025
+      note: Chair ViacomCBS/Paramount Global
+    - org: national-amusements
+      role: executive
+      from: 1994
+      to: 2025
+      note: President since 2000
+    - org: advancit-capital
+      role: founder
+      from: 2011
+      note: Co-founder & Managing Partner
+    - org: redstone-foundation
+      role: executive
+      note: CEO
+    - org: dana-farber
+      role: board
+      note: Board of Directors
+    - org: sipur
+      role: chairman
+      from: 2025
+      note: Chair, Israeli entertainment studio
+    relations:
+    - person: sumner-redstone
+      type: child
+      note: Daughter of Sumner Redstone
   sharmeen-obaid-chinoy:
     born: 1978
     nationality: PAK
@@ -41123,6 +42358,11 @@ persons:
       role: executive
       from: 1997
       to: 2011
+    - org: pixar
+      role: chairman
+      from: 1986
+      to: 2006
+      note: Majority shareholder, bought from Lucasfilm for $10M
     relations:
     - person: larry-ellison
       type: friend
@@ -41243,6 +42483,14 @@ persons:
       role: member
       from: 1991
       note: Hollywood director
+    - org: amblin-entertainment
+      role: founder
+      from: 1981
+      note: Co-founder
+    - org: dreamworks-animation
+      role: founder
+      from: 1994
+      note: Co-founder
   steven-van-rijswijk:
     nationality: NLD
     affiliations:
@@ -41448,6 +42696,23 @@ persons:
     - org: wef
       role: ygl
       from: 2022
+  sumner-redstone:
+    born: 1923
+    died: 2020
+    nationality: USA
+    affiliations:
+    - org: harvard
+      role: alumni
+      note: JD, Harvard Law School
+    - org: national-amusements
+      role: executive
+      from: 1959
+      to: 2020
+      note: CEO 1967-2016, Chairman
+    relations:
+    - person: michael-redstone
+      type: child
+      note: Son of Michael Redstone
   suna-kirac:
     born: 1941
     died: 2020
@@ -41565,9 +42830,13 @@ persons:
   susan-rice:
     born: 1964
     nationality: USA
+    note: Only person to serve as both NSA and DPA; Rhodes Scholar; father Fed Governor Emmett Rice; Netflix board $300K/year
     affiliations:
     - org: cfr
       role: member
+    - org: aspen-institute
+      role: member
+      note: Aspen Strategy Group
     - org: governo-usa
       role: diplomat
       from: 2009
@@ -41576,11 +42845,36 @@ persons:
       role: advisor
       from: 2013
       to: 2017
+    - org: mckinsey
+      role: member
+      note: management consultant, Toronto; first job
+    - org: netflix
+      role: board
+      from: 2018
+      note: board member 2018-2020, rejoined 2023
     - org: rhodes-trust
       role: member
       from: 1986
       to: 1988
       note: Rhodes Scholar (Oxford, DPhil)
+    - org: brookings
+      role: member
+      from: 2002
+      to: 2009
+      note: Senior Fellow; foreign policy, weak states, global poverty
+    - org: oxford
+      role: alumni
+      note: MPhil, DPhil International Relations; Rhodes Scholar; Chatham House Prize
+    - org: stanford
+      role: alumni
+      note: BA History 1986, Phi Beta Kappa, Truman Scholar
+    relations:
+    - person: emmett-rice
+      type: child
+      note: daughter
+    - person: madeleine-albright
+      type: protege
+      note: mentor-protege; families knew each other; Albright urged Clinton to appoint Rice
   susan-wagner:
     born: 1961
     nationality: USA
@@ -42067,6 +43361,28 @@ persons:
       from: 1962
       to: 2009
       note: Senator Massachusetts
+  ted-pick:
+    nationality: USA
+  ted-sarandos:
+    born: 1964
+    nationality: USA
+    note: Netflix co-CEO; no college degree; Greek-American; married Nicole Avant (Obama ambassador); Obama bundler $500K+
+    affiliations:
+    - org: netflix
+      role: executive
+      from: 2000
+      note: Chief Content Officer 2000-2020; Co-CEO 2020-present
+    - org: spotify
+      role: board
+      from: 2016
+      note: board member since September 2016
+    relations:
+    - person: nicole-avant
+      type: spouse
+      note: married 2009; met at Obama fundraiser
+    - person: reed-hastings
+      type: colleague
+      note: hired by Hastings 2000; successor as co-CEO 2020
   ted-turner:
     nationality: USA
     affiliations:
@@ -42386,6 +43702,20 @@ persons:
       role: board
       from: 2001
       note: Harris chairman 2012-2014
+  thomas-dodd:
+    born: 1907
+    died: 1971
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 1959
+      to: 1971
+      note: Senator from Connecticut
+    relations:
+    - person: chris-dodd
+      type: family
+      note: father
   thomas-drake:
     born: 1957
     nationality: USA
@@ -43012,6 +44342,18 @@ persons:
     - org: hewlett-packard
       role: executive
       note: Early executive, ran computer division
+  tom-rothman:
+    born: 1954
+    nationality: USA
+    affiliations:
+    - org: sony-pictures
+      role: executive
+      from: 2015
+      note: Chairman, Motion Picture Group
+    - org: columbia-pictures
+      role: chairman
+      from: 2015
+      note: Chairman & CEO, Sony Pictures Motion Picture Group (oversees Columbia)
   tom-theobald:
     nationality: LUX
     affiliations:
@@ -43193,6 +44535,51 @@ persons:
     - person: michael-oleary
       type: mentor
       note: Hired O'Leary as CFO 1988; O'Leary transformed Ryanair
+  tony-vinciquerra:
+    born: 1954
+    nationality: USA
+    affiliations:
+    - org: cbs
+      role: executive
+      from: 1986
+      to: 1997
+      note: EVP TV Stations, GM WBZ-TV Boston, GM KYW-TV Philadelphia
+    - org: qualcomm
+      role: board
+      note: Director
+    - org: tpg
+      role: advisor
+      from: 2011
+      to: 2017
+      note: Media Advisor (6 years)
+    - org: univision
+      role: board
+      note: Director
+    - org: sony-pictures
+      role: executive
+      from: 2017
+      to: 2025
+      note: Chairman & CEO
+    - org: fox-networks
+      role: executive
+      from: 2001
+      to: 2011
+      note: President & CEO, Chairman 2008
+    - org: suny-albany
+      role: alumni
+      note: BS Marketing 1977
+    - org: hearst
+      role: executive
+      from: 1997
+      to: 2001
+      note: EVP & COO Hearst Television
+    - org: directv
+      role: board
+      note: Director
+    relations:
+    - person: ravi-ahuja
+      type: mentor
+      note: Hired Ahuja at Fox 2007, groomed as successor at Sony
   tony-xu:
     born: 1984
     nationality: CHN-USA
@@ -43378,6 +44765,18 @@ persons:
     relations:
     - person: ibn-saud
       type: grandson
+  tyler-korff:
+    nationality: USA
+    affiliations:
+    - org: national-amusements
+      role: board
+      from: 2013
+      to: 2025
+      note: Director
+    relations:
+    - person: shari-redstone
+      type: child
+      note: Son of Shari Redstone
   udi-mokady:
     born: 1968
     nationality: ISR-USA
