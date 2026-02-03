@@ -1445,6 +1445,14 @@ persons:
       role: chairman
       from: 2022
       note: Chairman Supervisory Board
+  alexandra-de-hoop-scheffer:
+    nationality: FRA
+    note: GMF President 2025-, first European president
+    affiliations:
+    - org: german-marshall-fund
+      role: executive
+      from: 2025
+      note: President (first European)
   alexandra-hess:
     nationality: GBR
     affiliations:
@@ -1580,6 +1588,10 @@ persons:
     died: 1981
     nationality: DEU
     note: Son of August. NSDAP member 1933. M-Aktion. Built global company.
+  alfred-lee-loomis:
+    born: 1887
+    died: 1975
+    nationality: USA
   alfred-solvay:
     born: 1840
     died: 1894
@@ -1996,6 +2008,43 @@ persons:
       role: founder
       from: 2001
       note: Fondatore e proprietario
+  amanda-bennett:
+    born: 1952
+    nationality: USA
+    note: Pulitzer Prize-winning journalist, VOA Director, USAGM CEO, married to Donald Graham
+    affiliations:
+    - org: wall-street-journal
+      role: journalist
+      note: Reporter 23 years, Beijing correspondent, Pentagon reporter
+    - org: german-marshall-fund
+      role: board
+      note: Board member
+    - org: harvard
+      role: alumni
+      note: BA 1975, Harvard College
+    - org: usagm
+      role: executive
+      from: 2022
+      to: 2025
+      note: CEO (bipartisan Senate confirmation)
+    - org: voice-of-america
+      role: executive
+      from: 2016
+      to: 2020
+      note: Director
+    - org: philadelphia-inquirer
+      role: executive
+      note: Editor
+    - org: bloomberg-news
+      role: executive
+      note: Executive Editor
+    - org: committee-protect-journalists
+      role: board
+      note: Board member
+    relations:
+    - person: donald-graham
+      type: spouse
+      note: Married June 30, 2012
   amanda-staveley:
     born: 1973
     nationality: GBR
@@ -4708,6 +4757,23 @@ persons:
       from: 2003
       to: 2011
       note: CEO, gestì integrazione post-fusione
+  bay-fang:
+    nationality: USA
+    note: Journalist. Beijing Bureau Chief US News, Deputy Asst Secretary of State, RFA President
+    affiliations:
+    - org: governo-usa
+      role: official
+      note: Deputy Assistant Secretary of State (Europe & Eurasia public diplomacy)
+    - org: harvard
+      role: alumni
+      note: BA
+    - org: oxford
+      role: fellow
+      note: Visiting Fellow
+    - org: radio-free-asia
+      role: executive
+      from: 2019
+      note: President & CEO (2019-2020, 2021-2025)
   behdad-eghbali:
     nationality: USA
     note: Ex-TPG, Deutsche Bank
@@ -7125,6 +7191,16 @@ persons:
     - org: institute-for-advanced-study
       role: chairman
       note: Chair Emeritus
+  charles-wick:
+    born: 1917
+    died: 2008
+    nationality: USA
+    affiliations:
+    - org: usia
+      role: executive
+      from: 1981
+      to: 1989
+      note: Director; longest-serving; close Reagan friend
   charles-woodburn:
     born: 1971
     nationality: GBR
@@ -10591,6 +10667,10 @@ persons:
     - person: steve-jobs
       type: associate
       note: Early Apple investor, introduced Jobs to Markkula
+  donald-graham:
+    born: 1945
+    nationality: USA
+    note: Washington Post Chairman, Graham Holdings, Facebook board
   donald-johnston:
     born: 1936
     nationality: CAN
@@ -11428,6 +11508,21 @@ persons:
       from: 1977
       to: 2014
       note: CEO
+  edward-murrow:
+    born: 1908
+    died: 1965
+    nationality: USA
+    affiliations:
+    - org: cbs
+      role: executive
+      from: 1935
+      to: 1961
+      note: Correspondent, anchor; See It Now, Person to Person
+    - org: usia
+      role: executive
+      from: 1961
+      to: 1964
+      note: Director; nominato da Kennedy
   edward-philip:
     nationality: USA
     affiliations:
@@ -16674,6 +16769,34 @@ persons:
       from: 2014
       to: 2022
       note: Senior Advisor
+  guido-goldman:
+    born: 1937
+    died: 2020
+    nationality: CHE-USA
+    affiliations:
+    - org: world-jewish-congress
+      role: board
+      note: Son of co-founder Nahum Goldmann
+    - org: german-marshall-fund
+      role: founder
+      from: 1972
+      to: 2012
+      note: Co-founder, first President, Board Chair 40 years
+    - org: american-council-germany
+      role: board
+    - org: harvard
+      role: alumni
+      note: BA 1959 summa cum laude; PhD 1969
+    - org: harvard
+      role: executive
+      note: Founding Director, Center for European Studies
+    relations:
+    - person: henry-kissinger
+      type: colleague
+      note: Worked together at Harvard to establish German Research Program (now CES)
+    - person: nahum-goldmann
+      type: child
+      note: Father
   guido-jung:
     born: 1876
     died: 1949
@@ -17429,6 +17552,15 @@ persons:
       from: 1968
       to: 2012
       note: Founder, retired 2012, 31% shareholder
+  heather-conley:
+    nationality: USA
+    note: GMF President 2022-2024, former CSIS Europe director
+    affiliations:
+    - org: german-marshall-fund
+      role: executive
+      from: 2022
+      to: 2024
+      note: President
   heather-gerken:
     nationality: USA
     affiliations:
@@ -17828,6 +17960,40 @@ persons:
     relations:
     - person: george-roberts
       type: cousin
+  henry-loomis:
+    born: 1919
+    died: 2008
+    nationality: USA
+    affiliations:
+    - org: mit
+      role: executive
+      note: Assistant to President James Killian (4 years)
+    - org: harvard
+      role: alumni
+      note: BA Physics 1946 (completed after Navy service)
+    - org: uc-berkeley
+      role: alumni
+      note: Graduate physics; assistant to Ernest Lawrence at Radiation Lab
+    - org: voice-of-america
+      role: executive
+      from: 1958
+      to: 1965
+      note: Director (Eisenhower appointee); resigned over Vietnam reporting conflict with Johnson WH
+    - org: cpb
+      role: executive
+      from: 1972
+      to: 1978
+      note: President (Nixon appointee); decentralized public TV funding
+    - org: usia
+      role: executive
+      note: Director of Research and Intelligence
+    relations:
+    - person: alfred-lee-loomis
+      type: child
+      note: Father; Wall Street financier turned physicist, radar pioneer
+    - person: henry-stimson
+      type: relative
+      note: Cousin; Secretary of War during WWII
   henry-luce:
     born: 1898
     died: 1967
@@ -20148,11 +20314,42 @@ persons:
   jamie-fly:
     nationality: USA
     affiliations:
+    - org: cfr
+      role: member
+      from: 2002
+      note: Research Associate 2002-04; later member
+    - org: governo-usa
+      role: advisor
+      from: 2013
+      to: 2017
+      note: Counselor for Foreign and National Security Affairs to Senator Marco Rubio
+    - org: palantir
+      role: executive
+      from: 2023
+      note: Senior Counselor
+    - org: german-marshall-fund
+      role: fellow
+      note: Senior Fellow; Co-Director Alliance for Securing Democracy; Director Future of Geopolitics & Asia programs
+    - org: american-university
+      role: alumni
+      note: BA International Studies & Political Science
     - org: foreign-policy-initiative
       role: executive
       from: 2009
       to: 2013
       note: Executive Director
+    - org: georgetown
+      role: alumni
+      note: MA German and European Studies
+    - org: rfe-rl
+      role: executive
+      from: 2019
+      to: 2023
+      note: President & CEO (Aug 2019-Jun 2020, Feb 2021-Jun 2023)
+    relations:
+    - person: marco-rubio
+      type: advisor
+      note: Counselor for Foreign and National Security Affairs 2013-2017; advisor during 2016 presidential campaign
   jamie-gorelick:
     born: 1950
     nationality: USA
@@ -21084,6 +21281,15 @@ persons:
       from: 2007
       to: 2016
       note: Dean Faculty of Medicine
+  jeffrey-gedmin:
+    nationality: USA
+    note: Foreign policy scholar, Aspen Institute Berlin director
+    affiliations:
+    - org: rfe-rl
+      role: executive
+      from: 2007
+      to: 2011
+      note: President & CEO
   jeffrey-katzenberg:
     born: 1950
     nationality: USA
@@ -22285,6 +22491,35 @@ persons:
     - org: skull-and-bones
       role: member
       from: 1966
+  john-lansing:
+    born: 1957
+    died: 2024
+    nationality: USA
+    note: 'Broadcast executive: Scripps Networks president, USAGM CEO, NPR CEO'
+    affiliations:
+    - org: usagm
+      role: executive
+      from: 2015
+      to: 2019
+      note: CEO and Director
+    - org: npr
+      role: executive
+      from: 2019
+      to: 2024
+      note: CEO
+    - org: bellarmine
+      role: alumni
+      note: BA Communications 2009
+    - org: scripps-networks
+      role: executive
+      from: 2005
+      to: 2013
+      note: President
+    - org: usc-annenberg
+      role: fellow
+      from: 2024
+      to: 2024
+      note: Senior Fellow, Washington Center
   john-lasseter:
     born: 1957
     nationality: USA
@@ -23944,6 +24179,19 @@ persons:
       role: executive
       from: 2024
       note: Chief Scientist, Microsoft AI
+  kari-lake:
+    born: 1969
+    nationality: USA
+    note: Former Arizona news anchor, 2022 AZ gubernatorial candidate
+    affiliations:
+    - org: usagm
+      role: advisor
+      from: 2025
+      note: Special Advisor (Trump appointee)
+    - org: voice-of-america
+      role: executive
+      from: 2025
+      note: Nominated Director by Trump (pending board approval)
   kari-stadigh:
     born: 1955
     nationality: FIN
@@ -24437,6 +24685,15 @@ persons:
     - org: university-of-tokyo
       role: alumni
       note: BA Economics 1983
+  kenneth-giddens:
+    nationality: USA
+    note: Longest-serving VOA Director (8 years)
+    affiliations:
+    - org: voice-of-america
+      role: executive
+      from: 1969
+      to: 1977
+      note: Director (longest tenure)
   kenneth-hao:
     nationality: USA
     affiliations:
@@ -29950,6 +30207,43 @@ persons:
     - org: unaids
       role: diplomat
       note: Ambassador
+  michael-abramowitz:
+    nationality: USA
+    note: Journalist, human rights advocate. WaPo White House correspondent, Freedom House president, VOA Director.
+    affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor
+    - org: cfr
+      role: member
+    - org: washington-post
+      role: journalist
+      from: 1985
+      to: 2009
+      note: National Editor 2000-2006, White House Correspondent 2006-2009. Pulitzer Prize (post-9/11)
+    - org: german-marshall-fund
+      role: fellow
+      note: Marshall Memorial Fellow
+    - org: hoover-institution
+      role: fellow
+      note: Media Fellow
+    - org: harvard
+      role: alumni
+      note: BA Government
+    - org: voice-of-america
+      role: executive
+      from: 2024
+      note: Director (31st), sworn in June 2024
+    - org: freedom-house
+      role: executive
+      from: 2017
+      to: 2024
+      note: President
+    - org: ushmm
+      role: executive
+      from: 2009
+      to: 2017
+      note: Director, Committee on Conscience (genocide prevention); then Levine Institute Director
   michael-anders:
     nationality: USA
     affiliations:
@@ -30320,6 +30614,42 @@ persons:
       from: 1982
       to: 1985
       note: Trainee accountant (Stokes Kennedy Crowley, poi KPMG)
+  michael-pack:
+    nationality: USA
+    note: Conservative documentary filmmaker; USAGM CEO 2020-2021 (Trump); Claremont Institute CEO 2015-2017; collaborator
+      Steve Bannon
+    affiliations:
+    - org: yale
+      role: alumni
+      note: English 1972-1973 (did not graduate)
+    - org: uc-berkeley
+      role: alumni
+      note: English 1974-1975
+    - org: usagm
+      role: executive
+      from: 2020
+      to: 2021
+      note: CEO (Trump appointee, June 2020 - Jan 2021)
+    - org: cpb
+      role: executive
+      from: 2003
+      to: 2006
+      note: Senior VP Television Programming
+    - org: claremont-institute
+      role: executive
+      from: 2015
+      to: 2017
+      note: President & CEO; Publisher Claremont Review of Books
+    relations:
+    - person: amanda-bennett
+      type: colleague
+      note: Bennett resigned as VOA Director after Pack nomination 2020
+    - person: jamie-fly
+      type: colleague
+      note: Pack fired Fly from RFE/RL in June 2020
+    - person: steve-bannon
+      type: colleague
+      note: Collaborator on documentary films; Bannon exec producer for Rickover, Last 600 Meters
   michael-redstone:
     born: 1902
     died: 1987
@@ -31874,15 +32204,17 @@ persons:
   nahum-goldmann:
     born: 1895
     died: 1982
-    nationality: ISR
+    nationality: DEU-ISR-CHE
     affiliations:
     - org: world-jewish-congress
       role: founder
       from: 1936
+      note: Co-founder 1936; President 1951-1978
     - org: world-jewish-congress
-      role: executive
-      from: 1949
+      role: founder
+      from: 1936
       to: 1977
+      note: Co-founder 1936; President 1951-1978
     - org: world-zionist-organization
       role: chairman
       from: 1956
@@ -42043,6 +42375,18 @@ persons:
       role: executive
       from: 2024
       note: COO, then President Commercial Airplanes
+  stephen-capus:
+    nationality: USA
+    note: Former NBC News President, network news veteran
+    affiliations:
+    - org: nbc-news
+      role: executive
+      to: 2013
+      note: President of NBC News
+    - org: rfe-rl
+      role: executive
+      from: 2024
+      note: Acting President
   stephen-cohen-palantir:
     born: 1982
     nationality: USA
@@ -42314,13 +42658,47 @@ persons:
   steve-bannon:
     born: 1953
     nationality: USA
-    note: Breitbart, Trump campaign, Cambridge Analytica investor
+    note: Media executive, political strategist; Breitbart chairman; Trump campaign CEO/WH Chief Strategist; Goldman Sachs
+      VP; populist nationalist
     affiliations:
+    - org: goldman-sachs
+      role: executive
+      from: 1985
+      to: 1990
+      note: Vice President, M&A Department; expanded entertainment practice in LA
+    - org: governo-usa
+      role: advisor
+      from: 2017
+      to: 2017
+      note: Chief Strategist and Senior Counselor to the President (Jan-Aug 2017)
     - org: cambridge-analytica
       role: board
       from: 2014
       to: 2017
       note: Vice President, investor 1-5M USD
+    - org: harvard
+      role: alumni
+      note: MBA 1985 (with honors)
+    - org: georgetown
+      role: alumni
+      note: MA National Security Studies 1983 (School of Foreign Service)
+    - org: virginia-tech
+      role: alumni
+      note: BA Urban Affairs 1976; student government president
+    - org: us-navy
+      role: member
+      from: 1977
+      to: 1983
+      note: Lieutenant; Special Assistant to Chief of Naval Operations
+    - org: breitbart
+      role: executive
+      from: 2012
+      to: 2018
+      note: Executive Chairman; described it as "platform for the alt-right"
+    relations:
+    - person: donald-trump
+      type: advisor
+      note: Campaign CEO 2016; Chief Strategist 2017; pardoned 2021
   steve-cahillane:
     nationality: USA
     affiliations:

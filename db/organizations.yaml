@@ -2589,6 +2589,8 @@ organizations:
     - person: robert-kimmitt
       role: chairman
       note: Chairman Emeritus
+    - person: guido-goldman
+      role: board
   american-council-on-germany:
     name: American Council on Germany
     type: forum
@@ -2748,6 +2750,9 @@ organizations:
       from: 1988
       to: 1992
       note: BA Public Administration
+    - person: jamie-fly
+      role: alumni
+      note: BA International Studies & Political Science
   american-university-cairo:
     name: American University in Cairo
     type: university
@@ -6360,6 +6365,15 @@ organizations:
       role: owner
       from: 2016
       note: Acquired via Alcatel-Lucent purchase
+  bellarmine:
+    name: Bellarmine University
+    type: university
+    headquarters: Louisville, USA
+    status: active
+    stakeholders:
+    - person: john-lansing
+      role: alumni
+      note: BA Communications 2009
   benetton-group:
     name: Benetton Group SpA
     type: company
@@ -7844,6 +7858,15 @@ organizations:
       from: 2001
       to: 2005
       note: Developer, Tradebook
+  bloomberg-news:
+    name: Bloomberg News
+    type: media
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: amanda-bennett
+      role: executive
+      note: Executive Editor
   bloomberg-philanthropies:
     name: Bloomberg Philanthropies
     type: foundation
@@ -8708,6 +8731,18 @@ organizations:
       role: founder
       from: 2018
       note: Founder and CEO
+  breitbart:
+    name: Breitbart News
+    type: media
+    founded: 2007
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: steve-bannon
+      role: executive
+      from: 2012
+      to: 2018
+      note: Executive Chairman; described it as "platform for the alt-right"
   brembo:
     name: Brembo S.p.A.
     type: company
@@ -10195,6 +10230,11 @@ organizations:
       from: 1986
       to: 1997
       note: EVP TV Stations, GM WBZ-TV Boston, GM KYW-TV Philadelphia
+    - person: edward-murrow
+      role: executive
+      from: 1935
+      to: 1961
+      note: Correspondent, anchor; See It Now, Person to Person
     - org: paramount-global
       share: 100%
   cbs-news:
@@ -10821,6 +10861,10 @@ organizations:
       note: Adjunct Senior Fellow, Middle East Studies
     - person: andrew-krepinevich
       role: member
+    - person: jamie-fly
+      role: member
+      from: 2002
+      note: Research Associate 2002-04; later member
     - person: katherine-maher
       role: member
       note: Term member
@@ -10854,6 +10898,8 @@ organizations:
       from: 2023
       note: President
     - person: michael-cavanagh
+      role: member
+    - person: michael-abramowitz
       role: member
     - org: bilderberg
       role: partner
@@ -11830,6 +11876,18 @@ organizations:
       share: 81%
       from: 2013
       note: Via Newton Investment and Development LLC
+  claremont-institute:
+    name: Claremont Institute
+    type: thinktank
+    founded: 1979
+    headquarters: Upland CA, USA
+    status: active
+    stakeholders:
+    - person: michael-pack
+      role: executive
+      from: 2015
+      to: 2017
+      note: President & CEO; Publisher Claremont Review of Books
   claridge-group:
     name: The Claridge Group
     type: privateequity
@@ -12878,6 +12936,16 @@ organizations:
       from: 2004
       to: 2014
       note: Commissioner Enlargement, Economic Affairs, VP 2011-14
+  committee-protect-journalists:
+    name: Committee to Protect Journalists
+    type: foundation
+    founded: 1981
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: amanda-bennett
+      role: board
+      note: Board member
   common-sense-society:
     name: Common Sense Society
     type: foundation
@@ -13413,6 +13481,23 @@ organizations:
       from: 2003
       to: 2003
       note: Director ORHA (precursor to CPA), replaced by Bremer after 1 month
+  cpb:
+    name: Corporation for Public Broadcasting
+    type: foundation
+    founded: 1967
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: michael-pack
+      role: executive
+      from: 2003
+      to: 2006
+      note: Senior VP Television Programming
+    - person: henry-loomis
+      role: executive
+      from: 1972
+      to: 1978
+      note: President (Nixon appointee); decentralized public TV funding
   cpf:
     name: Charoen Pokphand Foods
     type: company
@@ -19795,6 +19880,19 @@ organizations:
     stakeholders:
     - person: xavier-niel
       role: founder
+  freedom-house:
+    name: Freedom House
+    type: thinktank
+    founded: 1941
+    headquarters: Washington DC, USA
+    status: active
+    note: Democracy research and advocacy. Publishes Freedom in the World report.
+    stakeholders:
+    - person: michael-abramowitz
+      role: executive
+      from: 2017
+      to: 2024
+      note: President
   freedom-press-foundation:
     name: Freedom of the Press Foundation
     type: foundation
@@ -20968,6 +21066,12 @@ organizations:
     headquarters: Washington DC, USA
     status: active
     stakeholders:
+    - person: steve-bannon
+      role: alumni
+      note: MA National Security Studies 1983 (School of Foreign Service)
+    - person: jamie-fly
+      role: alumni
+      note: MA German and European Studies
     - person: zico-kolter
       role: alumni
       note: BS Computer Science
@@ -21034,14 +21138,38 @@ organizations:
       from: 2006
   german-marshall-fund:
     name: German Marshall Fund
-    type: thinktank
+    type: foundation
     founded: 1972
     headquarters: Washington DC, USA
     status: active
+    note: Transatlantic think tank, founded 1972 as gift from Germany for Marshall Plan anniversary
     stakeholders:
     - person: theo-sommer
       role: advisor
       note: German advisory committee
+    - person: jamie-fly
+      role: fellow
+      note: Senior Fellow; Co-Director Alliance for Securing Democracy; Director Future of Geopolitics & Asia programs
+    - person: amanda-bennett
+      role: board
+      note: Board member
+    - person: michael-abramowitz
+      role: fellow
+      note: Marshall Memorial Fellow
+    - person: guido-goldman
+      role: founder
+      from: 1972
+      to: 2012
+      note: Co-founder, first President, Board Chair 40 years
+    - person: alexandra-de-hoop-scheffer
+      role: executive
+      from: 2025
+      note: President (first European)
+    - person: heather-conley
+      role: executive
+      from: 2022
+      to: 2024
+      note: President
   gib:
     name: Gulf International Bank
     type: bank
@@ -21457,6 +21585,11 @@ organizations:
     - person: jose-feliciano-pe
       role: executive
       note: M&A and Corporate Finance
+    - person: steve-bannon
+      role: executive
+      from: 1985
+      to: 1990
+      note: Vice President, M&A Department; expanded entertainment practice in LA
     - person: eddie-lampert
       role: member
       from: 1984
@@ -26228,6 +26361,11 @@ organizations:
       from: 1993
       to: 1994
       note: White House Chief of Staff
+    - person: steve-bannon
+      role: advisor
+      from: 2017
+      to: 2017
+      note: Chief Strategist and Senior Counselor to the President (Jan-Aug 2017)
     - person: andrew-mellon
       role: minister
       from: 1921
@@ -26564,6 +26702,11 @@ organizations:
       from: 1972
       to: 1993
       note: US Army Lt. Col., Office of Net Assessment, staff 3 Defense Secretaries | Military
+    - person: jamie-fly
+      role: advisor
+      from: 2013
+      to: 2017
+      note: Counselor for Foreign and National Security Affairs to Senator Marco Rubio
     - person: douglas-feith
       role: executive
       from: 1984
@@ -26874,6 +27017,9 @@ organizations:
       from: 1959
       to: 1971
       note: Senator from Connecticut
+    - person: bay-fang
+      role: official
+      note: Deputy Assistant Secretary of State (Europe & Eurasia public diplomacy)
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -27903,6 +28049,9 @@ organizations:
     - person: greg-brockman
       role: alumni
       note: Dropped out 2009, Math/CS
+    - person: steve-bannon
+      role: alumni
+      note: MBA 1985 (with honors)
     - person: dustin-moskovitz
       role: alumni
       note: Economics 2002-2004, dropped out
@@ -28007,6 +28156,24 @@ organizations:
     - person: jack-valenti
       role: alumni
       note: MBA
+    - person: amanda-bennett
+      role: alumni
+      note: BA 1975, Harvard College
+    - person: michael-abramowitz
+      role: alumni
+      note: BA Government
+    - person: henry-loomis
+      role: alumni
+      note: BA Physics 1946 (completed after Navy service)
+    - person: bay-fang
+      role: alumni
+      note: BA
+    - person: guido-goldman
+      role: alumni
+      note: BA 1959 summa cum laude; PhD 1969
+    - person: guido-goldman
+      role: executive
+      note: Founding Director, Center for European Studies
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -29123,6 +29290,7 @@ organizations:
     founded: 1919
     headquarters: Stanford, California, USA
     status: active
+    note: Conservative think tank at Stanford University
     stakeholders:
     - person: condoleezza-rice
       role: member
@@ -29137,6 +29305,9 @@ organizations:
       role: member
       from: 2011
       note: Robert & Marion Oster Distinguished Military Fellow
+    - person: michael-abramowitz
+      role: fellow
+      note: Media Fellow
   hotel-shilla:
     name: Hotel Shilla
     type: company
@@ -36451,6 +36622,18 @@ organizations:
     - org: bae-systems
       share: 37.5
       note: Equal partner with Airbus
+  mbn:
+    name: Middle East Broadcasting Networks
+    type: media
+    founded: 2004
+    headquarters: Springfield, Virginia, USA
+    status: active
+    note: Operates Alhurra TV and Radio Sawa for Arabic-speaking audiences
+    stakeholders:
+    - org: usagm
+      role: funds
+      from: 2004
+      note: Grantee organization, funding and oversight
   mbzuai:
     name: Mohamed bin Zayed University of Artificial Intelligence
     type: university
@@ -38015,6 +38198,9 @@ organizations:
     - person: howard-buffett
       role: alumni
       note: MBA, Sloan School of Management
+    - person: henry-loomis
+      role: executive
+      note: Assistant to President James Killian (4 years)
   mitratel:
     name: PT Dayamitra Telekomunikasi Tbk
     type: company
@@ -39314,13 +39500,17 @@ organizations:
     - org: nbcuniversal
       share: 100%
   nbc-news:
-    name: NBC News / MSNBC
+    name: NBC News
     type: media
     founded: 1940
     headquarters: New York, USA
     status: active
     sector: news
     stakeholders:
+    - person: stephen-capus
+      role: executive
+      to: 2013
+      note: President of NBC News
     - org: nbcuniversal
       share: 100%
   nbc-sports:
@@ -40606,6 +40796,18 @@ organizations:
     stakeholders:
     - person: jane-burston
       role: executive
+  npr:
+    name: National Public Radio
+    type: media
+    founded: 1970
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: john-lansing
+      role: executive
+      from: 2019
+      to: 2024
+      note: CEO
   nps-korea:
     name: National Pension Service (NPS)
     type: swf
@@ -41104,6 +41306,18 @@ organizations:
       role: executive
       from: 2020
       note: Executive Director ORF America
+  ocb:
+    name: Office of Cuba Broadcasting
+    type: media
+    founded: 1985
+    headquarters: Miami, Florida, USA
+    status: active
+    note: Operates Radio Marti and TV Marti targeting Cuba
+    stakeholders:
+    - org: usagm
+      role: controls
+      from: 1999
+      note: Direct supervision of Radio/TV Marti
   oci:
     name: OCI N.V.
     type: company
@@ -42350,6 +42564,9 @@ organizations:
     - person: michael-froman
       role: alumni
       note: DPhil International Relations 1988, St Antony's College, Fulbright Scholar
+    - person: bay-fang
+      role: fellow
+      note: Visiting Fellow
   oxford-university:
     name: University of Oxford
     type: university
@@ -42433,6 +42650,10 @@ organizations:
       from: 2003
       to: 2009
       note: Departed, founded 8VC
+    - person: jamie-fly
+      role: executive
+      from: 2023
+      note: Senior Counselor
     - org: in-q-tel
       role: investor
       from: 2005
@@ -43387,6 +43608,15 @@ organizations:
     - person: srettha-thavisin
       role: member
       from: 2022
+  philadelphia-inquirer:
+    name: The Philadelphia Inquirer
+    type: media
+    headquarters: Philadelphia, USA
+    status: active
+    stakeholders:
+    - person: amanda-bennett
+      role: executive
+      note: Editor
   philanthropy-asia-alliance:
     name: Philanthropy Asia Alliance
     type: foundation
@@ -44894,6 +45124,23 @@ organizations:
     stakeholders:
     - org: gedi
       share: 100%
+  radio-free-asia:
+    name: Radio Free Asia
+    type: media
+    founded: 1996
+    headquarters: Washington DC, USA
+    status: active
+    note: US-funded broadcaster. 9 languages targeting China, Tibet, Uyghur, Myanmar, Vietnam, Laos, Cambodia, North Korea.
+      Operations suspended Oct 2025.
+    stakeholders:
+    - person: bay-fang
+      role: executive
+      from: 2019
+      note: President & CEO (2019-2020, 2021-2025)
+    - org: usagm
+      role: funds
+      from: 1999
+      note: Grantee organization, funding and oversight
   radisson:
     name: Radisson Hotel Group
     type: company
@@ -45771,6 +46018,33 @@ organizations:
       role: board
       from: 2024
       note: Board of Directors, Strategic Committee
+  rfe-rl:
+    name: Radio Free Europe/Radio Liberty
+    type: media
+    founded: 1950
+    headquarters: Prague, Czech Republic
+    status: active
+    note: US-funded broadcaster. 27 languages, 23 countries, Eastern Europe/Central Asia/Caucasus/Middle East. CIA-funded
+      1949-1971.
+    stakeholders:
+    - person: jamie-fly
+      role: executive
+      from: 2019
+      to: 2023
+      note: President & CEO (Aug 2019-Jun 2020, Feb 2021-Jun 2023)
+    - person: stephen-capus
+      role: executive
+      from: 2024
+      note: Acting President
+    - person: jeffrey-gedmin
+      role: executive
+      from: 2007
+      to: 2011
+      note: President & CEO
+    - org: usagm
+      role: funds
+      from: 1999
+      note: Grantee organization, funding and oversight
   rheinmetall:
     name: Rheinmetall AG
     type: defense
@@ -47831,6 +48105,18 @@ organizations:
     - person: kalanidhi-maran
       role: alumni
       note: Business Administration
+  scripps-networks:
+    name: Scripps Networks
+    type: media
+    headquarters: Knoxville, USA
+    status: dissolved
+    note: Sold to Discovery 2018
+    stakeholders:
+    - person: john-lansing
+      role: executive
+      from: 2005
+      to: 2013
+      note: President
   scsp:
     name: Special Competitive Studies Project
     type: thinktank
@@ -54475,6 +54761,12 @@ organizations:
     - person: jeff-shell
       role: alumni
       note: BA Economics & Applied Mathematics 1987
+    - person: michael-pack
+      role: alumni
+      note: English 1974-1975
+    - person: henry-loomis
+      role: alumni
+      note: Graduate physics; assistant to Ernest Lawrence at Radiation Lab
   uc-santa-cruz:
     name: University of California, Santa Cruz
     type: university
@@ -55952,6 +56244,17 @@ organizations:
     status: active
     note: Reactivated 1995 after 48-year hiatus. Commander dual-hatted as COMUSNAVCENT. Combined Maritime Forces (46 nations)
       embedded since 2002.
+  us-navy:
+    name: United States Navy
+    type: agency
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: steve-bannon
+      role: member
+      from: 1977
+      to: 1983
+      note: Lieutenant; Special Assistant to Chief of Naval Operations
   us-treasury:
     name: U.S. Department of the Treasury
     type: government
@@ -55979,12 +56282,32 @@ organizations:
     founded: 1994
     headquarters: Washington DC, USA
     status: active
+    note: Formerly Broadcasting Board of Governors (BBG) until 2018. Oversees US international broadcasting.
     stakeholders:
     - person: jeff-shell
       role: board
       from: 2013
       to: 2017
       note: Chairman, Broadcasting Board of Governors (Obama appointee)
+    - person: john-lansing
+      role: executive
+      from: 2015
+      to: 2019
+      note: CEO and Director
+    - person: michael-pack
+      role: executive
+      from: 2020
+      to: 2021
+      note: CEO (Trump appointee, June 2020 - Jan 2021)
+    - person: amanda-bennett
+      role: executive
+      from: 2022
+      to: 2025
+      note: CEO (bipartisan Senate confirmation)
+    - person: kari-lake
+      role: advisor
+      from: 2025
+      note: Special Advisor (Trump appointee)
   usaha-tegas:
     name: Usaha Tegas Sdn Bhd
     type: company
@@ -56053,6 +56376,50 @@ organizations:
     - person: george-lucas
       role: alumni
       note: BFA Film 1966
+  usc-annenberg:
+    name: USC Annenberg School for Communication and Journalism
+    type: media
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: john-lansing
+      role: fellow
+      from: 2024
+      to: 2024
+      note: Senior Fellow, Washington Center
+  ushmm:
+    name: United States Holocaust Memorial Museum
+    type: foundation
+    founded: 1993
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: michael-abramowitz
+      role: executive
+      from: 2009
+      to: 2017
+      note: Director, Committee on Conscience (genocide prevention); then Levine Institute Director
+  usia:
+    name: United States Information Agency
+    type: agency
+    founded: 1953
+    headquarters: Washington DC, USA
+    status: defunct
+    note: Cold War propaganda agency; parent of VOA 1953-1999; abolished and merged into State Dept
+    stakeholders:
+    - person: henry-loomis
+      role: executive
+      note: Director of Research and Intelligence
+    - person: edward-murrow
+      role: executive
+      from: 1961
+      to: 1964
+      note: Director; nominato da Kennedy
+    - person: charles-wick
+      role: executive
+      from: 1981
+      to: 1989
+      note: Director; longest-serving; close Reagan friend
   usines-gustave-boel:
     name: Usines Gustave Boël
     type: company
@@ -56561,6 +56928,15 @@ organizations:
     - person: carlos-domenech
       role: alumni
       note: BS Business Administration
+  virginia-tech:
+    name: Virginia Tech
+    type: university
+    headquarters: Blacksburg VA, USA
+    status: active
+    stakeholders:
+    - person: steve-bannon
+      role: alumni
+      note: BA Urban Affairs 1976; student government president
   visa:
     name: Visa Inc.
     type: company
@@ -56828,6 +57204,46 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 2.5%
+  voice-of-america:
+    name: Voice of America
+    type: media
+    founded: 1942
+    headquarters: Washington DC, USA
+    status: active
+    note: Largest and oldest US international broadcaster. 48 languages, radio/TV/digital.
+    stakeholders:
+    - person: amanda-bennett
+      role: executive
+      from: 2016
+      to: 2020
+      note: Director
+    - person: kari-lake
+      role: executive
+      from: 2025
+      note: Nominated Director by Trump (pending board approval)
+    - person: michael-abramowitz
+      role: executive
+      from: 2024
+      note: Director (31st), sworn in June 2024
+    - person: henry-loomis
+      role: executive
+      from: 1958
+      to: 1965
+      note: Director (Eisenhower appointee); resigned over Vietnam reporting conflict with Johnson WH
+    - person: kenneth-giddens
+      role: executive
+      from: 1969
+      to: 1977
+      note: Director (longest tenure)
+    - org: usagm
+      role: controls
+      from: 1999
+      note: Direct supervision since BBG became independent agency
+    - org: usia
+      role: parent
+      from: 1953
+      to: 1999
+      note: VOA parent agency during Cold War
   volga-group:
     name: Volga Group
     type: privateequity
@@ -57074,6 +57490,9 @@ organizations:
       role: member
       from: 2008
       note: Op-ed columnist
+    - person: amanda-bennett
+      role: journalist
+      note: Reporter 23 years, Beijing correspondent, Pentagon reporter
     - org: dow-jones
       share: 100%
   walmart:
@@ -57378,6 +57797,11 @@ organizations:
     - person: robert-kagan
       role: member
       note: Contributing columnist
+    - person: michael-abramowitz
+      role: journalist
+      from: 1985
+      to: 2009
+      note: National Editor 2000-2006, White House Correspondent 2006-2009. Pulitzer Prize (post-9/11)
   washington-university:
     name: Washington University in St. Louis
     type: university
@@ -58871,6 +59295,9 @@ organizations:
       role: ygl
       from: 2012
       note: Young Global Leader
+    - person: michael-abramowitz
+      role: member
+      note: Agenda Contributor
     - org: bilderberg
       role: partner
     - org: fmi
@@ -59518,10 +59945,12 @@ organizations:
     - person: nahum-goldmann
       role: founder
       from: 1936
+      note: Co-founder 1936; President 1951-1978
     - person: nahum-goldmann
-      role: executive
-      from: 1949
+      role: founder
+      from: 1936
       to: 1977
+      note: Co-founder 1936; President 1951-1978
     - person: edgar-bronfman-sr
       role: executive
       from: 1981
@@ -59530,6 +59959,9 @@ organizations:
       role: board
       from: 2000
       note: Vice President for Eastern Europe and Russia
+    - person: guido-goldman
+      role: board
+      note: Son of co-founder Nahum Goldmann
   world-jewish-restitution-org:
     name: World Jewish Restitution Organization
     type: thinktank
@@ -59996,6 +60428,9 @@ organizations:
     - person: charles-rivkin
       role: alumni
       note: BA Political Science 1984
+    - person: michael-pack
+      role: alumni
+      note: English 1972-1973 (did not graduate)
   yale-university:
     name: Yale University
     type: university
