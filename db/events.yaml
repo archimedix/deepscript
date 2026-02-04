@@ -69,6 +69,11 @@ events:
     type: war
     location: Iran, Iraq, Persian Gulf
     outcome: Stalemate, UN ceasefire Resolution 598
+  1980-smallpox-eradication:
+    year: 1980
+    type: achievement
+    location: Global
+    note: First human disease ever eradicated
   1982-bashir-gemayel-assassination:
     year: 1982
     month: 9
@@ -130,6 +135,11 @@ events:
     year: 2001
     type: attacco
     location: USA
+  2001-dark-winter:
+    year: 2001
+    type: exercise
+    location: USA
+    note: Bioterrorism tabletop exercise simulating smallpox attack
   2001-goldman-greece-swap:
     year: 2001
     type: financial
@@ -215,6 +225,11 @@ events:
     location: Riyadh, Saudi Arabia
     outcome: Rilasciato dopo intervento Macron
     note: MBS fece annunciare dimissioni forzate
+  2019-event-201:
+    year: 2019
+    type: exercise
+    location: New York, USA
+    note: Pandemic tabletop exercise simulating coronavirus outbreak
   2020-abraham-accords-bahrain:
     year: 2020
     month: 9

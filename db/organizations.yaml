@@ -663,6 +663,17 @@ organizations:
       from: 2005
       to: 2013
       note: President
+  addi:
+    name: Alzheimer's Disease Data Initiative
+    type: foundation
+    headquarters: USA
+    status: active
+    note: Open data platform per ricerca Alzheimer
+    stakeholders:
+    - person: niranjan-bose
+      role: board
+      from: 2020
+      note: Advisory Board, Executive Director (interim) 2024-
   adevinta:
     name: Adevinta ASA
     type: company
@@ -1657,6 +1668,16 @@ organizations:
       role: board
       from: 2012
       to: 2015
+  akasha-foundation:
+    name: AKASHA Foundation
+    type: foundation
+    founded: 2015
+    headquarters: Zug, Switzerland
+    status: active
+    stakeholders:
+    - person: mihai-alisie
+      role: founder
+      from: 2015
   akbank:
     name: Akbank T.A.S.
     type: bank
@@ -1854,6 +1875,16 @@ organizations:
       role: member
       from: 2014
       to: 2019
+  aledade:
+    name: Aledade
+    type: company
+    headquarters: Bethesda, USA
+    status: active
+    note: Value-based healthcare. Unicorn 2021.
+    stakeholders:
+    - org: biomatics-capital
+      role: investor
+      note: Fund I portfolio company, unicorn exit
   alenia:
     name: Alenia Aeronautica
     type: defense
@@ -2327,6 +2358,9 @@ organizations:
       from: 1996
       to: 2010
       note: Early investor and board member
+    - person: rahul-patil
+      role: engineer
+      note: AWS
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -2506,6 +2540,9 @@ organizations:
     - person: vernon-jordan
       role: member
       note: Fellow
+    - person: zeid-raad-al-hussein
+      role: member
+      from: 2019
   american-academy-berlin:
     name: American Academy in Berlin
     type: thinktank
@@ -2917,6 +2954,9 @@ organizations:
       role: founder
       from: 2009
       note: Co-founder, CEO
+    - person: kevin-systrom
+      role: partner
+      note: Portfolio founder (Instagram seed 2010)
   andritz:
     name: Andritz AG
     type: company
@@ -3183,6 +3223,22 @@ organizations:
       role: board
       from: 2025
       note: appointed by Long Term Benefit Trust May 2025
+    - person: mike-krieger
+      role: executive
+      from: 2024
+      note: Chief Product Officer
+    - person: ben-mann
+      role: founder
+      from: 2021
+      note: Tech Lead Product Engineering
+    - person: ami-vora
+      role: executive
+      from: 2025
+      note: Head of Product
+    - person: rahul-patil
+      role: executive
+      from: 2025
+      note: Chief Technology Officer
     - org: amazon
       role: stake
       from: 2023
@@ -3429,6 +3485,10 @@ organizations:
     type: company
     status: defunct
     note: Acquired by BP 2000
+    stakeholders:
+    - person: michael-larson
+      role: executive
+      note: Mergers & Acquisitions
   arctos-partners:
     name: Arctos Partners
     type: privateequity
@@ -3499,6 +3559,15 @@ organizations:
       role: chairman
       from: 1999
       note: Inherited from Ted Arison
+  arizona-state:
+    name: Arizona State University
+    type: university
+    headquarters: Tempe, USA
+    status: active
+    stakeholders:
+    - person: rahul-patil
+      role: alumni
+      note: MS Computer Science
   arizona-state-university:
     name: Arizona State University
     type: university
@@ -3786,6 +3855,9 @@ organizations:
     - person: cesar-conde
       role: board
       note: Trustee
+    - person: joseph-lubin
+      role: member
+      note: Aspen Ideas Festival speaker 2021
     - org: trilaterale
       role: partner
     - org: aspen-romania
@@ -4054,6 +4126,8 @@ organizations:
     - person: jose-maria-aznar
       role: board
       note: International Advisory Board
+    - person: thomas-glocer
+      role: member
     - person: dimitris-papalexopoulos
       role: board
       note: International Advisory Board
@@ -5336,6 +5410,16 @@ organizations:
       from: 1980
       to: 1992
       note: President
+  bangor:
+    name: Bangor University
+    type: university
+    founded: 1884
+    headquarters: Bangor, Wales
+    status: active
+    stakeholders:
+    - person: peter-daszak
+      role: alumni
+      note: BSc Zoology 1987
   banijay:
     name: Banijay
     type: media
@@ -7388,7 +7472,7 @@ organizations:
     name: Binance
     type: company
     founded: 2017
-    headquarters: George Town, Cayman Islands
+    headquarters: Cayman Islands
     status: active
     sector: crypto
     stakeholders:
@@ -7420,6 +7504,36 @@ organizations:
     stakeholders:
     - person: albert-bourla
       role: board
+  biologos:
+    name: BioLogos Foundation
+    type: foundation
+    founded: 2007
+    headquarters: Grand Rapids, USA
+    status: active
+    note: Faith-science harmony advocacy
+    stakeholders:
+    - person: francis-collins
+      role: founder
+      from: 2007
+      note: Founded to promote harmony of science and faith
+  biomatics-capital:
+    name: Biomatics Capital
+    type: privateequity
+    founded: 2016
+    headquarters: Seattle, USA
+    status: active
+    aum: 500000000
+    note: 'VC firm founded by former Gates advisors. Fund I: $200M (2016), Fund II: $300M (2018). Focus: genomics, digital
+      health, therapeutics. Notable exits: GRAIL (IPO), Aledade (unicorn), Twist Bioscience (IPO).'
+    stakeholders:
+    - person: boris-nikolic
+      role: founder
+      from: 2016
+      note: Managing Director, Co-Founder
+    - person: julie-sunderland
+      role: founder
+      from: 2016
+      note: Managing Director, Co-Founder
   biontech:
     name: BioNTech SE
     type: pharma
@@ -7584,6 +7698,22 @@ organizations:
       role: member
       from: 1930
       note: Founding member
+  bitcoin-magazine:
+    name: Bitcoin Magazine
+    type: media
+    founded: 2012
+    headquarters: Online
+    status: active
+    stakeholders:
+    - person: vitalik-buterin
+      role: founder
+      from: 2011
+      note: Co-founder with Mihai Alisie
+    - person: mihai-alisie
+      role: founder
+      from: 2011
+      to: 2014
+      note: Co-founder, Editor-in-Chief
   bits-pilani:
     name: Birla Institute of Technology and Science, Pilani
     type: thinktank
@@ -7594,6 +7724,9 @@ organizations:
     - person: kumar-mangalam-birla
       role: chairman
       note: Chancellor
+    - person: niranjan-bose
+      role: alumni
+      note: B.Pharm, MS Biological Sciences (1992-1997)
   bizreach:
     name: BizReach
     type: company
@@ -7802,6 +7935,16 @@ organizations:
       role: founder
       from: 2009
       note: Co-founder (formerly Square), Board Member
+  blockstream:
+    name: Blockstream
+    type: company
+    founded: 2014
+    headquarters: Victoria, Canada
+    stakeholders:
+    - person: adam-back
+      role: founder
+      from: 2014
+      note: Co-founder, CEO from 2016
   blom-bank:
     name: BLOM Bank
     type: bank
@@ -7955,6 +8098,18 @@ organizations:
       from: 2019
       to: 2024
       note: Founder, Board of Directors 2022-2024
+  bluevoyant:
+    name: BlueVoyant LLC
+    type: company
+    founded: 2017
+    headquarters: New York, NY, USA
+    status: active
+    sector: Cybersecurity
+    stakeholders:
+    - person: thomas-glocer
+      role: founder
+      from: 2017
+      note: Co-founder & Executive Chairman
   blum-capital:
     name: Blum Capital Partners
     type: privateequity
@@ -9080,6 +9235,12 @@ organizations:
       role: chairman
       from: 2024
       note: Chancellor
+    - person: dylan-field
+      role: alumni
+      note: CS, dropped out 2012 for Thiel Fellowship
+    - person: evan-wallace
+      role: alumni
+      note: BS Computer Science 2012
   brp:
     name: BRP Inc.
     type: company
@@ -9594,6 +9755,9 @@ organizations:
       from: 1983
       to: 2023
       note: Trustee 1983, Chairman 1993-2000, Life Member 2009
+    - person: hal-finney
+      role: alumni
+      note: BS Electrical Engineering 1979
   cambridge:
     name: University of Cambridge
     type: university
@@ -9614,6 +9778,9 @@ organizations:
     - person: suzanne-heywood
       role: alumni
       note: PhD 1993, King's College
+    - person: zeid-raad-al-hussein
+      role: alumni
+      note: PhD (Christ's College)
   cambridge-analytica:
     name: Cambridge Analytica
     type: company
@@ -9809,6 +9976,17 @@ organizations:
       role: chairman
       from: 2015
       note: Lead investor, fondi da Epstein
+  cardano-foundation:
+    name: Cardano Foundation
+    type: foundation
+    founded: 2017
+    headquarters: Zug, Switzerland
+    status: active
+    stakeholders:
+    - org: iohk
+      role: partner
+      from: 2017
+      note: IOHK builds Cardano protocol, Foundation handles governance
   cardinal-health:
     name: Cardinal Health
     type: company
@@ -10021,6 +10199,23 @@ organizations:
       role: executive
       from: 1979
       note: CEO 1979-2013, Chairman 2013-present
+  cascade-investment:
+    name: Cascade Investment
+    type: assetmanager
+    founded: 1995
+    headquarters: Kirkland, Washington, USA
+    status: active
+    aum: $115B+ personal + $67B foundation trust
+    note: Family office e holding company di Bill Gates, gestisce patrimonio personale e Gates Foundation Trust
+    stakeholders:
+    - person: bill-gates
+      role: founder
+      from: 1995
+      note: Proprietario, patrimonio gestito da Michael Larson
+    - person: michael-larson
+      role: executive
+      from: 1994
+      note: Chief Investment Officer, fondatore operativo
   case-western:
     name: Case Western Reserve University
     type: university
@@ -10319,6 +10514,28 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 2.0%
+  cdc:
+    name: Centers for Disease Control and Prevention
+    type: agency
+    founded: 1946
+    headquarters: Atlanta, USA
+    status: active
+    stakeholders:
+    - person: peter-daszak
+      role: academic
+      from: 1998
+      to: 2001
+      note: National Center for Infectious Diseases
+    - person: da-henderson
+      role: executive
+      from: 1960
+      to: 1966
+      note: Chief, Virus Disease Surveillance; EIS Officer
+    - person: tom-inglesby
+      role: board
+      from: 2010
+      to: 2019
+      note: Chair, Board of Scientific Counselors, Center for Preparedness and Response
   cdp:
     name: Cassa Depositi e Prestiti
     type: swf
@@ -11095,8 +11312,8 @@ organizations:
       note: President
     - person: valerie-amos
       role: board
-      from: 2025
-      note: President
+      from: 2026
+      note: Co-President (with Theresa May, Helen Clark)
     - person: lynn-forester-de-rothschild
       role: member
     - person: denis-healey
@@ -11252,6 +11469,9 @@ organizations:
       role: executive
       from: 1991
       note: Katherine Dusak Miller Distinguished Service Professor of Finance
+    - person: michael-larson
+      role: alumni
+      note: MBA (graduated age 21)
   chicago-kent:
     name: Chicago-Kent College of Law
     type: university
@@ -11405,6 +11625,32 @@ organizations:
       role: chairman
       from: 2023
       to: 2025
+  chinese-academy-sciences:
+    name: Chinese Academy of Sciences
+    type: agency
+    founded: 1949
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - person: shi-zhengli
+      role: member
+      note: MSc 1990, senior researcher
+    - person: gao-shangyin
+      role: member
+      from: 1980
+      note: Elected academician 1980
+    - person: chen-huagui
+      role: member
+      from: 1980
+      note: Elected academician 1980
+    - person: shu-hongbing
+      role: member
+      from: 2011
+      note: Elected member 2011
+    - org: wuhan-institute-virology
+      role: member
+      from: 1956
+      note: Part of CAS system
   chineseall:
     name: ChineseAll
     type: company
@@ -11888,6 +12134,15 @@ organizations:
       from: 2015
       to: 2017
       note: President & CEO; Publisher Claremont Review of Books
+  claremont-mckenna:
+    name: Claremont McKenna College
+    type: university
+    headquarters: Claremont, California, USA
+    status: active
+    stakeholders:
+    - person: michael-larson
+      role: alumni
+      note: BA Economics (graduated in 3 years, age 19)
   claridge-group:
     name: The Claridge Group
     type: privateequity
@@ -11984,6 +12239,9 @@ organizations:
     status: active
     sector: healthcare
     stakeholders:
+    - person: thomas-glocer
+      role: board
+      note: Trustee
     - person: craig-mundie
       role: advisor
       note: Technology advisor
@@ -12504,6 +12762,18 @@ organizations:
       role: investor
       from: 2025
       note: Series C investor, chip partnership
+  coinbase:
+    name: Coinbase
+    type: company
+    founded: 2012
+    headquarters: San Francisco, USA
+    stakeholders:
+    - person: brian-armstrong
+      role: founder
+      from: 2012
+    - person: fred-ehrsam
+      role: founder
+      from: 2012
   college-of-europe:
     name: College of Europe
     type: forum
@@ -12631,6 +12901,9 @@ organizations:
     headquarters: New York, USA
     status: active
     stakeholders:
+    - person: thomas-glocer
+      role: alumni
+      note: BA Political Science 1981
     - person: siddhartha-mukherjee
       role: faculty
       note: Associate Professor of Medicine, Herbert Irving Cancer Center
@@ -12653,6 +12926,15 @@ organizations:
       role: faculty
       from: 2012
       note: Adjunct Associate Professor, SIPA
+    - person: ben-mann
+      role: alumni
+      note: BS Computer Science 2011
+    - person: peter-daszak
+      role: academic
+      note: Center for Infection and Immunity, Mailman School
+    - person: tom-inglesby
+      role: alumni
+      note: MD 1992
   columbia-pictures:
     name: Columbia Pictures
     type: media
@@ -13110,6 +13392,16 @@ organizations:
       role: member
       from: 1998
       to: 2007
+  consensys:
+    name: ConsenSys
+    type: company
+    founded: 2015
+    headquarters: Brooklyn, USA
+    status: active
+    stakeholders:
+    - person: joseph-lubin
+      role: founder
+      from: 2015
   conservation-international:
     name: Conservation International
     type: foundation
@@ -13196,6 +13488,9 @@ organizations:
     - person: ajay-singh-spicejet
       role: alumni
       note: MBA
+    - person: anthony-fauci
+      role: alumni
+      note: MD 1966 (first in class), Weill Cornell Medicine
   cornell-law:
     name: Cornell Law School
     type: university
@@ -13205,6 +13500,17 @@ organizations:
     - person: william-lynn
       role: alumni
       note: JD 1980
+  cornell-medical:
+    name: Cornell University Medical College
+    type: university
+    founded: 1898
+    headquarters: New York City, USA
+    status: active
+    note: Now Weill Cornell Medicine
+    stakeholders:
+    - person: anthony-fauci
+      role: alumni
+      note: MD 1966, first in class
   cornell-university:
     name: Cornell University
     type: university
@@ -13355,6 +13661,11 @@ organizations:
       from: 1953
       to: 1956
       note: Primo Rappresentante Permanente Italia
+    - person: thorbjorn-jagland
+      role: executive
+      from: 2009
+      to: 2019
+      note: Secretary General, first to be re-elected (2014)
   coursera:
     name: Coursera
     type: company
@@ -13898,6 +14209,18 @@ organizations:
       role: executive
       from: 2024
       note: Managing Director, Head of Italy - CVC DIF
+  cwi:
+    name: Centrum Wiskunde & Informatica
+    type: agency
+    founded: 1946
+    headquarters: Amsterdam, Netherlands
+    status: active
+    note: Dutch national research institute for mathematics and computer science
+    stakeholders:
+    - person: david-chaum
+      role: member
+      from: 2019
+      note: Dijkstra Fellow (honorary title)
   cyberark:
     name: CyberArk
     type: company
@@ -13945,6 +14268,19 @@ organizations:
       share: 1.0
       from: 2025
       note: $25B acquisition announced Jul 2025
+  cygnus-solutions:
+    name: Cygnus Solutions
+    type: company
+    founded: 1989
+    headquarters: Sunnyvale, USA
+    status: defunct
+    note: Free software company, acquired by Red Hat 1999 for $675M
+    stakeholders:
+    - person: john-gilmore
+      role: founder
+      from: 1989
+      to: 1999
+      note: Co-founder with Michael Tiemann and David Henkel-Wallace
   d-e-shaw:
     name: D.E. Shaw
     type: privateequity
@@ -14148,6 +14484,9 @@ organizations:
     - person: sanjiv-kapoor
       role: alumni
       note: BA Computer Science 1990
+    - person: niranjan-bose
+      role: alumni
+      note: PhD Biochemistry (Geisel School of Medicine), Business Bridge (Tuck)
   dassault-aviation:
     name: Dassault Aviation
     type: company
@@ -14201,6 +14540,17 @@ organizations:
     - person: andy-konwinski
       role: founder
       note: Co-founder, co-creator Apache Spark
+  datadog:
+    name: Datadog
+    type: company
+    founded: 2010
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: ami-vora
+      role: board
+      from: 2025
+      note: Board of Directors
   david-h-koch-foundation:
     name: David H. Koch Foundation
     type: foundation
@@ -14211,6 +14561,19 @@ organizations:
       role: executive
       from: 2019
       note: President
+  davis-polk:
+    name: Davis Polk & Wardwell LLP
+    type: company
+    founded: 1849
+    headquarters: New York, NY, USA
+    status: active
+    sector: Legal
+    stakeholders:
+    - person: thomas-glocer
+      role: executive
+      from: 1984
+      to: 1993
+      note: M&A lawyer, NY/Paris/Tokyo
   dbs:
     name: DBS Bank
     type: bank
@@ -14308,6 +14671,16 @@ organizations:
     headquarters: Arlington, Virginia, USA
     status: active
     sector: law-enforcement
+  decentral:
+    name: Decentral
+    type: company
+    founded: 2014
+    headquarters: Toronto, Canada
+    status: active
+    stakeholders:
+    - person: anthony-di-iorio
+      role: founder
+      from: 2014
   deeplearning-ai:
     name: DeepLearning.AI
     type: company
@@ -14538,6 +14911,16 @@ organizations:
       from: 1943
       to: 1954
       note: Segretario e Presidente
+  denali-therapeutics:
+    name: Denali Therapeutics
+    type: company
+    headquarters: South San Francisco, USA
+    status: active
+    note: Neurodegeneration therapeutics.
+    stakeholders:
+    - org: biomatics-capital
+      role: investor
+      note: Fund I portfolio company
   denver-broncos:
     name: Denver Broncos
     type: sportsclub
@@ -14875,6 +15258,27 @@ organizations:
     founded: 1994
     headquarters: Bucharest, Romania
     sector: telecom-media
+  digicash:
+    name: DigiCash
+    type: company
+    founded: 1990
+    headquarters: Amsterdam, Netherlands
+    status: defunct
+    note: Pioneering electronic cash company, bankrupt 1998
+    stakeholders:
+    - person: nick-szabo
+      role: consultant
+      from: 1993
+      to: 1994
+      note: Internet commerce consultant, 6 months
+    - person: david-chaum
+      role: founder
+      from: 1990
+      to: 1999
+      note: Founded in Amsterdam, created eCash
+    - person: eric-hughes
+      role: employee
+      note: Worked with David Chaum in Amsterdam before founding cypherpunks
   digicel:
     name: Digicel
     type: company
@@ -15473,6 +15877,18 @@ organizations:
       from: 2014
       to: 2017
       note: Non-executive Director
+  durrell-wildlife-trust:
+    name: Durrell Wildlife Conservation Trust
+    type: foundation
+    founded: 1963
+    headquarters: Jersey, Channel Islands
+    status: active
+    note: Originally Jersey Wildlife Preservation Trust. Renamed 1999 after founder death. Princess Anne patron.
+    stakeholders:
+    - person: gerald-durrell
+      role: founder
+      from: 1963
+      note: Founded as Jersey Wildlife Preservation Trust
   dwimuria-investama:
     name: PT Dwimuria Investama Andalan
     type: company
@@ -15558,6 +15974,16 @@ organizations:
     - person: mark-lazarus
       role: board
       note: Board of Directors
+  east-london:
+    name: University of East London
+    type: university
+    founded: 1898
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: peter-daszak
+      role: alumni
+      note: PhD Parasitic Infectious Diseases 1994
   eastern-seaboard:
     name: Eastern Seaboard Development Program
     type: agency
@@ -15877,6 +16303,49 @@ organizations:
     - org: xbotpark
       role: incubator
       note: Incubated unicorn, portable power
+  ecohealth-alliance:
+    name: EcoHealth Alliance
+    type: foundation
+    founded: 1971
+    headquarters: New York City, USA
+    status: defunct
+    note: Originally Wildlife Preservation Trust International (1971), renamed Wildlife Trust (1999), EcoHealth Alliance (2010).
+      Debarred from federal funding January 2025. Ceased operations April 2025, succeeded by Nature.Health.Global
+    stakeholders:
+    - person: peter-daszak
+      role: executive
+      from: 2001
+      to: 2025
+      note: President 2001-2025, fired January 6 2025, debarred May 2024
+    - person: shi-zhengli
+      role: partner
+      note: WIV collaborator on NIH grants, PREDICT program partner
+    - person: ralph-baric
+      role: partner
+      note: Collaborator on NIH grants, Co-PI Project DEFUSE 2018
+    - person: gerald-durrell
+      role: founder
+      from: 1971
+      note: Founded as Wildlife Preservation Trust International
+    - org: usaid
+      role: grant
+      note: PREDICT program 2009-2019, $210M total
+    - org: niaid
+      role: grant
+      from: 2014
+      to: 2020
+      note: Funded bat coronavirus research including Wuhan lab subgrant
+  ecolab:
+    name: Ecolab Inc.
+    type: company
+    headquarters: St. Paul, Minnesota, USA
+    status: active
+    note: Chemicals, water treatment, hygiene
+    stakeholders:
+    - person: michael-larson
+      role: board
+      from: 2012
+      note: Independent Director
   ecole-42:
     name: École 42
     type: university
@@ -16133,6 +16602,29 @@ organizations:
     - org: bri
       role: partner
       note: Infrastrutture ferroviarie e logistiche
+  eff:
+    name: Electronic Frontier Foundation
+    type: foundation
+    founded: 1990
+    headquarters: San Francisco, USA
+    status: active
+    note: Digital rights advocacy organization
+    stakeholders:
+    - person: john-gilmore
+      role: founder
+      from: 1990
+      to: 2021
+      note: Co-founder, board member until 2021
+  egenesis:
+    name: eGenesis
+    type: company
+    headquarters: Cambridge, USA
+    status: active
+    note: Xenotransplantation via gene editing.
+    stakeholders:
+    - org: biomatics-capital
+      role: investor
+      note: Fund I portfolio company
   egerton-capital:
     name: Egerton Capital
     type: hedgefund
@@ -16540,6 +17032,15 @@ organizations:
       role: chairman
       from: 2011
       note: Chairman
+  emory:
+    name: Emory University
+    type: university
+    headquarters: Atlanta, USA
+    status: active
+    stakeholders:
+    - person: shu-hongbing
+      role: alumni
+      note: PhD 1995
   emory-university:
     name: Emory University
     type: university
@@ -17301,6 +17802,16 @@ organizations:
     founded: 1946
     headquarters: New York
     status: active
+  eth-taipei:
+    name: ETHTaipei
+    type: forum
+    founded: 2018
+    headquarters: Taipei, Taiwan
+    status: active
+    stakeholders:
+    - person: hsiao-wei-wang
+      role: founder
+      from: 2018
   eth-zurich:
     name: ETH Zurich
     type: university
@@ -17311,6 +17822,68 @@ organizations:
     - person: serge-de-pahlen
       role: alumni
       note: Undergraduate degree
+  ethereum-foundation:
+    name: Ethereum Foundation
+    type: foundation
+    founded: 2014
+    headquarters: Zug, Switzerland
+    status: active
+    stakeholders:
+    - person: vitalik-buterin
+      role: founder
+      from: 2014
+      note: Co-founder, primary architect of Ethereum protocol
+    - person: gavin-wood
+      role: founder
+      from: 2014
+      to: 2016
+      note: CTO, created Solidity and EVM spec, left to create Polkadot
+    - person: charles-hoskinson
+      role: founder
+      from: 2014
+      to: 2014
+      note: Initial CEO, left over nonprofit dispute, founded Cardano
+    - person: joseph-lubin
+      role: founder
+      from: 2014
+      note: Early funder, founded ConsenSys
+    - person: anthony-di-iorio
+      role: founder
+      from: 2014
+      to: 2014
+      note: Initial financier, stepped back after nonprofit decision
+    - person: aya-miyaguchi
+      role: executive
+      from: 2018
+      note: Executive Director 2018-2025, President 2025-
+    - person: hsiao-wei-wang
+      role: executive
+      from: 2017
+      note: Researcher 2017-2025, Co-Executive Director 2025-, Board Member 2025-
+    - person: tomasz-stanczak
+      role: executive
+      from: 2025
+      note: Co-Executive Director 2025-, founder of Nethermind
+    - person: jutta-steiner
+      role: executive
+      from: 2014
+      to: 2016
+      note: Chief of Security
+    - person: mihai-alisie
+      role: founder
+      from: 2014
+      to: 2015
+      note: Co-founder, Vice-President
+    - person: amir-chetrit
+      role: founder
+      from: 2013
+      to: 2014
+      note: Co-founder, stepped back June 2014
+    - person: jeffrey-wilcke
+      role: founder
+      from: 2014
+      to: 2018
+      note: Lead Developer Go-Ethereum (Geth)
   ethics-public-policy-center:
     name: Ethics and Public Policy Center
     type: thinktank
@@ -17960,6 +18533,9 @@ organizations:
     - person: sigrid-kaag
       role: alumni
       note: MA Middle East Studies 1988, Honorary LLD 2015
+    - person: adam-back
+      role: alumni
+      note: PhD Computer Science (Distributed Systems) 1996
   exim-bank-china:
     name: Export-Import Bank of China
     type: bank
@@ -18232,6 +18808,16 @@ organizations:
       role: spin-off
       from: 1957
       note: Traitorous Eight defected to found Fairchild
+  faire:
+    name: Faire
+    type: company
+    founded: 2017
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: ami-vora
+      role: executive
+      note: Chief Product Officer
   fanatics:
     name: Fanatics
     type: company
@@ -18488,6 +19074,9 @@ organizations:
       from: 1979
       to: 1986
       note: Governor; appointed by Carter; second Black member
+    - person: mary-erdoes
+      role: advisor
+      note: Investor Advisory Committee on Financial Markets
     - org: jpmorgan-chase
       role: partner
     - org: bis
@@ -18587,6 +19176,9 @@ organizations:
     - person: jose-antonio-fernandez-carbajal
       role: chairman
       from: 2001
+    - person: michael-larson
+      role: board
+      note: Director
   fenerbahce:
     name: Fenerbahce SK
     type: sportsclub
@@ -18762,6 +19354,17 @@ organizations:
     - person: fernando-moreira-salles
       role: member
       note: Laurea Economia
+  fia:
+    name: Fédération Internationale de l'Automobile
+    founded: 1904
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: jean-todt
+      role: executive
+      from: 2009
+      to: 2021
+      note: President
   fiat:
     name: Fiat S.p.A.
     type: automaker
@@ -18952,6 +19555,62 @@ organizations:
     - org: columbus-nova
       role: investor
       note: $50M+, led to collapse after Vekselberg sanctions
+  figma:
+    name: Figma
+    type: company
+    founded: 2012
+    headquarters: San Francisco, USA
+    status: active
+    sector: software
+    stakeholders:
+    - person: mike-krieger
+      role: board
+      from: 2025
+      note: Board of Directors
+    - person: dylan-field
+      role: founder
+      from: 2012
+      note: CEO, Co-founder
+    - person: evan-wallace
+      role: founder
+      from: 2012
+      to: 2021
+      note: CTO, Co-founder
+    - person: john-lilly
+      role: board
+      from: 2015
+      note: Board of Directors, Greylock partner
+    - person: andrew-reed
+      role: board
+      from: 2019
+      note: Board of Directors, Sequoia partner
+    - person: danny-rimer
+      role: board
+      note: Board of Directors, Index Ventures partner
+    - person: luis-von-ahn
+      role: board
+      note: Board of Directors, CEO Duolingo
+    - person: bill-mcdermott
+      role: board
+      note: Board of Directors, CEO ServiceNow
+    - org: greylock
+      role: investor
+      from: 2015
+      note: Led Series A ($14M)
+    - org: andreessen-horowitz
+      role: investor
+      note: Pre-IPO investor
+    - org: kleiner-perkins
+      role: investor
+      note: Series B investor
+    - org: index-ventures
+      role: investor
+      from: 2015
+      note: Early investor
+    - org: sequoia
+      role: investor
+      from: 2019
+      note: Led Series C ($40M)
   fii-saudi:
     name: Future Investment Initiative
     type: forum
@@ -19227,6 +19886,17 @@ organizations:
     - person: michael-rosenblatt
       role: advisor
       note: Senior Adviser
+  flashbots:
+    name: Flashbots
+    type: company
+    founded: 2020
+    headquarters: Remote
+    status: active
+    stakeholders:
+    - person: tomasz-stanczak
+      role: executive
+      from: 2021
+      note: Early team member, President
   fleetboston:
     name: FleetBoston Financial
     type: bank
@@ -19245,6 +19915,19 @@ organizations:
     stakeholders:
     - person: sara-sutton-fell
       role: founder
+  flipboard:
+    name: Flipboard
+    type: company
+    founded: 2010
+    headquarters: Palo Alto, USA
+    status: active
+    sector: media
+    stakeholders:
+    - person: dylan-field
+      role: intern
+      from: 2011
+      to: 2012
+      note: Software engineering intern, then Technical PM
   florida-state-university:
     name: Florida State University
     type: university
@@ -19880,6 +20563,18 @@ organizations:
     stakeholders:
     - person: xavier-niel
       role: founder
+  free-software-foundation:
+    name: Free Software Foundation
+    type: foundation
+    founded: 1985
+    headquarters: Boston, USA
+    status: active
+    note: GNU Project, free software advocacy
+    stakeholders:
+    - person: john-gilmore
+      role: board
+      from: 2024
+      note: Board member since June 2024
   freedom-house:
     name: Freedom House
     type: thinktank
@@ -20430,6 +21125,38 @@ organizations:
       from: 2014
       to: 2020
       note: CEO (first physician, first non-Microsoft executive)
+    - person: boris-nikolic
+      role: advisor
+      from: 2007
+      to: 2015
+      note: Chief Advisor Science & Technology to Bill Gates
+    - person: julie-sunderland
+      role: executive
+      from: 2009
+      to: 2016
+      note: Director, Program Related Investments ($1.5B portfolio)
+    - person: niranjan-bose
+      role: executive
+      from: 2007
+      to: 2014
+      note: Chief of Staff to President Global Health Program
+  gates-ventures:
+    name: Gates Ventures
+    type: company
+    founded: 2008
+    headquarters: Kirkland, Washington, USA
+    status: active
+    note: Personal office di Bill Gates per ricerca, think tank e investimenti strategici. Ex Carillon Holdings (marzo 2008),
+      poi bgC3 (luglio 2008), poi Gates Ventures (2018)
+    stakeholders:
+    - person: bill-gates
+      role: founder
+      from: 2008
+      note: Fondatore e proprietario
+    - person: niranjan-bose
+      role: executive
+      from: 2014
+      note: Managing Director Health & Life Sciences
   gatestone-institute:
     name: Gatestone Institute
     type: thinktank
@@ -20746,6 +21473,18 @@ organizations:
       from: 1945
       to: 1954
       note: Alleged collaboration before escape to Syria
+  gemini-exchange:
+    name: Gemini
+    type: company
+    founded: 2014
+    headquarters: New York, USA
+    stakeholders:
+    - person: tyler-winklevoss
+      role: founder
+      from: 2014
+    - person: cameron-winklevoss
+      role: founder
+      from: 2014
   gemstar-tv-guide:
     name: Gemstar TV Guide International
     type: media
@@ -21039,6 +21778,15 @@ organizations:
       role: board
       from: 2022
       note: Independent Director
+  george-mason:
+    name: George Mason University
+    type: university
+    headquarters: Fairfax, USA
+    status: active
+    stakeholders:
+    - person: jeffery-taubenberger
+      role: alumni
+      note: BS Biology 1982
   george-washington-university:
     name: George Washington University
     type: university
@@ -21059,6 +21807,9 @@ organizations:
     - person: clay-jones
       role: alumni
       note: MBA 1986
+    - person: nick-szabo
+      role: alumni
+      note: JD (Juris Doctor) ~2006
   georgetown:
     name: Georgetown University
     type: university
@@ -21078,6 +21829,16 @@ organizations:
     - person: mark-weinberger
       role: alumni
       note: LLM Taxation
+    - person: mary-erdoes
+      role: alumni
+      note: BA Mathematics
+    - person: anthony-fauci
+      role: academic
+      from: 2023
+      note: Distinguished Professor, School of Medicine and McCourt School of Public Policy
+    - person: tom-inglesby
+      role: alumni
+      note: BA 1988
   georgetown-university:
     name: Georgetown University
     type: university
@@ -21207,6 +21968,9 @@ organizations:
       role: executive
       from: 2019
       note: Chairman & CEO
+    - person: ralph-baric
+      role: partner
+      note: Remdesivir development partnership, first FDA-approved COVID-19 antiviral
     - org: menlo-ventures
       role: stake
       note: Early investor (biotech)
@@ -21378,6 +22142,18 @@ organizations:
       role: chairman
       from: 2009
       to: 2011
+  global-health-labs:
+    name: Global Health Labs
+    type: foundation
+    headquarters: USA
+    status: active
+    note: Non-profit per innovazioni sanitarie in Africa Sub-Sahariana e Sud Asia
+    stakeholders:
+    - person: niranjan-bose
+      role: board
+      from: 2020
+      to: 2021
+      note: Board Member, Interim CEO (Jul 2020-Jul 2021)
   globalfoundries:
     name: GlobalFoundries
     type: company
@@ -21693,6 +22469,9 @@ organizations:
     - person: anthony-noto
       role: executive
       note: Co-Head Global TMT Investment Banking
+    - person: joseph-lubin
+      role: executive
+      note: VP Technology, Private Wealth Management
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -21842,6 +22621,14 @@ organizations:
       from: 2014
       to: 2014
       note: Led satellite internet initiative before WorldVu/OneWeb
+    - person: kevin-systrom
+      role: employee
+      from: 2006
+      to: 2008
+      note: Associate Product Marketing Manager
+    - person: ben-mann
+      role: engineer
+      note: Waze Carpool
     - org: alphabet
       share: 100
       note: Wholly owned subsidiary since 2015
@@ -22023,6 +22810,13 @@ organizations:
       share: 75%
       from: 2023
       note: Acquired 75% of Tokopedia Dec 2023
+  government-el-salvador:
+    name: Government of El Salvador
+    type: government
+    stakeholders:
+    - person: nayib-bukele
+      role: leader
+      from: 2019
   governo-argentina:
     name: Gobierno de Argentina
     type: government
@@ -22714,6 +23508,11 @@ organizations:
       role: minister
       from: 2012
       to: 2016
+    - person: tedros-adhanom
+      role: minister
+      from: 2005
+      to: 2012
+      note: Ministro della Salute
   governo-finlandia:
     name: Governo Finlandia
     type: government
@@ -23339,6 +24138,10 @@ organizations:
       from: 1965
       to: 1999
       note: Crown Prince
+    - person: zeid-raad-al-hussein
+      role: diplomat
+      from: 1996
+      note: Deputy Perm Rep UN 1996-2000, Perm Rep UN 2000-2007 & 2010-2014, Ambassador USA 2007-2010
   governo-grecia:
     name: Governo Grecia
     type: government
@@ -24615,10 +25418,27 @@ organizations:
       role: minister
       from: 1974
       to: 1979
+      note: Min. Ambiente, prima donna al mondo
+    - person: gro-harlem-brundtland
+      role: leader
+      from: 1981
+      to: 1981
+      note: PM feb-ott, prima donna PM Norvegia
+    - person: gro-harlem-brundtland
+      role: leader
+      from: 1986
+      to: 1989
+      note: PM secondo mandato
     - person: gro-harlem-brundtland
       role: leader
       from: 1990
       to: 1996
+      note: PM terzo mandato
+    - person: gro-harlem-brundtland
+      role: legislator
+      from: 2023
+      to: 2024
+      note: Oslo City Council, dimessa dic 2024
     - person: borge-brende
       role: minister
       from: 2013
@@ -25808,6 +26628,11 @@ organizations:
       from: 2016
       to: 2019
       note: Prime Minister
+    - person: valerie-amos
+      role: minister
+      from: 2003
+      to: 2007
+      note: Secretary of State International Development 2003, Leader House of Lords 2003-2007
     - person: george-osborne
       role: minister
       from: 2010
@@ -27020,6 +27845,26 @@ organizations:
     - person: bay-fang
       role: official
       note: Deputy Assistant Secretary of State (Europe & Eurasia public diplomacy)
+    - person: anthony-fauci
+      role: advisor
+      from: 2021
+      to: 2022
+      note: Chief Medical Advisor to the President
+    - person: da-henderson
+      role: advisor
+      from: 2001
+      to: 2003
+      note: Director, Office of Public Health Preparedness (HHS)
+    - person: tom-inglesby
+      role: advisor
+      from: 2021
+      to: 2022
+      note: White House COVID-19 Response Team, National Testing Coordinator
+    - person: tara-otoole
+      role: minister
+      from: 2009
+      to: 2013
+      note: Under Secretary for Science & Technology, DHS
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -27104,6 +27949,36 @@ organizations:
     - org: governo-giappone
       role: owner
       note: Reports to Ministry of Health, Labour and Welfare
+  gpmb:
+    name: Global Preparedness Monitoring Board
+    type: agency
+    founded: 2018
+    headquarters: Geneva, Switzerland
+    status: active
+    stakeholders:
+    - person: gro-harlem-brundtland
+      role: chairman
+      from: 2018
+      to: 2021
+      note: Co-Chair with Elhadj As Sy
+    - org: who
+      role: founder
+      from: 2018
+      note: Co-convener
+    - org: world-bank
+      role: founder
+      from: 2018
+      note: Co-convener
+  grail:
+    name: GRAIL
+    type: company
+    headquarters: Menlo Park, USA
+    status: active
+    note: Cancer screening diagnostics. IPO NASDAQ Jun 2024. Backed by Gates, Bezos.
+    stakeholders:
+    - org: biomatics-capital
+      role: investor
+      note: Fund I portfolio company
   grameen-foundation:
     name: Grameen Foundation
     type: foundation
@@ -27167,6 +28042,11 @@ organizations:
     - person: zico-kolter
       role: advisor
       note: Chief Technical Advisor
+  grayscale:
+    name: Grayscale Investments
+    type: assetmanager
+    founded: 2013
+    headquarters: Stamford, USA
   great-west-lifeco:
     name: Great-West Lifeco
     type: company
@@ -27222,6 +28102,20 @@ organizations:
       from: 2022
       to: 2022
       note: Venture Partner
+    - person: john-lilly
+      role: partner
+      note: Venture Partner
+  grid-games:
+    name: Grid Games
+    type: company
+    founded: 2018
+    headquarters: Amsterdam, Netherlands
+    status: active
+    stakeholders:
+    - person: jeffrey-wilcke
+      role: founder
+      from: 2018
+      note: Founder, CEO, Technical Director
   grinnell-college:
     name: Grinnell College
     type: university
@@ -27580,6 +28474,19 @@ organizations:
       from: 2017
       to: 2018
       note: First Indian GSMA Chairman; Board 2005-2008
+  guangzhou-laboratory:
+    name: Guangzhou Laboratory
+    type: agency
+    founded: 2021
+    headquarters: Guangzhou, China
+    status: active
+    note: 'National research institute for infectious diseases. Director: Zhong Nanshan. Joint venture with Cold Spring Harbor
+      Laboratory.'
+    stakeholders:
+    - person: shi-zhengli
+      role: academic
+      from: 2024
+      note: Senior Scientist, transferred from WIV
   guardian-council:
     name: Guardian Council
     type: agency
@@ -28043,6 +28950,9 @@ organizations:
     headquarters: Cambridge, USA
     status: active
     stakeholders:
+    - person: gro-harlem-brundtland
+      role: alumni
+      note: MPH Public Health 1965
     - person: jared-kushner
       role: alumni
       note: BA Government 2003
@@ -28174,6 +29084,21 @@ organizations:
     - person: guido-goldman
       role: executive
       note: Founding Director, Center for European Studies
+    - person: ami-vora
+      role: alumni
+      note: BA Computer Science
+    - person: mary-erdoes
+      role: alumni
+      note: MBA 1993
+    - person: boris-nikolic
+      role: alumni
+      note: PhD Immunology 1994, Assistant Professor Medicine
+    - person: julie-sunderland
+      role: alumni
+      note: BA
+    - person: jeanne-marrazzo
+      role: alumni
+      note: BA Biology
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -29114,6 +30039,16 @@ organizations:
     - person: stuart-gulliver
       role: advisor
       note: International Advisory Council
+  hku-utrecht:
+    name: Utrecht School of the Arts (HKU)
+    type: university
+    founded: 1987
+    headquarters: Utrecht, Netherlands
+    status: active
+    stakeholders:
+    - person: jeffrey-wilcke
+      role: alumni
+      note: 2003-2006
   hkust:
     name: Hong Kong University of Science and Technology
     type: university
@@ -29210,6 +30145,16 @@ organizations:
     - person: richard-perle
       role: board
       note: Executive Committee
+  holy-cross:
+    name: College of the Holy Cross
+    type: university
+    founded: 1843
+    headquarters: Worcester, USA
+    status: active
+    stakeholders:
+    - person: anthony-fauci
+      role: alumni
+      note: BA Classics 1962
   honda:
     name: Honda Motor Co., Ltd.
     type: automaker
@@ -29519,6 +30464,15 @@ organizations:
       role: executive
       from: 2011
       note: Executive Director, CEO Consumer Business Group
+  huazhong-agricultural-university:
+    name: Huazhong Agricultural University
+    type: university
+    headquarters: Wuhan, China
+    status: active
+    stakeholders:
+    - person: chen-huagui
+      role: academic
+      note: Director, Professor
   hudson-institute:
     name: Hudson Institute
     type: thinktank
@@ -29637,6 +30591,16 @@ organizations:
       role: chairman
       from: 2004
       note: Executive Chairman
+  hyperledger:
+    name: Hyperledger
+    type: foundation
+    founded: 2015
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: joseph-lubin
+      role: board
+      note: Governing Board member
   hypo-alpe-adria:
     name: Hypo Alpe Adria Group
     type: bank
@@ -29680,6 +30644,18 @@ organizations:
     stakeholders:
     - person: hanli-prinsloo
       role: founder
+  iacr:
+    name: International Association for Cryptologic Research
+    type: foundation
+    founded: 1982
+    headquarters: Global
+    status: active
+    note: Academic organization for cryptography conferences
+    stakeholders:
+    - person: david-chaum
+      role: founder
+      from: 1982
+      note: Founded the organization, IACR Fellow 2004
   iaea:
     name: International Atomic Energy Agency
     type: agency
@@ -30819,6 +31795,10 @@ organizations:
       from: 2006
       to: 2023
       note: CEO
+    - person: tara-otoole
+      role: executive
+      from: 2014
+      note: Executive VP, Senior Fellow
     - org: cia
       role: founder
       from: 1999
@@ -30907,6 +31887,10 @@ organizations:
     founded: 1996
     headquarters: Geneva, Switzerland
     status: active
+    stakeholders:
+    - person: danny-rimer
+      role: partner
+      note: Partner
   indian-national-congress:
     name: Indian National Congress
     type: party
@@ -31270,6 +32254,29 @@ organizations:
     - person: pedro-moreira-salles
       role: board
       note: Supervisory Board member
+  instagram:
+    name: Instagram
+    type: media
+    founded: 2010
+    headquarters: San Francisco, USA
+    status: acquired
+    sector: social media
+    stakeholders:
+    - person: mike-krieger
+      role: founder
+      from: 2010
+      to: 2018
+      note: Co-founder & CTO
+    - person: kevin-systrom
+      role: founder
+      from: 2010
+      to: 2018
+      note: Co-founder & CEO
+    - org: meta
+      role: owner
+      share: 1.0
+      from: 2012
+      note: Acquired for $1B
   institut-merieux:
     name: Institut Mérieux
     type: pharma
@@ -31463,6 +32470,11 @@ organizations:
       from: 1981
       to: 1986
       note: Developer tools for x86 platform
+    - person: timothy-may
+      role: executive
+      from: 1974
+      to: 1986
+      note: Senior Scientist. Discovered alpha particle problem. IEEE Baker Award 1981. Retired at 35.
     - org: blackrock
       role: stake
       share: 0.09
@@ -31536,6 +32548,18 @@ organizations:
       role: founder
       from: 1993
       note: Founder, Chairman
+  international-criminal-court:
+    name: International Criminal Court
+    type: agency
+    founded: 2002
+    headquarters: The Hague, Netherlands
+    status: active
+    stakeholders:
+    - person: zeid-raad-al-hussein
+      role: executive
+      from: 2002
+      to: 2005
+      note: First President, Assembly of State Parties
   international-diamond-industries:
     name: International Diamond Industries
     type: company
@@ -31598,6 +32622,44 @@ organizations:
     - person: lynn-elsenhans
       role: board
       note: Independent Director
+  international-peace-institute:
+    name: International Peace Institute
+    type: thinktank
+    founded: 1970
+    headquarters: New York, USA
+    status: active
+    note: Founded as International Peace Academy (IPA), renamed 2008. UN peacekeeping think tank.
+    stakeholders:
+    - person: valerie-amos
+      role: board
+      note: Board of Directors
+    - person: terje-rod-larsen
+      role: executive
+      from: 2005
+      to: 2020
+      note: President
+    - person: zeid-raad-al-hussein
+      role: executive
+      from: 2021
+      note: President and CEO
+    - person: jean-todt
+      role: chairman
+      from: 2023
+      note: Chair of Board of Directors (board member since 2015)
+    - person: indar-jit-rikhye
+      role: founder
+      from: 1970
+      note: Co-founder and first President
+    - person: david-malone
+      role: executive
+      from: 1998
+      to: 2004
+      note: President
+    - person: olara-otunnu
+      role: executive
+      from: 1990
+      to: 1998
+      note: President
   international-press-institute:
     name: International Press Institute
     type: agency
@@ -31913,6 +32975,21 @@ organizations:
       from: 1977
       to: 1991
       note: First Deputy Director 1987-1991
+  iohk:
+    name: Input Output Global (IOHK)
+    type: company
+    founded: 2015
+    headquarters: Wyoming, USA
+    status: active
+    stakeholders:
+    - person: charles-hoskinson
+      role: founder
+      from: 2015
+      note: Co-founder and CEO with Jeremy Wood
+    - person: jeremy-wood
+      role: founder
+      from: 2015
+      note: Co-founder, former Ethereum colleague of Hoskinson
   ion-asset-management:
     name: ION Asset Management Ltd.
     type: assetmanager
@@ -31944,6 +33021,18 @@ organizations:
     - person: douglas-flint
       role: chairman
       from: 2018
+  ipi:
+    name: International Peace Institute
+    type: thinktank
+    founded: 1970
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: terje-rod-larsen
+      role: executive
+      from: 2005
+      to: 2020
+      note: President and CEO - resigned over Epstein connections
   ipsos:
     name: Ipsos
     type: company
@@ -32604,6 +33693,17 @@ organizations:
     headquarters: Tokyo, Japan
     status: active
     sector: transport
+  japan-blockchain-association:
+    name: Japan Blockchain Association
+    type: forum
+    founded: 2016
+    headquarters: Tokyo, Japan
+    status: active
+    stakeholders:
+    - person: aya-miyaguchi
+      role: founder
+      from: 2016
+      note: Founder, Global Affiliations Head
   jardine-cycle-carriage:
     name: Jardine Cycle & Carriage Limited
     type: company
@@ -32864,6 +33964,28 @@ organizations:
     stakeholders:
     - org: battery-ventures
       role: investor
+  jh-health-security:
+    name: Johns Hopkins Center for Health Security
+    type: thinktank
+    founded: 1998
+    headquarters: Baltimore, USA
+    status: active
+    note: Originally Johns Hopkins Center for Civilian Biodefense Strategies (CCBS)
+    stakeholders:
+    - person: da-henderson
+      role: founder
+      from: 1998
+      to: 2016
+      note: Founding Director
+    - person: tom-inglesby
+      role: executive
+      from: 1998
+      note: Co-founder, current Director
+    - person: tara-otoole
+      role: executive
+      from: 1998
+      to: 2003
+      note: Co-founder, Director 2001-2003
   jin-jiang:
     name: Jin Jiang International
     type: company
@@ -32928,6 +34050,24 @@ organizations:
     - person: john-malone
       role: alumni
       note: MS Industrial Management 1964, PhD Operations Research 1967
+    - person: zeid-raad-al-hussein
+      role: alumni
+      note: BA
+    - person: da-henderson
+      role: executive
+      from: 1977
+      to: 1990
+      note: Dean, School of Public Health
+    - person: da-henderson
+      role: alumni
+      note: MPH 1960
+    - person: tom-inglesby
+      role: faculty
+      from: 1997
+      note: Professor Environmental Health & Engineering, Joint Appointment Medicine
+    - org: jh-health-security
+      role: subsidiary
+      note: Part of Bloomberg School of Public Health since 2017
   johns-hopkins-apl:
     name: Johns Hopkins APL
     type: thinktank
@@ -33173,6 +34313,10 @@ organizations:
       role: board
       from: 2024
       note: Board of Directors, Audit Committee
+    - person: mary-erdoes
+      role: executive
+      from: 1996
+      note: CEO Asset & Wealth Management (2009-), Operating Committee member
     - org: norges-bank-gpfg
       role: stake
     - org: wef
@@ -34265,6 +35409,18 @@ organizations:
       role: executive
       from: 2015
       note: Vice Chairman, Chairman & CEO Kraft Foods 2014-2015
+  kraken:
+    name: Kraken
+    type: company
+    founded: 2011
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: aya-miyaguchi
+      role: executive
+      from: 2013
+      to: 2017
+      note: VP Operations 2013-14, Managing Director Japan 2014-17
   krung-thai-bank:
     name: Krungthai Bank
     type: bank
@@ -34727,6 +35883,17 @@ organizations:
       role: founder
       from: 2017
       note: Founder, Executive Chairman
+  lantern-capital:
+    name: Lantern Capital
+    type: privateequity
+    founded: 2021
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: tomasz-stanczak
+      role: founder
+      from: 2021
+      note: Co-founder, General Partner
   larsen-toubro:
     name: Larsen & Toubro
     type: company
@@ -35377,6 +36544,11 @@ organizations:
       role: founder
       from: 2002
       note: Co-founder, Executive Chairman
+    - person: dylan-field
+      role: intern
+      from: 2010
+      to: 2010
+      note: Data analytics intern
   lionsgate:
     name: Lionsgate Entertainment
     type: media
@@ -35558,6 +36730,15 @@ organizations:
     - person: jorge-paulo-lemann
       role: board
       note: Board member, accounting scandal 2023
+  london-school-hygiene:
+    name: London School of Hygiene & Tropical Medicine
+    type: university
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: tedros-adhanom
+      role: alumni
+      note: MSc Immunology 1992
   lonmin:
     name: Lonmin
     type: company
@@ -35852,6 +37033,16 @@ organizations:
       share: 1.0
       from: 2012
       note: Acquired for $4.05B
+  lucian-blaga-sibiu:
+    name: Lucian Blaga University of Sibiu
+    type: university
+    founded: 1990
+    headquarters: Sibiu, Romania
+    status: active
+    stakeholders:
+    - person: mihai-alisie
+      role: alumni
+      note: Licentiate Cybernetics, Economy Informatics, Statistics 2010
   lucid-motors:
     name: Lucid Motors
     type: automaker
@@ -36544,6 +37735,15 @@ organizations:
     - org: state-street
       share: 4.0
       note: estimated
+  mastercard-foundation:
+    name: Mastercard Foundation
+    type: foundation
+    founded: 2006
+    headquarters: Toronto, Canada
+    status: active
+    stakeholders:
+    - person: valerie-amos
+      role: board
   mava-foundation:
     name: MAVA Foundation
     type: foundation
@@ -37447,6 +38647,10 @@ organizations:
     - person: reed-hastings
       role: board
       note: Facebook board member
+    - person: ami-vora
+      role: executive
+      from: 2007
+      note: VP Product WhatsApp, VP Facebook Ads, Instagram
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -37726,6 +38930,18 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  michigan:
+    name: University of Michigan
+    type: university
+    founded: 1817
+    headquarters: Ann Arbor, USA
+    status: active
+    stakeholders:
+    - person: francis-collins
+      role: academic
+      from: 1984
+      to: 1993
+      note: Professor of Internal Medicine and Human Genetics
   michigan-ross:
     name: University of Michigan Ross School of Business
     type: university
@@ -37866,6 +39082,15 @@ organizations:
       role: board
       from: 2007
       to: 2012
+    - person: ami-vora
+      role: engineer
+      note: Developer tools
+    - person: rahul-patil
+      role: engineer
+      note: Azure
+    - person: dylan-field
+      role: intern
+      note: Research assistant while at Brown
     - org: norges-bank-gpfg
       role: stake
       share: 0.011
@@ -37919,6 +39144,9 @@ organizations:
       role: executive
       to: 2018
       note: SVP, CTO, CIO - 10 years
+    - person: michael-saylor
+      role: founder
+      from: 1989
   middle-east-airlines:
     name: Middle East Airlines
     type: airline
@@ -38036,6 +39264,15 @@ organizations:
       share: 51%
       from: 2016
       note: ViacomCBS owns 49%
+  miri:
+    name: Machine Intelligence Research Institute
+    type: thinktank
+    founded: 2000
+    headquarters: Berkeley, USA
+    status: active
+    stakeholders:
+    - person: ben-mann
+      role: researcher
   misc-berhad:
     name: MISC Berhad
     type: company
@@ -38343,6 +39580,9 @@ organizations:
       role: chairman
       from: 2010
       note: Co-founder, Chairman
+    - person: ralph-baric
+      role: partner
+      note: mRNA vaccine research collaboration, coronavirus expertise
     - org: flagship-pioneering
       role: incubator
       from: 2010
@@ -38450,6 +39690,16 @@ organizations:
     founded: 1472
     headquarters: Siena, Italia
     status: active
+  montpellier:
+    name: University of Montpellier
+    type: university
+    founded: 1289
+    headquarters: Montpellier, France
+    status: active
+    stakeholders:
+    - person: shi-zhengli
+      role: alumni
+      note: PhD Biology of Organisms 2000
   montreal-expos:
     name: Montreal Expos
     type: sportsclub
@@ -39081,6 +40331,17 @@ organizations:
       role: owner
       from: 2018
       note: Acquisizione ostile via News Network Corp
+  national-academy-sciences:
+    name: National Academy of Sciences
+    type: agency
+    founded: 1863
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: ralph-baric
+      role: member
+      from: 2021
+      note: Elected member
   national-amusements:
     name: National Amusements
     type: company
@@ -39128,6 +40389,17 @@ organizations:
       share: 3.91%
     - org: vanguard
       share: 1.5%
+  national-chiao-tung-university:
+    name: National Chiao Tung University
+    type: university
+    founded: 1896
+    headquarters: Hsinchu, Taiwan
+    status: active
+    note: Merged into National Yang Ming Chiao Tung University in 2021
+    stakeholders:
+    - person: hsiao-wei-wang
+      role: alumni
+      note: MS Network Engineering
   national-city-bank:
     name: National City Bank of New York
     type: bank
@@ -39573,6 +40845,16 @@ organizations:
     - person: alan-garber
       role: executive
       note: Research Associate; founding Director Health Care Program 19 years
+  nc-state:
+    name: North Carolina State University
+    type: university
+    founded: 1887
+    headquarters: Raleigh, USA
+    status: active
+    stakeholders:
+    - person: ralph-baric
+      role: alumni
+      note: BSc Zoology, PhD Microbiology 1982
   ndtv:
     name: NDTV (New Delhi Television)
     type: media
@@ -39778,6 +41060,17 @@ organizations:
       role: stake
       share: 0.028
       note: 2.75%
+  nethermind:
+    name: Nethermind
+    type: company
+    founded: 2017
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: tomasz-stanczak
+      role: founder
+      from: 2017
+      note: CEO 2017-2025
   netscape:
     name: Netscape
     type: company
@@ -40198,6 +41491,18 @@ organizations:
       from: 2008
       to: 2010
       note: CFO & EVP
+  nhgri:
+    name: National Human Genome Research Institute
+    type: agency
+    founded: 1989
+    headquarters: Bethesda, USA
+    status: active
+    stakeholders:
+    - person: francis-collins
+      role: executive
+      from: 1993
+      to: 2008
+      note: Director, led Human Genome Project
   nhk:
     name: NHK (Japan Broadcasting Corporation)
     type: media
@@ -40221,6 +41526,30 @@ organizations:
       from: 2012
       to: 2018
       note: Director General
+  niaid:
+    name: National Institute of Allergy and Infectious Diseases
+    type: agency
+    founded: 1955
+    headquarters: Bethesda, USA
+    status: active
+    stakeholders:
+    - person: anthony-fauci
+      role: executive
+      from: 1984
+      to: 2022
+      note: Director NIAID for 38 years
+    - person: ralph-baric
+      role: advisor
+      note: Major grant recipient, AViDD Center $65M
+    - person: jeanne-marrazzo
+      role: executive
+      from: 2023
+      to: 2025
+      note: Director (first woman appointed)
+    - person: jeffery-taubenberger
+      role: executive
+      from: 2006
+      note: Senior Investigator since 2006, Acting Director 2025
   niarchos-foundation:
     name: Stavros Niarchos Foundation (SNF)
     type: foundation
@@ -40255,6 +41584,26 @@ organizations:
     stakeholders:
     - org: paramount-global
       share: 100%
+  nih:
+    name: National Institutes of Health
+    type: agency
+    founded: 1887
+    headquarters: Bethesda, USA
+    status: active
+    stakeholders:
+    - person: anthony-fauci
+      role: executive
+      from: 1968
+      to: 2022
+      note: Clinical Associate, then various leadership roles
+    - person: francis-collins
+      role: executive
+      from: 2009
+      to: 2021
+      note: Director NIH
+    - org: niaid
+      role: subsidiary
+      note: One of 27 NIH institutes and centers
   nike:
     name: Nike Inc.
     type: company
@@ -41296,6 +42645,15 @@ organizations:
       role: board
       from: 2015
       note: Board member
+  oberlin:
+    name: Oberlin College
+    type: university
+    headquarters: Oberlin, USA
+    status: active
+    stakeholders:
+    - person: da-henderson
+      role: alumni
+      note: BA 1950
   observer-research-foundation:
     name: Observer Research Foundation
     type: thinktank
@@ -41472,6 +42830,16 @@ organizations:
     - person: nicholas-calio
       role: alumni
       note: BA English 1975, Board of Trustees Chair
+  oiler-network:
+    name: Oiler Network
+    type: company
+    founded: 2020
+    headquarters: Remote
+    status: active
+    stakeholders:
+    - person: tomasz-stanczak
+      role: founder
+      from: 2020
   okcoin:
     name: OKCoin
     type: company
@@ -42123,6 +43491,11 @@ organizations:
       from: 2020
       to: 2023
       note: Research Engineer, GPT-4 development
+    - person: ben-mann
+      role: researcher
+      from: 2016
+      to: 2020
+      note: GPT-3 co-architect
     - org: microsoft
       role: investor
       share: 27
@@ -42270,6 +43643,9 @@ organizations:
       from: 2004
       to: 2005
       note: EVP and CFO
+    - person: rahul-patil
+      role: executive
+      note: SVP Cloud Infrastructure
     - org: stargate-project
       role: partner
   orange:
@@ -42891,6 +44267,22 @@ organizations:
       role: joint-control
       from: 1981
       note: Joint control with Frère family
+  parity-technologies:
+    name: Parity Technologies
+    type: company
+    founded: 2015
+    headquarters: Berlin, Germany
+    status: active
+    stakeholders:
+    - person: gavin-wood
+      role: founder
+      from: 2015
+      note: Co-founder with Jutta Steiner, CEO until 2022, Chief Architect 2022-
+    - person: jutta-steiner
+      role: founder
+      from: 2015
+      to: 2021
+      note: Co-founder and CEO until 2021
   parlamento-danimarca:
     name: Parliament of Denmark
     type: government
@@ -43162,6 +44554,18 @@ organizations:
     stakeholders:
     - org: nbcuniversal
       share: 100%
+  peking-university:
+    name: Peking University
+    type: university
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - person: wang-yanyi
+      role: alumni
+      note: BA 2004
+    - person: chen-huagui
+      role: alumni
+      note: BS Biology 1935
   penguin-random-house:
     name: Penguin Random House
     type: media
@@ -43393,6 +44797,15 @@ organizations:
       from: 2004
       to: 2011
       note: President
+  pesit:
+    name: PES Institute of Technology
+    type: university
+    headquarters: Bangalore, India
+    status: active
+    stakeholders:
+    - person: rahul-patil
+      role: alumni
+      note: BE Computer Science 1998
   peter-kiewit:
     name: Peter Kiewit Sons Inc.
     type: company
@@ -43588,6 +45001,19 @@ organizations:
       role: board
       from: 2020
       note: Board of Directors
+  pgp-corporation:
+    name: PGP Corporation
+    type: company
+    founded: 1996
+    headquarters: Palo Alto, USA
+    status: acquired
+    note: Acquired by Symantec 2010
+    stakeholders:
+    - person: hal-finney
+      role: executive
+      from: 1996
+      to: 2011
+      note: Senior Software Engineer
   pheu-thai:
     name: Pheu Thai Party
     type: party
@@ -44421,6 +45847,16 @@ organizations:
     name: Power Grid Corporation
     type: company
     headquarters: Gurgaon, India
+  poznan-university-economics:
+    name: Poznan University of Economics and Business
+    type: university
+    founded: 1926
+    headquarters: Poznan, Poland
+    status: active
+    stakeholders:
+    - person: tomasz-stanczak
+      role: alumni
+      note: Business Administration 2005-2010 (non completato)
   precision-capital:
     name: Precision Capital
     type: privateequity
@@ -44500,6 +45936,9 @@ organizations:
     - person: michael-froman
       role: alumni
       note: BA Public and International Affairs
+    - person: joseph-lubin
+      role: alumni
+      note: BSE Electrical Engineering and Computer Science 1987
   prisa:
     name: Grupo PRISA
     type: media
@@ -44765,6 +46204,9 @@ organizations:
     stakeholders:
     - person: marie-josee-kravis
       role: board
+    - person: thomas-glocer
+      role: board
+      note: Director
     - org: blackrock
       role: shareholder
       share: 5.0
@@ -44777,6 +46219,15 @@ organizations:
     - person: antonoaldo-neves
       role: alumni
       note: Master Corporate Finance, IAG Business School
+  putnam-investments:
+    name: Putnam Investments
+    type: assetmanager
+    headquarters: Boston, Massachusetts, USA
+    status: active
+    stakeholders:
+    - person: michael-larson
+      role: executive
+      note: Bond fund manager
   pwc:
     name: PricewaterhouseCoopers
     type: company
@@ -45416,6 +46867,43 @@ organizations:
       role: board
       from: 2018
       note: Central board committee member
+  rbm-partnership:
+    name: RBM Partnership to End Malaria
+    type: agency
+    founded: 1998
+    headquarters: Geneva, Switzerland
+    status: active
+    stakeholders:
+    - person: tedros-adhanom
+      role: chairman
+      from: 2009
+      to: 2011
+      note: Chair
+    - person: gro-harlem-brundtland
+      role: founder
+      from: 1998
+      note: Initiated RBM as WHO Director-General
+    - person: kesetebirhan-admasu
+      role: executive
+      from: 2017
+      to: 2019
+      note: CEO
+    - org: gates-foundation
+      role: partner
+      note: Major donor and partner
+    - org: who
+      role: founder
+      from: 1998
+      note: Founding member, hosts secretariat
+    - org: undp
+      role: founder
+      from: 1998
+    - org: world-bank
+      role: founder
+      from: 1998
+    - org: unicef
+      role: founder
+      from: 1998
   rbs:
     name: Royal Bank of Scotland
     type: bank
@@ -45936,6 +47424,17 @@ organizations:
       share: 5.5
     - org: vanguard
       share: 3.5
+  republic-services:
+    name: Republic Services Inc.
+    type: company
+    headquarters: Phoenix, Arizona, USA
+    status: active
+    note: Waste management, secondo in USA dopo Waste Management
+    stakeholders:
+    - person: michael-larson
+      role: board
+      from: 2009
+      note: Director
   reserve-bank-india:
     name: Reserve Bank of India
     type: centralbank
@@ -46267,6 +47766,15 @@ organizations:
       from: 2003
       to: 2005
       note: Chairman RNC
+  robin-hood-foundation:
+    name: Robin Hood Foundation
+    type: foundation
+    founded: 1988
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: mary-erdoes
+      role: board
   roche:
     name: F. Hoffmann-La Roche AG
     type: pharma
@@ -46351,6 +47859,15 @@ organizations:
       share: 5.0%
     - org: vanguard
       share: 3.5%
+  rochester:
+    name: University of Rochester
+    type: university
+    headquarters: Rochester, USA
+    status: active
+    stakeholders:
+    - person: da-henderson
+      role: alumni
+      note: MD 1954
   rockefeller-brothers-fund:
     name: Rockefeller Brothers Fund
     type: foundation
@@ -46496,6 +48013,15 @@ organizations:
       from: 2013
       to: 2025
       note: Director, led Fox early investment
+  rollins-college:
+    name: Rollins College
+    type: university
+    headquarters: Winter Park, USA
+    status: active
+    stakeholders:
+    - person: gao-shangyin
+      role: alumni
+      note: BS 1931
   rolls-royce:
     name: Rolls-Royce Holdings plc
     type: company
@@ -48393,6 +49919,16 @@ organizations:
     headquarters: Madrid, Spain
     status: active
     sector: state-holding
+  sequoia:
+    name: Sequoia Capital
+    type: privateequity
+    founded: 1972
+    headquarters: Menlo Park, USA
+    status: active
+    stakeholders:
+    - person: andrew-reed
+      role: partner
+      note: Partner
   sequoia-capital:
     name: Sequoia Capital
     type: privateequity
@@ -49578,6 +51114,17 @@ organizations:
       role: founder
       from: 1998
       note: Primo direttore amministrativo
+  soas:
+    name: SOAS University of London
+    type: university
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: valerie-amos
+      role: executive
+      from: 2015
+      to: 2020
+      note: Director
   socal:
     name: Standard Oil of California (Socal)
     type: company
@@ -49676,6 +51223,9 @@ organizations:
       role: executive
       from: 2004
       note: Vice-President
+    - person: thorbjorn-jagland
+      role: board
+      note: Vice-President, Chair of Middle East Committee
   societe-generale:
     name: Société Générale
     type: bank
@@ -50105,6 +51655,15 @@ organizations:
       role: parent
       share: 1.0
       note: Wholly owned subsidiary
+  soochow-university:
+    name: Soochow University
+    type: university
+    headquarters: Suzhou, China
+    status: active
+    stakeholders:
+    - person: gao-shangyin
+      role: alumni
+      note: BS Biology 1930
   south-african-airways:
     name: South African Airways
     type: airline
@@ -50520,6 +52079,12 @@ organizations:
     - person: richard-fisher
       role: alumni
       note: MBA 1975
+    - person: mike-krieger
+      role: alumni
+      note: BS Symbolic Systems 2008
+    - person: kevin-systrom
+      role: alumni
+      note: BS Management Science & Engineering 2006, Sigma Nu, Mayfield Fellow
   stanford-hai:
     name: Stanford Human-Centered AI Institute
     type: thinktank
@@ -50852,6 +52417,16 @@ organizations:
       role: partner
       from: 2025
       note: Stargate JV founding partner
+  starknet-foundation:
+    name: StarkNet Foundation
+    type: foundation
+    founded: 2022
+    headquarters: Grand Cayman
+    status: active
+    stakeholders:
+    - person: tomasz-stanczak
+      role: board
+      from: 2022
   start-small:
     name: Start Small LLC
     type: foundation
@@ -51259,6 +52834,17 @@ organizations:
     - org: raiffeisen-bank-international
       share: 32
       note: UNIQA Raiffeisen Group
+  strategic-decisions-group:
+    name: Strategic Decisions Group
+    type: company
+    headquarters: Menlo Park, California, USA
+    status: active
+    note: Management consulting firm
+    stakeholders:
+    - person: niranjan-bose
+      role: executive
+      to: 2007
+      note: Senior Consultant, pharma/biotech strategy
   strathclyde:
     name: University of Strathclyde
     type: university
@@ -51308,6 +52894,9 @@ organizations:
       note: Co-founder, President
     - person: diane-greene
       role: board
+    - person: rahul-patil
+      role: executive
+      note: Chief Technology Officer
     - org: sequoia-capital
       from: 2011
       note: Early investor, Moritz on board
@@ -51429,6 +53018,11 @@ organizations:
       role: founder
       from: 1982
       note: Co-founder, BSD developer, led software
+    - person: john-gilmore
+      role: employee
+      from: 1982
+      to: 1985
+      note: 5th employee
     - org: oracle
       role: parent
       from: 2010
@@ -53306,13 +54900,18 @@ organizations:
     status: active
     stakeholders:
     - person: gro-harlem-brundtland
-      role: chairman
+      role: founder
+      from: 2007
+      note: Founding member, Deputy Chair 2013-2018, Acting Chair 2018
     - person: mary-robinson
       role: chairman
       from: 2018
       note: Chair; membro dal 2007
     - person: ernesto-zedillo
       role: member
+    - person: zeid-raad-al-hussein
+      role: member
+      from: 2019
   the-guardian:
     name: The Guardian
     type: media
@@ -53366,6 +54965,45 @@ organizations:
       role: partner
       from: 2010
       to: 2014
+  thiel-fellowship:
+    name: Thiel Fellowship
+    type: foundation
+    founded: 2011
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: peter-thiel
+      role: founder
+      from: 2011
+      note: Co-founder with Michael Gibson and Danielle Strachman
+    - person: chris-olah
+      role: member
+      from: 2012
+      note: Thiel Fellow 2012, later co-founded Anthropic
+    - person: dylan-field
+      role: member
+      from: 2012
+      note: Thiel Fellow 2012, $100k grant
+    - person: vitalik-buterin
+      role: member
+      from: 2014
+      note: Thiel Fellow 2014, founder of Ethereum
+    - person: austin-russell
+      role: member
+      from: 2013
+      note: Thiel Fellow 2013, founder of Luminar Technologies
+    - person: laura-deming
+      role: member
+      from: 2011
+      note: Thiel Fellow 2011 (inaugural class), founder of Longevity Fund
+    - person: lucy-guo
+      role: member
+      from: 2013
+      note: Thiel Fellow 2013, co-founder of Scale AI
+    - person: ritesh-agarwal
+      role: member
+      from: 2013
+      note: Thiel Fellow 2013, founder of OYO Rooms
   thoma-bravo:
     name: Thoma Bravo
     type: privateequity
@@ -53386,6 +55024,11 @@ organizations:
     name: Thomson Reuters
     type: media
     stakeholders:
+    - person: thomas-glocer
+      role: executive
+      from: 1993
+      to: 2011
+      note: VP & Deputy Counsel 1993, CEO Reuters 2001, CEO Thomson Reuters 2008-2011
     - person: mary-burke
       role: executive
     - person: roy-thomson
@@ -53542,6 +55185,18 @@ organizations:
       share: controlling
       from: 2023
       note: WWE + UFC merger
+  tmx-group:
+    name: TMX Group
+    type: company
+    founded: 2008
+    headquarters: Toronto, Canada
+    status: active
+    stakeholders:
+    - person: anthony-di-iorio
+      role: executive
+      from: 2016
+      to: 2016
+      note: First Chief Digital Officer, TSX
   tnk-bp:
     name: TNK-BP
     type: company
@@ -53666,6 +55321,16 @@ organizations:
       role: funder
       from: 2021
       note: 257m-gbp
+  toronto-metropolitan:
+    name: Toronto Metropolitan University
+    type: university
+    founded: 1948
+    headquarters: Toronto, Canada
+    status: active
+    stakeholders:
+    - person: anthony-di-iorio
+      role: alumni
+      note: B.Com Marketing 1998
   totalenergies:
     name: TotalEnergies SE
     type: company
@@ -54600,6 +56265,17 @@ organizations:
     - person: nikos-kardassis
       role: executive
       note: Finance and operational positions
+  twist-bioscience:
+    name: Twist Bioscience
+    type: company
+    founded: 2013
+    headquarters: San Francisco, USA
+    status: active
+    note: Synthetic DNA. IPO NASDAQ 2018.
+    stakeholders:
+    - org: biomatics-capital
+      role: investor
+      note: Portfolio company, IPO exit
   twitter:
     name: Twitter
     type: company
@@ -54767,6 +56443,22 @@ organizations:
     - person: henry-loomis
       role: alumni
       note: Graduate physics; assistant to Ernest Lawrence at Radiation Lab
+    - person: david-chaum
+      role: alumni
+      note: PhD Computer Science 1982
+    - person: eric-hughes
+      role: alumni
+      note: Mathematics
+  uc-santa-barbara:
+    name: University of California, Santa Barbara
+    type: university
+    founded: 1891
+    headquarters: Santa Barbara, USA
+    status: active
+    stakeholders:
+    - person: timothy-may
+      role: alumni
+      note: BS Physics 1974, Regents Scholarship, College of Creative Studies
   uc-santa-cruz:
     name: University of California, Santa Cruz
     type: university
@@ -55014,6 +56706,13 @@ organizations:
     headquarters: Washington DC, USA
     status: active
     stakeholders:
+    - person: gro-harlem-brundtland
+      role: board
+      from: 2002
+      to: 2023
+      note: Vice-Chair Board of Directors
+    - person: valerie-amos
+      role: board
     - person: narayana-murthy
       role: board
     - person: michael-dell
@@ -55047,6 +56746,20 @@ organizations:
     - person: mette-marit-of-norway
       role: diplomat
       note: Ambassador
+  unc:
+    name: University of North Carolina
+    type: university
+    founded: 1789
+    headquarters: Chapel Hill, USA
+    status: active
+    stakeholders:
+    - person: francis-collins
+      role: alumni
+      note: MD 1977 with honors
+    - person: ralph-baric
+      role: academic
+      from: 1986
+      note: William R. Kenan Jr. Distinguished Professor, Epidemiology
   uncf:
     name: United Negro College Fund
     type: foundation
@@ -55121,6 +56834,11 @@ organizations:
       role: chairman
       to: 2008
       note: Vice Chairman fino a merger Itau
+  unicef:
+    name: UNICEF
+    type: agency
+    headquarters: New York, USA
+    status: active
   unicredit:
     name: UniCredit SpA
     type: bank
@@ -55411,11 +57129,31 @@ organizations:
     headquarters: New York, USA
     status: active
     stakeholders:
+    - person: valerie-amos
+      role: executive
+      from: 2010
+      to: 2015
+      note: Under-Secretary-General for Humanitarian Affairs
     - person: nickolay-mladenov
       role: executive
       from: 2013
       to: 2020
       note: Special Rep Iraq 2013-15, Special Coordinator Middle East Peace 2015-20
+    - person: terje-rod-larsen
+      role: executive
+      from: 1994
+      to: 2004
+      note: UN Special Coordinator Middle East Peace Process, Under-Secretary-General
+    - person: mona-juul
+      role: executive
+      from: 2019
+      to: 2024
+      note: Permanent Representative of Norway, ECOSOC President 2019-2020
+    - person: zeid-raad-al-hussein
+      role: executive
+      from: 2014
+      to: 2018
+      note: High Commissioner for Human Rights
   united-shipbuilding-corporation:
     name: United Shipbuilding Corporation
     type: company
@@ -55493,6 +57231,16 @@ organizations:
       note: SVP Production 2001, Chairman 2013-
     - org: nbcuniversal
       share: 100%
+  universidad-francisco-marroquin:
+    name: Universidad Francisco Marroquín
+    type: university
+    founded: 1971
+    headquarters: Guatemala City, Guatemala
+    status: active
+    stakeholders:
+    - person: nick-szabo
+      role: faculty
+      note: Honorary Professor
   universita-bocconi:
     name: Universita Bocconi
     type: university
@@ -55570,6 +57318,15 @@ organizations:
       role: member
       from: 2015
       note: Honorary Professor
+  university-asmara:
+    name: University of Asmara
+    type: university
+    headquarters: Asmara, Eritrea
+    status: closed
+    stakeholders:
+    - person: tedros-adhanom
+      role: alumni
+      note: BSc Biology 1986
   university-cape-town:
     name: University of Cape Town
     type: university
@@ -55607,6 +57364,17 @@ organizations:
       role: chairman
       from: 2007
       note: Chairman Governing Body
+  university-college-oxford:
+    name: University College, Oxford
+    type: university
+    headquarters: Oxford, UK
+    status: active
+    note: Oldest Oxford college, founded 1249
+    stakeholders:
+    - person: valerie-amos
+      role: executive
+      from: 2020
+      note: Master (first Black, first woman)
   university-cologne:
     name: University of Cologne
     type: university
@@ -55617,6 +57385,15 @@ organizations:
     - person: gerrit-marx
       role: alumni
       note: PhD Business Administration
+  university-colorado:
+    name: University of Colorado
+    type: university
+    headquarters: Boulder, USA
+    status: active
+    stakeholders:
+    - person: wang-yanyi
+      role: alumni
+      note: MSc
   university-colorado-boulder:
     name: University of Colorado Boulder
     type: university
@@ -55663,6 +57440,15 @@ organizations:
     - person: robert-dudley
       role: alumni
       note: BS Chemical Engineering, Phi Kappa Psi
+  university-london:
+    name: University of London
+    type: university
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: chen-huagui
+      role: alumni
+      note: PhD 1939
   university-mannheim:
     name: University of Mannheim
     type: university
@@ -55700,6 +57486,15 @@ organizations:
     - person: sue-desmond-hellmann
       role: alumni
       note: BS Pre-Medicine 1978, MD 1982
+  university-nottingham:
+    name: University of Nottingham
+    type: university
+    headquarters: Nottingham, UK
+    status: active
+    stakeholders:
+    - person: tedros-adhanom
+      role: alumni
+      note: PhD Community Health 2000
   university-of-arkansas:
     name: University of Arkansas
     type: university
@@ -55962,6 +57757,16 @@ organizations:
     - person: jeff-dean
       role: alumni
       note: PhD Computer Science 1996
+  university-oslo:
+    name: University of Oslo
+    type: university
+    founded: 1811
+    headquarters: Oslo, Norway
+    status: active
+    stakeholders:
+    - person: gro-harlem-brundtland
+      role: alumni
+      note: MD Medicine 1963
   university-pretoria:
     name: University of Pretoria
     type: university
@@ -56020,6 +57825,19 @@ organizations:
     - person: antonoaldo-neves
       role: alumni
       note: MBA, Darden School of Business
+    - person: francis-collins
+      role: alumni
+      note: BS Chemistry 1970
+  university-washington:
+    name: University of Washington
+    type: university
+    founded: 1861
+    headquarters: Seattle, USA
+    status: active
+    stakeholders:
+    - person: nick-szabo
+      role: alumni
+      note: BS Computer Science 1989
   univision:
     name: Univision
     type: media
@@ -56077,6 +57895,9 @@ organizations:
       from: 2002
       to: 2004
       note: MS Engineering
+    - person: zeid-raad-al-hussein
+      role: academic
+      note: Perry World House Professor of Practice of Law and Human Rights
   upm:
     name: Universidad Politécnica de Madrid
     type: university
@@ -56217,6 +58038,8 @@ organizations:
       from: 2024
       note: President (7th in history)
     - person: ryan-mcinerney
+      role: board
+    - person: mary-erdoes
       role: board
   us-cyber-command:
     name: US Cyber Command
@@ -56376,6 +58199,11 @@ organizations:
     - person: george-lucas
       role: alumni
       note: BFA Film 1966
+    - person: ralph-baric
+      role: academic
+      from: 1982
+      to: 1986
+      note: Postdoctoral Fellow, Virology and Immunology
   usc-annenberg:
     name: USC Annenberg School for Communication and Journalism
     type: media
@@ -56493,6 +58321,16 @@ organizations:
     - person: rex-tillerson
       role: alumni
       note: BS Civil Engineering 1975, Tejas Club
+  utoronto:
+    name: University of Toronto
+    type: university
+    founded: 1827
+    headquarters: Toronto, Canada
+    status: active
+    stakeholders:
+    - person: anthony-di-iorio
+      role: faculty
+      note: Adjunct Professor, Faculty of Law
   valdai-club:
     name: Valdai Discussion Club
     type: thinktank
@@ -56751,6 +58589,16 @@ organizations:
       role: stake
       from: 2025
       note: Spin-off Jan 2026, distributed to Comcast shareholders
+  verve-therapeutics:
+    name: Verve Therapeutics
+    type: company
+    headquarters: Boston, USA
+    status: active
+    note: Gene editing for cardiovascular disease. Acquired by Lilly Jun 2025.
+    stakeholders:
+    - org: biomatics-capital
+      role: investor
+      note: Portfolio company, acquired by Lilly 2025
   vestas:
     name: Vestas Wind Systems A/S
     type: company
@@ -56928,6 +58776,9 @@ organizations:
     - person: carlos-domenech
       role: alumni
       note: BS Business Administration
+    - person: jeffery-taubenberger
+      role: alumni
+      note: MD 1986, PhD 1987 (Medical College of Virginia)
   virginia-tech:
     name: Virginia Tech
     type: university
@@ -57517,6 +59368,10 @@ organizations:
     - person: cesar-conde
       role: board
       note: Board of Directors
+    - person: kevin-systrom
+      role: board
+      from: 2014
+      note: Board of Directors
     - org: blackrock
       role: stake
       share: 0.036
@@ -57760,6 +59615,15 @@ organizations:
       note: Investor AB (Wallenberg) 18% primo azionista
     - org: vanguard
       share: 2.5%
+  warwick:
+    name: University of Warwick
+    type: university
+    headquarters: Coventry, UK
+    status: active
+    stakeholders:
+    - person: valerie-amos
+      role: alumni
+      note: BA Sociology
   waseda:
     name: Waseda University
     type: university
@@ -57770,6 +59634,15 @@ organizations:
     - person: hiroki-totoki
       role: alumni
       note: BA Business Administration
+  washington:
+    name: University of Washington
+    type: university
+    headquarters: Seattle, USA
+    status: active
+    stakeholders:
+    - person: rahul-patil
+      role: alumni
+      note: MBA
   washington-institute:
     name: Washington Institute for Near East Policy
     type: thinktank
@@ -57812,6 +59685,18 @@ organizations:
     - person: jim-mckelvey
       role: alumni
       note: BA Economics, BS Computer Science 1987; Trustee; $15M+ donor (engineering school renamed McKelvey)
+  waterloo:
+    name: University of Waterloo
+    type: university
+    founded: 1957
+    headquarters: Waterloo, Canada
+    status: active
+    stakeholders:
+    - person: vitalik-buterin
+      role: alumni
+      from: 2012
+      to: 2013
+      note: Computer Science (dropped out), research assistant for Ian Goldberg
   wdp:
     name: Warehouses De Pauw SA
     type: company
@@ -57820,6 +59705,17 @@ organizations:
     stakeholders:
     - org: state-street
       share: 0.25%
+  web3-foundation:
+    name: Web3 Foundation
+    type: foundation
+    founded: 2017
+    headquarters: Zug, Switzerland
+    status: active
+    stakeholders:
+    - person: gavin-wood
+      role: founder
+      from: 2017
+      note: Founder and President
   webuild:
     name: Webuild
     type: company
@@ -59298,6 +61194,15 @@ organizations:
     - person: michael-abramowitz
       role: member
       note: Agenda Contributor
+    - person: joseph-lubin
+      role: member
+      note: Davos speaker 2017, 2019, 2020
+    - person: aya-miyaguchi
+      role: member
+      from: 2019
+      note: Global Blockchain Council, Davos 2020, Presidio Principles
+    - person: terje-rod-larsen
+      role: member
     - org: bilderberg
       role: partner
     - org: fmi
@@ -59501,6 +61406,9 @@ organizations:
     - person: ravi-ahuja
       role: alumni
       note: BS Economics, MBA Strategic Management
+    - person: julie-sunderland
+      role: alumni
+      note: MBA
   wheaton-precious-metals:
     name: Wheaton Precious Metals
     type: company
@@ -59536,10 +61444,25 @@ organizations:
       role: executive
       from: 2017
       note: Director-General
+    - person: gro-harlem-brundtland
+      role: executive
+      from: 1998
+      to: 2003
+      note: Director-General, prima donna DG OMS
     - person: carl-bildt
       role: advisor
       from: 2021
       note: Special Envoy ACT-Accelerator
+    - person: peter-daszak
+      role: advisor
+      from: 2020
+      to: 2021
+      note: WHO COVID-19 Origins Investigation Team
+    - person: da-henderson
+      role: executive
+      from: 1966
+      to: 1977
+      note: Director Smallpox Eradication Campaign
     - org: gates-foundation
       role: funder
       from: 2000
@@ -60111,6 +62034,66 @@ organizations:
       from: 1995
       to: 1999
       note: Primo Director-General
+  wuhan-institute-virology:
+    name: Wuhan Institute of Virology
+    type: agency
+    founded: 1956
+    headquarters: Wuhan, China
+    status: active
+    note: Chinese Academy of Sciences, BSL-4 laboratory
+    stakeholders:
+    - person: shi-zhengli
+      role: executive
+      from: 1990
+      to: 2024
+      note: Director, Center for Emerging Infectious Diseases
+    - person: wang-yanyi
+      role: executive
+      from: 2018
+      note: Director General
+    - person: gao-shangyin
+      role: founder
+      from: 1956
+      to: 1984
+      note: Founding Director, 28 years
+    - person: chen-huagui
+      role: founder
+      from: 1956
+      note: Co-founder
+    - person: gengfu-xiao
+      role: executive
+      note: Deputy Director General
+    - org: ecohealth-alliance
+      role: grant
+      from: 2014
+      to: 2020
+      note: Subgrant $598,500 for bat coronavirus research
+  wuhan-university:
+    name: Wuhan University
+    type: university
+    founded: 1893
+    headquarters: Wuhan, China
+    status: active
+    stakeholders:
+    - person: shi-zhengli
+      role: alumni
+      note: BSc Genetics 1987
+    - person: wang-yanyi
+      role: alumni
+      note: PhD
+    - person: gao-shangyin
+      role: academic
+      from: 1935
+      to: 1989
+      note: Professor, Vice President
+    - person: chen-huagui
+      role: academic
+      from: 1947
+      note: Professor, Founded Agricultural Chemistry Dept
+    - person: shu-hongbing
+      role: academic
+      from: 2004
+      note: Dean College of Life Sciences 2005-2013, Vice President 2013-
   wwf:
     name: World Wildlife Fund
     type: foundation
@@ -60348,6 +62331,18 @@ organizations:
       share: 1.0
       from: 2024
       note: Wholly owned
+  xx-network:
+    name: xx network
+    type: company
+    founded: 2020
+    headquarters: USA
+    status: active
+    note: Privacy-focused quantum-resistant blockchain platform
+    stakeholders:
+    - person: david-chaum
+      role: founder
+      from: 2020
+      note: Founder and CEO
   y-combinator:
     name: Y Combinator
     type: privateequity
@@ -60431,6 +62426,21 @@ organizations:
     - person: michael-pack
       role: alumni
       note: English 1972-1973 (did not graduate)
+    - person: francis-collins
+      role: alumni
+      note: PhD Physical Chemistry 1974
+    - person: gao-shangyin
+      role: alumni
+      note: PhD 1935
+  yale-law-school:
+    name: Yale Law School
+    type: university
+    headquarters: New Haven, CT, USA
+    status: active
+    stakeholders:
+    - person: thomas-glocer
+      role: alumni
+      note: JD 1984
   yale-university:
     name: Yale University
     type: university
@@ -60648,6 +62658,18 @@ organizations:
     status: active
     sector: newspaper
     note: Largest circulation newspaper in world. Conservative. Owns NTV, Yomiuri Giants
+  york:
+    name: University of York
+    type: university
+    founded: 1963
+    headquarters: York, UK
+    status: active
+    stakeholders:
+    - person: gavin-wood
+      role: alumni
+      from: 1998
+      to: 2005
+      note: MEng Computer Systems 2002, PhD Music Visualization 2005
   young-global-leaders:
     name: Young Global Leaders
     type: forum

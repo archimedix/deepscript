@@ -103,10 +103,11 @@ Report che analizzano specifici settori economici.
 |--------|---------|-------|
 | [Media Power](media-power.md) | 1945-2025 | Dinastie media, PE, forum |
 
-### Farmaceutico
+### Farmaceutico e Sanità
 | Report | Periodo | Focus |
 |--------|---------|-------|
 | [Pharma Power](pharma-power.md) | 2000-2024 | Big Pharma, Gates, WHO |
+| [Pandemia COVID-19](pandemia-covid19.md) | 2020-2023 | Governance globale, vaccini, Gates-WHO-GAVI-CEPI |
 
 ### Automotive
 | Report | Periodo | Focus |
@@ -130,6 +131,11 @@ Report che analizzano specifici settori economici.
 | [Microsoft Geopolitical Hub](microsoft-geopolitical-hub.md) | 2007-2025 | Microsoft e geopolitica |
 | [AI Power Map](ai-power.md) | 2010-2026 | OpenAI, Anthropic, DeepSeek, ByteDance, corsa AGI |
 | [Silicon Valley Power Map](silicon-valley-power-map.md) | 1939-2026 | Stanford, VC, PayPal Mafia, AI labs, forum locali |
+
+### Crypto
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Bitcoin Power Map](bitcoin-power-map.md) | 1997-2025 | Cypherpunks, Satoshi, ETF, Trump reserve |
 
 ### Difesa
 | Report | Periodo | Focus |
@@ -312,6 +318,7 @@ Mappe di potere regionali:
 ### Report Settoriali
 Analisi di industrie specifiche:
 - [AI Power Map](ai-power.md)
+- [Bitcoin Power Map](bitcoin-power-map.md)
 - [Luxury Power Dynasties](luxury-power-dynasties.md)
 - [Media Power](media-power.md)
 - [Pharma Power](pharma-power.md)
@@ -323,7 +330,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 79 |
+| **Report totali** | 80 |
 | **Power Map geografici** | 44+ |
 | **Report tematici/settoriali** | 30+ |
 | **Periodo coperto** | 1897-2025 |

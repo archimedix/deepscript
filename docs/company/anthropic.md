@@ -23,7 +23,7 @@
 | Dato | Dettaglio |
 |------|-----------|
 | **Fondazione** | 2021 |
-| **Fondatori** | Dario Amodei, Daniela Amodei, Tom Brown, Chris Olah, Sam McCandlish, Jared Kaplan, Jack Clark |
+| **Fondatori** | Dario Amodei, Daniela Amodei, Tom Brown, Chris Olah, Sam McCandlish, Jared Kaplan, Jack Clark, Ben Mann |
 | **Contesto** | Scissione da OpenAI per divergenze sulla direzione e sicurezza dell'AI |
 | **Obiettivo dichiarato** | Sviluppare sistemi AI sicuri, benefici e comprensibili |
 
@@ -31,12 +31,13 @@
 
 | Anno | Evento |
 |------|--------|
-| **2021** | Fondazione da 7 ex-OpenAI |
+| **2021** | Fondazione da 8 ex-OpenAI |
 | **2023 Q1** | Lancio Claude, primo modello pubblico |
 | **2023 May** | Serie C $450M (Spark Capital, Google) - valutazione $4.1B |
 | **2023 Sep** | Amazon annuncia investimento fino a $4B |
 | **2023 Oct** | Google investe $2B |
 | **2024 Feb** | Serie D $750M (Menlo Ventures) |
+| **2024 May** | Mike Krieger (co-founder Instagram) entra come CPO |
 | **2024 Nov** | Amazon completa $8B totali, AWS diventa primary cloud partner |
 | **2025 Jan** | Google aggiunge $1B (totale ~$3B) |
 | **2025 Mar** | Serie E $3.5B (Lightspeed) - valutazione $61.5B |
@@ -44,6 +45,8 @@
 | **2025 Sep** | Serie F $13B (ICONIQ, Fidelity, Lightspeed) - valutazione $183B |
 | **2025 Dec** | Enterprise market share 40% (Menlo report) |
 | **2025** | Contratti defense con DoD e intelligence agencies |
+| **2025 Oct** | Rahul Patil (ex-CTO Stripe) entra come CTO; Sam McCandlish diventa Chief Architect |
+| **2025 Dec** | Lancio Anthropic Labs (Mike Krieger + Ben Mann), Ami Vora Head of Product |
 
 ---
 
@@ -56,10 +59,30 @@
 | CEO | [Dario Amodei](../persons/dario-amodei.md) | 2021 |
 | President | [Daniela Amodei](../persons/daniela-amodei.md) | 2021 |
 | Chief Science Officer | [Jared Kaplan](../persons/jared-kaplan.md) | 2021 |
-| Chief Architect | [Sam McCandlish](../persons/sam-mccandlish.md) | 2021 |
+| Chief Architect | [Sam McCandlish](../persons/sam-mccandlish.md) | 2025 (ex tech lead) |
 | Head Mechanistic Interpretability | [Chris Olah](../persons/chris-olah.md) | 2021 |
 | Head Core Resources | [Tom Brown](../persons/tom-brown.md) | 2021 |
 | Head of Policy | [Jack Clark](../persons/jack-clark.md) | 2021 |
+| Chief Technology Officer | [Rahul Patil](../persons/rahul-patil.md) | 2025 |
+| Head of Product | [Ami Vora](../persons/ami-vora.md) | 2025 |
+| Labs | [Mike Krieger](../persons/mike-krieger.md), [Ben Mann](../persons/ben-mann.md) | 2025 |
+
+### Riorganizzazione Leadership 2025
+
+| Cambio | Dettaglio |
+|--------|-----------|
+| **Rahul Patil** | Ex-CTO Stripe, entra come CTO (Oct 2025) |
+| **Sam McCandlish** | Da tech lead a Chief Architect |
+| **Ami Vora** | Ex-Meta/WhatsApp, entra come Head of Product (Dec 2025) |
+| **Mike Krieger** | Da CPO a Labs (Dec 2025) |
+| **Reporting** | CTO e Chief Architect riportano a Daniela Amodei |
+
+### Anthropic Labs
+
+Team dedicato a prodotti sperimentali alla frontiera delle capacita' di Claude:
+- **Lead**: Mike Krieger (ex-CPO, co-founder Instagram) + Ben Mann
+- **Focus**: Tinkering e sperimentazione, test con early users
+- **Obiettivo**: Bilanciare scoperta di nuovi prodotti con scaling delle esperienze Claude esistenti
 
 ### Caratteristiche Governance
 
@@ -131,7 +154,7 @@ Partnership [Menlo Ventures](../vc/menlo-ventures.md) + Anthropic (Jul 2024):
 
 ### Origine da OpenAI
 
-I 7 fondatori lasciarono [OpenAI](openai.md) nel 2021 per divergenze sulla direzione strategica e l'approccio alla sicurezza:
+Gli 8 fondatori lasciarono [OpenAI](openai.md) nel 2021 per divergenze sulla direzione strategica e l'approccio alla sicurezza:
 
 | Persona | Ruolo OpenAI | Pre-OpenAI | Ruolo Anthropic |
 |---------|--------------|------------|-----------------|
@@ -139,9 +162,10 @@ I 7 fondatori lasciarono [OpenAI](openai.md) nel 2021 per divergenze sulla direz
 | Daniela Amodei | VP Safety & Policy | Stripe | President |
 | Tom Brown | Lead Engineer GPT-3 | Google Brain | Head Core Resources |
 | Chris Olah | Lead Interpretability | Google Brain | Head Interpretability |
-| Sam McCandlish | Research Lead | Boston University (Postdoc) | Chief Architect |
+| Sam McCandlish | Research Lead | Boston University (Postdoc) | Chief Architect (2025, ex tech lead) |
 | Jared Kaplan | Researcher | Johns Hopkins (Professor) | Chief Science Officer |
 | Jack Clark | Policy Director | Bloomberg (Tech Reporter) | Head of Policy |
+| Ben Mann | Technical Staff (GPT-3) | Google, MIRI | Labs (ex Tech Lead Product Eng.) |
 
 ### Formazione Founders
 
@@ -154,8 +178,9 @@ I 7 fondatori lasciarono [OpenAI](openai.md) nel 2021 per divergenze sulla direz
 | Tom Brown | MIT | Undergraduate (self-taught ML) |
 | Chris Olah | Thiel Fellowship | No degree (dropout, $100K grant 2012) |
 | Jack Clark | Univ. of East Anglia | BA English Literature (humanities background) |
+| Ben Mann | Columbia | BS Computer Science |
 
-**Note**: 2 Hertz Fellows (Dario, Jared), 1 DOE Fellow (Sam), 1 Thiel Fellow (Chris). Solo 2 dei 7 founders non hanno titolo universitario avanzato. Jack Clark e' l'unico con background non-STEM.
+**Note**: 2 Hertz Fellows (Dario, Jared), 1 DOE Fellow (Sam), 1 Thiel Fellow (Chris). Solo 3 degli 8 founders non hanno titolo universitario avanzato (Tom, Chris, Jack). Jack Clark e' l'unico con background non-STEM.
 
 ### Contributi Tecnici dei Founders
 
@@ -167,6 +192,7 @@ I 7 fondatori lasciarono [OpenAI](openai.md) nel 2021 per divergenze sulla direz
 | Jared Kaplan | Scaling Laws (lead author), Constitutional AI, 125K+ citazioni |
 | Sam McCandlish | Scaling Laws (co-author), architettura Claude |
 | Jack Clark | AI Index Stanford (co-founder), AI policy framework |
+| Ben Mann | GPT-3 co-architetto, demo Microsoft, Claude Code tech lead |
 
 ### Riconoscimenti Founders
 
@@ -208,6 +234,8 @@ I 7 fondatori lasciarono [OpenAI](openai.md) nel 2021 per divergenze sulla direz
 ### Ufficiali
 - [Anthropic.com](https://www.anthropic.com)
 - [Anthropic Blog](https://www.anthropic.com/news)
+- [Rahul Patil joins Anthropic](https://www.anthropic.com/news/rahul-patil-joins-anthropic)
+- [Introducing Anthropic Labs](https://www.anthropic.com/news/introducing-anthropic-labs)
 
 ### Wikipedia
 - [Anthropic - Wikipedia](https://en.wikipedia.org/wiki/Anthropic)
@@ -221,4 +249,4 @@ I 7 fondatori lasciarono [OpenAI](openai.md) nel 2021 per divergenze sulla direz
 
 ---
 
-*Ultimo aggiornamento: 14 Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

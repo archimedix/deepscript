@@ -744,8 +744,8 @@ BIG THREE (Vanguard, BlackRock, State Street)
 | jane-henney | **Ex-FDA → AstraZeneca** | Stub |
 | michel-demare | Chairman AstraZeneca | Stub |
 | robert-davis | CEO/Chairman Merck | Stub |
-| thomas-glocer | **Lead Director Merck + Morgan Stanley, CFR** | Stub |
-| kathy-warden | **CEO Northrop Grumman → Merck board** | Stub |
+| **[thomas-glocer](../docs/persons/thomas-glocer.md)** | **Lead Director Merck + Morgan Stanley, CFR**, ex-CEO Thomson Reuters | **✅** |
+| **[kathy-warden](../docs/persons/kathy-warden.md)** | **CEO Northrop Grumman → Merck board** | **✅** |
 | emma-walmsley | CEO GSK, **Microsoft board** | Stub |
 | jonathan-symonds | Chairman GSK, ex-CFO Novartis+AZ | Stub |
 | luke-miels | Incoming CEO GSK | Stub |
@@ -840,8 +840,7 @@ PHARMA CEO ──► PhRMA Chair ──► Lobbying ──► FDA policy
 ---
 
 *Report creato: Dicembre 2025*
-*Ultimo aggiornamento: 30 Dicembre 2025*
+*Ultimo aggiornamento: 4 Febbraio 2025*
 *Entità documentate: 10 Pharma, 6 Agency, 2 Foundation, 1 University, 23 org totali*
-*Persone con schede complete: 5 (Hoffmann, Gottlieb, Hamburg, Bourla, Bertarelli) + 4 esistenti*
-*Nuove schede questa sessione: PhRMA, Harvard Medical School, Eli Lilly, Ernesto Bertarelli*
-*Persone stub: 20+*
+*Persone con schede complete: 7 (Hoffmann, Gottlieb, Hamburg, Bourla, Bertarelli, Glocer, Warden) + 4 esistenti*
+*Persone stub: 18+*

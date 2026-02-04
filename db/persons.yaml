@@ -148,6 +148,21 @@ persons:
       from: 2001
       to: 2011
       note: CEO - salvo KPN dal collasso, riorganizzazione massiva
+  adam-back:
+    born: 1970
+    nationality: GBR
+    affiliations:
+    - org: exeter
+      role: alumni
+      note: PhD Computer Science (Distributed Systems) 1996
+    - org: blockstream
+      role: founder
+      from: 2014
+      note: Co-founder, CEO from 2016
+    relations:
+    - person: nick-szabo
+      type: colleague
+      note: Cypherpunk collaborators
   adam-crozier:
     born: 1964
     nationality: GBR
@@ -2107,6 +2122,34 @@ persons:
     - person: yinon-costica
       type: colleague
       note: Co-founder Adallom (2012), Wiz (2020). Met in Talpiot/Unit 8200 (2001)
+  ami-vora:
+    nationality: USA
+    affiliations:
+    - org: microsoft
+      role: engineer
+      note: Developer tools
+    - org: meta
+      role: executive
+      from: 2007
+      note: VP Product WhatsApp, VP Facebook Ads, Instagram
+    - org: anthropic
+      role: executive
+      from: 2025
+      note: Head of Product
+    - org: harvard
+      role: alumni
+      note: BA Computer Science
+    - org: datadog
+      role: board
+      from: 2025
+      note: Board of Directors
+    - org: faire
+      role: executive
+      note: Chief Product Officer
+    relations:
+    - person: mike-krieger
+      type: colleague
+      note: Successore come Head of Product Anthropic
   amin-al-hafez:
     born: 1921
     died: 2009
@@ -2194,6 +2237,18 @@ persons:
       from: 1965
       to: 1977
       note: PM piu' longevo storia Iran, 12 anni. Eseguito 1979. | PM
+  amir-chetrit:
+    nationality: ISR-USA
+    affiliations:
+    - org: ethereum-foundation
+      role: founder
+      from: 2013
+      to: 2014
+      note: Co-founder, stepped back June 2014
+    relations:
+    - person: vitalik-buterin
+      type: colleague
+      note: Co-founder Ethereum 2013, met at Amsterdam Bitcoin conference
   amir-peretz:
     born: 1952
     nationality: ISR
@@ -3159,6 +3214,16 @@ persons:
     - person: dario-amodei
       type: mentor
       note: Recruited Dario to Baidu AI Lab
+  andrew-reed:
+    nationality: USA
+    affiliations:
+    - org: figma
+      role: board
+      from: 2019
+      note: Board of Directors, Sequoia partner
+    - org: sequoia
+      role: partner
+      note: Partner
   andrew-stein:
     born: 1945
     nationality: USA
@@ -3487,6 +3552,72 @@ persons:
       from: 1965
       to: 1983
       note: Editorial Committee
+  anthony-di-iorio:
+    born: 1975
+    nationality: CAN
+    affiliations:
+    - org: ethereum-foundation
+      role: founder
+      from: 2014
+      to: 2014
+      note: Initial financier, stepped back after nonprofit decision
+    - org: toronto-metropolitan
+      role: alumni
+      note: B.Com Marketing 1998
+    - org: utoronto
+      role: faculty
+      note: Adjunct Professor, Faculty of Law
+    - org: tmx-group
+      role: executive
+      from: 2016
+      to: 2016
+      note: First Chief Digital Officer, TSX
+    - org: decentral
+      role: founder
+      from: 2014
+    relations:
+    - person: charles-hoskinson
+      type: colleague
+      note: Co-founder Ethereum 2014, entrambi fazione for-profit
+    - person: vitalik-buterin
+      type: mentor
+      note: Introdusse Buterin nella comunita Bitcoin Toronto, co-founder Ethereum
+  anthony-fauci:
+    born: 1940
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2021
+      to: 2022
+      note: Chief Medical Advisor to the President
+    - org: georgetown
+      role: academic
+      from: 2023
+      note: Distinguished Professor, School of Medicine and McCourt School of Public Policy
+    - org: cornell
+      role: alumni
+      note: MD 1966 (first in class), Weill Cornell Medicine
+    - org: niaid
+      role: executive
+      from: 1984
+      to: 2022
+      note: Director NIAID for 38 years
+    - org: holy-cross
+      role: alumni
+      note: BA Classics 1962
+    - org: cornell-medical
+      role: alumni
+      note: MD 1966, first in class
+    - org: nih
+      role: executive
+      from: 1968
+      to: 2022
+      note: Clinical Associate, then various leadership roles
+    relations:
+    - person: francis-collins
+      type: colleague
+      note: NIH leadership, coordinated COVID response
   anthony-griffin:
     born: 1911
     died: 2015
@@ -4409,6 +4540,14 @@ persons:
     - person: alexander-king
       type: colleague
       note: Co-fondatori Club of Rome
+  austin-russell:
+    born: 1995
+    nationality: USA
+    affiliations:
+    - org: thiel-fellowship
+      role: member
+      from: 2013
+      note: Thiel Fellow 2013, founder of Luminar Technologies
   averell-harriman:
     born: 1891
     died: 1986
@@ -4488,6 +4627,37 @@ persons:
     - org: institute-international-finance
       role: chairman
       note: Chairman
+  aya-miyaguchi:
+    born: 1975
+    nationality: JPN
+    affiliations:
+    - org: wef
+      role: member
+      from: 2019
+      note: Global Blockchain Council, Davos 2020, Presidio Principles
+    - org: ethereum-foundation
+      role: executive
+      from: 2018
+      note: Executive Director 2018-2025, President 2025-
+    - org: kraken
+      role: executive
+      from: 2013
+      to: 2017
+      note: VP Operations 2013-14, Managing Director Japan 2014-17
+    - org: japan-blockchain-association
+      role: founder
+      from: 2016
+      note: Founder, Global Affiliations Head
+    relations:
+    - person: hsiao-wei-wang
+      type: colleague
+      note: EF leadership
+    - person: tomasz-stanczak
+      type: colleague
+      note: EF leadership
+    - person: vitalik-buterin
+      type: colleague
+      note: Met 2013, invited to join EF 2018
   ayad-allawi:
     born: 1944
     nationality: IRQ
@@ -4851,6 +5021,27 @@ persons:
       from: 2012
       to: 2020
       note: Managing Director (Taipan)
+  ben-mann:
+    born: 1989
+    nationality: USA
+    affiliations:
+    - org: openai
+      role: researcher
+      from: 2016
+      to: 2020
+      note: GPT-3 co-architect
+    - org: google
+      role: engineer
+      note: Waze Carpool
+    - org: anthropic
+      role: founder
+      from: 2021
+      note: Tech Lead Product Engineering
+    - org: columbia
+      role: alumni
+      note: BS Computer Science 2011
+    - org: miri
+      role: researcher
   ben-van-beurden:
     born: 1958
     nationality: NLD
@@ -5390,6 +5581,21 @@ persons:
     - org: sun-valley-conference
       role: member
       note: Attendee storico
+    - org: gates-ventures
+      role: founder
+      from: 2008
+      note: Fondatore e proprietario
+    - org: cascade-investment
+      role: founder
+      from: 1995
+      note: Proprietario, patrimonio gestito da Michael Larson
+    relations:
+    - person: boris-nikolic
+      type: employer
+      note: Chief Advisor Science & Technology 2007-2015
+    - person: julie-sunderland
+      type: employer
+      note: Director PRI at Gates Foundation 2009-2016
   bill-joy:
     born: 1954
     nationality: USA
@@ -5398,6 +5604,13 @@ persons:
       role: founder
       from: 1982
       note: Co-founder, BSD developer, led software
+  bill-mcdermott:
+    born: 1961
+    nationality: USA
+    affiliations:
+    - org: figma
+      role: board
+      note: Board of Directors, CEO ServiceNow
   bill-richardson:
     born: 1947
     died: 2023
@@ -5737,6 +5950,32 @@ persons:
       from: 2016
       to: 2018
       note: Foreign Secretary
+  boris-nikolic:
+    born: 1971
+    nationality: HRV
+    affiliations:
+    - org: gates-foundation
+      role: advisor
+      from: 2007
+      to: 2015
+      note: Chief Advisor Science & Technology to Bill Gates
+    - org: harvard
+      role: alumni
+      note: PhD Immunology 1994, Assistant Professor Medicine
+    - org: biomatics-capital
+      role: founder
+      from: 2016
+      note: Managing Director, Co-Founder
+    relations:
+    - person: bill-gates
+      type: advisor
+      note: Chief Science & Technology Advisor to Gates
+    - person: jeffrey-epstein
+      type: associate
+      note: Named successor executor in Epstein will Aug 2019. Nikolic declined, claimed no knowledge.
+    - person: julie-sunderland
+      type: colleague
+      note: Co-founders Biomatics Capital 2016, worked together at Gates since 2010
   boris-pistorius:
     born: 1960
     nationality: DEU
@@ -6013,6 +6252,13 @@ persons:
       note: WEF Annual Meeting 2016
     - org: alibaba
       role: executive
+  brian-armstrong:
+    born: 1983
+    nationality: USA
+    affiliations:
+    - org: coinbase
+      role: founder
+      from: 2012
   brian-forde:
     nationality: USA
     note: Director Digital Currency MIT Media Lab. Former Peace Corps Nicaragua. Co-founded Llamadas. Former White House Senior
@@ -6228,6 +6474,13 @@ persons:
       from: 2004
       to: 2008
       note: Primo Ministro
+  cameron-winklevoss:
+    born: 1981
+    nationality: USA
+    affiliations:
+    - org: gemini-exchange
+      role: founder
+      from: 2014
   campbell-wilson:
     born: 1971
     nationality: NZL
@@ -6978,7 +7231,7 @@ persons:
       note: 2% personal stake
   changpeng-zhao:
     born: 1977
-    nationality: CHN-CAN
+    nationality: CAN-CHN
     affiliations:
     - org: binance
       role: founder
@@ -7078,6 +7331,23 @@ persons:
       role: board
       from: 2023
       note: Former DSCA Director
+  charles-hoskinson:
+    born: 1987
+    nationality: USA
+    affiliations:
+    - org: ethereum-foundation
+      role: founder
+      from: 2014
+      to: 2014
+      note: Initial CEO, left over nonprofit dispute, founded Cardano
+    - org: iohk
+      role: founder
+      from: 2015
+      note: Co-founder and CEO with Jeremy Wood
+    relations:
+    - person: jeremy-wood
+      type: colleague
+      note: Co-founders IOHK 2015, both ex-Ethereum
   charles-iii:
     born: 1948
     nationality: GBR
@@ -7385,6 +7655,37 @@ persons:
     - person: edward-snowden
       type: fellow whistleblower
       note: Both leaked classified US government documents
+  chen-huagui:
+    born: 1914
+    died: 2002
+    nationality: CHN
+    note: Chen Hua-Kui, founder of soil microbiology in China
+    affiliations:
+    - org: wuhan-institute-virology
+      role: founder
+      from: 1956
+      note: Co-founder
+    - org: wuhan-university
+      role: academic
+      from: 1947
+      note: Professor, Founded Agricultural Chemistry Dept
+    - org: chinese-academy-sciences
+      role: member
+      from: 1980
+      note: Elected academician 1980
+    - org: peking-university
+      role: alumni
+      note: BS Biology 1935
+    - org: university-london
+      role: alumni
+      note: PhD 1939
+    - org: huazhong-agricultural-university
+      role: academic
+      note: Director, Professor
+    relations:
+    - person: gao-shangyin
+      type: colleague
+      note: Co-founders WIV 1956
   chen-siqing:
     born: 1961
     nationality: CHN
@@ -7507,6 +7808,10 @@ persons:
       role: founder
       from: 2021
       note: Head Mechanistic Interpretability
+    - org: thiel-fellowship
+      role: member
+      from: 2012
+      note: Thiel Fellow 2012, later co-founded Anthropic
   chris-sununu:
     born: 1974
     nationality: USA
@@ -8672,6 +8977,49 @@ persons:
       role: executive
       from: 2019
       note: CEO
+  da-henderson:
+    born: 1928
+    died: 2016
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2001
+      to: 2003
+      note: Director, Office of Public Health Preparedness (HHS)
+    - org: who
+      role: executive
+      from: 1966
+      to: 1977
+      note: Director Smallpox Eradication Campaign
+    - org: johns-hopkins
+      role: executive
+      from: 1977
+      to: 1990
+      note: Dean, School of Public Health
+    - org: johns-hopkins
+      role: alumni
+      note: MPH 1960
+    - org: cdc
+      role: executive
+      from: 1960
+      to: 1966
+      note: Chief, Virus Disease Surveillance; EIS Officer
+    - org: jh-health-security
+      role: founder
+      from: 1998
+      to: 2016
+      note: Founding Director
+    - org: oberlin
+      role: alumni
+      note: BA 1950
+    - org: rochester
+      role: alumni
+      note: MD 1954
+    relations:
+    - person: tom-inglesby
+      type: mentor
+      note: Founding mentor at JH Center for Health Security
   dacian-ciolos:
     born: 1969
     nationality: ROU
@@ -8968,6 +9316,15 @@ persons:
       from: 2021
       to: 2022
       note: Board of Governors (ex officio Min. Finanze)
+  danny-rimer:
+    nationality: USA
+    affiliations:
+    - org: index-ventures
+      role: partner
+      note: Partner
+    - org: figma
+      role: board
+      note: Board of Directors, Index Ventures partner
   danny-yatom:
     born: 1945
     nationality: ISR
@@ -9308,6 +9665,48 @@ persons:
     - person: rishi-sunak
       type: political
       note: Lobbying target, poi nominato Foreign Sec
+  david-chaum:
+    born: 1955
+    nationality: USA
+    note: Father of digital cash. Invented blind signatures (1983), eCash. Founded DigiCash (1990). PhD Berkeley 1982 proposed
+      blockchain elements. Currently leads xx network.
+    affiliations:
+    - org: uc-berkeley
+      role: alumni
+      note: PhD Computer Science 1982
+    - org: digicash
+      role: founder
+      from: 1990
+      to: 1999
+      note: Founded in Amsterdam, created eCash
+    - org: iacr
+      role: founder
+      from: 1982
+      note: Founded the organization, IACR Fellow 2004
+    - org: cwi
+      role: member
+      from: 2019
+      note: Dijkstra Fellow (honorary title)
+    - org: xx-network
+      role: founder
+      from: 2020
+      note: Founder and CEO
+    relations:
+    - person: eric-hughes
+      type: mentor
+      note: Hughes worked for Chaum in Amsterdam before founding cypherpunks
+    - person: hal-finney
+      type: influencer
+      note: Chaum work on eCash influenced cypherpunk digital cash research
+    - person: nick-szabo
+      type: mentor
+      note: Szabo worked as consultant at DigiCash 1993-94
+    - person: satoshi-nakamoto
+      type: predecessor
+      note: 1982 dissertation proposed all blockchain elements except PoW
+    - person: timothy-may
+      type: influencer
+      note: Chaum ideas influenced Crypto Anarchist Manifesto (1988)
   david-cohen:
     born: 1963
     nationality: USA
@@ -9525,6 +9924,15 @@ persons:
       note: WEF Annual Meeting 2016
     - org: welcoming-america
       role: founder
+  david-malone:
+    nationality: CAN
+    note: Canadian diplomat, IPA President 1998-2004
+    affiliations:
+    - org: international-peace-institute
+      role: executive
+      from: 1998
+      to: 2004
+      note: President
   david-martinon:
     born: 1971
     nationality: FRA
@@ -9787,7 +10195,7 @@ persons:
       note: Principal Owner ($1.725B acquisition)
   david-sacks:
     born: 1972
-    nationality: ZAF-USA
+    nationality: USA
     affiliations:
     - org: governo-usa
       role: advisor
@@ -11156,6 +11564,38 @@ persons:
     - person: mark-zuckerberg
       type: colleague
       note: Facebook co-founders, Harvard roommates
+  dylan-field:
+    born: 1992
+    nationality: USA
+    affiliations:
+    - org: microsoft
+      role: intern
+      note: Research assistant while at Brown
+    - org: brown-university
+      role: alumni
+      note: CS, dropped out 2012 for Thiel Fellowship
+    - org: linkedin
+      role: intern
+      from: 2010
+      to: 2010
+      note: Data analytics intern
+    - org: figma
+      role: founder
+      from: 2012
+      note: CEO, Co-founder
+    - org: thiel-fellowship
+      role: member
+      from: 2012
+      note: Thiel Fellow 2012, $100k grant
+    - org: flipboard
+      role: intern
+      from: 2011
+      to: 2012
+      note: Software engineering intern, then Technical PM
+    relations:
+    - person: evan-wallace
+      type: associate
+      note: Co-founder Figma, met at Brown University
   earl-valencia:
     nationality: PHL
     note: Former Cisco and Raytheon. Co-founded IdeaSpace Foundation supported by First Pacific.
@@ -12466,6 +12906,30 @@ persons:
       from: 2018
       to: 2021
       note: Commissioner
+  eric-hughes:
+    nationality: USA
+    note: Cypherpunk co-founder, wrote "A Cypherpunk Manifesto" (1993), created first anonymous remailer (1992), worked at
+      DigiCash
+    affiliations:
+    - org: uc-berkeley
+      role: alumni
+      note: Mathematics
+    - org: digicash
+      role: employee
+      note: Worked with David Chaum in Amsterdam before founding cypherpunks
+    relations:
+    - person: adam-back
+      type: colleague
+      note: Cypherpunks mailing list
+    - person: hal-finney
+      type: colleague
+      note: Finney helped improve anonymous remailer code
+    - person: john-gilmore
+      type: colleague
+      note: Co-founded cypherpunks mailing list 1992
+    - person: nick-szabo
+      type: colleague
+      note: Cypherpunks mailing list
   eric-jing:
     born: 1972
     nationality: CHN
@@ -13101,6 +13565,18 @@ persons:
       role: minister
       from: 2025
       note: Minister of AI and Digital Innovation
+  evan-wallace:
+    born: 1991
+    nationality: USA
+    affiliations:
+    - org: brown-university
+      role: alumni
+      note: BS Computer Science 2012
+    - org: figma
+      role: founder
+      from: 2012
+      to: 2021
+      note: CTO, Co-founder
   evan-williams:
     nationality: USA
     affiliations:
@@ -13908,6 +14384,38 @@ persons:
       from: 2014
       to: 2023
       note: CEO e General Manager 2014-2023. 3 mandati
+  francis-collins:
+    born: 1950
+    nationality: USA
+    affiliations:
+    - org: yale
+      role: alumni
+      note: PhD Physical Chemistry 1974
+    - org: university-virginia
+      role: alumni
+      note: BS Chemistry 1970
+    - org: nih
+      role: executive
+      from: 2009
+      to: 2021
+      note: Director NIH
+    - org: unc
+      role: alumni
+      note: MD 1977 with honors
+    - org: michigan
+      role: academic
+      from: 1984
+      to: 1993
+      note: Professor of Internal Medicine and Human Genetics
+    - org: nhgri
+      role: executive
+      from: 1993
+      to: 2008
+      note: Director, led Human Genome Project
+    - org: biologos
+      role: founder
+      from: 2007
+      note: Founded to promote harmony of science and faith
   francis-ford-coppola:
     born: 1939
     nationality: USA
@@ -14417,6 +14925,12 @@ persons:
   franz-vranitzky:
     born: 1937
     nationality: AUT
+  fred-ehrsam:
+    nationality: USA
+    affiliations:
+    - org: coinbase
+      role: founder
+      from: 2012
   fred-goodwin:
     born: 1958
     nationality: GBR
@@ -14793,6 +15307,35 @@ persons:
       role: founder
       from: 1999
       note: Co-founder with Li Zexiang
+  gao-shangyin:
+    born: 1909
+    died: 1989
+    nationality: CHN
+    note: Harry Gao, founder of virology in China
+    affiliations:
+    - org: yale
+      role: alumni
+      note: PhD 1935
+    - org: wuhan-institute-virology
+      role: founder
+      from: 1956
+      to: 1984
+      note: Founding Director, 28 years
+    - org: wuhan-university
+      role: academic
+      from: 1935
+      to: 1989
+      note: Professor, Vice President
+    - org: chinese-academy-sciences
+      role: member
+      from: 1980
+      note: Elected academician 1980
+    - org: rollins-college
+      role: alumni
+      note: BS 1931
+    - org: soochow-university
+      role: alumni
+      note: BS Biology 1930
   gareth-wong:
     nationality: SGP
     note: CEO Mitbana
@@ -14980,6 +15523,32 @@ persons:
     born: 1967
     nationality: USA
     note: Governatore California
+  gavin-wood:
+    born: 1980
+    nationality: GBR
+    affiliations:
+    - org: ethereum-foundation
+      role: founder
+      from: 2014
+      to: 2016
+      note: CTO, created Solidity and EVM spec, left to create Polkadot
+    - org: york
+      role: alumni
+      from: 1998
+      to: 2005
+      note: MEng Computer Systems 2002, PhD Music Visualization 2005
+    - org: parity-technologies
+      role: founder
+      from: 2015
+      note: Co-founder with Jutta Steiner, CEO until 2022, Chief Architect 2022-
+    - org: web3-foundation
+      role: founder
+      from: 2017
+      note: Founder and President
+    relations:
+    - person: jutta-steiner
+      type: colleague
+      note: Co-founders Parity Technologies 2015
   gd-birla:
     born: 1894
     died: 1983
@@ -15012,6 +15581,12 @@ persons:
     - org: fpm
       role: leader
       from: 2015
+  gengfu-xiao:
+    nationality: CHN
+    affiliations:
+    - org: wuhan-institute-virology
+      role: executive
+      note: Deputy Director General
   gennady-timchenko:
     born: 1952
     nationality: RUS-FIN
@@ -15431,6 +16006,25 @@ persons:
       from: 1964
       to: 1965
       note: PM, dimesso da re Costantino
+  gerald-durrell:
+    born: 1925
+    died: 1995
+    nationality: GBR
+    note: Naturalist, author, conservationist. Founded Jersey Zoo 1959, JWPT 1963, WPTI 1971 (now EcoHealth Alliance). My
+      Family and Other Animals (1956). OBE.
+    affiliations:
+    - org: ecohealth-alliance
+      role: founder
+      from: 1971
+      note: Founded as Wildlife Preservation Trust International
+    - org: durrell-wildlife-trust
+      role: founder
+      from: 1963
+      note: Founded as Jersey Wildlife Preservation Trust
+    relations:
+    - person: lawrence-durrell
+      type: sibling
+      note: Brothers
   gerald-ford:
     born: 1913
     died: 2006
@@ -16686,18 +17280,62 @@ persons:
       role: minister
       from: 1974
       to: 1979
+      note: Min. Ambiente, prima donna al mondo
+    - org: governo-norvegia
+      role: leader
+      from: 1981
+      to: 1981
+      note: PM feb-ott, prima donna PM Norvegia
+    - org: governo-norvegia
+      role: leader
+      from: 1986
+      to: 1989
+      note: PM secondo mandato
     - org: governo-norvegia
       role: leader
       from: 1990
       to: 1996
+      note: PM terzo mandato
+    - org: governo-norvegia
+      role: legislator
+      from: 2023
+      to: 2024
+      note: Oslo City Council, dimessa dic 2024
     - org: oms
       role: executive
       from: 1998
       to: 2003
     - org: the-elders
-      role: chairman
+      role: founder
+      from: 2007
+      note: Founding member, Deputy Chair 2013-2018, Acting Chair 2018
+    - org: who
+      role: executive
+      from: 1998
+      to: 2003
+      note: Director-General, prima donna DG OMS
+    - org: un-foundation
+      role: board
+      from: 2002
+      to: 2023
+      note: Vice-Chair Board of Directors
     - org: club-madrid
       role: member
+    - org: harvard
+      role: alumni
+      note: MPH Public Health 1965
+    - org: rbm-partnership
+      role: founder
+      from: 1998
+      note: Initiated RBM as WHO Director-General
+    - org: university-oslo
+      role: alumni
+      note: MD Medicine 1963
+    - org: gpmb
+      role: chairman
+      from: 2018
+      to: 2021
+      note: Co-Chair with Elhadj As Sy
   gt-ferreira:
     born: 1949
     nationality: ZAF
@@ -17081,6 +17719,26 @@ persons:
     - person: recep-tayyip-erdogan
       type: protege
       note: Erdogan mentor, "my secret keeper", potential successor
+  hal-finney:
+    born: 1956
+    died: 2014
+    nationality: USA
+    affiliations:
+    - org: caltech
+      role: alumni
+      note: BS Electrical Engineering 1979
+    - org: pgp-corporation
+      role: executive
+      from: 1996
+      to: 2011
+      note: Senior Software Engineer
+    relations:
+    - person: adam-back
+      type: colleague
+      note: Cypherpunk collaborators, RPOW built on Hashcash
+    - person: nick-szabo
+      type: colleague
+      note: Cypherpunk collaborators, RPOW inspired by Bit Gold theory
   haluk-bayraktar:
     born: 1978
     nationality: TUR
@@ -18496,6 +19154,24 @@ persons:
       note: Chief Engineer fino alla morte
   hristo-kovachki:
     nationality: BGR
+  hsiao-wei-wang:
+    born: 1990
+    nationality: TWN
+    affiliations:
+    - org: ethereum-foundation
+      role: executive
+      from: 2017
+      note: Researcher 2017-2025, Co-Executive Director 2025-, Board Member 2025-
+    - org: national-chiao-tung-university
+      role: alumni
+      note: MS Network Engineering
+    - org: eth-taipei
+      role: founder
+      from: 2018
+    relations:
+    - person: vitalik-buterin
+      type: colleague
+      note: EF Research team, Beacon Chain development
   hu-houkun:
     nationality: CHN
     affiliations:
@@ -19005,6 +19681,16 @@ persons:
     - org: suna-inan-kirac-foundation
       role: founder
       from: 2003
+  indar-jit-rikhye:
+    born: 1920
+    died: 2007
+    nationality: IND
+    note: Major General, co-founder IPI, UN Military Adviser
+    affiliations:
+    - org: international-peace-institute
+      role: founder
+      from: 1970
+      note: Co-founder and first President
   indira-gandhi:
     born: 1917
     died: 1984
@@ -21039,6 +21725,20 @@ persons:
       role: president
       from: 1967
       to: 1970
+  jean-todt:
+    born: 1946
+    nationality: FRA
+    note: FIA President 2009-2021, UN Special Envoy for Road Safety
+    affiliations:
+    - org: international-peace-institute
+      role: chairman
+      from: 2023
+      note: Chair of Board of Directors (board member since 2015)
+    - org: fia
+      role: executive
+      from: 2009
+      to: 2021
+      note: President
   jean-victor-meyers:
     born: 1986
     nationality: FRA
@@ -21047,6 +21747,18 @@ persons:
       role: board
       from: 2025
       note: Vice-Chairman from 2025
+  jeanne-marrazzo:
+    born: 1964
+    nationality: USA
+    affiliations:
+    - org: harvard
+      role: alumni
+      note: BA Biology
+    - org: niaid
+      role: executive
+      from: 2023
+      to: 2025
+      note: Director (first woman appointed)
   jeb-bush:
     born: 1953
     nationality: USA
@@ -21235,6 +21947,19 @@ persons:
     - org: club-for-growth
       role: member
       note: Major donor, $32M+ total | Donor
+  jeffery-taubenberger:
+    nationality: USA
+    affiliations:
+    - org: virginia-commonwealth
+      role: alumni
+      note: MD 1986, PhD 1987 (Medical College of Virginia)
+    - org: niaid
+      role: executive
+      from: 2006
+      note: Senior Investigator since 2006, Acting Director 2025
+    - org: george-mason
+      role: alumni
+      note: BS Biology 1982
   jeffrey-epstein:
     born: 1953
     died: 2019
@@ -21327,6 +22052,28 @@ persons:
       role: executive
       from: 2020
       note: President & CEO
+  jeffrey-wilcke:
+    nationality: NLD
+    affiliations:
+    - org: ethereum-foundation
+      role: founder
+      from: 2014
+      to: 2018
+      note: Lead Developer Go-Ethereum (Geth)
+    - org: hku-utrecht
+      role: alumni
+      note: 2003-2006
+    - org: grid-games
+      role: founder
+      from: 2018
+      note: Founder, CEO, Technical Director
+    relations:
+    - person: gavin-wood
+      type: colleague
+      note: Entrambi aggiunti come co-founders early 2014, implementazioni parallele
+    - person: vitalik-buterin
+      type: colleague
+      note: Co-founder Ethereum 2014, creator Go-Ethereum
   jehan-sadat:
     nationality: EGY
     affiliations:
@@ -21478,6 +22225,13 @@ persons:
       from: 1992
       to: 2000
       note: Commodity trading, metals derivatives
+  jeremy-wood:
+    nationality: USA
+    affiliations:
+    - org: iohk
+      role: founder
+      from: 2015
+      note: Co-founder, former Ethereum colleague of Hoskinson
   jeroen-van-der-veer:
     born: 1947
     nationality: NLD
@@ -21655,6 +22409,11 @@ persons:
       from: 2013
       to: 2015
       note: Managing Partner
+    relations:
+    - person: jeffrey-epstein
+      type: associate
+      note: Client-banker relationship became close friendship. 1,100+ emails 2008-2012. Staley called him "most cherished
+        friend". Visited island 2015. FCA ban 2023 for lying about relationship.
   jesse-cohn:
     nationality: USA
     affiliations:
@@ -22435,6 +23194,40 @@ persons:
       type: parent
     - person: kathrine-fredriksen
       type: parent
+  john-gilmore:
+    born: 1955
+    nationality: USA
+    note: Cypherpunk co-founder, EFF co-founder, Sun Microsystems 5th employee, Cygnus Solutions founder, GNU contributor
+    affiliations:
+    - org: sun-microsystems
+      role: employee
+      from: 1982
+      to: 1985
+      note: 5th employee
+    - org: eff
+      role: founder
+      from: 1990
+      to: 2021
+      note: Co-founder, board member until 2021
+    - org: cygnus-solutions
+      role: founder
+      from: 1989
+      to: 1999
+      note: Co-founder with Michael Tiemann and David Henkel-Wallace
+    - org: free-software-foundation
+      role: board
+      from: 2024
+      note: Board member since June 2024
+    relations:
+    - person: adam-back
+      type: colleague
+      note: Cypherpunks mailing list
+    - person: hal-finney
+      type: colleague
+      note: Cypherpunks mailing list
+    - person: nick-szabo
+      type: colleague
+      note: Cypherpunks mailing list
   john-hamre:
     born: 1950
     nationality: USA
@@ -22550,6 +23343,16 @@ persons:
     - person: steve-jobs
       type: colleague
       note: Pixar co-founder. Jobs backed Lasseter creative vision
+  john-lilly:
+    nationality: USA
+    affiliations:
+    - org: greylock
+      role: partner
+      note: Venture Partner
+    - org: figma
+      role: board
+      from: 2015
+      note: Board of Directors, Greylock partner
   john-lo:
     nationality: HKG
     affiliations:
@@ -23591,6 +24394,45 @@ persons:
       role: advisor
       from: 2021
       note: Honorary Advisory Council founding member
+  joseph-lubin:
+    born: 1964
+    nationality: CAN-USA
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos speaker 2017, 2019, 2020
+    - org: aspen-institute
+      role: member
+      note: Aspen Ideas Festival speaker 2021
+    - org: goldman-sachs
+      role: executive
+      note: VP Technology, Private Wealth Management
+    - org: princeton
+      role: alumni
+      note: BSE Electrical Engineering and Computer Science 1987
+    - org: ethereum-foundation
+      role: founder
+      from: 2014
+      note: Early funder, founded ConsenSys
+    - org: consensys
+      role: founder
+      from: 2015
+    - org: hyperledger
+      role: board
+      note: Governing Board member
+    relations:
+    - person: anthony-di-iorio
+      type: colleague
+      note: Co-founder Ethereum 2014
+    - person: charles-hoskinson
+      type: colleague
+      note: Co-founder Ethereum 2014
+    - person: gavin-wood
+      type: colleague
+      note: Co-founder Ethereum 2014
+    - person: vitalik-buterin
+      type: colleague
+      note: Co-founder Ethereum 2014
   joseph-luns:
     born: 1911
     died: 2002
@@ -23936,6 +24778,24 @@ persons:
       note: WEF Annual Meeting 2016
     - org: lifeway-foods
       role: executive
+  julie-sunderland:
+    nationality: USA
+    affiliations:
+    - org: gates-foundation
+      role: executive
+      from: 2009
+      to: 2016
+      note: Director, Program Related Investments ($1.5B portfolio)
+    - org: wharton
+      role: alumni
+      note: MBA
+    - org: harvard
+      role: alumni
+      note: BA
+    - org: biomatics-capital
+      role: founder
+      from: 2016
+      note: Managing Director, Co-Founder
   julius-blank:
     born: 1925
     died: 2011
@@ -24050,6 +24910,19 @@ persons:
       role: leader
       from: 2015
       to: 2025
+  jutta-steiner:
+    nationality: DEU
+    affiliations:
+    - org: ethereum-foundation
+      role: executive
+      from: 2014
+      to: 2016
+      note: Chief of Security
+    - org: parity-technologies
+      role: founder
+      from: 2015
+      to: 2021
+      note: Co-founder and CEO until 2021
   jyrki-katainen:
     born: 1971
     nationality: FIN
@@ -24736,6 +25609,14 @@ persons:
       from: 1950
       to: 1958
       note: officer
+  kesetebirhan-admasu:
+    nationality: ETH
+    affiliations:
+    - org: rbm-partnership
+      role: executive
+      from: 2017
+      to: 2019
+      note: CEO
   ketevan-bochorishvili:
     nationality: GEO
     note: CEO Anaklia City
@@ -24750,6 +25631,30 @@ persons:
       role: executive
       from: 2021
       note: President; Project 2025 lead
+  kevin-systrom:
+    born: 1983
+    nationality: USA
+    affiliations:
+    - org: walmart
+      role: board
+      from: 2014
+      note: Board of Directors
+    - org: google
+      role: employee
+      from: 2006
+      to: 2008
+      note: Associate Product Marketing Manager
+    - org: andreessen-horowitz
+      role: partner
+      note: Portfolio founder (Instagram seed 2010)
+    - org: stanford
+      role: alumni
+      note: BS Management Science & Engineering 2006, Sigma Nu, Mayfield Fellow
+    - org: instagram
+      role: founder
+      from: 2010
+      to: 2018
+      note: Co-founder & CEO
   keyu-jin:
     nationality: GBR
     note: Professor Economics LSE. Advisory Board Richemont Group. Adviser World Bank, IMF, NY Fed, Bank of England.
@@ -25756,6 +26661,14 @@ persons:
       role: board
       from: 2017
       note: Azionista 33%
+  laura-deming:
+    born: 1994
+    nationality: NZL
+    affiliations:
+    - org: thiel-fellowship
+      role: member
+      from: 2011
+      note: Thiel Fellow 2011 (inaugural class), founder of Longevity Fund
   laurance-rockefeller:
     born: 1910
     died: 2004
@@ -25850,6 +26763,11 @@ persons:
       role: board
       from: 2025
       note: Independent director
+  lawrence-durrell:
+    born: 1912
+    died: 1990
+    nationality: GBR
+    note: Novelist, poet. Alexandria Quartet. Brother of Gerald Durrell.
   lawrence-eagleburger:
     born: 1930
     died: 2011
@@ -26689,6 +27607,9 @@ persons:
       role: minister
       from: 2025
       note: Secretary of Education
+  linfa-wang:
+    nationality: CHN
+    note: Bat virus researcher, Duke-NUS Singapore
   lionel-jospin:
     born: 1937
     nationality: FRA
@@ -27155,6 +28076,14 @@ persons:
     - org: wef
       role: ygl
       from: 2021
+  lucy-guo:
+    born: 1995
+    nationality: USA
+    affiliations:
+    - org: thiel-fellowship
+      role: member
+      from: 2013
+      note: Thiel Fellow 2013, co-founder of Scale AI
   ludwig-criel:
     nationality: BEL
   luhut-pandjaitan:
@@ -27304,6 +28233,13 @@ persons:
       from: 2012
       to: 2018
       note: Finance/Foreign
+  luis-von-ahn:
+    born: 1978
+    nationality: GTM
+    affiliations:
+    - org: figma
+      role: board
+      note: Board of Directors, CEO Duolingo
   luisa-todini:
     born: 1966
     nationality: ITA
@@ -29410,6 +30346,31 @@ persons:
     - org: wef
       role: ygl
       from: 2012
+  mary-erdoes:
+    born: 1967
+    nationality: USA
+    affiliations:
+    - org: jpmorgan-chase
+      role: executive
+      from: 1996
+      note: CEO Asset & Wealth Management (2009-), Operating Committee member
+    - org: federal-reserve
+      role: advisor
+      note: Investor Advisory Committee on Financial Markets
+    - org: us-china-business-council
+      role: board
+    - org: harvard
+      role: alumni
+      note: MBA 1993
+    - org: georgetown
+      role: alumni
+      note: BA Mathematics
+    - org: robin-hood-foundation
+      role: board
+    relations:
+    - person: jamie-dimon
+      type: colleague
+      note: Reports to Dimon as Operating Committee member. Considered potential successor.
   mary-fitzgerald:
     nationality: GBR
     affiliations:
@@ -30527,6 +31488,42 @@ persons:
     - org: atlantic-council
       role: board
       note: Board member
+  michael-larson:
+    born: 1959
+    nationality: USA
+    note: CIO Cascade Investment dal 1994, gestisce patrimonio Bill Gates ($130B+) e Gates Foundation Trust
+    affiliations:
+    - org: arco
+      role: executive
+      note: Mergers & Acquisitions
+    - org: chicago-booth
+      role: alumni
+      note: MBA (graduated age 21)
+    - org: femsa
+      role: board
+      note: Director
+    - org: cascade-investment
+      role: executive
+      from: 1994
+      note: Chief Investment Officer, fondatore operativo
+    - org: claremont-mckenna
+      role: alumni
+      note: BA Economics (graduated in 3 years, age 19)
+    - org: ecolab
+      role: board
+      from: 2012
+      note: Independent Director
+    - org: republic-services
+      role: board
+      from: 2009
+      note: Director
+    - org: putnam-investments
+      role: executive
+      note: Bond fund manager
+    relations:
+    - person: bill-gates
+      type: professional
+      note: CIO, gestisce patrimonio Gates dal 1994
   michael-lynton:
     born: 1960
     nationality: USA
@@ -30688,6 +31685,13 @@ persons:
       role: board
       from: 2025
       note: Harvard Board 2025; MD 1973
+  michael-saylor:
+    born: 1965
+    nationality: USA
+    affiliations:
+    - org: microstrategy
+      role: founder
+      from: 1989
   michael-schoellhorn:
     nationality: DEU
     note: Airbus Defence & Space CEO dal 2021, ex Airbus COO, ex Bosch, German Army helicopter pilot
@@ -30942,6 +31946,30 @@ persons:
       from: 2009
       to: 2018
       note: Commissioner, Acting Chair 2013
+  mihai-alisie:
+    born: 1988
+    nationality: ROU
+    affiliations:
+    - org: ethereum-foundation
+      role: founder
+      from: 2014
+      to: 2015
+      note: Co-founder, Vice-President
+    - org: lucian-blaga-sibiu
+      role: alumni
+      note: Licentiate Cybernetics, Economy Informatics, Statistics 2010
+    - org: bitcoin-magazine
+      role: founder
+      from: 2011
+      to: 2014
+      note: Co-founder, Editor-in-Chief
+    - org: akasha-foundation
+      role: founder
+      from: 2015
+    relations:
+    - person: vitalik-buterin
+      type: colleague
+      note: Co-founded Bitcoin Magazine 2011, Ethereum 2014
   mikayil-jabbarov:
     born: 1976
     nationality: AZE
@@ -30966,6 +31994,30 @@ persons:
     - person: chaim-herzog
       type: parent
       note: father
+  mike-krieger:
+    born: 1986
+    nationality: BRA
+    affiliations:
+    - org: anthropic
+      role: executive
+      from: 2024
+      note: Chief Product Officer
+    - org: stanford
+      role: alumni
+      note: BS Symbolic Systems 2008
+    - org: figma
+      role: board
+      from: 2025
+      note: Board of Directors
+    - org: instagram
+      role: founder
+      from: 2010
+      to: 2018
+      note: Co-founder & CTO
+    relations:
+    - person: kevin-systrom
+      type: colleague
+      note: Co-founders Instagram (2010), Artifact (2022)
   mike-lynch:
     born: 1965
     died: 2024
@@ -31644,6 +32696,19 @@ persons:
       role: advisor
       from: 2000
       note: gatekeeper to Supreme Leader, probable successor
+  mona-juul:
+    born: 1959
+    nationality: NOR
+    affiliations:
+    - org: united-nations
+      role: executive
+      from: 2019
+      to: 2024
+      note: Permanent Representative of Norway, ECOSOC President 2019-2020
+    relations:
+    - person: terje-rod-larsen
+      type: spouse
+      note: Married. Together facilitated Oslo Accords 1993.
   mona-sahlin:
     born: 1957
     nationality: SWE
@@ -32666,6 +33731,13 @@ persons:
       role: leader
       from: 2025
       note: PM
+  nayib-bukele:
+    born: 1981
+    nationality: SLV
+    affiliations:
+    - org: government-el-salvador
+      role: leader
+      from: 2019
   nayla-hayek:
     born: 1951
     nationality: CHE
@@ -32876,6 +33948,42 @@ persons:
       role: executive
       from: 2003
       note: CEO
+  nick-szabo:
+    born: 1964
+    nationality: USA
+    note: Computer scientist, legal scholar. Invented smart contracts (1994) and designed Bit Gold (1998). Leading Satoshi
+      Nakamoto candidate.
+    affiliations:
+    - org: george-washington-university
+      role: alumni
+      note: JD (Juris Doctor) ~2006
+    - org: university-washington
+      role: alumni
+      note: BS Computer Science 1989
+    - org: digicash
+      role: consultant
+      from: 1993
+      to: 1994
+      note: Internet commerce consultant, 6 months
+    - org: universidad-francisco-marroquin
+      role: faculty
+      note: Honorary Professor
+    relations:
+    - person: adam-back
+      type: colleague
+      note: Cypherpunk collaborators
+    - person: david-chaum
+      type: mentor
+      note: Worked at DigiCash under Chaum early 1990s
+    - person: hal-finney
+      type: colleague
+      note: Cypherpunk collaborators, both developed digital cash prototypes
+    - person: satoshi-nakamoto
+      type: predecessor
+      note: Bit Gold cited as conceptual precursor to Bitcoin
+    - person: vitalik-buterin
+      type: influencer
+      note: Smart contracts concept adopted by Ethereum. Szabo unit named after him.
   nickolay-mladenov:
     born: 1972
     nationality: BGR
@@ -33366,6 +34474,42 @@ persons:
       from: 2005
       to: 2025
       note: Founder & CTO, retired Aug 2025
+  niranjan-bose:
+    nationality: IND-USA
+    note: Managing Director Health & Life Sciences, Gates Ventures. Science Advisor to Bill Gates. PhD Dartmouth.
+    affiliations:
+    - org: gates-foundation
+      role: executive
+      from: 2007
+      to: 2014
+      note: Chief of Staff to President Global Health Program
+    - org: bits-pilani
+      role: alumni
+      note: B.Pharm, MS Biological Sciences (1992-1997)
+    - org: dartmouth
+      role: alumni
+      note: PhD Biochemistry (Geisel School of Medicine), Business Bridge (Tuck)
+    - org: gates-ventures
+      role: executive
+      from: 2014
+      note: Managing Director Health & Life Sciences
+    - org: strategic-decisions-group
+      role: executive
+      to: 2007
+      note: Senior Consultant, pharma/biotech strategy
+    - org: addi
+      role: board
+      from: 2020
+      note: Advisory Board, Executive Director (interim) 2024-
+    - org: global-health-labs
+      role: board
+      from: 2020
+      to: 2021
+      note: Board Member, Interim CEO (Jul 2020-Jul 2021)
+    relations:
+    - person: bill-gates
+      type: professional
+      note: Science Advisor a Gates dal 2014
   nirmala-sitharaman:
     born: 1959
     nationality: IND
@@ -33646,6 +34790,15 @@ persons:
     - org: dnb
       role: executive
       from: 2025
+      note: President
+  olara-otunnu:
+    nationality: UGA
+    note: Ugandan diplomat, UN Under-Secretary-General for Children and Armed Conflict
+    affiliations:
+    - org: international-peace-institute
+      role: executive
+      from: 1990
+      to: 1998
       note: President
   olaug-svarva:
     born: 1957
@@ -35503,6 +36656,38 @@ persons:
       role: founder
       from: 1995
       note: Co-Founder, former Deputy Chairman BP
+  peter-daszak:
+    born: 1965
+    nationality: GBR
+    affiliations:
+    - org: who
+      role: advisor
+      from: 2020
+      to: 2021
+      note: WHO COVID-19 Origins Investigation Team
+    - org: columbia
+      role: academic
+      note: Center for Infection and Immunity, Mailman School
+    - org: ecohealth-alliance
+      role: executive
+      from: 2001
+      to: 2025
+      note: President 2001-2025, fired January 6 2025, debarred May 2024
+    - org: bangor
+      role: alumni
+      note: BSc Zoology 1987
+    - org: east-london
+      role: alumni
+      note: PhD Parasitic Infectious Diseases 1994
+    - org: cdc
+      role: academic
+      from: 1998
+      to: 2001
+      note: National Center for Infectious Diseases
+    relations:
+    - person: shi-zhengli
+      type: colleague
+      note: Collaborazione ricerca coronavirus pipistrelli dal 2004
   peter-diamandis:
     born: 1961
     nationality: USA
@@ -35798,6 +36983,10 @@ persons:
     - org: sun-valley-conference
       role: member
       note: Attendee
+    - org: thiel-fellowship
+      role: founder
+      from: 2011
+      note: Co-founder with Michael Gibson and Danielle Strachman
     relations:
     - person: alex-karp
       type: colleague
@@ -37177,6 +38366,34 @@ persons:
       role: executive
       from: 2015
       note: MD, CEO, Group Editor-in-Chief
+  rahul-patil:
+    nationality: IND-USA
+    affiliations:
+    - org: microsoft
+      role: engineer
+      note: Azure
+    - org: amazon
+      role: engineer
+      note: AWS
+    - org: oracle
+      role: executive
+      note: SVP Cloud Infrastructure
+    - org: stripe
+      role: executive
+      note: Chief Technology Officer
+    - org: anthropic
+      role: executive
+      from: 2025
+      note: Chief Technology Officer
+    - org: pesit
+      role: alumni
+      note: BE Computer Science 1998
+    - org: arizona-state
+      role: alumni
+      note: MS Computer Science
+    - org: washington
+      role: alumni
+      note: MBA
   raj-ganguly:
     nationality: USA
     affiliations:
@@ -37300,6 +38517,48 @@ persons:
       role: board
       from: 2024
       note: Chair Jul 2024 - Aug 2025, Chair Fleet Oversight Committee
+  ralph-baric:
+    born: 1954
+    nationality: USA
+    affiliations:
+    - org: moderna
+      role: partner
+      note: mRNA vaccine research collaboration, coronavirus expertise
+    - org: usc
+      role: academic
+      from: 1982
+      to: 1986
+      note: Postdoctoral Fellow, Virology and Immunology
+    - org: gilead
+      role: partner
+      note: Remdesivir development partnership, first FDA-approved COVID-19 antiviral
+    - org: niaid
+      role: advisor
+      note: Major grant recipient, AViDD Center $65M
+    - org: ecohealth-alliance
+      role: partner
+      note: Collaborator on NIH grants, Co-PI Project DEFUSE 2018
+    - org: unc
+      role: academic
+      from: 1986
+      note: William R. Kenan Jr. Distinguished Professor, Epidemiology
+    - org: nc-state
+      role: alumni
+      note: BSc Zoology, PhD Microbiology 1982
+    - org: national-academy-sciences
+      role: member
+      from: 2021
+      note: Elected member
+    relations:
+    - person: linfa-wang
+      type: colleague
+      note: Co-investigator Project DEFUSE 2018
+    - person: peter-daszak
+      type: colleague
+      note: Co-investigator Project DEFUSE, collaborazione ricerca coronavirus
+    - person: shi-zhengli
+      type: colleague
+      note: Co-author Nature Medicine 2015 chimeric virus paper
   ralph-hamers:
     nationality: NLD
     affiliations:
@@ -38404,6 +39663,14 @@ persons:
       role: chairman
       from: 2012
       to: 2020
+  ritesh-agarwal:
+    born: 1993
+    nationality: IND
+    affiliations:
+    - org: thiel-fellowship
+      role: member
+      from: 2013
+      note: Thiel Fellow 2013, founder of OYO Rooms
   rob-de-wijk:
     nationality: NLD
     affiliations:
@@ -40447,6 +41714,18 @@ persons:
     - org: nokia
       role: chairman
       from: 2020
+  satoshi-nakamoto:
+    note: Pseudonymous Bitcoin creator, active 2008-2011, est. 1.1M BTC holdings
+    relations:
+    - person: adam-back
+      type: correspondent
+      note: Email exchange 2008-2009, Hashcash cited in whitepaper
+    - person: hal-finney
+      type: collaborator
+      note: First Bitcoin transaction recipient
+    - person: nick-szabo
+      type: influenced_by
+      note: Bit Gold cited as inspiration
   satya-nadella:
     born: 1967
     nationality: IND-USA
@@ -41546,6 +42825,38 @@ persons:
     - org: wef
       role: ygl
       from: 2024
+  shi-zhengli:
+    born: 1964
+    nationality: CHN
+    affiliations:
+    - org: ecohealth-alliance
+      role: partner
+      note: WIV collaborator on NIH grants, PREDICT program partner
+    - org: wuhan-institute-virology
+      role: executive
+      from: 1990
+      to: 2024
+      note: Director, Center for Emerging Infectious Diseases
+    - org: wuhan-university
+      role: alumni
+      note: BSc Genetics 1987
+    - org: montpellier
+      role: alumni
+      note: PhD Biology of Organisms 2000
+    - org: chinese-academy-sciences
+      role: member
+      note: MSc 1990, senior researcher
+    - org: guangzhou-laboratory
+      role: academic
+      from: 2024
+      note: Senior Scientist, transferred from WIV
+    relations:
+    - person: linfa-wang
+      type: colleague
+      note: Collaborazione ricerca virus pipistrelli
+    - person: ralph-baric
+      type: colleague
+      note: Collaborazione ricerca coronavirus chimerici 2015
   shigeru-yoshida:
     born: 1878
     died: 1967
@@ -41698,6 +43009,21 @@ persons:
     - org: hakluyt
       role: advisor
       note: International Advisory Board; Chair Prudential
+  shu-hongbing:
+    born: 1967
+    nationality: CHN
+    affiliations:
+    - org: wuhan-university
+      role: academic
+      from: 2004
+      note: Dean College of Life Sciences 2005-2013, Vice President 2013-
+    - org: chinese-academy-sciences
+      role: member
+      from: 2011
+      note: Elected member 2011
+    - org: emory
+      role: alumni
+      note: PhD 1995
   sibel-edmonds:
     born: 1970
     nationality: USA
@@ -43546,6 +44872,23 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  tara-otoole:
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 2009
+      to: 2013
+      note: Under Secretary for Science & Technology, DHS
+    - org: in-q-tel
+      role: executive
+      from: 2014
+      note: Executive VP, Senior Fellow
+    - org: jh-health-security
+      role: executive
+      from: 1998
+      to: 2003
+      note: Co-founder, Director 2001-2003
   tareq-darwazeh:
     nationality: JOR
     note: COO MENA Hikma Pharmaceuticals
@@ -43779,6 +45122,11 @@ persons:
       role: minister
       from: 2012
       to: 2016
+    - org: governo-etiopia
+      role: minister
+      from: 2005
+      to: 2012
+      note: Ministro della Salute
     - org: oms
       role: executive
       from: 2017
@@ -43792,6 +45140,24 @@ persons:
       role: executive
       from: 2017
       note: Director-General
+    - org: university-asmara
+      role: alumni
+      note: BSc Biology 1986
+    - org: london-school-hygiene
+      role: alumni
+      note: MSc Immunology 1992
+    - org: university-nottingham
+      role: alumni
+      note: PhD Community Health 2000
+    - org: rbm-partnership
+      role: chairman
+      from: 2009
+      to: 2011
+      note: Chair
+    relations:
+    - person: bill-gates
+      type: associate
+      note: Partnership su Global Fund, GAVI, eradicazione malaria
   tench-coxe:
     born: 1957
     nationality: USA
@@ -43828,6 +45194,32 @@ persons:
     - org: microsoft
       role: board
       note: Audit Committee Chair
+  terje-rod-larsen:
+    born: 1947
+    nationality: NOR
+    affiliations:
+    - org: wef
+      role: member
+    - org: united-nations
+      role: executive
+      from: 1994
+      to: 2004
+      note: UN Special Coordinator Middle East Peace Process, Under-Secretary-General
+    - org: ipi
+      role: executive
+      from: 2005
+      to: 2020
+      note: President and CEO - resigned over Epstein connections
+    - org: international-peace-institute
+      role: executive
+      from: 2005
+      to: 2020
+      note: President
+    relations:
+    - person: jeffrey-epstein
+      type: associate
+      note: Personal loan $130K (2013), 20+ visits to Epstein mansion, IPI received Epstein donations. Children named in Epstein
+        will for $5M each. Resigned IPI 2020.
   terkel-terkelsen:
     born: 1904
     died: 1985
@@ -44126,7 +45518,7 @@ persons:
   thomas-glocer:
     born: 1959
     nationality: USA
-    note: ex-Reuters/Thomson Reuters CEO, CFR member
+    note: ex-Reuters/Thomson Reuters CEO 2001-2011, CFR member, Double Lead Director (Merck + Morgan Stanley)
     affiliations:
     - org: cfr
       role: member
@@ -44138,6 +45530,41 @@ persons:
       role: board
       from: 2007
       note: Lead Director
+    - org: atlantic-council
+      role: member
+    - org: publicis
+      role: board
+      note: Director
+    - org: thomson-reuters
+      role: executive
+      from: 1993
+      to: 2011
+      note: VP & Deputy Counsel 1993, CEO Reuters 2001, CEO Thomson Reuters 2008-2011
+    - org: cleveland-clinic
+      role: board
+      note: Trustee
+    - org: columbia
+      role: alumni
+      note: BA Political Science 1981
+    - org: yale-law-school
+      role: alumni
+      note: JD 1984
+    - org: davis-polk
+      role: executive
+      from: 1984
+      to: 1993
+      note: M&A lawyer, NY/Paris/Tokyo
+    - org: bluevoyant
+      role: founder
+      from: 2017
+      note: Co-founder & Executive Chairman
+    relations:
+    - person: david-thomson
+      type: colleague
+      note: CEO under Thomson chairmanship at Thomson Reuters
+    - person: james-gorman
+      type: colleague
+      note: Lead Director Morgan Stanley during Gorman CEO tenure
   thomas-hogan:
     nationality: USA
     affiliations:
@@ -44314,6 +45741,26 @@ persons:
     - org: northrop-grumman
       role: board
       note: Ex CFO Walmart
+  thorbjorn-jagland:
+    born: 1950
+    nationality: NOR
+    affiliations:
+    - org: socialist-international
+      role: board
+      note: Vice-President, Chair of Middle East Committee
+    - org: council-of-europe
+      role: executive
+      from: 2009
+      to: 2019
+      note: Secretary General, first to be re-elected (2014)
+    relations:
+    - person: bill-gates
+      type: associate
+      note: Met with Gates and Epstein at Jagland residence Strasbourg 2013
+    - person: jeffrey-epstein
+      type: associate
+      note: 6 meetings 2013-2018. Met at Strasbourg, NYC. Epstein-Gates meeting at Jagland residence 2013. Loan request 2014.
+        Under investigation for financial crimes.
   thorkil-kristensen:
     born: 1899
     died: 1989
@@ -44503,6 +45950,37 @@ persons:
   timothy-haugh:
     nationality: USA
     note: NSA Director, Cyber Command Commander (2024-)
+  timothy-may:
+    born: 1951
+    died: 2018
+    nationality: USA
+    note: Father of crypto-anarchy. Wrote "Crypto Anarchist Manifesto" (1988). Co-founded cypherpunks mailing list (1992).
+      Intel senior scientist who discovered alpha particle problem.
+    affiliations:
+    - org: intel
+      role: executive
+      from: 1974
+      to: 1986
+      note: Senior Scientist. Discovered alpha particle problem. IEEE Baker Award 1981. Retired at 35.
+    - org: uc-santa-barbara
+      role: alumni
+      note: BS Physics 1974, Regents Scholarship, College of Creative Studies
+    relations:
+    - person: david-chaum
+      type: influenced_by
+      note: Chaum ideas inspired Crypto Anarchist Manifesto (1988)
+    - person: eric-hughes
+      type: colleague
+      note: Co-founded cypherpunks mailing list 1992
+    - person: hal-finney
+      type: colleague
+      note: Cypherpunk colleagues
+    - person: john-gilmore
+      type: colleague
+      note: Co-founded cypherpunks mailing list 1992
+    - person: nick-szabo
+      type: colleague
+      note: Cypherpunk colleagues, both early mailing list members
   tina-jonas:
     nationality: USA
     affiliations:
@@ -44692,6 +46170,34 @@ persons:
       role: partner
     - org: ideo
       role: board
+  tom-inglesby:
+    born: 1966
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2021
+      to: 2022
+      note: White House COVID-19 Response Team, National Testing Coordinator
+    - org: johns-hopkins
+      role: faculty
+      from: 1997
+      note: Professor Environmental Health & Engineering, Joint Appointment Medicine
+    - org: columbia
+      role: alumni
+      note: MD 1992
+    - org: georgetown
+      role: alumni
+      note: BA 1988
+    - org: cdc
+      role: board
+      from: 2010
+      to: 2019
+      note: Chair, Board of Scientific Counselors, Center for Preparedness and Response
+    - org: jh-health-security
+      role: executive
+      from: 1998
+      note: Co-founder, current Director
   tom-mckillop:
     nationality: GBR
     affiliations:
@@ -44739,6 +46245,42 @@ persons:
       role: executive
       from: 2024
       note: CEO (Sep 2024-)
+  tomasz-stanczak:
+    born: 1985
+    nationality: POL
+    affiliations:
+    - org: ethereum-foundation
+      role: executive
+      from: 2025
+      note: Co-Executive Director 2025-, founder of Nethermind
+    - org: nethermind
+      role: founder
+      from: 2017
+      note: CEO 2017-2025
+    - org: flashbots
+      role: executive
+      from: 2021
+      note: Early team member, President
+    - org: starknet-foundation
+      role: board
+      from: 2022
+    - org: oiler-network
+      role: founder
+      from: 2020
+    - org: lantern-capital
+      role: founder
+      from: 2021
+      note: Co-founder, General Partner
+    - org: poznan-university-economics
+      role: alumni
+      note: Business Administration 2005-2010 (non completato)
+    relations:
+    - person: hsiao-wei-wang
+      type: colleague
+      note: Co-Executive Directors EF 2025
+    - person: vitalik-buterin
+      type: colleague
+      note: EF leadership, Nethermind core developer
   tommaso-padoa-schioppa:
     born: 1940
     died: 2010
@@ -45155,6 +46697,17 @@ persons:
     - person: shari-redstone
       type: child
       note: Son of Shari Redstone
+  tyler-winklevoss:
+    born: 1981
+    nationality: USA
+    affiliations:
+    - org: gemini-exchange
+      role: founder
+      from: 2014
+    relations:
+    - person: cameron-winklevoss
+      type: sibling
+      note: Twin brothers
   udi-mokady:
     born: 1968
     nationality: ISR-USA
@@ -45376,12 +46929,44 @@ persons:
       to: 2023
       note: Presidente
   valerie-amos:
+    born: 1954
     nationality: GBR
+    note: Baroness Amos of Brondesbury. First Black woman in UK Cabinet, first to lead House of Lords, first Black head of
+      Oxford college.
     affiliations:
+    - org: governo-uk
+      role: minister
+      from: 2003
+      to: 2007
+      note: Secretary of State International Development 2003, Leader House of Lords 2003-2007
     - org: chatham-house
       role: board
-      from: 2025
-      note: President
+      from: 2026
+      note: Co-President (with Theresa May, Helen Clark)
+    - org: un-foundation
+      role: board
+    - org: united-nations
+      role: executive
+      from: 2010
+      to: 2015
+      note: Under-Secretary-General for Humanitarian Affairs
+    - org: international-peace-institute
+      role: board
+      note: Board of Directors
+    - org: warwick
+      role: alumni
+      note: BA Sociology
+    - org: university-college-oxford
+      role: executive
+      from: 2020
+      note: Master (first Black, first woman)
+    - org: soas
+      role: executive
+      from: 2015
+      to: 2020
+      note: Director
+    - org: mastercard-foundation
+      role: board
   valerie-baudson:
     born: 1972
     nationality: FRA
@@ -45956,6 +47541,37 @@ persons:
       role: member
       from: 2014
       note: Mayor Kyiv, regular Davos speaker
+  vitalik-buterin:
+    born: 1994
+    nationality: CAN-RUS
+    affiliations:
+    - org: thiel-fellowship
+      role: member
+      from: 2014
+      note: Thiel Fellow 2014, founder of Ethereum
+    - org: waterloo
+      role: alumni
+      from: 2012
+      to: 2013
+      note: Computer Science (dropped out), research assistant for Ian Goldberg
+    - org: ethereum-foundation
+      role: founder
+      from: 2014
+      note: Co-founder, primary architect of Ethereum protocol
+    - org: bitcoin-magazine
+      role: founder
+      from: 2011
+      note: Co-founder with Mihai Alisie
+    relations:
+    - person: charles-hoskinson
+      type: colleague
+      note: Ethereum co-founders 2014, Hoskinson left over governance dispute
+    - person: gavin-wood
+      type: colleague
+      note: Ethereum co-founders 2014
+    - person: joseph-lubin
+      type: colleague
+      note: Ethereum co-founders 2014
   vittorio-cini:
     nationality: ITA
     affiliations:
@@ -46489,6 +48105,26 @@ persons:
       role: leader
       from: 2022
       note: Politburo Standing Committee
+  wang-yanyi:
+    born: 1981
+    nationality: CHN
+    affiliations:
+    - org: wuhan-institute-virology
+      role: executive
+      from: 2018
+      note: Director General
+    - org: wuhan-university
+      role: alumni
+      note: PhD
+    - org: peking-university
+      role: alumni
+      note: BA 2004
+    - org: university-colorado
+      role: alumni
+      note: MSc
+    relations:
+    - person: shu-hongbing
+      type: spouse
   wang-yi:
     born: 1953
     nationality: CHN
@@ -48166,6 +49802,45 @@ persons:
       role: board
       from: 1981
       note: Counselor & Trustee
+  zeid-raad-al-hussein:
+    born: 1964
+    nationality: JOR
+    note: Prince of Jordan, pretender to thrones of Iraq and Syria. UN High Commissioner Human Rights 2014-2018. First president
+      ICC Assembly of State Parties.
+    affiliations:
+    - org: the-elders
+      role: member
+      from: 2019
+    - org: governo-giordania
+      role: diplomat
+      from: 1996
+      note: Deputy Perm Rep UN 1996-2000, Perm Rep UN 2000-2007 & 2010-2014, Ambassador USA 2007-2010
+    - org: american-academy-arts-sciences
+      role: member
+      from: 2019
+    - org: upenn
+      role: academic
+      note: Perry World House Professor of Practice of Law and Human Rights
+    - org: johns-hopkins
+      role: alumni
+      note: BA
+    - org: cambridge
+      role: alumni
+      note: PhD (Christ's College)
+    - org: united-nations
+      role: executive
+      from: 2014
+      to: 2018
+      note: High Commissioner for Human Rights
+    - org: international-peace-institute
+      role: executive
+      from: 2021
+      note: President and CEO
+    - org: international-criminal-court
+      role: executive
+      from: 2002
+      to: 2005
+      note: First President, Assembly of State Parties
   zeng-liqing:
     nationality: CHN
   zenko-suzuki:
