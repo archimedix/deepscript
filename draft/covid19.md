@@ -1,5 +1,5 @@
 # DAI FILE EPSTEIN EMERGE UN'ARCHITETTURA VENTENNALE DIETRO LE PANDEMIE COME MODELLO DI BUSINESS. CON BILL GATES AL CENTRO
-
+https://giubberosse.substack.com/p/dai-file-epstein-emerge-unarchitettura
 **GIUBBE ROSSE**
 FEB 03, 2026
 
@@ -503,8 +503,6 @@ Persone
   │ [v]Ralph Baric       │ Ricercatore UNC Chapel Hill; titolare brevetti su coronavirus ricombinante e proteine spike                                │
   ├───────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
   │ Klaus Schwab      │ Fondatore World Economic Forum; menzionato come potenziale datore di lavoro nella rete                                     │
-  ├───────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ Sayer Ji          │ Autore dell'articolo originale                                                                                             │
   └───────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
   Organizzazioni/Entità
   ┌──────────────────────────────────────────┬─────────────────────────┬───────────────────────────────────────────────────────────────────────────────────────────────┐
@@ -522,9 +520,9 @@ Persone
   ├──────────────────────────────────────────┼─────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────┤
   │ World Economic Forum (WEF)               │ Forum                   │ Lancio CEPI (2017); co-organizzatore Event 201                                                │
   ├──────────────────────────────────────────┼─────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ [] Swiss Re                              │ Riassicurazione         │ Sviluppo prodotti pandemici con trigger parametrici                                           │
+  │ [v] Swiss Re                             │ Riassicurazione         │ Sviluppo prodotti pandemici con trigger parametrici                                           │
   ├──────────────────────────────────────────┼─────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ [] Munich Re                             │ Riassicurazione         │ Strutturazione pandemic bonds Banca Mondiale                                                  │
+  │ [v] Munich Re                            │ Riassicurazione         │ Strutturazione pandemic bonds Banca Mondiale                                                  │
   ├──────────────────────────────────────────┼─────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────┤
   │ [v] Merck                                │ Farmaceutica            │ Team vaccinale (Gardasil/HPV); punto di collocamento nella rete                               │
   ├──────────────────────────────────────────┼─────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────┤
@@ -536,13 +534,13 @@ Persone
   ├──────────────────────────────────────────┼─────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────┤
   │ Banca Mondiale                           │ Istituzione finanziaria │ Emissione pandemic bonds ($320M, 2017) tramite Pandemic Emergency Financing Facility          │
   ├──────────────────────────────────────────┼─────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ CEPI                                     │ Coalizione              │ Lanciata a Davos 2017 con $460M; obiettivo: vaccini in <12 mesi                               │
+  │ [v] CEPI                                 │ Coalizione              │ Lanciata a Davos 2017 con $460M; obiettivo: vaccini in <12 mesi                               │
   ├──────────────────────────────────────────┼─────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ Global Health Investment Fund (GHIF)     │ Fondo investimento      │ Veicolo "impact investing" per vaccini/farmaci; rendimenti 5-7%; garanzia capitale 60%        │
+  │ [v]Global Health Investment Fund (GHIF)  │ Fondo investimento      │ Veicolo "impact investing" per vaccini/farmaci; rendimenti 5-7%; garanzia capitale 60%        │
   ├──────────────────────────────────────────┼─────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ UNC Chapel Hill                          │ Università              │ Laboratorio Baric; ricerca gain-of-function su coronavirus                                    │
+  │ []UNC Chapel Hill                        │ Università              │ Laboratorio Baric; ricerca gain-of-function su coronavirus                                    │
   ├──────────────────────────────────────────┼─────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────────┤
-  │ Wellcome Trust                           │ Fondazione              │ Co-finanziatore CEPI                                                                          │
+  │ [v]Wellcome Trust                        │ Fondazione              │ Co-finanziatore CEPI                                                                          │
   └──────────────────────────────────────────┴─────────────────────────┴───────────────────────────────────────────────────────────────────────────────────────────────┘
   Eventi chiave
   ┌──────────────┬───────────────────────────────────────────────────────────────────────────────────┐
@@ -577,9 +575,236 @@ Persone
   [v]ecohealth-alliance
   ONG USA che finanziò ricerca coronavirus a Wuhan, debarred da fondi federali 2025
   successore:   Nature.Health.Global
-  GPMB
   [v] wuhan-institute-virology
   - [v]gerald-durrell: founder 1971 [NUOVO - stub creato]
   - [v]peter-daszak: executive 2001-2025 (aggiornato con date complete)
   - [v]ralph-baric: partner (Co-PI DEFUSE)
   - [v]shi-zhengli: partner (WIV collaborator) [NUOVO]
+
+
+  [v]GPMB
+  - [v] kolinda-grabar-kitarovic - ex Presidente Croazia (HRV)
+  - [v] joy-phumaphi - ex Min. Salute Botswana (BWA)
+  - [v] victor-dzau - President NAM (USA)
+  - [v] henrietta-fore - ex UNICEF Executive Director (USA)
+  - [v] ilona-kickbusch - Global Health Centre Geneva (DEU)
+
+  [v] GAVI
+  [v] CEPI
+
+  ┌───────────────---─────┬─────────────────────┬─────────────┬───────────────────────────────────────────┐
+  │         ID            │        Nome         │ Nazionalità │                Background                 │
+  ├──────────────---──────┼─────────────────────┼─────────────┼───────────────────────────────────────────┤
+  │ [v]soumya-swaminathan │ Soumya Swaminathan  │ IND         │ Ex-WHO Chief Scientist                    │
+  ├───────────────---─────┼─────────────────────┼─────────────┼───────────────────────────────────────────┤
+  │ [v]yasuhiro-suzuki    │ Yasuhiro Suzuki     │ JPN         │ Ex-Vice-Minister Health Japan             │
+  ├───────────────---─────┼─────────────────────┼─────────────┼───────────────────────────────────────────┤
+  │ [v]michael-ryan       │ Michael Ryan        │ IRL         │ WHO Health Emergencies Director           │
+  ├────────────────---────┼─────────────────────┼─────────────┼───────────────────────────────────────────┤
+  │ [v]githinji-gitahi    │ Githinji Gitahi     │ KEN         │ CEO Amref Health Africa                   │
+  ├────────────────---────┼─────────────────────┼─────────────┼───────────────────────────────────────────┤
+  │ [v]samba-sow          │ Samba Sow           │ MLI         │ Director CVD-Mali, ex-Health Minister     │
+  ├─────────────────---───┼─────────────────────┼─────────────┼───────────────────────────────────────────┤
+  │ [v]anita-zaidi        │ Anita Zaidi         │ PAK-USA     │ Gates Foundation vaccine director         │
+  ├───────────────---─────┼─────────────────────┼─────────────┼───────────────────────────────────────────┤
+  │ [v]nisia-trindade     │ Nísia Trindade Lima │ BRA         │ President Fiocruz, Brazil Health Minister │
+  ├───────────────---─────┼─────────────────────┼─────────────┼───────────────────────────────────────────┤
+  │ [v]juan-pablo-uribe   │ Juan Pablo Uribe    │ COL         │ World Bank Global Director Health         │
+  ├───────────────---─────┼─────────────────────┼─────────────┼───────────────────────────────────────────┤
+  │ [v]chikwe-ihekweazu   │ Chikwe Ihekweazu    │ NGA-DEU     │ WHO Health Emergencies (dal 2025)         │
+  ├───────────────---─────┼─────────────────────┼─────────────┼───────────────────────────────────────────┤
+  │ [v]gagandeep-kang     │ Gagandeep Kang      │ IND         │ JCG Chair, microbiologist                 │
+  └────────────────---────┴─────────────────────┴─────────────┴───────────────────────────────────────────┘
+
+  
+  [v]Wellcome Trust
+  La piu' grande fondazione biomedica del mondo, co-architetto della risposta globale alle pandemie
+- [v] jeremy-farrar
+- [v] eliza-manningham-buller
+- [v] julia-gillard
+
+  WHO
+  SAGE
+  GSK
+  davos-alzheimers
+  barda : Biomedical Advanced Research and Development Authority
+  
+  2019-event-201
+  ┌──────────────┬────────────────────┬────────────────────────────────────────────┐
+  │     Tipo     │         ID         │                    Nome                    │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Person       │ [v]george-gao         │ George Fu Gao (Director-General China CDC) │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Person       │ [v]chris-elias        │ Christopher J. Elias (Gates Foundation)    │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Person       │ [v]stephen-redd       │ Stephen C. Redd (CDC)                      │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Person       │ [v]jane-halton        │ Jane Halton (Australia)                    │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Person       │ [v]timothy-evans      │ Timothy Grant Evans (World Bank)           │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Person       │ [v]adrian-thomas      │ Adrian Thomas (J&J)                        │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Person       │ [v]matthew-harrington │ Matthew J. Harrington (Edelman)            │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Organization │ china-cdc          │ Chinese Center for Disease Control         │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Organization │ [v]johnson-johnson    │ Johnson & Johnson                          │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Organization │ [v]edelman            │ Edelman (PR)                               │
+  ├──────────────┼────────────────────┼────────────────────────────────────────────┤
+  │ Organization │ [v]anz-bank           │ ANZ Bank                                   │
+  └──────────────┴────────────────────┴────────────────────────────────────────────┘
+
+  emergenze sanitarie americane: Anthrax 2001, H1N1 2009 (come Incident Commander), Ebola
+  2014-16, Flint Water Crisis, Zika.
+
+  Edelman
+  La piu' grande agenzia PR al mondo, architetto del Trust Barometer e della narrativa istituzionale globale
+
+  [v] GHIF : Global Health Investment Fund
+  ┌─────────────---─────┬──────────────────┬───────────────────────┐
+  │     Persona         │  Organizzazione  │         Ruolo         │
+  ├────────────---──────┼──────────────────┼───────────────────────┤
+  │ [v]seth-berkley     │ ghif             │ Senior Advisor        │
+  ├─────────────---─────┼──────────────────┼───────────────────────┤
+  │ [v]labeeb-abboud    │ ghic             │ Chairman/CEO          │
+  ├──────────────---────┼──────────────────┼───────────────────────┤
+  │ [v]george-wellde    │ goldman-sachs    │ Partner (30 anni)     │
+  ├────────────────---──┼──────────────────┼───────────────────────┤
+  │ [v]vidya-vasu-devan │ goldman-sachs    │ Analyst               │
+  └─────────────----────┴──────────────────┴───────────────────────┘
+
+  [v] IAVI: International AIDS Vaccine Initiative
+  ┌───────────────────┬────────────────┬─────────────────────────────────────┐
+  │      Persona      │ Organizzazione │                Ruolo                │
+  ├───────────────────┼────────────────┼─────────────────────────────────────┤
+  │ [v]mark-feinberg  │ stanford       │ Alumni (MD, PhD)                    │
+  ├───────────────────┼────────────────┼─────────────────────────────────────┤
+  │ [v]eric-goosby    │ iavi           │ Board Chair                         │
+  ├───────────────────┼────────────────┼─────────────────────────────────────┤
+  │ [v]rajeev-venkayya│ iavi           │ Board                               │
+  ├──────────────────--─┼────────────────┼─────────────────────────────────────┤
+  │ [v]linda-gail-bekker│ iavi           │ Board                               │
+  ├──────────────────--─┼────────────────┼─────────────────────────────────────┤
+  │ [v]susan-silbermann │ pfizer         │ Ex-Global President                 │
+  ├──────────────────--─┼────────────────┼─────────────────────────────────────┤
+  │ [√]marijke-wijnroks │ global-fund    │ Head Strategic Investment           │
+  └──────────────────--─┴────────────────┴─────────────────────────────────────┘
+
+[v] Pandemic Emergency Financing Facility (PEF)
+[v] swiss-re
+
+Chairmen
+  ┌────────────────────┬───────────┬─────────────────────────────────────────────┐
+  │        Nome        │  Periodo  │                 Background                  │
+  ├────────────────────┼───────────┼─────────────────────────────────────────────┤
+  │ [v] walter-kielholz│ 2009-2021 │ Ex-CEO Swiss Re (1997-2002), board dal 1998 │
+  ├────────────────────┼───────────┼─────────────────────────────────────────────┤
+  │ Sergio P. Ermotti  │ 2021-2023 │ Ex-CEO UBS, poi tornato CEO UBS nel 2023    │
+  └────────────────────┴───────────┴─────────────────────────────────────────────┘
+  CEOs (Group Executive Committee, non nel Board)
+  ┌───────────────────────┬───────────┐
+  │         Nome          │  Periodo  │
+  ├───────────────────────┼───────────┤
+  │ Stefan Lippe          │ 2009-2012 │
+  ├───────────────────────┼───────────┤
+  │ Michel M. Liès        │ 2012-2016 │
+  ├───────────────────────┼───────────┤
+  │ [v]Christian Mumenthaler │ 2016-2024 │
+  └───────────────────────┴───────────┘
+  Board Members Non-Executive (2010-2022)
+  ┌──────────────────────┬───────┬────────┬───────────────────────────────────────────────────────────┐
+  │         Nome         │ Board │ Uscita │                        Background                         │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Mathis Cabiallavetta │ 2008  │ 2016   │ Vice Chairman, ex-President UBS                           │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ [v]Raymund Breu         │ ~2003 │ 2015   │ Ex-CFO Novartis                                           │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Hans Ulrich Maerki   │ 2007  │ 2016   │ -                                                         │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Rajna Gibson Brandon │ 2000  │ 2018   │ Accademica, Univ. Genève (17 anni di board!)              │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Jean-Pierre Roth     │ 2010  │ 2016   │ Ex-President Swiss National Bank                          │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Carlos E. Represas   │ 2010  │ 2017   │ Messico                                                   │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ [v]Renato Fassbind      │ 2011  │ 2023   │ Vice Chairman, Lead Indep. Director, ex-CFO Credit Suisse │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ [v]Raymond K.F. Ch'ien  │ 2011  │ 2022   │ Hong Kong businessman                                     │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ C. Robert Henrikson  │ 2012  │ 2018   │ Ex-CEO MetLife                                            │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Mary Francis CBE     │ 2013  │ 2018   │ UK government background                                  │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ [v]Susan L. Wagner   │ 2014  │ 2023   │ Co-founder BlackRock, Investment Cmt Chair                │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ [v]Trevor Manuel        │ 2015  │ 2020   │ Ex-Finance Minister South Africa                          │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ [v]Philip K. Ryan       │ 2015  │ 2025   │ Finance Committee Chair                                   │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ [v]Paul Tucker          │ 2016  │ ~2023  │ Ex-Deputy Governor Bank of England, G20 FSB               │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Jay Ralph            │ 2017  │ -      │ Ex-Board of Management Allianz                            │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Joerg Reinhardt      │ 2017  │ -      │ Chairman Novartis                                         │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Jacques de Vaucleroy │ 2017  │ -      │ Ex-AXA (Chairman dal 2024)                                │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Karen Gavan          │ 2018  │ -      │ Ex-CEO Economical Insurance                               │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ [v]Eileen Rominger      │ 2018  │ 2020   │ Ex-Goldman Sachs AM, Global CIO                           │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ Larry Zimpleman      │ 2018  │ -      │ Ex-Chairman The Principal                                 │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ [v]Joachim Oechslin     │ 2020  │ -      │ Ex-CRO Credit Suisse e Munich Re                          │
+  ├──────────────────────┼───────┼────────┼───────────────────────────────────────────────────────────┤
+  │ [v]Deanna Ong           │ 2020  │ -      │ CPO del GIC (sovereign wealth fund Singapore)             │
+  └──────────────────────┴───────┴────────┴───────────────────────────────────────────────────────────┘
+
+[v] munich-re
+  ┌──────────────────────┬───────────┬───────────┬───────────────────────────────────────────┐
+  │       Persona        │   Ruolo   │  Periodo  │                   Note                    │
+  ├──────────────────────┼───────────┼───────────┼───────────────────────────────────────────┤
+  │ nikolaus-von-bomhard │ chairman  │ 2019-     │ Supervisory Board Chair, ex-CEO 2004-2017 │
+  ├──────────────────────┼───────────┼───────────┼───────────────────────────────────────────┤
+  │ joachim-wenning      │ executive │ 2017-2025 │ CEO (Board of Management Chair)           │
+  └──────────────────────┴───────────┴───────────┴───────────────────────────────────────────┘
+
+[v] skoll-foundation
+  ┌──────────────────┬──────────────────────────────────────┬───────────┐
+  │     Persona      │                Ruolo                 │  Periodo  │
+  ├──────────────────┼──────────────────────────────────────┼───────────┤
+  │ [v]Jeff Skoll       │ founder, Chairman                    │ 1999-     │
+  ├──────────────────┼──────────────────────────────────────┼───────────┤
+  │ [v]Sally Osberg     │ executive (CEO)                      │ 2001-2017 │
+  ├──────────────────┼──────────────────────────────────────┼───────────┤
+  │ [v]Larry Brilliant  │ executive (Pres. SGTF)               │ 2009-2017 │
+  ├──────────────────┼──────────────────────────────────────┼───────────┤
+  │ [v]Don Gips         │ executive (CEO)                      │ 2019-2025 │
+  ├──────────────────┼──────────────────────────────────────┼───────────┤
+  │ Nancy Messonnier │ executive (Dir. Pandemic Prevention) │ 2021-2022 │
+  └──────────────────┴──────────────────────────────────────┴───────────┘
+  [v]co-impact
+  [v]olivia-leland
+  [v]anita-zaidi
+
+  [v]millennium-challenge-corporation
+  ┌─────────────────┬──────────────────────────┬──────────────────────┐
+  │       ID        │           Nome           │         Note         │
+  ├─────────────────┼──────────────────────────┼──────────────────────┤
+  │ alice-albright  │ Alice Patterson Albright │ CEO 2022-2025        │
+  ├─────────────────┼──────────────────────────┼──────────────────────┤
+  │ paul-applegarth │ Paul V. Applegarth       │ CEO 2004-2005 (stub) │
+  ├─────────────────┼──────────────────────────┼──────────────────────┤
+  │ john-danilovich │ John Danilovich          │ CEO 2005-2009 (stub) │
+  ├─────────────────┼──────────────────────────┼──────────────────────┤
+  │ daniel-yohannes │ Daniel W. Yohannes       │ CEO 2009-2014 (stub) │
+  ├─────────────────┼──────────────────────────┼──────────────────────┤
+  │ dana-hyde       │ Dana Hyde                │ CEO 2014-2017 (stub) │
+  ├─────────────────┼──────────────────────────┼──────────────────────┤
+  │ sean-cairncross │ Sean Cairncross          │ CEO 2019-2021 (stub) │
+  └─────────────────┴──────────────────────────┴──────────────────────┘
+
+  atlantic-philanthropies
+  AmeriCorps.

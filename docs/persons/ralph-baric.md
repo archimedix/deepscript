@@ -35,6 +35,7 @@
 | **oggi** | William R. Kenan Jr. Distinguished Professor | Dept. Epidemiology, UNC |
 | **oggi** | Professor | Dept. Microbiology and Immunology, UNC |
 | **2021** | Elected Member | [National Academy of Sciences](../agency/national-academy-sciences.md) |
+| **2022** | Elected Member | [American Academy of Arts and Sciences](../forum/american-academy-arts-sciences.md) |
 
 ### Finanziamenti Principali
 
@@ -46,12 +47,19 @@
 | **2020s** | NIAID AViDD Center | $65M |
 | **Totale carriera** | NIH grants | $100M+ |
 
+### Brevetto Fondamentale
+
+**US Patent 7,279,327** (filed 19 aprile 2002): "Methods for producing recombinant coronavirus". Inventori: Kristopher M. Curtis, Ralph S. Baric, Boyd Yount. Assegnato a UNC Chapel Hill. Brevetto fondativo per la genetica inversa dei coronavirus.
+
 ### Contributi Scientifici Chiave
 
 | Anno | Contributo |
 |------|------------|
-| **1990s** | Sviluppo tecniche genetica inversa per coronavirus |
-| **2015** | Paper Nature Medicine: virus chimerico SHC014-MA15 |
+| **1990s** | Sviluppo tecniche genetica inversa per coronavirus (MHV, TGEV) |
+| **2002** | Brevetto US 7,279,327 - metodi per coronavirus ricombinanti |
+| **2003** | Clone cDNA full-length infettivo di SARS-CoV (PNAS) - in ~2 mesi da RNA virale |
+| **2013** | Clone cDNA full-length infettivo di MERS-CoV (PNAS) |
+| **2015** | Paper Nature Medicine: virus chimerico SHC014-MA15 con Shi Zhengli |
 | **2016-2017** | Identificazione remdesivir come antivirale pan-coronavirus |
 | **2018-2019** | Collaborazione NIH/VRC per vaccino mRNA anti-MERS |
 | **2020** | Tra i primi a ricevere e analizzare SARS-CoV-2 |
@@ -72,9 +80,16 @@
 | **FDA Approval** | Emergency Use Authorization maggio 2020 |
 | **Impatto** | Primo farmaco anti-COVID-19 approvato al mondo |
 
-### Molnupiravir
+### Molnupiravir (EIDD-2801)
 
-Secondo antivirale anti-COVID sviluppato con contributo del Baric Lab, dimostrato efficace contro tutti i coronavirus prima della pandemia.
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Scoperta** | Emory Institute for Drug Development (EIDD) / DRIVE |
+| **Preclinica** | Baric lab (UNC) + Mark Denison (Vanderbilt) dimostrarono efficacia vs SARS-CoV-2 |
+| **Licenza** | [Ridgeback Biotherapeutics](../pharma/ridgeback-biotherapeutics.md) (Wayne Holman, Wendy Painter) |
+| **Sviluppo globale** | Partnership Ridgeback-[Merck](../pharma/merck.md) |
+| **Vantaggio** | Orale (pillola) vs remdesivir (IV) |
+| **Ruolo Baric** | Co-autore risultati Phase 2a trial con Ridgeback |
 
 ### Vaccini mRNA (Moderna/NIH)
 
@@ -148,6 +163,10 @@ Proposta DARPA respinta:
 - Nego' di aver creato "superviruses"
 - Confermo' preoccupazioni su standard BSL-2 in Cina
 
+### Robert Redfield Claims (Novembre 2024)
+
+Ex CDC Director Robert Redfield ha dichiarato in un'intervista podcast di credere che SARS-CoV-2 sia stato sviluppato nell'ambito di un "biodefense program" a UNC Chapel Hill e ha definito Baric il "scientific mastermind". Redfield ha ammesso di non avere prove definitive.
+
 ### North Carolina State Investigation (2025)
 
 | Data | Evento |
@@ -155,6 +174,10 @@ Proposta DARPA respinta:
 | **Giugno 2025** | Speaker Destin Hall richiede documenti a UNC |
 | **Scope** | Records dal 2 luglio 2020 al 12 agosto 2024 |
 | **Focus** | Baric Lab, SARS-CoV-2, Wuhan Institute of Virology |
+
+### Causa FOIA contro UNC (2025-2026)
+
+Un nonprofit (US Right to Know) ha fatto causa a UNC per il rifiuto di rilasciare documenti di ricerca relativi a Baric e le origini COVID-19. A gennaio 2026, la NC Court of Appeals ha confermato il diritto di UNC a trattenere migliaia di pagine di documenti sulla genetic engineering research.
 
 ### DNI Investigation
 
@@ -170,13 +193,49 @@ Proposta DARPA respinta:
 
 ---
 
+## READDI-AViDD Center
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nome** | Rapidly Emerging Antiviral Drug Development Initiative |
+| **Grant** | $65M da NIAID (maggio 2022) |
+| **Program Director** | Ralph Baric |
+| **Co-director** | Tim Willson (UNC Eshelman School of Pharmacy) |
+| **Co-founders** | Mark Heise, Nathaniel Moorman |
+| **Partner corporate** | Janssen (J&J), Takeda, Chimerix, Pardes Biosciences |
+| **Consorzio** | 20+ istituzioni in 5 nazioni (Toronto, Duke, Vanderbilt) |
+| **Target** | Coronavirus, flavivirus, alphavirus, filovirus |
+
+Uno dei 9 AViDD Centers del NIH Antiviral Program for Pandemics (APP).
+
+---
+
+## Intelligence e Governo USA
+
+| Data | Evento |
+|------|--------|
+| **~2015-2020** | Advisor ODNI su biological threats (~4 volte/anno) |
+| **Settembre 2015** | ODNI facilita incontro CIA-Baric su "coronavirus evolution and possible natural human adaptation" |
+| **Gennaio 2020** | Presenta a ODNI ipotesi che COVID possa avere origine da laboratorio |
+| **Gennaio 2021** | Biological threats hub ODNI scarta evidenze lab leak come "misinformation" |
+
+Documenti rilasciati dal Sen. Rand Paul, ottobre 2025.
+
+---
+
 ## Onorificenze
 
 | Anno | Riconoscimento |
 |------|----------------|
+| **1986** | Harvey Weaver Scholar, National Multiple Sclerosis Society |
+| **1994** | Established Investigator Award, American Heart Association |
+| **2019** | William R. Kenan Jr. Distinguished Professorship |
 | **2021** | O. Max Gardner Award (massimo onore UNC System) |
 | **2021** | Elected Member, National Academy of Sciences |
-| **2025** | Clarivate Highly Cited Researchers List |
+| **2022** | Elected Member, American Academy of Arts and Sciences |
+| **2017-2025** | Clarivate Highly Cited Researchers (multiple years) |
+
+**Pubblicazioni:** >200 paper. >127,500 citazioni (Google Scholar).
 
 ---
 
@@ -215,8 +274,11 @@ Proposta DARPA respinta:
 | [Peter Daszak](peter-daszak.md) | PI EcoHealth Alliance, Co-PI Project DEFUSE |
 | [Linfa Wang](linfa-wang.md) | Co-investigator Project DEFUSE |
 | [Anthony Fauci](anthony-fauci.md) | Director NIAID, supervisore grants NIH |
+| Mark Denison | Vanderbilt, 17+ anni collaborazione, co-sviluppo molnupiravir |
+| Timothy Sheahan | UNC, PhD student dal 2003, ora Gillings Asst Professor |
 | Vineet Menachery | Primo autore paper 2015, collaboratore UNC |
-| Timothy Sheahan | Collaboratore UNC, co-scopritore remdesivir |
+| Boyd Yount | UNC, co-inventore brevetto US 7,279,327 |
+| Tim Willson | Co-director READDI-AViDD Center |
 
 ---
 
@@ -233,7 +295,11 @@ Proposta DARPA respinta:
 | [National Academy of Sciences](../agency/national-academy-sciences.md) | Member 2021 |
 | [EcoHealth Alliance](../foundation/ecohealth-alliance.md) | Collaborator, Co-PI DEFUSE |
 | [Gilead Sciences](../company/gilead.md) | Partner remdesivir |
-| [Moderna](../company/moderna.md) | Partner mRNA vaccines |
+| [Moderna](../pharma/moderna.md) | Partner mRNA vaccines |
+| [Merck](../pharma/merck.md) | Partner molnupiravir (via Ridgeback) |
+| [Ridgeback Biotherapeutics](../pharma/ridgeback-biotherapeutics.md) | Partner molnupiravir preclinical |
+| [American Academy of Arts and Sciences](../forum/american-academy-arts-sciences.md) | Member 2022 |
+| [Governo USA](../government/governo-usa.md) | ODNI/CIA advisor biodefense |
 
 ### Persone
 
@@ -265,9 +331,14 @@ Proposta DARPA respinta:
 | **2020** | Riceve SARS-CoV-2, contribuisce a vaccino Moderna |
 | **2020** | FDA approva remdesivir (maggio) |
 | **2021** | O. Max Gardner Award, National Academy of Sciences |
+| **2022** | READDI-AViDD Center, $65M da NIAID |
+| **2022** | Elected, American Academy of Arts and Sciences |
 | **2024** | Deposto da House Select Committee (aprile) |
+| **2024** | Ex CDC Dir. Redfield lo chiama "scientific mastermind" (novembre) |
 | **2025** | NC State Legislature richiede documenti (giugno) |
 | **2025** | DNI Gabbard annuncia nuova indagine origini COVID |
+| **2025** | Documenti ODNI/CIA su briefings Baric rilasciati da Sen. Rand Paul (ottobre) |
+| **2026** | NC Court of Appeals conferma diritto UNC a trattenere documenti (gennaio) |
 
 ---
 
@@ -306,6 +377,18 @@ Proposta DARPA respinta:
 - [Nature Medicine - Original Paper](https://www.nature.com/articles/nm.3985)
 - [FactCheck - Gain of Function Disagreement](https://www.factcheck.org/2021/05/the-wuhan-lab-and-the-gain-of-function-disagreement/)
 
+### READDI / Drug Development
+- [READDI-AViDD $65M Grant](https://readdi.org/stories/readdi-receives-65m-grant-from-nih-to-establish-an-antiviral-drug-discovery-avidd-center/)
+- [UNC - Remdesivir Effectiveness](https://sph.unc.edu/sph-news/remdesivir-developed-at-unc-chapel-hill-proves-effective-against-covid-19-in-niaid-human-clinical-trials/)
+
+### Brevetto
+- [US Patent 7,279,327 - Recombinant Coronavirus](https://patents.google.com/patent/US7279327B2/)
+
+### Intelligence / Origini
+- [Daily Caller - ODNI/CIA Documents (Nov 2025)](https://dailycaller.com/2025/11/11/odni-cia-ralph-baric-wuhan-covid-pandemic/)
+- [Carolina Journal - Redfield Claims (Nov 2024)](https://www.carolinajournal.com/former-cdc-director-claims-that-covid-19-emanated-from-unc-chapel-hill/)
+- [Daily Tar Heel - Public Records Lawsuit (2025)](https://www.dailytarheel.com/article/2025/06/university-covid-origins-public-records)
+
 ---
 
-*Ultimo aggiornamento: Febbraio 2025*
+*Ultimo aggiornamento: Febbraio 2026*

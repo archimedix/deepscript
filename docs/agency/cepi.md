@@ -58,6 +58,35 @@
 | Ruolo | Nome | Dal | Background |
 |-------|------|-----|------------|
 | CEO | [Dr. Richard Hatchett](../persons/richard-hatchett.md) | 2017 | Ex-BARDA, NSC Obama, HSC Bush |
+| Chair | [Jane Halton](../persons/jane-halton.md) | 2017 | Ex-Secretary Health Australia |
+| Vice-Chair | [Githinji Gitahi](../persons/githinji-gitahi.md) | 2025 | CEO Amref Health Africa, Chair Equitable Access Committee, Co-Chair UHC2030 |
+
+### Board Members (2025)
+
+| Nome | Tipo | Paese | Ruolo/Background |
+|------|------|-------|------------------|
+| [Soumya Swaminathan](../persons/soumya-swaminathan.md) | Independent | IND | Ex-WHO Chief Scientist (2019-2023), Chair MSSRF, figlia di M.S. Swaminathan |
+| [Yasuhiro Suzuki](../persons/yasuhiro-suzuki.md) | Investor Rep | JPN | Ex-Vice-Minister Health Japan, Ex-WHO Executive Director (1998-2002), President IUHW |
+| [Samba Sow](../persons/samba-sow.md) | Independent | MLI | Director General CVD-Mali (2001-), ex-Minister Health Mali (2017-2019), WHO Special Envoy COVID-19 West Africa, Legion d'Onore |
+| [Anita Zaidi](../persons/anita-zaidi.md) | Independent | PAK-USA | Gates Foundation President Gender Equality (2022-), Director Vaccine Development (2014-2022) |
+| [Juan Pablo Uribe](../persons/juan-pablo-uribe.md) | Observer | COL | World Bank Global Director Health (2021-2025), ex-Health Minister Colombia (2018-2019), now WB Division Director Central America |
+| [Chikwe Ihekweazu](../persons/chikwe-ihekweazu.md) | Observer | NGA-DEU | WHO Health Emergencies (from 2025) |
+| [Victor Dzau](../persons/victor-dzau.md) | Board | USA | NAM President |
+| [Margaret Hamburg](../persons/margaret-hamburg.md) | Former | USA | Ex-FDA Commissioner |
+
+### Advisory
+
+| Ruolo | Nome | Dal |
+|-------|------|-----|
+| JCG Chair | [Gagandeep Kang](../persons/gagandeep-kang.md) | 2023 |
+
+### Former Board
+
+| Nome | Periodo | Note |
+|------|---------|------|
+| [Gagandeep Kang](../persons/gagandeep-kang.md) | 2018-2023 | Board member, ora JCG Chair. Gates Foundation Director (2023-), FRS 2019, "Vaccine Godmother of India" |
+| [Michael Ryan](../persons/michael-ryan.md) | 2023-2025 | WHO rep (non-voting), GOARN founder, Deputy DG WHO 2024-2025, rimosso da exec team 2025 |
+| [Nísia Trindade](../persons/nisia-trindade.md) | 2021-2023 | President Fiocruz (2017-2023), left to become Brazil Health Minister (2023-2025, first woman), now USP Chair |
 
 ### Richard Hatchett - Background
 
@@ -173,14 +202,23 @@ CEPI sta finanziando capacita' produttiva vaccini in Africa per ridurre dipenden
 | [GAVI](../agency/gavi.md) | Partner COVAX |
 | [WHO](../agency/who.md) | Partner COVAX, R&D Blueprint |
 | [WEF](../forum/wef.md) | Lanciato a Davos 2017 |
+| [Amref Health Africa](../foundation/amref.md) | Vice-Chair Gitahi e' CEO |
+| [CVD-Mali](../agency/cvd-mali.md) | Board member Sow e' Director |
 
 ### Figure Chiave
 
 | Persona | Ruolo |
 |---------|-------|
 | [Richard Hatchett](../persons/richard-hatchett.md) | CEO |
+| [Jane Halton](../persons/jane-halton.md) | Chair |
+| [Githinji Gitahi](../persons/githinji-gitahi.md) | Vice-Chair, Chair Equitable Access Committee |
 | [Seth Berkley](../persons/seth-berkley.md) | Co-architetto COVAX (ex-GAVI) |
 | [Bill Gates](../persons/bill-gates.md) | Funder |
+| [Soumya Swaminathan](../persons/soumya-swaminathan.md) | Board, ex-WHO Chief Scientist |
+| [Samba Sow](../persons/samba-sow.md) | Board, Director CVD-Mali, WHO Special Envoy |
+| [Anita Zaidi](../persons/anita-zaidi.md) | Board, Gates Foundation President Gender Equality |
+| [Juan Pablo Uribe](../persons/juan-pablo-uribe.md) | Observer, World Bank Global Director Health |
+| [Gagandeep Kang](../persons/gagandeep-kang.md) | JCG Chair, ex-Board (2018-2023), Gates Foundation Director |
 
 ### Pharma Partners
 
@@ -262,4 +300,4 @@ COVID ha validato il modello CEPI:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

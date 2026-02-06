@@ -26,7 +26,7 @@
 | 2002-2004 | Primo Ministro | Portogallo |
 | 2004-2014 | Presidente | Commissione Europea (2 mandati) |
 | 2016-2024 | Chairman International | Goldman Sachs International |
-| 2021- | Board Chair | GAVI Alliance |
+| 2021-2025 | Board Chair | [GAVI Alliance](../agency/gavi.md) |
 | 2024- | Chair International Advisors | Goldman Sachs |
 
 ### Ruolo chiave: Commissione UE (2004-2014)
@@ -46,7 +46,7 @@ Due mandati consecutivi come Presidente della Commissione Europea:
 |-------|-------|------|
 | Bilderberg | Partecipante | Multiple partecipazioni |
 | WEF/Davos | Partecipante | Classificato come GLT 1993 |
-| GAVI | Board Chair | Dal 2021 |
+| GAVI | Board Chair | 2021-2025, sostituito da Helen Clark |
 
 ### Revolving door Goldman Sachs
 

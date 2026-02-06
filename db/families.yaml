@@ -80,6 +80,8 @@ families:
     - person: tatiana-de-pahlen
       generation: 5
       role: heir
+    - person: clara-agnelli
+      role: heir
   agnelli-elkann:
     origin: Italia
     founder: Giovanni Agnelli Sr.
@@ -960,6 +962,63 @@ families:
       role: member
     - person: nadim-gemayel
       generation: 3
+      role: member
+  getty:
+    origin: USA
+    founder: j-paul-getty
+    sector: oil, finance, art, media
+    status: active
+    members:
+    - person: j-paul-getty
+      generation: 1
+      role: founder
+    - person: gordon-getty
+      generation: 2
+      role: heir
+    - person: mark-getty
+      generation: 3
+      role: heir
+    - person: christopher-getty
+      generation: 3
+      role: heir
+  greece-royal:
+    origin: GRC
+    founder: george-i-greece
+    sector: monarchy
+    status: exiled
+    members:
+    - person: philip-edinburgh
+      generation: 4
+      role: member
+    - person: pavlos-greece
+      generation: 5
+      role: heir
+    - person: george-i-greece
+      generation: 1
+      role: founder
+    - person: constantine-i-greece
+      generation: 2
+      role: heir
+    - person: george-ii-greece
+      generation: 3
+      role: heir
+    - person: paul-i-greece
+      generation: 3
+      role: heir
+    - person: constantine-ii-greece
+      generation: 4
+      role: heir
+    - person: alexia-greece
+      generation: 5
+      role: member
+    - person: nikolaos-greece
+      generation: 5
+      role: member
+    - person: theodora-greece
+      generation: 5
+      role: member
+    - person: philippos-greece
+      generation: 5
       role: member
   habsburg:
     origin: Austria/Switzerland
@@ -2475,6 +2534,26 @@ families:
     - person: anderson-cooper
       generation: 6
       role: descendant
+  von-furstenberg:
+    origin: DEU
+    founder: egino-ii-urach
+    sector: nobility
+    status: active
+    members:
+    - person: diane-von-furstenberg
+      role: spouse
+    - person: egon-von-furstenberg
+      role: heir
+    - person: tassilo-von-furstenberg
+      role: patriarch
+    - person: alexander-von-furstenberg
+      role: heir
+    - person: tatiana-von-furstenberg
+      role: heir
+    - person: ira-von-furstenberg
+      role: heir
+    - person: sebastien-von-furstenberg
+      role: heir
   wallenberg:
     origin: Svezia
     founder: andre-oscar-wallenberg

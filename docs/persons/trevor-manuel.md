@@ -18,9 +18,10 @@
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
 | **-1973** | Harold Cressy High School | Matricola |
-| **Post-1973** | - | Diploma in ingegneria |
+| **-** | [Peninsula Technikon](../university/peninsula-technikon.md) | National Diploma in Civil and Structural Engineering |
+| **-** | [Stanford University](../university/stanford.md) / [NUS](../university/nus.md) | Executive Management Programme |
 
-**Dottorati Honoris Causa:** 8, da universita' sudafricane (Commerce, Law, Technology) + MacMaster University (Canada)
+**Dottorati Honoris Causa:** 8, da universita' sudafricane (Commerce, Law, Technology) + McMaster University (Canada)
 
 ---
 
@@ -38,8 +39,11 @@
 | **1996-2009** | Minister of Finance | Governo Sudafrica (Mandela, Mbeki, Motlanthe) |
 | **2008-2013** | Chancellor | Cape Peninsula University of Technology |
 | **2009-2014** | Minister in the Presidency | Governo Sudafrica (Zuma) |
+| **2013-2014** | Co-Chair | Global Ocean Commission |
 | **2014-** | Senior Advisor & Deputy Chairman | Rothschild South Africa |
+| **2014-** | Commissioner | Global Commission on the Economy and Climate (New Climate Economy) |
 | **2015-** | Honorary Professor | UCT Mandela School |
+| **2015-2020** | Board of Directors | [Swiss Re](../company/swiss-re.md) |
 | **2017-** | Chairman | Old Mutual Limited |
 
 ### Il Pattern Revolving Door
@@ -58,7 +62,7 @@ MINISTRO FINANZE (1996-2009)
 MINISTRO PRESIDENZA (Zuma, 2009-14)
         |
         v
-ROTHSCHILD DEPUTY CHAIRMAN (2014-)
+SWISS RE BOARD (2015-20) + ROTHSCHILD (2014-)
   + OLD MUTUAL CHAIRMAN (2017-)
 ```
 
@@ -69,17 +73,14 @@ ROTHSCHILD DEPUTY CHAIRMAN (2014-)
 ### Mappa delle Appartenenze
 
 ```
-                    TREVOR MANUEL
-                         |
-    +--------------------+--------------------+
-    |                    |                    |
-    v                    v                    v
-GOVERNO SA          ROTHSCHILD           OLD MUTUAL
-(1994-2014)         (2014-)              (2017-)
-    |                    |                    |
-    v                    v                    v
- POLITICA            FINANZA              ASSICURAZIONI
- ECONOMICA           GLOBALE              SUDAFRICANE
+                      TREVOR MANUEL
+                           |
+    +----------+-----------+-----------+----------+
+    |          |           |           |          |
+    v          v           v           v          v
+GOVERNO SA  SWISS RE   ROTHSCHILD  OLD MUTUAL   WEF
+(1994-2014) Board      (2014-)     Chairman    Member
+            (2015-20)              (2017-)
 ```
 
 ### Forum Internazionali
@@ -91,6 +92,8 @@ GOVERNO SA          ROTHSCHILD           OLD MUTUAL
 | **IMF** | Ex officio durante mandato |
 | **G20** | Rappresentante SA |
 | **UN** | Special Envoy Financing Development (2001, 2008) |
+| **New Climate Economy** | Commissioner, Global Commission on the Economy and Climate |
+| **Global Ocean Commission** | Co-Chair (2013-2014, con Figueres e Miliband) |
 | **Bilderberg** | Non documentato |
 
 ### Network Professionale
@@ -98,9 +101,11 @@ GOVERNO SA          ROTHSCHILD           OLD MUTUAL
 | Nome | Connessione |
 |------|-------------|
 | [Maria Ramos](maria-ramos.md) | Moglie, ex DG Treasury, CEO Absa |
+| [Martin Kingston](martin-kingston.md) | Executive Chairman Rothschild SA, collega |
+| [Paul Bondi](paul-bondi.md) | Co-Head Rothschild SA |
+| [Giles Douglas](giles-douglas.md) | Co-Head Rothschild SA |
 | [Tito Mboweni](tito-mboweni.md) | Successore come influenza economica, fellow technocrat |
 | [Cyril Ramaphosa](cyril-ramaphosa.md) | Fellow ANC, ora Presidente |
-| Wiseman Nkuhlu | Chairman Rothschild SA, suo superiore |
 | David de Rothschild | Chairman Rothschild Group |
 
 ---
@@ -144,23 +149,28 @@ GOVERNO SA          ROTHSCHILD           OLD MUTUAL
 
 ---
 
-## Connessioni DeepScript
+## Connessioni PowerLink
 
 ### Organizzazioni
 
 | Entita' | Connessione |
 |---------|-------------|
-| [Governo Sudafrica](../government/governo-sudafrica.md) | Ministro (1994-2014) |
-| [Rothschild South Africa](../bank/rothschild-south-africa.md) | Deputy Chairman (2014-) |
+| [Governo Sudafrica](../government/governo-sudafrica.md) | Ministro (1994-2014): Trade & Industry, Finance, Presidency |
+| [Swiss Re](../company/swiss-re.md) | Board of Directors (2015-2020), Audit Committee, Investment Committee |
+| [Rothschild South Africa](../bank/rothschild-south-africa.md) | Senior Advisor & Deputy Chairman (2014-) |
 | [Old Mutual](../company/old-mutual.md) | Chairman (2017-) |
 | [WEF](../forum/wef.md) | Member/Speaker |
-| [World Bank](../agency/world-bank.md) | Development Committee Chairman |
+| [World Bank](../agency/world-bank.md) | Development Committee Chairman (2 mandati) |
+| [UCT](../university/university-cape-town.md) | Honorary Professor, Mandela School (2015-) |
+| [Peninsula Technikon](../university/peninsula-technikon.md) | National Diploma Civil & Structural Engineering |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
 | [Maria Ramos](maria-ramos.md) | Moglie (dal 2008) |
+| [Walter B. Kielholz](walter-kielholz.md) | Chairman Swiss Re durante mandato board Manuel (2015-2020) |
+| [Jacques de Vaucleroy](jacques-de-vaucleroy.md) | Contemporaneo nel board Swiss Re (2017-2020) |
 | [Tito Mboweni](tito-mboweni.md) | Fellow technocrat, pattern simile |
 | [Nelson Mandela](nelson-mandela.md) | Primo presidente sotto cui ha servito |
 | [Thabo Mbeki](thabo-mbeki.md) | Presidente (1999-2008) |
@@ -184,9 +194,12 @@ GOVERNO SA          ROTHSCHILD           OLD MUTUAL
 | **2006** | Primo surplus fiscale SA |
 | **2008** | Matrimonio con Maria Ramos; UN Special Envoy (Ban) |
 | **2009** | Fine mandato Finanze, Ministro Presidenza |
-| **2014** | Lascia governo, entra in Rothschild |
+| **2013** | Co-Chair Global Ocean Commission |
+| **2014** | Lascia governo, entra in Rothschild; Commissioner New Climate Economy |
+| **2015** | Board Swiss Re (Audit & Investment Committee); Honorary Professor UCT |
 | **2017** | Chairman Old Mutual |
-| **2025** | Co-chair UN Experts Panel Debt; Chairman Cricket World Cup 2027 LOC |
+| **2020** | Lascia board Swiss Re |
+| **2025** | Co-chair UN Experts Panel on Debt & Development; Chairman Cricket World Cup 2027 LOC |
 
 ---
 
@@ -199,8 +212,8 @@ Trevor Manuel rappresenta il paradigma del technocrate sudafricano post-aparthei
 ## Domande Aperte
 
 - [x] ~~Partecipazione Bilderberg~~ Non documentata
-- [ ] Ruolo esatto in Rothschild operations
-- [ ] Connessioni con altri forum transnazionali
+- [x] ~~Ruolo esatto in Rothschild operations~~ Non-Executive Director & Deputy Chairman, Senior Advisor to the Group
+- [x] ~~Connessioni con altri forum transnazionali~~ Global Ocean Commission, New Climate Economy, WEF, UN Experts Panel Debt
 
 ---
 
@@ -215,10 +228,14 @@ Trevor Manuel rappresenta il paradigma del technocrate sudafricano post-aparthei
 - [Old Mutual - Board](https://www.oldmutual.com/about/our-leadership/board-of-directors/trevor-manuel)
 - [UCT Mandela School](https://commerce.uct.ac.za/school-public-governance/contacts/trevor-manuel)
 
+### Swiss Re
+- [Swiss Re Annual Report 2015 - Trevor Manuel](https://reports.swissre.com/2015/financial-report/governance/board-of-directors/members/trevor-manuel.html)
+- [Swiss Re Annual Report 2017 - Trevor Manuel](https://reports.swissre.com/2017/financial-report/governance/board-of-directors/members/trevor-manuel.html)
+
 ### Media
 - [Daily Maverick - Rothschild appointment](https://www.dailymaverick.co.za/article/2014-10-03-the-company-man-trevor-manuel-marries-the-rothschilds/)
 - [BizNews - Rothschild](https://www.biznews.com/briefs/2014/09/30/sa-planning-commission-tzar-trevor-manuel-joins-rothschild-group)
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

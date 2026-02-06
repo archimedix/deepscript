@@ -1,6 +1,6 @@
 # Jeffrey Epstein (1953-2019)
 
-> Finanziere, trafficante sessuale, costruttore di una rete di potere tra elite finanziaria, accademica e politica
+> Finanziere, trafficante sessuale, costruttore di una rete di potere tra elite finanziaria, accademica, politica e di intelligence
 
 ## Dati Essenziali
 
@@ -10,6 +10,8 @@
 | **Morte** | 10 agosto 2019, Metropolitan Correctional Center, NYC |
 | **Causa morte** | Suicidio (ufficiale), contestato |
 | **Nazionalita'** | USA |
+| **Famiglia** | Padre: [Seymour Epstein](seymour-epstein.md), Madre: [Pauline Stolofsky](pauline-epstein.md) |
+| **Fratello** | [Mark Epstein](mark-epstein.md) (sviluppatore immobiliare) |
 | **Partner** | [Ghislaine Maxwell](ghislaine-maxwell.md) (1991-2019) |
 
 ---
@@ -19,8 +21,8 @@
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
 | **1969** | Lafayette High School | Diploma a 16 anni (saltate 2 classi) |
-| **1969-1971** | Cooper Union | Matematica avanzata, non laureato |
-| **1971-1974** | NYU Courant Institute | Fisiologia matematica, non laureato |
+| **1969-1971** | [Cooper Union](../university/cooper-union.md) | Matematica avanzata, non laureato |
+| **1971-1974** | [NYU](../university/nyu.md) Courant Institute | Fisiologia matematica, non laureato |
 
 **Nota**: Epstein non ottenne mai una laurea, nonostante le false dichiarazioni sul suo background.
 
@@ -32,70 +34,142 @@
 
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
-| **1974-1976** | Insegnante matematica/fisica | Dalton School |
-| **1976-1981** | Trader → Limited Partner | [Bear Stearns](../banks/bear-stearns.md) |
-| **1981-1988** | Founder | Intercontinental Assets Group |
-| **1988-2019** | Founder | [J. Epstein & Company](../companies/j-epstein-company.md) |
+| **1974-1976** | Insegnante matematica/fisica | [Dalton School](../university/dalton-school.md) |
+| **1976-1981** | Trader, Limited Partner | [Bear Stearns](../bank/bear-stearns.md) |
+| **1981-1988** | Founder | [Intercontinental Assets Group](../company/intercontinental-assets-group.md) |
+| **1988-2019** | Founder | [J. Epstein & Company](../company/j-epstein-company.md) |
 
 ### Dalton School (1974-1976)
 
-Assunto senza laurea alla prestigiosa scuola privata di Manhattan. Il preside era Donald Barr (padre del futuro Attorney General William Barr). Licenziato nel 1976 per "poor performance".
+Assunto senza laurea alla prestigiosa scuola privata di Manhattan. Il preside era [Donald Barr](donald-barr.md) (padre del futuro Attorney General [William Barr](william-barr.md)). Licenziato nel 1976 per "poor performance".
 
 ### Bear Stearns (1976-1981)
 
-Entrato come assistente junior grazie alla raccomandazione del padre di uno studente (che conosceva il CEO Ace Greenberg). Rapidamente promosso a trader di opzioni, poi consulente per clienti ultra-ricchi su strategie fiscali.
+Entrato come assistente junior grazie alla raccomandazione del padre di uno studente (che conosceva il CEO [Ace Greenberg](ace-greenberg.md)). Rapidamente promosso a trader di opzioni, poi consulente per clienti ultra-ricchi su strategie fiscali.
 
-**Clienti notabili**: Edgar Bronfman Sr. (Seagram)
+**Clienti notabili**: [Edgar Bronfman Sr.](edgar-bronfman-sr.md) (Seagram)
 
 **Uscita**: Lascia nel 1981 dopo violazione "Reg D" e contemporanea indagine SEC su insider trading legato a Seagram/St. Joe Minerals.
 
 ### J. Epstein & Company (1988-2019)
 
-Societa' di wealth management con soglia minima di $1 miliardo. Per quasi 20 anni, Leslie Wexner fu l'unico cliente noto.
+Societa' di wealth management con soglia minima di $1 miliardo. Per quasi 20 anni, [Leslie Wexner](leslie-wexner.md) fu l'unico cliente noto.
 
 ---
 
-## La Rete di Potere
+## La Rete Finanziaria
 
-### Mappa delle Connessioni
+### Clienti Principali
 
-```
-                     JEFFREY EPSTEIN
-                           |
-    +----------+-----------+-----------+----------+
-    |          |           |           |          |
-    v          v           v           v          v
- WEXNER     LEON        BRONFMAN   POLITICI   ACCADEMIA
- (finanza)  BLACK       Sr.        Clinton    Harvard
- 1987-2007  2012-17     1970s      Trump      MIT
- $200M+     $158M                  Andrew
-```
-
-### Clienti Finanziari Principali
-
-| Nome | Periodo | Pagamenti |
-|------|---------|-----------|
-| [Leslie Wexner](leslie-wexner.md) | 1987-2007 | ~$200M |
-| [Leon Black](leon-black.md) | 2012-2017 | $158M |
+| Nome | Periodo | Pagamenti | Note |
+|------|---------|-----------|------|
+| [Leslie Wexner](leslie-wexner.md) | 1987-2007 | ~$200M | Power of attorney 1991-2007, MEGA Group |
+| [Leon Black](leon-black.md) | 2012-2017 | $170M | Avg $8M/wire, nuove accuse abusi 2026 |
 
 **Totale stimato 1999-2018**: $490M in fees (Forbes)
 
-### Connessioni Politiche
+### Network Bancario
+
+| Istituzione | Periodo | Dettaglio |
+|-------------|---------|-----------|
+| [JPMorgan](../bank/jpmorgan.md) | 2003-2013 | $1.3B in transazioni sospette retroattivamente segnalate. Top executives sotto [Jamie Dimon](jamie-dimon.md) supervisionavano il rapporto |
+| [Deutsche Bank](../bank/deutsche-bank.md) | 2013-2018 | 40+ conti, portato da Paul Morris (ex JPMorgan). Primi conti per [Southern Trust Co.](../company/southern-trust.md) (USVI) |
+| [Southern Trust Co.](../company/southern-trust.md) | 2013-2019 | Shell entity USVI, condotto per pagamenti a donne straniere, carte di credito, aerei |
+
+### Il Caso JPMorgan (Senate Finance Committee)
+
+Indagine Wyden (2025): John Duffy, ex CEO Private Banking, consiglio' Epstein su come eseguire prelievi sospetti evitando obblighi di segnalazione. Dopo la morte di Epstein, JPMorgan presento' retroattivamente suspicious activity reports su $1.3B in migliaia di transazioni risalenti al 2003 — 300 volte piu' di quanto inizialmente dichiarato.
+
+### Il Caso Jes Staley
+
+[Jes Staley](jes-staley.md): ~1.200 email con Epstein (2008-2012). Definiva Epstein "most cherished friend". Visito' l'isola nel 2015. Bannato dalla FCA (2023) per aver mentito sulla relazione. Citato in giudizio da JPMorgan.
+
+---
+
+## Connessioni Politiche
 
 | Nome | Natura | Note |
 |------|--------|------|
-| Bill Clinton | Sociale/voli | 27 voli documentati, viaggi in Africa |
-| Donald Trump | Sociale | Amici per 15 anni, 6+ voli 1993-97 |
-| Prince Andrew | Sociale | Settlement 2022 con Virginia Giuffre |
-| Ehud Barak | Business | Ex PM Israele |
-| Bill Richardson | Sociale | Ex Gov. New Mexico |
+| [Bill Clinton](bill-clinton.md) | 27 voli documentati | Viaggi in Africa |
+| [Donald Trump](donald-trump.md) | Amici 15 anni | 6+ voli 1993-97, vicini a Palm Beach |
+| [Prince Andrew](prince-andrew.md) | Sociale via Maxwell | Settlement 2022 con Virginia Giuffre |
+| [Ehud Barak](ehud-barak.md) | Business/intelligence | 30+ visite NYC, liaison AMAN via Yoni Koren |
+| [Howard Lutnick](howard-lutnick.md) | Sociale/business | Visita isola pianificata Dic 2012, ora Commerce Secretary |
+| [Steve Bannon](steve-bannon.md) | Centinaia di testi | Chiese aereo Epstein Marzo 2019 |
+| [Peter Mandelson](peter-mandelson.md) | Sociale | Email suggeriscono condivisione info finanziarie UK govt, dimesso da Labour Feb 2026 |
+| [Alexander Acosta](alexander-acosta.md) | Plea deal 2008 | Disse che gli fu detto che Epstein era asset intelligence |
 
-### Network Accademico
+### Kathryn Ruemmler
+
+[Kathryn Ruemmler](kathryn-ruemmler.md): Obama White House Counsel (2011-2014), ora chief legal officer [Goldman Sachs](../bank/goldman-sachs.md). 100+ email con Epstein (2014-2019). Lo consulto' sulla preservazione del plea deal, redasse dichiarazioni pubbliche, edito' corrispondenza con un senatore USA. Ricevette regali di lusso (borsa Hermes da $9.400).
+
+---
+
+## Network Accademico
 
 | Istituzione | Donazioni | Note |
 |-------------|-----------|------|
-| Harvard | $8.9M | 1998-2007, Program for Evolutionary Dynamics |
-| MIT Media Lab | Milioni | Nascosti come "anonimi", scandalo Joi Ito |
+| [Harvard](../university/harvard.md) | $8.9M | 1998-2007, Program for Evolutionary Dynamics, visite campus dopo condanna 2008 |
+| [MIT](../university/mit.md) Media Lab | Milioni | Nascosti come "anonimi", scandalo [Joichi Ito](joichi-ito.md) |
+
+### Larry Summers
+
+[Larry Summers](larry-summers.md): presidente Harvard, membro Trilateral Commission e CFR come Epstein. Contatti continuati per un decennio dopo il plea del 2008. Nel 2014, Epstein lo nomino' esecutore alternativo del testamento. Epstein lo riferi' a JPMorgan come potenziale cliente.
+
+**Conseguenze 2025-2026**: Harvard riapri' indagine, Summers lascio' l'insegnamento, espulso dall'American Economic Association, dimesso dal board di OpenAI.
+
+---
+
+## Forum Internazionali
+
+| Forum | Ruolo | Note |
+|-------|-------|------|
+| [Trilateral Commission](../forum/trilateral-commission.md) | Membro | Documentato circa 2002, insieme a Summers |
+| [CFR](../forum/cfr.md) | Donatore | Fine anni '90-2008, cessato dopo condanna |
+
+---
+
+## Connessioni Intelligence
+
+### FBI e Mossad
+
+Documento FBI rilasciato 2025: un informante FBI era convinto che Epstein fosse agente Mossad, addestrato sotto [Ehud Barak](ehud-barak.md). Claim non corroborati indipendentemente.
+
+### Ehud Barak e AMAN
+
+- Barak visito' il townhouse NYC 30+ volte (2013-2017)
+- **Yoni Koren**, ufficiale intelligence israeliano e braccio destro di Barak, soggiorno' piu' volte nella residenza Manhattan di Epstein (2013-2016)
+- Barak istrui' Epstein per trasferire fondi sul conto personale di Koren
+- Koren organizzo' accesso privato al Pentagono e alla Casa Bianca
+- Barak uso' Koren come intermediario per condividere info con AMAN (intelligence militare israeliana)
+
+### Attivita' Diplomatiche
+
+- Epstein intermedario per accordo di sicurezza tra Israele e Mongolia
+- Backchannel tra Israele e Russia durante la guerra civile siriana
+
+### Wexner e il MEGA Group
+
+[Leslie Wexner](leslie-wexner.md) co-fondo' il [MEGA Group](../forum/mega-group.md) (1991) con Charles Bronfman: gruppo segreto di miliardari focalizzato su filantropia e sostegno a Israele. Ari Ben-Menashe (ex intelligence israeliana) dichiara di aver visto Epstein nell'ufficio di [Robert Maxwell](robert-maxwell.md) negli anni '80.
+
+### Robert Maxwell
+
+Padre di Ghislaine. Avrebbe lavorato per MI6 durante e dopo la WWII. Accusato di coinvolgimento con Mossad. Morto in circostanze misteriose nel 1991.
+
+---
+
+## Ghislaine Maxwell
+
+Partner e principale complice dal 1994 al 2019. Figlia di [Robert Maxwell](robert-maxwell.md).
+
+**Ruolo**: Reclutamento, grooming e abuso di minorenni per Epstein.
+
+**Condanna** (2021): 20 anni per cospirazione e traffico sessuale di minori.
+
+**Aggiornamenti 2025-2026**:
+- **Ottobre 2025**: Corte Suprema respinge appello, condanna confermata
+- **Dicembre 2025**: Presenta petizione habeas corpus per "nuove prove sostanziali"
+- **Luglio 2025**: Trasferita da carcere Florida a campo detentivo meno restrittivo in Texas dopo visita del Deputy AG Todd Blanche
 
 ---
 
@@ -106,23 +180,9 @@ Societa' di wealth management con soglia minima di $1 miliardo. Per quasi 20 ann
 | Manhattan Townhouse (9 E 71st St) | 1989 ($13.2M da Wexner) | 2021 ($51M) | 40 stanze, 7 piani |
 | Palm Beach Estate | 1990 ($2.5M) | 2021 ($18.5M) | Demolita |
 | Little St. James Island | 1998 ($7.95M) | 2023 ($60M) | "Pedophile Island" |
-| Great St. James Island | 2016 ($18M) | 2023 (inclusa sopra) | |
+| Great St. James Island | 2016 ($18M) | 2023 (inclusa) | |
 | Zorro Ranch, New Mexico | - | - | 10.000 acri |
 | Appartamento Parigi | - | - | |
-
----
-
-## Ghislaine Maxwell
-
-Partner e principale complice dal 1994 al 2019.
-
-**Ruolo**: Reclutamento, grooming e abuso di minorenni per Epstein.
-
-**Metodo**: Identificava vittime vulnerabili (spesso da famiglie monoparentali), le avvicinava con shopping e attenzioni, le preparava per gli abusi.
-
-**Condanna** (2021): 20 anni per cospirazione e traffico sessuale di minori.
-
-**Status 2025**: In carcere, ha presentato appello per annullare la condanna.
 
 ---
 
@@ -132,22 +192,26 @@ Partner e principale complice dal 1994 al 2019.
 |------|--------|
 | **2005** | Polizia Palm Beach inizia indagine dopo denuncia |
 | **2006** | FBI identifica 36 vittime (alcune di 14 anni) |
-| **2007** | Negoziato plea deal con Alexander Acosta (futuro Sec. Labor) |
+| **2007** | Plea deal con Alexander Acosta (futuro Sec. Labor) |
 | **2008** | Condanna Florida: 18 mesi, work release esteso |
 | **2019 Lug** | Arresto federale NYC per traffico sessuale |
 | **2019 Ago 10** | Morte in cella (suicidio ufficiale) |
 | **2021** | Condanna Ghislaine Maxwell |
-| **2025 Nov** | Congresso approva Epstein Files Transparency Act |
+| **2025 Nov** | Epstein Files Transparency Act firmato da Trump |
+| **2025 Dic** | Prima release DOJ, critiche bipartisan per lentezza |
+| **2026 Gen 30** | DOJ rilascia 3.5M pagine, 2.000 video, 180.000 immagini |
 
 ### Il Plea Deal Controverso (2008)
 
-Alexander Acosta, U.S. Attorney per South Florida, negozio' un accordo che permise a Epstein di:
-- Evitare accuse federali di traffico
-- Dichiarsi colpevole solo di reati statali minori
-- Servire 13 mesi con ampio work release
-- Registrarsi come sex offender
+[Alexander Acosta](alexander-acosta.md), U.S. Attorney per South Florida, negozio' un accordo che permise a Epstein di evitare accuse federali di traffico, dichiarandosi colpevole solo di reati statali minori. 13 mesi con ampio work release. DOJ concluse che Acosta uso' "poor judgment". Acosta avrebbe detto che gli fu detto di lasciare Epstein in pace perche' era un "intelligence asset".
 
-DOJ successivamente concluse che Acosta uso' "poor judgment".
+### Epstein Files Transparency Act (2025-2026)
+
+- **18 Nov 2025**: House approva 427-1, Senato unanime
+- **19 Nov 2025**: Trump firma in legge (Public Law 119-38)
+- **Dic 2025**: Prima release DOJ, criticata come insufficiente
+- **30 Gen 2026**: Rilascio di 3.5M pagine (su 6M+ identificate)
+- **Controversie**: DOJ non redasse identita' di almeno 31 vittime minorenni; rilasciata solo meta' del materiale; proposta di contempt contro AG Pam Bondi
 
 ---
 
@@ -158,7 +222,7 @@ DOJ successivamente concluse che Acosta uso' "poor judgment".
 **Ruling ufficiale**: Suicidio per impiccagione (Barbara Sampson, NYC Medical Examiner)
 
 **Contestazioni**:
-- Patologo forense Michael Baden disputa la ruling
+- Patologo forense Michael Baden disputa il ruling
 - Due guardie dormivano invece di fare controlli
 - Telecamere di sicurezza "malfunzionanti"
 - Rimosso da suicide watch poco prima della morte
@@ -171,21 +235,48 @@ DOJ successivamente concluse che Acosta uso' "poor judgment".
 
 | Entita' | Connessione |
 |---------|-------------|
-| [Bear Stearns](../banks/bear-stearns.md) | Partner 1976-1981 |
-| [J. Epstein & Company](../companies/j-epstein-company.md) | Founder 1988-2019 |
-| [Wexner Foundation](../foundations/wexner-foundation.md) | Board 1990s-2007 |
-| [Harvard](../universities/harvard.md) | Donor $8.9M |
+| [Bear Stearns](../bank/bear-stearns.md) | Partner 1976-1981 |
+| [J. Epstein & Company](../company/j-epstein-company.md) | Founder 1988-2019 |
+| [Intercontinental Assets Group](../company/intercontinental-assets-group.md) | Founder 1981-1988 |
+| [JPMorgan](../bank/jpmorgan.md) | Client 2003-2013 |
+| [Deutsche Bank](../bank/deutsche-bank.md) | Client 2013-2018 |
+| [Southern Trust Co.](../company/southern-trust.md) | Founder, USVI shell |
+| [Wexner Foundation](../foundation/wexner-foundation.md) | Board 1990-2007 |
+| [Harvard](../university/harvard.md) | Donor $8.9M |
+| [MIT](../university/mit.md) | Donor Media Lab |
+| [Trilateral Commission](../forum/trilateral-commission.md) | Member ~2002 |
+| [CFR](../forum/cfr.md) | Donor 1990s-2008 |
+| [Dalton School](../university/dalton-school.md) | Teacher 1974-1976 |
+| [Cooper Union](../university/cooper-union.md) | Student 1969-1971 |
+| [NYU](../university/nyu.md) | Student 1971-1974 |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
-| [Leslie Wexner](leslie-wexner.md) | Client principale 1987-2007 |
-| [Leon Black](leon-black.md) | Client 2012-2017 |
-| [Ghislaine Maxwell](ghislaine-maxwell.md) | Partner/complice |
+| [Leslie Wexner](leslie-wexner.md) | Client principale 1987-2007, MEGA Group |
+| [Leon Black](leon-black.md) | Client 2012-2017, $170M |
+| [Ghislaine Maxwell](ghislaine-maxwell.md) | Partner/complice 1994-2019 |
 | [Edgar Bronfman Sr.](edgar-bronfman-sr.md) | Client Bear Stearns |
-| [Bill Clinton](bill-clinton.md) | Connessione sociale |
-| [Donald Trump](donald-trump.md) | Connessione sociale |
+| [Bill Gates](bill-gates.md) | Associate, meetings 2011-2014 |
+| [Larry Summers](larry-summers.md) | Associate, Trilateral/CFR, will executor |
+| [Bill Clinton](bill-clinton.md) | 27 voli documentati |
+| [Donald Trump](donald-trump.md) | Amici 15 anni |
+| [Ehud Barak](ehud-barak.md) | Business/intelligence |
+| [Prince Andrew](prince-andrew.md) | Sociale via Maxwell |
+| [Jes Staley](jes-staley.md) | JPMorgan banker, 1.200 email |
+| [Boris Nikolic](boris-nikolic.md) | Gates adviser, nominato nel testamento |
+| [Terje Rod-Larsen](terje-rod-larsen.md) | Prestito $130K, nel testamento |
+| [Thorbjorn Jagland](thorbjorn-jagland.md) | 6 meetings 2013-2018 |
+| [Kathryn Ruemmler](kathryn-ruemmler.md) | 100+ email, Obama WH Counsel |
+| [Howard Lutnick](howard-lutnick.md) | Visita isola, Commerce Secretary |
+| [Steve Bannon](steve-bannon.md) | Centinaia di testi |
+| [Peter Mandelson](peter-mandelson.md) | Email, info UK govt |
+| [Alexander Acosta](alexander-acosta.md) | Plea deal 2008 |
+| [Robert Maxwell](robert-maxwell.md) | Padre Ghislaine, MI6/Mossad |
+| [Donald Barr](donald-barr.md) | Headmaster Dalton, lo assunse |
+| [Jamie Dimon](jamie-dimon.md) | CEO JPMorgan, supervisione |
+| [Reid Hoffman](reid-hoffman.md) | Voli insieme |
 
 ---
 
@@ -198,20 +289,27 @@ DOJ successivamente concluse che Acosta uso' "poor judgment".
 | **1974** | Insegnante Dalton School (senza laurea) |
 | **1976** | Licenziato da Dalton, entra in Bear Stearns |
 | **1980** | Limited Partner Bear Stearns |
-| **1981** | Lascia Bear Stearns, fonda IAG |
+| **1981** | Lascia Bear Stearns dopo violazione Reg D, fonda IAG |
 | **1987** | Incontra Leslie Wexner |
 | **1988** | Fonda J. Epstein & Company |
-| **1989** | Acquista townhouse Manhattan da Wexner |
+| **1989** | Acquista townhouse Manhattan da Wexner ($13.2M) |
 | **1991** | Riceve power of attorney da Wexner |
 | **~1994** | Inizia relazione con Ghislaine Maxwell |
 | **1998** | Acquista Little St. James Island |
+| **~2000** | Membro Trilateral Commission, donatore CFR |
+| **2003** | Apre conti JPMorgan |
 | **2005** | Inizio indagine Palm Beach |
 | **2008** | Condanna Florida, 13 mesi |
-| **2012-17** | Consulenze per Leon Black ($158M) |
+| **2011-14** | Meetings con Bill Gates |
+| **2012-17** | Consulenze per Leon Black ($170M) |
+| **2013** | Passa a Deutsche Bank, 40+ conti |
+| **2014-19** | 100+ email con Kathryn Ruemmler |
 | **2019 Lug** | Arresto federale |
 | **2019 Ago** | Morte in cella |
 | **2021** | Condanna Maxwell |
-| **2025** | Epstein Files Transparency Act |
+| **2025 Nov** | Epstein Files Transparency Act |
+| **2025 Dic** | Prima release DOJ |
+| **2026 Gen** | DOJ rilascia 3.5M pagine |
 
 ---
 
@@ -219,10 +317,12 @@ DOJ successivamente concluse che Acosta uso' "poor judgment".
 
 - [ ] Fonte originale della ricchezza pre-Wexner
 - [ ] Natura completa dei servizi resi a Wexner (oltre wealth management)
-- [ ] Collegamenti con servizi di intelligence (Mossad, CIA?)
+- [ ] Conferma collegamenti con Mossad/CIA (claim FBI informant non corroborati)
 - [ ] Identita' completa dei "clienti" oltre Wexner e Black
-- [ ] Ruolo di Robert Maxwell (padre di Ghislaine) nella rete
+- [ ] Ruolo di Robert Maxwell nella rete e continuita' post-1991
 - [ ] Circostanze reali della morte
+- [ ] Contenuto delle 2.5M+ pagine non ancora rilasciate dal DOJ
+- [ ] Materiale classificato escluso dall'Epstein Files Act
 
 ---
 
@@ -232,17 +332,19 @@ DOJ successivamente concluse che Acosta uso' "poor judgment".
 - [Wikipedia - Jeffrey Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein)
 - [Britannica - Jeffrey Epstein](https://www.britannica.com/biography/Jeffrey-Epstein)
 
-### Indagini
-- [NPR - Epstein Crimes Timeline](https://www.npr.org/2025/07/25/nx-s1-5478620/jeffrey-epstein-crimes-timeline-legal-case)
-- [DOJ Inspector General Report](https://oig.justice.gov/sites/default/files/reports/23-085.pdf)
+### Epstein Files (2025-2026)
+- [DOJ Epstein Library](https://www.justice.gov/epstein)
+- [Congress.gov - Epstein Files Transparency Act](https://www.congress.gov/bill/119th-congress/house-bill/4405)
 
-### Connessioni Finanziarie
-- [Bloomberg - Epstein Emails Wall Street](https://www.bloomberg.com/features/2025-jeffrey-epstein-emails-wall-street/)
-- [Senate Finance Committee - Leon Black Investigation](https://www.finance.senate.gov/chairmans-news/wyden-unveils-ongoing-investigation-into-private-equity-billionaire-leon-blacks-tax-planning-and-financial-ties-with-jeffrey-epstein)
+### Indagini Finanziarie
+- [Senate Finance Committee - JPMorgan/Epstein](https://www.finance.senate.gov/ranking-members-news/continuing-epstein-investigation-wyden-releases-new-analysis-detailing-how-top-jpmorgan-chase-executives-enabled-epsteins-sex-trafficking-operation)
+
+### Intelligence
+- [Middle East Eye - FBI memo Mossad ties](https://www.middleeasteye.net/news/epstein-files-fbi-memo-says-israel-compromised-trump-epstein-had-mossad-ties)
 
 ### Accademia
 - [The Nation - Jeffrey Epstein, Harvard Man](https://www.thenation.com/article/society/jeffrey-epstein-harvard/)
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

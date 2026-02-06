@@ -11,7 +11,7 @@
 | **Tipo** | Hedge Fund / Asset Manager |
 | **Leadership** | Nir Bar Dea (CEO), Ray Dalio (Founder, CIO Mentor) |
 | **Dipendenti** | ~1,200 |
-| **AUM** | $136B (2025) |
+| **AUM** | $124B (2025) |
 | **Clienti** | Pension funds, SWFs, central banks, foundations |
 | **Status** | active |
 
@@ -55,6 +55,7 @@
 | **2023** | Dalio apre family office Abu Dhabi |
 | **2024** | Pure Alpha +11.3%, All Weather China +35% |
 | **2025** | Dalio vende ultime quote, Brunei SWF acquista stake |
+| **2025** | Pure Alpha +33%, miglior anno nella storia del fondo |
 
 ---
 
@@ -66,8 +67,9 @@
 |-------|------|-----|
 | CEO | [Nir Bar Dea](../persons/nir-bar-dea.md) | 2023 |
 | CIO Mentor | [Ray Dalio](../persons/ray-dalio.md) | 2022 |
-| Co-CIO | Bob Prince | - |
-| Co-CIO | Greg Jensen | - |
+| Co-CIO | [Bob Prince](../persons/bob-prince.md) | ~1989 |
+| Co-CIO | [Greg Jensen](../persons/greg-jensen.md) | 1996 |
+| Co-CIO | [Karen Karniol-Tambour](../persons/karen-karniol-tambour.md) | 2023 |
 
 ### Ownership (2025)
 
@@ -80,11 +82,11 @@
 
 ### Fondi Principali
 
-| Fondo | AUM | Strategia | Performance 2024 |
+| Fondo | AUM | Strategia | Performance 2025 |
 |-------|-----|-----------|------------------|
-| Pure Alpha | ~$60B (in riduzione) | Macro, alpha puro | +11.3% |
+| Pure Alpha | ~$60B | Macro, alpha puro | +33% |
 | All Weather | ~$50B | Risk parity | - |
-| All Weather China | $7.5B | Risk parity Cina | +35% |
+| All Weather China | $7.5B | Risk parity Cina | +35% (2024) |
 | Asia ex-China | - | Total return Asia | +20.7% ann. |
 
 ---
@@ -121,9 +123,10 @@ Bridgewater gestisce capitali per i principali SWF mondiali:
 
 | Tipo Cliente | Esempi |
 |--------------|--------|
-| Pension Funds | CalPERS, altri US state pensions |
-| SWFs | Brunei IA, GIC Singapore, Abu Dhabi |
+| Pension Funds | CalPERS, Teacher Retirement System of Texas, Ontario MERC |
+| SWFs | Brunei IA, GIC Singapore, Temasek, Abu Dhabi |
 | Central Banks | Vari |
+| Intl Orgs | IMF |
 | Foundations | Varie |
 
 **Brunei Investment Agency** (2025): Ha acquisito minority stake quando Dalio ha venduto le sue ultime quote.
@@ -197,6 +200,9 @@ La cultura Bridgewater sotto Dalio era nota per:
 |---------|-----------|
 | [Ray Dalio](../persons/ray-dalio.md) | Founder (retired 2022) |
 | [Nir Bar Dea](../persons/nir-bar-dea.md) | CEO dal 2023 |
+| [Bob Prince](../persons/bob-prince.md) | Co-CIO, largest individual shareholder |
+| [Greg Jensen](../persons/greg-jensen.md) | Co-CIO, Board Director, dal 1996 |
+| [Karen Karniol-Tambour](../persons/karen-karniol-tambour.md) | Co-CIO dal 2023, prima donna in ruolo |
 | [Larry Fink](../persons/larry-fink.md) | Peer (BlackRock), co-speaker FII |
 | [Jamie Dimon](../persons/jamie-dimon.md) | Peer (JPMorgan), co-speaker FII |
 
@@ -205,7 +211,7 @@ La cultura Bridgewater sotto Dalio era nota per:
 | Aspetto | Bridgewater | BlackRock | Blackstone |
 |---------|-------------|-----------|------------|
 | Tipo | Hedge Fund | Asset Manager | Private Equity |
-| AUM | $136B | $10T+ | $1.2T |
+| AUM | $124B | $10T+ | $1.2T |
 | Strategia | Macro, risk parity | Passive + active | LBO, real estate |
 | Fondatore | Dalio (retired) | Fink (active) | Schwarzman (active) |
 | Cultura | "Principles" | Corporate | Deal-driven |
@@ -248,4 +254,4 @@ La cultura Bridgewater sotto Dalio era nota per:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*
