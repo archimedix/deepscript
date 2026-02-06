@@ -100,28 +100,36 @@ POST-SPLIT:
 
 | Ruolo | Nome | Dal | Note |
 |-------|------|-----|------|
-| Executive Chairman | **Lachlan Murdoch** | 2023 | Erede designato |
-| Chairman Emeritus | Rupert Murdoch | 2023 | 94 anni, cerimoniale |
-| CEO | Robert Thomson | 2013 | Ex-editor WSJ |
+| Executive Chairman | [Lachlan Murdoch](../persons/lachlan-murdoch.md) | 2023 | Erede designato |
+| Chairman Emeritus | [Rupert Murdoch](../persons/rupert-murdoch.md) | 2023 | 94 anni, cerimoniale |
+| CEO | [Robert Thomson](../persons/robert-thomson.md) | 2013 | Ex-FT/WSJ, contratto fino 2030 |
 
 ---
 
-## Board of Directors
+## Board of Directors (2025)
 
-| Nome | Background | Note |
-|------|------------|------|
-| Lachlan Murdoch | Famiglia | Executive Chairman |
-| Robert Thomson | Giornalista | CEO |
-| **Jose Maria Aznar** | Ex-PM Spagna 1996-2004 | **Board dal 2013** |
-| Kelly Ayotte | Ex-Senator USA | - |
-| Jose Maria Aznar | Ex-PM Spagna | Independent Director |
+| Nome | Background | Dal | Note |
+|------|------------|-----|------|
+| [Lachlan Murdoch](../persons/lachlan-murdoch.md) | Famiglia Murdoch | 2023 | Executive Chairman |
+| [Robert Thomson](../persons/robert-thomson.md) | Giornalista, ex-FT/WSJ | 2013 | CEO (contratto fino 2030) |
+| [Jose Maria Aznar](../persons/jose-maria-aznar.md) | Ex-PM Spagna 1996-2004 | 2006 | Independent Director |
+| [Kelly Ayotte](../persons/kelly-ayotte.md) | Ex-Senator USA (R-NH) | - | Independent Director |
+| [Natalie Bancroft](../persons/natalie-bancroft.md) | Famiglia Bancroft/Dow Jones | 2007 | Family representative |
+| Masroor Siddiqui | Finance | - | Lead Independent Director |
+| Ana Paula Pessoa | Business | - | Independent Director |
 
-### Pattern: Ex-Leader Politico nel Board
+### Pattern: Governance Ibrida
 
-Aznar (PP, conservatore) allineato ideologicamente con linea editoriale Murdoch.
+| Tipo | Membri | Funzione |
+|------|--------|----------|
+| **Famiglia** | Lachlan Murdoch, Natalie Bancroft | Controllo proprietario |
+| **Esecutivo** | Robert Thomson | Gestione operativa |
+| **Politico** | Aznar, Ayotte | Network politico conservatore |
+| **Indipendenti** | Siddiqui, Pessoa | Compliance/governance |
+
+**Pattern Aznar**: Ex-PM (PP, conservatore) allineato ideologicamente.
 - PM Spagna durante guerra Iraq (alleato Bush/Blair)
-- Nel board News Corp (prima News Corporation) dal 2006
-- Compenso stimato: €4M+ cumulativo
+- Nel board dal 2006, compenso stimato €4M+ cumulativo
 
 ---
 
@@ -142,13 +150,14 @@ Aznar (PP, conservatore) allineato ideologicamente con linea editoriale Murdoch.
 | [Lachlan Murdoch](../persons/lachlan-murdoch.md) | Executive Chairman | - |
 | [Jose Maria Aznar](../persons/jose-maria-aznar.md) | Board | GLT 1993 |
 
-### Anomalia Forum
+### Forum Connections
 
-A differenza di altri media moguls (Elkann→Bilderberg, Dopfner→Bilderberg), i Murdoch sono **assenti** dai principali forum:
-- NO Bilderberg
-- NO Trilaterale
-- NO CFR
-- WEF: occasionale, non leadership
+| Persona | Forum | Note |
+|---------|-------|------|
+| Rupert Murdoch | WEF, Bilderberg, CFR | Multiple attendee |
+| Jose Maria Aznar | GLT 1993 | WEF Global Leader for Tomorrow |
+
+A differenza di altri media moguls (Elkann→Bilderberg steering, Dopfner→Bilderberg), i Murdoch hanno partecipazione **occasionale**, non leadership.
 
 > Potere esercitato **direttamente** attraverso i media, non tramite reti istituzionali.
 
@@ -215,4 +224,4 @@ A differenza di altri media moguls (Elkann→Bilderberg, Dopfner→Bilderberg), 
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

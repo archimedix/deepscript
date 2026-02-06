@@ -185,12 +185,16 @@ RUPERT MURDOCH (1931-)
 | **Settore** | Media | Finanza, filantropia | Auto, media |
 | **Generazioni** | 3 | 6 | 4 |
 | **Controllo operativo** | Diretto | Indiretto (fondazioni) | Diretto (EXOR) |
-| **Forum globali** | Assenti | CFR, Trilaterale fondatori | Bilderberg |
+| **Forum globali** | Occasionali (no leadership) | CFR, Trilaterale fondatori | Bilderberg steering |
 | **Influenza politica** | Opinione pubblica | Istituzioni | Nazionale (Italia) |
 
-### Anomalia Murdoch
+### Pattern Murdoch
 
-A differenza delle altre grandi dinastie, i Murdoch sono **assenti** dai principali forum transnazionali (Bilderberg, Trilaterale, CFR, WEF leadership). Il loro potere e' esercitato **direttamente** attraverso i media, non attraverso reti istituzionali.
+A differenza di altre dinastie (Rockefeller fondatori CFR/Trilaterale, Agnelli steering Bilderberg), i Murdoch hanno presenza **occasionale** nei forum:
+- Rupert: WEF Davos (partecipante), Bilderberg (attendee), CFR (membro)
+- Ma nessun ruolo di **leadership** o steering committee
+
+Il loro potere e' esercitato primariamente **attraverso i media**, non attraverso reti istituzionali.
 
 ---
 
@@ -245,16 +249,17 @@ A differenza delle altre grandi dinastie, i Murdoch sono **assenti** dai princip
 | Partito Conservatore UK | The Sun, The Times storicamente allineati |
 | Liberal Party Australia | Sky News, The Australian supportano |
 
-### **Notevole Assenza**
+### Forum Transnazionali
 
-| Forum | Presenza Murdoch |
-|-------|------------------|
-| Bilderberg | NO |
-| Trilaterale | NO |
-| CFR | NO |
-| WEF Davos | Occasionale, non leadership |
+| Forum | Presenza Murdoch | Note |
+|-------|------------------|------|
+| Bilderberg | Rupert (attendee) | Partecipazione occasionale |
+| CFR | Rupert (membro) | Council on Foreign Relations |
+| WEF Davos | Rupert (partecipante) | Speaker panels |
+| Trilaterale | NO | Assenti |
+| Atlantic Council | Rupert (honoree 2008) | Leadership Award |
 
-> I Murdoch esercitano potere **mediatico diretto**, non attraverso le reti istituzionali delle altre grandi famiglie.
+> I Murdoch hanno presenza **occasionale** nei forum, ma esercitano potere primariamente attraverso i **media**, non attraverso ruoli di leadership istituzionale.
 
 ---
 
@@ -317,4 +322,4 @@ A differenza delle altre grandi dinastie, i Murdoch sono **assenti** dai princip
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

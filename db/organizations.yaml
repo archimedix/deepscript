@@ -3457,7 +3457,7 @@ organizations:
     name: Australia and New Zealand Banking Group
     type: bank
     founded: 1835
-    headquarters: Melbourne, AUS
+    headquarters: Melbourne, Australia
     status: active
     note: Big Four Australian bank. Merged 1970.
     stakeholders:
@@ -3878,6 +3878,10 @@ organizations:
       role: chairman
       from: 2006
       note: Chairman
+  asd:
+    name: Australian Signals Directorate
+    type: agency
+    headquarters: Canberra, Australia
   aselsan:
     name: Aselsan Elektronik Sanayi
     type: defense
@@ -3962,6 +3966,16 @@ organizations:
     type: airline
     headquarters: Seoul, South Korea
     status: active
+  asio:
+    name: Australian Security Intelligence Organisation
+    type: agency
+    founded: 1949
+    headquarters: Canberra, Australia
+  asis:
+    name: Australian Secret Intelligence Service
+    type: agency
+    founded: 1952
+    headquarters: Canberra, Australia
   asm-international:
     name: ASM International N.V.
     type: company
@@ -4350,6 +4364,10 @@ organizations:
     - person: michael-hayden
       role: board
       note: Board member
+    - person: rupert-murdoch
+      role: honoree
+      from: 2008
+      note: Leadership Award 2008
     - person: jose-maria-aznar
       role: board
       note: International Advisory Board
@@ -4500,6 +4518,17 @@ organizations:
       from: 1982
       to: 2020
       note: Founded 1982; gave away $8B+; closed foundation 2020
+    - person: peter-smitham
+      role: chairman
+      note: Chair of the Board
+    - person: christopher-oechsli
+      role: executive
+      from: 2011
+      to: 2020
+      note: President and CEO; led spend-down and closure
+    - person: sara-lawrence-lightfoot
+      role: board
+      note: Deputy Chair
   atlantik-brucke:
     name: Atlantik-Brucke
     type: forum
@@ -4554,6 +4583,15 @@ organizations:
       role: major-shareholder
     - org: investor-ab
       role: major shareholder
+  atlassian:
+    name: Atlassian
+    type: company
+    headquarters: Sydney, Australia
+    stakeholders:
+    - person: mike-cannon-brookes
+      role: founder
+    - person: scott-farquhar
+      role: founder
   atletico-madrid:
     name: Club Atlético de Madrid
     type: sportsclub
@@ -4661,6 +4699,10 @@ organizations:
     stakeholders:
     - person: tim-levene
       role: founder
+  aukus:
+    name: AUKUS
+    type: forum
+    founded: 2021
   australian-national-university:
     name: Australian National University
     type: university
@@ -7076,6 +7118,10 @@ organizations:
     status: active
     sector: finance
     note: Investment arm of Bharti Enterprises, Sunil Mittal family
+  bhp:
+    name: BHP Group
+    type: company
+    headquarters: Melbourne, Australia
   big-c:
     name: Big C Supercenter
     type: company
@@ -7308,6 +7354,9 @@ organizations:
     - person: evelyn-rothschild
       role: member
       note: Attended 1998 Scotland (where met Lynn)
+    - person: rupert-murdoch
+      role: member
+      note: Multiple attendee
     - person: kyriakos-mitsotakis
       role: member
       from: 2016
@@ -10370,6 +10419,13 @@ organizations:
     stakeholders:
     - org: mediaset-mfe
       share: 100%
+  canva:
+    name: Canva
+    type: company
+    headquarters: Sydney, Australia
+    stakeholders:
+    - person: melanie-perkins
+      role: founder
   capgemini:
     name: Capgemini SE
     type: company
@@ -10852,6 +10908,10 @@ organizations:
     - person: shlomo-kramer
       role: founder
       from: 2015
+  cba:
+    name: Commonwealth Bank of Australia
+    type: bank
+    headquarters: Sydney, Australia
   cbar:
     name: Central Bank of the Republic of Azerbaijan
     type: centralbank
@@ -11591,6 +11651,8 @@ organizations:
     - person: jeb-bush
       role: member
       note: Co-chair CFR Task Force on Immigration
+    - person: rupert-murdoch
+      role: member
     - person: peter-sutherland
       role: board
       note: advisory-board
@@ -14309,6 +14371,10 @@ organizations:
     - person: robert-miller
       role: board
       note: Presidential Councilor; Trustee Emeritus
+    - org: atlantic-philanthropies
+      role: grant
+      from: 2011
+      note: $350M for Cornell Tech campus on Roosevelt Island
   cornell-law:
     name: Cornell Law School
     type: university
@@ -16737,6 +16803,11 @@ organizations:
     - person: vernon-jordan
       role: board
       note: Board of Directors
+    - person: robert-thomson
+      role: executive
+      from: 2007
+      to: 2012
+      note: Editor-in-Chief, then Managing Editor WSJ
     - org: news-corp
       share: 100%
   dp-world:
@@ -21001,6 +21072,19 @@ organizations:
     - person: brian-moynihan
       role: member
       note: Member
+  financial-times:
+    name: Financial Times
+    type: media
+    founded: 1888
+    headquarters: London, UK
+    status: active
+    note: Owned by Nikkei since 2015
+    stakeholders:
+    - person: robert-thomson
+      role: executive
+      from: 1985
+      to: 2007
+      note: Beijing/Tokyo correspondent, then FT US editor
   fincantieri:
     name: Fincantieri SpA
     type: company
@@ -21748,6 +21832,13 @@ organizations:
     - org: liberty-media
       role: controlling
       note: Acquired 2017
+  fortescue:
+    name: Fortescue
+    type: company
+    headquarters: Perth, Australia
+    stakeholders:
+    - person: andrew-forrest
+      role: founder
   fortinet:
     name: Fortinet, Inc.
     type: company
@@ -21860,6 +21951,23 @@ organizations:
     - person: lachlan-murdoch
       role: chairman
       from: 2019
+      note: Executive Chair & CEO
+    - person: paul-ryan
+      role: board
+      from: 2019
+      note: Independent Director, ex-Speaker House
+    - person: tony-abbott
+      role: board
+      from: 2023
+      note: Independent Director, ex-PM Australia
+    - person: chase-carey
+      role: board
+      from: 2019
+      note: Independent Director, ex-Chairman Formula 1
+    - person: suzanne-scott
+      role: executive
+      from: 2018
+      note: CEO Fox News Media
   fox-networks:
     name: Fox Networks Group
     type: media
@@ -22221,6 +22329,8 @@ organizations:
     - person: andrew-bailey
       role: chairman
       from: 2025
+    - person: michele-bullock
+      role: member
     - org: gru
       role: partnership
       note: 'Agenzie intelligence parallele: GRU militare, FSB interno'
@@ -24718,6 +24828,18 @@ organizations:
       from: 2010
       to: 2013
       note: Prime Minister, first woman
+    - person: anthony-albanese
+      role: leader
+      from: 2022
+    - person: jim-chalmers
+      role: minister
+      from: 2022
+    - person: penny-wong
+      role: minister
+      from: 2022
+    - person: richard-marles
+      role: minister
+      from: 2022
   governo-austria:
     name: Governo Austria
     type: government
@@ -30992,6 +31114,13 @@ organizations:
     - org: irgc
       role: sponsor
       from: 1992
+  hancock-prospecting:
+    name: Hancock Prospecting
+    type: company
+    headquarters: Perth, Australia
+    stakeholders:
+    - person: gina-rinehart
+      role: chairman
   hang-seng-bank:
     name: Hang Seng Bank
     type: bank
@@ -31337,6 +31466,9 @@ organizations:
     - person: olivia-leland
       role: alumni
       note: AB Social Studies
+    - person: sara-lawrence-lightfoot
+      role: faculty
+      note: Professor, Graduate School of Education
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -35593,6 +35725,13 @@ organizations:
     - person: douglas-flint
       role: chairman
       from: 2018
+  ipa:
+    name: Institute of Public Affairs
+    type: thinktank
+    headquarters: Melbourne, Australia
+    stakeholders:
+    - person: gina-rinehart
+      role: donor
   ipi:
     name: International Peace Institute
     type: thinktank
@@ -41443,6 +41582,13 @@ organizations:
       from: 1999
       to: 2009
       note: Founder and President
+  meriton:
+    name: Meriton
+    type: company
+    headquarters: Sydney, Australia
+    stakeholders:
+    - person: harry-triguboff
+      role: founder
   merko-ehitus:
     name: Merko Ehitus
     type: company
@@ -42269,6 +42415,17 @@ organizations:
       role: alumni
       to: 1963
       note: BA
+  mineralogy:
+    name: Mineralogy
+    type: company
+    headquarters: Brisbane, Australia
+    stakeholders:
+    - person: clive-palmer
+      role: chairman
+  minerals-council-australia:
+    name: Minerals Council of Australia
+    type: thinktank
+    headquarters: Canberra, Australia
   mines-paris:
     name: Ecole des Mines de Paris
     type: university
@@ -43410,6 +43567,10 @@ organizations:
     - person: vernon-jordan
       role: board
       note: Senior Director, nearly 30 years on board
+  nab:
+    name: National Australia Bank
+    type: bank
+    headquarters: Melbourne, Australia
   nafmii:
     name: NAFMII
     type: agency
@@ -44640,7 +44801,7 @@ organizations:
     note: Publishing arm post-split. WSJ, Times UK, NY Post, HarperCollins, Dow Jones
     stakeholders:
     - person: rupert-murdoch
-      role: founder
+      role: chairman
       note: chairman-emeritus
     - person: lachlan-murdoch
       role: chairman
@@ -44655,6 +44816,24 @@ organizations:
       from: 1991
       to: 2012
       note: Director
+    - person: kelly-ayotte
+      role: board
+      note: Independent Director
+    - person: robert-thomson
+      role: executive
+      from: 2013
+      note: CEO, contract to 2030
+    - person: natalie-bancroft
+      role: board
+      from: 2007
+      note: Bancroft family representative
+  news-corp-australia:
+    name: News Corp Australia
+    type: media
+    headquarters: Sydney, Australia
+    stakeholders:
+    - person: rupert-murdoch
+      role: founder
   news-uk:
     name: News UK (Times, Sun)
     type: media
@@ -47297,6 +47476,9 @@ organizations:
     - person: reid-hoffman
       role: alumni
       note: MSt Philosophy 1993, Marshall Scholar, Wolfson College
+    - person: rupert-murdoch
+      role: alumni
+      note: MA PPE 1953, Worcester College
     - person: stuart-gulliver
       role: alumni
       note: BA Jurisprudence, Worcester College
@@ -50555,6 +50737,14 @@ organizations:
       from: 2014
       to: 2020
       note: CEO & Chairman, orchestrated UTC merger
+  rba:
+    name: Reserve Bank of Australia
+    type: centralbank
+    headquarters: Sydney, Australia
+    stakeholders:
+    - person: michele-bullock
+      role: leader
+      from: 2023
   rbi:
     name: Reserve Bank of India
     type: centralbank
@@ -51432,9 +51622,9 @@ organizations:
       to: 2022
       note: Governor
   rio-tinto:
-    name: Rio Tinto Group
+    name: Rio Tinto
     type: company
-    headquarters: London, UK
+    headquarters: Melbourne, Australia
     sector: Mining
     stakeholders:
     - org: blackrock
@@ -63666,6 +63856,13 @@ organizations:
       role: executive
       from: 2013
       note: Co-CEO, Co-Founder
+  visy:
+    name: Visy Industries
+    type: company
+    headquarters: Melbourne, Australia
+    stakeholders:
+    - person: anthony-pratt
+      role: chairman
   vital-voices:
     name: Vital Voices Global Partnership
     type: foundation
@@ -64706,6 +64903,9 @@ organizations:
     - person: satya-nadella
       role: member
       note: Regular Davos speaker
+    - person: rupert-murdoch
+      role: member
+      note: Davos attendee
     - person: sebastian-kurz
       role: ygl
       from: 2016
@@ -66055,6 +66255,8 @@ organizations:
     - person: diane-von-furstenberg
       role: member
       note: Regular attendee; Crystal Award 2025
+    - person: jim-chalmers
+      role: member
     - org: bilderberg
       role: partner
     - org: fmi
@@ -66261,6 +66463,10 @@ organizations:
       from: 1994
       to: 1999
       note: Co-founder, Board member 1996-1999
+  westpac:
+    name: Westpac Banking Corporation
+    type: bank
+    headquarters: Sydney, Australia
   wework:
     name: WeWork
     type: company

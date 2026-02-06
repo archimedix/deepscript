@@ -226,6 +226,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 
 | Report | Periodo | Focus |
 |--------|---------|-------|
+| [Australia Power Map](australia-power-map.md) | 1946-2025 | Mining oligarchs, Five Eyes, AUKUS, Murdoch |
 | [China Power Map](china-power-map.md) | 1949-2025 | CCP, princelings, SOE, tech |
 | [Japan Power Map](japan-power-map.md) | 1945-2025 | Keiretsu, LDP, burocrazia |
 | [Korea Power Map](korea-power-map.md) | 1961-2025 | Chaebol, stato sviluppista |
@@ -330,8 +331,8 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 80 |
-| **Power Map geografici** | 44+ |
+| **Report totali** | 81 |
+| **Power Map geografici** | 45+ |
 | **Report tematici/settoriali** | 30+ |
 | **Periodo coperto** | 1897-2025 |
 | **Focus principale** | Post-1945 |

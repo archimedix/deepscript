@@ -1699,13 +1699,16 @@ families:
       role: global-expansion
     - person: prudence-murdoch
       generation: 3
+      role: excluded
     - person: elisabeth-murdoch
       generation: 3
+      role: excluded
     - person: lachlan-murdoch
       generation: 3
-      role: heir-designated
+      role: heir
     - person: james-murdoch
       generation: 3
+      role: excluded
   nasi:
     origin: ITA
     founder: carlo-nasi
