@@ -56,7 +56,8 @@ deepscript/
 │   ├── lib/               # Libreria condivisa
 │   │   └── schema.py      # Loader per schema.yaml
 │   ├── import_yaml.py
-│   └── export_neo4j.py
+│   ├── export_neo4j.py
+│   └── scrape_rothschild.py  # Scraping Rothschild Archive
 └── archive/               # YAML legacy (read-only)
 ```
 
@@ -115,6 +116,29 @@ Usa per:
 - Restore da backup
 - Bulk import dopo modifiche YAML
 - Sync da altro ambiente
+
+### Scraping Rothschild Archive
+
+Script `migration/scrape_rothschild.py` che scarica i ~188 profili da `family.rothschildarchive.org/people` e produce:
+
+- `migration/rothschild_scraped.yaml` — dati persone (born, died, nationality, family, note, source)
+- `migration/rothschild_relations.yaml` — relazioni familiari estratte dal testo (parent, spouse, child)
+- `docs/persons/*.md` — schede markdown (skip se gia' esistenti)
+- `migration/rothschild_links.yaml` — cache lista link (per --resume)
+
+```bash
+python3 migration/scrape_rothschild.py                # scraping completo
+python3 migration/scrape_rothschild.py --list-only    # solo lista link
+python3 migration/scrape_rothschild.py --resume       # riprendi da cache
+python3 migration/scrape_rothschild.py --no-docs      # salta generazione .md
+python3 migration/scrape_rothschild.py --limit 10     # limita a N profili
+```
+
+**Nota**: il sito ha certificato SSL non valido, lo script usa `verify=False`.
+
+**Nazionalita'**: inferita dal nome (von → DEU, de → FRA, altro → GBR).
+
+**Post-scraping**: review manuale di `rothschild_scraped.yaml`, merge in `db/persons.yaml`, poi `/import`.
 
 ### Query dirette Neo4j
 
