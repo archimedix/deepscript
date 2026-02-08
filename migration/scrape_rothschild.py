@@ -8,6 +8,7 @@ Usage:
     python migration/scrape_rothschild.py --list-only    # scrape list only
     python migration/scrape_rothschild.py --resume       # resume from saved list
     python migration/scrape_rothschild.py --no-docs      # skip markdown generation
+    python migration/scrape_rothschild.py --genealogy    # scrape structured genealogy tree
 """
 
 import argparse
@@ -26,10 +27,12 @@ warnings.filterwarnings("ignore", message="Unverified HTTPS request")
 
 BASE_URL = "https://family.rothschildarchive.org"
 PEOPLE_URL = f"{BASE_URL}/people"
+GENEALOGY_URL = "https://www.rothschildarchive.org/genealogy/"
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DOCS_DIR = PROJECT_ROOT / "docs" / "persons"
 OUTPUT_PERSONS = PROJECT_ROOT / "migration" / "rothschild_scraped.yaml"
 OUTPUT_RELATIONS = PROJECT_ROOT / "migration" / "rothschild_relations.yaml"
+OUTPUT_GENEALOGY = PROJECT_ROOT / "migration" / "rothschild_genealogy.yaml"
 LINKS_CACHE = PROJECT_ROOT / "migration" / "rothschild_links.yaml"
 
 SESSION = requests.Session()
@@ -234,6 +237,211 @@ def extract_relations_from_bio(bio: str) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Step 4: Genealogy tree scraping
+# ---------------------------------------------------------------------------
+
+def parse_lifespan(text: str) -> tuple[int | None, int | None]:
+    """Parse lifespan string like '1744-1812', 'b.1927', '1800-' into (born, died)."""
+    if not text:
+        return None, None
+    text = text.strip()
+    # "1744-1812" or "1744-"
+    m = re.match(r"(\d{4})\s*-\s*(\d{4})?", text)
+    if m:
+        born = int(m.group(1))
+        died = int(m.group(2)) if m.group(2) else None
+        return born, died
+    # "b.1927" or "b. 1927"
+    m = re.match(r"b\.?\s*(\d{4})", text)
+    if m:
+        return int(m.group(1)), None
+    # "d.1800" or "d. 1800"
+    m = re.match(r"d\.?\s*(\d{4})", text)
+    if m:
+        return None, int(m.group(1))
+    # Single year
+    m = re.match(r"(\d{4})", text)
+    if m:
+        return int(m.group(1)), None
+    return None, None
+
+
+def walk_genealogy_tree(ul_element, parent_ref: str | None = None) -> list[dict]:
+    """Recursively walk a UL/LI genealogy tree and extract person nodes."""
+    nodes = []
+    for li in ul_element.find_all("li", recursive=False):
+        div = li.find("div", class_="node", recursive=False)
+        if not div:
+            continue
+
+        # Person data
+        name_el = div.select_one(".genealogy-person-name")
+        lifespan_el = div.select_one(".genealogy-person-lifespan")
+        ref_el = div.select_one(".genealogy-person-reference")
+
+        # Use separator=" " to avoid concatenation of <strong>First</strong>Last
+        name = name_el.get_text(separator=" ", strip=True) if name_el else ""
+        # Collapse multiple spaces
+        name = re.sub(r"\s+", " ", name).strip()
+        lifespan = lifespan_el.get_text(strip=True) if lifespan_el else ""
+        ref = ref_el.get_text(strip=True) if ref_el else ""
+        born, died = parse_lifespan(lifespan)
+
+        # Spouse data
+        spouse_name_el = div.select_one(".genealogy-spouse-name")
+        spouse_lifespan_el = div.select_one(".genealogy-spouse-lifespan")
+        spouse_marriage_el = div.select_one(".genealogy-spouse-marriagedate")
+
+        spouse_name = spouse_name_el.get_text(separator=" ", strip=True) if spouse_name_el else None
+        if spouse_name:
+            spouse_name = re.sub(r"\s+", " ", spouse_name).strip()
+        spouse_lifespan = spouse_lifespan_el.get_text(strip=True) if spouse_lifespan_el else None
+        marriage_raw = spouse_marriage_el.get_text(strip=True) if spouse_marriage_el else None
+        # Parse "= 1770" -> 1770
+        marriage_year = None
+        if marriage_raw:
+            m = re.search(r"(\d{4})", marriage_raw)
+            if m:
+                marriage_year = int(m.group(1))
+
+        spouse_born, spouse_died = parse_lifespan(spouse_lifespan) if spouse_lifespan else (None, None)
+
+        node = {
+            "name": name,
+            "ref": ref,
+            "born": born,
+            "died": died,
+            "parent_ref": parent_ref,
+        }
+        if spouse_name:
+            node["spouse"] = spouse_name
+            node["spouse_born"] = spouse_born
+            node["spouse_died"] = spouse_died
+            node["marriage_year"] = marriage_year
+
+        nodes.append(node)
+
+        # Recurse into children
+        child_ul = li.find("ul", recursive=False)
+        if child_ul:
+            nodes.extend(walk_genealogy_tree(child_ul, parent_ref=ref))
+
+    return nodes
+
+
+def scrape_genealogy() -> list[dict]:
+    """Fetch and parse the genealogy tree page."""
+    print("Fetching genealogy page...")
+    r = SESSION.get(GENEALOGY_URL, timeout=30)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    gen_div = soup.find("div", id="genealogy")
+    if not gen_div:
+        print("  ERROR: #genealogy div not found")
+        return []
+
+    root_ul = gen_div.find("ul")
+    if not root_ul:
+        print("  ERROR: no UL found in #genealogy")
+        return []
+
+    nodes = walk_genealogy_tree(root_ul)
+    print(f"  Found {len(nodes)} genealogy nodes")
+    return nodes
+
+
+def build_genealogy_relations(nodes: list[dict]) -> tuple[dict, dict]:
+    """Build persons dict and relations dict from genealogy tree nodes.
+
+    Returns (persons_yaml, relations_yaml) ready for YAML output.
+    """
+    # Build ref -> slug lookup
+    ref_to_slug = {}
+    for n in nodes:
+        slug = slugify(n["name"])
+        ref_to_slug[n["ref"]] = slug
+
+    persons = {}
+    all_relations = {}
+
+    for n in nodes:
+        slug = slugify(n["name"])
+        nat = infer_nationality(n["name"])
+
+        # Person entry
+        entry = {"family": "rothschild", "nationality": nat}
+        if n["born"]:
+            entry["born"] = n["born"]
+        if n["died"]:
+            entry["died"] = n["died"]
+        entry["generation_ref"] = n["ref"]
+        persons[slug] = entry
+
+        rels = []
+
+        # Parent relation
+        if n["parent_ref"] and n["parent_ref"] in ref_to_slug:
+            parent_slug = ref_to_slug[n["parent_ref"]]
+            rels.append({"person": parent_slug, "type": "family", "note": "parent"})
+
+        # Spouse relation
+        if n.get("spouse"):
+            spouse_slug = slugify(n["spouse"])
+            rel = {"person": spouse_slug, "type": "spouse", "note": "married"}
+            if n.get("marriage_year"):
+                rel["marriage_year"] = n["marriage_year"]
+            rels.append(rel)
+
+            # Add spouse as person entry (non-Rothschild unless name suggests otherwise)
+            if spouse_slug not in persons:
+                spouse_entry = {"nationality": infer_nationality(n["spouse"])}
+                if "rothschild" in n["spouse"].lower():
+                    spouse_entry["family"] = "rothschild"
+                if n.get("spouse_born"):
+                    spouse_entry["born"] = n["spouse_born"]
+                if n.get("spouse_died"):
+                    spouse_entry["died"] = n["spouse_died"]
+                persons[spouse_slug] = spouse_entry
+
+        if rels:
+            all_relations[slug] = rels
+
+    return {"persons": persons}, {"relations": all_relations}
+
+
+def merge_genealogy_data(genealogy_persons: dict, genealogy_relations: dict,
+                         existing_persons: dict, existing_relations: dict) -> tuple[dict, dict]:
+    """Merge genealogy data into existing scraped data.
+
+    - Persons: add generation_ref to existing, add new persons from genealogy
+    - Relations: replace existing with structured genealogy relations (more precise)
+    """
+    merged_persons = dict(existing_persons)
+    merged_relations = dict(existing_relations)
+
+    for pid, gdata in genealogy_persons.items():
+        if pid in merged_persons:
+            # Enrich existing entry with generation_ref
+            if "generation_ref" in gdata:
+                merged_persons[pid]["generation_ref"] = gdata["generation_ref"]
+            # Fill missing born/died from genealogy
+            if gdata.get("born") and not merged_persons[pid].get("born"):
+                merged_persons[pid]["born"] = gdata["born"]
+            if gdata.get("died") and not merged_persons[pid].get("died"):
+                merged_persons[pid]["died"] = gdata["died"]
+        else:
+            # New person from genealogy (not in scraped profiles)
+            merged_persons[pid] = gdata
+
+    # Replace relations with structured ones (genealogy is more precise than regex)
+    for pid, grels in genealogy_relations.items():
+        merged_relations[pid] = grels
+
+    return merged_persons, merged_relations
+
+
+# ---------------------------------------------------------------------------
 # Step 5: Output YAML
 # ---------------------------------------------------------------------------
 
@@ -418,7 +626,50 @@ def main():
     parser.add_argument("--resume", action="store_true", help="Resume from saved links")
     parser.add_argument("--no-docs", action="store_true", help="Skip markdown generation")
     parser.add_argument("--limit", type=int, default=0, help="Limit number of profiles to scrape (0=all)")
+    parser.add_argument("--genealogy", action="store_true", help="Scrape genealogy tree and merge with existing data")
     args = parser.parse_args()
+
+    # --genealogy: scrape structured genealogy tree
+    if args.genealogy:
+        nodes = scrape_genealogy()
+        if not nodes:
+            print("No genealogy nodes found, aborting.")
+            return
+
+        # Save raw genealogy cache
+        save_yaml({"genealogy": nodes}, OUTPUT_GENEALOGY)
+
+        # Build structured persons + relations from genealogy
+        gen_persons_yaml, gen_relations_yaml = build_genealogy_relations(nodes)
+        gen_persons = gen_persons_yaml["persons"]
+        gen_relations = gen_relations_yaml["relations"]
+        print(f"Genealogy: {len(gen_persons)} persons, {len(gen_relations)} relation sets")
+
+        # Merge with existing scraped data if available
+        if OUTPUT_PERSONS.exists() and OUTPUT_RELATIONS.exists():
+            print("Merging with existing scraped data...")
+            with open(OUTPUT_PERSONS) as f:
+                existing_persons = yaml.safe_load(f).get("persons", {})
+            with open(OUTPUT_RELATIONS) as f:
+                existing_relations = yaml.safe_load(f).get("relations", {})
+
+            merged_persons, merged_relations = merge_genealogy_data(
+                gen_persons, gen_relations, existing_persons, existing_relations
+            )
+            print(f"Merged: {len(merged_persons)} persons, {len(merged_relations)} relation sets")
+        else:
+            print("No existing scraped data found, using genealogy only.")
+            merged_persons = gen_persons
+            merged_relations = gen_relations
+
+        save_yaml({"persons": merged_persons}, OUTPUT_PERSONS)
+        save_yaml({"relations": merged_relations}, OUTPUT_RELATIONS)
+
+        print("\nDone! Review output files:")
+        print(f"  {OUTPUT_GENEALOGY}")
+        print(f"  {OUTPUT_PERSONS}")
+        print(f"  {OUTPUT_RELATIONS}")
+        return
 
     # Step 1: Get people list
     if args.resume and LINKS_CACHE.exists():
