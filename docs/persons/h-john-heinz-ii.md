@@ -143,7 +143,7 @@ OF COMMERCE
 |---------|-------------|
 | [H.J. Heinz Company](../company/hj-heinz-company.md) | President/CEO 1941-1966, Chairman 1966-1987 |
 | [Bilderberg Group](../forum/bilderberg.md) | Steering Committee 1981-1987 |
-| [Skull and Bones](../forum/skull-and-bones.md) | Member, Class of 1931 |
+| [Skull and Bones](../secret-society/skull-and-bones.md) | Member, Class of 1931 |
 
 ### Famiglia
 

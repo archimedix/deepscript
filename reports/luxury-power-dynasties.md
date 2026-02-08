@@ -11,12 +11,13 @@ Questo report analizza la **concentrazione del potere nel settore luxury globale
 | **[Arnault](../docs/family/arnault.md)** | LVMH | $200B | €350B+ | Full spectrum luxury |
 | **[Rupert](../docs/family/rupert.md)** | Richemont | $16-19B | CHF 70B | Hard luxury (orologi, gioielli) |
 | **[Oppenheimer](../docs/family/oppenheimer.md)** | ex-De Beers | $12B | (usciti 2012) | Diamanti (legacy) |
+| **[Leviev](../docs/persons/lev-leviev.md)** | LLD Diamonds, Africa Israel | ~$1B | - | Diamanti (spezzo' monopolio De Beers) |
 | **[Steinmetz](../docs/family/steinmetz.md)** | Diacore/BSGR | ex-miliardari | - | Diamanti, mining (controversa) |
 | **[Schnitzer](../docs/family/schnitzer.md)** | IDE, IDI | - | - | Fondatori IDE, diamanti Africa |
 | Hermes (famiglia) | Hermes | ~$100B | €220B+ | Pelletteria, esclusivita' |
 | Wertheimer | Chanel | ~$90B | privata | Fashion, profumi |
 
-**Tesi**: Il settore luxury e' il piu' concentrato al mondo - cinque famiglie controllano la definizione stessa di "desiderio" per miliardi di consumatori. Questo potere va oltre l'economia: plasma cultura, aspirazioni e gerarchia sociale globale.
+**Tesi**: Il settore luxury e' il piu' concentrato al mondo - poche famiglie controllano la definizione stessa di "desiderio" per miliardi di consumatori. Questo potere va oltre l'economia: plasma cultura, aspirazioni e gerarchia sociale globale. Nel diamante, Leviev ha dimostrato che anche un monopolio centenario come De Beers puo' essere spezzato - ma solo con accesso diretto alle miniere e connessioni geopolitiche (Russia, Angola).
 
 ---
 
@@ -185,7 +186,7 @@ CENTRAL SELLING ORG
 
 | Aspetto | Prima (Oppenheimer) | Dopo (Anglo American) |
 |---------|--------------------|-----------------------|
-| **Controllo mercato** | 90% → 30% | Competizione ALROSA |
+| **Controllo mercato** | 90% → 30% | Competizione ALROSA + Leviev |
 | **Prezzi** | Cartello | Mercato |
 | **Lab diamonds** | Resistenza | Lightbox (brand LGD) |
 | **Focus** | Monopolio | Profitto |
@@ -194,7 +195,86 @@ Gli Oppenheimer sono usciti al momento giusto - prima che lab-grown diamonds e s
 
 ---
 
-## Dinastia 4: Steinmetz (Israele)
+## Dinastia 4: Leviev (Uzbekistan → Israele)
+
+### Il Distruttore del Monopolio
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondatore** | [Lev Leviev](../docs/persons/lev-leviev.md) (1956-) |
+| **Origine** | Ebreo bukharo, nato a Samarkand (RSS Uzbeka); emigrato in Israele 1971 |
+| **Aziende** | [LLD Diamonds](../docs/company/lld-diamonds.md), [Africa Israel Investments](../docs/company/africa-israel.md) |
+| **Patrimonio** | ~$1B (Forbes 2018; picco piu' alto pre-2008) |
+| **Strategia** | Accesso diretto alle miniere, bypassando De Beers |
+| **Connessione Chabad** | Principale finanziatore Chabad nell'ex URSS; co-fondatore FJCR |
+
+### Come Spezzo' il Monopolio De Beers
+
+```
+SIGHTHOLDER DE BEERS (anni '80)
+        │
+        │ "Intense hatred" verso il sistema
+        │
+        ▼
+ACCORDI DIRETTI CON MINIERE
+        │
+   ┌────┴────┐
+   │         │
+RUSSIA    ANGOLA
+(Alrosa)  (Catoca, 18%)
+   │         │
+   └────┬────┘
+        │
+        ▼
+LLD DIAMONDS
+(piu' grande produttore
+ privato al mondo)
+```
+
+**Fasi della rottura:**
+
+| Fase | Periodo | Evento |
+|------|---------|--------|
+| **Apprendistato** | 1970s | Operaio in fabbrica diamanti, poi fonda impianto proprio (1977) |
+| **Consolidamento** | 1980 | Acquisisce 12 fabbriche concorrenti durante recessione |
+| **Sightholder** | 1980s | Entra nel sistema De Beers come uno dei ~100 autorizzati |
+| **Russia** | 1992 | Acquisisce Ruis Diamonds (fabbrica statale); accordi con Alrosa |
+| **Angola** | 1997 | 18% della miniera di Catoca ($25M); De Beers perde contratti Endiama |
+| **Risultato** | 2000s | LLD rivale diretto di De Beers; pipeline integrata miniera-taglio |
+
+### Africa Israel Investments: L'Altro Impero
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Acquisizione** | 1996-97: Leviev compra il controllo da Bank Leumi |
+| **Settori** | Real estate, costruzioni, infrastrutture |
+| **Sussidiarie** | AFI Development (Russia/Mosca), AFI USA (NYC, Miami, LA) |
+| **Crisi 2008** | Crollo valori immobiliari; default su obbligazioni |
+| **Debito** | 7.4 miliardi di shekel ristrutturati (2010) |
+| **Epilogo** | Leviev perde controllo; delisting TASE (2020) |
+
+### Connessione Kushner
+
+Nel 2015, [Jared Kushner](../docs/persons/jared-kushner.md) acquisto' il NYT Building (43rd Street, NYC) dalle societa' di Leviev (Africa Israel + Five Mile Capital) per $295M - un deal che collega il mondo diamantifero israeliano alla dinastia immobiliare Kushner e, attraverso il matrimonio Kushner-Trump, alla Casa Bianca.
+
+### Connessione Chabad-Russia-Putin
+
+Leviev rappresenta il nodo dove diamanti, religione e geopolitica convergono:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Chabad** | Frequento' yeshiva Chabad in Israele; ricevette endorsement dal Rebbe Schneerson |
+| **FJCR** | 1997: co-fondo' con [Roman Abramovich](../docs/persons/roman-abramovich.md) la Federation of Jewish Communities of Russia |
+| **Or Avner** | Fondazione che finanzia ~300 rabbini Chabad e ~10.000 rappresentanti nell'ex URSS |
+| **Berel Lazar** | Patron del Chief Rabbi di Russia [Berel Lazar](../docs/persons/berel-lazar.md), gradito al Cremlino |
+| **Putin** | Coltivo' legami con Putin negli anni '90, evitando la cerchia Yeltsin |
+| **Alrosa** | Accordi diamantiferi con l'azienda statale russa facilitati dalle connessioni politiche |
+
+> Leviev e' l'unico attore nel settore diamanti che opera simultaneamente come magnate, filantropo religioso e intermediario geopolitico Russia-Israele.
+
+---
+
+## Dinastia 5: Steinmetz (Israele)
 
 ### I Caduti del Diamante
 
@@ -331,8 +411,9 @@ MOSHE SCHNITZER
               MINIERE
     ┌───────────┼───────────┐
     │           │           │
-DE BEERS    ALROSA      ALTRI
-(30-35%)   (Russia)   (Rio Tinto, etc.)
+DE BEERS    ALROSA      LLD/LEVIEV
+(30-35%)   (Russia)   (Angola 18%,
+    │           │      Russia, Namibia)
     │           │           │
     └───────────┼───────────┘
                 │
@@ -341,8 +422,8 @@ DE BEERS    ALROSA      ALTRI
          (30-40 aziende)
     ┌───────────┼───────────┐
     │           │           │
- DIACORE    ALTRI       ALTRI
-(Steinmetz)  ISR/BE      IND
+ DIACORE    LLD         ALTRI
+(Steinmetz) (Leviev)    ISR/BE/IND
     │
     ▼
     ┌───────────────────────┐
@@ -387,6 +468,7 @@ Il sistema **sightholder** di De Beers e' uno dei meccanismi di controllo piu' e
 
 **Sightholders nel database:**
 - [Diacore](../docs/company/diacore.md) (Steinmetz) - tra i maggiori acquirenti
+- [LLD Diamonds](../docs/company/lld-diamonds.md) (Leviev) - ex-sightholder che poi bypasso' il sistema andando diretto alle miniere
 
 ---
 
@@ -473,7 +555,7 @@ Il sistema **sightholder** di De Beers e' uno dei meccanismi di controllo piu' e
 
 | Input | Origine | Controllo |
 |-------|---------|-----------|
-| **Diamanti** | Russia (ALROSA), Botswana, Canada | Sanzioni Russia 2024 |
+| **Diamanti** | Russia (ALROSA), Botswana, Canada, Angola (Catoca/Leviev) | Sanzioni Russia 2024; Leviev pipeline alternativa |
 | **Oro** | Svizzera (raffinazione) | Trasparenza supply chain |
 | **Pelli** | Italia, Francia | Allevamenti dedicati |
 | **Movimenti orologi** | Svizzera | Protezionismo "Swiss Made" |
@@ -522,11 +604,13 @@ Il sistema **sightholder** di De Beers e' uno dei meccanismi di controllo piu' e
 | Steinmetz | [docs/family/steinmetz.md](../docs/family/steinmetz.md) |
 | Schnitzer | [docs/family/schnitzer.md](../docs/family/schnitzer.md) |
 | Kabila | [docs/family/kabila.md](../docs/family/kabila.md) |
+| Kushner | [docs/family/kushner.md](../docs/family/kushner.md) |
 
 ### Persone Chiave
 
 | Persona | Scheda |
 |---------|--------|
+| Lev Leviev | [docs/persons/lev-leviev.md](../docs/persons/lev-leviev.md) |
 | Bernard Arnault | [docs/persons/bernard-arnault.md](../docs/persons/bernard-arnault.md) |
 | Johann Rupert | [docs/persons/johann-rupert.md](../docs/persons/johann-rupert.md) |
 | Nicky Oppenheimer | [docs/persons/nicky-oppenheimer.md](../docs/persons/nicky-oppenheimer.md) |
@@ -535,6 +619,9 @@ Il sistema **sightholder** di De Beers e' uno dei meccanismi di controllo piu' e
 | Dan Gertler | [docs/persons/dan-gertler.md](../docs/persons/dan-gertler.md) |
 | Laurent Kabila | [docs/persons/laurent-kabila.md](../docs/persons/laurent-kabila.md) |
 | Moshe Schnitzer | [docs/persons/moshe-schnitzer.md](../docs/persons/moshe-schnitzer.md) |
+| Jared Kushner | [docs/persons/jared-kushner.md](../docs/persons/jared-kushner.md) |
+| Roman Abramovich | [docs/persons/roman-abramovich.md](../docs/persons/roman-abramovich.md) |
+| Berel Lazar | [docs/persons/berel-lazar.md](../docs/persons/berel-lazar.md) |
 
 ### Organizzazioni
 
@@ -549,6 +636,11 @@ Il sistema **sightholder** di De Beers e' uno dei meccanismi di controllo piu' e
 | International Diamond Industries | [docs/company/international-diamond-industries.md](../docs/company/international-diamond-industries.md) |
 | Dan Gertler International | [docs/company/dan-gertler-international.md](../docs/company/dan-gertler-international.md) |
 | Governo DRC | [docs/government/governo-drc.md](../docs/government/governo-drc.md) |
+| LLD Diamonds | [docs/company/lld-diamonds.md](../docs/company/lld-diamonds.md) |
+| Africa Israel Investments | [docs/company/africa-israel.md](../docs/company/africa-israel.md) |
+| Kushner Companies | [docs/company/kushner-companies.md](../docs/company/kushner-companies.md) |
+| FJCR | [docs/religious-institution/fjcr.md](../docs/religious-institution/fjcr.md) |
+| Chabad-Lubavitch | [docs/foundation/chabad-lubavitch.md](../docs/foundation/chabad-lubavitch.md) |
 
 ---
 
@@ -566,26 +658,38 @@ Il sistema **sightholder** di De Beers e' uno dei meccanismi di controllo piu' e
 | **1947** | Slogan "A Diamond is Forever" | De Beers/N.W. Ayer |
 | **1948** | Fondazione Rembrandt Group | Anton Rupert |
 | **1950s** | Rubin Steinmetz fonda azienda diamanti | Steinmetz |
+| **1956** | Nasce Lev Leviev a Samarkand, RSS Uzbeka | Leviev |
+| **1971** | Famiglia Leviev emigra in Israele | Leviev |
+| **1977** | Leviev fonda primo impianto taglio diamanti | Leviev |
+| **1980** | Leviev acquisisce 12 fabbriche concorrenti | Leviev |
 | **1987** | Creazione LVMH | Arnault |
 | **1988** | Fondazione Richemont | Johann Rupert |
 | **1990s** | Steinmetz Diamond Group fondato | Steinmetz |
+| **1992** | Leviev acquisisce Ruis Diamonds (Russia); accordi Alrosa | Leviev |
 | **1992** | Arnault al Bilderberg | Arnault |
 | **1993** | Richemont acquisisce Cartier | Rupert |
 | **1996** | Dan Gertler fonda IDI e DGI | Gertler |
+| **1997** | Leviev acquista Africa Israel da Bank Leumi; 18% Catoca (Angola) | Leviev |
+| **1997** | Leviev co-fonda FJCR con Abramovich | Leviev/Chabad |
 | **1997** | Laurent Kabila presidente DRC | Kabila |
 | **2000** | IDI ottiene monopolio diamanti DRC ($20M) | Gertler/Kabila |
 | **2001** | Assassinio Laurent Kabila | Kabila |
 | **2001** | Joseph Kabila presidente, revoca monopolio | Kabila/Gertler |
 | **2006** | Moshe Schnitzer muore (fondatore IDE) | Schnitzer |
+| **2008** | Crisi finanziaria: Africa Israel quasi in default | Leviev |
 | **2008** | BSGR ottiene Simandou (Guinea) | Steinmetz |
 | **2010** | BSGR vende 51% Simandou a Vale ($2.5B) | Steinmetz |
 | **2011** | LVMH acquisisce Bulgari | Arnault |
+| **2010** | Africa Israel ristruttura 7.4 miliardi shekel debito | Leviev |
 | **2012** | Oppenheimer vendono De Beers ($5.1B) | Oppenheimer |
 | **2014** | Guinea revoca licenza BSGR | Steinmetz |
+| **2015** | Leviev vende NYT Building a Jared Kushner ($295M) | Leviev/Kushner |
 | **2017** | USA sanzioni Gertler (Magnitsky Act) | Gertler |
 | **2021** | LVMH acquisisce Tiffany | Arnault |
 | **2021** | Beny Steinmetz condannato Ginevra | Steinmetz |
 | **2021** | Trump alleggerisce sanzioni Gertler, Biden ripristina | Gertler |
+| **2018** | Leviev perde controllo Africa Israel; cede chairmanship | Leviev |
+| **2020** | Africa Israel delisted da TASE dopo 47 anni | Leviev |
 | **2023** | Al Cook CEO De Beers | De Beers |
 | **2024** | Arnault #1 Forbes, Rupert #1 Africa | - |
 | **2024** | Crisi export diamanti Israel (-35%) | IDE |
@@ -596,7 +700,7 @@ Il sistema **sightholder** di De Beers e' uno dei meccanismi di controllo piu' e
 
 Il settore luxury e' unico: non vende prodotti, vende **aspirazione**. Chi controlla questa narrativa controlla qualcosa di piu' profondo del denaro - controlla cosa miliardi di persone *desiderano essere*.
 
-Tre famiglie - Arnault, Rupert, e (storicamente) Oppenheimer - hanno costruito questo potere attraverso:
+Poche famiglie - Arnault, Rupert, (storicamente) Oppenheimer, e nel diamante Leviev e Steinmetz - hanno costruito questo potere attraverso:
 
 1. **Monopolio/oligopolio** sulla produzione
 2. **Controllo della narrativa** culturale
@@ -620,6 +724,10 @@ Tre famiglie - Arnault, Rupert, e (storicamente) Oppenheimer - hanno costruito q
 - [x] Dan Gertler: monopolio DRC, sanzioni USA documentate
 - [x] Famiglia Schnitzer: fondatori IDE documentati
 - [x] Kabila: dinastia presidenziale DRC documentata
+- [x] Leviev: dinastia diamantifero-religiosa documentata
+- [x] LLD Diamonds: scheda produttore privato
+- [x] Africa Israel: conglomerato Leviev documentato
+- [x] Connessione Leviev-Kushner-Chabad documentata
 - [ ] Esito ricorso Steinmetz Corte Suprema Svizzera?
 - [ ] Anglo American: spin-off De Beers?
 - [ ] Esito sanzioni USA su Dan Gertler (2024-)?
@@ -643,4 +751,4 @@ Tre famiglie - Arnault, Rupert, e (storicamente) Oppenheimer - hanno costruito q
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

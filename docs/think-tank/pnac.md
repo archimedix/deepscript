@@ -83,8 +83,8 @@ I 25 firmatari del documento fondativo rappresentavano diverse correnti conserva
 
 | Nome | Note |
 |------|------|
-| [Elliott Abrams](../persons/elliott-abrams.md) | Iran-Contra, poi NSC Bush |
-| [Norman Podhoretz](../persons/norman-podhoretz.md) | Ideologo, editor Commentary |
+| [Elliott Abrams](../persons/elliott-abrams.md) | Iran-Contra, poi NSC Bush; genero di Podhoretz |
+| [Norman Podhoretz](../persons/norman-podhoretz.md) | Ideologo, editor [Commentary](../media/commentary-magazine.md) 1960-95 (m. 2025) |
 | [Francis Fukuyama](../persons/francis-fukuyama.md) | "End of History", poi critico |
 | [Lewis Libby](../persons/lewis-libby.md) | "Scooter", Chief of Staff Cheney |
 | [Frank Gaffney](../persons/frank-gaffney.md) | Center for Security Policy |
@@ -205,6 +205,19 @@ Ex firmatario, pubblico' nel 2006 "America at the Crossroads" criticando il neoc
 
 ---
 
+## Rete dinastica Podhoretz-Abrams
+
+Tra i firmatari, [Norman Podhoretz](../persons/norman-podhoretz.md) e [Elliott Abrams](../persons/elliott-abrams.md) rappresentano un legame familiare: Abrams sposo' Rachel Decter, figlia di Midge Decter e figliastra di Podhoretz, nel 1980. La "famiglia Podhoretz" costituisce il nucleo dinastico del neoconservatorismo americano:
+
+- **Norman Podhoretz**: editor Commentary 35 anni, padrino intellettuale del movimento
+- **Midge Decter** (moglie): scrittrice e attivista neocon
+- **Elliott Abrams** (genero): Asst Sec State Reagan, NSC Bush, Special Rep Trump, chairman [Tikvah Fund](../foundation/tikvah-fund.md)
+- **John Podhoretz** (figlio): successore a Commentary
+
+Questa rete familiare si interseca con la filantropia neoconservatrice di [Roger Hertog](../persons/roger-hertog.md) (chairman [Manhattan Institute](manhattan-institute.md), [Hertog Foundation](../foundation/hertog-foundation.md)) e il circuito [Tikvah Fund](../foundation/tikvah-fund.md) (fondato da [Zalman Bernstein](../persons/zalman-bernstein.md), oggi guidato da Abrams).
+
+---
+
 ## Eredita'
 
 PNAC si sciolse nel 2006, durante il deterioramento della situazione in Iraq. Il suo successore, **Foreign Policy Initiative** (2009-2017), manteneva posizioni interventiste ma con toni piu' moderati.
@@ -231,4 +244,4 @@ L'eredita' intellettuale del PNAC rimane controversa:
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2025*
+*Ultimo aggiornamento: Febbraio 2026*

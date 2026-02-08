@@ -165,11 +165,14 @@ Report che analizzano la costruzione di movimenti politici, stati e ideologie.
 
 | Report | Periodo | Focus |
 |--------|---------|-------|
+| [Radici del Potere Occulto](israel-roots.md) | 1626-1830 | Sabbatianesimo, Frankismo, Illuminati |
 | [Sionismo: Da Movimento a Stato](zionism-state-building.md) | 1897-1948 | Herzl, Balfour, Ben-Gurion |
 | [Nascita del Fascismo](fascismo-nascita-finanziamento.md) | 1914-1926 | Finanziatori internazionali |
 | [Technocracy Genealogy](technocracy-genealogy.md) | 1933-2025 | Da Technocracy Inc. a DOGE via Musk |
 
 **Eventi correlati:**
+- [Conversione di Sabbatai Zvi (1666)](../docs/events/1666-conversione-sabbatai-zvi.md)
+- [Conversione dei Frankisti (1759)](../docs/events/1759-conversione-frankisti-varsavia.md)
 - [Dichiarazione Balfour (1917)](../docs/events/1917-balfour-declaration.md)
 - [Accordi di Oslo (1993)](../docs/events/1993-oslo-accords.md)
 - [Assassinio Rabin (1995)](../docs/events/1995-assassinio-rabin.md)
@@ -331,11 +334,11 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 81 |
+| **Report totali** | 82 |
 | **Power Map geografici** | 45+ |
-| **Report tematici/settoriali** | 30+ |
-| **Periodo coperto** | 1897-2025 |
-| **Focus principale** | Post-1945 |
+| **Report tematici/settoriali** | 31+ |
+| **Periodo coperto** | 1626-2025 |
+| **Focus principale** | Post-1945 (con radici pre-moderne) |
 
 ---
 

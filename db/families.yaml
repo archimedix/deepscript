@@ -938,6 +938,18 @@ families:
     - person: tony-frangieh-jr
       generation: 4
       role: member
+  frank:
+    origin: POL
+    founder: jacob-frank
+    sector: religion
+    status: dissolved
+    members:
+    - person: jacob-frank
+      generation: 1
+      role: founder
+    - person: eva-frank
+      generation: 2
+      role: heir
   gemayel-family:
     origin: Bikfaya, Lebanon
     founder: Pierre Gemayel
@@ -1029,6 +1041,30 @@ families:
     members:
     - person: karl-von-habsburg
       role: head
+  hancock-rinehart:
+    origin: AUS
+    founder: lang-hancock
+    sector: mining
+    status: active
+    members:
+    - person: gina-rinehart
+      generation: 2
+      role: heir
+    - person: lang-hancock
+      generation: 1
+      role: founder
+    - person: john-hancock-aus
+      generation: 3
+      role: heir
+    - person: bianca-rinehart
+      generation: 3
+      role: heir
+    - person: hope-welker
+      generation: 3
+      role: heir
+    - person: ginia-rinehart
+      generation: 3
+      role: heir
   hariri-family:
     origin: Saida, Lebanon
     founder: Rafic Hariri
@@ -1425,15 +1461,25 @@ families:
       role: partner
   kushner:
     origin: USA
+    founder: joseph-kushner
     sector: real estate, finance
     status: active
     members:
     - person: jared-kushner
-      generation: 2
+      generation: 3
+      role: heir
+    - person: ivanka-trump
+      generation: 3
       role: heir
     - person: joshua-kushner
-      generation: 2
+      generation: 3
       role: heir
+    - person: charles-kushner
+      generation: 2
+      role: patriarch
+    - person: joseph-kushner
+      generation: 1
+      role: founder
   larrea:
     origin: Mexico
     founder: Jorge Larrea Ortega
@@ -2033,6 +2079,30 @@ families:
     - person: paolo-pininfarina
       generation: 3
       role: heir
+  podhoretz:
+    origin: USA
+    founder: norman-podhoretz
+    sector: media
+    status: active
+    members:
+    - person: elliott-abrams
+      generation: 2
+      role: member
+    - person: norman-podhoretz
+      generation: 1
+      role: founder
+    - person: john-podhoretz
+      generation: 2
+      role: heir
+    - person: midge-decter
+      generation: 1
+      role: member
+    - person: ruthie-blum
+      generation: 2
+      role: member
+    - person: rachel-abrams
+      generation: 2
+      role: member
   porsche-piech:
     origin: Germany/Austria
     founder: Ferdinand Porsche
@@ -2133,6 +2203,21 @@ families:
       role: senator
     - person: david-rockefeller-jr
       generation: 4
+  rohr:
+    origin: DEU
+    founder: sami-rohr
+    sector: real estate, philanthropy
+    status: active
+    members:
+    - person: sami-rohr
+      generation: 1
+      role: founder
+    - person: george-rohr
+      generation: 2
+      role: heir
+    - person: moris-tabacinic
+      generation: 2
+      role: married
   rothermere:
     origin: UK
     founder: Harold Harmsworth
@@ -2185,6 +2270,9 @@ families:
     - person: nathaniel-rothschild-1st-baron
       generation: 3
       role: head UK branch
+    - person: eric-de-rothschild
+      generation: 6
+      role: paris-branch
     - person: edmond-de-rothschild
       generation: 6
       role: Ramo francese (Maurice)
@@ -2197,6 +2285,69 @@ families:
     - person: lynn-forester-de-rothschild
       role: by-marriage
     - person: david-mayer-de-rothschild
+    - person: hannah-rothschild
+      generation: 7
+      role: heir
+    - person: saskia-de-rothschild
+      generation: 7
+      role: paris-branch
+    - person: maria-beatrice-caracciolo
+      generation: 6
+    - person: pietro-de-rothschild
+      generation: 7
+      role: paris-branch
+    - person: james-de-rothschild-fr
+      generation: 7
+      role: paris-branch
+    - person: james-rothschild-uk
+      generation: 7
+      role: english-branch
+    - person: beatrice-de-rothschild
+      generation: 6
+      role: member
+    - person: marie-angliviel-de-la-beaumelle
+      generation: 7
+      role: member
+    - person: alain-de-rothschild
+      generation: 5
+      role: paris-branch
+    - person: mary-chauvin-du-treuil
+      generation: 5
+      role: paris-branch
+    - person: robert-de-rothschild
+      generation: 4
+      role: paris-branch
+    - person: elie-de-rothschild
+      generation: 5
+      role: paris-branch
+    - person: guy-de-rothschild
+      generation: 5
+      role: paris-branch
+    - person: nelly-beer-de-rothschild
+      generation: 4
+      role: spouse
+    - person: marie-louise-beer-de-rothschild
+      generation: 4
+      role: spouse
+    - person: lionel-nathan-de-rothschild
+      generation: 4
+      role: london-branch
+    - person: diane-de-rothschild
+      generation: 5
+    - person: cecile-de-rothschild
+      generation: 5
+    - person: gustave-de-rothschild
+      generation: 3
+      role: heir
+    - person: lucie-de-rothschild
+      generation: 4
+      role: heir
+    - person: aline-de-rothschild
+      generation: 4
+      role: heir
+    - person: juliette-de-rothschild
+      generation: 4
+      role: heir
   rupert:
     origin: South Africa
     founder: anton-rupert
@@ -2491,6 +2642,17 @@ families:
     - person: akio-toyoda
       generation: 4
       role: chairman
+  trump:
+    origin: USA
+    sector: real estate, media
+    status: active
+    members:
+    - person: donald-trump
+      generation: 2
+      role: patriarch
+    - person: ivanka-trump
+      generation: 3
+      role: heir
   tshuva:
     origin: Israel
     founder: yitzhak-tshuva

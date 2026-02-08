@@ -124,7 +124,7 @@ Fine P2 (formale)
 
 | Entita' | Ruolo |
 |---------|-------|
-| [P2](../forum/p2.md) | Scoperta, sciolta |
+| [P2](../secret-society/p2.md) | Scoperta, sciolta |
 | Banco Ambrosiano | Connesso |
 | SISMI, SISDE | Capi nella lista |
 

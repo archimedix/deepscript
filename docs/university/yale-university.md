@@ -211,7 +211,7 @@ Il "Yale Model" di investimento, sviluppato da David Swensen (CIO 1985-2021):
 |-------|-----------------|
 | [Bilderberg](../forum/bilderberg.md) | Alumni frequentemente invitati |
 | [CFR](../think-tank/cfr.md) | Pipeline diretta |
-| [Skull and Bones](../forum/skull-and-bones.md) | Secret society interna |
+| [Skull and Bones](../secret-society/skull-and-bones.md) | Secret society interna |
 
 ### Istituzioni
 

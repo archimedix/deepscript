@@ -12,6 +12,15 @@
 
 ---
 
+## Formazione
+
+| Istituzione | Dettaglio |
+|-------------|-----------|
+| Tel Aviv University | BA |
+| Tel Aviv University | MSc Geophysics and Planetary Science |
+
+---
+
 ## Carriera e Ruoli
 
 ### Timeline Professionale
@@ -152,4 +161,4 @@
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2025*
+*Ultimo aggiornamento: Febbraio 2026*

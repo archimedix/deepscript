@@ -58,7 +58,7 @@ Le figure con piu' affiliazioni nel database (aggiornato Gennaio 2026):
 | [State of the World Forum](../docs/forum/state-of-the-world-forum.md) | 23 | Forum | Post-Cold War global governance |
 | [Atlantic Council](../docs/think-tank/atlantic-council.md) | 22 | ThinkTank | NATO/transatlantic policy |
 | [Kissinger Associates](../docs/company/kissinger-associates.md) | 14 | Company | Strategic consulting, revolving door |
-| [Skull and Bones](../docs/forum/skull-and-bones.md) | 13 | Forum | Yale elite network |
+| [Skull and Bones](../docs/secret-society/skull-and-bones.md) | 13 | Forum | Yale elite network |
 | [JPMorgan Chase](../docs/bank/jpmorgan-chase.md) | 10 | Bank | Fusione Morgan-Rockefeller, $4T assets |
 | [Ford Foundation](../docs/foundation/ford-foundation.md) | 10 | Foundation | Filantropia strategica, CFR/Trilateral funder |
 | [Rockefeller Foundation](../docs/foundation/rockefeller-foundation.md) | 7 | Foundation | Green Revolution, elite pipeline |

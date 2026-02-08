@@ -26,6 +26,8 @@ La recente normalizzazione con UAE (Abraham Accords) ha aperto un nuovo asse di 
 | **Cyber** | Alumni Unit 8200 | $160B+ valore aziende fondate |
 | **Intelligence** | Ex-capi Mossad/IDF | SoftBank, Paragon, Carbyne (revolving door) |
 | **Lobby USA** | [AIPAC](../docs/think-tank/aipac.md) + donatori | $100M/anno, 96% candidati eletti |
+| **Rete religiosa** | [Chabad-Lubavitch](../docs/foundation/chabad-lubavitch.md) | 6.233+ emissari in 111 paesi, ponte Washington-Mosca-Gerusalemme |
+| **Infrastruttura ideologica** | [Tikvah Fund](../docs/foundation/tikvah-fund.md) + [Commentary](../docs/media/commentary-magazine.md) | $86M asset, rete neocon Bernstein-Hertog-Abrams |
 
 ### Mappa del Network
 
@@ -67,8 +69,13 @@ Mossad  Unit      Netanyahu   Knesset   Difesa    Finanza
     |Google      |            +------+------+
     |SoftBank    |            |Mubadala     |
     +------------+            |G42 + Rafael |
-                              |Tahnoun      |
-                              +-------------+
+         |                   |Tahnoun      |
+    DIASPORA                 +-------------+
+    +-------------+
+    |Chabad 6.000+|
+    |Mega Group   |
+    |Tikvah/Neocon|
+    +-------------+
 ```
 
 ---
@@ -592,6 +599,96 @@ Koor Industries   Birthright Israel
 
 **Pattern**: Il capitale dinastico canadese (Bronfman) entro' in Israele attraverso le privatizzazioni Histadrut, creando un ponte finanziario Nord America-Israel che precede di decenni la pipeline tech attuale. La vendita disastrosa di Seagram a Vivendi (2000) non interruppe l'impegno filantropico: Birthright Israel continua a operare.
 
+### Rete Religiosa-Filantropica: Chabad, Tikvah e Neoconservatorismo
+
+Oltre al Mega Group (filantropia coordinata) e alla lobby diretta (AIPAC), il sistema di influenza Israel-diaspora include due reti complementari: una **religiosa-operativa** ([Chabad-Lubavitch](../docs/foundation/chabad-lubavitch.md)) e una **intellettuale-ideologica** ([Tikvah Fund](../docs/foundation/tikvah-fund.md) + [Commentary](../docs/media/commentary-magazine.md)).
+
+#### Chabad-Lubavitch: Il Triangolo Washington-Mosca-Gerusalemme
+
+[Chabad](../docs/foundation/chabad-lubavitch.md) (6.233+ coppie emissarie in 111 paesi) opera come **rete informale transnazionale** che connette tre poli di potere:
+
+```
+        WASHINGTON                    MOSCA
+    Levi Shemtov (DC)           Berel Lazar (Russia)
+    Abraham Shemtov             Roman Abramovich
+    Kushner/Trump               Lev Leviev / Putin
+            \                       /
+             \                     /
+              v                   v
+              GERUSALEMME
+              Netanyahu
+              Blocco religioso
+```
+
+| Polo | Figura Chiave | Funzione |
+|------|---------------|----------|
+| **Washington** | [Levi Shemtov](../docs/persons/levi-shemtov.md) | Operazioni DC dal 1992; rabbino personale Kushner/Ivanka; Capitol Jewish Forum; preghiera Casa Bianca 2025 |
+| **Mosca** | [Berel Lazar](../docs/persons/berel-lazar.md) | Chief Rabbi Russia dal 2000; "rabbino di Putin"; Ordine d'Onore 2025; facilitatore rapporti Netanyahu-Putin |
+| **Finanziamento Russia** | [Roman Abramovich](../docs/persons/roman-abramovich.md) | Co-fondatore [FJCR](../docs/religious-institution/fjcr.md) (1999); $500M+ a cause ebraiche; "80% sviluppo vita ebraica in Russia" |
+| **Diamanti→Chabad** | [Lev Leviev](../docs/persons/lev-leviev.md) | Fondatore [Or Avner](../docs/foundation/or-avner.md) (~124 scuole ex-URSS); profitti [LLD Diamonds](../docs/company/lld-diamonds.md) finanziano rete Chabad |
+| **Kushner-Trump** | [Jared Kushner](../docs/persons/jared-kushner.md) / [Ivanka Trump](../docs/persons/ivanka-trump.md) | Donatori storici; Ivanka convertita 2009; frequentano TheSHUL DC; Abraham Accords |
+
+**Connessione Kushner-Leviev**: Nel 2015 Jared Kushner acquisto' il NYT Building da Africa Israel (Leviev) per $295M, collegando il mondo diamantifero-filantropico al circuito Kushner→Casa Bianca.
+
+#### La Famiglia Rohr: Ponte Chabad-Wall Street-Neoconservatorismo
+
+[George Rohr](../docs/persons/george-rohr.md) (figlio di [Sami Rohr](../docs/persons/sami-rohr.md), $250M+ donati a Chabad) e' il nodo che collega tre reti:
+
+```
+           GEORGE ROHR
+          (NCH Capital, $3B+ AUM)
+                 |
+     +-----------+-----------+
+     |           |           |
+     v           v           v
+  CHABAD       AVI CHAI    TIKVAH
+  on Campus    Foundation   FUND
+  (150+ Rohr   ($1.2B,     (board)
+   Centers)    chiusa 2019)    |
+     |                        |
+     v                        v
+  1.800+                 Commentary
+  centri JLI             Mosaic Mag
+  28+ paesi              PNAC alumni
+```
+
+[NCH Capital](../docs/company/nch-capital.md) investe nelle stesse regioni (Ucraina: Agroprosperis 290K ha; Russia: AgroTerra) dove la famiglia finanzia l'infrastruttura Chabad. La crisi russo-ucraina ha colpito entrambi i fronti: la procura russa ha chiesto il sequestro di beni NCH per $937M (respinto gen 2025).
+
+#### Tikvah Fund: Infrastruttura Intellettuale Neoconservatrice
+
+Il [Tikvah Fund](../docs/foundation/tikvah-fund.md) ($86M asset) e' il braccio ideologico della rete Bernstein-Hertog, che connette Wall Street al pensiero neoconservatore pro-Israel:
+
+| Figura | Ruolo | Connessione |
+|--------|-------|-------------|
+| [Elliott Abrams](../docs/persons/elliott-abrams.md) | Chairman Tikvah (2024-) | Co-fondatore [PNAC](../docs/think-tank/pnac.md); Deputy NSA (Bush, Trump); genero di Norman Podhoretz |
+| [Roger Hertog](../docs/persons/roger-hertog.md) | Chairman Emeritus | Ex socio di [Zalman Bernstein](../docs/persons/zalman-bernstein.md) ([AllianceBernstein](../docs/company/alliancebernstein.md)); finanziatore Commentary |
+| [Neal Kozodoy](../docs/persons/neal-kozodoy.md) | Sr. Director Publications | 43 anni a Commentary (1966-2009) → fondatore Mosaic Magazine; ponte editoriale |
+| [John Podhoretz](../docs/persons/john-podhoretz.md) | Editor Commentary | Figlio di Norman, cognato di Abrams |
+| [Arthur Fried](../docs/persons/arthur-fried.md) | Trustee | Ex Chairman [AVI CHAI](../docs/foundation/avi-chai-foundation.md), ex CEO Rothschild Foundation |
+
+**NEH 2025**: $10.4M grant (il piu' grande nella storia del NEH) a Tikvah per "combattere antisemitismo nei campus", mentre il NEH cancellava 1.000+ altri grant.
+
+**Pattern**: La rete Bernstein-Hertog-Podhoretz-Abrams rappresenta il **hard power intellettuale** pro-Israel: la ricchezza Wall Street ([AllianceBernstein](../docs/company/alliancebernstein.md)) finanzia l'infrastruttura ideologica (Tikvah, Commentary, Mosaic), mentre la famiglia Podhoretz e Abrams forniscono il capitale intellettuale e l'accesso governativo. George Rohr nel board di Tikvah collega questa rete direttamente a Chabad.
+
+```
+INFLUENZA DIASPORA→ISRAEL (3 canali)
+           |
+  +--------+--------+----------+
+  |        |        |          |
+  v        v        v          v
+AIPAC    MEGA     CHABAD    TIKVAH/
+(lobby   GROUP    (rete     COMMENTARY
+diretta) (filant- religiosa (infrastruttura
+$100M/y  ropia    6.000+    intellettuale
+         coord.)  emissari) neocon)
+  |        |        |          |
+  +--------+--------+----------+
+           |
+           v
+    POLITICA ISRAELIANA
+    + RELAZIONI USA-ISRAEL
+```
+
 ### UAE: Abraham Accords e Nuovo Asse
 
 Dal 2020, l'asse Gerusalemme-Abu Dhabi ha generato:
@@ -726,6 +823,18 @@ RAFAEL CHAIRMAN (2023-)
 | [Ronald Lauder](../docs/persons/ronald-lauder.md) | 5 | Estee Lauder, Mega Group, WJC, Amb. Austria, Museum |
 | [Jeffrey Epstein](../docs/persons/jeffrey-epstein.md) | 6 | Bear Stearns, Wexner, Leon Black, Harvard, Bronfman, Maxwell |
 
+### Top Connettori Rete Religiosa-Filantropica
+
+| Persona | Connessioni | Settori |
+|---------|-------------|---------|
+| [George Rohr](../docs/persons/george-rohr.md) | 7 | NCH Capital ($3B+), Chabad on Campus (150+ centri), Rohr JLI, AVI CHAI, Tikvah Fund, Agroprosperis (Ucraina), AgroTerra (Russia) |
+| [Lev Leviev](../docs/persons/lev-leviev.md) | 6 | LLD Diamonds, Africa Israel, Or Avner (~124 scuole), FJCR co-fondatore, Kushner (NYT Building), Rebbe endorsement |
+| [Elliott Abrams](../docs/persons/elliott-abrams.md) | 6 | Chairman Tikvah, PNAC co-fondatore, Deputy NSA (Bush+Trump), Asst Sec State (Reagan), Commentary (cognato editor), Podhoretz family |
+| [Berel Lazar](../docs/persons/berel-lazar.md) | 5 | Chief Rabbi Russia, FJCR, Putin/Cremlino, Netanyahu facilitator, Ordine d'Onore 2025 |
+| [Levi Shemtov](../docs/persons/levi-shemtov.md) | 5 | American Friends Lubavitch DC, Capitol Jewish Forum, rabbino Kushner/Ivanka, Casa Bianca, Senato 2025 |
+| [Roman Abramovich](../docs/persons/roman-abramovich.md) | 5 | FJCR co-fondatore ($500M+), Chelsea FC, oligarca russo, mediatore Ucraina, Chabad Russia |
+| [Roger Hertog](../docs/persons/roger-hertog.md) | 4 | AllianceBernstein, Tikvah Chairman Emeritus, Commentary board, Hertog Foundation |
+
 ---
 
 ## WEF: Young Global Leaders Israeliani
@@ -776,6 +885,11 @@ RAFAEL CHAIRMAN (2023-)
 | Exit tech 2024 (Wiz) | $32B |
 | Patrimonio Ofer (top) | $50B+ |
 | **Iron Beam costo per shot** | **$3** |
+| Chabad emissari globali | 6.233+ coppie in 111 paesi |
+| Tikvah Fund asset | $86M |
+| NEH grant Tikvah 2025 | $10.4M (record storico NEH) |
+| Rohr donazioni Chabad | $250M+ (Sami); 150+ Rohr Centers (George) |
+| FJCR comunita' Russia | 200+ citta', 165+ sinagoghe |
 
 ---
 
@@ -909,6 +1023,18 @@ RAFAEL CHAIRMAN (2023-)
 - [Wikipedia - Arison family](https://en.wikipedia.org/wiki/Arison_family)
 - [Jewish Virtual Library - Ted Arison](https://www.jewishvirtuallibrary.org/ted-arison)
 
+### Chabad-Lubavitch
+- [Washington Monthly - Chabad Connection Putin-Trump](https://washingtonmonthly.com/2017/11/27/the-odd-chabad-connection-between-putin-and-trump/)
+- [Haaretz - Chabad's Faustian Bargain with Russia](https://www.haaretz.com/world-news/2022-04-25/ty-article-opinion/.highlight/chabads-long-faustian-bargain-with-russia-and-putin/00000180-655d-d824-ad9e-e77d0d8b0000)
+- [Forward - Kushner Foundation Chabad Donations](https://forward.com/news/359482/kushner-foundation-gives-342k-to-chabad-still-surprised-about-jared-and-iva/)
+- [Slate - Putin and Chabad](https://slate.com/news-and-politics/2014/11/vladimir-putin-chabad-whats-behind-the-russian-presidents-close-relationship-with-an-orthodox-jewish-sect.html)
+
+### Tikvah Fund e Neoconservatorismo
+- [eJewishPhilanthropy - Conservative Money and Jewish Studies](https://ejewishphilanthropy.com/conservative-money-and-jewish-studies-investigating-the-tikvah-fund/)
+- [Jewish Currents - Trump's $10M Grant to Tikvah](https://jewishcurrents.org/the-meaning-of-trumps-10-million-grant-to-a-jewish-nonprofit)
+- [Times of Israel - NEH Grant](https://www.timesofisrael.com/us-gives-10m-grant-to-right-wing-jewish-tikvah-fund-to-combat-antisemitism/)
+- [Wikipedia - Tikvah Fund](https://en.wikipedia.org/wiki/Tikvah_Fund)
+
 ---
 
-*Ultimo aggiornamento: 26 Gennaio 2026 - Aggiunta dinastia Herzog (unica famiglia con padre-figlio Presidenti): Isaac Herzog (11° Presidente), Chaim Herzog (6° Presidente), Yitzhak HaLevi Herzog (Chief Rabbi), Yaakov Herzog (diplomatico), Mike Herzog (Ambasciatore USA). Aggiornato conteggio famiglie a 7.*
+*Ultimo aggiornamento: 8 Febbraio 2026 - Aggiunta sezione Rete Religiosa-Filantropica: Chabad-Lubavitch (triangolo Washington-Mosca-Gerusalemme, Leviev, Rohr, Kushner-Trump), Tikvah Fund (infrastruttura neocon Bernstein-Hertog-Abrams-Podhoretz), George Rohr come nodo-ponte. Aggiunta tabella Top Connettori rete religiosa-filantropica.*

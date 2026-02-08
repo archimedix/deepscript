@@ -26,7 +26,7 @@
 | **1945-50s** | Operativo "Ratlines" | Vaticano/CIA |
 | **1950s-60s** | Uomo d'affari | Argentina |
 | **1965-1970** | Delegato | P2 |
-| **1970-1981** | Venerable Master | [P2](../forum/p2.md) |
+| **1970-1981** | Venerable Master | [P2](../secret-society/p2.md) |
 
 ### Fascismo e Guerra
 
@@ -252,7 +252,7 @@ Gen. Giandelio Maletti (ex servizi): "La CIA diede approvazione tacita a una ser
 
 | Entita' | Connessione |
 |---------|-------------|
-| [P2](../forum/p2.md) | Venerable Master (1970-1981) |
+| [P2](../secret-society/p2.md) | Venerable Master (1970-1981) |
 
 ### Persone
 

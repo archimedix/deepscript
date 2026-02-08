@@ -1,8 +1,27 @@
-# Cronologia del Potere (1942-oggi)
+# Cronologia del Potere (1626-oggi)
 
 > Indice cronologico degli eventi e report DeepScript
 
-Questo indice organizza tutti gli eventi e report per periodo storico, permettendo di navigare la storia del potere post-1945 in ordine cronologico.
+Questo indice organizza tutti gli eventi e report per periodo storico, permettendo di navigare la storia del potere dalle origini ad oggi.
+
+---
+
+## 1626-1830: Radici Pre-Moderne
+
+### Eventi
+
+| Anno | Evento | Link |
+|------|--------|------|
+| 1666 | Conversione di Sabbatai Zvi all'Islam, Adrianopoli | [Link](../docs/events/1666-conversione-sabbatai-zvi.md) |
+| 1759 | Conversione di massa dei Frankisti, Lwow-Varsavia | [Link](../docs/events/1759-conversione-frankisti-varsavia.md) |
+| 1776 | Fondazione Ordine degli Illuminati, Ingolstadt | [Illuminati](../docs/secret-society/illuminati.md) |
+| 1785 | Dissoluzione degli Illuminati, bando bavarese | [Illuminati](../docs/secret-society/illuminati.md) |
+
+### Report
+
+| Report | Focus |
+|--------|-------|
+| [Radici del Potere Occulto](israel-roots.md) | Sabbatianesimo, Frankismo, Illuminati (1626-1830) |
 
 ---
 

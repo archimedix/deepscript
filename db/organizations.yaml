@@ -219,6 +219,15 @@ organizations:
     - org: walt-disney
       share: 100%
       from: 1996
+  abn-amro:
+    name: ABN AMRO
+    type: bank
+    headquarters: Amsterdam, Netherlands
+    status: active
+    stakeholders:
+    - person: steven-gregg
+      role: executive
+      note: UK Head
   abraham-accords-peace-institute:
     name: Abraham Accords Peace Institute
     type: thinktank
@@ -340,6 +349,10 @@ organizations:
       from: 2008
       to: 2017
       note: 13e fauteuil
+    - person: pierre-rosenberg
+      role: member
+      from: 1995
+      note: Fauteuil 23
   academy-museum:
     name: Academy Museum of Motion Pictures
     type: foundation
@@ -954,17 +967,19 @@ organizations:
       role: member
       from: 1987
       note: Resident Fellow
+    - person: elliott-abrams
+      role: fellow
     - person: christopher-griffin
       role: advisor
       from: 2005
       to: 2008
       note: Research Fellow, Asia policy and security assistance
-    - person: elliot-abrams
-      role: fellow
     - person: john-bolton
       role: fellow
       from: 1997
       note: Senior VP 1997-2001, Senior Fellow, Director Foreign/Defense Policy 2010-2018
+    - person: roger-hertog
+      role: board
   aeoi:
     name: Atomic Energy Organization of Iran
     type: agency
@@ -1144,6 +1159,19 @@ organizations:
     - person: githinji-gitahi
       role: board
       note: Board member
+  africa-israel:
+    name: Africa Israel Investments
+    type: company
+    founded: 1934
+    headquarters: Yehud, Israel
+    status: active
+    sector: real estate/construction/infrastructure
+    stakeholders:
+    - person: lev-leviev
+      role: chairman
+      from: 1997
+      to: 2018
+      note: Majority shareholder
   african-leadership-institute:
     name: African Leadership Institute
     type: thinktank
@@ -2187,6 +2215,27 @@ organizations:
       role: partner
       from: 1993
       note: Risk Arbitrage Desk trader
+  alliancebernstein:
+    name: AllianceBernstein
+    type: assetmanager
+    founded: 1967
+    headquarters: Nashville, USA
+    status: active
+    aum: $867B (2025)
+    stakeholders:
+    - person: zalman-bernstein
+      role: founder
+      from: 1967
+      to: 1999
+      note: Founded Sanford C. Bernstein & Co. 1967; merged into AllianceBernstein 2000 (posthumous)
+    - person: roger-hertog
+      role: executive
+      from: 1967
+      to: 2006
+      note: Co-founder Sanford C. Bernstein 1967; President; Vice Chairman AllianceBernstein 2000-2006
+    - org: axa
+      role: majority
+      note: Controlling interest via Equitable Holdings
   allianz:
     name: Allianz SE
     type: company
@@ -2261,6 +2310,16 @@ organizations:
     - person: margaret-hamburg
       role: board
       from: 2019
+  alp:
+    name: Australian Labor Party
+    type: forum
+    headquarters: Canberra, Australia
+    status: active
+    stakeholders:
+    - person: anthony-albanese
+      role: leader
+      from: 2019
+      note: Party Leader; member since 1980s
   alpargatas:
     name: Alpargatas
     type: company
@@ -2822,6 +2881,19 @@ organizations:
       from: 2011
       to: 2011
       note: President
+  american-global-strategies:
+    name: American Global Strategies
+    type: company
+    headquarters: Washington, USA
+    status: active
+    stakeholders:
+    - person: scott-morrison
+      role: executive
+      from: 2024
+      note: Non-Executive Vice Chairman
+    - person: robert-obrien
+      role: founder
+      note: Chairman; fmr NSA under Trump
   american-investment-council:
     name: American Investment Council
     type: forum
@@ -3021,6 +3093,15 @@ organizations:
       role: stake
       from: 2010
       note: Long-term investment
+  ampol:
+    name: Ampol Limited
+    type: company
+    headquarters: Sydney, Australia
+    status: active
+    sector: energy
+    stakeholders:
+    - person: steven-gregg
+      role: chairman
   amref:
     name: Amref Health Africa
     type: foundation
@@ -3671,6 +3752,15 @@ organizations:
       share: 5.5%
     - org: state-street
       share: 2.0%
+  architectural-association:
+    name: Architectural Association School of Architecture
+    type: university
+    headquarters: London, UK
+    status: active
+    stakeholders:
+    - person: pietro-de-rothschild
+      role: alumni
+      note: B.Arch ~2012
   arco:
     name: Atlantic Richfield Company (ARCO)
     type: company
@@ -3881,7 +3971,29 @@ organizations:
   asd:
     name: Australian Signals Directorate
     type: agency
+    founded: 1947
     headquarters: Canberra, Australia
+    status: active
+    stakeholders:
+    - person: mike-burgess
+      role: leader
+      from: 2017
+      to: 2019
+      note: Director-General ASD
+    - person: mike-burgess
+      role: official
+      from: 1995
+      to: 2013
+      note: Collection engineer to Deputy Director Cyber; Deputy Chief Pine Gap
+    - person: abigail-bradshaw
+      role: leader
+      from: 2024
+      note: Director-General ASD
+    - person: rachel-noble
+      role: leader
+      from: 2020
+      to: 2024
+      note: Director-General ASD, first woman
   aselsan:
     name: Aselsan Elektronik Sanayi
     type: defense
@@ -3971,11 +4083,68 @@ organizations:
     type: agency
     founded: 1949
     headquarters: Canberra, Australia
+    status: active
+    stakeholders:
+    - person: mike-burgess
+      role: leader
+      from: 2019
+      note: Director-General of Security (14th)
+    - person: dennis-richardson
+      role: leader
+      from: 1996
+      to: 2005
+      note: Director-General of Security
+    - person: duncan-lewis
+      role: leader
+      from: 2014
+      to: 2019
+      note: Director-General of Security (13th)
+    - person: david-irvine-asio
+      role: leader
+      from: 2009
+      to: 2014
+      note: Director-General of Security
+    - person: paul-osullivan-asio
+      role: leader
+      from: 2005
+      to: 2009
+      note: Director-General of Security
+    - person: charles-spry
+      role: leader
+      from: 1950
+      to: 1970
+      note: Director-General of Security (2nd), Petrov Affair
+    - person: kerri-hartland
+      role: official
+      from: 2011
+      to: 2017
+      note: Deputy Director-General, first female and first external
   asis:
     name: Australian Secret Intelligence Service
     type: agency
     founded: 1952
     headquarters: Canberra, Australia
+    status: active
+    stakeholders:
+    - person: david-irvine-asio
+      role: leader
+      from: 2003
+      to: 2009
+      note: Director-General, authorised Timor-Leste bugging
+    - person: kerri-hartland
+      role: leader
+      from: 2023
+      note: Director-General (13th), first female DG
+    - person: paul-symon
+      role: leader
+      from: 2017
+      to: 2023
+      note: Director-General (12th)
+    - person: nick-warner
+      role: leader
+      from: 2009
+      to: 2017
+      note: Director-General (11th)
   asm-international:
     name: ASM International N.V.
     type: company
@@ -4583,6 +4752,15 @@ organizations:
       role: major-shareholder
     - org: investor-ab
       role: major shareholder
+  atlas-iron:
+    name: Atlas Iron
+    type: company
+    headquarters: Perth, Australia
+    status: active
+    stakeholders:
+    - org: hancock-prospecting
+      role: majority
+      note: Wholly owned subsidiary
   atlassian:
     name: Atlassian
     type: company
@@ -4701,8 +4879,91 @@ organizations:
       role: founder
   aukus:
     name: AUKUS
-    type: forum
+    type: agency
     founded: 2021
+    headquarters: Washington / London / Canberra
+    status: active
+    stakeholders:
+    - person: joe-biden
+      role: member
+      from: 2021
+      to: 2025
+      note: US President; announced AUKUS Sept 15, 2021
+    - person: keir-starmer
+      role: member
+      from: 2024
+      note: UK PM; reaffirmed AUKUS commitment
+    - person: boris-johnson
+      role: member
+      from: 2021
+      to: 2022
+      note: UK PM; co-announced AUKUS Sept 15, 2021
+    - person: peter-hegseth
+      role: member
+      from: 2025
+      note: US SecDef; hosted AUKUS ministerial Feb 2025
+    - person: lloyd-austin
+      role: member
+      from: 2021
+      to: 2025
+      note: US SecDef; oversaw Pillar 1 submarine deal and Pillar 2 advanced capabilities
+    - person: anthony-albanese
+      role: member
+      from: 2022
+      note: Australian PM; expanded submarine deal (Optimal Pathway, March 2023)
+    - person: richard-marles
+      role: member
+      from: 2022
+      note: Deputy PM & Defence Minister; led Optimal Pathway negotiations
+    - person: scott-morrison
+      role: member
+      from: 2021
+      to: 2022
+      note: Australian PM; co-announced AUKUS Sept 15, 2021; cancelled Naval Group submarine contract
+    - person: kerri-hartland
+      role: member
+      from: 2023
+      note: ASIS DG, Pillar II advanced capabilities
+    - org: governo-uk
+      role: partner
+      from: 2021
+      note: founding member
+    - org: governo-usa
+      role: partner
+      from: 2021
+      note: founding member
+    - org: governo-australia
+      role: partner
+      from: 2021
+      note: founding member
+    - org: bae-systems
+      role: partner
+      from: 2021
+      note: SSN-AUKUS submarine design & build (Barrow-in-Furness)
+    - org: rolls-royce
+      role: partner
+      from: 2021
+      note: Nuclear propulsion systems for SSN-AUKUS
+    - org: general-dynamics
+      role: partner
+      from: 2021
+      note: Virginia-class submarine builder (Electric Boat division)
+    - org: huntington-ingalls
+      role: partner
+      from: 2021
+      note: Virginia-class submarine co-builder (Newport News Shipbuilding)
+    - org: asio
+      role: partner
+      from: 2021
+      note: Intelligence pillar partner
+    - org: asis
+      role: partner
+      from: 2021
+      note: HUMINT pillar
+    - org: asd
+      role: partner
+      from: 2021
+      note: Cyber and SIGINT pillar
   australian-national-university:
     name: Australian National University
     type: university
@@ -4713,6 +4974,12 @@ organizations:
     - person: jane-halton
       role: alumni
       note: BSc Psychology Honours
+    - person: jim-chalmers
+      role: alumni
+      note: PhD Political Science
+    - person: kerri-hartland
+      role: alumni
+      note: BA 1985, BEcon 1991, MLegSt 1996
   austrian-airlines:
     name: Austrian Airlines
     type: airline
@@ -4802,6 +5069,29 @@ organizations:
       role: chairman
       from: 2000
       note: Founding member, former Chairman Board of Trustees
+  avi-chai-foundation:
+    name: AVI CHAI Foundation
+    type: foundation
+    founded: 1984
+    headquarters: New York, USA
+    status: defunct
+    sector: Jewish education, philanthropy
+    stakeholders:
+    - person: george-rohr
+      role: board
+      note: Board of Trustees
+    - person: zalman-bernstein
+      role: founder
+      from: 1984
+      to: 1999
+    - person: arthur-fried
+      role: chairman
+      from: 1990
+      to: 2012
+      note: Founding Trustee; Chairman 1990-2012
+    - org: tikvah-fund
+      role: partner
+      note: Same founder (Zalman Bernstein); board overlap via Mem Bernstein
   avianca:
     name: Avianca
     type: airline
@@ -6664,6 +6954,16 @@ organizations:
       from: 1998
       to: 2002
       note: Nationalized during bank run May 1998, sold to Hartono 2002
+  bca-australia:
+    name: Business Council of Australia
+    type: forum
+    founded: 1983
+    headquarters: Melbourne, Australia
+    status: active
+    stakeholders:
+    - person: matt-comyn
+      role: board
+      note: Director
   bce:
     name: BCE Inc.
     type: company
@@ -7844,6 +8144,9 @@ organizations:
       role: member
       from: 2022
       note: Regular participant 2022-2025
+    - person: peter-mandelson
+      role: member
+      note: Attended 1999, 2008, 2009, 2011-2014
     - org: trilaterale
       role: partner
   bilkent:
@@ -8492,6 +8795,18 @@ organizations:
       role: founder
       from: 2018
       note: Founder and CEO
+  bluescope-steel:
+    name: BlueScope Steel
+    type: company
+    headquarters: Melbourne, Australia
+    status: active
+    sector: industry
+    stakeholders:
+    - person: paul-omalley
+      role: executive
+      from: 2007
+      to: 2017
+      note: CEO & Managing Director
   bluesky:
     name: Bluesky
     type: company
@@ -10269,6 +10584,9 @@ organizations:
       role: fellow
       from: 2025
       note: Distinguished Academic Visitor, Queens College
+    - person: norman-podhoretz
+      role: alumni
+      note: BA Literature, MA; Clare College (Kellett/Fulbright)
     - person: demis-hassabis
       role: alumni
       note: BA Computer Science 1997, Queens College, Double First
@@ -10911,7 +11229,37 @@ organizations:
   cba:
     name: Commonwealth Bank of Australia
     type: bank
+    founded: 1911
     headquarters: Sydney, Australia
+    status: active
+    sector: finance
+    note: Largest Australian bank. Founded as government bank, privatised 1991-1996. A$700M AUSTRAC fine 2018 for AML failures.
+    stakeholders:
+    - person: matt-comyn
+      role: executive
+      from: 1999
+      note: CEO & Managing Director dal 2018. Joined 1999 as Business Analyst. MD CommSec 2006-2010. GE Retail Banking 2012-2018
+    - person: paul-omalley
+      role: chairman
+      from: 2022
+      note: Chairman
+    - person: ian-narev
+      role: executive
+      from: 2011
+      to: 2018
+      note: CEO. Stepped down after AUSTRAC scandal
+    - org: blackrock
+      role: stake
+      share: 0.062
+      note: Major institutional shareholder
+    - org: vanguard
+      role: stake
+      share: 0.055
+      note: Major institutional shareholder
+    - org: state-street
+      role: stake
+      share: 0.011
+      note: Institutional shareholder
   cbar:
     name: Central Bank of the Republic of Azerbaijan
     type: centralbank
@@ -11754,6 +12102,9 @@ organizations:
       from: 1964
       to: 1981
       note: Director
+    - person: elliott-abrams
+      role: member
+      note: Senior Fellow for Middle Eastern Studies
     - person: dan-senor
       role: member
       note: Adjunct Senior Fellow, Middle East Studies
@@ -11774,9 +12125,6 @@ organizations:
     - person: colin-powell
       role: board
       from: 2005
-    - person: elliot-abrams
-      role: fellow
-      note: Senior Fellow for Middle Eastern Studies
     - person: jeffrey-epstein
       role: member
       from: 1998
@@ -11839,6 +12187,140 @@ organizations:
     stakeholders:
     - org: china-media-group
       share: 100%
+  chabad-lubavitch:
+    name: Chabad-Lubavitch
+    type: foundation
+    founded: 1775
+    headquarters: Brooklyn, USA
+    status: active
+    stakeholders:
+    - person: jared-kushner
+      role: member
+      note: Family donors, attends TheSHUL DC
+    - person: roman-abramovich
+      role: donor
+      note: $500M+ donated to Jewish causes; FJCR co-founder; Marina Roscha Synagogue funder
+    - person: menachem-schneerson
+      role: leader
+      from: 1951
+      to: 1994
+      note: 7th Rebbe, transformed into global movement
+    - person: berel-lazar
+      role: leader
+      from: 2000
+      note: Chief Rabbi of Russia; key connector between Putin and Jewish world
+    - person: levi-shemtov
+      role: executive
+      from: 1992
+      note: Director Chabad DC; rabbi to Jared Kushner and Ivanka Trump
+    - person: yehuda-krinsky
+      role: executive
+      from: 1994
+      note: Heads Merkos, Machneh Israel, Kehot
+    - person: abraham-shemtov
+      role: chairman
+      note: Chairman of Agudas Chasidei Chabad
+    - person: lev-leviev
+      role: member
+      note: Major global Chabad donor
+    - person: alexander-boroda
+      role: member
+      note: Baal teshuva; affiliated via Maryina Roshcha synagogue
+    - person: charles-kushner
+      role: member
+      note: Major Chabad donor; Kushner Foundation $342K+ to Chabad 2003-2013
+    - person: yosef-yitzchak-schneersohn
+      role: leader
+      from: 1920
+      to: 1950
+      note: 6° Rebbe (Frierdiker Rebbe)
+    - person: david-mondshine
+      role: member
+    - person: yehoshua-mondshine
+      role: member
+      note: Scholar and historian
+    - person: moshe-kotlarsky
+      role: executive
+      from: 1968
+      to: 2024
+      note: Vice Chairman Merkos L'Inyonei Chinuch; Director Kinus Hashluchim; Chairman Rohr Jewish Learning Institute; Head
+        Chabad on Campus
+    - person: avi-weinstein
+      role: member
+      note: Chabad on Campus leadership
+    - person: naftali-weinstein
+      role: member
+      note: Rov di Kehilas Nusach Ari (Chabad), Monsey, NY (40+ anni)
+    - person: yossy-gordon
+      role: member
+      note: CEO Chabad on Campus; Central Yeshiva Tomchei Tmimim
+    - person: sami-rohr
+      role: member
+      note: Major global donor ($250M+); funded 500+ shliach salaries; key financier of global Chabad expansion
+    - person: george-rohr
+      role: member
+      note: Major donor; funded Rohr Jewish Learning Institute and Chabad on Campus
+    - person: moris-tabacinic
+      role: member
+      note: Donor; con moglie Lillian dedicato Chabad.org
+    - person: efraim-mintz
+      role: member
+      note: Executive committee Kinus Hashluchim
+    - person: mendy-kotlarsky
+      role: executive
+      note: President CTeen; Director Merkos 302
+    - org: fjcr
+      role: affiliate
+      note: Chabad-affiliated federation; institutional arm of Chabad in Russia
+    - org: or-avner
+      role: affiliate
+      note: Educational arm of Chabad in ex-USSR
+    - org: chabad-on-campus
+      role: subsidiary
+      note: Division of Merkos L'Inyonei Chinuch
+    - org: machneh-israel
+      role: affiliate
+      note: Social services arm of Chabad-Lubavitch; one of three central orgs under Agudas Chassidei Chabad
+    - org: kehot
+      role: affiliate
+      note: Publishing arm of Chabad-Lubavitch; division of Merkos under Agudas Chassidei Chabad
+  chabad-on-campus:
+    name: Chabad on Campus International Foundation
+    type: foundation
+    founded: 1969
+    headquarters: Brooklyn, USA
+    status: active
+    sector: education/religion
+    stakeholders:
+    - person: moshe-kotlarsky
+      role: executive
+      from: 2000
+      to: 2024
+      note: Head / Founder
+    - person: avi-weinstein
+      role: executive
+      note: President & COO
+    - person: yossy-gordon
+      role: executive
+      note: CEO
+    - person: sami-rohr
+      role: donor
+      note: Key funder of Chabad Houses in 160+ campuses; Rohr Centers named after family
+    - person: george-rohr
+      role: donor
+      note: Principal funder with wife Pamela; Rohr Centers named after family
+    - org: merkos
+      role: parent
+      note: Chabad on Campus operates under Merkos
+  challenger:
+    name: Challenger Financial Group
+    type: company
+    headquarters: Sydney, Australia
+    status: active
+    sector: finance
+    stakeholders:
+    - person: steven-gregg
+      role: board
   chan-zuckerberg-initiative:
     name: Chan Zuckerberg Initiative
     type: foundation
@@ -11990,6 +12472,9 @@ organizations:
       from: 1974
       to: 1981
       note: Vice President, Middle East banking
+    - person: steven-gregg
+      role: employee
+      note: Europe and US
   chatham-house:
     name: Chatham House - Royal Institute of International Affairs
     type: thinktank
@@ -12210,6 +12695,15 @@ organizations:
     - person: carter-mecher
       role: alumni
       note: MD 1980
+  chifley-research-centre:
+    name: Chifley Research Centre
+    type: thinktank
+    headquarters: Canberra, Australia
+    status: active
+    stakeholders:
+    - person: jim-chalmers
+      role: executive
+      note: Executive Director
   children-investment-fund:
     type: assetmanager
     founded: 2003
@@ -12338,6 +12832,11 @@ organizations:
       share: 0.05
       from: 2019
       note: 5% stake
+  china-steel:
+    name: China Steel Corporation
+    type: company
+    headquarters: Kaohsiung, Taiwan
+    status: active
   china-telecom:
     name: China Telecom
     type: company
@@ -12848,6 +13347,9 @@ organizations:
       from: 1954
       to: 1958
       note: BA Geology, ROTC
+    - person: roger-hertog
+      role: alumni
+      note: BA (night school while working)
   city-football-group:
     name: City Football Group
     type: company
@@ -13345,6 +13847,10 @@ organizations:
     - person: william-lynn
       role: board
       note: Board of Directors
+    - person: scott-morrison
+      role: advisor
+      from: 2023
+      note: Strategic Advisory Board
   cnbc:
     name: CNBC
     type: media
@@ -13614,6 +14120,25 @@ organizations:
     - person: fred-ehrsam
       role: founder
       from: 2012
+  coles-group:
+    name: Coles Group
+    type: company
+    headquarters: Melbourne, Australia
+    status: active
+    sector: consumer
+    stakeholders:
+    - person: paul-omalley
+      role: board
+      note: Non-Executive Director
+  college-bourbon:
+    name: Collège Bourbon
+    type: university
+    headquarters: Paris, France
+    status: dissolved
+    stakeholders:
+    - person: gustave-de-rothschild
+      role: alumni
+      note: Education
   college-of-europe:
     name: College of Europe
     type: forum
@@ -13744,6 +14269,9 @@ organizations:
     - person: thomas-glocer
       role: alumni
       note: BA Political Science 1981
+    - person: norman-podhoretz
+      role: alumni
+      note: BA 1950 (Pulitzer Scholarship); protege of Lionel Trilling
     - person: siddhartha-mukherjee
       role: faculty
       note: Associate Professor of Medicine, Herbert Irving Cancer Center
@@ -13784,6 +14312,12 @@ organizations:
     - person: will-straw
       role: alumni
       note: MA, Fulbright Scholar
+    - person: saskia-de-rothschild
+      role: alumni
+      note: MS Journalism 2011
+    - person: maria-beatrice-caracciolo
+      role: alumni
+      note: ~1976-1979
   columbia-pictures:
     name: Columbia Pictures
     type: media
@@ -13922,6 +14456,49 @@ organizations:
     - person: luisa-todini
       role: chairman
       from: 2009
+  commentary-magazine:
+    name: Commentary Magazine
+    type: media
+    founded: 1945
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: norman-podhoretz
+      role: executive
+      from: 1960
+      to: 1995
+      note: Editor-in-Chief
+    - person: irving-kristol
+      role: executive
+      from: 1947
+      to: 1952
+      note: Managing Editor
+    - person: roger-hertog
+      role: board
+      from: 2007
+      note: Board of Directors
+    - person: elliot-cohen
+      role: executive
+      from: 1945
+      to: 1959
+      note: Founding Editor-in-Chief
+    - person: neal-kozodoy
+      role: executive
+      from: 1995
+      to: 2009
+      note: Editor-in-Chief
+    - person: john-podhoretz
+      role: executive
+      from: 2009
+      note: Editor-in-Chief
+    - person: midge-decter
+      role: executive
+      from: 1960
+      note: Managing Editor (~1960s)
+    - org: tikvah-fund
+      role: funding
+      from: 2007
+      note: Major funder post-AJC separation
   commerce-us:
     name: U.S. Department of Commerce
     type: government
@@ -13953,125 +14530,6 @@ organizations:
       share: 28
       from: 2024
       note: In corso acquisizione ostile
-  commissione-ue:
-    name: Commissione Europea
-    type: agency
-    founded: 1958
-    headquarters: Bruxelles
-    status: active
-    stakeholders:
-    - person: jose-barroso
-      role: president
-      from: 2004
-      to: 2014
-    - person: mario-monti
-      role: commissioner
-      from: 1995
-      to: 2004
-    - person: romano-prodi
-      role: executive
-      from: 1999
-      to: 2004
-    - person: walter-hallstein
-      role: executive
-      from: 1958
-      to: 1967
-    - person: jean-rey
-      role: executive
-      from: 1967
-      to: 1970
-    - person: franco-maria-malfatti
-      role: executive
-      from: 1970
-      to: 1972
-    - person: sicco-mansholt
-      role: executive
-      from: 1972
-      to: 1973
-    - person: francois-xavier-ortoli
-      role: executive
-      from: 1973
-      to: 1977
-    - person: roy-jenkins
-      role: executive
-      from: 1977
-      to: 1981
-    - person: gaston-thorn
-      role: executive
-      from: 1981
-      to: 1985
-    - person: jacques-delors
-      role: executive
-      from: 1985
-      to: 1995
-    - person: jacques-santer
-      role: executive
-      from: 1995
-      to: 1999
-    - person: jean-claude-juncker
-      role: executive
-      from: 2014
-      to: 2019
-    - person: ursula-von-der-leyen
-      role: executive
-      from: 2019
-    - person: kaja-kallas
-      role: executive
-      from: 2024
-      note: Alto Rappresentante Affari Esteri
-    - person: siim-kallas
-      role: leader
-      from: 2004
-      to: 2014
-    - person: federica-mogherini
-      role: leader
-      from: 2014
-      to: 2019
-    - person: margaritis-schinas
-      role: leader
-      from: 2019
-    - person: enzo-moavero-milanesi
-      role: official
-      from: 2002
-      to: 2005
-    - person: jyrki-katainen
-      role: executive
-      from: 2014
-      to: 2019
-      note: VP Jobs, Growth, Investment
-    - person: andrius-kubilius
-      role: executive
-      from: 2024
-      note: Commissioner Defence and Space
-    - person: neelie-kroes
-      role: commissioner
-      from: 2004
-      to: 2014
-      note: competition-digital-vp
-    - person: konstantinos-karamanlis-sr
-      role: member
-      from: 1981
-      note: Architetto ingresso Grecia in CEE 1981
-    - person: anna-diamantopoulou
-      role: executive
-      from: 1999
-      to: 2004
-      note: Commissioner Employment, Social Affairs (Prodi Commission)
-    - person: edith-cresson
-      role: executive
-      from: 1995
-      to: 1999
-      note: Commissaria, scandalo nepotismo
-    - person: erkki-liikanen
-      role: executive
-      from: 1995
-      to: 2004
-      note: Commissioner Budget, Enterprise
-    - person: olli-rehn
-      role: executive
-      from: 2004
-      to: 2014
-      note: Commissioner Enlargement, Economic Affairs, VP 2011-14
   committee-protect-journalists:
     name: Committee to Protect Journalists
     type: foundation
@@ -14126,6 +14584,29 @@ organizations:
     type: foundation
     headquarters: Turin, Italy
     status: active
+  compagnie-du-nord:
+    name: Compagnie du Nord
+    type: company
+    founded: 1845
+    headquarters: Paris, France
+    status: dissolved
+    note: Ex Compagnie des chemins de fer du Nord. Holding finanziaria Rothschild dal 1937, assorbita dalla Banque Rothschild
+      1978
+    stakeholders:
+    - person: alain-de-rothschild
+      role: chairman
+      from: 1968
+      to: 1982
+      note: Président
+    - person: elie-de-rothschild
+      role: board
+      note: Ricostruzione post-bellica con Guy de Rothschild
+    - person: gustave-de-rothschild
+      role: board
+      note: Director
+    - org: rothschild-cie
+      role: controlling
+      note: Holding finanziaria della famiglia, assorbita 1978
   companhia-johnston:
     name: Companhia E. Johnston de Participacoes
     type: company
@@ -14166,6 +14647,23 @@ organizations:
       role: board
       from: 2015
       to: 2019
+  concordia-sas:
+    name: Rothschild & Co Concordia SAS
+    type: company
+    founded: 2012
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: david-de-rothschild-fr
+      role: partner
+      note: Branch holds 39.42% voting rights
+    - person: alexandre-de-rothschild
+      role: executive
+      from: 2018
+      note: Managing Partner
+    - person: eric-de-rothschild
+      role: partner
+      note: Branch holds 55.6% voting rights
   conference-board:
     name: The Conference Board
     type: thinktank
@@ -14242,6 +14740,11 @@ organizations:
     headquarters: Paris, France
     status: active
     stakeholders:
+    - person: georges-pompidou
+      role: member
+      from: 1959
+      to: 1962
+      note: Membre
     - person: simone-veil
       role: member
       from: 1998
@@ -14279,6 +14782,39 @@ organizations:
       from: 2005
       to: 2016
       note: Party Leader
+  conservatoire-de-paris:
+    name: Conservatoire de Paris
+    type: university
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: alain-de-rothschild
+      role: chairman
+      from: 1954
+      to: 1982
+      note: Président
+  consistoire-de-france:
+    name: Consistoire central israélite de France
+    type: religiousinstitution
+    founded: 1808
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: alain-de-rothschild
+      role: chairman
+      from: 1967
+      to: 1982
+      note: Président
+    - person: robert-de-rothschild
+      role: chairman
+      from: 1933
+      to: 1940
+      note: Président du Consistoire de Paris
+    - person: gustave-de-rothschild
+      role: leader
+      from: 1858
+      to: 1910
+      note: President of Paris Consistory
   consob:
     name: CONSOB
     type: agency
@@ -14923,6 +15459,9 @@ organizations:
       from: 2014
       to: 2019
       note: Group Chief Risk Officer, Executive Board member
+    - person: anthony-miller
+      role: employee
+      to: 2001
     - org: ubs
       role: acquirer
       share: 100%
@@ -14975,6 +15514,22 @@ organizations:
       share: 6.0%
     - org: state-street
       share: 5.0%
+  crif:
+    name: Conseil Représentatif des Institutions juives de France
+    type: religiousinstitution
+    founded: 1944
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: alain-de-rothschild
+      role: chairman
+      from: 1976
+      to: 1982
+      note: Président du CRIF
+    - org: consistoire-de-france
+      role: member
+      from: 1944
+      note: Membro fondatore
   croatia-airlines:
     name: Croatia Airlines
     type: airline
@@ -15132,6 +15687,12 @@ organizations:
     - person: henrietta-fore
       role: board
       note: Trustee, Executive Committee
+    - person: penny-wong
+      role: member
+      note: Speaker, Australia Chair program
+    - person: richard-marles
+      role: member
+      note: Speaker, US-Australia Alliance discussions
   csr-europe:
     name: CSR Europe
     type: forum
@@ -15659,6 +16220,8 @@ organizations:
     status: active
     sector: mining
     stakeholders:
+    - person: david-de-rothschild-fr
+      role: board
     - person: evelyn-rothschild
       role: board
       from: 1977
@@ -15721,6 +16284,9 @@ organizations:
       role: stake
       from: 1887
       note: 'Historical: French & English Rothschild houses were largest shareholders in De Beers diamond mines'
+    - org: lld-diamonds
+      role: competitor
+      note: Broke De Beers monopoly in 1980s-90s
   dea:
     name: Drug Enforcement Administration
     type: agency
@@ -16123,6 +16689,11 @@ organizations:
       from: 2010
       to: 2014
       note: Director, Natural Resources Africa
+    - person: anthony-miller
+      role: executive
+      from: 2017
+      to: 2020
+      note: CEO Australia & NZ, Co-Head Investment Bank Asia Pacific
     - org: blackrock
       share: 6.76
       note: Largest disclosed shareholder (2025)
@@ -16748,6 +17319,46 @@ organizations:
       note: Criminal Division prosecutor (1990-93), counsel to Deputy AG (1993-94), Special Assistant Criminal Division (1994-95),
         Associate Independent Counsel Whitewater (1995-97), AUSA Maryland (1997-2001), Principal Deputy AAG Tax Division (2001-2005),
         US Attorney District of Maryland (2005-2017), Deputy Attorney General (2017-2019)
+  domaine-william-fevre:
+    name: Domaine William Fèvre
+    type: company
+    founded: 1959
+    headquarters: Chablis, France
+    status: active
+    sector: wine
+    stakeholders:
+    - person: william-fevre
+      role: founder
+      from: 1959
+      to: 1998
+      note: Fondatore, venduto a Henriot nel 1998
+    - org: domaines-barons-de-rothschild
+      role: owner
+      share: 1.0
+      from: 2024
+      note: Acquisito da Artemis/Pinault per $99M, gen 2024
+  domaines-barons-de-rothschild:
+    name: Domaines Barons de Rothschild (Lafite)
+    type: company
+    founded: 1868
+    headquarters: Pauillac, France
+    status: active
+    sector: wine
+    stakeholders:
+    - person: eric-de-rothschild
+      role: chairman
+      from: 1974
+      to: 2018
+      note: Chairman, Château Lafite Rothschild
+    - person: saskia-de-rothschild
+      role: executive
+      from: 2018
+      note: Chairwoman 2018, CEO e DG dal dic 2021; board member dal 2008
+    - person: elie-de-rothschild
+      role: executive
+      from: 1946
+      to: 1974
+      note: Director, Château Lafite Rothschild
   dome9:
     name: Dome9
     type: company
@@ -16756,6 +17367,28 @@ organizations:
     - org: check-point
       role: acquired
       from: 2018
+  donme:
+    name: Dönmeh
+    type: sect
+    founded: 1683
+    headquarters: Salonicco, Impero Ottomano
+    status: defunct
+    note: Setta crypto-giudaica sabbatiana; convertiti all Islam mantenendo fede ebraica segreta
+    stakeholders:
+    - person: sabbatai-zvi
+      role: founder
+      note: La conversione di Zvi allIslam (1666) genero il movimento Donme
+    - person: baruchiah-russo
+      role: leader
+      from: 1700
+      to: 1720
+      note: Leader fazione Karakas/Konyosos
+    - person: mustafa-celebi
+      role: leader
+      note: Leader pre-scissione; mentore di Baruchiah Russo
+    - person: jacob-querido
+      role: leader
+      note: Fondatore fazione Yakubi; cognato di Sabbatai Zvi
   doordash:
     name: DoorDash
     type: company
@@ -17596,6 +18229,24 @@ organizations:
     - person: timothee-lacroix
       role: alumni
       note: PhD 2016-2019
+  ecole-du-louvre:
+    name: École du Louvre
+    type: university
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: pierre-rosenberg
+      role: alumni
+      note: Diplome 1961
+  ecole-normale-superieure:
+    name: École Normale Supérieure
+    type: university
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: georges-pompidou
+      role: alumni
+      note: Lettres 1934
   ecole-polytechnique:
     name: École Polytechnique
     type: university
@@ -18884,6 +19535,22 @@ organizations:
       share: 67
       from: 1972
       note: State majority ownership via Ministry of Trade
+  eranda-rothschild-foundation:
+    name: The Eranda Rothschild Foundation
+    type: foundation
+    founded: 1967
+    headquarters: London, United Kingdom
+    status: active
+    stakeholders:
+    - person: evelyn-rothschild
+      role: founder
+      from: 1967
+      to: 2022
+      note: Founder, acronym of siblings names (Evelyn, Renée, Anne)
+    - person: lynn-forester-de-rothschild
+      role: chairman
+      from: 2022
+      note: Chairman after Evelyn death
   erf:
     name: Economic Research Forum
     type: thinktank
@@ -19124,6 +19791,15 @@ organizations:
     founded: 1946
     headquarters: New York
     status: active
+  estp:
+    name: ESTP (Ecole Speciale des Travaux Publics)
+    type: university
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: menachem-schneerson
+      role: alumni
+      note: Engineering 1933-1937
   eth-taipei:
     name: ETHTaipei
     type: forum
@@ -19141,6 +19817,9 @@ organizations:
     headquarters: Zurich, Switzerland
     status: active
     stakeholders:
+    - person: eric-de-rothschild
+      role: alumni
+      note: Engineering
     - person: serge-de-pahlen
       role: alumni
       note: Undergraduate degree
@@ -19219,11 +19898,12 @@ organizations:
     headquarters: Washington DC, USA
     status: active
     stakeholders:
-    - person: elliot-abrams
+    - person: elliott-abrams
       role: executive
-      from: 1996
-      to: 2001
       note: President
+    - person: eric-cohen
+      role: board
+      note: Board of Directors
   ethiopian-airlines:
     name: Ethiopian Airlines
     type: airline
@@ -19373,6 +20053,14 @@ organizations:
     headquarters: Brussels, Belgium
     status: active
     stakeholders:
+    - person: jose-barroso
+      role: president
+      from: 2004
+      to: 2014
+    - person: mario-monti
+      role: commissioner
+      from: 1995
+      to: 2004
     - person: romano-prodi
       role: president
       from: 1999
@@ -19385,6 +20073,18 @@ organizations:
       role: president
       from: 1967
       to: 1970
+    - person: franco-maria-malfatti
+      role: executive
+      from: 1970
+      to: 1972
+    - person: sicco-mansholt
+      role: executive
+      from: 1972
+      to: 1973
+    - person: francois-xavier-ortoli
+      role: executive
+      from: 1973
+      to: 1977
     - person: roy-jenkins
       role: president
       from: 1977
@@ -19408,21 +20108,68 @@ organizations:
     - person: ursula-von-der-leyen
       role: president
       from: 2019
+    - person: kaja-kallas
+      role: executive
+      from: 2024
+      note: Alto Rappresentante Affari Esteri
+    - person: siim-kallas
+      role: leader
+      from: 2004
+      to: 2014
+    - person: federica-mogherini
+      role: leader
+      from: 2014
+      to: 2019
     - person: nick-clegg
       role: advisor
       from: 1994
       to: 1999
       note: TACIS 1994-96, Advisor to Leon Brittan 1996-99
+    - person: margaritis-schinas
+      role: leader
+      from: 2019
+    - person: enzo-moavero-milanesi
+      role: official
+      from: 2002
+      to: 2005
+    - person: jyrki-katainen
+      role: executive
+      from: 2014
+      to: 2019
+      note: VP Jobs, Growth, Investment
     - person: josep-borrell
       role: executive
       from: 2019
       to: 2024
       note: High Representative for Foreign Affairs
+    - person: andrius-kubilius
+      role: executive
+      from: 2024
+      note: Commissioner Defence and Space
     - person: peter-sutherland
       role: executive
       from: 1985
       to: 1989
       note: Commissioner for Competition (più giovane nella storia)
+    - person: neelie-kroes
+      role: commissioner
+      from: 2004
+      to: 2014
+      note: competition-digital-vp
+    - person: konstantinos-karamanlis-sr
+      role: member
+      from: 1981
+      note: Architetto ingresso Grecia in CEE 1981
+    - person: anna-diamantopoulou
+      role: executive
+      from: 1999
+      to: 2004
+      note: Commissioner Employment, Social Affairs (Prodi Commission)
+    - person: edith-cresson
+      role: executive
+      from: 1995
+      to: 1999
+      note: Commissaria, scandalo nepotismo
     - person: frans-timmermans
       role: executive
       from: 2014
@@ -19472,6 +20219,16 @@ organizations:
       from: 1970
       to: 1978
       note: Chef de Cabinet Malfatti, DG Regional Policy
+    - person: erkki-liikanen
+      role: executive
+      from: 1995
+      to: 2004
+      note: Commissioner Budget, Enterprise
+    - person: olli-rehn
+      role: executive
+      from: 2004
+      to: 2014
+      note: Commissioner Enlargement, Economic Affairs, VP 2011-14
     - person: connie-hedegaard
       role: executive
       from: 2010
@@ -19481,6 +20238,11 @@ organizations:
       role: president
       from: 2004
       to: 2014
+    - person: peter-mandelson
+      role: commissioner
+      from: 2004
+      to: 2008
+      note: Commissioner for Trade (Barroso I)
   european-council:
     name: European Council
     type: agency
@@ -19830,6 +20592,18 @@ organizations:
     type: airline
     headquarters: Taipei, Taiwan
     status: active
+  evraz:
+    name: Evraz plc
+    type: company
+    founded: 1992
+    headquarters: London, GBR
+    status: active
+    sector: steel
+    stakeholders:
+    - person: roman-abramovich
+      role: chairman
+      from: 2006
+      note: Acquired 41% stake for ~$3B. Current stake ~29%. LSE trading suspended Mar 2022 (sanctions)
   ewec:
     name: Emirates Water and Electricity Company
     type: company
@@ -20067,7 +20841,7 @@ organizations:
     name: Fabian Society
     type: thinktank
     founded: 1884
-    headquarters: London, UK
+    headquarters: London, GBR
     status: active
     sector: politics
     stakeholders:
@@ -20084,6 +20858,15 @@ organizations:
     - person: keir-starmer
       role: board
       note: Former executive committee member
+    - person: gordon-brown
+      role: member
+      note: PM Labour 2007-2010
+    - person: clement-attlee
+      role: member
+      note: PM Labour 1945-1951
+    - person: harold-wilson
+      role: member
+      note: PM Labour 1964-1970, 1974-1976
     - person: denis-healey
       role: board
       from: 1954
@@ -21311,19 +22094,63 @@ organizations:
     - person: paul-harris
       role: founder
       from: 1998
+  five-arrows:
+    name: Five Arrows
+    type: privateequity
+    founded: 2009
+    headquarters: Paris, France
+    status: active
+    aum: 28B EUR (2025)
+    stakeholders:
+    - person: javed-khan
+      role: executive
+      from: 2009
+      note: Co-founder and CEO
+    - org: rothschild-co
+      role: subsidiary
+      share: 1.0
+      from: 2009
+      note: Alternative assets division
   five-eyes:
     name: Five Eyes
-    type: agency
+    type: forum
     founded: 1946
     status: active
     sector: intelligence
     stakeholders:
+    - person: anthony-albanese
+      role: member
+      from: 2022
+      note: Australian PM; intelligence alliance AUS-USA-GBR-CAN-NZL
+    - person: mike-burgess
+      role: member
+      from: 2019
+      note: ASIO DG, Five Eyes partner
+    - person: kerri-hartland
+      role: member
+      from: 2023
+      note: ASIS DG, Five Eyes HUMINT partner
     - org: cia
       role: founding member
       from: 1946
     - org: mi6
       role: founding member
       from: 1946
+    - org: asio
+      role: partner
+      from: 1949
+      note: Founding UKUSA/Five Eyes partner
+    - org: asis
+      role: partner
+      from: 1952
+      note: HUMINT partner in Five Eyes
+    - org: asd
+      role: partner
+      from: 1947
+      note: SIGINT partner in UKUSA/Five Eyes
+    - org: pine-gap
+      role: partner
+      note: Key Five Eyes SIGINT facility
   fiverr:
     name: Fiverr International Ltd.
     type: company
@@ -21336,6 +22163,35 @@ organizations:
       role: chairman
       from: 2019
       note: Board Chairman since June 2019
+  fjcr:
+    name: Federation of Jewish Communities of Russia
+    type: religiousinstitution
+    founded: 1999
+    headquarters: Moscow, Russia
+    status: active
+    stakeholders:
+    - person: roman-abramovich
+      role: founder
+      from: 1999
+      note: Co-created FJCR; major funder
+    - person: berel-lazar
+      role: chairman
+      from: 2000
+      note: Chief Rabbi and chairman
+    - person: lev-leviev
+      role: founder
+      from: 1999
+      note: Co-created FJCR with Abramovich
+    - person: alexander-boroda
+      role: executive
+      from: 2008
+      note: President FJCR; Director Jewish Museum Moscow
+    - person: david-mondshine
+      role: executive
+      note: CEO
+    - org: or-avner
+      role: partner
+      note: Or Avner schools operate under FJC-CIS umbrella
   flagship-pioneering:
     name: Flagship Pioneering
     type: privateequity
@@ -21633,6 +22489,18 @@ organizations:
     - person: bernard-arnault
       role: founder
       from: 2014
+  fondation-memoire-shoah:
+    name: Fondation pour la Mémoire de la Shoah
+    type: foundation
+    founded: 2000
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: david-de-rothschild-fr
+      role: chairman
+      from: 2007
+      to: 2023
+      note: President, succede a Simone Veil
   fondazione-cariplo:
     name: Fondazione Cariplo
     type: foundation
@@ -22966,6 +23834,10 @@ organizations:
     - org: darktrace
       role: spinoff
       note: Fondata da ex membri GCHQ, connessioni intelligence
+    - org: asd
+      role: partner
+      from: 1947
+      note: UKUSA SIGINT partnership
   gdp-venture:
     name: GDP Venture
     type: company
@@ -23485,6 +24357,9 @@ organizations:
     - person: avril-haines
       role: alumni
       note: JD 2001
+    - person: ivanka-trump
+      role: alumni
+      note: Transferred after 2 years
     - person: steve-bannon
       role: alumni
       note: MA National Security Studies 1983 (School of Foreign Service)
@@ -23541,6 +24416,9 @@ organizations:
       from: 2006
       to: 2008
       note: Professor National Security Policy
+    - person: jim-chalmers
+      role: advisor
+      note: Board of Advisers, CANZPS
   georgia-pacific:
     name: Georgia-Pacific
     type: company
@@ -24056,6 +24934,18 @@ organizations:
       from: 2012
       to: 2022
       note: Kingmaker merger Xstrata. Venduto 2022
+  global-counsel:
+    name: Global Counsel
+    type: company
+    founded: 2010
+    headquarters: London, GBR
+    status: active
+    stakeholders:
+    - person: peter-mandelson
+      role: founder
+      from: 2010
+      to: 2024
+      note: Co-founder and Chairman, divested shares 2025
   global-fund:
     name: Global Fund
     type: agency
@@ -24444,6 +25334,11 @@ organizations:
       role: executive
       from: 2020
       note: Chief Legal Officer
+    - person: anthony-miller
+      role: partner
+      from: 2001
+      to: 2017
+      note: Partner. Investment Banking, Australia/NZ and Hong Kong
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -24811,7 +25706,9 @@ organizations:
   governo-australia:
     name: Government of Australia
     type: government
-    headquarters: Canberra
+    founded: 1901
+    headquarters: Canberra, Australia
+    status: active
     stakeholders:
     - person: john-howard
       role: leader
@@ -24831,15 +25728,55 @@ organizations:
     - person: anthony-albanese
       role: leader
       from: 2022
+      note: 31st Prime Minister; re-elected 2025; Minister Infrastructure 2007-2013; Deputy PM Jun-Sep 2013
     - person: jim-chalmers
       role: minister
       from: 2022
+      note: Treasurer
+    - person: jim-chalmers
+      role: legislator
+      from: 2013
+      note: MP for Rankin
     - person: penny-wong
       role: minister
       from: 2022
+      note: Minister for Foreign Affairs
+    - person: penny-wong
+      role: legislator
+      from: 2002
+      note: Senator for South Australia, Leader of Government in Senate
     - person: richard-marles
       role: minister
       from: 2022
+      note: Deputy PM, Minister for Defence
+    - person: richard-marles
+      role: legislator
+      from: 2007
+      note: MP for Corio
+    - person: scott-morrison
+      role: leader
+      from: 2018
+      to: 2022
+      note: 30th Prime Minister
+    - person: scott-morrison
+      role: minister
+      from: 2015
+      to: 2018
+      note: Treasurer; previously Min. Immigration 2013-14, Min. Social Services 2014-15
+    - person: mike-burgess
+      role: official
+      from: 2017
+      note: DG ASD 2017-2019, DG ASIO 2019-
+    - person: dennis-richardson
+      role: diplomat
+      from: 2005
+      to: 2010
+      note: Ambassador to USA
+    - person: kerri-hartland
+      role: official
+      from: 2017
+      to: 2020
+      note: Secretary, Dept of Employment
   governo-austria:
     name: Governo Austria
     type: government
@@ -25811,6 +26748,11 @@ organizations:
       from: 1969
       to: 1974
       note: Presidente
+    - person: georges-pompidou
+      role: minister
+      from: 1962
+      to: 1968
+      note: Premier ministre
     - person: jacques-chirac
       role: leader
       from: 1995
@@ -26832,6 +27774,11 @@ organizations:
       from: 1960
       to: 1963
       note: Ambassador to Canada
+    - person: shlomo-riskin
+      role: leader
+      from: 1983
+      to: 2020
+      note: Founding Chief Rabbi of Efrat
     - org: talpiot
       role: subsidiary
       note: IDF/Ministry of Defense program
@@ -27758,6 +28705,11 @@ organizations:
       role: leader
       from: 2023
       note: Prime Minister (terzo mandato)
+    - person: anatole-muhlstein
+      role: diplomat
+      from: 1919
+      to: 1936
+      note: Chargé d'affaires Brussels 1927, Minister Plenipotentiary Paris 1930-36
   governo-portogallo:
     name: Governo del Portogallo
     type: government
@@ -28138,6 +29090,10 @@ organizations:
       role: advisor
       from: 2024
       note: Segretario Consiglio di Sicurezza
+    - person: alexander-boroda
+      role: member
+      from: 2009
+      note: Public Chamber of Russia; appointed by presidential decree
   governo-saudi:
     name: Governo del Regno dell'Arabia Saudita
     type: government
@@ -28971,6 +29927,17 @@ organizations:
     - person: will-straw
       role: advisor
       note: HM Treasury advisor, enterprise and growth, under Gordon Brown
+    - person: peter-mandelson
+      role: minister
+      from: 1997
+      to: 2010
+      note: Minister without Portfolio 1997-98, NI Secretary 1999-01, Business Secretary 2008-10, First Secretary of State
+        2009-10
+    - person: peter-mandelson
+      role: ambassador
+      from: 2025
+      to: 2025
+      note: Ambassador to USA, dismissed over Epstein files
   governo-ungheria:
     name: Governo di Ungheria
     type: government
@@ -29261,6 +30228,11 @@ organizations:
       from: 2017
       to: 2021
       note: Senior Advisor to the President, Director Office of American Innovation
+    - person: ivanka-trump
+      role: advisor
+      from: 2017
+      to: 2021
+      note: Senior Advisor to the President; Director Office of Economic Initiatives
     - person: paul-nakasone
       role: executive
       from: 1986
@@ -29661,6 +30633,15 @@ organizations:
       from: 1984
       to: 1988
       note: Speechwriter SecState Shultz, Policy Planning Staff, Bureau Inter-American Affairs
+    - person: elliott-abrams
+      role: advisor
+      note: Asst Sec State Human Rights 1981-85; Asst Sec State Inter-American Affairs 1985-89; NSC Senior Dir 2001-09; Special
+        Rep Venezuela/Iran 2019-21
+    - person: norman-podhoretz
+      role: advisor
+      from: 1981
+      to: 1987
+      note: Adviser, US Information Agency (Reagan)
     - person: dan-senor
       role: advisor
       from: 2003
@@ -29801,21 +30782,6 @@ organizations:
       from: 1969
       to: 1971
       note: Deputy Secretary of Defense under Nixon
-    - person: elliot-abrams
-      role: minister
-      from: 1981
-      to: 1989
-      note: Assistant Secretary of State (Human Rights, Inter-American Affairs)
-    - person: elliot-abrams
-      role: advisor
-      from: 2001
-      to: 2009
-      note: NSC Senior Director, Deputy NSA for Global Democracy Strategy
-    - person: elliot-abrams
-      role: advisor
-      from: 2019
-      to: 2021
-      note: Special Representative for Venezuela and Iran
     - person: john-bolton
       role: minister
       from: 1985
@@ -30080,6 +31046,28 @@ organizations:
     - person: seymour-epstein
       role: employee
       note: NYC Department of Parks and Recreation, groundskeeper
+    - person: robert-obrien
+      role: official
+      from: 2019
+      to: 2021
+      note: National Security Advisor
+    - person: charles-kushner
+      role: ambassador
+      from: 2025
+      note: Ambassador to France and Monaco
+    - person: zalman-bernstein
+      role: advisor
+      from: 1948
+      to: 1951
+      note: Economic advisor, Marshall Plan, France
+    - person: eric-cohen
+      role: advisor
+      note: Senior Consultant, Presidents Council on Bioethics (Bush)
+    - person: john-podhoretz
+      role: advisor
+      from: 1988
+      to: 1989
+      note: Speechwriter Reagan/Bush; Special Asst Drug Czar Bennett
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -30395,6 +31383,18 @@ organizations:
       role: founder
       from: 2018
       note: Founder, CEO, Technical Director
+  griffith-university:
+    name: Griffith University
+    type: university
+    headquarters: Brisbane, Australia
+    status: active
+    stakeholders:
+    - person: jim-chalmers
+      role: alumni
+      note: BA, BCom, Honours Public Policy
+    - person: anthony-miller
+      role: alumni
+      note: BA Japanese Language, Modern Asian Studies
   grinnell-college:
     name: Grinnell College
     type: university
@@ -31117,10 +32117,41 @@ organizations:
   hancock-prospecting:
     name: Hancock Prospecting
     type: company
+    founded: 1955
     headquarters: Perth, Australia
+    status: active
+    sector: mining
+    note: 'Largest private company in Australia. Iron ore, copper, lithium, rare earths, cattle. Founded by Lang Hancock,
+      run by daughter Gina Rinehart since 1992. Estimated value A$15.8B (2025). Ownership: Rinehart 76.6%, Hope Margaret Hancock
+      Trust 23.4%.'
     stakeholders:
     - person: gina-rinehart
       role: chairman
+      from: 1992
+      note: Executive Chairman, proprietaria 76.6%
+    - person: lang-hancock
+      role: founder
+      from: 1955
+      to: 1992
+      note: Founder, discovered Pilbara iron ore 1952
+    - person: garry-korte
+      role: executive
+      from: 2016
+      note: CEO
+    - person: tad-watroba
+      role: executive
+      note: Executive Director
+    - person: jay-newby
+      role: executive
+      note: Executive Director
+    - person: bianca-rinehart
+      role: board
+      to: 2011
+      note: Director until Oct 2011
+    - person: ginia-rinehart
+      role: board
+      from: 2011
+      note: Director, replaced Bianca
   hang-seng-bank:
     name: Hang Seng Bank
     type: bank
@@ -31300,6 +32331,9 @@ organizations:
     - person: dustin-moskovitz
       role: alumni
       note: Economics 2002-2004, dropped out
+    - person: elliott-abrams
+      role: alumni
+      note: BA 1969; JD Harvard Law School 1973
     - person: jared-kaplan
       role: alumni
       note: 'PhD Physics 2009, Hertz Fellow, thesis: Aspects of Holography'
@@ -31323,12 +32357,6 @@ organizations:
     - person: tom-perkins
       role: alumni
       note: MBA
-    - person: elliot-abrams
-      role: alumni
-      note: BA 1969
-    - person: elliot-abrams
-      role: alumni
-      note: JD 1973
     - person: sheryl-sandberg
       role: alumni
       note: BA Economics 1991 summa cum laude, Phi Beta Kappa
@@ -31469,6 +32497,21 @@ organizations:
     - person: sara-lawrence-lightfoot
       role: faculty
       note: Professor, Graduate School of Education
+    - person: matt-comyn
+      role: alumni
+      note: General Management Program 2007
+    - person: george-rohr
+      role: alumni
+      note: BA Harvard College; MBA Harvard Business School
+    - person: zalman-bernstein
+      role: alumni
+      note: MBA 1947, Harvard Business School
+    - person: neal-kozodoy
+      role: alumni
+      note: BA 1963
+    - person: javed-khan
+      role: alumni
+      note: MBA
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -31873,6 +32916,9 @@ organizations:
     headquarters: Jerusalem, Israel
     status: active
     stakeholders:
+    - person: ehud-barak
+      role: alumni
+      note: BSc Physics, Mathematics 1968
     - person: michael-federmann
       role: chairman
       from: 2000
@@ -31909,6 +32955,9 @@ organizations:
     - person: yakir-gabay
       role: alumni
       note: BS Economics/Accounting, MBA Finance
+    - person: yehoshua-mondshine
+      role: member
+      note: Librarian, Manuscript and Archives Department, National Library of Israel
     - org: talpiot
       role: partner
       note: Academic partner, cadets study at Hebrew University
@@ -31924,6 +32973,9 @@ organizations:
       role: chairman
       from: 2022
       note: Chairman Board
+    - person: saskia-de-rothschild
+      role: alumni
+      note: Economics 2010
   heidelberg-materials:
     name: Heidelberg Materials AG
     type: company
@@ -32062,7 +33114,7 @@ organizations:
       to: 2022
       note: CEO
   heritage-foundation:
-    name: Heritage Foundation
+    name: The Heritage Foundation
     type: thinktank
     founded: 1973
     headquarters: Washington DC, USA
@@ -32098,6 +33150,11 @@ organizations:
     - person: rebekah-mercer
       role: board
       note: Board of Trustees
+    - person: midge-decter
+      role: board
+      from: 1981
+      to: 2015
+      note: Board of Trustees
     - org: abraham-accords-peace-institute
       role: merged
       from: 2025
@@ -32112,6 +33169,16 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 2.0
+  hertog-foundation:
+    name: Hertog Foundation
+    type: foundation
+    founded: 2004
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: roger-hertog
+      role: founder
+      note: President
   herzog-fox-neeman:
     name: Herzog Fox & Neeman
     type: company
@@ -32521,6 +33588,9 @@ organizations:
     - person: steve-witkoff
       role: alumni
       note: BA Political Science 1980, JD 1983
+    - person: charles-kushner
+      role: alumni
+      note: JD 1979, School of Law
   holcim:
     name: Holcim Ltd
     type: company
@@ -32966,6 +34036,13 @@ organizations:
     - person: conrad-black
       role: board
       note: Trustee
+    - person: elliott-abrams
+      role: fellow
+    - person: norman-podhoretz
+      role: member
+      from: 1995
+      to: 2003
+      note: Senior Fellow
     - person: andrew-krepinevich
       role: advisor
       from: 2016
@@ -32974,8 +34051,10 @@ organizations:
       role: member
       from: 2008
       note: Senior Fellow
-    - person: elliot-abrams
-      role: fellow
+    - person: scott-morrison
+      role: advisor
+      from: 2023
+      note: Strategic Advisory Board, China Center
     - org: rand-corporation
       role: partner
   huffpost-italia:
@@ -34069,6 +35148,9 @@ organizations:
     - person: florence-parly
       role: advisor
       note: Advisory Council
+    - person: richard-marles
+      role: member
+      note: Shangri-La Dialogue speaker
   iit:
     name: Istituto Italiano di Tecnologia
     type: thinktank
@@ -34255,6 +35337,36 @@ organizations:
       role: chairman
       from: 2020
       note: Board 2020, Chairman current
+  illuminati:
+    name: Order of the Illuminati
+    type: secretsociety
+    founded: 1776
+    headquarters: Ingolstadt, Bavaria
+    status: dissolved
+    stakeholders:
+    - person: adam-weishaupt
+      role: founder
+      from: 1776
+      to: 1785
+      note: Founded 1 May 1776, codename Spartacus
+    - person: adolph-von-knigge
+      role: member
+      from: 1780
+      to: 1784
+      note: Nome in codice Philo; riorganizzo i gradi sul modello massonico; recluto logge intere; rottura con Weishaupt 1784
+    - person: xavier-von-zwack
+      role: member
+      from: 1776
+      to: 1785
+      note: Nome in codice Cato; braccio destro di Weishaupt; perquisizione casa 1786
+    - person: johann-wolfgang-goethe
+      role: member
+      note: Codename Abaris, membership debated by historians
+    - person: franz-anton-von-massenhausen
+      role: founder
+      from: 1776
+      to: 1778
+      note: Co-fondatore; nome in codice Ajax; lascia dopo 1778
   ilm:
     name: Industrial Light & Magic
     type: media
@@ -35728,10 +36840,37 @@ organizations:
   ipa:
     name: Institute of Public Affairs
     type: thinktank
+    founded: 1943
     headquarters: Melbourne, Australia
+    status: active
     stakeholders:
+    - person: keith-murdoch
+      role: founder
+      from: 1943
+      note: Inaugural chair, co-founder with CD Kemp
     - person: gina-rinehart
       role: donor
+      note: Key donor via Hancock Prospecting, ~40-50% income IPA
+    - person: scott-hargreaves
+      role: executive
+      from: 2022
+      note: Executive Director
+    - person: john-roskam
+      role: executive
+      from: 2005
+      to: 2022
+      note: Executive Director
+    - person: janet-albrechtsen
+      role: chairman
+      from: 2018
+      to: 2019
+    - org: hancock-prospecting
+      role: partner
+      from: 2016
+      note: 'Major donor: $2.3M (2016), $2.2M (2017), ~40-50% income'
+    - org: minerals-council-australia
+      role: partner
+      note: Aligned mining lobby, overlapping corporate members
   ipi:
     name: International Peace Institute
     type: thinktank
@@ -37371,6 +38510,25 @@ organizations:
       from: 1962
       to: 2007
       note: Subsidiary, spun off April 2007
+  kehot:
+    name: Kehot Publication Society
+    type: religiousinstitution
+    founded: 1941
+    headquarters: 770 Eastern Parkway, Brooklyn, NYC
+    status: active
+    stakeholders:
+    - person: menachem-schneerson
+      role: executive
+      from: 1942
+      to: 1994
+      note: Director and Editor-in-Chief; appointed by 6th Rebbe
+    - person: yehuda-krinsky
+      role: executive
+      note: Director Kehot Publication Society
+    - person: yosef-yitzchak-schneersohn
+      role: founder
+      from: 1941
+      to: 1950
   keidanren:
     name: Keidanren (Japan Business Federation)
     type: forum
@@ -38455,6 +39613,30 @@ organizations:
     stakeholders:
     - person: robert-kuok
       role: founder
+  kushner-companies:
+    name: Kushner Companies
+    type: company
+    founded: 1985
+    headquarters: New York City, USA
+    status: active
+    stakeholders:
+    - person: jared-kushner
+      role: executive
+      from: 2007
+      note: CEO (2008-2017, 2021-)
+    - person: charles-kushner
+      role: founder
+      from: 1985
+      note: Chairman
+    - person: joseph-kushner
+      role: founder
+      from: 1985
+      to: 1985
+      note: Co-fondatore con il figlio Charles
+    - org: brookfield
+      role: stake
+      from: 2018
+      note: 99-year leasehold on 666 Fifth Avenue (now 660 Fifth)
   kuwait-airways:
     name: Kuwait Airways
     type: airline
@@ -38744,6 +39926,23 @@ organizations:
     - org: louis-hachette-group
       share: minority
       from: 2024
+  laguna-b:
+    name: Laguna~B
+    type: company
+    founded: 1994
+    headquarters: Venice, Italy
+    status: active
+    sector: design
+    stakeholders:
+    - person: marie-angliviel-de-la-beaumelle
+      role: founder
+      from: 1994
+      to: 2013
+      note: Fondatrice, vetro artistico di Murano
+    - person: marcantonio-brandolini
+      role: executive
+      from: 2016
+      note: CEO e Art Director, succeduto alla madre Marie
   lakam:
     name: LAKAM - Bureau of Scientific Relations
     type: agency
@@ -38964,6 +40163,11 @@ organizations:
     - person: gary-parr
       role: executive
       note: Deputy Chairman. Advised Bear Stearns/JPM, Lehman/Barclays, Morgan Stanley/Mitsubishi deals.
+    - person: peter-mandelson
+      role: chairman
+      from: 2011
+      to: 2022
+      note: Chairman Lazard International
   ldp:
     name: Liberal Democratic Party
     type: party
@@ -39166,6 +40370,11 @@ organizations:
       from: 1985
       to: 1990
       note: Managing Director Corporate Finance
+    - person: steven-gregg
+      role: executive
+    - person: arthur-fried
+      role: executive
+      note: Managing Director and CFO; retired 1981
   leiden-university:
     name: Leiden University
     type: university
@@ -39599,6 +40808,19 @@ organizations:
       from: 2005
       to: 2024
       note: Board of Trustees
+  lld-diamonds:
+    name: LLD Diamonds
+    type: company
+    founded: 1977
+    headquarters: Ramat Gan, Israel
+    status: active
+    sector: diamonds
+    stakeholders:
+    - person: lev-leviev
+      role: founder
+    - org: africa-israel
+      role: parent
+      note: Both Leviev Group companies
   lloyds:
     name: Lloyds Banking Group
     type: bank
@@ -39957,7 +41179,7 @@ organizations:
     - person: richard-perle
       role: alumni
       note: Graduate studies | Student
-    - person: elliot-abrams
+    - person: elliott-abrams
       role: alumni
       note: MSc International Relations 1970
     - person: mohd-bakke-salleh
@@ -39972,6 +41194,10 @@ organizations:
     - person: olivia-leland
       role: alumni
       note: MSc Development Management
+    - org: fabian-society
+      role: founder
+      from: 1895
+      note: Founded with Hutchinson bequest
   lseg:
     name: London Stock Exchange Group
     type: company
@@ -40398,6 +41624,26 @@ organizations:
       from: 1996
       to: 2001
       note: CEO
+  machneh-israel:
+    name: Machneh Israel
+    type: religiousinstitution
+    founded: 1941
+    headquarters: 770 Eastern Parkway, Brooklyn, NYC
+    status: active
+    stakeholders:
+    - person: menachem-schneerson
+      role: executive
+      from: 1941
+      to: 1994
+      note: Executive Director; appointed by 6th Rebbe
+    - person: yehuda-krinsky
+      role: chairman
+      note: Chairman Machneh Israel
+    - person: yosef-yitzchak-schneersohn
+      role: founder
+      from: 1941
+      to: 1950
+      note: Founded Machneh Israel upon arrival in America
   macquarie:
     name: Macquarie Asset Management
     type: assetmanager
@@ -40621,6 +41867,9 @@ organizations:
       role: chairman
       from: 2011
       note: Long-time chairman of board
+    - person: roger-hertog
+      role: chairman
+      note: Former Chairman
   mansour-group:
     name: Mansour Group
     type: company
@@ -41142,6 +42391,10 @@ organizations:
     - person: antonio-simoes
       role: partner
       note: Partner, 10 years
+    - person: steven-gregg
+      role: partner
+      from: 2005
+      to: 2009
   mclaren:
     name: McLaren Group
     type: company
@@ -41457,6 +42710,17 @@ organizations:
     headquarters: Pittsburgh, USA
     status: defunct
     note: Fusa in BNY Mellon
+  memorial-de-la-shoah:
+    name: Mémorial de la Shoah
+    type: foundation
+    founded: 1943
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: eric-de-rothschild
+      role: chairman
+      from: 2001
+      note: Chairman
   memorial-sloan-kettering:
     name: Memorial Sloan Kettering Cancer Center
     type: foundation
@@ -41595,6 +42859,47 @@ organizations:
     founded: 1990
     headquarters: Tallinn, Estonia
     sector: Construction
+  merkos:
+    name: Merkos L'Inyonei Chinuch
+    type: religiousinstitution
+    founded: 1943
+    headquarters: Brooklyn, USA
+    status: active
+    sector: Jewish education
+    stakeholders:
+    - person: menachem-schneerson
+      role: chairman
+      from: 1943
+      to: 1994
+      note: Chairman and Director; appointed by 6th Rebbe
+    - person: yehuda-krinsky
+      role: chairman
+      note: Chairman; heads Merkos, Machneh Israel, Kehot
+    - person: abraham-shemtov
+      role: board
+      note: Board member 1990
+    - person: yosef-yitzchak-schneersohn
+      role: founder
+      from: 1943
+      to: 1950
+      note: Fondatore e President
+    - person: moshe-kotlarsky
+      role: executive
+      to: 2024
+      note: Vice Chairman until death June 2024
+    - person: efraim-mintz
+      role: executive
+      note: Executive Director JLI (divisione Merkos)
+    - person: mendy-kotlarsky
+      role: executive
+      from: 2004
+      note: Executive Director Merkos 302; successor to father Moshe
+    - org: chabad-lubavitch
+      role: parent
+      note: Educational arm of Chabad-Lubavitch
+    - org: kehot
+      role: subsidiary
+      note: Division of Merkos L'Inyonei Chinuch
   merrill-lynch:
     name: Merrill Lynch
     type: bank
@@ -42393,6 +43698,17 @@ organizations:
       role: founder
       from: 1989
       note: Founder, Chairman, CEO
+  millhouse-capital:
+    name: Millhouse Capital
+    type: company
+    founded: 2001
+    headquarters: London, GBR
+    status: active
+    stakeholders:
+    - person: roman-abramovich
+      role: founder
+      from: 2001
+      note: 'Investment vehicle; Chairman: Eugene Shvidler'
   millicom:
     name: Millicom International Cellular
     type: company
@@ -42425,7 +43741,36 @@ organizations:
   minerals-council-australia:
     name: Minerals Council of Australia
     type: thinktank
+    founded: 1995
     headquarters: Canberra, Australia
+    status: active
+    stakeholders:
+    - person: tania-constable
+      role: executive
+      from: 2018
+      note: CEO
+    - person: andrew-michelmore
+      role: chairman
+      from: 2023
+      note: Chair (also 2013-2016)
+    - org: glencore
+      role: partner
+      note: Board member
+    - org: rio-tinto
+      role: partner
+      note: Board member, major member company
+    - org: newmont
+      role: partner
+      note: Board member
+    - org: hancock-prospecting
+      role: partner
+      note: Board member via Hancock Iron Ore
+    - org: fortescue
+      role: partner
+      note: Member company
+    - org: bhp
+      role: partner
+      note: Board member, major member company
   mines-paris:
     name: Ecole des Mines de Paris
     type: university
@@ -43040,6 +44385,10 @@ organizations:
     - person: erskine-bowles
       role: board
       note: Lead Independent Director
+    - person: matt-comyn
+      role: employee
+      from: 2010
+      to: 2010
     - org: norges-bank-gpfg
       role: stake
     - org: cfr
@@ -43532,6 +44881,18 @@ organizations:
     stakeholders:
     - person: shaffi-mather
       role: founder
+  musee-du-louvre:
+    name: Musée du Louvre
+    type: agency
+    founded: 1793
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: pierre-rosenberg
+      role: executive
+      from: 1962
+      note: Curateur 1962-1987; Chef Dept Peintures 1987-1994; President-Directeur 1994-2001; President-Directeur honoraire
+        2001-
   museo-caproni:
     name: Museo Aeronautica Gianni Caproni
     type: foundation
@@ -44246,6 +45607,21 @@ organizations:
       from: 2016
       to: 2021
       note: Founding Director General
+  nch-capital:
+    name: NCH Capital Inc
+    type: company
+    founded: 1993
+    headquarters: New York, USA
+    status: active
+    sector: private equity, agribusiness
+    stakeholders:
+    - person: george-rohr
+      role: founder
+      note: Co-founder and President
+    - person: moris-tabacinic
+      role: founder
+      from: 1993
+      note: Co-founder and Principal
   ndtv:
     name: NDTV (New Delhi Television)
     type: media
@@ -44286,14 +45662,13 @@ organizations:
     - person: paul-wolfowitz
       role: board
       note: Board member
+    - person: elliott-abrams
+      role: board
+      note: Board member
     - person: victoria-nuland
       role: board
       from: 2018
       note: Board of Directors 2018-2021, then 2024-present
-    - person: elliot-abrams
-      role: board
-      from: 2012
-      to: 2023
   neom:
     name: NEOM
     type: company
@@ -45137,6 +46512,11 @@ organizations:
     status: active
     note: Investment bank, famiglia Rothschild
     stakeholders:
+    - person: mayer-amschel-rothschild
+      role: founder
+      from: 1760
+      to: 1812
+      note: Founded Frankfurt banking house, precursor of N M Rothschild & Sons
     - person: evelyn-rothschild
       role: chairman
       from: 1976
@@ -45626,6 +47006,12 @@ organizations:
       from: 2022
       to: 2025
       note: CEO/Chairman. 15% return in 2024 (best ever)
+  nro:
+    name: National Reconnaissance Office
+    type: agency
+    founded: 1961
+    headquarters: Chantilly, USA
+    status: active
   nsa:
     name: National Security Agency
     type: agency
@@ -45686,6 +47072,10 @@ organizations:
       from: 2017
       to: 2017
       note: Contractor via Pluribus International, Fort Gordon
+    - org: asd
+      role: partner
+      from: 1947
+      note: UKUSA SIGINT partnership
   nsc:
     name: National Security Council
     type: agency
@@ -46072,6 +47462,15 @@ organizations:
     - person: philip-k-ryan
       role: faculty
       note: Adjunct Professor of Finance / Executive in Residence, Stern School of Business
+    - person: zalman-bernstein
+      role: alumni
+      note: BA Economics, BA Accounting
+    - person: shlomo-riskin
+      role: alumni
+      note: PhD Near Eastern Languages and Literature 1982
+    - person: maria-beatrice-caracciolo
+      role: alumni
+      note: ~1976-1979
   nyu-stern:
     name: NYU Stern School of Business
     type: university
@@ -46358,6 +47757,20 @@ organizations:
     - person: nicholas-calio
       role: alumni
       note: BA English 1975, Board of Trustees Chair
+  ohr-torah-stone:
+    name: Ohr Torah Stone
+    type: religiousinstitution
+    founded: 1983
+    headquarters: Efrat, Israel
+    status: active
+    stakeholders:
+    - person: shlomo-riskin
+      role: founder
+      note: Founder and Chancellor
+    - person: kenneth-brander
+      role: leader
+      from: 2018
+      note: President and Rosh HaYeshiva
   oiler-network:
     name: Oiler Network
     type: company
@@ -47167,6 +48580,20 @@ organizations:
       role: chairman
       from: 2016
       note: Proprietario e Chairman
+  or-avner:
+    name: Ohr Avner Foundation
+    type: foundation
+    founded: 1992
+    headquarters: New York, USA
+    status: active
+    sector: education/philanthropy
+    stakeholders:
+    - person: lev-leviev
+      role: founder
+      note: In memory of father Avner
+    - person: david-mondshine
+      role: executive
+      note: Director
   oracle:
     name: Oracle Corporation
     type: company
@@ -47538,6 +48965,9 @@ organizations:
     - person: arunma-oteh
       role: alumni
       note: Academic Scholar, post-World Bank
+    - person: peter-mandelson
+      role: alumni
+      note: BA PPE, St Catherines College
   oxford-university:
     name: University of Oxford
     type: university
@@ -47555,7 +48985,7 @@ organizations:
       note: Founded Skoll Centre for Social Entrepreneurship at Said Business School ($7.5M). Hosts annual Skoll World Forum.
   p2:
     name: Propaganda Due (P2)
-    type: forum
+    type: secretsociety
     founded: 1877
     headquarters: Roma/Arezzo, Italia
     status: defunct
@@ -49098,6 +50528,41 @@ organizations:
       role: advisor
       from: 2025
       note: Global Advisory Board
+  pine-gap:
+    name: Joint Defence Facility Pine Gap
+    type: agency
+    founded: 1970
+    headquarters: Alice Springs, Australia
+    status: active
+    stakeholders:
+    - person: kerri-hartland
+      role: official
+      from: 2023
+      note: ASIS DG, consumer of Pine Gap intelligence
+    - org: cia
+      role: partner
+      from: 1970
+      note: Co-operator, originally managed via Directorate of Science and Technology
+    - org: governo-usa
+      role: parent
+      from: 1966
+      note: Treaty signed 9 Dec 1966
+    - org: nsa
+      role: partner
+      from: 1970
+      note: SIGINT collection partner
+    - org: governo-australia
+      role: parent
+      from: 1966
+      note: Joint facility, treaty signed 9 Dec 1966
+    - org: asd
+      role: partner
+      from: 1988
+      note: Australian co-operator, Deputy Chief always from ASD
+    - org: nro
+      role: partner
+      from: 1990
+      note: Took operational control from CIA early 1990s
   ping-an:
     name: Ping An Insurance Group
     type: company
@@ -49407,6 +50872,10 @@ organizations:
     - person: douglas-feith
       role: member
       note: 1998 Iraq letter signatory | signatory
+    - person: midge-decter
+      role: founder
+      from: 1997
+      note: Founding member
   pnf:
     name: Partito Nazionale Fascista
     type: government
@@ -49586,6 +51055,11 @@ organizations:
     - org: porsche-ag
       role: stake
       share: 0.25
+  posco:
+    name: POSCO
+    type: company
+    headquarters: Pohang, South Korea
+    status: active
   postal-savings-bank-china:
     name: Postal Savings Bank of China
     type: bank
@@ -50340,6 +51814,17 @@ organizations:
       role: parent
       share: 100%
       note: Subsidiary of Qatar Investment Authority
+  quad:
+    name: Quadrilateral Security Dialogue
+    type: forum
+    founded: 2007
+    headquarters: N/A
+    status: active
+    stakeholders:
+    - person: anthony-albanese
+      role: member
+      from: 2022
+      note: Australian PM; Hiroshima 2023, Wilmington 2024
   qualcomm:
     name: Qualcomm Inc
     type: company
@@ -50424,6 +51909,24 @@ organizations:
       role: founder
       from: 2009
       note: Co-founder, CEO
+  qut:
+    name: Queensland University of Technology
+    type: university
+    headquarters: Brisbane, Australia
+    status: active
+    stakeholders:
+    - person: anthony-miller
+      role: alumni
+      note: LLB (Hons)
+  rabbinical-college-america:
+    name: Rabbinical College of America
+    type: university
+    headquarters: Morristown, USA
+    status: active
+    stakeholders:
+    - person: berel-lazar
+      role: alumni
+      note: BA Religious Studies
   radical-ventures:
     name: Radical Ventures
     type: privateequity
@@ -50844,6 +52347,26 @@ organizations:
       role: chairman
       to: 2024
       note: Chairman (as NatWest Group)
+  rco4generations:
+    name: R&Co4Generations Foundation
+    type: foundation
+    founded: 2019
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: alexandre-de-rothschild
+      role: chairman
+      from: 2019
+      note: Co-Chair Management Committee
+    - person: lionel-zinsou
+      role: chairman
+      from: 2019
+      note: Co-Chair Management Committee, ex-PM Benin
+    - org: rothschild-co
+      role: subsidiary
+      share: 1.0
+      from: 2019
+      note: Corporate philanthropy platform
   rcs-mediagroup:
     name: RCS MediaGroup
     type: media
@@ -51633,6 +53156,9 @@ organizations:
       share: 5.0%
     - org: state-street
       share: 1.5%
+    - org: hancock-prospecting
+      role: partnership
+      note: Hope Downs Joint Venture 50/50 since 2005. Original 2.5% royalty on Pilbara iron ore from 1960s Hanwright agreement
   riot-games:
     name: Riot Games
     type: company
@@ -51961,6 +53487,35 @@ organizations:
     - person: anders-eldrup
       role: board
       note: Board member
+  rohr-jewish-learning-institute:
+    name: Rohr Jewish Learning Institute
+    type: foundation
+    founded: 1998
+    headquarters: Brooklyn, USA
+    status: active
+    sector: Jewish adult education
+    stakeholders:
+    - person: moshe-kotlarsky
+      role: chairman
+      from: 1998
+      to: 2024
+      note: Chairman until death June 2024
+    - person: sami-rohr
+      role: donor
+      note: Machon Shmuel (Sami Rohr Research Institute) named after him
+    - person: george-rohr
+      role: donor
+      note: Principal benefactor; naming rights
+    - person: efraim-mintz
+      role: executive
+      from: 1998
+      note: Founding Executive Director
+    - org: chabad-lubavitch
+      role: parent
+      note: Division of Merkos L'Inyonei Chinuch
+    - org: merkos
+      role: parent
+      note: JLI is a division of Merkos
   roketsan:
     name: Roketsan
     type: defense
@@ -52208,6 +53763,34 @@ organizations:
       from: 2005
       to: 2007
       note: General Partner, advisor fusione Natixis
+    - person: georges-pompidou
+      role: executive
+      from: 1953
+      to: 1962
+      note: Directeur Général de Rothschild Frères
+    - person: alain-de-rothschild
+      role: partner
+      from: 1946
+      note: de Rothschild Frères, poi Banque Rothschild
+    - person: robert-de-rothschild
+      role: partner
+      from: 1911
+      note: de Rothschild Frères, 50% shares, major managerial role
+    - person: elie-de-rothschild
+      role: partner
+      from: 1946
+      note: de Rothschild Frères, poi Banque Rothschild
+    - person: guy-de-rothschild
+      role: chairman
+      from: 1949
+      to: 1982
+      note: Chairman de Rothschild Frères, poi Banque Rothschild
+    - person: gustave-de-rothschild
+      role: partner
+      note: Co-managed with brother Alphonse after father James death in 1868
+    - org: concordia-sas
+      role: controlling
+      note: Via Rothschild & Co
   rothschild-co:
     name: Rothschild & Co
     type: bank
@@ -52220,12 +53803,16 @@ organizations:
     - person: david-de-rothschild-fr
       role: chairman
       from: 2003
+      to: 2018
+      note: Chairman, poi Supervisory Board Chairman, Honorary Chairman dal 2023
     - person: alexandre-de-rothschild
       role: chairman
       from: 2018
     - person: eric-de-rothschild
-      role: board
-      note: Vice-Chairman Supervisory Board
+      role: chairman
+      from: 2004
+      to: 2018
+      note: Chairman Supervisory Board
     - person: nigel-higgins
       role: executive
       from: 2019
@@ -52257,6 +53844,15 @@ organizations:
       from: 1996
       to: 2003
       note: Head of Consumer Products team, London
+    - person: javed-khan
+      role: partner
+      from: 2022
+      note: Managing Partner, Management Board member
+    - org: concordia-sas
+      role: controlling
+      share: 0.96
+      from: 2023
+      note: OPA delisting at EUR 48/share, valuation EUR 3.7bn
   rothschild-europe:
     name: Rothschild Europe
     type: bank
@@ -52267,6 +53863,27 @@ organizations:
       role: executive
       from: 2004
       note: Vice Chairman
+  rothschild-foundation:
+    name: The Rothschild Foundation
+    type: foundation
+    founded: 2010
+    headquarters: Waddesdon, United Kingdom
+    status: active
+    stakeholders:
+    - person: jacob-rothschild
+      role: chairman
+      from: 2010
+      to: 2024
+      note: Founder and Chairman until death
+    - person: hannah-rothschild
+      role: chairman
+      from: 2024
+      note: Chair since Jacob Rothschild death
+    - person: alain-de-rothschild
+      role: chairman
+      from: 1973
+      to: 1982
+      note: Président
   rothschild-south-africa:
     name: Rothschild & Co South Africa
     type: bank
@@ -52295,6 +53912,28 @@ organizations:
       role: subsidiary
       share: 0.75
       note: 75% stake, 25% held by BEE Foundation
+  roy-hill:
+    name: Roy Hill Holdings
+    type: company
+    headquarters: Perth, Australia
+    status: active
+    note: Australia largest single iron ore mine, 60-70 Mtpa. HPPL 70%, Marubeni 15%, POSCO 12.5%, China Steel 2.5%
+    stakeholders:
+    - person: gina-rinehart
+      role: chairman
+    - org: marubeni
+      role: stake
+      share: 0.15
+    - org: hancock-prospecting
+      role: majority
+      share: 0.7
+      note: Majority owner
+    - org: posco
+      role: stake
+      share: 0.125
+    - org: china-steel
+      role: stake
+      share: 0.025
   royal-bank-of-scotland:
     name: Royal Bank of Scotland
     type: bank
@@ -53627,11 +55266,20 @@ organizations:
     headquarters: Paris
     sector: university
     stakeholders:
+    - person: david-de-rothschild-fr
+      role: alumni
+      note: '1966'
     - person: enrico-letta
       role: executive
       from: 2015
       to: 2021
       note: Dean PSIA
+    - person: georges-pompidou
+      role: alumni
+      note: Diploma
+    - person: alain-de-rothschild
+      role: alumni
+      note: '1931'
   sciences-po-paris:
     name: Institut d'etudes politiques de Paris (Sciences Po)
     type: university
@@ -54907,7 +56555,7 @@ organizations:
       note: CMO & Director Global Health, Skoll Global Threats Fund
   skull-and-bones:
     name: Skull and Bones
-    type: forum
+    type: secretsociety
     founded: 1832
     headquarters: New Haven, USA
     status: active
@@ -55846,6 +57494,10 @@ organizations:
     founded: 1257
     headquarters: Paris, France
     status: active
+    stakeholders:
+    - person: menachem-schneerson
+      role: alumni
+      note: Mathematics 1937-1939
   south-african-airways:
     name: South African Airways
     type: airline
@@ -56285,6 +57937,9 @@ organizations:
     - person: susan-rice
       role: alumni
       note: BA History 1986, Phi Beta Kappa, Truman Scholar
+    - person: ehud-barak
+      role: alumni
+      note: MSc Economic Engineering Systems 1978
     - person: chelsea-clinton
       role: alumni
       note: BA History 2001
@@ -57612,6 +59267,15 @@ organizations:
     headquarters: La Hulpe, Belgium
     status: Active
     sector: Financial Infrastructure
+  swimming-australia:
+    name: Swimming Australia
+    type: sportsclub
+    headquarters: Sydney, Australia
+    status: active
+    stakeholders:
+    - person: gina-rinehart
+      role: donor
+      note: Hancock Prospecting Swimmer Support Scheme, 92 elite swimmers
   swiss:
     name: Swiss International Air Lines
     type: airline
@@ -57811,6 +59475,15 @@ organizations:
       role: board
       from: 2021
       note: Independent Director, Chair Nominating & Corporate Governance Committee
+  tabcorp:
+    name: Tabcorp Holdings
+    type: company
+    headquarters: Melbourne, Australia
+    status: active
+    stakeholders:
+    - person: steven-gregg
+      role: chairman
+      note: Chairman
   taboola:
     name: Taboola.com Ltd.
     type: company
@@ -58331,6 +60004,9 @@ organizations:
     headquarters: Tel Aviv, Israel
     status: active
     stakeholders:
+    - person: ehud-schneorson
+      role: alumni
+      note: BA; MSc Geophysics and Planetary Science
     - person: isaac-herzog
       role: alumni
       note: LLB Law
@@ -58628,6 +60304,18 @@ organizations:
       from: 1990
     - org: grupo-carso
       role: parent
+  telstra:
+    name: Telstra
+    type: company
+    headquarters: Melbourne, Australia
+    status: active
+    sector: tech
+    stakeholders:
+    - person: mike-burgess
+      role: executive
+      from: 2013
+      to: 2016
+      note: Chief Information Security Officer
   telus:
     name: TELUS Communications
     type: company
@@ -59419,6 +61107,17 @@ organizations:
       role: controlling
       share: 68
       note: Primary investment vehicle
+  thorn-emi:
+    name: Thorn EMI
+    type: defense
+    headquarters: London, United Kingdom
+    status: defunct
+    stakeholders:
+    - person: mike-burgess
+      role: employee
+      from: 1988
+      to: 1991
+      note: Signal processing, defence industry
   thrive-capital:
     name: Thrive Capital
     type: vc
@@ -59510,6 +61209,36 @@ organizations:
     - person: larry-ellison
       role: shareholder
       from: 2025
+  tikvah-fund:
+    name: Tikvah Fund
+    type: foundation
+    founded: 1992
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: elliott-abrams
+      role: chairman
+      note: Chairman (2024-); former Deputy NSA
+    - person: george-rohr
+      role: board
+    - person: zalman-bernstein
+      role: founder
+      from: 1992
+      to: 1999
+    - person: roger-hertog
+      role: chairman
+      note: Chairman Emeritus (2024-); Chairman (1999-2024)
+    - person: arthur-fried
+      role: board
+      note: Trustee
+    - person: eric-cohen
+      role: executive
+      from: 2007
+      note: CEO; grew Tikvah into preeminent Jewish conservative think tank
+    - person: neal-kozodoy
+      role: executive
+      from: 2009
+      note: Senior Director, Publications
   timber-hill:
     name: Timber Hill
     type: company
@@ -60213,6 +61942,9 @@ organizations:
     - person: borja-prado-eulate
       role: steering
       note: President Spanish Group
+    - person: peter-mandelson
+      role: member
+      note: European Group
   trilaterale:
     name: Trilateral Commission
     type: forum
@@ -61594,9 +63326,6 @@ organizations:
     - org: eurogroup
       role: institution
       note: Ministri Finanze zona euro
-    - org: commissione-ue
-      role: institution
-      note: Esecutivo UE
   unipol:
     name: Unipol Gruppo S.p.A.
     type: company
@@ -61729,6 +63458,10 @@ organizations:
       from: 2010
       to: 2015
       note: Under-Secretary-General for Humanitarian Affairs
+    - person: gordon-brown
+      role: advisor
+      from: 2012
+      note: Special Envoy for Global Education
     - person: nickolay-mladenov
       role: executive
       from: 2013
@@ -62084,6 +63817,15 @@ organizations:
     - person: jose-barroso
       role: alumni
       note: MA Political Science 1980s
+  university-gottingen:
+    name: University of Gottingen
+    type: university
+    headquarters: Gottingen, Germany
+    status: active
+    stakeholders:
+    - person: adolph-von-knigge
+      role: alumni
+      note: Diritto ~1769-1772
   university-graz:
     name: University of Graz
     type: university
@@ -62121,6 +63863,28 @@ organizations:
     - person: philip-k-ryan
       role: alumni
       note: BS Industrial Engineering 1978
+  university-ingolstadt:
+    name: University of Ingolstadt
+    type: university
+    founded: 1472
+    headquarters: Ingolstadt, Bavaria
+    status: dissolved
+    note: Fondata da Ludwig IX il Ricco; centro gesuita; soppressa 1800; trasferita a Landshut poi Monaco (LMU)
+    stakeholders:
+    - person: adam-weishaupt
+      role: alumni
+      note: Doctorate of Law 1768
+    - person: adam-weishaupt
+      role: executive
+      from: 1773
+      to: 1785
+      note: Professor of Canon Law
+    - person: xavier-von-zwack
+      role: alumni
+      note: Diritto ~1774-1777
+    - person: franz-anton-von-massenhausen
+      role: alumni
+      note: Diritto ~1774-1778
   university-lisbon:
     name: Universidade de Lisboa
     type: university
@@ -62211,6 +63975,15 @@ organizations:
     - person: tedros-adhanom
       role: alumni
       note: PhD Community Health 2000
+  university-of-adelaide:
+    name: University of Adelaide
+    type: university
+    headquarters: Adelaide, Australia
+    status: active
+    stakeholders:
+    - person: penny-wong
+      role: alumni
+      note: BA, LLB
   university-of-arizona:
     name: University of Arizona
     type: university
@@ -62231,6 +64004,18 @@ organizations:
       from: 1962
       to: 1966
       note: BS Business Administration
+  university-of-berlin:
+    name: University of Berlin
+    type: university
+    headquarters: Berlin, Germany
+    status: active
+    stakeholders:
+    - person: menachem-schneerson
+      role: alumni
+      note: Mathematics, Physics 1928-1933
+    - person: joseph-soloveitchik
+      role: alumni
+      note: PhD Philosophy 1932 (dissertation on Hermann Cohen)
   university-of-bologna:
     name: University of Bologna
     type: university
@@ -62317,6 +64102,9 @@ organizations:
       from: 1987
       to: 1992
       note: MD 1992, School of Medicine
+    - person: john-podhoretz
+      role: alumni
+      note: BA 1982
   university-of-denver:
     name: University of Denver
     type: university
@@ -62337,6 +64125,15 @@ organizations:
     - person: ahmed-bin-saeed-al-maktoum
       role: alumni
       note: Business Administration
+  university-of-edinburgh:
+    name: University of Edinburgh
+    type: university
+    headquarters: Edinburgh, GBR
+    status: active
+    stakeholders:
+    - person: gordon-brown
+      role: alumni
+      note: MA History 1972 (First Class), PhD History 1982
   university-of-geneva:
     name: University of Geneva
     type: university
@@ -62414,6 +64211,15 @@ organizations:
     - person: samba-sow
       role: faculty
       note: Adjunct Professor, School of Medicine
+  university-of-melbourne:
+    name: University of Melbourne
+    type: university
+    headquarters: Melbourne, Australia
+    status: active
+    stakeholders:
+    - person: richard-marles
+      role: alumni
+      note: BSc, LLB (Hons), Ormond College
   university-of-michigan:
     name: University of Michigan
     type: university
@@ -62668,6 +64474,40 @@ organizations:
     - person: nikolaus-von-bomhard
       role: alumni
       note: Law studies 1976-1981
+  university-salamanca:
+    name: University of Salamanca
+    type: university
+    founded: 1218
+    headquarters: Salamanca, Spain
+    status: active
+    stakeholders:
+    - person: abraham-cardoso
+      role: alumni
+      note: Medicine
+  university-south-australia:
+    name: University of South Australia
+    type: university
+    headquarters: Adelaide, Australia
+    status: active
+    stakeholders:
+    - person: mike-burgess
+      role: alumni
+      note: BE Electrical Engineering 1988
+  university-sydney:
+    name: University of Sydney
+    type: university
+    headquarters: Sydney, Australia
+    status: active
+    stakeholders:
+    - person: anthony-albanese
+      role: alumni
+      note: BEc Economics
+    - person: gina-rinehart
+      role: alumni
+      note: Economics (non completato)
+    - person: matt-comyn
+      role: alumni
+      note: Executive MBA
   university-texas:
     name: University of Texas at Austin
     type: university
@@ -62776,12 +64616,24 @@ organizations:
     stakeholders:
     - person: jane-mcadam
       role: professor
+    - person: matt-comyn
+      role: alumni
+      note: BA Aviation; MCom Finance
+    - person: steven-gregg
+      role: alumni
+      note: BCom Economics
+    - person: scott-morrison
+      role: alumni
+      note: BSc Applied Economic Geography (Hons) 1990
   upenn:
     name: University of Pennsylvania
     type: university
     headquarters: Philadelphia, USA
     status: active
     stakeholders:
+    - person: ivanka-trump
+      role: alumni
+      note: BS Economics 2004, cum laude (Wharton)
     - person: brian-roberts
       role: alumni
       note: BS Wharton 1981
@@ -62811,6 +64663,9 @@ organizations:
       from: 1982
       to: 1986
       note: Wharton School, BS Economics, summa cum laude
+    - person: javed-khan
+      role: alumni
+      note: BAS/BS Engineering & Wharton
   upm:
     name: Universidad Politécnica de Madrid
     type: university
@@ -65638,6 +67493,9 @@ organizations:
     - person: lim-boon-heng
       role: member
       note: Attendee, PAA-WEF strategic partnership
+    - person: gordon-brown
+      role: member
+      note: Agenda Contributor
     - person: german-gref
       role: member
       note: Davos speaker, advocated state stake reduction in Russian banks | Speaker
@@ -66255,7 +68113,11 @@ organizations:
     - person: diane-von-furstenberg
       role: member
       note: Regular attendee; Crystal Award 2025
+    - person: peter-mandelson
+      role: member
     - person: jim-chalmers
+      role: member
+    - person: penny-wong
       role: member
     - org: bilderberg
       role: partner
@@ -66466,7 +68328,42 @@ organizations:
   westpac:
     name: Westpac Banking Corporation
     type: bank
+    founded: 1817
     headquarters: Sydney, Australia
+    status: active
+    sector: finance
+    note: Oldest bank in Australia (est. 1817 as Bank of New South Wales). Big Four. A$1.3B AUSTRAC fine 2020 for 23M AML
+      breaches incl. child exploitation links.
+    stakeholders:
+    - person: anthony-miller
+      role: executive
+      from: 2020
+      note: CEO dal Dec 2024. CE Business & Wealth 2023. CE Institutional Bank 2020-2023
+    - person: steven-gregg
+      role: chairman
+      from: 2023
+      note: Chairman dal Dec 2023
+    - person: brian-hartzer
+      role: executive
+      from: 2015
+      to: 2019
+      note: CEO. Dimesso dopo scandalo AUSTRAC
+    - person: peter-king-westpac
+      role: executive
+      from: 2019
+      to: 2024
+      note: CEO (interim 2019, confermato 2020). Gestione crisi AUSTRAC
+    - org: blackrock
+      role: stake
+      share: 0.062
+      note: Largest single shareholder
+    - org: vanguard
+      role: stake
+      share: 0.05
+      note: Major institutional shareholder
+    - org: state-street
+      role: stake
+      note: Institutional shareholder
   wework:
     name: WeWork
     type: company
@@ -66584,6 +68481,10 @@ organizations:
       from: 1998
       to: 2003
       note: Director-General, prima donna
+    - person: gordon-brown
+      role: advisor
+      from: 2021
+      note: Ambassador for Global Health Financing
     - person: carl-bildt
       role: advisor
       from: 2021
@@ -66994,6 +68895,15 @@ organizations:
       from: 2021
       to: 2025
       note: CEO
+  worcester-polytechnic:
+    name: Worcester Polytechnic Institute
+    type: university
+    headquarters: Worcester, USA
+    status: active
+    stakeholders:
+    - person: moris-tabacinic
+      role: alumni
+      note: BS Industrial Engineering
   world-athletics:
     name: World Athletics
     type: agency
@@ -67167,6 +69077,7 @@ organizations:
       from: 2007
     - person: david-de-rothschild-fr
       role: chairman
+      note: Chairman Governing Board, poi Honorary Chair
     - person: stephen-wise
       role: founder
       from: 1936
@@ -67912,6 +69823,27 @@ organizations:
     - person: aryeh-lightstone
       role: alumni
       note: BA Finance, Rabbinic Ordination (RIETS)
+    - person: shlomo-riskin
+      role: alumni
+      note: BA 1960 (valedictorian, summa cum laude), Semicha (Rabbi Soloveitchik), MA Jewish History
+    - person: shlomo-riskin
+      role: academic
+      from: 1963
+      to: 1977
+      note: Associate Professor of Tanakh and Talmud
+    - person: joseph-soloveitchik
+      role: academic
+      from: 1941
+      to: 1985
+      note: Rosh Yeshiva, RIETS; ordained ~2000 rabbis
+    - person: kenneth-brander
+      role: alumni
+      note: BA 1984, Yeshiva College; Semicha RIETS 1986
+    - person: kenneth-brander
+      role: executive
+      from: 2005
+      to: 2018
+      note: VP University and Community Life; Dean Center for the Jewish Future
   yildiz-technical-university:
     name: Yildiz Technical University
     type: university

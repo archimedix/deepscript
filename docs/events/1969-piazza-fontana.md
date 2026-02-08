@@ -126,7 +126,7 @@ Repressione, governi "forti"
 |---------|-------|
 | Ordine Nuovo | Esecutori |
 | SIFAR/SID | Depistaggio |
-| [P2](../forum/p2.md) | Connessioni |
+| [P2](../secret-society/p2.md) | Connessioni |
 | [CIA](../agency/cia.md) | Presunto coinvolgimento |
 
 ### Network

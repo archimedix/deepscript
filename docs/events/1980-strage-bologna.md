@@ -121,7 +121,7 @@ MANDANTI MAI IDENTIFICATI
 | Entita' | Ruolo |
 |---------|-------|
 | NAR | Esecutori |
-| [P2](../forum/p2.md) | Depistaggio |
+| [P2](../secret-society/p2.md) | Depistaggio |
 | SISMI | Depistaggio |
 
 ### Network

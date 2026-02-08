@@ -124,7 +124,7 @@ CHI FERMO' IL GOLPE?
 
 | Entita' | Ruolo |
 |---------|-------|
-| [P2](../forum/p2.md) | Coordinamento |
+| [P2](../secret-society/p2.md) | Coordinamento |
 | Gladio | Armi e logistica |
 | [CIA](../agency/cia.md) | Presunto supporto/veto |
 

@@ -7,10 +7,12 @@
 | Aspetto | Dettaglio |
 |---------|-----------|
 | **Nascita** | 24 ottobre 1966, Saratov, URSS |
-| **Nazionalità** | Russa, israeliana, portoghese |
-| **Patrimonio** | ~$9 miliardi (2022, pre-sanzioni) |
-| **Residenza** | Istanbul, Israele (post-sanzioni) |
-| **Sanzioni** | UK, EU (marzo 2022) |
+| **Nazionalita'** | RUS-ISR-PRT |
+| **Patrimonio** | ~$9 miliardi (2022, pre-sanzioni); $7B+ congelati a Jersey |
+| **Residenza** | Istanbul (Anadolu Hisari, £40K/mese); viaggia tra Sochi, Tel Aviv, Dubai |
+| **Coniugi** | 1) Olga Lysova (1987-1990); 2) Irina Malandina (1991-2007, $300M settlement); 3) Dasha Zhukova (2008-2018) |
+| **Figli** | 7: Anna, Arkadiy, Sofia, Arina, Ilya (da Irina); Aaron Alexander, Leah Lou (da Dasha) |
+| **Sanzioni** | UK, EU, Canada, Australia, Svizzera, NZ (marzo 2022); NON sanzionato da USA |
 
 ---
 
@@ -19,9 +21,11 @@
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
 | **1987** | Istituto Industriale di Ukhta | Ingegneria (non completato) |
+| **~1990s** | Gubkin Russian State University of Oil and Gas | Non completato |
+| **2001** | Moscow State Law Academy | Laurea in legge (contestata) |
 
 **Background:**
-Orfano a 4 anni (madre morta quando aveva 18 mesi, padre in incidente), cresciuto da parenti nella Repubblica di Komi. Iniziò vendendo anatre di gomma e benzina a ufficiali dell'esercito.
+Orfano a 4 anni (madre morta quando aveva 18 mesi, padre in incidente), cresciuto da parenti nella Repubblica di Komi. Inizio' vendendo anatre di gomma e benzina a ufficiali dell'esercito.
 
 ---
 
@@ -32,10 +36,13 @@ Orfano a 4 anni (madre morta quando aveva 18 mesi, padre in incidente), cresciut
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
 | **1991-1995** | Imprenditore | Trading petrolio, commercio |
-| **1995-2005** | Co-fondatore, Azionista | Sibneft |
+| **1995-2005** | Co-fondatore, Azionista | [Sibneft](../company/sibneft.md) |
+| **1999** | Co-fondatore, Presidente Board of Trustees | [FJCR](../religious-institution/fjcr.md) |
 | **1999-2000** | Deputato | Duma di Stato (Chukotka) |
 | **2000-2008** | Governatore | Chukotka Autonomous Okrug |
-| **2003-2022** | Proprietario | Chelsea Football Club |
+| **2001-oggi** | Fondatore | [Millhouse Capital](../company/millhouse-capital.md) |
+| **2003-2022** | Proprietario | [Chelsea FC](../sports-club/chelsea-fc.md) |
+| **2006-oggi** | Azionista (~29%) | [Evraz plc](../company/evraz.md) |
 | **2022** | Mediatore | Negoziati Russia-Ucraina |
 
 ### Ascesa Oligarchica
@@ -89,12 +96,23 @@ Orfano a 4 anni (madre morta quando aveva 18 mesi, padre in incidente), cresciut
 | [Vladimir Putin](vladimir-putin.md) | Lo raccomandò a Yeltsin, intervistò il suo primo gabinetto |
 | [Dmitry Medvedev](dmitry-medvedev.md) | Lo raccomandò a Putin come successore (2007) |
 
+### Chabad e Mondo Ebraico
+
+| Nome | Connessione |
+|------|-------------|
+| [Berel Lazar](berel-lazar.md) | Chief Rabbi di Russia; Abramovich principal funder di FJCR e Chabad Russia |
+| [Lev Leviev](lev-leviev.md) | Co-funder FJCR; introdusse Abramovich a Lazar |
+| [Chabad-Lubavitch](../foundation/chabad-lubavitch.md) | $500M+ a cause ebraiche; Marina Roscha Synagogue ($5M+) |
+| [FJCR](../religious-institution/fjcr.md) | Co-fondatore e Presidente Board of Trustees |
+
 ### Business
 
 | Nome | Connessione |
 |------|-------------|
 | [Boris Berezovsky](boris-berezovsky.md) | Partner Sibneft 1995-2000, causa legale 2011-12 |
 | Oleg Deripaska | Partner RusAl, ex genero di Yumashev |
+| Eugene Shvidler | Chairman Millhouse Capital; braccio destro |
+| Dasha Zhukova | Ex moglie; fondatrice Garage Museum; ora sposata con Stavros Niarchos III |
 
 ---
 
@@ -125,6 +143,18 @@ Orfano a 4 anni (madre morta quando aveva 18 mesi, padre in incidente), cresciut
 | **Investimenti** | Oltre £2 miliardi in giocatori |
 | **Trofei** | 5 Premier League, 2 Champions League |
 | **Vendita** | Forzata dalle sanzioni, £2.5 miliardi a Boehly/Clearlake |
+
+### Filantropia e Chabad Russia
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Scala totale** | $500M+ a cause ebraiche in Russia, USA, UK, Israele, Portogallo, Lituania |
+| **FJCR** | Co-fondatore (1999) con [Berel Lazar](berel-lazar.md) e [Lev Leviev](lev-leviev.md); Presidente Board of Trustees |
+| **Marina Roscha** | $5M+ per la piu' grande sinagoga di Mosca (Chabad, inaugurata 2001) |
+| **Israele** | ~$120M in 20 startup; ~$30M a Tel Aviv University (nanoscienza); donazione a 8 cifre a Yad Vashem |
+| **Elad** | $100M a organizzazione pro-settlement per scavi archeologici a Gerusalemme Est (controverso) |
+| **Jewish Agency** | $5M (2019) per lotta all'antisemitismo |
+| **Impatto** | FJCR presidente Boroda: "Abramovich responsabile dell'80% dello sviluppo della vita ebraica in Russia" |
 
 ---
 
@@ -171,22 +201,27 @@ Nonostante il ruolo di mediatore, UK e EU lo hanno sanzionato. Gli USA non lo ha
 
 ### Organizzazioni
 
-| Entità | Connessione |
+| Entita' | Connessione |
 |---------|-------------|
 | [Sibneft](../company/sibneft.md) | Co-fondatore (1995-2005) |
+| [Evraz plc](../company/evraz.md) | Azionista ~29% (2006-oggi) |
+| [Millhouse Capital](../company/millhouse-capital.md) | Fondatore (2001-oggi) |
 | [Chelsea FC](../sports-club/chelsea-fc.md) | Proprietario (2003-2022) |
 | [Governo Russia](../government/governo-russia.md) | Duma, Governatore Chukotka (1999-2008) |
-| [Gazprom](../company/gazprom.md) | Vendita Sibneft $13.1B (2005) |
+| [FJCR](../religious-institution/fjcr.md) | Co-fondatore, Presidente Board of Trustees (1999) |
+| [Chabad-Lubavitch](../foundation/chabad-lubavitch.md) | Donor ($500M+ a cause ebraiche) |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
-| [Vladimir Putin](vladimir-putin.md) | Patron - lo raccomandò a Yeltsin |
+| [Vladimir Putin](vladimir-putin.md) | Patron - lo raccomando' a Yeltsin |
 | [Boris Yeltsin](boris-yeltsin.md) | Patron - finanziatore Family |
 | [Tatyana Yumasheva](tatyana-yumasheva.md) | Friend - pagava spese |
 | [Boris Berezovsky](boris-berezovsky.md) | Colleague/adversary - partner poi nemico |
-| [Dmitry Medvedev](dmitry-medvedev.md) | Patron - lo raccomandò a Putin |
+| [Dmitry Medvedev](dmitry-medvedev.md) | Patron - lo raccomando' a Putin |
+| [Berel Lazar](berel-lazar.md) | Patron - principal funder Chabad Russia |
+| [Lev Leviev](lev-leviev.md) | Colleague - co-funders FJCR |
 
 ---
 
@@ -200,25 +235,30 @@ Nonostante il ruolo di mediatore, UK e EU lo hanno sanzionato. Gli USA non lo ha
 | **1993-95** | Incontra Berezovsky |
 | **1995** | Co-fonda Sibneft (loans-for-shares) |
 | **1996** | Appartamento al Cremlino, finanzia Yeltsin |
-| **1999** | Raccomanda Putin; eletto alla Duma |
+| **1999** | Raccomanda Putin; eletto alla Duma; co-fonda FJCR con Berel Lazar |
 | **2000** | Governatore Chukotka (>90% voti) |
+| **2001** | Fonda Millhouse Capital; inaugurazione Marina Roscha Synagogue ($5M+) |
 | **2003** | Acquista Chelsea FC |
 | **2005** | Vende Sibneft a Gazprom ($13.1B) |
-| **2007** | Raccomanda Medvedev a Putin |
-| **2008** | Lascia governatorato Chukotka |
+| **2006** | Acquisisce 41% di Evraz plc (~$3B) |
+| **2007** | Raccomanda Medvedev a Putin; divorzio da Irina ($300M) |
+| **2008** | Lascia governatorato Chukotka; sposa Dasha Zhukova |
 | **2011-12** | Vince causa contro Berezovsky ($5B) |
-| **2022** | Mediatore Ucraina; sospetto avvelenamento; sanzioni UK/EU |
-| **Maggio 2022** | Vendita forzata Chelsea a Boehly/Clearlake |
-| **2025** | Sanzioni in vigore; disputa su fondi Chelsea |
+| **2018** | Divorzio da Dasha Zhukova |
+| **2022** | Mediatore Ucraina; sospetto avvelenamento; sanzioni UK/EU/Canada/Australia |
+| **Mag 2022** | Vendita forzata Chelsea a Boehly/Clearlake (£2.5B) |
+| **Dic 2025** | UK: ultimatum 90 giorni per trasferire £2.5B a Ucraina o procedimento giudiziario |
 
 ---
 
 ## Domande Aperte
 
-- [ ] Destino dei £2.5 miliardi dalla vendita Chelsea
-- [ ] Reale ruolo nei negoziati Ucraina
+- [ ] Destino dei £2.5B dalla vendita Chelsea — ultimatum UK dic 2025
+- [ ] Reale ruolo nei negoziati Ucraina post-2022
 - [ ] Rapporto attuale con Putin
-- [ ] Responsabilità avvelenamento marzo 2022
+- [ ] Responsabilita' avvelenamento marzo 2022
+- [ ] $7B+ congelati a Jersey — esito procedimenti giudiziari
+- [ ] Status Evraz post-sanzioni: operazioni EVRAZ North America (Chicago, Pueblo CO)
 
 ---
 
@@ -239,9 +279,17 @@ Nonostante il ruolo di mediatore, UK e EU lo hanno sanzionato. Gli USA non lo ha
 - [Al Jazeera - Why is Abramovich trying to broker peace](https://www.aljazeera.com/news/2022/3/30/ukraine-war-why-is-roman-abramovich-trying-to-broker-peace)
 - [RFE/RL - Poisoning symptoms](https://www.rferl.org/a/abramovich-ukraine-negotiators-poisoning/31774792.html)
 
+### Filantropia
+- [Jerusalem Post - Roman Abramovich Philanthropist](https://www.jpost.com/50-most-influential-jews/roman-abramovich-678132)
+- [Times of Israel - 8-figure donation to Yad Vashem](https://www.timesofisrael.com/billionaire-roman-abramovich-makes-8-digit-donation-to-yad-vashem/)
+- [Al Jazeera - $100M to Elad settler group](https://www.aljazeera.com/news/2020/9/22/chelsea-fc-owner-donates-100m-to-israeli-settler-group-2)
+- [Jewish Currents - Our Oligarch](https://jewishcurrents.org/our-oligarch)
+
 ### Sanzioni
 - [OpenSanctions - Roman Abramovich](https://www.opensanctions.org/entities/Q171428/)
+- [Al Jazeera - UK ultimatum £2.5B (Dec 2025)](https://www.aljazeera.com/sports/2025/12/17/uk-warns-abramovich-to-give-chelsea-sale-cash-to-ukraine-or-face-court)
+- [OCCRP - $7B+ frozen in Jersey](https://www.occrp.org/en/news/probe-of-russian-billionaire-roman-abramovich-to-continue-after-jersey-court-ruling)
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

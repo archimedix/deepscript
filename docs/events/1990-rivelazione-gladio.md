@@ -122,7 +122,7 @@ NATO ammette esistenza reti
 | [CIA](../agency/cia.md) | Fondatore |
 | NATO | Coordinamento |
 | SIFAR/SISMI | Braccio italiano |
-| [P2](../forum/p2.md) | Connessa |
+| [P2](../secret-society/p2.md) | Connessa |
 
 ### Network
 

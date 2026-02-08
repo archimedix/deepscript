@@ -20,7 +20,7 @@
 |---------|-------------|-----------|
 | **1961-64** | Phillips Academy Andover | Preparatory school |
 | **1964-68** | [Yale University](../university/yale-university.md) | BA History, DKE President |
-| **1968** | [Skull and Bones](../forum/skull-and-bones.md) | Membro (come il padre) |
+| **1968** | [Skull and Bones](../secret-society/skull-and-bones.md) | Membro (come il padre) |
 | **1973-75** | [Harvard Business School](../university/harvard-university.md) | MBA |
 
 **Nota:** Secondo presidente figlio di presidente dopo John Quincy Adams (1824).
@@ -194,7 +194,7 @@
 | [Governo USA](../government/governo-usa.md) | Presidente 2001-2009 |
 | [Yale University](../university/yale-university.md) | BA History 1968 |
 | [Harvard University](../university/harvard-university.md) | MBA 1975 |
-| [Skull and Bones](../forum/skull-and-bones.md) | Membro dal 1968 |
+| [Skull and Bones](../secret-society/skull-and-bones.md) | Membro dal 1968 |
 | [Texas Rangers](../sports-club/texas-rangers.md) | Managing Partner 1989-98 |
 | [Harken Energy](../company/harken-energy.md) | Director 1986-90 |
 | [Famiglia Bush](../family/bush.md) | 43° Presidente |

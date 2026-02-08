@@ -349,7 +349,7 @@ GOVERNI "FORTI" / ANTI-SINISTRA
 |----------------|------|--------|
 | CIA | Agency | [Link](../docs/agency/cia.md) |
 | OSS | Agency | [Link](../docs/agency/oss.md) |
-| P2 | Forum (clandestino) | [Link](../docs/forum/p2.md) |
+| P2 | Forum (clandestino) | [Link](../docs/secret-society/p2.md) |
 | Democrazia Cristiana | Party | [Link](../docs/party/democrazia-cristiana.md) |
 
 ### Eventi Correlati

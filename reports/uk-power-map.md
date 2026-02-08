@@ -4,7 +4,7 @@
 
 **Organizzazioni UK presenti**: 100+ entità con sede a Londra/UK
 **Persone britanniche (GBR)**: ~100 persone
-**Aggiornamento**: Aggiunto RBS (Royal Bank of Scotland) con documentazione bailout £45.5B e ritorno privato maggio 2025. Aggiunto easyJet con Stephen Hester come chairman. Documentato pattern Stephen Hester "crisis turnaround specialist" cross-sector (RBS → RSA → easyJet → Nordea). Aggiunta connessione UK-Nordic via Hester (easyJet + Nordea chairmanships).
+**Aggiornamento**: Completata scheda Peter Mandelson — revolving door estremo (4 ministeri → EU Trade Commissioner → Lazard Chairman → Global Counsel lobbying → Ambassador USA → dimesso per Epstein files). Bilderberg (7 meetings) + Trilateral + WEF. Connessione Epstein-Deripaska documentata.
 
 ---
 
@@ -158,10 +158,10 @@ GCHQ/MI5 expertise
 | **chatham-house** | ThinkTank | RIIA, gemello CFR, Bronwen Maddox CEO |
 | **rusi** | ThinkTank | **DOCUMENTATO** - Wellington dynasty, MI6 fellows |
 | henry-jackson-society | ThinkTank | Neocon, anti-Russia |
-| fabian-society | ThinkTank | Socialismo gradualista |
+| **fabian-society** | ThinkTank | **DOCUMENTATO** - Incubatore ideologico Labour, fondatrice LSE |
 | tony-blair-institute | ThinkTank | Ex-PM network |
 | iiss | ThinkTank | Int'l Institute Strategic Studies |
-| **lse** | ThinkTank | London School of Economics |
+| **lse** | University | London School of Economics (fondata Fabian Society 1895) |
 
 #### RUSI - Royal United Services Institute - DOCUMENTATO
 
@@ -236,6 +236,39 @@ GCHQ/MI5 expertise
 - **Recruiting officer**: Knight fu il reclutatore UK per Bilderberg, conobbe Black al meeting 1985
 
 **Relazione documentata**: Healey ↔ Bennett (colleghi steering, bridge Tory-Labour)
+
+---
+
+#### Fabian Society - DOCUMENTATO
+
+**L'incubatore ideologico del Labour Party (1884)**
+
+| Metrica | Valore |
+|---------|--------|
+| Fondazione | 4 gennaio 1884, Londra |
+| Tipo | ThinkTank socialista |
+| General Secretary | Joe Dromey (2025-) |
+| Chair | Sara Hyde (Baroness Hyde of Bemerton) |
+| Status | Unico co-fondatore originale del Labour ancora affiliato |
+
+**Pipeline di Primi Ministri Labour**:
+| PM | Periodo | Ruolo Fabian |
+|----|---------|--------------|
+| Clement Attlee | 1945-1951 | member |
+| Harold Wilson | 1964-1970, 1974-1976 | member |
+| Tony Blair | 1997-2007 | member |
+| Gordon Brown | 2007-2010 | member |
+| Keir Starmer | 2024- | board (ex-executive committee) |
+
+**Connessioni chiave**:
+- **Fondazione LSE (1895)**: La Fabian Society fondo' la London School of Economics con lascito Hutchinson
+- **Labour Party (1900)**: Co-fondatrice del Labour Representation Committee
+- **Clause IV (1918)**: Sidney Webb redasse la clausola programmatica del Labour
+- **NHS e Welfare State (1945)**: Il programma fabiano divenne politica nazionale sotto Attlee
+
+**Pattern**: Think tank come pipeline ideologica → leadership partito → governo. 6 PM Labour su 8 dal 1945 erano fabiani.
+
+**Scheda**: `docs/think-tank/fabian-society.md`
 
 ---
 
@@ -634,20 +667,51 @@ Scheda completa: `docs/persons/david-cameron.md`
 #### Presenti in DB (completati)
 | ID | Ruolo | Note |
 |----|-------|------|
-| tony-blair | PM 1997-2007 | TBI founder |
-| keir-starmer | PM 2024- | Trilateral, Fabian |
+| tony-blair | PM 1997-2007 | TBI founder, Fabian Society, Bilderberg |
+| **gordon-brown** | PM 2007-2010, Chancellor 1997-2007 | **DOCUMENTATO** - Fabian, WEF, UN Envoy, WHO Ambassador |
+| keir-starmer | PM 2024- | Trilateral, Fabian board |
 | john-major | PM 1990-97 | Chatham House President Emeritus |
 | theresa-may | PM 2016-19 | Chatham House President |
 | **david-cameron** | PM 2010-16, FS 2023-24 | **Greensill, revolving door** |
 | rishi-sunak | PM 2022-24 | First British Asian PM |
 | boris-johnson | PM 2019-22 | Brexit, COVID |
+| **peter-mandelson** | Minister 1997-2010, EU Trade Commiss. 2004-08, Ambassador USA 2025 | **DOCUMENTATO** - Lazard, Global Counsel, Bilderberg x7, Trilateral, Epstein |
+
+#### Peter Mandelson - DOCUMENTATO
+
+**Il revolving door estremo: politica → Bruxelles → City → lobbying → diplomazia → scandalo**
+
+Scheda completa: `docs/persons/peter-mandelson.md`
+
+**Carriera in 7 atti**:
+| Fase | Periodo | Ruolo |
+|------|---------|-------|
+| 1. Spin Doctor | 1985-1992 | Director of Communications Labour, architetto New Labour |
+| 2. Minister (x4) | 1997-2001, 2008-2010 | Minister without Portfolio, NI Secretary, Business Secretary, First Secretary of State |
+| 3. EU Commissioner | 2004-2008 | Trade Commissioner (Barroso I), negoziatore Doha Round |
+| 4. Investment Banking | 2011-2022 | Chairman Lazard International |
+| 5. Lobbying | 2010-2024 | Co-founder & Chairman Global Counsel (Shell, GSK, JPMorgan, OpenAI) |
+| 6. Ambassador | Feb 2025 | UK Ambassador to USA |
+| 7. Scandalo | 2025-2026 | Dimesso per file Epstein DOJ, indagine UE |
+
+**Forum**: Bilderberg (7 meetings: 1999, 2008-09, 2011-14) + Trilateral Commission + WEF = accesso simultaneo ai tre principali forum globali
+
+**Network Epstein-Deripaska-Mandelson**:
+| Connessione | Dettaglio |
+|-------------|-----------|
+| Oleg Deripaska | Yacht Corfu 2008 (via Nathaniel Rothschild), taglio tariffe alluminio UE |
+| Jeffrey Epstein | Relazione post-condanna 2008, email con leak info governative, tentativo visa russo via Deripaska |
+| Nathaniel Rothschild | Ospite yacht Corfu, connettore sociale |
+
+**2 dimissioni ministeriali** (1998 prestito Robinson, 2001 passaporto Hinduja) + **1 dimissione diplomatica** (2025 Epstein) = record britannico
+
+**Pattern chiave**: Mandelson incarna il nexus politica UK → Commissione UE → finanza (Lazard) → lobbying (Global Counsel) → forum transnazionali, con oligarchi russi e Epstein come nodi di rete occulti
 
 #### DA AGGIUNGERE (figure chiave)
 | Nome | Ruolo | Connessioni | Priorità |
 |------|-------|-------------|----------|
 | **george-osborne** | Chancellor | Evening Standard, BlackRock | ALTA |
 | **william-hague** | Foreign Sec | Hakluyt chairman | ALTA |
-| **peter-mandelson** | Minister | Trilateral, EU Commissioner | ALTA |
 | **david-willetts** | Minister | Trilateral | MEDIA |
 | **olly-robbins** | Civil Servant | Hakluyt partner, FCDO | ALTA |
 | **dominic-cummings** | Advisor | Vote Leave, data ops | MEDIA |
@@ -1723,6 +1787,9 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 | **rbs** | **Completato** | Royal Bank of Scotland - bailout £45.5B 2008, privatizzato 2025, £10B perdita contribuenti |
 | **stephen-hester** | **Completato** | Crisis turnaround specialist: RBS → RSA → easyJet (Chair) + Nordea (Chair), Knighted 2024 |
 | **easyjet** | **Completato** | Low-cost airline, Stelios founder, Stephen Hester chairman 2021-, 93.4M passeggeri |
+| **fabian-society** | **Completato** | Think tank 1884, incubatore Labour (6 PM), fondatrice LSE, pipeline ideologica |
+| **gordon-brown** | **Completato** | Chancellor 1997-2007, PM 2007-2010, UN Special Envoy, WHO Ambassador, Fabian/WEF |
+| **peter-mandelson** | **Completato** | 4 ministeri, EU Trade Commissioner, Lazard Chairman, Global Counsel, Bilderberg x7, Trilateral, Epstein-Deripaska |
 | **nordea** | **Completato** | Maggiore banca nordica, Stephen Hester chairman 2022-, fusione 4 banche 2001 |
 | **world-gold-council** | **Completato** | Trade association oro globale, HQ Londra, 30 membri, David Tait CEO |
 | **david-tait** | **Completato** | CEO WGC, ex-Goldman/Credit Suisse/UBS/BlueCrest, FMSB Precious Metals WG Chair, MBE, survivor |
@@ -1733,7 +1800,6 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 |--------|------|----------|
 | **grosvenor** (famiglia) | Family | ALTA - Maggiori landowner UK |
 | **george-osborne** | Person | ALTA - Revolving door BlackRock/media |
-| **peter-mandelson** | Person | ALTA - Trilateral, EU nexus |
 | **paul-deighton** | Person | ALTA - Goldman → Olympics → Treasury → Economist → Hakluyt |
 | **zanny-minton-beddoes** | Person | ALTA - Economist EIC, Bilderberg, IMF |
 | **jonathan-rothermere** | Person | ALTA - DMGT, Telegraph acquisition |
@@ -1814,6 +1880,13 @@ TELEGRAPH         NEWS CORP         ROTHSCHILD FINANCE
 52. **Finance → Commodities Industry Association** - David Tait: 35 anni trading (Goldman, CS, UBS, BlueCrest) → CEO trade association (WGC). Trading floor expertise → industry governance
 53. **Survivor CEO Model** - David Tait: trauma personale (abusi infantili) trasformato in advocacy (NSPCC, Everest) che coesiste con carriera ai vertici finanza. Soft power (storia) + hard power (ruoli)
 54. **Qatar Aviation Stake Pattern** - Qatar Airways 25.1% in IAG (BA parent) accettato senza ostacoli, mentre UAE bloccato sui media. Aviation = settore strategico trattato diversamente da media
+55. **Fabian Society PM Pipeline** - 6 PM Labour su 8 dal 1945 erano fabiani (Attlee, Wilson, Callaghan, Blair, Brown, Starmer). Un think tank del 1884 produce sistematicamente la leadership del partito di governo
+56. **Gordon Brown Revolving Door Model** - Accademia (Edinburgh PhD) → Parlamento (32 anni) → Chancellor piu' longevo → PM → Governance globale (UN Special Envoy + WHO Ambassador + WEF). Pattern: PM Labour → ruoli internazionali post-carriera
+57. **Blair-Brown Fabian Duo** - Due PM consecutivi (1997-2010, 13 anni) entrambi Fabian Society members. Dominio di un singolo think tank sulla politica UK per un'intera generazione
+58. **Mandelson Triple Forum Access** - Bilderberg (7 meetings) + Trilateral Commission + WEF contemporaneamente. Uno dei pochissimi britannici con accesso simultaneo ai tre principali forum globali
+59. **Mandelson Revolving Door Extreme** - 4 ministeri UK → EU Trade Commissioner → Lazard Chairman → Global Counsel (lobbying FTSE 100) → Ambassador USA → dimesso. Il ciclo completo in una persona
+60. **Epstein-Deripaska-Mandelson Triangle** - Oligarca russo (Deripaska) + finanziere/predatore USA (Epstein) + ministro/commissario UK/UE (Mandelson) connessi via Nathaniel Rothschild. File DOJ 2025 rivelano leak di info governative a Epstein e tentativo visa russo via Deripaska
+61. **Global Counsel Lobbying Model** - Ex-ministro/commissario fonda advisory firm che vende accesso: clienti Shell, GSK, JPMorgan, Standard Chartered, OpenAI. Il lobbying come monetizzazione sistematica del network politico
 
 ### Fonti chiave:
 - [Elitist Britain 2025](https://www.suttontrust.com/our-research/elitist-britain-2025/) - Sutton Trust

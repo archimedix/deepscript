@@ -11,7 +11,7 @@
 | **Settore originario** | Cambiavalute, poi banca d'investimento |
 | **Generazioni documentate** | 8 generazioni (oltre 250 anni) |
 | **Patrimonio stimato** | $400 miliardi - $1+ trilione (stime variano; non verificabile con precisione) |
-| **Status attuale** | Attiva — due rami bancari principali operativi |
+| **Status attuale** | Attiva — tre rami operativi (francese, britannico, svizzero) |
 
 ---
 
@@ -38,7 +38,7 @@ La famiglia Rothschild e' oggetto di piu' teorie cospirative di qualsiasi altra 
 
 ---
 
-## Albero Genealogico — I Cinque Rami
+## I Cinque Rami Originari
 
 ```
 MAYER AMSCHEL ROTHSCHILD (1744-1812)
@@ -51,187 +51,171 @@ Francoforte — Fondatore
 Francoforte   Vienna      LONDRA      Napoli      PARIGI
     |           |           |           |           |
  [estinto]  [estinto]   RAMO UK    [estinto]   RAMO FRANCIA
-                            |                       |
-                    +-------+-------+       +-------+-------+
-                    |               |       |               |
-              Lionel (1808)    Anthony   Alphonse (1827)  Gustave
-                    |                           |
-              Nathan (1840)              Edouard (1868)
-                    |                           |
-              Walter (1868)              Guy (1909)
-              [scienziato]                      |
-                    |                    David (1942-)
-              Victor (1910)              Chairman R&Co
-                    |                           |
-              Jacob (1936-2024)          Alexandre (1980-)
-              RIT Capital                 Exec Chairman
-                    |
-              Nat (1971-)
-              5° Barone
 ```
 
+Dei cinque rami originari, solo due sono sopravvissuti: **Londra** (Nathan) e **Parigi** (James). Dal ramo francese si e' distaccato un **ramo svizzero** (Edmond, gen. 6).
+
 ---
 
-## I Due Rami Bancari Attuali
+## I Tre Rami Attuali
 
-### 1. Rothschild & Co (Ramo Francese)
+### Ramo Francese (da James Mayer, Parigi)
 
-| Metrica | Valore (2024) |
+Il ramo dominante oggi. Controlla Rothschild & Co tramite [Concordia SAS](../company/concordia-sas.md).
+
+| Metrica | Valore (2025) |
 |---------|---------------|
+| **Veicolo** | [Rothschild & Co](../bank/rothschild-co.md) |
+| **Holding** | [Concordia SAS](../company/concordia-sas.md) (96% R&Co) |
 | **Sede** | Parigi |
-| **Chairman** | David de Rothschild |
-| **Executive Chairman** | Alexandre de Rothschild (7a generazione) |
-| **Ricavi** | €2.9 miliardi |
-| **AUM** | €124 miliardi (private banking) + €28 miliardi (private equity) |
-| **Dipendenti** | 4,600 |
-| **Uffici** | 49 paesi |
-| **Status** | Privata (delisting 2023, €3.3 miliardi) |
-| **Attivita' principale** | M&A advisory (662 operazioni, $488 miliardi nel 2024) |
+| **Executive Chairman** | Alexandre de Rothschild (7a gen.) |
+| **Ricavi** | EUR 2.9 miliardi |
+| **AUM** | EUR 124 miliardi (private banking) + EUR 28 miliardi ([Five Arrows](../private-equity/five-arrows.md)) |
+| **Status** | Privata (delisting 2023, EUR 3.7 miliardi) |
 
-**Connessione politica documentata:** [Emmanuel Macron](../persone/emmanuel-macron.md) lavoro' come banchiere da Rothschild & Co (2008-2012) ed e' considerato un protetto di David de Rothschild.
+**Due sotto-rami in Concordia:**
+- **Ramo David** (39.42% voting rights): David de Rothschild → Alexandre de Rothschild
+- **Ramo Eric** (55.6% voting rights): Eric de Rothschild (figlio di Alain)
 
-### 2. Edmond de Rothschild Group (Ramo Svizzero)
+### Ramo Britannico (da Nathan Mayer, Londra)
 
-| Metrica | Valore (2024) |
+Separato dal ramo francese dal 1980 (scissione Jacob-Evelyn). Oggi centrato su RIT Capital e filantropia.
+
+| Metrica | Valore (2025) |
 |---------|---------------|
+| **Veicolo** | RIT Capital Partners |
+| **Sede** | Londra |
+| **Capo** | Nathaniel (Nat) Rothschild, 5° Barone (7a gen.) |
+| **AUM** | GBP 4 miliardi |
+| **Status** | Quotata (FTSE 250) |
+| **Filantropia** | [Rothschild Foundation](../foundation/rothschild-foundation.md) (Waddesdon), [Eranda Rothschild Foundation](../foundation/eranda-rothschild-foundation.md) |
+
+**Due linee nel ramo UK (post-1980):**
+- **Linea Jacob** (4° Barone): RIT Capital, Rothschild Foundation → Nat (5° Barone), Hannah
+- **Linea Evelyn**: N M Rothschild & Sons (chairman 1976-2003), Eranda Foundation, E.L. Rothschild → Lynn Forester de Rothschild
+
+### Ramo Svizzero (da Edmond, distaccato dal ramo francese)
+
+Ramo autonomo dal 1953, focalizzato su private banking.
+
+| Metrica | Valore (2025) |
+|---------|---------------|
+| **Veicolo** | [Edmond de Rothschild Group](../bank/edmond-de-rothschild-group.md) |
 | **Sede** | Ginevra |
-| **Controllo** | Famiglia (100%) |
 | **CEO** | Ariane de Rothschild (vedova di Benjamin) |
 | **AUM** | CHF 184 miliardi |
-| **Dipendenti** | 2,700 |
-| **Uffici** | 28 in 14 paesi |
-| **Specializzazione** | Private banking, wealth management |
-
-### 3. RIT Capital Partners (Ramo Britannico)
-
-| Metrica | Valore (2024) |
-|---------|---------------|
-| **Fondatore** | Jacob Rothschild (1980) |
-| **AUM** | £4 miliardi |
-| **Status** | Quotata (FTSE 250) |
-| **Azionista principale** | Famiglia Rothschild |
-| **CEO** | Maggie Fanari (dal 2024) |
-| **Investimenti recenti** | SpaceX (2024) |
+| **Status** | Privata, 100% famiglia |
 
 ---
 
-## Membri per Generazione
+## Membri per Ramo e Generazione
 
-### 1a Generazione — Fondatore
+### RAMO FRANCESE (Parigi)
 
-| Nome | Anni | Ruolo | Potere Esercitato |
-|------|------|-------|-------------------|
-| Mayer Amschel Rothschild | 1744-1812 | Fondatore | Cambiavalute del Principe di Hesse-Kassel |
+| Gen. | Nome | Anni | Ruolo | Veicoli |
+|------|------|------|-------|---------|
+| 2 | **James Mayer Rothschild** | 1792-1868 | Fondatore ramo Parigi | de Rothschild Freres |
+| 5 | **[Alain de Rothschild](../persons/alain-de-rothschild.md)** | 1910-1982 | Partner Banque Rothschild, Pres. CRIF e Consistoire | Banque Rothschild, CRIF, Consistoire, Compagnie du Nord |
+| 6 | **David de Rothschild** | 1942- | Chairman emerito | Rothschild & Co, Concordia (39.42%), WJC |
+| 6 | **[Eric de Rothschild](../persons/eric-de-rothschild.md)** | 1940- | Co-fondatore R&Cie, Chairman Supervisory Board (2004-18) | Concordia (55.6%), Lafite, Mémorial de la Shoah |
+| 7 | **Alexandre de Rothschild** | 1980- | Executive Chairman | Rothschild & Co, Concordia, R&Co4Generations, Five Arrows |
+| 7 | **[Saskia de Rothschild](../persons/saskia-de-rothschild.md)** | 1987- | Chairwoman e CEO | [Domaines Barons de Rothschild (Lafite)](../company/domaines-barons-de-rothschild.md) |
 
-### 2a Generazione — I Cinque Fratelli (Espansione Europea)
+### RAMO BRITANNICO — Linea Jacob (Londra)
 
-| Nome | Anni | Sede | Risultato |
-|------|------|------|-----------|
-| Amschel Mayer | 1773-1855 | Francoforte | Ramo estinto |
-| Salomon Mayer | 1774-1855 | Vienna | Ramo estinto (confiscato dai nazisti 1938) |
-| **Nathan Mayer** | 1777-1836 | **Londra** | Fondo' N M Rothschild & Sons |
-| Carl Mayer | 1788-1855 | Napoli | Ramo estinto |
-| **James Mayer** | 1792-1868 | **Parigi** | Fondo' de Rothschild Freres |
+| Gen. | Nome | Anni | Ruolo | Veicoli |
+|------|------|------|-------|---------|
+| 2 | **Nathan Mayer Rothschild** | 1777-1836 | Fondatore ramo Londra | N M Rothschild & Sons |
+| 3 | **Lionel de Rothschild** | 1808-1879 | Primo ebreo al Parlamento UK | - |
+| 3 | **Nathaniel, 1° Barone** | 1840-1915 | Pari del Regno | Rhodes Trust |
+| 3 | **Walter Rothschild** | 1868-1937 | 2° Barone, zoologo | Destinatario Dichiarazione Balfour (1917) |
+| 5 | **Victor Rothschild** | 1910-1990 | 3° Barone, MI5, scienziato | Controverso (Cambridge Five?) |
+| 6 | **Jacob Rothschild** | 1936-2024 | 4° Barone, filantropo | RIT Capital, Rothschild Foundation, Bilderberg |
+| 7 | **Nathaniel (Nat) Rothschild** | 1971- | 5° Barone | RIT Capital, ex-Atticus Capital |
+| 7 | **Hannah Rothschild** | 1962- | Scrittrice, Chair fondazione | Rothschild Foundation (dal 2024) |
+| 7 | **David Mayer de Rothschild** | 1978- | Ambientalista | Figlio di Jacob |
 
-> Nel 1822 i cinque fratelli furono nominati Baroni dall'Imperatore d'Austria.
+### RAMO BRITANNICO — Linea Evelyn (Londra)
 
-### 3a-5a Generazione — Consolidamento
+| Gen. | Nome | Anni | Ruolo | Veicoli |
+|------|------|------|-------|---------|
+| 6 | **Evelyn de Rothschild** | 1931-2022 | Chairman N M Rothschild | NMR (1976-2003), Economist, Eranda Foundation, E.L. Rothschild, Bilderberg |
+| - | **Lynn Forester de Rothschild** | 1954- | Moglie Evelyn (dal 2000) | Eranda (chairman), E.L. Rothschild, Council Inclusive Capitalism, Bilderberg, CFR |
 
-| Nome | Anni | Ruolo | Note |
-|------|------|-------|------|
-| Lionel de Rothschild | 1808-1879 | Londra | Primo ebreo al Parlamento UK (1858) |
-| Alphonse de Rothschild | 1827-1905 | Parigi | Finanziamento Terza Repubblica |
-| Nathan Rothschild, 1° Barone | 1840-1915 | Londra | Elevato a pari del Regno |
-| Edouard de Rothschild | 1868-1949 | Parigi | Presidente Rothschild Freres |
-| Victor Rothschild, 3° Barone | 1910-1990 | Londra | MI5, scienziato, controverso |
+### RAMO SVIZZERO (Ginevra, distaccato dal francese)
 
-### 6a-7a Generazione — Divisione e Modernizzazione
-
-| Nome | Anni | Ruolo | Status |
-|------|------|-------|--------|
-| Guy de Rothschild | 1909-2007 | Parigi | Ricostrui' dopo WWII, nazionalizzato 1981 |
-| **Jacob Rothschild, 4° Barone** | 1936-2024 | Londra | RIT Capital, filantropo |
-| Evelyn de Rothschild | 1931-2022 | Londra | Chairman N M Rothschild (1976-2003) |
-| **David de Rothschild** | 1942- | Parigi | Chairman Rothschild & Co, Chairman WJC Governing Board |
-| Edmond de Rothschild | 1926-1997 | Ginevra | Fondo' ramo svizzero |
-| Benjamin de Rothschild | 1963-2021 | Ginevra | Unico miliardario Forbes |
-
-### Generazione Attuale (7a-8a)
-
-| Nome | Nato | Posizione | Ruolo Familiare |
-|------|------|-----------|-----------------|
-| **Nathaniel (Nat) Rothschild** | 1971 | 5° Barone Rothschild | Capo ramo UK |
-| **Alexandre de Rothschild** | 1980 | Exec Chairman Rothschild & Co | Capo ramo francese |
-| **Ariane de Rothschild** | 1965 | CEO Edmond de Rothschild | Capo ramo svizzero (vedova) |
-| David Mayer de Rothschild | 1978 | Ambientalista | Ramo UK |
-| Hannah Rothschild | 1962 | Scrittrice, filmmaker | Figlia di Jacob |
+| Gen. | Nome | Anni | Ruolo | Veicoli |
+|------|------|------|-------|---------|
+| 6 | **Edmond de Rothschild** | 1926-1997 | Fondatore ramo svizzero | EdR Group, EdR Foundation Israel, Bilderberg, De Beers |
+| 7 | **Benjamin de Rothschild** | 1963-2021 | Unico miliardario Forbes | EdR Group, EdR Foundation Israel |
+| 7 | **Ariane de Rothschild** | 1965- | CEO (vedova Benjamin) | EdR Group, EdR Foundation Israel |
 
 ---
 
-## Status dei Membri Viventi Chiave
+## Mappa dei Veicoli
 
-| Nome | Eta' (2025) | Posizione | Patrimonio Stimato |
-|------|-------------|-----------|-------------------|
-| David de Rothschild | 82 | Chairman Rothschild & Co | Non pubblico |
-| Alexandre de Rothschild | 44 | Exec Chairman Rothschild & Co | Non pubblico |
-| Nat Rothschild, 5° Barone | 53 | Finanziere, ex-Atticus Capital | ~$1 miliardo |
-| Ariane de Rothschild | 60 | CEO Edmond de Rothschild | ~$1.4 miliardi (ereditato) |
+### Banche e Holding
 
----
-
-## Veicoli del Potere
-
-### Aziende e Holding
-
-| Entita' | Tipo | Controllo | AUM/Valore |
-|---------|------|-----------|------------|
-| Rothschild & Co | Banca d'affari | Famiglia (100% post-delisting) | €152 miliardi |
-| Edmond de Rothschild Group | Private banking | Famiglia (100%) | CHF 184 miliardi |
-| RIT Capital Partners | Investment trust | Famiglia (maggioranza) | £4 miliardi |
-| Five Arrows | Private equity | Rothschild & Co | €26 miliardi |
+```
+Famiglia Rothschild
+  │
+  ├── RAMO FRANCESE
+  │     └── Concordia SAS (holding, 96% R&Co)
+  │           ├── Ramo David (39.42%)
+  │           └── Ramo Eric (55.6%)
+  │                 │
+  │                 └── Rothschild & Co (banca d'affari)
+  │                       ├── N M Rothschild & Sons (UK)
+  │                       ├── Rothschild & Cie Banque (FR)
+  │                       ├── Five Arrows (PE, EUR 28bn AUM)
+  │                       └── R&Co4Generations (filantropia corp.)
+  │
+  ├── RAMO BRITANNICO
+  │     ├── Linea Jacob
+  │     │     └── RIT Capital Partners (FTSE 250, GBP 4bn)
+  │     └── Linea Evelyn
+  │           └── E.L. Rothschild LLC (Evelyn + Lynn)
+  │
+  └── RAMO SVIZZERO
+        └── Edmond de Rothschild Group (CHF 184bn AUM)
+```
 
 ### Fondazioni e Filantropia
 
-| Fondazione | Focus | Note |
-|------------|-------|------|
-| **Yad Hanadiv** | Israele | Finanzio' Knesset, Corte Suprema, Biblioteca Nazionale |
-| Rothschild Foundation | Arte, patrimonio | Waddesdon Manor (UK) |
-| Edmond de Rothschild Foundations | Educazione, cultura | Attive in Europa e Israele |
+| Fondazione | Ramo | Focus | Leadership |
+|------------|------|-------|------------|
+| [Rothschild Foundation](../foundation/rothschild-foundation.md) | UK-Jacob | Waddesdon Manor, arts | Hannah Rothschild |
+| [Eranda Rothschild Foundation](../foundation/eranda-rothschild-foundation.md) | UK-Evelyn | Medical research, education | Lynn Forester de Rothschild |
+| [EdR Foundation Israel](../foundation/edmond-de-rothschild-foundation-israel.md) | Svizzero | Israele, educazione | Ariane de Rothschild |
+| [R&Co4Generations](../foundation/rco4generations.md) | Francese | CSR, venture philanthropy | Alexandre de Rothschild |
+| [Mémorial de la Shoah](../foundation/memorial-de-la-shoah.md) | Francese | Memoria Shoah (museo/archivio) | [Eric de Rothschild](../persons/eric-de-rothschild.md) |
+| [Fond. Mémoire de la Shoah](../foundation/fondation-memoire-shoah.md) | Francese | Memoria Shoah (finanziamento) | David de Rothschild (2007-2023) |
+| **Yad Hanadiv** | UK-Jacob | Israele (Knesset, Corte Suprema) | Famiglia |
 
-### Proprieta' Immobiliari Storiche
+### Proprieta' Immobiliari e Vinicole
 
-| Proprieta' | Ubicazione | Status |
-|------------|------------|--------|
-| Waddesdon Manor | Buckinghamshire, UK | National Trust, gestito dalla famiglia |
-| Chateau Lafite Rothschild | Bordeaux | Famiglia (vini) |
-| Chateau Mouton Rothschild | Bordeaux | Famiglia (vini) |
+| Proprieta' | Ubicazione | Ramo |
+|------------|------------|------|
+| Waddesdon Manor | Buckinghamshire, UK | UK-Jacob |
+| Chateau Lafite Rothschild | Bordeaux | Francese |
+| Chateau Mouton Rothschild | Bordeaux | Francese (ramo cadetto) |
 
 ---
 
 ## Partecipazioni in Forum
 
-| Forum | Partecipazione Documentata |
-|-------|---------------------------|
-| **Bilderberg** | Edmund de Rothschild partecipo' (anni '60-'70) |
-| **Trilaterale** | Nessuna partecipazione documentata come membri fondatori |
-| **CFR** | Nessuna membership prominente documentata |
-| **WEF** | Partecipazioni occasionali |
-| **[World Jewish Congress](../istituzioni/world-jewish-congress.md)** | David de Rothschild e' Chairman del Governing Board |
+| Forum | Membri documentati | Ramo |
+|-------|--------------------|------|
+| [Bilderberg](../forum/bilderberg.md) | Edmond, Evelyn, Jacob, Lynn Forester | Tutti i rami |
+| [WJC](../forum/world-jewish-congress.md) | David de Rothschild (Chairman Governing Board) | Francese |
+| [CFR](../think-tank/cfr.md) | Lynn Forester de Rothschild | UK-Evelyn (by marriage) |
+| [Chatham House](../think-tank/chatham-house.md) | Lynn Forester de Rothschild | UK-Evelyn (by marriage) |
 
-> **Nota metodologica:** A differenza dei Rockefeller (fondatori di CFR e Trilaterale), i Rothschild non hanno avuto ruoli di leadership documentati nei principali forum transatlantici del XX secolo. La loro influenza e' stata principalmente attraverso canali finanziari diretti e, piu' recentemente, attraverso ruoli nella diaspora ebraica organizzata (WJC).
+> **Nota:** A differenza dei Rockefeller (fondatori di CFR e Trilaterale), i Rothschild non hanno ruoli di leadership nei principali forum transatlantici. La loro influenza e' attraverso canali finanziari diretti e, nel caso di David, attraverso il World Jewish Congress.
 
 ---
 
-## Meccanismi di Successione
-
-| Aspetto | Come Funziona |
-|---------|---------------|
-| **Selezione erede** | Linea maschile tradizionale, ora piu' flessibile |
-| **Formazione eredi** | Apprendistato nelle banche di famiglia |
-| **Strutture legali** | Holding familiari, trust, fondazioni |
-| **Conflitti successori** | 1980: Jacob vs Evelyn (scissione RIT da N M Rothschild) |
-
-### Il Conflitto del 1980
+## Il Conflitto del 1980 (Scissione Ramo UK)
 
 | Aspetto | Dettaglio |
 |---------|-----------|
@@ -239,93 +223,63 @@ Francoforte   Vienna      LONDRA      Napoli      PARIGI
 | **Vincitore interno** | Evelyn de Rothschild (cugino) |
 | **Risposta di Jacob** | Fondo' RIT Capital Partners indipendente |
 | **Risultato** | Due strutture Rothschild parallele nel Regno Unito |
+| **Riconciliazione** | 2003: fusione sotto Rothschild & Co riunifica i rami UK-FR |
 
 ---
 
-## Rete di Alleanze
+## Meccanismi di Successione
 
-### Matrimoni Strategici
-
-| Membro | Coniuge | Famiglia/Background | Effetto |
-|--------|---------|---------------------|---------|
-| Hannah Rothschild | - | - | Non sposata |
-| Nat Rothschild | Loretta Basey | Modella | - |
-| Ariane de Rothschild | Benjamin de Rothschild | Intra-familiare | Unione rami |
-
-### Alleanze Storiche con Altre Dinastie
-
-| Famiglia | Tipo | Periodo | Note |
-|----------|------|---------|------|
-| **Baring** | Rivali/alleati | XIX secolo | Banche concorrenti |
-| **Morgan** | Cooperazione | XIX-XX secolo | Co-finanziamenti |
-| **Warburg** | Alleanza | XX secolo | Kuhn Loeb connections |
+| Aspetto | Come Funziona |
+|---------|---------------|
+| **Selezione erede** | Linea maschile tradizionale, ora piu' flessibile (Hannah chair fondazione) |
+| **Formazione eredi** | Apprendistato nelle banche di famiglia |
+| **Strutture legali** | Holding familiari (Concordia), trust, fondazioni |
+| **Delisting 2023** | Ritorno al privato per controllo multi-generazionale |
 
 ---
 
-## Influenza Politica Documentata
+## Revolving Door
 
-| Paese | Tipo | Periodo | Figure/Eventi |
-|-------|------|---------|---------------|
-| **Regno Unito** | Finanziamento, pari | 1800-oggi | 5 Baroni Rothschild |
-| **Francia** | Banca di Stato | 1800-1981 | Nazionalizzazione Mitterrand |
-| **Francia** | Influenza | 2008-oggi | Macron ex-dipendente |
-| **Israele** | Filantropia | 1950-oggi | Yad Hanadiv, istituzioni |
-| **Austria** | Banca | 1820-1938 | Confiscato dai nazisti |
-
----
-
-## Connessioni PowerLink
-
-### Persone (da /persone/)
-
-| Persona | Connessione |
-|---------|-------------|
-| [Emmanuel Macron](../persone/emmanuel-macron.md) | Ex-banchiere Rothschild & Co (2008-2012) |
-| Ronald Lauder | Presidente WJC — David de Rothschild e' Chairman del Governing Board |
-| Chella Safra | Treasurer WJC — famiglia Safra (banking) |
-
-### Istituzioni (da /istituzioni/)
-
-| Entita' | Relazione |
-|---------|-----------|
-| [Federal Reserve](../istituzioni/federal-reserve.md) | Nessun ruolo diretto documentato a Jekyll Island |
-| [World Jewish Congress](../istituzioni/world-jewish-congress.md) | David de Rothschild Chairman del Governing Board |
-| [Rothschild & Co](../istituzioni/rothschild-co.md) | Banca di famiglia, David Chairman, Alexandre Exec Chairman |
-
-### Eventi (da /eventi/)
-
-| Evento | Relazione |
-|--------|-----------|
-| [Jekyll Island 1910](../eventi/1910-jekyll-island.md) | **Non presenti** — erano Morgan, Rockefeller, Warburg |
-
-> **Distinzione importante:** I Rothschild, pur essendo la dinastia bancaria piu' famosa, non furono coinvolti nella creazione della Federal Reserve americana. I protagonisti di Jekyll Island erano Morgan, Rockefeller (via Aldrich) e Warburg.
+| Nome | Da/verso | Periodo | Note |
+|------|----------|---------|------|
+| [Georges Pompidou](../persons/georges-pompidou.md) | Banque Rothschild → Eliseo | 1953-1962 → 1969 | Direttore generale banca → Presidente della Repubblica |
+| [Emmanuel Macron](../persons/emmanuel-macron.md) | Rothschild & Co → Eliseo | 2008-2012 → 2017 | Partner, poi Presidente della Repubblica |
+| [Francois Perol](../persons/francois-perol.md) | Eliseo → Rothschild & Co | 2009 → 2017 | Segretario Generale Sarkozy → Managing Partner |
+| [Lynn Forester de Rothschild](../persons/lynn-forester-de-rothschild.md) | Advisor Clinton → famiglia | 1993-2000 → 2000 | NIIAC → sposa Evelyn |
 
 ---
 
 ## Timeline Dinastica
 
-| Anno | Evento | Generazione |
-|------|--------|-------------|
-| **1744** | Nascita Mayer Amschel a Francoforte | 1a |
-| **1770s** | Mayer diventa cambiavalute del Principe di Hesse | 1a |
-| **1798-1812** | I cinque figli aprono sedi in Europa | 2a |
-| **1815** | Nathan finanzia la vittoria contro Napoleone | 2a |
-| **1822** | I fratelli nominati Baroni dall'Austria | 2a |
-| **1858** | Lionel primo ebreo al Parlamento UK | 3a |
-| **1875** | Finanziamento acquisto Canale di Suez per UK | 3a |
-| **1895-1907** | Prestiti a governi europei per $450M | 3a-4a |
-| **1938** | Ramo austriaco confiscato dai nazisti | 5a |
-| **1940-45** | Famiglia fugge dalla Francia occupata | 5a |
-| **1953** | Guy ricostruisce banca francese | 5a |
-| **1980** | Jacob lascia N M Rothschild, fonda RIT | 6a |
-| **1981** | Mitterrand nazionalizza banca francese | 6a |
-| **1986** | David ricostruisce Rothschild & Co | 6a |
-| **2012** | Fusione rami UK e Francia in Rothschild & Co | 6a-7a |
-| **2018** | Alexandre succede a David come Exec Chairman | 7a |
-| **2021** | Morte Benjamin de Rothschild | 7a |
-| **2022** | Morte Evelyn de Rothschild | 6a |
-| **2023** | Rothschild & Co torna privata (€3.3 miliardi) | 7a |
-| **2024** | Morte Jacob Rothschild, Nat diventa 5° Barone | 6a-7a |
+| Anno | Evento | Ramo |
+|------|--------|------|
+| **1744** | Nascita Mayer Amschel a Francoforte | Fondatore |
+| **1798-1812** | I cinque figli aprono sedi in Europa | Tutti |
+| **1815** | Nathan finanzia vittoria contro Napoleone | UK |
+| **1822** | Fratelli nominati Baroni dall'Austria | Tutti |
+| **1858** | Lionel primo ebreo al Parlamento UK | UK |
+| **1875** | Finanziamento acquisto Canale di Suez | UK |
+| **1917** | Dichiarazione Balfour indirizzata a Walter | UK |
+| **1938** | Ramo austriaco confiscato dai nazisti | Vienna (estinto) |
+| **1953** | Georges Pompidou entra alla Banque Rothschild come DG | Francese |
+| **1953** | Edmond fonda ramo svizzero | Svizzero |
+| **1967** | Evelyn fonda Eranda Foundation | UK-Evelyn |
+| **1974** | Eric prende la guida di Château Lafite Rothschild | Francese |
+| **1976** | Alain presidente del CRIF | Francese |
+| **1980** | Attentato sinagoga rue Copernic, Alain denuncia inerzia politica | Francese |
+| **1980** | Jacob lascia N M Rothschild, fonda RIT | UK-Jacob |
+| **1981** | Mitterrand nazionalizza banca francese | Francese |
+| **1982** | Morte di Alain de Rothschild a New York | Francese |
+| **1986** | David ricostruisce Rothschild & Co | Francese |
+| **2003** | Fusione rami UK e Francia sotto Paris Orleans | FR + UK |
+| **2009** | Fondazione Five Arrows (PE) | Francese |
+| **2015** | Rebranding in Rothschild & Co | Francese |
+| **2018** | Alexandre succede a David come Exec Chairman | Francese |
+| **2019** | R&Co4Generations Foundation | Francese |
+| **2021** | Morte Benjamin de Rothschild | Svizzero |
+| **2022** | Morte Evelyn de Rothschild | UK-Evelyn |
+| **2023** | Rothschild & Co torna privata (Concordia OPA, EUR 3.7bn) | Francese |
+| **2024** | Morte Jacob Rothschild, Nat diventa 5° Barone | UK-Jacob |
 
 ---
 
@@ -353,9 +307,8 @@ Queste teorie spesso riciclano tropi antisemiti storici e non hanno basi documen
 ## Domande Aperte
 
 - [ ] Qual e' il patrimonio reale combinato della famiglia? (Dati non pubblici)
-- [ ] Come si coordinano i tre rami (francese, svizzero, britannico)?
-- [ ] Quale sara' la successione dopo David de Rothschild?
-- [ ] Qual e' il reale rapporto con i governi europei oggi?
+- [ ] Come si coordinano i tre rami dopo il delisting 2023?
+- [ ] Perche' il ramo Eric ha la maggioranza in Concordia (55.6%) vs il ramo David (39.42%)?
 - [ ] Esistono partecipazioni non pubbliche significative?
 
 ---
@@ -378,7 +331,6 @@ Queste teorie spesso riciclano tropi antisemiti storici e non hanno basi documen
 
 ### Analisi Finanziarie
 - [Rothschild Family: Two Banks Fighting Over Clients | Bloomberg 2024](https://www.bloomberg.com/features/2024-rothschild-wealth/)
-- [Who Are the Rothschilds | Newsweek](https://www.newsweek.com/rothschild-family-companies-net-worth-1993369)
 
 ### Libri
 - Niall Ferguson, *The House of Rothschild* (1998) — Storia accademica definitiva
@@ -386,4 +338,4 @@ Queste teorie spesso riciclano tropi antisemiti storici e non hanno basi documen
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

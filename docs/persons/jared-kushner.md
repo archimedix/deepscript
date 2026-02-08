@@ -125,6 +125,7 @@
 | [PIF Saudi](../swf/pif-saudi.md) | Recipient $2B investment |
 | [Governo USA](../government/governo-usa.md) | Senior Advisor (2017-21) |
 | [Board of Peace](../agency/board-of-peace.md) | Founding Executive Member (2026-) |
+| [Chabad-Lubavitch](../foundation/chabad-lubavitch.md) | Famiglia Kushner donatori storici, frequenta TheSHUL DC |
 
 ### Persone
 
@@ -213,4 +214,4 @@ Critiche per il doppio ruolo:
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

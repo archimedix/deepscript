@@ -159,7 +159,7 @@ Home Sec.  (1977-81)
 
 | Entità | Connessione |
 |--------|-------------|
-| [Commissione Europea](../agency/european-commission.md) | Presidente (1977-1981) |
+| [European Commission](../agency/european-commission.md) | Presidente (1977-1981) |
 | [Governo UK](../government/governo-uk.md) | Chancellor (1967-1970), Home Sec. (1965-1967, 1974-1976) |
 | [Trilateral Commission](../forum/trilateral-commission.md) | Membro |
 | [Fabian Society](../think-tank/fabian-society.md) | Chairman (1957-1958) |

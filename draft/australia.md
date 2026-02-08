@@ -1,19 +1,20 @@
 Persone (15 nuove):
-  - anthony-albanese, jim-chalmers, penny-wong, richard-marles
+  - [v]anthony-albanese, [v]jim-chalmers, [v]penny-wong, [v]richard-marles
   - michele-bullock (+ affiliazione RBA, FSB)
-  - gina-rinehart (+ affiliazione Hancock Prospecting, IPA)
+  - [v]gina-rinehart (+ affiliazione Hancock Prospecting, IPA), [v]lang-hancock (Hancock Prospecting)
   - andrew-forrest (+ Fortescue)
-  - rupert-murdoch (+ News Corp, News Corp Australia)
+  - [v]rupert-murdoch (+ News Corp, News Corp Australia)
   - mike-cannon-brookes, scott-farquhar, melanie-perkins
   - harry-triguboff, anthony-pratt, clive-palmer
+  - [v]matt-comyn (CBA), [v]anthony-miller (Westpac), [v]steven-gregg (Westpac)
 
   Organizzazioni (25+ nuove):
-  - Banks: CBA, Westpac, NAB, RBA
-  - Companies: Hancock Prospecting, Fortescue, Mineralogy, Atlassian, Canva, Meriton, Visy, BHP, Rio Tinto
-  - Media: News Corp, News Corp Australia
-  - Intelligence: ASIO, ASIS, ASD
-  - Think Tanks: IPA, Minerals Council Australia
-  - Forum: AUKUS
+  - Banks: [v]CBA, [v]Westpac, NAB, RBA
+  - Companies: [v]Hancock Prospecting, Fortescue, Mineralogy, Atlassian, Canva, Meriton, Visy, BHP, Rio Tinto
+  - Media: [v]News Corp, News Corp Australia
+  - Intelligence: [v]ASIO, [v]ASIS, [v]ASD
+  - Think Tanks: [v]IPA, Minerals Council Australia
+  - Forum: [v]AUKUS
   - Asset Manager: Macquarie Group
 
   Sezioni principali del report

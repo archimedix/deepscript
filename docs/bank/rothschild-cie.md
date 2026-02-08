@@ -11,7 +11,8 @@
 | **Tipo** | Bank (Investment Banking) |
 | **Leadership** | Alexandre de Rothschild (Chairman, 2018-) |
 | **Origini** | De Rothschild Frères (1817) |
-| **Status** | Fusa in Rothschild & Co (2003) |
+| **Controllo** | Rothschild & Co Concordia SAS (via Rothschild & Co) |
+| **Status** | Fusa in Rothschild & Co (2003), delisting 2023 |
 
 ---
 
@@ -21,7 +22,8 @@
 |------|-----------|
 | **Origine** | 1812: James Mayer de Rothschild a Parigi |
 | **Prima banca** | 1817: MM. Rothschild Frères |
-| **Nazionalizzazione** | 1981: Mitterrand nazionalizza come Compagnie Européenne de Banque |
+| **Riforma** | 1967: da partnership a S.A., diventa Banque Rothschild |
+| **Nazionalizzazione** | 1982: Mitterrand nazionalizza come Compagnie Européenne de Banque |
 | **Ri-fondazione** | 1987: David de Rothschild ricrea Rothschild & Cie Banque |
 | **Fusione** | 2003: Merger con N M Rothschild & Sons (Londra) |
 
@@ -32,8 +34,13 @@
 | **1812** | James Mayer Rothschild si stabilisce a Parigi |
 | **1817** | Fondazione MM. Rothschild Frères |
 | **1822** | Titolo baronale dall'Imperatore Francesco I |
-| **1967** | Riforma: diventa Banque Rothschild (società per azioni) |
-| **1981** | Nazionalizzazione governo Mitterrand |
+| **1911** | Robert de Rothschild eredita 50% delle quote alla morte del padre Gustave |
+| **1946** | Dopo la guerra, Alain e Élie (figli di Robert) entrano come partner |
+| **1949** | Guy de Rothschild assume la presidenza |
+| **1953** | Georges Pompidou entra come direttore, poi DG (1956-1962) |
+| **1967** | Riforma bancaria: da partnership a S.A., diventa Banque Rothschild |
+| **1968** | Élie vice-chairman, Guy chairman della nuova Banque Rothschild |
+| **1982** | Nazionalizzazione governo Mitterrand (13 febbraio, 39 banche private) |
 | **1983** | David e Eric de Rothschild ripartono con P.O. Gestion |
 | **1986** | Permesso di usare il nome: Rothschild & Associés Banque |
 | **1987** | Creazione Rothschild & Cie Banque ($1M capitale, 3 dipendenti) |
@@ -45,7 +52,42 @@
 
 ---
 
+## Struttura Proprietaria
+
+```
+Rothschild & Co Concordia SAS
+         │ (96% dal 2023)
+         ▼
+    Rothschild & Co
+         │
+         ▼
+  Rothschild & Cie Banque
+```
+
+Delisting da Euronext Paris completato nell'ottobre 2023 (OPA a EUR 48/azione, valutazione EUR 3.7 miliardi).
+
+---
+
 ## Leadership
+
+### de Rothschild Frères (1817-1967)
+
+| Nome | Periodo | Ruolo |
+|------|---------|-------|
+| [James Mayer Rothschild](../persons/james-mayer-rothschild.md) | 1817-1868 | Fondatore |
+| [Robert de Rothschild](../persons/robert-de-rothschild.md) | 1911-1946 | Partner (50% shares) |
+| [Guy de Rothschild](../persons/guy-de-rothschild.md) | 1949-1967 | Chairman |
+| [Alain de Rothschild](../persons/alain-de-rothschild.md) | 1946-1967 | Partner |
+| [Élie de Rothschild](../persons/elie-de-rothschild.md) | 1946-1967 | Partner |
+| [Georges Pompidou](../persons/georges-pompidou.md) | 1953-1962 | Directeur Général |
+
+### Banque Rothschild (1967-1982)
+
+| Nome | Periodo | Ruolo |
+|------|---------|-------|
+| [Guy de Rothschild](../persons/guy-de-rothschild.md) | 1967-1982 | Chairman |
+| [Élie de Rothschild](../persons/elie-de-rothschild.md) | 1967-1982 | Vice-Chairman |
+| [Alain de Rothschild](../persons/alain-de-rothschild.md) | 1967-1982 | Partner |
 
 ### Fondatori 1987
 
@@ -81,6 +123,7 @@
 | [Rothschild & Co](rothschild-co.md) | Holding post-fusione 2003 |
 | [N M Rothschild & Sons](rothschild-co.md) | Ramo inglese, fusione 2003 |
 | [Famiglia Rothschild](../family/rothschild.md) | Proprietà familiare |
+| [Concordia SAS](../company/concordia-sas.md) | Holding familiare, controlling shareholder |
 
 ### Forum/Network
 
@@ -94,7 +137,7 @@
 
 La ri-fondazione del 1987 rappresenta un caso unico: una dinastia finanziaria che ricostruisce da zero dopo espropriazione statale. Con soli $1 milione e 3 dipendenti, David de Rothschild riportò la banca a competere con i maggiori player europei.
 
-Il passaggio di Macron (2008-2012) prima dell'ascesa politica esemplifica il pattern "revolving door" tra alta finanza e potere politico in Francia.
+Il pattern "revolving door" tra la banca e il potere politico francese e' ricorrente: Georges Pompidou (DG 1956-62, poi Presidente della Repubblica 1969-74), Emmanuel Macron (partner 2008-12, poi Presidente 2017-), Francois Perol (partner 2005-07, poi segretario generale dell'Eliseo).
 
 ---
 
@@ -107,4 +150,4 @@ Il passaggio di Macron (2008-2012) prima dell'ascesa politica esemplifica il pat
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Febbraio 2026*

@@ -716,7 +716,7 @@ Parallelo al reclutamento intelligence, gli USA importarono **1.600 scienziati n
 | Shin Bet | Agency | [Link](../docs/agency/shin-bet.md) |
 | BND | Agency | [Link](../docs/agency/bnd.md) |
 | Gehlen Organization | Agency (defunct) | [Link](../docs/agency/gehlen-organization.md) |
-| P2 | Forum (clandestino) | [Link](../docs/forum/p2.md) |
+| P2 | Forum (clandestino) | [Link](../docs/secret-society/p2.md) |
 | Democrazia Cristiana | Party | [Link](../docs/party/democrazia-cristiana.md) |
 
 ---

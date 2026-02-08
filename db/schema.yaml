@@ -40,6 +40,9 @@ org_sublabels:
   - SportsClub      # PSG, Manchester City, AC Milan
   - Automaker       # BMW, Toyota, Stellantis, Geely
   - Airline         # Delta, Lufthansa, Emirates
+  - SecretSociety   # Illuminati, Skull and Bones, P2, logge massoniche
+  - Sect            # Donme, movimenti cripto-religiosi
+  - ReligiousInstitution  # Consistoire, CRIF, rabbinati, seminari
 
 # =============================================================================
 # RELATIONSHIP TYPES
@@ -124,6 +127,9 @@ docs_path_mapping:
   SportsClub: sports-club
   Automaker: automaker
   Airline: airline
+  SecretSociety: secret-society
+  Sect: sect
+  ReligiousInstitution: religious-institution
 
 # =============================================================================
 # ENUMS
@@ -385,6 +391,21 @@ type_mapping:
   testata: Media
   gruppo: Media
   broadcaster: Media
+
+  # Secret Societies
+  secret-society: SecretSociety
+  secretsociety: SecretSociety
+  loggia: SecretSociety
+  ordine-segreto: SecretSociety
+
+  # Sects
+  sect: Sect
+  setta: Sect
+  movimento-religioso: Sect
+
+  # Religious Institutions
+  religious-institution: ReligiousInstitution
+  istituzione-religiosa: ReligiousInstitution
 
 # =============================================================================
 # ROLE MAPPING (legacy Italian roles -> English)
