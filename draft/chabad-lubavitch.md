@@ -104,3 +104,117 @@ ThinkTank {id: 'heritage-foundation'}
   - paul-bremer (advisor, Homeland Security Task Force 2001-02)
   - mark-esper (executive, Chief of Staff 1996-98)
   - robert-greenway (executive, Director Allison Center 2025-)
+
+
+  Governo / Knesset
+  ┌─────────────────┬─────────────────────────────┬──────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │      Nome       │            Ruolo            │                                        Connessione Chabad                                        │
+  ├─────────────────┼─────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Itamar Ben-Gvir │ Min. Sicurezza Nazionale    │ Alleanza politica crescente; discorso a 770 (HQ Chabad); candidati Chabad su liste Otzma Yehudit │
+  ├─────────────────┼─────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Amir Ohana      │ Speaker Knesset (Likud)     │ Visita notturna a 770; incontro con Krinsky                                                      │
+  ├─────────────────┼─────────────────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Yitzchak Navon  │ 5° Presidente ISR (1978-83) │ Amicizia con sindaco Kfar Chabad; familiari diventati chassidim                                  │
+  └─────────────────┴─────────────────────────────┴──────────────────────────────────────────────────────────────────────────────────────────────────┘
+  Intelligence / Militare
+  ┌────────────────────┬──────────────────────────────────┬─────────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │        Nome        │              Ruolo               │                                         Connessione Chabad                                          │
+  ├────────────────────┼──────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Yaakov Peri        │ Direttore Shin Bet (1988-94)     │ Incontro diretto col Rebbe nel 1988                                                                 │
+  ├────────────────────┼──────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Yehoshua Saguy     │ Direttore Aman (1979-83)         │ Facilitò la presenza Chabad nelle basi IDF                                                          │
+  ├────────────────────┼──────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Joseph Ciechanover │ DG Min. Esteri, attaché militare │ Organizzò centinaia di incontri privati tra leader israeliani e il Rebbe; canale diplomatico chiave │
+  └────────────────────┴──────────────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────────────────────┘
+  Business (già nel draft ma da rafforzare lato ISR)
+  ┌──────────────────┬───────────┬───────────────────────────────────────────────────────────────────────┐
+  │       Nome       │ Status DB │                                Da fare                                │
+  ├──────────────────┼───────────┼───────────────────────────────────────────────────────────────────────┤
+  │ Lev Leviev       │ Nel draft │ ~$50M donati a Chabad nell'ex-URSS; più grande donatore singolo       │
+  ├──────────────────┼───────────┼───────────────────────────────────────────────────────────────────────┤
+  │ Roman Abramovich │ Nel draft │ $500M+ a cause israeliane incluso $100M a organizzazione insediamenti │
+  └──────────────────┴───────────┴───────────────────────────────────────────────────────────────────────┘
+  ---
+  Istituzioni israeliane da aggiungere
+  ┌──────────────────┬─────────────────┬────────────────────────────────────────────────────────────────────────────────────────────────┐
+  │      Entità      │      Tipo       │                                           Rilevanza                                            │
+  ├──────────────────┼─────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ [v]Kfar Chabad      │ Insediamento/HQ │ Sede centrale Chabad in Israele, fondato 1949 con approvazione governativa                     │
+  ├──────────────────┼─────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ [v]Colel Chabad     │ Fondazione      │ Carità più antica in ISR (1788!); partnership ufficiale col governo sulla sicurezza alimentare │
+  ├──────────────────┼─────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Shalhavot Chabad │ Rete scolastica │ 10% delle nuove scuole in Israele; riceve fondi dal Min. Educazione                            │
+  ├──────────────────┼─────────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Chabad of Hebron │ Centro          │ Proprietà acquistata 1909; nel 2024 il gabinetto approvò nuovo quartiere su terreno Chabad     │
+  └──────────────────┴─────────────────┴────────────────────────────────────────────────────────────────────────────────────────────────┘
+[v] sholom-duchman (1956-)
+[v] schneur-zalman-of-liadi (1745-1812) il fondatore
+[v] levi-duchman (1993-) Chief Rabbi degli EAU
+zvi-kogan assassinato UAE
+menachem-hadad
+[v] dovber-schneuri (1773-1827)
+mordechai-dubin
+
+  ---
+  Pattern chiave mancanti nel draft
+
+  1. Corridoio intelligence: Peri (Shin Bet) e Saguy (Aman) con accesso diretto al Rebbe — il draft non copre affatto la dimensione sicurezza israeliana
+  2. Ciechanover come broker: figura cruciale che orchestrò incontri Rebbe-establishment per decenni
+  3. Integrazione statale: Colel Chabad riceve fondi pubblici, Shalhavot apre il 10% delle nuove scuole — livello di penetrazione istituzionale assente dal draft
+  4. Shift a destra: alleanza Ben-Gvir / Chabad nel 2024-25 è un cambio strategico significativo
+  5. Insediamenti: Hebron come nodo Chabad-settler movement
+
+[v]chabad-harvard
+[v]hirschy-zarchi Rabbi Hirschy Zarchi (1973, USA)
+[v]charles-kushner
+[v]larry-summers
+[v]alan-dershowitz : Avvocato di Epstein, Trump , mentore jared-kushner
+[v]bill-ackman (1966, USA) fondatore pershing-square
+
+[v]neri-oxman moglie di bill-ackman
+[v]joi-ito : mit-media-lab
+nicholas-negroponte
+
+[v]pershing-square Capital Management
+[v]ryan-israel
+[v]ben-hakim
+[v]carl-icahn
+[v]charles-korn
+[v]feroz-dewan
+[v]howard-hughes-holdings
+
+
+icahn-enterprises
+icahn-co
+/add family Icahn
+
+
+[v]rochel-pinson
+[v]dovber-pinson
+
+** EU
+[v]rabbinical-centre-europe fondata nel 2000
+[v]european-jewish-association
+[v]menachem-margolin Belgio
+[v]hillel-pewsner (1922-2008) Francia
+[v]Eurokosher
+[v]european-kosher
+RCE
+
+** Italia
+[v]kashrut EK
+[v]gershon-mendel-garelik (1932-2021): primo emissario italiano
+[v]avraham-hazan (Milano)
+[√]levi-hazan
+[v]menachem-kaplan
+Rav Igal Hazan
+Rav Moshe Shaikevitz
+Rav Yitzchak, Esther Belinov
+Rav Shmuel, Devorah Rodal
+Rav Yehoshua, Rachel Hadad
+Rav Mendel, Bela Gansburg
+[v]rami-banin (venezia)
+
+
+
+

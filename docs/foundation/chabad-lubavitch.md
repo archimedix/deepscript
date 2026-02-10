@@ -42,8 +42,8 @@
 
 | # | Titolo | Nome | Periodo |
 |---|--------|------|---------|
-| 1 | Alter Rebbe | Schneur Zalman di Liadi | 1775-1812 |
-| 2 | Mitteler Rebbe | Dovber Schneuri | 1812-1827 |
+| 1 | Alter Rebbe | [Schneur Zalman di Liadi](../persons/schneur-zalman-of-liadi.md) | 1775-1812 |
+| 2 | Mitteler Rebbe | [DovBer Schneuri](../persons/dovber-schneuri.md) | 1812-1827 | 
 | 3 | Tzemach Tzedek | Menachem Mendel Schneersohn | 1827-1866 |
 | 4 | Rebbe Maharash | Shmuel Schneersohn | 1866-1882 |
 | 5 | Rebbe Rashab | Shalom DovBer Schneersohn | 1882-1920 |
@@ -54,13 +54,18 @@
 
 | Anno | Evento |
 |------|--------|
-| **1775** | Fondazione a Liozna da Rabbi Schneur Zalman |
-| **1813** | Sede spostata a Lyubavichi (da cui "Lubavitch") |
+| **1775** | Fondazione a Liozna da [Rabbi Schneur Zalman](../persons/schneur-zalman-of-liadi.md) |
+| **1788** | Schneur Zalman fonda il [Colel Chabad](../foundation/colel-chabad.md): rete di raccolta fondi Europa → Terra Santa ottomana; piu' antica charity operante in Israele |
+| **1798** | Schneur Zalman arrestato per "tradimento" (fondi al Sultano ottomano); imprigionato 53 giorni nella Fortezza di Pietro e Paolo; liberato il 19 Kislev (festa Chabad) |
+| **1812** | Schneur Zalman sostiene lo Zar contro Napoleone; i suoi seguaci fungono da spie per l'esercito russo; muore durante la fuga dall'avanzata francese |
+| **1813** | [DovBer Schneuri](../persons/dovber-schneuri.md) (2° Rebbe) sposta la sede a Lyubavichi (da cui "Lubavitch"); vi restera' per 102 anni |
+| **1826** | DovBer arrestato per continuazione invio fondi Colel alla Palestina ottomana; liberato il 10 Kislev |
 | **1915** | 5° Rebbe lascia Lyubavichi durante la Prima Guerra Mondiale |
-| **1927** | 6° Rebbe arrestato dalla GPU sovietica, condannato a morte; pena commutata dopo pressioni internazionali; esilio a Kostroma; liberato il 12-13 Tammuz |
-| **1940** | 6° Rebbe salvato dalla Polonia nazista tramite intervento diplomatico USA; arriva a Brooklyn sulla SS Drottningholm; acquisto del 770 |
+| **1927** | 6° Rebbe arrestato dalla GPU sovietica, condannato a morte; pena commutata dopo pressioni di [Mordechai Dubin](../persons/mordechai-dubin.md) (parlamentare lettone); esilio a Kostroma; liberato il 12-13 Tammuz |
+| **1940** | [6° Rebbe salvato dalla Polonia nazista](../events/1939-rescue-warsaw.md) tramite cooperazione USA-Wehrmacht (Pell, Canaris, Bloch); arriva a Brooklyn sulla SS Drottningholm; acquisto del 770 |
 | **1941** | Fondazione [Machneh Israel](machneh-israel.md) (servizi sociali) e [Kehot Publication Society](kehot.md) (editrice); Schneerson nominato Executive Director e Editor-in-Chief |
-| **1950** | Morte del 6° Rebbe |
+| **1949** | Fondazione [Kfar Chabad](../religious-institution/kfar-chabad.md) in Israele (74 famiglie sopravvissuti; sede israeliana; replica 770) |
+| **1950** | Morte del 6° Rebbe; disputa successoria tra generi [Shmaryahu Gurary](../persons/shmaryahu-gurary.md) e [Menachem Schneerson](../persons/menachem-schneerson.md) |
 | **1951** | Menachem Mendel Schneerson diventa 7° Rebbe; inizio espansione globale |
 | **1958** | Primi shluchim in Italia (Milano) |
 | **1978** | Carter firma primo "Education Day USA"; Abraham Shemtov avvia National Menorah alla Casa Bianca |
@@ -76,9 +81,15 @@
 | **2000** | Berel Lazar nominato Chief Rabbi di Russia con supporto Putin; inaugurazione Moscow Jewish Community Center (Putin presente) |
 | **2008** | [Alexander Boroda](../persons/alexander-boroda.md) eletto President FJCR |
 | **2012** | Apertura Jewish Museum and Tolerance Center, Mosca (Boroda direttore; premio UNESCO); Lazar accompagna Putin al Muro del Pianto |
-| **2020** | Facilitazione marginale Abraham Accords via Shemtov DC |
+| **2015** | [Levi Duchman](../persons/levi-duchman.md) si trasferisce negli EAU come shliach; costruira' da zero l'infrastruttura ebraica nel Golfo |
+| **1997** | [Hirschy Zarchi](../persons/hirschy-zarchi.md) fonda [Chabad at Harvard](../foundation/chabad-harvard.md); [Alan Dershowitz](../persons/alan-dershowitz.md) faculty sponsor; da 1 studente al primo Shabbat a impero da ~$9M/anno |
+| **2020** | Facilitazione marginale Abraham Accords via Shemtov DC; Duchman nominato Chief Rabbi degli EAU |
 | **2022** | Guerra in Ucraina: Lazar chiede fine del conflitto ma non condanna la Russia |
-| **2024** | 25° anniversario FJCR (150+ comunita'); morte Moshe Kotlarsky (giugno); Mendy Kotlarsky successore |
+| **2023** | Apertura Moses Ben Maimon Synagogue nell'Abrahamic Family House, Abu Dhabi |
+| **2023 dic** | Post-7 ottobre: [Zarchi](../persons/hirschy-zarchi.md) e [Ackman](../persons/bill-ackman.md) organizzano screening "Bearing Witness" a Harvard; Zarchi chiede de-recognition PSC; [Dershowitz](../persons/alan-dershowitz.md) accende menorah in Harvard Yard |
+| **2024 gen** | Claudine Gay si dimette da presidente Harvard dopo campagna Ackman; Chabad Harvard al centro delle tensioni campus |
+| **2025 nov** | [Larry Summers](../persons/larry-summers.md) (ex-presidente Harvard, sostenitore Chabad Harvard) cade in disgrazia: scandalo Epstein → dimissioni da OpenAI, D.E. Shaw, Hamilton Project → ban a vita dall'AEA (dic 2025) |
+| **2024** | 25° anniversario FJCR (150+ comunita'); morte Moshe Kotlarsky (giugno); Mendy Kotlarsky successore; assassinio di [Zvi Kogan](../persons/zvi-kogan.md) negli EAU (novembre) |
 | **2025** | Shemtov testimonia al Senato USA; preghiera alla Casa Bianca; Ordine d'Onore a Lazar da Putin (aprile); nuove Chabad House a Mosca; Chabad House piu' alta del mondo nel business district Mosca (settembre); nessuna menorah pubblica a Mosca per Hanukkah |
 
 ---
@@ -191,6 +202,17 @@ Il pattern e' unico: un'organizzazione religiosa che funge da **canale diplomati
 **Crisi 2022-2025**: Dopo l'invasione dell'Ucraina, Lazar ha chiesto la fine del conflitto offrendo mediazione, ma senza condannare esplicitamente la Russia. Le sanzioni contro Abramovich hanno minacciato il pipeline di finanziamento FJCR (~70% da donazioni estere). A Hanukkah 2025, per la prima volta dal 1991, nessuna menorah pubblica a Piazza della Rivoluzione a Mosca. L'ex Chief Rabbi di Mosca Goldschmidt, emigrato nel 2022, dichiarato "agente straniero" nel 2026. Putin ha comunque conferito l'Ordine d'Onore a Lazar (aprile 2025). Boroda inserito nella lista Navalny "warmongers" (2022), primo rabbino nella lista.
 
 **Espansione 2024-2025**: Nonostante la crisi, FJCR celebra il 25° anniversario (2024, 150+ comunita' rappresentate). Nel 2025: nuova Chabad House a Mosca (gennaio); inaugurazione Chabad House piu' alta del mondo nel business district di Mosca (settembre); posa prima pietra centro ebraico monumentale a New Moscow (ottobre).
+
+### Connessione Europa: RCE e EJA (Bruxelles)
+
+Il terzo polo geopolitico Chabad — dopo Washington e Mosca — e' **Bruxelles**, dove il movimento opera un doppio binario istituzionale per influenzare le politiche UE:
+
+| Organizzazione | Funzione | Leadership |
+|----------------|----------|------------|
+| **[Rabbinical Centre of Europe](../religious-institution/rabbinical-centre-europe.md)** | Coordinamento 1.000+ rabbini comunitari | Fondatori: [Garelik](../persons/gershon-mendel-garelik.md), [Pewsner](../persons/hillel-pewsner.md), [Lazar](../persons/berel-lazar.md) (2000); Gen. Dir: [Margolin](../persons/menachem-margolin.md) (2006-) |
+| **[European Jewish Association](../foundation/european-jewish-association.md)** | Lobby politica presso UE | Fondatore/Chairman: [Margolin](../persons/menachem-margolin.md) (~2010-) |
+
+**Strategia**: l'RCE coordina i rabbini, l'EJA fa lobby. Margolin dirige entrambe. Aree di azione: antisemitismo, difesa shechita e circoncisione, sicurezza comunita', relazioni UE-Israele. 13 meetings documentati con commissari UE (2014-2024). Conferenze annuali con primi ministri e commissari (Amsterdam 2024, Cracovia 2024, Madrid 2025).
 
 ### Connessione Kushner-Trump
 
@@ -321,14 +343,20 @@ Chabad opera in Italia dal 1958, tra le piu' antiche presenze europee.
 
 | Anno | Evento |
 |------|--------|
-| **1958** | Primi shluchim: Rabbi Gershon Mendel e Bassie Garelik, Milano |
+| **1958** | Primi shluchim: Rabbi [Gershon Mendel](../persons/gershon-mendel-garelik.md) e Bassie Garelik, Milano |
 | **1976** | Rabbi Itzchak Hazan inviato a Roma |
+| **1979** | Riconoscimento legale Merkos Italia (decreto Presidente Pertini) |
 | **1980** | Lubavitch Youth Organization a Milano; centro Enzo Modena |
-| **1994** | Beith Menachem aperto a Milano |
+| **1994** | Beith Menachem aperto a Milano (replica del 770) |
+| **~1985** | Fondazione [Eurokosher](../company/eurokosher.md) a Milano (certificazione kosher; Martini, Campari, Lavazza, Illy) |
+| **~1993** | [Rami Banin](../persons/rami-banin.md) si stabilisce a Venezia: fonda Beit Chabad nel Ghetto Vecchio, Yeshiva Gedola (250+ diplomati nel mondo), ristorante kosher Gam Gam |
 | **1995** | Beit Chabad nel Ghetto di Venezia |
 | **2008** | Chabad Piazza Bologna, Roma (Rabbi Menachem Lazar) |
+| **2021** | Morte di Gershon Mendel Garelik (88 anni); genero [Avraham Hazan](../persons/avraham-hazan.md) prosegue l'opera a Milano |
 
 Centri attivi a Roma (piu' sedi), Milano, Venezia, Firenze e altre citta'. Berel Lazar stesso e' nato a Milano da genitori emissari Chabad.
+
+**Kashrut in Italia e Europa**: Garelik avvio' le certificazioni kosher in Italia negli anni '60, formalizzandole con [Eurokosher](../company/eurokosher.md) (~1985, Milano). Nel 2007 fondo' [European Kosher (EK)](../company/european-kosher.md) sotto l'RCE a Bruxelles come espansione paneuropea. Dopo la sua morte (2021), entrambe le agenzie sono dirette da [Avraham Hazan](../persons/avraham-hazan.md), con il figlio [Levi Hazan](../persons/levi-hazan.md) (Rabbinical Coordinator) e [Menachem Kaplan](../persons/menachem-kaplan.md) (Co-director).
 
 ---
 
@@ -336,6 +364,8 @@ Centri attivi a Roma (piu' sedi), Milano, Venezia, Firenze e altre citta'. Berel
 
 | Nome | Ruolo | Connessione |
 |------|-------|-------------|
+| [Schneur Zalman of Liadi](../persons/schneur-zalman-of-liadi.md) | founder | 1° Rebbe (1775-1812); fondatore del movimento e del [Colel Chabad](../foundation/colel-chabad.md) (1788); alleato dello Zar contro Napoleone |
+| [DovBer Schneuri](../persons/dovber-schneuri.md) | leader | 2° Rebbe (1813-1827); trasferi' la sede a Lubavitch; ~20 opere pubblicate |
 | [Yosef Yitzchak Schneersohn](../persons/yosef-yitzchak-schneersohn.md) | leader | 6° Rebbe (1920-1950); traghetto' il movimento dall'URSS a Brooklyn |
 | [Menachem Mendel Schneerson](../persons/menachem-schneerson.md) | leader | 7° Rebbe (1951-1994); trasformo' il movimento in rete globale |
 | [Abraham Shemtov](../persons/abraham-shemtov.md) | chairman | Agudas Chasidei Chabad; nato Mosca; inviato del Rebbe a Washington; prima menorah pubblica USA (1974) |
@@ -359,6 +389,23 @@ Centri attivi a Roma (piu' sedi), Milano, Venezia, Firenze e altre citta'. Berel
 | [Sami Rohr](../persons/sami-rohr.md) | member | Fondatore dinastia Rohr (1926-2012); rifugiato tedesco; $250M+ donati; 500+ shluchim stipendiati; restauro sinagoghe ex-URSS |
 | [George Rohr](../persons/george-rohr.md) | member | Figlio di Sami; co-fondatore NCH Capital ($3B+); principal funder Chabad on Campus (150+ Rohr Centers); Rohr Jewish Learning Institute |
 | [Moris Tabacinic](../persons/moris-tabacinic.md) | member | Genero di Sami (marito Lillian Rohr); co-fondatore NCH Capital; con moglie dedicato Chabad.org |
+| [Shmaryahu Gurary](../persons/shmaryahu-gurary.md) | executive | Genero del 6° Rebbe (sposo Chana, 1921); direttore rete yeshivot Tomchei Tmimim; candidato alternativo alla successione (1950) |
+| [Sholom Duchman](../persons/sholom-duchman.md) | executive | Director [Colel Chabad](../foundation/colel-chabad.md) dal 1978; nominato dal Rebbe a 22 anni; trasformo' la charity in rete da ~$100M/anno |
+| [Levi Duchman](../persons/levi-duchman.md) | member | Figlio di Sholom; Chief Rabbi EAU (2020-); primo rabbino capo residente negli Emirati; costruttore infrastruttura ebraica nel Golfo |
+| [Roman Abramovich](../persons/roman-abramovich.md) | donor | Co-fondatore FJCR; $500M+ a cause ebraiche; $5M sinagoga Marina Roscha |
+| [Hirschy Zarchi](../persons/hirschy-zarchi.md) | executive | Founding Director [Chabad at Harvard](../foundation/chabad-harvard.md) (1997-); Jewish Chaplain Harvard; mentore di Jared Kushner; "50 Most Influential Jews" (JP 2024) |
+| [Alan Dershowitz](../persons/alan-dershowitz.md) | member | Felix Frankfurter Professor Harvard Law (1967-2013); Faculty sponsor Harvard Friends of Chabad; avvocato Trump impeachment; sostenitore pubblico del movimento |
+| [Bill Ackman](../persons/bill-ackman.md) | donor | Fondatore [Pershing Square](../hedge-fund/pershing-square.md) (~$18-20B AUM); "special friend" di Zarchi; co-organizzatore screening Oct 7; architetto caduta Claudine Gay; donatore Harvard $26M+; con moglie [Neri Oxman](../persons/neri-oxman.md) (designer israeliana, ex-MIT) acquista 4.9% Tel Aviv Stock Exchange ($25M, gen 2024) |
+| [Larry Summers](../persons/larry-summers.md) | member | Ex-presidente Harvard (2001-2006, primo ebreo); partecipo a Shabbat 1000 Chabad Harvard (2006); sostenitore post-Oct 7; co-firmatario anti-BDS con Dershowitz; caduto in disgrazia nov 2025 (scandalo Epstein, ban AEA) |
+| [DovBer Pinson](../persons/dovber-pinson.md) | member | Rabbino e kabbalista (1971-); Rosh Yeshiva IYYUN; co-fondatore IYYUN/Chabad Center for Jewish Spirituality, Brooklyn (2012); 60+ libri su Kabbalah; autorita' contemporanea in mistica ebraica |
+| [Rochie Pinson](../persons/rochel-pinson.md) | member | Rebbetzin Chabad di 4a generazione (nata Nizza, Francia); co-fondatrice IYYUN Center; shlucha; autrice bestseller sulla challah |
+| [Gershon Mendel Garelik](../persons/gershon-mendel-garelik.md) | leader | Primo emissario in Italia (1959-2021); rabbino capo ashkenazita Milano; fondatore RCE, [Eurokosher](../company/eurokosher.md) (~1985) e [European Kosher](../company/european-kosher.md) (2007); nato Crimea 1932, morto Milano 2021 |
+| [Avraham Hazan](../persons/avraham-hazan.md) | executive | Genero di Garelik; emissario Milano dal 1979; co-direttore scuola Merkos; rabbino Ohel Yaakov dal 2008 |
+| [Hillel Pewsner](../persons/hillel-pewsner.md) | leader | Rabbino capo Lubavitch Parigi (~1947-2008); fondatore prima scuola ebraica post-bellica a Parigi (1965); co-fondatore RCE; nato Minsk 1922, morto 2008 |
+| [Menachem Margolin](../persons/menachem-margolin.md) | executive | General Director [RCE](../religious-institution/rabbinical-centre-europe.md) (2006-); fondatore e Chairman [EJA](../foundation/european-jewish-association.md); principale lobbista ebraico presso istituzioni UE; nato Israele, basato Bruxelles |
+| [Levi Hazan](../persons/levi-hazan.md) | executive | Figlio di Avraham; Rabbinical Coordinator [Eurokosher](../company/eurokosher.md); rabbino sinagoga Hamakom Milano; direttore Chabad Youth Organization |
+| [Menachem Kaplan](../persons/menachem-kaplan.md) | executive | Co-director [Eurokosher](../company/eurokosher.md) |
+| [Rami Banin](../persons/rami-banin.md) | member | Shaliach Venezia (~1993-); fondatore Beit Chabad Ghetto Vecchio, Yeshiva Gedola (250+ diplomati), ristorante Gam Gam |
 
 ### Famiglie correlate
 
@@ -385,13 +432,22 @@ Centri attivi a Roma (piu' sedi), Milano, Venezia, Firenze e altre citta'. Berel
 | [NCH Capital](../company/nch-capital.md) | Veicolo investimento famiglia Rohr; $3B+ AUM; Agroprosperis (290K ha Ucraina); AgroTerra (Russia) |
 | [AVI CHAI Foundation](avi-chai-foundation.md) | Fondazione Zalman Bernstein ($1.2B grants, chiusa 2019); George Rohr nel Board of Trustees; connessione Wall Street-filantropia ebraica |
 | [Tikvah Fund](tikvah-fund.md) | Fondazione neoconservatrice (1992, stesso fondatore Bernstein di AVI CHAI); $86M asset; George Rohr nel board; Chairman Elliott Abrams (2024-); Chairman Emeritus Roger Hertog; $10.4M grant NEH 2025 |
-| [Governo Israele](../government/governo-israele.md) | Education Day; supporto blocco religioso |
+| [Colel Chabad](../foundation/colel-chabad.md) | Braccio assistenziale in Israele (1788); piu' antica charity operante in Israele; 26.130 famiglie/mese; 22 mense; ~$100M/anno; Director [Sholom Duchman](../persons/sholom-duchman.md) |
+| [Chabad at Harvard](../foundation/chabad-harvard.md) | Centro Chabad a Harvard (1997); Director [Hirschy Zarchi](../persons/hirschy-zarchi.md); budget ~$9M/anno; 5.000+ persone/anno; epicentro tensioni campus post-Oct 7; Faculty sponsor [Dershowitz](../persons/alan-dershowitz.md); donor [Ackman](../persons/bill-ackman.md) |
+| [Pershing Square](../hedge-fund/pershing-square.md) | Hedge fund di [Bill Ackman](../persons/bill-ackman.md) (~$18-20B AUM); donatore Chabad Harvard; $10M investimento in X (Musk); COVID trade $27M→$2.6B (2020); 47% Howard Hughes Holdings; trasformazione in holding stile Berkshire (2025) |
+| [Kfar Chabad](../religious-institution/kfar-chabad.md) | Sede israeliana (1949); ~6.000 abitanti; replica 770; ~1.500 shluchim prodotti; Yeshiva Tomchei Tmimim |
+| [Rabbinical Centre of Europe](../religious-institution/rabbinical-centre-europe.md) | Rete di 1.000+ rabbini comunitari in Europa (2000); fondatori Garelik, Pewsner, Lazar; General Director Margolin; sede Bruxelles |
+| [European Jewish Association](../foundation/european-jewish-association.md) | Spin-off politico dell'RCE (~2010); lobby ebraica presso UE; Chairman Margolin; conferenze annuali con capi di stato; 13 meetings documentati con commissari UE |
+| [Eurokosher](../company/eurokosher.md) | Agenzia certificazione kosher (Milano, ~1985); fondata da Garelik; certifica Martini, Campari, Lavazza, Illy, Rio Mare; diretta da Avraham Hazan |
+| [European Kosher (EK)](../company/european-kosher.md) | Agenzia certificazione kosher paneuropea (Bruxelles, 2007); fondata da Garelik sotto RCE; riconosciuta dal Rabbinato Capo d'Israele |
+| [Governo Israele](../government/governo-israele.md) | Education Day; supporto blocco religioso; partnership con Kfar Chabad dalla fondazione |
 
 ### Eventi
 
 | Evento | Connessione |
 |--------|-------------|
 | [Kinus Hashluchim](../events/kinus-hashluchim.md) | Conferenza annuale emissari (dal 1983); 6.500 partecipanti da 100+ paesi; organizzata da Merkos; Director: Moshe Kotlarsky (1987-2024), Mendy Kotlarsky (2024-) |
+| [Salvataggio del 6° Rebbe da Varsavia](../events/1939-rescue-warsaw.md) | Cooperazione USA-Wehrmacht (dic 1939 - mar 1940); catena Pell-Geist-Wohlthat-Canaris-Bloch; 3.500+ documenti State Dept |
 
 ---
 

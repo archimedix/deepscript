@@ -110,13 +110,35 @@ Indagine Wyden (2025): John Duffy, ex CEO Private Banking, consiglio' Epstein su
 | Istituzione | Donazioni | Note |
 |-------------|-----------|------|
 | [Harvard](../university/harvard.md) | $8.9M | 1998-2007, Program for Evolutionary Dynamics, visite campus dopo condanna 2008 |
-| [MIT](../university/mit.md) Media Lab | Milioni | Nascosti come "anonimi", scandalo [Joichi Ito](joichi-ito.md) |
+| [MIT](../university/mit.md) Media Lab | $850K+ diretti, $7.5M+ intermediati | 10 donazioni (2002-2017); concealed come "anonimi"; scandalo [Joi Ito](joi-ito.md) |
+
+### Lo Scandalo MIT Media Lab (2019)
+
+Epstein utilizzo' il [MIT Media Lab](../university/mit.md) come punto di penetrazione nel mondo accademico-tecnologico, tramite il direttore [Joi Ito](joi-ito.md):
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Donazioni dirette** | $525K a MIT Media Lab via Ito; $850K+ totali documentati (10 donazioni, 2002-2017) |
+| **Donazioni intermediate** | Epstein canalizzo' almeno $7.5M da terzi: [Bill Gates](bill-gates.md) ($2M anonimo), [Leon Black](leon-black.md), altri |
+| **Investimenti personali** | $1.2M nei fondi personali di Ito (Neoteny Labs) |
+| **Co-proprieta'** | Epstein e Ito co-possedevano **Kyara Investments III** (investi' $500K in Blockstream con aiuto di [Reid Hoffman](reid-hoffman.md)) |
+| **Classificazione MIT** | Epstein era catalogato come **"disqualified" donor** nel database MIT |
+| **Occultamento** | Ito registrava le donazioni come **"anonime"**; lo staff chiamava Epstein **"Voldemort"** internamente |
+| **Primo contatto** | Introdotto da [Nicholas Negroponte](nicholas-negroponte.md) (fondatore Media Lab), che consiglio' a Ito di accettare i fondi |
+| **[Neri Oxman](neri-oxman.md)** | $125K donati al suo Mediated Matter Group (2015, 2017); Ito la presento' a Epstein (ott 2015); cleared da Goodwin Procter |
+| **[Seth Lloyd](seth-lloyd.md)** | Prof MIT; nascose la fonte dei fondi Epstein; ricevette $60K regalo personale; messo in aspettativa |
+| **Chi sapeva** | Senior administrators R. Gregory Morgan, Jeffrey Newton, Israel Ruiz conoscevano il criminal record di Epstein |
+
+**L'esposizione** (settembre 2019):
+- **6 set 2019**: Ronan Farrow pubblica su The New Yorker l'expose con prove email del sistema di occultamento
+- **7 set 2019**: Ito si dimette da direttore MIT Media Lab, dal board del New York Times, Knight Foundation, MacArthur Foundation
+- **Gen 2020**: Report Goodwin Procter (commissionato da MIT): 610.000+ email esaminate; documenta il sistema; Neri Oxman cleared; Seth Lloyd sospeso
 
 ### Larry Summers
 
-[Larry Summers](larry-summers.md): presidente Harvard, membro Trilateral Commission e CFR come Epstein. Contatti continuati per un decennio dopo il plea del 2008. Nel 2014, Epstein lo nomino' esecutore alternativo del testamento. Epstein lo riferi' a JPMorgan come potenziale cliente.
+[Larry Summers](larry-summers.md): presidente Harvard, membro Trilateral Commission e CFR come Epstein. Contatti continuati per un decennio dopo il plea del 2008. Nel 2014, Epstein lo nomino' esecutore alternativo del testamento. Epstein lo riferi' a JPMorgan come potenziale cliente. Overlap con Ito nel circuito crypto (MIT Digital Currency Initiative).
 
-**Conseguenze 2025-2026**: Harvard riapri' indagine, Summers lascio' l'insegnamento, espulso dall'American Economic Association, dimesso dal board di OpenAI.
+**Conseguenze 2025-2026**: House Oversight rilascia 20.000+ pagine (12 nov 2025); Summers "deeply ashamed" (17 nov); lascia Hamilton Project, Yale, CAP, Bloomberg (18 nov); dimesso da OpenAI, D.E. Shaw, Harvard, NYT (19 nov); **ban a vita dall'American Economic Association** (2 dic 2025).
 
 ---
 
@@ -243,7 +265,7 @@ Partner e principale complice dal 1994 al 2019. Figlia di [Robert Maxwell](rober
 | [Southern Trust Co.](../company/southern-trust.md) | Founder, USVI shell |
 | [Wexner Foundation](../foundation/wexner-foundation.md) | Board 1990-2007 |
 | [Harvard](../university/harvard.md) | Donor $8.9M |
-| [MIT](../university/mit.md) | Donor Media Lab |
+| [MIT](../university/mit.md) | Donor Media Lab ($850K+ diretti, $7.5M+ intermediati) |
 | [Trilateral Commission](../forum/trilateral-commission.md) | Member ~2002 |
 | [CFR](../forum/cfr.md) | Donor 1990s-2008 |
 | [Dalton School](../university/dalton-school.md) | Teacher 1974-1976 |
@@ -276,7 +298,11 @@ Partner e principale complice dal 1994 al 2019. Figlia di [Robert Maxwell](rober
 | [Robert Maxwell](robert-maxwell.md) | Padre Ghislaine, MI6/Mossad |
 | [Donald Barr](donald-barr.md) | Headmaster Dalton, lo assunse |
 | [Jamie Dimon](jamie-dimon.md) | CEO JPMorgan, supervisione |
-| [Reid Hoffman](reid-hoffman.md) | Voli insieme |
+| [Joi Ito](joi-ito.md) | Direttore MIT Media Lab; $525K donazioni + $1.2M investimenti personali; co-owned Kyara Investments III; concealed donazioni; dimesso set 2019 |
+| [Neri Oxman](neri-oxman.md) | Prof MIT Media Lab; $125K donazioni al Mediated Matter Group (2015-17) via Ito; cleared da Goodwin Procter |
+| [Nicholas Negroponte](nicholas-negroponte.md) | Fondatore MIT Media Lab; consiglio' a Ito di accettare fondi Epstein; difese pubblicamente la decisione |
+| [Seth Lloyd](seth-lloyd.md) | Prof MIT; nascose fonte fondi; $60K regalo personale; sospeso |
+| [Reid Hoffman](reid-hoffman.md) | Voli insieme; aiuto' ad aumentare investimento Ito-Epstein in Blockstream da $50K a $500K |
 
 ---
 
@@ -300,12 +326,16 @@ Partner e principale complice dal 1994 al 2019. Figlia di [Robert Maxwell](rober
 | **2003** | Apre conti JPMorgan |
 | **2005** | Inizio indagine Palm Beach |
 | **2008** | Condanna Florida, 13 mesi |
+| **2002-17** | 10 donazioni a MIT ($850K+ diretti); canalizzo' $7.5M+ da Gates, Black, altri |
 | **2011-14** | Meetings con Bill Gates |
 | **2012-17** | Consulenze per Leon Black ($170M) |
 | **2013** | Passa a Deutsche Bank, 40+ conti |
 | **2014-19** | 100+ email con Kathryn Ruemmler |
 | **2019 Lug** | Arresto federale |
 | **2019 Ago** | Morte in cella |
+| **2019 Set 6** | Ronan Farrow (New Yorker) espone sistema di occultamento donazioni MIT Media Lab |
+| **2019 Set 7** | Joi Ito si dimette da MIT Media Lab, NYT board, Knight Foundation, MacArthur Foundation |
+| **2020 Gen** | Report Goodwin Procter (MIT): 610.000+ email; documenta sistema occultamento; Oxman cleared; Seth Lloyd sospeso |
 | **2021** | Condanna Maxwell |
 | **2025 Nov** | Epstein Files Transparency Act |
 | **2025 Dic** | Prima release DOJ |
