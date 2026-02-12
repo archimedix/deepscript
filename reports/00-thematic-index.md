@@ -64,6 +64,7 @@ Report che analizzano forum transnazionali, reti di coordinamento elite, e pipel
 | [WEF Young Global Leaders](wef-young-global-leaders.md) | 1992-2025 | Programma YGL e impatto |
 | [Revolving Door](revolving-door-ex-leaders.md) | 1995-2024 | Transizioni governo-privato |
 | [Transatlantic Forums](transatlantic-forums-europe-influence.md) | 1949-2025 | NATO, Bilderberg, Trilaterale, WEF, Atlantic Council |
+| [Accordi di Abramo](abraham-accords.md) | 2020-2026 | Normalizzazione arabo-israeliana, Kushner, AAPI, quid pro quo |
 
 **Eventi correlati:**
 - [Fondazione Trilaterale (1973)](../docs/events/1973-fondazione-trilaterale.md)
@@ -142,6 +143,11 @@ Report che analizzano specifici settori economici.
 |--------|---------|-------|
 | [Military-Industrial Complex](military-industrial-complex.md) | 1945-2025 | MIC, revolving door, contractors |
 
+### Infrastruttura
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Canale di Suez](suez-canal.md) | 1833-1956 | Rete saint-simoniana, colonialismo infrastrutturale, Nasser |
+
 ### Energia
 | Report | Periodo | Focus |
 |--------|---------|-------|
@@ -168,7 +174,9 @@ Report che analizzano la costruzione di movimenti politici, stati e ideologie.
 | [Radici del Potere Occulto](israel-roots.md) | 1626-1830 | Sabbatianesimo, Frankismo, Illuminati |
 | [Sionismo: Da Movimento a Stato](zionism-state-building.md) | 1897-1948 | Herzl, Balfour, Ben-Gurion |
 | [Nascita del Fascismo](fascismo-nascita-finanziamento.md) | 1914-1926 | Finanziatori internazionali |
+| [Origini del Comunismo](comunismo-origini.md) | 1796-1943 | Marx, Engels, Internazionali, scissioni, Comintern |
 | [Technocracy Genealogy](technocracy-genealogy.md) | 1933-2025 | Da Technocracy Inc. a DOGE via Musk |
+| [Accordi di Abramo](abraham-accords.md) | 2020-2026 | Normalizzazione arabo-israeliana, bypassa questione palestinese |
 
 **Eventi correlati:**
 - [Conversione di Sabbatai Zvi (1666)](../docs/events/1666-conversione-sabbatai-zvi.md)
@@ -176,6 +184,8 @@ Report che analizzano la costruzione di movimenti politici, stati e ideologie.
 - [Dichiarazione Balfour (1917)](../docs/events/1917-balfour-declaration.md)
 - [Accordi di Oslo (1993)](../docs/events/1993-oslo-accords.md)
 - [Assassinio Rabin (1995)](../docs/events/1995-assassinio-rabin.md)
+- [Abraham Accords UAE (2020)](../docs/events/2020-abraham-accords-uae.md)
+- [Abraham Accords Bahrain (2020)](../docs/events/2020-abraham-accords-bahrain.md)
 
 **Figure chiave processo di pace:**
 - [Yitzhak Rabin](../docs/persons/yitzhak-rabin.md) - PM israeliano, Nobel 1994
@@ -334,7 +344,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 82 |
+| **Report totali** | 83 |
 | **Power Map geografici** | 45+ |
 | **Report tematici/settoriali** | 31+ |
 | **Periodo coperto** | 1626-2025 |

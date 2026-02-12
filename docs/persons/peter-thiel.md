@@ -10,7 +10,8 @@
 | **Nazionalita'** | Tedesco-Americano, Neozelandese |
 | **Famiglia** | Genitori tedeschi, emigrati in USA |
 | **Orientamento** | Dichiaratamente gay (dal 2016) |
-| **Patrimonio** | ~$10 miliardi |
+| **Nazionalita'** | DEU-USA-NZL (cittadinanza NZ dal 2011) |
+| **Patrimonio** | ~$14.2 miliardi (2026, trainato da Palantir) |
 | **Residenza** | Los Angeles, Miami |
 
 ---
@@ -72,8 +73,11 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | **Fondazione** | 2004, con Alex Karp |
 | **Finanziamento iniziale** | CIA (In-Q-Tel) |
 | **Clienti** | CIA, NSA, FBI, ICE, militari |
-| **Valutazione** | ~$50 miliardi (2024) |
-| **Controversie** | Sorveglianza, immigrazione |
+| **Valutazione** | ~$300 miliardi (Feb 2026), +135% nel 2025 |
+| **Revenue FY2025** | $4.475B (+56% YoY), GAAP profit $1.8B |
+| **Revenue FY2026 guidance** | $7.18-7.20B (+60%+) |
+| **Contratti cumulativi** | $12B+ (Army, DoD, Treasury) |
+| **Controversie** | Sorveglianza, immigrazione, AI battlefield |
 
 > Palantir e' di fatto il braccio di data analytics dell'intelligence USA.
 
@@ -200,8 +204,10 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | Asset | Valore |
 |-------|--------|
 | **Founders Fund** | ~$12B AUM |
-| **Palantir stake** | Multi-miliardario |
-| **Investimenti vari** | Diversificati |
+| **Palantir stake** | Multi-miliardario (Palantir val. ~$300B) |
+| **Thiel Capital** | Family office (Seb. Kurz global strategist) |
+| **Clarium Capital** | Hedge fund |
+| **FF → Anduril** | $1B in Series G (Jun 2025), piu' grande investimento FF |
 
 ### Potere sull'Intelligence
 
@@ -299,7 +305,11 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | **2021** | Porta Vance a Mar-a-Lago |
 | **2022** | $15M per Vance senato |
 | **2024** | Vance diventa VP |
-| **2024** | Bilderberg |
+| **2024** | Bilderberg Madrid |
+| **2025** | Palantir +135%, val. ~$300B, revenue $4.475B |
+| **2025** | Founders Fund investe $1B in Anduril (Series G) |
+| **2025** | 12+ persone legate a Thiel nel governo Trump |
+| **2025** | Palantir contratto DoD AI battlefield +$795M |
 
 ---
 
@@ -333,7 +343,10 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 - [Bloomberg - Thiel's Trump Administration Connections](https://www.bloomberg.com/features/2025-peter-thiel-trump-administration-connections/)
 - [Washington Post - Thiel Network](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/)
 - [InfluenceWatch - Peter Thiel](https://www.influencewatch.org/)
+- [NPR - How Palantir is rising in the Trump era](https://www.npr.org/2025/05/01/nx-s1-5372776/palantir-tech-contracts-trump)
+- [CNBC - Palantir's astronomical growth in 3 charts](https://www.cnbc.com/2025/08/14/palantir-ai-charts-revenue.html)
+- [Revolving Door Project - Oligarchs and Trump: Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/)
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

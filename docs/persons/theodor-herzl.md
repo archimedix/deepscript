@@ -18,8 +18,9 @@
 
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
-| **1878** | Universita' di Vienna | Studi legge |
-| **1884** | Abilitazione forense | Avvocato |
+| **1878-1884** | [Universita' di Vienna](../university/university-of-vienna.md) | Laurea in Legge |
+
+Membro della Burschenschaft Albia (fratellanza tedesca nazionalista, motto: "Ehre, Freiheit, Vaterland"). Dimissioni per protesta contro l'antisemitismo della fratellanza.
 
 ---
 
@@ -30,10 +31,10 @@
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
 | **1884** | Avvocato | Vienna |
-| **1891-95** | Corrispondente Parigi | Neue Freie Presse |
-| **1895+** | Feuilleton Editor | Neue Freie Presse, Vienna |
+| **1891-95** | Corrispondente Parigi | [Neue Freie Presse](../media/neue-freie-presse.md) |
+| **1895-1904** | Feuilleton Editor | [Neue Freie Presse](../media/neue-freie-presse.md) |
 | **1896** | Autore | Der Judenstaat |
-| **1897-1904** | Fondatore e Presidente | Organizzazione Sionista |
+| **1897-1904** | Fondatore e Presidente | [World Zionist Organization](../agency/world-zionist-organization.md) |
 
 ### Opere Principali
 
@@ -55,34 +56,49 @@
 
 ---
 
+## Diplomazia e Negoziati
+
+### Negoziati con l'Impero Ottomano
+
+| Anno | Interlocutore | Risultato |
+|------|---------------|-----------|
+| **1896** | Sultano Abdul Hamid II (via Nevlinski) | Rifiuto: offerta di 20M sterline per charter colonizzazione Palestina respinta |
+| **1898** | Kaiser Guglielmo II (Gerusalemme) | Incontro senza impegni concreti |
+| **1901** | Sultano Abdul Hamid II (direttamente) | Nuova udienza, nessun risultato |
+| **1903** | Governo britannico | Uganda Plan: offerta di territorio in Africa orientale |
+
+### Rapporti con i banchieri
+
+| Persona | Posizione |
+|---------|-----------|
+| Baron Edmond de Rothschild | Rifiuto': Der Judenstaat era originariamente un "Discorso ai Rothschild"; Rothschild temeva minacce ai propri insediamenti in Palestina |
+| Baron Maurice de Hirsch | Apprezzo' la visione ma rifiuto' il supporto finanziario; considerava il sionismo non praticabile |
+
+---
+
 ## Rete di Connessioni
 
 ### Mappa delle Appartenenze
 
 ```
-                   HERZL
-                     |
-        +------------+------------+
-        |                         |
-        v                         v
-    Neue Freie               World Zionist
-      Presse                 Organization
-   (1891-1904)              (1897-1904)
-                                  |
-                         +--------+--------+
-                         |                 |
-                         v                 v
-                   Jewish Agency     Tutti i successivi
-                    (1929)           movimenti sionisti
+                      HERZL
+                        |
+        +---------------+---------------+
+        |               |               |
+        v               v               v
+   Univ. Vienna    Neue Freie       World Zionist
+   (1878-1884)      Presse          Organization
+                  (1891-1904)       (1897-1904)
 ```
 
 ### Collaboratori Chiave
 
 | Nome | Connessione |
 |------|-------------|
-| Max Nordau | Co-fondatore WZO, Vice Presidente |
+| [Max Nordau](max-nordau.md) | Co-fondatore WZO, Vice Presidente |
 | David Wolffsohn | Successore come Presidente WZO |
 | Nathan Birnbaum | Conio' il termine "Zionismo" (1890) |
+| [Nahum Sokolow](nahum-sokolow.md) | Membro Esecutivo WZO, futuro presidente |
 
 ---
 
@@ -133,14 +149,18 @@ Esattamente 50 anni dopo, nel 1947, l'ONU voto' per la creazione di Israele.
 
 | Entita' | Connessione |
 |---------|-------------|
-| [World Zionist Organization](../agency/world-zionist-organization.md) | Fondatore 1897 |
+| [World Zionist Organization](../agency/world-zionist-organization.md) | Fondatore e presidente 1897-1904 |
+| [Universita' di Vienna](../university/university-of-vienna.md) | Laurea in Legge 1884 |
+| [Neue Freie Presse](../media/neue-freie-presse.md) | Giornalista/Editor 1891-1904 |
 
-### Persone (successori)
+### Persone
 
 | Persona | Relazione |
 |---------|-----------|
-| [Chaim Weizmann](chaim-weizmann.md) | Successore ideologico |
-| [David Ben-Gurion](ben-gurion.md) | Realizzatore dello Stato |
+| [Max Nordau](max-nordau.md) | Co-fondatore WZO |
+| [Nahum Sokolow](nahum-sokolow.md) | Collaboratore, Esecutivo WZO |
+| [Chaim Weizmann](chaim-weizmann.md) | Successore alla guida della WZO |
+| [David Ben-Gurion](david-ben-gurion.md) | Realizzatore dello Stato |
 
 ---
 
@@ -166,9 +186,8 @@ Esattamente 50 anni dopo, nel 1947, l'ONU voto' per la creazione di Israele.
 
 ## Domande Aperte
 
-- [ ] Rapporti con banchieri Rothschild
-- [ ] Negoziati con Impero Ottomano dettagli
-- [ ] Uganda Plan: chi supportava, chi opponeva
+- [ ] Uganda Plan: dettagli su chi supportava e chi si opponeva all'interno del movimento
+- [ ] Dettagli sull'incontro con Papa Pio X (1904)
 
 ---
 
@@ -189,4 +208,4 @@ Esattamente 50 anni dopo, nel 1947, l'ONU voto' per la creazione di Israele.
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

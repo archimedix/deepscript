@@ -240,6 +240,8 @@ organizations:
       from: 2021
       to: 2025
       note: Co-Founder
+    - person: sebastian-kurz
+      role: advisor
     - person: haim-saban
       role: founder
       from: 2021
@@ -253,6 +255,9 @@ organizations:
       role: executive
       from: 2021
       note: CEO
+    - person: david-friedman
+      role: advisor
+      note: Key architect of the Abraham Accords
     - person: avi-berkowitz
       role: founder
       from: 2021
@@ -275,6 +280,26 @@ organizations:
       role: founder
       from: 2021
       note: Co-Founder; Israeli Foreign Minister
+    - person: lalla-joumala
+      role: advisor
+    - person: michael-herzog
+      role: advisor
+    - person: cassidy-luna
+      role: executive
+      note: Treasurer/Director; also Chief of Staff at Affinity Partners
+    - person: asher-fredman
+      role: executive
+    - person: david-aaronson
+      role: executive
+      note: Deputy Director for Israel
+    - person: hannah-zakaria
+      role: executive
+      from: 2021
+      to: 2025
+      note: Director of Operations
+    - person: charlton-boyd
+      role: board
+      note: Secretary/Director
   abrdn:
     name: Abrdn
     type: assetmanager
@@ -1119,6 +1144,16 @@ organizations:
       role: partner
       from: 2023
       note: Head of AI practice
+    - person: avi-berkowitz
+      role: partner
+      from: 2021
+      note: Partner, investment team focusing on Middle East
+    - person: miguel-correa
+      role: partner
+      from: 2022
+      note: Senior Partner, Geostrategy/Geopolitics
+    - person: cassidy-luna
+      role: executive
     - org: pif-saudi
       role: anchor-investor
       from: 2021
@@ -1283,6 +1318,33 @@ organizations:
       note: President, Vice Chairman
     - org: central-huijin
       share: 40.14
+  ahdut-haavoda:
+    name: Ahdut HaAvoda
+    type: party
+    founded: 1919
+    headquarters: Palestine
+    status: dissolved
+    sector: politics
+    note: Scissione centrist/destra di Poalei Zion; co-fondatrice Histadrut 1920; fusa con Hapoel Hatzair in Mapai 1930
+    stakeholders:
+    - person: david-ben-gurion
+      role: founder
+      from: 1919
+      to: 1930
+      note: Co-fondatore e leader; guido fusione in Mapai
+    - person: yitzhak-ben-zvi
+      role: founder
+      from: 1919
+      to: 1930
+    - person: berl-katznelson
+      role: founder
+      from: 1919
+      to: 1930
+      note: Co-fondatore, ideologo
+    - org: poalei-zion
+      role: membership
+      from: 1919
+      note: Scissione Right di Poalei Zion
   ahold-delhaize:
     name: Ahold Delhaize
     type: company
@@ -1489,6 +1551,9 @@ organizations:
       from: 1990
       to: 1999
       note: Staffer
+    - person: miriam-adelson
+      role: donor
+      note: $5M+ donated; major supporter
   air-berlin:
     name: Air Berlin
     type: airline
@@ -1969,6 +2034,15 @@ organizations:
     - org: mumtalakat
       role: majority
       share: 69.38%
+  albert-einstein-college-of-medicine:
+    name: Albert Einstein College of Medicine
+    type: university
+    headquarters: Bronx, USA
+    status: active
+    stakeholders:
+    - person: baruch-goldstein
+      role: alumni
+      note: MD 1981
   alcatel-lucent:
     name: Alcatel-Lucent
     type: company
@@ -2215,6 +2289,57 @@ organizations:
       role: partner
       from: 1993
       note: Risk Arbitrage Desk trader
+  alliance-israelite-universelle:
+    name: Alliance Israélite Universelle
+    type: foundation
+    founded: 1860
+    headquarters: Paris, France
+    status: active
+    note: 'Prima organizzazione ebraica internazionale (1860). Rete scuole in Impero Ottomano, Nord Africa, Medio Oriente.
+      100+ scuole al 1900. Fondò Mikveh Israel (1870, prima scuola agricola ebraica in Palestina). Anti-sionista fino al 1945.
+      Motto: Kol Yisrael Arevim Zeh Bazeh.'
+    stakeholders:
+    - person: maurice-de-hirsch
+      role: patron
+      from: 1873
+      to: 1896
+      note: Donò 1M franchi (1873), copri deficit annuali
+    - person: narcisse-leven
+      role: leader
+      from: 1863
+      to: 1915
+      note: Segretario generale (1863-83), Vice-presidente (1883-98), Presidente (1898-1915)
+    - person: adolphe-cremieux
+      role: leader
+      from: 1863
+      to: 1880
+      note: Presidente
+    - person: charles-netter
+      role: founder
+      from: 1860
+      to: 1882
+      note: Co-fondatore, fondò Mikveh Israel (1870)
+    - person: moses-montefiore
+      role: member
+      from: 1860
+      note: Sostenitore. Precursore e ispiratore della missione AIU attraverso le sue campagne diplomatiche
+    - person: aristide-astruc
+      role: founder
+      from: 1860
+    - person: isidore-cahen
+      role: founder
+      from: 1860
+    - person: jules-carvallo
+      role: founder
+      from: 1860
+    - person: eugene-manuel
+      role: founder
+      from: 1860
+    - person: zadoc-kahn
+      role: leader
+      from: 1889
+      to: 1905
+      note: Presidente onorario
   alliancebernstein:
     name: AllianceBernstein
     type: assetmanager
@@ -2470,6 +2595,25 @@ organizations:
       from: 1957
       to: 1959
       note: Counter-intelligence analyst, translator
+  amana:
+    name: Amana
+    type: foundation
+    founded: 1976
+    headquarters: Talmon, West Bank
+    status: active
+    stakeholders:
+    - person: pinchas-wallerstein
+      role: member
+      from: 2010
+      note: Post-Yesha Council
+    - person: zeev-hever
+      role: executive
+      from: 1989
+      note: Segretario Generale (Zambish)
+    - org: gush-emunim
+      role: parent
+      from: 1976
+      note: Braccio insediativo fondato da Gush Emunim
   amazon:
     name: Amazon
     type: company
@@ -2744,6 +2888,14 @@ organizations:
     - person: sandra-peterson
       role: chairman
       note: Chairman of the Board
+  american-action-network:
+    name: American Action Network
+    type: thinktank
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: norm-coleman
+      role: chairman
   american-airlines:
     name: American Airlines Group
     type: airline
@@ -2881,6 +3033,15 @@ organizations:
       from: 2011
       to: 2011
       note: President
+  american-friends-bet-el:
+    name: American Friends of Bet El Institutions
+    type: foundation
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: david-friedman
+      role: chairman
+      note: Head of fundraising for Bet El settlement; raised tens of millions
   american-global-strategies:
     name: American Global Strategies
     type: company
@@ -3171,7 +3332,7 @@ organizations:
     name: Andreessen Horowitz (a16z)
     type: privateequity
     founded: 2009
-    headquarters: Menlo Park, California, USA
+    headquarters: Menlo Park, USA
     status: active
     sector: venture capital
     stakeholders:
@@ -3208,6 +3369,13 @@ organizations:
     status: active
     sector: defense-tech
     stakeholders:
+    - org: founders-fund
+      role: investor
+      from: 2017
+      note: $1B in Series G (Jun 2025), largest FF investment ever
+    - org: andreessen-horowitz
+      role: investor
+      note: American Dynamism portfolio, defense tech
     - org: in-q-tel
       role: investor
       from: 2017
@@ -3761,6 +3929,23 @@ organizations:
     - person: pietro-de-rothschild
       role: alumni
       note: B.Arch ~2012
+  archives-israelites:
+    name: Archives Israélites
+    type: media
+    founded: 1840
+    headquarters: Paris, France
+    status: dissolved
+    note: Rivista mensile ebraica francese. Fondata da Samuel Cahen, poi diretta da Isidore Cahen (1862-1902)
+    stakeholders:
+    - person: isidore-cahen
+      role: executive
+      from: 1862
+      to: 1902
+      note: Direttore
+    - person: samuel-cahen
+      role: founder
+      from: 1840
+      to: 1862
   arco:
     name: Atlantic Richfield Company (ARCO)
     type: company
@@ -3785,6 +3970,17 @@ organizations:
       from: 1993
       to: 2013
       note: Direttore
+  arena-holdings:
+    name: Arena Holdings
+    type: hedgefund
+    founded: 2016
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: feroz-dewan
+      role: founder
+      from: 2016
+      note: Founder & CEO, permanent capital investor
   arexpo:
     name: Arexpo S.p.A.
     type: company
@@ -3919,6 +4115,32 @@ organizations:
       role: executive
       from: 2003
       note: CEO
+  arutz-sheva:
+    name: Arutz Sheva (Channel 7)
+    type: media
+    founded: 1988
+    headquarters: Beit El, West Bank
+    status: active
+    note: Founded as pirate radio from ship MV Eretz HaTzvi; convicted 2003 for illegal broadcasting; transitioned to online
+      2003; owned by HolyLand Holdings Ltd
+    stakeholders:
+    - person: david-friedman
+      role: member
+      note: Frequent contributor/columnist
+    - person: hagai-segal
+      role: editor
+      note: News department director, early-mid 1990s; convicted 2003 for illegal broadcasting 1995-98
+    - person: zalman-baruch-melamed
+      role: founder
+      from: 1988
+      note: Founded the pirate radio station
+    - person: uzi-baruch
+      role: editor
+      note: Editor-in-chief (current)
+    - person: yishai-fleisher
+      role: executive
+      from: 2003
+      note: Director of Programming, English department
   asana:
     name: Asana
     type: company
@@ -4471,6 +4693,17 @@ organizations:
       role: chairman
       from: 2022
       note: Co-chairman, 55% stake with investor group
+  ateret-yerushalayim:
+    name: Yeshivat Ateret Yerushalayim
+    type: university
+    founded: 1983
+    headquarters: Jerusalem, Israel
+    status: active
+    stakeholders:
+    - person: shlomo-aviner
+      role: leader
+      from: 1983
+      note: Rosh Yeshiva
   atlantia:
     name: Mundys SpA (ex Atlantia)
     type: company
@@ -5385,6 +5618,15 @@ organizations:
       role: founder
       from: 2025
       note: Founder
+  babyn-yar-memorial:
+    name: Babyn Yar Holocaust Memorial Center
+    type: foundation
+    headquarters: Kyiv, UKR
+    status: active
+    stakeholders:
+    - person: natan-sharansky
+      role: chairman
+      note: Chairman of Supervisory Board
   bae-systems:
     name: BAE Systems plc
     type: defense
@@ -6442,6 +6684,21 @@ organizations:
       from: 2010
       to: 2017
       note: Governor
+  bar-ilan-university:
+    name: Bar-Ilan University
+    type: university
+    headquarters: Ramat Gan, Israel
+    status: active
+    stakeholders:
+    - person: michael-ben-ari
+      role: alumni
+      note: BA Education, MA Talmud, PhD Land of Israel Studies and Archaeology
+    - person: simcha-rothman
+      role: alumni
+      note: LLB Law
+    - person: dani-dayan
+      role: alumni
+      note: BSc Economics and Computer Science
   barclays:
     name: Barclays plc
     type: bank
@@ -7061,6 +7318,18 @@ organizations:
     headquarters: Reston, Virginia
     status: active
     sector: engineering construction
+  beco-management:
+    name: BECO Management
+    type: company
+    founded: 1986
+    headquarters: Rockville, Maryland, USA
+    status: active
+    sector: services
+    stakeholders:
+    - person: michael-epstein
+      role: founder
+      from: 1986
+      note: Co-founder, real estate investment and management
   bein-media:
     name: beIN Media Group
     type: media
@@ -7080,6 +7349,17 @@ organizations:
       role: owner
       share: 100%
       note: Qatar state-owned via QSI parent structure
+  beit-el-yeshiva:
+    name: Beit El Yeshiva
+    type: university
+    founded: 1978
+    headquarters: Beit El, West Bank
+    status: active
+    stakeholders:
+    - person: zalman-baruch-melamed
+      role: founder
+      from: 1978
+      note: Rosh Yeshiva (head), founder
   bell-labs:
     name: Bell Telephone Laboratories
     type: company
@@ -7126,6 +7406,18 @@ organizations:
     - person: john-lansing
       role: alumni
       note: BA Communications 2009
+  ben-gurion-university:
+    name: Ben-Gurion University of the Negev
+    type: university
+    headquarters: Beer Sheva, Israel
+    status: active
+    stakeholders:
+    - person: shalev-hulio
+      role: founder
+      note: Founder of The Institute (AI research), 2024
+    - person: israel-eldad
+      role: academic
+      note: Professor of Humanistic Studies
   benetton-group:
     name: Benetton Group SpA
     type: company
@@ -7314,6 +7606,35 @@ organizations:
       from: 1990
       to: 1996
       note: Advisory board
+  betar:
+    name: Betar (Brit Yosef Trumpeldor)
+    type: foundation
+    founded: 1923
+    headquarters: Riga, Latvia
+    status: active
+    stakeholders:
+    - person: menachem-begin
+      role: leader
+      from: 1939
+      note: Head of Betar Poland before WWII
+    - person: zeev-jabotinsky
+      role: founder
+      from: 1923
+      note: Founded Betar youth movement in Riga
+    - person: joseph-trumpeldor
+      role: member
+      note: 'Eponymous: Betar = Brit Yosef Trumpeldor, fondato postumo in suo onore'
+    - person: david-raziel
+      role: leader
+      from: 1938
+      note: Head of Betar and Irgun from 1938
+    - org: hatzohar
+      role: parent
+      from: 1925
+      note: Betar was the youth movement of revisionist Zionism
+    - org: new-zionist-organization
+      role: parent
+      note: Youth movement of the Revisionist-NZO camp
   better-world-fund:
     name: Better World Fund
     type: foundation
@@ -8137,6 +8458,10 @@ organizations:
       role: member
       from: 2024
       note: Participant 2024
+    - person: mike-pompeo
+      role: member
+      from: 2019
+      note: Bilderberg 2019 Montreux
     - person: andrew-liveris
       role: member
       note: Attended 2012
@@ -8563,6 +8888,11 @@ organizations:
     - person: don-gips
       role: advisor
       note: Senior Advisor
+    - person: ben-hakim
+      role: executive
+      from: 1999
+      to: 2012
+      note: Senior Managing Director, M&A Advisory
     - org: pif-saudi
       role: investor
       note: Infrastructure investment $20B (2017)
@@ -8915,6 +9245,22 @@ organizations:
     headquarters: Rio de Janeiro, Brazil
     status: active
     note: Brazilian development bank. State-owned.
+  bnei-akiva:
+    name: Bnei Akiva
+    type: foundation
+    founded: 1929
+    headquarters: Jerusalem, Israel
+    status: active
+    stakeholders:
+    - person: abraham-isaac-kook
+      role: advisor
+      from: 1929
+      to: 1935
+      note: Guida spirituale del movimento
+    - org: hapoel-hamizrachi
+      role: spin-off
+      from: 1929
+      note: Movimento giovanile del Hapoel HaMizrachi
   bnp-paribas:
     name: BNP Paribas
     type: bank
@@ -8994,6 +9340,18 @@ organizations:
       role: executive
       from: 2014
       note: Chair Enterprise Product Management Group
+  board-of-deputies:
+    name: Board of Deputies of British Jews
+    type: foundation
+    founded: 1760
+    headquarters: London, United Kingdom
+    status: active
+    stakeholders:
+    - person: moses-montefiore
+      role: leader
+      from: 1835
+      to: 1874
+      note: Presidente (39 anni, mandato piu lungo nella storia)
   board-of-peace:
     name: Board of Peace
     type: agency
@@ -9567,6 +9925,9 @@ organizations:
     - person: sam-mccandlish
       role: alumni
       note: BS Math & Physics, MS Physics 2012
+    - person: matt-brooks
+      role: alumni
+      note: BA
   brasil-warrant:
     name: Brasil Warrant Administracao de Bens e Empresas
     type: company
@@ -9997,6 +10358,15 @@ organizations:
       role: fellow
       from: 2013
       note: Nonresident Distinguished Fellow, Center for Universal Education
+  brooklyn-college:
+    name: Brooklyn College
+    type: university
+    headquarters: Brooklyn, USA
+    status: active
+    stakeholders:
+    - person: meir-kahane
+      role: alumni
+      note: BA Political Science 1954
   brooklyn-nets:
     name: Brooklyn Nets
     type: sportsclub
@@ -10500,6 +10870,15 @@ organizations:
     - person: urbano-cairo
       role: founder
       from: 1995
+  cairo-military-academy:
+    name: Cairo Military Academy (Royal Military Academy)
+    type: university
+    headquarters: Cairo, Egypt
+    status: active
+    stakeholders:
+    - person: anwar-sadat
+      role: alumni
+      note: Graduated 1938
   caisse-des-depots:
     name: Caisse des Dépôts et Consignations
     type: bank
@@ -10526,6 +10905,15 @@ organizations:
       share: 4.5
     - org: vanguard
       share: 2.5
+  cal-state-san-bernardino:
+    name: California State University, San Bernardino
+    type: university
+    headquarters: San Bernardino, USA
+    status: active
+    stakeholders:
+    - person: ahmed-bin-sulayem
+      role: alumni
+      note: BA Management 2000
   calarts:
     name: California Institute of the Arts
     type: university
@@ -10605,6 +10993,9 @@ organizations:
     - person: paul-tucker
       role: alumni
       note: BA Mathematics & Philosophy 1980, Trinity College
+    - person: james-armand-de-rothschild
+      role: alumni
+      note: Three years
   cambridge-analytica:
     name: Cambridge Analytica
     type: company
@@ -12163,6 +12554,8 @@ organizations:
     - person: rajeev-venkayya
       role: member
       note: Life member
+    - person: daniel-loeb
+      role: member
     - org: bilderberg
       role: partner
     - org: trilaterale
@@ -12187,6 +12580,37 @@ organizations:
     stakeholders:
     - org: china-media-group
       share: 100%
+  chabad-harvard:
+    name: Chabad at Harvard
+    type: foundation
+    founded: 1997
+    headquarters: Cambridge, USA
+    status: active
+    stakeholders:
+    - person: larry-summers
+      role: member
+      note: Sostenitore; partecipo a Shabbat 1000 (2006) e eventi post-Oct 7
+    - person: jared-kushner
+      role: member
+      from: 1999
+      to: 2003
+      note: Frequentatore assiduo; donatore $18K da studente; studiava Tanya con Zarchi
+    - person: joshua-kushner
+      role: member
+      note: Amico di Rabbi Zarchi
+    - person: hirschy-zarchi
+      role: executive
+      from: 1997
+      note: Founding Director/Shliach
+    - person: alan-dershowitz
+      role: advisor
+      note: Faculty sponsor Harvard Friends of Chabad
+    - person: bill-ackman
+      role: donor
+      note: Special friend di Rabbi Zarchi; co-organizzatore screening Oct 7 (dic 2023)
+    - org: chabad-on-campus
+      role: parent
+      note: Part of Chabad on Campus network
   chabad-lubavitch:
     name: Chabad-Lubavitch
     type: foundation
@@ -12269,6 +12693,58 @@ organizations:
     - person: mendy-kotlarsky
       role: executive
       note: President CTeen; Director Merkos 302
+    - person: sholom-duchman
+      role: member
+      note: Rappresentante del Rebbe presso governo israeliano
+    - person: schneur-zalman-of-liadi
+      role: founder
+      from: 1775
+      note: 1 Rebbe; fondatore del movimento
+    - person: levi-duchman
+      role: member
+      from: 2015
+      note: Shliach ufficiale negli EAU; nominato da Merkos (nov 2020)
+    - person: dovber-schneuri
+      role: leader
+      from: 1813
+      to: 1827
+      note: 2 Rebbe; trasferi sede a Lubavitch (1813)
+    - person: hirschy-zarchi
+      role: member
+      note: Shliach; Jewish Chaplain at Harvard
+    - person: alan-dershowitz
+      role: member
+      note: Consulente e sostenitore pubblico del movimento; discorsi a eventi Chabad
+    - person: rochel-pinson
+      role: member
+      note: Shlucha; quarta generazione Chabad; famiglia emissari in Nizza, Tunisia, Cannes, Bruxelles
+    - person: dovber-pinson
+      role: member
+      note: Rosh Yeshiva IYYUN; autorita in Kabbalah; 60+ libri pubblicati
+    - person: avraham-hazan
+      role: member
+      from: 1979
+      note: Emissario (Shaliach) a Milano
+    - person: gershon-mendel-garelik
+      role: leader
+      from: 1958
+      note: Emissario capo in Italia, Milano
+    - person: menachem-margolin
+      role: member
+      note: Emissario Chabad a Bruxelles
+    - person: hillel-pewsner
+      role: leader
+      from: 1947
+      to: 2008
+      note: Rabbino capo Lubavitch a Parigi; emissario per quasi 60 anni
+    - person: levi-hazan
+      role: member
+    - person: menachem-kaplan
+      role: member
+    - person: rami-banin
+      role: member
+      from: 1993
+      note: Shaliach Venice
     - org: fjcr
       role: affiliate
       note: Chabad-affiliated federation; institutional arm of Chabad in Russia
@@ -12284,6 +12760,12 @@ organizations:
     - org: kehot
       role: affiliate
       note: Publishing arm of Chabad-Lubavitch; division of Merkos under Agudas Chassidei Chabad
+    - org: rabbinical-centre-europe
+      role: affiliate
+      note: Fondatori e leadership Chabad, ma formalmente indipendente
+    - org: eurokosher
+      role: affiliate
+      note: Agenzia kashrut sotto Chabad Milano
   chabad-on-campus:
     name: Chabad on Campus International Foundation
     type: foundation
@@ -12309,6 +12791,10 @@ organizations:
     - person: george-rohr
       role: donor
       note: Principal funder with wife Pamela; Rohr Centers named after family
+    - person: hirschy-zarchi
+      role: member
+      from: 1997
+      note: Shliach Harvard; expanded to MIT, Tufts, Brandeis
     - org: merkos
       role: parent
       note: Chabad on Campus operates under Merkos
@@ -12660,6 +13146,14 @@ organizations:
       note: CFO, Vice President
     - org: berkshire-hathaway
       role: stake
+  chiba-institute-technology:
+    name: Chiba Institute of Technology
+    type: university
+    stakeholders:
+    - person: joi-ito
+      role: executive
+      from: 2023
+      note: President since June 2023
   chicago-booth:
     name: University of Chicago Booth School of Business
     type: thinktank
@@ -13093,6 +13587,11 @@ organizations:
     - person: donald-wilber
       role: official
       note: officer
+    - person: mike-pompeo
+      role: leader
+      from: 2017
+      to: 2018
+      note: Director
     - org: oss
       role: predecessor
       from: 1942
@@ -13314,6 +13813,9 @@ organizations:
     - person: sallie-krawcheck
       role: executive
       note: CFO Citigroup; CEO Smith Barney
+    - person: daniel-loeb
+      role: executive
+      note: Early career at Citicorp (pre-merger)
     - org: kuwait-investment-authority
       role: shareholder
       share: $3B
@@ -13432,6 +13934,10 @@ organizations:
     sector: hedge-fund
     note: Peter Thiel hedge fund
     stakeholders:
+    - person: peter-thiel
+      role: founder
+      from: 2003
+      note: Hedge fund
     - person: stephen-cohen-palantir
       role: member
       from: 2003
@@ -13574,6 +14080,9 @@ organizations:
       role: board
       from: 2024
       note: Audit Committee, Nominating & Governance Committee
+    - person: michael-johnson-hlf
+      role: board
+      note: Director
   cloudwalk:
     name: CloudWalk Technology
     type: company
@@ -14120,6 +14629,35 @@ organizations:
     - person: fred-ehrsam
       role: founder
       from: 2012
+    - org: andreessen-horowitz
+      role: investor
+      note: Major investor, led Series A
+  colel-chabad:
+    name: Colel Chabad
+    type: foundation
+    founded: 1788
+    headquarters: Jerusalem, Israel
+    status: active
+    stakeholders:
+    - person: menachem-schneerson
+      role: leader
+      note: Supervisione come 7 Rebbe; nomino Duchman direttore (1978)
+    - person: sholom-duchman
+      role: executive
+      from: 1978
+      note: Director
+    - person: schneur-zalman-of-liadi
+      role: founder
+      from: 1788
+      note: Fondatore; 1 Rebbe di Chabad-Lubavitch
+    - person: dovber-schneuri
+      role: leader
+      from: 1813
+      to: 1827
+      note: Continuo gestione fondo Terra Santa; arrestato nel 1826 per invio fondi alla Palestina ottomana
+    - org: chabad-lubavitch
+      role: branch
+      note: Braccio assistenziale in Israele; fondato dallo stesso fondatore del movimento
   coles-group:
     name: Coles Group
     type: company
@@ -14318,6 +14856,9 @@ organizations:
     - person: maria-beatrice-caracciolo
       role: alumni
       note: ~1976-1979
+    - person: daniel-loeb
+      role: alumni
+      note: AB Economics 1983
   columbia-pictures:
     name: Columbia Pictures
     type: media
@@ -14368,6 +14909,9 @@ organizations:
     - person: henry-kravis
       role: board
       note: Columbia Business School Board, major donor
+    - person: ben-horowitz
+      role: alumni
+      note: BA Computer Science 1988
     - person: amin-nasser
       role: alumni
       note: Senior Executive Program 2002
@@ -14388,6 +14932,13 @@ organizations:
     - person: meir-amit
       role: alumni
       note: MBA late 1950s
+    - person: david-friedman
+      role: alumni
+      note: BA
+    - person: mike-pompeo
+      role: member
+      from: 2025
+      note: Distinguished Fellow, Institute of Global Politics
     - person: james-gorman
       role: alumni
       note: MBA 1987
@@ -14447,6 +14998,38 @@ organizations:
     founded: 2001
     headquarters: Mexico
     sector: think-tank
+  comintern:
+    name: Communist International (Comintern)
+    type: forum
+    founded: 1919
+    headquarters: Moscow, Russia
+    status: dissolved
+    stakeholders:
+    - person: vladimir-lenin
+      role: founder
+      from: 1919
+      to: 1924
+      note: Founded March 1919
+    - person: leon-trotsky
+      role: leader
+      from: 1919
+      to: 1929
+      note: Drafted Manifesto to the Proletariat
+    - person: grigory-zinoviev
+      role: chairman
+      from: 1919
+      to: 1926
+      note: First President ECCI
+    - person: nikolai-bukharin
+      role: leader
+      from: 1926
+      to: 1929
+      note: De facto leader after Zinoviev
+    - person: georgi-dimitrov
+      role: executive
+      from: 1935
+      to: 1943
+      note: General Secretary, Popular Front strategy
   comitato-leonardo:
     name: Comitato Leonardo
     type: agency
@@ -14579,6 +15162,23 @@ organizations:
     - person: margaret-hamburg
       role: chairman
       note: Board Chair
+  communist-league:
+    name: Communist League
+    type: foundation
+    founded: 1847
+    headquarters: London, UK
+    status: dissolved
+    stakeholders:
+    - person: karl-marx
+      role: leader
+      from: 1847
+      to: 1852
+      note: Co-author Communist Manifesto
+    - person: friedrich-engels
+      role: leader
+      from: 1847
+      to: 1852
+      note: Co-author Communist Manifesto
   compagnia-san-paolo:
     name: Compagnia di San Paolo
     type: foundation
@@ -14607,6 +15207,38 @@ organizations:
     - org: rothschild-cie
       role: controlling
       note: Holding finanziaria della famiglia, assorbita 1978
+  compagnie-universelle-canal-suez:
+    name: Compagnie Universelle du Canal Maritime de Suez
+    type: company
+    founded: 1858
+    headquarters: Paris, France
+    status: defunct
+    stakeholders:
+    - person: barthelemy-prosper-enfantin
+      role: founder
+      from: 1858
+    - person: ferdinand-de-lesseps
+      role: founder
+      from: 1858
+      to: 1893
+      note: President
+    - org: governo-uk
+      role: stake
+      share: 0.44
+      from: 1875
+      to: 1956
+      note: Acquisto 177.000 azioni per 4M sterline, prestito Rothschild
+    - org: governo-egitto
+      role: stake
+      share: 0.44
+      from: 1858
+      to: 1875
+      note: 177.642 azioni, vendute a UK nel 1875
+    - org: societe-etudes-canal-suez
+      role: parent
+      from: 1846
+      to: 1858
+      note: Studi tecnici confluiti nella Compagnie Universelle
   companhia-johnston:
     name: Companhia E. Johnston de Participacoes
     type: company
@@ -14721,6 +15353,32 @@ organizations:
       from: 2004
       to: 2008
       note: President 2004-2008
+  cong:
+    name: Cong SA
+    type: company
+    founded: 1983
+    headquarters: Grandvaux, Switzerland
+    status: active
+    sector: intellectual property
+    stakeholders:
+    - person: hugo-pratt
+      role: founder
+      from: 1987
+      to: 1995
+      note: Fondatore, cedette tutti i diritti delle sue opere il 24 aprile 1987
+    - person: patrizia-zanotti
+      role: executive
+      from: 1987
+      note: Managing Director, curatrice mostre Hugo Pratt
+  congressional-leadership-fund:
+    name: Congressional Leadership Fund
+    type: foundation
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: norm-coleman
+      role: founder
+      note: Chairman of the board, super PAC
   conocophillips:
     name: ConocoPhillips
     type: company
@@ -14793,6 +15451,30 @@ organizations:
       from: 1954
       to: 1982
       note: Président
+  consistoire-central:
+    name: Consistoire Central des Israélites de France
+    type: foundation
+    founded: 1808
+    headquarters: Paris, France
+    status: active
+    note: 'Organo amministrativo della comunità ebraica francese, creato da Napoleone I (decreto 17 marzo 1808). Modello centralizzato
+      ispirato alla Chiesa cattolica e ai concistori protestanti. Motto: Religion et Patrie. Supervisiona i concistori dipartimentali
+      e il rabbinato.'
+    stakeholders:
+    - person: adolphe-cremieux
+      role: leader
+      from: 1834
+      to: 1880
+      note: Vice-presidente (1834-80). Presidente di fatto della comunità ebraica francese
+    - person: zadoc-kahn
+      role: leader
+      from: 1889
+      to: 1905
+      note: Grand Rabbin de France. Ultimo Grand Rabbin ufficiale
+    - org: governo-francia
+      role: oversight
+      from: 1808
+      note: Creato per decreto imperiale. Supervisione statale sulla comunità ebraica fino alla separazione Stato-Chiesa (1905)
   consistoire-de-france:
     name: Consistoire central israélite de France
     type: religiousinstitution
@@ -14907,6 +15589,9 @@ organizations:
     - person: robert-miller
       role: board
       note: Presidential Councilor; Trustee Emeritus
+    - person: ben-hakim
+      role: alumni
+      note: BS Economics (Finance & Accounting) 1997, highest honors
     - org: atlantic-philanthropies
       role: grant
       from: 2011
@@ -15365,6 +16050,14 @@ organizations:
       from: 1981
       to: 1983
       note: Attorney
+  creative-commons:
+    name: Creative Commons
+    type: foundation
+    stakeholders:
+    - person: joi-ito
+      role: chairman
+      from: 2006
+      note: Board 2003, Chairman 2006, later CEO
   credit-agricole:
     name: Crédit Agricole S.A.
     type: bank
@@ -15398,6 +16091,19 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  credit-mobilier:
+    name: Crédit Mobilier
+    type: bank
+    founded: 1852
+    headquarters: Paris, France
+    status: defunct
+    stakeholders:
+    - person: emile-pereire
+      role: founder
+      from: 1852
+    - person: isaac-pereire
+      role: founder
+      from: 1852
   credit-suisse:
     name: Credit Suisse
     type: bank
@@ -15994,6 +16700,16 @@ organizations:
     - person: shari-redstone
       role: board
       note: Board of Directors
+  danaher:
+    name: Danaher Corporation
+    type: company
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: feroz-dewan
+      role: board
+      from: 2022
+      note: Independent Director
   danone:
     name: Danone SA
     type: company
@@ -16138,6 +16854,9 @@ organizations:
     status: active
     sector: data
     stakeholders:
+    - person: ben-horowitz
+      role: board
+      note: Director
     - person: andy-konwinski
       role: founder
       note: Co-founder, co-creator Apache Spark
@@ -16880,6 +17599,23 @@ organizations:
       note: President
     - person: theo-sommer
       role: member
+  dgcx:
+    name: Dubai Gold & Commodities Exchange
+    type: company
+    founded: 2005
+    headquarters: Almas Tower, Dubai, ARE
+    status: active
+    stakeholders:
+    - person: ahmed-bin-sulayem
+      role: chairman
+      note: Chairman
+    - person: les-male
+      role: executive
+      from: 2018
+      note: CEO
+    - org: dmcc
+      role: subsidiary
+      note: DGCX is a DMCC exchange
   diacore:
     name: Diacore (ex Steinmetz Diamond Group)
     type: company
@@ -16990,6 +17726,14 @@ organizations:
       role: founder
       from: 2001
       note: Founder; 10% stake post-restructuring 2023
+  digital-garage:
+    name: Digital Garage
+    type: company
+    stakeholders:
+    - person: joi-ito
+      role: founder
+      from: 1995
+      note: Co-founder, CEO 1995-1999, later board member
   digiturk:
     name: Digiturk
     type: media
@@ -17182,6 +17926,25 @@ organizations:
       role: investor
       from: 2015
       note: $500M round with GIC, New China Life
+  dmcc:
+    name: Dubai Multi Commodities Centre
+    type: company
+    founded: 2002
+    headquarters: Jumeirah Lakes Towers, Dubai, ARE
+    status: active
+    stakeholders:
+    - person: mohammed-bin-rashid
+      role: founder
+      from: 2002
+      note: Royal Decree 1 May 2002
+    - person: ahmed-bin-sulayem
+      role: executive
+      from: 2002
+      note: Executive Chairman & CEO (dal 2007 Chairman)
+    - org: investment-corporation-dubai
+      role: parent
+      from: 2020
+      note: Parent company dal 2020 (restructuring)
   dmgt:
     name: Daily Mail and General Trust
     type: media
@@ -17455,6 +18218,10 @@ organizations:
       role: board
       from: 2022
       note: Independent Non-Executive Director
+    - person: sultan-ahmed-bin-sulayem
+      role: executive
+      from: 2007
+      note: Group Chairman & CEO (Chairman dal 2007, CEO dal 2016)
     - org: icd
       role: owner
   dps-bulgaria:
@@ -17465,6 +18232,37 @@ organizations:
     - person: delyan-peevski
       role: leader
       note: Chairman DPS-New Beginning
+  dream-security:
+    name: Dream Security
+    type: company
+    founded: 2023
+    headquarters: Tel Aviv, ISR
+    status: active
+    sector: cybersecurity
+    stakeholders:
+    - person: shalev-hulio
+      role: founder
+      from: 2023
+      note: Co-founder and CEO
+    - person: sebastian-kurz
+      role: founder
+      from: 2023
+      note: Co-founder and President, cybersecurity
+    - person: gil-dolev
+      role: founder
+      from: 2023
+      note: Co-founder and CTO, ex-CEO Wayout Group
+    - org: nso-group
+      role: partnership
+      note: Founders and 12+ employees from NSO, shared expertise offensive cyber
+    - org: bain-capital
+      role: investor
+      from: 2024
+      note: Lead investor Series A and Series B ($100M, $1.1B valuation)
+    - org: tau-capital
+      role: investor
+      from: 2024
+      note: Investor Series B
   dreamworks-animation:
     name: DreamWorks Animation
     type: media
@@ -17595,6 +18393,19 @@ organizations:
       role: chairman
       from: 2007
       note: Chairman
+  dubai-diamond-exchange:
+    name: Dubai Diamond Exchange
+    type: company
+    founded: 2004
+    headquarters: Almas Tower, Dubai, ARE
+    status: active
+    stakeholders:
+    - person: ahmed-bin-sulayem
+      role: chairman
+      note: Chairman
+    - org: dmcc
+      role: subsidiary
+      note: DDE is a DMCC platform
   dubai-holding:
     name: Dubai Holding
     type: company
@@ -18270,6 +19081,15 @@ organizations:
       role: board
       from: 2019
       note: Non-executive director
+    - person: henri-de-saint-simon
+      role: alumni
+      note: Courses in science ca. 1798-1801
+    - person: barthelemy-prosper-enfantin
+      role: alumni
+      note: '1813'
+    - person: charles-lambert
+      role: alumni
+      note: '1822'
   economic-club-new-york:
     name: Economic Club of New York
     type: thinktank
@@ -18702,6 +19522,16 @@ organizations:
       role: executive
       from: 2003
       note: CEO, Co-founder with Evelyn
+  elad-systems:
+    name: Elad Software Systems
+    type: company
+    headquarters: Tel Aviv, Israel
+    status: active
+    stakeholders:
+    - person: dani-dayan
+      role: founder
+      from: 1982
+      note: CEO poi Chairman
   elbit-systems:
     name: Elbit Systems Ltd
     type: defense
@@ -18831,6 +19661,21 @@ organizations:
       share: 4.0%
     - org: vanguard
       share: 2.0%
+  elitzur:
+    name: Elitzur
+    type: sportsclub
+    founded: 1939
+    headquarters: Israel
+    status: active
+    stakeholders:
+    - person: meir-bar-ilan
+      role: founder
+      from: 1939
+      note: Iniziatore della fondazione
+    - org: hapoel-hamizrachi
+      role: spin-off
+      from: 1939
+      note: Organizzazione sportiva del Hapoel HaMizrachi
   ellevest:
     name: Ellevest
     type: company
@@ -19599,6 +20444,19 @@ organizations:
       role: major-shareholder
     - org: investor-ab
       role: major shareholder
+  ermen-and-engels:
+    name: Ermen & Engels
+    type: company
+    founded: 1837
+    headquarters: Manchester, UK
+    status: defunct
+    sector: textile
+    stakeholders:
+    - person: friedrich-engels
+      role: partner
+      from: 1842
+      to: 1869
+      note: Family cotton mill, 20% partner from 1860
   erste-foundation:
     name: ERSTE Foundation
     type: foundation
@@ -20024,6 +20882,26 @@ organizations:
       from: 2020
       to: 2025
       note: President; 3 mandati (2020, 2023, 2025)
+  eurokosher:
+    name: Eurokosher (Badatz Mehadrin Milan)
+    type: company
+    founded: 1985
+    headquarters: Milan, Italy
+    status: active
+    stakeholders:
+    - person: avraham-hazan
+      role: executive
+      note: Director
+    - person: gershon-mendel-garelik
+      role: founder
+      from: 1985
+      to: 2021
+    - person: levi-hazan
+      role: executive
+      note: Rabbinical Coordinator
+    - person: menachem-kaplan
+      role: executive
+      note: Co-director
   euromobiliare:
     name: Euromobiliare S.p.A.
     type: bank
@@ -20279,6 +21157,41 @@ organizations:
       from: 2020
       to: 2024
       note: President
+  european-jewish-association:
+    name: European Jewish Association
+    type: foundation
+    founded: 2010
+    headquarters: Brussels, Belgium
+    status: active
+    note: Piu grande federazione di organizzazioni ebraiche in Europa; lobby presso UE
+    stakeholders:
+    - person: menachem-margolin
+      role: founder
+      note: Fondatore e Chairman
+    - org: european-kosher
+      role: member
+      note: EK membro di EJA
+  european-kosher:
+    name: European Kosher (EK)
+    type: company
+    founded: 2007
+    headquarters: Brussels, Belgium
+    status: active
+    stakeholders:
+    - person: avraham-hazan
+      role: executive
+      note: Director
+    - person: gershon-mendel-garelik
+      role: founder
+      from: 2007
+      to: 2021
+    - org: rabbinical-centre-europe
+      role: parent
+      from: 2007
+      note: EK fondato sotto egida RCE
+    - org: eurokosher
+      role: affiliate
+      note: Stessa leadership rabbinica, EK e la versione paneuropea
   european-movement:
     name: European Movement
     type: forum
@@ -20872,6 +21785,10 @@ organizations:
       from: 1954
       to: 1961
       note: Executive member
+    - person: eduard-bernstein
+      role: member
+      from: 1888
+      note: Close ties during London exile, influenced revisionism
   faes:
     name: Fundacion para el Analisis y los Estudios Sociales
     type: thinktank
@@ -22732,6 +23649,16 @@ organizations:
       role: board
       from: 2021
       note: Director since Oct 2021
+  fortive:
+    name: Fortive Corporation
+    type: company
+    headquarters: Everett, USA
+    status: active
+    stakeholders:
+    - person: feroz-dewan
+      role: board
+      from: 2016
+      note: Independent Director, Danaher spin-off
   fortress:
     name: Fortress Investment Group
     type: privateequity
@@ -22901,6 +23828,11 @@ organizations:
     type: company
     founded: 1988
     headquarters: Hanoi, Vietnam
+  francisco-partners:
+    name: Francisco Partners
+    type: privateequity
+    headquarters: San Francisco, USA
+    status: active
   franco-nevada:
     name: Franco-Nevada Corporation
     type: company
@@ -24235,6 +25167,16 @@ organizations:
       from: 2007
       to: 2015
       note: LBO $1.7B (con JER Partners)
+  genesis-prize:
+    name: Genesis Prize Foundation
+    type: foundation
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: natan-sharansky
+      role: chairman
+      from: 2020
+      note: 2020 Laureate, then Chairman
   geneva-association:
     name: Geneva Association
     type: forum
@@ -24369,6 +25311,9 @@ organizations:
     - person: zico-kolter
       role: alumni
       note: BS Computer Science
+    - person: yousef-al-otaiba
+      role: alumni
+      note: International Relations (claimed 1995; Georgetown registrar disputes graduation)
     - person: mark-weinberger
       role: alumni
       note: LLM Taxation
@@ -24388,6 +25333,9 @@ organizations:
     - person: pavlos-greece
       role: alumni
       note: MSc Foreign Service
+    - person: matt-brooks
+      role: alumni
+      note: MBA
   georgetown-university:
     name: Georgetown University
     type: university
@@ -24436,6 +25384,9 @@ organizations:
       from: 1967
       to: 1972
       note: BS Electrical Engineering (1971), MS Information Theory/CS (1972)
+    - person: michael-epstein
+      role: alumni
+      note: BS Industrial and Systems Engineering
   gerb:
     name: Citizens for European Development of Bulgaria (GERB)
     type: party
@@ -25024,6 +25975,9 @@ organizations:
     stakeholders:
     - person: alexander-schallenberg
       role: member
+    - person: sebastian-kurz
+      role: member
+      note: Board member
     - person: paolo-magri
       role: member
       note: Board of Experts, Global Europe Initiative
@@ -25339,6 +26293,21 @@ organizations:
       from: 2001
       to: 2017
       note: Partner. Investment Banking, Australia/NZ and Hong Kong
+    - person: ryan-israel
+      role: analyst
+      from: 2007
+      to: 2009
+      note: Technology, Media and Telecom group
+    - person: charles-korn
+      role: analyst
+      from: 2010
+      to: 2012
+      note: Technology, Media and Telecom group
+    - person: brett-icahn
+      role: analyst
+      from: 2001
+      to: 2001
+      note: Summer intern
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -25790,6 +26759,11 @@ organizations:
       role: leader
       from: 2017
       to: 2021
+    - person: sebastian-kurz
+      role: minister
+      from: 2013
+      to: 2017
+      note: Foreign Minister, youngest in Austrian history
     - person: karl-von-habsburg
       role: legislator
       from: 1996
@@ -26466,10 +27440,12 @@ organizations:
       role: leader
       from: 1956
       to: 1970
+      note: President
     - person: anwar-sadat
       role: leader
       from: 1970
       to: 1981
+      note: Presidente della Repubblica
     - person: hosni-mubarak
       role: leader
       from: 1981
@@ -26877,6 +27853,26 @@ organizations:
       from: 2017
       to: 2022
       note: Minister of the Armed Forces
+    - person: narcisse-leven
+      role: advisor
+      from: 1870
+      to: 1871
+      note: Segretario generale del Ministero della Giustizia sotto Crémieux (guerra franco-prussiana)
+    - person: adolphe-cremieux
+      role: minister
+      from: 1848
+      to: 1848
+      note: Ministro della Giustizia (governo provvisorio). Abolì pena di morte per reati politici e schiavitù nelle colonie
+    - person: adolphe-cremieux
+      role: minister
+      from: 1870
+      to: 1871
+      note: Ministro della Giustizia (Governo di Difesa Nazionale). Décret Crémieux (1870)
+    - person: adolphe-cremieux
+      role: legislator
+      from: 1842
+      to: 1880
+      note: Deputato (1842-51, 1869-75). Senatore a vita (1875-80)
   governo-georgia:
     name: Governo Georgia
     type: government
@@ -27017,6 +28013,11 @@ organizations:
       to: 1945
       note: Minister President of Prussia 1933-45, Reichsmarschall 1940, Four Year Plan Plenipotentiary 1936, Luftwaffe Commander-in-Chief
         1935-45, Gestapo founder 1933
+    - person: eduard-bernstein
+      role: legislator
+      from: 1902
+      to: 1928
+      note: 'Reichstag member (SPD), multiple terms: 1902-06, 1912-18, 1920-28'
   governo-giappone:
     name: Governo del Giappone
     type: government
@@ -27647,16 +28648,21 @@ organizations:
       from: 1969
       to: 1973
       note: Membro Knesset
-    - person: ben-gurion
-      role: leader
-      from: 1948
-      to: 1963
-      note: Prime Minister (1948-53, 1955-63), Defense Minister
     - person: chaim-weizmann
       role: leader
       from: 1949
       to: 1952
       note: First President of Israel
+    - person: natan-sharansky
+      role: minister
+      from: 1996
+      to: 2005
+      note: Minister of Industry & Trade (1996-99), Interior (1999-2000), Housing (2001-03), Minister w/o Portfolio (2003-05)
+    - person: natan-sharansky
+      role: legislator
+      from: 1996
+      to: 2006
+      note: MK, founded Yisrael BaAliyah (1996), merged into Likud (2003)
     - person: isaac-herzog
       role: leader
       from: 2021
@@ -27774,14 +28780,169 @@ organizations:
       from: 1960
       to: 1963
       note: Ambassador to Canada
+    - person: menachem-begin
+      role: leader
+      from: 1948
+      to: 1983
+      note: Knesset member 1948-1983, PM 1977-1983
     - person: shlomo-riskin
       role: leader
       from: 1983
       to: 2020
       note: Founding Chief Rabbi of Efrat
+    - person: yoav-gallant
+      role: minister
+      note: Defense Minister 2022-2024; licenziato da Netanyahu nov 2024
+    - person: itamar-ben-gvir
+      role: minister
+      from: 2022
+      note: Minister of National Security; dimesso gen 2025 per ceasefire Gaza; rientrato mar 2025
+    - person: itamar-ben-gvir
+      role: legislator
+      from: 2021
+      note: MK, Otzma Yehudit
+    - person: bezalel-smotrich
+      role: minister
+      from: 2022
+      note: Minister of Finance; colono, pro-annessione West Bank
+    - person: bezalel-smotrich
+      role: legislator
+      note: MK, Religious Zionist Party
+    - person: yitzhak-wasserlauf
+      role: minister
+      from: 2022
+      note: Minister of Negev and Galilee
+    - person: amichai-eliyahu
+      role: minister
+      from: 2022
+      note: Minister of Heritage
+    - person: zvika-fogel
+      role: legislator
+      from: 2022
+      note: MK; Chairman Commissione Sicurezza Nazionale della Knesset (feb 2023-oggi)
+    - person: almog-cohen
+      role: legislator
+      from: 2022
+      note: MK 2022-2025; Deputy Minister AI apr 2025
+    - person: yitzhak-kreuzer
+      role: legislator
+      from: 2023
+      note: MK gen 2023-oggi (Norwegian Law, sostituto Eliyahu); Chairman Comm. Affari Interni e Ambiente ago 2025
+    - person: limor-son-har-melech
+      role: legislator
+      from: 2022
+      note: MK 2022-oggi; Deputy Speaker mag 2025; Chairman Commissione Sanita' dic 2025
+    - person: aryeh-eldad
+      role: legislator
+      from: 2003
+      to: 2013
+      note: Knesset member, Ethics Committee chair
+    - person: michael-ben-ari
+      role: legislator
+      from: 2009
+      to: 2013
+      note: MK 18th Knesset (National Union)
+    - person: simcha-rothman
+      role: legislator
+      from: 2021
+      note: MK, Chairman Constitution Law and Justice Committee 2023; Co-Chair Land of Israel Caucus
+    - person: orit-strock
+      role: minister
+      from: 2022
+      note: MK 2013-2015, 2021-; Minister of Settlements and National Missions 2022-
+    - person: ofir-sofer
+      role: minister
+      from: 2019
+      note: MK 2019- (Union of Right-Wing Parties, poi Likud, poi RZP); Minister of Immigration and Absorption 2022-
+    - person: zvi-sukkot
+      role: legislator
+      from: 2023
+      note: MK 2023- (Norwegian Law replacement for Smotrich); Chairman Subcommittee Judea and Samaria 2023-
+    - person: hanan-porat
+      role: legislator
+      from: 1981
+      to: 1999
+      note: MK 1981-1984, 1988-1999
+    - person: zvi-hendel
+      role: legislator
+      from: 1999
+      to: 2009
+      note: MK 15th-17th Knesset; Deputy Min. Education 2003-2004
+    - person: meir-kahane
+      role: legislator
+      from: 1984
+      to: 1988
+      note: MK for Kach, banned under anti-racism law
+    - person: yitzhak-shamir
+      role: leader
+      from: 1977
+      to: 1992
+      note: Speaker Knesset 1977-1980, FM 1980-1986, PM 1983-1984 & 1986-1992
+    - person: natan-yellin-mor
+      role: legislator
+      from: 1949
+      to: 1951
+      note: First Knesset, Fighters List party
+    - person: yehuda-eliahu
+      role: executive
+      from: 2023
+      note: Head Settlement Administration, Defense Ministry
+    - person: yehuda-amital
+      role: minister
+      from: 1995
+      to: 1996
+      note: Minister without Portfolio (governo Peres, post-assassinio Rabin)
+    - person: haim-drukman
+      role: minister
+      from: 1981
+      to: 1982
+      note: Deputy Minister Religious Affairs; dimesso per ritiro dal Sinai
+    - person: pinchas-wallerstein
+      role: official
+      note: Chairman comitato legalizzazione outpost
+    - person: dani-dayan
+      role: diplomat
+      from: 2016
+      to: 2020
+      note: Consul General in New York
+    - person: ron-dermer
+      role: diplomat
+      from: 2013
+      to: 2021
+      note: Ambassador to USA (2013-2021); Minister of Strategic Affairs (2022-2025); Senior Advisor to PM (2009-2013); Special
+        Envoy (2025-)
+    - person: michael-herzog
+      role: diplomat
+      from: 2021
+    - person: david-ben-gurion
+      role: leader
+      from: 1948
+      to: 1963
+      note: PM 1948-53, 1955-63
+    - person: yitzhak-ben-zvi
+      role: leader
+      from: 1952
+      to: 1963
+      note: 2nd President of Israel (3 mandati consecutivi)
+    - person: golda-meir
+      role: leader
+      from: 1969
+      to: 1974
+      note: PM 1969-74; Min. Lavoro 1949-56; Min. Esteri 1956-66
+    - person: yosef-sprinzak
+      role: legislator
+      from: 1949
+      to: 1959
+      note: Primo Speaker della Knesset
     - org: talpiot
       role: subsidiary
       note: IDF/Ministry of Defense program
+    - org: kfar-chabad
+      role: partnership
+      note: Fondato con approvazione governativa (Levi Eshkol); partnership sociale e educativa
+    - org: colel-chabad
+      role: partnership
+      note: Collaborazione per programmi welfare; governo si impegna a rafforzare Chabad (2023)
   governo-italia:
     name: Repubblica Italiana
     type: government
@@ -28414,6 +29575,12 @@ organizations:
       from: 2017
       to: 2019
       note: Minister of Health and Public Hygiene
+  governo-marocco:
+    name: Governo Marocco
+    type: government
+    stakeholders:
+    - person: lalla-joumala
+      role: diplomat
   governo-messico:
     type: government
     headquarters: Mexico City
@@ -28745,6 +29912,17 @@ organizations:
       from: 1992
       to: 1995
       note: Ministro degli Esteri
+  governo-prussia:
+    name: Regno di Prussia
+    type: government
+    headquarters: Berlin, Germany
+    status: defunct
+    stakeholders:
+    - person: heinrich-marx
+      role: member
+      from: 1814
+      to: 1838
+      note: Avvocato, Corte Appello Treviri; Justizrat 1832
   governo-qatar:
     name: Governo del Qatar
     type: government
@@ -29094,6 +30272,11 @@ organizations:
       role: member
       from: 2009
       note: Public Chamber of Russia; appointed by presidential decree
+    - person: joseph-trumpeldor
+      role: member
+      from: 1902
+      to: 1906
+      note: Esercito imperiale, Port Arthur, primo ufficiale ebreo, Croce di San Giorgio
   governo-saudi:
     name: Governo del Regno dell'Arabia Saudita
     type: government
@@ -29154,6 +30337,9 @@ organizations:
     - person: saad-hariri
       role: partner
       note: Sequestrato 2017 da MBS
+    - org: hogan-lovells
+      role: partner
+      note: Lobbying contract $175K/month
   governo-serbia:
     name: Governo Serbia
     type: government
@@ -29561,6 +30747,10 @@ organizations:
       role: minister
       from: 2021
       note: First Deputy Ruler Dubai, Deputy PM, Minister of Finance
+    - person: yousef-al-otaiba
+      role: executive
+      from: 2008
+      note: Ambassador to the USA (2008-); Minister of State (2017-); Director International Affairs Crown Prince Court (2000-2008)
     - person: reem-al-hashimy
       role: minister
       from: 2008
@@ -29572,6 +30762,16 @@ organizations:
     - person: mohamed-alsuwaidi
       role: minister
       note: Minister of Investment
+    - person: levi-duchman
+      role: advisor
+      from: 2020
+      note: Chief Rabbi degli EAU; accesso diretto al Palazzo Presidenziale; rapporto con Sheikh Mohamed bin Zayed
+    - person: ahmed-bin-sulayem
+      role: advisor
+      note: Government-appointed Executive Chairman DMCC
+    - person: sultan-ahmed-bin-sulayem
+      role: advisor
+      note: Chairman PCFC, Board Dubai Executive Council, Chairman JAFZA (1985-), Chairman Dubai International Chamber
   governo-ucraina:
     name: Governo Ucraina
     type: government
@@ -29670,6 +30870,11 @@ organizations:
       from: 1922
       to: 1940
       note: Air Secretary, Foreign Secretary (1935), Home Secretary (1937-1939)
+    - person: chaim-weizmann
+      role: advisor
+      from: 1916
+      to: 1919
+      note: Director Admiralty Labs, produzione acetone per cordite
     - person: walter-rothschild
       role: legislator
       from: 1899
@@ -29938,6 +31143,26 @@ organizations:
       from: 2025
       to: 2025
       note: Ambassador to USA, dismissed over Epstein files
+    - person: james-armand-de-rothschild
+      role: legislator
+      from: 1929
+      to: 1945
+      note: MP Liberal, Isle of Ely. Parl. Secretary Ministry of Supply 1945.
+    - person: moses-montefiore
+      role: executive
+      from: 1837
+      to: 1838
+      note: Sheriff di Londra e Middlesex. Knighthood 1837, Baronetto 1846
+    - person: benjamin-disraeli
+      role: leader
+      from: 1874
+      to: 1880
+      note: Prime Minister
+    - org: zion-mule-corps
+      role: subsidiary
+      from: 1915
+      to: 1916
+      note: Unita sotto British Army, campagna di Gallipoli
   governo-ungheria:
     name: Governo di Ungheria
     type: government
@@ -30429,7 +31654,12 @@ organizations:
     - person: elise-stefanik
       role: diplomat
       from: 2025
-      note: UN Ambassador | Ambassador
+      to: 2025
+      note: UN Ambassador nominata gen 2025; nomina ritirata da Trump mar 2025 per margine House
+    - person: elise-stefanik
+      role: legislator
+      from: 2015
+      note: Representative NY-21; youngest woman elected to Congress (age 30); Chair House Republican Conference 2021-2025
     - person: jamie-gorelick
       role: minister
       from: 1994
@@ -30864,9 +32094,29 @@ organizations:
       note: Deputy National Security Adviser, Assistant to President for Policy
     - person: aryeh-lightstone
       role: advisor
+      from: 2025
+      to: 2021
+      note: Senior Adviser to Board of Peace, supporting Steve Witkoff (Special Envoy for Middle East)
+    - person: david-friedman
+      role: minister
       from: 2017
       to: 2021
-      note: Senior Advisor to US Ambassador to Israel; Special Envoy for Economic Normalization
+      note: US Ambassador to Israel
+    - person: avi-berkowitz
+      role: advisor
+      from: 2017
+      to: 2021
+      note: Special Assistant to the President (2017-2019), then Special Representative for International Negotiations (2019-2021)
+    - person: mike-pompeo
+      role: minister
+      from: 2018
+      to: 2021
+      note: Secretary of State (70th)
+    - person: mike-pompeo
+      role: legislator
+      from: 2011
+      to: 2017
+      note: Representative, Kansas 4th district
     - person: mike-sommers
       role: official
       from: 1998
@@ -31051,10 +32301,18 @@ organizations:
       from: 2019
       to: 2021
       note: National Security Advisor
+    - person: robert-obrien
+      role: advisor
+      from: 2019
+      to: 2021
     - person: charles-kushner
       role: ambassador
       from: 2025
       note: Ambassador to France and Monaco
+    - person: yosef-yitzchak-schneersohn
+      role: advisor
+      from: 1930
+      note: Incontro con Presidente Hoover alla Casa Bianca (10 luglio 1930); 3500+ documenti State Dept sul salvataggio
     - person: zalman-bernstein
       role: advisor
       from: 1948
@@ -31068,6 +32326,25 @@ organizations:
       from: 1988
       to: 1989
       note: Speechwriter Reagan/Bush; Special Asst Drug Czar Bennett
+    - person: carl-icahn
+      role: advisor
+      from: 2017
+      to: 2017
+      note: Special Advisor to President Trump on Regulatory Reform
+    - person: norm-coleman
+      role: legislator
+      from: 2003
+      to: 2009
+      note: Senator, Minnesota
+    - person: miguel-correa
+      role: advisor
+      from: 2020
+      to: 2021
+      note: Senior Director Gulf Affairs, NSC
+    - person: hannah-zakaria
+      role: advisor
+      from: 2025
+      note: Trump 2.0 administration
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -31269,6 +32546,19 @@ organizations:
       role: founder
       from: 2012
       note: Founder, Chairman Advisory Board, 40% stake
+  grand-orient-de-france:
+    name: Grand Orient de France
+    type: foundation
+    founded: 1773
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: adolphe-cremieux
+      role: leader
+      from: 1818
+      to: 1880
+      note: Iniziato 1818 (loggia Bienfait Anonyme, Nîmes). 33° grado Supremo Consiglio di Francia (1866). Gran Comandante
+        (1868-80)
   grant-thornton-uk:
     name: Grant Thornton UK
     type: company
@@ -31898,6 +33188,56 @@ organizations:
       from: 1997
       to: 2014
       note: Co-founder, sold 43.5% stake before sanctions
+  gush-emunim:
+    name: Gush Emunim
+    type: foundation
+    founded: 1974
+    headquarters: West Bank, Israel
+    status: dissolved
+    stakeholders:
+    - person: hanan-porat
+      role: founder
+      from: 1974
+    - person: zvi-hendel
+      role: member
+      note: Attivista coloni, capo Gush Katif Regional Council
+    - person: yoel-bin-nun
+      role: founder
+      from: 1974
+      note: Riunione fondativa a casa sua, Alon Shvut
+    - person: moshe-levinger
+      role: founder
+      from: 1974
+    - person: haim-drukman
+      role: founder
+      from: 1974
+      note: Riunione fondativa a casa sua; conio il nome Gush Emunim
+    - person: shlomo-aviner
+      role: founder
+      from: 1974
+    - person: eliezer-waldman
+      role: founder
+      from: 1974
+    - person: yisrael-harel
+      role: member
+      note: Attivista fin dagli inizi
+    - person: pinchas-wallerstein
+      role: founder
+      from: 1974
+      note: Early founder, secretary Ofra 1975
+    - person: hagai-segal
+      role: member
+      note: Joined after 1973 Yom Kippur War, settled in Ofra
+    - person: zeev-hever
+      role: member
+      note: Membro del Jewish Underground, imprigionato
+    - org: mercaz-harav
+      role: parent
+      note: Incubatore ideologico; fondatori sono allievi di Zvi Yehuda Kook
+    - org: mafdal
+      role: spin-off
+      from: 1974
+      note: Gush Emunim nasce dal giovane ala del Mafdal
   gvs:
     name: GVS S.p.A.
     type: company
@@ -31909,6 +33249,39 @@ organizations:
       role: chairman
       from: 2023
       note: Chairman of the Board
+  ha-tsfira:
+    name: Ha-Tsfira (Hatsefirah)
+    type: media
+    founded: 1862
+    headquarters: Warsaw, Poland
+    status: dissolved
+    stakeholders:
+    - person: nahum-sokolow
+      role: journalist
+      from: 1876
+      to: 1936
+      note: Editore dal 1885; trasformo il settimanale in quotidiano
+  haaretz:
+    name: Haaretz
+    type: media
+    founded: 1919
+    headquarters: Tel Aviv, Israel
+    status: active
+    stakeholders:
+    - person: yisrael-harel
+      role: member
+      note: Columnist
+  hadassah-medical-center:
+    name: Hadassah Medical Center
+    type: university
+    headquarters: Jerusalem, Israel
+    status: active
+    stakeholders:
+    - person: aryeh-eldad
+      role: executive
+      from: 2000
+      to: 2003
+      note: Head of Plastic Surgery and Burns Unit
   haganah:
     name: Haganah
     type: agency
@@ -31930,6 +33303,19 @@ organizations:
       from: 1940
       to: 1948
       note: Joined at age 14
+    - person: david-ben-gurion
+      role: leader
+      from: 1946
+      to: 1948
+      note: De facto commander via Jewish Agency security dept
+    - org: hashomer
+      role: merger
+      from: 1920
+      note: Hashomer si sciolse e i membri confluirono nella Haganah
+    - org: ahdut-haavoda
+      role: membership
+      from: 1920
+      note: Ahdut HaAvoda decise fondazione Haganah (giugno 1920)
   hai-robotics:
     name: HAI Robotics
     type: company
@@ -32111,6 +33497,12 @@ organizations:
     headquarters: Gaza
     status: active
     stakeholders:
+    - person: yahya-sinwar
+      role: leader
+      note: Leader Hamas Gaza; pianificatore attacco 7 ottobre; ucciso da IDF ott 2024
+    - person: ismail-haniyeh
+      role: leader
+      note: Capo ufficio politico Hamas; assassinato a Tehran 31 lug 2024
     - org: irgc
       role: sponsor
       from: 1992
@@ -32273,6 +33665,51 @@ organizations:
     - org: hgv-hamburg
       share: 13.9
       note: City of Hamburg
+  hapoel-hamizrachi:
+    name: Hapoel HaMizrachi
+    type: party
+    founded: 1922
+    headquarters: Tel Aviv, Palestine
+    status: dissolved
+    stakeholders:
+    - person: moshe-shapira
+      role: leader
+      note: Co-fondatore, leader politico
+    - person: yosef-burg
+      role: member
+      note: Dirigente, poi leader Mafdal
+    - person: zerach-warhaftig
+      role: member
+      note: Firmatario Dichiarazione Indipendenza, Ministro Affari Religiosi
+    - person: shlomo-zalman-shragai
+      role: founder
+      from: 1922
+      note: Co-fondatore, ideologo
+  hapoel-hatzair:
+    name: Hapoel Hatzair (The Young Worker)
+    type: party
+    founded: 1905
+    headquarters: Palestine
+    status: dissolved
+    sector: politics
+    note: Partito sionista-laburista non-marxista; filosofia A.D. Gordon (lavoro come redenzione); fuso con Ahdut HaAvoda
+      in Mapai 1930
+    stakeholders:
+    - person: eliezer-joffe
+      role: leader
+      note: Representative at Zionist Congresses; merged into Mapai 1930
+    - person: ad-gordon
+      role: founder
+      from: 1905
+      note: Filosofo ispiratore; "religione del lavoro"
+    - person: yosef-sprinzak
+      role: leader
+      from: 1905
+      to: 1930
+      note: Co-fondatore; guido fusione in Mapai con BG
+    - person: haim-arlosoroff
+      role: leader
+      note: Leader; poi Jewish Agency Political Department
   harken-energy:
     name: Harken Energy
     type: company
@@ -32331,6 +33768,9 @@ organizations:
     - person: dustin-moskovitz
       role: alumni
       note: Economics 2002-2004, dropped out
+    - person: elise-stefanik
+      role: alumni
+      note: BA Government 2006, cum laude; VP Harvard Institute of Politics
     - person: elliott-abrams
       role: alumni
       note: BA 1969; JD Harvard Law School 1973
@@ -32384,6 +33824,12 @@ organizations:
       from: 1998
       to: 2012
       note: Donated $8.9M, continued campus visits after 2008 conviction
+    - person: avi-berkowitz
+      role: alumni
+      note: JD 2016, Harvard Law School
+    - person: yousef-al-otaiba
+      role: board
+      note: Member, Leadership Council for Center for Public Leadership, Kennedy School
     - person: reem-al-hashimy
       role: alumni
       note: Master degree
@@ -32393,6 +33839,9 @@ organizations:
     - person: roberto-tomasi
       role: alumni
       note: Executive Program
+    - person: mike-pompeo
+      role: alumni
+      note: JD 1994, Harvard Law Review editor
     - person: lynn-elsenhans
       role: alumni
       note: MBA 1980
@@ -32512,6 +33961,44 @@ organizations:
     - person: javed-khan
       role: alumni
       note: MBA
+    - person: hirschy-zarchi
+      role: advisor
+      from: 1997
+      note: Jewish Chaplain
+    - person: alan-dershowitz
+      role: academic
+      from: 1964
+      to: 2013
+      note: Felix Frankfurter Professor of Law, Harvard Law School; emeritus
+    - person: bill-ackman
+      role: alumni
+      note: BA History 1988 magna cum laude
+    - person: claudine-gay
+      role: alumni
+      note: PhD Government 1998
+    - person: claudine-gay
+      role: faculty
+      from: 2006
+      note: Wilbur A. Cowett Professor of Government and of African and African American Studies
+    - person: claudine-gay
+      role: executive
+      from: 2018
+      to: 2023
+      note: Edgerley Family Dean of the Faculty of Arts and Sciences
+    - person: claudine-gay
+      role: leader
+      from: 2023
+      to: 2024
+      note: 30th President (Jul 2023 - Jan 2024); prima presidente nera; mandato piu breve nella storia
+    - person: yoav-gallant
+      role: alumni
+      note: Senior Management Program, HBS
+    - person: asher-fredman
+      role: alumni
+      note: BA and MA Government and Middle Eastern Studies
+    - org: chabad-harvard
+      role: partnership
+      note: Jewish Chaplaincy; no university funding
   harvard-business-school:
     name: Harvard Business School
     type: university
@@ -32545,6 +34032,12 @@ organizations:
     - person: campbell-wilson
       role: alumni
       note: Global Strategic Management 2016
+    - person: bill-ackman
+      role: alumni
+      note: MBA 1992
+    - person: michael-epstein
+      role: alumni
+      note: OPM64 Program
   harvard-law:
     name: Harvard Law School
     type: university
@@ -32567,6 +34060,11 @@ organizations:
     - person: nicole-seligman
       role: alumni
       note: JD magna cum laude 1983, Harvard Law Review editor, Sears Prize
+    - person: alan-dershowitz
+      role: academic
+      from: 1964
+      to: 2013
+      note: Felix Frankfurter Professor of Law; youngest full prof in HLS history (age 28, 1967); emeritus
   harvard-medical-school:
     name: Harvard Medical School
     type: university
@@ -32758,6 +34256,51 @@ organizations:
       from: 2014
       to: 2020
       note: Deputy Chairman, killed with Soleimani
+  hashomer:
+    name: Hashomer (The Watchman)
+    type: agency
+    founded: 1909
+    headquarters: Kfar Tavor, Palestine
+    status: dissolved
+    note: Prima organizzazione di difesa ebraica organizzata in Palestina; max 100 membri; precursore della Haganah
+    stakeholders:
+    - person: david-ben-gurion
+      role: member
+      from: 1909
+      note: Membro del movimento; ruolo minore rispetto a Shochat e Ben-Zvi
+    - person: yitzhak-ben-zvi
+      role: founder
+      from: 1909
+      note: Co-founded with Ben-Gurion; precursor to Haganah
+    - person: israel-shochat
+      role: founder
+      from: 1909
+      to: 1920
+      note: Capo del comitato direttivo; fondatore anche di Bar-Giora (1907)
+    - person: alexander-zaid
+      role: founder
+      from: 1909
+      to: 1920
+      note: Co-fondatore Bar-Giora e Hashomer; assassinato 1938
+    - person: manya-shochat
+      role: founder
+      from: 1909
+      to: 1920
+      note: Co-fondatrice; moglie di Israel Shochat; poi attiva nella Haganah clandestina
+  hatzohar:
+    name: Hatzohar (Alliance of Revisionist Zionists)
+    type: party
+    founded: 1925
+    headquarters: Paris, France
+    status: dissolved
+    stakeholders:
+    - person: menachem-begin
+      role: member
+      note: Left to found Herut in 1948
+    - person: zeev-jabotinsky
+      role: founder
+      from: 1925
+      note: Founded Alliance of Revisionist Zionists in Paris
   havas:
     name: Havas
     type: media
@@ -32958,6 +34501,24 @@ organizations:
     - person: yehoshua-mondshine
       role: member
       note: Librarian, Manuscript and Archives Department, National Library of Israel
+    - person: neri-oxman
+      role: alumni
+      note: Medical Sciences 1996-1999 (dropped out)
+    - person: orit-strock
+      role: alumni
+      note: Hebrew University Secondary School
+    - person: avraham-stern
+      role: alumni
+      note: Classical Languages and Literature
+    - person: yoel-bin-nun
+      role: alumni
+      note: PhD Jewish Thought
+    - person: hagai-segal
+      role: alumni
+      note: BA Mathematics and Statistics
+    - person: miriam-adelson
+      role: alumni
+      note: BSc Microbiology and Genetics
     - org: talpiot
       role: partner
       note: Academic partner, cadets study at Hebrew University
@@ -32976,6 +34537,30 @@ organizations:
     - person: saskia-de-rothschild
       role: alumni
       note: Economics 2010
+  hehalutz:
+    name: HeHalutz (The Pioneer)
+    type: foundation
+    founded: 1905
+    headquarters: Multiple (USA, Russia, Poland, Palestine)
+    status: dissolved
+    sector: youth-movement
+    stakeholders:
+    - person: joseph-trumpeldor
+      role: founder
+      from: 1918
+      note: Founded in Petrograd, organized agricultural training for aliyah
+    - person: eliezer-joffe
+      role: founder
+      from: 1905
+      note: Founded HeHalutz in America
+    - person: david-ben-gurion
+      role: leader
+      from: 1915
+      note: Led HeHalutz recruitment in USA with Ben-Zvi
+    - person: yitzhak-ben-zvi
+      role: leader
+      from: 1915
+      note: Co-led HeHalutz in America; later 2nd President of Israel
   heidelberg-materials:
     name: Heidelberg Materials AG
     type: company
@@ -33113,18 +34698,67 @@ organizations:
       from: 2014
       to: 2022
       note: CEO
+  herbalife:
+    name: Herbalife Ltd.
+    type: company
+    founded: 1980
+    headquarters: Los Angeles, USA
+    status: active
+    sector: nutrition
+    stakeholders:
+    - person: carl-icahn
+      role: board
+      from: 2013
+      to: 2021
+      note: Largest shareholder (up to ~26%); board seats via Icahn Enterprises; exited May 2021
+    - person: mark-hughes
+      role: founder
+      from: 1980
+      to: 2000
+      note: Founder, Chairman & CEO
+    - person: michael-johnson-hlf
+      role: executive
+      from: 2003
+      note: CEO 2003-2017, 2019-2020, 2022-2025; Chairman 2007-2020; Executive Chairman 2025-
+    - person: stephan-gratziani
+      role: executive
+      from: 2025
+      note: CEO from May 2025; first distributor-turned-CEO since founder
+    - person: daniel-loeb
+      role: board
+      from: 2013
+      note: Acquired 8.2% stake Jan 2013, opposing Ackman short thesis
+    - org: pershing-square
+      role: stake
+      from: 2012
+      to: 2018
+      note: $1B short position; accused HLF of being pyramid scheme; exited Feb 2018 with ~$1B loss
+    - org: icahn-enterprises
+      role: stake
+      from: 2013
+      to: 2021
+      note: Peak ~26% stake; sold $600M in Jan 2021; fully exited May 2021
+    - org: third-point
+      role: stake
+      share: 0.082
+      from: 2013
+      note: 8.2% stake; sided with Icahn against Ackman short thesis
   heritage-foundation:
     name: The Heritage Foundation
     type: thinktank
     founded: 1973
     headquarters: Washington DC, USA
     status: active
+    note: EIN 23-7327730; Heritage Action for America (501c4 lobbying arm founded 2010); ~$100M revenue, ~500 employees
     stakeholders:
     - person: paul-bremer
       role: advisor
       from: 2001
       to: 2002
       note: Chaired Homeland Security Task Force
+    - person: liz-truss
+      role: member
+      note: Keynote speaker; Margaret Thatcher Freedom Lecture
     - person: mark-esper
       role: executive
       from: 1996
@@ -33155,6 +34789,55 @@ organizations:
       from: 1981
       to: 2015
       note: Board of Trustees
+    - person: asher-fredman
+      role: member
+      from: 2025
+      note: Visiting Fellow, Allison Center for National Security
+    - person: david-aaronson
+      role: member
+      from: 2025
+      note: Visiting Fellow, Allison Center for National Security
+    - person: daniel-flesch
+      role: member
+      from: 2025
+      note: Senior Policy Analyst, Abraham Accords initiative
+    - person: joseph-coors
+      role: founder
+      from: 1973
+      note: Co-Founder; $250K seed money
+    - person: jim-demint
+      role: executive
+      from: 2013
+      to: 2017
+      note: President; removed by board for management issues
+    - person: kay-coles-james
+      role: executive
+      from: 2018
+      to: 2021
+      note: President; first woman and African American to lead Heritage
+    - person: derrick-morgan
+      role: executive
+      from: 2022
+      note: Executive Vice President; oversees policy, communications, government relations
+    - person: roger-severino
+      role: executive
+      from: 2022
+      note: VP Economic and Domestic Policy; former HHS OCR Director (2017-2021); Project 2025 author
+    - person: tiffany-justice
+      role: executive
+      from: 2025
+      note: EVP Heritage Action for America; co-founder Moms for Liberty
+    - person: lindsey-burke
+      role: executive
+      to: 2025
+      note: Director Center for Education Policy; left June 2025 for DOE Deputy Chief of Staff; Project 2025 education chapter
+        author
+    - person: thomas-spoehr
+      role: executive
+      note: Director Center for National Defense; Lt. Gen. (Ret.)
+    - person: richard-mellon-scaife
+      role: board
+      note: Vice Chairman; major donor via Sarah Scaife Foundation ($23M+)
     - org: abraham-accords-peace-institute
       role: merged
       from: 2025
@@ -33179,6 +34862,30 @@ organizations:
     - person: roger-hertog
       role: founder
       note: President
+  herut:
+    name: Herut (Freedom)
+    type: party
+    founded: 1948
+    headquarters: Tel Aviv, Israel
+    status: dissolved
+    stakeholders:
+    - person: menachem-begin
+      role: founder
+      from: 1948
+      to: 1973
+      note: Founded from Irgun, merged into Likud 1973
+    - person: yitzhak-shamir
+      role: leader
+      from: 1983
+      to: 1988
+      note: Party leader after Begin resignation
+    - person: zeev-jabotinsky
+      role: founder
+      note: Ideological precursor, Herut founded by Begin on Jabotinsky platform
+    - org: irgun
+      role: parent
+      from: 1948
+      note: Herut founded by Begin from Irgun membership after dissolution
   herzog-fox-neeman:
     name: Herzog Fox & Neeman
     type: company
@@ -33451,11 +35158,6 @@ organizations:
     headquarters: Tel Aviv, Israel
     status: active
     stakeholders:
-    - person: ben-gurion
-      role: executive
-      from: 1921
-      to: 1935
-      note: Secretary General
     - person: amir-peretz
       role: executive
       from: 1995
@@ -33475,6 +35177,42 @@ organizations:
       from: 1969
       to: 1973
       note: Secretary General
+    - person: david-ben-gurion
+      role: leader
+      from: 1921
+      to: 1935
+      note: General Secretary
+    - person: yitzhak-ben-zvi
+      role: executive
+      from: 1920
+      to: 1929
+      note: Member of secretariat
+    - person: golda-meir
+      role: executive
+      from: 1928
+      to: 1946
+      note: Women Labour Council secretary 1928-32; Executive Committee 1934; Political Department head
+    - person: berl-katznelson
+      role: founder
+      from: 1920
+      to: 1944
+      note: Co-fondatore; fondatore Davar (1925) e Am Oved
+    - person: yosef-sprinzak
+      role: executive
+      from: 1920
+      to: 1949
+      note: Co-fondatore 1920; Secretary-General 1945-49
+    - org: hapoel-hamizrachi
+      role: membership
+      note: Fazione religiosa nella Histadrut
+    - org: hapoel-hatzair
+      role: membership
+      from: 1920
+      note: Co-fondatrice Histadrut con Ahdut HaAvoda
+    - org: ahdut-haavoda
+      role: membership
+      from: 1920
+      note: Co-fondatrice Histadrut con Hapoel Hatzair
   historica-canada:
     name: Historica Canada
     type: foundation
@@ -33591,6 +35329,20 @@ organizations:
     - person: charles-kushner
       role: alumni
       note: JD 1979, School of Law
+    - person: norm-coleman
+      role: alumni
+      note: BA Political Science
+  hogan-lovells:
+    name: Hogan Lovells
+    type: company
+    headquarters: Washington, D.C., USA
+    status: active
+    sector: services
+    stakeholders:
+    - person: norm-coleman
+      role: partner
+      from: 2011
+      note: Senior Counsel, lobbying for Saudi Arabia
   holcim:
     name: Holcim Ltd
     type: company
@@ -33810,6 +35562,38 @@ organizations:
       from: 2011
       to: 2014
       note: Executive Director
+  howard-hughes-holdings:
+    name: Howard Hughes Holdings
+    type: company
+    founded: 2010
+    headquarters: The Woodlands, USA
+    status: active
+    stakeholders:
+    - person: bill-ackman
+      role: chairman
+      from: 2010
+      note: Executive Chairman 2010-2024; rejoined May 2025
+    - person: ryan-israel
+      role: board
+      from: 2024
+      note: Board of Directors, also CIO
+    - person: ben-hakim
+      role: board
+      from: 2024
+      note: Board of Directors dal May 2024
+    - person: david-oreilly-hhh
+      role: executive
+      from: 2020
+      note: CEO dal dic 2020; ex CFO 2016-2021
+    - person: scot-sellers
+      role: chairman
+      from: 2025
+      note: Chairman of the Board dal 2025; succede ad Ackman
+    - org: pershing-square
+      role: stake
+      share: 0.47
+      from: 2010
+      note: $900M invested May 2025; Ackman Executive Chairman
   howard-university:
     name: Howard University
     type: university
@@ -34051,6 +35835,10 @@ organizations:
       role: member
       from: 2008
       note: Senior Fellow
+    - person: mike-pompeo
+      role: member
+      from: 2021
+      note: Distinguished Fellow, Chair China Center advisory board
     - person: scott-morrison
       role: advisor
       from: 2023
@@ -34593,6 +36381,39 @@ organizations:
     headquarters: Jakarta, Indonesia
     status: defunct
     note: Created to restructure banking sector after 1997-98 crisis. Managed $65B rescue, recovered ~$20B
+  icahn-co:
+    name: Icahn & Co
+    type: company
+    founded: 1968
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: carl-icahn
+      role: founder
+      from: 1968
+      note: Securities firm, options trading
+  icahn-enterprises:
+    name: Icahn Enterprises
+    type: company
+    founded: 1987
+    headquarters: Sunny Isles Beach, USA
+    status: active
+    stakeholders:
+    - person: carl-icahn
+      role: founder
+      from: 1987
+      note: Founder & controlling shareholder, diversified conglomerate
+    - person: brett-icahn
+      role: executive
+      from: 2002
+      note: Portfolio Manager Icahn Capital, co-manager Sargon Portfolio (~$8B AUM)
+  icann:
+    name: ICANN
+    type: agency
+    stakeholders:
+    - person: joi-ito
+      role: board
+      note: Board member
   icar:
     name: Indian Council of Agricultural Research
     type: agency
@@ -34794,11 +36615,6 @@ organizations:
       from: 1977
       to: 2015
       note: Chief of Staff 2011-15
-    - person: ben-gurion
-      role: founder
-      from: 1948
-      to: 1963
-      note: Creatore IDF da Haganah, Irgun, Lehi
     - person: yitzhak-rabin
       role: executive
       from: 1948
@@ -34855,6 +36671,22 @@ organizations:
       role: member
       from: 1983
       note: Sayeret Matkal, team leader
+    - person: yoav-gallant
+      role: executive
+      note: Major General; Southern Command, GOC Home Front Command
+    - person: aryeh-eldad
+      role: executive
+      from: 1997
+      to: 2000
+      note: Chief Medical Officer, Brigadier General
+    - person: baruch-goldstein
+      role: member
+      note: Physician, Captain (reserve)
+    - person: david-ben-gurion
+      role: founder
+      from: 1948
+      to: 1963
+      note: Creatore IDF da Haganah, Irgun, Lehi
     - org: aman
       role: subsidiary
       from: 1950
@@ -36500,6 +38332,30 @@ organizations:
       note: Board of Advisors
     - person: indra-nooyi
       role: board
+  international-workingmens-association:
+    name: International Workingmen's Association (First International)
+    type: forum
+    founded: 1864
+    headquarters: London, UK
+    status: dissolved
+    stakeholders:
+    - person: karl-marx
+      role: leader
+      from: 1864
+      to: 1876
+      note: General Council member, drafted Inaugural Address
+    - person: friedrich-engels
+      role: member
+      from: 1864
+      to: 1876
+    - person: pierre-joseph-proudhon
+      role: member
+      note: Mutualist influence, died 1865
+    - person: mikhail-bakunin
+      role: member
+      from: 1868
+      to: 1872
+      note: Expelled 1872, anarchist faction
   interpump:
     name: Interpump Group S.p.A.
     type: company
@@ -36691,6 +38547,18 @@ organizations:
       role: partner
       from: 2010
       note: Managing Principal, leads Investindustrial Growth
+  investment-corporation-dubai:
+    name: Investment Corporation of Dubai
+    type: swf
+    headquarters: Dubai, ARE
+    status: active
+    stakeholders:
+    - person: hamdan-bin-mohammed-al-maktoum
+      role: chairman
+      note: Chairman ICD Board
+    - person: maktoum-bin-mohammed-al-maktoum
+      role: board
+      note: Vice Chairman ICD Board
   investor-ab:
     name: Investor AB
     type: company
@@ -36985,6 +38853,50 @@ organizations:
       note: Implicato attentato AMIA 1994, ex capo Quds Force | deputy-commander
     - org: quds-force
       role: unit
+  irgun:
+    name: Irgun Zvai Leumi (Etzel)
+    type: agency
+    founded: 1931
+    headquarters: Mandatory Palestine
+    status: dissolved
+    stakeholders:
+    - person: menachem-begin
+      role: leader
+      from: 1943
+      to: 1948
+      note: Commander
+    - person: zeev-jabotinsky
+      role: founder
+      from: 1931
+      to: 1940
+      note: Supreme Commander (Rosh Betar)
+    - person: avraham-stern
+      role: member
+      to: 1940
+      note: Senior member, split to found Lehi
+    - person: david-raziel
+      role: leader
+      from: 1938
+      to: 1941
+      note: Commander of Irgun Zvai Leumi
+    - org: haganah
+      role: splinter
+      from: 1931
+      note: Irgun split from Haganah over policy of restraint (havlagah)
+    - org: lehi
+      role: splinter
+      from: 1940
+      note: Split from Irgun over British truce during WWII
+    - org: betar
+      role: affiliate
+      note: Betar members formed core of Irgun fighters; shared leadership from 1938
+    - org: hatzohar
+      role: affiliate
+      from: 1937
+      note: Irgun aligned with Hatzohar from 1937, joint Aliyah Center
+    - org: new-zionist-organization
+      role: parent
+      note: Military arm of the Revisionist-NZO movement
   iri:
     name: Istituto per la Ricostruzione Industriale
     type: company
@@ -37073,6 +38985,16 @@ organizations:
       share: 100
       from: 2013
       note: acquired 80% 2006, 100% 2013
+  isgap:
+    name: Institute for the Study of Global Antisemitism and Policy
+    type: thinktank
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: natan-sharansky
+      role: chairman
+      from: 2019
+      note: Chairman
   ispi:
     name: ISPI - Istituto per gli Studi di Politica Internazionale
     type: thinktank
@@ -37174,12 +39096,110 @@ organizations:
       from: 1982
       to: 1990
       note: Director
+  israel-hayom:
+    name: Israel Hayom (ישראל היום)
+    type: media
+    founded: 2007
+    headquarters: Tel Aviv, Israel
+    status: active
+    note: Free daily newspaper, most widely read in Israel (27.4% readership); founded by Sheldon Adelson 2007; now owned
+      by Miriam Adelson; pro-Netanyahu editorial line; lost ~$190M 2007-2014; owns Maariv since 2014
+    stakeholders:
+    - person: sheldon-adelson
+      role: founder
+      from: 2007
+      to: 2021
+      note: Founder and owner; free daily newspaper; died Jan 2021
+    - person: miriam-adelson
+      role: executive
+      from: 2018
+      note: Publisher (named 2018), owner after Sheldon Adelson death 2021
+    - person: amos-regev
+      role: editor
+      from: 2007
+      to: 2017
+      note: Founding editor-in-chief
+    - person: boaz-bismuth
+      role: editor
+      from: 2017
+      to: 2022
+      note: Editor-in-chief; stepped down Jan 2022, ran for Knesset with Likud
+    - person: omer-lachmanovitch
+      role: editor
+      from: 2022
+      note: Editor-in-chief (current); with the paper since founding 2007
+  israel-labour-party:
+    name: Israeli Labor Party (HaAvoda)
+    type: party
+    founded: 1968
+    headquarters: Tel Aviv, Israel
+    status: active
+    note: Nato dalla fusione di Mapai, Ahdut HaAvoda e Rafi (1968); dominò la politica israeliana 1948-1977
+    stakeholders:
+    - person: ehud-barak
+      role: leader
+      from: 1997
+      to: 2001
+      note: Chairman 1997-2001, 2007-11; PM 1999-2001
+    - person: yair-golan
+      role: leader
+      from: 2024
+      note: Eletto chairman aprile 2024; ex vice capo di stato maggiore IDF
+    - person: isaac-herzog
+      role: leader
+      from: 2013
+      to: 2017
+      note: Chairman, PM candidate 2015
+    - person: yitzhak-rabin
+      role: leader
+      from: 1974
+      to: 1977
+      note: Chairman 1974-77, 1992-95; PM; assassinato 1995
+    - person: shimon-peres
+      role: leader
+      from: 1977
+      to: 1992
+      note: Chairman in piu periodi; PM 1984-86, 1995-96
+    - person: golda-meir
+      role: leader
+      from: 1968
+      to: 1974
+      note: Co-fondatrice; leader fino a dimissioni 1974
+    - person: levi-eshkol
+      role: leader
+      from: 1968
+      to: 1969
+      note: Primo chairman; PM fino alla morte
+    - org: mapai
+      role: merger
+      from: 1968
+      note: Componente principale della fusione
+    - org: rafi
+      role: merger
+      from: 1968
+      note: Si fuse nel Labour Party (escluso Ben-Gurion)
+    - org: ahdut-haavoda
+      role: merger
+      from: 1968
+      note: Si fuse nel Labour Party
   iss:
     name: Institute for Security Studies
     type: thinktank
     stakeholders:
     - person: anton-du-plessis
       role: executive
+  istanbul-university:
+    name: Istanbul University
+    type: university
+    headquarters: Istanbul, Turkey
+    status: active
+    stakeholders:
+    - person: david-ben-gurion
+      role: alumni
+      note: Law studies 1912-14 (incomplete, expelled by Ottomans)
+    - person: yitzhak-ben-zvi
+      role: alumni
+      note: Law studies with Ben-Gurion (incomplete, expelled by Ottomans WWI)
   istari:
     name: Istari
     type: company
@@ -37755,6 +39775,9 @@ organizations:
       role: advisor
       from: 2024
       note: Senior Advisor
+    - person: daniel-loeb
+      role: executive
+      note: Pre-Third Point career
     - org: smfg
       share: 20%
       from: 2021
@@ -37855,11 +39878,6 @@ organizations:
     status: active
     note: Ha-Sokhnut ha-Yehudit le-Eretz Yisrael. Braccio operativo WZO, immigrazione ebraica
     stakeholders:
-    - person: ben-gurion
-      role: chairman
-      from: 1935
-      to: 1948
-      note: Chairman Jewish Agency Executive
     - person: chaim-weizmann
       role: founder
       from: 1929
@@ -37875,10 +39893,141 @@ organizations:
       from: 2018
       to: 2021
       note: Chairman of the Executive
+    - person: nahum-sokolow
+      role: chairman
+      from: 1935
+      to: 1936
+      note: Honorary President
+    - person: david-ben-gurion
+      role: chairman
+      from: 1935
+      to: 1948
+      note: Chairman of the Board; also headed security dept from 1946
+    - person: golda-meir
+      role: leader
+      from: 1946
+      to: 1948
+      note: Acting head Political Department 1946-48
     - org: world-zionist-organization
       role: parent
       from: 1929
       note: Jewish Agency braccio operativo WZO
+    - org: hehalutz
+      role: partnership
+      note: Coordinated aliyah and agricultural settlement
+  jewish-colonization-association:
+    name: Jewish Colonization Association
+    type: foundation
+    founded: 1891
+    headquarters: Paris, France (direzione); Londra (sede legale)
+    status: active
+    note: Fondata da Maurice de Hirsch con £2M iniziali (poi £9M). Incorporata sotto UK Companies Acts. Colonie in Argentina,
+      Brasile, Canada, Palestina. Ramo palestinese → PICA (1924). Continua come ICA in Israele dal 1955.
+    stakeholders:
+    - person: edmond-james-de-rothschild
+      role: patron
+      from: 1899
+      to: 1924
+      note: Trasferì colonie palestinesi + 15M franchi (1899). Riorganizzò ramo palestinese come PICA (1924).
+    - person: maurice-de-hirsch
+      role: founder
+      from: 1891
+      to: 1896
+      note: Fondatore, 19.993 su 20.000 azioni
+    - person: narcisse-leven
+      role: leader
+      from: 1896
+      to: 1915
+      note: Presidente
+    - person: zadoc-kahn
+      role: board
+      from: 1891
+      to: 1905
+      note: Membro del primo consiglio. Presentò a de Hirsch il progetto di colonizzazione argentina
+  jewish-defense-league:
+    name: Jewish Defense League (JDL)
+    type: foundation
+    founded: 1968
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: meir-kahane
+      role: founder
+      from: 1968
+      note: Founded in New York
+    - person: baruch-goldstein
+      role: member
+    - person: baruch-marzel
+      role: member
+      note: Joined age 13
+    - person: binyamin-kahane
+      role: member
+      note: Figlio del fondatore
+  jewish-legion:
+    name: Jewish Legion
+    type: agency
+    founded: 1917
+    headquarters: Palestine
+    status: dissolved
+    note: Battaglioni ebraici nel British Army (38th-42nd Royal Fusiliers); successore del Zion Mule Corps
+    stakeholders:
+    - person: james-armand-de-rothschild
+      role: officer
+      from: 1918
+      note: Major, 39th Battalion Royal Fusiliers. Liaison officer Zionist Commission.
+    - org: zion-mule-corps
+      role: parent
+      note: Predecessore diretto; 120 veterani ZMC formarono nucleo della Jewish Legion
+  jewish-national-fund:
+    name: Jewish National Fund
+    type: foundation
+    founded: 1901
+    headquarters: Jerusalem, Israel
+    status: active
+    note: Keren Kayemeth LeIsrael. Fondato al V Congresso Sionista (Basilea, 1901). Acquisto terre inalienabili del popolo
+      ebraico. 936.000 dunam al 1948 (54% terre ebraiche). Possiede 13% terre israeliane, controlla 93% via Israel Land Authority.
+      Ricevette terre PICA (1957).
+    stakeholders:
+    - person: theodor-herzl
+      role: founder
+      from: 1901
+      to: 1904
+      note: Promotore al V Congresso Sionista (1901)
+    - org: world-zionist-organization
+      role: parent
+      from: 1901
+      note: JNF creato come organo del WZO
+    - org: pica
+      role: transferred-to
+      from: 1957
+      note: PICA trasferì 125.000+ acri a JNF/Stato di Israele
+  jewish-policy-center:
+    name: Jewish Policy Center
+    type: thinktank
+    founded: 1985
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: norman-podhoretz
+      role: fellow
+    - person: matt-brooks
+      role: executive
+      note: CEO
+    - person: michael-epstein
+      role: board
+      note: Vice Chairman
+    - person: shoshana-bryen
+      role: executive
+      from: 2012
+      note: Senior Director, Editor-in-Chief inFOCUS Quarterly
+    - person: karen-tandy
+      role: chairman
+      note: Chair
+    - person: daniel-pipes
+      role: fellow
+    - org: republican-jewish-coalition
+      role: parent
+      note: JPC fondato come offshoot di RJC nel 1985
   jf-investimentos:
     name: J&F Investimentos
     type: company
@@ -37965,6 +40114,16 @@ organizations:
       role: member
       from: 1998
       note: Signed 2000 statement supporting Israel
+    - person: shoshana-bryen
+      role: executive
+      from: 1981
+      to: 2012
+      note: Executive Director, Senior Director for Security Policy
+    - person: ron-dermer
+      role: member
+      from: 2021
+      to: 2022
+      note: Gemunder Center Non-Resident Distinguished Fellow
   johns-hopkins:
     name: Johns Hopkins University
     type: university
@@ -38360,6 +40519,40 @@ organizations:
       role: controlling
       share: 65.4
       note: Majority shareholder
+  kach:
+    name: Kach
+    type: party
+    founded: 1971
+    headquarters: Israel
+    status: defunct
+    stakeholders:
+    - person: itamar-ben-gvir
+      role: member
+      note: Youth activist
+    - person: michael-ben-ari
+      role: member
+    - person: meir-kahane
+      role: founder
+      from: 1971
+      to: 1990
+      note: MK 1984-1988, banned 1988
+    - person: baruch-goldstein
+      role: member
+    - person: baruch-marzel
+      role: executive
+      note: Spokesman 10 years, head of secretariat after Kahane death
+    - person: bentzi-gopstein
+      role: member
+      note: Seguace di Kahane; detenzione amministrativa 1994
+    - person: binyamin-kahane
+      role: member
+      from: 1984
+      to: 1990
+      note: Member before founding Kahane Chai
+    - org: jewish-defense-league
+      role: spin-off
+      from: 1971
+      note: Kahane fondo Kach in Israele come ramo politico
   kadewe:
     name: KaDeWe Group
     type: company
@@ -38378,6 +40571,23 @@ organizations:
       from: 2015
       to: 2024
       note: Also landlord of buildings. Collapsed Nov 2023
+  kahane-chai:
+    name: Kahane Chai
+    type: party
+    founded: 1990
+    headquarters: Kfar Tapuach, West Bank
+    status: defunct
+    note: Founded by Binyamin Kahane (son of Meir) after father assassination. Banned as terrorist org 1994 (Israel/USA).
+      US FTO delisted 2022 (inactivity). Shfaram shooting 2005 (4 dead). Ideology continued via Otzma Yehudit.
+    stakeholders:
+    - person: binyamin-kahane
+      role: founder
+      from: 1990
+      to: 2000
+      note: Leader until assassination
+    - org: kach
+      role: predecessor
+      note: Split after Kahane assassination 1990
   kapital-bank:
     name: Kapital Bank
     type: bank
@@ -38719,6 +40929,26 @@ organizations:
       role: investor
       from: 2003
       to: 2004
+  kfar-chabad:
+    name: Kfar Chabad
+    type: religiousinstitution
+    founded: 1949
+    headquarters: Kfar Chabad, Israel
+    status: active
+    stakeholders:
+    - person: yosef-yitzchak-schneersohn
+      role: founder
+      from: 1949
+      note: Diresse la fondazione per assorbire chassidim da URSS
+    - person: gershon-mendel-garelik
+      role: member
+      from: 1949
+      to: 1958
+      note: Residente; studio presso Yeshivas Achei Temimim
+    - org: chabad-lubavitch
+      role: branch
+      from: 1949
+      note: Sede centrale Chabad in Israele; replica di 770 Eastern Parkway
   kfupm:
     name: King Fahd University of Petroleum and Minerals
     type: university
@@ -38840,6 +41070,28 @@ organizations:
     - person: vinod-khosla
       role: founder
       from: 2004
+  kibbutz-hadati:
+    name: Ha-Kibbutz Ha-Dati
+    type: foundation
+    founded: 1935
+    headquarters: Israel
+    status: active
+    stakeholders:
+    - org: hapoel-hamizrachi
+      role: spin-off
+      from: 1935
+      note: Movimento dei kibbutz religiosi
+  kimberley-process:
+    name: Kimberley Process Certification Scheme
+    type: forum
+    founded: 2003
+    headquarters: International
+    status: active
+    stakeholders:
+    - person: ahmed-bin-sulayem
+      role: chairman
+      from: 2016
+      note: Chair 2016, reappointed 2024, Custodian Chair 2025
   king-spalding:
     name: King & Spalding
     type: company
@@ -39105,6 +41357,11 @@ organizations:
       from: 2020
       to: 2025
       note: Director, Credit team - restructurings
+    - person: charles-korn
+      role: analyst
+      from: 2012
+      to: 2014
+      note: PE Associate, Media, Communications & Industrials
     - org: mubadala
       role: investor
       note: $1B co-investment Asia-Pacific 2022
@@ -39185,6 +41442,14 @@ organizations:
       from: 2014
       to: 2021
       note: CEO, transformed to digital company
+  knight-foundation:
+    name: John S. and James L. Knight Foundation
+    type: foundation
+    stakeholders:
+    - person: joi-ito
+      role: board
+      to: 2019
+      note: Board. Resigned 2019 over Epstein scandal
   knpc:
     name: Kuwait National Petroleum Company (KNPC)
     type: company
@@ -39489,6 +41754,10 @@ organizations:
       role: executive
       from: 2015
       note: Vice Chairman, Chairman & CEO Kraft Foods 2014-2015
+    - person: feroz-dewan
+      role: board
+      from: 2016
+      note: Independent Director
   kraken:
     name: Kraken
     type: company
@@ -39624,6 +41893,9 @@ organizations:
       role: executive
       from: 2007
       note: CEO (2008-2017, 2021-)
+    - person: avi-berkowitz
+      role: member
+      note: Pre-government, managed apartment portfolio
     - person: charles-kushner
       role: founder
       from: 1985
@@ -39888,18 +42160,6 @@ organizations:
       note: Conduttrice Otto e mezzo
     - org: cairo-communication
       share: 100%
-  labor-party-israel:
-    name: Labor Party (Israel)
-    type: party
-    founded: 1968
-    headquarters: Tel Aviv, Israel
-    status: active
-    stakeholders:
-    - person: isaac-herzog
-      role: leader
-      from: 2013
-      to: 2017
-      note: Chairman, PM candidate 2015
   lactalis:
     name: Groupe Lactalis
     type: company
@@ -40059,6 +42319,23 @@ organizations:
     name: Larsen & Toubro
     type: company
     headquarters: Mumbai, India
+  las-vegas-sands:
+    name: Las Vegas Sands Corp.
+    type: company
+    founded: 1988
+    headquarters: Las Vegas, USA
+    status: active
+    note: Casino and resort company; Sheldon Adelson founded; Miriam Adelson majority owner after 2021
+    stakeholders:
+    - person: sheldon-adelson
+      role: founder
+      from: 1988
+      to: 2021
+      note: Founder, Chairman and CEO; died Jan 2021
+    - person: miriam-adelson
+      role: chairman
+      from: 2021
+      note: Majority owner after Sheldon Adelson death; Patrick Dumont is CEO
   lasker-foundation:
     name: Lasker Foundation
     type: foundation
@@ -40258,6 +42535,22 @@ organizations:
       from: 1919
       to: 1923
       note: Vice Segretario Generale
+  league-of-the-just:
+    name: League of the Just
+    type: foundation
+    founded: 1836
+    headquarters: Paris, France
+    status: dissolved
+    stakeholders:
+    - person: karl-marx
+      role: member
+      from: 1847
+      to: 1847
+      note: Joined before transformation to Communist League
+    - person: wilhelm-weitling
+      role: founder
+      from: 1836
+      note: Ideologue, utopian communist
   lean-in:
     name: LeanIn.Org
     type: foundation
@@ -40344,6 +42637,54 @@ organizations:
     - org: blackrock
       role: shareholder
       share: 5.0
+  lehava:
+    name: Lehava
+    type: foundation
+    founded: 2005
+    headquarters: Israel
+    status: active
+    note: LiMniat Hitbolelut B'eretz HaKodesh (Per la Prevenzione dell'Assimilazione nella Terra Santa). Org anti-assimilazione
+      kahanista, 10.000+ membri. Fondata da Bentzi Gopstein (Kach). Definita dal Dipartimento di Stato USA 'largest violent
+      extremist organization in Israel' (lug 2024). Sanzionata USA/UE/UK 2024; sanzioni USA revocate gen 2025 (Trump). Ben
+      Gvir avvocato di Gopstein e dell'org.
+    stakeholders:
+    - person: itamar-ben-gvir
+      role: advisor
+      note: Avvocato di Gopstein e dell'org; rappresentante legale
+    - person: bentzi-gopstein
+      role: founder
+      from: 2005
+      note: Fondatore e direttore
+    - org: kach
+      role: ideological_predecessor
+      note: Gopstein era membro Kach; Lehava nella stessa orbita kahanista
+  lehi:
+    name: Lehi (Lohamei Herut Israel)
+    type: agency
+    founded: 1940
+    headquarters: Mandatory Palestine
+    status: dissolved
+    stakeholders:
+    - person: israel-eldad
+      role: leader
+      from: 1942
+      to: 1948
+      note: Ideologue, triumvirate with Shamir and Yellin-Mor
+    - person: yitzhak-shamir
+      role: leader
+      from: 1942
+      to: 1948
+      note: Operations chief, triumvirate with Eldad and Yellin-Mor
+    - person: natan-yellin-mor
+      role: leader
+      from: 1942
+      to: 1948
+      note: Diplomatic/political chief, triumvirate with Shamir and Eldad
+    - person: avraham-stern
+      role: founder
+      from: 1940
+      to: 1942
+      note: Founder, killed by British police Feb 1942
   lehman-brothers:
     name: Lehman Brothers
     type: bank
@@ -40647,6 +42988,16 @@ organizations:
     - person: john-malone
       role: chairman
       note: Chairman, largest voting shareholder
+  liberty-university:
+    name: Liberty University
+    type: university
+    headquarters: Lynchburg, USA
+    status: active
+    stakeholders:
+    - person: mike-pompeo
+      role: member
+      from: 2021
+      note: Distinguished Professor, Helms School of Government
   lifeway-foods:
     name: Lifeway Foods
     type: company
@@ -40679,8 +43030,8 @@ organizations:
       from: 2000
       note: Co-founder, Partner
   likud:
-    name: Likud
-    type: agency
+    name: Likud (National Liberal Movement)
+    type: party
     founded: 1973
     headquarters: Tel Aviv, Israel
     status: active
@@ -40690,6 +43041,29 @@ organizations:
       role: chairman
       from: 1993
       note: Leader del partito
+    - person: menachem-begin
+      role: founder
+      from: 1973
+      to: 1983
+      note: Co-founded Likud from Herut+Liberal+others
+    - person: ariel-sharon
+      role: leader
+      from: 1999
+      to: 2005
+      note: Party chairman; PM 2001-2006; left to found Kadima Nov 2005
+    - person: yoav-gallant
+      role: member
+      from: 2018
+      note: Joined from Kulanu; resigned from Knesset Jan 2025
+    - person: yitzhak-shamir
+      role: leader
+      from: 1973
+      to: 1993
+      note: Herut/Likud leader 1983-1993
+    - org: herut
+      role: parent
+      from: 1973
+      note: Herut was the dominant faction in the Likud alliance (1973), fully merged 1988
   lilium:
     name: Lilium N.V.
     type: company
@@ -41602,6 +43976,51 @@ organizations:
     stakeholders:
     - org: pif-saudi
       note: Major shareholder
+  maariv:
+    name: Maariv (מעריב)
+    type: media
+    founded: 1948
+    headquarters: Tel Aviv, Israel
+    status: active
+    stakeholders:
+    - person: robert-maxwell
+      role: owner
+      from: 1989
+      to: 1991
+      note: Acquired 87% shares; died Nov 1991
+    - person: yisrael-harel
+      role: member
+      from: 1969
+      note: Deputy editor weekend section
+    - person: azriel-carlebach
+      role: founder
+      from: 1948
+      to: 1956
+      note: Founder and first editor-in-chief; died in office
+    - person: yaakov-nimrodi
+      role: owner
+      from: 1992
+      to: 2010
+      note: Acquired after Robert Maxwell death; arms dealer
+    - person: ofer-nimrodi
+      role: executive
+      from: 1992
+      to: 2010
+      note: Publisher; indicted 1999 for murder conspiracy plot
+    - person: eli-azur
+      role: owner
+      from: 2014
+      note: Purchased for 4M shekels; also owns Jerusalem Post, Sport1, 103FM
+    - person: nochi-dankner
+      role: owner
+      from: 2011
+      to: 2012
+      note: Via IDB Holding; ~300M shekels; failed stabilization
+    - person: shlomo-ben-tzvi
+      role: owner
+      from: 2012
+      to: 2014
+      note: 80-85M shekels; right-wing publisher of Makor Rishon; sharp turn right
   maastricht-university:
     name: Maastricht University
     type: university
@@ -41611,6 +44030,14 @@ organizations:
     - person: marijke-wijnroks
       role: alumni
       note: MD (Medical Degree)
+  macarthur-foundation:
+    name: John D. and Catherine T. MacArthur Foundation
+    type: foundation
+    stakeholders:
+    - person: joi-ito
+      role: board
+      to: 2019
+      note: Board. Resigned 2019 over Epstein scandal
   maccabi-health:
     name: Maccabi Healthcare Services
     type: company
@@ -41690,6 +44117,45 @@ organizations:
       note: Chairman of the Board
     - org: blackrock
       share: 2.5%
+  mafdal:
+    name: National Religious Party (Mafdal)
+    type: party
+    founded: 1956
+    headquarters: Tel Aviv, Israel
+    status: dissolved
+    stakeholders:
+    - person: hanan-porat
+      role: member
+      from: 1988
+      to: 1999
+      note: Knesset Member, parliamentary group chairman 1996
+    - person: zvi-hendel
+      role: member
+      to: 1998
+      note: Lascia dopo Wye River Memorandum
+    - person: haim-drukman
+      role: legislator
+      from: 1977
+      to: 1988
+      note: MK 9a-11a Knesset (NRP e Morasha)
+    - person: moshe-shapira
+      role: leader
+      from: 1956
+      to: 1970
+      note: Chairman
+    - person: yosef-burg
+      role: leader
+      from: 1970
+      to: 1986
+      note: Chairman
+    - org: hapoel-hamizrachi
+      role: merged
+      from: 1956
+      note: Fusione con Mizrachi per formare il Mafdal
+    - org: mizrachi
+      role: spin-off
+      from: 1956
+      note: Fusione con Hapoel HaMizrachi per formare Mafdal
   magyar-telekom:
     name: Magyar Telekom
     type: company
@@ -41740,6 +44206,40 @@ organizations:
       share: 0.68
       from: 1963
       note: Acquired Makhteshim 1963, created Agan 1974. Core asset after restructuring.
+  makor-rishon:
+    name: Makor Rishon (מקור ראשון)
+    type: media
+    founded: 1997
+    headquarters: Jerusalem, Israel
+    status: active
+    stakeholders:
+    - person: hagai-segal
+      role: editor
+      from: 2014
+      to: 2023
+      note: Editor-in-Chief
+    - person: shlomo-ben-tzvi
+      role: owner
+      from: 1997
+      to: 2014
+      note: Publisher/owner; also owned Maariv 2012-2014
+    - person: sheldon-adelson
+      role: owner
+      from: 2014
+      to: 2021
+      note: Purchased via Israel Hayom for $5M; died Jan 2021
+    - person: ori-elitzur
+      role: editor
+      to: 2014
+      note: Editor-in-Chief; died in office 2014, age 68
+    - person: elad-tana
+      role: editor
+      from: 2023
+      note: Editor-in-Chief, succeeded Hagai Segal
+    - org: israel-hayom
+      role: parent
+      from: 2014
+      note: Acquired by Israel Hayom Newspaper Company (Adelson)
   malaysia-airports:
     name: Malaysia Airports Holdings Berhad
     type: company
@@ -41870,6 +44370,9 @@ organizations:
     - person: roger-hertog
       role: chairman
       note: Former Chairman
+    - person: daniel-loeb
+      role: board
+      note: Trustee; received Alexander Hamilton Award 2020
   mansour-group:
     name: Mansour Group
     type: company
@@ -41895,15 +44398,62 @@ organizations:
       to: 1979
       note: Finance Chair 1958-61, Vice Chair 1961-63, President 1963-71, Chairman 1971-79
   mapai:
-    type: company
+    name: Mapai (Workers Party of the Land of Israel)
+    type: party
     founded: 1930
+    headquarters: Tel Aviv, Palestine/Israel
     status: dissolved
     stakeholders:
-    - person: ben-gurion
+    - person: pinhas-lavon
+      role: member
+      from: 1930
+      to: 1961
+      note: Secretary-General Histadrut; espulso 1961
+    - person: david-ben-gurion
+      role: founder
+      from: 1930
+      to: 1965
+      note: Founded 1930; left to form Rafi 1965
+    - person: yitzhak-ben-zvi
+      role: founder
+      from: 1930
+      note: Co-fondatore con Ben-Gurion; Knesset member 1949-52
+    - person: golda-meir
       role: founder
       from: 1930
       to: 1968
-      note: Leader del partito
+      note: Secretary-General 1966-68
+    - person: levi-eshkol
+      role: leader
+      from: 1963
+      to: 1968
+      note: Party leader; PM 1963-69
+    - person: berl-katznelson
+      role: founder
+      from: 1930
+      to: 1944
+      note: Ideologo e leader spirituale del partito
+    - person: yosef-sprinzak
+      role: founder
+      from: 1930
+      note: Co-fondatore Mapai da Hapoel Hatzair
+    - person: moshe-sharett
+      role: leader
+      from: 1930
+      to: 1965
+      note: PM 1954-55; party leader dopo Ben-Gurion
+    - org: poalei-zion
+      role: membership
+      from: 1930
+      note: Poalei Zion Right (via Ahdut HaAvoda) + Hapoel Hatzair = Mapai
+    - org: hapoel-hatzair
+      role: membership
+      from: 1930
+      note: Fusione con Ahdut HaAvoda → Mapai
+    - org: ahdut-haavoda
+      role: membership
+      from: 1930
+      note: Fusione con Hapoel Hatzair → Mapai
   mara-group:
     name: Mara Group
     type: company
@@ -42395,6 +44945,11 @@ organizations:
       role: partner
       from: 2005
       to: 2009
+    - person: feroz-dewan
+      role: executive
+      from: 1999
+      to: 2002
+      note: Manager
   mclaren:
     name: McLaren Group
     type: company
@@ -42751,6 +45306,41 @@ organizations:
       role: partner
       from: 2015
       note: Partner, led Anthropic investment
+  mercaz-harav:
+    name: Mercaz HaRav
+    type: university
+    founded: 1924
+    headquarters: Jerusalem, Israel
+    status: active
+    stakeholders:
+    - person: hanan-porat
+      role: alumni
+      note: Rabbinical ordination
+    - person: yoel-bin-nun
+      role: alumni
+      note: Allievo di Zvi Yehuda Kook
+    - person: moshe-levinger
+      role: alumni
+    - person: zvi-yehuda-kook
+      role: leader
+      from: 1952
+      to: 1982
+      note: Rosh Yeshiva (succede a R. Charlap)
+    - person: haim-drukman
+      role: alumni
+    - person: shlomo-aviner
+      role: alumni
+    - person: eliezer-waldman
+      role: alumni
+    - person: abraham-isaac-kook
+      role: founder
+      from: 1921
+      to: 1935
+      note: Fondatore e primo Rosh Yeshiva
+    - person: zalman-baruch-melamed
+      role: alumni
+      from: 1954
+      note: Studied ~10 years, also taught; close student of Zvi Yehuda Kook
   mercedes-benz:
     name: Mercedes-Benz Group
     type: automaker
@@ -42894,6 +45484,19 @@ organizations:
       role: executive
       from: 2004
       note: Executive Director Merkos 302; successor to father Moshe
+    - person: avraham-hazan
+      role: executive
+      from: 1996
+      note: Co-direttore scuola Milano
+    - person: gershon-mendel-garelik
+      role: executive
+      from: 1959
+      to: 2021
+      note: Emissario capo Italia, fondatore scuola Milano
+    - person: rami-banin
+      role: executive
+      from: 1993
+      note: Director Chabad Venice / Yeshiva Gedola
     - org: chabad-lubavitch
       role: parent
       note: Educational arm of Chabad-Lubavitch
@@ -43396,6 +45999,17 @@ organizations:
     - person: robert-isom
       role: alumni
       note: MBA 1991
+  michlelet-herzog:
+    name: Michlelet Yaakov Herzog
+    type: university
+    founded: 1986
+    headquarters: Alon Shvut, West Bank
+    status: active
+    stakeholders:
+    - person: yoel-bin-nun
+      role: founder
+      from: 1986
+      note: Co-fondatore; formazione insegnanti di studi ebraici
   microsoft:
     name: Microsoft
     type: company
@@ -43731,6 +46345,16 @@ organizations:
       role: alumni
       to: 1963
       note: BA
+  milwaukee-normal-school:
+    name: Milwaukee State Normal School
+    type: university
+    headquarters: Milwaukee, USA
+    status: active
+    note: Now University of Wisconsin-Milwaukee
+    stakeholders:
+    - person: golda-meir
+      role: alumni
+      note: Teaching diploma 1917
   mineralogy:
     name: Mineralogy
     type: company
@@ -43811,6 +46435,18 @@ organizations:
     stakeholders:
     - person: ben-mann
       role: researcher
+  mirrer-yeshiva:
+    name: Mirrer Yeshiva (Mir Yeshiva)
+    type: university
+    founded: 1815
+    headquarters: Brooklyn, USA / Jerusalem, ISR
+    status: active
+    note: 'Founded in Mir, Belarus. WWII escape via Sugihara visas (Lithuania→Japan→Shanghai). Split: Jerusalem (9000+ students,
+      world largest yeshiva) and Brooklyn (1946). Only yeshiva to escape Lithuania intact.'
+    stakeholders:
+    - person: meir-kahane
+      role: alumni
+      note: Rabbinical ordination 1956-57
   mirror-group:
     name: Mirror Group Newspapers
     type: media
@@ -43898,6 +46534,9 @@ organizations:
     headquarters: Cambridge, USA
     status: active
     stakeholders:
+    - person: larry-summers
+      role: alumni
+      note: BS Economics 1975
     - person: greg-brockman
       role: alumni
       note: Dropped out 2010
@@ -43992,6 +46631,25 @@ organizations:
     - person: henry-loomis
       role: executive
       note: Assistant to President James Killian (4 years)
+    - person: neri-oxman
+      role: alumni
+      note: PhD Design Computation 2010; Prof Media Lab 2010-2021; tenure 2017
+  mit-media-lab:
+    name: MIT Media Lab
+    type: university
+    stakeholders:
+    - person: joi-ito
+      role: executive
+      from: 2011
+      to: 2019
+      note: Director. Resigned Sept 7 2019 over Epstein scandal
+    - person: nicholas-negroponte
+      role: founder
+      from: 1985
+      note: Co-founder and director 1985-2000
+    - person: seth-lloyd
+      role: member
+      note: Professor
   mitratel:
     name: PT Dayamitra Telekomunikasi Tbk
     type: company
@@ -44062,6 +46720,33 @@ organizations:
       share: 4.5%
     - org: vanguard
       share: 5.0%
+  mizrachi:
+    name: Mizrachi
+    type: party
+    founded: 1902
+    headquarters: Vilnius, Lithuania
+    status: dissolved
+    stakeholders:
+    - person: abraham-isaac-kook
+      role: advisor
+      note: Guida spirituale del sionismo religioso, influenza teologica sul Mizrachi
+    - person: yitzchak-yaakov-reines
+      role: founder
+      from: 1902
+      to: 1915
+    - person: meir-bar-ilan
+      role: leader
+      from: 1920
+      to: 1949
+      note: Presidente World Mizrachi dal 1920
+    - org: hapoel-hamizrachi
+      role: spin-off
+      from: 1922
+      note: Ala laburista del Mizrachi
+    - org: bnei-akiva
+      role: membership
+      from: 1929
+      note: Movimento giovanile affiliato al World Mizrachi
   mizuho:
     name: Mizuho Financial Group
     type: bank
@@ -44431,6 +47116,15 @@ organizations:
       from: 1984
       to: 1993
       note: Co-founder with June Morris, sold to Southwest Airlines
+  moscow-phystech:
+    name: Moscow Institute of Physics and Technology
+    type: university
+    headquarters: Moscow, RUS
+    status: active
+    stakeholders:
+    - person: natan-sharansky
+      role: alumni
+      note: Applied Mathematics 1972
   mossad:
     name: HaMossad leModiʿin uleTafkidim Meyuḥadim (Mossad)
     type: agency
@@ -44555,6 +47249,14 @@ organizations:
       from: 1972
       to: 1981
       note: Head of Operations; led Eichmann capture team
+    - person: yitzhak-shamir
+      role: executive
+      from: 1955
+      to: 1965
+      note: Directed Operation Damocles
+    - person: niv-karmi
+      role: member
+      note: Former operative
     - org: cia
       role: partner
       from: 1951
@@ -44658,6 +47360,13 @@ organizations:
       share: 5.14%
     - org: vanguard
       share: 3.0%
+  mozilla-foundation:
+    name: Mozilla Foundation
+    type: foundation
+    stakeholders:
+    - person: joi-ito
+      role: board
+      note: Board member
   msc:
     name: Mediterranean Shipping Company (MSC)
     type: company
@@ -44938,6 +47647,15 @@ organizations:
     stakeholders:
     - person: wan-tailei
       role: executive
+  nakheel:
+    name: Nakheel PJSC
+    type: company
+    headquarters: Dubai, ARE
+    status: active
+    stakeholders:
+    - person: sultan-ahmed-bin-sulayem
+      role: board
+      note: Board Member
   nambawan-super:
     name: Nambawan Super
     type: swf
@@ -45262,6 +47980,27 @@ organizations:
       role: founder
       from: 1967
       note: Co-founder, VP Sales & Marketing
+  national-union:
+    name: National Union (Ichud Leumi)
+    type: party
+    headquarters: Israel
+    status: dissolved
+    stakeholders:
+    - person: aryeh-eldad
+      role: member
+      from: 2003
+      to: 2012
+      note: Knesset member on National Union list
+    - person: michael-ben-ari
+      role: legislator
+      from: 2009
+      to: 2012
+      note: MK 18th Knesset
+    - person: zvi-hendel
+      role: member
+      from: 1999
+      to: 2009
+      note: Knesset Member via Tkuma faction
   national-urban-league:
     name: National Urban League
     type: foundation
@@ -45669,6 +48408,22 @@ organizations:
       role: board
       from: 2018
       note: Board of Directors 2018-2021, then 2024-present
+  nekuda:
+    name: Nekuda (נקודה)
+    type: media
+    founded: 1980
+    headquarters: West Bank, Israel
+    status: defunct
+    stakeholders:
+    - person: yisrael-harel
+      role: founder
+      note: Fondatore e editor-in-chief
+    - person: hagai-segal
+      role: editor
+      note: Editor-in-Chief, late 1980s-early 1990s
+    - org: yesha-council
+      role: parent
+      note: Official monthly publication of the Yesha Council
   neom:
     name: NEOM
     type: company
@@ -45717,6 +48472,14 @@ organizations:
       role: founder
       from: 2012
       note: Major donor
+  neoteny:
+    name: Neoteny Labs
+    type: company
+    stakeholders:
+    - person: joi-ito
+      role: founder
+      from: 2002
+      note: Founder and managing partner. VC fund.
   neste:
     name: Neste
     type: company
@@ -45857,6 +48620,11 @@ organizations:
     headquarters: Mountain View, California
     status: defunct
     stakeholders:
+    - person: ben-horowitz
+      role: executive
+      from: 1995
+      to: 1998
+      note: Product Manager, then VP Directory and Security
     - org: kleiner-perkins
       role: stake
       from: 1994
@@ -45921,6 +48689,35 @@ organizations:
       role: board
       from: 2024
       note: Mutual Funds Board
+  neue-freie-presse:
+    name: Neue Freie Presse
+    type: media
+    founded: 1864
+    headquarters: Vienna, Austria
+    status: dissolved
+    stakeholders:
+    - person: theodor-herzl
+      role: journalist
+      from: 1891
+      to: 1904
+      note: Corrispondente Parigi 1891-95, Feuilleton Editor 1895-1904
+  neue-rheinische-zeitung:
+    name: Neue Rheinische Zeitung
+    type: media
+    founded: 1848
+    headquarters: Cologne, Germany
+    status: dissolved
+    stakeholders:
+    - person: karl-marx
+      role: executive
+      from: 1848
+      to: 1849
+      note: Editor-in-chief
+    - person: friedrich-engels
+      role: executive
+      from: 1848
+      to: 1849
+      note: Co-editor
   new-america:
     name: New America
     type: thinktank
@@ -45983,6 +48780,22 @@ organizations:
       role: founder
       from: 1994
       note: Fondatore e Presidente
+  new-hope:
+    name: New Hope
+    type: party
+    founded: 2020
+    headquarters: Israel
+    status: active
+    stakeholders:
+    - person: dani-dayan
+      role: member
+      from: 2021
+      to: 2021
+      note: Aderito gennaio 2021
+    - person: gideon-saar
+      role: founder
+      from: 2020
+      note: Fondatore e leader
   new-horizon-capital:
     name: New Horizon Capital
     type: privateequity
@@ -46085,6 +48898,15 @@ organizations:
       role: partner
       from: 2025
       note: 10% stake, ~$1B valuation
+  new-york-law-school:
+    name: New York Law School
+    type: university
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: meir-kahane
+      role: alumni
+      note: LLB 1956
   new-york-post:
     name: New York Post
     type: media
@@ -46124,6 +48946,30 @@ organizations:
       role: shareholder
       from: 2008
       note: 17% stake
+    - person: joi-ito
+      role: board
+      to: 2019
+      note: Board of Directors. Resigned Sept 2019 over Epstein scandal
+  new-zionist-organization:
+    name: New Zionist Organization (Tzakh)
+    type: foundation
+    founded: 1935
+    headquarters: Vienna, Austria
+    status: dissolved
+    note: Secessionist Zionist body founded by Jabotinsky after split from WZO; rejoined WZO in 1946
+    stakeholders:
+    - person: menachem-begin
+      role: member
+      note: Leading Revisionist figure, later headed Irgun
+    - person: zeev-jabotinsky
+      role: leader
+      from: 1935
+      to: 1940
+      note: President
+    - org: hatzohar
+      role: parent
+      from: 1935
+      note: NZO created after secession from World Zionist Organization
   newcastle-united:
     name: Newcastle United FC
     type: sportsclub
@@ -46474,6 +49320,17 @@ organizations:
     stakeholders:
     - org: yomiuri-shimbun
       share: majority
+  nir-kiryat-arba:
+    name: Yeshivat Nir Kiryat Arba
+    type: university
+    founded: 1972
+    headquarters: Kiryat Arba, West Bank
+    status: active
+    stakeholders:
+    - person: eliezer-waldman
+      role: founder
+      from: 1972
+      note: Rosh Yeshiva, Hesder Yeshiva
   nissan:
     name: Nissan
     type: automaker
@@ -46505,10 +49362,10 @@ organizations:
       from: 1999
       note: Originally 43.4%, reduced to 15% in 2023 rebalancing
   nm-rothschild:
-    name: N M Rothschild & Sons
+    name: N.M. Rothschild & Sons
     type: bank
     founded: 1811
-    headquarters: London, UK
+    headquarters: London, United Kingdom
     status: active
     note: Investment bank, famiglia Rothschild
     stakeholders:
@@ -46541,6 +49398,10 @@ organizations:
       from: 1992
       to: 2000
       note: Commodity trading, metals derivatives
+    - person: lionel-de-rothschild
+      role: partner
+      from: 1836
+      to: 1879
   nobel-foundation:
     name: Nobel Foundation
     type: foundation
@@ -46828,6 +49689,15 @@ organizations:
     - person: carlos-domenech
       role: alumni
       note: MBA
+  northwestern-university:
+    name: Northwestern University
+    type: university
+    headquarters: Evanston, USA
+    status: active
+    stakeholders:
+    - person: simcha-rothman
+      role: alumni
+      note: MA Public Law
   nos-portugal:
     name: NOS
     type: company
@@ -46863,6 +49733,11 @@ organizations:
       from: 2005
       to: 2010
       note: Chairman
+  novalpina-capital:
+    name: Novalpina Capital
+    type: privateequity
+    headquarters: London, GBR
+    status: active
   novaquest:
     name: NovaQuest Capital Management
     type: privateequity
@@ -47192,21 +50067,48 @@ organizations:
       to: 1945
       note: Reichstag President 1932-45, designated successor to Hitler 1939
   nso-group:
-    name: NSO Group
+    name: NSO Group Technologies
     type: company
     founded: 2010
-    headquarters: Israel
+    headquarters: Herzliya, ISR
     status: active
     sector: cyber-offensive
-    note: Pegasus spyware, blacklisted US Commerce Dept
+    note: Pegasus spyware, classified as weapon by Israel, blacklisted US Commerce Dept 2021
     stakeholders:
     - person: shalev-hulio
       role: founder
       from: 2010
-      note: CEO
+      to: 2022
+      note: Co-founder, CEO until 2022
     - person: omri-lavie
       role: founder
       from: 2010
+      to: 2025
+      note: Co-founder, left Oct 2025 upon US acquisition
+    - person: david-friedman
+      role: chairman
+      from: 2025
+      note: Executive Chairman, appointed Nov 2025
+    - person: niv-karmi
+      role: founder
+      from: 2010
+      to: 2010
+      note: Left ~1 month after founding
+    - person: yaron-shohat
+      role: executive
+      from: 2022
+      to: 2025
+      note: CEO 2022-2025
+    - org: francisco-partners
+      role: investor
+      from: 2014
+      to: 2019
+      note: Majority stake acquired for ~$130M, sold 2019
+    - org: novalpina-capital
+      role: investor
+      from: 2019
+      to: 2021
+      note: Majority stake with Hulio/Lavie at ~$1B valuation, control stripped by LPs Jul 2021
   nti:
     name: Nuclear Threat Initiative
     type: foundation
@@ -47450,6 +50352,9 @@ organizations:
     - person: robert-gabriel
       role: alumni
       note: BA
+    - person: david-friedman
+      role: alumni
+      note: JD 1981
     - person: josh-gruenbaum
       role: alumni
       note: JD School of Law, MBA Stern School of Business
@@ -47471,6 +50376,12 @@ organizations:
     - person: maria-beatrice-caracciolo
       role: alumni
       note: ~1976-1979
+    - person: carl-icahn
+      role: alumni
+      note: School of Medicine, dropped out after 2 years
+    - person: meir-kahane
+      role: alumni
+      note: MA International Relations 1957
   nyu-stern:
     name: NYU Stern School of Business
     type: university
@@ -48130,6 +51041,16 @@ organizations:
     name: Oil and Natural Gas Corporation
     type: company
     headquarters: New Delhi, India
+  ono-academic-college:
+    name: Ono Academic College
+    type: university
+    stakeholders:
+    - person: itamar-ben-gvir
+      role: alumni
+      note: LLB Law 2008
+    - person: bezalel-smotrich
+      role: alumni
+      note: BA Law
   onu:
     name: United Nations
     type: agency
@@ -48480,6 +51401,9 @@ organizations:
       role: investor
       from: 2024
       note: Participated in $6.6B round
+    - org: andreessen-horowitz
+      role: investor
+      note: Early investor in OpenAI
     - org: emerson-collective
       role: investor
       note: Founding investor AI device venture with Jony Ive
@@ -48594,6 +51518,16 @@ organizations:
     - person: david-mondshine
       role: executive
       note: Director
+  or-etzion:
+    name: Yeshivat Or Etzion
+    type: university
+    founded: 1964
+    status: active
+    stakeholders:
+    - person: haim-drukman
+      role: founder
+      from: 1964
+      note: Rosh Yeshiva
   oracle:
     name: Oracle Corporation
     type: company
@@ -48837,6 +51771,57 @@ organizations:
       from: 1966
       to: 1990
       note: Chairman board management 1966-1986; Chairman supervisory board 1986-1990
+  otzma-yehudit:
+    name: Otzma Yehudit (Jewish Power)
+    type: party
+    founded: 2012
+    headquarters: Israel
+    status: active
+    stakeholders:
+    - person: itamar-ben-gvir
+      role: chairman
+      from: 2012
+      note: Leader del partito kahanista
+    - person: yitzhak-wasserlauf
+      role: member
+      note: MK, Minister of Negev and Galilee
+    - person: amichai-eliyahu
+      role: member
+      note: MK, Minister of Heritage
+    - person: zvika-fogel
+      role: member
+      note: MK
+    - person: almog-cohen
+      role: member
+      from: 2022
+      note: 7° in lista; frequenti scontri disciplinari con Ben Gvir
+    - person: yitzhak-kreuzer
+      role: member
+      from: 2020
+      note: Chairman fazione Knesset; 15° in lista 2022; 4° in lista 2020 (nessun seggio)
+    - person: limor-son-har-melech
+      role: member
+      from: 2022
+      note: 13a in lista; unica donna del partito alla Knesset
+    - person: aryeh-eldad
+      role: founder
+      from: 2012
+    - person: michael-ben-ari
+      role: founder
+      from: 2012
+    - person: zvi-sukkot
+      role: executive
+      to: 2022
+      note: Director General
+    - person: baruch-marzel
+      role: member
+      note: Candidato 2013, 2015; poi uscito dal partito
+    - person: bentzi-gopstein
+      role: member
+      note: Candidato 2019, bandito dalla Corte Suprema (9-0)
+    - org: kach
+      role: predecessor
+      note: Ideological predecessor
   outokumpu:
     name: Outokumpu Oyj
     type: company
@@ -48968,6 +51953,9 @@ organizations:
     - person: peter-mandelson
       role: alumni
       note: BA PPE, St Catherines College
+    - person: ron-dermer
+      role: alumni
+      note: PPE (Philosophy, Politics and Economics) 1993
   oxford-university:
     name: University of Oxford
     type: university
@@ -48983,6 +51971,16 @@ organizations:
       role: trustee
       from: 2003
       note: Founded Skoll Centre for Social Entrepreneurship at Said Business School ($7.5M). Hosts annual Skoll World Forum.
+  oz-veemuna-yeshiva:
+    name: Hesder Yeshiva Oz Ve'emuna
+    type: university
+    headquarters: Tel Aviv, Israel
+    status: active
+    stakeholders:
+    - person: yitzhak-wasserlauf
+      role: founder
+      from: 2014
+      note: Co-fondatore e insegnante; yeshiva hesder nel quartiere Neve Sha'anan
   p2:
     name: Propaganda Due (P2)
     type: secretsociety
@@ -50005,6 +53003,42 @@ organizations:
       from: 2001
       to: 2012
       note: Vice Chairman
+  pershing-square:
+    name: Pershing Square Capital Management
+    type: hedgefund
+    founded: 2004
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: bill-ackman
+      role: founder
+      from: 2004
+      note: CEO; AUM ~$19.7B (2025)
+    - person: ryan-israel
+      role: executive
+      from: 2009
+      note: CIO dal 2022, Partner, 10% ownership
+    - person: ben-hakim
+      role: executive
+      from: 2012
+      note: Partner 2012, President dal 2024
+    - person: charles-korn
+      role: partner
+      from: 2014
+      note: Investment Analyst 2014, Partner
+  pershing-square-foundation:
+    name: Pershing Square Foundation
+    type: foundation
+    founded: 2006
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: bill-ackman
+      role: founder
+      from: 2006
+    - org: pershing-square
+      role: subsidiary
+      note: Philanthropy arm; $930M+ committed
   pes:
     name: Party of European Socialists
     type: forum
@@ -50324,7 +53358,7 @@ organizations:
     name: Koninklijke Philips N.V.
     type: company
     founded: 1891
-    headquarters: Amsterdam, Netherlands
+    headquarters: Eindhoven, Netherlands
     status: active
     sector: health-technology
     stakeholders:
@@ -50351,6 +53385,21 @@ organizations:
       role: board
       from: 2021
       note: Supervisory Board, Corporate Governance Committee
+    - person: gerard-philips
+      role: founder
+      from: 1891
+      to: 1922
+      note: Co-fondatore con il padre Frederik. Primo direttore tecnico.
+    - person: anton-philips
+      role: executive
+      from: 1895
+      to: 1951
+      note: Co-direttore dal 1895, presidente dal 1922
+    - person: frits-philips
+      role: chairman
+      from: 1961
+      to: 1971
+      note: Quarto presidente del consiglio. In azienda dal 1930.
     - org: blackrock
       share: 5.5
     - org: exor
@@ -50369,6 +53418,15 @@ organizations:
       role: executive
       from: 2012
       note: Chairman & CEO
+  phillips-exeter:
+    name: Phillips Exeter Academy
+    type: university
+    headquarters: Exeter, USA
+    status: active
+    stakeholders:
+    - person: claudine-gay
+      role: alumni
+      note: Diploma 1988
   phillips-petroleum:
     name: Phillips Petroleum
     type: company
@@ -50485,6 +53543,25 @@ organizations:
       role: subsidiary
       share: 1.0
       from: 1980
+  pica:
+    name: Palestine Jewish Colonization Association
+    type: foundation
+    founded: 1924
+    note: Riorganizzata da Edmond de Rothschild dal ramo palestinese della JCA. James de Rothschild presidente a vita. Acquisì
+      125.000+ acri di terra. Trasferita a JNF/Stato di Israele 1957-58.
+    stakeholders:
+    - person: edmond-james-de-rothschild
+      role: founder
+      from: 1924
+      to: 1934
+    - person: james-armand-de-rothschild
+      role: president
+      from: 1924
+      to: 1957
+    - org: jewish-colonization-association
+      role: parent
+      from: 1924
+      note: Ramo palestinese riorganizzato come PICA
   pif-saudi:
     name: Public Investment Fund (PIF)
     type: swf
@@ -50917,6 +53994,36 @@ organizations:
       from: 2014
       to: 2017
       note: Presidente PNL
+  poalei-zion:
+    name: Poalei Zion (Workers of Zion)
+    type: party
+    founded: 1906
+    headquarters: Poltava, Russia (poi ramificazioni mondiali)
+    status: dissolved
+    sector: politics
+    note: Partito sionista-socialista marxista; scissione 1919 in Left e Right; Right divenne Ahdut HaAvoda poi Mapai
+    stakeholders:
+    - person: david-ben-gurion
+      role: member
+      from: 1904
+      note: Joined in Warsaw; activist in Palestine
+    - person: yitzhak-ben-zvi
+      role: leader
+      from: 1905
+      note: Leader in Poltava, poi in Palestina
+    - person: golda-meir
+      role: member
+      from: 1915
+      note: Young Poale Zion Milwaukee
+    - person: ber-borochov
+      role: founder
+      from: 1906
+      note: Ideologo, autore "Our Platform" (1906)
+    - person: berl-katznelson
+      role: member
+      from: 1909
+      to: 1919
+      note: Membro attivo dopo aliyah
   pointsec:
     name: PointSec Mobile Technologies
     type: company
@@ -51251,6 +54358,15 @@ organizations:
     - person: eric-goosby
       role: alumni
       note: BA Biology 1974
+    - person: carl-icahn
+      role: alumni
+      note: BA Philosophy 1957
+    - person: feroz-dewan
+      role: alumni
+      note: BS Engineering & Applied Mathematics 1998, highest honors
+    - person: brett-icahn
+      role: alumni
+      note: BA 2001
   prisa:
     name: Grupo PRISA
     type: media
@@ -51470,6 +54586,15 @@ organizations:
       role: founder
       from: 1995
       to: 2024
+  psinet-japan:
+    name: PSINet Japan
+    type: company
+    stakeholders:
+    - person: joi-ito
+      role: executive
+      from: 1995
+      to: 1996
+      note: CEO
   psp:
     name: Progressive Socialist Party
     type: party
@@ -51918,6 +55043,30 @@ organizations:
     - person: anthony-miller
       role: alumni
       note: LLB (Hons)
+  rabbinical-centre-europe:
+    name: Rabbinical Centre of Europe
+    type: religiousinstitution
+    founded: 2000
+    headquarters: Brussels, Belgium
+    status: active
+    note: Rete di 1.000+ rabbini comunitari in Europa; legata a Chabad ma formalmente indipendente
+    stakeholders:
+    - person: berel-lazar
+      role: founder
+      note: Co-fondatore
+    - person: gershon-mendel-garelik
+      role: founder
+      note: Chairman comitato esecutivo
+    - person: menachem-margolin
+      role: executive
+      from: 2004
+      note: Program Director 2004, General Director 2006
+    - person: hillel-pewsner
+      role: founder
+      note: Co-fondatore, membro presidium
+    - org: european-jewish-association
+      role: affiliate
+      note: EJA nata come spin-off politico di RCE; stessa leadership (Margolin)
   rabbinical-college-america:
     name: Rabbinical College of America
     type: university
@@ -52016,6 +55165,48 @@ organizations:
       share: 0.5
       from: 1996
       note: JV paritaria con Eni
+  rafi:
+    name: Rafi (Reshimat Poalei Yisrael)
+    type: party
+    founded: 1965
+    headquarters: Tel Aviv, Israel
+    status: dissolved
+    note: Scissione di Ben-Gurion da Mapai (1965); 10 seggi alla Knesset; si fuse nel Labour 1968
+    stakeholders:
+    - person: shimon-peres
+      role: member
+      from: 1965
+      to: 1968
+      note: Co-fondatore; seguì Ben-Gurion nella scissione da Mapai
+    - person: teddy-kollek
+      role: member
+      from: 1965
+      to: 1968
+      note: Co-fondatore; poi sindaco di Gerusalemme 1965-1993
+    - person: chaim-herzog
+      role: member
+      from: 1965
+      to: 1968
+      note: Seguì Ben-Gurion nella scissione
+    - person: david-ben-gurion
+      role: founder
+      from: 1965
+      to: 1968
+      note: Founded after split from Mapai
+    - person: moshe-dayan
+      role: member
+      from: 1965
+      to: 1968
+      note: Co-fondatore; MK per Rafi
+    - person: yitzhak-navon
+      role: member
+      from: 1965
+      to: 1968
+      note: Protege di Ben-Gurion; poi Presidente d Israele 1978-83
+    - org: mapai
+      role: split
+      from: 1965
+      note: Ben-Gurion e 8 MK lasciarono Mapai per fondare Rafi
   rai:
     name: RAI - Radiotelevisione Italiana
     type: media
@@ -52655,6 +55846,30 @@ organizations:
     - org: ae-industrial-partners
       role: investor
       from: 2020
+  regavim:
+    name: Regavim
+    type: thinktank
+    founded: 2006
+    headquarters: Israel
+    status: active
+    stakeholders:
+    - person: bezalel-smotrich
+      role: founder
+      from: 2006
+      note: Co-fondatore; monitoraggio terre palestinesi in West Bank
+    - person: yehuda-eliahu
+      role: founder
+      from: 2006
+      note: Co-fondatore
+    - person: meir-deutsch
+      role: executive
+      note: Director General
+    - person: naomi-kahn
+      role: executive
+      note: International Director
+    - org: amana
+      role: donor
+      note: Finanziamento tramite consigli regionali insediamenti
   regency-enterprises:
     name: Regency Enterprises
     type: company
@@ -52667,6 +55882,15 @@ organizations:
       role: founder
       from: 1982
       note: Founder and Chairman
+  reichman-university:
+    name: Reichman University (IDC Herzliya)
+    type: university
+    headquarters: Herzliya, ISR
+    status: active
+    stakeholders:
+    - person: shalev-hulio
+      role: alumni
+      note: Business studies
   reichswerke-goering:
     name: Reichswerke Hermann Göring
     type: company
@@ -52764,6 +55988,42 @@ organizations:
     stakeholders:
     - person: mukesh-ambani
       role: founder
+  religious-zionist-party:
+    name: Religious Zionist Party (Tkuma)
+    type: party
+    founded: 1998
+    headquarters: Israel
+    status: active
+    stakeholders:
+    - person: bezalel-smotrich
+      role: chairman
+      note: Leader del partito
+    - person: simcha-rothman
+      role: member
+      from: 2021
+      note: MK, Chairman Constitution Law and Justice Committee 2023
+    - person: orit-strock
+      role: member
+      from: 2013
+      note: MK, Minister of Settlements and National Missions
+    - person: ofir-sofer
+      role: member
+      from: 2014
+      note: MK 2021-, Minister of Immigration and Absorption 2022-
+    - person: zvi-sukkot
+      role: member
+      from: 2022
+      note: MK 2023- (16th on list, replaced Smotrich via Norwegian Law)
+    - person: hanan-porat
+      role: founder
+      from: 1998
+    - person: zvi-hendel
+      role: founder
+      from: 1998
+    - org: mafdal
+      role: spin-off
+      from: 2008
+      note: Mafdal confluisce in Jewish Home, poi Religious Zionist Party
   relx:
     name: RELX plc
     type: company
@@ -52875,6 +56135,38 @@ organizations:
       role: board
       from: 2009
       note: Director
+  republican-jewish-coalition:
+    name: Republican Jewish Coalition
+    type: thinktank
+    founded: 1985
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: sheldon-adelson
+      role: board
+      note: Director, largest benefactor
+    - person: miriam-adelson
+      role: board
+      note: Major donor, continued after Sheldon
+    - person: matt-brooks
+      role: executive
+      from: 1990
+      note: CEO
+    - person: norm-coleman
+      role: chairman
+      note: National Chairman
+    - person: lewis-eisenberg
+      role: board
+      note: Director
+    - person: michael-epstein
+      role: board
+      note: Vice Chairman
+    - person: david-flaum
+      role: chairman
+      note: Former National Chairman
+    - person: lee-zeldin
+      role: board
+      note: Director
   reserve-bank-india:
     name: Reserve Bank of India
     type: centralbank
@@ -52984,6 +56276,18 @@ organizations:
       role: funds
       from: 1999
       note: Grantee organization, funding and oversight
+  rheinische-zeitung:
+    name: Rheinische Zeitung
+    type: media
+    founded: 1842
+    headquarters: Cologne, Germany
+    status: dissolved
+    stakeholders:
+    - person: karl-marx
+      role: executive
+      from: 1842
+      to: 1843
+      note: Editor-in-chief
   rheinmetall:
     name: Rheinmetall AG
     type: defense
@@ -53437,6 +56741,11 @@ organizations:
     - person: linda-gail-bekker
       role: alumni
       note: PhD host immunology (Fogarty-funded), mentor Gilla Kaplan, ~1996-2000
+    - person: miriam-adelson
+      role: board
+      from: 1986
+      note: Associate physician 1986, guest investigator; elected to Board of Trustees; addiction research with Mary Jeanne
+        Kreek
   rockwell-collins:
     name: Rockwell Collins
     type: defense
@@ -53981,6 +57290,25 @@ organizations:
       from: 2014
       to: 2021
       note: CEO
+  rsdlp:
+    name: Russian Social Democratic Labour Party
+    type: foundation
+    founded: 1898
+    headquarters: Minsk, Russia
+    status: dissolved
+    stakeholders:
+    - person: vladimir-lenin
+      role: leader
+      from: 1898
+      note: Bolshevik faction leader from 1903
+    - person: leon-trotsky
+      role: member
+      from: 1898
+      note: Initially non-factional, then Bolshevik 1917
+    - person: georgi-plekhanov
+      role: founder
+      from: 1898
+      note: Father of Russian Marxism, Emancipation of Labour group (1883)
   rsi:
     name: Repubblica Sociale Italiana
     type: government
@@ -54934,6 +58262,9 @@ organizations:
     - person: antonino-turicchi
       role: alumni
       note: Laurea Economia e Commercio
+    - person: zeev-jabotinsky
+      role: alumni
+      note: Law studies 1898-1901, non completate
   sara-lee:
     name: Sara Lee Corporation
     type: company
@@ -55561,6 +58892,47 @@ organizations:
       share: 3.0%
     - org: investor-ab
       role: major-shareholder
+  second-international:
+    name: Second International
+    type: forum
+    founded: 1889
+    headquarters: Brussels, Belgium
+    status: dissolved
+    stakeholders:
+    - person: friedrich-engels
+      role: leader
+      from: 1889
+      to: 1895
+      note: Patron, organized 1889 congress
+    - person: karl-kautsky
+      role: leader
+      from: 1889
+      note: Chief theorist, orthodox Marxism
+    - person: eduard-bernstein
+      role: member
+      from: 1889
+      note: Revisionist, evolutionary socialism
+    - person: rosa-luxemburg
+      role: member
+      from: 1898
+      note: Anti-revisionist, revolutionary left
+    - person: vladimir-lenin
+      role: member
+      from: 1903
+      to: 1914
+      note: Left after WWI split
+    - person: georgi-plekhanov
+      role: member
+      from: 1889
+    - person: jean-jaures
+      role: leader
+      from: 1889
+      to: 1914
+      note: French socialist leader, assassinated July 1914
+    - person: clara-zetkin
+      role: member
+      from: 1889
+      note: International Women Day advocate
   security-council-russia:
     name: Security Council of Russia
     type: agency
@@ -55619,6 +58991,15 @@ organizations:
       from: 2022
       to: 2024
       note: JV with Central Group, sold to PIF after Signa collapse
+  seminaire-israelite-paris:
+    name: Séminaire Israélite de France
+    type: university
+    headquarters: Paris, France
+    status: active
+    stakeholders:
+    - person: zadoc-kahn
+      role: alumni
+      note: Studi rabbinici (iniziati a Metz 1856, completati a Parigi)
   sensetime:
     name: SenseTime
     type: company
@@ -55821,6 +59202,16 @@ organizations:
       from: 2002
       to: 2018
       note: CEO 2002-2006, Chairman 2006-2018
+  shalem-center:
+    name: Shalem Center
+    type: thinktank
+    headquarters: Jerusalem, ISR
+    status: active
+    stakeholders:
+    - person: natan-sharansky
+      role: chairman
+      from: 2006
+      note: Chairman Adelson Institute for Strategic Studies
   shamrock-holdings:
     name: Shamrock Holdings
     type: privateequity
@@ -56309,6 +59700,11 @@ organizations:
       role: partner
       from: 2021
       note: Managing Director
+    - person: feroz-dewan
+      role: analyst
+      from: 2002
+      to: 2003
+      note: Private Equity Associate, technology focus
     - org: mubadala
       role: investor
       note: Minority equity stake
@@ -57050,6 +60446,39 @@ organizations:
     - person: thorbjorn-jagland
       role: board
       note: Vice-President, Chair of Middle East Committee
+  societe-etudes-canal-suez:
+    name: Société d'Études du Canal de Suez
+    type: foundation
+    founded: 1846
+    headquarters: Paris, France
+    status: defunct
+    stakeholders:
+    - person: barthelemy-prosper-enfantin
+      role: founder
+      from: 1846
+    - person: arles-dufour
+      role: founder
+      from: 1846
+    - person: paulin-talabot
+      role: member
+      from: 1846
+      note: Sezione francese
+    - person: robert-stephenson
+      role: member
+      from: 1846
+      note: Sezione britannica
+    - person: alois-negrelli
+      role: member
+      from: 1846
+      note: Sezione austriaca
+    - person: paul-adrien-bourdaloue
+      role: member
+      from: 1847
+      note: Capo rilievi topografici istmo 1847
+    - person: linant-de-bellefonds
+      role: member
+      from: 1847
+      note: Ingegnere capo rilievi egiziani
   societe-generale:
     name: Société Générale
     type: bank
@@ -57394,6 +60823,9 @@ organizations:
       role: executive
       from: 2025
       note: CFO (first female CFO in company history)
+    - person: joi-ito
+      role: board
+      note: Board member
     - org: blackrock
       share: 3.5%
     - org: vanguard
@@ -57498,6 +60930,9 @@ organizations:
     - person: menachem-schneerson
       role: alumni
       note: Mathematics 1937-1939
+    - person: narcisse-leven
+      role: alumni
+      note: Droit 1855
   south-african-airways:
     name: South African Airways
     type: airline
@@ -57651,6 +61086,36 @@ organizations:
       from: 2005
       to: 2021
       note: Co-founder, GP (stepped back 2021)
+  spd:
+    name: Social Democratic Party of Germany
+    type: foundation
+    founded: 1863
+    headquarters: Berlin, Germany
+    status: active
+    stakeholders:
+    - person: karl-kautsky
+      role: leader
+      from: 1883
+      note: Editor Die Neue Zeit
+    - person: eduard-bernstein
+      role: member
+      from: 1872
+      to: 1932
+      note: Reichstag member 1902-1906, 1912-1918, 1920-1928; editor Der Sozialdemokrat 1881-1890
+    - person: rosa-luxemburg
+      role: member
+      from: 1898
+      to: 1914
+      note: Left to found Spartacus League
+    - person: ferdinand-lassalle
+      role: founder
+      from: 1863
+      to: 1864
+      note: Founded ADAV (predecessor)
+    - person: clara-zetkin
+      role: member
+      from: 1881
+      note: Women movement leader, then KPD
   spicejet:
     name: SpiceJet
     type: airline
@@ -57987,6 +61452,14 @@ organizations:
     - person: deanna-ong
       role: alumni
       note: Stanford Executive Program
+    - person: claudine-gay
+      role: alumni
+      note: BA Economics 1992
+    - person: claudine-gay
+      role: faculty
+      from: 2000
+      to: 2006
+      note: Assistant Professor of Political Science
   stanford-hai:
     name: Stanford Human-Centered AI Institute
     type: thinktank
@@ -58008,8 +61481,8 @@ organizations:
     status: active
     stakeholders:
     - person: peter-thiel
-      role: member
-      note: BA Philosophy 1989, JD Law 1992
+      role: alumni
+      note: BA Philosophy 1989, JD Law 1992, founded Stanford Review
     - person: sergey-brin
       role: member
       note: MS Computer Science 1995 (PhD dropout - founded Google)
@@ -58815,6 +62288,9 @@ organizations:
     - org: sequoia-capital
       from: 2011
       note: Early investor, Moritz on board
+    - org: andreessen-horowitz
+      role: investor
+      note: Major investor
     - org: thrive-capital
       role: investor
       note: $2B investment, significant stake
@@ -59763,6 +63239,12 @@ organizations:
     - person: noel-tata
       role: chairman
       from: 2024
+  tau-capital:
+    name: Tau Capital
+    type: company
+    headquarters: Abu Dhabi, ARE
+    status: active
+    sector: private-equity
   tbs:
     name: TBS
     type: media
@@ -59951,6 +63433,14 @@ organizations:
     - person: yinon-costica
       role: alumni
       note: MSc Computer Networking
+    - person: neri-oxman
+      role: alumni
+      note: Architecture 1999-2002
+    - person: yitzhak-kreuzer
+      role: alumni
+    - person: israel-eldad
+      role: academic
+      note: Professor of Humanistic Studies
   technip:
     name: Technip
     type: company
@@ -59998,6 +63488,28 @@ organizations:
     stakeholders:
     - person: michael-dell
       role: member
+  tehiya:
+    name: Tehiya
+    type: party
+    founded: 1979
+    headquarters: Israel
+    status: dissolved
+    stakeholders:
+    - person: hanan-porat
+      role: member
+      from: 1981
+      to: 1984
+      note: Knesset Member
+    - person: eliezer-waldman
+      role: legislator
+      from: 1984
+      to: 1990
+      note: MK 11a e 12a Knesset; co-fondatore partito
+    - person: dani-dayan
+      role: executive
+      from: 1988
+      to: 1992
+      note: Secretary-General, candidato Knesset 1988 e 1992
   tel-aviv-university:
     name: Tel Aviv University
     type: university
@@ -60019,6 +63531,18 @@ organizations:
     - person: tamir-pardo
       role: alumni
       note: BA Political Science
+    - person: aryeh-eldad
+      role: alumni
+      note: MD
+    - person: simcha-rothman
+      role: alumni
+      note: MA Public Law
+    - person: dani-dayan
+      role: alumni
+      note: MSc Finance
+    - person: miriam-adelson
+      role: alumni
+      note: MD magna cum laude, Faculty of Medicine
   tele2:
     name: Tele2
     type: company
@@ -60363,6 +63887,15 @@ organizations:
     - org: khazanah
       role: partner
       note: Iskandar Malaysia joint development with Temasek
+  temple-university:
+    name: Temple University
+    type: university
+    headquarters: Philadelphia, USA
+    status: active
+    stakeholders:
+    - person: sultan-ahmed-bin-sulayem
+      role: alumni
+      note: BA Economics ~1978
   tempus-ai:
     name: Tempus AI
     type: company
@@ -60469,6 +64002,19 @@ organizations:
       role: board
       from: 2017
       note: Independent Director
+  tenuvah:
+    name: Tnuva (Tenuvah)
+    type: company
+    founded: 1928
+    headquarters: Tel Aviv, Palestine/Israel
+    status: active
+    sector: agriculture
+    stakeholders:
+    - person: eliezer-joffe
+      role: founder
+      from: 1928
+      to: 1936
+      note: Co-founder and director of Tnuva marketing cooperative
   tepav:
     name: TEPAV - Economic Policy Research Foundation of Turkey
     type: thinktank
@@ -61020,6 +64566,19 @@ organizations:
       role: partner
       from: 2010
       to: 2014
+  thiel-capital:
+    name: Thiel Capital
+    type: company
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: peter-thiel
+      role: founder
+      note: Family office
+    - person: sebastian-kurz
+      role: executive
+      from: 2022
+      note: Global Strategist
   thiel-fellowship:
     name: Thiel Fellowship
     type: foundation
@@ -61059,6 +64618,18 @@ organizations:
       role: member
       from: 2013
       note: Thiel Fellow 2013, founder of OYO Rooms
+  third-point:
+    name: Third Point LLC
+    type: hedgefund
+    founded: 1995
+    headquarters: New York, USA
+    status: active
+    sector: finance
+    stakeholders:
+    - person: daniel-loeb
+      role: founder
+      from: 1995
+      note: Founder & CEO; AUM ~$4B (2023); event-driven activist investing
   thoma-bravo:
     name: Thoma Bravo
     type: privateequity
@@ -61152,6 +64723,17 @@ organizations:
     - person: robert-dudley
       role: alumni
       note: Master of International Management
+  tiger-global:
+    name: Tiger Global Management
+    type: hedgefund
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: feroz-dewan
+      role: executive
+      from: 2003
+      to: 2015
+      note: Head of Public Equities
   tiger-management:
     name: Tiger Management
     type: hedgefund
@@ -61239,6 +64821,9 @@ organizations:
       role: executive
       from: 2009
       note: Senior Director, Publications
+    - person: simcha-rothman
+      role: member
+      note: Faculty
   timber-hill:
     name: Timber Hill
     type: company
@@ -62657,6 +66242,9 @@ organizations:
     - person: eric-hughes
       role: alumni
       note: Mathematics
+    - person: daniel-loeb
+      role: alumni
+      note: Attended 2 years before transferring to Columbia
   uc-santa-barbara:
     name: University of California, Santa Barbara
     type: university
@@ -62735,6 +66323,9 @@ organizations:
     - person: pedro-moreira-salles
       role: alumni
       note: BA Economics and History, magna cum laude
+    - person: ben-horowitz
+      role: alumni
+      note: MS Computer Science 1990
     - person: zhu-long
       role: member
       to: 2008
@@ -62882,6 +66473,9 @@ organizations:
     headquarters: Urbana, Illinois, USA
     status: active
     stakeholders:
+    - person: marc-andreessen
+      role: alumni
+      note: BS Computer Science 1993
     - person: zhou-xi
       role: member
       note: PhD
@@ -63665,6 +67259,15 @@ organizations:
       role: member
       from: 2015
       note: Honorary Professor
+  universite-aix-en-provence:
+    name: Université d'Aix-en-Provence
+    type: university
+    headquarters: Aix-en-Provence, France
+    status: active
+    stakeholders:
+    - person: adolphe-cremieux
+      role: alumni
+      note: Droit, 1817
   universite-catholique-de-louvain:
     name: Universite Catholique de Louvain
     type: university
@@ -63808,6 +67411,15 @@ organizations:
       role: hosted
       from: 2000
       note: ECI Secretariat hosted at UPEACE
+  university-freiburg:
+    name: University of Freiburg
+    type: university
+    headquarters: Freiburg, Switzerland
+    status: active
+    stakeholders:
+    - person: chaim-weizmann
+      role: alumni
+      note: PhD Chemistry 1899, magna cum laude
   university-geneva:
     name: Universite de Geneve
     type: university
@@ -63903,6 +67515,17 @@ organizations:
     - person: chen-huagui
       role: alumni
       note: PhD 1939
+  university-manchester:
+    name: University of Manchester
+    type: university
+    headquarters: Manchester, UK
+    status: active
+    stakeholders:
+    - person: chaim-weizmann
+      role: faculty
+      from: 1904
+      to: 1916
+      note: Senior Lecturer Chemistry, acetone fermentation research
   university-mannheim:
     name: University of Mannheim
     type: university
@@ -64016,6 +67639,15 @@ organizations:
     - person: joseph-soloveitchik
       role: alumni
       note: PhD Philosophy 1932 (dissertation on Hermann Cohen)
+    - person: karl-marx
+      role: alumni
+      note: Philosophy 1836-1841
+    - person: friedrich-engels
+      role: alumni
+      note: Auditor 1841-1842, attended lectures during military service
+    - person: heinrich-marx
+      role: alumni
+      note: Law 1810
   university-of-bologna:
     name: University of Bologna
     type: university
@@ -64039,6 +67671,9 @@ organizations:
     - person: hermann-epenstein
       role: alumni
       note: Medicine
+    - person: karl-marx
+      role: alumni
+      note: Law 1835-1836
   university-of-botswana:
     name: University of Botswana
     type: university
@@ -64134,6 +67769,15 @@ organizations:
     - person: gordon-brown
       role: alumni
       note: MA History 1972 (First Class), PhD History 1982
+  university-of-florence:
+    name: University of Florence
+    type: university
+    headquarters: Florence, Italy
+    status: active
+    stakeholders:
+    - person: avraham-stern
+      role: alumni
+      note: Literature and Classical Languages (scholarship)
   university-of-geneva:
     name: University of Geneva
     type: university
@@ -64146,6 +67790,14 @@ organizations:
     - person: egon-von-furstenberg
       role: alumni
       note: Economics
+  university-of-haifa:
+    name: University of Haifa
+    type: university
+    status: active
+    stakeholders:
+    - person: yoav-gallant
+      role: alumni
+      note: BA Business and Finance Management
   university-of-houston:
     name: University of Houston
     type: university
@@ -64167,6 +67819,19 @@ organizations:
     - person: troy-brunk
       role: alumni
       note: BS Industrial Engineering 1992, MBA 2005
+    - person: norm-coleman
+      role: alumni
+      note: JD 1976
+  university-of-jena:
+    name: University of Jena
+    type: university
+    founded: 1558
+    headquarters: Jena, Germany
+    status: active
+    stakeholders:
+    - person: karl-marx
+      role: alumni
+      note: PhD Philosophy 1841
   university-of-konstanz:
     name: University of Konstanz
     type: university
@@ -64319,6 +67984,15 @@ organizations:
     - person: raymond-chien
       role: alumni
       note: MA 1976, PhD Economics 1978
+  university-of-pest:
+    name: University of Pest
+    type: university
+    headquarters: Budapest, Hungary
+    status: dissolved
+    stakeholders:
+    - person: max-nordau
+      role: alumni
+      note: MD Medicine 1872
   university-of-st-gallen:
     name: University of St. Gallen (HSG)
     type: university
@@ -64396,9 +68070,30 @@ organizations:
     headquarters: Vienna, Austria
     status: active
     stakeholders:
+    - person: sebastian-kurz
+      role: alumni
+      note: Law (non completata)
+    - person: theodor-herzl
+      role: alumni
+      note: Laurea in Legge 1884
     - person: hermann-epenstein
       role: alumni
       note: MD 1876
+    - person: israel-eldad
+      role: alumni
+      note: PhD Philosophy
+  university-of-warsaw:
+    name: University of Warsaw
+    type: university
+    headquarters: Warsaw, Poland
+    status: active
+    stakeholders:
+    - person: menachem-begin
+      role: alumni
+      note: Law 1935
+    - person: yitzhak-shamir
+      role: alumni
+      note: Law 1932-1935 (incomplete)
   university-of-washington:
     name: University of Washington
     type: university
@@ -64666,6 +68361,9 @@ organizations:
     - person: javed-khan
       role: alumni
       note: BAS/BS Engineering & Wharton
+    - person: ryan-israel
+      role: alumni
+      note: BS Economics (Finance & Accounting) 2007, summa cum laude, Wharton School
   upm:
     name: Universidad Politécnica de Madrid
     type: university
@@ -64835,6 +68533,15 @@ organizations:
     status: active
     note: Reactivated 1995 after 48-year hiatus. Commander dual-hatted as COMUSNAVCENT. Combined Maritime Forces (46 nations)
       embedded since 2002.
+  us-holocaust-memorial-museum:
+    name: United States Holocaust Memorial Museum
+    type: foundation
+    headquarters: Washington, D.C., USA
+    status: active
+    stakeholders:
+    - person: michael-epstein
+      role: trustee
+      note: Appointed by President George W. Bush
   us-navy:
     name: United States Navy
     type: agency
@@ -65594,6 +69301,16 @@ organizations:
       from: 2012
       to: 2020
       note: voluntary administration Apr 2020, no return
+  virgin-hyperloop:
+    name: Virgin Hyperloop
+    type: company
+    headquarters: Los Angeles, USA
+    status: active
+    stakeholders:
+    - person: sultan-ahmed-bin-sulayem
+      role: chairman
+      from: 2018
+      note: Non-executive Chairman
   virginia-commonwealth:
     name: Virginia Commonwealth University
     type: university
@@ -66035,6 +69752,16 @@ organizations:
     - org: catl
       role: supplier
       note: Battery supplier
+  volozhin-yeshiva:
+    name: Volozhin Yeshiva
+    type: university
+    founded: 1803
+    headquarters: Volozhin, Belarus
+    status: dissolved
+    stakeholders:
+    - person: abraham-isaac-kook
+      role: alumni
+      note: 1884-; allievo del Netziv (Naftali Zvi Yehuda Berlin)
   volvo:
     type: automaker
     founded: 1927
@@ -66320,6 +70047,10 @@ organizations:
       from: 2019
       to: 2021
       note: President Business Operations & CFO, Walt Disney Television
+    - person: michael-johnson-hlf
+      role: executive
+      to: 2003
+      note: President Walt Disney International; 17 anni in Disney; espanse mercati da 34 a 80 paesi
     - org: blackrock
       role: stake
       share: 0.053
@@ -66397,6 +70128,9 @@ organizations:
       role: chairman
       from: 2015
       note: Chairman Warburg Pincus Europe
+    - person: daniel-loeb
+      role: executive
+      note: Pre-Third Point career
     - org: cfr
       role: partner
   warner-bros-discovery:
@@ -66459,6 +70193,15 @@ organizations:
       role: board
       from: 2014
       note: Independent Director
+  warsaw-polytechnic:
+    name: Warsaw Polytechnic
+    type: university
+    headquarters: Warsaw, Poland
+    status: active
+    stakeholders:
+    - person: natan-yellin-mor
+      role: alumni
+      note: Engineering
   wartsila:
     name: Wärtsilä
     type: company
@@ -68119,6 +71862,13 @@ organizations:
       role: member
     - person: penny-wong
       role: member
+    - person: joi-ito
+      role: ygl
+      from: 2001
+      note: Global Leaders for Tomorrow 2001. Regular Davos participant.
+    - person: sultan-ahmed-bin-sulayem
+      role: member
+      note: Agenda Contributor
     - org: bilderberg
       role: partner
     - org: fmi
@@ -68170,6 +71920,10 @@ organizations:
     headquarters: Rehovot, Israel
     status: active
     stakeholders:
+    - person: chaim-weizmann
+      role: founder
+      from: 1934
+      note: Fondatore (orig. Sieff Institute, rinominato 1949)
     - person: michael-federmann
       role: board
   welcoming-america:
@@ -68274,6 +72028,9 @@ organizations:
       role: alumni
       to: 1972
       note: BS 1972, later taught social sciences
+    - person: mike-pompeo
+      role: alumni
+      note: BS Mechanical Engineering 1986, first in class
     - person: anthony-noto
       role: alumni
       note: BS Mechanical Engineering 1990, Football All-American
@@ -68287,6 +72044,24 @@ organizations:
     - person: benjamin-smith
       role: alumni
       note: BA Economics
+  western-state-colorado:
+    name: Western State Colorado University
+    type: university
+    headquarters: Gunnison, USA
+    status: active
+    stakeholders:
+    - person: michael-johnson-hlf
+      role: alumni
+      note: BA Political Science
+  western-university:
+    name: Western University
+    type: university
+    headquarters: London, Canada
+    status: active
+    stakeholders:
+    - person: charles-korn
+      role: alumni
+      note: HBA Business Administration 2010, Ivey Business School
   westexec-advisors:
     name: WestExec Advisors
     type: company
@@ -68399,6 +72174,9 @@ organizations:
     - org: israel-diamond-exchange
       role: member
       note: Borsa membro fondatrice
+    - org: dubai-diamond-exchange
+      role: member
+      note: Unica borsa diamanti nel GCC affiliata WFDB
   wharton:
     name: The Wharton School
     type: university
@@ -68432,6 +72210,9 @@ organizations:
     - person: eileen-rominger
       role: alumni
       note: MBA Finance
+    - person: ron-dermer
+      role: alumni
+      note: BS Finance and Management 1993, magna cum laude
   wheaton-precious-metals:
     name: Wheaton Precious Metals
     type: company
@@ -68696,6 +72477,17 @@ organizations:
       from: 1985
       to: 2001
       note: litigation partner
+  willow-asset-management:
+    name: Willow Asset Management
+    type: company
+    headquarters: Rockville, Maryland, USA
+    status: active
+    sector: finance
+    stakeholders:
+    - person: michael-epstein
+      role: executive
+      from: 2008
+      note: President and CEO, Epstein family office
   wilmerhale:
     name: WilmerHale
     type: company
@@ -69183,11 +72975,6 @@ organizations:
       from: 1956
       to: 1968
       note: President WZO
-    - person: ben-gurion
-      role: chairman
-      from: 1946
-      to: 1956
-      note: Executive Head WZO
     - person: chaim-weizmann
       role: chairman
       from: 1920
@@ -69208,6 +72995,55 @@ organizations:
       from: 1931
       to: 1935
       note: President WZO
+    - person: zeev-jabotinsky
+      role: executive
+      from: 1921
+      to: 1935
+      note: Membro esecutivo sionista; si dimise e fondo la NZO
+    - person: david-ben-gurion
+      role: executive
+      from: 1935
+      note: Executive member
+    - person: golda-meir
+      role: executive
+      note: Attiva nella WZO via Mapai e Jewish Agency
+    - person: ber-borochov
+      role: member
+      note: Via Poalei Zion, delegato congressi sionisti
+    - person: max-nordau
+      role: founder
+      from: 1897
+      to: 1923
+      note: Co-fondatore, Vice Presidente
+    - org: mapai
+      role: membership
+      note: Partito dominante nella WZO dal 1935 al 1968
+    - org: hatzohar
+      role: membership
+      from: 1925
+      to: 1935
+      note: Partito revisionista interno alla WZO fino alla scissione
+    - org: new-zionist-organization
+      role: splinter
+      from: 1935
+      to: 1946
+      note: Secession from WZO; rejoined 1946
+    - org: hehalutz
+      role: membership
+      note: Affiliated pioneer movement under WZO umbrella
+    - org: poalei-zion
+      role: membership
+      note: Partito affiliato alla WZO
+    - org: hapoel-hatzair
+      role: membership
+      note: Partito affiliato; delegati ai congressi sionisti
+    - org: ahdut-haavoda
+      role: membership
+      note: Partito laburista affiliato
+    - org: mizrachi
+      role: membership
+      from: 1902
+      note: Fazione religiosa dentro la WZO
   worldcoin:
     name: World (Worldcoin)
     type: company
@@ -69613,6 +73449,27 @@ organizations:
       role: partner
       from: 2013
       note: Managing Director 2016-24, Partner Emeritus
+  yad-hanadiv:
+    name: Yad HaNadiv
+    type: foundation
+    founded: 1958
+    note: Fondazione Rothschild. Donò edificio Knesset, Corte Suprema, TV educativa, Open University. Gestisce Ramat HaNadiv.
+    stakeholders:
+    - person: dorothy-de-rothschild
+      role: founder
+      from: 1958
+      to: 1988
+  yad-vashem:
+    name: Yad Vashem
+    type: foundation
+    founded: 1953
+    headquarters: Jerusalem, Israel
+    status: active
+    stakeholders:
+    - person: dani-dayan
+      role: chairman
+      from: 2021
+      note: Chairman of the Directorate
   yale:
     name: Yale University
     type: university
@@ -69670,6 +73527,9 @@ organizations:
     - person: thomas-glocer
       role: alumni
       note: JD 1984
+    - person: alan-dershowitz
+      role: alumni
+      note: JD 1962 magna cum laude; Editor-in-Chief Yale Law Journal; first in class
   yale-university:
     name: Yale University
     type: university
@@ -69777,6 +73637,16 @@ organizations:
       share: 3.0%
     - org: vanguard
       share: 2.5%
+  yedioth-aharonoth:
+    name: Yedioth Ahronoth
+    type: media
+    founded: 1939
+    headquarters: Tel Aviv, Israel
+    status: active
+    stakeholders:
+    - person: yisrael-harel
+      role: member
+      note: Writer-at-large
   yeltsin-center:
     name: Yeltsin Center
     type: foundation
@@ -69813,6 +73683,54 @@ organizations:
     - org: redbird-capital
       role: investor
       note: Yankees, Amazon partnership
+  yesha-council:
+    name: Yesha Council (Mo'etzet Yesha)
+    type: foundation
+    founded: 1980
+    headquarters: West Bank, Israel
+    status: active
+    stakeholders:
+    - person: yisrael-harel
+      role: founder
+      from: 1980
+      to: 1995
+      note: Secretary-General 1980-87, Chairman 1987-95
+    - person: pinchas-wallerstein
+      role: chairman
+      from: 2008
+      to: 2010
+      note: Director
+    - person: bentzi-lieberman
+      role: chairman
+      from: 2003
+      to: 2007
+      note: Chairman, led anti-disengagement campaign 2005
+    - person: dani-dayan
+      role: chairman
+      from: 2007
+      to: 2013
+      note: Chairman, poi foreign envoy
+    - person: david-elhayani
+      role: chairman
+      from: 2018
+      to: 2022
+      note: Chairman
+    - person: hananel-dorani
+      role: chairman
+      from: 2022
+      to: 2024
+      note: Chairman
+    - person: israel-ganz
+      role: chairman
+      from: 2024
+      note: Chairman eletto maggio 2024
+    - org: gush-emunim
+      role: parent
+      from: 1980
+      note: Successore politico di Gush Emunim
+    - org: amana
+      role: partnership
+      note: Collaborazione insediativa, finanziamento tramite consigli regionali
   yeshiva-university:
     name: Yeshiva University
     type: university
@@ -69844,6 +73762,43 @@ organizations:
       from: 2005
       to: 2018
       note: VP University and Community Life; Dean Center for the Jewish Future
+    - person: baruch-goldstein
+      role: alumni
+      note: BA
+  yeshivat-har-etzion:
+    name: Yeshivat Har Etzion
+    type: university
+    founded: 1968
+    headquarters: Alon Shvut, West Bank
+    status: active
+    stakeholders:
+    - person: hanan-porat
+      role: founder
+      from: 1968
+      note: Co-fondatore
+    - person: yoel-bin-nun
+      role: founder
+      from: 1968
+      note: Co-fondatore con Hanan Porat e Yehuda Amital; Rosh Yeshiva
+    - person: yehuda-amital
+      role: founder
+      note: Rosh Yeshiva, co-fondatore
+    - person: aharon-lichtenstein
+      role: executive
+      from: 1971
+      note: Rosh Yeshiva, invitato da Amital
+  yeshivat-kerem-byavneh:
+    name: Yeshivat Kerem B'Yavneh
+    type: university
+    founded: 1954
+    headquarters: Kerem B Yavneh, Israel
+    status: active
+    stakeholders:
+    - person: simcha-rothman
+      role: alumni
+      note: Hesder yeshiva
+    - person: hanan-porat
+      role: alumni
   yildiz-technical-university:
     name: Yildiz Technical University
     type: university
@@ -70021,6 +73976,28 @@ organizations:
       role: stake
       from: 1945
       note: Founded as Histadrut enterprise
+  zion-mule-corps:
+    name: Zion Mule Corps
+    type: agency
+    founded: 1915
+    headquarters: Egypt
+    status: dissolved
+    note: Prima unita militare ebraica sotto comando britannico; servizio a Gallipoli 1915
+    stakeholders:
+    - person: zeev-jabotinsky
+      role: founder
+      from: 1915
+      note: Co-promotore con Trumpeldor; spinse per una legione ebraica combattente
+    - person: joseph-trumpeldor
+      role: founder
+      from: 1915
+      to: 1916
+      note: Co-organizer with John Henry Patterson, fought at Gallipoli
+    - person: john-henry-patterson
+      role: leader
+      from: 1915
+      to: 1916
+      note: Commanding Officer
   ziraat-bank:
     name: Ziraat Bankasi
     type: bank

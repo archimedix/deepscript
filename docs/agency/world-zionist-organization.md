@@ -9,7 +9,7 @@
 | **Fondazione** | 1897 |
 | **Sede** | Jerusalem (dal 1948) |
 | **Tipo** | Agency |
-| **Leadership** | Tova Dorfman, President (2023-) |
+| **Leadership** | Yaakov Hagoel, Chairman (2020-) |
 | **Status** | active |
 
 ---
@@ -48,6 +48,7 @@
 | **1946** | Ben-Gurion depone Weizmann |
 | **1947** | ONU vota partizione Palestina |
 | **1948** | Proclamazione Stato di Israele |
+| **1935** | Scissione revisionista: Jabotinsky fonda la [NZO](../foundation/new-zionist-organization.md) |
 | **1960** | Cambio nome in World Zionist Organization |
 
 ---
@@ -58,7 +59,8 @@
 
 | Ruolo | Nome | Dal |
 |-------|------|-----|
-| President | Tova Dorfman | 2023 |
+| Chairman | Yaakov Hagoel | 2020 |
+| President (cerimoniale) | Tova Dorfman | 2023 |
 
 ### Organi Direttivi
 
@@ -67,18 +69,28 @@
 - **WZO Executive** - Gestione operativa
 - Congressi ogni 4 anni circa (dal 1948)
 
-### Presidenti Storici
+### Chairmen Storici
 
 | Periodo | Nome | Note |
 |---------|------|------|
 | 1897-1904 | Theodor Herzl | Fondatore |
 | 1905-1911 | David Wolffsohn | |
 | 1911-1921 | Otto Warburg | |
-| 1921-1931 | Chaim Weizmann | Prima presidenza |
+| 1921-1931 | [Chaim Weizmann](../persons/chaim-weizmann.md) | Prima presidenza |
 | 1931-1935 | Nahum Sokolow | |
-| 1935-1946 | Chaim Weizmann | Seconda presidenza |
-| 1946-1956 | David Ben-Gurion | Acting |
+| 1935-1946 | [Chaim Weizmann](../persons/chaim-weizmann.md) | Seconda presidenza |
+| 1946-1956 | [David Ben-Gurion](../persons/david-ben-gurion.md) | Acting |
 | 1956-1968 | Nahum Goldmann | |
+| 1968-1972 | Ehud Avriel | |
+| 1972-1973 | Louis Arie Pincus | |
+| 1973-1976 | Aryeh Dolchin | Con interruzioni |
+| 1976-1978 | Yosef Almogi | |
+| 1978-1987 | Aryeh Dolchin | |
+| 1987-1994 | Simcha Dinitz | |
+| 1995-1999 | Avraham Burg | |
+| 1999-2005 | Sallai Meridor | |
+| 2005-2020 | Avraham Duvdevani | |
+| 2020- | Yaakov Hagoel | In carica |
 
 ---
 
@@ -100,16 +112,27 @@
 |----------------|-------------|
 | [Jewish Agency](jewish-agency.md) | Braccio operativo (dal 1929) |
 | [Governo Israele](../government/governo-israele.md) | Post-1948 |
-| [Histadrut](histadrut.md) | Leadership condivisa |
+| [Histadrut](../forum/histadrut.md) | Leadership condivisa |
+| [Mapai](../party/mapai.md) | Partito dominante nella WZO (1935-1968) |
+| [Hatzohar](../party/hatzohar.md) | Partito revisionista, membro fino al 1935 |
+| [Poalei Zion](../party/poalei-zion.md) | Partito affiliato |
+| [Hapoel Hatzair](../party/hapoel-hatzair.md) | Partito affiliato |
+| [Ahdut HaAvoda](../party/ahdut-haavoda.md) | Partito affiliato |
+| [NZO](../foundation/new-zionist-organization.md) | Scissione 1935, rientro 1946 |
+| [HeHalutz](../foundation/hehalutz.md) | Movimento pionieristico affiliato |
 
 ### Figure chiave
 
 | Persona | Ruolo |
 |---------|-------|
 | [Theodor Herzl](../persons/theodor-herzl.md) | Fondatore 1897 |
-| [Chaim Weizmann](../persons/chaim-weizmann.md) | President 1921-31, 1935-46 |
-| [David Ben-Gurion](../persons/ben-gurion.md) | Acting President 1946-56 |
-| [Nahum Goldmann](../persons/nahum-goldmann.md) | President 1956-68 |
+| [Chaim Weizmann](../persons/chaim-weizmann.md) | Chairman 1921-31, 1935-46 |
+| [Nahum Sokolow](../persons/nahum-sokolow.md) | Chairman 1931-35, board dal 1911 |
+| [David Ben-Gurion](../persons/david-ben-gurion.md) | Chairman 1946-56 |
+| [Nahum Goldmann](../persons/nahum-goldmann.md) | Chairman 1956-68 |
+| [Ze'ev Jabotinsky](../persons/zeev-jabotinsky.md) | Executive 1921-35, poi scissione NZO |
+| [Golda Meir](../persons/golda-meir.md) | Executive, attiva via Mapai |
+| [Ber Borochov](../persons/ber-borochov.md) | Delegato via Poalei Zion |
 
 ---
 
@@ -151,4 +174,4 @@ Esattamente 50 anni dopo, nel 1947, l'ONU voto' per la creazione di Israele.
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

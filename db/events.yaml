@@ -7,6 +7,14 @@ events:
     year: 1759
     type: political
     location: Lwow-Warsaw, Poland
+  1848-communist-manifesto:
+    year: 1848
+    type: publication
+    location: London, UK
+  1871-paris-commune:
+    year: 1871
+    type: revolution
+    location: Paris, France
   1910-jekyll-island:
     year: 1910
     type: riunione-segreta
@@ -24,6 +32,14 @@ events:
     type: declaration
     location: London
     outcome: British support for Jewish homeland in Palestine
+  1917-russian-revolution:
+    year: 1917
+    type: revolution
+    location: Russia
+  1939-rescue-warsaw:
+    year: 1939
+    type: diplomatic
+    location: Warsaw-Berlin-Riga-New York
   1944-bretton-woods:
     year: 1944
     type: conferenza
@@ -132,6 +148,10 @@ events:
     type: agreement
     location: Baku, Azerbaijan
     note: BP-led consortium for ACG oil field development, signed by Heydar Aliyev
+  1994-hebron-massacre:
+    year: 1994
+    type: attack
+    location: Hebron, West Bank
   1995-assassinio-rabin:
     year: 1995
     month: 11
@@ -251,6 +271,22 @@ events:
     outcome: normalization
     note: Bahrain-Israel normalization agreement signed Sept 15, 2020. 4th Arab state to recognize Israel, 2nd in one month
       after UAE.
+  2020-abraham-accords-kosovo:
+    year: 2020
+    type: treaty
+    location: Washington DC
+  2020-abraham-accords-morocco:
+    year: 2020
+    type: treaty
+    location: Washington DC
+  2020-abraham-accords-sudan:
+    year: 2020
+    type: treaty
+    location: Washington DC
+  2020-abraham-accords-uae:
+    year: 2020
+    type: treaty
+    location: Washington DC
   2020-assassinio-soleimani:
     year: 2020
     month: 1
@@ -279,6 +315,10 @@ events:
     type: war
     location: Nagorno-Karabakh
     note: 100,000 Armenians expelled, ethnic cleansing allegations
+  7-ottobre:
+    year: 2023
+    type: attack
+    location: Israel
   cop28-dubai:
     year: 2023
     type: conference
@@ -293,6 +333,10 @@ events:
     type: summit
     location: Baku, Azerbaijan
     note: Controversial choice of petro-state as host, $300B climate finance agreement
+  2025-abraham-accords-kazakhstan:
+    year: 2025
+    type: treaty
+    location: Washington DC
   2025-iran-protests:
     year: 2025
     type: uprising

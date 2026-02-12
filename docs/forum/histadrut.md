@@ -30,7 +30,7 @@
 |------|-----------|
 | **Fondazione** | Dicembre 1920, Haifa |
 | **Nome completo** | General Federation of Labour in the Land of Israel |
-| **Fondatori** | [David Ben-Gurion](../persons/ben-gurion.md) e altri leader sionisti laburisti |
+| **Fondatori** | [David Ben-Gurion](../persons/david-ben-gurion.md), [Berl Katznelson](../persons/berl-katznelson.md), [Yosef Sprinzak](../persons/yosef-sprinzak.md), [Yitzhak Ben-Zvi](../persons/yitzhak-ben-zvi.md) |
 | **Contesto** | Creare infrastruttura economica e sociale per futuro Stato ebraico |
 | **Obiettivo dichiarato** | Rappresentare lavoratori ebrei, ma in realtà nation-building |
 
@@ -66,9 +66,9 @@
 
 | Nome | Periodo | Note |
 |------|---------|------|
-| [David Ben-Gurion](../persons/ben-gurion.md) | 1921-1935 | Poi PM di Israele |
+| [David Ben-Gurion](../persons/david-ben-gurion.md) | 1921-1935 | Poi PM di Israele |
 | David Remez | 1935-1945 | |
-| Yosef Sprinzak | 1945-1949 | |
+| [Yosef Sprinzak](../persons/yosef-sprinzak.md) | 1945-1949 | Poi Speaker Knesset |
 | Mordechai Namir | 1950-1956 | |
 | [Pinhas Lavon](../persons/pinhas-lavon.md) | 1956-1961 | Lavon Affair |
 | Aharon Becker | 1962-1969 | |
@@ -111,7 +111,11 @@ La Histadrut era molto più di un sindacato: attraverso Hevrat HaOvdim controlla
 
 | Persona | Ruolo |
 |---------|-------|
-| [David Ben-Gurion](../persons/ben-gurion.md) | Segretario Generale 1921-1935 |
+| [David Ben-Gurion](../persons/david-ben-gurion.md) | Segretario Generale 1921-1935 |
+| [Berl Katznelson](../persons/berl-katznelson.md) | Co-fondatore; fondatore Davar e Am Oved |
+| [Yosef Sprinzak](../persons/yosef-sprinzak.md) | Co-fondatore; Segretario Generale 1945-1949 |
+| [Yitzhak Ben-Zvi](../persons/yitzhak-ben-zvi.md) | Segretariato 1920-1929 |
+| [Golda Meir](../persons/golda-meir.md) | Women Labour Council; Executive Committee 1928-1946 |
 | [Pinhas Lavon](../persons/pinhas-lavon.md) | Segretario Generale 1956-1961 |
 | [Amir Peretz](../persons/amir-peretz.md) | Segretario Generale 1995-2006 |
 
@@ -121,7 +125,9 @@ La Histadrut era molto più di un sindacato: attraverso Hevrat HaOvdim controlla
 |----------------|-----------|
 | [Bank Hapoalim](../bank/bank-hapoalim.md) | Banca di proprietà |
 | [Governo Israele](../government/governo-israele.md) | Simbiosi istituzionale |
-| Mapai | Partito laburista dominante |
+| [Mapai](../party/mapai.md) | Partito laburista dominante |
+| [Hapoel Hatzair](../party/hapoel-hatzair.md) | Co-fondatrice Histadrut |
+| [Ahdut HaAvoda](../party/ahdut-haavoda.md) | Co-fondatrice Histadrut |
 
 ---
 
@@ -160,4 +166,4 @@ Dagli anni '80 la Histadrut perse progressivamente potere:
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

@@ -24,6 +24,20 @@ families:
       generation: 3
     - person: sagar-adani
       generation: 3
+  adelson:
+    origin: USA
+    founder: sheldon-adelson
+    sector: casino, media, politics
+    status: active
+    note: Casino dynasty (Las Vegas Sands); media empire (Israel Hayom, Maariv); top Republican donors ($600M+); bridge between
+      Israeli right and US GOP
+    members:
+    - person: sheldon-adelson
+      generation: 1
+      role: founder
+    - person: miriam-adelson
+      generation: 1
+      role: matriarch
   agnelli:
     origin: ITA
     founder: giovanni-agnelli-sr
@@ -355,6 +369,32 @@ families:
       generation: 2
     - person: alejandro-bailleres
       generation: 3
+  barent-cohen:
+    origin: NLD-GBR
+    founder: levi-barent-cohen
+    sector: commerce
+    status: dissolved
+    note: Famiglia mercantile ashkenazita di Amsterdam, trasferitasi a Londra. Hub matrimoniale che uni Rothschild, Montefiore,
+      Samuel, Goldsmid. Antenati di Karl Marx e fondatori di Philips
+    members:
+    - person: judith-barent-cohen
+      generation: 2
+      role: heir
+    - person: levi-barent-cohen
+      generation: 1
+      role: founder
+    - person: hannah-barent-cohen
+      generation: 2
+      role: heir
+    - person: salomon-david-barent-cohen
+      generation: 1
+      role: member
+    - person: nanette-salomons-cohen
+      generation: 2
+      role: member
+    - person: sophie-pressburg
+      generation: 3
+      role: member
   barilla:
     origin: ITA
     founder: pietro-barilla-sr
@@ -1207,6 +1247,18 @@ families:
       generation: 4
     - person: maja-hoffmann
       generation: 4
+  icahn:
+    origin: USA
+    founder: carl-icahn
+    sector: finance
+    status: active
+    members:
+    - person: carl-icahn
+      generation: 1
+      role: founder
+    - person: brett-icahn
+      generation: 2
+      role: heir
   janssen:
     origin: Belgium
     founder: constant-janssen
@@ -2041,6 +2093,29 @@ families:
     - person: j-howard-pew
       generation: 2
       role: heir
+  philips:
+    origin: NLD
+    founder: lion-philips
+    sector: industry
+    status: active
+    note: Dinastia industriale olandese. Fondatori Philips Electronics (1891). Origini ebraiche, convertiti al protestantesimo
+      (1826). Legame familiare con Karl Marx tramite i Pressburg.
+    members:
+    - person: lion-philips
+      generation: 1
+      role: founder
+    - person: frederik-philips
+      generation: 2
+      role: heir
+    - person: gerard-philips
+      generation: 3
+      role: heir
+    - person: anton-philips
+      generation: 3
+      role: heir
+    - person: frits-philips
+      generation: 4
+      role: heir
   philips-family:
     origin: Netherlands
     founder: frederik-philips
@@ -2348,6 +2423,21 @@ families:
     - person: juliette-de-rothschild
       generation: 4
       role: heir
+    - person: edmond-james-de-rothschild
+      generation: 3
+      role: paris-branch
+    - person: james-armand-de-rothschild
+      generation: 4
+      role: paris-branch
+    - person: dorothy-de-rothschild
+      generation: 4
+      role: spouse
+    - person: moses-montefiore
+      role: ally
+    - person: hannah-barent-cohen
+      role: spouse
+    - person: lionel-de-rothschild
+      role: member
   rupert:
     origin: South Africa
     founder: anton-rupert

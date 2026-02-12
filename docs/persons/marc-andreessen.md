@@ -10,7 +10,7 @@
 | **Origine** | Cresciuto a New Lisbon, Wisconsin |
 | **Coniuge** | Laura Arrillaga-Andreessen (dal 2006) |
 | **Residenza** | San Francisco Bay Area |
-| **Net Worth** | ~$1.9B (2025) |
+| **Net Worth** | ~$2.1B (2026) |
 
 ---
 
@@ -18,10 +18,11 @@
 
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
-| **1989-1993** | University of Illinois at Urbana-Champaign | B.S. Computer Science |
+| **1989-1993** | [University of Illinois at Urbana-Champaign](../university/uiuc.md) | B.S. Computer Science |
 
 **Esperienza formativa chiave:**
-- National Center for Supercomputing Applications (NCSA) - Sviluppo Mosaic browser
+- National Center for Supercomputing Applications (NCSA) - Sviluppo Mosaic browser ($6.85/ora)
+- Collaborazione con Eric Bina per la creazione di Mosaic (1992-1993)
 
 ---
 
@@ -88,8 +89,10 @@
 | [Ben Horowitz](ben-horowitz.md) | Co-founder a16z, partner storico |
 | [Jim Clark](jim-clark.md) | Co-founder Netscape |
 | [Mark Zuckerberg](mark-zuckerberg.md) | Facebook/Meta - board dal 2008 |
-| [Peter Thiel](peter-thiel.md) | Fellow VC, Trump advisor |
-| [Elon Musk](elon-musk.md) | Tech billionaire, Trump inner circle |
+| [Peter Thiel](peter-thiel.md) | Fellow VC, Trump advisor, crypto advocacy |
+| [Elon Musk](elon-musk.md) | Trump inner circle, DOGE collaboration |
+| [David Sacks](david-sacks.md) | Trump tech coalition, crypto advocacy |
+| [Sam Altman](sam-altman.md) | a16z investor in OpenAI |
 | Laura Arrillaga-Andreessen | Moglie, Stanford philanthropy |
 
 ---
@@ -100,10 +103,12 @@
 
 | Aspetto | Dettaglio |
 |---------|-----------|
-| **AUM a16z** | $35B+ |
-| **Portfolio notable** | Facebook, GitHub, Airbnb, Coinbase, Stripe, Twitter |
+| **AUM a16z** | $90B+ (Jan 2026, dopo raccolta $15B) |
+| **Portfolio notable** | Facebook, GitHub, Airbnb, [Coinbase](../company/coinbase.md), [Stripe](../company/stripe.md), Twitter |
 | **Crypto funds** | $6.7B+ dedicati a crypto/blockchain |
-| **AI investments** | Mistral AI, Black Forest Labs, Thinking Machines Lab |
+| **AI investments** | [OpenAI](../company/openai.md), ElevenLabs, Cursor/Anysphere, Mistral AI |
+| **Defense (American Dynamism)** | [Anduril](../company/anduril.md), Shield AI, Flock Safety |
+| **2025 deals** | 165+ post-seed rounds, 18% di tutto il VC USA |
 
 ### Political Influence (2024-2025)
 
@@ -134,6 +139,8 @@
 | **Meta conflicts** | 2023 | Investimenti a16z in competitor (Web3) mentre siede nel board |
 | **Crypto regulation** | 2024 | Motivazione politica shift verso Republican per proteggere investimenti crypto |
 | **DOGE** | 2024-2025 | Advisor non eletto con influenza su policy |
+| **DEI stance** | 2025 | Leaked group chat: universita' "pagheranno il prezzo" per DEI |
+| **CFPB conflicts** | 2025 | 8+ aziende in portfolio a16z sotto indagine CFPB, ora depotenziata da Trump |
 
 ---
 
@@ -157,6 +164,9 @@
 | [Jim Clark](jim-clark.md) | Co-founder Netscape |
 | [Mark Zuckerberg](mark-zuckerberg.md) | Meta board colleague |
 | [Peter Thiel](peter-thiel.md) | Fellow Trump advisor, VC |
+| [Elon Musk](elon-musk.md) | Trump inner circle, DOGE |
+| [David Sacks](david-sacks.md) | Trump tech coalition |
+| [Sam Altman](sam-altman.md) | a16z invested in OpenAI |
 
 ---
 
@@ -176,6 +186,8 @@
 | **2011** | Pubblica "Why Software Is Eating the World" |
 | **2024** | Endorsa Trump, diventa advisor informale |
 | **2025** | Coinvolto in DOGE, chiude ufficio a16z Londra |
+| **2025** | a16z diventa primo VC USA per AUM ($46B→$90B) |
+| **2026** | a16z raccoglie $15B in nuovi fondi, 18% del VC USA |
 
 ---
 
@@ -197,6 +209,8 @@ Andreessen rappresenta un modello di potere diverso dai tradizionali forum elite
 | **DOGE recruitment** | Seleziona personale per Musk |
 | **Policy influence** | Crypto, AI regulation |
 | **Coalition** | Con Musk, Thiel, Sacks - "PayPal Mafia" aligned |
+| **CFPB defanged** | CFPB investigations su 8+ portfolio companies neutralizzate |
+| **Defense alignment** | Portfolio American Dynamism allineato con priorita' DoD |
 
 ---
 
@@ -214,7 +228,9 @@ Andreessen rappresenta un modello di potere diverso dai tradizionali forum elite
 - [ProPublica - Andreessen Bet Big on Trump](https://www.propublica.org/article/trump-cfpb-marc-andreessen-silicon-valley)
 - [Fortune - Andreessen Half Time at Mar-a-Lago](https://fortune.com/2024/12/11/marc-andreessen-half-time-florida-trump-business-policies/)
 - [TechCrunch - VCs in DOGE](https://techcrunch.com/2024/11/27/marc-andreessen-joe-londsale-and-all-the-other-vcs-reportedly-in-the-running-for-new-trump-committees/)
+- [Bloomberg - Andreessen's Silicon Valley Allies in Trump Admin](https://www.bloomberg.com/news/features/2025-06-11/marc-andreessen-s-silicon-valley-allies-in-the-trump-administration)
+- [TechCrunch - a16z Raises $15B (Jan 2026)](https://techcrunch.com/2026/01/09/the-venture-firm-that-ate-silicon-valley/)
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

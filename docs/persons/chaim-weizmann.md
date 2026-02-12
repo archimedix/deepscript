@@ -18,9 +18,11 @@
 
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
-| **1890s** | Germania, Svizzera | Studi chimica |
-| **1899** | Universita' Friburgo | Dottorato chimica |
-| **1904** | University of Manchester | Senior Lecturer chimica |
+| **1893-94** | TU Darmstadt | Chimica (2 semestri) |
+| **1895-98** | TU Charlottenburg, Berlino | Chimica (3 anni) |
+| **1899** | University of Freiburg | PhD Chimica, magna cum laude |
+| **1901-04** | University of Geneva | Privatdocent chimica |
+| **1904-16** | University of Manchester | Senior Lecturer chimica |
 
 ---
 
@@ -119,6 +121,10 @@ La produzione di acetone di Weizmann (essenziale per esplosivi) gli apri' le por
 | [World Zionist Organization](../agency/world-zionist-organization.md) | President 1920-31, 1935-46 |
 | [Jewish Agency](../agency/jewish-agency.md) | Founder 1929 |
 | [Governo Israele](../government/governo-israele.md) | First President 1949-52 |
+| [Weizmann Institute](../university/weizmann-institute.md) | Fondatore (orig. Sieff Institute, 1934) |
+| [University of Freiburg](../university/university-freiburg.md) | PhD Chemistry 1899 |
+| [University of Manchester](../university/university-manchester.md) | Faculty 1904-1916 |
+| [Governo UK](../government/governo-uk.md) | Director Admiralty Labs 1916-19 |
 
 ### Persone
 
@@ -126,6 +132,7 @@ La produzione di acetone di Weizmann (essenziale per esplosivi) gli apri' le por
 |---------|-----------|
 | [David Ben-Gurion](ben-gurion.md) | Rivale |
 | [Theodor Herzl](theodor-herzl.md) | Predecessore ideologico |
+| [Ze'ev Jabotinsky](zeev-jabotinsky.md) | Rivale ideologico (sionismo pratico vs revisionista) |
 | [Nahum Goldmann](nahum-goldmann.md) | Successore WZO |
 
 ### Eventi
@@ -181,4 +188,4 @@ La produzione di acetone di Weizmann (essenziale per esplosivi) gli apri' le por
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

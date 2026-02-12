@@ -43,7 +43,8 @@ La mappa del potere UAE si articola in:
 +-------+  +-------+  +-------+        +----+----+
 | ADIA  |  |  ADQ  |  |  FAB  |        |Emirates |
 | $1T   |  | $170B |  | Bank  |        |DP World |
-+-------+  +-------+  +-------+        +---------+
++-------+  +-------+  +-------+        |DMCC 26K |
+                                        +---------+
     |          |
     v          v
 +-------+  +-------+
@@ -234,6 +235,7 @@ Gli UAE possiedono il piu' grande ecosistema di SWF al mondo con ~$2.5 trilioni 
 | [ENOC](../docs/company/enoc.md) | 100% | Oil & Gas |
 | Dubai Duty Free | 100% | Retail |
 | Atlantis The Palm | 100% | Hospitality |
+| [DMCC](../docs/company/dmcc.md) | 100% (dal 2020) | Commodities, diamonds, gold, crypto |
 | Borse Dubai | - | Finance |
 
 ---
@@ -390,6 +392,52 @@ Il progetto Stargate ($500B per infrastruttura AI USA) vede MGX come partner men
 | **Azionista** | Mubadala (75%) |
 | **Ranking** | 4° foundry mondiale |
 
+### DMCC: L'Impero delle Commodities di Dubai
+
+| Metrica | Valore |
+|---------|--------|
+| **Fondato** | 2002 (decreto Mohammed bin Rashid) |
+| **Sede** | Jumeirah Lakes Towers (JLT), Dubai |
+| **Chairman & CEO** | [Ahmed bin Sulayem](../docs/persons/ahmed-bin-sulayem.md) |
+| **Parent** | [Investment Corporation of Dubai](../docs/company/investment-corporation-dubai.md) (dal 2020) |
+| **Aziende membro** | 26.000+ da 180 paesi |
+| **Dipendenti** | 90.000+ |
+| **% FDI Dubai** | 15% |
+| **Record** | "Global Free Zone of the Year" (FT) per 9 anni consecutivi |
+
+**Ecosistema DMCC:**
+
+```
+DMCC (Ahmed bin Sulayem)
+  |
+  +--- Dubai Diamond Exchange (DDE) - 1.300+ aziende gemme
+  |    (unica borsa WFDB nel GCC)
+  |
+  +--- Dubai Gold & Commodities Exchange (DGCX) - 267 membri
+  |    (prima borsa derivati MENA, 33a mondiale)
+  |
+  +--- DMCC Crypto Centre (2021)
+  |    (partnership Crypto.com 2025, tokenizzazione commodities)
+  |
+  +--- DMCC Tea Centre / Coffee Centre
+  |
+  +--- Dubai Good Delivery (DGD) - standard oro
+```
+
+**Famiglia bin Sulayem nel sistema Dubai:**
+
+| Persona | Ruolo | Organizzazioni |
+|---------|-------|----------------|
+| [Sultan Ahmed bin Sulayem](../docs/persons/sultan-ahmed-bin-sulayem.md) | Padre | DP World (Chairman & CEO), PCFC, JAFZA, Nakheel |
+| [Ahmed bin Sulayem](../docs/persons/ahmed-bin-sulayem.md) | Figlio | DMCC, DDE, DGCX, Kimberley Process |
+
+> **Pattern**: La famiglia bin Sulayem controlla sia la logistica portuale (DP World, 83 paesi) sia il commercio di commodities (DMCC, 26.000 aziende). Entrambi nominati da Mohammed bin Rashid.
+
+**Controversia Epstein (febbraio 2026):**
+Email rilasciate dal DOJ (10 feb 2026) rivelano che Sultan Ahmed bin Sulayem ha mantenuto corrispondenza con Jeffrey Epstein dal 2007, anche dopo la condanna del 2008. Le email includono contenuti a sfondo sessuale e riferimenti a un "torture video". Epstein creo' una LLC a nome di bin Sulayem per acquistare un'isola per $22.5M. La Caisse de depot du Quebec ha sospeso operazioni con DP World dopo le rivelazioni.
+
+---
+
 ### Emirates vs Etihad
 
 | Aspetto | Emirates (Dubai) | Etihad (Abu Dhabi) |
@@ -437,6 +485,8 @@ Dal 2022 con CEO Neves (ex Azul, ex TAP) Etihad ha abbandonato la strategia per 
 | [Khaldoon Al Mubarak](../docs/persons/khaldoon-al-mubarak.md) | CEO Mubadala | MGX, Man City, GlobalFoundries, Ferrari |
 | [Mohamed Alsuwaidi](../docs/persons/mohamed-alsuwaidi.md) | CEO ADQ, Min. Investment | $251B AuM, Etihad, Aramex, Louis Dreyfus |
 | [Mohamed Alabbar](../docs/persons/mohamed-alabbar.md) | Founder Emaar | Burj Khalifa, Noon.com |
+| [Sultan Ahmed bin Sulayem](../docs/persons/sultan-ahmed-bin-sulayem.md) | Chairman & CEO DP World | PCFC, JAFZA, Nakheel, Virgin Hyperloop |
+| [Ahmed bin Sulayem](../docs/persons/ahmed-bin-sulayem.md) | Exec Chairman DMCC | DDE, DGCX, Kimberley Process |
 | [Antonoaldo Neves](../docs/persons/antonoaldo-neves.md) | CEO Etihad | Ex Azul, ex TAP, turnaround specialist |
 | [Hana Al Rostamani](../docs/persons/hana-al-rostamani.md) | CEO FAB | Prima donna CEO banca UAE |
 | Sultan Al Jaber | CEO ADNOC | COP28 President, Masdar |
@@ -603,6 +653,8 @@ Sheikh Tahnoun controlla piu' asset ($1.2T+) di qualsiasi altro individuo non-mo
 | **COP28** | 2023 | Oil CEO presiede summit clima |
 | **World Liberty Financial** | 2025 | $2B a crypto Trump, accuse corruzione |
 | **AI Chips Deal** | 2025 | Export chip avanzati post-investimento WLF |
+| **Sultan bin Sulayem-Epstein** | 2007-2026 | Email DOJ (feb 2026): corrispondenza con Epstein post-condanna, contenuti sessuali, "torture video", LLC per isola $22.5M. Caisse Quebec sospende rapporti con DP World |
+| **Dubai gold/diamond hub** | Ongoing | Critiche su Dubai come snodo per flussi illeciti di oro e diamanti |
 | **Principessa Latifa** | 2018-2021 | Tentata fuga, accuse prigionia |
 | **Principessa Haya** | 2019 | Fuga UK, divorzio, custodia |
 
@@ -663,7 +715,12 @@ Sheikh Tahnoun controlla piu' asset ($1.2T+) di qualsiasi altro individuo non-mo
 - [Etihad Airways](../docs/airline/etihad.md)
 - [Antonoaldo Neves](../docs/persons/antonoaldo-neves.md)
 - [Mohamed Alsuwaidi](../docs/persons/mohamed-alsuwaidi.md)
+- [Sultan Ahmed bin Sulayem](../docs/persons/sultan-ahmed-bin-sulayem.md)
+- [Ahmed bin Sulayem](../docs/persons/ahmed-bin-sulayem.md)
+- [DMCC](../docs/company/dmcc.md)
+- [Dubai Diamond Exchange](../docs/company/dubai-diamond-exchange.md)
+- [DGCX](../docs/company/dgcx.md)
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

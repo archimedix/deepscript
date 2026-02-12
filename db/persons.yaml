@@ -89,7 +89,7 @@ persons:
       type: brother
       note: Figli Sheikh Zayed, famiglia Al Nahyan
   abdullatif-al-zayani:
-    born: 1954
+    born: 1960
     nationality: BHR
     affiliations:
     - org: governo-bahrain
@@ -155,6 +155,27 @@ persons:
     - person: sabbatai-zvi
       type: follower
       note: Sabbatean missionary in Italy and Ottoman Empire
+  abraham-isaac-kook:
+    born: 1865
+    died: 1935
+    nationality: ISR
+    affiliations:
+    - org: mercaz-harav
+      role: founder
+      from: 1921
+      to: 1935
+      note: Fondatore e primo Rosh Yeshiva
+    - org: volozhin-yeshiva
+      role: alumni
+      note: 1884-; allievo del Netziv (Naftali Zvi Yehuda Berlin)
+    - org: mizrachi
+      role: advisor
+      note: Guida spirituale del sionismo religioso, influenza teologica sul Mizrachi
+    - org: bnei-akiva
+      role: advisor
+      from: 1929
+      to: 1935
+      note: Guida spirituale del movimento
   abraham-shemtov:
     born: 1937
     nationality: USA
@@ -189,6 +210,26 @@ persons:
       from: 1949
       to: 2008
       note: CEO 1978-1993, Chairman 1985-2001
+  ad-gordon:
+    born: 1856
+    died: 1922
+    nationality: RUS
+    note: Filosofo del sionismo laburista; "religione del lavoro"; ispiratore del movimento kibbutzista
+    affiliations:
+    - org: hapoel-hatzair
+      role: founder
+      from: 1905
+      note: Filosofo ispiratore; "religione del lavoro"
+    relations:
+    - person: berl-katznelson
+      type: mentor
+      note: Ispiratore ideologico del movimento laburista; Katznelson continuò la sua opera
+    - person: david-ben-gurion
+      type: mentor
+      note: Influenzò la visione laburista di Ben-Gurion e della generazione fondatrice
+    - person: joseph-trumpeldor
+      type: colleague
+      note: Entrambi lavorarono a Degania; condivisero l ideale pionieristico
   ad-scheepbouwer:
     nationality: NLD
     affiliations:
@@ -415,6 +456,51 @@ persons:
     - person: adam-weishaupt
       type: colleague
       note: Key organizer of Illuminati, later split over direction of the Order
+  adolphe-cremieux:
+    born: 1796
+    died: 1880
+    nationality: FRA
+    note: Avvocato e politico francese. Ministro della Giustizia (1848, 1870). Presidente AIU (1863-80). Presidente Consistoire
+      Central. Gran Comandante Supremo Consiglio di Francia (massoneria). Décret Crémieux (1870). Affare di Damasco (1840).
+    affiliations:
+    - org: governo-francia
+      role: minister
+      from: 1848
+      to: 1848
+      note: Ministro della Giustizia (governo provvisorio). Abolì pena di morte per reati politici e schiavitù nelle colonie
+    - org: governo-francia
+      role: minister
+      from: 1870
+      to: 1871
+      note: Ministro della Giustizia (Governo di Difesa Nazionale). Décret Crémieux (1870)
+    - org: governo-francia
+      role: legislator
+      from: 1842
+      to: 1880
+      note: Deputato (1842-51, 1869-75). Senatore a vita (1875-80)
+    - org: alliance-israelite-universelle
+      role: leader
+      from: 1863
+      to: 1880
+      note: Presidente
+    - org: universite-aix-en-provence
+      role: alumni
+      note: Droit, 1817
+    - org: grand-orient-de-france
+      role: leader
+      from: 1818
+      to: 1880
+      note: Iniziato 1818 (loggia Bienfait Anonyme, Nîmes). 33° grado Supremo Consiglio di Francia (1866). Gran Comandante
+        (1868-80)
+    - org: consistoire-central
+      role: leader
+      from: 1834
+      to: 1880
+      note: Vice-presidente (1834-80). Presidente di fatto della comunità ebraica francese
+    relations:
+    - person: moses-montefiore
+      type: colleague
+      note: Missione congiunta a Costantinopoli per l'Affare di Damasco (1840)
   adolphe-de-spoelberch:
     born: 1839
     died: 1913
@@ -509,6 +595,13 @@ persons:
       from: 2006
       to: 2009
       note: Finance Minister
+  aharon-lichtenstein:
+    nationality: USA-ISR
+    affiliations:
+    - org: yeshivat-har-etzion
+      role: executive
+      from: 1971
+      note: Rosh Yeshiva, invitato da Amital
   ahmad-al-muhannadi:
     nationality: QAT
     affiliations:
@@ -593,6 +686,34 @@ persons:
     - person: mohammed-bin-rashid
       type: family
       note: uncle
+  ahmed-bin-sulayem:
+    born: 1977
+    nationality: ARE
+    affiliations:
+    - org: governo-uae
+      role: advisor
+      note: Government-appointed Executive Chairman DMCC
+    - org: dmcc
+      role: executive
+      from: 2002
+      note: Executive Chairman & CEO (dal 2007 Chairman)
+    - org: dgcx
+      role: chairman
+      note: Chairman
+    - org: dubai-diamond-exchange
+      role: chairman
+      note: Chairman
+    - org: kimberley-process
+      role: chairman
+      from: 2016
+      note: Chair 2016, reappointed 2024, Custodian Chair 2025
+    - org: cal-state-san-bernardino
+      role: alumni
+      note: BA Management 2000
+    relations:
+    - person: sultan-ahmed-bin-sulayem
+      type: parent
+      note: figlio di Sultan Ahmed bin Sulayem (Chairman DP World)
   ahmed-chalabi:
     born: 1945
     died: 2015
@@ -1001,6 +1122,45 @@ persons:
       from: 1995
       to: 2000
       note: Chairman of the Board
+  alan-dershowitz:
+    born: 1938
+    nationality: USA
+    affiliations:
+    - org: harvard
+      role: academic
+      from: 1964
+      to: 2013
+      note: Felix Frankfurter Professor of Law, Harvard Law School; emeritus
+    - org: harvard-law-school
+      role: academic
+      from: 1964
+      to: 2013
+      note: Felix Frankfurter Professor of Law; youngest full prof in HLS history (age 28, 1967); emeritus
+    - org: yale-law-school
+      role: alumni
+      note: JD 1962 magna cum laude; Editor-in-Chief Yale Law Journal; first in class
+    - org: chabad-lubavitch
+      role: member
+      note: Consulente e sostenitore pubblico del movimento; discorsi a eventi Chabad
+    - org: chabad-harvard
+      role: advisor
+      note: Faculty sponsor Harvard Friends of Chabad
+    relations:
+    - person: donald-trump
+      type: colleague
+      note: Avvocato difensore primo impeachment (2020); nomino Kushner per Nobel
+    - person: hirschy-zarchi
+      type: colleague
+      note: Faculty sponsor Harvard Friends of Chabad; supporto dal 1997
+    - person: jared-kushner
+      type: colleague
+      note: Lo nomino per Nobel per la Pace per Abraham Accords; connessione via Chabad Harvard e difesa Trump
+    - person: jeffrey-epstein
+      type: colleague
+      note: Avvocato di Epstein; negozio plea deal 2008; accusato da Giuffre (poi ritirate 2022)
+    - person: larry-summers
+      type: colleague
+      note: Colleghi Harvard; co-firmatari lettera anti-boycott Israel
   alan-garber:
     born: 1955
     nationality: USA
@@ -1673,6 +1833,16 @@ persons:
       role: chairman
       from: 2022
       note: Chairman Supervisory Board
+  alexander-zaid:
+    born: 1886
+    died: 1938
+    nationality: RUS
+    affiliations:
+    - org: hashomer
+      role: founder
+      from: 1909
+      to: 1920
+      note: Co-fondatore Bar-Giora e Hashomer; assassinato 1938
   alexandra-de-hoop-scheffer:
     nationality: FRA
     note: GMF President 2025-, first European president
@@ -2171,6 +2341,26 @@ persons:
       note: WEF Annual Meeting 2016
     - org: fti-consulting
       role: executive
+  almog-cohen:
+    born: 1988
+    nationality: ISR
+    note: Ex poliziotto Yasam (11 anni), fondatore milizia 'Barel Rangers' nel Negev (2022), MK Otzma Yehudit dal 2022, Vice
+      Ministro AI dal 2025. Famiglia sefardita tunisina. Difese Ofakim il 7 ottobre. Indagato per brutalita' poliziesca. Frequenti
+      scontri con Ben Gvir sulla disciplina di partito.
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 2022
+      note: MK 2022-2025; Deputy Minister AI apr 2025
+    - org: otzma-yehudit
+      role: member
+      from: 2022
+      note: 7° in lista; frequenti scontri disciplinari con Ben Gvir
+    relations:
+    - person: itamar-ben-gvir
+      type: colleague
+      note: Leader di partito; frequenti scontri sulla disciplina; Cohen rimosso da commissione Esteri per insubordinazione
+        (2023)
   alois-brunner:
     born: 1912
     died: 2010
@@ -2185,6 +2375,15 @@ persons:
     - person: adolf-eichmann
       type: subordinate
       note: Braccio destro, "il mio miglior uomo"
+  alois-negrelli:
+    born: 1799
+    died: 1858
+    nationality: AUT
+    affiliations:
+    - org: societe-etudes-canal-suez
+      role: member
+      from: 1846
+      note: Sezione austriaca
   alon-cohen:
     born: 1968
     nationality: ISR
@@ -2416,6 +2615,30 @@ persons:
     - person: mike-krieger
       type: colleague
       note: Successore come Head of Product Anthropic
+  amichai-eliyahu:
+    born: 1979
+    nationality: ISR
+    note: Minister of Heritage (2022-oggi); MK Otzma Yehudit; rabbino, nipote del Rabbino Capo sefardita Mordechai Eliyahu
+      e figlio del Rabbino Capo di Safed Shmuel Eliyahu; veterano Paracadutisti IDF (guerra Libano 2006); sospeso dal gabinetto
+      nov 2023 per dichiarazioni su bomba nucleare su Gaza
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 2022
+      note: Minister of Heritage
+    - org: otzma-yehudit
+      role: member
+      note: MK, Minister of Heritage
+    relations:
+    - person: itamar-ben-gvir
+      type: colleague
+      note: Ben Gvir recluto' Eliyahu in Otzma Yehudit nel 2022 per la sua legittimita' rabbinica
+    - person: mordechai-eliyahu
+      type: grandchild
+      note: Nipote; Mordechai fu Rabbino Capo sefardita di Israele (1983-1993)
+    - person: shmuel-eliyahu
+      type: child
+      note: Figlio; Shmuel e' Rabbino Capo di Safed e membro del Consiglio del Rabbinato Capo
   amin-al-hafez:
     born: 1921
     died: 2009
@@ -2548,6 +2771,9 @@ persons:
       role: executive
       from: 2021
       note: Managing Director
+  amit-segal:
+    born: 1981
+    nationality: ISR
   ammar-al-joundi:
     nationality: CAN
     affiliations:
@@ -2570,6 +2796,14 @@ persons:
       from: 2017
       to: 2018
       note: CEO, nominato da Vivendi
+  amos-regev:
+    nationality: ISR
+    affiliations:
+    - org: israel-hayom
+      role: editor
+      from: 2007
+      to: 2017
+      note: Founding editor-in-chief
   amy-pascal:
     born: 1958
     nationality: USA
@@ -4178,6 +4412,22 @@ persons:
       role: executive
       from: 2019
       note: Co-President; led investments in Airbnb, Alibaba, ByteDance, Facebook, Uber
+  anton-philips:
+    born: 1874
+    died: 1951
+    nationality: NLD
+    note: Industriale, co-direttore Philips Electronics dal 1895. Fratello minore di Gerard. Espansione commerciale e internazionalizzazione.
+      Fuggito negli USA durante WWII.
+    affiliations:
+    - org: philips
+      role: executive
+      from: 1895
+      to: 1951
+      note: Co-direttore dal 1895, presidente dal 1922
+    relations:
+    - person: frits-philips
+      type: family
+      note: father
   anton-rupert:
     born: 1916
     died: 2006
@@ -4388,11 +4638,26 @@ persons:
     born: 1918
     died: 1981
     nationality: EGY
+    note: Presidente 1970-1981
     affiliations:
     - org: governo-egitto
       role: leader
       from: 1970
       to: 1981
+      note: Presidente della Repubblica
+    - org: cairo-military-academy
+      role: alumni
+      note: Graduated 1938
+    relations:
+    - person: gamal-abdel-nasser
+      type: colleague
+      note: Free Officers, successore alla presidenza
+    - person: hosni-mubarak
+      type: colleague
+      note: Vice Presidente, successore alla presidenza dopo assassinio
+    - person: jehan-sadat
+      type: spouse
+      note: Sposati dal 1949
   april-glaspie:
     born: 1942
     nationality: USA-CAN
@@ -4535,6 +4800,12 @@ persons:
     born: 1928
     died: 2014
     nationality: ISR
+    affiliations:
+    - org: likud
+      role: leader
+      from: 1999
+      to: 2005
+      note: Party chairman; PM 2001-2006; left to found Kadima Nov 2005
   arif-pashayev:
     nationality: AZE
     note: Physicist. Father of Mehriban Aliyeva. Ultimate beneficial owner of Pasha Bank, Kapital Bank. Controls Pasha Holding.
@@ -4546,6 +4817,13 @@ persons:
     - person: mehriban-aliyeva
       type: parent
       note: father
+  aristide-astruc:
+    nationality: FRA
+    note: Co-fondatore AIU (1860). Poi Gran Rabbino del Belgio
+    affiliations:
+    - org: alliance-israelite-universelle
+      role: founder
+      from: 1860
   aristotle-onassis:
     born: 1906
     died: 1975
@@ -4604,6 +4882,14 @@ persons:
     - person: vladimir-putin
       type: friend
       note: Childhood friend, judo sparring partner since 1963
+  arles-dufour:
+    born: 1797
+    died: 1872
+    nationality: FRA
+    affiliations:
+    - org: societe-etudes-canal-suez
+      role: founder
+      from: 1846
   armand-angliviel-de-la-beaumelle:
     born: 1929
     died: 1964
@@ -4850,15 +5136,49 @@ persons:
     - org: grasim
       role: board
       from: 2023
+  aryeh-eldad:
+    born: 1950
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 2003
+      to: 2013
+      note: Knesset member, Ethics Committee chair
+    - org: idf
+      role: executive
+      from: 1997
+      to: 2000
+      note: Chief Medical Officer, Brigadier General
+    - org: tel-aviv-university
+      role: alumni
+      note: MD
+    - org: otzma-yehudit
+      role: founder
+      from: 2012
+    - org: hadassah-medical-center
+      role: executive
+      from: 2000
+      to: 2003
+      note: Head of Plastic Surgery and Burns Unit
+    - org: national-union
+      role: member
+      from: 2003
+      to: 2012
+      note: Knesset member on National Union list
+    relations:
+    - person: israel-eldad
+      type: parent
+      note: Father, Lehi leader and ideologue
   aryeh-lightstone:
     born: 1980
     nationality: USA
     affiliations:
     - org: governo-usa
       role: advisor
-      from: 2017
+      from: 2025
       to: 2021
-      note: Senior Advisor to US Ambassador to Israel; Special Envoy for Economic Normalization
+      note: Senior Adviser to Board of Peace, supporting Steve Witkoff (Special Envoy for Middle East)
     - org: yeshiva-university
       role: alumni
       note: BA Finance, Rabbinic Ordination (RIETS)
@@ -4916,6 +5236,18 @@ persons:
     - org: wef
       role: ygl
       note: WEF Annual Meeting 2016
+  asher-fredman:
+    nationality: USA-ISR
+    affiliations:
+    - org: heritage-foundation
+      role: member
+      from: 2025
+      note: Visiting Fellow, Allison Center for National Security
+    - org: harvard
+      role: alumni
+      note: BA and MA Government and Middle Eastern Studies
+    - org: abraham-accords-peace-institute
+      role: executive
   ashish-j-thakkar:
     nationality: ARE
     note: Founder Mara Group. 11,000 employees across 25 African countries. Chairman UN Foundation Global Entrepreneurship
@@ -5028,6 +5360,14 @@ persons:
     died: 1932
     nationality: DEU
     note: Founder Kühne+Nagel (1890)
+  auguste-blanqui:
+    born: 1805
+    died: 1881
+    nationality: FRA
+  auguste-comte:
+    born: 1798
+    died: 1857
+    nationality: FRA
   aurelio-peccei:
     born: 1908
     died: 1984
@@ -5082,13 +5422,29 @@ persons:
       role: member
       from: 1913
   avi-berkowitz:
+    born: 1988
     nationality: USA
     affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2017
+      to: 2021
+      note: Special Assistant to the President (2017-2019), then Special Representative for International Negotiations (2019-2021)
+    - org: affinity-partners
+      role: partner
+      from: 2021
+      note: Partner, investment team focusing on Middle East
+    - org: harvard
+      role: alumni
+      note: JD 2016, Harvard Law School
     - org: abraham-accords-peace-institute
       role: founder
       from: 2021
       to: 2025
       note: Co-Founder
+    - org: kushner-companies
+      role: member
+      note: Pre-government, managed apartment portfolio
   avi-weinstein:
     nationality: USA
     affiliations:
@@ -5102,6 +5458,63 @@ persons:
     - person: moshe-kotlarsky
       type: colleague
       note: Successore di Kotlarsky alla guida di Chabad on Campus
+  avraham-hazan:
+    nationality: ITA
+    affiliations:
+    - org: chabad-lubavitch
+      role: member
+      from: 1979
+      note: Emissario (Shaliach) a Milano
+    - org: merkos
+      role: executive
+      from: 1996
+      note: Co-direttore scuola Milano
+    - org: european-kosher
+      role: executive
+      note: Director
+    - org: eurokosher
+      role: executive
+      note: Director
+    relations:
+    - person: gershon-mendel-garelik
+      type: family
+      note: Suocero (padre di Rivkah Leah Garelik)
+  avraham-stern:
+    born: 1907
+    died: 1942
+    nationality: POL-ISR
+    affiliations:
+    - org: hebrew-university
+      role: alumni
+      note: Classical Languages and Literature
+    - org: lehi
+      role: founder
+      from: 1940
+      to: 1942
+      note: Founder, killed by British police Feb 1942
+    - org: irgun
+      role: member
+      to: 1940
+      note: Senior member, split to found Lehi
+    - org: university-of-florence
+      role: alumni
+      note: Literature and Classical Languages (scholarship)
+    relations:
+    - person: israel-eldad
+      type: colleague
+      note: Lehi founder, Eldad succeeded him as ideologue
+    - person: menachem-begin
+      type: colleague
+      note: Irgun, Stern split from Begin Irgun 1940
+    - person: natan-yellin-mor
+      type: colleague
+      note: Lehi founder, Yellin-Mor succeeded him as diplomat
+    - person: yitzhak-shamir
+      type: colleague
+      note: Lehi founder, Shamir succeeded him in triumvirato
+    - person: zeev-jabotinsky
+      type: mentor
+      note: Betar/Irgun supreme commander, ideological mentor
   avril-haines:
     born: 1969
     nationality: USA
@@ -5261,6 +5674,16 @@ persons:
     - org: m1-group
       role: executive
       note: CEO
+  azriel-carlebach:
+    born: 1909
+    died: 1956
+    nationality: DEU-ISR
+    affiliations:
+    - org: maariv
+      role: founder
+      from: 1948
+      to: 1956
+      note: Founder and first editor-in-chief; died in office
   badr-abdelatty:
     nationality: EGY
     affiliations:
@@ -5456,6 +5879,84 @@ persons:
       role: executive
       from: 2024
       note: CEO
+  barthelemy-prosper-enfantin:
+    born: 1796
+    died: 1864
+    nationality: FRA
+    affiliations:
+    - org: ecole-polytechnique
+      role: alumni
+      note: '1813'
+    - org: societe-etudes-canal-suez
+      role: founder
+      from: 1846
+    - org: compagnie-universelle-canal-suez
+      role: founder
+      from: 1858
+    relations:
+    - person: arles-dufour
+      type: associate
+      note: Co-fondatore Societe d Etudes du Canal de Suez 1846
+    - person: charles-lambert
+      type: mentor
+      note: Discepolo saint-simoniano, spedizione Egitto 1833
+    - person: ferdinand-de-lesseps
+      type: associate
+      note: Introdusse Lesseps al progetto del Canale di Suez, 1833-34
+  baruch-goldstein:
+    born: 1956
+    died: 1994
+    nationality: USA-ISR
+    affiliations:
+    - org: idf
+      role: member
+      note: Physician, Captain (reserve)
+    - org: yeshiva-university
+      role: alumni
+      note: BA
+    - org: kach
+      role: member
+    - org: jewish-defense-league
+      role: member
+    - org: albert-einstein-college-of-medicine
+      role: alumni
+      note: MD 1981
+    relations:
+    - person: bentzi-gopstein
+      type: colleague
+      note: Compagni Kach, Kiryat Arba
+    - person: itamar-ben-gvir
+      type: colleague
+      note: Ben Gvir tenne ritratto di Goldstein in casa fino al 2020; primo appuntamento con moglie alla sua tomba
+  baruch-marzel:
+    born: 1959
+    nationality: USA-ISR
+    affiliations:
+    - org: otzma-yehudit
+      role: member
+      note: Candidato 2013, 2015; poi uscito dal partito
+    - org: kach
+      role: executive
+      note: Spokesman 10 years, head of secretariat after Kahane death
+    - org: jewish-defense-league
+      role: member
+      note: Joined age 13
+    relations:
+    - person: baruch-goldstein
+      type: colleague
+      note: Attivista a Hebron, lo defini un santo
+    - person: bentzi-gopstein
+      type: colleague
+      note: Co-fondatore Lehava, entrambi banditi 2019, sanzionati EU 2024
+    - person: itamar-ben-gvir
+      type: colleague
+      note: Mentore di Ben Gvir; poi rottura pubblica
+    - person: meir-kahane
+      type: mentor
+      note: Right-hand man, Kach spokesman 10 anni, aide parlamentare 1984
+    - person: michael-ben-ari
+      type: colleague
+      note: Fellow Kahanist, aide parlamentare di Ben-Ari alla Knesset
   baruchiah-russo:
     born: 1677
     died: 1720
@@ -5595,54 +6096,47 @@ persons:
   ben-bernanke:
     born: 1953
     nationality: USA
-  ben-gurion:
-    born: 1886
-    died: 1973
-    nationality: ISR
+  ben-hakim:
+    nationality: USA
     affiliations:
-    - org: governo-israele
-      role: leader
-      from: 1948
-      to: 1963
-      note: Prime Minister (1948-53, 1955-63), Defense Minister
-    - org: idf
-      role: founder
-      from: 1948
-      to: 1963
-      note: Creatore IDF da Haganah, Irgun, Lehi
-    - org: jewish-agency
-      role: chairman
-      from: 1935
-      to: 1948
-      note: Chairman Jewish Agency Executive
-    - org: mapai
-      role: founder
-      from: 1930
-      to: 1968
-      note: Leader del partito
-    - org: world-zionist-organization
-      role: chairman
-      from: 1946
-      to: 1956
-      note: Executive Head WZO
-    - org: histadrut
+    - org: blackstone
       role: executive
-      from: 1921
-      to: 1935
-      note: Secretary General
-    relations:
-    - person: shimon-peres
-      type: mentor
-      note: Political mentor
+      from: 1999
+      to: 2012
+      note: Senior Managing Director, M&A Advisory
+    - org: cornell
+      role: alumni
+      note: BS Economics (Finance & Accounting) 1997, highest honors
+    - org: pershing-square
+      role: executive
+      from: 2012
+      note: Partner 2012, President dal 2024
+    - org: howard-hughes-holdings
+      role: board
+      from: 2024
+      note: Board of Directors dal May 2024
   ben-horowitz:
     born: 1966
     nationality: USA
-    note: Andreessen Horowitz co-founder
     affiliations:
+    - org: ucla
+      role: alumni
+      note: MS Computer Science 1990
+    - org: columbia-university
+      role: alumni
+      note: BA Computer Science 1988
     - org: andreessen-horowitz
       role: founder
       from: 2009
       note: Co-founder, CEO
+    - org: databricks
+      role: board
+      note: Director
+    - org: netscape
+      role: executive
+      from: 1995
+      to: 1998
+      note: Product Manager, then VP Directory and Security
   ben-keswick:
     born: 1978
     nationality: GBR
@@ -5781,6 +6275,16 @@ persons:
     - person: edmond-de-rothschild
       type: child
       note: Figlio unico
+  benjamin-disraeli:
+    born: 1804
+    died: 1881
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: leader
+      from: 1874
+      to: 1880
+      note: Prime Minister
   benjamin-gaon:
     born: 1935
     died: 2008
@@ -5866,6 +6370,10 @@ persons:
       role: chairman
       from: 1993
       note: Leader del partito
+    relations:
+    - person: ron-dermer
+      type: patron
+      note: Bibis Brain; closest adviser since 2000; speechwriter
   benjamin-smith:
     born: 1971
     nationality: CAN-GBR
@@ -5917,6 +6425,41 @@ persons:
       role: chairman
       from: 2015
       to: 2018
+  bentzi-gopstein:
+    born: 1969
+    nationality: ISR
+    affiliations:
+    - org: otzma-yehudit
+      role: member
+      note: Candidato 2019, bandito dalla Corte Suprema (9-0)
+    - org: kach
+      role: member
+      note: Seguace di Kahane; detenzione amministrativa 1994
+    - org: lehava
+      role: founder
+      from: 2005
+      note: Fondatore e direttore
+    relations:
+    - person: baruch-marzel
+      type: colleague
+      note: Co-fondatore Lehava, entrambi banditi 2019, sanzionati
+    - person: itamar-ben-gvir
+      type: colleague
+      note: Ben Gvir avvocato Lehava; Gopstein consigliere di Ben Gvir come ministro
+    - person: meir-kahane
+      type: mentor
+      note: Seguace di Kahane, membro Kach
+    - person: michael-ben-ari
+      type: colleague
+      note: Fellow Otzma Yehudit, entrambi kahanisti
+  bentzi-lieberman:
+    nationality: ISR
+    affiliations:
+    - org: yesha-council
+      role: chairman
+      from: 2003
+      to: 2007
+      note: Chairman, led anti-disengagement campaign 2005
   beny-steinmetz:
     born: 1956
     nationality: ISR
@@ -5936,6 +6479,25 @@ persons:
       type: sibling
     - person: rubin-steinmetz
       type: son
+  ber-borochov:
+    born: 1881
+    died: 1917
+    nationality: RUS
+    affiliations:
+    - org: world-zionist-organization
+      role: member
+      note: Via Poalei Zion, delegato congressi sionisti
+    - org: poalei-zion
+      role: founder
+      from: 1906
+      note: Ideologo, autore "Our Platform" (1906)
+    relations:
+    - person: david-ben-gurion
+      type: colleague
+      note: Ideologo del partito di cui BG fu membro e leader
+    - person: yitzhak-ben-zvi
+      type: colleague
+      note: Co-fondatori Poalei Zion a Poltava 1906
   berel-lazar:
     born: 1964
     nationality: ITA-RUS
@@ -5951,6 +6513,9 @@ persons:
       role: chairman
       from: 2000
       note: Chief Rabbi and chairman
+    - org: rabbinical-centre-europe
+      role: founder
+      note: Co-fondatore
     relations:
     - person: lev-leviev
       type: colleague
@@ -5961,6 +6526,35 @@ persons:
     - person: vladimir-putin
       type: advisor
       note: Known as Putin s rabbi; included in Presidential Council for Interaction with Religious Organizations since 2001
+  berl-katznelson:
+    born: 1887
+    died: 1944
+    nationality: RUS-ISR
+    affiliations:
+    - org: mapai
+      role: founder
+      from: 1930
+      to: 1944
+      note: Ideologo e leader spirituale del partito
+    - org: histadrut
+      role: founder
+      from: 1920
+      to: 1944
+      note: Co-fondatore; fondatore Davar (1925) e Am Oved
+    - org: poalei-zion
+      role: member
+      from: 1909
+      to: 1919
+      note: Membro attivo dopo aliyah
+    - org: ahdut-haavoda
+      role: founder
+      from: 1919
+      to: 1930
+      note: Co-fondatore, ideologo
+    relations:
+    - person: david-ben-gurion
+      type: colleague
+      note: Leader spirituale e ideologo di Mapai; Ben-Gurion il leader politico
   bernadette-chirac:
     born: 1933
     nationality: FRA
@@ -6090,6 +6684,34 @@ persons:
       role: leader
       from: 1983
       to: 1987
+  bezalel-smotrich:
+    born: 1980
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 2022
+      note: Minister of Finance; colono, pro-annessione West Bank
+    - org: governo-israele
+      role: legislator
+      note: MK, Religious Zionist Party
+    - org: ono-academic-college
+      role: alumni
+      note: BA Law
+    - org: religious-zionist-party
+      role: chairman
+      note: Leader del partito
+    - org: regavim
+      role: founder
+      from: 2006
+      note: Co-fondatore; monitoraggio terre palestinesi in West Bank
+    relations:
+    - person: benjamin-netanyahu
+      type: ally
+      note: Coalizione; Netanyahu orchestra alleanza Religious Zionism-Otzma Yehudit 2022
+    - person: yoav-gallant
+      type: adversary
+      note: Conflitto su strategia Gaza e cessate il fuoco
   bezhalel-machlis:
     nationality: ISR
     note: Elbit Systems CEO since 2013
@@ -6141,6 +6763,58 @@ persons:
     - org: wef
       role: ygl
       from: 2019
+  bill-ackman:
+    born: 1966
+    nationality: USA
+    affiliations:
+    - org: harvard-business-school
+      role: alumni
+      note: MBA 1992
+    - org: harvard
+      role: alumni
+      note: BA History 1988 magna cum laude
+    - org: chabad-harvard
+      role: donor
+      note: Special friend di Rabbi Zarchi; co-organizzatore screening Oct 7 (dic 2023)
+    - org: pershing-square
+      role: founder
+      from: 2004
+      note: CEO; AUM ~$19.7B (2025)
+    - org: howard-hughes-holdings
+      role: chairman
+      from: 2010
+      note: Executive Chairman 2010-2024; rejoined May 2025
+    - org: pershing-square-foundation
+      role: founder
+      from: 2006
+    relations:
+    - person: alan-dershowitz
+      type: colleague
+      note: Entrambi sostenitori Harvard Chabad e pro-Israel post-Oct 7
+    - person: ben-hakim
+      type: colleague
+      note: Recruited from Blackstone 2012, promoted to President 2024
+    - person: carl-icahn
+      type: rival
+      note: Herbalife war 2012-18; CNBC confrontation Jan 2013
+    - person: charles-korn
+      type: colleague
+      note: Investment team Pershing Square dal 2014
+    - person: donald-trump
+      type: colleague
+      note: Endorsement e donatore 2024-2025; evoluzione da Democrat a pro-Trump
+    - person: hirschy-zarchi
+      type: colleague
+      note: Special friend; co-organizzatore screening Oct 7 a Harvard (dic 2023)
+    - person: jeffrey-epstein
+      type: colleague
+      note: Connessione sociale; Ackman presente in documenti rilasciati (contesto non chiaro)
+    - person: neri-oxman
+      type: spouse
+      note: married 2019; co-investitori TASE
+    - person: ryan-israel
+      type: mentor
+      note: Successore designato a Pershing Square, protege dal 2009
   bill-anderson:
     nationality: USA
     affiliations:
@@ -6303,6 +6977,30 @@ persons:
       from: 2005
       to: 2010
       note: President & CEO
+  binyamin-kahane:
+    born: 1966
+    died: 2000
+    nationality: USA-ISR
+    note: Founded Kahane Chai 1990 after father assassination. Convicted of sedition 1995 (16 months). Assassinated with wife
+      Talia by Force 17 on Route 60. Rabbi, author. 6 children orphaned.
+    affiliations:
+    - org: kach
+      role: member
+      from: 1984
+      to: 1990
+      note: Member before founding Kahane Chai
+    - org: jewish-defense-league
+      role: member
+      note: Figlio del fondatore
+    - org: kahane-chai
+      role: founder
+      from: 1990
+      to: 2000
+      note: Leader until assassination
+    relations:
+    - person: meir-kahane
+      type: child
+      note: Son of Meir Kahane; founded Kahane Chai after father assassination
   birgitta-ohlsson:
     born: 1975
     nationality: SWE
@@ -6351,6 +7049,15 @@ persons:
       from: 1988
       to: 2000
       note: Co-founder, merged into Sampo 2000
+  boaz-bismuth:
+    nationality: ISR
+    note: Journalist, former editor-in-chief Israel Hayom; Likud MK from 2022
+    affiliations:
+    - org: israel-hayom
+      role: editor
+      from: 2017
+      to: 2022
+      note: Editor-in-chief; stepped down Jan 2022, ran for Knesset with Likud
   boaz-levy:
     born: 1961
     nationality: ISR
@@ -6936,6 +7643,22 @@ persons:
     - person: sam-altman
       type: colleague
       note: OpenAI Board Chair, reinstated Altman 2023
+  brett-icahn:
+    born: 1979
+    nationality: USA
+    affiliations:
+    - org: goldman-sachs
+      role: analyst
+      from: 2001
+      to: 2001
+      note: Summer intern
+    - org: princeton
+      role: alumni
+      note: BA 2001
+    - org: icahn-enterprises
+      role: executive
+      from: 2002
+      note: Portfolio Manager Icahn Capital, co-manager Sargon Portfolio (~$8B AUM)
   brian-a-wong:
     nationality: CHN
     note: 52nd employee Alibaba. Former Special Assistant to Mayor Willie Brown San Francisco. Angel investor.
@@ -7254,6 +7977,38 @@ persons:
       role: chairman
       from: 2010
       to: 2018
+  carl-icahn:
+    born: 1936
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2017
+      to: 2017
+      note: Special Advisor to President Trump on Regulatory Reform
+    - org: nyu
+      role: alumni
+      note: School of Medicine, dropped out after 2 years
+    - org: princeton
+      role: alumni
+      note: BA Philosophy 1957
+    - org: icahn-enterprises
+      role: founder
+      from: 1987
+      note: Founder & controlling shareholder, diversified conglomerate
+    - org: icahn-co
+      role: founder
+      from: 1968
+      note: Securities firm, options trading
+    - org: herbalife
+      role: board
+      from: 2013
+      to: 2021
+      note: Largest shareholder (up to ~26%); board seats via Icahn Enterprises; exited May 2021
+    relations:
+    - person: brett-icahn
+      type: parent
+      note: Figlio, successore designato a Icahn Enterprises
   carl-thoma:
     nationality: USA
     affiliations:
@@ -7687,6 +8442,14 @@ persons:
     born: 1954
     nationality: USA
     note: Harvard Law professor, OIRA Administrator
+  cassidy-luna:
+    nationality: USA
+    affiliations:
+    - org: affinity-partners
+      role: executive
+    - org: abraham-accords-peace-institute
+      role: executive
+      note: Treasurer/Director; also Chief of Staff at Affinity Partners
   cathal-ryan:
     born: 1959
     died: 2007
@@ -7931,6 +8694,11 @@ persons:
       from: 1983
       to: 1993
       note: 6th President of Israel
+    - org: rafi
+      role: member
+      from: 1965
+      to: 1968
+      note: Seguì Ben-Gurion nella scissione
     relations:
     - person: yitzhak-halevi-herzog
       type: parent
@@ -7938,8 +8706,13 @@ persons:
   chaim-weizmann:
     born: 1874
     died: 1952
-    nationality: ISR
+    nationality: RUS-ISR
     affiliations:
+    - org: governo-uk
+      role: advisor
+      from: 1916
+      to: 1919
+      note: Director Admiralty Labs, produzione acetone per cordite
     - org: governo-israele
       role: leader
       from: 1949
@@ -7955,6 +8728,22 @@ persons:
       from: 1920
       to: 1946
       note: President WZO (con interruzioni)
+    - org: weizmann-institute
+      role: founder
+      from: 1934
+      note: Fondatore (orig. Sieff Institute, rinominato 1949)
+    - org: university-freiburg
+      role: alumni
+      note: PhD Chemistry 1899, magna cum laude
+    - org: university-manchester
+      role: faculty
+      from: 1904
+      to: 1916
+      note: Senior Lecturer Chemistry, acetone fermentation research
+    relations:
+    - person: zeev-jabotinsky
+      type: rival
+      note: 'Rivale ideologico: sionismo pratico vs revisionista, Jabotinsky lascio WZO nel 1923'
   chaleo-yoovidhya:
     died: 2012
     nationality: THA
@@ -8071,6 +8860,10 @@ persons:
       from: 1959
       to: 1969
       note: Presidente - Fondatore V Repubblica
+  charles-fourier:
+    born: 1772
+    died: 1837
+    nationality: FRA
   charles-hooper:
     nationality: USA
     note: Lt General USA, Director DSCA (2017-2020)
@@ -8130,6 +8923,27 @@ persons:
     - org: cato-institute
       role: founder
       from: 1977
+  charles-korn:
+    born: 1988
+    nationality: CAN
+    affiliations:
+    - org: goldman-sachs
+      role: analyst
+      from: 2010
+      to: 2012
+      note: Technology, Media and Telecom group
+    - org: kkr
+      role: analyst
+      from: 2012
+      to: 2014
+      note: PE Associate, Media, Communications & Industrials
+    - org: pershing-square
+      role: partner
+      from: 2014
+      note: Investment Analyst 2014, Partner
+    - org: western-university
+      role: alumni
+      note: HBA Business Administration 2010, Ivey Business School
   charles-kushner:
     born: 1954
     nationality: USA
@@ -8155,6 +8969,14 @@ persons:
     - person: jared-kushner
       type: parent
       note: Father
+  charles-lambert:
+    born: 1804
+    died: 1864
+    nationality: FRA
+    affiliations:
+    - org: ecole-polytechnique
+      role: alumni
+      note: '1822'
   charles-mathias:
     born: 1922
     died: 2010
@@ -8192,6 +9014,25 @@ persons:
       role: president
       from: 2019
       to: 2024
+  charles-netter:
+    born: 1826
+    died: 1882
+    nationality: FRA
+    note: Commerciante e attivista francese (Strasburgo). Co-fondatore e segretario generale AIU (1860). Fondò Mikveh Israel
+      (1870), prima scuola agricola ebraica moderna in Palestina. 'Padre dell'agricoltura ebraica'.
+    affiliations:
+    - org: alliance-israelite-universelle
+      role: founder
+      from: 1860
+      to: 1882
+      note: Co-fondatore, fondò Mikveh Israel (1870)
+    relations:
+    - person: adolphe-cremieux
+      type: colleague
+      note: Co-fondatore AIU (1860). Netter segretario generale, Crémieux presidente dal 1863
+    - person: narcisse-leven
+      type: colleague
+      note: Co-fondatori AIU (1860)
   charles-okeahalam:
     nationality: NGA
     note: Economist, co-founder AGH Capital, LSE visiting professor, African Union Foundation trustee
@@ -8351,6 +9192,11 @@ persons:
       from: 2011
       to: 2013
       note: Head of Retail Distribution
+  charlton-boyd:
+    affiliations:
+    - org: abraham-accords-peace-institute
+      role: board
+      note: Secretary/Director
   charoen-sirivadhanabhakdi:
     born: 1944
     nationality: THA
@@ -9177,6 +10023,19 @@ persons:
     - person: gianni-agnelli
       type: sibling
       note: Eldest sister of Gianni
+  clara-zetkin:
+    born: 1857
+    died: 1933
+    nationality: DEU
+    affiliations:
+    - org: second-international
+      role: member
+      from: 1889
+      note: International Women Day advocate
+    - org: spd
+      role: member
+      from: 1881
+      note: Women movement leader, then KPD
   clare-akamanzi:
     nationality: RWA
     note: Former Rwanda commercial diplomat London. Trade negotiator WTO Geneva. COO Rwanda Development Board.
@@ -9257,6 +10116,48 @@ persons:
       from: 2016
       to: 2025
       note: Board member 2016-2025, ex-McKinsey
+  claudine-gay:
+    born: 1970
+    nationality: USA-HTI
+    affiliations:
+    - org: harvard
+      role: alumni
+      note: PhD Government 1998
+    - org: harvard
+      role: faculty
+      from: 2006
+      note: Wilbur A. Cowett Professor of Government and of African and African American Studies
+    - org: harvard
+      role: executive
+      from: 2018
+      to: 2023
+      note: Edgerley Family Dean of the Faculty of Arts and Sciences
+    - org: harvard
+      role: leader
+      from: 2023
+      to: 2024
+      note: 30th President (Jul 2023 - Jan 2024); prima presidente nera; mandato piu breve nella storia
+    - org: stanford
+      role: alumni
+      note: BA Economics 1992
+    - org: stanford
+      role: faculty
+      from: 2000
+      to: 2006
+      note: Assistant Professor of Political Science
+    - org: phillips-exeter
+      role: alumni
+      note: Diploma 1988
+    relations:
+    - person: alan-dershowitz
+      type: adversary
+      note: Dershowitz critico pubblico di Gay su gestione antisemitismo Harvard
+    - person: bill-ackman
+      type: adversary
+      note: Ackman orchestro campagna per dimissioni Gay (dic 2023 - gen 2024)
+    - person: larry-summers
+      type: predecessor
+      note: Summers presidente Harvard 2001-2006; Gay 30a presidente 2023-2024
   claudio-colzani:
     born: 1957
     nationality: ITA
@@ -10178,6 +11079,48 @@ persons:
       note: researcher
     - org: nyu
       role: professor
+  dani-dayan:
+    born: 1955
+    nationality: ARG-ISR
+    affiliations:
+    - org: governo-israele
+      role: diplomat
+      from: 2016
+      to: 2020
+      note: Consul General in New York
+    - org: tel-aviv-university
+      role: alumni
+      note: MSc Finance
+    - org: bar-ilan-university
+      role: alumni
+      note: BSc Economics and Computer Science
+    - org: tehiya
+      role: executive
+      from: 1988
+      to: 1992
+      note: Secretary-General, candidato Knesset 1988 e 1992
+    - org: yesha-council
+      role: chairman
+      from: 2007
+      to: 2013
+      note: Chairman, poi foreign envoy
+    - org: yad-vashem
+      role: chairman
+      from: 2021
+      note: Chairman of the Directorate
+    - org: elad-systems
+      role: founder
+      from: 1982
+      note: CEO poi Chairman
+    - org: new-hope
+      role: member
+      from: 2021
+      to: 2021
+      note: Aderito gennaio 2021
+    relations:
+    - person: gideon-saar
+      type: associate
+      note: Dayan aderito a New Hope di Sa'ar 2021
   daniel-daniello:
     born: 1946
     nationality: USA
@@ -10234,6 +11177,12 @@ persons:
     relations:
     - person: michael-federmann
       type: son
+  daniel-flesch:
+    affiliations:
+    - org: heritage-foundation
+      role: member
+      from: 2025
+      note: Senior Policy Analyst, Abraham Accords initiative
   daniel-gross:
     nationality: ISR-USA
     affiliations:
@@ -10268,6 +11217,45 @@ persons:
       role: executive
       from: 2024
       note: Co-founder, President
+  daniel-loeb:
+    born: 1961
+    nationality: USA
+    affiliations:
+    - org: cfr
+      role: member
+    - org: warburg-pincus
+      role: executive
+      note: Pre-Third Point career
+    - org: citigroup
+      role: executive
+      note: Early career at Citicorp (pre-merger)
+    - org: jefferies
+      role: executive
+      note: Pre-Third Point career
+    - org: manhattan-institute
+      role: board
+      note: Trustee; received Alexander Hamilton Award 2020
+    - org: uc-berkeley
+      role: alumni
+      note: Attended 2 years before transferring to Columbia
+    - org: columbia
+      role: alumni
+      note: AB Economics 1983
+    - org: herbalife
+      role: board
+      from: 2013
+      note: Acquired 8.2% stake Jan 2013, opposing Ackman short thesis
+    - org: third-point
+      role: founder
+      from: 1995
+      note: Founder & CEO; AUM ~$4B (2023); event-driven activist investing
+    relations:
+    - person: bill-ackman
+      type: rival
+      note: 'Opposing sides on Herbalife 2013: Loeb long vs Ackman short'
+    - person: carl-icahn
+      type: ally
+      note: Both took long positions in Herbalife 2013 against Ackman
   daniel-oday:
     born: 1964
     nationality: USA
@@ -10280,6 +11268,11 @@ persons:
       role: executive
       from: 2019
       note: Chairman & CEO
+  daniel-pipes:
+    nationality: USA
+    affiliations:
+    - org: jewish-policy-center
+      role: fellow
   daniel-servitje:
     born: 1959
     nationality: MEX
@@ -10540,6 +11533,15 @@ persons:
       from: 2000
       to: 2009
       note: Chairman and CEO. Led Texaco merger (2001) and Unocal acquisition (2005)
+  david-aaronson:
+    affiliations:
+    - org: heritage-foundation
+      role: member
+      from: 2025
+      note: Visiting Fellow, Allison Center for National Security
+    - org: abraham-accords-peace-institute
+      role: executive
+      note: Deputy Director for Israel
   david-abney:
     nationality: USA
     note: Executive Chairman UPS, ex-CEO
@@ -10595,6 +11597,86 @@ persons:
     - person: yossi-cohen
       type: colleague
       note: Succeeded Cohen as Mossad Director 2021
+  david-ben-gurion:
+    born: 1886
+    died: 1973
+    nationality: POL-ISR
+    affiliations:
+    - org: governo-israele
+      role: leader
+      from: 1948
+      to: 1963
+      note: PM 1948-53, 1955-63
+    - org: idf
+      role: founder
+      from: 1948
+      to: 1963
+      note: Creatore IDF da Haganah, Irgun, Lehi
+    - org: jewish-agency
+      role: chairman
+      from: 1935
+      to: 1948
+      note: Chairman of the Board; also headed security dept from 1946
+    - org: mapai
+      role: founder
+      from: 1930
+      to: 1965
+      note: Founded 1930; left to form Rafi 1965
+    - org: world-zionist-organization
+      role: executive
+      from: 1935
+      note: Executive member
+    - org: histadrut
+      role: leader
+      from: 1921
+      to: 1935
+      note: General Secretary
+    - org: haganah
+      role: leader
+      from: 1946
+      to: 1948
+      note: De facto commander via Jewish Agency security dept
+    - org: hehalutz
+      role: leader
+      from: 1915
+      note: Led HeHalutz recruitment in USA with Ben-Zvi
+    - org: istanbul-university
+      role: alumni
+      note: Law studies 1912-14 (incomplete, expelled by Ottomans)
+    - org: rafi
+      role: founder
+      from: 1965
+      to: 1968
+      note: Founded after split from Mapai
+    - org: poalei-zion
+      role: member
+      from: 1904
+      note: Joined in Warsaw; activist in Palestine
+    - org: hashomer
+      role: member
+      from: 1909
+      note: Membro del movimento; ruolo minore rispetto a Shochat e Ben-Zvi
+    - org: ahdut-haavoda
+      role: founder
+      from: 1919
+      to: 1930
+      note: Co-fondatore e leader; guido fusione in Mapai
+    relations:
+    - person: chaim-weizmann
+      type: rival
+      note: Rivalita politica; BG depose Weizmann dalla WZO 1946; BG PM, Weizmann presidente cerimoniale
+    - person: menachem-begin
+      type: rival
+      note: Scontro Altalena 1948; BG ordino fuoco su nave Irgun di Begin
+    - person: shimon-peres
+      type: mentor
+      note: Protege di BG; Peres segui BG in Rafi 1965
+    - person: yitzhak-ben-zvi
+      type: colleague
+      note: Compagni da Plonsk a HeHalutz USA; Ben-Zvi 2o Presidente, BG PM
+    - person: zeev-jabotinsky
+      type: rival
+      note: Sionismo laburista vs revisionista; scontro su strategia militare e politica
   david-boehmer:
     nationality: GBR
     note: Global Managing Partner Financial Services Heidrick & Struggles. Board Komera Project. Big Brothers Big Sisters.
@@ -10839,6 +11921,14 @@ persons:
     - person: edouard-de-rothschild
       type: sibling
       note: Fratellastro, figlio di Guy e Marie-Hélène
+  david-elhayani:
+    nationality: ISR
+    affiliations:
+    - org: yesha-council
+      role: chairman
+      from: 2018
+      to: 2022
+      note: Chairman
   david-ellison:
     born: 1983
     nationality: USA
@@ -10876,8 +11966,56 @@ persons:
     relations:
     - person: michael-federmann
       type: son
-  david-friedman:
+  david-flaum:
     nationality: USA
+    affiliations:
+    - org: republican-jewish-coalition
+      role: chairman
+      note: Former National Chairman
+  david-friedman:
+    born: 1958
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 2017
+      to: 2021
+      note: US Ambassador to Israel
+    - org: nso-group
+      role: chairman
+      from: 2025
+      note: Executive Chairman, appointed Nov 2025
+    - org: nyu
+      role: alumni
+      note: JD 1981
+    - org: columbia-university
+      role: alumni
+      note: BA
+    - org: abraham-accords-peace-institute
+      role: advisor
+      note: Key architect of the Abraham Accords
+    - org: arutz-sheva
+      role: member
+      note: Frequent contributor/columnist
+    - org: american-friends-bet-el
+      role: chairman
+      note: Head of fundraising for Bet El settlement; raised tens of millions
+    relations:
+    - person: avi-berkowitz
+      type: colleague
+      note: Abraham Accords negotiating team
+    - person: donald-trump
+      type: political
+      note: Personal bankruptcy lawyer for Trump, then appointed Ambassador to Israel
+    - person: jared-kushner
+      type: colleague
+      note: Abraham Accords negotiating team
+    - person: mike-pompeo
+      type: colleague
+      note: Abraham Accords team; Pompeo wrote foreword to One Jewish State
+    - person: ron-dermer
+      type: colleague
+      note: Abraham Accords negotiations, Israel side
   david-geffen:
     born: 1943
     nationality: USA
@@ -11112,6 +12250,13 @@ persons:
       role: executive
       from: 2022
       note: Director (10th)
+  david-oreilly-hhh:
+    nationality: USA
+    affiliations:
+    - org: howard-hughes-holdings
+      role: executive
+      from: 2020
+      note: CEO dal dic 2020; ex CFO 2016-2021
   david-packard:
     born: 1912
     died: 1996
@@ -11148,6 +12293,20 @@ persons:
       role: partner
       from: 2013
       note: Chairman KKR Global Institute, Chairman KKR Middle East
+  david-raziel:
+    born: 1910
+    died: 1941
+    nationality: PSE
+    affiliations:
+    - org: irgun
+      role: leader
+      from: 1938
+      to: 1941
+      note: Commander of Irgun Zvai Leumi
+    - org: betar
+      role: leader
+      from: 1938
+      note: Head of Betar and Irgun from 1938
   david-regnery:
     nationality: USA
     affiliations:
@@ -11762,6 +12921,13 @@ persons:
     - person: peter-sutherland
       type: colleague
       note: Entrambi Attorney General IRL e collegati AIB
+  derrick-morgan:
+    nationality: USA
+    affiliations:
+    - org: heritage-foundation
+      role: executive
+      from: 2022
+      note: Executive Vice President; oversees policy, communications, government relations
   desmond-tutu:
     nationality: ZAF
     affiliations:
@@ -12655,6 +13821,17 @@ persons:
       note: mother
   dora-janssen:
     nationality: BEL
+  dorothy-de-rothschild:
+    born: 1895
+    died: 1988
+    nationality: GBR
+    note: Née Pinto. Moglie di James Armand. Fondatrice Yad HaNadiv (1958). Donò edificio Corte Suprema di Israele. Tramite
+      tra Weizmann e Rothschild durante WWI.
+    affiliations:
+    - org: yad-hanadiv
+      role: founder
+      from: 1958
+      to: 1988
   doug-brooks:
     nationality: USA
     affiliations:
@@ -12802,6 +13979,28 @@ persons:
       from: 2019
       to: 2024
       note: CEO
+  dovber-pinson:
+    born: 1971
+    nationality: USA
+    affiliations:
+    - org: chabad-lubavitch
+      role: member
+      note: Rosh Yeshiva IYYUN; autorita in Kabbalah; 60+ libri pubblicati
+  dovber-schneuri:
+    born: 1773
+    died: 1827
+    nationality: RUS
+    affiliations:
+    - org: chabad-lubavitch
+      role: leader
+      from: 1813
+      to: 1827
+      note: 2 Rebbe; trasferi sede a Lubavitch (1813)
+    - org: colel-chabad
+      role: leader
+      from: 1813
+      to: 1827
+      note: Continuo gestione fondo Terra Santa; arrestato nel 1826 per invio fondi alla Palestina ottomana
   drew-houston:
     born: 1983
     nationality: USA
@@ -13189,6 +14388,26 @@ persons:
     - org: edmond-de-rothschild-foundation-israel
       role: founder
       from: 1953
+  edmond-james-de-rothschild:
+    born: 1845
+    died: 1934
+    nationality: FRA
+    note: HaNadiv (The Known Benefactor). Funded ~30 Palestine colonies 1882-1925. Father of the Yishuv. Established Israeli
+      wine industry. Re-interred Israel 1954 with state funeral.
+    affiliations:
+    - org: pica
+      role: founder
+      from: 1924
+      to: 1934
+    - org: jewish-colonization-association
+      role: patron
+      from: 1899
+      to: 1924
+      note: Trasferì colonie palestinesi + 15M franchi (1899). Riorganizzò ramo palestinese come PICA (1924).
+    relations:
+    - person: james-armand-de-rothschild
+      type: parent
+      note: padre
   edoardo-agnelli:
     born: 1954
     died: 2000
@@ -13235,6 +14454,39 @@ persons:
       role: ygl
       from: 2011
       note: Young Leader 2011, Prime Minister
+  eduard-bernstein:
+    born: 1850
+    died: 1932
+    nationality: DEU
+    affiliations:
+    - org: governo-germania
+      role: legislator
+      from: 1902
+      to: 1928
+      note: 'Reichstag member (SPD), multiple terms: 1902-06, 1912-18, 1920-28'
+    - org: fabian-society
+      role: member
+      from: 1888
+      note: Close ties during London exile, influenced revisionism
+    - org: second-international
+      role: member
+      from: 1889
+      note: Revisionist, evolutionary socialism
+    - org: spd
+      role: member
+      from: 1872
+      to: 1932
+      note: Reichstag member 1902-1906, 1912-1918, 1920-1928; editor Der Sozialdemokrat 1881-1890
+    relations:
+    - person: karl-kautsky
+      type: rival
+      note: Revisionism debate, Kautsky defended orthodoxy
+    - person: karl-marx
+      type: colleague
+      note: Inherited Marx legacy via Engels
+    - person: rosa-luxemburg
+      type: rival
+      note: Luxemburg wrote Reform or Revolution against Bernstein revisionism
   eduardo-saverin:
     born: 1982
     nationality: BRA-SGP
@@ -13549,6 +14801,11 @@ persons:
     - org: stanford
       role: alumni
       note: MSc Economic Engineering Systems 1978
+    - org: israel-labour-party
+      role: leader
+      from: 1997
+      to: 2001
+      note: Chairman 1997-2001, 2007-11; PM 1999-2001
   ehud-schneorson:
     nationality: ISR
     affiliations:
@@ -13640,6 +14897,13 @@ persons:
     - org: iscar
       role: chairman
       from: 1988
+  elad-tana:
+    nationality: ISR
+    affiliations:
+    - org: makor-rishon
+      role: editor
+      from: 2023
+      note: Editor-in-Chief, succeeded Hagai Segal
   eldar-saetre:
     born: 1956
     nationality: NOR
@@ -13707,6 +14971,13 @@ persons:
     - person: gro-harlem-brundtland
       type: colleague
       note: GPMB Co-Chairs 2018-2022
+  eli-azur:
+    nationality: ISR
+    affiliations:
+    - org: maariv
+      role: owner
+      from: 2014
+      note: Purchased for 4M shekels; also owns Jerusalem Post, Sport1, 103FM
   eli-cohen:
     born: 1924
     died: 1965
@@ -13758,6 +15029,53 @@ persons:
       from: 1995
       to: 2000
       note: Co-Chair
+  eliezer-joffe:
+    born: 1882
+    died: 1944
+    nationality: RUS-ISR
+    affiliations:
+    - org: hehalutz
+      role: founder
+      from: 1905
+      note: Founded HeHalutz in America
+    - org: tenuvah
+      role: founder
+      from: 1928
+      to: 1936
+      note: Co-founder and director of Tnuva marketing cooperative
+    - org: hapoel-hatzair
+      role: leader
+      note: Representative at Zionist Congresses; merged into Mapai 1930
+    relations:
+    - person: joseph-trumpeldor
+      type: colleague
+      note: Entrambi fondatori di HeHalutz (Joffe USA 1905, Trumpeldor Russia 1918)
+  eliezer-waldman:
+    born: 1937
+    died: 2021
+    nationality: ISR
+    affiliations:
+    - org: gush-emunim
+      role: founder
+      from: 1974
+    - org: tehiya
+      role: legislator
+      from: 1984
+      to: 1990
+      note: MK 11a e 12a Knesset; co-fondatore partito
+    - org: mercaz-harav
+      role: alumni
+    - org: nir-kiryat-arba
+      role: founder
+      from: 1972
+      note: Rosh Yeshiva, Hesder Yeshiva
+    relations:
+    - person: moshe-levinger
+      type: colleague
+      note: Co-fondatore Gush Emunim (1974); co-fondatore insediamento Hebron/Kiryat Arba
+    - person: yoel-bin-nun
+      type: colleague
+      note: Co-fondatore Gush Emunim (1974)
   elina-valtonen:
     nationality: FIN
     affiliations:
@@ -13804,10 +15122,25 @@ persons:
     - org: governo-usa
       role: diplomat
       from: 2025
-      note: UN Ambassador | Ambassador
+      to: 2025
+      note: UN Ambassador nominata gen 2025; nomina ritirata da Trump mar 2025 per margine House
+    - org: governo-usa
+      role: legislator
+      from: 2015
+      note: Representative NY-21; youngest woman elected to Congress (age 30); Chair House Republican Conference 2021-2025
     - org: foreign-policy-initiative
       role: member
       note: Staffer before Congress
+    - org: harvard
+      role: alumni
+      note: BA Government 2006, cum laude; VP Harvard Institute of Politics
+    relations:
+    - person: claudine-gay
+      type: adversary
+      note: Condusse interrogatorio al Congresso dic 2023 che porto alle dimissioni di Gay
+    - person: donald-trump
+      type: ally
+      note: Alleata chiave di Trump; nominata UN Ambassador gen 2025
   eliza-manningham-buller:
     born: 1948
     nationality: GBR
@@ -14030,6 +15363,14 @@ persons:
       from: 1996
       to: 2000
       note: Presidente della Romania
+  emile-pereire:
+    born: 1800
+    died: 1875
+    nationality: FRA
+    affiliations:
+    - org: credit-mobilier
+      role: founder
+      from: 1852
   emile-van-lennep:
     born: 1915
     died: 1996
@@ -14902,6 +16243,9 @@ persons:
     - org: yale
       role: professor
       from: 2002
+  ernst-bloch:
+    nationality: DEU
+    note: Maggiore Abwehr; mezzo ebreo; salvo fisicamente il Rebbe da Varsavia dic 1939
   ernst-van-der-beugel:
     born: 1918
     died: 2004
@@ -15091,6 +16435,13 @@ persons:
       from: 1957
       to: 1961
       note: Left to found Kleiner Perkins 1972
+  eugene-manuel:
+    nationality: FRA
+    note: Co-fondatore AIU (1860). Professore e poeta
+    affiliations:
+    - org: alliance-israelite-universelle
+      role: founder
+      from: 1860
   eugene-schueller:
     born: 1881
     died: 1957
@@ -15591,6 +16942,26 @@ persons:
     affiliations:
     - org: kuhn-loeb
       role: partner
+  ferdinand-de-lesseps:
+    born: 1805
+    died: 1894
+    nationality: FRA
+    affiliations:
+    - org: compagnie-universelle-canal-suez
+      role: founder
+      from: 1858
+      to: 1893
+      note: President
+  ferdinand-lassalle:
+    born: 1825
+    died: 1864
+    nationality: DEU
+    affiliations:
+    - org: spd
+      role: founder
+      from: 1863
+      to: 1864
+      note: Founded ADAV (predecessor)
   ferdinand-piech:
     born: 1937
     died: 2019
@@ -15739,6 +17110,44 @@ persons:
       type: sibling
     - person: walther-moreira-salles
       type: child
+  feroz-dewan:
+    born: 1976
+    nationality: USA-SGP
+    affiliations:
+    - org: silver-lake
+      role: analyst
+      from: 2002
+      to: 2003
+      note: Private Equity Associate, technology focus
+    - org: mckinsey
+      role: executive
+      from: 1999
+      to: 2002
+      note: Manager
+    - org: kraft-heinz
+      role: board
+      from: 2016
+      note: Independent Director
+    - org: princeton
+      role: alumni
+      note: BS Engineering & Applied Mathematics 1998, highest honors
+    - org: arena-holdings
+      role: founder
+      from: 2016
+      note: Founder & CEO, permanent capital investor
+    - org: tiger-global
+      role: executive
+      from: 2003
+      to: 2015
+      note: Head of Public Equities
+    - org: danaher
+      role: board
+      from: 2022
+      note: Independent Director
+    - org: fortive
+      role: board
+      from: 2016
+      note: Independent Director, Danaher spin-off
   ferruccio-lamborghini:
     born: 1916
     died: 1993
@@ -16714,6 +18123,18 @@ persons:
     died: 2020
     nationality: USA
     family: koch
+  frederik-philips:
+    born: '1830'
+    died: '1900'
+    nationality: NLD
+    note: Banchiere. Figlio di Lion Philips. Co-fondatore Philips Electronics con il figlio Gerard (1891).
+    relations:
+    - person: anton-philips
+      type: family
+      note: father
+    - person: gerard-philips
+      type: family
+      note: father
   frederik-x:
     born: 1968
     nationality: DNK
@@ -16740,6 +18161,51 @@ persons:
       role: owner
       from: 1985
       note: Majority shareholder with Döpfner (95%)
+  friedrich-engels:
+    born: 1820
+    died: 1895
+    nationality: DEU
+    affiliations:
+    - org: university-of-berlin
+      role: alumni
+      note: Auditor 1841-1842, attended lectures during military service
+    - org: communist-league
+      role: leader
+      from: 1847
+      to: 1852
+      note: Co-author Communist Manifesto
+    - org: international-workingmens-association
+      role: member
+      from: 1864
+      to: 1876
+    - org: neue-rheinische-zeitung
+      role: executive
+      from: 1848
+      to: 1849
+      note: Co-editor
+    - org: second-international
+      role: leader
+      from: 1889
+      to: 1895
+      note: Patron, organized 1889 congress
+    - org: ermen-and-engels
+      role: partner
+      from: 1842
+      to: 1869
+      note: Family cotton mill, 20% partner from 1860
+    relations:
+    - person: eduard-bernstein
+      type: mentor
+      note: Literary executor, Engels appointed Bernstein
+    - person: ferdinand-lassalle
+      type: colleague
+      note: Fellow socialist organizer, rival on strategy
+    - person: karl-kautsky
+      type: mentor
+      note: Protege, editor of Die Neue Zeit
+    - person: mikhail-bakunin
+      type: rival
+      note: Opposed Bakunin anarchism in First International
   friedrich-merz:
     born: 1955
     nationality: DEU
@@ -16774,6 +18240,18 @@ persons:
       role: member
       from: 1989
       to: 1994
+  frits-philips:
+    born: 1905
+    died: 2005
+    nationality: NLD
+    note: Quarto presidente Philips. Figlio di Anton. Rimasto nei Paesi Bassi durante WWII, salvo 382 ebrei. Riconosciuto
+      Giusto tra le Nazioni da Yad Vashem (1996).
+    affiliations:
+    - org: philips
+      role: chairman
+      from: 1961
+      to: 1971
+      note: Quarto presidente del consiglio. In azienda dal 1930.
   fritz-hoffmann-la-roche:
     born: 1868
     died: 1920
@@ -16966,6 +18444,7 @@ persons:
       role: leader
       from: 1956
       to: 1970
+      note: President
   gan-jie:
     nationality: CHN
     note: Deputy Dean Cheung Kong Graduate School of Business
@@ -17822,8 +19301,30 @@ persons:
     - person: charles-de-gaulle
       type: protege
       note: Chef de cabinet 1944-46, Premier ministre 1962-68, successore alla presidenza
+  georgi-dimitrov:
+    born: 1882
+    died: 1949
+    nationality: BGR
+    affiliations:
+    - org: comintern
+      role: executive
+      from: 1935
+      to: 1943
+      note: General Secretary, Popular Front strategy
   georgi-domuschiev:
     nationality: BGR
+  georgi-plekhanov:
+    born: 1856
+    died: 1918
+    nationality: RUS
+    affiliations:
+    - org: second-international
+      role: member
+      from: 1889
+    - org: rsdlp
+      role: founder
+      from: 1898
+      note: Father of Russian Marxism, Emancipation of Labour group (1883)
   georgie-benardete:
     nationality: USA
     note: Co-founder Orchard Mile, Shopbeam. Founded Yesilist.com Turkey. Investor Belle Capital USA. Al Gore Climate Project
@@ -17888,6 +19389,22 @@ persons:
       role: founder
       from: 1967
       note: Co-fondatore con Dubrule
+  gerard-philips:
+    born: 1858
+    died: 1942
+    nationality: NLD
+    note: Ingegnere, co-fondatore Philips Electronics (1891) con il padre Frederik. Esperto in metallurgia e chimica, sviluppo
+      lampade a filamento di carbonio.
+    affiliations:
+    - org: philips
+      role: founder
+      from: 1891
+      to: 1922
+      note: Co-fondatore con il padre Frederik. Primo direttore tecnico.
+    relations:
+    - person: anton-philips
+      type: family
+      note: brother
   gerard-wertheimer:
     born: 1951
     nationality: FRA
@@ -18044,6 +19561,36 @@ persons:
     relations:
     - person: heather-reisman
       type: spouse
+  gershon-mendel-garelik:
+    born: 1932
+    died: 2021
+    nationality: USA-ITA
+    affiliations:
+    - org: chabad-lubavitch
+      role: leader
+      from: 1958
+      note: Emissario capo in Italia, Milano
+    - org: merkos
+      role: executive
+      from: 1959
+      to: 2021
+      note: Emissario capo Italia, fondatore scuola Milano
+    - org: kfar-chabad
+      role: member
+      from: 1949
+      to: 1958
+      note: Residente; studio presso Yeshivas Achei Temimim
+    - org: rabbinical-centre-europe
+      role: founder
+      note: Chairman comitato esecutivo
+    - org: european-kosher
+      role: founder
+      from: 2007
+      to: 2021
+    - org: eurokosher
+      role: founder
+      from: 1985
+      to: 2021
   gertrude-vanderbilt-whitney:
     born: 1875
     died: 1942
@@ -18350,6 +19897,21 @@ persons:
     relations:
     - person: michael-federmann
       type: son
+  gideon-saar:
+    born: 1966
+    nationality: ISR
+    affiliations:
+    - org: new-hope
+      role: founder
+      from: 2020
+      note: Fondatore e leader
+  gil-dolev:
+    nationality: ISR
+    affiliations:
+    - org: dream-security
+      role: founder
+      from: 2023
+      note: Co-founder and CTO, ex-CEO Wayout Group
   gil-shwed:
     born: 1968
     nationality: ISR
@@ -18956,6 +20518,59 @@ persons:
     - org: scoot
       role: chairman
       note: Chairman Budget Aviation Holdings
+  golda-meir:
+    born: 1898
+    died: 1978
+    nationality: RUS-ISR
+    affiliations:
+    - org: governo-israele
+      role: leader
+      from: 1969
+      to: 1974
+      note: PM 1969-74; Min. Lavoro 1949-56; Min. Esteri 1956-66
+    - org: jewish-agency
+      role: leader
+      from: 1946
+      to: 1948
+      note: Acting head Political Department 1946-48
+    - org: mapai
+      role: founder
+      from: 1930
+      to: 1968
+      note: Secretary-General 1966-68
+    - org: world-zionist-organization
+      role: executive
+      note: Attiva nella WZO via Mapai e Jewish Agency
+    - org: histadrut
+      role: executive
+      from: 1928
+      to: 1946
+      note: Women Labour Council secretary 1928-32; Executive Committee 1934; Political Department head
+    - org: poalei-zion
+      role: member
+      from: 1915
+      note: Young Poale Zion Milwaukee
+    - org: milwaukee-normal-school
+      role: alumni
+      note: Teaching diploma 1917
+    - org: israel-labour-party
+      role: leader
+      from: 1968
+      to: 1974
+      note: Co-fondatrice; leader fino a dimissioni 1974
+    relations:
+    - person: david-ben-gurion
+      type: colleague
+      note: Compagna storica Mapai; BG la nomino ministro
+    - person: menachem-begin
+      type: rival
+      note: Opposizione Likud-Labour
+    - person: shimon-peres
+      type: colleague
+      note: Collega Mapai/Labour
+    - person: yitzhak-rabin
+      type: colleague
+      note: Successore come PM 1974
   goldy-hyder:
     nationality: CAN
     affiliations:
@@ -19299,6 +20914,16 @@ persons:
       role: chairman
       from: 2023
       note: Independent Chairman
+  grigory-zinoviev:
+    born: 1883
+    died: 1936
+    nationality: RUS
+    affiliations:
+    - org: comintern
+      role: chairman
+      from: 1919
+      to: 1926
+      note: First President ECCI
   gro-harlem-brundtland:
     born: 1939
     nationality: NOR
@@ -19731,6 +21356,34 @@ persons:
       from: 2023
       to: 2024
       note: Governor, first female
+  hagai-segal:
+    born: 1957
+    nationality: ISR
+    affiliations:
+    - org: hebrew-university
+      role: alumni
+      note: BA Mathematics and Statistics
+    - org: gush-emunim
+      role: member
+      note: Joined after 1973 Yom Kippur War, settled in Ofra
+    - org: nekuda
+      role: editor
+      note: Editor-in-Chief, late 1980s-early 1990s
+    - org: makor-rishon
+      role: editor
+      from: 2014
+      to: 2023
+      note: Editor-in-Chief
+    - org: arutz-sheva
+      role: editor
+      note: News department director, early-mid 1990s; convicted 2003 for illegal broadcasting 1995-98
+    relations:
+    - person: amit-segal
+      type: family
+      note: father
+    - person: yisrael-harel
+      type: associate
+      note: Successor as editor of Nekuda; both Gush Emunim/Yesha settlers
   haider-al-abadi:
     born: 1952
     nationality: IRQ
@@ -19740,6 +21393,46 @@ persons:
       from: 2014
       to: 2018
       note: Prime Minister
+  haim-arlosoroff:
+    born: 1899
+    died: 1933
+    nationality: RUS-ISR
+    affiliations:
+    - org: hapoel-hatzair
+      role: leader
+      note: Leader; poi Jewish Agency Political Department
+  haim-drukman:
+    born: 1932
+    died: 2022
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 1981
+      to: 1982
+      note: Deputy Minister Religious Affairs; dimesso per ritiro dal Sinai
+    - org: gush-emunim
+      role: founder
+      from: 1974
+      note: Riunione fondativa a casa sua; conio il nome Gush Emunim
+    - org: mercaz-harav
+      role: alumni
+    - org: mafdal
+      role: legislator
+      from: 1977
+      to: 1988
+      note: MK 9a-11a Knesset (NRP e Morasha)
+    - org: or-etzion
+      role: founder
+      from: 1964
+      note: Rosh Yeshiva
+    relations:
+    - person: hanan-porat
+      type: colleague
+      note: Co-fondatori Gush Emunim 1974
+    - person: moshe-levinger
+      type: colleague
+      note: Co-fondatori Gush Emunim 1974
   haim-saban:
     born: 1944
     nationality: ISR-USA
@@ -19933,6 +21626,9 @@ persons:
     - org: icd
       role: chairman
       from: 2015
+    - org: investment-corporation-dubai
+      role: chairman
+      note: Chairman ICD Board
   hamid-bovard:
     nationality: IRN
     affiliations:
@@ -19947,6 +21643,59 @@ persons:
     - org: first-abu-dhabi-bank
       role: executive
       from: 2021
+  hanan-porat:
+    born: 1943
+    died: 2011
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 1981
+      to: 1999
+      note: MK 1981-1984, 1988-1999
+    - org: religious-zionist-party
+      role: founder
+      from: 1998
+    - org: gush-emunim
+      role: founder
+      from: 1974
+    - org: tehiya
+      role: member
+      from: 1981
+      to: 1984
+      note: Knesset Member
+    - org: mercaz-harav
+      role: alumni
+      note: Rabbinical ordination
+    - org: yeshivat-kerem-byavneh
+      role: alumni
+    - org: yeshivat-har-etzion
+      role: founder
+      from: 1968
+      note: Co-fondatore
+    - org: mafdal
+      role: member
+      from: 1988
+      to: 1999
+      note: Knesset Member, parliamentary group chairman 1996
+    relations:
+    - person: yoel-bin-nun
+      type: colleague
+      note: Co-fondatori Yeshivat Har Etzion e comunita Alon Shvut
+    - person: zvi-hendel
+      type: colleague
+      note: Co-fondatori Tkuma 1999, entrambi ex-Mafdal
+    - person: zvi-yehuda-kook
+      type: mentor
+      note: Maestro spirituale a Mercaz HaRav
+  hananel-dorani:
+    nationality: ISR
+    affiliations:
+    - org: yesha-council
+      role: chairman
+      from: 2022
+      to: 2024
+      note: Chairman
   hank-paulson:
     born: 1946
     nationality: USA
@@ -19972,6 +21721,20 @@ persons:
       note: WEF Annual Meeting 2016
     - org: i-am-water-foundation
       role: founder
+  hannah-barent-cohen:
+    born: 1783
+    died: 1850
+    nationality: GBR
+    note: 'Moglie di Nathan Mayer Rothschild (1806). Figlia di Levi Barent Cohen. Attiva nel business della banca Rothschild:
+      gestiva corrispondenza e firmava assegni. Zia del fondatore di Philips e di Karl Marx. Sorella di Judith (moglie di
+      Moses Montefiore)'
+    relations:
+    - person: levi-barent-cohen
+      type: child
+      note: Figlia
+    - person: nathan-mayer-rothschild
+      type: spouse
+      note: Sposata 1806
   hannah-rothschild:
     nationality: GBR
     affiliations:
@@ -19979,6 +21742,18 @@ persons:
       role: chairman
       from: 2024
       note: Chair since Jacob Rothschild death
+  hannah-zakaria:
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2025
+      note: Trump 2.0 administration
+    - org: abraham-accords-peace-institute
+      role: executive
+      from: 2021
+      to: 2025
+      note: Director of Operations
   hans-dieter-poetsch:
     born: 1951
     nationality: DEU
@@ -20355,6 +22130,26 @@ persons:
     born: 1839
     died: 1913
     nationality: DEU
+  heinrich-marx:
+    born: 1777
+    died: 1838
+    nationality: DEU
+    affiliations:
+    - org: university-of-berlin
+      role: alumni
+      note: Law 1810
+    - org: governo-prussia
+      role: member
+      from: 1814
+      to: 1838
+      note: Avvocato, Corte Appello Treviri; Justizrat 1832
+    relations:
+    - person: karl-marx
+      type: parent
+      note: Father of Karl Marx
+    - person: karl-marx
+      type: family
+      note: father
   helen-clark:
     born: 1950
     nationality: NZL
@@ -20484,6 +22279,9 @@ persons:
       from: 1982
       to: 1998
       note: Chancellor of Unity. Reunification 1990. Maastricht Treaty 1992.
+  helmuth-wohlthat:
+    nationality: DEU
+    note: Amministratore Piano Quadriennale Goering; negoziatore tedesco con Comitato Intergovernativo Rifugiati
   hendrik-brugmans:
     born: 1906
     died: 1997
@@ -20548,6 +22346,33 @@ persons:
       role: board
       from: 2018
       note: Board member
+  henri-de-saint-simon:
+    born: 1760
+    died: 1825
+    nationality: FRA
+    affiliations:
+    - org: ecole-polytechnique
+      role: alumni
+      note: Courses in science ca. 1798-1801
+    relations:
+    - person: auguste-comte
+      type: mentor
+      note: Comte fu segretario di Saint-Simon 1817-1824
+    - person: barthelemy-prosper-enfantin
+      type: mentor
+      note: Leader del movimento saint-simoniano dopo la morte di Saint-Simon
+    - person: charles-fourier
+      type: colleague
+      note: Entrambi socialisti utopici, approcci diversi
+    - person: friedrich-engels
+      type: predecessor
+      note: 'Engels ne discusse in Socialism: Utopian and Scientific'
+    - person: karl-marx
+      type: predecessor
+      note: Marx lo defini socialista utopico, ma ne assorbi la critica industriale
+    - person: robert-owen
+      type: colleague
+      note: Trio dei socialisti utopici (Marx-Engels)
   henrietta-fore:
     born: 1948
     nationality: USA
@@ -20610,6 +22435,18 @@ persons:
       from: 2020
       to: 2021
       note: Co-lead via UNICEF, delivery coordination
+  henriette-pressburg:
+    born: '1788'
+    died: '1863'
+    nationality: NLD
+    note: Madre di Karl Marx. Figlia di Isaac Heymans Pressburg e Nanette Salomons Cohen. Sposata Heinrich Marx (1814).
+    relations:
+    - person: heinrich-marx
+      type: spouse
+      note: married 1814, Nijmegen
+    - person: karl-marx
+      type: family
+      note: mother
   henrik-ehrnrooth:
     born: 1954
     nationality: FIN
@@ -21149,6 +22986,19 @@ persons:
     - person: saul-alinsky
       type: influenced_by
       note: Thesis su Alinsky a Wellesley (1969), interviste dirette
+  hillel-pewsner:
+    born: 1922
+    died: 2008
+    nationality: FRA
+    affiliations:
+    - org: chabad-lubavitch
+      role: leader
+      from: 1947
+      to: 2008
+      note: Rabbino capo Lubavitch a Parigi; emissario per quasi 60 anni
+    - org: rabbinical-centre-europe
+      role: founder
+      note: Co-fondatore, membro presidium
   hilmar-kopper:
     born: 1935
     nationality: DEU
@@ -21244,6 +23094,35 @@ persons:
       from: 2004
       to: 2011
       note: Uscita polemica post-Fukushima
+  hirschy-zarchi:
+    born: 1973
+    nationality: USA
+    affiliations:
+    - org: harvard
+      role: advisor
+      from: 1997
+      note: Jewish Chaplain
+    - org: chabad-lubavitch
+      role: member
+      note: Shliach; Jewish Chaplain at Harvard
+    - org: chabad-on-campus
+      role: member
+      from: 1997
+      note: Shliach Harvard; expanded to MIT, Tufts, Brandeis
+    - org: chabad-harvard
+      role: executive
+      from: 1997
+      note: Founding Director/Shliach
+    relations:
+    - person: charles-kushner
+      type: colleague
+      note: Donatore; presente a dedicazione edificio Chabad Harvard 2003
+    - person: jared-kushner
+      type: mentor
+      note: Rabbino di riferimento a Harvard 1999-2003; rapporto continuativo
+    - person: larry-summers
+      type: colleague
+      note: Summers partecipo a Shabbat 1000 (2006); primo presidente ebreo di Harvard
   ho-chi-minh:
     born: 1890
     died: 1969
@@ -21474,6 +23353,16 @@ persons:
       role: executive
       from: 2023
       note: CFO
+  hugo-pratt:
+    born: 1927
+    died: 1995
+    nationality: ITA
+    affiliations:
+    - org: cong
+      role: founder
+      from: 1987
+      to: 1995
+      note: Fondatore, cedette tutti i diritti delle sue opere il 24 aprile 1987
   hugo-stenbeck:
     born: 1890
     died: 1977
@@ -22159,7 +24048,7 @@ persons:
     - org: herzog-fox-neeman
       role: partner
       note: Senior Partner
-    - org: labor-party-israel
+    - org: israel-labour-party
       role: leader
       from: 2013
       to: 2017
@@ -22171,6 +24060,26 @@ persons:
     - person: mike-herzog
       type: sibling
       note: brother
+  isaac-heymans-pressburg:
+    born: '1747'
+    died: '1832'
+    nationality: NLD
+    note: Mercante tessile di Nijmegen. Padre di Henriette Pressburg (madre di Karl Marx).
+    relations:
+    - person: henriette-pressburg
+      type: family
+      note: father
+    - person: sophie-pressburg
+      type: family
+      note: father
+  isaac-pereire:
+    born: 1806
+    died: 1880
+    nationality: FRA
+    affiliations:
+    - org: credit-mobilier
+      role: founder
+      from: 1852
   isabel-schnabel:
     born: 1971
     nationality: DEU
@@ -22204,6 +24113,28 @@ persons:
     affiliations:
     - org: reliance-jio
       role: board
+  isidore-cahen:
+    born: 1826
+    died: 1902
+    nationality: FRA
+    note: Giornalista e filosofo. Direttore Archives Israélites (1862-1902). Propose il nome Alliance Israélite Universelle
+      (1858)
+    affiliations:
+    - org: alliance-israelite-universelle
+      role: founder
+      from: 1860
+    - org: archives-israelites
+      role: executive
+      from: 1862
+      to: 1902
+      note: Direttore
+    relations:
+    - person: adolphe-cremieux
+      type: colleague
+      note: Co-fondatori Alliance Israélite Universelle (1860)
+    - person: samuel-cahen
+      type: child
+      note: Figlio di Samuel Cahen
   ismail-demir:
     nationality: TUR
     affiliations:
@@ -22212,6 +24143,43 @@ persons:
       from: 2014
       to: 2023
       note: Undersecretary 2014-2018, President 2018-2023
+  ismail-haniyeh:
+    born: 1963
+    died: 2024
+    nationality: PSE
+    affiliations:
+    - org: hamas
+      role: leader
+      note: Capo ufficio politico Hamas; assassinato a Tehran 31 lug 2024
+  israel-eldad:
+    born: 1910
+    died: 1996
+    nationality: ISR
+    affiliations:
+    - org: technion
+      role: academic
+      note: Professor of Humanistic Studies
+    - org: university-of-vienna
+      role: alumni
+      note: PhD Philosophy
+    - org: lehi
+      role: leader
+      from: 1942
+      to: 1948
+      note: Ideologue, triumvirate with Shamir and Yellin-Mor
+    - org: ben-gurion-university
+      role: academic
+      note: Professor of Humanistic Studies
+    relations:
+    - person: menachem-begin
+      type: colleague
+      note: Betar comrades in Warsaw, escaped together in WWII
+    - person: natan-yellin-mor
+      type: colleague
+      note: Lehi triumvirate, diplomatic/political chief
+    - person: yitzhak-shamir
+      type: colleague
+      note: Lehi triumvirate, operations chief
   israel-englander:
     born: 1948
     nationality: USA
@@ -22224,6 +24192,13 @@ persons:
     - person: jeff-yass
       type: mentor
       note: Finanziatore iniziale, $30k per seggio Philadelphia Stock Exchange
+  israel-ganz:
+    nationality: ISR
+    affiliations:
+    - org: yesha-council
+      role: chairman
+      from: 2024
+      note: Chairman eletto maggio 2024
   israel-grimberg:
     nationality: ISR
     affiliations:
@@ -22238,6 +24213,16 @@ persons:
     - person: liran-grinberg
       type: associate
       note: Co-founder Team8, Unit 8200 colleagues
+  israel-shochat:
+    born: 1886
+    died: 1961
+    nationality: RUS
+    affiliations:
+    - org: hashomer
+      role: founder
+      from: 1909
+      to: 1920
+      note: Capo del comitato direttivo; fondatore anche di Bar-Giora (1907)
   israfil-mammadov:
     nationality: AZE
     note: SOFAZ CEO (2019-). Ex CIO SOFAZ (2008-2013), Deputy CEO (2013-2019). Deputy Chair IFSWF (2024-).
@@ -22279,6 +24264,41 @@ persons:
   istvan-tiborcz:
     born: 1985
     nationality: HUN
+  itamar-ben-gvir:
+    born: 1976
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 2022
+      note: Minister of National Security; dimesso gen 2025 per ceasefire Gaza; rientrato mar 2025
+    - org: governo-israele
+      role: legislator
+      from: 2021
+      note: MK, Otzma Yehudit
+    - org: otzma-yehudit
+      role: chairman
+      from: 2012
+      note: Leader del partito kahanista
+    - org: ono-academic-college
+      role: alumni
+      note: LLB Law 2008
+    - org: kach
+      role: member
+      note: Youth activist
+    - org: lehava
+      role: advisor
+      note: Avvocato di Gopstein e dell'org; rappresentante legale
+    relations:
+    - person: benjamin-netanyahu
+      type: ally
+      note: Coalizione 2022; partner governo piu a destra nella storia di Israele
+    - person: bezalel-smotrich
+      type: ally
+      note: Alleati ultranazionalisti nel governo Netanyahu; blocco Religious Zionism-Otzma Yehudit
+    - person: yoav-gallant
+      type: adversary
+      note: Rivali nel governo; Ben Gvir spinse per licenziamento Gallant
   ivan-espinosa:
     born: 1979
     nationality: MEX
@@ -22924,6 +24944,36 @@ persons:
       note: Reclutato da Pearson in OSS, suo numero 2 a Londra
     - person: william-colby
       type: rival
+  james-armand-de-rothschild:
+    born: 1878
+    died: 1957
+    nationality: FRA-GBR
+    note: Figlio di Edmond James. Presidente a vita PICA. Major Jewish Legion (39th Royal Fusiliers). MP Liberal Isle of Ely
+      1929-45. Donò edificio Knesset a Israele. Sposò Dorothy Pinto (1913).
+    affiliations:
+    - org: governo-uk
+      role: legislator
+      from: 1929
+      to: 1945
+      note: MP Liberal, Isle of Ely. Parl. Secretary Ministry of Supply 1945.
+    - org: cambridge
+      role: alumni
+      note: Three years
+    - org: jewish-legion
+      role: officer
+      from: 1918
+      note: Major, 39th Battalion Royal Fusiliers. Liaison officer Zionist Commission.
+    - org: pica
+      role: president
+      from: 1924
+      to: 1957
+    relations:
+    - person: chaim-weizmann
+      type: collaborator
+      note: Introdotto dal padre Edmond. Collaborazione sionista.
+    - person: dorothy-de-rothschild
+      type: spouse
+      note: Sposati 1913, senza figli
   james-baker:
     born: 1930
     nationality: USA
@@ -23747,7 +25797,15 @@ persons:
       role: executive
       from: 2007
       note: CEO (2008-2017, 2021-)
+    - org: chabad-harvard
+      role: member
+      from: 1999
+      to: 2003
+      note: Frequentatore assiduo; donatore $18K da studente; studiava Tanya con Zarchi
     relations:
+    - person: avi-berkowitz
+      type: mentor
+      note: Recruited at pickup basketball game, Kushner Companies then White House
     - person: donald-trump
       type: family
       note: Son-in-law (married to Ivanka Trump)
@@ -24065,6 +26123,16 @@ persons:
       role: executive
       from: 2015
       note: Deputy CEO; CFO
+  jean-jaures:
+    born: 1859
+    died: 1914
+    nationality: FRA
+    affiliations:
+    - org: second-international
+      role: leader
+      from: 1889
+      to: 1914
+      note: French socialist leader, assassinated July 1914
   jean-laurent-bonnafe:
     born: 1961
     nationality: FRA
@@ -25224,6 +27292,14 @@ persons:
   jim-clark:
     born: 1944
     nationality: USA
+  jim-demint:
+    nationality: USA
+    affiliations:
+    - org: heritage-foundation
+      role: executive
+      from: 2013
+      to: 2017
+      note: President; removed by board for management issues
   jim-garrison:
     nationality: USA
     affiliations:
@@ -26107,6 +28183,16 @@ persons:
       role: chairman
       from: 2018
       note: Chairman of the Board
+  john-henry-patterson:
+    born: 1867
+    died: 1947
+    nationality: IRL
+    affiliations:
+    - org: zion-mule-corps
+      role: leader
+      from: 1915
+      to: 1916
+      note: Commanding Officer
   john-howard:
     born: 1939
     nationality: AUS
@@ -26518,6 +28604,82 @@ persons:
     - org: quora
       role: executive
       note: Engineer
+  joi-ito:
+    born: 1966
+    nationality: JPN-USA
+    note: Internet pioneer, venture capitalist. MIT Media Lab Director 2011-2019. Resigned over concealed Jeffrey Epstein
+      donations. College dropout (Tufts, U Chicago). Currently president of Chiba Institute of Technology.
+    affiliations:
+    - org: wef
+      role: ygl
+      from: 2001
+      note: Global Leaders for Tomorrow 2001. Regular Davos participant.
+    - org: new-york-times
+      role: board
+      to: 2019
+      note: Board of Directors. Resigned Sept 2019 over Epstein scandal
+    - org: sony
+      role: board
+      note: Board member
+    - org: mit-media-lab
+      role: executive
+      from: 2011
+      to: 2019
+      note: Director. Resigned Sept 7 2019 over Epstein scandal
+    - org: creative-commons
+      role: chairman
+      from: 2006
+      note: Board 2003, Chairman 2006, later CEO
+    - org: digital-garage
+      role: founder
+      from: 1995
+      note: Co-founder, CEO 1995-1999, later board member
+    - org: neoteny
+      role: founder
+      from: 2002
+      note: Founder and managing partner. VC fund.
+    - org: mozilla-foundation
+      role: board
+      note: Board member
+    - org: icann
+      role: board
+      note: Board member
+    - org: knight-foundation
+      role: board
+      to: 2019
+      note: Board. Resigned 2019 over Epstein scandal
+    - org: macarthur-foundation
+      role: board
+      to: 2019
+      note: Board. Resigned 2019 over Epstein scandal
+    - org: chiba-institute-technology
+      role: executive
+      from: 2023
+      note: President since June 2023
+    - org: psinet-japan
+      role: executive
+      from: 1995
+      to: 1996
+      note: CEO
+    relations:
+    - person: bill-gates
+      type: financial
+      note: Epstein directed $2M anonymous donation from Gates to MIT Media Lab. Gates among donors channeled through Epstein
+        totaling $7.5M.
+    - person: jeffrey-epstein
+      type: financial
+      note: Epstein donated $525k to MIT Media Lab via Ito. Invested $1.2M in Ito personal funds. Co-owned Kyara Investments
+        III. Ito concealed donations as anonymous.
+    - person: larry-summers
+      type: network
+      note: Overlap via Epstein network and cryptocurrency circles. Both connected to MIT Digital Currency Initiative.
+    - person: nicholas-negroponte
+      type: mentor
+      note: Negroponte recommended Ito take Epstein money. Media Lab founder-director succession.
+    - person: reid-hoffman
+      type: professional
+      note: Hoffman advisor to Neoteny Labs. Helped increase Ito-Epstein Blockstream investment from $50k to $500k. Ran interference
+        for MIT over Epstein donations.
   joichi-ito:
     nationality: JPN-USA
   joko-widodo:
@@ -27221,6 +29383,13 @@ persons:
     - person: diane-de-rothschild
       type: spouse
       note: married 1952
+  joseph-coors:
+    nationality: USA
+    affiliations:
+    - org: heritage-foundation
+      role: founder
+      from: 1973
+      note: Co-Founder; $250K seed money
   joseph-dunford:
     born: 1955
     nationality: USA
@@ -27431,6 +29600,32 @@ persons:
       from: 1995
       to: 2000
       note: Co-Chair
+  joseph-trumpeldor:
+    born: 1880
+    died: 1920
+    nationality: RUS
+    affiliations:
+    - org: governo-russia
+      role: member
+      from: 1902
+      to: 1906
+      note: Esercito imperiale, Port Arthur, primo ufficiale ebreo, Croce di San Giorgio
+    - org: betar
+      role: member
+      note: 'Eponymous: Betar = Brit Yosef Trumpeldor, fondato postumo in suo onore'
+    - org: hehalutz
+      role: founder
+      from: 1918
+      note: Founded in Petrograd, organized agricultural training for aliyah
+    - org: zion-mule-corps
+      role: founder
+      from: 1915
+      to: 1916
+      note: Co-organizer with John Henry Patterson, fought at Gallipoli
+    relations:
+    - person: zeev-jabotinsky
+      type: colleague
+      note: Co-founded Jewish Legion (WWI), Betar named after Trumpeldor (Brit Yosef Trumpeldor)
   josh-damaro:
     nationality: USA
     affiliations:
@@ -27512,6 +29707,9 @@ persons:
       role: founder
       from: 2010
       note: Founder & Managing Partner
+    - org: chabad-harvard
+      role: member
+      note: Amico di Rabbi Zarchi
     relations:
     - person: jared-kushner
       type: sibling
@@ -27732,6 +29930,29 @@ persons:
   judah-leib-prossnitz:
     nationality: DEU
     note: Sabbatiano di Prossnitz (Prostejov); connessione con Eybeschutz
+  judith-barent-cohen:
+    born: 1784
+    died: 1862
+    nationality: GBR
+    note: Linguista, scrittrice, filantropa. Moglie di Moses Montefiore. Sorella di Hannah (moglie di Nathan Mayer Rothschild).
+      Autrice del primo libro di cucina ebraico in inglese. First Lady of Anglo Jewry
+    relations:
+    - person: hannah-barent-cohen
+      type: sibling
+      note: Sorelle, figlie di Levi Barent Cohen
+    - person: levi-barent-cohen
+      type: child
+      note: Quarta figlia
+    - person: moses-montefiore
+      type: spouse
+      note: Sposata 10 giugno 1812
+  jules-carvallo:
+    nationality: FRA
+    note: Co-fondatore AIU (1860). Ingegnere civile
+    affiliations:
+    - org: alliance-israelite-universelle
+      role: founder
+      from: 1860
   julia-binder:
     nationality: CHE
     affiliations:
@@ -28137,6 +30358,12 @@ persons:
       role: executive
       from: 2024
       note: Chief Scientist, Microsoft AI
+  karen-tandy:
+    nationality: USA
+    affiliations:
+    - org: jewish-policy-center
+      role: chairman
+      note: Chair
   kari-lake:
     born: 1969
     nationality: USA
@@ -28186,6 +30413,19 @@ persons:
     - org: hm
       role: chairman
       from: 2020
+  karl-kautsky:
+    born: 1854
+    died: 1938
+    nationality: AUT
+    affiliations:
+    - org: second-international
+      role: leader
+      from: 1889
+      note: Chief theorist, orthodox Marxism
+    - org: spd
+      role: leader
+      from: 1883
+      note: Editor Die Neue Zeit
   karl-ludwig-kley:
     born: 1951
     nationality: DEU
@@ -28236,6 +30476,58 @@ persons:
     - org: whu
       role: faculty
       note: Honorary Professor
+  karl-marx:
+    born: 1818
+    died: 1883
+    nationality: DEU
+    affiliations:
+    - org: university-of-bonn
+      role: alumni
+      note: Law 1835-1836
+    - org: university-of-berlin
+      role: alumni
+      note: Philosophy 1836-1841
+    - org: university-of-jena
+      role: alumni
+      note: PhD Philosophy 1841
+    - org: communist-league
+      role: leader
+      from: 1847
+      to: 1852
+      note: Co-author Communist Manifesto
+    - org: international-workingmens-association
+      role: leader
+      from: 1864
+      to: 1876
+      note: General Council member, drafted Inaugural Address
+    - org: rheinische-zeitung
+      role: executive
+      from: 1842
+      to: 1843
+      note: Editor-in-chief
+    - org: neue-rheinische-zeitung
+      role: executive
+      from: 1848
+      to: 1849
+      note: Editor-in-chief
+    - org: league-of-the-just
+      role: member
+      from: 1847
+      to: 1847
+      note: Joined before transformation to Communist League
+    relations:
+    - person: ferdinand-lassalle
+      type: colleague
+      note: Interlocutor, disagreement on state socialism
+    - person: friedrich-engels
+      type: colleague
+      note: Lifelong collaborator, co-author Communist Manifesto
+    - person: mikhail-bakunin
+      type: rival
+      note: Ideological conflict in First International, expelled Bakunin 1872
+    - person: pierre-joseph-proudhon
+      type: rival
+      note: Critiqued in Misère de la philosophie (1847)
   karl-rove:
     born: 1950
     nationality: USA
@@ -28444,6 +30736,14 @@ persons:
     - org: mitsubishi-heavy-industries
       role: board
       note: Board Member
+  kay-coles-james:
+    nationality: USA
+    affiliations:
+    - org: heritage-foundation
+      role: executive
+      from: 2018
+      to: 2021
+      note: President; first woman and African American to lead Heritage
   kazim-taskent:
     nationality: TUR
     note: Founder Yapi Kredi 1944
@@ -29693,6 +31993,13 @@ persons:
       role: member
       from: 1920
       to: 1966
+  lalla-joumala:
+    nationality: MAR
+    affiliations:
+    - org: abraham-accords-peace-institute
+      role: advisor
+    - org: governo-marocco
+      role: diplomat
   lamberto-andreotti:
     nationality: ITA
     affiliations:
@@ -29939,6 +32246,9 @@ persons:
       from: 2001
       to: 2006
       note: President 2001-2006; BA 1975, PhD Economics MIT, Professor emeritus
+    - org: mit
+      role: alumni
+      note: BS Economics 1975
     - org: andreessen-horowitz
       role: advisor
       from: 2011
@@ -29948,7 +32258,14 @@ persons:
       from: 2006
       to: 2025
       note: Managing director 2006-08, consultant 2011-2025, terminated Nov 2025
+    - org: chabad-harvard
+      role: member
+      note: Sostenitore; partecipo a Shabbat 1000 (2006) e eventi post-Oct 7
     relations:
+    - person: bill-ackman
+      type: colleague
+      note: Entrambi Harvard alumni e critici pro-Israel post-Oct 7; divergenti su tattiche (Summers critica pressione finanziaria
+        di Ackman)
     - person: sheryl-sandberg
       type: mentor
       note: Thesis advisor at Harvard, hired at World Bank and Treasury
@@ -30273,6 +32590,12 @@ persons:
     born: 1955
     nationality: SGP
     family: lee-singapore
+  lee-zeldin:
+    nationality: USA
+    affiliations:
+    - org: republican-jewish-coalition
+      role: board
+      note: Director
   lei-jun:
     born: 1969
     nationality: CHN
@@ -30438,6 +32761,20 @@ persons:
     - org: atlantic-council
       role: board
       note: Honorary Director
+  leon-trotsky:
+    born: 1879
+    died: 1940
+    nationality: RUS
+    affiliations:
+    - org: comintern
+      role: leader
+      from: 1919
+      to: 1929
+      note: Drafted Manifesto to the Proletariat
+    - org: rsdlp
+      role: member
+      from: 1898
+      note: Initially non-factional, then Bolshevik 1917
   leonard-abramson:
     nationality: USA
     affiliations:
@@ -30538,6 +32875,13 @@ persons:
       from: 1965
       to: 1996
       note: CEO 1956-1992, Chairman 1965-1996
+  les-male:
+    nationality: GBR
+    affiliations:
+    - org: dgcx
+      role: executive
+      from: 2018
+      note: CEO
   leslie-thng:
     nationality: SGP
     affiliations:
@@ -30622,6 +32966,64 @@ persons:
     - person: roman-abramovich
       type: colleague
       note: Co-founded FJCR 1999
+  levi-barent-cohen:
+    born: 1747
+    died: 1808
+    nationality: GBR
+    note: Mercante ashkenazita di Angel Court, Throgmorton Street, Londra. Padre di Hannah (moglie di Nathan Rothschild) e
+      Judith (moglie di Moses Montefiore)
+  levi-duchman:
+    born: 1993
+    nationality: USA-ARE
+    affiliations:
+    - org: governo-uae
+      role: advisor
+      from: 2020
+      note: Chief Rabbi degli EAU; accesso diretto al Palazzo Presidenziale; rapporto con Sheikh Mohamed bin Zayed
+    - org: chabad-lubavitch
+      role: member
+      from: 2015
+      note: Shliach ufficiale negli EAU; nominato da Merkos (nov 2020)
+    relations:
+    - person: menachem-hadad
+      type: in-law
+      note: Suocero; Chief Rabbi del Belgio; nonno paterno emissario Chabad a Milano
+    - person: sholom-duchman
+      type: child
+      note: Figlio; primo rabbino capo residente degli Emirati Arabi Uniti
+    - person: zvi-kogan
+      type: colleague
+      note: Collega Chabad negli EAU; assassinato in attacco terroristico antisemita (nov 2024)
+  levi-eshkol:
+    born: 1895
+    died: 1969
+    nationality: RUS-ISR
+    affiliations:
+    - org: mapai
+      role: leader
+      from: 1963
+      to: 1968
+      note: Party leader; PM 1963-69
+    - org: israel-labour-party
+      role: leader
+      from: 1968
+      to: 1969
+      note: Primo chairman; PM fino alla morte
+  levi-hazan:
+    nationality: ITA
+    affiliations:
+    - org: chabad-lubavitch
+      role: member
+    - org: eurokosher
+      role: executive
+      note: Rabbinical Coordinator
+    relations:
+    - person: avraham-hazan
+      type: child
+      note: Figlio di Avraham Hazan
+    - person: gershon-mendel-garelik
+      type: grandchild
+      note: Nipote di Garelik (via Avraham Hazan)
   levi-shemtov:
     born: 1965
     nationality: USA
@@ -30637,6 +33039,12 @@ persons:
     - person: jared-kushner
       type: advisor
       note: Personal rabbi of Kushner and Ivanka Trump at TheSHUL DC
+  lewis-eisenberg:
+    nationality: USA
+    affiliations:
+    - org: republican-jewish-coalition
+      role: board
+      note: Director
   lewis-hay:
     nationality: USA
     affiliations:
@@ -30943,6 +33351,25 @@ persons:
     affiliations:
     - org: genting-group
       role: chairman
+  limor-son-har-melech:
+    born: 1979
+    nationality: ISR
+    note: 'Unica donna MK di Otzma Yehudit. Vedova di terrorismo (marito Shuli Har-Melech ucciso 2003). Co-fondatrice ''Homesh
+      First''. Vive nell''''insediamento di Shavei Shomron. Vice-Presidente Knesset (2025), Chairman Commissione Sanita''
+      (dic 2025). 10 figli. Dichiarazioni: ''non esiste un terrorista ebreo'', negazione crisi umanitaria Gaza.'
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 2022
+      note: MK 2022-oggi; Deputy Speaker mag 2025; Chairman Commissione Sanita' dic 2025
+    - org: otzma-yehudit
+      role: member
+      from: 2022
+      note: 13a in lista; unica donna del partito alla Knesset
+    relations:
+    - person: itamar-ben-gvir
+      type: colleague
+      note: Leader di partito; supporto reciproco su insediamenti e Gaza
   lin-bin:
     born: 1968
     nationality: CHN
@@ -30981,6 +33408,15 @@ persons:
       role: executive
       from: 2025
       note: CFO (first female CFO in company history)
+  linant-de-bellefonds:
+    born: 1799
+    died: 1883
+    nationality: FRA
+    affiliations:
+    - org: societe-etudes-canal-suez
+      role: member
+      from: 1847
+      note: Ingegnere capo rilievi egiziani
   linda-gail-bekker:
     nationality: ZAF
     affiliations:
@@ -31024,9 +33460,41 @@ persons:
       role: minister
       from: 2025
       note: Secretary of Education
+  lindsey-burke:
+    nationality: USA
+    affiliations:
+    - org: heritage-foundation
+      role: executive
+      to: 2025
+      note: Director Center for Education Policy; left June 2025 for DOE Deputy Chief of Staff; Project 2025 education chapter
+        author
   linfa-wang:
     nationality: CHN
     note: Bat virus researcher, Duke-NUS Singapore
+  lion-philips:
+    born: '1794'
+    died: '1866'
+    nationality: NLD
+    note: Mercante di tabacco di Zaltbommel. Zio di Karl Marx. Nonno di Gerard e Anton Philips (fondatori Philips Electronics).
+    relations:
+    - person: frederik-philips
+      type: family
+      note: father
+    - person: karl-marx
+      type: family
+      note: uncle (married Sophie Pressburg, sister of Henriette)
+    - person: sophie-pressburg
+      type: spouse
+      note: married 1820, Nijmegen
+  lionel-de-rothschild:
+    born: 1808
+    died: 1879
+    nationality: GBR
+    affiliations:
+    - org: nm-rothschild
+      role: partner
+      from: 1836
+      to: 1879
   lionel-jospin:
     born: 1937
     nationality: FRA
@@ -31045,6 +33513,10 @@ persons:
     died: 1879
     nationality: GBR
     family: rothschild
+    relations:
+    - person: hannah-barent-cohen
+      type: child
+      note: Figlio primogenito maschio (1808)
   lionel-zinsou:
     born: 1954
     nationality: FRA-BEN
@@ -31170,6 +33642,9 @@ persons:
       from: 2021
       to: 2022
       note: Foreign Secretary
+    - org: heritage-foundation
+      role: member
+      note: Keynote speaker; Margaret Thatcher Freedom Lecture
   liza-mustapha:
     nationality: MYS
     affiliations:
@@ -31347,6 +33822,10 @@ persons:
       from: 1992
       to: 2005
       note: Privatized 1996, created Nissan alliance 1999
+  louise-michel:
+    born: 1830
+    died: 1905
+    nationality: FRA
   lu-chaoyang:
     nationality: CHN
     note: Professore Università Scienza Tecnologia Cina
@@ -32105,6 +34584,9 @@ persons:
       role: chairman
       from: 2015
       note: Vice
+    - org: investment-corporation-dubai
+      role: board
+      note: Vice Chairman ICD Board
   malcolm-rifkind:
     born: 1946
     nationality: GBR
@@ -32238,6 +34720,16 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  manya-shochat:
+    born: 1878
+    died: 1961
+    nationality: RUS
+    affiliations:
+    - org: hashomer
+      role: founder
+      from: 1909
+      to: 1920
+      note: Co-fondatrice; moglie di Israel Shochat; poi attiva nella Haganah clandestina
   marc-andreessen:
     born: 1971
     nationality: USA
@@ -32264,13 +34756,28 @@ persons:
       from: 2008
       to: 2014
       note: Director
+    - org: uiuc
+      role: alumni
+      note: BS Computer Science 1993
     relations:
     - person: ben-horowitz
       type: co-founder
       note: Co-founded Andreessen Horowitz
+    - person: david-sacks
+      type: ally
+      note: Trump tech coalition, crypto advocacy, Silicon Valley-GOP bridge
+    - person: elon-musk
+      type: ally
+      note: Trump inner circle, DOGE recruitment, tech-government nexus
     - person: jim-clark
       type: co-founder
       note: Co-founded Netscape Communications
+    - person: mark-zuckerberg
+      type: colleague
+      note: Meta board member since 2008, early Facebook investor
+    - person: peter-thiel
+      type: ally
+      note: Fellow Trump advisor, VC colleague, crypto advocacy
   marc-benioff:
     nationality: USA
     affiliations:
@@ -33515,6 +36022,16 @@ persons:
       role: founder
       from: 1995
       note: Co-founded with Jonathan Klein; Executive Chairman to 2005
+  mark-hughes:
+    born: 1956
+    died: 2000
+    nationality: USA
+    affiliations:
+    - org: herbalife
+      role: founder
+      from: 1980
+      to: 2000
+      note: Founder, Chairman & CEO
   mark-lazarus:
     born: 1962
     nationality: USA
@@ -34354,6 +36871,22 @@ persons:
     - person: friede-springer
       type: patron
       note: designated successor 2020; received €1B+ shares 2021; joint 95% ownership
+  matt-brooks:
+    nationality: USA
+    affiliations:
+    - org: brandeis
+      role: alumni
+      note: BA
+    - org: georgetown
+      role: alumni
+      note: MBA
+    - org: republican-jewish-coalition
+      role: executive
+      from: 1990
+      note: CEO
+    - org: jewish-policy-center
+      role: executive
+      note: CEO
   matt-cohen:
     nationality: USA
     affiliations:
@@ -34537,6 +37070,31 @@ persons:
     - org: yle
       role: chairman
       from: 2021
+  maurice-de-hirsch:
+    born: 1831
+    died: 1896
+    nationality: DEU
+    note: 'Moritz Freiherr von Hirsch auf Gereuth. Magnate ferroviario bavarese (Orient Express). Fondatore JCA (1891, £9M).
+      Finanziò colonie ebraiche in Argentina. Rifiutò Herzl (1895). Moglie: Clara Bischoffsheim. Figlio: Lucien (m.1887).'
+    affiliations:
+    - org: jewish-colonization-association
+      role: founder
+      from: 1891
+      to: 1896
+      note: Fondatore, 19.993 su 20.000 azioni
+    - org: alliance-israelite-universelle
+      role: patron
+      from: 1873
+      to: 1896
+      note: Donò 1M franchi (1873), copri deficit annuali
+    relations:
+    - person: edmond-james-de-rothschild
+      type: rival
+      note: 'Rivali filantropici: Argentina (Hirsch) vs Palestina (Rothschild). Dopo morte Hirsch (1896), Rothschild trasferì
+        colonie a JCA (1899).'
+    - person: theodor-herzl
+      type: opponent
+      note: Rifiutò di ascoltare Herzl (1895). Preferiva Argentina a Palestina.
   maurice-strong:
     born: 1929
     died: 2015
@@ -34638,6 +37196,26 @@ persons:
       role: executive
     - org: mckinsey
       role: partner
+  max-nordau:
+    born: 1849
+    died: 1923
+    nationality: HUN-FRA
+    affiliations:
+    - org: world-zionist-organization
+      role: founder
+      from: 1897
+      to: 1923
+      note: Co-fondatore, Vice Presidente
+    - org: university-of-pest
+      role: alumni
+      note: MD Medicine 1872
+    relations:
+    - person: chaim-weizmann
+      type: colleague
+      note: Successore alla guida del movimento sionista
+    - person: nahum-sokolow
+      type: colleague
+      note: Colleghi nella leadership WZO
   max-novendstern:
     nationality: USA
     affiliations:
@@ -34831,6 +37409,20 @@ persons:
     - person: isser-harel
       type: successor
       note: Successor as Mossad Director 1963
+  meir-bar-ilan:
+    born: 1880
+    died: 1949
+    nationality: RUS-ISR
+    affiliations:
+    - org: mizrachi
+      role: leader
+      from: 1920
+      to: 1949
+      note: Presidente World Mizrachi dal 1920
+    - org: elitzur
+      role: founder
+      from: 1939
+      note: Iniziatore della fondazione
   meir-dagan:
     born: 1945
     died: 2016
@@ -34864,6 +37456,59 @@ persons:
     - person: tamir-pardo
       type: colleague
       note: Pardo succeeded Dagan as Mossad Director 2011
+  meir-deutsch:
+    nationality: ISR
+    affiliations:
+    - org: regavim
+      role: executive
+      note: Director General
+  meir-kahane:
+    born: 1932
+    died: 1990
+    nationality: USA-ISR
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 1984
+      to: 1988
+      note: MK for Kach, banned under anti-racism law
+    - org: nyu
+      role: alumni
+      note: MA International Relations 1957
+    - org: kach
+      role: founder
+      from: 1971
+      to: 1990
+      note: MK 1984-1988, banned 1988
+    - org: jewish-defense-league
+      role: founder
+      from: 1968
+      note: Founded in New York
+    - org: mirrer-yeshiva
+      role: alumni
+      note: Rabbinical ordination 1956-57
+    - org: brooklyn-college
+      role: alumni
+      note: BA Political Science 1954
+    - org: new-york-law-school
+      role: alumni
+      note: LLB 1956
+    relations:
+    - person: baruch-goldstein
+      type: mentor
+      note: Follower, Kach member, perpetrator Hebron massacre 1994
+    - person: baruch-marzel
+      type: mentor
+      note: Right-hand man, Kach spokesman, parliamentary aide 1984-88
+    - person: bentzi-gopstein
+      type: mentor
+      note: Follower, Kach member, founder Lehava
+    - person: itamar-ben-gvir
+      type: mentor
+      note: Ideological successor, kahanist movement
+    - person: michael-ben-ari
+      type: mentor
+      note: Student and political heir, Kach member
   melanie-joly:
     born: 1979
     nationality: CAN
@@ -34895,6 +37540,70 @@ persons:
     born: 1913
     died: 1992
     nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: leader
+      from: 1948
+      to: 1983
+      note: Knesset member 1948-1983, PM 1977-1983
+    - org: likud
+      role: founder
+      from: 1973
+      to: 1983
+      note: Co-founded Likud from Herut+Liberal+others
+    - org: university-of-warsaw
+      role: alumni
+      note: Law 1935
+    - org: irgun
+      role: leader
+      from: 1943
+      to: 1948
+      note: Commander
+    - org: herut
+      role: founder
+      from: 1948
+      to: 1973
+      note: Founded from Irgun, merged into Likud 1973
+    - org: betar
+      role: leader
+      from: 1939
+      note: Head of Betar Poland before WWII
+    - org: hatzohar
+      role: member
+      note: Left to found Herut in 1948
+    - org: new-zionist-organization
+      role: member
+      note: Leading Revisionist figure, later headed Irgun
+    relations:
+    - person: anwar-sadat
+      type: counterpart
+      note: Camp David Accords 1978, Nobel Peace Prize
+    - person: zeev-jabotinsky
+      type: mentor
+      note: Betar founder, ideological father of Revisionist Zionism
+  menachem-hadad:
+    nationality: BEL
+  menachem-kaplan:
+    nationality: ITA
+    affiliations:
+    - org: chabad-lubavitch
+      role: member
+    - org: eurokosher
+      role: executive
+      note: Co-director
+  menachem-margolin:
+    nationality: ISR-BEL
+    affiliations:
+    - org: chabad-lubavitch
+      role: member
+      note: Emissario Chabad a Bruxelles
+    - org: rabbinical-centre-europe
+      role: executive
+      from: 2004
+      note: Program Director 2004, General Director 2006
+    - org: european-jewish-association
+      role: founder
+      note: Fondatore e Chairman
   menachem-schneerson:
     born: 1902
     died: 1994
@@ -34929,6 +37638,9 @@ persons:
       from: 1942
       to: 1994
       note: Director and Editor-in-Chief; appointed by 6th Rebbe
+    - org: colel-chabad
+      role: leader
+      note: Supervisione come 7 Rebbe; nomino Duchman direttore (1978)
     relations:
     - person: abraham-shemtov
       type: mentor
@@ -35119,6 +37831,41 @@ persons:
       role: chairman
       from: 2014
       note: Chairman Supervisory Board
+  michael-ben-ari:
+    born: 1963
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 2009
+      to: 2013
+      note: MK 18th Knesset (National Union)
+    - org: otzma-yehudit
+      role: founder
+      from: 2012
+    - org: kach
+      role: member
+    - org: national-union
+      role: legislator
+      from: 2009
+      to: 2012
+      note: MK 18th Knesset
+    - org: bar-ilan-university
+      role: alumni
+      note: BA Education, MA Talmud, PhD Land of Israel Studies and Archaeology
+    relations:
+    - person: aryeh-eldad
+      type: colleague
+      note: Co-fondatore Otzma Yehudit 2012
+    - person: baruch-marzel
+      type: colleague
+      note: Kahanista, co-organizzatore Otzma Yehudit
+    - person: itamar-ben-gvir
+      type: colleague
+      note: Successore come chairman Otzma Yehudit
+    - person: meir-kahane
+      type: mentor
+      note: Allievo diretto di Kahane, membro Kach
   michael-bloomberg:
     born: 1942
     nationality: USA
@@ -35217,6 +37964,32 @@ persons:
     - person: jeffrey-katzenberg
       type: mentor
       note: Mentor at Paramount and Disney
+  michael-epstein:
+    nationality: USA
+    affiliations:
+    - org: harvard-business-school
+      role: alumni
+      note: OPM64 Program
+    - org: georgia-tech
+      role: alumni
+      note: BS Industrial and Systems Engineering
+    - org: republican-jewish-coalition
+      role: board
+      note: Vice Chairman
+    - org: beco-management
+      role: founder
+      from: 1986
+      note: Co-founder, real estate investment and management
+    - org: willow-asset-management
+      role: executive
+      from: 2008
+      note: President and CEO, Epstein family office
+    - org: jewish-policy-center
+      role: board
+      note: Vice Chairman
+    - org: us-holocaust-memorial-museum
+      role: trustee
+      note: Appointed by President George W. Bush
   michael-evans:
     nationality: CAN
     affiliations:
@@ -35381,6 +38154,33 @@ persons:
     - org: atlantic-council
       role: board
       note: Board member
+  michael-herzog:
+    born: 1951
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: diplomat
+      from: 2021
+    - org: abraham-accords-peace-institute
+      role: advisor
+  michael-johnson-hlf:
+    born: 1954
+    nationality: USA
+    affiliations:
+    - org: walt-disney
+      role: executive
+      to: 2003
+      note: President Walt Disney International; 17 anni in Disney; espanse mercati da 34 a 80 paesi
+    - org: clorox
+      role: board
+      note: Director
+    - org: herbalife
+      role: executive
+      from: 2003
+      note: CEO 2003-2017, 2019-2020, 2022-2025; Chairman 2007-2020; Executive Chairman 2025-
+    - org: western-state-colorado
+      role: alumni
+      note: BA Political Science
   michael-larson:
     born: 1959
     nationality: USA
@@ -35890,6 +38690,26 @@ persons:
       from: 2009
       to: 2018
       note: Commissioner, Acting Chair 2013
+  miguel-correa:
+    nationality: USA
+    note: Retired Major General, coined Abraham Accords name
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2020
+      to: 2021
+      note: Senior Director Gulf Affairs, NSC
+    - org: affinity-partners
+      role: partner
+      from: 2022
+      note: Senior Partner, Geostrategy/Geopolitics
+    relations:
+    - person: jared-kushner
+      type: colleague
+      note: Abraham Accords team; then Senior Partner at Affinity Partners
+    - person: yousef-al-otaiba
+      type: colleague
+      note: Trust relationship key to Abraham Accords; Correa was defense attache in Abu Dhabi
   mihai-alisie:
     born: 1988
     nationality: ROU
@@ -36061,7 +38881,50 @@ persons:
       to: 2022
       note: President & CEO
   mike-pompeo:
+    born: 1963
     nationality: USA
+    affiliations:
+    - org: bilderberg
+      role: member
+      from: 2019
+      note: Bilderberg 2019 Montreux
+    - org: cia
+      role: leader
+      from: 2017
+      to: 2018
+      note: Director
+    - org: governo-usa
+      role: minister
+      from: 2018
+      to: 2021
+      note: Secretary of State (70th)
+    - org: governo-usa
+      role: legislator
+      from: 2011
+      to: 2017
+      note: Representative, Kansas 4th district
+    - org: hudson-institute
+      role: member
+      from: 2021
+      note: Distinguished Fellow, Chair China Center advisory board
+    - org: columbia-university
+      role: member
+      from: 2025
+      note: Distinguished Fellow, Institute of Global Politics
+    - org: west-point
+      role: alumni
+      note: BS Mechanical Engineering 1986, first in class
+    - org: harvard
+      role: alumni
+      note: JD 1994, Harvard Law Review editor
+    - org: liberty-university
+      role: member
+      from: 2021
+      note: Distinguished Professor, Helms School of Government
+    relations:
+    - person: donald-trump
+      type: political
+      note: Appointed CIA Director 2017, Secretary of State 2018
   mike-reynolds:
     born: 1945
     nationality: GBR
@@ -36160,6 +39023,16 @@ persons:
     - org: university-colorado-boulder
       role: alumni
       note: BS Chemical Engineering 1982
+  mikhail-bakunin:
+    born: 1814
+    died: 1876
+    nationality: RUS
+    affiliations:
+    - org: international-workingmens-association
+      role: member
+      from: 1868
+      to: 1872
+      note: Expelled 1872, anarchist faction
   mikhail-barsukov:
     born: 1947
     nationality: RUS
@@ -36404,6 +39277,38 @@ persons:
       from: 2008
       to: 2011
       note: Presidente del Senato
+  miriam-adelson:
+    born: 1945
+    nationality: ISR-USA
+    note: Physician (addiction research), billionaire (~$35-40B); publisher/owner Israel Hayom; widow of Sheldon Adelson;
+      majority owner Dallas Mavericks; top Republican/Trump donor ($600M+ family total since 2015); Presidential Medal of
+      Freedom 2018; Adelson Family Foundation gives $200M/yr to Jewish/Israeli causes
+    affiliations:
+    - org: aipac
+      role: donor
+      note: $5M+ donated; major supporter
+    - org: rockefeller-university
+      role: board
+      from: 1986
+      note: Associate physician 1986, guest investigator; elected to Board of Trustees; addiction research with Mary Jeanne
+        Kreek
+    - org: hebrew-university
+      role: alumni
+      note: BSc Microbiology and Genetics
+    - org: tel-aviv-university
+      role: alumni
+      note: MD magna cum laude, Faculty of Medicine
+    - org: israel-hayom
+      role: executive
+      from: 2018
+      note: Publisher (named 2018), owner after Sheldon Adelson death 2021
+    - org: las-vegas-sands
+      role: chairman
+      from: 2021
+      note: Majority owner after Sheldon Adelson death; Patrick Dumont is CEO
+    - org: republican-jewish-coalition
+      role: board
+      note: Major donor, continued after Sheldon
   mitt-romney:
     born: 1947
     nationality: USA
@@ -36611,6 +39516,10 @@ persons:
       note: Vice Presidente, Primo Ministro, Ruler Dubai
     - org: icd
       role: chairman
+    - org: dmcc
+      role: founder
+      from: 2002
+      note: Royal Decree 1 May 2002
   mohammed-bin-salman:
     born: 1985
     nationality: SAU
@@ -36651,6 +39560,10 @@ persons:
       role: founder
       from: 2019
       note: Annuncio pubblico creazione EDGE
+    relations:
+    - person: yousef-al-otaiba
+      type: patron
+      note: MBZ principal; Otaiba his man in Washington since 2000
   mohammed-shia-al-sudani:
     born: 1970
     nationality: IRQ
@@ -36797,6 +39710,13 @@ persons:
     - org: governo-corea
       role: minister
       note: Health Minister
+  mordechai-dubin:
+    nationality: LVA
+    note: Membro Parlamento Lettone; ottenne liberazione Rebbe dalla GPU 1927
+  mordechai-eliyahu:
+    born: 1929
+    died: 2010
+    nationality: ISR
   moris-tabacinic:
     nationality: USA
     affiliations:
@@ -36845,6 +39765,42 @@ persons:
     died: 1830
     nationality: DEU
     family: warburg
+  moses-montefiore:
+    born: 1784
+    died: 1885
+    nationality: GBR
+    note: Finanziere, filantropo e attivista britannico. Baronetto. Sheriff di Londra (1837-38). Presidente Board of Deputies
+      of British Jews (1835-74). Cognato di Nathan Mayer Rothschild. 7 viaggi in Palestina. Fondò Mishkenot Sha'ananim a Gerusalemme.
+    affiliations:
+    - org: governo-uk
+      role: executive
+      from: 1837
+      to: 1838
+      note: Sheriff di Londra e Middlesex. Knighthood 1837, Baronetto 1846
+    - org: alliance-israelite-universelle
+      role: member
+      from: 1860
+      note: Sostenitore. Precursore e ispiratore della missione AIU attraverso le sue campagne diplomatiche
+    - org: board-of-deputies
+      role: leader
+      from: 1835
+      to: 1874
+      note: Presidente (39 anni, mandato piu lungo nella storia)
+    relations:
+    - person: nathan-mayer-rothschild
+      type: family
+      note: Cognati (Montefiore sposò Judith Barent-Cohen, sorella di Hannah moglie di Nathan). Partner in affari, co-fondatori
+        Alliance Assurance Company (1824)
+  moshe-dayan:
+    born: 1915
+    died: 1981
+    nationality: ISR
+    affiliations:
+    - org: rafi
+      role: member
+      from: 1965
+      to: 1968
+      note: Co-fondatore; MK per Rafi
   moshe-kotlarsky:
     born: 1949
     died: 2024
@@ -36889,6 +39845,23 @@ persons:
     - person: yehuda-krinsky
       type: colleague
       note: Co-leader di Merkos L'Inyonei Chinuch
+  moshe-levinger:
+    born: 1935
+    died: 2015
+    nationality: ISR
+    affiliations:
+    - org: gush-emunim
+      role: founder
+      from: 1974
+    - org: mercaz-harav
+      role: alumni
+    relations:
+    - person: hanan-porat
+      type: colleague
+      note: Co-fondatori Gush Emunim 1974
+    - person: yoel-bin-nun
+      type: colleague
+      note: Co-fondatori Gush Emunim 1974
   moshe-schnitzer:
     died: 2006
     nationality: ISR
@@ -36896,6 +39869,29 @@ persons:
     - org: israel-diamond-exchange
       role: chairman
       note: Presidente storico, padre industria diamanti israeliana
+  moshe-shapira:
+    born: 1902
+    died: 1970
+    nationality: ISR
+    affiliations:
+    - org: hapoel-hamizrachi
+      role: leader
+      note: Co-fondatore, leader politico
+    - org: mafdal
+      role: leader
+      from: 1956
+      to: 1970
+      note: Chairman
+  moshe-sharett:
+    born: 1894
+    died: 1965
+    nationality: ISR
+    affiliations:
+    - org: mapai
+      role: leader
+      from: 1930
+      to: 1965
+      note: PM 1954-55; party leader dopo Ben-Gurion
   mostafa-madbouly:
     born: 1966
     nationality: EGY
@@ -37390,6 +40386,11 @@ persons:
     died: 1936
     nationality: POL
     affiliations:
+    - org: jewish-agency
+      role: chairman
+      from: 1935
+      to: 1936
+      note: Honorary President
     - org: world-zionist-organization
       role: board
       from: 1911
@@ -37400,6 +40401,15 @@ persons:
       from: 1931
       to: 1935
       note: President WZO
+    - org: ha-tsfira
+      role: journalist
+      from: 1876
+      to: 1936
+      note: Editore dal 1885; trasformo il settimanale in quotidiano
+    relations:
+    - person: chaim-weizmann
+      type: colleague
+      note: Collaboratore a Londra; predecessore come presidente WZO
   naif-shesha:
     nationality: SAU
     note: CSO Saudi Space Commission
@@ -37558,6 +40568,28 @@ persons:
       from: 2009
       to: 2014
       note: Chairman UIDAI (Aadhaar), rank Cabinet Minister
+  nanette-salomons-cohen:
+    born: '1764'
+    died: '1833'
+    nationality: NLD
+    note: Figlia di Salomon David Barent-Cohen. Sposa Isaac Heymans Pressburg. Madre di Henriette Pressburg (madre di Karl
+      Marx) e Sophie Pressburg (madre della dinastia Philips).
+    relations:
+    - person: henriette-pressburg
+      type: family
+      note: mother
+    - person: isaac-heymans-pressburg
+      type: spouse
+      note: married 1785, Nijmegen
+    - person: sophie-pressburg
+      type: family
+      note: mother
+  naomi-kahn:
+    nationality: ISR
+    affiliations:
+    - org: regavim
+      role: executive
+      note: International Director
   narayana-murthy:
     born: 1946
     nationality: IND
@@ -37592,6 +40624,40 @@ persons:
       role: founder
     - org: dbs-bank
       role: board
+  narcisse-leven:
+    born: 1833
+    died: 1915
+    nationality: FRA
+    note: Avvocato franco-tedesco. Co-fondatore AIU (1860), segretario generale (1863-83), vice-presidente (1883-98), presidente
+      (1898-1915). Segretario di Crémieux al Ministero della Giustizia (1870-71). Presidente JCA (1896-1915). Anti-sionista
+      convinto.
+    affiliations:
+    - org: governo-francia
+      role: advisor
+      from: 1870
+      to: 1871
+      note: Segretario generale del Ministero della Giustizia sotto Crémieux (guerra franco-prussiana)
+    - org: sorbonne
+      role: alumni
+      note: Droit 1855
+    - org: jewish-colonization-association
+      role: leader
+      from: 1896
+      to: 1915
+      note: Presidente
+    - org: alliance-israelite-universelle
+      role: leader
+      from: 1863
+      to: 1915
+      note: Segretario generale (1863-83), Vice-presidente (1883-98), Presidente (1898-1915)
+    relations:
+    - person: adolphe-cremieux
+      type: protege
+      note: Segretario personale di Crémieux per 5 anni. Poi segretario al Ministero della Giustizia (1870-71). Successore
+        alla guida dell'AIU
+    - person: maurice-de-hirsch
+      type: colleague
+      note: Assistì de Hirsch nella formulazione dei piani di colonizzazione. Primo presidente del consiglio JCA
   narendra-modi:
     born: 1950
     nationality: IND
@@ -37718,11 +40784,68 @@ persons:
     born: 1948
     nationality: ISR
     affiliations:
+    - org: governo-israele
+      role: minister
+      from: 1996
+      to: 2005
+      note: Minister of Industry & Trade (1996-99), Interior (1999-2000), Housing (2001-03), Minister w/o Portfolio (2003-05)
+    - org: governo-israele
+      role: legislator
+      from: 1996
+      to: 2006
+      note: MK, founded Yisrael BaAliyah (1996), merged into Likud (2003)
     - org: jewish-agency
       role: chairman
       from: 2009
       to: 2018
       note: Chairman of the Executive
+    - org: isgap
+      role: chairman
+      from: 2019
+      note: Chairman
+    - org: babyn-yar-memorial
+      role: chairman
+      note: Chairman of Supervisory Board
+    - org: genesis-prize
+      role: chairman
+      from: 2020
+      note: 2020 Laureate, then Chairman
+    - org: shalem-center
+      role: chairman
+      from: 2006
+      note: Chairman Adelson Institute for Strategic Studies
+    - org: moscow-phystech
+      role: alumni
+      note: Applied Mathematics 1972
+    relations:
+    - person: george-w-bush
+      type: mentor
+      note: The Case for Democracy (2004) influenced Bush Doctrine
+    - person: ron-dermer
+      type: mentor
+      note: Co-author The Case for Democracy (2004); introduced Dermer to Netanyahu
+  natan-yellin-mor:
+    born: 1913
+    died: 1980
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 1949
+      to: 1951
+      note: First Knesset, Fighters List party
+    - org: lehi
+      role: leader
+      from: 1942
+      to: 1948
+      note: Diplomatic/political chief, triumvirate with Shamir and Eldad
+    - org: warsaw-polytechnic
+      role: alumni
+      note: Engineering
+    relations:
+    - person: menachem-begin
+      type: colleague
+      note: Betar/Irgun in Poland, co-editor Di Tat with Stern
   natasha-latiff:
     nationality: SGP
     note: Avvocato diritti umani
@@ -38034,6 +41157,26 @@ persons:
       role: board
       from: 2009
       note: Honorary Fellow St Antonys, Chair Middle East Centre Advisory Board 2015, Kirdar Building named 2017
+  neri-oxman:
+    born: 1976
+    nationality: ISR-USA
+    affiliations:
+    - org: mit
+      role: alumni
+      note: PhD Design Computation 2010; Prof Media Lab 2010-2021; tenure 2017
+    - org: hebrew-university
+      role: alumni
+      note: Medical Sciences 1996-1999 (dropped out)
+    - org: technion
+      role: alumni
+      note: Architecture 1999-2002
+    relations:
+    - person: jeffrey-epstein
+      type: associate
+      note: $125K donazioni a Mediated Matter via Joi Ito (2015, 2017); cleared by Goodwin Procter
+    - person: joi-ito
+      type: colleague
+      note: MIT Media Lab; Ito introdusse Oxman a Epstein (2015); Ito dimesso set 2019
   nguyen-phu-trong:
     born: 1944
     died: 2024
@@ -38086,6 +41229,14 @@ persons:
     - org: ohio-wesleyan
       role: alumni
       note: BA English 1975, Board of Trustees Chair
+  nicholas-negroponte:
+    nationality: USA
+    note: MIT Media Lab co-founder 1985. Defended taking Epstein money.
+    affiliations:
+    - org: mit-media-lab
+      role: founder
+      from: 1985
+      note: Co-founder and director 1985-2000
   nicholas-wahl:
     nationality: USA
     affiliations:
@@ -38582,6 +41733,16 @@ persons:
     - org: boston-college
       role: alumni
       note: MS Finance
+  nikolai-bukharin:
+    born: 1888
+    died: 1938
+    nationality: RUS
+    affiliations:
+    - org: comintern
+      role: leader
+      from: 1926
+      to: 1929
+      note: De facto leader after Zinoviev
   nikolai-patrushev:
     born: 1951
     nationality: RUS
@@ -38841,6 +42002,21 @@ persons:
       role: chairman
       from: 2022
       note: Independent Chairman
+  niv-karmi:
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: member
+      note: Former operative
+    - org: nso-group
+      role: founder
+      from: 2010
+      to: 2010
+      note: Left ~1 month after founding
+    relations:
+    - person: shalev-hulio
+      type: business
+      note: NSO Group co-founders
   nneka-mobisson-etuk:
     nationality: ZAF
     note: Executive Director IHI. Former McKinsey consultant. Former World Bank. Co-founded Anadach Group.
@@ -38864,6 +42040,14 @@ persons:
       from: 1957
       to: 1960
       note: Prime Minister
+  nochi-dankner:
+    nationality: ISR
+    affiliations:
+    - org: maariv
+      role: owner
+      from: 2011
+      to: 2012
+      note: Via IDB Holding; ~300M shekels; failed stabilization
   noel-quinn:
     born: 1962
     nationality: GBR
@@ -38917,6 +42101,33 @@ persons:
       role: chairman
       from: 2020
       note: Chairman Supervisory Board
+  norm-coleman:
+    born: 1949
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 2003
+      to: 2009
+      note: Senator, Minnesota
+    - org: hofstra
+      role: alumni
+      note: BA Political Science
+    - org: university-of-iowa
+      role: alumni
+      note: JD 1976
+    - org: republican-jewish-coalition
+      role: chairman
+      note: National Chairman
+    - org: hogan-lovells
+      role: partner
+      from: 2011
+      note: Senior Counsel, lobbying for Saudi Arabia
+    - org: american-action-network
+      role: chairman
+    - org: congressional-leadership-fund
+      role: founder
+      note: Chairman of the board, super PAC
   norman-holmes-pearson:
     born: 1909
     died: 1975
@@ -38969,6 +42180,8 @@ persons:
       from: 1960
       to: 1995
       note: Editor-in-Chief
+    - org: jewish-policy-center
+      role: fellow
     relations:
     - person: midge-decter
       type: family
@@ -39079,6 +42292,33 @@ persons:
       role: founder
       from: 1951
       to: 1963
+  ofer-nimrodi:
+    nationality: ISR
+    affiliations:
+    - org: maariv
+      role: executive
+      from: 1992
+      to: 2010
+      note: Publisher; indicted 1999 for murder conspiracy plot
+  ofir-sofer:
+    born: 1975
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 2019
+      note: MK 2019- (Union of Right-Wing Parties, poi Likud, poi RZP); Minister of Immigration and Absorption 2022-
+    - org: religious-zionist-party
+      role: member
+      from: 2014
+      note: MK 2021-, Minister of Immigration and Absorption 2022-
+    relations:
+    - person: bezalel-smotrich
+      type: colleague
+      note: Religious Zionist Party
+    - person: simcha-rothman
+      type: colleague
+      note: Religious Zionist Party
   ola-kallenius:
     born: 1969
     nationality: SWE
@@ -39421,6 +42661,13 @@ persons:
     - person: rahmi-koc
       type: parent
       note: Padre
+  omer-lachmanovitch:
+    nationality: ISR
+    affiliations:
+    - org: israel-hayom
+      role: editor
+      from: 2022
+      note: Editor-in-chief (current); with the paper since founding 2007
   omer-tetik:
     born: 1973
     nationality: TUR-DEU
@@ -39438,6 +42685,16 @@ persons:
     - org: nso-group
       role: founder
       from: 2010
+      to: 2025
+      note: Co-founder, left Oct 2025 upon US acquisition
+  ori-elitzur:
+    died: 2014
+    nationality: ISR
+    affiliations:
+    - org: makor-rishon
+      role: editor
+      to: 2014
+      note: Editor-in-Chief; died in office 2014, age 68
   ori-goshen:
     nationality: ISR
     affiliations:
@@ -39448,6 +42705,28 @@ persons:
       role: founder
       from: 2017
       note: Co-CEO, Unit 8200 alumni
+  orit-strock:
+    born: 1960
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 2022
+      note: MK 2013-2015, 2021-; Minister of Settlements and National Missions 2022-
+    - org: hebrew-university
+      role: alumni
+      note: Hebrew University Secondary School
+    - org: religious-zionist-party
+      role: member
+      from: 2013
+      note: MK, Minister of Settlements and National Missions
+    relations:
+    - person: bezalel-smotrich
+      type: colleague
+      note: Religious Zionist Party, coalizione di governo
+    - person: simcha-rothman
+      type: colleague
+      note: Religious Zionist Party
   orlando-bravo:
     born: 1970
     nationality: USA
@@ -40195,6 +43474,17 @@ persons:
     - person: jeremy-farrar
       type: colleague
       note: SAGE members, COVID response coordination
+  patrizia-zanotti:
+    nationality: ARG
+    affiliations:
+    - org: cong
+      role: executive
+      from: 1987
+      note: Managing Director, curatrice mostre Hugo Pratt
+    relations:
+    - person: hugo-pratt
+      type: colleague
+      note: Collaboratrice dal 1979, prima colorista poi manager editoriale
   patty-hajdu:
     born: 1966
     nationality: CAN
@@ -40235,6 +43525,15 @@ persons:
     - org: brookings
       role: board
       note: Board of Trustees
+  paul-adrien-bourdaloue:
+    born: 1798
+    died: 1868
+    nationality: FRA
+    affiliations:
+    - org: societe-etudes-canal-suez
+      role: member
+      from: 1847
+      note: Capo rilievi topografici istmo 1847
   paul-applegarth:
     nationality: USA
     affiliations:
@@ -40878,6 +44177,15 @@ persons:
       role: founder
       from: 1997
       note: Signatory Statement of Principles
+  paulin-talabot:
+    born: 1799
+    died: 1885
+    nationality: FRA
+    affiliations:
+    - org: societe-etudes-canal-suez
+      role: member
+      from: 1846
+      note: Sezione francese
   pauline-epstein:
     born: 1918
     died: 2004
@@ -41634,7 +44942,7 @@ persons:
       note: Portavoce poi Ministro
   peter-thiel:
     born: 1967
-    nationality: USA
+    nationality: DEU-USA-NZL
     affiliations:
     - org: bilderberg
       role: member
@@ -41663,8 +44971,12 @@ persons:
       to: 2022
       note: First outside investor $500K, board member
     - org: stanford-university
-      role: member
-      note: BA Philosophy 1989, JD Law 1992
+      role: alumni
+      note: BA Philosophy 1989, JD Law 1992, founded Stanford Review
+    - org: clarium-capital
+      role: founder
+      from: 2003
+      note: Hedge fund
     - org: sun-valley-conference
       role: member
       note: Attendee
@@ -41672,6 +44984,9 @@ persons:
       role: founder
       from: 2011
       note: Co-founder with Michael Gibson and Danielle Strachman
+    - org: thiel-capital
+      role: founder
+      note: Family office
     relations:
     - person: alex-karp
       type: colleague
@@ -42207,6 +45522,14 @@ persons:
     - org: solvay-sa
       role: chairman
       from: 2023
+  pierre-joseph-proudhon:
+    born: 1809
+    died: 1865
+    nationality: FRA
+    affiliations:
+    - org: international-workingmens-association
+      role: member
+      note: Mutualist influence, died 1865
   pierre-lassonde:
     born: 1947
     nationality: CAN
@@ -42475,6 +45798,39 @@ persons:
     - person: pw-botha
       type: colleague
       note: Foreign Minister under P.W. Botha (not related by blood)
+  pinchas-wallerstein:
+    born: 1946
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: official
+      note: Chairman comitato legalizzazione outpost
+    - org: gush-emunim
+      role: founder
+      from: 1974
+      note: Early founder, secretary Ofra 1975
+    - org: amana
+      role: member
+      from: 2010
+      note: Post-Yesha Council
+    - org: yesha-council
+      role: chairman
+      from: 2008
+      to: 2010
+      note: Director
+    relations:
+    - person: dani-dayan
+      type: associate
+      note: Yesha Council colleague, conflitto 2010
+    - person: hanan-porat
+      type: associate
+      note: Fellow Gush Emunim founder
+    - person: moshe-levinger
+      type: associate
+      note: Fellow Gush Emunim founder
+    - person: yisrael-harel
+      type: associate
+      note: Fellow Yesha Council/Gush Emunim leader
   pincus-green:
     born: 1936
     nationality: USA
@@ -42493,6 +45849,11 @@ persons:
   pinhas-lavon:
     nationality: ISR
     affiliations:
+    - org: mapai
+      role: member
+      from: 1930
+      to: 1961
+      note: Secretary-General Histadrut; espulso 1961
     - org: histadrut
       role: executive
       from: 1956
@@ -43471,6 +46832,17 @@ persons:
     - org: fifth-dimension
       role: advisor
       note: Advisory Board
+  rami-banin:
+    nationality: ISR-ITA
+    affiliations:
+    - org: chabad-lubavitch
+      role: member
+      from: 1993
+      note: Shaliach Venice
+    - org: merkos
+      role: executive
+      from: 1993
+      note: Director Chabad Venice / Yeshiva Gedola
   rammohan-naidu:
     born: 1987
     nationality: IND
@@ -43757,6 +47129,9 @@ persons:
       from: 2003
       to: 2015
       note: Chairman Board of Directors
+  raymond-geist:
+    nationality: USA
+    note: Console e Primo Segretario Ambasciata USA Berlino 1929-1939
   raymund-breu:
     born: 1945
     nationality: CHE
@@ -44626,6 +48001,13 @@ persons:
     - person: penny-wong
       type: colleague
       note: Defence-Foreign Affairs axis, AUKUS co-architects
+  richard-mellon-scaife:
+    born: 1932
+    nationality: USA
+    affiliations:
+    - org: heritage-foundation
+      role: board
+      note: Vice Chairman; major donor via Sarah Scaife Foundation ($23M+)
   richard-nixon:
     born: 1913
     died: 1994
@@ -45175,6 +48557,11 @@ persons:
       from: 1984
       to: 1991
       note: Publisher, media baron
+    - org: maariv
+      role: owner
+      from: 1989
+      to: 1991
+      note: Acquired 87% shares; died Nov 1991
   robert-mcnamara:
     born: 1916
     died: 2009
@@ -45287,6 +48674,7 @@ persons:
       type: mentor
       note: Jobs called Noyce asking for guidance, became father figure
   robert-obrien:
+    born: 1966
     nationality: USA
     affiliations:
     - org: governo-usa
@@ -45294,6 +48682,10 @@ persons:
       from: 2019
       to: 2021
       note: National Security Advisor
+    - org: governo-usa
+      role: advisor
+      from: 2019
+      to: 2021
     - org: american-global-strategies
       role: founder
       note: Chairman; fmr NSA under Trump
@@ -45305,6 +48697,13 @@ persons:
       role: executive
       from: 2024
       note: Co-CEO
+  robert-owen:
+    born: 1771
+    died: 1858
+    nationality: GBR
+  robert-pell:
+    nationality: USA
+    note: US negotiator Intergovernmental Committee for Refugees; coordino salvataggio Rebbe da Varsavia 1939-40
   robert-peugeot:
     born: 1950
     nationality: FRA
@@ -45401,6 +48800,8 @@ persons:
       role: chairman
       from: 2023
       note: Board dal 2013, Chairman dal 2023
+  robert-simonds:
+    nationality: USA
   robert-steel:
     nationality: USA
     note: Ex Goldman Sachs Vice Chairman, Under Secretary Treasury
@@ -45416,6 +48817,15 @@ persons:
       role: board
       from: 2021
       note: Ex Treasury, Goldman
+  robert-stephenson:
+    born: 1803
+    died: 1859
+    nationality: GBR
+    affiliations:
+    - org: societe-etudes-canal-suez
+      role: member
+      from: 1846
+      note: Sezione britannica
   robert-thomson:
     born: 1961
     nationality: AUS
@@ -45640,6 +49050,16 @@ persons:
     - org: alitalia
       role: executive
       note: CEO CAI era
+  rochel-pinson:
+    nationality: FRA-USA
+    affiliations:
+    - org: chabad-lubavitch
+      role: member
+      note: Shlucha; quarta generazione Chabad; famiglia emissari in Nizza, Tunisia, Cannes, Bruxelles
+    relations:
+    - person: dovber-pinson
+      type: spouse
+      note: Coniugi; co-fondatori IYYUN Center, Brooklyn
   rochelle-walensky:
     born: 1969
     nationality: USA
@@ -45860,6 +49280,13 @@ persons:
     nationality: CAN
     note: 'Professor Emeritus Rotman School of Management, University of Toronto. Dean 1998-2013. Thinkers50 #1 management
       thinker 2017. Co-author Getting Beyond Better with Sally Osberg.'
+  roger-severino:
+    nationality: USA
+    affiliations:
+    - org: heritage-foundation
+      role: executive
+      from: 2022
+      note: VP Economic and Domestic Policy; former HHS OCR Director (2017-2021); Project 2025 author
   roland-busch:
     born: 1964
     nationality: DEU
@@ -46028,6 +49455,27 @@ persons:
     - org: club-madrid
       role: member
       from: 2001
+  ron-dermer:
+    born: 1971
+    nationality: ISR-USA
+    affiliations:
+    - org: jinsa
+      role: member
+      from: 2021
+      to: 2022
+      note: Gemunder Center Non-Resident Distinguished Fellow
+    - org: governo-israele
+      role: diplomat
+      from: 2013
+      to: 2021
+      note: Ambassador to USA (2013-2021); Minister of Strategic Affairs (2022-2025); Senior Advisor to PM (2009-2013); Special
+        Envoy (2025-)
+    - org: wharton
+      role: alumni
+      note: BS Finance and Management 1993, magna cum laude
+    - org: oxford
+      role: alumni
+      note: PPE (Philosophy, Politics and Economics) 1993
   ronald-lauder:
     born: 1944
     nationality: USA
@@ -46058,6 +49506,24 @@ persons:
       from: 2011
       to: 2014
       note: CEO 2011-2014, won PlayStation/Xbox contracts
+  rosa-luxemburg:
+    born: 1871
+    died: 1919
+    nationality: POL-DEU
+    affiliations:
+    - org: second-international
+      role: member
+      from: 1898
+      note: Anti-revisionist, revolutionary left
+    - org: spd
+      role: member
+      from: 1898
+      to: 1914
+      note: Left to found Spartacus League
+    relations:
+    - person: karl-kautsky
+      type: rival
+      note: Broke over revolutionary vs reformist strategy
   rosalind-brewer:
     nationality: USA
     affiliations:
@@ -46365,6 +49831,33 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  ryan-israel:
+    born: 1985
+    nationality: USA
+    affiliations:
+    - org: goldman-sachs
+      role: analyst
+      from: 2007
+      to: 2009
+      note: Technology, Media and Telecom group
+    - org: upenn
+      role: alumni
+      note: BS Economics (Finance & Accounting) 2007, summa cum laude, Wharton School
+    - org: pershing-square
+      role: executive
+      from: 2009
+      note: CIO dal 2022, Partner, 10% ownership
+    - org: howard-hughes-holdings
+      role: board
+      from: 2024
+      note: Board of Directors, also CIO
+    relations:
+    - person: ben-hakim
+      type: colleague
+      note: 'Leadership team Pershing Square: Israel CIO, Hakim President'
+    - person: charles-korn
+      type: colleague
+      note: Investment team Pershing Square
   ryan-lance:
     born: 1962
     nationality: USA
@@ -46656,6 +50149,18 @@ persons:
     - org: governo-bahrain
       role: minister
       note: Finance and National Economy
+  salomon-david-barent-cohen:
+    born: '?'
+    died: '1807'
+    nationality: NLD
+    note: Fratello di Levi Barent Cohen. Rimase ad Amsterdam. Padre di Nanette Salomons Cohen.
+    relations:
+    - person: levi-barent-cohen
+      type: family
+      note: brother
+    - person: nanette-salomons-cohen
+      type: family
+      note: father
   salvatore-rossi:
     nationality: ITA
     affiliations:
@@ -46929,6 +50434,16 @@ persons:
       role: founder
       from: 1924
       to: 1971
+  samuel-cahen:
+    born: 1796
+    died: 1862
+    nationality: FRA
+    note: Ebraista francese. Tradusse la Bibbia in francese. Fondatore Archives Israélites
+    affiliations:
+    - org: archives-israelites
+      role: founder
+      from: 1840
+      to: 1862
   samuel-hoare:
     born: 1880
     died: 1959
@@ -47321,6 +50836,33 @@ persons:
     - org: petronas
       role: executive
       note: EVP & CEO Downstream
+  schneur-zalman-of-liadi:
+    born: 1745
+    died: 1812
+    nationality: RUS
+    affiliations:
+    - org: chabad-lubavitch
+      role: founder
+      from: 1775
+      note: 1 Rebbe; fondatore del movimento
+    - org: colel-chabad
+      role: founder
+      from: 1788
+      note: Fondatore; 1 Rebbe di Chabad-Lubavitch
+    relations:
+    - person: dovber-schneuri
+      type: parent
+      note: Figlio; 2 Rebbe di Chabad (Mitteler Rebbe); trasferi sede a Lubavitch
+    - person: yosef-yitzchak-schneersohn
+      type: ancestor
+      note: Fondatore della dinastia; bisnonno del bisnonno (5 generazioni)
+  scot-sellers:
+    nationality: USA
+    affiliations:
+    - org: howard-hughes-holdings
+      role: chairman
+      from: 2025
+      note: Chairman of the Board dal 2025; succede ad Ackman
   scott-bessent:
     born: 1962
     nationality: USA
@@ -47532,6 +51074,37 @@ persons:
       role: leader
       from: 2017
       to: 2021
+    - org: governo-austria
+      role: minister
+      from: 2013
+      to: 2017
+      note: Foreign Minister, youngest in Austrian history
+    - org: globsec
+      role: member
+      note: Board member
+    - org: abraham-accords-peace-institute
+      role: advisor
+    - org: university-of-vienna
+      role: alumni
+      note: Law (non completata)
+    - org: thiel-capital
+      role: executive
+      from: 2022
+      note: Global Strategist
+    - org: dream-security
+      role: founder
+      from: 2023
+      note: Co-founder and President, cybersecurity
+    relations:
+    - person: peter-thiel
+      type: business
+      note: Global Strategist at Thiel Capital from 2022
+    - person: shalev-hulio
+      type: business
+      note: Co-founders Dream Security
+    - person: viktor-orban
+      type: political
+      note: Conservative alliance, anti-immigration policies
   sebastien-bazin:
     born: 1961
     nationality: FRA
@@ -48088,6 +51661,13 @@ persons:
       role: advisor
       from: 2023
       note: Senior Advisor
+  seth-lloyd:
+    nationality: USA
+    note: MIT professor. Received $60k personal gift from Epstein. Placed on admin leave 2020.
+    affiliations:
+    - org: mit-media-lab
+      role: member
+      note: Professor
   severin-schwan:
     born: 1967
     nationality: AUT
@@ -48220,6 +51800,7 @@ persons:
     born: 1940
     nationality: IRN
   shalev-hulio:
+    born: 1981
     nationality: ISR
     note: NSO Group co-founder, Unit 8200 veteran
     affiliations:
@@ -48228,7 +51809,25 @@ persons:
     - org: nso-group
       role: founder
       from: 2010
-      note: CEO
+      to: 2022
+      note: Co-founder, CEO until 2022
+    - org: ben-gurion-university
+      role: founder
+      note: Founder of The Institute (AI research), 2024
+    - org: dream-security
+      role: founder
+      from: 2023
+      note: Co-founder and CEO
+    - org: reichman-university
+      role: alumni
+      note: Business studies
+    relations:
+    - person: omri-lavie
+      type: business
+      note: Co-founders NSO Group (2010), childhood friends
+    - person: sebastian-kurz
+      type: business
+      note: Co-founders Dream Security (2023)
   shane-legg:
     born: 1974
     nationality: NZL-GBR
@@ -48393,6 +51992,33 @@ persons:
     - org: amref
       role: chairman
       note: International Board Chairperson
+  sheldon-adelson:
+    born: 1933
+    died: 2021
+    nationality: USA
+    affiliations:
+    - org: makor-rishon
+      role: owner
+      from: 2014
+      to: 2021
+      note: Purchased via Israel Hayom for $5M; died Jan 2021
+    - org: israel-hayom
+      role: founder
+      from: 2007
+      to: 2021
+      note: Founder and owner; free daily newspaper; died Jan 2021
+    - org: las-vegas-sands
+      role: founder
+      from: 1988
+      to: 2021
+      note: Founder, Chairman and CEO; died Jan 2021
+    - org: republican-jewish-coalition
+      role: board
+      note: Director, largest benefactor
+    relations:
+    - person: miriam-adelson
+      type: spouse
+      note: Married 1991; she inherited his media and business empire after his death Jan 2021
   sheldon-roberts:
     born: 1926
     died: 2015
@@ -48555,6 +52181,16 @@ persons:
       role: founder
       from: 1957
       note: Founded LAKAM as Ministry of Defense official
+    - org: rafi
+      role: member
+      from: 1965
+      to: 1968
+      note: Co-fondatore; seguì Ben-Gurion nella scissione da Mapai
+    - org: israel-labour-party
+      role: leader
+      from: 1977
+      to: 1992
+      note: Chairman in piu periodi; PM 1984-86, 1995-96
     relations:
     - person: arnon-milchan
       type: recruiter
@@ -48625,6 +52261,45 @@ persons:
       type: spouse
     - person: roshni-nadar
       type: parent
+  shlomo-aviner:
+    born: 1943
+    nationality: FRA-ISR
+    affiliations:
+    - org: gush-emunim
+      role: founder
+      from: 1974
+    - org: mercaz-harav
+      role: alumni
+    - org: ateret-yerushalayim
+      role: leader
+      from: 1983
+      note: Rosh Yeshiva
+    relations:
+    - person: eliezer-waldman
+      type: colleague
+      note: Co-fondatore Gush Emunim (1974)
+    - person: haim-drukman
+      type: colleague
+      note: Co-fondatore Gush Emunim (1974)
+    - person: hanan-porat
+      type: colleague
+      note: Co-fondatore Gush Emunim (1974)
+    - person: moshe-levinger
+      type: colleague
+      note: Co-fondatore Gush Emunim (1974)
+  shlomo-ben-tzvi:
+    nationality: ISR
+    affiliations:
+    - org: maariv
+      role: owner
+      from: 2012
+      to: 2014
+      note: 80-85M shekels; right-wing publisher of Makor Rishon; sharp turn right
+    - org: makor-rishon
+      role: owner
+      from: 1997
+      to: 2014
+      note: Publisher/owner; also owned Maariv 2012-2014
   shlomo-kramer:
     born: 1966
     nationality: ISR
@@ -48667,6 +52342,21 @@ persons:
     - person: joseph-soloveitchik
       type: mentor
       note: Semicha ordination at RIETS, Yeshiva University
+  shlomo-zalman-shragai:
+    born: 1899
+    died: 1995
+    nationality: POL-ISR
+    affiliations:
+    - org: hapoel-hamizrachi
+      role: founder
+      from: 1922
+      note: Co-fondatore, ideologo
+  shmaryahu-gurary:
+    born: 1897
+    died: 1989
+    nationality: RUS-USA
+  shmuel-eliyahu:
+    nationality: ISR
   shmuel-schnitzer:
     nationality: ISR
     affiliations:
@@ -48676,9 +52366,36 @@ persons:
     relations:
     - person: moshe-schnitzer
       type: son
+  sholom-duchman:
+    born: 1956
+    nationality: USA-ISR
+    affiliations:
+    - org: chabad-lubavitch
+      role: member
+      note: Rappresentante del Rebbe presso governo israeliano
+    - org: colel-chabad
+      role: executive
+      from: 1978
+      note: Director
+    relations:
+    - person: menachem-schneerson
+      type: mentor
+      note: Nominato direttore Colel Chabad dal Rebbe a 22 anni (1978); 1000+ pagine di corrispondenza
   shom-hinduja:
     nationality: IND
     family: hinduja
+  shoshana-bryen:
+    nationality: USA
+    affiliations:
+    - org: jinsa
+      role: executive
+      from: 1981
+      to: 2012
+      note: Executive Director, Senior Director for Security Policy
+    - org: jewish-policy-center
+      role: executive
+      from: 2012
+      note: Senior Director, Editor-in-Chief inFOCUS Quarterly
   shou-chew:
     born: 1983
     nationality: SGP
@@ -48872,6 +52589,37 @@ persons:
       from: 1978
       to: 1981
       note: Tessera n. 1816
+  simcha-rothman:
+    born: 1980
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 2021
+      note: MK, Chairman Constitution Law and Justice Committee 2023; Co-Chair Land of Israel Caucus
+    - org: tel-aviv-university
+      role: alumni
+      note: MA Public Law
+    - org: tikvah-fund
+      role: member
+      note: Faculty
+    - org: religious-zionist-party
+      role: member
+      from: 2021
+      note: MK, Chairman Constitution Law and Justice Committee 2023
+    - org: bar-ilan-university
+      role: alumni
+      note: LLB Law
+    - org: yeshivat-kerem-byavneh
+      role: alumni
+      note: Hesder yeshiva
+    - org: northwestern-university
+      role: alumni
+      note: MA Public Law
+    relations:
+    - person: bezalel-smotrich
+      type: colleague
+      note: Entrambi Religious Zionist Party, coalizione di governo
   simon-fraser:
     born: 1958
     nationality: GBR
@@ -49065,6 +52813,16 @@ persons:
     - org: wef
       role: ygl
       from: 2021
+  sophie-pressburg:
+    born: '1797'
+    died: '1854'
+    nationality: NLD
+    note: Moglie di Lion Philips. Sorella di Henriette Pressburg (madre di Karl Marx). Figlia di Isaac Heymans Pressburg e
+      Nanette Salomons Cohen.
+    relations:
+    - person: henriette-pressburg
+      type: family
+      note: sister
   soraya-darabi:
     nationality: USA
     note: Former NYT Digital. Product Lead drop.io (acquired by Facebook). Co-founded Foodspotting (acquired by OpenTable).
@@ -49388,6 +53146,13 @@ persons:
       role: founder
       from: 1995
       note: Founder, largest shareholder ~15%
+  stephan-gratziani:
+    nationality: USA
+    affiliations:
+    - org: herbalife
+      role: executive
+      from: 2025
+      note: CEO from May 2025; first distributor-turned-CEO since founder
   stephan-weil:
     born: 1958
     nationality: DEU
@@ -50144,6 +53909,38 @@ persons:
       note: Amicizia dal 1957 esilio Siria
     - person: tony-frangieh-sr
       type: father
+  sultan-ahmed-bin-sulayem:
+    born: 1955
+    nationality: ARE
+    affiliations:
+    - org: wef
+      role: member
+      note: Agenda Contributor
+    - org: governo-uae
+      role: advisor
+      note: Chairman PCFC, Board Dubai Executive Council, Chairman JAFZA (1985-), Chairman Dubai International Chamber
+    - org: dp-world
+      role: executive
+      from: 2007
+      note: Group Chairman & CEO (Chairman dal 2007, CEO dal 2016)
+    - org: temple-university
+      role: alumni
+      note: BA Economics ~1978
+    - org: virgin-hyperloop
+      role: chairman
+      from: 2018
+      note: Non-executive Chairman
+    - org: nakheel
+      role: board
+      note: Board Member
+    relations:
+    - person: jeffrey-epstein
+      type: associate
+      note: Corrispondenza email 2007-2015+, visite a isola privata, LLC creata da Epstein a nome di bin Sulayem per acquisto
+        isola $22.5M
+    - person: mohammed-bin-rashid
+      type: protege
+      note: Nominato chairman JAFZA da Mohammed bin Rashid nel 1985
   sultan-al-jaber:
     born: 1973
     nationality: ARE
@@ -51072,6 +54869,16 @@ persons:
     - person: sam-nunn
       type: colleague
       note: Co-founded Nuclear Threat Initiative 2001
+  teddy-kollek:
+    born: 1911
+    died: 2007
+    nationality: ISR
+    affiliations:
+    - org: rafi
+      role: member
+      from: 1965
+      to: 1968
+      note: Co-fondatore; poi sindaco di Gerusalemme 1965-1993
   tedros-adhanom:
     born: 1965
     nationality: ETH
@@ -51310,6 +55117,29 @@ persons:
       from: 1897
       to: 1904
       note: Fondatore e primo presidente
+    - org: university-of-vienna
+      role: alumni
+      note: Laurea in Legge 1884
+    - org: neue-freie-presse
+      role: journalist
+      from: 1891
+      to: 1904
+      note: Corrispondente Parigi 1891-95, Feuilleton Editor 1895-1904
+    - org: jewish-national-fund
+      role: founder
+      from: 1901
+      to: 1904
+      note: Promotore al V Congresso Sionista (1901)
+    relations:
+    - person: chaim-weizmann
+      type: predecessor
+      note: Weizmann continuo la visione di Herzl alla guida della WZO
+    - person: max-nordau
+      type: colleague
+      note: Co-fondatore WZO, stretta collaborazione
+    - person: nahum-sokolow
+      type: colleague
+      note: Collaboratore nel movimento sionista, membro Esecutivo WZO
   theodora-greece:
     born: 1983
     nationality: GRC
@@ -51712,6 +55542,12 @@ persons:
     - org: northrop-grumman
       role: board
       note: Ex CFO Walmart
+  thomas-spoehr:
+    nationality: USA
+    affiliations:
+    - org: heritage-foundation
+      role: executive
+      note: Director Center for National Defense; Lt. Gen. (Ret.)
   thorbjorn-jagland:
     born: 1950
     nationality: NOR
@@ -51775,6 +55611,13 @@ persons:
     - org: exor
       role: board
       note: Non-Executive Director; Agnelli family
+  tiffany-justice:
+    nationality: USA
+    affiliations:
+    - org: heritage-foundation
+      role: executive
+      from: 2025
+      note: EVP Heritage Action for America; co-founder Moms for Liberty
   tigran-khudaverdian:
     nationality: RUS
     note: Deputy CEO Yandex
@@ -52876,6 +56719,12 @@ persons:
     affiliations:
     - org: wef
       role: ygl
+  uzi-baruch:
+    nationality: ISR
+    affiliations:
+    - org: arutz-sheva
+      role: editor
+      note: Editor-in-chief (current)
   vajiralongkorn:
     born: 1952
     nationality: THA
@@ -53814,6 +57663,32 @@ persons:
     - person: yury-luzhkov
       type: patron
       note: Luzhkov gave Most Bank Moscow city accounts, political alliance
+  vladimir-lenin:
+    born: 1870
+    died: 1924
+    nationality: RUS
+    affiliations:
+    - org: second-international
+      role: member
+      from: 1903
+      to: 1914
+      note: Left after WWI split
+    - org: comintern
+      role: founder
+      from: 1919
+      to: 1924
+      note: Founded March 1919
+    - org: rsdlp
+      role: leader
+      from: 1898
+      note: Bolshevik faction leader from 1903
+    relations:
+    - person: karl-marx
+      type: disciple
+      note: Marxism-Leninism as theoretical heir
+    - person: leon-trotsky
+      type: colleague
+      note: Co-led October Revolution, Bolshevik leadership
   vladimir-potanin:
     born: 1961
     nationality: RUS
@@ -54416,6 +58291,20 @@ persons:
       note: CEO
     - org: stellenbosch-university
       role: alumni
+  wilhelm-canaris:
+    born: 1887
+    died: 1945
+    nationality: DEU
+    note: Ammiraglio; capo Abwehr (intelligence militare Wehrmacht); anti-nazista; giustiziato 1945
+  wilhelm-weitling:
+    born: 1808
+    died: 1871
+    nationality: DEU
+    affiliations:
+    - org: league-of-the-just
+      role: founder
+      from: 1836
+      note: Ideologue, utopian communist
   will-straw:
     born: 1980
     nationality: GBR
@@ -55273,9 +59162,37 @@ persons:
     - org: bank-hapoalim
       role: executive
       note: Manager, led stock price manipulation in 1970s-80s
+  yaakov-nimrodi:
+    nationality: ISR
+    affiliations:
+    - org: maariv
+      role: owner
+      from: 1992
+      to: 2010
+      note: Acquired after Robert Maxwell death; arms dealer
+    relations:
+    - person: ofer-nimrodi
+      type: family
+      note: father
   yadin-antebi:
     born: 1970
     nationality: ISR
+  yahya-sinwar:
+    born: 1962
+    died: 2024
+    nationality: PSE
+    affiliations:
+    - org: hamas
+      role: leader
+      note: Leader Hamas Gaza; pianificatore attacco 7 ottobre; ucciso da IDF ott 2024
+  yair-golan:
+    born: 1962
+    nationality: ISR
+    affiliations:
+    - org: israel-labour-party
+      role: leader
+      from: 2024
+      note: Eletto chairman aprile 2024; ex vice capo di stato maggiore IDF
   yair-goldfinger:
     nationality: ISR
     note: Cofondatore ICQ
@@ -55371,6 +59288,14 @@ persons:
       role: executive
       from: 2003
       note: First Deputy PM
+  yaron-shohat:
+    nationality: ISR
+    affiliations:
+    - org: nso-group
+      role: executive
+      from: 2022
+      to: 2025
+      note: CEO 2022-2025
   yasir-al-rumayyan:
     born: 1970
     nationality: SAU
@@ -55480,6 +59405,37 @@ persons:
     - person: menachem-schneerson
       type: disciple
       note: Correspondence from 1960; Rebbe encouraged his scholarly work; offered him Chabad Library directorship
+  yehuda-amital:
+    born: 1924
+    died: 2010
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 1995
+      to: 1996
+      note: Minister without Portfolio (governo Peres, post-assassinio Rabin)
+    - org: yeshivat-har-etzion
+      role: founder
+      note: Rosh Yeshiva, co-fondatore
+    relations:
+    - person: hanan-porat
+      type: colleague
+      note: Co-fondatore Yeshivat Har Etzion
+    - person: yoel-bin-nun
+      type: mentor
+      note: Co-fondatore e Rosh Yeshiva di Har Etzion; mentore
+  yehuda-eliahu:
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: executive
+      from: 2023
+      note: Head Settlement Administration, Defense Ministry
+    - org: regavim
+      role: founder
+      from: 2006
+      note: Co-fondatore
   yehuda-krinsky:
     born: 1933
     nationality: USA
@@ -55590,6 +59546,57 @@ persons:
       role: alumni
       from: 2001
       note: Class of 2001, co-founder Wiz
+  yishai-fleisher:
+    nationality: ISR
+    affiliations:
+    - org: arutz-sheva
+      role: executive
+      from: 2003
+      note: Director of Programming, English department
+  yisrael-harel:
+    born: 1938
+    nationality: UKR-ISR
+    affiliations:
+    - org: gush-emunim
+      role: member
+      note: Attivista fin dagli inizi
+    - org: yesha-council
+      role: founder
+      from: 1980
+      to: 1995
+      note: Secretary-General 1980-87, Chairman 1987-95
+    - org: haaretz
+      role: member
+      note: Columnist
+    - org: nekuda
+      role: founder
+      note: Fondatore e editor-in-chief
+    - org: maariv
+      role: member
+      from: 1969
+      note: Deputy editor weekend section
+    - org: yedioth-aharonoth
+      role: member
+      note: Writer-at-large
+    relations:
+    - person: dani-dayan
+      type: associate
+      note: Predecessore alla guida Yesha Council
+    - person: hanan-porat
+      type: associate
+      note: Fellow Gush Emunim founders
+    - person: moshe-levinger
+      type: associate
+      note: Fellow Gush Emunim, settlement movement
+  yitzchak-yaakov-reines:
+    born: 1839
+    died: 1915
+    nationality: RUS
+    affiliations:
+    - org: mizrachi
+      role: founder
+      from: 1902
+      to: 1915
   yitzhak-ben-aharon:
     nationality: ISR
     affiliations:
@@ -55598,6 +59605,44 @@ persons:
       from: 1969
       to: 1973
       note: Secretary General
+  yitzhak-ben-zvi:
+    born: 1884
+    died: 1963
+    nationality: RUS-ISR
+    affiliations:
+    - org: governo-israele
+      role: leader
+      from: 1952
+      to: 1963
+      note: 2nd President of Israel (3 mandati consecutivi)
+    - org: mapai
+      role: founder
+      from: 1930
+      note: Co-fondatore con Ben-Gurion; Knesset member 1949-52
+    - org: histadrut
+      role: executive
+      from: 1920
+      to: 1929
+      note: Member of secretariat
+    - org: hehalutz
+      role: leader
+      from: 1915
+      note: Co-led HeHalutz in America; later 2nd President of Israel
+    - org: istanbul-university
+      role: alumni
+      note: Law studies with Ben-Gurion (incomplete, expelled by Ottomans WWI)
+    - org: poalei-zion
+      role: leader
+      from: 1905
+      note: Leader in Poltava, poi in Palestina
+    - org: hashomer
+      role: founder
+      from: 1909
+      note: Co-founded with Ben-Gurion; precursor to Haganah
+    - org: ahdut-haavoda
+      role: founder
+      from: 1919
+      to: 1930
   yitzhak-halevi-herzog:
     born: 1888
     died: 1959
@@ -55636,6 +59681,38 @@ persons:
     - person: zvi-zamir
       type: successor
       note: Successor as Mossad Director 1974
+  yitzhak-kreuzer:
+    born: 1985
+    nationality: ISR
+    note: Figlio del rabbino kahanista Yehuda Kroizer (capo yeshiva fondata da Meir Kahane). Chairman della fazione Otzma
+      Yehudit alla Knesset. Entrato come sostituto di Eliyahu (Norwegian Law, gen 2023). Chiese la morte di tutti i residenti
+      di Gaza (nov 2023). Chairman Commissione Affari Interni e Ambiente (ago 2025). Espulso dalla riserva IDF per foto in
+      Libano (nov 2024). Cresciuto a Metzpeh Jericho.
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 2023
+      note: MK gen 2023-oggi (Norwegian Law, sostituto Eliyahu); Chairman Comm. Affari Interni e Ambiente ago 2025
+    - org: technion
+      role: alumni
+    - org: otzma-yehudit
+      role: member
+      from: 2020
+      note: Chairman fazione Knesset; 15° in lista 2022; 4° in lista 2020 (nessun seggio)
+    relations:
+    - person: itamar-ben-gvir
+      type: colleague
+      note: Leader di partito; Kroizer chairman della fazione alla Knesset
+  yitzhak-navon:
+    born: 1921
+    died: 2015
+    nationality: ISR
+    affiliations:
+    - org: rafi
+      role: member
+      from: 1965
+      to: 1968
+      note: Protege di Ben-Gurion; poi Presidente d Israele 1978-83
   yitzhak-rabin:
     born: 1922
     died: 1995
@@ -55656,6 +59733,51 @@ persons:
       from: 1948
       to: 1968
       note: Chief of Staff 1964-68
+    - org: israel-labour-party
+      role: leader
+      from: 1974
+      to: 1977
+      note: Chairman 1974-77, 1992-95; PM; assassinato 1995
+  yitzhak-shamir:
+    born: 1915
+    died: 2012
+    nationality: ISR
+    affiliations:
+    - org: mossad
+      role: executive
+      from: 1955
+      to: 1965
+      note: Directed Operation Damocles
+    - org: governo-israele
+      role: leader
+      from: 1977
+      to: 1992
+      note: Speaker Knesset 1977-1980, FM 1980-1986, PM 1983-1984 & 1986-1992
+    - org: likud
+      role: leader
+      from: 1973
+      to: 1993
+      note: Herut/Likud leader 1983-1993
+    - org: lehi
+      role: leader
+      from: 1942
+      to: 1948
+      note: Operations chief, triumvirate with Eldad and Yellin-Mor
+    - org: university-of-warsaw
+      role: alumni
+      note: Law 1932-1935 (incomplete)
+    - org: herut
+      role: leader
+      from: 1983
+      to: 1988
+      note: Party leader after Begin resignation
+    relations:
+    - person: menachem-begin
+      type: colleague
+      note: Irgun/Betar, Begin handed PM office to Shamir 1983
+    - person: natan-yellin-mor
+      type: colleague
+      note: Lehi triumvirate, diplomatic chief
   yitzhak-tshuva:
     born: 1948
     nationality: ISR
@@ -55666,6 +59788,27 @@ persons:
     - org: el-ad-group
       role: founder
       from: 1978
+  yitzhak-wasserlauf:
+    born: 1992
+    nationality: ISR
+    note: Ministro per lo Sviluppo del Negev e della Galilea (2022-oggi); MK Otzma Yehudit; co-fondatore yeshiva Oz Ve'emuna
+      (Tel Aviv); il piu' giovane ministro del governo Netanyahu (30 anni); attivista Otzma Yehudit dall'eta' di 18 anni
+    affiliations:
+    - org: governo-israele
+      role: minister
+      from: 2022
+      note: Minister of Negev and Galilee
+    - org: otzma-yehudit
+      role: member
+      note: MK, Minister of Negev and Galilee
+    - org: oz-veemuna-yeshiva
+      role: founder
+      from: 2014
+      note: Co-fondatore e insegnante; yeshiva hesder nel quartiere Neve Sha'anan
+    relations:
+    - person: itamar-ben-gvir
+      type: protege
+      note: Mentore politico; Wasserlauf entro' in Otzma Yehudit a 18 anni sotto la guida di Ben Gvir
   ylli-bajraktari:
     born: 1975
     nationality: USA
@@ -55695,6 +59838,30 @@ persons:
       role: founder
       from: 2022
       note: Managing Partner, 5% owner
+  yoav-gallant:
+    born: 1958
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: minister
+      note: Defense Minister 2022-2024; licenziato da Netanyahu nov 2024
+    - org: idf
+      role: executive
+      note: Major General; Southern Command, GOC Home Front Command
+    - org: likud
+      role: member
+      from: 2018
+      note: Joined from Kulanu; resigned from Knesset Jan 2025
+    - org: harvard
+      role: alumni
+      note: Senior Management Program, HBS
+    - org: university-of-haifa
+      role: alumni
+      note: BA Business and Finance Management
+    relations:
+    - person: benjamin-netanyahu
+      type: adversary
+      note: 'Licenziato due volte: marzo 2023 (poi ritirato dopo proteste) e novembre 2024 (definitivo)'
   yoav-shoham:
     nationality: ISR
     affiliations:
@@ -55716,6 +59883,32 @@ persons:
       role: executive
       from: 2024
       note: CEO, ex ELTA, Arrow missile program leader
+  yoel-bin-nun:
+    born: 1946
+    nationality: ISR
+    affiliations:
+    - org: hebrew-university
+      role: alumni
+      note: PhD Jewish Thought
+    - org: gush-emunim
+      role: founder
+      from: 1974
+      note: Riunione fondativa a casa sua, Alon Shvut
+    - org: mercaz-harav
+      role: alumni
+      note: Allievo di Zvi Yehuda Kook
+    - org: yeshivat-har-etzion
+      role: founder
+      from: 1968
+      note: Co-fondatore con Hanan Porat e Yehuda Amital; Rosh Yeshiva
+    - org: michlelet-herzog
+      role: founder
+      from: 1986
+      note: Co-fondatore; formazione insegnanti di studi ebraici
+    relations:
+    - person: hanan-porat
+      type: colleague
+      note: Co-fondatori Gush Emunim (1974), Yeshivat Har Etzion e insediamento Alon Shvut
   yoichi-ochiai:
     born: 1987
     nationality: JPN
@@ -55750,6 +59943,19 @@ persons:
     - org: israel-diamond-exchange
       role: chairman
       to: 2021
+  yosef-burg:
+    born: 1909
+    died: 1999
+    nationality: DEU-ISR
+    affiliations:
+    - org: hapoel-hamizrachi
+      role: member
+      note: Dirigente, poi leader Mafdal
+    - org: mafdal
+      role: leader
+      from: 1970
+      to: 1986
+      note: Chairman
   yosef-raanan:
     born: 1922
     nationality: ISR
@@ -55765,11 +59971,46 @@ persons:
     - person: otto-skorzeny
       type: handler
       note: Handler principale, presente al funerale
+  yosef-sprinzak:
+    born: 1885
+    died: 1959
+    nationality: RUS-ISR
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 1949
+      to: 1959
+      note: Primo Speaker della Knesset
+    - org: mapai
+      role: founder
+      from: 1930
+      note: Co-fondatore Mapai da Hapoel Hatzair
+    - org: histadrut
+      role: executive
+      from: 1920
+      to: 1949
+      note: Co-fondatore 1920; Secretary-General 1945-49
+    - org: hapoel-hatzair
+      role: leader
+      from: 1905
+      to: 1930
+      note: Co-fondatore; guido fusione in Mapai con BG
+    relations:
+    - person: chaim-weizmann
+      type: colleague
+      note: Acting President durante malattia di Weizmann (dic 1951 - nov 1952)
+    - person: david-ben-gurion
+      type: colleague
+      note: Co-fondatori Mapai; alleati nel movimento operaio sionista
   yosef-yitzchak-schneersohn:
     born: 1880
     died: 1950
-    nationality: USA
+    nationality: RUS-USA
     affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 1930
+      note: Incontro con Presidente Hoover alla Casa Bianca (10 luglio 1930); 3500+ documenti State Dept sul salvataggio
     - org: chabad-lubavitch
       role: leader
       from: 1920
@@ -55789,10 +60030,36 @@ persons:
       role: founder
       from: 1941
       to: 1950
+    - org: kfar-chabad
+      role: founder
+      from: 1949
+      note: Diresse la fondazione per assorbire chassidim da URSS
     relations:
+    - person: ernst-bloch
+      type: ally
+      note: Ufficiale Abwehr mezzo ebreo; trovo il Rebbe nel nascondiglio di Varsavia e lo scorto via SS fino a Berlino-Riga
+        (dic 1939)
+    - person: helmuth-wohlthat
+      type: ally
+      note: Contattato da Pell/Geist; coinvolse Canaris nel salvataggio (1939)
     - person: menachem-schneerson
       type: father-in-law
       note: Genero sposo Chaya Mushka (1928); successore come 7 Rebbe
+    - person: mordechai-dubin
+      type: ally
+      note: Parlamentare lettone chassid; orchestro liberazione dalla GPU (1927)
+    - person: raymond-geist
+      type: ally
+      note: Console USA Berlino; contatto Wohlthat per salvataggio (1939)
+    - person: robert-pell
+      type: ally
+      note: Negoziatore US State Dept; coordino fuga da Varsavia via Berlino (1939-40)
+    - person: shmaryahu-gurary
+      type: parent
+      note: Genero; sposo figlia maggiore Chana (1921); direttore rete yeshivot Tomchei Tmimim
+    - person: wilhelm-canaris
+      type: ally
+      note: Capo Abwehr; ordino a Bloch il salvataggio del Rebbe da Varsavia (dic 1939)
   yossi-carmil:
     nationality: ISR
     affiliations:
@@ -55850,8 +60117,19 @@ persons:
       type: colleague
       note: Gordon CEO e Kotlarsky Head di Chabad on Campus
   yousef-al-otaiba:
+    born: 1974
     nationality: ARE
     affiliations:
+    - org: governo-uae
+      role: executive
+      from: 2008
+      note: Ambassador to the USA (2008-); Minister of State (2017-); Director International Affairs Crown Prince Court (2000-2008)
+    - org: harvard
+      role: board
+      note: Member, Leadership Council for Center for Public Leadership, Kennedy School
+    - org: georgetown
+      role: alumni
+      note: International Relations (claimed 1995; Georgetown registrar disputes graduation)
     - org: abraham-accords-peace-institute
       role: founder
       from: 2021
@@ -56005,6 +60283,44 @@ persons:
       role: founder
       from: 2024
       note: Co-founder, Axiom Management Group
+  zadoc-kahn:
+    born: 1839
+    died: 1905
+    nationality: FRA
+    note: Grand Rabbin de France (1889-1905), ultimo con status ufficiale. Alsaziano. Ruolo chiave nell'Affare Dreyfus. Presento'
+      a de Hirsch il progetto di colonizzazione in Argentina. Legami con Herzl. Presidente onorario AIU. Fondò Société des
+      Études Juives (1880).
+    affiliations:
+    - org: jewish-colonization-association
+      role: board
+      from: 1891
+      to: 1905
+      note: Membro del primo consiglio. Presentò a de Hirsch il progetto di colonizzazione argentina
+    - org: alliance-israelite-universelle
+      role: leader
+      from: 1889
+      to: 1905
+      note: Presidente onorario
+    - org: consistoire-central
+      role: leader
+      from: 1889
+      to: 1905
+      note: Grand Rabbin de France. Ultimo Grand Rabbin ufficiale
+    - org: seminaire-israelite-paris
+      role: alumni
+      note: Studi rabbinici (iniziati a Metz 1856, completati a Parigi)
+    relations:
+    - person: maurice-de-hirsch
+      type: colleague
+      note: Presentò a de Hirsch il progetto di colonizzazione ebraica in Argentina. Membro del consiglio JCA fondato da de
+        Hirsch
+    - person: narcisse-leven
+      type: colleague
+      note: 'Collaboratori: Kahn Grand Rabbin, Leven presidente AIU e JCA. Insieme assisté de Hirsch nella formulazione dei
+        piani di colonizzazione'
+    - person: theodor-herzl
+      type: colleague
+      note: Legami personali. Kahn simpatizzante del sionismo ma vincolato al ruolo ufficiale e al nazionalismo francese
   zakir-hasanov:
     born: 1959
     nationality: AZE
@@ -56014,6 +60330,31 @@ persons:
       role: minister
       from: 2013
       note: Defense Minister
+  zalman-baruch-melamed:
+    born: 1937
+    nationality: ISR
+    note: Rabbi, founder of Arutz Sheva and Beit El Yeshiva; student of Zvi Yehuda Kook at Mercaz HaRav; leading religious
+      Zionist rabbi
+    affiliations:
+    - org: mercaz-harav
+      role: alumni
+      from: 1954
+      note: Studied ~10 years, also taught; close student of Zvi Yehuda Kook
+    - org: arutz-sheva
+      role: founder
+      from: 1988
+      note: Founded the pirate radio station
+    - org: beit-el-yeshiva
+      role: founder
+      from: 1978
+      note: Rosh Yeshiva (head), founder
+    relations:
+    - person: hagai-segal
+      type: colleague
+      note: Collaborator at Arutz Sheva
+    - person: zvi-yehuda-kook
+      type: student
+      note: Close student at Mercaz HaRav from 1954
   zalman-bernstein:
     born: 1926
     died: 1999
@@ -56137,6 +60478,54 @@ persons:
       role: board
       from: 1981
       note: Counselor & Trustee
+  zeev-hever:
+    nationality: ISR
+    affiliations:
+    - org: gush-emunim
+      role: member
+      note: Membro del Jewish Underground, imprigionato
+    - org: amana
+      role: executive
+      from: 1989
+      note: Segretario Generale (Zambish)
+  zeev-jabotinsky:
+    born: 1880
+    died: 1940
+    nationality: RUS-ISR
+    affiliations:
+    - org: world-zionist-organization
+      role: executive
+      from: 1921
+      to: 1935
+      note: Membro esecutivo sionista; si dimise e fondo la NZO
+    - org: sapienza
+      role: alumni
+      note: Law studies 1898-1901, non completate
+    - org: irgun
+      role: founder
+      from: 1931
+      to: 1940
+      note: Supreme Commander (Rosh Betar)
+    - org: herut
+      role: founder
+      note: Ideological precursor, Herut founded by Begin on Jabotinsky platform
+    - org: betar
+      role: founder
+      from: 1923
+      note: Founded Betar youth movement in Riga
+    - org: hatzohar
+      role: founder
+      from: 1925
+      note: Founded Alliance of Revisionist Zionists in Paris
+    - org: new-zionist-organization
+      role: leader
+      from: 1935
+      to: 1940
+      note: President
+    - org: zion-mule-corps
+      role: founder
+      from: 1915
+      note: Co-promotore con Trumpeldor; spinse per una legione ebraica combattente
   zeid-raad-al-hussein:
     born: 1964
     nationality: JOR
@@ -56188,6 +60577,14 @@ persons:
       from: 1980
       to: 1982
       note: PM 70°
+  zerach-warhaftig:
+    born: 1906
+    died: 2002
+    nationality: POL-ISR
+    affiliations:
+    - org: hapoel-hamizrachi
+      role: member
+      note: Firmatario Dichiarazione Indipendenza, Ministro Affari Religiosi
   zhang-hui-boc:
     nationality: CHN
     affiliations:
@@ -56412,6 +60809,86 @@ persons:
       role: founder
   zuretti-goosby:
     nationality: USA
+  zvi-hendel:
+    born: 1949
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 1999
+      to: 2009
+      note: MK 15th-17th Knesset; Deputy Min. Education 2003-2004
+    - org: religious-zionist-party
+      role: founder
+      from: 1998
+    - org: national-union
+      role: member
+      from: 1999
+      to: 2009
+      note: Knesset Member via Tkuma faction
+    - org: gush-emunim
+      role: member
+      note: Attivista coloni, capo Gush Katif Regional Council
+    - org: mafdal
+      role: member
+      to: 1998
+      note: Lascia dopo Wye River Memorandum
+  zvi-kogan:
+    born: 1996
+    died: 2024
+    nationality: ISR-USA
+  zvi-sukkot:
+    born: 1990
+    nationality: ISR
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 2023
+      note: MK 2023- (Norwegian Law replacement for Smotrich); Chairman Subcommittee Judea and Samaria 2023-
+    - org: otzma-yehudit
+      role: executive
+      to: 2022
+      note: Director General
+    - org: religious-zionist-party
+      role: member
+      from: 2022
+      note: MK 2023- (16th on list, replaced Smotrich via Norwegian Law)
+    relations:
+    - person: bezalel-smotrich
+      type: colleague
+      note: Replaced Smotrich in Knesset via Norwegian Law
+  zvi-yehuda-kook:
+    born: 1891
+    died: 1982
+    nationality: ISR
+    affiliations:
+    - org: mercaz-harav
+      role: leader
+      from: 1952
+      to: 1982
+      note: Rosh Yeshiva (succede a R. Charlap)
+    relations:
+    - person: abraham-isaac-kook
+      type: child
+      note: Figlio; continuo e radicalizzo la teologia del padre
+    - person: eliezer-waldman
+      type: mentor
+      note: Allievo a Mercaz HaRav
+    - person: haim-drukman
+      type: mentor
+      note: Maestro a Mercaz HaRav; Drukman fondatore Or Etzion e Gush Emunim
+    - person: hanan-porat
+      type: mentor
+      note: Maestro a Mercaz HaRav; Porat fondatore Gush Emunim
+    - person: moshe-levinger
+      type: mentor
+      note: Maestro a Mercaz HaRav; Levinger pioniere Hebron
+    - person: shlomo-aviner
+      type: mentor
+      note: Allievo a Mercaz HaRav
+    - person: yoel-bin-nun
+      type: mentor
+      note: Maestro a Mercaz HaRav; Bin-Nun co-fondatore Gush Emunim
   zvi-zamir:
     born: 1925
     died: 2024
@@ -56439,3 +60916,22 @@ persons:
     - person: meir-amit
       type: successor
       note: Successor as Mossad Director 1968
+  zvika-fogel:
+    born: 1956
+    nationality: ISR
+    note: MK Otzma Yehudit; Brigadiere Generale IDF in pensione; Chairman Commissione Sicurezza Nazionale della Knesset; ex
+      capo di stato maggiore Comando Sud IDF; coordinatore artiglieria Operazione Cast Lead (2008-09) e Pillar of Defense
+      (2012); dichiarazioni controverse su sparare ai bambini palestinesi e pulizia etnica di Gaza
+    affiliations:
+    - org: governo-israele
+      role: legislator
+      from: 2022
+      note: MK; Chairman Commissione Sicurezza Nazionale della Knesset (feb 2023-oggi)
+    - org: otzma-yehudit
+      role: member
+      note: MK
+    relations:
+    - person: itamar-ben-gvir
+      type: colleague
+      note: Ben Gvir leader di partito; Fogel chairman commissione sicurezza nazionale che supervisiona il ministero di Ben
+        Gvir

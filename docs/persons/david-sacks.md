@@ -132,8 +132,9 @@
 |------------|-----------|
 | **Strategic Bitcoin Reserve** | Executive order marzo 2025 |
 | **Digital Asset Stockpile** | Separato dalla Bitcoin Reserve |
+| **GENIUS Act** | Prima legge federale crypto USA, firmata luglio 2025 |
 | **AI Race vs China** | Advocacy per accelerare sviluppo AI USA |
-| **Crypto Framework** | Costruzione framework legale per crypto |
+| **Market Structure Bill** | Legislazione per regolamentazione mercati crypto (in corso 2026) |
 
 ### Conflitti di Interesse
 
@@ -142,6 +143,8 @@
 | **Disinvestimenti** | Vendute crypto dirette pre-nomina |
 | **Mantenuti** | Investimenti in startup crypto via Craft |
 | **Critiche** | NPR: "vast AI investments" mentre fa policy |
+| **Ethics probe** | Democratici lanciano indagine etica (Set 2025) |
+| **Disinvestimenti** | Vendute $200M in crypto holdings pre-nomina |
 
 > Dopo l'uscita di Musk da Washington, Sacks e' diventato il piu' potente advocate di Silicon Valley alla Casa Bianca.
 
@@ -231,6 +234,10 @@ David Sacks rappresenta pattern chiave:
 | **Dic 2024** | Trump lo nomina AI & Crypto Czar |
 | **Gen 2025** | Inizia alla Casa Bianca |
 | **Mar 2025** | Strategic Bitcoin Reserve executive order |
+| **Lug 2025** | GENIUS Act firmato da Trump - prima legge federale crypto |
+| **Set 2025** | Democratici lanciano indagine etica |
+| **Dic 2025** | NPR espone conflitti di interesse su investimenti AI |
+| **Gen 2026** | Annuncia markup legislazione market structure crypto |
 
 ---
 
@@ -247,7 +254,10 @@ David Sacks rappresenta pattern chiave:
 ### Media
 - [SF Standard - Sacks' 130-day White House mission](https://sfstandard.com/2025/07/10/david-sacks-crypto-white-house-donald-trump/)
 - [NPR - Sacks AI investments conflicts](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts)
+- [CBS News - Trump signs GENIUS Act](https://www.cbsnews.com/news/trump-signs-genius-act-crypto-bill/)
+- [Nextgov - Democrats launch ethics investigation](https://www.nextgov.com/people/2025/09/democrats-launch-ethics-investigation-ai-and-crypto-czar-david-sacks/408175/)
+- [CoinDesk - Most Influential 2025: David Sacks](https://www.coindesk.com/policy/2025/12/08/most-influential-david-sacks)
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

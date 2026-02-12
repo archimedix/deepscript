@@ -15,7 +15,7 @@
 
 ## Formazione
 
-Poliglotta autodidatta: russo, tedesco, inglese, francese, italiano.
+Autodidatta, educato nelle case di studio (yeshivot) di Wyszogrod, Plock, Lowicz, Sompolno e altri centri. Poliglotta: ebraico, yiddish, russo, tedesco, inglese, francese, italiano, polacco.
 
 ---
 
@@ -25,12 +25,12 @@ Poliglotta autodidatta: russo, tedesco, inglese, francese, italiano.
 
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
-| **1876+** | Giornalista | Ha-Tsfira (Varsavia) |
+| **1876-1936** | Giornalista/Editore | [Ha-Tsfira](../media/ha-tsfira.md) (Varsavia) |
 | **1897** | Corrispondente | Primo Congresso Sionista |
-| **1906** | Segretario Generale | World Zionist Organization |
-| **1911-36** | Membro Executive | World Zionist Organization |
-| **1931-35** | President | World Zionist Organization |
-| **1935-36** | Honorary President | WZO e Jewish Agency |
+| **1906** | Segretario Generale | [World Zionist Organization](../agency/world-zionist-organization.md) |
+| **1911-36** | Membro Executive | [World Zionist Organization](../agency/world-zionist-organization.md) |
+| **1931-35** | President | [World Zionist Organization](../agency/world-zionist-organization.md) |
+| **1935-36** | Honorary President | WZO e [Jewish Agency](../agency/jewish-agency.md) |
 
 ---
 
@@ -83,10 +83,11 @@ Sokolow apparentemente conio' l'espressione "Jewish national home" - politicamen
 
 | Nome | Connessione |
 |------|-------------|
-| Theodor Herzl | Inizialmente oppositore, poi sostenitore |
-| Chaim Weizmann | Collaboratore a Londra, predecessore come presidente |
-| Papa Benedetto XV | Ottenne supporto vaticano |
-| Jules Cambon | Ottenne assenso francese |
+| [Theodor Herzl](theodor-herzl.md) | Inizialmente oppositore, poi sostenitore; tradusse Altneuland |
+| [Chaim Weizmann](chaim-weizmann.md) | Collaboratore a Londra, predecessore come presidente WZO |
+| [Max Nordau](max-nordau.md) | Collega nel movimento sionista |
+| Papa Benedetto XV | Ottenne supporto vaticano (1917) |
+| Jules Cambon | Ottenne assenso francese (Dichiarazione Cambon 1917) |
 
 ---
 
@@ -96,14 +97,16 @@ Sokolow apparentemente conio' l'espressione "Jewish national home" - politicamen
 
 | Entita' | Connessione |
 |---------|-------------|
-| [World Zionist Organization](../agency/world-zionist-organization.md) | President 1931-35 |
+| [World Zionist Organization](../agency/world-zionist-organization.md) | Segretario Generale 1906, Executive 1911-36, President 1931-35 |
+| [Jewish Agency](../agency/jewish-agency.md) | Honorary President 1935-36 |
+| [Ha-Tsfira](../media/ha-tsfira.md) | Editore dal 1885 |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
-| [Theodor Herzl](theodor-herzl.md) | Traduttore di Altneuland |
-| [Chaim Weizmann](chaim-weizmann.md) | Collaboratore, predecessore |
+| [Theodor Herzl](theodor-herzl.md) | Traduttore di Altneuland, collaboratore |
+| [Chaim Weizmann](chaim-weizmann.md) | Collaboratore a Londra, predecessore come presidente WZO |
 
 ### Eventi
 
@@ -151,4 +154,4 @@ Sokolow apparentemente conio' l'espressione "Jewish national home" - politicamen
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

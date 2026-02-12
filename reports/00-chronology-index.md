@@ -25,6 +25,40 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 ---
 
+## 1830s-1880s: Origini del Comunismo e Canale di Suez
+
+### Eventi
+
+| Anno | Evento | Link |
+|------|--------|------|
+| 1833 | Spedizione saint-simoniana in Egitto; Enfantin incontra Lesseps | [Canale di Suez](suez-canal.md) |
+| 1836 | Fondazione League of the Just, Parigi | [Origini Comunismo](comunismo-origini.md) |
+| 1847 | Trasformazione in Communist League, Londra | [Communist League](../docs/foundation/communist-league.md) |
+| 1848 | Manifesto del Partito Comunista | [Evento](../docs/events/1848-communist-manifesto.md) |
+| 1864 | Fondazione I Internazionale, Londra | [IWA](../docs/forum/international-workingmens-association.md) |
+| 1871 | Comune di Parigi (72 giorni) | [Evento](../docs/events/1871-paris-commune.md) |
+| 1872 | Espulsione Bakunin dalla I Internazionale | [Origini Comunismo](comunismo-origini.md) |
+| 1846 | Fondazione Societe d'Etudes du Canal de Suez | [Canale di Suez](suez-canal.md) |
+| 1858 | Fondazione Compagnie Universelle du Canal Maritime de Suez | [Canale di Suez](suez-canal.md) |
+| 1869 | Inaugurazione Canale di Suez (17 nov) | [Canale di Suez](suez-canal.md) |
+| 1875 | Disraeli acquista 44% azioni con prestito Rothschild | [Canale di Suez](suez-canal.md) |
+| 1882 | Occupazione militare britannica dell'Egitto | [Canale di Suez](suez-canal.md) |
+| 1889 | Fondazione II Internazionale, Parigi | [II Internazionale](../docs/forum/second-international.md) |
+
+### Report
+
+| Report | Focus |
+|--------|-------|
+| [Origini del Comunismo](comunismo-origini.md) | Marx, Engels, Internazionali, scissioni (1796-1943) |
+| [Canale di Suez](suez-canal.md) | Rete saint-simoniana, Enfantin, Lesseps, Rothschild (1833-1956) |
+
+**Figure chiave:**
+- [Karl Marx](../docs/persons/karl-marx.md) - Fondatore del comunismo scientifico
+- [Friedrich Engels](../docs/persons/friedrich-engels.md) - Co-fondatore e finanziatore
+- [Mikhail Bakunin](../docs/persons/mikhail-bakunin.md) - Rivale anarchico
+
+---
+
 ## 1890s-1910s: Origini
 
 ### Eventi
@@ -32,13 +66,20 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | Anno | Evento | Link |
 |------|--------|------|
 | 1897 | Primo Congresso Sionista, Basel | [WZO](../docs/agency/world-zionist-organization.md) |
+| 1898 | Fondazione RSDLP, Minsk | [RSDLP](../docs/foundation/rsdlp.md) |
+| 1903 | Scissione Bolscevichi/Menscevichi, II Congresso RSDLP | [Origini Comunismo](comunismo-origini.md) |
+| 1914 | SPD vota crediti di guerra, II Internazionale collassa | [Origini Comunismo](comunismo-origini.md) |
+| 1915 | Conferenza di Zimmerwald, socialisti anti-guerra | [Origini Comunismo](comunismo-origini.md) |
 | 1917 | Dichiarazione Balfour | [Link](../docs/events/1917-balfour-declaration.md) |
+| 1917 | Rivoluzione d'Ottobre | [Evento](../docs/events/1917-russian-revolution.md) |
+| 1919 | Fondazione Comintern (III Internazionale), Mosca | [Comintern](../docs/forum/comintern.md) |
 
 ### Report
 
 | Report | Focus |
 |--------|-------|
 | [Sionismo: Da Movimento a Stato](zionism-state-building.md) | Herzl → Balfour → Israele (1897-1948) |
+| [Origini del Comunismo](comunismo-origini.md) | RSDLP, Bolscevismo, Comintern |
 
 ---
 
@@ -115,6 +156,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 1950 | Joshua Haldeman emigra in Sudafrica | [Haldeman](../docs/persons/joshua-haldeman.md) |
 | 1951 | M. King Hubbert lascia Technocracy Inc. | [Hubbert](../docs/persons/m-king-hubbert.md) |
 | 1956 | Hubbert presenta teoria Peak Oil all'API | [Hubbert](../docs/persons/m-king-hubbert.md) |
+| 1956 | Nasser nazionalizza il Canale di Suez (26 lug); crisi di Suez | [Canale di Suez](suez-canal.md) |
 
 ### Report
 
@@ -264,13 +306,20 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | Anno | Evento | Link |
 |------|--------|------|
 | 2020 | Pandemia/Great Reset | [Link](../docs/events/2020-pandemia-great-reset.md) |
+| 2020 ago | Abraham Accords - UAE | [Accordi di Abramo](abraham-accords.md) |
+| 2020 set | Abraham Accords - Bahrain, Kosovo/Serbia | [Accordi di Abramo](abraham-accords.md) |
+| 2020 ott | Abraham Accords - Sudan | [Accordi di Abramo](abraham-accords.md) |
+| 2020 dic | Abraham Accords - Marocco | [Accordi di Abramo](abraham-accords.md) |
+| 2023 ott | Attacco Hamas, freeze normalizzazione saudita | [Accordi di Abramo](abraham-accords.md) |
 | 2024 | Lancio DOGE (Musk) - paralleli con Technocracy Inc. | [Technocracy Genealogy](technocracy-genealogy.md) |
+| 2025 nov | Abraham Accords - Kazakhstan (Trump 2.0) | [Accordi di Abramo](abraham-accords.md) |
 
 ### Report
 
 | Report | Focus |
 |--------|-------|
 | [Technocracy Genealogy](technocracy-genealogy.md) | Da Technocracy Inc. a DOGE (1933-2025) |
+| [Accordi di Abramo](abraham-accords.md) | Normalizzazione arabo-israeliana, AAPI, quid pro quo (2020-2026) |
 | [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | Investimenti Golfo USA |
 | [Gulf-Europe Pipeline](gulf-europe-pipeline-media.md) | Petroldollari in sport, media, infrastrutture EU |
 | [Media Power](media-power.md) | Controllo media |

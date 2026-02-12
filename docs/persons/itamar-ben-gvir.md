@@ -34,7 +34,7 @@
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
 | **Anni '90** | Coordinatore giovanile | Kach (movimento kahanista, bandito 1994) |
-| **2008-oggi** | Avvocato | Rappresentante di attivisti estrema destra |
+| **2008-oggi** | Avvocato | Rappresentante di attivisti estrema destra; avvocato di [Lehava](../foundation/lehava.md) e di [Bentzi Gopstein](bentzi-gopstein.md) |
 | **~2012-oggi** | Chairman | [Otzma Yehudit](../party/otzma-yehudit.md) |
 | **2021-oggi** | Member of Knesset | [Governo israeliano](../government/governo-israele.md) |
 | **Dic 2022 - Gen 2025** | **Minister of National Security** | [Governo israeliano](../government/governo-israele.md) |
@@ -77,6 +77,7 @@ L'ex ministro della Difesa Benny Gantz accuso' Netanyahu di dare a Ben Gvir un "
 | [Bezalel Smotrich](bezalel-smotrich.md) | Ministro Finanze; alleato strategico; insieme 20 seggi = bilancia del potere |
 | [Yoav Gallant](yoav-gallant.md) | Ex Ministro Difesa; rivale aperto; licenziato nov 2024 |
 | Meir Kahane | Mentore ideologico (deceduto 1990); fondatore Kach |
+| [Bentzi Gopstein](bentzi-gopstein.md) | Fondatore [Lehava](../foundation/lehava.md); Ben Gvir suo avvocato; Gopstein consigliere sicurezza di Ben Gvir al ministero |
 
 ---
 
@@ -84,6 +85,7 @@ L'ex ministro della Difesa Benny Gantz accuso' Netanyahu di dare a Ben Gvir un "
 
 | Tema | Periodo | Dettaglio |
 |------|---------|-----------|
+| Lehava | 2005+ | Avvocato di Gopstein e dell'org (10.000+ membri, sanzionata USA/UE/UK); presente al "matrimonio dell'odio" (dic 2015) con profanazione Ali Dawabsheh; Gopstein consigliere sicurezza al ministero |
 | Condanne penali | Anni '90-2007 | 8+ condanne: incitamento razzismo, supporto terrorismo |
 | Monte del Tempio | Gen 2023+ | Visite provocatorie al Haram al-Sharif; condanna internazionale da USA, Giordania, UAE, Arabia Saudita |
 | Riforma giudiziaria | 2023 | Minaccio' dimissioni se fermata; ottenne promessa National Guard; proteste di massa |
@@ -108,6 +110,8 @@ L'ex ministro della Difesa Benny Gantz accuso' Netanyahu di dare a Ben Gvir un "
 |---------|-------------|
 | [Governo israeliano](../government/governo-israele.md) | Minister of National Security 2022-oggi; MK 2021-oggi |
 | [Otzma Yehudit](../party/otzma-yehudit.md) | Chairman; fondatore |
+| [Lehava](../foundation/lehava.md) | Avvocato dell'org e di Gopstein; presente al "matrimonio dell'odio" (2015); Gopstein suo consigliere sicurezza |
+| [Kach](../party/kach.md) | Coordinatore giovanile anni '90; partito bandito 1994 |
 
 ### Persone
 
