@@ -1,9 +1,11 @@
 events:
   1666-conversione-sabbatai-zvi:
+    tagline: La crisi messianica che genero' il cripto-sabbatianesimo e il modello della "redenzione attraverso il peccato
     year: 1666
     type: crisis
     location: Adrianople, Ottoman Empire
   1759-conversione-frankisti-varsavia:
+    tagline: La conversione che trasformo' una setta messianica eretica in famiglie della nobilta' polacca
     year: 1759
     type: political
     location: Lwow-Warsaw, Poland
@@ -16,6 +18,7 @@ events:
     type: revolution
     location: Paris, France
   1910-jekyll-island:
+    tagline: La riunione segreta che disegno' la Federal Reserve
     year: 1910
     type: riunione-segreta
     location: Georgia
@@ -27,6 +30,7 @@ events:
     location: Jekyll Island, Georgia, USA
     outcome: Federal Reserve Act draft
   1917-balfour-declaration:
+    tagline: '67 parole che cambiarono il Medio Oriente: la promessa britannica per una patria ebraica'
     year: 1917
     month: 11
     type: declaration
@@ -37,14 +41,19 @@ events:
     type: revolution
     location: Russia
   1939-rescue-warsaw:
+    tagline: Cooperazione USA-Wehrmacht senza precedenti per salvare il leader di Chabad-Lubavitch dalla Polonia occupata
+      dai nazisti. Uno snodo che salvo' il movimento e ne determino' il futuro americano.
     year: 1939
     type: diplomatic
     location: Warsaw-Berlin-Riga-New York
   1944-bretton-woods:
+    tagline: L'architettura finanziaria che consacro' l'egemonia americana
     year: 1944
     type: conferenza
     location: New Hampshire
   1953-operation-ajax:
+    tagline: 'Il primo colpo di stato della CIA: il rovesciamento di Mossadegh creo'' il modello per i regime change della
+      Guerra Fredda e genero'' il blowback della Rivoluzione Islamica.'
     year: 1953
     month: 8
     type: coup
@@ -63,16 +72,19 @@ events:
     note: Enrico Mattei dies in plane crash. Suspected sabotage, never solved. Possible involvement of Seven Sisters, French
       SDECE, or Mafia
   1971-fine-bretton-woods:
+    tagline: La decisione che trasformo' il dollaro da valuta ancorata all'oro a moneta fiat globale
     year: 1971
     type: decisione
     location: USA
     outcome: fiat-money
   1973-crisi-petrolifera:
+    tagline: L'embargo che riscrisse le regole del potere globale e creo' il sistema del petrodollaro
     year: 1973
     type: crisi
     location: globale
     outcome: petrodollaro
   1973-fondazione-trilaterale:
+    tagline: Il forum che istituzionalizzo' il coordinamento elite USA-Europa-Giappone
     year: 1973
     type: fondazione
     location: USA
@@ -89,6 +101,8 @@ events:
     outcome: Tony Frangieh, moglie, figlia uccisi. Rottura Frangieh-Gemayel
     note: 'Esecutori: Kataeb (Geagea, Hobeika). Mandante: Bashir Gemayel'
   1980-iran-iraq-war:
+    tagline: Otto anni di guerra totale che ridisegnarono il Medio Oriente e rivelarono le alleanze opportunistiche delle
+      grandi potenze
     year: 1980
     type: war
     location: Iran, Iraq, Persian Gulf
@@ -110,30 +124,39 @@ events:
     type: crisis
     location: Israel
   kinus-hashluchim:
+    tagline: 'La piu'' grande conferenza ebraica del mondo: dal 1983, riunisce annualmente fino a 6.500 emissari Chabad da
+      100+ paesi — il punto di coordinamento globale della rete Chabad-Lubavitch.'
     year: 1983
     type: conference
     location: Crown Heights, Brooklyn, USA
   1990-invasione-kuwait:
+    tagline: 'La prima grande crisi post-Guerra Fredda: coalizione di 35 nazioni contro l''Iraq di Saddam Hussein'
     year: 1990
     month: 8
     type: war
     location: Kuwait, Iraq, Saudi Arabia
     outcome: Coalition victory, Kuwait liberated, Iraq sanctions
   1991-dissoluzione-urss:
+    tagline: Il crollo che apri' le porte agli oligarchi e alla "shock therapy" occidentale
     year: 1991
     type: evento-storico
     location: URSS
   1992-britannia:
+    tagline: Un convegno sulle privatizzazioni italiane a bordo dello yacht reale britannico, divenuto simbolo della transizione
+      dalla Prima alla Seconda Repubblica e dell'apertura dell'economia italiana al capitale internazionale.
     year: 1992
     month: giugno
     type: convegno
     location: Civitavecchia
   1992-tangentopoli:
+    tagline: Lo scandalo che cancello' la Prima Repubblica, spazzo' via il Pentapartito e apri' la strada a privatizzazioni,
+      governi tecnici e bipolarismo
     year: 1992
     type: crisi-politica
     location: Italia
     outcome: fine-prima-repubblica
   1992-trattato-maastricht:
+    tagline: Il patto che creo' l'Euro e la governance tecnocratica europea
     year: 1992
     type: trattato
     location: Paesi Bassi
@@ -149,6 +172,8 @@ events:
     location: Baku, Azerbaijan
     note: BP-led consortium for ACG oil field development, signed by Heydar Aliyev
   1994-hebron-massacre:
+    tagline: Attacco terroristico di un colono kahanista che porto' alla messa al bando di Kach e alla radicalizzazione del
+      conflitto
     year: 1994
     type: attack
     location: Hebron, West Bank
@@ -159,11 +184,13 @@ events:
     location: Tel Aviv
     outcome: Fine processo Oslo
   1999-abolizione-glass-steagall:
+    tagline: La deregolamentazione che permise la crisi 2008
     year: 1999
     type: deregulation
     location: USA
     outcome: too-big-to-fail
   2001-11-settembre:
+    tagline: L'evento che legittimo' la sorveglianza di massa e le "guerre infinite
     year: 2001
     type: attacco
     location: USA
@@ -173,6 +200,7 @@ events:
     location: USA
     note: Bioterrorism tabletop exercise simulating smallpox attack
   2001-goldman-greece-swap:
+    tagline: Come una banca d'affari aiuto' uno stato sovrano a nascondere €2.8 miliardi di debito per entrare nell'Euro
     year: 2001
     type: financial
     location: Greece
@@ -190,6 +218,7 @@ events:
     location: Baghdad, Iraq
     outcome: purge of Baath party members
   2003-invasione-iraq:
+    tagline: La guerra basata su false premesse che ridefini' il Medio Oriente e scredito' l'intelligence occidentale
     year: 2003
     month: 3
     type: war
@@ -228,6 +257,7 @@ events:
     location: Baghdad, Iraq
     outcome: 17 civilians killed by Blackwater contractors
   2008-crisi-finanziaria:
+    tagline: Il crollo che dimostro' "too big to fail" e socializzo' le perdite di Wall Street
     year: 2008
     type: crisi
     location: globale
@@ -240,6 +270,7 @@ events:
     note: Arab Spring protests Pearl Roundabout. 200,000 protesters. Saudi-led GCC intervention March 14. Martial law. 19+
       killed. Opposition leaders imprisoned.
   2011-crisi-debito-sovrano:
+    tagline: La crisi che impose i governi tecnici e rivelo' il potere della BCE
     year: 2011
     type: crisi
     location: Europa
@@ -258,6 +289,7 @@ events:
     outcome: Rilasciato dopo intervento Macron
     note: MBS fece annunciare dimissioni forzate
   2019-event-201:
+    tagline: La simulazione pandemica da coronavirus 2 mesi prima di COVID-19
     year: 2019
     type: exercise
     location: New York, USA
@@ -306,6 +338,7 @@ events:
     location: Nagorno-Karabakh
     note: Azerbaijan recaptured territories, Russian peacekeepers deployed
   2020-pandemia-great-reset:
+    tagline: L'emergenza che accelero' trasformazioni digitali e concentrazione di potere
     year: 2020
     type: crisi
     location: globale
@@ -343,6 +376,8 @@ events:
     location: Iran
     outcome: ongoing
   2025-munich-convergence-summit:
+    tagline: 'Il momento in cui l''opposizione iraniana in esilio designo'' Reza Pahlavi come leader di transizione: unita''
+      dichiarata, ma quanto reale?'
     year: 2025
     month: 2
     type: conference

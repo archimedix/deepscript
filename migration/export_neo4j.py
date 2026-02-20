@@ -68,7 +68,8 @@ def export_persons(driver):
             }) as affiliations
             RETURN p.id as id, p.born as born, p.died as died,
                    p.nationality as nationality, p.family as family,
-                   p.file as file, p.note as note, affiliations
+                   p.file as file, p.note as note, p.tagline as tagline,
+                   affiliations
             ORDER BY p.id
         """)
 
@@ -79,6 +80,8 @@ def export_persons(driver):
             # Add basic fields
             if record["file"]:
                 person["file"] = record["file"]
+            if record["tagline"]:
+                person["tagline"] = record["tagline"]
             if record["born"]:
                 person["born"] = record["born"]
             if record["died"]:
@@ -164,7 +167,7 @@ def export_organizations(driver):
             RETURN o.id as id, o.name as name, labels(o) as labels,
                    o.founded as founded, o.headquarters as headquarters,
                    o.status as status, o.sector as sector, o.aum as aum,
-                   o.file as file, o.note as note,
+                   o.file as file, o.note as note, o.tagline as tagline,
                    person_stakes, org_stakes
             ORDER BY o.id
         """)
@@ -184,6 +187,8 @@ def export_organizations(driver):
             # Add basic fields
             if record["file"]:
                 org["file"] = record["file"]
+            if record["tagline"]:
+                org["tagline"] = record["tagline"]
             if record["name"]:
                 org["name"] = record["name"]
             if org_type:
@@ -265,6 +270,7 @@ def export_families(driver):
             RETURN f.id as id, f.origin as origin, f.founder as founder,
                    f.sector as sector, f.generations as generations,
                    f.status as status, f.file as file, f.note as note,
+                   f.tagline as tagline,
                    members
             ORDER BY f.id
         """)
@@ -275,6 +281,8 @@ def export_families(driver):
 
             if record["file"]:
                 family["file"] = record["file"]
+            if record["tagline"]:
+                family["tagline"] = record["tagline"]
             if record["origin"]:
                 family["origin"] = record["origin"]
             if record["founder"]:
@@ -319,7 +327,8 @@ def export_events(driver):
             MATCH (e:Event)
             RETURN e.id as id, e.year as year, e.month as month,
                    e.type as type, e.location as location,
-                   e.outcome as outcome, e.file as file, e.note as note
+                   e.outcome as outcome, e.file as file, e.note as note,
+                   e.tagline as tagline
             ORDER BY e.year, e.id
         """)
 
@@ -329,6 +338,8 @@ def export_events(driver):
 
             if record["file"]:
                 event["file"] = record["file"]
+            if record["tagline"]:
+                event["tagline"] = record["tagline"]
             if record["year"]:
                 event["year"] = record["year"]
             if record["month"]:

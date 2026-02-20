@@ -1,5 +1,6 @@
 families:
   adani-family:
+    tagline: Da trader di diamanti a impero infrastrutturale da $100B+ in una generazione
     origin: IND
     founder: gautam-adani
     sector: infrastructure, energy, ports, airports
@@ -25,6 +26,8 @@ families:
     - person: sagar-adani
       generation: 3
   adelson:
+    tagline: 'Dinastia del gioco d''azzardo e dei media: dal casino'' di Las Vegas al controllo dell''opinione pubblica israeliana
+      e della politica repubblicana americana'
     origin: USA
     founder: sheldon-adelson
     sector: casino, media, politics
@@ -97,6 +100,7 @@ families:
     - person: clara-agnelli
       role: heir
   agnelli-elkann:
+    tagline: La dinastia che governo' l'Italia senza mai candidarsi — da FIAT a Stellantis
     origin: Italia
     founder: Giovanni Agnelli Sr.
     sector: auto
@@ -124,7 +128,11 @@ families:
       generation: 4
     - person: lapo-elkann
       generation: 4
+    - person: marella-caracciolo-agnelli
+      role: spouse
   al-khalifa:
+    tagline: 'Dinastia sunnita che governa il Bahrain ininterrottamente dal 1783: 242 anni di potere attraverso protettori
+      britannici, petrolio, alleanze saudite-americane, e oggi hub finanziario del Golfo.'
     origin: Bahrain
     founder: Ahmed ibn Muhammad Al Khalifa
     sector: royalty, government, finance
@@ -149,6 +157,7 @@ families:
     - person: khalid-bin-ahmed-al-khalifa
       role: member
   al-maktoum:
+    tagline: Dinastia regnante di Dubai - Da porto di pescatori a hub globale del commercio e della finanza
     origin: Dubai, UAE
     founder: maktoum-bin-butti
     sector: trade,real-estate,aviation,finance
@@ -167,6 +176,7 @@ families:
       generation: 3
       role: member
   al-nahyan:
+    tagline: 'La dinastia che controlla $2 trilioni: dai beduini del deserto al dominio su AI, sport e finanza globale'
     origin: Abu Dhabi, UAE
     founder: sheikh-zayed-bin-sultan
     sector: royalty, finance, energy
@@ -195,6 +205,7 @@ families:
     status: active
     note: Fondatori Al Rajhi Bank (1983). Fortuna $18B+. Cresciuti con boom migranti 1970s.
   al-saud:
+    tagline: 'La dinastia regnante piu'' ricca del mondo: monarchia assoluta, petrolio e trasformazione sotto MBS'
     origin: Diriyah, Arabia Saudita
     founder: Muhammad ibn Saud
     sector: royalty, petrolio, finanza
@@ -241,6 +252,7 @@ families:
     - person: al-mayassa-bint-hamad-al-thani
       generation: 4
   aliyev:
+    tagline: Dinastia regnante dell'Azerbaijan dal 1969. Potere politico totale + controllo del 43% del settore bancario nazionale.
     origin: Nakhchivan, Azerbaijan
     founder: heydar-aliyev
     sector: political
@@ -264,6 +276,7 @@ families:
     - person: heydar-aliyev-jr
       generation: 3
   ambani-family:
+    tagline: Da benzinaio ad Aden a dinastia da $113 miliardi in tre generazioni
     origin: IND
     founder: dhirubhai-ambani
     sector: oil, telecom, media, retail
@@ -304,6 +317,7 @@ families:
       generation: 3
       role: heir
   arnault:
+    tagline: 'Dinastia del lusso: il piu'' grande impero di brand premium al mondo'
     origin: France
     founder: bernard-arnault
     sector: luxury, retail
@@ -341,6 +355,7 @@ families:
       generation: 2
       role: patriarch
   azcarraga:
+    tagline: Dinastia mediatica che ha costruito il piu' grande impero televisivo in lingua spagnola al mondo
     origin: Mexico
     founder: Raul Azcarraga Vidaurreta
     sector: media
@@ -370,6 +385,8 @@ families:
     - person: alejandro-bailleres
       generation: 3
   barent-cohen:
+    tagline: Hub matrimoniale dell'ebraismo anglo-olandese. I matrimoni dei figli di Levi Barent Cohen unirono Rothschild,
+      Montefiore, Samuel e Goldsmid, e generarono linee che portano a Karl Marx e alla Philips.
     origin: NLD-GBR
     founder: levi-barent-cohen
     sector: commerce
@@ -439,6 +456,7 @@ families:
       generation: 3
       role: heir
   besnier:
+    tagline: Proprietari di Lactalis, "invisible billionaires" del dairy
     origin: France
     founder: andre-besnier
     sector: dairy
@@ -450,6 +468,7 @@ families:
       generation: 3
       role: patriarch
   bettencourt:
+    tagline: Dalla collaborazione nazista alla donna più ricca del mondo
     origin: France
     founder: eugene-schueller
     sector: cosmetics
@@ -483,6 +502,7 @@ families:
     status: active
     note: Saudi Binladin Group. Costruttori vicini alla famiglia reale. Progetto di espansione Mecca e Medina.
   birla:
+    tagline: 'Dal commercio dell''oppio al primo conglomerato multinazionale indiano: cinque generazioni di potere industriale.'
     origin: IND
     founder: shiv-narayana-birla
     sector: industry
@@ -502,6 +522,7 @@ families:
     - person: aryaman-birla
       generation: 5
   boel:
+    tagline: Dai baroni dell'acciaio vallone ai co-proprietari di TikTok via Sofina
     origin: Belgium
     founder: gustave-boel
     sector: steel, investment
@@ -522,6 +543,7 @@ families:
     - person: rene-boel
       generation: 3
   bollore:
+    tagline: Da carta e logistics alla crociata mediatica conservatrice
     origin: France
     founder: vincent-bollore
     sector: media, logistics
@@ -570,6 +592,7 @@ families:
       generation: 2
       role: chairman
   bronfman:
+    tagline: Da bootlegger del proibizionismo a impero dei liquori, media e filantropia ebraica globale
     origin: CAN
     founder: samuel-bronfman
     sector: liquor-media-philanthropy
@@ -611,6 +634,7 @@ families:
       generation: 5
       role: heir
   bush:
+    tagline: La dinastia politica americana — da Wall Street alla Casa Bianca per quattro generazioni
     origin: USA
     founder: Prescott Bush
     sector: finanza-politica
@@ -638,6 +662,7 @@ families:
     sector: construction, media, finance
     status: active
   caproni:
+    tagline: 'Pionieri dell''aviazione italiana: dall''impero aeronautico al museo della memoria'
     origin: ITA
     founder: gianni-caproni
     sector: aviation
@@ -656,7 +681,30 @@ families:
     - person: federico-caproni
       generation: 1
       role: member
+  caracciolo:
+    tagline: Aristocrazia napoletana che ha costruito il piu' grande gruppo editoriale italiano e si e' fusa con la dinastia
+      Agnelli
+    origin: Naples, Italy
+    founder: filippo-caracciolo
+    sector: media, aristocracy, diplomacy
+    status: active
+    members:
+    - person: maria-beatrice-caracciolo
+    - person: filippo-caracciolo
+      generation: 7
+      role: patriarch
+    - person: carlo-caracciolo
+      generation: 8
+      role: heir
+    - person: marella-caracciolo-agnelli
+      generation: 8
+    - person: nicola-caracciolo
+      generation: 8
+    - person: jacaranda-caracciolo
+      generation: 9
   chearavanont:
+    tagline: 'Da negozio di semi a Bangkok nel 1921 al piu'' grande conglomerato privato del Sud-Est asiatico: la dinastia
+      sino-thailandese che fu il primo investitore straniero nella Cina di Deng Xiaoping.'
     origin: Thailand/China
     founder: chia-ek-chor
     sector: conglomerate, agribusiness, telecom
@@ -676,6 +724,8 @@ families:
       generation: 3
       role: ceo
   chirathivat:
+    tagline: 'Da bottega di libri a impero del lusso globale: la dinastia sino-thailandese che ha portato Selfridges, La Rinascente
+      e KaDeWe sotto un unico tetto familiare.'
     origin: Thailand
     founder: tiang-chirathivat
     sector: retail
@@ -700,6 +750,7 @@ families:
       generation: 3
       role: chairman
   clinton:
+    tagline: La dinastia politica democratica — da Hope, Arkansas alla Casa Bianca, al Dipartimento di Stato
     origin: USA
     founder: bill-clinton
     sector: politica
@@ -719,6 +770,7 @@ families:
       generation: 2
       role: heir
   dassault:
+    tagline: 'Da Buchenwald a impero aeronautico: difesa, software e media'
     origin: France
     founder: marcel-dassault
     sector: defense, aviation, software, media
@@ -745,6 +797,8 @@ families:
     members:
     - person: frederic-de-mevius
   de-pahlen:
+    tagline: Nobiltà baltico-tedesca con 700 anni di storia. Conti dell'Impero Russo. Emigrati bianchi post-1917. Oggi legati
+      agli Agnelli via matrimonio Margherita-Serge.
     origin: Baltic German (Estonia/Livonia)
     founder: johannes-de-pala
     sector: nobility, military, publishing
@@ -776,6 +830,7 @@ families:
       generation: 1
       role: heir
   de-spoelberch:
+    tagline: Dinastia nobile belga, pilastro del potere birrario globale attraverso AB InBev
     origin: Belgium
     founder: willem-spoelberch
     sector: brewing, investment
@@ -809,6 +864,7 @@ families:
       generation: 1
       role: founder
   desmarais:
+    tagline: La dinastia finanziaria piu' influente del Canada, ponte tra Nord America ed Europa attraverso Power Corporation.
     origin: CAN
     founder: paul-desmarais-sr
     sector: finance-media
@@ -825,6 +881,7 @@ families:
       generation: 2
       role: heir
   dupont:
+    tagline: La dinastia chimica che costrui' l'America industriale - dalla polvere da sparo al nylon
     origin: FRA/USA
     founder: pierre-samuel-dupont
     sector: chemicals
@@ -852,6 +909,8 @@ families:
       generation: 6
       role: governor-delaware
   elkann:
+    tagline: 'Dinastia ebraica franco-italiana. Attraverso il matrimonio con gli Agnelli, controlla l''impero Exor: Ferrari,
+      Stellantis, Juventus, The Economist.'
     origin: FRA-ITA
     founder: jean-paul-elkann
     sector: finance-media
@@ -876,6 +935,7 @@ families:
       generation: 2
       role: heir
   ellison:
+    tagline: 'Da Oracle a Hollywood: la dinastia tech che sta ridisegnando il panorama media americano'
     origin: USA
     sector: tech, media
     status: active
@@ -904,6 +964,7 @@ families:
     - person: daniel-federmann
       generation: 3
   ferrari:
+    tagline: Il mito automobilistico italiano, da Enzo agli Agnelli
     origin: ITA
     founder: enzo-ferrari
     sector: automotive
@@ -920,6 +981,7 @@ families:
       generation: 2
       role: heir
   ferrero:
+    tagline: 'Dalla bottega di Alba all''impero globale: tre generazioni di cioccolato e riservatezza'
     origin: ITA
     founder: pietro-ferrero
     sector: confectionery
@@ -960,6 +1022,7 @@ families:
       generation: 4
       role: chairman
   frangieh-family:
+    tagline: 'Dinastia maronita del Nord: presidenti, milizia Marada, alleati storici della Siria'
     origin: Zgharta, Lebanon
     founder: Suleiman Frangieh Sr.
     sector: politics
@@ -979,6 +1042,7 @@ families:
       generation: 4
       role: member
   frank:
+    tagline: 'Dinastia messianica eretica: dal Frankismo alla nobilta'' polacca'
     origin: POL
     founder: jacob-frank
     sector: religion
@@ -991,6 +1055,7 @@ families:
       generation: 2
       role: heir
   gemayel-family:
+    tagline: 'Dinastia maronita: fondatori del Kataeb, tre presidenti, "i Kennedy del Libano'
     origin: Bikfaya, Lebanon
     founder: Pierre Gemayel
     sector: politics
@@ -1016,6 +1081,7 @@ families:
       generation: 3
       role: member
   getty:
+    tagline: 'Dall''oro nero al dominio dell''immagine: tre generazioni di petrolio, arte e media'
     origin: USA
     founder: j-paul-getty
     sector: oil, finance, art, media
@@ -1034,6 +1100,9 @@ families:
       generation: 3
       role: heir
   greece-royal:
+    tagline: Dinastia danese trapiantata in Grecia nel 1863, nodo di connessione tra tutte le case reali europee, esiliata
+      dal 1967 e abolita nel 1974. Il ramo greco ha prodotto il Principe Filippo di Edimburgo e mantiene legami con Windsor,
+      Borbon, e le dinastie finanziarie Miller-Getty-von Furstenberg.
     origin: GRC
     founder: george-i-greece
     sector: monarchy
@@ -1082,6 +1151,7 @@ families:
     - person: karl-von-habsburg
       role: head
   hancock-rinehart:
+    tagline: 'Dinastia mineraria del Pilbara: dall''amianto di Wittenoom all''iron ore, il potere privato piu'' grande d''Australia'
     origin: AUS
     founder: lang-hancock
     sector: mining
@@ -1106,6 +1176,7 @@ families:
       generation: 3
       role: heir
   hariri-family:
+    tagline: 'Dinastia politico-economica sunnita: costruzioni, banche, media, primo ministri'
     origin: Saida, Lebanon
     founder: Rafic Hariri
     sector: construction, politics, media
@@ -1126,6 +1197,8 @@ families:
       generation: 2
       role: heir
   hartono:
+    tagline: 'Da una fabbrica di sigarette a Kudus alla piu'' grande fortuna del Sud-Est Asiatico: come due fratelli sino-indonesiani
+      hanno trasformato il tabacco in un impero bancario-tech da $50 miliardi.'
     origin: Indonesia
     founder: oei-wie-gwan
     sector: tobacco, banking, tech
@@ -1150,6 +1223,8 @@ families:
     - person: martin-hartono
       generation: 3
   hayek:
+    tagline: 'Da Beirut a Biel: la dinastia libanese-svizzera che salvo'' l''industria orologiera elvetica e costrui'' l''impero
+      Swatch.'
     origin: LBN-CHE
     founder: nicolas-hayek-sr
     sector: watches
@@ -1180,6 +1255,7 @@ families:
       generation: 4
       role: heir
   herzog:
+    tagline: 'Dinastia politico-religiosa israeliana: tre generazioni dal Gran Rabbinato alla Presidenza'
     origin: POL-IRL-ISR
     founder: yitzhak-halevi-herzog
     sector: politics
@@ -1197,6 +1273,8 @@ families:
     - person: yaakov-herzog
       generation: 2
   hinduja:
+    tagline: 'Quattro corpi, un''anima sola": la dinastia Sindhi che dall''Iran alla City di Londra ha costruito un impero
+      da £35 miliardi.'
     origin: IND
     founder: parmanand-hinduja
     sector: conglomerate
@@ -1223,6 +1301,8 @@ families:
     - person: shom-hinduja
       generation: 3
   hoffmann-la-roche:
+    tagline: 'La dinastia farmaceutica più ricca della Svizzera: controllo familiare su Roche dal 1896, potere invisibile
+      attraverso pool azionario e filantropia strategica.'
     origin: CHE
     founder: fritz-hoffmann-la-roche
     sector: pharma
@@ -1260,6 +1340,7 @@ families:
       generation: 2
       role: heir
   janssen:
+    tagline: Dinastia farmaceutica belga, inventori di fentanyl e haloperidol, venduta a Johnson & Johnson
     origin: Belgium
     founder: constant-janssen
     sector: pharmaceuticals
@@ -1309,6 +1390,7 @@ families:
       generation: 3
       role: heir
   jumblatt-family:
+    tagline: 'Dinastia feudale drusa dal XVII secolo: da signori del Chouf a kingmaker della politica libanese'
     origin: Chouf, Lebanon
     founder: kamal-jumblatt
     sector: politics
@@ -1348,6 +1430,7 @@ families:
       generation: 1
       role: founder
   karamanlis:
+    tagline: Dinastia conservatrice greca, fondatori di New Democracy, architetti dell'integrazione europea
     origin: Greece, Macedonia (Serres)
     founder: konstantinos-karamanlis-sr
     sector: politics
@@ -1362,6 +1445,7 @@ families:
       generation: 2
       role: heir
   kennedy:
+    tagline: 'Dinastia politica americana: da immigrati irlandesi alla Casa Bianca in tre generazioni'
     origin: USA
     founder: patrick-kennedy
     sector: politics
@@ -1395,6 +1479,8 @@ families:
       generation: 5
       role: heir
   keswick:
+    tagline: 'La dinastia scozzese che ha ereditato l''impero dell''oppio: cinque generazioni di Taipan a capo di Jardine
+      Matheson.'
     origin: Scotland
     founder: thomas-keswick
     sector: trade, conglomerate
@@ -1432,6 +1518,7 @@ families:
       generation: 1
       role: co-founder (brother)
   koc:
+    tagline: La famiglia piu' ricca della Turchia, controlla il 7% del PIL nazionale attraverso Koc Holding
     origin: TUR
     founder: vehbi-koc
     sector: conglomerate-automotive-energy
@@ -1468,6 +1555,7 @@ families:
       generation: 3
       role: heir
   koch:
+    tagline: Dinastia industriale del Kansas, architetti del piu' potente network politico libertario americano
     origin: USA
     founder: Fred Koch
     sector: energy, chemicals
@@ -1492,6 +1580,7 @@ families:
       generation: 2
       role: patron-arts
   kuhne:
+    tagline: Dinastia della logistica globale costruita sui beni confiscati agli ebrei
     origin: Germany
     founder: august-kuhne
     sector: logistics
@@ -1512,6 +1601,8 @@ families:
       generation: 2
       role: partner
   kushner:
+    tagline: 'Da sopravvissuti all''Olocausto in Bielorussia a dinastia immobiliare e politica americana: tre generazioni
+      di potere tra real estate, finanza, Chabad-Lubavitch e Casa Bianca.'
     origin: USA
     founder: joseph-kushner
     sector: real estate, finance
@@ -1553,6 +1644,8 @@ families:
     - person: kevin-warsh
       role: heir
   lee-samsung:
+    tagline: La dinastia che controlla il piu' grande chaebol coreano con solo il 4.4% delle azioni ma il 31% dei diritti
+      di voto
     origin: South Korea
     founder: lee-byung-chul
     sector: conglomerate
@@ -1577,6 +1670,7 @@ families:
       generation: 3
       role: member
   lee-singapore:
+    tagline: 'Dinastia fondatrice di Singapore: controllo totale su stato, finanze sovrane e economia'
     origin: Singapore
     founder: lee-kuan-yew
     sector: politics, finance, state control
@@ -1621,6 +1715,7 @@ families:
     - person: youssef-mansour
       generation: 2
   marinho:
+    tagline: Dinastia mediatica che controlla il piu' grande impero di comunicazione dell'America Latina
     origin: Brazil
     founder: irineu-marinho
     sector: media
@@ -1669,6 +1764,7 @@ families:
       generation: 4
       role: heir
   mikati-family:
+    tagline: 'La famiglia più ricca del Libano: telecomunicazioni, M1 Group, primo ministro'
     origin: Tripoli, Lebanon
     founder: Najib Mikati Sr.
     sector: telecom, investment
@@ -1687,6 +1783,7 @@ families:
       generation: 2
       role: heir
   mitsotakis:
+    tagline: Dinastia politica greca con radici nella lotta per l'indipendenza cretese, legata per sangue a Eleftherios Venizelos
     origin: Greece, Crete
     founder: kostis-mitsotakis
     sector: politics
@@ -1749,6 +1846,7 @@ families:
       generation: 3
       role: heir
   morgan:
+    tagline: La dinastia che costrui' Wall Street — e poi scomparve dentro le istituzioni che aveva creato
     origin: USA
     founder: Junius Spencer Morgan
     sector: banca
@@ -1768,6 +1866,7 @@ families:
       generation: 4
       role: founder-morgan-stanley
   motsepe:
+    tagline: 'Dal Black Economic Empowerment al potere globale: mining, sport e politica'
     origin: South Africa
     founder: patrice-motsepe
     sector: mining, sport, finance
@@ -1787,6 +1886,7 @@ families:
       generation: 1
       role: member
   murdoch:
+    tagline: La dinastia mediatica che plasma l'opinione pubblica conservatrice nel mondo anglofono
     origin: Australia
     founder: Keith Murdoch
     sector: media
@@ -1812,6 +1912,8 @@ families:
       generation: 3
       role: excluded
   nasi:
+    tagline: Ramo collaterale degli Agnelli dal 1907. Nobiltà piemontese sposata nella dinastia Fiat. Detiene ~21% di Giovanni
+      Agnelli B.V., la cassaforte che controlla Exor.
     origin: ITA
     founder: carlo-nasi
     sector: automotive-holdings
@@ -1833,6 +1935,8 @@ families:
       generation: 3
       role: heir
   nassau-weilburg:
+    tagline: 'La casa granducale del Lussemburgo: dal 1890 sul trono del piu'' piccolo granducato d''Europa, sopravvissuta
+      a due guerre mondiali'
     origin: Luxembourg
     founder: adolphe-nassau
     sector: monarchy
@@ -1853,6 +1957,7 @@ families:
       generation: 3
       role: Grand Duchess 1919-1964
   niarchos:
+    tagline: Dinastia shipping greca, rivali storici degli Onassis, oggi potenza filantropica globale
     origin: Greece, Laconia (Vamvakou)
     founder: stavros-niarchos
     sector: shipping
@@ -1880,6 +1985,7 @@ families:
       generation: 5
       role: publisher
   ofer:
+    tagline: 'Dinastia dello shipping israeliano: dalla Romania al dominio dei mari globali'
     origin: Israel
     founder: sammy-ofer
     sector: shipping, real estate, chemicals
@@ -1904,6 +2010,7 @@ families:
     status: active
     note: Fortuna $15B+. Olayan Group. Prima donna in board saudita (Lubna Olayan 2004).
   onassis:
+    tagline: Dinastia shipping greca, dal nulla alla vetta della ricchezza mondiale, icona del jet set
     origin: Greece/Turkey (Smyrna)
     founder: aristotle-onassis
     sector: shipping
@@ -1921,6 +2028,7 @@ families:
       generation: 3
       role: heir
   oppenheimer:
+    tagline: Dinastia che ha controllato il mercato mondiale dei diamanti per quasi un secolo
     origin: South Africa
     founder: ernest-oppenheimer
     sector: diamonds, mining, finance
@@ -1940,6 +2048,7 @@ families:
       generation: 4
       role: heir
   orange-nassau:
+    tagline: 'La casa reale olandese: 500 anni di potere, dal colonialismo alla fondazione di Bilderberg'
     origin: Netherlands/Germany
     founder: william-i-silent
     sector: monarchy
@@ -1977,6 +2086,8 @@ families:
       generation: 2
       role: heir
   pahlavi:
+    tagline: 'Dinastia imperiale iraniana 1925-1979: da ufficiale cosacco a Shahanshah, dalla modernizzazione autoritaria
+      all''esilio perpetuo.'
     origin: IRN
     founder: reza-shah-pahlavi
     sector: monarchy
@@ -2016,6 +2127,8 @@ families:
     - person: farah-pahlavi-jr
       generation: 4
   pangestu:
+    tagline: Da raccoglitori di gomma nel Kalimantan a dinastia energetica piu' ricca del Sud-Est asiatico. Il potere costruito
+      su legname e cronyism Suharto, consolidato in petrolchimica ed energia rinnovabile.
     origin: IDN
     founder: prajogo-pangestu
     sector: energy, petrochemicals, forestry
@@ -2032,6 +2145,7 @@ families:
     - person: baritono-pangestu
       generation: 2
   papandreou:
+    tagline: Dinastia socialista greca con tre generazioni di Primi Ministri, fondatori del PASOK
     origin: Greece, Achaea
     founder: georgios-papandreou-sr
     sector: politics
@@ -2076,6 +2190,7 @@ families:
       generation: 1
       role: founder
   peugeot:
+    tagline: 7 generazioni dall'acciaio all'automotive globale
     origin: France
     founder: Armand Peugeot
     sector: automotive
@@ -2098,6 +2213,8 @@ families:
       generation: 2
       role: heir
   philips:
+    tagline: Dinastia industriale olandese di origini ebraiche, fondatrice della Philips Electronics. Legame familiare con
+      Karl Marx tramite i Pressburg.
     origin: NLD
     founder: lion-philips
     sector: industry
@@ -2127,6 +2244,7 @@ families:
     generations: 4
     status: disconnected
   pinault:
+    tagline: Da commercianti di legname a magnati del lusso globale
     origin: France
     founder: francois-pinault
     sector: luxury
@@ -2140,6 +2258,7 @@ families:
     - person: francois-henri-pinault
       generation: 2
   pininfarina:
+    tagline: Design house che ha definito l'estetica dell'automobile sportiva italiana per quasi un secolo
     origin: ITA
     founder: battista-pininfarina
     sector: automotive-design
@@ -2159,6 +2278,8 @@ families:
       generation: 3
       role: heir
   podhoretz:
+    tagline: 'Dinastia intellettuale neoconservatrice: tre generazioni di editor, scrittori e consiglieri politici — da Commentary
+      Magazine alla Casa Bianca, il neoconservatorismo come impresa familiare.'
     origin: USA
     founder: norman-podhoretz
     sector: media
@@ -2223,6 +2344,7 @@ families:
       generation: 3
       role: heir
   redstone:
+    tagline: 'Da drive-in di Boston a impero media globale: tre generazioni di controllo su Viacom-CBS-Paramount'
     origin: USA
     founder: michael-redstone
     sector: media
@@ -2258,6 +2380,7 @@ families:
       generation: 2
       role: heir
   rockefeller:
+    tagline: La dinastia che trasformo' petrolio in potere istituzionale — da Standard Oil alla governance globale
     origin: USA
     founder: John D. Rockefeller Sr.
     sector: petrolio
@@ -2286,6 +2409,9 @@ families:
     - person: david-rockefeller-jr
       generation: 4
   rohr:
+    tagline: 'La dinastia filantropica che ha finanziato l''espansione globale di Chabad-Lubavitch: $250M+ donati dal fondatore
+      Sami, proseguiti dal figlio George e dal genero Moris attraverso NCH Capital ($3B+ AUM) e il finanziamento di 950+ campus
+      Chabad nel mondo.'
     origin: DEU
     founder: sami-rohr
     sector: real estate, philanthropy
@@ -2311,6 +2437,7 @@ families:
       generation: 4
       role: chairman
   rothschild:
+    tagline: La dinastia bancaria che finanzio' nazioni e impero — dal ghetto di Francoforte alla finanza globale
     origin: Germania
     founder: Mayer Amschel Rothschild
     sector: banca
@@ -2448,6 +2575,7 @@ families:
     - person: emma-rothschild
       generation: 6
   rupert:
+    tagline: 'Dal tabacco al lusso: l''impero Rembrandt-Richemont'
     origin: South Africa
     founder: anton-rupert
     sector: tobacco, luxury, investment
@@ -2483,6 +2611,8 @@ families:
       generation: 1
       role: founder
   salim:
+    tagline: 'Da crony di Suharto a impero alimentare globale: la caduta e rinascita della dinastia che ha perso BCA e ricostruito
+      attraverso Indofood e l''espansione nelle Filippine.'
     origin: Indonesia
     founder: sudono-salim
     sector: food, banking (ex), telecom, infrastructure
@@ -2519,6 +2649,7 @@ families:
     - person: naguib-sawiris
       generation: 2
   saxe-coburg-gotha:
+    tagline: 'La dinastia che forni'' re a quattro nazioni europee: Belgio, Regno Unito, Portogallo, Bulgaria'
     origin: Germany
     founder: leopold-i-belgium
     sector: royalty
@@ -2589,6 +2720,8 @@ families:
       generation: 2
       role: son of Jiang Zemin
   shinawatra:
+    tagline: 'Dinastia politico-imprenditoriale thai di origine Hakka: quattro primi ministri, un impero telecom, tre colpi
+      di stato.'
     origin: Thailand
     founder: thaksin-shinawatra
     sector: telecommunications, politics
@@ -2605,6 +2738,8 @@ families:
       generation: 2
       role: member
   sirivadhanabhakdi:
+    tagline: 'Da venditore ambulante in Chinatown al monopolio degli alcolici: la dinastia che ha sfidato Carlsberg, conquistato
+      Singapore e costruito il piu'' grande impero immobiliare thailandese.'
     origin: Thailand
     founder: charoen-sirivadhanabhakdi
     sector: beverages
@@ -2625,6 +2760,7 @@ families:
     - person: carlos-slim
       generation: 2
   solvay:
+    tagline: Dinastia chimica belga, dalle soluzioni industriali alle Conferenze Solvay con Einstein
     origin: Belgium
     founder: ernest-solvay
     sector: chemicals, finance
@@ -2654,6 +2790,7 @@ families:
     - person: chatri-sophonpanich
       generation: 2
   steinmetz:
+    tagline: 'Dai diamanti al mining: l''ascesa e la caduta del "principe" israeliano delle risorse naturali'
     origin: Israel
     founder: rubin-steinmetz
     sector: diamonds, mining
@@ -2693,6 +2830,7 @@ families:
       generation: 4
       role: patriarch
   tata-family:
+    tagline: Il "Padre dell'Industria Indiana" - 156 anni di capitalismo filantropico
     origin: IND
     founder: jamsetji-tata
     sector: steel, textiles, hospitality, automotive, IT
@@ -2709,6 +2847,7 @@ families:
     - person: noel-tata
       generation: 4
   thomson:
+    tagline: Dinastia mediatica canadese che controlla Thomson Reuters, il piu' grande provider mondiale di informazioni finanziarie
     origin: CAN
     founder: roy-thomson
     sector: media
@@ -2769,6 +2908,7 @@ families:
     members:
     - person: alexandre-van-damme
   vanderbilt:
+    tagline: Da immigrati olandesi alla piu' grande fortuna americana — e poi la dissipazione in tre generazioni
     origin: USA
     founder: cornelius-vanderbilt
     sector: transport
@@ -2799,6 +2939,8 @@ families:
       generation: 6
       role: descendant
   von-furstenberg:
+    tagline: Antica casa principesca tedesca, rinnovata nel XX secolo dal matrimonio con gli Agnelli e dall'impero fashion-media
+      Diller-DVF
     origin: DEU
     founder: egino-ii-urach
     sector: nobility
@@ -2819,6 +2961,7 @@ families:
     - person: sebastien-von-furstenberg
       role: heir
   wallenberg:
+    tagline: La dinastia che controlla un terzo dell'economia svedese dal 1856 - "Esse, non videri
     origin: Svezia
     founder: andre-oscar-wallenberg
     sector: banca-industria
@@ -2847,6 +2990,7 @@ families:
     - person: peter-wallenberg-jr
       generation: 5
   walton:
+    tagline: La famiglia piu' ricca del mondo — $432 miliardi da un discount store in Arkansas
     origin: USA
     founder: Sam Walton
     sector: retail
@@ -2871,6 +3015,7 @@ families:
     - person: lukas-walton
       generation: 3
   warburg:
+    tagline: La dinastia che porto' il sistema bancario europeo in America — architetti della Federal Reserve
     origin: Germania
     founder: Moses Marcus Warburg
     sector: banca
@@ -2898,6 +3043,7 @@ families:
       generation: 4
       role: founder-sg-warburg
   wertheimer:
+    tagline: Proprietari di Chanel, "fashion's quietest billionaires
     origin: France
     founder: pierre-wertheimer
     sector: luxury
@@ -2924,6 +3070,7 @@ families:
       generation: 2
       role: heir
   windsor:
+    tagline: La casa regnante britannica — monarchia costituzionale con soft power globale e connessioni ai network transnazionali
     origin: UK
     founder: George V
     sector: monarchia
@@ -2948,6 +3095,8 @@ families:
     - person: sarah-ferguson
       role: spouse
   yoovidhya:
+    tagline: 'Da venditore ambulante di farmaci a famiglia piu'' ricca della Thailandia: i creatori di Red Bull che hanno
+      trasformato un tonico per camionisti in un impero globale da 13 miliardi di lattine all''anno.'
     origin: Thailand
     founder: chaleo-yoovidhya
     sector: beverages, energy drinks

@@ -104,7 +104,8 @@ Focus su:
 MERGE (p:Person {id: 'nome-id'})
 SET p.name = 'Nome Completo',
     p.born = 1970,
-    p.nationality = 'ITA'  // Codice ISO 3166-1 alpha-3
+    p.nationality = 'ITA',  // Codice ISO 3166-1 alpha-3
+    p.tagline = 'Breve descrizione di una riga'
 ```
 
 **Education (solo Person):**
@@ -154,7 +155,8 @@ MERGE (o:Organization {id: 'nome-id'})
 SET o:Forum,  // o Bank, Company, ThinkTank, etc.
     o.founded = 1970,
     o.headquarters = 'City, Country',
-    o.status = 'active'
+    o.status = 'active',
+    o.tagline = 'Breve descrizione di una riga'
 ```
 
 **Affiliazione (Person → Organization):**
@@ -185,7 +187,8 @@ MERGE (f:Family {id: 'nome-id'})
 SET f.origin = 'USA',
     f.founder = 'person-id',
     f.sector = 'finance',
-    f.status = 'active'
+    f.status = 'active',
+    f.tagline = 'Breve descrizione di una riga'
 ```
 
 **Member of Family (Person → Family):**
@@ -212,7 +215,8 @@ SET r.type = 'mentor',
 MERGE (e:Event {id: 'nome-id'})
 SET e.year = 2008,
     e.type = 'crisis',
-    e.location = 'USA'
+    e.location = 'USA',
+    e.tagline = 'Breve descrizione di una riga'
 ```
 
 **Participated in Event (Person → Event):**
@@ -241,7 +245,8 @@ SET g:Government,
     g.founded = 1948,
     g.headquarters = 'City, Country',
     g.system = 'republic',  // monarchy, republic, etc.
-    g.status = 'active'
+    g.status = 'active',
+    g.tagline = 'Breve descrizione di una riga'
 ```
 
 Per i governi, cerca e documenta:

@@ -535,3 +535,7 @@ validation:
     - id
     - year
     - type
+
+  # Optional fields (all node types)
+  optional_common_fields:
+    - tagline     # One-line description; NULL = stub node, present = documented
