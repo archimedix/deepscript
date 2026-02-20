@@ -66,7 +66,7 @@ Figlia Marie (1963-2013) sposa Brandino Brandolini d'Adda (figlio di Cristiana A
 [v]james-de-rothschild-fr
 
 
-/add family caracciolo
+[v] family caracciolo
 /add famly Brandolini
 /add person Francois Perol
 
