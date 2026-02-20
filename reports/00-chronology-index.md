@@ -225,6 +225,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 1995 | Kristol fonda Weekly Standard (Murdoch) | [PNAC-FPI Report](pnac-fpi-neocon-network.md) |
 | 1997 | Fondazione PNAC (Kristol, Kagan) | [PNAC](../docs/think-tank/pnac.md) |
 | 1998 | Lettera PNAC a Clinton su Iraq | [PNAC-FPI Report](pnac-fpi-neocon-network.md) |
+| 1998 | Conio termine "open source" (Peterson), fondazione OSI (Raymond, Perens) | [Open Source Power](open-source-power.md) |
 | 1999 | Abolizione Glass-Steagall | [Link](../docs/events/1999-abolizione-glass-steagall.md) |
 
 ### Report
@@ -278,8 +279,16 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 2011 | Crisi debito sovrano | [Link](../docs/events/2011-crisi-debito-sovrano.md) |
 | 2012 | Secondo bailout Grecia (€130B, haircut 50%) | [Greece Power Map](greece-power-map.md) |
 | 2015 | Default greco FMI, referendum, terzo bailout (€86B) | [Greece Power Map](greece-power-map.md) |
+| 2016 | **Referendum Brexit**: Leave 51.9%, Cameron dimissioni | [Brexit Power Map](brexit-power-map.md) |
+| 2016 | Crispin Odey guadagna £220M shortando la sterlina nella notte del referendum | [Brexit Power Map](brexit-power-map.md) |
+| 2017 | Articolo 50 invocato, inizio negoziati UK-EU | [Brexit Power Map](brexit-power-map.md) |
 | 2017 | Chiusura FPI (post-Trump) | [FPI](../docs/think-tank/foreign-policy-initiative.md) |
 | 2017 | Morte Jacque Fresco (101 anni) | [Fresco](../docs/persons/jacque-fresco.md) |
+| 2018 | Microsoft acquisisce GitHub per $7.5B | [Open Source Power](open-source-power.md) |
+| 2019 | IBM acquisisce Red Hat per $34B (piu' grande acquisizione software) | [Open Source Power](open-source-power.md) |
+| 2019 | Stallman si dimette da FSF e MIT (controversia Epstein) | [Open Source Power](open-source-power.md) |
+| 2019 lug | Arresto federale Jeffrey Epstein, NYC | [Epstein Network](epstein-network-2026.md) |
+| 2019 ago | Morte Epstein in cella (MCC Manhattan) | [Epstein Network](epstein-network-2026.md) |
 | 2019 | Musk tweet: "Martian Technocracy" | [Technocracy Genealogy](technocracy-genealogy.md) |
 
 ### Report
@@ -305,14 +314,26 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 | Anno | Evento | Link |
 |------|--------|------|
+| 2020 gen | **UK lascia la UE** — fine di 47 anni di membership | [Brexit Power Map](brexit-power-map.md) |
+| 2020 dic | Trade and Cooperation Agreement (TCA) firmato | [Brexit Power Map](brexit-power-map.md) |
 | 2020 | Pandemia/Great Reset | [Link](../docs/events/2020-pandemia-great-reset.md) |
 | 2020 ago | Abraham Accords - UAE | [Accordi di Abramo](abraham-accords.md) |
 | 2020 set | Abraham Accords - Bahrain, Kosovo/Serbia | [Accordi di Abramo](abraham-accords.md) |
 | 2020 ott | Abraham Accords - Sudan | [Accordi di Abramo](abraham-accords.md) |
 | 2020 dic | Abraham Accords - Marocco | [Accordi di Abramo](abraham-accords.md) |
 | 2023 ott | Attacco Hamas, freeze normalizzazione saudita | [Accordi di Abramo](abraham-accords.md) |
+| 2023 | Windsor Framework (Sunak-von der Leyen) risolve crisi NI Protocol | [Brexit Power Map](brexit-power-map.md) |
+| 2024 mar | Backdoor XZ Utils scoperta (CVE-2024-3094, CVSS 10.0) | [Open Source Power](open-source-power.md) |
+| 2024 apr | IBM acquisisce HashiCorp per $6.4B | [Open Source Power](open-source-power.md) |
+| 2024 set | Mullenweg blocca WP Engine da WordPress.org | [Open Source Power](open-source-power.md) |
 | 2024 | Lancio DOGE (Musk) - paralleli con Technocracy Inc. | [Technocracy Genealogy](technocracy-genealogy.md) |
+| 2025 mag | Primo UK-EU Summit sotto Starmer — reset relazioni | [Brexit Power Map](brexit-power-map.md) |
+| 2025 nov | Epstein Files Transparency Act firmato da Trump (PL 119-38) | [Epstein Network](epstein-network-2026.md) |
 | 2025 nov | Abraham Accords - Kazakhstan (Trump 2.0) | [Accordi di Abramo](abraham-accords.md) |
+| 2026 gen | DOJ rilascia 3.5M pagine Epstein files | [Epstein Network](epstein-network-2026.md) |
+| 2026 feb | Crisi norvegese: Rod-Larsen, Juul, Jagland incriminati per corruzione | [Epstein Network](epstein-network-2026.md) |
+| 2026 feb | WEF apre indagine su CEO Brende per legami Epstein | [Epstein Network](epstein-network-2026.md) |
+| 2026 feb | Peter Mandelson dimesso da Labour/Lords, indagine Met Police | [Epstein Network](epstein-network-2026.md) |
 
 ### Report
 
@@ -323,6 +344,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md) | Investimenti Golfo USA |
 | [Gulf-Europe Pipeline](gulf-europe-pipeline-media.md) | Petroldollari in sport, media, infrastrutture EU |
 | [Media Power](media-power.md) | Controllo media |
+| [Open Source Power](open-source-power.md) | GNU, Linux Foundation, corporate capture, licensing wars (1983-2026) |
 | [Sport Geopolitics](sport-geopolitics.md) | Sport e soft power |
 | [Korea Power Map](korea-power-map.md) | Corea del Sud |
 | [Automotive Global Power Map](automotive-global-power-map.md) | 14 gruppi, 7 dinastie |

@@ -180,22 +180,65 @@
 | **Creo' il virus** | Falso, no evidenza |
 | **Event 201** | Simulazione pre-COVID, non complotto |
 
-### Jeffrey Epstein
+### Jeffrey Epstein — Documenti DOJ (rilasciati gennaio 2026)
 
-| Aspetto | Dettaglio |
-|---------|-----------|
-| **Incontri** | Gates ammette incontri multipli |
-| **Periodo** | Dopo condanna 2008 di Epstein |
-| **Spiegazione** | "Errore di giudizio" |
-| **Conseguenze** | Contribui' al divorzio? |
+I file Epstein rilasciati dal DOJ nel gennaio 2026 documentano una relazione piu' profonda e strutturale di quanto Gates abbia ammesso pubblicamente.
+
+#### Lettera di accordo (agosto 2013)
+
+Una lettera datata 8 agosto 2013 indirizzata a "William H. Gates" stabilisce che Gates ha **specificamente chiesto** che Epstein svolgesse il ruolo di rappresentante di Boris Nikolic in trattative finanziarie. Gates riconosce la "relazione collegiale esistente" con Epstein, conferma che questi aveva gia' ricevuto informazioni confidenziali/proprietarie, rinuncia ai conflitti di interesse e offre indennizzo. Cinque anni dopo la condanna del 2008.
+
+**Fonte:** Lettera di accordo a William H. Gates, 8 agosto 2013.
+
+#### Architettura DAF tramite JPMorgan (2011-2017)
+
+| Data | Documento | Contenuto |
+|------|-----------|-----------|
+| **Feb 2011** | Email Juliet Pullis (JPM) a Epstein | JPMorgan chiede a Epstein di definire l'architettura di un fondo benefico legato a Gates |
+| **Lug 2011** | Email Epstein a Jes Staley, cc Boris Nikolic | Struttura DAF con "braccio offshore — specialmente per i vaccini"; scala prevista $100B in 2 anni |
+| **Ago 2011** | Email Epstein a Mary Erdoes (JPM) | Epstein descrive lo stato emotivo di Gates, insiste che la presentazione includa "denaro aggiuntivo per i vaccini" |
+| **Set 2013** | Briefing Gates Foundation | Lancio Global Health Investment Fund — rendimenti 5-7% su farmaci/vaccini, garanzia 60% del capitale |
+| **Mag 2017** | Email Epstein-Gates-Nikolic | DAF come "contrappeso" ai tagli pubblici; Nikolic indica "pandemia" come area chiave permanente |
+
+**Fonti:** EFTA00697005, invito calendario "Incontro Billg con Jeffrey Epstein (Boris)" campus BMGF luglio 2011.
+
+#### Thread iMessage (gennaio 2017)
+
+Un thread dal telefono di Epstein (20-23 gennaio 2017, EFTA01617419-27) mostra un associato che:
+- Elenca "pandemie (ho appena fatto la simulazione della pandemia)" come qualifica professionale
+- Discute collocamento nell'ufficio di Gates (bgC3), in Biomatics Capital (Nikolic), nel team vaccinale Merck, in prodotti riassicurazione pandemica Swiss Re
+- Propone i vaccini come "gancio" per accedere a Gates
+- Epstein offre di mediare incontri tra Gates e Bannon, Thiel, Barrack (21 gen 2017, giorno dopo inaugurazione Trump)
+
+#### Documento bgC3 (marzo 2017)
+
+Email "bgC3 Deliverables and Scope" inoltrata a Epstein elenca tra i deliverable dell'ufficio privato di Gates: "simulazione della pandemia di ceppo", neurotecnologie, difesa nazionale. La visibilita' di Epstein sulla pianificazione strategica di Gates e' documentata fino al 2017.
+
+#### Cena settembre 2013
+
+Registri di programmazione dell'ufficio Epstein (Lesley Groff, "Aggiornamento sulla cena Gates") documentano una cena presso la residenza di Epstein a cui partecipano Bill e Melinda Gates, Terje Rod-Larsen (presidente IPI) e Thorbjorn Jagland (segr. gen. Consiglio d'Europa).
+
+#### Rete di preparazione pandemica
+
+| Data | Evento |
+|------|--------|
+| **Mar 2015** | Gates Foundation (Amy K. Carter) scrive a Rod-Larsen (IPI) su convocazione preparazione pandemica |
+| **Giu 2015** | Epstein inoltra a Rod-Larsen articolo Vox su Gates e pandemia influenzale |
+| **Gen 2017** | Thread iMessage: simulazione pandemica come qualifica carriera |
+| **Mar 2017** | Documento bgC3: "simulazione pandemia di ceppo" come deliverable |
+| **Ott 2019** | Event 201: simulazione pandemica co-organizzata da Gates Foundation, Johns Hopkins, WEF |
+
+#### Reazione pubblica (2026)
+
+Gates dichiara di aver avuto cene con Epstein sperando in miliardi per la filantropia in salute globale, ma "quando e' risultato che non fosse una cosa reale, la relazione e' finita." Definisce gli incontri un "errore di giudizio." Melinda French Gates dichiara a NPR che Bill ha domande a cui rispondere, e che i dettagli hanno riportato alla memoria tempi dolorosi. Gates cancella il keynote all'India AI Summit (febbraio 2026) sotto pressione per i file Epstein.
 
 ### Divorzio
 
 | Anno | Evento |
 |------|--------|
-| **2021** | Annuncio divorzio dopo 27 anni |
-| **2024** | Melinda lascia fondazione |
-| **Effetto** | Riorganizzazione governance |
+| **2021** | Annuncio divorzio dopo 27 anni; Melinda conferma che la relazione Gates-Epstein e' stato uno dei fattori |
+| **2024** | Melinda lascia fondazione (giugno), rinominata "Gates Foundation" |
+| **Effetto** | Riorganizzazione governance fondazione |
 
 ---
 
@@ -247,10 +290,16 @@
 | **2000** | Lascia CEO Microsoft |
 | **2006** | Buffett dona $30B+ |
 | **2008** | Lascia gestione quotidiana Microsoft |
+| **2011** | Epstein architetta DAF legato a Gates tramite JPMorgan |
+| **2013** | Lettera di accordo: Gates chiede a Epstein di rappresentare Nikolic |
+| **2013** | Cena a casa Epstein con Melinda, Rod-Larsen, Jagland |
+| **2017** | Documento bgC3 "simulazione pandemia di ceppo" inoltrato a Epstein |
+| **2019** | Event 201: simulazione pandemica co-organizzata da Gates Foundation |
 | **2020** | Lascia board Microsoft |
-| **2021** | Divorzio da Melinda |
+| **2021** | Divorzio da Melinda (relazione Epstein tra i fattori) |
 | **2024** | Melinda lascia fondazione |
 | **2025** | Annuncia donazione 99% patrimonio |
+| **2026** | Rilascio file Epstein DOJ; cancella keynote India AI Summit |
 
 ---
 
@@ -264,11 +313,27 @@
 
 ## Fonti
 
+### Biografie
 - [Wikipedia - Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates)
-- [Gates Foundation - Our Story](https://www.gatesfoundation.org/about/our-story)
 - [Britannica - Bill Gates](https://www.britannica.com/money/Bill-Gates)
 - [Forbes - Bill Gates](https://www.forbes.com/profile/bill-gates/)
 
+### Istituzioni
+- [Gates Foundation - Our Story](https://www.gatesfoundation.org/about/our-story)
+
+### Documenti Epstein (DOJ 2026)
+- Lettera di accordo a William H. Gates, 8 agosto 2013
+- Thread iMessage EFTA01617419-27 (gennaio 2017)
+- Email "bgC3 Deliverables and Scope" (marzo 2017)
+- Email Epstein-Gates-Nikolic EFTA00697005 (maggio 2017)
+- Registri Lesley Groff, cena Gates settembre 2013
+- Lettera Gates Foundation a IPI EFTA02713880 (marzo 2015)
+
+### Analisi
+- [NPR - Melinda French Gates reacts to Epstein files (2026)](https://www.npr.org/2026/02/03/nx-s1-5697080/melinda-french-gates-reacts-to-ex-husband-bill-gates-being-mentioned-in-epstein-files)
+- [CNN - Gates Epstein scrutiny (2026)](https://edition.cnn.com/2026/02/05/politics/kfile-gates-scrutiny-justice-department-documents)
+- [ABC News - Gates "I was foolish" (2026)](https://abcnews.com/US/foolish-bill-gates-denies-wrongdoing-after-latest-release/story?id=129845144)
+
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

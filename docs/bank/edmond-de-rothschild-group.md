@@ -215,6 +215,45 @@ I due gruppi sono **indipendenti** ma condividono:
 
 ---
 
+## Controversie: Il Caso Epstein
+
+### Accordo $25M con Southern Trust Company
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Data** | 5 ottobre 2015 |
+| **Parti** | Southern Trust Co. Inc. (Epstein, presidente) ↔ Edmond de Rothschild Holding S.A. (Ariane de Rothschild) |
+| **Importo** | $25 milioni |
+| **Oggetto** | "Risk analysis" e "application and use of certain algorithms" |
+| **Giurisdizione STC** | US Virgin Islands |
+| **Fonte** | DOJ files rilasciati febbraio 2026 |
+
+### Cronologia rapporto Epstein-EdR
+
+| Periodo | Evento |
+|---------|--------|
+| **2012-2013** | Prime email tra Epstein e Ariane de Rothschild |
+| **2013-2019** | Decine di corrispondenze e incontri documentati |
+| **2013** | Incontro Epstein-Ariane-Joshua Cooper Ramo nel townhouse NYC |
+| **2013** | Colazione Epstein-Ariane-Ehud Barak nel townhouse NYC |
+| **2015** | Firma accordo $25M STC-EdR Holding |
+| **2012-2016** | Epstein media tra Ariane e Ehud Barak per finanziamento startup "offensive cyber" israeliane |
+| **2012-2016** | Epstein media partnership Ariane-Boris Collardi (CEO Julius Baer) |
+| **2019** | Arresto Epstein; fine contatti documentati |
+| **2026** | Rilascio DOJ files che rivelano estensione del rapporto |
+
+### Posizione della banca
+
+La banca ha dichiarato che Epstein era un "conoscente d'affari" di Ariane dal 2013 al 2019, e che lei non aveva conoscenza delle condotte criminali di Epstein. I documenti DOJ non contengono evidenza di illeciti da parte della banca.
+
+### Implicazioni
+
+- Epstein come **intermediario operativo** tra finanza svizzera privata e apparato difesa israeliano
+- Ruolo nella mediazione della faida tra rami Rothschild (Edmond vs principale)
+- Connessione con network di cyber-sorveglianza israeliano (Ehud Barak, Carbyne)
+
+---
+
 ## Connessioni DeepScript
 
 ### Persone
@@ -224,6 +263,9 @@ I due gruppi sono **indipendenti** ma condividono:
 | [Edmond de Rothschild](../persons/edmond-de-rothschild.md) | Fondatore (1926-1997) |
 | [Benjamin de Rothschild](../persons/benjamin-de-rothschild.md) | Presidente 1997-2021 |
 | [Ariane de Rothschild](../persons/ariane-de-rothschild.md) | CEO 2023- |
+| [Jeffrey Epstein](../persons/jeffrey-epstein.md) | Accordo $25M STC-EdR 2015; intermediario cyber israeliano |
+| [Joshua Cooper Ramo](../persons/joshua-cooper-ramo.md) | Incontro con Ariane via Epstein |
+| [Ehud Barak](../persons/ehud-barak.md) | Connessione cyber offensivo via Epstein |
 
 ### Famiglia
 
@@ -255,6 +297,9 @@ I due gruppi sono **indipendenti** ma condividono:
 - [ ] Relazioni con altri rami Rothschild
 - [ ] Investimenti specifici in Italia
 - [ ] Partecipazioni in forum (WEF, etc.)
+- [ ] Dettagli accordo $25M: quali "algoritmi" e "risk analysis" esattamente?
+- [ ] Esito della mediazione Epstein tra rami Rothschild
+- [ ] Impatto DOJ files 2026 sulla reputazione del gruppo
 
 ---
 
@@ -280,6 +325,12 @@ I due gruppi sono **indipendenti** ma condividono:
 ### Archivi
 - [Rothschild Archive - Edmond de Rothschild Group](https://guide-to-the-archive.rothschildarchive.org/the-paris-banking-house/depts/the-paris-house-history/edmond-de-rothschild-group)
 
+### Epstein Files
+- [DropSite News - Epstein Pursued Swiss Rothschild Bank for Israeli Cyberweapons](https://www.dropsitenews.com/p/jeffrey-epstein-ariane-de-rothschild-ehud-barak-swiss-bank-israeli-cyberweapons)
+- [US News - Epstein Files Show Swiss Bank CEO Contact](https://www.usnews.com/news/politics/articles/2026-02-05/epstein-files-show-swiss-bank-ceo-de-rothschild-kept-up-years-long-personal-contact-with-financier)
+- [AA - Epstein $25M Agreement with Rothschild Group](https://www.aa.com.tr/en/americas/epstein-signed-25m-agreement-with-rothschild-group-in-2015-documents-show-/3816731)
+- [Jerusalem Post - Ariane de Rothschild Epstein Social Circle](https://www.jpost.com/international/article-885725)
+
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

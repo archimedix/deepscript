@@ -33,6 +33,9 @@
 |---------|-------|----------------|
 | **1997** | Inventore | Hashcash |
 | **1990s-2000s** | Ricercatore | Cryptography (indipendente) |
+| **~2000s** | Senior role | [Zero-Knowledge Systems](../companies/zero-knowledge-systems.md) |
+| **~2000s** | Security architect | [Microsoft](../company/microsoft.md) |
+| **~2000s** | Senior role | EMC / VMware |
 | **2014** | Co-fondatore | [Blockstream](../company/blockstream.md) |
 | **2016-oggi** | CEO | [Blockstream](../company/blockstream.md) |
 
@@ -106,7 +109,14 @@ Durante le "Crypto Wars", il governo USA classificava la crittografia come "muni
 
 ### Controversia Epstein
 
-Nel 2014, durante il seed round, Blockstream ricevette investimenti dal fondo di Joi Ito (MIT Media Lab), che includeva Jeffrey Epstein come limited partner. Back ha dichiarato che il fondo di Ito ha successivamente disinvestito le quote Blockstream.
+Nel 2014, durante il seed round, Blockstream ricevette investimenti dal fondo di Joi Ito, che includeva Jeffrey Epstein come limited partner (Kyara Investments III). Il fondo ha successivamente disinvestito le quote Blockstream.
+
+**Documenti DOJ (2026)**: Dai file Epstein rilasciati dal DOJ emergono ulteriori dettagli:
+- Epstein investi' ~$500K nel seed round, allocazione spinta da Reid Hoffman
+- In un'email del 19 aprile 2014, Epstein scrisse ad Amir Taaki di aver avuto "Andy Back" sulla sua isola quel weekend
+- Booking di viaggio confermano i nomi di Back e Austin Hill diretti a St. Thomas (isola vicina alla proprieta' di Epstein)
+- Back ha dichiarato che "Blockstream non ha connessioni finanziarie dirette o indirette con Jeffrey Epstein"
+- Peter Todd e altri early Bitcoin developer hanno chiesto le dimissioni di Back dopo le rivelazioni
 
 ### Prodotti Blockstream
 
@@ -167,6 +177,10 @@ Nei sondaggi 2024, Back riceve il 12% dei voti come possibile Satoshi (secondo d
 | [Satoshi Nakamoto](satoshi-nakamoto.md) | Corrispondenza email, citato nel whitepaper |
 | [Hal Finney](hal-finney.md) | Cypherpunk, RPOW basato su Hashcash |
 | [Nick Szabo](nick-szabo.md) | Cypherpunk collaborator |
+| [Austin Hill](austin-hill.md) | Co-fondatore Blockstream |
+| [Jeffrey Epstein](jeffrey-epstein.md) | Investitore seed Blockstream; presunta visita isola Apr 2014 |
+| [John Gilmore](john-gilmore.md) | Cypherpunks mailing list |
+| [Eric Hughes](eric-hughes.md) | Cypherpunks mailing list |
 | Pieter Wuille | Co-fondatore Blockstream |
 | Gregory Maxwell | Co-fondatore Blockstream |
 
@@ -191,12 +205,17 @@ Nei sondaggi 2024, Back riceve il 12% dei voti come possibile Satoshi (secondo d
 | [Satoshi Nakamoto](satoshi-nakamoto.md) | Corrispondenza, Hashcash citato |
 | [Hal Finney](hal-finney.md) | Cypherpunk, RPOW su Hashcash |
 | [Nick Szabo](nick-szabo.md) | Cypherpunk collaborator |
+| [Austin Hill](austin-hill.md) | Co-founder Blockstream |
+| [Jeffrey Epstein](jeffrey-epstein.md) | Investitore seed Blockstream |
+| [John Gilmore](john-gilmore.md) | Cypherpunks mailing list |
 
 ### Organizzazioni
 
 | Entita' | Connessione |
 |---------|-------------|
 | [University of Exeter](../university/exeter.md) | PhD 1996 |
+| [Zero-Knowledge Systems](../companies/zero-knowledge-systems.md) | Senior role |
+| [Microsoft](../company/microsoft.md) | Security architect |
 | [Blockstream](../company/blockstream.md) | Co-founder, CEO |
 
 ### Report
@@ -216,6 +235,7 @@ Nei sondaggi 2024, Back riceve il 12% dei voti come possibile Satoshi (secondo d
 | **1996** | PhD University of Exeter |
 | **1997** | Inventa Hashcash |
 | **2008** | Corrispondenza con Satoshi |
+| **2014 apr** | Epstein afferma di aver ospitato Back sulla sua isola |
 | **2014** | Co-fonda Blockstream |
 | **2016** | Diventa CEO di Blockstream |
 | **2021** | Blockstream raggiunge valuation $3.2B |
@@ -231,6 +251,12 @@ Nei sondaggi 2024, Back riceve il 12% dei voti come possibile Satoshi (secondo d
 
 ### Azienda
 - [Blockstream About](https://blockstream.com/about/)
+
+### Epstein Files
+- [The Block - Blockstream no financial links to Epstein](https://www.theblock.co/post/387956/blockstream-jeffrey-epstein-adam-back)
+- [Yahoo Finance - Epstein invested in Blockstream, invited Back to island](https://finance.yahoo.com/news/jeffrey-epstein-invested-bitcoin-firm-200734419.html)
+- [Decrypt - Epstein invested in Blockstream](https://decrypt.co/356672/jeffrey-epstein-invested-bitcoin-firm-blockstream-invited-adam-back-island)
+- [DL News - Back denies Epstein relationship](https://www.dlnews.com/articles/people-culture/blockstream-founder-denies-relationship-with-jeffrey-epstein/)
 
 ### Documenti Tecnici
 - [Hashcash Paper](http://www.hashcash.org/papers/hashcash.pdf)

@@ -169,8 +169,8 @@ La corte stabili' che non c'era violazione costituzionale perche' i passeggeri p
 | [Hal Finney](hal-finney.md) | Collega cypherpunk |
 | [Nick Szabo](nick-szabo.md) | Collega cypherpunk |
 | [Adam Back](adam-back.md) | Collega cypherpunk |
-| Mitch Kapor | Co-fondatore EFF |
-| John Perry Barlow | Co-fondatore EFF |
+| [Mitch Kapor](mitch-kapor.md) | Co-fondatore EFF |
+| [John Perry Barlow](john-perry-barlow.md) | Co-fondatore EFF |
 | Steve Wozniak | Board EFF |
 | Michael Tiemann | Co-fondatore Cygnus |
 

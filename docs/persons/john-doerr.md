@@ -18,8 +18,8 @@
 
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
-| **-** | Rice University | B.S. e M.S. Electrical Engineering |
-| **1976** | Harvard Business School | MBA |
+| **~1973** | [Rice University](../university/rice-university.md) | BS e MS Electrical Engineering |
+| **1976** | [Harvard Business School](../university/harvard.md) | MBA |
 
 ---
 
@@ -29,9 +29,11 @@
 
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
-| **1974-1980** | Sales, eventually top salesperson | Intel |
-| **1980-2016** | Partner | Kleiner Perkins |
-| **2016-** | Chairman | Kleiner Perkins |
+| **1974-1980** | Sales, top salesperson | [Intel](../company/intel.md) |
+| **1980-2016** | Partner | [Kleiner Perkins](../private-equity/kleiner-perkins.md) |
+| **~1981** | Founder | Silicon Compilers (VLSI CAD) |
+| **~1995** | Co-founder | @Home Network (broadband cable) |
+| **2016-oggi** | Chairman | [Kleiner Perkins](../private-equity/kleiner-perkins.md) |
 | **1996-2010** | Board member | Amazon |
 | **1999-** | Board member | Alphabet/Google |
 | **2009-2011** | Economic Recovery Advisory Board | Obama Administration |
@@ -102,8 +104,19 @@
 | [Jeff Bezos](jeff-bezos.md) | Early investor Amazon, board |
 | [Eric Schmidt](eric-schmidt.md) | Helped recruit to Google |
 | [Barack Obama](barack-obama.md) | Economic advisor, foundation board |
+| [Vinod Khosla](vinod-khosla.md) | Colleague at Kleiner Perkins, Sun investor |
+| [Bill Joy](bill-joy.md) | Kleiner Perkins partner, Sun co-founder |
+| [Al Gore](al-gore.md) | Kleiner Perkins partner, climate advocacy |
+| [Scott McNealy](scott-mcnealy.md) | Sun Microsystems CEO, board relationship |
+| [Reed Hastings](reed-hastings.md) | Collaborator, education (Prop 39), Silicon Valley VC network |
 | Andrew Grove | Mentor at Intel |
 | Bill Campbell | Colleague at Intuit |
+
+### Forum e Think Tank
+
+| Forum | Partecipazione |
+|-------|----------------|
+| **[Aspen Institute](../think-tank/aspen-institute.md)** | Trustee; speaker Aspen Ideas Festival |
 
 ### Obama Network
 
@@ -149,8 +162,9 @@
 | Iniziativa | Ammontare | Focus |
 |------------|-----------|-------|
 | **Stanford Sustainability** | $1.1B (2022) | Climate school |
-| **New Schools Venture Fund** | Co-founder | Education reform |
+| **New Schools Venture Fund** | Co-founder | Education reform, charter schools |
 | **Obama Foundation** | Board | Democratic legacy |
+| **Benificus Foundation** | Founder | Doerr family philanthropic vehicle |
 
 ---
 
@@ -160,12 +174,19 @@
 
 | Entita' | Connessione |
 |---------|-------------|
-| [Kleiner Perkins](../private-equity/kleiner-perkins.md) | Chairman 1980- |
-| [Alphabet](../company/alphabet.md) | Board 1999- |
-| [Amazon](../company/amazon.md) | Board 1996-2010 |
-| [Obama Foundation](../foundation/obama-foundation.md) | Board 2015- |
+| [Intel](../company/intel.md) | Sales/executive (1974-1980) |
+| [Kleiner Perkins](../private-equity/kleiner-perkins.md) | Partner, poi Chairman (1980-) |
+| [Alphabet](../company/alphabet.md) | Board member (1999-) |
+| [Amazon](../company/amazon.md) | Board member (1996-2010) |
+| [Sun Microsystems](../company/sun-microsystems.md) | Board member via KP |
+| [Netscape](../company/netscape.md) | Board member (1994-1999) |
+| [Aspen Institute](../think-tank/aspen-institute.md) | Trustee |
+| [Obama Foundation](../foundation/obama-foundation.md) | Board (2015-) |
 | [TechNet](../forum/technet.md) | Co-founder |
-| [Governo USA](../government/governo-usa.md) | Obama advisor 2009-2011 |
+| [Governo USA](../government/governo-usa.md) | Obama advisor (2009-2011) |
+| [Stanford](../university/stanford.md) | Donor $1.1B Doerr School of Sustainability (2022) |
+| [Rice University](../university/rice-university.md) | BS + MS EE alumni |
+| [Harvard](../university/harvard.md) | MBA 1976 alumni |
 
 ### Persone
 
@@ -174,7 +195,12 @@
 | [Larry Page](larry-page.md) | Investito, board Alphabet |
 | [Sergey Brin](sergey-brin.md) | Investito, board Alphabet |
 | [Jeff Bezos](jeff-bezos.md) | Investito, ex-board Amazon |
-| [Eric Schmidt](eric-schmidt.md) | Colleague Google |
+| [Eric Schmidt](eric-schmidt.md) | Recruited to Google CEO; Sun/KP network |
+| [Vinod Khosla](vinod-khosla.md) | Kleiner Perkins partners |
+| [Bill Joy](bill-joy.md) | Kleiner Perkins partner, Sun board |
+| [Al Gore](al-gore.md) | Kleiner Perkins partner, climate |
+| [Scott McNealy](scott-mcnealy.md) | Sun Microsystems board |
+| [Reed Hastings](reed-hastings.md) | Education/VC collaborator |
 | [Barack Obama](barack-obama.md) | Advisor, foundation board |
 
 ---
@@ -215,4 +241,4 @@ Il suo pattern e' unico: non e' un fondatore, ma ha plasmato le aziende che hann
 
 ---
 
-*Ultimo aggiornamento: 30 Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

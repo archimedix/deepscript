@@ -15,6 +15,7 @@ Report che analizzano agenzie di intelligence, operazioni coperte, e sicurezza n
 | [Cold War Intelligence Origins](cold-war-intelligence-origins.md) | 1942-1954 | OSS→CIA, Yale network, Angleton |
 | [Italy Cold War Theater](italy-cold-war-theater.md) | 1943-1990 | OSS Italia, Gladio, P2, strategia tensione |
 | [Nazi Recruitment Cold War](nazi-recruitment-cold-war.md) | 1945-1990 | Ratlines, Gehlen, Paperclip, Mossad |
+| [Epstein Network](epstein-network-2026.md) | 1976-2026 | Rete transnazionale Epstein: finanza, intelligence, accademia, diplomazia |
 | [Intelligence USA-Israel](intelligence-usa-israel.md) | 2010-2024 | Unit 8200, NSO, spyware pipeline |
 | [Whistleblowers](whistleblowers-power-exposed.md) | 1971-2024 | Ellsberg, Snowden, Manning |
 
@@ -63,6 +64,7 @@ Report che analizzano forum transnazionali, reti di coordinamento elite, e pipel
 | [Consulting Power Pipeline](consulting-power-pipeline.md) | 1926-2025 | McKinsey come fabbrica di leader, Bob Sternfels hub |
 | [WEF Young Global Leaders](wef-young-global-leaders.md) | 1992-2025 | Programma YGL e impatto |
 | [Revolving Door](revolving-door-ex-leaders.md) | 1995-2024 | Transizioni governo-privato |
+| [Brexit Power Map](brexit-power-map.md) | 2016-2026 | Dark money, hedge fund shorting, 55 Tufton Street, Cambridge Analytica |
 | [Transatlantic Forums](transatlantic-forums-europe-influence.md) | 1949-2025 | NATO, Bilderberg, Trilaterale, WEF, Atlantic Council |
 | [Accordi di Abramo](abraham-accords.md) | 2020-2026 | Normalizzazione arabo-israeliana, Kushner, AAPI, quid pro quo |
 
@@ -132,6 +134,7 @@ Report che analizzano specifici settori economici.
 | [Microsoft Geopolitical Hub](microsoft-geopolitical-hub.md) | 2007-2025 | Microsoft e geopolitica |
 | [AI Power Map](ai-power.md) | 2010-2026 | OpenAI, Anthropic, DeepSeek, ByteDance, corsa AGI |
 | [Silicon Valley Power Map](silicon-valley-power-map.md) | 1939-2026 | Stanford, VC, PayPal Mafia, AI labs, forum locali |
+| [Open Source Power Map](open-source-power.md) | 1983-2026 | GNU, Linux Foundation, corporate capture, licensing wars, geopolitica |
 
 ### Crypto
 | Report | Periodo | Focus |
@@ -214,6 +217,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 |--------|---------|-------|
 | [EU Power Map](eu-power-map.md) | 1957-2025 | Commissione, BCE, lobby Bruxelles |
 | [UK Power Map](uk-power-map.md) | 1945-2025 | City, Westminster, Commonwealth |
+| [Brexit Power Map](brexit-power-map.md) | 2016-2026 | Referendum, dark money, Cambridge Analytica, revolving door |
 | [France Power Map](france-power-map.md) | 1945-2025 | CAC 40, ENA, famiglie |
 | [Germany Power Map](germany-power-map.md) | 1945-2025 | Famiglie industriali, DAX, Atlantik-Brucke |
 | [Italy Power Map](italy-power-map.md) | 1945-2025 | Mediobanca, CDP, governi tecnici |
@@ -328,6 +332,7 @@ Mappe di potere regionali:
 - [Lebanon Power Map](lebanon-power-map.md)
 - [Siria Power Map](siria-power-map.md)
 - [Vietnam Power Map](vietnam-power-map.md)
+- [Brexit Power Map](brexit-power-map.md)
 
 ### Report Settoriali
 Analisi di industrie specifiche:
@@ -336,6 +341,7 @@ Analisi di industrie specifiche:
 - [Luxury Power Dynasties](luxury-power-dynasties.md)
 - [Media Power](media-power.md)
 - [Pharma Power](pharma-power.md)
+- [Open Source Power Map](open-source-power.md)
 - [Sport Geopolitics](sport-geopolitics.md)
 
 ---
@@ -344,7 +350,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 83 |
+| **Report totali** | 86 |
 | **Power Map geografici** | 45+ |
 | **Report tematici/settoriali** | 31+ |
 | **Periodo coperto** | 1626-2025 |

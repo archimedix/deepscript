@@ -48,7 +48,8 @@ Abdica 1936         Re 1936-1952
     |         |         |         |
 CHARLES   ANNE      ANDREW    EDWARD
 (1948-)   (1950-)   (1960-)   (1964-)
-Re 2022-     |         |         |
+Re 2022-     |     + Sarah Ferguson (1959-)
+    |        |     m.1986 div.1996
     |        |         |         |
 WILLIAM  HARRY   Peter  Zara  Beatrice Eugenie  Louise James
 (1982-)  (1984-) Etc.
@@ -77,6 +78,13 @@ George Charlotte Louis
 |------|------|-------|---------|
 | **Philip, Duke of Edinburgh** | 1921-2021 | Consort | Co-fondatore WWF, 780+ patronati |
 | **William, Prince of Wales** | 1982- | Erede | Earthshot Prize, Duchy of Cornwall |
+
+### Figure Controverse
+
+| Nome | Anni | Ruolo | Scandalo |
+|------|------|-------|----------|
+| **[Prince Andrew](../persons/prince-andrew.md)** | 1960- | Terzogenito | Scandalo Epstein, arrestato feb 2026, titoli revocati ott 2025 |
+| **[Sarah Ferguson](../persons/sarah-ferguson.md)** | 1959- | Ex moglie Andrew | Pagamenti da Epstein, email compromettenti 2026 |
 
 ---
 
@@ -186,6 +194,9 @@ Il WWF connette i Windsor a:
 | **Origini tedesche** | 1917 | Rinomina da Saxe-Coburg-Gotha durante WWI |
 | **Simpatie naziste** | 1930s | Edward VIII, Wallis Simpson |
 | **Paradise Papers** | 2017 | Investimenti offshore Duchy of Cornwall |
+| **Scandalo Epstein - Andrew** | 1999-2026 | Amicizia con Epstein, email riservate come trade envoy, settlement Giuffre 2022, arresto feb 2026 |
+| **Scandalo Epstein - Ferguson** | 2009-2026 | Pagamento £15,000 da Epstein, visita post-carcere, email "House Assistant" 2026 |
+| **Revoca titoli Andrew** | 2025 | Carlo III revoca titolo principesco, Andrew rinuncia a Duke of York |
 | **Great Reset** | 2020- | Critiche per ruolo in agenda WEF |
 | **Colonialismo** | Storico | Eredita' imperiale, richieste di scuse |
 
@@ -199,6 +210,11 @@ Il WWF connette i Windsor a:
 |---------|-------------|
 | [Klaus Schwab](../persons/klaus-schwab.md) | Co-fondatore Great Reset con Charles |
 | [David Attenborough](../persons/david-attenborough.md) | Collaboratore su progetti ambientali |
+| [Prince Andrew](../persons/prince-andrew.md) | Terzogenito, ex trade envoy, arrestato 2026 |
+| [Sarah Ferguson](../persons/sarah-ferguson.md) | Ex moglie Andrew, connessione Epstein |
+| [Jeffrey Epstein](../persons/jeffrey-epstein.md) | Associato di Andrew e Ferguson |
+| [Ghislaine Maxwell](../persons/ghislaine-maxwell.md) | Tramite Andrew-Epstein |
+| [Virginia Giuffre](../persons/virginia-giuffre.md) | Accusatrice di Andrew, settlement 2022 |
 
 ### Organizzazioni
 
@@ -233,7 +249,11 @@ Il WWF connette i Windsor a:
 | **2020** | Charles lancia Great Reset con WEF | 4a |
 | **2021** | Morte Philip (99 anni) | 3a |
 | **2022** | Morte Elizabeth II, Charles III Re | 4a |
+| **2022** | Settlement causa Giuffre vs Andrew | 4a |
 | **2022** | William diventa Prince of Wales | 5a |
+| **2025** | Carlo III revoca titoli a Andrew | 4a |
+| **2026 gen** | Epstein files: email Andrew e Ferguson | 4a |
+| **2026 feb** | Arresto Andrew per misconduct in public office | 4a |
 
 ---
 
@@ -243,6 +263,9 @@ Il WWF connette i Windsor a:
 - [ ] Quali investimenti del Duchy sono in climate finance?
 - [ ] Come evolve il Commonwealth sotto Charles III?
 - [ ] Partecipazione diretta di membri Windsor a Bilderberg?
+- [ ] Esito procedimento penale Prince Andrew (misconduct in public office)
+- [ ] Dettaglio completo Epstein files riguardanti Andrew e Ferguson
+- [ ] Impatto reputazionale dello scandalo sulla monarchia
 
 ---
 
@@ -263,4 +286,4 @@ Il WWF connette i Windsor a:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

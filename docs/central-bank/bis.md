@@ -32,13 +32,29 @@ La Bank for International Settlements (BIS), con sede a Basilea (Svizzera), e' l
 
 ## Fondazione e Storia
 
-### Le Origini (1929-1930)
+### Le Origini (1927-1930)
+
+L'idea della BIS nacque prima del Piano Young, in un incontro privato nel 1927.
 
 | Data | Evento |
 |------|--------|
-| **1929** | Piano Young per le riparazioni tedesche |
-| **1930** | Fondazione BIS a L'Aia |
-| **Scopo originale** | Gestire i pagamenti delle riparazioni tedesche |
+| **1927 (luglio)** | Incontro segreto a Long Island tra Schacht (Reichsbank), Norman (Bank of England), Strong (Fed NY) e Rist (Banque de France) — nasce l'idea di una "banca delle banche centrali" |
+| **1929** | Piano Young per le riparazioni tedesche — la BIS viene inserita come meccanismo di gestione |
+| **1929** | Comitato organizzativo di Baden-Baden: Schacht, Norman, Beneduce definiscono statuti |
+| **1930 (27 feb)** | Firma degli statuti BIS a Roma |
+| **1930 (17 mag)** | Fondazione ufficiale BIS a Basilea |
+
+### Il Triangolo Fondatore: Norman-Schacht-Beneduce
+
+Tre tecnocrati al servizio di tre regimi diversi crearono un'istituzione sovranazionale che sopravvisse a tutti e tre:
+
+| Persona | Ruolo | Regime |
+|---------|-------|--------|
+| [Montagu Norman](../persons/montagu-norman.md) | Governatore Bank of England (1920-44). Voleva la BIS come club puro di banche centrali, indipendente dai governi | Democrazia britannica |
+| [Hjalmar Schacht](../persons/hjalmar-schacht.md) | Presidente Reichsbank. Primo a concepire l'idea di una banca delle banche centrali. Voleva anche funzioni di sviluppo | Reich tedesco (Weimar, poi nazista) |
+| [Alberto Beneduce](../persons/alberto-beneduce.md) | Plenipotenziario finanziario di Mussolini. Rappresentante italiano al comitato di Baden-Baden, consigliere poi Vice Presidente BIS | Italia fascista |
+
+L'amicizia personale Norman-Schacht — Norman fu padrino di un nipote di Schacht — fu il motore della BIS. Beneduce porto' il supporto dell'Italia e una visione tecnocratica condivisa. Benjamin Strong (Fed NY), quarto uomo dell'incontro di Long Island, mori' nel 1928 prima della fondazione.
 
 **Fondatori (Banche Centrali):**
 - Belgio
@@ -53,10 +69,15 @@ La Bank for International Settlements (BIS), con sede a Basilea (Svizzera), e' l
 
 | Periodo | Questione |
 |---------|-----------|
-| **1939-1945** | BIS continuo' a operare durante la guerra |
-| **Accusa** | Facilito' trasferimenti di oro nazista |
+| **Mar 1939** | Dopo l'invasione della Cecoslovacchia, Montagu Norman autorizza il trasferimento di 5.6M sterline d'oro ceco dalla Bank of England a conti Reichsbank via BIS |
+| **Nov 1939** | Secondo trasferimento di oro ceco — due mesi dopo l'inizio della guerra |
+| **1939-1945** | BIS continuo' a operare durante la guerra con board misto Alleati/Asse |
+| **1940-1946** | Thomas McKittrick (USA) presidente — mantenne rapporti con entrambe le parti |
+| **1942** | FDR chiese a Churchill di indagare su presunti contatti Norman-Schacht in Svezia (maggio 1941) |
 | **1944** | Conferenza di Bretton Woods vota per la dissoluzione |
 | **1945** | Dissoluzione mai attuata, BIS sopravvive |
+
+La Bank of England sostenne di non poter rifiutare ordini BIS di trasferimento oro tra conti, ma lo storico David Blaazer ha confermato che la Bank sapeva a quali banche centrali corrispondevano i conti numerati BIS.
 
 > La BIS e' l'unica istituzione finanziaria internazionale che opero' sia con Alleati che con Asse durante la guerra.
 
@@ -199,6 +220,16 @@ Ospitato dalla BIS, coordina la regolamentazione finanziaria globale:
 
 ## Figure Chiave
 
+### Padri Fondatori
+
+| Nome | Ruolo BIS | Background |
+|------|-----------|------------|
+| [Hjalmar Schacht](../persons/hjalmar-schacht.md) | Co-ideatore, Board fondatore | Presidente Reichsbank. Primo a proporre l'idea (Long Island, 1927) |
+| [Montagu Norman](../persons/montagu-norman.md) | Co-ideatore, Board fondatore | Governatore Bank of England per 24 anni |
+| [Alberto Beneduce](../persons/alberto-beneduce.md) | Consigliere (1929), Vice Presidente (1939) | Plenipotenziario di Mussolini, fondatore IRI |
+| Benjamin Strong | Partecipante Long Island 1927 | Presidente Fed NY, morto 1928 prima della fondazione |
+| Charles Rist | Partecipante Long Island 1927 | Vice Governatore Banque de France |
+
 ### Agustin Carstens (General Manager)
 
 | Aspetto | Dettaglio |
@@ -223,8 +254,11 @@ Ospitato dalla BIS, coordina la regolamentazione finanziaria globale:
 
 | Anno | Evento |
 |------|--------|
-| **1930** | Fondazione |
-| **1939-45** | Controversie belliche |
+| **1927** | Incontro segreto di Long Island: Schacht, Norman, Strong, Rist concepiscono la BIS |
+| **1929** | Comitato organizzativo di Baden-Baden (Schacht, Norman, Beneduce) |
+| **1930** | Fondazione (statuti firmati a Roma 27 feb, apertura Basilea 17 mag) |
+| **1939** | Trasferimento oro ceco alla Reichsbank via conti BIS |
+| **1939-45** | Controversie belliche — opera con Alleati e Asse |
 | **1944** | Bretton Woods vota dissoluzione (mai attuata) |
 | **1971** | Fine Bretton Woods, nuovo ruolo |
 | **1988** | Basel I |
@@ -247,9 +281,12 @@ Ospitato dalla BIS, coordina la regolamentazione finanziaria globale:
 
 ### Passato Nazista
 
-- Collaborazione con la Germania nazista
-- Trasferimento di oro ceco alla Germania
-- Mai completamente chiarito
+- L'amicizia personale Norman-Schacht fu il canale finanziario tra Londra e Berlino
+- Trasferimento di 5.6M sterline d'oro ceco alla Reichsbank (marzo 1939), autorizzato da Norman
+- Secondo trasferimento dopo l'inizio della guerra (novembre 1939)
+- Schacht finanzio' il riarmo tedesco tramite Mefo Bills scontate alla Reichsbank
+- Thomas McKittrick (presidente 1940-46) mantenne rapporti con entrambi i belligeranti
+- Presunti contatti Norman-Schacht durante la guerra (indagine 1942 su richiesta di FDR)
 
 ### Accountability Democratica
 
@@ -285,6 +322,11 @@ Ospitato dalla BIS, coordina la regolamentazione finanziaria globale:
 
 ## Documenti Correlati
 
+- [Hjalmar Schacht](../persons/hjalmar-schacht.md) - Co-ideatore e fondatore
+- [Montagu Norman](../persons/montagu-norman.md) - Co-ideatore e fondatore
+- [Alberto Beneduce](../persons/alberto-beneduce.md) - Consigliere fondatore, VP
+- [Reichsbank](reichsbank.md) - Banca centrale tedesca, co-fondatrice
+- [Bank of England](bank-of-england.md) - Co-fondatrice
 - [Federal Reserve](federal-reserve.md) - Membro fondatore
 - [BCE](bce.md) - Membro chiave
 - [FMI](fmi.md) - Istituzione gemella
@@ -309,4 +351,4 @@ Ospitato dalla BIS, coordina la regolamentazione finanziaria globale:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

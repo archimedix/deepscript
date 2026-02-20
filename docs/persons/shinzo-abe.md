@@ -95,6 +95,14 @@
 | **Revisionismo storico** | Posizioni controverse su WWII |
 | **Riarmo** | Reinterpretazione Art. 9 Costituzione |
 
+### Organizzazioni Nazionaliste/Lobby
+
+| Organizzazione | Ruolo |
+|----------------|-------|
+| **Nippon Kaigi** | Special adviser; 22 su 24 ministri del gabinetto 2018 membri |
+| **Keidanren** | Interlocutore regolare come PM |
+| **Seiwakai** (fazione LDP) | Leader 2021-22; fazione piu' grande del LDP |
+
 ### Relazioni Chiave
 
 | Leader | Relazione |
@@ -153,15 +161,22 @@ Primo assassinio di un ex-PM giapponese dal 1936.
 | Entita' | Connessione |
 |---------|-------------|
 | [Governo Giappone](../government/governo-giappone.md) | PM 2006-07, 2012-20 |
+| [LDP](../government/ldp-japan.md) | Presidente 2012-20; Seiwakai leader 2021-22 |
 | [WEF](../forum/wef.md) | Speaker Davos 2014, 2019 |
+| [Nippon Kaigi](../think-tanks/nippon-kaigi.md) | Special adviser |
+| [Seikei University](../universities/seikei-university.md) | Alumni BA 1977 |
+| [USC](../universities/usc.md) | Visiting student 1978-79 |
+| [Kobe Steel](../companies/kobe-steel.md) | Employee 1979-82 |
 
-### Persone (Famiglia)
+### Persone
 
 | Persona | Relazione |
 |---------|-----------|
 | [Nobusuke Kishi](nobusuke-kishi.md) | Nonno materno, PM, mentore ideologico |
 | [Eisaku Sato](eisaku-sato.md) | Prozio, PM, Nobel Pace |
 | [Shintaro Abe](shintaro-abe.md) | Padre, Min. Esteri |
+| [Taro Aso](taro-aso.md) | Vice PM 2012-20, alleato politico |
+| [Sanae Takaichi](sanae-takaichi.md) | Protetta, prima donna PM |
 
 ---
 
@@ -196,9 +211,10 @@ Primo assassinio di un ex-PM giapponese dal 1936.
 
 ## Domande Aperte
 
-- [ ] Dettagli su partecipazione Trilateral Commission
-- [ ] Relazioni con Keidanren e business community
-- [ ] Ruolo nella successione: influenza su Kishida, Suga
+- [x] ~~Relazioni con Keidanren~~ → Interlocutore regolare come PM
+- [x] ~~Ruolo nella successione~~ → Influenza su Suga, Kishida, Takaichi
+- [ ] Trilateral Commission: non risulta membro diretto (bylaws escludono funzionari pubblici)
+- [ ] Relazioni con Unification Church (rivelate post-mortem)
 
 ---
 
@@ -221,4 +237,4 @@ Primo assassinio di un ex-PM giapponese dal 1936.
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Febbraio 2026*

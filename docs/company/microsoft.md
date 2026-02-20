@@ -49,12 +49,16 @@
 | **2001** | Lancio Xbox |
 | **2011** | Acquisizione Skype ($8.5B) |
 | **2014** | Satya Nadella CEO |
+| **2016 feb** | Acquisizione [Xamarin](../companies/xamarin.md) (Mono/.NET cross-platform, de Icaza & Friedman) |
 | **2016** | Acquisizione LinkedIn ($26B) |
+| **2018** | Acquisizione [GitHub](../companies/github.md) ($7.5B); Nat Friedman CEO, Chris Wanstrath Technical Fellow |
+| **2018** | Thomas Dohmke entra in GitHub (ex HockeyApp, acquisita 2015) |
 | **2019** | Primo investimento OpenAI ($1B) |
 | **2021** | Nadella diventa anche Chairman |
 | **2022** | Acquisizione Activision Blizzard ($69B) |
 | **2023** | Integrazione ChatGPT in Bing |
 | **2024** | Stake 27% in OpenAI ($135B valore) |
+| **2025 ago** | CEO GitHub Thomas Dohmke lascia; GitHub integrata in CoreAI division senza CEO autonomo |
 
 ---
 
@@ -126,7 +130,8 @@
 | Anno | Azienda | Valore |
 |------|---------|--------|
 | 2016 | LinkedIn | $26B |
-| 2018 | GitHub | $7.5B |
+| 2016 | [Xamarin](../companies/xamarin.md) | - |
+| 2018 | [GitHub](../companies/github.md) | $7.5B |
 | 2022 | Activision Blizzard | $69B |
 
 ---
@@ -141,12 +146,20 @@
 | [Satya Nadella](../persons/satya-nadella.md) | CEO & Chairman |
 | [Steve Ballmer](../persons/steve-ballmer.md) | Ex-CEO 2000-2014 (revenue $25B→$70B) |
 | [Reid Hoffman](../persons/reid-hoffman.md) | Board member |
+| [Nat Friedman](../persons/nat-friedman.md) | Corporate VP (via Xamarin, 2016), poi CEO GitHub (2018-2021); ora VP Meta |
+| [Miguel de Icaza](../persons/miguel-de-icaza.md) | Distinguished Engineer (via Xamarin, 2016-2022) |
+| [Chris Wanstrath](../persons/chris-wanstrath.md) | Technical Fellow (via GitHub acquisition, 2018-); co-founder GitHub |
+| [Thomas Dohmke](../persons/thomas-dohmke.md) | CEO GitHub 2021-2025 (via HockeyApp, 2015); ora founder Entire |
 
 ### Organizzazioni Correlate
 
 | Org | Relazione |
 |-----|-----------|
 | [OpenAI](openai.md) | 27% stake, partner strategico |
+| [GitHub](../companies/github.md) | Acquisita 2018 ($7.5B); 150M+ dev, Copilot $2B ARR; dal 2025 in CoreAI division |
+| [Xamarin](../companies/xamarin.md) | Acquisita 2016; Mono/.NET cross-platform → .NET MAUI |
+| [Novell](../companies/novell.md) | Patent covenant 2006; consorzio 882 brevetti 2011 ($450M) |
+| [SCO Group](../companies/sco-group.md) | Acquisto' licenze SCOsource durante causa anti-Linux |
 | [WEF](../forum/wef.md) | Strategic Partner |
 | [BlackRock](../asset-manager/blackrock.md) | Top shareholder |
 | [Vanguard](../asset-manager/vanguard.md) | Top shareholder |
@@ -184,7 +197,8 @@ Microsoft ha scommesso sull'AI come next platform shift:
 
 | Tema | Dettaglio |
 |------|-----------|
-| **Antitrust storico** | Causa DOJ anni '90 (browser bundling) |
+| **Antitrust storico** | Causa DOJ anni '90 (browser bundling); causa DR-DOS Caldera/Noorda ($275M settlement 2000) |
+| **SCO/Linux** | Acquisto licenze SCOsource durante causa SCO vs IBM; sospetti di finanziamento indiretto strategia anti-Linux |
 | **Monopolio cloud** | Concentrazione Azure + OpenAI |
 | **Privacy** | Telemetria Windows, LinkedIn data |
 | **Gaming** | Acquisizione Activision contestata |
@@ -206,4 +220,4 @@ Microsoft ha scommesso sull'AI come next platform shift:
 
 ---
 
-*Ultimo aggiornamento: 30 Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

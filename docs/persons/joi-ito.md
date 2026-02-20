@@ -84,6 +84,8 @@
 | Forum | Partecipazione |
 |-------|----------------|
 | **WEF Davos** | Global Leaders for Tomorrow 2001. Partecipante regolare. Speaker 2017 con David Kirkpatrick |
+| **Trilateral Commission** | Membro dal 2002. Invitato da Yotaro Kobayashi (Fuji-Xerox). Speaker annual meeting 2002 |
+| **American Academy of Arts and Sciences** | Fellow |
 | **Bilderberg** | Non documentato |
 
 ### Network Professionale
@@ -179,9 +181,12 @@ Negroponte poi chiari' al Boston Globe che la difesa valeva solo per la decision
 | **2023** | Nominato 14esimo Presidente del Chiba Institute of Technology |
 | **2024** | Co-fondatore Neurodiversity School in Tokyo (NSIT) |
 | **2024** | Libro sulla neurodiversita' (in giapponese) |
-| **2025** | Lancia School of Design & Science (primo programma in inglese di Chibatech) |
+| **2025** | Lancia School of Design & Science (primo programma in inglese di Chibatech, luglio 2025) |
 | **2025** | Direttore Center for Radical Transformation (CIT) |
 | **2025** | Advisory Board METI per Web 3.0 e blockchain |
+| **2025** | Conferisce dottorati honoris causa a Laurene Powell Jobs, Reid Hoffman, e Re Jigme del Bhutan (maggio 2025) |
+| **2025** | Nominato nel Kazakhstan Artificial Intelligence Council (ottobre 2025) |
+| **2026** | Lancio Graduate School of Design & Science (SDS) al Chibatech |
 
 Pattern classico: figura caduta in disgrazia in USA che si riabilita in Giappone, dove lo scandalo Epstein ha avuto meno risonanza mediatica.
 
@@ -225,6 +230,9 @@ Connessioni deboli/occasionali:
 | [Creative Commons](../organizations/creative-commons.md) | Chairman 2006, CEO |
 | [Digital Garage](../organizations/digital-garage.md) | Co-founder 1994, CEO 1995-1999 |
 | [WEF](../organizations/wef.md) | Global Leaders for Tomorrow 2001 |
+| [Trilateral Commission](../forum/trilateral-commission.md) | Member 2002- |
+| [American Academy of Arts and Sciences](../forum/american-academy-arts-sciences.md) | Fellow |
+| [Governo del Kazakistan](../government/governo-kazakistan.md) | AI Council advisor 2025- |
 | [The New York Times](../organizations/new-york-times.md) | Board (resigned 2019) |
 | [Sony](../organizations/sony.md) | Board |
 | [ICANN](../organizations/icann.md) | Board |
@@ -271,6 +279,8 @@ Connessioni deboli/occasionali:
 | **2023** | Presidente Chiba Institute of Technology |
 | **2024** | Fonda Neurodiversity School in Tokyo |
 | **2025** | Lancia Japan Smart Chain e School of Design & Science |
+| **2025** | Kazakhstan Artificial Intelligence Council |
+| **2026** | Lancio Graduate School of Design & Science (SDS) |
 
 ---
 

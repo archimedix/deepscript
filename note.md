@@ -159,4 +159,23 @@ Wisdo
 Kollart
 WhereCanItBe
 
+Springer: casa editrice tedesca (MI6) -> Feltrinelli
+
+[v] cambridge-apostles Societa' segreta intellettuale di Cambridge: incubatore di elite, spie e pensiero del XX secolo
+- [v] victor-rothschild : Banchiere, zoologo, ufficiale MI5 e consigliere governativo: il Rothschild al crocevia tra intelligence, scienza e potere britannico
+- Anthony Blunt
+- Guy Burgess
+- Kim Philby
+- John Cairncross
+- John Maynard Keynes
+- Bertrand Russell
+- Ludwig Wittgenstein
+
+[v] cambridge-five : La piu' grande rete di spionaggio sovietico nel cuore dell'establishment britannico
+- Kim Philby
+- Donald Maclean
+- Guy Burgess
+- Anthony Blunt
+- John Cairncross
+- Arnold Deutsch
 

@@ -1548,6 +1548,10 @@ families:
     status: active
     members:
     - person: ronald-lauder
+      generation: 2
+      role: heir
+    - person: kevin-warsh
+      role: heir
   lee-samsung:
     origin: South Korea
     founder: lee-byung-chul
@@ -2201,6 +2205,9 @@ families:
     members:
     - person: penny-pritzker
       generation: 3
+    - person: tom-pritzker
+      generation: 3
+      role: leader
   quandt:
     origin: Germany
     founder: Günther Quandt
@@ -2438,6 +2445,8 @@ families:
       role: spouse
     - person: lionel-de-rothschild
       role: member
+    - person: emma-rothschild
+      generation: 6
   rupert:
     origin: South Africa
     founder: anton-rupert
@@ -2933,6 +2942,11 @@ families:
     - person: william-wales
       generation: 5
       role: heir
+    - person: prince-andrew
+      generation: 4
+      role: member
+    - person: sarah-ferguson
+      role: spouse
   yoovidhya:
     origin: Thailand
     founder: chaleo-yoovidhya

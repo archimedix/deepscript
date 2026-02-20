@@ -146,9 +146,35 @@ Come partner di Greylock ha investito in: Facebook, Airbnb, Zynga, Mozilla, Coda
 
 | Tema | Periodo | Dettaglio |
 |------|---------|-----------|
-| **Epstein connection** | 2019-oggi | Ha incontrato Jeffrey Epstein su consiglio di Elon Musk; si e' scusato pubblicamente |
+| **Epstein connection** | 2014-2018 | Relazione prolungata con Epstein; visita all'isola privata 2014 con Joi Ito; investimento Blockstream via Kyara; meeting e Skype call fino al 2018 |
 | **Conflitto con Musk** | 2024-2025 | Musk lo accusa di finanziare proteste anti-Tesla; Hoffman critica la "mancanza di credibilita'" di Musk su OpenAI |
 | **Political donations** | 2024 | Major donor Democratic Party; unico PayPal Mafia rimasto democratico |
+
+---
+
+## Connessione Epstein - Dettaglio
+
+### Timeline Epstein-Hoffman
+
+| Data | Evento |
+|------|--------|
+| **2014** | Visita all'isola privata di Epstein con Joi Ito (fundraising MIT Media Lab) |
+| **Set 2014** | Chiede ad Austin Hill di aumentare allocazione Kyara (Epstein/Ito) in Blockstream da $50K a $500K |
+| **Apr 2016** | Cena con Epstein a ristorante sushi, Palo Alto |
+| **Apr 2016** | Meeting con Epstein al MIT |
+| **Giu 2016** | Skype call con Epstein |
+| **Lug 2016** | Meeting a Bedford, New York |
+| **Mar 2018** | Skype call con Epstein |
+| **Set 2019** | Scuse pubbliche: ammette di aver partecipato a fundraising con Epstein |
+| **Feb 2026** | Dopo DOJ dump, ammette di essere stato "mistaken" sulla data dell'ultimo incontro (2015 → 2018) |
+
+### Ruolo nel finanziamento Blockstream
+
+Hoffman fu in CC sull'email "Stellar isn't so Stellar" (31 luglio 2014) da Austin Hill a Epstein e Ito. Hoffman chiese a Hill di aumentare l'allocazione Epstein/Ito (via Kyara Investments III) da $50K a $500K nel seed round di Blockstream, nonostante il round fosse gia' 10x oversubscribed.
+
+### Portata della relazione (DOJ 2026)
+
+I documenti DOJ fanno riferimento a Hoffman in **2,658 file separati**. Buona parte e' traffico di calendario legato a fundraising MIT Media Lab. Hoffman ha dichiarato di aver interagito con Epstein solo per raccogliere fondi per MIT tramite Joi Ito.
 
 ---
 
@@ -165,6 +191,8 @@ Come partner di Greylock ha investito in: Facebook, Airbnb, Zynga, Mozilla, Coda
 | [OpenAI](../company/openai.md) | Initial investor (2015-) |
 | [Inflection AI](../company/inflection-ai.md) | Co-founder (2022-) |
 | [Manas AI](../company/manas-ai.md) | Co-founder (2025-) |
+| [Blockstream](../company/blockstream.md) | Seed investor, advisor (2014-) |
+| [Sun Valley Conference](../forum/sun-valley-conference.md) | Attendee regolare |
 | [Bilderberg](../forum/bilderberg.md) | Member (2011-) |
 | [CFR](../think-tank/cfr.md) | Member (2015-) |
 | [Stanford](../university/stanford.md) | Alumni BS 1990 |
@@ -178,6 +206,11 @@ Come partner di Greylock ha investito in: Facebook, Airbnb, Zynga, Mozilla, Coda
 | [Elon Musk](elon-musk.md) | PayPal Mafia, antagonista |
 | [Mustafa Suleyman](mustafa-suleyman.md) | Co-founder Inflection AI |
 | [Siddhartha Mukherjee](siddhartha-mukherjee.md) | Co-founder Manas AI |
+| [Jeffrey Epstein](jeffrey-epstein.md) | Fundraising MIT, visita isola 2014, investimento Blockstream |
+| [Joi Ito](joi-ito.md) | MIT Media Lab, co-visita isola Epstein, Kyara Investments |
+| [Austin Hill](austin-hill.md) | CEO Blockstream, Hoffman spinse allocazione Epstein/Ito |
+| [Adam Back](adam-back.md) | Co-founder Blockstream |
+| [David Sacks](david-sacks.md) | PayPal Mafia |
 
 ---
 
@@ -195,11 +228,13 @@ Come partner di Greylock ha investito in: Facebook, Airbnb, Zynga, Mozilla, Coda
 | **2003** | Lancio LinkedIn |
 | **2009** | Partner Greylock |
 | **2011** | IPO LinkedIn; primo Bilderberg |
+| **2014** | Visita isola Epstein con Ito; seed investor Blockstream; spinse allocazione Kyara da $50K a $500K |
 | **2015** | Investe in OpenAI; entra in CFR |
 | **2016** | Microsoft acquisisce LinkedIn per $26.2B |
 | **2017** | Entra nel board Microsoft |
 | **2022** | Co-fonda Inflection AI |
 | **2025** | Co-fonda Manas AI; pubblica "Superagency" |
+| **Feb 2026** | DOJ dump: ammette meeting con Epstein fino al 2018 (non 2015 come dichiarato) |
 
 ---
 
@@ -216,6 +251,12 @@ Come partner di Greylock ha investito in: Facebook, Airbnb, Zynga, Mozilla, Coda
 ### Wikipedia
 - [PayPal Mafia](https://en.wikipedia.org/wiki/PayPal_Mafia)
 
+### Epstein Files
+- [Hoodline - Hoffman singed by Epstein file dump](https://hoodline.com/2026/02/sf-tech-kingpin-reid-hoffman-singed-by-new-epstein-file-dump/)
+- [Free Beacon - Hoffman maintained Epstein relationship](https://freebeacon.com/democrats/skype-sushi-and-a-phone-date-democratic-megadonor-reid-hoffman-maintained-jeffrey-epstein-relationship-years-after-he-said-it-ended/)
+- [CNBC - Epstein Silicon Valley ties](https://www.cnbc.com/2026/02/09/tech-leaders-epstein-records-silicon-valley-sergey-brin-thiel-sinofsky-reid-hoffman-musk-gates.html)
+- [Business Today - Hoffman admits meetings after 2015](https://www.businesstoday.in/world/story/i-very-much-regret-it-reid-hoffman-admits-to-meeting-jeffrey-epstein-multiple-times-after-2015-514551-2026-02-04)
+
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

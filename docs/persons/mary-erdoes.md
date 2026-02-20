@@ -85,6 +85,25 @@ Committee         Foundation          Bus. Council
 
 ---
 
+## Connessione Epstein
+
+### Email e contatti (2010-2011)
+
+Epstein era parte del gruppo elite JPMorgan denominato "Wall of Cash". Email desecretate mostrano contatti quasi quotidiani tra Erdoes ed Epstein nel 2010-2011, incluse discussioni su:
+- Progetti multimilionari per Bill Gates
+- Settlement finanziario per Epstein
+- Iniziative di business
+
+In una email del 10 luglio 2011, Epstein scrisse a Erdoes che aveva "21 million reasons" per incontrarla. Jes Staley dovette dire a Epstein di smettere di "pushing" Erdoes (2011).
+
+### Indagine Senato (2025)
+
+Il senatore Ron Wyden (Finance Committee) ha pubblicato un'analisi dettagliata su come i top executive JPMorgan hanno protetto Epstein e facilitato la sua rete di trafficking. Le email desecretate coinvolgono direttamente Erdoes.
+
+Nonostante cio', nel novembre 2025 Erdoes e' stata eletta nel Board della Harvard Management Company.
+
+---
+
 ## Riconoscimenti
 
 | Anno | Riconoscimento |
@@ -114,6 +133,8 @@ Committee         Foundation          Bus. Council
 | Persona | Relazione |
 |---------|-----------|
 | [Jamie Dimon](jamie-dimon.md) | Boss, potenziale successore |
+| [Jeffrey Epstein](jeffrey-epstein.md) | Contatto costante 2010-2011; gruppo "Wall of Cash" JPMorgan |
+| [Jes Staley](jes-staley.md) | Colleghi JPMorgan; Staley media con Epstein |
 
 ---
 
@@ -131,6 +152,8 @@ Committee         Foundation          Bus. Council
 | **2009** | CEO Asset & Wealth Management, Operating Committee |
 | **2023** | #1 Most Powerful Woman in Finance |
 | **2025** | AUM raggiunge $6.4 trillion |
+| **2025** | Indagine Wyden (Senate Finance Committee) su JPMorgan-Epstein |
+| **Nov 2025** | Eletta nel Board Harvard Management Company |
 | **2026** | Morte del marito Philip |
 
 ---
@@ -155,9 +178,13 @@ Committee         Foundation          Bus. Council
 ### Riconoscimenti
 - [American Banker - Most Powerful Women 2025](https://www.americanbanker.com/news/2025-the-most-powerful-women-in-finance-no-1-mary-callahan-erdoes-jpmorganchase)
 
+### Epstein Investigation
+- [Senate Finance Committee - Wyden Memorandum (Nov 2025)](https://www.finance.senate.gov/ranking-members-news/continuing-epstein-investigation-wyden-releases-new-analysis-detailing-how-top-jpmorgan-chase-executives-enabled-epsteins-sex-trafficking-operation)
+- [Bloomberg Law - JPMorgan Billionaire Whisperer Gets Flak Over Epstein Emails](https://news.bloomberglaw.com/banking-law/jpmorgans-ultimate-survivor-caught-in-crossfire-of-epstein-feud)
+
 ### Altro
 - [Harvard Business School Alumni](https://www.alumni.hbs.edu/stories/Pages/story-bulletin.aspx?num=5597)
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2025*
+*Ultimo aggiornamento: Febbraio 2026*

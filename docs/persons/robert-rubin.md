@@ -1,14 +1,16 @@
 # Robert Rubin (1938-)
 
-> L'archetipo del revolving door - da Goldman Sachs al Tesoro e ritorno
+> L'archetipo del revolving door Wall Street-Washington: Goldman Sachs co-chairman, 70th Treasury Secretary, Citigroup director, co-chairman CFR, co-fondatore Hamilton Project. Mentor della catena Rubin-Summers-Geithner che ha dominato la politica economica USA 1993-2010. Architetto della deregolamentazione finanziaria poi accusato di aver contribuito alla crisi 2008.
 
 ## Dati Essenziali
 
 | Aspetto | Dettaglio |
 |---------|-----------|
 | **Nascita** | 29 agosto 1938, New York City |
+| **Famiglia** | Padre avvocato, nonno materno dirigente American Express |
 | **Coniuge** | Judith Oxenberg Rubin |
-| **Figli** | 2 |
+| **Figli** | 2 (James e Philip) |
+| **Residenza** | New York City |
 | **Patrimonio** | Centinaia di milioni (stimato) |
 
 ---
@@ -17,8 +19,9 @@
 
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
-| **1960** | Harvard University | BA |
-| **1964** | Yale Law School | JD |
+| **1960** | [Harvard University](../university/harvard-university.md) | AB Economics, summa cum laude |
+| **1960-61** | [London School of Economics](../think-tank/lse.md) | Frequenza (no degree) |
+| **1964** | [Yale University](../university/yale.md) | LLB (Yale Law School) |
 
 ---
 
@@ -32,9 +35,11 @@
 | **1966-1992** | Various → Co-Chairman | Goldman Sachs |
 | **1993-1995** | Director | National Economic Council |
 | **1995-1999** | Secretary | U.S. Treasury |
-| **1999-2009** | Senior Counselor/Director | Citigroup |
-| **2003-oggi** | Co-Chairman emeritus | Council on Foreign Relations |
-| **2009-oggi** | Counselor | Centerview Partners |
+| **1999-2009** | Director, Senior Counselor | [Citigroup](../bank/citigroup.md) |
+| **2002-2014** | Harvard Corporation member | [Harvard University](../university/harvard-university.md) |
+| **2003-oggi** | Co-Chairman emeritus | [Council on Foreign Relations](../think-tank/cfr.md) |
+| **2006-oggi** | Co-Founder | Hamilton Project ([Brookings](../think-tank/brookings.md)) |
+| **2010-oggi** | Senior Counselor | Centerview Partners |
 
 ### Goldman Sachs (1966-1992)
 
@@ -96,40 +101,51 @@
 ### Mappa
 
 ```
-                      ROBERT RUBIN
-                           |
-      +--------------------+--------------------+
-      |                    |                    |
-      v                    v                    v
-  GOLDMAN SACHS         TREASURY             CFR
- (Co-Chairman          (Secretary          (Co-Chairman
-  1990-92)              1995-99)            2007-17)
-      |                    |                    |
-      +--------------------+--------------------+
-                           |
-                           v
-                       CITIGROUP
-                     (1999-2009)
+                       ROBERT RUBIN
+                            |
+    +----------+----------+-+---------+----------+
+    |          |          |           |           |
+    v          v          v           v           v
+ GOLDMAN    TREASURY   CITIGROUP    CFR      BROOKINGS
+ SACHS      70th Sec   Director   Co-Chair  Hamilton
+ 1966-92    1995-99    1999-2009  2007-17   Project
+    |          |                              2006-
+    v          v
+   NEC     CENTERVIEW
+  1993-95   2010-
 ```
 
-### Il "Rubin Network"
+### Revolving Door Pattern
 
-Protetti di Rubin che hanno ricoperto ruoli chiave:
+```
+Goldman Sachs (26 anni) → NEC Director → Treasury Secretary → Citigroup ($126M) → Centerview Partners
+     Finance           →    Government    →    Government    →    Finance       →    Finance
+```
 
-| Nome | Ruolo | Connessione |
-|------|-------|-------------|
-| **Larry Summers** | Treasury Secretary (Clinton), NEC (Obama) | Deputy sotto Rubin |
-| **Timothy Geithner** | Treasury Secretary (Obama) | Protetto |
-| **Peter Orszag** | OMB Director (Obama) | Network |
-| **Gene Sperling** | NEC Director | Network |
+### Il "Rubin Network" — Catena Mentor-Protege
 
-### Goldman Sachs
+Tre Treasury Secretaries consecutivi in catena diretta:
 
-| Connessione | Dettaglio |
-|-------------|-----------|
-| **26 anni** | Intera carriera pre-governo |
-| **Network** | Colleghi poi in posizioni chiave |
-| **Cultura** | Porto' la cultura Goldman al Tesoro |
+| Nome | Ruolo | Connessione con Rubin |
+|------|-------|-----------------------|
+| **[Larry Summers](larry-summers.md)** | Deputy Treasury Sec → Treasury Sec (Clinton) → NEC (Obama) | Protege diretto; Rubin lo promosse da Undersecretary a Secretary |
+| **[Timothy Geithner](timothy-geithner.md)** | Treasury career → NY Fed President → Treasury Sec (Obama) | Protege; mentored dalla catena Rubin-Summers |
+| **[Michael Froman](michael-froman.md)** | Chief of Staff Treasury → Citigroup → USTR (Obama) | Chief of Staff di Rubin; lo segui' a Citigroup |
+| **Peter Orszag** | OMB Director (Obama) → Citigroup | Network Hamilton Project |
+| **Gene Sperling** | NEC Director (Clinton e Obama) | Network |
+| **[Sheryl Sandberg](sheryl-sandberg.md)** | Chief of Staff Treasury → Google → Meta COO | Protege via Summers |
+
+### Goldman Sachs Network
+
+| Persona | Goldman | Poi |
+|---------|---------|-----|
+| Robert Rubin | Co-Chairman 1990-92 | Treasury Secretary |
+| [Hank Paulson](hank-paulson.md) | CEO 2000-06 | Treasury Secretary (Bush) |
+| [Mario Draghi](mario-draghi.md) | VP International 2002-05 | ECB President |
+| [Gary Cohn](gary-cohn.md) | President 2006-17 | NEC Director (Trump) |
+| [Jon Corzine](jon-corzine.md) | Co-Chairman 1994-99 | Senator, Governor NJ |
+
+> Tre Treasury Secretaries da Goldman (Rubin, Paulson, Mnuchin). Il "Goldman pipeline" al potere.
 
 ---
 
@@ -186,27 +202,37 @@ Filosofia economica associata a Rubin:
 
 ---
 
-## Connessioni con Altre Entita' PowerLink
+## Connessioni PowerLink
 
-### Istituzioni
+### Organizzazioni
 
 | Entita' | Connessione |
 |---------|-------------|
-| [Goldman Sachs](../istituzioni/goldman-sachs.md) | Co-Chairman 1990-92 |
-| [CFR](../istituzioni/cfr.md) | Co-Chairman emeritus |
-| [Federal Reserve](../istituzioni/federal-reserve.md) | Network |
+| [Goldman Sachs](../bank/goldman-sachs.md) | Associate 1966, Partner 1971, Co-Chairman 1990-92 |
+| [US Treasury](../government/tesoro-usa.md) | 70th Secretary 1995-99 |
+| [Governo USA](../government/governo-usa.md) | NEC Director 1993-95 |
+| [Citigroup](../bank/citigroup.md) | Director/Senior Counselor 1999-2009 |
+| [CFR](../think-tank/cfr.md) | Co-Chairman 2007-17, emeritus |
+| [Brookings](../think-tank/brookings.md) | Co-Founder Hamilton Project 2006 |
+| [Harvard University](../university/harvard-university.md) | AB 1960; Corporation member 2002-14; Finance Committee 2016-22 |
+| [Yale University](../university/yale.md) | LLB 1964 |
+| [LSE](../think-tank/lse.md) | Frequenza |
+| Centerview Partners | Senior Counselor 2010- |
+| LISC | Chairman board |
+| Mount Sinai Health System | Vice Chairman board |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
-| [Bill Clinton](bill-clinton.md) | Presidente che lo nomino' Treasury Secretary |
-| [Larry Summers](larry-summers.md) | Deputy e successore al Tesoro |
-| [Timothy Geithner](timothy-geithner.md) | Protetto, Treasury Secretary Obama |
-| [Larry Fink](larry-fink.md) | Network finanza |
+| [Larry Summers](larry-summers.md) | Protege; Deputy poi successore al Tesoro |
+| [Timothy Geithner](timothy-geithner.md) | Protege; Treasury Secretary Obama |
+| [Michael Froman](michael-froman.md) | Chief of Staff al Treasury; lo segui' a Citigroup |
+| [Mario Draghi](mario-draghi.md) | Goldman Sachs network |
+| [Sheryl Sandberg](sheryl-sandberg.md) | Protege via Summers/Treasury |
+| [Larry Fink](larry-fink.md) | Peer finanza |
 | [Jamie Dimon](jamie-dimon.md) | Peer Wall Street |
-| [Mario Draghi](mario-draghi.md) | Network Goldman |
-| [Alan Greenspan](alan-greenspan.md) | Fed Chairman durante amministrazione Clinton |
+| [Alan Greenspan](alan-greenspan.md) | Fed Chairman durante admin Clinton |
 
 ---
 
@@ -214,16 +240,25 @@ Filosofia economica associata a Rubin:
 
 | Anno | Evento |
 |------|--------|
-| **1938** | Nascita |
-| **1966** | Entra in Goldman Sachs |
-| **1990** | Co-Chairman Goldman |
-| **1993** | Direttore NEC |
-| **1995** | Treasury Secretary |
-| **1999** | Abolizione Glass-Steagall |
-| **1999** | Entra in Citigroup |
+| **1938** | Nasce a New York City |
+| **1960** | AB Economics Harvard, summa cum laude |
+| **1961** | Frequenta London School of Economics |
+| **1964** | LLB Yale Law School; entra in Cleary Gottlieb |
+| **1966** | Entra in Goldman Sachs come associate |
+| **1971** | Partner Goldman Sachs |
+| **1987** | Vice Chairman e Co-COO Goldman |
+| **1990** | Co-Chairman e Co-Senior Partner Goldman |
+| **1993** | Primo Director NEC (Clinton); lascia Goldman dopo 26 anni |
+| **1995** | 70th Secretary of the Treasury |
+| **1999** | Firma Gramm-Leach-Bliley Act (abolizione Glass-Steagall); lascia Treasury; entra in Citigroup |
+| **2002** | Membro Harvard Corporation |
 | **2003** | Vice Chairman CFR |
-| **2008** | Crisi finanziaria |
-| **2009** | Lascia Citigroup |
+| **2006** | Co-fonda Hamilton Project (Brookings) con Summers |
+| **2007** | Co-Chairman CFR |
+| **2008** | Crisi finanziaria; Citigroup riceve $45B TARP bailout |
+| **2009** | Lascia Citigroup dopo 10 anni e ~$126M in compensi |
+| **2010** | Senior Counselor Centerview Partners |
+| **2017** | Co-Chairman emeritus CFR |
 
 ---
 
@@ -237,11 +272,17 @@ Filosofia economica associata a Rubin:
 
 ## Fonti
 
+### Biografie
 - [Wikipedia - Robert Rubin](https://en.wikipedia.org/wiki/Robert_Rubin)
-- [CFR - Robert E. Rubin](https://www.cfr.org/expert/robert-e-rubin)
+- [Miller Center - Bob Rubin](https://millercenter.org/bob-rubin)
+
+### Istituzioni
+- [CFR - Robert E. Rubin](https://www.cfr.org/experts/robert-e-rubin)
 - [Treasury - Robert E. Rubin](https://home.treasury.gov/about/history/prior-secretaries/robert-e-rubin-1995-1999)
+- [Hamilton Project - Robert E. Rubin](https://www.hamiltonproject.org/people/robert-e-rubin/)
 - [Centerview Partners - Bob Rubin](https://www.centerviewpartners.com/ourteammember.aspx?employee=Robert+Rubin)
+- [Aspen Economic Strategy Group](https://www.economicstrategygroup.org/members/robert-rubin/)
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

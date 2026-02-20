@@ -30,15 +30,15 @@
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
 | **~1978** | Funzionario doganale | Porto di Dubai |
-| **1985-oggi** | Chairman | Jebel Ali Free Zone (JAFZA) |
-| **2007-oggi** | Group Chairman | DP World |
-| **2016-oggi** | Group CEO | DP World |
-| **2018-oggi** | Non-executive Chairman | Virgin Hyperloop |
-| **in corso** | Chairman | Ports, Customs & Free Zone Corporation (PCFC) |
-| **in corso** | Chairman | Dubai International Chamber |
-| **in corso** | Board Member | Dubai Executive Council |
-| **in corso** | Board Member | UAE Federal Tax Authority |
-| **in corso** | Board Member | Nakheel PJSC |
+| **1985-2026** | Chairman | Jebel Ali Free Zone (JAFZA) |
+| **2007-2026** | Group Chairman | DP World |
+| **2016-2026** | Group CEO | DP World |
+| **2018-2026?** | Non-executive Chairman | Virgin Hyperloop |
+| **-2026** | Chairman | Ports, Customs & Free Zone Corporation (PCFC) |
+| **-2026** | Chairman | Dubai International Chamber |
+| **-2026** | Board Member | Dubai Executive Council |
+| **-2026** | Board Member | UAE Federal Tax Authority |
+| **-2026** | Board Member | Nakheel PJSC |
 
 ### JAFZA - Da 19 a 7.500 aziende
 
@@ -112,9 +112,11 @@ Nominato chairman di JAFZA da Mohammed bin Rashid nel 1985, ha supervisionato la
 
 | Tema | Periodo | Dettaglio |
 |------|---------|-----------|
-| Jeffrey Epstein | 2007-2015+ | Email rilasciate dal DOJ (feb 2026) mostrano corrispondenza con Epstein dopo la condanna del 2008. Contenuti a sfondo sessuale. Epstein creo' una LLC a nome di bin Sulayem per acquistare un'isola per $22.5M. Visite all'isola privata di Epstein nei Caraibi |
+| Jeffrey Epstein | 2007-2015+ | Email rilasciate dal DOJ (feb 2026) mostrano corrispondenza con Epstein dopo la condanna del 2008. Contenuti a sfondo sessuale. Epstein creo' una LLC a nome di bin Sulayem per acquistare Great St James Island per $22.5M (2016). Visite all'isola privata di Epstein nei Caraibi. Nominato co-cospiratore nei DOJ files, non incriminato penalmente |
 | "Torture video" | 2009 | Email di Epstein del 24 aprile 2009 riferisce a un "torture video" inviato da bin Sulayem. Confermato dal Rep. Thomas Massie (9 feb 2026) |
+| **Dimissioni** | **Feb 2026** | **Dimesso da tutte le cariche (DP World, PCFC) il 13 Feb 2026, giorno delle rivelazioni DOJ. Sostituito da Essa Kazim (Chairman) e Yuvraj Narayan (CEO)** |
 | Caisse de depot Quebec | 2026 | La Caisse de depot et placement du Quebec sospende operazioni con DP World dopo le rivelazioni su Epstein |
+| Prince William | 2026 | Daily Beast rivela legame personale con Principe William, ulteriore imbarazzo |
 
 ---
 
@@ -124,7 +126,7 @@ Nominato chairman di JAFZA da Mohammed bin Rashid nel 1985, ha supervisionato la
 
 | Entita' | Connessione |
 |---------|-------------|
-| [DP World](../company/dp-world.md) | Group Chairman & CEO (2007-) |
+| [DP World](../company/dp-world.md) | Group Chairman & CEO (2007-2026), dimesso per Epstein files |
 | [Governo UAE](../government/governo-uae.md) | Chairman PCFC, Board Dubai Executive Council, Chairman JAFZA |
 | [WEF](../forum/wef.md) | Agenda Contributor |
 | [Virgin Hyperloop](../company/virgin-hyperloop.md) | Non-executive Chairman (2018-) |
@@ -154,15 +156,16 @@ Nominato chairman di JAFZA da Mohammed bin Rashid nel 1985, ha supervisionato la
 | **2009** | Email Epstein su "torture video" |
 | **2016** | Group CEO DP World |
 | **2018** | Non-executive Chairman Virgin Hyperloop |
-| **2026** | DOJ rilascia email Epstein; Caisse Quebec sospende rapporti con DP World |
+| **2026 Feb 13** | DOJ rilascia Epstein files; dimissioni immediate da DP World e PCFC; Caisse Quebec sospende rapporti |
 
 ---
 
 ## Domande Aperte
 
-- [ ] Dettagli sull'isola acquistata tramite LLC creata da Epstein
+- [x] ~~Impatto delle rivelazioni Epstein~~: dimesso da tutte le cariche 13 Feb 2026
+- [x] ~~Dettagli sull'isola~~: Great St James Island, $22.5M, LLC a suo nome
 - [ ] Ruolo di Istithmar World nei rapporti con Epstein
-- [ ] Impatto delle rivelazioni Epstein sulla posizione in DP World e ruoli governativi
+- [ ] Destino dei ruoli governativi UAE post-dimissioni
 
 ---
 
@@ -177,9 +180,15 @@ Nominato chairman di JAFZA da Mohammed bin Rashid nel 1985, ha supervisionato la
 - [Concordia](https://concordia.net/community/sultan-ahmed-bin-sulayem/)
 
 ### Analisi
+- [CNN - DOJ reveals sexually explicit emails with Epstein](https://www.cnn.com/2026/02/13/business/epstein-files-bin-sulayem-friendship-intl)
+- [CNBC - DP World replaces CEO after Epstein links](https://www.cnbc.com/2026/02/13/dubais-dp-world-replaces-ceo-after-epstein-links-emerge.html)
+- [ITV - Former DP World boss helped Epstein buy second island](https://www.itv.com/news/2026-02-13/former-dp-world-boss-helped-epstein-buy-second-island-documents-suggest)
+- [Al Jazeera - DP World replaces chief named in Epstein files](https://www.aljazeera.com/news/2026/2/13/logistics-giant-dp-world-replaces-chief-named-in-epstein-files)
+- [Daily Beast - Prince William's pal resigns](https://www.thedailybeast.com/prince-williams-pal-sultan-ahmed-bin-sulayem-resigns-after-jeffrey-epsteins-torture-video-email-exposed/)
 - [Globe and Mail - Caisse sospende dealmaking con DP World](https://www.theglobeandmail.com/business/article-caisse-de-depot-et-placement-du-quebec-dp-world-jeffrey-epstein/)
 - [Middle East Eye - Epstein e UAE businessman](https://www.middleeasteye.net/news/epstein-and-uae-businessman-pictured-sacred-kaaba-cloth-floor)
 - [Newsweek - Massie conferma identita'](https://www.newsweek.com/sultan-ahmed-bin-sulayem-epstein-files-massie-torture-video-email-11494204)
+- [Temple News - Alumnus named in Epstein files](https://temple-news.com/alumnus-named-in-epstein-files/)
 
 ---
 

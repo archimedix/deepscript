@@ -61,12 +61,12 @@
 ```
                      LEON BLACK
                          |
-    +----------+---------+---------+----------+
-    |          |         |         |          |
-    v          v         v         v          v
- APOLLO     DREXEL     MoMA      MET      DARTMOUTH
-(1990-21)  (1977-90) (Chair    (Trustee)  (Donor)
-                     2018-21)
+    +-----+------+------+------+------+------+
+    |     |      |      |      |      |      |
+    v     v      v      v      v      v      v
+ APOLLO DREXEL  MoMA   MET    CFR   ASIA  DARTMOUTH
+(90-21)(77-90)(Chair (Trust) (Memb) SOC.  (Donor)
+              18-21)
 ```
 
 ### Network Professionale
@@ -106,11 +106,12 @@
 
 | Tema | Periodo | Dettaglio |
 |------|---------|-----------|
-| **Jeffrey Epstein** | 2012-2017 | Pagati $158M per consulenza fiscale |
+| **Jeffrey Epstein** | 2012-2017 | Pagati $158-170M per consulenza fiscale |
 | **Risparmio fiscale** | | Strategie Epstein risparmiarono $1.3B tasse |
 | **Dimissioni Apollo** | 2021 | Lascia CEO (marzo) dopo review interna |
 | **Dimissioni MoMA** | 2021 | Non si ricandida a Chairman dopo proteste 150+ artisti |
-| **Settlement USVI** | 2023 | $62.5M alle US Virgin Islands per chiudere cause Epstein |
+| **Settlement USVI** | 2023 | $62.5M alle US Virgin Islands (immunita' penale USVI) |
+| **Indagine Senato** | 2023-2025 | Senate Finance Committee (Wyden): fondi Black finanziarono operazioni trafficking Epstein |
 | **Pledge compensativo** | 2021 | $200M per vittime violenza domestica/trafficking |
 
 ### Timeline Scandalo Epstein
@@ -118,11 +119,13 @@
 | Data | Evento |
 |------|--------|
 | **2008** | Epstein si dichiara colpevole abuso minorenne |
-| **2012-2017** | Black paga $158M a Epstein per consulenza |
+| **2012-2017** | Black paga $158-170M a Epstein per consulenza |
 | **Gen 2021** | Report Dechert LLP rivela i pagamenti |
 | **Mar 2021** | Black lascia Apollo, Marc Rowan diventa CEO |
 | **Lug 2021** | Lascia chairmanship MoMA |
-| **Ago 2023** | Settlement $62.5M con US Virgin Islands |
+| **Lug 2023** | Sen. Wyden apre indagine Senate Finance Committee |
+| **Ago 2023** | Settlement $62.5M con US Virgin Islands (immunita' penale) |
+| **Mar 2025** | Wyden rilascia nuove prove: fondi Black finanziarono operazioni Epstein |
 
 ---
 
@@ -138,6 +141,9 @@
 | [Metropolitan Museum](../foundation/metropolitan-museum.md) | Trustee 2000- |
 | [Dartmouth College](../university/dartmouth.md) | Alumni 1973, major donor |
 | [Harvard Business School](../university/harvard-business-school.md) | Alumni MBA 1975 |
+| [CFR](../think-tank/cfr.md) | Member |
+| [Asia Society](../forum/asia-society.md) | Trustee |
+| [Giving Pledge](../foundation/giving-pledge.md) | Member 2010- |
 
 ### Persone
 
@@ -145,6 +151,7 @@
 |---------|-----------|
 | [Marc Rowan](../persons/marc-rowan.md) | Co-founder Apollo, successore |
 | [Joshua Harris](../persons/joshua-harris.md) | Co-founder Apollo |
+| [Jeffrey Epstein](../persons/jeffrey-epstein.md) | Consulente fiscale, $158-170M pagati 2012-2017 |
 
 ---
 
@@ -178,6 +185,9 @@
 - [CNN - Leon Black leaving Apollo](https://www.cnn.com/2021/03/22/investing/leon-black-apollo-epstein)
 - [CNBC - $158M to Epstein](https://www.cnbc.com/2021/01/25/apollos-leon-black-to-retire-as-ceo-but-remain-chairman-after-he-is-cleared-in-internal-epstein-probe.html)
 - [CNN - $62.5M Settlement](https://www.cnn.com/2023/08/04/business/leon-black-settles-virgin-islands-jeffrey-epstein-claims)
+- [Senate Finance Committee - Wyden Investigation 2023](https://www.finance.senate.gov/chairmans-news/wyden-unveils-ongoing-investigation-into-private-equity-billionaire-leon-blacks-tax-planning-and-financial-ties-with-jeffrey-epstein)
+- [Senate Finance Committee - Wyden 2025 Update](https://www.finance.senate.gov/ranking-members-news/wyden-releases-new-information-on-financing-of-jeffrey-epsteins-operations-by-billionaire-leon-black-seeks-documents-from-trump-administration)
+- [Air Mail - The $158-170M Question](https://airmail.news/issues/2025-12-13/the-158-170-million-question-part-iii)
 
 ### Arte e Filantropia
 - [ARTnews - Top 200 Collectors](https://www.artnews.com/art-collectors/top-200-profiles/debra-and-leon-black/)
@@ -185,4 +195,4 @@
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

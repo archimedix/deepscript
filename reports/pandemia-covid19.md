@@ -165,6 +165,98 @@ UCL (BSc, MBBS) → Oxford (DPhil, Professor 2000-13)
 
 ---
 
+## Il Canale Epstein-Gates nella Governance Pandemica
+
+I documenti DOJ rilasciati nel gennaio 2026 (Epstein files) rivelano che Jeffrey Epstein aveva un ruolo operativo nella pianificazione strategica dell'ecosistema Gates legato alla salute globale e alla preparazione pandemica, dal 2011 al 2017 almeno.
+
+### Architettura DAF Legata a Gates (2011-2017)
+
+```
+JPMorgan (Jes Staley, Mary Erdoes)
+        |
+        v
+Jeffrey Epstein ←──── architetto operativo
+        |
+        +── "braccio offshore per vaccini"
+        +── presentazione includa "denaro aggiuntivo per i vaccini"
+        +── scala prevista: $100B in 2 anni
+        |
+        v
+Gates Foundation / Boris Nikolic
+        |
+        v
+Donor Advised Fund (DAF)
+   "pandemia" come area chiave permanente (2017)
+```
+
+| Data | Documento | Contenuto chiave |
+|------|-----------|------------------|
+| **Feb 2011** | Email JPM (Juliet Pullis) → Epstein | JPMorgan chiede a Epstein di progettare il fondo benefico legato a Gates |
+| **Lug 2011** | Epstein → Jes Staley, cc Boris Nikolic | Struttura DAF con "braccio offshore — specialmente per i vaccini" |
+| **Ago 2011** | Epstein → Mary Erdoes (JPM) | Coaching su stato emotivo di Gates; "denaro per i vaccini" deve essere incluso |
+| **Ago 2013** | Lettera accordo a William H. Gates | Gates chiede che Epstein rappresenti Nikolic; riconosce relazione e info riservate |
+| **Set 2013** | Cena residenza Epstein | Bill e [Melinda Gates](../docs/persons/melinda-gates.md), [Terje Rod-Larsen](../docs/persons/terje-rod-larsen.md) (IPI), Thorbjorn Jagland (Consiglio Europa) |
+| **Mag 2017** | Email Epstein-Gates-Nikolic | DAF come "contrappeso"; Nikolic: "pandemia" come area chiave permanente |
+
+**Fonti:** EFTA00697005, invito calendario "Incontro Billg con Jeffrey Epstein (Boris)" luglio 2011.
+
+### La Rete di Preparazione Pandemica Attraverso Epstein
+
+| Data | Canale istituzionale | Canale Epstein |
+|------|---------------------|----------------|
+| **Mar 2015** | [Amy K. Carter](../docs/persons/amy-carter.md) (Gates Foundation) scrive a Rod-Larsen (IPI): convocazione preparazione pandemica | — |
+| **Giu 2015** | — | Epstein inoltra a Rod-Larsen articolo Vox su Gates e pandemia influenzale |
+| **Gen 2017** | — | Thread iMessage: associato Epstein elenca "simulazione pandemica" come qualifica carriera; collocamento in bgC3, Biomatics (Nikolic), Merck vaccini, Swiss Re |
+| **Gen 2017** | — | Epstein offre di mediare Gates-Bannon/Thiel/Barrack (21 gen, giorno dopo inaugurazione Trump) |
+| **Mar 2017** | — | Email "bgC3 Deliverables and Scope" inoltrata a Epstein: "simulazione pandemia di ceppo" tra i deliverable |
+
+**Pattern**: Il canale istituzionale (Gates Foundation → IPI) e il canale Epstein operano in parallelo sugli stessi temi (preparazione pandemica) e le stesse persone (Rod-Larsen). Quando il canale formale rifiuta (la Foundation declina il finanziamento IPI), il canale Epstein mantiene aperta la linea.
+
+### Thread iMessage: Il Menu Carriera Pandemico (Gennaio 2017)
+
+Il thread (EFTA01617419-27, 20-23 gennaio 2017) rivela l'intera pipeline:
+
+| Nodo | Funzione |
+|------|----------|
+| bgC3 (Gates Ventures) | Ufficio privato Gates, "simulazione pandemia di ceppo" |
+| Biomatics Capital (Boris Nikolic) | VC biotech, collocamento personale |
+| Merck (team vaccinale) | Produzione vaccini (Gardasil/HPV) |
+| Swiss Re | Riassicurazione pandemica |
+| WEF | Governance globale |
+| Rockefeller Foundation | Filantropia sanitaria |
+| World Bank | Sviluppo |
+| Goldman Sachs | Finanza |
+
+Ogni nodo principale nella pipeline preparazione-pandemia → profitto appare in un unico menu carriera gestito via iMessage di Epstein.
+
+### Figure Chiave nel Canale Epstein-Pandemia
+
+| Persona | Ruolo nel canale | Scheda |
+|---------|-----------------|--------|
+| [Bill Gates](../docs/persons/bill-gates.md) | Centro della rete; chiede formalmente a Epstein di rappresentare Nikolic | ✓ |
+| [Boris Nikolic](../docs/persons/boris-nikolic.md) | Chief Science Advisor Gates; in copia email DAF vaccini 2011; "pandemia" come area DAF 2017 | ✓ |
+| [Melinda French Gates](../docs/persons/melinda-gates.md) | Presente cena Epstein 2013; disagio espresso a Bill; fattore divorzio 2021 | ✓ |
+| [Terje Rod-Larsen](../docs/persons/terje-rod-larsen.md) | Presidente IPI; ospite cene Epstein; destinatario proposta pandemica Gates Foundation e articoli Epstein | ✓ |
+| [Amy K. Carter](../docs/persons/amy-carter.md) | Vice Dir. Family Interest Grants, Gates Foundation; firmataria lettera IPI 2015 | ✓ |
+| [Martin Sorrell](../docs/persons/martin-sorrell.md) | WPP; menzionato nel thread iMessage Epstein | ✓ |
+| [Jes Staley](../docs/persons/jes-staley.md) | JPMorgan; chiede a Epstein di architettare il DAF Gates | ✓ |
+| [Mary Erdoes](../docs/persons/mary-erdoes.md) | CEO JPM Asset & Wealth Mgmt; destinataria coaching Epstein su Gates | ✓ |
+| [Lesley Groff](../docs/persons/lesley-groff.md) | Assistente Epstein; "Aggiornamento cena Gates" settembre 2013 | ✓ |
+
+### Conseguenze (2021-2026)
+
+| Data | Evento |
+|------|--------|
+| **2021** | Divorzio Gates; Melinda conferma relazione Epstein tra i fattori |
+| **Gen 2026** | DOJ rilascia 3 milioni di documenti Epstein |
+| **Feb 2026** | Gates cancella keynote India AI Summit sotto pressione |
+| **Feb 2026** | Melinda dichiara a NPR che Bill deve rispondere ai documenti |
+| **Feb 2026** | Gates dichiara incontri un "errore di giudizio" |
+
+Vedi analisi completa: [Escape/covid19.md](../Escape/covid19.md), [Report Epstein Network](epstein-network-2026.md)
+
+---
+
 ## Big Three e Vaccini
 
 ### Partecipazioni Asset Manager
@@ -738,8 +830,11 @@ Co-fondato da Vallance e Whitty per coordinare governo-industria-accademia.
 
 | Persona | Ruolo COVID |
 |---------|-------------|
-| [Bill Gates](../docs/persons/bill-gates.md) | Filantropo, finanziatore |
-| [Boris Nikolic](../docs/persons/boris-nikolic.md) | Ex-advisor Gates, biotech |
+| [Bill Gates](../docs/persons/bill-gates.md) | Filantropo, finanziatore; relazione documentata con Epstein nel contesto DAF/vaccini (2011-2017) |
+| [Melinda French Gates](../docs/persons/melinda-gates.md) | Co-chair Gates Foundation 2000-2024; cena Epstein 2013; divorzio 2021 legato a relazione Gates-Epstein |
+| [Boris Nikolic](../docs/persons/boris-nikolic.md) | Ex-advisor Gates, biotech; in copia email DAF vaccini 2011, "pandemia" come area DAF 2017 |
+| [Amy K. Carter](../docs/persons/amy-carter.md) | Director Community Engagement Gates Foundation; firmataria lettera IPI 2015 su preparazione pandemica |
+| [Martin Sorrell](../docs/persons/martin-sorrell.md) | Founder WPP; menzionato nel thread iMessage Epstein gen 2017 |
 | [Tedros Adhanom](../docs/persons/tedros-adhanom.md) | DG WHO |
 | [Albert Bourla](../docs/persons/albert-bourla.md) | CEO Pfizer |
 | [Scott Gottlieb](../docs/persons/scott-gottlieb.md) | Ex-FDA, board Pfizer |
@@ -800,6 +895,15 @@ Co-fondato da Vallance e Whitty per coordinare governo-industria-accademia.
 
 | Data | Evento |
 |------|--------|
+| **Feb 2011** | Email JPMorgan → Epstein: architettura DAF legato a Gates per vaccini |
+| **Lug 2011** | Epstein propone "braccio offshore per vaccini" a Jes Staley/Boris Nikolic |
+| **Ago 2013** | Lettera accordo: Gates chiede a Epstein di rappresentare Nikolic |
+| **Set 2013** | Cena Epstein: Bill e Melinda Gates, Rod-Larsen (IPI), Jagland |
+| **Mar 2015** | Amy K. Carter (Gates Foundation) scrive a Rod-Larsen (IPI) su preparazione pandemica |
+| **Giu 2015** | Epstein inoltra a Rod-Larsen articolo Vox su Gates e pandemia |
+| **Gen 2017** | Thread iMessage Epstein: "simulazione pandemica" come qualifica, menu carriera Gates/Nikolic/Merck/SwissRe |
+| **Mar 2017** | Documento bgC3 "simulazione pandemia di ceppo" inoltrato a Epstein |
+| **Mag 2017** | Email Epstein-Gates-Nikolic: "pandemia" come area DAF permanente |
 | **Giu 2001** | Operation Dark Winter - simulazione bioterrorismo vaiolo (JH Center) |
 | **Nov 2006** | Paper "Targeted Social Distancing" pubblicato (Glass, Mecher, Hatchett) |
 | **Feb 2007** | CDC adotta social distancing come policy ufficiale USA (NPI) |
@@ -833,6 +937,8 @@ Co-fondato da Vallance e Whitty per coordinare governo-industria-accademia.
 | **Nov 2024** | Ex-CDC Dir. Redfield chiama Baric "scientific mastermind" del COVID |
 | **Gen 2026** | NC Court of Appeals conferma diritto UNC a trattenere documenti Baric Lab |
 | **Feb 2025** | Shi Zhengli pubblica scoperta HKU5-CoV-2 (nuovo coronavirus pericoloso) |
+| **Gen 2026** | DOJ rilascia 3 milioni di documenti Epstein; emergono dettagli su canale Gates-Epstein-pandemia |
+| **Feb 2026** | Gates cancella keynote India AI Summit; Melinda dichiara che Bill deve rispondere |
 | **Gen 2025** | Trump annuncia ritiro USA dall'OMS |
 | **Ott 2025** | Helen Clark nominata Chair GAVI |
 | **2025** | USA perde seggio board GAVI (mancato finanziamento) |
@@ -1017,11 +1123,24 @@ Il Guangzhou Laboratory e' un nuovo istituto nazionale per malattie infettive, d
 
 ---
 
-*Ultimo aggiornamento: 5 Febbraio 2026 (sessione 4)*
+*Ultimo aggiornamento: 20 Febbraio 2026 (sessione 5)*
 
 ---
 
 ## Note Sessione
+
+### Sessione 5 (20 Feb 2026) - Canale Epstein-Gates-Pandemia
+
+Entita' documentate:
+- [Martin Sorrell](../docs/persons/martin-sorrell.md) - scheda creata (WPP founder, WEF IBC Chairman, menzionato iMessage Epstein)
+- [Amy K. Carter](../docs/persons/amy-carter.md) - scheda creata (Gates Foundation Director, firmataria lettera IPI 2015)
+- [Melinda French Gates](../docs/persons/melinda-gates.md) - scheda creata (co-chair Gates Foundation 2000-2024, cena Epstein 2013, divorzio 2021)
+- [Bill Gates](../docs/persons/bill-gates.md) - sezione Epstein aggiornata con dettagli DOJ 2026 (lettera accordo, DAF JPMorgan, iMessage, bgC3)
+- bgC3/Gates Ventures - verificato: gia' esistente come `gates-ventures`
+
+**Nuova sezione report**: "Il Canale Epstein-Gates nella Governance Pandemica" — documenta l'architettura DAF-vaccini (2011-2017), la rete di preparazione pandemica attraverso Epstein (IPI/Rod-Larsen), il thread iMessage con menu carriera pandemico, e le conseguenze 2021-2026.
+
+**Pattern identificato**: Doppio canale istituzionale/informale — la Gates Foundation opera formalmente (lettera Carter → IPI) mentre Epstein mantiene il canale parallelo sulle stesse persone e temi (Rod-Larsen, preparazione pandemica). Quando il canale formale rifiuta, il canale Epstein resta attivo.
 
 ### Sessione 4 (5 Feb 2026) - UNC Chapel Hill / Ralph Baric deep dive
 

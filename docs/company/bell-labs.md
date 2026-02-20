@@ -37,11 +37,18 @@
 | **1956** | Nobel per il transistor |
 | **1958** | Primo laser |
 | **1962** | Telstar 1, primo satellite comunicazioni |
-| **1969** | Unix e linguaggio C |
+| **1969** | Thompson e Ritchie creano Unix |
+| **1970** | Kernighan battezza "Unix" (gioco di parole su Multics) |
+| **1972** | Ritchie crea il linguaggio C; Thompson riscrive Unix in C |
 | **1978** | Nobel: Penzias e Wilson (radiazione cosmica di fondo) |
 | **1984** | AT&T divestiture; Bell Labs resta con AT&T |
+| **1989** | Plan 9 from Bell Labs (Thompson, Pike, Ritchie) |
+| **1992** | Thompson e Pike creano UTF-8 |
 | **1996** | Spin-off in Lucent Technologies |
+| **2000** | Thompson va in pensione; Kernighan passa a Princeton |
+| **2002** | Rob Pike lascia per Google |
 | **2006** | Lucent acquisita da Alcatel |
+| **2007** | Ritchie va in pensione |
 | **2016** | Nokia acquisisce Alcatel-Lucent, diventa Nokia Bell Labs |
 
 ---
@@ -99,9 +106,13 @@ AT&T (1925-1996)
 | **1947** | Transistor | Base di tutta l'elettronica moderna |
 | **1954** | Cella solare | Energia fotovoltaica |
 | **1958** | Laser | Telecomunicazioni, medicina, industria |
-| **1969** | Unix | Sistema operativo base di Linux, macOS |
-| **1969** | Linguaggio C | Fondamento programmazione moderna |
-| **1972** | C++ | Programmazione object-oriented |
+| **1969** | Unix | Thompson e Ritchie. Base di Linux, macOS, Android |
+| **1969** | Linguaggio B | Thompson. Predecessore di C |
+| **1972** | Linguaggio C | Ritchie. Fondamento programmazione moderna |
+| **1978** | "The C Programming Language" | Kernighan e Ritchie (K&R). Il libro piu' influente |
+| **1979** | C++ | Bjarne Stroustrup. Programmazione object-oriented |
+| **1989** | Plan 9 | Thompson, Pike, Ritchie. OS successore di Unix |
+| **1992** | UTF-8 | Thompson e Pike. Encoding dominante del web (>98%) |
 
 ### Telecomunicazioni
 
@@ -132,16 +143,43 @@ AT&T (1925-1996)
 | [John Bardeen](../persons/john-bardeen.md) | Physicist | 2 Nobel (1956, 1972) |
 | [Walter Brattain](../persons/walter-brattain.md) | Physicist | Point-contact transistor |
 
+### Unix Team — La Rivoluzione del Software
+
+| Nome | Periodo | Contributo |
+|------|---------|-----------|
+| [Ken Thompson](../persons/ken-thompson.md) | 1966-2000 | Co-creatore Unix, linguaggio B, Plan 9. Turing Award 1983 |
+| [Dennis Ritchie](../persons/dennis-ritchie.md) | 1967-2007 | Co-creatore Unix, creatore linguaggio C. Turing Award 1983 |
+| [Brian Kernighan](../persons/brian-kernighan.md) | 1969-2000 | Nomino' Unix, co-autore K&R, co-creatore AWK |
+| [Rob Pike](../persons/rob-pike.md) | 1980-2002 | Plan 9, Inferno, co-creatore UTF-8 |
+
+**Eredita' dello Unix team**: Thompson, Ritchie, Kernighan e Pike si ritrovarono poi tutti collegati a Google (Thompson e Pike direttamente, Kernighan a Princeton che alimenta Google). Il linguaggio Go (2009) e' il loro ultimo prodotto collettivo.
+
 ### Altri Contributori Chiave
 
 | Nome | Contributo |
 |------|-----------|
-| [Claude Shannon](../persons/claude-shannon.md) | Teoria dell'informazione |
+| [Claude Shannon](../persons/claude-shannon.md) | Teoria dell'informazione (1948) |
 | [Mervin Kelly](../persons/mervin-kelly.md) | Presidente, architetto era d'oro |
-| Ken Thompson | Unix, linguaggio B |
-| Dennis Ritchie | Unix, linguaggio C |
-| Arno Penzias | Scoperta radiazione cosmica |
-| Robert Wilson | Scoperta radiazione cosmica |
+| Arno Penzias | Scoperta radiazione cosmica di fondo, Nobel 1978 |
+| Robert Wilson | Scoperta radiazione cosmica di fondo, Nobel 1978 |
+| [Bruce Schneier](../persons/bruce-schneier.md) | Crittografo |
+| Bjarne Stroustrup | Creatore C++ (1979) |
+| Alfred Aho | Co-creatore AWK, teoria dei compilatori |
+
+---
+
+## Connessioni Government/Military
+
+Bell Labs e' stato un pilastro del complesso militare-industriale americano fin dalla sua fondazione.
+
+| Periodo | Programma | Dettaglio |
+|---------|-----------|-----------|
+| **WWI-1930s** | Radar, comunicazioni militari | Inizio cooperazione con il Dipartimento della Difesa |
+| **WWII** | SIGSALY | Sistema crittografico vocale classificato per Churchill-Roosevelt |
+| **WWII** | Proximity fuse | Spoletta di prossimita', decisiva nel Pacifico |
+| **1950s-70s** | NSA partnership | Ricerca crittografica, descritto come rapporto "unico e produttivo" |
+| **1960s** | Multics/DARPA | Progetto con MIT e GE, finanziato DARPA ($2M grant iniziale) |
+| **Cold War** | Sorveglianza AT&T-NSA | Infrastruttura telecomunicazioni come asset di intelligence |
 
 ---
 
@@ -151,9 +189,9 @@ AT&T (1925-1996)
 
 | Organizzazione | Relazione | Periodo |
 |----------------|-----------|---------|
-| AT&T | Owner | 1925-1996 |
-| Lucent Technologies | Owner | 1996-2006 |
-| Alcatel-Lucent | Owner | 2006-2016 |
+| [AT&T](../company/att.md) | Owner | 1925-1996 |
+| [Lucent Technologies](../company/lucent-technologies.md) | Owner | 1996-2006 |
+| [Alcatel-Lucent](../company/alcatel-lucent.md) | Owner | 2006-2016 |
 | [Nokia](../company/nokia.md) | Owner | 2016-oggi |
 
 ### Spin-off e Influenze
@@ -164,15 +202,20 @@ AT&T (1925-1996)
 | [Fairchild Semiconductor](../company/fairchild-semiconductor.md) | "Traitorous Eight" ex-Shockley |
 | [Intel](../company/intel.md) | Noyce e Moore ex-Fairchild |
 
-### Persone
+### Persone (dal grafo Neo4j)
 
-| Persona | Ruolo |
-|---------|-------|
-| [William Shockley](../persons/william-shockley.md) | Physicist 1936-55 |
-| [John Bardeen](../persons/john-bardeen.md) | Researcher 1945-51 |
-| [Walter Brattain](../persons/walter-brattain.md) | Researcher 1929-67 |
-| [Claude Shannon](../persons/claude-shannon.md) | Researcher 1941-72 |
-| [Mervin Kelly](../persons/mervin-kelly.md) | President 1951-59 |
+| Persona | Ruolo | Periodo | Note |
+|---------|-------|---------|------|
+| [Mervin Kelly](../persons/mervin-kelly.md) | Executive | 1925-59 | President 1951-59, architetto era d'oro |
+| [Walter Brattain](../persons/walter-brattain.md) | Researcher | 1929-67 | Co-inventore transistor |
+| [William Shockley](../persons/william-shockley.md) | Executive | 1936-55 | Group leader, co-inventore transistor |
+| [Claude Shannon](../persons/claude-shannon.md) | Researcher | 1941-72 | Teoria dell'informazione |
+| [John Bardeen](../persons/john-bardeen.md) | Researcher | 1945-51 | Co-inventore transistor, 2 Nobel |
+| [Ken Thompson](../persons/ken-thompson.md) | Researcher | 1966-2000 | Co-creatore Unix, B, Plan 9 |
+| [Dennis Ritchie](../persons/dennis-ritchie.md) | Researcher | 1967-2007 | Co-creatore Unix, creatore C |
+| [Brian Kernighan](../persons/brian-kernighan.md) | Researcher | 1969-2000 | K&R, AWK, nomino' Unix |
+| [Rob Pike](../persons/rob-pike.md) | Researcher | 1980-2002 | Plan 9, UTF-8, Inferno |
+| [Bruce Schneier](../persons/bruce-schneier.md) | Employee | — | Crittografo |
 
 ---
 
@@ -205,9 +248,19 @@ Bell Labs ha creato le fondamenta tecnologiche dell'era digitale:
 
 - **Transistor** → Microprocessori → Smartphone
 - **Teoria informazione** → Internet → AI
-- **Unix/C** → Linux → Cloud computing
+- **Unix/C** → Linux → Cloud computing → Go → Kubernetes
 - **Laser** → Fibra ottica → Telecomunicazioni globali
 - **CCD** → Fotografia digitale → Imaging medico
+- **UTF-8** → Encoding universale del web (>98% pagine)
+
+### Da Bell Labs a Google
+
+Il nucleo dello Unix team si ritrovo' a Google negli anni 2000:
+- **Ken Thompson** (2006): Distinguished Engineer, co-creo' Go
+- **Rob Pike** (2002): Distinguished Engineer, co-creo' Go
+- **Brian Kernighan**: a Princeton, che alimenta il pipeline di talenti Google
+
+Go (2009), il linguaggio alla base di Docker, Kubernetes e dell'infrastruttura cloud moderna, e' l'ultimo prodotto della tradizione Bell Labs.
 
 ---
 
@@ -229,4 +282,4 @@ Bell Labs ha creato le fondamenta tecnologiche dell'era digitale:
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2025*
+*Ultimo aggiornamento: Febbraio 2026*

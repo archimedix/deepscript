@@ -18,11 +18,15 @@
 
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
-| **1972-76** | Princeton University | BA Electrical Engineering |
-| **1976-79** | UC Berkeley | MS Computer Science |
-| **1979-82** | UC Berkeley | PhD Computer Science |
+| **1972-76** | [Princeton University](../university/princeton.md) | BSEE Electrical Engineering (entrato come studente di architettura) |
+| **1976-79** | [UC Berkeley](../university/uc-berkeley.md) | MS Computer Science |
+| **1979-82** | [UC Berkeley](../university/uc-berkeley.md) | PhD Computer Science (distributed software development) |
 
-Schmidt crebbe a Blacksburg, Virginia, dove il padre era professore di economia alla Virginia Tech.
+**Note accademiche:**
+- Crebbe a Blacksburg, Virginia, dove il padre era professore di economia alla Virginia Tech
+- A Princeton, cambio' major da architettura a ingegneria elettrica
+- Nel 1975, da stagista a Bell Labs, co-autore di Lex (lexical analyser per Unix)
+- Conobbe la moglie Wendy a Berkeley nel 1977
 
 ---
 
@@ -32,9 +36,10 @@ Schmidt crebbe a Blacksburg, Virginia, dove il padre era professore di economia 
 
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
-| **1979-83** | Researcher | Xerox PARC |
-| **1983-97** | Executive (CTO) | Sun Microsystems |
-| **1997-2001** | Chairman & CEO | Novell |
+| **1975** | Intern (co-autore Lex) | Bell Labs |
+| **1979-83** | Researcher | [Xerox](../company/xerox.md) PARC |
+| **1983-97** | CTO (14 anni) | [Sun Microsystems](../company/sun-microsystems.md) |
+| **1997-2001** | Chairman & CEO | [Novell](../companies/novell.md) |
 | **2001-11** | CEO | [Google](../company/google.md) |
 | **2011-15** | Executive Chairman | [Google](../company/google.md) |
 | **2015-18** | Executive Chairman | [Alphabet](../company/alphabet.md) |
@@ -123,8 +128,10 @@ Schmidt ha creato il modello del "tech executive come consigliere di stato":
 
 | Veicolo | Focus | Assets |
 |---------|-------|--------|
-| Schmidt Futures | Scienza, tech talent | ~$1B+ |
+| [Schmidt Futures](../foundation/schmidt-futures.md) | Scienza, tech talent | ~$1B+ |
 | Schmidt Sciences (2024) | AI, quantum, climate | Spin-off da Schmidt Futures |
+| Schmidt Family Foundation (2006) | Climate change, sostenibilita' | ~$2B+ donati |
+| Schmidt Ocean Institute (2009) | Ricerca oceanica, R/V Falkor | Open science |
 
 ---
 
@@ -156,22 +163,41 @@ Schmidt ha creato il modello del "tech executive come consigliere di stato":
 
 | Entita' | Connessione |
 |---------|-------------|
-| [Google](../company/google.md) | CEO 2001-2011 |
-| [Alphabet](../company/alphabet.md) | Chairman 2015-2018 |
+| [Princeton](../university/princeton.md) | BSEE 1976 alumni |
+| [UC Berkeley](../university/uc-berkeley.md) | MS 1979, PhD 1982 alumni |
+| [Xerox](../company/xerox.md) | Researcher PARC (1979-1983) |
+| [Sun Microsystems](../company/sun-microsystems.md) | CTO 14 anni (1983-1997) |
+| [Novell](../companies/novell.md) | Chairman & CEO (1997-2001) |
+| [Google](../company/google.md) | CEO (2001-2011) |
+| [Alphabet](../company/alphabet.md) | Executive Chairman (2015-2018) |
+| [SandboxAQ](../company/sandboxaq.md) | Chairman (2022-) |
+| [Relativity Space](../company/relativity-space.md) | CEO (2025-) |
+| [Schmidt Futures](../foundation/schmidt-futures.md) | Co-founder (2017-) |
+| [SCSP](../think-tank/scsp.md) | Founder, Chairman (2021-) |
 | [Bilderberg](../forum/bilderberg.md) | Attendee |
 | [Trilateral Commission](../forum/trilateral-commission.md) | Member |
 | [CFR](../think-tank/cfr.md) | Member |
 | [IAS](../think-tank/institute-for-advanced-study.md) | Trustee Emeritus |
 | [The Economist](../media/the-economist.md) | Board |
-| [Governo USA](../government/governo-usa.md) | Advisor (Pentagon, NSCAI) |
+| [Governo USA](../government/governo-usa.md) | Defense Innovation Board Chair (2016-2020), NSCAI Chair (2018-2021) |
+| [Mistral AI](../company/mistral-ai.md) | Investitore (2023-) |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
-| Larry Page | Co-founder Google, rapporto CEO-fondatore |
-| Sergey Brin | Co-founder Google |
-| Wendy Schmidt | Moglie, co-filantropa |
+| [Larry Page](larry-page.md) | Co-founder Google, rapporto CEO-fondatore |
+| [Sergey Brin](sergey-brin.md) | Co-founder Google |
+| [John Doerr](john-doerr.md) | KP partner, recruited Schmidt to Google |
+| [Scott McNealy](scott-mcnealy.md) | CEO Sun, Schmidt era CTO 14 anni |
+| [Bill Joy](bill-joy.md) | Collega Sun, co-architetti tecnologie |
+| [Andy Bechtolsheim](andy-bechtolsheim.md) | Collega Sun, investitore Google |
+| [Vinod Khosla](vinod-khosla.md) | Co-fondatore Sun |
+| [James Gosling](james-gosling.md) | Collega Sun, promotore Java |
+| [Sheryl Sandberg](sheryl-sandberg.md) | Recruited to Google 2001 |
+| [Marissa Mayer](marissa-mayer.md) | Promossa a VP sotto sua guida |
+| [Craig Mundie](craig-mundie.md) | Co-autore "Genesis" (2024), Track II dialogue AI con Cina |
+| Wendy Schmidt | Moglie, co-filantropa (Schmidt Futures, Schmidt Ocean Institute) |
 
 ---
 
@@ -226,4 +252,4 @@ Schmidt ha creato il modello del "tech executive come consigliere di stato":
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

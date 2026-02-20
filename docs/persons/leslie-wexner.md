@@ -110,6 +110,11 @@
 | **2019** | Arresto Epstein; Wexner rilascia lettera pubblica |
 | **2020** | Wexner si dimette da CEO L Brands |
 | **Gen 2026** | Wexner citato a deporre da House Oversight Committee |
+| **18 Feb 2026** | Depone davanti alla House Oversight Committee; dichiara di essere stato "conned" da Epstein |
+
+### Deposizione Congressional (18 Feb 2026)
+
+Wexner depone davanti alla House Oversight Committee dopo il rilascio di milioni di file DOJ su Epstein. Nella sua dichiarazione afferma di non aver avuto "virtually no social relationship" con Epstein e di non aver mai viaggiato sul suo aereo. Sostiene che Epstein "purchased" la townhouse di Manhattan al prezzo di stima. La democratica Sylvia Garcia definisce queste affermazioni "bogus", sottolineando che Wexner fu il piu' grande benefattore di Epstein. Garcia critica anche il DOJ/FBI per non aver mai contattato Wexner nelle indagini.
 
 ### Aspetti Controversi
 
@@ -207,7 +212,8 @@ Sarah, Harry, Hannah, David - mantengono profilo basso.
 | **2019** | Scandalo Epstein esplode; Wexner rilascia lettera pubblica |
 | **2020** | Si dimette da CEO L Brands |
 | **2021** | Lascia board; L Brands si divide |
-| **2026** | Citato a deporre da House Oversight Committee |
+| **Gen 2026** | Citato a deporre da House Oversight Committee |
+| **18 Feb 2026** | Depone; dichiara "I was conned" da Epstein, nega relazione sociale |
 
 ---
 
@@ -215,7 +221,7 @@ Sarah, Harry, Hannah, David - mantengono profilo basso.
 
 - [ ] Perche' Wexner non ha mai citato Epstein per appropriazione indebita?
 - [ ] Quale era il ruolo esatto di Epstein nel Mega Group?
-- [ ] Contenuto della deposizione House Oversight Committee 2026
+- [x] ~~Contenuto della deposizione House Oversight Committee 2026~~ — depone 18 Feb 2026, nega relazione sociale, contesta cessione townhouse
 - [ ] Dettagli sui $46M+ "restituiti" alla Wexner Foundation
 
 ---
@@ -230,6 +236,9 @@ Sarah, Harry, Hannah, David - mantengono profilo basso.
 - [Times of Israel - Relationship Explained](https://www.timesofisrael.com/the-relationship-between-epstein-and-jewish-philanthropist-wexner-explained/)
 - [ABC News - Wexner refuses to reveal scope](https://abcnews.go.com/US/billionaire-businessman-leslie-wexner-refuses-reveal-full-scope/story?id=68461262)
 - [WOSU - NYT details on relationship](https://www.wosu.org/politics-government/2025-12-16/new-york-times-details-how-les-wexner-met-sex-trafficker-jeffrey-epstein-as-he-built-wealth)
+- [NBC News - Wexner tells lawmakers he was 'conned'](https://www.nbcnews.com/politics/congress/billionaire-les-wexner-tells-lawmakers-was-conned-jeffrey-epstein-noth-rcna259573)
+- [CNBC - Congressional deposition underway](https://www.cnbc.com/2026/02/18/jeffrey-epstein-les-wexner-deposition.html)
+- [PBS - What documents show](https://www.pbs.org/newshour/politics/billionaire-les-wexner-is-being-deposed-in-the-epstein-files-probe-heres-what-documents-show-about-their-relationship)
 
 ### Fondazione
 - [Wexner Foundation - Our Story](https://www.wexnerfoundation.org/our-story/)
@@ -239,4 +248,4 @@ Sarah, Harry, Hannah, David - mantengono profilo basso.
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*

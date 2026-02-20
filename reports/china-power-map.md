@@ -58,11 +58,11 @@ La Cina e' uno **stato a partito unico** dove il potere reale risiede nel **Poli
 | **Holdings/Conglomerati** | Legend Holdings (→Lenovo, Hony Capital, BIL), **Lenovo** (IBM PC, Motorola) |
 | **Fintech** | **Ant Group** (Alipay, 1B utenti), **MYbank** |
 | **Hospitality** | Jin Jiang International (→Radisson, Louvre Hotels) |
-| **Private Equity** | Hony Capital, Boyu Capital, **[New Horizon Capital](../private-equity/new-horizon-capital.md)** (Wen Yunsong - princeling) |
+| **Private Equity** | Hony Capital, Boyu Capital, **[New Horizon Capital](../private-equity/new-horizon-capital.md)** (Wen Yunsong - princeling), **[Shunwei Capital](../private-equity/shunwei-capital.md)** ($3B AUM, 352 aziende, 20 unicorni - Lei Jun) |
 | **Auto** | Geely, BYD, BAIC, **Qianli/Afari** (ex-Lifan, guida autonoma AI) |
 | **Media** | Xinhua, CCTV, CGTN, China Media Group |
 | **Iniziative** | BRI (Belt and Road Initiative) |
-| **Forum** | IBLAC Shanghai |
+| **Forum** | IBLAC Shanghai, **Boao Forum for Asia** (Ban Ki-moon chairman, Zhou Xiaochuan vice chair) |
 | **Hong Kong** | Jardine Matheson (+sussidiarie), First Pacific |
 | **Fondazioni** | Ma Huateng Global Foundation |
 | **Azionisti Esteri** | Prosus, Naspers, SoftBank (exit 2024), Sea Limited |
@@ -99,7 +99,7 @@ La Cina e' uno **stato a partito unico** dove il potere reale risiede nel **Poli
 | #2 | [Zhang Yiming](../persons/zhang-yiming.md) | ByteDance/TikTok | $65.5B | Nessuno (Singapore) | ✓ |
 | #3 | [Pony Ma](../persons/pony-ma.md) | Tencent | $63B | WEF (ex) | ✓ |
 | #4 | [Robin Zeng](../persons/robin-zeng.md) | CATL | $57.5B | **WEF Davos**, Summer Davos Co-chair | ✓ nuovo |
-| #5 | [Lei Jun](../persons/lei-jun.md) | Xiaomi | $42.6B | **NPC Deputy** (allineato) | ✓ |
+| #5 | [Lei Jun](../persons/lei-jun.md) | Xiaomi | $35.3B | **NPC Deputy**, **Boao Forum** (allineato) | ✓ scheda |
 | - | [Jack Ma](../persons/jack-ma.md) | Alibaba, Ant Group | $27B | WEF (ex), riabilitato | ✓ |
 | - | [He Xiangjian](../persons/he-xiangjian.md) | Midea | $23.7B | **Nessuno** (parla solo cantonese) | ✓ nuovo |
 | - | [Ren Zhengfei](../persons/ren-zhengfei.md) | Huawei | $1.5-2B | WEF | ✓ TIME100 AI 2025 |
@@ -107,9 +107,10 @@ La Cina e' uno **stato a partito unico** dove il potere reale risiede nel **Poli
 
 **Pattern Forum**:
 - **WEF attivi**: Robin Zeng (CATL), Ren Zhengfei (Huawei)
+- **Boao Forum**: Lei Jun (speaker 2025), Ban Ki-moon (Chairman), Zhou Xiaochuan (Vice Chair)
 - **"Lone Wolf"**: Zhong Shanshan (Nongfu) - mai interviste, mai forum
 - **Emigrati**: Zhang Yiming (Singapore), Jack Ma (Tokyo/rientrato)
-- **Allineati**: Lei Jun (NPC Deputy) - unico tech tycoon ancora in organi politici
+- **Allineati**: Lei Jun (NPC Deputy + Boao Forum) - unico tech tycoon ancora in organi politici
 
 #### Imprenditori e Manager Chiave
 
@@ -210,7 +211,18 @@ La Cina e' uno **stato a partito unico** dove il potere reale risiede nel **Poli
 | Lenovo ← Google/Motorola | $2.9B | Motorola Mobility (2014) |
 | Lenovo ← IBM | $2.3B | x86 servers (2014) |
 | Legend Holdings → Lenovo | **31.4%** | CAS origin, controlling |
+| **Xiaomi - Azionisti Occidentali** | | |
+| BlackRock → Xiaomi | **7.4%** | Asset manager USA |
+| Vanguard → Xiaomi | **4.8%** | Asset manager USA |
+| **Shunwei Capital - Portfolio** | | |
+| Shunwei → NIO | investor | Early investor (EV) |
+| Shunwei → XPeng | investor | Early investor (EV) |
+| Shunwei → ByteDance | investor | Early investor |
+| Shunwei → Xiaomi | co-investor | 52 co-investimenti |
 | **Forum/Network** | | |
+| Ban Ki-moon → Boao Forum | **Chairman** | Ex SG ONU, ponte globale |
+| Zhou Xiaochuan → Boao Forum | **Vice Chairman** | Ex Gov. PBOC |
+| Lei Jun → Boao Forum | speaker | 2025 Annual Conference |
 | Jack Ma → WEF | member | Davos speaker |
 | Jack Ma → SoftBank | board (2014-2020) | Masayoshi Son |
 | Pony Ma → WEF | member | |
@@ -1420,20 +1432,25 @@ Entrambi riportano allo State Council ma con mandati diversi. Central Huijin e' 
 | Metrica | Valore |
 |---------|--------|
 | Fondazione | 2010 |
-| Market Cap | $180B (2025) |
-| Revenue | $53B (2024) |
+| Market Cap | $137B (Feb 2025) |
+| Revenue | RMB 365B (2024) |
 | Smartphone ranking | #3 mondiale |
-| EV deliveries | 136.000 (2024) |
+| EV deliveries | 136.000 (2024), target 400.000+ (2025) |
+| EV revenue Q1 2025 | RMB 18.1B ($2.5B) |
+| EV profittevole | H2 2025 |
+| Board | 7 membri (3 fondatori + 4 indipendenti/non-exec) |
+| Azionisti esteri | BlackRock 7.4%, Vanguard 4.8% |
 
 #### Lei Jun - Il Tech Billionaire "Allineato"
 
 | Ruolo | Organizzazione | Dal |
 |-------|----------------|-----|
-| Founder, Chairman, CEO | [Xiaomi](../company/xiaomi.md) | 2010 |
-| Chairman | [Kingsoft](../company/kingsoft.md) | 2011 |
+| Founder, Chairman, CEO | [Xiaomi](../companies/xiaomi.md) | 2010 |
+| Chairman | [Kingsoft](../companies/kingsoft.md) | 2011 |
 | Co-founder, Chairman | [Shunwei Capital](../private-equity/shunwei-capital.md) | 2011 |
 | **NPC Deputy** | [Governo Cina](../government/governo-cina.md) | **2013-** |
-| Vice President | All-China Chamber of Industry and Commerce | - |
+| Speaker | [Boao Forum for Asia](../forums/boao-forum.md) | 2025 |
+| Alumni | [Wuhan University](../universities/wuhan-university.md) | BS CS 1991 |
 
 **Differenza chiave**: A differenza di Jack Ma, Pony Ma e Zhang Yiming (tutti rimossi o emigrati), Lei Jun mantiene il ruolo di **NPC Deputy** - segnale di allineamento con il Partito.
 
@@ -1455,6 +1472,25 @@ Entrambi riportano allo State Council ma con mandati diversi. Central Huijin e' 
 **Dual-class control**: Come ByteDance, il fondatore mantiene controllo maggioritario con quota minoritaria.
 
 **Ponte USA-Cina**: Co-founder Lin Bin ha 15 anni di esperienza in Microsoft e Google - bridge con tech occidentale.
+
+#### Shunwei Capital - Il Braccio VC di Lei Jun
+
+[Shunwei Capital](../private-equity/shunwei-capital.md) ($3B AUM, co-fondato con Tuck Lye Koh nel 2011) e' il complemento finanziario dell'ecosistema Xiaomi:
+
+| Metrica | Valore |
+|---------|--------|
+| Portfolio | 352 aziende |
+| Unicorni | 20 |
+| IPO | 26 |
+| Co-investimenti con Xiaomi | 52 aziende |
+
+**Portfolio notabili nel DB**: NIO, XPeng, ByteDance, CloudWalk
+
+Il modello Shunwei-Xiaomi e' un pattern di potere reticolare: il fondatore usa il VC per estendere influenza a un intero settore, creando una rete di dipendenze e alleanze che travalica la singola azienda.
+
+#### Boao Forum - Lei Jun nella Diplomazia Cinese
+
+La presenza di Lei Jun al [Boao Forum 2025](../forums/boao-forum.md) come speaker conferma il suo status di tech billionaire "allineato". Il Boao Forum, presieduto da [Ban Ki-moon](../persons/ban-ki-moon.md) (ex SG ONU) con vice chairman [Zhou Xiaochuan](../persons/zhou-xiaochuan.md) (ex governatore PBOC), e' il principale strumento di soft power cinese nel panorama dei forum transnazionali — un contraltare asiatico al WEF di Davos.
 
 ### 8. SOE come Strumenti di Proiezione Globale
 
@@ -1674,7 +1710,7 @@ Huawei e' l'**unica** grande tech cinese **senza capitale occidentale**.
 #### Tech Tycoons - Status
 | Nome | Azienda | Status DB | Scheda |
 |------|---------|-----------|--------|
-| **Lei Jun** | Xiaomi | ✓ | ✓ [xiaomi.md](../company/xiaomi.md) |
+| **Lei Jun** | Xiaomi | ✓ scheda | ✓ [xiaomi.md](../companies/xiaomi.md) + [lei-jun.md](../persons/lei-jun.md) + [shunwei-capital.md](../private-equity/shunwei-capital.md) |
 | **Robin Li** | Baidu | ✓ | ✓ [baidu.md](../company/baidu.md) | Ex CPPCC, 60% voting power |
 | **Yin Qi** | Megvii (Face++) | ✓ | ✓ [megvii.md](../company/megvii.md) | **WEF YGL 2019**, Entity List USA |
 | **William Ding** | NetEase | ❌ | ❌ Ex CPPCC |

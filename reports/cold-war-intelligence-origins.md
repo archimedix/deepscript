@@ -8,8 +8,9 @@ Questo report analizza la **fondazione e continuita'** dell'intelligence america
 
 1. **Il network Yale-OSS**: accademici reclutatori che crearono il controspionaggio
 2. **La linea di successione**: da Donovan a Dulles a Angleton
-3. **Le relazioni mentor-protege**: continuita' di personale attraverso le transizioni
-4. **Le operazioni covert**: da Mockingbird alle interferenze elettorali
+3. **Il canale svizzero**: come Dulles a Berna costrui' la rete Abwehr-OSS-MI6 che defini' il modello operativo della futura CIA
+4. **Le relazioni mentor-protege**: continuita' di personale attraverso le transizioni
+5. **Le operazioni covert**: da Mockingbird alle interferenze elettorali
 
 | Metrica | OSS (1942-45) | CIA (1947-54) |
 |---------|---------------|---------------|
@@ -21,6 +22,7 @@ Questo report analizza la **fondazione e continuita'** dell'intelligence america
 **Report correlati:**
 - [Italy Cold War Theater](italy-cold-war-theater.md) - Operazioni italiane 1943-1990
 - [Nazi Recruitment Cold War](nazi-recruitment-cold-war.md) - Ratlines e asset nazisti
+- [Operation Sunrise](../docs/events/1945-operazione-sunrise.md) - La resa separata in Italia e la prima crisi USA-URSS
 
 ---
 
@@ -50,6 +52,34 @@ Questo report analizza la **fondazione e continuita'** dell'intelligence america
                     v                  v
               CIA Chief CI       Mossad Liaison
               (1954-75)          (1951-75)
+```
+
+### Il Canale Svizzero di Dulles (1942-1945)
+
+```
+    WILHELM CANARIS (Abwehr Chief, anti-Hitler)
+              |
+    +---------+---------+
+    |                   |
+    v                   v
+SZYMAŃSKA           GISEVIUS
+(MI6 agent,         (Vice Console
+POL intel)          Zurigo, Abwehr)
+    |                   |
+    +----+         +----+
+    |    |         |    |
+    v    v         v    v
+  MI6   POL      DULLES  MARY
+(Vanden Intel    (OSS    BANCROFT
+Heuvel,          Berna)  (OSS analyst,
+Berna)              |     traduttrice)
+                    |
+              +-----+------+
+              |            |
+              v            v
+     Op. SUNRISE     CIA Director
+     (resa Italia    (1953-61)
+      apr 1945)
 ```
 
 ---
@@ -154,7 +184,74 @@ YALE UNIVERSITY
 
 ---
 
-## III. James Angleton: L'Ascesa
+## III. Il Canale Svizzero: La Rete Abwehr-OSS-MI6 a Berna
+
+### Dulles a Berna: Non Solo un Ascoltatore
+
+Quando Allen Dulles arrivo' a Berna nel novembre 1942, la Svizzera era gia' un crocevia di intelligence. Dulles costrui' in pochi mesi una rete di fonti che penetrava direttamente nel cuore del regime nazista — attraverso la resistenza militare tedesca.
+
+Il canale piu' importante passava dall'**Abwehr** (intelligence militare Wehrmacht), il cui capo, l'Ammiraglio [Wilhelm Canaris](../docs/persons/wilhelm-canaris.md), conduceva un doppio gioco straordinario: dirigeva lo spionaggio nazista mentre passava intelligence strategica agli Alleati.
+
+### I Due Canali
+
+Canaris utilizzo' due intermediari paralleli in Svizzera:
+
+| Canale | Intermediario | Destinatario | Periodo |
+|--------|--------------|--------------|---------|
+| **Canale Szymańska** | [Halina Szymańska](../docs/persons/halina-szymanska.md), agente MI6/POL | MI6 ([Vanden Heuvel](../docs/persons/frederick-vanden-heuvel.md), Berna) + OSS (Dulles) | 1940-1944 |
+| **Canale Gisevius** | [Hans Bernd Gisevius](../docs/persons/hans-bernd-gisevius.md), Vice Console Zurigo | OSS (Dulles, via Schulze-Gaevernitz) | 1943-1944 |
+
+**Szymańska** era moglie dell'ultimo attache' militare polacco a Berlino. Canaris la incontrava personalmente in Svizzera e Italia, passandole intelligence che arrivava simultaneamente a MI6, intelligence polacca e OSS. Fu lei a trasmettere l'avvertimento su Barbarossa (aprile 1941).
+
+**Gisevius**, giurista ed ex funzionario Gestapo divenuto anti-nazista, era la fonte primaria diretta di Dulles dal gennaio 1943. Introdotto da Gero von Schulze-Gaevernitz, Gisevius passo' a Dulles intelligence sui V-weapons, sull'ordine di battaglia Wehrmacht e sui piani della resistenza tedesca.
+
+### La [Schwarze Kapelle](../docs/secret-society/schwarze-kapelle.md)
+
+Entrambi i canali convergevano nella **Schwarze Kapelle** (Orchestra Nera), la rete di resistenza militare anti-Hitler centrata nell'Abwehr:
+
+| Membro | Ruolo | Destino |
+|--------|-------|---------|
+| Wilhelm Canaris | Capo Abwehr, organizzatore | Giustiziato, Flossenbürg, 9 apr 1945 |
+| [Hans Oster](../docs/persons/hans-oster.md) | Vice capo Abwehr | Giustiziato, Flossenbürg, 9 apr 1945 |
+| Ludwig Beck | Capo di SM esercito | Suicidio, 20 luglio 1944 |
+| Gisevius | Liaison OSS Zurigo | Sopravvissuto (fuggito con aiuto di Dulles) |
+| [Dietrich Bonhoeffer](../docs/persons/dietrich-bonhoeffer.md) | Teologo, corriere | Giustiziato, Flossenbürg, 9 apr 1945 |
+
+### Intelligence Strategica Ricevuta da Dulles
+
+| Periodo | Fonte | Intelligence | Impatto |
+|---------|-------|-------------|---------|
+| **Apr 1940** | Szymańska/Canaris | Imminente attacco a Francia/Benelux | Avvertimento (ignorato) |
+| **Apr 1941** | Szymańska/Canaris | Piani di Barbarossa | Stalin avvertito (incredulo) |
+| **Nov 1942** | Canaris (diretto) | Nascose a Hitler intelligence su Op. Torch | Forze alleate passarono Gibilterra indisturbate |
+| **Apr 1943** | Gisevius | Battelli volanti Rotterdam, test missilistici | Primo avvertimento V-weapons |
+| **1943-44** | Gisevius + Szymańska | Ordine di battaglia completo Wehrmacht | Intelligence "inestimabile" per D-Day |
+
+### La Collaborazione OSS-MI6 a Berna
+
+Dulles non operava in isolamento. [Frederick Vanden Heuvel](../docs/persons/frederick-vanden-heuvel.md), station chief MI6 a Berna (codice Z-1), collaborava strettamente con lui. Dulles condivideva con Vanden Heuvel l'intelligence ricevuta da Gisevius; Vanden Heuvel riceveva separatamente da Szymańska. [Stewart Menzies](../docs/persons/stewart-menzies.md), capo MI6, era talmente convinto del valore di Canaris da porre il veto nel 1943 a un piano di Kim Philby per assassinarlo.
+
+### Da Berna a Operation Sunrise
+
+La rete costruita da Dulles a Berna culmino' in [Operation Sunrise](../docs/events/1945-operazione-sunrise.md) (febbraio-maggio 1945): la negoziazione segreta della resa delle forze tedesche in Italia con il generale SS Karl Wolff. L'operazione — condotta con gli stessi intermediari svizzeri e la stessa infrastruttura — porto' alla resa di un milione di soldati, ma anche all'esclusione sovietica dai negoziati e alla prima crisi diplomatica USA-URSS (l'"Incidente di Berna").
+
+### Il Modello Berna
+
+L'esperienza di Berna defini' il **modello operativo** che Dulles avrebbe portato alla CIA:
+
+| Principio | Berna (1942-45) | CIA (1953-61) |
+|-----------|-----------------|---------------|
+| **Autonomia operativa** | Dulles operava con ampia liberta' da Washington | CIA come "stato nello stato" |
+| **Fonti umane (HUMINT)** | Canaris, Gisevius, Szymańska | Priorita' su SIGINT |
+| **Collaborazione con nemici** | Resistenza tedesca, poi SS (Wolff) | Reclutamento ex-nazisti (Gehlen) |
+| **Anticomunismo > Giustizia** | Esclusione URSS da Sunrise | Dottrina Guerra Fredda |
+| **Intermediari privati** | Schulze-Gaevernitz, Parrilli | Businessmen, accademici |
+
+> Berna fu il laboratorio; la CIA fu la produzione in serie.
+
+---
+
+## IV. James Angleton: L'Ascesa
 
 ### Dall'Italia al Controspionaggio
 
@@ -193,7 +290,7 @@ La capacita' di Angleton di identificare la frode rafforzo' la sua reputazione, 
 
 ---
 
-## IV. Frank Wisner e le Covert Ops
+## V. Frank Wisner e le Covert Ops
 
 ### Il Padre delle Operazioni Coperte
 
@@ -219,7 +316,7 @@ La capacita' di Angleton di identificare la frode rafforzo' la sua reputazione, 
 
 ---
 
-## V. La Catena Mentor-Protege
+## VI. La Catena Mentor-Protege
 
 ```
 DONOVAN (fondatore)
@@ -265,6 +362,12 @@ DONOVAN (fondatore)
 | William Colby | OSS SO, CIA Director | [Link](../docs/persons/william-colby.md) |
 | Richard Helms | OSS, CIA Director | [Link](../docs/persons/richard-helms.md) |
 | William Casey | OSS SI, CIA Director | [Link](../docs/persons/william-casey.md) |
+| Wilhelm Canaris | Capo Abwehr, canale segreto verso Alleati | [Link](../docs/persons/wilhelm-canaris.md) |
+| Hans Bernd Gisevius | Vice Console Zurigo, fonte primaria Dulles | [Link](../docs/persons/hans-bernd-gisevius.md) |
+| Halina Szymańska | Agente MI6, intermediaria Canaris-Alleati | [Link](../docs/persons/halina-szymanska.md) |
+| Frederick Vanden Heuvel | MI6 Station Chief Berna | [Link](../docs/persons/frederick-vanden-heuvel.md) |
+| Stewart Menzies | MI6 Chief ("C") | [Link](../docs/persons/stewart-menzies.md) |
+| Hans Oster | Vice Abwehr, organizzatore Schwarze Kapelle | [Link](../docs/persons/hans-oster.md) |
 
 ### Organizzazioni
 
@@ -272,12 +375,16 @@ DONOVAN (fondatore)
 |----------------|------|--------|
 | OSS | Agency | [Link](../docs/agency/oss.md) |
 | CIA | Agency | [Link](../docs/agency/cia.md) |
+| MI6 | Agency | [Link](../docs/agency/mi6.md) |
+| Abwehr | Agency | [Link](../docs/agency/abwehr.md) |
+| Schwarze Kapelle | SecretSociety | [Link](../docs/secret-society/schwarze-kapelle.md) |
 
 ### Eventi Correlati
 
 | Evento | Anno | Link |
 |--------|------|------|
 | Fondazione OSS | 1942 | [Link](../docs/events/1942-fondazione-oss.md) |
+| Operation Sunrise | 1945 | [Link](../docs/events/1945-operazione-sunrise.md) |
 | Fondazione CIA | 1947 | [Link](../docs/events/1947-fondazione-cia.md) |
 | Church Committee | 1975 | [Link](../docs/events/1975-church-committee.md) |
 
@@ -289,10 +396,16 @@ DONOVAN (fondatore)
 |------|--------|
 | **1941** | Donovan crea COI |
 | **1942** | OSS fondato, Pearson crea X-2 |
-| **1942** | Dulles a Berna |
+| **Nov 1942** | Dulles a Berna; Canaris nasconde a Hitler intelligence su Op. Torch |
+| **Gen 1943** | Gisevius introdotto a Dulles da Schulze-Gaevernitz |
 | **1943** | Angleton entra OSS via Pearson |
-| **1944** | Wisner in Romania |
-| **1945** | Fine guerra, OSS sciolto |
+| **1943-44** | Canale Szymańska + Gisevius: ordine di battaglia Wehrmacht per Dulles |
+| **20 lug 1944** | Complotto Stauffenberg; Gisevius presente a Berlino, fugge |
+| **Feb 1944** | Wisner in Romania |
+| **Feb-mag 1945** | Operation Sunrise: Dulles negozia resa in Italia; prima crisi USA-URSS |
+| **9 apr 1945** | Canaris, Oster, Bonhoeffer giustiziati a Flossenbürg |
+| **Set 1945** | Fine guerra, OSS sciolto |
+| **1946** | Gisevius testimonia a Norimberga |
 | **1947** | National Security Act, nasce CIA |
 | **1948** | Wisner fonda OPC, avvia Mockingbird |
 | **1953** | Dulles diventa Director CIA |
@@ -323,6 +436,6 @@ DONOVAN (fondatore)
 
 ---
 
-*Ultimo aggiornamento: 11 Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*
 
 *Estratto e riorganizzato da oss-cia-cold-war-origins.md*

@@ -99,6 +99,19 @@ Indagine Wyden (2025): John Duffy, ex CEO Private Banking, consiglio' Epstein su
 | [Peter Mandelson](peter-mandelson.md) | Sociale | Email suggeriscono condivisione info finanziarie UK govt, dimesso da Labour Feb 2026 |
 | [Alexander Acosta](alexander-acosta.md) | Plea deal 2008 | Disse che gli fu detto che Epstein era asset intelligence |
 
+### Il Network Norvegese
+
+L'infiltrazione di Epstein nell'elite diplomatica norvegese rappresenta un caso significativo:
+
+| Nome | Ruolo | Legame Epstein | Conseguenze 2026 |
+|------|-------|----------------|------------------|
+| [Terje Rod-Larsen](terje-rod-larsen.md) | Architetto Oslo Accords, UN Under-Sec-Gen, CEO IPI | Prestito $130K, 20+ visite, $5M/figlio nel testamento, lettere visti donne russe | Incriminato concorso corruzione (Økokrim) |
+| [Mona Juul](mona-juul.md) | Ambasciatrice NOR Giordania/Iraq | Moglie Rod-Larsen, co-facilitatrice Oslo Accords | Dimessa, incriminata corruzione aggravata (Økokrim) |
+| [Børge Brende](borge-brende.md) | CEO WEF (dal 2017) | Introdotto da Rod-Larsen a cena NYC 2018 | Sotto indagine interna WEF |
+| [Thorbjorn Jagland](thorbjorn-jagland.md) | Ex PM NOR, ex Segr. Gen. Consiglio d'Europa | 6 meetings 2013-2018 | Sotto indagine polizia NOR |
+
+Rod-Larsen descrisse Epstein come "my best friend" e "a thoroughly good human being". Scrisse lettere ufficiali di raccomandazione alle autorita' USA per ottenere visti per giovani donne russe nell'orbita di Epstein, sostenendo che possedessero "extraordinary abilities" per ruoli di ricerca.
+
 ### Kathryn Ruemmler
 
 [Kathryn Ruemmler](kathryn-ruemmler.md): Obama White House Counsel (2011-2014), ora chief legal officer [Goldman Sachs](../bank/goldman-sachs.md). 100+ email con Epstein (2014-2019). Lo consulto' sulla preservazione del plea deal, redasse dichiarazioni pubbliche, edito' corrispondenza con un senatore USA. Ricevette regali di lusso (borsa Hermes da $9.400).
@@ -174,17 +187,27 @@ Documento FBI rilasciato 2025: un informante FBI era convinto che Epstein fosse 
 
 [Leslie Wexner](leslie-wexner.md) co-fondo' il [MEGA Group](../forum/mega-group.md) (1991) con Charles Bronfman: gruppo segreto di miliardari focalizzato su filantropia e sostegno a Israele. Ari Ben-Menashe (ex intelligence israeliana) dichiara di aver visto Epstein nell'ufficio di [Robert Maxwell](robert-maxwell.md) negli anni '80.
 
-### Robert Maxwell
+### La Catena Intelligence Maxwell
 
-Padre di Ghislaine. Avrebbe lavorato per MI6 durante e dopo la WWII. Accusato di coinvolgimento con Mossad. Morto in circostanze misteriose nel 1991.
+[Robert Maxwell](robert-maxwell.md), padre di Ghislaine, fu reclutato nell'MI6 da Count [Frederick Vanden Heuvel](frederick-vanden-heuvel.md) (Z-1, capo della Z Organisation — rete parallela di businessmen-spie). Vanden Heuvel facilito' la creazione di [Pergamon Press](../companies/pergamon-press.md) (1951), casa editrice scientifica usata come copertura per contatti con scienziati sovietici. Co-fondatore era [Paul Rosbaud](paul-rosbaud.md) ("The Griffin"), agente MI6 a Springer durante la WWII.
+
+Maxwell costrui' un impero mediatico ([Mirror Group](../media/mirror-group.md), [Maxwell Communications](../media/maxwell-communications.md), [Ma'ariv](../media/maariv.md)) con presunti legami simultanei a MI6, Mossad e KGB. Nel 1986, avrebbe segnalato al Mossad la fuga di [Mordechai Vanunu](mordechai-vanunu.md) (whistleblower nucleare israeliano) verso il Sunday Times, rivale del suo Daily Mirror.
+
+Morto in circostanze misteriose nel 1991 (caduto dallo yacht Lady Ghislaine). Sepolto sul Monte degli Ulivi con funerale di stato israeliano. Dopo la morte, scoperta frode da 460M GBP sui fondi pensione dei dipendenti Mirror Group.
+
+**Connessione Epstein**: Ari Ben-Menashe (ex intelligence israeliana) dichiara di aver visto Epstein nell'ufficio di Maxwell negli anni '80. La morte di Maxwell (1991) e l'arrivo di Ghislaine a New York coincidono con l'inizio del rapporto Epstein-Ghislaine (~1992). Il network di intelligence e le connessioni con l'elite britannica ereditati da Maxwell furono il capitale sociale che Ghislaine porto' nel network Epstein.
 
 ---
 
 ## Ghislaine Maxwell
 
-Partner e principale complice dal 1994 al 2019. Figlia di [Robert Maxwell](robert-maxwell.md).
+Partner e principale complice dal 1994 al 2019. Figlia di [Robert Maxwell](robert-maxwell.md), nata a Maisons-Laffitte (Francia), alumni Balliol College Oxford (BA Modern History 1985) — stesso college del padre. Socialite nell'alta societa' londinese negli anni '80, si trasferi' a New York dopo la morte del padre e il crollo dell'impero Maxwell (1991).
 
-**Ruolo**: Reclutamento, grooming e abuso di minorenni per Epstein.
+**Ruolo nel network**: Gatekeeping (controllava l'accesso a Epstein), ponte transatlantico tra elite britannica e finanza americana, eredita' dei contatti intelligence paterni. Fondo' il [TerraMar Project](../foundation/terramar-project.md) (2012-2019), nonprofit oceanica usata come facciata di rispettabilita'.
+
+**Connessioni chiave**: Amica intima di [Prince Andrew](prince-andrew.md) fin da Oxford, lo presento' a Epstein. Connessioni sociali con [Bill Clinton](bill-clinton.md) (eventi Clinton Foundation).
+
+**Ruolo criminale**: Reclutamento, grooming e abuso di minorenni per Epstein.
 
 **Condanna** (2021): 20 anni per cospirazione e traffico sessuale di minori.
 
@@ -288,8 +311,10 @@ Partner e principale complice dal 1994 al 2019. Figlia di [Robert Maxwell](rober
 | [Prince Andrew](prince-andrew.md) | Sociale via Maxwell |
 | [Jes Staley](jes-staley.md) | JPMorgan banker, 1.200 email |
 | [Boris Nikolic](boris-nikolic.md) | Gates adviser, nominato nel testamento |
-| [Terje Rod-Larsen](terje-rod-larsen.md) | Prestito $130K, nel testamento |
-| [Thorbjorn Jagland](thorbjorn-jagland.md) | 6 meetings 2013-2018 |
+| [Terje Rod-Larsen](terje-rod-larsen.md) | Prestito $130K, $5M/figlio nel testamento, lettere visti per donne russe, introduce Brende a Epstein. Incriminato corruzione Feb 2026 |
+| [Mona Juul](mona-juul.md) | Moglie Rod-Larsen, ambasciatrice NOR. Dimessa e incriminata corruzione aggravata Økokrim Feb 2026 |
+| [Børge Brende](borge-brende.md) | CEO WEF, introdotto a Epstein da Rod-Larsen a cena NYC 2018. Sotto indagine WEF Feb 2026 |
+| [Thorbjorn Jagland](thorbjorn-jagland.md) | 6 meetings 2013-2018, ex PM NOR, sotto indagine polizia per legami Epstein 2026 |
 | [Kathryn Ruemmler](kathryn-ruemmler.md) | 100+ email, Obama WH Counsel |
 | [Howard Lutnick](howard-lutnick.md) | Visita isola, Commerce Secretary |
 | [Steve Bannon](steve-bannon.md) | Centinaia di testi |
@@ -349,7 +374,8 @@ Partner e principale complice dal 1994 al 2019. Figlia di [Robert Maxwell](rober
 - [ ] Natura completa dei servizi resi a Wexner (oltre wealth management)
 - [ ] Conferma collegamenti con Mossad/CIA (claim FBI informant non corroborati)
 - [ ] Identita' completa dei "clienti" oltre Wexner e Black
-- [ ] Ruolo di Robert Maxwell nella rete e continuita' post-1991
+- [ ] Ruolo di Robert Maxwell nella rete: Ghislaine eredito' i contatti intelligence o ne costrui' di propri?
+- [ ] Continuita' tra rete Maxwell (MI6/Mossad) e rete Epstein post-1991
 - [ ] Circostanze reali della morte
 - [ ] Contenuto delle 2.5M+ pagine non ancora rilasciate dal DOJ
 - [ ] Materiale classificato escluso dall'Epstein Files Act

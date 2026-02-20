@@ -136,6 +136,14 @@ Punto di svolta nella carriera di Wyler:
 
 ---
 
+## Controversie
+
+| Tema | Periodo | Dettaglio |
+|------|---------|-----------|
+| **Connessione Epstein** | 2014+ | Documenti DOJ (2026) rivelano relazione estesa con Jeffrey Epstein: email frequenti, voli condivisi su jet privato, visite all'isola di Epstein. Epstein funse da advisor per il fundraising di OneWeb/WorldVu nel 2014, offri' introduzioni a investitori e chiese il 30% dei tax savings come compenso. Wyler confermo' il ruolo di advisory di Epstein ma dichiaro' che nessun investimento fu mai effettuato. |
+
+---
+
 ## Analisi: Il Pattern Wyler
 
 Greg Wyler rappresenta un caso studio di:
@@ -165,6 +173,7 @@ Greg Wyler rappresenta un caso studio di:
 
 | Persona | Relazione |
 |---------|-----------|
+| [Jeffrey Epstein](../persons/jeffrey-epstein.md) | Advisor fundraising OneWeb 2014, voli condivisi, visite isola |
 | [Masayoshi Son](../persons/masayoshi-son.md) | Investitore OneWeb |
 | [Sunil Mittal](../persons/sunil-mittal.md) | Successore come Chairman OneWeb |
 | Paul Kagame | Partner Rwanda (Terracom, E-Space) |

@@ -24,10 +24,10 @@ Il Giappone rappresenta un **caso studio unico** di transizione del potere econo
           +---------------+---------------+
           |               |               |
           v               v               v
-    [LDP FACTIONS]  [BUROCRAZIA]     [GPIF]
-    - Aso faction   - MOF (elite)    - $1.87T AUM
-    - Ex-Abe        - METI           - BlackRock mandates
-    - Kishida       - BOJ            - Più grande al mondo
+    [LDP + JIP]     [BUROCRAZIA]     [GPIF]
+    - Takaichi PM   - MOF (elite)    - $1.87T AUM
+    - Aso kingmaker - METI           - BlackRock mandates
+    - JIP coalition - BOJ            - Più grande al mondo
           |               |               |
           |   AMAKUDARI   |               |
           +-------+-------+               |
@@ -88,7 +88,7 @@ Nobel 1974    SHINTARO ABE
 
 [Scheda famiglia](../docs/family/kishi-sato-abe.md) | [Shinzo Abe](../docs/persons/shinzo-abe.md)
 
-### 3. Le Fazioni LDP (post-2024)
+### 3. Le Fazioni LDP e la Nuova Coalizione (post-2024)
 
 | Fazione | Leader | Status | Note |
 |---------|--------|--------|------|
@@ -98,6 +98,39 @@ Nobel 1974    SHINTARO ABE
 | Shisuikai | - | Sciolta 2024 | Scandalo fondi |
 
 **Nota**: Shinzo Abe guidava la Seiwakai, la fazione piu' grande e conservatrice. Dopo il suo assassinio (2022) e lo scandalo fondi neri (2024), la fazione si e' sciolta.
+
+### La Transizione Politica 2024-2025
+
+```
+CRISI LDP 2024                    NUOVA ERA 2025
+Scandalo fondi neri               Takaichi presidente LDP
+Fazioni sciolte                   Prima donna PM
+Sconfitta elettorale              Fine coalizione LDP-Komeito
+Ishiba PM (breve)                 Nuova coalizione LDP-JIP
+```
+
+[Sanae Takaichi](../docs/persons/sanae-takaichi.md) (1961-), protetta di Abe, e' diventata **prima donna PM** nell'ottobre 2025 dopo aver sconfitto Shinjiro Koizumi alla presidenza LDP. Formata alla Kobe University e al **Matsushita Institute**, ha rotto la storica coalizione con il [Komeito](../docs/party/komeito.md) per allearsi con il [Japan Innovation Party](../docs/party/japan-innovation-party.md).
+
+### Il Nuovo Panorama Partitico
+
+| Partito | Ruolo | Leader | Note |
+|---------|-------|--------|------|
+| [LDP](../docs/party/ldp-japan.md) | Governo (senior) | [Sanae Takaichi](../docs/persons/sanae-takaichi.md) | Presidente dal 2025 |
+| [JIP (Nippon Ishin)](../docs/party/japan-innovation-party.md) | Governo (junior) | Hirofumi Yoshimura | Coalizione dal 2025; base Osaka |
+| [Komeito](../docs/party/komeito.md) | Opposizione | Tetsuo Saito | Ex-partner LDP per 26 anni (1999-2025) |
+
+**La Fine del "Sistema Komeito"**: Per 26 anni (1999-2025), il [Komeito](../docs/party/komeito.md) — braccio politico della [Soka Gakkai](../docs/religious-institution/soka-gakkai.md) (8M famiglie) — ha fornito al LDP un blocco elettorale disciplinato di ~7-8M voti in cambio di moderazione su difesa e politica estera. La sostituzione con il JIP, partito riformista-nazionalista, segna uno spostamento a destra della coalizione di governo.
+
+**Komeito come moderatore perduto**:
+- **Freno al riarmo**: Opposizione a revisione Art. 9
+- **Pro-dialogo con Cina**: Mediazione nelle tensioni bilaterali
+- **Fondatore**: [Daisaku Ikeda](../docs/persons/daisaku-ikeda.md) (1928-2023), presidente Soka Gakkai
+
+**JIP come nuovo partner**:
+- Favorevole a revisione costituzionale
+- Riforme fiscali (eliminazione tassa consumi su alimentari)
+- Base regionale Osaka (Toru Hashimoto, Hirofumi Yoshimura)
+- Feb 2026: membro JIP entra nel gabinetto Takaichi
 
 ### Il Potere di Taro Aso
 
@@ -788,7 +821,8 @@ L'Alliance nata nel 1999 per salvare Nissan si sta **dissolvendo**: cross-shareh
 
 | ID | Nome | Ruolo | Scheda |
 |----|------|-------|--------|
-| shinzo-abe | Shinzo Abe † | PM 2006-07, 2012-20 | [Link](../docs/persons/shinzo-abe.md) |
+| shinzo-abe | Shinzo Abe † | PM 2006-07, 2012-20; Nippon Kaigi, Seikei/USC | [Link](../docs/persons/shinzo-abe.md) |
+| **sanae-takaichi** | **Sanae Takaichi** | **PM 2025-, prima donna PM, protetta di Abe** | [Link](../docs/persons/sanae-takaichi.md) |
 | **taro-aso** | **Taro Aso** | **PM 2008-09, kingmaker LDP** | [Link](../docs/persons/taro-aso.md) |
 | **hiroshi-mikitani** | **Hiroshi Mikitani** | **Rakuten founder, ribelle Keidanren** | [Link](../docs/persons/hiroshi-mikitani.md) |
 | **kiichi-miyazawa** | **Kiichi Miyazawa †** | **PM, fondatore Trilateral JP** | [Link](../docs/persons/kiichi-miyazawa.md) |
@@ -813,8 +847,8 @@ L'Alliance nata nel 1999 per salvare Nissan si sta **dissolvendo**: cross-shareh
 | ID proposto | Nome | Ruolo | Connessioni |
 |-------------|------|-------|-------------|
 | fumio-kishida | Fumio Kishida | Ex-PM (2021-24) | WEF Davos 2023, ultimo leader Kochikai |
-| shigeru-ishiba | Shigeru Ishiba | PM (2024-) | Ex-Difesa, anti-fazioni |
-| sanae-takaichi | Sanae Takaichi | PM (2025-) | Prima donna PM, nazionalista |
+| shigeru-ishiba | Shigeru Ishiba | Ex-PM (2024-25) | Ex-Difesa, anti-fazioni |
+| ~~sanae-takaichi~~ | ~~Sanae Takaichi~~ | ~~PM (2025-)~~ | **CREATA** - [Scheda](../docs/persons/sanae-takaichi.md) |
 | taro-kono | Taro Kono | Digital Minister | WEF Davos 2024 |
 
 ### Da Creare - Business Leaders
@@ -863,7 +897,8 @@ L'Alliance nata nel 1999 per salvare Nissan si sta **dissolvendo**: cross-shareh
 
 | ID | Ruolo | Scheda |
 |----|-------|--------|
-| **shinzo-abe** | PM 2006-07, 2012-20 | [Scheda](../docs/persons/shinzo-abe.md) |
+| **sanae-takaichi** | PM 2025-, prima donna PM | [Scheda](../docs/persons/sanae-takaichi.md) |
+| **shinzo-abe** | PM 2006-07, 2012-20; Nippon Kaigi, Seikei/USC/Kobe Steel | [Scheda](../docs/persons/shinzo-abe.md) |
 | **taro-aso** | PM 2008-09, kingmaker LDP | [Scheda](../docs/persons/taro-aso.md) |
 | **kiichi-miyazawa** | PM 1991-93, fondatore Trilateral | [Scheda](../docs/persons/kiichi-miyazawa.md) |
 | **tadashi-yamamoto** | JCIE founder, Trilateral Dir. 40y | [Scheda](../docs/persons/tadashi-yamamoto.md) |
@@ -886,6 +921,10 @@ L'Alliance nata nel 1999 per salvare Nissan si sta **dissolvendo**: cross-shareh
 | **junichi-hanzawa** | CEO designato MUFG 2026 | Deputy Chairman MUFG |
 | masayoshi-son | CEO SoftBank | Vision Fund |
 | akio-toyoda | Chairman Toyota | - |
+| daisaku-ikeda | Fondatore Komeito/Soka Gakkai † | 1928-2023 |
+| natsuo-yamaguchi | Presidente Komeito 2009-24 | - |
+| toru-hashimoto | Fondatore JIP, ex-sindaco Osaka | - |
+| hirofumi-yoshimura | Leader JIP, Gov. Osaka | - |
 | **kenichiro-yoshida** | **Chairman Sony 2025-** | CEO 2018-25 |
 | **hiroki-totoki** | **CEO Sony 2025-** | "real car guy" |
 | **akio-morita** | **Co-fondatore Sony** | Trilateral member, Keidanren VC |
@@ -904,12 +943,20 @@ L'Alliance nata nel 1999 per salvare Nissan si sta **dissolvendo**: cross-shareh
 | **jcie** | ThinkTank | Host Trilateral Asia arm |
 | **jane** | Forum | Rivale Keidanren, fondata da Mikitani |
 | **keidanren** | Forum | Voce big business giapponese |
-| **ldp** | Party | Liberal Democratic Party |
+| **ldp-japan** | Party | [Scheda](../docs/party/ldp-japan.md) - Liberal Democratic Party, fondato 1955 |
+| **japan-innovation-party** | Party | [Scheda](../docs/party/japan-innovation-party.md) - Nippon Ishin no Kai, coalizione LDP 2025 |
+| **komeito** | Party | [Scheda](../docs/party/komeito.md) - Soka Gakkai, ex-coalizione LDP 1999-2025 |
+| **soka-gakkai** | ReligiousInstitution | Fondatore Ikeda, base elettorale Komeito |
+| **nippon-kaigi** | ThinkTank | Lobby nazionalista, Abe special adviser |
 | **aso-group** | Company | Conglomerato famiglia Aso |
 | **vissel-kobe** | SportsClub | Owned by Rakuten |
 | **fc-barcelona** | SportsClub | Sponsor Rakuten 2017-22 |
 | **ibj** | Bank | Industrial Bank of Japan (ora Mizuho) |
 | **harvard-business-school** | University | Mikitani MBA 1993 |
+| **kobe-university** | University | Takaichi BA 1984 |
+| **matsushita-institute** | University | Takaichi 1984-87 |
+| **seikei-university** | University | Abe BA 1977 |
+| **kobe-steel** | Company | Abe employee 1979-82 |
 
 ### Da Creare (Priorità)
 
@@ -1033,6 +1080,10 @@ Caratteristiche:
 19. **Modello Honda**: Unico grande automaker mai appartenuto a keiretsu - prova che indipendenza era possibile
 20. **Buffett come Validatore**: $31B nelle sogo shosha = benedizione del capitalismo USA al modello giapponese
 21. **WEF Strategic Partners**: Mitsubishi Corp e Sony sono Strategic Partners WEF - integrazione corporate globale
+22. **Fine Sistema Komeito**: 26 anni di coalizione LDP-Komeito (1999-2025) terminati; Soka Gakkai perde influenza politica diretta
+23. **Shift a Destra**: Takaichi (nazionalista, protetta Abe) + JIP (pro-revisione costituzionale) = coalizione piu' conservatrice della storia recente
+24. **Matsushita Institute**: Takaichi e' prodotto del Matsushita Institute of Government and Management — vivaio di leader politici giapponesi fondato da Konosuke Matsushita (Panasonic)
+25. **Nippon Kaigi come rete**: Abe "special adviser", 22/24 ministri del suo gabinetto 2018 affiliati — lobby nazionalista trasversale al LDP
 
 ---
 
@@ -1140,4 +1191,4 @@ RETURN smfg.id, partner.id, partner.headquarters, s.share, s.note
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025 - Aggiunte: sezione Crisi Automotive 2024-25, schede Mitsubishi Corp, Sony, Honda, Nissan; nuovi CEO (Espinosa, Totoki, Nakanishi, Mibe); Buffett sogo shosha investment +392%*
+*Ultimo aggiornamento: Febbraio 2026 - Aggiunte: Sanae Takaichi PM 2025; panorama partitico (LDP, JIP, Komeito); fine coalizione LDP-Komeito; nuova coalizione LDP-JIP; Nippon Kaigi; schede partiti*
