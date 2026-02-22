@@ -2227,6 +2227,27 @@ Firmato da Renzi e Padoan nel 2014 per €2.1 miliardi:
 | Energia | CDP RETI | Attivo |
 | 5G | Telecoms | Bloccato |
 
+**Il MoU Belt and Road e la Task Force China (2018-2019):**
+
+Il governo Conte I (M5S-Lega) istituisce nell'agosto 2018 la [Task Force China](../docs/agency/task-force-china.md) presso il MISE, una cabina di regia interministeriale coordinata dal Sottosegretario [Michele Geraci](../docs/persons/michele-geraci.md) (reclutato da [Salvini](../docs/persons/matteo-salvini.md) per la sua esperienza ventennale in Cina). La riunione inaugurale (1 ottobre 2018) coinvolge 6+ ministeri:
+
+| Nome | Ruolo | Ministero |
+|------|-------|-----------|
+| [Michele Geraci](../docs/persons/michele-geraci.md) | Coordinatore | MISE |
+| [Ettore Sequi](../docs/persons/ettore-sequi.md) | Ambasciatore a Pechino | MAE |
+| [Laura Castelli](../docs/persons/laura-castelli.md) | Sottosegretario Economia | MEF |
+| [Luciano Barra Caracciolo](../docs/persons/luciano-barra-caracciolo.md) | Sottosegretario Affari Europei | PCM |
+| [Carlo Sibilia](../docs/persons/carlo-sibilia.md) | Sottosegretario Interno | Min. Interno |
+
+Il 23 marzo 2019, l'Italia diventa il **primo e unico paese G7** a firmare il MoU sulla [Belt and Road Initiative](belt-and-road-initiative.md). L'operazione bypassa la Farnesina: Geraci conduce le trattative in autonomia.
+
+**Figure-ponte:**
+- **Geraci**: ingegneria Palermo → MIT MBA → finanza londinese → 10 anni accademia in Cina (mandarino fluente) → governo → ritorno accademia cinese + advocacy CGTN/Global Times
+- **[Sequi](../docs/persons/ettore-sequi.md)**: diplomatico di carriera, Capo Gabinetto di 4 Ministri degli Esteri (Dini, Mogherini, Gentiloni, Di Maio), poi Segretario Generale Farnesina (Draghi). Continuita' istituzionale dietro i cambi di governo
+- **Barra Caracciolo**: Presidente di Sezione del Consiglio di Stato, euroscettico dichiarato — il paradosso di un anti-UE a gestire i rapporti europei mentre l'Italia apriva alla Cina
+
+**Esito**: deficit commerciale Italia-Cina peggiorato (import quasi raddoppiato). [Meloni](../docs/persons/giorgia-meloni.md) ritira l'Italia dalla BRI a dicembre 2023. Ma i canali diplomatici sopravvivono: La Russa a Pechino nel marzo 2025.
+
 ---
 
 ## VIII. Private Equity Italiano: Il Nuovo Potere

@@ -284,9 +284,15 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 2017 | Articolo 50 invocato, inizio negoziati UK-EU | [Brexit Power Map](brexit-power-map.md) |
 | 2017 | Chiusura FPI (post-Trump) | [FPI](../docs/think-tank/foreign-policy-initiative.md) |
 | 2017 | Morte Jacque Fresco (101 anni) | [Fresco](../docs/persons/jacque-fresco.md) |
+| 2013 set | Xi annuncia "Silk Road Economic Belt" ad Astana | [Belt and Road Initiative](belt-and-road-initiative.md) |
+| 2014 nov | Creazione Silk Road Fund ($40B) | [Belt and Road Initiative](belt-and-road-initiative.md) |
+| 2016 gen | AIIB inizia operazioni, Jin Liqun presidente | [Belt and Road Initiative](belt-and-road-initiative.md) |
+| 2017 mag | Primo Belt and Road Forum: 29 capi di stato a Beijing | [Belt and Road Initiative](belt-and-road-initiative.md) |
+| 2017 ott | BRI incorporata nella Costituzione del PCC | [Belt and Road Initiative](belt-and-road-initiative.md) |
 | 2018 | Microsoft acquisisce GitHub per $7.5B | [Open Source Power](open-source-power.md) |
 | 2019 | IBM acquisisce Red Hat per $34B (piu' grande acquisizione software) | [Open Source Power](open-source-power.md) |
 | 2019 | Stallman si dimette da FSF e MIT (controversia Epstein) | [Open Source Power](open-source-power.md) |
+| 2019 mar | **Italia firma MoU BRI** — primo e unico paese G7 | [Belt and Road Initiative](belt-and-road-initiative.md) |
 | 2019 lug | Arresto federale Jeffrey Epstein, NYC | [Epstein Network](epstein-network-2026.md) |
 | 2019 ago | Morte Epstein in cella (MCC Manhattan) | [Epstein Network](epstein-network-2026.md) |
 | 2019 | Musk tweet: "Martian Technocracy" | [Technocracy Genealogy](technocracy-genealogy.md) |
@@ -305,6 +311,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | [Belgium Power Map](belgium-power-map.md) | Capitale EU, Davignon, SWIFT |
 | [Poland Power Map](poland-power-map.md) | Retinger, Brzezinski, shock therapy |
 | [Hungary Power Map](hungary-power-map.md) | Stato illiberale, Orban, oligarchi |
+| [Belt and Road Initiative](belt-and-road-initiative.md) | BRI, AIIB, Silk Road Fund, connessione Italia (2013-2026) |
 
 ---
 
@@ -322,11 +329,15 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 2020 ott | Abraham Accords - Sudan | [Accordi di Abramo](abraham-accords.md) |
 | 2020 dic | Abraham Accords - Marocco | [Accordi di Abramo](abraham-accords.md) |
 | 2023 ott | Attacco Hamas, freeze normalizzazione saudita | [Accordi di Abramo](abraham-accords.md) |
+| 2023 ott | **Terzo Belt and Road Forum**: Xi annuncia nuovi finanziamenti RMB 780B | [Belt and Road Initiative](belt-and-road-initiative.md) |
+| 2023 dic | Italia annuncia ritiro dalla BRI (Meloni) | [Belt and Road Initiative](belt-and-road-initiative.md) |
 | 2023 | Windsor Framework (Sunak-von der Leyen) risolve crisi NI Protocol | [Brexit Power Map](brexit-power-map.md) |
 | 2024 mar | Backdoor XZ Utils scoperta (CVE-2024-3094, CVSS 10.0) | [Open Source Power](open-source-power.md) |
 | 2024 apr | IBM acquisisce HashiCorp per $6.4B | [Open Source Power](open-source-power.md) |
 | 2024 set | Mullenweg blocca WP Engine da WordPress.org | [Open Source Power](open-source-power.md) |
 | 2024 | Lancio DOGE (Musk) - paralleli con Technocracy Inc. | [Technocracy Genealogy](technocracy-genealogy.md) |
+| 2025 feb | Panama esce dalla BRI (pressione USA/Rubio) | [Belt and Road Initiative](belt-and-road-initiative.md) |
+| 2025 | BRI record: $213.5B in nuovi deal (+75%) | [Belt and Road Initiative](belt-and-road-initiative.md) |
 | 2025 mag | Primo UK-EU Summit sotto Starmer — reset relazioni | [Brexit Power Map](brexit-power-map.md) |
 | 2025 nov | Epstein Files Transparency Act firmato da Trump (PL 119-38) | [Epstein Network](epstein-network-2026.md) |
 | 2025 nov | Abraham Accords - Kazakhstan (Trump 2.0) | [Accordi di Abramo](abraham-accords.md) |

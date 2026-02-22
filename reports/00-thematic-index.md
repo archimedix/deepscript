@@ -149,6 +149,7 @@ Report che analizzano specifici settori economici.
 ### Infrastruttura
 | Report | Periodo | Focus |
 |--------|---------|-------|
+| [Belt and Road Initiative](belt-and-road-initiative.md) | 2013-2026 | BRI, Silk Road Fund, AIIB, Digital Silk Road, connessione Italia |
 | [Canale di Suez](suez-canal.md) | 1833-1956 | Rete saint-simoniana, colonialismo infrastrutturale, Nasser |
 
 ### Energia
@@ -342,6 +343,7 @@ Analisi di industrie specifiche:
 - [Media Power](media-power.md)
 - [Pharma Power](pharma-power.md)
 - [Open Source Power Map](open-source-power.md)
+- [Belt and Road Initiative](belt-and-road-initiative.md)
 - [Sport Geopolitics](sport-geopolitics.md)
 
 ---
@@ -350,7 +352,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 86 |
+| **Report totali** | 87 |
 | **Power Map geografici** | 45+ |
 | **Report tematici/settoriali** | 31+ |
 | **Periodo coperto** | 1626-2025 |
