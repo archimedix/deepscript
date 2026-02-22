@@ -11,7 +11,7 @@
 | **Famiglia** | Genitori tedeschi, emigrati in USA |
 | **Orientamento** | Dichiaratamente gay (dal 2016) |
 | **Nazionalita'** | DEU-USA-NZL (cittadinanza NZ dal 2011) |
-| **Patrimonio** | ~$14.2 miliardi (2026, trainato da Palantir) |
+| **Patrimonio** | ~$27.5 miliardi (Dic 2025, trainato da Palantir) |
 | **Residenza** | Los Angeles, Miami |
 
 ---
@@ -33,13 +33,16 @@
 
 | Periodo | Azienda/Ruolo | Descrizione |
 |---------|---------------|-------------|
-| **1996-1998** | Thiel Capital | Primo hedge fund |
+| **1996** | Thiel Capital Management | Primo fondo (predecessore Clarium) |
 | **1998-2002** | PayPal | Co-fondatore, CEO |
-| **2003-oggi** | Clarium Capital | Hedge fund |
-| **2004-oggi** | Palantir Technologies | Co-fondatore |
-| **2005-oggi** | Founders Fund | VC firm |
-| **2004-2012** | Facebook | Primo investitore esterno |
-| **2016-oggi** | Politica GOP | Mega-donor |
+| **2002-~2013** | Clarium Capital | Hedge fund global macro (defunct) |
+| **2004-oggi** | Palantir Technologies | Co-fondatore, Chairman |
+| **2004-2022** | Facebook/Meta | Primo investitore esterno, board |
+| **2005-oggi** | Founders Fund | VC firm ($4.6B Fund III, Apr 2025) |
+| **2010-oggi** | Valar Ventures | VC fintech internazionale |
+| **2011-oggi** | [Thiel Capital](../company/thiel-capital.md) | Family office (braccio VC Rivendell Trust) |
+| **2012-oggi** | Mithril Capital | Growth-stage fund |
+| **2016-oggi** | Politica GOP | Mega-donor, kingmaker |
 
 ### PayPal (1998-2002)
 
@@ -81,7 +84,7 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 
 > Palantir e' di fatto il braccio di data analytics dell'intelligence USA.
 
-### Investimenti Angel
+### Investimenti Angel e VC
 
 | Azienda | Investimento | Ritorno |
 |---------|--------------|---------|
@@ -90,6 +93,57 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | **Spotify** | Early investor | IPO |
 | **Airbnb** | Early investor | IPO |
 | **SpaceX** | Investor | Crescita |
+| **Anduril** | $1B Series G (Giu 2025) | Piu' grande investimento FF |
+| **Quantum Systems** | Series C (Nov 2025) | Primo unicorno dual-use EU |
+
+### Thiel Capital e Struttura Rivendell Trust
+
+```
+Thiel Capital Management (1996)
+        |
+        v
+Clarium Capital (2002-~2013, hedge fund global macro, defunct)
+        |
+        v
+Thiel Capital LLC (2011-oggi, family office, Los Angeles)
+   = braccio VC di Rivendell Trust
+        |
+        +-- Founders Fund (incubato)
+        +-- Mithril Capital (incubato)
+        +-- Valar Ventures (incubato)
+        +-- Thiel Fellowship (incubato)
+        +-- Breakout Labs (incubato)
+```
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Rivendell Trust** | Family trust, veicoli multipli (Rivendell One LLC, Rivendell 7, Rivendell 25) |
+| **Thiel Capital** | Braccio operativo, "supporto strategico e operativo" |
+| **Opacita'** | Descritta come la piu' segreta tra le entita' di Thiel |
+| **Key personnel** | Sebastian Kurz (Global Strategist), Will Tipton (CFO), Rob Morrow (principal) |
+
+### Rete Cybersecurity-Intelligence (via Kurz)
+
+Sebastian Kurz, Global Strategist a Thiel Capital dal 2022, ha co-fondato [Dream Security](../company/dream-security.md) nel 2023 con [Shalev Hulio](shalev-hulio.md) (creatore di Pegasus/NSO Group) e Gil Dolev. Dream vende cybersecurity difensiva a 30+ governi e ha raggiunto lo status di unicorno ($1.1B) nel 2025.
+
+| Connessione | Dettaglio |
+|-------------|-----------|
+| **Kurz → Thiel Capital** | Global Strategist dal 2022 |
+| **Kurz → Dream Security** | Co-founder, President |
+| **Hulio → NSO Group** | Creatore Pegasus (spyware), CEO 2010-2022 |
+| **Hulio → Dream Security** | Co-founder, CEO |
+| **Hulio → Unit 8200** | Veteran intelligence israeliana |
+
+> La traiettoria Palantir (intelligence USA) → Thiel Capital → Dream Security (intelligence governi) configura un ecosistema di sorveglianza che collega Silicon Valley, intelligence israeliana e governi europei/mediorientali.
+
+### Próspera (Charter City)
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Progetto** | Charter city su Roatán, Honduras (ZEDE) |
+| **Veicolo** | Pronomos Capital (co-investitore con Andreessen, Srinivasan) |
+| **Status** | Disputa legale $11B con governo Honduras |
+| **Critica** | Definito "esperimento neocoloniale" |
 
 ---
 
@@ -203,10 +257,13 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 
 | Asset | Valore |
 |-------|--------|
-| **Founders Fund** | ~$12B AUM |
+| **Founders Fund** | ~$12B AUM, $4.6B Fund III (Apr 2025) |
 | **Palantir stake** | Multi-miliardario (Palantir val. ~$300B) |
-| **Thiel Capital** | Family office (Seb. Kurz global strategist) |
-| **Clarium Capital** | Hedge fund |
+| **[Thiel Capital](../company/thiel-capital.md)** | Family office, braccio VC del Rivendell Trust (LA) |
+| **Clarium Capital** | Hedge fund global macro (defunct ~2013) |
+| **Valar Ventures** | $300M Fund IX (2024), focus fintech internazionale |
+| **Mithril Capital** | Growth-stage tech fund (Austin) |
+| **Pronomos Capital** | Charter cities (Próspera Honduras) |
 | **FF → Anduril** | $1B in Series G (Jun 2025), piu' grande investimento FF |
 
 ### Potere sull'Intelligence
@@ -240,6 +297,16 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | **2016** | Hulk Hogan vince $140M, Gawker fallisce |
 | **Critica** | Miliardario distrugge media con litigation |
 
+### Jeffrey Epstein
+
+| Anno | Dettaglio |
+|------|-----------|
+| **2014-2018** | Incontri documentati tra Thiel ed Epstein |
+| **2015-2016** | Epstein investe $40M+ in Valar Ventures come LP |
+| **2019** | Rapporto cessa dopo arresto di Epstein |
+| **2026** | Ex-PM israeliano Barak afferma "co-proprietà" (negato da Thiel) |
+| **2026** | Epstein estate riceve $130M da liquidazione quote |
+
 ### Posizioni Controverse
 
 | Posizione | Critica |
@@ -247,6 +314,7 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | **Democrazia** | Definita "incompatibile con la liberta'" |
 | **Monopoli** | "Competition is for losers" |
 | **Donne voto** | Cito' correlazione voto donne-welfare (poi ritrattato) |
+| **Próspera** | Charter city in Honduras: "fantasia neocoloniale" |
 
 ---
 
@@ -270,6 +338,9 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | Entita' | Connessione |
 |---------|-------------|
 | [PayPal Mafia](../istituzioni/paypal-mafia.md) | Fondatore/"Capo" |
+| [Thiel Capital](../company/thiel-capital.md) | Fondatore, family office (2011-) |
+| [Founders Fund](../private-equity/founders-fund.md) | Partner fondatore (2005-) |
+| [Palantir](../company/palantir.md) | Co-fondatore, Chairman (2004-) |
 | [Young Global Leaders](../istituzioni/young-global-leaders.md) | YGL 2007 |
 | [Bilderberg](../istituzioni/bilderberg-trilaterale.md) | Partecipante 2024 |
 
@@ -283,6 +354,16 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | [JD Vance](jd-vance.md) | Protégé, VP USA 2024 |
 | [Sam Altman](sam-altman.md) | OpenAI co-founders 2015 |
 | [Alex Karp](alex-karp.md) | Palantir co-founder, Stanford Law classmate |
+| [Marc Andreessen](marc-andreessen.md) | Fellow Trump advisor, VC, Próspera co-investitore |
+| [Sebastian Kurz](sebastian-kurz.md) | Global Strategist a Thiel Capital dal 2022, co-founder Dream Security |
+| [Shalev Hulio](shalev-hulio.md) | Creatore Pegasus/NSO, co-founder Dream Security con Kurz (connessione indiretta) |
+| [Jeffrey Epstein](jeffrey-epstein.md) | LP in Valar Ventures ($40M+, 2015-2019) |
+| [Jacob Helberg](jacob-helberg.md) | Ex-Palantir, protégé nel governo Trump |
+| [Ken Howery](ken-howery.md) | PayPal co-founder, Founders Fund co-founder |
+| [Keith Rabois](keith-rabois.md) | PayPal Mafia, Stanford Law |
+| [Max Levchin](max-levchin.md) | PayPal CTO, co-fondatore |
+| [Trae Stephens](trae-stephens.md) | Thiel Fellow, FF partner, co-founder Anduril |
+| [Nicole Junkermann](nicole-junkermann.md) | Co-investitrice |
 | [Klaus Schwab](klaus-schwab.md) | Fondatore WEF/YGL |
 
 ---
@@ -293,12 +374,14 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 |------|--------|
 | **1967** | Nascita in Germania |
 | **1992** | JD Stanford Law |
+| **1996** | Fonda Thiel Capital Management |
 | **1998** | Co-fonda PayPal |
-| **2002** | Exit PayPal ($1.5B a eBay) |
+| **2002** | Exit PayPal ($1.5B a eBay), lancia Clarium Capital |
 | **2004** | Primo investitore Facebook |
 | **2004** | Co-fonda Palantir |
 | **2005** | Fonda Founders Fund |
 | **2009** | "Freedom and democracy incompatible" |
+| **2011** | Fonda Thiel Capital LLC (family office, braccio Rivendell Trust) |
 | **2011** | Incontra JD Vance a Yale |
 | **2016** | Finanzia distruzione Gawker |
 | **2016** | Supporta Trump (RNC speech) |
@@ -310,6 +393,11 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | **2025** | Founders Fund investe $1B in Anduril (Series G) |
 | **2025** | 12+ persone legate a Thiel nel governo Trump |
 | **2025** | Palantir contratto DoD AI battlefield +$795M |
+| **2025** | Founders Fund Growth III: $4.6B fund (Apr) |
+| **2025** | FF investe $1B in Quantum Systems (Nov) |
+| **2026** | Patrimonio netto ~$27.5B |
+| **2026** | Rivelazioni Epstein-Valar: $40M+ LP, disputa su "co-proprietà" |
+| **2026** | Próspera: disputa legale $11B con Honduras |
 
 ---
 
@@ -346,6 +434,9 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 - [NPR - How Palantir is rising in the Trump era](https://www.npr.org/2025/05/01/nx-s1-5372776/palantir-tech-contracts-trump)
 - [CNBC - Palantir's astronomical growth in 3 charts](https://www.cnbc.com/2025/08/14/palantir-ai-charts-revenue.html)
 - [Revolving Door Project - Oligarchs and Trump: Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/)
+- [Byline Times - Epstein-Thiel Valar Ventures](https://bylinetimes.com/2026/02/04/jeffrey-epstein-and-peter-thiel-co-owned-venture-fund-as-thiels-palantir-entered-uk-government/)
+- [The Nation - What Peter Thiel Saw in Jeffrey Epstein](https://www.thenation.com/article/society/peter-thiel-jeffrey-epstein-democracy/)
+- [Truthout - Peter Thiel Próspera Honduras](https://truthout.org/articles/peter-thiel-is-unleashing-a-neocolonial-billionaire-fantasy-in-honduras/)
 
 ---
 

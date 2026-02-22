@@ -180,6 +180,7 @@ Report che analizzano la costruzione di movimenti politici, stati e ideologie.
 | [Nascita del Fascismo](fascismo-nascita-finanziamento.md) | 1914-1926 | Finanziatori internazionali |
 | [Origini del Comunismo](comunismo-origini.md) | 1796-1943 | Marx, Engels, Internazionali, scissioni, Comintern |
 | [Technocracy Genealogy](technocracy-genealogy.md) | 1933-2025 | Da Technocracy Inc. a DOGE via Musk |
+| [New American Right](new-american-right.md) | 2009-2025 | Thiel network, NatCon, Project 2025, pipeline VC→governo |
 | [Accordi di Abramo](abraham-accords.md) | 2020-2026 | Normalizzazione arabo-israeliana, bypassa questione palestinese |
 
 **Eventi correlati:**
@@ -302,6 +303,7 @@ Analisi di pattern/fenomeni attraverso il tempo:
 - [Transatlantic Forums](transatlantic-forums-europe-influence.md)
 - [Gulf-Europe Pipeline](gulf-europe-pipeline-media.md)
 - [Technocracy Genealogy](technocracy-genealogy.md)
+- [New American Right](new-american-right.md)
 
 ### Report Geografici
 Mappe di potere regionali:

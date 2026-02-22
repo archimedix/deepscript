@@ -11,7 +11,7 @@ La "PayPal Mafia" e' il nome dato al gruppo di fondatori e primi dipendenti di P
 | **Vendita PayPal (2002)** | $1.5 miliardi a eBay |
 | **Aziende fondate dopo** | Tesla, SpaceX, LinkedIn, YouTube, Palantir, Yelp, Yammer, Affirm, etc. |
 | **Patrimonio combinato stimato** | >$300 miliardi |
-| **Posizioni governo Trump 2025** | VP (Vance), DOGE (Musk), AI/Crypto Czar (Sacks) |
+| **Posizioni governo Trump 2025** | VP (Vance), DOGE (Musk), AI/Crypto Czar (Sacks), Under Secretary (Helberg) |
 
 ---
 
@@ -37,7 +37,7 @@ Il termine "PayPal Mafia" fu consacrato da un articolo di **Fortune Magazine** n
 **Fila posteriore:**
 1. **Jawed Karim** - Co-fondatore YouTube
 2. **Jeremy Stoppelman** - CEO Yelp
-3. **Andrew McCormack** - Managing Partner Laiola Restaurant
+3. **[Andrew McCormack](../persons/andrew-mccormack.md)** - All'epoca Managing Partner Laiola Restaurant; poi Managing Director [Thiel Capital](../company/thiel-capital.md), co-fondatore [Valar Ventures](../private-equity/valar-ventures.md)
 4. **Premal Shah** - Presidente Kiva
 
 **Fila centrale:**
@@ -92,23 +92,78 @@ Il termine "PayPal Mafia" fu consacrato da un articolo di **Fortune Magazine** n
 |---------|-----------|
 | **Nascita** | 11 ottobre 1967, Francoforte, Germania |
 | **Educazione** | Stanford (Filosofia), Stanford Law School |
-| **Patrimonio netto** | ~$20.8 miliardi (maggio 2025) |
+| **Patrimonio netto** | ~$27.5 miliardi (Feb 2026, trainato da Palantir) |
 | **Ideologia** | Libertario, contrarian, techno-monarchico |
 
 **Carriera post-PayPal:**
-- **2003**: Fonda **Palantir Technologies** (data analysis, clienti: CIA, NSA, militari)
-- **2004**: Primo investitore esterno in **Facebook** ($500k --> miliardi)
-- **2005**: Fonda **Founders Fund** (VC)
+- **2002**: Lancia **Clarium Capital** (hedge fund global macro, defunct ~2013)
+- **2003**: Fonda **Palantir Technologies** (data analysis, clienti: CIA, NSA, militari) con [Alex Karp](../persons/alex-karp.md)
+- **2004**: Primo investitore esterno in **Facebook/Meta** ($500k --> miliardi, board fino al 2022)
+- **2005**: Fonda **Founders Fund** (VC) con Ken Howery e Luke Nosek
+- **2010**: Fonda **[Valar Ventures](../private-equity/valar-ventures.md)** (fintech internazionale) con McCormack e Fitzgerald
+- **2011**: Fonda **[Thiel Capital](../company/thiel-capital.md)** (family office, braccio VC Rivendell Trust)
+- **2011**: Fonda **Thiel Fellowship** (giovani che abbandonano l'universita')
+- **2012**: Co-fonda **[Mithril Capital](../private-equity/mithril-capital.md)** (growth-stage VC, ~$1.3B AUM) con [Ajay Royan](../persons/ajay-royan.md) — ex-Clarium rimasto fedele durante il collasso
 - **2016**: Primo sostenitore di Trump nella Silicon Valley
 - **2022**: Finanzia la campagna senatoriale di JD Vance ($15M)
+
+**Investimenti diretti:**
+- **SpaceX** (early investor)
+- **Spotify** (early investor)
+- **Airbnb** (early investor)
+- **Carbyne** (ex Reporty Homeland Security, emergency tech israeliana, via Founders Fund Series B)
+- **Pronomos Capital** (charter cities, backer Prospera Honduras)
+- **Quantum Systems** (droni militari, Series C Nov 2025 via Founders Fund)
+
+**Forum e network:**
+- **Bilderberg Group** (membro dal 2024)
+- **WEF** (Young Global Leader dal 2007)
+- **Sun Valley Conference** (attendee)
+
+**Struttura Thiel Capital e veicoli di investimento:**
+
+```
+Thiel Capital LLC (2011, Los Angeles)
+ = braccio VC di Rivendell Trust
+    |
+    +-- Founders Fund (2005, multi-partner) ── early/growth stage
+    |     +-- Anduril ($1B Serie G)
+    |     +-- Varda Space (incubata qui)
+    |     +-- SpaceX, Airbnb, Stripe
+    |
+    +-- Mithril Capital (2012, Ajay Royan) ── growth stage "durable"
+    |     +-- $1.3B AUM, Fund I $402M + Fund II $740M
+    |     +-- Palantir, Oklo, Helion Energy
+    |     +-- Exit: Auris Health ($3.4B a J&J)
+    |
+    +-- Valar Ventures (2010, McCormack/Fitzgerald) ── fintech int'l
+    +-- Thiel Fellowship ── giovani dropout
+```
+
+| Veicolo | Gestore | Focus | AUM |
+|---------|---------|-------|-----|
+| [Founders Fund](../private-equity/founders-fund.md) | Multi-partner | Early/growth, ampio | ~$12B |
+| [Mithril Capital](../private-equity/mithril-capital.md) | [Ajay Royan](../persons/ajay-royan.md) | Growth, "durable" | ~$1.3B |
+| [Valar Ventures](../private-equity/valar-ventures.md) | [Andrew McCormack](../persons/andrew-mccormack.md) | Fintech int'l | — |
+| [Thiel Capital](../company/thiel-capital.md) | Diretto | Family office | — |
+
+Key personnel Thiel Capital: [Sebastian Kurz](../persons/sebastian-kurz.md) (Global Strategist), [Andrew McCormack](../persons/andrew-mccormack.md) (MD), [James Fitzgerald](../persons/james-fitzgerald.md) (General Counsel)
 
 **Filosofia:**
 > "La competizione e' per i perdenti" - Zero to One
 
 **Connessioni politiche:**
-- Mentore di **JD Vance** (attuale VP USA)
+- Mentore di **JD Vance** (attuale VP USA, dal 2011, $15M donazione 2022)
 - Sostenitore di Trump 2016 e 2024 (ha ospitato festa inaugurazione)
-- Network di "Thiel Fellows" (giovani che abbandonano universita')
+- **[Jacob Helberg](../persons/jacob-helberg.md)**: ex-Palantir, protege di Thiel, Under Secretary of State for Economic Growth 2025
+- **[Trae Stephens](../persons/trae-stephens.md)**: Thiel Fellow, Founders Fund partner, co-fondatore Anduril Industries
+- **Ken Howery**: co-fondatore Founders Fund, ambasciatore USA in Svezia (Trump 1.0)
+
+**Connessione Epstein:**
+Jeffrey Epstein investi' $40M+ come LP in Valar Ventures (2015-2019). Relazione contestata da Thiel.
+
+**Rete Cybersecurity-Intelligence:**
+Via Kurz, Thiel Capital si collega a [Dream Security](../company/dream-security.md) (co-fondata da Kurz con [Shalev Hulio](../persons/shalev-hulio.md), creatore di Pegasus/NSO Group). Ecosistema Palantir → Thiel Capital → Dream Security.
 
 ---
 
@@ -121,21 +176,32 @@ Il termine "PayPal Mafia" fu consacrato da un articolo di **Fortune Magazine** n
 | **Educazione** | Penn (Fisica, Economia) |
 | **Patrimonio netto** | ~$350+ miliardi (2025) |
 | **Posizione politica** | Da Obama a MAGA |
+| **Nazionalita'** | USA-ZAF |
 
 **Carriera post-PayPal:**
 - **2002**: Fonda **SpaceX**
-- **2004**: Investe in **Tesla**, diventa CEO
-- **2016**: Co-fonda **OpenAI** (poi lascia)
+- **2004**: Investe in **Tesla**, diventa CEO (possiede ~13%)
+- **2015**: Co-fonda **OpenAI** (co-chair, lascia board 2018)
 - **2016**: Fonda **Neuralink**
 - **2016**: Fonda **The Boring Company**
 - **2022**: Acquista **Twitter** --> rinomina **X**
+- **2023**: Fonda **xAI** (CEO, concorrente OpenAI; SpaceX investe $2B in equity 2025)
 - **2025**: Guida **DOGE** (Department of Government Efficiency)
 
-**DOGE (gennaio-maggio 2025):**
+**DOGE (gennaio-aprile 2025):**
+- Co-nominato con **Vivek Ramaswamy** (Nov 2024), Ramaswamy mai operativo
 - Promessa: tagliare $2 trilioni di spesa federale
 - Realta': CBS stima tagli gonfiati del 97%
-- Dimissioni: maggio 2025 dopo conflitto con Trump
+- Dimissioni: aprile 2025 dopo conflitto con Trump
 - Novembre 2025: DOGE ufficialmente sciolto
+
+**Forum e network:**
+- **WEF** (speaker 2022, prima apparizione Davos 2026)
+- **Sun Valley Conference** (speaker 2022, non invitato 2025)
+- **Giving Pledge** (membro dal 2012)
+
+**Background familiare:**
+Nonno materno **Joshua Haldeman** membro di **Technocracy Incorporated** (1936-1941, arrestato 1940). Emigro' in Sudafrica nel 1950.
 
 ---
 
@@ -149,10 +215,31 @@ Il termine "PayPal Mafia" fu consacrato da un articolo di **Fortune Magazine** n
 | **Patrimonio netto** | ~$2.5 miliardi |
 | **Posizione politica** | Democratico, mega-donatore |
 
+**Pre-PayPal:**
+- **Apple** (1994-1996, product manager eWorld)
+
 **Carriera post-PayPal:**
 - **2002**: Fonda **LinkedIn**
+- **2009**: General Partner **Greylock Partners** (VC)
 - **2016**: Microsoft acquisisce LinkedIn per **$26.2 miliardi**
 - **2017**: Entra nel **board Microsoft**
+- **2022**: Co-fonda **Inflection AI** con **Mustafa Suleyman** (co-fondatore DeepMind)
+- **2025**: Co-fonda **Manas AI** con **Siddhartha Mukherjee** (oncologo, Pulitzer)
+- Chairman **Village Global** (VC)
+- Client **ICONIQ Capital** (family office Silicon Valley elite)
+
+**Forum e network:**
+- **Bilderberg Group** (attendee regolare dal 2011)
+- **Council on Foreign Relations** (membro dal 2015)
+- **Sun Valley Conference** (attendee regolare)
+- **Edge Foundation** (attendee dinner)
+- **Giving Pledge** (membro dal 2012)
+- **OpenAI** (investitore iniziale 2015)
+- **Blockstream** (seed investor; connessione Epstein/Ito, spinto allocazione da $50K a $500K)
+
+**Attivita' accademica (2025):**
+- **LSE** (Visiting Senior Fellow)
+- **Cambridge** (Distinguished Academic Visitor, Queens College)
 
 **Attivita' politica:**
 - Mega-donatore democratico (>$10M a Harris 2024)
@@ -175,11 +262,18 @@ Reid Hoffman e' l'unico membro prominente della PayPal Mafia schierato con i Dem
 | **Patrimonio netto** | ~$1.5 miliardi |
 | **Posizione politica** | Repubblicano, MAGA |
 
+**Pre-PayPal:**
+- **McKinsey & Company** (1998-1999, consultant)
+
 **Carriera post-PayPal:**
 - **2005**: Fonda **Geni.com**
 - **2008**: Fonda **Yammer** (venduto a Microsoft per $1.2B nel 2012)
-- **2017**: Co-fonda **Craft Ventures** (VC)
+- **2017**: Co-fonda **Craft Ventures** (VC, $3.3B AUM)
 - Co-host del podcast **All-In**
+
+**Educazione:**
+- Stanford (BA Economics 1994, editor Stanford Review — come Thiel)
+- University of Chicago (JD 1998)
 
 **Ruolo nell'amministrazione Trump:**
 - **Dicembre 2024**: Nominato "White House AI & Crypto Czar"
@@ -218,13 +312,19 @@ Reid Hoffman e' l'unico membro prominente della PayPal Mafia schierato con i Dem
 | **Educazione** | University of Cape Town, Stanford MBA |
 | **Background familiare** | Nipote di Pik Botha (ministro esteri Sudafrica apartheid) |
 
+**Pre-PayPal:**
+- **McKinsey & Company** (1996-1998, business analyst, Johannesburg)
+
 **Carriera post-PayPal:**
-- **2003**: Entra in **Sequoia Capital**
-- Ora guida Sequoia Capital
+- **2003**: Entra in **Sequoia Capital**, Managing Partner dal 2022
 - Primi investimenti: YouTube, Instagram, Square
+- **Board**: Unity Technologies (Chairman 2023), MongoDB, Natera, Block Inc. (ex Square)
+
+**Investimenti Sequoia sotto Botha:**
+Sequoia Capital e' diventata la VC firm piu' influente con investimenti in: Apple, NVIDIA, Google, ByteDance, Stripe, Dropbox, xAI (Musk), Wiz, Palo Alto Networks, Safe Superintelligence (Ilya Sutskever).
 
 **Connessione sudafricana:**
-Botha, Musk e Thiel hanno tutti legami con il Sudafrica, creando un sottogruppo "sudafricano" nella Mafia.
+Botha (nipote di Pik Botha), Musk e Thiel (nato in Germania, cresciuto in Sudafrica) formano un sottogruppo "sudafricano" nella Mafia. Botha e Sacks entrambi ex-McKinsey.
 
 ---
 
@@ -263,6 +363,75 @@ Botha, Musk e Thiel hanno tutti legami con il Sudafrica, creando un sottogruppo 
 
 ---
 
+### I Membri Ombra: McCormack e Fitzgerald
+
+Due figure meno note della foto del 2007 sono in realta' centrali nell'architettura finanziaria di Thiel:
+
+**[Andrew McCormack](../persons/andrew-mccormack.md)** (#3 nella foto Fortune)
+- All'epoca presentato come "Managing Partner Laiola Restaurant"
+- In realta': PayPal (IPO team, 2001-02) → Clarium Capital (Operations, 2002-03) → [Thiel Capital](../company/thiel-capital.md) (MD, 2008-) → co-fondatore [Valar Ventures](../private-equity/valar-ventures.md) (2010-)
+- UPenn, BA Political Science 1998
+
+**[James Fitzgerald](../persons/james-fitzgerald.md)**
+- [Skadden Arps](../company/skadden-arps.md) (Associate, 7 anni) → [Thiel Capital](../company/thiel-capital.md) (COO e General Counsel, 2008-10) → co-fondatore [Valar Ventures](../private-equity/valar-ventures.md) (2010-)
+- Brigham Young (BA), UCLA (JD)
+- Il ponte tra il mondo legale tradizionale (Skadden, lo studio di [Joseph Flom](../persons/joseph-flom.md)) e l'ecosistema Thiel
+
+> McCormack e Fitzgerald sono i co-fondatori di Valar Ventures, il veicolo VC internazionale di Thiel dove anche Jeffrey Epstein investi' $40M+ come LP (2015-2019).
+
+---
+
+### Alex Karp (1967-)
+**Il CEO di Palantir**
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nascita** | 2 ottobre 1967, New York |
+| **Educazione** | Haverford (Filosofia), Stanford Law, Goethe University Frankfurt (PhD, sotto Habermas) |
+| **Posizione politica** | Democratico, ma contractor militare |
+
+- Co-fondatore **Palantir** con Thiel (compagni a Stanford Law 1989)
+- CEO Palantir dal 2005
+- **WEF** Davos participant
+- **Sun Valley Conference** (attendee 2025)
+
+Figura paradossale: democratico dichiarato che guida la piu' grande azienda di data intelligence militare USA.
+
+---
+
+### La Rete Thiel nel Governo Trump 2025
+
+Oltre ai membri classici della PayPal Mafia, Thiel ha inserito una seconda generazione di protege:
+
+| Nome | Ruolo Governo 2025 | Connessione Thiel |
+|------|---------------------|-------------------|
+| **JD Vance** | Vice Presidente | Mentore dal 2011, $15M donazione |
+| **David Sacks** | AI/Crypto Czar | PayPal Mafia, Stanford Review |
+| **[Jacob Helberg](../persons/jacob-helberg.md)** | Under Secretary of State | Ex-Palantir, protege |
+| **[Trae Stephens](../persons/trae-stephens.md)** | (Anduril, defense contractor) | Georgetown SFS → Palantir → Founders Fund partner → Trump DOD transition 2016 → co-fondatore Anduril |
+
+**Founders Fund --> Anduril (la pipeline defense-tech):**
+Trae Stephens, partner Founders Fund ed ex-Palantir, ha co-fondato **Anduril Industries** nel 2017 con un team che rappresenta la convergenza Palantir + Oculus nella rete Thiel:
+
+| Co-fondatore | Background | Ruolo Anduril |
+|--------------|-----------|---------------|
+| [Palmer Luckey](../persons/palmer-luckey.md) | Fondatore Oculus VR | CTO |
+| [Trae Stephens](../persons/trae-stephens.md) | Palantir → Founders Fund, Trump DOD transition 2016 | Executive Chairman |
+| [Brian Schimpf](../persons/brian-schimpf.md) | Cornell DARPA Challenge → Palantir Dir. Engineering (Foundry) | CEO |
+| [Matt Grimm](../persons/matt-grimm.md) | Cornell DARPA → Booz Allen → Palantir FDE Iraq/Afghanistan → Mithril Capital | COO |
+| [Joe Chen](../persons/joe-chen.md) | Oculus VR Product Lead, Army National Guard | Co-fondatore |
+
+Key executive: **[Matthew Steckman](../persons/matthew-steckman.md)** (Palantir DC first 12 → Zipline → Anduril CRO → President & CBO 2025, Wash100 Award)
+
+Founders Fund ha investito $1B nella Series G di Anduril (Giugno 2025), il piu' grande investimento nella storia del fondo. Valutazione: $30.5B.
+
+**Terza generazione — Thiel Fellows e protege operatori:**
+- **[Delian Asparouhov](../persons/delian-asparouhov.md)**: Thiel Fellow 2013 (MIT dropout), partner Founders Fund, co-fondatore e President [Varda Space Industries](../company/varda-space.md). Pipeline Thiel Fellowship → VC → fondatore in settori strategici (space-defense).
+- **[Will Bruey](../persons/will-bruey.md)**: Cornell → SpaceX (lead avionics Dragon, 6 anni) → Bank of America (Dir. Equities Tech) → CEO & Co-Founder [Varda Space](../company/varda-space.md). Reclutato da Asparouhov/Stephens, porta competenza tecnica di prima mano nell'ecosistema Thiel.
+- **[Ajay Royan](../persons/ajay-royan.md)**: Yale a 16 anni, ex-[Clarium Capital](../company/clarium-capital.md) (unico a restare durante il collasso), Founder & Managing GP [Mithril Capital](../private-equity/mithril-capital.md). Pattern lealta'-ricompensa: Thiel gli affida $100M per fondare Mithril. Board: Helion Energy, Oklo, Adimab, Fractyl Health. Controversie: causa ex-GC, indagine FBI sulle management fees (2019).
+
+---
+
 ## La Mappa del Potere 2025
 
 ```
@@ -270,8 +439,9 @@ Botha, Musk e Thiel hanno tutti legami con il Sudafrica, creando un sottogruppo 
 |           AMMINISTRAZIONE TRUMP 2025                |
 +=====================================================+
 |  VP: JD Vance (protege di Thiel)                    |
-|  DOGE: Elon Musk (ex)                               |
+|  DOGE: Elon Musk (ex, Apr 2025)                    |
 |  AI/Crypto Czar: David Sacks                        |
+|  Under Sec State: Jacob Helberg (ex-Palantir)       |
 +=====================================================+
                          |
          +---------------+---------------+
@@ -281,28 +451,60 @@ Botha, Musk e Thiel hanno tutti legami con il Sudafrica, creando un sottogruppo 
     |  Thiel  |     |  Musk   |     |  Sacks  |
     | Palantir|     | Tesla   |     | Craft   |
     | Founders|     | SpaceX  |     | Ventures|
+    | Mithril |     | xAI     |     |         |
     +---------+     +---------+     +---------+
          |               |               |
-         +---------------+---------------+
-                         |
-         +---------------+---------------+
-         |               |               |
-    +---------+     +---------+     +---------+
-    |   Max   |     | Roelof  |     |  Keith  |
-    | Levchin |     |  Botha  |     | Rabois  |
-    | Affirm  |     | Sequoia |     | Founders|
-    +---------+     +---------+     +---------+
+         +---+-----------+------+--------+
+             |           |      |
+    +---------+  +---------+  +---------+  +---------+
+    |   Max   |  | Roelof  |  |  Keith  |  |  Alex   |
+    | Levchin |  |  Botha  |  | Rabois  |  |  Karp   |
+    | Affirm  |  | Sequoia |  | Founders|  | Palantir|
+    +---------+  +---------+  +---------+  |  CEO    |
+                                           +---------+
+    =============================================
+    SECONDA GENERAZIONE (Protege Thiel)
+    =============================================
+    +-----------+  +-----------+  +-----------+
+    |   Trae    |  |  Jacob    |  | Ken       |
+    | Stephens  |  | Helberg   |  | Howery    |
+    | Anduril   |  | Under Sec |  | Founders  |
+    | Chairman  |  | State     |  | Fund      |
+    +-----------+  +-----------+  +-----------+
+         |
+    ANDURIL TEAM (Palantir+Oculus → Defense)
+    +-----------+  +-----------+  +-----------+
+    |  Brian    |  |   Matt    |  |  Palmer   |
+    | Schimpf   |  |  Grimm    |  |  Luckey   |
+    | CEO       |  | COO       |  | CTO       |
+    | ex-Palantir| | ex-Palantir| | ex-Oculus |
+    +-----------+  +-----------+  +-----------+
+
+    TERZA GENERAZIONE (Protege/Fellows)
+    +-----------+  +-----------+  +-----------+
+    |  Delian   |  | Steckman  |  |   Ajay    |
+    |Asparouhov |  | President |  |   Royan   |
+    | FF partner|  | Anduril   |  | Mithril   |
+    | Varda Spc |  | ex-Palantir| | $1.3B AUM |
+    +-----------+  +-----------+  +-----------+
+         |
+    +-----------+
+    |   Will    |
+    |  Bruey    |
+    | Varda CEO |
+    | ex-SpaceX |
+    +-----------+
 
     =============================================
                    IL DISSIDENTE
     =============================================
-                   +-----------+
-                   |   Reid    |
-                   |  Hoffman  |
-                   | Microsoft |
-                   |   Board   |
-                   |(Democratico)|
-                   +-----------+
+    +-----------+
+    |   Reid    |
+    |  Hoffman  |
+    | Microsoft |  Bilderberg, CFR, Greylock
+    | Inflection|  Inflection AI, Manas AI
+    |(Democratico)|
+    +-----------+
 ```
 
 ---
@@ -332,10 +534,13 @@ Botha, Musk e Thiel hanno tutti legami con il Sudafrica, creando un sottogruppo 
 
 Il network si auto-finanzia e si supporta reciprocamente:
 
-- **Thiel** --> primo investitore Facebook, SpaceX
-- **Botha** --> primo VC in YouTube
+- **Thiel** --> primo investitore Facebook/Meta, SpaceX, Spotify, Airbnb, Carbyne
+- **Botha/Sequoia** --> primo VC in YouTube, poi Google, ByteDance, Stripe, xAI, Wiz
 - **Sacks** --> investito in SpaceX, Boring Company, Affirm, Palantir
-- **Founders Fund** --> investito in SpaceX, Airbnb, Stripe
+- **Founders Fund** --> SpaceX, Airbnb, Stripe, Anduril ($1B), Carbyne, Varda Space (incubata)
+- **Mithril Capital** (Royan/Thiel) --> Palantir, Oklo, Helion Energy; exit Auris Health $3.4B
+- **Hoffman/Greylock** --> OpenAI, Inflection AI, Blockstream
+- **SpaceX** --> $2B equity in xAI (2025), cross-pollination Musk companies
 
 ---
 
@@ -354,9 +559,12 @@ Il network si auto-finanzia e si supporta reciprocamente:
 | **2024** | Musk dona >$200M a campagna Trump |
 | **2024** | Hoffman dona >$10M a Harris |
 | **Luglio 2024** | Vance scelto come VP dopo lobby di Thiel, Musk, Sacks |
+| **Nov 2024** | Musk e Ramaswamy co-nominati DOGE |
 | **Dic 2024** | Sacks nominato AI/Crypto Czar |
-| **Gen 2025** | Musk guida DOGE |
-| **Mag 2025** | Musk lascia DOGE dopo scontro con Trump |
+| **Gen 2025** | Musk guida DOGE (Ramaswamy mai operativo) |
+| **Gen 2025** | Jacob Helberg nominato Under Secretary of State |
+| **Apr 2025** | Musk lascia DOGE dopo scontro con Trump |
+| **Giu 2025** | Founders Fund investe $1B in Anduril (Trae Stephens) |
 | **Nov 2025** | DOGE sciolto |
 
 ### The Economist: "La PayPal Mafia prende il governo"
@@ -382,18 +590,41 @@ Dopo le elezioni 2024, The Economist scrisse che la PayPal Mafia avrebbe "preso 
 - Siedono nei board delle rispettive aziende
 - Condividono deal flow e informazioni
 
-### 3. Origine Comune: Stanford
-La maggior parte dei membri ha frequentato Stanford o University of Illinois Urbana-Champaign.
+### 3. Pipeline Educativa
+- **Stanford**: Thiel, Sacks, Hoffman, Botha, Rabois (Thiel e Sacks entrambi editor della Stanford Review)
+- **Yale**: [Ajay Royan](../persons/ajay-royan.md) (ammesso a 16 anni, BA Political Economy)
+- **Cornell**: [Will Bruey](../persons/will-bruey.md) (BS Engineering Physics, MEng), [Brian Schimpf](../persons/brian-schimpf.md) e [Matt Grimm](../persons/matt-grimm.md) (DARPA Challenge team)
+- **Georgetown**: [Trae Stephens](../persons/trae-stephens.md), [Matthew Steckman](../persons/matthew-steckman.md) (pipeline DC/Palantir)
+- **McKinsey**: Sacks (1998-99) e Botha (1996-98) prima di PayPal
+- **SpaceX alumni**: Bruey (Dragon avionics 6 anni) → Varda Space CEO
+- **University of Chicago**: Sacks (JD)
+- **University of Illinois**: Levchin
 
-### 4. Anti-Fraud DNA
+### 4. Anti-Fraud DNA --> Military-Intelligence Complex
 La tecnologia anti-frode di PayPal ha ispirato:
-- **Palantir** (intelligence/data analysis)
-- Sistemi di sicurezza in tutte le loro aziende
+- **Palantir** (intelligence/data analysis, CIA/NSA)
+- **Anduril** (defense tech, 3/5 fondatori ex-Palantir, $30.5B valutazione)
+- **[Varda Space](../company/varda-space.md)** (manifattura orbitale farmaceutica, payload AFRL/NASA; co-fondata da Stephens + Asparouhov + [Will Bruey](../persons/will-bruey.md) ex-SpaceX; $329M funding, Thiel investitore personale)
+- **Carbyne** (emergency tech, connessione israeliana)
+- **Quantum Systems** (droni militari)
+- Evoluzione da fintech --> surveillance --> defense --> space
+
+**Pipeline Cornell-DARPA → Palantir → Anduril:**
+Schimpf e Grimm si conoscono a Cornell dove co-fondano il team DARPA Grand/Urban Challenge. Entrambi entrano in Palantir, poi co-fondano Anduril. La coppia ingegneristica Cornell-DARPA e' il backbone tecnico di Anduril.
+
+**Pipeline Georgetown → Palantir DC → Anduril:**
+Stephens e Steckman sono entrambi alumni Georgetown, entrambi nell'ufficio DC di Palantir, entrambi in Anduril. Il canale Washington della rete Thiel.
 
 ### 5. Divisione Politica
-- **Repubblicani/Libertari**: Thiel, Musk, Sacks, Rabois
-- **Democratici**: Hoffman
+- **Repubblicani/Libertari**: Thiel, Musk, Sacks, Rabois, Vance, Helberg
+- **Democratici**: Hoffman, Karp (paradosso: CEO Palantir)
 - La divisione riflette la piu' ampia polarizzazione USA
+- Hoffman unico in Bilderberg + CFR, migrato in UK 2025
+
+### 6. Connessione Epstein
+Due punti di contatto documentati:
+- **Thiel/Valar Ventures**: Epstein LP con $40M+ (2015-2019)
+- **Hoffman/Blockstream**: seed investor, coinvolto nell'allocazione Epstein/Joi Ito al MIT Media Lab
 
 ---
 
@@ -403,9 +634,11 @@ La tecnologia anti-frode di PayPal ha ispirato:
 > "Un piccolo gruppo di persone che si conoscevano in una startup del 2000 ora controlla trilioni di dollari e posizioni chiave nel governo."
 
 ### Conflitti di Interesse
-- Musk guidava DOGE mentre le sue aziende hanno contratti federali
+- Musk guidava DOGE mentre Tesla, SpaceX, xAI hanno contratti federali
 - Palantir di Thiel ha ottenuto contratti DOGE
-- Sacks regola settori dove Craft Ventures investe
+- Anduril (Trae Stephens, Founders Fund) riceve contratti defense mentre Thiel e' nel network governo
+- Sacks regola AI e crypto dove Craft Ventures ($3.3B AUM) investe direttamente
+- Helberg (Under Sec State) e' ex-Palantir
 
 ### Ideologia "Techno-Feudale"
 Critici accusano il gruppo di promuovere una visione dove:
@@ -414,7 +647,11 @@ Critici accusano il gruppo di promuovere una visione dove:
 - I "creatori" hanno diritti superiori ai "consumatori"
 
 ### South African Connection
-Musk, Botha e Thiel hanno tutti legami con il Sudafrica dell'apartheid, sollevando domande sul background culturale del gruppo.
+- **Musk**: nato a Pretoria, nonno materno Joshua Haldeman membro di Technocracy Incorporated (movimento tecnocratico anni '30)
+- **Botha**: nipote di Pik Botha (ministro esteri durante apartheid), ex-McKinsey Johannesburg
+- **Thiel**: nato a Francoforte, cresciuto in Sudafrica prima di trasferirsi in USA
+- **Sacks**: nato a Citta' del Capo
+- Quattro dei membri piu' influenti hanno radici sudafricane
 
 ---
 
@@ -427,10 +664,26 @@ Musk, Botha e Thiel hanno tutti legami con il Sudafrica dell'apartheid, sollevan
 - Musk: membro, poi critico del WEF
 - Hoffman: partecipa regolarmente a Davos
 
-### Palantir e Intelligence
+### Palantir e Rete Intelligence-Cybersecurity-Defense
 - Contratti con CIA, NSA, militari
 - Ruolo nel data analysis governativo
 - Connessione DOGE 2025
+- **Alex Karp** CEO (democratico che gestisce contractor militare)
+- Via [Thiel Capital](../company/thiel-capital.md) → [Sebastian Kurz](../persons/sebastian-kurz.md) → [Dream Security](../company/dream-security.md) (co-fondata con [Shalev Hulio](../persons/shalev-hulio.md), ex NSO/Pegasus, Unit 8200)
+- Ecosistema sorveglianza: Silicon Valley (Palantir) + intelligence israeliana (Unit 8200/NSO) + governi europei/mediorientali (Dream)
+- **Anduril Industries** (Trae Stephens, Thiel Fellow): defense tech, $1B da Founders Fund
+- **Carbyne** (emergency tech israeliana): Founders Fund Series B lead
+- **Quantum Systems** (droni militari tedeschi): Founders Fund Series C (Nov 2025)
+
+### Hoffman e il Network Parallelo
+- **Bilderberg Group** + **Council on Foreign Relations** (unico membro PayPal Mafia in entrambi)
+- **Greylock Partners** (VC, dal 2009)
+- **Inflection AI** (co-fondata con Mustafa Suleyman, co-fondatore DeepMind)
+- **Manas AI** (2025, con Siddhartha Mukherjee)
+- **Blockstream** (seed investor, connessione Epstein via MIT Media Lab/Joi Ito)
+- **ICONIQ Capital** (family office dell'elite Silicon Valley)
+- **Edge Foundation** (circolo intellettuale)
+- In UK dal 2025: LSE Visiting Senior Fellow, Cambridge Distinguished Academic Visitor
 
 ---
 
@@ -461,8 +714,31 @@ David Sacks e Jack Selby stanno sviluppando un film sulla storia di PayPal e del
 ## Documenti Correlati
 
 - [BlackRock](blackrock.md) - Connessioni azionarie
-- [Palantir](palantir.md) - Da creare
+- [Palantir](../company/palantir.md) - Data analytics intelligence
+- [Thiel Capital](../company/thiel-capital.md) - Family office, braccio VC Rivendell Trust
+- [Valar Ventures](../private-equity/valar-ventures.md) - VC fintech internazionale (connessione Epstein)
+- [Founders Fund](../private-equity/founders-fund.md) - VC (Anduril, Carbyne, SpaceX)
+- [Mithril Capital](../private-equity/mithril-capital.md) - Growth-stage VC
+- [Dream Security](../company/dream-security.md) - Cybersecurity, Kurz + Hulio/NSO
+- [Skadden Arps](../company/skadden-arps.md) - Studio legale (Fitzgerald)
+- [Sequoia Capital](../private-equity/sequoia-capital.md) - VC (Botha, Managing Partner)
 - [World Economic Forum](wef.md) - Network elite
+- [Bilderberg](bilderberg.md) - Thiel (2024), Hoffman (2011+)
+- [Council on Foreign Relations](cfr.md) - Hoffman membro
+- [Alex Karp](../persons/alex-karp.md) - CEO Palantir
+- [Jacob Helberg](../persons/jacob-helberg.md) - Under Secretary of State
+- [Trae Stephens](../persons/trae-stephens.md) - Anduril Executive Chairman, Founders Fund partner
+- [Brian Schimpf](../persons/brian-schimpf.md) - Anduril CEO, ex Palantir Dir. Engineering
+- [Matt Grimm](../persons/matt-grimm.md) - Anduril COO, ex Palantir FDE Iraq/Afghanistan
+- [Joe Chen](../persons/joe-chen.md) - Anduril co-fondatore, ex Oculus VR
+- [Matthew Steckman](../persons/matthew-steckman.md) - Anduril President & CBO, ex Palantir DC
+- [Delian Asparouhov](../persons/delian-asparouhov.md) - Founders Fund partner, Varda Space co-fondatore, Thiel Fellow
+- [Will Bruey](../persons/will-bruey.md) - CEO Varda Space, ex-SpaceX lead avionics
+- [Ajay Royan](../persons/ajay-royan.md) - Founder & Managing GP Mithril Capital, protege Thiel
+- [Varda Space Industries](../company/varda-space.md) - Manifattura orbitale farmaceutica
+- [Also Capital](../private-equity/also-capital.md) - VC co-fondata da Will Bruey
+- [Lux Capital](../private-equity/lux-capital.md) - VC deep tech, investor Varda Space
+- [Palmer Luckey](../persons/palmer-luckey.md) - Anduril CTO, fondatore Oculus VR
 
 ---
 
@@ -488,4 +764,4 @@ David Sacks e Jack Selby stanno sviluppando un film sulla storia di PayPal e del
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: 22 Febbraio 2026 — arricchito con connessioni da Neo4j*

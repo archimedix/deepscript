@@ -295,6 +295,10 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 2019 mar | **Italia firma MoU BRI** — primo e unico paese G7 | [Belt and Road Initiative](belt-and-road-initiative.md) |
 | 2019 lug | Arresto federale Jeffrey Epstein, NYC | [Epstein Network](epstein-network-2026.md) |
 | 2019 ago | Morte Epstein in cella (MCC Manhattan) | [Epstein Network](epstein-network-2026.md) |
+| 2016 jul | Thiel parla al RNC, dona $1.25M a Trump | [New American Right](new-american-right.md) |
+| 2016 sep | Michael Anton: "The Flight 93 Election" (Claremont Review) | [New American Right](new-american-right.md) |
+| 2017 | Fondazione Anduril Industries (Luckey, Stephens, Schimpf) | [New American Right](new-american-right.md) |
+| 2019 jan | Fondazione Edmund Burke Foundation (Hazony), NatCon conferences | [New American Right](new-american-right.md) |
 | 2019 | Musk tweet: "Martian Technocracy" | [Technocracy Genealogy](technocracy-genealogy.md) |
 
 ### Report
@@ -335,6 +339,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 2024 mar | Backdoor XZ Utils scoperta (CVE-2024-3094, CVSS 10.0) | [Open Source Power](open-source-power.md) |
 | 2024 apr | IBM acquisisce HashiCorp per $6.4B | [Open Source Power](open-source-power.md) |
 | 2024 set | Mullenweg blocca WP Engine da WordPress.org | [Open Source Power](open-source-power.md) |
+| 2024 jul | Trump sceglie JD Vance come VP; Musk endorsa Trump ($277M) | [New American Right](new-american-right.md) |
 | 2024 | Lancio DOGE (Musk) - paralleli con Technocracy Inc. | [Technocracy Genealogy](technocracy-genealogy.md) |
 | 2025 feb | Panama esce dalla BRI (pressione USA/Rubio) | [Belt and Road Initiative](belt-and-road-initiative.md) |
 | 2025 | BRI record: $213.5B in nuovi deal (+75%) | [Belt and Road Initiative](belt-and-road-initiative.md) |
@@ -357,6 +362,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | [Media Power](media-power.md) | Controllo media |
 | [Open Source Power](open-source-power.md) | GNU, Linux Foundation, corporate capture, licensing wars (1983-2026) |
 | [Sport Geopolitics](sport-geopolitics.md) | Sport e soft power |
+| [New American Right](new-american-right.md) | Thiel network, NatCon, Project 2025, pipeline VC→governo (2009-2025) |
 | [Korea Power Map](korea-power-map.md) | Corea del Sud |
 | [Automotive Global Power Map](automotive-global-power-map.md) | 14 gruppi, 7 dinastie |
 | [Microsoft Geopolitical Hub](microsoft-geopolitical-hub.md) | Big Tech |

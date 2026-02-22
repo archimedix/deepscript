@@ -146,6 +146,28 @@ Il triangolo Tudor-Robin Hood-Honeycomb mostra come la rete Dubin funzionava com
 
 **Il nodo Pallotta e la connessione italiana**: [James Pallotta](../docs/persons/james-pallotta.md), Vice Chairman di Tudor Investment (1993-2008, gestiva $11B in equities), lascio' il fondo per fondare Raptor Group e divenne Chairman dell'[AS Roma](../docs/sports-club/as-roma.md) dal 2012 al 2020 — un ponte diretto tra il mondo hedge fund di NYC e il potere italiano. Figlio di immigrati da Puglia e Calabria, Pallotta siede anche nell'Advisory Council del [MIT Media Lab](../docs/university/mit-media-lab.md) — lo stesso lab diretto da [Joi Ito](../docs/persons/joi-ito.md) fino alle sue dimissioni nel 2019 per i legami finanziari con Epstein. Pallotta dono' $1M al fondo Ethics & Governance of AI del Media Lab nel 2017. Il pattern Tudor→Pallotta→AS Roma illustra come il capitale hedge fund penetra il sistema di potere attraverso la proprieta' sportiva, creando canali di influenza internazionale.
 
+#### Il Canale Venture Capital: Thiel e Valar Ventures
+
+La connessione tra Epstein e la Silicon Valley non si limitava ad accademia e filantropia. I DOJ files 2026 e le rivelazioni di febbraio rivelano un rapporto finanziario diretto tra Epstein e l'ecosistema di [Peter Thiel](../docs/persons/peter-thiel.md) — il piu' influente kingmaker tech-politico americano:
+
+| Data | Evento |
+|------|--------|
+| **2015** | Epstein investe $15M come LP in [Valar Ventures](../docs/private-equity/valar-ventures.md) via [Southern Trust Company](../docs/company/southern-trust.md) |
+| **2016** | Secondo investimento, totale $40M in due fondi Valar |
+| **2015-2019** | Epstein riceve opportunita' di investimento "confidenziali" come LP |
+| **2019 Lug** | Rapporto cessa dopo arresto di Epstein |
+| **2025** | NYT: investimento Epstein in Valar ora vale ~$170M (325% ritorno) |
+| **2026 Feb 4** | [Ehud Barak](../docs/persons/ehud-barak.md) definisce il rapporto Epstein-Thiel "co-proprieta'" del fondo |
+| **2026 Feb 4** | Portavoce di Thiel nega co-proprieta', conferma Epstein come Limited Partner |
+
+**[Valar Ventures](../docs/private-equity/valar-ventures.md)** (fondato 2010, NYC) e' uno spin-off di [Thiel Capital](../docs/company/thiel-capital.md), co-fondato da Thiel con [Andrew McCormack](../docs/persons/andrew-mccormack.md) (ex-PayPal) e [James Fitzgerald](../docs/persons/james-fitzgerald.md) (ex-COO Thiel Capital, ex-Skadden Arps). Il fondo investe in fintech internazionale (Wise, N26, Xero, Bitpanda) e gestisce ~$300M nel Fund IX (2024). Epstein, attraverso il veicolo Southern Trust Company, divenne uno dei LP piu' significativi con $40M distribuiti in due fondi tra 2015 e 2016.
+
+**Il nodo Barak**: La disputa sulla natura del rapporto nasce dalla testimonianza di Ehud Barak, ex Premier israeliano gia' al centro della rete Epstein attraverso [Carbyne](../docs/company/carbyne.md) e i contatti intelligence (30+ visite alla townhouse di Epstein). Barak sostiene che Epstein e Thiel fossero "co-proprietari" di Valar. Il portavoce di Thiel replica che Epstein era solo un LP senza ruolo gestionale. La distinzione e' cruciale: un LP contribuisce capitale senza controllo operativo, mentre un co-proprietario implica una relazione strutturale.
+
+**L'email Fiszel**: Una email del febbraio 2016 gia' documentata nel dossier Tudor-Honeycomb — "[David Fiszel](../docs/persons/david-fiszel.md) a Epstein: Eva Dubin gave me your email address as I hoped to follow up on the Peter Thiel meeting we briefly discussed" — conferma che Epstein fungeva da connettore tra il mondo hedge fund (Fiszel/SAC/Point72) e l'ecosistema Thiel, suggerendo un ruolo di intermediario ben oltre il semplice LP.
+
+**Implicazioni politiche (2026)**: L'investimento di $40M (ora $170M) e' ancora locked-up nei fondi Valar e fa parte del patrimonio dell'estate Epstein. La Epstein estate ha gia' ricevuto $130M da liquidazione di altre quote. Questa connessione finanziaria lega direttamente la rete Epstein all'uomo che ha costruito l'attuale architettura politica Trump — Thiel e' il mentore di [JD Vance](../docs/persons/jd-vance.md) (VP), il finanziatore di [David Sacks](../docs/persons/david-sacks.md) (AI Czar), e il fondatore di [Palantir](../docs/company/palantir.md) (il braccio analitico dell'intelligence USA).
+
 #### Il Canale Corporate: Sinofsky e Microsoft
 
 I DOJ files 2026 rivelano che [Steven Sinofsky](../docs/persons/steven-sinofsky.md), presidente della divisione Windows di Microsoft (2009-2012) e protetto di [Bill Gates](../docs/persons/bill-gates.md), mantenne una relazione prolungata con Epstein:
@@ -1062,6 +1084,7 @@ Persone nella rete Epstein con il maggior numero di affiliazioni ad organizzazio
 | **2026 Gen-Feb** | DOJ files rivelano: accordo $25M STC-[EdR Holding](../docs/bank/edmond-de-rothschild-group.md) (2015); corrispondenza [Ariane de Rothschild](../docs/persons/ariane-de-rothschild.md)-Epstein 2013-2019; [Boris Collardi](../docs/persons/boris-collardi.md) (Julius Baer) "BC" nelle email Barak-Epstein; [Joshua Cooper Ramo](../docs/persons/joshua-cooper-ramo.md) (Kissinger Assoc.) 14+ incontri 2013-2017 |
 | **2026 Feb 1** | [Peter Mandelson](../docs/persons/peter-mandelson.md) dimesso da Labour e Lords |
 | **2026 Feb 2** | Nomi [Jack Lang](../docs/persons/jack-lang.md) e [Olivier Colom](../docs/persons/olivier-colom.md) emergono nei file — i due contatti primari di Epstein in Francia |
+| **2026 Feb 4** | [Ehud Barak](../docs/persons/ehud-barak.md) definisce Epstein "co-proprietario" di [Valar Ventures](../docs/private-equity/valar-ventures.md) con Thiel; portavoce Thiel conferma Epstein come LP ($40M, ora ~$170M) |
 | **2026 Feb 4** | Release supplementare DOJ con accuse Leon Black |
 | **2026 Feb 5** | WEF apre indagine su [Brende](../docs/persons/borge-brende.md); Schwab nega di essere stato informato |
 | **2026 Feb 6** | Økokrim apre indagine su [Jagland](../docs/persons/thorbjorn-jagland.md) |
@@ -1212,6 +1235,10 @@ Il rilascio dei file sotto AG Pam Bondi e' stato segnato da controversie: sorveg
 - Ruolo di Ramo post-mortem Kissinger (2023) e relazione con network Epstein
 - Impatto DOJ files 2026 su EdR Group e Julius Baer (compliance svizzera)
 - Ruolo di Hoffman come facilitatore sistematico: MIT, Blockstream, e quali altri canali?
+- Valar Ventures: Epstein era solo LP o co-proprietario come afferma Barak? Quali opportunità "confidenziali" ricevette?
+- I $170M locked-up di Epstein in Valar: chi gestira' il voto delle quote? Impatto su portfolio Valar (Wise, N26)?
+- L'email Fiszel ("Peter Thiel meeting we briefly discussed"): Epstein facilito' investimenti tra hedge fund e ecosistema Thiel?
+- Connessione Thiel-Epstein pre-2015: si conoscevano prima dell'investimento Valar? Ruolo di Barrack come intermediario?
 - Architettura DAF vaccini: il "braccio offshore per vaccini" (2011) fu effettivamente creato? Dove finirono i fondi?
 - Pipeline pandemica bgC3: chi fu collocato attraverso il menu carriera iMessage (Biomatics, Merck, Swiss Re, WEF)?
 - Amy Carter (Gates Foundation) e Rod-Larsen: quante altre proposte di "preparazione pandemica" transitarono per il canale IPI-Epstein?
@@ -1343,6 +1370,13 @@ Il rilascio dei file sotto AG Pam Bondi e' stato segnato da controversie: sorveg
 - [The Register - Sinofsky sought Epstein's advice on exiting Microsoft](https://www.theregister.com/2026/02/02/microsoft_sinofsky_epstein/)
 - [CNBC - Epstein's Silicon Valley connections](https://www.cnbc.com/2026/02/09/tech-leaders-epstein-records-silicon-valley-sergey-brin-thiel-sinofsky-reid-hoffman-musk-gates.html)
 - [Apple Insider - Epstein tried to set up Sinofsky with Tim Cook](https://appleinsider.com/articles/26/02/02/epstein-files-ex-windows-chief-sinofsky-wanted-to-meet-tim-cook)
+
+### Thiel / Valar Ventures (DOJ 2026)
+- [Byline Times - Epstein co-owned Thiel venture fund, confirms LP status](https://bylinetimes.com/2026/02/04/jeffrey-epstein-and-peter-thiel-co-owned-venture-fund-as-thiels-palantir-entered-uk-government/)
+- [Novara Media - Epstein co-owned VC fund with Palantir's Peter Thiel](https://novaramedia.com/2026/02/05/jeffrey-epstein-co-owned-venture-capital-fund-with-palantirs-peter-thiel/)
+- [Daily Beast - Epstein's secret deal with Thiel nets estate $130M](https://www.thedailybeast.com/jeffrey-epsteins-secret-deal-with-maga-mastermind-peter-thiel-nets-estate-130m/)
+- [The Nation - What Peter Thiel Saw in Jeffrey Epstein](https://www.thenation.com/article/society/peter-thiel-jeffrey-epstein-democracy/)
+- [TechCrunch - Valar Ventures $300M Fund IX](https://techcrunch.com/2024/05/22/peter-thiel-valar-ventures-new-fund-size-performance/)
 
 ### Nigeria / Zeitlin-Enelamah (DOJ 2026)
 - [Gazette Nigeria - Enelamah secretly met Epstein while serving as minister](https://gazettengr.com/rccg-pastor-okey-enelamah-secretly-hobnobbed-with-paedophile-jeffrey-epstein-while-serving-as-nigerian-trade-minister/)

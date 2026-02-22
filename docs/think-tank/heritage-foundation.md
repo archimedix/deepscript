@@ -39,7 +39,7 @@
 | **Fondazione** | 16 febbraio 1973 |
 | **Fondatori** | [Paul Weyrich](../persons/paul-weyrich.md), [Edwin Feulner](../persons/edwin-feulner.md), [Joseph Coors](../persons/joseph-coors.md) |
 | **Seed money** | $250,000 da Joseph Coors (Coors Brewing Company) |
-| **Contesto** | Nata dalla frustrazione per la lentezza dei think tank esistenti (AEI) nel fornire analisi policy tempestive al Congresso. Weyrich, aide del senatore Allott, ricevette un report AEI sul finanziamento del trasporto supersonico *dopo* il voto del Senato. |
+| **Contesto** | Nata dalla frustrazione per la lentezza dei think tank esistenti (AEI) nel fornire analisi policy tempestive al Congresso. Weyrich, press secretary del senatore Allott e futuro fondatore di ALEC, Moral Majority, CNP e Free Congress Foundation, ricevette un report AEI sul finanziamento del trasporto supersonico *dopo* il voto del Senato. Feulner, aide di Rep. Crane e futuro presidente della Mont Pelerin Society, condivise la frustrazione. Coors, erede della dinastia birraria di Golden (CO) e major backer della John Birch Society, mise i $250K di seed money convinto da Weyrich. Scaife, erede della fortuna Mellon (banca, petrolio, alluminio), aggiunse finanziamenti via Sarah Scaife Foundation, diventando vice-chairman del board. |
 | **Obiettivo dichiarato** | Formulare e promuovere politiche basate su libera impresa, governo limitato, liberta' individuale, valori tradizionali, difesa forte |
 
 ### Timeline Storica
@@ -81,7 +81,7 @@
 | **2013-2017** | [Jim DeMint](../persons/jim-demint.md) | Ex senatore SC; rimosso per problemi gestionali |
 | **2017** | [Edwin Feulner](../persons/edwin-feulner.md) | Interim |
 | **2018-2021** | [Kay Coles James](../persons/kay-coles-james.md) | Prima donna e afroamericana presidente |
-| **2021-** | [Kevin Roberts](../persons/kevin-roberts.md) | Project 2025; crisi antisemitismo 2025 |
+| **2021-** | [Kevin Roberts](../persons/kevin-roberts.md) | PhD storia UT Austin; ex presidente TPPF e Wyoming Catholic College; Project 2025; *Dawn's Early Light* (prefazione JD Vance); crisi antisemitismo 2025 |
 
 ### Leadership Attuale
 
@@ -121,7 +121,7 @@
 ### Directors Emeriti
 
 - Steve Forbes
-- Edwin Meese III
+- [Edwin Meese III](../persons/edwin-meese.md)
 - Kay Coles James
 - William E. Simon Jr.
 
@@ -174,8 +174,8 @@
 
 | Donatore | Dettaglio |
 |----------|-----------|
-| **[Richard Mellon Scaife](../persons/richard-mellon-scaife.md)** | Seed money 1974; vice-chairman board; Scaife Foundations totale $23M+ (1985-2006) |
-| **Joseph Coors** | $250K fondazione; Coors Brewing Company |
+| **[Richard Mellon Scaife](../persons/richard-mellon-scaife.md)** | Seed money 1974; vice-chairman board; Scaife Foundations totale $23M+ (1985-2006); erede famiglia [Mellon](../family/mellon.md); chairman Sarah Scaife, Carthage e Allegheny Foundation; editore Pittsburgh Tribune-Review; $1.4B in donazioni totali al movimento conservatore |
+| **[Joseph Coors](../persons/joseph-coors.md)** | $250K seed money 1973, poi $300K/anno; erede dinastia Coors Brewing; Cornell BS/MS; finanziatore anche di Free Congress Foundation, Council for National Policy, John Birch Society; Reagan Kitchen Cabinet |
 | **[Rebekah Mercer](../persons/rebekah-mercer.md)** | Board of Trustees; Mercer Family Foundation |
 | **Diana Davis Spencer Foundation** | $25M commitment (2023-2027), $5M/anno; Moffat (CEO) dimessa dal board dic 2025 |
 | **Koch Network** | $6.1M (1997-2017) via Claude R. Lambe Foundation ($4.8M), Charles Koch Foundation; post-2020 ridotto a $845K |
@@ -312,6 +312,7 @@ Report "Toward a Nationalist Internationalism" propone una rete globale di gover
 |------|-------|
 | [Rebekah Mercer](../persons/rebekah-mercer.md) | Board of Trustees |
 | [Richard Mellon Scaife](../persons/richard-mellon-scaife.md) | Vice Chairman; $23M+ donor |
+| [Edwin Meese III](../persons/edwin-meese.md) | Board of Trustees; Ronald Reagan Chair in Public Policy (1988-) |
 | [Midge Decter](../persons/midge-decter.md) | Board of Trustees (1981-2015) |
 
 ### Ex Staff con affiliazione Heritage
@@ -337,16 +338,31 @@ Report "Toward a Nationalist Internationalism" propone una rete globale di gover
 | [AEI](aei.md) | Think tank conservatore parallelo; Heritage nata come alternativa piu' agile |
 | [PNAC](pnac.md) | Overlap ideologico neocon; figure condivise |
 | Heritage Action for America | Braccio lobbying 501(c)(4); ~$21M revenue |
+| [ALEC](alec.md) | Co-fondata da Weyrich (1973); stessa matrice ideologica |
+| [Free Congress Foundation](free-congress-foundation.md) | Fondata da Weyrich (1977); laboratorio di cultural conservatism |
+| [Moral Majority](../forum/moral-majority.md) | Co-fondata da Weyrich (1979); ha portato gli evangelici nel GOP |
+| [Council for National Policy](../forum/council-national-policy.md) | Co-fondato da Weyrich (1981); network strategico segreto della destra |
+| [Mont Pelerin Society](../forum/mont-pelerin-society.md) | Feulner presidente; network intellettuale neoliberista |
+| [Texas Public Policy Foundation](texas-public-policy-foundation.md) | Roberts President/CEO 2016-2021; trampolino verso Heritage |
+| [Federalist Society](../forum/federalist-society.md) | Meese board; Heritage + FedSoc hanno creato lista nomine giudiziarie per Trump (→ Gorsuch) |
+| [John Birch Society](../forum/john-birch-society.md) | Coors major backer; Weyrich ex membro; matrice anticomunista |
+| [Conservative Partnership Institute](conservative-partnership-institute.md) | Fondato da DeMint post-rimozione Heritage 2017 |
+| [Sarah Scaife Foundation](../foundation/sarah-scaife-foundation.md) | Scaife chairman; $23M+ a Heritage; Feulner officer |
+| [Adolph Coors Foundation](../foundation/adolph-coors-foundation.md) | Coors co-fondatore 1975; finanzia Heritage |
 
 ### Figure chiave
 
 | Persona | Ruolo |
 |---------|-------|
-| [Kevin Roberts](../persons/kevin-roberts.md) | President; Project 2025 |
-| [Edwin Feulner](../persons/edwin-feulner.md) | Co-Founder; 36 anni presidente |
+| [Kevin Roberts](../persons/kevin-roberts.md) | President 2021-; ex TPPF, accademico cattolico, architetto Project 2025 |
+| [Edwin Feulner](../persons/edwin-feulner.md) | Co-Founder; President 36 anni; presidente Mont Pelerin Society; Wharton MBA |
+| [Paul Weyrich](../persons/paul-weyrich.md) | Co-Founder; padre della New Right; fondatore anche di ALEC, Moral Majority, CNP, Free Congress |
 | [Robert Greenway](../persons/robert-greenway.md) | Allison Center; Abraham Accords |
 | [Rebekah Mercer](../persons/rebekah-mercer.md) | Board; donor network |
 | [Richard Mellon Scaife](../persons/richard-mellon-scaife.md) | Seed funder; $23M+ |
+| [Joseph Coors](../persons/joseph-coors.md) | Seed funder $250K; Cornell; Coors Brewing; Kitchen Cabinet Reagan; finanziatore anche di FCF, CNP, JBS |
+| [Edwin Meese III](../persons/edwin-meese.md) | Board of Trustees; Ronald Reagan Chair 1988-; 75th AG; Yale (Spade and Grave); architetto originalismo |
+| [Jim DeMint](../persons/jim-demint.md) | President 2013-17; ex senatore Tea Party; rimosso dal board; poi fonda CPI |
 
 ---
 
@@ -370,7 +386,11 @@ Heritage non si limita a proporre policy: prepara il personale, scrive gli execu
 
 I donatori non sono passivi. Scaife ($23M+) era vice-chairman. Mercer siede nel board. Moffat (Spencer Foundation, $25M) ha lasciato il board per la crisi antisemitismo — portando potenzialmente via $15M rimanenti del commitment quinquennale.
 
-### 4. L'internazionale conservatrice
+### 4. La costellazione Weyrich
+
+Heritage non e' un'entita' isolata ma il centro di una costellazione di organizzazioni co-fondate dallo stesso nucleo (Weyrich-Feulner-Coors). Weyrich ha costruito un ecosistema completo: Heritage per la policy, ALEC per la legislazione statale, Free Congress per la guerra culturale, Moral Majority per la mobilitazione evangelica, Council for National Policy per la strategia segreta. Feulner ha connesso questo ecosistema al network intellettuale neoliberista globale (Mont Pelerin Society). Roberts ha ereditato tutto questo e lo ha radicalizzato con Project 2025.
+
+### 5. L'internazionale conservatrice
 
 Heritage sta costruendo una rete transnazionale di movimenti nazional-conservatori. La Margaret Thatcher Freedom Lecture (UK), i rapporti con Likud (Israele), il report "Nationalist Internationalism" — un'internazionale che nega di essere internazionalista.
 
