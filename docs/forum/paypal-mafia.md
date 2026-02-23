@@ -41,8 +41,8 @@ Il termine "PayPal Mafia" fu consacrato da un articolo di **Fortune Magazine** n
 4. **Premal Shah** - Presidente Kiva
 
 **Fila centrale:**
-5. **Luke Nosek** - Managing Partner Founders Fund
-6. **Ken Howery** - Managing Partner Founders Fund
+5. **[Luke Nosek](../persons/luke-nosek.md)** - Managing Partner Founders Fund
+6. **[Ken Howery](../persons/ken-howery.md)** - Managing Partner Founders Fund
 7. **David Sacks** - CEO Geni, poi Yammer
 8. **Peter Thiel** - CEO Clarium Capital, Founders Fund
 9. **Keith Rabois** - VP Biz Dev Slide
@@ -79,6 +79,8 @@ Il termine "PayPal Mafia" fu consacrato da un articolo di **Fortune Magazine** n
 | **Reid Hoffman** | EVP, COO | ~$20+ milioni |
 | **David Sacks** | COO | ~$20+ milioni |
 | **Roelof Botha** | CFO | ~$10+ milioni |
+| **[Ken Howery](../persons/ken-howery.md)** | Co-fondatore, CFO | Significativo |
+| **Luke Nosek** | Co-fondatore, VP Marketing & Strategy | Significativo |
 | **Keith Rabois** | EVP Business Development | Significativo |
 
 ---
@@ -96,7 +98,7 @@ Il termine "PayPal Mafia" fu consacrato da un articolo di **Fortune Magazine** n
 | **Ideologia** | Libertario, contrarian, techno-monarchico |
 
 **Carriera post-PayPal:**
-- **2002**: Lancia **Clarium Capital** (hedge fund global macro, defunct ~2013)
+- **2002**: Lancia **[Clarium Capital](../hedge-fund/clarium-capital.md)** (hedge fund global macro, da $10M a $7.8B peak nel 2008, collassato a ~$350M nel 2011)
 - **2003**: Fonda **Palantir Technologies** (data analysis, clienti: CIA, NSA, militari) con [Alex Karp](../persons/alex-karp.md)
 - **2004**: Primo investitore esterno in **Facebook/Meta** ($500k --> miliardi, board fino al 2022)
 - **2005**: Fonda **Founders Fund** (VC) con Ken Howery e Luke Nosek
@@ -155,9 +157,9 @@ Key personnel Thiel Capital: [Sebastian Kurz](../persons/sebastian-kurz.md) (Glo
 **Connessioni politiche:**
 - Mentore di **JD Vance** (attuale VP USA, dal 2011, $15M donazione 2022)
 - Sostenitore di Trump 2016 e 2024 (ha ospitato festa inaugurazione)
-- **[Jacob Helberg](../persons/jacob-helberg.md)**: ex-Palantir, protege di Thiel, Under Secretary of State for Economic Growth 2025
+- **[Jacob Helberg](../persons/jacob-helberg.md)**: nato in Francia 1989, Google (2016-20) → Palantir advisor → Under Secretary of State 2025. Coniuge di Rabois. Ha lanciato **Pax Silica** (AI/supply chain security, 9 paesi firmatari, dic 2025)
 - **[Trae Stephens](../persons/trae-stephens.md)**: Thiel Fellow, Founders Fund partner, co-fondatore Anduril Industries
-- **Ken Howery**: co-fondatore Founders Fund, ambasciatore USA in Svezia (Trump 1.0)
+- **[Ken Howery](../persons/ken-howery.md)**: co-fondatore Founders Fund, ambasciatore USA in Svezia (2019-21), poi Danimarca (2025, al centro questione Groenlandia)
 
 **Connessione Epstein:**
 Jeffrey Epstein investi' $40M+ come LP in Valar Ventures (2015-2019). Relazione contestata da Thiel.
@@ -179,10 +181,10 @@ Via Kurz, Thiel Capital si collega a [Dream Security](../company/dream-security.
 | **Nazionalita'** | USA-ZAF |
 
 **Carriera post-PayPal:**
-- **2002**: Fonda **SpaceX**
+- **2002**: Fonda **[SpaceX](../company/spacex.md)** ($100M personali; $800B valutazione dic 2025, IPO prevista 2026 ~$1.5T)
 - **2004**: Investe in **Tesla**, diventa CEO (possiede ~13%)
 - **2015**: Co-fonda **OpenAI** (co-chair, lascia board 2018)
-- **2016**: Fonda **Neuralink**
+- **2016**: Fonda **[Neuralink](../company/neuralink.md)** (BCI, $9B valutazione 2025, 8 co-fondatori, DJ Seo unico rimasto)
 - **2016**: Fonda **The Boring Company**
 - **2022**: Acquista **Twitter** --> rinomina **X**
 - **2023**: Fonda **xAI** (CEO, concorrente OpenAI; SpaceX investe $2B in equity 2025)
@@ -268,6 +270,7 @@ Reid Hoffman e' l'unico membro prominente della PayPal Mafia schierato con i Dem
 **Carriera post-PayPal:**
 - **2005**: Fonda **Geni.com**
 - **2008**: Fonda **Yammer** (venduto a Microsoft per $1.2B nel 2012)
+- **2015-17**: COO poi CEO **[Zenefits](../company/zenefits.md)** (chiamato a salvare l'azienda post-scandalo Conrad)
 - **2017**: Co-fonda **Craft Ventures** (VC, $3.3B AUM)
 - Co-host del podcast **All-In**
 
@@ -351,15 +354,74 @@ Botha (nipote di Pik Botha), Musk e Thiel (nato in Germania, cresciuto in Sudafr
 
 ---
 
-### Keith Rabois (1969-)
+### [Ken Howery](../persons/ken-howery.md) (1975-)
+**Il Diplomatico della Mafia**
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nascita** | 1975, Texas |
+| **Educazione** | Stanford (BA Economics 1998, managing editor Stanford Review) |
+| **Net worth** | ~$1.5 miliardi |
+
+**Carriera post-PayPal:**
+- **2002-03**: Director Corporate Development, eBay (post-acquisizione)
+- **2004-05**: VP Private Equity, [Clarium Capital](../hedge-fund/clarium-capital.md) (fondo di Thiel)
+- **2005-24**: Co-fondatore e Partner, [Founders Fund](../private-equity/founders-fund.md)
+- **2019-21**: Ambasciatore USA in Svezia (nominato Trump, confermato 62-32)
+- **2025-**: Ambasciatore USA in Danimarca (nominato Trump dic 2024, confermato ott 2025)
+
+Classico **revolving door** VC → diplomazia. Al centro della questione Groenlandia 2025. Sodalizio trentennale con Thiel: Stanford Review → PayPal → Clarium → Founders Fund. Membro WEF Technology Pioneers Selection Committee.
+
+---
+
+### [Luke Nosek](../persons/luke-nosek.md) (1975-)
+**Il Visionario Transumanista**
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nascita** | 1975, Tarnow, Polonia (emigrato in USA) |
+| **Educazione** | University of Illinois Urbana-Champaign (BS Computer Engineering) |
+
+**Pre-PayPal:**
+- **1995**: Co-fonda SponsorNet New Media con Max Levchin a UIUC
+- **~1997**: Evangelist a [Netscape](../company/netscape.md)
+
+**Carriera post-PayPal:**
+- **2005-17**: Co-fondatore e Managing Partner, [Founders Fund](../private-equity/founders-fund.md)
+- **2008-**: Primo VC investor in [SpaceX](../company/spacex.md), board member
+- **2009-~12**: President/Chairman Halcyon Molecular (sequenziamento DNA ultra-rapido, chiusa)
+- **2017-**: Co-fondatore e Managing Partner, [Gigafund](../private-equity/gigafund.md) ($2B+ AUM) con [Stephen Oskoui](../persons/stephen-oskoui.md) (ex Founders Fund VP, Stanford CS, co-fondatore Endorse Liberty PAC). $1B+ investiti in SpaceX, investitore anche in Neuralink e Boring Company
+
+**Transumanesimo e longevita':**
+Iscritto alla sospensione crionica (fu il primo argomento di conversazione con Thiel). Fellow del [Foresight Institute](../think-tank/foresight-institute.md). Il tema della longevita' attraversa tutta la sua carriera: Halcyon Molecular, Foresight, Gigafund (tesi include esplicitamente la longevita').
+
+---
+
+### [Keith Rabois](../persons/keith-rabois.md) (1969-)
 **L'Operatore Seriale**
 
-**Ruoli post-PayPal:**
-- VP LinkedIn
-- COO Square (con Jack Dorsey)
-- Investitore Khosla Ventures
-- General Partner Founders Fund
-- Co-fondatore Opendoor
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Nascita** | 17 marzo 1969, Edison, New Jersey |
+| **Educazione** | Stanford (BA Political Science 1991), Harvard Law School (JD 1994) |
+| **Residenza** | Miami, Florida (dal 2020) |
+
+**Pre-PayPal:**
+- **1994-95**: Law clerk, U.S. Court of Appeals Fifth Circuit
+- **~1995-00**: Associate, Sullivan & Cromwell
+
+**Carriera post-PayPal:**
+- **2005-07**: VP Business & Corporate Development, [LinkedIn](../company/linkedin.md)
+- **2007-10**: EVP Strategy, Slide
+- **2010-13**: COO, [Square](../company/square.md) (Block Inc.)
+- **2013-19**: Managing Director, [Khosla Ventures](../private-equity/khosla-ventures.md)
+- **2014**: Co-fondatore e COO, [Opendoor](../company/opendoor.md) (iBuying immobiliare)
+- **2019-24**: General Partner, [Founders Fund](../private-equity/founders-fund.md) (lead: Ramp, Trade Republic)
+- **2024-**: Managing Director, Khosla Ventures (ritorno)
+
+Investimenti personali early-stage: YouTube, [Airbnb](../company/airbnb.md), [Palantir](../company/palantir.md), Lyft, Eventbrite, [DoorDash](../company/doordash.md), Affirm, Faire. Forbes Midas #4 USA.
+
+**Politica:** Trasferito a Miami 2020, sostenitore DeSantis. Ha ospitato fundraiser JD Vance (set 2024). Coniuge di [Jacob Helberg](../persons/jacob-helberg.md) (Under Sec. State, ex-Palantir/Google), matrimonio 2018 officiato da Sam Altman. Pattern ping-pong Khosla↔Founders Fund unico nel panorama VC.
 
 ---
 
@@ -407,8 +469,9 @@ Oltre ai membri classici della PayPal Mafia, Thiel ha inserito una seconda gener
 |------|---------------------|-------------------|
 | **JD Vance** | Vice Presidente | Mentore dal 2011, $15M donazione |
 | **David Sacks** | AI/Crypto Czar | PayPal Mafia, Stanford Review |
-| **[Jacob Helberg](../persons/jacob-helberg.md)** | Under Secretary of State | Ex-Palantir, protege |
-| **[Trae Stephens](../persons/trae-stephens.md)** | (Anduril, defense contractor) | Georgetown SFS → Palantir → Founders Fund partner → Trump DOD transition 2016 → co-fondatore Anduril |
+| **[Jacob Helberg](../persons/jacob-helberg.md)** | Under Secretary of State for Economic Growth | Google (policy anti-interferenza 2016-20) → Palantir (advisor Karp) → State Dept. Coniuge di [Keith Rabois](../persons/keith-rabois.md). Lanciato Pax Silica (AI/supply chain, dic 2025) |
+| **[Ken Howery](../persons/ken-howery.md)** | Ambasciatore USA in Danimarca | Co-fondatore PayPal e FF, al centro questione Groenlandia. WEF Technology Pioneers Committee |
+| **[Trae Stephens](../persons/trae-stephens.md)** | (Anduril, defense contractor) | Georgetown SFS → Palantir → Founders Fund partner → Trump DOD transition 2016 → co-fondatore Anduril + Varda Space + Valinor. Billionaire giu 2025 |
 
 **Founders Fund --> Anduril (la pipeline defense-tech):**
 Trae Stephens, partner Founders Fund ed ex-Palantir, ha co-fondato **Anduril Industries** nel 2017 con un team che rappresenta la convergenza Palantir + Oculus nella rete Thiel:
@@ -428,7 +491,16 @@ Founders Fund ha investito $1B nella Series G di Anduril (Giugno 2025), il piu' 
 **Terza generazione — Thiel Fellows e protege operatori:**
 - **[Delian Asparouhov](../persons/delian-asparouhov.md)**: Thiel Fellow 2013 (MIT dropout), partner Founders Fund, co-fondatore e President [Varda Space Industries](../company/varda-space.md). Pipeline Thiel Fellowship → VC → fondatore in settori strategici (space-defense).
 - **[Will Bruey](../persons/will-bruey.md)**: Cornell → SpaceX (lead avionics Dragon, 6 anni) → Bank of America (Dir. Equities Tech) → CEO & Co-Founder [Varda Space](../company/varda-space.md). Reclutato da Asparouhov/Stephens, porta competenza tecnica di prima mano nell'ecosistema Thiel.
-- **[Ajay Royan](../persons/ajay-royan.md)**: Yale a 16 anni, ex-[Clarium Capital](../company/clarium-capital.md) (unico a restare durante il collasso), Founder & Managing GP [Mithril Capital](../private-equity/mithril-capital.md). Pattern lealta'-ricompensa: Thiel gli affida $100M per fondare Mithril. Board: Helion Energy, Oklo, Adimab, Fractyl Health. Controversie: causa ex-GC, indagine FBI sulle management fees (2019).
+- **[Ajay Royan](../persons/ajay-royan.md)**: Yale a 16 anni, ex-[Clarium Capital](../hedge-fund/clarium-capital.md) (unico a restare durante il collasso), Founder & Managing GP [Mithril Capital](../private-equity/mithril-capital.md). Pattern lealta'-ricompensa: Thiel gli affida $100M per fondare Mithril. Board: Helion Energy, Oklo, Adimab, Fractyl Health. Controversie: causa ex-GC, indagine FBI sulle management fees (2019).
+- **[Walden Yan](../persons/walden-yan.md)**: Thiel Fellow 2024, IOI gold 2020, Harvard dropout, co-fondatore [Cognition](../company/cognition.md). Ha lavorato su Cursor ([Anysphere](../company/anysphere.md)) prima di co-fondare Cognition — unica persona ad aver contribuito ai due principali prodotti dell'AI coding.
+
+**Cognition (Devin AI) — la scommessa AI coding di Founders Fund:**
+[Cognition](../company/cognition.md) (ago 2023, $10.2B valutazione set 2025) e' fondata da tre campioni IOI: [Scott Wu](../persons/scott-wu.md) (CEO, 3x IOI gold, Harvard Economics), [Steven Hao](../persons/steven-hao.md) (CTO, IOI gold 2014, MIT, ex early engineer [Scale AI](../company/scale-ai.md)), [Walden Yan](../persons/walden-yan.md) (CPO, Thiel Fellow, ex [Anysphere](../company/anysphere.md)/Cursor). Founders Fund lead in tutti i round (seed $21M → $175M → $400M). Napoleon Ta nel board. ARR da $1M a $73M in 9 mesi. Acquisizione Windsurf (luglio 2025) dopo acquihire Google del CEO. Pattern FF: reclutare prodigy (IOI → startup), finanziare aggressivamente, inserire partner nel board.
+
+**Partner operativi Founders Fund — la macchina dietro il fondo:**
+- **[Napoleon Ta](../persons/napoleon-ta.md)**: Ex poker professionista, Fund Director. Architetto della strategia growth e crypto di FF (incluso early Bitcoin). Board member [Cognition](../company/cognition.md) (Devin AI, $10.2B valutazione set 2025), Persona, [Rippling](../company/rippling.md). Profilo ultra-riservato: rifiuta ripetutamente la Forbes Midas List. Stanford MBA, U. of Colorado BS.
+- **[Scott Nolan](../persons/scott-nolan.md)**: Partner 13+ anni, ex early engineer SpaceX (Merlin engine, Dragon). CEO & fondatore [General Matter](../company/general-matter.md) (arricchimento uranio HALEU, contratto DOE $900M gen 2026). Incarna il modello FF di partner-che-fondano: dall'investimento hard tech alla creazione diretta di aziende strategiche. Cornell BS+MS Aerospace, Stanford MBA.
+- **[Parker Conrad](../persons/parker-conrad.md)**: CEO [Rippling](../company/rippling.md) ($16.8B, Series G maggio 2025), ex CEO [Zenefits](../company/zenefits.md) (dimesso 2016 per scandalo brokers, acquisita da TriNet 2022). Harvard BA Chemistry. Co-fondatore con [Prasanna Sankar](../persons/prasanna-sankar.md) (CTO, equity 40%, ex NIT Tiruchirappalli, ex Microsoft/Google, top competitive programmer indiano). Thiel fu advisor e poi nel board Zenefits. Napoleon Ta nel board Rippling. Marzo 2025: causa vs Deel per spionaggio industriale (spy infiltrato pagato dal CEO Deel). Esempio del pattern FF: sostenere fondatori controversi nella loro rinascita.
 
 ---
 
@@ -468,8 +540,8 @@ Founders Fund ha investito $1B nella Series G di Anduril (Giugno 2025), il piu' 
     +-----------+  +-----------+  +-----------+
     |   Trae    |  |  Jacob    |  | Ken       |
     | Stephens  |  | Helberg   |  | Howery    |
-    | Anduril   |  | Under Sec |  | Founders  |
-    | Chairman  |  | State     |  | Fund      |
+    | Anduril   |  | Under Sec |  | Amb. DNK  |
+    | Chairman  |  | State     |  | ex-FF     |
     +-----------+  +-----------+  +-----------+
          |
     ANDURIL TEAM (Palantir+Oculus → Defense)
@@ -480,6 +552,17 @@ Founders Fund ha investito $1B nella Series G di Anduril (Giugno 2025), il piu' 
     | ex-Palantir| | ex-Palantir| | ex-Oculus |
     +-----------+  +-----------+  +-----------+
 
+    FOUNDERS FUND PARTNERS (la macchina operativa)
+    +-----------+  +-----------+
+    | Napoleon  |  |   Scott   |
+    |    Ta     |  |   Nolan   |
+    | FF growth |  | FF hard   |
+    | ex-poker  |  | tech      |
+    | Cognition |  | Gen.Matter|
+    | Persona   |  | ex-SpaceX |
+    | Rippling  |  | $900M DOE |
+    +-----------+  +-----------+
+
     TERZA GENERAZIONE (Protege/Fellows)
     +-----------+  +-----------+  +-----------+
     |  Delian   |  | Steckman  |  |   Ajay    |
@@ -488,12 +571,32 @@ Founders Fund ha investito $1B nella Series G di Anduril (Giugno 2025), il piu' 
     | Varda Spc |  | ex-Palantir| | $1.3B AUM |
     +-----------+  +-----------+  +-----------+
          |
-    +-----------+
-    |   Will    |
-    |  Bruey    |
-    | Varda CEO |
-    | ex-SpaceX |
-    +-----------+
+    +-----------+  +-----------+  +-----------+
+    |   Will    |  |  Parker   |  |  Walden   |
+    |  Bruey    |  |  Conrad   |  |   Yan     |
+    | Varda CEO |  | Rippling  |  | Cognition |
+    | ex-SpaceX |  | ex-Zenefits| | ThielFell.|
+    +-----------+  +-----------+  | ex-Cursor |
+                                  +-----------+
+
+    COGNITION (AI coding, $10.2B, IOI prodigies)
+    +-----------+  +-----------+  +-----------+
+    |  Scott    |  |  Steven   |  |  Walden   |
+    |    Wu     |  |   Hao     |  |   Yan     |
+    | CEO       |  | CTO       |  | CPO       |
+    | 3x IOI    |  | IOI 2014  |  | IOI 2020  |
+    | Harvard   |  | MIT       |  | Harvard   |
+    |           |  | ex-ScaleAI|  | ThielFell.|
+    +-----------+  +-----------+  +-----------+
+
+    GIGAFUND ($2B+ AUM, Nosek spin-off da FF)
+    +-----------+  +-----------+
+    |   Luke    |  |  Stephen  |
+    |  Nosek    |  |  Oskoui   |
+    | ex-PayPal |  | ex-FF VP  |
+    | ex-FF     |  | Stanford  |
+    | $1B+SpaceX|  | EndorseLib|
+    +-----------+  +-----------+
 
     =============================================
                    IL DISSIDENTE
@@ -515,7 +618,7 @@ Founders Fund ha investito $1B nella Series G di Anduril (Giugno 2025), il piu' 
 
 | Anno | Azienda | Fondatore/i | Esito |
 |------|---------|-------------|-------|
-| 2002 | SpaceX | Musk | Valutazione >$150B |
+| 2002 | [SpaceX](../company/spacex.md) | Musk | $800B valutazione (dic 2025), IPO 2026 ~$1.5T |
 | 2002 | LinkedIn | Hoffman | Venduto Microsoft $26.2B |
 | 2003 | Palantir | Thiel + altri | Public company, >$50B market cap |
 | 2004 | Tesla | Musk (investor, poi CEO) | ~$800B market cap |
@@ -527,7 +630,8 @@ Founders Fund ha investito $1B nella Series G di Anduril (Giugno 2025), il piu' 
 | 2008 | Yammer | Sacks | Venduto Microsoft $1.2B |
 | 2012 | Affirm | Levchin | Public company |
 | 2016 | OpenAI | Musk (co-fondatore) | Valutazione >$80B |
-| 2016 | Neuralink | Musk | Privato |
+| 2016 | [Neuralink](../company/neuralink.md) | Musk + 8 co-fondatori | $9B valutazione, BCI |
+| 2016 | [Rippling](../company/rippling.md) | Parker Conrad, Prasanna Sankar | $16.8B valutazione |
 | 2017 | Craft Ventures | Sacks | Top VC firm |
 
 ### Investimenti Incrociati
@@ -537,7 +641,8 @@ Il network si auto-finanzia e si supporta reciprocamente:
 - **Thiel** --> primo investitore Facebook/Meta, SpaceX, Spotify, Airbnb, Carbyne
 - **Botha/Sequoia** --> primo VC in YouTube, poi Google, ByteDance, Stripe, xAI, Wiz
 - **Sacks** --> investito in SpaceX, Boring Company, Affirm, Palantir
-- **Founders Fund** --> SpaceX, Airbnb, Stripe, Anduril ($1B), Carbyne, Varda Space (incubata)
+- **Founders Fund** --> SpaceX, Airbnb, [Stripe](../company/stripe.md) ($91.5B), Anduril ($1B), [Nubank](../bank/nubank.md) ($91.5B, piu' grande neobank al mondo), Carbyne, Varda Space (incubata), General Matter (incubata, $900M DOE), Rippling ($16.8B, Napoleon Ta board), Cognition (Devin AI, $10.2B, Napoleon Ta board, lead in tutti i round), Neuralink ($9B)
+- **[Gigafund](../private-equity/gigafund.md)** (Nosek/[Oskoui](../persons/stephen-oskoui.md)) --> SpaceX ($1B+), Neuralink, Boring Company, Last Energy, Angel Studios. $2B+ AUM, spin-off diretto da Founders Fund
 - **Mithril Capital** (Royan/Thiel) --> Palantir, Oklo, Helion Energy; exit Auris Health $3.4B
 - **Hoffman/Greylock** --> OpenAI, Inflection AI, Blockstream
 - **SpaceX** --> $2B equity in xAI (2025), cross-pollination Musk companies
@@ -563,9 +668,23 @@ Il network si auto-finanzia e si supporta reciprocamente:
 | **Dic 2024** | Sacks nominato AI/Crypto Czar |
 | **Gen 2025** | Musk guida DOGE (Ramaswamy mai operativo) |
 | **Gen 2025** | Jacob Helberg nominato Under Secretary of State |
+| **Gen 2024** | Keith Rabois torna a Khosla Ventures da Founders Fund |
+| **Set 2024** | Rabois ospita fundraiser JD Vance a Miami |
+| **Ott 2025** | Ken Howery confermato Ambasciatore in Danimarca (questione Groenlandia) |
 | **Apr 2025** | Musk lascia DOGE dopo scontro con Trump |
-| **Giu 2025** | Founders Fund investe $1B in Anduril (Trae Stephens) |
+| **Giu 2025** | Founders Fund investe $1B in Anduril; Trae Stephens diventa billionaire |
+| **Ago 2025** | General Matter (Scott Nolan/FF) ottiene lease Paducah plant dal DOE |
 | **Nov 2025** | DOGE sciolto |
+| **Mar 2025** | Rippling vs Deel: causa per spionaggio industriale (spy infiltrato Keith O'Brien) |
+| **Mag 2025** | Rippling Series G $450M, valutazione $16.8B (Conrad patrimonio $2.3B) |
+| **Giu 2025** | Neuralink Series E $650M, valutazione $9B (12 pazienti impiantati) |
+| **Feb 2025** | [Stripe](../company/stripe.md) raggiunge $91.5B di valutazione; Thiel e Musk early investors dal 2011 |
+| **Apr 2025** | [Patrick Collison](../persons/patrick-collison.md) (CEO Stripe) entra nel board di [Meta](../company/meta.md) |
+| **Lug 2025** | [Roberto Campos Neto](../persons/roberto-campos-neto.md) (ex presidente BCB) diventa Vice Chairman [Nubank](../bank/nubank.md) (investita da FF) |
+| **Apr 2025** | SpaceX ottiene $5.9B in contratti Space Force (28 missioni fino al 2029) |
+| **Apr 2025** | Forbes riconosce [Gwynne Shotwell](../persons/gwynne-shotwell.md) (President SpaceX) come miliardaria |
+| **Dic 2025** | [SpaceX](../company/spacex.md) raggiunge valutazione $800B; confermati piani IPO 2026 (~$1.5T) |
+| **Gen 2026** | General Matter ottiene contratto DOE $900M per arricchimento uranio HALEU |
 
 ### The Economist: "La PayPal Mafia prende il governo"
 
@@ -591,23 +710,68 @@ Dopo le elezioni 2024, The Economist scrisse che la PayPal Mafia avrebbe "preso 
 - Condividono deal flow e informazioni
 
 ### 3. Pipeline Educativa
-- **Stanford**: Thiel, Sacks, Hoffman, Botha, Rabois (Thiel e Sacks entrambi editor della Stanford Review)
+- **Stanford**: Thiel, Sacks, Hoffman, Botha, Rabois, Howery (Thiel, Sacks e Howery alla Stanford Review); MBA: [Napoleon Ta](../persons/napoleon-ta.md), [Scott Nolan](../persons/scott-nolan.md)
+- **Harvard**: Rabois (Law JD 1994), [Parker Conrad](../persons/parker-conrad.md) (BA Chemistry, managing editor Crimson), [Scott Wu](../persons/scott-wu.md) (BA Economics 2019, Cognition CEO), [Walden Yan](../persons/walden-yan.md) (CS & Economics, dropout → Thiel Fellow)
+- **MIT**: [Steven Hao](../persons/steven-hao.md) (Math + CS 2018, Cognition CTO)
 - **Yale**: [Ajay Royan](../persons/ajay-royan.md) (ammesso a 16 anni, BA Political Economy)
 - **Cornell**: [Will Bruey](../persons/will-bruey.md) (BS Engineering Physics, MEng), [Brian Schimpf](../persons/brian-schimpf.md) e [Matt Grimm](../persons/matt-grimm.md) (DARPA Challenge team)
 - **Georgetown**: [Trae Stephens](../persons/trae-stephens.md), [Matthew Steckman](../persons/matthew-steckman.md) (pipeline DC/Palantir)
+- **University of Illinois**: Levchin e Nosek (compagni UIUC, co-fondatori SponsorNet 1995 → PayPal)
 - **McKinsey**: Sacks (1998-99) e Botha (1996-98) prima di PayPal
+- **Sullivan & Cromwell**: Rabois (associate ~1995-2000, pre-PayPal)
 - **SpaceX alumni**: Bruey (Dragon avionics 6 anni) → Varda Space CEO
 - **University of Chicago**: Sacks (JD)
-- **University of Illinois**: Levchin
 
-### 4. Anti-Fraud DNA --> Military-Intelligence Complex
+### 4. Stripe: L'Incubatrice dei Leader AI
+
+[Stripe](../company/stripe.md) ($91.5B, fondata 2010 dai fratelli irlandesi [Patrick](../persons/patrick-collison.md) e [John Collison](../persons/john-collison.md)) e' un nodo critico nel network: early investors includono Thiel, Musk, Sam Altman e Sequoia/Botha. Ma soprattutto, da Stripe sono usciti i leader dei due principali competitor nell'AI generativa:
+
+| Ex-Stripe | Ruolo in Stripe | Poi |
+|-----------|----------------|-----|
+| [Greg Brockman](../persons/greg-brockman.md) | Primo CTO (2013-15) | Co-fondatore e President OpenAI |
+| [Daniela Amodei](../persons/daniela-amodei.md) | Risk/Operations (2013-18) | Co-fondatrice e President Anthropic |
+| [Sam Altman](../persons/sam-altman.md) | Early investor (~2%) | CEO OpenAI |
+
+Patrick Collison e' entrato nel board di [Meta](../company/meta.md) (Apr 2025), collegando infrastruttura pagamenti e social media. Founders Fund ha investito anche in [Nubank](../bank/nubank.md) ($91.5B, piu' grande neobank al mondo), dove l'ex presidente del Banco Central do Brasil [Roberto Campos Neto](../persons/roberto-campos-neto.md) e' diventato Vice Chairman nel 2025 — revolving door banca centrale → fintech investita dalla rete Thiel.
+
+### 5. SpaceX: Il Nodo Militare-Industriale Privato
+
+[SpaceX](../company/spacex.md) ($800B valutazione dic 2025, IPO prevista 2026 a ~$1.5T) e' il piu' grande contractor privato del Pentagono per lanci spaziali e un caso unico di concentrazione di potere:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Contratti DoD** | $9.5B+ totali; $5.9B Space Force (2025-2029, 28 missioni) |
+| **Contratti NASA** | $13B+ (cargo ISS, Crew Dragon, Artemis lander) |
+| **Starshield** | Programma militare classificato, $1.8B NRO (2021) |
+| **Starlink** | 9.400+ satelliti, 10M abbonati (feb 2026), dual-use civile/militare |
+| **Revenue** | ~$15.5B (2025) |
+
+**Board SpaceX — la rete Musk/PayPal Mafia:**
+
+| Nome | Ruolo Board | Connessione |
+|------|-------------|-------------|
+| [Elon Musk](../persons/elon-musk.md) | Chairman & CEO | 42-54% equity, 78-79% voting power |
+| [Gwynne Shotwell](../persons/gwynne-shotwell.md) | Board + President/COO | Gestisce operazioni quotidiane, miliardaria (0.3% stake) |
+| [Luke Nosek](../persons/luke-nosek.md) | Board Member | Co-fondatore PayPal, primo VC investor SpaceX |
+| [Kimbal Musk](../persons/kimbal-musk.md) | Board Member | Fratello di Elon, anche board Tesla |
+| [Antonio Gracias](../persons/antonio-gracias.md) | Board Member | Valor Equity Partners, confidente Musk |
+| [Steve Jurvetson](../persons/steve-jurvetson.md) | Board Member | DFJ |
+
+**[Gwynne Shotwell](../persons/gwynne-shotwell.md)** (1963-) e' la figura chiave dietro il successo operativo di SpaceX: 7o dipendente (2002), President dal 2008, ha negoziato tutti i principali contratti NASA e DoD. Northwestern (BS Mechanical Engineering, MS Applied Mathematics), trustee Northwestern, WEF Global Agenda Council on Space Security, NASA National Space Council advisory.
+
+**[Kimbal Musk](../persons/kimbal-musk.md)** (1972-) siede nei board di Tesla E SpaceX — collegamento familiare unico nella governance dell'impero Musk. Co-fondatore Zip2 (1995, acquisita $307M), imprenditore food-tech (The Kitchen, Big Green, Square Roots), WEF Global Social Entrepreneur.
+
+**Conflitto DOGE-SpaceX:** Musk guidava il DOGE (gen-apr 2025) mentre SpaceX riceveva miliardi in contratti federali — il piu' grande conflitto di interessi della storia del governo americano.
+
+### 6. Anti-Fraud DNA --> Military-Intelligence Complex
 La tecnologia anti-frode di PayPal ha ispirato:
 - **Palantir** (intelligence/data analysis, CIA/NSA)
 - **Anduril** (defense tech, 3/5 fondatori ex-Palantir, $30.5B valutazione)
 - **[Varda Space](../company/varda-space.md)** (manifattura orbitale farmaceutica, payload AFRL/NASA; co-fondata da Stephens + Asparouhov + [Will Bruey](../persons/will-bruey.md) ex-SpaceX; $329M funding, Thiel investitore personale)
 - **Carbyne** (emergency tech, connessione israeliana)
 - **Quantum Systems** (droni militari)
-- Evoluzione da fintech --> surveillance --> defense --> space
+- **[General Matter](../company/general-matter.md)** (arricchimento uranio HALEU, Scott Nolan CEO, incubata da FF, $900M DOE contract)
+- Evoluzione da fintech --> surveillance --> defense --> space --> nuclear
 
 **Pipeline Cornell-DARPA → Palantir → Anduril:**
 Schimpf e Grimm si conoscono a Cornell dove co-fondano il team DARPA Grand/Urban Challenge. Entrambi entrano in Palantir, poi co-fondano Anduril. La coppia ingegneristica Cornell-DARPA e' il backbone tecnico di Anduril.
@@ -615,13 +779,15 @@ Schimpf e Grimm si conoscono a Cornell dove co-fondano il team DARPA Grand/Urban
 **Pipeline Georgetown → Palantir DC → Anduril:**
 Stephens e Steckman sono entrambi alumni Georgetown, entrambi nell'ufficio DC di Palantir, entrambi in Anduril. Il canale Washington della rete Thiel.
 
-### 5. Divisione Politica
-- **Repubblicani/Libertari**: Thiel, Musk, Sacks, Rabois, Vance, Helberg
+### 7. Divisione Politica
+- **Repubblicani/Libertari**: Thiel, Musk, Sacks, Rabois (fundraiser Vance set 2024), Howery (doppio ambasciatore Trump), Vance, Helberg
 - **Democratici**: Hoffman, Karp (paradosso: CEO Palantir)
 - La divisione riflette la piu' ampia polarizzazione USA
 - Hoffman unico in Bilderberg + CFR, migrato in UK 2025
+- Rabois trasferito da SF a Miami 2020, sostenitore DeSantis e Trump
+- Howery incarna il revolving door VC → diplomazia (Svezia 2019, Danimarca 2025)
 
-### 6. Connessione Epstein
+### 8. Connessione Epstein
 Due punti di contatto documentati:
 - **Thiel/Valar Ventures**: Epstein LP con $40M+ (2015-2019)
 - **Hoffman/Blockstream**: seed investor, coinvolto nell'allocazione Epstein/Joi Ito al MIT Media Lab
@@ -634,7 +800,7 @@ Due punti di contatto documentati:
 > "Un piccolo gruppo di persone che si conoscevano in una startup del 2000 ora controlla trilioni di dollari e posizioni chiave nel governo."
 
 ### Conflitti di Interesse
-- Musk guidava DOGE mentre Tesla, SpaceX, xAI hanno contratti federali
+- Musk guidava DOGE mentre Tesla, SpaceX ($9.5B+ contratti DoD, $13B+ NASA), xAI hanno contratti federali
 - Palantir di Thiel ha ottenuto contratti DOGE
 - Anduril (Trae Stephens, Founders Fund) riceve contratti defense mentre Thiel e' nel network governo
 - Sacks regola AI e crypto dove Craft Ventures ($3.3B AUM) investe direttamente
@@ -718,7 +884,9 @@ David Sacks e Jack Selby stanno sviluppando un film sulla storia di PayPal e del
 - [Thiel Capital](../company/thiel-capital.md) - Family office, braccio VC Rivendell Trust
 - [Valar Ventures](../private-equity/valar-ventures.md) - VC fintech internazionale (connessione Epstein)
 - [Founders Fund](../private-equity/founders-fund.md) - VC (Anduril, Carbyne, SpaceX)
+- [Clarium Capital](../hedge-fund/clarium-capital.md) - Hedge fund macro di Thiel ($10M→$7.8B→$350M, laboratorio pre-FF)
 - [Mithril Capital](../private-equity/mithril-capital.md) - Growth-stage VC
+- [Thiel Fellowship](../foundation/thiel-fellowship.md) - Fellowship $200k per dropout, $750B+ valore creato
 - [Dream Security](../company/dream-security.md) - Cybersecurity, Kurz + Hulio/NSO
 - [Skadden Arps](../company/skadden-arps.md) - Studio legale (Fitzgerald)
 - [Sequoia Capital](../private-equity/sequoia-capital.md) - VC (Botha, Managing Partner)
@@ -738,7 +906,36 @@ David Sacks e Jack Selby stanno sviluppando un film sulla storia di PayPal e del
 - [Varda Space Industries](../company/varda-space.md) - Manifattura orbitale farmaceutica
 - [Also Capital](../private-equity/also-capital.md) - VC co-fondata da Will Bruey
 - [Lux Capital](../private-equity/lux-capital.md) - VC deep tech, investor Varda Space
+- [Napoleon Ta](../persons/napoleon-ta.md) - FF Fund Director, ex poker pro, growth/crypto, board Cognition/Persona/Rippling
+- [Scott Nolan](../persons/scott-nolan.md) - FF Partner, ex SpaceX, CEO General Matter (uranio HALEU)
+- [Parker Conrad](../persons/parker-conrad.md) - CEO Rippling, ex Zenefits, Harvard
+- [General Matter](../company/general-matter.md) - Arricchimento uranio, incubata FF, $900M DOE
+- [Valinor Enterprises](../company/valinor.md) - Incubator, co-fondato da Trae Stephens (2024)
+- [Cognition](../company/cognition.md) - AI (Devin), $10.2B, Napoleon Ta board, fondata da 3 IOI gold (Wu/Hao/Yan)
+- [Stephen Oskoui](../persons/stephen-oskoui.md) - Co-founder Gigafund, ex FF VP, Endorse Liberty PAC
+- [Scott Wu](../persons/scott-wu.md) - CEO Cognition, 3x IOI gold, Harvard
+- [Steven Hao](../persons/steven-hao.md) - CTO Cognition, IOI gold 2014, MIT, ex Scale AI
+- [Walden Yan](../persons/walden-yan.md) - Co-founder Cognition, Thiel Fellow, ex Anysphere/Cursor
+- [Anysphere](../company/anysphere.md) - Sviluppatore Cursor (AI code editor), Walden Yan ex early engineer
+- [Zenefits](../company/zenefits.md) - HR SaaS, scandalo 2016, Thiel nel board post-Conrad, Sacks CEO, acquisita TriNet 2022
+- [Rippling](../company/rippling.md) - HR/IT/Finance platform, Conrad + Sankar, $16.8B, causa Deel 2025
+- [Neuralink](../company/neuralink.md) - BCI, Musk + DJ Seo, $9B, 12 pazienti impiantati 2025
+- [Prasanna Sankar](../persons/prasanna-sankar.md) - Co-founder & CTO Rippling, ex Zenefits/Microsoft/Google
 - [Palmer Luckey](../persons/palmer-luckey.md) - Anduril CTO, fondatore Oculus VR
+- [Ken Howery](../persons/ken-howery.md) - Co-fondatore PayPal e Founders Fund, Amb. USA Svezia e Danimarca
+- [Luke Nosek](../persons/luke-nosek.md) - Co-fondatore PayPal, Founders Fund e Gigafund, pioniere cryonics
+- [Keith Rabois](../persons/keith-rabois.md) - EVP PayPal, COO Square, co-fondatore Opendoor, Khosla/Founders Fund
+- [Gigafund](../private-equity/gigafund.md) - VC co-fondato da Nosek, $1B+ in SpaceX
+- [Opendoor](../company/opendoor.md) - iBuying immobiliare, co-fondato da Rabois
+- [Square](../company/square.md) - Pagamenti mobili (Block Inc.), Rabois COO
+- [Stripe](../company/stripe.md) - Infrastruttura pagamenti ($91.5B), Thiel/Musk early investors, incubatrice leader AI
+- [Patrick Collison](../persons/patrick-collison.md) - CEO Stripe, board Meta, dropout MIT
+- [John Collison](../persons/john-collison.md) - President Stripe, dropout Harvard
+- [Nubank](../bank/nubank.md) - Neobank ($91.5B), investita da Founders Fund, Campos Neto Vice Chairman
+- [Roberto Campos Neto](../persons/roberto-campos-neto.md) - Ex presidente BCB, Vice Chairman Nubank, board WEF
+- [SpaceX](../company/spacex.md) - Azienda aerospaziale Musk ($800B), $9.5B+ contratti DoD, Starlink/Starshield
+- [Gwynne Shotwell](../persons/gwynne-shotwell.md) - President & COO SpaceX, miliardaria, WEF/NASA advisory
+- [Kimbal Musk](../persons/kimbal-musk.md) - Board Tesla + SpaceX, fratello Elon, WEF Social Entrepreneur
 
 ---
 
@@ -764,4 +961,4 @@ David Sacks e Jack Selby stanno sviluppando un film sulla storia di PayPal e del
 
 ---
 
-*Ultimo aggiornamento: 22 Febbraio 2026 — arricchito con connessioni da Neo4j*
+*Ultimo aggiornamento: 23 Febbraio 2026 — aggiornato con SpaceX ($800B, board, contratti DoD $9.5B+, Shotwell/Kimbal Musk), Stripe ($91.5B, incubatrice AI), Nubank (Campos Neto revolving door BCB)*

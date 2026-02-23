@@ -32,6 +32,7 @@
 | **2016-2017** | Advisor, Trump transition team (DOD) | Governo USA |
 | **2017-oggi** | Co-fondatore, Executive Chairman | Anduril Industries |
 | **2020-oggi** | Co-fondatore | Varda Space Industries |
+| **2021** | Co-fondatore | Sol (wearable e-reader) |
 | **2024-oggi** | Co-fondatore | Valinor Enterprises |
 
 ### Percorso Palantir-Founders Fund-Anduril
@@ -93,6 +94,7 @@ Il passaggio dalla transition team DOD (2016) al lancio di Anduril (2017) esempl
 | [Founders Fund](../private-equity/founders-fund.md) | Partner (2014-oggi) |
 | [Anduril](../defense/anduril.md) | Co-fondatore, Executive Chairman (2017-oggi) |
 | [Varda Space Industries](../companies/varda-space.md) | Co-fondatore (2020-oggi) |
+| [Valinor Enterprises](../companies/valinor.md) | Co-fondatore (2024-oggi) |
 | [Georgetown University](../universities/georgetown.md) | Alumni SFS 2005 |
 
 ### Persone
@@ -119,6 +121,7 @@ Il passaggio dalla transition team DOD (2016) al lancio di Anduril (2017) esempl
 | **2017** | Co-fonda Anduril Industries |
 | **2020** | Co-fonda Varda Space Industries |
 | **2024** | Co-fonda Valinor Enterprises; Anduril valutata ~$8.4B |
+| **2025 giu** | Diventa billionaire dopo Anduril Series G |
 
 ---
 

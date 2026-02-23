@@ -895,6 +895,26 @@ persons:
       from: 1968
       to: 1979
       note: Regional Secretary, President of Iraq
+  ahti-heinla:
+    tagline: Founding engineer Skype/Kazaa, co-fondatore e CEO Starship Technologies, civismo estone
+    born: 1972
+    nationality: EST
+    affiliations:
+    - org: university-of-tartu
+      role: alumni
+      note: Physics (non completato)
+    - org: skype
+      role: founder
+      from: 2003
+      note: Founding engineer, sviluppatore core
+    - org: starship-technologies
+      role: founder
+      from: 2014
+      note: Co-founder & CTO
+    relations:
+    - person: janus-friis
+      type: colleague
+      note: Co-fondatori Starship Technologies e Skype
   aidan-gomez:
     born: 1995
     nationality: GBR-CAN
@@ -972,6 +992,25 @@ persons:
   ajay-hinduja:
     nationality: CHE
     family: hinduja
+  ajay-royan:
+    tagline: Founder & Managing GP Mithril Capital, protege di Thiel, ex-Clarium Capital, Yale a 16 anni
+    born: 1980
+    nationality: IND-CAN
+    affiliations:
+    - org: clarium-capital
+      role: executive
+      to: 2012
+      note: Managing Director & Senior Investor
+    - org: yale
+      role: alumni
+    - org: mithril-capital
+      role: founder
+      from: 2012
+      note: Founder & Managing General Partner
+    relations:
+    - person: peter-thiel
+      type: protege
+      note: Clarium Capital → co-founded Mithril Capital 2012
   ajay-singh-spicejet:
     tagline: Imprenditore aviazione e stratega elettorale BJP
     born: 1965
@@ -4311,6 +4350,46 @@ persons:
     born: 1968
     nationality: USA
     note: FBI Deputy Director (2016-2018). Acting FBI Director after Comey firing.
+  andrew-mccormack:
+    tagline: Co-fondatore Valar Ventures, ex-PayPal Mafia, braccio destro di Peter Thiel nel venture capital globale
+    born: 1976
+    nationality: USA
+    affiliations:
+    - org: paypal
+      role: executive
+      from: 2001
+      to: 2002
+      note: IPO preparation team
+    - org: clarium-capital
+      role: executive
+      from: 2002
+      to: 2003
+      note: Operations Manager, helped launch after PayPal exit
+    - org: upenn
+      role: alumni
+      note: BA Political Science 1998
+    - org: thiel-capital
+      role: executive
+      from: 2008
+      note: International initiatives
+    - org: yahoo
+      role: executive
+      to: 2001
+      note: Business and corporate development
+    - org: valar-ventures
+      role: founder
+      from: 2010
+      note: Managing Partner
+    - org: ecount
+      role: executive
+      note: Business and corporate development, acquired by Citicorp
+    relations:
+    - person: james-fitzgerald
+      type: colleague
+      note: Co-fondatori Valar Ventures
+    - person: peter-thiel
+      type: colleague
+      note: PayPal, Thiel Capital, Valar Ventures co-founder
   andrew-mellon:
     tagline: Banchiere, industriale, Secretary of Treasury USA, architetto dell'accordo sul debito italiano favorevole a Mussolini
     born: 1855
@@ -5310,6 +5389,12 @@ persons:
     - person: piercamillo-davigo
       type: colleague
       note: Pool Mani Pulite, Procura Milano
+  antonio-gracias:
+    nationality: USA
+    affiliations:
+    - org: spacex
+      role: board
+      note: Board member, Valor Equity Partners
   antonio-salvador:
     born: 1969
     nationality: PRT
@@ -6851,6 +6936,8 @@ persons:
     - person: saul-alinsky
       type: influenced_by
       note: Community organizer a Chicago, stile Alinsky
+  barb-van-andel-gaby:
+    nationality: USA
   barbara-dalibard:
     nationality: FRA
     affiliations:
@@ -7614,6 +7701,14 @@ persons:
     - person: ron-dermer
       type: patron
       note: Bibis Brain; closest adviser since 2000; speechwriter
+  benjamin-rapoport:
+    nationality: USA
+    affiliations:
+    - org: neuralink
+      role: founder
+      from: 2016
+      to: 2018
+      note: Co-Founder, left 2018
   benjamin-smith:
     tagline: Primo CEO non francese di Air France-KLM, architetto della trasformazione di Air Canada
     born: 1971
@@ -7972,6 +8067,11 @@ persons:
       role: executive
       from: 2023
       note: Chief Economist & SVP
+  bethine-church:
+    tagline: Moglie di Frank Church, attivista democratica Idaho
+    born: 1923
+    died: 2013
+    nationality: USA
   bettino-craxi:
     born: 1934
     died: 2000
@@ -8407,6 +8507,12 @@ persons:
       from: 1988
       to: 2000
       note: Co-founder, merged into Sampo 2000
+  blake-masters:
+    born: 1986
+    nationality: USA
+    affiliations:
+    - org: thiel-capital
+      role: executive
   boaz-bismuth:
     nationality: ISR
     note: Journalist, former editor-in-chief Israel Hayom; Likud MK from 2022
@@ -9363,6 +9469,30 @@ persons:
       role: partner
       from: 2008
       note: Co-Managing Partner, Co-CEO dal 2024. Chair Buyout Funds IC, Chair Growth Opportunities IC
+  brian-schimpf:
+    tagline: CEO & co-fondatore Anduril Industries, ex Director of Engineering Palantir, DARPA challenge Cornell
+    born: 1985
+    nationality: USA
+    affiliations:
+    - org: palantir
+      role: executive
+      from: 2007
+      to: 2017
+      note: Director of Engineering, built Foundry platform, defense products
+    - org: anduril
+      role: founder
+      from: 2017
+      note: CEO
+    - org: cornell
+      role: alumni
+      note: BS Operations Research & Industrial Engineering 2007, DARPA Grand/Urban Challenge
+    relations:
+    - person: palmer-luckey
+      type: associate
+      note: Co-fondatori Anduril
+    - person: trae-stephens
+      type: associate
+      note: Co-fondatori Anduril, ex colleghi Palantir
   brian-thompson:
     tagline: 'CEO di UnitedHealthcare assassinato a New York: simbolo della rabbia contro il sistema sanitario USA'
     born: 1974
@@ -9615,6 +9745,13 @@ persons:
       from: 2011
       to: 2016
       note: Founding CEO; second term 2020-2022
+  carina-namih:
+    nationality: GBR
+    affiliations:
+    - org: plural
+      role: partner
+      from: 2023
+      note: Partner, joined 2023
   carl-bildt:
     tagline: Il connettore transatlantico svedese - Ex PM, Min. Esteri, Deputy Chair Trilateral, ponte tra establishment Wallenberg
       e governance globale
@@ -9888,6 +10025,31 @@ persons:
     - org: eclipse-foundation
       role: steering
       note: Steering Committee, Oniro Working Group
+  carlo-sibilia:
+    tagline: Sottosegretario Interno M5S in tre governi consecutivi (Conte I, Conte II, Draghi)
+    born: 1986
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 2013
+      to: 2022
+      note: 'Deputato M5S 2013-22. Sottosegretario Interno: Conte I (giu 2018-set 2019), Conte II (set 2019-feb 2021), Draghi
+        (feb 2021-ott 2022)'
+    - org: task-force-china
+      role: member
+      from: 2018
+      note: Sottosegretario Interno, partecipante riunione inaugurale 1 ott 2018
+    - org: universita-perugia
+      role: alumni
+      note: Laurea triennale Biotecnologie
+    relations:
+    - person: giuseppe-conte
+      type: colleague
+      note: Sottosegretario Interno nei governi Conte I e II
+    - person: luigi-di-maio
+      type: colleague
+      note: Entrambi M5S, governo Conte I. Di Maio promotore Task Force China
   carlo-umberto-bonomi:
     nationality: ITA
     affiliations:
@@ -10973,6 +11135,13 @@ persons:
       role: executive
       from: 2017
       note: Group CEO
+  charlie-kirk:
+    born: 1993
+    nationality: USA
+    affiliations:
+    - org: turning-point-usa
+      role: founder
+      from: 2012
   charlie-munger:
     born: 1924
     died: 2023
@@ -12983,6 +13152,15 @@ persons:
     - org: wef
       role: ygl
       from: 2021
+  cristina-junqueira:
+    tagline: Co-fondatrice e Chief Growth Officer di Nubank
+    born: 1982
+    nationality: BRA
+    affiliations:
+    - org: nubank
+      role: founder
+      from: 2013
+      note: Co-founder, Chief Growth Officer
   cristina-stenbeck:
     born: 1977
     nationality: SWE-USA
@@ -13024,6 +13202,9 @@ persons:
       role: executive
       from: 2021
       note: Group CEO (CRO 2016-2020)
+  curtis-yarvin:
+    born: 1973
+    nationality: USA
   cynthia-wu:
     nationality: TWN
     note: Former research analyst Merrill Lynch London. Named 100 Most Outstanding Chinese Women 2006.
@@ -15086,6 +15267,11 @@ persons:
       from: 2008
       to: 2012
       note: Founder & CEO, acquired by Microsoft $1.2B
+    - org: zenefits
+      role: executive
+      from: 2015
+      to: 2017
+      note: COO poi CEO dopo dimissioni Conrad
     relations:
     - person: elon-musk
       type: colleague
@@ -15193,6 +15379,42 @@ persons:
       role: founder
       from: 1995
       note: Personal investment vehicle
+  david-velez:
+    tagline: Fondatore e CEO di Nubank, ex partner Sequoia Capital, il piu ricco della Colombia
+    born: 1982
+    nationality: COL
+    affiliations:
+    - org: goldman-sachs
+      role: employee
+      note: Investment banking
+    - org: morgan-stanley
+      role: employee
+      note: Investment banking
+    - org: general-atlantic
+      role: employee
+      note: Private equity
+    - org: sequoia-capital
+      role: partner
+      from: 2011
+      to: 2013
+      note: Partner, Latin America investments
+    - org: stanford
+      role: alumni
+      note: BS Management Science & Engineering 2005
+    - org: stanford
+      role: alumni
+      note: MBA 2012
+    - org: nubank
+      role: founder
+      from: 2013
+      note: Co-founder, Chairman & CEO
+  david-wells:
+    nationality: USA
+    affiliations:
+    - org: wise
+      role: chairman
+      from: 2021
+      note: Chairman, ex CFO Netflix
   david-willetts:
     nationality: GBR
     affiliations:
@@ -15349,6 +15571,35 @@ persons:
     - person: catherine-stihler
       type: associate
       note: Board Chair durante mandato CEO Stihler
+  delian-asparouhov:
+    tagline: Thiel Fellow, Founders Fund partner, co-fondatore Varda Space Industries
+    born: 1994
+    nationality: BGR-USA
+    affiliations:
+    - org: founders-fund
+      role: partner
+      from: 2019
+    - org: mit
+      role: alumni
+      note: Computer Science (dropout 2013)
+    - org: khosla-ventures
+      role: partner
+      note: Principal
+    - org: thiel-fellowship
+      role: member
+      from: 2013
+      note: Thiel Fellow 2013, founded Nightingale
+    - org: varda-space
+      role: founder
+      from: 2021
+      note: President & Co-Founder
+    relations:
+    - person: peter-thiel
+      type: mentor
+      note: Thiel Fellow, poi partner Founders Fund
+    - person: trae-stephens
+      type: associate
+      note: Co-fondatori Varda Space, colleghi Founders Fund
   delphine-arnault:
     born: 1975
     nationality: FRA
@@ -16106,6 +16357,13 @@ persons:
       role: founder
       from: 2011
       note: Co-founder, Partner
+  dj-seo:
+    nationality: KOR-USA
+    affiliations:
+    - org: neuralink
+      role: founder
+      from: 2016
+      note: Co-Founder, President & COO
   dmitriy-zaporozhets:
     tagline: Sviluppatore ucraino che da Kharkiv ha creato GitLab, alternativa open-source a GitHub diventata unicorno da
       miliardi
@@ -17579,15 +17837,93 @@ persons:
       role: chairman
       from: 2023
       note: Chair Board of Directors
+  edward-wible:
+    tagline: Co-fondatore di Nubank, ex CTO
+    nationality: USA
+    affiliations:
+    - org: nubank
+      role: founder
+      from: 2013
+      note: Co-founder, ex CTO
   edwin-feulner:
+    tagline: Co-fondatore e presidente Heritage Foundation per 36 anni, architetto dell infrastruttura conservatrice americana,
+      presidente Mont Pelerin Society
     born: 1941
     died: 2025
     nationality: USA
     affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 1982
+      to: 1991
+      note: Chairman US Advisory Commission on Public Diplomacy; domestic policy consultant to Reagan
+    - org: lse
+      role: alumni
+      note: Graduate studies
+    - org: wharton
+      role: alumni
+      note: MBA 1964
     - org: heritage-foundation
       role: founder
       from: 1973
       note: Co-Founder; President 1977-2013, 2017
+    - org: georgetown
+      role: alumni
+      note: Graduate studies
+    - org: regis-university
+      role: alumni
+      note: BA English 1963
+    - org: university-edinburgh
+      role: alumni
+      note: PhD 1981
+    - org: mont-pelerin-society
+      role: executive
+      note: President; former Treasurer
+    - org: intercollegiate-studies-institute
+      role: chairman
+      note: Trustee, former Chairman of the Board
+    relations:
+    - person: paul-weyrich
+      type: associate
+      note: Co-founders Heritage Foundation 1973
+  edwin-meese:
+    tagline: Attorney General di Reagan, architetto dell'originalismo giuridico, Ronald Reagan Chair alla Heritage Foundation
+    born: 1931
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: minister
+      from: 1985
+      to: 1988
+      note: 75th Attorney General
+    - org: heritage-foundation
+      role: board
+      from: 1988
+      note: Board of Trustees; Ronald Reagan Chair in Public Policy
+    - org: yale
+      role: alumni
+      note: BA Political Science 1953, Spade and Grave
+    - org: hoover-institution
+      role: member
+      note: Distinguished Visiting Fellow
+    - org: uc-berkeley
+      role: alumni
+      note: JD 1958
+    - org: university-san-diego
+      role: academic
+      from: 1977
+      to: 1981
+      note: Professor of Law; Director Center for Criminal Justice Policy
+    - org: federalist-society
+      role: board
+      note: Board of Directors
+    relations:
+    - person: edwin-feulner
+      type: associate
+      note: Colleghi Heritage Foundation; Meese Ronald Reagan Chair
+    - person: kevin-roberts
+      type: associate
+      note: Heritage Foundation; Meese board, Roberts president
   efraim-halevy:
     tagline: 9° Direttore del Mossad, architetto del trattato di pace Israele-Giordania, consigliere di cinque primi ministri
       israeliani
@@ -18355,6 +18691,10 @@ persons:
     - org: giving-pledge
       role: member
       from: 2012
+    - org: stripe
+      role: shareholder
+      from: 2011
+      note: Early investor
     - org: xai
       role: founder
       from: 2023
@@ -18367,6 +18707,10 @@ persons:
     - org: sun-valley-conference
       role: member
       note: Speaker 2022, non invitato 2025
+    - org: neuralink
+      role: founder
+      from: 2016
+      note: CEO & Co-Founder
     relations:
     - person: joshua-haldeman
       type: grandfather
@@ -19664,6 +20008,47 @@ persons:
       from: 1926
       to: 1928
       note: Primo presidente, nominato da Mussolini
+  ettore-sequi:
+    tagline: 'Diplomatico di carriera: ambasciatore a Kabul e Pechino, Rappresentante UE per Afghanistan, Segretario Generale
+      Farnesina'
+    born: 1956
+    nationality: ITA
+    affiliations:
+    - org: onu
+      role: member
+      from: 1994
+      to: 1998
+      note: Primo Segretario, Rappresentanza Permanente Italia presso ONU New York
+    - org: governo-italia
+      role: executive
+      from: 1985
+      note: Carriera diplomatica MAE. Console Tehran 1989. Capo Gabinetto Min. Esteri (Mogherini, Gentiloni, Di Maio). Ambasciatore
+        a Kabul 2004-08, Pechino 2015-19. Segretario Generale Farnesina 2021-23
+    - org: unione-europea
+      role: executive
+      from: 2008
+      to: 2013
+      note: Rappresentante Speciale UE per Afghanistan e Pakistan 2008-10. Capo Delegazione UE in Albania 2010-13
+    - org: task-force-china
+      role: member
+      from: 2018
+      note: Ambasciatore d'Italia a Pechino, partecipante riunione inaugurale
+    - org: universita-cagliari
+      role: alumni
+      note: Laurea Scienze Politiche 1981, specializzazione Islamologia
+    relations:
+    - person: federica-mogherini
+      type: colleague
+      note: Capo Gabinetto di Mogherini al MAE 2014
+    - person: lamberto-dini
+      type: colleague
+      note: Nel gabinetto di Dini al MAE 1998-2000
+    - person: luigi-di-maio
+      type: colleague
+      note: Capo Gabinetto di Di Maio al MAE 2019-2021
+    - person: paolo-gentiloni
+      type: colleague
+      note: Capo Gabinetto di Gentiloni al MAE 2014-2016
   eugen-schwab:
     tagline: 'Industriale svizzero-tedesco: il padre del fondatore del WEF alla guida di Escher Wyss durante il Terzo Reich'
     born: 1899
@@ -21293,6 +21678,28 @@ persons:
       role: chairman
       from: 1992
       to: 2003
+  frank-church:
+    tagline: Senatore Idaho 24 anni, Church Committee su abusi CIA/NSA/FBI, candidato presidenziale 1976
+    born: 1924
+    died: 1984
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 1957
+      to: 1981
+      note: Senatore Idaho (D)
+    - org: stanford
+      role: alumni
+      note: BA 1947, JD Stanford Law 1950
+    - org: opensecrets
+      role: founder
+      from: 1983
+      note: Co-fondatore CRP
+    relations:
+    - person: bethine-church
+      type: spouse
+      note: Sposati 1947, figlia del Gov. Chase Clark
   frank-elderson:
     born: 1970
     nationality: NLD
@@ -23962,6 +24369,10 @@ persons:
       role: leader
       from: 2022
       note: Presidente del Consiglio - Prima donna a ricoprire la carica
+    - org: fratelli-d-italia
+      role: leader
+      from: 2014
+      note: Co-fondatrice e Presidente dal 2014
   giorgio-napolitano:
     tagline: 'Dal PCI al Quirinale: l''eurocomunista che divenne garante dell''establishment europeo.'
     born: 1925
@@ -24263,6 +24674,15 @@ persons:
       from: 1993
       to: 2002
       note: General Manager, Managing Director
+  giuseppe-conte:
+    born: 1964
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: leader
+      from: 2018
+      to: 2021
+      note: Presidente del Consiglio
   giuseppe-gola:
     born: 1966
     nationality: ITA
@@ -24883,6 +25303,44 @@ persons:
       role: minister
       from: 2025
       note: Minister of Housing and Infrastructure
+  gregory-craig:
+    tagline: White House Counsel di Obama, avvocato del potere dem, revolving door Williams & Connolly - Casa Bianca - Skadden
+      Arps
+    born: 1945
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2009
+      to: 2010
+      note: White House Counsel (Obama)
+    - org: yale
+      role: alumni
+      note: JD 1972
+    - org: harvard
+      role: alumni
+      note: AB History 1967, Phi Beta Kappa
+    - org: williams-connolly
+      role: partner
+      note: Partner, litigation
+    - org: skadden-arps
+      role: partner
+      from: 2010
+      to: 2018
+      note: Partner, crisis management e global issues practice
+    relations:
+    - person: barack-obama
+      type: colleague
+      note: White House Counsel 2009-2010
+    - person: bill-clinton
+      type: colleague
+      note: Special Counsel, difesa impeachment 1998
+    - person: hillary-clinton
+      type: colleague
+      note: Compagni a Yale Law School
+    - person: ted-kennedy
+      type: colleague
+      note: Senior advisor
   gregory-hayes:
     born: 1960
     nationality: USA
@@ -25058,6 +25516,10 @@ persons:
       from: 2014
       to: 2022
       note: Senior Advisor
+    - org: fratelli-d-italia
+      role: founder
+      from: 2012
+      note: Co-fondatore
   guido-goldman:
     tagline: 'Architetto delle relazioni transatlantiche: fondatore del German Marshall Fund, ponte tra USA e Germania'
     born: 1937
@@ -25311,6 +25773,32 @@ persons:
       role: founder
       from: 2010
       note: Co-founder
+  gwynne-shotwell:
+    tagline: President e COO di SpaceX dal 2008, ingegnera meccanica che gestisce le operazioni quotidiane della piu grande
+      azienda spaziale privata
+    born: 1963
+    nationality: USA
+    affiliations:
+    - org: wef
+      role: member
+      note: Global Agenda Council on Space Security
+    - org: spacex
+      role: executive
+      from: 2002
+      note: President & COO
+    - org: spacex
+      role: board
+      note: Board member
+    - org: northwestern
+      role: alumni
+      note: BS Mechanical Engineering
+    - org: northwestern
+      role: trustee
+      note: Board of Trustees, McCormick Advisory Council
+    - org: nasa
+      role: advisor
+      from: 2019
+      note: National Space Council Users Advisory Group
   h-john-heinz-ii:
     tagline: Erede della dinastia Heinz, CEO che trasformo' l'azienda di famiglia in multinazionale, membro del Bilderberg
       Steering Committee
@@ -25720,6 +26208,44 @@ persons:
       role: executive
       from: 2024
       note: CEO and Deputy Oil Minister
+  han-zheng:
+    tagline: Vice President of China, former Executive Vice Premier, Shanghai clique veteran, BRI chairman 2018-2023
+    born: 1954
+    nationality: CHN
+    affiliations:
+    - org: wef
+      role: member
+      note: Davos 2020 keynote speaker
+    - org: governo-cina
+      role: minister
+      from: 2018
+      to: 2023
+      note: Executive Vice Premier
+    - org: governo-cina
+      role: leader
+      from: 2023
+      note: Vice President of China
+    - org: ccp
+      role: leader
+      note: Politburo Standing Committee
+    - org: bri
+      role: chairman
+      from: 2018
+      to: 2023
+      note: BRI Leading Group Chairman
+    - org: fudan-university
+      role: alumni
+      note: Two-year college program 1983-1985
+    - org: east-china-normal-university
+      role: alumni
+      note: BA Politics 1987, MA International Political Economy 1994
+    relations:
+    - person: jiang-zemin
+      type: protege
+      note: Shanghai clique, factional affiliation
+    - person: xi-jinping
+      type: colleague
+      note: Xi was Shanghai Party Secretary 2007 while Han was Mayor; now loyal ally
   hana-al-rostamani:
     nationality: ARE
     note: First female CEO of FAB
@@ -26329,7 +26855,15 @@ persons:
     - org: governo-cina
       role: minister
       from: 2023
-      note: Vice Premier, economic tsar
+      note: Vice Premier
+    - org: bri
+      role: executive
+      from: 2017
+      note: BRI Leading Group Deputy, then key coordinator
+    - org: ndrc
+      role: leader
+      from: 2017
+      to: 2023
   he-xiangjian:
     tagline: Fondatore di Midea Group, da produttore di tappi di bottiglia a impero Fortune 500, pioniere della successione
       manageriale in Cina
@@ -27288,6 +27822,14 @@ persons:
       role: executive
       from: 2025
       note: President & CEO
+  hilary-braseth:
+    tagline: Direttrice esecutiva OpenSecrets dal 2024
+    nationality: USA
+    affiliations:
+    - org: opensecrets
+      role: executive
+      from: 2024
+      note: Executive Director
   hillary-clinton:
     born: 1947
     nationality: USA
@@ -27732,6 +28274,43 @@ persons:
     - person: vitalik-buterin
       type: colleague
       note: EF Research team, Beacon Chain development
+  hu-chunhua:
+    tagline: Vice Premier cinese (2018-23), protetto di Hu Jintao, figura chiave nella campagna anti-povertà e nella BRI
+    born: 1963
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: minister
+      from: 2018
+      to: 2023
+      note: Vice Premier
+    - org: governo-cina
+      role: leader
+      from: 2012
+      to: 2017
+      note: Party Secretary Guangdong
+    - org: bri
+      role: executive
+      from: 2018
+      to: 2023
+      note: BRI Leading Group Deputy, Vice Premier
+    - org: peking-university
+      role: alumni
+      note: BA Chinese Literature 1983
+    - org: central-party-school
+      role: alumni
+      note: MA World Economics 1999
+    - org: cppcc
+      role: executive
+      from: 2023
+      note: Vice Chairman
+    relations:
+    - person: hu-jintao
+      type: mentor
+      note: Patron-protégé relationship from Tibet (1988-92), Communist Youth League faction
+    - person: li-keqiang
+      type: colleague
+      note: Fellow Peking University students, Communist Youth League faction allies
   hu-houkun:
     nationality: CHN
     affiliations:
@@ -27739,6 +28318,36 @@ persons:
       role: chairman
       from: 2018
       note: Deputy Chair, Rotating Chairman
+  hu-jintao:
+    tagline: Presidente della Cina (2003-13), Segretario Generale CPC (2002-12), leader della fazione Communist Youth League
+    born: 1942
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: leader
+      from: 2003
+      to: 2013
+      note: President of PRC, General Secretary CPC (2002-12), Chairman CMC (2004-12)
+    - org: governo-cina
+      role: leader
+      from: 1988
+      to: 1992
+      note: Party Secretary Tibet
+    - org: governo-cina
+      role: executive
+      from: 1992
+      to: 2012
+      note: Politburo Standing Committee
+    - org: tsinghua-university
+      role: alumni
+      note: Hydroelectric Engineering 1965
+    relations:
+    - person: song-ping
+      type: mentor
+      note: Party elder, patron from Gansu province, fellow Tsinghua graduate
+    - person: xi-jinping
+      type: successor
+      note: Xi succeeded Hu as General Secretary (2012) and President (2013)
   hu-yangzhong:
     nationality: CHN
     affiliations:
@@ -27771,6 +28380,31 @@ persons:
       role: executive
       from: 2023
       note: CFO
+  hugh-scott:
+    tagline: Senate Minority Leader (R), chiese dimissioni Nixon durante Watergate, co-fondatore CRP/OpenSecrets
+    born: 1900
+    died: 1994
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 1941
+      to: 1977
+      note: Representative Pennsylvania (R) 1941-45, 1947-59; Senatore 1959-77, Senate Minority Leader 1969-77
+    - org: university-of-virginia
+      role: alumni
+      note: JD 1922
+    - org: opensecrets
+      role: founder
+      from: 1983
+      note: Co-fondatore CRP
+    - org: randolph-macon
+      role: alumni
+      note: BA 1919
+    relations:
+    - person: frank-church
+      type: associate
+      note: Co-fondatore CRP/OpenSecrets 1983, colleghi bipartisan al Senato
   hugh-sinclair:
     tagline: Quex" — Ammiraglio e Chief MI6, fondatore di GC&CS (GCHQ), acquirente di Bletchley Park, architetto dell'intelligence
       britannica pre-WWII
@@ -27840,6 +28474,37 @@ persons:
       role: founder
       from: 1998
       note: Founder & President
+  ian-hogarth:
+    tagline: Co-fondatore Songkick e Plural, Chair UK AI Safety Institute, angel investor 150+ aziende
+    born: 1983
+    nationality: GBR
+    affiliations:
+    - org: governo-uk
+      role: official
+      from: 2023
+      note: Chair UK AI Safety Institute (ex Frontier AI Taskforce)
+    - org: y-combinator
+      role: alumni
+      from: 2007
+      note: Songkick, Summer 2007 batch
+    - org: cambridge
+      role: alumni
+      note: MEng Information Engineering, first-class honours ~2005
+    - org: plural
+      role: founder
+      from: 2022
+      note: Co-founder & General Partner
+    - org: songkick
+      role: founder
+      from: 2007
+      note: Co-founder & CEO
+    relations:
+    - person: sten-tamkivi
+      type: colleague
+      note: Co-fondatori Plural
+    - person: taavet-hinrikus
+      type: colleague
+      note: Co-fondatori Plural
   ian-kelling:
     tagline: 'Da sysadmin a presidente: primo membro dello staff a guidare la Free Software Foundation'
     nationality: USA
@@ -28003,6 +28668,54 @@ persons:
       role: chairman
       from: 2006
       note: Executive Chairman (CEO dal 2001)
+  ignazio-la-russa:
+    tagline: Presidente del Senato, co-fondatore FdI, ex Ministro Difesa, veterano MSI/AN
+    born: 1947
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 2008
+      to: 2011
+      note: Ministro della Difesa, Berlusconi IV
+    - org: governo-italia
+      role: legislator
+      from: 1992
+      note: Deputato 1992-2018, Senatore 2018-oggi, Presidente Senato 2022-oggi
+    - org: alleanza-nazionale
+      role: executive
+      from: 1995
+      to: 2009
+      note: Vicepresidente, poi Coordinatore Nazionale, poi leader ad interim
+    - org: fratelli-d-italia
+      role: founder
+      from: 2012
+      note: Co-fondatore, Presidente 2013-2014
+    - org: msi
+      role: member
+      to: 1995
+      note: Leader Fronte della Gioventu, consigliere regionale Lombardia
+    - org: pdl
+      role: executive
+      from: 2009
+      to: 2012
+      note: Coordinatore Nazionale (uno di tre)
+    - org: universita-pavia
+      role: alumni
+      note: Laurea in Giurisprudenza
+    relations:
+    - person: gianfranco-fini
+      type: colleague
+      note: Fini lo nomino VP e Coordinatore di AN
+    - person: giorgia-meloni
+      type: colleague
+      note: Co-fondatori FdI 2012, alleati politici di lungo corso
+    - person: guido-crosetto
+      type: colleague
+      note: Co-fondatori FdI 2012
+    - person: silvio-berlusconi
+      type: colleague
+      note: Ministro Difesa nel gov Berlusconi IV, poi rottura su Monti 2012
   ignazio-visco:
     tagline: 'Governatore della Banca d''Italia dal 2011 al 2023: il banchiere centrale che ha navigato la crisi del debito
       sovrano e la pandemia.'
@@ -29018,6 +29731,45 @@ persons:
     - person: martti-ahtisaari
       type: mentor
       note: Capo dipartimento di Ahtisaari
+  jaan-tallinn:
+    tagline: Founding engineer Skype/Kazaa, investitore DeepMind/Anthropic, co-fondatore CSER e FLI, effective altruist
+    born: 1972
+    nationality: EST
+    affiliations:
+    - org: governo-estonia
+      role: advisor
+      note: Presidential Academic Advisory Board
+    - org: european-commission
+      role: advisor
+      from: 2017
+      to: 2019
+      note: High-Level Expert Group on AI
+    - org: anthropic
+      role: shareholder
+      note: Early investor, AI safety focus
+    - org: deepmind
+      role: board
+      note: Series A investor and board member
+    - org: university-of-tartu
+      role: alumni
+      note: BSc Theoretical Physics 1996
+    - org: skype
+      role: founder
+      from: 2003
+      note: Founding engineer, sviluppatore core
+    - org: cser
+      role: founder
+      from: 2012
+    - org: future-of-life-institute
+      role: founder
+      from: 2014
+    relations:
+    - person: ahti-heinla
+      type: colleague
+      note: Co-fondatori Skype e Bluemoon
+    - person: janus-friis
+      type: colleague
+      note: Co-fondatori Skype
   jacaranda-caracciolo:
     born: 1972
     nationality: ITA
@@ -29304,6 +30056,45 @@ persons:
     born: 1620
     died: 1674
     nationality: OTT
+  jacob-helberg:
+    tagline: 'Da Google a Palantir a Under Secretary of State: il ponte tra Silicon Valley e politica estera anti-Cina'
+    born: 1989
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: executive
+      from: 2025
+      note: Under Secretary of State for Economic Growth
+    - org: palantir
+      role: advisor
+      note: Senior Advisor to CEO Alex Karp
+    - org: cnas
+      role: advisor
+      note: Former Adjunct Senior Fellow, Technology & National Security
+    - org: google
+      role: executive
+      from: 2016
+      to: 2020
+      note: Global lead product policy, combat foreign interference
+    - org: brookings
+      role: advisor
+      note: Co-chair China Strategy Working Group
+    - org: nyu
+      role: alumni
+      note: MS Cybersecurity Risk & Strategy 2020
+    - org: george-washington-university
+      role: alumni
+      note: BA International Affairs
+    - org: stanford
+      role: advisor
+      note: Senior Advisor, Center on Geopolitics and Technology
+    relations:
+    - person: alex-karp
+      type: colleague
+      note: Senior Advisor to Karp at Palantir
+    - person: keith-rabois
+      type: spouse
+      note: Married 2018, officiated by Sam Altman
   jacob-hsu:
     nationality: USA
     note: CEO Symbio. Former CEO Trilogica Technologies, Epitome Software. Former investment banker Fox-Pitt Kelton. Chief
@@ -29826,6 +30617,33 @@ persons:
     - org: baidu
       role: board
       note: Independent Director, Compensation Committee Chair
+  james-fitzgerald:
+    tagline: Co-fondatore Valar Ventures, ex-COO e General Counsel Thiel Capital, ex-avvocato Skadden Arps
+    nationality: USA
+    affiliations:
+    - org: ucla
+      role: alumni
+      note: JD
+    - org: thiel-capital
+      role: executive
+      from: 2008
+      to: 2010
+      note: COO e General Counsel
+    - org: valar-ventures
+      role: founder
+      from: 2010
+      note: Managing Partner
+    - org: brigham-young
+      role: alumni
+      note: BA
+    - org: skadden-arps
+      role: partner
+      to: 2008
+      note: Associate, New York office, 7 anni
+    relations:
+    - person: peter-thiel
+      type: colleague
+      note: Thiel Capital COO, Valar Ventures co-founder
   james-gorman:
     tagline: 'Da avvocato australiano a vertice di Wall Street e Disney: il banchiere globale che collega finanza, media e
       policy'
@@ -30549,6 +31367,19 @@ persons:
       role: founder
       from: 1995
       to: 2024
+  janus-friis:
+    tagline: Co-fondatore Skype e Kazaa con Zennström, co-fondatore Starship Technologies
+    born: 1976
+    nationality: DNK
+    affiliations:
+    - org: skype
+      role: founder
+      from: 2003
+      note: Co-founder con Niklas Zennström
+    - org: starship-technologies
+      role: founder
+      from: 2014
+      note: Co-founder
   jared-cohen:
     nationality: USA
     note: Founder/Director Google Ideas. Former adviser Condoleezza Rice and Hillary Clinton. Council on Foreign Relations.
@@ -30820,6 +31651,13 @@ persons:
       role: leader
       from: 2025
       note: Vice President
+    - org: mithril-capital
+      role: partner
+      from: 2015
+      to: 2017
+    - org: narya-capital
+      role: founder
+      from: 2019
   jean-arnault:
     born: 1998
     nationality: FRA
@@ -31643,6 +32481,11 @@ persons:
       role: founder
       from: 2012
       note: President (fino ~2014)
+    - org: valar-ventures
+      role: investor
+      from: 2015
+      to: 2019
+      note: LP via Southern Trust Company, $40M in 2 fondi (2015-2016), ora vale ~$170M
     relations:
     - person: alexander-acosta
       type: associate
@@ -32485,13 +33328,37 @@ persons:
       role: alumni
       note: BS Physics 1970, MS Physics 1971
   jim-demint:
+    tagline: Senatore Tea Party, presidente Heritage Foundation 2013-17, fondatore Conservative Partnership Institute
+    born: 1951
     nationality: USA
     affiliations:
+    - org: governo-usa
+      role: legislator
+      from: 1999
+      to: 2013
+      note: Representative SC-4 1999-2005; Senator South Carolina 2005-2013
     - org: heritage-foundation
       role: executive
       from: 2013
       to: 2017
       note: President; removed by board for management issues
+    - org: university-tennessee
+      role: alumni
+      note: BS Communications 1973
+    - org: clemson-university
+      role: alumni
+      note: MBA 1981
+    - org: conservative-partnership-institute
+      role: chairman
+      from: 2017
+      note: Founder and Chairman
+    relations:
+    - person: edwin-feulner
+      type: associate
+      note: Predecessore/successore alla presidenza Heritage Foundation
+    - person: kevin-roberts
+      type: associate
+      note: Feulner interim tra DeMint e Roberts alla guida Heritage
   jim-garrison:
     nationality: USA
     affiliations:
@@ -32670,10 +33537,10 @@ persons:
       to: 2013
       note: Chairman Supervisory Board
     - org: aiib
-      role: executive
+      role: leader
       from: 2016
-      to: 2025
-      note: President & Chair
+      to: 2026
+      note: Inaugural President
     - org: adb
       role: executive
       from: 2003
@@ -32825,6 +33692,38 @@ persons:
       from: 2021
       to: 2025
       note: US President; announced AUKUS Sept 15, 2021
+  joe-chen:
+    tagline: Co-fondatore Anduril, ex Product Lead Oculus VR, paracadutista Army National Guard
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: member
+      note: Army National Guard, paratrooper 1-143rd Infantry Battalion (Airborne)
+    - org: usc
+      role: alumni
+      note: MBA
+    - org: anduril
+      role: founder
+      from: 2017
+    - org: rice-university
+      role: alumni
+      note: BA Electrical Engineering
+    - org: oculus-vr
+      role: executive
+      note: Product Lead, first employees, hardware development
+    relations:
+    - person: brian-schimpf
+      type: associate
+      note: Co-fondatori Anduril
+    - person: matt-grimm
+      type: associate
+      note: Co-fondatori Anduril
+    - person: palmer-luckey
+      type: associate
+      note: Colleghi Oculus VR, co-fondatori Anduril
+    - person: trae-stephens
+      type: associate
+      note: Co-fondatori Anduril
   joe-kaeser:
     born: 1957
     nationality: DEU
@@ -33254,13 +34153,31 @@ persons:
       role: member
       from: 1937
       note: Confirmed 5th man. Bletchley Park, Treasury, MI6. Confessed 1964
+  john-carmack:
+    tagline: Programmatore leggendario, co-fondatore id Software, CTO Oculus VR
+    born: 1970
+    nationality: USA
   john-collison:
+    tagline: Co-fondatore e President di Stripe, dropout Harvard, il piu giovane miliardario self-made a 26 anni
+    born: 1990
     nationality: IRL
     affiliations:
     - org: stripe
       role: founder
       from: 2010
       note: Co-founder, President
+    - org: y-combinator
+      role: founder
+      from: 2007
+      to: 2008
+      note: Co-founder Auctomatic (YC W08)
+    - org: harvard
+      role: alumni
+      note: Dropout 2010
+    relations:
+    - person: patrick-collison
+      type: family
+      note: brother, co-founder Auctomatic e Stripe
   john-connally:
     born: 1917
     died: 1993
@@ -35023,12 +35940,65 @@ persons:
       type: spouse
       note: married 1952
   joseph-coors:
+    tagline: Erede della dinastia birraria Coors, finanziatore della Heritage Foundation e architetto del movimento conservatore
+      USA
+    born: 1917
+    died: 2003
     nationality: USA
     affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 1981
+      to: 1989
+      note: Reagan Kitchen Cabinet
     - org: heritage-foundation
       role: founder
       from: 1973
       note: Co-Founder; $250K seed money
+    - org: cornell
+      role: alumni
+      note: BS Chemical Engineering 1939, Kappa Alpha Society, Quill and Dagger
+    - org: cornell
+      role: alumni
+      note: MS Chemical Engineering 1940
+    - org: university-colorado
+      role: board
+      from: 1967
+      to: 1972
+      note: Regent
+    - org: free-congress-foundation
+      role: founder
+      note: Principal backer
+    - org: council-national-policy
+      role: founder
+      note: Founder and funder
+    - org: coors-brewing
+      role: executive
+      from: 1946
+      to: 1987
+      note: Technical Director, EVP, President, COO
+    - org: john-birch-society
+      role: member
+      note: Major backer
+    - org: adolph-coors-foundation
+      role: founder
+      from: 1975
+      note: Co-founded with brother William Coors
+    - org: colorado-school-mines
+      role: board
+      from: 1991
+      to: 1999
+      note: Trustee
+    relations:
+    - person: edwin-feulner
+      type: associate
+      note: Co-fondatore Heritage Foundation
+    - person: paul-weyrich
+      type: associate
+      note: Weyrich convinse Coors a finanziare Heritage Foundation 1973
+    - person: richard-mellon-scaife
+      type: associate
+      note: Co-finanziatori Heritage Foundation
   joseph-dunford:
     born: 1955
     nationality: USA
@@ -35043,6 +36013,30 @@ persons:
       role: board
       from: 2020
       note: Chair Classified Business & Security Committee
+  joseph-flom:
+    tagline: Pioniere del M&A, cofondatore di Skadden Arps, Mr. Takeover degli anni 80
+    born: 1923
+    died: 2011
+    nationality: USA
+    affiliations:
+    - org: harvard
+      role: alumni
+      note: JD 1948, cum laude, Harvard Law Review
+    - org: harvard
+      role: board
+      note: Dean's Advisory Board
+    - org: ccny
+      role: alumni
+      note: BA 2003 (honorary), President Medal 2004, Honorary Doctor of Laws 2005
+    - org: skadden-arps
+      role: founder
+      from: 1948
+      to: 2011
+      note: Name partner dal 1954, Senior Partner
+    relations:
+    - person: charlie-munger
+      type: colleague
+      note: Compagni di corso ad Harvard Law School, classe 1948
   joseph-hooley:
     nationality: USA
     affiliations:
@@ -35307,6 +36301,14 @@ persons:
     - person: aryeh-lightstone
       type: colleague
       note: Co-Senior Advisors, Board of Peace 2026
+  josh-hawley:
+    born: 1979
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: member
+      from: 2019
+      note: US Senator Missouri
   joshua-bekenstein:
     tagline: Founding partner di Bain Capital e mega-donor Democratico
     born: 1958
@@ -36732,6 +37734,55 @@ persons:
       role: founder
       from: 1943
       note: Inaugural chair, co-founder with CD Kemp
+  keith-rabois:
+    tagline: 'PayPal Mafia, COO Square, co-fondatore Opendoor, Khosla Ventures/Founders Fund, Forbes Midas #4'
+    born: 1969
+    nationality: USA
+    affiliations:
+    - org: palantir
+      role: advisor
+      note: Early personal investor
+    - org: paypal
+      role: executive
+      from: 2000
+      to: 2002
+      note: EVP Business Development, Public Affairs & Policy
+    - org: founders-fund
+      role: partner
+      from: 2019
+      to: 2024
+      note: General Partner 2019-2024, lead investments Ramp e Trade Republic, tornato a Khosla gen 2024
+    - org: linkedin
+      role: executive
+      from: 2005
+      to: 2007
+      note: VP Business & Corporate Development
+    - org: khosla-ventures
+      role: partner
+      from: 2013
+      note: Managing Director. Prima stint 2013-2019, ritorno gen 2024
+    - org: stanford
+      role: alumni
+      note: BA Political Science 1991
+    - org: harvard-law
+      role: alumni
+      note: JD 1994
+    - org: square
+      role: executive
+      from: 2010
+      to: 2013
+      note: COO
+    - org: opendoor
+      role: founder
+      from: 2014
+      note: Co-fondatore e COO
+    relations:
+    - person: david-sacks
+      type: colleague
+      note: PayPal Mafia, entrambi nel network Thiel
+    - person: reid-hoffman
+      type: colleague
+      note: PayPal Mafia, VP a LinkedIn (fondata da Hoffman)
   kelly-ayotte:
     tagline: Ex Senator New Hampshire, Governor NH 2025-, ex Chair BAE Systems Inc
     born: 1968
@@ -36833,6 +37884,58 @@ persons:
     - org: ihmc
       role: founder
       note: Founder & CEO
+  ken-howery:
+    tagline: Co-fondatore PayPal e Founders Fund, Ambasciatore USA in Svezia e Danimarca, PayPal Mafia
+    born: 1975
+    nationality: USA
+    affiliations:
+    - org: wef
+      role: member
+      note: Technology Pioneers Selection Committee
+    - org: governo-usa
+      role: ambassador
+      from: 2019
+      to: 2021
+      note: Ambasciatore USA in Svezia, nominato Trump
+    - org: governo-usa
+      role: ambassador
+      from: 2025
+      note: Ambasciatore USA in Danimarca, nominato Trump dic 2024, confermato Senato ott 2025
+    - org: paypal
+      role: founder
+      from: 1998
+      to: 2002
+      note: Co-fondatore e primo CFO
+    - org: founders-fund
+      role: founder
+      from: 2005
+      note: Co-fondatore, ora Ambassador USA in Danimarca
+    - org: ebay
+      role: executive
+      from: 2002
+      to: 2003
+      note: Director of Corporate Development post-acquisizione PayPal
+    - org: clarium-capital
+      role: executive
+      from: 2004
+      to: 2005
+      note: VP Private Equity, research and trading
+    - org: stanford
+      role: alumni
+      note: BA Economics 1998, managing editor Stanford Review
+    relations:
+    - person: david-sacks
+      type: colleague
+      note: PayPal Mafia
+    - person: elon-musk
+      type: colleague
+      note: PayPal co-founders, Founders Fund invested in SpaceX/Neuralink
+    - person: luke-nosek
+      type: colleague
+      note: PayPal co-founder, Founders Fund co-founder
+    - person: reid-hoffman
+      type: colleague
+      note: PayPal Mafia
   ken-lin:
     tagline: SVP Innovation CP Group, YGL 2025, ponte tra conglomerato thai e network accademico globale
     nationality: THA
@@ -37076,12 +38179,33 @@ persons:
       from: 1995
       note: Co-founder & CEO. IPO 1998, acquired by Google 2007 for $3.1B
   kevin-roberts:
+    tagline: President Heritage Foundation, architetto di Project 2025, da accademico cattolico a stratega della destra radicale
+      USA
+    born: 1974
     nationality: USA
     affiliations:
     - org: heritage-foundation
       role: executive
       from: 2021
       note: President; Project 2025 lead
+    - org: virginia-tech
+      role: alumni
+      note: MA History 1999
+    - org: university-louisiana-lafayette
+      role: alumni
+      note: BA History 1996
+    - org: university-texas-austin
+      role: alumni
+      note: PhD American History 2003
+    - org: texas-public-policy-foundation
+      role: executive
+      from: 2016
+      to: 2021
+      note: EVP then President/CEO
+    relations:
+    - person: jd-vance
+      type: associate
+      note: Vance wrote foreword to Roberts book Dawn Early Light 2024
   kevin-ryan:
     tagline: 'Godfather of NYC tech": da CEO DoubleClick a fondatore seriale di Silicon Alley, membro CFR'
     born: 1963
@@ -37276,6 +38400,41 @@ persons:
     - org: governo-uae
       role: leader
       note: Crown Prince
+  khaled-helioui:
+    tagline: Ex CEO Bigpoint, primo investitore europeo in Uber, co-fondatore Plural VC
+    nationality: TUN-FRA
+    affiliations:
+    - org: ubs
+      role: executive
+      from: 2007
+      to: 2009
+      note: Analyst, Investment Banking
+    - org: plural
+      role: founder
+      from: 2022
+      note: Co-founder & General Partner
+    - org: telecom-sudparis
+      role: alumni
+      note: MSc Telecommunications Engineering
+    - org: ta-associates
+      role: executive
+      from: 2009
+      to: 2012
+      note: Investment Associate
+    - org: bigpoint
+      role: executive
+      from: 2012
+      note: CEO (turnaround e vendita a Youzu Interactive)
+    relations:
+    - person: ian-hogarth
+      type: colleague
+      note: Co-fondatori Plural
+    - person: sten-tamkivi
+      type: colleague
+      note: Co-fondatori Plural
+    - person: taavet-hinrikus
+      type: colleague
+      note: Co-fondatori Plural
   khalid-al-dabbagh:
     nationality: SAU
     affiliations:
@@ -37502,6 +38661,28 @@ persons:
     - org: governo-corea
       role: minister
       note: Finance Ministry, Foreign Affairs Ministry, FSC departments
+  kimbal-musk:
+    tagline: Fratello di Elon, imprenditore food-tech, board member Tesla e SpaceX, WEF Global Social Entrepreneur
+    born: 1972
+    nationality: ZAF-USA
+    affiliations:
+    - org: wef
+      role: member
+      note: Global Social Entrepreneur
+    - org: tesla
+      role: board
+      from: 2004
+      note: Board member
+    - org: spacex
+      role: board
+      note: Board member, fratello di Elon Musk
+    - org: queens-university
+      role: alumni
+      note: BA Business 1995
+    relations:
+    - person: elon-musk
+      type: family
+      note: brother
   kimberlee-korff:
     nationality: USA
     affiliations:
@@ -38011,6 +39192,32 @@ persons:
       note: Director General
     - org: adevinta
       role: board
+  kristo-kaarmann:
+    tagline: Co-fondatore e CEO di Wise, ex consulente Deloitte e PwC
+    born: 1980
+    nationality: EST
+    affiliations:
+    - org: wef
+      role: member
+      from: 2015
+      note: Technology Pioneer 2015
+    - org: pwc
+      role: employee
+      note: Consultant, data management per banche e telecom in Estonia
+    - org: deloitte
+      role: employee
+      note: Management consultant, financial systems and technology strategy
+    - org: wise
+      role: founder
+      from: 2011
+      note: Co-founder & CEO
+    - org: university-of-tartu
+      role: alumni
+      note: BSc & MSc Mathematics and Computer Science 2002
+    relations:
+    - person: taavet-hinrikus
+      type: associate
+      note: Co-fondatori Wise
   kumar-mangalam-birla:
     tagline: 'Chairman del gruppo Aditya Birla: quarta generazione della dinastia industriale, 60+ acquisizioni, $67 miliardi
       di fatturato'
@@ -38162,6 +39369,13 @@ persons:
       role: chairman
       from: 2019
       note: Executive Chair & CEO
+  laks-srini:
+    nationality: USA
+    affiliations:
+    - org: zenefits
+      role: founder
+      from: 2012
+      note: Co-Founder & CTO
   lal-bahadur-shastri:
     born: 1904
     died: 1966
@@ -38253,6 +39467,13 @@ persons:
       role: founder
       from: 2007
       note: Founder and creative director
+  larry-arnn:
+    born: 1952
+    nationality: USA
+    affiliations:
+    - org: hillsdale-college
+      role: executive
+      from: 2000
   larry-brilliant:
     tagline: 'Epidemiologo, eroe dell''eradicazione del vaiolo, ponte tra controcultura hippie degli anni ''70 e Silicon Valley.
       Carriera unica: ashram in India → WHO → Seva Foundation → Google.org → Skoll Global Threats Fund → Ending Pandemics.
@@ -38524,6 +39745,28 @@ persons:
       role: board
       from: 2021
       note: Director
+  laura-castelli:
+    tagline: Viceministro Economia M5S nei governi Conte I, Conte II e Draghi, poi presidente Sud chiama Nord
+    born: 1986
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 2013
+      to: 2022
+      note: Deputata M5S 2013-22. Sottosegretario MEF giu 2018, Viceministro Economia mar 2019 (Conte I). Confermata Viceministro
+        Economia Conte II e Draghi
+    - org: task-force-china
+      role: member
+      from: 2018
+      note: Sottosegretario Economia, partecipante riunione inaugurale 1 ott 2018
+    relations:
+    - person: giuseppe-conte
+      type: colleague
+      note: Viceministro nei governi Conte I e Conte II
+    - person: luigi-di-maio
+      type: colleague
+      note: Entrambi M5S, governo Conte I. Di Maio promotore Task Force China
   laura-deming:
     born: 1994
     nationality: NZL
@@ -39160,6 +40403,16 @@ persons:
       role: member
       from: 1991
       note: Founder U.S. Healthcare
+  leonard-leo:
+    born: 1965
+    nationality: USA
+    affiliations:
+    - org: federalist-society
+      role: executive
+      from: 1991
+    - org: marble-freedom-trust
+      role: chairman
+      from: 2020
   leonardo-badea:
     nationality: ROU
     affiliations:
@@ -39554,6 +40807,9 @@ persons:
     - org: boyu-capital
       role: shareholder
       note: Early investor via Li Ka Shing Foundation, helped raise $1B first fund | investor
+  li-keqiang:
+    born: 1955
+    nationality: CHN
   li-qiang:
     born: 1959
     nationality: CHN
@@ -40522,6 +41778,29 @@ persons:
       from: 2002
       to: 2010
       note: Vice President
+  luciano-barra-caracciolo:
+    tagline: Presidente di Sezione del Consiglio di Stato, euroscettico, Sottosegretario Affari Europei nel governo Conte
+      I
+    born: 1959
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 1994
+      to: 2019
+      note: Consigliere giuridico Min. Funzione Pubblica (Berlusconi I, Dini). Capo Gabinetto Min. Italiani nel Mondo (Berlusconi
+        I). Vicesegretario Generale PCM (Berlusconi II, 2001). Sottosegretario Affari Europei (Conte I, 2018-19)
+    - org: task-force-china
+      role: member
+      from: 2018
+      note: Sottosegretario Affari Europei, partecipante riunione inaugurale 1 ott 2018
+    relations:
+    - person: giuseppe-conte
+      type: colleague
+      note: Sottosegretario Affari Europei nel governo Conte I 2018-19
+    - person: matteo-salvini
+      type: colleague
+      note: Entrambi nel governo Conte I, condividono posizioni euroscettiche. Quota Lega
   luciano-benetton:
     born: 1935
     nationality: ITA
@@ -40620,6 +41899,24 @@ persons:
     - person: prabowo-subianto
       type: colleague
       note: Kopassus, GSG-9 training 1981, Det 81
+  luigi-di-maio:
+    born: 1986
+    nationality: ITA
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 2018
+      to: 2022
+      note: Vice PM, Min. Sviluppo Economico, poi Esteri
+    - org: bri
+      role: executive
+      from: 2019
+      note: Firmatario MoU Italia lato italiano
+    - org: task-force-china
+      role: leader
+      from: 2018
+      to: 2019
+      note: Promotore, Vicepresidente CdM e Min. Sviluppo Economico
   luigi-ferraris:
     nationality: ITA
     affiliations:
@@ -40763,6 +42060,47 @@ persons:
       role: executive
       from: 2017
       note: CCO, CEO from Jan 2026
+  luke-nosek:
+    tagline: Co-fondatore PayPal, Founders Fund e Gigafund, pioniere cryonics e longevita, PayPal Mafia
+    born: 1975
+    nationality: USA
+    affiliations:
+    - org: spacex
+      role: board
+      from: 2008
+      note: Primo VC investor in SpaceX, board member
+    - org: paypal
+      role: founder
+      from: 1998
+      to: 2002
+      note: Co-fondatore, VP Marketing & Strategy
+    - org: founders-fund
+      role: founder
+      from: 2005
+      to: 2017
+      note: Co-fondatore, uscito per creare Gigafund
+    - org: netscape
+      role: executive
+      note: Evangelist, pre-PayPal
+    - org: foresight-institute
+      role: member
+      note: Fellow, nanotechnology e longevita
+    - org: university-of-illinois
+      role: alumni
+      note: BS Computer Engineering
+    - org: gigafund
+      role: founder
+      from: 2017
+    relations:
+    - person: elon-musk
+      type: colleague
+      note: PayPal co-founder, SpaceX board + investor
+    - person: max-levchin
+      type: colleague
+      note: Co-fondatori SponsorNet (1995) e PayPal, compagni a UIUC
+    - person: peter-thiel
+      type: colleague
+      note: PayPal co-founder, Founders Fund co-founder, cryonics
   luong-cuong:
     born: 1957
     nationality: VNM
@@ -42650,6 +43988,9 @@ persons:
     - person: gil-shwed
       type: colleague
       note: Met at Optrotech 1990, co-founded Check Point 1993
+  mark-bolas:
+    tagline: Pioniere VR, direttore Mixed Reality Lab USC, mentore di Palmer Luckey
+    nationality: USA
   mark-boris-andrijanic:
     born: 1985
     nationality: SVN
@@ -44057,6 +45398,37 @@ persons:
     - person: ian-narev
       type: associate
       note: successor as CBA CEO
+  matt-grimm:
+    tagline: COO Anduril Industries, ex Palantir, ingegnere aerospaziale Cornell
+    born: 1985
+    nationality: USA
+    affiliations:
+    - org: palantir
+      role: executive
+      note: Forward Deployed Engineer, deployed Iraq & Afghanistan
+    - org: anduril
+      role: founder
+      from: 2017
+      note: COO
+    - org: cornell
+      role: alumni
+      note: BS Mechanical & Aerospace Engineering, MEng Systems Engineering, DARPA Grand/Urban Challenge
+    - org: mithril-capital
+      role: partner
+      note: Principal
+    - org: booz-allen
+      role: executive
+      note: DOD consulting
+    relations:
+    - person: brian-schimpf
+      type: associate
+      note: Compagni Cornell, co-fondatori DARPA team e Anduril
+    - person: palmer-luckey
+      type: associate
+      note: Co-fondatori Anduril
+    - person: trae-stephens
+      type: associate
+      note: Co-fondatori Anduril, ex Palantir
   matt-hicks:
     nationality: USA
     affiliations:
@@ -44216,6 +45588,29 @@ persons:
     affiliations:
     - org: gitlab
       role: board
+  matthew-steckman:
+    tagline: President & CBO Anduril Industries, ex Palantir DC, early Anduril employee
+    nationality: USA
+    affiliations:
+    - org: palantir
+      role: executive
+      note: Among first 12 employees DC office, headed business operations
+    - org: anduril
+      role: executive
+      from: 2018
+      note: CRO → President & Chief Business Officer (2025)
+    - org: georgetown
+      role: alumni
+    - org: zipline
+      role: executive
+      note: Chief Revenue Officer
+    relations:
+    - person: brian-schimpf
+      type: associate
+      note: Ex Palantir, early Anduril
+    - person: trae-stephens
+      type: associate
+      note: Colleghi Palantir e Anduril, entrambi Georgetown alumni
   matthias-kirschner:
     tagline: Presidente della FSFE, politologo che ha trasformato l'advocacy del software libero in strumento di policy europea
     nationality: DEU
@@ -44350,6 +45745,14 @@ persons:
       role: member
       from: 1991
       note: Detroit oil magnate, founder Republican Jewish Coalition
+  max-hodak:
+    nationality: USA
+    affiliations:
+    - org: neuralink
+      role: founder
+      from: 2016
+      to: 2021
+      note: Co-Founder & President, left 2021
   max-kohnstamm:
     tagline: Braccio destro di Jean Monnet, architetto dell'integrazione europea e connettore tra le elite transatlantiche
     born: 1914
@@ -44394,6 +45797,9 @@ persons:
     - person: jean-monnet
       type: mentor
       note: Right-hand man, closest collaborator
+  max-levchin:
+    tagline: PayPal CTO, fondatore Affirm
+    nationality: UKR-USA
   max-more:
     born: 1964
     nationality: GBR
@@ -45164,6 +46570,17 @@ persons:
       role: founder
       from: 2011
       note: Co-founder, Partner
+  michael-anton:
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2017
+      note: NSC Deputy Assistant
+    - org: claremont-institute
+      role: fellow
+    - org: hillsdale-college
+      role: fellow
   michael-bambang-hartono:
     born: 1939
     nationality: IDN
@@ -45555,6 +46972,15 @@ persons:
     - org: western-state-colorado
       role: alumni
       note: BA Political Science
+  michael-kratsios:
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: executive
+      from: 2025
+      note: OSTP Director
+    - org: thiel-capital
+      role: executive
   michael-larson:
     tagline: 'CIO di Cascade Investment: gestisce $180B+ per Bill Gates, uno dei money manager piu'' potenti e riservati al
       mondo'
@@ -45665,6 +47091,9 @@ persons:
       from: 1986
       to: 2023
       note: Partner 1986, Chairman 2012, stepped down July 2023
+    - org: stripe
+      role: board
+      note: Board member via Sequoia Capital
     - org: yahoo
       role: advisor
       from: 1995
@@ -46039,6 +47468,119 @@ persons:
       role: board
       from: 2021
       note: Board of Advisors
+  michele-geraci:
+    tagline: Architetto del MoU Italia-Cina BRI 2019, ex Sottosegretario MISE, 10 anni in Cina, revolving door finanza-accademia-politica
+    born: 1967
+    nationality: ITA
+    note: Economist, former Undersecretary MISE (Conte I), key architect of Italy-China BRI MoU March 2019. Lived 10 years
+      in China (2008-2018). MIT MBA 1996. Investment banker (Merrill Lynch, BofA, DLJ, Schroders) before academia and politics.
+    affiliations:
+    - org: governo-italia
+      role: minister
+      from: 2018
+      to: 2019
+      note: Sottosegretario Sviluppo Economico
+    - org: bank-of-america
+      role: executive
+      from: 1996
+      to: 2008
+      note: Investment banker (combined Merrill Lynch/BofA period; exact years split not confirmed)
+    - org: bri
+      role: advisor
+      from: 2018
+      to: 2019
+      note: Architetto MoU Italia-Cina, China Task Force
+    - org: merrill-lynch
+      role: executive
+      from: 1996
+      to: 2003
+      note: Investment banking, London/NY/Asia
+    - org: mit
+      role: alumni
+      from: 1994
+      to: 1996
+      note: MBA 1996, Sloan School of Management
+    - org: schroders
+      role: executive
+      from: 1996
+      to: 2008
+      note: Investment banking
+    - org: zhejiang-university
+      role: faculty
+      from: 2008
+      to: 2018
+      note: Adjunct Professor of Finance
+    - org: peking-university
+      role: faculty
+      from: 2019
+      note: Honorary Professor, School of Economics
+    - org: lega
+      role: member
+      from: 2018
+      to: 2019
+      note: Reclutato da Salvini per competenza sulla Cina
+    - org: university-palermo
+      role: student
+      from: 1984
+      to: 1990
+      note: Laurea con lode in Ingegneria Elettronica
+    - org: nyu-shanghai
+      role: faculty
+      from: 2008
+      note: Adjunct Professor of Finance
+    - org: nottingham-ningbo
+      role: faculty
+      from: 2008
+      to: 2018
+      note: Assistant Professor of Finance, poi Visiting Professor dal 2020
+    - org: dlj
+      role: executive
+      from: 1996
+      to: 2008
+      note: Donaldson, Lufkin & Jenrette - investment banking
+    - org: british-telecom
+      role: executive
+      from: 1991
+      to: 1994
+      note: Electronic engineer, Satellite Planning unit
+    - org: global-policy-institute
+      role: member
+      from: 2008
+      note: Head of GPI China, Senior Research Fellow
+    - org: movimento-indipendenza
+      role: leader
+      from: 2023
+      note: Head of Foreign Affairs and International Trade Department. Pro-multipolar Italy movement.
+    - org: southwestern-univ-finance-chengdu
+      role: professor
+      from: 2008
+      to: 2018
+      note: Short-term appointment, Chengdu
+    - org: mise
+      role: minister
+      from: 2018
+      to: 2019
+      note: Sottosegretario di Stato MISE (Undersecretary of State for International Trade and Foreign Direct Investment).
+        Appointed 13 June 2018, ended 4 September 2019. Conte I cabinet (M5S-Lega). Created China Task Force. Architect of
+        Italy-China BRI MoU signed 23 March 2019.
+    - org: universita-palermo
+      role: alumni
+      note: Laurea Ingegneria Elettronica con lode
+    - org: task-force-china
+      role: leader
+      from: 2018
+      to: 2019
+      note: Coordinatore, Sottosegretario MISE
+    relations:
+    - person: giuseppe-conte
+      type: colleague
+      note: Sottosegretario nel governo Conte I
+    - person: luigi-di-maio
+      type: colleague
+      note: Di Maio firmo il MoU BRI, Geraci ne fu architetto tecnico sotto il MISE di Di Maio
+    - person: matteo-salvini
+      type: protege
+      note: Salvini lo recluto nel 2018 per esperienza Cina
   michele-sindona:
     nationality: ITA
     affiliations:
@@ -48581,6 +50123,29 @@ persons:
     - org: regavim
       role: executive
       note: International Director
+  napoleon-ta:
+    tagline: Partner Founders Fund, ex poker professionista, growth investor in AI e enterprise software
+    nationality: USA
+    affiliations:
+    - org: founders-fund
+      role: partner
+      note: Partner, growth investing. Fund director. Ruolo chiave nella strategia crypto (early Bitcoin investment)
+    - org: stanford
+      role: alumni
+      note: MBA
+    - org: rippling
+      role: board
+      from: 2020
+      note: Board member via Founders Fund
+    - org: university-of-colorado
+      role: alumni
+      note: BS
+    - org: cognition
+      role: board
+      note: Board member
+    - org: persona
+      role: board
+      note: Board member
   narayana-murthy:
     tagline: Fondatore Infosys, padre del settore IT indiano, connettore India-UK via genero Rishi Sunak
     born: 1946
@@ -49828,6 +51393,9 @@ persons:
     born: 1968
     nationality: USA
     note: US Ambassador Bahamas 2009-11 (Obama); Obama bundler $800K+; daughter of Clarence Avant (Motown)
+  nicole-edelmann:
+    tagline: Cosplayer e content creator, moglie di Palmer Luckey
+    nationality: USA
   nicole-junkermann:
     tagline: Investitrice tedesca, fondatrice NJF Capital, nodo chiave nella rete Epstein-Barak-tech israeliana
     born: 1975
@@ -50153,6 +51721,44 @@ persons:
     - org: boston-college
       role: alumni
       note: MS Finance
+  niklas-zennstrom:
+    tagline: Co-fondatore Skype e Kazaa, fondatore Atomico VC, filantropo clima e diritti umani
+    born: 1966
+    nationality: SWE
+    affiliations:
+    - org: wef
+      role: member
+    - org: tele2
+      role: employee
+      from: 1991
+      to: 1999
+    - org: university-of-michigan
+      role: alumni
+      note: Exchange student
+    - org: human-rights-watch
+      role: board
+      note: Vice Chair International Board
+    - org: uppsala-university
+      role: alumni
+      note: BSc Business Administration, MSc Engineering Physics
+    - org: skype
+      role: founder
+      from: 2003
+      note: Co-founder con Janus Friis
+    - org: atomico
+      role: founder
+      from: 2006
+      note: Founding Partner & CEO
+    relations:
+    - person: ahti-heinla
+      type: colleague
+      note: Co-fondatori Skype
+    - person: jaan-tallinn
+      type: colleague
+      note: Co-fondatori Skype
+    - person: janus-friis
+      type: associate
+      note: Co-fondatori Kazaa, Skype, Joost
   nikolai-bukharin:
     born: 1888
     died: 1938
@@ -51611,6 +53217,46 @@ persons:
       type: daughter
     - person: yingluck-shinawatra
       type: niece
+  palmer-luckey:
+    tagline: Fondatore Oculus VR e Anduril Industries, CTO defense-tech, protege di Thiel
+    born: 1992
+    nationality: USA
+    affiliations:
+    - org: meta
+      role: founder
+      from: 2014
+      to: 2017
+      note: Oculus VR founder, acquired by Facebook for $2B
+    - org: usc
+      role: researcher
+      from: 2011
+      to: 2012
+      note: Part-time engineer, Mixed Reality Lab (MxR), Institute for Creative Technologies
+    - org: anduril
+      role: founder
+      from: 2017
+      note: CTO
+    - org: oculus-vr
+      role: founder
+      from: 2012
+      to: 2014
+      note: Fondatore, Kickstarter $2.4M, acquisita da Facebook $2B Mar 2014
+    relations:
+    - person: john-carmack
+      type: mentor
+      note: Carmack promosse Oculus Rift a E3 2012, poi CTO Oculus VR
+    - person: mark-bolas
+      type: mentor
+      note: Direttore MxR Lab USC, mentore di Luckey nel VR low-cost
+    - person: nicole-edelmann
+      type: spouse
+      note: Sposati 2019, incontrati al debate camp da adolescenti
+    - person: peter-thiel
+      type: mentor
+      note: Thiel e Founders Fund principali investitori Anduril, patron/protege
+    - person: trae-stephens
+      type: associate
+      note: Co-fondatore Anduril. Incontro a Sonora Island (Founders Fund retreat) giugno 2014
   palmiro-togliatti:
     nationality: ITA
     affiliations:
@@ -51891,6 +53537,34 @@ persons:
       note: WEF Annual Meeting 2016
     - org: iz-hero-lab
       role: founder
+  parker-conrad:
+    tagline: CEO Rippling, ex CEO Zenefits, compound startup pioneer
+    born: 1980
+    nationality: USA
+    affiliations:
+    - org: y-combinator
+      role: member
+      from: 2012
+      note: YC batch con Zenefits
+    - org: harvard
+      role: alumni
+      note: BA Chemistry
+    - org: rippling
+      role: founder
+      from: 2016
+      note: Co-founder & CEO
+    - org: collegiate-school
+      role: alumni
+      note: High school
+    - org: zenefits
+      role: founder
+      from: 2012
+      to: 2016
+      note: Co-founder & CEO. Dimissioni feb 2016 per scandalo brokers non autorizzati
+    relations:
+    - person: peter-thiel
+      type: mentor
+      note: Thiel consiglio Conrad su Zenefits/insurance revenues. Thiel nel board Zenefits post-Conrad
   parker-harris:
     tagline: 'Co-fondatore di Salesforce e architetto del cloud CRM: il tecnologo dietro la piattaforma enterprise piu'' grande
       al mondo'
@@ -52074,6 +53748,7 @@ persons:
     - org: wef
       role: ygl
   patrick-collison:
+    tagline: Co-fondatore e CEO di Stripe, board member Meta, dropout MIT
     born: 1988
     nationality: IRL
     affiliations:
@@ -52081,6 +53756,9 @@ persons:
       role: board
       from: 2025
       note: Director
+    - org: mit
+      role: alumni
+      note: Dropout 2010
     - org: stripe
       role: founder
       from: 2010
@@ -52089,6 +53767,15 @@ persons:
       role: member
       from: 2010
       note: S2010 batch (Stripe)
+    relations:
+    - person: john-collison
+      type: family
+      note: brother
+  patrick-deneen:
+    nationality: USA
+    affiliations:
+    - org: edmund-burke-foundation
+      role: fellow
   patrick-frost:
     born: 1968
     nationality: CHE
@@ -52395,6 +54082,8 @@ persons:
       role: founder
       from: 2005
       note: Co-founder, GP, CFO
+  paul-dans:
+    nationality: USA
   paul-deighton:
     born: 1956
     nationality: GBR
@@ -52644,6 +54333,13 @@ persons:
       role: leader
       from: 2023
       note: Deputy President
+  paul-merolla:
+    nationality: USA
+    affiliations:
+    - org: neuralink
+      role: founder
+      from: 2016
+      note: Co-Founder, chip designer ex-IBM
   paul-nakasone:
     tagline: 'Ex direttore NSA e Cyber Command, ora nel board OpenAI: il ponte tra intelligence USA e Big Tech AI'
     born: 1963
@@ -52932,15 +54628,41 @@ persons:
       to: 1914
       note: Partner, left to join Federal Reserve Board
   paul-weyrich:
+    tagline: 'Padre della New Right americana: co-fondatore Heritage Foundation, ALEC, Moral Majority, Free Congress Foundation,
+      Council for National Policy'
     born: 1942
     died: 2008
     nationality: USA
     affiliations:
+    - org: governo-usa
+      role: official
+      from: 1966
+      to: 1973
+      note: Press secretary to Sen. Gordon Allott (R-CO)
     - org: heritage-foundation
       role: founder
       from: 1973
       to: 2008
       note: Co-Founder; First President
+    - org: alec
+      role: founder
+      from: 1973
+      note: Co-founder; first director 1975-1978
+    - org: free-congress-foundation
+      role: founder
+      from: 1977
+      note: Founder and Chairman
+    - org: moral-majority
+      role: founder
+      from: 1979
+      note: Co-founder; coined the term "moral majority"
+    - org: council-national-policy
+      role: founder
+      from: 1981
+      note: Co-founder with Tim LaHaye and Richard Viguerie
+    - org: university-wisconsin
+      role: alumni
+      note: Attended UW-Racine 1960-1962, did not graduate
   paul-wolfowitz:
     tagline: Architetto intellettuale della Guerra in Iraq, teorico neoconservatore, allievo di Leo Strauss
     born: 1943
@@ -53825,6 +55547,9 @@ persons:
     - org: wef
       role: ygl
       from: 2007
+    - org: spacex
+      role: investor
+      note: Investor
     - org: palantir
       role: founder
       from: 2003
@@ -53851,10 +55576,20 @@ persons:
     - org: stanford-university
       role: alumni
       note: BA Philosophy 1989, JD Law 1992, founded Stanford Review
+    - org: spotify
+      role: investor
+      note: Early investor
+    - org: stripe
+      role: shareholder
+      from: 2011
+      note: Early investor
     - org: clarium-capital
       role: founder
       from: 2003
       note: Hedge fund
+    - org: airbnb
+      role: investor
+      note: Early investor
     - org: sun-valley-conference
       role: member
       note: Attendee
@@ -53865,19 +55600,68 @@ persons:
     - org: thiel-capital
       role: founder
       note: Family office
+    - org: mithril-capital
+      role: founder
+      from: 2012
+      note: Co-founded with Ajay Royan and Jim O'Neill
+    - org: valar-ventures
+      role: founder
+      from: 2010
+      note: Spinoff da Thiel Capital, focus fintech internazionale
+    - org: pronomos-capital
+      role: investor
+      note: Backer di Próspera charter city Honduras
+    - org: quantum-systems
+      role: investor
+      from: 2025
+      note: Series C Nov 2025, via Founders Fund
+    - org: varda-space
+      role: advisor
+      note: Personal investor, Series C
+    - org: zenefits
+      role: board
+      from: 2016
+      note: Board member post-dimissioni Conrad
     relations:
     - person: alex-karp
       type: colleague
       note: Stanford Law School classmates, Palantir co-founders
+    - person: blake-masters
+      type: mentor
+      note: Co-authored Zero to One, COO Thiel Capital, funded Senate campaign ($20M)
     - person: david-sacks
       type: colleague
       note: PayPal Mafia, Sacks was COO
     - person: elon-musk
       type: colleague
       note: PayPal co-founders, Thiel replaced Musk as CEO 2000
+    - person: jacob-helberg
+      type: mentor
+      note: Ex-Palantir, Thiel protégé nel governo Trump 2025
     - person: jd-vance
       type: mentor
-      note: Thiel mentored Vance since 2011, $15M donation 2022, VP 2024
+      note: Thiel mentored Vance at Yale, funded Narya Capital and Senate campaign ($15M)
+    - person: jeffrey-epstein
+      type: business
+      note: Epstein LP in Valar Ventures ($40M+, 2015-2019), relazione contestata
+    - person: keith-rabois
+      type: colleague
+      note: PayPal Mafia, Stanford Law classmate
+    - person: ken-howery
+      type: colleague
+      note: PayPal co-founder, Founders Fund co-founder
+    - person: max-levchin
+      type: colleague
+      note: PayPal co-founder, CTO
+    - person: michael-kratsios
+      type: mentor
+      note: Ex Thiel Capital, OSTP Director 2025
+    - person: palmer-luckey
+      type: mentor
+      note: Thiel funded Anduril via Founders Fund
+    - person: trae-stephens
+      type: mentor
+      note: Thiel Fellow, Founders Fund partner, co-founded Anduril
   peter-thomson:
     born: 1965
     nationality: CAN
@@ -54131,6 +55915,13 @@ persons:
     - org: kings-trust-international
       role: board
       note: Trustee
+  philip-sabes:
+    nationality: USA
+    affiliations:
+    - org: neuralink
+      role: founder
+      from: 2016
+      note: Co-Founder, neuroscientist UCSF
   philipp-hildebrand:
     born: 1963
     nationality: CHE
@@ -55139,6 +56930,36 @@ persons:
       from: 1988
       to: 2022
       note: Co-founder, Executive Co-Chairman. Sold stake to Adani
+  prasanna-sankar:
+    tagline: Co-Founder & CTO Rippling, ex-Zenefits engineer, top competitive programmer indiano
+    born: 1986
+    nationality: IND-USA
+    affiliations:
+    - org: microsoft
+      role: member
+      from: 2008
+      to: 2012
+      note: Software Developer, Bing crawler
+    - org: google
+      role: member
+      from: 2006
+      note: Intern 2006
+    - org: rippling
+      role: founder
+      from: 2016
+      note: Co-Founder & CTO
+    - org: zenefits
+      role: executive
+      from: 2015
+      to: 2016
+      note: Director of Engineering
+    - org: nit-tiruchirappalli
+      role: alumni
+      note: B.Tech Computer Science 2008
+    relations:
+    - person: parker-conrad
+      type: colleague
+      note: Co-founders Rippling; colleghi a Zenefits 2015-16
   prashanth-chandrasekar:
     nationality: USA
     affiliations:
@@ -55188,6 +57009,13 @@ persons:
     - org: skull-and-bones
       role: member
       from: 1917
+  priit-kasesalu:
+    nationality: EST
+    affiliations:
+    - org: skype
+      role: founder
+      from: 2003
+      note: Founding engineer, sviluppatore core
   prince-andrew:
     tagline: Membro della famiglia reale britannica, ex inviato commerciale UK, figura centrale nello scandalo Epstein
     born: 1960
@@ -57407,12 +59235,57 @@ persons:
       type: colleague
       note: Defence-Foreign Affairs axis, AUKUS co-architects
   richard-mellon-scaife:
+    tagline: Erede della fortuna Mellon, editore del Pittsburgh Tribune-Review, finanziatore strategico del movimento conservatore
+      USA ($1.4B in donazioni)
     born: 1932
+    died: 2014
     nationality: USA
     affiliations:
+    - org: hudson-institute
+      role: board
+      note: Major donor via Sarah Scaife Foundation
     - org: heritage-foundation
       role: board
       note: Vice Chairman; major donor via Sarah Scaife Foundation ($23M+)
+    - org: yale
+      role: alumni
+      note: Expelled; did not complete degree
+    - org: hoover-institution
+      role: board
+      note: Board member; major donor from 1963
+    - org: manhattan-institute
+      role: board
+      note: Major donor via Scaife foundations
+    - org: university-of-pittsburgh
+      role: alumni
+      note: BA English 1957
+    - org: sarah-scaife-foundation
+      role: chairman
+      note: Chairman; principale veicolo di finanziamento conservatore
+    - org: carthage-foundation
+      role: chairman
+      note: Chairman; fondata dal padre
+    - org: allegheny-foundation
+      role: chairman
+      note: Chairman
+    - org: pittsburgh-tribune-review
+      role: executive
+      from: 1970
+      to: 2014
+      note: Owner and Publisher
+    - org: american-enterprise-institute
+      role: board
+      note: Major donor from 1963 via Scaife foundations
+    - org: federalist-society
+      role: board
+      note: Important patron via Scaife foundations
+    relations:
+    - person: edwin-feulner
+      type: associate
+      note: Feulner Officer nella Sarah Scaife Foundation; co-fondatore Heritage
+    - person: paul-weyrich
+      type: associate
+      note: Co-finanziatore Heritage Foundation
   richard-nixon:
     born: 1913
     died: 1994
@@ -58532,6 +60405,59 @@ persons:
       role: president
       from: 1975
       to: 1982
+  roberto-campos:
+    tagline: Economista, diplomatico e ministro della pianificazione sotto Castelo Branco
+    born: 1917
+    died: 2001
+    nationality: BRA
+  roberto-campos-neto:
+    tagline: Ex presidente Banco Central do Brasil (2019-2024), Vice Chairman Nubank, nipote del ministro Roberto Campos
+    born: 1969
+    nationality: BRA
+    affiliations:
+    - org: wef
+      role: board
+      from: 2025
+      note: Board of Trustees
+    - org: santander-brasil
+      role: executive
+      from: 2000
+      to: 2018
+      note: Head Treasury & International Markets
+    - org: banco-central-brasil
+      role: leader
+      from: 2019
+      to: 2024
+      note: Presidente
+    - org: governo-brasil
+      role: official
+      from: 2019
+      to: 2024
+      note: Presidente Banco Central, nominato da Bolsonaro
+    - org: ucla
+      role: alumni
+      note: BA Economics
+    - org: ucla
+      role: alumni
+      note: MA Economics
+    - org: milken-institute
+      role: board
+      from: 2025
+      note: Board of Directors
+    - org: caltech
+      role: alumni
+      note: MA Applied Mathematics
+    - org: nubank
+      role: chairman
+      from: 2025
+      note: Vice Chairman & Global Head of Public Policy
+    relations:
+    - person: david-velez
+      type: associate
+      note: Recruited by Velez as Vice Chairman of Nubank after leaving BCB
+    - person: roberto-campos
+      type: family
+      note: nipote (grandson)
   roberto-cingolani:
     tagline: 'Da fisico a ministro a CEO della difesa: il tecnocrate che incarna il revolving door italiano tra scienza, governo
       e industria strategica.'
@@ -59727,6 +61653,11 @@ persons:
       role: executive
       from: 2023
       note: CEO since Feb 2023, President 2013-2023
+  ryan-williams:
+    nationality: USA
+    affiliations:
+    - org: claremont-institute
+      role: executive
   s-jaishankar:
     tagline: Il diplomatico-politico che ha ridefinito la politica estera indiana nell'era Modi
     born: 1955
@@ -61029,6 +62960,28 @@ persons:
     - person: mike-pompeo
       type: associate
       note: co-advisors at DYNE Maritime; AUKUS-era allies
+  scott-nolan:
+    tagline: Partner Founders Fund, CEO General Matter, ex early engineer SpaceX, hard tech e nuclear
+    nationality: USA
+    affiliations:
+    - org: spacex
+      role: executive
+      note: Early employee. Merlin engine development, Dragon subsystems, factory scaling
+    - org: founders-fund
+      role: partner
+      note: 'Partner, 13+ anni. Focus hard tech: energy, infrastructure, aerospace, defense. Ha incubato General Matter'
+    - org: stanford
+      role: alumni
+      note: MBA
+    - org: bain
+      role: executive
+      note: Consulenza private equity clients
+    - org: cornell
+      role: alumni
+      note: BS + MS Mechanical and Aerospace Engineering
+    - org: general-matter
+      role: founder
+      note: CEO. Incubata dentro Founders Fund
   scott-nuttall:
     nationality: USA
     affiliations:
@@ -61058,6 +63011,18 @@ persons:
       from: 2012
       to: 2012
       note: CEO, dimesso per resume fraud
+  scott-wu:
+    tagline: CEO e co-founder Cognition (Devin), 3x IOI gold, MathCounts champion
+    born: 1997
+    nationality: USA
+    affiliations:
+    - org: harvard
+      role: alumni
+      note: Economics
+    - org: cognition
+      role: founder
+      from: 2023
+      note: CEO & Co-founder
   sean-cairncross:
     nationality: USA
     affiliations:
@@ -62184,6 +64149,15 @@ persons:
     - org: amref
       role: chairman
       note: International Board Chairperson
+  sheila-krumholz:
+    tagline: Direttrice esecutiva OpenSecrets 2006-2023
+    nationality: USA
+    affiliations:
+    - org: opensecrets
+      role: executive
+      from: 2006
+      to: 2023
+      note: Executive Director
   sheldon-adelson:
     born: 1933
     died: 2021
@@ -63008,6 +64982,13 @@ persons:
       role: executive
       from: 2023
       note: CEO
+  sohrab-ahmari:
+    born: 1985
+    nationality: IRN-USA
+    affiliations:
+    - org: compact-magazine
+      role: founder
+      from: 2022
   soichiro-honda:
     born: 1906
     died: 1991
@@ -63070,6 +65051,9 @@ persons:
     - person: khamtay-siphandone
       type: child
       note: Figlio di Khamtay Siphandone (Presidente Laos 1998-2006)
+  song-ping:
+    born: 1917
+    nationality: CHN
   sonia-gandhi:
     tagline: L'italiana che ha guidato la piu' grande democrazia del mondo senza governarla
     born: 1946
@@ -63552,6 +65536,43 @@ persons:
       role: founder
       from: 1995
       note: Founder, largest shareholder ~15%
+  sten-tamkivi:
+    tagline: Ex Skype GM Estonia, co-fondatore Teleport e Plural, ponte Estonia-Silicon Valley
+    born: 1978
+    nationality: EST
+    affiliations:
+    - org: a16z
+      role: advisor
+      from: 2013
+      to: 2014
+      note: Entrepreneur-in-Residence
+    - org: stanford
+      role: alumni
+      note: MS Management (Sloan) 2013
+    - org: university-of-tartu
+      role: alumni
+      note: Undergraduate
+    - org: plural
+      role: founder
+      from: 2022
+      note: Co-founder & General Partner
+    - org: skype
+      role: executive
+      from: 2004
+      to: 2012
+      note: General Manager & Site Leader Estonia, grew office from 50 to 400
+    - org: teleport
+      role: founder
+      from: 2014
+      to: 2017
+      note: Co-founder & CEO
+    relations:
+    - person: niklas-zennstrom
+      type: colleague
+      note: Ex Skype
+    - person: taavet-hinrikus
+      type: colleague
+      note: Co-fondatori Taavet+Sten e Plural
   stephan-gratziani:
     tagline: 'Da ciclista professionista a distributore Herbalife a CEO: il primo distributore a guidare l''azienda dopo il
       fondatore Mark Hughes'
@@ -63759,6 +65780,25 @@ persons:
       role: board
       from: 2023
       note: Governor, Chair Audit & Risk Committee
+  stephen-oskoui:
+    tagline: Co-founder Gigafund, ex Founders Fund, ex CEO Smiley Media, supporter Ron Paul
+    born: 1979
+    nationality: USA
+    affiliations:
+    - org: founders-fund
+      role: partner
+      note: Venture Partner
+    - org: stanford
+      role: alumni
+      note: Computer Science
+    - org: gigafund
+      role: founder
+      from: 2017
+      note: Co-founder & Managing Partner
+    relations:
+    - person: luke-nosek
+      type: colleague
+      note: Co-founded Gigafund 2017, both ex Founders Fund
   stephen-pagliuca:
     tagline: Private equity titan e proprietario di franchise sportive transatlantiche
     born: 1955
@@ -63941,7 +65981,7 @@ persons:
       role: advisor
       from: 2017
       to: 2017
-      note: Chief Strategist and Senior Counselor to the President (Jan-Aug 2017)
+      note: WH Chief Strategist
     - org: cambridge-analytica
       role: board
       from: 2014
@@ -64037,6 +66077,8 @@ persons:
     - person: paul-tudor-jones
       type: colleague
       note: Co-board Robin Hood Foundation; entrambi legende hedge fund NYC
+  steve-forbes:
+    nationality: USA
   steve-jobs:
     born: 1955
     died: 2011
@@ -64059,6 +66101,12 @@ persons:
     - person: larry-ellison
       type: friend
       note: Best friends, Ellison nominato board Apple 1997, vacanze insieme a Hawaii
+  steve-jurvetson:
+    nationality: USA
+    affiliations:
+    - org: spacex
+      role: board
+      note: Board member, DFJ
   steve-koltes:
     nationality: USA
     affiliations:
@@ -64165,6 +66213,25 @@ persons:
       role: minister
       from: 2025
       note: Minister of Canadian Identity and Culture
+  steven-hao:
+    tagline: CTO e co-founder Cognition (Devin), IOI gold 2014, ex Scale AI early engineer, MIT
+    born: 1996
+    nationality: USA
+    affiliations:
+    - org: mit
+      role: alumni
+      note: Mathematics and Computer Science
+    - org: scale-ai
+      role: executive
+      note: Early engineer
+    - org: cognition
+      role: founder
+      from: 2023
+      note: Co-founder
+    relations:
+    - person: scott-wu
+      type: colleague
+      note: Co-founded Cognition 2023, both IOI gold 2014
   steven-kalmin:
     nationality: AUS
     note: CFO Glencore dal 2005
@@ -65008,6 +67075,37 @@ persons:
       from: 1902
       to: 1915
       note: President
+  taavet-hinrikus:
+    tagline: Co-fondatore Wise, primo dipendente Skype, investitore e fondatore Plural
+    born: 1981
+    nationality: EST
+    affiliations:
+    - org: wef
+      role: ygl
+      note: Young Global Leader
+    - org: european-commission
+      role: board
+      note: European Innovation Council Board
+    - org: insead
+      role: alumni
+      note: MBA 2010
+    - org: wise
+      role: founder
+      from: 2011
+      to: 2021
+      note: Co-founder, Chairman fino al 2021
+    - org: tallinn-university-of-technology
+      role: alumni
+      note: Computer Science 1999-2003
+    - org: plural
+      role: founder
+      from: 2022
+      note: Co-founder & General Partner
+    - org: skype
+      role: executive
+      from: 2003
+      to: 2008
+      note: Primo dipendente, Director of Strategy
   tad-watroba:
     nationality: AUS
     affiliations:
@@ -66286,6 +68384,11 @@ persons:
       role: board
       from: 2023
       note: Board of Directors
+  thomas-klingenstein:
+    nationality: USA
+    affiliations:
+    - org: claremont-institute
+      role: board
   thomas-lamont:
     tagline: Banchiere J.P. Morgan, "missionario" del fascismo italiano, architetto del prestito da 100 milioni di dollari
       a Mussolini
@@ -66642,6 +68745,20 @@ persons:
       from: 2013
       to: 2019
       note: Senior Director Health, Nutrition, Population
+  tim-gardner:
+    nationality: USA
+    affiliations:
+    - org: neuralink
+      role: founder
+      from: 2016
+      note: Co-Founder, neuroscientist Boston University
+  tim-hanson:
+    nationality: USA
+    affiliations:
+    - org: neuralink
+      role: founder
+      from: 2016
+      note: Co-Founder
   tim-koogle:
     nationality: USA
     affiliations:
@@ -66924,6 +69041,13 @@ persons:
     - person: erik-seidenfaden
       type: child
       note: Father-son
+  toivo-annus:
+    nationality: EST
+    affiliations:
+    - org: skype
+      role: founder
+      from: 2003
+      note: Co-founder, ideatore VoIP P2P con Friis
   tom-arseneault:
     tagline: President & CEO di BAE Systems Inc, veterano dell'elettronica difesa
     born: 1962
@@ -67113,6 +69237,8 @@ persons:
       role: chairman
       to: 2009
       note: Chairman during bailout
+  tom-mueller:
+    nationality: USA
   tom-palmer:
     nationality: AUS
     affiliations:
@@ -67614,6 +69740,39 @@ persons:
     - org: meta
       role: board
       note: Director
+  trae-stephens:
+    tagline: Founders Fund partner, co-founder Anduril, led Trump DOD transition 2016
+    born: 1983
+    nationality: USA
+    affiliations:
+    - org: governo-usa
+      role: advisor
+      from: 2016
+      to: 2017
+      note: Trump transition team, led DOD transition
+    - org: palantir
+      role: executive
+      from: 2008
+      to: 2014
+      note: Led defense/intelligence growth
+    - org: founders-fund
+      role: partner
+      from: 2014
+      note: Partner, focus defense/government tech
+    - org: anduril
+      role: founder
+      from: 2017
+      note: Executive Chairman
+    - org: georgetown
+      role: alumni
+      note: SFS, Regional & Comparative Studies (Middle East) 2005
+    - org: varda-space
+      role: founder
+      from: 2020
+    - org: valinor
+      role: founder
+      from: 2024
+      note: Co-fondatore con Julie Bush, Paul Kwan, Grant Verstandig
   traian-basescu:
     born: 1951
     nationality: ROU
@@ -67772,6 +69931,13 @@ persons:
       role: founder
       from: 2011
       note: Co-founder, Managing Partner
+  tucker-carlson:
+    born: 1969
+    nationality: USA
+    affiliations:
+    - org: fox-news
+      role: executive
+      to: 2023
   tufan-erginbilgic:
     nationality: GBR-TUR
     affiliations:
@@ -68233,6 +70399,13 @@ persons:
       from: 1995
       to: 2000
       note: Co-Chair
+  vanessa-tolosa:
+    nationality: USA
+    affiliations:
+    - org: neuralink
+      role: founder
+      from: 2016
+      note: Co-Founder, biocompatible materials
   vannevar-bush:
     tagline: 'L''architetto del complesso militare-scientifico americano: primo science advisor presidenziale, direttore del
       Manhattan Project, inventore che prefiguro'' internet.'
@@ -69359,6 +71532,30 @@ persons:
     - org: wef
       role: ygl
       from: 2023
+  walden-yan:
+    tagline: Co-founder Cognition, IOI gold 2020, Thiel Fellow, ex Cursor/Anysphere, Harvard dropout
+    born: 2002
+    nationality: USA
+    affiliations:
+    - org: harvard
+      role: alumni
+      note: Dropout (Thiel Fellow)
+    - org: thiel-fellowship
+      role: member
+      note: Thiel Fellow
+    - org: cognition
+      role: founder
+      from: 2023
+      note: Co-founder
+    - org: anysphere
+      role: executive
+      from: 2023
+      to: 2023
+      note: Early engineer (Cursor)
+    relations:
+    - person: scott-wu
+      type: colleague
+      note: Co-founded Cognition 2023
   waleed-al-ibrahim:
     nationality: SAU
     note: MBC founder. Detained Ritz-Carlton 2017. Now minority shareholder
@@ -69641,6 +71838,9 @@ persons:
       role: minister
       from: 2023
       note: Foreign Minister (reinstated after Qin Gang)
+    - org: bri
+      role: executive
+      note: Diplomatic coordination
   wang-zhiheng:
     born: 1973
     nationality: CHN
@@ -69847,6 +72047,39 @@ persons:
       role: founder
       from: 1836
       note: Ideologue, utopian communist
+  will-bruey:
+    tagline: CEO & Co-Founder Varda Space Industries, ex-SpaceX lead avionics engineer, Cornell alumni
+    born: 1989
+    nationality: USA
+    affiliations:
+    - org: spacex
+      role: executive
+      from: 2012
+      to: 2018
+      note: Lead Hardware Dev Engineer / Spacecraft Operator, Dragon avionics, 8 ISS missions
+    - org: bank-of-america
+      role: executive
+      from: 2018
+      to: 2020
+      note: Director, Global Equities Technology
+    - org: cornell
+      role: alumni
+      note: BS Engineering Physics 2011, MEng Systems Engineering
+    - org: varda-space
+      role: founder
+      from: 2021
+      note: CEO & Co-Founder
+    - org: also-capital
+      role: founder
+      from: 2019
+      note: Co-Founder & Partner
+    relations:
+    - person: delian-asparouhov
+      type: colleague
+      note: Co-founders Varda Space Industries
+    - person: trae-stephens
+      type: colleague
+      note: Co-founders Varda Space Industries
   will-straw:
     born: 1980
     nationality: GBR
@@ -70678,6 +72911,9 @@ persons:
       role: leader
       from: 2012
       note: General Secretary
+    - org: bri
+      role: founder
+      from: 2013
   xiong-qunli:
     nationality: CHN
     affiliations:
@@ -70823,6 +73059,56 @@ persons:
       role: chairman
       from: 2015
       to: 2019
+  yang-jiechi:
+    tagline: Top diplomat cinese, Foreign Minister (2007-13), direttore Central Foreign Affairs Commission (2013-22), legame
+      storico con famiglia Bush
+    born: 1950
+    nationality: CHN
+    affiliations:
+    - org: governo-cina
+      role: minister
+      from: 2007
+      to: 2013
+      note: Foreign Minister (2007-13)
+    - org: governo-cina
+      role: executive
+      from: 2013
+      to: 2022
+      note: State Councilor, Director Central Foreign Affairs Commission
+    - org: governo-cina
+      role: ambassador
+      from: 2001
+      to: 2005
+      note: Ambassador to the United States
+    - org: governo-cina
+      role: executive
+      from: 2017
+      to: 2022
+      note: Politburo member
+    - org: bri
+      role: executive
+      from: 2018
+      to: 2023
+      note: BRI Leading Group Deputy
+    - org: lse
+      role: alumni
+      note: International Relations 1973-75
+    - org: university-of-bath
+      role: alumni
+      note: International Relations 1973-75
+    - org: nanjing-university
+      role: alumni
+      note: PhD World History 2006
+    relations:
+    - person: george-hw-bush
+      type: colleague
+      note: Personal friendship from 1977 Tibet trip, Yang was his translator; maintained lifelong connection with Bush family
+    - person: wang-yi
+      type: successor
+      note: Wang Yi succeeded Yang as Director CFAC (2023) and as Foreign Minister (2007)
+    - person: xi-jinping
+      type: colleague
+      note: Top diplomat di Xi, direttore CFAC sotto la sua leadership
   yang-mu-megvii:
     nationality: CHN
     affiliations:
@@ -71580,6 +73866,13 @@ persons:
     - org: israel-diamond-exchange
       role: chairman
       to: 2021
+  yoram-hazony:
+    born: 1964
+    nationality: ISR-USA
+    affiliations:
+    - org: edmund-burke-foundation
+      role: chairman
+      from: 2019
   yosef-burg:
     born: 1909
     died: 1999
@@ -72512,6 +74805,9 @@ persons:
       role: chairman
       from: 2022
       note: Chairwoman
+    - org: pboc
+      role: executive
+      note: Former DG International Department
   zhu-long:
     born: 1980
     nationality: CHN

@@ -134,6 +134,7 @@ Report che analizzano specifici settori economici.
 | [Microsoft Geopolitical Hub](microsoft-geopolitical-hub.md) | 2007-2025 | Microsoft e geopolitica |
 | [AI Power Map](ai-power.md) | 2010-2026 | OpenAI, Anthropic, DeepSeek, ByteDance, corsa AGI |
 | [Silicon Valley Power Map](silicon-valley-power-map.md) | 1939-2026 | Stanford, VC, PayPal Mafia, AI labs, forum locali |
+| [Skype Mafia](skype-mafia.md) | 2003-2026 | Ecosistema estone, Wise, Atomico, Plural, AI safety |
 | [Open Source Power Map](open-source-power.md) | 1983-2026 | GNU, Linux Foundation, corporate capture, licensing wars, geopolitica |
 
 ### Crypto
@@ -345,6 +346,7 @@ Analisi di industrie specifiche:
 - [Media Power](media-power.md)
 - [Pharma Power](pharma-power.md)
 - [Open Source Power Map](open-source-power.md)
+- [Skype Mafia](skype-mafia.md)
 - [Belt and Road Initiative](belt-and-road-initiative.md)
 - [Sport Geopolitics](sport-geopolitics.md)
 

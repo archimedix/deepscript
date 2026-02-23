@@ -85,6 +85,12 @@ organizations:
     founded: 2009
     headquarters: Menlo Park, USA
     status: active
+    stakeholders:
+    - person: sten-tamkivi
+      role: advisor
+      from: 2013
+      to: 2014
+      note: Entrepreneur-in-Residence
   a2a:
     name: A2A S.p.A.
     type: company
@@ -1051,6 +1057,17 @@ organizations:
       role: employee
       from: 2010
       note: Senior Principal Scientist (via Day Software acquisition)
+  adolph-coors-foundation:
+    name: Adolph Coors Foundation
+    type: foundation
+    founded: 1975
+    headquarters: Golden, USA
+    status: active
+    stakeholders:
+    - person: joseph-coors
+      role: founder
+      from: 1975
+      note: Co-founded with brother William Coors
   adq:
     tagline: Il fondo sovrano piu' giovane e dinamico di Abu Dhabi, veicolo di diversificazione economica sotto il controllo
       di Sheikh Tahnoun
@@ -1659,10 +1676,10 @@ organizations:
     note: MDB cinese, 111 membri, Cina 26.6% voti
     stakeholders:
     - person: jin-liqun
-      role: executive
+      role: leader
       from: 2016
-      to: 2025
-      note: President & Chair
+      to: 2026
+      note: Inaugural President
     - person: zou-jiayi
       role: executive
       from: 2025
@@ -1916,6 +1933,11 @@ organizations:
     headquarters: San Francisco, California
     status: active
     stakeholders:
+    - person: peter-thiel
+      role: investor
+      note: Early investor
+    - org: founders-fund
+      role: investor
     - org: kleiner-perkins
       role: stake
       note: Investor
@@ -2302,6 +2324,18 @@ organizations:
       role: member
       from: 2014
       to: 2019
+  alec:
+    tagline: Network di legislatori statali conservatori che produce model legislation
+    name: American Legislative Exchange Council
+    type: thinktank
+    founded: 1973
+    headquarters: Arlington, USA
+    status: active
+    stakeholders:
+    - person: paul-weyrich
+      role: founder
+      from: 1973
+      note: Co-founder; first director 1975-1978
   aledade:
     name: Aledade
     type: company
@@ -2517,6 +2551,20 @@ organizations:
       from: 1995
       to: 2009
       note: Presidente AN
+    - person: ignazio-la-russa
+      role: executive
+      from: 1995
+      to: 2009
+      note: Vicepresidente, poi Coordinatore Nazionale, poi leader ad interim
+  allegheny-foundation:
+    name: Allegheny Foundation
+    type: foundation
+    headquarters: Pittsburgh, USA
+    status: active
+    stakeholders:
+    - person: richard-mellon-scaife
+      role: chairman
+      note: Chairman
   allegro:
     name: Allegro.eu S.A.
     type: company
@@ -2805,6 +2853,16 @@ organizations:
     stakeholders:
     - person: andrew-charlton
       role: founder
+  also-capital:
+    tagline: Investment firm co-founded by Will Bruey
+    name: Also Capital
+    type: privateequity
+    status: active
+    stakeholders:
+    - person: will-bruey
+      role: founder
+      from: 2019
+      note: Co-Founder & Partner
   alter-domus:
     tagline: 'Il gigante lussemburghese della fund administration: spin-off da PwC nel 2003, cresciuto fino a $3 trilioni
       AuA, ora controllato da Cinven - esempio di come il Lussemburgo domina i servizi ai fondi alternativi'
@@ -3127,6 +3185,11 @@ organizations:
     founded: 1950
     headquarters: Helsinki, Finland
     sector: Sporting Goods
+  america-first-policy-institute:
+    name: America First Policy Institute
+    type: thinktank
+    founded: 2021
+    headquarters: Washington DC, USA
   america-movil:
     tagline: Telecom empire della famiglia Slim - dominio su America Latina
     name: América Móvil
@@ -3317,6 +3380,16 @@ organizations:
       role: founder
       from: 2010
       note: Co-founder with Karl Rove
+  american-enterprise-institute:
+    name: American Enterprise Institute
+    type: thinktank
+    founded: 1938
+    headquarters: Washington, USA
+    status: active
+    stakeholders:
+    - person: richard-mellon-scaife
+      role: board
+      note: Major donor from 1963 via Scaife foundations
   american-express:
     name: American Express
     type: company
@@ -3736,6 +3809,7 @@ organizations:
     - org: vanguard
       share: 2.0%
   anduril:
+    tagline: Defense-tech company fondata dalla rete Thiel-Palantir, leader in sistemi autonomi e AI militare
     name: Anduril Industries
     type: company
     founded: 2017
@@ -3743,6 +3817,29 @@ organizations:
     status: active
     sector: defense-tech
     stakeholders:
+    - person: trae-stephens
+      role: founder
+      from: 2017
+      note: Executive Chairman
+    - person: palmer-luckey
+      role: founder
+      from: 2017
+      note: CTO
+    - person: brian-schimpf
+      role: founder
+      from: 2017
+      note: CEO
+    - person: matt-grimm
+      role: founder
+      from: 2017
+      note: COO
+    - person: joe-chen
+      role: founder
+      from: 2017
+    - person: matthew-steckman
+      role: executive
+      from: 2018
+      note: CRO → President & Chief Business Officer (2025)
     - org: founders-fund
       role: investor
       from: 2017
@@ -4042,6 +4139,9 @@ organizations:
       role: executive
       from: 2025
       note: Chief Technology Officer
+    - person: jaan-tallinn
+      role: shareholder
+      note: Early investor, AI safety focus
     - org: amazon
       role: stake
       from: 2023
@@ -4113,6 +4213,18 @@ organizations:
       role: founder
       from: 2017
       note: Co-founder
+  anysphere:
+    tagline: Sviluppatore di Cursor, AI-native code editor
+    name: Anysphere
+    type: company
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: walden-yan
+      role: executive
+      from: 2023
+      to: 2023
+      note: Early engineer (Cursor)
   anz-bank:
     tagline: Seconda banca australiana per asset, Big Four. Pivot HSBC verso Oceania.
     name: Australia and New Zealand Banking Group
@@ -4592,6 +4704,12 @@ organizations:
     - person: stanley-fink
       role: board
       note: Trustee Ark Schools
+  ark-invest:
+    tagline: Asset manager focalizzato su innovazione disruptive
+    name: ARK Invest
+    type: assetmanager
+    headquarters: St. Petersburg, USA
+    status: active
   arm:
     name: ARM Holdings
     type: company
@@ -5719,6 +5837,19 @@ organizations:
       from: 2017
       to: 2025
       note: CEO
+  atomico:
+    tagline: VC paneuropeo fondato da Zennström (Skype), $4.7B AUM, 7 fondi, 24 unicorni
+    name: Atomico
+    type: privateequity
+    founded: 2006
+    headquarters: London, GBR
+    status: active
+    sector: finance
+    stakeholders:
+    - person: niklas-zennstrom
+      role: founder
+      from: 2006
+      note: Founding Partner & CEO
   atout-france:
     name: Atout France
     type: agency
@@ -6578,6 +6709,9 @@ organizations:
       from: 2008
       to: 2011
       note: Principal, Dallas/Moscow/London; Head of airline practice Asia-Europe
+    - person: scott-nolan
+      role: executive
+      note: Consulenza private equity clients
   bain-capital:
     tagline: 'La fabbrica di politici: dal fondatore Mitt Romney (candidato presidente, senatore) alla leadership bipartisan'
     name: Bain Capital
@@ -7003,6 +7137,11 @@ organizations:
       from: 2003
       to: 2011
       note: President, longest serving
+    - person: roberto-campos-neto
+      role: leader
+      from: 2019
+      to: 2024
+      note: Presidente
   banco-de-espana:
     name: Banco de Espana
     type: centralbank
@@ -7239,6 +7378,16 @@ organizations:
     - person: jonathan-moulds
       role: executive
       note: CEO Merrill Lynch International, European President
+    - person: michele-geraci
+      role: executive
+      from: 1996
+      to: 2008
+      note: Investment banker (combined Merrill Lynch/BofA period; exact years split not confirmed)
+    - person: will-bruey
+      role: executive
+      from: 2018
+      to: 2020
+      note: Director, Global Equities Technology
     - org: blackrock
       role: stake
       share: 0.07
@@ -8741,6 +8890,17 @@ organizations:
     - org: ae-industrial-partners
       role: investor
       from: 2020
+  bigpoint:
+    tagline: Gaming company tedesca, 400M utenti, acquisita Youzu Interactive
+    name: Bigpoint
+    type: company
+    headquarters: Hamburg, Germany
+    status: acquired
+    stakeholders:
+    - person: khaled-helioui
+      role: executive
+      from: 2012
+      note: CEO (turnaround e vendita a Youzu Interactive)
   bikram-college-patiala:
     name: Govt. Bikram College of Commerce
     type: university
@@ -10755,6 +10915,16 @@ organizations:
     headquarters: Tehran
     status: active
     sector: conglomerate
+  booz-allen:
+    tagline: Management consulting, defense & intelligence contractor
+    name: Booz Allen Hamilton
+    type: company
+    headquarters: McLean, USA
+    status: active
+    stakeholders:
+    - person: matt-grimm
+      role: executive
+      note: DOD consulting
   booz-allen-hamilton:
     name: Booz Allen Hamilton
     type: company
@@ -10771,6 +10941,15 @@ organizations:
       from: 2013
       to: 2013
       note: Infrastructure analyst, Hawaii NSA facility | Contractor
+  boring-company:
+    tagline: Tunneling company fondata da Elon Musk
+    name: The Boring Company
+    type: company
+    headquarters: Austin, USA
+    status: active
+    stakeholders:
+    - org: gigafund
+      role: investor
   borouge:
     name: Borouge
     type: company
@@ -11318,10 +11497,49 @@ organizations:
     status: active
     sector: infrastructure
     stakeholders:
+    - person: xi-jinping
+      role: founder
+      from: 2013
+    - person: he-lifeng
+      role: executive
+      from: 2017
+      note: BRI Leading Group Deputy, then key coordinator
+    - person: wang-yi
+      role: executive
+      note: Diplomatic coordination
+    - person: han-zheng
+      role: chairman
+      from: 2018
+      to: 2023
+      note: BRI Leading Group Chairman
+    - person: michele-geraci
+      role: advisor
+      from: 2018
+      to: 2019
+      note: Architetto MoU Italia-Cina, China Task Force
+    - person: luigi-di-maio
+      role: executive
+      from: 2019
+      note: Firmatario MoU Italia lato italiano
+    - person: hu-chunhua
+      role: executive
+      from: 2018
+      to: 2023
+      note: BRI Leading Group Deputy, Vice Premier
+    - person: yang-jiechi
+      role: executive
+      from: 2018
+      to: 2023
+      note: BRI Leading Group Deputy
     - org: governo-cina
       role: ownership
       from: 2013
       note: Iniziativa di Xi Jinping
+    - org: task-force-china
+      role: partnership
+      from: 2018
+      to: 2019
+      note: Preparazione MoU Italia-Cina per adesione alla BRI (marzo 2019)
   brics:
     name: BRICS
     type: agency
@@ -11389,6 +11607,15 @@ organizations:
     - person: mark-feinberg
       role: fellow
       note: Internal Medicine residency, Harvard Medical School
+  brigham-young:
+    name: Brigham Young University
+    type: university
+    headquarters: Provo, USA
+    status: active
+    stakeholders:
+    - person: james-fitzgerald
+      role: alumni
+      note: BA
   bristol-myers-squibb:
     name: Bristol-Myers Squibb
     type: company
@@ -11492,6 +11719,14 @@ organizations:
       role: founder
       from: 1889
       to: 1902
+  british-telecom:
+    name: British Telecom
+    stakeholders:
+    - person: michele-geraci
+      role: executive
+      from: 1991
+      to: 1994
+      note: Electronic engineer, Satellite Planning unit
   british-university-dubai:
     name: The British University in Dubai
     type: university
@@ -11679,6 +11914,9 @@ organizations:
     - person: ngozi-okonjo-iweala
       role: fellow
       note: Nonresident Distinguished Fellow, Africa Growth Initiative
+    - person: jacob-helberg
+      role: advisor
+      note: Co-chair China Strategy Working Group
   brooklyn-college:
     name: Brooklyn College
     type: university
@@ -12341,6 +12579,9 @@ organizations:
     - person: melanie-walker
       role: alumni
       note: Postdoc Computational Neurobiology
+    - person: roberto-campos-neto
+      role: alumni
+      note: MA Applied Mathematics
   cambodian-institute-for-cooperation-and-peace:
     name: Cambodian Institute for Cooperation and Peace
     type: thinktank
@@ -12405,6 +12646,9 @@ organizations:
     - person: martin-sorrell
       role: alumni
       note: BA Economics, Christ's College
+    - person: ian-hogarth
+      role: alumni
+      note: MEng Information Engineering, first-class honours ~2005
   cambridge-analytica:
     tagline: Data company che uso' dati Facebook per manipolazione elettorale su scala globale
     name: Cambridge Analytica
@@ -13049,6 +13293,15 @@ organizations:
     - person: tarah-wheeler
       role: alumni
       note: BA International Relations 2001
+  carthage-foundation:
+    name: Carthage Foundation
+    type: foundation
+    headquarters: Pittsburgh, USA
+    status: active
+    stakeholders:
+    - person: richard-mellon-scaife
+      role: chairman
+      note: Chairman; fondata dal padre
   cascade-investment:
     tagline: 'Family office di Bill Gates: $180B+ in gestione, tra i piu'' grandi investitori privati al mondo'
     name: Cascade Investment
@@ -13351,6 +13604,9 @@ organizations:
     - person: andy-grove
       role: alumni
       note: BS Chemical Engineering 1960
+    - person: joseph-flom
+      role: alumni
+      note: BA 2003 (honorary), President Medal 2004, Honorary Doctor of Laws 2005
   ccp:
     name: Chinese Communist Party
     type: party
@@ -13392,6 +13648,9 @@ organizations:
       role: member
       from: 1978
       note: Invitato al 12° Congresso Nazionale CCP 1982
+    - person: han-zheng
+      role: leader
+      note: Politburo Standing Committee
   cctv:
     name: China Central Television
     type: media
@@ -13712,6 +13971,15 @@ organizations:
     founded: 2003
     headquarters: Beijing, China
     status: active
+  central-party-school:
+    name: Central Party School of the CPC
+    type: university
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - person: hu-chunhua
+      role: alumni
+      note: MA World Economics 1999
   central-south-university:
     name: Central South University
     type: university
@@ -14975,6 +15243,10 @@ organizations:
       from: 2017
       to: 2022
       note: Director-General
+  china-communications-construction:
+    name: China Communications Construction Company
+    type: company
+    headquarters: Beijing, China
   china-construction-bank:
     tagline: La terza banca più grande al mondo, originariamente creata per finanziare le infrastrutture cinesi
     name: China Construction Bank
@@ -15035,6 +15307,11 @@ organizations:
     type: bank
     headquarters: Shenzhen, China
     status: active
+  china-merchants-group:
+    name: China Merchants Group
+    type: company
+    founded: 1872
+    headquarters: Hong Kong, China
   china-mobile:
     tagline: Il più grande operatore mobile al mondo per abbonati, controllato dallo Stato cinese
     name: China Mobile
@@ -15066,6 +15343,10 @@ organizations:
     headquarters: Beijing, China
     status: active
     sector: gold-mining
+  china-railway-group:
+    name: China Railway Group
+    type: company
+    headquarters: Beijing, China
   china-satcom:
     name: China Satellite Communications Corporation
     type: company
@@ -15090,6 +15371,10 @@ organizations:
       share: 0.05
       from: 2019
       note: 5% stake
+  china-state-construction:
+    name: China State Construction Engineering Corporation
+    type: company
+    headquarters: Beijing, China
   china-steel:
     name: China Steel Corporation
     type: company
@@ -15710,6 +15995,12 @@ organizations:
       from: 2015
       to: 2017
       note: President & CEO; Publisher Claremont Review of Books
+    - person: michael-anton
+      role: fellow
+    - person: thomas-klingenstein
+      role: board
+    - person: ryan-williams
+      role: executive
   claremont-mckenna:
     name: Claremont McKenna College
     type: university
@@ -15746,11 +16037,12 @@ organizations:
       from: 1957
       note: Ran Bronfman family investments
   clarium-capital:
+    tagline: 'Hedge fund macro di Peter Thiel: da $10M a $7.8B e ritorno, il laboratorio pre-Founders Fund della PayPal Mafia'
     name: Clarium Capital
-    type: company
-    status: active
-    sector: hedge-fund
-    note: Peter Thiel hedge fund
+    type: hedgefund
+    founded: 2002
+    headquarters: San Francisco, USA
+    status: inactive
     stakeholders:
     - person: peter-thiel
       role: founder
@@ -15760,6 +16052,20 @@ organizations:
       role: member
       from: 2003
       to: 2005
+    - person: ken-howery
+      role: executive
+      from: 2004
+      to: 2005
+      note: VP Private Equity, research and trading
+    - person: ajay-royan
+      role: executive
+      to: 2012
+      note: Managing Director & Senior Investor
+    - person: andrew-mccormack
+      role: executive
+      from: 2002
+      to: 2003
+      note: Operations Manager, helped launch after PayPal exit
   clarivate:
     name: Clarivate Plc
     type: company
@@ -15827,6 +16133,15 @@ organizations:
       share: 100
       from: 2002
       note: 100% subsidiary dal 2002
+  clemson-university:
+    name: Clemson University
+    type: university
+    headquarters: Clemson, USA
+    status: active
+    stakeholders:
+    - person: jim-demint
+      role: alumni
+      note: MBA 1981
   cleveland-clinic:
     name: Cleveland Clinic
     type: company
@@ -16292,6 +16607,9 @@ organizations:
       note: Strategic Advisory Board
     - person: nicole-wong
       role: advisor
+    - person: jacob-helberg
+      role: advisor
+      note: Former Adjunct Senior Fellow, Technology & National Security
   cnbc:
     name: CNBC
     type: media
@@ -16600,6 +16918,36 @@ organizations:
       role: executive
       from: 2020
       note: CEO
+  cognition:
+    tagline: AI startup dietro Devin, fondata da campioni IOI, $10.2B valuation, backed by Founders Fund
+    name: Cognition
+    type: company
+    founded: 2023
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: napoleon-ta
+      role: board
+      note: Board member
+    - person: scott-wu
+      role: founder
+      from: 2023
+      note: CEO & Co-founder
+    - person: steven-hao
+      role: founder
+      from: 2023
+      note: Co-founder
+    - person: walden-yan
+      role: founder
+      from: 2023
+      note: Co-founder
+    - org: founders-fund
+      role: investor
+      from: 2024
+      note: Lead investor, $21M seed + $175M Series A + $400M 2025
+    - org: lux-capital
+      role: investor
+      from: 2024
   cognizant:
     name: Cognizant Technology Solutions
     type: company
@@ -16762,6 +17110,16 @@ organizations:
       from: 2003
       to: 2004
       note: MA European Studies
+  collegiate-school:
+    tagline: Prep school Upper West Side, fondata 1628
+    name: The Collegiate School
+    type: university
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: parker-conrad
+      role: alumni
+      note: High school
   collegio-europa:
     tagline: La fucina delle elite europee - formazione post-laurea per futuri leader UE
     name: College of Europe
@@ -16867,6 +17225,17 @@ organizations:
     stakeholders:
     - org: blackrock
       share: 4.0%
+  colorado-school-mines:
+    name: Colorado School of Mines
+    type: university
+    headquarters: Golden, USA
+    status: active
+    stakeholders:
+    - person: joseph-coors
+      role: board
+      from: 1991
+      to: 1999
+      note: Trustee
   columbia:
     name: Columbia University
     type: university
@@ -17295,6 +17664,15 @@ organizations:
       from: 1847
       to: 1852
       note: Co-author Communist Manifesto
+  compact-magazine:
+    name: Compact Magazine
+    type: media
+    founded: 2022
+    headquarters: New York, USA
+    stakeholders:
+    - person: sohrab-ahmari
+      role: founder
+      from: 2022
   compagnia-san-paolo:
     name: Compagnia di San Paolo
     type: foundation
@@ -17589,6 +17967,17 @@ organizations:
     - person: andre-esteves
       role: board
       note: Amazonia Live program, 5P Alliance Pantanal
+  conservative-partnership-institute:
+    name: Conservative Partnership Institute
+    type: thinktank
+    founded: 2017
+    headquarters: Washington, USA
+    status: active
+    stakeholders:
+    - person: jim-demint
+      role: chairman
+      from: 2017
+      note: Founder and Chairman
   conservative-party-uk:
     name: Conservative Party (UK)
     type: party
@@ -17714,6 +18103,18 @@ organizations:
       from: 1969
       to: 1971
       note: Mathematics 1969-1971, no degree
+  coors-brewing:
+    name: Adolph Coors Company
+    type: company
+    founded: 1873
+    headquarters: Golden, USA
+    status: acquired
+    stakeholders:
+    - person: joseph-coors
+      role: executive
+      from: 1946
+      to: 1987
+      note: Technical Director, EVP, President, COO
   copa-airlines:
     name: Copa Airlines
     type: airline
@@ -17769,6 +18170,12 @@ organizations:
     - person: ben-hakim
       role: alumni
       note: BS Economics (Finance & Accounting) 1997, highest honors
+    - person: joseph-coors
+      role: alumni
+      note: BS Chemical Engineering 1939, Kappa Alpha Society, Quill and Dagger
+    - person: joseph-coors
+      role: alumni
+      note: MS Chemical Engineering 1940
     - person: martha-pollack
       role: leader
       from: 2017
@@ -17786,6 +18193,18 @@ organizations:
     - person: barnaby-marsh
       role: alumni
       note: BA Summa cum Laude
+    - person: brian-schimpf
+      role: alumni
+      note: BS Operations Research & Industrial Engineering 2007, DARPA Grand/Urban Challenge
+    - person: matt-grimm
+      role: alumni
+      note: BS Mechanical & Aerospace Engineering, MEng Systems Engineering, DARPA Grand/Urban Challenge
+    - person: will-bruey
+      role: alumni
+      note: BS Engineering Physics 2011, MEng Systems Engineering
+    - person: scott-nolan
+      role: alumni
+      note: BS + MS Mechanical and Aerospace Engineering
     - org: atlantic-philanthropies
       role: grant
       from: 2011
@@ -17952,6 +18371,21 @@ organizations:
     - person: michael-miebach
       role: steering
       note: Guardian
+  council-national-policy:
+    tagline: Network strategico segreto della destra conservatrice americana
+    name: Council for National Policy
+    type: forum
+    founded: 1981
+    headquarters: Washington DC, USA
+    status: active
+    stakeholders:
+    - person: paul-weyrich
+      role: founder
+      from: 1981
+      note: Co-founder with Tim LaHaye and Richard Viguerie
+    - person: joseph-coors
+      role: founder
+      note: Founder and funder
   council-of-europe:
     name: Council of Europe
     type: agency
@@ -18258,6 +18692,16 @@ organizations:
     stakeholders:
     - org: cp-group
       note: Subsidiary
+  cppcc:
+    name: Chinese People's Political Consultative Conference
+    type: government
+    headquarters: Beijing, China
+    status: active
+    stakeholders:
+    - person: hu-chunhua
+      role: executive
+      from: 2023
+      note: Vice Chairman
   cppib:
     name: Canada Pension Plan Investment Board
     type: swf
@@ -18680,6 +19124,17 @@ organizations:
       role: executive
       from: 2016
       note: President and CEO
+  cser:
+    tagline: Centro di ricerca su rischi esistenziali, University of Cambridge
+    name: Centre for the Study of Existential Risk
+    type: foundation
+    founded: 2012
+    headquarters: Cambridge, UK
+    status: active
+    stakeholders:
+    - person: jaan-tallinn
+      role: founder
+      from: 2012
   csis:
     tagline: 'Il think tank della politica estera USA: hub di National Security Advisors, porta girevole Pentagono-accademia'
     name: Center for Strategic and International Studies
@@ -19582,6 +20037,12 @@ organizations:
       from: 2017
       to: 2020
       note: Senior Research Engineer, AlphaStar lead, WaveNet
+    - person: jaan-tallinn
+      role: board
+      note: Series A investor and board member
+    - org: founders-fund
+      role: investor
+      note: Pre-acquisizione Google
     - org: google
       role: stake
       share: 1.0
@@ -19726,6 +20187,9 @@ organizations:
       from: 1983
       to: 1992
       note: Tax specialist, chartered accountant
+    - person: kristo-kaarmann
+      role: employee
+      note: Management consultant, financial systems and technology strategy
   delta-air-lines:
     tagline: Seconda compagnia aerea USA per anzianita', hub Atlanta, leadership premium
     name: Delta Air Lines
@@ -20479,6 +20943,14 @@ organizations:
       role: investor
       from: 2015
       note: $500M round with GIC, New China Life
+  dlj:
+    name: Donaldson, Lufkin & Jenrette
+    stakeholders:
+    - person: michele-geraci
+      role: executive
+      from: 1996
+      to: 2008
+      note: Donaldson, Lufkin & Jenrette - investment banking
   dmcc:
     tagline: Free zone e hub globale per il commercio di commodities. La piu' grande free zone al mondo per numero di aziende.
       Controlla il commercio di oro, diamanti, energia e prodotti agricoli a Dubai, e si posiziona come centro globale per
@@ -21298,6 +21770,15 @@ organizations:
       role: founder
       from: 2000
       note: Earth Charter lanciata dal Forum
+  east-china-normal-university:
+    name: East China Normal University
+    type: university
+    headquarters: Shanghai, China
+    status: active
+    stakeholders:
+    - person: han-zheng
+      role: alumni
+      note: BA Politics 1987, MA International Political Economy 1994
   east-lake-foundation:
     name: East Lake Foundation
     type: foundation
@@ -21416,6 +21897,11 @@ organizations:
       role: founder
       from: 1995
       note: Founded AuctionWeb (later eBay)
+    - person: ken-howery
+      role: executive
+      from: 2002
+      to: 2003
+      note: Director of Corporate Development post-acquisizione PayPal
   ebrd:
     name: European Bank for Reconstruction and Development
     type: bank
@@ -21859,6 +22345,16 @@ organizations:
     - person: mustafa-suleyman
       role: board
       note: Board of Directors
+  ecount:
+    tagline: Fintech acquisita da Citicorp
+    name: eCount
+    type: company
+    headquarters: USA
+    status: acquired
+    stakeholders:
+    - person: andrew-mccormack
+      role: executive
+      note: Business and corporate development, acquired by Citicorp
   ecsc:
     name: European Coal and Steel Community
     type: agency
@@ -22130,6 +22626,17 @@ organizations:
       role: contractor
       from: 2015
       note: 'Accordo $25M per risk analysis e algoritmi. Pagamento legato a settlement EdR-USA. Fonte: DOJ files'
+  edmund-burke-foundation:
+    name: Edmund Burke Foundation
+    type: foundation
+    founded: 2019
+    headquarters: Washington DC, USA
+    stakeholders:
+    - person: patrick-deneen
+      role: fellow
+    - person: yoram-hazony
+      role: chairman
+      from: 2019
   edp:
     name: EDP
     type: company
@@ -24303,6 +24810,14 @@ organizations:
       from: 2008
       to: 2010
       note: Reviewer progetto QualiPSo
+    - person: taavet-hinrikus
+      role: board
+      note: European Innovation Council Board
+    - person: jaan-tallinn
+      role: advisor
+      from: 2017
+      to: 2019
+      note: High-Level Expert Group on AI
   european-council:
     name: European Council
     type: agency
@@ -25507,6 +26022,22 @@ organizations:
       from: 2017
       to: 2023
       note: Class C Director 2017-2023, Board Chair 2022-2023
+  federalist-society:
+    name: Federalist Society
+    type: forum
+    founded: 1982
+    headquarters: Washington, USA
+    status: active
+    stakeholders:
+    - person: richard-mellon-scaife
+      role: board
+      note: Important patron via Scaife foundations
+    - person: edwin-meese
+      role: board
+      note: Board of Directors
+    - person: leonard-leo
+      role: executive
+      from: 1991
   federmann-enterprises:
     name: Federmann Enterprises Ltd
     type: company
@@ -26991,6 +27522,9 @@ organizations:
     - person: ralph-merkle
       role: board
       note: Board of Directors; VP Technology Assessment; 1998 Feynman Prize winner (theory)
+    - person: luke-nosek
+      role: member
+      note: Fellow, nanotechnology e longevita
   formation-capital:
     tagline: PE specializzato in seniors housing e healthcare - Genesis, Beverly Enterprises
     name: Formation Capital
@@ -27096,14 +27630,49 @@ organizations:
       to: 2023
       note: Fondatore e leader
   founders-fund:
+    tagline: VC contrarian della PayPal Mafia, $17B AUM, focus hard tech e defense
     name: Founders Fund
     type: privateequity
-    headquarters: San Francisco
+    founded: 2005
+    headquarters: San Francisco, USA
     status: active
     stakeholders:
     - person: peter-thiel
       role: partner
       from: 2005
+    - person: ken-howery
+      role: founder
+      from: 2005
+      note: Co-fondatore, ora Ambassador USA in Danimarca
+    - person: trae-stephens
+      role: partner
+      from: 2014
+      note: Partner, focus defense/government tech
+    - person: keith-rabois
+      role: partner
+      from: 2019
+      to: 2024
+      note: General Partner 2019-2024, lead investments Ramp e Trade Republic, tornato a Khosla gen 2024
+    - person: delian-asparouhov
+      role: partner
+      from: 2019
+    - person: luke-nosek
+      role: founder
+      from: 2005
+      to: 2017
+      note: Co-fondatore, uscito per creare Gigafund
+    - person: napoleon-ta
+      role: partner
+      note: Partner, growth investing. Fund director. Ruolo chiave nella strategia crypto (early Bitcoin investment)
+    - person: scott-nolan
+      role: partner
+      note: 'Partner, 13+ anni. Focus hard tech: energy, infrastructure, aerospace, defense. Ha incubato General Matter'
+    - person: stephen-oskoui
+      role: partner
+      note: Venture Partner
+    - org: thiel-capital
+      role: parent
+      note: Incubato da Thiel Capital
   four-seasons:
     name: Four Seasons Hotels and Resorts
     type: company
@@ -27220,6 +27789,9 @@ organizations:
       role: member
       from: 2017
       note: Political commentator
+    - person: tucker-carlson
+      role: executive
+      to: 2023
     - org: fox-corporation
       share: 100%
   fox-sports:
@@ -27295,6 +27867,26 @@ organizations:
       role: chairman
       from: 2007
       to: 2013
+  fratelli-d-italia:
+    tagline: Partito di destra fondato da Meloni, La Russa e Crosetto dal ceppo MSI/AN
+    name: Fratelli d'Italia
+    type: party
+    founded: 2012
+    headquarters: Rome, Italy
+    status: active
+    stakeholders:
+    - person: giorgia-meloni
+      role: leader
+      from: 2014
+      note: Co-fondatrice e Presidente dal 2014
+    - person: guido-crosetto
+      role: founder
+      from: 2012
+      note: Co-fondatore
+    - person: ignazio-la-russa
+      role: founder
+      from: 2012
+      note: Co-fondatore, Presidente 2013-2014
   fred-hutch:
     name: Fred Hutchinson Cancer Center
     type: foundation
@@ -27306,6 +27898,21 @@ organizations:
       role: board
       from: 2016
       note: Board of Trustees
+  free-congress-foundation:
+    tagline: Think tank conservatore social-culturale fondato da Weyrich
+    name: Free Congress Foundation
+    type: thinktank
+    founded: 1977
+    headquarters: Washington DC, USA
+    status: defunct
+    stakeholders:
+    - person: paul-weyrich
+      role: founder
+      from: 1977
+      note: Founder and Chairman
+    - person: joseph-coors
+      role: founder
+      note: Principal backer
   free-iliad:
     name: Iliad/Free
     type: company
@@ -27677,6 +28284,9 @@ organizations:
     - person: ding-xuexiang
       role: alumni
       note: MSc Science & Management 1994
+    - person: han-zheng
+      role: alumni
+      note: Two-year college program 1983-1985
   fuji-media:
     name: Fuji Media Holdings
     type: media
@@ -27817,6 +28427,17 @@ organizations:
       role: leader
       from: 2005
       to: 2022
+  future-of-life-institute:
+    tagline: Organizzazione per la riduzione dei rischi esistenziali da tecnologie avanzate
+    name: Future of Life Institute
+    type: foundation
+    founded: 2014
+    headquarters: Cambridge, USA
+    status: active
+    stakeholders:
+    - person: jaan-tallinn
+      role: founder
+      from: 2014
   g20:
     name: G20 - Group of Twenty
     type: forum
@@ -28566,6 +29187,9 @@ organizations:
       role: advisor
       from: 2024
       note: Senior Advisor
+    - person: david-velez
+      role: employee
+      note: Private equity
   general-dynamics:
     tagline: '#4 contractor difesa globale - Sottomarini nucleari, Abrams, Gulfstream'
     name: General Dynamics Corporation
@@ -28638,6 +29262,20 @@ organizations:
       from: 1970
       to: 1973
       note: Group VP, then President Jerrold Electronics
+  general-matter:
+    tagline: Startup arricchimento uranio HALEU, incubata da Founders Fund
+    name: General Matter
+    type: company
+    founded: 2024
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: scott-nolan
+      role: founder
+      note: CEO. Incubata dentro Founders Fund
+    - org: founders-fund
+      role: incubator
+      note: Incubata dentro Founders Fund
   general-mills:
     name: General Mills
     type: company
@@ -28887,6 +29525,9 @@ organizations:
       role: faculty
       from: 2018
       note: Shapiro Visiting Professor of International Affairs
+    - person: jacob-helberg
+      role: alumni
+      note: BA International Affairs
   georgetown:
     name: Georgetown University
     type: university
@@ -28916,6 +29557,9 @@ organizations:
     - person: yousef-al-otaiba
       role: alumni
       note: International Relations (claimed 1995; Georgetown registrar disputes graduation)
+    - person: edwin-feulner
+      role: alumni
+      note: Graduate studies
     - person: mark-weinberger
       role: alumni
       note: LLM Taxation
@@ -28968,6 +29612,11 @@ organizations:
     - person: stacey-plaskett
       role: alumni
       note: BSFS School of Foreign Service
+    - person: trae-stephens
+      role: alumni
+      note: SFS, Regional & Comparative Studies (Middle East) 2005
+    - person: matthew-steckman
+      role: alumni
   georgetown-university:
     name: Georgetown University
     type: university
@@ -29270,6 +29919,21 @@ organizations:
       role: executive
       from: 1994
       note: Chief People Officer & MD (2017-), Director Finance (2009-2014), joined 1994
+  gigafund:
+    tagline: VC co-fondato da Luke Nosek e Stephen Oskoui, $2B+ AUM, focus SpaceX e deep tech
+    name: Gigafund
+    type: privateequity
+    founded: 2017
+    headquarters: Austin, USA
+    status: active
+    stakeholders:
+    - person: luke-nosek
+      role: founder
+      from: 2017
+    - person: stephen-oskoui
+      role: founder
+      from: 2017
+      note: Co-founder & Managing Partner
   gilead:
     name: Gilead Sciences
     type: pharma
@@ -29762,6 +30426,13 @@ organizations:
       from: 2013
       to: 2021
       note: CEO
+  global-policy-institute:
+    name: Global Policy Institute London
+    stakeholders:
+    - person: michele-geraci
+      role: member
+      from: 2008
+      note: Head of GPI China, Senior Research Fellow
   globalfoundries:
     name: GlobalFoundries
     type: company
@@ -30221,6 +30892,9 @@ organizations:
     - person: okey-enelamah
       role: executive
       note: New York and London offices
+    - person: david-velez
+      role: employee
+      note: Investment banking
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -30432,6 +31106,15 @@ organizations:
       role: employee
       from: 2002
       note: Distinguished Engineer, co-created Go programming language
+    - person: jacob-helberg
+      role: executive
+      from: 2016
+      to: 2020
+      note: Global lead product policy, combat foreign interference
+    - person: prasanna-sankar
+      role: member
+      from: 2006
+      note: Intern 2006
     - org: alphabet
       share: 100
       note: Wholly owned subsidiary since 2015
@@ -31027,6 +31710,11 @@ organizations:
     - person: walther-moreira-salles
       role: minister
       note: Ambassador to USA 1950s, Finance Minister 1961-1963
+    - person: roberto-campos-neto
+      role: official
+      from: 2019
+      to: 2024
+      note: Presidente Banco Central, nominato da Bolsonaro
   governo-brasile:
     name: Governo del Brasile
     type: government
@@ -31219,7 +31907,7 @@ organizations:
     - person: he-lifeng
       role: minister
       from: 2023
-      note: Vice Premier, economic tsar
+      note: Vice Premier
     - person: wang-yi
       role: minister
       from: 2023
@@ -31267,6 +31955,60 @@ organizations:
     - person: zhou-hongyi
       role: advisor
       note: 14th CPPCC National Committee member
+    - person: han-zheng
+      role: minister
+      from: 2018
+      to: 2023
+      note: Executive Vice Premier
+    - person: han-zheng
+      role: leader
+      from: 2023
+      note: Vice President of China
+    - person: hu-chunhua
+      role: minister
+      from: 2018
+      to: 2023
+      note: Vice Premier
+    - person: hu-chunhua
+      role: leader
+      from: 2012
+      to: 2017
+      note: Party Secretary Guangdong
+    - person: yang-jiechi
+      role: minister
+      from: 2007
+      to: 2013
+      note: Foreign Minister (2007-13)
+    - person: yang-jiechi
+      role: executive
+      from: 2013
+      to: 2022
+      note: State Councilor, Director Central Foreign Affairs Commission
+    - person: yang-jiechi
+      role: ambassador
+      from: 2001
+      to: 2005
+      note: Ambassador to the United States
+    - person: yang-jiechi
+      role: executive
+      from: 2017
+      to: 2022
+      note: Politburo member
+    - person: hu-jintao
+      role: leader
+      from: 2003
+      to: 2013
+      note: President of PRC, General Secretary CPC (2002-12), Chairman CMC (2004-12)
+    - person: hu-jintao
+      role: leader
+      from: 1988
+      to: 1992
+      note: Party Secretary Tibet
+    - person: hu-jintao
+      role: executive
+      from: 1992
+      to: 2012
+      note: Politburo Standing Committee
   governo-cipro:
     name: Governo Cipro
     type: government
@@ -31533,6 +32275,9 @@ organizations:
       role: leader
       from: 2002
       to: 2003
+    - person: jaan-tallinn
+      role: advisor
+      note: Presidential Academic Advisory Board
   governo-etiopia:
     name: Governo Etiopia
     type: government
@@ -33483,6 +34228,53 @@ organizations:
     - person: sergio-moroni
       role: legislator
       note: Deputato
+    - person: michele-geraci
+      role: minister
+      from: 2018
+      to: 2019
+      note: Sottosegretario Sviluppo Economico
+    - person: luigi-di-maio
+      role: minister
+      from: 2018
+      to: 2022
+      note: Vice PM, Min. Sviluppo Economico, poi Esteri
+    - person: giuseppe-conte
+      role: leader
+      from: 2018
+      to: 2021
+      note: Presidente del Consiglio
+    - person: ignazio-la-russa
+      role: minister
+      from: 2008
+      to: 2011
+      note: Ministro della Difesa, Berlusconi IV
+    - person: ignazio-la-russa
+      role: legislator
+      from: 1992
+      note: Deputato 1992-2018, Senatore 2018-oggi, Presidente Senato 2022-oggi
+    - person: ettore-sequi
+      role: executive
+      from: 1985
+      note: Carriera diplomatica MAE. Console Tehran 1989. Capo Gabinetto Min. Esteri (Mogherini, Gentiloni, Di Maio). Ambasciatore
+        a Kabul 2004-08, Pechino 2015-19. Segretario Generale Farnesina 2021-23
+    - person: laura-castelli
+      role: minister
+      from: 2013
+      to: 2022
+      note: Deputata M5S 2013-22. Sottosegretario MEF giu 2018, Viceministro Economia mar 2019 (Conte I). Confermata Viceministro
+        Economia Conte II e Draghi
+    - person: luciano-barra-caracciolo
+      role: minister
+      from: 1994
+      to: 2019
+      note: Consigliere giuridico Min. Funzione Pubblica (Berlusconi I, Dini). Capo Gabinetto Min. Italiani nel Mondo (Berlusconi
+        I). Vicesegretario Generale PCM (Berlusconi II, 2001). Sottosegretario Affari Europei (Conte I, 2018-19)
+    - person: carlo-sibilia
+      role: minister
+      from: 2013
+      to: 2022
+      note: 'Deputato M5S 2013-22. Sottosegretario Interno: Conte I (giu 2018-set 2019), Conte II (set 2019-feb 2021), Draghi
+        (feb 2021-ott 2022)'
   governo-italiano:
     name: Governo Italiano
     type: government
@@ -35568,6 +36360,10 @@ organizations:
       from: 1999
       to: 2019
       note: MEP Scotland (Labour)
+    - person: ian-hogarth
+      role: official
+      from: 2023
+      note: Chair UK AI Safety Institute (ex Frontier AI Taskforce)
     - org: zion-mule-corps
       role: subsidiary
       from: 1915
@@ -35967,7 +36763,7 @@ organizations:
       role: advisor
       from: 2017
       to: 2017
-      note: Chief Strategist and Senior Counselor to the President (Jan-Aug 2017)
+      note: WH Chief Strategist
     - person: andrew-mellon
       role: minister
       from: 1921
@@ -36528,6 +37324,16 @@ organizations:
       from: 2017
       to: 2021
       note: Special Assistant to the President (2017-2019), then Special Representative for International Negotiations (2019-2021)
+    - person: edwin-feulner
+      role: advisor
+      from: 1982
+      to: 1991
+      note: Chairman US Advisory Commission on Public Diplomacy; domestic policy consultant to Reagan
+    - person: paul-weyrich
+      role: official
+      from: 1966
+      to: 1973
+      note: Press secretary to Sen. Gordon Allott (R-CO)
     - person: mike-pompeo
       role: minister
       from: 2018
@@ -36767,6 +37573,16 @@ organizations:
       role: advisor
       from: 2025
       note: Trump 2.0 administration
+    - person: joseph-coors
+      role: advisor
+      from: 1981
+      to: 1989
+      note: Reagan Kitchen Cabinet
+    - person: jim-demint
+      role: legislator
+      from: 1999
+      to: 2013
+      note: Representative SC-4 1999-2005; Senator South Carolina 2005-2013
     - person: bruce-schneier
       role: official
       note: Department of Defense
@@ -36854,6 +37670,59 @@ organizations:
       role: legislator
       from: 2015
       note: Delegate USVI at-large (non-voting)
+    - person: jacob-helberg
+      role: executive
+      from: 2025
+      note: Under Secretary of State for Economic Growth
+    - person: ken-howery
+      role: ambassador
+      from: 2019
+      to: 2021
+      note: Ambasciatore USA in Svezia, nominato Trump
+    - person: ken-howery
+      role: ambassador
+      from: 2025
+      note: Ambasciatore USA in Danimarca, nominato Trump dic 2024, confermato Senato ott 2025
+    - person: trae-stephens
+      role: advisor
+      from: 2016
+      to: 2017
+      note: Trump transition team, led DOD transition
+    - person: gregory-craig
+      role: advisor
+      from: 2009
+      to: 2010
+      note: White House Counsel (Obama)
+    - person: joe-chen
+      role: member
+      note: Army National Guard, paratrooper 1-143rd Infantry Battalion (Airborne)
+    - person: edwin-meese
+      role: minister
+      from: 1985
+      to: 1988
+      note: 75th Attorney General
+    - person: michael-anton
+      role: advisor
+      from: 2017
+      note: NSC Deputy Assistant
+    - person: josh-hawley
+      role: member
+      from: 2019
+      note: US Senator Missouri
+    - person: michael-kratsios
+      role: executive
+      from: 2025
+      note: OSTP Director
+    - person: frank-church
+      role: legislator
+      from: 1957
+      to: 1981
+      note: Senatore Idaho (D)
+    - person: hugh-scott
+      role: legislator
+      from: 1941
+      to: 1977
+      note: Representative Pennsylvania (R) 1941-45, 1947-59; Senatore 1959-77, Senate Minority Leader 1969-77
     - org: us-fifth-fleet
       role: member
       note: Component of US Central Command (CENTCOM)
@@ -38465,6 +39334,9 @@ organizations:
     - person: mustafa-suleyman
       role: fellow
       note: Senior Fellow, Belfer Center for Science and International Affairs
+    - person: john-collison
+      role: alumni
+      note: Dropout 2010
     - person: siddhartha-mukherjee
       role: alumni
       note: MD 2000, Harvard Medical School
@@ -38795,6 +39667,24 @@ organizations:
     - person: martin-sorrell
       role: alumni
       note: MBA 1968
+    - person: gregory-craig
+      role: alumni
+      note: AB History 1967, Phi Beta Kappa
+    - person: joseph-flom
+      role: alumni
+      note: JD 1948, cum laude, Harvard Law Review
+    - person: joseph-flom
+      role: board
+      note: Dean's Advisory Board
+    - person: parker-conrad
+      role: alumni
+      note: BA Chemistry
+    - person: scott-wu
+      role: alumni
+      note: Economics
+    - person: walden-yan
+      role: alumni
+      note: Dropout (Thiel Fellow)
     - org: chabad-harvard
       role: partnership
       note: Jewish Chaplaincy; no university funding
@@ -38865,6 +39755,9 @@ organizations:
     - person: nawaf-al-sabah
       role: alumni
       note: JD, PhD Law
+    - person: keith-rabois
+      role: alumni
+      note: JD 1994
   harvard-law-school:
     name: Harvard Law School
     type: university
@@ -39548,6 +40441,10 @@ organizations:
       role: chairman
       from: 2015
       note: Chairman of the board
+    - org: mithril-capital
+      role: investor
+      from: 2025
+      note: $425M round Jan 2025, Royan on board
   hellenic-olympic-committee:
     name: Hellenic Olympic Committee
     type: agency
@@ -39756,6 +40653,10 @@ organizations:
     - person: richard-mellon-scaife
       role: board
       note: Vice Chairman; major donor via Sarah Scaife Foundation ($23M+)
+    - person: edwin-meese
+      role: board
+      from: 1988
+      note: Board of Trustees; Ronald Reagan Chair in Public Policy
     - org: abraham-accords-peace-institute
       role: merged
       from: 2025
@@ -40052,6 +40953,17 @@ organizations:
     type: privateequity
     headquarters: Hong Kong
     status: active
+  hillsdale-college:
+    name: Hillsdale College
+    type: university
+    founded: 1844
+    headquarters: Hillsdale, Michigan, USA
+    stakeholders:
+    - person: michael-anton
+      role: fellow
+    - person: larry-arnn
+      role: executive
+      from: 2000
   hindalco:
     name: Hindalco Industries
     type: company
@@ -40518,6 +41430,9 @@ organizations:
     - person: michael-abramowitz
       role: fellow
       note: Media Fellow
+    - person: richard-mellon-scaife
+      role: board
+      note: Board member; major donor from 1963
     - person: kevin-warsh
       role: member
       from: 2011
@@ -40530,6 +41445,9 @@ organizations:
     - person: beth-ann-bovino
       role: member
       note: Visiting Fellow / Speaker
+    - person: edwin-meese
+      role: member
+      note: Distinguished Visiting Fellow
   horizons-ventures:
     name: Horizons Ventures
     type: privateequity
@@ -40874,6 +41792,9 @@ organizations:
       role: advisor
       from: 2023
       note: Strategic Advisory Board, China Center
+    - person: richard-mellon-scaife
+      role: board
+      note: Major donor via Sarah Scaife Foundation
     - org: rand-corporation
       role: partner
   huffpost-italia:
@@ -40914,6 +41835,9 @@ organizations:
     - person: kevin-ryan
       role: board
       note: Director Emeritus
+    - person: niklas-zennstrom
+      role: board
+      note: Vice Chair International Board
   human-technopole:
     name: Human Technopole
     type: foundation
@@ -41836,6 +42760,10 @@ organizations:
       from: 2015
       to: 2017
       note: Director General
+  iconical:
+    name: Iconical
+    type: privateequity
+    status: active
   iconiq-capital:
     tagline: Family office dei tech billionaires (Zuckerberg, Dorsey), lead Anthropic Series F ($13B)
     name: ICONIQ Capital
@@ -43274,6 +44202,9 @@ organizations:
     - person: kevin-ryan
       role: alumni
       note: MBA 1990
+    - person: taavet-hinrikus
+      role: alumni
+      note: MBA 2010
   insper:
     name: Insper Instituto de Ensino e Pesquisa
     type: university
@@ -43664,6 +44595,15 @@ organizations:
       role: founder
       from: 1993
       note: Founder, Chairman
+  intercollegiate-studies-institute:
+    name: Intercollegiate Studies Institute
+    type: thinktank
+    headquarters: Wilmington, USA
+    status: active
+    stakeholders:
+    - person: edwin-feulner
+      role: chairman
+      note: Trustee, former Chairman of the Board
   intercontinental-assets-group:
     name: Intercontinental Assets Group
     type: company
@@ -45795,6 +46735,16 @@ organizations:
       from: 2021
       to: 2022
       note: Gemunder Center Non-Resident Distinguished Fellow
+  john-birch-society:
+    name: John Birch Society
+    type: forum
+    founded: 1958
+    headquarters: Appleton, USA
+    status: active
+    stakeholders:
+    - person: joseph-coors
+      role: member
+      note: Major backer
   john-templeton-foundation:
     name: John Templeton Foundation
     type: foundation
@@ -46918,6 +47868,13 @@ organizations:
     - person: vinod-khosla
       role: founder
       from: 2004
+    - person: keith-rabois
+      role: partner
+      from: 2013
+      note: Managing Director. Prima stint 2013-2019, ritorno gen 2024
+    - person: delian-asparouhov
+      role: partner
+      note: Principal
   kibbutz-hadati:
     name: Ha-Kibbutz Ha-Dati
     type: foundation
@@ -48705,6 +49662,14 @@ organizations:
       role: executive
       from: 2004
       note: Director
+  lega:
+    name: Lega (Lega Nord / Lega per Salvini Premier)
+    stakeholders:
+    - person: michele-geraci
+      role: member
+      from: 2018
+      to: 2019
+      note: Reclutato da Salvini per competenza sulla Cina
   lega-nord:
     name: Lega Nord
     type: party
@@ -49255,6 +50220,9 @@ organizations:
       role: board
       from: 2021
       note: Board member, eVTOL company
+    - org: atomico
+      role: stake
+      note: Investor, Zennström board member
   lilly-endowment:
     name: Lilly Endowment Inc.
     type: foundation
@@ -49306,6 +50274,11 @@ organizations:
       role: executive
       from: 2024
       note: Distinguished Engineer for Security
+    - person: keith-rabois
+      role: executive
+      from: 2005
+      to: 2007
+      note: VP Business & Corporate Development
   linux-foundation:
     tagline: Hub centrale dell'ecosistema open source globale, dove le maggiori corporation tech convergono per governare
       infrastruttura critica
@@ -49842,6 +50815,9 @@ organizations:
     - person: elliott-abrams
       role: alumni
       note: MSc International Relations 1970
+    - person: edwin-feulner
+      role: alumni
+      note: Graduate studies
     - person: mohd-bakke-salleh
       role: alumni
       note: BSc Economics
@@ -49866,6 +50842,9 @@ organizations:
     - person: nick-bostrom
       role: alumni
       note: PhD Philosophy 2000
+    - person: yang-jiechi
+      role: alumni
+      note: International Relations 1973-75
     - org: fabian-society
       role: founder
       from: 1895
@@ -50141,6 +51120,12 @@ organizations:
       role: founder
       from: 2018
       note: Disinformation watchdog, offices in UK/Kenya/USA
+  lux-capital:
+    tagline: VC focused on deep tech and frontier science
+    name: Lux Capital
+    type: privateequity
+    headquarters: New York, USA
+    status: active
   luxembourg-for-finance:
     tagline: Agenzia pubblico-privata per la promozione del centro finanziario lussemburghese
     name: Luxembourg for Finance
@@ -50775,6 +51760,9 @@ organizations:
     - person: daniel-loeb
       role: board
       note: Trustee; received Alexander Hamilton Award 2020
+    - person: richard-mellon-scaife
+      role: board
+      note: Major donor via Scaife foundations
   mansour-group:
     name: Mansour Group
     type: company
@@ -50887,6 +51875,15 @@ organizations:
     - person: tony-frangieh-jr
       role: member
       from: 2018
+  marble-freedom-trust:
+    name: Marble Freedom Trust
+    type: foundation
+    founded: 2020
+    headquarters: Washington DC, USA
+    stakeholders:
+    - person: leonard-leo
+      role: chairman
+      from: 2020
   mariadb:
     name: MariaDB plc
     type: company
@@ -52180,6 +53177,11 @@ organizations:
       from: 2000
       to: 2004
       note: Chairman Merrill Lynch International
+    - person: michele-geraci
+      role: executive
+      from: 1996
+      to: 2003
+      note: Investment banking, London/NY/Asia
   mesa-petroleum:
     name: Mesa Petroleum
     type: company
@@ -52335,6 +53337,11 @@ organizations:
       role: executive
       from: 2025
       note: Chief AI Officer; head of Meta Superintelligence Labs
+    - person: palmer-luckey
+      role: founder
+      from: 2014
+      to: 2017
+      note: Oculus VR founder, acquired by Facebook for $2B
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -52940,6 +53947,11 @@ organizations:
       from: 1987
       to: 1996
       note: Product developer, General Manager Microsoft Bob, Encarta, Expedia
+    - person: prasanna-sankar
+      role: member
+      from: 2008
+      to: 2012
+      note: Software Developer, Bing crawler
     - org: norges-bank-gpfg
       role: stake
       share: 0.011
@@ -53048,6 +54060,10 @@ organizations:
     - person: andre-esteves
       role: member
       note: Global Conference speaker
+    - person: roberto-campos-neto
+      role: board
+      from: 2025
+      note: Board of Directors
   millennium-bcp:
     name: Millennium BCP
     type: bank
@@ -53305,6 +54321,16 @@ organizations:
       role: stake
       share: 0.63
       note: Controlling majority stake
+  mise:
+    name: Ministero dello Sviluppo Economico (MISE)
+    stakeholders:
+    - person: michele-geraci
+      role: minister
+      from: 2018
+      to: 2019
+      note: Sottosegretario di Stato MISE (Undersecretary of State for International Trade and Foreign Direct Investment).
+        Appointed 13 June 2018, ended 4 September 2019. Conte I cabinet (M5S-Lega). Created China Task Force. Architect of
+        Italy-China BRI MoU signed 23 March 2019.
   missouri-st:
     name: Missouri University of Science and Technology
     type: university
@@ -53386,6 +54412,9 @@ organizations:
     - person: andrew-ng
       role: alumni
       note: MS Electrical Engineering and Computer Science 1998
+    - person: patrick-collison
+      role: alumni
+      note: Dropout 2010
     - person: amin-nasser
       role: advisor
       note: Presidential CEO Advisory Board
@@ -53536,6 +54565,17 @@ organizations:
     - person: ngozi-okonjo-iweala
       role: alumni
       note: MCP 1978, PhD Regional Economics and Development 1981
+    - person: michele-geraci
+      role: alumni
+      from: 1994
+      to: 1996
+      note: MBA 1996, Sloan School of Management
+    - person: delian-asparouhov
+      role: alumni
+      note: Computer Science (dropout 2013)
+    - person: steven-hao
+      role: alumni
+      note: Mathematics and Computer Science
     - org: gratitude-america
       role: donor
       note: $150K donazione
@@ -53621,6 +54661,32 @@ organizations:
     - person: vincenzo-iozzo
       role: member
       note: Associate Researcher / Research Affiliate
+  mithril-capital:
+    tagline: Growth-stage fund di Peter Thiel per tech companies
+    name: Mithril Capital
+    type: privateequity
+    founded: 2012
+    headquarters: Austin, USA
+    status: active
+    stakeholders:
+    - person: peter-thiel
+      role: founder
+      from: 2012
+      note: Co-founded with Ajay Royan and Jim O'Neill
+    - person: jd-vance
+      role: partner
+      from: 2015
+      to: 2017
+    - person: ajay-royan
+      role: founder
+      from: 2012
+      note: Founder & Managing General Partner
+    - person: matt-grimm
+      role: partner
+      note: Principal
+    - org: thiel-capital
+      role: parent
+      note: Incubato da Thiel Capital
   mitratel:
     name: PT Dayamitra Telekomunikasi Tbk
     type: company
@@ -53816,6 +54882,10 @@ organizations:
       from: 2016
       to: 2020
       note: Vice President, Restructuring Group
+  mofcom:
+    name: Ministry of Commerce (China)
+    type: agency
+    headquarters: Beijing, China
   mol-group:
     name: MOL Group
     type: company
@@ -53981,6 +55051,17 @@ organizations:
     - person: githinji-gitahi
       role: executive
       note: Managing Director
+  mont-pelerin-society:
+    tagline: Network intellettuale neoliberista fondato da Hayek
+    name: Mont Pelerin Society
+    type: forum
+    founded: 1947
+    headquarters: Vevey, Switzerland
+    status: active
+    stakeholders:
+    - person: edwin-feulner
+      role: executive
+      note: President; former Treasurer
   montana-tech:
     name: Montana Tech
     type: university
@@ -54067,6 +55148,18 @@ organizations:
       role: founder
       from: 2000
       to: 2023
+  moral-majority:
+    tagline: Movimento politico evangelico co-fondato con Jerry Falwell
+    name: Moral Majority
+    type: forum
+    founded: 1979
+    headquarters: Lynchburg, USA
+    status: defunct
+    stakeholders:
+    - person: paul-weyrich
+      role: founder
+      from: 1979
+      note: Co-founder; coined the term "moral majority"
   morgan-stanley:
     tagline: L'eredita' della dinastia Morgan - da Glass-Steagall a $7.7 trilioni
     name: Morgan Stanley
@@ -54134,6 +55227,9 @@ organizations:
       from: 1995
       to: 2002
       note: M&A, Executive Director
+    - person: david-velez
+      role: employee
+      note: Investment banking
     - org: norges-bank-gpfg
       role: stake
     - org: cfr
@@ -54441,6 +55537,13 @@ organizations:
     headquarters: Hamilton, Bermuda
     status: active
     sector: family office
+  movimento-indipendenza:
+    name: Movimento Indipendenza
+    stakeholders:
+    - person: michele-geraci
+      role: leader
+      from: 2023
+      note: Head of Foreign Affairs and International Trade Department. Pro-multipolar Italy movement.
   mowi:
     name: Mowi ASA
     type: company
@@ -54557,6 +55660,18 @@ organizations:
     - person: marijke-wijnroks
       role: member
       note: Medical Coordinator Uganda; Field Doctor South Sudan
+  msi:
+    tagline: Partito neofascista italiano 1946-1995, confluito in Alleanza Nazionale
+    name: Movimento Sociale Italiano
+    type: party
+    founded: 1946
+    headquarters: Rome, Italy
+    status: dissolved
+    stakeholders:
+    - person: ignazio-la-russa
+      role: member
+      to: 1995
+      note: Leader Fronte della Gioventu, consigliere regionale Lombardia
   mssrf:
     name: M. S. Swaminathan Research Foundation
     type: foundation
@@ -54910,6 +56025,15 @@ organizations:
     stakeholders:
     - person: anthony-smare
       role: chairman
+  nanjing-university:
+    name: Nanjing University
+    type: university
+    headquarters: Nanjing, China
+    status: active
+    stakeholders:
+    - person: yang-jiechi
+      role: alumni
+      note: PhD World History 2006
   nanyang-technological-university:
     name: Nanyang Technological University
     type: university
@@ -54930,12 +56054,26 @@ organizations:
     - org: xbotpark
       role: incubator
       note: Incubated unicorn, robot vacuum
+  narya-capital:
+    name: Narya Capital
+    type: privateequity
+    founded: 2019
+    headquarters: Cincinnati, Ohio, USA
+    stakeholders:
+    - person: jd-vance
+      role: founder
+      from: 2019
   nasa:
     name: NASA
     type: agency
     founded: 1958
     headquarters: Washington D.C., USA
     status: active
+    stakeholders:
+    - person: gwynne-shotwell
+      role: advisor
+      from: 2019
+      note: National Space Council Users Advisory Group
   nasa-jpl:
     name: NASA Jet Propulsion Laboratory
     type: agency
@@ -55671,6 +56809,16 @@ organizations:
       from: 1895
       to: 1913
       note: Sales manager. Condannato antitrust 1913, poi assolto in appello
+  ndrc:
+    name: National Development and Reform Commission
+    type: agency
+    founded: 2003
+    headquarters: Beijing, China
+    stakeholders:
+    - person: he-lifeng
+      role: leader
+      from: 2017
+      to: 2023
   ndtv:
     tagline: Storico network news indiano - da simbolo giornalismo indipendente a controllo Adani Group (2022)
     name: NDTV (New Delhi Television)
@@ -55983,6 +57131,9 @@ organizations:
       from: 1995
       to: 1998
       note: Creator of JavaScript (May 1995)
+    - person: luke-nosek
+      role: executive
+      note: Evangelist, pre-PayPal
     - org: kleiner-perkins
       role: stake
       from: 1994
@@ -56081,6 +57232,63 @@ organizations:
       from: 1848
       to: 1849
       note: Co-editor
+  neuralink:
+    tagline: Brain-computer interface company fondata da Elon Musk per connettere cervello e macchina
+    name: Neuralink
+    type: company
+    founded: 2016
+    headquarters: Fremont, USA
+    status: active
+    stakeholders:
+    - person: elon-musk
+      role: founder
+      from: 2016
+      note: CEO & Co-Founder
+    - person: dj-seo
+      role: founder
+      from: 2016
+      note: Co-Founder, President & COO
+    - person: max-hodak
+      role: founder
+      from: 2016
+      to: 2021
+      note: Co-Founder & President, left 2021
+    - person: benjamin-rapoport
+      role: founder
+      from: 2016
+      to: 2018
+      note: Co-Founder, left 2018
+    - person: paul-merolla
+      role: founder
+      from: 2016
+      note: Co-Founder, chip designer ex-IBM
+    - person: vanessa-tolosa
+      role: founder
+      from: 2016
+      note: Co-Founder, biocompatible materials
+    - person: philip-sabes
+      role: founder
+      from: 2016
+      note: Co-Founder, neuroscientist UCSF
+    - person: tim-gardner
+      role: founder
+      from: 2016
+      note: Co-Founder, neuroscientist Boston University
+    - person: tim-hanson
+      role: founder
+      from: 2016
+      note: Co-Founder
+    - org: founders-fund
+      role: investor
+      note: Series D & E investor
+    - org: sequoia-capital
+      role: investor
+      note: Series E lead investor
+    - org: gigafund
+      role: investor
+    - org: ark-invest
+      role: investor
+      note: Series E lead investor, Cathie Wood
   new-america:
     name: New America
     type: thinktank
@@ -56853,6 +58061,15 @@ organizations:
       share: 15%
       from: 1999
       note: Originally 43.4%, reduced to 15% in 2023 rebalancing
+  nit-tiruchirappalli:
+    name: National Institute of Technology, Tiruchirappalli
+    type: university
+    headquarters: Tiruchirappalli, India
+    status: active
+    stakeholders:
+    - person: prasanna-sankar
+      role: alumni
+      note: B.Tech Computer Science 2008
   njf-capital:
     name: NJF Capital
     type: privateequity
@@ -57254,6 +58471,12 @@ organizations:
     - person: david-boies
       role: alumni
       note: BS 1964
+    - person: gwynne-shotwell
+      role: alumni
+      note: BS Mechanical Engineering
+    - person: gwynne-shotwell
+      role: trustee
+      note: Board of Trustees, McCormick Advisory Council
   northwestern-kellogg:
     name: Northwestern University - Kellogg School of Management
     type: university
@@ -57310,6 +58533,15 @@ organizations:
       from: 2005
       to: 2010
       note: Chairman
+  nottingham-ningbo:
+    name: University of Nottingham Ningbo China
+    type: university
+    stakeholders:
+    - person: michele-geraci
+      role: faculty
+      from: 2008
+      to: 2018
+      note: Assistant Professor of Finance, poi Visiting Professor dal 2020
   novalpina-capital:
     name: Novalpina Capital
     type: privateequity
@@ -57863,6 +59095,47 @@ organizations:
       share: 8.0%
     - org: vanguard
       share: 5.0%
+  nubank:
+    tagline: La piu grande banca digitale al mondo per numero di clienti, fondata in Brasile nel 2013
+    name: Nubank (Nu Holdings)
+    type: bank
+    founded: 2013
+    headquarters: São Paulo, BRA
+    status: active
+    stakeholders:
+    - person: david-velez
+      role: founder
+      from: 2013
+      note: Co-founder, Chairman & CEO
+    - person: cristina-junqueira
+      role: founder
+      from: 2013
+      note: Co-founder, Chief Growth Officer
+    - person: edward-wible
+      role: founder
+      from: 2013
+      note: Co-founder, ex CTO
+    - person: roberto-campos-neto
+      role: chairman
+      from: 2025
+      note: Vice Chairman & Global Head of Public Policy
+    - org: blackrock
+      role: stake
+      share: 0.057
+      note: 5.68% as of 2025
+    - org: founders-fund
+      role: investor
+    - org: berkshire-hathaway
+      role: stake
+      from: 2021
+      note: $1B total investment pre and post IPO
+    - org: tencent
+      role: stake
+      note: Strategic shareholder
+    - org: sequoia-capital
+      role: stake
+      from: 2013
+      note: Lead seed investor, largest institutional shareholder
   nuclear-threat-initiative:
     name: Nuclear Threat Initiative
     type: foundation
@@ -58090,6 +59363,17 @@ organizations:
     - person: david-boies
       role: alumni
       note: LLM 1967
+    - person: jacob-helberg
+      role: alumni
+      note: MS Cybersecurity Risk & Strategy 2020
+  nyu-shanghai:
+    name: New York University Shanghai
+    type: university
+    stakeholders:
+    - person: michele-geraci
+      role: faculty
+      from: 2008
+      note: Adjunct Professor of Finance
   nyu-stern:
     name: NYU Stern School of Business
     type: university
@@ -58264,6 +59548,25 @@ organizations:
     - person: beny-steinmetz
       role: founder
       note: Via BSGR, Sierra Leone diamonds
+  oculus-vr:
+    tagline: Startup VR fondata da Palmer Luckey, acquisita da Facebook per $2B nel 2014
+    name: Oculus VR
+    type: company
+    founded: 2012
+    stakeholders:
+    - person: palmer-luckey
+      role: founder
+      from: 2012
+      to: 2014
+      note: Fondatore, Kickstarter $2.4M, acquisita da Facebook $2B Mar 2014
+    - person: joe-chen
+      role: executive
+      note: Product Lead, first employees, hardware development
+    - org: meta
+      role: acquisition
+      share: '1.0'
+      from: 2014
+      note: Facebook acquisisce Oculus VR per $2B, marzo 2014
   odey-asset-management:
     name: Odey Asset Management
     type: hedgefund
@@ -58490,6 +59793,9 @@ organizations:
       from: 2024
       to: 2025
       note: Chairman 2024-25, stepped down to avoid conflict of interest
+    - org: mithril-capital
+      role: investor
+      note: Royan on board
   olayan-group:
     name: Olayan Group
     type: company
@@ -58947,6 +60253,11 @@ organizations:
       from: 2017
       to: 2018
       note: President 72nd General Assembly; Exec Asst Special Envoy Balkans 1999-2001
+    - person: ettore-sequi
+      role: member
+      from: 1994
+      to: 1998
+      note: Primo Segretario, Rappresentanza Permanente Italia presso ONU New York
     - org: wef
       role: partner
   op-jindal-group:
@@ -59402,6 +60713,18 @@ organizations:
     - org: oak-foundation
       role: funder
       note: £252k over 3 years for feminist resilience project
+  opendoor:
+    tagline: iBuying immobiliare, disruptore mercato residenziale USA
+    name: Opendoor
+    type: company
+    founded: 2014
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: keith-rabois
+      role: founder
+      from: 2014
+      note: Co-fondatore e COO
   openinfra-foundation:
     tagline: Foundation che governa OpenStack e altri progetti open source per infrastruttura cloud, edge e AI
     name: OpenInfra Foundation
@@ -59482,6 +60805,37 @@ organizations:
       role: member
       from: 2024
       note: General member
+  opensecrets:
+    tagline: Autorita' non-partisan sul denaro nella politica americana, traccia lobbying, finanziamenti e revolving door
+    name: OpenSecrets
+    type: foundation
+    founded: 1983
+    headquarters: Washington D.C., USA
+    status: active
+    stakeholders:
+    - person: frank-church
+      role: founder
+      from: 1983
+      note: Co-fondatore CRP
+    - person: hugh-scott
+      role: founder
+      from: 1983
+      note: Co-fondatore CRP
+    - person: sheila-krumholz
+      role: executive
+      from: 2006
+      to: 2023
+      note: Executive Director
+    - person: hilary-braseth
+      role: executive
+      from: 2024
+      note: Executive Director
+    - org: carnegie-corporation
+      role: donor
+      note: Grant funder
+    - org: open-society-foundations
+      role: donor
+      note: Major funder
   openssf:
     tagline: 'Governance della sicurezza del software open source globale: dalla risposta a Log4Shell alla protezione della
       supply chain'
@@ -60328,10 +61682,38 @@ organizations:
       role: executive
       from: 2023
       note: Senior Counselor
+    - person: jacob-helberg
+      role: advisor
+      note: Senior Advisor to CEO Alex Karp
+    - person: trae-stephens
+      role: executive
+      from: 2008
+      to: 2014
+      note: Led defense/intelligence growth
+    - person: keith-rabois
+      role: advisor
+      note: Early personal investor
+    - person: brian-schimpf
+      role: executive
+      from: 2007
+      to: 2017
+      note: Director of Engineering, built Foundry platform, defense products
+    - person: matt-grimm
+      role: executive
+      note: Forward Deployed Engineer, deployed Iraq & Afghanistan
+    - person: matthew-steckman
+      role: executive
+      note: Among first 12 employees DC office, headed business operations
+    - org: founders-fund
+      role: investor
+      note: Primo investitore, 18.5x return, $3.1B distribuiti
     - org: in-q-tel
       role: investor
       from: 2005
       note: $2M seed investment
+    - org: mithril-capital
+      role: investor
+      note: Early investor
   palestinian-authority:
     name: Palestinian National Authority
     type: government
@@ -60892,6 +62274,26 @@ organizations:
     - person: pierre-omidyar
       role: board
       note: ~6% stake via eBay spinoff
+    - person: ken-howery
+      role: founder
+      from: 1998
+      to: 2002
+      note: Co-fondatore e primo CFO
+    - person: keith-rabois
+      role: executive
+      from: 2000
+      to: 2002
+      note: EVP Business Development, Public Affairs & Policy
+    - person: andrew-mccormack
+      role: executive
+      from: 2001
+      to: 2002
+      note: IPO preparation team
+    - person: luke-nosek
+      role: founder
+      from: 1998
+      to: 2002
+      note: Co-fondatore, VP Marketing & Strategy
   paypal-mafia:
     tagline: Da un'azienda di pagamenti online all'elite del potere tech-politico americano
     name: PayPal Mafia
@@ -60906,6 +62308,9 @@ organizations:
     headquarters: Beijing, China
     status: active
     stakeholders:
+    - person: zhu-jun
+      role: executive
+      note: Former DG International Department
     - person: pan-gongsheng
       role: executive
       from: 2023
@@ -60947,6 +62352,19 @@ organizations:
       share: 7.0
     - org: vanguard
       share: 8.0
+  pdl:
+    tagline: Partito di centro-destra 2009-2013, fusione FI + AN
+    name: Il Popolo della Liberta'
+    type: party
+    founded: 2009
+    headquarters: Rome, Italy
+    status: dissolved
+    stakeholders:
+    - person: ignazio-la-russa
+      role: executive
+      from: 2009
+      to: 2012
+      note: Coordinatore Nazionale (uno di tre)
   pds:
     name: Partito Democratico della Sinistra
     type: party
@@ -61090,6 +62508,13 @@ organizations:
     - person: mitchell-baker
       role: alumni
       note: Exchange year during UC Berkeley
+    - person: michele-geraci
+      role: faculty
+      from: 2019
+      note: Honorary Professor, School of Economics
+    - person: hu-chunhua
+      role: alumni
+      note: BA Chinese Literature 1983
   penguin-random-house:
     name: Penguin Random House
     type: media
@@ -61418,6 +62843,16 @@ organizations:
     - org: pershing-square
       role: subsidiary
       note: Philanthropy arm; $930M+ committed
+  persona:
+    tagline: Identity verification platform
+    name: Persona
+    type: company
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: napoleon-ta
+      role: board
+      note: Board member
   pes:
     name: Party of European Socialists
     type: forum
@@ -62187,6 +63622,17 @@ organizations:
       share: 37
       from: 2015
       note: via ChemChina merger; control ended April 2025 per DPCM
+  pittsburgh-tribune-review:
+    name: Pittsburgh Tribune-Review
+    type: media
+    headquarters: Pittsburgh, USA
+    status: defunct
+    stakeholders:
+    - person: richard-mellon-scaife
+      role: executive
+      from: 1970
+      to: 2014
+      note: Owner and Publisher
   pivotal:
     name: Pivotal Software
     type: company
@@ -62310,6 +63756,35 @@ organizations:
       role: chairman
       from: 1969
       to: 2004
+  plural:
+    tagline: VC europeo fondato da Hinrikus e Hogarth, focus early-stage e AI
+    name: Plural
+    type: privateequity
+    founded: 2022
+    headquarters: Tallinn, EST
+    status: active
+    sector: finance
+    stakeholders:
+    - person: taavet-hinrikus
+      role: founder
+      from: 2022
+      note: Co-founder & General Partner
+    - person: ian-hogarth
+      role: founder
+      from: 2022
+      note: Co-founder & General Partner
+    - person: sten-tamkivi
+      role: founder
+      from: 2022
+      note: Co-founder & General Partner
+    - person: khaled-helioui
+      role: founder
+      from: 2022
+      note: Co-founder & General Partner
+    - person: carina-namih
+      role: partner
+      from: 2023
+      note: Partner, joined 2023
   pnac:
     tagline: Think tank neoconservatore che ha plasmato la politica estera americana post-Guerra Fredda e la dottrina Bush
     name: Project for the New American Century
@@ -62965,6 +64440,16 @@ organizations:
       role: employee
       to: 1991
       note: Early career before MBA
+  pronomos-capital:
+    tagline: VC per charter cities e governance sperimentale
+    name: Pronomos Capital
+    type: privateequity
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: peter-thiel
+      role: investor
+      note: Backer di Próspera charter city Honduras
   prosus:
     name: Prosus N.V.
     type: company
@@ -63340,6 +64825,9 @@ organizations:
       role: executive
       to: 1992
       note: Price Waterhouse (pre-merger)
+    - person: kristo-kaarmann
+      role: employee
+      note: Consultant, data management per banche e telecom in Estonia
   python-software-foundation:
     name: Python Software Foundation
     type: foundation
@@ -63657,6 +65145,17 @@ organizations:
     - person: idan-ofer
       role: founder
       note: Principal owner
+  quantum-systems:
+    tagline: Primo unicorno dual-use europeo, droni autonomi
+    name: Quantum Systems
+    type: defense
+    headquarters: Munich, Germany
+    status: active
+    stakeholders:
+    - person: peter-thiel
+      role: investor
+      from: 2025
+      note: Series C Nov 2025, via Founders Fund
   quds-force:
     name: Quds Force
     type: agency
@@ -63682,6 +65181,15 @@ organizations:
     - person: sarah-ferguson
       role: alumni
       note: Secretarial diploma
+  queens-university:
+    name: Queen's University
+    type: university
+    headquarters: Kingston, Canada
+    status: active
+    stakeholders:
+    - person: kimbal-musk
+      role: alumni
+      note: BA Business 1995
   quinenco:
     name: Quiñenco S.A.
     type: company
@@ -64046,6 +65554,15 @@ organizations:
     stakeholders:
     - person: darren-walker
       role: board
+  ramp:
+    name: Ramp
+    type: company
+    founded: 2019
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - org: founders-fund
+      role: investor
   rand:
     name: RAND Corporation
     type: thinktank
@@ -64092,6 +65609,15 @@ organizations:
     - person: jason-matheny
       role: executive
       from: 2022
+  randolph-macon:
+    name: Randolph-Macon College
+    type: university
+    headquarters: Ashland, USA
+    status: active
+    stakeholders:
+    - person: hugh-scott
+      role: alumni
+      note: BA 1919
   ranger-global:
     name: Ranger Global Advisors
     type: hedgefund
@@ -64704,6 +66230,15 @@ organizations:
       role: founder
       from: 1982
       note: Founder and Chairman
+  regis-university:
+    name: Regis University
+    type: university
+    headquarters: Denver, USA
+    status: active
+    stakeholders:
+    - person: edwin-feulner
+      role: alumni
+      note: BA English 1963
   reichman-university:
     name: Reichman University (IDC Herzliya)
     type: university
@@ -65244,6 +66779,9 @@ organizations:
     - person: james-whitehurst
       role: alumni
       note: BS Computer Science & Economics 1989; Board of Trustees 2019-
+    - person: joe-chen
+      role: alumni
+      note: BA Electrical Engineering
   ricehadleygates:
     name: Rice, Hadley, Gates & Manuel LLC
     type: company
@@ -65343,6 +66881,42 @@ organizations:
       share: 99.7
       from: 2015
       note: Full ownership
+  rippling:
+    tagline: Piattaforma HR/IT/Finance di Parker Conrad, $16.8B valuation, causa spionaggio vs Deel 2025
+    name: Rippling
+    type: company
+    founded: 2016
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: napoleon-ta
+      role: board
+      from: 2020
+      note: Board member via Founders Fund
+    - person: parker-conrad
+      role: founder
+      from: 2016
+      note: Co-founder & CEO
+    - person: prasanna-sankar
+      role: founder
+      from: 2016
+      note: Co-Founder & CTO
+    - org: goldman-sachs
+      role: investor
+      note: Goldman Sachs Alternatives/Growth
+    - org: founders-fund
+      role: investor
+      note: Early investor, Napoleon Ta board member
+    - org: gic
+      role: investor
+    - org: sequoia-capital
+      role: investor
+    - org: y-combinator
+      role: investor
+      note: YC alumni company
+    - org: kleiner-perkins
+      role: investor
+      note: Lead investor Series B
   rit-capital-partners:
     name: RIT Capital Partners
     type: assetmanager
@@ -67352,6 +68926,12 @@ organizations:
     type: bank
     founded: 1982
     headquarters: São Paulo, Brazil
+    stakeholders:
+    - person: roberto-campos-neto
+      role: executive
+      from: 2000
+      to: 2018
+      note: Head Treasury & International Markets
   santander-uk:
     type: bank
     status: active
@@ -67430,6 +69010,16 @@ organizations:
     - person: vernon-jordan
       role: board
       note: Board of Directors
+  sarah-scaife-foundation:
+    name: Sarah Scaife Foundation
+    type: foundation
+    founded: 1941
+    headquarters: Pittsburgh, USA
+    status: active
+    stakeholders:
+    - person: richard-mellon-scaife
+      role: chairman
+      note: Chairman; principale veicolo di finanziamento conservatore
   saras:
     name: Saras S.p.A.
     type: company
@@ -67656,6 +69246,9 @@ organizations:
       from: 2016
       to: 2025
       note: Co-founder & CEO; stepped down as CEO June 2025, remains on board
+    - person: steven-hao
+      role: executive
+      note: Early engineer
     - org: meta
       role: stake
       share: 0.49
@@ -67770,6 +69363,11 @@ organizations:
       from: 1967
       to: 1976
       note: Managing Director NY
+    - person: michele-geraci
+      role: executive
+      from: 1996
+      to: 2008
+      note: Investment banking
   schwarze-kapelle:
     tagline: Rete clandestina di resistenza militare anti-Hitler centrata nell'Abwehr (intelligence militare Wehrmacht). Attiva
       dal 1938 al 1945, organizzo' almeno tre tentativi di colpo di stato, avverti' gli Alleati di operazioni strategiche,
@@ -68411,6 +70009,11 @@ organizations:
     - person: jim-goetz
       role: partner
       note: Partner
+    - person: david-velez
+      role: partner
+      from: 2011
+      to: 2013
+      note: Partner, Latin America investments
   sequoia-china:
     name: Sequoia Capital China
     type: privateequity
@@ -69363,6 +70966,28 @@ organizations:
       role: chairman
       from: 2011
       note: Chairman Board and President
+  skadden-arps:
+    tagline: Studio legale globale dominante in M&A, hub del revolving door governo-finanza USA
+    name: Skadden, Arps, Slate, Meagher & Flom LLP
+    type: company
+    founded: 1948
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: james-fitzgerald
+      role: partner
+      to: 2008
+      note: Associate, New York office, 7 anni
+    - person: gregory-craig
+      role: partner
+      from: 2010
+      to: 2018
+      note: Partner, crisis management e global issues practice
+    - person: joseph-flom
+      role: founder
+      from: 1948
+      to: 2011
+      note: Name partner dal 1954, Senior Partner
   skoda:
     name: Skoda
     type: company
@@ -69511,6 +71136,58 @@ organizations:
     founded: 2010
     headquarters: Santa Monica, USA
     status: active
+  skype:
+    tagline: Piattaforma VoIP P2P (2003-2025), acquisita eBay $2.6B poi Microsoft $8.5B, origine Skype Mafia
+    name: Skype
+    type: company
+    founded: 2003
+    headquarters: Luxembourg / Tallinn, EST
+    status: defunct
+    stakeholders:
+    - person: taavet-hinrikus
+      role: executive
+      from: 2003
+      to: 2008
+      note: Primo dipendente, Director of Strategy
+    - person: sten-tamkivi
+      role: executive
+      from: 2004
+      to: 2012
+      note: General Manager & Site Leader Estonia, grew office from 50 to 400
+    - person: niklas-zennstrom
+      role: founder
+      from: 2003
+      note: Co-founder con Janus Friis
+    - person: jaan-tallinn
+      role: founder
+      from: 2003
+      note: Founding engineer, sviluppatore core
+    - person: janus-friis
+      role: founder
+      from: 2003
+      note: Co-founder con Niklas Zennström
+    - person: ahti-heinla
+      role: founder
+      from: 2003
+      note: Founding engineer, sviluppatore core
+    - person: priit-kasesalu
+      role: founder
+      from: 2003
+      note: Founding engineer, sviluppatore core
+    - person: toivo-annus
+      role: founder
+      from: 2003
+      note: Co-founder, ideatore VoIP P2P con Friis
+    - org: microsoft
+      role: acquisition
+      from: 2011
+      to: 2025
+      note: Acquisizione $8.5B (maggio 2011), shutdown maggio 2025
+    - org: ebay
+      role: acquisition
+      from: 2005
+      to: 2009
+      note: Acquisizione $2.6B (settembre 2005), vendita 65% a Silver Lake 2009
   skyteam:
     tagline: Seconda alleanza aerea globale per dimensioni, dominata da Air France-KLM e Delta Air Lines
     name: SkyTeam
@@ -70308,6 +71985,17 @@ organizations:
       share: 6.0%
     - org: vanguard
       share: 1.8%
+  songkick:
+    name: Songkick
+    type: company
+    founded: 2007
+    headquarters: London, GBR
+    status: acquired
+    stakeholders:
+    - person: ian-hogarth
+      role: founder
+      from: 2007
+      note: Co-founder & CEO
   sonova:
     name: Sonova Holding AG
     type: company
@@ -70604,6 +72292,14 @@ organizations:
       share: 0.1
       from: 2024
       note: Activist stake, board seats Oct 2024
+  southwestern-univ-finance-chengdu:
+    name: Southwestern University of Finance and Economics
+    stakeholders:
+    - person: michele-geraci
+      role: professor
+      from: 2008
+      to: 2018
+      note: Short-term appointment, Chengdu
   sovcomflot:
     name: Sovcomflot
     type: company
@@ -70630,6 +72326,7 @@ organizations:
       to: 2023
       note: Managing Director & Chief North American Economist, S&P Global Ratings
   spacex:
+    tagline: 'Azienda aerospaziale di Elon Musk: razzi riutilizzabili, Starlink e il piu grande contractor privato del Pentagono'
     name: SpaceX
     type: company
     founded: 2002
@@ -70643,6 +72340,58 @@ organizations:
     - person: elon-musk
       role: executive
       from: 2002
+    - person: peter-thiel
+      role: investor
+      note: Investor
+    - person: will-bruey
+      role: executive
+      from: 2012
+      to: 2018
+      note: Lead Hardware Dev Engineer / Spacecraft Operator, Dragon avionics, 8 ISS missions
+    - person: luke-nosek
+      role: board
+      from: 2008
+      note: Primo VC investor in SpaceX, board member
+    - person: scott-nolan
+      role: executive
+      note: Early employee. Merlin engine development, Dragon subsystems, factory scaling
+    - person: gwynne-shotwell
+      role: executive
+      from: 2002
+      note: President & COO
+    - person: gwynne-shotwell
+      role: board
+      note: Board member
+    - person: kimbal-musk
+      role: board
+      note: Board member, fratello di Elon Musk
+    - person: antonio-gracias
+      role: board
+      note: Board member, Valor Equity Partners
+    - person: steve-jurvetson
+      role: board
+      note: Board member, DFJ
+    - org: founders-fund
+      role: investor
+      note: Primo investitore istituzionale, $671M → $18.2B (27x)
+    - org: alphabet
+      role: stake
+      share: 0.075
+      from: 2015
+      note: Google/Alphabet ~7.5% stake
+    - org: sequoia-capital
+      role: stake
+      note: Investor
+    - org: andreessen-horowitz
+      role: stake
+      note: Investor
+    - org: fidelity
+      role: stake
+      note: Key institutional investor
+    - org: gigafund
+      role: investor
+      from: 2017
+      note: $1B+ invested
   spandau-prison:
     name: Spandau Prison
     founded: 1876
@@ -70845,6 +72594,9 @@ organizations:
     status: active
     sector: music streaming
     stakeholders:
+    - person: peter-thiel
+      role: investor
+      note: Early investor
     - person: rene-obermann
       role: board
       note: Ex-Director
@@ -70868,6 +72620,8 @@ organizations:
       share: 6.0%
     - org: state-street
       share: 2.2%
+    - org: founders-fund
+      role: investor
     - org: tencent
       role: investor
       share: 8.16
@@ -70879,6 +72633,18 @@ organizations:
     stakeholders:
     - person: marieme-jamme
       role: founder
+  square:
+    name: Square (Block, Inc.)
+    type: company
+    founded: 2009
+    headquarters: San Francisco, USA
+    status: active
+    stakeholders:
+    - person: keith-rabois
+      role: executive
+      from: 2010
+      to: 2013
+      note: COO
   squarespace:
     name: Squarespace
     type: company
@@ -71286,6 +73052,36 @@ organizations:
     - person: elizabeth-holmes
       role: alumni
       note: Chemical Engineering, dropout 2004, President Scholar
+    - person: jacob-helberg
+      role: advisor
+      note: Senior Advisor, Center on Geopolitics and Technology
+    - person: ken-howery
+      role: alumni
+      note: BA Economics 1998, managing editor Stanford Review
+    - person: keith-rabois
+      role: alumni
+      note: BA Political Science 1991
+    - person: napoleon-ta
+      role: alumni
+      note: MBA
+    - person: scott-nolan
+      role: alumni
+      note: MBA
+    - person: stephen-oskoui
+      role: alumni
+      note: Computer Science
+    - person: frank-church
+      role: alumni
+      note: BA 1947, JD Stanford Law 1950
+    - person: david-velez
+      role: alumni
+      note: BS Management Science & Engineering 2005
+    - person: david-velez
+      role: alumni
+      note: MBA 2012
+    - person: sten-tamkivi
+      role: alumni
+      note: MS Management (Sloan) 2013
     - org: sun-microsystems
       role: spinoff
       note: SUN = Stanford University Network
@@ -71650,6 +73446,34 @@ organizations:
     - person: tomasz-stanczak
       role: board
       from: 2022
+  starship-technologies:
+    tagline: Robot delivery autonomi last-mile, fondata da Heinla e Friis (Skype), unicorno $1.2B
+    name: Starship Technologies
+    type: company
+    founded: 2014
+    headquarters: San Francisco, USA / Tallinn, EST
+    status: active
+    sector: tech
+    stakeholders:
+    - person: janus-friis
+      role: founder
+      from: 2014
+      note: Co-founder
+    - person: ahti-heinla
+      role: founder
+      from: 2014
+      note: Co-founder & CTO
+    - org: plural
+      role: stake
+      from: 2024
+      note: Co-lead Series C $90M (Feb 2024)
+    - org: atomico
+      role: stake
+      note: Investor
+    - org: iconical
+      role: stake
+      from: 2024
+      note: Co-lead Series C $90M (Feb 2024)
   start-small:
     name: Start Small LLC
     type: foundation
@@ -72138,6 +73962,7 @@ organizations:
     headquarters: Basel, Switzerland
     sector: dental
   stripe:
+    tagline: Infrastruttura globale dei pagamenti online, fondata dai fratelli Collison, valutata $91.5B
     name: Stripe
     type: company
     founded: 2010
@@ -72145,6 +73970,14 @@ organizations:
     status: active
     sector: fintech, payments
     stakeholders:
+    - person: elon-musk
+      role: shareholder
+      from: 2011
+      note: Early investor
+    - person: peter-thiel
+      role: shareholder
+      from: 2011
+      note: Early investor
     - person: sam-altman
       role: shareholder
       from: 2011
@@ -72157,6 +73990,9 @@ organizations:
     - person: mark-carney
       role: board
       note: External Board Member
+    - person: michael-moritz
+      role: board
+      note: Board member via Sequoia Capital
     - person: patrick-collison
       role: founder
       from: 2010
@@ -72175,6 +74011,9 @@ organizations:
     - person: rahul-patil
       role: executive
       note: Chief Technology Officer
+    - org: founders-fund
+      role: investor
+      note: Early investor
     - org: sequoia-capital
       from: 2011
       note: Early investor, Moritz on board
@@ -72184,6 +74023,9 @@ organizations:
     - org: thrive-capital
       role: investor
       note: $2B investment, significant stake
+    - org: atomico
+      role: stake
+      note: Investor
   stroygazmontazh:
     name: Stroygazmontazh (SGM Group)
     type: company
@@ -72970,6 +74812,17 @@ organizations:
       role: board
       from: 2021
       note: Independent Director, Chair Nominating & Corporate Governance Committee
+  ta-associates:
+    name: TA Associates
+    type: privateequity
+    headquarters: Boston, USA
+    status: active
+    stakeholders:
+    - person: khaled-helioui
+      role: executive
+      from: 2009
+      to: 2012
+      note: Investment Associate
   tabcorp:
     name: Tabcorp Holdings
     type: company
@@ -73057,6 +74910,15 @@ organizations:
     - org: infortar
       share: 68.5%
       note: Post voluntary takeover bid August 2024
+  tallinn-university-of-technology:
+    name: Tallinn University of Technology (TalTech)
+    type: university
+    headquarters: Tallinn, EST
+    status: active
+    stakeholders:
+    - person: taavet-hinrikus
+      role: alumni
+      note: Computer Science 1999-2003
   tallinna-sadam:
     name: Tallinna Sadam (Port of Tallinn)
     type: company
@@ -73202,6 +75064,44 @@ organizations:
     type: airline
     headquarters: Bucharest, Romania
     status: active
+  task-force-china:
+    tagline: Cabina di regia MISE per relazioni economiche Italia-Cina e adesione alla BRI
+    name: Task Force China
+    type: agency
+    founded: 2018
+    headquarters: Rome, Italy
+    status: defunct
+    stakeholders:
+    - person: michele-geraci
+      role: leader
+      from: 2018
+      to: 2019
+      note: Coordinatore, Sottosegretario MISE
+    - person: luigi-di-maio
+      role: leader
+      from: 2018
+      to: 2019
+      note: Promotore, Vicepresidente CdM e Min. Sviluppo Economico
+    - person: ettore-sequi
+      role: member
+      from: 2018
+      note: Ambasciatore d'Italia a Pechino, partecipante riunione inaugurale
+    - person: laura-castelli
+      role: member
+      from: 2018
+      note: Sottosegretario Economia, partecipante riunione inaugurale 1 ott 2018
+    - person: luciano-barra-caracciolo
+      role: member
+      from: 2018
+      note: Sottosegretario Affari Europei, partecipante riunione inaugurale 1 ott 2018
+    - person: carlo-sibilia
+      role: member
+      from: 2018
+      note: Sottosegretario Interno, partecipante riunione inaugurale 1 ott 2018
+    - org: mise
+      role: parent
+      from: 2018
+      note: Task Force istituita presso il MISE
   tata-group:
     tagline: 'Il conglomerato piu'' antico e rispettato dell''India: 157 anni di capitalismo filantropico'
     name: Tata Group
@@ -73637,6 +75537,10 @@ organizations:
     stakeholders:
     - person: cristina-stenbeck
       role: board
+    - person: niklas-zennstrom
+      role: employee
+      from: 1991
+      to: 1999
     - org: kinnevik
       role: major shareholder
   telecom-italia:
@@ -73716,6 +75620,15 @@ organizations:
       share: 27.32
       from: 2025
       note: Primo azionista, acquisizione da Vivendi
+  telecom-sudparis:
+    name: Telecom SudParis
+    type: university
+    headquarters: Evry, France
+    status: active
+    stakeholders:
+    - person: khaled-helioui
+      role: alumni
+      note: MSc Telecommunications Engineering
   telefonica:
     tagline: 'Il campione nazionale delle telecomunicazioni spagnole: privatizzazione, PP, e ritorno dello Stato'
     name: Telefonica S.A.
@@ -73852,6 +75765,19 @@ organizations:
       share: 1.4%
     - org: vanguard
       share: 1.1%
+  teleport:
+    tagline: Global talent mobility platform, acquisita da Topia 2017
+    name: Teleport
+    type: company
+    founded: 2014
+    headquarters: Tallinn, Estonia
+    status: acquired
+    stakeholders:
+    - person: sten-tamkivi
+      role: founder
+      from: 2014
+      to: 2017
+      note: Co-founder & CEO
   televisa:
     name: Grupo Televisa
     type: media
@@ -74282,6 +76208,10 @@ organizations:
       from: 2009
       to: 2012
       note: Chief Engineer Model S
+    - person: kimbal-musk
+      role: board
+      from: 2004
+      note: Board member
     - org: norges-bank-gpfg
       role: stake
     - org: blackrock
@@ -74422,6 +76352,18 @@ organizations:
     - person: t-boone-pickens
       role: alumni
       note: Attended 1947, basketball scholarship, transferred to Oklahoma State
+  texas-public-policy-foundation:
+    tagline: Think tank conservatore texano
+    name: Texas Public Policy Foundation
+    type: thinktank
+    headquarters: Austin, USA
+    status: active
+    stakeholders:
+    - person: kevin-roberts
+      role: executive
+      from: 2016
+      to: 2021
+      note: EVP then President/CEO
   texas-rangers:
     name: Texas Rangers
     type: sportsclub
@@ -74801,9 +76743,11 @@ organizations:
       to: 2018
       note: CEO; condannata per frode 2022, 11.25 anni
   thiel-capital:
+    tagline: Family office di Peter Thiel, braccio VC del Rivendell Trust, incubatore di Founders Fund, Mithril e Valar
     name: Thiel Capital
     type: company
-    headquarters: San Francisco, USA
+    founded: 2011
+    headquarters: Los Angeles, USA
     status: active
     stakeholders:
     - person: peter-thiel
@@ -74813,6 +76757,19 @@ organizations:
       role: executive
       from: 2022
       note: Global Strategist
+    - person: andrew-mccormack
+      role: executive
+      from: 2008
+      note: International initiatives
+    - person: james-fitzgerald
+      role: executive
+      from: 2008
+      to: 2010
+      note: COO e General Counsel
+    - person: blake-masters
+      role: executive
+    - person: michael-kratsios
+      role: executive
   thiel-fellowship:
     tagline: Programma che paga giovani talenti per abbandonare l'universita' e costruire startup
     name: Thiel Fellowship
@@ -74853,6 +76810,16 @@ organizations:
       role: member
       from: 2013
       note: Thiel Fellow 2013, founder of OYO Rooms
+    - person: delian-asparouhov
+      role: member
+      from: 2013
+      note: Thiel Fellow 2013, founded Nightingale
+    - person: walden-yan
+      role: member
+      note: Thiel Fellow
+    - org: thiel-capital
+      role: parent
+      note: Incubato da Thiel Capital
   third-point:
     tagline: 'Hedge fund attivista di Daniel Loeb: lettere incendiarie ai CEO e miliardi per forzare il cambiamento aziendale'
     name: Third Point LLC
@@ -76110,6 +78077,9 @@ organizations:
     - person: michael-dell
       role: advisor
       note: Advisory Board, School of Economics and Management
+    - person: hu-jintao
+      role: alumni
+      note: Hydroelectric Engineering 1965
   tskgv:
     tagline: 'Fondazione statale che controlla il cuore dell''industria difesa turca: Aselsan, TAI, Havelsan, Roketsan - sotto
       controllo diretto di Erdogan dal 2017'
@@ -76463,6 +78433,15 @@ organizations:
       from: 1990
       to: 2008
       note: President Turner Sports 1999-2003, President Turner Entertainment Group 2003-2008
+  turning-point-usa:
+    name: Turning Point USA
+    type: foundation
+    founded: 2012
+    headquarters: Phoenix, Arizona, USA
+    stakeholders:
+    - person: charlie-kirk
+      role: founder
+      from: 2012
   tusiad:
     tagline: Associazione imprenditoriale turca, 4000+ aziende, 50% PIL turco, dominata dalle dinastie Koc, Sabanci, Eczacibasi
     name: TUSIAD - Turkish Industry and Business Association
@@ -76707,6 +78686,11 @@ organizations:
     - person: beth-ann-bovino
       role: member
       note: Equity Strategy Research Analyst, UBS Warburg
+    - person: khaled-helioui
+      role: executive
+      from: 2007
+      to: 2009
+      note: Analyst, Investment Banking
     - org: blackrock
       share: 5.0%
     - org: vanguard
@@ -76785,6 +78769,9 @@ organizations:
     - person: ken-thompson
       role: alumni
       note: BS 1965, MS 1966 Electrical Engineering
+    - person: edwin-meese
+      role: alumni
+      note: JD 1958
   uc-irvine:
     name: University of California, Irvine
     type: university
@@ -76908,6 +78895,15 @@ organizations:
     - person: eva-andersson-dubin
       role: alumni
       note: MD 1989
+    - person: james-fitzgerald
+      role: alumni
+      note: JD
+    - person: roberto-campos-neto
+      role: alumni
+      note: BA Economics
+    - person: roberto-campos-neto
+      role: alumni
+      note: MA Economics
   uconn:
     name: University of Connecticut
     type: university
@@ -77544,6 +79540,11 @@ organizations:
     - person: konrad-adenauer
       role: founder
       note: Cancelliere Germania Ovest, padre fondatore
+    - person: ettore-sequi
+      role: executive
+      from: 2008
+      to: 2013
+      note: Rappresentante Speciale UE per Afghanistan e Pakistan 2008-10. Capo Delegazione UE in Albania 2010-13
     - org: eurogroup
       role: institution
       note: Ministri Finanze zona euro
@@ -77861,6 +79862,15 @@ organizations:
     - person: claudio-domenicali
       role: alumni
       note: Laurea Ingegneria Meccanica
+  universita-cagliari:
+    name: Universita degli Studi di Cagliari
+    type: university
+    headquarters: Cagliari, Italy
+    status: active
+    stakeholders:
+    - person: ettore-sequi
+      role: alumni
+      note: Laurea Scienze Politiche 1981, specializzazione Islamologia
   universita-cattolica:
     name: Universita Cattolica del Sacro Cuore
     type: university
@@ -77931,6 +79941,35 @@ organizations:
     - person: roberto-tomasi
       role: alumni
       note: Laurea Ingegneria Meccanica
+  universita-palermo:
+    name: Universita' degli Studi di Palermo
+    type: university
+    founded: 1806
+    headquarters: Palermo, Italy
+    status: active
+    stakeholders:
+    - person: michele-geraci
+      role: alumni
+      note: Laurea Ingegneria Elettronica con lode
+  universita-pavia:
+    name: Universita' di Pavia
+    type: university
+    founded: 1361
+    headquarters: Pavia, Italy
+    status: active
+    stakeholders:
+    - person: ignazio-la-russa
+      role: alumni
+      note: Laurea in Giurisprudenza
+  universita-perugia:
+    name: Universita degli Studi di Perugia
+    type: university
+    headquarters: Perugia, Italy
+    status: active
+    stakeholders:
+    - person: carlo-sibilia
+      role: alumni
+      note: Laurea triennale Biotecnologie
   universita-pisa:
     name: Università di Pisa
     type: university
@@ -78119,6 +80158,11 @@ organizations:
     - person: wang-yanyi
       role: alumni
       note: MSc
+    - person: joseph-coors
+      role: board
+      from: 1967
+      to: 1972
+      note: Regent
   university-colorado-boulder:
     name: University of Colorado Boulder
     type: university
@@ -78148,6 +80192,15 @@ organizations:
     - person: mathias-cormann
       role: alumni
       note: Erasmus Exchange
+  university-edinburgh:
+    name: University of Edinburgh
+    type: university
+    headquarters: Edinburgh, UK
+    status: active
+    stakeholders:
+    - person: edwin-feulner
+      role: alumni
+      note: PhD 1981
   university-for-peace:
     name: University for Peace
     type: agency
@@ -78277,6 +80330,15 @@ organizations:
     - person: chen-huagui
       role: alumni
       note: PhD 1939
+  university-louisiana-lafayette:
+    name: University of Louisiana at Lafayette
+    type: university
+    headquarters: Lafayette, USA
+    status: active
+    stakeholders:
+    - person: kevin-roberts
+      role: alumni
+      note: BA History 1996
   university-manchester:
     name: University of Manchester
     type: university
@@ -78446,6 +80508,15 @@ organizations:
     - person: delia-browne
       role: alumni
       note: LLB
+  university-of-bath:
+    name: University of Bath
+    type: university
+    headquarters: Bath, UK
+    status: active
+    stakeholders:
+    - person: yang-jiechi
+      role: alumni
+      note: International Relations 1973-75
   university-of-berlin:
     name: University of Berlin
     type: university
@@ -78625,6 +80696,15 @@ organizations:
     - person: chris-wanstrath
       role: alumni
       note: Dropout 2005, studied English
+  university-of-colorado:
+    name: University of Colorado
+    type: university
+    headquarters: Boulder, USA
+    status: active
+    stakeholders:
+    - person: napoleon-ta
+      role: alumni
+      note: BS
   university-of-cumbria:
     name: University of Cumbria
     type: university
@@ -78795,6 +80875,9 @@ organizations:
     - person: brendan-eich
       role: alumni
       note: MS 1985
+    - person: luke-nosek
+      role: alumni
+      note: BS Computer Engineering
   university-of-iowa:
     name: University of Iowa
     type: university
@@ -78928,6 +81011,9 @@ organizations:
       from: 2000
       to: 2017
       note: Faculty 2000, Dean School of Information 2007, VP 2010, Provost & EVP 2013-2017
+    - person: niklas-zennstrom
+      role: alumni
+      note: Exchange student
   university-of-minnesota:
     name: University of Minnesota
     type: university
@@ -79074,6 +81160,9 @@ organizations:
     headquarters: Pittsburgh, USA
     status: active
     stakeholders:
+    - person: richard-mellon-scaife
+      role: alumni
+      note: BA English 1957
     - person: martha-pollack
       role: academic
       to: 2000
@@ -79105,6 +81194,24 @@ organizations:
     - person: elle-macpherson
       role: alumni
       note: Law (incomplete) 1982
+  university-of-tartu:
+    name: University of Tartu
+    type: university
+    headquarters: Tartu, EST
+    status: active
+    stakeholders:
+    - person: kristo-kaarmann
+      role: alumni
+      note: BSc & MSc Mathematics and Computer Science 2002
+    - person: sten-tamkivi
+      role: alumni
+      note: Undergraduate
+    - person: jaan-tallinn
+      role: alumni
+      note: BSc Theoretical Physics 1996
+    - person: ahti-heinla
+      role: alumni
+      note: Physics (non completato)
   university-of-tennessee:
     name: University of Tennessee
     type: university
@@ -79233,6 +81340,9 @@ organizations:
     - person: paul-tudor-jones
       role: alumni
       note: BA Economics 1976, Sigma Alpha Epsilon president
+    - person: hugh-scott
+      role: alumni
+      note: JD 1922
   university-of-warsaw:
     name: University of Warsaw
     type: university
@@ -79316,6 +81426,14 @@ organizations:
     - person: gro-harlem-brundtland
       role: alumni
       note: MD Medicine 1963
+  university-palermo:
+    name: Università degli Studi di Palermo
+    stakeholders:
+    - person: michele-geraci
+      role: student
+      from: 1984
+      to: 1990
+      note: Laurea con lode in Ingegneria Elettronica
   university-pretoria:
     name: University of Pretoria
     type: university
@@ -79363,6 +81481,11 @@ organizations:
     - person: tom-barrack
       role: alumni
       note: JD
+    - person: edwin-meese
+      role: academic
+      from: 1977
+      to: 1981
+      note: Professor of Law; Director Center for Criminal Justice Policy
   university-south-australia:
     name: University of South Australia
     type: university
@@ -79396,6 +81519,15 @@ organizations:
     - person: matt-comyn
       role: alumni
       note: Executive MBA
+  university-tennessee:
+    name: University of Tennessee
+    type: university
+    headquarters: Knoxville, USA
+    status: active
+    stakeholders:
+    - person: jim-demint
+      role: alumni
+      note: BS Communications 1973
   university-texas:
     name: University of Texas at Austin
     type: university
@@ -79406,6 +81538,15 @@ organizations:
       role: alumni
       to: 1973
       note: BA Latin American Studies
+  university-texas-austin:
+    name: University of Texas at Austin
+    type: university
+    headquarters: Austin, USA
+    status: active
+    stakeholders:
+    - person: kevin-roberts
+      role: alumni
+      note: PhD American History 2003
   university-toronto:
     name: University of Toronto
     type: university
@@ -79469,6 +81610,15 @@ organizations:
     - person: bob-hawke
       role: alumni
       note: BA, LLB 1953, Rhodes Scholar
+  university-wisconsin:
+    name: University of Wisconsin
+    type: university
+    headquarters: Madison, USA
+    status: active
+    stakeholders:
+    - person: paul-weyrich
+      role: alumni
+      note: Attended UW-Racine 1960-1962, did not graduate
   univision:
     name: Univision
     type: media
@@ -79596,6 +81746,9 @@ organizations:
     - person: martha-pollack
       role: alumni
       note: MS 1984, PhD Computer & Information Science 1986
+    - person: andrew-mccormack
+      role: alumni
+      note: BA Political Science 1998
   upm:
     name: Universidad Politécnica de Madrid
     type: university
@@ -79632,6 +81785,9 @@ organizations:
     - person: david-axmark
       role: alumni
       note: 1980-1984
+    - person: niklas-zennstrom
+      role: alumni
+      note: BSc Business Administration, MSc Engineering Physics
   ups:
     name: United Parcel Service (UPS)
     type: company
@@ -79997,6 +82153,14 @@ organizations:
     - person: tom-barrack
       role: board
       note: Trustee
+    - person: palmer-luckey
+      role: researcher
+      from: 2011
+      to: 2012
+      note: Part-time engineer, Mixed Reality Lab (MxR), Institute for Creative Technologies
+    - person: joe-chen
+      role: alumni
+      note: MBA
   usc-annenberg:
     name: USC Annenberg School for Communication and Journalism
     type: media
@@ -80180,6 +82344,35 @@ organizations:
       role: executive
       from: 1996
       note: CMO Southeast Network (GA, AL, SC); Senior Medical Advisor Public Health
+  valar-ventures:
+    tagline: VC internazionale fintech di Peter Thiel, al centro dello scandalo Epstein-LP
+    name: Valar Ventures
+    type: privateequity
+    founded: 2010
+    headquarters: New York, USA
+    status: active
+    stakeholders:
+    - person: peter-thiel
+      role: founder
+      from: 2010
+      note: Spinoff da Thiel Capital, focus fintech internazionale
+    - person: jeffrey-epstein
+      role: investor
+      from: 2015
+      to: 2019
+      note: LP via Southern Trust Company, $40M in 2 fondi (2015-2016), ora vale ~$170M
+    - person: andrew-mccormack
+      role: founder
+      from: 2010
+      note: Managing Partner
+    - person: james-fitzgerald
+      role: founder
+      from: 2010
+      note: Managing Partner
+    - org: thiel-capital
+      role: parent
+      from: 2010
+      note: Valar spun out da Thiel Capital nel 2010
   valdai-club:
     tagline: Forum russo d'elite sotto patronato informale di Putin, equivalente russo di Davos per la diplomazia intellettuale
       del Cremlino
@@ -80235,6 +82428,18 @@ organizations:
       from: 2007
       to: 2012
       note: Espansione retail e internazionale
+  valinor:
+    tagline: Company of companies, incubator defense/tech, co-fondata da Trae Stephens
+    name: Valinor Enterprises
+    type: company
+    founded: 2024
+    headquarters: USA
+    status: active
+    stakeholders:
+    - person: trae-stephens
+      role: founder
+      from: 2024
+      note: Co-fondatore con Julie Bush, Paul Kwan, Grant Verstandig
   valor-equity:
     name: Valor Equity Partners
     type: privateequity
@@ -80315,6 +82520,39 @@ organizations:
     - org: walmart
       role: stake
       share: 0.054
+  varda-space:
+    tagline: In-space pharmaceutical manufacturing, backed by Founders Fund and Peter Thiel
+    name: Varda Space Industries
+    type: company
+    founded: 2020
+    headquarters: El Segundo, USA
+    status: active
+    sector: space
+    stakeholders:
+    - person: peter-thiel
+      role: advisor
+      note: Personal investor, Series C
+    - person: trae-stephens
+      role: founder
+      from: 2020
+    - person: delian-asparouhov
+      role: founder
+      from: 2021
+      note: President & Co-Founder
+    - person: will-bruey
+      role: founder
+      from: 2021
+      note: CEO & Co-Founder
+    - org: founders-fund
+      role: investor
+      from: 2020
+      note: Lead seed investor, incubated at FF
+    - org: khosla-ventures
+      role: investor
+      note: Series A/B/C investor
+    - org: lux-capital
+      role: investor
+      note: Board seat (Josh Wolfe)
   vaticano:
     name: Santa Sede
     type: government
@@ -80702,6 +82940,9 @@ organizations:
     - person: steve-bannon
       role: alumni
       note: BA Urban Affairs 1976; student government president
+    - person: kevin-roberts
+      role: alumni
+      note: MA History 1999
   visa:
     tagline: Dominatore globale dei pagamenti digitali, infrastruttura invisibile del commercio mondiale
     name: Visa Inc.
@@ -83362,6 +85603,31 @@ organizations:
     - person: martin-sorrell
       role: chairman
       note: Chairman International Business Council
+    - person: han-zheng
+      role: member
+      note: Davos 2020 keynote speaker
+    - person: ken-howery
+      role: member
+      note: Technology Pioneers Selection Committee
+    - person: roberto-campos-neto
+      role: board
+      from: 2025
+      note: Board of Trustees
+    - person: gwynne-shotwell
+      role: member
+      note: Global Agenda Council on Space Security
+    - person: kimbal-musk
+      role: member
+      note: Global Social Entrepreneur
+    - person: kristo-kaarmann
+      role: member
+      from: 2015
+      note: Technology Pioneer 2015
+    - person: taavet-hinrikus
+      role: ygl
+      note: Young Global Leader
+    - person: niklas-zennstrom
+      role: member
     - org: bilderberg
       role: partner
     - org: fmi
@@ -83766,6 +86032,9 @@ organizations:
     - person: raj-ganguly
       role: alumni
       note: BSE/BAS summa cum laude, Benjamin Franklin Scholar, Joseph Wharton Scholar
+    - person: edwin-feulner
+      role: alumni
+      note: MBA 1964
     - person: john-bryant
       role: alumni
       note: MBA
@@ -84100,6 +86369,9 @@ organizations:
       from: 1985
       to: 2001
       note: litigation partner
+    - person: gregory-craig
+      role: partner
+      note: Partner, litigation
   willow-asset-management:
     name: Willow Asset Management
     type: company
@@ -84168,6 +86440,43 @@ organizations:
     - person: marius-nacht
       role: board
       note: Board member and advisor
+  wise:
+    tagline: Fintech globale per trasferimenti cross-border, fondata da ex-Skype e Deloitte, IPO Londra 2021
+    name: Wise plc
+    type: company
+    founded: 2011
+    headquarters: London, GBR
+    status: active
+    sector: finance
+    stakeholders:
+    - person: kristo-kaarmann
+      role: founder
+      from: 2011
+      note: Co-founder & CEO
+    - person: taavet-hinrikus
+      role: founder
+      from: 2011
+      to: 2021
+      note: Co-founder, Chairman fino al 2021
+    - person: david-wells
+      role: chairman
+      from: 2021
+      note: Chairman, ex CFO Netflix
+    - org: andreessen-horowitz
+      role: stake
+      from: 2015
+      note: Lead investor Series C ($58M)
+    - org: index-ventures
+      role: stake
+      from: 2013
+      note: Early investor
+    - org: valar-ventures
+      role: stake
+      from: 2013
+      note: Lead investor Series A (2013) e Series B (2014)
+    - org: atomico
+      role: stake
+      note: Early investor
   witkoff-group:
     name: Witkoff Group
     type: company
@@ -85275,10 +87584,23 @@ organizations:
       role: partner
       from: 2013
       note: Managing Director 2016-24, Partner Emeritus
+    - person: john-collison
+      role: founder
+      from: 2007
+      to: 2008
+      note: Co-founder Auctomatic (YC W08)
     - person: sid-sijbrandij
       role: alumni
       from: 2015
       note: Winter 2015 batch (GitLab)
+    - person: parker-conrad
+      role: member
+      from: 2012
+      note: YC batch con Zenefits
+    - person: ian-hogarth
+      role: alumni
+      from: 2007
+      note: Songkick, Summer 2007 batch
   yad-hanadiv:
     name: Yad HaNadiv
     type: foundation
@@ -85361,6 +87683,10 @@ organizations:
       role: executive
       to: 2005
       note: President of Yahoo China
+    - person: andrew-mccormack
+      role: executive
+      to: 2001
+      note: Business and corporate development
     - org: apollo-global
       role: stake
       share: 0.9
@@ -85422,6 +87748,9 @@ organizations:
     - person: don-gips
       role: alumni
       note: MBA 1989 (School of Management)
+    - person: richard-mellon-scaife
+      role: alumni
+      note: Expelled; did not complete degree
     - person: mitch-kapor
       role: alumni
       note: BA Psychology/Linguistics/CS 1971
@@ -85476,6 +87805,14 @@ organizations:
     - person: beth-ann-bovino
       role: alumni
       note: MA International and Development Economics
+    - person: ajay-royan
+      role: alumni
+    - person: gregory-craig
+      role: alumni
+      note: JD 1972
+    - person: edwin-meese
+      role: alumni
+      note: BA Political Science 1953, Spade and Grave
   yale-law-school:
     name: Yale Law School
     type: university
@@ -85962,6 +88299,43 @@ organizations:
       role: stake
       from: 2022
       note: Take-private USD 10.2B con Permira
+  zenefits:
+    tagline: HR SaaS unicorn, scandalo brokers 2016, acquisita da TriNet 2022
+    name: Zenefits
+    type: company
+    founded: 2012
+    headquarters: San Francisco, USA
+    status: acquired
+    stakeholders:
+    - person: peter-thiel
+      role: board
+      from: 2016
+      note: Board member post-dimissioni Conrad
+    - person: david-sacks
+      role: executive
+      from: 2015
+      to: 2017
+      note: COO poi CEO dopo dimissioni Conrad
+    - person: parker-conrad
+      role: founder
+      from: 2012
+      to: 2016
+      note: Co-founder & CEO. Dimissioni feb 2016 per scandalo brokers non autorizzati
+    - person: laks-srini
+      role: founder
+      from: 2012
+      note: Co-Founder & CTO
+    - person: prasanna-sankar
+      role: executive
+      from: 2015
+      to: 2016
+      note: Director of Engineering
+    - org: founders-fund
+      role: investor
+      note: Early investor
+    - org: andreessen-horowitz
+      role: investor
+      note: Lead investor, Series A-C
   zero-knowledge-systems:
     name: Zero-Knowledge Systems
     type: company
@@ -85995,6 +88369,11 @@ organizations:
     - person: liang-wenfeng
       role: alumni
       note: BE Electronic Information Engineering 2007, ME Information and Communication Engineering 2010
+    - person: michele-geraci
+      role: faculty
+      from: 2008
+      to: 2018
+      note: Adjunct Professor of Finance
   zhenfund:
     name: ZhenFund
     type: privateequity
@@ -86045,6 +88424,15 @@ organizations:
       from: 1915
       to: 1916
       note: Commanding Officer
+  zipline:
+    tagline: Autonomous drone delivery for medical supplies
+    name: Zipline International
+    type: company
+    status: active
+    stakeholders:
+    - person: matthew-steckman
+      role: executive
+      note: Chief Revenue Officer
   ziraat-bank:
     name: Ziraat Bankasi
     type: bank

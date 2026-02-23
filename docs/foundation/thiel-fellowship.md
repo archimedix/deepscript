@@ -166,4 +166,4 @@ Il programma ha validato la tesi di Thiel: talenti eccezionali possono creare pi
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2025*
+*Ultimo aggiornamento: Febbraio 2026*

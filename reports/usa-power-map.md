@@ -173,6 +173,32 @@ Il flusso bidirezionale tra finanza e governo:
 | [Jami Miscik](../docs/persons/jami-miscik.md) | CIA DDI | Kissinger Associates, Lazard |
 | [Cofer Black](../docs/persons/cofer-black.md) | CIA CTC | Blackwater, Burisma |
 
+### 2b. Congressional Oversight → Transparency Watchdog
+
+La controparte dell'Intelligence Community: chi ha controllato i controllori.
+
+**Church Committee (1975-76)**: La piu' importante indagine parlamentare sugli abusi delle agenzie di intelligence.
+
+| Rivelazione | Agenzia | Impatto |
+|-------------|---------|---------|
+| Assassinii esteri (Castro, Lumumba, Trujillo) | CIA | Fine operazioni covert non autorizzate |
+| COINTELPRO (sorveglianza attivisti) | FBI | Riforma sorveglianza domestica |
+| SHAMROCK/MINARET (intercettazioni) | NSA | Foreign Intelligence Surveillance Act (1978) |
+| MKULTRA (esperimenti controllo mentale) | CIA | Senate Select Committee on Intelligence (permanente) |
+
+**Da Church Committee a OpenSecrets**: Il bipartisan pipeline oversight → trasparenza.
+
+| Persona | Ruolo | Connessione |
+|---------|-------|-------------|
+| [Frank Church](../docs/persons/frank-church.md) | Senatore Idaho (D), Chairman Church Committee | Co-fondatore CRP/[OpenSecrets](../docs/foundation/opensecrets.md) (1983) |
+| [Hugh Scott](../docs/persons/hugh-scott.md) | Senatore Pennsylvania (R), Senate Minority Leader | Co-fondatore CRP/OpenSecrets, chiese dimissioni Nixon (1974) |
+
+**Pattern**: Due senatori — uno progressista, uno moderato GOP — dopo aver sfidato il potere esecutivo (Church vs CIA, Scott vs Nixon), co-fondano l'organizzazione che traccia il denaro in politica. OpenSecrets diventa la fonte primaria per documentare revolving door, lobbying e dark money.
+
+**Finanziatori OpenSecrets nel DB**: [Open Society Foundations](../docs/foundation/open-society-foundations.md), [Carnegie Corporation](../docs/foundation/carnegie-corporation.md) — il circuito filantropia → trasparenza.
+
+---
+
 ### 3. Multi-Membership: Forum Overlap
 
 Figure USA presenti in 3+ forum/think tank:
@@ -1564,6 +1590,9 @@ Il potere USA opera attraverso:
 36. **Tech Billionaire Anti-Establishment**: Musk pattern (no Bilderberg, no WEF, antagonistic) vs Nadella (fully integrated)
 37. **Airline Oligopoly Common Ownership**: Big Three possiedono ~18-20% di Delta, United, Southwest - stesso pattern Visa/Mastercard. CEO in CFR (Bastian) e Business Roundtable (Kirby). Elliott activism forza trasformazione Southwest.
 38. **Aviation Crossover Unico**: James Whitehurst (COO Delta → board United) - unico executive C-suite in entrambi i competitor, ora Silver Lake MD
+39. **Congressional Oversight → Watchdog**: Church Committee (1975) → OpenSecrets (1983) — indagine bipartisan su abusi intelligence genera infrastruttura permanente di trasparenza politica
+40. **Bipartisan Founding Pattern**: Church (D-Idaho) + Scott (R-Pennsylvania) co-fondano CRP/OpenSecrets — opposti nello spettro politico, alleati sull'accountability
+41. **Filantropia → Trasparenza**: Open Society Foundations + Carnegie Corporation finanziano OpenSecrets — le fondazioni delle elite finanziano il watchdog che traccia il denaro nel potere
 
 ### Nuovo Pattern: Otto Tipi di Potere
 
@@ -1697,6 +1726,9 @@ L'analisi rivela otto tipi distinti di potere:
 - **UnitedHealth → WEF partner** (healthcare-global governance link)
 - **William McGuire → UnitedHealth + Minnesota United FC** (CEO scandal → sports owner)
 - **Brian Thompson → UnitedHealth + PwC** (accounting → C-suite → assassinated)
+- **Frank Church → Church Committee → OpenSecrets** (oversight intelligence → transparency watchdog)
+- **Hugh Scott → Nixon resignation → OpenSecrets** (GOP Minority Leader sfida presidente del proprio partito, poi co-fonda watchdog)
+- **Open Society + Carnegie → OpenSecrets** (filantropia elite finanzia tracking del denaro in politica)
 
 ---
 
@@ -1726,4 +1758,4 @@ L'analisi rivela otto tipi distinti di potere:
 
 ---
 
-*Ultimo aggiornamento: 10 Gennaio 2026 - Aggiunta sezione "Filantropia Strategica" (Ford Foundation, Rockefeller Foundation, pattern governo-filantropia, Darren Walker, McGeorge Bundy NSA→Ford), aggiornato Executive Summary e Nodi Organizzativi*
+*Ultimo aggiornamento: 22 Febbraio 2026 - Aggiunta sezione "Congressional Oversight → Transparency Watchdog" (Church Committee, Frank Church, Hugh Scott, OpenSecrets), pattern 39-41, relazioni chiave oversight-trasparenza*
