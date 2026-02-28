@@ -124,7 +124,7 @@
 | Nome | Ruolo | Studi | Nel DB |
 |------|-------|-------|--------|
 | [Ehud Barak](../persons/ehud-barak.md) | 10° PM | BSc Physics & Math 1968 | si |
-| Ariel Sharon | 11° PM | BA History & Middle Eastern Studies | no |
+| [Ariel Sharon](../persons/ariel-sharon.md) | 11° PM | BA History & Middle Eastern Studies | si |
 | Ehud Olmert | 12° PM | BA, LL.B. | no |
 | Naftali Bennett | 13° PM | LL.B. | no |
 

@@ -1248,7 +1248,7 @@ Leonardo Del Vecchio rappresenta un caso unico di **outsider** che ha sfidato fr
 |--------------|-----------|----------------------|
 | Leonardo Del Vecchio | Self-made, sfida frontale | Outsider aggressivo |
 | Gianni Agnelli | Dinastia, insider | Parte organica del sistema |
-| Silvio Berlusconi | Self-made, sistema parallelo | Costruisce potere alternativo |
+| [Silvio Berlusconi](../docs/persons/silvio-berlusconi.md) | Self-made, sistema parallelo | Costruisce potere alternativo |
 | [Marco Tronchetti Provera](../docs/persons/marco-tronchetti-provera.md) | Matrimonio in dinastia | Cooptato nel sistema |
 
 ### Prysmian: La Public Company Pura
@@ -1718,11 +1718,22 @@ Se Margherita vincesse, la divisione sarebbe tra 8 figli (3 Elkann + 5 de Pahlen
 
 | Generazione | Figure | Asset |
 |-------------|--------|-------|
-| I | Silvio Berlusconi | Fininvest, Mediaset, Milan, Forza Italia |
+| I | [Silvio Berlusconi](../docs/persons/silvio-berlusconi.md) (1936-2023) | [Fininvest](../docs/company/fininvest.md), [Mediaset](../docs/media/mediaset.md), [Mondadori](../docs/media/mondadori.md), [AC Milan](../docs/sports-club/ac-milan.md), [Forza Italia](../docs/party/forza-italia.md) |
 | II | Marina Berlusconi | Fininvest (presidente) |
 | II | Pier Silvio Berlusconi | Mediaset-MFE (CEO) |
 
-**Connessioni**: P2 (1978-81), rapporti Craxi, Russia (Putin)
+**Connessioni**: [P2](../docs/secret-society/p2.md) (tessera 1816, 1978-81), rapporti Craxi, Russia (Putin), condanna frode fiscale Mediaset (2013), [Panama Papers](../docs/events/2016-panama-papers.md) (2016)
+
+**Rete Berlusconi nel business e nello sport:**
+
+| Persona | Ruolo |
+|---------|-------|
+| [Adriano Galliani](../docs/persons/adriano-galliani.md) | Braccio destro 37 anni: CEO Milan (1986-2017), CEO Monza (2018-2025), Senatore FI (2023-) |
+| [Flavio Briatore](../docs/persons/flavio-briatore.md) | Amico e partner lifestyle (Sardegna, Kenya), co-proprietario QPR con Ecclestone |
+| [Bernie Ecclestone](../docs/persons/bernie-ecclestone.md) | CEO Formula One Management 30 anni, alleato di Briatore nel paddock F1 |
+| [Giulio Tremonti](../docs/persons/giulio-tremonti.md) | Superministro Economia in tutti e 4 i governi Berlusconi |
+
+**Pattern Panama Papers**: Berlusconi, Galliani (Sport Image International BVI) e Briatore (Struie offshore) tutti nominati nei documenti Mossack Fonseca.
 
 ### Del Vecchio (Delfin)
 
@@ -2334,7 +2345,7 @@ Punzo
 | [Allianz](../docs/company/allianz.md) | minority | 2023-oggi |
 
 **Fondatori di Italo**:
-- [Luca Cordero di Montezemolo](../docs/persons/luca-montezemolo.md): Presidente Ferrari (1991-2014), Presidente Fiat (2004-2010), **Presidente Confindustria (2004-2008)**
+- [Luca Cordero di Montezemolo](../docs/persons/luca-cordero-di-montezemolo.md): Presidente Ferrari (1991-2014), Presidente Fiat (2004-2010), **Presidente Confindustria (2004-2008)**, Trilateral Commission
 - [Diego Della Valle](../docs/persons/diego-della-valle.md): CEO Tod's, filantropo (restauro Colosseo)
 - [Gianni Punzo](../docs/persons/gianni-punzo.md) (1936-2025): Fondatore CIS Nola, Cavaliere del Lavoro
 

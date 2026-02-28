@@ -133,8 +133,11 @@
 
 | Persona | Relazione |
 |---------|-----------|
-| [George Tenet](george-tenet.md) | Mentore, lo nominò CTC |
-| [Erik Prince](erik-prince.md) | Fondatore Blackwater |
+| [George Tenet](../persons/george-tenet.md) | Mentore, lo nomino' CTC Director 1999 |
+| [Erik Prince](../persons/erik-prince.md) | Fondatore Blackwater, datore di lavoro |
+| [Mitt Romney](../persons/mitt-romney.md) | Advisor counter-terrorism campagne 2008, 2012 |
+| [Mykola Zlochevsky](../persons/mykola-zlochevsky.md) | Owner Burisma, lo recluto' nel board |
+| [Hunter Biden](../persons/hunter-biden.md) | Co-board member Burisma 2017-2019 |
 
 ---
 
@@ -166,4 +169,4 @@
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

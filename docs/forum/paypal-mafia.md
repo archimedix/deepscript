@@ -114,7 +114,8 @@ Il termine "PayPal Mafia" fu consacrato da un articolo di **Fortune Magazine** n
 - **Spotify** (early investor)
 - **Airbnb** (early investor)
 - **Carbyne** (ex Reporty Homeland Security, emergency tech israeliana, via Founders Fund Series B)
-- **Pronomos Capital** (charter cities, backer Prospera Honduras)
+- **[Pronomos Capital](../private-equity/pronomos-capital.md)** (charter cities VC, anchor backer $9M seed 2019, con [Marc Andreessen](../persons/marc-andreessen.md), [Balaji Srinivasan](../persons/balaji-srinivasan.md), [Naval Ravikant](../persons/naval-ravikant.md))
+- **[Seasteading Institute](../foundation/seasteading-institute.md)** ($500K seed 2008, fondato da [Patri Friedman](../persons/patri-friedman.md), nipote di Milton Friedman)
 - **Quantum Systems** (droni militari, Series C Nov 2025 via Founders Fund)
 
 **Forum e network:**
@@ -638,7 +639,7 @@ Founders Fund ha investito $1B nella Series G di Anduril (Giugno 2025), il piu' 
 
 Il network si auto-finanzia e si supporta reciprocamente:
 
-- **Thiel** --> primo investitore Facebook/Meta, SpaceX, Spotify, Airbnb, Carbyne
+- **Thiel** --> primo investitore Facebook/Meta, SpaceX, Spotify, Airbnb, Carbyne, Seasteading Institute, Pronomos Capital
 - **Botha/Sequoia** --> primo VC in YouTube, poi Google, ByteDance, Stripe, xAI, Wiz
 - **Sacks** --> investito in SpaceX, Boring Company, Affirm, Palantir
 - **Founders Fund** --> SpaceX, Airbnb, [Stripe](../company/stripe.md) ($91.5B), Anduril ($1B), [Nubank](../bank/nubank.md) ($91.5B, piu' grande neobank al mondo), Carbyne, Varda Space (incubata), General Matter (incubata, $900M DOE), Rippling ($16.8B, Napoleon Ta board), Cognition (Devin AI, $10.2B, Napoleon Ta board, lead in tutti i round), Neuralink ($9B)
@@ -646,6 +647,7 @@ Il network si auto-finanzia e si supporta reciprocamente:
 - **Mithril Capital** (Royan/Thiel) --> Palantir, Oklo, Helion Energy; exit Auris Health $3.4B
 - **Hoffman/Greylock** --> OpenAI, Inflection AI, Blockstream
 - **SpaceX** --> $2B equity in xAI (2025), cross-pollination Musk companies
+- **[Coinbase](../company/coinbase.md)** ($44B market cap, $7.2B revenue 2025) — nodo crypto-finanza: [Brian Armstrong](../persons/brian-armstrong.md) CEO, [Andreessen](../persons/marc-andreessen.md) nel board, [Balaji Srinivasan](../persons/balaji-srinivasan.md) primo CTO (via acquisizione Earn.com), a16z lead investor Serie A, [BlackRock](../asset-manager/blackrock.md)/[Vanguard](../asset-manager/vanguard.md)/[ARK Invest](../asset-manager/ark-invest.md) top institutional holders
 
 ---
 
@@ -792,6 +794,30 @@ Due punti di contatto documentati:
 - **Thiel/Valar Ventures**: Epstein LP con $40M+ (2015-2019)
 - **Hoffman/Blockstream**: seed investor, coinvolto nell'allocazione Epstein/Joi Ito al MIT Media Lab
 
+### 9. Charter Cities e Network State: la Pipeline Governance Alternativa
+
+Un filone ideologico trasversale alla rete Thiel: costruire giurisdizioni alternative usando venture capital.
+
+**La pipeline Thiel → governance sperimentale:**
+```
+2008 - Seasteading Institute ($500K Thiel → Patri Friedman)
+         |  comunità oceaniche autonome
+2011 - Future Cities Development (Friedman)
+         |  primo MOU per charter city moderna
+2019 - Pronomos Capital ($9M seed: Thiel, Andreessen, Srinivasan, Ravikant)
+         |  primo VC dedicato a charter cities
+2020 - Próspera (Honduras, ZEDE su Roatán, investita da Pronomos)
+2022 - "The Network State" (libro di Balaji Srinivasan)
+2024 - Network School (Srinivasan, Forest City, Malaysia)
+```
+
+**Figure chiave:**
+- **[Patri Friedman](../persons/patri-friedman.md)** (1976-): nipote di Milton Friedman, figlio di David D. Friedman (anarcho-capitalista). Ex Google (10 anni). Fondatore Seasteading → Future Cities → [Pronomos Capital](../private-equity/pronomos-capital.md). Tre generazioni di pensiero libertario: Milton (monetarismo) → David (polycentric law) → Patri (charter cities con VC).
+- **[Balaji Srinivasan](../persons/balaji-srinivasan.md)** (1980-): nodo di connessione a16z (GP 2013-17) → [Coinbase](../company/coinbase.md) (primo CTO 2018-19) → Pronomos (advisor/investor). Autore *The Network State*. Stanford PhD. Fondatore seriale: Counsyl ($375M exit), Earn.com (→ Coinbase). Bitcoin bet da $1.5M (2023). Network School in Malaysia (2024).
+- **[Naval Ravikant](../persons/naval-ravikant.md)**: fondatore AngelList, advisor Pronomos, connettore tra angel investing e ideologia crypto-libertaria.
+
+**Pattern**: governance come prodotto iterabile (software metaphor). Il potere non va conquistato democraticamente ma creato ex novo su territori vergini con backing di venture capital. Evoluzione da utopia oceanica (seasteading) → pragmatismo terrestre (charter cities) → digitale (Network State).
+
 ---
 
 ## Critiche e Controversie
@@ -936,6 +962,12 @@ David Sacks e Jack Selby stanno sviluppando un film sulla storia di PayPal e del
 - [SpaceX](../company/spacex.md) - Azienda aerospaziale Musk ($800B), $9.5B+ contratti DoD, Starlink/Starshield
 - [Gwynne Shotwell](../persons/gwynne-shotwell.md) - President & COO SpaceX, miliardaria, WEF/NASA advisory
 - [Kimbal Musk](../persons/kimbal-musk.md) - Board Tesla + SpaceX, fratello Elon, WEF Social Entrepreneur
+- [Coinbase](../company/coinbase.md) - Crypto exchange ($44B, NASDAQ: COIN), Andreessen board, Balaji ex-CTO, a16z lead investor
+- [Pronomos Capital](../private-equity/pronomos-capital.md) - VC charter cities, Thiel anchor backer, Patri Friedman fondatore
+- [Seasteading Institute](../foundation/seasteading-institute.md) - Non-profit comunita' oceaniche, Thiel seed $500K, Patri Friedman fondatore
+- [Patri Friedman](../persons/patri-friedman.md) - Nipote Milton Friedman, fondatore Seasteading/Pronomos, ex Google
+- [Balaji Srinivasan](../persons/balaji-srinivasan.md) - Ex CTO Coinbase, ex GP a16z, teorico Network State, advisor Pronomos
+- [Naval Ravikant](../persons/naval-ravikant.md) - Fondatore AngelList, advisor Pronomos, connettore crypto-libertario
 
 ---
 
@@ -961,4 +993,4 @@ David Sacks e Jack Selby stanno sviluppando un film sulla storia di PayPal e del
 
 ---
 
-*Ultimo aggiornamento: 23 Febbraio 2026 — aggiornato con SpaceX ($800B, board, contratti DoD $9.5B+, Shotwell/Kimbal Musk), Stripe ($91.5B, incubatrice AI), Nubank (Campos Neto revolving door BCB)*
+*Ultimo aggiornamento: 24 Febbraio 2026 — aggiornato con charter cities/Network State pipeline (Pronomos Capital, Seasteading Institute, Patri Friedman, Balaji Srinivasan), Coinbase governance completa (board Andreessen, azionariato BlackRock/Vanguard/ARK)*

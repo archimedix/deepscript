@@ -9,7 +9,7 @@
 | **Origine** | Villar Perosa, Piemonte, Italia |
 | **Fondatore** | Giovanni Agnelli Sr. (1866-1945) |
 | **Settore originario** | Automotive (FIAT) |
-| **Generazioni documentate** | 4 generazioni |
+| **Generazioni documentate** | 5 generazioni |
 | **Patrimonio stimato** | ~$15-20 miliardi (EXOR + partecipazioni) |
 | **Status attuale** | Attiva — John Elkann capo famiglia |
 
@@ -33,22 +33,22 @@ Gli Agnelli rappresentano il caso paradigmatico di **potere industriale-mediatic
 GIOVANNI AGNELLI SR. (1866-1945)
 Fondatore FIAT
               |
-      EDOARDO AGNELLI (1892-1935)
+      EDOARDO AGNELLI SR. (1892-1935)
       Morto in incidente aereo
               |
-    +---------+---------+
-    |                   |
-GIANNI AGNELLI      UMBERTO AGNELLI
-(1921-2003)         (1934-2004)
-"L'Avvocato"        Vice, poi breve Chairman
-    |                   |
-    |               Giovanni Alberto
-    |               (1964-1997, cancro)
-    |               [erede designato, m. prematuramente]
-    |
-+---+---+
-|       |
-MARGHERITA  EDOARDO Jr.
+    +---------+----------+-----------------+
+    |                    |                 |
+GIANNI AGNELLI      UMBERTO AGNELLI   MARIA SOLE AGNELLI
+(1921-2003)         (1934-2004)       (1925-2025)
+"L'Avvocato"        Vice/Chairman     Pres. Fond. Agnelli
+sp. MARELLA              |              sp. Pio Teodorani Fabbri
+CARACCIOLO (1927-2019)   |
+    |               Giovanni Alberto        |
+    |               (1964-1997, cancro)     |
+    |                                  EDUARDO
++---+---+                          TEODORANI FABBRI
+|       |                             (1965-)
+MARGHERITA  EDOARDO Jr.           [Epstein Files]
 (1955-)     (1954-2000)
     |       [suicidio?]
     |
@@ -96,6 +96,8 @@ ELKANN ELKANN
 |------|------|-------|-------------------|
 | **Gianni Agnelli** | 1921-2003 | Chairman FIAT | "Re d'Italia", Bilderberg, Trilaterale |
 | Umberto Agnelli | 1934-2004 | Vice/Chairman | Gestione operativa |
+| [Maria Sole Agnelli](../persons/maria-sole-agnelli.md) | 1925-2025 | Presidente Fondazione Agnelli | Sindaco Campello sul Clitunno (1960-70), Pres. Fondazione (2004-18) |
+| [Pio Teodorani Fabbri](../persons/pio-teodorani-fabbri.md) | 1924-2022 | VP IFI | Conte cesenate, marito di Maria Sole |
 
 ### 4a Generazione — Transizione Globale
 
@@ -105,6 +107,7 @@ ELKANN ELKANN
 | **John Elkann** | 1976- | CEO EXOR, Chairman Stellantis | **Capo famiglia** |
 | Lapo Elkann | 1977- | Imprenditore | Escluso dalla successione |
 | Ginevra Elkann | 1979- | Regista | Attiva in cultura |
+| [Eduardo Teodorani Fabbri](../persons/eduardo-teodorani-fabbri.md) | 1965- | SVP CNH Industrial | Ramo Teodorani Fabbri, negli Epstein Files |
 
 ---
 
@@ -246,8 +249,11 @@ STELLANTIS FERRARI CNH  GEDI  ECONOMIST
 
 | Persona | Connessione |
 |---------|-------------|
-| [Gianni Agnelli](../persone/gianni-agnelli.md) | Patriarca, scheda dedicata |
-| [John Elkann](../persone/john-elkann.md) | Erede, scheda dedicata |
+| [Gianni Agnelli](../persons/gianni-agnelli.md) | Patriarca, scheda dedicata |
+| [John Elkann](../persons/john-elkann.md) | Erede, scheda dedicata |
+| [Maria Sole Agnelli](../persons/maria-sole-agnelli.md) | Sorella dell'Avvocato, Pres. Fondazione Agnelli |
+| [Pio Teodorani Fabbri](../persons/pio-teodorani-fabbri.md) | Marito Maria Sole, VP IFI |
+| [Eduardo Teodorani Fabbri](../persons/eduardo-teodorani-fabbri.md) | Nipote Gianni, SVP CNH, Epstein Files |
 | [David Rockefeller](../persone/david-rockefeller.md) | Partner in Chase IAC, Trilaterale |
 | [Henry Kissinger](../persone/henry-kissinger.md) | "Nessuno mi era piu' vicino" — amico intimo di Gianni |
 | [Mario Draghi](../persone/mario-draghi.md) | Network elite italiana |
@@ -269,6 +275,9 @@ STELLANTIS FERRARI CNH  GEDI  ECONOMIST
 | [Elkann](elkann.md) | Alleanza matrimoniale 1975 (Alain-Margherita); John Elkann erede |
 | [Nasi](nasi.md) | Ramo collaterale dal 1907; ~21% Giovanni Agnelli B.V. |
 | [de Pahlen](de-pahlen.md) | Seconda famiglia di Margherita (1981); 5 figli in causa eredità |
+| [Caracciolo di Castagneto](caracciolo.md) | Matrimonio Marella Caracciolo-Gianni Agnelli 1953; Carlo fondatore Repubblica/Espresso; convergenza GEDI 2020 |
+| Teodorani Fabbri | Ramo via Maria Sole Agnelli; conte Pio VP IFI; figlio Eduardo SVP CNH |
+| [Rothschild](rothschild.md) | Doppio ponte via Caracciolo: Eric de Rothschild sp. Maria Beatrice Caracciolo (1983); Marie (Rothschild) sp. Brandino Brandolini figlio di Cristiana Agnelli (1987); co-proprietà The Economist (Exor 43% + Rothschild 27%); Bilderberg |
 | [Rockefeller](rockefeller.md) | Alleanza storica via Trilaterale, Chase |
 
 ---
@@ -296,7 +305,10 @@ STELLANTIS FERRARI CNH  GEDI  ECONOMIST
 | **2018** | Morte Sergio Marchionne | - |
 | **2020** | John acquisisce GEDI | 4a |
 | **2021** | Nasce Stellantis (FCA + PSA) | 4a |
+| **2022** | Morte Pio Teodorani Fabbri a 97 anni | 3a |
 | **2022** | John entra nel board Meta | 4a |
+| **2025** | Morte Maria Sole Agnelli a 100 anni | 3a |
+| **2026** | Epstein Files: Eduardo Teodorani Fabbri compare 1.251 volte | 4a |
 
 ---
 
@@ -310,6 +322,7 @@ STELLANTIS FERRARI CNH  GEDI  ECONOMIST
 | **Conflitto Margherita** | 2007-oggi | Cause legali sull'eredita' |
 | **Concentrazione mediatica** | 2020-oggi | GEDI = troppo potere mediatico? |
 | **Morte Edoardo** | 2000 | Suicidio mai completamente chiarito |
+| **Epstein Files** | 2026 | Eduardo Teodorani Fabbri (nipote di Gianni) compare 1.251 volte nei documenti Epstein |
 
 ---
 
@@ -363,4 +376,4 @@ STELLANTIS FERRARI CNH  GEDI  ECONOMIST
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

@@ -104,8 +104,14 @@
 | Aspetto | Dettaglio |
 |---------|-----------|
 | **Credibilita'** | Ex White House Counsel usata come copertura di rispettabilita' |
-| **Intermediaria** | Proposta da Epstein per rassicurare Melinda Gates |
+| **Intermediaria** | Proposta da Epstein per rassicurare Melinda Gates (2017) |
 | **Media strategy** | Consulente sulla strategia mediatica di Epstein |
+| **Consulenza legale** | Consiglio su come rispondere alle critiche sul plea deal 2008 (email mar 2019) |
+| **Brunel** | Epstein la consulto' quando Jean-Luc Brunel valutava di parlare con i procuratori |
+| **Backup executor** | Nominata executor testamento Epstein (gen 2019), rimossa prima della versione finale (ago 2019) |
+| **Prima telefonata** | Una delle prime persone chiamate da Epstein dopo l'arresto a Teterboro (6 lug 2019) |
+| **Regali** | Hermes bag, Fendi borsa e cappotto, giornate spa a DC e NYC, fiori — tramite house manager |
+| **Volume** | Scores of emails 2014-2019; "Uncle Jeffrey" |
 
 ---
 
@@ -113,8 +119,12 @@
 
 | Tema | Periodo | Dettaglio |
 |------|---------|-----------|
-| Epstein Files | 2015-2019 | Corrispondenza intensa; inner circle di Epstein |
-| Dimissioni Goldman | Feb 2026 | Dimessa da CLO Goldman Sachs dopo release file Epstein |
+| Epstein Files | 2014-2019 | Scores of emails; inner circle; "Uncle Jeffrey"; consulenza legale e mediatica |
+| Backup executor | Gen 2019 | Nominata executor testamento Epstein; rimossa prima versione finale ago 2019 |
+| Arresto Epstein | 6 lug 2019 | Una delle prime telefonate di Epstein dopo arresto a Teterboro |
+| Regali Epstein | 2014-2019 | Hermes bag, Fendi borsa/cappotto, spa days, fiori via house manager |
+| Consulenza Brunel | ~2019 | Epstein la consulto' quando Jean-Luc Brunel valutava cooperazione con procuratori |
+| Dimissioni Goldman | Feb 2026 | Dimessa da CLO Goldman Sachs dopo release DOJ files (3.5M pagine) |
 | Intermediaria Gates | 2017 | Epstein la propose per convincere Melinda Gates |
 
 ---
@@ -130,6 +140,7 @@
 | [Latham & Watkins](../company/latham-watkins.md) | Partner, Co-chair White Collar Defense |
 | [Georgetown](../university/georgetown.md) | JD; Editor-in-Chief Law Journal |
 | [University of Washington](../university/university-of-washington.md) | BA English |
+| [German Marshall Fund](../foundation/german-marshall-fund.md) | Board of Trustees |
 
 ### Persone
 
@@ -138,6 +149,8 @@
 | [Jeffrey Epstein](jeffrey-epstein.md) | Associate; inner circle |
 | [Barack Obama](barack-obama.md) | White House Counsel; amicizia personale |
 | [Bill Gates](bill-gates.md) | Intermediaria proposta da Epstein |
+| [David Solomon](david-solomon.md) | CLO sotto Solomon come CEO a Goldman Sachs 2020-2026 |
+| [Larry Summers](larry-summers.md) | Entrambi backup executors testamento Epstein; entrambi sotto pressione dopo files 2026 |
 
 ---
 
@@ -157,8 +170,11 @@
 | **2014** | Lascia Casa Bianca; considerata per AG |
 | **2015** | Email "I adore him" su Epstein |
 | **2017** | Epstein la propone come intermediaria con Melinda Gates |
+| **Gen 2019** | Nominata backup executor testamento Epstein |
+| **Mar 2019** | Email a Epstein con consigli su come rispondere a critiche plea deal 2008 |
+| **6 lug 2019** | Una delle prime chiamate di Epstein dopo arresto a Teterboro |
 | **2020** | CLO Goldman Sachs |
-| **Feb 2026** | Dimissioni da Goldman dopo Epstein files |
+| **Feb 2026** | Dimissioni da Goldman dopo release DOJ files (3.5M pagine) |
 
 ---
 
@@ -166,8 +182,9 @@
 
 - [ ] Dettagli completi della corrispondenza con Epstein
 - [ ] Ruolo esatto nella media strategy di Epstein
-- [ ] Eventuali affiliazioni a forum (CFR, Bilderberg, WEF)
+- [ ] Eventuali affiliazioni a forum (CFR, Bilderberg, WEF) — non trovate evidenze
 - [ ] Connessioni con altri membri della rete Epstein nel DB
+- [ ] Ruolo nel FINRA Board of Governors (dal 2021)
 
 ---
 

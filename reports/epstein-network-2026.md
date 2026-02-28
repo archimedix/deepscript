@@ -12,7 +12,7 @@
 | **Flussi finanziari** | ~$490M in fees (1999-2018), $1.3B transazioni sospette JPMorgan |
 | **Vittime identificate** | 250+ minorenni |
 | **Documenti rilasciati** | 3.5M pagine, 2.000 video, 180.000 immagini (Gen 2026) |
-| **Indagini attive (Feb 2026)** | Norvegia (Økokrim), UK (Met Police), Svizzera (WEF), Francia (Parquet National Financier), USA (DOJ/Congresso) |
+| **Indagini attive (Feb 2026)** | Norvegia (Økokrim + Commissione Storting), UK (Met Police), Svizzera (WEF), Francia (Parquet National Financier), USA (DOJ/Congresso) |
 
 ---
 
@@ -319,7 +319,7 @@ Dietro la facciata di finanziere, Epstein opero' una macchina burocratica compos
 
 Le "Core 4" (Kellen, Marcinkova, Groff, Ross) ricevettero tutte immunita' nel controverso Non-Prosecution Agreement del 2008 negoziato da Alexander Acosta. Nessuna e' mai stata incriminata.
 
-**Il canale Elite Models / Brunel**: Ross arrivo' negli USA tramite Elite Models, l'agenzia collegata a Jean-Luc Brunel — il modeling agent francese che procurava ragazze per Epstein e che fu trovato morto nella sua cella a Parigi nel febbraio 2022. Questo collegamento rivela un ulteriore canale di reclutamento: le agenzie di modelle internazionali come pipeline per portare donne dell'Est Europa nell'orbita di Epstein.
+**Il canale Elite Models / Brunel**: Ross arrivo' negli USA tramite Elite Models, l'agenzia collegata a [Jean-Luc Brunel](../docs/persons/jean-luc-brunel.md) (1946-2022) — modeling agent francese che gestiva Karin Models (dal 1978) e fondo' MC2 Model Management con finanziamento diretto di Epstein ($1M+ nel 2004). Brunel reclutava ragazze svantaggiate con false promesse di carriera nel modelling e le "farm out" a Epstein. Introdotto a Epstein da [Ghislaine Maxwell](../docs/persons/ghislaine-maxwell.md) nei primi anni 2000. Gia' oggetto di inchiesta CBS 60 Minutes nel 1988 per abusi su modelle. Incluso nella lista FBI dei 10 co-cospiratori (luglio 2019) insieme a Maxwell, Wexner, Indyke, Kahn e Groff. Arrestato a CDG Airport (dic 2020), incriminato per stupro e traffico di minori. **Trovato impiccato nella cella a La Sante Prison il 19 febbraio 2022** — non era in sorveglianza suicidio (parallelo con morte Epstein). Quando Brunel stava valutando di cooperare con i procuratori, Epstein consulto' [Kathryn Ruemmler](../docs/persons/kathryn-ruemmler.md) per consigli legali. **Feb 2026**: Francia riapre indagini su associati Epstein incluso il caso Brunel.
 
 **Pattern Core 4 — febbraio 2026**: delle quattro, Marcinkova risulta **scomparsa dal gennaio 2024** (coincidente con il rilascio dei documenti Epstein), Ross ha **localizzazione sconosciuta**, Groff risiede a New Canaan (CT), e Kellen si e' reinventata come interior designer. Nessuna ha mai testimoniato pubblicamente contro Epstein.
 
@@ -356,7 +356,7 @@ L'infrastruttura operativa rivela un **sistema burocratico parallelo** progettat
 | [Doug Band](../docs/persons/doug-band.md) | 35+ voli su jet Epstein 2002-2005, almeno 2 con solo Band-Epstein-Maxwell; creatore CGI (Epstein coinvolto nella concezione, Maxwell "very central" nel setup); counselor di Clinton 1995-2012 | Ex Deputy Assistant to President, co-founder Teneo |
 | [Steve Bannon](../docs/persons/steve-bannon.md) | Centinaia di testi, chiese aereo Mar 2019 | Ex consigliere White House |
 | [Alexander Acosta](../docs/persons/alexander-acosta.md) | Nego' plea deal 2008, disse che Epstein era "intelligence asset" | Ex Secretary of Labor |
-| [Kathryn Ruemmler](../docs/persons/kathryn-ruemmler.md) | Inner circle Epstein; "I adore him, like an older brother" (2015); media strategy advisor; proposta come intermediaria con Melinda Gates (2017) | **Dimessa da Goldman Sachs CLO** (12 Feb 2026) |
+| [Kathryn Ruemmler](../docs/persons/kathryn-ruemmler.md) | Inner circle Epstein ("Uncle Jeffrey"); backup executor testamento (gen 2019); prima telefonata dopo arresto Teterboro (6 lug 2019); consulenza legale su plea deal e strategia mediatica; consulto' su [Jean-Luc Brunel](../docs/persons/jean-luc-brunel.md) quando valutava cooperazione con procuratori; regali lusso (Hermes, Fendi, spa); intermediaria Gates (2017); scores of emails 2014-2019 | **Dimessa da Goldman Sachs CLO** (12 Feb 2026); [David Solomon](../docs/persons/david-solomon.md) accetto' dimissioni |
 | [Melanie Walker](../docs/persons/melanie-walker.md) | Incontrata al Plaza Hotel 1992; "Science Advisor" 1998; introdusse Nikolic a Epstein → primo incontro Gates-Epstein ~2010 | Deputy Dir. Gates Foundation, Sr. Advisor World Bank (secondment Gates), WEF YGL 2011 |
 | [Boris Nikolic](../docs/persons/boris-nikolic.md) | Chief Science Advisor Gates 2000-2015; presento' Epstein a Gates ~2011 con [Nathan Myhrvold](../docs/persons/nathan-myhrvold.md); intermediario Gates-Epstein; draft emails Epstein (Lug 2013) scritte dalla prospettiva di Nikolic; nominato successor executor nel testamento (Ago 2019, rifiuto') | Co-founder [Biomatics Capital](../docs/private-equity/biomatics-capital.md) |
 | [Larry Summers](../docs/persons/larry-summers.md) | Trilateral/CFR overlap, esecutore alternativo testamento 2014, email fino Lug 2019, Epstein "wing man" | **Ban a vita AEA** (Dic 2025); dimissioni OpenAI, D.E. Shaw, Harvard (leave), Hamilton Project, Bloomberg, NYT |
@@ -856,12 +856,54 @@ L'infiltrazione dell'elite diplomatica norvegese e' il caso piu' documentato di 
 |------|-------------------|--------|---------------------|
 | [Terje Rod-Larsen](../docs/persons/terje-rod-larsen.md) | Architetto Oslo Accords, UN Under-Sec-Gen, CEO IPI | Prestito $130K, 20+ visite, $5M/figlio nel testamento (scritto 2 gg prima della morte), lettere visti donne russe | Incriminato concorso corruzione (Økokrim) |
 | [Mona Juul](../docs/persons/mona-juul.md) | Ambasciatrice NOR, co-facilitatrice Oslo Accords | Moglie Rod-Larsen | Dimessa, security clearance revocata, incriminata corruzione aggravata |
-| [Thorbjorn Jagland](../docs/persons/thorbjorn-jagland.md) | PM NOR (1996-97), Segr. Gen. Consiglio d'Europa | 6+ meetings 2013-2018, uso appartamenti Epstein a Parigi/NYC/Palm Beach | Incriminato corruzione aggravata, 3 proprieta' perquisite (12 Feb) |
+| [Thorbjorn Jagland](../docs/persons/thorbjorn-jagland.md) | PM NOR (1996-97), Segr. Gen. Consiglio d'Europa, Chairman Nobel Committee | 6+ meetings 2013-2018, uso appartamenti Epstein a Parigi/NYC/Palm Beach | Incriminato corruzione aggravata, 3 proprieta' perquisite (12 Feb), ricoverato dopo tentativo di suicidio |
 | [Borge Brende](../docs/persons/borge-brende.md) | CEO WEF (2017-), ex ministro NOR | 120 messaggi, 3+ cene, introdotto da Rod-Larsen | Indagine indipendente WEF; Schwab nega di essere stato informato |
+| [Mette-Marit](../docs/persons/mette-marit.md) | Crown Princess di Norvegia (dal 2001), YGL WEF | 1.000+ menzioni nei file DOJ, contatti 2011-2014, soggiorno 4 giorni villa Palm Beach (2013) | Scuse pubbliche, patronage sospesi, PM Støre parla di "poor judgment" |
+
+### Il Canale Nobel
+
+Lo scandalo Epstein ha investito direttamente il [Norwegian Nobel Committee](../docs/forum/norwegian-nobel-committee.md), organo che assegna il Premio Nobel per la Pace:
+
+| Chairman | Periodo | Connessione Epstein |
+|----------|---------|---------------------|
+| [Thorbjorn Jagland](../docs/persons/thorbjorn-jagland.md) | 2009-2015 (demoted, membro fino 2020) | 6 incontri, incriminato corruzione |
+| [Berit Reiss-Andersen](../docs/persons/berit-reiss-andersen.md) | 2017-2023 | State Secretary nel governo Jagland 1996-97, stessa rete Labour Party |
+| [Jorgen Watne Frydnes](../docs/persons/jorgen-watne-frydnes.md) | 2024-oggi | Nessuna connessione Epstein |
+
+Jagland era **simultaneamente** Secretary General del Council of Europe e membro del Nobel Committee durante i suoi incontri con Epstein (2013-2018). Il Nobel Committee fu il forum che Epstein poteva raggiungere attraverso Jagland — un'istituzione che assegna il premio piu' prestigioso al mondo.
+
+### La Casa Reale
+
+La Crown Princess [Mette-Marit](../docs/persons/mette-marit.md) rappresenta l'estensione della rete Epstein alla monarchia norvegese:
+
+- **1.000+ menzioni** nei 3.5M di file DOJ rilasciati a gennaio 2026
+- Contatti iniziati nel **2011** — 3 anni dopo la condanna di Epstein del 2008
+- Ha ammesso di aver cercato Epstein su Google e che i risultati "didn't look too good", ma continuo' la relazione
+- Soggiorno di **4 giorni** nella villa di Epstein a Palm Beach (2013)
+- Crown Prince Haakon incontra Epstein a St. Barts (2012)
+- Coincidenza temporale: i file escono nei giorni del processo per stupro del figlio Marius Borg Høiby
+
+### Risposta Istituzionale
+
+Il 10 febbraio 2026 lo **Storting** (Parlamento norvegese) ha votato per istituire una **Commissione d'inchiesta indipendente** sulle connessioni di Epstein con cittadini norvegesi, con audizioni pubbliche programmate.
 
 ### Il Pattern
 
-Rod-Larsen descrisse Epstein come "my best friend" e "a thoroughly good human being". Scrisse lettere ufficiali di raccomandazione per ottenere visti USA per giovani donne russe nell'orbita di Epstein. Introdusse Brende a Epstein a una cena NYC (2018). La rete norvegese mostra il **modello operativo**: accesso a diplomazia di alto livello tramite prestiti, ospitalita', donazioni a figli, in cambio di legittimazione e accesso a circoli di potere.
+Rod-Larsen come **hub**: descrisse Epstein come "my best friend" e "a thoroughly good human being". Scrisse lettere ufficiali di raccomandazione per ottenere visti USA per giovani donne russe nell'orbita di Epstein. Introdusse Brende a Epstein a una cena NYC (2018). La rete norvegese mostra il **modello operativo**:
+
+```
+                     EPSTEIN
+                        |
+                 Terje Rød-Larsen (hub)
+                        |
+        +-------+-------+-------+-------+
+        |       |       |       |       |
+    Mette-    Brende  Jagland  Juul   Elbegdorj
+    Marit    (WEF)   (Nobel/  (moglie) (Mongolia)
+   (Corona)          CoE)
+```
+
+Accesso a diplomazia di alto livello tramite prestiti, ospitalita', donazioni a figli, in cambio di legittimazione e accesso a circoli di potere. L'infiltrazione copriva: **governo** (Deputy PM Rød-Larsen, PM Jagland, Min. Esteri Brende), **monarchia** (Mette-Marit), **istituzioni globali** (Nobel Committee, Council of Europe, WEF, ONU).
 
 ---
 
@@ -1014,6 +1056,58 @@ Il network UK mostra un pattern specifico: Epstein non si limitava a corrompere 
 
 ---
 
+## Il Canale Italiano: Teodorani Fabbri e la Galassia Agnelli
+
+Il rilascio dei DOJ files nel febbraio 2026 ha rivelato un canale italiano finora sconosciuto: [Eduardo Teodorani Fabbri](../docs/persons/eduardo-teodorani-fabbri.md), nipote di [Gianni Agnelli](../docs/persons/gianni-agnelli.md) e cugino di secondo grado di [John Elkann](../docs/persons/john-elkann.md).
+
+### L'Attore
+
+| Nome | Ruolo pre-Epstein | Legame | Conseguenze Feb 2026 |
+|------|-------------------|--------|---------------------|
+| [Eduardo Teodorani Fabbri](../docs/persons/eduardo-teodorani-fabbri.md) | SVP [CNH Industrial](../docs/company/cnh-industrial.md), board [Exor](../docs/company/exor.md)/[Fiat](../docs/company/fiat.md), Chairman Camera Commercio Italiana UK | 1.251 menzioni nei file DOJ, corrispondenza dal 2010, inviti feste/cene NY-Londra-Roma-Parigi-Caraibi, info immobili off-market, accesso VIP [Ferrari](../docs/company/ferrari.md) | Sotto scrutinio mediatico |
+
+### Il Messaggio del 1 Marzo 2019
+
+La corrispondenza piu' compromettente risale al 1 marzo 2019 — quando Epstein era gia' stato condannato in Florida per adescamento di minori e pochi mesi prima dell'arresto federale di luglio:
+
+> "Master we wait the good ankle bambina with another good friend of your choice!!! Peninsula will be our party HQ tonight!"
+
+Teodorani si rivolgeva a Epstein come "Master" (padrone), chiedendo una ragazza e un'amica a scelta di Epstein, con il Peninsula Hotel di New York come quartier generale della serata.
+
+### Il Pattern
+
+Il canale Teodorani Fabbri mostra un pattern diverso dagli altri casi documentati:
+
+| Aspetto | Teodorani Fabbri | Pattern standard |
+|---------|-----------------|-----------------|
+| **Accesso offerto** | Galassia Agnelli-Elkann (automotive, media, sport) | Accademico, finanziario, politico |
+| **Servizio specifico** | "Ferrari fixer" — accesso VIP a eventi Ferrari | Donazioni, investimenti, consulenze |
+| **Real estate** | Info off-market su immobili di lusso | Uso di proprieta' Epstein |
+| **Durata** | 2010-2019 (post-condanna) | Variabile |
+| **Tono** | Deferente ("Master") | Transazionale |
+
+### Connessione con il Pilastro Italiano
+
+Eduardo Teodorani Fabbri e' figlio di [Maria Sole Agnelli](../docs/persons/maria-sole-agnelli.md) (1925-2025, sorella di Gianni) e del conte [Pio Teodorani Fabbri](../docs/persons/pio-teodorani-fabbri.md) (1924-2022, VP [IFI](../docs/company/ifi.md)). La sua posizione nella galassia Agnelli — board di Exor, Fiat, CNH, accesso a Ferrari — offriva a Epstein un canale verso il cuore del potere industriale italiano, complementare al canale hacker italiano (Iozzo, via MIT/Joi Ito) gia' documentato nella sezione Intelligence.
+
+```
+FAMIGLIA AGNELLI-ELKANN
+         |
+    Maria Sole Agnelli ──sp.──> Pio Teodorani Fabbri (VP IFI)
+         |
+    Eduardo Teodorani Fabbri
+         |
+    +----+----+----+----+
+    |    |    |    |    |
+   Exor Fiat  CNH Ferrari Camera Comm. UK
+    |
+    └──> Jeffrey Epstein (1.251 menzioni, 2010-2019)
+              |
+         feste, immobili off-market, accesso VIP Ferrari
+```
+
+---
+
 ## I Top Connettori (Analisi Grafo)
 
 Persone nella rete Epstein con il maggior numero di affiliazioni ad organizzazioni nel database DeepScript:
@@ -1086,16 +1180,20 @@ Persone nella rete Epstein con il maggior numero di affiliazioni ad organizzazio
 | **2026 Feb 2** | Nomi [Jack Lang](../docs/persons/jack-lang.md) e [Olivier Colom](../docs/persons/olivier-colom.md) emergono nei file — i due contatti primari di Epstein in Francia |
 | **2026 Feb 4** | [Ehud Barak](../docs/persons/ehud-barak.md) definisce Epstein "co-proprietario" di [Valar Ventures](../docs/private-equity/valar-ventures.md) con Thiel; portavoce Thiel conferma Epstein come LP ($40M, ora ~$170M) |
 | **2026 Feb 4** | Release supplementare DOJ con accuse Leon Black |
+| **2026 Feb 3** | CNN rivela entita' dei contatti [Crown Princess Mette-Marit](../docs/persons/mette-marit.md)-Epstein: 1.000+ menzioni nei file DOJ, soggiorno a Palm Beach 2013 |
 | **2026 Feb 5** | WEF apre indagine su [Brende](../docs/persons/borge-brende.md); Schwab nega di essere stato informato |
 | **2026 Feb 6** | Økokrim apre indagine su [Jagland](../docs/persons/thorbjorn-jagland.md) |
+| **2026 Feb 7** | Mette-Marit si scusa pubblicamente; PM Støre parla di "poor judgment"; patronage sospendono collaborazioni |
 | **2026 Feb 7** | [Jack Lang](../docs/persons/jack-lang.md) si dimette da presidente Arab World Institute; Parquet National Financier apre indagine su Jack e [Caroline Lang](../docs/persons/caroline-lang.md) per "blanchiment de fraude fiscale aggravee" |
 | **2026 Feb 9** | [Mona Juul](../docs/persons/mona-juul.md) e [Rod-Larsen](../docs/persons/terje-rod-larsen.md) incriminati |
+| **2026 Feb 10** | **Storting** vota Commissione d'inchiesta indipendente su connessioni Epstein-Norvegia con audizioni pubbliche |
 | **2026 Feb 10** | Rep. Ro Khanna identifica [Sultan bin Sulayem](../docs/persons/sultan-ahmed-bin-sulayem.md) nelle redazioni; Rep. Thomas Massie conferma email "torture video" |
 | **2026 Feb 11** | AG [Pam Bondi](../docs/persons/pam-bondi.md) all'audizione; controversia sorveglianza ricerche congressuali |
 | **2026 Feb 12** | Perquisizione 3 proprieta' Jagland |
-| **2026 Feb 13** | Jagland formalmente incriminato corruzione aggravata; [Sultan bin Sulayem](../docs/persons/sultan-ahmed-bin-sulayem.md) si dimette da DP World e PCFC dopo rivelazioni DOJ (co-cospiratore, LLC isola, email esplicite); [Essa Kazim](../docs/persons/essa-kazim.md) nuovo Chairman, Yuvraj Narayan nuovo CEO |
+| **2026 Feb 13** | Jagland formalmente incriminato corruzione aggravata; ricoverato in ospedale psichiatrico dopo tentativo di suicidio; [Sultan bin Sulayem](../docs/persons/sultan-ahmed-bin-sulayem.md) si dimette da DP World e PCFC dopo rivelazioni DOJ (co-cospiratore, LLC isola, email esplicite); [Essa Kazim](../docs/persons/essa-kazim.md) nuovo Chairman, Yuvraj Narayan nuovo CEO |
 | **2026 Feb 14** | Congresso USA chiede cooperazione a Mandelson |
-| **2026 Feb 12** | [Kathryn Ruemmler](../docs/persons/kathryn-ruemmler.md) si dimette da CLO Goldman Sachs dopo release Epstein files |
+| **2026 Feb 12** | [Kathryn Ruemmler](../docs/persons/kathryn-ruemmler.md) si dimette da CLO Goldman Sachs dopo release Epstein files; CEO [David Solomon](../docs/persons/david-solomon.md) accetta dimissioni |
+| **2026 Feb 20** | Francia riapre indagini su associati Epstein incluso il caso [Jean-Luc Brunel](../docs/persons/jean-luc-brunel.md) (morto La Sante Feb 2022) |
 | **2026 Feb 15** | DOJ invia lista 300+ "politically exposed persons" al Congresso |
 | **2026 Feb 16** | [Tom Pritzker](../docs/persons/tom-pritzker.md) si dimette da Executive Chairman di [Hyatt Hotels](../docs/company/hyatt.md) dopo rilascio email DOJ (20+ email con Epstein 2010-2019) |
 | **2026 Feb 16** | Polizia francese perquisisce l'[Arab World Institute](../docs/foundation/arab-world-institute.md) e altri luoghi nell'indagine Lang/Epstein |
@@ -1127,7 +1225,8 @@ La deposizione rappresenta un punto di svolta: per la prima volta il "client zer
 |---------------|-----------|--------|--------|
 | Norvegia | Økokrim | Terje Rod-Larsen | Concorso corruzione |
 | Norvegia | Økokrim | Mona Juul | Corruzione aggravata |
-| Norvegia | Økokrim | Thorbjorn Jagland | Corruzione aggravata |
+| Norvegia | Økokrim | Thorbjorn Jagland | Corruzione aggravata (ricoverato dopo tentativo suicidio) |
+| Norvegia | Storting | Commissione d'inchiesta | Indagine indipendente su connessioni Epstein-Norvegia (votata 10 Feb 2026) |
 | Svizzera | Autorita' cantonali | WEF / Borge Brende | Violazioni salariali |
 | UK | Metropolitan Police | Peter Mandelson | Misconduct in public office |
 | UK | Metropolitan Police | **Prince Andrew** | **Arrestato 19 Feb 2026** misconduct in public office; email trade envoy con Epstein |
@@ -1135,6 +1234,7 @@ La deposizione rappresenta un punto di svolta: per la prima volta il "client zer
 | USA | House Oversight Committee | Leslie Wexner | Deposizione 18 Feb 2026 |
 | Francia | Parquet National Financier | Jack Lang, Caroline Lang | Blanchiment de fraude fiscale aggravee (Prytanee LLC, $1.4M USVI) |
 | Francia | Parquet National Financier | In corso | Probe trafficking e reati finanziari legati a Epstein |
+| Francia | Parquet National Financier | Caso Brunel (riaperto) | Riapertura indagine su associati Epstein incluso Jean-Luc Brunel (Feb 2026) |
 | USA | DOJ / Congresso | In corso | Transparency Act compliance |
 | USA | Senate Finance Committee | JPMorgan executives (Erdoes, Staley) | Compliance failures, enabling trafficking |
 | USA | Goldman Sachs (interno) | Kathryn Ruemmler | Dimessa Feb 2026 |
@@ -1161,7 +1261,7 @@ I forum (Bilderberg, WEF, Trilateral, CFR) funzionarono come **moltiplicatore di
 JPMorgan e Deutsche Bank non furono vittime inconsapevoli: il Senate Finance Committee documento' che top executives supervisionavano direttamente il rapporto, ignorando red flags. $1.3B in transazioni sospette segnalate solo retroattivamente. Tre livelli di complicita' emersi:
 - **Jes Staley** (Private Banking → CEO Barclays): "chief defender" di Epstein, bannato a vita dalla FCA
 - **Mary Erdoes** (CEO Asset & Wealth Management): contatti costanti 2010-2011, Epstein nel gruppo elite "Wall of Cash"
-- **Kathryn Ruemmler** (CLO Goldman Sachs, ex WH Counsel Obama): inner circle, dimessa Feb 2026
+- **Kathryn Ruemmler** (CLO Goldman Sachs, ex WH Counsel Obama): inner circle, backup executor testamento, prima telefonata dopo arresto, consulenza su Brunel; dimessa Feb 2026 — CEO [David Solomon](../docs/persons/david-solomon.md) accetto' le dimissioni; anche [Larry Summers](../docs/persons/larry-summers.md) era backup executor (entrambi sotto pressione post-files)
 
 Il pattern e' chiaro: le banche non solo tollerarono Epstein, ma i loro top executives coltivarono relazioni personali con lui, creando un sistema di protezione dall'interno.
 
@@ -1211,7 +1311,8 @@ Il rilascio dei file sotto AG Pam Bondi e' stato segnato da controversie: sorveg
 - Groff: cosa rivelano le 130-150K+ menzioni nei file DOJ? Grado di consapevolezza degli abusi?
 - Ross/Mucinska: dettagli sulla rimozione degli hard drive — chi ordino' la distruzione? Cosa contenevano?
 - Ross: arrivo via Elite Models/Brunel — chi la invio' specificamente? Quante altre modelle arrivarono per la stessa via?
-- Brunel: collegamento sistematico con pipeline est-europea — quante donne passarono da Elite Models a Epstein?
+- Brunel: collegamento sistematico con pipeline est-europea — quante donne passarono da Elite Models/Karin/MC2 a Epstein? MC2 opero' anche da Tel Aviv — connessione con pilastro intelligence israeliano?
+- Brunel: esito riapertura indagini francesi (Feb 2026) — nuove imputazioni post-mortem?
 - Fonte originale della ricchezza pre-Wexner
 - Conferma completa dei collegamenti Mossad/CIA
 - Identita' dei "clienti" oltre Wexner e Black
@@ -1272,6 +1373,9 @@ Il rilascio dei file sotto AG Pam Bondi e' stato segnato da controversie: sorveg
 - Connessione Ganbat-Lukashenko: la rete di riciclaggio bielorussa attraverso Mongolia era nota a Epstein?
 - Karyna Shuliak: natura e destinazione dei trasferimenti verso Minsk emersi dai DOJ files 2026
 - Karyna Shuliak: stato attuale dell'eredita' dal 1953 Trust dopo le cause legali delle vittime
+- Teodorani Fabbri: quali eventi Ferrari specifici organizzo' per Epstein? Chi altri della galassia Agnelli-Elkann fu coinvolto?
+- Teodorani Fabbri: dettagli sulle transazioni immobiliari off-market — Epstein acquisto' proprieta' su suggerimento di Teodorani?
+- Teodorani Fabbri: la serata al Peninsula Hotel (1 mar 2019) — chi erano la "bambina" e la "good friend"?
 
 ---
 
@@ -1513,6 +1617,14 @@ Il rilascio dei file sotto AG Pam Bondi e' stato segnato da controversie: sorveg
 - [NBC News - Macpherson Refused Chemotherapy](https://www.nbcnews.com/news/us-news/elle-macpherson-was-diagnosed-breast-cancer-7-years-ago-refused-chemot-rcna169321)
 - [Science/AAAS - Trump Met Anti-Vaccine Activists](https://www.science.org/content/article/trump-met-prominent-anti-vaccine-activists-during-campaign)
 - [Democracy Now - RFK's Embrace of Wakefield](https://www.democracynow.org/2025/1/31/andrew_wakefield_vaccine)
+
+### Teodorani Fabbri / Agnelli / Italia (DOJ 2026)
+- [Open - Eduardo Teodorani negli Epstein Files](https://www.open.online/2026/02/06/eduardo-teodorani-nipote-agnelli-epstein-files/)
+- [Fanpage - Chi e' Eduardo Teodorani Fabbri](https://www.fanpage.it/esteri/dagli-epstein-files-spunta-il-cugino-degli-elkann-chi-e-eduardo-teodorani-fabbri-e-cosa-faceva/)
+- [Il Popolano - 1.251 menzioni negli Epstein Files](https://www.ilpopolano.com/il-conte-teodorani-fabbri-nipote-dellavvocato-agnelli-compare-1251-volte-negli-epstein-files/)
+- [Today - Chat Epstein-Teodorani Fabbri](https://www.today.it/dossier/potere/epstein-eduardo-teodorani-fabbri-agnelli-messaggi-chat.html)
+- [Gazette News - Ex-Essex tractor plant boss referred to paedophile as 'master'](https://www.gazette-news.co.uk/news/25884518.ex-basildon-tractor-plant-bosss-messages-jeffrey-epstein/)
+- [Farmers Guide - Emails between former CNH boss and Epstein](https://www.farmersguide.co.uk/machinery/emails-between-former-cnh-boss-and-jeffrey-epstein-released/)
 
 ### Hacker / DEF CON / Cyber (DOJ 2026)
 - [TechCrunch - Def Con bans three people linked to Epstein (Feb 2026)](https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/)

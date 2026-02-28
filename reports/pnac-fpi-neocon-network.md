@@ -526,7 +526,98 @@ PNAC forni' il framework intellettuale per la "Bush Doctrine":
 
 ---
 
-## Parte VIII: Declino e trasformazione
+## Parte VIII: Il Braccio Senato — I "Three Amigos"
+
+Il network neocon non operava solo attraverso think tank (PNAC/FPI) e potere esecutivo (Cheney/Rumsfeld/Wolfowitz). Aveva un **terzo pilastro legislativo**: un trio bipartisan di senatori-falchi che garantiva il consenso del Congresso all'agenda interventista.
+
+### I Three Amigos
+
+```
+        "THREE AMIGOS"
+        (soprannome: Gen. David Petraeus)
+                |
+    +-----------+-----------+
+    |           |           |
+    v           v           v
+JOHN McCAIN  LINDSEY     JOE
+(1936-2018)  GRAHAM      LIEBERMAN
+R-Arizona    (1955)      (1942-2024)
+Senator      R-South     I-Connecticut
+1987-2018    Carolina    Senator
+Chairman     Senator     1989-2013
+Armed Svcs   2003-       Chairman
+             oggi        Homeland Sec
+```
+
+| Figura | Partito | Ruolo Senato | Funzione nel network |
+|--------|---------|--------------|---------------------|
+| **[John McCain](../docs/persons/john-mccain.md)** | R | Chairman Armed Services (2015-18) | Leader, volto pubblico, legittimita' bipartisan |
+| **[Lindsey Graham](../docs/persons/lindsey-graham.md)** | R | Armed Services, Judiciary Chairman (2019-21) | Operatore legislativo, continuita' post-McCain |
+| **[Joe Lieberman](../docs/persons/joe-lieberman.md)** | I (ex-D) | Chairman Homeland Security (2007-13) | Ponte bipartisan, copertura democratica |
+
+Il soprannome "Three Amigos" fu dato dal **Gen. David Petraeus** durante uno dei loro frequenti viaggi congiunti in Iraq e Afghanistan. Il trio era il piu' visibile gruppo di senatori pro-surge e pro-interventismo.
+
+### Funzione nel sistema neocon
+
+Il braccio Senato svolgeva tre funzioni che think tank e potere esecutivo non potevano:
+
+**1. Legittimazione bipartisan dell'interventismo**
+
+La presenza di Lieberman (indipendente, ex-Democratico, candidato VP 2000 con Gore) dava all'agenda neocon una copertura bipartisan che PNAC non aveva. Quando i Three Amigos sostenevano il surge in Iraq o sanzioni all'Iran, non era "solo i repubblicani" — era un consenso trasversale.
+
+**2. Oversight militare dal Congresso**
+
+McCain come Chairman dell'Armed Services Committee controllava budget, nomine e oversight del Pentagono. Graham sedeva nella stessa commissione. Insieme garantivano che la linea interventista avesse supporto legislativo e fondi.
+
+**3. Diplomazia parlamentare**
+
+Il trio guidava delegazioni congressuali (CODEL) in zone di conflitto e ai forum internazionali, costruendo relazioni dirette con leader stranieri e militari. McCain guido' la delegazione USA alla [Munich Security Conference](../docs/forum/munich-security-conference.md) per oltre 20 anni — la conferenza ha intitolato un premio a suo nome.
+
+### IRI: Lo strumento di democracy promotion
+
+L'**[International Republican Institute](../docs/company/iri.md)** (IRI), fondato nel 1983 e presieduto da McCain per 25 anni, era lo strumento operativo della "democracy promotion" neocon — la quarta gamba della Bush Doctrine. Parallelo al National Endowment for Democracy (NED) e al National Democratic Institute (NDI), l'IRI operava in 100+ paesi con finanziamento federale.
+
+```
+BUSH DOCTRINE
+"Democracy Promotion"
+         |
+    +----+----+
+    |         |
+    v         v
+  PNAC       IRI
+(teoria)   (operazioni)
+Kristol    McCain (Chair 25 yrs)
+Kagan
+```
+
+**Pattern:** PNAC teorizzava il regime change e la democracy promotion; l'IRI li implementava sul campo. McCain sedeva al vertice dell'IRI mentre sosteneva le stesse politiche in Senato — la stessa persona in entrambi i ruoli.
+
+### Connessioni con il network PNAC/FPI
+
+| Nodo | Three Amigos | PNAC/FPI |
+|------|-------------|----------|
+| **AEI** | Lieberman (Project Co-Chair 2013-) | Wolfowitz, Perle, Bolton |
+| **Hudson Institute** | Lieberman (Project Co-Chair 2013-) | Krepinevich |
+| **Munich Security Conf** | McCain (leader CODEL 20+ anni), Graham, Lieberman | - |
+| **FPI** | Griffin (Executive Director) ex-staffer Lieberman | Kristol, Kagan, Edelman |
+| **Armed Services Cmte** | McCain (Chairman), Graham (membro) | Wolfowitz (testimonianze), Rumsfeld (SecDef) |
+| **Iraq surge** | Tre sostenitori chiave al Senato | Kagan (Frederick) architetto intellettuale |
+
+**Christopher Griffin**, Executive Director di FPI (2013-2017), proveniva dallo staff di Lieberman — il pipeline Senato → think tank neocon.
+
+### La frattura Trump
+
+| Figura | Pre-Trump | Post-Trump |
+|--------|-----------|------------|
+| **McCain** | Candidato GOP 2008, maverick | Anti-Trump fino alla morte (2018), voto contro ACA |
+| **Graham** | Critico feroce 2015-16 | Sostenitore vocale dal 2017 — unico Amigo a fare la transizione |
+| **Lieberman** | Bipartisan, No Labels | Co-chairman No Labels fino alla morte (2024) |
+
+Graham e' l'unico dei Three Amigos ad aver fatto la transizione dalla vecchia destra neocon alla New Right trumpiana — abbandonando l'interventismo di McCain per l'alleanza con Trump. La sua traiettoria incarna la frattura del report [New American Right](new-american-right.md).
+
+---
+
+## Parte IX: Declino e trasformazione
 
 ### Da PNAC a FPI (2006-2017)
 
@@ -609,7 +700,9 @@ Pentagono, State Dept, NSC, Ambasciate
 | **Finanziamento privato** | Singer → FPI → policy |
 | **Incubatori nascosti** | ONA (Marshall), CSBA (Krepinevich) |
 | **FPI come talent pipeline** | Stefanik: staffer FPI → Congress → House GOP Chair |
-| **Anelli di congiunzione** | Edelman: Cheney office → Under SecDef → FPI → CSBA |
+| **Braccio Senato bipartisan** | Three Amigos (McCain/Graham/Lieberman): legittimazione legislativa dell'interventismo |
+| **Democracy promotion ops** | McCain: IRI Chairman 25 anni, strumento operativo del regime change |
+| **Anelli di congiunzione** | Edelman: Cheney office → Under SecDef → FPI → CSBA; Griffin: staffer Lieberman → FPI Executive Director |
 
 ### Lezioni
 
@@ -705,8 +798,16 @@ La dottrina interventista puo' riemergere con future amministrazioni.
 **Finanziatori:**
 - [Paul Singer](../docs/persons/paul-singer.md)
 
+**Braccio Senato (Three Amigos):**
+- [John McCain](../docs/persons/john-mccain.md)
+- [Lindsey Graham](../docs/persons/lindsey-graham.md)
+- [Joe Lieberman](../docs/persons/joe-lieberman.md)
+
+**Democracy Promotion:**
+- [IRI](../docs/company/iri.md)
+
 ---
 
-*Report aggiornato: Gennaio 2026*
+*Report aggiornato: Febbraio 2026*
 *Dati: Neo4j DeepScript database*
-*Ultima revisione: aggiunta John Bolton (PNAC Director), Elliott Abrams, status giudiziario Bolton 2025*
+*Ultima revisione: aggiunta Parte VIII (Three Amigos — braccio Senato neocon), schede McCain/Graham/Lieberman*

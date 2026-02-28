@@ -8,8 +8,16 @@
 |---------|-----------|
 | **Nascita** | 15 luglio 1949, Halmstad, Svezia |
 | **Famiglia** | Aristocrazia svedese - bisnonno Gillis Bildt fu PM |
-| **Formazione** | Stockholm University (economia, scienze politiche) |
+| **Formazione** | Stockholm University (scienze politiche, economia - non completato) |
 | **Partito** | Moderaterna (centro-destra) |
+
+---
+
+## Formazione
+
+| Periodo | Istituzione | Dettaglio |
+|---------|-------------|-----------|
+| **1960s-70s** | [Stockholm University](../university/stockholm-university.md) | Scienze politiche e economia (non completato) |
 
 ---
 
@@ -78,8 +86,19 @@ TRILATERAL  BILDERBERG   ECFR      RAND    WALLENBERG
 | **RAND Corporation** | Board Trustee | Primo non-americano |
 | **Atlantic Council** | Board | - |
 | **Wallenberg Foundations** | Senior Advisor | Collegamento con dinastia |
-| **German Marshall Fund** | - | - |
+| **German Marshall Fund** | Board | - |
+| **GLOBSEC** | Board | Think tank sicurezza |
+| **[Yalta European Strategy](../forum/yalta-european-strategy.md)** | Board | Forum Victor Pinchuk |
 | **Covington & Burling** | Senior Advisor | Law firm Washington |
+
+### Corporate Boards (2000-2006)
+
+| Organizzazione | Ruolo | Periodo | Note |
+|----------------|-------|---------|------|
+| **[Lundin Energy](../company/lundin-energy.md)** | Board | 2000-2006 | Interessi petroliferi in Sudan - controverso |
+| **[Vostok Nafta](../company/vostok-nafta.md)** | Board | 2002-2006 | Holdings in Gazprom |
+
+> Lasciati tutti i board per assumere incarico Min. Esteri (2006).
 
 ### Network Chiave
 
@@ -135,6 +154,16 @@ Carl Bildt rappresenta il modello perfetto del **policy entrepreneur transatlant
 
 ---
 
+## Controversie
+
+| Tema | Periodo | Dettaglio |
+|------|---------|-----------|
+| **Lundin Energy / Sudan** | 2000-2006 | Board member di Lundin con operazioni petrolifere in Sudan durante guerra civile. Dirigenti Lundin poi incriminati per complicita' crimini di guerra |
+| **Vostok Nafta / Russia** | 2002-2006 | Board di investment company con partecipazioni in Gazprom; conflitto di interessi con ruolo diplomatico |
+| **Conflitto interessi** | 2006 | Critiche per passaggio diretto da board corporativi (oil/gas) a Min. Esteri |
+
+---
+
 ## Connessioni PowerLink
 
 ### Organizzazioni
@@ -149,6 +178,14 @@ Carl Bildt rappresenta il modello perfetto del **policy entrepreneur transatlant
 | [Atlantic Council](../think-tank/atlantic-council.md) | Board |
 | [WHO](../agency/who.md) | Special Envoy 2021+ |
 | [Club Madrid](../forum/club-madrid.md) | Member |
+| [RAND Corporation](../think-tank/rand-corporation.md) | Board Trustee |
+| [German Marshall Fund](../think-tank/german-marshall-fund.md) | Board |
+| [GLOBSEC](../think-tank/globsec.md) | Board |
+| [Covington & Burling](../company/covington-burling.md) | Senior Advisor |
+| [Lundin Energy](../company/lundin-energy.md) | Board 2000-06 |
+| [Vostok Nafta](../company/vostok-nafta.md) | Board 2002-06 |
+| [Stockholm University](../university/stockholm-university.md) | Alumni |
+| [YES](../forum/yalta-european-strategy.md) | Board |
 
 ### Persone
 
@@ -202,4 +239,4 @@ Carl Bildt rappresenta il modello perfetto del **policy entrepreneur transatlant
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Febbraio 2026*

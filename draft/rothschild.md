@@ -72,3 +72,4 @@ Figlia Marie (1963-2013) sposa Brandino Brandolini d'Adda (figlio di Cristiana A
 
 ## Ramo inglese
 - james-rothschild-uk
+- nat-rothschild Nathaniel (figlio di jacob)

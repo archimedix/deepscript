@@ -38,8 +38,12 @@
 | **2017** | President ad interim | [Heritage Foundation](../think-tank/heritage-foundation.md) |
 | **-2023** | Chairman Board of Trustees | [Heritage Foundation](../think-tank/heritage-foundation.md) |
 | **1982-1991** | Chairman US Advisory Commission on Public Diplomacy | [Governo USA](../government/governo-usa.md) |
-| | President | [Mont Pelerin Society](../forum/mont-pelerin-society.md) |
+| **1989** | Presidential Citizens Medal | Conferita da Reagan |
+| **1996-1998** | President | [Mont Pelerin Society](../forum/mont-pelerin-society.md) |
+| **2016-2017** | Transition team member | [Governo USA](../government/governo-usa.md) (Trump) |
+| | Co-fondatore | [ALEC](../think-tank/alec.md) |
 | | Chairman Board | [Intercollegiate Studies Institute](../think-tank/intercollegiate-studies-institute.md) |
+| | Director | [American Council on Germany](../think-tank/american-council-germany.md) |
 
 ### Momenti chiave
 
@@ -61,14 +65,15 @@
 ### Mappa delle Appartenenze
 
 ```
-                    EDWIN FEULNER
-                         |
-       +---------+-------+-------+---------+
-       |         |               |         |
-       v         v               v         v
-   Heritage   Mont Pelerin    Governo    ISI
-   Foundation  Society         USA     (Chairman)
-   (1973-)    (President)   (1982-91)
+                        EDWIN FEULNER
+                             |
+       +----------+-----+---+---+-----+----------+
+       |          |     |       |     |          |
+       v          v     v       v     v          v
+   Heritage    Mont   ALEC  Governo  ISI    Am. Council
+   Foundation Pelerin       USA    (Chair)  on Germany
+   (1973-)   (Pres)  (co-f) (1982-91,
+                              2016-17)
 ```
 
 ### Board e affiliazioni
@@ -114,6 +119,7 @@
 
 | Tema | Periodo | Dettaglio |
 |------|---------|-----------|
+| **Trump transition** | 2016-2017 | Membro del team di transizione Trump, Heritage torna centrale nella politica GOP |
 | **Successione DeMint** | 2017 | Torna come presidente ad interim dopo la caotica rimozione di Jim DeMint |
 | **Influenza corporate** | Ongoing | Critiche per finanziamenti da industria fossile e grandi corporation |
 
@@ -126,8 +132,11 @@
 | Entita' | Connessione |
 |---------|-------------|
 | [Heritage Foundation](../think-tank/heritage-foundation.md) | Co-fondatore, President 1977-2013, Chairman Board |
-| [Mont Pelerin Society](../forum/mont-pelerin-society.md) | President, Treasurer |
-| [Governo USA](../government/governo-usa.md) | Chairman Advisory Commission Public Diplomacy 1982-91 |
+| [ALEC](../think-tank/alec.md) | Co-fondatore 1973 |
+| [Mont Pelerin Society](../forum/mont-pelerin-society.md) | President 1996-98, Treasurer |
+| [Governo USA](../government/governo-usa.md) | Chairman Advisory Commission Public Diplomacy 1982-91; Trump transition team 2016-17 |
+| [Council for National Policy](../forum/council-national-policy.md) | Director |
+| [American Council on Germany](../think-tank/american-council-germany.md) | Director |
 | [Wharton](../university/wharton.md) | MBA 1964 |
 | [Georgetown](../university/georgetown.md) | Graduate studies |
 | [LSE](../think-tank/lse.md) | Graduate studies |
@@ -152,11 +161,14 @@
 | **1963** | BA Regis University |
 | **1964** | MBA Wharton |
 | **1969** | Staff di Rep. Philip Crane |
-| **1973** | Co-fonda Heritage Foundation |
+| **1973** | Co-fonda Heritage Foundation e ALEC |
 | **1977** | President Heritage Foundation |
 | **1981** | PhD Edinburgh; *Mandate for Leadership* per Reagan |
 | **1982** | Chairman US Advisory Commission on Public Diplomacy |
+| **1989** | Presidential Citizens Medal da Reagan |
+| **1996** | President Mont Pelerin Society |
 | **2013** | Lascia presidenza Heritage dopo 36 anni |
+| **2016** | Membro Trump transition team |
 | **2017** | President ad interim Heritage |
 | **2023** | Si ritira da Chairman Board |
 | **2025** | Muore il 19 luglio |

@@ -308,3 +308,8 @@ Liberty Partners
 [v] honeycomb-asset-management : Hedge fund long/short equity fondato da David Fiszel (ex SAC Capital) nel 2016 — Epstein trasferi' $60M+ nel fondo tra 2016 e 2019, introdotto da Eva Andersson-Dubin
 [v] david-fiszel : Hedge fund manager, fondatore Honeycomb Asset Management (2016) — formato da Leon Cooperman (Omega Advisors) e Steve Cohen (SAC Capital/Point72); Epstein investi' $60M+ nel fondo tra 2016 e 2019, introdotto da Eva Andersson-Dubin
 [v] pablos-holman : Hacker, inventore e futurista tecnologico — early team Blue Origin (Jeff Bezos), co-fondatore IV Lab con Nathan Myhrvold a Intellectual Ventures, Global Good Fund con Bill Gates, 70+ brevetti; contatti con Epstein dal 2010, aiuto' a nascondere notizie negative online; bannato da DEF CON feb 2026
+
+[v] jean-luc-brunel : Agente di modelle francese; fondatore Karin Models e MC2; procuratore per Epstein; trovato morto in cella a La Sante feb 2022
+[] olivier-colom
+
+

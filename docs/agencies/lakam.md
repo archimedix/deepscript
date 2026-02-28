@@ -111,7 +111,8 @@ Non partecipava al coordinamento inter-agenzia, mantenendo autonomia operativa t
 | Aspetto | Dettaglio |
 |---------|-----------|
 | **Agente** | [Jonathan Pollard](../persons/jonathan-pollard.md) |
-| **Handler** | [Rafi Eitan](../persons/rafi-eitan.md) |
+| **Reclutatore** | [Aviem Sella](../persons/aviem-sella.md) (col. IAF) |
+| **Handler** | [Rafi Eitan](../persons/rafi-eitan.md) (direttore), [Yosef Yagur](../persons/yosef-yagur.md) (operativo) |
 | **Posizione** | US Navy Anti-Terrorist Alert Center |
 | **Materiale** | Documenti classificati State/Defense/CIA/NSA |
 | **Esito** | Ergastolo Pollard; scioglimento LAKAM |
@@ -141,6 +142,8 @@ Non partecipava al coordinamento inter-agenzia, mantenendo autonomia operativa t
 | [Benjamin Blumberg](../persons/benjamin-blumberg.md) | Primo Direttore (1957-1981) |
 | [Rafi Eitan](../persons/rafi-eitan.md) | Ultimo Direttore (1981-1986) |
 | [Jonathan Pollard](../persons/jonathan-pollard.md) | Agente USA (1984-1985) |
+| [Aviem Sella](../persons/aviem-sella.md) | Reclutatore Pollard (1984) |
+| [Yosef Yagur](../persons/yosef-yagur.md) | Handler operativo Pollard; attache' scientifico Washington |
 | [Arnon Milchan](../persons/arnon-milchan.md) | Agente/procacciatore (1965-1986) |
 
 ### Agenzie correlate
@@ -189,4 +192,4 @@ Non partecipava al coordinamento inter-agenzia, mantenendo autonomia operativa t
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2025*
+*Ultimo aggiornamento: Febbraio 2026*

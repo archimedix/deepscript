@@ -17,6 +17,11 @@ events:
     year: 1871
     type: revolution
     location: Paris, France
+  1908-rivoluzione-giovani-turchi:
+    tagline: Rivoluzione CUP lanciata da Salonicco, restaura la Costituzione ottomana
+    year: 1908
+    type: revolution
+    location: Thessaloniki, Ottoman Empire
   1910-jekyll-island:
     tagline: La riunione segreta che disegno' la Federal Reserve
     year: 1910
@@ -36,16 +41,31 @@ events:
     type: declaration
     location: London
     outcome: British support for Jewish homeland in Palestine
+  1917-grande-incendio-salonicco:
+    tagline: Incendio distrugge 2/3 della citta, 52.000 ebrei senza casa, 32 sinagoghe distrutte
+    year: 1917
+    type: disaster
+    location: Thessaloniki, Greece
   1917-russian-revolution:
     year: 1917
     type: revolution
     location: Russia
+  1923-scambio-popolazioni:
+    tagline: 1.2M greci espulsi da Anatolia, 400K musulmani da Grecia, Dönmeh trasferiti a Istanbul
+    year: 1923
+    type: treaty
+    location: Lausanne, Switzerland
   1939-rescue-warsaw:
     tagline: Cooperazione USA-Wehrmacht senza precedenti per salvare il leader di Chabad-Lubavitch dalla Polonia occupata
       dai nazisti. Uno snodo che salvo' il movimento e ne determino' il futuro americano.
     year: 1939
     type: diplomatic
     location: Warsaw-Berlin-Riga-New York
+  1943-deportazione-ebrei-salonicco:
+    tagline: 48.533 ebrei deportati ad Auschwitz, 95-97% della comunita annientata
+    year: 1943
+    type: genocide
+    location: Thessaloniki, Greece
   1944-bretton-woods:
     tagline: L'architettura finanziaria che consacro' l'egemonia americana
     year: 1944
@@ -275,12 +295,22 @@ events:
     type: crisi
     location: Europa
     outcome: governi-tecnici
+  2014-euromaidan:
+    tagline: 'Rivoluzione ucraina 2013-14: caduta Yanukovych, svolta pro-UE, innesco guerra russo-ucraina'
+    year: 2014
+    type: revolution
+    location: UKR
   2014-isis-mosul:
     year: 2014
     month: 6
     type: military
     location: Mosul, Iraq
     outcome: ISIS caliphate proclaimed
+  2016-panama-papers:
+    tagline: 'Fuga di 11.5M documenti da Mossack Fonseca: 143 politici, 214.000 entita offshore, $2B rete Putin'
+    year: 2016
+    type: leak
+    location: PAN
   2017-hariri-detention:
     year: 2017
     month: November
@@ -288,6 +318,11 @@ events:
     location: Riyadh, Saudi Arabia
     outcome: Rilasciato dopo intervento Macron
     note: MBS fece annunciare dimissioni forzate
+  2017-paradise-papers:
+    tagline: 'Fuga di 13.4M documenti offshore da Appleby: 120+ politici, 120.000 entita, connessioni Russia-Trump'
+    year: 2017
+    type: leak
+    location: Global
   2019-event-201:
     tagline: La simulazione pandemica da coronavirus 2 mesi prima di COVID-19
     year: 2019
@@ -295,6 +330,11 @@ events:
     location: New York, USA
     note: High-level pandemic tabletop exercise simulating novel coronavirus outbreak (CAPS). 3.5-hour exercise with 15 players
       from government, business, public health. 130 invitation-only attendees.
+  2019-ibiza-affaere:
+    tagline: Video segreto a Ibiza rivela corruzione di Strache (FPO), causa caduta governo austriaco Kurz I
+    year: 2019
+    type: scandal
+    location: AUT
   2020-abraham-accords-bahrain:
     year: 2020
     month: 9
@@ -343,6 +383,26 @@ events:
     type: crisi
     location: globale
     outcome: great-reset
+  2020-wirecard:
+    tagline: 'Collasso Wirecard: la piu grande frode contabile europea, 1.9 miliardi spariti, COO spia del GRU'
+    year: 2020
+    type: scandal
+    location: DEU
+  2021-pandora-papers:
+    tagline: Leak di 11.9M documenti su offshore di leader mondiali, indagine ICIJ
+    year: 2021
+    type: leak
+    location: Global
+  2022-nazionalizzazioni-ucraina:
+    tagline: 'Esproprio di 5 aziende strategiche sotto legge marziale: de-oligarchizzazione in tempo di guerra'
+    year: 2022
+    type: nationalization
+    location: UKR
+  2022-predator-gate:
+    tagline: 'Scandalo sorveglianza Predator in Grecia: 87+ vittime tra politici, giornalisti, giudici'
+    year: 2022
+    type: scandal
+    location: Greece
   2023-karabakh-offensive:
     year: 2023
     type: war

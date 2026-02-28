@@ -14,7 +14,7 @@
 | **Corruption Index** | 157/180 (Transparency International) |
 | **Freedom House** | "Not Free" |
 
-**Due famiglie, un paese**: Gli [Aliyev](../docs/families/aliyev.md) (potere politico) e i Pashayev (potere economico) controllano Azerbaijan da oltre 55 anni. Il regime combina eredità KGB, petrolio statale, e corruzione sistematica.
+**Due famiglie, un paese**: Gli [Aliyev](../docs/family/aliyev.md) (potere politico) e i [Pashayev](../docs/family/pashayev.md) (potere economico) controllano Azerbaijan da oltre 55 anni. Il regime combina eredità KGB, petrolio statale, e corruzione sistematica.
 
 ---
 
@@ -70,32 +70,34 @@ Come Prima VP, è prima nella linea di successione. Se Ilham lasciasse, Mehriban
 
 ---
 
-## I Pashayev: La Famiglia dell'Economia
+## I [Pashayev](../docs/family/pashayev.md): La Famiglia dell'Economia
 
-La famiglia di Mehriban Aliyeva controlla gran parte dell'economia privata azera.
+La [famiglia Pashayev](../docs/family/pashayev.md), descritta in cable diplomatici USA come "the single most powerful family in Azerbaijan", controlla gran parte dell'economia privata azera. La dinastia nasce dallo scrittore Mir Jalal Pashayev (1908-1978) e si trasforma da elite intellettuale a oligarchia finanziaria dopo il crollo dell'URSS.
 
 ### Membri Chiave
 
 | Persona | Ruolo | Posizione |
 |---------|-------|-----------|
-| [Arif Pashayev](../docs/persons/arif-pashayev.md) | Padre di Mehriban | Capo Accademia Aviazione, proprietario nominale PASHA Holding |
-| [Hafiz Pashayev](../docs/persons/hafiz-pashayev.md) | Zio di Mehriban | Vice Ministro Esteri, ex Ambasciatore USA (13 anni), Direttore Accademia Diplomatica |
-| [Mir Jamal Pashayev](../docs/persons/mir-jamal-pashayev.md) | Cugino di Mehriban | Managing Director PASHA Holding |
+| [Arif Pashayev](../docs/persons/arif-pashayev.md) | Padre di Mehriban | Fisico, Accademico. Rettore Aviation Academy (1996-). Chairman Pasha Holding. Intestatario offshore Aliyev |
+| [Hafiz Pashayev](../docs/persons/hafiz-pashayev.md) | Zio di Mehriban | Primo Ambasciatore USA (1993-2006). Deputy Foreign Minister (2006-2019). Rettore fondatore [ADA University](../docs/university/ada-university.md) |
+| [Mir Jamal Pashayev](../docs/persons/mir-jamal-pashayev.md) | Cugino di Mehriban | Deputy Chairman Pasha Holding. Chairman Pasha Bank e Pasha Insurance. MBA American University DC |
 
 ### PASHA Holding
 
-[PASHA Holding](../docs/organizations/pasha-holding.md) è il conglomerato della First Family:
+[PASHA Holding](../docs/company/pasha-holding.md) è il conglomerato della First Family (est. 2006):
 
 **Proprietà effettiva** (da report finanziari): Leyla Aliyeva, Arzu Aliyeva, Arif Pashayev, Mir Jamal Pashayev
 
+**Dati 2024**: Revenue €1.7B | Assets €11B | 22,000+ dipendenti | Opera in 4 paesi
+
 **Settori:**
 - Banche (PASHA Bank, Kapital Bank, Xalq Bank, Bank Avrasiya)
-- Assicurazioni
-- Costruzioni
+- Assicurazioni (PASHA Insurance, PASHA Life)
+- Costruzioni (PASHA Construction)
+- Real Estate (PASHA Development)
 - Turismo
-- Investimenti
 
-**Dominio bancario**: Le quattro banche della famiglia hanno aumentato la quota di mercato da $5.1B (2015) a $11.8B (2022) - quasi il triplo.
+**Dominio bancario**: Le banche della famiglia hanno aumentato la quota di mercato dal 15% (2015) al 43% (2024) - quasi triplicata in 9 anni.
 
 ---
 
@@ -461,7 +463,7 @@ Come altre dinastie autoritarie, la successione rimane opaca. Heydar Jr è il ca
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Febbraio 2026*
 
 ---
 

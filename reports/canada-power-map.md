@@ -239,12 +239,13 @@ POWER CORPORATION (Montreal)          |
 | **Patrimonio** | Charles $2.5B (2023), Edgar Jr $300M, disperso post-Vivendi |
 | **Fondatore** | [Samuel Bronfman](../docs/persons/samuel-bronfman.md) (1889-1971) |
 | **Veicolo storico** | [Seagram](../docs/company/seagram.md) (1924-2000) |
-| **Business** | Distillati → Media (Universal/MCA) → Filantropia |
+| **Veicolo attuale** | [Claridge Group](../docs/private-equity/claridge-group.md) (1987-) |
+| **Business** | Distillati → Media (Universal/MCA) → Private Equity + Filantropia |
 | **Forum** | [Mega Group](../docs/forum/mega-group.md) (Edgar Sr + Charles co-fondatori 1991) |
 | **Influenza** | [World Jewish Congress](../docs/forum/world-jewish-congress.md) (Edgar Sr presidente 1981-2007) |
 | **Filantropia** | [Birthright Israel](../docs/forum/birthright-israel.md) (Charles co-fondatore 1999) |
 | **Declino** | Vendita Seagram a Vivendi 2000, perdite $3B+ |
-| **Controversia** | Clare Bronfman condannata 81 mesi per NXIVM (2020) |
+| **Controversia** | Clare Bronfman condannata 81 mesi per NXIVM (2020); Paradise Papers (2017) |
 | **Scheda** | [Completa](../docs/family/bronfman.md) |
 
 #### I Rami Familiari
@@ -253,10 +254,45 @@ POWER CORPORATION (Montreal)          |
 |------|--------|--------|------|
 | **Edgar Sr** | [Edgar Bronfman Sr.](../docs/persons/edgar-bronfman-sr.md) (1929-2013) | Deceduto | Seagram USA, WJC, Mega Group |
 | **Charles** | [Charles Bronfman](../docs/persons/charles-bronfman.md) (1931-) | Attivo | Claridge, Birthright, Montreal Expos |
+| **Stephen** | [Stephen Bronfman](../docs/persons/stephen-bronfman.md) (1964-) | Attivo | Claridge Chairman, chief fundraiser Liberal Party |
 | **Edgar Jr** | [Edgar Bronfman Jr.](../docs/persons/edgar-bronfman-jr.md) (1955-) | Attivo | Vendita Vivendi, poi Warner Music |
 | **Clare/Sara** | Figlie Edgar Sr (3° matrimonio) | Controverso | NXIVM, Clare in prigione 2020-24 |
 
-> **Pattern Bronfman**: Da bootlegger del Proibizionismo a impero globale liquori, poi media, infine influenza residua via filantropia ebraica. Il Mega Group (1991) con Wexner rappresenta il pivot verso il soft power.
+#### Claridge Group: Il Veicolo Post-Seagram
+
+[The Claridge Group](../docs/private-equity/claridge-group.md), fondato nel 1987 da [Charles Bronfman](../docs/persons/charles-bronfman.md), e' oggi il principale veicolo di investimento della famiglia. Gestito dal figlio [Stephen Bronfman](../docs/persons/stephen-bronfman.md) come Executive Chairman dal 1997.
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1987 (post-dismissione Seagram) |
+| **Chairman** | [Stephen Bronfman](../docs/persons/stephen-bronfman.md) (dal 1997) |
+| **Settori** | Private equity, real estate, food & beverage, tech israeliana |
+| **Claridge Israel** | Fondata 1986 da [Jonathan Kolber](../docs/persons/jonathan-kolber.md), $50M → $700M |
+| **Exit storiche** | Teva, ECI Telecom, Osem, Koor Industries (29%, 1997-2007) |
+| **Ritorno Israel** | 2015, come investitore tech |
+
+#### La Dinastia del Fundraising: Kolber → Bronfman
+
+Un pattern unico nel potere canadese: il ruolo di **chief fundraiser del Liberal Party** e' passato per via dinastica attraverso la rete Bronfman-Kolber.
+
+```
+[Leo Kolber](../docs/persons/leo-kolber.md)                [Stephen Bronfman](../docs/persons/stephen-bronfman.md)
+Senator, Cemp, Cadillac Fairview       Claridge Chairman
+Chief fundraiser Liberal Party         Chief Revenue Officer Liberal Party
+Amico Pierre Trudeau                   Senior Advisor Justin Trudeau
+         |                                      |
+         +──────── SUCCESSIONE ────────→         |
+         (padrino di Stephen)                    |
+```
+
+| Figura | Periodo | Ruolo Politico | Ruolo Business |
+|--------|---------|----------------|----------------|
+| [Leo Kolber](../docs/persons/leo-kolber.md) | 1957-2004 | Senatore (1983-2004), fundraiser sotto Pierre Trudeau | President Cemp, founder Cadillac Fairview |
+| [Stephen Bronfman](../docs/persons/stephen-bronfman.md) | 2013-oggi | Chief Revenue Officer Liberal Party, advisor Trudeau/Carney | Chairman Claridge Group |
+
+> **Pattern**: Il potere Bronfman in Canada non si esercita solo tramite investimenti ma attraverso il **controllo del funding politico**. Kolber fu padrino di Stephen e gli passo' il ruolo di chief fundraiser — un trasferimento dinastico di influenza politica durato 60 anni. I Paradise Papers (2017) rivelarono legami offshore tra i due tramite il Kolber Trust alle Cayman Islands.
+
+> **Pattern Bronfman**: Da bootlegger del Proibizionismo a impero globale liquori, poi media, infine influenza residua via private equity (Claridge) e filantropia ebraica. Il Mega Group (1991) con Wexner rappresenta il pivot verso il soft power.
 
 ---
 
@@ -636,6 +672,8 @@ Schwartz                   |
 | [samuel-bronfman](../docs/persons/samuel-bronfman.md) | Fondatore Seagram | - | Stub |
 | [edgar-bronfman-sr](../docs/persons/edgar-bronfman-sr.md) | Seagram CEO, WJC President | Mega Group, Bilderberg | Stub |
 | [charles-bronfman](../docs/persons/charles-bronfman.md) | Seagram, Montreal Expos | Mega Group (co-founder) | Stub |
+| [stephen-bronfman](../docs/persons/stephen-bronfman.md) | Claridge Chairman, Liberal fundraiser | Advisor PM Trudeau | **[Completa](../docs/persons/stephen-bronfman.md)** |
+| [leo-kolber](../docs/persons/leo-kolber.md) | Senator, Cemp, Cadillac Fairview | Liberal fundraiser, padrino Stephen | **[Completa](../docs/persons/leo-kolber.md)** |
 | [edgar-bronfman-jr](../docs/persons/edgar-bronfman-jr.md) | Seagram CEO, Warner Music | - | Stub |
 | [phyllis-lambert](../docs/persons/phyllis-lambert.md) | Architetto, Seagram Building | - | Stub |
 | [clare-bronfman](../docs/persons/clare-bronfman.md) | Erede, NXIVM | - | Stub |
@@ -673,6 +711,9 @@ Schwartz                   |
 | [aimco](../docs/swf/aimco.md) | SWF | Da completare |
 | [bank-of-canada](../docs/central-bank/bank-of-canada.md) | CentralBank | Da completare |
 | [governo-canada](../docs/government/governo-canada.md) | Government | **[Completa](../docs/government/governo-canada.md)** |
+| [claridge-group](../docs/private-equity/claridge-group.md) | PrivateEquity | **[Completa](../docs/private-equity/claridge-group.md)** |
+| [cemp-investments](../docs/company/cemp-investments.md) | Company | Stub |
+| [cadillac-fairview](../docs/company/cadillac-fairview.md) | Company | Stub |
 | [seagram](../docs/company/seagram.md) | Company | Da completare |
 | [great-west-lifeco](../docs/company/great-west-lifeco.md) | Company | Da completare |
 | [igm-financial](../docs/asset-manager/igm-financial.md) | AssetManager | Da completare |
@@ -761,6 +802,6 @@ Schwartz                   |
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026 (gabinetto Carney aggiornato)*
+*Ultimo aggiornamento: Febbraio 2026 (sezione Bronfman-Claridge-Kolber espansa)*
 
-*Schede completate: Mark Carney, Justin Trudeau, John Manley, Paul Desmarais Jr., David Thomson, Marie-Josée Kravis, Anthony Griffin, Business Council of Canada, Onex Corporation, Power Corporation, Thomson Family, Desmarais Family, Bronfman Family, Governo Canada*
+*Schede completate: Mark Carney, Justin Trudeau, John Manley, Paul Desmarais Jr., David Thomson, Marie-Josée Kravis, Anthony Griffin, Stephen Bronfman, Leo Kolber, Claridge Group, Business Council of Canada, Onex Corporation, Power Corporation, Thomson Family, Desmarais Family, Bronfman Family, Governo Canada*

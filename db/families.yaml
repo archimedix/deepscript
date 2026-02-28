@@ -1,4 +1,34 @@
 families:
+  aboab:
+    tagline: 'Da rabbini di Toledo a primo rabbino delle Americhe: la dinastia che custodi il sapere sefardita attraverso
+      cinque secoli di diaspora'
+    origin: ESP-PRT
+    founder: isaac-aboab-i
+    sector: rabbinate-scholarship
+    status: historical
+    members:
+    - person: isaac-aboab-i
+      generation: 1
+      role: founder
+    - person: isaac-aboab-ii
+      generation: 2
+      role: heir
+    - person: immanuel-aboab
+      generation: 3
+      role: member
+    - person: isaac-aboab-da-fonseca
+      generation: 4
+      role: member
+    - person: samuel-aboab
+      generation: 4
+      role: member
+  abravanel:
+    tagline: Dinastia sefardita di finanzieri e filosofi (XIII-XVII sec.). Tesorieri delle corone iberiche. Don Isaac offri
+      30.000 ducati per impedire l espulsione del 1492. Dispersi tra Napoli, Venezia, Ferrara, Olanda.
+    origin: ESP-PRT
+    sector: finance-philosophy
+    generations: 10
+    status: historical
   adani-family:
     tagline: Da trader di diamanti a impero infrastrutturale da $100B+ in una generazione
     origin: IND
@@ -99,6 +129,18 @@ families:
       role: heir
     - person: clara-agnelli
       role: heir
+    - person: cristiano-ratazzi
+      generation: 4
+      role: heir
+    - person: maria-sole-agnelli
+      generation: 3
+      role: heir
+    - person: eduardo-teodorani-fabbri
+      generation: 4
+      role: heir
+    - person: pio-teodorani-fabbri
+      generation: 3
+      role: spouse
   agnelli-elkann:
     tagline: La dinastia che governo' l'Italia senza mai candidarsi — da FIAT a Stellantis
     origin: Italia
@@ -373,6 +415,25 @@ families:
     - person: emilio-azcarraga-vidaurreta
       generation: 1
       role: founder
+  azrieli:
+    tagline: 'Da sopravvissuto alla Shoah a piu grande impero immobiliare israeliano: Azrieli Centre, $12B market cap'
+    origin: POL-ISR
+    founder: david-azrieli
+    sector: real-estate
+    status: active
+    members:
+    - person: david-azrieli
+      generation: 1
+      role: founder
+    - person: danna-azrieli
+      generation: 2
+      role: heir
+    - person: naomi-azrieli
+      generation: 2
+      role: heir
+    - person: sharon-azrieli
+      generation: 2
+      role: heir
   bailleres:
     origin: Guanajuato
     founder: Raul Bailleres
@@ -429,6 +490,17 @@ families:
       role: heir
     - person: emanuela-barilla
       generation: 4
+      role: heir
+  benveniste:
+    tagline: 'Dinastia sefardita millenaria (XI-XVI sec.). Da Narbonne alle corti di Aragona e Castiglia: medici reali, tesorieri,
+      rabbini di corte. Antenati dei Mendes-Nasi. Dopo il 1492 dispersi tra Salonicco, Impero Ottomano e Portogallo.'
+    origin: FRA-ESP
+    sector: court-finance-medicine
+    generations: 15
+    status: historical
+    members:
+    - person: gracia-mendes-nasi
+      generation: 14
       role: heir
   berlusconi:
     origin: Italia
@@ -620,6 +692,9 @@ families:
     - person: sara-bronfman
       generation: 3
       role: heir
+    - person: stephen-bronfman
+      generation: 4
+      role: heir
   buitoni:
     origin: ITA
     founder: giulia-buitoni
@@ -657,10 +732,71 @@ families:
       role: governor-florida
     - person: george-p-bush
       generation: 5
+  cahen-danvers:
+    tagline: Dinastia bancaria ashkenazita da Bonn ad Anversa a Parigi. Co-fondatori di Paribas. Imparentati con Rothschild,
+      Camondo, Bischoffsheim, Montefiore.
+    origin: DEU-FRA
+    founder: meyer-joseph-cahen-danvers
+    sector: finance
+    status: historical
+    members:
+    - person: meyer-joseph-cahen-danvers
+      generation: 1
+      role: founder
+    - person: louis-cahen-danvers
+      generation: 2
+      role: heir
+    - person: eduard-cahen-danvers
+      generation: 2
+      role: heir
+    - person: albert-cahen-danvers
+      generation: 2
+      role: heir
+    - person: irene-cahen-danvers
+      generation: 3
+      role: heir
+    - person: elisabeth-cahen-danvers
+      generation: 3
+      role: heir
+    - person: charles-cahen-danvers
+      generation: 3
+      role: heir
+    - person: yvonne-cahen-danvers
+      generation: 4
+      role: heir
   caltagirone:
     origin: ITA
     sector: construction, media, finance
     status: active
+  camondo:
+    tagline: Dinastia sefardita da Venezia a Costantinopoli a Parigi. Banchieri del sultano, i Rothschild dell Est. Estinta
+      ad Auschwitz nel 1945.
+    origin: TUR-FRA
+    founder: abraham-salomon-camondo
+    sector: finance-philanthropy
+    status: extinct
+    members:
+    - person: abraham-salomon-camondo
+      generation: 1
+      role: founder
+    - person: abraham-behor-camondo
+      generation: 3
+      role: heir
+    - person: nissim-camondo-elder
+      generation: 3
+      role: heir
+    - person: isaac-camondo
+      generation: 4
+      role: heir
+    - person: moise-camondo
+      generation: 4
+      role: heir
+    - person: nissim-camondo-younger
+      generation: 5
+      role: heir
+    - person: beatrice-camondo
+      generation: 5
+      role: heir
   caproni:
     tagline: 'Pionieri dell''aviazione italiana: dall''impero aeronautico al museo della memoria'
     origin: ITA
@@ -702,6 +838,22 @@ families:
       generation: 8
     - person: jacaranda-caracciolo
       generation: 9
+  carvajal:
+    tagline: Da conversos iberici a governatore del Messico e fondatore della comunita ebraica di Londra
+    origin: ESP-PRT
+    founder: antonio-fernandez-carvajal
+    sector: trade-colonization
+    status: historical
+    members:
+    - person: luis-de-carvajal-governor
+      generation: 1
+      role: founder
+    - person: luis-de-carvajal-el-mozo
+      generation: 2
+      role: member
+    - person: antonio-fernandez-carvajal
+      generation: 1
+      role: founder
   chearavanont:
     tagline: 'Da negozio di semi a Bangkok nel 1921 al piu'' grande conglomerato privato del Sud-Est asiatico: la dinastia
       sino-thailandese che fu il primo investitore straniero nella Cina di Deng Xiaoping.'
@@ -768,6 +920,30 @@ families:
       role: heir
     - person: marc-mezvinsky
       generation: 2
+      role: heir
+  d-israeli:
+    tagline: Da ebrei sefarditi di Cento/Ferrara al primo (e unico) Premier britannico di origine ebraica
+    origin: ITA-GBR
+    founder: benjamin-d-israeli-merchant
+    sector: politics-literature
+    status: historical
+    members:
+    - person: benjamin-disraeli
+      generation: 3
+      role: heir
+    - person: benjamin-d-israeli-merchant
+      generation: 1
+      role: founder
+    - person: isaac-d-israeli
+      generation: 2
+      role: member
+  danieli-family:
+    tagline: Famiglia fondatrice di Danieli Officine Meccaniche, dal 1914
+    origin: ITA
+    sector: industry
+    status: active
+    members:
+    - person: giacomo-mareschi-danieli
       role: heir
   dassault:
     tagline: 'Da Buchenwald a impero aeronautico: difesa, software e media'
@@ -1099,6 +1275,11 @@ families:
     - person: christopher-getty
       generation: 3
       role: heir
+  gonzalez-revilla:
+    origin: Panama
+    members:
+    - person: emanuel-gonzalez-revilla
+      role: heir
   greece-royal:
     tagline: Dinastia danese trapiantata in Grecia nel 1863, nodo di connessione tra tutte le case reali europee, esiliata
       dal 1967 e abolita nel 1974. Il ramo greco ha prodotto il Principe Filippo di Edimburgo e mantiene legami con Windsor,
@@ -1419,6 +1600,30 @@ families:
     - person: joseph-kabila
       generation: 2
       role: son
+  kadoorie:
+    tagline: 'Dinastia baghdadi a Hong Kong: monopolio elettrico (CLP) e lusso (Peninsula). Da apprendisti dei Sassoon a rivali
+      e magnati'
+    origin: IRQ
+    founder: elly-kadoorie
+    sector: energy, hospitality, real estate
+    generations: 4
+    status: active
+    members:
+    - person: michael-kadoorie
+      generation: 3
+      role: patriarch
+    - person: philip-kadoorie
+      generation: 4
+      role: heir
+    - person: lawrence-kadoorie
+      generation: 2
+      role: patriarch
+    - person: elly-kadoorie
+      generation: 1
+      role: founder
+    - person: horace-kadoorie
+      generation: 2
+      role: philanthropist
   kamprad:
     origin: Svezia
     founder: Ingvar Kamprad
@@ -1695,6 +1900,11 @@ families:
     - person: li-hongyi
       generation: 3
       role: member
+  lewis-panama:
+    origin: Panama
+    members:
+    - person: samuel-lewis-galindo
+    - person: samuel-lewis-navarro
   lilly:
     origin: USA
     founder: eli-lilly-sr
@@ -1707,6 +1917,19 @@ families:
     sector: mining, banking, shipping
     status: active
     note: Richest family in South America. Croatian origins.
+  macri:
+    tagline: Dinastia italo-argentina, costruzioni-auto-politica, origini calabresi
+    origin: ITA-ARG
+    founder: franco-macri
+    sector: conglomerate
+    status: active
+    members:
+    - person: mauricio-macri
+      generation: 2
+      role: heir
+    - person: franco-macri
+      generation: 1
+      role: founder
   mansour-family:
     origin: Egypt
     members:
@@ -1752,6 +1975,22 @@ families:
       role: heir
     - person: richard-mellon-scaife
       generation: 4
+      role: heir
+  mendes-nasi:
+    tagline: 'Dinastia bancaria sefardita del XVI secolo. Casa Mendes-Benveniste: una delle piu grandi banche d Europa insieme
+      a Fugger e Welser. Controllavano il commercio del pepe nero, finanziavano re e papi, e crearono la rete clandestina
+      di salvataggio dei cripto-ebrei.'
+    origin: PRT
+    founder: gracia-mendes-nasi
+    sector: banking-trade
+    generations: 3
+    status: historical
+    members:
+    - person: gracia-mendes-nasi
+      generation: 1
+      role: matriarch
+    - person: joseph-nasi
+      generation: 2
       role: heir
   michelin-family:
     origin: FRA
@@ -1826,6 +2065,14 @@ families:
     - person: thomas-coesfeld
       generation: 7
       role: heir
+  montefiore:
+    tagline: 'Famiglia sefardita italiana (Livorno) trapiantata a Londra. Sir Moses Montefiore: baronetto, cognato di Nathan
+      Rothschild, 7 viaggi in Palestina, costruttore del primo insediamento ebraico fuori le mura di Gerusalemme (1860). Filantropia
+      come strumento di potere diplomatico.'
+    origin: ITA-GBR
+    sector: finance-philanthropy
+    generations: 8
+    status: active
   moreira-salles:
     origin: BRA
     founder: joao-moreira-salles-sr
@@ -1888,6 +2135,10 @@ families:
     - person: tshepo-motsepe
       generation: 1
       role: member
+  motta:
+    origin: Panama
+    members:
+    - person: stanley-motta
   murdoch:
     tagline: La dinastia mediatica che plasma l'opinione pubblica conservatrice nel mondo anglofono
     origin: Australia
@@ -2129,6 +2380,31 @@ families:
       generation: 4
     - person: farah-pahlavi-jr
       generation: 4
+  palache:
+    tagline: 'Da Cordoba a Fez ad Amsterdam: diplomatici-pirati-rabbini tra Marocco e Repubblica Olandese'
+    origin: ESP-MAR-NLD
+    founder: samuel-palache
+    sector: diplomacy-rabbinate
+    status: historical
+    members:
+    - person: samuel-palache
+      generation: 1
+      role: founder
+    - person: joseph-palache
+      generation: 1
+      role: member
+    - person: moses-palache
+      generation: 2
+      role: member
+    - person: david-palache
+      generation: 2
+      role: member
+    - person: haim-palachi
+      generation: 4
+      role: member
+    - person: juda-lion-palache
+      generation: 5
+      role: member
   pangestu:
     tagline: Da raccoglitori di gomma nel Kalimantan a dinastia energetica piu' ricca del Sud-Est asiatico. Il potere costruito
       su legname e cronyism Suharto, consolidato in petrolchimica ed energia rinnovabile.
@@ -2166,7 +2442,10 @@ families:
       generation: 3
       role: heir
   pashayev:
+    tagline: 'Dinastia intellettuale-finanziaria azerbaigiana. Controlla Pasha Holding (€11B assets). Cable USA: "the single
+      most powerful family in Azerbaijan".'
     origin: Baku, Azerbaijan
+    founder: mir-jalal-pashayev
     sector: finance
     status: active
     note: Described in US diplomatic cables as "the single most powerful family in Azerbaijan". Controls Pasha Holding, banking,
@@ -2178,6 +2457,34 @@ families:
     - person: arif-pashayev
       generation: 1
       role: patriarch
+    - person: hafiz-pashayev
+      generation: 2
+      role: heir
+    - person: mir-jamal-pashayev
+      generation: 3
+      role: heir
+    - person: mir-jalal-pashayev
+      generation: 1
+      role: founder
+  pereira:
+    tagline: 'Da marrani a Amsterdam a banchieri rivali dei Rothschild: Credit Mobilier, ferrovie, transatlantici'
+    origin: PRT-NLD-FRA
+    founder: abraham-pereyra
+    sector: finance
+    status: historical
+    members:
+    - person: emile-pereire
+      generation: 3
+      role: heir
+    - person: isaac-pereire
+      generation: 3
+      role: heir
+    - person: abraham-pereyra
+      generation: 1
+      role: founder
+    - person: jacob-rodrigues-pereira
+      generation: 2
+      role: heir
   persson:
     origin: Svezia
     founder: Erling Persson
@@ -2279,6 +2586,32 @@ families:
       role: heir
     - person: paolo-pininfarina
       generation: 3
+      role: heir
+  pinto-suasso:
+    tagline: 'Banchieri sefarditi di Amsterdam: finanziarono la Gloriosa Rivoluzione di William III nel 1688 e dominarono
+      la VOC'
+    origin: PRT-NLD
+    founder: isaack-de-pinto
+    sector: finance
+    status: historical
+    members:
+    - person: isaack-de-pinto
+      generation: 1
+      role: founder
+    - person: david-de-pinto
+      generation: 2
+      role: heir
+    - person: isaac-de-pinto
+      generation: 4
+      role: heir
+    - person: antonio-lopes-suasso
+      generation: 1
+      role: patriarch
+    - person: francisco-lopes-suasso
+      generation: 2
+      role: heir
+    - person: sophia-lopes-suasso
+      generation: 5
       role: heir
   podhoretz:
     tagline: 'Dinastia intellettuale neoconservatrice: tre generazioni di editor, scrittori e consiglieri politici — da Commentary
@@ -2577,6 +2910,9 @@ families:
       role: member
     - person: emma-rothschild
       generation: 6
+    - person: anthony-gustav-rothschild
+      generation: 6
+      role: heir
   rupert:
     tagline: 'Dal tabacco al lusso: l''impero Rembrandt-Richemont'
     origin: South Africa
@@ -2599,6 +2935,37 @@ families:
     status: active
     members:
     - person: guler-sabanci
+      generation: 3
+      role: heir
+  safra:
+    tagline: 'Dinastia bancaria sefardita aleppina: da cambiavalute ottomani a CHF 224B AUM globali'
+    origin: SYR
+    founder: jacob-safra
+    sector: banking
+    status: active
+    members:
+    - person: jacob-safra-sr
+      generation: 1
+      role: founder
+    - person: edmond-safra
+      generation: 2
+      role: leader
+    - person: joseph-safra
+      generation: 2
+      role: leader
+    - person: moise-safra
+      generation: 2
+      role: heir
+    - person: elie-safra
+      generation: 2
+      role: heir
+    - person: vicky-safra
+      generation: 2
+      role: heir
+    - person: jacob-j-safra
+      generation: 3
+      role: heir
+    - person: david-j-safra
       generation: 3
       role: heir
   sahenk:
@@ -2644,6 +3011,14 @@ families:
     members:
     - person: ricardo-salinas-pliego
       generation: 4
+  sassoon:
+    tagline: I Rothschild dell Est. Da Baghdad a Bombay, Shanghai e Londra. Monopolio del 70% del commercio di oppio India-Cina.
+      Imparentati con i Rothschild. Baronetti e parlamentari britannici.
+    origin: IRQ
+    founder: david-sassoon
+    sector: trade-opium-banking
+    generations: 7
+    status: active
   sawiris-family:
     origin: Egypt
     members:
@@ -2694,6 +3069,25 @@ families:
     - person: dan-gertler
       generation: 3
       role: grandson
+  schocken:
+    tagline: 'Da grandi magazzini tedeschi a Haaretz: dinastia che pubblico Kafka e fondo il giornale piu influente d Israele'
+    origin: DEU-ISR
+    founder: salman-schocken
+    sector: media
+    status: active
+    members:
+    - person: salman-schocken
+      generation: 1
+      role: founder
+    - person: gershom-schocken
+      generation: 2
+      role: heir
+    - person: amos-schocken
+      generation: 3
+      role: heir
+    - person: hillel-schocken
+      generation: 3
+      role: heir
   servitje:
     origin: Catalonia/Mexico
     founder: Lorenzo Servitje
@@ -2722,6 +3116,15 @@ families:
     - person: jiang-mianheng
       generation: 2
       role: son of Jiang Zemin
+  sharif:
+    tagline: Dinastia politico-industriale pakistana, tre volte PM
+    origin: PAK
+    sector: industry, politics
+    status: active
+    members:
+    - person: nawaz-sharif
+      generation: 2
+      role: patriarch
   shinawatra:
     tagline: 'Dinastia politico-imprenditoriale thai di origine Hakka: quattro primi ministri, un impero telecom, tre colpi
       di stato.'

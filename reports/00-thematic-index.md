@@ -18,12 +18,16 @@ Report che analizzano agenzie di intelligence, operazioni coperte, e sicurezza n
 | [Epstein Network](epstein-network-2026.md) | 1976-2026 | Rete transnazionale Epstein: finanza, intelligence, accademia, diplomazia |
 | [Intelligence USA-Israel](intelligence-usa-israel.md) | 2010-2024 | Unit 8200, NSO, spyware pipeline |
 | [Whistleblowers](whistleblowers-power-exposed.md) | 1971-2024 | Ellsberg, Snowden, Manning |
+| [Infrastruttura della Trasparenza](transparency-infrastructure.md) | 1983-2025 | ICIJ, OCCRP, TI, Bellingcat, NED: chi finanzia chi espone chi |
 
 **Eventi correlati:**
 - [Fondazione OSS (1942)](../docs/events/1942-fondazione-oss.md)
 - [Fondazione CIA (1947)](../docs/events/1947-fondazione-cia.md)
 - [Church Committee (1975)](../docs/events/1975-church-committee.md)
 - [Rivelazione Gladio (1990)](../docs/events/1990-rivelazione-gladio.md)
+- [Panama Papers (2016)](../docs/events/2016-panama-papers.md)
+- [Paradise Papers (2017)](../docs/events/2017-paradise-papers.md)
+- [Pandora Papers (2021)](../docs/events/2021-pandora-papers.md)
 
 ---
 
@@ -33,6 +37,7 @@ Report che analizzano istituzioni finanziarie, flussi di capitale, e potere econ
 
 | Report | Periodo | Focus |
 |--------|---------|-------|
+| [Dinastie Sefardite](sefardite-family-power-map.md) | XI sec.-oggi | Benveniste, Abravanel, Mendes-Nasi, Montefiore, Sassoon, Kadoorie |
 | [SWF Global Power Map](swf-global-power-map.md) | 2000-2025 | Fondi sovrani mondiali |
 | [Singapore Power Map](singapore-power-map.md) | 1959-2025 | GIC, Temasek, stato-azienda |
 | [Indonesia Power Map](indonesia-power-map.md) | 1966-2025 | Oligarchie sino-indonesiane post-Suharto |
@@ -211,6 +216,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [USA Power Map](usa-power-map.md) | 1945-2025 | Wall Street, MIC, think tanks, dinastie |
 | [Silicon Valley Power Map](silicon-valley-power-map.md) | 1939-2026 | Stanford, VC, PayPal Mafia, AI labs, forum locali |
 | [Canada Power Map](canada-power-map.md) | 1867-2025 | Bay Street, risorse, Five Eyes |
+| [Panama Power Map](panama-power-map.md) | 1903-2026 | Canale, offshore hub, oligarchia familiare, USA-Cina |
 | [Mexico Power Map](mexico-power-map.md) | 1929-2025 | PRI, oligarchi, NAFTA |
 | [Brazil Power Map](brazil-power-map.md) | 1964-2025 | Militari, Lula, agribusiness |
 
@@ -236,11 +242,14 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Romania Power Map](romania-power-map.md) | 1989-2025 | Post-Ceausescu, EU |
 | [Bulgaria Power Map](bulgaria-power-map.md) | 1946-2026 | State capture, oligarchi, sanzioni USA |
 | [Greece Power Map](greece-power-map.md) | 2001-2018 | Crisi debito, Troika |
+| [Salonicco Power Map](salonicco-power-map.md) | 1492-2025 | Sefarditi, Dönmeh, Giovani Turchi, Atatürk, Bourla |
+| [Cipro Power Map](cipro-power-map.md) | 1960-2026 | Divisione, offshore hub, bail-in, energia, SIGINT |
 | [Norway Power Map](norway-power-map.md) | 1905-2025 | GPFG $1.9T, Stoltenberg |
 | [Sweden Power Map](sweden-power-map.md) | 1945-2025 | Wallenberg, NATO 2024 |
 | [Finland Power Map](finland-power-map.md) | 1917-2025 | Nokia, NATO 2023 |
 | [Denmark Power Map](denmark-power-map.md) | 1849-2025 | Maersk, Novo Nordisk |
 | [Russia Power Map](russia-power-map.md) | 1991-2025 | Oligarchi, siloviki, Putin |
+| [Ucraina Power Map](ucraina-power-map.md) | 1991-2026 | Oligarchi, Euromaidan, Zelensky, ricostruzione BlackRock |
 
 ### Asia-Pacifico
 
@@ -298,6 +307,7 @@ Analisi di ere/periodi specifici:
 
 ### Report Tematici
 Analisi di pattern/fenomeni attraverso il tempo:
+- [Dinastie Sefardite](sefardite-family-power-map.md)
 - [Whistleblowers](whistleblowers-power-exposed.md)
 - [Revolving Door](revolving-door-ex-leaders.md)
 - [Dynasties Private Equity](dynasties-private-equity.md)
@@ -315,6 +325,7 @@ Mappe di potere regionali:
 - [Malaysia Power Map](malaysia-power-map.md)
 - [Gulf-USA Pipeline AI](gulf-usa-pipeline-ai.md)
 - [Greece Power Map](greece-power-map.md)
+- [Cipro Power Map](cipro-power-map.md)
 - [Germany Power Map](germany-power-map.md)
 - [France Power Map](france-power-map.md)
 - [Netherlands Power Map](netherlands-power-map.md)
@@ -356,7 +367,7 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 87 |
+| **Report totali** | 89 |
 | **Power Map geografici** | 45+ |
 | **Report tematici/settoriali** | 31+ |
 | **Periodo coperto** | 1626-2025 |

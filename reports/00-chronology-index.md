@@ -65,11 +65,14 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 | Anno | Evento | Link |
 |------|--------|------|
+| 1895 | Carasso rifonda loggia Macedonia Risorta, Salonicco | [Salonicco Power Map](salonicco-power-map.md) |
 | 1897 | Primo Congresso Sionista, Basel | [WZO](../docs/agency/world-zionist-organization.md) |
 | 1898 | Fondazione RSDLP, Minsk | [RSDLP](../docs/foundation/rsdlp.md) |
 | 1903 | Scissione Bolscevichi/Menscevichi, II Congresso RSDLP | [Origini Comunismo](comunismo-origini.md) |
 | 1914 | SPD vota crediti di guerra, II Internazionale collassa | [Origini Comunismo](comunismo-origini.md) |
 | 1915 | Conferenza di Zimmerwald, socialisti anti-guerra | [Origini Comunismo](comunismo-origini.md) |
+| 1908 | Rivoluzione Giovani Turchi lanciata da Salonicco | [Salonicco Power Map](salonicco-power-map.md) |
+| 1917 | Grande Incendio di Salonicco, 52.000 ebrei senza casa | [Salonicco Power Map](salonicco-power-map.md) |
 | 1917 | Dichiarazione Balfour | [Link](../docs/events/1917-balfour-declaration.md) |
 | 1917 | Rivoluzione d'Ottobre | [Evento](../docs/events/1917-russian-revolution.md) |
 | 1919 | Fondazione Comintern (III Internazionale), Mosca | [Comintern](../docs/forum/comintern.md) |
@@ -132,6 +135,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | Anno | Evento | Link |
 |------|--------|------|
 | 1942 | Fondazione OSS | [Link](../docs/events/1942-fondazione-oss.md) |
+| 1943 | Deportazione 48.533 ebrei di Salonicco ad Auschwitz | [Salonicco Power Map](salonicco-power-map.md) |
 | 1943 | Invasione Sicilia | [Link](../docs/events/1943-invasione-sicilia.md) |
 | 1944 | Bretton Woods | [Link](../docs/events/1944-bretton-woods.md) |
 | 1945 | Operation Sunrise | [Link](../docs/events/1945-operazione-sunrise.md) |
@@ -185,6 +189,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | Anno | Evento | Link |
 |------|--------|------|
 | 1970 | Golpe Borghese | [Link](../docs/events/1970-golpe-borghese.md) |
+| 1974 | Invasione turca di Cipro; divisione dell'isola | [Cipro Power Map](cipro-power-map.md) |
 | 1971 | Fine Bretton Woods | [Link](../docs/events/1971-fine-bretton-woods.md) |
 | 1973 | Crisi petrolifera | [Link](../docs/events/1973-crisi-petrolifera.md) |
 | 1973 | Fondazione Trilaterale | [Link](../docs/events/1973-fondazione-trilaterale.md) |
@@ -272,6 +277,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 | Anno | Evento | Link |
 |------|--------|------|
+| 2004 | Cipro entra nell'UE; referendum Piano Annan respinto (75.8% No) | [Cipro Power Map](cipro-power-map.md) |
 | 2010 | Primo bailout Grecia (€110B) | [Greece Power Map](greece-power-map.md) |
 | 2010 | Zeitgeist Z-Day: 330 eventi in 70+ paesi | [Zeitgeist](../docs/forum/zeitgeist-movement.md) |
 | 2011 | Rottura Venus Project / Zeitgeist Movement | [Technocracy Genealogy](technocracy-genealogy.md) |
@@ -295,6 +301,11 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 2019 mar | **Italia firma MoU BRI** — primo e unico paese G7 | [Belt and Road Initiative](belt-and-road-initiative.md) |
 | 2019 lug | Arresto federale Jeffrey Epstein, NYC | [Epstein Network](epstein-network-2026.md) |
 | 2019 ago | Morte Epstein in cella (MCC Manhattan) | [Epstein Network](epstein-network-2026.md) |
+| 2013 mar | Crisi bancaria Cipro: bail-in Laiki Bank e Bank of Cyprus, bailout €10B | [Cipro Power Map](cipro-power-map.md) |
+| 2013 nov | Inizio Euromaidan — Yanukovych rifiuta accordo UE | [Ucraina Power Map](ucraina-power-map.md) |
+| 2014 feb | Scontri mortali a Kyiv, Parlamento rimuove Yanukovych | [Ucraina Power Map](ucraina-power-map.md) |
+| 2014 mar | Russia annette la Crimea | [Ucraina Power Map](ucraina-power-map.md) |
+| 2016 apr | Panama Papers: 11.5M documenti da Mossack Fonseca espongono 143 politici | [Panama Papers](../docs/events/2016-panama-papers.md), [Panama Power Map](panama-power-map.md) |
 | 2016 jul | Thiel parla al RNC, dona $1.25M a Trump | [New American Right](new-american-right.md) |
 | 2016 sep | Michael Anton: "The Flight 93 Election" (Claremont Review) | [New American Right](new-american-right.md) |
 | 2017 | Fondazione Anduril Industries (Luckey, Stephens, Schimpf) | [New American Right](new-american-right.md) |
@@ -325,6 +336,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 
 | Anno | Evento | Link |
 |------|--------|------|
+| 2019 | Zelensky eletto presidente | [Ucraina Power Map](ucraina-power-map.md) |
 | 2020 gen | **UK lascia la UE** — fine di 47 anni di membership | [Brexit Power Map](brexit-power-map.md) |
 | 2020 dic | Trade and Cooperation Agreement (TCA) firmato | [Brexit Power Map](brexit-power-map.md) |
 | 2020 | Pandemia/Great Reset | [Link](../docs/events/2020-pandemia-great-reset.md) |
@@ -341,7 +353,7 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 2024 set | Mullenweg blocca WP Engine da WordPress.org | [Open Source Power](open-source-power.md) |
 | 2024 jul | Trump sceglie JD Vance come VP; Musk endorsa Trump ($277M) | [New American Right](new-american-right.md) |
 | 2024 | Lancio DOGE (Musk) - paralleli con Technocracy Inc. | [Technocracy Genealogy](technocracy-genealogy.md) |
-| 2025 feb | Panama esce dalla BRI (pressione USA/Rubio) | [Belt and Road Initiative](belt-and-road-initiative.md) |
+| 2025 feb | Panama esce dalla BRI (pressione USA/Rubio) | [Belt and Road Initiative](belt-and-road-initiative.md), [Panama Power Map](panama-power-map.md) |
 | 2025 | BRI record: $213.5B in nuovi deal (+75%) | [Belt and Road Initiative](belt-and-road-initiative.md) |
 | 2025 mag | Primo UK-EU Summit sotto Starmer — reset relazioni | [Brexit Power Map](brexit-power-map.md) |
 | 2025 nov | Epstein Files Transparency Act firmato da Trump (PL 119-38) | [Epstein Network](epstein-network-2026.md) |
@@ -349,6 +361,10 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 2026 gen | DOJ rilascia 3.5M pagine Epstein files | [Epstein Network](epstein-network-2026.md) |
 | 2026 feb | Crisi norvegese: Rod-Larsen, Juul, Jagland incriminati per corruzione | [Epstein Network](epstein-network-2026.md) |
 | 2026 feb | WEF apre indagine su CEO Brende per legami Epstein | [Epstein Network](epstein-network-2026.md) |
+| 2022 feb | **Invasione russa dell'Ucraina** su larga scala | [Ucraina Power Map](ucraina-power-map.md) |
+| 2022 nov | **Nazionalizzazioni ucraine**: esproprio di 5 aziende strategiche (Ukrnafta, Ukrtatnafta, Motor Sich, AvtoKrAZ, ZTR) | [Evento](../docs/events/2022-nazionalizzazioni-ucraina.md), [Ucraina Power Map](ucraina-power-map.md) |
+| 2024 gen | BlackRock + JPMorgan lanciano banca ricostruzione Ucraina ($500M) | [Ucraina Power Map](ucraina-power-map.md) |
+| 2025 nov | Yermak si dimette da Capo Ufficio Presidenziale (Mindich gate) | [Ucraina Power Map](ucraina-power-map.md) |
 | 2026 feb | Peter Mandelson dimesso da Labour/Lords, indagine Met Police | [Epstein Network](epstein-network-2026.md) |
 
 ### Report

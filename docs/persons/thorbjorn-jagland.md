@@ -130,6 +130,8 @@ I file Epstein suggeriscono che Jagland possa essere stato un "influence asset" 
 | **Epstein** | 2013-2020 | Contatti, negazione iniziale, ammissione successiva |
 | **Russia ties** | 2018-oggi | Accuse di essere "influence asset" russo |
 | **Indagine** | 2025 | Sotto indagine per crimini finanziari |
+| **Incriminazione** | feb 2026 | Incriminato da Økokrim per corruzione aggravata (Epstein files) |
+| **Ricovero** | feb 2026 | Ricoverato in ospedale psichiatrico dopo tentativo di suicidio |
 
 ---
 
@@ -169,6 +171,8 @@ I file Epstein suggeriscono che Jagland possa essere stato un "influence asset" 
 | **2019** | Fine mandato CoE |
 | **2020** | Ammette contatti Epstein |
 | **2025** | Sotto indagine crimini finanziari |
+| **feb 2026** | Incriminato da Økokrim per corruzione aggravata |
+| **feb 2026** | Ricoverato in ospedale psichiatrico |
 
 ---
 
@@ -197,4 +201,10 @@ I file Epstein suggeriscono che Jagland possa essere stato un "influence asset" 
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2025*
+### Incriminazione 2026
+- [TRT World - Jagland hospitalised after reported suicide attempt](https://www.trtworld.com/article/a71a6f74443a)
+- [AA - Former Norwegian premier hospitalized](https://www.aa.com.tr/en/europe/former-norwegian-premier-hospitalized-after-suicide-attempt-amid-epstein-corruption-charges-report/3839028)
+
+---
+
+*Ultimo aggiornamento: Febbraio 2026*

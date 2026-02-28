@@ -2,7 +2,7 @@
   │        ID        │     Tipo      │                        Note                         │
   ├──────────────────┼───────────────┼─────────────────────────────────────────────────────┤
   ├──────────────────┼───────────────┼─────────────────────────────────────────────────────┤
-  │ pronomos-capital │ PrivateEquity │ Charter cities (Próspera)                           │
+  │ [v] pronomos-capital │ PrivateEquity │ Charter cities (Próspera)                           │
   ├──────────────────┼───────────────┼─────────────────────────────────────────────────────┤
   │ quantum-systems  │ Defense       │ Droni autonomi, Monaco (primo unicorno dual-use EU) │
   └──────────────────┴───────────────┴─────────────────────────────────────────────────────┘
@@ -90,6 +90,14 @@ Angel Studios
 - antonio-gracias
 - steve-jurvetson
 
+[v] pronomos-capital : Primo venture capital fund dedicato a charter cities e governance sperimentale
+- [v] patri-friedman : Fondatore di Pronomos Capital e Seasteading Institute, pioniere delle charter cities, nipote di Milton Friedman, Nobel
+- [v] balaji-srinivasan : Ex CTO Coinbase, ex GP Andreessen Horowitz, teorico del Network State, imprenditore seriale crypto/biotech
+
+[v] coinbase
+- brian-armstrong
+- fred-ehrsam
+andreessen-horowitz
 
 anysphere
 [v] opensecrets : Autorita' non-partisan sul denaro nella politica americana, traccia lobbying, finanziamenti e revolving doo

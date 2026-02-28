@@ -19,6 +19,7 @@
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
 | **1972-1976** | [Stanford University](../universities/stanford.md) | BA International Relations |
+| **1977-1979** | [Tufts University](../universities/tufts.md) | Fletcher School of Law and Diplomacy (no degree) |
 
 ---
 
@@ -69,7 +70,9 @@
 
 | Nome | Connessione |
 |------|-------------|
-| [Rafi Eitan](rafi-eitan.md) | Handler LAKAM; lo recluto' e gestì |
+| [Aviem Sella](aviem-sella.md) | Reclutatore; col. IAF, primo contatto giugno 1984 |
+| [Rafi Eitan](rafi-eitan.md) | Handler LAKAM; capo dell'operazione |
+| [Caspar Weinberger](caspar-weinberger.md) | SecDef; memorandum 46pp che porto' all'ergastolo |
 | [Benjamin Netanyahu](benjamin-netanyahu.md) | PM che gli concesse cittadinanza (1995) |
 | [Shimon Peres](shimon-peres.md) | PM che si scuso' per l'operazione |
 
@@ -137,6 +140,7 @@
 | Entita' | Connessione |
 |---------|-------------|
 | [Stanford](../universities/stanford.md) | Alumni BA 1976 |
+| [Tufts](../universities/tufts.md) | Fletcher School (1977-1979, no degree) |
 | [Governo USA](../government/governo-usa.md) | Naval Intelligence (1979-1985) |
 | [LAKAM](../agencies/lakam.md) | Agente reclutato (1984-1985) |
 
@@ -144,7 +148,9 @@
 
 | Persona | Relazione |
 |---------|-----------|
+| [Aviem Sella](aviem-sella.md) | Reclutatore |
 | [Rafi Eitan](rafi-eitan.md) | Handler |
+| [Caspar Weinberger](caspar-weinberger.md) | Avversario (memorandum sentencing) |
 | [Benjamin Netanyahu](benjamin-netanyahu.md) | Concesse cittadinanza |
 | [Shimon Peres](shimon-peres.md) | Si scuso' pubblicamente |
 
@@ -190,4 +196,4 @@
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2025*
+*Ultimo aggiornamento: Febbraio 2026*

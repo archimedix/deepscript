@@ -93,6 +93,8 @@
 | Nome | Connessione |
 |------|-------------|
 | Klaus Schwab | Fondatore WEF, predecessore |
+| [Jeffrey Epstein](jeffrey-epstein.md) | 3+ cene 2018-2019, sotto indagine WEF |
+| [Terje Rød-Larsen](terje-rod-larsen.md) | Introdusse Brende a Epstein |
 
 ---
 
@@ -145,6 +147,38 @@
 | **2011** | Ritorna al WEF, entra in board Statoil |
 | **2013** | Ministro degli Esteri, lascia board Statoil |
 | **2017** | President & CEO World Economic Forum |
+| **2018** | Introdotto a Epstein da Rød-Larsen |
+| **gen 2019** | Visita Epstein dopo meeting WEF-ONU |
+| **feb 2026** | WEF avvia indagine indipendente su di lui |
+
+---
+
+## Lo Scandalo Epstein
+
+### Timeline
+
+| Periodo | Evento |
+|---------|--------|
+| **2018** | Introdotto a Epstein da [Terje Rød-Larsen](terje-rod-larsen.md) a cena a NYC |
+| **2018-2019** | Almeno 3 "business dinners" con Epstein documentate |
+| **gen 2019** | Dopo meeting WEF-ONU, visita Epstein lo stesso giorno |
+| **gen 2026** | DOJ rilascia file: email e SMS con Epstein |
+| **feb 2026** | WEF avvia indagine indipendente sul suo CEO |
+
+### Dettagli
+
+- Almeno **3 cene di lavoro** con Epstein documentate nei file DOJ
+- **Email e SMS** scambiati con Epstein
+- Brende ha dichiarato di essere "completely unaware of Epstein's past"
+- Mantiene il ruolo di President & CEO durante l'indagine
+- Guri Melby (leader Liberal Party) definisce i contatti "grotesque"
+
+### Network Epstein
+
+| Nome | Connessione |
+|------|-------------|
+| [Jeffrey Epstein](jeffrey-epstein.md) | 3+ cene, email/SMS |
+| [Terje Rød-Larsen](terje-rod-larsen.md) | Introdusse Brende a Epstein |
 
 ---
 
@@ -170,4 +204,11 @@ Borge Brende rappresenta l'archetipo del "global governor" post-1945:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+### Scandalo Epstein
+- [The Hill - WEF investigating CEO over Epstein ties](https://thehill.com/business/5726336-brende-wef-epstein-emails-dinners-probe/)
+- [Bloomberg - WEF Opens Probe Into CEO Over Epstein Meetings](https://www.bloomberg.com/news/articles/2026-02-05/world-economic-forum-opens-probe-into-ceo-over-epstein-meetings)
+- [Swissinfo - WEF investigation into CEO](https://www.swissinfo.ch/eng/various/wef-launches-investigation-into-ceo-over-epstein-relationship/90895889)
+
+---
+
+*Ultimo aggiornamento: Febbraio 2026*

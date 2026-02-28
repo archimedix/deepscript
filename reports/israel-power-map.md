@@ -577,9 +577,23 @@ La famiglia Bronfman (Seagram) ha avuto un ruolo chiave nell'apertura di Israele
 | [Charles Bronfman](../docs/persons/charles-bronfman.md) | Co-chairman Seagram, co-founder Mega Group | Chairman Koor (1997-2002), co-founder Birthright Israel |
 | [Edgar Bronfman Sr.](../docs/persons/edgar-bronfman-sr.md) | Chairman Seagram, presidente WJC | World Jewish Congress, Mega Group member |
 | [Leo Kolber](../docs/persons/leo-kolber.md) | Senatore Canada, "consigliere" Bronfman | Padre di Jonathan, gestì investimenti Bronfman |
-| [Jonathan Kolber](../docs/persons/jonathan-kolber.md) | Co-founder Claridge Israel | CEO Koor (1998-2006), oggi chairman Fiverr, Taboola |
+| [Jonathan Kolber](../docs/persons/jonathan-kolber.md) | Co-founder Claridge Israel | CEO Koor (1998-2006), oggi chairman [Fiverr](../docs/company/fiverr.md), Taboola |
+| [Stephen Bronfman](../docs/persons/stephen-bronfman.md) | Executive Chairman Claridge Group | Rilancio Claridge Israel come investitore tech (2015-) |
 
 **Exit Claridge Israel:** Teva Pharmaceuticals, ECI Telecom, Osem, Optrotech - da $50M a $700M in 11 anni.
+
+#### Da Koor a Fiverr: L'Evoluzione Kolber
+
+Jonathan Kolber incarna l'evoluzione del capitale Bronfman in Israele: da **conglomerato industriale** (Koor) a **tech venture** (Fiverr, Taboola, eToro).
+
+| Fase | Periodo | Veicolo | Focus |
+|------|---------|---------|-------|
+| **1. Claridge Israel** | 1986-1997 | PE fund ($50M→$700M) | Privatizzazioni israeliane |
+| **2. Koor Industries** | 1998-2006 | Conglomerato (difesa, telecom, agri) | Ristrutturazione e vendita |
+| **3. Viola + Angel** | 2006-oggi | PE + investimenti personali | Tech israeliana |
+| **4. Board chairman** | 2019-oggi | [Fiverr](../docs/company/fiverr.md) (NYSE: FVRR), Taboola, ION | Marketplace e adtech |
+
+[Fiverr](../docs/company/fiverr.md), fondata nel 2010 a Tel Aviv, rappresenta la nuova generazione tech israeliana. Con Kolber come Chairman dal 2019, il legame Bronfman-Israel si e' spostato dall'industria pesante alla gig economy globale. Investitori includono [Accel](../docs/private-equity/accel.md), Bessemer e [Viola Group](../docs/private-equity/viola-group.md).
 
 **Dual Track Bronfman:**
 ```
@@ -595,6 +609,11 @@ INVESTIMENTI     FILANTROPIA
 Claridge →      Mega Group →
 Koor Industries   Birthright Israel
 (1997-2006)       (1999-)
+    |
+    v
+Claridge Israel 2.0 →
+Tech investments (2015-)
+Kolber → Fiverr, Taboola, eToro
 ```
 
 **Pattern**: Il capitale dinastico canadese (Bronfman) entro' in Israele attraverso le privatizzazioni Histadrut, creando un ponte finanziario Nord America-Israel che precede di decenni la pipeline tech attuale. La vendita disastrosa di Seagram a Vivendi (2000) non interruppe l'impegno filantropico: Birthright Israel continua a operare.
@@ -1037,4 +1056,4 @@ RAFAEL CHAIRMAN (2023-)
 
 ---
 
-*Ultimo aggiornamento: 8 Febbraio 2026 - Aggiunta sezione Rete Religiosa-Filantropica: Chabad-Lubavitch (triangolo Washington-Mosca-Gerusalemme, Leviev, Rohr, Kushner-Trump), Tikvah Fund (infrastruttura neocon Bernstein-Hertog-Abrams-Podhoretz), George Rohr come nodo-ponte. Aggiunta tabella Top Connettori rete religiosa-filantropica.*
+*Ultimo aggiornamento: 27 Febbraio 2026 - Espansa sezione Bronfman-Kolber: aggiunta evoluzione Kolber da Koor a Fiverr, Stephen Bronfman e Claridge Israel 2.0, pipeline tech israeliana.*

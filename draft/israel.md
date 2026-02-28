@@ -59,13 +59,13 @@ open-university-israel
   - Statistiche complete
 
 
-Zeev Vladimir Jabotinsky (connessione con Mussolini e padre di Natanyau) 
+[v] Zeev Vladimir Jabotinsky (connessione con Mussolini e padre di Natanyau) 
 
 hebrew-university
 Birthright Israel
 
 
-claridge-group
+[v] claridge-group
 tadiran
 makhteshim-agan
 viola-group

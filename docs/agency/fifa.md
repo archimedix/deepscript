@@ -249,8 +249,9 @@ Secondo la testimonianza di Alejandro Burzaco (ex-owner Torneos), Televisa e Glo
 |---------|-------|
 | [Gianni Infantino](../persons/gianni-infantino.md) | President |
 | [Nasser Al-Khelaifi](../persons/nasser-al-khelaifi.md) | ECA Chairman |
-| Sepp Blatter | Ex-President (banned) |
-| Michel Platini | Ex-UEFA President (banned) |
+| [Sepp Blatter](../persons/sepp-blatter.md) | Ex-President (banned) |
+| [Michel Platini](../persons/michel-platini.md) | Ex-UEFA President (banned) |
+| [Mauricio Macri](../persons/mauricio-macri.md) | Executive Chairman FIFA Foundation |
 
 ---
 
