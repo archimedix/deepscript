@@ -9,7 +9,7 @@
 | Metrica | Valore |
 |---------|--------|
 | **Periodo** | XI secolo - oggi |
-| **Famiglie documentate** | 17 sefardite (+ connessioni ashkenazite) |
+| **Famiglie documentate** | 17 sefardite (+ connessioni ashkenazite e Chabad-Lubavitch) |
 | **Arco geografico** | Spagna → Portogallo → Marocco → Italia → Paesi Bassi → Francia → Impero Ottomano → Messico (Nuovo Mondo) → Gran Bretagna → India → Cina → Hong Kong → Sudafrica → Siria → Libano → Brasile → Svizzera |
 | **Settori** | Finanza reale, commercio, banca, VOC/WIC, ferrovie, navigazione, rabbinato, diplomazia, corsarismo, colonizzazione Americas, politica britannica, energia, diamanti, ospitalita, private banking |
 | **Pattern dominante** | Rete commerciale diasporica con matrimoni endogamici e adattamento geopolitico |
@@ -757,6 +757,24 @@ Sebbene ashkenazite, due famiglie meritano menzione per le connessioni con la re
 | [Warburg](../docs/family/warburg.md) | Vestfalia, Germania | Stessa tradizione di banca familiare; Paul Warburg architetto Federal Reserve |
 | [Oppenheimer](../docs/family/oppenheimer.md) | Friedberg, Germania → Sudafrica | Finanziati dai Rothschild via Cecil Rhodes; Jonathan Oppenheimer lavoro per NM Rothschild (1995-99) |
 
+### Chabad-Lubavitch: Rete Ashkenazita nelle Comunita' Sefardite
+
+[Chabad-Lubavitch](../docs/foundation/chabad-lubavitch.md), unico movimento chassidico (ashkenazita) con vocazione missionaria universale, opera attivamente nelle comunita' sefardite e mizrahi. A differenza dei matrimoni inter-dinastici (Rothschild-Montefiore, Sassoon-Rothschild), la penetrazione Chabad avviene attraverso l'infrastruttura religiosa: sinagoghe, scuole, centri comunitari.
+
+**Connessioni sefardite documentate**:
+
+| Connessione | Tipo | Dettaglio |
+|-------------|------|-----------|
+| **[Safra](../docs/family/safra.md)** | Filantropia | [Moshe Kotlarsky](../docs/persons/moshe-kotlarsky.md) (Vice Chairman Merkos) coltivo' la relazione con la famiglia Safra come patron Chabad |
+| **[Lev Leviev](../docs/persons/lev-leviev.md)** | Filantropia strategica | Ebreo bukharo (Uzbekistan) — ne' ashkenazita ne' sefardita; frequento' yeshiva Chabad in Israele; principale finanziatore Chabad ex URSS ([Or Avner Foundation](../docs/foundation/or-avner.md), ~124 scuole); monopolio diamantifero (LLD, spezzando De Beers) |
+| **Venezia** | Presenza territoriale | [Rami Banin](../docs/persons/rami-banin.md) (~1993-) fondo' Beit Chabad nel **Ghetto Vecchio** — lo spazio storicamente sefardita (levantino); Yeshiva Gedola (250+ diplomati); ristorante Gam Gam |
+| **Salonicco** | Connessione indiretta | Via Vicky Safra (nata Sarfati, Salonicco 1952): il matrimonio Safra-Sarfati (1969) collega la tradizione aleppina alla comunita' sefardita ottomano-balcanica; la relazione Safra-Chabad aggiunge un terzo polo |
+| **Italia** | Presenza storica | Primi shluchim a Milano (1958, [Garelik](../docs/persons/gershon-mendel-garelik.md)); [Berel Lazar](../docs/persons/berel-lazar.md) nato a Milano da genitori emissari; la comunita' milanese include storicamente nuclei sefarditi (Italkim) |
+
+**Pattern**: Chabad rappresenta il primo caso di istituzione ashkenazita che penetra sistematicamente le comunita' sefardite non attraverso matrimoni o alleanze finanziarie (il modello tradizionale), ma attraverso **infrastruttura religiosa** — scuole, sinagoghe, kashrut. Il modello e' particolarmente evidente in Israele, dove Chabad opera tra ebrei mizrahi e sefarditi, e nell'ex URSS, dove le comunita' ebraiche bukhare e montanare (non ashkenazite) sono servite dalla rete Chabad-Leviev.
+
+Il caso Leviev e' il nodo piu' significativo: un ebreo bukharo che usa un monopolio diamantifero (costruito spezzando De Beers — storicamente controllata dagli Oppenheimer ashkenaziti) per finanziare una rete religiosa ashkenazita (Chabad) che serve comunita' non-ashkenazite nell'ex URSS. Tre mondi in un singolo circuito.
+
 ---
 
 ## XVIII. Pattern Ricorrenti
@@ -984,6 +1002,7 @@ I matrimoni intra-comunitari (e poi inter-dinastici con famiglie ashkenazite) se
 | [Oppenheimer](../docs/family/oppenheimer.md) | Finanziati via Rothschild-Rhodes; Jonathan lavora per NM Rothschild |
 | [Azrieli](../docs/family/azrieli.md) | Sopravvissuto Shoah polacco → piu' grande impero immobiliare israeliano ($12B); Azrieli Foundation |
 | [Schocken](../docs/family/schocken.md) | Da grandi magazzini tedeschi a Haaretz: editore di Kafka e Benjamin; 3 generazioni alla guida del giornale piu' influente d'Israele (75% proprieta') |
+| [Chabad-Lubavitch](../docs/foundation/chabad-lubavitch.md) | Rete chassidica globale (6.233+ emissari, 111 paesi); penetrazione comunita' sefardite via infrastruttura religiosa; relazione con Safra (filantropia) e Leviev (ebreo bukharo, principale finanziatore) |
 
 ---
 
@@ -995,6 +1014,8 @@ I matrimoni intra-comunitari (e poi inter-dinastici con famiglie ashkenazite) se
 | [Israel Power Map](israel-power-map.md) | Stato moderno, connessioni diaspora |
 | [Italy Power Map](italy-power-map.md) | Connessione italiana (Livorno, Montefiore) |
 | [Radici del Potere Occulto](israel-roots.md) | Sabbatianesimo, Frankismo |
+| [Ashkenazite Power Map](ashkenazite-power-map.md) | Dinastie bancarie ashkenazite; Chabad come rete religiosa transnazionale |
+| [Chabad-Lubavitch](../docs/foundation/chabad-lubavitch.md) | Ponte ashkenazita-sefardita via infrastruttura religiosa; relazioni Safra, Leviev |
 
 ---
 

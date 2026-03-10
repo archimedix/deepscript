@@ -41,6 +41,19 @@ Non si tratta di una "cospirazione unica", ma di un **pattern ricorrente**: l'us
 
 ## Capitolo 1: Il Sabbatianesimo (1626-1676)
 
+### Precedente: L'Esperienza Conversa come Modello
+
+Il Sabbatianesimo non nacque nel vuoto. La diaspora sefardita aveva gia' sviluppato per due secoli un modello di **doppia identita'** — i conversos/marrani — che prefigura direttamente la logica sabbatiana della "maschera religiosa". Le reti documentate nel [Sefardite Power Map](sefardite-family-power-map.md) mostrano il pattern:
+
+| Famiglia | Strategia | Periodo |
+|----------|-----------|---------|
+| [Mendes-Nasi](../docs/family/mendes-nasi.md) | Cristiani in pubblico, ebrei in segreto; "ferrovia sotterranea" per cripto-ebrei | 1497-1553 |
+| [Carvajal](../docs/family/carvajal.md) | Governatore coloniale cripto-giudaico in Messico; auto-da-fe' 1596 | 1579-1596 |
+| [Pinto-Suasso](../docs/family/pinto-suasso.md) | Marrani portoghesi → ritorno al giudaismo ad Amsterdam | 1580s-1650s |
+| [Aboab](../docs/family/aboab.md) | Rabbini in esilio; custodia segreta della tradizione attraverso le conversioni forzate | 1492-1600s |
+
+**Il contributo chiave di Abraham Cardoso** va letto in questo contesto: ex-Marrano di Salamanca, Cardoso non invento' la teologia della doppia identita' — la **visse** per decenni prima di applicarla alla conversione di Sabbatai Zvi. L'intera rete conversa era predisposta psicologicamente ad accettare l'apostasia come "maschera" anziche' come tradimento.
+
 ### Contesto: La Crisi del XVII Secolo
 
 Il mondo ebraico del XVII secolo era stato devastato dai **massacri di Khmelnytsky** (1648-49): 10.000-20.000 ebrei uccisi in Europa orientale, centri di studio distrutti, comunita' disperse. In questo vuoto di speranza, le aspettative messianiche esplosero. L'anno **1666** era atteso come anno apocalittico in diverse tradizioni.
@@ -125,8 +138,8 @@ Il primo scontro frontale avvenne una generazione prima della celebre controvers
 | Aspetto | Dettaglio |
 |---------|-----------|
 | **Accusato** | [Nehemiah Hayyun](../docs/persons/nehemiah-hayyun.md), autore sabbatiano giunto ad Amsterdam nel 1713 |
-| **Protettore** | [Solomon Ayllon](../docs/persons/solomon-ayllon.md), Hakham della congregazione portoghese (sospetto crypto-sabbatiano) |
-| **Scontro** | Hakham Zvi chiese il bando degli scritti di Hayyun; Ayllon e il potere laico protessero Hayyun |
+| **Protettore** | [Solomon Ayllon](../docs/persons/solomon-ayllon.md), Hakham della congregazione portoghese — la stessa [Esnoga](../docs/family/aboab.md) inaugurata da [Isaac Aboab da Fonseca](../docs/persons/isaac-aboab-da-fonseca.md) nel 1675, cuore istituzionale della comunita' sefardita di Amsterdam (sospetto crypto-sabbatiano) |
+| **Scontro** | Hakham Zvi chiese il bando degli scritti di Hayyun; Ayllon e il potere laico sefardita protessero Hayyun |
 | **Esito** | Hakham Zvi costretto a fuggire Amsterdam (1714); mori' in oscurita' a Lwow (1718) |
 | **Pattern** | L'establishment laico protegge il sabbatiano; il rabbino ortodosso viene isolato e punito |
 
@@ -158,6 +171,8 @@ Le due controversie — Hayyun (1713) ed Eybeschutz (1751) — rivelano lo stess
 | **Conferma postuma** | — | Amuleti a Metz + figlio Wolf |
 
 **Importanza per DeepScript**: il crypto-sabbatianesimo era penetrato fino ai **vertici del rabbinato** — Eybeschutz non era un rabbino marginale, ma il rabbino capo di tre comunita'. Il fatto che in entrambi i casi l'accusatore, non l'accusato, fu punito, mostra la difficolta' strutturale di smascherare una rete segreta anche quando le prove esistono. Il ponte con il Frankismo e' confermato dal figlio Wolf, vicino ai Frankisti.
+
+**La dimensione sefardita**: la controversia Hayyun (1713) si svolse dentro le istituzioni sefardite di Amsterdam — la stessa comunita' dei [Pinto-Suasso](../docs/family/pinto-suasso.md) (banchieri della Gloriosa Rivoluzione), degli [Aboab](../docs/family/aboab.md) (custodi della Esnoga), e dei [Palache](../docs/family/palache.md) (diplomatici-corsari). Solomon Ayllon era Hakham della congregazione portoghese, la stessa che nel 1656 aveva emesso lo *herem* contro Spinoza. L'ironia: quarant'anni dopo aver scomunicato un razionalista, la stessa istituzione proteggeva un sabbatiano. La Esnoga — massima espressione architettonica del potere sefardita — era diventata il rifugio del crypto-sabbatianesimo.
 
 ---
 
@@ -387,15 +402,18 @@ XIX-XX SECOLO: Secolarizzazione dei modelli
 
 Questo report copre il nucleo 1626-1830. Le seguenti aree meritano approfondimento per completare l'arco 1600-1900:
 
-| Area | Periodo | Entita' da aggiungere |
-|------|---------|----------------------|
-| **Donme e Giovani Turchi** | 1850-1923 | Movimento dei Giovani Turchi, Ataturk, ruolo dei Donme nella modernizzazione |
-| **Famiglie frankiste nel XIX secolo** | 1830-1900 | Ruolo nelle insurrezioni polacche (1830, 1863), connessioni massoniche |
-| **Massoneria e Illuminati** | 1785-1850 | Continuita' dell'illuminismo nella Massoneria, Carboneria, societa' segrete italiane |
-| **Haskalah e Riforma** | 1770-1880 | Influenza della crisi sabbatiana sull'apertura all'Illuminismo ebraico |
-| **Rothschild e banca moderna** | 1770-1900 | Ascesa delle dinastie bancarie ebraiche nel contesto post-emancipazione |
-| **Societa' segrete politiche** | 1800-1870 | Carboneria, Mazzini, Garibaldi — modello organizzativo post-illuminista |
-| **Abate Barruel e cospirazionismo** | 1797-1900 | Genesi della teoria del complotto come genere culturale |
+| Area | Periodo | Entita' da aggiungere | Fonti negli altri Power Map |
+|------|---------|----------------------|----------------------------|
+| **Donme e Giovani Turchi** | 1850-1923 | Movimento dei Giovani Turchi, Ataturk, ruolo dei Donme nella modernizzazione | [Salonicco Power Map](salonicco-power-map.md): Carasso, CUP, Macedonia Risorta |
+| **Famiglie frankiste nel XIX secolo** | 1830-1900 | Ruolo nelle insurrezioni polacche (1830, 1863), connessioni massoniche | — |
+| **Massoneria e Illuminati** | 1785-1850 | Continuita' dell'illuminismo nella Massoneria, Carboneria, societa' segrete italiane | — |
+| **Haskalah e Riforma** | 1770-1880 | Influenza della crisi sabbatiana sull'apertura all'Illuminismo ebraico | [Ashkenazite PM](ashkenazite-power-map.md): Mendelssohn (1729), filo Hofjuden → Haskalah → banche |
+| **Reti converso-sefardite** | 1492-1700 | L'esperienza marrana come precursore psicologico del sabbatianesimo; reti Mendes-Nasi, Carvajal | [Sefardite PM](sefardite-family-power-map.md): Cardoso marrano; Mendes "ferrovia sotterranea" |
+| **Rothschild e banca moderna** | 1770-1900 | Ascesa delle dinastie bancarie ebraiche nel contesto post-emancipazione | [Ashkenazite PM](ashkenazite-power-map.md): Hofjude → Rothschild; Wertheimer → Chanel |
+| **Alliance Israelite e Donme** | 1860-1920 | AIU (sefardita-francese) operava nelle stesse aree ottomane dei Donme; [Carasso](../docs/persons/emmanuel-carasso.md) alumno AIU | [Ashkenazite PM](ashkenazite-power-map.md): sezione connessione ashkenazita-sefardita |
+| **Rabbinato moravo e sabbatianesimo** | 1700-1760 | Moravia come epicentro: [Gabriel Eskeles](../docs/persons/gabriel-eskeles.md) rabbino capo; Prossnitz centro sabbatiano dove si formo' Eybeschutz; Podolia culla di Frank | [Ashkenazite PM](ashkenazite-power-map.md): dinastia Eskeles (rabbinato → finanza → OeNB) |
+| **Societa' segrete politiche** | 1800-1870 | Carboneria, Mazzini, Garibaldi — modello organizzativo post-illuminista | — |
+| **Abate Barruel e cospirazionismo** | 1797-1900 | Genesi della teoria del complotto come genere culturale | — |
 
 ---
 
@@ -405,7 +423,20 @@ Questo report copre il nucleo 1626-1830. Le seguenti aree meritano approfondimen
 - [ ] Qual e' il ruolo documentato dei Donme nei Giovani Turchi e nella fondazione della Turchia moderna?
 - [ ] In che misura il modello organizzativo degli Illuminati influenzo' le societa' segrete del XIX secolo (Carboneria, etc.)?
 - [ ] Esistono legami tra le famiglie frankiste e le dinastie bancarie dell'Europa centrale del XIX secolo?
-- [ ] Come si collega la crisi dell'autorita' rabbinica post-1666 con l'apertura all'Haskalah?
+- [ ] Come si collega la crisi dell'autorita' rabbinica post-1666 con l'apertura all'Haskalah? *(Il filo sembra essere: crisi sabbatiana → delegittimazione del rabbinato → spazio per Moses Mendelssohn (1729) → Haskalah → emancipazione → dinastie bancarie. Vedi [Ashkenazite PM](ashkenazite-power-map.md))*
+- [ ] Il rabbinato moravo (Gabriel Eskeles, Prossnitz) fu toccato dal sabbatianesimo? Eybeschutz si formo' a Prossnitz; la famiglia Eskeles transito' dal rabbinato alla finanza in tre generazioni — c'e' un nesso con la crisi d'autorita'?
+- [ ] Solomon Ayllon (protettore di Hayyun nella Esnoga) aveva connessioni con le famiglie sefardite finanziarie di Amsterdam (Pinto, Suasso, Pereyra)?
+- [ ] L'[Alliance Israelite Universelle](../docs/university/alliance-israelite.md) (1860) opero' consapevolmente nelle aree Donme, o fu coincidenza geografica? [Carasso](../docs/persons/emmanuel-carasso.md) fu alumno AIU e fondatore della loggia [Macedonia Risorta](../docs/forum/macedonia-risorta.md) — il ponte e' documentato
+
+---
+
+## Connessioni con Altre Power Map
+
+| Report | Connessione con questo report |
+|--------|-------------------------------|
+| [Ashkenazite Power Map](ashkenazite-power-map.md) | Hofjuden come variante ashkenazita del Court Jew sefardita; crisi sabbatiana → Haskalah → Mendelssohn → banche; Eskeles (rabbinato moravo in area sabbatiana → finanza → OeNB); AIU nelle aree Donme |
+| [Sefardite Power Map](sefardite-family-power-map.md) | Esperienza conversa (Mendes-Nasi, Carvajal) come precedente psicologico del sabbatianesimo; Cardoso ex-marrano; Esnoga di Amsterdam (Aboab) = sede della controversia Ayllon-Hayyun; herem Spinoza (1656) nella stessa congregazione |
+| [Salonicco Power Map](salonicco-power-map.md) | Salonicco come base dei Donme; Hakham Zvi formatosi a Salonicco; Baruchiah Russo nato e morto a Salonicco; Carasso (AIU + Macedonia Risorta) |
 
 ---
 
@@ -444,4 +475,4 @@ Questo report copre il nucleo 1626-1830. Le seguenti aree meritano approfondimen
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

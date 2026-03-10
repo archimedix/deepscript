@@ -55,6 +55,8 @@ Guido Goldman, americano la cui famiglia fuggi' dalla Germania nel 1940, convins
 | **2022** | Heather Conley presidente |
 | **2024** | Conley lascia, de Hoop Scheffer Acting |
 | **2025** | Alexandra de Hoop Scheffer presidente (prima europea) |
+| **2025** | Brussels Forum 20th edition (11-12 giugno) |
+| **2026** | Presenza a Ukraine Recovery Conference e NATO summit Ankara |
 
 ---
 
@@ -65,8 +67,13 @@ Guido Goldman, americano la cui famiglia fuggi' dalla Germania nel 1940, convins
 | Ruolo | Nome | Dal |
 |-------|------|-----|
 | President | [Alexandra de Hoop Scheffer](../persons/alexandra-de-hoop-scheffer.md) | 2025 |
-| Board Chair | Christopher Schroeder | - |
+| Board Chair | [Christopher M. Schroeder](../persons/christopher-schroeder.md) | - |
+| Board Vice Chair | [Annie Maxwell](../persons/annie-maxwell.md) | - |
 | COO | Jared Janeczko | - |
+| SVP Global Power Shifts | Daniel Kliman | - |
+| SVP Transatlantic Security | Dr. Claudia Major | - |
+| SVP Innovation & Competitiveness | Penny Naas | - |
+| VP External Relations | Sudha David-Wilp | - |
 
 ### Presidenti Storici
 
@@ -136,19 +143,47 @@ Programma flagship che prepara leader emergenti per ruoli transatlantici.
 
 ---
 
+## Board of Trustees (parziale)
+
+| Nome | Ruolo | Note |
+|------|-------|------|
+| [Christopher M. Schroeder](../persons/christopher-schroeder.md) | **Chair** | Imprenditore, ex CEO washingtonpost.com |
+| [Annie Maxwell](../persons/annie-maxwell.md) | **Vice Chair** | EVP Omidyar Network, MMF 2007 |
+| [Carl Bildt](../persons/carl-bildt.md) | Trustee | Ex PM Svezia |
+| [Amanda Bennett](../persons/amanda-bennett.md) | Trustee | Ex direttrice VOA |
+| [Kathryn Ruemmler](../persons/kathryn-ruemmler.md) | Trustee | Ex White House Counsel |
+| [Stephen Biegun](../persons/stephen-biegun.md) | Trustee | Ex Deputy Secretary of State |
+| [Heidi Heitkamp](../persons/heidi-heitkamp.md) | Trustee | Ex senatrice North Dakota |
+| [Will Hurd](../persons/will-hurd.md) | Trustee | Ex rappresentante Texas, ex CIA |
+| [Mitch Landrieu](../persons/mitch-landrieu.md) | Trustee | Ex sindaco New Orleans |
+| [John Kirby](../persons/john-kirby.md) | Trustee | Ammiraglio (rit.), ex NSC spokesperson |
+| [Mac Thornberry](../persons/mac-thornberry.md) | Trustee | Ex rappresentante Texas, ex Chair House Armed Services |
+| [Helene Cooper](../persons/helene-cooper.md) | Trustee | Pentagon correspondent NYT |
+| [Margit Wennmachers](../persons/margit-wennmachers.md) | Trustee | Operating Partner Andreessen Horowitz |
+| [Sherrese Smith](../persons/sherrese-smith.md) | Trustee | Global Managing Partner Paul Hastings LLP |
+
+---
+
 ## Connessioni PowerLink
 
 ### Figure chiave nel DB
 
 | Persona | Ruolo |
 |---------|-------|
-| [Amanda Bennett](../persons/amanda-bennett.md) | Board member |
-| [Michael Abramowitz](../persons/michael-abramowitz.md) | Marshall Memorial Fellow |
-| [Jamie Fly](../persons/jamie-fly.md) | Senior Fellow, Senior Advisor to President |
-| [Theo Sommer](../persons/theo-sommer.md) | German advisory committee |
 | [Guido Goldman](../persons/guido-goldman.md) | Founder |
-| [Heather Conley](../persons/heather-conley.md) | President 2022-2024 |
 | [Alexandra de Hoop Scheffer](../persons/alexandra-de-hoop-scheffer.md) | President 2025- |
+| [Heather Conley](../persons/heather-conley.md) | President 2022-2024 |
+| [Jamie Fly](../persons/jamie-fly.md) | Senior Fellow, Co-Director ASD |
+| [Michael Abramowitz](../persons/michael-abramowitz.md) | Marshall Memorial Fellow |
+| [Theo Sommer](../persons/theo-sommer.md) | German advisory committee |
+| [Lionel Pincus](../persons/lionel-pincus.md) | Trustee 1982-1988 |
+| [Arseniy Yatsenyuk](../persons/arseniy-yatsenyuk.md) | Expert |
+
+### Alumni italiani notabili
+
+| Persona | Programma | Note |
+|---------|-----------|------|
+| [Federica Mogherini](../persons/federica-mogherini.md) | MMF 2007 | Poi EU High Representative |
 
 ### Think Tank correlati
 
@@ -207,4 +242,4 @@ Programma flagship che prepara leader emergenti per ruoli transatlantici.
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

@@ -293,6 +293,11 @@ families:
       generation: 3
     - person: al-mayassa-bint-hamad-al-thani
       generation: 4
+  albrecht:
+    origin: DEU
+    members:
+    - person: karl-albrecht
+    - person: theo-albrecht
   aliyev:
     tagline: Dinastia regnante dell'Azerbaijan dal 1969. Potere politico totale + controllo del 43% del settore bancario nazionale.
     origin: Nakhchivan, Azerbaijan
@@ -342,11 +347,34 @@ families:
       generation: 3
     - person: anant-ambani
       generation: 3
+  aponte:
+    tagline: Dinastia marittima di Sorrento, proprietari di MSC Group, la piu ricca famiglia svizzera
+    origin: ITA
+    founder: gianluigi-aponte
+    sector: shipping
+    status: active
+    members:
+    - person: pierfrancesco-vago
+      generation: 2
+      role: heir
+    - person: gianluigi-aponte
+      generation: 1
+      role: founder
+    - person: rafaela-aponte-diamant
+      generation: 1
+      role: founder
+    - person: diego-aponte
+      generation: 2
+      role: heir
+    - person: alexa-aponte-vago
+      generation: 2
+      role: heir
   arison:
+    tagline: 'Dinastia israeliana-americana: Carnival Corporation, Bank Hapoalim, Miami Heat'
     origin: ISR
-    founder: meir-arison
+    founder: ted-arison
     sector: shipping, cruise, finance
-    generations: 2
+    generations: 3
     status: active
     members:
     - person: ted-arison
@@ -358,6 +386,9 @@ families:
     - person: micky-arison
       generation: 3
       role: heir
+    - person: mina-wasserman
+      generation: 2
+      role: spouse
   arnault:
     tagline: 'Dinastia del lusso: il piu'' grande impero di brand premium al mondo'
     origin: France
@@ -382,6 +413,31 @@ families:
       generation: 2
       role: heir
     - person: jean-arnault
+      generation: 2
+      role: heir
+  arnstein:
+    tagline: Hofjuden e banchieri di corte a Vienna, finanziatori degli Asburgo, co-fondatori della Banca Nazionale Austriaca
+    origin: AUT
+    founder: isaac-aaron-arnstein
+    sector: finance
+    status: defunct
+    members:
+    - person: fanny-von-arnstein
+      generation: 3
+      role: heir
+    - person: nathan-adam-von-arnstein
+      generation: 3
+      role: heir
+    - person: bernhard-von-eskeles
+      generation: 3
+      role: heir
+    - person: henrietta-pereira-arnstein
+      generation: 4
+      role: heir
+    - person: isaac-aaron-arnstein
+      generation: 1
+      role: founder
+    - person: adam-isaac-arnstein
       generation: 2
       role: heir
   aso-yoshida:
@@ -491,6 +547,38 @@ families:
     - person: emanuela-barilla
       generation: 4
       role: heir
+  belgrano:
+    tagline: Dinastia mercantile ligure emigrata a Buenos Aires, protagonista dell indipendenza argentina
+    origin: ITA
+    founder: domenico-belgrano-peri
+    sector: commerce
+    status: defunct
+    members:
+    - person: manuel-belgrano
+      generation: 2
+      role: heir
+    - person: domenico-belgrano-peri
+      generation: 1
+      role: founder
+  belmont:
+    tagline: Dinastia finanziaria, agenti Rothschild in America, politica democratica
+    origin: DEU-USA
+    founder: august-belmont
+    sector: finance
+    status: active
+    members:
+    - person: august-belmont
+      generation: 1
+      role: founder
+    - person: august-belmont-jr
+      generation: 2
+      role: heir
+    - person: perry-belmont
+      generation: 2
+      role: heir
+    - person: oliver-belmont
+      generation: 2
+      role: heir
   benveniste:
     tagline: 'Dinastia sefardita millenaria (XI-XVI sec.). Da Narbonne alle corti di Aragona e Castiglia: medici reali, tesorieri,
       rabbini di corte. Antenati dei Mendes-Nasi. Dopo il 1492 dispersi tra Salonicco, Impero Ottomano e Portogallo.'
@@ -515,6 +603,15 @@ families:
       generation: 2
       role: heir
     - person: pier-silvio-berlusconi
+      generation: 2
+      role: heir
+    - person: luigi-berlusconi
+      generation: 2
+      role: heir
+    - person: barbara-berlusconi
+      generation: 2
+      role: heir
+    - person: eleonora-berlusconi
       generation: 2
       role: heir
   bertarelli:
@@ -593,6 +690,43 @@ families:
       generation: 5
     - person: aryaman-birla
       generation: 5
+  bleichroeder:
+    tagline: Dinastia bancaria berlinese, agenti Rothschild e banchieri di Bismarck
+    origin: Berlin, Germany
+    founder: samuel-bleichroeder
+    sector: finance
+    status: extinct
+    members:
+    - person: gerson-von-bleichroeder
+      generation: 2
+    - person: samuel-bleichroeder
+      generation: 1
+      role: founder
+    - person: hans-von-bleichroeder
+      generation: 3
+    - person: georg-von-bleichroeder
+      generation: 3
+    - person: james-von-bleichroeder
+      generation: 3
+  blinken:
+    tagline: 'Dinastia diplomatica ebreo-ucraina: da Kiev alla creazione di Israele fino alla Segreteria di Stato USA'
+    origin: Ucraina (Pereiaslav/Kiev)
+    founder: meir-blinken
+    sector: diplomazia, finanza, politica estera
+    status: active
+    members:
+    - person: antony-blinken
+      generation: 4
+    - person: donald-blinken
+      generation: 3
+    - person: alan-blinken
+      generation: 3
+    - person: maurice-blinken
+      generation: 2
+      role: patriarch
+    - person: meir-blinken
+      generation: 1
+      role: founder
   boel:
     tagline: Dai baroni dell'acciaio vallone ai co-proprietari di TikTok via Sofina
     origin: Belgium
@@ -817,6 +951,12 @@ families:
     - person: federico-caproni
       generation: 1
       role: member
+  caprotti:
+    origin: ITA
+    members:
+    - person: bernardo-caprotti
+    - person: giuliana-caprotti
+    - person: marina-caprotti
   caracciolo:
     tagline: Aristocrazia napoletana che ha costruito il piu' grande gruppo editoriale italiano e si e' fusa con la dinastia
       Agnelli
@@ -1125,6 +1265,23 @@ families:
     - person: megan-ellison
       generation: 2
       role: heir
+  eskeles:
+    tagline: Dinastia rabbinica divenuta banchiera di corte a Vienna, co-fondatrice Arnstein & Eskeles e della Banca Nazionale
+      Austriaca
+    origin: AUT
+    founder: gabriel-eskeles
+    sector: finance
+    status: defunct
+    members:
+    - person: bernhard-von-eskeles
+      generation: 3
+      role: heir
+    - person: gabriel-eskeles
+      generation: 1
+      role: founder
+    - person: issachar-eskeles
+      generation: 2
+      role: heir
   federmann:
     origin: ISR
     sector: defense-hospitality
@@ -1275,6 +1432,39 @@ families:
     - person: christopher-getty
       generation: 3
       role: heir
+  goldman-sachs:
+    tagline: Dinastia fondatrice della piu' influente banca d'affari di Wall Street
+    origin: Bavaria, Germany
+    founder: marcus-goldman
+    sector: finance
+    status: legacy
+    members:
+    - person: marcus-goldman
+      generation: 1
+    - person: samuel-sachs
+      generation: 2
+    - person: henry-goldman
+      generation: 2
+    - person: arthur-sachs
+      generation: 3
+    - person: walter-sachs
+      generation: 3
+    - person: harry-sachs
+      generation: 2
+    - person: julius-sachs
+      generation: 2
+    - person: paul-sachs
+      generation: 3
+    - person: peter-sachs
+      generation: 4
+    - person: ludwig-dreyfuss
+      generation: 2
+    - person: louisa-goldman
+      generation: 2
+    - person: rebecca-goldman
+      generation: 2
+    - person: rosa-goldman
+      generation: 2
   gonzalez-revilla:
     origin: Panama
     members:
@@ -1377,6 +1567,18 @@ families:
     - person: ayman-hariri
       generation: 2
       role: heir
+  harriman:
+    tagline: Dinastia ferroviaria e diplomatica americana
+    origin: New York, USA
+    founder: edward-harriman
+    sector: finance
+    status: active
+    members:
+    - person: averell-harriman
+      generation: 2
+      role: heir
+    - person: edward-harriman
+      generation: 1
   hartono:
     tagline: 'Da una fabbrica di sigarette a Kudus alla piu'' grande fortuna del Sud-Est Asiatico: come due fratelli sino-indonesiani
       hanno trasformato il tabacco in un impero bancario-tech da $50 miliardi.'
@@ -1519,6 +1721,35 @@ families:
       role: founder
     - person: brett-icahn
       generation: 2
+      role: heir
+  itzig:
+    tagline: Hofjuden di Federico il Grande, primi ebrei con piena cittadinanza prussiana, rete matrimoniale con Mendelssohn,
+      Arnstein, Eskeles
+    origin: DEU
+    founder: daniel-itzig
+    sector: finance
+    status: defunct
+    members:
+    - person: daniel-itzig
+      generation: 1
+      role: founder
+    - person: bella-salomon
+      generation: 2
+      role: heir
+    - person: fanny-von-arnstein
+      generation: 2
+      role: heir
+    - person: isaac-daniel-itzig
+      generation: 2
+      role: heir
+    - person: sara-levy-itzig
+      generation: 2
+      role: heir
+    - person: bernhard-von-eskeles
+      generation: 2
+      role: heir
+    - person: henrietta-pereira-arnstein
+      generation: 3
       role: heir
   janssen:
     tagline: Dinastia farmaceutica belga, inventori di fentanyl e haloperidol, venduta a Johnson & Johnson
@@ -1703,6 +1934,26 @@ families:
       generation: 4
     - person: simon-keswick
       generation: 4
+  khamenei:
+    tagline: 'Dinastia teocratica iraniana: da Guida Suprema a Guida Suprema, prima successione dinastica della Repubblica
+      Islamica'
+    origin: IRN
+    founder: ali-khamenei
+    sector: politics
+    status: active
+    members:
+    - person: ali-khamenei
+      generation: 1
+      role: founder
+    - person: mojtaba-khamenei
+      generation: 2
+      role: heir
+    - person: mostafa-khamenei
+      generation: 2
+    - person: masoud-khamenei
+      generation: 2
+    - person: meysam-khamenei
+      generation: 2
   kishi-sato-abe:
     origin: JPN
     founder: nobusuke-kishi
@@ -1828,6 +2079,28 @@ families:
     - person: joseph-kushner
       generation: 1
       role: founder
+  landsbergis:
+    tagline: 'Dinastia politica lituana: dal teatro patriottico all''indipendenza, quattro generazioni di potere nazionale'
+    origin: LTU
+    founder: gabrielius-landsbergis-zemkalnis
+    sector: politics
+    status: active
+    members:
+    - person: vytautas-landsbergis
+      generation: 3
+      role: patriarch
+    - person: gabrielius-landsbergis
+      generation: 5
+      role: heir
+    - person: gabrielius-landsbergis-zemkalnis
+      generation: 1
+      role: founder
+    - person: vytautas-landsbergis-zemkalnis
+      generation: 2
+      role: heir
+    - person: vytautas-v-landsbergis
+      generation: 4
+      role: heir
   larrea:
     origin: Mexico
     founder: Jorge Larrea Ortega
@@ -1847,6 +2120,37 @@ families:
       generation: 2
       role: heir
     - person: kevin-warsh
+      role: heir
+  lazard:
+    tagline: Dinastia bancaria franco-americana, da mercanti a potenza globale M&A
+    origin: Lorraine, France
+    founder: alexandre-lazard
+    sector: finance
+    status: active
+    members:
+    - person: alexandre-lazard
+      generation: 1
+      role: founder
+    - person: simon-lazard
+      generation: 1
+      role: founder
+    - person: lazare-lazard
+      generation: 1
+      role: founder
+    - person: elie-lazard
+      generation: 1
+      role: founder
+    - person: alexandre-weill
+      generation: 1
+      role: partner
+    - person: david-david-weill
+      generation: 2
+      role: heir
+    - person: pierre-david-weill
+      generation: 3
+      role: heir
+    - person: michel-david-weill
+      generation: 4
       role: heir
   lee-samsung:
     tagline: La dinastia che controlla il piu' grande chaebol coreano con solo il 4.4% delle azioni ma il 31% dei diritti
@@ -1900,6 +2204,46 @@ families:
     - person: li-hongyi
       generation: 3
       role: member
+  lefebvre:
+    tagline: Dinastia italo-monegasca del luxury travel — da giuristi napoletani a Silversea, Heritage Group e Chair WTTC
+    origin: ITA
+    founder: antonio-lefebvre
+    sector: luxury travel, shipping
+    status: active
+    members:
+    - person: manfredi-lefebvre
+      generation: 3
+      role: heir
+    - person: antonio-lefebvre
+      generation: 2
+      role: patriarch
+    - person: francesco-lefebvre
+      generation: 3
+      role: member
+  lehman:
+    tagline: 'Da mercanti di cotone in Alabama a potenza di Wall Street: tre fratelli bavaresi che crearono una dinastia finanziaria'
+    origin: Rimpar, Bavaria
+    founder: henry-lehman
+    sector: finance
+    status: defunct
+    members:
+    - person: henry-lehman
+      generation: 1
+    - person: philip-lehman
+      generation: 2
+      role: heir
+    - person: robert-lehman
+      generation: 3
+      role: heir
+    - person: emanuel-lehman
+      generation: 1
+      role: founder
+    - person: mayer-lehman
+      generation: 1
+      role: founder
+    - person: herbert-lehman
+      generation: 2
+      role: heir
   lewis-panama:
     origin: Panama
     members:
@@ -1911,6 +2255,22 @@ families:
     sector: pharma
     generations: 4
     status: active
+  loeb:
+    tagline: Dinastia bancaria tedesco-americana, co-fondatrice di Kuhn Loeb & Co.
+    origin: Worms, Germany
+    founder: solomon-loeb
+    sector: finance
+    status: historical
+    members:
+    - person: solomon-loeb
+      generation: 1
+      role: founder
+    - person: james-loeb
+      generation: 2
+      role: heir
+    - person: morris-loeb
+      generation: 2
+      role: heir
   luksic:
     origin: CHL
     founder: Andrónico Luksic Abaroa
@@ -1962,6 +2322,18 @@ families:
     - person: irineu-marinho
       generation: 1
       role: founder
+  marriott:
+    tagline: Dinastia alberghiera USA, fondatori di Marriott International
+    origin: USA
+    sector: hospitality
+    status: active
+    members:
+    - person: david-marriott
+      generation: 3
+      role: heir
+    - person: bill-marriott
+      generation: 2
+      role: leader
   mellon:
     origin: USA
     sector: finance, oil
@@ -1976,6 +2348,46 @@ families:
     - person: richard-mellon-scaife
       generation: 4
       role: heir
+  mendelssohn:
+    tagline: Dalla filosofia illuminista alla piu grande banca privata di Berlino
+    origin: DEU
+    founder: moses-mendelssohn
+    sector: finance
+    status: defunct
+    members:
+    - person: moses-mendelssohn
+      generation: 1
+      role: founder
+    - person: joseph-mendelssohn
+      generation: 2
+      role: heir
+    - person: abraham-mendelssohn
+      generation: 2
+      role: heir
+    - person: alexander-mendelssohn
+      generation: 3
+      role: heir
+    - person: felix-mendelssohn
+      generation: 3
+      role: member
+    - person: franz-von-mendelssohn
+      generation: 4
+      role: heir
+    - person: ernst-von-mendelssohn-bartholdy
+      generation: 4
+      role: heir
+    - person: franz-von-mendelssohn-ii
+      generation: 5
+      role: heir
+    - person: robert-von-mendelssohn
+      generation: 5
+      role: heir
+    - person: fanny-mendelssohn
+      generation: 3
+      role: member
+    - person: lea-salomon
+      generation: 2
+      role: spouse
   mendes-nasi:
     tagline: 'Dinastia bancaria sefardita del XVI secolo. Casa Mendes-Benveniste: una delle piu grandi banche d Europa insieme
       a Fugger e Welser. Controllavano il commercio del pepe nero, finanziavano re e papi, e crearono la rete clandestina
@@ -2139,6 +2551,10 @@ families:
     origin: Panama
     members:
     - person: stanley-motta
+  mulliez:
+    origin: FRA
+    members:
+    - person: gerard-mulliez
   murdoch:
     tagline: La dinastia mediatica che plasma l'opinione pubblica conservatrice nel mondo anglofono
     origin: Australia
@@ -2165,6 +2581,25 @@ families:
     - person: james-murdoch
       generation: 3
       role: excluded
+  nachmann:
+    tagline: Dinastia industriale ebraico-tedesca di Karlsruhe, dal riciclaggio al vertice di Goldman Sachs
+    origin: DEU
+    founder: samuel-nachmann
+    sector: industry
+    status: active
+    members:
+    - person: samuel-nachmann
+      generation: 1
+      role: founder
+    - person: otto-nachmann
+      generation: 2
+      role: heir
+    - person: werner-nachmann
+      generation: 3
+      role: heir
+    - person: marc-nachmann
+      generation: 4
+      role: heir
   nasi:
     tagline: Ramo collaterale degli Agnelli dal 1907. Nobiltà piemontese sposata nella dinastia Fiat. Detiene ~21% di Giovanni
       Agnelli B.V., la cassaforte che controlla Exor.
@@ -2228,6 +2663,25 @@ families:
     - person: spyros-niarchos
       generation: 2
       role: heir
+  noboa:
+    tagline: Dinastia bananiera ecuadoriana, dal commercio di riso al potere presidenziale in tre generazioni
+    origin: ECU
+    founder: luis-noboa-naranjo
+    sector: agriculture
+    status: active
+    members:
+    - person: daniel-noboa
+      generation: 3
+      role: heir
+    - person: alvaro-noboa
+      generation: 2
+      role: heir
+    - person: luis-noboa-naranjo
+      generation: 1
+      role: founder
+    - person: isabel-noboa
+      generation: 2
+      role: heir
   ochs-sulzberger:
     origin: USA
     founder: Adolph Ochs
@@ -2281,6 +2735,28 @@ families:
     - person: athina-onassis
       generation: 3
       role: heir
+  oppenheim:
+    tagline: Dinastia bancaria di Colonia, fondatori di Sal. Oppenheim (1789-2018), Hofjuden degli Arcivescovi-Elettori
+    origin: Cologne, Germany
+    founder: salomon-oppenheim
+    sector: finance
+    generations: 7
+    status: defunct
+    members:
+    - person: salomon-oppenheim
+      generation: 1
+    - person: simon-oppenheim
+      generation: 2
+    - person: abraham-oppenheim
+      generation: 2
+    - person: dagobert-oppenheim
+      generation: 2
+    - person: max-von-oppenheim
+      generation: 4
+    - person: friedrich-carl-von-oppenheim
+      generation: 5
+    - person: albert-oppenheim
+      generation: 3
   oppenheimer:
     tagline: Dinastia che ha controllato il mercato mondiale dei diamanti per quasi un secolo
     origin: South Africa
@@ -2639,6 +3115,10 @@ families:
     - person: rachel-abrams
       generation: 2
       role: member
+  podini:
+    origin: ITA
+    members:
+    - person: patrizio-podini
   porsche-piech:
     origin: Germany/Austria
     founder: Ferdinand Porsche
@@ -2679,6 +3159,21 @@ families:
     - person: susanne-klatten
       generation: 3
       role: heir
+  rathenau:
+    tagline: Dinastia industriale tedesca, fondatrice di AEG
+    origin: DEU
+    founder: emil-rathenau
+    sector: industry
+    status: defunct
+    members:
+    - person: walther-rathenau
+      generation: 2
+      role: heir
+    - person: emil-rathenau
+      generation: 1
+      role: founder
+    - person: erich-rathenau
+      generation: 2
   redstone:
     tagline: 'Da drive-in di Boston a impero media globale: tre generazioni di controllo su Viacom-CBS-Paramount'
     origin: USA
@@ -2723,6 +3218,8 @@ families:
     generations: 6
     status: active
     members:
+    - person: nelson-aldrich
+      role: father-in-law
     - person: john-d-rockefeller-jr
       generation: 2
     - person: david-rockefeller
@@ -2762,6 +3259,10 @@ families:
     - person: moris-tabacinic
       generation: 2
       role: married
+  roig:
+    origin: ESP
+    members:
+    - person: juan-roig
   rothermere:
     origin: UK
     founder: Harold Harmsworth
@@ -2927,6 +3428,23 @@ families:
     - person: anton-rupert
       generation: 1
       role: founder
+  saatchi:
+    tagline: Dinastia pubblicitaria ebraica di Baghdad, creatori dell'agenzia piu grande del mondo
+    origin: IRQ
+    founder: nathan-saatchi
+    sector: media
+    status: active
+    note: Iraqi-Jewish advertising dynasty
+    members:
+    - person: charles-saatchi
+      generation: 2
+      role: founder
+    - person: maurice-saatchi
+      generation: 2
+      role: founder
+    - person: nathan-saatchi
+      generation: 1
+      role: founder
   sabanci-family:
     origin: TUR
     founder: haci-omer-sabanci
@@ -2966,6 +3484,12 @@ families:
       generation: 3
       role: heir
     - person: david-j-safra
+      generation: 3
+      role: heir
+    - person: alberto-safra
+      generation: 3
+      role: heir
+    - person: esther-safra-dayan
       generation: 3
       role: heir
   sahenk:
@@ -3011,6 +3535,25 @@ families:
     members:
     - person: ricardo-salinas-pliego
       generation: 4
+  salomon:
+    tagline: Ramo degli Itzig di Berlino, banchieri di corte, legame materno dei Mendelssohn
+    origin: DEU
+    founder: daniel-itzig
+    sector: finance
+    status: defunct
+    members:
+    - person: daniel-itzig
+      generation: 1
+      role: founder
+    - person: bella-salomon
+      generation: 2
+      role: matriarch
+    - person: lea-salomon
+      generation: 3
+      role: heir
+    - person: jakob-salomon-bartholdy
+      generation: 3
+      role: member
   sassoon:
     tagline: I Rothschild dell Est. Da Baghdad a Bombay, Shanghai e Londra. Monopolio del 70% del commercio di oppio India-Cina.
       Imparentati con i Rothschild. Baronetti e parlamentari britannici.
@@ -3053,6 +3596,21 @@ families:
       role: heir
     - person: albert-saxe-coburg
       generation: 1
+  schiff:
+    tagline: Dinastia bancaria di Francoforte, tre generazioni alla guida di Kuhn Loeb
+    origin: Frankfurt, Germany
+    founder: jacob-schiff
+    sector: finance
+    status: defunct
+    members:
+    - person: jacob-schiff
+      generation: 1
+    - person: mortimer-schiff
+      generation: 2
+      role: heir
+    - person: john-m-schiff
+      generation: 3
+      role: heir
   schnitzer:
     origin: Israel
     founder: moshe-schnitzer
@@ -3087,6 +3645,22 @@ families:
       role: heir
     - person: hillel-schocken
       generation: 3
+      role: heir
+  schwarz:
+    origin: DEU
+    members:
+    - person: dieter-schwarz
+  seligman-family:
+    tagline: 'Otto fratelli bavaresi: banchieri della Guerra Civile, ferrovie, Panama Canal, General Motors'
+    origin: Baiersdorf, Bavaria
+    founder: joseph-seligman
+    sector: finance
+    status: defunct
+    members:
+    - person: joseph-seligman
+      generation: 1
+    - person: isaac-newton-seligman
+      generation: 2
       role: heir
   servitje:
     origin: Catalonia/Mexico
@@ -3195,6 +3769,32 @@ families:
       generation: 3
     - person: chatri-sophonpanich
       generation: 2
+  speyer:
+    tagline: 'Dinastia bancaria ebraico-tedesca di Francoforte: tre rami (NY, Londra, Francoforte), ferrovie USA, metropolitana
+      di Londra, co-fondatrice Uni Frankfurt'
+    origin: DEU
+    founder: michael-isaac-speyer
+    sector: finance
+    status: defunct
+    members:
+    - person: michael-isaac-speyer
+      generation: 1
+      role: founder
+    - person: joseph-lazard-speyer
+      generation: 3
+      role: heir
+    - person: philipp-speyer
+      generation: 4
+      role: heir
+    - person: gustav-speyer
+      generation: 4
+      role: heir
+    - person: james-speyer
+      generation: 5
+      role: heir
+    - person: edgar-speyer
+      generation: 5
+      role: heir
   steinmetz:
     tagline: 'Dai diamanti al mining: l''ascesa e la caduta del "principe" israeliano delle risorse naturali'
     origin: Israel
@@ -3298,7 +3898,8 @@ families:
       generation: 3
       role: heir
   tshuva:
-    origin: Israel
+    tagline: Dinastia energetica e immobiliare israeliana, da Tripoli al gas Leviathan e al Plaza Hotel di New York
+    origin: LBY-ISR
     founder: yitzhak-tshuva
     sector: energy, real estate
     generations: 2
@@ -3344,6 +3945,9 @@ families:
     - person: anderson-cooper
       generation: 6
       role: descendant
+    - person: oliver-belmont
+      generation: 3
+      role: heir
   von-furstenberg:
     tagline: Antica casa principesca tedesca, rinnovata nel XX secolo dal matrimonio con gli Agnelli e dall'impero fashion-media
       Diller-DVF
@@ -3448,12 +4052,31 @@ families:
     - person: siegmund-warburg
       generation: 4
       role: founder-sg-warburg
+    - person: aby-warburg
+      generation: 3
+      role: eldest-son
+    - person: gerson-warburg
+      generation: 1
+      role: co-founder
+  weizmann:
+    tagline: 'Dinastia fondativa di Israele: due presidenti, scienza e difesa'
+    origin: RUS
+    founder: chaim-weizmann
+    sector: politics
+    status: active
+    members:
+    - person: chaim-weizmann
+      generation: 1
+      role: founder
+    - person: ezer-weizman
+      generation: 2
+      role: heir
   wertheimer:
-    tagline: Proprietari di Chanel, "fashion's quietest billionaires
-    origin: France
-    founder: pierre-wertheimer
+    tagline: Da Hofjuden degli Asburgo a proprietari di Chanel, dynasty finanziaria dal XVII secolo
+    origin: Worms, Germania
+    founder: samson-wertheimer
     sector: luxury
-    generations: 4
+    generations: 10
     status: active
     note: Chanel owners. Riservatissimi. Horse racing, vineyards
     members:
@@ -3462,6 +4085,11 @@ families:
       role: patriarch
     - person: gerard-wertheimer
       generation: 3
+    - person: samson-wertheimer
+      role: patriarch
+    - person: issachar-eskeles
+      generation: 2
+      role: heir
   wertheimer-israel:
     origin: Israel
     founder: stef-wertheimer
@@ -3474,6 +4102,24 @@ families:
       role: founder
     - person: eitan-wertheimer
       generation: 2
+      role: heir
+  weston:
+    origin: CAN
+    members:
+    - person: galen-weston-jr
+  wilhelmsen:
+    tagline: Dinastia armatoriale norvegese — fondatori Royal Caribbean, Awilhelmsen AS (~14% RCG), Awilco shipping, Linstow
+      real estate
+    origin: NOR
+    founder: anders-wilhelmsen
+    sector: shipping, cruise, real estate
+    status: active
+    members:
+    - person: arne-wilhelmsen
+      generation: 2
+      role: patriarch
+    - person: alex-wilhelmsen
+      generation: 3
       role: heir
   windsor:
     tagline: La casa regnante britannica — monarchia costituzionale con soft power globale e connessioni ai network transnazionali
@@ -3518,6 +4164,34 @@ families:
     - person: saravoot-yoovidhya
       generation: 2
       role: member
+  yosef:
+    tagline: 'Dinastia rabbinica sefardita: dal rabbinato capo di Israele al controllo di Shas, kingmaker della politica israeliana'
+    origin: IRQ-ISR
+    founder: ovadia-yosef
+    sector: religion
+    status: active
+    members:
+    - person: ovadia-yosef
+      generation: 1
+      role: founder
+    - person: yitzhak-yosef
+      generation: 2
+      role: heir
+    - person: david-yosef
+      generation: 2
+      role: heir
+    - person: yaakov-yosef
+      generation: 2
+      role: heir
+    - person: avraham-yosef
+      generation: 2
+      role: heir
+    - person: moshe-yosef
+      generation: 2
+      role: heir
+    - person: adina-bar-shalom
+      generation: 2
+      role: heir
   zambrano:
     origin: Monterrey
     founder: Lorenzo Zambrano Gutierrez
@@ -3529,3 +4203,52 @@ families:
       generation: 2
     - person: rogelio-zambrano
       generation: 2
+  ziff:
+    tagline: Dinastia media USA. Fondatori Ziff Davis. Fortuna ~$15B via Ziff Brothers Investments
+    origin: USA
+    sector: media
+    status: active
+    members:
+    - person: william-ziff-sr
+      generation: 1
+      role: founder
+    - person: william-ziff-jr
+      generation: 2
+      role: patriarch
+    - person: dirk-ziff
+      generation: 3
+      role: heir
+    - person: robert-ziff
+      generation: 3
+      role: heir
+    - person: daniel-ziff
+      generation: 3
+      role: heir
+  zilkha:
+    tagline: Dinastia bancaria ebraica di Baghdad, rete bancaria mediorientale
+    origin: IRQ
+    founder: khedouri-zilkha
+    sector: finance
+    status: active
+    members:
+    - person: selim-zilkha
+      generation: 2
+      role: heir
+    - person: khedouri-zilkha
+      generation: 1
+      role: founder
+    - person: abdullah-zilkha
+      generation: 2
+      role: heir
+    - person: ezra-zilkha
+      generation: 2
+      role: heir
+    - person: maurice-zilkha
+      generation: 2
+      role: heir
+    - person: donald-zilkha
+      generation: 3
+      role: heir
+    - person: michael-zilkha
+      generation: 3
+      role: heir

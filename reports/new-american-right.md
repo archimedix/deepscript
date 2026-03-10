@@ -9,8 +9,8 @@
 | **Tipo** | Coalizione ideologica-finanziaria |
 | **Periodo** | 2009-oggi (radici 1947, implementazione Reagan-Thatcher 1979-90) |
 | **Epicentro** | Silicon Valley → Washington DC |
-| **Figure centrali** | [Peter Thiel](../docs/persons/peter-thiel.md), JD Vance, Leonard Leo, Steve Bannon, Elon Musk |
-| **Organizzazioni chiave** | Heritage Foundation, Federalist Society, Claremont Institute, Founders Fund, Anduril |
+| **Figure centrali** | [Peter Thiel](../docs/persons/peter-thiel.md), JD Vance, Leonard Leo, Steve Bannon, Elon Musk, dinastia Trump |
+| **Organizzazioni chiave** | Heritage Foundation, Federalist Society, Claremont Institute, Founders Fund, Anduril, [Trump Org](../docs/company/trump-org.md), [World Liberty Financial](../docs/company/world-liberty-financial.md) |
 | **Donazioni politiche (top)** | Musk $277M (2024), Thiel $38M+ (2016-24), Leo/Seid $1.6B (Marble Freedom Trust) |
 | **Risultato** | VP Vance (2025), DOGE, Project 2025 (~50% implementato), 200+ giudici federali |
 
@@ -301,6 +301,61 @@ L'agente unificante è Donald Trump, ma la tensione tra "smantellare lo stato" e
 
 ---
 
+## La Dinastia Trump: Famiglia come Macchina di Potere
+
+Il nodo attorno a cui l'intera coalizione si aggrega non e' un'ideologia ma una **dinastia familiare**. La [Trump Organization](../docs/company/trump-org.md) (~500 entita' sussidiarie, fondata 1927 come Elizabeth Trump & Son) funziona come holding del potere familiare: ogni membro ha un ruolo operativo, ogni ruolo genera connessioni politiche.
+
+### Struttura familiare-operativa
+
+```
+DONALD TRUMP (1946)
+│  Chairman Trump Org (1971-), Presidente USA (2017-21, 2025-)
+│
+├── DONALD TRUMP JR. (1977)
+│   EVP Trump Org (2017-), co-founder World Liberty Financial
+│
+├── IVANKA TRUMP (1981)
+│   Ex EVP Trump Org (2005-17), Senior Advisor Casa Bianca (2017-21)
+│   └── Jared Kushner (marito): Senior Advisor WH, poi Affinity Partners ($3B AUM, funding SAU/ARE)
+│
+├── ERIC TRUMP (1984)
+│   EVP Trump Org (2006-), Trump Golf (3→21+ proprieta'), co-founder World Liberty Financial
+│   └── Lara Trump (moglie): co-chair RNC (Mar-Dec 2024)
+│
+└── BARRON TRUMP (2006)
+    Influencer Gen-Z della campagna 2024
+```
+
+### Tre livelli di integrazione famiglia-potere
+
+| Livello | Meccanismo | Esempio |
+|---------|-----------|---------|
+| **Business → Politica** | Risorse e brand | Trump Org finanzia, Trump brand mobilita |
+| **Famiglia → Partito** | Controllo diretto | Lara Trump co-chair RNC 2024; nomine familiari al governo |
+| **Famiglia → Crypto** | [World Liberty Financial](../docs/company/world-liberty-financial.md) | Don Jr. + Eric co-fondatori; ARE acquista 49% ($500M) 4 giorni prima inaugurazione 2025 |
+
+### L'infrastruttura di fedelta'
+
+Il cerchio interno non e' solo familiare: include figure la cui lealta' personale a Trump precede e supera l'ideologia:
+
+| Persona | Ruolo | Lealta' |
+|---------|-------|---------|
+| [Allen Weisselberg](../docs/persons/allen-weisselberg.md) | Ex CFO Trump Org (1973-2022) | 50 anni al servizio di Trump; condannato per frode fiscale e spergiuro, non ha mai testimoniato contro Trump personalmente |
+| [Paula White-Cain](../docs/persons/paula-white-cain.md) | Spiritual advisor (2002-), Chair American Values AFPI | Consigliera spirituale personale dal 2002; prima donna clergy all'inaugurazione; Senior Adviser Faith Office in entrambi i mandati |
+| [Michael Cohen](../docs/persons/michael-cohen.md) | Ex avvocato personale | Unico del cerchio interno a rompere il patto di lealta' |
+
+### Convergenza dinastia-ideologia
+
+La famiglia Trump e' il punto di convergenza delle tre gambe della coalizione:
+
+- **Tech-libertari** → via World Liberty Financial (crypto, Thiel/Musk network)
+- **Evangelici** → via Paula White-Cain (Faith Office, mobilitazione voto religioso)
+- **Populisti** → via Trump brand e MAGA movement
+
+Il modello e' unico nella politica americana moderna: nessuna famiglia dal tempo dei Kennedy ha controllato simultaneamente un partito (RNC), un impero economico (Trump Org), un veicolo finanziario crypto (WLF) e una base di mobilitazione religiosa (Faith Office).
+
+---
+
 ## Timeline
 
 | Anno | Evento |
@@ -358,8 +413,10 @@ L'agente unificante è Donald Trump, ma la tensione tra "smantellare lo stato" e
 | **Apr 2023** | Pubblicato Project 2025 (920 pagine) |
 | **Jul 2024** | Roberts: "seconda rivoluzione americana"; Trump sceglie Vance come VP |
 | **Jul 2024** | Musk endorsa Trump dopo tentato assassinio; dona $277M |
+| **Sep 2024** | Trump annuncia World Liberty Financial (crypto/DeFi): Don Jr. e Eric Trump co-fondatori |
 | **Nov 2024** | Trump vince; annuncia DOGE (Musk+Ramaswamy); Sacks AI/Crypto Czar |
-| **Jan 2025** | DOGE operativo; Ramaswamy esce, Musk prende controllo totale |
+| **Dec 2024** | Lara Trump si dimette da co-chair RNC |
+| **Jan 2025** | DOGE operativo; Ramaswamy esce, Musk prende controllo totale; ARE acquista 49% di World Liberty Financial ($500M, 4 giorni prima inaugurazione) |
 | **Feb 2025** | Anduril: contratto Army $20B+; Palantir +336% |
 | **Mar 2025** | Kratsios confermato OSTP Director (74-25) |
 | **Sep 2025** | NatCon 5 a Washington DC |
@@ -395,7 +452,11 @@ L'alleanza Reagan-Thatcher stabilisce il modello di coordinamento transatlantico
 
 L'infrastruttura transatlantica ha anche un livello strutturale permanente, antecedente al NatCon: la catena **Atlas Network → EPICENTER → 12 think tank europei** funziona come pipeline ideologico USA→UE. Il pattern revolving door si replica in Europa con la stessa logica: in Svezia, **Benjamin Dousa** passa da CEO di Timbro (think tank Atlas/EPICENTER) a Ministro per il Commercio Estero (2024); in Italia, **[Carlo Stagnaro](../docs/persons/carlo-stagnaro.md)** oscilla tra Istituto Bruno Leoni (Research Director) e Ministero dello Sviluppo Economico (capo staff tecnico 2015-18, poi task force PNRR Draghi 2021). L'IBL stesso e' un caso studio di struttura organizzativa: **[Alberto Mingardi](../docs/persons/alberto-mingardi.md)** (DG) e' contemporaneamente segretario della MPS, adjunct scholar al Cato Institute e collaboratore di Heritage — triplo ancoraggio al network USA. Il presidente **[Franco Debenedetti](../docs/persons/franco-debenedetti.md)** (ex AD Olivetti, fratello di Carlo De Benedetti) porta la credibilita' del grande capitalismo industriale. Il modello Weyrich/Heritage → governo americano ha i suoi equivalenti europei, piu' piccoli ma strutturalmente identici. In Italia, la genealogia Einaudi (PdR/MPS) → Leoni (segretario MPS) → [Martino](../docs/persons/antonio-martino.md) (presidente MPS/ministro, allievo Friedman) → IBL (Mingardi segretario MPS, Stagnaro al ministero) documenta 75 anni di continuita' nel pipeline accademia → think tank → governo.
 
-### 9. L'infrastruttura globale a cinque strati
+### 9. Dinastia come infrastruttura
+
+La famiglia Trump ha costruito un modello senza precedenti nella politica americana moderna: controllo simultaneo di partito (Lara Trump co-chair RNC 2024), impero commerciale ([Trump Organization](../docs/company/trump-org.md), ~500 entita'), veicolo finanziario crypto ([World Liberty Financial](../docs/company/world-liberty-financial.md), stake ARE $500M), e base religiosa ([Paula White-Cain](../docs/persons/paula-white-cain.md), Faith Office). L'impero e' gestito come azienda di famiglia — i figli (Don Jr., Eric, Ivanka) hanno ruoli operativi, i coniugi (Jared Kushner, Lara Trump) ruoli politici, i fedelissimi ([Allen Weisselberg](../docs/persons/allen-weisselberg.md), 50 anni di servizio) garantiscono la continuita'. Il caso Weisselberg e' paradigmatico: condannato due volte (frode fiscale 2022, spergiuro 2024), non ha mai testimoniato contro Trump personalmente — la lealta' dinastica supera il sistema legale.
+
+### 10. L'infrastruttura globale a cinque strati
 La rete di diffusione delle idee opera su cinque strati concentrici:
 
 ```

@@ -32,7 +32,6 @@ sartre,  macussen : indipendenza degli stati
 
 Telcom
 F1
-iran/iraq, khomeini
 gheddafi -> Sarkozy
 
 
@@ -47,7 +46,6 @@ Silicon Valley
 
 Blockbuster
 qualcomm
-Netscape
 
 
 Silicon Valley Billionaires Club
@@ -178,4 +176,5 @@ Springer: casa editrice tedesca (MI6) -> Feltrinelli
 - Anthony Blunt
 - John Cairncross
 - Arnold Deutsch
+
 

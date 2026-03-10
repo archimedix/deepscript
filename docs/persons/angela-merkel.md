@@ -203,24 +203,32 @@
 
 ## Connessioni con Altre Entita' PowerLink
 
-### Istituzioni
+### Organizzazioni
 
 | Entita' | Connessione |
 |---------|-------------|
-| [Young Global Leaders](../istituzioni/young-global-leaders.md) | GLT classe 1992 (inaugurale) |
-| [WEF](../istituzioni/wef.md) | 12+ keynote Davos |
-| [Bilderberg](../istituzioni/bilderberg-trilaterale.md) | Partecipante pre-cancellierato |
-| [BCE](../istituzioni/bce.md) | Coordinamento crisi euro |
+| [WEF](../forum/wef.md) | GLT classe 1992 (inaugurale), 12+ keynote Davos |
+| [Bilderberg](../forum/bilderberg.md) | Partecipante 2005 (pre-cancellierato) |
+| [Munich Security Conference](../forum/munich-security-conference.md) | Keynote speaker come Cancelliera |
+| [CDU](../company/cdu.md) | Party Chairwoman 2000-2018 |
+| [Governo Germania](../government/governo-germania.md) | Cancelliera 2005-2021 |
+| [Konrad-Adenauer-Stiftung](../foundation/konrad-adenauer-stiftung.md) | Fondazione CDU |
+| [University of Leipzig](../university/university-leipzig.md) | Physics 1973-1978 |
+| [Academy of Sciences DDR](../university/academy-sciences-ddr.md) | PhD Quantum Chemistry 1986 |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
+| [Helmut Kohl](helmut-kohl.md) | Mentore, la lancio' in politica 1991 ("Das Mädchen") |
 | [Klaus Schwab](klaus-schwab.md) | GLT 1992, WEF |
 | [Mario Draghi](mario-draghi.md) | Partner crisi euro |
 | [Christine Lagarde](christine-lagarde.md) | FMI, BCE |
-| [Tony Blair](tony-blair.md) | Stessa classe GLT 1992 |
-| [Emmanuel Macron](emmanuel-macron.md) | Successore leadership UE |
+| [Emmanuel Macron](emmanuel-macron.md) | Asse franco-tedesco |
+| [Christoph Heusgen](christoph-heusgen.md) | Consigliere politica estera 2005-2017 |
+| [Ursula von der Leyen](ursula-von-der-leyen.md) | Protetta, ministra poi presidente Commissione UE |
+| [Friedrich Merz](friedrich-merz.md) | Rivale CDU, successore alla cancelleria |
+| [Olaf Scholz](olaf-scholz.md) | Successore come Cancelliere 2021 |
 
 ---
 
@@ -282,4 +290,4 @@ Merkel rappresenta un caso unico nella pipeline YGL:
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Marzo 2026*

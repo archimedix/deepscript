@@ -37,20 +37,20 @@ Nel novembre 1910, sei uomini si incontrarono segretamente al Jekyll Island Club
 
 | Nome | Ruolo | Rappresentava |
 |------|-------|---------------|
-| **Nelson Aldrich** | Senatore Repubblicano, Rhode Island | Interessi Morgan/Rockefeller |
-| **A. Piatt Andrew** | Assistente Segretario al Tesoro | Governo USA |
-| **Henry Davison** | Senior Partner, J.P. Morgan & Co. | J.P. Morgan |
-| **Frank Vanderlip** | Presidente, National City Bank | Rockefeller, Kuhn Loeb |
-| **Paul Warburg** | Partner, Kuhn, Loeb & Co. | Banche europee |
+| [**Nelson Aldrich**](../persons/nelson-aldrich.md) | Senatore Repubblicano, Rhode Island | Interessi Morgan/Rockefeller |
+| [**A. Piatt Andrew**](../persons/piatt-andrew.md) | Assistente Segretario al Tesoro | Governo USA |
+| [**Henry Davison**](../persons/henry-davison.md) | Senior Partner, J.P. Morgan & Co. | J.P. Morgan |
+| [**Frank Vanderlip**](../persons/frank-vanderlip.md) | Presidente, National City Bank | Rockefeller, Kuhn Loeb |
+| [**Paul Warburg**](../persons/paul-warburg.md) | Partner, Kuhn, Loeb & Co. | Banche europee |
 | **Arthur Shelton** | Segretario privato di Aldrich | Supporto logistico |
 
 ### Chi Organizzo'
 
 | Aspetto | Dettaglio |
 |---------|-----------|
-| **Promotore** | Nelson Aldrich |
+| **Promotore** | [Nelson Aldrich](../persons/nelson-aldrich.md) |
 | **Location** | Fornita da membro Jekyll Island Club (probabilmente J.P. Morgan) |
-| **Idea intellettuale** | Paul Warburg (esperto sistemi bancari europei) |
+| **Idea intellettuale** | [Paul Warburg](../persons/paul-warburg.md) (esperto sistemi bancari europei) |
 
 ### Il "First Name Club"
 
@@ -62,7 +62,7 @@ Per evitare che il personale di servizio riconoscesse i potenti partecipanti:
 - Piatt (Andrew)
 - Arthur (Shelton)
 
-> Benjamin Strong (futuro primo CEO della NY Fed) potrebbe essere stato presente, ma le fonti sono contraddittorie.
+> [Benjamin Strong](../persons/benjamin-strong.md) (futuro primo CEO della NY Fed) potrebbe essere stato presente, ma le fonti sono contraddittorie.
 
 ---
 
@@ -118,9 +118,14 @@ Per evitare che il personale di servizio riconoscesse i potenti partecipanti:
 
 | Persona | Connessione |
 |---------|-------------|
-| [David Rockefeller](../persons/david-rockefeller.md) | Nipote di John D. Rockefeller Jr., genero di Aldrich |
-| [Nelson Aldrich](../persons/nelson-aldrich.md) | Suocero di John D. Rockefeller Jr. |
-| [Paul Warburg](../persons/paul-warburg.md) | Figlio James Warburg sara' CFR |
+| [Nelson Aldrich](../persons/nelson-aldrich.md) | Organizzatore, senatore, suocero di John D. Rockefeller Jr. |
+| [Paul Warburg](../persons/paul-warburg.md) | Architetto intellettuale, Kuhn Loeb; figlio James sara' CFR |
+| [Henry Davison](../persons/henry-davison.md) | Senior Partner J.P. Morgan, poi fondatore League of Red Cross |
+| [A. Piatt Andrew](../persons/piatt-andrew.md) | Assistant Secretary of Treasury, poi Congressman |
+| [Frank Vanderlip](../persons/frank-vanderlip.md) | Presidente National City Bank, interessi Rockefeller |
+| [Benjamin Strong](../persons/benjamin-strong.md) | Bankers Trust, poi primo governatore NY Fed |
+| [John D. Rockefeller Sr.](../persons/john-d-rockefeller-sr.md) | Interessi rappresentati via Vanderlip e Aldrich |
+| [David Rockefeller](../persons/david-rockefeller.md) | Nipote; eredito' il network (CFR, Trilateral) |
 
 ### Istituzioni
 
@@ -232,4 +237,4 @@ Sei uomini, rappresentanti dei maggiori interessi finanziari del paese, si incon
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Marzo 2026*

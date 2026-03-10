@@ -89,6 +89,7 @@
 | [Shimon Peres](shimon-peres.md) | Negoziatore Oslo, Premio Nobel |
 | Khalil al-Wazir (Abu Jihad) | Co-fondatore Fatah |
 | Mahmoud Abbas | Successore, negoziatore Oslo |
+| [Moshe Hirsch](moshe-hirsch.md) | Leader Neturei Karta, nominato "Minister of Jewish Affairs" |
 
 ---
 
@@ -170,6 +171,7 @@ All'ultimo momento, Arafat cambio' l'ordine degli interventi e pronuncio' un dis
 | [Otto Skorzeny](otto-skorzeny.md) | Mentor, addestramento commando (1953-54) |
 | [Yitzhak Rabin](yitzhak-rabin.md) | Partner Oslo |
 | [Shimon Peres](shimon-peres.md) | Partner Oslo |
+| [Moshe Hirsch](moshe-hirsch.md) | Ally, Minister of Jewish Affairs di NK (1994-2004) |
 
 ---
 
@@ -217,4 +219,4 @@ All'ultimo momento, Arafat cambio' l'ordine degli interventi e pronuncio' un dis
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Marzo 2026*

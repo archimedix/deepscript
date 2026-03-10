@@ -112,9 +112,17 @@ Thiel cercava un CEO che potesse fare da ponte tra tech e politica, idealismo e 
 
 | Forum | Partecipazione |
 |-------|----------------|
-| **WEF Davos** | Regular participant, speaker |
+| **[Bilderberg](../forum/bilderberg.md)** | Steering Committee member, attendee dal 2012 |
+| **[WEF Davos](../forum/wef.md)** | Regular participant, speaker |
+| **[Atlantik-Brücke](../forum/atlantik-bruecke.md)** | Member, transatlantic network |
+| **Sun Valley Conference** | Attendee 2025 |
 
-**Nota**: A differenza di Thiel (Bilderberg member), Karp non ha affiliazioni formali ai forum elite. Potere basato su corporate, non network.
+### Board Corporate
+
+| Azienda | Periodo | Ruolo |
+|---------|---------|-------|
+| **[Axel Springer SE](../media/axel-springer.md)** | 2018-2020 | Non-executive board member |
+| **BASF SE** | -2020 | Supervisory board member |
 
 ### Network Professionale
 
@@ -173,9 +181,14 @@ Karp e' co-autore di "The Technological Republic: Hard Power, Soft Belief, and t
 | Entita' | Connessione |
 |---------|-------------|
 | [Palantir](../company/palantir.md) | CEO, co-founder (2003-) |
+| [Bilderberg](../forum/bilderberg.md) | Steering Committee (2012-) |
 | [WEF](../forum/wef.md) | Davos participant |
+| [Atlantik-Brücke](../forum/atlantik-bruecke.md) | Member |
+| [Axel Springer SE](../media/axel-springer.md) | Board (2018-2020) |
+| BASF SE | Supervisory Board (-2020) |
 | Stanford University | J.D. 1992 |
 | Goethe University Frankfurt | Ph.D. 2002 |
+| Haverford College | B.A. Philosophy 1989 |
 
 ### Persone
 
@@ -272,4 +285,4 @@ Il suo auto-definirsi "socialista" mentre accumula $18B da contratti government 
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Marzo 2026*

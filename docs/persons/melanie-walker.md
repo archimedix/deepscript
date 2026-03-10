@@ -36,7 +36,9 @@
 | **2010s** | Senior Advisor (secondment Gates) | World Bank |
 | **2011** | Young Global Leader | WEF |
 | **attuale** | Clinical Professor Neurological Surgery | University of Washington |
+| **attuale** | Neurotechnology & brain science adviser | Gates Ventures / bgC3 |
 | **attuale** | Co-chair Global Future Council Neurotechnology | WEF |
+| **attuale** | David Rockefeller Fellow | - |
 
 ### Cronologia chiave
 
@@ -77,6 +79,8 @@
 | [Bill Gates](../company/microsoft.md) | Advisor alla Gates Foundation; facilito' introduzione Gates-Epstein |
 | [Boris Nikolic](boris-nikolic.md) | Colleghi nell'orbita Gates; introdusse Nikolic a Epstein |
 | [Steven Sinofsky](steven-sinofsky.md) | Coniuge; ex presidente Windows Division Microsoft |
+| [Philippa Sigl-Glockner](philippa-sigl-glockner.md) | Mentore; la introdusse nella rete Epstein-Wyler |
+| [Greg Wyler](greg-wyler.md) | Network Epstein; satelliti Africa via PSG |
 
 ---
 
@@ -87,8 +91,10 @@
 | Aspetto | Dettaglio |
 |---------|-----------|
 | **Connettore** | Figura chiave nel collegare il network Epstein alla galassia Gates |
-| **Secondment** | Posizione alla World Bank pagata dalla Gates Foundation |
+| **Secondment** | Posizione alla World Bank pagata dalla Gates Foundation; Direttore President's Delivery Unit sotto Jim Yong Kim |
 | **Credibilita' scientifica** | Background medico d'eccellenza usato come copertura per ruoli di networking |
+| **Talent scout** | Introdusse giovani talenti (es. Philippa Sigl-Glockner) nella rete Epstein |
+| **Ricerca finanziata** | Richiese $6M a Epstein per trial trapianto mitocondri per ictus (email EFTA00956869) |
 
 ---
 
@@ -99,6 +105,8 @@
 | Connessione Epstein | 1992-2010s | Incontro iniziale al Plaza Hotel; ruolo di Science Advisor; ponte verso Gates/Nikolic |
 | Secondment World Bank | 2010s | Posizione alla World Bank interamente finanziata dalla Gates Foundation |
 | Introduzione Gates-Epstein | ~2010 | Facilito' tramite Boris Nikolic il primo incontro tra Gates ed Epstein |
+| Talent scouting per Epstein | 2018 | Email a Epstein presentando PSG come "awesome young staffer" che entra nel BND e Min. Finanze |
+| Richiesta fondi Epstein | pre-2019 | $6M richiesti per trial mitocondri (email EFTA00956869) |
 
 ---
 
@@ -113,15 +121,18 @@
 | [WEF](../forum/wef.md) | YGL 2011; Co-chair Future Council |
 | [WHO](../agency/who.md) | Advisor Macroeconomics & Health |
 | [Microsoft](../company/microsoft.md) | Via coniuge Steven Sinofsky |
+| [Gates Ventures / bgC3](../company/gates-ventures.md) | Neurotechnology & brain science adviser |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
-| [Jeffrey Epstein](jeffrey-epstein.md) | Associate dal 1992 |
+| [Jeffrey Epstein](jeffrey-epstein.md) | Associate dal 1992; Science Advisor 1998 |
 | [Bill Gates](bill-gates.md) | Advisor; facilito' connessione con Epstein |
 | [Boris Nikolic](boris-nikolic.md) | Colleghi; ponte verso Epstein |
 | [Steven Sinofsky](steven-sinofsky.md) | Coniuge |
+| [Philippa Sigl-Glockner](philippa-sigl-glockner.md) | Mentore; scouting per rete Epstein |
+| [Greg Wyler](greg-wyler.md) | Network Epstein; satelliti Africa |
 
 ---
 
@@ -138,6 +149,19 @@
 | **2006** | Trasferimento a Seattle; relazione con Sinofsky |
 | **~2010** | Introduce Boris Nikolic a Epstein → primo incontro Gates-Epstein |
 | **2011** | WEF Young Global Leader |
+| **2018** | Email a Epstein su Philippa Sigl-Glockner: "awesome young staffer" entra nel BND/Min. Finanze |
+| **pre-2019** | Richiede $6M a Epstein per trial trapianto mitocondri per ictus |
+
+---
+
+## Email Epstein (DOJ Files)
+
+| Codice | Contenuto |
+|--------|-----------|
+| **EFTA00956869** | Proposta dettagliata trapianto mitocondri per ictus ischemico; richiesta $6M, operazioni a Seattle |
+| **EFTA00652215** | Bozza lettera a Gates: "women in science/medicine can do great things. I want to be one of them"; riferimento a incarico bgC3 |
+| **EFTA00680010** | Thread con Gates e Casey Tegreene sulla fellowship in neurochirurgia endovascolare |
+| **giugno 2018** | A Epstein: "You remember one of my awesome young staffers... Philippa finished her master's in compsci and starts a job with the super elite German secret service" |
 
 ---
 
@@ -145,8 +169,9 @@
 
 - [ ] Date esatte dei periodi alla Gates Foundation e World Bank
 - [ ] Anno esatto di nascita (stimato ~1969)
-- [ ] Dettagli del ruolo di "Science Advisor" per Epstein
-- [ ] Natura esatta del secondment Gates Foundation → World Bank
+- [ ] Natura esatta del David Rockefeller Fellowship
+- [ ] Esito della richiesta $6M a Epstein per trial mitocondri
+- [ ] Ruolo esatto nella connessione Philippa → Greg Wyler → satelliti
 
 ---
 
@@ -159,4 +184,4 @@
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

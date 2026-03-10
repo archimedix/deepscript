@@ -74,6 +74,11 @@ david-rockefeller
 alfred-sherman
 james-baker
 
+[v] paula-white-cain : Televangelista, prosperity gospel leader e consigliera spirituale di Donald Trump; Chair of American Values all'America First Policy Institute
+[√] trump-org :Conglomerato privato della famiglia Trump: real estate, hotel, golf, casino' — centro del potere economico dinastico Trump
+[v] allen-weisselberg : CFO della Trump Organization per quasi 50 anni; uomo dei numeri di Donald Trump, condannato per frode fiscale e spergiuro
+[v] eric-trump : Executive Vice President della Trump Organization; co-gestore dell'impero immobiliare Trump dal 2017, co-fondatore World Liberty Financial (crypto)
+
 [] bechtel
 [] charles-koch-foundation
 bohemian-club

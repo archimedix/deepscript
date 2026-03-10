@@ -12,6 +12,7 @@
 | **Orientamento** | Dichiaratamente gay (dal 2016) |
 | **Nazionalita'** | DEU-USA-NZL (cittadinanza NZ dal 2011) |
 | **Patrimonio** | ~$27.5 miliardi (Dic 2025, trainato da Palantir) |
+| **Coniuge** | Matt Danzeisen (sposato 2017) |
 | **Residenza** | Los Angeles, Miami |
 
 ---
@@ -42,6 +43,8 @@
 | **2010-oggi** | Valar Ventures | VC fintech internazionale |
 | **2011-oggi** | [Thiel Capital](../company/thiel-capital.md) | Family office (braccio VC Rivendell Trust) |
 | **2012-oggi** | Mithril Capital | Growth-stage fund |
+| **2006-oggi** | [Dialog](../forum/dialog-forum.md) | Co-fondatore con Auren Hoffman, "Tech Bilderberg" |
+| **~2015-oggi** | [Rivada Space Networks](../company/rivada-networks.md) | Backer principale, costellazione LEO 600 satelliti |
 | **2016-oggi** | Politica GOP | Mega-donor, kingmaker |
 
 ### PayPal (1998-2002)
@@ -95,6 +98,7 @@ Thiel e' considerato il "capo" della PayPal Mafia:
 | **SpaceX** | Investor | Crescita |
 | **Anduril** | $1B Series G (Giu 2025) | Piu' grande investimento FF |
 | **Quantum Systems** | Series C (Nov 2025) | Primo unicorno dual-use EU |
+| **Rivada Space Networks** | Backer principale | LEO 600 sat, competitor Starlink |
 
 ### Thiel Capital e Struttura Rivendell Trust
 
@@ -135,6 +139,19 @@ Sebastian Kurz, Global Strategist a Thiel Capital dal 2022, ha co-fondato [Dream
 | **Hulio → Unit 8200** | Veteran intelligence israeliana |
 
 > La traiettoria Palantir (intelligence USA) → Thiel Capital → Dream Security (intelligence governi) configura un ecosistema di sorveglianza che collega Silicon Valley, intelligence israeliana e governi europei/mediorientali.
+
+### Rivada Space Networks
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Progetto** | Costellazione LEO 600 satelliti con laser inter-satellite links |
+| **CEO** | Declan Ganley (imprenditore irlandese) |
+| **Base** | Monaco, Germania |
+| **Target** | Competitor Starlink, focus su connettività sicura governi/enterprise |
+| **Status** | Deve lanciare 300 sat entro estate 2026 (regole ITU) |
+| **Spettro** | Vinta disputa con entità cinesi per diritti spettro (Dic 2025) |
+
+> Con Rivada, Thiel compete direttamente con Musk (Starlink) nello spazio.
 
 ### Próspera (Charter City)
 
@@ -191,13 +208,30 @@ Sebastian Kurz, Global Strategist a Thiel Capital dal 2022, ha co-fondato [Dream
 | **DOGE** | David Sacks (ex-PayPal) coinvolto |
 | **Differenze** | Musk piu' pubblico, Thiel piu' dietro le quinte |
 
+### Dialog ("Tech Bilderberg")
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 2006, co-fondato con Auren Hoffman |
+| **Formato** | Invite-only, no speeches, sessioni off-the-record 8-12 persone |
+| **Espansione** | Campus in suburbs Washington D.C. (2025) |
+| **Membri noti** | Reid Hoffman, Elon Musk, Larry Summers, Kaja Kallas, Jared Kushner, Eric Schmidt, Ted Cruz, Tulsi Gabbard, Henry Kravis, Chamath Palihapitiya |
+
+> Dialog e' il forum privato di Thiel: dove il Bilderberg riunisce establishment, Dialog riunisce il nuovo potere tech-politico.
+
 ### Bilderberg
 
 | Anno | Partecipazione |
 |------|----------------|
+| **2007-2016** | Partecipante regolare |
+| **2019** | Partecipante |
+| **2022** | Partecipante |
+| **2023** | Partecipante |
 | **2024** | Partecipante (Madrid) |
+| **2025** | Partecipante (Stoccolma) |
+| **Ruolo** | **Steering Committee member** |
 
-> Paradossale: Thiel critica il "globalismo" ma partecipa al Bilderberg.
+> Paradossale: Thiel critica il "globalismo" ma siede nello Steering Committee del Bilderberg.
 
 ### Trump Administration (2025)
 
@@ -342,7 +376,9 @@ Sebastian Kurz, Global Strategist a Thiel Capital dal 2022, ha co-fondato [Dream
 | [Founders Fund](../private-equity/founders-fund.md) | Partner fondatore (2005-) |
 | [Palantir](../company/palantir.md) | Co-fondatore, Chairman (2004-) |
 | [Young Global Leaders](../istituzioni/young-global-leaders.md) | YGL 2007 |
-| [Bilderberg](../istituzioni/bilderberg-trilaterale.md) | Partecipante 2024 |
+| [Bilderberg](../forum/bilderberg.md) | Steering Committee (2007-) |
+| [Dialog](../forum/dialog-forum.md) | Co-fondatore (2006-) |
+| [Rivada Space Networks](../company/rivada-networks.md) | Backer principale |
 
 ### Persone
 
@@ -365,6 +401,7 @@ Sebastian Kurz, Global Strategist a Thiel Capital dal 2022, ha co-fondato [Dream
 | [Trae Stephens](trae-stephens.md) | Thiel Fellow, FF partner, co-founder Anduril |
 | [Nicole Junkermann](nicole-junkermann.md) | Co-investitrice |
 | [Klaus Schwab](klaus-schwab.md) | Fondatore WEF/YGL |
+| [Auren Hoffman](auren-hoffman.md) | Co-fondatore Dialog (2006) |
 
 ---
 
@@ -395,9 +432,15 @@ Sebastian Kurz, Global Strategist a Thiel Capital dal 2022, ha co-fondato [Dream
 | **2025** | Palantir contratto DoD AI battlefield +$795M |
 | **2025** | Founders Fund Growth III: $4.6B fund (Apr) |
 | **2025** | FF investe $1B in Quantum Systems (Nov) |
+| **2025** | Bilderberg Stoccolma |
+| **2025** | Thiel Macro liquida tutte le posizioni azionarie (Q4 2023, confermato) |
+| **2025** | Disinveste completamente da ETHZilla (crypto exit, fine 2025) |
+| **2025** | Dic: dona $3M contro wealth tax California (più grande donazione dal 2022) |
 | **2026** | Patrimonio netto ~$27.5B |
-| **2026** | Rivelazioni Epstein-Valar: $40M+ LP, disputa su "co-proprietà" |
+| **2026** | Thiel Capital raccoglie $300M da family offices globali per bet su tech USA |
+| **2026** | Rivelazioni Epstein-Valar: $40M+ LP, 5 anni di corrispondenza, disputa su "co-proprietà" |
 | **2026** | Próspera: disputa legale $11B con Honduras |
+| **2026** | Rivada Space Networks: scadenza ITU 300 sat entro estate 2026 |
 
 ---
 
@@ -429,15 +472,20 @@ Sebastian Kurz, Global Strategist a Thiel Capital dal 2022, ha co-fondato [Dream
 
 ### Analisi
 - [Bloomberg - Thiel's Trump Administration Connections](https://www.bloomberg.com/features/2025-peter-thiel-trump-administration-connections/)
+- [Bloomberg - Thiel's Money Manager Seeks $300M](https://www.bloomberg.com/news/articles/2026-02-24/peter-thiel-s-money-manager-courts-world-s-mega-rich-for-us-bets)
 - [Washington Post - Thiel Network](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/)
-- [InfluenceWatch - Peter Thiel](https://www.influencewatch.org/)
+- [Washington Blade - Thiel's Expanding Power & Epstein Overlap](https://www.washingtonblade.com/2026/03/04/peter-thiel-expanding-power-overlap-jeffrey-epstein/)
 - [NPR - How Palantir is rising in the Trump era](https://www.npr.org/2025/05/01/nx-s1-5372776/palantir-tech-contracts-trump)
 - [CNBC - Palantir's astronomical growth in 3 charts](https://www.cnbc.com/2025/08/14/palantir-ai-charts-revenue.html)
+- [Fortune - Thiel $3M vs California Wealth Tax](https://fortune.com/2026/01/14/peter-thiel-makes-his-biggest-donation-in-years-to-help-defeat-californias-billionaire-wealth-tax/)
 - [Revolving Door Project - Oligarchs and Trump: Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/)
 - [Byline Times - Epstein-Thiel Valar Ventures](https://bylinetimes.com/2026/02/04/jeffrey-epstein-and-peter-thiel-co-owned-venture-fund-as-thiels-palantir-entered-uk-government/)
 - [The Nation - What Peter Thiel Saw in Jeffrey Epstein](https://www.thenation.com/article/society/peter-thiel-jeffrey-epstein-democracy/)
 - [Truthout - Peter Thiel Próspera Honduras](https://truthout.org/articles/peter-thiel-is-unleashing-a-neocolonial-billionaire-fantasy-in-honduras/)
+- [Axios - Dialog Secret Forum D.C. Campus](https://www.axios.com/2025/08/07/dialog-secret-network-thiel-hoffman)
+- [Gizmodo - Dialog "Tech Bilderberg"](https://gizmodo.com/secretive-peter-thiel-founded-tech-bilderberg-group-is-moving-up-in-the-world-2000640214)
+- [SatNews - Rivada Space Networks](https://satnews.com/2026/01/09/rivada-space-networks-time-for-an-announcement/)
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

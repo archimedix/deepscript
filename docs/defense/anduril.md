@@ -11,8 +11,9 @@
 | **Tipo** | Defense / Company |
 | **Leadership** | Brian Schimpf (CEO), Palmer Luckey (CTO), Trae Stephens (Executive Chairman) |
 | **Dipendenti** | ~7.000 |
-| **Revenue** | ~$1B (2024) |
-| **Valutazione** | $30.5B (Series G, giugno 2025); ~$60B in trattativa (Series H, 2026) |
+| **Revenue** | ~$2B (2025, raddoppiata da $1B nel 2024) |
+| **Valutazione** | $60B (Series H, marzo 2026) |
+| **Totale raccolto** | ~$10.3B in 7 round |
 | **Status** | active (private, IPO anticipata) |
 
 ---
@@ -74,7 +75,11 @@ Quando nel marzo 2017 Luckey viene estromesso da Facebook (secondo lui per il su
 | **2025 set** | Anduril-Meta e Rivet selezionate per SBMC (successore IVAS) |
 | **2025 ott** | Primo volo semi-autonomo del Fury (YFQ-44A) |
 | **2025 dic** | Cina sanziona personalmente Palmer Luckey (tra 10 dirigenti USA) per $11B armi a Taiwan |
-| **2026** | Trattative Series H: fino a $8B, valutazione ~$60B |
+| **2026 feb** | Palmer Luckey visita segreta in Israele: incontra Netanyahu, 10 startup defense israeliane |
+| **2026 mar** | Series H: $4B, valutazione $60B (co-lead a16z + Thrive Capital/Josh Kushner) |
+| **2026 mar** | Fury YFQ-44A testa Lattice + Shield AI Hivemind in volo, switch software mid-flight |
+| **2026 lug** | Arsenal-1 Ohio: inizio produzione previsto |
+| **2026** | Mississippi: 6.000 motori a razzo/anno previsti entro fine anno |
 
 ---
 
@@ -90,6 +95,16 @@ Quando nel marzo 2017 Luckey viene estromesso da Facebook (secondo lui per il su
 | COO | [Matt Grimm](../persons/matt-grimm.md) | 2017 |
 | CFO | Babak Siavoshy | - |
 | President/CBO | [Matthew Steckman](../persons/matthew-steckman.md) | 2018 (CRO → President 2025) |
+
+### Advisory Board
+
+| Nome | Background |
+|------|-----------|
+| Gen. David Goldfein (ret.) | Ex-Chief of Staff USAF |
+| Adm. Scott Swift (ret.) | Ex-Commander US Pacific Fleet |
+| Katharina McFarland | Chair board R&D esercito, National Academies of Science |
+| Kevin McAleenan | CEO Pangiam, ex-Acting Secretary DHS |
+| Constantine Saab | CTO Valor Equity Partners |
 
 ### Pipeline Palantir-Oculus → Anduril
 
@@ -119,6 +134,8 @@ Quando nel marzo 2017 Luckey viene estromesso da Facebook (secondo lui per il su
 | **Anvil** | Counter-UAS | Drone intercettore anti-drone |
 | **Roadrunner** | Intercettore riutilizzabile | Missile intercettore VTOL, riutilizzabile se non detonato |
 | **Bolt-M** | Munizione tattica | Munizione di precisione per operazioni speciali |
+| **Omen** | Hover-to-cruise UAV | Veicolo aereo autonomo, svelato Nov 2025 |
+| **Dive-LD** | UUV sottomarino | Veicolo subacqueo autonomo per operazioni navali |
 
 ---
 
@@ -135,8 +152,9 @@ Quando nel marzo 2017 Luckey viene estromesso da Facebook (secondo lui per il su
 | Valor Equity Partners | Investor | Anche in Tesla, SpaceX |
 | Lightspeed Venture Partners | Investor | - |
 | 1789 Capital | Investor | VC conservatore, Series G 2025 |
+| [Thrive Capital](../private-equity/thrive-capital.md) | Co-lead Series H | Josh Kushner, co-lead $4B round a $60B (Mar 2026) |
 
-**Totale raccolto**: ~$6.26B in 6 round.
+**Totale raccolto**: ~$10.3B in 7 round (seed → Series H).
 
 ---
 
@@ -163,6 +181,9 @@ Quando nel marzo 2017 Luckey viene estromesso da Facebook (secondo lui per il su
 | [Oculus VR](../company/oculus-vr.md) | Luckey e Chen ex-Oculus; acquisita da Facebook $2B (2014) |
 | [Meta](../media/meta.md) | Luckey fondatore Oculus in Meta (2014-17); poi partner IVAS/SBMC 2025 — riconnessione Luckey-Meta nel defense |
 | [In-Q-Tel](../company/in-q-tel.md) | Investitore sia in Palantir che in Anduril |
+| [Thrive Capital](../private-equity/thrive-capital.md) | Co-lead Series H $60B, Josh Kushner |
+| [Lux Capital](../private-equity/lux-capital.md) | Early backer, organizzatore visita Israele Feb 2026 |
+| [Erebor Bank](../bank/erebor-bank.md) | Stessa galassia Thiel, stesso fondatore (Luckey), banca per defense-tech |
 
 ### Contratti governativi chiave
 
@@ -176,6 +197,15 @@ Quando nel marzo 2017 Luckey viene estromesso da Facebook (secondo lui per il su
 | SBMC (successore IVAS) | $159M | US Army | 2025 |
 | NGC2 (Next-Gen C2) | $99.6M | DoD | 2025 |
 | Programma Replicator | - | Pentagono | 2024-25 |
+
+### Espansione Israele (Feb 2026)
+
+Palmer Luckey ha effettuato una visita segreta di due giorni in Israele:
+- Incontro con PM Netanyahu e alti funzionari difesa
+- Presentazioni da 10 startup defense-tech israeliane (Skana Robotics, Regulus, Magnus Metal, eyesAtop, AriEV)
+- Organizzata congiuntamente dal Min. Difesa israeliano (MAFAT) e Asio (partner Anduril)
+- Viaggio organizzato da Josh Wolfe (Lux Capital, early backer Anduril)
+- Possibili partnership e marketing prodotti Anduril verso Israele
 
 ### Espansione europea
 
@@ -205,6 +235,23 @@ Anduril opera in un contesto dove la rete Thiel permea sia il venture capital ch
 
 Palmer Luckey e' diventato uno dei maggiori donatori Repubblicani dal 2020: ~$100K inaugurale Trump 2017, ~$400K ciclo 2024, $100K Thune Victory Committee, fundraiser da $100K/persona a casa sua. Ha donato a decine di candidati GOP e comitati statali.
 
+### Ecosistema Tolkien-Thiel
+
+```
+             Peter Thiel (patrono)
+                    |
+    +-------+-------+-------+-------+
+    |       |       |       |       |
+ Palantir Anduril Erebor  Mithril  Founders
+ (intel)  (armi)  (banca) Capital   Fund
+    |       |       |               |
+    v       v       v               v
+  Dati   Sistemi  Finanza      Investimenti
+ militari d'arma  defense-tech   defense
+```
+
+Lo "stack Thiel" copre ora l'intera catena: intelligence → armi → finanza → investimenti.
+
 ---
 
 ## Critiche
@@ -216,6 +263,7 @@ Palmer Luckey e' diventato uno dei maggiori donatori Repubblicani dal 2020: ~$10
 | **Conflitto d'interessi** | Luckey super-donor GOP (~$400K ciclo 2024) mentre Anduril ottiene miliardi in contratti DoD sotto amministrazione Trump, con rete Thiel che occupa VP (Vance), AI Czar (Sacks), Sottosegretario (Helberg) |
 | **Sanzioni cinesi** | Cina sanziona Anduril (gen 2025) e Luckey personalmente (dic 2025) per vendita armi a Taiwan |
 | **Fallimenti test** | Report di fallimenti droni durante test a Eglin Air Force Base |
+| **Concentrazione Thiel** | Un unico ecosistema (Thiel) controlla intelligence (Palantir), armi (Anduril), finanza (Erebor), VC (Founders Fund) e ha alleati in VP (Vance), AI Czar (Sacks), Dept of State (Helberg) |
 
 ---
 
@@ -238,6 +286,13 @@ Palmer Luckey e' diventato uno dei maggiori donatori Repubblicani dal 2020: ~$10
 - Tablet Magazine: American Vulcan - Palmer Luckey profile
 - PBS: China sanctions 20 US defense companies (Dec 2025)
 
+### 2026
+- [TechCrunch - $60B Round (Mar 2026)](https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/)
+- [Axios - $4B at $60B (Mar 2026)](https://www.axios.com/2026/03/04/anduril-palmer-luckey-valuation)
+- [Haaretz - Luckey Secret Israel Visit (Feb 2026)](https://www.haaretz.com/israel-news/israel-security/2026-02-20/ty-article/.premium/founder-of-u-s-defense-tech-giant-anduril-visits-israel-secretly-meets-netanyahu/0000019c-79d2-dfbe-a39f-79f2553a0000)
+- [The Aviationist - Fury tests Lattice + Hivemind (Mar 2026)](https://theaviationist.com/2026/03/03/yfq-44a-tests-shivemind-lattice-ais/)
+- [Aviation Week - Fury Future Home (2026)](https://aviationweek.com/defense/supply-chain/anduril-opens-doors-furys-future-home)
+
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

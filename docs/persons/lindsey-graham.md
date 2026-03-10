@@ -68,11 +68,13 @@
   Committee  Services Committee
 ```
 
-### Forum Internazionali
+### Forum e Think Tank
 
-| Forum | Partecipazione |
-|-------|----------------|
+| Organizzazione | Partecipazione |
+|----------------|----------------|
 | **Munich Security Conference** | Partecipante regolare, guida delegazioni bipartisan del Senato (2025, 2026) |
+| **International Republican Institute** | Director, board member. ONG finanziata da USAID ($130.7M) |
+| **AIPAC** | Ricevuto oltre $1M da lobby pro-Israele, forte sostenitore della politica di sicurezza israeliana |
 
 ### Network Professionale - "Three Amigos"
 
@@ -110,6 +112,8 @@
 |------|---------|-----------|
 | **Trasformismo su Trump** | 2015-2017 | Da critico feroce a sostenitore incondizionato |
 | **Politica estera vs Trump** | 2024 | Falco interventista che si piega alla linea isolazionista di Trump sull'Ucraina |
+| **IRI e USAID** | 2025 | Board director di IRI, ONG con $130.7M di fondi USAID - conflitto d'interessi |
+| **Lobby pro-Israele** | Ongoing | Oltre $1M ricevuto da gruppi pro-Israele, difesa incondizionata operazioni a Gaza |
 | **Impeachment Clinton** | 1998 | House Manager nel processo, posizione fortemente partigiana |
 
 ---
@@ -124,6 +128,8 @@
 | [Republican Party](../forum/republican-party.md) | Membro dal 1992 |
 | [US Air Force](../defense/us-air-force.md) | JAG Corps 1982-2015, Colonnello |
 | [Munich Security Conference](../forum/munich-security-conference.md) | Partecipante regolare |
+| [International Republican Institute](../foundation/international-republican-institute.md) | Director, board member |
+| [AIPAC](../think-tank/aipac.md) | Ricevuto oltre $1M, forte sostenitore |
 | [University of South Carolina](../university/university-of-south-carolina.md) | Alumni, BA 1977, JD 1981 |
 
 ### Persone
@@ -171,4 +177,4 @@
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

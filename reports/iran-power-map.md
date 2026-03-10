@@ -1,22 +1,23 @@
 # Iran Power Map
 
-> Mappa del potere iraniano: teocrazia vs opposizione in esilio, IRGC vs proteste 2025-2026, e la domanda su chi succedera' a Khamenei
+> Mappa del potere iraniano: dall'assassinio di Khamenei alla prima successione dinastica, l'impero economico da $200B e il futuro della teocrazia
 
 ## Executive Summary
 
 L'Iran rappresenta un caso unico di **teocrazia costituzionale** dove il potere reale risiede nel Leader Supremo (Rahbar), non nel presidente eletto. Il sistema e' costruito su tre pilastri: clero sciita, Guardie Rivoluzionarie (IRGC) e fondazioni economiche (bonyad). Dal 2023-2024 l'Iran ha accelerato il suo "pivot verso Est" entrando in SCO e BRICS, mentre il suo network di proxy (Hezbollah, Hamas, Houthis) ha subito pesanti perdite nel 2024-2025.
 
-**Gennaio 2026:** Le proteste di massa in tutte 31 le province, mobilitate da una chiamata di [Reza Pahlavi](../docs/persons/reza-pahlavi.md) dall'esilio, hanno aperto una nuova fase di crisi. Per la prima volta, un leader dell'opposizione ha dimostrato capacita' di comando operativo sul campo. La domanda centrale e' se il regime possa sopravvivere alla convergenza di crisi economica, perdita dei proxy, e mobilitazione interna.
+**Febbraio-Marzo 2026:** L'assassinio di [Ali Khamenei](../docs/persons/ali-khamenei.md) in un raid USA-Israele (28 febbraio 2026) ha aperto una crisi senza precedenti. L'Assembly of Experts, sotto pressione IRGC, ha eletto il figlio [Mojtaba Khamenei](../docs/persons/mojtaba-khamenei.md) come terza Guida Suprema — la **prima successione dinastica** nella storia della Repubblica Islamica, un paradosso per un regime nato contro la monarchia.
 
 | Metrica | Valore |
 |---------|--------|
 | **Sistema** | Repubblica Islamica (teocrazia) |
-| **Leader Supremo** | [Ali Khamenei](../docs/persons/ali-khamenei.md) (1989-) |
+| **Leader Supremo** | [Mojtaba Khamenei](../docs/persons/mojtaba-khamenei.md) (2026-) |
 | **Presidente** | [Masoud Pezeshkian](../docs/persons/masoud-pezeshkian.md) (2024-) |
 | **Popolazione** | ~90M |
 | **PIL** | ~$400B |
 | **Riserve petrolio** | 4° mondiale |
 | **Sanzioni** | USA, UE, ONU (parziali) |
+| **Famiglia al potere** | [Khamenei](../docs/family/khamenei.md) |
 
 ---
 
@@ -32,8 +33,9 @@ L'Iran rappresenta un caso unico di **teocrazia costituzionale** dove il potere 
         |                           |                           |
    +---------+               +-----------+              +---------------+
    |         |               |           |              |               |
-Khamenei   IRGC           Guardian    Assembly       Bonyad        Khatam
- (1989-)   Quds Force     Council    of Experts   Mostazafan    al-Anbiya
+MOJTABA    IRGC           Guardian    Assembly     Setad/EIKO    Khatam
+KHAMENEI  Quds Force     Council    of Experts    $95-200B    al-Anbiya
+ (2026-)
     |         |               |           |              |           |
     |    +----+----+     (veto leggi)  (elegge       (conglom.)  (IRGC
     |    |         |                  Leader)                   costruz.)
@@ -91,15 +93,22 @@ Il Leader Supremo e' il vero centro del potere iraniano. La Costituzione del 197
 | **Politica estera** | Decisioni strategiche (nucleare, proxy) |
 | **Nomina IRGC** | Comandanti Quds Force, capi militari |
 
-#### Successione Khamenei
+#### Assassinio di Khamenei (28 febbraio 2026)
 
-| Candidato | Eta' | Posizione | Probabilita' |
-|-----------|------|-----------|--------------|
-| [Mojtaba Khamenei](../docs/persons/mojtaba-khamenei.md) | 56 | Figlio, gatekeeper | Alta |
-| [Hassan Khomeini](../docs/persons/hassan-khomeini.md) | 53 | Nipote fondatore | Media |
-| Mohammad-Ali Movahedi Kermani | 93 | Chairman Assembly Experts | Bassa (eta') |
+Il 28 febbraio 2026, Ali Khamenei e' stato ucciso in un raid aereo congiunto USA-Israele sulla sua residenza a Tehran. Nell'attacco sono morti anche la figlia, il genero Mesbah Bagheri Kani, la nipote e la nuora. La moglie Mansoureh e' morta il giorno dopo.
 
-**Mojtaba Khamenei**: Clerico di medio rango, opera dietro le quinte da 27 anni. Controlla l'accesso al padre, supervisiona l'impero economico stimato in $100B. Nel 2024 ha lasciato il seminario, segnale di preparazione alla successione.
+#### Successione: Mojtaba Khamenei (Marzo 2026)
+
+Un **Interim Leadership Council** (Arafi, Mohseni-Eje'i, Ghalibaf, Pezeshkian) ha gestito la transizione. L'Assembly of Experts, sotto forte pressione dell'IRGC, ha eletto [Mojtaba Khamenei](../docs/persons/mojtaba-khamenei.md) come terza Guida Suprema.
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Eta'** | 56 anni (nato 1969) |
+| **Formazione** | Clerico, seminario Qom |
+| **Ruolo precedente** | Gatekeeper del padre per 27 anni, supervisore impero economico |
+| **Patrimonio** | >$3B (asset in UAE, Siria, Venezuela, Africa) |
+| **Moglie** | Zahra Haddad-Adel (figlia di ex Speaker del Majlis) |
+| **Significato** | Prima successione dinastica della Repubblica Islamica |
 
 ### Timeline dei Leader
 
@@ -107,14 +116,26 @@ Il Leader Supremo e' il vero centro del potere iraniano. La Costituzione del 197
 1979 ──── Ruhollah Khomeini ──── 1989
               (fondatore)           │
                                     ▼
-1989 ──── Ali Khamenei ──────── oggi
-         (85 anni, cancro,
-          parzialmente paralizzato)
-                                    │
-                                    ▼
-202? ──── Mojtaba Khamenei? ──── ?
-          (probabile successore)
+1989 ──── Ali Khamenei ──────── 2026
+         (assassinato raid         │
+          USA-Israele 28/02)       ▼
+                              Mojtaba Khamenei ──── ?
+2026 ────                    (figlio, 3° Guida Suprema)
+         PRIMA SUCCESSIONE DINASTICA
 ```
+
+### Famiglia Khamenei: Dinastia al Potere
+
+La [famiglia Khamenei](../docs/family/khamenei.md) ha consolidato un impero politico-economico senza precedenti nella Repubblica Islamica:
+
+| Membro | Ruolo | Patrimonio |
+|--------|-------|------------|
+| **Ali Khamenei** (m. 2026) | Guida Suprema, controllore Setad | $95-200B (Setad) |
+| **Mojtaba** | Guida Suprema dal 2026 | >$3B personali |
+| **Masoud** | Gestione istituzioni paterne | >$400M (banche Francia, UK) |
+| **Meysam** | Affari (Renault) | >$200M |
+
+Alleanze matrimoniali strategiche: Haddad-Adel (parlamentare), Kharazi (diplomatica), Lolachian (bazar).
 
 ---
 
@@ -128,7 +149,7 @@ Il presidente iraniano ha poteri limitati: non controlla forze armate, politica 
 | [Mohammad Khatami](../docs/persons/mohammad-khatami.md) | 1997-2005 | Riformista | Dialogo civilta' |
 | [Mahmoud Ahmadinejad](../docs/persons/mahmoud-ahmadinejad.md) | 2005-2013 | Conservatore | Accelerazione nucleare |
 | Hassan Rouhani | 2013-2021 | Moderato | JCPOA 2015 |
-| [Ebrahim Raisi](../docs/persons/ebrahim-raisi.md) | 2021-2024 | Ultraconservatore | Morto incidente aereo |
+| [Ebrahim Raisi](../docs/persons/ebrahim-raisi.md) | 2021-2024 | Ultraconservatore | Membro death commission 1988, Chief Justice 2019-21, custodian [Astan Quds Razavi](../docs/foundation/astan-quds-razavi.md) 2016-19. Morto incidente elicottero Varzaqan |
 | [Masoud Pezeshkian](../docs/persons/masoud-pezeshkian.md) | 2024- | Riformista | Primo riformista dal 2005 |
 
 ### Governo Pezeshkian (2024-)
@@ -182,14 +203,33 @@ Le Guardie Rivoluzionarie (Sepah-e Pasdaran) sono molto piu' di un corpo militar
 
 Le bonyad sono fondazioni para-statali che controllano vaste porzioni dell'economia, rispondono solo al Leader Supremo.
 
-| Bonyad | Settori | Note |
-|--------|---------|------|
-| [Bonyad Mostazafan](../docs/foundation/bonyad-mostazafan.md) | Energia, turismo, industria | 2° dopo NIOC |
-| [EIKO](../docs/foundation/eiko.md) | Vari | Controllato direttamente da Khamenei |
-| Astan Quds Razavi | Religioso, immobiliare | Fondazione santuario Mashhad |
-| Bonyad Shahid | Veterani, welfare | Connesso a IRGC |
+| Bonyad/Parastatal | Settori | Asset | Note |
+|-------------------|---------|-------|------|
+| [Setad/EIKO](../docs/company/setad.md) | Energia, telecom, finanza, farmaceutica, immobiliare | **$95-200B** | Impero personale della Guida Suprema, 37+ sussidiarie globali |
+| [Bonyad Mostazafan](../docs/foundation/bonyad-mostazafan.md) | Energia, turismo, industria | — | Piu' grande holding del Medio Oriente |
+| [Astan Quds Razavi](../docs/foundation/astan-quds-razavi.md) | Religioso, immobiliare | Miliardi | Fondazione santuario Imam Reza, Mashhad |
+| Bonyad Shahid | Veterani, welfare | — | Connesso a IRGC |
 
-> Le bonyad + IRGC + Khatam al-Anbiya controllano oltre il 50% dell'economia iraniana.
+### Setad/EIKO: L'Impero Nascosto
+
+[Setad Ejraiye Farmane Hazrate Emam](../docs/company/setad.md) (Esecuzione dell'Ordine dell'Imam) e' il veicolo economico piu' importante del sistema iraniano:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Fondazione** | 1989, da editto di Khomeini |
+| **Asset** | $95B (Reuters 2013), fino a $200B (stime 2019) |
+| **Composizione** | ~$52B immobili + ~$43B partecipazioni |
+| **Sussidiarie** | 37+ aziende (Tadbir Group, Ghadir Investment, Barakat Foundation) |
+| **Portata** | Iran, Emirati, Croazia, Germania, Sudafrica |
+| **CEO storico** | [Mohammad Mokhber](../docs/persons/mohammad-mokhber.md) (2007-2021), poi VP Iran |
+| **Sanzioni** | USA/OFAC dal 2013 |
+| **Controllo** | Bilanci segreti, nessun audit parlamentare |
+
+**Metodo di accumulo**: confisca sistematica di proprieta' di minoranze (Baha'i), espatriati e imprenditori privati — documentato da inchiesta Reuters 2013.
+
+**Revolving door Setad → Governo**: Mokhber e' passato da CEO Setad a VP Iran a presidente ad interim — paradigma del sistema iraniano dove il gestore della ricchezza del Leader accede direttamente al vertice politico.
+
+> Le bonyad + Setad + IRGC + Khatam al-Anbiya controllano oltre il 60% dell'economia iraniana, fuori da qualsiasi supervisione democratica.
 
 ---
 
@@ -532,39 +572,54 @@ La domanda e': se Pahlavi tornasse al potere, chi comanderebbe davvero?
 
 ---
 
-## Scenari 2026
+## Scenari Post-Khamenei (Marzo 2026)
 
-### Scenario 1: Regime Sopravvive
-- Repressione brutale (gia' 217+ morti Tehran)
-- Internet blackout efficace
-- IRGC mantiene coesione
-- Pahlavi rimane simbolo senza potere
+### Scenario 1: Mojtaba Consolida (piu' probabile nel breve termine)
+- IRGC sostiene Mojtaba come garante della continuita'
+- Repressione interna intensificata
+- Setad e impero economico rimangono sotto controllo familiare
+- Sistema sopravvive ma indebolito (perdita proxy, sanzioni, guerra)
 
-### Scenario 2: Transizione Pahlavi
-- Defezioni militari massicce
-- Khamenei muore o fugge
-- Pahlavi guida transizione 100 giorni
-- **Chi comanda?** USA/Israele o coalizione interna?
+### Scenario 2: Transizione/Collasso
+- Mojtaba non riesce a imporsi (manca carisma e legittimita' religiosa del padre)
+- Fratture tra IRGC, clero e governo formale
+- Pahlavi e opposizione sfruttano il vuoto
+- **Rischio**: frammentazione etnica (curdi, azeri, arabi, baluci)
 
-### Scenario 3: Caos
-- Regime crolla senza transizione ordinata
-- Fazioni in lotta (IRGC vs opposizione vs etnie)
-- Rischio frammentazione (curdi, azeri, arabi)
-- Intervento esterno?
+### Scenario 3: Dinastia Consolidata
+- Mojtaba replica il modello del padre per decenni
+- Alleanze matrimoniali (Haddad-Adel, Kharazi) cementano potere
+- IRGC diventa kingmaker permanente
+- Iran si trasforma in monarchia teocratica de facto
 
 ### Variabili Chiave
 
-| Variabile | Domanda |
-|-----------|---------|
-| **IRGC** | Rimane coeso o si frammenta? |
-| **Khamenei** | 86 anni, salute precaria, quando muore? |
-| **Successione** | Mojtaba o vuoto di potere? |
-| **Pahlavi** | Comando reale o figura di facciata per sponsor esteri? |
-| **50.000 contatti** | Reali o propaganda? |
+| Variabile | Stato (Marzo 2026) |
+|-----------|-------------------|
+| **IRGC** | Coeso, ha imposto Mojtaba. Ma sotto attacco militare USA-Israele |
+| **Successione** | Risolta: Mojtaba eletto. Ma legittimita' religiosa debole |
+| **Setad ($200B)** | Chi lo gestisce ora? Masoud Khamenei? Nuovo CEO? |
+| **Pahlavi** | Comando operativo dall'esilio dimostrato gen 2026 |
+| **Guerra** | Raid USA-Israele in corso, regime sotto pressione militare diretta |
+| **Economia** | Rial in caduta, sanzioni, infrastrutture danneggiate |
 
 ---
 
 ## Fonti
+
+### Assassinio Khamenei e Successione (Febbraio-Marzo 2026)
+- [Al Jazeera - Iran Confirms Khamenei Dead](https://www.aljazeera.com/news/2026/2/28/irans-supreme-leader-ali-khamenei-killed-in-us-israeli-attacks-reports)
+- [NPR - Khamenei Killed by Israel](https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed)
+- [Iran International - Mojtaba Named Supreme Leader](https://www.iranintl.com/en/202603030390)
+- [Wikipedia - 2026 Iranian Supreme Leader Election](https://en.wikipedia.org/wiki/2026_Iranian_Supreme_Leader_election)
+- [Foreign Policy - Iran Built to Withstand Assassination](https://foreignpolicy.com/2026/02/28/iran-khamenei-ayatollah-assassination-israel-us-war/)
+- [Wikipedia - Assassination of Ali Khamenei](https://en.wikipedia.org/wiki/Assassination_of_Ali_Khamenei)
+
+### Setad/EIKO e Impero Economico
+- [Wikipedia - Execution of Imam Khomeini's Order](https://en.wikipedia.org/wiki/Execution_of_Imam_Khomeini's_Order)
+- [Middlebury - Setad: The Ayatollah's Assets](https://sites.middlebury.edu/miisfinancialcrime/2014/01/24/setad-the-ayatollahs-assets/)
+- [Wikipedia - Wealth of the Khamenei Family](https://en.wikipedia.org/wiki/Wealth_of_the_Khamenei_family)
+- [NCRI - Khamenei Family Wealth](https://www.ncr-iran.org/en/news/iran-a-world/iran-ali-khamenei-s-family-wealth/)
 
 ### Regime e Istituzioni
 - [Council on Foreign Relations - Islamic Republic's Power Centers](https://www.cfr.org/article/islamic-republics-power-centers)
@@ -597,4 +652,4 @@ La domanda e': se Pahlavi tornasse al potere, chi comanderebbe davvero?
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Marzo 2026*

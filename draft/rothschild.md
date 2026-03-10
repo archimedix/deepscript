@@ -1,5 +1,5 @@
-[v]mayer-amschel-rothschild (born 1744, died 1812, DEU)
-nathan-mayer-rothschild
+[v] mayer-amschel-rothschild (born 1744, died 1812, DEU)
+[v] nathan-mayer-rothschild
 [v]rothschild-foundation
 [v]five-arrows
 [v]rco4generations
@@ -9,6 +9,8 @@ nathan-mayer-rothschild
 []el-rothschild
 [v]nm-rothschild
 [v]rothschild-cie : de Rothschild Frères (1817-1967), "Banque Rothschild" (1967-1982), 
+[v] james-mayer-rothschild
+[v] alexandre-de-rothschild
 
 EdR Israel
 RIT Capital
@@ -71,5 +73,6 @@ Figlia Marie (1963-2013) sposa Brandino Brandolini d'Adda (figlio di Cristiana A
 /add person Francois Perol
 
 ## Ramo inglese
+[v] jacob-rothschild
 - james-rothschild-uk
 - nat-rothschild Nathaniel (figlio di jacob)

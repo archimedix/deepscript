@@ -18,8 +18,12 @@
 
 | Periodo | Istituzione | Dettaglio |
 |---------|-------------|-----------|
-| **1976-1981** | Universita' di Bonn e Marburg | Giurisprudenza e scienze politiche |
+| **1976-1981** | Universita' di Bonn (RFWU) | Giurisprudenza e scienze politiche |
+| **1976-1981** | Universita' di Marburg | Giurisprudenza |
 | **1982** | Primo esame di stato | Abilitazione legale |
+| **1982-1985** | Tribunale regionale Saarbrücken | Pratica forense, secondo esame di stato |
+
+**Borse di studio:** Konrad-Adenauer-Stiftung (fondazione CDU)
 
 ---
 
@@ -35,8 +39,8 @@
 | **2004-2016** | Senior Counsel | Mayer Brown |
 | **2009-2019** | Chairman | Atlantik-Brucke |
 | **2016-2020** | Chairman Supervisory Board | BlackRock Germania |
-| **2022-2025** | Leader partito e opposizione | CDU |
-| **2025-** | Cancelliere | Germania |
+| **2022-** | Leader partito (Chairman) | CDU |
+| **2025-** | Cancelliere federale | Germania (coalizione CDU/CSU + SPD) |
 
 ### Revolving Door
 
@@ -67,15 +71,30 @@ Nel 2002 Angela Merkel lo estromise dalla guida del gruppo parlamentare CDU/CSU.
 ### Mappa delle Appartenenze
 
 ```
-                    Friedrich MERZ
-                          |
-     +--------------------+--------------------+
-     |          |         |         |          |
-     v          v         v         v          v
- BlackRock  Atlantik-  Bilderberg  WEF    Governo
- (2016-20)  Brucke     (2024)    (2025)   Germania
-            (2009-19)                     (2025-)
+                         Friedrich MERZ
+                               |
+     +--------+--------+------+------+--------+--------+
+     |        |        |      |      |        |        |
+     v        v        v      v      v        v        v
+ BlackRock Atlantik- Bilder- WEF   MSC    Governo   Mayer
+ (16-20)  Brucke    berg   (25)  (26)   Germania   Brown
+          (09-19)   (24)                 (25-)     (04-16)
+                               |
+              +----+----+------+------+----+----+
+              |    |    |      |      |    |    |
+              v    v    v      v      v    v    v
+            BASF Bayer DtBors Airbus HSBC Cbank AXA
+                    (board 2010-2020)
 ```
+
+### Coalizione Merz (6 maggio 2025)
+
+Quinta Grosse Koalition nella storia tedesca: CDU/CSU (10 ministri) + SPD (7 ministri).
+
+| Ruolo | Nome | Partito |
+|-------|------|---------|
+| Cancelliere | Friedrich Merz | CDU |
+| Difesa | Boris Pistorius | SPD |
 
 ### Forum Internazionali
 
@@ -84,6 +103,7 @@ Nel 2002 Angela Merkel lo estromise dalla guida del gruppo parlamentare CDU/CSU.
 | **Bilderberg** | Partecipante 2024 |
 | **WEF Davos** | Speaker 2025 |
 | **Atlantik-Brucke** | Chairman 2009-2019 |
+| **Munich Security Conference** | Keynote speaker 2026 |
 
 ### Board Aziendali (2009-2020)
 
@@ -139,7 +159,21 @@ Nel 2002 Angela Merkel lo estromise dalla guida del gruppo parlamentare CDU/CSU.
 | [BlackRock](../asset-manager/blackrock.md) | Chairman Supervisory Board 2016-2020 |
 | [Bilderberg](../forum/bilderberg.md) | Partecipante 2024 |
 | [WEF](../forum/wef.md) | Speaker Davos 2025 |
-| [Atlantik-Brucke](../forum/atlantik-brucke.md) | Chairman 2009-2019 |
+| [Atlantik-Brucke](../forum/atlantik-bruecke.md) | Chairman 2009-2019 |
+| [Munich Security Conference](../forum/munich-security-conference.md) | Keynote 2026 |
+| [Mayer Brown](../company/mayer-brown.md) | Senior Counsel 2004-2016 |
+| [BASF](../company/basf.md) | Board 2010-2020 |
+| [Bayer](../pharma/bayer.md) | Board 2010-2020 |
+| [Deutsche Borse](../company/deutsche-boerse.md) | Board 2010-2020 |
+| [Airbus](../company/airbus.md) | Board 2010-2020 |
+| [HSBC Trinkaus](../bank/hsbc.md) | Board 2010-2020 |
+| [Commerzbank](../bank/commerzbank.md) | Board 2010-2020 |
+| [AXA](../company/axa.md) | Board 2010-2020 |
+| [Stadler Rail](../company/stadler-rail.md) | Board 2014-2020 |
+| [CDU](../company/cdu.md) | Chairman 2022- |
+| [Konrad-Adenauer-Stiftung](../foundation/konrad-adenauer-stiftung.md) | Scholarship |
+| [University of Bonn](../university/university-bonn.md) | Law 1976-1981 |
+| [University of Marburg](../university/university-marburg.md) | Law 1976-1981 |
 
 ### Persone
 
@@ -166,7 +200,8 @@ Nel 2002 Angela Merkel lo estromise dalla guida del gruppo parlamentare CDU/CSU.
 | **2020** | Lascia BlackRock |
 | **2022** | Eletto leader CDU |
 | **2024** | Partecipa Bilderberg |
-| **2025** | Eletto Cancelliere (6 maggio) |
+| **2025** | Eletto Cancelliere (6 maggio), coalizione CDU/CSU + SPD |
+| **2026** | Keynote speaker Munich Security Conference |
 
 ---
 
@@ -184,7 +219,10 @@ Nel 2002 Angela Merkel lo estromise dalla guida del gruppo parlamentare CDU/CSU.
 ### Analisi
 - [Foreign Policy - Germany's New 1990s Chancellor](https://foreignpolicy.com/2025/02/20/germany-politics-election-chancellor-merz-cdu-migration/)
 - [PBS - What to know about Merz](https://www.pbs.org/newshour/world/what-to-know-about-friedrich-merz-the-man-on-course-to-be-germanys-chancellor)
+- [IP Quarterly - The Post-Atlantic Chancellor](https://ip-quarterly.com/en/post-atlantic-chancellor)
+- [Chatham House - No honeymoon for Merz](https://www.chathamhouse.org/2025/05/no-honeymoon-merz-new-german-government-already-faces-domestic-constraints)
+- [Bundesregierung - Merz Biography](https://www.bundesregierung.de/breg-en/news/friedrich-merz-2341938)
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Marzo 2026*

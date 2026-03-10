@@ -11,6 +11,7 @@
 | **Coniuge** | Karlie Kloss (modella, sposata 2018) |
 | **Figli** | 3 (nati 2021, 2023, 2025) |
 | **Residenza** | Miami, New York, Malibu |
+| **Patrimonio** | ~$5.2 miliardi (Nov 2025, Forbes) — primo Kushner nella World's Billionaires List |
 
 ---
 
@@ -33,7 +34,7 @@
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
 | **2008-2009** | Analyst | [Goldman Sachs](../bank/goldman-sachs.md) |
-| **2010-oggi** | Founder & Managing Partner | [Thrive Capital](../vc/thrive-capital.md) |
+| **2010-oggi** | Founder & Managing Partner | [Thrive Capital](../private-equity/thrive-capital.md) |
 | **2012-oggi** | Co-founder, Vice Chairman | Oscar Health |
 | **2024-oggi** | Board member | A24 Films |
 | **-** | Minority owner | Miami Heat |
@@ -48,10 +49,12 @@ Fondato a 24 anni con $5M seed da Joel Cutler (General Catalyst). Strategia: inv
 
 | Aspetto | Dettaglio |
 |---------|-----------|
-| **AUM** | ~$25B (2024) |
-| **Fund IX** | $5B+ (agosto 2024) |
-| **Modello** | Concentrated bets, tender offers |
+| **AUM** | $25B+ (2026) |
+| **Fund X** | $10B (Feb 2026), pesantemente oversubscribed |
+| **Fund IX** | $5B+ (Ago 2024) |
+| **Modello** | Concentrated bets, tender offers, "ride-or-die" |
 | **Early partners** | Chris Paik, Will Gaybrick (Harvard classmates) |
+| **Exec Chairman** | Nitin Nohria (ex-Dean HBS, dal 2022) |
 
 ### Portfolio Highlights
 
@@ -59,13 +62,17 @@ Fondato a 24 anni con $5M seed da Joel Cutler (General Catalyst). Strategia: inv
 |---------|------|
 | Instagram | Series B 2012, 2x in 72 ore (acq. Facebook) |
 | GitHub | ~10% stake, exit $7.5B (acq. Microsoft) |
-| [OpenAI](../company/openai.md) | Lead investor, $130M+ |
+| [OpenAI](../company/openai.md) | Lead investor, ~$1B+ a $285B val. (Dic 2025) |
 | [Stripe](../company/stripe.md) | $2B investment |
+| [Anduril](../defense/anduril.md) | Co-lead $4B round a $60B val. (Mar 2026) |
+| [SpaceX](../company/spacex.md) | Portfolio investment |
+| [Wiz](../company/wiz.md) | Series E lead, ~$1B stake at exit |
+| [Databricks](../company/databricks.md) | AI infrastructure |
 | Twitch | Early investor |
 | Slack | Early investor |
 | Robinhood | Investor |
 | Skims | ~10% stake |
-| Anduril | Investor |
+| Cursor | AI coding |
 
 ---
 
@@ -103,12 +110,24 @@ THRIVE CAPITAL      GOLDMAN SACHS       HARVARD
 | [Eduardo Saverin](eduardo-saverin.md) | Harvard (anni adiacenti), co-fondatore Facebook |
 | Sam Teller | Classmate (poi CoS Elon Musk) |
 
+### Azionisti Strategici Thrive (3.3%, Gen 2023)
+
+| Nome | Background |
+|------|-----------|
+| [Bob Iger](bob-iger.md) | CEO Disney |
+| [Mukesh Ambani](mukesh-ambani.md) | Chairman Reliance Industries |
+| [Henry Kravis](henry-kravis.md) | Co-fondatore KKR |
+| [Xavier Niel](xavier-niel.md) | Fondatore Iliad/Free |
+| [Jorge Paulo Lemann](jorge-paulo-lemann.md) | Co-fondatore 3G Capital |
+
 ### Network Professionale
 
 | Nome | Connessione |
 |------|-------------|
 | Sam Altman | CEO OpenAI, amico dal ~2011, Thrive lead investor |
 | Joel Cutler | Mentor, seed investor Thrive ($5M) |
+| [Palmer Luckey](palmer-luckey.md) | Anduril, Thrive co-lead round $60B |
+| [Nitin Nohria](nitin-nohria.md) | Executive Chairman Thrive, ex-Dean HBS |
 
 ---
 
@@ -118,10 +137,11 @@ THRIVE CAPITAL      GOLDMAN SACHS       HARVARD
 
 | Aspetto | Dettaglio |
 |---------|-----------|
-| **AUM** | $25B |
+| **AUM** | $25B+ |
+| **Fund X** | $10B (Feb 2026), il piu' grande di sempre |
 | **Strategia** | Mega-concentrated positions via tender offers |
 | **Access** | First call per Sam Altman (OpenAI) |
-| **Valuation** | Thrive Capital valutata $5.3B (2023) |
+| **Patrimonio** | $5.2B — primo Kushner nella Forbes Billionaires List |
 
 ### Influenza Tech
 
@@ -134,6 +154,8 @@ Lead investor in OpenAI - posizione privilegiata nell'AI race. Portfolio include
 | Tema | Periodo | Dettaglio |
 |------|---------|-----------|
 | **Distanza politica** | 2016-oggi | Posizioni pubblicamente distanti dal fratello Jared e Trump |
+| **Conflitto Kushner** | 2023 | Jared vende quota Thrive per evitare conflitto interessi con admin Trump |
+| **AI concentrazione** | 2024-26 | Lead investor OpenAI + Anduril = AI civile + militare in un unico VC |
 
 ---
 
@@ -143,12 +165,14 @@ Lead investor in OpenAI - posizione privilegiata nell'AI race. Portfolio include
 
 | Entita' | Connessione |
 |---------|-------------|
-| [Thrive Capital](../vc/thrive-capital.md) | Founder 2010-oggi |
+| [Thrive Capital](../private-equity/thrive-capital.md) | Founder 2009-oggi |
 | [Goldman Sachs](../bank/goldman-sachs.md) | Analyst 2008-2009 |
 | [Harvard](../university/harvard.md) | BA 2008 |
 | [Harvard Business School](../university/harvard-business-school.md) | MBA 2011 |
-| [OpenAI](../company/openai.md) | Lead investor (via Thrive) |
+| [OpenAI](../company/openai.md) | Lead investor ~$1B+ (via Thrive) |
+| [Anduril](../defense/anduril.md) | Co-lead $4B round (via Thrive) |
 | [Stripe](../company/stripe.md) | Major investor (via Thrive) |
+| [Oscar Health](../company/oscar-health.md) | Co-fondatore, Vice Chairman |
 
 ### Famiglia
 
@@ -162,6 +186,8 @@ Lead investor in OpenAI - posizione privilegiata nell'AI race. Portfolio include
 |---------|-----------|
 | [Jared Kushner](jared-kushner.md) | Fratello |
 | [Magnus Grimeland](magnus-grimeland.md) | Harvard classmate |
+| [Karlie Kloss](karlie-kloss.md) | Moglie (dal 2018) |
+| [Palmer Luckey](palmer-luckey.md) | Anduril, co-lead round via Thrive |
 
 ---
 
@@ -180,14 +206,21 @@ Lead investor in OpenAI - posizione privilegiata nell'AI race. Portfolio include
 | **2020** | Acquista casa Miami $23.5M |
 | **2023** | Investe $150M in OpenAI a $29B |
 | **2024** | Thrive IX raccoglie $5B+; board A24 |
+| **Set 2025** | Nasce figlia Rae Florence (terzo figlio) |
 | **2025** | Padre Charles nominato Ambasciatore Francia |
+| **Nov 2025** | Forbes: $5.2B, primo Kushner nella Billionaires List |
+| **Dic 2025** | ~$1B in OpenAI a valutazione $285B |
+| **Feb 2026** | Thrive raccoglie Fund X da $10B, record assoluto |
+| **Mar 2026** | Thrive co-lead round Anduril $4B a valutazione $60B |
 
 ---
 
 ## Domande Aperte
 
 - [ ] Dettagli rapporto con fratello Jared post-2016
+- [ ] Partecipazione a forum internazionali (Bilderberg, WEF, ecc.)
 - [ ] Posizione politica esplicita
+- [ ] Ruolo in A24 Films — solo board o investimento significativo?
 
 ---
 
@@ -200,7 +233,10 @@ Lead investor in OpenAI - posizione privilegiata nell'AI race. Portfolio include
 ### Media
 - [Fortune - How Josh Kushner built Thrive](https://fortune.com/longform/josh-kushner-net-worth-thrive-capital-investments-openai-100-billion-valuation/)
 - [Colossus - Josh Kushner and Thrive](https://colossus.com/article/joshua-kushner-thrive-new-world/)
+- [Bloomberg - Thrive Raises $10B (Feb 2026)](https://www.bloomberg.com/news/articles/2026-02-17/josh-kushner-s-thrive-capital-raises-10-billion-in-new-funding)
+- [CNBC - $1B in OpenAI at $285B](https://www.cnbc.com/2026/02/25/thrive-capital-openai-joshua-kushner.html)
+- [Forbes - First Kushner Billionaire](https://www.jpost.com/j-spot/article-703453)
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Marzo 2026*

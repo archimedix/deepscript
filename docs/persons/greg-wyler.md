@@ -136,11 +136,51 @@ Punto di svolta nella carriera di Wyler:
 
 ---
 
+## Caso Epstein (DOJ Files 2026 / Bloomberg)
+
+### Cronologia della relazione
+
+| Data | Evento |
+|------|--------|
+| **~2012-2014** | Epstein funge da confidente e adviser durante la formazione di WorldVu/OneWeb |
+| **~2013-2014** | Meeting a Necker Island (Branson) con Epstein, Dean Kamen, Boris Nikolic. Epstein porta tre vittime ("harem") |
+| **maggio 2014** | Epstein consiglia Wyler su bidding competitivo; Wyler menziona "dinner at Musk's place" |
+| **giugno 2014** | Epstein offre assistenza per "30% cut of tax savings" |
+| **ottobre 2014** | Epstein chiede aggiornamenti sui fondi; Musk non ha ancora deciso |
+| **2014+** | Email estese, voli condivisi su jet privato, visite all'isola di Epstein |
+
+### Meeting Necker Island
+
+Incontro documentato tra Epstein, Wyler, Richard Branson, Dean Kamen e Boris Nikolic (assistente di Bill Gates) sull'isola privata di Branson. Epstein porto' almeno tre vittime, tra cui Jenn Kalin. Un secondo meeting vide Epstein arrivare con tre donne del suo "harem" che non parteciparono alla riunione.
+
+### Pattern
+
+```
+Jeffrey Epstein (adviser/fundraiser)
+        |
+        +──► Greg Wyler (OneWeb/WorldVu)
+        |         |
+        |         +──► Richard Branson (Necker Island, poi investitore Virgin)
+        |         +──► Elon Musk (cena maggio 2014, potenziale investitore)
+        |         +──► SoftBank ($1B, investitore finale)
+        |
+        +──► Boris Nikolic (assistente Gates, presente a Necker)
+        +──► Melanie Walker (introdusse PSG per brainstorming satelliti)
+```
+
+### Dichiarazione di Wyler
+
+Wyler confermo' il ruolo di advisory di Epstein ma dichiaro' di non aver "mai accettato alcuna offerta o richiesta da Epstein di investire o supportare alcuna azienda."
+
+---
+
 ## Controversie
 
 | Tema | Periodo | Dettaglio |
 |------|---------|-----------|
-| **Connessione Epstein** | 2014+ | Documenti DOJ (2026) rivelano relazione estesa con Jeffrey Epstein: email frequenti, voli condivisi su jet privato, visite all'isola di Epstein. Epstein funse da advisor per il fundraising di OneWeb/WorldVu nel 2014, offri' introduzioni a investitori e chiese il 30% dei tax savings come compenso. Wyler confermo' il ruolo di advisory di Epstein ma dichiaro' che nessun investimento fu mai effettuato. |
+| **Connessione Epstein** | 2012-2014+ | Relazione estesa con Epstein: email, voli, isola, Necker Island. Epstein adviser OneWeb, chiese 30% tax savings |
+| **Necker Island** | ~2014 | Meeting con Branson ed Epstein; Epstein porto' vittime tra cui Jenn Kalin |
+| **E-Space/Rwanda** | 2021+ | 300K satelliti tramite licenze ruandesi; criticato per uso di filing authority di paese in via di sviluppo |
 
 ---
 
@@ -173,9 +213,14 @@ Greg Wyler rappresenta un caso studio di:
 
 | Persona | Relazione |
 |---------|-----------|
-| [Jeffrey Epstein](../persons/jeffrey-epstein.md) | Advisor fundraising OneWeb 2014, voli condivisi, visite isola |
-| [Masayoshi Son](../persons/masayoshi-son.md) | Investitore OneWeb |
-| [Sunil Mittal](../persons/sunil-mittal.md) | Successore come Chairman OneWeb |
+| [Jeffrey Epstein](jeffrey-epstein.md) | Advisor fundraising OneWeb 2014, voli, isola, Necker Island |
+| [Richard Branson](richard-branson.md) | Meeting Necker Island con Epstein; investitore OneWeb via Virgin |
+| [Boris Nikolic](boris-nikolic.md) | Presente a Necker Island; assistente di Gates |
+| [Elon Musk](elon-musk.md) | Cena maggio 2014; potenziale investitore OneWeb (non concretizzato) |
+| [Melanie Walker](melanie-walker.md) | Network Epstein; introdusse PSG per brainstorming satelliti |
+| [Philippa Sigl-Glockner](philippa-sigl-glockner.md) | Brainstorming satelliti Africa via Walker/Epstein |
+| Dean Kamen | Amico; presente a Necker Island |
+| [Masayoshi Son](masayoshi-son.md) | Investitore OneWeb ($1B SoftBank) |
 | Paul Kagame | Partner Rwanda (Terracom, E-Space) |
 
 ---
@@ -214,4 +259,4 @@ Greg Wyler rappresenta un caso studio di:
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Marzo 2026*

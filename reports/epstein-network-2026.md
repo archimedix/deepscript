@@ -357,7 +357,7 @@ L'infrastruttura operativa rivela un **sistema burocratico parallelo** progettat
 | [Steve Bannon](../docs/persons/steve-bannon.md) | Centinaia di testi, chiese aereo Mar 2019 | Ex consigliere White House |
 | [Alexander Acosta](../docs/persons/alexander-acosta.md) | Nego' plea deal 2008, disse che Epstein era "intelligence asset" | Ex Secretary of Labor |
 | [Kathryn Ruemmler](../docs/persons/kathryn-ruemmler.md) | Inner circle Epstein ("Uncle Jeffrey"); backup executor testamento (gen 2019); prima telefonata dopo arresto Teterboro (6 lug 2019); consulenza legale su plea deal e strategia mediatica; consulto' su [Jean-Luc Brunel](../docs/persons/jean-luc-brunel.md) quando valutava cooperazione con procuratori; regali lusso (Hermes, Fendi, spa); intermediaria Gates (2017); scores of emails 2014-2019 | **Dimessa da Goldman Sachs CLO** (12 Feb 2026); [David Solomon](../docs/persons/david-solomon.md) accetto' dimissioni |
-| [Melanie Walker](../docs/persons/melanie-walker.md) | Incontrata al Plaza Hotel 1992; "Science Advisor" 1998; introdusse Nikolic a Epstein → primo incontro Gates-Epstein ~2010 | Deputy Dir. Gates Foundation, Sr. Advisor World Bank (secondment Gates), WEF YGL 2011 |
+| [Melanie Walker](../docs/persons/melanie-walker.md) | Incontrata al Plaza Hotel 1992; "Science Advisor" 1998; introdusse Nikolic a Epstein → primo incontro Gates-Epstein ~2010; **talent scout**: presento' [Philippa Sigl-Glockner](../docs/persons/philippa-sigl-glockner.md) a Epstein (email giu 2018: "awesome young staffer" che entra nel BND); chiese $6M per trial mitocondri (email EFTA00956869) | Deputy Dir. Gates Foundation, Sr. Advisor World Bank (secondment Gates), brain science adviser Gates Ventures/bgC3, WEF YGL 2011, David Rockefeller Fellow |
 | [Boris Nikolic](../docs/persons/boris-nikolic.md) | Chief Science Advisor Gates 2000-2015; presento' Epstein a Gates ~2011 con [Nathan Myhrvold](../docs/persons/nathan-myhrvold.md); intermediario Gates-Epstein; draft emails Epstein (Lug 2013) scritte dalla prospettiva di Nikolic; nominato successor executor nel testamento (Ago 2019, rifiuto') | Co-founder [Biomatics Capital](../docs/private-equity/biomatics-capital.md) |
 | [Larry Summers](../docs/persons/larry-summers.md) | Trilateral/CFR overlap, esecutore alternativo testamento 2014, email fino Lug 2019, Epstein "wing man" | **Ban a vita AEA** (Dic 2025); dimissioni OpenAI, D.E. Shaw, Harvard (leave), Hamilton Project, Bloomberg, NYT |
 | [Stacey Plaskett](../docs/persons/stacey-plaskett.md) | General Counsel EDA USVI (~2006-2012); 3 visite Southern Trust (2014-2019); ~$30K donazioni; texting durante audizione Cohen (2019); H.Res.888 censura respinta 209-214 (nov 2025) | Delegate USVI at-large (2015-) |
@@ -527,16 +527,42 @@ Il sistema piu' elaborato di penetrazione accademica, orchestrato tramite [Joi I
 
 ##### OneWeb: Il Canale Satellitare
 
-[Greg Wyler](../docs/persons/greg-wyler.md), fondatore di O3b Networks e OneWeb (poi rivale di Starlink), e' un altro caso documentato di advisory diretto di Epstein nel tech. I documenti DOJ 2026 rivelano:
+[Greg Wyler](../docs/persons/greg-wyler.md), fondatore di O3b Networks e OneWeb (poi rivale di Starlink), e' un altro caso documentato di advisory diretto di Epstein nel tech. I documenti DOJ 2026 e l'inchiesta [Bloomberg (Feb 2026)](https://www.bloomberg.com/news/articles/2026-02-06/epstein-was-adviser-behind-funding-of-starlink-rival-oneweb) rivelano una relazione estesa:
 
 | Data | Evento |
 |------|--------|
-| **2014** | Email estese, voli condivisi su jet, visite all'isola di Epstein |
-| **Mag 2014** | Epstein consiglia a Wyler di portare competitive bidders |
+| **~2012-2014** | Epstein confidente e adviser durante formazione WorldVu/OneWeb |
+| **~2013-2014** | **Meeting Necker Island** (isola privata di [Richard Branson](../docs/persons/richard-branson.md)) con Epstein, Dean Kamen (inventore Segway) e [Boris Nikolic](../docs/persons/boris-nikolic.md) (assistente Gates). Epstein porto' almeno 3 vittime ("harem"), tra cui Jenn Kalin |
+| **Mag 2014** | Epstein consiglia competitive bidders; Wyler menziona "dinner at Musk's place" (con [Elon Musk](../docs/persons/elon-musk.md)) |
 | **Giu 2014** | Epstein offre aiuto in cambio del 30% dei tax savings |
-| **Ott 2014** | Epstein chiede aggiornamenti sul fundraising, menzionando che "Musk hadn't decided on funding" |
+| **Ott 2014** | Epstein chiede aggiornamenti: "Musk hadn't decided on funding" |
+| **2014+** | Email estese, voli condivisi su jet privato, visite all'isola di Epstein |
 
-Wyler ha confermato il ruolo di advisory ma dichiarato che nessun investimento fu effettuato. Il caso mostra l'interesse di Epstein per le infrastrutture satellitari globali e la sua conoscenza delle dinamiche competitive SpaceX/OneWeb — un settore con evidenti implicazioni per intelligence e sorveglianza.
+Il meeting **Necker Island** e' un nodo cruciale: collega la rete satellitare (Wyler), la rete Gates (Nikolic), il capitalismo filantropico (Branson) e la rete di sfruttamento (vittime presenti al meeting). Branson poi investi' in OneWeb via Virgin; Musk non investi' ma il contatto dimostra il ruolo di Epstein come broker tra imprenditori tech miliardari.
+
+Wyler ha confermato il ruolo di advisory ma dichiarato che nessun investimento fu effettuato. Il caso mostra l'interesse di Epstein per le infrastrutture satellitari globali — un settore con evidenti implicazioni per intelligence e sorveglianza.
+
+##### Il Canale Tedesco: Walker → Sigl-Glockner → BND → Scholz
+
+I DOJ files rivelano un canale di penetrazione della rete Epstein nel governo tedesco, attraverso [Melanie Walker](../docs/persons/melanie-walker.md) e la sua protetta [Philippa Sigl-Glockner](../docs/persons/philippa-sigl-glockner.md) (PSG):
+
+| Data | Evento |
+|------|--------|
+| **~2013** | PSG lavora per Tony Blair's Africa Governance Initiative |
+| **2013-2018** | PSG alla World Bank, President's Delivery Unit (stesso ambiente di Walker) |
+| **2014** | Email Epstein: PSG e [Greg Wyler](../docs/persons/greg-wyler.md) brainstorming su satelliti Africa ("Re: satellites") |
+| **Giu 2018** | Walker a Epstein: "You remember one of my awesome young staffers... Philippa finished her master's in compsci and starts a job with the **super elite German secret service** and is placed within the **ministry of Finance to follow money**" |
+| **2018** | PSG assegnata dal BND (intelligence tedesca) al Bundesministerium der Finanzen, ufficio del Sottosegretario [Wolfgang Schmidt](../docs/persons/wolfgang-schmidt.md) |
+| **2018** | PSG fonda [Dezernat Zukunft](../docs/think-tank/dezernat-zukunft.md) (think tank macrofinanziario) mentre ancora al BMF |
+| **2019** | Walker descrive PSG come "pretty incredible, and tough" — poco prima dell'arresto di Epstein |
+| **2020** | PSG diventa Managing Director a tempo pieno di Dezernat Zukunft; entra nel Beirat economico SPD |
+| **2025** | PSG candidata Bundestag SPD (Munchen Nord), miglior risultato Erststimme SPD in Baviera |
+
+**Pattern revolving door**: Dal network Epstein-Walker (World Bank) → BND → Ministero Finanze tedesco (ufficio Schmidt, futuro Kanzleramtsminister di [Olaf Scholz](../docs/persons/olaf-scholz.md)) → think tank Dezernat Zukunft (finanziato da [Open Society](../docs/foundation/open-society.md), [Open Philanthropy](../docs/foundation/open-philanthropy.md), [CIFF](../docs/foundation/childrens-investment-fund.md)) → Beirat economico SPD → candidata Bundestag.
+
+PSG e Schmidt sono compagni. La riforma della Schuldenbremse (freno al debito tedesco) — tema centrale di Dezernat Zukunft — e' entrata nel programma della coalizione CDU-SPD 2025.
+
+Questo e' il primo caso documentato di penetrazione della rete Epstein nell'apparato di governo tedesco, con una traiettoria che va dall'intelligence (BND) alla politica fiscale (BMF/SPD) passando per il think tank ecosystem finanziato da fondazioni americane.
 
 ##### Il Canale Crypto: DCI e Zcash
 
@@ -593,7 +619,7 @@ L'accesso di Epstein a [Bill Gates](../docs/persons/bill-gates.md) fu mediato da
 | Intermediario | Ruolo Gates | Canale verso Epstein |
 |---------------|-------------|---------------------|
 | [Boris Nikolic](../docs/persons/boris-nikolic.md) | Chief Science & Technology Advisor (2000-2015) | Presento' Epstein a Gates ~2011 con Myhrvold; draft emails Epstein Lug 2013 dalla sua prospettiva; nominato successor executor testamento |
-| [Melanie Walker](../docs/persons/melanie-walker.md) | Deputy Dir. Gates Foundation, Sr. Advisor World Bank | Conobbe Epstein dal 1992 (Plaza Hotel); sua "Science Advisor" 1998; introdusse Nikolic a Epstein |
+| [Melanie Walker](../docs/persons/melanie-walker.md) | Deputy Dir. Gates Foundation, Sr. Advisor World Bank, brain science adviser bgC3 | Conobbe Epstein dal 1992 (Plaza Hotel); sua "Science Advisor" 1998; introdusse Nikolic a Epstein; **talent scout** per la rete (presento' PSG a Epstein, email giu 2018); chiese $6M a Epstein per trial mitocondri (EFTA00956869) |
 | [Nathan Myhrvold](../docs/persons/nathan-myhrvold.md) | Ex CTO Microsoft, co-autore Intellectual Ventures | Presento' Epstein a Gates ~2011 con Nikolic |
 | [Amy K. Carter](../docs/persons/amy-carter.md) | Vice Dir. Family Interest Grants, Gates Foundation | Firmataria lettera IPI 2015 su preparazione pandemica; canale parallelo a Rod-Larsen |
 
@@ -763,6 +789,36 @@ Jeffrey Epstein → rete intelligence + rete finanziaria
 ```
 
 [Robert Maxwell](../docs/persons/robert-maxwell.md), interrogatore intelligence britannica a Spandau Prison (1945-47), fu reclutato nell'MI6 da Count [Frederick Vanden Heuvel](../docs/persons/frederick-vanden-heuvel.md) (Z-1, capo della Z Organisation). Creo' [Pergamon Press](../docs/companies/pergamon-press.md) (1951) come copertura per contatti con scienziati sovietici — co-fondatore era [Paul Rosbaud](../docs/persons/paul-rosbaud.md) ("The Griffin"), agente MI6 a Springer durante la WWII. Maxwell fu anche coinvolto nella distribuzione del software [PROMIS](../docs/organization/promis.md) per conto del Mossad. Segnalo' al Mossad la fuga di [Mordechai Vanunu](../docs/persons/mordechai-vanunu.md) (1986). Ari Ben-Menashe (ex intelligence israeliana) dichiara di aver visto Epstein nell'ufficio di Maxwell negli anni '80.
+
+#### Samuel Pisar: Il Ponte Maxwell → Epstein → Segreteria di Stato
+
+La connessione Maxwell-Epstein ha un canale parallelo che arriva direttamente alla Segreteria di Stato USA attraverso [Samuel Pisar](../docs/persons/samuel-pisar.md) (1929-2015), avvocato internazionale e sopravvissuto all'Olocausto:
+
+```
+Robert Maxwell (cliente/confidente)
+    ↓ avvocato e closest business advisor
+Samuel Pisar ──→ ultimo a parlare con Maxwell prima della morte (1991)
+    ↓ dopo la morte di Maxwell, divenne advisor di Epstein
+Jeffrey Epstein (black book p.87, 7 numeri di telefono)
+    ↓ patrigno di
+Antony Blinken → Secretary of State (2021-2025)
+```
+
+**Pisar e Maxwell**: Pisar era "one of Maxwell's few confidants and probably his closest business adviser". Facilito' l'ingresso di Maxwell nel business israeliano. Fu probabilmente l'ultimo a parlare con Maxwell prima della sua morte sullo yacht *Lady Ghislaine* (nov. 1991).
+
+**Pisar ed Epstein**: Dopo la morte di Maxwell, Pisar divenne advisor di Epstein. E' listato nel black book di Epstein (pagina 87) con 7 numeri di telefono — un numero insolitamente alto che indica un rapporto stretto e continuativo.
+
+**La connessione familiare**: Pisar sposo' Judith Blinken (1971), ex moglie di [Donald M. Blinken](../docs/persons/donald-blinken.md), co-fondatore di [Warburg Pincus](../docs/private-equity/warburg-pincus.md) e ambasciatore USA in Ungheria. Il figlio di Judith, [Antony Blinken](../docs/persons/antony-blinken.md), crebbe a Parigi con Pisar e divenne il 71st Secretary of State (2021-2025).
+
+**La dinastia [Blinken](../docs/family/blinken.md)**: una famiglia ebreo-ucraina (origine Pereiaslav/Kiev) che in quattro generazioni passo' dalla letteratura yiddish alla Segreteria di Stato:
+- **Gen 1**: [Meir Blinken](../docs/persons/meir-blinken.md) — emigrato da Kiev 1904, scrittore yiddish
+- **Gen 2**: [Maurice Blinken](../docs/persons/maurice-blinken.md) — fondatore dell'[American Palestine Institute](../docs/think-tank/american-palestine-institute.md), contribui' alla creazione di Israele
+- **Gen 3**: Donald Blinken (co-fondatore Warburg Pincus, ambasciatore Ungheria) + [Alan Blinken](../docs/persons/alan-blinken.md) (ambasciatore Belgio) — due fratelli ambasciatori sotto Clinton
+- **Gen 4**: Antony Blinken — Secretary of State, co-fondatore [WestExec Advisors](../docs/company/westexec-advisors.md) e partner [Pine Island Capital Partners](../docs/private-equity/pine-island-capital-partners.md)
+
+**Il revolving door WestExec/Pine Island**: Prima di diventare Secretary of State, Antony Blinken co-fondo' WestExec Advisors (2017), una consulenza strategica per defense contractors (clienti: Boeing, Palantir, Blackstone, Lazard, Microsoft, SoftBank), e fu partner di Pine Island Capital Partners, una PE firm specializzata in aerospace/defense. Da questa rete uscirono 5 dei posti piu' potenti dell'apparato di sicurezza USA: Secretary of State (Blinken), Secretary of Defense ([Lloyd Austin](../docs/persons/lloyd-austin.md), partner Pine Island), DNI ([Avril Haines](../docs/persons/avril-haines.md), WestExec), Deputy CIA ([David Cohen](../docs/persons/david-cohen.md), WestExec), Deputy AG ([Lisa Monaco](../docs/persons/lisa-monaco.md), WestExec).
+
+**Il pattern**: La catena Pisar-Maxwell-Epstein-Blinken non e' una "conspiracy theory" ma un dato genealogico documentato. Lo stesso patrigno che era confidente di Robert Maxwell e advisor di Jeffrey Epstein allevo' il futuro Secretary of State americano. Questo non implica che Antony Blinken fosse coinvolto nella rete, ma colloca la piu' alta carica diplomatica USA a un solo grado di separazione dalla catena Maxwell-Epstein — attraverso un legame familiare diretto.
 
 #### Ehud Barak e AMAN
 
@@ -1122,6 +1178,7 @@ Persone nella rete Epstein con il maggior numero di affiliazioni ad organizzazio
 | 6 | [Bill Clinton](../docs/persons/bill-clinton.md) | 9 | Bilderberg, Trilateral, CFR, Governo USA |
 | 7 | [Peter Mandelson](../docs/persons/peter-mandelson.md) | 9 | Bilderberg, WEF, Trilateral, Lazard, EU Commission |
 | 8 | [Robert Maxwell](../docs/persons/robert-maxwell.md) | 9 | Mirror Group, Pergamon Press, Governo UK (Labour) |
+| 8b | [Samuel Pisar](../docs/persons/samuel-pisar.md) | 10 | Harvard, UNESCO, UN — ponte Maxwell→Epstein→Blinken (Secretary of State) |
 | 9 | [Steve Bannon](../docs/persons/steve-bannon.md) | 8 | Goldman Sachs, Governo USA, Cambridge Analytica |
 | 10 | [Borge Brende](../docs/persons/borge-brende.md) | 8 | Bilderberg (steering), WEF (CEO), Trilateral, Governo NOR |
 
@@ -1150,6 +1207,7 @@ Persone nella rete Epstein con il maggior numero di affiliazioni ad organizzazio
 | **2017 Gen** | Thread iMessage Epstein: "simulazione pandemica" come qualifica; menu carriera bgC3/Biomatics/Merck/Swiss Re |
 | **2017 Mar** | Documento bgC3 "simulazione pandemia di ceppo" inoltrato a Epstein |
 | **2017 Mag** | Email Epstein-Gates-Nikolic: "pandemia" come area DAF permanente |
+| **2018 Giu** | Walker a Epstein: "awesome young staffer" PSG entra nel BND e Min. Finanze tedesco |
 | **2018** | Brockman chiude l'Annual Question di Edge dopo 20 anni |
 | **2019 Lug** | Arresto federale NYC |
 | **2019 Ago 10** | Morte in cella (suicidio ufficiale, contestato) |
@@ -1319,7 +1377,9 @@ Il rilascio dei file sotto AG Pam Bondi e' stato segnato da controversie: sorveg
 - Contenuto delle ~3M pagine non ancora rilasciate pubblicamente
 - Materiale classificato escluso dall'Epstein Files Act
 - Natura esatta dei "servizi" resi a Wexner (oltre wealth management)
-- Continuita' tra rete Maxwell (MI6/Mossad) e rete Epstein post-1991
+- Continuita' tra rete Maxwell (MI6/Mossad) e rete Epstein post-1991 — **parzialmente risolta**: Samuel Pisar fu il ponte diretto Maxwell→Epstein come avvocato/advisor; la connessione familiare Pisar-Blinken colloca la Segreteria di Stato a 1 grado di separazione
+- Pisar-Epstein: natura esatta del rapporto di advisory post-1991 — consulenza legale, finanziaria, o intelligence?
+- Impatto della connessione Pisar-Maxwell-Epstein sulla politica estera USA sotto Blinken (2021-2025), in particolare verso Israele
 - Circostanze reali della morte
 - Interesse di Epstein nelle privacy coins (Zcash/zk-SNARKs): puro investimento o strumento operativo?
 - Portata del finanziamento Epstein allo sviluppo Bitcoin Core via DCI
@@ -1347,7 +1407,10 @@ Il rilascio dei file sotto AG Pam Bondi e' stato segnato da controversie: sorveg
 - Sovrapposizione board Theranos e rete Epstein (Kissinger, Shultz, Mattis, Nikolic, Boies): coincidenza o pattern di reclutamento condiviso? Holmes usava gli stessi circoli di potere di Epstein?
 - Cosa accadde esattamente a St. Thomas nell'aprile 2014 tra Epstein, Back e Hill?
 - Il pranzo Epstein-Barrack-Barak-Churkin (ago 2016): networking o operazione? Tre mesi prima delle elezioni USA
-- Interesse di Epstein nelle infrastrutture satellitari (OneWeb/Wyler): sorveglianza, comunicazioni, o puro investimento?
+- Interesse di Epstein nelle infrastrutture satellitari (OneWeb/Wyler): sorveglianza, comunicazioni, o puro investimento? Il meeting Necker Island (Wyler-Branson-Nikolic-Epstein) suggerisce convergenza tra tech, filantropia e intelligence
+- **Canale tedesco**: PSG fu effettivamente assegnata dal BND al BMF? Natura del rapporto BND-Walker-Epstein. Chi autorizzo' il placement?
+- **Canale tedesco**: Dezernat Zukunft riceve fondi da Open Society/Open Philanthropy — connessione con il network Epstein-Gates o coincidenza nel funding ecosystem?
+- **Canale tedesco**: PSG ebbe contatti diretti con Epstein oltre a quelli mediati da Walker? Contenuto completo delle email "Re: satellites" con Wyler
 - Natura del canale Epstein-Russia via Churkin: social networking o intelligence?
 - Connessione tra John Negroponte (intelligence USA: DNI, ambasciatore Honduras/Iraq) e il network Epstein via il fratello Nicholas
 - Lista completa dei partecipanti al St. Thomas Commonsense Symposium (isola Epstein, ~2011) con Minsky
@@ -1443,13 +1506,19 @@ Il rilascio dei file sotto AG Pam Bondi e' stato segnato da controversie: sorveg
 - [BuzzFeed News - Epstein, Dershowitz, Pinker linguistic analysis (2019)](https://www.buzzfeednews.com/article/peteraldhous/jeffrey-epstein-alan-dershowitz-steven-pinker)
 - [Boston Globe - Pinker Epstein ties renewed (Nov 2025)](https://www.bostonglobe.com/2025/11/19/metro/steven-pinker-epstein-ties/)
 
-### Barrack / Churkin / Wyler (DOJ 2026)
+### Barrack / Churkin / Wyler / Canale Tedesco (DOJ 2026)
 - [CBS News - Barrack-Epstein files](https://www.cbsnews.com/news/tom-barrack-jeffrey-epstein-files/)
 - [Jerusalem Post - Epstein pushed for Trump war council](https://www.jpost.com/international/article-886681)
 - [Daily Beast - Epstein secrecy orders to Barrack](https://www.thedailybeast.com/epsteins-secrecy-orders-to-trumps-wealthy-henchman-exposed/)
 - [CNN - Epstein Russia connections via Churkin](https://www.cnn.com/2026/02/08/politics/epstein-putin-russian-officials-connections)
 - [Meduza - Russians in Epstein files](https://meduza.io/en/feature/2026/02/03/who-are-the-russians-named-in-the-latest-epstein-files-vladimir-putin-for-one)
 - [Bloomberg - Epstein adviser behind OneWeb funding](https://www.bloomberg.com/news/articles/2026-02-06/epstein-was-adviser-behind-funding-of-starlink-rival-oneweb)
+- [Paste Magazine - Branson-Epstein Necker Island](https://www.pastemagazine.com/music/epstein-files/uncovering-richard-bransons-extensive-relationship-with-jeffrey-epstein)
+- [WION - Epstein files name Philippa Sigl-Gloeckner](https://www.wionews.com/world/epstein-files-philippa-sigl-gloeckner-olaf-scholz-doj-release-1771763806746)
+- [Anadolu Agency - Scholz ex-secretary in Epstein documents](https://www.aa.com.tr/en/europe/former-german-chancellor-scholz-s-ex-secretary-named-in-epstein-documents/3836728)
+- [EIR - "Awesome Philippa" and Epstein Networks in Germany](https://eir.news/2026/02/news/uncover-the-epstein-green-intelligence-networks-in-germany/)
+- [EIR - More on "Awesome Philippa" and Connections to Epstein and Blair](https://eir.news/2026/02/news/more-on-awesome-philippa-and-her-connections-to-epstein-and-blair/)
+- [Epstein Exposed - Melanie Walker profile](https://epsteinexposed.com/persons/melanie-walker)
 
 ### Emirati / DP World / Bin Sulayem
 - [CNN - Bin Sulayem sexually explicit emails with Epstein](https://www.cnn.com/2026/02/13/business/epstein-files-bin-sulayem-friendship-intl)

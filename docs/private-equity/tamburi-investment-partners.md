@@ -36,7 +36,11 @@
 | **2013** | Investimento pre-IPO in Moncler |
 | **2014** | Acquisizione quota Eataly via Clubitaly |
 | **2018** | Parziale realizzo su Moncler (+37M EUR plusvalenza) |
+| **2024** | Acquisizione 36% Alpitour da [Andrea Ruben Levi](../persons/andrea-ruben-levi.md) per €207,2M; controllo al 95,7%; valutazione €565M |
 | **2025** | Nuovo CdA per triennio 2025-2027 |
+| **2025** | Parziale realizzo su [Bending Spoons](../company/bending-spoons.md): vendita ~9% per €27M (plusvalenza €25M); partecipazione residua ~3% vale ~€285M |
+| **2025** | Partecipazione al capitale di Talent Garden (digital education, €3M) |
+| **2025** | Utile netto consolidato H1 2025: €47M (+38%) |
 
 ---
 
@@ -110,13 +114,13 @@ TIP si posiziona come alternativa al private equity tradizionale:
 | [Interpump](../companies/interpump.md) | Industrial pumps | 2002 | 20+ anni, x12 sul prezzo |
 | [OVS](../companies/ovs.md) | Retail fashion | - | Leader italiano abbigliamento |
 | [Eataly](../companies/eataly.md) | Food retail | 2014 | Via Clubitaly, ~20% |
-| Alpitour | Tourism | - | - |
+| [Alpitour](../company/alpitour.md) | Tourism | 2017 | 95,7% via Asset Italia; club deal con Angelini, D'Amico, Ferrero; valutazione €565M |
 | Azimut Benetti | Yachts | - | - |
 | Engineering | IT services | - | - |
 | Hugo Boss | Fashion | - | - |
 | Roche Bobois | Furniture | - | - |
 | Sesa | IT distribution | - | - |
-| Bending Spoons | Tech | - | - |
+| [Bending Spoons](../company/bending-spoons.md) | Tech | - | ~3% residuo post-realizzo; vale ~€285M (14% NAV TIP) |
 
 ---
 
@@ -128,6 +132,15 @@ TIP si posiziona come alternativa al private equity tradizionale:
 |---------|-------|
 | [Giovanni Tamburi](../persons/giovanni-tamburi.md) | Fondatore, Presidente e CEO |
 | [Alessandra Gritti](../persons/alessandra-gritti.md) | Co-fondatrice, Vice Presidente e CEO |
+| [Andrea Ruben Levi](../persons/andrea-ruben-levi.md) | Ex azionista Alpitour 36% (venduto a TIP 2024) |
+
+### Partecipazioni con entita' nel DB
+
+| Entita' | Relazione |
+|---------|-----------|
+| [Alpitour](../company/alpitour.md) | Controlling (95,7%) via Asset Italia |
+| [Bending Spoons](../company/bending-spoons.md) | Stake (~3%) |
+| [Hugo Boss](../company/hugo-boss.md) | Stake |
 
 ### Network Famiglie Italiane
 
@@ -164,4 +177,4 @@ TIP rappresenta un nodo centrale nel network del capitalismo familiare italiano,
 
 ---
 
-*Ultimo aggiornamento: Gennaio 2026*
+*Ultimo aggiornamento: Marzo 2026*

@@ -5,27 +5,36 @@
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
   │ sabbatai-zvi          │ Sabbatai Zvi          │ 1626 │ OTT     │ SI         │
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
-  │ jacob-querido         │ Jacob Querido         │ 1650 │ OTT     │ NO         │
+  │ jacob-querido         │ Jacob Querido         │ 1650 │ OTT     │ SI         │
+  Successore di Sabbatai Zvi, fondatore della fazione Yakubi dei Donme
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
   │ baruchiah-russo       │ Baruchiah Russo       │ 1677 │ OTT     │ SI         │
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
   │ mustafa-celebi        │ Mustafa Celebi        │ —    │ OTT     │ SI         │
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
   │ gracia-mendes-nasi    │ Gracia Mendes Nasi    │ 1510 │ PRT-OTT │ SI         │
+  Banchiera sefardita, filantropa e leader della diaspora ebraica. Creatrice della rete clandestina di salvataggio dei conversos dalla Inquisizione. Una delle donne piu' ricche del Rinascimento europeo
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
-  │ mehmed-kapanci        │ Mehmed Kapanci        │ —    │ OTT     │ NO         │
+  │ mehmed-kapanci        │ Mehmed Kapanci        │ —    │ OTT     │ SI         │
+  Banchiere e capo della Camera di Commercio di Salonicco; eponimo della fazione Kapanci dei Donme
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
-  │ emmanuel-carasso      │ Emmanuel Carasso      │ 1862 │ OTT     │ NO         │
+  │ emmanuel-carasso      │ Emmanuel Carasso      │ 1862 │ OTT     │ SI         │
+  Avvocato sefardita, fondatore loggia Macedonia Risorta, co-fondatore CUP, deputato ottomano
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
-  │ talaat-pasha          │ Mehmed Talaat Pasha   │ 1874 │ OTT     │ NO         │
+  │ talaat-pasha          │ Mehmed Talaat Pasha   │ 1874 │ OTT     │ SI         │
+  Gran Visir ottomano, leader civile del CUP, uno dei Tre Pascia, architetto del genocidio armeno
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
-  │ djavid-bey            │ Mehmed Djavid Bey     │ 1875 │ OTT     │ NO         │
+  │ djavid-bey            │ Mehmed Djavid Bey     │ 1875 │ OTT     │ SI         │
+  Ministro delle Finanze ottomano, economista Donme, co-fondatore del Comitato Unione e Progresso
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
-  │ mustafa-kemal-ataturk │ Mustafa Kemal Atatürk │ 1881 │ OTT-TUR │ NO         │
+  │ mustafa-kemal-ataturk │ Mustafa Kemal Atatürk │ 1881 │ OTT-TUR │ SI         │
+
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
-  │ enver-pasha           │ Ismail Enver Pasha    │ 1881 │ OTT     │ NO         │
+  │ enver-pasha           │ Ismail Enver Pasha    │ 1881 │ OTT     │ SI         │
+  Ministro della Guerra ottomano, leader militare dei Tre Pascia, pan-turanista, morto combattendo in Asia Centrale
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
-  │ ivan-savvidis         │ Ivan Savvidis         │ 1959 │ RUS-GRC │ NO         │
+  │ ivan-savvidis         │ Ivan Savvidis         │ 1959 │ RUS-GRC │ SI         │
+  Oligarca russo-greco pontico, magnate del tabacco, proprietario PAOK e Porto di Salonicco, ex deputato Duma vicino a Putin
   ├───────────────────────┼───────────────────────┼──────┼─────────┼────────────┤
   │ albert-bourla         │ Albert Bourla         │ 1961 │ GRC-USA │ SI         │
   └───────────────────────┴───────────────────────┴──────┴─────────┴────────────┘
@@ -37,16 +46,31 @@
   ├───────────────────┼─────────────────────────────────┼────────────┼────────────┤
   │ donme             │ Dönmeh                          │ Sect       │ SI         │
   ├───────────────────┼─────────────────────────────────┼────────────┼────────────┤
-  │ cup               │ Committee of Union and Progress │ Forum      │ NO         │
+  │ cup               │ Committee of Union and Progress │ Forum      │ SI         │
+  Da societa' segreta studentesca a dittatura a partito unico: il movimento dei Giovani Turchi che trasformo' e distrusse l'Impero Ottomano
   ├───────────────────┼─────────────────────────────────┼────────────┼────────────┤
-  │ macedonia-risorta │ Loggia Macedonia Risorta        │ Forum      │ NO         │
+  │ macedonia-risorta │ Loggia Macedonia Risorta        │ Forum      │ SI         │
+  Loggia massonica italiana a Salonicco che funse da sede operativa e copertura per la rivoluzione dei Giovani Turchi
   ├───────────────────┼─────────────────────────────────┼────────────┼────────────┤
   │ paok-fc           │ PAOK FC                         │ SportsClub │ NO         │
   ├───────────────────┼─────────────────────────────────┼────────────┼────────────┤
   │ thessaloniki-port │ Thessaloniki Port Authority     │ Company    │ NO         │
   └───────────────────┴─────────────────────────────────┴────────────┴────────────┘
 
-  [v] gracia-mendes-nasi : Banchiera sefardita, filantropa e leader della diaspora ebraica. Creatrice della rete clandestina di salvataggio dei conversos dalla Inquisizione. Una delle donne piu' ricche del Rinascimento europeo
+freemason
+[v] governo-ottomano : Impero multietnico 1299-1922, dalla Sublime Porta ai Giovani Turchi
+
+[v] cemal-pasha : Ministro della Marina, governatore autocratico della Siria, uno dei Tre Pascia, assassinato a Tiflis
+
+**sects**
+[v] izmirli : Setta madre Donme originaria da Smirne; seguaci diretti di Sabbatai Zvi
+[v] donme (Dönmeh) :  
+[v] Yakubi : Fazione Donme fondata da Jacob Querido; la piu' antica sotto-setta sabbatiana dopo la scissione
+[v] Karakash: Fazione Donme piu' numerosa e radicale, fondata da Baruchiah Russo (Osman Baba)
+[v] Kapanci : Fazione Donme originaria rimasta fedele solo a Sabbatai Zvi; assimilazionista
+
+
+[v] gracia-mendes-nasi : Banchiera sefardita, filantropa e leader della diaspora ebraica. Creatrice della rete clandestina di salvataggio dei conversos dalla Inquisizione. Una delle donne piu' ricche del Rinascimento europeo
 [v] joseph-nasi : Duca di Naxos, consigliere del Sultano Selim II, monopolista e agente di intelligence ottomano. Primo tentativo di insediamento ebraico in Palestina. Istigatore della guerra ottomano-veneziana per Cipro.
 **FAMILY**
 [v] mendes-nasi : Dinastia bancaria sefardita del XVI secolo. Casa Mendes-Benveniste: una delle piu' grandi banche d'Europa insieme a Fugger e Welser. Controllavano il commercio del pepe nero, finanziavano re e papi, e crearono la rete clandestina di salvataggio dei cripto-ebrei dall'Inquisizione iberica.

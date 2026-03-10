@@ -35,14 +35,16 @@
 
 | Periodo | Ruolo | Organizzazione |
 |---------|-------|----------------|
-| **1893-1902** | Partner | M.M. Warburg & Co. (Amburgo) |
+| **1893-1902** | Partner | [M.M. Warburg & Co.](../bank/mm-warburg.md) (Amburgo) |
 | **1902** | Immigrazione USA | Matrimonio con Nina Loeb |
 | **1902-1914** | Partner | Kuhn, Loeb & Co. (New York) |
 | **1910** | Partecipante | Jekyll Island — architettura Fed |
 | **1914-1918** | Membro | Federal Reserve Board |
 | **1916-1918** | Vice Chairman | Federal Reserve Board |
 | **1918-1932** | Banchiere privato | Attivita' varie |
-| **1921** | Fondatore | Council on Foreign Relations |
+| **1921** | Fondatore/Chairman | [International Acceptance Bank](../bank/international-acceptance-bank.md) |
+| **1921** | Fondatore/Director | Council on Foreign Relations |
+| **1925-1932** | Board member | [I.G. Farben](../company/ig-farben.md) (via Agfa Ansco) |
 
 ### L'Arrivo in America (1902)
 
@@ -174,11 +176,13 @@ City Bank)           Island)              1921)
 
 | Parente | Ruolo | Connessione |
 |---------|-------|-------------|
-| **Max Warburg** | Fratello | M.M. Warburg Amburgo, consigliere Kaiser |
-| **Felix Warburg** | Fratello | Partner Kuhn, Loeb; filantropo |
-| **Solomon Loeb** | Suocero | Fondatore Kuhn, Loeb & Co. |
-| **Jacob Schiff** | Cognato (di Felix) | Senior Partner Kuhn, Loeb |
-| **James P. Warburg** | Figlio | Brain Trust FDR |
+| [**Max Warburg**](max-warburg.md) | Fratello | M.M. Warburg Amburgo, consigliere Kaiser |
+| [**Aby Warburg**](aby-warburg.md) | Fratello | Storico dell'arte, fondatore Warburg Institute |
+| [**Felix Warburg**](felix-warburg.md) | Fratello | Partner Kuhn, Loeb; filantropo |
+| [**Solomon Loeb**](solomon-loeb.md) | Suocero | Fondatore Kuhn, Loeb & Co. |
+| [**Jacob Schiff**](jacob-schiff.md) | Cognato (di Felix) | Senior Partner Kuhn, Loeb |
+| [**James Warburg**](james-warburg.md) | Figlio | Brain Trust FDR |
+| [**Eric Warburg**](eric-warburg.md) | Nipote (figlio di Max) | Fondatore Warburg Pincus |
 
 ### Alleanze Professionali
 
@@ -275,9 +279,12 @@ City Bank)           Island)              1921)
 
 | Entita' | Connessione |
 |---------|-------------|
-| [Federal Reserve](../istituzioni/federal-reserve.md) | Architetto |
-| [CFR](../istituzioni/cfr.md) | Fondatore |
-| [Warburg Pincus](../istituzioni/warburg-pincus.md) | Legacy familiare |
+| [M.M. Warburg & Co.](../bank/mm-warburg.md) | Partner 1893-1902 |
+| [Kuhn, Loeb & Co.](../bank/kuhn-loeb.md) | Partner 1902-1914 |
+| [Federal Reserve](../bank/federal-reserve.md) | Board member / Vice Chairman 1914-1918 |
+| [International Acceptance Bank](../bank/international-acceptance-bank.md) | Founder / Chairman 1921-1929 |
+| [I.G. Farben](../company/ig-farben.md) | Board 1925-1932 |
+| [CFR](../forum/cfr.md) | Fondatore / Director 1921-1932 |
 
 ### Famiglie
 
@@ -298,7 +305,7 @@ City Bank)           Island)              1921)
 
 | Evento | Ruolo |
 |--------|-------|
-| [Jekyll Island 1910](../eventi/1910-jekyll-island.md) | Partecipante chiave, architetto |
+| [Jekyll Island Meeting](../events/1910-jekyll-island.md) | Partecipante chiave, architetto |
 
 ---
 
@@ -318,7 +325,8 @@ City Bank)           Island)              1921)
 | **1914** | Nominato al Federal Reserve Board |
 | **1916** | Vice Chairman Fed |
 | **1918** | Dimissioni (clima anti-tedesco) |
-| **1921** | Fonda CFR |
+| **1921** | Fonda CFR e International Acceptance Bank |
+| **1925** | Board member I.G. Farben (American division) |
 | **1927** | Avverte di bolla speculativa |
 | **1929** | Crash conferma sue previsioni |
 | **1932** | Morte a New York |
@@ -355,4 +363,4 @@ City Bank)           Island)              1921)
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Marzo 2026*

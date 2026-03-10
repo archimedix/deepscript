@@ -13,7 +13,7 @@
 | **Coniuge** | [Nicole Edelmann](nicole-edelmann.md) Luckey (sposati 2019, incontrati al debate camp) |
 | **Figli** | Almeno uno (dettagli non pubblici) |
 | **Residenza** | Lido Isle, Newport Beach, California |
-| **Patrimonio** | ~$3.5 miliardi (Feb 2026, Forbes) |
+| **Patrimonio** | ~$7 miliardi (Mar 2026, stimato su Anduril $60B) |
 
 ---
 
@@ -45,7 +45,9 @@ Da adolescente costruiva railgun, Tesla coil, laser (con relativi incidenti). Ri
 | **2011-2012** | Part-time engineer | USC Institute for Creative Technologies, MxR Lab |
 | **2012-2014** | Fondatore | [Oculus VR](../companies/oculus-vr.md) |
 | **2014-2017** | Impiegato (post-acquisizione) | [Meta Platforms](../companies/meta.md) (Facebook) |
-| **2017-oggi** | Fondatore, CTO | [Anduril Industries](../companies/anduril.md) |
+| **2017-oggi** | Fondatore, CTO | [Anduril Industries](../defense/anduril.md) |
+| **2023-oggi** | Fondatore | [ModRetro](../company/modretro.md) |
+| **2024-oggi** | Co-fondatore | [Erebor Bank](../bank/erebor-bank.md) |
 
 ### Oculus VR (2012-2014)
 
@@ -89,6 +91,8 @@ Da adolescente costruiva railgun, Tesla coil, laser (con relativi incidenti). Ri
 | **Giu 2025** | Serie G: $2.5B raccolti, valutazione $30.5B (2x in 10 mesi) |
 | **2025-26** | Espansione AUKUS: presenza in USA, UK, Australia |
 | **2026** | Arsenal-1: stabilimento armi autonome da $1B in Ohio, 5M sq ft, 4000+ posti |
+| **Mar 2026** | Nuovo round $4B a valutazione $60B, co-lead a16z + Thrive Capital (Josh Kushner) |
+| **2025-26** | Revenue raddoppiata a ~$2B |
 
 **Contratti Pentagon recenti:**
 - $642M - Marine Corps I-CsUAS (10 anni)
@@ -96,6 +100,35 @@ Da adolescente costruiva railgun, Tesla coil, laser (con relativi incidenti). Ri
 - $159M - Soldier Borne Mission Command
 - $99.6M - Next-Generation Command and Control (NGC2)
 - Partecipazione al programma Replicator del Pentagono
+
+### Erebor Bank (2024-oggi)
+
+| Anno | Evento |
+|------|--------|
+| **2024** | Co-fonda Erebor Bank, banca digitale per tech/defense/crypto a Columbus, Ohio |
+| **Ott 2025** | OCC concede charter nazionale condizionato — prima nuova national charter sotto Trump 2 |
+| **2025** | Raccoglie $635M da a16z, Founders Fund, Lux Capital, 8VC, Elad Gil |
+| **Gen 2026** | Lux Capital guida round da $350M, valutazione $4.35B |
+| **Feb 2026** | OCC approva charter nazionale definitivo |
+
+**Servizi:** Prestiti garantiti da crypto e private securities, finanziamento chip AI, servizi digitali per startup tech e dipendenti.
+
+### ModRetro (2023-oggi)
+
+| Anno | Evento |
+|------|--------|
+| **2023** | Fonda ModRetro, startup retro gaming |
+| **2024** | Lancia Chromatic (Game Boy-style), definita "the best version of the Game Boy ever made" (The Verge) |
+| **Mar 2026** | In trattativa per round a valutazione $1B. M64 (clone N64 FPGA, $199) in produzione, lancio primavera 2026 |
+
+### Visita Israele (Feb 2026)
+
+Visita segreta di due giorni in Israele:
+- Incontro con PM Netanyahu e alti funzionari difesa
+- Presentazioni da 10 startup defense-tech israeliane (Skana Robotics, Regulus, Magnus Metal, eyesAtop, AriEV)
+- Organizzata da Min. Difesa israeliano (MAFAT) e Asio (gia' partner Anduril)
+- Trip organizzato da Josh Wolfe (Lux Capital)
+- Possibili partnership e marketing prodotti Anduril all'establishment difesa israeliano
 
 ---
 
@@ -116,7 +149,7 @@ Da adolescente costruiva railgun, Tesla coil, laser (con relativi incidenti). Ri
 
 ### Posizionamento
 
-Luckey e' diventato un "Republican super-donor" dal 2020 in poi. Ha donato circa $400,000 alla campagna Trump 2024. Non ricopre un ruolo ufficiale nell'amministrazione Trump (al Feb 2026) ma e' influente nel settore defense-tech tramite Anduril.
+Luckey e' diventato un "Republican super-donor" dal 2020 in poi. Ha donato circa $400,000 alla campagna Trump 2024. Non ricopre un ruolo ufficiale nell'amministrazione Trump ma e' descritto come "the It Guy" di Trump per la modernizzazione militare con armi autonome. Sostiene che il governo debba controllare come l'AI viene usata: "We need to stick to a position that this is in the hands of the people."
 
 ---
 
@@ -136,17 +169,17 @@ Effetti: divieto di affari in Cina, congelamento beni, divieto di ingresso.
 ### Mappa delle Appartenenze
 
 ```
-                    PALMER LUCKEY
-                         |
-      +------------------+------------------+
-      |                  |                  |
-      v                  v                  v
-  Oculus VR         Anduril Ind.       USC MxR Lab
-  (2012-14)         (2017-oggi)        (2011-12)
-      |                  |
-      v                  v
-  Meta/Facebook     Founders Fund
-  (2014-17)         (investitore)
+                        PALMER LUCKEY
+                             |
+      +----------+-----------+-----------+----------+
+      |          |           |           |          |
+      v          v           v           v          v
+  Oculus VR  Anduril Ind. Erebor Bank ModRetro  USC MxR
+  (2012-14)  (2017-oggi)  (2024-oggi) (2023-)  (2011-12)
+      |          |           |
+      v          v           v
+  Meta/FB    Founders Fund  Lux Capital
+  (2014-17)  a16z, Thrive   a16z, FF
 ```
 
 ### Network Professionale
@@ -217,6 +250,10 @@ Luckey e' parte della galassia Thiel senza essere un membro originale della PayP
 | [Anduril Industries](../defense/anduril.md) | Fondatore, CTO (2017-oggi) |
 | [USC](../university/usc.md) | Ricercatore MxR Lab (2011-2012) |
 | [Founders Fund](../private-equity/founders-fund.md) | Investitore principale Anduril |
+| [Erebor Bank](../bank/erebor-bank.md) | Co-fondatore (2024-oggi) |
+| [ModRetro](../company/modretro.md) | Fondatore (2023-oggi) |
+| [Lux Capital](../private-equity/lux-capital.md) | Investitore Anduril e Erebor, organizzò trip Israele |
+| [Thrive Capital](../private-equity/thrive-capital.md) | Co-lead round Anduril $60B (Mar 2026) |
 
 ### Persone
 
@@ -229,6 +266,8 @@ Luckey e' parte della galassia Thiel senza essere un membro originale della PayP
 | [Nicole Edelmann](nicole-edelmann.md) | Moglie (dal 2019) |
 | [JD Vance](jd-vance.md) | Network Thiel |
 | [David Sacks](david-sacks.md) | Network Thiel |
+| [Joshua Kushner](joshua-kushner.md) | Thrive Capital, co-lead round Anduril $60B |
+| [Josh Wolfe](josh-wolfe.md) | Lux Capital, early backer Anduril, organizzatore trip Israele |
 
 ---
 
@@ -255,7 +294,11 @@ Luckey e' parte della galassia Thiel senza essere un membro originale della PayP
 | **Gen 2025** | Cina: Anduril nella Unreliable Entity List |
 | **Giu 2025** | Anduril Serie G: $30.5B valutazione |
 | **Dic 2025** | Cina: sanzioni personali contro Luckey |
-| **Feb 2026** | Patrimonio ~$3.5B. Arsenal-1 in costruzione |
+| **Feb 2026** | Erebor Bank: charter nazionale definitivo OCC |
+| **Feb 2026** | Visita segreta in Israele, incontro Netanyahu e 10 startup defense |
+| **Mar 2026** | Anduril: round $4B a valutazione $60B (a16z + Thrive Capital) |
+| **Mar 2026** | ModRetro: cerca round a valutazione $1B, M64 in produzione |
+| **Mar 2026** | Patrimonio stimato ~$7B. Arsenal-1 in costruzione |
 
 ---
 
@@ -274,10 +317,11 @@ Nessuna connessione diretta documentata con entita' italiane (Leonardo, governi,
 
 - [ ] Ruolo ufficiale (se presente) nell'amministrazione Trump 2025-?
 - [ ] Dettagli su figli (numero, nomi)
-- [ ] Connessioni con ecosistema difesa italiano/europeo
-- [ ] Tempi e dettagli IPO Anduril (confermata "definitely" da Luckey, giu 2025)
-- [ ] Eventuali ruoli in think tank o advisory board specifici
-- [ ] Advisory board holoride (VR/auto) - ancora attivo?
+- [ ] Connessioni con ecosistema difesa italiano/europeo (Leonardo, NATO basi Italia)
+- [ ] Tempi e dettagli IPO Anduril (confermata "definitely" da Luckey)
+- [ ] Esiti partnership con startup israeliane post-visita Feb 2026
+- [ ] Contratto Air Force per fighter jet autonomo (Anduril in competizione)
+- [ ] Erebor Bank: lancio servizi e clienti iniziali
 
 ---
 
@@ -302,10 +346,25 @@ Nessuna connessione diretta documentata con entita' italiane (Leonardo, governi,
 - [Fortune - China sanctions Luckey](https://fortune.com/2025/12/26/anduril-founder-palmer-luckey-us-defense-companies-china-sanctions-taiwan-arms-sales/)
 - [PBS - China sanctions 20 US defense companies](https://www.pbs.org/newshour/world/china-sanctions-20-u-s-defense-companies-and-10-executives-over-taiwan-arms-sale)
 
+### Erebor Bank
+- [Banking Dive - OCC Approval](https://www.bankingdive.com/news/tech-focused-erebor-bank-gets-conditional-occ-approval/802895/)
+- [Yahoo Finance - $4.35B Valuation](https://finance.yahoo.com/news/peter-thiel-backed-bank-erebor-043223016.html)
+
+### ModRetro
+- [TechCrunch - $1B Valuation](https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/)
+
+### Israele
+- [Haaretz - Secret Israel Visit](https://www.haaretz.com/israel-news/israel-security/2026-02-20/ty-article/.premium/founder-of-u-s-defense-tech-giant-anduril-visits-israel-secretly-meets-netanyahu/0000019c-79d2-dfbe-a39f-79f2553a0000)
+- [Calcalist - 10 Israeli Startups](https://www.calcalistech.com/ctechnews/article/hyoumeid11e)
+
+### Funding Anduril 2026
+- [TechCrunch - $60B Round](https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/)
+- [Axios - $4B at $60B](https://www.axios.com/2026/03/04/anduril-palmer-luckey-valuation)
+
 ### Mentori
 - [USC - Memories of Palmer Luckey at MxR](https://ict.usc.edu/news/essays/memories-of-palmer-luckey-at-mxr-and-where-were-heading-next/)
 - [Smithsonian - How Palmer Luckey Created Oculus Rift](https://www.smithsonianmag.com/innovation/how-palmer-luckey-created-oculus-rift-180953049/)
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

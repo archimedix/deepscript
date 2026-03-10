@@ -313,3 +313,37 @@ Liberty Partners
 [] olivier-colom
 
 
+[v] philippa-sigl-glockner : Nominata in email DOJ: contatti con rete Epstein via Melanie Walker, scambi su Africa/satelliti
+[v] dezernat-zukunft : hink tank macrofinanziario tedesco, leva intellettuale per la riforma della Schuldenbremse
+open-philanthropy (Moskovitz)
+childrens-investment-fund
+
+[v] melanie-walker : Walker non era solo un ponte Epstein-Gates ma anche una talent scout che reclutava giovani talenti per la rete Epstein
+[v] greg-wyler : Epstein funzionava come broker/adviser per il fundraising di OneWeb, orchestrando incontri tra Wyler e potenziali investitori miliardari (Branson, Musk)
+
+[v] family blinken :  Dinastia diplomatica ebreo-ucraina: da Kiev alla creazione di Israele fino alla Segreteria di Stato USA
+[v] anthony-blinken : Secretary of State Biden, co-fondatore WestExec Advisors, figlio del co-fondatore di Warburg Pincus
+[v] pine-island-capital-partners : 
+[v] westexec-advisors : Consulenza strategica per defense/tech fondata da ex Obama officials, pipeline diretta nel governo Biden
+center-american-progress
+[v] samuel-pisar : Avvocato internazionale, sopravvissuto Olocausto, confidente di Robert Maxwell, advisor di JFK, nel black book di Epstein
+[v] donald-blinken : Co-fondatore Warburg Pincus, ambasciatore USA in Ungheria, chairman SUNY, padre del Secretary of State
+alan-blinken
+maurice-blinken
+[v] american-palestine-institute : Think tank sionista fondato da Maurice Blinken per dimostrare la viabilita economica di uno stato ebraico
+phil-cooper
+robert-work
+lisa-monaco
+jen-psaki
+john-thain
+lloyd-austin
+clyde-tuggle
+
+european-climate-foundation
+Africa Governance Initiative
+BND (intelligence tedesca)
+Wolfgang Schmidt Ministero Finanze
+max-krahe
+
+
+

@@ -71,8 +71,12 @@ Questo indice organizza tutti gli eventi e report per periodo storico, permetten
 | 1903 | Scissione Bolscevichi/Menscevichi, II Congresso RSDLP | [Origini Comunismo](comunismo-origini.md) |
 | 1914 | SPD vota crediti di guerra, II Internazionale collassa | [Origini Comunismo](comunismo-origini.md) |
 | 1915 | Conferenza di Zimmerwald, socialisti anti-guerra | [Origini Comunismo](comunismo-origini.md) |
+| 1907 | Panico finanziario, J.P. Morgan salva il sistema | [Jekyll Island](../docs/events/1910-jekyll-island.md) |
+| 1908 | Aldrich-Vreeland Act crea Commissione Monetaria Nazionale | [Jekyll Island](../docs/events/1910-jekyll-island.md) |
 | 1908 | Rivoluzione Giovani Turchi lanciata da Salonicco | [Salonicco Power Map](salonicco-power-map.md) |
 | 1917 | Grande Incendio di Salonicco, 52.000 ebrei senza casa | [Salonicco Power Map](salonicco-power-map.md) |
+| 1910 | Riunione segreta a Jekyll Island — piano Federal Reserve | [Jekyll Island](../docs/events/1910-jekyll-island.md) |
+| 1913 | Federal Reserve Act firmato da Wilson | [Jekyll Island](../docs/events/1910-jekyll-island.md) |
 | 1917 | Dichiarazione Balfour | [Link](../docs/events/1917-balfour-declaration.md) |
 | 1917 | Rivoluzione d'Ottobre | [Evento](../docs/events/1917-russian-revolution.md) |
 | 1919 | Fondazione Comintern (III Internazionale), Mosca | [Comintern](../docs/forum/comintern.md) |

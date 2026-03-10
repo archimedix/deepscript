@@ -6,11 +6,11 @@
 
 | Metrica | Valore |
 |---------|--------|
-| **Fondazione** | ~1683, dopo la morte di Sabbatai Zvi (1676) |
+| **Fondazione** | 1666, con la conversione di Sabbatai Zvi all'Islam |
 | **Sede** | Salonicco (Impero Ottomano) |
 | **Tipo** | Setta crypto-religiosa |
 | **Fondatore** | [Sabbatai Zvi](../persons/sabbatai-zvi.md) (indirettamente; la conversione all'Islam genero' il movimento) |
-| **Fazioni** | Yakubi, Karakas, Kapanci |
+| **Fazioni** | [Izmirli](izmirli.md), [Yakubi](yakubi.md), [Karakas](karakas.md), [Kapanci](kapanci.md) |
 | **Dimensione** | ~200 famiglie originali → 3.000-5.000 individui (inizio XIX sec.) → ~15.000 (inizio XX sec.) |
 | **Status** | Sostanzialmente assimilato dopo il 1923 |
 
@@ -38,19 +38,21 @@
 | **Contesto** | Dopo la conversione di Zvi (1666) e la sua morte (1676), un nucleo di fedeli mantenne la fede messianica |
 | **Pratica** | Musulmani all'esterno, ebrei all'interno: osservavano Ramadan E Shabbat, praticavano brit milah e feste ebraiche |
 
-### Le Tre Fazioni (~1700-1720)
+### Le Quattro Fazioni
 
 | Fazione | Fondatore | Periodo | Carattere |
 |---------|-----------|---------|-----------|
-| **Yakubi** | [Jacob Querido](../persons/jacob-querido.md) (~1650-1690) | Post-1690 | Classi inferiori; Querido si proclamo' reincarnazione di Zvi (cognato) |
-| **Karakas** (Konyosos) | [Baruchiah Russo](../persons/baruchiah-russo.md) (1677-1720) | Post-1700 | La piu' numerosa; antinomismo radicale; agenda missionaria |
-| **Kapanci** | [Mustafa Celebi](../persons/mustafa-celebi.md) (Shlomo ben Yosef) | Originaria | Classe mercantile e intellighenzia (Izmirli) |
+| **[Izmirli](izmirli.md)** | [Sabbatai Zvi](../persons/sabbatai-zvi.md) (1626-1676) | 1666 | Setta madre originaria da Smirne; detti anche Kabayeros |
+| **[Yakubi](yakubi.md)** | [Jacob Querido](../persons/jacob-querido.md) (~1650-1690) | 1683 | Scissione; Querido si proclamo' reincarnazione di Zvi |
+| **[Karakas](karakas.md)** (Konyosos) | [Baruchiah Russo](../persons/baruchiah-russo.md) (1677-1720) | ca. 1700 | La piu' numerosa; antinomismo radicale; agenda missionaria |
+| **[Kapanci](kapanci.md)** | Fam. Kapanci ([Mehmed Kapanci](../persons/mehmed-kapanci.md)) | Salonicco | Gruppo originario rimasto fedele solo a Zvi; assimilazionisti |
 
 ### Gerarchia Sociale
 
 | Fazione | Composizione sociale |
 |---------|---------------------|
-| **Kapanci / Izmirli** | Classe mercantile, intellighenzia — vertice della gerarchia |
+| **Kapanci** | Classe mercantile, intellighenzia — vertice della gerarchia |
+| **Izmirli** | Seguaci originari da Smirne |
 | **Karakas** | Artigiani — la piu' numerosa e teologicamente radicale |
 | **Yakubi** | Classi inferiori |
 
@@ -111,7 +113,9 @@
 | [Nathan of Gaza](../persons/nathan-of-gaza.md) | Architetto teologico; la dottrina del "mistero dell'apostasia" giustifico' la conversione |
 | [Baruchiah Russo](../persons/baruchiah-russo.md) | Leader fazione Karakas; radicalizzazione antinomiana |
 | [Jacob Querido](../persons/jacob-querido.md) | Fondatore fazione Yakubi; cognato di Zvi |
-| [Mustafa Celebi](../persons/mustafa-celebi.md) | Leader pre-scissione; fazione Kapanci |
+| [Mustafa Celebi](../persons/mustafa-celebi.md) | Leader pre-scissione |
+| [Mehmed Kapanci](../persons/mehmed-kapanci.md) | Banchiere, eponimo fazione Kapanci |
+| [Mehmed Djavid Bey](../persons/djavid-bey.md) | Ministro delle Finanze ottomano; Giovani Turchi |
 | [Jacob Frank](../persons/jacob-frank.md) | Successore; traspose il modello Donme in Europa (Frankismo) |
 
 ### Eventi
@@ -164,4 +168,4 @@
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

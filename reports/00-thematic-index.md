@@ -38,6 +38,9 @@ Report che analizzano istituzioni finanziarie, flussi di capitale, e potere econ
 | Report | Periodo | Focus |
 |--------|---------|-------|
 | [Dinastie Sefardite](sefardite-family-power-map.md) | XI sec.-oggi | Benveniste, Abravanel, Mendes-Nasi, Montefiore, Sassoon, Kadoorie |
+| [Ashkenazite Power Map](ashkenazite-power-map.md) | XVII sec.-oggi | Rothschild, Warburg, Schiff, Kuhn-Loeb, Bleichröder, Goldman-Sachs, Lehman |
+| [Mizrahi Power Map](mizrahi-power-map.md) | XIX sec.-oggi | Sassoon, Kadoorie, Safra, Tshuva, Saatchi, Shas, mahapakh 1977 |
+| [Beta Israel Power Map](beta-israel-power-map.md) | 1973-oggi | Ebrei etiopi, Operation Moses/Solomon, integrazione, discriminazione |
 | [SWF Global Power Map](swf-global-power-map.md) | 2000-2025 | Fondi sovrani mondiali |
 | [Singapore Power Map](singapore-power-map.md) | 1959-2025 | GIC, Temasek, stato-azienda |
 | [Indonesia Power Map](indonesia-power-map.md) | 1966-2025 | Oligarchie sino-indonesiane post-Suharto |
@@ -48,6 +51,7 @@ Report che analizzano istituzioni finanziarie, flussi di capitale, e potere econ
 | [Gulf-Europe Pipeline](gulf-europe-pipeline-media.md) | 1974-2025 | Petroldollari in sport, media, infrastrutture EU |
 
 **Eventi correlati:**
+- [Jekyll Island Meeting (1910)](../docs/events/1910-jekyll-island.md)
 - [Bretton Woods (1944)](../docs/events/1944-bretton-woods.md)
 - [Fine Bretton Woods (1971)](../docs/events/1971-fine-bretton-woods.md)
 - [Fondazione OPEC (1960)](../docs/events/1960-fondazione-opec.md)
@@ -163,6 +167,11 @@ Report che analizzano specifici settori economici.
 |--------|---------|-------|
 | [Seven Sisters](seven-sisters.md) | 1911-2007 | Cartello petrolifero, Mattei, OPEC, NOC |
 
+### Cybersecurity e Privacy
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [VPN Power Map](vpn-power-map.md) | 2005-2026 | ~24 holding, 105+ brand, link intelligence, Kape/Unit 8200, Qihoo 360/PLA |
+
 ### Finanza e Pagamenti
 | Report | Periodo | Focus |
 |--------|---------|-------|
@@ -172,6 +181,16 @@ Report che analizzano specifici settori economici.
 | Report | Periodo | Focus |
 |--------|---------|-------|
 | [Universities Power Map](universities-power-map.md) | 1636-2025 | Ivy League, Oxbridge, endowments |
+
+---
+
+## Societa' Segrete e Reti Fraterne
+
+Report che analizzano societa' segrete, reti massoniche e organizzazioni fraterne come infrastrutture di potere.
+
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Massoneria Power Map](massoneria-power-map.md) | 1717-oggi | Obbedienze, P2, intelligence, pattern rivoluzionario, GOI crisi 2024 |
 
 ---
 
@@ -248,6 +267,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Sweden Power Map](sweden-power-map.md) | 1945-2025 | Wallenberg, NATO 2024 |
 | [Finland Power Map](finland-power-map.md) | 1917-2025 | Nokia, NATO 2023 |
 | [Denmark Power Map](denmark-power-map.md) | 1849-2025 | Maersk, Novo Nordisk |
+| [Lituania Power Map](lituania-power-map.md) | 1990-2026 | Egemonia bancaria nordica, Tesonet/NordVPN, dinastia Landsbergis, cyber-stato |
 | [Russia Power Map](russia-power-map.md) | 1991-2025 | Oligarchi, siloviki, Putin |
 | [Ucraina Power Map](ucraina-power-map.md) | 1991-2026 | Oligarchi, Euromaidan, Zelensky, ricostruzione BlackRock |
 
@@ -271,7 +291,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | Report | Periodo | Focus |
 |--------|---------|-------|
 | [Egypt Power Map](egypt-power-map.md) | 1952-2025 | Stato militare, Sisi, economia esercito, Camp David |
-| [Iran Power Map](iran-power-map.md) | 1979-2025 | Teocrazia, IRGC, proxy, pivot verso Est |
+| [Iran Power Map](iran-power-map.md) | 1979-2026 | Teocrazia, IRGC, Setad ($200B), assassinio Khamenei, successione dinastica Mojtaba |
 | [Iraq Power Map](iraq-power-map.md) | 1958-2025 | Ba'ath, invasione, settarismo |
 | [Israel Power Map](israel-power-map.md) | 1948-2025 | Sicurezza, tech, diaspora |
 | [Saudi Arabia Power Map](saudi-arabia-power-map.md) | 1932-2025 | MBS, Vision 2030, PIF |
@@ -293,6 +313,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | Report | Periodo | Focus |
 |--------|---------|-------|
 | [South Africa Power Map](south-africa-power-map.md) | 1948-2025 | Apartheid, ANC, Oppenheimer |
+| [Beta Israel Power Map](beta-israel-power-map.md) | 1973-oggi | Ebrei etiopi in Israele: aliyah, integrazione, discriminazione |
 
 ---
 
@@ -307,7 +328,10 @@ Analisi di ere/periodi specifici:
 
 ### Report Tematici
 Analisi di pattern/fenomeni attraverso il tempo:
+- [Massoneria Power Map](massoneria-power-map.md)
 - [Dinastie Sefardite](sefardite-family-power-map.md)
+- [Ashkenazite Power Map](ashkenazite-power-map.md)
+- [Mizrahi Power Map](mizrahi-power-map.md)
 - [Whistleblowers](whistleblowers-power-exposed.md)
 - [Revolving Door](revolving-door-ex-leaders.md)
 - [Dynasties Private Equity](dynasties-private-equity.md)
@@ -334,6 +358,7 @@ Mappe di potere regionali:
 - [Hungary Power Map](hungary-power-map.md)
 - [Bulgaria Power Map](bulgaria-power-map.md)
 - [Italy Power Map](italy-power-map.md)
+- [Lituania Power Map](lituania-power-map.md)
 - [Luxembourg Power Map](luxembourg-power-map.md)
 - [Norway Power Map](norway-power-map.md)
 - [Spain Power Map](spain-power-map.md)
@@ -360,6 +385,19 @@ Analisi di industrie specifiche:
 - [Skype Mafia](skype-mafia.md)
 - [Belt and Road Initiative](belt-and-road-initiative.md)
 - [Sport Geopolitics](sport-geopolitics.md)
+- [Supermarket Power Map](supermarket-power-map.md)
+- [Turismo Power Map](turismo-power-map.md)
+- [VPN Power Map](vpn-power-map.md)
+
+### Grande Distribuzione
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Supermarket Power Map](supermarket-power-map.md) | 1913-2026 | Walton, Schwarz, Albrecht, Mulliez, Caprotti, GDO Italia, PE, Big Three |
+
+### Turismo e Hospitality
+| Report | Periodo | Focus |
+|--------|---------|-------|
+| [Turismo Power Map](turismo-power-map.md) | 1919-2026 | WTTC, OTA, catene alberghiere, Big Three, PE, Golfo |
 
 ---
 
@@ -367,8 +405,8 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 89 |
-| **Power Map geografici** | 45+ |
+| **Report totali** | 95 |
+| **Power Map geografici** | 46+ |
 | **Report tematici/settoriali** | 31+ |
 | **Periodo coperto** | 1626-2025 |
 | **Focus principale** | Post-1945 (con radici pre-moderne) |

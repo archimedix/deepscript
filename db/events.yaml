@@ -17,6 +17,11 @@ events:
     year: 1871
     type: revolution
     location: Paris, France
+  1894-affaire-dreyfus:
+    tagline: Falsa accusa di spionaggio contro il capitano ebreo Dreyfus, spartiacque per antisemitismo e sionismo
+    year: 1894
+    type: political
+    location: France
   1908-rivoluzione-giovani-turchi:
     tagline: Rivoluzione CUP lanciata da Salonicco, restaura la Costituzione ottomana
     year: 1908
@@ -29,6 +34,7 @@ events:
     location: Georgia
     outcome: federal-reserve
   jekyll-island:
+    tagline: La riunione segreta di sei uomini che disegno la Federal Reserve
     year: 1910
     month: 11
     type: meeting
@@ -149,6 +155,11 @@ events:
     year: 1983
     type: conference
     location: Crown Heights, Brooklyn, USA
+  1984-operation-moses:
+    year: 1984
+    type: operation
+    location: Sudan, Israel
+    note: Airlift segreto di ~8.000 Beta Israel dal Sudan
   1990-invasione-kuwait:
     tagline: 'La prima grande crisi post-Guerra Fredda: coalizione di 35 nazioni contro l''Iraq di Saddam Hussein'
     year: 1990
@@ -161,6 +172,11 @@ events:
     year: 1991
     type: evento-storico
     location: URSS
+  1991-operation-solomon:
+    year: 1991
+    type: operation
+    location: Addis Ababa, Israel
+    note: 14.325 etiopi in 36 ore, record mondiale
   1992-britannia:
     tagline: Un convegno sulle privatizzazioni italiane a bordo dello yacht reale britannico, divenuto simbolo della transizione
       dalla Prima alla Seconda Repubblica e dell'apertura dell'economia italiana al capitale internazionale.
@@ -203,6 +219,11 @@ events:
     type: assassinio
     location: Tel Aviv
     outcome: Fine processo Oslo
+  1996-blood-scandal:
+    year: 1996
+    type: scandal
+    location: Jerusalem, Israel
+    note: Magen David Adom scartava sangue donato da etiopi
   1999-abolizione-glass-steagall:
     tagline: La deregolamentazione che permise la crisi 2008
     year: 1999
@@ -335,6 +356,11 @@ events:
     year: 2019
     type: scandal
     location: AUT
+  2019-solomon-tekah-protests:
+    year: 2019
+    type: protest
+    location: Israel
+    note: 18enne etiope ucciso da poliziotto, proteste nazionali
   2020-abraham-accords-bahrain:
     year: 2020
     month: 9
@@ -447,3 +473,6 @@ events:
     year: 2025
     type: announcement
     location: White House, Washington DC, USA
+  1688-gloriosa-rivoluzione:
+    tagline: Il colpo di stato finanziato da banchieri sefarditi che trasformo' l'Inghilterra in monarchia parlamentare
+    location: Inghilterra / Paesi Bassi

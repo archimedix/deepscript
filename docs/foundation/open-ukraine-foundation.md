@@ -28,21 +28,41 @@
 | Anno | Evento |
 |------|--------|
 | **2007** | Fondazione da parte di Yatsenyuk e Drzymala |
-| **2007** | Lancio del Kyiv Security Forum, evento annuale sulla sicurezza nella regione del Mar Nero |
-| **2014** | Yatsenyuk diventa Primo Ministro dell'Ucraina; la fondazione continua le attivita' |
+| **2007** | Lancio del Kyiv Security Forum (KSF) |
+| **2014** | Yatsenyuk diventa Primo Ministro dell'Ucraina (2014-2016) |
+| **2023** | Creazione KSF Security Council (5 maggio) |
+| **2024** | 16° KSF "Ukraine's Call to the World: Together, We Prevail" (21-22 marzo) |
+| **2025** | 17° KSF "UA: UNITE AGAIN TO DEFEAT THE GLOBAL AGGRESSOR" (8-9 maggio) |
 
 ---
 
 ## Struttura e Governance
 
-### Leadership
+### Leadership Fondazione
 
 | Ruolo | Nome | Note |
 |-------|------|------|
-| Fondatore | [Arseniy Yatsenyuk](../persons/arseniy-yatsenyuk.md) | Dal 2007 |
+| Fondatore & Chairman KSF | [Arseniy Yatsenyuk](../persons/arseniy-yatsenyuk.md) | Dal 2007 |
+| Director | Ramina Shut | |
+| Program Manager | Oksana Manchulenko | |
 | Capo Consiglio di Sorveglianza | Tereziya Yatsenyuk | |
 | Presidente Consiglio Programmatico | Andrey Kurkov | Scrittore |
 | Membro Consiglio Programmatico | Yuriy Onuh | Artista, curatore, direttore Polish Institute NYC |
+
+### KSF Security Council (dal 2023)
+
+| Nome | Paese | Note |
+|------|-------|------|
+| [David Petraeus](../persons/david-petraeus.md) | USA | Ex Comandante CENTCOM, ex Direttore CIA |
+| [Tony Abbott](../persons/tony-abbott.md) | AUS | Ex PM Australia 2013-2015 |
+| [Taavi Roivas](../persons/taavi-roivas.md) | EST | Ex PM Estonia 2014-2016 |
+| [Natalia Jaresko](../persons/natalia-jaresko.md) | USA-UKR | Ex Min. Finanze Ucraina 2014-2016; Chair Aspen Ukraine |
+
+### Direzione KSF
+
+| Ruolo | Nome |
+|-------|------|
+| Director KSF | [Danylo Lubkivsky](../persons/danylo-lubkivsky.md) |
 
 ---
 
@@ -65,6 +85,9 @@
 | [NED](../foundation/ned.md) | Partner istituzionale |
 | [German Marshall Fund](../foundation/german-marshall-fund.md) | Partner istituzionale |
 | [Chatham House](../think-tank/chatham-house.md) | Partner istituzionale |
+| [Atlantic Council](../think-tank/atlantic-council.md) | KSF partner |
+| [Friedrich-Ebert-Stiftung](../foundation/friedrich-ebert-stiftung.md) | KSF partner |
+| CEPA | KSF partner |
 | [Victor Pinchuk Foundation](../foundation/pinchuk-foundation.md) | Sponsor Kyiv Security Forum |
 | US Department of State | Partner istituzionale |
 
@@ -72,8 +95,15 @@
 
 | Persona | Ruolo |
 |---------|-------|
-| [Arseniy Yatsenyuk](../persons/arseniy-yatsenyuk.md) | Fondatore |
+| [Arseniy Yatsenyuk](../persons/arseniy-yatsenyuk.md) | Fondatore, Chairman KSF |
+| [Danylo Lubkivsky](../persons/danylo-lubkivsky.md) | Director KSF |
+| [David Petraeus](../persons/david-petraeus.md) | KSF Security Council |
+| [Tony Abbott](../persons/tony-abbott.md) | KSF Security Council |
 | [Victor Pinchuk](../persons/victor-pinchuk.md) | Sponsor via Pinchuk Foundation |
+
+### Speaker notabili (storici)
+
+Timothy Snyder, [Francis Fukuyama](../persons/francis-fukuyama.md), [Anne Applebaum](../persons/anne-applebaum.md)
 
 ---
 
@@ -90,4 +120,4 @@
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*
