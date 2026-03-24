@@ -31,15 +31,17 @@
 | Dato | Dettaglio |
 |------|-----------|
 | **Fondazione** | 1990 |
-| **Fondatori** | [Leon Black](../persons/leon-black.md), [Joshua Harris](../persons/joshua-harris.md), [Marc Rowan](../persons/marc-rowan.md) |
-| **Origine** | Tutti ex-Drexel Burnham Lambert (banca junk bond di Milken) |
+| **Fondatori** | [Leon Black](../persons/leon-black.md), [Joshua Harris](../persons/joshua-harris.md), [Marc Rowan](../persons/marc-rowan.md), [Antony Ressler](../persons/antony-ressler.md), [John Kissick](../persons/john-kissick.md), Craig Cogut, Arthur Bilger, Michael Gross |
+| **Origine** | Tutti ex-[Drexel Burnham Lambert](../banks/drexel-burnham.md) (banca junk bond di Milken) |
 | **Focus iniziale** | Distressed debt, LBO |
 
 ### Timeline Storica
 
 | Anno | Evento |
 |------|--------|
-| **1990** | Fondazione da tre ex-Drexel dopo il fallimento della banca |
+| **1990** | Fondazione da ex-Drexel dopo il fallimento della banca (Black, Harris, Rowan, Ressler, Kissick e altri) |
+| **1997** | [Antony Ressler](../persons/antony-ressler.md) e [John Kissick](../persons/john-kissick.md) lasciano per fondare [Ares Management](../asset-manager/ares-management.md) |
+| **2000** | [David Kaplan](../persons/david-kaplan.md) lascia Apollo (Senior Partner 1991-2000) per Shelter Capital, poi Ares |
 | **2004** | IPO fallita, ritorno privato |
 | **2011** | IPO riuscita (NYSE: APO) |
 | **2012-2017** | Leon Black paga $158M-$170M a Jeffrey Epstein per "tax advice" |
@@ -182,6 +184,14 @@ $170M pagamenti ─────────────────────�
 | [Joshua Harris](../persons/joshua-harris.md) | Co-Founder (uscito 2021, sport investments) |
 | [Marc Rowan](../persons/marc-rowan.md) | Co-Founder, CEO & Chairman |
 | [Gary Cohn](../persons/gary-cohn.md) | Lead Independent Director (ex-Goldman, ex-Trump) |
+| [Gary Parr](../persons/gary-parr.md) | Senior Managing Director |
+| [Antony Ressler](../persons/antony-ressler.md) | Co-Founder (1990-1997), cognato di Black, fondò [Ares Management](../asset-manager/ares-management.md) |
+| [John H. Kissick](../persons/john-kissick.md) | Partner (1990-1997), co-fondò Ares Management (†2024) |
+| [David Kaplan](../persons/david-kaplan.md) | Senior Partner (1991-2000), poi co-fondò Ares Management |
+
+### Spin-off: Ares Management
+
+Nel 1997 [Antony Ressler](../persons/antony-ressler.md) (cognato di Leon Black) e [John Kissick](../persons/john-kissick.md) lasciarono Apollo per fondare [Ares Management](../asset-manager/ares-management.md), inizialmente operando come affiliato West Coast di Apollo per 5 anni. [David Kaplan](../persons/david-kaplan.md) li raggiunse nel 2003. Ares e' oggi un asset manager da $622B, dominante nel private credit.
 
 ### SWF Partners
 
@@ -246,4 +256,4 @@ $170M pagamenti ─────────────────────�
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Marzo 2026*

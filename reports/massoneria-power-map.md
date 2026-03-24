@@ -12,6 +12,7 @@
 | **Obbedienze principali** | UGLE, GODF, GOI, Scottish Rite, Prince Hall |
 | **Paesi con presenza** | 150+ |
 | **Concentrazione massima** | Mondo anglosassone (USA ~2M, UK ~200K, Canada ~200K) |
+| **Leadership UGLE** | GM: [Duke of Kent](../docs/persons/duke-of-kent.md) (dal 1967); Pro GM: [Jonathan Spence](../docs/persons/jonathan-spence.md) (dal 2022); Dep. GM: [Sir Michael Snyder](../docs/persons/michael-snyder.md) (dal 2024) |
 | **Pattern chiave** | Infrastruttura rivoluzionaria, pipeline elite, rete intelligence |
 
 ---
@@ -37,7 +38,7 @@
 
 | Obbedienza | Fondazione | Sede | Membri | Orientamento |
 |------------|-----------|------|--------|-------------|
-| [United Grand Lodge of England](../docs/secret-society/ugle.md) | 1717 | Londra | ~175.000 | Conservatore, teista, apolitico |
+| [United Grand Lodge of England](../docs/secret-society/ugle.md) | 1717 | Londra | ~200.000 | Conservatore, teista, apolitico. GM: [Duke of Kent](../docs/persons/duke-of-kent.md) (dal 1967). Pro GM: [Jonathan Spence](../docs/persons/jonathan-spence.md) (dal 2022) |
 | [Scottish Rite Southern Jurisdiction](../docs/secret-society/scottish-rite-sj.md) | 1801 | Washington DC (House of the Temple) | ~160.000 | Mother Council of the World, gradi 4°-33°. SGC: [James D. Cole](../docs/persons/james-cole.md) (dal 2019). Sede progettata da John Russell Pope (1915) |
 | Scottish Rite Northern Jurisdiction | 1813 | Lexington, MA | ~460.000 | Gradi 4°-33° |
 | [Prince Hall Freemasonry](../docs/secret-society/prince-hall.md) | 1775 | Boston | ~300.000 | Afroamericana, diritti civili, ~5.000 logge |
@@ -67,7 +68,7 @@ La UGLE funziona da arbitro globale: il suo riconoscimento o diniego determina l
 |-------|-----------------|----------------------|
 | USA | ~2.000.000 | Scottish Rite, Prince Hall, Gran Logge statali |
 | Brasile | ~215.000 | Grande Oriente do Brasil |
-| Regno Unito | ~200.000 | UGLE |
+| Regno Unito | ~200.000 | UGLE (6.800+ logge, 48 Provincial GL) |
 | Canada | ~200.000 | Gran Logge provinciali |
 | Francia | ~170.000 | GODF + 5-6 obbedienze minori |
 | Australia | ~45.000 | Gran Logge statali |
@@ -176,23 +177,42 @@ La massoneria offre cinque asset strategici ai movimenti rivoluzionari:
 |------|---------|-----------|-------|
 | **Rivoluzione americana** | 1773-1783 | Logge coloniali | Washington, Franklin, 9 firmatari Dichiarazione |
 | **Rivoluzione francese** | 1775-1793 | GODF, [Loge La Candeur](../docs/secret-society/la-candeur.md), [Les Neuf Soeurs](../docs/secret-society/les-neuf-soeurs.md) | **La Candeur**: vivaio militare-aristocratico — [Lafayette](../docs/persons/marquis-de-lafayette.md), [Rochambeau](../docs/persons/comte-de-rochambeau.md), [Princesse de Lamballe](../docs/persons/princesse-de-lamballe.md). **Les Neuf Soeurs**: crocevia intellettuale — [Franklin](../docs/persons/benjamin-franklin.md) (Ven. Master 1779-81), [Voltaire](../docs/persons/voltaire.md), [Houdon](../docs/persons/jean-antoine-houdon.md), [Guillotin](../docs/persons/joseph-ignace-guillotin.md) (co-fondatore GODF), [Lavoisier](../docs/persons/antoine-lavoisier.md), [Chamfort](../docs/persons/nicolas-chamfort.md) (slogan rivoluzionari), [Desmoulins](../docs/persons/camille-desmoulins.md) (Bastiglia), [Sieyes](../docs/persons/emmanuel-joseph-sieyes.md) (Terzo Stato). **Commissione Mesmer (1784)**: Franklin, Lavoisier, Guillotin — tutti legati alla loggia, esercizio di potere scientifico-istituzionale. **La Rivoluzione divora i figli della loggia**: Lavoisier ghigliottinato (mag 1794), Desmoulins con Danton (apr 1794), Chamfort suicida (apr 1794). Sieyes sopravvisse e organizzo' il 18 Brumaio (1799) |
-| **Risorgimento italiano** | 1815-1870 | [Carboneria](../docs/secret-society/carboneria.md) → [Giovine Italia](../docs/secret-society/giovine-italia.md) → [ANI](../docs/secret-society/associazione-nazionale-italiana.md) → GOI, GODF | [Garibaldi](../docs/persons/giuseppe-garibaldi.md) (GOI+GODF+Giovine Italia), [Mazzini](../docs/persons/giuseppe-mazzini.md) (Carboneria→GI→ANI), [Saffi](../docs/persons/aurelio-saffi.md) (GOI), [Armellini](../docs/persons/carlo-armellini.md), Crispi |
+| **Risorgimento italiano** | 1815-1870 | [Carboneria](../docs/secret-society/carboneria.md) → [Giovine Italia](../docs/secret-society/giovine-italia.md) → [ANI](../docs/secret-society/associazione-nazionale-italiana.md) → GOI, GODF | [Carlo Alberto](../docs/persons/carlo-alberto-di-savoia.md) (simpatizzante Carboneria 1821, [Statuto Albertino](../docs/events/1848-statuto-albertino.md)), [Vittorio Emanuele II](../docs/persons/vittorio-emanuele-ii.md) (protettore GOI, primo Re d'Italia), [Umberto I](../docs/persons/umberto-i.md) (protettore GOI, asse Corona-Lemmi-Crispi), [Garibaldi](../docs/persons/giuseppe-garibaldi.md) (GOI+GODF+Giovine Italia), [Mazzini](../docs/persons/giuseppe-mazzini.md) (Carboneria→GI→ANI), [Saffi](../docs/persons/aurelio-saffi.md) (GOI), [Armellini](../docs/persons/carlo-armellini.md), [Crispi](../docs/persons/francesco-crispi.md) (PM, massone 33°, asse con Gran Maestro Lemmi). **Strumento parallelo**: [Ordine SS. Maurizio e Lazzaro](../docs/foundation/ordine-santi-maurizio-lazzaro.md) (1572) — ordine cavalleresco sabaudo, Gran Maestranza ereditaria dei Re. Decorare politici, militari e diplomatici creava reti di lealta' parallele alla massoneria |
 | **Indipendenze sudamericane** | 1797-1830 | [Gran Reunion Americana](../docs/secret-society/gran-reunion-americana.md) → [Logge Lautaro](../docs/secret-society/lautaro.md) | [Miranda](../docs/persons/francisco-de-miranda.md) (fondatore GRA), [Bolivar](../docs/persons/simon-bolivar.md), San Martin, O'Higgins, Alvear, Belgrano, Pueyrredon, [Moreno](../docs/persons/mariano-moreno.md), [Carrera](../docs/persons/jose-miguel-carrera.md), [Lopez Mendez](../docs/persons/luis-lopez-mendez.md). 8 su 9 membri della Primera Junta argentina (1810) erano massoni. Sistema a due camere: massoneria "azzurra" (gradi 1-3) + "rossa" (gradi 4-5, Rosa Croce e Kadosh). Frattura interna: progetto continentalista (San Martin/O'Higgins) vs nazionalista (Carrera, giustiziato 1821) |
 | **[Giovani Turchi](../docs/forum/cup.md)** | 1906-1908 | [Macedonia Risorta](../docs/forum/macedonia-risorta.md) (GOI) | [Carasso](../docs/persons/emmanuel-carasso.md), [Talaat](../docs/persons/talaat-pasha.md), [Ataturk](../docs/persons/mustafa-kemal-ataturk.md) |
+| **GOU Argentina** | 1942-1943 | GOU (Grupo de Oficiales Unidos) — loggia militare segreta | [Juan Perón](../docs/persons/juan-peron.md) e Domingo Mercante co-fondarono il GOU (fine 1942-maggio 1943), loggia militare segreta che rovescio' il presidente Castillo il 4 giugno 1943. Struttura iniziatica con giuramenti e segretezza. Perón uso' il golpe per ottenere il Dipartimento del Lavoro, costruendo l'alleanza sindacale alla base del peronismo. Pattern: loggia militare come trampolino per il potere politico |
 | **Laicita' francese** | 1869-1905 | GODF | Trinomio massonico della Terza Repubblica: [Gambetta](../docs/persons/leon-gambetta.md) ([La Réforme](../docs/secret-society/la-reforme.md) 1869, proclamo' la Repubblica il 4 set 1870, Programma di Belleville), [Jules Ferry](../docs/persons/jules-ferry.md) ([La Clémente Amitié](../docs/secret-society/la-clemente-amitie.md) 1875, Leggi Ferry 1881-82: scuola gratuita, laica e obbligatoria), [Adolphe Cremieux](../docs/persons/adolphe-cremieux.md) (Gran Comandante GODF 1868-80, Décret Crémieux 1870, abolì schiavitù e pena di morte per reati politici). Legge separazione Chiesa-Stato 1905 |
 
 ---
 
 ## Pattern 2: Massoneria e Intelligence
 
-### Il caso Gigliotti-CIA-GOI
+### Il triangolo OSS-massoneria in Italia
 
-Il legame piu' documentato tra massoneria e servizi segreti passa per [Frank Gigliotti](../docs/persons/frank-gigliotti.md), pastore protestante e agente OSS/CIA:
+Il legame piu' documentato tra massoneria e servizi segreti passa per tre figure dell'OSS con affiliazioni massoniche italiane:
+
+| Persona | Loggia/Obbedienza | Ruolo OSS | Periodo |
+|---------|-------------------|-----------|---------|
+| [Earl Brennan](../docs/persons/earl-brennan.md) | Loggia Risveglia, Firenze (GOI) | Chief, Italian-Albanian Section | 1942-45 |
+| [Frank Gigliotti](../docs/persons/frank-gigliotti.md) | Garibaldi Lodge No. 542 NY, [Scottish Rite SJ](../docs/secret-society/scottish-rite-sj.md) 33°, GOI (membro onorario 1951) | Chief Consultant, Italian Section | 1941-45 |
+| [James Angleton](../docs/persons/james-angleton.md) | — (padre NCR Italia, Milano) | Chief X-2 (controspionaggio) Italia | 1943-45 |
+
+**Pattern**: Brennan, diplomatico USA a Firenze, entro' nella Loggia Risveglia (GOI) durante gli anni pre-bellici, costruendo contatti con la leadership massonica italiana, i vertici fascisti e lo stesso Mussolini. Questa rete divenne la base delle operazioni OSS in Italia. Gigliotti, pastore presbiteriano calabrese emigrato e massone 33° dello Scottish Rite SJ, funzionava come tramite tra la massoneria americana e quella italiana. Nel 1947, uso' la stessa rete per influenzare la stesura della Costituzione italiana (articoli XVII-XIX sulla liberta' religiosa), incontrando [De Gasperi](../docs/persons/alcide-de-gasperi.md) e minacciando il blocco degli aiuti USA.
+
+**Canale parallelo Savoia-Vaticano (1943)**: Mentre Dulles operava a Berna come capo stazione OSS, [Marie José del Belgio](../docs/persons/marie-jose-del-belgio.md) — moglie di Umberto II e unica antifascista nella famiglia reale — tento' una pace separata Italia-USA attraverso il Vaticano, con mons. Montini (futuro Paolo VI) come intermediario. Il tentativo falli': Marie José non riusci' mai a incontrare gli agenti americani e fu confinata a Sarre. Questo episodio illustra i canali alternativi (Corona, Vaticano) che operavano in parallelo alla rete massonica OSS.
+
+### Timeline Gigliotti-CIA-GOI
 
 | Anno | Evento |
 |------|--------|
-| 1945 | Gigliotti, agente OSS, negozia la restituzione di Palazzo Giustiniani al GOI |
+| anni '20-'30 | Brennan, Vice Console USA a Firenze, entra nella Loggia Risveglia (GOI) |
+| 1937 | Gigliotti diventa Operative A-70 nella rete di intelligence Van Deman |
+| 1941-45 | Brennan, Gigliotti e Angleton operano nell'OSS Italian Section |
+| 1945 | Gigliotti negozia la restituzione di Palazzo Giustiniani al GOI |
+| 1946 | Brennan consegna Distinguished Service Merit Medal a Gigliotti durante evento Scottish Rite |
+| 1947 | Gigliotti in Italia: pressioni su De Gasperi per Costituzione, incontri con Sforza e Amb. Dunn |
 | 1947 | Prima operazione covert CIA autorizzata: contro l'Italia (elezioni 1948) |
+| 1951 | Gigliotti e [Charles Fama](../docs/persons/charles-fama.md) nominati membri onorari del GOI |
 | ~1950 | Gigliotti recluta [Licio Gelli](../docs/persons/licio-gelli.md) per costruire rete anticomunista |
 | 1970 | Gelli diventa Maestro Venerabile della [P2](../docs/secret-society/p2.md) |
 
@@ -207,7 +227,8 @@ Lo [Scottish Rite SJ](../docs/secret-society/scottish-rite-sj.md), fondato nel 1
 | [J. Edgar Hoover](../docs/persons/j-edgar-hoover.md) | 33° + Grand Cross | Direttore FBI 48 anni (1924-72) | Federal Lodge No. 1 DC (1920), 33° (1955), Grand Cross (1965). Sala al House of the Temple |
 | [Henry Clausen](../docs/persons/henry-clausen.md) | 33° (SGC) | Avvocato, Army JAG, investigatore Pearl Harbor | GM California (1954), SGC 1969-85. *Clausen's Commentaries* (1976) sostitui' Pike |
 | [Allen Dulles](../docs/persons/allen-dulles.md) | 33° | Direttore CIA (1953-1961) | Connessione intelligence-massoneria |
-| [Frank Gigliotti](../docs/persons/frank-gigliotti.md) | — | Agente OSS/CIA | Tramite massoneria USA-Italia |
+| [Frank Gigliotti](../docs/persons/frank-gigliotti.md) | 33° | Agente OSS/CIA | Garibaldi Lodge No. 542 NY, tramite massoneria USA-Italia, GOI membro onorario (1951) |
+| [Earl Brennan](../docs/persons/earl-brennan.md) | — | Chief OSS Italian Section | Loggia Risveglia, Firenze (GOI). Diplomatico USA, rete pre-bellica |
 
 La sede (House of the Temple, 1733 16th St NW) si trova a un miglio dalla Casa Bianca. Una sala e' dedicata a J. Edgar Hoover, con documenti personali e archivi.
 
@@ -221,34 +242,131 @@ Sovereign Grand Commanders recenti: [Ronald Seale](../docs/persons/ronald-seale.
 
 La lista P2 (962 nomi) include i capi dei tre servizi segreti italiani (SID, SISMI, SISDE), generali NATO e ufficiali coinvolti nelle reti stay-behind (Operazione Gladio). La Commissione parlamentare Anselmi documenta la connessione strutturale.
 
+**Estensione argentina**: la P2 opero' anche in Argentina attraverso il canale [López Rega](../docs/persons/jose-lopez-rega.md) → [Gelli](../docs/persons/licio-gelli.md), piazzando membri sia nel potere civile peronista (López Rega ministro, [Lastiri](../docs/persons/raul-lastiri.md) presidente ad interim) sia nella giunta militare (Emilio Massera). Unico caso documentato di penetrazione P2 simultanea in entrambi i poli del potere di un paese.
+
 ---
 
-## Pattern 3: Lo Scandalo P2
+## Pattern 3: Lo Scandalo P2 e la Rete Finanziaria Vaticano-Mafia
 
-La vicenda P2 e' il caso paradigmatico di massoneria come struttura di potere deviato.
+La vicenda P2 e' il caso paradigmatico di massoneria come struttura di potere deviato. La loggia non era solo una rete di influenza politico-militare: funzionava come **infrastruttura finanziaria** che collegava Vaticano, mafia siciliana, banche internazionali e servizi segreti attraverso un sistema offshore multilivello.
 
 ### Cronologia
 
 | Anno | Evento |
 |------|--------|
 | **1877** | Fondazione Loggia Propaganda Massonica (futura P2) nel GOI |
-| **1970** | [Licio Gelli](../docs/persons/licio-gelli.md) diventa Maestro Venerabile |
-| **1975** | Gelli redige il "Piano di Rinascita Democratica" |
+| **~1950** | [Michele Sindona](../docs/persons/michele-sindona.md) fonda [Fasco AG](../docs/companies/fasco-ag.md) in Liechtenstein |
+| **1960** | Sindona acquisisce [Banca Privata Finanziaria](../docs/banks/banca-privata-italiana.md) via Fasco AG; [Continental Illinois](../docs/banks/continental-illinois.md) ([David Kennedy](../docs/persons/david-kennedy.md), chairman) acquisisce 24.5% |
+| **1965** | [Hambros Bank](../docs/banks/hambros-bank.md) acquisisce 22% di BPF |
+| **1969** | Sindona inizia collaborazione con [IOR](../docs/banks/ior.md) tramite [Paul Marcinkus](../docs/persons/paul-marcinkus.md) |
+| **1970** | [Licio Gelli](../docs/persons/licio-gelli.md) diventa Maestro Venerabile della P2; Sindona entra come tesoriere |
+| **1971** | Marcinkus presidente IOR; co-fondazione [Cisalpine Overseas Nassau Bank](../docs/banks/cisalpina-nassau.md) (board: [Calvi](../docs/persons/roberto-calvi.md), Marcinkus, Sindona, Gelli) |
+| **1972** | Sindona acquisisce [Franklin National Bank](../docs/banks/franklin-national-bank.md) via Fasco AG ($40M) |
+| **1973** | Fusione BPF + Banca Unione → [Banca Privata Italiana](../docs/banks/banca-privata-italiana.md) |
+| **1974** | Crollo simultaneo BPI e Franklin National Bank (piu' grande fallimento bancario USA); [Giorgio Ambrosoli](../docs/persons/giorgio-ambrosoli.md) nominato liquidatore BPI |
+| **1975** | Calvi diventa presidente [Banco Ambrosiano](../docs/banks/banco-ambrosiano.md) (membro P2 n.1519); Gelli redige il "Piano di Rinascita Democratica" |
 | **1976** | GOI sospende la P2 |
-| **1978** | [Silvio Berlusconi](../docs/persons/silvio-berlusconi.md) si affilia (tessera n. 1816) |
-| **1981** | Scoperta lista: **962 affiliati** — 3 ministri, 43 parlamentari, 195 ufficiali, capi servizi segreti |
-| **1981** | Caduta governo Forlani |
-| **1982** | Scioglimento P2, legge Anselmi. Morte di [Roberto Calvi](../docs/persons/roberto-calvi.md) (Banco Ambrosiano) |
+| **1978** | [Silvio Berlusconi](../docs/persons/silvio-berlusconi.md) si affilia (tessera n. 1816); Banca d'Italia segnala irregolarita' al Banco Ambrosiano |
+| **1979** | Sindona fa assassinare Ambrosoli a Milano (3 killer mafiosi) |
+| **1980** | Sindona condannato negli USA (65 capi); [Cisalpina](../docs/banks/cisalpina-nassau.md) diventa BAOL (Banco Ambrosiano Overseas Ltd) |
+| **1981** | Scoperta lista P2: **962 affiliati** — 3 ministri, 43 parlamentari, 195 ufficiali, capi servizi segreti. Caduta governo Forlani. Calvi arrestato per esportazione capitali |
+| **1982** | Buco da $1.3 miliardi al Banco Ambrosiano. Calvi fugge dall'Italia; trovato impiccato sotto Blackfriars Bridge, Londra (18 giu). Scioglimento P2, legge Anselmi |
+| **1984** | IOR paga $250M come "contributo volontario" ai creditori del Banco Ambrosiano |
+| **1986** | Sindona condannato all'ergastolo; avvelenato con cianuro in carcere due giorni dopo |
+| **2002** | Morte di Calvi riclassificata come omicidio |
+| **2007** | 5 imputati per omicidio Calvi assolti (Carboni, Calo', Diotallevi, Kleinszig, Vittor) |
 | **2015** | Morte di Gelli a 96 anni |
+
+### La Rete Finanziaria P2
+
+```
+             LICIO GELLI
+           (Maestro Venerabile P2)
+                  |
+    +-------------+-------------+
+    |             |             |
+    v             v             v
+ SINDONA       CALVI       MARCINKUS
+ (tesoriere)  (membro)    (associato)
+    |             |             |
+    v             v             v
+ Fasco AG    Banco         IOR
+ (Liecht.)   Ambrosiano   (Vatican Bank)
+    |             |             |
+    +------+------+------+-----+
+           |             |
+           v             v
+     Cisalpina      Shell Companies
+     Nassau/BAOL    (Panama x12+)
+     (Bahamas)          |
+           |            v
+           +------> $1.3 miliardi
+                    (scomparsi)
+```
 
 ### Rete P2 nel DB
 
 | Persona | Ruolo P2 | Altre affiliazioni |
 |---------|----------|-------------------|
-| [Licio Gelli](../docs/persons/licio-gelli.md) | Maestro Venerabile | GOI |
-| [Silvio Berlusconi](../docs/persons/silvio-berlusconi.md) | Membro | Fininvest, Forza Italia, PM Italia |
-| [Michele Sindona](../docs/persons/michele-sindona.md) | Tesoriere | Banca Privata Italiana, Franklin National Bank |
-| [Roberto Calvi](../docs/persons/roberto-calvi.md) | Membro | Banco Ambrosiano |
+| [Licio Gelli](../docs/persons/licio-gelli.md) | Maestro Venerabile | GOI, board Cisalpina Nassau |
+| [Silvio Berlusconi](../docs/persons/silvio-berlusconi.md) | Membro n.1816 | Fininvest, Forza Italia, PM Italia |
+| [Michele Sindona](../docs/persons/michele-sindona.md) | Tesoriere | [BPI](../docs/banks/banca-privata-italiana.md), [Franklin National Bank](../docs/banks/franklin-national-bank.md), [Fasco AG](../docs/companies/fasco-ag.md), [IOR](../docs/banks/ior.md) |
+| [Roberto Calvi](../docs/persons/roberto-calvi.md) | Membro n.1519 | [Banco Ambrosiano](../docs/banks/banco-ambrosiano.md), [IOR](../docs/banks/ior.md), Cisalpina Nassau |
+| [Paul Marcinkus](../docs/persons/paul-marcinkus.md) | — (non nella lista P2) | Presidente [IOR](../docs/banks/ior.md), board Cisalpina Nassau, [Vaticano](../docs/government/vaticano.md) |
+| [José López Rega](../docs/persons/jose-lopez-rega.md) | Membro | Min. Bienestar Social ARG, fondatore Triple A |
+| [Raúl Lastiri](../docs/persons/raul-lastiri.md) | Membro | Presidente ad interim ARG 1973 |
+
+### Il Quadrilatero Finanziario
+
+Quattro personaggi, tutti interconnessi attraverso la Cisalpina Overseas Nassau Bank e la P2:
+
+| Persona | Ruolo nel sistema | Banca di riferimento | Fine |
+|---------|-------------------|---------------------|------|
+| [Michele Sindona](../docs/persons/michele-sindona.md) | Banchiere della mafia, tesoriere P2 | [BPI](../docs/banks/banca-privata-italiana.md) / [Franklin NB](../docs/banks/franklin-national-bank.md) | Avvelenato in carcere (1986) |
+| [Roberto Calvi](../docs/persons/roberto-calvi.md) | "Il Banchiere di Dio" | [Banco Ambrosiano](../docs/banks/banco-ambrosiano.md) | Impiccato a Blackfriars Bridge (1982) |
+| [Paul Marcinkus](../docs/persons/paul-marcinkus.md) | Garante vaticano, lettere di patronage | [IOR](../docs/banks/ior.md) | Immunita' diplomatica, morto libero in Arizona (2006) |
+| [Licio Gelli](../docs/persons/licio-gelli.md) | Coordinatore politico-massonico | — (board Cisalpina) | Morto libero a 96 anni (2015) |
+
+**Ponte USA**: [David M. Kennedy](../docs/persons/david-kennedy.md), chairman di [Continental Illinois](../docs/banks/continental-illinois.md) e poi Secretary of Treasury di Nixon, fu il collegamento chiave tra la finanza USA e la rete Sindona. Continental Illinois deteneva il 24.5% della Banca Privata Finanziaria di Sindona ed era tra le banche piu' usate dalla CIA per le sue operazioni.
+
+### Le Banche del Sistema
+
+| Banca | Sede | Ruolo | Esito |
+|-------|------|-------|-------|
+| [Banca Privata Italiana](../docs/banks/banca-privata-italiana.md) | Milano | Hub Sindona, azionariato internazionale | Liquidata 1974, liquidatore [Ambrosoli](../docs/persons/giorgio-ambrosoli.md) assassinato |
+| [Banco Ambrosiano](../docs/banks/banco-ambrosiano.md) | Milano | Banca cattolica, $1.3B in frodi offshore | Liquidato 1982, rinato come Nuovo BA (poi Intesa Sanpaolo) |
+| [Cisalpine Overseas / BAOL](../docs/banks/cisalpina-nassau.md) | Nassau, Bahamas | Sussidiaria offshore BA, veicolo prestiti fittizi | Board: Calvi, Marcinkus, Sindona, Gelli. Rinominata BAOL 1980 |
+| [Franklin National Bank](../docs/banks/franklin-national-bank.md) | New York | Acquisita da Sindona via Fasco AG | Piu' grande fallimento bancario USA (1974) |
+| [IOR (Vatican Bank)](../docs/banks/ior.md) | Citta' del Vaticano | Azionista BA, garante shell companies | Pago' $250M, Marcinkus protetto da immunita' |
+| [Continental Illinois](../docs/banks/continental-illinois.md) | Chicago | Azionista BPI 24.5%, canale CIA | Collasso 1984 (non collegato direttamente a P2) |
+| [Hambros Bank](../docs/banks/hambros-bank.md) | Londra | Azionista BPI 22% | — |
+
+### Il Braccio Argentino della P2
+
+Oltre alla rete finanziaria italiana, la P2 aveva un braccio argentino che rappresenta l'unico caso documentato in cui la loggia penetro' simultaneamente sia il potere civile sia quello militare di uno stato.
+
+**Il canale Madrid**: [José López Rega](../docs/persons/jose-lopez-rega.md), ex caporale di polizia divenuto segretario personale di Perón in esilio a Madrid, fu il ponte che introdusse i Perón a [Licio Gelli](../docs/persons/licio-gelli.md). López Rega era membro P2 e divenne consulente finanziario del cerchio peronista in esilio.
+
+```
+LICIO GELLI (P2, Italia)
+    ↕ (introdotto da López Rega, ~1970)
+JUAN PERÓN (esilio Madrid, presunta iniziazione P2 giu 1973)
+    ↓
+┌── LÓPEZ REGA → Min. Bienestar Social 1973-75, fondatore Triple A
+├── LASTIRI → Presidente ad interim 1973 (genero López Rega)
+└── ISABEL PERÓN → Presidente 1974-76 (sotto influenza López Rega)
+    ↓ (golpe 1976)
+EMILIO MASSERA → Giunta militare 1976-78 (membro P2)
+```
+
+| Persona | Ruolo P2 | Ruolo politico | Periodo |
+|---------|----------|----------------|---------|
+| [José López Rega](../docs/persons/jose-lopez-rega.md) | Membro | Min. Bienestar Social, fondatore Triple A (~1.500 vittime) | 1973-1975 |
+| [Raúl Lastiri](../docs/persons/raul-lastiri.md) | Membro | Presidente ad interim (genero López Rega) | lug-ott 1973 |
+| Emilio Massera | Membro | Ammiraglio, membro giunta Videla | 1976-1978 |
+| [Juan Perón](../docs/persons/juan-peron.md) | Presunto (dichiarato da Gelli) | Presidente | 1973-1974 |
+
+**Pattern**: la P2 in Argentina non opero' attraverso la finanza (come in Italia con Sindona/Calvi/IOR) ma attraverso il **controllo politico diretto**: ministro, presidente, giunta militare. Il passaggio dal peronismo alla giunta fu seamless per la loggia — Massera era gia' membro quando rovescio' il governo di cui López Rega era stato ministro.
 
 ### Il "Piano di Rinascita Democratica"
 
@@ -322,6 +440,54 @@ Controversia documentata su conflitto d'interessi nelle istituzioni britanniche.
 
 ---
 
+## Pattern 7: UGLE — Corona, City e Governance Massonica
+
+La leadership della UGLE rivela un triangolo di potere Corona-City-Massoneria che funziona come modello di governance d'elite britannico.
+
+### Leadership attuale UGLE
+
+| Ruolo | Nome | Background | Pattern |
+|-------|------|-----------|---------|
+| **Grand Master** | [Duke of Kent](../docs/persons/duke-of-kent.md) (dal 1967) | Cugino di Elizabeth II, Eton → Le Rosey → Sandhurst. President RUSI, CWGC, Scout, FA, AELTC (Wimbledon). 140+ patronati | **Corona**: membro Royal Family come GM garantisce legittimazione e protezione istituzionale |
+| **Pro Grand Master** | [Jonathan Spence](../docs/persons/jonathan-spence.md) (dal 2022) | Trinity College Oxford → CEO Singer & Friedlander → Bursar Queens' College Cambridge. Deputy GM 2009-22. Iniziato 1982 | **City→Accademia**: banker che gestisce patrimoni di un college Cambridge. Primo Pro GM non aristocratico (dopo Lowndes) |
+| **Deputy Grand Master** | [Sir Michael Snyder](../docs/persons/michael-snyder.md) (dal 2024) | Kingston Smith (Senior Partner) → City of London Corporation (Chairman Policy & Resources 2003-08) → Metropolitan Grand Master London 2015-24. Knighted 2008 | **City→Governance**: unico individuo ad aver guidato contemporaneamente la governance politica E massonica della City |
+
+### Pattern Corona-City-Massoneria
+
+```
+          ROYAL FAMILY
+          (Duke of Kent)
+               │
+               ▼
+    UGLE ◄─── Grand Master (dal 1874)
+    │  │       sempre un Royal
+    │  │
+    │  └──► Pro Grand Master
+    │       (Jonathan Spence)
+    │       City banker → Cambridge
+    │
+    └──────► Deputy Grand Master
+             (Sir Michael Snyder)
+             City accountant → Corporation → Metropolitan GM
+                    │
+                    ▼
+            CITY OF LONDON CORPORATION
+            (Policy & Resources Committee)
+                    │
+                    ▼
+            LIVERY COMPANIES
+            (Needlemakers → Lodge)
+            ponte tra City e logge
+```
+
+**Osservazioni**:
+- Dal 1874 il Grand Master è sempre un membro della Royal Family (Edward VII → Duke of Connaught → Duke of Kent)
+- Il Pro Grand Master (potere effettivo) è passato dalla nobiltà alla City banking (Spence: Singer & Friedlander)
+- Il Deputy Grand Master (Snyder) incarna la simbiosi City-Massoneria: le Livery Companies fungono da porta d'ingresso verso le logge
+- Singer & Friedlander (banca di Spence) fu venduta alla Kaupthing islandese (2005), che collassò nel 2008 — Spence uscì nel 2006
+
+---
+
 ## Massoneria e Chiesa Cattolica
 
 Conflitto dottrinale di quasi tre secoli.
@@ -354,7 +520,7 @@ Conflitto dottrinale di quasi tre secoli.
 | [Giuliano Di Bernardo](../docs/persons/giuliano-di-bernardo.md) | 1990-1993 | Filosofo, prof. Trento. Dimesso per dissidi, fonda la [GLRI](../docs/secret-society/gran-loggia-regolare-italia.md) (riconosciuta UGLE). Poi fonda [Dignity Order](../docs/secret-society/dignity-order.md) (2002) |
 | Virgilio Gaito | 1993-1999 | Transizione post-Di Bernardo |
 | [Gustavo Raffi](../docs/persons/gustavo-raffi.md) | 1999-2014 | Avvocato ravennate, tre mandati consecutivi (record). Gran Oratore 1990-93. Iniziato 1968. Rappresentante GOI alla Commissione Europea. GM Onorario di sei Grandi Logge europee |
-| [Stefano Bisi](../docs/persons/stefano-bisi.md) | 2014-2024 | Due mandati |
+| [Stefano Bisi](../docs/persons/stefano-bisi.md) | 2014-2024 | Giornalista senese, Loggia Montaperti 722 (dal 1982), 33° RSAA. Due mandati consecutivi. Rifiuto' liste affiliati alla Commissione Antimafia (2016). Ritorno per prorogatio imperii (ott 2024) dopo annullamento elezione Seminario |
 | [Antonio Seminario](../docs/persons/antonio-seminario.md) | 2024- | Calabrese (Corigliano-Rossano). Elezione contestata da [Leo Taroni](../docs/persons/leo-taroni.md). Insediato alla Gran Loggia di Rimini, marzo 2026 |
 
 ### Crisi elettorale 2024-2026
@@ -416,8 +582,10 @@ Conflitto dottrinale di quasi tre secoli.
 ### Obbedienze massoniche
 
 ```
-UGLE (1717, Londra)
+UGLE (1717, Londra) — GM: Duke of Kent (1967-), Pro GM: Spence (2022-), Dep GM: Snyder (2024-)
 ├── Gran Loggia Regolare d'Italia (1993, riconosciuta)
+├── Grand Lodge of Virginia (riconosciuta)
+├── ≠ Grande Oriente d'Italia (non riconosciuto dal 1993)
 ├── Prince Hall (1775, riconosciuta) — massoneria afroamericana
 │   ├── Prince Hall (fondatore, 1775-1807)
 │   ├── Thurgood Marshall (33° AASR, Coal Creek Lodge No. 88)
@@ -449,11 +617,16 @@ UGLE (1717, Londra)
     └── ≈ GOI (affiliazione liberale)
 
 Carboneria (~1807, Napoli) — predecessore
+├── Carlo Alberto di Savoia (simpatizzante 1821, contatti Santarosa)
 └── Giovine Italia (1831, Marsiglia) — Mazzini
     ├── Giovine Europa (1834, Berna) — federazione internazionale
     └── Associazione Nazionale Italiana (1848, Parigi) — successore
 
 GOI (1805, Roma) — GM: Di Bernardo (90-93) → Gaito (93-99) → Raffi (99-14) → Bisi (14-24) → Seminario (24-)
+├── PROTETTORI REALI: Vittorio Emanuele II (1861-78) → Umberto I (1878-1900)
+│   ├── Asse Corona-Lemmi-Crispi: Gran Maestro Adriano Lemmi + PM Francesco Crispi (massone 33°)
+│   └── [Ordine SS. Maurizio e Lazzaro](../docs/foundation/ordine-santi-maurizio-lazzaro.md) (1572): ordine cavalleresco parallelo, Gran Maestri = Re di Sardegna/Italia
+│       └── Doppio sistema di lealta': GOI (iniziazione) + Ordine Mauriziano (decorazione reale)
 ├── P2 (1877-1982, loggia coperta)
 ├── Macedonia Risorta (1864, Salonicco)
 ├── Loggia Dante Alighieri (Torino) — Saffi (1862)
@@ -472,7 +645,8 @@ Scottish Rite SJ (1801, Charleston → Washington DC)
 ├── Allen Dulles (33°, Dir. CIA)
 ├── J. Edgar Hoover (33°, Dir. FBI)
 ├── Harry Truman (33°, Presidente USA)
-├── Frank Gigliotti (tramite OSS/CIA ↔ massoneria italiana)
+├── Frank Gigliotti (33°, Garibaldi Lodge 542 NY, GOI membro onorario 1951, tramite OSS/CIA ↔ GOI)
+├── Earl Brennan (Loggia Risveglia Firenze/GOI, Chief OSS Italian Section)
 ├── Henry Clausen (SGC 1969-85)
 ├── Grand Lodge of Virginia (Cole GM 2001)
 └── Cooperazione intelligence Guerra Fredda
@@ -492,13 +666,13 @@ Gran Reunion Americana (1797, Londra) — Miranda
 
 | Obbedienza | Persone |
 |------------|---------|
-| UGLE | [Nathan Rothschild](../docs/persons/nathan-mayer-rothschild.md), [Churchill](../docs/persons/winston-churchill.md) (Studholme 1591, 1901), [Washington](../docs/persons/george-washington-president.md) (Fredericksburg → WM Alexandria No. 22), [Bolivar](../docs/persons/simon-bolivar.md), [Miranda](../docs/persons/francisco-de-miranda.md), [Allende](../docs/persons/salvador-allende.md) |
+| UGLE | **Leadership**: [Duke of Kent](../docs/persons/duke-of-kent.md) (GM 1967-), [Jonathan Spence](../docs/persons/jonathan-spence.md) (Pro GM 2022-), [Sir Michael Snyder](../docs/persons/michael-snyder.md) (Dep. GM 2024-). **Membri storici**: [Nathan Rothschild](../docs/persons/nathan-mayer-rothschild.md), [Churchill](../docs/persons/winston-churchill.md) (Studholme 1591, 1901), [Washington](../docs/persons/george-washington-president.md) (Fredericksburg → WM Alexandria No. 22), [Bolivar](../docs/persons/simon-bolivar.md), [Miranda](../docs/persons/francisco-de-miranda.md), [Allende](../docs/persons/salvador-allende.md) |
 | [Gran Reunion Americana](../docs/secret-society/gran-reunion-americana.md) | [Miranda](../docs/persons/francisco-de-miranda.md) (fondatore), [Bolivar](../docs/persons/simon-bolivar.md), [Andres Bello](../docs/persons/andres-bello.md), O'Higgins, San Martin, Alvear, [Tomas Guido](../docs/persons/tomas-guido.md) (iniziato da Miranda), [Moreno](../docs/persons/mariano-moreno.md), [Carrera](../docs/persons/jose-miguel-carrera.md), [Lopez Mendez](../docs/persons/luis-lopez-mendez.md) |
 | [Loggia Lautaro](../docs/secret-society/lautaro.md) | [San Martin](../docs/persons/jose-de-san-martin.md), [Alvear](../docs/persons/carlos-maria-de-alvear.md), [O'Higgins](../docs/persons/bernardo-ohiggins.md), [Zapiola](../docs/persons/jose-matias-zapiola.md), [Julian Alvarez](../docs/persons/julian-alvarez.md), [Belgrano](../docs/persons/manuel-belgrano.md), [Pueyrredon](../docs/persons/juan-martin-de-pueyrredon.md), [Guido](../docs/persons/tomas-guido.md), [Monteagudo](../docs/persons/bernardo-monteagudo.md), [Freire](../docs/persons/ramon-freire.md), [Gurruchaga](../docs/persons/jose-de-gurruchaga.md), [Moreno](../docs/persons/mariano-moreno.md) (seguaci), [Carrera](../docs/persons/jose-miguel-carrera.md) (poi in conflitto) |
-| GOI | [Garibaldi](../docs/persons/giuseppe-garibaldi.md) (GM 1864, onorario a vita 1872), [Mazzini](../docs/persons/giuseppe-mazzini.md) (influenza Carboneria), [Aurelio Saffi](../docs/persons/aurelio-saffi.md) (Loggia Dante Alighieri, Torino, 1862), [Di Bernardo](../docs/persons/giuliano-di-bernardo.md) (GM 1990-93), [Raffi](../docs/persons/gustavo-raffi.md) (GM 1999-2014), [Bisi](../docs/persons/stefano-bisi.md) (GM 2014-24), [Seminario](../docs/persons/antonio-seminario.md) (GM 2024-), [Gelli](../docs/persons/licio-gelli.md), [Berlusconi](../docs/persons/silvio-berlusconi.md), [Carasso](../docs/persons/emmanuel-carasso.md), [Saverio Fera](../docs/persons/saverio-fera.md) (Luogotenente SGC, pre-1908) |
+| GOI | **Protettori reali**: [Vittorio Emanuele II](../docs/persons/vittorio-emanuele-ii.md) (protettore 1861-78), [Umberto I](../docs/persons/umberto-i.md) (protettore 1878-1900, asse con Lemmi e [Crispi](../docs/persons/francesco-crispi.md)). **GM e figure storiche**: [Garibaldi](../docs/persons/giuseppe-garibaldi.md) (GM 1864, onorario a vita 1872), [Mazzini](../docs/persons/giuseppe-mazzini.md) (influenza Carboneria), [Aurelio Saffi](../docs/persons/aurelio-saffi.md) (Loggia Dante Alighieri, Torino, 1862), [Di Bernardo](../docs/persons/giuliano-di-bernardo.md) (GM 1990-93), [Raffi](../docs/persons/gustavo-raffi.md) (GM 1999-2014), [Bisi](../docs/persons/stefano-bisi.md) (GM 2014-24), [Seminario](../docs/persons/antonio-seminario.md) (GM 2024-), [Gelli](../docs/persons/licio-gelli.md), [Berlusconi](../docs/persons/silvio-berlusconi.md), [Carasso](../docs/persons/emmanuel-carasso.md), [Saverio Fera](../docs/persons/saverio-fera.md) (Luogotenente SGC, pre-1908), [Earl Brennan](../docs/persons/earl-brennan.md) (Loggia Risveglia, Firenze), [Frank Gigliotti](../docs/persons/frank-gigliotti.md) (membro onorario 1951) |
 | GLI ALAM | [Saverio Fera](../docs/persons/saverio-fera.md) (fondatore, GM 1910-15), [Raoul Palermi](../docs/persons/raoul-palermi.md) (SGC e GM 1919-25, filo-fascista), [Luigi Pruneti](../docs/persons/luigi-pruneti.md) (GM, apertura internazionale), [Luciano Romoli](../docs/persons/luciano-romoli.md) (GM 2019-) |
 | GLRI | [Di Bernardo](../docs/persons/giuliano-di-bernardo.md) (fondatore, GM 1993-2002), [Fabio Venzi](../docs/persons/fabio-venzi.md) (GM 2001-) |
-| [Carboneria](../docs/secret-society/carboneria.md) | [Mazzini](../docs/persons/giuseppe-mazzini.md) (1827-1831) |
+| [Carboneria](../docs/secret-society/carboneria.md) | [Mazzini](../docs/persons/giuseppe-mazzini.md) (1827-1831), [Carlo Alberto](../docs/persons/carlo-alberto-di-savoia.md) (simpatizzante 1821, contatti con Santorre di Santarosa) |
 | [Giovine Italia](../docs/secret-society/giovine-italia.md) | [Mazzini](../docs/persons/giuseppe-mazzini.md) (fondatore 1831-1848), [Garibaldi](../docs/persons/giuseppe-garibaldi.md) (membro 1833), [Saffi](../docs/persons/aurelio-saffi.md) |
 | [Giovine Europa](../docs/secret-society/giovine-europa.md) | [Mazzini](../docs/persons/giuseppe-mazzini.md) (fondatore 1834-1836) |
 | [ANI](../docs/secret-society/associazione-nazionale-italiana.md) | [Mazzini](../docs/persons/giuseppe-mazzini.md) (fondatore 1848) |
@@ -510,7 +684,7 @@ Gran Reunion Americana (1797, Londra) — Miranda
 | Prince Hall | [Prince Hall](../docs/persons/prince-hall.md) (fondatore 1775), [Thurgood Marshall](../docs/persons/thurgood-marshall.md) (33° AASR, Coal Creek Lodge No. 88), [John Lewis](../docs/persons/john-lewis.md) (33° onorario 2011, Atlanta Consistory No. 24-A) |
 | Scottish Rite SJ | [Albert Pike](../docs/persons/albert-pike.md) (SGC 1859-91), [Allen Dulles](../docs/persons/allen-dulles.md) (33°), [J. Edgar Hoover](../docs/persons/j-edgar-hoover.md) (33°), [Harry Truman](../docs/persons/harry-truman.md) (33°), [Gigliotti](../docs/persons/frank-gigliotti.md), [Henry Clausen](../docs/persons/henry-clausen.md) (SGC 1969-85), [Ronald Seale](../docs/persons/ronald-seale.md) (SGC 2003-19), [James D. Cole](../docs/persons/james-cole.md) (SGC 2019-), [Raoul Palermi](../docs/persons/raoul-palermi.md) (connessione internazionale) |
 | Macedonia Risorta | [Carasso](../docs/persons/emmanuel-carasso.md), [Talaat Pasha](../docs/persons/talaat-pasha.md), [Djavid Bey](../docs/persons/djavid-bey.md), [Ataturk](../docs/persons/mustafa-kemal-ataturk.md) |
-| P2 | [Gelli](../docs/persons/licio-gelli.md), [Berlusconi](../docs/persons/silvio-berlusconi.md), [Sindona](../docs/persons/michele-sindona.md), [Calvi](../docs/persons/roberto-calvi.md) |
+| P2 | **Italia**: [Gelli](../docs/persons/licio-gelli.md) (Maestro Venerabile), [Berlusconi](../docs/persons/silvio-berlusconi.md), [Sindona](../docs/persons/michele-sindona.md), [Calvi](../docs/persons/roberto-calvi.md). Rete finanziaria: [Cisalpina Nassau/BAOL](../docs/banks/cisalpina-nassau.md), [BPI](../docs/banks/banca-privata-italiana.md), [Banco Ambrosiano](../docs/banks/banco-ambrosiano.md), [IOR](../docs/banks/ior.md). Vittime: [Ambrosoli](../docs/persons/giorgio-ambrosoli.md) (assassinato 1979). **Argentina**: [José López Rega](../docs/persons/jose-lopez-rega.md) (membro, Ministro Bienestar Social, fondatore Triple A), [Raúl Lastiri](../docs/persons/raul-lastiri.md) (membro, presidente ad interim 1973), [Emilio Massera](../docs/persons/emilio-massera.md) (membro, giunta militare 1976-78). Presunta affiliazione: [Juan Perón](../docs/persons/juan-peron.md) (iniziato da Gelli a Madrid, giugno 1973, secondo dichiarazioni di Gelli) |
 | [B'nai B'rith](../docs/foundation/bnai-brith.md) | [Henry Monsky](../docs/persons/henry-monsky.md) (president 1938-47, fondatore Am. Jewish Conference, delegato ONU 1945), [Philip Klutznick](../docs/persons/philip-klutznick.md) (president 1953-59, poi WJC e Sec. Commerce), [Jack Spitzer](../docs/persons/jack-spitzer.md) (president 1978-82, Camp David), [Rob Spitzer](../docs/persons/rob-spitzer.md) (president 2025-, figlio di Jack), [Daniel Mariaschin](../docs/persons/daniel-mariaschin.md) (CEO 1999-2026, ex ADL/AIPAC), [Sigmund Livingston](../docs/persons/sigmund-livingston.md) (membro, fondatore ADL 1913) |
 
 ---
@@ -611,7 +785,12 @@ Gran Reunion Americana (1797, Londra) — Miranda
 | **1920** | [J. Edgar Hoover](../docs/persons/j-edgar-hoover.md) iniziato a Federal Lodge No. 1, Washington DC (9 novembre) |
 | **1945** | [Harry Truman](../docs/persons/harry-truman.md) riceve il 33° grado Scottish Rite SJ (19 ottobre). Stesso anno: presidente, bombe atomiche, Carta ONU |
 | **1945** | [Henry Clausen](../docs/persons/henry-clausen.md) conduce indagine segreta Pearl Harbor per Sec. War Stimson (Clausen Report, 800pp) |
+| **anni '20-'30** | [Earl Brennan](../docs/persons/earl-brennan.md), Vice Console USA a Firenze, entra nella Loggia Risveglia (GOI) — costruisce rete con vertici fascisti e massonici |
+| **1937** | [Frank Gigliotti](../docs/persons/frank-gigliotti.md) diventa Operative A-70 nella rete di intelligence Van Deman |
+| **1941-45** | Triangolo OSS-massoneria in Italia: Brennan (Chief Italian Section, Loggia Risveglia), Gigliotti (Chief Consultant, Scottish Rite 33°), [Angleton](../docs/persons/james-angleton.md) (X-2 controspionaggio) |
 | **1945** | Gigliotti (OSS/CIA) negozia restituzione Palazzo Giustiniani |
+| **1947** | Gigliotti in Italia: pressioni su [De Gasperi](../docs/persons/alcide-de-gasperi.md) per articoli liberta' religiosa nella Costituzione (XVII-XIX) |
+| **1951** | Gigliotti e [Charles Fama](../docs/persons/charles-fama.md) nominati membri onorari del GOI |
 | **1946** | Truman crea l'Atomic Energy Commission (controllo nucleare dai militari ai civili) |
 | **1947** | Truman firma il National Security Act: nasce la CIA, il NSC, il Dept of Defense |
 | **1949** | Truman firma il Trattato Nord Atlantico: nasce la NATO |
@@ -619,7 +798,14 @@ Gran Reunion Americana (1797, Londra) — Miranda
 | **1955** | Hoover riceve il 33° grado Scottish Rite SJ |
 | **1965** | Hoover riceve la Grand Cross of Honour (massimo riconoscimento Scottish Rite) |
 | **1969** | [Henry Clausen](../docs/persons/henry-clausen.md) eletto Sovereign Grand Commander Scottish Rite SJ |
+| **1967** | [Duke of Kent](../docs/persons/duke-of-kent.md) eletto Grand Master UGLE al 250° anniversario (Royal Albert Hall). Iniziato 1963 in Royal Alpha Lodge No. 16 |
+| **~1950** | Gigliotti recluta [Licio Gelli](../docs/persons/licio-gelli.md) per rete anticomunista |
+| **1965** | [López Rega](../docs/persons/jose-lopez-rega.md) raggiunge i Perón in esilio a Madrid; diventa membro P2 |
+| **~1970** | López Rega introduce [Juan Perón](../docs/persons/juan-peron.md) a Gelli a Madrid |
 | **1970** | Gelli diventa Maestro Venerabile della P2 |
+| **1973 giu** | Gelli dichiara di aver iniziato Perón alla P2 a Puerta de Hierro, Madrid |
+| **1973 lug** | [Raúl Lastiri](../docs/persons/raul-lastiri.md) (membro P2, genero López Rega) presidente ad interim argentino |
+| **1973** | López Rega nominato Ministro del Bienestar Social; fonda la Triple A (~1.500 vittime) |
 | **1981** | Scoperta lista P2: 962 affiliati nelle istituzioni italiane |
 | **1951** | [Thurgood Marshall](../docs/persons/thurgood-marshall.md) Active Member del United Supreme Council 33° Prince Hall |
 | **1954** | Brown v. Board of Education: Marshall vince, finanziato anche da Prince Hall Masons |
@@ -641,11 +827,14 @@ Gran Reunion Americana (1797, Londra) — Miranda
 | **2024** | Elezioni GOI: Seminario vs Taroni, 248 schede annullate, battaglia legale |
 | **2024** | Rottura GOI con Rito Scozzese (Piazza del Gesu') |
 | **2025** | Tribunale collegiale reintegra Seminario come Gran Maestro |
+| **2022** | [Jonathan Spence](../docs/persons/jonathan-spence.md) nominato Pro Grand Master UGLE (ex CEO Singer & Friedlander, Bursar Queens' College Cambridge). Primo Pro GM non aristocratico dopo Lowndes |
 | **2025** | Met Police: obbligo dichiarazione appartenenza massonica |
 | **2025** | Gran Loggia Alpina svizzera ritira riconoscimento al GOI |
 | **2019** | [James D. Cole](../docs/persons/james-cole.md) eletto 19° SGC Scottish Rite SJ (19 agosto) |
 | **2020** | Statua di Albert Pike abbattuta a Washington DC durante proteste George Floyd (19 giugno) |
 | **2025** | Statua di Pike reinstallata dal National Park Service |
+| **2024** | [Sir Michael Snyder](../docs/persons/michael-snyder.md) nominato Deputy Grand Master UGLE (ex Metropolitan Grand Master di Londra 2015-24) |
+| **2026** | Snyder eletto Alderman City of London (Coleman Street Ward, 5 febbraio) |
 | **2026** | Insediamento Seminario alla Gran Loggia di Rimini (6-7 marzo) |
 
 ---

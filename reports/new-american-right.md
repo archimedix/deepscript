@@ -36,6 +36,18 @@ L'infrastruttura Atlas ha un **braccio europeo dedicato**: nel 2014 l'IEA fonda 
 
 **L'ironia genealogica:** La MPS ha prodotto anche il principale avversario filantropico della New Right. [Karl Popper](../docs/persons/karl-popper.md), co-fondatore MPS e autore di *The Open Society and Its Enemies* (1945), insegna alla LSE dove forma **[George Soros](../docs/persons/george-soros.md)** (BSc 1951, MSc 1954). Soros fonda la Open Society Foundations (~$32B donati) ispirandosi direttamente a Popper — la stessa matrice intellettuale che alimenta Heritage e la New Right genera anche il suo nemico numero uno. Hayek porta Popper alla LSE; Popper forma Soros; Soros finanzia la "societa' aperta" contro cui la New Right combatte.
 
+### Generation Zero: il vivaio Buckley (1960-1972)
+
+Prima di Weyrich c'e' **[William F. Buckley Jr.](../docs/persons/william-buckley.md)** (1925-2008), che costruisce il terreno organizzativo su cui la New Right crescera'. La sequenza e' generativa:
+
+**1960 — [Young Americans for Freedom](../docs/forum/young-americans-freedom.md)**: L'11 settembre 1960, 100 giovani conservatori si riuniscono nella residenza Buckley a Sharon, Connecticut, e firmano la **Sharon Statement** (redatta da M. Stanton Evans) — il manifesto fondativo del conservatorismo americano moderno. YAF diventa il vivaio della destra: da li' escono **[Richard Viguerie](../docs/persons/richard-viguerie.md)** (executive secretary, poi pioniere del direct mail), **[Howard Phillips](../docs/persons/howard-phillips.md)** (founding member, poi Conservative Caucus e Constitution Party), **[Terry Dolan](../docs/persons/terry-dolan.md)** (poi fondatore NCPAC), **[Roger Stone](../docs/persons/roger-stone.md)** (poi consigliere Trump), **[David Keene](../docs/persons/david-keene.md)** (national chairman, poi chairman ACU per 27 anni e presidente NRA), **[Oliver North](../docs/persons/oliver-north.md)** e Dan Quayle. [Ronald Reagan](../docs/persons/ronald-reagan.md) entra nel National Advisory Board nel 1962 e resterà Honorary Chairman per 42 anni.
+
+**1964 — [American Conservative Union](../docs/forum/acu.md)**: Dopo la sconfitta di Goldwater, alumni YAF — Buckley, [Robert Bauman](../docs/persons/robert-bauman.md), John Ashbrook — fondano l'ACU, la più antica lobby conservatrice USA. L'ACU fara' tre cose decisive: dal 1971 pubblica i **Congressional Ratings** (scorecard che misura il conservatorismo dei parlamentari), dal 1974 organizza il **CPAC**, e diventa il nodo organizzativo permanente della destra pre-Heritage.
+
+**1974 — [CPAC](../docs/forum/cpac.md)**: ACU e YAF co-fondano la Conservative Political Action Conference. Reagan e' il primo keynote speaker; Viguerie e [Weyrich](../docs/persons/paul-weyrich.md) tra gli speaker. CPAC diventa il raduno annuale che collega tutte le anime della destra — il luogo dove le cinque gambe di Weyrich si incontrano ogni anno.
+
+La catena **YAF (1960) → ACU (1964) → CPAC (1974)** e' la spina dorsale organizzativa del conservatorismo USA: Buckley forma i quadri (YAF), li organizza (ACU), e crea il forum annuale (CPAC) su cui Weyrich innesta la sua infrastruttura.
+
 ### New Right 1.0: l'infrastruttura Weyrich (1973-2008)
 
 La New Right originaria nasce negli anni '70 come reazione al liberalismo del New Deal. L'architetto e' un unico uomo: **[Paul Weyrich](../docs/persons/paul-weyrich.md)** (1942-2008), che tra il 1973 e il 1981 costruisce un'infrastruttura conservatrice a cinque gambe — ciascuna con una funzione specifica:
@@ -226,6 +238,9 @@ PETER THIEL (1967, DEU-USA-NZL)
 | **Conservative Partnership Institute** | 2017 | [Jim DeMint](../docs/persons/jim-demint.md) / Mark Meadows | "Nerve center" MAGA, network ~24 org, cresciuto 6x |
 | **America First Policy Institute** | 2021 | Brooke Rollins | Think tank Trump-aligned, $1M da Save America PAC |
 | **Edmund Burke Foundation** | 2019 | Yoram Hazony | Organizza conferenze National Conservatism (NatCon) |
+| **[Young Americans for Freedom](../docs/forum/young-americans-freedom.md)** | 1960 | Buckley (fondatore) | Vivaio: forma Viguerie, Phillips, Dolan, Stone, Keene, North. Defunct 2011 |
+| **[American Conservative Union](../docs/forum/acu.md)** | 1964 | [Matt Schlapp](../docs/persons/matt-schlapp.md) | Lobby conservatrice, Congressional Ratings, organizza CPAC |
+| **[CPAC](../docs/forum/cpac.md)** | 1974 | Matt Schlapp | Conferenza annuale → piattaforma globale destra in 8+ paesi (dal 2017) |
 
 ### Infrastruttura Tech-Difesa
 
@@ -284,6 +299,20 @@ Il network Koch rappresenta la frattura più netta con il vecchio conservatorism
 | NatCon London | May 2023 | Londra | |
 | NatCon 4 | Jul 2024 | Washington DC | Pre-elezioni |
 | NatCon 5 | Sep 2025 | Washington DC | Gabbard, Bhattacharya, Homan, Bannon, Deneen |
+
+### CPAC Internazionale: la piattaforma globale
+
+Parallelo e complementare a NatCon, il CPAC sotto **[Matt Schlapp](../docs/persons/matt-schlapp.md)** (chairman ACU dal 2014) si e' trasformato da conferenza nazionale USA a piattaforma della destra internazionale. Schlapp — revolving door classico: Political Director di George W. Bush (2001-05) → chief lobbyist Koch Industries (2005-09) → chairman ACU/CPAC — ha aggressivamente espanso il brand:
+
+| Anno | Espansione CPAC |
+|------|----------------|
+| **2017** | Giappone (primo CPAC internazionale) |
+| **2019** | Australia, Brasile, Corea del Sud |
+| **2022** | Ungheria (Budapest, con Orbán), Messico, Israele |
+| **2024** | Argentina (Buenos Aires, con [Milei](../docs/persons/javier-milei.md)), 8 paesi totali |
+| **2025** | Polonia; [Giorgia Meloni](../docs/persons/giorgia-meloni.md) keynote in video; progetto CPAC Italia bloccato da FdI |
+
+La differenza tra NatCon e CPAC internazionale: NatCon e' intellettuale (Hazony, Deneen, post-liberali), CPAC e' operativo (leader in carica, mobilitazione di base, network building). I due circuiti si sovrappongono: [Bannon](../docs/persons/steve-bannon.md) parla a entrambi; Meloni partecipa a CPAC e NatCon; Orbán ospita CPAC Budapest. Insieme formano la **doppia infrastruttura conferenziale** della destra globale.
 
 ---
 
@@ -361,6 +390,8 @@ Il modello e' unico nella politica americana moderna: nessuna famiglia dal tempo
 | Anno | Evento |
 |---|---|
 | **1945** | Fisher legge *The Road to Serfdom*, incontra Hayek alla LSE: nasce l'idea di usare think tank per cambiare il clima intellettuale |
+| **1960** | Buckley ospita la Sharon Conference: nasce [YAF](../docs/forum/young-americans-freedom.md), vivaio della destra USA. Sharon Statement (M. Stanton Evans) |
+| **1964** | Dopo sconfitta Goldwater, alumni YAF (Buckley, Bauman, Ashbrook) fondano l'[ACU](../docs/forum/acu.md) |
 | **1947** | Hayek fonda la Mont Pelerin Society: 36 studiosi (Friedman, Mises, Popper, Stigler, Einaudi) gettano le basi intellettuali del neoliberismo |
 | **1955** | Fisher fonda l'Institute of Economic Affairs (IEA) a Londra: il prototipo del think tank neoliberale |
 | **1966** | Antonio Martino va a Chicago: allievo diretto di Friedman, ponte Chicago School → politica italiana |
@@ -369,7 +400,9 @@ Il modello e' unico nella politica americana moderna: nessuna famiglia dal tempo
 | **1962** | Stigler pubblica sulla regulatory capture; Buchanan e Tullock pubblicano *The Calculus of Consent* (Public Choice Theory) |
 | **1971** | Stigler pubblica "The Theory of Economic Regulation": le agenzie regolatorie sono "catturate" dalle industrie — base intellettuale della deregolamentazione |
 | **1973** | Shultz (Secretary of Treasury) crea il "Library Group", futuro G7: il formato che coordina le economie occidentali |
+| **1971** | ACU lancia Congressional Ratings: scorecard annuale del conservatorismo parlamentare |
 | **1973** | Weyrich, Feulner, Coors fondano Heritage Foundation; Weyrich co-fonda ALEC con Henry Hyde e Lou Barnett |
+| **1974** | ACU e YAF co-fondano [CPAC](../docs/forum/cpac.md): Reagan primo keynote, Viguerie e Weyrich speaker |
 | **1974** | Weyrich fonda il Committee for the Survival of a Free Congress (poi FCF, 1977) |
 | **1974** | Keith Joseph "si converte" al liberismo dopo sconfitta Heath; co-fonda Centre for Policy Studies con Thatcher |
 | **1975** | Fisher co-fonda Fraser Institute (Canada): primo clone IEA |
@@ -400,7 +433,7 @@ Il modello e' unico nella politica americana moderna: nessuna famiglia dal tempo
 | **Sep 2016** | Anton pubblica "The Flight 93 Election" (Claremont Review) |
 | **Jul 2016** | Thiel parla al RNC, dona $1.25M a Trump |
 | **Nov 2016** | Trump eletto; Bannon chief strategist |
-| **2017** | Palmer Luckey e Trae Stephens fondano Anduril; Jim DeMint fonda CPI |
+| **2017** | Palmer Luckey e Trae Stephens fondano Anduril; Jim DeMint fonda CPI; Schlapp lancia primo CPAC internazionale (Giappone) |
 | **2018** | Deneen pubblica *Why Liberalism Failed* |
 | **Jan 2019** | Fondata Edmund Burke Foundation (Hazony) |
 | **Jul 2019** | NatCon 1 a Washington DC |
@@ -438,8 +471,8 @@ Leonard Leo ha costruito un'infrastruttura giudiziaria finanziata da dark money 
 ### 4. Contraddizione Tech-Libertari / Statalisti
 DOGE (smantellare lo stato) vs. Project 2025 (conquistare lo stato) rappresenta la tensione irrisolta. Thiel e Musk vogliono meno governo; Deneen e Hawley vogliono più governo (ma conservatore).
 
-### 5. Genealogia a cinque livelli
-La New Right ha una genealogia a cinque livelli: **dottrina** (Mont Pelerin Society, 1947 → Hayek, Mises, Popper), **accademia** (Chicago School + Virginia School, 1950s-80s → Friedman/Stigler/Becker/Buchanan → 4 Nobel), **organizzazione** (due pipeline paralleli: in UK Fisher/IEA 1955 → Joseph/CPS 1974; in USA Weyrich/Heritage 1973 → ALEC, Federalist Society, Buchanan/Koch → George Mason), **implementazione** (Reagan-Thatcher, 1979-1990 → dimostrano che la dottrina MPS funziona come programma di governo: PATCO, privatizzazioni, Big Bang, abolizione Fairness Doctrine; il Bechtel Cabinet di Shultz/Weinberger stabilisce il modello revolving door), **conquista** (Thiel/Musk, 2016-25 → tech-libertari al governo). Fisher e' il ponte dottrina-infrastruttura (IEA → Atlas Network, 500+ think tank); Feulner il ponte dottrina-policy (Heritage); Buchanan/Koch il ponte accademia-organizzazione; Joseph il traduttore politico in UK; Reagan-Thatcher la proof-of-concept; Thiel il ponte organizzazione-conquista.
+### 5. Genealogia a sei livelli
+La New Right ha una genealogia a sei livelli: **dottrina** (Mont Pelerin Society, 1947 → Hayek, Mises, Popper), **accademia** (Chicago School + Virginia School, 1950s-80s → Friedman/Stigler/Becker/Buchanan → 4 Nobel), **vivaio** (YAF 1960 → ACU 1964 → CPAC 1974: Buckley forma i quadri, li organizza, crea il forum annuale), **organizzazione** (due pipeline paralleli: in UK Fisher/IEA 1955 → Joseph/CPS 1974; in USA Weyrich/Heritage 1973 → ALEC, Federalist Society, Buchanan/Koch → George Mason), **implementazione** (Reagan-Thatcher, 1979-1990 → dimostrano che la dottrina MPS funziona come programma di governo: PATCO, privatizzazioni, Big Bang, abolizione Fairness Doctrine; il Bechtel Cabinet di Shultz/Weinberger stabilisce il modello revolving door), **conquista** (Thiel/Musk, 2016-25 → tech-libertari al governo). Il "vivaio" e' il livello generativo: quasi tutti i costruttori della New Right 1.0 — Viguerie, Phillips, Dolan, Stone, Keene — escono da YAF. Buckley e' il ponte vivaio-organizzazione (YAF → ACU); Fisher il ponte dottrina-infrastruttura (IEA → Atlas Network, 500+ think tank); Feulner il ponte dottrina-policy (Heritage); Buchanan/Koch il ponte accademia-organizzazione; Joseph il traduttore politico in UK; Reagan-Thatcher la proof-of-concept; Schlapp il ponte organizzazione-internazionale (CPAC in 8+ paesi); Thiel il ponte organizzazione-conquista.
 
 ### 6. La biforcazione Popper-Soros
 La MPS del 1947 contiene in nuce anche il suo contraltare: [Karl Popper](../docs/persons/karl-popper.md) co-fonda la societa' con Hayek ma la sua filosofia della "societa' aperta" genera, attraverso l'allievo [George Soros](../docs/persons/george-soros.md), l'infrastruttura filantropica progressista ($32B+) che la New Right considera il nemico principale. Stessa radice intellettuale, esiti diametralmente opposti.

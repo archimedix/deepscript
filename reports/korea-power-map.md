@@ -8,6 +8,8 @@
 
 La Corea del Sud rappresenta un **laboratorio unico** per studiare le dinamiche del potere post-1945:
 
+- **Radici Manchukuo**: il modello di sviluppo statale nasce dal colonialismo giapponese
+- **Rete anticomunista**: KCIA, APACL/WACL, Unification Church come infrastruttura della Guerra Fredda
 - **Stato sviluppista** che ha creato i chaebol (1961-1979)
 - **Democrazia formale** dal 1987, ma **oligarchia economica** de facto
 - **Cross-shareholding** che permette controllo con proprieta' minima
@@ -46,6 +48,85 @@ La Corea del Sud rappresenta un **laboratorio unico** per studiare le dinamiche 
     - 31% voting rights     - Vanguard 3.4%
                             - State Street 1.5%
 ```
+
+---
+
+## Origini: Guerra Fredda e Rete Anticomunista
+
+### Il Filo Manchukuo
+
+Il sistema di potere coreano nasce dal colonialismo giapponese. Park Chung Hee e Nobusuke Kishi condividono la formazione nel sistema Manchukuo — il modello di sviluppo industriale guidato dallo Stato che Park applichera' alla Corea del Sud:
+
+```
+MANCHUKUO (1932-1945)
+  Modello: pianificazione statale + conglomerati
+       |
+       +---> Nobusuke Kishi ──► Premier Giappone (1957-60)
+       |                         Normalizzazione Giappone-Corea 1965
+       |
+       +---> Park Chung Hee ──► Presidente Corea (1962-79)
+                |                Piani Quinquennali + Chaebol
+                |
+                +---> Lee Byung-chul / Samsung
+                      "Governo e industria sono come marito e moglie"
+```
+
+### La KCIA: Braccio Operativo
+
+La [KCIA](../docs/agency/kcia.md) (1961-1981) fu il vero centro di potere del regime Park:
+
+| Direttore | Periodo | Evento chiave |
+|-----------|---------|---------------|
+| [Kim Jong-pil](../docs/persons/kim-jong-pil.md) | 1961-63 | Fondatore, organizza Unification Church come asset |
+| [Kim Hyong-uk](../docs/persons/kim-hyong-uk.md) | 1963-69 | Espansione operazioni |
+| [Lee Hu-rak](../docs/persons/lee-hu-rak.md) | 1970-73 | Rapimento Kim Dae-jung a Tokyo |
+| [Kim Jae-kyu](../docs/persons/kim-jae-kyu.md) | 1976-79 | Assassina Park Chung Hee |
+
+**Operazioni chiave:**
+- **Unification Church**: "organizzata" dal direttore KCIA (report CIA 1963) come strumento politico
+- **Koreagate** (1976-78): [Tongsun Park](../docs/persons/tongsun-park.md) corrompe 115 congressisti USA
+- **Bo Hi Pak**: attache' militare a Washington, liaison KCIA-USA e reclutatore UC
+
+### La Rete APACL/WACL
+
+L'[APACL](../docs/forum/apacl.md) (1954) fu il nodo della rete anticomunista asiatica, fondata a Jinhae:
+
+```
+        APACL (1954)                        WACL (1966)
+            |                                   |
+  +---------+---------+              +----------+----------+
+  |         |         |              |          |          |
+Taiwan    Corea    Giappone       Moon/UC    Kodama    Pearson
+Chiang    Rhee     Kishi         (fondi)    Sasakawa  (Europa)
+Ku        Park     Sasakawa
+          KCIA     Kodama
+```
+
+| Attore | Ruolo nella rete |
+|--------|------------------|
+| [Chiang Kai-shek](../docs/persons/chiang-kai-shek.md) | Iniziatore APACL, sponsor politico Taiwan |
+| [Syngman Rhee](../docs/persons/syngman-rhee.md) | Co-fondatore, ospita prima conferenza 1954 |
+| [Park Chung Hee](../docs/persons/park-chung-hee.md) | Sponsor dal 1962, KCIA come braccio operativo |
+| [Nobusuke Kishi](../docs/persons/nobusuke-kishi.md) | Capitolo giapponese, connessione Manchukuo |
+| [Sun Myung Moon](../docs/persons/sun-myung-moon.md) | Finanziatore espansione WACL 1966 |
+| [Ryoichi Sasakawa](../docs/persons/ryoichi-sasakawa.md) | Co-fondatore, ex criminale di guerra classe A |
+| [Yoshio Kodama](../docs/persons/yoshio-kodama.md) | Rete yakuza-intelligence giapponese |
+| [Ku Cheng-kang](../docs/persons/ku-cheng-kang.md) | Organizzatore APACL, primo chairman WACL |
+
+### Il Patto Stato-Chaebol (1961)
+
+Quando Park prese il potere nel 1961, [Lee Byung-chul](../docs/persons/lee-byung-chul.md) era in Giappone. Il patto:
+
+| Stato (Park) | Chaebol (Lee/Samsung) |
+|--------------|----------------------|
+| Prestiti garantiti | Esecuzione Piani Quinquennali |
+| Protezione dalla concorrenza | Crescita industriale forzata |
+| Esenzioni fiscali | Occupazione e export |
+| Impunita' (entro certi limiti) | Lealta' politica |
+
+**Risultato**: PIL pro capite da $72 (1961) al "Miracolo sul Han River". Le 10 famiglie chaebol producono il 60% della crescita.
+
+**Lo scandalo saccarosio (1966)** mostra i limiti del patto: il figlio di Lee viene arrestato per contrabbando, Lee "dona" la Korea Fertilizer al governo ed evita l'incriminazione. Il messaggio: il potere economico e' subordinato a quello politico — ma non puo' essere distrutto.
 
 ---
 
@@ -123,8 +204,9 @@ Samsung Electronics (8.51% via Life)
 
 | Presidente | Periodo | Relazione Chaebol | Esito |
 |------------|---------|-------------------|-------|
-| Park Chung-hee | 1961-1979 | Creatore sistema | Assassinato |
-| [Park Geun-hye](../docs/persons/park-geun-hye.md) | 2013-2017 | Tangenti Samsung | Impeached |
+| [Syngman Rhee](../docs/persons/syngman-rhee.md) | 1948-1960 | Pre-chaebol, co-fondatore APACL | Deposto |
+| [Park Chung Hee](../docs/persons/park-chung-hee.md) | 1962-1979 | Creatore sistema chaebol-Stato | Assassinato da KCIA |
+| [Park Geun-hye](../docs/persons/park-geun-hye.md) | 2013-2017 | Figlia di Park, tangenti Samsung | Impeached |
 | Moon Jae-in | 2017-2022 | "Chaebol sniper" | Fine mandato |
 | [Yoon Suk-yeol](../docs/persons/yoon-suk-yeol.md) | 2022-2024 | Pro-chaebol, grazia Lee | Impeached |
 
@@ -222,12 +304,14 @@ Consolidamento potere Lee Jae-yong
 
 ### Caratteristiche Distintive
 
-1. **Stato sviluppista**: Governo crea campioni nazionali (1960s)
-2. **Cross-shareholding**: Controllo senza proprieta'
-3. **Famiglia al centro**: Successione dinastica
-4. **Revolving door**: Funzionari → board aziendali
-5. **Corruzione sistemica**: Non eccezione ma regola
-6. **Democrazia fragile**: 2 impeachment in 8 anni
+1. **Radici coloniali**: Modello Manchukuo di sviluppo statale → Piani Quinquennali di Park
+2. **Infrastruttura Guerra Fredda**: KCIA + APACL/WACL + Unification Church
+3. **Stato sviluppista**: Governo crea campioni nazionali (1960s)
+4. **Cross-shareholding**: Controllo senza proprieta'
+5. **Famiglia al centro**: Successione dinastica (Lee: 3 generazioni)
+6. **Revolving door**: Funzionari → board aziendali
+7. **Corruzione sistemica**: Non eccezione ma regola
+8. **Democrazia fragile**: 2 impeachment in 8 anni
 
 ### Il Paradosso Coreano
 
@@ -247,6 +331,35 @@ Il caso coreano dimostra che:
 - Il **revolving door** e' il meccanismo di trasmissione
 - I **fondi pensione pubblici** possono essere strumentalizzati
 - La **grazia presidenziale** e' lo strumento di impunita'
+- Le **reti della Guerra Fredda** (KCIA, APACL, UC) sono l'infrastruttura originaria del sistema
+- Il **modello Manchukuo** mostra come il colonialismo giapponese ha plasmato il capitalismo coreano
+
+---
+
+## Entita' nel DB
+
+### Persone
+
+| ID | Ruolo | Scheda |
+|----|-------|--------|
+| [park-chung-hee](../docs/persons/park-chung-hee.md) | Presidente, creatore sistema | ✅ |
+| [lee-byung-chul](../docs/persons/lee-byung-chul.md) | Fondatore Samsung | ✅ |
+| [kim-jong-pil](../docs/persons/kim-jong-pil.md) | Fondatore KCIA | stub |
+| [kim-jae-kyu](../docs/persons/kim-jae-kyu.md) | Ultimo direttore KCIA | stub |
+| [lee-hu-rak](../docs/persons/lee-hu-rak.md) | Direttore KCIA | stub |
+| [tongsun-park](../docs/persons/tongsun-park.md) | Koreagate | stub |
+| [syngman-rhee](../docs/persons/syngman-rhee.md) | 1° Presidente, co-fondatore APACL | stub |
+| [bo-hi-pak](../docs/persons/bo-hi-pak.md) | Operativo KCIA, liaison UC | stub |
+| [sun-myung-moon](../docs/persons/sun-myung-moon.md) | Asset KCIA, fondatore UC | stub |
+
+### Organizzazioni
+
+| ID | Tipo | Scheda |
+|----|------|--------|
+| [kcia](../docs/agency/kcia.md) | Agency | ✅ |
+| [apacl](../docs/forum/apacl.md) | Forum | ✅ |
+| [governo-corea-sud](../docs/government/governo-corea-sud.md) | Government | stub |
+| [wacl](../docs/forum/wacl.md) | Forum | stub |
 
 ---
 
@@ -264,10 +377,19 @@ WHERE o1.id CONTAINS 'samsung' OR o2.id CONTAINS 'samsung'
 RETURN o1.id, o2.id, r.share
 
 -- Revolving door governo-Samsung
-MATCH (p:Person)-[:AFFILIATED_WITH]->(gov:Organization {id: 'governo-corea'})
+MATCH (p:Person)-[:AFFILIATED_WITH]->(gov:Organization {id: 'governo-corea-sud'})
 MATCH (p)-[:AFFILIATED_WITH]->(sam:Organization)
 WHERE sam.id CONTAINS 'samsung'
-RETURN p.id, p.note
+RETURN p.id
+
+-- Rete anticomunista coreana
+MATCH (p:Person)-[r:AFFILIATED_WITH]->(o:Organization)
+WHERE o.id IN ['kcia', 'apacl', 'wacl'] AND p.nationality = 'KOR'
+RETURN p.id, o.id, r.role
+
+-- Connessioni Park Chung Hee
+MATCH (p:Person {id: 'park-chung-hee'})-[r]-(n)
+RETURN type(r), n.id, r.role
 ```
 
 ---
@@ -281,4 +403,4 @@ RETURN p.id, p.note
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2024*
+*Ultimo aggiornamento: Marzo 2026*

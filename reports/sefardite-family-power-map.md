@@ -9,7 +9,7 @@
 | Metrica | Valore |
 |---------|--------|
 | **Periodo** | XI secolo - oggi |
-| **Famiglie documentate** | 17 sefardite (+ connessioni ashkenazite e Chabad-Lubavitch) |
+| **Famiglie documentate** | 18 sefardite (+ connessioni ashkenazite e Chabad-Lubavitch) |
 | **Arco geografico** | Spagna → Portogallo → Marocco → Italia → Paesi Bassi → Francia → Impero Ottomano → Messico (Nuovo Mondo) → Gran Bretagna → India → Cina → Hong Kong → Sudafrica → Siria → Libano → Brasile → Svizzera |
 | **Settori** | Finanza reale, commercio, banca, VOC/WIC, ferrovie, navigazione, rabbinato, diplomazia, corsarismo, colonizzazione Americas, politica britannica, energia, diamanti, ospitalita, private banking |
 | **Pattern dominante** | Rete commerciale diasporica con matrimoni endogamici e adattamento geopolitico |
@@ -166,7 +166,7 @@ La diaspora sefardita non si diffonde casualmente: segue le **rotte commerciali*
 
 | Citta | Periodo | Famiglie/Comunita | Funzione nella rete |
 |-------|---------|-------------------|---------------------|
-| **Salonicco** | 1492-1943 | Benveniste, Allatini, Modiano | Manifattura tessile, centro culturale |
+| **Salonicco** | 1492-1943 | Benveniste, de Botton, Allatini, Modiano | Manifattura tessile, rabbinato, centro culturale |
 | **Livorno** | XVI-XIX sec. | Montefiore (prima di Londra) | Porto franco, liberta religiosa |
 | **Fez** | 1492-XVII sec. | Palache, varie | Corte sultanale, diplomazia, corsarismo anti-spagnolo |
 | **Amsterdam** | XVII-XVIII sec. | Pinto, Suasso, Pereyra, Aboab, Palache, varie | "Gerusalemme del Nord", finanza, VOC/WIC, rabbinato, Esnoga, diplomazia |
@@ -539,7 +539,64 @@ La storia dei Camondo termina ad Auschwitz. Beatrice de Camondo, suo marito Leon
 
 ---
 
-## XIV. I Kadoorie: Dall'Apprendistato Sassoon al Monopolio Elettrico
+## XIV. I de Botton: Dal Rabbinato di Salonicco alla Finanza Svizzera
+
+### Da Congregazione Apulia a Global Asset Management
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Origine** | Castiglia (espulsi 1492) → Salonicco |
+| **Capostipite** | [Abraham Hiyya de Boton](../docs/persons/abraham-de-boton.md) (c. 1560-1605) |
+| **Opera fondamentale** | *Lehem Mishneh* (Venezia, 1609) — commentario a Maimonide |
+| **Linea rabbinica** | 6+ generazioni documentate (1560-1796) |
+| **Rami moderni** | Salonicco-Istanbul, Francia (Shoah), Alessandria-Svizzera |
+| **Apice moderno** | [Gilbert de Botton](../docs/persons/gilbert-de-botton.md) (1935-2000): fondatore GAM, MD Rothschild Bank AG Zurich |
+| **Scheda** | [de Botton](../docs/family/de-botton.md) |
+
+### La Dinastia Rabbinica (1560-1796)
+
+[Abraham Hiyya de Boton](../docs/persons/abraham-de-boton.md), rabbino capo della **Congregazione Apulia** a Salonicco e Rosh Yeshiva, allievo di Samuel de Medina, genero' una linea di rabbini che si estese per sei generazioni:
+
+| Gen. | Nome | Periodo | Sede | Opera |
+|------|------|---------|------|-------|
+| 1 | Moses de Boton | m. 1570 | Salonicco | Studioso rabbinico |
+| 2 | **Abraham Hiyya de Boton** | c. 1560-1605 | Salonicco | *Lehem Mishneh* (1609) |
+| 3 | Aaron, Jacob, Meir de Boton | XVII sec. | Salonicco, Gallipoli | Responsa (Smirne, 1660) |
+| 4 | Abraham Hiyya II | c. 1625-c. 1700 | Gallipoli → Gerusalemme | — |
+| 5-6 | Abraham ben Judah de Boton | XVIII sec. | Salonicco | *Mahazeh Abraham* (1796) |
+
+Il *Lehem Mishneh* e' stato incorporato in quasi tutte le edizioni del Mishneh Torah degli ultimi quattro secoli — un'influenza intellettuale che persiste ben oltre l'estinzione della linea rabbinica.
+
+### La Dispersione (XIX-XX sec.)
+
+Nel XIX secolo la famiglia si frammenta in tre rami:
+
+```
+LINEA RABBINICA (Salonicco, fino a 1796)
+              |
+    +---------+---------+---------+
+    |                   |         |
+RAMO SALONICCO-    RAMO          RAMO
+ISTANBUL           FRANCIA       ALESSANDRIA
+Meir (1861-1940)   Jacques/      Maurice/Moise
+→ Isidore          Giacomo       → Jacques (1908)
+→ Mario (banker,   (n. Salonicco → GILBERT (1935)
+   Londra)         m. 1934 Parigi)  → Alain, Miel
+→ Maurice          → Maurice
+                   (1908-1944)
+                   FUCILATO DAI
+                   NAZISTI a Voiron
+```
+
+### Il Ramo Moderno: Intelligence → Finanza → Cultura
+
+La matriarca moderna [Yolande Harmer](../docs/persons/yolande-harmer.md) (nata Gabbai, 1913-1959), moglie di Jacques, divenne agente della Haganah ad Alessandria. Il figlio [Gilbert de Botton](../docs/persons/gilbert-de-botton.md) (1935-2000) fu reclutato da Jacob Rothschild come founding MD della Rothschild Bank AG Zurich (1968), poi fondo' **GAM** (1983) inventando il modello open architecture. La terza generazione — [Alain](../docs/persons/alain-de-botton.md) (filosofo) e [Miel](../docs/persons/miel-de-botton.md) (filantropa) — ha convertito il patrimonio in influenza culturale.
+
+Il percorso **Salonicco → Gallipoli/Gerusalemme → Istanbul → Alessandria → Israele → Zurigo → Londra** e' il caso piu' completamente documentato della traiettoria sefardita: rabbinato → commercio → intelligence → finanza → filantropia, su ~15 generazioni.
+
+---
+
+## XVI. I Kadoorie: Dall'Apprendistato Sassoon al Monopolio Elettrico
 
 ### Da Baghdad a Hong Kong
 
@@ -590,7 +647,7 @@ Mentre i Sassoon perdono Shanghai con la rivoluzione comunista (1949), i Kadoori
 
 ---
 
-## XV. I Cahen d'Anvers: Il Ponte Ashkenazita
+## XVII. I Cahen d'Anvers: Il Ponte Ashkenazita
 
 ### Da Bonn ad Anversa a Parigi
 
@@ -624,7 +681,7 @@ Louis Cahen d'Anvers commissionò a Renoir tre ritratti familiari (1880-81), div
 
 ---
 
-## XVI. I Safra: Da Aleppo al Private Banking Globale
+## XVIII. I Safra: Da Aleppo al Private Banking Globale
 
 ### Da Cambiavalute Ottomani a CHF 224 Miliardi
 
@@ -694,7 +751,7 @@ Vicky Safra, nata **Sarfati** a Salonicco, porta nel DNA della dinastia il legam
 
 ---
 
-## XVII. Connessioni con le Dinastie Ashkenazite
+## XIX. Connessioni con le Dinastie Ashkenazite
 
 Le famiglie sefardite non operano in isolamento. I matrimoni e le alleanze con le grandi dinastie ashkenazite creano un **network finanziario integrato**.
 
@@ -723,6 +780,9 @@ SALONICCO            LIVORNO   AMSTERDAM            BORDEAUX/PARIGI
   KADOORIE               ═══ CAMONDO
   (appr. Sassoon)        (matr. 1891)
 
+  DE BOTTON ═══ ROTHSCHILD
+  (Salonicco)   (Gilbert MD Rothschild Bank AG, 1968)
+     |
   SAFRA ─── SALONICCO
   (Aleppo)  (Vicky Sarfati, matr. 1969)
      |
@@ -747,6 +807,7 @@ SALONICCO            LIVORNO   AMSTERDAM            BORDEAUX/PARIGI
 | **1891** | Irene Cahen d'Anvers + Moise de Camondo | Ashkenazita ↔ Sefardita (Ottomani) |
 | **~1909** | Noemie Halphen (nipote Isaac Pereire) + Maurice de Rothschild | Sefardita ↔ Ashkenazita |
 | **1926** | Yvonne Cahen d'Anvers + Anthony Gustav de Rothschild | Ashkenazita ↔ Ashkenazita (ponte) |
+| **1968** | Gilbert de Botton + Rothschild Bank AG Zurich (reclutato da Jacob Rothschild) | Sefardita ↔ Ashkenazita (partnership) |
 
 ### Warburg e Oppenheimer: Ashkenaziti nella Rete
 
@@ -777,7 +838,7 @@ Il caso Leviev e' il nodo piu' significativo: un ebreo bukharo che usa un monopo
 
 ---
 
-## XVIII. Pattern Ricorrenti
+## XX. Pattern Ricorrenti
 
 ### 1. Adattamento Geopolitico
 
@@ -794,6 +855,7 @@ Ogni famiglia sopravvive a transizioni di regime mantenendo **asset mobili** (ca
 | Carvajal | Extremadura/PRT → Messico → Londra | Due strategie parallele: governatorato coloniale (annientato) + fondazione comunita' britannica |
 | D'Israeli | Cento/Ferrara → Londra → Bevis Marks | Battesimo strategico (1817) → accesso politica → Primo Ministro; linea estinta 1936 |
 | Pereira/Pereire | Amsterdam → Bordeaux → Parigi | Da commercio zucchero a Credit Mobilier; crollo 1867, integrazione |
+| de Botton | Salonicco → Istanbul/Alessandria/Parigi | Dispersione in 3 rami (XIX sec.); ramo francese perso nella Shoah |
 | Sassoon | Baghdad → Bombay | Fuga da persecuzione, ricostruzione |
 | Kadoorie | Shanghai → Hong Kong | Trasferimento capitali prima della rivoluzione |
 | Safra | Aleppo → Beirut → San Paolo → Basilea | Migrazione a ogni crisi geopolitica (Ottomano, Libano) |
@@ -811,6 +873,7 @@ Ogni dinastia cerca di dominare **un settore specifico**:
 | Carvajal (Londra) | Fondazione comunita' ebraica britannica | Sinagoga Creechurch Lane (1657) → Bevis Marks; Velho Cemetery |
 | D'Israeli | Potere politico britannico | Unico PM di origine ebraica; acquisto Suez; Royal Titles Act |
 | Pereira/Pereire | Ferrovie e navigazione (Francia) | Credit Mobilier, CGT Transatlantique |
+| de Botton | Open architecture asset management | GAM: inventore del modello (1983) |
 | Sassoon | Oppio India-Cina | ~70% (1860s) |
 | Kadoorie | Elettricita Hong Kong | Monopolio CLP |
 | Safra | Private banking globale | CHF 224B AUM (2024) |
@@ -875,6 +938,8 @@ I matrimoni intra-comunitari (e poi inter-dinastici con famiglie ashkenazite) se
 | **1579** | Luis de Carvajal governatore del Nuevo Reino de Leon (Filippo II) | Carvajal |
 | **1596** | **Auto-da-fe' Citta' del Messico**: 9 giustiziati Carvajal (il piu' grande dell'America Latina) | Carvajal |
 | **1596** | Samuel Palache ospita primo Yom Kippur comunitario ad Amsterdam | Palache |
+| **c. 1560** | Nascita [Abraham Hiyya de Boton](../docs/persons/abraham-de-boton.md), rabbino capo Congregazione Apulia, Salonicco | de Botton |
+| **c. 1605** | Muore Abraham de Boton; *Lehem Mishneh* pubblicato a Venezia (1609) | de Botton |
 | **1605** | Nascita Isaac Aboab da Fonseca a Castro Daire | Aboab |
 | **~1610** | Nascita Abraham Pereyra a Madrid (marrano) | Pereira |
 | **1610** | Trattato amicizia e libero commercio Marocco-Olanda (negoziato da Samuel Palache) | Palache |
@@ -951,6 +1016,7 @@ I matrimoni intra-comunitari (e poi inter-dinastici con famiglie ashkenazite) se
 | **1938-45** | Rifugiati ebrei a Shanghai: Sassoon e Kadoorie salvano 18.000 | Sassoon / Kadoorie |
 | **1939-42** | David Azrieli fugge dalla Polonia attraverso Russia, Iran, Iraq; famiglia sterminata | Azrieli |
 | **1943-45** | Beatrice, Leon, Fanny, Bertrand deportati e uccisi ad Auschwitz | Camondo |
+| **1944** | Maurice de Botton (ramo francese, n. Salonicco) fucilato dai nazisti a Voiron | de Botton |
 | **1944** | Juda Lion Palache, prof. UvA, assassinato ad Auschwitz (18 ottobre) | Palache |
 | **1943** | Deportazione 48.533 ebrei da Salonicco | Diaspora |
 | **1948** | David Azrieli combatte con Haganah nella Guerra d'Indipendenza | Azrieli |
@@ -958,6 +1024,8 @@ I matrimoni intra-comunitari (e poi inter-dinastici con famiglie ashkenazite) se
 | **1954** | David Azrieli emigra in Canada, si stabilisce a Montreal | Azrieli |
 | **1955** | Fondazione Banco Safra, San Paolo | Safra |
 | **1966** | Edmond Safra fonda Republic National Bank, New York | Safra |
+| **1968** | Gilbert de Botton fonda Rothschild Bank AG Zurich (reclutato da Jacob Rothschild) | de Botton |
+| **1983** | Gilbert de Botton fonda GAM, inventando il modello open architecture | de Botton |
 | **1981** | Lawrence Kadoorie creato Baron (Thatcher) | Kadoorie |
 | **1985** | CLP firma JV nucleare Daya Bay con Cina | Kadoorie |
 | **1999** | Vendita Republic National Bank a HSBC (~$10.3B) | Safra |
@@ -990,6 +1058,7 @@ I matrimoni intra-comunitari (e poi inter-dinastici con famiglie ashkenazite) se
 | [Sassoon](../docs/family/sassoon.md) | Commercio oppio, aristocrazia | XIX-oggi | Attiva (Baron Sassoon) |
 | [Camondo](../docs/family/camondo.md) | Banca ottomana, arte | XIX-1945 | Estinta (Auschwitz) |
 | [Kadoorie](../docs/family/kadoorie.md) | Energia, ospitalita lusso | XIX-oggi | Attiva ($6.8B) |
+| [de Botton](../docs/family/de-botton.md) | Rabbinato Salonicco → finanza svizzera | XVI-oggi | Attiva (Alain, Miel) |
 | [Safra](../docs/family/safra.md) | Private banking globale (Aleppo) | XIX-oggi | Attiva (CHF 224B AUM) |
 | [Cahen d'Anvers](../docs/family/cahen-danvers.md) | Banca (Paribas), arte | XIX-XX sec. | Storica (discendenti nei Rothschild) |
 
@@ -1045,4 +1114,4 @@ I matrimoni intra-comunitari (e poi inter-dinastici con famiglie ashkenazite) se
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

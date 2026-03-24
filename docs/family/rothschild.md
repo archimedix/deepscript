@@ -120,7 +120,7 @@ Ramo autonomo dal 1953, focalizzato su private banking.
 | 3 | **[Edmond James de Rothschild](../persons/edmond-james-de-rothschild.md)** | 1845-1934 | Finanziatore colonizzazione Palestina | de Rothschild Freres, [PICA](../foundation/pica.md), JCA |
 | 4 | **Robert de Rothschild** | 1880-1946 | Partner; chairman Consistoire (1933-40) | Rothschild & Cie, Consistoire |
 | 4 | **[James Armand de Rothschild](../persons/james-armand-de-rothschild.md)** | 1878-1957 | MP UK; presidente PICA (1924-57); ufficiale Jewish Legion | PICA, Parlamento UK (1929-45), Cambridge (alumni) |
-| 5 | **Guy de Rothschild** | 1909-2007 | Chairman R&Cie (1949-82); ricostruisce post-Vichy | Rothschild & Cie |
+| 5 | **Guy de Rothschild** | 1909-2007 | Chairman R&Cie (1949-82); ricostruisce post-Vichy; creo' SINord (1953); assunse Pompidou | Rothschild & Cie, [SINord](../asset-manager/societe-investissement-du-nord.md) |
 | 5 | **[Elie de Rothschild](../persons/elie-de-rothschild.md)** | 1917-2007 | Partner; gestione Lafite (1946-74) | Rothschild & Cie, Domaines Barons de Rothschild, Compagnie du Nord |
 | 5 | **[Alain de Rothschild](../persons/alain-de-rothschild.md)** | 1910-1982 | Partner; Pres. CRIF, Consistoire, Conservatoire de Paris | Rothschild & Cie, CRIF (1976-82), Consistoire (1967-82), Compagnie du Nord (chairman 1968-82), Conservatoire de Paris (chairman 1954-82), Rothschild Foundation (chairman 1973-82) |
 | 6 | **David de Rothschild** | 1942- | Chairman emerito; ricostrui' banca post-nazionalizzazione | [Rothschild & Co](../bank/rothschild-co.md), [Concordia SAS](../company/concordia-sas.md) (39.42%), [WJC](../forum/world-jewish-congress.md) (chairman), De Beers, [Fond. Memoire de la Shoah](../foundation/fondation-memoire-shoah.md) (chairman 2007-23), Sciences Po (alumni) |
@@ -270,8 +270,21 @@ Famiglia Rothschild
 | Persona | Connessione | Tipo | Dettaglio |
 |---------|-------------|------|-----------|
 | **Nathan Mayer Rothschild** | [Moses Montefiore](../persons/moses-montefiore.md) | cognato | Via Hannah Barent-Cohen; Montefiore: Board of Deputies (1835-74), Alliance Israelite Universelle |
+| **James Mayer** | [Lazare Richtenberger](../persons/lazare-richtenberger.md) | mandante | Agente Rothschild a Bruxelles dal 1832; predecessore dei [Lambert](../family/lambert.md) |
+| **Gustave** | [Leon Lambert I](../persons/leon-lambert-i.md) | suocero | Figlia Zoe sposa Leon I (1882); agenti diventano famiglia |
 | **Nathaniel, 1° Barone** | [Cecil Rhodes](../persons/cecil-rhodes.md) | finanziatore | Rhodes Trust (board dal 1902); finanziamento espansione coloniale |
 | **James Armand** | [Chaim Weizmann](../persons/chaim-weizmann.md) | collaborator | Presidente PICA; collaborazione per colonizzazione Palestina |
+
+### Alleanza Lambert (Belgio)
+
+| Persona | Connessione | Tipo | Dettaglio |
+|---------|-------------|------|-----------|
+| **[Lazare Richtenberger](../persons/lazare-richtenberger.md)** | Agente di James a Bruxelles | agente | Primo rappresentante Rothschild in Belgio (1832) |
+| **[Zoe/Lucie de Rothschild](../persons/lucie-de-rothschild.md)** | Figlia di Gustave, sposa Leon Lambert I | matrimonio | Agenti diventano famiglia (1882) |
+| **[Leon Lambert II](../persons/leon-lambert-ii.md)** | Co-administrateur SINord | colleague | Riavvicinamento postbellico (1953); Bilderberg SC; fondatore [GBL](../company/groupe-bruxelles-lambert.md) |
+| **[Philippe Lambert](../persons/philippe-lambert.md)** | Direttore RIT Capital Partners | board | Cerchio chiuso: i Lambert tornano nel veicolo Rothschild UK (1988) |
+
+> **Il cerchio Lambert-Rothschild**: agente (1832) → successione (1853) → matrimonio (1882) → autonomia (~1920) → riavvicinamento via SINord (1953) → RIT Capital (1988). Da agenti a famiglia a partner indipendenti e ritorno.
 
 ### Connessioni Contemporanee
 
@@ -310,7 +323,7 @@ Famiglia Rothschild
 
 | Nome | Percorso | Periodo | Note |
 |------|----------|---------|------|
-| [Georges Pompidou](../persons/georges-pompidou.md) | ENS → Rothschild & Cie (DG, 1953-62) → Conseil constitutionnel (1959-62) → Premier (1962-68) → Presidente (1969-74) | 1953-1974 | Primo Presidente ex-banchiere Rothschild |
+| [Georges Pompidou](../persons/georges-pompidou.md) | ENS → Rothschild & Cie (DG, 1953-62) + [SINord](../asset-manager/societe-investissement-du-nord.md) + [Compagnie du Nord](../company/compagnie-du-nord.md) → Conseil constitutionnel (1959-62) → Premier (1962-68) → Presidente (1969-74) | 1953-1974 | Primo Presidente ex-banchiere Rothschild; co-administrateur SINord con [Leon Lambert II](../persons/leon-lambert-ii.md) |
 | [Emmanuel Macron](../persons/emmanuel-macron.md) | Rothschild & Cie (partner, 2008-12) → FAF YGL (2012) → Bilderberg (2014) → WEF YGL (2016) → Presidente (2017) | 2008-2017 | Secondo Presidente ex-Rothschild; tripla selezione forum (FAF+Bilderberg+WEF) prima dell'elezione |
 | [Francois Perol](../persons/francois-perol.md) | R&Cie (partner, 2005-07) → Eliseo (advisor Sarkozy, 2007-09) → BPCE (chairman, 2009-18) → R&Co (partner, 2017+) | 2005-oggi | Doppio passaggio Rothschild → governo → banca pubblica → Rothschild |
 | [Lynn Forester de Rothschild](../persons/lynn-forester-de-rothschild.md) | Advisor Clinton (NIIAC, 1993-2000) → sposa Evelyn (2000) → CFR, Chatham House, Bilderberg → Council Inclusive Capitalism col Vaticano (2020) | 1993-oggi | Mentor: [Henry Kissinger](../persons/henry-kissinger.md). Da politica USA a famiglia a fondatrice di forum |
@@ -339,7 +352,7 @@ Famiglia Rothschild
 | **1938** | Ramo austriaco confiscato dai nazisti | Vienna (estinto) |
 | **1939** | Victor entra in MI5 (esperto esplosivi, fino al 1945) | UK |
 | **1949** | Guy de Rothschild ricostruisce banca post-Vichy | Francese |
-| **1953** | Georges Pompidou entra alla Banque Rothschild come DG | Francese |
+| **1953** | Creazione [SINord](../asset-manager/societe-investissement-du-nord.md) (Compagnie du Nord + Banque Rothschild); Pompidou e [Leon Lambert II](../persons/leon-lambert-ii.md) co-administrateurs — riavvicinamento Lambert | Francese |
 | **1953** | Edmond fonda ramo svizzero | Svizzero |
 | **1958** | Dorothy fonda Yad HaNadiv (finanzia Knesset, Corte Suprema) | UK |
 | **1963** | Victor executive Shell (fino al 1970) | UK |

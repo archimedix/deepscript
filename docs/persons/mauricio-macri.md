@@ -9,6 +9,7 @@
 | **Nascita** | 8 febbraio 1959, Tandil, Buenos Aires |
 | **Famiglia** | Figlio di Franco Macri (tycoon italo-argentino) e Alicia Blanco-Villegas |
 | **Origini** | Famiglia paterna da San Giorgio Morgeto, Calabria |
+| **Coniuge** | Juliana Awada (separati 2025) |
 | **Residenza** | Buenos Aires |
 
 ---
@@ -38,10 +39,15 @@
 | **2007-2015** | Jefe de Gobierno | Ciudad de Buenos Aires |
 | **2015-2019** | Presidente della Nazione | Governo Argentina |
 | **2019-oggi** | Executive Chairman | FIFA Foundation |
+| **2024-oggi** | Presidente del partito | PRO (Propuesta Republicana) |
 
 ### Carriera politica
 
 Fondatore del partito Compromiso para el Cambio (2003), poi confluito in PRO (Propuesta Republicana), primo nuovo partito competitivo a livello nazionale in Argentina in oltre 60 anni. Eletto presidente nel 2015 con il 51% al ballottaggio contro Daniel Scioli. Sconfitto nel 2019 da Alberto Fernandez: primo presidente in carica a perdere la rielezione nella storia argentina.
+
+### Ritorno politico (2024-2025)
+
+Nel marzo 2024 eletto presidente del partito PRO, consolidando la leadership. Nel 2024 sostegno chiave alla ley omnibus di Milei in Congresso. Alle midterm di ottobre 2025, la coalizione PRO-La Libertad Avanza ottiene il 41% dei voti, confermando l'alleanza con Milei come asse dominante della politica argentina.
 
 ---
 
@@ -50,13 +56,17 @@ Fondatore del partito Compromiso para el Cambio (2003), poi confluito in PRO (Pr
 ### Mappa delle Appartenenze
 
 ```
-                  MAURICIO MACRI
-                        |
-      +---------+-------+-------+---------+
-      |         |       |       |         |
-      v         v       v       v         v
-  Gov. ARG    WEF    FIFA   Club     Inter-Am.
-  (2005-19)  Davos  Found.  Madrid   Dialogue
+                     MAURICIO MACRI
+                           |
+      +--------+-------+--+--+--------+--------+
+      |        |       |     |        |        |
+      v        v       v     v        v        v
+  Gov. ARG   WEF    FIFA  Club    Inter-Am.  Atlantic
+  (2005-19) Davos  Found. Madrid  Dialogue   Council
+      |        |
+      v        v
+   Socma   Citibank
+  (85-94)   (1984)
 ```
 
 ### Forum Internazionali
@@ -66,12 +76,16 @@ Fondatore del partito Compromiso para el Cambio (2003), poi confluito in PRO (Pr
 | **WEF Davos** | Partecipante dal 2016 |
 | **Club de Madrid** | Membro |
 | **Inter-American Dialogue** | Membro |
+| **Atlantic Council** | Global Citizen Award 2018 |
 
 ### Network Professionale
 
 | Nome | Connessione |
 |------|-------------|
 | [Franco Macri](../persons/franco-macri.md) | Padre, fondatore Socma/Macri Group |
+| [Javier Milei](../persons/javier-milei.md) | Alleato politico, coalizione PRO-LLA 2024-2025 |
+| [Luis Caputo](../persons/luis-caputo.md) | Min. Finanzas e pres. BCRA sotto Macri 2015-2018 |
+| [Santiago Bausili](../persons/santiago-bausili.md) | Sec. Finance sotto Macri 2017-2019 |
 
 ---
 
@@ -119,12 +133,18 @@ Fondatore del partito Compromiso para el Cambio (2003), poi confluito in PRO (Pr
 | [Columbia University](../university/columbia.md) | Alumni, Business School 1985 |
 | [UCA Argentina](../university/uca-argentina.md) | Alumni, Ingegneria Civile |
 | [Mossack Fonseca](../company/mossack-fonseca.md) | Client, Fleg Trading Ltd |
+| [Socma Group](../company/socma.md) | General Manager (1985-1994) |
+| [Citibank](../banks/citibank.md) | Credit Department (1984) |
+| [Atlantic Council](../think-tank/atlantic-council.md) | Global Citizen Award 2018 |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
 | [Franco Macri](../persons/franco-macri.md) | Padre |
+| [Javier Milei](../persons/javier-milei.md) | Alleato politico, coalizione PRO-LLA |
+| [Luis Caputo](../persons/luis-caputo.md) | Min. Finanzas sotto Macri |
+| [Santiago Bausili](../persons/santiago-bausili.md) | Sec. Finance sotto Macri |
 
 ---
 
@@ -145,6 +165,10 @@ Fondatore del partito Compromiso para el Cambio (2003), poi confluito in PRO (Pr
 | **2016** | Esposto nei Panama Papers |
 | **2018** | Accordo FMI $57 miliardi |
 | **2019** | Sconfitto da Alberto Fernandez |
+| **2024** | Eletto presidente del partito PRO |
+| **2024** | Sostegno alla ley omnibus di Milei in Congresso |
+| **2025** | Coalizione PRO-LLA vince midterm con 41% |
+| **2025** | Separazione da Juliana Awada |
 
 ---
 
@@ -161,6 +185,10 @@ Fondatore del partito Compromiso para el Cambio (2003), poi confluito in PRO (Pr
 ### Panama Papers
 - [ICIJ Offshore Leaks - Mauricio Macri](https://offshoreleaks.icij.org/stories/mauricio-macri)
 
+### Think Tank
+- [Atlantic Council - Global Citizen Award 2018](https://www.atlanticcouncil.org/blogs/new-atlanticist/atlantic-council-presents-global-citizen-award-to-president-of-argentina-mauricio-macri/)
+- [Inter-American Dialogue](https://thedialogue.org/expert/mauricio-macri)
+
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

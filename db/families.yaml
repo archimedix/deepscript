@@ -842,6 +842,19 @@ families:
     - person: marco-buitoni
       generation: 5
       role: heir
+  bulgheroni:
+    tagline: Famiglia italo-argentina, proprietaria di Bridas Corporation e Pan American Energy
+    origin: ARG
+    founder: alejandro-bulgheroni-sr
+    sector: energy
+    status: active
+    members:
+    - person: carlos-bulgheroni
+      generation: 2
+      role: heir
+    - person: alejandro-bulgheroni
+      generation: 2
+      role: heir
   bush:
     tagline: La dinastia politica americana — da Wall Street alla Casa Bianca per quattro generazioni
     origin: USA
@@ -1106,6 +1119,29 @@ families:
       generation: 3
     - person: laurent-dassault
       generation: 3
+  de-botton:
+    tagline: 'Dinastia sefardita dal 1492: rabbinato a Salonicco, dispersione mediterranea, intelligence israeliana, finanza
+      svizzera, filantropia'
+    origin: ESP
+    founder: abraham-de-boton
+    sector: finance
+    status: active
+    members:
+    - person: gilbert-de-botton
+      generation: 2
+      role: patriarch
+    - person: alain-de-botton
+      generation: 3
+      role: heir
+    - person: miel-de-botton
+      generation: 3
+      role: heir
+    - person: yolande-harmer
+      generation: 1
+      role: matriarch
+    - person: abraham-de-boton
+      generation: 1
+      role: founder
   de-mevius:
     origin: Belgium
     sector: brewing, investment
@@ -1195,6 +1231,31 @@ families:
       role: heir
     - person: andre-desmarais
       generation: 2
+      role: heir
+  doria:
+    tagline: Dinastia genovese XII-XXI sec., ammiraglio Andrea Doria, oggi Doria Pamphilj Trust con patrimonio da £500M+
+    origin: ITA
+    founder: ansaldo-doria
+    sector: naval-political
+    status: active
+    members:
+    - person: andrea-doria
+      generation: 1
+      role: leader
+    - person: oberto-doria
+      role: leader
+    - person: lamba-doria
+    - person: giovanni-andrea-doria
+      role: heir
+    - person: orietta-doria-pamphilj
+      role: heir
+    - person: jonathan-doria-pamphilj
+      role: heir
+    - person: giannettino-doria
+      role: heir
+    - person: filippo-andrea-doria-pamphilj
+      role: heir
+    - person: gesine-doria-pamphilj
       role: heir
   dupont:
     tagline: La dinastia chimica che costrui' l'America industriale - dalla polvere da sparo al nylon
@@ -1432,6 +1493,16 @@ families:
     - person: christopher-getty
       generation: 3
       role: heir
+  giubergia:
+    tagline: Dinastia del private banking torinese, fondatori di Ersel (1936), primo fondo comune italiano
+    origin: ITA
+    founder: giuseppe-giubergia
+    sector: finance
+    status: active
+    members:
+    - person: guido-giubergia
+      generation: 3
+      role: leader
   goldman-sachs:
     tagline: Dinastia fondatrice della piu' influente banca d'affari di Wall Street
     origin: Bavaria, Germany
@@ -1521,6 +1592,10 @@ families:
     members:
     - person: karl-von-habsburg
       role: head
+    - person: maria-teresa-asburgo-toscana
+      role: heir
+    - person: adelaide-austria
+      role: heir
   hancock-rinehart:
     tagline: 'Dinastia mineraria del Pilbara: dall''amianto di Wittenoom all''iron ore, il potere privato piu'' grande d''Australia'
     origin: AUS
@@ -2079,6 +2154,34 @@ families:
     - person: joseph-kushner
       generation: 1
       role: founder
+  lambert:
+    tagline: Dinastia bancaria belga, agenti dei Rothschild, fondatori di Banque Lambert e GBL
+    origin: BEL
+    founder: samuel-lambert
+    sector: finance
+    status: defunct
+    members:
+    - person: lucie-de-rothschild
+      generation: 2
+      role: spouse
+    - person: samuel-lambert
+      generation: 1
+      role: founder
+    - person: leon-lambert-i
+      generation: 2
+      role: patriarch
+    - person: henri-lambert
+      generation: 3
+      role: heir
+    - person: leon-lambert-ii
+      generation: 4
+      role: patriarch
+    - person: philippe-lambert
+      generation: 4
+      role: heir
+    - person: johanna-von-reininghaus
+      generation: 3
+      role: spouse
   landsbergis:
     tagline: 'Dinastia politica lituana: dal teatro patriottico all''indipendenza, quattro generazioni di potere nazionale'
     origin: LTU
@@ -2249,6 +2352,44 @@ families:
     members:
     - person: samuel-lewis-galindo
     - person: samuel-lewis-navarro
+  liechtenstein:
+    tagline: Famiglia principesca regnante del Liechtenstein, monarchia piu ricca d Europa, proprietaria di LGT Group ($367B
+      AUM)
+    origin: AUT
+    founder: hugo-von-liechtenstein
+    sector: finance, monarchy
+    status: active
+    members:
+    - person: max-von-liechtenstein
+      generation: 13
+      role: heir
+    - person: hans-adam-ii
+      generation: 12
+      role: leader
+    - person: alois-von-liechtenstein
+      generation: 13
+      role: heir
+    - person: constantin-von-liechtenstein
+      generation: 13
+    - person: nikolaus-von-liechtenstein
+      generation: 12
+    - person: tatjana-von-liechtenstein
+      generation: 13
+      role: member
+    - person: marie-kinsky
+      generation: 12
+      role: member
+    - person: joseph-wenzel-von-liechtenstein
+      generation: 14
+      role: heir
+    - person: philipp-von-liechtenstein
+      generation: 12
+      role: member
+    - person: angela-von-liechtenstein
+      role: spouse
+    - person: alfons-von-liechtenstein
+      generation: 14
+      role: heir
   lilly:
     origin: USA
     founder: eli-lilly-sr
@@ -2815,6 +2956,24 @@ families:
     - person: sandra-ortega
       generation: 2
       role: heir
+  pagani:
+    tagline: Famiglia fondatrice di Grupo Arcor, originaria di immigrati italiani a Córdoba
+    origin: ARG
+    founder: fulvio-pagani
+    sector: food
+    status: active
+    members:
+    - person: luis-pagani
+      generation: 2
+      role: heir
+    - person: fulvio-pagani
+      generation: 1
+      role: founder
+    - person: amos-pagani
+      role: patriarch
+    - person: alfredo-pagani
+      generation: 2
+      role: heir
   pahlavi:
     tagline: 'Dinastia imperiale iraniana 1925-1979: da ufficiale cosacco a Shahanshah, dalla modernizzazione autoritaria
       all''esilio perpetuo.'
@@ -2959,6 +3118,19 @@ families:
       generation: 1
       role: founder
     - person: jacob-rodrigues-pereira
+      generation: 2
+      role: heir
+  perez-companc:
+    tagline: Dinastia industriale argentina, da petrolio e banca ad agribusiness
+    origin: ARG
+    founder: gregorio-perez-companc
+    sector: energy, agribusiness
+    status: active
+    members:
+    - person: gregorio-perez-companc
+      generation: 1
+      role: founder
+    - person: luis-perez-companc
       generation: 2
       role: heir
   persson:
@@ -3119,6 +3291,22 @@ families:
     origin: ITA
     members:
     - person: patrizio-podini
+  pompidou:
+    tagline: 'Da maestri del Cantal all Eliseo via Rothschild: ascesa repubblicana per eccellenza'
+    origin: FRA
+    founder: georges-pompidou
+    sector: politics
+    status: active
+    members:
+    - person: georges-pompidou
+      generation: 1
+      role: founder
+    - person: claude-pompidou
+      generation: 1
+      role: spouse
+    - person: alain-pompidou
+      generation: 2
+      role: heir
   porsche-piech:
     origin: Germany/Austria
     founder: Ferdinand Porsche
@@ -3202,6 +3390,16 @@ families:
     - person: kimberlee-korff
       generation: 4
       role: heir
+  richtenberger:
+    tagline: Banchiere ebreo di Aschaffenburg, primo agente Rothschild a Bruxelles, predecessore dei Lambert
+    origin: DEU
+    founder: lazare-richtenberger
+    sector: finance
+    status: defunct
+    members:
+    - person: lazare-richtenberger
+      generation: 1
+      role: founder
   roberts:
     origin: USA
     sector: media, telecom
@@ -3209,6 +3407,28 @@ families:
     members:
     - person: brian-roberts
       generation: 2
+      role: heir
+  rocca:
+    tagline: Dinastia industriale italo-argentina, fondatori di Techint (acciaio, energia, sanita)
+    origin: ITA-ARG
+    founder: agostino-rocca
+    sector: industry
+    status: active
+    members:
+    - person: gianfelice-rocca
+      generation: 3
+      role: heir
+    - person: paolo-rocca
+      generation: 3
+      role: heir
+    - person: agostino-rocca
+      generation: 1
+      role: founder
+    - person: roberto-rocca
+      generation: 2
+      role: heir
+    - person: agostino-rocca-jr
+      generation: 3
       role: heir
   rockefeller:
     tagline: La dinastia che trasformo' petrolio in potere istituzionale — da Standard Oil alla governance globale
@@ -3554,6 +3774,24 @@ families:
     - person: jakob-salomon-bartholdy
       generation: 3
       role: member
+  sassonia-coburgo-gotha:
+    tagline: Dinastia tedesca che occupo' troni in Belgio, Portogallo, Bulgaria e Gran Bretagna
+    origin: DEU
+    sector: monarchy
+    status: active
+    members:
+    - person: boris-iii-bulgaria
+      generation: 4
+      role: heir
+    - person: simeone-ii-bulgaria
+      generation: 5
+      role: heir
+    - person: maria-luisa-bulgaria
+      generation: 5
+      role: heir
+    - person: ferdinand-i-bulgaria
+      generation: 3
+      role: heir
   sassoon:
     tagline: I Rothschild dell Est. Da Baghdad a Bombay, Shanghai e Londra. Monopolio del 70% del commercio di oppio India-Cina.
       Imparentati con i Rothschild. Baronetti e parlamentari britannici.
@@ -3562,6 +3800,134 @@ families:
     sector: trade-opium-banking
     generations: 7
     status: active
+  savoia:
+    tagline: Dinastia millenaria, re d'Italia 1861-1946, connessioni massoniche e P2
+    origin: ITA
+    founder: umberto-i-biancamano
+    sector: monarchy
+    status: defunct
+    members:
+    - person: vittorio-emanuele-di-savoia
+      generation: 5
+      role: heir
+    - person: vittorio-emanuele-ii
+      generation: 1
+      role: founder
+    - person: umberto-i
+      generation: 2
+      role: heir
+    - person: vittorio-emanuele-iii
+      generation: 3
+      role: heir
+    - person: umberto-ii
+      generation: 4
+      role: heir
+    - person: emanuele-filiberto-di-savoia
+      generation: 6
+      role: heir
+    - person: carlo-alberto-di-savoia
+      role: founder
+    - person: mafalda-di-savoia
+      generation: 5
+      role: heir
+    - person: aimone-di-savoia-aosta
+      generation: 6
+      role: member
+    - person: maria-teresa-asburgo-toscana
+      role: spouse
+    - person: adelaide-austria
+      generation: 1
+      role: spouse
+    - person: margherita-di-savoia
+      generation: 2
+      role: spouse
+    - person: amedeo-di-savoia-aosta
+      role: heir
+    - person: elena-del-montenegro
+      role: spouse
+    - person: maria-pia-di-savoia
+      role: heir
+    - person: marie-jose-del-belgio
+      role: spouse
+    - person: jolanda-di-savoia
+      generation: 5
+      role: heir
+    - person: giorgio-calvi-di-bergolo
+      generation: 5
+      role: spouse
+    - person: filippo-assia
+      generation: 5
+      role: spouse
+    - person: maria-gabriella-di-savoia
+      generation: 6
+      role: member
+    - person: maria-beatrice-di-savoia
+      generation: 6
+      role: member
+    - person: giovanna-di-savoia
+      generation: 4
+      role: heir
+    - person: simeone-ii-bulgaria
+      generation: 5
+      role: heir
+    - person: maria-luisa-bulgaria
+      generation: 5
+      role: heir
+    - person: maria-francesca-di-savoia
+      generation: 5
+      role: member
+    - person: maria-pia-di-savoia-1847
+      generation: 2
+      role: member
+    - person: marina-doria
+      generation: 5
+      role: spouse
+    - person: clotilde-courau
+      generation: 6
+      role: spouse
+    - person: vittoria-di-savoia
+      generation: 7
+      role: heir
+    - person: luisa-di-savoia
+      generation: 7
+      role: member
+    - person: ferdinando-di-savoia-genova
+      role: heir
+    - person: ferdinando-di-savoia-genova-1822
+      role: heir
+    - person: emanuele-filiberto-duca-aosta
+      generation: 3
+      role: heir
+    - person: helene-orleans
+      generation: 3
+      role: spouse
+    - person: amedeo-savoia-aosta-1898
+      generation: 4
+      role: heir
+    - person: aimone-savoia-aosta-1900
+      generation: 5
+      role: heir
+    - person: anna-orleans
+      generation: 4
+      role: spouse
+    - person: irene-di-grecia
+      generation: 5
+      role: spouse
+    - person: maria-vittoria-dal-pozzo
+      generation: 1
+      role: spouse
+    - person: vittorio-amedeo-ii
+      role: patriarch
+    - person: carlo-emanuele-iii
+      role: heir
+    - person: vittorio-amedeo-iii
+      role: heir
+    - person: carlo-emanuele-iv
+      role: heir
+    - person: vittorio-emanuele-i
+      role: heir
+    - person: carlo-felice
+      role: heir
   sawiris-family:
     origin: Egypt
     members:
@@ -4146,6 +4512,8 @@ families:
       role: member
     - person: sarah-ferguson
       role: spouse
+    - person: duke-of-kent
+      role: heir
   yoovidhya:
     tagline: 'Da venditore ambulante di farmaci a famiglia piu'' ricca della Thailandia: i creatori di Red Bull che hanno
       trasformato un tonico per camionisti in un impero globale da 13 miliardi di lattine all''anno.'

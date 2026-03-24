@@ -28,3 +28,6 @@ adolph-von-knigge (1752-1796)
 - [v]xavier-von-zwack
 - [v]adolph-von-knigge
 
+famiglie sefardite:
+'de-botton','safra','camondo','benveniste','mendes-nasi','abravanel','pinto-suasso','palache','montefiore','aboab','d-israeli','carvajal','sassoon','kadoorie','zilkha','saatchi','yosef','pereira','elkann','rothschild','frank'
+

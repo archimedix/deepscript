@@ -78,6 +78,12 @@ Rothschild       Compagnie        Consistoire
 | Alphonse de Rothschild | Fratello maggiore, co-direttore de Rothschild Freres |
 | Edmond James de Rothschild | Fratello minore, filantropo e sostenitore del sionismo |
 | [Robert de Rothschild](robert-de-rothschild.md) | Figlio, successore alla guida della banca |
+| [Zoe/Lucie de Rothschild](lucie-de-rothschild.md) | Figlia maggiore, sposata con Leon Lambert I (1882) |
+| [Leon Lambert I](leon-lambert-i.md) | Genero, 1° Barone Lambert, banchiere di Leopoldo II |
+
+### Connessione Lambert
+
+Il matrimonio della figlia Lucie con [Leon Lambert I](leon-lambert-i.md) nel 1882 cimento' l'alleanza tra la branca francese dei Rothschild e la [famiglia Lambert](../family/lambert.md), loro agenti in Belgio dal 1835. I Lambert gestivano la [Banque Lambert](../bank/banque-lambert.md) a Bruxelles come rappresentanti della casa Rothschild.
 
 ---
 
@@ -117,6 +123,15 @@ Rothschild       Compagnie        Consistoire
 |---------|-----------|
 | [James Mayer de Rothschild](james-mayer-rothschild.md) | Padre |
 | [Robert de Rothschild](robert-de-rothschild.md) | Figlio |
+| [Zoe/Lucie de Rothschild](lucie-de-rothschild.md) | Figlia, ponte dinastico Rothschild-Lambert |
+| [Leon Lambert I](leon-lambert-i.md) | Genero, 1° Barone Lambert |
+
+### Famiglie
+
+| Famiglia | Relazione |
+|----------|-----------|
+| [Rothschild](../family/rothschild.md) | 3a generazione, branca francese |
+| [Lambert](../family/lambert.md) | Alleanza matrimoniale via figlia Lucie (1882) |
 
 ---
 
@@ -150,4 +165,4 @@ Rothschild       Compagnie        Consistoire
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

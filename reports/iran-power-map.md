@@ -346,6 +346,16 @@ Il trattato del gennaio 2025 include clausole di difesa mutua "soft", il livello
 | [Hassan Nasrallah](../docs/persons/hassan-nasrallah.md) | Segretario Generale | 1992-2024 |
 | [Naim Qassem](../docs/persons/naim-qassem.md) | Vice, poi Leader | 1991- |
 
+### USA (Covert)
+
+| Entita' | Connessione | Periodo |
+|---------|-------------|---------|
+| [CIA](../docs/agency/cia.md) | Operation Ajax, rovescia Mossadegh | 1953 |
+| [Oliver North](../docs/persons/oliver-north.md) | Architetto vendite armi segrete a Iran | 1985-86 |
+| [William Casey](../docs/persons/william-casey.md) | DCI CIA, supervisione Iran-Contra | 1985-86 |
+| [Ronald Reagan](../docs/persons/ronald-reagan.md) | Autorizzo' vendite armi a Iran | 1986 |
+| [WACL](../docs/forum/wacl.md) | Canale raccolta fondi Contras, collegato a vendite Iran | 1985-86 |
+
 ### Russia
 
 | Entita' | Connessione |
@@ -562,6 +572,23 @@ L'[Impero Pahlavi](../docs/government/impero-pahlavi.md) (1925-1979) rivela un p
 > "I owe my throne to God, my people—and to you."
 > — Shah a Kermit Roosevelt, 1953
 
+### Iran-Contra Affair (1985-1987): L'Iran come Cliente Segreto
+
+Mentre lo Shah era caduto e la teocrazia gridava "morte all'America", Washington vendeva segretamente armi proprio a quell'Iran. L'[Iran-Contra Affair](../docs/events/1986-iran-contra.md) rivela il pragmatismo cinico di entrambi i lati:
+
+| Aspetto | Dettaglio |
+|---------|-----------|
+| **Cosa** | Vendita segreta di missili TOW e HAWK USA all'Iran di Khomeini |
+| **Perche'** | Ufficialmente per ostaggi in Libano; profitti dirottati ai Contras in Nicaragua |
+| **Architetti** | [Oliver North](../docs/persons/oliver-north.md) (NSC), [William Casey](../docs/persons/william-casey.md) (CIA), [John Singlaub](../docs/persons/john-singlaub.md) (WACL) |
+| **Contesto** | Iran in guerra con Iraq (1980-88), disperatamente bisognoso di armi USA |
+| **Fondi esteri** | $34M raccolti da Arabia Saudita, Taiwan e altri per i Contras |
+| **Risultato** | 12 incriminazioni, scandalo; ma modello per operazioni coperte fuori controllo democratico |
+
+**Pattern ricorrente:** Come con Ajax (1953), il potere reale USA opera attraverso canali segreti che aggirano il Congresso. L'Iran e' alternativamente nemico pubblico e partner occulto — lo stesso paese a cui si vendono armi in segreto e' quello contro cui si proclamano sanzioni.
+
+**Collegamento WACL:** La rete anticomunista transnazionale ([WACL](../docs/forum/wacl.md)) funse da canale per raccolta fondi e logistica, dimostrando come le reti transnazionali operino come infrastruttura parallela alla politica estera ufficiale — un pattern che si ripresenta nel 2025-2026 con il supporto israeliano a Pahlavi.
+
 ### Lezione per il 2026
 
 Il parallelo e' significativo:
@@ -644,6 +671,11 @@ La domanda e': se Pahlavi tornasse al potere, chi comanderebbe davvero?
 - [Britannica - Reza Pahlavi](https://www.britannica.com/biography/Reza-Pahlavi)
 - [Responsible Statecraft - Israeli-fueled fantasy to bring back Shah](https://responsiblestatecraft.org/shah-iran-regime-change/)
 - [Boston Review - Our Man for Tehran](https://www.bostonreview.net/articles/our-man-for-tehran/)
+
+### Iran-Contra Affair
+- [Wikipedia - Iran-Contra affair](https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair)
+- [National Security Archive - Oliver North's Iran-Contra Record](https://nsarchive.gwu.edu/briefing-book/iran/2018-05-16/oliver-norths-checkered-iran-contra-record)
+- [Walsh Iran/Contra Report](https://irp.fas.org/offdocs/walsh/execsum.htm)
 
 ### Eredita' Storica (Pahlavi e Operation Ajax)
 - [National Security Archive - CIA Documents on 1953 Coup](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB435/)

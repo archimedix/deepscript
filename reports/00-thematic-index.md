@@ -238,6 +238,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Panama Power Map](panama-power-map.md) | 1903-2026 | Canale, offshore hub, oligarchia familiare, USA-Cina |
 | [Mexico Power Map](mexico-power-map.md) | 1929-2025 | PRI, oligarchi, NAFTA |
 | [Brazil Power Map](brazil-power-map.md) | 1964-2025 | Militari, Lula, agribusiness |
+| [Argentina Power Map](argentina-power-map.md) | 1810-2025 | Oligarchia, Peron, dittatura, Milei, Atlas Network, JP Morgan |
 
 ### Europa
 
@@ -253,6 +254,7 @@ Report focalizzati su specifiche aree geografiche, organizzati per regione.
 | [Netherlands Power Map](netherlands-power-map.md) | 1544-2025 | Orange-Nassau, Bilderberg, ASML |
 | [Belgium Power Map](belgium-power-map.md) | 1831-2025 | Capitale EU, Davignon, SWIFT |
 | [Luxembourg Power Map](luxembourg-power-map.md) | 1815-2025 | Nassau-Weilburg, hub PE |
+| [Liechtenstein Power Map](liechtenstein-power-map.md) | 1719-2026 | Casa Liechtenstein, LGT ($367B), segreto bancario, Sindona/P2, libertarismo monarchico, Blockchain Act |
 | [Switzerland Power Map](switzerland-power-map.md) | 1848-2025 | UBS, BIS, WEF, commodity trading |
 | [Austria Power Map](austria-power-map.md) | 1945-2025 | Vienna hub, ponte Est-Ovest |
 | [Ireland Power Map](ireland-power-map.md) | 1922-2025 | Tax haven, tech hub, diaspora |
@@ -359,6 +361,7 @@ Mappe di potere regionali:
 - [Bulgaria Power Map](bulgaria-power-map.md)
 - [Italy Power Map](italy-power-map.md)
 - [Lituania Power Map](lituania-power-map.md)
+- [Liechtenstein Power Map](liechtenstein-power-map.md)
 - [Luxembourg Power Map](luxembourg-power-map.md)
 - [Norway Power Map](norway-power-map.md)
 - [Spain Power Map](spain-power-map.md)
@@ -405,8 +408,8 @@ Analisi di industrie specifiche:
 
 | Metrica | Valore |
 |---------|--------|
-| **Report totali** | 95 |
-| **Power Map geografici** | 46+ |
+| **Report totali** | 96 |
+| **Power Map geografici** | 47+ |
 | **Report tematici/settoriali** | 31+ |
 | **Periodo coperto** | 1626-2025 |
 | **Focus principale** | Post-1945 (con radici pre-moderne) |

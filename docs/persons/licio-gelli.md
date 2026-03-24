@@ -207,10 +207,11 @@ Gen. Giandelio Maletti (ex servizi): "La CIA diede approvazione tacita a una ser
 
 | Nome | Connessione |
 |------|-------------|
-| [Silvio Berlusconi](silvio-berlusconi.md) | Membro P2 |
-| Roberto Calvi | Membro P2, Banco Ambrosiano |
-| Michele Sindona | Membro P2, Mafia |
-| [Junio Valerio Borghese](junio-valerio-borghese.md) | Co-cospiratore golpe |
+| [Silvio Berlusconi](silvio-berlusconi.md) | Membro P2, tessera n. 1816 |
+| [Roberto Calvi](roberto-calvi.md) | Membro P2, Banco Ambrosiano, Cisalpina Nassau |
+| [Michele Sindona](michele-sindona.md) | Membro P2, BPI, Franklin National Bank |
+| [Paul Marcinkus](paul-marcinkus.md) | Presidente IOR, co-fondatore Cisalpina Nassau |
+| [Junio Valerio Borghese](junio-valerio-borghese.md) | Co-cospiratore golpe 1970 |
 
 ### Intelligence
 
@@ -246,28 +247,36 @@ Gen. Giandelio Maletti (ex servizi): "La CIA diede approvazione tacita a una ser
 
 ---
 
-## Connessioni DeepScript
+## Connessioni PowerLink
 
 ### Organizzazioni
 
 | Entita' | Connessione |
 |---------|-------------|
 | [P2](../secret-society/p2.md) | Venerable Master (1970-1981) |
+| [Grande Oriente d'Italia](../secret-society/grande-oriente-italia.md) | Membro; P2 era loggia del GOI fino alla revoca del 1976 |
+| [Banco Ambrosiano](../banks/banco-ambrosiano.md) | Board Cisalpina/BAOL (1971-1982) |
+| [Cisalpine Overseas Bank / BAOL](../banks/cisalpina-nassau.md) | Co-fondatore, board member (1971-1982) |
+| [Banca Privata Italiana](../banks/banca-privata-italiana.md) | Contesto — rete Sindona |
 
 ### Persone
 
 | Persona | Relazione |
 |---------|-----------|
-| [Silvio Berlusconi](silvio-berlusconi.md) | Membro P2 |
+| [Silvio Berlusconi](silvio-berlusconi.md) | Membro P2, tessera n. 1816 |
 | [Junio Valerio Borghese](junio-valerio-borghese.md) | Co-cospiratore golpe 1970 |
+| [Roberto Calvi](roberto-calvi.md) | Membro P2 n. 1519, co-fondatore Cisalpina Nassau |
+| [Michele Sindona](michele-sindona.md) | Membro P2, co-fondatore Cisalpina Nassau, tesoriere |
+| [Paul Marcinkus](paul-marcinkus.md) | Co-fondatore Cisalpina Nassau, presidente IOR |
+| [Giorgio Ambrosoli](giorgio-ambrosoli.md) | Contesto — liquidatore BPI di Sindona, assassinato 1979 |
 
 ### Eventi
 
 | Evento | Ruolo |
 |--------|-------|
 | Golpe Borghese (1970) | Architetto |
-| Strage Bologna (1980) | Depistaggio |
-| Crack Ambrosiano (1982) | Coinvolto |
+| Strage Bologna (1980) | Condannato per depistaggio |
+| Crack Ambrosiano (1982) | Co-responsabile, condannato a 18 anni |
 
 ---
 
@@ -323,4 +332,4 @@ Gen. Giandelio Maletti (ex servizi): "La CIA diede approvazione tacita a una ser
 
 ---
 
-*Ultimo aggiornamento: Dicembre 2025*
+*Ultimo aggiornamento: Marzo 2026*

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "ollama": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Ollama",
+      "options": {
+        "baseURL": "http://localhost:11434/v1"
+      },
+      "models": {
+        "qwen3:30b-32k": {
+          "name": "qwen3:30b-32k"
+        },
+        "qwen3-coder:30b": {
+          "name": "qwen3-coder:30b"
+        },
+        "codestral:latest": {
+          "name": "codestral:latest"
+        },
+        "mistral-nemo:12b": {
+          "name": "mistral-nemo:12b"
+        },
+        "gpt-oss:20b": {
+          "name": "gpt-oss:20b"
+        }
+      }
+    }
+  },
+  "mcp": {
+    "neo4j-cypher": {
+      "type": "local",
+      "command": ["npx", "-y", "@johnymontana/neo4j-mcp"],
+      "environment": {
+        "NEO4J_URI": "bolt://localhost:7687",
+        "NEO4J_USERNAME": "neo4j",
+        "NEO4J_PASSWORD": "deepscript2025"
+      }
+    }
+  }
+}

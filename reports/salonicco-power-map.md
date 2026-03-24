@@ -82,6 +82,7 @@ Nel **1492**, dopo il decreto dell'Alhambra, 15.000-20.000 ebrei sefarditi espul
 | Fernandez-Diaz | Commercio | XIX sec. | Ville su Via Regina Olga |
 | Mordoh | Commercio | XIX sec. | Comunita' sefardita |
 | Nehama | Cultura, commercio | XIX-XX sec. | Storici della comunita' |
+| [de Botton](../docs/family/de-botton.md) | Rabbinato, poi finanza | XVI sec. → oggi | Capostipite [Abraham de Boton](../docs/persons/abraham-de-boton.md) (c. 1560-1605), rabbino capo Congregazione Apulia, autore *Lehem Mishneh*; figli Aaron, Jacob, Meir rabbini a Salonicco e Gallipoli; dinastia rabbinica fino al XVIII sec.; poi dispersione a Istanbul, Alessandria, Parigi; discendente [Gilbert de Botton](../docs/persons/gilbert-de-botton.md) fondatore GAM a Zurigo |
 
 ### Ruolo economico
 
@@ -282,6 +283,24 @@ Dopo la morte di Edmond (ucciso in un incendio doloso a Monaco, 3 dicembre 1999)
 
 La connessione Salonicco → Safra rappresenta un caso paradigmatico di come le reti diasporiche sefardite continuino a operare nel XXI secolo: un cognome di un porto ottomano del XVI secolo connette a uno dei maggiori patrimoni privati del mondo.
 
+### Famiglia de Botton: Da Salonicco alla Finanza Svizzera
+
+Un altro caso di continuita' diasporica sefardita da Salonicco e' la [famiglia de Botton](../docs/family/de-botton.md). Il capostipite **[Abraham Hiyya de Boton](../docs/persons/abraham-de-boton.md)** (c. 1560-1605) era rabbino capo della **Congregazione Apulia** a Salonicco e Rosh Yeshiva, allievo di Samuel de Medina. La sua opera principale, il *Lehem Mishneh* (pubblicato postumo a Venezia nel 1609), e' un commentario al Mishneh Torah di Maimonide incorporato in quasi tutte le edizioni successive — un'influenza intellettuale che dura da quattro secoli.
+
+Abraham genero' una **dinastia rabbinica** che si ramifica per almeno sei generazioni documentate:
+- I figli **Aaron**, **Jacob** e **Meir** (c. 1575-1649) furono rabbini a Salonicco e Gallipoli
+- Il nipote **Abraham Hiyya II** (c. 1625-c. 1700) emigro' da Gallipoli a Gerusalemme
+- **Abraham ben Judah de Boton** (XVIII sec.) fu l'ultimo rabbino documentato della linea (*Mahazeh Abraham*, Salonicco, 1796)
+
+Nel XIX secolo la famiglia si disperde in tre rami:
+- **Ramo Salonicco-Istanbul**: Meir De Botton (1861-1940) → Isidore (Istanbul) → Mario (1909-1994, banchiere a Londra) e Maurice (1910-1986), entrambi nati a Salonicco
+- **Ramo Salonicco-Francia**: Jacques/Giacomo (n. Salonicco, m. 1934 Parigi) → Maurice (1908-1944), **fucilato dai nazisti** a Voiron nel luglio 1944
+- **Ramo Alessandria**: Maurice/Moise → Jacques (1908-1959) → **[Gilbert de Botton](../docs/persons/gilbert-de-botton.md)** (1935-2000), reclutato dai Rothschild come founding MD della Rothschild Bank AG Zurich (1968), poi fondatore di **GAM** (Global Asset Management, 1983), inventore del modello open architecture
+
+La matriarca moderna [Yolande Harmer](../docs/persons/yolande-harmer.md) (nata Gabbai, 1913-1959), moglie di Jacques, divenne agente della Haganah — "la Mata Hari di Israele". La 3a generazione — [Alain de Botton](../docs/persons/alain-de-botton.md) (filosofo) e [Miel de Botton](../docs/persons/miel-de-botton.md) (filantropa) — ha convertito il patrimonio in influenza culturale e scientifica.
+
+Il percorso **Salonicco → Gallipoli/Gerusalemme → Istanbul → Alessandria → Israele → Zurigo → Londra** riproduce il classico pattern sefardita: rabbinato → commercio → intelligence → finanza → filantropia, con un ramo tragicamente spezzato dalla Shoah in Francia.
+
 ---
 
 ### Ivan Savvidis: L'Oligarca del Porto
@@ -328,7 +347,10 @@ L'assassinio sistematico dei Tre Pascia da parte della Federazione Rivoluzionari
 ### 7. I fondatori delle rivoluzioni sono sempre le minoranze
 I fondatori originali del CUP (1889) sono **tutti non-turchi**: un albanese, due curdi, un circasso. A Salonicco, il CUP e' rifondato da un sefardita (Carasso), un Dönmeh (Djavid) e un pomacco/rom (Talaat). Le minoranze cercano nel modernismo costituzionale la garanzia dei propri diritti — e finiscono per generare il nazionalismo turco che le cancellera'.
 
-### 8. Oligarchia russo-greca come nuovo potere
+### 8. La diaspora sefardita come rete multi-generazionale
+Le famiglie sefardite di Salonicco (de Botton, Safra/Sarfati, Bourla) dimostrano una **continuita' di rete** che attraversa cinque secoli e molteplici migrazioni: da Salonicco a Alessandria, Aleppo, Zurigo, New York. Il caso de Botton e' il meglio documentato: dalla Congregazione Apulia di Salonicco (1560) alla finanza svizzera (1983), con **almeno 15 generazioni** tracciate attraverso il rabbinato, la dispersione in tre rami (Istanbul, Francia, Alessandria), e un ramo tragicamente spezzato dalla Shoah. La transizione tipica e' rabbinato → commercio → finanza → filantropia/cultura, con l'intelligence come possibile tappa intermedia (Yolande Harmer). Il cognome sefardita funziona come **codice di appartenenza** che attiva fiducia e cooperazione anche dopo generazioni di dispersione.
+
+### 9. Oligarchia russo-greca come nuovo potere
 Savvidis rappresenta un pattern post-sovietico: oligarca con doppia nazionalita' che acquisisce **asset strategici** (porto, media sportivi) in una citta' NATO.
 
 ---
@@ -338,8 +360,11 @@ Savvidis rappresenta un pattern post-sovietico: oligarca con doppia nazionalita'
 | Anno | Evento |
 |------|--------|
 | 1430 | Conquista ottomana di Salonicco |
-| 1492 | Arrivo dei sefarditi espulsi dalla Spagna; tra le famiglie: Benveniste (da Castiglia) e Abravanel (da Spagna via Napoli) |
+| 1492 | Arrivo dei sefarditi espulsi dalla Spagna; tra le famiglie: Benveniste (da Castiglia), Abravanel (via Napoli), de Boton (da Castiglia) |
 | 1520 | Ebrei diventano maggioranza demografica |
+| c. 1560 | Nasce [Abraham Hiyya de Boton](../docs/persons/abraham-de-boton.md), futuro rabbino capo della Congregazione Apulia |
+| c. 1605 | Muore Abraham de Boton; *Lehem Mishneh* pubblicato postumo a Venezia (1609) |
+| 1649 | Muore Meir de Boton, figlio di Abraham, rabbino a Gallipoli |
 | 1648 | Sabbatai Zvi si proclama Messia |
 | 1666 | Conversione forzata di Zvi all'Islam; nascita dei Dönmeh e della fazione [Izmirli](../docs/sect/izmirli.md) a Smirne |
 | 1683 | [Jacob Querido](../docs/persons/jacob-querido.md) guida l'apostasia di massa; nasce la fazione [Yakubi](../docs/sect/yakubi.md) |
@@ -370,6 +395,7 @@ Savvidis rappresenta un pattern post-sovietico: oligarca con doppia nazionalita'
 | 1926 | Processo di Izmir: Ataturk elimina opposizione ex-CUP. Djavid Bey impiccato |
 | 1934 | Carasso muore in esilio a Trieste |
 | **1943** | **Deportazione: 48.533 ebrei verso Auschwitz** |
+| 1944 | Maurice de Botton (ramo francese, n. Salonicco) fucilato dai nazisti a Voiron |
 | 1952 | Nascita di Vicky Sarfati a Salonicco (futura moglie di Edmond Safra) |
 | 1961 | Nascita di Albert Bourla a Salonicco |
 | 1969 | Vicky Sarfati sposa Edmond Safra: Salonicco entra nella galassia bancaria Safra |
@@ -386,6 +412,9 @@ Savvidis rappresenta un pattern post-sovietico: oligarca con doppia nazionalita'
 
 - Baer, Marc David. *The Dönme: Jewish Converts, Muslim Revolutionaries, and Secular Turks*
 - Mazower, Mark. *Salonica, City of Ghosts: Christians, Muslims and Jews 1430-1950*
+- [Jewish Encyclopedia - Boton](https://jewishencyclopedia.com/articles/3600-boton) — genealogia rabbinica completa della famiglia de Boton
+- [Farhi.org - Genealogia de Botton](https://www.farhi.org/wc126/wc126_435.html) — ramo Salonicco-Istanbul (XIX-XX sec.)
+- [Maitron - Maurice de Botton](https://fusilles-40-44.maitron.fr/de-botton-maurice/) — ramo francese, vittima nazista
 - Mango, Andrew. *Atatürk: The Biography of the Founder of Modern Turkey*
 - Scholem, Gershom. *Sabbatai Sevi: The Mystical Messiah*
 - [History of the Jews in Thessaloniki — Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Jews_in_Thessaloniki)

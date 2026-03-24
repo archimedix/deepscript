@@ -10,7 +10,8 @@
 | **Sede** | Arlington, Virginia, USA |
 | **Tipo** | Foundation |
 | **Leadership** | Brad Lips, CEO |
-| **Partner** | 500+ organizzazioni in 100+ paesi |
+| **Partner** | 589 organizzazioni in 103 paesi (2023) |
+| **Budget** | $28M (2023), di cui $10M+ in grant annuali |
 | **Status** | active |
 
 ---
@@ -115,7 +116,43 @@ Atlas Network opera come "think tank che crea think tank", supportando 500+ orga
 1. **Supporto think tank**: Grant, training, mentoring per organizzazioni partner
 2. **Free-market advocacy**: Promozione di libero mercato, deregolamentazione, proprieta' privata
 3. **Leveraging Indices**: Uso di indici economici (Economic Freedom, Ease of Doing Business) per influenzare policy
-4. **Freedom Awards**: Premi annuali ai think tank partner piu' efficaci
+4. **Freedom Awards**: Premi annuali ai think tank partner piu' efficaci (Latin American Liberty Award, Templeton Freedom Award)
+
+---
+
+## Influenza in America Latina
+
+L'America Latina e' la regione prioritaria di Atlas Network (prima per spesa regionale 2020-2023).
+
+### Argentina e Milei
+
+| Dato | Dettaglio |
+|------|-----------|
+| **Think tank argentini** | 10 istituti partner Atlas in Argentina |
+| **Finanziamento regionale** | ~$12M in Argentina |
+| **Think tank chiave** | Fundacion Libertad y Progreso, Federalismo y Libertad |
+| **Ruolo nella riforma Milei** | AAC e Fundacion Libertad y Progreso hanno contribuito alla formulazione della Ley Bases |
+| **Latin American Liberty Award 2024** | Assegnato ad AAC per il lavoro in Argentina |
+
+Milei ha partecipato regolarmente a conferenze e dibattiti ospitati da istituti Atlas in Argentina e altri paesi latinoamericani. Atlas Network ha pubblicato report celebrando il ruolo dei partner nell'"affilare la motosega di Milei".
+
+### Brasile e Bolsonaro
+
+Oltre 100 istituti Atlas in America Latina hanno contribuito all'ascesa di Bolsonaro in Brasile e Milei in Argentina, con finanziamenti riconducibili alla rete Koch.
+
+### Modello operativo
+
+```
+Koch/Donors Trust/Templeton (USA)
+        │
+        ▼
+   Atlas Network (coordinamento)
+        │
+        ├──► Fundacion Libertad y Progreso (ARG) ──► Milei
+        ├──► AAC (ARG) ──► Ley Bases
+        ├──► Instituto Liberdade (BRA) ──► Bolsonaro
+        └──► 100+ think tank LATAM
+```
 
 ---
 
@@ -130,7 +167,7 @@ Atlas Network opera come "think tank che crea think tank", supportando 500+ orga
 | Sarah Scaife Foundation | Foundation | Donor |
 | Lilly Endowment | Foundation | Donor |
 
-Atlas Network non e' obbligata a rivelare i propri donatori.
+Tra 2010-2015, Donors Trust/Donors Capital Fund hanno versato $1.43M ad Atlas. Atlas Network non e' obbligata a rivelare i propri donatori.
 
 ---
 
@@ -181,7 +218,7 @@ Antony Fisher ──► IEA (1955, Londra)
 | **Finanziamenti tabacco** | Piu' di 1/5 dei partner hanno ricevuto fondi dall'industria del tabacco o si sono opposti a regolamentazioni |
 | **Climate denial** | Partner collegati a industria oil & gas e opposizione a politiche climatiche. Atlas afferma di non ricevere fondi da O&G dal 2010 |
 | **Opacita' finanziaria** | Non obbligata a rivelare donatori. Donor intent guida l'agenda |
-| **Influenza politica** | Collegata a movimenti conservatori: Trump (USA), Brexit (GBR), proteste anti-governo in America Latina |
+| **Influenza politica** | Collegata a movimenti conservatori: Trump (USA), Brexit (GBR), Milei (ARG), Bolsonaro (BRA) |
 | **Astroturfing** | Accusata di creare movimenti apparentemente grassroots ma finanziati da elite economiche |
 
 ---
@@ -200,7 +237,10 @@ Antony Fisher ──► IEA (1955, Londra)
 - [SourceWatch - Atlas Network](https://www.sourcewatch.org/index.php/Atlas_Network)
 - [DeSmog - Atlas Network](https://www.desmog.com/atlas-economic-research-foundation/)
 - [The Intercept - Atlas Network Latin America](https://theintercept.com/2017/08/09/atlas-network-alejandro-chafuen-libertarian-think-tank-latin-america-brazil/)
+- [DeSmog - Atlas Network and Milei](https://www.desmog.com/2023/08/22/javier-milei-argentina-atlas-network/)
+- [The New Republic - Shadowy Global Network](https://newrepublic.com/article/175488/atlas-shadowy-global-network-right-wing-think-tanks)
+- [Koch-funded Atlas targeting Europe](https://multinationales.org/en/investigations/the-atlas-network-france-and-the-eu/)
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

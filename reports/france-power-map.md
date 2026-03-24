@@ -1082,7 +1082,92 @@ Pattern: Presidenza → Club de Madrid → influenza internazionale continua
 
 ---
 
-## XVII. Ecosistema AI Francese: Niel, Mistral, Kyutai
+## XVII. La Catena Gollista: De Gaulle → Pompidou → Chirac
+
+### La Successione Dinastica del Gollismo
+
+Il gollismo non è solo un'ideologia ma una **catena di patronato personale** che attraversa la V Repubblica:
+
+```
+DE GAULLE (1959-69)
+    │ patron
+    ├── POMPIDOU (Premier 62-68, Presidente 69-74)
+    │       │ ex-DG Rothschild Frères
+    │       │
+    │       └── CHIRAC (Min. 72-74, PM 74-76, Presidente 95-2007)
+    │               │
+    │               └── SARKOZY (Min. 02-07, Presidente 2007-12)
+    │
+    └── FONDATION CLAUDE POMPIDOU (1970-)
+            │ veicolo di continuità
+            │
+            ├── Claude Pompidou (présidente 1974-2007)
+            ├── Jacques Chirac (trésorier 1970-~2002)
+            ├── Bernadette Chirac (présidente 2007-2019)
+            ├── Alain Pompidou (président 2019-2022)
+            └── Claude Chirac (présidente 2022-)
+```
+
+### Charles de Gaulle: Il Fondatore
+
+[Charles de Gaulle](../docs/persons/charles-de-gaulle.md) (1890-1970) incarna la **sovranità francese**:
+
+| Aspetto | Azione | Significato |
+|---------|--------|-------------|
+| **V Repubblica** | Costituzione 1958, elezione diretta 1962 | Presidente forte, fine instabilità parlamentare |
+| **Force de frappe** | Test nucleare 1960 | 4a potenza atomica, indipendenza militare |
+| **NATO** | Ritiro comando militare 1966 | Sfida all'egemonia USA |
+| **Bretton Woods** | Conversione dollari in oro 1965-66 | Sfida al "privilegio esorbitante" del dollaro |
+| **Decolonizzazione** | Accordi di Évian 1962 | Fine guerra Algeria |
+
+### Georges Pompidou: Il Ponte Rothschild-Eliseo
+
+[Georges Pompidou](../docs/persons/georges-pompidou.md) (1911-1974) è il nodo cruciale tra finanza e Stato:
+
+| Periodo | Ruolo | Significato |
+|---------|-------|-------------|
+| 1934 | Alumni ENS (Lettres) | Meritocrazia repubblicana |
+| 1944-46 | Chef de cabinet de Gaulle | Legame con il patron |
+| 1953-62 | DG Rothschild Frères | 9 anni nell'alta finanza |
+| 1962-68 | Premier ministre | Più lungo PM della V Rep. |
+| 1969-74 | Presidente | Primo ex-banchiere all'Eliseo |
+
+Pompidou inaugura il **pattern Rothschild → Eliseo** che si ripeterà con Macron 48 anni dopo.
+
+### La Fondation Claude Pompidou: Veicolo di Continuità
+
+La [Fondation Claude Pompidou](../docs/foundation/fondation-claude-pompidou.md) (1970) è l'unica istituzione dove le dinastie Pompidou e Chirac si intrecciano formalmente:
+
+| Président(e) | Periodo | Famiglia |
+|--------------|---------|----------|
+| [Claude Pompidou](../docs/persons/claude-pompidou.md) | 1974-2007 | Pompidou |
+| [Bernadette Chirac](../docs/persons/bernadette-chirac.md) | 2007-2019 | Chirac |
+| [Alain Pompidou](../docs/persons/alain-pompidou.md) | 2019-2022 | Pompidou |
+| [Claude Chirac](../docs/persons/claude-chirac.md) | 2022- | Chirac |
+
+La presidenza **alterna tra le due famiglie**: un passaggio dinastico mascherato da governance filantropica. Jacques Chirac fu tesoriere per 30+ anni — la Fondation fu il primo legame istituzionale Chirac-Pompidou, molto prima della presidenza.
+
+### Pattern: La Fondazione come Veicolo Dinastico
+
+```
+PRESIDENTE DEFUNTO
+        │
+        └── VEDOVA (fonda fondazione)
+                │
+                ├── PROTÉGÉ POLITICO (tesoriere/board)
+                │       │
+                │       └── diventa presidente della Repubblica
+                │               │
+                │               └── MOGLIE (succede alla presidenza fondazione)
+                │
+                └── FIGLIO/A (succede come président)
+```
+
+La Fondation Claude Pompidou dimostra che in Francia le fondazioni filantropiche servono da **infrastruttura di continuità dinastica** tra generazioni politiche.
+
+---
+
+## XVIII. Ecosistema AI Francese: Niel, Mistral, Kyutai
 
 ### Il Patron dell'AI Francese
 
@@ -1250,7 +1335,7 @@ Niel ha costruito una pipeline verticale: infrastruttura → computing → forma
 
 ---
 
-## XVIII. L'Oréal: Dall'Ombra Nazista agli Eredi Ebrei
+## XIX. L'Oréal: Dall'Ombra Nazista agli Eredi Ebrei
 
 ### La Fondazione Controversa
 
@@ -1350,7 +1435,7 @@ Rabbino Neuilly                  Lista Knochen
 
 ---
 
-## XIX. L'Automotive Francese: Stato, Manager, Alleanze
+## XX. L'Automotive Francese: Stato, Manager, Alleanze
 
 ### Il Dualismo PSA-Renault
 
@@ -1457,7 +1542,7 @@ La famiglia [Peugeot](../docs/family/peugeot.md) da controllori (>25% pre-2012) 
 
 ---
 
-## XX. Entità Completate e da Investigare
+## XXI. Entità Completate e da Investigare
 
 ### Completate in questa sessione
 
@@ -1546,8 +1631,14 @@ La famiglia [Peugeot](../docs/family/peugeot.md) da controllori (>25% pre-2012) 
 | **Nicolas Sarkozy** | Person | [docs/persons/nicolas-sarkozy.md](../docs/persons/nicolas-sarkozy.md) |
 | **Jacques Chirac** | Person | [docs/persons/jacques-chirac.md](../docs/persons/jacques-chirac.md) |
 | **Club de Madrid** | Forum | [docs/forum/club-de-madrid.md](../docs/forum/club-de-madrid.md) (stub) |
-| **Charles de Gaulle** | Person | (stub) |
-| **Georges Pompidou** | Person | (stub) |
+| **Charles de Gaulle** | Person | [docs/persons/charles-de-gaulle.md](../docs/persons/charles-de-gaulle.md) |
+| **Georges Pompidou** | Person | [docs/persons/georges-pompidou.md](../docs/persons/georges-pompidou.md) |
+| **Famiglia Pompidou** | Family | [docs/family/pompidou.md](../docs/family/pompidou.md) |
+| **Claude Pompidou** | Person | [docs/persons/claude-pompidou.md](../docs/persons/claude-pompidou.md) |
+| **Alain Pompidou** | Person | [docs/persons/alain-pompidou.md](../docs/persons/alain-pompidou.md) |
+| **Fondation Claude Pompidou** | Foundation | [docs/foundation/fondation-claude-pompidou.md](../docs/foundation/fondation-claude-pompidou.md) |
+| **Bernadette Chirac** | Person | (stub) |
+| **Claude Chirac** | Person | (stub) |
 | **François Fillon** | Person | PM Sarkozy 2007-12 (stub) |
 | **Ségolène Royal** | Person | Candidata 2007, Ministra (stub) |
 | **Dominique de Villepin** | Person | PM Chirac 2005-07 (stub) |
@@ -1583,7 +1674,7 @@ La famiglia [Peugeot](../docs/family/peugeot.md) da controllori (>25% pre-2012) 
 
 ---
 
-## XXI. Pattern Chiave
+## XXII. Pattern Chiave
 
 ### 1. La Fabbrica delle Élite
 
@@ -1916,9 +2007,34 @@ I fondatori Mistral replicano il pattern élite francese in un settore nuovo:
 
 Pattern: Stessa classe Polytechnique → stesso team Big Tech → co-fondatori billionaires
 
+### 27. La Catena di Patronato Gollista
+
+Il gollismo si trasmette per **patronato personale**, non per ideologia:
+
+| Patron | Protégé | Meccanismo |
+|--------|---------|------------|
+| De Gaulle | Pompidou | Chef de cabinet 1944 → Premier 1962 → Presidente 1969 |
+| Pompidou | Chirac | Ministro 1972 → PM 1974 → Presidente 1995 |
+| Chirac | Sarkozy | Ministro 2002 → Presidente 2007 |
+
+La Fondation Claude Pompidou formalizza questa catena: Chirac tesoriere (1970), poi le presidenze alternano tra famiglie Pompidou e Chirac.
+
+Pattern: Patron → Protégé → Patronato istituzionalizzato via Fondazione
+
+### 28. Il Doppio Pattern Rothschild → Eliseo
+
+Due presidenti su otto della V Repubblica provenivano direttamente dalla banca Rothschild:
+
+| Presidente | Ruolo Rothschild | Intervallo | Patrono politico |
+|------------|-----------------|------------|------------------|
+| Pompidou (1969) | DG Rothschild Frères 1953-62 | 7 anni | De Gaulle |
+| Macron (2017) | Associé-gérant R&Cie 2008-12 | 5 anni | Hollande (via Attali) |
+
+Il pattern è identico: **Grande École → Rothschild → Cabinet politique → Eliseo**. Ma con una differenza cruciale: Pompidou fu reclutato da Guy de Rothschild, Macron da David de Rothschild — due generazioni della stessa famiglia che producono due presidenti.
+
 ---
 
-## XXII. Cronologia Essenziale
+## XXIII. Cronologia Essenziale
 
 | Anno | Evento | Significato |
 |------|--------|-------------|
@@ -1931,8 +2047,11 @@ Pattern: Stessa classe Polytechnique → stesso team Big Tech → co-fondatori b
 | **1945** | Nazionalizzazione Renault | Collaborazionismo Louis Renault → RNUR |
 | **1945** | Nascita ENA | Fabbrica élite tecnocratica |
 | **1946** | Processo Schueller, assolto | Mitterrand testimone a favore |
+| **1953** | Pompidou entra alla Banque Rothschild | Guy de Rothschild lo assume come DG |
 | **1958** | Fondazione V Repubblica | De Gaulle, sistema semi-presidenziale |
 | **1959** | De Gaulle primo presidente V Rep. | Inizio era |
+| **1965** | De Gaulle sfida Bretton Woods | Conversione dollari in oro, denuncia "privilegio esorbitante" |
+| **1966** | De Gaulle ritira Francia da NATO | Espulsione basi e QG NATO dal territorio |
 | **1955** | François Michelin gérant | 44 anni di leadership familiare |
 | **1967** | Fondazione Accor (SIEH) | Hospitality moderna francese |
 | **1970** | Fondazione Airbus Industrie | Consorzio franco-tedesco aerospazio |
@@ -1944,7 +2063,9 @@ Pattern: Stessa classe Polytechnique → stesso team Big Tech → co-fondatori b
 | **1979** | de Montbrial fonda IFRI | Introduce think tank in Francia |
 | **1980** | Feeney fonda General Atlantic | PE per filantropia |
 | **1985** | Nasce AXA | Bébéar rinomina gruppo |
-| **1969** | Pompidou presidente | Ex-Rothschild all'Eliseo |
+| **1969** | Pompidou presidente | Primo ex-banchiere Rothschild all'Eliseo |
+| **1970** | Fondation Claude Pompidou | Chirac tesoriere; veicolo di continuità gollista |
+| **1974** | Morte Pompidou in carica | Claude Pompidou diventa présidente Fondation |
 | **1974** | Giscard presidente | Chirac suo PM |
 | **1976** | Chirac fonda RPR | Partito neogollista |
 | **1977** | Chirac sindaco Parigi | Prima elezione dal 1871 |

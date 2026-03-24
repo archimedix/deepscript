@@ -70,17 +70,29 @@
 
 ## Membri Chiave nel DB
 
+### Epoca vittoriana e edwardiana
+
+| Nome | Periodo | Rilevanza |
+|------|---------|-----------|
+| [Alfred North Whitehead](../persons/alfred-north-whitehead.md) | 1884 | Matematico-filosofo, co-autore Principia Mathematica |
+| [Bertrand Russell](../persons/bertrand-russell.md) | 1892 | Filosofo, Nobel 1950, attivista pace |
+| [G.E. Moore](../persons/ge-moore.md) | 1894 | Filosofo, Principia Ethica — testo sacro degli Apostoli |
+| [Lytton Strachey](../persons/lytton-strachey.md) | 1902 | Biografo, figura centrale Bloomsbury Group |
+| [John Maynard Keynes](../persons/john-maynard-keynes.md) | 1903 | Economista, architetto Bretton Woods |
+| [E.M. Forster](../persons/em-forster.md) | early 1900s | Romanziere, Bloomsbury Group |
+| [Ludwig Wittgenstein](../persons/ludwig-wittgenstein.md) | 1912 | Filosofo, Tractatus Logico-Philosophicus |
+
+### Generazione spie (1930s)
+
 | Nome | Periodo | Rilevanza |
 |------|---------|-----------|
 | [Victor Rothschild](../persons/victor-rothschild.md) | 1930s | MI5, Shell, CPRS — sospettato Cambridge Five |
 | [Anthony Blunt](../persons/anthony-blunt.md) | 1930s | MI5, spia sovietica confermata |
 | [Guy Burgess](../persons/guy-burgess.md) | 1930s | Spia sovietica, fuggito in URSS 1951 |
+| [Donald Maclean](../persons/donald-maclean.md) | 1930s | Foreign Office, fuggito in URSS 1951 |
 | [Kim Philby](../persons/kim-philby.md) | associate | MI6, spia sovietica — il piu' dannoso |
 | [John Cairncross](../persons/john-cairncross.md) | 1930s | 5th man confermato della Cambridge Five |
-| [John Maynard Keynes](../persons/john-maynard-keynes.md) | 1903 | Economista, architetto Bretton Woods |
-| [Bertrand Russell](../persons/bertrand-russell.md) | 1892 | Filosofo, Nobel, attivista pace |
-| [Ludwig Wittgenstein](../persons/ludwig-wittgenstein.md) | 1912 | Filosofo, Tractatus Logico-Philosophicus |
-| [E.M. Forster](../persons/em-forster.md) | early 1900s | Romanziere, Bloomsbury Group |
+| [Michael Straight](../persons/michael-straight.md) | 1930s | Reclutato da Blunt, agente sovietico USA |
 
 ---
 
@@ -126,9 +138,12 @@ Almeno 4 dei Cambridge Five erano Apostles (Blunt, Burgess, Cairncross + Rothsch
 
 | Persona | Ruolo |
 |---------|-------|
-| [Victor Rothschild](../persons/victor-rothschild.md) | Membro, sospettato 5th man |
-| [John Maynard Keynes](../persons/john-maynard-keynes.md) | Membro dal 1903, figura centrale |
-| [Bertrand Russell](../persons/bertrand-russell.md) | Membro dal 1892 |
+| [Alfred North Whitehead](../persons/alfred-north-whitehead.md) | Membro dal 1884, matematico |
+| [Bertrand Russell](../persons/bertrand-russell.md) | Membro dal 1892, filosofo |
+| [G.E. Moore](../persons/ge-moore.md) | Membro dal 1894, filosofo etico |
+| [John Maynard Keynes](../persons/john-maynard-keynes.md) | Membro dal 1903, economista |
+| [Ludwig Wittgenstein](../persons/ludwig-wittgenstein.md) | Membro dal 1912, filosofo |
+| [Victor Rothschild](../persons/victor-rothschild.md) | Membro 1930s, sospettato 5th man |
 
 ---
 
@@ -157,4 +172,4 @@ Almeno 4 dei Cambridge Five erano Apostles (Blunt, Burgess, Cairncross + Rothsch
 
 ---
 
-*Ultimo aggiornamento: Febbraio 2026*
+*Ultimo aggiornamento: Marzo 2026*

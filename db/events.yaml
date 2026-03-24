@@ -13,6 +13,26 @@ events:
     year: 1848
     type: publication
     location: London, UK
+  1848-prima-guerra-indipendenza:
+    tagline: Prima guerra di indipendenza italiana contro Austria, sconfitta di Novara 1849
+    year: 1848
+    type: war
+    location: ITA
+  1848-statuto-albertino:
+    tagline: Carta costituzionale concessa da Carlo Alberto, in vigore fino al 1948
+    year: 1848
+    type: reform
+    location: ITA
+  1859-seconda-guerra-indipendenza:
+    tagline: Seconda guerra di indipendenza, alleanza franco-piemontese contro Austria, annessione Lombardia
+    year: 1859
+    type: war
+    location: ITA
+  1861-unificazione-italia:
+    tagline: Proclamazione del Regno d Italia, 17 marzo 1861, Torino
+    year: 1861
+    type: reform
+    location: ITA
   1871-paris-commune:
     year: 1871
     type: revolution
@@ -22,6 +42,16 @@ events:
     year: 1894
     type: political
     location: France
+  1896-adua:
+    tagline: Sconfitta italiana ad Adua, fine del primo tentativo coloniale in Etiopia
+    year: 1896
+    type: war
+    location: ETH
+  1900-regicidio-umberto-i:
+    tagline: Assassinio di Re Umberto I per mano dell anarchico Gaetano Bresci a Monza
+    year: 1900
+    type: assassination
+    location: ITA
   1908-rivoluzione-giovani-turchi:
     tagline: Rivoluzione CUP lanciata da Salonicco, restaura la Costituzione ottomana
     year: 1908
@@ -97,6 +127,16 @@ events:
     location: Bascapè, Lombardia, Italia
     note: Enrico Mattei dies in plane crash. Suspected sabotage, never solved. Possible involvement of Seven Sisters, French
       SDECE, or Mafia
+  1969-strage-piazza-fontana:
+    tagline: Bomba alla Banca Nazionale dell Agricoltura, inizio strategia della tensione
+    year: 1969
+    type: attack
+    location: Milano, Italia
+  1970-golpe-borghese:
+    tagline: Tentativo di colpo di stato neofascista guidato da Junio Valerio Borghese
+    year: 1970
+    type: crisis
+    location: ITA
   1971-fine-bretton-woods:
     tagline: La decisione che trasformo' il dollaro da valuta ancorata all'oro a moneta fiat globale
     year: 1971
@@ -115,10 +155,20 @@ events:
     type: fondazione
     location: USA
     outcome: trilaterale
+  1975-operation-condor:
+    tagline: Piano segreto di repressione transnazionale tra dittature sudamericane con supporto CIA (1975-1983)
+    year: 1975
+    type: covert-operation
+    location: South America
   1976-entebbe-raid:
     year: 1976
     type: military
     location: Entebbe, Uganda
+  1978-caso-moro:
+    tagline: Rapimento e assassinio di Aldo Moro da parte delle Brigate Rosse (16 mar - 9 mag 1978)
+    year: 1978
+    type: assassination
+    location: Roma, Italia
   1978-ehden-massacre:
     year: 1978
     month: 6
@@ -138,6 +188,11 @@ events:
     type: achievement
     location: Global
     note: First human disease ever eradicated
+  1980-strage-bologna:
+    tagline: Strage alla stazione di Bologna, 85 morti, 200 feriti. NAR + depistaggio SISMI/P2
+    year: 1980
+    type: terrorism
+    location: Bologna, Italia
   1982-bashir-gemayel-assassination:
     year: 1982
     month: 9
@@ -160,6 +215,11 @@ events:
     type: operation
     location: Sudan, Israel
     note: Airlift segreto di ~8.000 Beta Israel dal Sudan
+  1986-iran-contra:
+    tagline: Vendita segreta di armi all Iran e finanziamento illegale dei Contras in Nicaragua
+    year: 1986
+    type: scandal
+    location: USA
   1990-invasione-kuwait:
     tagline: 'La prima grande crisi post-Guerra Fredda: coalizione di 35 nazioni contro l''Iraq di Saddam Hussein'
     year: 1990
@@ -184,6 +244,11 @@ events:
     month: giugno
     type: convegno
     location: Civitavecchia
+  1992-israeli-embassy-bombing:
+    tagline: 'Autobomba ambasciata israeliana a Buenos Aires: 29 morti, 242 feriti'
+    year: 1992
+    type: attack
+    location: Buenos Aires, Argentina
   1992-tangentopoli:
     tagline: Lo scandalo che cancello' la Prima Repubblica, spazzo' via il Pentapartito e apri' la strada a privatizzazioni,
       governi tecnici e bipolarismo
@@ -202,6 +267,12 @@ events:
     type: trattato
     location: Washington DC
     outcome: Palestinian self-government
+  1994-amia-bombing:
+    tagline: 'Autobomba alla sede AMIA di Buenos Aires: 85 morti, 300 feriti. Attribuito a Iran/Hezbollah, insabbiamento e
+      morte del procuratore Nisman'
+    year: 1994
+    type: attack
+    location: Buenos Aires, Argentina
   1994-contract-of-century:
     year: 1994
     type: agreement
@@ -271,6 +342,11 @@ events:
     type: decree
     location: Baghdad, Iraq
     outcome: 500000 unemployed, fueled insurgency
+  2003-liechtenstein-referendum:
+    year: 2003
+    type: political
+    location: Liechtenstein
+    note: 64% approva espansione poteri monarchici. Turnout 87.7%
   2005-hariri-assassination:
     year: 2005
     month: February
@@ -302,6 +378,12 @@ events:
     year: 2008
     type: crisi
     location: globale
+  2008-liechtenstein-tax-affair:
+    tagline: Furto dati LGT da parte di Kieber innesca la fine del segreto bancario del Liechtenstein e indagini fiscali globali
+    year: 2008
+    type: scandal
+    location: Liechtenstein
+    note: Dati 1400 clienti LGT rubati e venduti al BND tedesco
   2011-bahrain-uprising:
     year: 2011
     month: 2

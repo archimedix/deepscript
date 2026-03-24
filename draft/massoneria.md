@@ -17,19 +17,19 @@
   ├─────┼─────────────────────────────┼─────────────────────────┼────────────┼─────────────────────────────────────────────┤
   │ 8   │ nathan-mayer-rothschild     │ Nathan Mayer Rothschild │    ✅     │ docs/persons/nathan-mayer-rothschild.md     │
   ├─────┼─────────────────────────────┼─────────────────────────┼────────────┼─────────────────────────────────────────────┤
-  │ 9   │ frank-gigliotti             │ Frank Gigliotti         │     ❌     │ docs/persons/frank-gigliotti.md             │
+  │ 9   │ frank-gigliotti             │ Frank Gigliotti         │     ✅     │ Pastore presbiteriano, agente OSS, massone 33° grado, architetto della liberta' religiosa nella Costituzione italiana
   ├─────┼─────────────────────────────┼─────────────────────────┼────────────┼─────────────────────────────────────────────┤
   │ 10  │ licio-gelli                 │ Licio Gelli             │     ✅     │ docs/persons/licio-gelli.md                 │
   ├─────┼─────────────────────────────┼─────────────────────────┼────────────┼─────────────────────────────────────────────┤
   │ 11  │ silvio-berlusconi           │ Silvio Berlusconi       │     ✅     │ docs/persons/silvio-berlusconi.md           │
   ├─────┼─────────────────────────────┼─────────────────────────┼────────────┼─────────────────────────────────────────────┤
-  │ 12  │ michele-sindona             │ Michele Sindona         │     ❌     │ docs/persons/michele-sindona.md             │
+  │ 12  │ michele-sindona             │ Michele Sindona         │     ✅     │ Banchiere della mafia siciliana e del Vaticano, tesoriere P2, artefice del crollo della Franklin National Bank
   ├─────┼─────────────────────────────┼─────────────────────────┼────────────┼─────────────────────────────────────────────┤
-  │ 13  │ roberto-calvi               │ Roberto Calvi           │     ❌     │ docs/persons/roberto-calvi.md               │
+  │ 13  │ roberto-calvi               │ Roberto Calvi           │     ✅     │ "Il Banchiere di Dio" — presidente del Banco Ambrosiano, membro P2 n.1519, al centro della piu' grande frode bancaria occidentale, trovato impiccato sotto Blackfriars Bridge
   ├─────┼─────────────────────────────┼─────────────────────────┼────────────┼─────────────────────────────────────────────┤
   │ 14  │ allen-dulles                │ Allen Dulles            │     ✅     │ docs/persons/allen-dulles.md                │
   ├─────┼─────────────────────────────┼─────────────────────────┼────────────┼─────────────────────────────────────────────┤
-  │ 15  │ stefano-bisi                │ Stefano Bisi            │     ❌     │ docs/persons/stefano-bisi.md                │
+  │ 15  │ stefano-bisi                │ Stefano Bisi            │     ✅     │ Giornalista senese, Gran Maestro del Grande Oriente d'Italia dal 2014 al 2024, 33esimo grado del Rito Scozzese Antico e Accettato
   ├─────┼─────────────────────────────┼─────────────────────────┼────────────┼─────────────────────────────────────────────┤
   │ 16  │ emmanuel-carasso            │ Emmanuel Carasso        │     ✅     │ docs/persons/emmanuel-carasso.md            │
   ├─────┼─────────────────────────────┼─────────────────────────┼────────────┼─────────────────────────────────────────────┤
@@ -49,7 +49,7 @@
   ┌─────┬─────────────────────────────┬─────────────────────────────────────┬────────────┬────────────┬────────────────────────────────────────────────────┐
   │  #  │             ID              │                Nome                 │ Nodo Neo4j │ Scheda .md │                    Path atteso                     │
   ├─────┼─────────────────────────────┼─────────────────────────────────────┼────────────┼────────────────────────────────────────┤
-  │ 1   │ ugle                        │ United Grand Lodge of England       │     ❌     │ docs/secret-society/ugle.md                        │
+  │ 1   │ ugle                        │ United Grand Lodge of England       │     ✅     │ docs/secret-society/ugle.md                        │
   ├─────┼─────────────────────────────┼─────────────────────────────────────┼────────────┼────────────────────────────────────────┤
   │ 2   │ grand-orient-france         │ Grand Orient de France              │     ✅     │ docs/secret-society/grand-orient-france.md         │
   ├─────┼─────────────────────────────┼─────────────────────────────────────┼────────────┼────────────────────────────────────────┤
@@ -63,7 +63,7 @@
   ├─────┼─────────────────────────────┼─────────────────────────────────────┼────────────┼────────────────────────────────────────┤
   │ 7   │ grande-oriente-italia       │ Grande Oriente d'Italia             │     ✅     │ docs/secret-society/grande-oriente-italia.md       │
   ├─────┼─────────────────────────────┼─────────────────────────────────────┼────────────┼────────────────────────────────────────┤
-  │ 8   │ p2                          │ Propaganda Due (P2)                 │     ❌     │ docs/secret-society/p2.md                          │
+  │ 8   │ p2                          │ Propaganda Due (P2)                 │     ✅     │ Loggia massonica segreta che infiltrò lo Stato italiano: 962 iscritti tra militari, politici, banchieri e giornalistimd                          │
   ├─────┼─────────────────────────────┼─────────────────────────────────────┼────────────┼────────────────────────────────────────┤
   │ 9   │ macedonia-risorta           │ Loggia Macedonia Risorta            │     ✅     │ docs/forum/macedonia-risorta.md                    │
   ├─────┼─────────────────────────────┼─────────────────────────────────────┼────────────┼────────────────────────────────────────┤
@@ -87,6 +87,7 @@
 [v] alexander-von-humboldt : Naturalista, esploratore e scienziato prussiano, ispiratore dell'indipendenza latinoamericana
 [v] jose-de-gurruchaga : Patriota di Salta, primo direttore della Loggia Lautaro di Cadice
 [v] julian-alvarez : Giurista e politico argentino, co-fondatore della Loggia Lautaro di Buenos Aires, ponte tra massoneria e indipendentismo sudamericano
+
 [v] jose-matias-zapiola : Militare e co-fondatore della Loggia Lautaro, primo segretario della loggia di Buenos Aires, veterano della campagna andina di San Martín
 [v] manuel-belgrano : Economista, generale e creatore della bandiera argentina. Figura chiave dell'indipendenza, massone iniziato a Salamanca, membro della Loggia Lautaro
 [v] domenico-belgrano-peri : Commerciante ligure emigrato a Buenos Aires, fondatore della dinastia Belgrano, elite mercantile coloniale del Río de la Plata
@@ -147,10 +148,52 @@ maximilien-robespierre
 [v] la-reforme : Loggia del Grand Orient de France a Marsiglia, scuola di potere repubblicano — iniziò Gambetta nel 1869
 [v] la-clemente-amitie : Loggia del Grand Orient de France a Parigi, vivaio dell'élite repubblicana della Terza Repubblica
 
-ugle
+[v] ugle : Madre di tutte le Gran Logge, arbitro della regolarità massonica mondiale dal 1717
+[v] duke-of-kent :Gran Maestro UGLE dal 1967, cugino di Elizabeth II, ponte tra Corona e massoneria
+[v] jonathan-spence : Pro Grand Master UGLE dal 2022, ex CEO Singer & Friedlander, Bursar Queens' College Cambridge
+[v] michael-snyder : Deputy Grand Master UGLE, ex chairman Policy & Resources City of London Corporation, Senior Partner Kingston Smith
+
 Gran Logia de Chile
 Accademia degli Illuminati
 dignity-order
+
+[v] paul-marcinkus : Arcivescovo, presidente IOR 1971-89, al centro dello scandalo Banco Ambrosiano, protetto dall'immunita' diplomatica vaticana
+[v] david-kennedy : Chairman Continental Illinois, Segretario del Tesoro Nixon, Ambasciatore NATO — revolving door finanza-governo, ponte tra banca USA e rete Sindona
+[v] banca-privata-italiana : Banca milanese di Sindona, nodo cruciale della rete Vaticano-mafia-finanza internazionale, il cui crollo scateno' lo scandalo che porto' all'assassinio di Ambrosoli
+[v] banco-ambrosiano : Seconda banca privata italiana, "banca dei preti", al centro del piu' grande scandalo finanziario della storia occidentale: $1.3 miliardi svaniti tra IOR, P2 e shell companies panamensi
+pippo-calo
+flavio-carboni
+[v] giorgio-ambrosoli : Avvocato milanese, commissario liquidatore della Banca Privata Italiana di Sindona, assassinato dalla mafia per aver scoperto la rete criminale dietro l'impero bancario — "Eroe borghese"
+[v] cisalpina-nassau : Sussidiaria offshore del Banco Ambrosiano a Nassau, co-fondata da Calvi, Sindona, Marcinkus e Gelli — veicolo dei $1.3 miliardi in prestiti fittizi a shell companies panamensi controllate da IOR
+
+ior
+[v] P2 : Loggia massonica segreta che infiltrò lo Stato italiano: 962 iscritti tra militari, politici, banchieri e giornalisti
+[v] gladio : Esercito segreto stay-behind NATO/CIA in Italia: rete clandestina anticomunista attiva 1956-1990, legata alla strategia della tensione
+[v] giulio-andreotti : 7 volte Presidente del Consiglio, dominus DC: il potere italiano dal 1947 al 1992, tra Vaticano, Gladio, mafia e P2
+[v] giuseppe-santovito : Generale, primo direttore SISMI (1978-81), membro P2, depistaggio strage di Bologna
+[v] giovanni-torrisi : Ammiraglio, Capo di Stato Maggiore della Difesa (1980-81), membro P2, coinvolto nel golpe Borghese
+[v] walter-pelosi : Prefetto, Segretario Generale del CESIS (1978-81), membro della loggia P2
+[v] emilio-colombo : Presidente del Consiglio DC (1970-72), Presidente del Parlamento Europeo (1977-79), Ministro degli Esteri, senatore a vita, membro P2
+[v] angelo-rizzoli-jr : Editore, presidente Rizzoli-Corriere della Sera, membro P2 (tessera 532), vittima dello "scippo del Corriere"
+[v] fabrizio-cicchitto : Politico PSI/FI/PDL, deputato, capogruppo PDL alla Camera, Presidente Commissione Esteri, membro P2
+[v] bruno-tassan-din : Direttore generale Rizzoli-Corriere della Sera, membro P2, uomo-chiave dello "scippo del Corriere"
+
+[v] ordine-malta : Ordine cavalleresco millenario, soggetto di diritto internazionale, crocevia tra nobilta', Vaticano, intelligence e diplomazia
+william-donovan
+william-casey
+earl-brennan
+[v] adriano-lemmi :Banchiere del Risorgimento, Gran Maestro del Grande Oriente d'Italia, finanziere di Mazzini e Crispi
+[v] ernesto-nathan : Gran Maestro del Grande Oriente d'Italia, sindaco di Roma, mazziniano: il massone che governo' la Capitale
+paolo-taviani
+giovanni-de-lorenzo
+paolo-inzerilli
+gerardo-serravalle
+
+sismi
+CESIS
+SISDE
+
+
 
 [v] bnai-brith : La piu' antica organizzazione di servizio ebraica al mondo, fondatrice di ADL, Hillel e BBYO
 anti-defamation-league
@@ -165,6 +208,8 @@ anti-defamation-league
 [v] american-jewish-conference : Coalizione di 32 organizzazioni ebraiche americane per la causa sionista e i diritti post-bellici (1943-1949)
 [v] abba-hillel-silver : Leader sionista americano, rabbino riformato, protagonista del voto ONU sulla partizione della Palestina (1947)
 [v] world-jewish-congress
+
+
 
 
     Ebraismo
