@@ -1,11 +1,16 @@
-# DeepScript - Schema v3
+# DeepScript - Schema v4
 # Single Source of Truth for database structure
 # Used by: CLAUDE.md, migration scripts, skills (/add, /export, /import)
-# Updated: 2026-01-11
+# Updated: 2026-03-25
+
+# Date conventions:
+# - Integer years (e.g., 1453)
+# - Imprecise dates: use note field (e.g., note: "circa 1450")
+# - Earliest reliable data: ~1100 AD (tardo medioevo)
 
 meta:
-  version: 3
-  updated: 2026-01-11
+  version: 4
+  updated: 2026-03-25
   description: Single source of truth for DeepScript database schema
 
 # =============================================================================
@@ -43,6 +48,16 @@ org_sublabels:
   - SecretSociety   # Illuminati, Skull and Bones, P2, logge massoniche
   - Sect            # Donme, movimenti cripto-religiosi
   - ReligiousInstitution  # Consistoire, CRIF, rabbinati, seminari
+  # Historical states
+  - Kingdom         # Regni pre-moderni (Napoli, Sardegna, Prussia)
+  - Empire          # Ottomano, Romano, Bizantino, Sacro Romano Impero
+  - CityState       # Venezia, Genova, Firenze, citta' anseatiche
+  - Principality    # Ducati, Granducati, Principati, Margraviati
+  # Historical organizations
+  - ReligiousOrder  # Templari, Gesuiti, Cavalieri Teutonici
+  - MilitaryOrder   # Ordine di Malta (quando distinto da religioso)
+  - Guild           # Gilde mercantili, Arti di Firenze
+  - TradingCompany  # VOC, East India Company, Compagnia Moscovita
 
 # =============================================================================
 # RELATIONSHIP TYPES
@@ -130,6 +145,16 @@ docs_path_mapping:
   SecretSociety: secret-society
   Sect: sect
   ReligiousInstitution: religious-institution
+  # Historical states
+  Kingdom: kingdom
+  Empire: empire
+  CityState: city-state
+  Principality: principality
+  # Historical organizations
+  ReligiousOrder: religious-order
+  MilitaryOrder: military-order
+  Guild: guild
+  TradingCompany: trading-company
 
 # =============================================================================
 # ENUMS
@@ -145,6 +170,9 @@ enums:
     - spouse        # note: "ex", "partner"
     - family        # note: "father", "son", "brother", "sister"
     - friend
+    - colleague     # note: "classmate", "co-founder", "peer"
+    - successor     # note: "political", "dynastic", "corporate"
+    - ancestor      # note: "grandfather", "great-grandfather"
 
   # ---------------------------------------------------------------------------
   # Affiliation roles (Person -> Organization)
@@ -184,6 +212,7 @@ enums:
     # Foundation (4 roles)
     # founder, chairman, trustee (reused)
     - grantee
+    - donor         # note: "patron", "sponsor"
 
     # Media (5 roles)
     # founder, chairman (reused)
@@ -199,6 +228,14 @@ enums:
     # WEF-specific
     - ygl           # Young Global Leader (post-2004)
     - glt           # Global Leader for Tomorrow (1993-2003)
+
+    # Historical / Pre-modern (6 roles)
+    - sovereign     # note: "King", "Sultan", "Emperor", "Doge", "Caliph"
+    - noble         # note: "Duke", "Count", "Baron", "Prince", "Marquis"
+    - clergy        # note: "Cardinal", "Bishop", "Abbot", "Pope", "Grand Master"
+    - military      # note: "Admiral", "General", "Commander", "Condottiero"
+    - merchant      # note: "Guild Master", "Factor", "Court Banker"
+    - vassal        # note: "Feudal lord", "Tributary"
 
   # ---------------------------------------------------------------------------
   # Stake roles (Organization -> Organization)
@@ -243,6 +280,14 @@ enums:
 
     # Scandal
     - scandal       # note: "investigation", "trial", "resignation"
+
+    # Historical
+    - revolution    # note: "uprising", "insurrection"
+    - assassination # note: "regicide", "execution"
+    - founding      # note: "charter", "establishment"
+    - conquest      # note: "siege", "invasion", "crusade"
+    - succession    # note: "coronation", "abdication", "interregnum"
+    - persecution   # note: "expulsion", "pogrom", "inquisition"
 
   # ---------------------------------------------------------------------------
   # Event participation roles (Person -> Event)
@@ -297,6 +342,8 @@ enums:
     - active
     - defunct
     - merged
+    - conquered     # assorbito per conquista
+    - dissolved     # dissolto (es. Sacro Romano Impero)
 
 # =============================================================================
 # TYPE MAPPING (yaml type value -> Neo4j sub-label)
@@ -406,6 +453,33 @@ type_mapping:
   # Religious Institutions
   religious-institution: ReligiousInstitution
   istituzione-religiosa: ReligiousInstitution
+
+  # Historical states
+  kingdom: Kingdom
+  regno: Kingdom
+  empire: Empire
+  impero: Empire
+  city-state: CityState
+  citta-stato: CityState
+  repubblica: CityState          # repubbliche pre-moderne (Venezia, Genova)
+  principality: Principality
+  principato: Principality
+  duchy: Principality
+  ducato: Principality
+  grand-duchy: Principality
+  margraviato: Principality
+
+  # Historical organizations
+  religious-order: ReligiousOrder
+  ordine-religioso: ReligiousOrder
+  military-order: MilitaryOrder
+  ordine-militare: MilitaryOrder
+  guild: Guild
+  gilda: Guild
+  arte: Guild
+  corporazione: Guild
+  trading-company: TradingCompany
+  compagnia-commerciale: TradingCompany
 
 # =============================================================================
 # ROLE MAPPING (legacy Italian roles -> English)

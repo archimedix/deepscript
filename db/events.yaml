@@ -7,12 +7,14 @@ events:
   1759-conversione-frankisti-varsavia:
     tagline: La conversione che trasformo' una setta messianica eretica in famiglie della nobilta' polacca
     year: 1759
-    type: political
+    type: coup
     location: Lwow-Warsaw, Poland
+    note: political
   1848-communist-manifesto:
     year: 1848
-    type: publication
+    type: summit
     location: London, UK
+    note: publication
   1848-prima-guerra-indipendenza:
     tagline: Prima guerra di indipendenza italiana contro Austria, sconfitta di Novara 1849
     year: 1848
@@ -40,8 +42,9 @@ events:
   1894-affaire-dreyfus:
     tagline: Falsa accusa di spionaggio contro il capitano ebreo Dreyfus, spartiacque per antisemitismo e sionismo
     year: 1894
-    type: political
+    type: coup
     location: France
+    note: political
   1896-adua:
     tagline: Sconfitta italiana ad Adua, fine del primo tentativo coloniale in Etiopia
     year: 1896
@@ -60,28 +63,32 @@ events:
   1910-jekyll-island:
     tagline: La riunione segreta che disegno' la Federal Reserve
     year: 1910
-    type: riunione-segreta
+    type: summit
     location: Georgia
     outcome: federal-reserve
+    note: riunione-segreta
   jekyll-island:
     tagline: La riunione segreta di sei uomini che disegno la Federal Reserve
     year: 1910
     month: 11
-    type: meeting
+    type: summit
     location: Jekyll Island, Georgia, USA
     outcome: Federal Reserve Act draft
+    note: meeting
   1917-balfour-declaration:
     tagline: '67 parole che cambiarono il Medio Oriente: la promessa britannica per una patria ebraica'
     year: 1917
     month: 11
-    type: declaration
+    type: reform
     location: London
     outcome: British support for Jewish homeland in Palestine
+    note: declaration
   1917-grande-incendio-salonicco:
     tagline: Incendio distrugge 2/3 della citta, 52.000 ebrei senza casa, 32 sinagoghe distrutte
     year: 1917
-    type: disaster
+    type: crisis
     location: Thessaloniki, Greece
+    note: disaster
   1917-russian-revolution:
     year: 1917
     type: revolution
@@ -95,18 +102,21 @@ events:
     tagline: Cooperazione USA-Wehrmacht senza precedenti per salvare il leader di Chabad-Lubavitch dalla Polonia occupata
       dai nazisti. Uno snodo che salvo' il movimento e ne determino' il futuro americano.
     year: 1939
-    type: diplomatic
+    type: summit
     location: Warsaw-Berlin-Riga-New York
+    note: diplomatic
   1943-deportazione-ebrei-salonicco:
     tagline: 48.533 ebrei deportati ad Auschwitz, 95-97% della comunita annientata
     year: 1943
-    type: genocide
+    type: persecution
     location: Thessaloniki, Greece
+    note: genocide
   1944-bretton-woods:
     tagline: L'architettura finanziaria che consacro' l'egemonia americana
     year: 1944
-    type: conferenza
+    type: summit
     location: New Hampshire
+    note: conferenza
   1953-operation-ajax:
     tagline: 'Il primo colpo di stato della CIA: il rovesciamento di Mossadegh creo'' il modello per i regime change della
       Guerra Fredda e genero'' il blowback della Rivoluzione Islamica.'
@@ -118,20 +128,21 @@ events:
     note: Colpo di stato CIA-MI6 che rovescio Mossadegh e reinstallo lo Shah
   1960-fondazione-opec:
     year: 1960
-    type: fondazione
+    type: founding
     location: Baghdad, Iraq
-    note: OPEC founded by Iran, Iraq, Kuwait, Saudi Arabia, Venezuela in response to Seven Sisters price cuts
+    note: fondazione | OPEC founded by Iran, Iraq, Kuwait, Saudi Arabia, Venezuela in response to Seven Sisters price cuts
   1962-morte-mattei:
     year: 1962
-    type: morte
+    type: assassination
     location: Bascapè, Lombardia, Italia
-    note: Enrico Mattei dies in plane crash. Suspected sabotage, never solved. Possible involvement of Seven Sisters, French
-      SDECE, or Mafia
+    note: morte | Enrico Mattei dies in plane crash. Suspected sabotage, never solved. Possible involvement of Seven Sisters,
+      French SDECE, or Mafia
   1969-strage-piazza-fontana:
     tagline: Bomba alla Banca Nazionale dell Agricoltura, inizio strategia della tensione
     year: 1969
-    type: attack
+    type: conquest
     location: Milano, Italia
+    note: attack
   1970-golpe-borghese:
     tagline: Tentativo di colpo di stato neofascista guidato da Junio Valerio Borghese
     year: 1970
@@ -140,30 +151,35 @@ events:
   1971-fine-bretton-woods:
     tagline: La decisione che trasformo' il dollaro da valuta ancorata all'oro a moneta fiat globale
     year: 1971
-    type: decisione
+    type: reform
     location: USA
     outcome: fiat-money
+    note: decisione
   1973-crisi-petrolifera:
     tagline: L'embargo che riscrisse le regole del potere globale e creo' il sistema del petrodollaro
     year: 1973
-    type: crisi
+    type: crisis
     location: globale
     outcome: petrodollaro
+    note: crisi
   1973-fondazione-trilaterale:
     tagline: Il forum che istituzionalizzo' il coordinamento elite USA-Europa-Giappone
     year: 1973
-    type: fondazione
+    type: founding
     location: USA
     outcome: trilaterale
+    note: fondazione
   1975-operation-condor:
     tagline: Piano segreto di repressione transnazionale tra dittature sudamericane con supporto CIA (1975-1983)
     year: 1975
-    type: covert-operation
+    type: conquest
     location: South America
+    note: covert-operation
   1976-entebbe-raid:
     year: 1976
-    type: military
+    type: conquest
     location: Entebbe, Uganda
+    note: military
   1978-caso-moro:
     tagline: Rapimento e assassinio di Aldo Moro da parte delle Brigate Rosse (16 mar - 9 mag 1978)
     year: 1978
@@ -172,10 +188,10 @@ events:
   1978-ehden-massacre:
     year: 1978
     month: 6
-    type: massacre
+    type: persecution
     location: Ehden, Lebanon
     outcome: Tony Frangieh, moglie, figlia uccisi. Rottura Frangieh-Gemayel
-    note: 'Esecutori: Kataeb (Geagea, Hobeika). Mandante: Bashir Gemayel'
+    note: 'massacre | Esecutori: Kataeb (Geagea, Hobeika). Mandante: Bashir Gemayel'
   1980-iran-iraq-war:
     tagline: Otto anni di guerra totale che ridisegnarono il Medio Oriente e rivelarono le alleanze opportunistiche delle
       grandi potenze
@@ -185,14 +201,15 @@ events:
     outcome: Stalemate, UN ceasefire Resolution 598
   1980-smallpox-eradication:
     year: 1980
-    type: achievement
+    type: summit
     location: Global
-    note: First human disease ever eradicated
+    note: achievement | First human disease ever eradicated
   1980-strage-bologna:
     tagline: Strage alla stazione di Bologna, 85 morti, 200 feriti. NAR + depistaggio SISMI/P2
     year: 1980
-    type: terrorism
+    type: conquest
     location: Bologna, Italia
+    note: terrorism
   1982-bashir-gemayel-assassination:
     year: 1982
     month: 9
@@ -208,13 +225,14 @@ events:
     tagline: 'La piu'' grande conferenza ebraica del mondo: dal 1983, riunisce annualmente fino a 6.500 emissari Chabad da
       100+ paesi — il punto di coordinamento globale della rete Chabad-Lubavitch.'
     year: 1983
-    type: conference
+    type: summit
     location: Crown Heights, Brooklyn, USA
+    note: conference
   1984-operation-moses:
     year: 1984
-    type: operation
+    type: conquest
     location: Sudan, Israel
-    note: Airlift segreto di ~8.000 Beta Israel dal Sudan
+    note: operation | Airlift segreto di ~8.000 Beta Israel dal Sudan
   1986-iran-contra:
     tagline: Vendita segreta di armi all Iran e finanziamento illegale dei Contras in Nicaragua
     year: 1986
@@ -230,66 +248,75 @@ events:
   1991-dissoluzione-urss:
     tagline: Il crollo che apri' le porte agli oligarchi e alla "shock therapy" occidentale
     year: 1991
-    type: evento-storico
+    type: founding
     location: URSS
+    note: evento-storico
   1991-operation-solomon:
     year: 1991
-    type: operation
+    type: conquest
     location: Addis Ababa, Israel
-    note: 14.325 etiopi in 36 ore, record mondiale
+    note: operation | 14.325 etiopi in 36 ore, record mondiale
   1992-britannia:
     tagline: Un convegno sulle privatizzazioni italiane a bordo dello yacht reale britannico, divenuto simbolo della transizione
       dalla Prima alla Seconda Repubblica e dell'apertura dell'economia italiana al capitale internazionale.
     year: 1992
     month: giugno
-    type: convegno
+    type: summit
     location: Civitavecchia
+    note: convegno
   1992-israeli-embassy-bombing:
     tagline: 'Autobomba ambasciata israeliana a Buenos Aires: 29 morti, 242 feriti'
     year: 1992
-    type: attack
+    type: conquest
     location: Buenos Aires, Argentina
+    note: attack
   1992-tangentopoli:
     tagline: Lo scandalo che cancello' la Prima Repubblica, spazzo' via il Pentapartito e apri' la strada a privatizzazioni,
       governi tecnici e bipolarismo
     year: 1992
-    type: crisi-politica
+    type: crisis
     location: Italia
     outcome: fine-prima-repubblica
+    note: crisi-politica
   1992-trattato-maastricht:
     tagline: Il patto che creo' l'Euro e la governance tecnocratica europea
     year: 1992
-    type: trattato
+    type: treaty
     location: Paesi Bassi
+    note: trattato
   1993-oslo-accords:
     year: 1993
     month: 9
-    type: trattato
+    type: treaty
     location: Washington DC
     outcome: Palestinian self-government
+    note: trattato
   1994-amia-bombing:
     tagline: 'Autobomba alla sede AMIA di Buenos Aires: 85 morti, 300 feriti. Attribuito a Iran/Hezbollah, insabbiamento e
       morte del procuratore Nisman'
     year: 1994
-    type: attack
+    type: conquest
     location: Buenos Aires, Argentina
+    note: attack
   1994-contract-of-century:
     year: 1994
-    type: agreement
+    type: treaty
     location: Baku, Azerbaijan
-    note: BP-led consortium for ACG oil field development, signed by Heydar Aliyev
+    note: agreement | BP-led consortium for ACG oil field development, signed by Heydar Aliyev
   1994-hebron-massacre:
     tagline: Attacco terroristico di un colono kahanista che porto' alla messa al bando di Kach e alla radicalizzazione del
       conflitto
     year: 1994
-    type: attack
+    type: conquest
     location: Hebron, West Bank
+    note: attack
   1995-assassinio-rabin:
     year: 1995
     month: 11
-    type: assassinio
+    type: assassination
     location: Tel Aviv
     outcome: Fine processo Oslo
+    note: assassinio
   1996-blood-scandal:
     year: 1996
     type: scandal
@@ -298,37 +325,42 @@ events:
   1999-abolizione-glass-steagall:
     tagline: La deregolamentazione che permise la crisi 2008
     year: 1999
-    type: deregulation
+    type: reform
     location: USA
     outcome: too-big-to-fail
+    note: deregulation
   2001-11-settembre:
     tagline: L'evento che legittimo' la sorveglianza di massa e le "guerre infinite
     year: 2001
-    type: attacco
+    type: conquest
     location: USA
+    note: attacco
   2001-dark-winter:
     year: 2001
-    type: exercise
+    type: conquest
     location: USA
-    note: Bioterrorism tabletop exercise simulating smallpox attack
+    note: exercise | Bioterrorism tabletop exercise simulating smallpox attack
   2001-goldman-greece-swap:
     tagline: Come una banca d'affari aiuto' uno stato sovrano a nascondere €2.8 miliardi di debito per entrare nell'Euro
     year: 2001
-    type: financial
+    type: crisis
     location: Greece
     outcome: Greece entered Eurozone with hidden debt
+    note: financial
   2003-cpa-costituzione:
     year: 2003
     month: 5
-    type: political
+    type: coup
     location: Baghdad, Iraq
     outcome: US civilian administration
+    note: political
   2003-de-baathification:
     year: 2003
     month: 5
-    type: decree
+    type: reform
     location: Baghdad, Iraq
     outcome: purge of Baath party members
+    note: decree
   2003-invasione-iraq:
     tagline: La guerra basata su false premesse che ridefini' il Medio Oriente e scredito' l'intelligence occidentale
     year: 2003
@@ -339,14 +371,15 @@ events:
   2003-iraqi-army-dissolution:
     year: 2003
     month: 5
-    type: decree
+    type: reform
     location: Baghdad, Iraq
     outcome: 500000 unemployed, fueled insurgency
+    note: decree
   2003-liechtenstein-referendum:
     year: 2003
-    type: political
+    type: coup
     location: Liechtenstein
-    note: 64% approva espansione poteri monarchici. Turnout 87.7%
+    note: political | 64% approva espansione poteri monarchici. Turnout 87.7%
   2005-hariri-assassination:
     year: 2005
     month: February
@@ -357,9 +390,10 @@ events:
   2006-esecuzione-saddam:
     year: 2006
     month: 12
-    type: execution
+    type: assassination
     location: Baghdad
     outcome: Saddam Hussein executed by hanging
+    note: execution
   2006-pierre-gemayel-assassination:
     year: 2006
     month: 11
@@ -370,14 +404,16 @@ events:
   2007-nisour-square:
     year: 2007
     month: 9
-    type: massacre
+    type: persecution
     location: Baghdad, Iraq
     outcome: 17 civilians killed by Blackwater contractors
+    note: massacre
   2008-crisi-finanziaria:
     tagline: Il crollo che dimostro' "too big to fail" e socializzo' le perdite di Wall Street
     year: 2008
-    type: crisi
+    type: crisis
     location: globale
+    note: crisi
   2008-liechtenstein-tax-affair:
     tagline: Furto dati LGT da parte di Kieber innesca la fine del segreto bancario del Liechtenstein e indagini fiscali globali
     year: 2008
@@ -387,17 +423,18 @@ events:
   2011-bahrain-uprising:
     year: 2011
     month: 2
-    type: uprising
+    type: revolution
     location: Manama, Bahrain
     outcome: suppressed
-    note: Arab Spring protests Pearl Roundabout. 200,000 protesters. Saudi-led GCC intervention March 14. Martial law. 19+
-      killed. Opposition leaders imprisoned.
+    note: uprising | Arab Spring protests Pearl Roundabout. 200,000 protesters. Saudi-led GCC intervention March 14. Martial
+      law. 19+ killed. Opposition leaders imprisoned.
   2011-crisi-debito-sovrano:
     tagline: La crisi che impose i governi tecnici e rivelo' il potere della BCE
     year: 2011
-    type: crisi
+    type: crisis
     location: Europa
     outcome: governi-tecnici
+    note: crisi
   2014-euromaidan:
     tagline: 'Rivoluzione ucraina 2013-14: caduta Yanukovych, svolta pro-UE, innesco guerra russo-ucraina'
     year: 2014
@@ -406,33 +443,36 @@ events:
   2014-isis-mosul:
     year: 2014
     month: 6
-    type: military
+    type: conquest
     location: Mosul, Iraq
     outcome: ISIS caliphate proclaimed
+    note: military
   2016-panama-papers:
     tagline: 'Fuga di 11.5M documenti da Mossack Fonseca: 143 politici, 214.000 entita offshore, $2B rete Putin'
     year: 2016
-    type: leak
+    type: scandal
     location: PAN
+    note: leak
   2017-hariri-detention:
     year: 2017
     month: November
-    type: diplomatic crisis
+    type: crisis
     location: Riyadh, Saudi Arabia
     outcome: Rilasciato dopo intervento Macron
-    note: MBS fece annunciare dimissioni forzate
+    note: diplomatic crisis | MBS fece annunciare dimissioni forzate
   2017-paradise-papers:
     tagline: 'Fuga di 13.4M documenti offshore da Appleby: 120+ politici, 120.000 entita, connessioni Russia-Trump'
     year: 2017
-    type: leak
+    type: scandal
     location: Global
+    note: leak
   2019-event-201:
     tagline: La simulazione pandemica da coronavirus 2 mesi prima di COVID-19
     year: 2019
-    type: exercise
+    type: conquest
     location: New York, USA
-    note: High-level pandemic tabletop exercise simulating novel coronavirus outbreak (CAPS). 3.5-hour exercise with 15 players
-      from government, business, public health. 130 invitation-only attendees.
+    note: exercise | High-level pandemic tabletop exercise simulating novel coronavirus outbreak (CAPS). 3.5-hour exercise
+      with 15 players from government, business, public health. 130 invitation-only attendees.
   2019-ibiza-affaere:
     tagline: Video segreto a Ibiza rivela corruzione di Strache (FPO), causa caduta governo austriaco Kurz I
     year: 2019
@@ -440,9 +480,9 @@ events:
     location: AUT
   2019-solomon-tekah-protests:
     year: 2019
-    type: protest
+    type: revolution
     location: Israel
-    note: 18enne etiope ucciso da poliziotto, proteste nazionali
+    note: protest | 18enne etiope ucciso da poliziotto, proteste nazionali
   2020-abraham-accords-bahrain:
     year: 2020
     month: 9
@@ -476,10 +516,10 @@ events:
   2020-beirut-explosion:
     year: 2020
     month: August
-    type: disaster
+    type: crisis
     location: Beirut, Lebanon
     outcome: 217 morti, $15B danni. Crisi politica
-    note: 2750 tonnellate nitrato ammonio
+    note: disaster | 2750 tonnellate nitrato ammonio
   2020-karabakh-war:
     year: 2020
     type: war
@@ -488,9 +528,10 @@ events:
   2020-pandemia-great-reset:
     tagline: L'emergenza che accelero' trasformazioni digitali e concentrazione di potere
     year: 2020
-    type: crisi
+    type: crisis
     location: globale
     outcome: great-reset
+    note: crisi
   2020-wirecard:
     tagline: 'Collasso Wirecard: la piu grande frode contabile europea, 1.9 miliardi spariti, COO spia del GRU'
     year: 2020
@@ -499,13 +540,15 @@ events:
   2021-pandora-papers:
     tagline: Leak di 11.9M documenti su offshore di leader mondiali, indagine ICIJ
     year: 2021
-    type: leak
+    type: scandal
     location: Global
+    note: leak
   2022-nazionalizzazioni-ucraina:
     tagline: 'Esproprio di 5 aziende strategiche sotto legge marziale: de-oligarchizzazione in tempo di guerra'
     year: 2022
-    type: nationalization
+    type: reform
     location: UKR
+    note: nationalization
   2022-predator-gate:
     tagline: 'Scandalo sorveglianza Predator in Grecia: 87+ vittime tra politici, giornalisti, giudici'
     year: 2022
@@ -518,17 +561,19 @@ events:
     note: 100,000 Armenians expelled, ethnic cleansing allegations
   7-ottobre:
     year: 2023
-    type: attack
+    type: conquest
     location: Israel
+    note: attack
   cop28-dubai:
     year: 2023
-    type: conference
+    type: summit
     location: Dubai, ARE
-    note: First Global Stocktake, UAE Consensus
+    note: conference | First Global Stocktake, UAE Consensus
   2024-caduta-assad:
     year: 2024
-    type: regime-change
+    type: coup
     location: Syria
+    note: regime-change
   2024-cop29-baku:
     year: 2024
     type: summit
@@ -540,21 +585,24 @@ events:
     location: Washington DC
   2025-iran-protests:
     year: 2025
-    type: uprising
+    type: revolution
     location: Iran
     outcome: ongoing
+    note: uprising
   2025-munich-convergence-summit:
     tagline: 'Il momento in cui l''opposizione iraniana in esilio designo'' Reza Pahlavi come leader di transizione: unita''
       dichiarata, ma quanto reale?'
     year: 2025
     month: 2
-    type: conference
+    type: summit
     location: Munich, Germany
     outcome: Pahlavi designated transitional leader
+    note: conference
   2025-stargate-announcement:
     year: 2025
-    type: announcement
+    type: summit
     location: White House, Washington DC, USA
+    note: announcement
   1688-gloriosa-rivoluzione:
     tagline: Il colpo di stato finanziato da banchieri sefarditi che trasformo' l'Inghilterra in monarchia parlamentare
     location: Inghilterra / Paesi Bassi

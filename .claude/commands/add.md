@@ -16,8 +16,8 @@ argument-hint: "<tipo> <nome>"
 Argomento: $ARGUMENTS
 
 Formato: `<tipo> <nome-entita>`
-- tipo: person | org | family | event | gov
-- nome: identificativo (es. "mario-draghi", "rockefeller", "bilderberg", "governo-italia")
+- tipo: person | org | family | event | gov | kingdom | empire | city-state | principality
+- nome: identificativo (es. "mario-draghi", "rockefeller", "bilderberg", "governo-italia", "repubblica-venezia", "regno-napoli")
 
 Se manca tipo o nome, chiedi all'utente.
 
@@ -255,6 +255,40 @@ Per i governi, cerca e documenta:
 - **Timeline leader**: successione storica dei capi
 - **Relazioni con org nel DB**: banche centrali, SWF, aziende di stato
 
+**Historical State (shortcut `kingdom`, `empire`, `city-state`, `principality`):**
+```cypher
+// Kingdom / Empire / CityState / Principality
+MERGE (o:Organization {id: 'nome-id'})
+SET o:Kingdom,  // o Empire, CityState, Principality
+    o.name = 'Nome Stato',
+    o.founded = 1130,
+    o.dissolved = 1861,       // anno fine (opzionale)
+    o.headquarters = 'City',
+    o.status = 'dissolved',   // o conquered, active
+    o.tagline = 'Breve descrizione'
+```
+
+Per gli stati storici, cerca e documenta:
+- **Sovrani**: re, dogi, imperatori, sultani (role: `sovereign`)
+- **Nobili**: duchi, conti, marchesi (role: `noble`)
+- **Clero**: cardinali, vescovi, abati (role: `clergy`)
+- **Militari**: ammiragli, generali, condottieri (role: `military`)
+- **Mercanti**: banchieri di corte, fattori (role: `merchant`)
+- **Timeline**: successione dinastica, conquiste, dissoluzione
+
+**Historical Organization (via `org` con tipo specifico):**
+```cypher
+// ReligiousOrder / MilitaryOrder / Guild / TradingCompany
+MERGE (o:Organization {id: 'nome-id'})
+SET o:ReligiousOrder,  // o MilitaryOrder, Guild, TradingCompany
+    o.name = 'Nome Organizzazione',
+    o.founded = 1119,
+    o.dissolved = 1312,       // opzionale
+    o.headquarters = 'City',
+    o.status = 'dissolved',
+    o.tagline = 'Breve descrizione'
+```
+
 ### 5. Crea scheda markdown
 
 **IMPORTANTE:** Leggi il template corrispondente e usalo come base per la scheda.
@@ -267,6 +301,8 @@ Per i governi, cerca e documenta:
 | org | `templates/org.md` | vedi tabella sub-label |
 | org:Media | `templates/media.md` | `docs/media/` |
 | gov | `templates/gov.md` | `docs/government/` |
+| kingdom/empire/city-state/principality | `templates/org.md` | `docs/{kingdom,empire,city-state,principality}/` |
+| org (historical org) | `templates/org.md` | `docs/{religious-order,military-order,guild,trading-company}/` |
 
 **Sub-label → Cartella**: Vedi `db/schema.yaml` sezione `docs_path_mapping`
 
@@ -294,6 +330,10 @@ Stile: dati verificabili, fonti citate, no speculazioni.
 | farnesina | governo-italia | minister | "Min. Esteri" |
 | nato-pa | nato | member | "Assemblea Parlamentare" |
 | fed-board | federal-reserve | board | "Governor", "Vice Chair" |
+| senato-venezia | repubblica-venezia | legislator | "Senatore" |
+| gran-consiglio-venezia | repubblica-venezia | legislator | "Gran Consiglio" |
+| corte-napoli | regno-napoli | sovereign | "Re" |
+| cancelleria-impero | sacro-romano-impero | official | "Cancelliere" |
 
 **Quando creare una nuova org:**
 - Forum/network transnazionali (Bilderberg, Trilateral, WEF)

@@ -516,10 +516,10 @@ organizations:
       to: 1944
       note: Capo Abwehr (Ammiraglio)
     - person: hans-bernd-gisevius
-      role: agent
+      role: asset
       from: 1940
       to: 1944
-      note: Vice Console Zurigo, liaison OSS
+      note: agent | agent | Vice Console Zurigo, liaison OSS
     - person: hans-oster
       role: executive
       from: 1935
@@ -927,7 +927,7 @@ organizations:
     type: forum
     founded: 1955
     headquarters: Paris, France
-    status: inactive
+    status: defunct
     note: Jean Monnet Committee
     stakeholders:
     - person: jean-monnet
@@ -1048,7 +1048,7 @@ organizations:
     type: company
     founded: 2012
     headquarters: Menlo Park, California, USA
-    status: acquired
+    status: merged
     sector: cybersecurity
     stakeholders:
     - person: assaf-rappaport
@@ -1747,7 +1747,7 @@ organizations:
     type: defense
     founded: 1942
     headquarters: El Segundo, California, USA
-    status: subsidiary
+    status: active
     sector: propulsion
     stakeholders:
     - org: l3harris
@@ -2544,8 +2544,8 @@ organizations:
     status: active
     stakeholders:
     - person: peter-thiel
-      role: investor
-      note: Early investor
+      role: shareholder
+      note: investor | investor | Early investor
     - person: brian-chesky
       role: founder
       from: 2008
@@ -2886,7 +2886,7 @@ organizations:
     name: Al-Bilad Islamic Bank for Investment and Finance
     type: bank
     headquarters: Baghdad, Iraq
-    status: sanctioned
+    status: active
     note: OFAC sanctioned May 2018 for IRGC-QF support
     stakeholders:
     - person: aras-habib
@@ -3005,8 +3005,8 @@ organizations:
     status: active
     stakeholders:
     - person: ricardo-martinelli
-      role: client
-      note: Shell companies, connessione Odebrecht
+      role: member
+      note: client | client | Shell companies, connessione Odebrecht
     - person: jaime-aleman-healy
       role: founder
       from: 1985
@@ -3033,7 +3033,7 @@ organizations:
     type: forum
     founded: 2004
     headquarters: Brussels
-    status: rebranded
+    status: merged
     note: Became Renew Europe in 2019
     stakeholders:
     - person: guy-verhofstadt
@@ -3139,7 +3139,7 @@ organizations:
     name: Aliada Group Inc.
     type: company
     headquarters: British Virgin Islands
-    status: sanctioned
+    status: active
     stakeholders:
     - org: intellexa
       role: subsidiary
@@ -3249,7 +3249,7 @@ organizations:
     type: defense
     founded: 1995
     headquarters: McLean, Virginia, USA
-    status: subsidiary
+    status: active
     sector: defense-technology
     stakeholders:
     - org: huntington-ingalls
@@ -3426,10 +3426,10 @@ organizations:
       Motto: Kol Yisrael Arevim Zeh Bazeh.'
     stakeholders:
     - person: maurice-de-hirsch
-      role: patron
+      role: donor
       from: 1873
       to: 1896
-      note: Donò 1M franchi (1873), copri deficit annuali
+      note: patron | patron | Donò 1M franchi (1873), copri deficit annuali
     - person: narcisse-leven
       role: leader
       from: 1863
@@ -3775,13 +3775,13 @@ organizations:
       to: 1963
       note: Director
     - person: eli-cohen
-      role: analyst
+      role: employee
       from: 1957
       to: 1959
-      note: Counter-intelligence analyst, translator
+      note: analyst | analyst | Counter-intelligence analyst, translator
     - person: yoni-koren
-      role: officer
-      note: Lieutenant Colonel (reserve), covert operations
+      role: official
+      note: officer | officer | Lieutenant Colonel (reserve), covert operations
     - person: pinhas-buchris
       role: executive
       from: 1991
@@ -3881,8 +3881,8 @@ organizations:
       to: 2010
       note: Early investor and board member
     - person: rahul-patil
-      role: engineer
-      note: AWS
+      role: employee
+      note: engineer | engineer | AWS
     - person: carl-meadows
       role: executive
       note: Director of Product Management, AWS
@@ -4548,9 +4548,9 @@ organizations:
       role: alumni
       note: BA Russian Linguistics and Political Science; MBA
     - person: james-boyle
-      role: faculty
+      role: professor
       to: 2000
-      note: Professor of Law
+      note: faculty | faculty | Professor of Law
     - person: stacey-plaskett
       role: alumni
       note: JD
@@ -5274,9 +5274,9 @@ organizations:
     status: active
     stakeholders:
     - person: eduardo-saverin
-      role: investor
+      role: shareholder
       from: 2020
-      note: Early investor
+      note: investor | investor | Early investor
     - person: magnus-grimeland
       role: founder
       from: 2017
@@ -5649,8 +5649,8 @@ organizations:
     status: active
     stakeholders:
     - person: wilbur-ross
-      role: client
-      note: WL Ross & Co major client, 50+ entita offshore amministrate da Appleby
+      role: member
+      note: client | client | WL Ross & Co major client, 50+ entita offshore amministrate da Appleby
   applica:
     name: Applica Corp.
     type: company
@@ -6988,9 +6988,9 @@ organizations:
       role: board
       note: Board member
     - person: rupert-murdoch
-      role: honoree
+      role: member
       from: 2008
-      note: Leadership Award 2008
+      note: honoree | honoree | Leadership Award 2008
     - person: jose-maria-aznar
       role: board
       note: International Advisory Board
@@ -8295,7 +8295,7 @@ organizations:
     type: party
     founded: 1951
     headquarters: Baghdad, Iraq
-    status: banned
+    status: defunct
     stakeholders:
     - person: saddam-hussein
       role: leader
@@ -8680,9 +8680,10 @@ organizations:
       to: 1972
       note: CEO
     - person: raffaele-mattioli
-      role: ceo
+      role: executive
       from: 1933
       to: 1972
+      note: ceo | ceo
     - org: iri
       role: parent
       from: 1933
@@ -8698,9 +8699,10 @@ organizations:
     founded: 1914
     stakeholders:
     - person: pio-perrone
-      role: controller
+      role: executive
       from: 1914
       to: 1921
+      note: controller | controller
   banca-generali:
     name: Banca Generali SpA
     type: bank
@@ -8977,8 +8979,8 @@ organizations:
       to: 1975
       note: Creo Banco Ambrosiano Holding Luxembourg 1963
     - person: bruno-tassan-din
-      role: associate
-      note: Intermediario tra Rizzoli e Banco Ambrosiano di Calvi per il finanziamento del gruppo
+      role: partner
+      note: associate | associate | Intermediario tra Rizzoli e Banco Ambrosiano di Calvi per il finanziamento del gruppo
     - org: p2
       role: influence
       note: Calvi e Sindona gestivano Banco Ambrosiano per conto P2/Gelli
@@ -9115,7 +9117,7 @@ organizations:
     name: Banco Río de la Plata
     type: bank
     headquarters: Buenos Aires, Argentina
-    status: acquired
+    status: merged
     stakeholders:
     - person: gregorio-perez-companc
       role: board
@@ -9660,7 +9662,7 @@ organizations:
     type: bank
     founded: 1784
     headquarters: Boston, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: henrique-meirelles
       role: executive
@@ -9791,7 +9793,7 @@ organizations:
     name: Baoding Military Academy
     type: university
     headquarters: Baoding, China
-    status: disbanded
+    status: dissolved
     stakeholders:
     - person: chiang-kai-shek
       role: alumni
@@ -10548,10 +10550,10 @@ organizations:
     status: defunct
     stakeholders:
     - person: alexandre-de-rothschild
-      role: analyst
+      role: employee
       from: 2004
       to: 2005
-      note: Financial analyst, New York
+      note: analyst | analyst | Financial analyst, New York
     - person: henry-kravis
       role: partner
       from: 1969
@@ -10658,20 +10660,20 @@ organizations:
       to: 1955
       note: Solid-state physics group leader, co-invented transistor 1947
     - person: john-bardeen
-      role: researcher
+      role: professor
       from: 1945
       to: 1951
-      note: Co-invented transistor 1947
+      note: researcher | researcher | Co-invented transistor 1947
     - person: walter-brattain
-      role: researcher
+      role: professor
       from: 1929
       to: 1967
-      note: Co-invented transistor 1947
+      note: researcher | researcher | Co-invented transistor 1947
     - person: claude-shannon
-      role: researcher
+      role: professor
       from: 1941
       to: 1972
-      note: Published "A Mathematical Theory of Communication" 1948
+      note: researcher | researcher | Published "A Mathematical Theory of Communication" 1948
     - person: mervin-kelly
       role: executive
       from: 1925
@@ -10681,25 +10683,25 @@ organizations:
       role: employee
       note: Cryptographer
     - person: ken-thompson
-      role: researcher
+      role: professor
       from: 1966
       to: 2000
-      note: Co-created Unix 1969, B language. Turing Award 1983
+      note: researcher | researcher | Co-created Unix 1969, B language. Turing Award 1983
     - person: dennis-ritchie
-      role: researcher
+      role: professor
       from: 1967
       to: 2007
-      note: Created C language 1972, co-created Unix. Turing Award 1983
+      note: researcher | researcher | Created C language 1972, co-created Unix. Turing Award 1983
     - person: rob-pike
-      role: researcher
+      role: professor
       from: 1980
       to: 2002
-      note: Unix team, co-created Plan 9, Inferno, UTF-8
+      note: researcher | researcher | Unix team, co-created Plan 9, Inferno, UTF-8
     - person: brian-kernighan
-      role: researcher
+      role: professor
       from: 1969
       to: 2000
-      note: Co-authored The C Programming Language with Ritchie, coined Unix name
+      note: researcher | researcher | Co-authored The C Programming Language with Ritchie, coined Unix name
     - org: nokia
       role: owner
       from: 2016
@@ -10784,8 +10786,8 @@ organizations:
       role: founder
       note: Founder of The Institute (AI research), 2024
     - person: israel-eldad
-      role: academic
-      note: Professor of Humanistic Studies
+      role: professor
+      note: academic | academic | Professor of Humanistic Studies
     - person: mordechai-vanunu
       role: alumni
       note: BA Philosophy and Geography 1985
@@ -11286,7 +11288,7 @@ organizations:
     name: Bigpoint
     type: company
     headquarters: Hamburg, Germany
-    status: acquired
+    status: merged
     stakeholders:
     - person: khaled-helioui
       role: executive
@@ -12051,8 +12053,8 @@ organizations:
     - person: aleksander-kwasniewski
       role: member
     - person: paolo-rocca
-      role: participant
-      note: '2010'
+      role: member
+      note: participant | participant | 2010
     - person: leon-lambert-ii
       role: steering
       note: Steering Committee member
@@ -12196,7 +12198,7 @@ organizations:
     name: Birmingham Polytechnic
     type: university
     headquarters: Birmingham, GBR
-    status: inactive
+    status: defunct
     note: Now Birmingham City University
     stakeholders:
     - person: noel-quinn
@@ -12778,10 +12780,10 @@ organizations:
       role: board
       note: Board of Directors, Bloomberg Family Foundation
     - person: niall-ferguson
-      role: columnist
+      role: journalist
       from: 2020
       to: 2024
-      note: Bloomberg Opinion columnist
+      note: columnist | columnist | Bloomberg Opinion columnist
     - org: merrill-lynch
       share: 30%
       from: 1984
@@ -13358,9 +13360,9 @@ organizations:
       role: alumni
       note: MSc Business Administration
     - person: luigi-einaudi
-      role: faculty
+      role: professor
       from: 1904
-      note: Professore di Scienza delle Finanze
+      note: faculty | faculty | Professore di Scienza delle Finanze
     - person: cristiano-ratazzi
       role: alumni
       note: Economia e Commercio 1970
@@ -13919,8 +13921,8 @@ organizations:
       to: 2011
       note: Non-Executive Director
     - person: natig-mustafayev
-      role: analyst
-      note: Commercial Analyst, BP Azerbaijan
+      role: employee
+      note: analyst | analyst | Commercial Analyst, BP Azerbaijan
     - person: robert-dudley
       role: executive
       from: 2010
@@ -14457,7 +14459,7 @@ organizations:
       note: CEO
   british-south-africa-company:
     name: British South Africa Company
-    type: company
+    type: tradingcompany
     founded: 1889
     headquarters: London, UK
     status: dissolved
@@ -15475,10 +15477,10 @@ organizations:
       role: alumni
       note: BS Electrical Engineering 1979
     - person: seth-lloyd
-      role: researcher
+      role: professor
       from: 1988
       to: 1991
-      note: Postdoc with Murray Gell-Mann
+      note: researcher | researcher | Postdoc with Murray Gell-Mann
     - person: melanie-walker
       role: alumni
       note: Postdoc Computational Neurobiology
@@ -15996,21 +15998,21 @@ organizations:
     type: company
     founded: 2014
     headquarters: New York, USA
-    status: acquired
+    status: merged
     sector: emergency-communications
     note: Sold to Axon 2025 for $625M. R&D Tel Aviv. Total funding $248M
     stakeholders:
     - person: peter-thiel
-      role: investor
-      note: Via Founders Fund, Series B
+      role: shareholder
+      note: investor | investor | Via Founders Fund, Series B
     - person: ehud-barak
       role: chairman
       from: 2015
       note: Lead investor, fondi da Epstein
     - person: jeffrey-epstein
-      role: investor
+      role: shareholder
       from: 2015
-      note: Investitore via Southern Trust, partner in Sum (E.B.) 2015 con Barak
+      note: investor | investor | Investitore via Southern Trust, partner in Sum (E.B.) 2015 con Barak
     - person: nicole-junkermann
       role: board
       from: 2017
@@ -16024,8 +16026,8 @@ organizations:
       from: 2015
       note: Founder, Chairman & CEO
     - person: andrew-intrater
-      role: investor
-      note: Business partner Barak, questioned by Mueller investigation
+      role: shareholder
+      note: investor | investor | Business partner Barak, questioned by Mueller investigation
     - org: founders-fund
       role: investor
       note: Series B lead, primo investimento israeliano di Founders Fund
@@ -16815,15 +16817,15 @@ organizations:
     status: active
     stakeholders:
     - person: seth-berkley
-      role: officer
+      role: official
       from: 1984
       to: 1986
-      note: Medical epidemiologist, Center for Infectious Diseases
+      note: officer | officer | Medical epidemiologist, Center for Infectious Diseases
     - person: peter-daszak
-      role: academic
+      role: professor
       from: 1998
       to: 2001
-      note: National Center for Infectious Diseases
+      note: academic | academic | National Center for Infectious Diseases
     - person: da-henderson
       role: executive
       from: 1960
@@ -17796,8 +17798,8 @@ organizations:
       role: board
       note: Board of Directors, Chair Committee on Nominating and Governance
     - person: ngozi-okonjo-iweala
-      role: speaker
-      note: McColough Series on International Economics
+      role: legislator
+      note: speaker | speaker | McColough Series on International Economics
     - person: len-blavatnik
       role: donor
       note: $12M donation, controversial — criticized by 56 former US national security officials
@@ -18368,10 +18370,10 @@ organizations:
       role: founder
       from: 1993
     - person: nir-zuk
-      role: engineer
+      role: employee
       from: 1994
       to: 1999
-      note: One of first employees, developed first firewall
+      note: engineer | engineer | One of first employees, developed first firewall
     - person: marius-nacht
       role: founder
       from: 1993
@@ -19122,10 +19124,10 @@ organizations:
       to: 1969
       note: Station Chief Taiwan 1958-62, Deputy Director for Intelligence 1962-66
     - person: jorge-videla
-      role: collaborator
+      role: partner
       from: 1976
       to: 1981
-      note: Operation Condor
+      note: collaborator | collaborator | Operation Condor
     - org: oss
       role: predecessor
       from: 1942
@@ -19308,7 +19310,7 @@ organizations:
     type: company
     founded: 2011
     headquarters: Limassol, Cyprus
-    status: acquired
+    status: merged
     stakeholders:
     - person: tal-dilian
       role: founder
@@ -19405,8 +19407,8 @@ organizations:
       to: 1984
       note: Credit Department, Buenos Aires
     - person: franco-macri
-      role: client
-      note: Finanziamento progetti Socma
+      role: member
+      note: client | client | Finanziamento progetti Socma
     - person: ricardo-martinelli
       role: executive
       note: Credit officer, early career
@@ -19655,7 +19657,7 @@ organizations:
     type: hedgefund
     founded: 2002
     headquarters: San Francisco, USA
-    status: inactive
+    status: defunct
     stakeholders:
     - person: peter-thiel
       role: founder
@@ -20005,7 +20007,7 @@ organizations:
     type: company
     founded: 2011
     headquarters: Sliema, Malta
-    status: acquired
+    status: merged
     stakeholders:
     - person: uzair-gadit
       role: founder
@@ -20232,10 +20234,10 @@ organizations:
     status: active
     stakeholders:
     - person: gagandeep-kang
-      role: faculty
+      role: professor
       from: 1991
       to: 2023
-      note: MBBS 1987, MD Microbiology 1991, PhD 1998, Senior Professor GI Sciences
+      note: faculty | faculty | MBBS 1987, MD Microbiology 1991, PhD 1998, Senior Professor GI Sciences
   cmi:
     name: CMI - Martti Ahtisaari Peace Foundation
     type: foundation
@@ -20498,10 +20500,10 @@ organizations:
       to: 2003
       note: Chairman & CEO
     - person: tucker-carlson
-      role: media
+      role: journalist
       from: 2000
       to: 2005
-      note: Commentator, co-host Crossfire
+      note: media | media | Commentator, co-host Crossfire
     - org: warner-bros-discovery
       share: 100%
       from: 2022
@@ -21097,8 +21099,8 @@ organizations:
       role: alumni
       note: BA 1950 (Pulitzer Scholarship); protege of Lionel Trilling
     - person: siddhartha-mukherjee
-      role: faculty
-      note: Associate Professor of Medicine, Herbert Irving Cancer Center
+      role: professor
+      note: faculty | faculty | Associate Professor of Medicine, Herbert Irving Cancer Center
     - person: chelsea-clinton
       role: executive
       note: Adjunct Professor Mailman School of Public Health
@@ -21118,15 +21120,15 @@ organizations:
       role: alumni
       note: MPA 2008, School of International and Public Affairs
     - person: howard-buffett
-      role: faculty
+      role: professor
       from: 2012
-      note: Adjunct Associate Professor, SIPA
+      note: faculty | faculty | Adjunct Associate Professor, SIPA
     - person: ben-mann
       role: alumni
       note: BS Computer Science 2011
     - person: peter-daszak
-      role: academic
-      note: Center for Infection and Immunity, Mailman School
+      role: professor
+      note: academic | academic | Center for Infection and Immunity, Mailman School
     - person: tom-inglesby
       role: alumni
       note: MD 1992
@@ -21164,15 +21166,15 @@ organizations:
       role: alumni
       note: PhD Economics 1946
     - person: george-stigler
-      role: academic
+      role: professor
       from: 1947
       to: 1958
-      note: Professor of Economics
+      note: academic | academic | Professor of Economics
     - person: gary-becker
-      role: academic
+      role: professor
       from: 1957
       to: 1970
-      note: Professor of Economics
+      note: academic | academic | Professor of Economics
     - person: alan-apter
       role: alumni
       note: JD 1982 (Law School)
@@ -21283,10 +21285,10 @@ organizations:
       role: alumni
       note: MBA 1987
     - person: alondra-nelson
-      role: faculty
+      role: professor
       from: 2009
       to: 2019
-      note: Professor Sociology, first Dean of Social Science
+      note: faculty | faculty | Professor Sociology, first Dean of Social Science
     - person: thomas-watson-sr
       role: board
       from: 1933
@@ -21305,10 +21307,10 @@ organizations:
       role: alumni
       note: MBA, MIA
     - person: enrico-fermi
-      role: faculty
+      role: professor
       from: 1939
       to: 1942
-      note: Professore di Fisica; ricerca sulla fissione nucleare
+      note: faculty | faculty | Professore di Fisica; ricerca sulla fissione nucleare
   columbus-nova:
     type: privateequity
     headquarters: New York, USA
@@ -21474,9 +21476,10 @@ organizations:
     founded: 1913
     stakeholders:
     - person: herbert-hoover
-      role: secretary
+      role: official
       from: 1921
       to: 1928
+      note: secretary | secretary
   commerzbank:
     name: Commerzbank AG
     type: bank
@@ -21839,9 +21842,10 @@ organizations:
       from: 1939
       to: 1943
     - person: luciano-gottardi
-      role: labor-president
+      role: legislator
       from: 1939
       to: 1943
+      note: labor-president | labor-president
     - person: mario-zanetti
       role: advisor
       from: 2024
@@ -22230,7 +22234,7 @@ organizations:
     type: company
     founded: 1873
     headquarters: Golden, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: joseph-coors
       role: executive
@@ -23203,7 +23207,8 @@ organizations:
       to: 1997
       note: Partner dal 1973
     - person: bruce-wasserstein
-      role: associate
+      role: partner
+      note: associate | associate
   creative-commons:
     tagline: Infrastruttura giuridica globale per la condivisione libera della conoscenza
     name: Creative Commons
@@ -23389,8 +23394,8 @@ organizations:
       to: 2006
       note: Career Start Program Geneva, analyst, PB CFO 2003, PB COO EMENA 2004
     - person: bidzina-ivanishvili
-      role: client
-      note: Cliente defraudato di $100M+ da Patrice Lescaudron, vinto cause per $1B+
+      role: member
+      note: client | client | Cliente defraudato di $100M+ da Patrice Lescaudron, vinto cause per $1B+
     - person: hamilton-james
       role: executive
       from: 2000
@@ -23912,7 +23917,7 @@ organizations:
     name: CWT (Carlson Wagonlit Travel)
     type: company
     headquarters: Minneapolis, USA
-    status: acquired
+    status: merged
     stakeholders:
     - org: amex-gbt
       role: controlling
@@ -23990,7 +23995,7 @@ organizations:
     type: company
     founded: 2017
     headquarters: Skopje, North Macedonia
-    status: acquired
+    status: merged
     stakeholders:
     - org: intellexa
       role: acquisition
@@ -24047,7 +24052,7 @@ organizations:
     type: automaker
     founded: 1926
     headquarters: Stuttgart, Germany
-    status: renamed
+    status: active
     stakeholders:
     - person: victor-halberstadt
       role: chairman
@@ -24779,8 +24784,8 @@ organizations:
       to: 2023
       note: Research Scientist, LLMs
     - person: aravind-srinivas
-      role: researcher
-      note: Research intern during PhD
+      role: professor
+      note: researcher | researcher | Research intern during PhD
     - person: shane-legg
       role: founder
       from: 2010
@@ -24791,10 +24796,10 @@ organizations:
       to: 2019
       note: Head of Applied AI, DeepMind Ethics founder
     - person: igor-babuschkin
-      role: researcher
+      role: professor
       from: 2017
       to: 2020
-      note: Senior Research Engineer, AlphaStar lead, WaveNet
+      note: researcher | researcher | Senior Research Engineer, AlphaStar lead, WaveNet
     - person: jaan-tallinn
       role: board
       note: Series A investor and board member
@@ -25098,7 +25103,7 @@ organizations:
     type: company
     founded: 1999
     headquarters: Buenos Aires, Argentina
-    status: acquired
+    status: merged
     stakeholders:
     - person: alec-oxenford
       role: founder
@@ -25693,10 +25698,10 @@ organizations:
     note: Pioneering electronic cash company, bankrupt 1998
     stakeholders:
     - person: nick-szabo
-      role: consultant
+      role: advisor
       from: 1993
       to: 1994
-      note: Internet commerce consultant, 6 months
+      note: consultant | consultant | Internet commerce consultant, 6 months
     - person: david-chaum
       role: founder
       from: 1990
@@ -26828,9 +26833,9 @@ organizations:
       role: alumni
       note: Oncology Fellowship
     - person: james-boyle
-      role: faculty
+      role: professor
       from: 2000
-      note: William Neal Reynolds Professor of Law; Co-Director Center for the Study of the Public Domain
+      note: faculty | faculty | William Neal Reynolds Professor of Law; Co-Director Center for the Study of the Public Domain
     - person: melinda-gates
       role: alumni
       note: BA Computer Science and Economics
@@ -27094,7 +27099,7 @@ organizations:
     type: agency
     founded: 1982
     headquarters: Bangkok, Thailand
-    status: completed
+    status: defunct
     sector: development
     note: Predecessore EEC, finanziato da Giappone (JICA/OECF)
     stakeholders:
@@ -27698,7 +27703,7 @@ organizations:
     name: eCount
     type: company
     headquarters: USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: andrew-mccormack
       role: executive
@@ -28704,8 +28709,8 @@ organizations:
       role: alumni
       note: MD 1983
     - person: mark-feinberg
-      role: faculty
-      note: Professor of Medicine and Microbiology; Investigator Emory Vaccine Center
+      role: professor
+      note: faculty | faculty | Professor of Medicine and Microbiology; Investigator Emory Vaccine Center
   emory-university:
     name: Emory University
     type: university
@@ -31208,7 +31213,7 @@ organizations:
     type: defense
     founded: 1971
     headquarters: Madrid, Spain
-    status: subsidiary
+    status: active
     sector: ammunition
     stakeholders:
     - org: rheinmetall
@@ -31489,7 +31494,7 @@ organizations:
     type: company
     founded: 1957
     headquarters: Mountain View, USA
-    status: acquired
+    status: merged
     note: Traitorous Eight. Invented planar IC 1960. Origin of Silicon Valley. Acquired by ON Semiconductor 2016
     stakeholders:
     - person: don-valentine
@@ -31535,13 +31540,13 @@ organizations:
       to: 1962
       note: Head of materials
     - person: sherman-fairchild
-      role: investor
+      role: shareholder
       from: 1957
-      note: Provided $1.38M loan via Fairchild Camera
+      note: investor | investor | Provided $1.38M loan via Fairchild Camera
     - person: arthur-rock
-      role: investor
+      role: shareholder
       from: 1957
-      note: Arranged funding, coined venture capitalist
+      note: investor | investor | Arranged funding, coined venture capitalist
     - person: andy-grove
       role: executive
       from: 1963
@@ -32373,9 +32378,10 @@ organizations:
       to: 2018
       note: CEO
     - person: vittorio-valletta
-      role: ceo
+      role: executive
       from: 1928
       to: 1966
+      note: ceo | ceo
     - person: alessandro-nasi
       role: executive
       from: 2005
@@ -32905,7 +32911,7 @@ organizations:
     name: First Data Corporation
     type: company
     headquarters: Atlanta, USA
-    status: acquired
+    status: merged
     sector: fintech
     stakeholders:
     - person: david-cameron
@@ -33177,7 +33183,7 @@ organizations:
     type: bank
     founded: 1999
     headquarters: Boston, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: henrique-meirelles
       role: executive
@@ -33212,10 +33218,10 @@ organizations:
     sector: media
     stakeholders:
     - person: dylan-field
-      role: intern
+      role: employee
       from: 2011
       to: 2012
-      note: Software engineering intern, then Technical PM
+      note: intern | intern | Software engineering intern, then Technical PM
   flix:
     name: Flix SE
     type: company
@@ -34189,10 +34195,10 @@ organizations:
       to: 2023
       note: Host Tucker Carlson Tonight 2016-2023
     - person: mike-huckabee
-      role: media
+      role: journalist
       from: 2008
       to: 2015
-      note: Host, Huckabee show
+      note: media | media | Host, Huckabee show
     - org: fox-corporation
       share: 100%
   fox-sports:
@@ -34910,7 +34916,7 @@ organizations:
     type: party
     founded: 2007
     headquarters: Beirut
-    status: suspended
+    status: defunct
     note: Partito della famiglia Hariri, sospeso 2022
     stakeholders:
     - person: saad-hariri
@@ -35796,7 +35802,7 @@ organizations:
     type: company
     founded: 1923
     headquarters: Horsham, Pennsylvania, USA
-    status: acquired
+    status: merged
     sector: technology
     note: Acquired by Motorola 2000
     stakeholders:
@@ -36043,10 +36049,10 @@ organizations:
       role: alumni
       note: BS Biology 1982
     - person: james-buchanan
-      role: academic
+      role: professor
       from: 1983
       to: 2013
-      note: Distinguished Professor of Economics; Center for Study of Public Choice
+      note: academic | academic | Distinguished Professor of Economics; Center for Study of Public Choice
   george-washington:
     name: George Washington University
     type: university
@@ -36086,9 +36092,9 @@ organizations:
       role: alumni
       note: Fulbright Scholar 2002-2003, pre-doctoral research International Relations
     - person: michelle-howard
-      role: faculty
+      role: professor
       from: 2018
-      note: Shapiro Visiting Professor of International Affairs
+      note: faculty | faculty | Shapiro Visiting Professor of International Affairs
     - person: jacob-helberg
       role: alumni
       note: BA International Affairs
@@ -36146,17 +36152,17 @@ organizations:
       role: alumni
       note: LLM Taxation
     - person: anwar-ibrahim
-      role: faculty
+      role: professor
       from: 2005
       to: 2006
-      note: Visiting Professor, ACMCU, Walsh School of Foreign Service
+      note: faculty | faculty | Visiting Professor, ACMCU, Walsh School of Foreign Service
     - person: mary-erdoes
       role: alumni
       note: BA Mathematics
     - person: anthony-fauci
-      role: academic
+      role: professor
       from: 2023
-      note: Distinguished Professor, School of Medicine and McCourt School of Public Policy
+      note: academic | academic | Distinguished Professor, School of Medicine and McCourt School of Public Policy
     - person: tom-inglesby
       role: alumni
       note: BA 1988
@@ -36697,7 +36703,7 @@ organizations:
     type: company
     founded: 1901
     headquarters: Boston, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: jorge-paulo-lemann
       role: board
@@ -37106,8 +37112,8 @@ organizations:
       role: member
       note: Avanguardia Nazionale, confessò 1984 collegamento stay-behind/stragi
     - person: stefano-delle-chiaie
-      role: operative
-      note: Agente stay-behind, attivo in strategia della tensione
+      role: asset
+      note: operative | operative | Agente stay-behind, attivo in strategia della tensione
     - org: nato
       role: sponsor
       from: 1957
@@ -37165,9 +37171,9 @@ organizations:
     note: Ex Marc Rich + Co AG. IPO 2011. Merger Xstrata 2013.
     stakeholders:
     - person: nat-rothschild
-      role: investor
+      role: shareholder
       from: 2010
-      note: Investitore significativo
+      note: investor | investor | Investitore significativo
     - person: marc-rich
       role: founder
       from: 1974
@@ -37215,7 +37221,7 @@ organizations:
     type: company
     founded: 2000
     headquarters: New York, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: anil-dash
       role: executive
@@ -37760,13 +37766,13 @@ organizations:
       to: 2024
       note: Board of Directors, Lead Director (2014-2024)
     - person: joshua-kushner
-      role: analyst
+      role: employee
       from: 2008
       to: 2009
-      note: Private equity, distressed debt
+      note: analyst | analyst | Private equity, distressed debt
     - person: matthew-friend
-      role: banker
-      note: Investment Banking
+      role: executive
+      note: banker | banker | Investment Banking
     - person: anthony-noto
       role: executive
       note: Co-Head Global TMT Investment Banking
@@ -37800,20 +37806,20 @@ organizations:
       to: 2017
       note: Partner. Investment Banking, Australia/NZ and Hong Kong
     - person: ryan-israel
-      role: analyst
+      role: employee
       from: 2007
       to: 2009
-      note: Technology, Media and Telecom group
+      note: analyst | analyst | Technology, Media and Telecom group
     - person: charles-korn
-      role: analyst
+      role: employee
       from: 2010
       to: 2012
-      note: Technology, Media and Telecom group
+      note: analyst | analyst | Technology, Media and Telecom group
     - person: brett-icahn
-      role: analyst
+      role: employee
       from: 2001
       to: 2001
-      note: Summer intern
+      note: analyst | analyst | Summer intern
     - person: amanda-renteria
       role: executive
       note: Financial analyst
@@ -37984,10 +37990,10 @@ organizations:
       to: 2020
       note: VP Google Cloud AI
     - person: geoffrey-hinton
-      role: researcher
+      role: professor
       from: 2013
       to: 2023
-      note: VP and Engineering Fellow
+      note: researcher | researcher | VP and Engineering Fellow
     - person: jeff-dean
       role: executive
       from: 1999
@@ -37998,10 +38004,10 @@ organizations:
       to: 2023
       note: VP (Gmail, VR/AR Labs)
     - person: christian-szegedy
-      role: researcher
+      role: professor
       from: 2010
       to: 2023
-      note: Software Engineer 2010-15, Staff Research Scientist 2015-23. InceptionNet, Batch Normalization
+      note: researcher | researcher | Software Engineer 2010-15, Staff Research Scientist 2015-23. InceptionNet, Batch Normalization
     - person: yoav-shoham
       role: executive
       note: Former Principal Scientist
@@ -38045,8 +38051,8 @@ organizations:
       to: 2008
       note: Associate Product Marketing Manager
     - person: ben-mann
-      role: engineer
-      note: Waze Carpool
+      role: employee
+      note: engineer | engineer | Waze Carpool
     - person: larry-brilliant
       role: executive
       from: 2006
@@ -38137,28 +38143,28 @@ organizations:
     note: Merged with DeepMind into Google DeepMind (2023)
     stakeholders:
     - person: ilya-sutskever
-      role: researcher
+      role: professor
       from: 2013
       to: 2015
-      note: Research Scientist, seq2seq, TensorFlow, AlphaGo
+      note: researcher | researcher | Research Scientist, seq2seq, TensorFlow, AlphaGo
     - person: andrew-ng
       role: founder
       from: 2011
       to: 2012
       note: Co-founder, Stanford professor
     - person: aidan-gomez
-      role: researcher
+      role: professor
       from: 2017
       to: 2017
-      note: Intern, co-author Attention Is All You Need
+      note: researcher | researcher | Intern, co-author Attention Is All You Need
     - person: aravind-srinivas
-      role: researcher
-      note: Research intern during PhD
+      role: professor
+      note: researcher | researcher | Research intern during PhD
     - person: nick-frosst
-      role: researcher
+      role: professor
       from: 2016
       to: 2019
-      note: Hinton first employee at Toronto lab
+      note: researcher | researcher | Hinton first employee at Toronto lab
     - person: geoffrey-hinton
       role: founder
       from: 2013
@@ -38357,9 +38363,9 @@ organizations:
       to: 2008
       note: Min. Economía 2007-08; Embajador en EEUU 2015-17; Senador 2019-25; Diputado 2025-
     - person: alec-oxenford
-      role: ambassador
+      role: diplomat
       from: 2025
-      note: Embajador en EEUU (nomina Milei)
+      note: ambassador | ambassador | Embajador en EEUU (nomina Milei)
     - person: javier-milei
       role: leader
       from: 2023
@@ -38370,10 +38376,10 @@ organizations:
       to: 2019
       note: Presidente della Nazione
     - person: mauricio-macri
-      role: governor
+      role: leader
       from: 2007
       to: 2015
-      note: Jefe de Gobierno Ciudad de Buenos Aires
+      note: governor | governor | Jefe de Gobierno Ciudad de Buenos Aires
     - person: mauricio-macri
       role: legislator
       from: 2005
@@ -38565,10 +38571,10 @@ organizations:
   governo-asburgo:
     tagline: Dinastia imperiale che governò il Sacro Romano Impero e l'Austria
     name: Sacro Romano Impero (Asburgo)
-    type: government
+    type: empire
     founded: 1276
     headquarters: Vienna
-    status: defunct
+    status: dissolved
     stakeholders:
     - person: samuel-oppenheimer
       role: advisor
@@ -38742,10 +38748,10 @@ organizations:
       to: 2019
       note: Deputy Foreign Minister
     - person: hafiz-pashayev
-      role: ambassador
+      role: diplomat
       from: 1993
       to: 2006
-      note: First Ambassador to USA (also Canada, Mexico)
+      note: ambassador | ambassador | First Ambassador to USA (also Canada, Mexico)
     - person: ali-asadov
       role: executive
       from: 2019
@@ -39417,10 +39423,10 @@ organizations:
       to: 2022
       note: State Councilor, Director Central Foreign Affairs Commission
     - person: yang-jiechi
-      role: ambassador
+      role: diplomat
       from: 2001
       to: 2005
-      note: Ambassador to the United States
+      note: ambassador | ambassador | Ambassador to the United States
     - person: yang-jiechi
       role: executive
       from: 2017
@@ -40461,10 +40467,10 @@ organizations:
       to: 2001
       note: Segretario di Stato Min. Esteri
     - person: wolfgang-ischinger
-      role: ambassador
+      role: diplomat
       from: 2001
       to: 2006
-      note: Ambasciatore a Washington DC 2001-2006
+      note: ambassador | ambassador | Ambasciatore a Washington DC 2001-2006
     - person: wolfgang-ischinger
       role: diplomat
       from: 2006
@@ -42111,26 +42117,28 @@ organizations:
       to: 1935
       note: Ministro delle Finanze - creò IRI
     - person: francesco-saverio-borrelli
-      role: prosecutor
+      role: official
       from: 1955
       to: 2002
-      note: Procuratore Repubblica Milano 1988-1999, Procuratore Generale Corte Appello Milano 1999-2002
+      note: prosecutor | prosecutor | Procuratore Repubblica Milano 1988-1999, Procuratore Generale Corte Appello Milano 1999-2002
     - person: gherardo-colombo
-      role: prosecutor
+      role: official
       from: 1978
       to: 2007
-      note: Giudice istruttore Milano 1978-1989, PM Procura Milano 1989-2005, Cassazione 2005-2007. Dimissioni volontarie
-        2007
+      note: prosecutor | prosecutor | Giudice istruttore Milano 1978-1989, PM Procura Milano 1989-2005, Cassazione 2005-2007.
+        Dimissioni volontarie 2007
     - person: piercamillo-davigo
-      role: prosecutor
+      role: official
       from: 1978
       to: 2020
-      note: Giudice Vigevano, PM Procura Milano, Pool Mani Pulite. Cassazione 2005, Pres. II Sez. Penale 2016. CSM 2018-2020
+      note: prosecutor | prosecutor | Giudice Vigevano, PM Procura Milano, Pool Mani Pulite. Cassazione 2005, Pres. II Sez.
+        Penale 2016. CSM 2018-2020
     - person: ilda-boccassini
-      role: prosecutor
+      role: official
       from: 1979
       to: 2019
-      note: PM Brescia 1979, PM Milano 1980s-2019. Procuratore Aggiunto Milano 2009. Antimafia, Mani Pulite, caso Ruby
+      note: prosecutor | prosecutor | PM Brescia 1979, PM Milano 1980s-2019. Procuratore Aggiunto Milano 2009. Antimafia,
+        Mani Pulite, caso Ruby
     - person: giulio-andreotti
       role: leader
       from: 1972
@@ -42395,42 +42403,50 @@ organizations:
     founded: 1861
     stakeholders:
     - person: mario-draghi
-      role: treasury-dg
+      role: official
       from: 1991
       to: 2001
-      note: Architetto privatizzazioni, riunione Britannia 1992
+      note: treasury-dg | treasury-dg | Architetto privatizzazioni, riunione Britannia 1992
     - person: benito-mussolini
-      role: prime-minister
+      role: minister
       from: 1922
       to: 1943
+      note: prime-minister | prime-minister
     - person: guido-jung
-      role: finance-minister
+      role: minister
       from: 1932
       to: 1935
+      note: finance-minister | finance-minister
     - person: galeazzo-ciano
-      role: foreign-minister
+      role: minister
       from: 1936
       to: 1943
+      note: foreign-minister | foreign-minister
     - person: dino-grandi
-      role: ambassador-uk
+      role: diplomat
       from: 1932
       to: 1939
+      note: ambassador-uk | ambassador-uk
     - person: vittorio-cini
-      role: communications-minister
+      role: minister
       from: 1943
       to: 1943
+      note: communications-minister | communications-minister
     - person: pietro-badoglio
-      role: prime-minister
+      role: minister
       from: 1943
       to: 1944
+      note: prime-minister | prime-minister
     - person: carlo-pareschi
-      role: agriculture-minister
+      role: minister
       from: 1941
       to: 1943
+      note: agriculture-minister | agriculture-minister
     - person: tullio-cianetti
-      role: corporations-minister
+      role: minister
       from: 1939
       to: 1943
+      note: corporations-minister | corporations-minister
   governo-kazakistan:
     name: Governo del Kazakistan
     type: government
@@ -42904,10 +42920,10 @@ organizations:
       to: 2018
       note: Foreign Minister
     - person: luis-de-carvajal-governor
-      role: governor
+      role: leader
       from: 1579
       to: 1589
-      note: Governatore e Capitano Generale del Nuevo Reino de Leon
+      note: governor | governor | Governatore e Capitano Generale del Nuevo Reino de Leon
   governo-mexico:
     name: Gobierno de México
     type: government
@@ -43250,10 +43266,10 @@ organizations:
   governo-ottomano:
     tagline: Impero multietnico 1299-1922
     name: Impero Ottomano
-    type: government
+    type: empire
     founded: 1299
     headquarters: Istanbul
-    status: defunct
+    status: dissolved
     stakeholders:
     - person: mustafa-kemal-ataturk
       role: official
@@ -43402,10 +43418,10 @@ organizations:
       to: 2009
       note: VP e Min. Esteri
     - person: emanuel-gonzalez-revilla
-      role: ambassador
+      role: diplomat
       from: 2014
       to: 2019
-      note: Ambasciatore a Washington
+      note: ambassador | ambassador | Ambasciatore a Washington
     - person: emanuel-gonzalez-revilla
       role: board
       from: 2000
@@ -43461,10 +43477,10 @@ organizations:
       to: 2002
       note: Chairman Board Autorità Regione Interoceanica
     - person: jorge-federico-lee
-      role: judiciary
+      role: judge
       from: 1996
       to: 2005
-      note: Giudice supplente Corte Suprema (1996-2004), Giudice titolare (2004-2005)
+      note: judiciary | judiciary | Giudice supplente Corte Suprema (1996-2004), Giudice titolare (2004-2005)
     - person: roberto-aleman-zubieta
       role: diplomat
       from: 1968
@@ -43619,15 +43635,18 @@ organizations:
       from: 2018
       note: Minister of State for Energy Affairs
     - person: tamim-bin-hamad-al-thani
-      role: emir
+      role: sovereign
       from: 2013
+      note: emir | emir
     - person: hamad-bin-khalifa-al-thani
-      role: emir
+      role: sovereign
       from: 1995
       to: 2013
+      note: emir | emir
     - person: mohammed-bin-abdulrahman-al-thani
-      role: prime-minister
+      role: minister
       from: 2023
+      note: prime-minister | prime-minister
     - person: mohammed-bin-abdulrahman-al-thani
       role: minister
       from: 2016
@@ -43963,10 +43982,10 @@ organizations:
       to: 1906
       note: Esercito imperiale, Port Arthur, primo ufficiale ebreo, Croce di San Giorgio
     - person: vitaly-churkin
-      role: ambassador
+      role: diplomat
       from: 1992
       to: 2017
-      note: Deputy FM 1992-94, Special Envoy Yugoslavia, Amb. Belgium 1994-98, Amb. Canada 1998-2003
+      note: ambassador | ambassador | Deputy FM 1992-94, Special Envoy Yugoslavia, Amb. Belgium 1994-98, Amb. Canada 1998-2003
     - person: ivan-savvidis
       role: legislator
       from: 2003
@@ -43975,10 +43994,10 @@ organizations:
   governo-sardegna:
     tagline: Stato sabaudo 1720-1861, nucleo del futuro Regno d Italia
     name: Regno di Sardegna
-    type: government
+    type: kingdom
     founded: 1720
     headquarters: Torino
-    status: defunct
+    status: merged
     stakeholders:
     - person: cesare-balbo
       role: leader
@@ -44064,10 +44083,10 @@ organizations:
       from: 2015
       note: Re e Primo Ministro
     - person: salman-bin-abdulaziz
-      role: governor
+      role: leader
       from: 1963
       to: 2011
-      note: Governatore di Riyadh
+      note: governor | governor | Governatore di Riyadh
     - person: salman-bin-abdulaziz
       role: minister
       from: 2011
@@ -44295,10 +44314,10 @@ organizations:
       to: 1996
       note: Presidente del Gobierno
     - person: luis-de-carvajal-governor
-      role: governor
+      role: leader
       from: 1579
       to: 1589
-      note: Governatore Nuevo Reino de Leon per Filippo II
+      note: governor | governor | Governatore Nuevo Reino de Leon per Filippo II
     - person: giovanni-andrea-doria
       role: military
       from: 1560
@@ -44717,9 +44736,9 @@ organizations:
       to: 2022
       note: Capo SBU (Servizio Sicurezza)
     - person: gennadiy-boholyubov
-      role: sanctioned
+      role: member
       from: 2025
-      note: Sanzionato da NSDC il 13 feb 2025, sospetto di alto tradimento
+      note: sanctioned | sanctioned | Sanzionato da NSDC il 13 feb 2025, sospetto di alto tradimento
     - person: vyacheslav-boguslaev
       role: legislator
       from: 2006
@@ -45305,10 +45324,10 @@ organizations:
       note: Minister without Portfolio 1997-98, NI Secretary 1999-01, Business Secretary 2008-10, First Secretary of State
         2009-10
     - person: peter-mandelson
-      role: ambassador
+      role: diplomat
       from: 2025
       to: 2025
-      note: Ambassador to USA, dismissed over Epstein files
+      note: ambassador | ambassador | Ambassador to USA, dismissed over Epstein files
     - person: prince-andrew
       role: advisor
       from: 2001
@@ -46360,10 +46379,10 @@ organizations:
       to: 2019
       note: National Security Advisor
     - person: joseph-kennedy-sr
-      role: ambassador
+      role: diplomat
       from: 1938
       to: 1940
-      note: Ambassador to UK
+      note: ambassador | ambassador | Ambassador to UK
     - person: robert-kennedy-sr
       role: minister
       from: 1961
@@ -46375,10 +46394,10 @@ organizations:
       to: 2009
       note: Senator Massachusetts
     - person: caroline-kennedy
-      role: ambassador
+      role: diplomat
       from: 2013
       to: 2024
-      note: Ambassador Japan 2013-17, Australia 2022-24
+      note: ambassador | ambassador | Ambassador Japan 2013-17, Australia 2022-24
     - person: janet-napolitano
       role: minister
       from: 2009
@@ -46395,10 +46414,10 @@ organizations:
       to: 2011
       note: Deputy Secretary of Defense
     - person: william-lynn
-      role: staff
+      role: employee
       from: 1987
       to: 1993
-      note: Counsel to Sen. Ted Kennedy, Senate Armed Services Committee
+      note: staff | staff | Counsel to Sen. Ted Kennedy, Senate Armed Services Committee
     - person: william-lynn
       role: executive
       from: 1993
@@ -46654,9 +46673,9 @@ organizations:
       from: 2019
       to: 2021
     - person: charles-kushner
-      role: ambassador
+      role: diplomat
       from: 2025
-      note: Ambassador to France and Monaco
+      note: ambassador | ambassador | Ambassador to France and Monaco
     - person: yosef-yitzchak-schneersohn
       role: advisor
       from: 1930
@@ -46763,9 +46782,9 @@ organizations:
       to: 2006
       note: Special Assistant to the President, Executive Secretary NEC
     - person: tom-barrack
-      role: ambassador
+      role: diplomat
       from: 2025
-      note: Ambassador to Turkey; Special Envoy for Syria
+      note: ambassador | ambassador | Ambassador to Turkey; Special Envoy for Syria
     - person: doug-band
       role: advisor
       from: 1995
@@ -46795,14 +46814,14 @@ organizations:
       from: 2025
       note: Under Secretary of State for Economic Growth
     - person: ken-howery
-      role: ambassador
+      role: diplomat
       from: 2019
       to: 2021
-      note: Ambasciatore USA in Svezia, nominato Trump
+      note: ambassador | ambassador | Ambasciatore USA in Svezia, nominato Trump
     - person: ken-howery
-      role: ambassador
+      role: diplomat
       from: 2025
-      note: Ambasciatore USA in Danimarca, nominato Trump dic 2024, confermato Senato ott 2025
+      note: ambassador | ambassador | Ambasciatore USA in Danimarca, nominato Trump dic 2024, confermato Senato ott 2025
     - person: trae-stephens
       role: advisor
       from: 2016
@@ -46953,9 +46972,9 @@ organizations:
       to: 2007
       note: Governor of Arkansas
     - person: mike-huckabee
-      role: ambassador
+      role: diplomat
       from: 2025
-      note: Ambassador to Israel
+      note: ambassador | ambassador | Ambassador to Israel
     - person: sarah-huckabee-sanders
       role: advisor
       from: 2017
@@ -47020,10 +47039,10 @@ organizations:
       to: 1788
       note: President of Pennsylvania 1785-1788
     - person: benjamin-franklin
-      role: delegate
+      role: diplomat
       from: 1787
       to: 1787
-      note: Delegato alla Constitutional Convention, Philadelphia 1787. Firmatario della Costituzione
+      note: delegate | delegate | Delegato alla Constitutional Convention, Philadelphia 1787. Firmatario della Costituzione
     - person: frank-gigliotti
       role: military
       from: 1917
@@ -47125,10 +47144,10 @@ organizations:
       to: 2021
       note: Governor of Rhode Island
     - person: donald-blinken
-      role: ambassador
+      role: diplomat
       from: 1994
       to: 1997
-      note: Ambassador to Hungary
+      note: ambassador | ambassador | Ambassador to Hungary
     - person: jared-polis
       role: legislator
       from: 2009
@@ -47174,10 +47193,10 @@ organizations:
       to: 1971
       note: Secretary of the Treasury
     - person: david-kennedy
-      role: ambassador
+      role: diplomat
       from: 1971
       to: 1972
-      note: Ambassador-at-Large, international economic issues
+      note: ambassador | ambassador | Ambassador-at-Large, international economic issues
     - person: john-singlaub
       role: military
       from: 1943
@@ -47414,10 +47433,10 @@ organizations:
       from: 2008
       note: Founding Director Global Health Programme (2008-2019), Chair International Advisory Board Global Health Centre
     - person: ludwig-von-mises
-      role: academic
+      role: professor
       from: 1934
       to: 1940
-      note: Professor of International Economic Relations
+      note: academic | academic | Professor of International Economic Relations
     - person: leon-lambert-ii
       role: alumni
       note: Licence 1950
@@ -48187,7 +48206,7 @@ organizations:
     name: Gruntal & Co.
     type: company
     headquarters: New York, USA
-    status: closed
+    status: defunct
     note: Brokerage firm; Cohen vi lavoro come options trader 1978-1992
     stakeholders:
     - person: steve-cohen
@@ -48476,9 +48495,9 @@ organizations:
       Laboratory.'
     stakeholders:
     - person: shi-zhengli
-      role: academic
+      role: professor
       from: 2024
-      note: Senior Scientist, transferred from WIV
+      note: academic | academic | Senior Scientist, transferred from WIV
   guangzhou-lianchuang:
     tagline: Sviluppo VPN per conto di Lemon Seed. Venduta da Qihoo per 1 yuan (2023) a entita di Chen Ningyi
     name: Guangzhou Lianchuang Technology
@@ -49491,8 +49510,8 @@ organizations:
       role: alumni
       note: JD, Harvard Law Review editor
     - person: richard-haass
-      role: faculty
-      note: Lecturer in Public Policy, Kennedy School of Government
+      role: professor
+      note: faculty | faculty | Lecturer in Public Policy, Kennedy School of Government
     - person: charles-rivkin
       role: alumni
       note: MBA 1988
@@ -49536,8 +49555,8 @@ organizations:
       role: alumni
       note: Postdoc 1999-2001
     - person: tim-evans
-      role: faculty
-      note: Assistant Professor International Health Economics
+      role: professor
+      note: faculty | faculty | Assistant Professor International Health Economics
     - person: richard-edelman
       role: alumni
       note: BA 1976, MBA 1978
@@ -49565,8 +49584,8 @@ organizations:
       role: alumni
       note: AB Social Studies
     - person: sara-lawrence-lightfoot
-      role: faculty
-      note: Professor, Graduate School of Education
+      role: professor
+      note: faculty | faculty | Professor, Graduate School of Education
     - person: matt-comyn
       role: alumni
       note: General Management Program 2007
@@ -49587,10 +49606,10 @@ organizations:
       from: 1997
       note: Jewish Chaplain
     - person: alan-dershowitz
-      role: academic
+      role: professor
       from: 1964
       to: 2013
-      note: Felix Frankfurter Professor of Law, Harvard Law School; emeritus
+      note: academic | academic | Felix Frankfurter Professor of Law, Harvard Law School; emeritus
     - person: bill-ackman
       role: alumni
       note: BA History 1988 magna cum laude
@@ -49601,9 +49620,9 @@ organizations:
       role: alumni
       note: PhD Government 1998
     - person: claudine-gay
-      role: faculty
+      role: professor
       from: 2006
-      note: Wilbur A. Cowett Professor of Government and of African and African American Studies
+      note: faculty | faculty | Wilbur A. Cowett Professor of Government and of African and African American Studies
     - person: claudine-gay
       role: executive
       from: 2018
@@ -49664,8 +49683,8 @@ organizations:
       role: alumni
       note: MBA, Harvard Business School
     - person: bertrand-russell
-      role: faculty
-      note: Visiting lecturer 1914
+      role: professor
+      note: faculty | faculty | Visiting lecturer 1914
     - person: prashanth-chandrasekar
       role: alumni
       note: MBA
@@ -49673,9 +49692,9 @@ organizations:
       role: alumni
       note: BS Physics 1963, PhD Applied Mathematics 1968
     - person: lawrence-lessig
-      role: faculty
+      role: professor
       from: 2009
-      note: Roy L. Furman Professor of Law; Director Edmond J. Safra Center for Ethics 2009-2015
+      note: faculty | faculty | Roy L. Furman Professor of Law; Director Edmond J. Safra Center for Ethics 2009-2015
     - person: eric-eldred
       role: alumni
       note: BA 1966; Harvard Extension School
@@ -49692,17 +49711,18 @@ organizations:
       role: alumni
       note: JD 1995, Harvard Law School
     - person: joscha-bach
-      role: academic
-      note: Research scientist, Program for Evolutionary Dynamics
+      role: professor
+      note: academic | academic | Research scientist, Program for Evolutionary Dynamics
     - person: martin-nowak
-      role: academic
+      role: professor
       from: 2003
-      note: Professor of Mathematics and Biology, Founding Director Program for Evolutionary Dynamics (2003-2020)
+      note: academic | academic | Professor of Mathematics and Biology, Founding Director Program for Evolutionary Dynamics
+        (2003-2020)
     - person: nicholas-christakis
-      role: academic
+      role: professor
       from: 2001
       to: 2013
-      note: Professor of Sociology, Medical Sociology, and Medicine
+      note: academic | academic | Professor of Sociology, Medical Sociology, and Medicine
     - person: nicholas-christakis
       role: alumni
       note: MD Harvard Medical School 1989, MPH Harvard School of Public Health 1989
@@ -49710,9 +49730,9 @@ organizations:
       role: alumni
       note: BA Mathematics 1950; Junior Fellow, Society of Fellows 1954-1957
     - person: steven-pinker
-      role: faculty
+      role: professor
       from: 2003
-      note: PhD Experimental Psychology 1979; Johnstone Family Professor of Psychology 2003-oggi
+      note: faculty | faculty | PhD Experimental Psychology 1979; Johnstone Family Professor of Psychology 2003-oggi
     - person: daniel-dennett
       role: alumni
       note: BA Philosophy 1963, studied under Willard Quine
@@ -49837,10 +49857,10 @@ organizations:
       role: alumni
       note: LLM 1955, SJD 1959
     - person: niall-ferguson
-      role: academic
+      role: professor
       from: 2004
       to: 2016
-      note: Laurence A. Tisch Professor of History
+      note: academic | academic | Laurence A. Tisch Professor of History
     - person: grover-norquist
       role: alumni
       note: BA Economics 1978
@@ -49912,8 +49932,8 @@ organizations:
       role: alumni
       note: OPM64 Program
     - person: steven-sinofsky
-      role: faculty
-      note: Visiting Scholar 1998, 2013
+      role: professor
+      note: faculty | faculty | Visiting Scholar 1998, 2013
     - person: jide-zeitlin
       role: alumni
       note: MBA; also Board of Dean Advisors
@@ -49970,10 +49990,10 @@ organizations:
       role: alumni
       note: JD magna cum laude 1983, Harvard Law Review editor, Sears Prize
     - person: alan-dershowitz
-      role: academic
+      role: professor
       from: 1964
       to: 2013
-      note: Felix Frankfurter Professor of Law; youngest full prof in HLS history (age 28, 1967); emeritus
+      note: academic | academic | Felix Frankfurter Professor of Law; youngest full prof in HLS history (age 28, 1967); emeritus
     - person: kendra-albert
       role: alumni
       note: JD cum laude 2016; Clinical Instructor, Cyberlaw Clinic
@@ -50156,9 +50176,10 @@ organizations:
       to: 1975
       note: BA magna cum laude
     - person: paul-tucker
-      role: faculty
+      role: professor
       from: 2013
-      note: Research Fellow Mossavar-Rahmani Center (Kennedy School), Senior Fellow Center for European Studies
+      note: faculty | faculty | Research Fellow Mossavar-Rahmani Center (Kennedy School), Senior Fellow Center for European
+        Studies
     - person: rod-rosenstein
       role: alumni
       from: 1986
@@ -50216,7 +50237,7 @@ organizations:
     type: company
     founded: 2012
     headquarters: San Francisco, USA
-    status: acquired
+    status: merged
     sector: cloud-infrastructure
     note: Acquired by IBM for $6.4B in 2024
     stakeholders:
@@ -50934,8 +50955,8 @@ organizations:
       from: 1988
       note: Board of Trustees; Ronald Reagan Chair in Public Policy
     - person: tucker-carlson
-      role: media
-      note: Staff, Policy Review journal
+      role: journalist
+      note: media | media | Staff, Policy Review journal
     - person: antonio-martino
       role: advisor
       from: 1978
@@ -51537,7 +51558,7 @@ organizations:
   hitachi-data-systems:
     name: Hitachi Data Systems
     type: company
-    status: acquired
+    status: merged
     sector: data-storage
     stakeholders:
     - person: jerry-ungerman
@@ -52004,7 +52025,7 @@ organizations:
     type: company
     founded: 1935
     headquarters: Zurich, Switzerland
-    status: acquired
+    status: merged
     stakeholders:
     - person: gottlieb-duttweiler
       role: founder
@@ -52326,8 +52347,8 @@ organizations:
     status: active
     stakeholders:
     - person: chen-huagui
-      role: academic
-      note: Director, Professor
+      role: professor
+      note: academic | academic | Director, Professor
   hubert-burda-media:
     tagline: Impero media tedesco della famiglia Burda. 600+ prodotti media, Focus, DLD.
     name: Hubert Burda Media
@@ -52949,10 +52970,10 @@ organizations:
     status: active
     stakeholders:
     - person: martin-nowak
-      role: academic
+      role: professor
       from: 1998
       to: 2003
-      note: Head of Theoretical Biology Initiative
+      note: academic | academic | Head of Theoretical Biology Initiative
   iata:
     tagline: 'L''associazione di categoria dell''aviazione globale: standard-setter, lobby e forum dei CEO delle compagnie
       aeree'
@@ -53422,10 +53443,11 @@ organizations:
       to: 2024
       note: First independent female director
     - person: uhuru-kenyatta
-      role: defendant
+      role: member
       from: 2011
       to: 2014
-      note: Incriminato per crimini contro umanita (violenze post-elettorali 2007-08), accuse ritirate per mancanza prove
+      note: defendant | defendant | Incriminato per crimini contro umanita (violenze post-elettorali 2007-08), accuse ritirate
+        per mancanza prove
     - person: carlos-bulgheroni
       role: board
       note: Executive Board member
@@ -54200,7 +54222,7 @@ organizations:
     type: company
     founded: 1943
     headquarters: Delft, Netherlands
-    status: attiva
+    status: active
     sector: retail-arredamento
     stakeholders:
     - person: ingvar-kamprad
@@ -54402,7 +54424,7 @@ organizations:
     type: media
     founded: 1975
     headquarters: San Francisco, USA
-    status: subsidiary
+    status: active
     stakeholders:
     - org: lucasfilm
       role: owner
@@ -54540,10 +54562,10 @@ organizations:
     tagline: 'Monarchia autocratica filoamericana: modernizzazione forzata, petrolio, SAVAK, e la caduta che genero'' la Repubblica
       Islamica.'
     name: Imperial State of Iran
-    type: government
+    type: empire
     founded: 1925
     headquarters: Tehran
-    status: defunct
+    status: dissolved
     note: Dinastia Pahlavi 1925-1979, rovesciata dalla Rivoluzione Islamica
     stakeholders:
     - person: mohammad-reza-pahlavi
@@ -54597,7 +54619,7 @@ organizations:
     type: company
     founded: 1960
     headquarters: Milan, Italy
-    status: inactive
+    status: defunct
     stakeholders:
     - person: franco-macri
       role: partner
@@ -54765,7 +54787,7 @@ organizations:
     type: media
     founded: 1973
     headquarters: Dublin, Ireland
-    status: acquired
+    status: merged
     stakeholders:
     - person: denis-obrien
       role: board
@@ -55324,7 +55346,7 @@ organizations:
     type: media
     founded: 2010
     headquarters: San Francisco, USA
-    status: acquired
+    status: merged
     sector: social media
     stakeholders:
     - person: mike-krieger
@@ -55405,9 +55427,9 @@ organizations:
       from: 2015
       note: Trustee, Executive Committee
     - person: alondra-nelson
-      role: faculty
+      role: professor
       from: 2019
-      note: Harold F. Linder Chair, School of Social Science
+      note: faculty | faculty | Harold F. Linder Chair, School of Social Science
   institute-economic-affairs:
     tagline: Think tank libertario britannico, incubatore intellettuale del thatcherismo
     name: Institute of Economic Affairs
@@ -55690,7 +55712,7 @@ organizations:
     type: company
     founded: 2019
     headquarters: Athens, Greece
-    status: sanctioned
+    status: active
     note: Spyware Predator. Sanzionata USA 2024. Fondata da ex intelligence israeliana
     stakeholders:
     - person: tal-dilian
@@ -56605,7 +56627,7 @@ organizations:
     type: forum
     founded: 2013
     headquarters: Paris, France
-    status: dormant
+    status: defunct
     stakeholders:
     - person: reza-pahlavi
       role: founder
@@ -56752,9 +56774,10 @@ organizations:
     - person: riccardo-gallo
       role: leader
     - person: enrico-cuccia
-      role: staff
+      role: employee
       from: 1934
       to: 1938
+      note: staff | staff
     - person: gian-maria-gros-pietro
       role: chairman
       from: 1997
@@ -56771,9 +56794,10 @@ organizations:
       to: 1946
       note: Direttore generale
     - person: donato-menichella
-      role: director-general
+      role: executive
       from: 1934
       to: 1943
+      note: director-general | director-general
     - person: john-mccain
       role: chairman
       to: 2018
@@ -57408,8 +57432,8 @@ organizations:
     status: active
     stakeholders:
     - person: alberto-mingardi
-      role: faculty
-      note: Professore Ordinario Storia delle dottrine politiche, Prorettore
+      role: professor
+      note: faculty | faculty | Professore Ordinario Storia delle dottrine politiche, Prorettore
   ium-monaco:
     name: International University of Monaco
     type: university
@@ -58051,10 +58075,10 @@ organizations:
       Brasile, Canada, Palestina. Ramo palestinese → PICA (1924). Continua come ICA in Israele dal 1955.
     stakeholders:
     - person: edmond-james-de-rothschild
-      role: patron
+      role: donor
       from: 1899
       to: 1924
-      note: Trasferì colonie palestinesi + 15M franchi (1899). Riorganizzò ramo palestinese come PICA (1924).
+      note: patron | patron | Trasferì colonie palestinesi + 15M franchi (1899). Riorganizzò ramo palestinese come PICA (1924).
     - person: maurice-de-hirsch
       role: founder
       from: 1891
@@ -58099,9 +58123,9 @@ organizations:
     note: Battaglioni ebraici nel British Army (38th-42nd Royal Fusiliers); successore del Zion Mule Corps
     stakeholders:
     - person: james-armand-de-rothschild
-      role: officer
+      role: official
       from: 1918
-      note: Major, 39th Battalion Royal Fusiliers. Liaison officer Zionist Commission.
+      note: officer | officer | Major, 39th Battalion Royal Fusiliers. Liaison officer Zionist Commission.
     - org: zion-mule-corps
       role: parent
       note: Predecessore diretto; 120 veterani ZMC formarono nucleo della Jewish Legion
@@ -58306,9 +58330,9 @@ organizations:
       from: 2012
       note: Associate Professor of Physics, on leave 2024-25
     - person: anwar-ibrahim
-      role: faculty
+      role: professor
       from: 2005
-      note: Visiting Professor, SAIS
+      note: faculty | faculty | Visiting Professor, SAIS
     - person: john-malone
       role: alumni
       note: MS Industrial Management 1964, PhD Operations Research 1967
@@ -58324,9 +58348,9 @@ organizations:
       role: alumni
       note: MPH 1960
     - person: tom-inglesby
-      role: faculty
+      role: professor
       from: 1997
-      note: Professor Environmental Health & Engineering, Joint Appointment Medicine
+      note: faculty | faculty | Professor Environmental Health & Engineering, Joint Appointment Medicine
     - person: stephen-redd
       role: alumni
       note: Residency Internal Medicine
@@ -58513,8 +58537,8 @@ organizations:
       role: advisor
       note: International Advisory Board
     - person: george-shultz
-      role: advisory
-      note: Chairman, JPMorgan Chase International Advisory Council
+      role: advisor
+      note: advisory | advisory | Chairman, JPMorgan Chase International Advisory Council
     - person: alessandro-nasi
       role: employee
       from: 2000
@@ -59208,9 +59232,9 @@ organizations:
       role: asset
       note: 'CIA report 1963: UC organizzata da Gen. Kim Jong Pil, fondatore KCIA'
     - person: bo-hi-pak
-      role: operative
+      role: asset
       from: 1961
-      note: Military attache ambasciata coreana Washington, liaison KCIA-USA
+      note: operative | operative | Military attache ambasciata coreana Washington, liaison KCIA-USA
     - person: park-chung-hee
       role: founder
       from: 1961
@@ -59221,10 +59245,10 @@ organizations:
       to: 1963
       note: Primo direttore KCIA
     - person: tongsun-park
-      role: operative
+      role: asset
       from: 1970
       to: 1977
-      note: Agente KCIA a Washington, corruzione congressisti USA (Koreagate)
+      note: operative | operative | Agente KCIA a Washington, corruzione congressisti USA (Koreagate)
     - person: kim-hyong-uk
       role: executive
       from: 1963
@@ -59289,7 +59313,7 @@ organizations:
     type: company
     founded: 2023
     headquarters: Chicago, USA
-    status: acquired
+    status: merged
     sector: Snacks/Food
     stakeholders:
     - person: steve-cahillane
@@ -59320,7 +59344,7 @@ organizations:
     type: company
     founded: 1906
     headquarters: Battle Creek, USA
-    status: split
+    status: dissolved
     sector: Food
     stakeholders:
     - person: john-bryant
@@ -59469,7 +59493,7 @@ organizations:
     type: company
     founded: 2001
     headquarters: Mountain View, California, USA
-    status: acquired
+    status: merged
     sector: mapping-software
     note: Acquired by Google 2004, became Google Earth
     stakeholders:
@@ -59979,10 +60003,10 @@ organizations:
       to: 2025
       note: Director, Credit team - restructurings
     - person: charles-korn
-      role: analyst
+      role: employee
       from: 2012
       to: 2014
-      note: PE Associate, Media, Communications & Industrials
+      note: analyst | analyst | PE Associate, Media, Communications & Industrials
     - person: johannes-huth
       role: partner
       to: 2025
@@ -61338,7 +61362,7 @@ organizations:
   lakera:
     name: Lakera
     type: company
-    status: acquired
+    status: merged
     sector: ai-security
     stakeholders:
     - org: check-point
@@ -61948,7 +61972,7 @@ organizations:
     type: agency
     founded: 1919
     headquarters: Geneva, Switzerland
-    status: inactive
+    status: defunct
     stakeholders:
     - person: jean-monnet
       role: executive
@@ -62825,7 +62849,7 @@ organizations:
   lightstep:
     name: LightStep
     type: company
-    status: acquired
+    status: merged
     stakeholders:
     - person: priyanka-sharma
       role: executive
@@ -62963,17 +62987,17 @@ organizations:
     type: company
     founded: 2002
     headquarters: Sunnyvale, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: reid-hoffman
       role: founder
       from: 2002
       note: Co-founder, Executive Chairman
     - person: dylan-field
-      role: intern
+      role: employee
       from: 2010
       to: 2010
-      note: Data analytics intern
+      note: intern | intern | Data analytics intern
     - person: omkhar-arasaratnam
       role: executive
       from: 2024
@@ -63257,7 +63281,7 @@ organizations:
     type: defense
     founded: 1971
     headquarters: Plymouth, Michigan, USA
-    status: subsidiary
+    status: active
     sector: military-vehicles
     stakeholders:
     - org: rheinmetall
@@ -63373,10 +63397,10 @@ organizations:
     status: active
     stakeholders:
     - person: bertrand-russell
-      role: faculty
+      role: professor
       from: 1931
       to: 1950
-      note: Professor of Philosophy
+      note: faculty | faculty | Professor of Philosophy
     - person: chris-nassetta
       role: alumni
       note: International Finance coursework
@@ -63403,7 +63427,7 @@ organizations:
     name: Lonmin
     type: company
     headquarters: London, UK
-    status: acquired
+    status: merged
     sector: mining
     stakeholders:
     - person: cyril-ramaphosa
@@ -63502,10 +63526,10 @@ organizations:
     status: active
     stakeholders:
     - person: seth-lloyd
-      role: researcher
+      role: professor
       from: 1991
       to: 1994
-      note: Postdoc, quantum computation
+      note: researcher | researcher | Postdoc, quantum computation
   los-angeles-clippers:
     name: Los Angeles Clippers
     type: sportsclub
@@ -63538,7 +63562,7 @@ organizations:
     type: company
     founded: 1982
     headquarters: Cambridge, USA
-    status: acquired
+    status: merged
     sector: software
     stakeholders:
     - person: ray-ozzie
@@ -63678,15 +63702,15 @@ organizations:
       role: alumni
       note: International Relations 1973-75
     - person: friedrich-hayek
-      role: academic
+      role: professor
       from: 1931
       to: 1950
-      note: Tooke Professor of Economic Science and Statistics
+      note: academic | academic | Tooke Professor of Economic Science and Statistics
     - person: karl-popper
-      role: academic
+      role: professor
       from: 1946
       to: 1969
-      note: Professor of Logic and Scientific Method
+      note: academic | academic | Professor of Logic and Scientific Method
     - person: valeria-gontareva
       role: member
       from: 2018
@@ -63778,7 +63802,7 @@ organizations:
     type: media
     founded: 1971
     headquarters: San Francisco, USA
-    status: subsidiary
+    status: active
     stakeholders:
     - person: ed-catmull
       role: executive
@@ -63957,9 +63981,9 @@ organizations:
       role: alumni
       note: Laurea Economia e Commercio 1994
     - person: antonio-martino
-      role: faculty
+      role: professor
       from: 1992
-      note: Professore di Economia, Facolta di Scienze Politiche
+      note: faculty | faculty | Professore di Economia, Facolta di Scienze Politiche
   lulu-press:
     name: Lulu Press (Lulu.com)
     type: company
@@ -64129,7 +64153,7 @@ organizations:
     type: company
     founded: 1994
     headquarters: Waltham, Massachusetts, USA
-    status: acquired
+    status: merged
     sector: technology
     stakeholders:
     - person: edward-philip
@@ -64414,7 +64438,7 @@ organizations:
     type: company
     founded: 1992
     headquarters: San Francisco, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: tim-oreilly
       role: board
@@ -65237,7 +65261,7 @@ organizations:
     type: foundation
     founded: 1994
     headquarters: Gland, Switzerland
-    status: closed
+    status: defunct
     note: Chiusa nel 2022 dopo aver distribuito 700M CHF per conservazione
     stakeholders:
     - person: andre-hoffmann
@@ -65474,10 +65498,10 @@ organizations:
       role: alumni
       note: BA 1949, BCL 1952
     - person: tim-evans
-      role: faculty
+      role: professor
       from: 2019
       to: 2024
-      note: Inaugural Director School of Population and Global Health
+      note: faculty | faculty | Inaugural Director School of Population and Global Health
     - person: victor-dzau
       role: alumni
       note: BSc Biology, MD 1972
@@ -65656,13 +65680,14 @@ organizations:
       to: 1996
       note: Management Consultant
     - person: raj-ganguly
-      role: consultant
+      role: advisor
+      note: consultant | consultant
     - person: magnus-grimeland
       role: partner
       note: Junior Partner, Telco/Media/Tech, 6 years
     - person: peter-jackson
-      role: consultant
-      note: Early career, 3 years
+      role: advisor
+      note: consultant | consultant | Early career, 3 years
     - person: antonoaldo-neves
       role: partner
       from: 2000
@@ -65694,8 +65719,8 @@ organizations:
       to: 1999
       note: Senior Partner, Financial Services Practice
     - person: ravi-ahuja
-      role: consultant
-      note: Pre-1999
+      role: advisor
+      note: consultant | consultant | Pre-1999
     - person: joachim-oechslin
       role: member
       from: 1998
@@ -65799,7 +65824,7 @@ organizations:
     name: Media Group Ukraine
     type: media
     headquarters: Kyiv, Ukraine
-    status: inactive
+    status: defunct
     stakeholders:
     - person: rinat-akhmetov
       role: founder
@@ -65897,9 +65922,10 @@ organizations:
       to: 2000
       note: Presidente onorario
     - person: enrico-cuccia
-      role: director-general
+      role: executive
       from: 1946
       to: 1982
+      note: director-general | director-general
     - person: raffaele-mattioli
       role: founder
       from: 1946
@@ -66694,8 +66720,8 @@ organizations:
       to: 2023
       note: Research Scientist
     - person: denis-yarats
-      role: researcher
-      note: Facebook AI Research (FAIR)
+      role: professor
+      note: researcher | researcher | Facebook AI Research (FAIR)
     - person: adam-dangelo
       role: executive
       from: 2006
@@ -66973,10 +66999,10 @@ organizations:
     status: active
     stakeholders:
     - person: victor-rothschild
-      role: officer
+      role: official
       from: 1939
       to: 1945
-      note: Head of B1C counter-sabotage section, George Medal 1944
+      note: officer | officer | Head of B1C counter-sabotage section, George Medal 1944
     - person: benito-mussolini
       role: official
       from: 1917
@@ -66988,10 +67014,10 @@ organizations:
       to: 1918
       note: Capo stazione Roma, 100 agenti
     - person: samuel-hoare
-      role: station-chief
+      role: asset
       from: 1917
       to: 1918
-      note: Capo MI5 Roma
+      note: station-chief | station-chief | Capo MI5 Roma
     - person: jonathan-evans
       role: executive
       note: Director General
@@ -67060,10 +67086,10 @@ organizations:
       to: 1995
       note: Founded counter-terrorism branch, Head of Station Berlin
     - person: wilhelm-canaris
-      role: agent
+      role: asset
       from: 1939
       to: 1944
-      note: Canale segreto verso MI6 via Szymańska e canali vaticani
+      note: agent | agent | Canale segreto verso MI6 via Szymańska e canali vaticani
     - person: frederick-vanden-heuvel
       role: executive
       from: 1940
@@ -67072,10 +67098,10 @@ organizations:
       role: member
       note: Agent "The Griffin", run by Frank Foley in Berlin during WWII
     - person: halina-szymanska
-      role: agent
+      role: asset
       from: 1940
       to: 1945
-      note: Agente in Svizzera, intermediaria Canaris-Alleati
+      note: agent | agent | Agente in Svizzera, intermediaria Canaris-Alleati
     - person: stewart-menzies
       role: leader
       from: 1939
@@ -67214,10 +67240,10 @@ organizations:
     status: active
     stakeholders:
     - person: francis-collins
-      role: academic
+      role: professor
       from: 1984
       to: 1993
-      note: Professor of Internal Medicine and Human Genetics
+      note: academic | academic | Professor of Internal Medicine and Human Genetics
     - person: rajeev-venkayya
       role: alumni
       note: Internal Medicine Residency, Chief Medical Resident
@@ -67386,14 +67412,14 @@ organizations:
       from: 2007
       to: 2012
     - person: ami-vora
-      role: engineer
-      note: Developer tools
+      role: employee
+      note: engineer | engineer | Developer tools
     - person: rahul-patil
-      role: engineer
-      note: Azure
+      role: employee
+      note: engineer | engineer | Azure
     - person: dylan-field
-      role: intern
-      note: Research assistant while at Brown
+      role: employee
+      note: intern | intern | Research assistant while at Brown
     - person: adam-back
       role: executive
       note: Security architect
@@ -67672,7 +67698,7 @@ organizations:
     type: company
     founded: 1990
     headquarters: Luxembourg
-    status: attiva
+    status: active
     sector: telecomunicazioni
     stakeholders:
     - person: cristina-stenbeck
@@ -67805,7 +67831,8 @@ organizations:
     status: active
     stakeholders:
     - person: ben-mann
-      role: researcher
+      role: professor
+      note: researcher | researcher
     - person: christine-peterson
       role: advisor
     - person: ben-goertzel
@@ -67906,12 +67933,13 @@ organizations:
     sector: ai
     stakeholders:
     - person: xavier-niel
-      role: investor
+      role: shareholder
       from: 2023
-      note: Angel investor seed round
+      note: investor | investor | Angel investor seed round
     - person: eric-schmidt
-      role: investor
+      role: shareholder
       from: 2023
+      note: investor | investor
     - person: arthur-mensch
       role: founder
       from: 2023
@@ -67971,10 +67999,10 @@ organizations:
       to: 1949
       note: PhD Industrial Economics 1949
     - person: george-shultz
-      role: faculty
+      role: professor
       from: 1948
       to: 1957
-      note: Professor of Industrial Relations
+      note: faculty | faculty | Professor of Industrial Relations
     - person: andrew-ng
       role: alumni
       note: MS Electrical Engineering and Computer Science 1998
@@ -68068,16 +68096,16 @@ organizations:
       role: alumni
       note: MArch Architecture 1966; Faculty 1966-present; founded Architecture Machine Group 1967
     - person: seth-lloyd
-      role: academic
+      role: professor
       from: 1994
-      note: Nam P. Suh Professor of Mechanical Engineering
+      note: academic | academic | Nam P. Suh Professor of Mechanical Engineering
     - person: mitch-kapor
       role: alumni
       note: MS Sloan School 2025 (attended 1970s, completed 2025)
     - person: richard-stallman
-      role: researcher
+      role: professor
       from: 1971
-      note: AI Laboratory, visiting scientist
+      note: researcher | researcher | AI Laboratory, visiting scientist
     - person: mitchell-baker
       role: advisor
       note: Advisory Board, Initiative on the Digital Economy
@@ -68106,28 +68134,28 @@ organizations:
       role: member
       note: Institute Professor, CSAIL
     - person: hal-abelson
-      role: faculty
+      role: professor
       from: 1973
-      note: Class of 1922 Professor of EECS; PhD Mathematics 1973
+      note: faculty | faculty | Class of 1922 Professor of EECS; PhD Mathematics 1973
     - person: gary-gensler
-      role: academic
+      role: professor
       from: 2018
       to: 2021
-      note: Professor of Practice Global Economics, MIT Sloan; Co-Director Fintech@CSAIL; Senior Advisor MIT Media Lab Digital
-        Currency Initiative
+      note: academic | academic | Professor of Practice Global Economics, MIT Sloan; Co-Director Fintech@CSAIL; Senior Advisor
+        MIT Media Lab Digital Currency Initiative
     - person: madars-virza
       role: alumni
       note: 'SM 2014, PhD Computer Science 2017. Sprowls Award Best PhD Thesis. Advisor: Ron Rivest'
     - person: marvin-minsky
-      role: academic
+      role: professor
       from: 1957
       to: 2016
-      note: Co-founded AI Lab 1959. Donner Professor 1974.
+      note: academic | academic | Co-founded AI Lab 1959. Donner Professor 1974.
     - person: steven-pinker
-      role: faculty
+      role: professor
       from: 1982
       to: 2003
-      note: Professor, co-director Center for Cognitive Science, director McDonnell-Pew Center
+      note: faculty | faculty | Professor, co-director Center for Cognitive Science, director McDonnell-Pew Center
     - person: ngozi-okonjo-iweala
       role: alumni
       note: MCP 1978, PhD Regional Economics and Development 1981
@@ -68223,13 +68251,13 @@ organizations:
       role: member
       note: Research Scientist, Digital Currency Initiative & Ethics of AI Initiative
     - person: joscha-bach
-      role: academic
-      note: Research scientist
+      role: professor
+      note: academic | academic | Research scientist
     - person: marvin-minsky
-      role: academic
+      role: professor
       from: 1990
       to: 2016
-      note: Toshiba Professor of Media Arts and Sciences
+      note: academic | academic | Toshiba Professor of Media Arts and Sciences
     - person: james-pallotta
       role: advisor
       note: Advisory Council; $1M to Ethics & Governance of AI Fund 2017
@@ -68767,7 +68795,7 @@ organizations:
     type: company
     founded: 1983
     headquarters: Cambridge, USA
-    status: acquired
+    status: merged
     note: Strategy consulting, acquired by Deloitte 2013
     stakeholders:
     - person: olivia-leland
@@ -69083,8 +69111,8 @@ organizations:
       role: executive
       note: Management position, Eastern Europe focus
     - person: amrita-ahuja
-      role: analyst
-      note: Investment Banking Analyst
+      role: employee
+      note: analyst | analyst | Investment Banking Analyst
     - org: norges-bank-gpfg
       role: stake
     - org: cfr
@@ -69171,8 +69199,8 @@ organizations:
     status: dissolved
     stakeholders:
     - person: salman-bin-abdulaziz
-      role: client
-      note: Safason Corp SPF (Lussemburgo), Verse Development Corp e Inrow Corp (BVI)
+      role: member
+      note: client | client | Safason Corp SPF (Lussemburgo), Verse Development Corp e Inrow Corp (BVI)
     - person: jurgen-mossack
       role: founder
       from: 1977
@@ -69182,11 +69210,11 @@ organizations:
       from: 1977
       to: 2018
     - person: mauricio-macri
-      role: client
-      note: Fleg Trading Ltd (Bahamas)
+      role: member
+      note: client | client | Fleg Trading Ltd (Bahamas)
     - person: franco-macri
-      role: client
-      note: Fleg Trading Ltd (Bahamas), Kagemusha SA (Panama)
+      role: member
+      note: client | client | Fleg Trading Ltd (Bahamas), Kagemusha SA (Panama)
     - org: hsbc
       role: client
       note: 2300+ shell companies, accordo special treatment dal 2010
@@ -69342,12 +69370,12 @@ organizations:
       role: member
       note: Former operative
     - person: mordechai-vanunu
-      role: target
+      role: member
       from: 1986
-      note: Kidnapped in Rome via honeytrap (Cheryl Bentov), drugged and smuggled to Israel
+      note: target | target | Kidnapped in Rome via honeytrap (Cheryl Bentov), drugged and smuggled to Israel
     - person: yoni-koren
-      role: officer
-      note: Covert operations
+      role: official
+      note: officer | officer | Covert operations
     - org: cia
       role: partner
       from: 1951
@@ -69847,7 +69875,7 @@ organizations:
     name: MuleSoft
     type: company
     headquarters: San Francisco, USA
-    status: acquired
+    status: merged
     stakeholders:
     - org: salesforce
       role: owner
@@ -70883,10 +70911,10 @@ organizations:
       to: 2008
       note: US Ambassador to NATO (first woman)
     - person: hakan-fidan
-      role: staff
+      role: employee
       from: 1986
       to: 2001
-      note: NCO, Allied Rapid Reaction Corps (Germany)
+      note: staff | staff | NCO, Allied Rapid Reaction Corps (Germany)
     - person: james-stavridis
       role: official
       from: 2009
@@ -70903,10 +70931,10 @@ organizations:
       to: 2017
       note: Commander Allied Joint Force Command Naples
     - person: vitaly-churkin
-      role: ambassador
+      role: diplomat
       from: 1994
       to: 1998
-      note: Liaison Ambassador (while Amb. to Belgium)
+      note: ambassador | ambassador | Liaison Ambassador (while Amb. to Belgium)
     - person: giulio-andreotti
       role: member
       from: 1959
@@ -70920,10 +70948,10 @@ organizations:
       from: 1949
       note: Firmò il Trattato Nord Atlantico (4 apr 1949)
     - person: david-kennedy
-      role: ambassador
+      role: diplomat
       from: 1972
       to: 1973
-      note: US Ambassador to NATO
+      note: ambassador | ambassador | US Ambassador to NATO
     - org: governo-lituania
       role: member
       from: 2004
@@ -73375,10 +73403,10 @@ organizations:
     type: university
     stakeholders:
     - person: michele-geraci
-      role: faculty
+      role: professor
       from: 2008
       to: 2018
-      note: Assistant Professor of Finance, poi Visiting Professor dal 2020
+      note: faculty | faculty | Assistant Professor of Finance, poi Visiting Professor dal 2020
   novalpina-capital:
     name: Novalpina Capital
     type: privateequity
@@ -73736,7 +73764,7 @@ organizations:
     type: agency
     founded: 2018
     headquarters: Washington DC, USA
-    status: disbanded
+    status: dissolved
     stakeholders:
     - person: jason-matheny
       role: member
@@ -73768,9 +73796,10 @@ organizations:
       to: 2021
       note: Commissioner
     - person: robert-work
-      role: vice-chairman
+      role: chairman
       from: 2018
       to: 2021
+      note: vice-chairman | vice-chairman
     - person: eric-horvitz
       role: member
       from: 2018
@@ -74256,8 +74285,8 @@ organizations:
       role: alumni
       note: Joint MBA/MA Business Administration and French Political and Social Studies (Stern/Institute of French Studies)
     - person: philip-k-ryan
-      role: faculty
-      note: Adjunct Professor of Finance / Executive in Residence, Stern School of Business
+      role: professor
+      note: faculty | faculty | Adjunct Professor of Finance / Executive in Residence, Stern School of Business
     - person: zalman-bernstein
       role: alumni
       note: BA Economics, BA Accounting
@@ -74292,18 +74321,18 @@ organizations:
       role: alumni
       note: MS Cybersecurity Risk & Strategy 2020
     - person: ludwig-von-mises
-      role: academic
+      role: professor
       from: 1945
       to: 1969
-      note: Visiting Professor of Economics
+      note: academic | academic | Visiting Professor of Economics
     - person: israel-kirzner
       role: alumni
       note: 'MBA 1955; PhD Economics 1957 (supervisor: Ludwig von Mises)'
     - person: israel-kirzner
-      role: academic
+      role: professor
       from: 1957
       to: 2001
-      note: Professor of Economics; fondatore programma Austrian Economics 1976
+      note: academic | academic | Professor of Economics; fondatore programma Austrian Economics 1976
     - person: aviem-sella
       role: alumni
       note: MA Computer Science (1983-84)
@@ -74327,9 +74356,9 @@ organizations:
     type: university
     stakeholders:
     - person: michele-geraci
-      role: faculty
+      role: professor
       from: 2008
-      note: Adjunct Professor of Finance
+      note: faculty | faculty | Adjunct Professor of Finance
   nyu-stern:
     name: NYU Stern School of Business
     type: university
@@ -74883,7 +74912,7 @@ organizations:
     name: Olivetti
     type: company
     headquarters: Ivrea, Italy
-    status: inactive
+    status: defunct
     sector: technology
     stakeholders:
     - person: carlo-de-benedetti
@@ -74970,7 +74999,7 @@ organizations:
     type: hedgefund
     founded: 1991
     headquarters: New York, USA
-    status: closed
+    status: defunct
     stakeholders:
     - person: david-fiszel
       role: executive
@@ -75342,10 +75371,10 @@ organizations:
       note: UNDP ASG, UNICEF Regional Dir, Special Coordinator Lebanon/Syria, Gaza Coordinator, Middle East Peace Process
         Coordinator
     - person: eric-goosby
-      role: envoy
+      role: diplomat
       from: 2015
       to: 2018
-      note: UN Special Envoy on Tuberculosis
+      note: envoy | envoy | UN Special Envoy on Tuberculosis
     - person: ban-ki-moon
       role: leader
       from: 2007
@@ -75357,10 +75386,10 @@ organizations:
       to: 2024
       note: Permanent Representative of China; President Security Council (2020, 2021, 2022, 2023)
     - person: vitaly-churkin
-      role: ambassador
+      role: diplomat
       from: 2006
       to: 2017
-      note: Permanent Representative of Russia
+      note: ambassador | ambassador | Permanent Representative of Russia
     - person: miroslav-lajcak
       role: leader
       from: 2017
@@ -75474,7 +75503,7 @@ organizations:
     type: foundation
     founded: 2001
     headquarters: London, UK
-    status: banned
+    status: defunct
     note: Founded by Khodorkovsky. Banned in Russia 2017. Ceased Russian ops 2021.
     stakeholders:
     - person: mikhail-khodorkovsky
@@ -75740,8 +75769,8 @@ organizations:
       to: 2020
       note: Policy Director
     - person: aravind-srinivas
-      role: researcher
-      note: Research intern during PhD
+      role: professor
+      note: researcher | researcher | Research intern during PhD
     - person: adam-dangelo
       role: board
       from: 2018
@@ -75763,15 +75792,15 @@ organizations:
       from: 2024
       note: Safety and Security Committee
     - person: igor-babuschkin
-      role: researcher
+      role: professor
       from: 2020
       to: 2023
-      note: Research Engineer, GPT-4 development
+      note: researcher | researcher | Research Engineer, GPT-4 development
     - person: ben-mann
-      role: researcher
+      role: professor
       from: 2016
       to: 2020
-      note: GPT-3 co-architect
+      note: researcher | researcher | GPT-3 co-architect
     - org: microsoft
       role: investor
       share: 27
@@ -76147,7 +76176,7 @@ organizations:
     name: Optrotech (Orbotech)
     type: company
     headquarters: Israel
-    status: acquired
+    status: merged
     sector: technology
     stakeholders:
     - person: marius-nacht
@@ -76297,7 +76326,7 @@ organizations:
     tagline: Ordine cavalleresco sovrano millenario, soggetto di diritto internazionale, 13.500 cavalieri, relazioni diplomatiche
       con 112 paesi
     name: Sovrano Militare Ordine di Malta
-    type: foundation
+    type: militaryorder
     founded: 1099
     headquarters: Roma, Italy
     status: active
@@ -76324,7 +76353,7 @@ organizations:
   ordine-santi-maurizio-lazzaro:
     tagline: Ordine cavalleresco dinastico di Casa Savoia, nato dalla fusione degli ordini di San Maurizio e San Lazzaro
     name: Ordine dei Santi Maurizio e Lazzaro
-    type: foundation
+    type: religiousorder
     founded: 1572
     headquarters: Torino, Italia
     status: active
@@ -76492,10 +76521,10 @@ organizations:
       to: 2019
       note: Chairperson-in-Office
     - person: jim-gilmore
-      role: ambassador
+      role: diplomat
       from: 2019
       to: 2021
-      note: U.S. Ambassador to the OSCE
+      note: ambassador | ambassador | U.S. Ambassador to the OSCE
   oslo-freedom-forum:
     tagline: Forum annuale su diritti umani e democrazia
     name: Oslo Freedom Forum
@@ -76591,15 +76620,15 @@ organizations:
       to: 1945
       note: Operation Sunrise negotiator, traded surrender for immunity
     - person: halina-szymanska
-      role: agent
+      role: asset
       from: 1942
       to: 1945
-      note: Fonte per Allen Dulles a Berna
+      note: agent | agent | Fonte per Allen Dulles a Berna
     - person: hans-bernd-gisevius
-      role: agent
+      role: asset
       from: 1943
       to: 1945
-      note: Fonte per Dulles a Berna
+      note: agent | agent | Fonte per Dulles a Berna
     - person: frank-gigliotti
       role: advisor
       from: 1941
@@ -76659,7 +76688,7 @@ organizations:
     type: company
     founded: 1904
     headquarters: Cologne, Germany
-    status: acquired
+    status: merged
     sector: steel
     stakeholders:
     - person: otto-wolff-von-amerongen
@@ -76848,8 +76877,8 @@ organizations:
       role: alumni
       note: MPhil International Relations 1987, St Antony College
     - person: anwar-ibrahim
-      role: faculty
-      note: Honorary Fellow, St Anthonys College
+      role: professor
+      note: faculty | faculty | Honorary Fellow, St Anthonys College
     - person: walter-isaacson
       role: alumni
       note: PPE First Class Honours, Rhodes Scholar, Pembroke College
@@ -76917,20 +76946,20 @@ organizations:
       role: alumni
       note: DPhil (Oxford Internet Institute)
     - person: nick-bostrom
-      role: academic
+      role: professor
       from: 2002
       to: 2024
-      note: Professor of Philosophy, Founding Director Future of Humanity Institute (2005-2024)
+      note: academic | academic | Professor of Philosophy, Founding Director Future of Humanity Institute (2005-2024)
     - person: martin-nowak
-      role: academic
+      role: professor
       from: 1989
       to: 1998
-      note: Erwin Schrödinger Postdoc, then Professor of Mathematical Biology (1997)
+      note: academic | academic | Erwin Schrödinger Postdoc, then Professor of Mathematical Biology (1997)
     - person: richard-dawkins
-      role: faculty
+      role: professor
       from: 1970
-      note: BA Zoology 1962 (Balliol College), DPhil 1966 (under Tinbergen); Simonyi Professor for Public Understanding of
-        Science 1995-2008; Emeritus Fellow New College
+      note: faculty | faculty | BA Zoology 1962 (Balliol College), DPhil 1966 (under Tinbergen); Simonyi Professor for Public
+        Understanding of Science 1995-2008; Emeritus Fellow New College
     - person: daniel-dennett
       role: alumni
       note: DPhil Philosophy 1965, Hertford College, under Gilbert Ryle
@@ -76962,10 +76991,10 @@ organizations:
       role: alumni
       note: DPhil 1989
     - person: niall-ferguson
-      role: academic
+      role: professor
       from: 1992
       to: 2002
-      note: Fellow and Tutor, Jesus College; Professor of Political and Financial History from 2000
+      note: academic | academic | Fellow and Tutor, Jesus College; Professor of Political and Financial History from 2000
     - person: cory-booker
       role: alumni
       note: Rhodes Scholar, Queens College, History 1994
@@ -77042,9 +77071,10 @@ organizations:
       to: 1981
       note: Venerable Master
     - person: michele-sindona
-      role: treasurer
+      role: executive
       from: 1970
       to: 1981
+      note: treasurer | treasurer
     - person: roberto-calvi
       role: member
       from: 1975
@@ -77177,9 +77207,9 @@ organizations:
       role: executive
       note: Among first 12 employees DC office, headed business operations
     - person: patri-friedman
-      role: investor
+      role: shareholder
       from: 2009
-      note: Angel investment pre-IPO (IPO 2020)
+      note: investor | investor | Angel investment pre-IPO (IPO 2020)
     - org: founders-fund
       role: investor
       note: Primo investitore, 18.5x return, $3.1B distribuiti
@@ -77946,9 +77976,10 @@ organizations:
     founded: 1921
     stakeholders:
     - person: palmiro-togliatti
-      role: secretary
+      role: official
       from: 1927
       to: 1964
+      note: secretary | secretary
     - person: loris-nelson-ricci
       role: member
       note: Segretario PCI Aulla, consigliere comunale
@@ -78135,9 +78166,9 @@ organizations:
       role: alumni
       note: Exchange year during UC Berkeley
     - person: michele-geraci
-      role: faculty
+      role: professor
       from: 2019
-      note: Honorary Professor, School of Economics
+      note: faculty | faculty | Honorary Professor, School of Economics
     - person: hu-chunhua
       role: alumni
       note: BA Chinese Literature 1983
@@ -78447,8 +78478,9 @@ organizations:
     sector: ai
     stakeholders:
     - person: jeff-bezos
-      role: investor
+      role: shareholder
       from: 2024
+      note: investor | investor
     - person: aravind-srinivas
       role: founder
       from: 2022
@@ -78686,7 +78718,7 @@ organizations:
     type: company
     founded: 1946
     headquarters: Buenos Aires, Argentina
-    status: acquired
+    status: merged
     sector: energy
     stakeholders:
     - person: gregorio-perez-companc
@@ -78814,7 +78846,7 @@ organizations:
     type: company
     founded: 1996
     headquarters: Palo Alto, USA
-    status: acquired
+    status: merged
     note: Acquired by Symantec 2010
     stakeholders:
     - person: hal-finney
@@ -79699,9 +79731,9 @@ organizations:
       from: 1997
       note: Co-founder e Chairman
     - person: robert-kagan
-      role: co-founder
+      role: founder
       from: 1997
-      note: Co-founder e Chairman
+      note: co-founder | co-founder | Co-founder e Chairman
     - person: elliott-abrams
       role: founder
       from: 1997
@@ -79761,21 +79793,25 @@ organizations:
       from: 1921
       to: 1943
     - person: amerigo-dumini
-      role: squadrista
+      role: military
       from: 1919
       to: 1924
+      note: squadrista | squadrista
     - person: cesare-rossi
-      role: capo-ufficio-stampa
+      role: journalist
       from: 1922
       to: 1924
+      note: capo-ufficio-stampa | capo-ufficio-stampa
     - person: emilio-de-bono
-      role: quadrumviro
+      role: leader
       from: 1922
       to: 1943
+      note: quadrumviro | quadrumviro
     - person: giovanni-marinelli
-      role: secretary-admin
+      role: official
       from: 1922
       to: 1943
+      note: secretary-admin | secretary-admin
   pnl-romania:
     name: Partito Nazionale Liberale (Romania)
     type: government
@@ -79906,7 +79942,7 @@ organizations:
   pointsec:
     name: PointSec Mobile Technologies
     type: company
-    status: acquired
+    status: merged
     sector: mobile-security
     stakeholders:
     - org: check-point
@@ -80028,9 +80064,10 @@ organizations:
       from: 1914
       to: 1943
     - person: filippo-filippelli
-      role: staff
+      role: employee
       from: 1914
       to: 1923
+      note: staff | staff
   population-council:
     name: Population Council
     type: foundation
@@ -80443,9 +80480,9 @@ organizations:
       role: alumni
       note: PhD Electrical Engineering 1969
     - person: brian-kernighan
-      role: faculty
+      role: professor
       from: 2000
-      note: Professor of Computer Science
+      note: faculty | faculty | Professor of Computer Science
     - person: hal-abelson
       role: alumni
       note: BA Mathematics 1969
@@ -80627,11 +80664,12 @@ organizations:
     status: active
     stakeholders:
     - person: peter-thiel
-      role: investor
-      note: Backer di Próspera charter city Honduras
+      role: shareholder
+      note: investor | investor | Backer di Próspera charter city Honduras
     - person: marc-andreessen
-      role: investor
+      role: shareholder
       from: 2019
+      note: investor | investor
     - person: patri-friedman
       role: founder
       from: 2019
@@ -81455,9 +81493,9 @@ organizations:
     status: active
     stakeholders:
     - person: peter-thiel
-      role: investor
+      role: shareholder
       from: 2025
-      note: Series C Nov 2025, via Founders Fund
+      note: investor | investor | Series C Nov 2025, via Founders Fund
   quds-force:
     name: Quds Force
     type: agency
@@ -82402,7 +82440,7 @@ organizations:
     type: company
     founded: 1993
     headquarters: Raleigh, USA
-    status: acquired
+    status: merged
     sector: technology
     stakeholders:
     - person: james-whitehurst
@@ -82445,7 +82483,7 @@ organizations:
     type: company
     founded: 1968
     headquarters: Orlando, Florida, USA
-    status: crisis
+    status: active
     sector: restaurant
     stakeholders:
     - org: golden-gate-capital
@@ -82912,10 +82950,10 @@ organizations:
   repubblica-genova:
     tagline: Repubblica oligarchica marinara, potenza navale e finanziaria mediterranea 1005-1797, culla del capitalismo bancario
     name: Repubblica di Genova
-    type: government
+    type: citystate
     founded: 1005
     headquarters: Genova
-    status: defunct
+    status: conquered
     stakeholders:
     - person: andrea-doria
       role: leader
@@ -83245,7 +83283,7 @@ organizations:
     type: hedgefund
     founded: 2004
     headquarters: New York, USA
-    status: closed
+    status: defunct
     stakeholders:
     - person: david-fiszel
       role: founder
@@ -83350,7 +83388,7 @@ organizations:
     type: centralbank
     founded: 1668
     headquarters: Stockholm, Sweden
-    status: attiva
+    status: active
     stakeholders:
     - person: erik-thedeen
       role: executive
@@ -83475,8 +83513,8 @@ organizations:
     status: active
     stakeholders:
     - person: peter-thiel
-      role: investor
-      note: Key backer alongside unnamed sovereign fund
+      role: shareholder
+      note: investor | investor | Key backer alongside unnamed sovereign fund
     - person: declan-ganley
       role: founder
       from: 2004
@@ -83590,10 +83628,10 @@ organizations:
     status: active
     stakeholders:
     - person: chikwe-ihekweazu
-      role: staff
+      role: employee
       from: 2001
       to: 2003
-      note: Medical Epidemiologist
+      note: staff | staff | Medical Epidemiologist
   robin-hood-foundation:
     tagline: La piu' grande fondazione anti-poverta' di NYC, fondata e dominata da hedge fund managers — co-fondata da Glenn
       Dubin (connessione indiretta Epstein) e Paul Tudor Jones
@@ -84188,7 +84226,7 @@ organizations:
     name: Rossiysky Kredit
     type: bank
     headquarters: Moscow, Russia
-    status: inactive
+    status: defunct
     stakeholders:
     - person: bidzina-ivanishvili
       role: founder
@@ -84666,9 +84704,10 @@ organizations:
       from: 1943
       to: 1945
     - person: angelo-tarchi
-      role: economy-minister
+      role: minister
       from: 1943
       to: 1945
+      note: economy-minister | economy-minister
   rt:
     name: RT (Russia Today)
     type: media
@@ -84780,8 +84819,8 @@ organizations:
     sector: metals
     stakeholders:
     - person: nat-rothschild
-      role: investor
-      note: Investitore via NR Investments, legame con Deripaska
+      role: shareholder
+      note: investor | investor | Investitore via NR Investments, legame con Deripaska
     - person: matthias-warnig
       role: board
       from: 2012
@@ -85255,7 +85294,7 @@ organizations:
     type: company
     founded: 2006
     headquarters: Limassol, Cyprus
-    status: acquired
+    status: merged
     stakeholders:
     - person: teddy-sagi
       role: founder
@@ -85554,7 +85593,7 @@ organizations:
     name: SaltStack
     type: company
     headquarters: Lehi, USA
-    status: acquired
+    status: merged
     sector: software
     stakeholders:
     - person: aaron-frost
@@ -85858,9 +85897,9 @@ organizations:
     status: active
     stakeholders:
     - person: robert-glass
-      role: scientist
+      role: professor
       from: 1980
-      note: Senior Scientist; Leader CASoS Engineering Initiative; NISAC 2003
+      note: scientist | scientist | Senior Scientist; Leader CASoS Engineering Initiative; NISAC 2003
   sandvik:
     name: Sandvik AB
     type: company
@@ -86023,10 +86062,10 @@ organizations:
       role: alumni
       note: Laurea Economia, MBA
     - person: enrico-fermi
-      role: faculty
+      role: professor
       from: 1927
       to: 1938
-      note: Professore di Fisica Teorica; Via Panisperna boys
+      note: faculty | faculty | Professore di Fisica Teorica; Via Panisperna boys
     - person: laura-capon
       role: alumni
       note: Scienze generali; conobbe Enrico Fermi
@@ -87014,7 +87053,7 @@ organizations:
     type: pharma
     founded: 1888
     headquarters: Skokie, Illinois, USA
-    status: acquired
+    status: merged
     note: Acquired by Monsanto 1985
     stakeholders:
     - person: donald-rumsfeld
@@ -87056,9 +87095,9 @@ organizations:
     status: active
     stakeholders:
     - person: peter-thiel
-      role: investor
+      role: shareholder
       from: 2008
-      note: Seed $500K
+      note: investor | investor | Seed $500K
     - person: patri-friedman
       role: founder
       from: 2008
@@ -87452,7 +87491,7 @@ organizations:
   serena-software:
     name: Serena Software
     type: company
-    status: acquired
+    status: merged
     sector: software
     stakeholders:
     - person: jerry-ungerman
@@ -87910,9 +87949,10 @@ organizations:
       to: 1952
       note: Fondatore e primo direttore
     - person: michael-harari
-      role: operative
+      role: asset
       from: 1950
       to: 1963
+      note: operative | operative
     - person: rafi-eitan
       role: executive
       from: 1951
@@ -87925,7 +87965,7 @@ organizations:
     type: company
     founded: 1983
     headquarters: Bangkok, Thailand
-    status: rebranded
+    status: merged
     sector: telecommunications conglomerate
     stakeholders:
     - person: thaksin-shinawatra
@@ -88148,9 +88188,9 @@ organizations:
       to: 2021
       note: CEO
     - person: karl-ludwig-kley
-      role: trainee
+      role: employee
       to: 1974
-      note: Industrial business apprentice
+      note: trainee | trainee | Industrial business apprentice
     - person: rolf-breuer
       role: board
       from: 2001
@@ -88320,10 +88360,10 @@ organizations:
       from: 2021
       note: Managing Director
     - person: feroz-dewan
-      role: analyst
+      role: employee
       from: 2002
       to: 2003
-      note: Private Equity Associate, technology focus
+      note: analyst | analyst | Private Equity Associate, technology focus
     - org: mubadala
       role: investor
       note: Minority equity stake
@@ -88625,7 +88665,7 @@ organizations:
     name: Six Apart
     type: company
     headquarters: San Francisco, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: anil-dash
       role: executive
@@ -88999,7 +89039,7 @@ organizations:
     type: media
     founded: 1975
     headquarters: Marin County, USA
-    status: subsidiary
+    status: active
     stakeholders:
     - org: lucasfilm
       role: owner
@@ -89009,7 +89049,7 @@ organizations:
   slack:
     name: Slack Technologies
     type: company
-    status: acquired
+    status: merged
     stakeholders:
     - person: edith-cooper
       role: board
@@ -89056,9 +89096,9 @@ organizations:
     status: active
     stakeholders:
     - person: richard-hatchett
-      role: physician
+      role: professor
       from: 2001
-      note: Attending Physician, Urgent Care Center
+      note: physician | physician | Attending Physician, Urgent Care Center
   smart-holding:
     tagline: Holding industriale ucraina di Vadym Novynskyi
     name: Smart-Holding
@@ -89161,7 +89201,7 @@ organizations:
     name: Snaitech SpA
     type: company
     headquarters: Milan, Italy
-    status: acquired
+    status: merged
     stakeholders:
     - org: playtech
       role: acquisition
@@ -89875,7 +89915,7 @@ organizations:
     type: company
     founded: 2007
     headquarters: London, GBR
-    status: acquired
+    status: merged
     stakeholders:
     - person: ian-hogarth
       role: founder
@@ -90305,8 +90345,8 @@ organizations:
       role: executive
       from: 2002
     - person: peter-thiel
-      role: investor
-      note: Investor
+      role: shareholder
+      note: investor | investor | Investor
     - person: will-bruey
       role: executive
       from: 2012
@@ -90593,8 +90633,8 @@ organizations:
     sector: music streaming
     stakeholders:
     - person: peter-thiel
-      role: investor
-      note: Early investor
+      role: shareholder
+      note: investor | investor | Early investor
     - person: rene-obermann
       role: board
       note: Ex-Director
@@ -90678,9 +90718,9 @@ organizations:
       role: executive
       note: VP Information & Computing Sciences
     - person: martha-pollack
-      role: researcher
+      role: professor
       to: 2000
-      note: Technical Staff, AI Center
+      note: researcher | researcher | Technical Staff, AI Center
   srilankan-airlines:
     name: SriLankan Airlines
     type: airline
@@ -90817,7 +90857,7 @@ organizations:
     name: St Mary's Hospital Medical School
     type: university
     headquarters: London, UK
-    status: inactive
+    status: defunct
     stakeholders:
     - person: andrew-wakefield
       role: alumni
@@ -90990,10 +91030,10 @@ organizations:
       from: 1989
       note: Via Hoover Institution
     - person: jim-clark
-      role: faculty
+      role: professor
       from: 1979
       to: 1982
-      note: Associate Professor, Electrical Engineering. Developed Geometry Engine
+      note: faculty | faculty | Associate Professor, Electrical Engineering. Developed Geometry Engine
     - person: scott-mcnealy
       role: alumni
       note: MBA 1980
@@ -91048,10 +91088,10 @@ organizations:
       role: alumni
       note: BA Economics 1992
     - person: claudine-gay
-      role: faculty
+      role: professor
       from: 2000
       to: 2006
-      note: Assistant Professor of Political Science
+      note: faculty | faculty | Assistant Professor of Political Science
     - person: eric-drexler
       role: fellow
       from: 1988
@@ -91088,13 +91128,13 @@ organizations:
       role: alumni
       note: BS Computer Science; MS Computer Science
     - person: cj-desai
-      role: faculty
-      note: Guest Lecturer, GSB and undergraduate programs
+      role: professor
+      note: faculty | faculty | Guest Lecturer, GSB and undergraduate programs
     - person: lawrence-lessig
-      role: faculty
+      role: professor
       from: 2000
       to: 2009
-      note: Professor of Law, founded Center for Internet and Society
+      note: faculty | faculty | Professor of Law, founded Center for Internet and Society
     - person: kevin-warsh
       role: alumni
       note: BA Public Policy 1992
@@ -91300,8 +91340,8 @@ organizations:
       role: alumni
       note: PhD Computer Science 2010, advisor Andrew Ng
     - person: yoav-shoham
-      role: faculty
-      note: Professor Emeritus Computer Science
+      role: professor
+      note: faculty | faculty | Professor Emeritus Computer Science
     - person: fred-terman
       role: alumni
       from: 1925
@@ -92266,9 +92306,10 @@ organizations:
       to: 1953
       note: Senior Partner
     - person: john-foster-dulles
-      role: ceo
+      role: executive
       from: 1927
       to: 1949
+      note: ceo | ceo
     - person: allan-chapin
       role: partner
       from: 1976
@@ -92834,7 +92875,7 @@ organizations:
     type: company
     founded: 1973
     headquarters: La Hulpe, Belgium
-    status: Active
+    status: active
     sector: Financial Infrastructure
   swimming-australia:
     name: Swimming Australia
@@ -92966,7 +93007,7 @@ organizations:
     type: defense
     founded: 1978
     headquarters: Huntsville, Alabama
-    status: acquired
+    status: merged
     sector: missile defense
     note: Acquired by L-3 Communications 2002
     stakeholders:
@@ -93088,7 +93129,7 @@ organizations:
     name: Tableau Software
     type: company
     headquarters: Seattle, USA
-    status: acquired
+    status: merged
     stakeholders:
     - org: salesforce
       role: owner
@@ -93531,7 +93572,7 @@ organizations:
     type: media
     founded: 1958
     headquarters: Denver, USA
-    status: acquired
+    status: merged
     note: Acquired by AT&T 1999 for $48B
     stakeholders:
     - person: john-malone
@@ -93755,8 +93796,8 @@ organizations:
     - person: yitzhak-kreuzer
       role: alumni
     - person: israel-eldad
-      role: academic
-      note: Professor of Humanistic Studies
+      role: professor
+      note: academic | academic | Professor of Humanistic Studies
     - person: pinhas-buchris
       role: alumni
       note: BSc Computer Science 1991
@@ -93906,9 +93947,9 @@ organizations:
       role: board
       note: Board of Governors
     - person: hillel-schocken
-      role: academic
+      role: professor
       from: 1993
-      note: Professor Azrieli School of Architecture, Director 2004-2008
+      note: academic | academic | Professor Azrieli School of Architecture, Director 2004-2008
     - person: silvan-shalom
       role: alumni
       note: LLB Law, MA Public Policy
@@ -93923,7 +93964,7 @@ organizations:
     type: company
     founded: 1993
     headquarters: Stockholm, Sweden
-    status: attiva
+    status: active
     sector: telecomunicazioni
     stakeholders:
     - person: cristina-stenbeck
@@ -94165,7 +94206,7 @@ organizations:
     type: company
     founded: 2014
     headquarters: Tallinn, Estonia
-    status: acquired
+    status: merged
     stakeholders:
     - person: sten-tamkivi
       role: founder
@@ -95002,7 +95043,7 @@ organizations:
     name: Thalestris Limited
     type: company
     headquarters: Dublin, Ireland
-    status: sanctioned
+    status: active
     stakeholders:
     - person: sara-hamou
       role: board
@@ -95016,7 +95057,7 @@ organizations:
     type: company
     founded: 1989
     headquarters: Reading, UK
-    status: crisis
+    status: active
     sector: utilities
     stakeholders:
     - org: macquarie-group
@@ -95029,7 +95070,7 @@ organizations:
     type: company
     founded: 1995
     headquarters: Cape Town, South Africa
-    status: acquired
+    status: merged
     sector: cybersecurity
     stakeholders:
     - person: mark-shuttleworth
@@ -95282,8 +95323,8 @@ organizations:
       to: 2016
       note: Board of Counselors
     - person: rupert-murdoch
-      role: investor
-      note: Investimento $125M+
+      role: shareholder
+      note: investor | investor | Investimento $125M+
     - person: sam-nunn
       role: board
       from: 2014
@@ -95462,7 +95503,7 @@ organizations:
     name: Thomson-CSF
     type: company
     headquarters: Paris, France
-    status: inactive
+    status: defunct
     stakeholders:
     - person: simeone-ii-bulgaria
       role: executive
@@ -95522,21 +95563,21 @@ organizations:
     status: active
     stakeholders:
     - person: henry-kravis
-      role: investor
+      role: shareholder
       from: 2023
-      note: Part of 3.3% stake acquisition (5 investors), Jan 2023
+      note: investor | investor | Part of 3.3% stake acquisition (5 investors), Jan 2023
     - person: xavier-niel
-      role: investor
+      role: shareholder
       from: 2023
-      note: Part of 3.3% stake acquisition (5 investors), Jan 2023
+      note: investor | investor | Part of 3.3% stake acquisition (5 investors), Jan 2023
     - person: mukesh-ambani
-      role: investor
+      role: shareholder
       from: 2023
-      note: Part of 3.3% stake acquisition (5 investors), Jan 2023
+      note: investor | investor | Part of 3.3% stake acquisition (5 investors), Jan 2023
     - person: jorge-paulo-lemann
-      role: investor
+      role: shareholder
       from: 2023
-      note: Part of 3.3% stake acquisition (5 investors), Jan 2023
+      note: investor | investor | Part of 3.3% stake acquisition (5 investors), Jan 2023
     - person: joshua-kushner
       role: founder
       from: 2009
@@ -95546,9 +95587,9 @@ organizations:
       from: 2022
       note: Executive Chairman, primo nella storia del fondo. Ex-Dean HBS
     - person: bob-iger
-      role: investor
+      role: shareholder
       from: 2023
-      note: Part of 3.3% stake acquisition (5 investors), Jan 2023
+      note: investor | investor | Part of 3.3% stake acquisition (5 investors), Jan 2023
   thsti:
     name: Translational Health Science and Technology Institute
     type: agency
@@ -95993,7 +96034,7 @@ organizations:
     name: Tokyo Shinbu Gakko
     type: university
     headquarters: Tokyo, Japan
-    status: disbanded
+    status: dissolved
     stakeholders:
     - person: chiang-kai-shek
       role: alumni
@@ -96430,9 +96471,10 @@ organizations:
     founded: 1789
     stakeholders:
     - person: andrew-mellon
-      role: secretary
+      role: official
       from: 1921
       to: 1932
+      note: secretary | secretary
   treccani:
     name: Istituto della Enciclopedia Italiana Treccani
     type: company
@@ -96451,7 +96493,7 @@ organizations:
     type: bank
     founded: 1953
     headquarters: Toronto, Canada
-    status: inactive
+    status: defunct
     note: S.G. Warburg Canadian subsidiary
     stakeholders:
     - person: anthony-griffin
@@ -97285,10 +97327,10 @@ organizations:
       role: alumni
       note: BS Computer Science 1988
     - person: daniel-dennett
-      role: faculty
+      role: professor
       from: 1971
       to: 2024
-      note: Austin B. Fletcher Professor of Philosophy, co-director Center for Cognitive Studies
+      note: faculty | faculty | Austin B. Fletcher Professor of Philosophy, co-director Center for Cognitive Studies
     - person: vivek-shah
       role: alumni
       note: BA Political Science 1994
@@ -98053,10 +98095,10 @@ organizations:
       role: alumni
       note: JD 1993
     - person: lawrence-lessig
-      role: faculty
+      role: professor
       from: 1991
       to: 1997
-      note: Professor of Law
+      note: faculty | faculty | Professor of Law
   ucl:
     name: University College London (UCL)
     type: university
@@ -98104,10 +98146,10 @@ organizations:
       role: alumni
       note: Dropped out 1961
     - person: bertrand-russell
-      role: faculty
+      role: professor
       from: 1939
       to: 1940
-      note: Visiting Professor of Philosophy
+      note: faculty | faculty | Visiting Professor of Philosophy
     - person: eva-andersson-dubin
       role: alumni
       note: MD 1989
@@ -98171,15 +98213,15 @@ organizations:
       role: alumni
       note: Residency Internal Medicine
     - person: mark-feinberg
-      role: faculty
-      note: Assistant Professor of Medicine and Microbiology; Director Virology Research Lab, SF General
+      role: professor
+      note: faculty | faculty | Assistant Professor of Medicine and Microbiology; Director Virology Research Lab, SF General
     - person: eric-goosby
-      role: faculty
+      role: professor
       from: 1978
-      note: MD 1978; Professor of Medicine; Director Center for Global Health Delivery
+      note: faculty | faculty | MD 1978; Professor of Medicine; Director Center for Global Health Delivery
     - person: rajeev-venkayya
-      role: faculty
-      note: Assistant Professor, Pulmonary & Critical Care; Co-Director MICU SF General
+      role: professor
+      note: faculty | faculty | Assistant Professor, Pulmonary & Critical Care; Co-Director MICU SF General
   udc-qatar:
     name: United Development Company
     type: company
@@ -98630,10 +98672,10 @@ organizations:
       from: 1945
       note: Firmò la Carta delle Nazioni Unite (26 giu 1945)
     - person: christoph-heusgen
-      role: ambassador
+      role: diplomat
       from: 2017
       to: 2021
-      note: Rappresentante permanente Germania alle Nazioni Unite
+      note: ambassador | ambassador | Rappresentante permanente Germania alle Nazioni Unite
   un-foundation:
     type: foundation
     headquarters: Washington DC, USA
@@ -98744,9 +98786,9 @@ organizations:
       role: alumni
       note: MD 1977 with honors
     - person: ralph-baric
-      role: academic
+      role: professor
       from: 1986
-      note: William R. Kenan Jr. Distinguished Professor, Epidemiology
+      note: academic | academic | William R. Kenan Jr. Distinguished Professor, Epidemiology
     - person: julian-robertson
       role: alumni
       note: BSBA 1955
@@ -99210,8 +99252,8 @@ organizations:
       to: 2001
       note: Commander
     - person: amir-elichai
-      role: officer
-      note: Former officer, signals intelligence
+      role: official
+      note: officer | officer | Former officer, signals intelligence
   united-airlines:
     tagline: Terza compagnia aerea USA per passeggeri, hub Chicago, membro fondatore Star Alliance
     name: United Airlines
@@ -99303,10 +99345,10 @@ organizations:
       to: 2018
       note: High Commissioner for Human Rights
     - person: philip-klutznick
-      role: ambassador
+      role: diplomat
       from: 1957
       to: 1962
-      note: UN delegate 1957, Ambassador to ECOSOC 1961-62
+      note: ambassador | ambassador | UN delegate 1957, Ambassador to ECOSOC 1961-62
     - person: henry-monsky
       role: advisor
       from: 1945
@@ -99539,8 +99581,8 @@ organizations:
     status: active
     stakeholders:
     - person: nick-szabo
-      role: faculty
-      note: Honorary Professor
+      role: professor
+      note: faculty | faculty | Honorary Professor
   universidad-javeriana:
     name: Pontificia Universidad Javeriana
     type: university
@@ -99859,8 +99901,8 @@ organizations:
     status: active
     stakeholders:
     - person: maria-chiara-pievatolo
-      role: faculty
-      note: Professoressa associata di filosofia politica, Dip. Scienze Politiche
+      role: professor
+      note: faculty | faculty | Professoressa associata di filosofia politica, Dip. Scienze Politiche
   universita-roma:
     name: Sapienza Università di Roma
     type: university
@@ -99880,9 +99922,9 @@ organizations:
     status: active
     stakeholders:
     - person: carlo-lottieri
-      role: faculty
+      role: professor
       from: 2003
-      note: Ricercatore poi Professore di Filosofia del Diritto
+      note: faculty | faculty | Ricercatore poi Professore di Filosofia del Diritto
     - person: stefano-bisi
       role: alumni
       note: Laurea Scienze Amministrazione, Fac. Scienze Politiche
@@ -99915,9 +99957,9 @@ organizations:
       role: alumni
       note: Laurea Economia 1978
     - person: luigi-einaudi
-      role: faculty
+      role: professor
       from: 1902
-      note: Professore di Scienza delle Finanze
+      note: faculty | faculty | Professore di Scienza delle Finanze
     - person: luigi-einaudi
       role: alumni
       note: Laurea in Giurisprudenza 1895
@@ -99953,8 +99995,8 @@ organizations:
     status: active
     stakeholders:
     - person: carlo-lottieri
-      role: faculty
-      note: Professore di Filosofia Politica
+      role: professor
+      note: faculty | faculty | Professore di Filosofia Politica
   universitat-bonn:
     name: Universitat Bonn
     type: university
@@ -100056,7 +100098,7 @@ organizations:
     name: University of Asmara
     type: university
     headquarters: Asmara, Eritrea
-    status: closed
+    status: defunct
     stakeholders:
     - person: tedros-adhanom
       role: alumni
@@ -100141,10 +100183,10 @@ organizations:
     status: active
     stakeholders:
     - person: karl-popper
-      role: academic
+      role: professor
       from: 1937
       to: 1945
-      note: Lecturer in Philosophy
+      note: academic | academic | Lecturer in Philosophy
   university-cape-town:
     name: University of Cape Town
     type: university
@@ -100163,8 +100205,8 @@ organizations:
       role: alumni
       note: BSc Hons Computer Science 1977
     - person: linda-gail-bekker
-      role: faculty
-      note: MBChB 1987; PhD 2000; Professor of Medicine; Deputy Director Desmond Tutu HIV Centre, IDM
+      role: professor
+      note: faculty | faculty | MBChB 1987; PhD 2000; Professor of Medicine; Deputy Director Desmond Tutu HIV Centre, IDM
     - person: giles-douglas
       role: alumni
       note: CA (ICAEW) 1996
@@ -100189,10 +100231,10 @@ organizations:
       to: 1969
       note: Dean, Graduate School of Business (1962-1969)
     - person: friedrich-hayek
-      role: academic
+      role: professor
       from: 1950
       to: 1962
-      note: Committee on Social Thought
+      note: academic | academic | Committee on Social Thought
     - person: antonio-martino
       role: alumni
       note: Postgraduate Economics 1966-68, allievo di Milton Friedman
@@ -100321,15 +100363,15 @@ organizations:
       role: alumni
       note: PhD Chemistry 1899, magna cum laude
     - person: friedrich-hayek
-      role: academic
+      role: professor
       from: 1962
       to: 1968
-      note: Professor of Economics
+      note: academic | academic | Professor of Economics
     - person: max-weber
-      role: academic
+      role: professor
       from: 1894
       to: 1896
-      note: Professor of Political Economy
+      note: academic | academic | Professor of Political Economy
   university-fribourg:
     name: University of Fribourg
     type: university
@@ -100385,10 +100427,10 @@ organizations:
       role: alumni
       note: Law studies
     - person: max-weber
-      role: academic
+      role: professor
       from: 1896
       to: 1903
-      note: Professor of Political Economy
+      note: academic | academic | Professor of Political Economy
   university-houston:
     name: University of Houston
     type: university
@@ -100508,10 +100550,10 @@ organizations:
     status: active
     stakeholders:
     - person: chaim-weizmann
-      role: faculty
+      role: professor
       from: 1904
       to: 1916
-      note: Senior Lecturer Chemistry, acetone fermentation research
+      note: faculty | faculty | Senior Lecturer Chemistry, acetone fermentation research
   university-mannheim:
     name: University of Mannheim
     type: university
@@ -100574,10 +100616,10 @@ organizations:
       role: alumni
       note: Storia ed economia 1919-1925, senza diploma. Allievo di Karl Haushofer (geopolitica)
     - person: max-weber
-      role: academic
+      role: professor
       from: 1919
       to: 1920
-      note: Professor of Political Economy
+      note: academic | academic | Professor of Political Economy
   university-namur:
     name: University of Namur
     type: university
@@ -100867,15 +100909,15 @@ organizations:
       role: alumni
       note: Physics ~1985, dropout
     - person: bertrand-russell
-      role: faculty
+      role: professor
       from: 1938
       to: 1939
-      note: Visiting Professor of Philosophy
+      note: faculty | faculty | Visiting Professor of Philosophy
     - person: nicholas-christakis
-      role: academic
+      role: professor
       from: 1995
       to: 2001
-      note: Professor of Sociology and Medicine
+      note: academic | academic | Professor of Sociology and Medicine
     - person: joshua-cooper-ramo
       role: alumni
       note: BA Latin American Studies
@@ -100891,18 +100933,18 @@ organizations:
       role: alumni
       note: MA Economics 1933
     - person: milton-friedman
-      role: academic
+      role: professor
       from: 1946
       to: 1977
-      note: Paul Snowden Russell Distinguished Service Professor
+      note: academic | academic | Paul Snowden Russell Distinguished Service Professor
     - person: george-stigler
       role: alumni
       note: PhD Economics 1938
     - person: george-stigler
-      role: academic
+      role: professor
       from: 1958
       to: 1991
-      note: Charles R. Walgreen Distinguished Service Professor
+      note: academic | academic | Charles R. Walgreen Distinguished Service Professor
     - person: james-buchanan
       role: alumni
       note: PhD Economics 1948
@@ -100910,15 +100952,15 @@ organizations:
       role: alumni
       note: PhD Economics 1955
     - person: gary-becker
-      role: academic
+      role: professor
       from: 1970
       to: 2014
-      note: University Professor; Economics and Sociology
+      note: academic | academic | University Professor; Economics and Sociology
     - person: enrico-fermi
-      role: faculty
+      role: professor
       from: 1942
       to: 1954
-      note: Professore; Chicago Pile-1 (2 dic 1942); Institute for Nuclear Studies
+      note: faculty | faculty | Professore; Chicago Pile-1 (2 dic 1942); Institute for Nuclear Studies
   university-of-cincinnati:
     name: University of Cincinnati
     type: university
@@ -101261,8 +101303,8 @@ organizations:
       role: member
       note: BS Computer Science & Mathematics 1993
     - person: samba-sow
-      role: faculty
-      note: Adjunct Professor, School of Medicine
+      role: professor
+      note: faculty | faculty | Adjunct Professor, School of Medicine
   university-of-melbourne:
     name: University of Melbourne
     type: university
@@ -101508,9 +101550,9 @@ organizations:
       role: alumni
       note: BA English 1957
     - person: martha-pollack
-      role: academic
+      role: professor
       to: 2000
-      note: Faculty, Computer Science
+      note: academic | academic | Faculty, Computer Science
   university-of-potsdam:
     name: University of Potsdam
     type: university
@@ -101660,9 +101702,9 @@ organizations:
       role: alumni
       note: BSc Computer Science 2016
     - person: geoffrey-hinton
-      role: faculty
+      role: professor
       from: 1987
-      note: Professor Emeritus, Computer Science
+      note: faculty | faculty | Professor Emeritus, Computer Science
     - person: jeff-skoll
       role: alumni
       note: BSc Electrical Engineering 1987
@@ -101854,10 +101896,10 @@ organizations:
     name: Università degli Studi di Palermo
     stakeholders:
     - person: michele-geraci
-      role: student
+      role: alumni
       from: 1984
       to: 1990
-      note: Laurea con lode in Ingegneria Elettronica
+      note: student | student | Laurea con lode in Ingegneria Elettronica
   university-panama:
     name: University of Panama
     type: university
@@ -101918,10 +101960,10 @@ organizations:
     status: active
     stakeholders:
     - person: friedrich-hayek
-      role: academic
+      role: professor
       from: 1968
       to: 1977
-      note: Honorary Professor
+      note: academic | academic | Honorary Professor
     - person: alois-von-liechtenstein
       role: alumni
       note: Master in Jurisprudence 1993
@@ -101938,10 +101980,10 @@ organizations:
       role: alumni
       note: JD
     - person: edwin-meese
-      role: academic
+      role: professor
       from: 1977
       to: 1981
-      note: Professor of Law; Director Center for Criminal Justice Policy
+      note: academic | academic | Professor of Law; Director Center for Criminal Justice Policy
   university-south-australia:
     name: University of South Australia
     type: university
@@ -102073,10 +102115,10 @@ organizations:
       role: alumni
       note: Dr. Jur. et rer. pol. 1906
     - person: ludwig-von-mises
-      role: academic
+      role: professor
       from: 1913
       to: 1934
-      note: Privatdozent (unpaid professor)
+      note: academic | academic | Privatdozent (unpaid professor)
     - person: karl-popper
       role: alumni
       note: PhD Psychology 1928
@@ -102224,8 +102266,8 @@ organizations:
       to: 2004
       note: MS Engineering
     - person: zeid-raad-al-hussein
-      role: academic
-      note: Perry World House Professor of Practice of Law and Human Rights
+      role: professor
+      note: academic | academic | Perry World House Professor of Practice of Law and Human Rights
     - person: mark-feinberg
       role: alumni
       note: BA
@@ -102729,10 +102771,10 @@ organizations:
       role: alumni
       note: BFA Film 1966
     - person: ralph-baric
-      role: academic
+      role: professor
       from: 1982
       to: 1986
-      note: Postdoctoral Fellow, Virology and Immunology
+      note: academic | academic | Postdoctoral Fellow, Virology and Immunology
     - person: soumya-swaminathan
       role: alumni
       from: 1987
@@ -102748,10 +102790,10 @@ organizations:
       role: board
       note: Trustee
     - person: palmer-luckey
-      role: researcher
+      role: professor
       from: 2011
       to: 2012
-      note: Part-time engineer, Mixed Reality Lab (MxR), Institute for Creative Technologies
+      note: researcher | researcher | Part-time engineer, Mixed Reality Lab (MxR), Institute for Creative Technologies
     - person: joe-chen
       role: alumni
       note: MBA
@@ -102952,8 +102994,8 @@ organizations:
     status: active
     stakeholders:
     - person: anthony-di-iorio
-      role: faculty
-      note: Adjunct Professor, Faculty of Law
+      role: professor
+      note: faculty | faculty | Adjunct Professor, Faculty of Law
   uva-darden:
     name: University of Virginia Darden School of Business
     type: university
@@ -103006,10 +103048,10 @@ organizations:
       from: 2010
       note: Spinoff da Thiel Capital, focus fintech internazionale
     - person: jeffrey-epstein
-      role: investor
+      role: shareholder
       from: 2015
       to: 2019
-      note: LP via Southern Trust Company, $40M in 2 fondi (2015-2016), ora vale ~$170M
+      note: investor | investor | LP via Southern Trust Company, $40M in 2 fondi (2015-2016), ora vale ~$170M
     - person: andrew-mccormack
       role: founder
       from: 2010
@@ -104010,7 +104052,7 @@ organizations:
     type: company
     founded: 1998
     headquarters: Palo Alto, California, USA
-    status: acquired
+    status: merged
     sector: software
     note: Acquired by Broadcom Nov 2023 for $69B. EMC acquisition 2004 ($625M), Dell spin-off 2021.
     stakeholders:
@@ -104064,7 +104106,7 @@ organizations:
     type: company
     founded: 1602
     headquarters: Amsterdam, Netherlands
-    status: historical
+    status: defunct
     stakeholders:
     - person: isaac-de-pinto
       role: executive
@@ -104818,7 +104860,7 @@ organizations:
     name: Ottoman War Academy (Harbiye)
     type: university
     headquarters: Istanbul, Ottoman Empire
-    status: inactive
+    status: defunct
     stakeholders:
     - person: mustafa-kemal-ataturk
       role: alumni
@@ -105217,8 +105259,8 @@ organizations:
       to: 2018
       note: Founder, Editor-at-Large
     - person: tucker-carlson
-      role: media
-      note: Staff writer, early career
+      role: journalist
+      note: media | media | Staff writer, early career
   wef:
     tagline: Il raduno annuale dell'elite globale a Davos - "Forse il network piu' importante del pianeta
     name: World Economic Forum
@@ -106836,8 +106878,8 @@ organizations:
       role: member
       note: International Business Council; Co-Chair Davos 2014
     - person: ngozi-okonjo-iweala
-      role: speaker
-      note: Regular contributor and speaker at Davos
+      role: legislator
+      note: speaker | speaker | Regular contributor and speaker at Davos
     - person: olivier-colom
       role: member
       note: WEF profile
@@ -107697,8 +107739,8 @@ organizations:
     status: active
     stakeholders:
     - person: karl-ludwig-kley
-      role: faculty
-      note: Honorary Professor
+      role: professor
+      note: faculty | faculty | Honorary Professor
   whu-otto-beisheim:
     name: WHU – Otto Beisheim School of Management
     type: university
@@ -107714,7 +107756,7 @@ organizations:
     type: company
     founded: 1621
     headquarters: Amsterdam, Netherlands
-    status: historical
+    status: defunct
     stakeholders:
     - person: isaac-de-pinto
       role: board
@@ -108058,7 +108100,7 @@ organizations:
     type: company
     founded: 2017
     headquarters: Limassol, Cyprus
-    status: inactive
+    status: defunct
     stakeholders:
     - person: tal-dilian
       role: founder
@@ -108097,7 +108139,7 @@ organizations:
     type: company
     founded: 2020
     headquarters: Tel Aviv, Israel
-    status: acquired
+    status: merged
     sector: cloud security
     stakeholders:
     - person: assaf-rappaport
@@ -108150,7 +108192,7 @@ organizations:
     type: company
     founded: 2023
     headquarters: Battle Creek, USA
-    status: acquired
+    status: merged
     sector: Cereal
     stakeholders:
     - person: gary-pilnick
@@ -108173,7 +108215,7 @@ organizations:
     type: privateequity
     founded: 2000
     headquarters: New York, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: wilbur-ross
       role: founder
@@ -108285,10 +108327,10 @@ organizations:
       from: 1944
       note: Chairman della commissione World Bank a Bretton Woods
     - person: nickolay-mladenov
-      role: staff
+      role: employee
       from: 1998
       to: 1999
-      note: Program Coordinator, Social Dept Bulgaria
+      note: staff | staff | Program Coordinator, Social Dept Bulgaria
     - person: tim-evans
       role: executive
       from: 2013
@@ -108337,9 +108379,9 @@ organizations:
       to: 2018
       note: President Delivery Unit, crisis finance Ebola
     - person: paolo-rocca
-      role: staff
+      role: employee
       to: 1985
-      note: Assistant to Executive Director
+      note: staff | staff | Assistant to Executive Director
   world-dementia-council:
     name: World Dementia Council
     type: agency
@@ -108871,18 +108913,18 @@ organizations:
       role: alumni
       note: PhD
     - person: gao-shangyin
-      role: academic
+      role: professor
       from: 1935
       to: 1989
-      note: Professor, Vice President
+      note: academic | academic | Professor, Vice President
     - person: chen-huagui
-      role: academic
+      role: professor
       from: 1947
-      note: Professor, Founded Agricultural Chemistry Dept
+      note: academic | academic | Professor, Founded Agricultural Chemistry Dept
     - person: shu-hongbing
-      role: academic
+      role: professor
       from: 2004
-      note: Dean College of Life Sciences 2005-2013, Vice President 2013-
+      note: academic | academic | Dean College of Life Sciences 2005-2013, Vice President 2013-
   wwf:
     name: World Wildlife Fund
     type: foundation
@@ -109111,7 +109153,7 @@ organizations:
     type: company
     founded: 2023
     headquarters: New York, USA
-    status: acquired
+    status: merged
     sector: software
     stakeholders:
     - org: herodevs
@@ -109561,10 +109603,10 @@ organizations:
       role: alumni
       note: BA American Studies 1991
     - person: alondra-nelson
-      role: faculty
+      role: professor
       from: 2003
       to: 2009
-      note: Assistant/Associate Professor African American Studies & Sociology
+      note: faculty | faculty | Assistant/Associate Professor African American Studies & Sociology
     - person: kevin-ryan
       role: alumni
       note: BA 1985, Fellow Trumbull College
@@ -109578,18 +109620,18 @@ organizations:
       role: alumni
       note: JD 1989
     - person: nick-bostrom
-      role: academic
+      role: professor
       from: 2000
       to: 2002
-      note: Postdoctoral researcher
+      note: academic | academic | Postdoctoral researcher
     - person: nicholas-christakis
       role: alumni
       note: BS 1984
     - person: nicholas-christakis
-      role: academic
+      role: professor
       from: 2013
-      note: Sterling Professor of Social and Natural Science, Director Human Nature Lab, Co-Director Yale Institute for Network
-        Science
+      note: academic | academic | Sterling Professor of Social and Natural Science, Director Human Nature Lab, Co-Director
+        Yale Institute for Network Science
     - person: ronan-farrow
       role: alumni
       note: JD 2009
@@ -109795,7 +109837,7 @@ organizations:
     type: company
     founded: 2008
     headquarters: San Francisco, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: david-sacks
       role: founder
@@ -109958,15 +110000,15 @@ organizations:
       role: alumni
       note: BA 1960 (valedictorian, summa cum laude), Semicha (Rabbi Soloveitchik), MA Jewish History
     - person: shlomo-riskin
-      role: academic
+      role: professor
       from: 1963
       to: 1977
-      note: Associate Professor of Tanakh and Talmud
+      note: academic | academic | Associate Professor of Tanakh and Talmud
     - person: joseph-soloveitchik
-      role: academic
+      role: professor
       from: 1941
       to: 1985
-      note: Rosh Yeshiva, RIETS; ordained ~2000 rabbis
+      note: academic | academic | Rosh Yeshiva, RIETS; ordained ~2000 rabbis
     - person: kenneth-brander
       role: alumni
       note: BA 1984, Yeshiva College; Semicha RIETS 1986
@@ -110374,7 +110416,7 @@ organizations:
     type: company
     founded: 2012
     headquarters: San Francisco, USA
-    status: acquired
+    status: merged
     stakeholders:
     - person: peter-thiel
       role: board
@@ -110439,10 +110481,10 @@ organizations:
       role: alumni
       note: BE Electronic Information Engineering 2007, ME Information and Communication Engineering 2010
     - person: michele-geraci
-      role: faculty
+      role: professor
       from: 2008
       to: 2018
-      note: Adjunct Professor of Finance
+      note: faculty | faculty | Adjunct Professor of Finance
   zhenfund:
     name: ZhenFund
     type: privateequity
@@ -110609,7 +110651,7 @@ organizations:
     type: company
     founded: 1997
     headquarters: San Francisco, USA
-    status: acquired
+    status: merged
     sector: cybersecurity
     stakeholders:
     - org: check-point

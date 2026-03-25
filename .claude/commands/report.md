@@ -51,9 +51,16 @@ ORDER BY members DESC
 MATCH (g:Organization:Government)
 WHERE g.id CONTAINS '{paese}'
 OPTIONAL MATCH (p:Person)-[r:AFFILIATED_WITH]->(g)
-WHERE r.role IN ['leader', 'minister']
+WHERE r.role IN ['leader', 'minister', 'sovereign', 'noble', 'clergy', 'military']
 RETURN g.id, p.id, p.name, r.role, r.from, r.to
 ORDER BY r.from DESC
+
+// Stati storici nel territorio
+MATCH (o:Organization)
+WHERE (o:Kingdom OR o:Empire OR o:CityState OR o:Principality)
+AND o.headquarters CONTAINS '{PAESE}'
+RETURN o.id, labels(o), o.founded, o.dissolved
+ORDER BY o.founded
 
 // Eventi nel paese
 MATCH (e:Event)

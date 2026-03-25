@@ -2,9 +2,9 @@
 
 ## Obiettivo
 
-Manuale di storia 1945-oggi attraverso i **soggetti del potere reale**: famiglie, dinastie, reti finanziarie, forum transnazionali, individui-chiave.
+Manuale di storia dalle origini delle reti di potere documentabili a oggi, attraverso i **soggetti del potere reale**: famiglie, dinastie, reti finanziarie, forum transnazionali, individui-chiave.
 
-**Tesi**: Il potere post-1945 e' transnazionale, finanziario, reticolare, dinastico, tecnocratico.
+**Tesi**: Il potere e' transnazionale, finanziario, reticolare e dinastico fin dall'eta' moderna; la componente tecnocratica si aggiunge nel XX secolo.
 
 ---
 
@@ -283,7 +283,7 @@ Events (fatti) ──────► Neo4j ◄────── Schede (entita'
 ### Indici
 
 I report hanno due indici in `reports/`:
-- `00-chronology-index.md` - Timeline 1942-oggi con link a eventi e report
+- `00-chronology-index.md` - Timeline con link a eventi e report
 - `00-thematic-index.md` - Raggruppamento per tema
 
 ---

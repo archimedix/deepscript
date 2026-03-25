@@ -2,7 +2,7 @@
 
 > Navigazione per tema attraverso i report DeepScript
 
-Questo indice organizza tutti i report per area tematica, permettendo di esplorare il potere post-1945 attraverso lenti analitiche diverse.
+Questo indice organizza tutti i report per area tematica, permettendo di esplorare le reti di potere attraverso lenti analitiche diverse.
 
 ---
 
